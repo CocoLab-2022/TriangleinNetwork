@@ -11,14 +11,13 @@ from itertools import combinations
 
 # Author: Yi Wang (Oliver)
 
-# fill in your token
-Auth_token = os.getenv('GITHUB_TOKEN', '')
-Auth_token_0 = os.getenv('GITHUB_TOKEN', '')
-Auth_token_1 = os.getenv('GITHUB_TOKEN', '')
-Auth_token_2 = os.getenv('GITHUB_TOKEN', '')
-Auth_token_3 = os.getenv('GITHUB_TOKEN', '')
-Auth_token_4 = os.getenv('GITHUB_TOKEN', '')
-Auth_token_5 = os.getenv('GITHUB_TOKEN', '')
+Auth_token = os.getenv('GITHUB_TOKEN', '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')
+Auth_token_0 = os.getenv('GITHUB_TOKEN', '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')
+Auth_token_1 = os.getenv('GITHUB_TOKEN', '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')
+Auth_token_2 = os.getenv('GITHUB_TOKEN', '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')
+Auth_token_3 = os.getenv('GITHUB_TOKEN', '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')
+Auth_token_4 = os.getenv('GITHUB_TOKEN', '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')
+Auth_token_5 = os.getenv('GITHUB_TOKEN', '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')
 IR = Github(Auth_token_1)
 
 
