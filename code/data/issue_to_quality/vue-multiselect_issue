@@ -1,0 +1,852 @@
+{'issuenumber': 1529, 'title': 'Name gets new value just on "Enter" not selecting with mouse', 'state': 'closed', 'created_at': '2022-04-26T00:38:23Z', 'closed_at': '2022-04-26T22:52:20Z', 'labels': []}
+{'issuenumber': 1528, 'title': "I can't add my own styling and I can't add a ref either.", 'state': 'closed', 'created_at': '2022-03-29T18:40:20Z', 'closed_at': '2022-07-01T16:39:41Z', 'labels': []}
+{'issuenumber': 1526, 'title': 'Input field not working in action slots', 'state': 'closed', 'created_at': '2022-03-14T08:27:26Z', 'closed_at': '2022-07-08T16:55:26Z', 'labels': []}
+{'issuenumber': 1514, 'title': 'Weird space when use asynchronous select', 'state': 'closed', 'created_at': '2022-01-12T09:46:41Z', 'closed_at': '2022-07-18T07:48:17Z', 'labels': []}
+{'issuenumber': 1511, 'title': 'How in vue-multiselect modify plugun labels?', 'state': 'closed', 'created_at': '2022-01-03T20:49:57Z', 'closed_at': '2022-01-04T04:53:26Z', 'labels': []}
+{'issuenumber': 1506, 'title': 'Default placeholder not shown', 'state': 'closed', 'created_at': '2021-12-09T16:07:28Z', 'closed_at': '2021-12-09T16:09:12Z', 'labels': []}
+{'issuenumber': 1502, 'title': 'Separate custom search field', 'state': 'closed', 'created_at': '2021-11-29T11:43:07Z', 'closed_at': '2022-03-07T17:08:45Z', 'labels': []}
+{'issuenumber': 1501, 'title': 'Missing label for the 2.1.7 release. ', 'state': 'closed', 'created_at': '2021-11-23T21:46:33Z', 'closed_at': '2021-11-23T21:48:41Z', 'labels': []}
+{'issuenumber': 1496, 'title': 'Drop down is cut off in short modal window.', 'state': 'closed', 'created_at': '2021-10-13T13:10:39Z', 'closed_at': '2021-11-29T21:46:17Z', 'labels': []}
+{'issuenumber': 1492, 'title': 'V-model of recursive, dynamically created components containing select', 'state': 'closed', 'created_at': '2021-09-29T15:01:42Z', 'closed_at': '2021-09-29T16:41:22Z', 'labels': []}
+{'issuenumber': 1486, 'title': 'Override style with select disabled group label ', 'state': 'closed', 'created_at': '2021-09-23T07:03:42Z', 'closed_at': '2021-09-23T07:17:48Z', 'labels': []}
+{'issuenumber': 1482, 'title': 'Enter does not de-select current selection', 'state': 'closed', 'created_at': '2021-09-17T20:56:38Z', 'closed_at': '2021-09-20T13:23:03Z', 'labels': []}
+{'issuenumber': 1481, 'title': 'Using slots with Multiselect & Vue 3', 'state': 'closed', 'created_at': '2021-09-16T16:47:26Z', 'closed_at': '2021-09-17T14:39:59Z', 'labels': []}
+{'issuenumber': 1478, 'title': 'Using CDN with Vue3', 'state': 'closed', 'created_at': '2021-09-14T20:36:45Z', 'closed_at': '2021-09-15T07:24:22Z', 'labels': []}
+{'issuenumber': 1477, 'title': 'github repo could not resolve dependency if forced or legacy unit tests wont work', 'state': 'closed', 'created_at': '2021-09-14T07:41:42Z', 'closed_at': '2021-09-17T16:28:25Z', 'labels': []}
+{'issuenumber': 1472, 'title': 'Asynchronous call twice ', 'state': 'closed', 'created_at': '2021-08-13T05:08:12Z', 'closed_at': '2021-08-13T07:45:43Z', 'labels': []}
+{'issuenumber': 1471, 'title': '[3.0 change] please have :multiple="true" by default', 'state': 'closed', 'created_at': '2021-08-11T21:05:24Z', 'closed_at': '2021-09-17T14:54:12Z', 'labels': []}
+{'issuenumber': 1469, 'title': 'vue multiselect - cannot clear or edit data saved from local storage', 'state': 'closed', 'created_at': '2021-08-10T16:59:50Z', 'closed_at': '2021-08-14T11:52:35Z', 'labels': []}
+{'issuenumber': 1468, 'title': 'ClearOnSelect and Multiple props can’t be both set to false.', 'state': 'closed', 'created_at': '2021-08-06T10:23:28Z', 'closed_at': '2021-08-06T10:35:35Z', 'labels': []}
+{'issuenumber': 1465, 'title': 'Multiple selection tags, deselect/remove all if specific option selected. ', 'state': 'closed', 'created_at': '2021-07-30T11:12:14Z', 'closed_at': '2021-07-30T11:57:09Z', 'labels': []}
+{'issuenumber': 1463, 'title': 'List shows "Selected" by every item.', 'state': 'closed', 'created_at': '2021-07-27T14:42:41Z', 'closed_at': '2021-09-08T13:36:23Z', 'labels': []}
+{'issuenumber': 1459, 'title': 'Remove groupLabel when all childs selected', 'state': 'closed', 'created_at': '2021-07-18T21:08:05Z', 'closed_at': '2021-07-19T09:20:51Z', 'labels': []}
+{'issuenumber': 1457, 'title': 'Is there any way to use a template for tags (just like multiselect option template)', 'state': 'closed', 'created_at': '2021-07-09T16:11:24Z', 'closed_at': '2021-07-10T05:05:24Z', 'labels': []}
+{'issuenumber': 1455, 'title': 'Positioned the search bar before tags', 'state': 'closed', 'created_at': '2021-06-30T16:24:54Z', 'closed_at': '2021-07-01T20:20:25Z', 'labels': []}
+{'issuenumber': 1453, 'title': '"Select Option" being hidden when embedding in other divs', 'state': 'closed', 'created_at': '2021-06-24T20:27:58Z', 'closed_at': '2021-06-24T20:56:13Z', 'labels': []}
+{'issuenumber': 1452, 'title': 'Vue 3 @input event not working', 'state': 'closed', 'created_at': '2021-06-24T15:42:33Z', 'closed_at': '2021-07-16T15:34:07Z', 'labels': []}
+{'issuenumber': 1451, 'title': 'vue3 slot option', 'state': 'closed', 'created_at': '2021-06-24T12:19:18Z', 'closed_at': '2021-06-24T15:10:24Z', 'labels': []}
+{'issuenumber': 1450, 'title': 'Multiselect without tags?', 'state': 'closed', 'created_at': '2021-06-23T12:29:57Z', 'closed_at': '2021-06-24T18:33:22Z', 'labels': []}
+{'issuenumber': 1449, 'title': 'Not showing all the options; They refresh only sometimes and sometimes they show "No results" message, even though "options" array is not empty', 'state': 'closed', 'created_at': '2021-06-20T17:27:42Z', 'closed_at': '2021-06-21T00:44:24Z', 'labels': []}
+{'issuenumber': 1448, 'title': 'Alters other inputs as well', 'state': 'closed', 'created_at': '2021-06-18T03:28:58Z', 'closed_at': '2021-06-18T14:10:03Z', 'labels': []}
+{'issuenumber': 1446, 'title': 'Option groups having children with the same name, show bold if one is selected', 'state': 'closed', 'created_at': '2021-06-04T23:28:31Z', 'closed_at': '2021-06-05T12:50:54Z', 'labels': []}
+{'issuenumber': 1442, 'title': 'Can we have customizable classname of the module oder prefixes?', 'state': 'closed', 'created_at': '2021-05-28T13:15:15Z', 'closed_at': '2021-05-28T15:12:13Z', 'labels': []}
+{'issuenumber': 1441, 'title': 'Tired of CSS debugging', 'state': 'closed', 'created_at': '2021-05-27T15:28:11Z', 'closed_at': '2021-05-28T07:29:41Z', 'labels': []}
+{'issuenumber': 1439, 'title': 'Can we get a JSFiddle for vue-multiselect 3.0 branch with Vue 3?', 'state': 'closed', 'created_at': '2021-05-23T21:06:16Z', 'closed_at': '2021-06-04T15:48:44Z', 'labels': {'name': '3.0'}}
+{'issuenumber': 1436, 'title': 'not able to change the "no result found" text', 'state': 'closed', 'created_at': '2021-05-18T09:39:37Z', 'closed_at': '2021-05-21T15:11:49Z', 'labels': []}
+{'issuenumber': 1434, 'title': "I'm not able to set automplete with a value different from 'nope'", 'state': 'closed', 'created_at': '2021-05-17T09:51:17Z', 'closed_at': '2021-05-21T15:26:19Z', 'labels': []}
+{'issuenumber': 1423, 'title': 'Multiselect Search Suggestion not clearing even after text are not present', 'state': 'closed', 'created_at': '2021-04-29T12:06:47Z', 'closed_at': '2021-05-16T10:25:58Z', 'labels': {'name': 'needs repro'}}
+{'issuenumber': 1422, 'title': 'remove button not working without refreshing', 'state': 'closed', 'created_at': '2021-04-23T22:33:56Z', 'closed_at': '2021-05-16T10:25:13Z', 'labels': {'name': 'needs repro'}}
+{'issuenumber': 1419, 'title': 'How to adjust height of multiselect', 'state': 'closed', 'created_at': '2021-04-15T07:46:46Z', 'closed_at': '2021-05-03T20:31:37Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1416, 'title': 'Prevent flickering when multi-select dropdown opens inside a modal inside an Iframe [Chromium only]', 'state': 'closed', 'created_at': '2021-04-07T12:30:41Z', 'closed_at': '2021-05-03T20:34:03Z', 'labels': []}
+{'issuenumber': 1413, 'title': 'How to disable chrome autocomplete', 'state': 'closed', 'created_at': '2021-03-31T13:58:50Z', 'closed_at': '2021-03-31T14:00:12Z', 'labels': []}
+{'issuenumber': 1404, 'title': 'Project Status - Abandoned (?)', 'state': 'closed', 'created_at': '2021-03-02T11:31:04Z', 'closed_at': '2021-05-03T14:27:15Z', 'labels': []}
+{'issuenumber': 1392, 'title': '@select and @input events are only triggered when user selects the option', 'state': 'closed', 'created_at': '2021-01-31T23:53:03Z', 'closed_at': '2021-02-24T13:02:22Z', 'labels': []}
+{'issuenumber': 1373, 'title': 'Styling selected value in Vue Select with svg', 'state': 'closed', 'created_at': '2020-11-28T15:49:42Z', 'closed_at': '2020-12-07T02:57:06Z', 'labels': []}
+{'issuenumber': 1369, 'title': 'Vue 3 compatibility', 'state': 'closed', 'created_at': '2020-11-24T07:20:10Z', 'closed_at': '2021-05-03T14:27:48Z', 'labels': []}
+{'issuenumber': 1368, 'title': 'Minimal number of characters typed before showing noResult', 'state': 'closed', 'created_at': '2020-11-21T17:53:51Z', 'closed_at': '2021-05-15T09:09:49Z', 'labels': []}
+{'issuenumber': 1363, 'title': 'Add element after open list', 'state': 'closed', 'created_at': '2020-11-04T19:36:09Z', 'closed_at': '2020-12-09T10:27:16Z', 'labels': []}
+{'issuenumber': 1362, 'title': 'add element after open list', 'state': 'closed', 'created_at': '2020-11-04T19:35:18Z', 'closed_at': '2020-11-04T19:41:13Z', 'labels': []}
+{'issuenumber': 1359, 'title': 'How to use the vue-multiselec min.css file as a static asset within my app.scss', 'state': 'closed', 'created_at': '2020-11-02T16:18:02Z', 'closed_at': '2020-11-02T19:09:57Z', 'labels': []}
+{'issuenumber': 1355, 'title': 'Extra parameter in asyncFind', 'state': 'closed', 'created_at': '2020-10-26T14:05:16Z', 'closed_at': '2020-10-26T15:13:51Z', 'labels': []}
+{'issuenumber': 1351, 'title': 'Removing the options is not working as expected', 'state': 'closed', 'created_at': '2020-10-18T13:10:40Z', 'closed_at': '2020-10-18T13:34:11Z', 'labels': []}
+{'issuenumber': 1341, 'title': 'How to manipulate the search to ignore special characters?', 'state': 'closed', 'created_at': '2020-09-17T09:09:59Z', 'closed_at': '2020-09-17T09:40:21Z', 'labels': []}
+{'issuenumber': 1330, 'title': 'Multiselect: Possibility to add a particular dropdown item as not deletable', 'state': 'closed', 'created_at': '2020-09-16T14:10:38Z', 'closed_at': '2020-09-19T07:00:32Z', 'labels': []}
+{'issuenumber': 1325, 'title': 'css styles are not added when using the component', 'state': 'closed', 'created_at': '2020-09-10T09:09:12Z', 'closed_at': '2021-01-22T12:19:18Z', 'labels': []}
+{'issuenumber': 1309, 'title': 'Cannot select an item when component is in a bootstrap modal', 'state': 'closed', 'created_at': '2020-08-04T13:30:07Z', 'closed_at': '2020-08-04T14:29:30Z', 'labels': []}
+{'issuenumber': 1307, 'title': 'Getting error "props.select is not a function " on option click (Solved)', 'state': 'closed', 'created_at': '2020-07-30T07:14:29Z', 'closed_at': '2020-07-31T07:24:03Z', 'labels': []}
+{'issuenumber': 1291, 'title': 'Vue 3 Support', 'state': 'closed', 'created_at': '2020-06-24T20:48:47Z', 'closed_at': '2021-05-03T20:28:14Z', 'labels': []}
+{'issuenumber': 1289, 'title': 'Scroll to active option', 'state': 'closed', 'created_at': '2020-06-21T11:57:42Z', 'closed_at': '2021-01-29T17:15:08Z', 'labels': []}
+{'issuenumber': 1288, 'title': "Can't make single choice without group", 'state': 'closed', 'created_at': '2020-06-17T11:22:27Z', 'closed_at': '2020-06-18T08:48:08Z', 'labels': []}
+{'issuenumber': 1281, 'title': 'Close event overriding input event value, cannot change the value', 'state': 'closed', 'created_at': '2020-06-05T09:40:50Z', 'closed_at': '2020-06-06T11:34:25Z', 'labels': []}
+{'issuenumber': 1278, 'title': 'change multiselect drop down menu to drop up menu', 'state': 'closed', 'created_at': '2020-05-27T21:22:13Z', 'closed_at': '2020-05-29T12:30:46Z', 'labels': []}
+{'issuenumber': 1277, 'title': 'Bug: Cannot setAttribute if no search', 'state': 'closed', 'created_at': '2020-05-27T10:45:46Z', 'closed_at': '2021-05-16T10:11:15Z', 'labels': []}
+{'issuenumber': 1269, 'title': '"Searchable" property removes ability to click SingleLabel', 'state': 'closed', 'created_at': '2020-05-15T16:09:22Z', 'closed_at': '2020-05-25T14:26:09Z', 'labels': []}
+{'issuenumber': 1266, 'title': 'Remove tag close button not working, keeps on adding after select second element, if first element when trying to remove', 'state': 'closed', 'created_at': '2020-05-14T06:49:23Z', 'closed_at': '2020-05-15T11:57:10Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 1264, 'title': 'Vue multy select', 'state': 'closed', 'created_at': '2020-05-12T21:41:09Z', 'closed_at': '2020-05-13T08:19:02Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 1262, 'title': "Can't use @tag for Asp .Net Solutions", 'state': 'closed', 'created_at': '2020-05-11T18:59:24Z', 'closed_at': '2020-05-14T13:57:33Z', 'labels': {'name': 'needs repro'}}
+{'issuenumber': 1260, 'title': 'before remove event', 'state': 'closed', 'created_at': '2020-05-08T21:09:32Z', 'closed_at': '2020-05-15T11:57:53Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1255, 'title': 'Feature request: Event after tags have been rendered', 'state': 'closed', 'created_at': '2020-05-07T06:47:29Z', 'closed_at': '2020-05-19T16:16:29Z', 'labels': []}
+{'issuenumber': 1254, 'title': 'In async mode: options are not displayed when search term is a number', 'state': 'closed', 'created_at': '2020-05-06T08:27:12Z', 'closed_at': '2020-05-06T09:51:50Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1249, 'title': 'Disable tags if multiple', 'state': 'closed', 'created_at': '2020-05-05T10:22:56Z', 'closed_at': '2020-05-05T11:44:06Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1248, 'title': 'Make "index" available in "options"-slot within the list', 'state': 'closed', 'created_at': '2020-05-04T09:08:25Z', 'closed_at': '2020-05-05T17:20:45Z', 'labels': []}
+{'issuenumber': 1247, 'title': 'How to Call A Function With Other Parameters', 'state': 'closed', 'created_at': '2020-04-28T20:30:17Z', 'closed_at': '2020-05-13T17:01:54Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1245, 'title': 'inputmode', 'state': 'closed', 'created_at': '2020-04-24T13:34:05Z', 'closed_at': '2020-05-07T08:15:22Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1244, 'title': 'Show on type', 'state': 'closed', 'created_at': '2020-04-23T14:42:49Z', 'closed_at': '2020-04-30T07:55:47Z', 'labels': []}
+{'issuenumber': 1240, 'title': 'It is difficult to find a link to the documentation', 'state': 'closed', 'created_at': '2020-04-21T10:27:21Z', 'closed_at': '2020-05-07T17:07:11Z', 'labels': []}
+{'issuenumber': 1238, 'title': 'group-label with Custom option template', 'state': 'closed', 'created_at': '2020-04-15T05:20:12Z', 'closed_at': '2020-05-07T15:08:21Z', 'labels': []}
+{'issuenumber': 1234, 'title': 'Show selected options by number', 'state': 'closed', 'created_at': '2020-04-09T15:32:51Z', 'closed_at': '2020-05-15T15:24:12Z', 'labels': []}
+{'issuenumber': 1226, 'title': 'issue in setting value in v-model that not having a value in options', 'state': 'closed', 'created_at': '2020-04-02T10:22:01Z', 'closed_at': '2020-04-07T11:24:09Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 1225, 'title': 'issue in setting value in v-model not having value in options ', 'state': 'closed', 'created_at': '2020-04-02T10:12:18Z', 'closed_at': '2020-04-02T10:26:49Z', 'labels': []}
+{'issuenumber': 1215, 'title': 'Single taggable value', 'state': 'closed', 'created_at': '2020-03-06T20:16:24Z', 'closed_at': '2020-03-07T05:40:06Z', 'labels': []}
+{'issuenumber': 1211, 'title': 'Mouse select issue within carousel', 'state': 'closed', 'created_at': '2020-02-28T16:58:42Z', 'closed_at': '2020-04-22T00:20:01Z', 'labels': []}
+{'issuenumber': 1205, 'title': 'multiselect+', 'state': 'closed', 'created_at': '2020-02-20T08:48:28Z', 'closed_at': '2020-02-20T08:48:47Z', 'labels': []}
+{'issuenumber': 1199, 'title': 'input display badly when i use a v-if ', 'state': 'closed', 'created_at': '2020-02-08T16:08:45Z', 'closed_at': '2020-02-08T16:20:27Z', 'labels': []}
+{'issuenumber': 1194, 'title': 'Lazy mode in SearchChange', 'state': 'closed', 'created_at': '2020-01-25T21:08:03Z', 'closed_at': '2020-02-04T21:26:06Z', 'labels': []}
+{'issuenumber': 1182, 'title': "autocomplete 'nope' works less than 'off', can we randomize name attr?", 'state': 'closed', 'created_at': '2019-12-18T13:08:21Z', 'closed_at': '2020-02-10T09:31:06Z', 'labels': []}
+{'issuenumber': 1179, 'title': 'last selelected item of multiselect', 'state': 'closed', 'created_at': '2019-12-10T09:27:51Z', 'closed_at': '2019-12-10T11:54:47Z', 'labels': []}
+{'issuenumber': 1173, 'title': 'How to disable tags/pills creation when multiple selection is allowed ?', 'state': 'closed', 'created_at': '2019-11-29T12:06:49Z', 'closed_at': '2019-12-03T10:16:52Z', 'labels': []}
+{'issuenumber': 1169, 'title': '[Feature Request] Prefix selected', 'state': 'closed', 'created_at': '2019-11-26T22:35:48Z', 'closed_at': '2019-11-26T22:51:39Z', 'labels': []}
+{'issuenumber': 1167, 'title': 'Issue with checkbox in options', 'state': 'closed', 'created_at': '2019-11-25T12:53:23Z', 'closed_at': '2021-09-17T14:02:38Z', 'labels': []}
+{'issuenumber': 1166, 'title': 'v-model value for Multiple select should be a simple array with track-by value', 'state': 'closed', 'created_at': '2019-11-23T20:51:17Z', 'closed_at': '2019-11-23T21:12:44Z', 'labels': []}
+{'issuenumber': 1165, 'title': 'remove tag by a button', 'state': 'closed', 'created_at': '2019-11-22T13:31:50Z', 'closed_at': '2019-11-25T16:41:25Z', 'labels': []}
+{'issuenumber': 1164, 'title': 'When click on close at selected ithem, that not closed, that repeats', 'state': 'closed', 'created_at': '2019-11-21T08:10:53Z', 'closed_at': '2019-12-03T07:56:59Z', 'labels': []}
+{'issuenumber': 1162, 'title': 'How to block the option to delete all selected items', 'state': 'closed', 'created_at': '2019-11-14T09:29:37Z', 'closed_at': '2019-11-19T15:35:35Z', 'labels': []}
+{'issuenumber': 1157, 'title': 'Update :multiple dynamically?', 'state': 'closed', 'created_at': '2019-11-05T14:01:00Z', 'closed_at': '2019-11-05T14:02:45Z', 'labels': []}
+{'issuenumber': 1156, 'title': 'Selected value not displayed when wrapped in a custom component', 'state': 'closed', 'created_at': '2019-11-04T22:30:40Z', 'closed_at': '2019-11-05T08:32:28Z', 'labels': []}
+{'issuenumber': 1145, 'title': 'CSS not showing in Nuxt Production', 'state': 'closed', 'created_at': '2019-10-21T21:24:15Z', 'closed_at': '2019-11-16T20:29:15Z', 'labels': []}
+{'issuenumber': 1126, 'title': 'Custom html in placeholder', 'state': 'closed', 'created_at': '2019-10-02T12:03:54Z', 'closed_at': '2021-05-01T06:47:01Z', 'labels': []}
+{'issuenumber': 1121, 'title': 'JSON in placeholder', 'state': 'closed', 'created_at': '2019-09-30T07:41:58Z', 'closed_at': '2019-09-30T09:19:15Z', 'labels': []}
+{'issuenumber': 1120, 'title': 'Not working in NUXT (if use nuxt static site generator)', 'state': 'closed', 'created_at': '2019-09-27T16:22:20Z', 'closed_at': '2019-09-28T01:12:51Z', 'labels': []}
+{'issuenumber': 1108, 'title': 'Is there any way to adjust the width of the control based on the maximum length of the option', 'state': 'closed', 'created_at': '2019-09-26T08:42:27Z', 'closed_at': '2019-09-26T14:05:56Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1095, 'title': 'not compatible with internet explorer', 'state': 'closed', 'created_at': '2019-09-24T18:57:38Z', 'closed_at': '2020-07-27T09:56:41Z', 'labels': {'name': 'needs repro'}}
+{'issuenumber': 1090, 'title': "Is there any way to hide the 'maxElement' slot Default  label text.", 'state': 'closed', 'created_at': '2019-09-20T07:12:57Z', 'closed_at': '2019-09-25T11:01:38Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1089, 'title': 'is there a way to use vue multiselect to populate cities from multiselect country?', 'state': 'closed', 'created_at': '2019-09-19T17:23:11Z', 'closed_at': '2019-09-25T11:02:17Z', 'labels': []}
+{'issuenumber': 1086, 'title': 'No slot "selection" find ', 'state': 'closed', 'created_at': '2019-09-18T08:58:47Z', 'closed_at': '2019-09-25T11:03:08Z', 'labels': []}
+{'issuenumber': 1085, 'title': 'How to test this component using CYPRESS??', 'state': 'closed', 'created_at': '2019-09-17T22:01:05Z', 'closed_at': '2019-09-25T11:04:14Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1084, 'title': '[Feature Request] Delay on Async', 'state': 'closed', 'created_at': '2019-09-16T14:07:24Z', 'closed_at': '2019-09-25T11:05:22Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 1083, 'title': '[Feature Request] Drag and drop tags', 'state': 'closed', 'created_at': '2019-09-16T07:26:52Z', 'closed_at': '2019-09-25T11:06:11Z', 'labels': []}
+{'issuenumber': 1080, 'title': "V-slot doesn't work", 'state': 'closed', 'created_at': '2019-09-11T23:05:32Z', 'closed_at': '2019-09-25T11:08:06Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 1076, 'title': 'MultiSelect VueSax', 'state': 'closed', 'created_at': '2019-09-08T00:39:01Z', 'closed_at': '2019-09-25T11:09:52Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1075, 'title': 'no-options translation not works', 'state': 'closed', 'created_at': '2019-09-04T18:49:31Z', 'closed_at': '2019-09-04T19:05:37Z', 'labels': []}
+{'issuenumber': 1068, 'title': 'Impossible to handle the ESC key', 'state': 'closed', 'created_at': '2019-08-12T14:22:28Z', 'closed_at': '2019-09-25T11:20:51Z', 'labels': []}
+{'issuenumber': 1067, 'title': 'remove single tag from options', 'state': 'closed', 'created_at': '2019-08-09T05:09:02Z', 'closed_at': '2019-08-09T12:33:18Z', 'labels': []}
+{'issuenumber': 1061, 'title': 'How can I select all options?', 'state': 'closed', 'created_at': '2019-08-03T03:45:25Z', 'closed_at': '2019-08-03T10:45:38Z', 'labels': []}
+{'issuenumber': 1060, 'title': 'Prevent the deselection', 'state': 'closed', 'created_at': '2019-08-02T09:02:30Z', 'closed_at': '2019-08-11T15:15:29Z', 'labels': []}
+{'issuenumber': 1058, 'title': 'Feature request: Doublesided select box', 'state': 'closed', 'created_at': '2019-07-31T10:03:51Z', 'closed_at': '2019-07-31T10:21:11Z', 'labels': {'name': '3.0'}}
+{'issuenumber': 1057, 'title': 'Feature request: Separator', 'state': 'closed', 'created_at': '2019-07-31T10:03:32Z', 'closed_at': '2019-07-31T10:20:36Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 1051, 'title': 'Prevent opening the dropdown when clicking a tag.', 'state': 'closed', 'created_at': '2019-07-27T12:12:13Z', 'closed_at': '2019-07-31T10:22:05Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1049, 'title': '[Question] Move search input', 'state': 'closed', 'created_at': '2019-07-22T12:56:20Z', 'closed_at': '2019-07-23T11:41:45Z', 'labels': []}
+{'issuenumber': 1048, 'title': 'Strange behaviour on Ajax options', 'state': 'closed', 'created_at': '2019-07-22T07:04:57Z', 'closed_at': '2019-07-31T10:26:09Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1042, 'title': 'Single select (object) set value', 'state': 'closed', 'created_at': '2019-07-19T00:51:15Z', 'closed_at': '2019-07-19T04:12:57Z', 'labels': []}
+{'issuenumber': 1024, 'title': 'Setting "overflow-x: auto" on table hides choices & causes weird scrolling', 'state': 'closed', 'created_at': '2019-07-15T09:13:05Z', 'closed_at': '2019-08-11T15:18:04Z', 'labels': []}
+{'issuenumber': 1011, 'title': 'Child component of Vue-multiselect', 'state': 'closed', 'created_at': '2019-06-27T16:00:59Z', 'closed_at': '2019-06-28T09:54:06Z', 'labels': []}
+{'issuenumber': 1006, 'title': "How do I change 'selectLabel' ?", 'state': 'closed', 'created_at': '2019-06-24T15:50:59Z', 'closed_at': '2019-06-24T16:25:16Z', 'labels': []}
+{'issuenumber': 1003, 'title': 'How to use v-model as record id but display record description', 'state': 'closed', 'created_at': '2019-06-21T08:56:59Z', 'closed_at': '2020-05-09T15:34:21Z', 'labels': []}
+{'issuenumber': 1001, 'title': 'IE 11 asynchronous select reloading selected values after clicking scrollbar', 'state': 'closed', 'created_at': '2019-06-14T07:24:31Z', 'closed_at': '2019-06-17T05:15:47Z', 'labels': []}
+{'issuenumber': 1000, 'title': 'Place holder text and screen readers [accessibility]', 'state': 'closed', 'created_at': '2019-06-13T18:30:17Z', 'closed_at': '2019-06-24T14:57:58Z', 'labels': []}
+{'issuenumber': 997, 'title': 'Option groups not searchable', 'state': 'closed', 'created_at': '2019-06-13T06:52:04Z', 'closed_at': '2019-09-28T08:37:06Z', 'labels': []}
+{'issuenumber': 990, 'title': 'Get option index', 'state': 'closed', 'created_at': '2019-05-30T14:02:31Z', 'closed_at': '2019-06-11T16:53:54Z', 'labels': []}
+{'issuenumber': 989, 'title': 'block the removal of options', 'state': 'closed', 'created_at': '2019-05-22T12:17:50Z', 'closed_at': '2019-05-31T11:20:13Z', 'labels': []}
+{'issuenumber': 986, 'title': 'Close the dropdown menu when I click again', 'state': 'closed', 'created_at': '2019-05-19T03:59:48Z', 'closed_at': '2019-05-22T07:49:37Z', 'labels': []}
+{'issuenumber': 984, 'title': 'Ignore accents/diacritics on search query string', 'state': 'closed', 'created_at': '2019-05-17T20:54:26Z', 'closed_at': '2020-03-11T18:28:17Z', 'labels': []}
+{'issuenumber': 983, 'title': "Remove event does not emit 'id'", 'state': 'closed', 'created_at': '2019-05-15T14:42:49Z', 'closed_at': '2019-05-15T14:53:04Z', 'labels': []}
+{'issuenumber': 981, 'title': 'Kindly include unminified builds in the dist folder', 'state': 'closed', 'created_at': '2019-05-14T15:18:15Z', 'closed_at': '2019-05-15T15:14:21Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 979, 'title': 'How to disable autocomplete in vue.js for particular component', 'state': 'closed', 'created_at': '2019-05-13T08:24:03Z', 'closed_at': '2019-05-13T08:24:27Z', 'labels': []}
+{'issuenumber': 971, 'title': 'How to use it as menu', 'state': 'closed', 'created_at': '2019-04-25T15:39:48Z', 'closed_at': '2019-04-27T09:49:21Z', 'labels': {'name': 'question'}}
+{'issuenumber': 967, 'title': 'Undefined-errors', 'state': 'closed', 'created_at': '2019-04-17T14:17:54Z', 'closed_at': '2019-04-18T08:22:31Z', 'labels': []}
+{'issuenumber': 966, 'title': 'Error in nextTick: "TypeError: Cannot read property \'focus\' of undefined"', 'state': 'closed', 'created_at': '2019-04-15T13:39:11Z', 'closed_at': '2019-08-18T21:24:37Z', 'labels': {'name': 'needs repro'}}
+{'issuenumber': 965, 'title': 'sort according to options', 'state': 'closed', 'created_at': '2019-04-10T13:47:38Z', 'closed_at': '2019-04-27T10:00:31Z', 'labels': {'name': 'question'}}
+{'issuenumber': 962, 'title': 'hi, change lang!', 'state': 'closed', 'created_at': '2019-04-04T17:50:15Z', 'closed_at': '2019-04-04T18:08:20Z', 'labels': {'name': 'question'}}
+{'issuenumber': 961, 'title': 'Allow initial value to be only an identifier and not the full structure', 'state': 'closed', 'created_at': '2019-04-02T20:10:25Z', 'closed_at': '2019-04-27T10:20:37Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 960, 'title': '[Question] Setting prop defaults globally', 'state': 'closed', 'created_at': '2019-04-01T18:25:29Z', 'closed_at': '2019-04-06T13:08:51Z', 'labels': []}
+{'issuenumber': 959, 'title': '[Question] - How to set pointer index and highlight?', 'state': 'closed', 'created_at': '2019-03-29T09:33:21Z', 'closed_at': '2019-04-06T15:51:58Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 958, 'title': 'Vue MultiSelect Major Version 3.0 Roadmap', 'state': 'closed', 'created_at': '2019-03-29T09:19:55Z', 'closed_at': '2019-04-06T12:52:10Z', 'labels': {'name': 'question'}}
+{'issuenumber': 957, 'title': '[Feature Request] Debug mode to allow you to inspect and style elements', 'state': 'closed', 'created_at': '2019-03-27T14:04:52Z', 'closed_at': '2019-04-01T17:54:11Z', 'labels': {'name': '3.0'}}
+{'issuenumber': 956, 'title': 'How to choose all visible values in search?', 'state': 'closed', 'created_at': '2019-03-27T10:32:50Z', 'closed_at': '2019-04-27T10:11:11Z', 'labels': {'name': 'question'}}
+{'issuenumber': 955, 'title': 'How to debounce "@search-change"?', 'state': 'closed', 'created_at': '2019-03-26T13:30:41Z', 'closed_at': '2021-05-03T20:34:25Z', 'labels': []}
+{'issuenumber': 952, 'title': 'Add new values as I enter', 'state': 'closed', 'created_at': '2019-03-24T20:45:25Z', 'closed_at': '2019-04-27T11:50:08Z', 'labels': {'name': 'question'}}
+{'issuenumber': 949, 'title': 'Documentation out of date for Multiple select', 'state': 'closed', 'created_at': '2019-03-19T00:35:38Z', 'closed_at': '2019-03-19T12:29:32Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 946, 'title': 'inline style of new tag have not affected by the slot template', 'state': 'closed', 'created_at': '2019-03-15T07:51:13Z', 'closed_at': '2019-03-15T08:30:29Z', 'labels': []}
+{'issuenumber': 945, 'title': 'Selecting a group may cause selection of duplicate items', 'state': 'closed', 'created_at': '2019-03-14T11:01:48Z', 'closed_at': '2019-04-27T10:59:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 943, 'title': 'Detecting keypresses', 'state': 'closed', 'created_at': '2019-03-11T09:58:03Z', 'closed_at': '2019-03-11T10:01:55Z', 'labels': []}
+{'issuenumber': 941, 'title': 'ok and cancel button on multiselect', 'state': 'closed', 'created_at': '2019-03-07T13:04:12Z', 'closed_at': '2021-05-03T20:34:34Z', 'labels': []}
+{'issuenumber': 940, 'title': 'How to keep dropdown open for styling?', 'state': 'closed', 'created_at': '2019-03-07T11:39:45Z', 'closed_at': '2019-03-09T23:26:59Z', 'labels': {'name': 'question'}}
+{'issuenumber': 938, 'title': 'Error in v-on handler: "TypeError: t is undefined"', 'state': 'closed', 'created_at': '2019-03-06T19:43:01Z', 'closed_at': '2019-03-06T19:51:46Z', 'labels': []}
+{'issuenumber': 937, 'title': 'Uncaught error on backspace', 'state': 'closed', 'created_at': '2019-03-03T04:52:44Z', 'closed_at': '2019-04-27T10:29:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 936, 'title': "Unhandled promise rejection TypeError: Cannot read property 'status' of undefined", 'state': 'closed', 'created_at': '2019-02-28T16:07:52Z', 'closed_at': '2019-02-28T16:19:36Z', 'labels': []}
+{'issuenumber': 934, 'title': 'when entering new tags, it should refocus', 'state': 'closed', 'created_at': '2019-02-27T04:04:48Z', 'closed_at': '2019-02-28T11:41:14Z', 'labels': {'name': 'question'}}
+{'issuenumber': 933, 'title': 'How to pass parameter in @select="method( extra )" ?', 'state': 'closed', 'created_at': '2019-02-25T11:26:21Z', 'closed_at': '2019-02-25T21:45:33Z', 'labels': {'name': 'question'}}
+{'issuenumber': 932, 'title': 'SSR VIew Options list not available in the list', 'state': 'closed', 'created_at': '2019-02-25T08:53:20Z', 'closed_at': '2019-02-26T14:16:52Z', 'labels': {'name': 'question'}}
+{'issuenumber': 931, 'title': 'noOptions message', 'state': 'closed', 'created_at': '2019-02-21T19:53:51Z', 'closed_at': '2019-02-22T19:44:53Z', 'labels': {'name': 'question'}}
+{'issuenumber': 930, 'title': '[Question] Simple value', 'state': 'closed', 'created_at': '2019-02-16T20:45:57Z', 'closed_at': '2019-02-22T19:58:23Z', 'labels': []}
+{'issuenumber': 928, 'title': 'Templates necessary for taggable single select with async search', 'state': 'closed', 'created_at': '2019-02-14T14:33:10Z', 'closed_at': '2019-02-28T11:43:05Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 925, 'title': 'Set initial value for single select object', 'state': 'closed', 'created_at': '2019-02-12T09:18:17Z', 'closed_at': '2019-02-12T10:40:23Z', 'labels': {'name': 'question'}}
+{'issuenumber': 924, 'title': '"Custom option template" code example. Does not work correctly.', 'state': 'closed', 'created_at': '2019-02-07T20:54:28Z', 'closed_at': '2019-02-08T08:31:24Z', 'labels': []}
+{'issuenumber': 923, 'title': 'Wrong selection behavior with slot, after Vue released to 2.6.2', 'state': 'closed', 'created_at': '2019-02-06T13:43:28Z', 'closed_at': '2019-02-12T10:41:19Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 919, 'title': 'Vue-multiselect dropdown menu positioned wrong at resolution 1366x768', 'state': 'closed', 'created_at': '2019-02-04T07:30:27Z', 'closed_at': '2019-02-24T21:10:38Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 917, 'title': 'Add translate support', 'state': 'closed', 'created_at': '2019-01-30T23:38:48Z', 'closed_at': '2019-02-10T13:49:12Z', 'labels': []}
+{'issuenumber': 914, 'title': 'Custom option template with option groups', 'state': 'closed', 'created_at': '2019-01-26T04:05:07Z', 'closed_at': '2019-01-26T13:59:14Z', 'labels': []}
+{'issuenumber': 912, 'title': 'SelectedLabel as a function instead of string and make certain items disabled', 'state': 'closed', 'created_at': '2019-01-25T10:52:34Z', 'closed_at': '2019-01-30T09:48:35Z', 'labels': []}
+{'issuenumber': 911, 'title': 'Track-by ID from array not working correctly', 'state': 'closed', 'created_at': '2019-01-18T04:10:04Z', 'closed_at': '2019-01-19T07:42:46Z', 'labels': []}
+{'issuenumber': 910, 'title': 'After a search, if I use the scrollbar, the search scope is lost', 'state': 'closed', 'created_at': '2019-01-16T09:30:13Z', 'closed_at': '2019-01-23T17:31:17Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 909, 'title': 'Created a deleteButton', 'state': 'closed', 'created_at': '2019-01-14T16:20:45Z', 'closed_at': '2019-01-23T17:31:53Z', 'labels': {'name': '¯\\_(ツ)_/¯'}}
+{'issuenumber': 908, 'title': 'Multiselect with object repeatedly adds the same object to values', 'state': 'closed', 'created_at': '2019-01-10T13:45:08Z', 'closed_at': '2019-01-10T14:03:56Z', 'labels': []}
+{'issuenumber': 907, 'title': '@close not working after selecting max tags', 'state': 'closed', 'created_at': '2019-01-08T19:44:16Z', 'closed_at': '2019-01-09T12:42:18Z', 'labels': []}
+{'issuenumber': 906, 'title': "multiselect dropdown won't open inside vue-awesome-swiper", 'state': 'closed', 'created_at': '2019-01-08T15:39:04Z', 'closed_at': '2019-01-08T21:19:41Z', 'labels': []}
+{'issuenumber': 905, 'title': 'Identical template slot for option & singleLabel', 'state': 'closed', 'created_at': '2019-01-08T11:43:19Z', 'closed_at': '2019-01-08T14:28:38Z', 'labels': []}
+{'issuenumber': 902, 'title': 'Custom option template with Html', 'state': 'closed', 'created_at': '2019-01-02T00:35:08Z', 'closed_at': '2019-01-10T16:42:16Z', 'labels': {'name': 'question'}}
+{'issuenumber': 901, 'title': 'Manage IDs select', 'state': 'closed', 'created_at': '2018-12-29T13:51:52Z', 'closed_at': '2018-12-30T16:47:32Z', 'labels': []}
+{'issuenumber': 900, 'title': 'Multiple select with mandatory options', 'state': 'closed', 'created_at': '2018-12-28T21:25:05Z', 'closed_at': '2018-12-30T16:49:38Z', 'labels': []}
+{'issuenumber': 899, 'title': 'Multiple select, slot="selection" does not work', 'state': 'closed', 'created_at': '2018-12-21T11:49:38Z', 'closed_at': '2018-12-21T12:04:16Z', 'labels': []}
+{'issuenumber': 897, 'title': 'Do not auto select the first', 'state': 'closed', 'created_at': '2018-12-19T12:41:57Z', 'closed_at': '2018-12-30T16:51:02Z', 'labels': []}
+{'issuenumber': 896, 'title': 'Send extra data/parameter in @tag', 'state': 'closed', 'created_at': '2018-12-19T08:32:21Z', 'closed_at': '2018-12-19T14:59:49Z', 'labels': []}
+{'issuenumber': 894, 'title': 'Cannot type in input box in the beforeList slot', 'state': 'closed', 'created_at': '2018-12-17T15:26:50Z', 'closed_at': '2018-12-30T16:52:37Z', 'labels': []}
+{'issuenumber': 890, 'title': 'Selected option not update', 'state': 'closed', 'created_at': '2018-12-12T12:25:44Z', 'closed_at': '2018-12-20T08:07:15Z', 'labels': []}
+{'issuenumber': 889, 'title': 'Customizing search input', 'state': 'closed', 'created_at': '2018-12-10T14:59:44Z', 'closed_at': '2018-12-17T13:44:31Z', 'labels': []}
+{'issuenumber': 887, 'title': 'Disable value for delete', 'state': 'closed', 'created_at': '2018-12-05T09:00:55Z', 'closed_at': '2018-12-06T10:18:40Z', 'labels': {'name': 'question'}}
+{'issuenumber': 886, 'title': 'Long placeholder getting cut off', 'state': 'closed', 'created_at': '2018-12-04T08:19:48Z', 'closed_at': '2019-02-28T11:39:10Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 883, 'title': 'The dropdown is not appearing after selecting any option from the list', 'state': 'closed', 'created_at': '2018-11-30T06:26:04Z', 'closed_at': '2019-12-16T12:56:01Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 881, 'title': '"Options passed to vue-multiselect do not contain groups, despite the config"', 'state': 'closed', 'created_at': '2018-11-27T09:09:34Z', 'closed_at': '2020-06-17T11:30:12Z', 'labels': {'name': 'needs repro'}}
+{'issuenumber': 880, 'title': 'Tagging without new tag', 'state': 'closed', 'created_at': '2018-11-24T16:34:25Z', 'closed_at': '2018-11-27T10:18:12Z', 'labels': {'name': 'question'}}
+{'issuenumber': 879, 'title': 'options-limit prop', 'state': 'closed', 'created_at': '2018-11-23T04:52:01Z', 'closed_at': '2018-11-23T11:25:20Z', 'labels': {'name': 'question'}}
+{'issuenumber': 878, 'title': 'Pre-selected values not selected in the vue-multiselect dropdown', 'state': 'closed', 'created_at': '2018-11-20T14:48:08Z', 'closed_at': '2018-11-20T14:54:00Z', 'labels': []}
+{'issuenumber': 877, 'title': 'Preselect option in asyncmode before getting options from server', 'state': 'closed', 'created_at': '2018-11-20T08:50:53Z', 'closed_at': '2018-11-20T14:38:20Z', 'labels': {'name': 'question'}}
+{'issuenumber': 876, 'title': "read multi-select user typed text inside slot 'NoResult'", 'state': 'closed', 'created_at': '2018-11-19T12:15:46Z', 'closed_at': '2018-11-19T14:09:03Z', 'labels': []}
+{'issuenumber': 874, 'title': 'input value', 'state': 'closed', 'created_at': '2018-11-11T15:05:57Z', 'closed_at': '2018-11-14T17:47:24Z', 'labels': {'name': 'question'}}
+{'issuenumber': 870, 'title': 'Multiselect is crashing when using groups and $isDisabled', 'state': 'closed', 'created_at': '2018-11-05T10:16:57Z', 'closed_at': '2019-03-01T14:41:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 869, 'title': 'method by pressing the down key or the up key', 'state': 'closed', 'created_at': '2018-11-02T13:58:04Z', 'closed_at': '2018-11-02T15:35:27Z', 'labels': {'name': '3.0'}}
+{'issuenumber': 867, 'title': 'Missing styles for .multiselect__clear', 'state': 'closed', 'created_at': '2018-11-01T11:33:46Z', 'closed_at': '2018-11-14T17:32:50Z', 'labels': []}
+{'issuenumber': 866, 'title': '[feature request] Make the empty value configurable', 'state': 'closed', 'created_at': '2018-11-01T05:49:57Z', 'closed_at': '2018-11-01T12:58:33Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 864, 'title': 'Multiple not work taggable label', 'state': 'closed', 'created_at': '2018-10-26T12:25:30Z', 'closed_at': '2018-10-28T17:43:05Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 862, 'title': 'How can i remove default selected green label when using property :multiple="true"', 'state': 'closed', 'created_at': '2018-10-22T10:48:22Z', 'closed_at': '2018-10-23T15:54:49Z', 'labels': []}
+{'issuenumber': 861, 'title': 'Unable to make vue-multiselect work as it should', 'state': 'closed', 'created_at': '2018-10-19T08:33:08Z', 'closed_at': '2018-10-23T15:55:40Z', 'labels': []}
+{'issuenumber': 859, 'title': 'Multiselect fold-out visually below other content', 'state': 'closed', 'created_at': '2018-10-18T13:44:02Z', 'closed_at': '2018-10-23T15:56:35Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 858, 'title': 'Select-Search: Dropdown stuck after the first click', 'state': 'closed', 'created_at': '2018-10-17T06:52:48Z', 'closed_at': '2018-10-23T15:58:50Z', 'labels': []}
+{'issuenumber': 857, 'title': 'pass second variable to async dropdown', 'state': 'closed', 'created_at': '2018-10-17T05:51:04Z', 'closed_at': '2018-10-23T16:00:50Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 855, 'title': 'RTL support?', 'state': 'closed', 'created_at': '2018-10-15T14:05:50Z', 'closed_at': '2018-10-15T15:18:32Z', 'labels': []}
+{'issuenumber': 853, 'title': ' webapp need double click', 'state': 'closed', 'created_at': '2018-10-14T18:20:18Z', 'closed_at': '2018-10-23T16:07:42Z', 'labels': []}
+{'issuenumber': 850, 'title': 'Mismatching z-index in Multiselect.vue and vue-multiselect.min.css', 'state': 'closed', 'created_at': '2018-10-12T07:15:16Z', 'closed_at': '2018-10-12T13:33:09Z', 'labels': []}
+{'issuenumber': 849, 'title': '@input on change not reflected on the selected option', 'state': 'closed', 'created_at': '2018-10-11T07:35:33Z', 'closed_at': '2018-10-12T13:34:50Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 844, 'title': 'Allow easy extension of the component', 'state': 'closed', 'created_at': '2018-10-07T15:00:38Z', 'closed_at': '2018-10-07T15:21:50Z', 'labels': {'name': 'question'}}
+{'issuenumber': 843, 'title': "Using v-if on selected value doesn't allow clearing of options", 'state': 'closed', 'created_at': '2018-10-06T07:26:10Z', 'closed_at': '2018-11-18T17:39:30Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 841, 'title': 'Returns the specified property of the selected object?', 'state': 'closed', 'created_at': '2018-10-05T14:18:54Z', 'closed_at': '2018-10-05T16:09:41Z', 'labels': []}
+{'issuenumber': 840, 'title': 'Does object traversal support?', 'state': 'closed', 'created_at': '2018-10-05T10:48:14Z', 'closed_at': '2018-10-05T12:46:46Z', 'labels': []}
+{'issuenumber': 839, 'title': 'How can I change the "max" text?', 'state': 'closed', 'created_at': '2018-10-04T19:30:23Z', 'closed_at': '2018-10-23T16:07:01Z', 'labels': {'name': 'question'}}
+{'issuenumber': 836, 'title': 'Still maintained?', 'state': 'closed', 'created_at': '2018-09-29T07:03:48Z', 'closed_at': '2018-10-02T05:06:19Z', 'labels': {'name': 'question'}}
+{'issuenumber': 835, 'title': 'Doubt: is there a i18n feature for messages of component?', 'state': 'closed', 'created_at': '2018-09-28T14:04:39Z', 'closed_at': '2018-10-01T16:39:58Z', 'labels': []}
+{'issuenumber': 832, 'title': 'Allow multiselect options list to overflow the size of the input control', 'state': 'closed', 'created_at': '2018-09-25T16:00:09Z', 'closed_at': '2018-10-01T16:42:18Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 829, 'title': 'When I install vue-multiselect from NPM repository then TypeScript types declarations are missing', 'state': 'closed', 'created_at': '2018-09-15T15:33:37Z', 'closed_at': '2018-10-01T16:43:10Z', 'labels': []}
+{'issuenumber': 828, 'title': 'Placeholder styling', 'state': 'closed', 'created_at': '2018-09-15T08:59:59Z', 'closed_at': '2018-10-04T13:04:31Z', 'labels': []}
+{'issuenumber': 822, 'title': 'axios response to pre-select on multi-select', 'state': 'closed', 'created_at': '2018-09-09T09:21:22Z', 'closed_at': '2018-10-03T11:31:16Z', 'labels': []}
+{'issuenumber': 821, 'title': 'Multiselect duplication on removal of items', 'state': 'closed', 'created_at': '2018-09-09T03:42:16Z', 'closed_at': '2018-09-09T04:24:01Z', 'labels': []}
+{'issuenumber': 820, 'title': 'Vuex Getters not working in :options', 'state': 'closed', 'created_at': '2018-09-08T03:25:22Z', 'closed_at': '2018-09-08T21:49:30Z', 'labels': []}
+{'issuenumber': 819, 'title': 'Search by multiple fields', 'state': 'closed', 'created_at': '2018-09-07T20:51:09Z', 'closed_at': '2018-09-10T14:36:05Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 818, 'title': 'Input search has display none and "tab" doesn\'t work properly', 'state': 'closed', 'created_at': '2018-09-06T13:51:58Z', 'closed_at': '2018-09-06T14:00:14Z', 'labels': []}
+{'issuenumber': 815, 'title': "Tabbing out of the multiselect doesn't work in firefox when the option list has a scrollbar", 'state': 'closed', 'created_at': '2018-09-03T12:29:55Z', 'closed_at': '2018-10-02T13:51:41Z', 'labels': []}
+{'issuenumber': 814, 'title': 'Change Language', 'state': 'closed', 'created_at': '2018-09-02T16:29:45Z', 'closed_at': '2018-09-04T15:21:17Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 812, 'title': 'How to display the placeholder when there is not item in value (Select with search)?', 'state': 'closed', 'created_at': '2018-08-27T07:19:25Z', 'closed_at': '2018-08-27T08:39:26Z', 'labels': []}
+{'issuenumber': 811, 'title': 'how multiselect with  check box', 'state': 'closed', 'created_at': '2018-08-26T14:11:03Z', 'closed_at': '2018-08-26T14:25:28Z', 'labels': []}
+{'issuenumber': 810, 'title': 'Two multiselect fields on the same page are corrupted', 'state': 'closed', 'created_at': '2018-08-24T09:17:34Z', 'closed_at': '2018-08-24T11:08:27Z', 'labels': []}
+{'issuenumber': 808, 'title': 'Can you search for group labels and group values both?', 'state': 'closed', 'created_at': '2018-08-23T16:24:49Z', 'closed_at': '2018-10-03T11:32:40Z', 'labels': []}
+{'issuenumber': 807, 'title': 'Mutiselect input size', 'state': 'closed', 'created_at': '2018-08-22T17:48:06Z', 'closed_at': '2018-10-03T11:33:43Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 803, 'title': 'Incorrect deselect behavior when in multiple mode', 'state': 'closed', 'created_at': '2018-08-16T15:14:11Z', 'closed_at': '2018-08-16T21:23:00Z', 'labels': []}
+{'issuenumber': 802, 'title': 'Adding Tags on keys other then Enter', 'state': 'closed', 'created_at': '2018-08-15T16:51:45Z', 'closed_at': '2018-08-17T16:38:10Z', 'labels': {'name': '3.0'}}
+{'issuenumber': 797, 'title': 'Multiple Selected Items in Optgroup with Custom Label for Selected Options', 'state': 'closed', 'created_at': '2018-08-10T17:48:28Z', 'closed_at': '2018-10-03T11:35:49Z', 'labels': []}
+{'issuenumber': 796, 'title': 'Tabbing into field no longer works in 2.1.0', 'state': 'closed', 'created_at': '2018-08-10T00:40:36Z', 'closed_at': '2018-08-10T00:44:42Z', 'labels': []}
+{'issuenumber': 795, 'title': 'Error while npm run ', 'state': 'closed', 'created_at': '2018-08-06T07:21:24Z', 'closed_at': '2018-10-03T11:34:50Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 794, 'title': 'How to style?', 'state': 'closed', 'created_at': '2018-08-03T14:59:40Z', 'closed_at': '2018-08-17T16:39:33Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 792, 'title': "What about search input's maxlength?", 'state': 'closed', 'created_at': '2018-08-03T06:58:50Z', 'closed_at': '2018-08-17T16:42:08Z', 'labels': {'name': '3.0'}}
+{'issuenumber': 791, 'title': "TypeError: Cannot read property 'call' of undefined", 'state': 'closed', 'created_at': '2018-08-01T07:35:17Z', 'closed_at': '2018-11-14T17:33:50Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 790, 'title': 'Tags not styling v2.0.1', 'state': 'closed', 'created_at': '2018-07-31T02:29:35Z', 'closed_at': '2018-08-16T16:50:12Z', 'labels': []}
+{'issuenumber': 789, 'title': 'Unexpected token: punc (() [./node_modules/vue-multiselect/src/pointerMixin', 'state': 'closed', 'created_at': '2018-07-30T20:20:43Z', 'closed_at': '2018-09-05T21:06:53Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 788, 'title': 'Change the search mechanism', 'state': 'closed', 'created_at': '2018-07-30T11:11:47Z', 'closed_at': '2018-07-31T21:48:44Z', 'labels': []}
+{'issuenumber': 787, 'title': 'How to focus the multiselect from js?', 'state': 'closed', 'created_at': '2018-07-24T21:28:03Z', 'closed_at': '2018-07-25T15:49:42Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 785, 'title': 'Groups Label', 'state': 'closed', 'created_at': '2018-07-20T15:09:18Z', 'closed_at': '2018-08-26T20:29:48Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 782, 'title': "If you want to use different markups for selected options it doesn't work with single select", 'state': 'closed', 'created_at': '2018-07-16T00:47:56Z', 'closed_at': '2018-07-19T10:29:58Z', 'labels': []}
+{'issuenumber': 778, 'title': 'How can I add predefined option to multiselect?', 'state': 'closed', 'created_at': '2018-07-06T10:50:05Z', 'closed_at': '2018-07-06T19:15:34Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 777, 'title': 'Is there a way of having only the group shown in the multiselect box rather than all the options within that group?', 'state': 'closed', 'created_at': '2018-07-04T15:36:56Z', 'closed_at': '2018-07-06T19:22:32Z', 'labels': []}
+{'issuenumber': 776, 'title': 'Differentiating between selecting via enter vs via click', 'state': 'closed', 'created_at': '2018-07-03T08:52:41Z', 'closed_at': '2018-07-03T14:26:32Z', 'labels': []}
+{'issuenumber': 775, 'title': 'send value', 'state': 'closed', 'created_at': '2018-07-03T01:06:42Z', 'closed_at': '2018-07-06T19:12:50Z', 'labels': []}
+{'issuenumber': 772, 'title': '[Feature] Ability to add options', 'state': 'closed', 'created_at': '2018-06-28T11:25:38Z', 'closed_at': '2018-06-28T11:39:49Z', 'labels': []}
+{'issuenumber': 771, 'title': 'Limit Slot', 'state': 'closed', 'created_at': '2018-06-27T15:40:36Z', 'closed_at': '2018-07-19T10:37:23Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 770, 'title': 'Get the search query', 'state': 'closed', 'created_at': '2018-06-27T09:09:37Z', 'closed_at': '2018-07-03T14:28:23Z', 'labels': []}
+{'issuenumber': 768, 'title': 'Option to remove extra drop down space?', 'state': 'closed', 'created_at': '2018-06-25T20:24:41Z', 'closed_at': '2018-07-19T10:40:25Z', 'labels': []}
+{'issuenumber': 767, 'title': 'Respect SemVer', 'state': 'closed', 'created_at': '2018-06-25T08:09:55Z', 'closed_at': '2018-07-23T08:39:59Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 766, 'title': 'How to get multiselect refresh displayed options when changed externally', 'state': 'closed', 'created_at': '2018-06-24T10:27:54Z', 'closed_at': '2018-07-23T08:37:03Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 765, 'title': 'Use isDisabled as data -- suggestion', 'state': 'closed', 'created_at': '2018-06-22T11:53:53Z', 'closed_at': '2018-07-06T21:43:26Z', 'labels': []}
+{'issuenumber': 764, 'title': 'how to create button like in multiselect', 'state': 'closed', 'created_at': '2018-06-22T10:39:43Z', 'closed_at': '2018-07-19T10:41:26Z', 'labels': []}
+{'issuenumber': 761, 'title': 'group label is not rendered when using option slot', 'state': 'closed', 'created_at': '2018-06-20T14:50:39Z', 'closed_at': '2018-08-07T13:56:44Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 760, 'title': 'tag placeholder helper issue when using the option slot', 'state': 'closed', 'created_at': '2018-06-20T12:02:02Z', 'closed_at': '2018-07-29T13:43:53Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 759, 'title': "Uncaught TypeError: Cannot read property 'every' of undefined", 'state': 'closed', 'created_at': '2018-06-19T19:39:52Z', 'closed_at': '2018-07-23T08:39:20Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 758, 'title': 'Cursor keys support (up and down arrow)', 'state': 'closed', 'created_at': '2018-06-19T11:38:24Z', 'closed_at': '2018-07-23T08:39:48Z', 'labels': {'name': '3.0'}}
+{'issuenumber': 755, 'title': 'Single select with :clear-on-select=\'false\' and :preserve-search="true" throw warn "ClearOnSelect and Multiple props can’t be both set to false."', 'state': 'closed', 'created_at': '2018-06-13T20:42:26Z', 'closed_at': '2018-10-23T16:01:41Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 754, 'title': 'error "Invalid prop: type check failed for prop options" in production', 'state': 'closed', 'created_at': '2018-06-13T19:27:59Z', 'closed_at': '2018-06-13T19:34:11Z', 'labels': []}
+{'issuenumber': 753, 'title': ':hideSelected="true" removes group-label from the option list', 'state': 'closed', 'created_at': '2018-06-13T12:54:58Z', 'closed_at': '2018-06-14T08:27:07Z', 'labels': []}
+{'issuenumber': 752, 'title': '[Feature Request] Tag validation', 'state': 'closed', 'created_at': '2018-06-13T07:15:48Z', 'closed_at': '2018-07-23T08:36:48Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 751, 'title': 'Remove inlined auto width style', 'state': 'closed', 'created_at': '2018-06-12T11:59:58Z', 'closed_at': '2018-07-29T13:43:52Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 750, 'title': ' make the tags invisible and show the total tag instead', 'state': 'closed', 'created_at': '2018-06-12T11:50:12Z', 'closed_at': '2018-10-03T10:54:32Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 749, 'title': 'input text with no results search', 'state': 'closed', 'created_at': '2018-06-09T23:59:18Z', 'closed_at': '2018-06-20T13:35:22Z', 'labels': []}
+{'issuenumber': 748, 'title': 'One border line of el-table component is displayed over the options of the multiselect.', 'state': 'closed', 'created_at': '2018-06-09T18:17:48Z', 'closed_at': '2018-07-29T13:43:50Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 746, 'title': 'Enhancement: Enable fixed footer', 'state': 'closed', 'created_at': '2018-06-08T14:45:33Z', 'closed_at': '2018-07-29T13:43:49Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 745, 'title': 'Option with value 0 not showing.', 'state': 'closed', 'created_at': '2018-06-08T10:49:53Z', 'closed_at': '2018-09-05T12:06:53Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 742, 'title': '[Feature Request] Add some class for option group even if group-select prop is set to false', 'state': 'closed', 'created_at': '2018-06-06T08:02:26Z', 'closed_at': '2018-10-02T12:55:24Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 741, 'title': 'When using multiselect as tagsinput, dropdown should not open on the whole width of the control', 'state': 'closed', 'created_at': '2018-06-04T15:21:36Z', 'closed_at': '2018-06-07T10:32:29Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 740, 'title': 'Focus on multiselect should not open the dropdown', 'state': 'closed', 'created_at': '2018-06-04T13:28:22Z', 'closed_at': '2018-07-29T13:43:51Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 738, 'title': 'How use multiselect by createElement?', 'state': 'closed', 'created_at': '2018-06-01T10:06:48Z', 'closed_at': '2018-06-07T10:39:08Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 736, 'title': 'When options are cleared, there is no message like "no data available"', 'state': 'closed', 'created_at': '2018-05-29T07:31:50Z', 'closed_at': '2018-06-07T10:46:51Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 735, 'title': 'How to use more then one multiselect？', 'state': 'closed', 'created_at': '2018-05-28T16:37:08Z', 'closed_at': '2018-06-07T10:49:05Z', 'labels': []}
+{'issuenumber': 734, 'title': 'How to remove the add tag option in tagging?', 'state': 'closed', 'created_at': '2018-05-24T01:21:36Z', 'closed_at': '2018-06-07T10:52:22Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 733, 'title': 'Placeholder text not visible if its length is more than multiselect input box width', 'state': 'closed', 'created_at': '2018-05-23T00:18:39Z', 'closed_at': '2018-06-07T16:49:13Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 732, 'title': 'pass variables and access selectedOption via @select ', 'state': 'closed', 'created_at': '2018-05-21T19:40:16Z', 'closed_at': '2018-06-07T16:34:30Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 731, 'title': 'Not pulling in latest version (2.1.0) from NPM?', 'state': 'closed', 'created_at': '2018-05-19T02:38:00Z', 'closed_at': '2018-05-24T23:11:02Z', 'labels': {'name': 'needs repro'}}
+{'issuenumber': 730, 'title': 'Bump package version', 'state': 'closed', 'created_at': '2018-05-18T12:35:59Z', 'closed_at': '2018-05-19T10:01:49Z', 'labels': {'name': 'question'}}
+{'issuenumber': 729, 'title': 'How do you select which property in an object to pass back to as the value?', 'state': 'closed', 'created_at': '2018-05-17T00:19:45Z', 'closed_at': '2018-06-07T16:47:13Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 728, 'title': 'remove autocomplete in chrome browser', 'state': 'closed', 'created_at': '2018-05-16T15:21:03Z', 'closed_at': '2019-04-12T15:38:35Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 727, 'title': 'Track by is not used everywhere', 'state': 'closed', 'created_at': '2018-05-15T11:37:52Z', 'closed_at': '2018-06-07T16:41:23Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 724, 'title': 'List of option from object without keys', 'state': 'closed', 'created_at': '2018-05-11T22:29:28Z', 'closed_at': '2018-05-14T11:52:44Z', 'labels': []}
+{'issuenumber': 723, 'title': 'Vue multiselect inside of element with scrollbar', 'state': 'closed', 'created_at': '2018-05-10T12:24:31Z', 'closed_at': '2018-07-29T13:43:45Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 721, 'title': 'multi select retuen', 'state': 'closed', 'created_at': '2018-05-08T07:58:52Z', 'closed_at': '2018-06-07T16:49:55Z', 'labels': []}
+{'issuenumber': 720, 'title': 'How do I define the selected value?', 'state': 'closed', 'created_at': '2018-05-03T15:18:48Z', 'closed_at': '2018-06-07T16:43:23Z', 'labels': []}
+{'issuenumber': 719, 'title': 'How to combine option groups with simple multiple options', 'state': 'closed', 'created_at': '2018-04-28T22:35:20Z', 'closed_at': '2018-05-19T10:10:16Z', 'labels': {'name': 'question'}}
+{'issuenumber': 718, 'title': 'Add bootstrap style for vue-multiselect component.', 'state': 'closed', 'created_at': '2018-04-26T11:19:08Z', 'closed_at': '2018-07-29T18:43:32Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 716, 'title': 'ajax multiselect loading data automatically', 'state': 'closed', 'created_at': '2018-04-23T15:49:45Z', 'closed_at': '2018-06-07T16:45:14Z', 'labels': []}
+{'issuenumber': 715, 'title': 'Wrong --selected class in multiselect-tag when custom value is already added', 'state': 'closed', 'created_at': '2018-04-18T15:28:35Z', 'closed_at': '2018-06-07T16:46:02Z', 'labels': []}
+{'issuenumber': 714, 'title': 'IE11 Multiselect problem: cannot focus on input after blur without multiselect__select arrow', 'state': 'closed', 'created_at': '2018-04-16T18:16:31Z', 'closed_at': '2018-09-01T14:33:48Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 712, 'title': "Selecting tags shows only value and doesn't select multiple tags", 'state': 'closed', 'created_at': '2018-04-14T11:11:59Z', 'closed_at': '2018-04-16T10:38:52Z', 'labels': {'name': 'question'}}
+{'issuenumber': 711, 'title': 'Selected value is not getting removed', 'state': 'closed', 'created_at': '2018-04-13T16:36:57Z', 'closed_at': '2018-07-13T16:28:19Z', 'labels': {'name': 'needs repro'}}
+{'issuenumber': 706, 'title': 'send extra data in input event', 'state': 'closed', 'created_at': '2018-04-10T17:17:38Z', 'closed_at': '2018-06-07T16:51:06Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 705, 'title': 'Is it possible to change Selected to Icon ?', 'state': 'closed', 'created_at': '2018-04-10T14:14:06Z', 'closed_at': '2018-07-29T13:43:42Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 704, 'title': 'Show placeholder when there are selected items', 'state': 'closed', 'created_at': '2018-04-09T18:21:59Z', 'closed_at': '2018-07-29T13:43:39Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 703, 'title': 'Can i prevent opening the multiselect by clicking and set a min length for searching?', 'state': 'closed', 'created_at': '2018-04-09T09:06:19Z', 'closed_at': '2020-02-26T13:11:20Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 702, 'title': 'Same Value Selected Problem In Option Groups', 'state': 'closed', 'created_at': '2018-04-08T17:51:45Z', 'closed_at': '2018-06-07T16:51:51Z', 'labels': []}
+{'issuenumber': 701, 'title': 'using trackby on object', 'state': 'closed', 'created_at': '2018-04-07T18:29:41Z', 'closed_at': '2018-07-29T13:43:38Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 698, 'title': 'Display Empty Options Message', 'state': 'closed', 'created_at': '2018-04-05T10:56:40Z', 'closed_at': '2018-05-14T14:14:25Z', 'labels': []}
+{'issuenumber': 696, 'title': 'Typescript support', 'state': 'closed', 'created_at': '2018-04-04T09:27:43Z', 'closed_at': '2018-07-06T21:50:56Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 695, 'title': 'Can not render value with vue-multiselect, but console log work fine', 'state': 'closed', 'created_at': '2018-04-03T17:18:13Z', 'closed_at': '2018-04-03T17:19:25Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 694, 'title': 'custom-label usage', 'state': 'closed', 'created_at': '2018-04-02T16:12:45Z', 'closed_at': '2018-04-03T09:13:58Z', 'labels': []}
+{'issuenumber': 693, 'title': 'Placeholder always shown if prop limit = 0', 'state': 'closed', 'created_at': '2018-03-30T14:04:24Z', 'closed_at': '2018-07-29T13:43:37Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 692, 'title': 'Not showing placeholder label for single select', 'state': 'closed', 'created_at': '2018-03-29T09:40:40Z', 'closed_at': '2018-03-30T20:43:23Z', 'labels': []}
+{'issuenumber': 691, 'title': 'Allow multiple selections, but with no tags. :limit doesnt really help [workaround]', 'state': 'closed', 'created_at': '2018-03-28T14:27:46Z', 'closed_at': '2018-07-29T13:43:47Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 690, 'title': 'Post-selection focus does not work', 'state': 'closed', 'created_at': '2018-03-26T15:03:32Z', 'closed_at': '2018-04-24T15:47:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 688, 'title': 'clear-on-select for single select', 'state': 'closed', 'created_at': '2018-03-24T16:57:44Z', 'closed_at': '2018-03-26T10:57:48Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 687, 'title': 'Options dropdown without horizontal scrollbar', 'state': 'closed', 'created_at': '2018-03-24T16:37:04Z', 'closed_at': '2018-03-27T19:11:49Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 686, 'title': 'FastClick conflict', 'state': 'closed', 'created_at': '2018-03-23T03:09:26Z', 'closed_at': '2018-07-29T13:43:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 684, 'title': 'Remotely change search query value ', 'state': 'closed', 'created_at': '2018-03-20T15:08:05Z', 'closed_at': '2019-06-04T20:56:22Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 683, 'title': 'Option Groups', 'state': 'closed', 'created_at': '2018-03-18T15:59:21Z', 'closed_at': '2018-03-18T16:06:48Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 682, 'title': 'Objects Options, but string value', 'state': 'closed', 'created_at': '2018-03-18T10:55:17Z', 'closed_at': '2018-03-18T13:24:10Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 681, 'title': 'How hideselect in multiselect asynchronic?', 'state': 'closed', 'created_at': '2018-03-18T04:54:57Z', 'closed_at': '2018-03-18T09:25:21Z', 'labels': []}
+{'issuenumber': 680, 'title': 'Width to fit selected item', 'state': 'closed', 'created_at': '2018-03-17T13:21:41Z', 'closed_at': '2018-03-18T09:35:06Z', 'labels': []}
+{'issuenumber': 679, 'title': 'Consider changing "options" to data()', 'state': 'closed', 'created_at': '2018-03-16T15:11:48Z', 'closed_at': '2018-03-18T09:36:50Z', 'labels': []}
+{'issuenumber': 678, 'title': 'Vue-Multiselect is support tree categories', 'state': 'closed', 'created_at': '2018-03-15T15:32:02Z', 'closed_at': '2018-03-18T10:03:47Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 677, 'title': 'Placeholder wraps down with multiple: true, searchable: false', 'state': 'closed', 'created_at': '2018-03-15T15:20:05Z', 'closed_at': '2018-03-18T14:02:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 676, 'title': '[DOM] Found 2 elements with non-unique id #ajax', 'state': 'closed', 'created_at': '2018-03-15T11:51:21Z', 'closed_at': '2018-03-15T12:49:41Z', 'labels': []}
+{'issuenumber': 674, 'title': 'Option to auto-select first result', 'state': 'closed', 'created_at': '2018-03-14T12:09:19Z', 'closed_at': '2018-03-18T10:01:48Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 670, 'title': '"trackby" not working when label or customFilterLabel set to a different property', 'state': 'closed', 'created_at': '2018-03-13T20:01:44Z', 'closed_at': '2018-03-16T02:17:34Z', 'labels': []}
+{'issuenumber': 669, 'title': 'Customize Dropdown list width', 'state': 'closed', 'created_at': '2018-03-13T16:09:46Z', 'closed_at': '2018-03-13T16:36:05Z', 'labels': {'name': 'question'}}
+{'issuenumber': 668, 'title': 'How to customize selected item display in textbox but not change dropdown custom label', 'state': 'closed', 'created_at': '2018-03-13T16:04:58Z', 'closed_at': '2018-03-13T16:21:31Z', 'labels': {'name': 'question'}}
+{'issuenumber': 666, 'title': 'Consider switching the no results message to use v-if', 'state': 'closed', 'created_at': '2018-03-12T20:33:00Z', 'closed_at': '2018-07-29T13:43:40Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 665, 'title': 'Options value refreshed for each <vue-multiselect> when changing one of them', 'state': 'closed', 'created_at': '2018-03-12T08:05:48Z', 'closed_at': '2018-03-12T13:17:05Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 663, 'title': 'Keeping currently selected option visible during dropdown?', 'state': 'closed', 'created_at': '2018-03-09T19:28:47Z', 'closed_at': '2018-03-18T10:07:18Z', 'labels': {'name': 'question'}}
+{'issuenumber': 662, 'title': 'Multiselect content z-index bug ', 'state': 'closed', 'created_at': '2018-03-09T09:29:45Z', 'closed_at': '2018-03-18T10:12:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 660, 'title': 'Closing select by clicking a custom slot caret does not work', 'state': 'closed', 'created_at': '2018-03-08T16:13:39Z', 'closed_at': '2018-03-18T15:29:46Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 658, 'title': 'Choose an option then choose it one more time', 'state': 'closed', 'created_at': '2018-03-07T11:31:51Z', 'closed_at': '2018-03-18T10:20:19Z', 'labels': {'name': 'question'}}
+{'issuenumber': 657, 'title': 'How can I use multiselect in a v-for loop?', 'state': 'closed', 'created_at': '2018-03-06T15:53:52Z', 'closed_at': '2018-03-06T16:13:12Z', 'labels': []}
+{'issuenumber': 656, 'title': 'Language package', 'state': 'closed', 'created_at': '2018-03-04T08:47:28Z', 'closed_at': '2018-03-04T08:50:40Z', 'labels': []}
+{'issuenumber': 655, 'title': 'binded label [object Object]', 'state': 'closed', 'created_at': '2018-02-28T13:48:01Z', 'closed_at': '2018-02-28T13:54:54Z', 'labels': []}
+{'issuenumber': 653, 'title': 'Can we have  v-on:change function?', 'state': 'closed', 'created_at': '2018-02-21T21:19:17Z', 'closed_at': '2018-03-04T14:16:26Z', 'labels': []}
+{'issuenumber': 651, 'title': 'Sortable tags', 'state': 'closed', 'created_at': '2018-02-18T20:11:59Z', 'closed_at': '2018-03-04T14:19:15Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 650, 'title': 'Multiple Select - tags (value) not updating from vuex getter', 'state': 'closed', 'created_at': '2018-02-17T03:54:41Z', 'closed_at': '2018-02-17T03:57:53Z', 'labels': []}
+{'issuenumber': 649, 'title': 'Auto-highlight first result', 'state': 'closed', 'created_at': '2018-02-16T13:20:24Z', 'closed_at': '2018-03-18T10:14:51Z', 'labels': []}
+{'issuenumber': 648, 'title': 'Templating with Angular 4 giving error c-item is not known element', 'state': 'closed', 'created_at': '2018-02-15T12:25:04Z', 'closed_at': '2018-03-04T14:20:12Z', 'labels': {'name': '¯\\_(ツ)_/¯'}}
+{'issuenumber': 647, 'title': 'Show the default and selected value in initial load solved ', 'state': 'closed', 'created_at': '2018-02-15T08:59:34Z', 'closed_at': '2018-03-05T12:39:37Z', 'labels': []}
+{'issuenumber': 644, 'title': 'tokenize search', 'state': 'closed', 'created_at': '2018-02-13T20:22:01Z', 'closed_at': '2018-03-18T10:16:10Z', 'labels': []}
+{'issuenumber': 643, 'title': "Can't install via CDN - Unknown custom element", 'state': 'closed', 'created_at': '2018-02-11T23:10:01Z', 'closed_at': '2018-03-19T10:32:14Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 641, 'title': 'options exceed container width', 'state': 'closed', 'created_at': '2018-02-09T11:24:16Z', 'closed_at': '2018-02-12T13:42:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 640, 'title': 'vue-multiselect can support the render function?', 'state': 'closed', 'created_at': '2018-02-09T08:32:39Z', 'closed_at': '2018-02-09T13:48:07Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 637, 'title': 'Custom html label template ', 'state': 'closed', 'created_at': '2018-02-04T16:13:07Z', 'closed_at': '2018-02-09T13:51:40Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 636, 'title': 'Text in :options are not reactive with vue-i18n', 'state': 'closed', 'created_at': '2018-02-03T10:06:15Z', 'closed_at': '2018-03-18T10:38:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 635, 'title': 'Bugs this.internal.value.map', 'state': 'closed', 'created_at': '2018-01-31T07:38:56Z', 'closed_at': '2018-03-18T15:36:44Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 631, 'title': 'When clicking on <label> it does not trigger multiselect element', 'state': 'closed', 'created_at': '2018-01-19T11:34:48Z', 'closed_at': '2018-03-18T15:38:01Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 630, 'title': 'Default local options with AJAX', 'state': 'closed', 'created_at': '2018-01-18T17:06:25Z', 'closed_at': '2018-02-12T13:34:55Z', 'labels': []}
+{'issuenumber': 626, 'title': 'Group Label with icon', 'state': 'closed', 'created_at': '2018-01-12T20:19:48Z', 'closed_at': '2018-03-18T10:28:17Z', 'labels': []}
+{'issuenumber': 624, 'title': 'CaseSensitive Search', 'state': 'closed', 'created_at': '2018-01-04T18:21:11Z', 'closed_at': '2018-03-18T16:38:06Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 623, 'title': 'Odd behaving of dropdown', 'state': 'closed', 'created_at': '2018-01-03T11:10:29Z', 'closed_at': '2018-03-18T10:31:00Z', 'labels': []}
+{'issuenumber': 622, 'title': 'Localization of component', 'state': 'closed', 'created_at': '2018-01-03T08:01:46Z', 'closed_at': '2018-01-03T08:10:15Z', 'labels': []}
+{'issuenumber': 621, 'title': 'when :tagging=true, why is @tag=addTag necessary to update the v-model reference?', 'state': 'closed', 'created_at': '2018-01-02T16:35:12Z', 'closed_at': '2018-03-18T15:43:16Z', 'labels': {'name': 'question'}}
+{'issuenumber': 620, 'title': 'CSS Not working ', 'state': 'closed', 'created_at': '2018-01-02T02:36:26Z', 'closed_at': '2018-01-02T14:32:49Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 619, 'title': "[Bug] TextInput doesn't disappear unless :value is specified", 'state': 'closed', 'created_at': '2017-12-27T14:57:39Z', 'closed_at': '2018-03-18T15:32:39Z', 'labels': []}
+{'issuenumber': 618, 'title': 'Append dropdown to body', 'state': 'closed', 'created_at': '2017-12-27T11:29:42Z', 'closed_at': '2018-03-18T15:53:11Z', 'labels': {'name': 'question'}}
+{'issuenumber': 617, 'title': 'tabbing through a multiselect with a value already set', 'state': 'closed', 'created_at': '2017-12-22T16:06:36Z', 'closed_at': '2018-07-29T13:43:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 611, 'title': 'Searchable Select Clears Last Selected Option While Menu is Open', 'state': 'closed', 'created_at': '2017-12-15T22:10:23Z', 'closed_at': '2018-03-18T17:45:40Z', 'labels': []}
+{'issuenumber': 610, 'title': 'Feature: beforeDestroy event', 'state': 'closed', 'created_at': '2017-12-14T23:55:49Z', 'closed_at': '2018-07-29T13:43:36Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 609, 'title': 'Cant set selected value from API', 'state': 'closed', 'created_at': '2017-12-14T00:47:27Z', 'closed_at': '2017-12-14T13:44:29Z', 'labels': {'name': 'question'}}
+{'issuenumber': 608, 'title': 'Style not working on Multiple Select', 'state': 'closed', 'created_at': '2017-12-13T02:19:31Z', 'closed_at': '2017-12-14T13:46:54Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 607, 'title': 'Search option always returns nothing', 'state': 'closed', 'created_at': '2017-12-11T18:06:41Z', 'closed_at': '2017-12-12T19:31:23Z', 'labels': []}
+{'issuenumber': 605, 'title': 'Using option subproperty as option label', 'state': 'closed', 'created_at': '2017-12-11T14:15:39Z', 'closed_at': '2017-12-14T13:55:02Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 603, 'title': 'Passing parameter to the @tag function for a special use case.', 'state': 'closed', 'created_at': '2017-12-09T23:35:19Z', 'closed_at': '2017-12-14T14:01:18Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 602, 'title': 'Unexpected behavior with Vuex', 'state': 'closed', 'created_at': '2017-12-09T02:53:05Z', 'closed_at': '2017-12-09T12:48:51Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 601, 'title': 'Feature: add event of scrollToBottom', 'state': 'closed', 'created_at': '2017-12-07T03:27:49Z', 'closed_at': '2019-05-23T10:33:31Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 600, 'title': 'HELP: preselect option object based on string value', 'state': 'closed', 'created_at': '2017-12-05T12:45:45Z', 'closed_at': '2017-12-07T11:31:42Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 599, 'title': 'How to make the filed required?', 'state': 'closed', 'created_at': '2017-12-02T05:32:50Z', 'closed_at': '2017-12-07T11:32:12Z', 'labels': []}
+{'issuenumber': 596, 'title': 'Placeholder and form values over multiselect content?', 'state': 'closed', 'created_at': '2017-11-28T14:31:25Z', 'closed_at': '2017-12-14T14:04:13Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 595, 'title': 'vue-multiselect had bug ? ', 'state': 'closed', 'created_at': '2017-11-28T02:33:12Z', 'closed_at': '2017-11-30T11:27:26Z', 'labels': {'name': 'question'}}
+{'issuenumber': 594, 'title': 'Make background green when remove not allowed in search, and alter deselect-label', 'state': 'closed', 'created_at': '2017-11-25T10:55:52Z', 'closed_at': '2018-03-18T15:56:43Z', 'labels': []}
+{'issuenumber': 593, 'title': 'Doc is down', 'state': 'closed', 'created_at': '2017-11-24T16:49:57Z', 'closed_at': '2017-11-24T18:07:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 590, 'title': 'Why clear the text input when we do not select any option?', 'state': 'closed', 'created_at': '2017-11-18T07:34:16Z', 'closed_at': '2018-03-18T15:56:05Z', 'labels': []}
+{'issuenumber': 589, 'title': 'Add class then value is selected', 'state': 'closed', 'created_at': '2017-11-17T11:56:53Z', 'closed_at': '2022-05-28T19:45:17Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 587, 'title': 'sort array', 'state': 'closed', 'created_at': '2017-11-15T13:24:10Z', 'closed_at': '2017-11-15T13:47:14Z', 'labels': {'name': '¯\\_(ツ)_/¯'}}
+{'issuenumber': 586, 'title': 'Pls tell me how to use', 'state': 'closed', 'created_at': '2017-11-15T06:28:55Z', 'closed_at': '2017-11-15T06:48:41Z', 'labels': []}
+{'issuenumber': 585, 'title': 'How to make theming only child elements in OptGroup?', 'state': 'closed', 'created_at': '2017-11-15T06:08:22Z', 'closed_at': '2017-11-16T04:08:12Z', 'labels': []}
+{'issuenumber': 582, 'title': 'Getting [object, object] after selecting an option', 'state': 'closed', 'created_at': '2017-11-14T06:54:38Z', 'closed_at': '2017-11-14T10:43:28Z', 'labels': {'name': 'question'}}
+{'issuenumber': 578, 'title': 'Vuex support caveat (skip the deep-cloning)', 'state': 'closed', 'created_at': '2017-11-13T00:56:24Z', 'closed_at': '2018-03-18T10:39:04Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 577, 'title': '"Divider" between options?', 'state': 'closed', 'created_at': '2017-11-12T20:40:20Z', 'closed_at': '2017-11-14T10:44:38Z', 'labels': {'name': 'question'}}
+{'issuenumber': 574, 'title': 'Suggestion: Can integrate a checkbox in the option template', 'state': 'closed', 'created_at': '2017-11-10T14:03:29Z', 'closed_at': '2017-11-10T18:14:20Z', 'labels': {'name': 'question'}}
+{'issuenumber': 572, 'title': 'All new tags are lowercase instead of the case the user typed', 'state': 'closed', 'created_at': '2017-11-09T17:57:05Z', 'closed_at': '2017-11-14T10:14:36Z', 'labels': []}
+{'issuenumber': 571, 'title': 'Follow flow of document', 'state': 'closed', 'created_at': '2017-11-09T13:50:43Z', 'closed_at': '2017-11-10T18:17:35Z', 'labels': {'name': 'question'}}
+{'issuenumber': 569, 'title': 'Components as Templates with Optional Prop', 'state': 'closed', 'created_at': '2017-11-09T11:38:54Z', 'closed_at': '2017-12-14T14:07:17Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 568, 'title': 'Option to clear selection (empty option marked as active)', 'state': 'closed', 'created_at': '2017-11-09T10:41:06Z', 'closed_at': '2017-11-10T18:31:17Z', 'labels': {'name': 'question'}}
+{'issuenumber': 566, 'title': 'Cannot scroll the options list on mobile/touch devices', 'state': 'closed', 'created_at': '2017-11-07T16:41:36Z', 'closed_at': '2017-12-11T17:44:08Z', 'labels': []}
+{'issuenumber': 565, 'title': '"Select option" text doesn\'t disappear when Multiselect is wrapped into another component', 'state': 'closed', 'created_at': '2017-11-06T14:30:02Z', 'closed_at': '2018-07-23T09:06:54Z', 'labels': []}
+{'issuenumber': 563, 'title': 'Possible to have a select all?', 'state': 'closed', 'created_at': '2017-11-05T13:04:38Z', 'closed_at': '2017-11-06T10:19:20Z', 'labels': {'name': 'question'}}
+{'issuenumber': 562, 'title': 'API: Programatic open & close', 'state': 'closed', 'created_at': '2017-11-02T16:00:08Z', 'closed_at': '2017-11-03T12:28:33Z', 'labels': {'name': 'question'}}
+{'issuenumber': 561, 'title': 'CustomLabel is not working when value is false', 'state': 'closed', 'created_at': '2017-11-02T04:46:39Z', 'closed_at': '2018-03-18T15:24:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 560, 'title': 'Tags appear in lowercase instead of as typed', 'state': 'closed', 'created_at': '2017-11-02T04:13:26Z', 'closed_at': '2017-11-30T12:34:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 557, 'title': 'Input disabled when :searchable="false"', 'state': 'closed', 'created_at': '2017-11-01T10:40:07Z', 'closed_at': '2018-03-18T15:57:30Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 556, 'title': '[Violation] Added non-passive event listener to a scroll-blocking Warning in Chrome', 'state': 'closed', 'created_at': '2017-11-01T00:19:01Z', 'closed_at': '2018-03-18T16:39:23Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 555, 'title': 'Release last version', 'state': 'closed', 'created_at': '2017-10-31T16:32:04Z', 'closed_at': '2018-03-18T15:58:16Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 554, 'title': 'Display placeholder when option is null, with two dropdowns', 'state': 'closed', 'created_at': '2017-10-31T14:00:45Z', 'closed_at': '2017-11-01T22:55:08Z', 'labels': []}
+{'issuenumber': 553, 'title': 'No styles when using Vueify?', 'state': 'closed', 'created_at': '2017-10-31T13:05:19Z', 'closed_at': '2017-10-31T16:42:02Z', 'labels': {'name': 'question'}}
+{'issuenumber': 552, 'title': 'Put styles to component', 'state': 'closed', 'created_at': '2017-10-31T08:31:09Z', 'closed_at': '2017-10-31T16:54:18Z', 'labels': {'name': 'question'}}
+{'issuenumber': 551, 'title': 'Support slot-scope in Vue 2.5', 'state': 'closed', 'created_at': '2017-10-27T17:33:05Z', 'closed_at': '2017-10-29T18:47:18Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 550, 'title': 'Laravel id in value and name in label', 'state': 'closed', 'created_at': '2017-10-27T12:40:15Z', 'closed_at': '2017-10-27T12:43:38Z', 'labels': {'name': 'question'}}
+{'issuenumber': 549, 'title': "On webpage, replace 2.0.0 with 2.0.3 - it's very important", 'state': 'closed', 'created_at': '2017-10-27T10:55:03Z', 'closed_at': '2017-10-29T20:16:18Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 548, 'title': 'Promise polyfill not included on example/demo site', 'state': 'closed', 'created_at': '2017-10-26T16:08:51Z', 'closed_at': '2017-10-29T20:16:07Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 547, 'title': "QUESTION: Using Vuex for storing asynchronous options will not trigger the options dropdown unless I set 'internalSearch: false'", 'state': 'closed', 'created_at': '2017-10-26T11:15:57Z', 'closed_at': '2017-10-26T11:18:59Z', 'labels': {'name': 'question'}}
+{'issuenumber': 546, 'title': 'QUESTION: How can I unselect via UI?', 'state': 'closed', 'created_at': '2017-10-26T09:37:52Z', 'closed_at': '2017-10-26T11:21:13Z', 'labels': {'name': 'question'}}
+{'issuenumber': 545, 'title': 'Search by group name in group options.', 'state': 'closed', 'created_at': '2017-10-26T06:26:13Z', 'closed_at': '2017-10-29T18:50:08Z', 'labels': {'name': 'question'}}
+{'issuenumber': 544, 'title': 'QUESTION: How can i refresh custom labels when options change?', 'state': 'closed', 'created_at': '2017-10-25T12:28:27Z', 'closed_at': '2017-10-29T18:53:48Z', 'labels': {'name': 'question'}}
+{'issuenumber': 543, 'title': 'Question about the @search-change event behavior', 'state': 'closed', 'created_at': '2017-10-20T21:10:18Z', 'closed_at': '2017-10-29T19:28:21Z', 'labels': {'name': 'question'}}
+{'issuenumber': 542, 'title': '[Question] Change result ordering?', 'state': 'closed', 'created_at': '2017-10-19T14:55:05Z', 'closed_at': '2017-10-19T19:14:16Z', 'labels': {'name': 'question'}}
+{'issuenumber': 541, 'title': 'How to default to, or, select first item', 'state': 'closed', 'created_at': '2017-10-18T15:25:42Z', 'closed_at': '2017-10-18T18:05:44Z', 'labels': []}
+{'issuenumber': 540, 'title': 'change overflow inside multiselect', 'state': 'closed', 'created_at': '2017-10-18T09:54:26Z', 'closed_at': '2017-10-18T11:20:28Z', 'labels': {'name': 'question'}}
+{'issuenumber': 539, 'title': 'Reset a value when @remove', 'state': 'closed', 'created_at': '2017-10-16T19:32:21Z', 'closed_at': '2017-10-18T11:23:33Z', 'labels': {'name': 'question'}}
+{'issuenumber': 538, 'title': 'Selecting items when using Custom Option Template', 'state': 'closed', 'created_at': '2017-10-16T16:22:11Z', 'closed_at': '2017-10-19T19:19:06Z', 'labels': {'name': 'question'}}
+{'issuenumber': 537, 'title': 'Feature: custom placeholder', 'state': 'closed', 'created_at': '2017-10-16T11:32:53Z', 'closed_at': '2017-10-16T11:36:55Z', 'labels': {'name': 'question'}}
+{'issuenumber': 536, 'title': 'Select the only option on blur', 'state': 'closed', 'created_at': '2017-10-16T10:22:08Z', 'closed_at': '2017-10-19T19:48:53Z', 'labels': {'name': 'question'}}
+{'issuenumber': 535, 'title': 'How can I set a default search text in vue-multiselect without actually selecting any item?', 'state': 'closed', 'created_at': '2017-10-15T08:20:21Z', 'closed_at': '2017-10-19T19:29:42Z', 'labels': {'name': 'question'}}
+{'issuenumber': 533, 'title': 'Bug when searching', 'state': 'closed', 'created_at': '2017-10-13T14:59:15Z', 'closed_at': '2017-11-03T13:49:35Z', 'labels': {'name': 'needs repro'}}
+{'issuenumber': 532, 'title': '下拉列表中文本可以变色（文本是用v-text实现的，建议使用v-html）', 'state': 'closed', 'created_at': '2017-10-13T08:08:56Z', 'closed_at': '2017-10-18T09:07:05Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 531, 'title': 'Sending data on form submit', 'state': 'closed', 'created_at': '2017-10-12T21:10:39Z', 'closed_at': '2017-10-12T21:31:06Z', 'labels': {'name': 'question'}}
+{'issuenumber': 530, 'title': 'Feature: Add customSearch option', 'state': 'closed', 'created_at': '2017-10-12T13:51:09Z', 'closed_at': '2018-03-18T15:49:25Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 529, 'title': 'Different value and lable', 'state': 'closed', 'created_at': '2017-10-12T10:33:30Z', 'closed_at': '2017-10-12T10:37:31Z', 'labels': {'name': 'question'}}
+{'issuenumber': 527, 'title': 'Custom remove from `:options`', 'state': 'closed', 'created_at': '2017-10-11T09:52:03Z', 'closed_at': '2017-10-11T09:55:09Z', 'labels': []}
+{'issuenumber': 526, 'title': 'Set value / label of Asynchronous select', 'state': 'closed', 'created_at': '2017-10-09T20:28:03Z', 'closed_at': '2017-10-10T17:29:02Z', 'labels': {'name': 'question'}}
+{'issuenumber': 525, 'title': 'vue-multiselect open/close should be accessible programmatically', 'state': 'closed', 'created_at': '2017-10-06T12:52:22Z', 'closed_at': '2017-10-06T13:11:53Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 524, 'title': 'Event when removing a tag from a taggable select', 'state': 'closed', 'created_at': '2017-10-05T23:57:42Z', 'closed_at': '2017-10-10T17:28:53Z', 'labels': {'name': 'question'}}
+{'issuenumber': 523, 'title': 'Multiselect recursion', 'state': 'closed', 'created_at': '2017-10-05T11:44:28Z', 'closed_at': '2017-10-10T17:31:29Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 521, 'title': 'Blur event not emited', 'state': 'closed', 'created_at': '2017-10-04T11:15:30Z', 'closed_at': '2017-10-10T17:32:18Z', 'labels': {'name': 'question'}}
+{'issuenumber': 519, 'title': 'Custom scrollbar', 'state': 'closed', 'created_at': '2017-10-03T12:48:12Z', 'closed_at': '2018-03-18T15:49:14Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 518, 'title': 'Unknown custom element <multiselect>', 'state': 'closed', 'created_at': '2017-10-03T08:22:19Z', 'closed_at': '2017-10-07T11:41:54Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 517, 'title': '[featurerequest] handle click on optiongroup ', 'state': 'closed', 'created_at': '2017-10-03T05:32:29Z', 'closed_at': '2018-03-19T10:41:48Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 516, 'title': 'is there a way to edit a tag after creating it? before submitting the form.. ', 'state': 'closed', 'created_at': '2017-10-01T13:26:38Z', 'closed_at': '2017-10-10T17:36:54Z', 'labels': {'name': 'question'}}
+{'issuenumber': 514, 'title': 'Updating options does not update label when closed', 'state': 'closed', 'created_at': '2017-09-30T05:38:23Z', 'closed_at': '2017-09-30T05:47:36Z', 'labels': []}
+{'issuenumber': 513, 'title': 'Bootstrap 3 and 4 compatibility', 'state': 'closed', 'created_at': '2017-09-29T08:01:01Z', 'closed_at': '2017-09-29T08:22:59Z', 'labels': {'name': 'question'}}
+{'issuenumber': 512, 'title': 'Feature: OnSelectedPlaceholder', 'state': 'closed', 'created_at': '2017-09-28T09:31:45Z', 'closed_at': '2017-09-28T10:10:19Z', 'labels': {'name': 'question'}}
+{'issuenumber': 510, 'title': 'Single select with max prop', 'state': 'closed', 'created_at': '2017-09-25T07:20:57Z', 'closed_at': '2017-09-27T20:22:11Z', 'labels': []}
+{'issuenumber': 507, 'title': "multiselect doesn't close automatically if wrapped in an HTML label tag", 'state': 'closed', 'created_at': '2017-09-15T15:46:17Z', 'closed_at': '2018-03-18T17:46:46Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 506, 'title': "Unexpected token: operator (>) / export 'default' was not found in 'vue-multiselect'", 'state': 'closed', 'created_at': '2017-09-14T17:48:06Z', 'closed_at': '2017-10-24T18:55:19Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 505, 'title': "why can't we set the input as required", 'state': 'closed', 'created_at': '2017-09-14T06:50:51Z', 'closed_at': '2017-09-14T07:46:37Z', 'labels': {'name': 'question'}}
+{'issuenumber': 504, 'title': 'unable to remove the border around the multiselect field', 'state': 'closed', 'created_at': '2017-09-13T20:13:59Z', 'closed_at': '2017-09-13T21:02:42Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 501, 'title': "[Suggestion] create 'selecting' and 'removing' events with callback to prevent action.", 'state': 'closed', 'created_at': '2017-09-08T02:06:42Z', 'closed_at': '2017-09-14T08:00:09Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 500, 'title': 'how to add class into vue-multiselect', 'state': 'closed', 'created_at': '2017-09-07T08:29:44Z', 'closed_at': '2017-10-29T19:19:42Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 499, 'title': 'Display selected items in different html element', 'state': 'closed', 'created_at': '2017-09-07T01:52:19Z', 'closed_at': '2017-10-10T17:39:15Z', 'labels': {'name': 'question'}}
+{'issuenumber': 498, 'title': 'Impossible to continue typing after focusing select field', 'state': 'closed', 'created_at': '2017-09-06T14:50:37Z', 'closed_at': '2017-10-11T09:23:58Z', 'labels': {'name': 'question'}}
+{'issuenumber': 497, 'title': 'On select anothed option @on-remove not triggered', 'state': 'closed', 'created_at': '2017-09-06T04:51:27Z', 'closed_at': '2018-03-18T16:25:21Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 494, 'title': '@Close event occurs when using options scrollbar on IE 11', 'state': 'closed', 'created_at': '2017-09-01T08:53:18Z', 'closed_at': '2018-09-02T12:29:58Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 493, 'title': ' search query is deleted after click on the page', 'state': 'closed', 'created_at': '2017-08-30T08:35:21Z', 'closed_at': '2017-08-30T08:54:24Z', 'labels': {'name': 'question'}}
+{'issuenumber': 492, 'title': 'noResult does not work', 'state': 'closed', 'created_at': '2017-08-30T08:25:01Z', 'closed_at': '2017-10-29T20:07:04Z', 'labels': {'name': 'question'}}
+{'issuenumber': 490, 'title': 'The examples page does not work on IE 11', 'state': 'closed', 'created_at': '2017-08-28T08:03:38Z', 'closed_at': '2018-03-18T16:34:34Z', 'labels': []}
+{'issuenumber': 489, 'title': "Cannot read property '$isLabel' of undefined on Multiple", 'state': 'closed', 'created_at': '2017-08-23T04:53:50Z', 'closed_at': '2018-03-18T14:31:18Z', 'labels': {'name': 'good first issue'}}
+{'issuenumber': 488, 'title': 'Dropdown bottom item cutoff when using arrow keys', 'state': 'closed', 'created_at': '2017-08-23T04:45:40Z', 'closed_at': '2017-10-29T20:06:14Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 487, 'title': 'Pressing Alt causes select box to loose focus', 'state': 'closed', 'created_at': '2017-08-23T01:18:10Z', 'closed_at': '2018-07-29T14:43:37Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 486, 'title': 'Wrong scrolling position with custom template when navigating with keyboard keys', 'state': 'closed', 'created_at': '2017-08-22T17:14:47Z', 'closed_at': '2017-09-27T20:59:34Z', 'labels': []}
+{'issuenumber': 485, 'title': 'Icons? :)', 'state': 'closed', 'created_at': '2017-08-22T10:57:31Z', 'closed_at': '2019-02-24T20:43:51Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 484, 'title': 'Emit input before remove', 'state': 'closed', 'created_at': '2017-08-22T08:36:44Z', 'closed_at': '2017-10-01T18:53:58Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 483, 'title': 'Tagging support - usecase scenario', 'state': 'closed', 'created_at': '2017-08-22T08:32:37Z', 'closed_at': '2017-10-01T18:53:58Z', 'labels': []}
+{'issuenumber': 482, 'title': 'Label For ID: Does not work unless multiselect is searchable', 'state': 'closed', 'created_at': '2017-08-21T03:09:26Z', 'closed_at': '2017-10-11T17:35:50Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 481, 'title': 'Keyboard Accessibility: Shift+Tab cannot escape searchable multiselects', 'state': 'closed', 'created_at': '2017-08-21T03:05:00Z', 'closed_at': '2017-08-21T13:06:20Z', 'labels': []}
+{'issuenumber': 480, 'title': 'Selecting option with circular reference causes errors', 'state': 'closed', 'created_at': '2017-08-18T07:39:28Z', 'closed_at': '2018-03-18T15:48:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 478, 'title': 'Using a custom dropdown icon', 'state': 'closed', 'created_at': '2017-08-17T09:34:09Z', 'closed_at': '2017-09-27T22:04:10Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 477, 'title': 'Vue-Multiselect is not being displayed inside responsive components', 'state': 'closed', 'created_at': '2017-08-16T15:00:57Z', 'closed_at': '2017-10-01T19:06:02Z', 'labels': {'name': 'question'}}
+{'issuenumber': 475, 'title': 'Error in "getting started" guide', 'state': 'closed', 'created_at': '2017-08-16T08:46:46Z', 'closed_at': '2017-09-21T16:49:36Z', 'labels': []}
+{'issuenumber': 474, 'title': 'Left padding for options', 'state': 'closed', 'created_at': '2017-08-15T20:58:24Z', 'closed_at': '2017-10-01T19:02:00Z', 'labels': []}
+{'issuenumber': 473, 'title': 'How to prevent space as a new tag', 'state': 'closed', 'created_at': '2017-08-15T04:03:17Z', 'closed_at': '2017-10-01T19:01:05Z', 'labels': []}
+{'issuenumber': 472, 'title': 'When scrolling with mouse, the body scrolls when top or bottom of the dropdown scroll is reached.', 'state': 'closed', 'created_at': '2017-08-14T09:00:22Z', 'closed_at': '2017-08-14T14:09:01Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 471, 'title': 'Binding dropdowns to different v-model arrays', 'state': 'closed', 'created_at': '2017-08-13T16:33:49Z', 'closed_at': '2017-08-14T14:16:10Z', 'labels': {'name': 'question'}}
+{'issuenumber': 470, 'title': '[LABEL] Problem with large text option after selected', 'state': 'closed', 'created_at': '2017-08-11T12:29:34Z', 'closed_at': '2017-08-14T14:24:17Z', 'labels': {'name': 'question'}}
+{'issuenumber': 469, 'title': 'Layout Issue', 'state': 'closed', 'created_at': '2017-08-11T09:58:16Z', 'closed_at': '2017-10-01T19:09:09Z', 'labels': []}
+{'issuenumber': 465, 'title': 'Is it possible to show nested items ?', 'state': 'closed', 'created_at': '2017-08-09T14:03:41Z', 'closed_at': '2018-03-18T10:03:35Z', 'labels': {'name': '3.0'}}
+{'issuenumber': 464, 'title': 'Height is hiding inside parent height', 'state': 'closed', 'created_at': '2017-08-09T06:00:38Z', 'closed_at': '2017-08-16T05:44:30Z', 'labels': []}
+{'issuenumber': 463, 'title': 'Scrollbar at bottom', 'state': 'closed', 'created_at': '2017-08-08T04:42:40Z', 'closed_at': '2017-10-11T17:36:22Z', 'labels': {'name': 'question'}}
+{'issuenumber': 462, 'title': 'Custom selected option with :multiple=false', 'state': 'closed', 'created_at': '2017-08-07T14:45:55Z', 'closed_at': '2017-09-19T14:54:13Z', 'labels': {'name': 'question'}}
+{'issuenumber': 461, 'title': 'In multiple select and remote search scene', 'state': 'closed', 'created_at': '2017-08-07T08:52:20Z', 'closed_at': '2018-03-18T10:36:31Z', 'labels': []}
+{'issuenumber': 459, 'title': 'How to show multiple data to respective multiselect(dropdown)?', 'state': 'closed', 'created_at': '2017-08-06T10:21:35Z', 'closed_at': '2017-08-09T14:38:11Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 458, 'title': 'Handle with many input forms', 'state': 'closed', 'created_at': '2017-08-03T15:03:46Z', 'closed_at': '2017-08-03T15:28:55Z', 'labels': {'name': 'question'}}
+{'issuenumber': 456, 'title': 'Search by group?', 'state': 'closed', 'created_at': '2017-08-02T12:28:23Z', 'closed_at': '2017-10-11T17:37:01Z', 'labels': {'name': 'question'}}
+{'issuenumber': 455, 'title': 'Pasting Multiple Tags', 'state': 'closed', 'created_at': '2017-08-01T21:38:10Z', 'closed_at': '2017-10-01T19:12:43Z', 'labels': []}
+{'issuenumber': 454, 'title': '":hide-selected" not works', 'state': 'closed', 'created_at': '2017-08-01T04:59:13Z', 'closed_at': '2017-09-19T14:32:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 453, 'title': 'Force array mode?', 'state': 'closed', 'created_at': '2017-07-28T12:31:32Z', 'closed_at': '2017-10-01T19:11:59Z', 'labels': {'name': 'question'}}
+{'issuenumber': 451, 'title': "Can't select or add more than one tag in PhoneGap/Cordova", 'state': 'closed', 'created_at': '2017-07-26T06:06:14Z', 'closed_at': '2018-03-18T16:41:38Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 450, 'title': 'Updating v-model when options are modified', 'state': 'closed', 'created_at': '2017-07-25T18:59:45Z', 'closed_at': '2018-03-18T15:46:17Z', 'labels': {'name': 'question'}}
+{'issuenumber': 449, 'title': "How can I display the user's gender?", 'state': 'closed', 'created_at': '2017-07-25T14:37:35Z', 'closed_at': '2017-07-25T16:43:44Z', 'labels': []}
+{'issuenumber': 448, 'title': 'Get data from nested json and display using Multiselect', 'state': 'closed', 'created_at': '2017-07-23T09:19:34Z', 'closed_at': '2017-07-24T08:05:59Z', 'labels': []}
+{'issuenumber': 447, 'title': '[Feature Request]', 'state': 'closed', 'created_at': '2017-07-21T12:43:33Z', 'closed_at': '2017-10-01T19:13:17Z', 'labels': {'name': 'question'}}
+{'issuenumber': 446, 'title': 'on change method issue', 'state': 'closed', 'created_at': '2017-07-21T09:57:31Z', 'closed_at': '2017-07-21T10:06:13Z', 'labels': []}
+{'issuenumber': 444, 'title': 'Cant output combination of simple options with optgroups', 'state': 'closed', 'created_at': '2017-07-20T07:28:03Z', 'closed_at': '2018-03-18T16:34:16Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 443, 'title': 'Taggable search to prioritise search results first', 'state': 'closed', 'created_at': '2017-07-19T10:13:09Z', 'closed_at': '2017-10-11T20:20:52Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 442, 'title': 'multiple how to get single value', 'state': 'closed', 'created_at': '2017-07-19T06:19:40Z', 'closed_at': '2017-07-19T07:26:23Z', 'labels': []}
+{'issuenumber': 441, 'title': 'Asynchronous select loads the data from previous search term', 'state': 'closed', 'created_at': '2017-07-18T19:32:11Z', 'closed_at': '2018-03-18T15:51:12Z', 'labels': {'name': 'question'}}
+{'issuenumber': 440, 'title': 'With :taggable="true", you can add the same new tag multiple times', 'state': 'closed', 'created_at': '2017-07-18T12:28:09Z', 'closed_at': '2017-10-11T17:46:26Z', 'labels': []}
+{'issuenumber': 439, 'title': 'When using the \'option\' template with :taggable="true" and asynchronous select, the header should not be influenced by the template', 'state': 'closed', 'created_at': '2017-07-18T12:17:43Z', 'closed_at': '2018-03-18T15:52:05Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 438, 'title': 'Why does it always remove the last item?', 'state': 'closed', 'created_at': '2017-07-18T09:46:45Z', 'closed_at': '2017-07-20T06:12:40Z', 'labels': []}
+{'issuenumber': 437, 'title': 'Jumping behaviour when selecting options', 'state': 'closed', 'created_at': '2017-07-18T07:54:44Z', 'closed_at': '2018-03-18T16:42:13Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 436, 'title': 'V-Model returning objects', 'state': 'closed', 'created_at': '2017-07-17T17:14:42Z', 'closed_at': '2017-07-17T17:39:27Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 435, 'title': 'Block space?', 'state': 'closed', 'created_at': '2017-07-17T14:09:16Z', 'closed_at': '2017-10-11T17:46:43Z', 'labels': {'name': 'question'}}
+{'issuenumber': 434, 'title': 'Option to allow for case sensitivity?', 'state': 'closed', 'created_at': '2017-07-17T13:49:11Z', 'closed_at': '2018-03-18T16:36:34Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 433, 'title': 'Bower does not contain the dist folder', 'state': 'closed', 'created_at': '2017-07-16T15:26:48Z', 'closed_at': '2018-03-18T17:28:25Z', 'labels': []}
+{'issuenumber': 432, 'title': 'Id from object', 'state': 'closed', 'created_at': '2017-07-14T14:03:48Z', 'closed_at': '2017-10-29T19:57:00Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 428, 'title': 'scope="props" not working in carret slot', 'state': 'closed', 'created_at': '2017-07-12T14:00:02Z', 'closed_at': '2017-10-01T19:14:21Z', 'labels': []}
+{'issuenumber': 426, 'title': 'Keyboard navigation delay on dropdown', 'state': 'closed', 'created_at': '2017-07-11T03:52:41Z', 'closed_at': '2017-09-27T19:53:55Z', 'labels': []}
+{'issuenumber': 425, 'title': 'Allow showing search box when values are pre-selected', 'state': 'closed', 'created_at': '2017-07-10T16:03:33Z', 'closed_at': '2017-10-01T19:17:44Z', 'labels': []}
+{'issuenumber': 424, 'title': '[Bug] Shift+Tab reset value', 'state': 'closed', 'created_at': '2017-07-10T11:03:26Z', 'closed_at': '2017-09-27T19:41:28Z', 'labels': []}
+{'issuenumber': 423, 'title': '[FEATURE REQUEST]: Add `matcher` method', 'state': 'closed', 'created_at': '2017-07-10T08:00:40Z', 'closed_at': '2017-10-01T19:14:44Z', 'labels': []}
+{'issuenumber': 422, 'title': 'Upgrade to 2.0.2 broke all components for me', 'state': 'closed', 'created_at': '2017-07-09T03:08:24Z', 'closed_at': '2017-10-01T19:16:10Z', 'labels': []}
+{'issuenumber': 421, 'title': 'Backspace removing last tag - can this be optional?', 'state': 'closed', 'created_at': '2017-07-07T16:07:11Z', 'closed_at': '2017-10-20T14:56:01Z', 'labels': {'name': 'question'}}
+{'issuenumber': 418, 'title': 'vue-multiselect component does not display - PLEASE HELP', 'state': 'closed', 'created_at': '2017-07-05T21:07:48Z', 'closed_at': '2017-07-05T21:29:56Z', 'labels': []}
+{'issuenumber': 417, 'title': 'Question regarding methods in noResult slot', 'state': 'closed', 'created_at': '2017-07-05T17:56:13Z', 'closed_at': '2017-07-18T15:42:20Z', 'labels': []}
+{'issuenumber': 416, 'title': 'Box closes automatically when a radio is clicked, in slot beforeList.', 'state': 'closed', 'created_at': '2017-07-04T17:55:09Z', 'closed_at': '2018-03-18T16:42:37Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 414, 'title': '<option> inside <multiselect> component, is it possible?', 'state': 'closed', 'created_at': '2017-07-03T23:13:01Z', 'closed_at': '2017-07-04T14:51:24Z', 'labels': {'name': 'question'}}
+{'issuenumber': 413, 'title': 'Changelog', 'state': 'closed', 'created_at': '2017-07-03T20:46:57Z', 'closed_at': '2018-03-18T16:04:28Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 411, 'title': '[Bug] Cannot Shift+Tab out of searchable multiselect', 'state': 'closed', 'created_at': '2017-07-03T05:49:38Z', 'closed_at': '2020-05-11T15:56:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 410, 'title': '[Feature Request] Validation or Promise style reject/accept', 'state': 'closed', 'created_at': '2017-07-02T12:57:02Z', 'closed_at': '2018-03-18T10:37:42Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 409, 'title': 'RTL support?', 'state': 'closed', 'created_at': '2017-06-30T16:05:37Z', 'closed_at': '2018-03-18T18:38:20Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 408, 'title': 'prevent option from selecting.', 'state': 'closed', 'created_at': '2017-06-30T10:19:15Z', 'closed_at': '2017-07-01T14:24:39Z', 'labels': {'name': 'question'}}
+{'issuenumber': 407, 'title': 'How to disable the dropdown', 'state': 'closed', 'created_at': '2017-06-27T09:13:58Z', 'closed_at': '2017-06-27T10:03:50Z', 'labels': []}
+{'issuenumber': 406, 'title': 'May I set options data with value and label', 'state': 'closed', 'created_at': '2017-06-26T15:41:09Z', 'closed_at': '2017-07-29T10:31:37Z', 'labels': []}
+{'issuenumber': 404, 'title': 'Displaying tags below the search input', 'state': 'closed', 'created_at': '2017-06-22T23:14:33Z', 'closed_at': '2017-07-01T14:11:01Z', 'labels': {'name': 'question'}}
+{'issuenumber': 403, 'title': 'Clicking on scrollbar triggers @close and @open events', 'state': 'closed', 'created_at': '2017-06-22T09:31:11Z', 'closed_at': '2018-07-29T14:43:36Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 402, 'title': 'Update example on "Basic Usage", missing closing tag. ', 'state': 'closed', 'created_at': '2017-06-20T18:34:05Z', 'closed_at': '2017-07-01T16:34:59Z', 'labels': []}
+{'issuenumber': 399, 'title': 'Prevent click-through', 'state': 'closed', 'created_at': '2017-06-17T04:23:53Z', 'closed_at': '2017-06-17T05:12:34Z', 'labels': []}
+{'issuenumber': 398, 'title': 'Using more than one label to search multiple column', 'state': 'closed', 'created_at': '2017-06-16T20:30:13Z', 'closed_at': '2017-06-16T20:34:46Z', 'labels': {'name': 'question'}}
+{'issuenumber': 397, 'title': 'Dynamic PropsData', 'state': 'closed', 'created_at': '2017-06-15T16:32:51Z', 'closed_at': '2017-06-15T18:07:30Z', 'labels': {'name': 'question'}}
+{'issuenumber': 396, 'title': 'Is there a way to reset internal value to initial value?', 'state': 'closed', 'created_at': '2017-06-14T20:05:58Z', 'closed_at': '2017-06-14T20:11:34Z', 'labels': {'name': 'question'}}
+{'issuenumber': 394, 'title': 'custom-label has problem', 'state': 'closed', 'created_at': '2017-06-10T13:27:55Z', 'closed_at': '2017-06-11T11:13:32Z', 'labels': []}
+{'issuenumber': 393, 'title': 'Press backspace with  input clear pointer hidden ', 'state': 'closed', 'created_at': '2017-06-10T10:23:15Z', 'closed_at': '2017-06-10T11:12:52Z', 'labels': []}
+{'issuenumber': 392, 'title': 'bootstrap icons in for-group feed backs and input groups are displayed over the pop-up', 'state': 'closed', 'created_at': '2017-06-08T17:34:41Z', 'closed_at': '2017-06-11T13:40:18Z', 'labels': []}
+{'issuenumber': 391, 'title': 'Conditionally bind search-change event - how to pass in the search query', 'state': 'closed', 'created_at': '2017-06-08T09:37:47Z', 'closed_at': '2017-06-10T12:05:18Z', 'labels': {'name': 'question'}}
+{'issuenumber': 390, 'title': 'Possible to remove tags? ', 'state': 'closed', 'created_at': '2017-06-07T19:04:01Z', 'closed_at': '2017-06-10T11:53:38Z', 'labels': {'name': 'question'}}
+{'issuenumber': 389, 'title': 'Remove placeholder after a option has been selected', 'state': 'closed', 'created_at': '2017-06-07T11:33:06Z', 'closed_at': '2017-06-10T18:48:57Z', 'labels': []}
+{'issuenumber': 388, 'title': 'Select one item twice', 'state': 'closed', 'created_at': '2017-06-06T22:33:49Z', 'closed_at': '2017-06-07T09:54:31Z', 'labels': {'name': 'question'}}
+{'issuenumber': 387, 'title': 'Set Initial Value', 'state': 'closed', 'created_at': '2017-06-06T01:28:51Z', 'closed_at': '2017-06-06T07:37:32Z', 'labels': {'name': 'question'}}
+{'issuenumber': 386, 'title': 'Why is not there a .css file?', 'state': 'closed', 'created_at': '2017-06-05T14:23:30Z', 'closed_at': '2017-06-10T12:07:46Z', 'labels': {'name': 'question'}}
+{'issuenumber': 384, 'title': 'Missing files in lib directory / build issues', 'state': 'closed', 'created_at': '2017-06-01T12:14:39Z', 'closed_at': '2017-10-11T17:47:23Z', 'labels': []}
+{'issuenumber': 382, 'title': 'Problem with long label text', 'state': 'closed', 'created_at': '2017-06-01T08:30:58Z', 'closed_at': '2017-06-10T13:44:58Z', 'labels': []}
+{'issuenumber': 381, 'title': 'Multi-key Search', 'state': 'closed', 'created_at': '2017-06-01T07:15:39Z', 'closed_at': '2017-06-01T08:59:36Z', 'labels': {'name': 'question'}}
+{'issuenumber': 379, 'title': 'Unwanted newline in tag mode', 'state': 'closed', 'created_at': '2017-05-24T14:21:17Z', 'closed_at': '2017-06-10T12:49:52Z', 'labels': []}
+{'issuenumber': 378, 'title': 'Disable internal-search when using group options with an empty list displays an object as item', 'state': 'closed', 'created_at': '2017-05-24T09:45:21Z', 'closed_at': '2018-03-18T16:00:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 377, 'title': 'HTML not readable in :custom-label="customLabel"', 'state': 'closed', 'created_at': '2017-05-23T06:22:47Z', 'closed_at': '2017-06-11T11:17:57Z', 'labels': []}
+{'issuenumber': 376, 'title': '<template> not working with :taggable="true" and @tag="addtag"', 'state': 'closed', 'created_at': '2017-05-23T06:22:18Z', 'closed_at': '2018-03-18T16:34:49Z', 'labels': {'name': 'needs repro'}}
+{'issuenumber': 375, 'title': 'how to change style css', 'state': 'closed', 'created_at': '2017-05-23T01:58:43Z', 'closed_at': '2017-05-23T14:23:55Z', 'labels': {'name': 'question'}}
+{'issuenumber': 374, 'title': 'Disable clearing search on close', 'state': 'closed', 'created_at': '2017-05-21T23:35:23Z', 'closed_at': '2017-06-10T18:24:19Z', 'labels': []}
+{'issuenumber': 373, 'title': 'Choose opening side of select', 'state': 'closed', 'created_at': '2017-05-20T18:37:54Z', 'closed_at': '2017-06-10T19:08:44Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 371, 'title': 'customize input', 'state': 'closed', 'created_at': '2017-05-17T03:22:33Z', 'closed_at': '2018-03-18T16:43:13Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 370, 'title': 'Example on project page is glitchy in Firefox', 'state': 'closed', 'created_at': '2017-05-10T18:42:42Z', 'closed_at': '2017-05-22T00:50:46Z', 'labels': []}
+{'issuenumber': 369, 'title': 'Feature request: add `multiselect--no-results` class when the list is empty', 'state': 'closed', 'created_at': '2017-05-10T15:29:45Z', 'closed_at': '2017-06-10T18:25:57Z', 'labels': []}
+{'issuenumber': 368, 'title': "usage 'v-model' in vue-multiselect", 'state': 'closed', 'created_at': '2017-05-09T10:56:30Z', 'closed_at': '2018-03-18T16:34:55Z', 'labels': {'name': 'needs repro'}}
+{'issuenumber': 367, 'title': 'Multiple Choice', 'state': 'closed', 'created_at': '2017-05-09T01:45:36Z', 'closed_at': '2017-06-10T18:50:26Z', 'labels': {'name': 'question'}}
+{'issuenumber': 366, 'title': 'Dynamically alter placeholders', 'state': 'closed', 'created_at': '2017-05-06T12:35:35Z', 'closed_at': '2017-06-10T18:56:27Z', 'labels': {'name': 'question'}}
+{'issuenumber': 365, 'title': 'Is multiselect testable?', 'state': 'closed', 'created_at': '2017-05-05T18:01:39Z', 'closed_at': '2017-10-11T15:01:50Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 364, 'title': "Click on afterList don't trigger", 'state': 'closed', 'created_at': '2017-05-04T17:37:04Z', 'closed_at': '2017-06-11T11:16:41Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 362, 'title': 'Controlling a Property with MultiSelect', 'state': 'closed', 'created_at': '2017-05-04T07:42:17Z', 'closed_at': '2017-05-04T08:19:33Z', 'labels': {'name': 'question'}}
+{'issuenumber': 361, 'title': 'clear all extended function', 'state': 'closed', 'created_at': '2017-05-04T06:51:52Z', 'closed_at': '2017-06-11T17:14:23Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 359, 'title': 'directly binding v-model to a property of options', 'state': 'closed', 'created_at': '2017-04-30T16:15:30Z', 'closed_at': '2017-10-09T18:24:42Z', 'labels': []}
+{'issuenumber': 358, 'title': 'problem with scrollbar & pointer', 'state': 'closed', 'created_at': '2017-04-27T14:43:50Z', 'closed_at': '2018-03-18T10:35:16Z', 'labels': []}
+{'issuenumber': 357, 'title': 'Press backspace with no input, the browser back', 'state': 'closed', 'created_at': '2017-04-27T10:13:46Z', 'closed_at': '2017-06-11T16:39:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 356, 'title': 'import of the multiselect code seems problematic', 'state': 'closed', 'created_at': '2017-04-25T20:22:23Z', 'closed_at': '2017-04-25T20:50:14Z', 'labels': []}
+{'issuenumber': 355, 'title': 'custom click action in noResult-slot not working', 'state': 'closed', 'created_at': '2017-04-24T14:02:22Z', 'closed_at': '2018-03-18T16:32:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 354, 'title': 'Internal Search with groups is case sensitive.', 'state': 'closed', 'created_at': '2017-04-19T09:47:29Z', 'closed_at': '2017-06-11T17:15:35Z', 'labels': []}
+{'issuenumber': 353, 'title': 'Enhancement Request: Options Template Slot', 'state': 'closed', 'created_at': '2017-04-18T16:49:19Z', 'closed_at': '2017-05-08T16:06:44Z', 'labels': {'name': 'question'}}
+{'issuenumber': 351, 'title': 'Feature Request: Multiple Selected Values Label', 'state': 'closed', 'created_at': '2017-04-17T16:53:22Z', 'closed_at': '2018-03-18T16:43:37Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 350, 'title': 'Feature Request: custom-group-label', 'state': 'closed', 'created_at': '2017-04-17T14:57:40Z', 'closed_at': '2017-10-11T17:30:50Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 349, 'title': 'Error from UglifyJs Unexpected token punc «(», expected punc «:» ', 'state': 'closed', 'created_at': '2017-04-14T16:58:05Z', 'closed_at': '2017-04-14T19:37:29Z', 'labels': {'name': 'question'}}
+{'issuenumber': 348, 'title': 'error when build command in vue-cli webpack template', 'state': 'closed', 'created_at': '2017-04-11T11:29:05Z', 'closed_at': '2017-04-12T11:58:43Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 345, 'title': 'options with falsy values not shown in dropdown', 'state': 'closed', 'created_at': '2017-04-07T14:33:50Z', 'closed_at': '2017-10-11T17:28:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 344, 'title': 'Options not being loaded when expected', 'state': 'closed', 'created_at': '2017-04-07T09:29:27Z', 'closed_at': '2017-06-11T11:26:52Z', 'labels': {'name': 'question'}}
+{'issuenumber': 343, 'title': 'Beta version not supported documentation for ES5 ', 'state': 'closed', 'created_at': '2017-04-05T13:04:25Z', 'closed_at': '2017-04-14T09:26:03Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 342, 'title': 'Options to close menu when clicked on existing value', 'state': 'closed', 'created_at': '2017-04-02T08:36:53Z', 'closed_at': '2018-03-18T16:44:02Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 341, 'title': 'Question: Triggering "select" or "change" on multiple instances on the page', 'state': 'closed', 'created_at': '2017-03-31T22:23:37Z', 'closed_at': '2017-04-02T20:24:21Z', 'labels': {'name': 'question'}}
+{'issuenumber': 340, 'title': 'SSR?', 'state': 'closed', 'created_at': '2017-03-31T14:28:49Z', 'closed_at': '2017-04-14T09:27:09Z', 'labels': {'name': 'question'}}
+{'issuenumber': 339, 'title': 'NUXT compatability?', 'state': 'closed', 'created_at': '2017-03-31T14:22:20Z', 'closed_at': '2017-04-01T06:49:22Z', 'labels': {'name': 'question'}}
+{'issuenumber': 338, 'title': 'Custom Label for only display selected area', 'state': 'closed', 'created_at': '2017-03-31T03:55:34Z', 'closed_at': '2017-06-11T15:55:15Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 337, 'title': 'Accessibility issue no label, id not rendering on multiselect tag', 'state': 'closed', 'created_at': '2017-03-30T15:48:46Z', 'closed_at': '2017-06-10T18:55:15Z', 'labels': []}
+{'issuenumber': 336, 'title': 'Using allowEmpty with multiple = false is buggy', 'state': 'closed', 'created_at': '2017-03-30T11:23:58Z', 'closed_at': '2017-03-31T10:20:49Z', 'labels': {'name': 'question'}}
+{'issuenumber': 335, 'title': 'Using SelectLabel globally?', 'state': 'closed', 'created_at': '2017-03-30T10:19:35Z', 'closed_at': '2018-03-18T10:34:43Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 334, 'title': 'Is there a way to use multiselect as text input with autocomplete?', 'state': 'closed', 'created_at': '2017-03-29T16:57:25Z', 'closed_at': '2017-10-11T17:32:02Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 333, 'title': 'multiple instances of vue-multiselect', 'state': 'closed', 'created_at': '2017-03-29T08:38:48Z', 'closed_at': '2017-06-11T15:39:50Z', 'labels': {'name': 'question'}}
+{'issuenumber': 332, 'title': ':bug Done keyboard iOS event', 'state': 'closed', 'created_at': '2017-03-28T13:25:17Z', 'closed_at': '2018-03-18T10:34:16Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 331, 'title': 'Request: Example repo with Vue 2.x, webpack, Vuex, and Vue-Multiselect', 'state': 'closed', 'created_at': '2017-03-27T17:40:43Z', 'closed_at': '2017-03-30T14:16:55Z', 'labels': {'name': 'question'}}
+{'issuenumber': 330, 'title': 'How to programatically search options and select it for display', 'state': 'closed', 'created_at': '2017-03-27T14:31:24Z', 'closed_at': '2017-06-11T11:54:11Z', 'labels': {'name': 'question'}}
+{'issuenumber': 329, 'title': "It don't validate on Submit when using :required <multiselect> in a Form", 'state': 'closed', 'created_at': '2017-03-27T05:01:11Z', 'closed_at': '2017-06-11T12:03:46Z', 'labels': []}
+{'issuenumber': 328, 'title': 'Search is not case insensetive, when using option groups', 'state': 'closed', 'created_at': '2017-03-25T12:08:53Z', 'closed_at': '2017-04-14T10:28:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 327, 'title': 'props.search is cleared when click on the scroll slider', 'state': 'closed', 'created_at': '2017-03-24T14:48:28Z', 'closed_at': '2017-06-11T12:04:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 325, 'title': 'Option to Clear Selection', 'state': 'closed', 'created_at': '2017-03-21T17:42:47Z', 'closed_at': '2017-03-22T07:32:10Z', 'labels': {'name': 'question'}}
+{'issuenumber': 324, 'title': 'Behind the icons', 'state': 'closed', 'created_at': '2017-03-20T19:37:57Z', 'closed_at': '2017-03-20T20:43:39Z', 'labels': {'name': '¯\\_(ツ)_/¯'}}
+{'issuenumber': 323, 'title': 'Placeholder not showing up', 'state': 'closed', 'created_at': '2017-03-20T15:10:34Z', 'closed_at': '2017-06-11T13:04:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 322, 'title': 'No CSS', 'state': 'closed', 'created_at': '2017-03-20T09:21:23Z', 'closed_at': '2017-03-20T20:39:21Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 320, 'title': 'Multiple instance of Multiselect inside a form has issues', 'state': 'closed', 'created_at': '2017-03-16T02:27:00Z', 'closed_at': '2017-06-11T13:05:15Z', 'labels': {'name': 'needs repro'}}
+{'issuenumber': 319, 'title': 'Track by multiple field?', 'state': 'closed', 'created_at': '2017-03-15T14:12:32Z', 'closed_at': '2017-06-11T15:18:28Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 318, 'title': 'Is it possible to hide placeholder in multiple select after first selection or when disabled?', 'state': 'closed', 'created_at': '2017-03-15T13:59:16Z', 'closed_at': '2017-03-16T08:24:44Z', 'labels': {'name': 'question'}}
+{'issuenumber': 317, 'title': 'Style not working', 'state': 'closed', 'created_at': '2017-03-15T08:57:37Z', 'closed_at': '2017-03-15T12:39:13Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 316, 'title': 'Asynchronous select: Delay before querying?', 'state': 'closed', 'created_at': '2017-03-13T23:56:21Z', 'closed_at': '2017-03-15T12:44:04Z', 'labels': {'name': 'question'}}
+{'issuenumber': 315, 'title': 'id attribute for input', 'state': 'closed', 'created_at': '2017-03-13T16:26:00Z', 'closed_at': '2017-03-14T08:27:06Z', 'labels': []}
+{'issuenumber': 314, 'title': 'Missing styling', 'state': 'closed', 'created_at': '2017-03-12T11:39:49Z', 'closed_at': '2017-03-12T11:40:07Z', 'labels': []}
+{'issuenumber': 312, 'title': 'tagging lost tag added', 'state': 'closed', 'created_at': '2017-03-10T13:09:41Z', 'closed_at': '2017-06-11T13:32:52Z', 'labels': {'name': 'question'}}
+{'issuenumber': 311, 'title': 'Asynchronous select bug', 'state': 'closed', 'created_at': '2017-03-07T22:33:06Z', 'closed_at': '2017-03-15T12:44:20Z', 'labels': {'name': 'question'}}
+{'issuenumber': 310, 'title': '2.0.0-beta.14 and css problems', 'state': 'closed', 'created_at': '2017-03-07T21:01:43Z', 'closed_at': '2017-03-08T21:52:27Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 309, 'title': '[2.0] Error with an empty group and tags', 'state': 'closed', 'created_at': '2017-03-07T14:13:37Z', 'closed_at': '2017-06-11T15:11:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 308, 'title': 'bug internal-search', 'state': 'closed', 'created_at': '2017-03-06T13:37:22Z', 'closed_at': '2017-03-15T12:45:17Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 307, 'title': 'Issue when clicking on the placeholder in IE11 on not searchable fields ', 'state': 'closed', 'created_at': '2017-03-06T09:46:00Z', 'closed_at': '2018-07-29T14:43:34Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 306, 'title': 'Not supported documentation for ES5 (native JavaScript browser and current version  of JS)', 'state': 'closed', 'created_at': '2017-03-06T07:38:00Z', 'closed_at': '2017-03-06T08:08:12Z', 'labels': {'name': 'question'}}
+{'issuenumber': 305, 'title': 'unable to change the font-size of the input', 'state': 'closed', 'created_at': '2017-03-05T15:40:55Z', 'closed_at': '2017-06-11T15:19:45Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 304, 'title': 'Is there a way to use regular form post with vue multiselect?', 'state': 'closed', 'created_at': '2017-03-05T01:54:41Z', 'closed_at': '2017-03-05T21:12:01Z', 'labels': []}
+{'issuenumber': 303, 'title': 'Interference of tab order of inputs in form', 'state': 'closed', 'created_at': '2017-03-04T19:05:52Z', 'closed_at': '2017-06-10T18:46:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 302, 'title': 'reset selected value after options change', 'state': 'closed', 'created_at': '2017-03-04T12:21:43Z', 'closed_at': '2017-03-04T14:19:14Z', 'labels': []}
+{'issuenumber': 301, 'title': 'Failed to load src: "vue-multiselect/dist/vue-multiselect.min.css"', 'state': 'closed', 'created_at': '2017-03-04T08:19:02Z', 'closed_at': '2017-03-15T21:49:14Z', 'labels': {'name': 'question'}}
+{'issuenumber': 300, 'title': 'Async triggers request for every single letter added', 'state': 'closed', 'created_at': '2017-03-03T17:40:48Z', 'closed_at': '2017-03-03T17:50:56Z', 'labels': []}
+{'issuenumber': 299, 'title': 'How to get selected values to process in backend?', 'state': 'closed', 'created_at': '2017-03-02T13:31:10Z', 'closed_at': '2017-06-11T13:45:21Z', 'labels': []}
+{'issuenumber': 298, 'title': '[v 1.1.4] currentOptionLabel being set but not showing on select', 'state': 'closed', 'created_at': '2017-03-01T18:14:38Z', 'closed_at': '2018-03-18T16:40:25Z', 'labels': {'name': 'question'}}
+{'issuenumber': 297, 'title': 'Missing styles in vue-multiselect 2.0 beta 14', 'state': 'closed', 'created_at': '2017-03-01T06:54:54Z', 'closed_at': '2017-03-01T08:03:43Z', 'labels': []}
+{'issuenumber': 296, 'title': 'Not working with latest version of vue/vue-loader/vue-template-compiler', 'state': 'closed', 'created_at': '2017-02-28T18:25:23Z', 'closed_at': '2017-02-28T20:06:15Z', 'labels': {'name': 'question'}}
+{'issuenumber': 294, 'title': 'Input appears unstyled in v2.0.0-beta.14', 'state': 'closed', 'created_at': '2017-02-28T15:51:37Z', 'closed_at': '2017-02-28T15:53:25Z', 'labels': {'name': 'question'}}
+{'issuenumber': 293, 'title': 'Requires vue 2.2+', 'state': 'closed', 'created_at': '2017-02-28T13:44:32Z', 'closed_at': '2017-04-14T10:27:10Z', 'labels': []}
+{'issuenumber': 292, 'title': 'How to keep the input persist when the user clicks on the input', 'state': 'closed', 'created_at': '2017-02-28T12:15:14Z', 'closed_at': '2017-03-21T20:45:02Z', 'labels': []}
+{'issuenumber': 291, 'title': 'Start searching when clicking on a button', 'state': 'closed', 'created_at': '2017-02-28T08:31:12Z', 'closed_at': '2017-06-11T17:20:49Z', 'labels': []}
+{'issuenumber': 290, 'title': 'Setting value of single select to null throws errors', 'state': 'closed', 'created_at': '2017-02-27T21:06:40Z', 'closed_at': '2017-03-08T21:48:37Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 288, 'title': 'needs a new build for vue 2.2.1', 'state': 'closed', 'created_at': '2017-02-27T17:39:31Z', 'closed_at': '2017-02-27T22:57:08Z', 'labels': []}
+{'issuenumber': 286, 'title': 'not support the phone', 'state': 'closed', 'created_at': '2017-02-27T10:54:53Z', 'closed_at': '2018-03-18T10:33:58Z', 'labels': []}
+{'issuenumber': 285, 'title': 'Is there a way to disable the new behaviour where the "dropdown" becomes a "dropup"?', 'state': 'closed', 'created_at': '2017-02-27T00:14:36Z', 'closed_at': '2017-06-11T15:53:12Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 283, 'title': 'ew', 'state': 'closed', 'created_at': '2017-02-25T19:19:11Z', 'closed_at': '2017-02-26T07:58:27Z', 'labels': []}
+{'issuenumber': 282, 'title': "Clicking 'X' on any item in multiselect always removes last item", 'state': 'closed', 'created_at': '2017-02-24T18:02:05Z', 'closed_at': '2017-02-25T14:09:25Z', 'labels': []}
+{'issuenumber': 281, 'title': 'multi search', 'state': 'closed', 'created_at': '2017-02-22T22:27:39Z', 'closed_at': '2017-02-23T11:29:20Z', 'labels': {'name': 'question'}}
+{'issuenumber': 280, 'title': 'Trigger @select Event manually', 'state': 'closed', 'created_at': '2017-02-22T19:07:27Z', 'closed_at': '2017-06-11T15:23:31Z', 'labels': {'name': 'question'}}
+{'issuenumber': 279, 'title': 'when  vue version 2.1.10 meet error _h is not defined', 'state': 'closed', 'created_at': '2017-02-22T08:31:17Z', 'closed_at': '2017-02-22T15:47:01Z', 'labels': []}
+{'issuenumber': 275, 'title': ' Icon support', 'state': 'closed', 'created_at': '2017-02-20T20:37:58Z', 'closed_at': '2017-02-20T20:58:56Z', 'labels': {'name': 'question'}}
+{'issuenumber': 273, 'title': 'Search multiple fields', 'state': 'closed', 'created_at': '2017-02-19T13:25:30Z', 'closed_at': '2017-02-19T15:03:55Z', 'labels': {'name': 'question'}}
+{'issuenumber': 272, 'title': "Can I reference by Id the data , instead this -  value: { name: 'Vue.js', language: 'JavaScript' } , just make like this  - value: 2", 'state': 'closed', 'created_at': '2017-02-19T13:16:02Z', 'closed_at': '2017-02-19T15:05:45Z', 'labels': {'name': 'question'}}
+{'issuenumber': 271, 'title': 'Error happening when I try to use with Sequelize', 'state': 'closed', 'created_at': '2017-02-18T18:09:36Z', 'closed_at': '2017-06-11T15:39:19Z', 'labels': []}
+{'issuenumber': 270, 'title': 'How to only add tagging', 'state': 'closed', 'created_at': '2017-02-18T06:51:50Z', 'closed_at': '2017-03-08T21:53:38Z', 'labels': []}
+{'issuenumber': 269, 'title': 'ReferenceError: deepClone is not defined', 'state': 'closed', 'created_at': '2017-02-17T19:16:24Z', 'closed_at': '2017-02-25T13:47:21Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 268, 'title': 'Multiselect throws errors', 'state': 'closed', 'created_at': '2017-02-17T14:36:38Z', 'closed_at': '2017-06-11T15:40:25Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 267, 'title': '"standalone" usage', 'state': 'closed', 'created_at': '2017-02-16T19:24:37Z', 'closed_at': '2017-02-16T19:43:36Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 266, 'title': 'Component remove necessary space from the right end of a query string.', 'state': 'closed', 'created_at': '2017-02-16T16:20:35Z', 'closed_at': '2017-02-16T19:44:38Z', 'labels': []}
+{'issuenumber': 265, 'title': 'does have any how , remove this red select color ?', 'state': 'closed', 'created_at': '2017-02-16T11:22:09Z', 'closed_at': '2017-02-17T20:49:09Z', 'labels': {'name': 'question'}}
+{'issuenumber': 263, 'title': 'Return Value', 'state': 'closed', 'created_at': '2017-02-15T09:40:30Z', 'closed_at': '2017-10-11T15:01:22Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 261, 'title': 'Question: Can I use getters for the label?', 'state': 'closed', 'created_at': '2017-02-13T16:14:10Z', 'closed_at': '2017-02-13T21:34:37Z', 'labels': []}
+{'issuenumber': 260, 'title': 'selected object not displayed', 'state': 'closed', 'created_at': '2017-02-12T18:23:18Z', 'closed_at': '2017-02-13T09:53:04Z', 'labels': []}
+{'issuenumber': 259, 'title': 'Problem with selected value by default', 'state': 'closed', 'created_at': '2017-02-10T18:25:53Z', 'closed_at': '2017-02-13T21:27:39Z', 'labels': []}
+{'issuenumber': 258, 'title': 'Nested items?', 'state': 'closed', 'created_at': '2017-02-10T11:56:59Z', 'closed_at': '2017-02-25T13:59:38Z', 'labels': {'name': 'question'}}
+{'issuenumber': 257, 'title': 'function for @select is not called on ipad (both Chrome and Safari)', 'state': 'closed', 'created_at': '2017-02-09T15:39:33Z', 'closed_at': '2018-07-29T14:43:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 256, 'title': 'Custom search interfering with option groups', 'state': 'closed', 'created_at': '2017-02-08T21:39:55Z', 'closed_at': '2017-02-25T14:00:43Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 255, 'title': 'Custom Template for the Selected Chips in Multiselect', 'state': 'closed', 'created_at': '2017-02-08T13:27:54Z', 'closed_at': '2017-06-11T15:29:59Z', 'labels': {'name': 'question'}}
+{'issuenumber': 254, 'title': 'Highlight the matching text from query in options(make it bold or some styling option).', 'state': 'closed', 'created_at': '2017-02-08T13:21:37Z', 'closed_at': '2017-06-11T15:38:16Z', 'labels': {'name': 'question'}}
+{'issuenumber': 253, 'title': 'Tag dropdown text variable', 'state': 'closed', 'created_at': '2017-02-08T12:05:29Z', 'closed_at': '2017-02-08T12:16:37Z', 'labels': {'name': 'question'}}
+{'issuenumber': 252, 'title': '[Question] How to get the event sender or have extra argument in @select', 'state': 'closed', 'created_at': '2017-02-08T09:36:26Z', 'closed_at': '2017-02-08T09:45:48Z', 'labels': {'name': 'question'}}
+{'issuenumber': 251, 'title': 'Reserved Keyword Errors in console', 'state': 'closed', 'created_at': '2017-02-07T14:31:11Z', 'closed_at': '2017-02-07T16:58:24Z', 'labels': {'name': 'question'}}
+{'issuenumber': 250, 'title': 'Question: How can I make an option selected by default?', 'state': 'closed', 'created_at': '2017-02-07T09:21:08Z', 'closed_at': '2017-02-07T10:15:06Z', 'labels': []}
+{'issuenumber': 249, 'title': 'How can update those options values?', 'state': 'closed', 'created_at': '2017-02-07T00:22:47Z', 'closed_at': '2017-02-07T04:17:24Z', 'labels': []}
+{'issuenumber': 248, 'title': 'Change the hover green color ', 'state': 'closed', 'created_at': '2017-02-06T15:22:48Z', 'closed_at': '2017-02-07T07:20:24Z', 'labels': {'name': 'question'}}
+{'issuenumber': 247, 'title': 'CDN is not working', 'state': 'closed', 'created_at': '2017-02-06T10:17:52Z', 'closed_at': '2017-02-06T12:26:56Z', 'labels': []}
+{'issuenumber': 246, 'title': 'Option to match from beginning of word, no internal sub string.', 'state': 'closed', 'created_at': '2017-02-06T06:36:23Z', 'closed_at': '2017-02-06T18:16:36Z', 'labels': {'name': 'question'}}
+{'issuenumber': 245, 'title': 'Setting width of options', 'state': 'closed', 'created_at': '2017-02-06T05:23:50Z', 'closed_at': '2017-02-26T15:39:42Z', 'labels': []}
+{'issuenumber': 244, 'title': 'Search with Custom Label?', 'state': 'closed', 'created_at': '2017-02-06T01:43:38Z', 'closed_at': '2017-02-06T12:30:21Z', 'labels': {'name': 'question'}}
+{'issuenumber': 243, 'title': 'Error, If there are no options available and click Enter', 'state': 'closed', 'created_at': '2017-02-04T15:01:41Z', 'closed_at': '2017-02-25T13:57:55Z', 'labels': []}
+{'issuenumber': 242, 'title': "Reactive 'selected' attributes don't always appear", 'state': 'closed', 'created_at': '2017-02-03T22:32:34Z', 'closed_at': '2017-02-04T09:52:38Z', 'labels': []}
+{'issuenumber': 241, 'title': 'Edit tags.', 'state': 'closed', 'created_at': '2017-02-03T12:52:16Z', 'closed_at': '2017-02-06T06:53:02Z', 'labels': []}
+{'issuenumber': 240, 'title': 'Custom css in custom-label', 'state': 'closed', 'created_at': '2017-02-03T12:42:31Z', 'closed_at': '2017-02-06T06:53:20Z', 'labels': []}
+{'issuenumber': 239, 'title': 'Bulma Modal scrolling problem', 'state': 'closed', 'created_at': '2017-02-01T23:34:23Z', 'closed_at': '2017-02-07T07:20:52Z', 'labels': []}
+{'issuenumber': 238, 'title': 'Bug with css on the demo website', 'state': 'closed', 'created_at': '2017-02-01T16:42:53Z', 'closed_at': '2017-06-11T15:28:56Z', 'labels': []}
+{'issuenumber': 237, 'title': 'Close drop down after adding tag.', 'state': 'closed', 'created_at': '2017-02-01T08:49:30Z', 'closed_at': '2017-02-25T13:51:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 236, 'title': 'Uncaught ReferenceError: Multiselect is not defined', 'state': 'closed', 'created_at': '2017-01-29T19:32:32Z', 'closed_at': '2017-01-29T19:57:14Z', 'labels': {'name': 'question'}}
+{'issuenumber': 233, 'title': "Tagging: with multiple 'multiselects' on page", 'state': 'closed', 'created_at': '2017-01-27T18:39:49Z', 'closed_at': '2017-01-29T19:59:33Z', 'labels': {'name': 'question'}}
+{'issuenumber': 232, 'title': 'Separate CSS', 'state': 'closed', 'created_at': '2017-01-27T11:53:05Z', 'closed_at': '2017-02-25T13:50:59Z', 'labels': []}
+{'issuenumber': 231, 'title': "Clicking or pressing enter on a new tag doesn't close the dropdown in single select", 'state': 'closed', 'created_at': '2017-01-27T08:45:11Z', 'closed_at': '2017-01-27T21:40:33Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 230, 'title': 'Question: Close after clicking on selected option', 'state': 'closed', 'created_at': '2017-01-26T15:23:50Z', 'closed_at': '2017-07-01T15:10:24Z', 'labels': []}
+{'issuenumber': 229, 'title': 'Taggable with false multiple property.', 'state': 'closed', 'created_at': '2017-01-26T12:28:41Z', 'closed_at': '2017-06-11T15:28:47Z', 'labels': {'name': 'question'}}
+{'issuenumber': 228, 'title': 'search-change event does not emit when input cleared', 'state': 'closed', 'created_at': '2017-01-25T23:52:06Z', 'closed_at': '2017-02-25T14:05:45Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 227, 'title': 'Bring to the front', 'state': 'closed', 'created_at': '2017-01-25T20:13:04Z', 'closed_at': '2017-01-26T11:10:27Z', 'labels': {'name': 'question'}}
+{'issuenumber': 226, 'title': 'Single file import', 'state': 'closed', 'created_at': '2017-01-25T10:36:07Z', 'closed_at': '2017-01-25T21:25:40Z', 'labels': []}
+{'issuenumber': 225, 'title': 'Enhancement - allow new tag entry to be case sensitive (taggable: true)', 'state': 'closed', 'created_at': '2017-01-23T18:37:03Z', 'closed_at': '2017-02-25T13:49:48Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 224, 'title': 'Set selected value inside custom multiselect component', 'state': 'closed', 'created_at': '2017-01-23T14:04:13Z', 'closed_at': '2017-02-27T01:08:13Z', 'labels': []}
+{'issuenumber': 221, 'title': 'Vue.js 2.1.6+ has "key" as reserved word', 'state': 'closed', 'created_at': '2017-01-22T15:32:04Z', 'closed_at': '2017-01-22T15:39:09Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 220, 'title': 'Invalid props key event with latest beta version', 'state': 'closed', 'created_at': '2017-01-20T15:28:03Z', 'closed_at': '2017-01-20T15:33:28Z', 'labels': []}
+{'issuenumber': 219, 'title': 'Add search button option?', 'state': 'closed', 'created_at': '2017-01-19T17:47:03Z', 'closed_at': '2017-10-11T17:28:39Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 218, 'title': 'Key is a reserved attribute?', 'state': 'closed', 'created_at': '2017-01-19T03:19:46Z', 'closed_at': '2017-01-19T03:26:10Z', 'labels': []}
+{'issuenumber': 217, 'title': 'No ability to infinite scroll', 'state': 'closed', 'created_at': '2017-01-17T23:39:45Z', 'closed_at': '2017-06-11T15:26:45Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 216, 'title': 'Search not working on Russian language first letter is uppercase (v 2.0.0-beta.12)', 'state': 'closed', 'created_at': '2017-01-17T10:26:04Z', 'closed_at': '2017-06-11T17:24:34Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 215, 'title': 'Assigning async options', 'state': 'closed', 'created_at': '2017-01-16T15:30:51Z', 'closed_at': '2017-01-22T15:38:05Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 214, 'title': 'How to handle directly focus and blur event on an input element.', 'state': 'closed', 'created_at': '2017-01-15T15:08:37Z', 'closed_at': '2018-03-18T16:40:35Z', 'labels': []}
+{'issuenumber': 213, 'title': 'Clear selection without setting `:selected`', 'state': 'closed', 'created_at': '2017-01-13T18:57:24Z', 'closed_at': '2017-10-11T09:34:40Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 212, 'title': 'Bug remove selected options', 'state': 'closed', 'created_at': '2017-01-12T15:21:21Z', 'closed_at': '2017-01-13T10:34:23Z', 'labels': []}
+{'issuenumber': 211, 'title': '[question] dont show noResult until there truly are noresults.', 'state': 'closed', 'created_at': '2017-01-12T07:18:19Z', 'closed_at': '2017-02-25T13:59:22Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 210, 'title': 'Two-way binding model using a custom component', 'state': 'closed', 'created_at': '2017-01-11T11:48:43Z', 'closed_at': '2017-01-12T13:55:37Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 209, 'title': 'Post-selection focus and styles for accessbility', 'state': 'closed', 'created_at': '2017-01-11T05:39:59Z', 'closed_at': '2017-06-11T16:36:27Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 208, 'title': 'Placeholder text changes to first selected option', 'state': 'closed', 'created_at': '2017-01-10T17:19:55Z', 'closed_at': '2017-02-25T13:50:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 207, 'title': 'Inline onmousedown event on remove button', 'state': 'closed', 'created_at': '2017-01-10T14:57:21Z', 'closed_at': '2017-02-25T14:52:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 206, 'title': 'Async Tagging Question', 'state': 'closed', 'created_at': '2017-01-09T19:45:41Z', 'closed_at': '2017-06-11T15:20:53Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 205, 'title': 'Any chance to have this component working with vue.js 2?', 'state': 'closed', 'created_at': '2017-01-09T08:42:57Z', 'closed_at': '2017-01-09T09:01:14Z', 'labels': []}
+{'issuenumber': 204, 'title': '[Bug] Full options list is visible for a short period of time right after a component looses focus.', 'state': 'closed', 'created_at': '2017-01-08T21:09:50Z', 'closed_at': '2017-01-08T21:17:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 203, 'title': 'Is there any way to prevent the search field from clearing on focus?', 'state': 'closed', 'created_at': '2017-01-08T20:01:46Z', 'closed_at': '2017-06-11T16:36:04Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 202, 'title': '[feature request] Add more slots to make each part of the component fully customizable', 'state': 'closed', 'created_at': '2017-01-08T19:53:50Z', 'closed_at': '2017-06-11T16:05:30Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 201, 'title': 'Is there any way to prevent multiselect styles from loading?', 'state': 'closed', 'created_at': '2017-01-08T09:44:58Z', 'closed_at': '2017-02-25T14:04:18Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 200, 'title': 'Global configuration support?', 'state': 'closed', 'created_at': '2017-01-06T17:38:40Z', 'closed_at': '2017-01-07T00:16:12Z', 'labels': {'name': 'question'}}
+{'issuenumber': 199, 'title': 'Error: TypeError: e._v is not a function', 'state': 'closed', 'created_at': '2017-01-06T13:54:34Z', 'closed_at': '2017-01-06T14:00:38Z', 'labels': []}
+{'issuenumber': 198, 'title': 'Need help to understand something', 'state': 'closed', 'created_at': '2017-01-06T12:07:29Z', 'closed_at': '2017-01-08T17:36:05Z', 'labels': []}
+{'issuenumber': 197, 'title': 'New tagging entries are always lowercase...', 'state': 'closed', 'created_at': '2017-01-04T16:51:23Z', 'closed_at': '2017-01-08T21:39:06Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 196, 'title': 'ClearOnSelect evaluated as true when multiple is false', 'state': 'closed', 'created_at': '2017-01-04T09:08:24Z', 'closed_at': '2017-01-08T18:17:31Z', 'labels': []}
+{'issuenumber': 195, 'title': '[V2] Autoselect first non-label', 'state': 'closed', 'created_at': '2017-01-04T04:37:34Z', 'closed_at': '2017-01-08T21:47:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 194, 'title': 'How to chose what return as we do with label?', 'state': 'closed', 'created_at': '2017-01-03T13:49:00Z', 'closed_at': '2017-10-11T17:28:59Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 193, 'title': "searchable='false'  and multiple='true' shows not only Selections but also additional Text ", 'state': 'closed', 'created_at': '2017-01-03T11:21:17Z', 'closed_at': '2017-01-22T15:23:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 192, 'title': 'Question: Pre-selected track-by', 'state': 'closed', 'created_at': '2017-01-02T07:44:13Z', 'closed_at': '2017-01-19T07:44:20Z', 'labels': {'name': 'question'}}
+{'issuenumber': 191, 'title': 'Load Single JS File in Page Directly', 'state': 'closed', 'created_at': '2016-12-31T13:54:39Z', 'closed_at': '2016-12-31T14:14:46Z', 'labels': {'name': 'question'}}
+{'issuenumber': 190, 'title': "v2.0.0-beta13 - Cannot read property 'isLabel' when tab out.", 'state': 'closed', 'created_at': '2016-12-30T15:42:54Z', 'closed_at': '2017-01-08T21:38:21Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 189, 'title': '[V1] Change placeholder or remove it', 'state': 'closed', 'created_at': '2016-12-29T17:00:57Z', 'closed_at': '2017-01-08T21:39:15Z', 'labels': {'name': 'question'}}
+{'issuenumber': 187, 'title': '"Space" gets automatically deleted when entering text', 'state': 'closed', 'created_at': '2016-12-29T11:35:42Z', 'closed_at': '2017-01-22T15:22:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 186, 'title': 'Got Uncaught TypeError when value is null', 'state': 'closed', 'created_at': '2016-12-29T06:00:14Z', 'closed_at': '2017-01-22T15:22:37Z', 'labels': {'name': 'question'}}
+{'issuenumber': 185, 'title': 'How to use custom option templates with 2.0.0-beta.10', 'state': 'closed', 'created_at': '2016-12-29T00:41:33Z', 'closed_at': '2016-12-31T04:10:09Z', 'labels': {'name': 'question'}}
+{'issuenumber': 184, 'title': 'Option to show remote result without filter', 'state': 'closed', 'created_at': '2016-12-29T00:24:46Z', 'closed_at': '2016-12-29T03:07:33Z', 'labels': []}
+{'issuenumber': 183, 'title': 'Passing custom attributes in @select event', 'state': 'closed', 'created_at': '2016-12-28T22:23:25Z', 'closed_at': '2016-12-28T22:39:36Z', 'labels': []}
+{'issuenumber': 181, 'title': "Doesn't work with v2", 'state': 'closed', 'created_at': '2016-12-28T08:44:18Z', 'closed_at': '2016-12-29T16:14:04Z', 'labels': []}
+{'issuenumber': 180, 'title': 'How to change the selected tag dynamically?', 'state': 'closed', 'created_at': '2016-12-26T05:13:12Z', 'closed_at': '2017-01-22T15:22:27Z', 'labels': []}
+{'issuenumber': 179, 'title': 'Uncaught TypeError with Vue 2.1.7', 'state': 'closed', 'created_at': '2016-12-25T16:11:25Z', 'closed_at': '2016-12-27T12:17:22Z', 'labels': {'name': '2.0'}}
+{'issuenumber': 178, 'title': 'Rework event system to better support mobile? ', 'state': 'closed', 'created_at': '2016-12-24T07:47:52Z', 'closed_at': '2018-07-29T14:43:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 177, 'title': 'How to prevent the dropdown from showing on focus?', 'state': 'closed', 'created_at': '2016-12-22T18:51:13Z', 'closed_at': '2017-06-11T15:22:01Z', 'labels': []}
+{'issuenumber': 176, 'title': 'Disabled option', 'state': 'closed', 'created_at': '2016-12-22T18:17:49Z', 'closed_at': '2017-06-11T15:52:31Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 175, 'title': 'Dynamic template creates an error', 'state': 'closed', 'created_at': '2016-12-21T23:09:19Z', 'closed_at': '2016-12-22T15:32:40Z', 'labels': []}
+{'issuenumber': 174, 'title': 't is not a function error', 'state': 'closed', 'created_at': '2016-12-21T15:16:16Z', 'closed_at': '2016-12-21T15:30:22Z', 'labels': {'name': 'question'}}
+{'issuenumber': 173, 'title': 'Need a standalone version for non-Node back-end', 'state': 'closed', 'created_at': '2016-12-19T09:25:37Z', 'closed_at': '2016-12-19T09:48:50Z', 'labels': {'name': 'question'}}
+{'issuenumber': 172, 'title': 'searchable props with async vue-multiselect', 'state': 'closed', 'created_at': '2016-12-19T05:23:34Z', 'closed_at': '2016-12-21T07:42:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 170, 'title': 'Ability to template the selection', 'state': 'closed', 'created_at': '2016-12-17T01:34:31Z', 'closed_at': '2016-12-21T15:37:50Z', 'labels': {'name': 'question'}}
+{'issuenumber': 169, 'title': 'stopropagation enter and @input bug', 'state': 'closed', 'created_at': '2016-12-16T17:43:02Z', 'closed_at': '2017-06-11T15:24:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 167, 'title': '@next: Broken in Vue 2.1.5', 'state': 'closed', 'created_at': '2016-12-13T10:48:25Z', 'closed_at': '2016-12-15T17:49:50Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 166, 'title': 'Feature request: Debounce', 'state': 'closed', 'created_at': '2016-12-12T18:41:47Z', 'closed_at': '2016-12-12T19:26:22Z', 'labels': {'name': 'question'}}
+{'issuenumber': 165, 'title': '[object Obkect] in options list', 'state': 'closed', 'created_at': '2016-12-12T12:06:10Z', 'closed_at': '2016-12-21T07:43:42Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 163, 'title': '[Question] Allow extraneous values', 'state': 'closed', 'created_at': '2016-12-11T03:05:37Z', 'closed_at': '2016-12-11T10:20:52Z', 'labels': {'name': 'question'}}
+{'issuenumber': 162, 'title': 'How to implement CustomLabel?', 'state': 'closed', 'created_at': '2016-12-10T11:24:20Z', 'closed_at': '2016-12-10T13:48:11Z', 'labels': {'name': 'question'}}
+{'issuenumber': 161, 'title': 'Two-Way Databinding', 'state': 'closed', 'created_at': '2016-12-08T17:33:08Z', 'closed_at': '2016-12-10T13:33:04Z', 'labels': {'name': 'question'}}
+{'issuenumber': 160, 'title': 'problem implementing in vuejs2 and vue-multiselect v2.0 beta.10', 'state': 'closed', 'created_at': '2016-12-06T05:12:48Z', 'closed_at': '2016-12-06T09:33:00Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 159, 'title': 'How to intergrate with fastclick ', 'state': 'closed', 'created_at': '2016-12-06T01:33:52Z', 'closed_at': '2016-12-14T22:38:53Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 158, 'title': '@next: select breaks if selecting same item', 'state': 'closed', 'created_at': '2016-12-05T12:17:41Z', 'closed_at': '2016-12-05T12:29:01Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 157, 'title': 'Sugestion:dragand drop reorder', 'state': 'closed', 'created_at': '2016-12-03T17:29:54Z', 'closed_at': '2016-12-06T09:36:47Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 155, 'title': 'How to register it without require or import?', 'state': 'closed', 'created_at': '2016-12-01T13:13:26Z', 'closed_at': '2016-12-01T14:53:42Z', 'labels': []}
+{'issuenumber': 154, 'title': 'Vue 2 issue / doubt', 'state': 'closed', 'created_at': '2016-11-28T11:44:30Z', 'closed_at': '2017-01-22T14:50:30Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 152, 'title': 'Template or render function not defined. ', 'state': 'closed', 'created_at': '2016-11-22T11:45:45Z', 'closed_at': '2016-11-22T12:08:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 151, 'title': 'Object.label is not set as default when using Object options', 'state': 'closed', 'created_at': '2016-11-21T16:50:15Z', 'closed_at': '2016-11-21T19:54:02Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 150, 'title': ":disabled prop doesn't work fully", 'state': 'closed', 'created_at': '2016-11-21T12:46:20Z', 'closed_at': '2016-12-15T00:37:57Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 149, 'title': 'Mixin example?', 'state': 'closed', 'created_at': '2016-11-18T13:15:19Z', 'closed_at': '2017-06-10T20:08:10Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 148, 'title': 'a problem for multiple', 'state': 'closed', 'created_at': '2016-11-18T08:50:25Z', 'closed_at': '2016-11-18T09:03:27Z', 'labels': []}
+{'issuenumber': 147, 'title': "I've to click the gray arrow to open the menu in IOS", 'state': 'closed', 'created_at': '2016-11-12T19:22:19Z', 'closed_at': '2016-12-14T23:49:30Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 146, 'title': 'Partials ', 'state': 'closed', 'created_at': '2016-11-09T14:38:35Z', 'closed_at': '2016-11-09T14:45:37Z', 'labels': {'name': 'question'}}
+{'issuenumber': 145, 'title': 'Issue with placeholder showing in  vue 2.0', 'state': 'closed', 'created_at': '2016-11-07T18:46:53Z', 'closed_at': '2016-11-19T14:11:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 144, 'title': 'Suggestion: Render scroll bar only when needed on first load', 'state': 'closed', 'created_at': '2016-11-05T09:19:18Z', 'closed_at': '2016-12-14T23:34:05Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 143, 'title': 'Componente Height', 'state': 'closed', 'created_at': '2016-11-04T20:16:48Z', 'closed_at': '2017-02-25T14:01:21Z', 'labels': {'name': 'question'}}
+{'issuenumber': 142, 'title': 'Issue with Placeholder in vue-multiselect 2.0.0-beta.10', 'state': 'closed', 'created_at': '2016-11-04T18:13:35Z', 'closed_at': '2016-11-05T11:31:32Z', 'labels': {'name': 'question'}}
+{'issuenumber': 141, 'title': 'Using with vue-resource', 'state': 'closed', 'created_at': '2016-11-04T13:11:14Z', 'closed_at': '2016-11-04T16:41:45Z', 'labels': {'name': 'question'}}
+{'issuenumber': 140, 'title': 'Browserify config requiring Vueify', 'state': 'closed', 'created_at': '2016-11-04T12:10:49Z', 'closed_at': '2016-11-19T14:26:53Z', 'labels': {'name': 'question'}}
+{'issuenumber': 139, 'title': 'Invalid prop: type check failed for prop "key".', 'state': 'closed', 'created_at': '2016-11-04T11:39:10Z', 'closed_at': '2016-11-04T11:45:27Z', 'labels': []}
+{'issuenumber': 138, 'title': "How to set 'selected'?", 'state': 'closed', 'created_at': '2016-11-03T12:24:47Z', 'closed_at': '2016-11-09T11:06:00Z', 'labels': {'name': 'question'}}
+{'issuenumber': 137, 'title': 'SSR compatibility?', 'state': 'closed', 'created_at': '2016-10-31T05:37:25Z', 'closed_at': '2017-02-25T13:52:55Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 136, 'title': 'Suggestion: When the form element is near the bottom of the page, the select field should extend up', 'state': 'closed', 'created_at': '2016-10-27T00:20:56Z', 'closed_at': '2017-01-08T21:53:10Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 135, 'title': 'New render function Vue 2', 'state': 'closed', 'created_at': '2016-10-25T22:45:04Z', 'closed_at': '2016-11-19T16:07:49Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 134, 'title': 'Using scroll bar in IE11 ', 'state': 'closed', 'created_at': '2016-10-25T01:29:08Z', 'closed_at': '2018-07-29T14:43:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 133, 'title': 'How to only get id back when selecting item', 'state': 'closed', 'created_at': '2016-10-21T11:44:57Z', 'closed_at': '2016-10-29T07:48:56Z', 'labels': {'name': 'question'}}
+{'issuenumber': 132, 'title': 'force dropdown to close', 'state': 'closed', 'created_at': '2016-10-20T13:02:26Z', 'closed_at': '2016-10-20T14:26:03Z', 'labels': {'name': 'question'}}
+{'issuenumber': 131, 'title': 'Error when value == null', 'state': 'closed', 'created_at': '2016-10-18T15:47:21Z', 'closed_at': '2016-10-29T09:07:53Z', 'labels': {'name': 'question'}}
+{'issuenumber': 130, 'title': "Module build failed: SyntaxError: 'with' in strict mode", 'state': 'closed', 'created_at': '2016-10-18T09:56:42Z', 'closed_at': '2016-10-18T10:08:53Z', 'labels': []}
+{'issuenumber': 128, 'title': 'option select on tab', 'state': 'closed', 'created_at': '2016-10-13T11:50:33Z', 'closed_at': '2016-12-14T23:55:15Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 127, 'title': 'debounce', 'state': 'closed', 'created_at': '2016-10-12T10:25:56Z', 'closed_at': '2016-10-13T15:50:08Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 126, 'title': "Can't select more than one option on multiselect", 'state': 'closed', 'created_at': '2016-10-11T07:30:11Z', 'closed_at': '2016-10-11T07:36:07Z', 'labels': {'name': 'question'}}
+{'issuenumber': 125, 'title': 'Searchable multiselect inserts "search" value in form response', 'state': 'closed', 'created_at': '2016-10-11T03:35:52Z', 'closed_at': '2017-02-25T13:55:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 124, 'title': 'Webpack Syntax Error', 'state': 'closed', 'created_at': '2016-10-07T01:42:41Z', 'closed_at': '2016-11-19T14:27:57Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 123, 'title': 'Question: can vue-multiselect handle large (2000+ entries) lists?', 'state': 'closed', 'created_at': '2016-10-05T13:43:13Z', 'closed_at': '2016-10-05T15:35:26Z', 'labels': {'name': 'question'}}
+{'issuenumber': 122, 'title': 'npm release is 1.1.4 but latest edition on Git is 1.1.3', 'state': 'closed', 'created_at': '2016-10-04T21:36:02Z', 'closed_at': '2016-10-04T21:43:02Z', 'labels': {'name': 'question'}}
+{'issuenumber': 121, 'title': '[object Object]', 'state': 'closed', 'created_at': '2016-10-04T12:12:13Z', 'closed_at': '2016-10-04T18:46:44Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 120, 'title': 'Attributes "options", "selected" are ignored on component <multiselect> because the component is a fragment instance: ', 'state': 'closed', 'created_at': '2016-09-30T10:07:22Z', 'closed_at': '2016-09-30T10:54:56Z', 'labels': []}
+{'issuenumber': 119, 'title': 'customLabel for Array options?', 'state': 'closed', 'created_at': '2016-09-30T02:54:37Z', 'closed_at': '2016-10-04T07:39:53Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 117, 'title': '[Vue warn]', 'state': 'closed', 'created_at': '2016-09-28T10:08:20Z', 'closed_at': '2016-10-04T07:30:59Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 116, 'title': 'use vue-multiselect in the browser', 'state': 'closed', 'created_at': '2016-09-25T03:44:43Z', 'closed_at': '2016-09-30T08:49:54Z', 'labels': {'name': 'question'}}
+{'issuenumber': 115, 'title': '"Select All" option', 'state': 'closed', 'created_at': '2016-09-22T16:04:01Z', 'closed_at': '2016-09-23T13:38:39Z', 'labels': {'name': 'question'}}
+{'issuenumber': 114, 'title': 'Label property with more than 1 level deep', 'state': 'closed', 'created_at': '2016-09-19T08:09:40Z', 'closed_at': '2016-09-19T08:12:11Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 113, 'title': 'Unable to use debounce filter', 'state': 'closed', 'created_at': '2016-09-16T01:01:44Z', 'closed_at': '2016-09-16T09:30:17Z', 'labels': {'name': 'question'}}
+{'issuenumber': 112, 'title': 'Multiple select - get selected options', 'state': 'closed', 'created_at': '2016-09-15T09:38:48Z', 'closed_at': '2016-09-19T07:16:06Z', 'labels': {'name': 'question'}}
+{'issuenumber': 111, 'title': 'Options Group', 'state': 'closed', 'created_at': '2016-09-15T04:06:56Z', 'closed_at': '2016-12-15T00:38:58Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 110, 'title': 'Searching and value selection', 'state': 'closed', 'created_at': '2016-09-14T19:58:02Z', 'closed_at': '2018-07-29T14:43:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 109, 'title': 'Disable keyboard interactions', 'state': 'closed', 'created_at': '2016-09-14T15:03:16Z', 'closed_at': '2017-02-25T14:02:25Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 106, 'title': ' Parse Error: <multiselect :options="allGroups"', 'state': 'closed', 'created_at': '2016-09-14T07:23:10Z', 'closed_at': '2016-09-14T08:30:11Z', 'labels': {'name': 'question'}}
+{'issuenumber': 105, 'title': "Uncaught TypeError: Cannot read property 'includes' of undefined", 'state': 'closed', 'created_at': '2016-09-13T19:44:49Z', 'closed_at': '2016-09-14T08:33:00Z', 'labels': {'name': 'question'}}
+{'issuenumber': 104, 'title': 'Please add a way to support validation', 'state': 'closed', 'created_at': '2016-09-11T18:49:09Z', 'closed_at': '2018-07-27T13:46:14Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 103, 'title': 'unable to prepopulate selection', 'state': 'closed', 'created_at': '2016-09-11T15:17:38Z', 'closed_at': '2016-09-14T08:16:30Z', 'labels': {'name': 'question'}}
+{'issuenumber': 102, 'title': 'Select on tab?', 'state': 'closed', 'created_at': '2016-09-10T00:45:15Z', 'closed_at': '2016-12-15T00:03:20Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 101, 'title': 'Cannot display `0` after select `0` with options: [0, 1, 2]', 'state': 'closed', 'created_at': '2016-09-09T10:25:54Z', 'closed_at': '2016-09-11T22:24:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 100, 'title': 'A bug with blur when scrolling', 'state': 'closed', 'created_at': '2016-09-08T10:33:39Z', 'closed_at': '2016-09-11T22:22:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 99, 'title': '[Question] How to manually clear select?', 'state': 'closed', 'created_at': '2016-09-06T10:23:14Z', 'closed_at': '2016-09-07T10:43:37Z', 'labels': {'name': 'question'}}
+{'issuenumber': 98, 'title': 'hide-selected not working when selected is Set', 'state': 'closed', 'created_at': '2016-09-02T18:10:01Z', 'closed_at': '2016-09-06T20:42:04Z', 'labels': {'name': 'question'}}
+{'issuenumber': 97, 'title': 'Setting selected properties not reflected in dropdown state', 'state': 'closed', 'created_at': '2016-09-01T20:50:14Z', 'closed_at': '2016-12-15T00:04:13Z', 'labels': {'name': 'question'}}
+{'issuenumber': 96, 'title': 'Licence', 'state': 'closed', 'created_at': '2016-09-01T16:34:31Z', 'closed_at': '2016-09-02T08:23:19Z', 'labels': {'name': 'question'}}
+{'issuenumber': 95, 'title': 'Setting multiselect to display only (no selection possible)', 'state': 'closed', 'created_at': '2016-08-29T14:21:55Z', 'closed_at': '2017-06-11T16:02:24Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 94, 'title': 'Performance degrades significantly as number of options increases', 'state': 'closed', 'created_at': '2016-08-29T07:40:56Z', 'closed_at': '2016-09-14T21:42:09Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 93, 'title': 'IE11 search bug', 'state': 'closed', 'created_at': '2016-08-26T11:29:21Z', 'closed_at': '2016-09-14T21:42:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 92, 'title': 'Key property on Multiselect undefined when set (@next)', 'state': 'closed', 'created_at': '2016-08-24T19:05:56Z', 'closed_at': '2016-08-27T16:39:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 91, 'title': 'Multiselect is always fragment instance', 'state': 'closed', 'created_at': '2016-08-24T18:48:36Z', 'closed_at': '2016-09-11T22:43:56Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 90, 'title': 'Error while using multiselect with JSX', 'state': 'closed', 'created_at': '2016-08-22T21:54:53Z', 'closed_at': '2016-08-23T06:52:11Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 89, 'title': 'Problem deleting options in multiple scenario', 'state': 'closed', 'created_at': '2016-08-22T16:16:27Z', 'closed_at': '2016-08-23T09:56:19Z', 'labels': {'name': 'question'}}
+{'issuenumber': 88, 'title': 'Prop check warn if max is null', 'state': 'closed', 'created_at': '2016-08-22T14:24:24Z', 'closed_at': '2016-09-11T22:49:11Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 87, 'title': 'Cant get two-way value syncing to work', 'state': 'closed', 'created_at': '2016-08-20T03:18:32Z', 'closed_at': '2016-08-20T20:53:00Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 86, 'title': 'Error on @update', 'state': 'closed', 'created_at': '2016-08-18T14:52:55Z', 'closed_at': '2016-08-22T07:47:54Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 85, 'title': 'Add slot for tags', 'state': 'closed', 'created_at': '2016-08-17T08:51:11Z', 'closed_at': '2017-06-10T19:10:19Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 83, 'title': 'Single select issue', 'state': 'closed', 'created_at': '2016-08-13T07:30:06Z', 'closed_at': '2016-08-16T06:43:08Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 82, 'title': 'HTML Custom Label', 'state': 'closed', 'created_at': '2016-08-11T13:49:25Z', 'closed_at': '2016-08-11T14:08:30Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 81, 'title': 'Dynamically resetting select box', 'state': 'closed', 'created_at': '2016-08-10T09:11:33Z', 'closed_at': '2016-08-10T09:37:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 80, 'title': "Can't handle `undefined` value", 'state': 'closed', 'created_at': '2016-08-10T08:03:14Z', 'closed_at': '2016-11-19T16:13:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 79, 'title': 'Avoid post-filtering', 'state': 'closed', 'created_at': '2016-08-09T17:57:48Z', 'closed_at': '2016-08-09T20:51:31Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 78, 'title': "Version 1.1.0 doesn't work properly", 'state': 'closed', 'created_at': '2016-08-08T23:04:45Z', 'closed_at': '2016-08-09T07:56:44Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 77, 'title': 'HTML templates', 'state': 'closed', 'created_at': '2016-08-08T13:09:05Z', 'closed_at': '2016-08-08T21:40:27Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 75, 'title': '[Question] How to access to multiselect component ref', 'state': 'closed', 'created_at': '2016-08-02T23:49:37Z', 'closed_at': '2016-09-12T07:52:21Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 73, 'title': 'Only thing missing... Grouping?', 'state': 'closed', 'created_at': '2016-07-31T07:21:12Z', 'closed_at': '2016-09-28T07:28:59Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 72, 'title': "When form (fieldset) is set to 'disabled', the dropdown is still active", 'state': 'closed', 'created_at': '2016-07-30T06:40:00Z', 'closed_at': '2016-07-31T22:29:17Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 70, 'title': "[V1.0] @search-change event shouldn't be emited after select an option.", 'state': 'closed', 'created_at': '2016-07-29T03:17:49Z', 'closed_at': '2016-07-31T22:29:41Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 68, 'title': 'Weird IE Edge issue with onChange prop', 'state': 'closed', 'created_at': '2016-07-27T13:32:39Z', 'closed_at': '2016-07-27T15:18:40Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 67, 'title': '[Help wanted] Multiple select field with predefined options problem', 'state': 'closed', 'created_at': '2016-07-26T12:55:23Z', 'closed_at': '2016-08-07T02:29:40Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 64, 'title': 'Browserify and/or Laravel Elixir issue', 'state': 'closed', 'created_at': '2016-07-22T18:14:57Z', 'closed_at': '2016-09-12T07:51:51Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 63, 'title': 'Vue 2.0 compatibilty issues [THREAD]', 'state': 'closed', 'created_at': '2016-07-22T09:48:14Z', 'closed_at': '2017-06-10T19:09:39Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 62, 'title': 'Display bug with "press enter to select" and long label', 'state': 'closed', 'created_at': '2016-07-21T15:42:06Z', 'closed_at': '2016-07-31T22:24:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 61, 'title': 'ComboBox feature?', 'state': 'closed', 'created_at': '2016-07-20T23:43:29Z', 'closed_at': '2017-06-10T19:09:30Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 60, 'title': 'Custom Vue delimiters not obeyed', 'state': 'closed', 'created_at': '2016-07-19T16:02:10Z', 'closed_at': '2016-07-31T22:30:02Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 59, 'title': 'Problemm with getOptionLabel', 'state': 'closed', 'created_at': '2016-07-15T17:03:47Z', 'closed_at': '2016-07-15T18:13:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 58, 'title': "Cannot read property 'length' of undefined (this.search)", 'state': 'closed', 'created_at': '2016-07-12T17:39:33Z', 'closed_at': '2016-07-15T18:13:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 56, 'title': 'How do i populate the dropdown after the user has entered something and press enter', 'state': 'closed', 'created_at': '2016-07-07T18:42:21Z', 'closed_at': '2016-07-08T21:49:56Z', 'labels': {'name': 'question'}}
+{'issuenumber': 55, 'title': "On-change doesn't work on last item", 'state': 'closed', 'created_at': '2016-07-07T12:56:54Z', 'closed_at': '2016-07-08T14:56:10Z', 'labels': {'name': 'question'}}
+{'issuenumber': 52, 'title': 'Using with normal from inputs', 'state': 'closed', 'created_at': '2016-07-05T20:21:01Z', 'closed_at': '2016-07-24T11:46:27Z', 'labels': {'name': 'question'}}
+{'issuenumber': 51, 'title': 'integration with vue-validator', 'state': 'closed', 'created_at': '2016-07-05T08:08:08Z', 'closed_at': '2017-06-10T19:09:21Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 50, 'title': 'Images for the select options?', 'state': 'closed', 'created_at': '2016-07-03T05:30:09Z', 'closed_at': '2016-07-03T09:39:09Z', 'labels': []}
+{'issuenumber': 49, 'title': 'Provide dist to use without toolchain', 'state': 'closed', 'created_at': '2016-06-30T14:13:36Z', 'closed_at': '2016-07-08T18:41:42Z', 'labels': {'name': 'question'}}
+{'issuenumber': 48, 'title': 'on-search-change event is not that useful', 'state': 'closed', 'created_at': '2016-06-30T12:40:32Z', 'closed_at': '2016-07-31T22:30:25Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 47, 'title': 'hide-selected not working after setting options in computed property', 'state': 'closed', 'created_at': '2016-06-29T03:16:58Z', 'closed_at': '2016-06-29T03:30:35Z', 'labels': []}
+{'issuenumber': 43, 'title': 'onChange is not called if the values somehow result in the initial configuration', 'state': 'closed', 'created_at': '2016-06-24T10:21:31Z', 'closed_at': '2016-06-24T17:29:25Z', 'labels': []}
+{'issuenumber': 42, 'title': 'Docs', 'state': 'closed', 'created_at': '2016-06-23T20:35:21Z', 'closed_at': '2018-07-29T13:43:54Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 39, 'title': "Don't show multiselect__option if empty options", 'state': 'closed', 'created_at': '2016-06-22T06:24:29Z', 'closed_at': '2016-06-23T21:43:26Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 36, 'title': 'multiselect not visible, always giving fragment instance problem', 'state': 'closed', 'created_at': '2016-06-20T12:21:10Z', 'closed_at': '2016-06-20T13:30:17Z', 'labels': []}
+{'issuenumber': 35, 'title': 'How do you pass data down from parent?', 'state': 'closed', 'created_at': '2016-06-19T18:43:09Z', 'closed_at': '2016-06-20T12:27:25Z', 'labels': {'name': 'question'}}
+{'issuenumber': 34, 'title': 'Attributes are ignored because the component is a fragment instance', 'state': 'closed', 'created_at': '2016-06-17T08:56:18Z', 'closed_at': '2016-06-17T09:14:48Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 32, 'title': 'Can I set the limit of selection?', 'state': 'closed', 'created_at': '2016-06-12T15:39:41Z', 'closed_at': '2016-06-18T17:11:43Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 31, 'title': 'Scroll Broken in Chrome', 'state': 'closed', 'created_at': '2016-06-12T02:31:25Z', 'closed_at': '2016-07-31T22:26:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 30, 'title': 'Wrong height / font-size', 'state': 'closed', 'created_at': '2016-06-12T02:15:15Z', 'closed_at': '2016-06-12T12:14:47Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 29, 'title': 'Error on gulp --production', 'state': 'closed', 'created_at': '2016-06-08T17:42:04Z', 'closed_at': '2016-06-14T19:56:17Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 28, 'title': 'Document how to override CSS styles', 'state': 'closed', 'created_at': '2016-06-07T19:30:27Z', 'closed_at': '2016-06-09T20:07:18Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 27, 'title': 'Add to vuecomponents.com', 'state': 'closed', 'created_at': '2016-06-05T10:51:47Z', 'closed_at': '2016-06-05T11:10:24Z', 'labels': []}
+{'issuenumber': 26, 'title': 'Roadmap question - will there be ordering/sorting support for multiselect?', 'state': 'closed', 'created_at': '2016-06-03T14:42:15Z', 'closed_at': '2016-06-07T12:43:38Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 25, 'title': 'newly created tags arent getting added to the selected array thus not showing', 'state': 'closed', 'created_at': '2016-06-03T01:29:26Z', 'closed_at': '2016-06-04T16:41:09Z', 'labels': {'name': 'question'}}
+{'issuenumber': 24, 'title': "Can't set placeholder to prop", 'state': 'closed', 'created_at': '2016-06-02T22:26:40Z', 'closed_at': '2016-06-02T22:46:50Z', 'labels': {'name': 'question'}}
+{'issuenumber': 23, 'title': 'Override Styles - Remove Scope', 'state': 'closed', 'created_at': '2016-06-02T19:56:09Z', 'closed_at': '2016-06-02T20:30:48Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 22, 'title': "Consider not using 'let'", 'state': 'closed', 'created_at': '2016-06-02T10:17:30Z', 'closed_at': '2016-06-02T13:07:58Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 18, 'title': 'Webpack build error using default vue-cli project build tools', 'state': 'closed', 'created_at': '2016-05-30T10:37:22Z', 'closed_at': '2016-06-02T06:27:26Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 17, 'title': 'Allow label attribute to be a computed value', 'state': 'closed', 'created_at': '2016-05-30T10:08:45Z', 'closed_at': '2016-06-01T23:15:21Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 13, 'title': 'Getting style conflicts?', 'state': 'closed', 'created_at': '2016-05-27T01:57:46Z', 'closed_at': '2016-05-27T11:06:49Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 12, 'title': 'Compile error with browserify', 'state': 'closed', 'created_at': '2016-05-26T10:22:04Z', 'closed_at': '2016-05-27T11:10:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 11, 'title': 'Less strict Vue.js dependency', 'state': 'closed', 'created_at': '2016-05-26T06:55:18Z', 'closed_at': '2016-05-26T10:27:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 8, 'title': 'Documentation: single selects shared value', 'state': 'closed', 'created_at': '2016-05-25T12:18:52Z', 'closed_at': '2016-05-25T23:24:54Z', 'labels': {'name': 'question'}}
+{'issuenumber': 7, 'title': 'Single select vs "press enter to remove"', 'state': 'closed', 'created_at': '2016-05-25T12:15:13Z', 'closed_at': '2016-05-25T23:24:23Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 6, 'title': 'Focus after selecting element', 'state': 'closed', 'created_at': '2016-05-25T12:08:27Z', 'closed_at': '2016-07-31T21:47:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 5, 'title': 'Is tagging possible?', 'state': 'closed', 'created_at': '2016-05-25T11:25:40Z', 'closed_at': '2016-06-01T23:15:00Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 3, 'title': 'Wrong data binding in example app', 'state': 'closed', 'created_at': '2016-04-28T10:20:39Z', 'closed_at': '2016-04-28T12:56:37Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 2, 'title': 'Reversed arrow position issue', 'state': 'closed', 'created_at': '2016-04-28T09:38:26Z', 'closed_at': '2016-05-25T16:31:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1, 'title': 'Font of placeholder is not scaled properly', 'state': 'closed', 'created_at': '2016-04-28T09:37:17Z', 'closed_at': '2016-04-28T12:59:32Z', 'labels': {'name': 'invalid'}}

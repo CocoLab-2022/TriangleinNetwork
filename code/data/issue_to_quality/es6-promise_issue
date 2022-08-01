@@ -1,0 +1,128 @@
+{'issuenumber': 361, 'title': 'The output sequence is not consistent with native performance', 'state': 'closed', 'created_at': '2020-05-29T02:27:24Z', 'closed_at': '2021-08-17T17:07:36Z', 'labels': []}
+{'issuenumber': 355, 'title': "Error: 'Promise' is not exported", 'state': 'closed', 'created_at': '2019-08-11T13:44:30Z', 'closed_at': '2019-08-13T08:15:22Z', 'labels': []}
+{'issuenumber': 353, 'title': 'ie9 catch error', 'state': 'closed', 'created_at': '2019-07-18T09:05:34Z', 'closed_at': '2021-08-17T17:12:18Z', 'labels': []}
+{'issuenumber': 350, 'title': 'Why are you using setTimeout(1) instead of setTimeout(0)?', 'state': 'closed', 'created_at': '2019-06-17T14:21:28Z', 'closed_at': '2019-06-19T17:43:22Z', 'labels': []}
+{'issuenumber': 349, 'title': 'Promise.prototype.catch IE8  Expected identifier error', 'state': 'closed', 'created_at': '2019-05-15T03:35:14Z', 'closed_at': '2021-08-17T17:14:50Z', 'labels': []}
+{'issuenumber': 342, 'title': 'Add `unpkg` and `jsdelivr` properties to package.json which point at dist version', 'state': 'closed', 'created_at': '2019-02-15T19:25:13Z', 'closed_at': '2019-02-15T23:44:26Z', 'labels': []}
+{'issuenumber': 338, 'title': 'Consider enabling the daily build in TravisCI', 'state': 'closed', 'created_at': '2018-09-07T05:37:23Z', 'closed_at': '2019-07-05T21:12:08Z', 'labels': []}
+{'issuenumber': 336, 'title': 'ES6Promise.Promise.prototype.finally does not behave according to spec', 'state': 'closed', 'created_at': '2018-09-05T07:40:27Z', 'closed_at': '2018-09-10T22:09:29Z', 'labels': []}
+{'issuenumber': 332, 'title': 'Disable use of setImmediate in IE11?', 'state': 'closed', 'created_at': '2018-03-16T14:43:34Z', 'closed_at': '2018-03-16T14:54:41Z', 'labels': []}
+{'issuenumber': 327, 'title': 'Cannot find module "es6-promise"', 'state': 'closed', 'created_at': '2018-02-13T14:00:43Z', 'closed_at': '2020-12-18T18:02:53Z', 'labels': []}
+{'issuenumber': 325, 'title': "IE 11 - Object doesn't support property or method 'finally'", 'state': 'closed', 'created_at': '2018-02-04T17:05:34Z', 'closed_at': '2018-02-04T17:07:54Z', 'labels': []}
+{'issuenumber': 321, 'title': "Can't resolve 'vertx' in electron app", 'state': 'closed', 'created_at': '2018-01-19T01:00:51Z', 'closed_at': '2018-01-19T02:32:13Z', 'labels': []}
+{'issuenumber': 318, 'title': 'Math.random().toString(36).substring(16) is always ""', 'state': 'closed', 'created_at': '2018-01-17T10:31:09Z', 'closed_at': '2018-01-23T18:52:18Z', 'labels': []}
+{'issuenumber': 311, 'title': 'Broken links to minified files in README.md', 'state': 'closed', 'created_at': '2017-12-20T05:26:38Z', 'closed_at': '2017-12-21T15:43:14Z', 'labels': []}
+{'issuenumber': 309, 'title': 'This polyfill does not play nice with other Promise polyfills', 'state': 'closed', 'created_at': '2017-12-19T17:55:40Z', 'closed_at': '2017-12-21T15:41:36Z', 'labels': {'name': 'needs submitter response'}}
+{'issuenumber': 308, 'title': 'Auto polyfill overwrites native promise in Edge', 'state': 'closed', 'created_at': '2017-12-19T12:03:02Z', 'closed_at': '2017-12-19T19:25:45Z', 'labels': []}
+{'issuenumber': 307, 'title': 'How can i used in typescript project?', 'state': 'closed', 'created_at': '2017-11-03T02:21:56Z', 'closed_at': '2017-11-03T03:14:29Z', 'labels': []}
+{'issuenumber': 305, 'title': "Can't resolve 'vertx'", 'state': 'closed', 'created_at': '2017-09-12T18:36:52Z', 'closed_at': '2018-01-23T20:31:15Z', 'labels': []}
+{'issuenumber': 303, 'title': 'Problem with overriding exising Promise', 'state': 'closed', 'created_at': '2017-08-24T14:05:43Z', 'closed_at': '2017-12-19T19:35:48Z', 'labels': []}
+{'issuenumber': 302, 'title': 'Update JsDelivr with version 4.1.1', 'state': 'closed', 'created_at': '2017-08-17T09:38:32Z', 'closed_at': '2017-08-17T16:57:17Z', 'labels': []}
+{'issuenumber': 300, 'title': 'typing issue?', 'state': 'closed', 'created_at': '2017-08-08T17:35:41Z', 'closed_at': '2017-12-19T19:37:27Z', 'labels': []}
+{'issuenumber': 297, 'title': 'ES6 Promise 4.1.0  not work Safari version 9.1 and...', 'state': 'closed', 'created_at': '2017-06-21T14:44:48Z', 'closed_at': '2017-06-22T07:08:38Z', 'labels': []}
+{'issuenumber': 290, 'title': 'ES6 Promise is not updating my props/state', 'state': 'closed', 'created_at': '2017-05-25T18:53:31Z', 'closed_at': '2017-12-19T19:38:40Z', 'labels': {'name': 'needs submitter response'}}
+{'issuenumber': 286, 'title': '`Promise.all` should not be concerned with `this`', 'state': 'closed', 'created_at': '2017-05-10T18:11:14Z', 'closed_at': '2017-05-10T18:27:44Z', 'labels': []}
+{'issuenumber': 285, 'title': 'bower repo needs updated to 4.1.0', 'state': 'closed', 'created_at': '2017-05-01T20:31:50Z', 'closed_at': '2017-06-28T18:53:47Z', 'labels': []}
+{'issuenumber': 281, 'title': 'Error on undefined setTimeout', 'state': 'closed', 'created_at': '2017-04-13T14:01:20Z', 'closed_at': '2017-05-20T20:53:30Z', 'labels': []}
+{'issuenumber': 273, 'title': 'Remove deprecated version field in bower.json', 'state': 'closed', 'created_at': '2017-03-09T14:41:58Z', 'closed_at': '2017-03-09T15:50:16Z', 'labels': []}
+{'issuenumber': 261, 'title': 'Use of eval in polyfill function', 'state': 'closed', 'created_at': '2017-01-31T19:58:56Z', 'closed_at': '2017-02-01T00:48:27Z', 'labels': []}
+{'issuenumber': 257, 'title': '"\'Promise\' is undefined" in IE11', 'state': 'closed', 'created_at': '2017-01-27T13:09:05Z', 'closed_at': '2017-03-02T17:45:31Z', 'labels': []}
+{'issuenumber': 254, 'title': 'Fails on IE', 'state': 'closed', 'created_at': '2017-01-11T07:24:39Z', 'closed_at': '2017-01-11T07:30:04Z', 'labels': []}
+{'issuenumber': 250, 'title': 'how to use it without require or import ', 'state': 'closed', 'created_at': '2016-12-13T12:33:07Z', 'closed_at': '2017-12-19T19:39:25Z', 'labels': []}
+{'issuenumber': 248, 'title': 'JSPM support', 'state': 'closed', 'created_at': '2016-11-25T11:01:18Z', 'closed_at': '2017-12-19T19:59:46Z', 'labels': []}
+{'issuenumber': 245, 'title': '3.0.2 missing from Changelog', 'state': 'closed', 'created_at': '2016-10-21T12:32:41Z', 'closed_at': '2016-10-21T12:44:32Z', 'labels': []}
+{'issuenumber': 244, 'title': 'Missing newline at end of es6-promise.js', 'state': 'closed', 'created_at': '2016-10-04T10:01:38Z', 'closed_at': '2017-12-19T19:40:15Z', 'labels': []}
+{'issuenumber': 238, 'title': "'es6-promise/auto' not working (4.0.0)", 'state': 'closed', 'created_at': '2016-09-27T01:40:18Z', 'closed_at': '2016-09-27T01:46:09Z', 'labels': []}
+{'issuenumber': 235, 'title': 'Source Map Included in NPM package', 'state': 'closed', 'created_at': '2016-09-16T17:16:11Z', 'closed_at': '2016-09-22T14:46:12Z', 'labels': []}
+{'issuenumber': 232, 'title': 'include proposed `Promise.prototype.finally`', 'state': 'closed', 'created_at': '2016-09-12T05:17:55Z', 'closed_at': '2017-12-19T19:15:25Z', 'labels': {'name': 'Future SPEC'}}
+{'issuenumber': 231, 'title': 'drop dist from git repo', 'state': 'closed', 'created_at': '2016-09-12T05:14:43Z', 'closed_at': '2017-12-21T17:52:54Z', 'labels': {'name': 'Infra'}}
+{'issuenumber': 227, 'title': 'library not found when using typescript', 'state': 'closed', 'created_at': '2016-09-08T12:33:05Z', 'closed_at': '2016-09-12T05:05:34Z', 'labels': []}
+{'issuenumber': 225, 'title': 'es6-promise-min download link in README.md returns 404', 'state': 'closed', 'created_at': '2016-08-17T21:18:49Z', 'closed_at': '2016-09-12T05:05:39Z', 'labels': []}
+{'issuenumber': 224, 'title': 'Incompatible with angular2', 'state': 'closed', 'created_at': '2016-08-16T20:24:28Z', 'closed_at': '2016-09-12T05:06:05Z', 'labels': []}
+{'issuenumber': 216, 'title': 'Promise.race(): different behavior from the native one', 'state': 'closed', 'created_at': '2016-08-01T00:32:58Z', 'closed_at': '2016-09-12T05:10:16Z', 'labels': []}
+{'issuenumber': 215, 'title': 'Bumped up npm version', 'state': 'closed', 'created_at': '2016-07-27T07:29:36Z', 'closed_at': '2016-09-14T18:05:28Z', 'labels': []}
+{'issuenumber': 202, 'title': 'Download links are broken in README', 'state': 'closed', 'created_at': '2016-05-31T22:21:07Z', 'closed_at': '2016-09-14T18:01:22Z', 'labels': []}
+{'issuenumber': 194, 'title': 'Array.isArray Issue', 'state': 'closed', 'created_at': '2016-05-17T10:34:57Z', 'closed_at': '2016-05-17T15:11:15Z', 'labels': []}
+{'issuenumber': 192, 'title': 'NPM 3.1.2 is the latest of 14 releases', 'state': 'closed', 'created_at': '2016-05-11T11:41:03Z', 'closed_at': '2016-05-12T04:36:24Z', 'labels': []}
+{'issuenumber': 191, 'title': 'Incorrect polyfilling Promises in Firefox content script', 'state': 'closed', 'created_at': '2016-05-07T12:42:59Z', 'closed_at': '2016-05-12T04:37:03Z', 'labels': []}
+{'issuenumber': 190, 'title': 'Differing behavior from native Promises', 'state': 'closed', 'created_at': '2016-05-06T11:56:52Z', 'closed_at': '2016-09-12T05:48:26Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 188, 'title': 'Is this code unusable?', 'state': 'closed', 'created_at': '2016-04-23T06:47:58Z', 'closed_at': '2016-04-24T00:20:57Z', 'labels': []}
+{'issuenumber': 186, 'title': '"constructor is undefined" errors', 'state': 'closed', 'created_at': '2016-04-19T08:03:00Z', 'closed_at': '2016-04-19T15:11:30Z', 'labels': []}
+{'issuenumber': 183, 'title': 'Auto-polyfill', 'state': 'closed', 'created_at': '2016-04-05T12:43:02Z', 'closed_at': '2016-05-24T05:19:20Z', 'labels': []}
+{'issuenumber': 182, 'title': 'how to assign results of promise to global scope variable', 'state': 'closed', 'created_at': '2016-04-05T09:21:24Z', 'closed_at': '2016-05-17T15:16:24Z', 'labels': []}
+{'issuenumber': 181, 'title': 'Promise.all is not a function', 'state': 'closed', 'created_at': '2016-03-30T07:20:33Z', 'closed_at': '2016-09-12T05:06:37Z', 'labels': []}
+{'issuenumber': 178, 'title': 'promise.then() chaining not working as expected in Phantomjs', 'state': 'closed', 'created_at': '2016-03-23T10:21:28Z', 'closed_at': '2016-04-07T23:36:13Z', 'labels': []}
+{'issuenumber': 169, 'title': "TypeError: Cannot read property 'length' of undefined", 'state': 'closed', 'created_at': '2016-02-29T08:50:57Z', 'closed_at': '2016-03-01T00:04:47Z', 'labels': []}
+{'issuenumber': 168, 'title': 'Unhandled Rejection Event', 'state': 'closed', 'created_at': '2016-02-23T20:44:01Z', 'closed_at': '2016-02-23T20:52:57Z', 'labels': []}
+{'issuenumber': 164, 'title': 'Unhandled promise rejection error removes stack traces. Debugging is now dead in the water.', 'state': 'closed', 'created_at': '2016-01-25T10:36:14Z', 'closed_at': '2016-01-25T20:44:41Z', 'labels': []}
+{'issuenumber': 163, 'title': 'Pollyfill is occuring without calling polyfill()', 'state': 'closed', 'created_at': '2016-01-24T16:45:42Z', 'closed_at': '2016-02-18T19:19:27Z', 'labels': []}
+{'issuenumber': 160, 'title': '`npm test` fails in newer node versions', 'state': 'closed', 'created_at': '2016-01-06T16:44:23Z', 'closed_at': '2016-01-06T17:24:51Z', 'labels': []}
+{'issuenumber': 159, 'title': 'Promises randomly cease working ~once a month?', 'state': 'closed', 'created_at': '2015-12-23T22:29:48Z', 'closed_at': '2016-02-24T03:52:19Z', 'labels': []}
+{'issuenumber': 158, 'title': 'Do not load es6-promise in Chrome where Promises are avaliable', 'state': 'closed', 'created_at': '2015-12-23T09:16:53Z', 'closed_at': '2015-12-23T15:43:50Z', 'labels': []}
+{'issuenumber': 157, 'title': 'Promise.flush for testing', 'state': 'closed', 'created_at': '2015-11-30T19:21:30Z', 'closed_at': '2015-11-30T21:33:08Z', 'labels': []}
+{'issuenumber': 150, 'title': 'Reject function does not pass on variadic arguments.', 'state': 'closed', 'created_at': '2015-10-17T11:19:10Z', 'closed_at': '2015-10-17T11:41:08Z', 'labels': []}
+{'issuenumber': 148, 'title': '[Object Promise] check is always false', 'state': 'closed', 'created_at': '2015-10-09T23:46:47Z', 'closed_at': '2015-10-09T23:49:39Z', 'labels': []}
+{'issuenumber': 144, 'title': "`require('es6-promise')` installs a global polyfill?", 'state': 'closed', 'created_at': '2015-09-22T12:11:17Z', 'closed_at': '2015-09-22T17:29:47Z', 'labels': []}
+{'issuenumber': 143, 'title': 'Leaks Promise global in nodejs', 'state': 'closed', 'created_at': '2015-09-08T14:17:28Z', 'closed_at': '2015-09-08T15:06:58Z', 'labels': []}
+{'issuenumber': 142, 'title': 'Minified output is not mangled', 'state': 'closed', 'created_at': '2015-09-03T10:37:49Z', 'closed_at': '2015-10-24T21:07:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 141, 'title': 'Function polyfill() is always called', 'state': 'closed', 'created_at': '2015-08-25T19:25:42Z', 'closed_at': '2015-09-22T14:08:16Z', 'labels': []}
+{'issuenumber': 140, 'title': 'allow reverting to native Promise', 'state': 'closed', 'created_at': '2015-08-24T12:22:51Z', 'closed_at': '2016-09-27T00:46:21Z', 'labels': []}
+{'issuenumber': 139, 'title': 'Native Promise replaced by pollyfil in Chrome', 'state': 'closed', 'created_at': '2015-08-20T13:53:59Z', 'closed_at': '2015-08-20T14:07:21Z', 'labels': []}
+{'issuenumber': 138, 'title': 'Cannot load es6-promise module', 'state': 'closed', 'created_at': '2015-08-17T14:06:45Z', 'closed_at': '2016-03-01T00:18:13Z', 'labels': []}
+{'issuenumber': 136, 'title': 'Polyfill replaces native Promise in Chrome and Safari', 'state': 'closed', 'created_at': '2015-08-10T15:33:28Z', 'closed_at': '2015-08-10T15:38:58Z', 'labels': []}
+{'issuenumber': 134, 'title': 'need to tag 3.0.0 in git for bower', 'state': 'closed', 'created_at': '2015-08-08T02:43:21Z', 'closed_at': '2015-08-10T22:40:07Z', 'labels': []}
+{'issuenumber': 132, 'title': 'bad polyfill check', 'state': 'closed', 'created_at': '2015-08-05T16:54:05Z', 'closed_at': '2015-08-05T17:03:40Z', 'labels': []}
+{'issuenumber': 130, 'title': 'npmignore', 'state': 'closed', 'created_at': '2015-08-03T12:56:02Z', 'closed_at': '2015-08-10T22:40:11Z', 'labels': []}
+{'issuenumber': 128, 'title': 'Incorrect test for Promise.cast in polyfill()', 'state': 'closed', 'created_at': '2015-07-27T15:25:17Z', 'closed_at': '2015-07-27T15:31:44Z', 'labels': []}
+{'issuenumber': 127, 'title': 'Polyfill is always overring default Promise object', 'state': 'closed', 'created_at': '2015-07-10T23:41:35Z', 'closed_at': '2015-07-11T00:27:56Z', 'labels': []}
+{'issuenumber': 125, 'title': 'Polyfill must replace buggy iOS 7.1 implementation', 'state': 'closed', 'created_at': '2015-06-17T21:25:02Z', 'closed_at': '2015-06-17T21:43:47Z', 'labels': []}
+{'issuenumber': 124, 'title': 'Native promise check fails in Chrome (43 +)', 'state': 'closed', 'created_at': '2015-06-17T00:05:13Z', 'closed_at': '2015-06-17T01:19:33Z', 'labels': []}
+{'issuenumber': 122, 'title': 'Create release tag for 2.3.0', 'state': 'closed', 'created_at': '2015-06-08T18:49:16Z', 'closed_at': '2015-06-10T09:33:05Z', 'labels': []}
+{'issuenumber': 119, 'title': '2.2.0 release', 'state': 'closed', 'created_at': '2015-05-29T06:24:25Z', 'closed_at': '2015-06-05T08:12:07Z', 'labels': []}
+{'issuenumber': 117, 'title': 'How to test on older browser?', 'state': 'closed', 'created_at': '2015-05-12T19:32:48Z', 'closed_at': '2015-05-12T21:11:59Z', 'labels': []}
+{'issuenumber': 115, 'title': 'Promise.all should immediately resolve an empty array', 'state': 'closed', 'created_at': '2015-05-08T02:50:10Z', 'closed_at': '2015-05-11T00:00:49Z', 'labels': []}
+{'issuenumber': 114, 'title': '[Question] Scheduling issue with node ?', 'state': 'closed', 'created_at': '2015-05-06T10:27:27Z', 'closed_at': '2015-08-07T18:09:11Z', 'labels': []}
+{'issuenumber': 112, 'title': 'A+ Test suite inclusion', 'state': 'closed', 'created_at': '2015-04-25T20:00:19Z', 'closed_at': '2015-04-26T00:11:16Z', 'labels': []}
+{'issuenumber': 111, 'title': 'Use native polyfill on Chrome and Node.js v0.12', 'state': 'closed', 'created_at': '2015-04-21T09:50:04Z', 'closed_at': '2015-06-10T14:21:05Z', 'labels': []}
+{'issuenumber': 110, 'title': 'Promise.race - support 3rd-party thenables', 'state': 'closed', 'created_at': '2015-04-20T02:06:05Z', 'closed_at': '2016-03-01T00:13:47Z', 'labels': []}
+{'issuenumber': 109, 'title': "Doesn't work in IE11", 'state': 'closed', 'created_at': '2015-04-20T01:56:38Z', 'closed_at': '2015-08-12T17:30:55Z', 'labels': []}
+{'issuenumber': 108, 'title': 'Make the default export `Promise`?', 'state': 'closed', 'created_at': '2015-04-19T05:20:30Z', 'closed_at': '2016-03-01T00:16:50Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 107, 'title': 'v2.1.0 changelog?', 'state': 'closed', 'created_at': '2015-04-19T05:18:13Z', 'closed_at': '2015-08-10T22:41:01Z', 'labels': []}
+{'issuenumber': 106, 'title': '2.1.0 requires vertx, but it is not a dependency in package.json', 'state': 'closed', 'created_at': '2015-04-17T18:48:47Z', 'closed_at': '2015-04-18T14:32:03Z', 'labels': []}
+{'issuenumber': 104, 'title': '[docs] link to minified lib in README out of date', 'state': 'closed', 'created_at': '2015-04-16T06:39:44Z', 'closed_at': '2015-10-05T14:01:04Z', 'labels': []}
+{'issuenumber': 101, 'title': 'Follow thenable state, not own state', 'state': 'closed', 'created_at': '2015-04-15T13:07:22Z', 'closed_at': '2015-04-15T21:20:37Z', 'labels': []}
+{'issuenumber': 100, 'title': 'vertx module not found', 'state': 'closed', 'created_at': '2015-04-15T13:07:12Z', 'closed_at': '2015-04-17T22:59:51Z', 'labels': []}
+{'issuenumber': 98, 'title': 'version numbers in the comments in published code appears out of sync', 'state': 'closed', 'created_at': '2015-04-08T10:09:50Z', 'closed_at': '2015-08-10T22:43:45Z', 'labels': []}
+{'issuenumber': 88, 'title': 'Errors not thrown', 'state': 'closed', 'created_at': '2015-03-30T08:09:58Z', 'closed_at': '2015-04-04T16:11:46Z', 'labels': []}
+{'issuenumber': 87, 'title': 'Can es6 be compiled to a more readable code', 'state': 'closed', 'created_at': '2015-03-24T16:08:36Z', 'closed_at': '2016-02-29T18:56:06Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 84, 'title': 'Promise.race keeps obsolete references to child promises', 'state': 'closed', 'created_at': '2015-03-03T03:06:54Z', 'closed_at': '2016-03-01T00:16:16Z', 'labels': []}
+{'issuenumber': 83, 'title': "require('es6-promise').Promise undefined on some systems?", 'state': 'closed', 'created_at': '2015-02-27T00:53:32Z', 'closed_at': '2015-04-03T22:08:19Z', 'labels': []}
+{'issuenumber': 81, 'title': 'is AIX   supported?', 'state': 'closed', 'created_at': '2015-02-26T00:34:56Z', 'closed_at': '2015-02-26T20:45:32Z', 'labels': []}
+{'issuenumber': 79, 'title': 'typo in README', 'state': 'closed', 'created_at': '2015-02-04T06:01:19Z', 'closed_at': '2015-02-04T06:41:23Z', 'labels': []}
+{'issuenumber': 77, 'title': 'Promise.race - needs to be generic', 'state': 'closed', 'created_at': '2015-01-25T06:27:09Z', 'closed_at': '2016-03-01T00:04:47Z', 'labels': []}
+{'issuenumber': 76, 'title': 'Subclassing difficult', 'state': 'closed', 'created_at': '2015-01-24T17:34:28Z', 'closed_at': '2015-01-24T18:07:53Z', 'labels': []}
+{'issuenumber': 75, 'title': "Can't use polyfill since v2.0", 'state': 'closed', 'created_at': '2015-01-22T11:03:25Z', 'closed_at': '2015-08-10T22:43:33Z', 'labels': []}
+{'issuenumber': 74, 'title': 'Not resolving promises due to promises/asap length conditional', 'state': 'closed', 'created_at': '2015-01-14T15:48:14Z', 'closed_at': '2015-04-03T22:12:23Z', 'labels': []}
+{'issuenumber': 71, 'title': 'Error stops execution', 'state': 'closed', 'created_at': '2015-01-06T22:25:18Z', 'closed_at': '2015-01-06T23:37:32Z', 'labels': []}
+{'issuenumber': 67, 'title': 'Build failure', 'state': 'closed', 'created_at': '2014-12-08T15:55:01Z', 'closed_at': '2014-12-30T03:32:49Z', 'labels': []}
+{'issuenumber': 66, 'title': 'Publish latest to npm', 'state': 'closed', 'created_at': '2014-12-07T22:55:05Z', 'closed_at': '2014-12-08T08:45:54Z', 'labels': []}
+{'issuenumber': 64, 'title': 'does not work on Nashorn', 'state': 'closed', 'created_at': '2014-11-27T16:21:57Z', 'closed_at': '2014-12-13T16:06:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 61, 'title': 'npm-ignore non-essential files', 'state': 'closed', 'created_at': '2014-11-20T08:54:44Z', 'closed_at': '2014-12-30T03:32:59Z', 'labels': []}
+{'issuenumber': 60, 'title': 'Typo in jsdoc', 'state': 'closed', 'created_at': '2014-11-18T08:43:08Z', 'closed_at': '2014-11-18T13:31:13Z', 'labels': []}
+{'issuenumber': 59, 'title': 'Automatic polyfill', 'state': 'closed', 'created_at': '2014-11-16T17:41:23Z', 'closed_at': '2014-12-30T03:33:19Z', 'labels': []}
+{'issuenumber': 58, 'title': "ES6Promise.polyfill doesn't work in minified version", 'state': 'closed', 'created_at': '2014-11-14T23:19:01Z', 'closed_at': '2014-12-01T10:20:04Z', 'labels': []}
+{'issuenumber': 57, 'title': 'Promise class not defined:  have to get it from ES6Promise.Promise', 'state': 'closed', 'created_at': '2014-11-12T09:01:59Z', 'closed_at': '2014-11-12T12:45:32Z', 'labels': []}
+{'issuenumber': 56, 'title': "no method 'all'", 'state': 'closed', 'created_at': '2014-11-08T14:57:01Z', 'closed_at': '2014-11-08T15:08:37Z', 'labels': []}
+{'issuenumber': 54, 'title': 'Native Browser Support', 'state': 'closed', 'created_at': '2014-10-29T19:18:35Z', 'closed_at': '2014-12-30T04:05:20Z', 'labels': []}
+{'issuenumber': 53, 'title': 'IE10 Failure (polyfill function not triggered)', 'state': 'closed', 'created_at': '2014-10-21T09:30:21Z', 'closed_at': '2014-10-22T09:35:15Z', 'labels': []}
+{'issuenumber': 51, 'title': 'CommonJS issue', 'state': 'closed', 'created_at': '2014-10-09T14:22:29Z', 'closed_at': '2014-12-30T03:33:53Z', 'labels': []}
+{'issuenumber': 49, 'title': 'process.nextTick gets minified to process.r', 'state': 'closed', 'created_at': '2014-10-04T06:19:45Z', 'closed_at': '2014-10-09T15:04:34Z', 'labels': []}
+{'issuenumber': 46, 'title': 'Easier way to Polyfill in node', 'state': 'closed', 'created_at': '2014-09-13T10:36:04Z', 'closed_at': '2014-09-14T11:55:44Z', 'labels': []}
+{'issuenumber': 45, 'title': 'Possible to make it synchronous for testing?', 'state': 'closed', 'created_at': '2014-09-12T03:04:23Z', 'closed_at': '2014-09-12T05:14:58Z', 'labels': []}
+{'issuenumber': 44, 'title': 'polyfil should detect subclassing', 'state': 'closed', 'created_at': '2014-09-04T14:59:49Z', 'closed_at': '2014-09-04T15:00:59Z', 'labels': []}
+{'issuenumber': 43, 'title': 'bump to 2.0.0 with recent upgrade.', 'state': 'closed', 'created_at': '2014-09-04T14:46:37Z', 'closed_at': '2014-11-08T11:27:56Z', 'labels': []}
+{'issuenumber': 42, 'title': 'enable travis', 'state': 'closed', 'created_at': '2014-09-04T04:35:15Z', 'closed_at': '2014-09-04T15:06:52Z', 'labels': []}
+{'issuenumber': 40, 'title': 'Uncaught errors dissapearing', 'state': 'closed', 'created_at': '2014-08-13T11:18:52Z', 'closed_at': '2014-08-13T15:26:00Z', 'labels': []}
+{'issuenumber': 39, 'title': 'Polyfill without clobbering?', 'state': 'closed', 'created_at': '2014-08-10T21:27:31Z', 'closed_at': '2014-09-04T14:51:50Z', 'labels': []}
+{'issuenumber': 38, 'title': 'asap does not work in older versions of IE when browserified', 'state': 'closed', 'created_at': '2014-07-30T20:54:39Z', 'closed_at': '2014-09-04T13:33:45Z', 'labels': []}
+{'issuenumber': 37, 'title': 'Expose config', 'state': 'closed', 'created_at': '2014-07-07T10:34:21Z', 'closed_at': '2014-08-27T02:28:10Z', 'labels': []}

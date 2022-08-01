@@ -1,0 +1,606 @@
+{'issuenumber': 1286, 'title': 'Does not enforce key lengths required by RFC 7518', 'state': 'closed', 'created_at': '2022-05-10T08:58:15Z', 'closed_at': '2022-05-12T21:32:33Z', 'labels': []}
+{'issuenumber': 1284, 'title': 'Opaque token support', 'state': 'closed', 'created_at': '2022-04-26T09:46:02Z', 'closed_at': '2022-04-28T16:14:56Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 1283, 'title': 'Invalid logic during redirect_uri validation', 'state': 'closed', 'created_at': '2022-04-25T10:33:02Z', 'closed_at': '2022-04-25T15:06:40Z', 'labels': []}
+{'issuenumber': 1281, 'title': 'Implement phpstan generics in interface', 'state': 'closed', 'created_at': '2022-04-18T20:27:06Z', 'closed_at': '2022-05-12T21:41:22Z', 'labels': []}
+{'issuenumber': 1280, 'title': 'Remove anemic entities', 'state': 'closed', 'created_at': '2022-04-18T20:09:55Z', 'closed_at': '2022-05-12T21:56:50Z', 'labels': []}
+{'issuenumber': 1279, 'title': 'How to use HTPP Basic Auth?', 'state': 'closed', 'created_at': '2022-04-14T08:57:41Z', 'closed_at': '2022-04-29T14:03:18Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 1278, 'title': 'Intermittent  BearerTokenValidator exceptions in the log', 'state': 'closed', 'created_at': '2022-04-11T22:22:20Z', 'closed_at': '2022-05-12T22:04:49Z', 'labels': []}
+{'issuenumber': 1277, 'title': '"league/event": "^2.2" dependency incompatibility with "league/event": "3.0.0"', 'state': 'closed', 'created_at': '2022-04-08T23:07:44Z', 'closed_at': '2022-04-09T07:14:50Z', 'labels': []}
+{'issuenumber': 1273, 'title': 'Non-URL redirection URIs fail validation (e.g., for native apps with custom schemes)', 'state': 'closed', 'created_at': '2022-03-16T04:40:42Z', 'closed_at': '2022-04-06T21:14:23Z', 'labels': []}
+{'issuenumber': 1271, 'title': 'Make `redirect_uri` dynamic or support wildcards (for authorization code grant)', 'state': 'closed', 'created_at': '2022-03-14T15:04:24Z', 'closed_at': '2022-03-22T21:25:30Z', 'labels': []}
+{'issuenumber': 1266, 'title': "revokeRefreshTokens isn't part of the GrantTypeInterface", 'state': 'closed', 'created_at': '2022-03-01T00:35:55Z', 'closed_at': '2022-03-01T00:49:14Z', 'labels': []}
+{'issuenumber': 1265, 'title': 'Why do we need public/private keys for AuthorizationServer', 'state': 'closed', 'created_at': '2022-02-23T15:26:25Z', 'closed_at': '2022-03-01T00:00:17Z', 'labels': []}
+{'issuenumber': 1264, 'title': 'any way to customize redirect uri validator?', 'state': 'closed', 'created_at': '2022-02-18T16:48:50Z', 'closed_at': '2022-03-02T09:58:18Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 1263, 'title': 'Suggestion: Retrieve Keys from Key Vaults', 'state': 'closed', 'created_at': '2022-02-18T16:45:15Z', 'closed_at': '2022-03-02T09:59:05Z', 'labels': {'name': 'Discussion'}}
+{'issuenumber': 1262, 'title': 'JSON encoding ScopeEntityInterface', 'state': 'closed', 'created_at': '2022-02-08T16:24:44Z', 'closed_at': '2022-03-02T10:43:52Z', 'labels': {'name': 'Improvement Idea'}}
+{'issuenumber': 1261, 'title': 'Question: Next step in the authorization server flow: extracting and validating the JWT token?', 'state': 'closed', 'created_at': '2022-01-25T12:43:55Z', 'closed_at': '2022-01-29T13:54:54Z', 'labels': []}
+{'issuenumber': 1260, 'title': 'Access Token Scope not meeting oAuth 2 specification requirements?', 'state': 'closed', 'created_at': '2022-01-12T12:45:56Z', 'closed_at': '2022-01-24T23:48:59Z', 'labels': {'name': 'Spec Compliance'}}
+{'issuenumber': 1258, 'title': '[Feature Request] Make it possible to configure token life times per client', 'state': 'closed', 'created_at': '2022-01-04T09:23:09Z', 'closed_at': '2022-01-25T00:19:14Z', 'labels': []}
+{'issuenumber': 1253, 'title': 'Creating login for user/Sending Resource owner data', 'state': 'closed', 'created_at': '2021-11-15T10:43:58Z', 'closed_at': '2021-11-16T11:53:44Z', 'labels': []}
+{'issuenumber': 1252, 'title': "Root package 'league/oauth2-server' cannot require itself in its composer.json", 'state': 'closed', 'created_at': '2021-10-26T01:22:50Z', 'closed_at': '2021-10-26T01:29:39Z', 'labels': []}
+{'issuenumber': 1245, 'title': 'Straight way to issue access token', 'state': 'closed', 'created_at': '2021-08-19T21:01:22Z', 'closed_at': '2021-10-11T20:52:26Z', 'labels': []}
+{'issuenumber': 1244, 'title': 'FATAL: Trying to include an un existing class', 'state': 'closed', 'created_at': '2021-08-18T16:43:05Z', 'closed_at': '2021-10-11T20:57:22Z', 'labels': []}
+{'issuenumber': 1241, 'title': 'When is 9.0 expected to be released? Will it support openid connect？', 'state': 'closed', 'created_at': '2021-07-30T07:50:50Z', 'closed_at': '2021-07-30T10:04:44Z', 'labels': []}
+{'issuenumber': 1240, 'title': 'BC-break by removing temporary file with private key', 'state': 'closed', 'created_at': '2021-07-28T00:04:55Z', 'closed_at': '2021-10-11T21:02:15Z', 'labels': []}
+{'issuenumber': 1239, 'title': 'Possible regression with `redirect_uri`?', 'state': 'closed', 'created_at': '2021-07-25T21:38:42Z', 'closed_at': '2021-07-27T07:55:31Z', 'labels': []}
+{'issuenumber': 1235, 'title': 'Version conflict with lcobucci/jwt 4.1.4', 'state': 'closed', 'created_at': '2021-06-05T05:54:45Z', 'closed_at': '2021-07-10T10:37:20Z', 'labels': []}
+{'issuenumber': 1234, 'title': 'Error: invalid client and client authentication failed with status code 401 Unauthorized when requesting access_token', 'state': 'closed', 'created_at': '2021-06-04T14:15:14Z', 'closed_at': '2021-07-15T06:50:10Z', 'labels': []}
+{'issuenumber': 1232, 'title': 'I got this issue when upgrade to 8.3.0 "The request is missing a required parameter, includes an invalid parameter value, includes a parameter more than once, or is otherwise malformed"', 'state': 'closed', 'created_at': '2021-06-04T04:22:19Z', 'closed_at': '2021-06-04T08:08:35Z', 'labels': []}
+{'issuenumber': 1231, 'title': 'ClientCredentialsGrant and AuthCodeGrant should reuse the `$this->validateClient` result', 'state': 'closed', 'created_at': '2021-06-04T02:10:52Z', 'closed_at': '2021-06-04T02:15:35Z', 'labels': []}
+{'issuenumber': 1229, 'title': 'Internal same service authentication', 'state': 'closed', 'created_at': '2021-05-18T07:04:54Z', 'closed_at': '2021-05-19T07:14:03Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 1226, 'title': 'Single-file deployment for dummies?', 'state': 'closed', 'created_at': '2021-05-06T08:33:17Z', 'closed_at': '2021-05-06T22:21:56Z', 'labels': []}
+{'issuenumber': 1225, 'title': 'Drupal : Issue on  \\oauth2-server\\src\\ResponseTypes\\BearerTokenResponse.php file', 'state': 'closed', 'created_at': '2021-05-06T07:18:10Z', 'closed_at': '2022-01-25T00:41:55Z', 'labels': {'name': 'Needs Verification'}}
+{'issuenumber': 1218, 'title': 'refresh token ttl after generating the token', 'state': 'closed', 'created_at': '2021-04-22T19:06:51Z', 'closed_at': '2021-04-23T13:16:33Z', 'labels': []}
+{'issuenumber': 1214, 'title': 'Change CryptKey to use PHPSecLib for key validation', 'state': 'closed', 'created_at': '2021-04-17T11:31:25Z', 'closed_at': '2021-05-31T19:30:41Z', 'labels': []}
+{'issuenumber': 1213, 'title': 'Separate Auth Server and Resource Server', 'state': 'closed', 'created_at': '2021-04-15T07:33:23Z', 'closed_at': '2021-04-15T19:17:03Z', 'labels': []}
+{'issuenumber': 1209, 'title': 'TypeError in mallformed tokens', 'state': 'closed', 'created_at': '2021-04-01T07:18:36Z', 'closed_at': '2021-04-17T09:57:41Z', 'labels': []}
+{'issuenumber': 1208, 'title': 'Add method on AuthCodeGrant to disable plain verifier.', 'state': 'closed', 'created_at': '2021-03-30T20:08:26Z', 'closed_at': '2021-04-17T10:13:36Z', 'labels': []}
+{'issuenumber': 1207, 'title': "Class 'Lcobucci\\Clock\\SystemClock' not found and Target [Lcobucci\\JWT\\Parser] is not instantiable with building", 'state': 'closed', 'created_at': '2021-03-30T16:34:04Z', 'closed_at': '2021-04-17T16:59:06Z', 'labels': {'name': 'Waiting for Response'}}
+{'issuenumber': 1205, 'title': 'Issuing an access-token based on a refresh-token', 'state': 'closed', 'created_at': '2021-03-30T10:37:18Z', 'closed_at': '2021-04-17T10:42:37Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 1201, 'title': 'Validating access tokens from multiple authorization servers', 'state': 'closed', 'created_at': '2021-03-11T10:19:04Z', 'closed_at': '2021-04-17T10:45:20Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 1199, 'title': 'Make AuthCodeGrant::validateAuthorizationCode() visibility protected', 'state': 'closed', 'created_at': '2021-03-08T21:53:09Z', 'closed_at': '2021-03-14T22:35:45Z', 'labels': []}
+{'issuenumber': 1197, 'title': 'Test invalid JWT fails with lcobucci/jwt:4.1.2', 'state': 'closed', 'created_at': '2021-03-07T13:31:35Z', 'closed_at': '2021-03-14T17:10:57Z', 'labels': []}
+{'issuenumber': 1195, 'title': 'Consistent json_decode() usage across grant types', 'state': 'closed', 'created_at': '2021-03-03T18:22:59Z', 'closed_at': '2021-03-07T11:03:42Z', 'labels': []}
+{'issuenumber': 1194, 'title': 'ResourceServer depends on key stored in file', 'state': 'closed', 'created_at': '2021-03-01T07:56:40Z', 'closed_at': '2021-03-14T16:44:49Z', 'labels': []}
+{'issuenumber': 1192, 'title': 'Empty response', 'state': 'closed', 'created_at': '2021-02-24T00:38:23Z', 'closed_at': '2021-03-14T17:48:42Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 1191, 'title': 'resulted in a `400 Bad Request` response: {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an invalid paramet (truncated...) ', 'state': 'closed', 'created_at': '2021-02-15T14:27:16Z', 'closed_at': '2021-03-14T20:57:00Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 1190, 'title': 'Enable non-constant port for http://localhost redirect URLs for Native App clients', 'state': 'closed', 'created_at': '2021-02-15T11:43:46Z', 'closed_at': '2021-03-14T22:44:00Z', 'labels': []}
+{'issuenumber': 1188, 'title': 'Redirection URI validation and rfc8252', 'state': 'closed', 'created_at': '2021-02-07T09:33:33Z', 'closed_at': '2022-04-06T21:14:23Z', 'labels': {'name': 'Future Version'}}
+{'issuenumber': 1187, 'title': 'why client and user relation repeated for authorization_code attempt?', 'state': 'closed', 'created_at': '2021-02-01T19:48:36Z', 'closed_at': '2021-04-17T10:46:46Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 1186, 'title': '"league/oauth2-server": "8.2.4" Dependency "lcobucci/jwt": "^4.0" doesn\'t work anymore', 'state': 'closed', 'created_at': '2021-01-27T09:26:06Z', 'closed_at': '2021-01-27T11:12:46Z', 'labels': []}
+{'issuenumber': 1185, 'title': 'PASETO instead of JWT?', 'state': 'closed', 'created_at': '2021-01-27T03:59:30Z', 'closed_at': '2021-01-27T07:39:29Z', 'labels': []}
+{'issuenumber': 1183, 'title': 'Custumize request attributes in BearerTokenValidator', 'state': 'closed', 'created_at': '2021-01-15T10:34:17Z', 'closed_at': '2021-01-16T13:11:21Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 1182, 'title': 'User deprecated function: Implicit conversion of keys from strings is deprecated', 'state': 'closed', 'created_at': '2021-01-04T14:07:47Z', 'closed_at': '2021-01-04T16:18:47Z', 'labels': []}
+{'issuenumber': 1179, 'title': 'Support for Device Authorization Grant (RFC 8628)', 'state': 'closed', 'created_at': '2020-12-22T12:01:35Z', 'closed_at': '2021-01-04T16:24:10Z', 'labels': []}
+{'issuenumber': 1177, 'title': 'How to support multiple redirect_uri for oauth2 client?', 'state': 'closed', 'created_at': '2020-12-15T10:31:29Z', 'closed_at': '2020-12-24T15:50:33Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 1172, 'title': 'SPA Auth code flow', 'state': 'closed', 'created_at': '2020-12-10T10:45:26Z', 'closed_at': '2020-12-19T20:53:56Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 1163, 'title': 'Private key Passphrase should be passed to JWT configuration in AccessTokenTrait context', 'state': 'closed', 'created_at': '2020-11-29T20:02:36Z', 'closed_at': '2020-11-30T12:59:36Z', 'labels': []}
+{'issuenumber': 1162, 'title': 'OAuthServerException::invalidClient() produces browser login prompt', 'state': 'closed', 'created_at': '2020-11-29T19:55:06Z', 'closed_at': '2020-12-11T12:10:37Z', 'labels': []}
+{'issuenumber': 1161, 'title': 'Cannot use the client credentials without any redirect URI', 'state': 'closed', 'created_at': '2020-11-27T09:36:44Z', 'closed_at': '2020-12-10T11:32:22Z', 'labels': {'name': 'Discussion'}}
+{'issuenumber': 1160, 'title': 'Dependency JWT ^3.3.1 will be updated to 3.4.0 ', 'state': 'closed', 'created_at': '2020-11-26T12:18:32Z', 'closed_at': '2020-11-27T02:16:01Z', 'labels': []}
+{'issuenumber': 1157, 'title': 'Change oauth2-server version ', 'state': 'closed', 'created_at': '2020-11-25T10:56:59Z', 'closed_at': '2020-11-25T12:32:21Z', 'labels': []}
+{'issuenumber': 1156, 'title': 'Latest version of lcobucci/jwt is throwing deprecation messages breaking /oauth/token', 'state': 'closed', 'created_at': '2020-11-25T03:17:43Z', 'closed_at': '2020-11-25T23:52:40Z', 'labels': []}
+{'issuenumber': 1151, 'title': 'Multiple tokens valid at the same time', 'state': 'closed', 'created_at': '2020-11-19T12:59:25Z', 'closed_at': '2020-11-19T22:04:24Z', 'labels': []}
+{'issuenumber': 1150, 'title': 'Multiple tokens valid at the same time', 'state': 'closed', 'created_at': '2020-11-19T12:57:44Z', 'closed_at': '2020-11-19T12:58:20Z', 'labels': []}
+{'issuenumber': 1147, 'title': 'Call to undefined method League\\\\OAuth2\\\\Server\\\\AuthorizationServer::setEncryptionKey()', 'state': 'closed', 'created_at': '2020-11-06T19:38:09Z', 'closed_at': '2020-11-08T22:25:47Z', 'labels': []}
+{'issuenumber': 1145, 'title': 'Domain events do not provide information about tokens', 'state': 'closed', 'created_at': '2020-10-29T23:18:21Z', 'closed_at': '2021-07-28T11:38:13Z', 'labels': {'name': 'Future Version'}}
+{'issuenumber': 1144, 'title': 'Per token expiration time', 'state': 'closed', 'created_at': '2020-10-22T10:07:00Z', 'closed_at': '2020-10-27T15:22:07Z', 'labels': []}
+{'issuenumber': 1143, 'title': 'Question: how server create identifier ?', 'state': 'closed', 'created_at': '2020-10-16T04:04:33Z', 'closed_at': '2020-10-22T13:19:09Z', 'labels': []}
+{'issuenumber': 1142, 'title': 'Meta/Feedback: Change JWT library from lcobucci/jwt to web-token/jwt-framework', 'state': 'closed', 'created_at': '2020-10-04T02:39:58Z', 'closed_at': '2020-11-08T21:11:48Z', 'labels': []}
+{'issuenumber': 1139, 'title': 'Question about migrating from v4 non-JWT access tokens', 'state': 'closed', 'created_at': '2020-09-18T02:49:09Z', 'closed_at': '2020-09-23T12:16:05Z', 'labels': []}
+{'issuenumber': 1137, 'title': 'Support adding `issuer` claim to the access token JWT', 'state': 'closed', 'created_at': '2020-08-31T20:36:34Z', 'closed_at': '2020-09-23T12:38:02Z', 'labels': []}
+{'issuenumber': 1136, 'title': '"Implementation" for Authorization Code Grant seems incomplete', 'state': 'closed', 'created_at': '2020-08-28T14:07:12Z', 'closed_at': '2020-08-29T13:51:50Z', 'labels': []}
+{'issuenumber': 1133, 'title': 'Notice: Undefined offset at AuthCodeGrant when redirect uri not defined', 'state': 'closed', 'created_at': '2020-08-25T21:39:27Z', 'closed_at': '2020-09-23T21:18:22Z', 'labels': []}
+{'issuenumber': 1131, 'title': 'I can Add milti account feature', 'state': 'closed', 'created_at': '2020-08-02T03:48:11Z', 'closed_at': '2020-08-06T12:53:16Z', 'labels': []}
+{'issuenumber': 1129, 'title': 'Typo in AuthCodeGrant.php', 'state': 'closed', 'created_at': '2020-07-21T18:21:25Z', 'closed_at': '2020-07-22T15:07:03Z', 'labels': []}
+{'issuenumber': 1127, 'title': 'Unable to validate scopes from auth code grant type because it is validating the json encoded Scope object instead of just the scope identifier', 'state': 'closed', 'created_at': '2020-07-04T21:50:04Z', 'closed_at': '2020-07-04T22:49:18Z', 'labels': []}
+{'issuenumber': 1125, 'title': 'AuthCodeGrant validateAuthorizationRequest uses defaultClientRedirectUri', 'state': 'closed', 'created_at': '2020-06-25T22:10:14Z', 'closed_at': '2020-06-30T23:26:22Z', 'labels': {'name': 'Bug'}}
+{'issuenumber': 1120, 'title': 'Usage of Custom Claims', 'state': 'closed', 'created_at': '2020-06-03T13:22:15Z', 'closed_at': '2020-06-03T14:33:39Z', 'labels': []}
+{'issuenumber': 1119, 'title': 'Tutorials', 'state': 'closed', 'created_at': '2020-06-02T20:27:04Z', 'closed_at': '2020-06-30T23:27:44Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 1115, 'title': 'The access token return is wrong or I am doing something wrong.', 'state': 'closed', 'created_at': '2020-05-17T17:55:35Z', 'closed_at': '2020-05-17T18:33:11Z', 'labels': []}
+{'issuenumber': 1114, 'title': 'One client per user?', 'state': 'closed', 'created_at': '2020-05-09T15:00:55Z', 'closed_at': '2020-05-13T20:40:12Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 1106, 'title': 'OAuthServerException: Unauthorized instead of Internal Server Error', 'state': 'closed', 'created_at': '2020-04-15T15:20:15Z', 'closed_at': '2020-04-15T22:22:45Z', 'labels': []}
+{'issuenumber': 1103, 'title': '[Help needed] Adding authorization level to access-token', 'state': 'closed', 'created_at': '2020-04-06T12:59:28Z', 'closed_at': '2020-04-07T12:17:20Z', 'labels': []}
+{'issuenumber': 1101, 'title': 'Refresh a token from a different client', 'state': 'closed', 'created_at': '2020-03-26T15:25:10Z', 'closed_at': '2020-03-28T23:24:52Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 1099, 'title': 'Authorization Code flow and PKCE', 'state': 'closed', 'created_at': '2020-02-28T16:07:33Z', 'closed_at': '2020-02-28T19:33:43Z', 'labels': []}
+{'issuenumber': 1097, 'title': 'What hint message should we use to identify a failed authentication of user?', 'state': 'closed', 'created_at': '2020-02-25T15:42:55Z', 'closed_at': '2020-02-25T22:20:05Z', 'labels': []}
+{'issuenumber': 1093, 'title': 'invalid_grant Error When Credentials are Incorrect', 'state': 'closed', 'created_at': '2020-02-16T06:02:46Z', 'closed_at': '2020-02-20T22:28:14Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 1092, 'title': 'Default Scope does not work as expected', 'state': 'closed', 'created_at': '2020-02-12T09:13:26Z', 'closed_at': '2021-05-31T20:03:00Z', 'labels': {'name': 'Bug'}}
+{'issuenumber': 1091, 'title': 'Change UserRepository users table', 'state': 'closed', 'created_at': '2020-02-11T16:50:04Z', 'closed_at': '2020-02-11T19:44:27Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 1090, 'title': 'How can i restrict access token/refresh token expiry based on client?', 'state': 'closed', 'created_at': '2020-02-10T12:43:37Z', 'closed_at': '2020-02-10T13:09:18Z', 'labels': []}
+{'issuenumber': 1088, 'title': 'Fix client validation in ClientCredentials-Example', 'state': 'closed', 'created_at': '2020-02-10T09:34:42Z', 'closed_at': '2020-02-11T19:52:00Z', 'labels': []}
+{'issuenumber': 1085, 'title': 'Feature Request: Allow wildcard subdirectory for redirect uri', 'state': 'closed', 'created_at': '2020-02-04T14:42:01Z', 'closed_at': '2020-02-06T21:59:08Z', 'labels': []}
+{'issuenumber': 1077, 'title': 'Support hash instead of query string for authorization response', 'state': 'closed', 'created_at': '2019-12-17T16:09:44Z', 'closed_at': '2019-12-18T22:58:19Z', 'labels': []}
+{'issuenumber': 1076, 'title': 'Scopes in separate tables', 'state': 'closed', 'created_at': '2019-12-12T16:18:53Z', 'closed_at': '2020-02-11T19:33:54Z', 'labels': []}
+{'issuenumber': 1070, 'title': 'How to deal with CryptKey permission', 'state': 'closed', 'created_at': '2019-11-14T16:05:16Z', 'closed_at': '2019-11-28T08:27:50Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 1068, 'title': 'AuthorizatonServer::respondToAccessTokenRequest returning access token two times', 'state': 'closed', 'created_at': '2019-11-07T20:16:17Z', 'closed_at': '2019-11-07T20:59:15Z', 'labels': []}
+{'issuenumber': 1067, 'title': "Fatal error: Uncaught Error: Class 'ClientRepository' not found", 'state': 'closed', 'created_at': '2019-11-05T22:54:37Z', 'closed_at': '2019-11-26T22:01:04Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 1065, 'title': 'How can save de token in database? ', 'state': 'closed', 'created_at': '2019-10-26T16:23:33Z', 'closed_at': '2019-11-06T12:37:21Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 1063, 'title': 'Full OAuth2 client/server example', 'state': 'closed', 'created_at': '2019-10-25T17:02:58Z', 'closed_at': '2019-10-26T21:36:10Z', 'labels': []}
+{'issuenumber': 1062, 'title': 'Race condition on key file save in CryptKey because of touch', 'state': 'closed', 'created_at': '2019-10-25T12:42:07Z', 'closed_at': '2019-10-25T22:57:33Z', 'labels': {'name': 'Bug'}}
+{'issuenumber': 1061, 'title': 'User authentication/authorisation: is this the correct flow?', 'state': 'closed', 'created_at': '2019-10-18T14:47:56Z', 'closed_at': '2019-10-21T16:09:30Z', 'labels': []}
+{'issuenumber': 1059, 'title': 'Usage of invalid_grant for password grant', 'state': 'closed', 'created_at': '2019-10-10T09:57:04Z', 'closed_at': '2019-10-10T10:34:55Z', 'labels': []}
+{'issuenumber': 1053, 'title': 'Add "fragment" response_mode support for Auth Code grants.', 'state': 'closed', 'created_at': '2019-09-19T06:42:38Z', 'closed_at': '2019-10-07T10:20:01Z', 'labels': []}
+{'issuenumber': 1052, 'title': 'Default Scopes Broken?', 'state': 'closed', 'created_at': '2019-09-14T00:10:22Z', 'closed_at': '2019-09-17T08:29:53Z', 'labels': []}
+{'issuenumber': 1050, 'title': 'AuthCodeGrant issues a 500 response if user sends a valid refresh token by mistake', 'state': 'closed', 'created_at': '2019-09-10T21:46:59Z', 'closed_at': '2019-10-08T22:21:54Z', 'labels': {'name': 'Bug'}}
+{'issuenumber': 1046, 'title': 'Throw error if preg_match() fails in CryptKey constructor', 'state': 'closed', 'created_at': '2019-08-19T16:46:29Z', 'closed_at': '2019-10-17T22:20:13Z', 'labels': []}
+{'issuenumber': 1040, 'title': 'Private key permissions inside docker', 'state': 'closed', 'created_at': '2019-07-24T17:57:33Z', 'closed_at': '2019-07-25T17:45:51Z', 'labels': []}
+{'issuenumber': 1038, 'title': "The 'Which Grant' docs are outdated and don't reflect best practices", 'state': 'closed', 'created_at': '2019-07-22T23:20:36Z', 'closed_at': '2019-09-17T21:33:20Z', 'labels': {'name': 'Documentation'}}
+{'issuenumber': 1034, 'title': "Example client repository allows public clients when it shouldn't", 'state': 'closed', 'created_at': '2019-07-22T21:22:40Z', 'closed_at': '2019-11-26T23:37:39Z', 'labels': []}
+{'issuenumber': 1026, 'title': 'Token still working after after user deletion', 'state': 'closed', 'created_at': '2019-07-02T16:52:05Z', 'closed_at': '2019-07-13T20:25:43Z', 'labels': []}
+{'issuenumber': 1025, 'title': "Refresh token revoked before we're sure the new tokens were received successfully", 'state': 'closed', 'created_at': '2019-07-02T12:56:44Z', 'closed_at': '2020-03-30T10:48:10Z', 'labels': {'name': 'Future Version'}}
+{'issuenumber': 1020, 'title': 'Where or how to login?', 'state': 'closed', 'created_at': '2019-06-16T06:59:19Z', 'closed_at': '2019-06-20T19:38:23Z', 'labels': []}
+{'issuenumber': 1019, 'title': 'Toggling between plain and JWT access token', 'state': 'closed', 'created_at': '2019-06-13T15:26:28Z', 'closed_at': '2019-07-13T21:05:37Z', 'labels': []}
+{'issuenumber': 1018, 'title': 'Repositories typing contradiction', 'state': 'closed', 'created_at': '2019-06-10T05:13:16Z', 'closed_at': '2019-06-18T16:19:16Z', 'labels': []}
+{'issuenumber': 1016, 'title': '[Question] Way to read token from url', 'state': 'closed', 'created_at': '2019-05-28T14:14:48Z', 'closed_at': '2019-06-05T12:09:27Z', 'labels': []}
+{'issuenumber': 1012, 'title': '[Question] JWT not in header', 'state': 'closed', 'created_at': '2019-05-12T23:06:51Z', 'closed_at': '2019-05-14T21:08:24Z', 'labels': []}
+{'issuenumber': 1004, 'title': 'Authorization Code Grant seems to require client_secret?', 'state': 'closed', 'created_at': '2019-03-25T12:15:16Z', 'closed_at': '2019-05-05T08:56:46Z', 'labels': []}
+{'issuenumber': 1002, 'title': 'Documentation is in Front of Development', 'state': 'closed', 'created_at': '2019-03-18T22:17:32Z', 'closed_at': '2019-03-18T22:19:26Z', 'labels': []}
+{'issuenumber': 1001, 'title': 'MultipleAccess token for same user and application', 'state': 'closed', 'created_at': '2019-03-09T18:14:11Z', 'closed_at': '2019-03-13T09:43:05Z', 'labels': []}
+{'issuenumber': 999, 'title': 'Security question/issue: how is client_credentials grant restricted to confidential clients?', 'state': 'closed', 'created_at': '2019-03-01T21:11:40Z', 'closed_at': '2019-03-08T19:30:14Z', 'labels': []}
+{'issuenumber': 998, 'title': 'Make UserEntityInterface Api more compatible with AccessTokenEntityInterface', 'state': 'closed', 'created_at': '2019-02-20T19:41:05Z', 'closed_at': '2019-05-05T09:12:47Z', 'labels': []}
+{'issuenumber': 996, 'title': 'Resource server middleware on a separate API', 'state': 'closed', 'created_at': '2019-02-12T16:59:04Z', 'closed_at': '2019-05-05T09:15:00Z', 'labels': []}
+{'issuenumber': 994, 'title': 'Setting up resource server monitoring for symfony 4.x', 'state': 'closed', 'created_at': '2019-02-05T02:37:58Z', 'closed_at': '2019-02-05T11:31:20Z', 'labels': []}
+{'issuenumber': 993, 'title': 'Spec compliance: invalid_request returned when refresh token invalid', 'state': 'closed', 'created_at': '2019-02-05T00:21:19Z', 'closed_at': '2019-08-31T19:32:12Z', 'labels': {'name': 'Spec Compliance'}}
+{'issuenumber': 992, 'title': 'Version 8', 'state': 'closed', 'created_at': '2019-02-04T20:14:39Z', 'closed_at': '2019-02-06T09:26:35Z', 'labels': []}
+{'issuenumber': 990, 'title': 'How to deal with native app social login', 'state': 'closed', 'created_at': '2019-01-30T14:06:55Z', 'closed_at': '2019-02-07T12:17:23Z', 'labels': []}
+{'issuenumber': 989, 'title': 'Incorrect login password error management with optimus - heimdal', 'state': 'closed', 'created_at': '2019-01-24T14:47:19Z', 'closed_at': '2019-02-06T09:41:46Z', 'labels': []}
+{'issuenumber': 986, 'title': 'Incorrect Docblock Param Type in Entity', 'state': 'closed', 'created_at': '2019-01-14T19:03:14Z', 'closed_at': '2019-02-08T13:19:25Z', 'labels': []}
+{'issuenumber': 984, 'title': 'Feature request: event or callback when access token about to be refreshed', 'state': 'closed', 'created_at': '2019-01-09T23:51:09Z', 'closed_at': '2019-01-11T10:34:05Z', 'labels': []}
+{'issuenumber': 982, 'title': 'missing dependency in example project', 'state': 'closed', 'created_at': '2018-12-26T15:35:55Z', 'closed_at': '2019-01-14T18:48:35Z', 'labels': []}
+{'issuenumber': 980, 'title': 'What should be instantiated for each step on the server? |documentation|', 'state': 'closed', 'created_at': '2018-12-06T14:33:09Z', 'closed_at': '2018-12-06T18:08:18Z', 'labels': []}
+{'issuenumber': 979, 'title': 'can i user this extension in yii2?', 'state': 'closed', 'created_at': '2018-12-06T07:27:06Z', 'closed_at': '2018-12-06T23:05:41Z', 'labels': []}
+{'issuenumber': 975, 'title': 'Timeline for v8.0 release?', 'state': 'closed', 'created_at': '2018-11-22T21:27:47Z', 'closed_at': '2018-11-23T12:54:16Z', 'labels': []}
+{'issuenumber': 974, 'title': 'Dangerously incorrect documentation (re: public/private keys)', 'state': 'closed', 'created_at': '2018-11-22T21:01:12Z', 'closed_at': '2018-11-23T12:51:53Z', 'labels': []}
+{'issuenumber': 973, 'title': 'Typo on web site', 'state': 'closed', 'created_at': '2018-11-22T06:20:47Z', 'closed_at': '2018-12-06T23:30:13Z', 'labels': []}
+{'issuenumber': 972, 'title': 'is there anyway to translate response messsage?', 'state': 'closed', 'created_at': '2018-11-16T09:10:23Z', 'closed_at': '2018-11-16T10:09:41Z', 'labels': []}
+{'issuenumber': 968, 'title': 'BC break when extending BearerTokenResponse', 'state': 'closed', 'created_at': '2018-11-15T12:42:23Z', 'closed_at': '2018-11-23T10:18:03Z', 'labels': {'name': 'Bug'}}
+{'issuenumber': 964, 'title': 'Security Issues Checking', 'state': 'closed', 'created_at': '2018-11-08T16:10:06Z', 'closed_at': '2018-11-08T17:01:17Z', 'labels': []}
+{'issuenumber': 962, 'title': 'Support nonce for Authorization Code and Implicit Grant', 'state': 'closed', 'created_at': '2018-11-08T06:38:44Z', 'closed_at': '2018-11-08T11:21:45Z', 'labels': []}
+{'issuenumber': 961, 'title': 'In the 8.0.0 branch the AuthCodeGrant does not accept client_id and client_secret through HTTP Basic Authentication', 'state': 'closed', 'created_at': '2018-11-06T10:45:47Z', 'closed_at': '2018-12-10T23:09:33Z', 'labels': {'name': 'Bug'}}
+{'issuenumber': 957, 'title': 'Error Resource Server', 'state': 'closed', 'created_at': '2018-10-25T18:25:35Z', 'closed_at': '2018-10-25T18:37:54Z', 'labels': []}
+{'issuenumber': 955, 'title': 'invalid_credentials is not spec-compliant', 'state': 'closed', 'created_at': '2018-10-15T16:38:53Z', 'closed_at': '2018-10-20T22:47:10Z', 'labels': {'name': 'Bug'}}
+{'issuenumber': 954, 'title': 'How to handle new tokens on User Registration ', 'state': 'closed', 'created_at': '2018-10-15T14:30:44Z', 'closed_at': '2018-10-18T09:57:25Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 951, 'title': 'How can add a custom token generation for codeigniter', 'state': 'closed', 'created_at': '2018-10-12T04:18:14Z', 'closed_at': '2018-10-12T12:10:48Z', 'labels': []}
+{'issuenumber': 949, 'title': 'Get user_id from jwt token ?', 'state': 'closed', 'created_at': '2018-10-10T19:39:05Z', 'closed_at': '2018-10-10T19:48:17Z', 'labels': []}
+{'issuenumber': 948, 'title': 'Why you use global Request object instead scalar parameters in classes?', 'state': 'closed', 'created_at': '2018-10-09T12:04:58Z', 'closed_at': '2018-10-16T11:54:35Z', 'labels': []}
+{'issuenumber': 947, 'title': 'decode jwt', 'state': 'closed', 'created_at': '2018-10-09T05:50:13Z', 'closed_at': '2018-10-09T12:47:44Z', 'labels': []}
+{'issuenumber': 944, 'title': 'No TTL for refresh tokens?', 'state': 'closed', 'created_at': '2018-09-18T12:41:09Z', 'closed_at': '2018-09-20T12:02:17Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 943, 'title': 'BearerTokenValidator::validateAuthorization() - jti and scope(s) ', 'state': 'closed', 'created_at': '2018-09-17T18:37:57Z', 'closed_at': '2018-09-17T19:03:33Z', 'labels': []}
+{'issuenumber': 940, 'title': 'Access authCodePayload in AccessTokenRepository or RefreshTokenRepository?', 'state': 'closed', 'created_at': '2018-09-11T12:51:39Z', 'closed_at': '2018-09-17T14:46:03Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 939, 'title': 'Examples folder is not included in the .zip file!', 'state': 'closed', 'created_at': '2018-09-07T21:49:10Z', 'closed_at': '2018-09-11T21:55:00Z', 'labels': []}
+{'issuenumber': 937, 'title': 'Additional Token handling after AuthorizatonServer::respondToAccessTokenRequest', 'state': 'closed', 'created_at': '2018-09-01T17:02:40Z', 'closed_at': '2018-09-15T00:06:03Z', 'labels': []}
+{'issuenumber': 936, 'title': 'Use scope to a specific subset of resources', 'state': 'closed', 'created_at': '2018-08-29T13:13:49Z', 'closed_at': '2018-09-05T11:29:34Z', 'labels': []}
+{'issuenumber': 935, 'title': 'How does token verification and JWT work?', 'state': 'closed', 'created_at': '2018-08-26T00:42:44Z', 'closed_at': '2018-08-29T21:11:35Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 931, 'title': 'Unable to verify the access token in own AuthorizationValidatorInterface', 'state': 'closed', 'created_at': '2018-08-17T07:37:34Z', 'closed_at': '2018-08-17T08:28:51Z', 'labels': []}
+{'issuenumber': 930, 'title': 'Why do we need getName() in ClientEntityInterface?', 'state': 'closed', 'created_at': '2018-08-15T17:26:35Z', 'closed_at': '2018-08-18T20:57:13Z', 'labels': []}
+{'issuenumber': 926, 'title': "examples auth_code.php doesn't work", 'state': 'closed', 'created_at': '2018-07-24T10:44:20Z', 'closed_at': '2018-07-27T11:26:58Z', 'labels': []}
+{'issuenumber': 922, 'title': 'Make Server Exception give more details than superficial details', 'state': 'closed', 'created_at': '2018-07-09T11:52:39Z', 'closed_at': '2018-07-09T14:24:53Z', 'labels': []}
+{'issuenumber': 914, 'title': 'Probable BC break between 4.1.3 and 4.1.6', 'state': 'closed', 'created_at': '2018-06-18T14:47:00Z', 'closed_at': '2018-06-23T16:48:18Z', 'labels': []}
+{'issuenumber': 911, 'title': 'Are there any schema examples? repositories implementation examples with mysql backend?', 'state': 'closed', 'created_at': '2018-06-14T12:59:26Z', 'closed_at': '2018-06-15T12:39:08Z', 'labels': []}
+{'issuenumber': 909, 'title': 'AbstractGrant::issueAccessToken adds scopes twice ', 'state': 'closed', 'created_at': '2018-06-06T21:37:40Z', 'closed_at': '2018-06-24T12:56:06Z', 'labels': []}
+{'issuenumber': 907, 'title': 'verifying Token with custom logic for handling clients validity', 'state': 'closed', 'created_at': '2018-06-03T18:18:23Z', 'closed_at': '2018-06-04T19:34:32Z', 'labels': []}
+{'issuenumber': 906, 'title': 'I want to separate resource services from authorization services', 'state': 'closed', 'created_at': '2018-05-31T11:36:51Z', 'closed_at': '2018-06-03T19:39:54Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 903, 'title': 'Unable to Override AuthorizationServer to use customised BearerTokenResponse', 'state': 'closed', 'created_at': '2018-05-18T13:17:21Z', 'closed_at': '2018-12-13T11:04:35Z', 'labels': []}
+{'issuenumber': 900, 'title': "If public key belong to incorrect user/group or it's file Permissions is 000, system won't give help tips", 'state': 'closed', 'created_at': '2018-05-14T12:33:53Z', 'closed_at': '2018-05-16T09:51:39Z', 'labels': []}
+{'issuenumber': 898, 'title': 'Wordpress Support', 'state': 'closed', 'created_at': '2018-05-06T12:15:39Z', 'closed_at': '2018-05-14T13:03:03Z', 'labels': []}
+{'issuenumber': 896, 'title': 'ORM mapping for vendor-supplied traits', 'state': 'closed', 'created_at': '2018-04-26T13:42:33Z', 'closed_at': '2018-04-27T09:48:53Z', 'labels': []}
+{'issuenumber': 895, 'title': 'OAuth2 Spec interpretation: finalizeScopes()', 'state': 'closed', 'created_at': '2018-04-22T14:49:03Z', 'closed_at': '2018-07-13T10:24:09Z', 'labels': {'name': 'Improvement Idea'}}
+{'issuenumber': 894, 'title': 'Dedicated Private/Public Keys per client', 'state': 'closed', 'created_at': '2018-04-22T13:53:33Z', 'closed_at': '2018-04-22T15:26:05Z', 'labels': []}
+{'issuenumber': 891, 'title': 'generateHttpResponse cannot write to response stream', 'state': 'closed', 'created_at': '2018-04-20T13:27:05Z', 'closed_at': '2018-05-14T13:04:04Z', 'labels': []}
+{'issuenumber': 890, 'title': 'AuthCodeGrant $this->encrypt failure', 'state': 'closed', 'created_at': '2018-04-18T11:56:13Z', 'closed_at': '2018-05-23T13:37:28Z', 'labels': []}
+{'issuenumber': 888, 'title': 'Count Number of Failed Login Attempts', 'state': 'closed', 'created_at': '2018-04-13T14:40:57Z', 'closed_at': '2018-04-13T20:35:24Z', 'labels': []}
+{'issuenumber': 886, 'title': 'Adding support for Client scopes', 'state': 'closed', 'created_at': '2018-04-10T12:02:52Z', 'closed_at': '2018-04-10T14:04:45Z', 'labels': []}
+{'issuenumber': 883, 'title': 'laravel/passport@4.0.x responds with "Object of class DateTime could not be converted to string"', 'state': 'closed', 'created_at': '2018-04-06T22:58:33Z', 'closed_at': '2018-04-13T12:10:09Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 882, 'title': 'oauth_client <-> user relation', 'state': 'closed', 'created_at': '2018-04-04T14:58:49Z', 'closed_at': '2018-04-05T12:04:00Z', 'labels': []}
+{'issuenumber': 881, 'title': "Why isn't auth code grant validate the client secret?", 'state': 'closed', 'created_at': '2018-04-04T10:24:26Z', 'closed_at': '2018-04-06T11:33:53Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 880, 'title': 'Cannot decrypt the refresh token', 'state': 'closed', 'created_at': '2018-04-03T16:26:22Z', 'closed_at': '2018-04-20T15:12:24Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 879, 'title': 'How to handle user login (and not oauth clients)?', 'state': 'closed', 'created_at': '2018-03-22T19:40:42Z', 'closed_at': '2018-04-02T19:36:14Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 878, 'title': 'Any way to get the ClientEntity after verification?', 'state': 'closed', 'created_at': '2018-03-19T11:28:06Z', 'closed_at': '2018-03-19T11:44:37Z', 'labels': []}
+{'issuenumber': 877, 'title': 'Error in codeigniter integration', 'state': 'closed', 'created_at': '2018-03-19T06:49:00Z', 'closed_at': '2018-03-19T12:11:56Z', 'labels': []}
+{'issuenumber': 875, 'title': 'Cannot access this package via composer', 'state': 'closed', 'created_at': '2018-03-17T14:34:35Z', 'closed_at': '2018-03-18T11:09:48Z', 'labels': []}
+{'issuenumber': 872, 'title': 'New realease', 'state': 'closed', 'created_at': '2018-03-13T09:42:55Z', 'closed_at': '2018-03-13T21:14:51Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 870, 'title': "Authorization Code flow: conflict between an authorization code custom redirect_uri (saved in the auth code grant entity) and what's saved in the client entity", 'state': 'closed', 'created_at': '2018-03-06T21:01:44Z', 'closed_at': '2018-03-06T22:04:51Z', 'labels': []}
+{'issuenumber': 868, 'title': 'The private key', 'state': 'closed', 'created_at': '2018-03-01T06:34:28Z', 'closed_at': '2018-03-01T06:45:56Z', 'labels': []}
+{'issuenumber': 861, 'title': 'Random Compat', 'state': 'closed', 'created_at': '2018-02-25T10:18:42Z', 'closed_at': '2018-02-26T12:39:38Z', 'labels': []}
+{'issuenumber': 859, 'title': "getClientEntity doesn't include client secret", 'state': 'closed', 'created_at': '2018-02-21T11:49:49Z', 'closed_at': '2018-02-22T13:41:34Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 858, 'title': 'Question: where to check token expiration', 'state': 'closed', 'created_at': '2018-02-20T00:12:10Z', 'closed_at': '2018-02-20T22:30:12Z', 'labels': []}
+{'issuenumber': 855, 'title': 'RefreshTokenEntityInterface:getAccessToken appears to be unused + Question', 'state': 'closed', 'created_at': '2018-02-18T18:23:33Z', 'closed_at': '2018-02-18T19:58:11Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 846, 'title': 'The encrypted code payload should contain scope identifiers and not Scope Entity Objects', 'state': 'closed', 'created_at': '2018-02-05T18:14:25Z', 'closed_at': '2018-02-19T13:42:10Z', 'labels': []}
+{'issuenumber': 843, 'title': 'Incomplete interfaces?', 'state': 'closed', 'created_at': '2018-01-25T15:30:02Z', 'closed_at': '2018-01-25T16:54:40Z', 'labels': []}
+{'issuenumber': 841, 'title': 'Learning oauth2-server more detail', 'state': 'closed', 'created_at': '2018-01-14T08:41:38Z', 'closed_at': '2018-01-25T16:55:21Z', 'labels': []}
+{'issuenumber': 838, 'title': "implode(self::SCOPE_DELIMITER_STRING, $oldRefreshToken['scopes']))", 'state': 'closed', 'created_at': '2018-01-12T09:07:49Z', 'closed_at': '2018-04-02T19:38:28Z', 'labels': []}
+{'issuenumber': 837, 'title': 'unsupported_grant_type when client_id is missing', 'state': 'closed', 'created_at': '2018-01-09T17:02:00Z', 'closed_at': '2018-04-20T17:13:41Z', 'labels': []}
+{'issuenumber': 835, 'title': "CryptKey constructor won't accept strings with windows based line endings as a valid key", 'state': 'closed', 'created_at': '2018-01-02T21:12:11Z', 'closed_at': '2018-01-02T23:02:06Z', 'labels': []}
+{'issuenumber': 834, 'title': 'A fix to support for multiple client redirect URI', 'state': 'closed', 'created_at': '2018-01-02T20:50:41Z', 'closed_at': '2018-01-02T23:28:07Z', 'labels': []}
+{'issuenumber': 833, 'title': 'Writing key to file even if it exists', 'state': 'closed', 'created_at': '2018-01-02T09:48:54Z', 'closed_at': '2018-02-06T12:33:35Z', 'labels': {'name': 'Improvement Idea'}}
+{'issuenumber': 831, 'title': 'the folder examples is not downloadable!', 'state': 'closed', 'created_at': '2017-12-26T07:54:32Z', 'closed_at': '2017-12-26T12:24:42Z', 'labels': []}
+{'issuenumber': 830, 'title': 'emm', 'state': 'closed', 'created_at': '2017-12-25T06:53:25Z', 'closed_at': '2017-12-25T07:00:21Z', 'labels': []}
+{'issuenumber': 829, 'title': 'AbstractGrant -> validateScopes() method does not support empty scopes anymore', 'state': 'closed', 'created_at': '2017-12-23T19:44:22Z', 'closed_at': '2017-12-23T23:57:52Z', 'labels': []}
+{'issuenumber': 827, 'title': 'ResourceServer not validating issued token', 'state': 'closed', 'created_at': '2017-12-20T19:26:21Z', 'closed_at': '2017-12-20T23:33:38Z', 'labels': []}
+{'issuenumber': 826, 'title': 'How to use scopes?', 'state': 'closed', 'created_at': '2017-12-17T11:00:02Z', 'closed_at': '2017-12-19T20:23:48Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 825, 'title': '[NFR] New events to emitter', 'state': 'closed', 'created_at': '2017-12-15T10:44:13Z', 'closed_at': '2018-02-26T20:03:22Z', 'labels': {'name': 'Improvement Idea'}}
+{'issuenumber': 819, 'title': 'PKCE code_verifier hash', 'state': 'closed', 'created_at': '2017-11-23T21:56:46Z', 'closed_at': '2017-11-23T22:22:32Z', 'labels': []}
+{'issuenumber': 816, 'title': 'Error at Create Token and client', 'state': 'closed', 'created_at': '2017-11-22T10:33:46Z', 'closed_at': '2017-11-22T13:08:23Z', 'labels': []}
+{'issuenumber': 815, 'title': 'RefreshGrant Need to bypass REFRESH_TOKEN_CLIENT_FAILED exception', 'state': 'closed', 'created_at': '2017-11-17T13:47:53Z', 'closed_at': '2018-01-25T17:05:46Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 812, 'title': 'Encrypting/decrypting very slow due to use of de-/encryptWithPassword()', 'state': 'closed', 'created_at': '2017-11-16T18:39:03Z', 'closed_at': '2018-04-02T19:42:24Z', 'labels': {'name': 'Improvement Idea'}}
+{'issuenumber': 809, 'title': 'Differences between access_token and refresh_token', 'state': 'closed', 'created_at': '2017-11-08T16:17:45Z', 'closed_at': '2018-03-23T15:21:20Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 808, 'title': 'Implementing league/oauth2-server with symfony 3.x', 'state': 'closed', 'created_at': '2017-11-05T21:13:49Z', 'closed_at': '2018-02-19T13:46:14Z', 'labels': {'name': 'Improvement Idea'}}
+{'issuenumber': 807, 'title': "Making tokens shorter? It's almost 1kb..", 'state': 'closed', 'created_at': '2017-11-03T14:27:53Z', 'closed_at': '2017-11-04T07:44:20Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 798, 'title': 'Issued time claim validation is not tolerant of timing drift', 'state': 'closed', 'created_at': '2017-10-25T07:47:42Z', 'closed_at': '2020-07-23T13:10:52Z', 'labels': {'name': 'Improvement Idea'}}
+{'issuenumber': 791, 'title': 'oauth2-client not working with oauth2-server', 'state': 'closed', 'created_at': '2017-09-28T23:40:29Z', 'closed_at': '2017-09-29T07:52:18Z', 'labels': []}
+{'issuenumber': 786, 'title': 'Implicit grant not adhering to the docs', 'state': 'closed', 'created_at': '2017-09-24T14:59:07Z', 'closed_at': '2018-09-23T17:33:01Z', 'labels': []}
+{'issuenumber': 785, 'title': "RefreshTokenGrant - Revoking old tokens doesn't respect foreign keys.", 'state': 'closed', 'created_at': '2017-09-20T20:39:36Z', 'closed_at': '2017-09-29T07:55:01Z', 'labels': []}
+{'issuenumber': 784, 'title': 'Memory exhausting in OAuthServerException', 'state': 'closed', 'created_at': '2017-09-15T00:28:16Z', 'closed_at': '2017-09-29T07:55:46Z', 'labels': []}
+{'issuenumber': 783, 'title': 'CryptKey permissions 660 / 600', 'state': 'closed', 'created_at': '2017-09-07T16:26:36Z', 'closed_at': '2017-09-07T17:22:03Z', 'labels': []}
+{'issuenumber': 781, 'title': '"oauth-public.key" permissions are not correct, should be 600 or 660 instead of 666', 'state': 'closed', 'created_at': '2017-08-18T11:39:03Z', 'closed_at': '2017-10-13T21:58:40Z', 'labels': []}
+{'issuenumber': 780, 'title': 'Document the new encryption key requirements', 'state': 'closed', 'created_at': '2017-08-18T08:46:07Z', 'closed_at': '2018-04-02T20:03:21Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 779, 'title': 'Public/Private Key Permissions on Windows', 'state': 'closed', 'created_at': '2017-08-08T13:47:17Z', 'closed_at': '2017-10-16T19:56:44Z', 'labels': []}
+{'issuenumber': 778, 'title': 'Public/Private Key Permission', 'state': 'closed', 'created_at': '2017-08-04T06:27:40Z', 'closed_at': '2017-08-08T08:36:05Z', 'labels': []}
+{'issuenumber': 775, 'title': "What's `completeAuthorizationRequest` meant for?", 'state': 'closed', 'created_at': '2017-08-01T10:08:10Z', 'closed_at': '2017-08-01T10:39:56Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 772, 'title': 'No develop branch - CONTRIBUTING.md', 'state': 'closed', 'created_at': '2017-07-29T15:40:46Z', 'closed_at': '2017-07-30T07:32:33Z', 'labels': []}
+{'issuenumber': 771, 'title': '[Implicit Grant] wrong uri separator for query string?', 'state': 'closed', 'created_at': '2017-07-29T15:37:24Z', 'closed_at': '2017-07-29T16:23:23Z', 'labels': []}
+{'issuenumber': 769, 'title': 'Add missing @throws UniqueTokenIdentifierConstraintViolationException', 'state': 'closed', 'created_at': '2017-07-27T15:21:27Z', 'closed_at': '2017-07-30T07:32:13Z', 'labels': []}
+{'issuenumber': 767, 'title': 'Oauth2 allow social network login ?', 'state': 'closed', 'created_at': '2017-07-23T13:37:45Z', 'closed_at': '2017-07-23T17:48:32Z', 'labels': []}
+{'issuenumber': 766, 'title': 'chmod(/..../storage/oauth-private.key): Operation failed: Operation not permitted', 'state': 'closed', 'created_at': '2017-07-21T03:07:43Z', 'closed_at': '2017-08-02T14:37:18Z', 'labels': []}
+{'issuenumber': 764, 'title': 'How to opt out of using JWT and asymmetric encryption', 'state': 'closed', 'created_at': '2017-07-17T07:13:13Z', 'closed_at': '2017-07-17T09:27:40Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 763, 'title': 'Authorisation server hosted in apache...', 'state': 'closed', 'created_at': '2017-07-14T07:25:22Z', 'closed_at': '2017-07-16T14:59:34Z', 'labels': []}
+{'issuenumber': 762, 'title': 'Laravel 5.4 passport not working when my composer updating league/oauth2-server from v5.1.4 to v5.1.5', 'state': 'closed', 'created_at': '2017-07-13T12:55:24Z', 'closed_at': '2017-07-13T13:20:11Z', 'labels': []}
+{'issuenumber': 761, 'title': 'Blog typo, V5 Security Improvements', 'state': 'closed', 'created_at': '2017-07-11T22:50:32Z', 'closed_at': '2017-07-14T15:09:38Z', 'labels': []}
+{'issuenumber': 760, 'title': '"Ensure the server is the exclusive owner of the key" is wrong', 'state': 'closed', 'created_at': '2017-07-07T13:35:15Z', 'closed_at': '2017-08-03T15:10:43Z', 'labels': {'name': 'Improvement Idea'}}
+{'issuenumber': 759, 'title': 'v6.0.0 returning undocumented 400 Bad Request error', 'state': 'closed', 'created_at': '2017-07-07T10:45:05Z', 'closed_at': '2017-08-03T15:07:25Z', 'labels': {'name': 'Bug'}}
+{'issuenumber': 758, 'title': 'Resource owner password for mobile app', 'state': 'closed', 'created_at': '2017-07-05T09:26:13Z', 'closed_at': '2018-02-19T18:14:09Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 757, 'title': 'A few questions about the security improvements', 'state': 'closed', 'created_at': '2017-07-04T20:05:32Z', 'closed_at': '2018-10-16T11:33:29Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 756, 'title': 'Refresh token not getting associated with client or user', 'state': 'closed', 'created_at': '2017-07-04T12:18:37Z', 'closed_at': '2018-03-21T12:29:02Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 753, 'title': '[5.1.4] V5 Security Improvement not backward compatible', 'state': 'closed', 'created_at': '2017-07-03T06:52:36Z', 'closed_at': '2017-07-11T06:38:33Z', 'labels': {'name': 'Bug'}}
+{'issuenumber': 750, 'title': 'RefreshTokenGrant', 'state': 'closed', 'created_at': '2017-07-01T02:15:49Z', 'closed_at': '2017-07-01T20:52:26Z', 'labels': []}
+{'issuenumber': 748, 'title': 'Replace array_key_exists by isset on src/Grant/ImplicitGrant.php, which is faster', 'state': 'closed', 'created_at': '2017-06-30T18:44:47Z', 'closed_at': '2017-07-07T15:51:28Z', 'labels': []}
+{'issuenumber': 746, 'title': 'convert bearer to current user login?', 'state': 'closed', 'created_at': '2017-06-21T20:36:56Z', 'closed_at': '2018-04-03T12:07:19Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 745, 'title': 'WWW-Authenticate should only be sent when neccesary', 'state': 'closed', 'created_at': '2017-06-20T15:46:18Z', 'closed_at': '2018-05-17T12:34:33Z', 'labels': []}
+{'issuenumber': 743, 'title': 'Why does the same access_token is being returned all the time?', 'state': 'closed', 'created_at': '2017-06-14T15:21:02Z', 'closed_at': '2018-04-02T21:41:24Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 742, 'title': 'src/ResourceServer.php in Branch 4.1.x, The code is not supported by PHP 5.4.', 'state': 'closed', 'created_at': '2017-06-06T21:53:58Z', 'closed_at': '2017-07-30T07:33:28Z', 'labels': []}
+{'issuenumber': 737, 'title': 'ImplicitGrant finalizes scopes without user identifier', 'state': 'closed', 'created_at': '2017-04-28T08:03:16Z', 'closed_at': '2018-09-23T17:31:53Z', 'labels': []}
+{'issuenumber': 735, 'title': 'Old refresh token should not be IMMEDIATELY revoked', 'state': 'closed', 'created_at': '2017-04-21T19:48:38Z', 'closed_at': '2018-02-26T19:13:10Z', 'labels': []}
+{'issuenumber': 733, 'title': 'how to use password grant and refresh grant', 'state': 'closed', 'created_at': '2017-04-17T07:50:18Z', 'closed_at': '2017-04-17T09:54:54Z', 'labels': []}
+{'issuenumber': 732, 'title': 'All exceptions are not catched in the method sendRequest of class AbstractProvider', 'state': 'closed', 'created_at': '2017-04-13T09:32:55Z', 'closed_at': '2017-04-13T09:34:01Z', 'labels': []}
+{'issuenumber': 730, 'title': 'Csrf security hole ', 'state': 'closed', 'created_at': '2017-04-08T19:34:44Z', 'closed_at': '2017-04-09T07:21:10Z', 'labels': []}
+{'issuenumber': 729, 'title': "$token->getClaim('jti') is an empty string", 'state': 'closed', 'created_at': '2017-04-08T15:51:30Z', 'closed_at': '2017-04-09T07:21:18Z', 'labels': []}
+{'issuenumber': 728, 'title': 'Example getAccessToken() method adds scopes twice', 'state': 'closed', 'created_at': '2017-04-03T11:42:58Z', 'closed_at': '2017-04-09T07:23:46Z', 'labels': []}
+{'issuenumber': 726, 'title': 'Unimplemented comment (If the client is confidential require the client secret)', 'state': 'closed', 'created_at': '2017-03-28T13:02:00Z', 'closed_at': '2017-03-28T13:04:26Z', 'labels': []}
+{'issuenumber': 725, 'title': 'How to integrate a resource server with the oauth-server', 'state': 'closed', 'created_at': '2017-03-27T19:24:07Z', 'closed_at': '2017-04-09T07:25:36Z', 'labels': []}
+{'issuenumber': 723, 'title': 'For multiple redirect uris - Any error redirect to the first uri', 'state': 'closed', 'created_at': '2017-03-27T08:38:47Z', 'closed_at': '2017-03-27T09:21:19Z', 'labels': []}
+{'issuenumber': 722, 'title': 'Sample DB setup?', 'state': 'closed', 'created_at': '2017-03-22T10:36:41Z', 'closed_at': '2017-03-22T12:49:12Z', 'labels': []}
+{'issuenumber': 721, 'title': 'client_credentials  can not use refresh_token ?', 'state': 'closed', 'created_at': '2017-03-22T10:33:20Z', 'closed_at': '2017-03-22T10:36:52Z', 'labels': []}
+{'issuenumber': 720, 'title': 'Scopes claim typo ?', 'state': 'closed', 'created_at': '2017-03-21T15:43:10Z', 'closed_at': '2017-03-21T16:47:27Z', 'labels': []}
+{'issuenumber': 717, 'title': 'Feature request: OAuthServerException extra parameters', 'state': 'closed', 'created_at': '2017-03-19T15:35:58Z', 'closed_at': '2018-02-11T22:49:15Z', 'labels': []}
+{'issuenumber': 714, 'title': 'Implicit Grant redirection query doubt', 'state': 'closed', 'created_at': '2017-03-16T21:32:42Z', 'closed_at': '2017-03-17T07:35:40Z', 'labels': []}
+{'issuenumber': 708, 'title': 'Get user ID in route [Slim 3]', 'state': 'closed', 'created_at': '2017-02-23T04:10:55Z', 'closed_at': '2017-02-23T07:15:48Z', 'labels': []}
+{'issuenumber': 707, 'title': 'What is the right way to work with errors?', 'state': 'closed', 'created_at': '2017-02-21T15:11:13Z', 'closed_at': '2018-04-03T11:51:04Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 706, 'title': 'Cannot decrypt the refresh token', 'state': 'closed', 'created_at': '2017-02-17T17:45:41Z', 'closed_at': '2017-02-18T09:34:53Z', 'labels': []}
+{'issuenumber': 705, 'title': 'how to create token basic Bearer , Non JWT', 'state': 'closed', 'created_at': '2017-02-13T07:38:02Z', 'closed_at': '2017-02-14T22:19:14Z', 'labels': []}
+{'issuenumber': 704, 'title': 'Login dialog popup if wrong client credential used', 'state': 'closed', 'created_at': '2017-02-09T12:35:53Z', 'closed_at': '2018-01-03T12:39:12Z', 'labels': []}
+{'issuenumber': 702, 'title': 'removed for security.', 'state': 'closed', 'created_at': '2017-02-03T16:04:18Z', 'closed_at': '2017-02-03T16:24:48Z', 'labels': []}
+{'issuenumber': 701, 'title': 'Is redirect URI valdiation not too strict? (URL query string also checked)', 'state': 'closed', 'created_at': '2017-01-26T23:46:22Z', 'closed_at': '2017-01-27T08:55:44Z', 'labels': []}
+{'issuenumber': 700, 'title': 'Laravel oauth2-server fresh installation grant password unauthenticated', 'state': 'closed', 'created_at': '2017-01-26T12:03:24Z', 'closed_at': '2017-01-27T09:12:21Z', 'labels': []}
+{'issuenumber': 698, 'title': 'The resource owner or authorization server denied the request.', 'state': 'closed', 'created_at': '2017-01-25T14:45:39Z', 'closed_at': '2017-01-27T09:13:06Z', 'labels': []}
+{'issuenumber': 696, 'title': 'Couple of questions', 'state': 'closed', 'created_at': '2017-01-23T16:50:29Z', 'closed_at': '2017-01-23T16:57:53Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 694, 'title': 'No way to tell whether an OAuthException will trigger a redirect', 'state': 'closed', 'created_at': '2017-01-20T07:17:41Z', 'closed_at': '2018-05-25T09:09:16Z', 'labels': []}
+{'issuenumber': 693, 'title': 'openssl_pkey_get_public returning false, but key does exist', 'state': 'closed', 'created_at': '2017-01-18T18:50:33Z', 'closed_at': '2017-07-02T21:21:28Z', 'labels': []}
+{'issuenumber': 692, 'title': 'Help with slim and oauth', 'state': 'closed', 'created_at': '2017-01-18T16:42:23Z', 'closed_at': '2017-02-03T20:20:00Z', 'labels': []}
+{'issuenumber': 687, 'title': 'V6 roadmap?', 'state': 'closed', 'created_at': '2016-11-25T08:58:54Z', 'closed_at': '2017-12-20T09:40:29Z', 'labels': []}
+{'issuenumber': 686, 'title': 'How can I delay token revocation?', 'state': 'closed', 'created_at': '2016-11-18T15:55:35Z', 'closed_at': '2016-11-18T16:00:49Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 685, 'title': 'scope issue when refreshing token', 'state': 'closed', 'created_at': '2016-11-17T17:44:18Z', 'closed_at': '2016-11-17T18:03:16Z', 'labels': []}
+{'issuenumber': 684, 'title': 'Why does CryptTrait use the private key for encryption, rather than the public key?', 'state': 'closed', 'created_at': '2016-11-16T18:15:05Z', 'closed_at': '2017-07-02T21:21:12Z', 'labels': {'name': 'Improvement Idea'}}
+{'issuenumber': 683, 'title': 'Encryption do not work properly ', 'state': 'closed', 'created_at': '2016-11-15T05:25:30Z', 'closed_at': '2017-07-02T21:20:26Z', 'labels': []}
+{'issuenumber': 680, 'title': 'AbstractGrant issueAccessToken strange implementation', 'state': 'closed', 'created_at': '2016-11-07T00:13:34Z', 'closed_at': '2016-11-07T11:21:59Z', 'labels': []}
+{'issuenumber': 679, 'title': 'PasswordGrant relying on UserRepositoryInterface', 'state': 'closed', 'created_at': '2016-11-06T21:27:23Z', 'closed_at': '2016-11-08T13:19:45Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 677, 'title': "Failure without 'scope' in BearerToken", 'state': 'closed', 'created_at': '2016-10-29T20:00:31Z', 'closed_at': '2017-11-16T19:27:46Z', 'labels': {'name': 'Bug'}}
+{'issuenumber': 676, 'title': 'OAuthServerException::accessDenied() throws 401 HTTP status code', 'state': 'closed', 'created_at': '2016-10-27T09:35:36Z', 'closed_at': '2016-11-07T11:03:21Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 675, 'title': 'Client questions', 'state': 'closed', 'created_at': '2016-10-27T01:55:53Z', 'closed_at': '2017-12-20T09:41:53Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 672, 'title': 'Giving the ScopeRepository a reference to the AuthCode during AuthCode grant.', 'state': 'closed', 'created_at': '2016-10-17T11:54:22Z', 'closed_at': '2020-04-18T11:09:50Z', 'labels': {'name': 'Improvement Idea'}}
+{'issuenumber': 670, 'title': 'Question: token storage and security (v4)', 'state': 'closed', 'created_at': '2016-10-13T14:26:11Z', 'closed_at': '2016-10-16T08:59:05Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 667, 'title': 'Specific exception message when redirect_uri is invalid', 'state': 'closed', 'created_at': '2016-10-11T13:20:18Z', 'closed_at': '2018-04-17T11:31:19Z', 'labels': []}
+{'issuenumber': 666, 'title': 'Recommended key length should be at least 2048 bits', 'state': 'closed', 'created_at': '2016-10-10T21:40:15Z', 'closed_at': '2016-10-11T13:27:28Z', 'labels': []}
+{'issuenumber': 665, 'title': 'Auth Code Repository Docs confusing', 'state': 'closed', 'created_at': '2016-10-04T12:41:22Z', 'closed_at': '2016-10-09T10:48:22Z', 'labels': []}
+{'issuenumber': 664, 'title': 'Revoked tokens become usable when pruned', 'state': 'closed', 'created_at': '2016-09-29T20:04:34Z', 'closed_at': '2016-09-29T20:32:28Z', 'labels': []}
+{'issuenumber': 663, 'title': 'Is there a way to set custom response type?', 'state': 'closed', 'created_at': '2016-09-29T18:05:45Z', 'closed_at': '2016-09-30T11:14:10Z', 'labels': []}
+{'issuenumber': 661, 'title': 'Help to identify oauth2-server version', 'state': 'closed', 'created_at': '2016-09-28T17:45:26Z', 'closed_at': '2016-09-28T18:09:23Z', 'labels': []}
+{'issuenumber': 660, 'title': 'Token validators', 'state': 'closed', 'created_at': '2016-09-20T14:55:01Z', 'closed_at': '2016-09-28T12:50:45Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 653, 'title': 'How to add other fields in password grant besides username and password, for example, Captcha', 'state': 'closed', 'created_at': '2016-09-13T01:25:37Z', 'closed_at': '2016-09-13T11:59:33Z', 'labels': []}
+{'issuenumber': 650, 'title': 'No call of finalizeScopes in ImplicitGrant?', 'state': 'closed', 'created_at': '2016-09-02T23:44:51Z', 'closed_at': '2016-09-19T09:19:20Z', 'labels': {'name': 'Bug'}}
+{'issuenumber': 644, 'title': 'How to handle JWT on client side of web apps?', 'state': 'closed', 'created_at': '2016-08-23T02:16:26Z', 'closed_at': '2016-08-31T08:39:10Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 641, 'title': 'Validate token', 'state': 'closed', 'created_at': '2016-08-18T19:25:46Z', 'closed_at': '2016-08-18T19:40:14Z', 'labels': []}
+{'issuenumber': 640, 'title': 'More visibly call out PSR-7 support requirement', 'state': 'closed', 'created_at': '2016-08-16T17:45:36Z', 'closed_at': '2018-05-16T12:37:10Z', 'labels': {'name': 'Improvement Idea'}}
+{'issuenumber': 639, 'title': 'Get back additional information about a user', 'state': 'closed', 'created_at': '2016-08-08T13:11:59Z', 'closed_at': '2016-09-19T10:11:01Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 634, 'title': 'Are there any plans on supporting "nonce"?', 'state': 'closed', 'created_at': '2016-08-05T21:38:30Z', 'closed_at': '2016-09-19T10:11:06Z', 'labels': {'name': 'Waiting for Response'}}
+{'issuenumber': 631, 'title': 'CryptKey using a different protocol than file://', 'state': 'closed', 'created_at': '2016-07-30T10:05:03Z', 'closed_at': '2016-08-06T17:40:39Z', 'labels': {'name': 'Future Version'}}
+{'issuenumber': 630, 'title': "It's pretty difficult to avoid JWT", 'state': 'closed', 'created_at': '2016-07-27T15:27:42Z', 'closed_at': '2016-07-28T23:23:15Z', 'labels': []}
+{'issuenumber': 629, 'title': 'State param & password grant', 'state': 'closed', 'created_at': '2016-07-27T13:34:09Z', 'closed_at': '2016-07-27T14:18:46Z', 'labels': []}
+{'issuenumber': 628, 'title': 'PasswordGrant/RefreshTokenGrant and exposing oauth_client_id/oauth_user_id for logging', 'state': 'closed', 'created_at': '2016-07-21T17:52:29Z', 'closed_at': '2016-07-25T19:50:21Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 623, 'title': 'Difficult to specify additional data on Bearer Token response', 'state': 'closed', 'created_at': '2016-07-16T14:40:40Z', 'closed_at': '2016-07-16T15:38:38Z', 'labels': []}
+{'issuenumber': 622, 'title': 'Typo on web site', 'state': 'closed', 'created_at': '2016-07-13T20:53:22Z', 'closed_at': '2016-07-14T07:18:17Z', 'labels': []}
+{'issuenumber': 620, 'title': 'Are you using software to automatically triage issues ?', 'state': 'closed', 'created_at': '2016-07-12T16:05:05Z', 'closed_at': '2016-07-12T16:06:38Z', 'labels': []}
+{'issuenumber': 619, 'title': 'Provide default implementations for entities', 'state': 'closed', 'created_at': '2016-07-12T15:56:30Z', 'closed_at': '2016-07-12T16:11:46Z', 'labels': []}
+{'issuenumber': 617, 'title': 'while(array_shift()) over grant types, sounds weird', 'state': 'closed', 'created_at': '2016-07-12T15:45:23Z', 'closed_at': '2016-07-13T10:02:34Z', 'labels': {'name': 'Waiting for Response'}}
+{'issuenumber': 612, 'title': 'Upgrading to version 5, old tokens', 'state': 'closed', 'created_at': '2016-07-08T08:56:34Z', 'closed_at': '2016-07-09T09:23:25Z', 'labels': []}
+{'issuenumber': 610, 'title': 'Frameworks without PSR7 such as Laravel', 'state': 'closed', 'created_at': '2016-07-04T21:48:23Z', 'closed_at': '2016-07-05T11:02:19Z', 'labels': []}
+{'issuenumber': 609, 'title': 'Question about upgrading', 'state': 'closed', 'created_at': '2016-07-04T06:49:03Z', 'closed_at': '2016-07-04T07:27:33Z', 'labels': []}
+{'issuenumber': 603, 'title': 'Discussion: authenticated encryption', 'state': 'closed', 'created_at': '2016-06-20T03:52:16Z', 'closed_at': '2018-05-24T13:26:01Z', 'labels': {'name': 'Improvement Idea'}}
+{'issuenumber': 602, 'title': "Multiple Grants doesn't work", 'state': 'closed', 'created_at': '2016-06-19T15:44:54Z', 'closed_at': '2016-06-28T07:51:18Z', 'labels': {'name': 'Bug'}}
+{'issuenumber': 599, 'title': 'Discussion: why `code` is encrypted?', 'state': 'closed', 'created_at': '2016-06-17T02:05:04Z', 'closed_at': '2016-06-17T03:41:04Z', 'labels': []}
+{'issuenumber': 598, 'title': 'Discussion: the purpose of TokenInterface::isExpired()', 'state': 'closed', 'created_at': '2016-06-16T23:35:44Z', 'closed_at': '2016-06-17T07:52:59Z', 'labels': {'name': 'Improvement Idea'}}
+{'issuenumber': 597, 'title': "AuthCode and Implicit grant don't return state parameter in error cases", 'state': 'closed', 'created_at': '2016-06-16T15:30:25Z', 'closed_at': '2016-06-28T08:21:55Z', 'labels': {'name': 'Bug'}}
+{'issuenumber': 596, 'title': 'Discussion: generation issue access tokens and randomness vs uniqueness', 'state': 'closed', 'created_at': '2016-06-16T04:29:57Z', 'closed_at': '2016-06-17T08:55:47Z', 'labels': {'name': 'Improvement Idea'}}
+{'issuenumber': 594, 'title': 'Is it possible to use this in wordpress?', 'state': 'closed', 'created_at': '2016-06-15T10:29:20Z', 'closed_at': '2016-06-15T11:18:04Z', 'labels': []}
+{'issuenumber': 593, 'title': 'Parsing exception on invalid access_token', 'state': 'closed', 'created_at': '2016-06-12T20:57:09Z', 'closed_at': '2016-06-28T07:50:35Z', 'labels': {'name': 'Bug'}}
+{'issuenumber': 592, 'title': 'Does the server support multiple grant_types with one server?', 'state': 'closed', 'created_at': '2016-06-05T09:45:45Z', 'closed_at': '2016-06-17T07:42:13Z', 'labels': []}
+{'issuenumber': 590, 'title': 'No other redirect_uri allowed?', 'state': 'closed', 'created_at': '2016-06-02T19:18:14Z', 'closed_at': '2016-06-03T07:09:49Z', 'labels': []}
+{'issuenumber': 589, 'title': 'Scopes ', 'state': 'closed', 'created_at': '2016-06-01T19:05:59Z', 'closed_at': '2016-06-02T08:35:36Z', 'labels': []}
+{'issuenumber': 586, 'title': 'What is the `AuthorizationServerMiddleware` meant for?', 'state': 'closed', 'created_at': '2016-05-31T09:35:31Z', 'closed_at': '2016-05-31T18:33:04Z', 'labels': []}
+{'issuenumber': 585, 'title': 'How to obtain the client data by specific access_token (question)', 'state': 'closed', 'created_at': '2016-05-28T00:20:34Z', 'closed_at': '2016-05-28T03:36:02Z', 'labels': []}
+{'issuenumber': 584, 'title': 'Problems with Codeigniter', 'state': 'closed', 'created_at': '2016-05-21T16:40:42Z', 'closed_at': '2016-05-22T03:32:11Z', 'labels': []}
+{'issuenumber': 582, 'title': 'Invalid Request - Cannot decrypt the authorization code', 'state': 'closed', 'created_at': '2016-05-19T12:05:04Z', 'closed_at': '2016-05-19T12:19:27Z', 'labels': []}
+{'issuenumber': 580, 'title': 'General guidelines on implementing this library', 'state': 'closed', 'created_at': '2016-05-17T17:09:57Z', 'closed_at': '2016-05-19T12:13:57Z', 'labels': []}
+{'issuenumber': 579, 'title': "Apart OAuth2 server - Validate on other API's", 'state': 'closed', 'created_at': '2016-05-13T08:34:06Z', 'closed_at': '2016-05-13T10:26:43Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 577, 'title': 'Implicit grant error in docs', 'state': 'closed', 'created_at': '2016-05-09T09:11:50Z', 'closed_at': '2016-07-19T13:21:47Z', 'labels': []}
+{'issuenumber': 574, 'title': 'Implement RFC 7636', 'state': 'closed', 'created_at': '2016-05-06T10:37:55Z', 'closed_at': '2016-05-06T14:24:13Z', 'labels': {'name': 'Future Version'}}
+{'issuenumber': 568, 'title': 'Refresh grant and scopes', 'state': 'closed', 'created_at': '2016-05-03T19:45:58Z', 'closed_at': '2016-05-06T17:37:20Z', 'labels': {'name': 'Waiting for Response'}}
+{'issuenumber': 567, 'title': "Cors 'Access-Control-Allow-Origin' on Exception", 'state': 'closed', 'created_at': '2016-05-02T02:52:54Z', 'closed_at': '2016-05-19T12:22:50Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 566, 'title': 'How to force all tokens expire if user change password?', 'state': 'closed', 'created_at': '2016-05-01T09:10:19Z', 'closed_at': '2016-05-01T09:24:26Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 565, 'title': "Shouldn't BearerTokenValidator check for token existence?", 'state': 'closed', 'created_at': '2016-04-30T09:26:59Z', 'closed_at': '2016-04-30T11:12:28Z', 'labels': []}
+{'issuenumber': 562, 'title': 'Mistake in Password Credentials Grant documentation page', 'state': 'closed', 'created_at': '2016-04-29T12:47:11Z', 'closed_at': '2016-04-29T13:26:05Z', 'labels': []}
+{'issuenumber': 559, 'title': 'Access token never expiring', 'state': 'closed', 'created_at': '2016-04-26T16:13:52Z', 'closed_at': '2016-04-27T20:14:27Z', 'labels': []}
+{'issuenumber': 557, 'title': 'Implement ServerRequestInterface and ResponseInterface', 'state': 'closed', 'created_at': '2016-04-25T07:48:17Z', 'closed_at': '2016-04-25T09:42:24Z', 'labels': []}
+{'issuenumber': 554, 'title': 'How to prepare the database for oauth2-server?', 'state': 'closed', 'created_at': '2016-04-21T06:25:41Z', 'closed_at': '2016-04-21T17:24:53Z', 'labels': []}
+{'issuenumber': 552, 'title': 'Selective scope support?', 'state': 'closed', 'created_at': '2016-04-19T08:21:34Z', 'closed_at': '2016-04-19T09:41:53Z', 'labels': {'name': 'Question'}}
+{'issuenumber': 550, 'title': 'How to implement ClientRepositoryInterface::getClientEntity()', 'state': 'closed', 'created_at': '2016-04-17T18:25:29Z', 'closed_at': '2016-04-18T07:33:41Z', 'labels': {'name': 'Bug'}}
+{'issuenumber': 545, 'title': 'Return values in constructors', 'state': 'closed', 'created_at': '2016-04-13T03:24:51Z', 'closed_at': '2016-04-14T06:29:44Z', 'labels': []}
+{'issuenumber': 544, 'title': "Server doesn't respect Refresh Token TTL", 'state': 'closed', 'created_at': '2016-04-12T19:00:02Z', 'closed_at': '2016-04-12T19:48:14Z', 'labels': []}
+{'issuenumber': 543, 'title': '[question][v5] refresh_token decrypt to trigger a revoke of the Token', 'state': 'closed', 'created_at': '2016-04-12T16:38:32Z', 'closed_at': '2016-04-12T17:19:31Z', 'labels': []}
+{'issuenumber': 542, 'title': "Ensure v5 doesn't fall foul of open redirector vulnerability", 'state': 'closed', 'created_at': '2016-04-12T13:59:52Z', 'closed_at': '2016-04-17T11:17:47Z', 'labels': []}
+{'issuenumber': 541, 'title': 'Reusing CryptTrait facilities', 'state': 'closed', 'created_at': '2016-04-12T11:17:10Z', 'closed_at': '2016-04-12T16:05:09Z', 'labels': []}
+{'issuenumber': 515, 'title': 'v5.0.0 RC2', 'state': 'closed', 'created_at': '2016-04-08T04:24:00Z', 'closed_at': '2016-04-08T04:26:01Z', 'labels': []}
+{'issuenumber': 514, 'title': 'Redirect uri is required only if the "redirect_uri" parameter was included in the authorization request', 'state': 'closed', 'created_at': '2016-04-04T11:45:33Z', 'closed_at': '2016-04-10T15:21:16Z', 'labels': {'name': 'Bug'}}
+{'issuenumber': 511, 'title': 'V5: ClientEntityInterface, only one redirect URI?', 'state': 'closed', 'created_at': '2016-04-03T01:26:40Z', 'closed_at': '2016-04-09T12:37:06Z', 'labels': {'name': 'Bug'}}
+{'issuenumber': 510, 'title': 'AbstractGrant::generateUniqueIdentifier() uses random_bytes() which is available only since PHP 7', 'state': 'closed', 'created_at': '2016-03-31T22:36:14Z', 'closed_at': '2016-04-04T09:04:55Z', 'labels': []}
+{'issuenumber': 508, 'title': 'Question about Refresh Token Grant', 'state': 'closed', 'created_at': '2016-03-31T10:45:20Z', 'closed_at': '2016-04-17T12:30:55Z', 'labels': {'name': 'Bug'}}
+{'issuenumber': 507, 'title': 'Question about password grant', 'state': 'closed', 'created_at': '2016-03-30T22:15:09Z', 'closed_at': '2016-04-08T04:28:48Z', 'labels': []}
+{'issuenumber': 506, 'title': 'A couple of questions', 'state': 'closed', 'created_at': '2016-03-30T19:34:41Z', 'closed_at': '2016-04-09T12:55:57Z', 'labels': []}
+{'issuenumber': 504, 'title': 'Move Entities Interfaces out', 'state': 'closed', 'created_at': '2016-03-29T07:41:31Z', 'closed_at': '2016-04-09T14:45:08Z', 'labels': []}
+{'issuenumber': 500, 'title': 'Specifying token class to be used', 'state': 'closed', 'created_at': '2016-03-27T23:06:53Z', 'closed_at': '2016-04-09T14:50:21Z', 'labels': {'name': 'Discussion'}}
+{'issuenumber': 499, 'title': 'Change AuthCodeGrant to make Templating optional', 'state': 'closed', 'created_at': '2016-03-27T12:37:32Z', 'closed_at': '2016-04-10T15:21:03Z', 'labels': {'name': 'Discussion'}}
+{'issuenumber': 496, 'title': 'V4 Documentation not found', 'state': 'closed', 'created_at': '2016-03-24T20:13:46Z', 'closed_at': '2016-03-24T20:19:49Z', 'labels': []}
+{'issuenumber': 479, 'title': 'Discussion - OpenSSL padding', 'state': 'closed', 'created_at': '2016-03-18T11:40:02Z', 'closed_at': '2016-04-09T14:52:34Z', 'labels': {'name': 'Discussion'}}
+{'issuenumber': 478, 'title': 'WWW-Authenticate never set with InvalidClientException', 'state': 'closed', 'created_at': '2016-03-18T11:14:04Z', 'closed_at': '2016-03-23T11:28:03Z', 'labels': []}
+{'issuenumber': 477, 'title': 'OAuth with authentication (SSO)', 'state': 'closed', 'created_at': '2016-03-18T03:26:19Z', 'closed_at': '2016-03-24T19:58:02Z', 'labels': []}
+{'issuenumber': 471, 'title': "$this->getRequest()->headers->get('Authorization') is NULL (but I can see it is there)", 'state': 'closed', 'created_at': '2016-03-16T10:36:23Z', 'closed_at': '2016-03-24T19:58:02Z', 'labels': []}
+{'issuenumber': 469, 'title': 'V5 - Default templates', 'state': 'closed', 'created_at': '2016-03-15T23:40:04Z', 'closed_at': '2016-03-17T10:13:33Z', 'labels': []}
+{'issuenumber': 463, 'title': 'V5 - repositories visibility on AbstractGrant', 'state': 'closed', 'created_at': '2016-03-14T23:08:54Z', 'closed_at': '2016-03-15T20:31:01Z', 'labels': []}
+{'issuenumber': 460, 'title': 'V5 - validate secret responsibility', 'state': 'closed', 'created_at': '2016-03-13T20:01:29Z', 'closed_at': '2016-03-15T21:30:43Z', 'labels': []}
+{'issuenumber': 456, 'title': 'example  error in ClientStorage.php', 'state': 'closed', 'created_at': '2016-03-01T04:43:51Z', 'closed_at': '2016-03-24T19:58:02Z', 'labels': []}
+{'issuenumber': 455, 'title': 'Why Request and Response classes?', 'state': 'closed', 'created_at': '2016-02-23T14:10:45Z', 'closed_at': '2016-02-24T08:51:26Z', 'labels': []}
+{'issuenumber': 453, 'title': 'Slim3 sample?', 'state': 'closed', 'created_at': '2016-02-21T21:36:12Z', 'closed_at': '2016-02-22T07:22:04Z', 'labels': []}
+{'issuenumber': 452, 'title': "I'm trying to install the example oauth-server, not really sure how to use it", 'state': 'closed', 'created_at': '2016-02-20T13:31:43Z', 'closed_at': '2016-03-24T19:58:02Z', 'labels': []}
+{'issuenumber': 449, 'title': 'StyleCI', 'state': 'closed', 'created_at': '2016-02-19T20:19:16Z', 'closed_at': '2016-02-19T23:11:24Z', 'labels': []}
+{'issuenumber': 443, 'title': 'Database not found', 'state': 'closed', 'created_at': '2016-02-08T10:47:09Z', 'closed_at': '2016-02-09T17:49:12Z', 'labels': []}
+{'issuenumber': 441, 'title': 'Autoloader doesnt work on Windows', 'state': 'closed', 'created_at': '2016-01-27T16:23:09Z', 'closed_at': '2016-02-01T08:53:16Z', 'labels': []}
+{'issuenumber': 439, 'title': 'Why is redirect_uri required?', 'state': 'closed', 'created_at': '2016-01-25T12:12:34Z', 'closed_at': '2016-02-18T12:09:09Z', 'labels': []}
+{'issuenumber': 438, 'title': 'ms sql', 'state': 'closed', 'created_at': '2016-01-22T03:23:33Z', 'closed_at': '2016-01-25T14:42:08Z', 'labels': []}
+{'issuenumber': 428, 'title': 'Allow variable token length', 'state': 'closed', 'created_at': '2016-01-17T14:28:00Z', 'closed_at': '2016-01-17T14:56:57Z', 'labels': []}
+{'issuenumber': 427, 'title': 'OAuthException->getHttpHeaders missing WWW-Authenticate: MAC', 'state': 'closed', 'created_at': '2016-01-17T14:24:08Z', 'closed_at': '2016-01-17T15:00:48Z', 'labels': []}
+{'issuenumber': 426, 'title': 'V5 - random_bytes', 'state': 'closed', 'created_at': '2016-01-17T14:09:08Z', 'closed_at': '2016-01-17T16:39:45Z', 'labels': []}
+{'issuenumber': 419, 'title': '[deleted]', 'state': 'closed', 'created_at': '2016-01-14T10:32:18Z', 'closed_at': '2016-01-14T10:34:14Z', 'labels': []}
+{'issuenumber': 418, 'title': 'save the authParams to session ', 'state': 'closed', 'created_at': '2016-01-13T10:16:40Z', 'closed_at': '2016-03-24T19:58:02Z', 'labels': []}
+{'issuenumber': 417, 'title': 'Allow option for scope to be returned in Token Response', 'state': 'closed', 'created_at': '2016-01-10T05:44:57Z', 'closed_at': '2016-02-18T12:17:21Z', 'labels': []}
+{'issuenumber': 416, 'title': 'Revoke access/ Disconnect sessions', 'state': 'closed', 'created_at': '2016-01-05T23:14:25Z', 'closed_at': '2016-01-14T23:59:11Z', 'labels': []}
+{'issuenumber': 415, 'title': 'Tag Symfony 3.0 support', 'state': 'closed', 'created_at': '2016-01-04T18:59:07Z', 'closed_at': '2016-01-04T19:57:11Z', 'labels': []}
+{'issuenumber': 414, 'title': 'InvalidRefreshException mistake', 'state': 'closed', 'created_at': '2015-12-31T03:04:43Z', 'closed_at': '2016-03-24T19:58:02Z', 'labels': []}
+{'issuenumber': 413, 'title': 'Use AuthoriZation for consistency', 'state': 'closed', 'created_at': '2015-12-20T19:37:14Z', 'closed_at': '2015-12-22T13:30:34Z', 'labels': []}
+{'issuenumber': 411, 'title': 'Example sqlite or MySQL Structure dump?', 'state': 'closed', 'created_at': '2015-12-04T21:58:13Z', 'closed_at': '2015-12-22T13:31:43Z', 'labels': []}
+{'issuenumber': 410, 'title': 'Is not the exact match of ts in MAC a bit extreme?', 'state': 'closed', 'created_at': '2015-12-04T01:38:07Z', 'closed_at': '2015-12-04T08:28:07Z', 'labels': []}
+{'issuenumber': 407, 'title': 'Why password grant needs client_id and client_secret?', 'state': 'closed', 'created_at': '2015-12-03T10:41:15Z', 'closed_at': '2015-12-03T12:37:06Z', 'labels': []}
+{'issuenumber': 403, 'title': 'How to integrate with core PHP', 'state': 'closed', 'created_at': '2015-11-19T06:37:58Z', 'closed_at': '2015-11-21T13:53:51Z', 'labels': []}
+{'issuenumber': 398, 'title': 'scopes and internal app permissions', 'state': 'closed', 'created_at': '2015-11-10T13:10:47Z', 'closed_at': '2015-11-13T17:54:38Z', 'labels': []}
+{'issuenumber': 395, 'title': 'Is there a plan to create a new tag?', 'state': 'closed', 'created_at': '2015-11-06T15:38:42Z', 'closed_at': '2015-11-13T17:54:02Z', 'labels': []}
+{'issuenumber': 394, 'title': 'Return the refresh token expiration in the response', 'state': 'closed', 'created_at': '2015-11-06T04:34:13Z', 'closed_at': '2015-12-22T13:32:38Z', 'labels': []}
+{'issuenumber': 393, 'title': 'Can I encrypt "get access token" call', 'state': 'closed', 'created_at': '2015-10-30T16:32:03Z', 'closed_at': '2015-11-13T17:56:27Z', 'labels': []}
+{'issuenumber': 392, 'title': 'Use pre-existing grant', 'state': 'closed', 'created_at': '2015-10-27T21:47:39Z', 'closed_at': '2015-12-22T13:33:55Z', 'labels': []}
+{'issuenumber': 390, 'title': 'Having refresh_token sent with a Client Credentials Grant', 'state': 'closed', 'created_at': '2015-10-15T16:09:32Z', 'closed_at': '2015-11-05T10:28:48Z', 'labels': []}
+{'issuenumber': 389, 'title': 'Call to a member function getSession() on null using dingo/api and oauth2-server-laravel', 'state': 'closed', 'created_at': '2015-10-15T08:44:29Z', 'closed_at': '2016-03-24T19:58:02Z', 'labels': []}
+{'issuenumber': 387, 'title': 'storing tokens securely', 'state': 'closed', 'created_at': '2015-10-10T08:52:24Z', 'closed_at': '2015-10-11T09:25:24Z', 'labels': []}
+{'issuenumber': 386, 'title': 'Refresh Token does not reference new access token', 'state': 'closed', 'created_at': '2015-10-10T00:16:58Z', 'closed_at': '2016-03-24T19:58:02Z', 'labels': []}
+{'issuenumber': 385, 'title': 'DB structure to store login credentials', 'state': 'closed', 'created_at': '2015-10-07T12:01:57Z', 'closed_at': '2015-12-22T13:38:23Z', 'labels': []}
+{'issuenumber': 384, 'title': 'Question about scopes', 'state': 'closed', 'created_at': '2015-09-28T14:44:59Z', 'closed_at': '2015-09-28T14:48:24Z', 'labels': []}
+{'issuenumber': 383, 'title': 'Crushes when scope parameter is not а string', 'state': 'closed', 'created_at': '2015-09-28T09:41:58Z', 'closed_at': '2015-12-22T13:39:39Z', 'labels': []}
+{'issuenumber': 382, 'title': 'Unclear documentation', 'state': 'closed', 'created_at': '2015-09-25T12:41:40Z', 'closed_at': '2015-09-26T10:35:41Z', 'labels': []}
+{'issuenumber': 379, 'title': 'How to receive scope information', 'state': 'closed', 'created_at': '2015-09-08T12:53:03Z', 'closed_at': '2015-09-26T10:36:26Z', 'labels': []}
+{'issuenumber': 376, 'title': 'Cannot get access_token from url for REQUEST_METHOD other than GET', 'state': 'closed', 'created_at': '2015-09-03T11:35:42Z', 'closed_at': '2015-09-04T07:32:16Z', 'labels': []}
+{'issuenumber': 375, 'title': 'Authorization header not recognized using phpUnit and multiple requests. ', 'state': 'closed', 'created_at': '2015-09-03T11:02:53Z', 'closed_at': '2015-09-04T07:31:33Z', 'labels': []}
+{'issuenumber': 374, 'title': 'Separation of Session scopes and AccessToken ones', 'state': 'closed', 'created_at': '2015-09-02T14:07:39Z', 'closed_at': '2015-09-04T07:33:02Z', 'labels': []}
+{'issuenumber': 373, 'title': 'Add expire_time to newly created token', 'state': 'closed', 'created_at': '2015-08-31T07:31:08Z', 'closed_at': '2015-08-31T13:34:56Z', 'labels': []}
+{'issuenumber': 366, 'title': 'Implement nonce functionality for MAC tokens', 'state': 'closed', 'created_at': '2015-08-21T12:31:14Z', 'closed_at': '2016-03-24T19:56:18Z', 'labels': []}
+{'issuenumber': 362, 'title': 'access_token from request query problem in lumen 5.1 ', 'state': 'closed', 'created_at': '2015-08-06T16:42:50Z', 'closed_at': '2015-12-22T13:36:32Z', 'labels': []}
+{'issuenumber': 361, 'title': 'Cannot serialize $authParams as per examples and documentation', 'state': 'closed', 'created_at': '2015-07-28T21:23:45Z', 'closed_at': '2015-08-05T16:18:55Z', 'labels': []}
+{'issuenumber': 359, 'title': 'CORS header support', 'state': 'closed', 'created_at': '2015-07-20T06:14:55Z', 'closed_at': '2015-08-02T14:13:37Z', 'labels': []}
+{'issuenumber': 357, 'title': 'Fatal error: ... getScopes() ...', 'state': 'closed', 'created_at': '2015-07-10T15:35:35Z', 'closed_at': '2015-07-10T21:30:20Z', 'labels': []}
+{'issuenumber': 356, 'title': 'MAC-tokens & refresh tokens - incompatible?', 'state': 'closed', 'created_at': '2015-07-06T08:08:38Z', 'closed_at': '2015-09-01T13:32:58Z', 'labels': []}
+{'issuenumber': 355, 'title': 'accessToken VS access_token', 'state': 'closed', 'created_at': '2015-07-04T01:03:43Z', 'closed_at': '2015-07-04T03:03:26Z', 'labels': []}
+{'issuenumber': 354, 'title': 'Authenticated apps for a user', 'state': 'closed', 'created_at': '2015-06-20T18:26:50Z', 'closed_at': '2015-07-13T19:37:49Z', 'labels': []}
+{'issuenumber': 351, 'title': 'PSR-7', 'state': 'closed', 'created_at': '2015-06-18T08:43:23Z', 'closed_at': '2016-01-14T23:59:34Z', 'labels': []}
+{'issuenumber': 349, 'title': 'Issue with verifying tokens', 'state': 'closed', 'created_at': '2015-06-16T12:49:46Z', 'closed_at': '2015-07-13T19:40:40Z', 'labels': []}
+{'issuenumber': 344, 'title': 'support for laravel 5?', 'state': 'closed', 'created_at': '2015-06-04T22:34:00Z', 'closed_at': '2015-06-15T17:36:58Z', 'labels': []}
+{'issuenumber': 343, 'title': 'Question: What is the reason for the parameters to the ResourceServer constructor?', 'state': 'closed', 'created_at': '2015-06-02T19:44:48Z', 'closed_at': '2015-07-13T19:42:20Z', 'labels': []}
+{'issuenumber': 340, 'title': 'ResourceServer: access_token in requests other than GET', 'state': 'closed', 'created_at': '2015-05-06T14:13:25Z', 'closed_at': '2015-06-01T12:45:53Z', 'labels': []}
+{'issuenumber': 339, 'title': 'Setting up Server to Server', 'state': 'closed', 'created_at': '2015-05-03T20:22:56Z', 'closed_at': '2015-12-22T13:35:51Z', 'labels': []}
+{'issuenumber': 338, 'title': 'Using relational storage example', 'state': 'closed', 'created_at': '2015-04-30T22:54:09Z', 'closed_at': '2015-07-13T19:44:01Z', 'labels': []}
+{'issuenumber': 337, 'title': '.htaccess login vs. Authorization header', 'state': 'closed', 'created_at': '2015-04-29T06:11:04Z', 'closed_at': '2015-06-01T12:49:28Z', 'labels': []}
+{'issuenumber': 336, 'title': 'Decouple domain model/logic and external interfaces ', 'state': 'closed', 'created_at': '2015-04-26T20:50:13Z', 'closed_at': '2016-01-15T00:01:47Z', 'labels': []}
+{'issuenumber': 334, 'title': 'Never expire access tokens?', 'state': 'closed', 'created_at': '2015-04-21T12:53:40Z', 'closed_at': '2015-05-11T08:17:57Z', 'labels': []}
+{'issuenumber': 328, 'title': 'Bearer token type should only accept token if it starts with "Bearer "', 'state': 'closed', 'created_at': '2015-04-09T15:41:22Z', 'closed_at': '2015-08-21T08:00:02Z', 'labels': []}
+{'issuenumber': 325, 'title': 'League\\OAuth2\\Client\\Exception\\IDPException doesnt capture status code', 'state': 'closed', 'created_at': '2015-03-24T13:23:16Z', 'closed_at': '2015-04-05T16:07:57Z', 'labels': []}
+{'issuenumber': 324, 'title': 'newAuthorizeRequest not inserting to oauth_sessions table', 'state': 'closed', 'created_at': '2015-03-23T06:09:31Z', 'closed_at': '2015-07-13T19:44:33Z', 'labels': []}
+{'issuenumber': 322, 'title': 'Codeigniter integration', 'state': 'closed', 'created_at': '2015-03-15T19:25:47Z', 'closed_at': '2015-03-17T14:03:52Z', 'labels': []}
+{'issuenumber': 321, 'title': 'Exceptions are not helpful, must have error description and send it with response', 'state': 'closed', 'created_at': '2015-03-04T09:12:05Z', 'closed_at': '2016-01-15T00:01:10Z', 'labels': []}
+{'issuenumber': 320, 'title': 'Inverted condition in AbstractTokenEntity::isExpired()', 'state': 'closed', 'created_at': '2015-03-04T08:53:01Z', 'closed_at': '2015-03-17T13:40:02Z', 'labels': []}
+{'issuenumber': 318, 'title': 'Make all Entity use EntityTrait or otherwise be uniformly bulk-settable', 'state': 'closed', 'created_at': '2015-03-02T13:28:17Z', 'closed_at': '2016-01-15T00:00:48Z', 'labels': []}
+{'issuenumber': 317, 'title': 'Examples are confusing. User authorize form ?', 'state': 'closed', 'created_at': '2015-03-02T12:23:57Z', 'closed_at': '2015-09-04T07:36:16Z', 'labels': []}
+{'issuenumber': 316, 'title': 'Custom Grant', 'state': 'closed', 'created_at': '2015-02-27T11:31:48Z', 'closed_at': '2015-03-01T21:11:39Z', 'labels': []}
+{'issuenumber': 314, 'title': 'Interested in this refactor?', 'state': 'closed', 'created_at': '2015-02-24T19:24:23Z', 'closed_at': '2015-03-01T21:09:59Z', 'labels': []}
+{'issuenumber': 309, 'title': 'Client ID and secret optional for Password Grant', 'state': 'closed', 'created_at': '2015-02-03T13:33:32Z', 'closed_at': '2015-02-03T16:57:09Z', 'labels': []}
+{'issuenumber': 307, 'title': 'Replace all occurrences of the term "Storage" with "Repository"', 'state': 'closed', 'created_at': '2015-01-29T14:33:57Z', 'closed_at': '2016-01-15T00:00:37Z', 'labels': []}
+{'issuenumber': 306, 'title': "Remove `session` concept as it's confusing", 'state': 'closed', 'created_at': '2015-01-29T14:20:39Z', 'closed_at': '2016-01-15T00:00:28Z', 'labels': []}
+{'issuenumber': 305, 'title': 'Create and depend on entity interfaces', 'state': 'closed', 'created_at': '2015-01-29T13:40:26Z', 'closed_at': '2015-01-29T13:49:34Z', 'labels': []}
+{'issuenumber': 301, 'title': 'Single authorization for the same client and same resource owner', 'state': 'closed', 'created_at': '2015-01-16T23:59:30Z', 'closed_at': '2015-02-08T19:02:39Z', 'labels': []}
+{'issuenumber': 299, 'title': 'Purpose of sessions and their scopes', 'state': 'closed', 'created_at': '2015-01-14T21:18:07Z', 'closed_at': '2015-01-29T14:37:18Z', 'labels': []}
+{'issuenumber': 298, 'title': "OwnerID always set as '1' in sessions table", 'state': 'closed', 'created_at': '2015-01-13T16:55:52Z', 'closed_at': '2015-01-13T16:58:33Z', 'labels': []}
+{'issuenumber': 297, 'title': 'Refreshed access token (via refresh_token grant) does not get the same scope as original access token', 'state': 'closed', 'created_at': '2015-01-13T16:02:27Z', 'closed_at': '2015-03-13T11:03:05Z', 'labels': []}
+{'issuenumber': 296, 'title': 'Suggestions', 'state': 'closed', 'created_at': '2015-01-12T12:18:18Z', 'closed_at': '2015-01-12T12:35:46Z', 'labels': []}
+{'issuenumber': 293, 'title': 'Associating scopes with users?', 'state': 'closed', 'created_at': '2015-01-06T13:02:15Z', 'closed_at': '2015-01-29T14:38:20Z', 'labels': []}
+{'issuenumber': 292, 'title': 'Passing data via Content-Type: application/json', 'state': 'closed', 'created_at': '2015-01-05T20:08:53Z', 'closed_at': '2015-01-05T20:58:59Z', 'labels': []}
+{'issuenumber': 291, 'title': "Fatal error: Class 'League\\OAuth2\\Server\\AuthorizationServer' not found", 'state': 'closed', 'created_at': '2015-01-02T21:25:00Z', 'closed_at': '2015-01-02T21:47:19Z', 'labels': []}
+{'issuenumber': 289, 'title': 'Downloadable example', 'state': 'closed', 'created_at': '2014-12-30T23:12:00Z', 'closed_at': '2015-02-08T19:01:36Z', 'labels': []}
+{'issuenumber': 283, 'title': 'Slim integration', 'state': 'closed', 'created_at': '2014-12-15T09:41:25Z', 'closed_at': '2014-12-15T16:24:07Z', 'labels': []}
+{'issuenumber': 281, 'title': 'OAuth Token Timing Attacks', 'state': 'closed', 'created_at': '2014-12-12T03:39:02Z', 'closed_at': '2014-12-15T17:57:13Z', 'labels': []}
+{'issuenumber': 279, 'title': 'Cleaning up old sessions/tokens', 'state': 'closed', 'created_at': '2014-12-10T23:09:38Z', 'closed_at': '2014-12-11T14:26:02Z', 'labels': []}
+{'issuenumber': 278, 'title': 'UnitTest in examples/relational', 'state': 'closed', 'created_at': '2014-12-10T16:14:27Z', 'closed_at': '2014-12-15T16:27:31Z', 'labels': []}
+{'issuenumber': 272, 'title': 'authParams serialisation problem', 'state': 'closed', 'created_at': '2014-12-08T03:35:44Z', 'closed_at': '2015-02-08T19:01:48Z', 'labels': []}
+{'issuenumber': 270, 'title': 'Refresh token expiry never checked', 'state': 'closed', 'created_at': '2014-12-03T17:23:13Z', 'closed_at': '2014-12-03T23:27:35Z', 'labels': []}
+{'issuenumber': 266, 'title': 'Two sessions created for each auth code', 'state': 'closed', 'created_at': '2014-12-01T07:53:27Z', 'closed_at': '2014-12-15T16:27:03Z', 'labels': []}
+{'issuenumber': 265, 'title': 'Why require POST for grant_type to be specified if only using a password grant?', 'state': 'closed', 'created_at': '2014-11-29T13:40:33Z', 'closed_at': '2014-11-29T13:46:02Z', 'labels': []}
+{'issuenumber': 264, 'title': 'Add ability to add scopes for clients', 'state': 'closed', 'created_at': '2014-11-26T21:08:59Z', 'closed_at': '2014-11-26T21:55:09Z', 'labels': []}
+{'issuenumber': 263, 'title': 'Add ability to add endpoints for clients', 'state': 'closed', 'created_at': '2014-11-26T21:06:10Z', 'closed_at': '2014-11-26T21:55:15Z', 'labels': []}
+{'issuenumber': 262, 'title': 'Bug in client create', 'state': 'closed', 'created_at': '2014-11-26T21:05:06Z', 'closed_at': '2014-11-26T21:22:30Z', 'labels': []}
+{'issuenumber': 261, 'title': 'invalid_request error in grant_type=password with angularjs http request.', 'state': 'closed', 'created_at': '2014-11-25T13:02:24Z', 'closed_at': '2014-11-26T08:52:23Z', 'labels': []}
+{'issuenumber': 260, 'title': 'Client has one Client Redirect Uri', 'state': 'closed', 'created_at': '2014-11-20T12:39:11Z', 'closed_at': '2014-11-20T13:45:19Z', 'labels': []}
+{'issuenumber': 256, 'title': 'Approach for resource owner auth via Facebook / Google', 'state': 'closed', 'created_at': '2014-11-17T22:48:54Z', 'closed_at': '2014-12-10T23:14:03Z', 'labels': []}
+{'issuenumber': 255, 'title': 'Interfaces', 'state': 'closed', 'created_at': '2014-11-12T18:20:44Z', 'closed_at': '2014-11-21T00:07:12Z', 'labels': []}
+{'issuenumber': 252, 'title': '[Question] Javascript with oAuth2', 'state': 'closed', 'created_at': '2014-11-11T22:05:29Z', 'closed_at': '2014-11-11T23:02:42Z', 'labels': []}
+{'issuenumber': 251, 'title': 'Remove dev-develop reference from packagist.', 'state': 'closed', 'created_at': '2014-11-11T18:01:59Z', 'closed_at': '2014-11-11T18:03:42Z', 'labels': []}
+{'issuenumber': 249, 'title': 'Implict Grant Flow supported?', 'state': 'closed', 'created_at': '2014-11-11T09:43:16Z', 'closed_at': '2014-11-11T09:46:45Z', 'labels': []}
+{'issuenumber': 247, 'title': 'Which grant do I need for this flow', 'state': 'closed', 'created_at': '2014-11-10T15:28:27Z', 'closed_at': '2014-12-22T11:01:04Z', 'labels': []}
+{'issuenumber': 242, 'title': 'Develop Branch?', 'state': 'closed', 'created_at': '2014-11-08T17:32:04Z', 'closed_at': '2014-11-08T17:58:47Z', 'labels': []}
+{'issuenumber': 239, 'title': '$session->associateClient($client); not called in AuthcodeGrant::completeFlow()', 'state': 'closed', 'created_at': '2014-11-06T20:48:29Z', 'closed_at': '2014-11-08T02:27:28Z', 'labels': []}
+{'issuenumber': 238, 'title': 'Entities returned from storage should be interfaces not hard extends', 'state': 'closed', 'created_at': '2014-11-06T06:58:16Z', 'closed_at': '2014-11-06T10:32:33Z', 'labels': []}
+{'issuenumber': 232, 'title': 'ResourceServer->getOwnerId( ) fails when no valid access token is provided', 'state': 'closed', 'created_at': '2014-10-13T09:49:26Z', 'closed_at': '2014-11-08T16:21:42Z', 'labels': []}
+{'issuenumber': 231, 'title': 'Refresh token not working when access token is expired', 'state': 'closed', 'created_at': '2014-10-10T16:13:53Z', 'closed_at': '2014-11-08T16:44:52Z', 'labels': []}
+{'issuenumber': 230, 'title': 'Client credentials access token requires POSTed date', 'state': 'closed', 'created_at': '2014-10-10T08:54:38Z', 'closed_at': '2014-10-10T09:09:32Z', 'labels': []}
+{'issuenumber': 229, 'title': '[4.0] Token has all or any scope', 'state': 'closed', 'created_at': '2014-10-10T04:19:33Z', 'closed_at': '2014-10-10T09:37:00Z', 'labels': []}
+{'issuenumber': 228, 'title': '[Insight] Method Request::createFromGlobals should not be used - in src/AbstractServer.php, line 99', 'state': 'closed', 'created_at': '2014-10-03T14:03:52Z', 'closed_at': '2014-11-07T02:21:25Z', 'labels': []}
+{'issuenumber': 227, 'title': '[Insight] Code should not be duplicated - in src/Grant/AuthCodeGrant.php, line 229', 'state': 'closed', 'created_at': '2014-10-03T14:03:44Z', 'closed_at': '2014-11-07T02:21:25Z', 'labels': []}
+{'issuenumber': 226, 'title': '[Insight] Usage of a function in loops should be avoided - in src/Grant/AbstractGrant.php, line 132', 'state': 'closed', 'created_at': '2014-10-03T14:03:33Z', 'closed_at': '2014-11-07T02:21:25Z', 'labels': []}
+{'issuenumber': 225, 'title': '[Insight] Unused method, property, variable or parameter - in src/Util/SecureKey.php, line 39', 'state': 'closed', 'created_at': '2014-10-03T14:03:26Z', 'closed_at': '2014-11-07T02:21:25Z', 'labels': []}
+{'issuenumber': 224, 'title': '[Insight] Unused use statement should be avoided - in src/Storage/AccessTokenInterface.php, line 16', 'state': 'closed', 'created_at': '2014-10-03T14:03:16Z', 'closed_at': '2014-11-07T02:21:25Z', 'labels': []}
+{'issuenumber': 223, 'title': '[Insight] Unused use statement should be avoided - in src/Storage/AccessTokenInterface.php, line 14', 'state': 'closed', 'created_at': '2014-10-03T14:03:05Z', 'closed_at': '2014-11-07T02:21:25Z', 'labels': []}
+{'issuenumber': 222, 'title': '[Insight] Unused use statement should be avoided - in src/ResourceServer.php, line 21', 'state': 'closed', 'created_at': '2014-10-03T14:02:50Z', 'closed_at': '2014-11-07T02:21:25Z', 'labels': []}
+{'issuenumber': 221, 'title': '[Insight] Unused use statement should be avoided - in src/Grant/RefreshTokenGrant.php, line 14', 'state': 'closed', 'created_at': '2014-10-03T14:02:30Z', 'closed_at': '2014-11-07T02:21:25Z', 'labels': []}
+{'issuenumber': 220, 'title': '[Insight] Unused use statement should be avoided - in src/Entity/SessionEntity.php, line 16', 'state': 'closed', 'created_at': '2014-10-03T14:02:21Z', 'closed_at': '2014-11-07T02:21:25Z', 'labels': []}
+{'issuenumber': 219, 'title': '[Insight] Unused use statement should be avoided - in src/Entity/AbstractTokenEntity.php, line 16', 'state': 'closed', 'created_at': '2014-10-03T14:02:10Z', 'closed_at': '2014-11-07T02:21:25Z', 'labels': []}
+{'issuenumber': 218, 'title': '[Insight] Unused use statement should be avoided - in src/AuthorizationServer.php, line 22', 'state': 'closed', 'created_at': '2014-10-03T14:01:58Z', 'closed_at': '2014-11-07T02:21:25Z', 'labels': []}
+{'issuenumber': 217, 'title': '[Insight] Unused use statement should be avoided - in src/Grant/AuthCodeGrant.php, line 14', 'state': 'closed', 'created_at': '2014-10-03T14:00:15Z', 'closed_at': '2014-11-07T02:21:25Z', 'labels': []}
+{'issuenumber': 216, 'title': 'PhalconPHP integration of v4', 'state': 'closed', 'created_at': '2014-09-23T03:56:56Z', 'closed_at': '2014-11-08T18:09:57Z', 'labels': []}
+{'issuenumber': 214, 'title': 'Cannot set Costum Request', 'state': 'closed', 'created_at': '2014-09-22T04:10:23Z', 'closed_at': '2014-09-30T22:45:01Z', 'labels': []}
+{'issuenumber': 213, 'title': 'Scope based on client', 'state': 'closed', 'created_at': '2014-09-16T10:19:13Z', 'closed_at': '2014-09-30T22:58:02Z', 'labels': []}
+{'issuenumber': 212, 'title': "Can't override the default access token expire time", 'state': 'closed', 'created_at': '2014-09-11T19:48:17Z', 'closed_at': '2014-09-29T08:45:42Z', 'labels': []}
+{'issuenumber': 210, 'title': 'Client_id from query string', 'state': 'closed', 'created_at': '2014-09-10T11:31:08Z', 'closed_at': '2014-09-10T11:33:11Z', 'labels': []}
+{'issuenumber': 209, 'title': 'Add support for JWT', 'state': 'closed', 'created_at': '2014-09-09T12:14:25Z', 'closed_at': '2016-01-15T00:00:13Z', 'labels': []}
+{'issuenumber': 203, 'title': 'Support HEAD on resource requests', 'state': 'closed', 'created_at': '2014-08-22T05:54:57Z', 'closed_at': '2014-08-22T16:36:39Z', 'labels': []}
+{'issuenumber': 202, 'title': 'Error manipulating session via event callback', 'state': 'closed', 'created_at': '2014-08-18T15:35:49Z', 'closed_at': '2014-09-30T22:58:11Z', 'labels': []}
+{'issuenumber': 201, 'title': 'No way to register a custom key generator and then use it', 'state': 'closed', 'created_at': '2014-08-16T08:33:57Z', 'closed_at': '2014-08-16T08:59:06Z', 'labels': []}
+{'issuenumber': 200, 'title': 'Integration with StackPHP', 'state': 'closed', 'created_at': '2014-08-13T13:34:35Z', 'closed_at': '2015-12-22T13:35:01Z', 'labels': []}
+{'issuenumber': 199, 'title': "Documentation links don't work in readme", 'state': 'closed', 'created_at': '2014-08-10T22:50:36Z', 'closed_at': '2014-09-30T22:58:42Z', 'labels': []}
+{'issuenumber': 195, 'title': 'v4 OAuthException shouldRedirect', 'state': 'closed', 'created_at': '2014-08-07T08:29:10Z', 'closed_at': '2014-11-08T17:05:31Z', 'labels': []}
+{'issuenumber': 194, 'title': 'The requested package league/oauth2-server 4.* could not be found.', 'state': 'closed', 'created_at': '2014-08-06T16:46:42Z', 'closed_at': '2014-08-06T17:17:11Z', 'labels': []}
+{'issuenumber': 193, 'title': 'Documentation', 'state': 'closed', 'created_at': '2014-08-06T11:05:49Z', 'closed_at': '2016-03-24T19:55:05Z', 'labels': []}
+{'issuenumber': 191, 'title': 'Version in composer.json', 'state': 'closed', 'created_at': '2014-08-04T13:08:23Z', 'closed_at': '2014-08-04T13:42:15Z', 'labels': []}
+{'issuenumber': 190, 'title': 'Redirect_uri is not optional', 'state': 'closed', 'created_at': '2014-08-01T10:10:36Z', 'closed_at': '2014-08-01T12:17:06Z', 'labels': []}
+{'issuenumber': 189, 'title': 'Enabling grant types in V3', 'state': 'closed', 'created_at': '2014-08-01T04:01:12Z', 'closed_at': '2014-08-06T11:08:35Z', 'labels': []}
+{'issuenumber': 185, 'title': 'Documentation for v3 or v4', 'state': 'closed', 'created_at': '2014-07-11T14:46:20Z', 'closed_at': '2014-08-06T11:06:30Z', 'labels': []}
+{'issuenumber': 183, 'title': 'Documentation setup new server', 'state': 'closed', 'created_at': '2014-06-29T13:21:20Z', 'closed_at': '2014-08-06T11:06:34Z', 'labels': []}
+{'issuenumber': 181, 'title': 'Undefined method League\\OAuth2\\Server\\Util\\Request::DELETE()', 'state': 'closed', 'created_at': '2014-06-23T06:23:27Z', 'closed_at': '2014-06-23T07:11:04Z', 'labels': []}
+{'issuenumber': 180, 'title': 'Requesting token using HTTP Basic Authentication', 'state': 'closed', 'created_at': '2014-06-19T09:14:23Z', 'closed_at': '2014-07-09T09:34:47Z', 'labels': []}
+{'issuenumber': 179, 'title': 'PHP Fatal error on HEAD request with an access token in query string', 'state': 'closed', 'created_at': '2014-06-17T09:15:14Z', 'closed_at': '2014-08-06T08:32:53Z', 'labels': []}
+{'issuenumber': 175, 'title': 'User must re-approve scopes that they have already approved? ', 'state': 'closed', 'created_at': '2014-05-28T17:49:37Z', 'closed_at': '2014-05-28T17:59:15Z', 'labels': []}
+{'issuenumber': 172, 'title': 'grantType is not documented in ClientInterface', 'state': 'closed', 'created_at': '2014-05-21T05:36:27Z', 'closed_at': '2014-05-22T08:30:13Z', 'labels': []}
+{'issuenumber': 169, 'title': '[4.0] Better handling of errors for the Auth Code grant type', 'state': 'closed', 'created_at': '2014-05-19T13:08:37Z', 'closed_at': '2014-08-06T08:53:53Z', 'labels': []}
+{'issuenumber': 168, 'title': '[4.0] Support for multiple client redirect URI', 'state': 'closed', 'created_at': '2014-05-08T03:18:40Z', 'closed_at': '2014-05-13T13:06:40Z', 'labels': []}
+{'issuenumber': 165, 'title': '[4.0] Missing Pieces', 'state': 'closed', 'created_at': '2014-05-06T08:08:20Z', 'closed_at': '2014-08-06T08:04:13Z', 'labels': []}
+{'issuenumber': 164, 'title': '[4.0] Authorization parameters in the query string', 'state': 'closed', 'created_at': '2014-05-06T07:41:50Z', 'closed_at': '2014-05-06T08:10:36Z', 'labels': []}
+{'issuenumber': 162, 'title': "Access token isn't unique", 'state': 'closed', 'created_at': '2014-05-02T13:51:28Z', 'closed_at': '2014-05-22T08:39:52Z', 'labels': []}
+{'issuenumber': 161, 'title': 'Mysql Schema for v4', 'state': 'closed', 'created_at': '2014-04-24T12:20:29Z', 'closed_at': '2014-05-22T08:41:23Z', 'labels': []}
+{'issuenumber': 160, 'title': 'Some methods missing', 'state': 'closed', 'created_at': '2014-04-24T10:39:34Z', 'closed_at': '2014-08-06T08:54:16Z', 'labels': []}
+{'issuenumber': 158, 'title': 'Add support for MAC token type', 'state': 'closed', 'created_at': '2014-04-11T08:06:43Z', 'closed_at': '2014-12-27T23:03:08Z', 'labels': []}
+{'issuenumber': 157, 'title': 'Missing state param passthrough', 'state': 'closed', 'created_at': '2014-03-28T09:19:54Z', 'closed_at': '2014-08-06T11:11:47Z', 'labels': []}
+{'issuenumber': 156, 'title': 'Ability to register token types', 'state': 'closed', 'created_at': '2014-03-24T17:50:00Z', 'closed_at': '2014-05-07T16:26:28Z', 'labels': []}
+{'issuenumber': 155, 'title': 'Authorization header matching should be stricter', 'state': 'closed', 'created_at': '2014-03-24T17:49:40Z', 'closed_at': '2014-05-07T16:26:33Z', 'labels': []}
+{'issuenumber': 154, 'title': 'Oauth with BasicAuth', 'state': 'closed', 'created_at': '2014-03-24T00:16:30Z', 'closed_at': '2014-03-24T10:37:47Z', 'labels': []}
+{'issuenumber': 153, 'title': 'Password Grant Not Following Spec Properly', 'state': 'closed', 'created_at': '2014-03-15T10:33:59Z', 'closed_at': '2014-03-15T11:34:42Z', 'labels': []}
+{'issuenumber': 152, 'title': 'when the new documentation will be avialable', 'state': 'closed', 'created_at': '2014-03-11T22:52:14Z', 'closed_at': '2014-08-06T11:06:37Z', 'labels': []}
+{'issuenumber': 150, 'title': 'Multiple session for a single client/user', 'state': 'closed', 'created_at': '2014-02-20T13:13:07Z', 'closed_at': '2014-08-13T06:30:46Z', 'labels': []}
+{'issuenumber': 148, 'title': 'Call to undefined method League\\OAuth2\\Server\\Util\\Request::PUT()', 'state': 'closed', 'created_at': '2014-02-13T13:17:47Z', 'closed_at': '2014-02-13T13:31:20Z', 'labels': []}
+{'issuenumber': 147, 'title': 'Document & suggest storage implementations', 'state': 'closed', 'created_at': '2014-02-12T12:16:39Z', 'closed_at': '2014-08-06T11:06:40Z', 'labels': []}
+{'issuenumber': 145, 'title': 'Issue with PHPUnit', 'state': 'closed', 'created_at': '2014-01-28T12:50:54Z', 'closed_at': '2014-01-31T11:09:01Z', 'labels': []}
+{'issuenumber': 144, 'title': 'Version 3.* not support fast-cgi environment to get header "Authorization".', 'state': 'closed', 'created_at': '2014-01-09T12:27:23Z', 'closed_at': '2014-02-03T17:40:42Z', 'labels': []}
+{'issuenumber': 142, 'title': 'phpunit error in 3.1.1 version', 'state': 'closed', 'created_at': '2014-01-02T13:00:55Z', 'closed_at': '2014-02-01T21:38:23Z', 'labels': []}
+{'issuenumber': 141, 'title': 'Run phpunit error in 3.1.1 version', 'state': 'closed', 'created_at': '2014-01-02T12:56:25Z', 'closed_at': '2014-01-02T13:02:13Z', 'labels': []}
+{'issuenumber': 139, 'title': 'Version 4.0.0', 'state': 'closed', 'created_at': '2013-12-26T20:41:05Z', 'closed_at': '2014-11-08T17:17:28Z', 'labels': []}
+{'issuenumber': 138, 'title': 'Rewrite all unit tests', 'state': 'closed', 'created_at': '2013-12-26T20:28:17Z', 'closed_at': '2013-12-26T20:37:42Z', 'labels': []}
+{'issuenumber': 137, 'title': 'Docblock everything', 'state': 'closed', 'created_at': '2013-12-26T20:26:51Z', 'closed_at': '2013-12-26T20:37:42Z', 'labels': []}
+{'issuenumber': 136, 'title': 'Create new example SQL file for v4', 'state': 'closed', 'created_at': '2013-12-26T20:26:30Z', 'closed_at': '2013-12-26T20:37:42Z', 'labels': []}
+{'issuenumber': 135, 'title': 'Update Authorization grant for v4', 'state': 'closed', 'created_at': '2013-12-26T20:25:07Z', 'closed_at': '2013-12-26T20:37:42Z', 'labels': []}
+{'issuenumber': 134, 'title': 'Update Implicit grant for v4', 'state': 'closed', 'created_at': '2013-12-26T20:24:51Z', 'closed_at': '2013-12-26T20:37:42Z', 'labels': []}
+{'issuenumber': 133, 'title': 'Question: Implicit grant', 'state': 'closed', 'created_at': '2013-12-18T10:37:42Z', 'closed_at': '2014-04-09T09:39:01Z', 'labels': []}
+{'issuenumber': 132, 'title': 'Association of the refresh_token -> access_token in RefreshToken Grant', 'state': 'closed', 'created_at': '2013-12-17T13:55:52Z', 'closed_at': '2014-08-06T08:06:08Z', 'labels': []}
+{'issuenumber': 131, 'title': 'One more param: Display of Oauth dialog', 'state': 'closed', 'created_at': '2013-12-16T14:08:29Z', 'closed_at': '2013-12-16T14:16:51Z', 'labels': []}
+{'issuenumber': 130, 'title': 'Add PSR-3 support', 'state': 'closed', 'created_at': '2013-12-16T11:51:58Z', 'closed_at': '2014-04-11T08:07:33Z', 'labels': []}
+{'issuenumber': 129, 'title': 'Question: How do I check if a request has a valid access token on a route?', 'state': 'closed', 'created_at': '2013-12-15T13:03:18Z', 'closed_at': '2013-12-16T11:55:34Z', 'labels': []}
+{'issuenumber': 128, 'title': 'Rethink storage interfaces so they are less SQL specific', 'state': 'closed', 'created_at': '2013-12-13T15:54:11Z', 'closed_at': '2014-04-11T08:09:21Z', 'labels': []}
+{'issuenumber': 126, 'title': 'Question: why is issueAccessToken throwing unsupported_grant_type client exception', 'state': 'closed', 'created_at': '2013-12-12T15:30:07Z', 'closed_at': '2013-12-12T17:17:02Z', 'labels': []}
+{'issuenumber': 125, 'title': 'generating authCode', 'state': 'closed', 'created_at': '2013-12-12T13:16:33Z', 'closed_at': '2013-12-12T13:31:55Z', 'labels': []}
+{'issuenumber': 124, 'title': 'Problem with put an delete in the resource server (Codeigniter).', 'state': 'closed', 'created_at': '2013-12-12T09:35:00Z', 'closed_at': '2013-12-12T17:45:46Z', 'labels': []}
+{'issuenumber': 120, 'title': 'Who killed dev-temp?', 'state': 'closed', 'created_at': '2013-12-05T23:53:53Z', 'closed_at': '2013-12-06T01:42:49Z', 'labels': []}
+{'issuenumber': 118, 'title': '3.x Release (Upgrading from 2.x)', 'state': 'closed', 'created_at': '2013-12-05T21:12:16Z', 'closed_at': '2014-02-01T21:39:18Z', 'labels': []}
+{'issuenumber': 117, 'title': 'Question: Argument 1 passed to League\\OAuth2\\Server\\Grant\\AuthCode::__construct() must be an instance of League\\OAuth2\\Server\\Authorization, none given', 'state': 'closed', 'created_at': '2013-12-05T13:56:09Z', 'closed_at': '2013-12-05T14:34:13Z', 'labels': []}
+{'issuenumber': 116, 'title': 'Documentation with slim ', 'state': 'closed', 'created_at': '2013-12-04T15:23:41Z', 'closed_at': '2013-12-05T10:40:04Z', 'labels': []}
+{'issuenumber': 115, 'title': 'Client credentials grant Codeigniter integration', 'state': 'closed', 'created_at': '2013-11-30T11:14:13Z', 'closed_at': '2013-12-05T20:49:42Z', 'labels': []}
+{'issuenumber': 114, 'title': "Request implementation doesn't consider that HTTP headers are case-insensitive", 'state': 'closed', 'created_at': '2013-11-26T00:25:54Z', 'closed_at': '2013-12-05T20:57:27Z', 'labels': []}
+{'issuenumber': 113, 'title': 'Redirect URI Handling', 'state': 'closed', 'created_at': '2013-11-14T21:02:58Z', 'closed_at': '2013-11-14T21:33:29Z', 'labels': []}
+{'issuenumber': 111, 'title': 'Put and Delete', 'state': 'closed', 'created_at': '2013-11-06T02:07:20Z', 'closed_at': '2013-11-06T16:50:37Z', 'labels': []}
+{'issuenumber': 109, 'title': 'Resource Server doubt', 'state': 'closed', 'created_at': '2013-10-31T16:01:32Z', 'closed_at': '2013-10-31T16:36:25Z', 'labels': []}
+{'issuenumber': 107, 'title': 'Fluent/Session.php returns array of objects - Server/Resource.php expects array of arrays.', 'state': 'closed', 'created_at': '2013-10-24T00:10:23Z', 'closed_at': '2013-12-18T10:47:43Z', 'labels': []}
+{'issuenumber': 106, 'title': 'Implicit grant flow class needs to be renamed', 'state': 'closed', 'created_at': '2013-10-07T17:02:18Z', 'closed_at': '2013-10-07T17:09:57Z', 'labels': []}
+{'issuenumber': 105, 'title': 'Codeigniter integration', 'state': 'closed', 'created_at': '2013-10-05T10:51:12Z', 'closed_at': '2013-12-05T20:57:54Z', 'labels': []}
+{'issuenumber': 104, 'title': '[Discussion] Laravel Integration', 'state': 'closed', 'created_at': '2013-10-02T14:12:38Z', 'closed_at': '2013-12-18T10:47:43Z', 'labels': []}
+{'issuenumber': 103, 'title': "zeta components database 1.4.6 doesn't work", 'state': 'closed', 'created_at': '2013-09-29T13:47:21Z', 'closed_at': '2013-12-18T10:47:43Z', 'labels': []}
+{'issuenumber': 102, 'title': 'Add "Set Headers" function for token responses.', 'state': 'closed', 'created_at': '2013-09-27T23:56:04Z', 'closed_at': '2013-11-25T23:35:23Z', 'labels': []}
+{'issuenumber': 99, 'title': 'Supporting Multiple Grant Types', 'state': 'closed', 'created_at': '2013-09-25T04:10:42Z', 'closed_at': '2013-09-25T09:21:18Z', 'labels': []}
+{'issuenumber': 97, 'title': 'Resource Owner Credentials Grant - Process Flow', 'state': 'closed', 'created_at': '2013-09-12T12:18:52Z', 'closed_at': '2013-09-12T13:19:22Z', 'labels': []}
+{'issuenumber': 96, 'title': 'Caps issue with Bearer token', 'state': 'closed', 'created_at': '2013-09-07T16:52:59Z', 'closed_at': '2013-09-07T17:00:40Z', 'labels': []}
+{'issuenumber': 95, 'title': 'Wrong class name for implicit', 'state': 'closed', 'created_at': '2013-09-07T09:42:19Z', 'closed_at': '2013-09-07T16:50:26Z', 'labels': []}
+{'issuenumber': 93, 'title': 'Cannot recognise "fatal" missing client_id parameter.', 'state': 'closed', 'created_at': '2013-09-06T02:54:40Z', 'closed_at': '2013-09-06T09:35:57Z', 'labels': []}
+{'issuenumber': 91, 'title': 'More information regarding the owner_type value.', 'state': 'closed', 'created_at': '2013-09-01T14:25:29Z', 'closed_at': '2013-09-06T09:35:45Z', 'labels': []}
+{'issuenumber': 89, 'title': 'Possible guide for configuring the mysql.storage.', 'state': 'closed', 'created_at': '2013-08-24T21:47:28Z', 'closed_at': '2013-08-24T23:52:47Z', 'labels': []}
+{'issuenumber': 88, 'title': 'Remove constructor from the RequestInterface', 'state': 'closed', 'created_at': '2013-08-20T15:48:06Z', 'closed_at': '2013-09-08T10:23:49Z', 'labels': []}
+{'issuenumber': 82, 'title': 'Required Classes not Distributed with Library', 'state': 'closed', 'created_at': '2013-08-01T13:15:23Z', 'closed_at': '2013-08-01T13:28:12Z', 'labels': []}
+{'issuenumber': 81, 'title': 'Example of implicit grant?', 'state': 'closed', 'created_at': '2013-07-31T19:46:04Z', 'closed_at': '2013-08-01T15:41:26Z', 'labels': []}
+{'issuenumber': 80, 'title': 'Usage of phpunit.xml.dist instead the real config.', 'state': 'closed', 'created_at': '2013-07-27T00:19:36Z', 'closed_at': '2013-09-06T09:39:51Z', 'labels': []}
+{'issuenumber': 77, 'title': 'Auto approve based on whether the user has approved the app before', 'state': 'closed', 'created_at': '2013-07-08T07:08:40Z', 'closed_at': '2013-07-08T13:20:40Z', 'labels': []}
+{'issuenumber': 76, 'title': 'from where could i start ', 'state': 'closed', 'created_at': '2013-07-06T21:24:54Z', 'closed_at': '2013-07-08T08:43:01Z', 'labels': []}
+{'issuenumber': 75, 'title': ' OAuth 2.0 authorization server tutorial - Session', 'state': 'closed', 'created_at': '2013-07-05T13:19:58Z', 'closed_at': '2013-07-05T13:21:21Z', 'labels': []}
+{'issuenumber': 73, 'title': 'Wrong code sample on "Developing an OAuth 2.0 authorization server" wiki page', 'state': 'closed', 'created_at': '2013-06-26T18:26:36Z', 'closed_at': '2013-06-26T18:33:45Z', 'labels': []}
+{'issuenumber': 72, 'title': 'Library packed with Codeigniter', 'state': 'closed', 'created_at': '2013-06-24T16:19:28Z', 'closed_at': '2013-07-28T09:56:01Z', 'labels': []}
+{'issuenumber': 71, 'title': 'Dynamic Configuration of redirect_uri', 'state': 'closed', 'created_at': '2013-06-13T01:48:23Z', 'closed_at': '2013-06-13T15:53:55Z', 'labels': []}
+{'issuenumber': 66, 'title': 'Wiki section "Developing an OAuth 2.0 authorization server" contains incorrect code...', 'state': 'closed', 'created_at': '2013-06-01T08:36:20Z', 'closed_at': '2013-09-26T10:28:39Z', 'labels': []}
+{'issuenumber': 63, 'title': "getScopes relies on non-existent 'key' DB field", 'state': 'closed', 'created_at': '2013-05-27T15:59:23Z', 'closed_at': '2013-06-02T12:57:08Z', 'labels': []}
+{'issuenumber': 62, 'title': 'Compile Error From Doc on Wiki for: Securing your API with OAuth 2.0', 'state': 'closed', 'created_at': '2013-05-24T19:27:32Z', 'closed_at': '2013-05-27T18:30:37Z', 'labels': []}
+{'issuenumber': 61, 'title': 'OAuth1.0a support', 'state': 'closed', 'created_at': '2013-05-23T14:49:46Z', 'closed_at': '2013-05-23T14:56:54Z', 'labels': []}
+{'issuenumber': 60, 'title': 'Issue with isValid() function in Resource.php', 'state': 'closed', 'created_at': '2013-05-22T14:00:09Z', 'closed_at': '2013-06-02T12:44:16Z', 'labels': []}
+{'issuenumber': 58, 'title': 'Integrating this with Codeigniter', 'state': 'closed', 'created_at': '2013-05-15T15:09:34Z', 'closed_at': '2013-06-29T12:23:59Z', 'labels': []}
+{'issuenumber': 57, 'title': 'Conditional Flag for checking for Access Token in header', 'state': 'closed', 'created_at': '2013-05-14T20:50:58Z', 'closed_at': '2013-06-02T12:57:08Z', 'labels': []}
+{'issuenumber': 56, 'title': 'ClientInterface::getClient, non-default argument at the right side of default ones.', 'state': 'closed', 'created_at': '2013-05-14T07:49:40Z', 'closed_at': '2013-06-02T12:57:07Z', 'labels': []}
+{'issuenumber': 55, 'title': 'Missing `auto_approve` parameter', 'state': 'closed', 'created_at': '2013-05-12T12:32:11Z', 'closed_at': '2013-09-26T10:27:45Z', 'labels': []}
+{'issuenumber': 51, 'title': 'Move zetacomponents/database to "suggest" in composer.json', 'state': 'closed', 'created_at': '2013-05-10T17:12:22Z', 'closed_at': '2013-05-11T01:00:17Z', 'labels': []}
+{'issuenumber': 49, 'title': 'Composer installation', 'state': 'closed', 'created_at': '2013-05-10T08:35:41Z', 'closed_at': '2013-05-14T08:07:19Z', 'labels': []}
+{'issuenumber': 48, 'title': 'Switch zetacomponents/database for Illumniate/Database and zendframework/zend-db', 'state': 'closed', 'created_at': '2013-05-09T22:02:18Z', 'closed_at': '2013-12-18T10:47:43Z', 'labels': []}
+{'issuenumber': 47, 'title': 'Allow for reduced scopes when issuing new refresh tokens', 'state': 'closed', 'created_at': '2013-05-09T16:44:44Z', 'closed_at': '2013-05-11T01:00:17Z', 'labels': []}
+{'issuenumber': 46, 'title': 'Allow for multiple auth codes per session', 'state': 'closed', 'created_at': '2013-05-09T16:44:12Z', 'closed_at': '2013-05-09T21:42:40Z', 'labels': []}
+{'issuenumber': 45, 'title': 'Rename `key` column in oauth_scopes table', 'state': 'closed', 'created_at': '2013-05-09T16:40:06Z', 'closed_at': '2013-05-11T01:00:17Z', 'labels': []}
+{'issuenumber': 44, 'title': 'Move authcode scopes into a new table', 'state': 'closed', 'created_at': '2013-05-09T16:35:27Z', 'closed_at': '2013-05-11T01:00:17Z', 'labels': []}
+{'issuenumber': 43, 'title': 'Scopes required by default?', 'state': 'closed', 'created_at': '2013-05-09T11:37:28Z', 'closed_at': '2013-05-11T01:00:16Z', 'labels': []}
+{'issuenumber': 42, 'title': 'Multiple default scopes', 'state': 'closed', 'created_at': '2013-05-09T11:34:30Z', 'closed_at': '2013-05-11T01:00:17Z', 'labels': []}
+{'issuenumber': 41, 'title': 'Several problems in the 2.0 version', 'state': 'closed', 'created_at': '2013-05-09T10:57:01Z', 'closed_at': '2013-05-09T16:45:02Z', 'labels': []}
+{'issuenumber': 39, 'title': 'When will this project settle down?', 'state': 'closed', 'created_at': '2013-05-09T01:07:45Z', 'closed_at': '2013-05-09T01:38:10Z', 'labels': []}
+{'issuenumber': 37, 'title': 'OAuth2\\Grant\\AuthCode::__construct() must be an instance of OAuth2\\AuthServer', 'state': 'closed', 'created_at': '2013-05-06T15:34:05Z', 'closed_at': '2013-05-07T22:07:37Z', 'labels': []}
+{'issuenumber': 36, 'title': 'Oauth V2 Missing checkAuthoriseParams', 'state': 'closed', 'created_at': '2013-05-06T14:18:36Z', 'closed_at': '2013-05-06T16:20:12Z', 'labels': []}
+{'issuenumber': 35, 'title': 'Add support for Open ID Connect Basic Client Profile', 'state': 'closed', 'created_at': '2013-04-12T10:41:50Z', 'closed_at': '2015-12-22T13:34:22Z', 'labels': []}
+{'issuenumber': 34, 'title': 'Grants should be able to register new error messages', 'state': 'closed', 'created_at': '2013-04-12T10:38:46Z', 'closed_at': '2014-08-06T08:06:35Z', 'labels': []}
+{'issuenumber': 32, 'title': 'Password Grant - allow multiple sessions per user', 'state': 'closed', 'created_at': '2013-04-11T14:59:35Z', 'closed_at': '2013-05-11T01:00:17Z', 'labels': []}
+{'issuenumber': 31, 'title': 'Add support for token revocation', 'state': 'closed', 'created_at': '2013-04-10T13:38:34Z', 'closed_at': '2015-12-22T13:35:38Z', 'labels': []}
+{'issuenumber': 30, 'title': 'Bug in RefreshToken.php?', 'state': 'closed', 'created_at': '2013-03-27T23:40:33Z', 'closed_at': '2013-03-27T23:43:13Z', 'labels': []}
+{'issuenumber': 27, 'title': 'Client secret never validated in AuthServer?', 'state': 'closed', 'created_at': '2013-03-25T10:25:29Z', 'closed_at': '2013-03-25T10:26:46Z', 'labels': []}
+{'issuenumber': 25, 'title': 'Refresh Token Grant - scope limitation and additional access tokens', 'state': 'closed', 'created_at': '2013-03-22T14:09:35Z', 'closed_at': '2013-05-06T22:07:04Z', 'labels': []}
+{'issuenumber': 24, 'title': 'Limiting grants, clients and scopes', 'state': 'closed', 'created_at': '2013-03-22T12:51:18Z', 'closed_at': '2013-05-06T22:49:37Z', 'labels': []}
+{'issuenumber': 20, 'title': 'Extension of the SessionInterface', 'state': 'closed', 'created_at': '2013-03-21T14:15:38Z', 'closed_at': '2013-03-31T13:27:57Z', 'labels': []}
+{'issuenumber': 19, 'title': 'Error when generating scope exception message', 'state': 'closed', 'created_at': '2013-03-21T13:29:35Z', 'closed_at': '2013-03-21T18:04:21Z', 'labels': []}
+{'issuenumber': 18, 'title': '404 Page Not Found', 'state': 'closed', 'created_at': '2013-03-21T08:48:29Z', 'closed_at': '2013-03-21T14:36:38Z', 'labels': []}
+{'issuenumber': 16, 'title': 'getGrantType as public function to access grant specific functions ( e.g. setVerifyCredentialsCallback() )', 'state': 'closed', 'created_at': '2013-03-19T18:21:17Z', 'closed_at': '2013-03-22T11:49:12Z', 'labels': []}
+{'issuenumber': 14, 'title': 'database table `users` not included in file `sql/mysql.sql`', 'state': 'closed', 'created_at': '2013-03-12T12:02:06Z', 'closed_at': '2013-03-12T12:07:33Z', 'labels': []}

@@ -1,0 +1,349 @@
+{'issuenumber': 1007, 'title': 'Patch fragment VNode Faild', 'state': 'closed', 'created_at': '2022-03-19T17:14:27Z', 'closed_at': '2022-04-17T07:00:07Z', 'labels': []}
+{'issuenumber': 1000, 'title': 'A question for style module', 'state': 'closed', 'created_at': '2022-01-17T07:39:55Z', 'closed_at': '2022-01-18T09:04:02Z', 'labels': []}
+{'issuenumber': 999, 'title': 'Publish UMD bundles for public CDNs', 'state': 'closed', 'created_at': '2022-01-15T22:02:32Z', 'closed_at': '2022-01-17T23:38:07Z', 'labels': []}
+{'issuenumber': 991, 'title': 'JSX Conditional Rendering', 'state': 'closed', 'created_at': '2021-11-01T22:38:37Z', 'closed_at': '2021-12-31T02:29:53Z', 'labels': []}
+{'issuenumber': 990, 'title': 'createElm方法里面是不是少了一点代码', 'state': 'closed', 'created_at': '2021-10-16T13:02:23Z', 'closed_at': '2021-10-16T13:15:59Z', 'labels': []}
+{'issuenumber': 988, 'title': "EventListener doesn't support argument passing", 'state': 'closed', 'created_at': '2021-10-12T16:14:13Z', 'closed_at': '2021-10-14T07:29:26Z', 'labels': []}
+{'issuenumber': 985, 'title': "Question: TS2322: Type 'Element' is not assignable to type 'VNode'.", 'state': 'closed', 'created_at': '2021-09-24T14:13:54Z', 'closed_at': '2021-09-25T10:12:07Z', 'labels': []}
+{'issuenumber': 984, 'title': 'Question: Highlighting changes', 'state': 'closed', 'created_at': '2021-09-23T12:32:57Z', 'closed_at': '2021-09-25T10:13:02Z', 'labels': []}
+{'issuenumber': 977, 'title': "h doesn't handle String Objects", 'state': 'closed', 'created_at': '2021-08-12T18:37:59Z', 'closed_at': '2021-08-27T18:03:00Z', 'labels': []}
+{'issuenumber': 976, 'title': 'toVNode parses datasets as attributes', 'state': 'closed', 'created_at': '2021-07-25T15:16:58Z', 'closed_at': '2022-03-20T18:05:57Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 969, 'title': "publishing snabbdom@3.0.2 didn't actually get the latest code?", 'state': 'closed', 'created_at': '2021-06-04T15:34:26Z', 'closed_at': '2021-06-04T15:46:18Z', 'labels': []}
+{'issuenumber': 965, 'title': "className null-ish check doesn't work correctly when SVG elements are in a shadowRoot", 'state': 'closed', 'created_at': '2021-05-21T20:23:04Z', 'closed_at': '2021-05-23T23:04:12Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 963, 'title': 'feature request: update to esm modules', 'state': 'closed', 'created_at': '2021-05-17T16:37:03Z', 'closed_at': '2021-05-23T10:37:35Z', 'labels': []}
+{'issuenumber': 961, 'title': 'how to use?', 'state': 'closed', 'created_at': '2021-05-11T08:17:42Z', 'closed_at': '2021-05-12T09:02:00Z', 'labels': []}
+{'issuenumber': 947, 'title': 'Is webpack not a necessary devDep?', 'state': 'closed', 'created_at': '2021-02-17T13:30:24Z', 'closed_at': '2021-02-17T13:54:27Z', 'labels': {'name': 'type:enhancement'}}
+{'issuenumber': 944, 'title': 'concerns about contributing', 'state': 'closed', 'created_at': '2021-02-16T16:32:21Z', 'closed_at': '2021-02-26T14:46:24Z', 'labels': {'name': 'type:question'}}
+{'issuenumber': 935, 'title': 'Travis CI credit insufficient', 'state': 'closed', 'created_at': '2021-02-16T03:46:42Z', 'closed_at': '2021-02-16T05:35:44Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 932, 'title': 'typescript?', 'state': 'closed', 'created_at': '2021-02-15T17:23:45Z', 'closed_at': '2021-02-25T06:49:48Z', 'labels': {'name': 'type:question'}}
+{'issuenumber': 929, 'title': 'Disable Renovate', 'state': 'closed', 'created_at': '2021-02-15T15:51:19Z', 'closed_at': '2021-02-16T11:15:25Z', 'labels': []}
+{'issuenumber': 924, 'title': 'update examples to new version', 'state': 'closed', 'created_at': '2021-02-02T10:36:12Z', 'closed_at': '2021-02-02T14:51:33Z', 'labels': []}
+{'issuenumber': 922, 'title': 'No default jsDelivr CDN file set', 'state': 'closed', 'created_at': '2021-01-26T10:54:15Z', 'closed_at': '2021-02-15T16:24:37Z', 'labels': []}
+{'issuenumber': 917, 'title': 'come up with a plan for v3, roadmap?', 'state': 'closed', 'created_at': '2021-01-12T17:16:18Z', 'closed_at': '2021-03-28T18:08:38Z', 'labels': []}
+{'issuenumber': 913, 'title': "RFC: Export everything from the main 'snabbdom' module", 'state': 'closed', 'created_at': '2021-01-10T10:56:52Z', 'closed_at': '2021-03-28T15:11:17Z', 'labels': []}
+{'issuenumber': 910, 'title': 'Listening for global / window events', 'state': 'closed', 'created_at': '2021-01-04T10:20:07Z', 'closed_at': '2021-01-19T14:15:03Z', 'labels': []}
+{'issuenumber': 881, 'title': 'package.json lose property of main', 'state': 'closed', 'created_at': '2020-10-14T01:05:39Z', 'closed_at': '2021-02-15T16:34:57Z', 'labels': []}
+{'issuenumber': 874, 'title': "File 'tsconfigs/browser-module' does not exist", 'state': 'closed', 'created_at': '2020-09-29T12:29:34Z', 'closed_at': '2021-02-28T11:20:14Z', 'labels': []}
+{'issuenumber': 868, 'title': 'mightyiam stepping down', 'state': 'closed', 'created_at': '2020-09-25T01:57:36Z', 'closed_at': '2020-09-25T01:57:40Z', 'labels': []}
+{'issuenumber': 867, 'title': "thunk doesn't seem to work with svg child elements", 'state': 'closed', 'created_at': '2020-09-24T16:35:30Z', 'closed_at': '2022-01-17T22:56:12Z', 'labels': []}
+{'issuenumber': 856, 'title': 'There is no way to pass parameters', 'state': 'closed', 'created_at': '2020-09-15T02:18:58Z', 'closed_at': '2020-09-15T06:27:25Z', 'labels': []}
+{'issuenumber': 850, 'title': 'strictFunctionTypes', 'state': 'closed', 'created_at': '2020-09-14T03:42:11Z', 'closed_at': '2020-09-14T04:09:23Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 846, 'title': 'Move global type augmentation to `.d.ts` file', 'state': 'closed', 'created_at': '2020-09-13T01:03:25Z', 'closed_at': '2021-03-28T17:39:10Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 844, 'title': "Unused '@ts-expect-error' directive in Event Listener module", 'state': 'closed', 'created_at': '2020-09-12T10:26:56Z', 'closed_at': '2020-09-13T00:37:57Z', 'labels': []}
+{'issuenumber': 836, 'title': '@typescript-eslint/parser not getting renovate PRs', 'state': 'closed', 'created_at': '2020-09-08T03:28:29Z', 'closed_at': '2021-02-15T15:57:30Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 832, 'title': 'Duplicate keys throws error when patch', 'state': 'closed', 'created_at': '2020-09-07T08:50:56Z', 'closed_at': '2020-09-15T11:25:47Z', 'labels': []}
+{'issuenumber': 825, 'title': 'CI build sometimes times out at 10 minutes', 'state': 'closed', 'created_at': '2020-09-01T05:16:01Z', 'closed_at': '2021-03-28T23:48:36Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 815, 'title': 'Style module to be sophisticated about shorthand CSS properties', 'state': 'closed', 'created_at': '2020-08-28T04:01:29Z', 'closed_at': '2020-08-28T04:04:46Z', 'labels': {'name': 'type:enhancement'}}
+{'issuenumber': 813, 'title': 'regenerator-runtime missing from devDeps', 'state': 'closed', 'created_at': '2020-08-28T03:19:08Z', 'closed_at': '2020-08-28T03:30:39Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 802, 'title': 'Ambiguity in eventlisteners API', 'state': 'closed', 'created_at': '2020-08-21T04:53:29Z', 'closed_at': '2020-09-01T04:34:50Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 801, 'title': 'Debug tests with source maps', 'state': 'closed', 'created_at': '2020-08-21T03:23:18Z', 'closed_at': '2021-03-28T23:49:06Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 796, 'title': 'TypeScript types for eventlisteners do not support access to VNode in listener', 'state': 'closed', 'created_at': '2020-08-19T04:52:02Z', 'closed_at': '2020-09-14T05:00:20Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 795, 'title': 'TypeScript types for eventlisteners module do not support listener tuples with attached data', 'state': 'closed', 'created_at': '2020-08-19T04:51:00Z', 'closed_at': '2020-09-01T04:34:51Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 794, 'title': 'TypeScript types for eventlisteners module do not support multiple listeners', 'state': 'closed', 'created_at': '2020-08-19T04:50:14Z', 'closed_at': '2020-09-08T13:58:49Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 792, 'title': 'Listener context type wrong in some eventlisteners tests', 'state': 'closed', 'created_at': '2020-08-19T03:36:52Z', 'closed_at': '2020-08-19T03:42:26Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 775, 'title': '3 URL fields in package.json are out-of-date', 'state': 'closed', 'created_at': '2020-08-09T04:05:47Z', 'closed_at': '2020-08-09T04:09:42Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 774, 'title': 'Documentation for marking head of PR as trusted does not support history rewrite', 'state': 'closed', 'created_at': '2020-08-09T03:23:37Z', 'closed_at': '2020-08-09T03:34:14Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 772, 'title': "Type 'number' is not assignable to type 'string'.ts(2322)", 'state': 'closed', 'created_at': '2020-08-08T13:00:44Z', 'closed_at': '2020-08-08T15:44:55Z', 'labels': []}
+{'issuenumber': 765, 'title': 'Missing typescript types', 'state': 'closed', 'created_at': '2020-08-04T20:35:29Z', 'closed_at': '2020-08-05T03:06:59Z', 'labels': []}
+{'issuenumber': 761, 'title': 'snabbdom.js 404 in examples', 'state': 'closed', 'created_at': '2020-08-03T04:10:07Z', 'closed_at': '2020-08-03T05:00:44Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 760, 'title': 'Out of The Box usage with Webpack', 'state': 'closed', 'created_at': '2020-08-02T08:29:19Z', 'closed_at': '2020-08-03T03:14:54Z', 'labels': []}
+{'issuenumber': 748, 'title': 'Issue with mocha when migrating to v1.0.1', 'state': 'closed', 'created_at': '2020-07-23T14:41:48Z', 'closed_at': '2021-03-28T23:49:44Z', 'labels': []}
+{'issuenumber': 743, 'title': 'Snabbdom 1.0 require breaks webpack build', 'state': 'closed', 'created_at': '2020-07-18T00:40:56Z', 'closed_at': '2020-07-18T01:02:19Z', 'labels': []}
+{'issuenumber': 727, 'title': "I used examples/reorder-animation. When deleting the last data, an error will be reported:Uncaught TypeError: Cannot read property 'offset' of undefined", 'state': 'closed', 'created_at': '2020-07-09T12:29:29Z', 'closed_at': '2020-08-24T14:34:42Z', 'labels': []}
+{'issuenumber': 726, 'title': 'Package 1.0.x content questions', 'state': 'closed', 'created_at': '2020-07-08T16:57:29Z', 'closed_at': '2020-10-16T11:45:35Z', 'labels': []}
+{'issuenumber': 723, 'title': " Cannot resolve dependency 'snabbdom/init'", 'state': 'closed', 'created_at': '2020-07-02T00:27:26Z', 'closed_at': '2020-07-04T04:55:08Z', 'labels': []}
+{'issuenumber': 718, 'title': 'Is there any place to import snabbdom from directly on the web?', 'state': 'closed', 'created_at': '2020-06-30T06:44:46Z', 'closed_at': '2020-06-30T08:58:59Z', 'labels': []}
+{'issuenumber': 716, 'title': 'Oo', 'state': 'closed', 'created_at': '2020-06-27T20:47:26Z', 'closed_at': '2020-06-28T01:58:11Z', 'labels': []}
+{'issuenumber': 709, 'title': 'Use prettier for codebase', 'state': 'closed', 'created_at': '2020-06-21T11:38:15Z', 'closed_at': '2021-03-28T15:11:17Z', 'labels': []}
+{'issuenumber': 703, 'title': 'Usage with Rollup for >= 1.0.0', 'state': 'closed', 'created_at': '2020-06-19T00:45:02Z', 'closed_at': '2020-06-19T17:45:01Z', 'labels': []}
+{'issuenumber': 692, 'title': 'Inconsistent imports spacing in readme', 'state': 'closed', 'created_at': '2020-06-18T08:24:21Z', 'closed_at': '2020-06-18T10:22:07Z', 'labels': []}
+{'issuenumber': 691, 'title': 'Some wrong module import paths in readme ', 'state': 'closed', 'created_at': '2020-06-18T08:21:21Z', 'closed_at': '2020-06-18T08:31:59Z', 'labels': []}
+{'issuenumber': 682, 'title': 'Package does not provide a main module', 'state': 'closed', 'created_at': '2020-06-14T15:06:10Z', 'closed_at': '2020-06-14T15:27:52Z', 'labels': {'name': 'affects:user'}}
+{'issuenumber': 681, 'title': 'Package "module" field obsolete', 'state': 'closed', 'created_at': '2020-06-14T15:04:57Z', 'closed_at': '2020-06-14T15:20:53Z', 'labels': []}
+{'issuenumber': 680, 'title': 'Package `main` field obsolete', 'state': 'closed', 'created_at': '2020-06-14T14:59:04Z', 'closed_at': '2020-06-14T15:11:07Z', 'labels': {'name': 'affects:developer only'}}
+{'issuenumber': 674, 'title': 'Subpath exports have absolute paths', 'state': 'closed', 'created_at': '2020-06-14T10:28:33Z', 'closed_at': '2020-06-14T14:59:36Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 673, 'title': 'tsconfig.json files field not sorted nicely', 'state': 'closed', 'created_at': '2020-06-14T09:48:09Z', 'closed_at': '2020-06-14T15:46:11Z', 'labels': {'name': 'affects:developer only'}}
+{'issuenumber': 672, 'title': 'package files field values inconsistent', 'state': 'closed', 'created_at': '2020-06-14T09:47:24Z', 'closed_at': '2020-06-14T11:57:53Z', 'labels': {'name': 'affects:developer only'}}
+{'issuenumber': 670, 'title': 'Establish a documented release process', 'state': 'closed', 'created_at': '2020-06-14T05:09:42Z', 'closed_at': '2020-06-18T14:02:29Z', 'labels': []}
+{'issuenumber': 662, 'title': 'commitlint fails in local', 'state': 'closed', 'created_at': '2020-06-13T15:51:58Z', 'closed_at': '2020-06-13T16:29:19Z', 'labels': {'name': 'affects:developer only'}}
+{'issuenumber': 661, 'title': 'commitlint is disabled in CI', 'state': 'closed', 'created_at': '2020-06-13T15:51:39Z', 'closed_at': '2020-06-13T16:36:49Z', 'labels': {'name': 'affects:developer only'}}
+{'issuenumber': 638, 'title': '1 parallel browser in CI while quota is 5', 'state': 'closed', 'created_at': '2020-05-17T14:46:31Z', 'closed_at': '2020-05-26T15:25:08Z', 'labels': {'name': 'type:enhancement'}}
+{'issuenumber': 633, 'title': 'Redundant calls to classList.remove in class module', 'state': 'closed', 'created_at': '2020-05-15T05:22:11Z', 'closed_at': '2020-05-25T07:24:14Z', 'labels': {'name': 'type:enhancement'}}
+{'issuenumber': 625, 'title': 'Prop removal test misleading', 'state': 'closed', 'created_at': '2020-05-14T14:16:27Z', 'closed_at': '2020-05-22T12:41:47Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 623, 'title': 'props module should not attempt to delete DOM node props', 'state': 'closed', 'created_at': '2020-05-14T11:50:04Z', 'closed_at': '2020-06-12T03:03:49Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 622, 'title': "what is mean '?.'", 'state': 'closed', 'created_at': '2020-05-13T09:22:15Z', 'closed_at': '2020-05-13T09:45:52Z', 'labels': []}
+{'issuenumber': 621, 'title': 'How is `build.js` under the `example/hero/*` folder generated?', 'state': 'closed', 'created_at': '2020-05-13T06:41:26Z', 'closed_at': '2020-05-13T12:01:53Z', 'labels': []}
+{'issuenumber': 617, 'title': 'Benchmark title shows in test results even when not run', 'state': 'closed', 'created_at': '2020-05-11T12:31:50Z', 'closed_at': '2020-05-22T14:13:32Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 616, 'title': 'Auto-update some packages using renovate', 'state': 'closed', 'created_at': '2020-05-11T08:01:42Z', 'closed_at': '2021-02-15T15:57:33Z', 'labels': {'name': 'type:enhancement'}}
+{'issuenumber': 615, 'title': '`Element.setAttribute` global is re-declared for the user', 'state': 'closed', 'created_at': '2020-05-10T15:12:39Z', 'closed_at': '2020-06-13T16:55:58Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 612, 'title': 'Renovate commit messages sometimes fail commitlint', 'state': 'closed', 'created_at': '2020-05-10T11:29:10Z', 'closed_at': '2020-05-17T14:21:28Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 609, 'title': 'Renovate does not update nodenv', 'state': 'closed', 'created_at': '2020-05-10T07:01:49Z', 'closed_at': '2020-05-17T08:49:56Z', 'labels': {'name': 'affects:developer only'}}
+{'issuenumber': 607, 'title': 'Renovate is auto-merging', 'state': 'closed', 'created_at': '2020-05-10T05:32:36Z', 'closed_at': '2020-05-11T08:00:25Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 597, 'title': 'The package.json typings property is ignored', 'state': 'closed', 'created_at': '2020-05-02T03:11:45Z', 'closed_at': '2021-03-28T23:56:22Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 595, 'title': 'Travis CI is not reporting in pull requests', 'state': 'closed', 'created_at': '2020-05-01T15:31:47Z', 'closed_at': '2020-05-05T15:55:26Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 593, 'title': 'Renovate updates `.nvmrc` & `.node-version` separately from `.travis.yml`', 'state': 'closed', 'created_at': '2020-05-01T14:20:49Z', 'closed_at': '2020-05-30T09:07:30Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 568, 'title': 'ES module does not export types, ie VNode', 'state': 'closed', 'created_at': '2020-03-23T12:35:08Z', 'closed_at': '2020-06-18T11:07:36Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 567, 'title': 'Open Collective', 'state': 'closed', 'created_at': '2020-03-21T07:49:12Z', 'closed_at': '2020-06-19T12:07:47Z', 'labels': {'name': 'type:question'}}
+{'issuenumber': 565, 'title': 'Type Module should be partial', 'state': 'closed', 'created_at': '2020-03-17T15:23:27Z', 'closed_at': '2020-03-27T14:29:48Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 564, 'title': "DOMAPI's parentNode and nextSibling should possibly return null", 'state': 'closed', 'created_at': '2020-03-17T15:20:29Z', 'closed_at': '2020-03-27T14:29:47Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 563, 'title': 'Animate entry and removal of elements, using classes and stylesheets', 'state': 'closed', 'created_at': '2020-03-10T14:07:46Z', 'closed_at': '2020-05-10T11:44:19Z', 'labels': []}
+{'issuenumber': 560, 'title': 'support array of elements without needing a wrapper div', 'state': 'closed', 'created_at': '2020-02-29T07:09:12Z', 'closed_at': '2021-12-13T21:24:46Z', 'labels': {'name': 'type:enhancement'}}
+{'issuenumber': 551, 'title': 'Github issues: add some labels, please', 'state': 'closed', 'created_at': '2020-01-18T07:50:08Z', 'closed_at': '2020-01-18T12:15:07Z', 'labels': []}
+{'issuenumber': 545, 'title': '@zymfe thank you for the pull request. It seems that some tests a failing. Perhaps `before` is sometimes not `null`?', 'state': 'closed', 'created_at': '2020-01-15T09:43:35Z', 'closed_at': '2020-01-15T10:36:26Z', 'labels': []}
+{'issuenumber': 543, 'title': 'Packaged artifacts not tested', 'state': 'closed', 'created_at': '2020-01-15T07:45:50Z', 'closed_at': '2020-01-22T06:36:41Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 540, 'title': 'The value of "before" always seems to be null', 'state': 'closed', 'created_at': '2020-01-14T11:03:42Z', 'closed_at': '2020-01-15T11:56:01Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 538, 'title': 'Run browser unit tests headless', 'state': 'closed', 'created_at': '2020-01-13T06:17:30Z', 'closed_at': '2021-03-28T15:11:17Z', 'labels': {'name': 'type:enhancement'}}
+{'issuenumber': 535, 'title': 'Show diff in failed equality assertions', 'state': 'closed', 'created_at': '2020-01-10T02:09:43Z', 'closed_at': '2020-01-22T06:09:00Z', 'labels': {'name': 'type:enhancement'}}
+{'issuenumber': 532, 'title': 'JSX test is not running', 'state': 'closed', 'created_at': '2020-01-08T15:24:10Z', 'closed_at': '2020-01-09T14:34:37Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 528, 'title': '.tsx not linted', 'state': 'closed', 'created_at': '2020-01-08T08:41:21Z', 'closed_at': '2020-01-08T14:45:28Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 525, 'title': 'npm script for building examples', 'state': 'closed', 'created_at': '2020-01-08T00:10:55Z', 'closed_at': '2020-06-12T02:59:18Z', 'labels': {'name': 'type:enhancement'}}
+{'issuenumber': 523, 'title': 'Some exports are both default and named', 'state': 'closed', 'created_at': '2019-12-25T10:34:55Z', 'closed_at': '2020-06-18T10:37:21Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 522, 'title': 'Only named exports', 'state': 'closed', 'created_at': '2019-12-25T10:33:08Z', 'closed_at': '2020-06-18T10:37:21Z', 'labels': {'name': 'type:enhancement'}}
+{'issuenumber': 521, 'title': 'Rename class module to classList', 'state': 'closed', 'created_at': '2019-12-24T19:23:16Z', 'closed_at': '2021-03-29T00:04:57Z', 'labels': {'name': 'type:enhancement'}}
+{'issuenumber': 520, 'title': 'Rename eventListeners module to events', 'state': 'closed', 'created_at': '2019-12-24T19:21:43Z', 'closed_at': '2021-03-29T00:06:54Z', 'labels': {'name': 'type:enhancement'}}
+{'issuenumber': 518, 'title': 'Export a ready-to-use `patch` function which includes a default set of modules', 'state': 'closed', 'created_at': '2019-12-24T18:37:58Z', 'closed_at': '2021-02-15T17:05:45Z', 'labels': {'name': 'type:enhancement'}}
+{'issuenumber': 517, 'title': 'Remove the hero module', 'state': 'closed', 'created_at': '2019-12-24T18:28:50Z', 'closed_at': '2021-03-28T18:46:29Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 516, 'title': 'Snabbdom and ECMAScript Modules', 'state': 'closed', 'created_at': '2019-12-20T18:02:03Z', 'closed_at': '2020-06-12T02:59:18Z', 'labels': []}
+{'issuenumber': 514, 'title': 'gulp is broken', 'state': 'closed', 'created_at': '2019-12-20T17:25:45Z', 'closed_at': '2020-02-20T16:56:09Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 513, 'title': 'JSX files excluded from standalone bundle', 'state': 'closed', 'created_at': '2019-12-20T16:40:28Z', 'closed_at': '2020-06-14T04:57:05Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 509, 'title': 'Karma coverage seems to include tests under Windows', 'state': 'closed', 'created_at': '2019-12-19T20:49:43Z', 'closed_at': '2019-12-26T12:38:56Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 505, 'title': 'editorconfig-checker seems to erroneously ignore some files', 'state': 'closed', 'created_at': '2019-12-19T18:40:24Z', 'closed_at': '2019-12-26T12:16:54Z', 'labels': []}
+{'issuenumber': 503, 'title': 'JSX related files excluded from package', 'state': 'closed', 'created_at': '2019-12-19T12:11:12Z', 'closed_at': '2020-01-08T00:01:04Z', 'labels': []}
+{'issuenumber': 501, 'title': 'Commit linting', 'state': 'closed', 'created_at': '2019-12-17T11:55:23Z', 'closed_at': '2019-12-31T13:05:09Z', 'labels': []}
+{'issuenumber': 500, 'title': 'Add a changelog', 'state': 'closed', 'created_at': '2019-12-17T11:54:05Z', 'closed_at': '2020-06-23T05:39:18Z', 'labels': {'name': 'type:enhancement'}}
+{'issuenumber': 498, 'title': 'Checked in built UMD bundles out-of-date with source code', 'state': 'closed', 'created_at': '2019-12-12T12:27:42Z', 'closed_at': '2020-02-20T16:56:08Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 497, 'title': 'Whether to remove JSX support (which, BTW, is not yet documented)', 'state': 'closed', 'created_at': '2019-12-12T11:54:46Z', 'closed_at': '2019-12-17T11:56:57Z', 'labels': []}
+{'issuenumber': 495, 'title': 'can we npm publish a new version?', 'state': 'closed', 'created_at': '2019-12-10T16:37:30Z', 'closed_at': '2019-12-12T13:53:00Z', 'labels': []}
+{'issuenumber': 492, 'title': 'Allow mightyiam to publish to npm', 'state': 'closed', 'created_at': '2019-11-30T11:48:21Z', 'closed_at': '2019-12-03T06:36:03Z', 'labels': []}
+{'issuenumber': 486, 'title': 'Discussion: Roadmap', 'state': 'closed', 'created_at': '2019-11-19T22:01:58Z', 'closed_at': '2019-11-22T01:26:13Z', 'labels': []}
+{'issuenumber': 483, 'title': 'Readme table of contents out-of-date with readme content', 'state': 'closed', 'created_at': '2019-11-19T12:16:02Z', 'closed_at': '2019-12-19T18:42:55Z', 'labels': []}
+{'issuenumber': 481, 'title': 'How about not tracking `dist` in VCS?', 'state': 'closed', 'created_at': '2019-11-14T17:49:37Z', 'closed_at': '2020-02-20T16:56:09Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 478, 'title': 'Automated releases', 'state': 'closed', 'created_at': '2019-11-13T17:14:12Z', 'closed_at': '2021-03-29T00:08:02Z', 'labels': []}
+{'issuenumber': 476, 'title': 'prepublish script is deprecated since npm@5', 'state': 'closed', 'created_at': '2019-11-13T16:58:29Z', 'closed_at': '2019-11-18T05:16:35Z', 'labels': []}
+{'issuenumber': 475, 'title': 'Restrict packaged files', 'state': 'closed', 'created_at': '2019-11-13T16:55:48Z', 'closed_at': '2019-11-22T07:43:54Z', 'labels': []}
+{'issuenumber': 473, 'title': 'CI fails on some browsers', 'state': 'closed', 'created_at': '2019-11-13T09:42:50Z', 'closed_at': '2019-11-18T05:25:42Z', 'labels': []}
+{'issuenumber': 472, 'title': 'IE10 fails in CI', 'state': 'closed', 'created_at': '2019-11-13T09:41:03Z', 'closed_at': '2020-05-15T17:54:16Z', 'labels': []}
+{'issuenumber': 471, 'title': 'IE11 fails in CI', 'state': 'closed', 'created_at': '2019-11-13T09:40:43Z', 'closed_at': '2020-01-25T02:15:10Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 470, 'title': 'Mobile Safari 10 fails in CI', 'state': 'closed', 'created_at': '2019-11-13T09:40:22Z', 'closed_at': '2021-03-28T15:11:18Z', 'labels': []}
+{'issuenumber': 469, 'title': 'Safari 9.1 fails in CI', 'state': 'closed', 'created_at': '2019-11-13T09:40:02Z', 'closed_at': '2021-03-28T15:11:18Z', 'labels': []}
+{'issuenumber': 468, 'title': 'Chrome 49 fails in CI', 'state': 'closed', 'created_at': '2019-11-13T09:39:30Z', 'closed_at': '2021-03-28T15:11:18Z', 'labels': []}
+{'issuenumber': 462, 'title': 'Get more active maintainers so future of snabbdom is not blocked on @paldepind', 'state': 'closed', 'created_at': '2019-10-30T19:05:02Z', 'closed_at': '2019-11-18T07:24:31Z', 'labels': []}
+{'issuenumber': 461, 'title': 'Unmounting by `patch(vnode, null)` documented but not implemented', 'state': 'closed', 'created_at': '2019-10-30T00:10:01Z', 'closed_at': '2020-01-22T06:07:54Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 458, 'title': "what's meaning of snabbdom", 'state': 'closed', 'created_at': '2019-09-19T11:57:13Z', 'closed_at': '2019-09-19T21:57:51Z', 'labels': []}
+{'issuenumber': 457, 'title': 'CI failing due to \'BrowserStack: "Error: Automation testing time expired."\'', 'state': 'closed', 'created_at': '2019-09-18T09:18:32Z', 'closed_at': '2019-10-28T11:09:51Z', 'labels': []}
+{'issuenumber': 450, 'title': 'Make the h function compatible with jsx/tsx.', 'state': 'closed', 'created_at': '2019-09-12T15:30:51Z', 'closed_at': '2019-12-03T06:38:14Z', 'labels': []}
+{'issuenumber': 447, 'title': 'Test Failure: style applies tranform as transition on remove FAILED', 'state': 'closed', 'created_at': '2019-09-05T11:22:29Z', 'closed_at': '2019-09-10T06:42:51Z', 'labels': []}
+{'issuenumber': 445, 'title': 'karma fails to launch firefox on windows', 'state': 'closed', 'created_at': '2019-09-04T12:57:41Z', 'closed_at': '2019-09-04T14:21:15Z', 'labels': []}
+{'issuenumber': 441, 'title': 'Margin shorthands are not patched correctly', 'state': 'closed', 'created_at': '2019-08-07T22:50:15Z', 'closed_at': '2020-08-28T04:03:04Z', 'labels': []}
+{'issuenumber': 440, 'title': "children isn't removed on parent patch", 'state': 'closed', 'created_at': '2019-07-09T19:05:50Z', 'closed_at': '2020-08-28T05:12:13Z', 'labels': []}
+{'issuenumber': 438, 'title': 'Parcel bundler is unable to import snabbdom', 'state': 'closed', 'created_at': '2019-07-03T13:13:56Z', 'closed_at': '2019-07-05T13:32:45Z', 'labels': []}
+{'issuenumber': 437, 'title': 'open to a PR that updates all README examples to es modules?', 'state': 'closed', 'created_at': '2019-06-24T20:03:09Z', 'closed_at': '2020-06-12T02:59:18Z', 'labels': []}
+{'issuenumber': 434, 'title': 'Thunk-like approach by default for diffing', 'state': 'closed', 'created_at': '2019-05-25T10:49:21Z', 'closed_at': '2019-06-05T09:23:23Z', 'labels': []}
+{'issuenumber': 431, 'title': 'The typescript declaration for eventlisteners only supports function listeners', 'state': 'closed', 'created_at': '2019-03-30T22:51:59Z', 'closed_at': '2020-08-19T04:57:15Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 430, 'title': 'Question about props innerHTML & my trouble with it', 'state': 'closed', 'created_at': '2019-03-29T02:10:07Z', 'closed_at': '2019-04-18T23:05:52Z', 'labels': []}
+{'issuenumber': 428, 'title': 'Development workflow seems broken', 'state': 'closed', 'created_at': '2019-03-25T04:50:23Z', 'closed_at': '2019-11-18T05:25:42Z', 'labels': []}
+{'issuenumber': 426, 'title': 'test script fails with missing `testem` command', 'state': 'closed', 'created_at': '2019-03-25T04:37:45Z', 'closed_at': '2019-09-04T09:10:28Z', 'labels': []}
+{'issuenumber': 424, 'title': 'package-lock.json', 'state': 'closed', 'created_at': '2019-03-25T04:10:53Z', 'closed_at': '2019-08-31T13:38:42Z', 'labels': []}
+{'issuenumber': 422, 'title': 'Declare development version of Node.js', 'state': 'closed', 'created_at': '2019-03-25T04:05:18Z', 'closed_at': '2019-05-18T19:26:04Z', 'labels': []}
+{'issuenumber': 415, 'title': 'Props are not reseted properly', 'state': 'closed', 'created_at': '2019-01-24T12:45:20Z', 'closed_at': '2020-06-12T03:03:50Z', 'labels': []}
+{'issuenumber': 412, 'title': 'Fixing out of sync virtual dom', 'state': 'closed', 'created_at': '2019-01-07T08:42:13Z', 'closed_at': '2021-03-29T00:11:57Z', 'labels': []}
+{'issuenumber': 411, 'title': 'Q: wysiwyg editor or using third party libraries', 'state': 'closed', 'created_at': '2018-11-26T15:14:53Z', 'closed_at': '2019-11-14T14:08:57Z', 'labels': []}
+{'issuenumber': 405, 'title': 'Question. Does snabbdom use web worker for performance improvement', 'state': 'closed', 'created_at': '2018-10-15T17:28:24Z', 'closed_at': '2018-10-15T19:16:00Z', 'labels': []}
+{'issuenumber': 404, 'title': "htmldomapi.ts doesn't work under Node.js environment", 'state': 'closed', 'created_at': '2018-10-06T07:30:00Z', 'closed_at': '2021-03-15T12:32:46Z', 'labels': []}
+{'issuenumber': 403, 'title': '[Question] Creation of a DOM element. Source of `document`.', 'state': 'closed', 'created_at': '2018-10-01T15:07:23Z', 'closed_at': '2018-11-07T12:45:30Z', 'labels': []}
+{'issuenumber': 402, 'title': 'Virtual DOM Benchmark link in readme no longer valid', 'state': 'closed', 'created_at': '2018-10-01T01:38:44Z', 'closed_at': '2019-11-25T08:22:38Z', 'labels': []}
+{'issuenumber': 401, 'title': 'Input element keep displaying the last user input', 'state': 'closed', 'created_at': '2018-09-27T20:04:03Z', 'closed_at': '2018-09-29T15:00:26Z', 'labels': []}
+{'issuenumber': 396, 'title': 'Add CI with Browserstack', 'state': 'closed', 'created_at': '2018-09-03T18:32:20Z', 'closed_at': '2018-09-25T19:13:01Z', 'labels': []}
+{'issuenumber': 395, 'title': 'Error: insertBefore when reusing vnodes', 'state': 'closed', 'created_at': '2018-09-03T10:57:09Z', 'closed_at': '2018-09-18T10:51:32Z', 'labels': []}
+{'issuenumber': 391, 'title': "Can't use example code with TS", 'state': 'closed', 'created_at': '2018-08-26T08:44:57Z', 'closed_at': '2021-03-29T00:16:15Z', 'labels': []}
+{'issuenumber': 388, 'title': "toVNode doesn't parse SVGs correctly", 'state': 'closed', 'created_at': '2018-08-07T15:25:40Z', 'closed_at': '2022-01-17T22:56:14Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 386, 'title': 'How to "unmount" from the DOM?', 'state': 'closed', 'created_at': '2018-07-23T23:53:19Z', 'closed_at': '2020-01-17T01:33:32Z', 'labels': []}
+{'issuenumber': 381, 'title': 'cal', 'state': 'closed', 'created_at': '2018-05-21T10:27:21Z', 'closed_at': '2018-05-21T10:29:52Z', 'labels': []}
+{'issuenumber': 379, 'title': 'Support for vnode with undefined data', 'state': 'closed', 'created_at': '2018-05-15T21:42:13Z', 'closed_at': '2020-01-17T01:12:24Z', 'labels': []}
+{'issuenumber': 376, 'title': '"node is null" issue related to font awesome', 'state': 'closed', 'created_at': '2018-05-01T15:14:42Z', 'closed_at': '2020-01-17T01:07:32Z', 'labels': []}
+{'issuenumber': 375, 'title': '"node is null" bug in patch? (hard to reproduce)', 'state': 'closed', 'created_at': '2018-04-29T10:17:34Z', 'closed_at': '2018-05-01T15:15:28Z', 'labels': []}
+{'issuenumber': 374, 'title': 'Typescript signatures do not allow mixing text nodes with VNodes', 'state': 'closed', 'created_at': '2018-04-22T12:26:09Z', 'closed_at': '2021-03-29T00:20:07Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 367, 'title': "style module: `transitionend` doesn't fire when no transition is needed", 'state': 'closed', 'created_at': '2018-03-04T19:46:17Z', 'closed_at': '2018-09-02T14:55:16Z', 'labels': []}
+{'issuenumber': 366, 'title': 'remove hook is not called on child-node if parent node is removed', 'state': 'closed', 'created_at': '2018-03-04T13:44:40Z', 'closed_at': '2020-01-17T00:19:32Z', 'labels': {'name': 'type:question'}}
+{'issuenumber': 361, 'title': 'Type Error in h()?', 'state': 'closed', 'created_at': '2018-01-09T17:23:31Z', 'closed_at': '2020-01-17T00:16:25Z', 'labels': []}
+{'issuenumber': 360, 'title': 'Microsoft Edge error with style module delayed prop', 'state': 'closed', 'created_at': '2018-01-08T22:48:05Z', 'closed_at': '2019-09-06T08:14:20Z', 'labels': []}
+{'issuenumber': 357, 'title': 'attrs module not working', 'state': 'closed', 'created_at': '2017-12-21T21:13:41Z', 'closed_at': '2018-01-21T07:55:53Z', 'labels': []}
+{'issuenumber': 356, 'title': 'Need to npm publish more often', 'state': 'closed', 'created_at': '2017-12-15T14:24:28Z', 'closed_at': '2018-03-18T18:17:08Z', 'labels': []}
+{'issuenumber': 353, 'title': 'props module overwrites selector classes', 'state': 'closed', 'created_at': '2017-12-13T14:00:34Z', 'closed_at': '2018-01-21T07:56:40Z', 'labels': []}
+{'issuenumber': 352, 'title': 'duplicated eventlistener is attached after patching', 'state': 'closed', 'created_at': '2017-12-12T08:47:41Z', 'closed_at': '2017-12-13T18:21:01Z', 'labels': []}
+{'issuenumber': 349, 'title': 'Benchmark setup to measure vnode creation performance ', 'state': 'closed', 'created_at': '2017-12-06T20:11:44Z', 'closed_at': '2019-12-24T19:33:13Z', 'labels': []}
+{'issuenumber': 348, 'title': 'A test case for diffing line 246', 'state': 'closed', 'created_at': '2017-12-06T14:39:32Z', 'closed_at': '2017-12-12T23:27:41Z', 'labels': []}
+{'issuenumber': 343, 'title': 'snabbdom-breadcrumbs', 'state': 'closed', 'created_at': '2017-11-24T20:25:42Z', 'closed_at': '2017-11-24T23:04:26Z', 'labels': []}
+{'issuenumber': 342, 'title': 'snabbdom-decontextify', 'state': 'closed', 'created_at': '2017-11-15T13:10:38Z', 'closed_at': '2017-11-15T13:10:48Z', 'labels': []}
+{'issuenumber': 341, 'title': 'snabbdom-shields-badge', 'state': 'closed', 'created_at': '2017-11-13T10:21:43Z', 'closed_at': '2017-11-13T10:21:50Z', 'labels': []}
+{'issuenumber': 340, 'title': 'snabbdom-toc', 'state': 'closed', 'created_at': '2017-11-02T19:20:14Z', 'closed_at': '2017-11-02T19:21:02Z', 'labels': []}
+{'issuenumber': 338, 'title': 'Add ES6 module build', 'state': 'closed', 'created_at': '2017-10-10T12:32:51Z', 'closed_at': '2019-11-14T17:29:55Z', 'labels': []}
+{'issuenumber': 335, 'title': "Doesn't patch over a server side rendered content", 'state': 'closed', 'created_at': '2017-10-04T15:39:51Z', 'closed_at': '2020-01-16T23:29:13Z', 'labels': []}
+{'issuenumber': 332, 'title': 'Does prepatch get invoked on all vnode children?', 'state': 'closed', 'created_at': '2017-09-14T13:27:51Z', 'closed_at': '2017-09-14T13:50:43Z', 'labels': []}
+{'issuenumber': 323, 'title': "IE, svg, class plugin: Unable to get property 'add' of undefined or null reference", 'state': 'closed', 'created_at': '2017-07-23T13:34:07Z', 'closed_at': '2019-11-14T17:27:36Z', 'labels': []}
+{'issuenumber': 322, 'title': 'Setup Travis/Circle/other ci', 'state': 'closed', 'created_at': '2017-07-20T19:39:01Z', 'closed_at': '2019-09-04T10:48:44Z', 'labels': []}
+{'issuenumber': 319, 'title': "Rollup can't import Snabbdom", 'state': 'closed', 'created_at': '2017-07-17T03:12:54Z', 'closed_at': '2020-01-15T11:13:23Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 317, 'title': "Let's choose a logo", 'state': 'closed', 'created_at': '2017-07-10T08:09:41Z', 'closed_at': '2019-09-15T20:12:50Z', 'labels': []}
+{'issuenumber': 316, 'title': "Multiple eventlistners can't get the event.", 'state': 'closed', 'created_at': '2017-07-06T06:56:25Z', 'closed_at': '2019-03-20T01:53:58Z', 'labels': []}
+{'issuenumber': 315, 'title': "domApi doesn't contain tagName", 'state': 'closed', 'created_at': '2017-07-01T20:56:28Z', 'closed_at': '2017-07-02T18:28:18Z', 'labels': []}
+{'issuenumber': 312, 'title': 'Main module exposes h, init, thunk (but not a default)', 'state': 'closed', 'created_at': '2017-06-27T20:14:44Z', 'closed_at': '2020-01-15T11:09:59Z', 'labels': []}
+{'issuenumber': 311, 'title': 'Put an empty virtual node in a tree?', 'state': 'closed', 'created_at': '2017-06-27T14:58:46Z', 'closed_at': '2017-06-28T13:02:04Z', 'labels': []}
+{'issuenumber': 309, 'title': "deleting a dataset property that doesn't exist throws an error", 'state': 'closed', 'created_at': '2017-06-23T08:47:01Z', 'closed_at': '2017-07-02T07:39:33Z', 'labels': []}
+{'issuenumber': 306, 'title': 'Adding the AMP boolean attributes to the attributes module', 'state': 'closed', 'created_at': '2017-06-13T09:39:44Z', 'closed_at': '2017-07-27T19:12:45Z', 'labels': []}
+{'issuenumber': 305, 'title': 'Update license', 'state': 'closed', 'created_at': '2017-06-08T15:09:51Z', 'closed_at': '2018-03-24T18:32:05Z', 'labels': []}
+{'issuenumber': 304, 'title': 'Mix in a DOM Element inside a vnode tree?', 'state': 'closed', 'created_at': '2017-06-08T14:36:31Z', 'closed_at': '2017-07-04T13:28:46Z', 'labels': []}
+{'issuenumber': 301, 'title': "Failed to execute 'removeChild' on 'Node'", 'state': 'closed', 'created_at': '2017-05-30T23:49:19Z', 'closed_at': '2020-01-15T09:26:52Z', 'labels': []}
+{'issuenumber': 300, 'title': 'Using Snabbdom without a module system', 'state': 'closed', 'created_at': '2017-05-25T14:24:19Z', 'closed_at': '2017-05-25T15:38:52Z', 'labels': []}
+{'issuenumber': 299, 'title': 'Updating only a child in a large vnode/tree', 'state': 'closed', 'created_at': '2017-05-22T16:12:10Z', 'closed_at': '2017-07-04T13:26:11Z', 'labels': []}
+{'issuenumber': 298, 'title': 'Key events not propagated correctly?', 'state': 'closed', 'created_at': '2017-05-20T14:24:26Z', 'closed_at': '2017-05-21T14:46:44Z', 'labels': []}
+{'issuenumber': 297, 'title': '[Question] Differences between the props and the attributes module', 'state': 'closed', 'created_at': '2017-05-19T22:03:43Z', 'closed_at': '2017-05-20T12:37:36Z', 'labels': []}
+{'issuenumber': 295, 'title': '[BREAKING] delayed and remove properties in style module required since minor update', 'state': 'closed', 'created_at': '2017-05-19T09:46:08Z', 'closed_at': '2017-05-19T12:12:11Z', 'labels': []}
+{'issuenumber': 294, 'title': "Uncaught TypeError: Cannot read property 'init' of undefined", 'state': 'closed', 'created_at': '2017-05-18T19:40:39Z', 'closed_at': '2017-05-20T04:31:39Z', 'labels': []}
+{'issuenumber': 293, 'title': 'Convert tests to TypeScript', 'state': 'closed', 'created_at': '2017-05-15T07:02:49Z', 'closed_at': '2019-12-26T12:38:56Z', 'labels': []}
+{'issuenumber': 291, 'title': 'Critical: in types of event listeners', 'state': 'closed', 'created_at': '2017-05-11T07:52:11Z', 'closed_at': '2017-05-15T06:35:41Z', 'labels': []}
+{'issuenumber': 288, 'title': 'Small problems in running the testing framework', 'state': 'closed', 'created_at': '2017-05-04T12:37:11Z', 'closed_at': '2019-09-04T10:47:50Z', 'labels': []}
+{'issuenumber': 286, 'title': 'Benchmark', 'state': 'closed', 'created_at': '2017-04-28T18:48:49Z', 'closed_at': '2020-05-09T14:18:02Z', 'labels': {'name': 'type:enhancement'}}
+{'issuenumber': 285, 'title': 'Would the maintainer accept a new stream-based example?', 'state': 'closed', 'created_at': '2017-04-26T12:21:32Z', 'closed_at': '2017-07-27T19:15:20Z', 'labels': []}
+{'issuenumber': 284, 'title': 'Pass single node in place of children?', 'state': 'closed', 'created_at': '2017-04-26T05:02:35Z', 'closed_at': '2017-04-29T11:50:49Z', 'labels': []}
+{'issuenumber': 283, 'title': 'Props with falsy values are deleted', 'state': 'closed', 'created_at': '2017-04-25T16:14:12Z', 'closed_at': '2020-06-12T03:03:49Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 282, 'title': 'Add a shorthand wrapper to simplify the usage?', 'state': 'closed', 'created_at': '2017-04-25T05:26:04Z', 'closed_at': '2017-05-01T21:44:24Z', 'labels': []}
+{'issuenumber': 281, 'title': 'How to create isomorphic app?', 'state': 'closed', 'created_at': '2017-04-23T14:53:20Z', 'closed_at': '2017-04-24T15:54:44Z', 'labels': []}
+{'issuenumber': 278, 'title': 'README is missing docs for dataset module', 'state': 'closed', 'created_at': '2017-04-21T15:02:30Z', 'closed_at': '2017-04-24T15:58:05Z', 'labels': []}
+{'issuenumber': 277, 'title': 'Is module hook call predictable ?', 'state': 'closed', 'created_at': '2017-04-19T17:41:12Z', 'closed_at': '2017-04-20T14:17:57Z', 'labels': []}
+{'issuenumber': 274, 'title': 'New event handlers each time the DOM is patched', 'state': 'closed', 'created_at': '2017-04-16T16:06:02Z', 'closed_at': '2017-04-23T14:51:54Z', 'labels': []}
+{'issuenumber': 268, 'title': "'create' hook doesn't trigger", 'state': 'closed', 'created_at': '2017-03-26T20:04:17Z', 'closed_at': '2017-03-26T20:52:33Z', 'labels': []}
+{'issuenumber': 265, 'title': 'Snabbdom for patching components', 'state': 'closed', 'created_at': '2017-03-23T09:01:05Z', 'closed_at': '2017-03-23T19:55:57Z', 'labels': []}
+{'issuenumber': 264, 'title': 'Various props of VNode are typed `any`', 'state': 'closed', 'created_at': '2017-03-22T19:18:44Z', 'closed_at': '2017-05-06T18:22:46Z', 'labels': []}
+{'issuenumber': 263, 'title': 'Please document how to run examples locally', 'state': 'closed', 'created_at': '2017-03-18T10:52:13Z', 'closed_at': '2020-06-12T02:59:18Z', 'labels': {'name': 'type:enhancement'}}
+{'issuenumber': 262, 'title': "Can't generate draggable elements using attributes module", 'state': 'closed', 'created_at': '2017-03-17T17:23:13Z', 'closed_at': '2017-07-27T19:07:00Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 261, 'title': 'Unnecessary re-exports', 'state': 'closed', 'created_at': '2017-03-15T05:56:26Z', 'closed_at': '2020-01-08T11:03:59Z', 'labels': []}
+{'issuenumber': 259, 'title': 'update children bug', 'state': 'closed', 'created_at': '2017-03-11T08:44:40Z', 'closed_at': '2017-03-12T01:00:49Z', 'labels': []}
+{'issuenumber': 256, 'title': 'VNodeWrapper requires an id?', 'state': 'closed', 'created_at': '2017-03-09T15:55:57Z', 'closed_at': '2017-03-09T16:38:46Z', 'labels': []}
+{'issuenumber': 254, 'title': 'Boolean attributes should not have a value', 'state': 'closed', 'created_at': '2017-03-04T17:21:43Z', 'closed_at': '2017-03-07T11:23:01Z', 'labels': []}
+{'issuenumber': 252, 'title': 'ToVNode incorrectly handles text nodes', 'state': 'closed', 'created_at': '2017-02-25T13:59:16Z', 'closed_at': '2017-02-25T15:29:51Z', 'labels': []}
+{'issuenumber': 251, 'title': "Blank rendering when sel is empty string ''", 'state': 'closed', 'created_at': '2017-02-24T16:15:58Z', 'closed_at': '2017-02-24T16:30:28Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 250, 'title': 'How to force DOM updates from a desynchronized vTree representation?', 'state': 'closed', 'created_at': '2017-02-23T15:15:42Z', 'closed_at': '2017-02-24T10:11:43Z', 'labels': []}
+{'issuenumber': 248, 'title': 'Promote derivative works', 'state': 'closed', 'created_at': '2017-02-15T09:17:28Z', 'closed_at': '2017-03-29T10:46:51Z', 'labels': []}
+{'issuenumber': 243, 'title': 'Hyperx to Snabbdom', 'state': 'closed', 'created_at': '2017-02-08T09:15:13Z', 'closed_at': '2017-10-05T17:02:25Z', 'labels': []}
+{'issuenumber': 241, 'title': 'Error: addNS fails on SVG elements with text children', 'state': 'closed', 'created_at': '2017-02-03T14:50:29Z', 'closed_at': '2017-02-03T15:14:07Z', 'labels': []}
+{'issuenumber': 238, 'title': 'dangerouslySetInnerHTML?', 'state': 'closed', 'created_at': '2017-01-30T18:31:26Z', 'closed_at': '2017-01-30T19:07:01Z', 'labels': []}
+{'issuenumber': 236, 'title': 'Split the repository in two', 'state': 'closed', 'created_at': '2017-01-26T15:43:44Z', 'closed_at': '2017-01-28T13:16:57Z', 'labels': []}
+{'issuenumber': 235, 'title': "Dataset module doesn't work with dash-style key name", 'state': 'closed', 'created_at': '2017-01-24T09:17:39Z', 'closed_at': '2017-01-24T09:27:33Z', 'labels': []}
+{'issuenumber': 227, 'title': "Don't manipulate the arguments passed to the h function", 'state': 'closed', 'created_at': '2017-01-17T02:43:00Z', 'closed_at': '2017-01-26T14:32:00Z', 'labels': []}
+{'issuenumber': 226, 'title': 'Filter out null/undefined children', 'state': 'closed', 'created_at': '2017-01-16T19:34:23Z', 'closed_at': '2017-02-08T08:22:07Z', 'labels': []}
+{'issuenumber': 225, 'title': '[Discussion] ambiguity between default export and named exports', 'state': 'closed', 'created_at': '2017-01-16T18:52:39Z', 'closed_at': '2019-12-25T10:35:43Z', 'labels': []}
+{'issuenumber': 223, 'title': 'Vnode equality for testing', 'state': 'closed', 'created_at': '2017-01-14T11:28:02Z', 'closed_at': '2017-01-14T13:12:27Z', 'labels': []}
+{'issuenumber': 218, 'title': 'Published package (0.6.0) excludes built files', 'state': 'closed', 'created_at': '2017-01-05T19:59:29Z', 'closed_at': '2017-01-06T07:37:33Z', 'labels': []}
+{'issuenumber': 217, 'title': 'Unable to create svg elements with CSS selectors', 'state': 'closed', 'created_at': '2017-01-05T19:20:53Z', 'closed_at': '2017-04-24T16:17:49Z', 'labels': []}
+{'issuenumber': 215, 'title': "Question: animating something that doesn't get removed/destroyed", 'state': 'closed', 'created_at': '2016-12-29T10:46:05Z', 'closed_at': '2016-12-29T13:35:01Z', 'labels': []}
+{'issuenumber': 214, 'title': 'Creating SVG charts ', 'state': 'closed', 'created_at': '2016-12-28T11:38:45Z', 'closed_at': '2019-12-24T19:58:29Z', 'labels': {'name': 'type:question'}}
+{'issuenumber': 211, 'title': '`master` fails to compile', 'state': 'closed', 'created_at': '2016-12-26T23:04:14Z', 'closed_at': '2017-02-08T08:32:13Z', 'labels': []}
+{'issuenumber': 209, 'title': 'Provide default patch function with all modules.', 'state': 'closed', 'created_at': '2016-12-21T14:42:52Z', 'closed_at': '2016-12-29T16:33:12Z', 'labels': []}
+{'issuenumber': 207, 'title': 'Undefined properties on vnodes', 'state': 'closed', 'created_at': '2016-12-18T14:35:06Z', 'closed_at': '2016-12-19T16:00:46Z', 'labels': []}
+{'issuenumber': 206, 'title': 'for attribute not working', 'state': 'closed', 'created_at': '2016-12-17T23:23:15Z', 'closed_at': '2016-12-20T00:02:57Z', 'labels': []}
+{'issuenumber': 204, 'title': 'Version and publish the TS rewrite', 'state': 'closed', 'created_at': '2016-12-14T22:10:54Z', 'closed_at': '2017-01-12T18:25:38Z', 'labels': []}
+{'issuenumber': 203, 'title': 'Support Passive events?', 'state': 'closed', 'created_at': '2016-12-14T18:25:23Z', 'closed_at': '2019-12-24T19:56:00Z', 'labels': {'name': 'type:enhancement'}}
+{'issuenumber': 202, 'title': 'Order independent diff', 'state': 'closed', 'created_at': '2016-12-13T00:18:59Z', 'closed_at': '2019-12-24T19:49:13Z', 'labels': []}
+{'issuenumber': 200, 'title': 'Add jsnext:main and module to package.json', 'state': 'closed', 'created_at': '2016-12-04T11:14:11Z', 'closed_at': '2019-12-24T19:43:52Z', 'labels': []}
+{'issuenumber': 199, 'title': "`var h = require('snabbdom/h').default` generates error", 'state': 'closed', 'created_at': '2016-12-02T23:05:36Z', 'closed_at': '2017-01-06T07:40:07Z', 'labels': []}
+{'issuenumber': 198, 'title': 'BUG: Unable to create plain text nodes', 'state': 'closed', 'created_at': '2016-11-30T18:36:12Z', 'closed_at': '2019-12-24T19:42:42Z', 'labels': []}
+{'issuenumber': 194, 'title': 'Ideas for a future release', 'state': 'closed', 'created_at': '2016-11-17T14:28:54Z', 'closed_at': '2019-12-24T19:24:40Z', 'labels': []}
+{'issuenumber': 192, 'title': '[Question] selector=svg check is weird', 'state': 'closed', 'created_at': '2016-11-08T07:33:26Z', 'closed_at': '2016-12-29T16:25:28Z', 'labels': {'name': 'type:question'}}
+{'issuenumber': 190, 'title': 'htmldomapi.js parentNode does not work with shadowDOM / DocumentFragment', 'state': 'closed', 'created_at': '2016-11-06T20:35:03Z', 'closed_at': '2021-03-28T16:54:38Z', 'labels': {'name': 'type:enhancement'}}
+{'issuenumber': 189, 'title': 'EventListener interface in eventlisteners.js', 'state': 'closed', 'created_at': '2016-11-02T16:57:45Z', 'closed_at': '2016-12-22T00:25:41Z', 'labels': []}
+{'issuenumber': 186, 'title': 'vDOMSON a different way to define vDOM', 'state': 'closed', 'created_at': '2016-10-26T08:54:19Z', 'closed_at': '2019-11-13T08:13:29Z', 'labels': []}
+{'issuenumber': 183, 'title': 'Errors in Hooks are swallowed', 'state': 'closed', 'created_at': '2016-10-19T21:41:53Z', 'closed_at': '2019-12-24T15:56:17Z', 'labels': []}
+{'issuenumber': 181, 'title': 'Clarify Differences Between Hooks', 'state': 'closed', 'created_at': '2016-10-17T18:30:27Z', 'closed_at': '2019-12-24T15:49:54Z', 'labels': []}
+{'issuenumber': 177, 'title': "How to do drag'n'drop?", 'state': 'closed', 'created_at': '2016-10-13T11:19:23Z', 'closed_at': '2019-11-14T14:00:58Z', 'labels': []}
+{'issuenumber': 175, 'title': 'Why thunk is not in dist', 'state': 'closed', 'created_at': '2016-10-09T03:31:08Z', 'closed_at': '2019-12-24T15:47:56Z', 'labels': []}
+{'issuenumber': 172, 'title': 'Snabbdom logo', 'state': 'closed', 'created_at': '2016-10-02T14:45:02Z', 'closed_at': '2019-09-15T20:13:04Z', 'labels': []}
+{'issuenumber': 170, 'title': 'Document events types', 'state': 'closed', 'created_at': '2016-09-30T11:08:19Z', 'closed_at': '2016-11-07T07:19:51Z', 'labels': []}
+{'issuenumber': 169, 'title': "What's the difference between props and attributes?", 'state': 'closed', 'created_at': '2016-09-30T09:56:44Z', 'closed_at': '2016-09-30T17:12:35Z', 'labels': []}
+{'issuenumber': 168, 'title': 'How do you run tests?', 'state': 'closed', 'created_at': '2016-09-29T22:49:57Z', 'closed_at': '2016-09-30T08:55:35Z', 'labels': []}
+{'issuenumber': 167, 'title': 'Patching should clear out previous root element content', 'state': 'closed', 'created_at': '2016-09-29T22:02:24Z', 'closed_at': '2017-02-09T13:16:46Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 164, 'title': 'Proposal: can we transfer snabbdom to Cycle.js org?', 'state': 'closed', 'created_at': '2016-09-14T20:24:27Z', 'closed_at': '2016-09-22T18:51:33Z', 'labels': []}
+{'issuenumber': 162, 'title': 'is.primitive should check for all primitive values', 'state': 'closed', 'created_at': '2016-09-08T10:56:26Z', 'closed_at': '2019-12-24T15:44:18Z', 'labels': {'name': 'type:enhancement'}}
+{'issuenumber': 160, 'title': 'Input value not patched?', 'state': 'closed', 'created_at': '2016-09-06T09:52:54Z', 'closed_at': '2016-09-06T18:51:54Z', 'labels': []}
+{'issuenumber': 158, 'title': 'Using shadowRoot as the root node throws an exception', 'state': 'closed', 'created_at': '2016-09-02T12:49:10Z', 'closed_at': '2016-09-10T18:13:09Z', 'labels': []}
+{'issuenumber': 157, 'title': 'Selector Order can break nodes', 'state': 'closed', 'created_at': '2016-08-31T17:32:17Z', 'closed_at': '2019-11-20T05:56:49Z', 'labels': []}
+{'issuenumber': 156, 'title': 'Create element without patching', 'state': 'closed', 'created_at': '2016-08-31T09:18:53Z', 'closed_at': '2016-10-06T21:24:22Z', 'labels': []}
+{'issuenumber': 153, 'title': 'Rendering webcomponents on the server side', 'state': 'closed', 'created_at': '2016-08-21T17:05:06Z', 'closed_at': '2016-09-02T08:37:23Z', 'labels': []}
+{'issuenumber': 152, 'title': 'Hero animations break slightly after scrolling', 'state': 'closed', 'created_at': '2016-08-20T23:34:14Z', 'closed_at': '2021-03-29T00:21:54Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 150, 'title': 'Proposal: Port to TypeScript', 'state': 'closed', 'created_at': '2016-08-16T06:32:40Z', 'closed_at': '2016-12-13T19:24:11Z', 'labels': []}
+{'issuenumber': 148, 'title': 'How to create new components/tags with snabbdom?', 'state': 'closed', 'created_at': '2016-08-03T03:42:51Z', 'closed_at': '2016-08-03T03:53:52Z', 'labels': []}
+{'issuenumber': 147, 'title': 'Missing hook between prepatch and update', 'state': 'closed', 'created_at': '2016-07-31T03:07:13Z', 'closed_at': '2016-08-30T02:04:44Z', 'labels': []}
+{'issuenumber': 145, 'title': 'Developing question', 'state': 'closed', 'created_at': '2016-07-29T04:46:11Z', 'closed_at': '2016-07-29T04:55:11Z', 'labels': []}
+{'issuenumber': 142, 'title': 'Support for comment nodes', 'state': 'closed', 'created_at': '2016-07-26T18:19:54Z', 'closed_at': '2017-02-08T08:47:21Z', 'labels': []}
+{'issuenumber': 141, 'title': 'Support custom elements', 'state': 'closed', 'created_at': '2016-07-26T11:07:34Z', 'closed_at': '2021-02-28T08:25:59Z', 'labels': {'name': 'type:enhancement'}}
+{'issuenumber': 140, 'title': 'SVG Support in IE ', 'state': 'closed', 'created_at': '2016-07-26T08:29:50Z', 'closed_at': '2016-08-05T13:02:38Z', 'labels': []}
+{'issuenumber': 139, 'title': 'Range input rendering bug', 'state': 'closed', 'created_at': '2016-07-25T13:31:10Z', 'closed_at': '2016-09-07T11:00:39Z', 'labels': []}
+{'issuenumber': 138, 'title': 'There is no way to patch element with id and classes without replacing it', 'state': 'closed', 'created_at': '2016-07-23T16:39:01Z', 'closed_at': '2016-07-23T22:08:40Z', 'labels': []}
+{'issuenumber': 136, 'title': 'Release a new version with TypeScript type definitions', 'state': 'closed', 'created_at': '2016-07-21T18:10:26Z', 'closed_at': '2016-07-22T15:33:49Z', 'labels': []}
+{'issuenumber': 132, 'title': 'Question: "fragment" elements', 'state': 'closed', 'created_at': '2016-07-17T04:59:56Z', 'closed_at': '2019-12-20T18:37:11Z', 'labels': {'name': 'type:question'}}
+{'issuenumber': 130, 'title': 'Only update and insert works', 'state': 'closed', 'created_at': '2016-07-11T23:51:57Z', 'closed_at': '2016-07-12T01:13:31Z', 'labels': []}
+{'issuenumber': 129, 'title': 'Question about the emptyVnode passed to the first arg of create hooks', 'state': 'closed', 'created_at': '2016-07-09T09:00:31Z', 'closed_at': '2016-07-09T14:29:33Z', 'labels': []}
+{'issuenumber': 127, 'title': 'README has one tiny problem', 'state': 'closed', 'created_at': '2016-07-03T11:09:43Z', 'closed_at': '2016-07-04T09:38:18Z', 'labels': []}
+{'issuenumber': 126, 'title': 'Support for SVG foreignObject?', 'state': 'closed', 'created_at': '2016-07-01T13:35:23Z', 'closed_at': '2016-07-19T19:14:21Z', 'labels': []}
+{'issuenumber': 124, 'title': 'Allow symbol keys', 'state': 'closed', 'created_at': '2016-06-27T11:47:29Z', 'closed_at': '2021-03-28T18:56:31Z', 'labels': {'name': 'type:enhancement'}}
+{'issuenumber': 123, 'title': 'null / undefined children', 'state': 'closed', 'created_at': '2016-05-30T21:03:51Z', 'closed_at': '2016-05-31T06:13:20Z', 'labels': []}
+{'issuenumber': 113, 'title': 'Explanation about how to build', 'state': 'closed', 'created_at': '2016-05-21T14:48:18Z', 'closed_at': '2017-03-14T19:00:14Z', 'labels': []}
+{'issuenumber': 112, 'title': 'return new vnode on init hook is broken', 'state': 'closed', 'created_at': '2016-05-18T08:27:27Z', 'closed_at': '2016-06-08T10:13:41Z', 'labels': []}
+{'issuenumber': 111, 'title': 'snabbdom@0.5.0 is not published to npm', 'state': 'closed', 'created_at': '2016-05-17T13:40:18Z', 'closed_at': '2016-05-17T13:44:55Z', 'labels': []}
+{'issuenumber': 109, 'title': 'Provide a standalone file', 'state': 'closed', 'created_at': '2016-05-12T11:06:07Z', 'closed_at': '2016-05-28T07:24:48Z', 'labels': []}
+{'issuenumber': 106, 'title': 'Reconcilation problem', 'state': 'closed', 'created_at': '2016-04-22T17:36:01Z', 'closed_at': '2016-09-19T12:16:02Z', 'labels': []}
+{'issuenumber': 105, 'title': 'Raw HTML', 'state': 'closed', 'created_at': '2016-04-22T16:51:03Z', 'closed_at': '2016-07-27T07:50:59Z', 'labels': []}
+{'issuenumber': 104, 'title': 'The new thunk-implementation killed my component-implementation', 'state': 'closed', 'created_at': '2016-04-22T14:15:38Z', 'closed_at': '2016-05-22T17:38:55Z', 'labels': []}
+{'issuenumber': 103, 'title': "classNames in `.sel` and `data.props.className` can't coexist.", 'state': 'closed', 'created_at': '2016-04-21T19:02:19Z', 'closed_at': '2016-04-23T09:51:27Z', 'labels': []}
+{'issuenumber': 98, 'title': '0 as the 3rd argument to helpers is turned into "" :(', 'state': 'closed', 'created_at': '2016-04-15T23:18:00Z', 'closed_at': '2016-04-23T20:52:25Z', 'labels': []}
+{'issuenumber': 93, 'title': 'Skip the function equality check in thunks', 'state': 'closed', 'created_at': '2016-04-05T21:58:51Z', 'closed_at': '2016-04-27T08:35:55Z', 'labels': []}
+{'issuenumber': 92, 'title': 'What is the key property for ?', 'state': 'closed', 'created_at': '2016-03-27T15:08:26Z', 'closed_at': '2016-03-28T14:50:11Z', 'labels': []}
+{'issuenumber': 90, 'title': 'dataset module', 'state': 'closed', 'created_at': '2016-03-25T14:48:38Z', 'closed_at': '2016-03-29T16:05:16Z', 'labels': []}
+{'issuenumber': 89, 'title': 'patch new node will lose my focus on input', 'state': 'closed', 'created_at': '2016-03-25T09:20:11Z', 'closed_at': '2016-10-08T05:59:03Z', 'labels': []}
+{'issuenumber': 87, 'title': 'exposing vtree traversal methods', 'state': 'closed', 'created_at': '2016-03-23T21:10:58Z', 'closed_at': '2016-04-09T18:07:34Z', 'labels': []}
+{'issuenumber': 86, 'title': 'Isomorphic snabbdom', 'state': 'closed', 'created_at': '2016-03-15T11:11:24Z', 'closed_at': '2017-01-12T18:41:09Z', 'labels': []}
+{'issuenumber': 84, 'title': "Won't work with node.js", 'state': 'closed', 'created_at': '2016-03-07T16:41:02Z', 'closed_at': '2016-03-15T08:58:17Z', 'labels': []}
+{'issuenumber': 83, 'title': 'Simplifying API (settings props, content)', 'state': 'closed', 'created_at': '2016-03-07T15:15:26Z', 'closed_at': '2016-04-13T14:01:34Z', 'labels': []}
+{'issuenumber': 82, 'title': "VNodes can't have both text content and children properties", 'state': 'closed', 'created_at': '2016-03-04T19:34:57Z', 'closed_at': '2016-03-16T13:35:02Z', 'labels': []}
+{'issuenumber': 79, 'title': 'Is it possible to add functionality for generator functions ', 'state': 'closed', 'created_at': '2016-02-29T00:33:47Z', 'closed_at': '2016-03-11T18:43:36Z', 'labels': []}
+{'issuenumber': 78, 'title': 'How to get pointer to real element.', 'state': 'closed', 'created_at': '2016-02-26T15:46:58Z', 'closed_at': '2016-03-11T18:40:50Z', 'labels': []}
+{'issuenumber': 76, 'title': 'Suggestion: Ability to use arrays of child-nodes everywhere a single node can be used.', 'state': 'closed', 'created_at': '2016-02-25T15:34:15Z', 'closed_at': '2016-10-12T06:15:07Z', 'labels': []}
+{'issuenumber': 73, 'title': "'mounted' hook", 'state': 'closed', 'created_at': '2016-02-20T22:13:02Z', 'closed_at': '2016-02-21T09:06:28Z', 'labels': []}
+{'issuenumber': 69, 'title': 'Event listening improvements', 'state': 'closed', 'created_at': '2016-02-13T14:17:26Z', 'closed_at': '2017-10-25T08:25:53Z', 'labels': []}
+{'issuenumber': 65, 'title': 'The invocation of insert/remove hooks', 'state': 'closed', 'created_at': '2016-02-11T08:14:21Z', 'closed_at': '2016-02-13T13:46:04Z', 'labels': []}
+{'issuenumber': 64, 'title': "Can't patch elements inside an iframe", 'state': 'closed', 'created_at': '2016-02-11T06:39:31Z', 'closed_at': '2016-02-12T08:57:03Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 63, 'title': 'Save excursion', 'state': 'closed', 'created_at': '2016-02-08T20:45:57Z', 'closed_at': '2016-04-27T08:37:20Z', 'labels': []}
+{'issuenumber': 61, 'title': '/examples/svg/index.html has some extraneous code', 'state': 'closed', 'created_at': '2016-01-29T09:18:12Z', 'closed_at': '2021-02-28T11:22:57Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 58, 'title': 'perf/index.html requires build.js', 'state': 'closed', 'created_at': '2016-01-17T13:12:06Z', 'closed_at': '2017-03-14T18:59:51Z', 'labels': []}
+{'issuenumber': 55, 'title': 'init and prepatch module hooks?', 'state': 'closed', 'created_at': '2016-01-09T23:45:57Z', 'closed_at': '2016-05-24T18:01:04Z', 'labels': []}
+{'issuenumber': 54, 'title': 'vnode init hook not documented', 'state': 'closed', 'created_at': '2016-01-09T23:40:09Z', 'closed_at': '2016-01-26T14:16:50Z', 'labels': []}
+{'issuenumber': 53, 'title': 'Number input not using value properly.', 'state': 'closed', 'created_at': '2016-01-09T14:58:20Z', 'closed_at': '2016-10-08T06:00:33Z', 'labels': []}
+{'issuenumber': 49, 'title': 'Can\'t add to child array from "onmessage" in websockets application.', 'state': 'closed', 'created_at': '2015-12-28T02:02:21Z', 'closed_at': '2016-05-24T18:02:48Z', 'labels': []}
+{'issuenumber': 47, 'title': 'Supporting other platforms other than the DOM', 'state': 'closed', 'created_at': '2015-12-24T00:03:54Z', 'closed_at': '2016-03-03T11:19:35Z', 'labels': []}
+{'issuenumber': 43, 'title': 'Publish 0.2.8 to npm', 'state': 'closed', 'created_at': '2015-12-15T19:33:11Z', 'closed_at': '2015-12-15T19:57:34Z', 'labels': []}
+{'issuenumber': 41, 'title': 'Hero Module - oldVnode not calculating its bounding rectangle', 'state': 'closed', 'created_at': '2015-12-11T21:42:15Z', 'closed_at': '2016-01-04T17:42:16Z', 'labels': []}
+{'issuenumber': 40, 'title': 'Possible issue when nesting thunks', 'state': 'closed', 'created_at': '2015-12-08T09:35:41Z', 'closed_at': '2016-05-24T18:02:25Z', 'labels': []}
+{'issuenumber': 38, 'title': 'Some nodes not delay-removed when `transition-property: all`', 'state': 'closed', 'created_at': '2015-11-22T04:31:52Z', 'closed_at': '2020-08-14T04:48:20Z', 'labels': {'name': 'type:bug'}}
+{'issuenumber': 37, 'title': 'prepatch/postpatch hooks not called on modules', 'state': 'closed', 'created_at': '2015-11-18T12:15:37Z', 'closed_at': '2015-12-31T10:53:58Z', 'labels': []}
+{'issuenumber': 36, 'title': 'Changing the class list appended to an element name causes the element to be removed and recreated', 'state': 'closed', 'created_at': '2015-11-16T03:43:14Z', 'closed_at': '2015-11-18T09:13:28Z', 'labels': []}
+{'issuenumber': 34, 'title': 'eventlisteners module problem with shared data', 'state': 'closed', 'created_at': '2015-11-05T04:48:33Z', 'closed_at': '2015-11-07T21:01:50Z', 'labels': []}
+{'issuenumber': 33, 'title': 'React Native', 'state': 'closed', 'created_at': '2015-10-29T03:01:00Z', 'closed_at': '2015-11-04T07:43:03Z', 'labels': []}
+{'issuenumber': 32, 'title': 'Many Thoughts and Question', 'state': 'closed', 'created_at': '2015-10-28T08:59:16Z', 'closed_at': '2017-04-02T21:51:45Z', 'labels': []}
+{'issuenumber': 31, 'title': 'Snabbdom patches over given container', 'state': 'closed', 'created_at': '2015-10-22T21:26:53Z', 'closed_at': '2015-11-19T09:18:22Z', 'labels': []}
+{'issuenumber': 30, 'title': 'HTML output support', 'state': 'closed', 'created_at': '2015-10-21T21:42:17Z', 'closed_at': '2015-12-17T19:27:58Z', 'labels': []}
+{'issuenumber': 29, 'title': 'virtual-dom thunk equivalent?', 'state': 'closed', 'created_at': '2015-10-21T14:07:58Z', 'closed_at': '2015-10-23T22:25:16Z', 'labels': []}
+{'issuenumber': 28, 'title': 'Real DOM widgets in snabbdom', 'state': 'closed', 'created_at': '2015-10-11T17:20:51Z', 'closed_at': '2015-11-29T10:12:11Z', 'labels': []}
+{'issuenumber': 26, 'title': 'Link to the Functional Architecture examples', 'state': 'closed', 'created_at': '2015-10-07T14:24:07Z', 'closed_at': '2016-02-11T19:17:14Z', 'labels': []}
+{'issuenumber': 25, 'title': 'Expose all hooks for modules', 'state': 'closed', 'created_at': '2015-10-06T07:01:47Z', 'closed_at': '2015-10-07T18:17:26Z', 'labels': []}
+{'issuenumber': 21, 'title': 'style module does not remove old styles', 'state': 'closed', 'created_at': '2015-09-08T01:34:20Z', 'closed_at': '2015-09-10T00:52:00Z', 'labels': []}
+{'issuenumber': 19, 'title': 'Speed vs low memory usage. Which strategy?', 'state': 'closed', 'created_at': '2015-08-21T19:45:04Z', 'closed_at': '2015-09-02T14:30:02Z', 'labels': []}
+{'issuenumber': 17, 'title': 'Build output for code sharing with online playground sites.', 'state': 'closed', 'created_at': '2015-08-17T10:08:22Z', 'closed_at': '2016-10-08T06:02:05Z', 'labels': []}
+{'issuenumber': 16, 'title': 'Support for rendering custom attributes.', 'state': 'closed', 'created_at': '2015-08-17T06:10:49Z', 'closed_at': '2015-08-17T06:52:16Z', 'labels': []}
+{'issuenumber': 14, 'title': 'snabbdom tutorial', 'state': 'closed', 'created_at': '2015-07-28T17:28:41Z', 'closed_at': '2015-08-10T13:07:24Z', 'labels': []}
+{'issuenumber': 13, 'title': 'The event listening module should support passing several arguments to even handlers', 'state': 'closed', 'created_at': '2015-07-15T13:26:23Z', 'closed_at': '2015-07-31T11:20:48Z', 'labels': []}
+{'issuenumber': 12, 'title': 'isDef()', 'state': 'closed', 'created_at': '2015-07-11T10:12:30Z', 'closed_at': '2015-07-13T17:55:07Z', 'labels': []}
+{'issuenumber': 11, 'title': 'partial update', 'state': 'closed', 'created_at': '2015-07-11T09:49:31Z', 'closed_at': '2015-07-11T14:37:48Z', 'labels': []}
+{'issuenumber': 10, 'title': 'Expando property support?', 'state': 'closed', 'created_at': '2015-07-06T18:38:21Z', 'closed_at': '2015-07-31T11:21:44Z', 'labels': []}
+{'issuenumber': 9, 'title': 'Root element is not rendering', 'state': 'closed', 'created_at': '2015-06-27T09:49:58Z', 'closed_at': '2015-07-01T15:55:06Z', 'labels': []}
+{'issuenumber': 7, 'title': 'TodoMvc perfs comparison', 'state': 'closed', 'created_at': '2015-06-20T02:53:45Z', 'closed_at': '2016-05-24T18:01:34Z', 'labels': []}
+{'issuenumber': 6, 'title': 'Support JSX compilation', 'state': 'closed', 'created_at': '2015-06-08T17:11:40Z', 'closed_at': '2015-12-31T12:00:57Z', 'labels': []}
+{'issuenumber': 4, 'title': 'Add svg support', 'state': 'closed', 'created_at': '2015-06-08T03:25:45Z', 'closed_at': '2015-11-27T14:38:21Z', 'labels': {'name': 'type:enhancement'}}

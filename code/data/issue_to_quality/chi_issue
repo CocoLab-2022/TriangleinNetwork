@@ -1,0 +1,396 @@
+{'issuenumber': 729, 'title': 'http router vs. chi router strange thing between using local CSS file link and CDN link in template file.', 'state': 'closed', 'created_at': '2022-05-25T08:16:07Z', 'closed_at': '2022-05-25T15:16:43Z', 'labels': []}
+{'issuenumber': 727, 'title': 'chi.RouteContext retuns nil', 'state': 'closed', 'created_at': '2022-05-15T10:32:56Z', 'closed_at': '2022-07-07T02:14:36Z', 'labels': []}
+{'issuenumber': 724, 'title': 'Support NO_COLOR', 'state': 'closed', 'created_at': '2022-05-03T15:58:38Z', 'closed_at': '2022-07-07T02:15:11Z', 'labels': []}
+{'issuenumber': 721, 'title': 'Advertised CLOC is not right', 'state': 'closed', 'created_at': '2022-04-13T08:03:31Z', 'closed_at': '2022-04-13T08:10:37Z', 'labels': []}
+{'issuenumber': 716, 'title': 'Mux methods `Routes` and `Mount` are not safe for concurrent use', 'state': 'closed', 'created_at': '2022-03-21T16:07:08Z', 'closed_at': '2022-03-24T13:02:59Z', 'labels': []}
+{'issuenumber': 715, 'title': 'feat: HTTP cache implementation as middleware.', 'state': 'closed', 'created_at': '2022-03-20T00:24:01Z', 'closed_at': '2022-03-24T12:59:53Z', 'labels': []}
+{'issuenumber': 712, 'title': 'Ambiguities re middlewares after routes', 'state': 'closed', 'created_at': '2022-03-17T09:46:54Z', 'closed_at': '2022-03-17T21:27:25Z', 'labels': []}
+{'issuenumber': 709, 'title': 'RFC Add r.Redirect(pattern, url, code)', 'state': 'closed', 'created_at': '2022-02-25T00:59:31Z', 'closed_at': '2022-04-18T08:32:22Z', 'labels': []}
+{'issuenumber': 707, 'title': 'Unused extra param of the logger middleware', 'state': 'closed', 'created_at': '2022-02-17T14:27:18Z', 'closed_at': '2022-04-18T08:31:02Z', 'labels': []}
+{'issuenumber': 706, 'title': 'File serving from a different url wont work when serving from sub router', 'state': 'closed', 'created_at': '2022-02-15T12:46:22Z', 'closed_at': '2022-02-15T13:01:13Z', 'labels': []}
+{'issuenumber': 704, 'title': '431 too large headers size?', 'state': 'closed', 'created_at': '2022-02-04T18:11:36Z', 'closed_at': '2022-02-06T21:37:12Z', 'labels': []}
+{'issuenumber': 703, 'title': 'Why name it `URLParam()`?', 'state': 'closed', 'created_at': '2022-02-02T11:49:18Z', 'closed_at': '2022-02-06T21:35:03Z', 'labels': []}
+{'issuenumber': 702, 'title': 'Go Chi documentation example outdated?', 'state': 'closed', 'created_at': '2022-01-29T20:12:12Z', 'closed_at': '2022-02-08T00:08:10Z', 'labels': []}
+{'issuenumber': 697, 'title': 'heartbeat middleware response', 'state': 'closed', 'created_at': '2022-01-08T18:19:48Z', 'closed_at': '2022-02-06T21:36:46Z', 'labels': []}
+{'issuenumber': 692, 'title': 'how to get full router path in middleware?', 'state': 'closed', 'created_at': '2021-12-28T03:31:10Z', 'closed_at': '2022-01-03T18:16:11Z', 'labels': []}
+{'issuenumber': 690, 'title': 'Error getting v5 using go get or when importing in go file', 'state': 'closed', 'created_at': '2021-12-26T12:10:43Z', 'closed_at': '2021-12-28T01:42:14Z', 'labels': []}
+{'issuenumber': 689, 'title': 'docs: example code of AllowContentType has typo', 'state': 'closed', 'created_at': '2021-12-17T18:46:31Z', 'closed_at': '2022-01-03T18:26:24Z', 'labels': []}
+{'issuenumber': 687, 'title': 'No error on redeclared routes', 'state': 'closed', 'created_at': '2021-12-16T12:56:20Z', 'closed_at': '2022-01-03T18:28:19Z', 'labels': []}
+{'issuenumber': 683, 'title': 'panic: runtime error: invalid memory address or nil pointer dereference DataDog (maybe)', 'state': 'closed', 'created_at': '2021-11-24T11:18:45Z', 'closed_at': '2021-12-18T01:12:55Z', 'labels': []}
+{'issuenumber': 682, 'title': 'Support debug mode like Gin', 'state': 'closed', 'created_at': '2021-11-24T02:05:50Z', 'closed_at': '2021-11-25T03:26:16Z', 'labels': []}
+{'issuenumber': 681, 'title': 'Incorrect code snippet for AllowContentType middleware on go-chi.io ', 'state': 'closed', 'created_at': '2021-11-23T15:54:24Z', 'closed_at': '2022-01-03T18:26:40Z', 'labels': []}
+{'issuenumber': 680, 'title': 'dedupe/deduplicate middleware', 'state': 'closed', 'created_at': '2021-11-23T11:00:52Z', 'closed_at': '2021-11-24T12:48:03Z', 'labels': []}
+{'issuenumber': 679, 'title': 'remove route for some pattern', 'state': 'closed', 'created_at': '2021-11-19T21:02:14Z', 'closed_at': '2021-11-24T12:47:22Z', 'labels': []}
+{'issuenumber': 676, 'title': 'Trailing slash with (*chi.Context).RoutePattern()', 'state': 'closed', 'created_at': '2021-11-12T14:43:24Z', 'closed_at': '2022-01-03T18:57:33Z', 'labels': []}
+{'issuenumber': 674, 'title': 'ignore case in path elementes', 'state': 'closed', 'created_at': '2021-11-05T23:30:07Z', 'closed_at': '2021-11-06T10:56:46Z', 'labels': []}
+{'issuenumber': 673, 'title': 'Regex OR not matching correctly', 'state': 'closed', 'created_at': '2021-11-03T15:04:36Z', 'closed_at': '2022-01-03T18:48:40Z', 'labels': []}
+{'issuenumber': 672, 'title': 'How to separate routes into route package?', 'state': 'closed', 'created_at': '2021-11-03T11:50:21Z', 'closed_at': '2021-11-03T14:36:16Z', 'labels': []}
+{'issuenumber': 671, 'title': 'Bug in request ID middleware for prefix generation', 'state': 'closed', 'created_at': '2021-10-25T04:34:27Z', 'closed_at': '2021-10-25T10:40:43Z', 'labels': []}
+{'issuenumber': 670, 'title': 'In what order does (*Mux).With execute middleware?', 'state': 'closed', 'created_at': '2021-10-24T08:06:42Z', 'closed_at': '2021-10-25T10:46:42Z', 'labels': []}
+{'issuenumber': 669, 'title': 'How do I redirect to 404 for nested when I have wild card root serving static react', 'state': 'closed', 'created_at': '2021-10-23T00:52:54Z', 'closed_at': '2021-10-27T11:22:26Z', 'labels': []}
+{'issuenumber': 668, 'title': 'Calling (*T).Fatal() inside a goroutine in mux_test.go', 'state': 'closed', 'created_at': '2021-10-21T23:54:46Z', 'closed_at': '2022-01-03T18:20:30Z', 'labels': []}
+{'issuenumber': 667, 'title': 'Are these benchmarks correctly?', 'state': 'closed', 'created_at': '2021-10-21T15:35:34Z', 'closed_at': '2021-10-21T16:36:42Z', 'labels': []}
+{'issuenumber': 666, 'title': 'websocket status code dose not record', 'state': 'closed', 'created_at': '2021-10-19T02:42:55Z', 'closed_at': '2021-10-19T07:14:28Z', 'labels': []}
+{'issuenumber': 664, 'title': 'Add simple validation on RealIP middleware', 'state': 'closed', 'created_at': '2021-10-10T17:36:54Z', 'closed_at': '2022-01-03T18:36:13Z', 'labels': []}
+{'issuenumber': 663, 'title': 'Misuse of mount results in infinite loop when calling unregistered method', 'state': 'closed', 'created_at': '2021-10-07T10:58:55Z', 'closed_at': '2022-01-03T18:34:21Z', 'labels': []}
+{'issuenumber': 662, 'title': 'Small typo in comment', 'state': 'closed', 'created_at': '2021-10-07T10:14:31Z', 'closed_at': '2021-11-08T11:15:27Z', 'labels': []}
+{'issuenumber': 658, 'title': 'Middleware not applied in v5.0.4 :scream: ', 'state': 'closed', 'created_at': '2021-09-15T09:56:24Z', 'closed_at': '2021-09-15T13:28:56Z', 'labels': []}
+{'issuenumber': 657, 'title': 'any luck with full route pattern retrieving?', 'state': 'closed', 'created_at': '2021-09-11T00:40:10Z', 'closed_at': '2021-09-15T10:07:04Z', 'labels': []}
+{'issuenumber': 656, 'title': 'New oAuth 2.0 middleware', 'state': 'closed', 'created_at': '2021-09-02T04:37:20Z', 'closed_at': '2021-09-02T17:33:14Z', 'labels': []}
+{'issuenumber': 655, 'title': 'Adding new keys/value to the log entry with the logging middleware ', 'state': 'closed', 'created_at': '2021-09-01T07:39:25Z', 'closed_at': '2022-01-03T18:49:24Z', 'labels': []}
+{'issuenumber': 652, 'title': "Getting 'unexpected EOF' error frequently while reading r.Body()", 'state': 'closed', 'created_at': '2021-08-27T17:39:42Z', 'closed_at': '2021-08-29T02:45:58Z', 'labels': []}
+{'issuenumber': 649, 'title': 'docs/user_guide/routing.md', 'state': 'closed', 'created_at': '2021-08-24T03:29:18Z', 'closed_at': '2021-08-29T02:45:43Z', 'labels': []}
+{'issuenumber': 643, 'title': 'Something is broken with Go 1.16.4+', 'state': 'closed', 'created_at': '2021-08-07T15:23:12Z', 'closed_at': '2021-08-07T15:30:21Z', 'labels': []}
+{'issuenumber': 638, 'title': 'Not Found result for defined url', 'state': 'closed', 'created_at': '2021-07-14T13:10:56Z', 'closed_at': '2022-01-03T18:33:23Z', 'labels': []}
+{'issuenumber': 635, 'title': 'Rendering 404 html page for "NotFound" method doesn\'t generate static files. Why does this happen?', 'state': 'closed', 'created_at': '2021-07-10T01:20:57Z', 'closed_at': '2022-01-03T18:32:24Z', 'labels': []}
+{'issuenumber': 634, 'title': 'Is there anyway to attach a middleware to a particular route on a router, and not to the router itself?', 'state': 'closed', 'created_at': '2021-07-03T22:50:56Z', 'closed_at': '2021-07-05T12:48:23Z', 'labels': []}
+{'issuenumber': 630, 'title': '[Suggestion] Clarification in docs about potential docgen error?', 'state': 'closed', 'created_at': '2021-06-19T17:03:48Z', 'closed_at': '2021-07-05T12:50:45Z', 'labels': []}
+{'issuenumber': 628, 'title': 'Customize Context', 'state': 'closed', 'created_at': '2021-06-14T11:56:01Z', 'closed_at': '2021-06-14T21:54:10Z', 'labels': []}
+{'issuenumber': 627, 'title': 'How do I listen for syscall.SIGINT', 'state': 'closed', 'created_at': '2021-06-08T18:56:12Z', 'closed_at': '2021-06-08T20:23:22Z', 'labels': []}
+{'issuenumber': 623, 'title': 'SubRoutes for chi.Context', 'state': 'closed', 'created_at': '2021-05-23T20:10:14Z', 'closed_at': '2022-01-03T18:31:34Z', 'labels': []}
+{'issuenumber': 622, 'title': 'A middleware which converts all http.Error calls to JSON', 'state': 'closed', 'created_at': '2021-05-22T10:14:49Z', 'closed_at': '2021-06-08T14:03:44Z', 'labels': []}
+{'issuenumber': 621, 'title': 'Consider enabling GitHub discussions for go-chi/chi repo', 'state': 'closed', 'created_at': '2021-05-13T15:10:07Z', 'closed_at': '2021-06-08T15:52:51Z', 'labels': []}
+{'issuenumber': 620, 'title': 'Multiple HTTP Verbs Matching Methods', 'state': 'closed', 'created_at': '2021-05-08T00:31:42Z', 'closed_at': '2021-05-08T01:36:13Z', 'labels': []}
+{'issuenumber': 619, 'title': 'Static extension pattern in url param is not working as expected', 'state': 'closed', 'created_at': '2021-05-03T19:56:48Z', 'closed_at': '2021-05-04T10:04:34Z', 'labels': []}
+{'issuenumber': 617, 'title': 'logger: alexedwards/scs combined with gorilla/websocket', 'state': 'closed', 'created_at': '2021-04-28T10:57:39Z', 'closed_at': '2021-04-29T15:34:15Z', 'labels': []}
+{'issuenumber': 616, 'title': 'standalone path matching lib', 'state': 'closed', 'created_at': '2021-04-27T06:57:14Z', 'closed_at': '2021-04-27T13:43:19Z', 'labels': []}
+{'issuenumber': 615, 'title': 'Opencensus tracing middleware', 'state': 'closed', 'created_at': '2021-04-22T10:59:59Z', 'closed_at': '2021-04-25T11:16:04Z', 'labels': []}
+{'issuenumber': 612, 'title': 'Sub-Router not handling Root /', 'state': 'closed', 'created_at': '2021-04-15T06:29:04Z', 'closed_at': '2021-04-15T10:01:06Z', 'labels': []}
+{'issuenumber': 610, 'title': '*scs.bufferedResponseWriter is not io.ReaderFrom: missing method ReadFrom', 'state': 'closed', 'created_at': '2021-04-07T08:25:30Z', 'closed_at': '2021-05-04T10:00:35Z', 'labels': []}
+{'issuenumber': 607, 'title': 'Context Parameter Question', 'state': 'closed', 'created_at': '2021-03-25T13:40:18Z', 'closed_at': '2021-03-25T20:10:36Z', 'labels': []}
+{'issuenumber': 602, 'title': 'Allow custom HTTP methods like PURGE', 'state': 'closed', 'created_at': '2021-03-11T12:24:31Z', 'closed_at': '2021-03-11T12:35:24Z', 'labels': []}
+{'issuenumber': 600, 'title': 'GO1.16 is too new for Google Cloud App Engine Standard', 'state': 'closed', 'created_at': '2021-03-08T01:38:13Z', 'closed_at': '2021-03-12T14:00:20Z', 'labels': []}
+{'issuenumber': 598, 'title': 'favicon.ico', 'state': 'closed', 'created_at': '2021-03-07T08:39:52Z', 'closed_at': '2021-03-07T12:06:21Z', 'labels': []}
+{'issuenumber': 597, 'title': 'GO1.16 is too new for Google Cloud App Engine Standard', 'state': 'closed', 'created_at': '2021-03-07T07:53:38Z', 'closed_at': '2021-03-07T12:44:50Z', 'labels': []}
+{'issuenumber': 595, 'title': 'open redirect vulnerability', 'state': 'closed', 'created_at': '2021-03-01T18:21:02Z', 'closed_at': '2021-03-08T14:01:48Z', 'labels': []}
+{'issuenumber': 594, 'title': 'question: return 404 if the request link end with `/`', 'state': 'closed', 'created_at': '2021-03-01T15:33:24Z', 'closed_at': '2021-03-02T15:43:48Z', 'labels': []}
+{'issuenumber': 592, 'title': 'GoLand cannot resolve newest version of chi', 'state': 'closed', 'created_at': '2021-02-28T12:31:35Z', 'closed_at': '2021-02-28T14:41:28Z', 'labels': []}
+{'issuenumber': 588, 'title': 'middleware: recoverer ignores http.ErrAbortHandler', 'state': 'closed', 'created_at': '2021-02-24T13:04:14Z', 'closed_at': '2022-01-03T23:04:38Z', 'labels': []}
+{'issuenumber': 587, 'title': 'Possible regression in 1.5.2: middleware got instantiated and invoked twice', 'state': 'closed', 'created_at': '2021-02-23T03:20:19Z', 'closed_at': '2021-03-25T12:56:33Z', 'labels': []}
+{'issuenumber': 585, 'title': 'How to disable fileserver directory listings?', 'state': 'closed', 'created_at': '2021-02-18T15:25:46Z', 'closed_at': '2021-02-18T16:12:56Z', 'labels': []}
+{'issuenumber': 583, 'title': 'httptest.ResponseRecorder incompatible with Logger in chi v1.5.2+ (including v5.0.2)', 'state': 'closed', 'created_at': '2021-02-15T19:35:18Z', 'closed_at': '2021-04-25T11:30:31Z', 'labels': []}
+{'issuenumber': 582, 'title': 'Using r.Use(middleware.Logger) breaks w.(http.CloseNotifier).CloseNotify()', 'state': 'closed', 'created_at': '2021-02-13T06:15:04Z', 'closed_at': '2022-01-03T18:30:26Z', 'labels': []}
+{'issuenumber': 578, 'title': 'URL parameters with hyphens divided by hyphens', 'state': 'closed', 'created_at': '2021-02-05T16:29:18Z', 'closed_at': '2021-02-08T13:51:55Z', 'labels': []}
+{'issuenumber': 576, 'title': 'TestMuxContextIsThreadSafe occasional crash', 'state': 'closed', 'created_at': '2021-01-27T06:51:25Z', 'closed_at': '2021-02-10T19:31:32Z', 'labels': []}
+{'issuenumber': 574, 'title': 'Serving static files and rendering HTML pages', 'state': 'closed', 'created_at': '2021-01-22T07:59:16Z', 'closed_at': '2021-02-06T01:30:49Z', 'labels': []}
+{'issuenumber': 572, 'title': 'Test segfaulting on x86_64: invalid memory address or nil pointer dereference', 'state': 'closed', 'created_at': '2021-01-14T17:07:18Z', 'closed_at': '2021-01-14T17:33:57Z', 'labels': []}
+{'issuenumber': 569, 'title': "path regex won't match slashes routes even the any digit {.*} regex is used", 'state': 'closed', 'created_at': '2020-12-29T03:10:29Z', 'closed_at': '2021-01-05T18:31:51Z', 'labels': []}
+{'issuenumber': 568, 'title': 'Is possible to handle subdomains with chi?', 'state': 'closed', 'created_at': '2020-12-26T18:51:56Z', 'closed_at': '2021-01-05T18:31:13Z', 'labels': []}
+{'issuenumber': 566, 'title': 'URL param containing slashes', 'state': 'closed', 'created_at': '2020-12-24T15:02:07Z', 'closed_at': '2020-12-24T16:48:58Z', 'labels': []}
+{'issuenumber': 564, 'title': 'Feature request: expose native handler lookup', 'state': 'closed', 'created_at': '2020-12-19T04:17:27Z', 'closed_at': '2020-12-19T15:54:33Z', 'labels': []}
+{'issuenumber': 563, 'title': 'How can I deploy my API made with Chi?', 'state': 'closed', 'created_at': '2020-12-17T19:10:15Z', 'closed_at': '2020-12-23T17:43:36Z', 'labels': []}
+{'issuenumber': 561, 'title': 'chi@v1.5.x mod issues', 'state': 'closed', 'created_at': '2020-12-07T00:02:16Z', 'closed_at': '2021-02-28T12:55:18Z', 'labels': []}
+{'issuenumber': 558, 'title': 'Cleaning the Request URL?', 'state': 'closed', 'created_at': '2020-11-29T19:53:34Z', 'closed_at': '2020-11-29T20:39:04Z', 'labels': []}
+{'issuenumber': 557, 'title': 'If no any handler defined, then all middlewares will be ignored but it should not.', 'state': 'closed', 'created_at': '2020-11-28T15:32:27Z', 'closed_at': '2020-11-29T20:25:27Z', 'labels': []}
+{'issuenumber': 556, 'title': 'Ambiguous trailing slash matching', 'state': 'closed', 'created_at': '2020-11-26T15:34:45Z', 'closed_at': '2020-11-29T20:44:24Z', 'labels': []}
+{'issuenumber': 551, 'title': 'Empty path param always passes regexp validation', 'state': 'closed', 'created_at': '2020-11-14T23:30:57Z', 'closed_at': '2020-12-24T17:28:06Z', 'labels': []}
+{'issuenumber': 550, 'title': 'Wildcard "*" behaves unexpectedly when used in conjunction with a nested router which has url parameters.', 'state': 'closed', 'created_at': '2020-11-13T23:10:46Z', 'closed_at': '2020-11-25T02:12:54Z', 'labels': []}
+{'issuenumber': 548, 'title': 'Global middleware not invoked on not found and method not allowed handler', 'state': 'closed', 'created_at': '2020-11-04T19:03:31Z', 'closed_at': '2020-11-24T14:23:59Z', 'labels': []}
+{'issuenumber': 547, 'title': 'Sub Domain Example', 'state': 'closed', 'created_at': '2020-10-24T00:25:56Z', 'closed_at': '2020-10-24T20:13:48Z', 'labels': []}
+{'issuenumber': 544, 'title': 'NewWrapResponseWriter: http.Hijacker not wrapped in flushWriter', 'state': 'closed', 'created_at': '2020-10-07T14:00:10Z', 'closed_at': '2020-10-07T15:22:22Z', 'labels': []}
+{'issuenumber': 543, 'title': 'Reliance on io.ReaderFrom from unexposed `response` in net/http', 'state': 'closed', 'created_at': '2020-10-05T14:36:33Z', 'closed_at': '2022-01-03T18:41:17Z', 'labels': []}
+{'issuenumber': 540, 'title': '[Question] Naming the route', 'state': 'closed', 'created_at': '2020-09-21T19:28:35Z', 'closed_at': '2020-09-26T12:56:22Z', 'labels': []}
+{'issuenumber': 538, 'title': 'ANSI colour escape codes not working on windows (middleware.Logger)', 'state': 'closed', 'created_at': '2020-09-04T23:31:52Z', 'closed_at': '2020-12-05T18:38:04Z', 'labels': []}
+{'issuenumber': 536, 'title': 'RealIP allows any value, including non-IP addresses and private IP addresses', 'state': 'closed', 'created_at': '2020-08-29T01:39:58Z', 'closed_at': '2022-01-03T18:37:54Z', 'labels': []}
+{'issuenumber': 535, 'title': 'Is chi still being maintained?', 'state': 'closed', 'created_at': '2020-08-28T11:32:53Z', 'closed_at': '2020-08-28T13:19:45Z', 'labels': []}
+{'issuenumber': 532, 'title': 'Hangs on panic in handler', 'state': 'closed', 'created_at': '2020-07-21T12:06:09Z', 'closed_at': '2020-07-21T12:09:36Z', 'labels': []}
+{'issuenumber': 530, 'title': 'URLFormat chops at the First dot rather than the last dot.', 'state': 'closed', 'created_at': '2020-07-12T18:58:54Z', 'closed_at': '2020-12-05T15:37:38Z', 'labels': []}
+{'issuenumber': 527, 'title': 'Should I use a LimitReader?', 'state': 'closed', 'created_at': '2020-07-02T22:43:24Z', 'closed_at': '2020-07-03T03:31:23Z', 'labels': []}
+{'issuenumber': 526, 'title': 'Using two handlers for a GraphQL project; handle query with the second one if the first one is not capable of', 'state': 'closed', 'created_at': '2020-07-02T13:22:11Z', 'closed_at': '2020-07-02T13:29:14Z', 'labels': []}
+{'issuenumber': 524, 'title': 'What is the recommended way to pass values between middlewares?', 'state': 'closed', 'created_at': '2020-06-30T18:08:09Z', 'closed_at': '2020-07-08T12:15:00Z', 'labels': []}
+{'issuenumber': 522, 'title': 'CSRF Protection middleware.', 'state': 'closed', 'created_at': '2020-06-23T14:07:34Z', 'closed_at': '2020-06-23T14:29:18Z', 'labels': []}
+{'issuenumber': 521, 'title': 'How to use URLParam in integration tests?', 'state': 'closed', 'created_at': '2020-06-22T10:14:22Z', 'closed_at': '2020-06-22T11:05:12Z', 'labels': []}
+{'issuenumber': 520, 'title': 'Is this code the same in terms of performances? .Get(), .Post() or .Handle()', 'state': 'closed', 'created_at': '2020-06-21T12:58:11Z', 'closed_at': '2020-06-21T15:04:35Z', 'labels': []}
+{'issuenumber': 513, 'title': 'Why does fileserver need to check public containing "{}*" in _examples/fileserver?', 'state': 'closed', 'created_at': '2020-05-24T06:53:57Z', 'closed_at': '2020-05-30T21:34:07Z', 'labels': []}
+{'issuenumber': 510, 'title': 'Logger for Routes', 'state': 'closed', 'created_at': '2020-05-08T01:40:44Z', 'closed_at': '2020-05-09T19:10:07Z', 'labels': []}
+{'issuenumber': 509, 'title': 'ServerBaseContext suppresses original request context cancellation signal', 'state': 'closed', 'created_at': '2020-05-02T10:25:24Z', 'closed_at': '2020-12-05T19:59:33Z', 'labels': []}
+{'issuenumber': 508, 'title': 'Public API change introduced without bumping MAJOR', 'state': 'closed', 'created_at': '2020-04-21T15:23:20Z', 'closed_at': '2020-04-21T17:13:33Z', 'labels': []}
+{'issuenumber': 507, 'title': 'Match patterns ', 'state': 'closed', 'created_at': '2020-04-18T19:59:41Z', 'closed_at': '2020-05-09T19:47:44Z', 'labels': []}
+{'issuenumber': 504, 'title': 'Redirect error in RedirectSlashes', 'state': 'closed', 'created_at': '2020-04-15T15:38:40Z', 'closed_at': '2020-12-05T19:07:23Z', 'labels': []}
+{'issuenumber': 502, 'title': 'Incorrect middleware calling behavior inside Group', 'state': 'closed', 'created_at': '2020-04-10T13:47:52Z', 'closed_at': '2020-04-12T15:30:05Z', 'labels': []}
+{'issuenumber': 501, 'title': 'Hi, what is the coverage about this repo?', 'state': 'closed', 'created_at': '2020-04-08T14:41:57Z', 'closed_at': '2020-04-08T15:14:15Z', 'labels': []}
+{'issuenumber': 500, 'title': 'Breaking API change in 4.1.0 release (middleware.LogEntry interface)', 'state': 'closed', 'created_at': '2020-04-02T11:45:27Z', 'closed_at': '2020-04-02T12:42:16Z', 'labels': []}
+{'issuenumber': 499, 'title': 'Lowercase-urlencoded url template variables not decoded', 'state': 'closed', 'created_at': '2020-03-31T21:24:53Z', 'closed_at': '2020-04-01T18:50:31Z', 'labels': []}
+{'issuenumber': 498, 'title': 'redirect http to https?', 'state': 'closed', 'created_at': '2020-03-31T16:40:34Z', 'closed_at': '2020-04-02T18:44:21Z', 'labels': []}
+{'issuenumber': 497, 'title': 'Breaking API change in 4.0.4 release (middleware.DefaultCompress)', 'state': 'closed', 'created_at': '2020-03-31T11:42:07Z', 'closed_at': '2020-04-02T18:43:43Z', 'labels': []}
+{'issuenumber': 494, 'title': 'Proper way of creating a subrouter', 'state': 'closed', 'created_at': '2020-03-01T16:22:58Z', 'closed_at': '2020-03-01T21:05:20Z', 'labels': []}
+{'issuenumber': 492, 'title': 'Required path parameters requires regular expressions', 'state': 'closed', 'created_at': '2020-02-21T21:03:34Z', 'closed_at': '2020-02-22T11:37:46Z', 'labels': []}
+{'issuenumber': 491, 'title': 'websocket + chi', 'state': 'closed', 'created_at': '2020-02-17T10:57:35Z', 'closed_at': '2020-02-20T03:28:50Z', 'labels': []}
+{'issuenumber': 490, 'title': 'go: github.com/go-chi/chi/v4@v4.1.0;410 Gone', 'state': 'closed', 'created_at': '2020-02-11T15:33:39Z', 'closed_at': '2020-02-11T15:58:11Z', 'labels': []}
+{'issuenumber': 489, 'title': 'How about HTTP/2 support?', 'state': 'closed', 'created_at': '2020-02-10T19:16:51Z', 'closed_at': '2020-02-10T19:27:04Z', 'labels': []}
+{'issuenumber': 487, 'title': 'http: superfluous response.WriteHeader ', 'state': 'closed', 'created_at': '2020-01-31T19:23:41Z', 'closed_at': '2020-02-04T02:27:48Z', 'labels': []}
+{'issuenumber': 486, 'title': 'implement chaining of middleware with route method', 'state': 'closed', 'created_at': '2020-01-24T15:22:01Z', 'closed_at': '2020-01-24T16:31:22Z', 'labels': []}
+{'issuenumber': 484, 'title': 'rewrite of compressor breaks DX (for me)', 'state': 'closed', 'created_at': '2020-01-22T15:50:07Z', 'closed_at': '2020-01-22T16:17:48Z', 'labels': []}
+{'issuenumber': 482, 'title': 'middleware.logger - support http.Hijacker interface ', 'state': 'closed', 'created_at': '2020-01-09T18:52:17Z', 'closed_at': '2020-01-09T19:23:55Z', 'labels': []}
+{'issuenumber': 481, 'title': 'Scheme and Host in r.Url empty', 'state': 'closed', 'created_at': '2020-01-01T09:29:45Z', 'closed_at': '2020-01-09T01:41:26Z', 'labels': []}
+{'issuenumber': 480, 'title': 'Remove/replace routes', 'state': 'closed', 'created_at': '2019-12-30T19:55:21Z', 'closed_at': '2020-01-09T01:52:15Z', 'labels': []}
+{'issuenumber': 479, 'title': 'not compatible with "golang.org/x/net/webdav"', 'state': 'closed', 'created_at': '2019-12-24T09:23:18Z', 'closed_at': '2019-12-24T10:01:38Z', 'labels': []}
+{'issuenumber': 478, 'title': 'Best practices for unit testing', 'state': 'closed', 'created_at': '2019-12-22T23:29:14Z', 'closed_at': '2020-01-09T01:41:56Z', 'labels': []}
+{'issuenumber': 468, 'title': "Middleware calling chi.URLParam doesn't get params from nested routes?", 'state': 'closed', 'created_at': '2019-11-10T05:36:08Z', 'closed_at': '2019-11-20T03:04:26Z', 'labels': []}
+{'issuenumber': 467, 'title': ' recieve  axios  post  josn data   is <nil>  ', 'state': 'closed', 'created_at': '2019-11-03T03:38:53Z', 'closed_at': '2019-11-07T14:09:59Z', 'labels': []}
+{'issuenumber': 464, 'title': 'How do i make a logger middleware that will log successful request and error returned by http handler?', 'state': 'closed', 'created_at': '2019-10-29T12:45:53Z', 'closed_at': '2019-10-31T10:35:26Z', 'labels': []}
+{'issuenumber': 463, 'title': 'How do i use reverse Url?', 'state': 'closed', 'created_at': '2019-10-24T04:17:34Z', 'closed_at': '2019-10-31T10:36:06Z', 'labels': []}
+{'issuenumber': 462, 'title': "What's up with go module support?", 'state': 'closed', 'created_at': '2019-10-17T04:26:37Z', 'closed_at': '2020-12-06T18:50:45Z', 'labels': []}
+{'issuenumber': 458, 'title': 'Wildcard route overriding group', 'state': 'closed', 'created_at': '2019-10-13T05:52:23Z', 'closed_at': '2020-01-09T03:00:13Z', 'labels': []}
+{'issuenumber': 457, 'title': 'router.Route still run middlewares when no endpoint matched', 'state': 'closed', 'created_at': '2019-10-11T17:15:48Z', 'closed_at': '2019-10-14T06:30:51Z', 'labels': []}
+{'issuenumber': 452, 'title': 'What are you doing if you have a middleware with autorization in this block?', 'state': 'closed', 'created_at': '2019-09-10T13:38:58Z', 'closed_at': '2019-09-10T13:40:28Z', 'labels': []}
+{'issuenumber': 450, 'title': 'Can add an example of gacefully restart (hot restart) ?', 'state': 'closed', 'created_at': '2019-09-05T04:01:29Z', 'closed_at': '2019-09-05T14:12:04Z', 'labels': []}
+{'issuenumber': 448, 'title': 'Throttle middleware timer issue', 'state': 'closed', 'created_at': '2019-08-22T03:35:49Z', 'closed_at': '2019-10-03T10:11:00Z', 'labels': []}
+{'issuenumber': 447, 'title': 'Router HandleFunc method does not match http.ServeMux', 'state': 'closed', 'created_at': '2019-08-20T23:49:20Z', 'closed_at': '2019-08-21T00:09:22Z', 'labels': []}
+{'issuenumber': 446, 'title': 'Include Allow header in 405 Method Not Allowed response', 'state': 'closed', 'created_at': '2019-08-20T09:22:12Z', 'closed_at': '2020-01-09T01:46:23Z', 'labels': []}
+{'issuenumber': 445, 'title': 'chi with App Engine?', 'state': 'closed', 'created_at': '2019-08-19T16:57:48Z', 'closed_at': '2019-08-19T18:15:11Z', 'labels': []}
+{'issuenumber': 443, 'title': 'is there support session middleware?', 'state': 'closed', 'created_at': '2019-08-16T03:24:15Z', 'closed_at': '2019-08-16T13:42:33Z', 'labels': []}
+{'issuenumber': 442, 'title': 'File server path name and conflict with Route()', 'state': 'closed', 'created_at': '2019-08-12T16:07:48Z', 'closed_at': '2019-08-12T19:27:59Z', 'labels': []}
+{'issuenumber': 441, 'title': 'Regex pattern matching more than one param within the same path segment', 'state': 'closed', 'created_at': '2019-08-12T15:36:30Z', 'closed_at': '2019-08-12T16:02:45Z', 'labels': []}
+{'issuenumber': 434, 'title': 'Is the project still active?', 'state': 'closed', 'created_at': '2019-07-14T13:07:40Z', 'closed_at': '2019-07-14T15:17:21Z', 'labels': []}
+{'issuenumber': 432, 'title': 'Accept content-type wildcards for compress middleware', 'state': 'closed', 'created_at': '2019-07-13T10:57:23Z', 'closed_at': '2020-01-11T21:19:17Z', 'labels': []}
+{'issuenumber': 431, 'title': 'Different TTY detection', 'state': 'closed', 'created_at': '2019-07-04T11:36:25Z', 'closed_at': '2019-08-07T01:15:49Z', 'labels': []}
+{'issuenumber': 430, 'title': 'Unresolved reference "Use"', 'state': 'closed', 'created_at': '2019-07-01T18:22:10Z', 'closed_at': '2019-07-01T20:55:27Z', 'labels': []}
+{'issuenumber': 429, 'title': 'Default URL handling changing when middleware.URLFormat is loaded', 'state': 'closed', 'created_at': '2019-06-19T13:13:18Z', 'closed_at': '2019-06-30T14:41:59Z', 'labels': []}
+{'issuenumber': 428, 'title': 'middleware not downloading for v4.0.2', 'state': 'closed', 'created_at': '2019-06-13T11:18:12Z', 'closed_at': '2019-06-13T14:08:48Z', 'labels': []}
+{'issuenumber': 426, 'title': 'URLParam need to check is nil or not', 'state': 'closed', 'created_at': '2019-05-28T06:13:08Z', 'closed_at': '2020-01-09T02:56:46Z', 'labels': []}
+{'issuenumber': 424, 'title': 'Question: Get Handler func name', 'state': 'closed', 'created_at': '2019-05-18T22:33:37Z', 'closed_at': '2020-01-09T02:10:23Z', 'labels': []}
+{'issuenumber': 423, 'title': 'Router API simplification', 'state': 'closed', 'created_at': '2019-05-08T12:44:05Z', 'closed_at': '2019-05-08T14:26:28Z', 'labels': []}
+{'issuenumber': 421, 'title': 'RedirectSlashes should use 307-Temporary redirect', 'state': 'closed', 'created_at': '2019-04-30T16:49:19Z', 'closed_at': '2020-01-09T03:18:33Z', 'labels': []}
+{'issuenumber': 420, 'title': 'Heartbeat improvements', 'state': 'closed', 'created_at': '2019-04-30T16:40:33Z', 'closed_at': '2019-08-13T13:36:42Z', 'labels': []}
+{'issuenumber': 419, 'title': 'Does Route match by itself', 'state': 'closed', 'created_at': '2019-04-25T00:56:06Z', 'closed_at': '2019-08-22T15:52:06Z', 'labels': []}
+{'issuenumber': 416, 'title': 'rest handlefunc not getting called', 'state': 'closed', 'created_at': '2019-04-09T22:52:19Z', 'closed_at': '2020-01-09T01:52:41Z', 'labels': []}
+{'issuenumber': 415, 'title': 'add handler while server already running', 'state': 'closed', 'created_at': '2019-04-09T13:02:38Z', 'closed_at': '2019-04-19T06:39:55Z', 'labels': []}
+{'issuenumber': 411, 'title': 'regexp route nested wrongly -> no routing', 'state': 'closed', 'created_at': '2019-03-13T09:10:01Z', 'closed_at': '2020-04-16T12:10:38Z', 'labels': []}
+{'issuenumber': 409, 'title': 'Middleware.Compress breaks images (and possibly more?)', 'state': 'closed', 'created_at': '2019-03-09T10:51:39Z', 'closed_at': '2019-05-08T14:17:40Z', 'labels': []}
+{'issuenumber': 408, 'title': 'realip.go: X-Forwarded-For should take last address, not first ', 'state': 'closed', 'created_at': '2019-03-08T10:14:28Z', 'closed_at': '2020-01-11T00:17:31Z', 'labels': []}
+{'issuenumber': 407, 'title': 'Throttle Middleware Routing issue', 'state': 'closed', 'created_at': '2019-03-07T16:38:47Z', 'closed_at': '2019-10-03T10:28:43Z', 'labels': []}
+{'issuenumber': 405, 'title': 'Is there any plan to support `default` tag of stuct?', 'state': 'closed', 'created_at': '2019-03-04T01:37:58Z', 'closed_at': '2019-03-04T15:30:04Z', 'labels': []}
+{'issuenumber': 404, 'title': 'Failing to get "address" query string', 'state': 'closed', 'created_at': '2019-03-02T04:06:32Z', 'closed_at': '2019-03-02T04:49:30Z', 'labels': []}
+{'issuenumber': 403, 'title': 'How to fileserve for all requests?', 'state': 'closed', 'created_at': '2019-03-01T11:58:28Z', 'closed_at': '2019-03-02T11:17:24Z', 'labels': []}
+{'issuenumber': 399, 'title': 'Does it support access to static resources?', 'state': 'closed', 'created_at': '2019-02-26T09:17:17Z', 'closed_at': '2019-02-26T10:05:56Z', 'labels': []}
+{'issuenumber': 397, 'title': 'rewrite Compress middleware', 'state': 'closed', 'created_at': '2019-02-24T20:16:18Z', 'closed_at': '2019-02-27T01:12:56Z', 'labels': []}
+{'issuenumber': 396, 'title': 'Compress, weird behaviour', 'state': 'closed', 'created_at': '2019-02-24T14:32:36Z', 'closed_at': '2019-02-24T16:16:52Z', 'labels': []}
+{'issuenumber': 394, 'title': 'Question: HTTP Status Code', 'state': 'closed', 'created_at': '2019-02-19T17:54:14Z', 'closed_at': '2019-02-20T13:36:55Z', 'labels': []}
+{'issuenumber': 393, 'title': 'HandlerFunc always returns 200 OK', 'state': 'closed', 'created_at': '2019-02-19T15:13:47Z', 'closed_at': '2019-02-19T16:04:33Z', 'labels': []}
+{'issuenumber': 389, 'title': 'Using the profile middleware with a router other then debug', 'state': 'closed', 'created_at': '2019-01-24T15:14:30Z', 'closed_at': '2019-03-06T13:18:50Z', 'labels': []}
+{'issuenumber': 388, 'title': 'wildcard characters in regex now fail', 'state': 'closed', 'created_at': '2019-01-24T03:30:44Z', 'closed_at': '2019-02-24T16:35:36Z', 'labels': []}
+{'issuenumber': 385, 'title': "Redirect doesn't work after v4.0.0-rc1 ", 'state': 'closed', 'created_at': '2019-01-17T16:02:10Z', 'closed_at': '2019-01-21T05:05:29Z', 'labels': []}
+{'issuenumber': 382, 'title': 'Compression Middleware needs to check status code', 'state': 'closed', 'created_at': '2019-01-11T16:27:33Z', 'closed_at': '2019-01-17T22:36:33Z', 'labels': []}
+{'issuenumber': 381, 'title': 'cannot find package', 'state': 'closed', 'created_at': '2019-01-09T13:46:02Z', 'closed_at': '2019-01-09T14:33:13Z', 'labels': []}
+{'issuenumber': 376, 'title': 'filepath.Clean for fileserver example?', 'state': 'closed', 'created_at': '2019-01-02T23:04:43Z', 'closed_at': '2019-01-08T17:59:37Z', 'labels': []}
+{'issuenumber': 375, 'title': 'How to access keys in Context?', 'state': 'closed', 'created_at': '2018-12-31T14:19:33Z', 'closed_at': '2019-01-08T17:58:54Z', 'labels': []}
+{'issuenumber': 373, 'title': 'radical changes', 'state': 'closed', 'created_at': '2018-12-27T11:15:17Z', 'closed_at': '2019-01-08T01:50:05Z', 'labels': []}
+{'issuenumber': 372, 'title': 'Env var to force colored log?', 'state': 'closed', 'created_at': '2018-12-26T17:08:22Z', 'closed_at': '2019-01-08T01:50:56Z', 'labels': []}
+{'issuenumber': 368, 'title': 'Sending the Request ID to Caller', 'state': 'closed', 'created_at': '2018-11-28T17:02:53Z', 'closed_at': '2019-01-08T01:51:54Z', 'labels': []}
+{'issuenumber': 366, 'title': 'Bring supported versions inline with Go release policy', 'state': 'closed', 'created_at': '2018-11-27T14:53:28Z', 'closed_at': '2019-01-09T14:33:20Z', 'labels': []}
+{'issuenumber': 365, 'title': 'How to use different ReadTimeout WriteTimeout and TimeoutHandler for different routes?', 'state': 'closed', 'created_at': '2018-11-27T08:22:55Z', 'closed_at': '2018-11-27T19:42:24Z', 'labels': []}
+{'issuenumber': 362, 'title': 'Chi should not panic when no routes', 'state': 'closed', 'created_at': '2018-11-26T12:40:57Z', 'closed_at': '2019-01-09T14:32:46Z', 'labels': []}
+{'issuenumber': 361, 'title': 'In special cases, 500 internal server error', 'state': 'closed', 'created_at': '2018-11-22T20:38:39Z', 'closed_at': '2018-11-22T22:15:19Z', 'labels': []}
+{'issuenumber': 360, 'title': "regex router doesn't match static file", 'state': 'closed', 'created_at': '2018-11-20T02:51:36Z', 'closed_at': '2019-02-24T16:42:22Z', 'labels': []}
+{'issuenumber': 359, 'title': 'How to handle "invalid" characters in request body', 'state': 'closed', 'created_at': '2018-11-16T12:35:26Z', 'closed_at': '2018-11-17T09:37:51Z', 'labels': []}
+{'issuenumber': 357, 'title': 'Double slash ignores regex in Route', 'state': 'closed', 'created_at': '2018-11-11T12:08:01Z', 'closed_at': '2020-01-09T02:58:28Z', 'labels': []}
+{'issuenumber': 355, 'title': 'PUT route being processed as GET', 'state': 'closed', 'created_at': '2018-10-25T15:42:48Z', 'closed_at': '2018-10-27T00:29:54Z', 'labels': []}
+{'issuenumber': 354, 'title': 'Differences between Group, Mount, and Route and inner workings of Group?', 'state': 'closed', 'created_at': '2018-10-19T13:47:07Z', 'closed_at': '2018-10-23T01:43:58Z', 'labels': []}
+{'issuenumber': 352, 'title': 'Is it possible to know the matched pattern inside a handler?', 'state': 'closed', 'created_at': '2018-10-18T10:46:18Z', 'closed_at': '2018-10-19T01:06:46Z', 'labels': []}
+{'issuenumber': 350, 'title': 'How to get route inside middleware go-chi', 'state': 'closed', 'created_at': '2018-10-09T04:39:18Z', 'closed_at': '2018-10-09T07:18:48Z', 'labels': []}
+{'issuenumber': 349, 'title': "Cannot import any version above 3.0.0 using 'dep' package manager", 'state': 'closed', 'created_at': '2018-10-01T21:22:57Z', 'closed_at': '2018-10-02T22:44:29Z', 'labels': []}
+{'issuenumber': 347, 'title': 'http.CloseNotifier is deprecated', 'state': 'closed', 'created_at': '2018-08-28T13:57:45Z', 'closed_at': '2019-01-09T14:32:47Z', 'labels': []}
+{'issuenumber': 344, 'title': 'Giving empty URL parameter returns 404', 'state': 'closed', 'created_at': '2018-08-22T12:45:09Z', 'closed_at': '2018-08-24T09:09:14Z', 'labels': []}
+{'issuenumber': 343, 'title': 'Redirect slashes middleware should be documented to be incompatible with http.FileServer', 'state': 'closed', 'created_at': '2018-08-20T07:54:23Z', 'closed_at': '2019-01-08T20:10:00Z', 'labels': []}
+{'issuenumber': 342, 'title': 'It is unclear how to obtain POST form values.', 'state': 'closed', 'created_at': '2018-08-16T11:56:23Z', 'closed_at': '2018-08-28T14:01:10Z', 'labels': []}
+{'issuenumber': 340, 'title': "RedirectSlashes doesn't recognize and skips the prefix pattern in mux#Route scope.", 'state': 'closed', 'created_at': '2018-08-11T19:52:43Z', 'closed_at': '2019-01-08T20:03:38Z', 'labels': []}
+{'issuenumber': 339, 'title': 'Missing url param when use `func(http.Handler) http.Handler` returning middleware', 'state': 'closed', 'created_at': '2018-08-10T13:20:44Z', 'closed_at': '2018-08-11T13:08:35Z', 'labels': []}
+{'issuenumber': 338, 'title': 'Can not efficiently wrap Router to process and replace all Handlers', 'state': 'closed', 'created_at': '2018-08-08T12:29:42Z', 'closed_at': '2018-08-14T07:55:40Z', 'labels': []}
+{'issuenumber': 336, 'title': 'Cannot combine handlers with a matching Route', 'state': 'closed', 'created_at': '2018-08-07T17:28:02Z', 'closed_at': '2020-12-05T15:24:03Z', 'labels': []}
+{'issuenumber': 335, 'title': 'how do i serve html templates?', 'state': 'closed', 'created_at': '2018-08-01T07:37:20Z', 'closed_at': '2018-08-16T15:22:25Z', 'labels': []}
+{'issuenumber': 334, 'title': 'Redirect slashes drops the Query params', 'state': 'closed', 'created_at': '2018-07-24T16:25:25Z', 'closed_at': '2019-01-08T20:09:45Z', 'labels': []}
+{'issuenumber': 333, 'title': 'Wildcard must be the last pattern in a route but it is not enforced in some cases', 'state': 'closed', 'created_at': '2018-07-18T22:20:00Z', 'closed_at': '2019-01-08T19:45:44Z', 'labels': []}
+{'issuenumber': 332, 'title': 'Feature request: add the possibility to print registered routes for debug purposes', 'state': 'closed', 'created_at': '2018-07-10T14:57:01Z', 'closed_at': '2020-01-09T01:53:30Z', 'labels': []}
+{'issuenumber': 331, 'title': 'Mistake in REST example?', 'state': 'closed', 'created_at': '2018-07-04T16:01:02Z', 'closed_at': '2018-07-10T13:44:08Z', 'labels': []}
+{'issuenumber': 330, 'title': 'Run time panic when compiling with vgo', 'state': 'closed', 'created_at': '2018-07-03T21:48:01Z', 'closed_at': '2018-07-03T22:01:35Z', 'labels': []}
+{'issuenumber': 329, 'title': 'examples for rest are obsolete', 'state': 'closed', 'created_at': '2018-07-03T15:22:35Z', 'closed_at': '2018-07-03T15:36:39Z', 'labels': []}
+{'issuenumber': 325, 'title': 'Cant use regex to match routes with and without trailing slash', 'state': 'closed', 'created_at': '2018-06-23T09:17:52Z', 'closed_at': '2018-06-24T12:38:43Z', 'labels': []}
+{'issuenumber': 324, 'title': "RedirectSlashes & StripSlashes don't work?", 'state': 'closed', 'created_at': '2018-06-23T06:49:55Z', 'closed_at': '2018-06-23T09:00:33Z', 'labels': []}
+{'issuenumber': 322, 'title': 'HandleFunc() has different signature than stdlib Mux', 'state': 'closed', 'created_at': '2018-06-21T15:03:12Z', 'closed_at': '2018-08-29T14:00:48Z', 'labels': []}
+{'issuenumber': 321, 'title': 'Head in FileServer', 'state': 'closed', 'created_at': '2018-06-08T12:47:42Z', 'closed_at': '2018-10-06T14:13:32Z', 'labels': []}
+{'issuenumber': 320, 'title': 'Feature Request: Add URL param/query helpers', 'state': 'closed', 'created_at': '2018-05-14T16:07:47Z', 'closed_at': '2018-07-10T13:40:25Z', 'labels': []}
+{'issuenumber': 319, 'title': 'URLParam() returns the parameter until the "." (dot)', 'state': 'closed', 'created_at': '2018-05-10T17:25:04Z', 'closed_at': '2018-09-05T07:23:38Z', 'labels': []}
+{'issuenumber': 316, 'title': 'Incorrect route matching with URL parameter', 'state': 'closed', 'created_at': '2018-04-24T11:03:29Z', 'closed_at': '2018-04-24T11:06:35Z', 'labels': []}
+{'issuenumber': 315, 'title': 'Limit the number of concurrent connections / memory', 'state': 'closed', 'created_at': '2018-04-24T03:20:09Z', 'closed_at': '2018-04-25T03:06:13Z', 'labels': []}
+{'issuenumber': 314, 'title': 'Panic/nil pointer dereference in example.', 'state': 'closed', 'created_at': '2018-04-20T19:11:30Z', 'closed_at': '2018-07-10T13:45:14Z', 'labels': []}
+{'issuenumber': 313, 'title': 'panic when identical patterns are registered', 'state': 'closed', 'created_at': '2018-04-13T17:14:54Z', 'closed_at': '2018-04-14T15:59:04Z', 'labels': []}
+{'issuenumber': 312, 'title': 'Add ozzo-routing to benchmarking & steal some ideas from it to make chi faster', 'state': 'closed', 'created_at': '2018-04-05T15:51:26Z', 'closed_at': '2018-04-14T16:04:12Z', 'labels': []}
+{'issuenumber': 311, 'title': 'Custom Handler, error in field value', 'state': 'closed', 'created_at': '2018-04-05T10:21:36Z', 'closed_at': '2018-04-05T11:54:41Z', 'labels': []}
+{'issuenumber': 310, 'title': 'Walk mis-reports sub-router routes', 'state': 'closed', 'created_at': '2018-04-04T16:30:53Z', 'closed_at': '2020-01-11T00:23:58Z', 'labels': []}
+{'issuenumber': 309, 'title': 'Inconsistent behaviour for middleware.StripSlashes ', 'state': 'closed', 'created_at': '2018-04-04T12:02:41Z', 'closed_at': '2018-04-04T13:28:06Z', 'labels': []}
+{'issuenumber': 308, 'title': 'Group not working or ambiguously described', 'state': 'closed', 'created_at': '2018-03-18T20:55:18Z', 'closed_at': '2018-03-19T01:05:30Z', 'labels': []}
+{'issuenumber': 306, 'title': 'Compress: reduce GC overhead by using sync.Pool', 'state': 'closed', 'created_at': '2018-03-15T02:04:01Z', 'closed_at': '2019-02-27T01:14:34Z', 'labels': []}
+{'issuenumber': 305, 'title': '[Feature request] Add a flag to log request payload in logging middleware', 'state': 'closed', 'created_at': '2018-03-12T13:46:18Z', 'closed_at': '2018-03-18T18:03:18Z', 'labels': []}
+{'issuenumber': 304, 'title': 'Wrapping Chi for testability and composition', 'state': 'closed', 'created_at': '2018-03-11T02:11:32Z', 'closed_at': '2018-03-19T01:06:19Z', 'labels': []}
+{'issuenumber': 302, 'title': 'Add go.mod file', 'state': 'closed', 'created_at': '2018-02-22T22:00:41Z', 'closed_at': '2019-01-09T16:17:06Z', 'labels': []}
+{'issuenumber': 301, 'title': "MethodNotAllowed still doesn't work.", 'state': 'closed', 'created_at': '2018-02-12T06:39:45Z', 'closed_at': '2018-02-12T07:28:07Z', 'labels': []}
+{'issuenumber': 297, 'title': 'Mux.With does not copy custom handlers', 'state': 'closed', 'created_at': '2018-02-01T13:47:00Z', 'closed_at': '2020-01-11T01:06:00Z', 'labels': []}
+{'issuenumber': 296, 'title': '`chi.URLParam` may get wrong result', 'state': 'closed', 'created_at': '2018-01-30T11:53:42Z', 'closed_at': '2019-01-08T17:46:47Z', 'labels': []}
+{'issuenumber': 295, 'title': 'Should AllowContentType middleware skip checks for empty requests?', 'state': 'closed', 'created_at': '2018-01-30T01:04:00Z', 'closed_at': '2019-02-24T15:55:53Z', 'labels': []}
+{'issuenumber': 294, 'title': 'Adding middleware to specific rest methods under a route', 'state': 'closed', 'created_at': '2018-01-25T23:17:30Z', 'closed_at': '2018-01-27T05:01:08Z', 'labels': []}
+{'issuenumber': 293, 'title': 'The future of chi after Pressly being merged', 'state': 'closed', 'created_at': '2018-01-23T22:25:29Z', 'closed_at': '2018-01-24T15:54:42Z', 'labels': []}
+{'issuenumber': 292, 'title': 'Middlewares called on NotFound handler', 'state': 'closed', 'created_at': '2018-01-19T01:19:30Z', 'closed_at': '2018-01-27T04:30:49Z', 'labels': []}
+{'issuenumber': 291, 'title': 'Question: Static routes and dynamic routes, which one will win?', 'state': 'closed', 'created_at': '2018-01-16T17:03:35Z', 'closed_at': '2018-01-20T17:42:21Z', 'labels': []}
+{'issuenumber': 290, 'title': 'Weird characters when logging to text file', 'state': 'closed', 'created_at': '2018-01-15T18:56:09Z', 'closed_at': '2018-02-02T13:40:05Z', 'labels': []}
+{'issuenumber': 284, 'title': '2017/11/29 10:28:47 http: panic serving 127.0.0.1:39972: interface conversion: interface {} is nil, not *chi.Context', 'state': 'closed', 'created_at': '2017-11-29T02:35:18Z', 'closed_at': '2017-11-29T14:56:58Z', 'labels': []}
+{'issuenumber': 282, 'title': '[Proposal]Change of RequestID using X-Request-ID Header', 'state': 'closed', 'created_at': '2017-11-26T12:57:24Z', 'closed_at': '2017-11-27T16:20:56Z', 'labels': []}
+{'issuenumber': 280, 'title': 'Is this `WriteHeader(http.StatusOK)` necessary?', 'state': 'closed', 'created_at': '2017-11-22T04:13:31Z', 'closed_at': '2017-11-24T20:05:20Z', 'labels': []}
+{'issuenumber': 278, 'title': 'pprof endpoints should not be hardcoded', 'state': 'closed', 'created_at': '2017-11-14T15:57:08Z', 'closed_at': '2017-11-15T18:47:41Z', 'labels': []}
+{'issuenumber': 277, 'title': 'Panic on empty path segments in request', 'state': 'closed', 'created_at': '2017-11-11T14:10:06Z', 'closed_at': '2017-11-20T15:10:25Z', 'labels': []}
+{'issuenumber': 274, 'title': 'Logger throws 500 on websockets.', 'state': 'closed', 'created_at': '2017-10-24T15:18:36Z', 'closed_at': '2017-10-27T01:16:59Z', 'labels': []}
+{'issuenumber': 270, 'title': 'RoutePattern at middleware level?', 'state': 'closed', 'created_at': '2017-10-10T13:41:33Z', 'closed_at': '2017-10-10T18:48:07Z', 'labels': []}
+{'issuenumber': 269, 'title': 'Matching routes by Request.URL.Host', 'state': 'closed', 'created_at': '2017-10-10T11:50:40Z', 'closed_at': '2017-10-10T12:08:35Z', 'labels': []}
+{'issuenumber': 267, 'title': 'Any chance of adding an appengine build target?', 'state': 'closed', 'created_at': '2017-10-05T04:01:17Z', 'closed_at': '2017-10-06T07:04:20Z', 'labels': []}
+{'issuenumber': 264, 'title': 'Accept LOCK and UNLOCK methods?', 'state': 'closed', 'created_at': '2017-09-25T16:49:45Z', 'closed_at': '2017-10-10T21:28:23Z', 'labels': []}
+{'issuenumber': 263, 'title': "cors middleware doesn't work with subgroup", 'state': 'closed', 'created_at': '2017-09-25T02:25:14Z', 'closed_at': '2017-09-29T21:00:02Z', 'labels': []}
+{'issuenumber': 262, 'title': 'can not open `debug/pprof` use chi middleware profiler ', 'state': 'closed', 'created_at': '2017-09-21T10:58:25Z', 'closed_at': '2017-10-13T04:10:27Z', 'labels': []}
+{'issuenumber': 261, 'title': 'Variable shadowing in examples', 'state': 'closed', 'created_at': '2017-09-17T11:29:37Z', 'closed_at': '2017-09-18T00:14:17Z', 'labels': []}
+{'issuenumber': 260, 'title': "Mount() doesn't match root path of the sub-router", 'state': 'closed', 'created_at': '2017-09-13T17:12:27Z', 'closed_at': '2018-01-06T02:11:47Z', 'labels': []}
+{'issuenumber': 257, 'title': 'querystring?', 'state': 'closed', 'created_at': '2017-09-05T05:38:07Z', 'closed_at': '2017-09-05T10:56:05Z', 'labels': []}
+{'issuenumber': 256, 'title': 'pronunciation?', 'state': 'closed', 'created_at': '2017-09-02T01:01:19Z', 'closed_at': '2017-09-02T01:19:51Z', 'labels': []}
+{'issuenumber': 253, 'title': 'Using unsupported method', 'state': 'closed', 'created_at': '2017-08-28T12:33:31Z', 'closed_at': '2017-08-28T14:10:28Z', 'labels': []}
+{'issuenumber': 252, 'title': 'Error 404 whenever using URL parameters', 'state': 'closed', 'created_at': '2017-08-27T02:49:42Z', 'closed_at': '2017-08-28T14:13:34Z', 'labels': []}
+{'issuenumber': 251, 'title': 'Question: How to use StripSlashes in a Group', 'state': 'closed', 'created_at': '2017-08-25T19:56:24Z', 'closed_at': '2017-08-25T20:17:52Z', 'labels': []}
+{'issuenumber': 250, 'title': 'How to avoid globals in middlewares (ArticleCtx example) ?', 'state': 'closed', 'created_at': '2017-08-25T17:35:21Z', 'closed_at': '2017-08-25T17:51:17Z', 'labels': []}
+{'issuenumber': 246, 'title': 'chi router get parent route', 'state': 'closed', 'created_at': '2017-08-17T18:53:17Z', 'closed_at': '2017-08-18T18:00:34Z', 'labels': []}
+{'issuenumber': 244, 'title': 'Is it possible to have routing based on header value using chi/mux?', 'state': 'closed', 'created_at': '2017-08-14T15:03:10Z', 'closed_at': '2017-08-14T17:15:10Z', 'labels': []}
+{'issuenumber': 243, 'title': 'Routes nested arbitrarily deep or matching slashes', 'state': 'closed', 'created_at': '2017-08-11T13:19:29Z', 'closed_at': '2020-01-11T01:27:35Z', 'labels': []}
+{'issuenumber': 242, 'title': 'How do people pronounce this library?', 'state': 'closed', 'created_at': '2017-08-09T09:24:29Z', 'closed_at': '2017-08-09T14:58:14Z', 'labels': []}
+{'issuenumber': 240, 'title': 'Panic on RouterContext', 'state': 'closed', 'created_at': '2017-08-03T21:58:21Z', 'closed_at': '2017-08-05T09:30:08Z', 'labels': []}
+{'issuenumber': 239, 'title': '*Mux.Handle fails where identical http.Handle works with no problem', 'state': 'closed', 'created_at': '2017-08-02T07:17:47Z', 'closed_at': '2017-08-03T14:22:11Z', 'labels': []}
+{'issuenumber': 238, 'title': 'HEAD for GET routes', 'state': 'closed', 'created_at': '2017-08-01T21:33:08Z', 'closed_at': '2017-09-01T01:52:22Z', 'labels': []}
+{'issuenumber': 236, 'title': 'Can not use gopkg.in/cas.v1 in chi? How?', 'state': 'closed', 'created_at': '2017-07-26T11:53:44Z', 'closed_at': '2017-07-26T14:06:40Z', 'labels': []}
+{'issuenumber': 233, 'title': 'httpFancyWriter.ReadFrom not recording bytes written', 'state': 'closed', 'created_at': '2017-07-20T18:24:15Z', 'closed_at': '2017-07-24T22:01:15Z', 'labels': []}
+{'issuenumber': 232, 'title': 'In REST example you pass *chi.Mux to docgen.MarkdownRoutesDoc', 'state': 'closed', 'created_at': '2017-07-18T23:02:31Z', 'closed_at': '2017-07-19T12:19:54Z', 'labels': []}
+{'issuenumber': 231, 'title': '"go.uber.org/zap" instead of logrus', 'state': 'closed', 'created_at': '2017-07-17T10:59:07Z', 'closed_at': '2017-07-17T11:31:12Z', 'labels': []}
+{'issuenumber': 230, 'title': 'Support route pattern quantity match (i.e. curly braces in regex expression)', 'state': 'closed', 'created_at': '2017-07-15T20:25:00Z', 'closed_at': '2017-08-17T16:09:07Z', 'labels': []}
+{'issuenumber': 227, 'title': 'What happened with pressly/chi?', 'state': 'closed', 'created_at': '2017-07-11T06:49:19Z', 'closed_at': '2017-07-11T12:05:43Z', 'labels': []}
+{'issuenumber': 226, 'title': 'Generate API in Swagger format', 'state': 'closed', 'created_at': '2017-07-09T21:10:42Z', 'closed_at': '2017-07-09T22:49:15Z', 'labels': []}
+{'issuenumber': 225, 'title': 'A lot of docgen functions are not documented', 'state': 'closed', 'created_at': '2017-07-09T20:59:48Z', 'closed_at': '2017-07-10T07:45:27Z', 'labels': []}
+{'issuenumber': 221, 'title': 'Routing context using different URLParam name', 'state': 'closed', 'created_at': '2017-06-30T17:58:24Z', 'closed_at': '2017-06-30T18:11:57Z', 'labels': []}
+{'issuenumber': 220, 'title': 'HTTP method routing bug with overlapping static and parameter paths', 'state': 'closed', 'created_at': '2017-06-30T15:02:03Z', 'closed_at': '2017-07-09T23:17:40Z', 'labels': []}
+{'issuenumber': 219, 'title': 'Is Travis not used anymore?', 'state': 'closed', 'created_at': '2017-06-29T10:46:19Z', 'closed_at': '2017-06-29T14:35:51Z', 'labels': []}
+{'issuenumber': 217, 'title': 'Parameter with suffix fails to match', 'state': 'closed', 'created_at': '2017-06-29T09:05:49Z', 'closed_at': '2017-07-03T18:35:30Z', 'labels': []}
+{'issuenumber': 215, 'title': 'Suffix to variable match', 'state': 'closed', 'created_at': '2017-06-28T06:55:07Z', 'closed_at': '2017-06-28T14:30:39Z', 'labels': []}
+{'issuenumber': 214, 'title': 'Just a Chinese translate!', 'state': 'closed', 'created_at': '2017-06-27T04:14:22Z', 'closed_at': '2017-06-27T07:25:10Z', 'labels': []}
+{'issuenumber': 212, 'title': "Proposal: Split render out into it's own package", 'state': 'closed', 'created_at': '2017-06-26T06:59:53Z', 'closed_at': '2017-07-04T19:53:48Z', 'labels': []}
+{'issuenumber': 211, 'title': 'Allow to range on UrlParams', 'state': 'closed', 'created_at': '2017-06-25T15:20:50Z', 'closed_at': '2017-07-08T22:14:51Z', 'labels': []}
+{'issuenumber': 210, 'title': 'Just curious: why the org is changed?', 'state': 'closed', 'created_at': '2017-06-24T14:28:11Z', 'closed_at': '2017-06-26T11:05:34Z', 'labels': []}
+{'issuenumber': 209, 'title': 'Building urls from named routes', 'state': 'closed', 'created_at': '2017-06-24T08:38:40Z', 'closed_at': '2020-04-16T12:24:46Z', 'labels': []}
+{'issuenumber': 205, 'title': "r.Use(render.SetContentType(render.ContentTypeJSON)) from the 'rest' example", 'state': 'closed', 'created_at': '2017-06-13T13:48:34Z', 'closed_at': '2017-06-13T22:16:33Z', 'labels': []}
+{'issuenumber': 204, 'title': 'gzip', 'state': 'closed', 'created_at': '2017-06-12T16:53:44Z', 'closed_at': '2017-06-21T14:47:01Z', 'labels': []}
+{'issuenumber': 203, 'title': 'Custom handlers', 'state': 'closed', 'created_at': '2017-06-11T02:04:25Z', 'closed_at': '2017-06-14T10:07:27Z', 'labels': []}
+{'issuenumber': 202, 'title': 'How to handle file upload?', 'state': 'closed', 'created_at': '2017-06-01T03:29:51Z', 'closed_at': '2017-06-01T13:36:11Z', 'labels': []}
+{'issuenumber': 200, 'title': 'Question: Is it possible to get the executed Handler through middleware?', 'state': 'closed', 'created_at': '2017-05-30T07:51:04Z', 'closed_at': '2017-05-30T12:50:26Z', 'labels': []}
+{'issuenumber': 199, 'title': 'Chi pronunciation?', 'state': 'closed', 'created_at': '2017-05-22T07:50:05Z', 'closed_at': '2017-05-22T15:32:08Z', 'labels': []}
+{'issuenumber': 198, 'title': 'Proper Use of Timeout middleware', 'state': 'closed', 'created_at': '2017-05-16T14:00:30Z', 'closed_at': '2017-05-16T15:17:17Z', 'labels': []}
+{'issuenumber': 197, 'title': 'Compress middleware typo', 'state': 'closed', 'created_at': '2017-05-15T11:42:45Z', 'closed_at': '2017-05-15T13:38:51Z', 'labels': []}
+{'issuenumber': 194, 'title': 'Content Type application/json should not have a charset attribute', 'state': 'closed', 'created_at': '2017-05-12T19:11:37Z', 'closed_at': '2017-05-13T18:23:34Z', 'labels': []}
+{'issuenumber': 193, 'title': 'http: multiple response.WriteHeader calls if called render.Status and json encode failed', 'state': 'closed', 'created_at': '2017-05-12T08:21:33Z', 'closed_at': '2017-05-13T18:37:10Z', 'labels': []}
+{'issuenumber': 191, 'title': 'Use casbin as the authorization plugin for chi', 'state': 'closed', 'created_at': '2017-05-12T01:46:40Z', 'closed_at': '2017-05-13T18:42:32Z', 'labels': []}
+{'issuenumber': 190, 'title': 'chi.FileServer does not server index.html when asking explicitly for it', 'state': 'closed', 'created_at': '2017-05-03T07:31:35Z', 'closed_at': '2017-05-03T11:19:35Z', 'labels': []}
+{'issuenumber': 189, 'title': 'StripSlashes middleware prohibits FileServer', 'state': 'closed', 'created_at': '2017-05-02T15:48:48Z', 'closed_at': '2017-05-02T15:50:43Z', 'labels': []}
+{'issuenumber': 188, 'title': 'Using FileServer with a middleware is inconvenient', 'state': 'closed', 'created_at': '2017-05-02T12:24:49Z', 'closed_at': '2017-05-02T15:51:09Z', 'labels': []}
+{'issuenumber': 186, 'title': 'Proper way to query URL params?', 'state': 'closed', 'created_at': '2017-05-01T01:12:25Z', 'closed_at': '2017-05-02T01:09:51Z', 'labels': []}
+{'issuenumber': 185, 'title': 'DefaultDecoder misses typical parameters such as charset', 'state': 'closed', 'created_at': '2017-04-30T19:15:42Z', 'closed_at': '2017-06-11T01:55:20Z', 'labels': []}
+{'issuenumber': 184, 'title': 'NotFound is ignored for FileServer', 'state': 'closed', 'created_at': '2017-04-26T08:33:10Z', 'closed_at': '2017-04-26T13:18:01Z', 'labels': []}
+{'issuenumber': 181, 'title': "REST example doens't work.", 'state': 'closed', 'created_at': '2017-04-17T21:10:01Z', 'closed_at': '2017-04-17T21:10:44Z', 'labels': []}
+{'issuenumber': 180, 'title': 'Cannot figure out how to use docgen', 'state': 'closed', 'created_at': '2017-04-12T22:21:42Z', 'closed_at': '2017-04-13T13:49:30Z', 'labels': []}
+{'issuenumber': 179, 'title': 'chi v3 roadmap', 'state': 'closed', 'created_at': '2017-04-12T13:56:51Z', 'closed_at': '2017-06-21T14:47:31Z', 'labels': []}
+{'issuenumber': 178, 'title': 'Question: Hashtag in URL after Google oAuth callback', 'state': 'closed', 'created_at': '2017-04-08T00:05:57Z', 'closed_at': '2017-04-08T14:05:49Z', 'labels': []}
+{'issuenumber': 177, 'title': 'Routing and rendering based on media type/content type negotiation', 'state': 'closed', 'created_at': '2017-04-07T17:42:49Z', 'closed_at': '2017-11-21T15:53:38Z', 'labels': []}
+{'issuenumber': 176, 'title': 'Route http.Handler on specific HTTP method?', 'state': 'closed', 'created_at': '2017-04-07T08:02:16Z', 'closed_at': '2017-06-21T14:49:43Z', 'labels': []}
+{'issuenumber': 175, 'title': 'NoCache not properly working', 'state': 'closed', 'created_at': '2017-03-30T11:12:37Z', 'closed_at': '2017-06-21T18:46:10Z', 'labels': []}
+{'issuenumber': 174, 'title': 'Named wildcard params', 'state': 'closed', 'created_at': '2017-03-29T13:37:01Z', 'closed_at': '2017-06-21T14:49:56Z', 'labels': []}
+{'issuenumber': 171, 'title': "NotFound and MethodNotAllowed still doesn't work in some cases", 'state': 'closed', 'created_at': '2017-03-20T07:00:51Z', 'closed_at': '2017-03-20T14:38:18Z', 'labels': []}
+{'issuenumber': 170, 'title': 'Is there a way to mount a Server-Sent Event server along side other routes in Chi?', 'state': 'closed', 'created_at': '2017-03-18T19:43:19Z', 'closed_at': '2017-03-20T14:39:03Z', 'labels': []}
+{'issuenumber': 169, 'title': "Weird behaviour inside 'Group'", 'state': 'closed', 'created_at': '2017-03-18T14:32:58Z', 'closed_at': '2017-03-18T18:45:11Z', 'labels': []}
+{'issuenumber': 167, 'title': 'Delimit url param names by . in addition to /', 'state': 'closed', 'created_at': '2017-03-09T23:52:21Z', 'closed_at': '2017-06-21T14:50:16Z', 'labels': []}
+{'issuenumber': 166, 'title': 'Make api call inside middleware', 'state': 'closed', 'created_at': '2017-03-07T14:17:53Z', 'closed_at': '2017-03-07T14:22:51Z', 'labels': []}
+{'issuenumber': 165, 'title': 'Reverse proxy not working', 'state': 'closed', 'created_at': '2017-03-05T05:16:15Z', 'closed_at': '2017-03-06T14:58:19Z', 'labels': []}
+{'issuenumber': 164, 'title': 'Strange 404 handling', 'state': 'closed', 'created_at': '2017-03-01T16:36:52Z', 'closed_at': '2017-03-18T18:45:20Z', 'labels': []}
+{'issuenumber': 163, 'title': 'Middlewares not called on NotFound handler', 'state': 'closed', 'created_at': '2017-03-01T13:26:42Z', 'closed_at': '2017-03-01T16:20:08Z', 'labels': []}
+{'issuenumber': 162, 'title': 'Is it possible to get path/URL by  HandlerFunc?', 'state': 'closed', 'created_at': '2017-02-20T08:16:27Z', 'closed_at': '2017-02-20T22:58:40Z', 'labels': []}
+{'issuenumber': 159, 'title': 'middleware.Profiler and middleware.RedirectSlashes causes infinite redirect loop', 'state': 'closed', 'created_at': '2017-02-14T10:40:59Z', 'closed_at': '2017-02-16T19:00:59Z', 'labels': []}
+{'issuenumber': 156, 'title': 'panic: runtime error: invalid memory address or nil pointer dereference', 'state': 'closed', 'created_at': '2017-02-14T01:42:15Z', 'closed_at': '2017-02-14T02:27:50Z', 'labels': []}
+{'issuenumber': 155, 'title': 'NotFound ignored when FileServer using "/" path', 'state': 'closed', 'created_at': '2017-02-13T15:49:06Z', 'closed_at': '2017-02-14T23:45:51Z', 'labels': []}
+{'issuenumber': 153, 'title': 'Panic on doc generate when using middleware.Profiler', 'state': 'closed', 'created_at': '2017-02-13T09:44:52Z', 'closed_at': '2017-11-24T20:05:31Z', 'labels': []}
+{'issuenumber': 152, 'title': "Compress middleware's ResponseWriter does not implement CloseNotifier", 'state': 'closed', 'created_at': '2017-02-10T19:09:52Z', 'closed_at': '2017-02-14T10:03:25Z', 'labels': []}
+{'issuenumber': 151, 'title': 'Make backwards compatible with x/net/context for Go 1.6.x', 'state': 'closed', 'created_at': '2017-02-10T16:35:14Z', 'closed_at': '2017-02-10T16:36:59Z', 'labels': []}
+{'issuenumber': 150, 'title': 'question: determine route string from router, url, method', 'state': 'closed', 'created_at': '2017-02-10T00:32:00Z', 'closed_at': '2017-02-10T18:28:27Z', 'labels': []}
+{'issuenumber': 148, 'title': 'Route params do not handled uri encoded path components correctly', 'state': 'closed', 'created_at': '2017-02-09T21:46:17Z', 'closed_at': '2017-03-14T21:31:34Z', 'labels': []}
+{'issuenumber': 147, 'title': 'what is the best way to cache a http request ?', 'state': 'closed', 'created_at': '2017-02-06T22:04:12Z', 'closed_at': '2017-02-06T23:30:37Z', 'labels': []}
+{'issuenumber': 146, 'title': 'How can I use SockJS-go with Chi?', 'state': 'closed', 'created_at': '2017-02-03T20:46:38Z', 'closed_at': '2017-02-06T02:19:47Z', 'labels': []}
+{'issuenumber': 145, 'title': 'multiple routes to same function & localization', 'state': 'closed', 'created_at': '2017-02-03T11:55:47Z', 'closed_at': '2017-02-03T14:54:24Z', 'labels': []}
+{'issuenumber': 144, 'title': 'Creating a router out of a function', 'state': 'closed', 'created_at': '2017-01-28T14:58:49Z', 'closed_at': '2017-01-30T17:26:21Z', 'labels': []}
+{'issuenumber': 142, 'title': "Profiler middleware doesn't work with StripSlashes/RedirectSlashes", 'state': 'closed', 'created_at': '2017-01-25T08:25:11Z', 'closed_at': '2017-01-25T20:51:32Z', 'labels': []}
+{'issuenumber': 141, 'title': 'Data race in middleware/closenotify', 'state': 'closed', 'created_at': '2017-01-21T14:39:13Z', 'closed_at': '2017-01-25T20:47:37Z', 'labels': []}
+{'issuenumber': 138, 'title': 'Different return type of middleware', 'state': 'closed', 'created_at': '2017-01-18T15:20:21Z', 'closed_at': '2017-01-18T15:47:23Z', 'labels': []}
+{'issuenumber': 134, 'title': 'proposal: test context builder (test helper function)', 'state': 'closed', 'created_at': '2017-01-08T23:33:35Z', 'closed_at': '2017-06-29T03:35:24Z', 'labels': []}
+{'issuenumber': 133, 'title': 'Encoding error type to json', 'state': 'closed', 'created_at': '2017-01-07T22:20:19Z', 'closed_at': '2017-01-07T22:43:18Z', 'labels': []}
+{'issuenumber': 132, 'title': 'Could you update to correct semver on releases', 'state': 'closed', 'created_at': '2017-01-05T22:58:06Z', 'closed_at': '2017-01-06T20:53:32Z', 'labels': []}
+{'issuenumber': 131, 'title': 'Implement http.Hijacker to support interaction with Websockets', 'state': 'closed', 'created_at': '2017-01-05T21:11:05Z', 'closed_at': '2017-01-06T20:35:29Z', 'labels': []}
+{'issuenumber': 127, 'title': 'The url params within the RouteContext cannot be used by a parent middleware ', 'state': 'closed', 'created_at': '2017-01-04T20:50:45Z', 'closed_at': '2017-01-05T13:35:12Z', 'labels': []}
+{'issuenumber': 125, 'title': 'Define middlewares between routes', 'state': 'closed', 'created_at': '2017-01-04T16:20:19Z', 'closed_at': '2017-01-04T18:32:03Z', 'labels': []}
+{'issuenumber': 123, 'title': 'HTTP2 requests are not wrapped using fancyWriter', 'state': 'closed', 'created_at': '2016-12-31T15:28:20Z', 'closed_at': '2017-01-06T20:35:00Z', 'labels': []}
+{'issuenumber': 122, 'title': 'public RequestID generator', 'state': 'closed', 'created_at': '2016-12-30T03:26:23Z', 'closed_at': '2016-12-31T17:22:42Z', 'labels': []}
+{'issuenumber': 121, 'title': 'Changing context import for Go 1.7+', 'state': 'closed', 'created_at': '2016-12-29T20:33:13Z', 'closed_at': '2016-12-30T03:50:54Z', 'labels': []}
+{'issuenumber': 120, 'title': 'The logger middleware outputs into stderr', 'state': 'closed', 'created_at': '2016-12-28T04:30:35Z', 'closed_at': '2016-12-31T17:20:33Z', 'labels': []}
+{'issuenumber': 117, 'title': 'http: multiple response.WriteHeader calls due CloseNotify', 'state': 'closed', 'created_at': '2016-12-08T07:35:46Z', 'closed_at': '2016-12-09T18:39:57Z', 'labels': []}
+{'issuenumber': 115, 'title': 'Mounting a subpath of an existing path fails', 'state': 'closed', 'created_at': '2016-11-22T20:18:05Z', 'closed_at': '2016-11-23T01:28:59Z', 'labels': []}
+{'issuenumber': 114, 'title': 'why not use a map for params?', 'state': 'closed', 'created_at': '2016-11-21T05:36:54Z', 'closed_at': '2016-11-21T14:00:09Z', 'labels': []}
+{'issuenumber': 113, 'title': 'small simplification to URLParam', 'state': 'closed', 'created_at': '2016-11-21T05:13:17Z', 'closed_at': '2016-11-22T23:44:15Z', 'labels': []}
+{'issuenumber': 112, 'title': 'make *Context embed a context.Context', 'state': 'closed', 'created_at': '2016-11-21T04:49:58Z', 'closed_at': '2016-11-21T05:00:40Z', 'labels': []}
+{'issuenumber': 110, 'title': 'Not found handler for subrouters', 'state': 'closed', 'created_at': '2016-11-16T03:34:34Z', 'closed_at': '2016-11-18T19:42:35Z', 'labels': []}
+{'issuenumber': 109, 'title': 'cannot use r (type *http.Request) as type "github.com/cescoferraro/api/vendor/golang.org/x/net/context".Context in argument to chi.URLParam:', 'state': 'closed', 'created_at': '2016-11-11T22:30:45Z', 'closed_at': '2016-11-12T14:21:10Z', 'labels': []}
+{'issuenumber': 108, 'title': 'why does Connect method take a pattern?', 'state': 'closed', 'created_at': '2016-11-11T00:28:38Z', 'closed_at': '2016-11-11T01:02:11Z', 'labels': []}
+{'issuenumber': 105, 'title': 'appengine', 'state': 'closed', 'created_at': '2016-11-08T15:23:48Z', 'closed_at': '2016-11-08T15:24:56Z', 'labels': []}
+{'issuenumber': 104, 'title': 'why are wildcard parameters relative?', 'state': 'closed', 'created_at': '2016-11-07T22:21:17Z', 'closed_at': '2016-11-08T22:06:00Z', 'labels': []}
+{'issuenumber': 103, 'title': 'Remove github restriction on markdown docs links', 'state': 'closed', 'created_at': '2016-11-04T18:03:36Z', 'closed_at': '2016-11-10T21:22:55Z', 'labels': []}
+{'issuenumber': 102, 'title': 'v2 branch', 'state': 'closed', 'created_at': '2016-11-03T18:05:16Z', 'closed_at': '2016-11-03T20:11:59Z', 'labels': []}
+{'issuenumber': 101, 'title': 'Allow overwrite function methodNotAllowedHandler', 'state': 'closed', 'created_at': '2016-10-31T10:00:09Z', 'closed_at': '2016-11-10T21:06:34Z', 'labels': []}
+{'issuenumber': 100, 'title': 'Weird (Incorrect?) URLParam results', 'state': 'closed', 'created_at': '2016-10-28T18:22:38Z', 'closed_at': '2017-06-21T15:06:31Z', 'labels': []}
+{'issuenumber': 99, 'title': 'Weird URL Params', 'state': 'closed', 'created_at': '2016-10-28T18:17:04Z', 'closed_at': '2016-10-28T18:24:06Z', 'labels': []}
+{'issuenumber': 97, 'title': 'Customizable Logger middleware output', 'state': 'closed', 'created_at': '2016-10-22T06:49:23Z', 'closed_at': '2016-11-24T01:15:54Z', 'labels': []}
+{'issuenumber': 95, 'title': 'Configurable logger middleware', 'state': 'closed', 'created_at': '2016-10-20T20:23:32Z', 'closed_at': '2016-10-21T13:35:45Z', 'labels': []}
+{'issuenumber': 94, 'title': 'Mux methods accept a HandlerFunc instead of Handler', 'state': 'closed', 'created_at': '2016-10-18T10:29:21Z', 'closed_at': '2016-11-08T15:16:53Z', 'labels': []}
+{'issuenumber': 90, 'title': 'Ability to set the base context', 'state': 'closed', 'created_at': '2016-09-26T17:32:30Z', 'closed_at': '2016-10-07T18:44:36Z', 'labels': []}
+{'issuenumber': 84, 'title': 'Render: managing request and response payload as types', 'state': 'closed', 'created_at': '2016-09-08T15:11:33Z', 'closed_at': '2017-03-30T18:43:55Z', 'labels': []}
+{'issuenumber': 81, 'title': 'FileServer prefix path problem', 'state': 'closed', 'created_at': '2016-08-30T14:52:44Z', 'closed_at': '2016-08-30T14:56:56Z', 'labels': []}
+{'issuenumber': 80, 'title': 'wildcards router not working when path conflict', 'state': 'closed', 'created_at': '2016-08-30T07:42:30Z', 'closed_at': '2016-08-30T21:13:01Z', 'labels': []}
+{'issuenumber': 79, 'title': 'http.Handler vs http.HandlerFunc', 'state': 'closed', 'created_at': '2016-08-30T04:01:55Z', 'closed_at': '2016-08-30T15:04:17Z', 'labels': []}
+{'issuenumber': 78, 'title': 'Route params mixup', 'state': 'closed', 'created_at': '2016-08-23T16:56:36Z', 'closed_at': '2017-06-21T14:50:21Z', 'labels': []}
+{'issuenumber': 77, 'title': 'Ability to join routers.', 'state': 'closed', 'created_at': '2016-08-21T15:37:03Z', 'closed_at': '2016-08-21T15:51:36Z', 'labels': []}
+{'issuenumber': 76, 'title': 'How to get params without route context?', 'state': 'closed', 'created_at': '2016-08-21T14:44:58Z', 'closed_at': '2016-08-21T14:59:01Z', 'labels': []}
+{'issuenumber': 73, 'title': 'Support a mounted router that does not inherit middleware from the parent.', 'state': 'closed', 'created_at': '2016-08-16T13:22:35Z', 'closed_at': '2016-08-16T14:02:54Z', 'labels': []}
+{'issuenumber': 71, 'title': 'can chi run with golang 1.6?', 'state': 'closed', 'created_at': '2016-08-12T03:56:28Z', 'closed_at': '2016-08-12T13:21:54Z', 'labels': []}
+{'issuenumber': 67, 'title': "Mux ServeHTTP doesn't supports context of generic implementation", 'state': 'closed', 'created_at': '2016-08-05T10:21:21Z', 'closed_at': '2016-08-05T21:14:29Z', 'labels': []}
+{'issuenumber': 66, 'title': 'Panic when r.Mount("/", h) is used, then routing on "/" again', 'state': 'closed', 'created_at': '2016-08-04T15:00:10Z', 'closed_at': '2016-08-04T20:15:02Z', 'labels': []}
+{'issuenumber': 65, 'title': 'Panic when middleware stack is set, and r.Use() is called', 'state': 'closed', 'created_at': '2016-08-04T14:58:12Z', 'closed_at': '2016-08-04T20:15:13Z', 'labels': []}
+{'issuenumber': 62, 'title': '[v2] Panic when making a request to a subrouter without a root sub-route defined', 'state': 'closed', 'created_at': '2016-07-27T15:56:55Z', 'closed_at': '2016-07-27T16:13:49Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 61, 'title': 'Warn when connected subrouters use the same parameter names', 'state': 'closed', 'created_at': '2016-07-22T15:35:22Z', 'closed_at': '2020-01-09T01:48:24Z', 'labels': []}
+{'issuenumber': 58, 'title': 'Graceful shutdown', 'state': 'closed', 'created_at': '2016-07-04T19:22:17Z', 'closed_at': '2016-10-09T14:24:59Z', 'labels': []}
+{'issuenumber': 57, 'title': 'Tag releases', 'state': 'closed', 'created_at': '2016-07-04T13:29:31Z', 'closed_at': '2016-07-04T13:30:36Z', 'labels': []}
+{'issuenumber': 55, 'title': 'middleware.Logger to be configured with different logging backends', 'state': 'closed', 'created_at': '2016-06-23T18:10:51Z', 'closed_at': '2016-07-22T19:10:17Z', 'labels': []}
+{'issuenumber': 52, 'title': 'SkipTrailingSlash', 'state': 'closed', 'created_at': '2016-06-18T07:14:20Z', 'closed_at': '2016-06-20T20:35:12Z', 'labels': []}
+{'issuenumber': 51, 'title': 'Using Mux.pool', 'state': 'closed', 'created_at': '2016-06-18T07:00:15Z', 'closed_at': '2016-06-22T20:16:23Z', 'labels': []}
+{'issuenumber': 50, 'title': 'use a color library for middleware', 'state': 'closed', 'created_at': '2016-06-16T14:33:40Z', 'closed_at': '2016-06-17T19:01:54Z', 'labels': []}
+{'issuenumber': 49, 'title': 'v2 Roadmap', 'state': 'closed', 'created_at': '2016-06-16T14:17:38Z', 'closed_at': '2017-01-06T20:53:42Z', 'labels': []}
+{'issuenumber': 45, 'title': 'Track routing pattern for each request', 'state': 'closed', 'created_at': '2016-06-03T19:09:30Z', 'closed_at': '2016-07-22T15:34:35Z', 'labels': []}
+{'issuenumber': 44, 'title': '404 not found when expecting 405 method not allowed', 'state': 'closed', 'created_at': '2016-06-01T15:43:49Z', 'closed_at': '2016-06-08T14:14:28Z', 'labels': []}
+{'issuenumber': 43, 'title': "chi's future", 'state': 'closed', 'created_at': '2016-05-28T03:21:06Z', 'closed_at': '2016-06-16T14:18:50Z', 'labels': []}
+{'issuenumber': 42, 'title': 'runtime error: invalid memory address or nil pointer dereference', 'state': 'closed', 'created_at': '2016-05-21T15:34:30Z', 'closed_at': '2016-06-22T21:59:19Z', 'labels': []}
+{'issuenumber': 41, 'title': 'How to handle "/" with trailing slashes in a mounted router?', 'state': 'closed', 'created_at': '2016-05-21T08:02:40Z', 'closed_at': '2016-05-21T08:10:28Z', 'labels': []}
+{'issuenumber': 39, 'title': 'Add support for fasthttp', 'state': 'closed', 'created_at': '2016-05-11T13:59:45Z', 'closed_at': '2016-05-12T11:52:43Z', 'labels': []}
+{'issuenumber': 35, 'title': '[Feature Request]Static File serving', 'state': 'closed', 'created_at': '2016-03-31T07:14:42Z', 'closed_at': '2016-04-01T14:17:28Z', 'labels': []}
+{'issuenumber': 31, 'title': 'Subrouter hides parent routes', 'state': 'closed', 'created_at': '2016-01-26T02:11:40Z', 'closed_at': '2016-03-21T15:22:50Z', 'labels': []}
+{'issuenumber': 29, 'title': 'Custom not found handler', 'state': 'closed', 'created_at': '2016-01-06T22:01:11Z', 'closed_at': '2016-02-26T18:20:06Z', 'labels': []}
+{'issuenumber': 28, 'title': 'Getting more done in GitHub with ZenHub', 'state': 'closed', 'created_at': '2015-12-21T16:39:06Z', 'closed_at': '2015-12-21T16:39:30Z', 'labels': []}
+{'issuenumber': 27, 'title': 'JSON response', 'state': 'closed', 'created_at': '2015-12-20T07:04:05Z', 'closed_at': '2015-12-22T01:09:42Z', 'labels': []}
+{'issuenumber': 25, 'title': 'Add support for backlog in throttler middleware', 'state': 'closed', 'created_at': '2015-12-08T20:02:21Z', 'closed_at': '2015-12-10T23:10:37Z', 'labels': []}
+{'issuenumber': 23, 'title': 'Mux tests should test HTTP response code in addition to response body', 'state': 'closed', 'created_at': '2015-12-07T16:54:29Z', 'closed_at': '2015-12-13T16:43:10Z', 'labels': []}
+{'issuenumber': 18, 'title': 'graceful shutdown?', 'state': 'closed', 'created_at': '2015-11-11T22:01:15Z', 'closed_at': '2015-11-19T15:44:49Z', 'labels': []}
+{'issuenumber': 15, 'title': 'Websockets', 'state': 'closed', 'created_at': '2015-11-09T08:32:46Z', 'closed_at': '2015-11-09T08:42:10Z', 'labels': []}
+{'issuenumber': 11, 'title': 'Type chi.Middleware', 'state': 'closed', 'created_at': '2015-11-02T12:47:52Z', 'closed_at': '2015-11-02T15:44:04Z', 'labels': []}
+{'issuenumber': 5, 'title': 'Middleware function gets recreated every function call', 'state': 'closed', 'created_at': '2015-10-30T15:07:59Z', 'closed_at': '2015-11-05T20:56:46Z', 'labels': []}

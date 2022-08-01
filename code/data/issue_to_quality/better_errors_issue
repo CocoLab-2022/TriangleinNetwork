@@ -1,0 +1,239 @@
+{'issuenumber': 486, 'title': 'Text response should include the path to the console', 'state': 'closed', 'created_at': '2020-10-30T18:41:13Z', 'closed_at': '2020-10-31T15:22:33Z', 'labels': []}
+{'issuenumber': 485, 'title': 'Unable to open file from browser link when using WSL2', 'state': 'closed', 'created_at': '2020-10-20T16:13:16Z', 'closed_at': '2020-10-28T23:59:16Z', 'labels': []}
+{'issuenumber': 483, 'title': 'uninitialized constant BetterErrors::Middleware::VERSION (NameError)', 'state': 'closed', 'created_at': '2020-10-02T09:05:44Z', 'closed_at': '2020-10-03T03:35:01Z', 'labels': []}
+{'issuenumber': 482, 'title': 'Version 2.8.2 breakage', 'state': 'closed', 'created_at': '2020-10-02T09:01:49Z', 'closed_at': '2020-10-03T03:35:21Z', 'labels': []}
+{'issuenumber': 479, 'title': 'Release 2.8.2', 'state': 'closed', 'created_at': '2020-10-01T11:02:16Z', 'closed_at': '2020-10-02T08:31:43Z', 'labels': []}
+{'issuenumber': 476, 'title': 'Invalid CSRF Token error in Better Errors console', 'state': 'closed', 'created_at': '2020-09-16T21:22:21Z', 'closed_at': '2020-09-24T14:10:06Z', 'labels': []}
+{'issuenumber': 471, 'title': 'How to Link Editor wiki article is not clear', 'state': 'closed', 'created_at': '2020-08-26T21:27:13Z', 'closed_at': '2020-09-23T03:09:29Z', 'labels': []}
+{'issuenumber': 470, 'title': 'Incomplete stack trace with view_component', 'state': 'closed', 'created_at': '2020-08-22T05:44:35Z', 'closed_at': '2020-09-17T21:26:13Z', 'labels': []}
+{'issuenumber': 469, 'title': 'Actual error not shown - showing rack/etag error with headers array', 'state': 'closed', 'created_at': '2020-07-14T06:41:00Z', 'closed_at': '2020-12-16T15:58:55Z', 'labels': []}
+{'issuenumber': 466, 'title': 'When ActionView::Template::Error is shown, live shell is missing on last frame', 'state': 'closed', 'created_at': '2020-05-15T17:10:31Z', 'closed_at': '2020-09-17T21:26:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 462, 'title': "Can't see errors in templates", 'state': 'closed', 'created_at': '2020-05-13T14:04:25Z', 'closed_at': '2020-05-13T17:40:24Z', 'labels': []}
+{'issuenumber': 461, 'title': 'binding_of_caller hides stack trace for ActionView::Template::Error', 'state': 'closed', 'created_at': '2020-05-06T09:16:51Z', 'closed_at': '2020-05-13T17:40:24Z', 'labels': []}
+{'issuenumber': 460, 'title': 'Add copy path button', 'state': 'closed', 'created_at': '2020-04-28T13:35:39Z', 'closed_at': '2020-05-18T06:20:17Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 455, 'title': 'Add `Run pending migrations` button', 'state': 'closed', 'created_at': '2020-03-02T09:16:34Z', 'closed_at': '2020-03-02T17:31:14Z', 'labels': []}
+{'issuenumber': 451, 'title': 'A CIDR range cannot be automatically parsed from string in the config', 'state': 'closed', 'created_at': '2020-02-22T15:27:33Z', 'closed_at': '2020-02-22T20:01:46Z', 'labels': []}
+{'issuenumber': 447, 'title': 'running better_errors without rails', 'state': 'closed', 'created_at': '2020-02-12T10:32:05Z', 'closed_at': '2020-02-27T04:30:32Z', 'labels': []}
+{'issuenumber': 446, 'title': 'Latest Rack v2.2.0 is breaking this gem', 'state': 'closed', 'created_at': '2020-02-08T21:17:36Z', 'closed_at': '2020-02-09T19:36:20Z', 'labels': []}
+{'issuenumber': 445, 'title': 'uninitialized constant ActionView::Template::SyntaxErrorInTemplate Did you mean?  ActionView::SyntaxErrorInTemplate', 'state': 'closed', 'created_at': '2019-10-20T19:57:09Z', 'closed_at': '2020-05-15T17:36:11Z', 'labels': []}
+{'issuenumber': 443, 'title': 'Question: Any plan to support ActionableError?', 'state': 'closed', 'created_at': '2019-10-12T21:30:46Z', 'closed_at': '2020-05-14T17:32:41Z', 'labels': []}
+{'issuenumber': 442, 'title': 'BetterErrors::Middleware.allow_ip! being ignored', 'state': 'closed', 'created_at': '2019-08-12T14:21:25Z', 'closed_at': '2019-10-29T16:59:04Z', 'labels': []}
+{'issuenumber': 441, 'title': 'Exposes password in clear text', 'state': 'closed', 'created_at': '2019-06-19T10:31:30Z', 'closed_at': '2019-07-09T01:56:38Z', 'labels': []}
+{'issuenumber': 439, 'title': 'Better Errors not working with Rack 2.0.7', 'state': 'closed', 'created_at': '2019-04-19T18:52:15Z', 'closed_at': '2019-04-22T21:40:44Z', 'labels': []}
+{'issuenumber': 438, 'title': 'Support for Ruby 2.6.1', 'state': 'closed', 'created_at': '2019-02-27T10:06:07Z', 'closed_at': '2020-02-27T04:32:09Z', 'labels': []}
+{'issuenumber': 436, 'title': 'Run better_errors in production', 'state': 'closed', 'created_at': '2019-02-14T09:31:27Z', 'closed_at': '2020-02-27T04:33:24Z', 'labels': []}
+{'issuenumber': 428, 'title': 'Opens New VS Code Welcome Page in New Window', 'state': 'closed', 'created_at': '2018-09-13T17:17:26Z', 'closed_at': '2020-12-16T16:02:04Z', 'labels': []}
+{'issuenumber': 425, 'title': 'Release v2.5.0', 'state': 'closed', 'created_at': '2018-08-20T04:51:17Z', 'closed_at': '2018-08-28T17:24:47Z', 'labels': []}
+{'issuenumber': 424, 'title': 'better_errors swallows rescue_from', 'state': 'closed', 'created_at': '2018-07-08T10:32:12Z', 'closed_at': '2018-07-12T21:42:11Z', 'labels': []}
+{'issuenumber': 420, 'title': 'Problem with turbolinks 5', 'state': 'closed', 'created_at': '2018-06-19T22:16:24Z', 'closed_at': '2018-06-28T02:42:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 414, 'title': 'VS Code looks not accept encode editor url', 'state': 'closed', 'created_at': '2018-01-21T07:10:10Z', 'closed_at': '2018-03-08T11:27:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 412, 'title': 'Use `ObjectSpace.memsize_of` instead of serializing every variable', 'state': 'closed', 'created_at': '2018-01-01T05:47:51Z', 'closed_at': '2018-06-28T02:46:27Z', 'labels': {'name': 'good first issue'}}
+{'issuenumber': 411, 'title': 'Broken with ruby 2.5 and binding_of_caller', 'state': 'closed', 'created_at': '2017-12-29T06:47:48Z', 'closed_at': '2020-03-25T18:11:57Z', 'labels': []}
+{'issuenumber': 408, 'title': 'Impossible to get access or modify maximum_variable_inspect_size', 'state': 'closed', 'created_at': '2017-09-26T08:15:34Z', 'closed_at': '2017-11-04T21:22:47Z', 'labels': []}
+{'issuenumber': 407, 'title': 'Documentation or workaround for multithreaded servers', 'state': 'closed', 'created_at': '2017-09-11T18:06:48Z', 'closed_at': '2017-09-11T18:24:56Z', 'labels': []}
+{'issuenumber': 397, 'title': "Doesn't work in a nested Rack::Builder", 'state': 'closed', 'created_at': '2017-08-11T05:28:20Z', 'closed_at': '2017-11-04T21:25:02Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 396, 'title': 'Erubi superclass mismatch with Haml', 'state': 'closed', 'created_at': '2017-08-04T17:43:01Z', 'closed_at': '2017-08-24T02:21:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 393, 'title': 'NameError (uninitialized constant BetterErrors::REPL::Pry) in master', 'state': 'closed', 'created_at': '2017-08-03T14:22:46Z', 'closed_at': '2017-08-03T16:18:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 392, 'title': 'Secure use over the internet', 'state': 'closed', 'created_at': '2017-08-02T10:49:39Z', 'closed_at': '2019-10-29T17:00:39Z', 'labels': []}
+{'issuenumber': 391, 'title': "DOM conflict with web-console's console", 'state': 'closed', 'created_at': '2017-08-01T16:33:15Z', 'closed_at': '2017-08-25T13:25:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 380, 'title': 'Document manual console page in readme', 'state': 'closed', 'created_at': '2017-07-29T19:17:45Z', 'closed_at': '2017-07-30T17:21:11Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 379, 'title': 'Document the fact that EDITOR is used', 'state': 'closed', 'created_at': '2017-07-29T08:29:34Z', 'closed_at': '2017-07-30T19:01:29Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 377, 'title': 'Erubis is deprecated and will be removed from Rails 5.2', 'state': 'closed', 'created_at': '2017-07-26T08:34:58Z', 'closed_at': '2017-08-07T08:06:10Z', 'labels': []}
+{'issuenumber': 374, 'title': 'clarification of security warning', 'state': 'closed', 'created_at': '2017-06-30T05:18:00Z', 'closed_at': '2017-07-29T05:30:41Z', 'labels': []}
+{'issuenumber': 373, 'title': 'Issues with Middleman', 'state': 'closed', 'created_at': '2017-05-15T17:05:34Z', 'closed_at': '2017-07-30T20:22:27Z', 'labels': {'name': 'ruby-frameworks'}}
+{'issuenumber': 371, 'title': 'Not showing appropriate stack trace or file location with Rails 5.1', 'state': 'closed', 'created_at': '2017-05-01T19:53:20Z', 'closed_at': '2017-07-30T05:49:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 363, 'title': 'Not working in rails 5.0.2', 'state': 'closed', 'created_at': '2017-03-12T16:34:10Z', 'closed_at': '2017-07-30T05:50:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 359, 'title': "'variables' apiCall is failling for root page", 'state': 'closed', 'created_at': '2016-12-04T21:25:58Z', 'closed_at': '2017-07-29T05:43:41Z', 'labels': []}
+{'issuenumber': 357, 'title': 'Push update to rubygems', 'state': 'closed', 'created_at': '2016-10-21T09:55:34Z', 'closed_at': '2017-07-30T19:09:08Z', 'labels': []}
+{'issuenumber': 353, 'title': '/__better_errors not working', 'state': 'closed', 'created_at': '2016-09-09T22:00:02Z', 'closed_at': '2017-07-30T05:51:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 351, 'title': "SimpleDelegator causes NameError (local variable `m' not defined for Binding object)", 'state': 'closed', 'created_at': '2016-07-29T02:33:53Z', 'closed_at': '2020-04-24T17:40:53Z', 'labels': []}
+{'issuenumber': 349, 'title': "Doesn't work with Rails 5.0.0 and docker-compose with BetterErrors::Middleware.allow_ip! '172.19.0.1'", 'state': 'closed', 'created_at': '2016-07-11T12:28:43Z', 'closed_at': '2017-07-30T18:37:11Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 341, 'title': 'Better errors page significantly slower with Puma 3.x', 'state': 'closed', 'created_at': '2016-03-18T15:20:30Z', 'closed_at': '2017-10-21T19:36:05Z', 'labels': []}
+{'issuenumber': 340, 'title': 'Better Error page not visible with rails 4.2.4', 'state': 'closed', 'created_at': '2016-03-11T22:07:59Z', 'closed_at': '2016-03-12T06:35:28Z', 'labels': []}
+{'issuenumber': 339, 'title': 'How to open in Atom editor?', 'state': 'closed', 'created_at': '2016-02-12T13:19:44Z', 'closed_at': '2016-02-12T19:01:22Z', 'labels': []}
+{'issuenumber': 337, 'title': 'error on try open url handler sublime  ', 'state': 'closed', 'created_at': '2016-02-04T23:40:26Z', 'closed_at': '2016-04-07T21:36:43Z', 'labels': []}
+{'issuenumber': 334, 'title': 'Large /variables request', 'state': 'closed', 'created_at': '2016-01-07T13:34:08Z', 'closed_at': '2017-08-25T13:25:28Z', 'labels': []}
+{'issuenumber': 333, 'title': 'original_exception is deprecated with Rails 5', 'state': 'closed', 'created_at': '2016-01-05T17:30:42Z', 'closed_at': '2016-09-20T23:15:30Z', 'labels': []}
+{'issuenumber': 330, 'title': 'Rails 5 rendering errors raise EOFError', 'state': 'closed', 'created_at': '2015-12-29T22:55:10Z', 'closed_at': '2017-07-29T06:39:21Z', 'labels': []}
+{'issuenumber': 324, 'title': 'Clash with acts_as_taggable_on', 'state': 'closed', 'created_at': '2015-12-12T18:38:08Z', 'closed_at': '2015-12-13T06:15:37Z', 'labels': []}
+{'issuenumber': 321, 'title': 'Why it does not work live console (the box) on jruby ?', 'state': 'closed', 'created_at': '2015-11-19T08:19:23Z', 'closed_at': '2015-11-19T20:01:11Z', 'labels': []}
+{'issuenumber': 316, 'title': 'typo in spec', 'state': 'closed', 'created_at': '2015-10-28T07:17:00Z', 'closed_at': '2015-10-29T00:22:49Z', 'labels': []}
+{'issuenumber': 315, 'title': '“This is a live shell. Type in here.” gets old *really* fast.', 'state': 'closed', 'created_at': '2015-10-24T17:29:20Z', 'closed_at': '2020-11-04T18:59:29Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 314, 'title': 'integrate with atom?', 'state': 'closed', 'created_at': '2015-09-23T15:51:11Z', 'closed_at': '2017-07-30T18:53:03Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 313, 'title': 'Consider using .strip', 'state': 'closed', 'created_at': '2015-09-16T02:19:55Z', 'closed_at': '2015-12-03T02:38:54Z', 'labels': []}
+{'issuenumber': 309, 'title': 'BetterErrors enabled during tests', 'state': 'closed', 'created_at': '2015-08-06T07:09:23Z', 'closed_at': '2017-06-21T05:07:08Z', 'labels': []}
+{'issuenumber': 308, 'title': "Doesn't respect application's BacktraceCleaner", 'state': 'closed', 'created_at': '2015-07-24T17:34:10Z', 'closed_at': '2017-10-21T19:52:10Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 307, 'title': 'No work if server is bind to ip', 'state': 'closed', 'created_at': '2015-07-04T18:41:28Z', 'closed_at': '2015-07-07T15:57:48Z', 'labels': []}
+{'issuenumber': 305, 'title': "undefined method `id' for nil:NilClass", 'state': 'closed', 'created_at': '2015-05-19T07:21:26Z', 'closed_at': '2017-07-30T20:21:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 301, 'title': "NoMethodError at /__better_errors/xxxx/variables undefined method `id' for nil:NilClass", 'state': 'closed', 'created_at': '2015-04-04T22:29:03Z', 'closed_at': '2017-10-25T01:29:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 300, 'title': 'Remove subl handler but launch via launchy? and with $EDITOR?', 'state': 'closed', 'created_at': '2015-04-01T09:49:47Z', 'closed_at': '2015-04-02T15:30:47Z', 'labels': []}
+{'issuenumber': 298, 'title': 'Binding of caller not working on most basic rack application', 'state': 'closed', 'created_at': '2015-03-17T21:18:57Z', 'closed_at': '2017-08-09T15:17:13Z', 'labels': []}
+{'issuenumber': 296, 'title': 'better_errors should show Exception#cause when present', 'state': 'closed', 'created_at': '2015-01-19T09:02:41Z', 'closed_at': '2020-04-18T15:03:32Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 293, 'title': "Doesn't work with Rails 4.2 + Pry 0.10.x combo", 'state': 'closed', 'created_at': '2015-01-05T15:35:08Z', 'closed_at': '2021-02-07T10:41:19Z', 'labels': []}
+{'issuenumber': 292, 'title': 'Session expired with Rails 4.1 on Thin', 'state': 'closed', 'created_at': '2014-12-26T20:24:54Z', 'closed_at': '2019-11-15T17:51:04Z', 'labels': []}
+{'issuenumber': 289, 'title': 'use_better_errors? is difficult to turn off in rails', 'state': 'closed', 'created_at': '2014-12-12T19:32:13Z', 'closed_at': '2014-12-12T23:01:07Z', 'labels': []}
+{'issuenumber': 287, 'title': 'Black box at top is sometimes confusing', 'state': 'closed', 'created_at': '2014-11-20T15:57:13Z', 'closed_at': '2014-12-14T04:57:36Z', 'labels': []}
+{'issuenumber': 285, 'title': "Can't see Application Frames", 'state': 'closed', 'created_at': '2014-10-28T21:41:08Z', 'closed_at': '2015-10-06T23:46:43Z', 'labels': []}
+{'issuenumber': 282, 'title': 'Need to press <up> twice in the console', 'state': 'closed', 'created_at': '2014-10-22T00:27:27Z', 'closed_at': '2014-10-29T05:20:55Z', 'labels': []}
+{'issuenumber': 281, 'title': 'Remove rails stack trace?', 'state': 'closed', 'created_at': '2014-10-21T21:53:25Z', 'closed_at': '2019-05-10T18:35:39Z', 'labels': []}
+{'issuenumber': 279, 'title': 'follower buttons and counter', 'state': 'closed', 'created_at': '2014-10-18T18:24:33Z', 'closed_at': '2014-10-18T18:24:43Z', 'labels': []}
+{'issuenumber': 274, 'title': 'Only half working on Rack app', 'state': 'closed', 'created_at': '2014-09-25T22:54:45Z', 'closed_at': '2014-09-26T14:49:29Z', 'labels': []}
+{'issuenumber': 270, 'title': 'better_errors not working in a Docker container', 'state': 'closed', 'created_at': '2014-08-31T16:57:15Z', 'closed_at': '2014-08-31T21:28:17Z', 'labels': []}
+{'issuenumber': 269, 'title': 'Remove max-height for hovering over error message?', 'state': 'closed', 'created_at': '2014-08-30T15:28:42Z', 'closed_at': '2014-12-14T13:49:30Z', 'labels': []}
+{'issuenumber': 266, 'title': 'Not working with JRuby?', 'state': 'closed', 'created_at': '2014-08-21T21:30:20Z', 'closed_at': '2014-08-22T01:27:12Z', 'labels': []}
+{'issuenumber': 265, 'title': 'Using Proc or String for Config', 'state': 'closed', 'created_at': '2014-08-20T18:38:33Z', 'closed_at': '2014-08-20T19:44:16Z', 'labels': []}
+{'issuenumber': 261, 'title': "Don't crash when 'binding' is nil", 'state': 'closed', 'created_at': '2014-07-23T13:28:23Z', 'closed_at': '2014-07-24T11:58:33Z', 'labels': []}
+{'issuenumber': 260, 'title': 'better_errors segfault webrick on ruby 1.9.2p320 (2012-04-20 revision 35421) [x86_64-linux]', 'state': 'closed', 'created_at': '2014-07-18T08:35:54Z', 'closed_at': '2014-07-28T13:04:10Z', 'labels': []}
+{'issuenumber': 259, 'title': "Error message doesn't point to the line in the view where the error occurred ", 'state': 'closed', 'created_at': '2014-07-15T20:07:31Z', 'closed_at': '2014-08-23T04:01:53Z', 'labels': []}
+{'issuenumber': 256, 'title': 'Rails 4.1.4 Ruby 2.1.2 Macintosh', 'state': 'closed', 'created_at': '2014-07-03T19:10:10Z', 'closed_at': '2014-07-03T19:12:17Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 255, 'title': "better errors doesn't work with pry 0.10.0", 'state': 'closed', 'created_at': '2014-06-23T19:44:06Z', 'closed_at': '2014-07-08T07:00:51Z', 'labels': []}
+{'issuenumber': 254, 'title': 'TypeError - no _dump_data is defined for class Binding:', 'state': 'closed', 'created_at': '2014-06-12T15:54:22Z', 'closed_at': '2014-06-13T01:45:46Z', 'labels': []}
+{'issuenumber': 253, 'title': "Output doesn't display line number of SCSS errors", 'state': 'closed', 'created_at': '2014-06-05T20:29:54Z', 'closed_at': '2014-08-23T04:02:00Z', 'labels': []}
+{'issuenumber': 252, 'title': '“Application Frames” always empty because of empty string in `Gem.path`. ', 'state': 'closed', 'created_at': '2014-06-05T12:04:29Z', 'closed_at': '2014-07-07T23:57:05Z', 'labels': []}
+{'issuenumber': 251, 'title': 'Not working with  rails 4.1.1 and ruby 2.1.1 .', 'state': 'closed', 'created_at': '2014-06-01T07:43:23Z', 'closed_at': '2014-07-03T19:11:59Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 248, 'title': 'multi-app setup with passenger and better_errors fails', 'state': 'closed', 'created_at': '2014-05-14T15:00:37Z', 'closed_at': '2014-05-14T15:30:37Z', 'labels': []}
+{'issuenumber': 244, 'title': 'session expired using WEBrick', 'state': 'closed', 'created_at': '2014-04-24T08:29:04Z', 'closed_at': '2014-04-26T06:41:53Z', 'labels': []}
+{'issuenumber': 243, 'title': 'Not working with Rails 4.1.0', 'state': 'closed', 'created_at': '2014-04-24T05:36:40Z', 'closed_at': '2017-08-29T17:48:27Z', 'labels': []}
+{'issuenumber': 242, 'title': 'Reload code and continue execution', 'state': 'closed', 'created_at': '2014-04-10T10:02:52Z', 'closed_at': '2014-04-26T06:40:49Z', 'labels': []}
+{'issuenumber': 240, 'title': 'Handle Syntax Errors better?', 'state': 'closed', 'created_at': '2014-03-17T01:04:34Z', 'closed_at': '2014-04-26T07:49:03Z', 'labels': []}
+{'issuenumber': 239, 'title': 'BetterErrors.editor = :sublime', 'state': 'closed', 'created_at': '2014-03-09T14:08:37Z', 'closed_at': '2014-03-09T14:21:47Z', 'labels': []}
+{'issuenumber': 238, 'title': 'Better error on heroku development environment', 'state': 'closed', 'created_at': '2014-02-27T20:39:04Z', 'closed_at': '2014-02-28T01:38:44Z', 'labels': []}
+{'issuenumber': 236, 'title': 'Strip binding_of_caller dependency for 2.0+', 'state': 'closed', 'created_at': '2014-02-21T23:58:15Z', 'closed_at': '2014-02-24T13:17:28Z', 'labels': []}
+{'issuenumber': 235, 'title': 'Missing template stacktraces in Rails with HAML', 'state': 'closed', 'created_at': '2014-02-21T19:04:29Z', 'closed_at': '2014-04-26T07:49:08Z', 'labels': []}
+{'issuenumber': 234, 'title': 'Passwords are viewed in clear text', 'state': 'closed', 'created_at': '2014-02-21T16:41:47Z', 'closed_at': '2014-02-22T03:59:58Z', 'labels': []}
+{'issuenumber': 233, 'title': ' Failure/Error: frame.method_name.should with Ruby 2.0', 'state': 'closed', 'created_at': '2014-02-16T12:19:48Z', 'closed_at': '2014-04-26T06:48:33Z', 'labels': []}
+{'issuenumber': 230, 'title': 'have a method that allows all ips', 'state': 'closed', 'created_at': '2014-01-24T22:49:21Z', 'closed_at': '2014-01-25T04:45:05Z', 'labels': []}
+{'issuenumber': 229, 'title': 'JRuby integration?', 'state': 'closed', 'created_at': '2014-01-24T19:02:47Z', 'closed_at': '2014-01-25T04:53:31Z', 'labels': []}
+{'issuenumber': 228, 'title': "Don't capture input focus in Ruby console!", 'state': 'closed', 'created_at': '2014-01-08T14:27:24Z', 'closed_at': '2014-01-09T00:20:47Z', 'labels': []}
+{'issuenumber': 227, 'title': 'Make more informations clickable, e.g. controller or action', 'state': 'closed', 'created_at': '2014-01-08T14:24:55Z', 'closed_at': '2014-01-09T00:15:03Z', 'labels': []}
+{'issuenumber': 224, 'title': 'Using without having an error', 'state': 'closed', 'created_at': '2013-12-20T07:50:07Z', 'closed_at': '2014-04-26T06:29:34Z', 'labels': []}
+{'issuenumber': 222, 'title': 'better_errors does not report the actual error and gives wrong line.', 'state': 'closed', 'created_at': '2013-12-04T19:32:15Z', 'closed_at': '2014-03-04T10:18:43Z', 'labels': []}
+{'issuenumber': 221, 'title': 'Open file link in text editor', 'state': 'closed', 'created_at': '2013-11-29T17:28:00Z', 'closed_at': '2014-04-26T06:52:40Z', 'labels': []}
+{'issuenumber': 220, 'title': 'better_errors is not working with Routing Error in Rails ?', 'state': 'closed', 'created_at': '2013-11-28T05:30:51Z', 'closed_at': '2014-04-26T06:26:54Z', 'labels': []}
+{'issuenumber': 219, 'title': '[BUG] BetterErrors :: Segmentation Fault', 'state': 'closed', 'created_at': '2013-11-25T11:12:05Z', 'closed_at': '2013-12-03T17:10:26Z', 'labels': []}
+{'issuenumber': 217, 'title': 'Not activating on Rails 3.2.14', 'state': 'closed', 'created_at': '2013-11-21T11:22:05Z', 'closed_at': '2013-11-22T22:40:45Z', 'labels': []}
+{'issuenumber': 214, 'title': 'OOops when treating execption with rescue_from in rails4', 'state': 'closed', 'created_at': '2013-11-08T15:06:40Z', 'closed_at': '2014-04-26T06:33:00Z', 'labels': []}
+{'issuenumber': 211, 'title': 'Display of better_errors messed up', 'state': 'closed', 'created_at': '2013-10-28T11:10:17Z', 'closed_at': '2014-01-20T10:34:26Z', 'labels': []}
+{'issuenumber': 210, 'title': 'Better Errors with Rails 4', 'state': 'closed', 'created_at': '2013-10-23T07:46:10Z', 'closed_at': '2013-10-23T16:07:43Z', 'labels': []}
+{'issuenumber': 208, 'title': 'No REPL present on rbx-2.0.0', 'state': 'closed', 'created_at': '2013-10-07T23:54:20Z', 'closed_at': '2014-04-26T08:09:53Z', 'labels': []}
+{'issuenumber': 207, 'title': 'better_errors initialiser crash in production for BetterErrors.editor', 'state': 'closed', 'created_at': '2013-09-20T08:26:29Z', 'closed_at': '2013-09-21T12:54:45Z', 'labels': []}
+{'issuenumber': 204, 'title': 'Security Issue: BE is wide open when a local server proxies to it', 'state': 'closed', 'created_at': '2013-09-11T15:58:45Z', 'closed_at': '2014-04-26T05:40:21Z', 'labels': []}
+{'issuenumber': 202, 'title': 'Slim template support', 'state': 'closed', 'created_at': '2013-08-31T02:53:11Z', 'closed_at': '2014-04-26T07:48:16Z', 'labels': []}
+{'issuenumber': 200, 'title': 'Performance abismal when b.e. stumbles on a massive scope', 'state': 'closed', 'created_at': '2013-08-29T17:09:58Z', 'closed_at': '2014-04-26T06:06:13Z', 'labels': []}
+{'issuenumber': 199, 'title': 'Java exceptions are causing NoMethodError', 'state': 'closed', 'created_at': '2013-08-26T15:44:05Z', 'closed_at': '2013-08-27T01:56:41Z', 'labels': []}
+{'issuenumber': 198, 'title': '~/.better_errorsrc', 'state': 'closed', 'created_at': '2013-08-21T14:14:50Z', 'closed_at': '2013-08-21T14:41:50Z', 'labels': []}
+{'issuenumber': 197, 'title': '  BetterErrors::Middleware.allow_ip!', 'state': 'closed', 'created_at': '2013-08-20T00:39:40Z', 'closed_at': '2013-08-20T00:48:02Z', 'labels': []}
+{'issuenumber': 195, 'title': "Doesn't activate when Controller includes ActionController:Live", 'state': 'closed', 'created_at': '2013-08-12T03:51:48Z', 'closed_at': '2014-04-26T06:02:22Z', 'labels': []}
+{'issuenumber': 187, 'title': 'Segmentation fault with Ruby 1.9.3-p488', 'state': 'closed', 'created_at': '2013-08-01T09:38:25Z', 'closed_at': '2013-08-02T09:31:11Z', 'labels': []}
+{'issuenumber': 186, 'title': 'Customise/extend output to include Request-Id', 'state': 'closed', 'created_at': '2013-07-20T03:31:11Z', 'closed_at': '2013-08-02T09:55:22Z', 'labels': []}
+{'issuenumber': 182, 'title': 'Inspect exception in REPL', 'state': 'closed', 'created_at': '2013-07-12T02:42:11Z', 'closed_at': '2013-08-02T09:59:19Z', 'labels': []}
+{'issuenumber': 181, 'title': "RBX: undefined `gem_name' on an instance of BetterErrors::StackFrame", 'state': 'closed', 'created_at': '2013-06-30T03:20:43Z', 'closed_at': '2013-08-02T09:33:45Z', 'labels': []}
+{'issuenumber': 178, 'title': 'Errors when inspecting BasicObject', 'state': 'closed', 'created_at': '2013-06-27T15:49:10Z', 'closed_at': '2013-08-02T09:32:45Z', 'labels': []}
+{'issuenumber': 175, 'title': 'Suppresses error statuses and returns only 500 responses', 'state': 'closed', 'created_at': '2013-06-26T19:28:02Z', 'closed_at': '2013-06-26T20:50:53Z', 'labels': []}
+{'issuenumber': 174, 'title': 'Support for Rails Engines', 'state': 'closed', 'created_at': '2013-06-25T00:25:38Z', 'closed_at': '2014-04-26T05:55:13Z', 'labels': []}
+{'issuenumber': 172, 'title': 'Backtrace management in Console/Server log', 'state': 'closed', 'created_at': '2013-06-20T04:58:40Z', 'closed_at': '2014-04-26T05:52:11Z', 'labels': []}
+{'issuenumber': 169, 'title': 'Not working when deploy on Vagrant', 'state': 'closed', 'created_at': '2013-05-27T07:53:38Z', 'closed_at': '2013-08-02T09:42:49Z', 'labels': []}
+{'issuenumber': 168, 'title': 'Add changelog', 'state': 'closed', 'created_at': '2013-05-21T10:35:30Z', 'closed_at': '2013-08-31T04:25:13Z', 'labels': []}
+{'issuenumber': 166, 'title': 'Issue with Haml indentation & binding_of_caller gem', 'state': 'closed', 'created_at': '2013-05-16T00:19:45Z', 'closed_at': '2013-08-29T05:34:09Z', 'labels': []}
+{'issuenumber': 165, 'title': 'Use the gem only when visiting __better_errors path', 'state': 'closed', 'created_at': '2013-05-15T22:41:25Z', 'closed_at': '2013-08-02T09:53:19Z', 'labels': []}
+{'issuenumber': 163, 'title': 'Better errors does not display when an error is thrown', 'state': 'closed', 'created_at': '2013-05-09T21:16:49Z', 'closed_at': '2013-08-02T09:38:27Z', 'labels': []}
+{'issuenumber': 162, 'title': 'Better errors does not display when an error is thrown', 'state': 'closed', 'created_at': '2013-05-08T23:22:25Z', 'closed_at': '2013-05-09T21:15:26Z', 'labels': []}
+{'issuenumber': 161, 'title': "Better Errors won't activate", 'state': 'closed', 'created_at': '2013-05-08T04:29:22Z', 'closed_at': '2013-08-02T09:37:54Z', 'labels': []}
+{'issuenumber': 160, 'title': 'Show binding_of_caller tip only on platforms that support it', 'state': 'closed', 'created_at': '2013-05-03T12:51:24Z', 'closed_at': '2013-09-08T14:31:07Z', 'labels': []}
+{'issuenumber': 159, 'title': 'Causes unreliable testing results', 'state': 'closed', 'created_at': '2013-05-03T03:14:24Z', 'closed_at': '2013-08-02T09:31:57Z', 'labels': []}
+{'issuenumber': 157, 'title': 'Significant slowdown with Sprockets', 'state': 'closed', 'created_at': '2013-04-23T20:07:43Z', 'closed_at': '2013-04-24T00:23:45Z', 'labels': []}
+{'issuenumber': 156, 'title': 'Ruby-2.0 Segfault on error', 'state': 'closed', 'created_at': '2013-04-22T04:14:53Z', 'closed_at': '2013-08-02T09:31:38Z', 'labels': []}
+{'issuenumber': 155, 'title': 'Alternatives to Exception#initialize?', 'state': 'closed', 'created_at': '2013-04-18T13:40:38Z', 'closed_at': '2013-05-24T13:40:59Z', 'labels': []}
+{'issuenumber': 154, 'title': "Better Errors doesn't activate", 'state': 'closed', 'created_at': '2013-04-17T13:21:21Z', 'closed_at': '2013-04-17T16:52:46Z', 'labels': []}
+{'issuenumber': 151, 'title': 'Feature request: access console for successful requests', 'state': 'closed', 'created_at': '2013-04-11T04:59:32Z', 'closed_at': '2013-08-02T10:01:57Z', 'labels': []}
+{'issuenumber': 148, 'title': 'Markdown output: replace angle brackets', 'state': 'closed', 'created_at': '2013-03-27T01:51:52Z', 'closed_at': '2013-08-02T10:04:51Z', 'labels': []}
+{'issuenumber': 147, 'title': 'Better Error suddenly stopped displaying REPL and the instance and local variable information', 'state': 'closed', 'created_at': '2013-03-27T01:22:32Z', 'closed_at': '2013-08-02T09:46:09Z', 'labels': []}
+{'issuenumber': 144, 'title': 'More IPV6 and better_errors incompatability', 'state': 'closed', 'created_at': '2013-03-14T15:47:35Z', 'closed_at': '2013-08-02T09:27:59Z', 'labels': []}
+{'issuenumber': 142, 'title': 'rake db:create error', 'state': 'closed', 'created_at': '2013-03-11T14:29:05Z', 'closed_at': '2013-08-02T09:47:40Z', 'labels': []}
+{'issuenumber': 141, 'title': "Can't start rails server when IPv6 is not available", 'state': 'closed', 'created_at': '2013-03-05T16:11:29Z', 'closed_at': '2013-03-09T05:31:43Z', 'labels': []}
+{'issuenumber': 140, 'title': 'ActionController::RoutingError (No route matches [POST] "/admin/__better_errors/70209007434760/variables"):', 'state': 'closed', 'created_at': '2013-03-05T16:06:32Z', 'closed_at': '2013-03-09T05:35:29Z', 'labels': []}
+{'issuenumber': 139, 'title': 'Strange Print of "Better Error"', 'state': 'closed', 'created_at': '2013-03-03T18:24:01Z', 'closed_at': '2013-03-09T06:44:34Z', 'labels': []}
+{'issuenumber': 138, 'title': 'Rake actions fail after installation of 0.7.0 on Windows', 'state': 'closed', 'created_at': '2013-03-01T01:57:04Z', 'closed_at': '2013-03-09T05:31:57Z', 'labels': []}
+{'issuenumber': 137, 'title': 'Segmentation Fault when Better Errors is included with Rspec', 'state': 'closed', 'created_at': '2013-02-28T08:04:13Z', 'closed_at': '2013-03-09T05:34:21Z', 'labels': []}
+{'issuenumber': 135, 'title': 'Better errors hangs on 500 when using zeus', 'state': 'closed', 'created_at': '2013-02-26T20:44:32Z', 'closed_at': '2013-03-09T06:21:02Z', 'labels': []}
+{'issuenumber': 134, 'title': 'binding_of_caller and scope instance variables', 'state': 'closed', 'created_at': '2013-02-23T17:32:46Z', 'closed_at': '2013-08-02T09:37:18Z', 'labels': []}
+{'issuenumber': 133, 'title': 'Not working on vagrant', 'state': 'closed', 'created_at': '2013-02-23T08:41:55Z', 'closed_at': '2013-02-23T08:43:11Z', 'labels': []}
+{'issuenumber': 132, 'title': "unicorn: advanced features don't show up", 'state': 'closed', 'created_at': '2013-02-22T14:48:24Z', 'closed_at': '2013-03-09T06:15:53Z', 'labels': []}
+{'issuenumber': 131, 'title': 'Add date of when error occured', 'state': 'closed', 'created_at': '2013-02-21T08:22:42Z', 'closed_at': '2013-03-09T06:27:25Z', 'labels': []}
+{'issuenumber': 127, 'title': "The header does not look well when the error message has multilines or it's very long", 'state': 'closed', 'created_at': '2013-02-17T09:02:07Z', 'closed_at': '2013-03-09T06:14:30Z', 'labels': []}
+{'issuenumber': 125, 'title': "Doesn't work behind reverse proxy anymore? - ArgumentError (invalid address)", 'state': 'closed', 'created_at': '2013-02-15T21:21:57Z', 'closed_at': '2013-08-02T09:48:14Z', 'labels': []}
+{'issuenumber': 124, 'title': 'Rails boots very slowly with Ruby 2.0.0 and bindings_of_caller', 'state': 'closed', 'created_at': '2013-02-15T16:37:48Z', 'closed_at': '2013-02-16T12:11:53Z', 'labels': []}
+{'issuenumber': 123, 'title': 'Seeing only the stack trace', 'state': 'closed', 'created_at': '2013-02-14T09:31:08Z', 'closed_at': '2013-02-14T11:21:29Z', 'labels': []}
+{'issuenumber': 122, 'title': 'better_errors-0.5.0 - expecting kEND', 'state': 'closed', 'created_at': '2013-02-12T16:09:49Z', 'closed_at': '2013-02-12T21:24:47Z', 'labels': []}
+{'issuenumber': 119, 'title': 'uninitialized constant ActionDispatch::DebugExceptions', 'state': 'closed', 'created_at': '2013-02-05T16:53:59Z', 'closed_at': '2013-02-07T09:35:20Z', 'labels': []}
+{'issuenumber': 118, 'title': 'config.consider_all_requests_local is not taken into account.', 'state': 'closed', 'created_at': '2013-02-05T15:51:58Z', 'closed_at': '2013-02-07T09:40:38Z', 'labels': []}
+{'issuenumber': 116, 'title': 'Not working in Rails 2.3.16', 'state': 'closed', 'created_at': '2013-02-04T19:07:15Z', 'closed_at': '2013-08-02T09:41:34Z', 'labels': []}
+{'issuenumber': 115, 'title': 'application frames and variables empty on linux mint 13, any browser', 'state': 'closed', 'created_at': '2013-02-03T23:07:38Z', 'closed_at': '2013-02-03T23:47:29Z', 'labels': []}
+{'issuenumber': 111, 'title': 'Segfault', 'state': 'closed', 'created_at': '2013-02-01T21:53:03Z', 'closed_at': '2013-02-07T10:29:55Z', 'labels': []}
+{'issuenumber': 108, 'title': 'Support local configuration file', 'state': 'closed', 'created_at': '2013-01-31T17:58:04Z', 'closed_at': '2013-02-07T09:41:20Z', 'labels': []}
+{'issuenumber': 107, 'title': 'ERB template discovery broken (Sinatra)', 'state': 'closed', 'created_at': '2013-01-31T12:40:25Z', 'closed_at': '2013-02-05T12:21:21Z', 'labels': []}
+{'issuenumber': 106, 'title': 'Better Errors + Firebug + Ajax Requests', 'state': 'closed', 'created_at': '2013-01-30T20:21:38Z', 'closed_at': '2013-02-07T11:26:16Z', 'labels': []}
+{'issuenumber': 101, 'title': "Better Errors doesn't activate for my app", 'state': 'closed', 'created_at': '2013-01-26T17:37:20Z', 'closed_at': '2013-08-02T09:48:59Z', 'labels': []}
+{'issuenumber': 100, 'title': "open default with sublime doesn't seem to work", 'state': 'closed', 'created_at': '2013-01-26T13:46:24Z', 'closed_at': '2013-02-07T11:08:20Z', 'labels': []}
+{'issuenumber': 99, 'title': "A way to configure what ip's are 'local'", 'state': 'closed', 'created_at': '2013-01-25T08:48:18Z', 'closed_at': '2013-02-23T14:05:16Z', 'labels': []}
+{'issuenumber': 98, 'title': 'Short AJAX responce to view it in Deverloper Tools', 'state': 'closed', 'created_at': '2013-01-23T15:07:42Z', 'closed_at': '2013-01-24T23:15:43Z', 'labels': []}
+{'issuenumber': 96, 'title': 'Exception monkey-patch interferes with ActiveSupport::Dependencies', 'state': 'closed', 'created_at': '2013-01-22T22:34:41Z', 'closed_at': '2013-08-02T09:41:52Z', 'labels': []}
+{'issuenumber': 93, 'title': "Doesn't work with rails mountable engine", 'state': 'closed', 'created_at': '2013-01-20T23:16:56Z', 'closed_at': '2013-03-09T05:35:26Z', 'labels': []}
+{'issuenumber': 92, 'title': 'Security: Remind Users of the Dangers of a Live REPL', 'state': 'closed', 'created_at': '2013-01-18T17:43:58Z', 'closed_at': '2013-01-22T08:02:27Z', 'labels': []}
+{'issuenumber': 91, 'title': 'Support for turbolinks', 'state': 'closed', 'created_at': '2013-01-17T14:51:07Z', 'closed_at': '2013-01-17T19:55:07Z', 'labels': []}
+{'issuenumber': 90, 'title': 'Is it not work in ActiveAdmin Gem ?', 'state': 'closed', 'created_at': '2013-01-14T11:59:44Z', 'closed_at': '2013-08-02T09:42:22Z', 'labels': []}
+{'issuenumber': 89, 'title': "Sinatra: Advanced features don't show up", 'state': 'closed', 'created_at': '2013-01-12T13:26:47Z', 'closed_at': '2013-01-20T11:42:38Z', 'labels': []}
+{'issuenumber': 87, 'title': 'Idea: Text-only, Markdown-formatted errors', 'state': 'closed', 'created_at': '2013-01-10T02:11:14Z', 'closed_at': '2013-02-07T11:01:35Z', 'labels': []}
+{'issuenumber': 86, 'title': 'binding_of_caller message is unpleasant after a while', 'state': 'closed', 'created_at': '2013-01-09T01:10:46Z', 'closed_at': '2013-01-10T09:55:58Z', 'labels': []}
+{'issuenumber': 84, 'title': 'Json Parse error', 'state': 'closed', 'created_at': '2013-01-04T15:25:17Z', 'closed_at': '2013-02-07T11:14:26Z', 'labels': []}
+{'issuenumber': 82, 'title': 'PSA: Frame tracing and Binding of Caller in Ruby 2.0', 'state': 'closed', 'created_at': '2012-12-30T20:42:54Z', 'closed_at': '2012-12-30T21:38:06Z', 'labels': []}
+{'issuenumber': 81, 'title': 'LocalJumpError', 'state': 'closed', 'created_at': '2012-12-25T07:45:56Z', 'closed_at': '2013-02-05T12:49:22Z', 'labels': []}
+{'issuenumber': 77, 'title': 'Slows down the browser and the server too', 'state': 'closed', 'created_at': '2012-12-20T11:02:42Z', 'closed_at': '2013-01-19T15:15:50Z', 'labels': []}
+{'issuenumber': 76, 'title': 'Support for earlier versions of JRuby, back to 1.6.7', 'state': 'closed', 'created_at': '2012-12-20T10:21:55Z', 'closed_at': '2013-03-09T06:12:51Z', 'labels': []}
+{'issuenumber': 75, 'title': 'Enhancement request: Pretty up the JSON param', 'state': 'closed', 'created_at': '2012-12-18T15:38:27Z', 'closed_at': '2014-04-26T05:47:09Z', 'labels': []}
+{'issuenumber': 74, 'title': 'No REPL or instance variables when running pow', 'state': 'closed', 'created_at': '2012-12-18T15:30:36Z', 'closed_at': '2013-02-07T11:15:25Z', 'labels': []}
+{'issuenumber': 73, 'title': 'Problem with better_error using chrome v 12.0.742.112 on Ubuntu 11.10', 'state': 'closed', 'created_at': '2012-12-18T14:55:57Z', 'closed_at': '2013-02-07T11:04:47Z', 'labels': []}
+{'issuenumber': 72, 'title': 'Auto-inspecting ActiveRecord::Relation hangs the server', 'state': 'closed', 'created_at': '2012-12-17T16:42:22Z', 'closed_at': '2013-02-07T11:17:41Z', 'labels': []}
+{'issuenumber': 71, 'title': 'RuntimeError: No such middleware to insert before: Rails::Rack::Logger', 'state': 'closed', 'created_at': '2012-12-17T02:05:28Z', 'closed_at': '2013-02-26T20:53:17Z', 'labels': []}
+{'issuenumber': 67, 'title': 'Use alias chain to override Exception#initialize.', 'state': 'closed', 'created_at': '2012-12-16T22:01:15Z', 'closed_at': '2013-03-09T06:40:40Z', 'labels': []}
+{'issuenumber': 64, 'title': 'HOW-TO: emacs:// URLs', 'state': 'closed', 'created_at': '2012-12-15T22:09:13Z', 'closed_at': '2012-12-27T08:44:19Z', 'labels': []}
+{'issuenumber': 61, 'title': 'Seg fault', 'state': 'closed', 'created_at': '2012-12-14T23:08:19Z', 'closed_at': '2013-08-02T09:32:14Z', 'labels': []}
+{'issuenumber': 60, 'title': 'better_errors is swallowing all exceptions', 'state': 'closed', 'created_at': '2012-12-14T19:46:43Z', 'closed_at': '2012-12-19T05:11:53Z', 'labels': []}
+{'issuenumber': 57, 'title': 'Bus error when failure page loads', 'state': 'closed', 'created_at': '2012-12-13T19:55:55Z', 'closed_at': '2013-02-07T10:29:29Z', 'labels': []}
+{'issuenumber': 56, 'title': 'Google Chrome insanely open new browser tabs', 'state': 'closed', 'created_at': '2012-12-13T13:23:09Z', 'closed_at': '2012-12-14T08:16:17Z', 'labels': []}
+{'issuenumber': 55, 'title': 'Better Errors for non-web apps', 'state': 'closed', 'created_at': '2012-12-13T12:36:38Z', 'closed_at': '2012-12-16T22:06:52Z', 'labels': []}
+{'issuenumber': 54, 'title': '/__better_errors does not work if there was no error', 'state': 'closed', 'created_at': '2012-12-13T12:22:58Z', 'closed_at': '2012-12-13T15:59:00Z', 'labels': []}
+{'issuenumber': 50, 'title': 'Not working with nginx + passenger?', 'state': 'closed', 'created_at': '2012-12-13T01:47:57Z', 'closed_at': '2013-01-14T11:55:57Z', 'labels': []}
+{'issuenumber': 49, 'title': 'inexplicably, no REPL in MRI 1.9.3', 'state': 'closed', 'created_at': '2012-12-13T00:37:42Z', 'closed_at': '2013-02-07T11:16:07Z', 'labels': []}
+{'issuenumber': 47, 'title': 'Don\'t preselect "application frames" when there are no application frames', 'state': 'closed', 'created_at': '2012-12-12T14:20:14Z', 'closed_at': '2013-08-30T13:51:54Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 46, 'title': 'Javascript error on Safari 5.1.7 (7534.57.7) , Mac OS Lion', 'state': 'closed', 'created_at': '2012-12-12T14:15:23Z', 'closed_at': '2012-12-13T09:45:20Z', 'labels': []}
+{'issuenumber': 45, 'title': 'The error page should send periodic keep alive pings', 'state': 'closed', 'created_at': '2012-12-12T12:06:34Z', 'closed_at': '2013-08-02T09:54:30Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 44, 'title': 'Not compatible with Pow?', 'state': 'closed', 'created_at': '2012-12-12T07:56:49Z', 'closed_at': '2012-12-13T00:03:28Z', 'labels': []}
+{'issuenumber': 42, 'title': 'Modify Code View to Allow Copying of Code Without Copying Line Numbers', 'state': 'closed', 'created_at': '2012-12-11T21:52:29Z', 'closed_at': '2013-08-07T01:52:20Z', 'labels': []}
+{'issuenumber': 40, 'title': '"Session expired" when using REPL', 'state': 'closed', 'created_at': '2012-12-11T20:22:00Z', 'closed_at': '2012-12-16T13:33:31Z', 'labels': []}
+{'issuenumber': 38, 'title': 'Optimization: load the entire right side area via AJAX', 'state': 'closed', 'created_at': '2012-12-11T18:03:37Z', 'closed_at': '2012-12-11T18:23:11Z', 'labels': []}
+{'issuenumber': 37, 'title': 'Local/Instance variables fail if #inspect fails', 'state': 'closed', 'created_at': '2012-12-11T17:10:39Z', 'closed_at': '2012-12-11T17:37:37Z', 'labels': []}
+{'issuenumber': 36, 'title': 'Security', 'state': 'closed', 'created_at': '2012-12-11T14:58:30Z', 'closed_at': '2012-12-27T03:32:24Z', 'labels': []}
+{'issuenumber': 35, 'title': 'Class names are missing on Sass/Haml errors', 'state': 'closed', 'created_at': '2012-12-11T13:47:06Z', 'closed_at': '2012-12-12T09:29:35Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 33, 'title': "Require file that doesn't exist yields wrong error", 'state': 'closed', 'created_at': '2012-12-11T13:06:45Z', 'closed_at': '2012-12-11T13:13:27Z', 'labels': []}
+{'issuenumber': 31, 'title': "undefined method `[]' for 404 errors", 'state': 'closed', 'created_at': '2012-12-11T10:40:54Z', 'closed_at': '2012-12-11T11:53:31Z', 'labels': []}
+{'issuenumber': 30, 'title': 'IE8 support', 'state': 'closed', 'created_at': '2012-12-11T10:13:19Z', 'closed_at': '2013-02-07T11:20:33Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 29, 'title': 'Show gem names in backtrace', 'state': 'closed', 'created_at': '2012-12-11T09:53:00Z', 'closed_at': '2013-09-08T14:46:26Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 28, 'title': 'Issue with Haml indentation errors', 'state': 'closed', 'created_at': '2012-12-11T09:37:12Z', 'closed_at': '2012-12-11T10:04:09Z', 'labels': []}
+{'issuenumber': 24, 'title': 'Show syntax errors', 'state': 'closed', 'created_at': '2012-12-10T20:29:35Z', 'closed_at': '2012-12-11T01:54:32Z', 'labels': []}
+{'issuenumber': 21, 'title': 'Show Rack/Rails data', 'state': 'closed', 'created_at': '2012-12-10T17:36:01Z', 'closed_at': '2012-12-12T09:36:05Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 19, 'title': 'REPL not working when Rack run in sub directory', 'state': 'closed', 'created_at': '2012-12-10T14:23:45Z', 'closed_at': '2012-12-11T11:56:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 18, 'title': "undefined method `[]' for nil:NilClass", 'state': 'closed', 'created_at': '2012-12-10T06:58:01Z', 'closed_at': '2012-12-10T07:41:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 17, 'title': 'Support for ajax apps', 'state': 'closed', 'created_at': '2012-12-10T02:15:01Z', 'closed_at': '2013-06-20T13:12:20Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 16, 'title': 'Version 1.0.0', 'state': 'closed', 'created_at': '2012-12-10T01:53:39Z', 'closed_at': '2012-12-10T14:09:05Z', 'labels': []}
+{'issuenumber': 14, 'title': 'Prompt command history?', 'state': 'closed', 'created_at': '2012-12-09T23:45:32Z', 'closed_at': '2012-12-10T07:30:38Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 12, 'title': 'with binding_of_caller installed, errors in certain filetypes cause NoMethodError for nil:NilClass errors', 'state': 'closed', 'created_at': '2012-12-09T21:14:03Z', 'closed_at': '2012-12-10T07:40:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 11, 'title': 'lazy symbol binding failed: Symbol not found: _rb_vm_make_env_object', 'state': 'closed', 'created_at': '2012-12-09T20:47:03Z', 'closed_at': '2013-02-07T10:26:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 10, 'title': 'Weird message/error in console', 'state': 'closed', 'created_at': '2012-12-09T19:08:53Z', 'closed_at': '2012-12-09T19:56:59Z', 'labels': []}
+{'issuenumber': 9, 'title': 'What are the "advanced features?"', 'state': 'closed', 'created_at': '2012-12-09T17:43:07Z', 'closed_at': '2012-12-09T19:58:39Z', 'labels': []}
+{'issuenumber': 8, 'title': 'Errors are not shown in the console', 'state': 'closed', 'created_at': '2012-12-09T17:08:58Z', 'closed_at': '2012-12-09T20:40:27Z', 'labels': []}
+{'issuenumber': 7, 'title': 'Support for pow?', 'state': 'closed', 'created_at': '2012-12-09T13:17:36Z', 'closed_at': '2012-12-09T13:18:37Z', 'labels': []}
+{'issuenumber': 6, 'title': 'Better error page design', 'state': 'closed', 'created_at': '2012-12-09T12:15:39Z', 'closed_at': '2012-12-11T09:10:15Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 4, 'title': 'Pow and Passenger support', 'state': 'closed', 'created_at': '2012-12-09T11:56:33Z', 'closed_at': '2012-12-09T12:35:36Z', 'labels': []}
+{'issuenumber': 3, 'title': 'Support for pry?', 'state': 'closed', 'created_at': '2012-12-09T10:57:18Z', 'closed_at': '2013-09-08T14:42:58Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1, 'title': "NameError: undefined local variable or method `lib' for main:Object", 'state': 'closed', 'created_at': '2012-12-09T00:46:40Z', 'closed_at': '2012-12-09T00:58:33Z', 'labels': []}

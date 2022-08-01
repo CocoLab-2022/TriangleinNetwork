@@ -1,0 +1,566 @@
+{'issuenumber': 1048, 'title': 'Reading timeout close connection', 'state': 'closed', 'created_at': '2022-05-18T16:55:52Z', 'closed_at': '2022-05-19T03:23:41Z', 'labels': []}
+{'issuenumber': 1047, 'title': 'MULTI_STATEMENTS do not return if variable defined.', 'state': 'closed', 'created_at': '2022-04-27T15:17:12Z', 'closed_at': '2022-04-30T12:22:25Z', 'labels': []}
+{'issuenumber': 1046, 'title': "'utf-8' codec can't decode byte 0xf0 /0xe2 /0xe5...", 'state': 'closed', 'created_at': '2022-04-20T05:59:34Z', 'closed_at': '2022-04-20T07:38:24Z', 'labels': []}
+{'issuenumber': 1041, 'title': 'Password cannot contain special characters', 'state': 'closed', 'created_at': '2022-03-29T01:56:04Z', 'closed_at': '2022-03-30T09:26:18Z', 'labels': []}
+{'issuenumber': 1037, 'title': 'while mysql execute result too long,there will raise a decode error', 'state': 'closed', 'created_at': '2022-02-24T05:11:48Z', 'closed_at': '2022-02-24T05:22:07Z', 'labels': []}
+{'issuenumber': 1036, 'title': 'Using two versions in the program', 'state': 'closed', 'created_at': '2022-02-14T17:07:19Z', 'closed_at': '2022-02-15T04:06:19Z', 'labels': []}
+{'issuenumber': 1025, 'title': 'Update tested DB and Python versions', 'state': 'closed', 'created_at': '2022-01-30T22:39:33Z', 'closed_at': '2022-02-06T07:52:15Z', 'labels': []}
+{'issuenumber': 1022, 'title': 'Coveralls still defaults to master branch', 'state': 'closed', 'created_at': '2022-01-28T17:49:58Z', 'closed_at': '2022-01-31T04:51:31Z', 'labels': []}
+{'issuenumber': 1019, 'title': 'Slow load time on Table with Time Column', 'state': 'closed', 'created_at': '2021-12-27T10:58:33Z', 'closed_at': '2021-12-27T13:05:45Z', 'labels': []}
+{'issuenumber': 1018, 'title': "it's terrible for insert multiple type data", 'state': 'closed', 'created_at': '2021-12-23T13:45:42Z', 'closed_at': '2021-12-24T02:07:38Z', 'labels': []}
+{'issuenumber': 1017, 'title': 'Lost host and passwd parameters when using DBPool to call pymysql', 'state': 'closed', 'created_at': '2021-11-30T18:16:40Z', 'closed_at': '2021-12-01T22:43:05Z', 'labels': []}
+{'issuenumber': 1016, 'title': 'Warning: (1300, "Invalid utf8mb4 character string: \'800495\'")', 'state': 'closed', 'created_at': '2021-11-23T12:55:06Z', 'closed_at': '2021-11-24T03:40:04Z', 'labels': []}
+{'issuenumber': 1015, 'title': 'Use fetchmany are slow when querying large SQL table', 'state': 'closed', 'created_at': '2021-11-15T07:00:15Z', 'closed_at': '2021-11-15T08:25:44Z', 'labels': []}
+{'issuenumber': 1013, 'title': "AttributeError: 'NoneType' object has no attribute 'read' in pymysql/connections.py in 'read'self._rfile.read(num_bytes)", 'state': 'closed', 'created_at': '2021-10-11T06:58:13Z', 'closed_at': '2021-10-12T07:35:30Z', 'labels': []}
+{'issuenumber': 1011, 'title': 'I got encoding error when connecting to MySQL 8.0', 'state': 'closed', 'created_at': '2021-10-06T07:42:34Z', 'closed_at': '2021-10-06T08:02:11Z', 'labels': []}
+{'issuenumber': 1007, 'title': "AttributeError: module 'pymysql._auth' has no attribute 'scramble_old_password'", 'state': 'closed', 'created_at': '2021-09-14T02:34:37Z', 'closed_at': '2021-09-14T02:36:15Z', 'labels': []}
+{'issuenumber': 1006, 'title': 'function `_auth.scramble_old_password` lost', 'state': 'closed', 'created_at': '2021-09-06T03:18:40Z', 'closed_at': '2021-09-07T07:05:35Z', 'labels': []}
+{'issuenumber': 1005, 'title': 'bug with connect', 'state': 'closed', 'created_at': '2021-08-30T16:38:59Z', 'closed_at': '2021-08-31T02:18:03Z', 'labels': []}
+{'issuenumber': 1002, 'title': 'Connection reset running on CPython 3.6.8', 'state': 'closed', 'created_at': '2021-08-27T19:38:06Z', 'closed_at': '2021-08-27T23:36:51Z', 'labels': []}
+{'issuenumber': 1001, 'title': '_read_row_from_packet decode non-utf-8 string will report error', 'state': 'closed', 'created_at': '2021-08-27T13:35:29Z', 'closed_at': '2021-08-28T01:09:06Z', 'labels': []}
+{'issuenumber': 1000, 'title': 'Attribute error connections.py trying to use an inexisting method', 'state': 'closed', 'created_at': '2021-08-27T12:10:28Z', 'closed_at': '2021-08-28T01:11:58Z', 'labels': []}
+{'issuenumber': 998, 'title': '2003 error in WSL environment', 'state': 'closed', 'created_at': '2021-08-11T11:26:54Z', 'closed_at': '2021-08-25T05:31:50Z', 'labels': []}
+{'issuenumber': 997, 'title': 'Charset with name "latin1" is converted to "cp1252"', 'state': 'closed', 'created_at': '2021-08-09T09:51:49Z', 'closed_at': '2021-08-10T02:49:56Z', 'labels': []}
+{'issuenumber': 993, 'title': "convert_date returns 'str' object instead of None for illegal values", 'state': 'closed', 'created_at': '2021-08-02T09:01:07Z', 'closed_at': '2021-08-03T06:06:23Z', 'labels': []}
+{'issuenumber': 991, 'title': 'json_extract integer value but return string', 'state': 'closed', 'created_at': '2021-07-23T06:42:55Z', 'closed_at': '2021-07-23T07:04:52Z', 'labels': []}
+{'issuenumber': 990, 'title': 'when I use pymysql to connect the mysql of remote server, here an error occurs', 'state': 'closed', 'created_at': '2021-07-17T12:22:12Z', 'closed_at': '2021-08-25T05:32:41Z', 'labels': []}
+{'issuenumber': 987, 'title': 'Confusing exception message for yubikey protected servers', 'state': 'closed', 'created_at': '2021-06-15T00:28:52Z', 'closed_at': '2021-08-28T04:19:08Z', 'labels': []}
+{'issuenumber': 986, 'title': "Python2 Authentication plugin 'dialog' (None) not configured", 'state': 'closed', 'created_at': '2021-06-02T13:30:48Z', 'closed_at': '2021-06-03T01:22:49Z', 'labels': []}
+{'issuenumber': 985, 'title': 'autocommit mode is not set when global autocommit=0', 'state': 'closed', 'created_at': '2021-06-02T06:29:48Z', 'closed_at': '2021-08-25T07:42:33Z', 'labels': []}
+{'issuenumber': 983, 'title': 'When need to invoke `connection.begin()` before updating data', 'state': 'closed', 'created_at': '2021-05-30T14:53:19Z', 'closed_at': '2021-05-31T03:25:59Z', 'labels': []}
+{'issuenumber': 982, 'title': 'Different version cause an error', 'state': 'closed', 'created_at': '2021-04-25T08:12:04Z', 'closed_at': '2021-08-28T04:41:06Z', 'labels': []}
+{'issuenumber': 981, 'title': 'Call to non-existent function', 'state': 'closed', 'created_at': '2021-04-22T07:25:59Z', 'closed_at': '2021-08-28T03:28:45Z', 'labels': []}
+{'issuenumber': 979, 'title': 'Updates and deletes are hanging for ~900 seconds', 'state': 'closed', 'created_at': '2021-04-18T13:20:43Z', 'closed_at': '2021-08-18T05:39:03Z', 'labels': []}
+{'issuenumber': 978, 'title': 'Return all inserted primary keys when using executemany', 'state': 'closed', 'created_at': '2021-04-06T12:13:24Z', 'closed_at': '2021-04-06T12:32:49Z', 'labels': []}
+{'issuenumber': 977, 'title': 'select_db() configuration should persist between reconnections', 'state': 'closed', 'created_at': '2021-03-21T04:18:05Z', 'closed_at': '2021-03-22T05:33:09Z', 'labels': []}
+{'issuenumber': 976, 'title': "UnicodeError: encoding with 'idna' codec failed (UnicodeError: label empty or too long)", 'state': 'closed', 'created_at': '2021-03-18T16:04:25Z', 'closed_at': '2021-03-25T12:10:52Z', 'labels': []}
+{'issuenumber': 975, 'title': "test_connection.py failing with syntax error KeyError: 'database'", 'state': 'closed', 'created_at': '2021-03-17T05:24:56Z', 'closed_at': '2021-03-17T05:30:32Z', 'labels': []}
+{'issuenumber': 973, 'title': 'Query data -  2 applications', 'state': 'closed', 'created_at': '2021-03-12T23:17:23Z', 'closed_at': '2021-03-12T23:36:02Z', 'labels': []}
+{'issuenumber': 971, 'title': 'InternalError: Packet sequence number wrong - got 1 expected 0', 'state': 'closed', 'created_at': '2021-03-05T12:42:11Z', 'closed_at': '2021-03-06T11:46:25Z', 'labels': []}
+{'issuenumber': 970, 'title': "pymysql/cursors.py:170: Warning: (3090, '')", 'state': 'closed', 'created_at': '2021-03-02T06:27:27Z', 'closed_at': '2021-03-03T08:58:58Z', 'labels': []}
+{'issuenumber': 969, 'title': 'Issue with Latest PyMySQL version 1.0.2', 'state': 'closed', 'created_at': '2021-03-01T14:09:26Z', 'closed_at': '2021-03-02T01:17:25Z', 'labels': []}
+{'issuenumber': 968, 'title': "Python 2.7.16 install V1.0.x TypeError: 'encoding' is an invalid keyword argument for this function", 'state': 'closed', 'created_at': '2021-02-23T07:37:03Z', 'closed_at': '2021-02-23T09:24:32Z', 'labels': []}
+{'issuenumber': 967, 'title': "SECURITY: bad regex pattern in 'pymysql/cursors.py' will cause 'ReDos' security problem.", 'state': 'closed', 'created_at': '2021-02-23T03:04:03Z', 'closed_at': '2021-08-28T06:38:37Z', 'labels': []}
+{'issuenumber': 965, 'title': 'How to use %s if we want to add/update key-value pairs in the field which has JSON data type?', 'state': 'closed', 'created_at': '2021-02-22T12:58:01Z', 'closed_at': '2021-02-22T13:10:47Z', 'labels': []}
+{'issuenumber': 963, 'title': 'Chinese disorder code', 'state': 'closed', 'created_at': '2021-02-17T02:27:14Z', 'closed_at': '2021-02-17T03:21:01Z', 'labels': []}
+{'issuenumber': 961, 'title': "Connection.__del__ doesn't close the connection properly.", 'state': 'closed', 'created_at': '2021-02-12T15:14:56Z', 'closed_at': '2021-02-13T11:43:20Z', 'labels': []}
+{'issuenumber': 959, 'title': 'No moduled named pymysql error ', 'state': 'closed', 'created_at': '2021-02-04T08:51:13Z', 'closed_at': '2021-02-10T07:47:05Z', 'labels': []}
+{'issuenumber': 958, 'title': "Version 1.0.2 when used with pandas.read_sql now display b'mydata' instead of mydata", 'state': 'closed', 'created_at': '2021-02-04T00:43:55Z', 'closed_at': '2021-03-22T05:31:35Z', 'labels': []}
+{'issuenumber': 956, 'title': '* <-  SyntaxError: invalid syntax on connections.py line 167', 'state': 'closed', 'created_at': '2021-02-02T06:13:38Z', 'closed_at': '2021-02-02T06:17:22Z', 'labels': []}
+{'issuenumber': 955, 'title': 'test_auth.py test is failing due to ssl issue ', 'state': 'closed', 'created_at': '2021-01-29T08:34:06Z', 'closed_at': '2021-01-29T08:43:37Z', 'labels': []}
+{'issuenumber': 953, 'title': 'Introduce types (replace stubs in typeshed)', 'state': 'closed', 'created_at': '2021-01-23T20:37:23Z', 'closed_at': '2021-01-24T02:59:35Z', 'labels': []}
+{'issuenumber': 951, 'title': 'Data Error raising  at test test_issue_321 in file pymysql/tests/test_issues.py', 'state': 'closed', 'created_at': '2021-01-21T12:52:39Z', 'closed_at': '2021-01-24T03:00:45Z', 'labels': []}
+{'issuenumber': 947, 'title': 'Remove cursor._last_executed.', 'state': 'closed', 'created_at': '2021-01-18T06:41:41Z', 'closed_at': '2021-01-19T11:51:29Z', 'labels': []}
+{'issuenumber': 943, 'title': "PREPARE works on phpmyadmin but doesn't when used with pymysql", 'state': 'closed', 'created_at': '2021-01-08T18:43:26Z', 'closed_at': '2021-01-08T22:57:35Z', 'labels': {'name': 'Not an issue'}}
+{'issuenumber': 942, 'title': 'SyntaxError during installation of pymysql-1.0.1', 'state': 'closed', 'created_at': '2021-01-08T16:49:14Z', 'closed_at': '2021-01-08T23:06:04Z', 'labels': {'name': 'Not an issue'}}
+{'issuenumber': 939, 'title': 'proposal:  keep "db" and "passwd" around as long term "legacy" keywords, remove warnings', 'state': 'closed', 'created_at': '2021-01-07T14:05:08Z', 'closed_at': '2021-01-08T01:38:14Z', 'labels': []}
+{'issuenumber': 935, 'title': 'Did pymysql ended python2 suppport or is it a bug?', 'state': 'closed', 'created_at': '2021-01-07T06:15:18Z', 'closed_at': '2021-01-07T06:24:32Z', 'labels': {'name': 'Not an issue'}}
+{'issuenumber': 934, 'title': '"with" context manager doesn\'t work', 'state': 'closed', 'created_at': '2021-01-06T16:01:24Z', 'closed_at': '2021-01-06T16:26:40Z', 'labels': {'name': 'Not an issue'}}
+{'issuenumber': 926, 'title': 'pymysql；', 'state': 'closed', 'created_at': '2021-01-04T03:26:01Z', 'closed_at': '2021-01-04T03:29:08Z', 'labels': {'name': 'Not an issue'}}
+{'issuenumber': 916, 'title': 'Move to GitHub Actions', 'state': 'closed', 'created_at': '2021-01-02T08:11:54Z', 'closed_at': '2021-01-03T02:55:37Z', 'labels': []}
+{'issuenumber': 911, 'title': 'Compare the fetch-methods in the documentation', 'state': 'closed', 'created_at': '2020-12-22T07:48:55Z', 'closed_at': '2021-01-02T06:56:43Z', 'labels': []}
+{'issuenumber': 910, 'title': 'Update documentation to mention that Cursor.execute eagerly downloads rows', 'state': 'closed', 'created_at': '2020-12-22T07:41:09Z', 'closed_at': '2021-01-02T06:59:21Z', 'labels': []}
+{'issuenumber': 908, 'title': 'It throw this error when I try to reconnect MySQL time after time too fast', 'state': 'closed', 'created_at': '2020-12-10T02:29:02Z', 'closed_at': '2020-12-10T02:45:00Z', 'labels': []}
+{'issuenumber': 906, 'title': "pymysql.err.InterfaceError: (0, '')", 'state': 'closed', 'created_at': '2020-11-23T05:15:01Z', 'closed_at': '2020-11-23T05:52:13Z', 'labels': []}
+{'issuenumber': 905, 'title': 'when run manage.py runserver', 'state': 'closed', 'created_at': '2020-11-22T12:22:38Z', 'closed_at': '2020-11-22T13:43:06Z', 'labels': []}
+{'issuenumber': 904, 'title': 'pymysql.err.InternalError: (5004  xxxxxx  is multi ts)', 'state': 'closed', 'created_at': '2020-11-10T09:55:54Z', 'closed_at': '2020-12-03T04:28:13Z', 'labels': []}
+{'issuenumber': 902, 'title': 'update null value got a ProgrammingError', 'state': 'closed', 'created_at': '2020-10-29T06:31:58Z', 'closed_at': '2020-10-29T06:32:38Z', 'labels': []}
+{'issuenumber': 901, 'title': "None Type object has no attribute 'read'", 'state': 'closed', 'created_at': '2020-10-26T22:22:29Z', 'closed_at': '2020-10-27T06:03:08Z', 'labels': []}
+{'issuenumber': 900, 'title': "SQL syntax error occurs when passing future.types.newstr's instance to sql args", 'state': 'closed', 'created_at': '2020-10-10T04:16:16Z', 'closed_at': '2020-10-10T05:12:28Z', 'labels': []}
+{'issuenumber': 899, 'title': 'Stopping SQL service causes fatal error - free(): corrupted unsorted chunks, Backend terminated or disconnected.Fatal Python error: Aborted', 'state': 'closed', 'created_at': '2020-10-08T06:59:07Z', 'closed_at': '2020-10-08T07:00:42Z', 'labels': []}
+{'issuenumber': 897, 'title': 'When Upgrading Django1.11 to Django latest', 'state': 'closed', 'created_at': '2020-09-18T07:44:20Z', 'closed_at': '2020-12-03T04:29:03Z', 'labels': []}
+{'issuenumber': 896, 'title': 'AssertionError: Result length not requested length:', 'state': 'closed', 'created_at': '2020-09-14T10:35:19Z', 'closed_at': '2020-09-14T23:44:55Z', 'labels': []}
+{'issuenumber': 895, 'title': 'Git release (tag) 0.10.1 is missing', 'state': 'closed', 'created_at': '2020-09-12T18:43:27Z', 'closed_at': '2020-10-02T08:37:55Z', 'labels': []}
+{'issuenumber': 894, 'title': 'Unexpected result returned on GROUP_CONCAT', 'state': 'closed', 'created_at': '2020-09-12T15:17:35Z', 'closed_at': '2020-09-12T15:41:58Z', 'labels': []}
+{'issuenumber': 893, 'title': 'Unable to login when using sha256_password targeting MySQL 5.7.27 and lower', 'state': 'closed', 'created_at': '2020-09-12T07:05:31Z', 'closed_at': '2020-09-15T08:39:30Z', 'labels': []}
+{'issuenumber': 891, 'title': 'When insert the data, the None type will be treat as empty string instead of null', 'state': 'closed', 'created_at': '2020-09-09T07:31:09Z', 'closed_at': '2020-09-09T09:25:37Z', 'labels': []}
+{'issuenumber': 890, 'title': 'Unable to login with password greater than 19 characters when using caching_sha2_password authentication plugin', 'state': 'closed', 'created_at': '2020-09-08T14:48:33Z', 'closed_at': '2020-09-09T09:03:06Z', 'labels': []}
+{'issuenumber': 889, 'title': 'SqlLAchemy multi  query gives 1064, "You have an error in your SQL syntax;', 'state': 'closed', 'created_at': '2020-08-28T19:46:09Z', 'closed_at': '2020-08-29T02:32:02Z', 'labels': []}
+{'issuenumber': 888, 'title': "Can't pymysql set the case sensitivity?", 'state': 'closed', 'created_at': '2020-08-28T11:59:43Z', 'closed_at': '2020-08-28T12:54:02Z', 'labels': []}
+{'issuenumber': 887, 'title': 'different packet content in a same query', 'state': 'closed', 'created_at': '2020-08-24T02:52:44Z', 'closed_at': '2020-08-24T05:57:37Z', 'labels': []}
+{'issuenumber': 884, 'title': 'How to preserve comments in statements?', 'state': 'closed', 'created_at': '2020-08-11T15:01:30Z', 'closed_at': '2020-08-12T02:01:36Z', 'labels': []}
+{'issuenumber': 883, 'title': 'v0.10.0 tag missing', 'state': 'closed', 'created_at': '2020-08-10T11:02:18Z', 'closed_at': '2020-08-11T01:06:35Z', 'labels': []}
+{'issuenumber': 882, 'title': 'Semantic versioning', 'state': 'closed', 'created_at': '2020-08-06T16:47:58Z', 'closed_at': '2020-08-07T01:36:55Z', 'labels': []}
+{'issuenumber': 881, 'title': "[WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted',))", 'state': 'closed', 'created_at': '2020-08-05T08:03:20Z', 'closed_at': '2020-08-05T08:32:30Z', 'labels': []}
+{'issuenumber': 880, 'title': "Queries containing the '%' character lead to exceptions", 'state': 'closed', 'created_at': '2020-08-03T11:58:31Z', 'closed_at': '2020-08-04T03:33:10Z', 'labels': []}
+{'issuenumber': 878, 'title': 'converters module missing import of ProgrammingError', 'state': 'closed', 'created_at': '2020-07-27T15:24:15Z', 'closed_at': '2020-07-28T04:06:07Z', 'labels': []}
+{'issuenumber': 877, 'title': 'connection.encoding not set since version 0.10.0', 'state': 'closed', 'created_at': '2020-07-27T09:15:21Z', 'closed_at': '2020-07-28T04:02:29Z', 'labels': []}
+{'issuenumber': 876, 'title': "module 'asyncio.streams' has no attribute 'IncompleteReadError'", 'state': 'closed', 'created_at': '2020-07-24T15:51:43Z', 'closed_at': '2020-07-25T02:40:17Z', 'labels': []}
+{'issuenumber': 874, 'title': '[Ask for help] In a query, how to add a new field before all of the existing fields in a table ?', 'state': 'closed', 'created_at': '2020-07-19T09:03:34Z', 'closed_at': '2020-07-20T03:29:08Z', 'labels': []}
+{'issuenumber': 871, 'title': 'support --no-auto-rehash', 'state': 'closed', 'created_at': '2020-07-10T05:10:43Z', 'closed_at': '2020-07-10T05:12:19Z', 'labels': []}
+{'issuenumber': 870, 'title': '"You have an error in your SQL syntax" when running multiple queries', 'state': 'closed', 'created_at': '2020-07-09T01:44:35Z', 'closed_at': '2020-07-09T01:47:05Z', 'labels': []}
+{'issuenumber': 869, 'title': 'threadsafety is 1？that is not a good ideal for pool conenct.', 'state': 'closed', 'created_at': '2020-07-06T07:15:48Z', 'closed_at': '2020-07-06T07:36:49Z', 'labels': []}
+{'issuenumber': 868, 'title': 'Load data local infile works on windows but not on ubuntu', 'state': 'closed', 'created_at': '2020-07-01T10:02:17Z', 'closed_at': '2020-07-02T00:36:13Z', 'labels': []}
+{'issuenumber': 867, 'title': '"coverage unknown" readme badge', 'state': 'closed', 'created_at': '2020-06-30T12:22:34Z', 'closed_at': '2020-07-17T01:11:23Z', 'labels': []}
+{'issuenumber': 866, 'title': 'save() method  update full columns', 'state': 'closed', 'created_at': '2020-06-19T12:53:49Z', 'closed_at': '2020-06-19T12:57:16Z', 'labels': []}
+{'issuenumber': 865, 'title': 'Why save() method means update full columns', 'state': 'closed', 'created_at': '2020-06-19T12:36:45Z', 'closed_at': '2020-06-19T12:44:45Z', 'labels': []}
+{'issuenumber': 864, 'title': 'Document differences between Oracle implementation and PyMySQL', 'state': 'closed', 'created_at': '2020-06-13T06:39:05Z', 'closed_at': '2020-07-17T00:08:28Z', 'labels': []}
+{'issuenumber': 863, 'title': 'Incorrect behavior with mixing "%" symbol and prepared statemtnts', 'state': 'closed', 'created_at': '2020-06-11T07:09:55Z', 'closed_at': '2020-06-11T07:35:39Z', 'labels': []}
+{'issuenumber': 862, 'title': 'ssl.SSLError: [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1056)', 'state': 'closed', 'created_at': '2020-06-01T09:30:17Z', 'closed_at': '2020-06-01T10:08:14Z', 'labels': []}
+{'issuenumber': 861, 'title': 'query same sql , change  table ,result is same', 'state': 'closed', 'created_at': '2020-05-29T17:02:41Z', 'closed_at': '2020-05-30T02:43:24Z', 'labels': []}
+{'issuenumber': 860, 'title': 'Packet sequence number wrong - got 1 expected 0', 'state': 'closed', 'created_at': '2020-05-29T13:28:28Z', 'closed_at': '2020-06-08T09:26:24Z', 'labels': []}
+{'issuenumber': 859, 'title': 'escape_string() escape \' / " maybe have some bugs', 'state': 'closed', 'created_at': '2020-05-29T09:53:11Z', 'closed_at': '2020-05-29T10:21:56Z', 'labels': []}
+{'issuenumber': 856, 'title': 'Correct value of date format goes to raise 1292 error', 'state': 'closed', 'created_at': '2020-04-19T20:50:57Z', 'closed_at': '2020-04-20T06:23:54Z', 'labels': []}
+{'issuenumber': 855, 'title': 'Help executing SP in batch', 'state': 'closed', 'created_at': '2020-04-17T19:32:38Z', 'closed_at': '2020-04-18T06:32:32Z', 'labels': []}
+{'issuenumber': 854, 'title': 'AssertionError: Protocol error, expecting EOF', 'state': 'closed', 'created_at': '2020-04-12T15:39:33Z', 'closed_at': '2020-07-17T00:09:00Z', 'labels': []}
+{'issuenumber': 853, 'title': 'Questions about connecting IPv6', 'state': 'closed', 'created_at': '2020-04-01T04:05:28Z', 'closed_at': '2020-04-01T06:56:00Z', 'labels': []}
+{'issuenumber': 852, 'title': 'Matching Charsets as Incorrect String ', 'state': 'closed', 'created_at': '2020-03-31T01:37:35Z', 'closed_at': '2020-03-31T01:47:30Z', 'labels': []}
+{'issuenumber': 851, 'title': 'Invalid error mapping to InternalError instead of DataError', 'state': 'closed', 'created_at': '2020-03-27T11:11:14Z', 'closed_at': '2020-07-17T01:03:06Z', 'labels': []}
+{'issuenumber': 850, 'title': 'error  client_flag=pymysql.constants.CLIENT.MULTI_STATEMENTS', 'state': 'closed', 'created_at': '2020-03-26T17:46:27Z', 'closed_at': '2020-03-27T00:20:44Z', 'labels': []}
+{'issuenumber': 849, 'title': 'How can I ignore UnicodeDecodeError when I use cursor.execute(sql);cursor.fetchall();', 'state': 'closed', 'created_at': '2020-03-26T07:36:07Z', 'closed_at': '2020-03-26T07:39:54Z', 'labels': []}
+{'issuenumber': 848, 'title': 'Feature request unescape string', 'state': 'closed', 'created_at': '2020-03-23T14:06:28Z', 'closed_at': '2020-04-02T01:19:16Z', 'labels': []}
+{'issuenumber': 847, 'title': "ping(reconnect=True) doesn't reconnect the database", 'state': 'closed', 'created_at': '2020-03-23T13:29:13Z', 'closed_at': '2020-03-24T06:57:41Z', 'labels': []}
+{'issuenumber': 845, 'title': 'Packet sequence number wrong - got 102 expected 3', 'state': 'closed', 'created_at': '2020-03-04T15:04:50Z', 'closed_at': '2020-03-06T05:15:28Z', 'labels': []}
+{'issuenumber': 842, 'title': 'Add support for SSL/TLS verify_mode', 'state': 'closed', 'created_at': '2020-02-25T05:40:49Z', 'closed_at': '2021-01-02T08:11:20Z', 'labels': {'name': 'Feature Request'}}
+{'issuenumber': 841, 'title': 'Syntax error after upgrading from 0.7.11 to 0.9.3', 'state': 'closed', 'created_at': '2020-02-17T11:44:48Z', 'closed_at': '2020-02-18T02:08:06Z', 'labels': []}
+{'issuenumber': 839, 'title': 'feature request: establish connection string via DSN?', 'state': 'closed', 'created_at': '2020-02-04T20:06:38Z', 'closed_at': '2020-02-05T07:37:59Z', 'labels': []}
+{'issuenumber': 838, 'title': 'pymysql.err.Warning: (1300, "Invalid gbk character string: \'F2\'")', 'state': 'closed', 'created_at': '2020-01-09T11:03:58Z', 'closed_at': '2020-01-10T01:16:08Z', 'labels': []}
+{'issuenumber': 836, 'title': 'help', 'state': 'closed', 'created_at': '2019-12-15T14:37:51Z', 'closed_at': '2019-12-16T03:21:11Z', 'labels': []}
+{'issuenumber': 834, 'title': 'symbol \'%\' are explained internally in cursors.py causing python grammar error: "ValueError: unsupported format"', 'state': 'closed', 'created_at': '2019-12-07T10:56:33Z', 'closed_at': '2019-12-07T14:03:31Z', 'labels': []}
+{'issuenumber': 832, 'title': 'Fix simple typo: suports -> supports', 'state': 'closed', 'created_at': '2019-12-07T09:17:40Z', 'closed_at': '2019-12-07T14:06:35Z', 'labels': []}
+{'issuenumber': 831, 'title': 'Select query returns some values as None when present in the DB', 'state': 'closed', 'created_at': '2019-12-04T14:38:06Z', 'closed_at': '2019-12-04T16:12:04Z', 'labels': []}
+{'issuenumber': 829, 'title': "* You shouldn't use the issue tracker to ask about the error you saw.  **OSS maintainers are not free tech support!!**  People like you are killing OSS which maintained by volunteers.  Read [this article](https://medium.com/@methane/why-you-must-not-ask-questions-on-github-issues-51d741d83fde)", 'state': 'closed', 'created_at': '2019-11-27T15:20:45Z', 'closed_at': '2019-11-27T16:27:49Z', 'labels': []}
+{'issuenumber': 827, 'title': 'cursor.mogrify Decimal type processing (#818)', 'state': 'closed', 'created_at': '2019-11-26T01:30:23Z', 'closed_at': '2019-11-26T11:46:49Z', 'labels': []}
+{'issuenumber': 826, 'title': '(delete)', 'state': 'closed', 'created_at': '2019-11-26T01:17:34Z', 'closed_at': '2019-11-26T01:24:51Z', 'labels': []}
+{'issuenumber': 825, 'title': "OperationalError: (2013, 'Lost connection to MySQL server during query ([WinError 10054] An existing connection was forcibly closed by the remote host)')", 'state': 'closed', 'created_at': '2019-11-25T08:56:44Z', 'closed_at': '2019-11-25T09:18:06Z', 'labels': []}
+{'issuenumber': 819, 'title': "AttributeError: module 're' has no attribute 'compile'", 'state': 'closed', 'created_at': '2019-10-30T09:01:19Z', 'closed_at': '2019-10-30T09:05:03Z', 'labels': []}
+{'issuenumber': 818, 'title': 'cursor.mogrify Decimal type processing', 'state': 'closed', 'created_at': '2019-10-28T05:36:25Z', 'closed_at': '2019-11-26T11:56:42Z', 'labels': []}
+{'issuenumber': 817, 'title': 'UNSUPPORTED_PROTOCOL with python:3.7.4-slim-buster docker image', 'state': 'closed', 'created_at': '2019-10-24T22:01:48Z', 'closed_at': '2020-01-10T08:25:05Z', 'labels': []}
+{'issuenumber': 816, 'title': 'MySQL errors default to InternalError', 'state': 'closed', 'created_at': '2019-10-24T18:42:17Z', 'closed_at': '2019-11-13T05:14:59Z', 'labels': []}
+{'issuenumber': 815, 'title': "do pymsql support sql sentences like 'get_json_string' in pymysql? tried but failed", 'state': 'closed', 'created_at': '2019-09-29T03:41:57Z', 'closed_at': '2019-09-29T04:47:35Z', 'labels': []}
+{'issuenumber': 814, 'title': 'Why table name and column names should be enclosed in a single quote', 'state': 'closed', 'created_at': '2019-09-24T10:19:51Z', 'closed_at': '2019-09-24T10:29:14Z', 'labels': []}
+{'issuenumber': 813, 'title': 'struct.error: unpack_from requires a buffer of at least 4 bytes', 'state': 'closed', 'created_at': '2019-09-18T11:50:17Z', 'closed_at': '2019-09-20T06:00:42Z', 'labels': []}
+{'issuenumber': 809, 'title': 'Multi Query aka execute script', 'state': 'closed', 'created_at': '2019-09-01T21:00:42Z', 'closed_at': '2019-09-02T07:36:52Z', 'labels': []}
+{'issuenumber': 807, 'title': 'How to achieve  SELECT … FOR UPDATE in pymysql ?', 'state': 'closed', 'created_at': '2019-08-29T18:05:36Z', 'closed_at': '2019-08-30T06:30:53Z', 'labels': []}
+{'issuenumber': 805, 'title': "'charmap' codec can't encode character '\\ufffd' in position 2249: character maps to <undefined>", 'state': 'closed', 'created_at': '2019-08-19T10:05:29Z', 'closed_at': '2019-08-19T10:12:10Z', 'labels': []}
+{'issuenumber': 804, 'title': 'OperationalError: 1045 on login if password has non ascii characters', 'state': 'closed', 'created_at': '2019-08-14T15:24:45Z', 'closed_at': '2019-08-15T02:51:19Z', 'labels': []}
+{'issuenumber': 803, 'title': '`escape_float` loses precision compared to mysqlclient', 'state': 'closed', 'created_at': '2019-07-25T16:26:00Z', 'closed_at': '2019-09-21T09:16:36Z', 'labels': []}
+{'issuenumber': 802, 'title': 'Same Query - Always Same Result', 'state': 'closed', 'created_at': '2019-07-12T08:48:06Z', 'closed_at': '2019-07-12T08:57:46Z', 'labels': []}
+{'issuenumber': 801, 'title': 'pymysql cannot execute sql with regex string and no error info,but mysql-client ok', 'state': 'closed', 'created_at': '2019-07-11T07:47:22Z', 'closed_at': '2019-07-11T15:44:10Z', 'labels': []}
+{'issuenumber': 799, 'title': 'connect auto disconnect', 'state': 'closed', 'created_at': '2019-06-18T08:05:51Z', 'closed_at': '2019-06-18T09:00:43Z', 'labels': []}
+{'issuenumber': 797, 'title': 'Minor SSL issue', 'state': 'closed', 'created_at': '2019-06-04T20:05:47Z', 'closed_at': '2020-07-17T01:45:40Z', 'labels': []}
+{'issuenumber': 796, 'title': '3.3.4.更新项目', 'state': 'closed', 'created_at': '2019-05-28T07:33:32Z', 'closed_at': '2019-05-28T07:42:32Z', 'labels': []}
+{'issuenumber': 795, 'title': '3.2.3.删除机构', 'state': 'closed', 'created_at': '2019-05-28T06:30:43Z', 'closed_at': '2019-05-28T07:42:21Z', 'labels': []}
+{'issuenumber': 792, 'title': 'Running sql statement with datetime format gives error Warning: (1292, "Incorrect date value: \'2019/04/29:12:28:18\' for column \'dateAdded\' at row 1")', 'state': 'closed', 'created_at': '2019-04-29T11:39:09Z', 'closed_at': '2019-04-30T08:13:42Z', 'labels': []}
+{'issuenumber': 790, 'title': 'Compatibility with Django 2.2', 'state': 'closed', 'created_at': '2019-04-11T18:44:52Z', 'closed_at': '2020-05-13T04:45:48Z', 'labels': []}
+{'issuenumber': 788, 'title': "Why it raise an internal error when I just sending an 'count-distinct' query?", 'state': 'closed', 'created_at': '2019-03-26T07:31:48Z', 'closed_at': '2019-03-26T07:34:01Z', 'labels': []}
+{'issuenumber': 786, 'title': 'add ed22519 support', 'state': 'closed', 'created_at': '2019-03-14T15:23:37Z', 'closed_at': '2020-07-18T07:38:13Z', 'labels': []}
+{'issuenumber': 781, 'title': 'ExecuteMany -- No batch insert if fixed values are present', 'state': 'closed', 'created_at': '2019-02-14T06:56:30Z', 'closed_at': '2019-02-14T07:02:24Z', 'labels': []}
+{'issuenumber': 778, 'title': 'Cursor.lastrowid does not return ID on update', 'state': 'closed', 'created_at': '2019-01-29T07:04:16Z', 'closed_at': '2019-01-30T07:52:24Z', 'labels': []}
+{'issuenumber': 777, 'title': 'Cannot run tests', 'state': 'closed', 'created_at': '2019-01-21T12:38:33Z', 'closed_at': '2019-01-23T09:35:57Z', 'labels': []}
+{'issuenumber': 776, 'title': 'Can you add "-A, --no-auto-rehash" client flag support?', 'state': 'closed', 'created_at': '2019-01-21T05:39:06Z', 'closed_at': '2019-01-21T05:47:20Z', 'labels': []}
+{'issuenumber': 775, 'title': 'Warning: (1292, "Truncated incorrect DOUBLE value: )', 'state': 'closed', 'created_at': '2019-01-18T07:24:36Z', 'closed_at': '2019-01-18T07:43:46Z', 'labels': []}
+{'issuenumber': 771, 'title': 'sum and avg seem not to work', 'state': 'closed', 'created_at': '2019-01-13T13:57:27Z', 'closed_at': '2019-01-13T17:06:48Z', 'labels': []}
+{'issuenumber': 770, 'title': 'Syntax error when using semi colons in query', 'state': 'closed', 'created_at': '2019-01-08T13:51:04Z', 'closed_at': '2019-01-12T05:53:57Z', 'labels': []}
+{'issuenumber': 768, 'title': 'Improve helpfulness of error message when cryptography is required', 'state': 'closed', 'created_at': '2019-01-06T21:12:39Z', 'closed_at': '2019-01-15T11:15:09Z', 'labels': []}
+{'issuenumber': 767, 'title': 'v0.9.3 git tag is missing', 'state': 'closed', 'created_at': '2019-01-06T20:55:48Z', 'closed_at': '2019-01-16T12:49:43Z', 'labels': []}
+{'issuenumber': 766, 'title': 'stuck on fetch_one with no errors', 'state': 'closed', 'created_at': '2018-12-29T21:13:08Z', 'closed_at': '2018-12-30T05:29:50Z', 'labels': []}
+{'issuenumber': 757, 'title': 'Request for example: MySQL to CSV with column names', 'state': 'closed', 'created_at': '2018-12-16T09:04:33Z', 'closed_at': '2018-12-16T09:05:37Z', 'labels': []}
+{'issuenumber': 753, 'title': 'sys.argv call still results in an error', 'state': 'closed', 'created_at': '2018-12-14T14:13:11Z', 'closed_at': '2018-12-15T02:10:21Z', 'labels': []}
+{'issuenumber': 752, 'title': 'why pymysql(0.9.2) call stored procedure, Obtain output parameters sometimes None?', 'state': 'closed', 'created_at': '2018-12-14T09:43:33Z', 'closed_at': '2018-12-14T10:08:53Z', 'labels': []}
+{'issuenumber': 750, 'title': 'ubyte format error at connection', 'state': 'closed', 'created_at': '2018-12-13T16:19:13Z', 'closed_at': '2018-12-15T02:16:47Z', 'labels': []}
+{'issuenumber': 749, 'title': "pymysql.err.InternalError: (-30327, 'over max sql length!')", 'state': 'closed', 'created_at': '2018-12-13T13:50:17Z', 'closed_at': '2018-12-13T14:10:46Z', 'labels': []}
+{'issuenumber': 747, 'title': "decode error when using a chinese program name like '特征工程.py'", 'state': 'closed', 'created_at': '2018-12-06T11:02:54Z', 'closed_at': '2018-12-06T11:56:25Z', 'labels': []}
+{'issuenumber': 745, 'title': 'Need to install pymysql on servers without web access', 'state': 'closed', 'created_at': '2018-11-20T15:14:25Z', 'closed_at': '2018-11-21T03:39:35Z', 'labels': []}
+{'issuenumber': 743, 'title': 'executemany for batch insert、how can get all primary key’s value', 'state': 'closed', 'created_at': '2018-11-08T14:45:08Z', 'closed_at': '2018-11-08T15:24:17Z', 'labels': []}
+{'issuenumber': 741, 'title': 'When will #713 be pushed into pypi?', 'state': 'closed', 'created_at': '2018-10-29T20:34:45Z', 'closed_at': '2018-10-29T21:38:30Z', 'labels': []}
+{'issuenumber': 740, 'title': 'unable get real last insert id from execute()', 'state': 'closed', 'created_at': '2018-10-27T18:42:27Z', 'closed_at': '2018-10-28T05:03:14Z', 'labels': []}
+{'issuenumber': 738, 'title': 'Canot use int as param in execute()', 'state': 'closed', 'created_at': '2018-10-27T02:32:58Z', 'closed_at': '2018-10-27T02:53:59Z', 'labels': []}
+{'issuenumber': 737, 'title': 'Canot cath invalid charset on connection', 'state': 'closed', 'created_at': '2018-10-27T01:37:25Z', 'closed_at': '2018-10-27T03:09:51Z', 'labels': []}
+{'issuenumber': 736, 'title': 'Error connect to database when sys.argv is not present (using python c api)', 'state': 'closed', 'created_at': '2018-10-27T01:21:34Z', 'closed_at': '2018-10-29T07:41:15Z', 'labels': []}
+{'issuenumber': 735, 'title': "With + Connection - returns cursor rather than the connection, doesn't close connection on exit", 'state': 'closed', 'created_at': '2018-10-23T15:53:36Z', 'closed_at': '2021-01-02T07:18:19Z', 'labels': []}
+{'issuenumber': 734, 'title': "AttributeError: '[class]' object has no attribute 'translate' on execute with extra args", 'state': 'closed', 'created_at': '2018-10-22T15:54:26Z', 'closed_at': '2018-12-13T15:15:00Z', 'labels': []}
+{'issuenumber': 732, 'title': 'Writing one DataFrame to Mysql', 'state': 'closed', 'created_at': '2018-10-22T08:46:24Z', 'closed_at': '2018-10-22T09:28:31Z', 'labels': []}
+{'issuenumber': 730, 'title': 'Dictcursor not working in Pypy implementation?', 'state': 'closed', 'created_at': '2018-10-17T13:54:54Z', 'closed_at': '2018-10-17T13:56:14Z', 'labels': []}
+{'issuenumber': 729, 'title': 'not include module', 'state': 'closed', 'created_at': '2018-09-26T10:56:25Z', 'closed_at': '2018-09-26T10:59:20Z', 'labels': []}
+{'issuenumber': 728, 'title': 'AttributeError in PyMySQL', 'state': 'closed', 'created_at': '2018-09-17T09:51:30Z', 'closed_at': '2018-09-17T14:09:38Z', 'labels': []}
+{'issuenumber': 724, 'title': 'Queries after Exception on connection return previous result', 'state': 'closed', 'created_at': '2018-09-10T15:05:31Z', 'closed_at': '2018-09-10T15:56:03Z', 'labels': []}
+{'issuenumber': 723, 'title': 'How to use user-defined variables?', 'state': 'closed', 'created_at': '2018-09-07T16:01:13Z', 'closed_at': '2018-09-07T16:29:34Z', 'labels': []}
+{'issuenumber': 722, 'title': 'Could not find first log file name in binary log index file', 'state': 'closed', 'created_at': '2018-09-07T12:31:30Z', 'closed_at': '2018-09-07T12:44:05Z', 'labels': []}
+{'issuenumber': 718, 'title': 'Deprecate old password', 'state': 'closed', 'created_at': '2018-08-12T03:12:46Z', 'closed_at': '2018-12-16T04:45:45Z', 'labels': []}
+{'issuenumber': 717, 'title': 'two problems while using this library', 'state': 'closed', 'created_at': '2018-08-06T04:58:10Z', 'closed_at': '2018-08-06T05:02:44Z', 'labels': []}
+{'issuenumber': 716, 'title': 'Cannot connect to Azure MySQL after v0.9.0', 'state': 'closed', 'created_at': '2018-08-05T16:00:19Z', 'closed_at': '2018-11-02T13:00:04Z', 'labels': []}
+{'issuenumber': 715, 'title': "caching_sha2_password connection doesn't work on python2.7", 'state': 'closed', 'created_at': '2018-07-31T13:11:03Z', 'closed_at': '2018-08-01T15:21:04Z', 'labels': []}
+{'issuenumber': 714, 'title': 'How to get result from stored procedure?', 'state': 'closed', 'created_at': '2018-07-31T12:39:10Z', 'closed_at': '2018-07-31T12:40:19Z', 'labels': []}
+{'issuenumber': 711, 'title': 'General question about reconnect', 'state': 'closed', 'created_at': '2018-07-11T21:49:02Z', 'closed_at': '2018-07-13T00:15:31Z', 'labels': []}
+{'issuenumber': 708, 'title': 'PyMySQL with Flask: %d format: a number is required, not str with stored procedure', 'state': 'closed', 'created_at': '2018-07-04T20:45:03Z', 'closed_at': '2018-07-06T05:15:09Z', 'labels': []}
+{'issuenumber': 707, 'title': 'Specify pip3 in installation documentation please.', 'state': 'closed', 'created_at': '2018-07-04T18:56:27Z', 'closed_at': '2018-07-05T02:49:05Z', 'labels': []}
+{'issuenumber': 705, 'title': 'Latest release (v0.9.1) installs `tests` as a top-level library', 'state': 'closed', 'created_at': '2018-07-03T15:01:36Z', 'closed_at': '2018-07-04T06:33:41Z', 'labels': []}
+{'issuenumber': 703, 'title': "Use Python's logging capability for debug output", 'state': 'closed', 'created_at': '2018-07-03T02:20:00Z', 'closed_at': '2018-07-03T03:20:05Z', 'labels': []}
+{'issuenumber': 700, 'title': '#682 broke the Python2 support', 'state': 'closed', 'created_at': '2018-07-02T09:31:00Z', 'closed_at': '2018-07-02T11:10:32Z', 'labels': []}
+{'issuenumber': 699, 'title': 'find a error', 'state': 'closed', 'created_at': '2018-06-30T08:59:28Z', 'closed_at': '2018-07-02T11:40:10Z', 'labels': []}
+{'issuenumber': 698, 'title': "Getting warning about database doesn't exist with drop database IF EXISTS", 'state': 'closed', 'created_at': '2018-06-28T13:29:41Z', 'closed_at': '2018-06-28T13:53:08Z', 'labels': []}
+{'issuenumber': 697, 'title': 'Cryptography package makes PyMySQL non-pure Python', 'state': 'closed', 'created_at': '2018-06-28T09:41:05Z', 'closed_at': '2018-12-18T10:25:13Z', 'labels': []}
+{'issuenumber': 690, 'title': 'UTF8MB4 issue with MySQL 8', 'state': 'closed', 'created_at': '2018-06-22T08:33:21Z', 'closed_at': '2018-06-22T10:24:56Z', 'labels': []}
+{'issuenumber': 689, 'title': 'Query comments not being preserved', 'state': 'closed', 'created_at': '2018-06-21T11:08:42Z', 'closed_at': '2018-06-27T07:53:16Z', 'labels': []}
+{'issuenumber': 688, 'title': 'Invalid warning triggered when executing "create database IF NOT EXISTS mydatabase"', 'state': 'closed', 'created_at': '2018-06-20T10:20:23Z', 'closed_at': '2018-06-20T10:37:13Z', 'labels': []}
+{'issuenumber': 687, 'title': 'can I keep a connection object for next use?', 'state': 'closed', 'created_at': '2018-06-18T13:30:36Z', 'closed_at': '2018-06-18T14:57:41Z', 'labels': []}
+{'issuenumber': 686, 'title': 'how can i get midex data format ', 'state': 'closed', 'created_at': '2018-06-15T03:55:50Z', 'closed_at': '2018-06-27T07:53:31Z', 'labels': []}
+{'issuenumber': 685, 'title': 'Table not exists caused by a space', 'state': 'closed', 'created_at': '2018-06-13T07:38:57Z', 'closed_at': '2018-06-13T07:42:35Z', 'labels': []}
+{'issuenumber': 681, 'title': 'Bad deadlock handling in MariaDB 10.2.XX', 'state': 'closed', 'created_at': '2018-05-29T13:55:47Z', 'closed_at': '2018-06-27T10:12:29Z', 'labels': []}
+{'issuenumber': 678, 'title': 'Support :  socks5 proxy  ', 'state': 'closed', 'created_at': '2018-05-25T00:28:50Z', 'closed_at': '2018-05-28T01:07:11Z', 'labels': []}
+{'issuenumber': 677, 'title': 'Error python server.py', 'state': 'closed', 'created_at': '2018-05-24T15:34:04Z', 'closed_at': '2018-05-28T01:00:39Z', 'labels': []}
+{'issuenumber': 676, 'title': 'Error conector Mysql con mariadb OX', 'state': 'closed', 'created_at': '2018-05-24T15:09:48Z', 'closed_at': '2018-05-28T00:59:20Z', 'labels': []}
+{'issuenumber': 675, 'title': 'Error la instalar requirements.txt', 'state': 'closed', 'created_at': '2018-05-22T20:42:37Z', 'closed_at': '2018-05-28T15:10:02Z', 'labels': []}
+{'issuenumber': 674, 'title': 'Hello When I connect the MySQL8.0 times error with pymysql.', 'state': 'closed', 'created_at': '2018-05-19T09:01:13Z', 'closed_at': '2018-05-22T07:23:42Z', 'labels': []}
+{'issuenumber': 673, 'title': 'Wrong user variable values', 'state': 'closed', 'created_at': '2018-05-16T19:14:40Z', 'closed_at': '2018-05-17T06:41:03Z', 'labels': []}
+{'issuenumber': 672, 'title': 'executemany return None not the effected row count', 'state': 'closed', 'created_at': '2018-05-15T12:46:24Z', 'closed_at': '2018-05-15T12:56:48Z', 'labels': []}
+{'issuenumber': 671, 'title': 'MySQL 8.0.11 support on Windows', 'state': 'closed', 'created_at': '2018-05-09T12:16:22Z', 'closed_at': '2018-05-09T13:50:00Z', 'labels': []}
+{'issuenumber': 666, 'title': 'Should fetchall() return bytes or str in python3', 'state': 'closed', 'created_at': '2018-05-03T05:05:17Z', 'closed_at': '2018-05-03T05:07:10Z', 'labels': []}
+{'issuenumber': 651, 'title': 'caching_sha2_password authentication plugin support (MySQL-8.0)', 'state': 'closed', 'created_at': '2018-04-22T07:58:44Z', 'closed_at': '2018-06-27T10:12:29Z', 'labels': []}
+{'issuenumber': 650, 'title': 'The password is missing', 'state': 'closed', 'created_at': '2018-04-21T10:03:18Z', 'closed_at': '2018-04-22T05:03:41Z', 'labels': []}
+{'issuenumber': 647, 'title': 'Hang after the second command in a multi-statement fails', 'state': 'closed', 'created_at': '2018-04-06T23:56:34Z', 'closed_at': '2018-04-17T17:16:00Z', 'labels': []}
+{'issuenumber': 646, 'title': 'Execute sql statement error', 'state': 'closed', 'created_at': '2018-03-19T09:44:33Z', 'closed_at': '2018-03-19T09:50:30Z', 'labels': []}
+{'issuenumber': 644, 'title': 'Warning: (1300, "Invalid utf8mb4 character string" occurring with Python 3 on PyMySQL 0.8.0 but not 0.7.1', 'state': 'closed', 'created_at': '2018-03-12T01:06:17Z', 'closed_at': '2018-03-13T13:52:08Z', 'labels': []}
+{'issuenumber': 640, 'title': 'Intersection in SQL', 'state': 'closed', 'created_at': '2018-01-31T07:19:20Z', 'closed_at': '2018-01-31T07:25:51Z', 'labels': []}
+{'issuenumber': 637, 'title': 'pymysql.err.ProgrammingError in version 0.8.0, but not 0.7.10', 'state': 'closed', 'created_at': '2018-01-23T01:33:55Z', 'closed_at': '2018-01-23T09:35:38Z', 'labels': []}
+{'issuenumber': 635, 'title': 'Feature request: Dumps', 'state': 'closed', 'created_at': '2018-01-17T21:56:21Z', 'closed_at': '2018-01-17T23:12:54Z', 'labels': []}
+{'issuenumber': 632, 'title': 'PyMySQL regression in 0.8.0 on INSERT', 'state': 'closed', 'created_at': '2018-01-10T02:02:54Z', 'closed_at': '2018-01-10T02:05:51Z', 'labels': []}
+{'issuenumber': 631, 'title': 'MySQLResult choking on un-decodable data', 'state': 'closed', 'created_at': '2017-12-30T20:20:44Z', 'closed_at': '2017-12-31T05:10:36Z', 'labels': []}
+{'issuenumber': 630, 'title': "pymysql.connections.Connection object's db attribute's value and type", 'state': 'closed', 'created_at': '2017-12-22T10:57:43Z', 'closed_at': '2017-12-22T11:03:07Z', 'labels': []}
+{'issuenumber': 629, 'title': 'Exception type inaccuracy', 'state': 'closed', 'created_at': '2017-12-22T10:19:41Z', 'closed_at': '2018-05-07T09:45:11Z', 'labels': []}
+{'issuenumber': 626, 'title': 'Connect to Azure Database for MySQL cause Bad Hanshake exception.', 'state': 'closed', 'created_at': '2017-12-15T10:22:35Z', 'closed_at': '2017-12-20T09:22:12Z', 'labels': []}
+{'issuenumber': 622, 'title': 'pymysql.err.InternalError: Packet sequence number wrong', 'state': 'closed', 'created_at': '2017-12-04T09:56:21Z', 'closed_at': '2017-12-04T10:06:04Z', 'labels': []}
+{'issuenumber': 620, 'title': 'Improve some exceptions messages', 'state': 'closed', 'created_at': '2017-11-21T21:30:27Z', 'closed_at': '2017-12-20T09:22:49Z', 'labels': []}
+{'issuenumber': 619, 'title': 'SSL clarity for connecting to cloud mysql as a service', 'state': 'closed', 'created_at': '2017-11-18T06:04:56Z', 'closed_at': '2017-12-19T13:36:43Z', 'labels': []}
+{'issuenumber': 618, 'title': " (pymysql.err.IntegrityError) (1215, 'Cannot add foreign key constraint')", 'state': 'closed', 'created_at': '2017-11-17T11:49:40Z', 'closed_at': '2017-12-19T13:18:06Z', 'labels': []}
+{'issuenumber': 617, 'title': 'Pymysql complains of 1287, "\'@@tx_isolation\' is deprecated and will be removed in a future release. Please use \'@@transaction_isolation\' instead"', 'state': 'closed', 'created_at': '2017-10-31T12:50:43Z', 'closed_at': '2017-11-01T08:19:28Z', 'labels': []}
+{'issuenumber': 616, 'title': 'tx_isolation depricated in mysql, causing warnings while using pymysql', 'state': 'closed', 'created_at': '2017-10-31T12:48:09Z', 'closed_at': '2017-11-02T06:02:33Z', 'labels': []}
+{'issuenumber': 614, 'title': 'transaction_isolation was added in MySQL 5.7.20 as an alias for tx_isolation, which is now deprecated and is removed in MySQL 8.0. Applications should be adjusted to use transaction_isolation in preference to tx_isolation.', 'state': 'closed', 'created_at': '2017-10-30T20:31:02Z', 'closed_at': '2017-10-30T22:32:12Z', 'labels': []}
+{'issuenumber': 612, 'title': "Add connection's read_timeout and write_timeout to parameters in documentation", 'state': 'closed', 'created_at': '2017-10-11T22:27:49Z', 'closed_at': '2018-05-02T05:36:08Z', 'labels': []}
+{'issuenumber': 611, 'title': 'THANKS', 'state': 'closed', 'created_at': '2017-10-10T22:09:38Z', 'closed_at': '2017-12-20T09:23:45Z', 'labels': []}
+{'issuenumber': 610, 'title': 'Compatibility with Django 2.0', 'state': 'closed', 'created_at': '2017-10-10T15:34:51Z', 'closed_at': '2017-12-20T12:12:21Z', 'labels': []}
+{'issuenumber': 608, 'title': '`Data truncated ...` warnings repeated three times when inserting into a unique DB table field with max length when the value inserted is longer than max length', 'state': 'closed', 'created_at': '2017-09-29T10:33:29Z', 'closed_at': '2017-10-03T16:04:55Z', 'labels': []}
+{'issuenumber': 607, 'title': 'mariadb 10.2 enforces CHECK constraints; PyMySQL should raise OperationalError, not InternalError', 'state': 'closed', 'created_at': '2017-09-28T19:35:21Z', 'closed_at': '2017-12-19T13:13:59Z', 'labels': []}
+{'issuenumber': 606, 'title': 'InternalError: Packet sequence number wrong', 'state': 'closed', 'created_at': '2017-09-28T18:26:25Z', 'closed_at': '2017-09-29T08:12:17Z', 'labels': []}
+{'issuenumber': 605, 'title': 'Any plan to support python 3?', 'state': 'closed', 'created_at': '2017-09-28T11:26:02Z', 'closed_at': '2017-09-28T11:39:49Z', 'labels': []}
+{'issuenumber': 603, 'title': 'Storing in binary format', 'state': 'closed', 'created_at': '2017-09-27T07:36:34Z', 'closed_at': '2017-09-27T09:01:18Z', 'labels': []}
+{'issuenumber': 602, 'title': 'A space in SQL result in a performance gap of 100 times, why?', 'state': 'closed', 'created_at': '2017-09-27T03:47:54Z', 'closed_at': '2017-09-27T04:02:31Z', 'labels': []}
+{'issuenumber': 601, 'title': 'autoreconnect problem with mysqlobject using pysmysql as driver', 'state': 'closed', 'created_at': '2017-09-17T07:12:25Z', 'closed_at': '2017-12-19T13:45:35Z', 'labels': []}
+{'issuenumber': 600, 'title': 'Regular Expression in executemany can not match insert into table values(%s,%s)', 'state': 'closed', 'created_at': '2017-09-15T09:49:19Z', 'closed_at': '2017-09-20T06:39:16Z', 'labels': []}
+{'issuenumber': 599, 'title': 'KeyError: 255', 'state': 'closed', 'created_at': '2017-08-31T08:40:08Z', 'closed_at': '2017-08-31T09:16:59Z', 'labels': []}
+{'issuenumber': 594, 'title': "change DEFAULT_CHARSET = 'latin1'    to  DEFAULT_CHARSET = 'utf8'  ?!", 'state': 'closed', 'created_at': '2017-08-30T09:49:12Z', 'closed_at': '2017-08-30T09:55:03Z', 'labels': []}
+{'issuenumber': 590, 'title': 'MULTI_STATEMENTS & MULTI_RESULTS always enabled in client_flag in Connection', 'state': 'closed', 'created_at': '2017-08-02T13:11:59Z', 'closed_at': '2017-12-20T12:26:22Z', 'labels': []}
+{'issuenumber': 589, 'title': "Warning 1364, Field doesn't have a default value", 'state': 'closed', 'created_at': '2017-07-23T07:36:19Z', 'closed_at': '2017-07-23T07:58:45Z', 'labels': []}
+{'issuenumber': 587, 'title': 'Should add cursor.lastrowid in documentation', 'state': 'closed', 'created_at': '2017-07-19T19:11:09Z', 'closed_at': '2017-07-19T19:16:11Z', 'labels': []}
+{'issuenumber': 586, 'title': 'Misleading exception information', 'state': 'closed', 'created_at': '2017-07-19T16:22:17Z', 'closed_at': '2017-07-19T17:24:24Z', 'labels': []}
+{'issuenumber': 584, 'title': 'Can not connect Azure Database for MySQL.', 'state': 'closed', 'created_at': '2017-06-29T03:35:50Z', 'closed_at': '2017-06-30T05:49:11Z', 'labels': []}
+{'issuenumber': 581, 'title': 'How to connect using a string?', 'state': 'closed', 'created_at': '2017-06-18T07:49:16Z', 'closed_at': '2017-06-18T08:32:20Z', 'labels': []}
+{'issuenumber': 580, 'title': "packet bigger than 'max_allowed_packet' error is lost.", 'state': 'closed', 'created_at': '2017-06-15T23:31:03Z', 'closed_at': '2017-06-16T00:22:55Z', 'labels': []}
+{'issuenumber': 579, 'title': 'The MySQL socket cache is full. When will the socket connection be disconnected?', 'state': 'closed', 'created_at': '2017-06-15T02:17:57Z', 'closed_at': '2017-06-15T02:24:50Z', 'labels': []}
+{'issuenumber': 572, 'title': 'Add support for handling expired passwords', 'state': 'closed', 'created_at': '2017-05-21T03:19:18Z', 'closed_at': '2017-06-08T13:19:27Z', 'labels': []}
+{'issuenumber': 571, 'title': 'Out of date API docs', 'state': 'closed', 'created_at': '2017-05-18T01:01:06Z', 'closed_at': '2017-08-30T11:00:26Z', 'labels': []}
+{'issuenumber': 569, 'title': "pymysql.err.InternalError: (9007, 'Unsupported distributed transaction'),how to fix it", 'state': 'closed', 'created_at': '2017-05-12T02:41:49Z', 'closed_at': '2017-05-12T03:08:11Z', 'labels': []}
+{'issuenumber': 568, 'title': 'Memoryview support in PyMySQL', 'state': 'closed', 'created_at': '2017-04-27T00:39:51Z', 'closed_at': '2017-04-27T01:53:22Z', 'labels': []}
+{'issuenumber': 567, 'title': 'pymysql + ssl + eventlet', 'state': 'closed', 'created_at': '2017-04-25T15:31:57Z', 'closed_at': '2017-04-25T15:58:07Z', 'labels': []}
+{'issuenumber': 565, 'title': 'Linking to MySQLdb documentation', 'state': 'closed', 'created_at': '2017-04-19T22:50:44Z', 'closed_at': '2017-04-24T08:48:06Z', 'labels': []}
+{'issuenumber': 564, 'title': 'Import Error: No module name pymysql', 'state': 'closed', 'created_at': '2017-04-05T12:05:34Z', 'closed_at': '2017-04-05T12:09:07Z', 'labels': []}
+{'issuenumber': 563, 'title': "pymysql.err.OperationalError: (2014, 'Command Out of Sync') ", 'state': 'closed', 'created_at': '2017-04-03T23:47:38Z', 'closed_at': '2017-04-06T08:20:57Z', 'labels': []}
+{'issuenumber': 562, 'title': 'Empty `args` is not handled properly in execute() method', 'state': 'closed', 'created_at': '2017-03-30T05:34:28Z', 'closed_at': '2017-03-30T08:26:19Z', 'labels': []}
+{'issuenumber': 560, 'title': 'A long decimal is losing accuracy', 'state': 'closed', 'created_at': '2017-03-21T18:21:11Z', 'closed_at': '2017-03-21T18:45:14Z', 'labels': []}
+{'issuenumber': 559, 'title': 'fetchall returns empty if query result is just one row', 'state': 'closed', 'created_at': '2017-03-16T11:01:20Z', 'closed_at': '2017-03-16T12:52:36Z', 'labels': []}
+{'issuenumber': 557, 'title': "[ ERROR ] Error in test library 'pymysql': Creating keyword 'Connect' failed: Keyword with same name defined multiple times.", 'state': 'closed', 'created_at': '2017-03-14T08:14:06Z', 'closed_at': '2017-03-14T08:16:21Z', 'labels': []}
+{'issuenumber': 554, 'title': 'Executemany fails when ON DUPLICATE KEY is used', 'state': 'closed', 'created_at': '2017-03-10T13:39:09Z', 'closed_at': '2017-03-10T13:54:06Z', 'labels': []}
+{'issuenumber': 551, 'title': 'bug0', 'state': 'closed', 'created_at': '2017-02-21T16:10:58Z', 'closed_at': '2017-02-21T17:13:50Z', 'labels': []}
+{'issuenumber': 550, 'title': 'TypeError("a bytes-like object is required, not \'int\'",)', 'state': 'closed', 'created_at': '2017-02-20T09:15:13Z', 'closed_at': '2017-02-20T09:29:31Z', 'labels': []}
+{'issuenumber': 549, 'title': "Duplicate keyword '_binary' failure when using BinaryField in Django", 'state': 'closed', 'created_at': '2017-02-10T02:01:19Z', 'closed_at': '2017-12-20T12:12:06Z', 'labels': []}
+{'issuenumber': 548, 'title': 'Improve config parser', 'state': 'closed', 'created_at': '2017-02-09T09:30:47Z', 'closed_at': '2018-11-30T00:59:34Z', 'labels': {'name': 'Help wanted'}}
+{'issuenumber': 546, 'title': "ssl 'module' object has no attribute 'SSLContext'", 'state': 'closed', 'created_at': '2017-02-07T11:37:02Z', 'closed_at': '2017-02-07T11:51:04Z', 'labels': []}
+{'issuenumber': 539, 'title': 'mysql errors', 'state': 'closed', 'created_at': '2017-01-09T21:28:57Z', 'closed_at': '2017-01-10T02:06:43Z', 'labels': []}
+{'issuenumber': 538, 'title': 'expose more methods', 'state': 'closed', 'created_at': '2017-01-01T10:10:07Z', 'closed_at': '2017-01-01T11:20:48Z', 'labels': {'name': 'FAQ'}}
+{'issuenumber': 537, 'title': 'Use `contextlib.closing` instead of `try/finally` in README example', 'state': 'closed', 'created_at': '2016-12-30T22:20:14Z', 'closed_at': '2016-12-30T23:32:29Z', 'labels': []}
+{'issuenumber': 536, 'title': 'Incorrect string value', 'state': 'closed', 'created_at': '2016-12-21T04:37:27Z', 'closed_at': '2016-12-21T04:47:03Z', 'labels': []}
+{'issuenumber': 533, 'title': 'Selecting data in loop returns not all records', 'state': 'closed', 'created_at': '2016-11-29T14:34:23Z', 'closed_at': '2016-11-29T15:07:05Z', 'labels': []}
+{'issuenumber': 532, 'title': 'SHA256 user account issue', 'state': 'closed', 'created_at': '2016-11-26T22:40:57Z', 'closed_at': '2018-06-27T10:12:28Z', 'labels': []}
+{'issuenumber': 531, 'title': 'Exception in substitution sequence as parametr for Python 3', 'state': 'closed', 'created_at': '2016-11-25T05:52:49Z', 'closed_at': '2016-11-25T06:00:36Z', 'labels': []}
+{'issuenumber': 530, 'title': 'Missing documentation', 'state': 'closed', 'created_at': '2016-11-21T14:13:40Z', 'closed_at': '2017-01-12T12:45:22Z', 'labels': []}
+{'issuenumber': 528, 'title': 'Can echo last query SQL when raise exception?', 'state': 'closed', 'created_at': '2016-11-10T10:17:18Z', 'closed_at': '2016-11-11T02:59:06Z', 'labels': []}
+{'issuenumber': 527, 'title': 'Object cursor.execute(mySQLCommand) throws AttributeError exception', 'state': 'closed', 'created_at': '2016-11-09T11:51:57Z', 'closed_at': '2016-11-27T09:45:03Z', 'labels': []}
+{'issuenumber': 526, 'title': 'Handling of MariaDB ER_CONNECTION_KILLED error packet', 'state': 'closed', 'created_at': '2016-11-09T00:05:52Z', 'closed_at': '2017-01-13T09:00:34Z', 'labels': []}
+{'issuenumber': 525, 'title': 'converters._escape_unicode() should explicitly call unicode()', 'state': 'closed', 'created_at': '2016-11-02T14:07:28Z', 'closed_at': '2017-01-12T12:45:48Z', 'labels': []}
+{'issuenumber': 524, 'title': 'Permission for publication of PyMySQL stubs in typeshed', 'state': 'closed', 'created_at': '2016-10-26T07:15:57Z', 'closed_at': '2017-01-12T12:32:39Z', 'labels': []}
+{'issuenumber': 523, 'title': 'escape_string() function is not escaping the character %', 'state': 'closed', 'created_at': '2016-10-13T20:29:33Z', 'closed_at': '2016-10-14T04:51:05Z', 'labels': []}
+{'issuenumber': 521, 'title': 'DictCursor fetchall() return type is inconsistent - usually a list, but a tuple if there are no results', 'state': 'closed', 'created_at': '2016-10-05T13:21:43Z', 'closed_at': '2016-10-05T16:18:24Z', 'labels': []}
+{'issuenumber': 520, 'title': 'dates are returned as None', 'state': 'closed', 'created_at': '2016-10-05T07:05:24Z', 'closed_at': '2017-12-19T13:30:52Z', 'labels': []}
+{'issuenumber': 518, 'title': "Query doesn't return all results", 'state': 'closed', 'created_at': '2016-09-29T14:47:15Z', 'closed_at': '2016-09-29T16:49:57Z', 'labels': {'name': 'FAQ'}}
+{'issuenumber': 517, 'title': 'Timeout error when passing through proxy', 'state': 'closed', 'created_at': '2016-09-21T14:20:10Z', 'closed_at': '2016-09-21T15:18:26Z', 'labels': []}
+{'issuenumber': 516, 'title': "ImportError: No module named 'unittest2'", 'state': 'closed', 'created_at': '2016-09-16T17:10:51Z', 'closed_at': '2016-09-16T17:13:46Z', 'labels': []}
+{'issuenumber': 512, 'title': '0.7.8 and 0.7.7 exception: pymysql.err.InternalError: Packet sequence number wrong - got 142 expected 1', 'state': 'closed', 'created_at': '2016-09-03T11:08:12Z', 'closed_at': '2016-09-03T19:12:02Z', 'labels': []}
+{'issuenumber': 511, 'title': '0.7.8, 0.7.7 exception: pymysql.err.InternalError: Packet sequence number wrong', 'state': 'closed', 'created_at': '2016-09-02T18:04:27Z', 'closed_at': '2016-09-03T19:03:57Z', 'labels': []}
+{'issuenumber': 510, 'title': "0.7.7 breaks 'show slave status' output", 'state': 'closed', 'created_at': '2016-09-01T22:09:10Z', 'closed_at': '2016-10-13T05:07:12Z', 'labels': []}
+{'issuenumber': 509, 'title': 'connect() resolves hostname - access denied', 'state': 'closed', 'created_at': '2016-09-01T11:25:14Z', 'closed_at': '2016-09-01T11:30:40Z', 'labels': []}
+{'issuenumber': 507, 'title': 'PyMySQL 0.7.7 is injecting strange codes into exception messages', 'state': 'closed', 'created_at': '2016-08-31T15:17:19Z', 'closed_at': '2016-09-01T11:12:43Z', 'labels': []}
+{'issuenumber': 502, 'title': 'How to get rows affected in a UPDATE statement.', 'state': 'closed', 'created_at': '2016-08-26T09:52:34Z', 'closed_at': '2016-08-26T09:54:49Z', 'labels': []}
+{'issuenumber': 501, 'title': "Incorrect decode varchar - UnicodeDecodeError: 'utf-8'", 'state': 'closed', 'created_at': '2016-08-26T07:13:46Z', 'closed_at': '2016-08-26T12:01:00Z', 'labels': []}
+{'issuenumber': 500, 'title': 'Field containing a data larger than 59K causes an error', 'state': 'closed', 'created_at': '2016-08-14T20:30:53Z', 'closed_at': '2016-08-15T08:36:13Z', 'labels': []}
+{'issuenumber': 499, 'title': 'PyMySQL custom converters reset to default / not used', 'state': 'closed', 'created_at': '2016-08-12T15:21:26Z', 'closed_at': '2016-08-12T17:58:04Z', 'labels': []}
+{'issuenumber': 495, 'title': "test: Don't create two connection for each test.", 'state': 'closed', 'created_at': '2016-07-28T11:23:40Z', 'closed_at': '2018-12-18T09:33:08Z', 'labels': []}
+{'issuenumber': 494, 'title': '[TASK] Use docker to setup MySQL 5.1 and 5.7 on Travis-CI.', 'state': 'closed', 'created_at': '2016-07-27T02:49:18Z', 'closed_at': '2018-04-30T14:30:08Z', 'labels': []}
+{'issuenumber': 493, 'title': '[TASK] Convert from unittest2 to pytest', 'state': 'closed', 'created_at': '2016-07-27T02:48:56Z', 'closed_at': '2018-12-19T12:40:10Z', 'labels': []}
+{'issuenumber': 488, 'title': 'JSON type fails in Python 3 w/ any string, Python 2 w/ non-ascii data', 'state': 'closed', 'created_at': '2016-07-24T21:00:59Z', 'closed_at': '2016-07-28T15:42:32Z', 'labels': {'name': 'Priority-High'}}
+{'issuenumber': 486, 'title': 'json error', 'state': 'closed', 'created_at': '2016-07-16T14:48:41Z', 'closed_at': '2016-07-17T05:26:19Z', 'labels': []}
+{'issuenumber': 482, 'title': "JSON Field value returned as 'bytes'.", 'state': 'closed', 'created_at': '2016-07-04T09:46:43Z', 'closed_at': '2016-07-04T11:01:42Z', 'labels': []}
+{'issuenumber': 478, 'title': 'Test failures with MySQL 5.7 in Ubuntu Xenial and Yakkety', 'state': 'closed', 'created_at': '2016-06-28T07:34:51Z', 'closed_at': '2016-07-13T09:58:03Z', 'labels': []}
+{'issuenumber': 475, 'title': 'Python3 slow query execution', 'state': 'closed', 'created_at': '2016-06-15T10:06:18Z', 'closed_at': '2016-06-15T11:39:43Z', 'labels': []}
+{'issuenumber': 474, 'title': 'MemoryError on PyPy for >= 0.7', 'state': 'closed', 'created_at': '2016-06-13T14:30:57Z', 'closed_at': '2016-06-13T14:59:29Z', 'labels': []}
+{'issuenumber': 470, 'title': 'Request failover and high availability awareness', 'state': 'closed', 'created_at': '2016-06-03T15:39:46Z', 'closed_at': '2016-06-04T10:47:27Z', 'labels': []}
+{'issuenumber': 469, 'title': 'issue with host string ?', 'state': 'closed', 'created_at': '2016-05-29T08:09:24Z', 'closed_at': '2016-05-29T08:18:25Z', 'labels': []}
+{'issuenumber': 466, 'title': 'Please upload fix of test_cursor.py to pypi', 'state': 'closed', 'created_at': '2016-05-24T19:17:58Z', 'closed_at': '2016-05-26T04:26:18Z', 'labels': []}
+{'issuenumber': 462, 'title': 'ON DUPLICATE with executemany', 'state': 'closed', 'created_at': '2016-05-20T00:00:25Z', 'closed_at': '2016-05-20T04:26:44Z', 'labels': []}
+{'issuenumber': 452, 'title': 'execute encoded sql statement occurs ProgrammingError', 'state': 'closed', 'created_at': '2016-05-12T12:09:51Z', 'closed_at': '2016-05-12T17:18:00Z', 'labels': []}
+{'issuenumber': 451, 'title': 'Working with gevent', 'state': 'closed', 'created_at': '2016-05-11T23:33:10Z', 'closed_at': '2016-05-12T17:09:26Z', 'labels': []}
+{'issuenumber': 449, 'title': 'cursor.executemany() does not handle percent signs correctly vs. execute()', 'state': 'closed', 'created_at': '2016-05-09T14:38:35Z', 'closed_at': '2016-05-09T16:12:36Z', 'labels': []}
+{'issuenumber': 447, 'title': 'port is ignored in my.cnf file', 'state': 'closed', 'created_at': '2016-05-02T20:43:08Z', 'closed_at': '2016-05-03T03:49:27Z', 'labels': []}
+{'issuenumber': 446, 'title': 'Confusing context manager', 'state': 'closed', 'created_at': '2016-04-30T11:57:01Z', 'closed_at': '2016-04-30T13:10:53Z', 'labels': []}
+{'issuenumber': 445, 'title': "    pymysql.install_as_MYSQLdb() AttributeError: module 'pymysql' has no attribute 'install_as_MYSQLdb'", 'state': 'closed', 'created_at': '2016-04-26T14:54:19Z', 'closed_at': '2016-04-26T16:01:21Z', 'labels': []}
+{'issuenumber': 444, 'title': 'Some data break protocol parse', 'state': 'closed', 'created_at': '2016-04-20T05:45:18Z', 'closed_at': '2016-05-19T07:31:59Z', 'labels': []}
+{'issuenumber': 443, 'title': 'fixed my issue - wsgi import error', 'state': 'closed', 'created_at': '2016-04-19T06:41:44Z', 'closed_at': '2016-04-27T08:45:37Z', 'labels': []}
+{'issuenumber': 442, 'title': 'pymysql.connect   KeyError: 224', 'state': 'closed', 'created_at': '2016-04-13T04:22:38Z', 'closed_at': '2016-04-13T07:55:45Z', 'labels': []}
+{'issuenumber': 440, 'title': 'Readme file says the dict key is "password" but really it\'s "passwd"', 'state': 'closed', 'created_at': '2016-04-01T18:03:05Z', 'closed_at': '2016-05-03T03:30:35Z', 'labels': []}
+{'issuenumber': 439, 'title': "Can't specify SERVICE NAME in my new connection", 'state': 'closed', 'created_at': '2016-03-30T06:55:31Z', 'closed_at': '2016-04-05T15:12:40Z', 'labels': []}
+{'issuenumber': 438, 'title': "Error：AttributeError: 'SocketIO' object has no attribute '_checkClosed'", 'state': 'closed', 'created_at': '2016-03-25T15:43:24Z', 'closed_at': '2016-03-25T16:02:40Z', 'labels': []}
+{'issuenumber': 437, 'title': 'main script is executed twice when import pymysql', 'state': 'closed', 'created_at': '2016-03-25T05:49:48Z', 'closed_at': '2016-05-15T16:46:32Z', 'labels': []}
+{'issuenumber': 432, 'title': 'ValueError on "\\x00\\x00\\x00!\\x00\\x00\\x00" packet', 'state': 'closed', 'created_at': '2016-02-26T23:10:55Z', 'closed_at': '2016-05-19T08:46:31Z', 'labels': []}
+{'issuenumber': 430, 'title': 'SSL certificate verify failed', 'state': 'closed', 'created_at': '2016-02-22T12:41:07Z', 'closed_at': '2016-05-17T11:15:59Z', 'labels': []}
+{'issuenumber': 429, 'title': 'Cursor.lastrowid issue', 'state': 'closed', 'created_at': '2016-02-19T12:12:04Z', 'closed_at': '2016-05-17T09:41:35Z', 'labels': []}
+{'issuenumber': 426, 'title': 'Error when trying to execute "LOAD DATA LOCAL INFILE" using Python Processes', 'state': 'closed', 'created_at': '2016-02-17T16:31:48Z', 'closed_at': '2016-02-23T22:36:24Z', 'labels': []}
+{'issuenumber': 425, 'title': 'Packet sequence number wrong - got 1 expected 2', 'state': 'closed', 'created_at': '2016-02-03T11:45:59Z', 'closed_at': '2016-02-03T18:17:46Z', 'labels': []}
+{'issuenumber': 424, 'title': 'mysql CURDATE() not expanding properly', 'state': 'closed', 'created_at': '2016-02-02T21:59:40Z', 'closed_at': '2016-02-03T02:22:27Z', 'labels': []}
+{'issuenumber': 423, 'title': '(pymysql.err.InternalError) Packet sequence number wrong - got 0 expected 1 ', 'state': 'closed', 'created_at': '2016-01-29T17:02:26Z', 'closed_at': '2016-01-30T08:59:43Z', 'labels': []}
+{'issuenumber': 422, 'title': 'Packet sequence number wrong', 'state': 'closed', 'created_at': '2016-01-26T02:30:27Z', 'closed_at': '2016-01-26T03:24:54Z', 'labels': []}
+{'issuenumber': 421, 'title': 'Connection oddness in a class', 'state': 'closed', 'created_at': '2016-01-18T21:01:48Z', 'closed_at': '2016-02-15T20:20:05Z', 'labels': []}
+{'issuenumber': 417, 'title': 'connect seems to be ignoring password', 'state': 'closed', 'created_at': '2016-01-12T14:23:27Z', 'closed_at': '2016-01-14T04:07:11Z', 'labels': []}
+{'issuenumber': 416, 'title': 'Broken unicode to Binary conversion', 'state': 'closed', 'created_at': '2016-01-12T12:45:41Z', 'closed_at': '2016-01-18T02:38:27Z', 'labels': []}
+{'issuenumber': 415, 'title': 'TypeError: character mapping must return integer, None or unicode', 'state': 'closed', 'created_at': '2016-01-12T10:00:14Z', 'closed_at': '2016-01-13T23:49:10Z', 'labels': []}
+{'issuenumber': 414, 'title': 'pymysql.err.InternalError: Packet sequence number wrong - got 1 expected 2', 'state': 'closed', 'created_at': '2016-01-12T08:03:37Z', 'closed_at': '2016-01-12T08:51:25Z', 'labels': []}
+{'issuenumber': 408, 'title': 'Pymysql    whether reconnection  when connection timeout ', 'state': 'closed', 'created_at': '2016-01-07T02:34:12Z', 'closed_at': '2016-01-07T08:20:06Z', 'labels': []}
+{'issuenumber': 407, 'title': 'Pymysql fail to use LOAD DATA LOCAL INFILE ', 'state': 'closed', 'created_at': '2016-01-05T15:13:40Z', 'closed_at': '2016-05-17T09:42:23Z', 'labels': {'name': 'Needs more information'}}
+{'issuenumber': 399, 'title': 'cursor.execute(); cursor.fetchall() returns empty tuple for first two calls on newly dropped/recreated/populated table', 'state': 'closed', 'created_at': '2015-12-10T16:34:30Z', 'closed_at': '2016-01-05T01:12:10Z', 'labels': []}
+{'issuenumber': 397, 'title': 'Broken pipe for large blobs', 'state': 'closed', 'created_at': '2015-12-04T22:55:14Z', 'closed_at': '2016-03-08T19:07:47Z', 'labels': {'name': 'Needs more information'}}
+{'issuenumber': 396, 'title': 'No self.close() in __exit__ method of connection?', 'state': 'closed', 'created_at': '2015-12-03T10:52:55Z', 'closed_at': '2015-12-03T11:15:20Z', 'labels': []}
+{'issuenumber': 394, 'title': 'Executemany with ON DUPLICATE KEY', 'state': 'closed', 'created_at': '2015-11-20T16:03:37Z', 'closed_at': '2015-12-05T01:26:27Z', 'labels': []}
+{'issuenumber': 393, 'title': 'Support read_timeout or write_timeout in PyMySQL', 'state': 'closed', 'created_at': '2015-11-17T22:30:14Z', 'closed_at': '2016-05-18T09:33:53Z', 'labels': []}
+{'issuenumber': 392, 'title': 'PyMSQL should patch _mysql_exceptions', 'state': 'closed', 'created_at': '2015-11-17T04:03:18Z', 'closed_at': '2015-11-17T04:13:41Z', 'labels': []}
+{'issuenumber': 390, 'title': 'Without autocommit SELECT returns old data.', 'state': 'closed', 'created_at': '2015-11-13T09:28:45Z', 'closed_at': '2015-11-13T10:12:40Z', 'labels': []}
+{'issuenumber': 389, 'title': 'connection prefers localhost over mysql config file', 'state': 'closed', 'created_at': '2015-11-11T11:31:07Z', 'closed_at': '2016-01-02T16:58:26Z', 'labels': []}
+{'issuenumber': 386, 'title': 'Connection through SSL', 'state': 'closed', 'created_at': '2015-10-20T18:21:58Z', 'closed_at': '2016-01-06T12:28:41Z', 'labels': []}
+{'issuenumber': 385, 'title': 'PyMySQL new version support Mysql5.7 json future ? ', 'state': 'closed', 'created_at': '2015-10-20T07:24:20Z', 'closed_at': '2015-10-24T00:49:01Z', 'labels': []}
+{'issuenumber': 384, 'title': 'Lost connection to MySQL server during query (after 0.8.2 -> 0.8.4)', 'state': 'closed', 'created_at': '2015-10-02T10:39:56Z', 'closed_at': '2015-10-02T10:45:24Z', 'labels': []}
+{'issuenumber': 383, 'title': '0.6.7 egg', 'state': 'closed', 'created_at': '2015-09-30T14:14:10Z', 'closed_at': '2015-09-30T15:27:58Z', 'labels': []}
+{'issuenumber': 382, 'title': '"Got packets out of order" error on large INSERT operation.', 'state': 'closed', 'created_at': '2015-09-22T04:41:55Z', 'closed_at': '2016-01-03T02:52:25Z', 'labels': []}
+{'issuenumber': 381, 'title': 'error 2013/104 during initial connection', 'state': 'closed', 'created_at': '2015-09-18T16:24:33Z', 'closed_at': '2015-09-18T16:36:55Z', 'labels': []}
+{'issuenumber': 380, 'title': 'BLOB and unicode failing in executemany', 'state': 'closed', 'created_at': '2015-09-15T23:21:32Z', 'closed_at': '2015-09-30T07:21:34Z', 'labels': []}
+{'issuenumber': 379, 'title': 'Errors that indicate about connection', 'state': 'closed', 'created_at': '2015-09-14T00:49:43Z', 'closed_at': '2015-09-30T11:40:49Z', 'labels': []}
+{'issuenumber': 372, 'title': 'Is there a mechanism to auto reconnect?', 'state': 'closed', 'created_at': '2015-08-27T05:53:14Z', 'closed_at': '2015-08-27T07:13:39Z', 'labels': []}
+{'issuenumber': 371, 'title': 'Do not trim the string in result set', 'state': 'closed', 'created_at': '2015-08-26T12:56:54Z', 'closed_at': '2015-08-29T11:14:38Z', 'labels': []}
+{'issuenumber': 367, 'title': 'SQLAlchemy connection.execute throws an error in `pymysql/cursors.py`', 'state': 'closed', 'created_at': '2015-08-13T22:12:11Z', 'closed_at': '2015-08-14T12:33:20Z', 'labels': []}
+{'issuenumber': 366, 'title': 'slow escaping of byte strings in Python 3', 'state': 'closed', 'created_at': '2015-08-12T17:40:58Z', 'closed_at': '2016-01-07T13:10:56Z', 'labels': []}
+{'issuenumber': 364, 'title': 'UnicodeDecodeError in executemany with mixed str/bytes arguments', 'state': 'closed', 'created_at': '2015-08-11T13:02:53Z', 'closed_at': '2015-08-13T13:44:54Z', 'labels': []}
+{'issuenumber': 363, 'title': 'Binary types are attempting to be decoded into ascii causing a decoding exception.', 'state': 'closed', 'created_at': '2015-08-07T21:40:35Z', 'closed_at': '2015-08-16T17:38:34Z', 'labels': []}
+{'issuenumber': 362, 'title': 'Feature Request: MySQL login path support', 'state': 'closed', 'created_at': '2015-07-31T21:26:51Z', 'closed_at': '2018-05-08T10:59:52Z', 'labels': []}
+{'issuenumber': 360, 'title': 'socketio is slower than MySQLdb', 'state': 'closed', 'created_at': '2015-07-30T01:08:41Z', 'closed_at': '2015-09-30T11:41:37Z', 'labels': []}
+{'issuenumber': 356, 'title': 'literal works differently as MySQLdb', 'state': 'closed', 'created_at': '2015-07-16T09:34:32Z', 'closed_at': '2015-07-27T10:37:42Z', 'labels': []}
+{'issuenumber': 349, 'title': "AttributeError: 'module' object has no attribute 'install_as_MySQLdb'", 'state': 'closed', 'created_at': '2015-06-24T04:54:09Z', 'closed_at': '2015-06-25T06:59:22Z', 'labels': []}
+{'issuenumber': 348, 'title': "Cannot store subclasses of types specified in converters.py's encoders dict", 'state': 'closed', 'created_at': '2015-06-20T19:27:14Z', 'closed_at': '2015-09-11T05:08:49Z', 'labels': []}
+{'issuenumber': 347, 'title': 'Cursor.rowcount is not matched_rows but affected_rows, which may be less', 'state': 'closed', 'created_at': '2015-06-18T09:34:14Z', 'closed_at': '2015-07-23T03:44:04Z', 'labels': []}
+{'issuenumber': 345, 'title': "PyMySQL doesn't parse quoted config", 'state': 'closed', 'created_at': '2015-06-01T04:54:19Z', 'closed_at': '2015-07-31T05:19:20Z', 'labels': []}
+{'issuenumber': 343, 'title': 'TypeError for multiple queries when one raises a warning', 'state': 'closed', 'created_at': '2015-05-28T23:30:21Z', 'closed_at': '2015-05-29T11:45:32Z', 'labels': []}
+{'issuenumber': 342, 'title': "What's the difference between PyMySQL and mysqlclient-python?", 'state': 'closed', 'created_at': '2015-05-23T18:13:38Z', 'closed_at': '2015-05-23T19:50:11Z', 'labels': []}
+{'issuenumber': 340, 'title': 'Connection to local MySQL fails on Google AppEngine SDK', 'state': 'closed', 'created_at': '2015-05-08T06:21:26Z', 'closed_at': '2016-04-26T00:12:20Z', 'labels': {'name': 'Needs more information'}}
+{'issuenumber': 339, 'title': "pymysql.connect ignores host, connects to the machine's IP", 'state': 'closed', 'created_at': '2015-04-25T22:16:29Z', 'closed_at': '2015-06-01T04:57:33Z', 'labels': []}
+{'issuenumber': 338, 'title': "connect() hangs indefinitely if MySQL server opens socket connection but doesn't respond.", 'state': 'closed', 'created_at': '2015-04-20T17:07:21Z', 'closed_at': '2016-05-18T09:45:51Z', 'labels': []}
+{'issuenumber': 337, 'title': '[RFC] Can I change license from MIT to GPL?', 'state': 'closed', 'created_at': '2015-04-16T06:42:27Z', 'closed_at': '2015-07-02T09:09:19Z', 'labels': []}
+{'issuenumber': 336, 'title': 'constants.CR is missing', 'state': 'closed', 'created_at': '2015-04-15T18:00:55Z', 'closed_at': '2015-05-13T09:11:13Z', 'labels': []}
+{'issuenumber': 335, 'title': "TypeError: unsupport operand type(s) for %: 'bytes' and 'tuple'", 'state': 'closed', 'created_at': '2015-04-14T09:41:59Z', 'closed_at': '2015-04-15T01:18:18Z', 'labels': []}
+{'issuenumber': 334, 'title': 'Always use TCP_NODELAY and deprecate no_delay option', 'state': 'closed', 'created_at': '2015-04-03T12:36:15Z', 'closed_at': '2015-06-01T05:01:17Z', 'labels': []}
+{'issuenumber': 329, 'title': 'TypeError: %i format: a number is required, not str', 'state': 'closed', 'created_at': '2015-03-20T08:30:21Z', 'closed_at': '2015-03-20T08:56:09Z', 'labels': []}
+{'issuenumber': 326, 'title': 'Cursor.execute_script', 'state': 'closed', 'created_at': '2015-03-17T15:53:39Z', 'closed_at': '2015-06-01T04:59:21Z', 'labels': []}
+{'issuenumber': 325, 'title': 'How to handle mysql warnings now', 'state': 'closed', 'created_at': '2015-03-13T23:25:22Z', 'closed_at': '2015-03-13T23:50:48Z', 'labels': []}
+{'issuenumber': 324, 'title': 'Error in `escape_string` function if `value` in a numpy float', 'state': 'closed', 'created_at': '2015-03-09T23:39:02Z', 'closed_at': '2016-03-21T00:26:55Z', 'labels': []}
+{'issuenumber': 322, 'title': 'If DEBUG mode is forced, python3 has a bytes->string conversion problem.', 'state': 'closed', 'created_at': '2015-03-08T20:14:40Z', 'closed_at': '2015-03-09T18:27:59Z', 'labels': []}
+{'issuenumber': 320, 'title': 'TIMESTAMP problem with the coding ...', 'state': 'closed', 'created_at': '2015-03-02T18:26:45Z', 'closed_at': '2016-05-17T10:41:18Z', 'labels': []}
+{'issuenumber': 317, 'title': 'MAX_PACKET_LEN is too big and can cause connection aborts on large LOAD DATA LOCAL', 'state': 'closed', 'created_at': '2015-03-02T07:15:15Z', 'closed_at': '2015-03-02T08:16:43Z', 'labels': []}
+{'issuenumber': 312, 'title': 'With Django and .cnf files, testing empties non-testing database', 'state': 'closed', 'created_at': '2015-02-27T13:26:32Z', 'closed_at': '2016-05-19T12:21:48Z', 'labels': []}
+{'issuenumber': 311, 'title': 'problem with connect', 'state': 'closed', 'created_at': '2015-02-27T12:43:51Z', 'closed_at': '2015-02-28T00:15:11Z', 'labels': []}
+{'issuenumber': 310, 'title': 'TypeError on warnings with BLOB field queries', 'state': 'closed', 'created_at': '2015-02-19T13:09:04Z', 'closed_at': '2015-05-29T21:33:55Z', 'labels': []}
+{'issuenumber': 309, 'title': 'Connecting to local database on Win 7 takes > 1 sec.', 'state': 'closed', 'created_at': '2015-02-12T20:59:40Z', 'closed_at': '2015-06-01T05:00:46Z', 'labels': []}
+{'issuenumber': 308, 'title': "'module' object has no attribute 'wrap_self'", 'state': 'closed', 'created_at': '2015-02-07T17:08:19Z', 'closed_at': '2015-02-19T13:28:02Z', 'labels': []}
+{'issuenumber': 301, 'title': 'Drop Python 2.6 support', 'state': 'closed', 'created_at': '2015-02-03T20:20:03Z', 'closed_at': '2015-02-04T06:43:29Z', 'labels': []}
+{'issuenumber': 298, 'title': 'Add CI for Jython and IronPython', 'state': 'closed', 'created_at': '2015-02-02T05:45:18Z', 'closed_at': '2015-02-03T20:42:42Z', 'labels': []}
+{'issuenumber': 295, 'title': 'Use surrogateescape when converting bytes to str.', 'state': 'closed', 'created_at': '2015-02-02T03:24:04Z', 'closed_at': '2015-02-04T09:41:19Z', 'labels': []}
+{'issuenumber': 289, 'title': 'What about threatsafety?', 'state': 'closed', 'created_at': '2015-01-31T01:34:52Z', 'closed_at': '2015-02-05T16:11:18Z', 'labels': []}
+{'issuenumber': 288, 'title': 'executemany should work with "insert ... on update"', 'state': 'closed', 'created_at': '2015-01-30T21:05:20Z', 'closed_at': '2015-02-03T20:21:07Z', 'labels': []}
+{'issuenumber': 287, 'title': 'KeyboardInterrupt exception forces finishing of query', 'state': 'closed', 'created_at': '2015-01-30T20:59:17Z', 'closed_at': '2015-02-03T04:32:45Z', 'labels': []}
+{'issuenumber': 286, 'title': '8 digits unicode char cause unclosed quotation error in _mssql', 'state': 'closed', 'created_at': '2015-01-29T16:38:42Z', 'closed_at': '2015-01-29T18:09:17Z', 'labels': []}
+{'issuenumber': 284, 'title': 'fetchmany should return empty list instead of None', 'state': 'closed', 'created_at': '2015-01-19T22:26:24Z', 'closed_at': '2015-02-01T23:28:53Z', 'labels': []}
+{'issuenumber': 281, 'title': 'Allow executemany to cache results from multiple selects', 'state': 'closed', 'created_at': '2015-01-13T21:04:25Z', 'closed_at': '2015-02-01T03:24:01Z', 'labels': []}
+{'issuenumber': 277, 'title': 'Multiple definitions of two decoders, Decimal vs float', 'state': 'closed', 'created_at': '2014-12-24T15:19:25Z', 'closed_at': '2014-12-24T16:10:41Z', 'labels': []}
+{'issuenumber': 275, 'title': 'gevent killed greenlet causes pymysql to continue on the broken connection', 'state': 'closed', 'created_at': '2014-12-05T08:12:20Z', 'closed_at': '2018-12-17T12:27:40Z', 'labels': []}
+{'issuenumber': 274, 'title': '`pymysql.connect` should provide structured information about why the connection failed.', 'state': 'closed', 'created_at': '2014-11-30T02:47:24Z', 'closed_at': '2015-02-06T06:21:16Z', 'labels': []}
+{'issuenumber': 273, 'title': "AttributeError: 'module' object has no attribute 'escape'", 'state': 'closed', 'created_at': '2014-11-26T00:55:47Z', 'closed_at': '2016-05-17T11:27:58Z', 'labels': []}
+{'issuenumber': 272, 'title': 'add support for pyformat or named paramstyle', 'state': 'closed', 'created_at': '2014-11-24T10:11:20Z', 'closed_at': '2014-11-24T14:04:26Z', 'labels': []}
+{'issuenumber': 271, 'title': 'can not create database', 'state': 'closed', 'created_at': '2014-11-10T21:08:42Z', 'closed_at': '2014-11-11T07:59:29Z', 'labels': []}
+{'issuenumber': 269, 'title': "Can't connect to MySQL server Lost connection to MySQL server during query", 'state': 'closed', 'created_at': '2014-10-30T02:48:31Z', 'closed_at': '2015-01-29T21:54:05Z', 'labels': []}
+{'issuenumber': 268, 'title': 'Storing / retrieving data in BLOB columns is horribly incorrect', 'state': 'closed', 'created_at': '2014-10-28T04:44:27Z', 'closed_at': '2014-10-28T21:06:33Z', 'labels': []}
+{'issuenumber': 267, 'title': 'Multiprocessing pool - multiple cursor limitation', 'state': 'closed', 'created_at': '2014-10-24T14:03:07Z', 'closed_at': '2014-10-26T00:35:00Z', 'labels': []}
+{'issuenumber': 266, 'title': 'Cursor randomly causes error due to garbage collection:', 'state': 'closed', 'created_at': '2014-10-20T18:55:06Z', 'closed_at': '2016-05-17T11:29:45Z', 'labels': []}
+{'issuenumber': 264, 'title': 'Test suite errors with MariaDB 5.1 and Python 2.7.5 ', 'state': 'closed', 'created_at': '2014-09-04T18:05:57Z', 'closed_at': '2016-01-09T06:53:42Z', 'labels': []}
+{'issuenumber': 260, 'title': 'RuntimeError: reentrant call inside <_io.BufferedReader> exception thrown', 'state': 'closed', 'created_at': '2014-08-25T10:29:56Z', 'closed_at': '2016-05-17T10:52:29Z', 'labels': []}
+{'issuenumber': 259, 'title': 'Random "NoSuchColumnError" exceptions thrown.', 'state': 'closed', 'created_at': '2014-08-25T10:17:19Z', 'closed_at': '2016-01-09T06:50:01Z', 'labels': []}
+{'issuenumber': 252, 'title': 'ssl: enable optional verification as in MySQLdb', 'state': 'closed', 'created_at': '2014-07-15T07:04:55Z', 'closed_at': '2015-03-01T16:23:58Z', 'labels': []}
+{'issuenumber': 251, 'title': "AttributeError: 'Connection' object has no attribute 'store_result'", 'state': 'closed', 'created_at': '2014-07-08T21:21:18Z', 'closed_at': '2016-04-18T21:12:02Z', 'labels': []}
+{'issuenumber': 250, 'title': 'Connect timeout also applies to general reads/writes', 'state': 'closed', 'created_at': '2014-07-03T10:19:39Z', 'closed_at': '2014-11-30T19:11:45Z', 'labels': []}
+{'issuenumber': 249, 'title': 'cursor.callproc response is slowly', 'state': 'closed', 'created_at': '2014-06-16T09:42:18Z', 'closed_at': '2016-05-18T09:47:56Z', 'labels': []}
+{'issuenumber': 248, 'title': 'with pymysql.connect as cursor', 'state': 'closed', 'created_at': '2014-06-06T16:13:01Z', 'closed_at': '2014-06-07T14:20:21Z', 'labels': []}
+{'issuenumber': 244, 'title': "ImportError: cannot import name 'Thing2Literal'", 'state': 'closed', 'created_at': '2014-05-28T04:50:49Z', 'closed_at': '2015-02-01T02:27:24Z', 'labels': []}
+{'issuenumber': 243, 'title': '"Client does not support authentication protocol requested by server; consider upgrading MySQL client" when attempting to authenticate over sockets', 'state': 'closed', 'created_at': '2014-05-23T21:39:36Z', 'closed_at': '2016-05-17T09:39:32Z', 'labels': []}
+{'issuenumber': 242, 'title': "connect() arguments' names should follow PEP 249 guidelines", 'state': 'closed', 'created_at': '2014-05-23T09:57:20Z', 'closed_at': '2014-06-06T13:34:58Z', 'labels': []}
+{'issuenumber': 240, 'title': 'pymysql/_socketio.py python2.6 error', 'state': 'closed', 'created_at': '2014-05-10T03:59:44Z', 'closed_at': '2014-05-10T04:57:02Z', 'labels': []}
+{'issuenumber': 239, 'title': 'Check if results exist after execute() without having to call fetch____()', 'state': 'closed', 'created_at': '2014-05-09T20:40:31Z', 'closed_at': '2016-01-09T06:52:46Z', 'labels': []}
+{'issuenumber': 238, 'title': 'Is PyMySQL compatible with gevent?', 'state': 'closed', 'created_at': '2014-05-08T21:36:56Z', 'closed_at': '2014-08-25T15:27:57Z', 'labels': []}
+{'issuenumber': 237, 'title': 'how to deal with connections commit()/close()', 'state': 'closed', 'created_at': '2014-05-08T12:57:12Z', 'closed_at': '2014-05-08T16:58:30Z', 'labels': []}
+{'issuenumber': 236, 'title': 'Beginning transactions.', 'state': 'closed', 'created_at': '2014-05-01T13:48:21Z', 'closed_at': '2014-06-06T13:23:04Z', 'labels': []}
+{'issuenumber': 235, 'title': 'the missing `connection.open `', 'state': 'closed', 'created_at': '2014-04-30T13:46:25Z', 'closed_at': '2014-06-06T13:14:47Z', 'labels': []}
+{'issuenumber': 234, 'title': 'Serious bug: Lots of  **reentrant call inside <_io.BufferedReader name=16>** raised', 'state': 'closed', 'created_at': '2014-04-26T10:25:11Z', 'closed_at': '2014-04-26T10:31:39Z', 'labels': []}
+{'issuenumber': 233, 'title': '`buffer` type for `BLOB`?', 'state': 'closed', 'created_at': '2014-04-20T23:32:30Z', 'closed_at': '2014-06-06T12:52:07Z', 'labels': []}
+{'issuenumber': 231, 'title': "DictCursor Unicode value storage doesn't seem to work well", 'state': 'closed', 'created_at': '2014-03-30T16:51:45Z', 'closed_at': '2014-03-30T17:15:46Z', 'labels': []}
+{'issuenumber': 229, 'title': "nextset doesn't work with commands with no results (with fix)", 'state': 'closed', 'created_at': '2014-03-26T16:52:30Z', 'closed_at': '2014-03-26T18:18:39Z', 'labels': []}
+{'issuenumber': 225, 'title': 'Read response when write failed with EPIPE', 'state': 'closed', 'created_at': '2014-03-20T01:30:18Z', 'closed_at': '2015-02-06T07:42:46Z', 'labels': []}
+{'issuenumber': 224, 'title': 'error 32 broken pipe', 'state': 'closed', 'created_at': '2014-03-18T05:40:06Z', 'closed_at': '2015-02-06T07:42:22Z', 'labels': []}
+{'issuenumber': 222, 'title': 'Decimal escape is not right in python 2.x', 'state': 'closed', 'created_at': '2014-03-17T08:57:01Z', 'closed_at': '2014-03-22T16:35:29Z', 'labels': []}
+{'issuenumber': 220, 'title': "encoders can't be overridden without mutating shared global state", 'state': 'closed', 'created_at': '2014-03-07T16:47:45Z', 'closed_at': '2016-05-17T11:24:42Z', 'labels': []}
+{'issuenumber': 219, 'title': "converter for datetime objects doesn't handle timezones", 'state': 'closed', 'created_at': '2014-03-07T16:19:09Z', 'closed_at': '2016-05-17T09:38:42Z', 'labels': []}
+{'issuenumber': 218, 'title': 'Problems with slave-parallel-workers > 0', 'state': 'closed', 'created_at': '2014-03-03T11:33:18Z', 'closed_at': '2014-03-04T10:56:42Z', 'labels': []}
+{'issuenumber': 217, 'title': 'escape_string() unicode string is not right in Python 2.x', 'state': 'closed', 'created_at': '2014-03-01T15:37:39Z', 'closed_at': '2014-03-10T14:53:19Z', 'labels': []}
+{'issuenumber': 215, 'title': 'Support for .format style escaping', 'state': 'closed', 'created_at': '2014-02-22T13:35:41Z', 'closed_at': '2014-02-23T14:07:17Z', 'labels': []}
+{'issuenumber': 209, 'title': 'Wrong handling password encoding', 'state': 'closed', 'created_at': '2014-01-22T08:21:11Z', 'closed_at': '2014-01-29T12:16:17Z', 'labels': []}
+{'issuenumber': 207, 'title': 'pip installation tests syntax error', 'state': 'closed', 'created_at': '2014-01-19T10:43:07Z', 'closed_at': '2014-01-19T21:22:09Z', 'labels': []}
+{'issuenumber': 205, 'title': "Doesn't handle EINTR on system call", 'state': 'closed', 'created_at': '2014-01-02T13:58:13Z', 'closed_at': '2014-03-23T01:18:00Z', 'labels': []}
+{'issuenumber': 203, 'title': 'Feature request: Make Cursor.executemany batch inserts in a single statement', 'state': 'closed', 'created_at': '2013-12-16T22:23:47Z', 'closed_at': '2014-02-10T21:33:28Z', 'labels': []}
+{'issuenumber': 200, 'title': 'Fix the conversion of list or tuple args to SQL.', 'state': 'closed', 'created_at': '2013-12-08T01:26:23Z', 'closed_at': '2016-06-28T13:14:25Z', 'labels': []}
+{'issuenumber': 199, 'title': 'Add documentation', 'state': 'closed', 'created_at': '2013-12-04T00:52:00Z', 'closed_at': '2016-07-27T05:22:37Z', 'labels': []}
+{'issuenumber': 195, 'title': 'Typo with trailing `l` for OperationalErrorl in connections.py / _read_ok_packet', 'state': 'closed', 'created_at': '2013-11-12T16:37:42Z', 'closed_at': '2013-11-13T12:51:20Z', 'labels': []}
+{'issuenumber': 194, 'title': 'FAIL: test_issue_15 (pymysql.tests.test_issues.TestOldIssues)', 'state': 'closed', 'created_at': '2013-11-11T14:19:00Z', 'closed_at': '2015-02-03T20:41:47Z', 'labels': []}
+{'issuenumber': 193, 'title': 'FAIL: test_datatypes (pymysql.tests.test_basic.TestConversion)', 'state': 'closed', 'created_at': '2013-11-11T14:17:49Z', 'closed_at': '2015-02-03T20:39:12Z', 'labels': []}
+{'issuenumber': 190, 'title': 'surrogateescape for invalid utf-8 character in python3', 'state': 'closed', 'created_at': '2013-10-31T09:58:28Z', 'closed_at': '2013-11-05T18:39:04Z', 'labels': []}
+{'issuenumber': 187, 'title': 'pyMySQL Error (no module called PyMySQL)', 'state': 'closed', 'created_at': '2013-10-08T10:40:58Z', 'closed_at': '2013-10-22T10:20:06Z', 'labels': []}
+{'issuenumber': 184, 'title': 'Transport Customization', 'state': 'closed', 'created_at': '2013-10-08T04:48:33Z', 'closed_at': '2015-08-02T07:13:17Z', 'labels': {'name': 'Priority-Low'}}
+{'issuenumber': 183, 'title': 'pymysql-0.6 not working with mysql-proxy', 'state': 'closed', 'created_at': '2013-10-08T02:28:46Z', 'closed_at': '2013-10-08T08:52:27Z', 'labels': {'name': 'Priority-High'}}
+{'issuenumber': 182, 'title': 'Using Gevent-SocketIO PyMySQL Blocking', 'state': 'closed', 'created_at': '2013-10-07T07:23:02Z', 'closed_at': '2013-10-10T00:05:23Z', 'labels': {'name': 'Priority-High'}}
+{'issuenumber': 180, 'title': " AttributeError: 'weakref' object has no attribute 'insert_id'", 'state': 'closed', 'created_at': '2013-10-07T05:37:38Z', 'closed_at': '2013-10-08T09:00:10Z', 'labels': {'name': 'Priority-High'}}
+{'issuenumber': 179, 'title': "AttributeError: 'Cursor' object has no attribute '_last_executed'", 'state': 'closed', 'created_at': '2013-10-07T02:37:56Z', 'closed_at': '2013-10-07T23:21:28Z', 'labels': []}
+{'issuenumber': 178, 'title': 'Escape is broken', 'state': 'closed', 'created_at': '2013-10-05T09:18:44Z', 'closed_at': '2013-10-08T04:51:26Z', 'labels': []}
+{'issuenumber': 176, 'title': 'failed pip install on WinXP with python3.2 ', 'state': 'closed', 'created_at': '2013-10-02T16:10:22Z', 'closed_at': '2013-10-02T23:16:56Z', 'labels': []}
+{'issuenumber': 175, 'title': 'The number of fields returned by server is read in wrong way', 'state': 'closed', 'created_at': '2013-10-02T12:53:50Z', 'closed_at': '2013-10-03T00:30:33Z', 'labels': []}
+{'issuenumber': 174, 'title': 'Update setup.py', 'state': 'closed', 'created_at': '2013-10-01T07:10:59Z', 'closed_at': '2013-10-01T14:53:26Z', 'labels': {'name': 'Priority-High'}}
+{'issuenumber': 173, 'title': 'Setup IronPython environment on Travis', 'state': 'closed', 'created_at': '2013-10-01T06:06:32Z', 'closed_at': '2016-07-28T11:35:32Z', 'labels': []}
+{'issuenumber': 172, 'title': 'Setup Jython environment for Travis', 'state': 'closed', 'created_at': '2013-10-01T06:06:19Z', 'closed_at': '2016-07-28T11:35:05Z', 'labels': []}
+{'issuenumber': 157, 'title': 'Semicolon-separated SQL causes Query/Resultset Mismatch', 'state': 'closed', 'created_at': '2013-09-08T22:53:18Z', 'closed_at': '2013-09-29T13:19:06Z', 'labels': []}
+{'issuenumber': 154, 'title': 'Installing with pip on OS X fails tests', 'state': 'closed', 'created_at': '2013-06-17T10:26:37Z', 'closed_at': '2013-09-23T23:56:42Z', 'labels': []}
+{'issuenumber': 153, 'title': 'Documentation link in the description', 'state': 'closed', 'created_at': '2013-06-14T00:54:53Z', 'closed_at': '2013-09-21T15:21:19Z', 'labels': []}
+{'issuenumber': 151, 'title': 'error with pymysql/cursors.py', 'state': 'closed', 'created_at': '2013-06-06T10:23:55Z', 'closed_at': '2013-09-21T15:31:50Z', 'labels': []}
+{'issuenumber': 149, 'title': 'ImportError at /  cannot import name SERVER_STATUS', 'state': 'closed', 'created_at': '2013-06-04T11:23:26Z', 'closed_at': '2013-09-24T23:31:35Z', 'labels': []}
+{'issuenumber': 147, 'title': "AttributeError: 'NoneType' object has no attribute 'read' in pymysql/connections.py in __recv_packet", 'state': 'closed', 'created_at': '2013-05-14T16:28:59Z', 'closed_at': '2013-09-24T00:00:56Z', 'labels': []}
+{'issuenumber': 146, 'title': "Can't install for Python 3 on Windows 7", 'state': 'closed', 'created_at': '2013-05-09T04:05:01Z', 'closed_at': '2013-09-21T16:44:38Z', 'labels': []}
+{'issuenumber': 145, 'title': 'Error on large multi value inserts', 'state': 'closed', 'created_at': '2013-04-16T07:47:36Z', 'closed_at': '2013-09-29T16:08:20Z', 'labels': []}
+{'issuenumber': 142, 'title': 'Binary objects are returned as double wrapped bytes in Python 3', 'state': 'closed', 'created_at': '2013-03-19T16:37:12Z', 'closed_at': '2013-09-24T00:03:55Z', 'labels': []}
+{'issuenumber': 141, 'title': 'Django 1.5 Python 3.3  pymysql.install_as_MySQLdb() => ImportError: cannot import name Thing2Literal', 'state': 'closed', 'created_at': '2013-03-07T19:20:02Z', 'closed_at': '2013-09-24T00:01:43Z', 'labels': []}
+{'issuenumber': 139, 'title': 'Allow to set SO_KEEPALIVE', 'state': 'closed', 'created_at': '2013-03-01T18:09:28Z', 'closed_at': '2013-09-23T01:54:36Z', 'labels': []}
+{'issuenumber': 138, 'title': 'Problem with PyMySQL in combination with Sqlalchemy making a table', 'state': 'closed', 'created_at': '2013-02-18T22:49:29Z', 'closed_at': '2013-09-24T00:05:31Z', 'labels': []}
+{'issuenumber': 136, 'title': 'Blocking IO can hang indefinitely on broken sockets', 'state': 'closed', 'created_at': '2013-01-09T08:41:18Z', 'closed_at': '2013-09-29T13:56:38Z', 'labels': []}
+{'issuenumber': 134, 'title': "TypeError('parse_datetime_with_timezone_support() takes exactly 1 argument (3 given)',))", 'state': 'closed', 'created_at': '2012-11-23T17:56:46Z', 'closed_at': '2013-09-24T00:27:21Z', 'labels': []}
+{'issuenumber': 132, 'title': 'fetchall() method return extraneous characters', 'state': 'closed', 'created_at': '2012-11-09T03:33:25Z', 'closed_at': '2013-09-21T15:51:36Z', 'labels': []}
+{'issuenumber': 131, 'title': 'exceptions.TypeError with pymysql 0.5 and Django 1.3.4', 'state': 'closed', 'created_at': '2012-10-25T12:32:39Z', 'closed_at': '2013-09-23T15:03:28Z', 'labels': []}
+{'issuenumber': 129, 'title': 'Option name: database vs. db', 'state': 'closed', 'created_at': '2012-10-20T02:11:25Z', 'closed_at': '2013-09-30T16:45:15Z', 'labels': {'name': 'Priority-Low'}}
+{'issuenumber': 127, 'title': 'execute() raises TypeError', 'state': 'closed', 'created_at': '2012-10-17T23:54:21Z', 'closed_at': '2013-09-21T16:09:17Z', 'labels': []}
+{'issuenumber': 125, 'title': "UnicodeDecodeError when server's error message contains binary data", 'state': 'closed', 'created_at': '2012-10-17T03:42:03Z', 'closed_at': '2013-09-25T00:16:23Z', 'labels': []}
+{'issuenumber': 123, 'title': 'GC reports uncollectable objects at shutdown', 'state': 'closed', 'created_at': '2012-10-14T09:53:32Z', 'closed_at': '2013-09-29T13:17:15Z', 'labels': []}
+{'issuenumber': 121, 'title': "Can't Install With Python 3", 'state': 'closed', 'created_at': '2012-10-03T13:44:39Z', 'closed_at': '2013-09-21T16:20:04Z', 'labels': []}
+{'issuenumber': 119, 'title': 'Unicode argument support', 'state': 'closed', 'created_at': '2012-09-06T19:09:43Z', 'closed_at': '2012-09-06T19:32:44Z', 'labels': []}
+{'issuenumber': 118, 'title': 'Support IPv6', 'state': 'closed', 'created_at': '2012-08-16T19:10:30Z', 'closed_at': '2013-09-29T17:42:35Z', 'labels': []}
+{'issuenumber': 114, 'title': 'autocommit is not set after reconnecting with ping()', 'state': 'closed', 'created_at': '2012-07-20T14:06:29Z', 'closed_at': '2012-10-18T05:07:46Z', 'labels': []}
+{'issuenumber': 111, 'title': 'Correction on cursors.py to work in Python3', 'state': 'closed', 'created_at': '2012-07-07T16:31:07Z', 'closed_at': '2013-09-21T16:23:45Z', 'labels': []}
+{'issuenumber': 110, 'title': "TypeError: unsupported operand type(s) for %: 'bytes' and 'dict'", 'state': 'closed', 'created_at': '2012-06-08T00:20:37Z', 'closed_at': '2013-09-21T16:46:44Z', 'labels': []}
+{'issuenumber': 109, 'title': "TypeError: unsupported operand type(s) for %: 'bytes' and 'str' on cursors.py", 'state': 'closed', 'created_at': '2012-06-07T08:04:39Z', 'closed_at': '2013-09-21T16:47:59Z', 'labels': []}
+{'issuenumber': 108, 'title': "PyMySQL can't Output MySQL's time field's", 'state': 'closed', 'created_at': '2012-05-07T21:12:14Z', 'closed_at': '2013-09-21T16:49:58Z', 'labels': []}
+{'issuenumber': 105, 'title': 'PyMySQL running under Python 3', 'state': 'closed', 'created_at': '2012-04-21T13:10:14Z', 'closed_at': '2012-04-22T08:10:54Z', 'labels': []}
+{'issuenumber': 104, 'title': "Connector's autocommit", 'state': 'closed', 'created_at': '2012-04-18T19:47:48Z', 'closed_at': '2013-09-30T16:14:22Z', 'labels': []}
+{'issuenumber': 102, 'title': 'Integrating utf8mb4 char set', 'state': 'closed', 'created_at': '2012-03-21T22:35:49Z', 'closed_at': '2013-09-23T14:01:32Z', 'labels': []}
+{'issuenumber': 101, 'title': 'Cursor.fetchmany checks "if self._rows is None" too late', 'state': 'closed', 'created_at': '2012-02-29T21:55:53Z', 'closed_at': '2013-09-29T16:55:32Z', 'labels': []}
+{'issuenumber': 100, 'title': 'cur.execute("show slave status") return 0 row', 'state': 'closed', 'created_at': '2012-02-21T08:48:34Z', 'closed_at': '2012-02-24T11:25:32Z', 'labels': []}
+{'issuenumber': 98, 'title': 'Error when trying to create stored procedure', 'state': 'closed', 'created_at': '2012-02-08T22:41:48Z', 'closed_at': '2013-09-25T07:47:19Z', 'labels': []}
+{'issuenumber': 97, 'title': '`PyMySQL3-0.5.tar.gz` in Github Download is broken.', 'state': 'closed', 'created_at': '2012-02-05T13:10:39Z', 'closed_at': '2013-09-21T16:59:16Z', 'labels': []}
+{'issuenumber': 95, 'title': 'Leftover trailing OK packet for "CALL my_sp" queries', 'state': 'closed', 'created_at': '2011-12-21T09:51:46Z', 'closed_at': '2013-09-30T16:27:02Z', 'labels': []}
+{'issuenumber': 94, 'title': 'exceptions raised incorrectly in Python 3', 'state': 'closed', 'created_at': '2011-12-18T18:05:34Z', 'closed_at': '2013-09-25T07:34:42Z', 'labels': []}
+{'issuenumber': 90, 'title': 'Problem with handling of decimals', 'state': 'closed', 'created_at': '2011-11-28T21:59:30Z', 'closed_at': '2013-09-23T23:40:35Z', 'labels': []}
+{'issuenumber': 89, 'title': 'Incorrect handling of "Too many connections” server response', 'state': 'closed', 'created_at': '2011-11-28T16:26:40Z', 'closed_at': '2013-09-25T07:37:34Z', 'labels': []}
+{'issuenumber': 86, 'title': 'pymysql should use double quoting instead of backslashes for escaping quotes', 'state': 'closed', 'created_at': '2011-11-09T16:30:03Z', 'closed_at': '2013-09-30T02:03:45Z', 'labels': []}
+{'issuenumber': 83, 'title': 'Python3 and SQLAlchemy: TypeError when connecting to mysql', 'state': 'closed', 'created_at': '2011-10-10T16:16:22Z', 'closed_at': '2013-09-21T17:02:19Z', 'labels': []}
+{'issuenumber': 82, 'title': "__iter__ from Cursor doesn't work as expected", 'state': 'closed', 'created_at': '2011-10-09T09:15:13Z', 'closed_at': '2013-09-30T16:51:20Z', 'labels': []}
+{'issuenumber': 81, 'title': "Can't pass queries which accept non %s format arguments", 'state': 'closed', 'created_at': '2011-10-02T00:13:50Z', 'closed_at': '2011-10-12T17:40:21Z', 'labels': []}
+{'issuenumber': 80, 'title': 'Ability to select database with function call', 'state': 'closed', 'created_at': '2011-09-13T17:28:38Z', 'closed_at': '2013-09-30T16:57:40Z', 'labels': {'name': 'Priority-Low'}}
+{'issuenumber': 79, 'title': 'Duplicate field overwrites the previous one in the result of DictCursor', 'state': 'closed', 'created_at': '2011-08-18T07:26:59Z', 'closed_at': '2013-09-30T18:10:51Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 78, 'title': 'TypeError in variable substitution ', 'state': 'closed', 'created_at': '2011-08-10T19:26:55Z', 'closed_at': '2011-08-10T23:35:08Z', 'labels': []}
+{'issuenumber': 77, 'title': 'MySQL - SSH Connection', 'state': 'closed', 'created_at': '2011-08-10T17:31:43Z', 'closed_at': '2015-08-02T07:13:07Z', 'labels': {'name': 'Priority-Low'}}
+{'issuenumber': 76, 'title': 'pymysql reads returning mysql query cache results', 'state': 'closed', 'created_at': '2011-08-05T21:18:21Z', 'closed_at': '2013-09-30T02:13:28Z', 'labels': []}
+{'issuenumber': 75, 'title': 'Python 3 byte literal in err.py', 'state': 'closed', 'created_at': '2011-07-29T04:49:09Z', 'closed_at': '2011-07-29T17:22:09Z', 'labels': []}
+{'issuenumber': 74, 'title': 'No write access to InnoDB tables', 'state': 'closed', 'created_at': '2011-07-27T20:55:04Z', 'closed_at': '2013-09-23T03:24:44Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 73, 'title': 'Insert failed when query and argument has unicode value', 'state': 'closed', 'created_at': '2011-07-27T20:54:59Z', 'closed_at': '2013-09-23T13:52:46Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 72, 'title': '[version 0.4]  __init__.py not exporting symbols properly', 'state': 'closed', 'created_at': '2011-07-27T20:54:53Z', 'closed_at': '2011-07-29T02:56:09Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 71, 'title': '[version 0.4]  __init__.py not exporting symbols properly', 'state': 'closed', 'created_at': '2011-07-27T20:54:48Z', 'closed_at': '2011-07-29T02:55:51Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 70, 'title': 'use pymysql to connect to drizzle raises a KeyError', 'state': 'closed', 'created_at': '2011-07-27T20:54:40Z', 'closed_at': '2013-10-01T06:21:22Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 69, 'title': 'Error getting a 24-bit inserted row id  ', 'state': 'closed', 'created_at': '2011-07-27T20:54:35Z', 'closed_at': '2013-09-29T14:49:35Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 68, 'title': 'DictCursor support', 'state': 'closed', 'created_at': '2011-07-27T20:54:30Z', 'closed_at': '2011-07-29T02:41:30Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 67, 'title': "pymysql.err.Error: (<class 'socket.error'>, error(10053,", 'state': 'closed', 'created_at': '2011-07-27T20:54:25Z', 'closed_at': '2013-09-25T07:30:46Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 66, 'title': "'Connection' object has no attribute 'insert_id'", 'state': 'closed', 'created_at': '2011-07-27T20:54:20Z', 'closed_at': '2011-07-29T18:59:03Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 65, 'title': 'on OSX it did install for python 2.6 but not for python 3.1', 'state': 'closed', 'created_at': '2011-07-27T20:54:15Z', 'closed_at': '2013-09-21T17:09:17Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 64, 'title': "AttributeError: 'bytes' object has no attribute 'encode'", 'state': 'closed', 'created_at': '2011-07-27T20:53:55Z', 'closed_at': '2013-10-26T07:05:05Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 63, 'title': 'executemany', 'state': 'closed', 'created_at': '2011-07-27T20:53:51Z', 'closed_at': '2013-09-30T16:30:17Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 62, 'title': 'pymysql does not support  "LOAD DATA LOCAL" ?', 'state': 'closed', 'created_at': '2011-07-27T20:53:40Z', 'closed_at': '2015-01-14T02:03:59Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 61, 'title': 'Exception when query contains Unicode data', 'state': 'closed', 'created_at': '2011-07-27T20:53:35Z', 'closed_at': '2013-09-30T16:32:26Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 60, 'title': 'Error trying to add data to a table', 'state': 'closed', 'created_at': '2011-07-27T20:53:29Z', 'closed_at': '2013-09-23T13:57:30Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 59, 'title': 'select statement hangs on socket call when the sql statement gets very long', 'state': 'closed', 'created_at': '2011-07-27T20:53:23Z', 'closed_at': '2013-09-30T02:14:34Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 58, 'title': 'connect raises warning when fails to connect', 'state': 'closed', 'created_at': '2011-07-27T20:53:18Z', 'closed_at': '2013-09-23T23:37:37Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 57, 'title': 'failed to install pymysql from pypi', 'state': 'closed', 'created_at': '2011-07-27T20:53:07Z', 'closed_at': '2011-07-29T03:05:13Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 56, 'title': 'fetchall() after executing INSERT command should return tuple(), but returns None', 'state': 'closed', 'created_at': '2011-07-27T20:52:34Z', 'closed_at': '2015-02-01T02:26:29Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 55, 'title': 'TypeError when raising OperationalError in _connect()', 'state': 'closed', 'created_at': '2011-07-27T20:52:26Z', 'closed_at': '2011-07-27T20:52:31Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 54, 'title': 'occasional broken pipe error', 'state': 'closed', 'created_at': '2011-07-27T20:52:21Z', 'closed_at': '2013-09-23T13:56:32Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 53, 'title': 'problem in web2py that seems caused by pymysql', 'state': 'closed', 'created_at': '2011-07-27T20:52:08Z', 'closed_at': '2011-07-29T03:04:44Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 52, 'title': 'Test has passed with MySQLdb, but not with pymysql', 'state': 'closed', 'created_at': '2011-07-27T20:52:02Z', 'closed_at': '2013-09-30T02:15:49Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 51, 'title': 'PyMySQL fails to send/receive binary data when the "charset" parameter is present', 'state': 'closed', 'created_at': '2011-07-27T20:51:49Z', 'closed_at': '2011-07-29T02:56:53Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 50, 'title': 'PyMySQL does not intepret unicode data the same as MySQLdb', 'state': 'closed', 'created_at': '2011-07-27T20:51:31Z', 'closed_at': '2011-07-29T03:04:08Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 49, 'title': 'MySQLdb compliance', 'state': 'closed', 'created_at': '2011-07-27T20:51:23Z', 'closed_at': '2011-07-27T20:51:27Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 48, 'title': '[PATCH] Fix regression in r', 'state': 'closed', 'created_at': '2011-07-27T20:51:04Z', 'closed_at': '2011-07-29T02:59:13Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 47, 'title': 'test_issue_33 fails on IronPython 2.6.2', 'state': 'closed', 'created_at': '2011-07-27T20:50:56Z', 'closed_at': '2013-10-17T23:34:45Z', 'labels': {'name': 'Priority-High'}}
+{'issuenumber': 46, 'title': '[PATCH] SQLAlchemy test suite compliance', 'state': 'closed', 'created_at': '2011-07-27T20:50:33Z', 'closed_at': '2011-07-27T20:50:51Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 45, 'title': 'CANT RETRIEVE TIMESTAMP', 'state': 'closed', 'created_at': '2011-07-27T20:50:22Z', 'closed_at': '2011-07-27T20:50:29Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 44, 'title': 'Please provide source package', 'state': 'closed', 'created_at': '2011-07-27T20:50:02Z', 'closed_at': '2011-07-29T02:58:50Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 43, 'title': 'blobs exceeding 16M raises exceptions', 'state': 'closed', 'created_at': '2011-07-27T20:49:50Z', 'closed_at': '2011-07-27T20:49:58Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 42, 'title': 'MySQL user-defined variables fail', 'state': 'closed', 'created_at': '2011-07-27T20:49:36Z', 'closed_at': '2011-07-27T20:49:46Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 41, 'title': 'support Connection.kill()', 'state': 'closed', 'created_at': '2011-07-27T20:49:28Z', 'closed_at': '2011-07-29T02:57:09Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 40, 'title': 'cursor.execute() loops indefinitely when connection unexpectedly lost', 'state': 'closed', 'created_at': '2011-07-27T20:49:17Z', 'closed_at': '2011-07-27T20:49:22Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 39, 'title': 'socket.error should be reraised as OperationalError', 'state': 'closed', 'created_at': '2011-07-27T20:49:01Z', 'closed_at': '2011-07-27T20:49:04Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 38, 'title': "pymysql.connect(..., charset='utf8') fails to set charset correctly", 'state': 'closed', 'created_at': '2011-07-27T20:48:52Z', 'closed_at': '2011-07-27T20:48:57Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 37, 'title': 'Connect( ) fails on server version 5.147', 'state': 'closed', 'created_at': '2011-07-27T20:48:42Z', 'closed_at': '2011-07-27T20:48:48Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 36, 'title': 'Code cleanup', 'state': 'closed', 'created_at': '2011-07-27T20:48:30Z', 'closed_at': '2011-07-27T20:48:38Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 35, 'title': 'no StringIO import ', 'state': 'closed', 'created_at': '2011-07-27T20:48:16Z', 'closed_at': '2011-07-27T20:48:23Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 34, 'title': 'nextset test case fails', 'state': 'closed', 'created_at': '2011-07-27T20:48:05Z', 'closed_at': '2011-07-27T20:48:13Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 33, 'title': 'named_pipe support', 'state': 'closed', 'created_at': '2011-07-27T20:47:52Z', 'closed_at': '2013-10-17T23:44:07Z', 'labels': {'name': 'Priority-Low'}}
+{'issuenumber': 31, 'title': 'Backport unicode features from Py3k branch', 'state': 'closed', 'created_at': '2011-07-27T20:47:13Z', 'closed_at': '2011-07-27T20:47:32Z', 'labels': {'name': 'Priority-Critical'}}
+{'issuenumber': 30, 'title': '"No database selected" on Jython', 'state': 'closed', 'created_at': '2011-07-27T20:47:04Z', 'closed_at': '2011-07-27T20:47:10Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 29, 'title': 'Pre-4.1 protocol support', 'state': 'closed', 'created_at': '2011-07-27T20:46:55Z', 'closed_at': '2014-01-03T01:48:37Z', 'labels': {'name': 'Priority-Low'}}
+{'issuenumber': 28, 'title': 'Comprehensive test suite', 'state': 'closed', 'created_at': '2011-07-27T20:46:39Z', 'closed_at': '2011-07-27T20:46:52Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 27, 'title': 'Documentation', 'state': 'closed', 'created_at': '2011-07-27T20:46:29Z', 'closed_at': '2011-07-27T20:46:36Z', 'labels': {'name': 'Priority-Low'}}
+{'issuenumber': 26, 'title': 'CPython 2.3 support', 'state': 'closed', 'created_at': '2011-07-27T20:46:17Z', 'closed_at': '2011-07-27T20:46:25Z', 'labels': {'name': 'Priority-Low'}}
+{'issuenumber': 25, 'title': 'PyPy support', 'state': 'closed', 'created_at': '2011-07-27T20:46:06Z', 'closed_at': '2011-07-27T20:46:13Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 24, 'title': 'IronPython Support', 'state': 'closed', 'created_at': '2011-07-27T20:45:55Z', 'closed_at': '2011-07-27T20:46:02Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 23, 'title': 'Python 3 support', 'state': 'closed', 'created_at': '2011-07-27T20:45:39Z', 'closed_at': '2011-07-27T20:45:51Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 22, 'title': 'Old-style MySQL passwords', 'state': 'closed', 'created_at': '2011-07-27T20:44:58Z', 'closed_at': '2011-07-29T02:57:53Z', 'labels': {'name': 'Priority-High'}}
+{'issuenumber': 21, 'title': 'Patch for string and tuple escaping', 'state': 'closed', 'created_at': '2011-07-27T20:44:51Z', 'closed_at': '2011-07-27T20:44:54Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 20, 'title': 'query should be expanded before perform character encoding', 'state': 'closed', 'created_at': '2011-07-27T20:44:43Z', 'closed_at': '2011-07-27T20:44:47Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 19, 'title': 'typo in converters.py', 'state': 'closed', 'created_at': '2011-07-27T20:44:36Z', 'closed_at': '2011-07-27T20:44:40Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 18, 'title': "can't handle large result fields", 'state': 'closed', 'created_at': '2011-07-27T20:44:29Z', 'closed_at': '2011-07-27T20:44:33Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 17, 'title': 'Django support', 'state': 'closed', 'created_at': '2011-07-27T20:44:08Z', 'closed_at': '2011-07-27T20:44:26Z', 'labels': {'name': 'Priority-High'}}
+{'issuenumber': 16, 'title': "packet header wasn't fully received.", 'state': 'closed', 'created_at': '2011-07-27T20:43:53Z', 'closed_at': '2011-07-27T20:44:05Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 15, 'title': 'Allocate a variable to return when the exception handler is permissive', 'state': 'closed', 'created_at': '2011-07-27T20:43:46Z', 'closed_at': '2011-07-27T20:43:49Z', 'labels': {'name': 'Priority-Medium'}}
+{'issuenumber': 14, 'title': 'sets DeprecationWarning in Python 2.6', 'state': 'closed', 'created_at': '2011-07-27T20:43:38Z', 'closed_at': '2011-07-27T20:43:42Z', 'labels': {'name': 'Priority-Medium'}}

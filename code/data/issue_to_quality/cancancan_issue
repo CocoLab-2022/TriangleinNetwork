@@ -1,0 +1,334 @@
+{'issuenumber': 782, 'title': ':destroy ability seems to misbehave', 'state': 'closed', 'created_at': '2022-04-03T07:56:02Z', 'closed_at': '2022-04-06T14:02:34Z', 'labels': []}
+{'issuenumber': 770, 'title': '[BUG] Application crashes on Ruby 3', 'state': 'closed', 'created_at': '2022-02-16T09:41:20Z', 'closed_at': '2022-06-23T12:01:10Z', 'labels': []}
+{'issuenumber': 742, 'title': 'ActiveRecord still used', 'state': 'closed', 'created_at': '2021-10-13T07:43:01Z', 'closed_at': '2022-06-23T12:29:22Z', 'labels': []}
+{'issuenumber': 734, 'title': 'Upgrade from 2.x to 3.x Guide', 'state': 'closed', 'created_at': '2021-08-31T18:33:29Z', 'closed_at': '2021-08-31T19:33:54Z', 'labels': []}
+{'issuenumber': 732, 'title': 'Cancancan Wiki is gone', 'state': 'closed', 'created_at': '2021-08-21T02:07:11Z', 'closed_at': '2021-08-22T11:58:54Z', 'labels': []}
+{'issuenumber': 716, 'title': 'Slowness with cancancan 3.2+', 'state': 'closed', 'created_at': '2021-06-25T12:47:49Z', 'closed_at': '2022-06-23T12:11:47Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 715, 'title': 'Version 3.2.2', 'state': 'closed', 'created_at': '2021-06-16T13:07:33Z', 'closed_at': '2021-06-17T05:56:03Z', 'labels': []}
+{'issuenumber': 710, 'title': 'Dynamically modify hash can ability', 'state': 'closed', 'created_at': '2021-05-06T17:13:08Z', 'closed_at': '2022-06-23T12:28:31Z', 'labels': []}
+{'issuenumber': 700, 'title': 'Handling soft-deletes', 'state': 'closed', 'created_at': '2021-03-23T11:10:28Z', 'closed_at': '2021-08-22T15:40:04Z', 'labels': []}
+{'issuenumber': 683, 'title': 'This model adapter does not support fetching records from the database', 'state': 'closed', 'created_at': '2020-12-31T09:45:19Z', 'closed_at': '2021-01-05T17:59:18Z', 'labels': []}
+{'issuenumber': 681, 'title': 'Checking with Class vs an instance - question not an issue.', 'state': 'closed', 'created_at': '2020-12-25T23:27:18Z', 'closed_at': '2021-03-03T18:19:01Z', 'labels': []}
+{'issuenumber': 680, 'title': 'This is a breaking change for mongoid based rails apps', 'state': 'closed', 'created_at': '2020-12-25T11:20:38Z', 'closed_at': '2020-12-28T14:36:53Z', 'labels': []}
+{'issuenumber': 677, 'title': 'STI support in 3.2.0 is a breaking change', 'state': 'closed', 'created_at': '2020-12-18T01:01:44Z', 'closed_at': '2022-06-23T12:32:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 676, 'title': "NoMethodError: undefined method `descends_from_active_record?' for :foo:Symbol", 'state': 'closed', 'created_at': '2020-12-15T08:57:07Z', 'closed_at': '2020-12-29T10:38:41Z', 'labels': []}
+{'issuenumber': 672, 'title': 'CanCanCan 3.2 requires ActiveRecord in ability alternative_subjects', 'state': 'closed', 'created_at': '2020-12-13T11:48:45Z', 'closed_at': '2020-12-18T06:06:40Z', 'labels': []}
+{'issuenumber': 671, 'title': 'CanCanCan 3.2 requires ActiveRecord adapter', 'state': 'closed', 'created_at': '2020-12-13T11:41:53Z', 'closed_at': '2020-12-14T20:50:08Z', 'labels': []}
+{'issuenumber': 666, 'title': "Error on Rails 6.1.0.rc2: undefined method `resolve_column_aliases' for #<ActiveRecord::PredicateBuilder:0x000055e74c4bfb70>", 'state': 'closed', 'created_at': '2020-12-08T17:53:00Z', 'closed_at': '2020-12-13T10:09:46Z', 'labels': []}
+{'issuenumber': 659, 'title': 'Use of subject.subclasses in #alternative_subjects problematic in big projects', 'state': 'closed', 'created_at': '2020-11-05T16:36:14Z', 'closed_at': '2020-11-09T19:14:15Z', 'labels': {'name': 'regression'}}
+{'issuenumber': 652, 'title': 'accessible_by broken on rails master branch', 'state': 'closed', 'created_at': '2020-09-10T02:25:33Z', 'closed_at': '2020-12-12T17:40:54Z', 'labels': []}
+{'issuenumber': 638, 'title': 'What is the best way to get all the users from a user table who can access a particular Model or model object?', 'state': 'closed', 'created_at': '2020-06-05T08:19:25Z', 'closed_at': '2020-07-12T16:38:07Z', 'labels': []}
+{'issuenumber': 637, 'title': 'Version 3.1.0 not created on github but is on rubygems', 'state': 'closed', 'created_at': '2020-06-04T15:11:12Z', 'closed_at': '2020-07-12T16:37:26Z', 'labels': []}
+{'issuenumber': 633, 'title': 'Rule Serialization is only serializing first condition ', 'state': 'closed', 'created_at': '2020-05-02T22:53:15Z', 'closed_at': '2020-05-02T22:58:57Z', 'labels': []}
+{'issuenumber': 632, 'title': 'Typo in the Wiki', 'state': 'closed', 'created_at': '2020-04-30T13:37:24Z', 'closed_at': '2020-11-09T19:49:36Z', 'labels': []}
+{'issuenumber': 631, 'title': 'Array(subject) calling #to_a or #to_ary and issuing big queries', 'state': 'closed', 'created_at': '2020-04-16T16:34:27Z', 'closed_at': '2020-12-13T10:12:56Z', 'labels': []}
+{'issuenumber': 623, 'title': "Attribute-level 'can?' method returns true on partial string match of attributes", 'state': 'closed', 'created_at': '2020-03-16T11:14:45Z', 'closed_at': '2020-03-16T12:23:56Z', 'labels': []}
+{'issuenumber': 622, 'title': 'Anyone have load_and_authorize_resource working through a has_one association?', 'state': 'closed', 'created_at': '2020-03-14T20:32:46Z', 'closed_at': '2020-03-14T20:33:03Z', 'labels': []}
+{'issuenumber': 617, 'title': 'Checking Abilities - Checking with Class - THIS IS REALLY REALLY WRONG!', 'state': 'closed', 'created_at': '2020-02-20T10:02:04Z', 'closed_at': '2020-03-06T16:15:30Z', 'labels': []}
+{'issuenumber': 616, 'title': 'how to use Abilities in Database', 'state': 'closed', 'created_at': '2020-02-10T22:19:49Z', 'closed_at': '2020-03-06T16:16:49Z', 'labels': []}
+{'issuenumber': 615, 'title': 'Q: List of all possible permissions?', 'state': 'closed', 'created_at': '2020-01-21T23:05:30Z', 'closed_at': '2020-03-06T16:17:33Z', 'labels': []}
+{'issuenumber': 611, 'title': 'Slug / FriendlyID + load_and_authorize_resource', 'state': 'closed', 'created_at': '2019-12-25T14:17:05Z', 'closed_at': '2020-03-06T16:17:58Z', 'labels': []}
+{'issuenumber': 609, 'title': 'Getting error after updating from cancan to cancancan and rails 3.2 to rails 4.0.13', 'state': 'closed', 'created_at': '2019-12-09T06:53:42Z', 'closed_at': '2020-03-06T16:18:24Z', 'labels': []}
+{'issuenumber': 607, 'title': 'Please Change Privileges for editing wiki pages', 'state': 'closed', 'created_at': '2019-12-02T00:48:10Z', 'closed_at': '2020-03-06T16:21:08Z', 'labels': []}
+{'issuenumber': 601, 'title': 'use before_action instead of before_filter in wiki', 'state': 'closed', 'created_at': '2019-09-24T05:48:16Z', 'closed_at': '2020-03-06T16:26:29Z', 'labels': []}
+{'issuenumber': 598, 'title': 'CanCan::ControllerAdditions not being included when using ActionController::API controllers', 'state': 'closed', 'created_at': '2019-08-08T11:58:54Z', 'closed_at': '2019-08-20T19:45:12Z', 'labels': []}
+{'issuenumber': 596, 'title': 'accessible_by with hash of conditions causes Not unique table/alias', 'state': 'closed', 'created_at': '2019-07-23T13:19:18Z', 'closed_at': '2020-03-15T18:52:10Z', 'labels': {'name': 'with gist'}}
+{'issuenumber': 595, 'title': 'Class vs instance permissions incorrect', 'state': 'closed', 'created_at': '2019-07-03T10:21:56Z', 'closed_at': '2019-08-06T10:11:03Z', 'labels': []}
+{'issuenumber': 589, 'title': "Rule's inspect method fails when the rule is created through a SQL array", 'state': 'closed', 'created_at': '2019-05-15T17:34:13Z', 'closed_at': '2019-08-23T06:51:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 588, 'title': 'Polymorphic conditions in abilities no longer work as of 3.0.0', 'state': 'closed', 'created_at': '2019-04-25T08:58:17Z', 'closed_at': '2019-08-22T20:45:04Z', 'labels': []}
+{'issuenumber': 587, 'title': 'Easier attribute-level authorization with ActiveSupport::CurrentAttributes', 'state': 'closed', 'created_at': '2019-04-19T14:26:13Z', 'closed_at': '2019-09-05T18:24:54Z', 'labels': []}
+{'issuenumber': 585, 'title': 'Apply accessible_by to all controller actions unless overrideen', 'state': 'closed', 'created_at': '2019-04-16T14:08:54Z', 'closed_at': '2019-04-16T16:24:35Z', 'labels': []}
+{'issuenumber': 584, 'title': 'Regression in 3.0.0: ArgumentError using symbol-to-proc', 'state': 'closed', 'created_at': '2019-04-15T19:59:46Z', 'closed_at': '2019-04-15T20:21:38Z', 'labels': []}
+{'issuenumber': 582, 'title': 'Method reference error', 'state': 'closed', 'created_at': '2019-04-11T11:11:20Z', 'closed_at': '2019-04-15T20:19:37Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 574, 'title': 'Include conditions in permissions?', 'state': 'closed', 'created_at': '2019-03-14T20:41:37Z', 'closed_at': '2019-03-21T19:44:50Z', 'labels': {'name': 'waiting for feedback'}}
+{'issuenumber': 572, 'title': 'defining ability for HABTM ', 'state': 'closed', 'created_at': '2019-03-08T11:07:36Z', 'closed_at': '2019-03-23T08:06:17Z', 'labels': []}
+{'issuenumber': 570, 'title': 'Strange behaviour from accessible_by', 'state': 'closed', 'created_at': '2019-02-26T19:07:42Z', 'closed_at': '2020-03-15T17:43:21Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 563, 'title': 'Before_action @key set to random numeric (object_id)?', 'state': 'closed', 'created_at': '2019-01-29T17:13:08Z', 'closed_at': '2019-02-08T21:02:22Z', 'labels': {'name': 'need help'}}
+{'issuenumber': 562, 'title': 'Wiki: Update how best practices work for hash conditions', 'state': 'closed', 'created_at': '2019-01-28T21:31:39Z', 'closed_at': '2019-02-01T18:45:08Z', 'labels': []}
+{'issuenumber': 556, 'title': '6.0.0.beta1', 'state': 'closed', 'created_at': '2019-01-19T18:25:14Z', 'closed_at': '2019-02-22T13:13:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 555, 'title': 'User with two roles', 'state': 'closed', 'created_at': '2019-01-15T19:47:33Z', 'closed_at': '2019-01-16T07:34:31Z', 'labels': []}
+{'issuenumber': 552, 'title': 'Unnecessary & slow query executed when using scope as condition', 'state': 'closed', 'created_at': '2019-01-07T10:07:18Z', 'closed_at': '2020-03-15T17:41:13Z', 'labels': {'name': 'waiting for feedback'}}
+{'issuenumber': 551, 'title': 'Add support for new_params', 'state': 'closed', 'created_at': '2018-12-15T16:43:18Z', 'closed_at': '2019-01-02T09:44:37Z', 'labels': []}
+{'issuenumber': 550, 'title': 'Hash of ids not working as expected', 'state': 'closed', 'created_at': '2018-12-05T09:28:58Z', 'closed_at': '2018-12-05T09:40:46Z', 'labels': []}
+{'issuenumber': 549, 'title': 'Add link to cancan-inherited_resources on wiki page', 'state': 'closed', 'created_at': '2018-12-04T19:10:56Z', 'closed_at': '2019-01-02T10:52:52Z', 'labels': []}
+{'issuenumber': 547, 'title': 'I can no longer cache current_ability in memcached (work with  CanCan 1.4 )', 'state': 'closed', 'created_at': '2018-11-22T14:53:50Z', 'closed_at': '2020-03-15T17:40:45Z', 'labels': {'name': 'waiting for feedback'}}
+{'issuenumber': 546, 'title': 'wiki update: Ability in Database Example is out-of-date with Rails 4.x +', 'state': 'closed', 'created_at': '2018-11-20T18:16:58Z', 'closed_at': '2019-02-21T18:41:54Z', 'labels': []}
+{'issuenumber': 545, 'title': "protected method `authorize!' called", 'state': 'closed', 'created_at': '2018-11-12T19:21:19Z', 'closed_at': '2019-02-21T18:44:49Z', 'labels': []}
+{'issuenumber': 544, 'title': 'Nil error on creating a record through a scoped relationship using just `:manage`', 'state': 'closed', 'created_at': '2018-11-05T15:36:57Z', 'closed_at': '2018-11-05T17:44:35Z', 'labels': []}
+{'issuenumber': 542, 'title': 'Typo on Defining Abilities page', 'state': 'closed', 'created_at': '2018-10-26T14:54:21Z', 'closed_at': '2018-10-27T06:19:18Z', 'labels': []}
+{'issuenumber': 532, 'title': 'Using STI with cancan', 'state': 'closed', 'created_at': '2018-09-14T17:43:14Z', 'closed_at': '2020-12-13T10:14:32Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 531, 'title': 'Not getting nested resource loaded on :index', 'state': 'closed', 'created_at': '2018-09-08T19:20:59Z', 'closed_at': '2018-10-03T14:16:32Z', 'labels': []}
+{'issuenumber': 527, 'title': 'Combining abilities with boolean en bigint conditions give error in Postgresql', 'state': 'closed', 'created_at': '2018-08-27T09:45:10Z', 'closed_at': '2018-08-28T09:25:27Z', 'labels': []}
+{'issuenumber': 526, 'title': "load_resource doesn't find nested resource when association is polymorphic ", 'state': 'closed', 'created_at': '2018-08-18T06:54:10Z', 'closed_at': '2018-08-18T14:30:39Z', 'labels': []}
+{'issuenumber': 524, 'title': 'How to use rspec for ability model so that only authorised user can be able to edit and delete the post', 'state': 'closed', 'created_at': '2018-08-16T12:20:39Z', 'closed_at': '2018-08-31T12:45:25Z', 'labels': []}
+{'issuenumber': 523, 'title': 'Abilities incorrectly applied with multiple associations to the same model', 'state': 'closed', 'created_at': '2018-08-15T17:35:55Z', 'closed_at': '2018-09-02T14:40:53Z', 'labels': []}
+{'issuenumber': 522, 'title': 'Accessible_by breaks select with aliases', 'state': 'closed', 'created_at': '2018-08-15T16:14:11Z', 'closed_at': '2019-02-01T18:30:24Z', 'labels': []}
+{'issuenumber': 521, 'title': 'Column selection ignored when using accessible_by', 'state': 'closed', 'created_at': '2018-08-15T13:18:00Z', 'closed_at': '2020-03-15T18:53:06Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 520, 'title': 'CanCanCan throwing ActiveModel::UnknownAttributeError setting non existing attribute', 'state': 'closed', 'created_at': '2018-07-26T18:58:21Z', 'closed_at': '2018-07-26T19:12:56Z', 'labels': []}
+{'issuenumber': 517, 'title': 'Ability#merge should change binding', 'state': 'closed', 'created_at': '2018-07-09T09:10:40Z', 'closed_at': '2020-01-18T07:49:35Z', 'labels': {'name': 'need help'}}
+{'issuenumber': 511, 'title': 'Using Scopes in Ability results in hundreds of queries', 'state': 'closed', 'created_at': '2018-06-14T19:21:00Z', 'closed_at': '2019-02-21T18:37:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 509, 'title': 'New video on cancancan for screencast link update', 'state': 'closed', 'created_at': '2018-06-12T01:27:53Z', 'closed_at': '2018-07-08T09:37:49Z', 'labels': []}
+{'issuenumber': 507, 'title': 'can :update and can :edit is not the same', 'state': 'closed', 'created_at': '2018-06-01T17:30:36Z', 'closed_at': '2018-06-04T07:06:34Z', 'labels': []}
+{'issuenumber': 506, 'title': 'CanCanCan alias method for a controller', 'state': 'closed', 'created_at': '2018-05-25T13:20:12Z', 'closed_at': '2018-05-25T13:24:21Z', 'labels': []}
+{'issuenumber': 505, 'title': 'Negated matcher of "be_able_to" has unexpected behavior', 'state': 'closed', 'created_at': '2018-05-08T15:40:28Z', 'closed_at': '2018-07-08T09:45:24Z', 'labels': []}
+{'issuenumber': 504, 'title': 'LoadError with namespaces', 'state': 'closed', 'created_at': '2018-05-03T09:20:04Z', 'closed_at': '2020-03-06T16:26:54Z', 'labels': {'name': 'gist needed'}}
+{'issuenumber': 502, 'title': 'Bad singularize version of controller : uninitialized constant', 'state': 'closed', 'created_at': '2018-04-25T19:16:53Z', 'closed_at': '2018-04-30T08:08:46Z', 'labels': []}
+{'issuenumber': 501, 'title': '`can?` gives me weird return and is it intended?', 'state': 'closed', 'created_at': '2018-04-20T03:36:05Z', 'closed_at': '2018-04-20T10:32:56Z', 'labels': []}
+{'issuenumber': 500, 'title': 'skip_load_and_authorize_resource behaves abnormally', 'state': 'closed', 'created_at': '2018-04-18T11:56:42Z', 'closed_at': '2020-03-06T16:25:31Z', 'labels': {'name': 'gist needed'}}
+{'issuenumber': 499, 'title': 'load_and_authorize_resource not honouring :class', 'state': 'closed', 'created_at': '2018-04-18T06:59:16Z', 'closed_at': '2020-01-18T07:40:58Z', 'labels': {'name': 'waiting for feedback'}}
+{'issuenumber': 498, 'title': 'Any way to use ActiveRecord `where` as conditions?', 'state': 'closed', 'created_at': '2018-04-18T06:40:57Z', 'closed_at': '2018-04-30T08:17:03Z', 'labels': []}
+{'issuenumber': 497, 'title': 'Add details on traversing associations to Wiki', 'state': 'closed', 'created_at': '2018-04-16T08:21:06Z', 'closed_at': '2019-02-21T11:56:36Z', 'labels': []}
+{'issuenumber': 494, 'title': 'CanCanCan breaks JBuilder on Rails 5', 'state': 'closed', 'created_at': '2018-04-12T10:38:56Z', 'closed_at': '2018-04-15T15:58:49Z', 'labels': []}
+{'issuenumber': 492, 'title': 'How to trigger before_action manually?', 'state': 'closed', 'created_at': '2018-03-21T17:18:19Z', 'closed_at': '2018-04-09T08:17:45Z', 'labels': []}
+{'issuenumber': 488, 'title': 'params_method never called', 'state': 'closed', 'created_at': '2018-03-09T09:17:55Z', 'closed_at': '2018-04-09T08:24:50Z', 'labels': []}
+{'issuenumber': 487, 'title': 'CanCan AccessDenied not getting raised in Rspec', 'state': 'closed', 'created_at': '2018-03-07T03:39:43Z', 'closed_at': '2018-03-07T05:35:42Z', 'labels': []}
+{'issuenumber': 486, 'title': 'unauthorized_message does not correctly localize namespaced models', 'state': 'closed', 'created_at': '2018-03-02T06:12:38Z', 'closed_at': '2019-02-21T11:52:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 485, 'title': 'Ability precedence regression upgrading from 1.17.0 to 2.1.3', 'state': 'closed', 'created_at': '2018-02-22T01:38:34Z', 'closed_at': '2018-03-12T18:27:45Z', 'labels': []}
+{'issuenumber': 484, 'title': 'Rails 5 support for ActionController::Base and ActionController::API', 'state': 'closed', 'created_at': '2018-02-20T13:35:25Z', 'closed_at': '2018-04-09T08:17:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 483, 'title': 'accessible_by with :manage "all"', 'state': 'closed', 'created_at': '2018-02-15T00:17:52Z', 'closed_at': '2018-03-12T18:23:13Z', 'labels': []}
+{'issuenumber': 481, 'title': 'Multiple definitions on same model broken after upgrading to Rails 5.2', 'state': 'closed', 'created_at': '2018-02-07T00:01:37Z', 'closed_at': '2018-03-12T18:19:43Z', 'labels': []}
+{'issuenumber': 480, 'title': 'Feature Request: resource_base hook (for load resource from an association instead of bare model)', 'state': 'closed', 'created_at': '2018-01-31T23:06:12Z', 'closed_at': '2018-02-08T21:09:16Z', 'labels': []}
+{'issuenumber': 478, 'title': 'accessible_by bug after upgrading to rails 5.2', 'state': 'closed', 'created_at': '2018-01-26T20:41:12Z', 'closed_at': '2018-09-02T14:54:11Z', 'labels': {'name': 'next minor release'}}
+{'issuenumber': 473, 'title': 'CaCanCan or abilities', 'state': 'closed', 'created_at': '2017-12-13T22:34:59Z', 'closed_at': '2017-12-13T22:42:57Z', 'labels': []}
+{'issuenumber': 472, 'title': 'Initial attributes rewrite loaded parent relation', 'state': 'closed', 'created_at': '2017-12-12T06:57:42Z', 'closed_at': '2020-01-17T15:24:02Z', 'labels': {'name': 'with gist'}}
+{'issuenumber': 470, 'title': 'ActiveAdmin and CanCanCan :create authorization', 'state': 'closed', 'created_at': '2017-12-11T16:22:48Z', 'closed_at': '2018-03-12T18:05:57Z', 'labels': []}
+{'issuenumber': 469, 'title': 'After adding gem 2.1.2 to Gemfile, Rails API jBuilder response is not returned', 'state': 'closed', 'created_at': '2017-11-24T13:55:51Z', 'closed_at': '2018-01-16T08:38:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 468, 'title': 'CanCan::Ability#merge copies only rules', 'state': 'closed', 'created_at': '2017-11-24T13:32:23Z', 'closed_at': '2019-01-26T10:48:24Z', 'labels': {'name': 'question'}}
+{'issuenumber': 458, 'title': 'can dashboard is not working', 'state': 'closed', 'created_at': '2017-11-20T14:43:19Z', 'closed_at': '2017-11-20T16:02:47Z', 'labels': []}
+{'issuenumber': 456, 'title': "Doesn't raise exception if resource is not found", 'state': 'closed', 'created_at': '2017-11-20T05:50:34Z', 'closed_at': '2017-11-23T03:04:01Z', 'labels': {'name': 'regression'}}
+{'issuenumber': 453, 'title': 'cancancan 2.1.0 ignores params of new action', 'state': 'closed', 'created_at': '2017-11-13T07:24:05Z', 'closed_at': '2017-11-13T08:36:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 450, 'title': 'After Upgrading From cancan 1.6.10 To cancancan 2.0.0 Three Tests Failing', 'state': 'closed', 'created_at': '2017-11-06T20:50:50Z', 'closed_at': '2017-11-13T08:30:03Z', 'labels': []}
+{'issuenumber': 446, 'title': 'Rails API release', 'state': 'closed', 'created_at': '2017-10-13T09:57:03Z', 'closed_at': '2017-11-10T13:26:58Z', 'labels': {'name': 'next minor release'}}
+{'issuenumber': 445, 'title': 'Rails 5.1.4 and cancancan Unpermitted parameters on update', 'state': 'closed', 'created_at': '2017-09-29T06:04:46Z', 'closed_at': '2017-11-10T13:27:31Z', 'labels': []}
+{'issuenumber': 442, 'title': '`can?(:read)` always returns false when using query in ability', 'state': 'closed', 'created_at': '2017-09-17T12:33:21Z', 'closed_at': '2017-11-13T08:32:57Z', 'labels': []}
+{'issuenumber': 440, 'title': 'Unable to restrict ID of resource against an attribute of user', 'state': 'closed', 'created_at': '2017-09-07T21:54:51Z', 'closed_at': '2017-09-10T02:52:48Z', 'labels': []}
+{'issuenumber': 438, 'title': 'after accessible_by includes treated as joins', 'state': 'closed', 'created_at': '2017-08-24T03:01:31Z', 'closed_at': '2019-01-26T11:24:42Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 437, 'title': 'NotFound during load_and_authorize should raise AccessDenied', 'state': 'closed', 'created_at': '2017-08-21T22:52:49Z', 'closed_at': '2019-02-21T11:47:43Z', 'labels': {'name': 'question'}}
+{'issuenumber': 435, 'title': 'Using #load_resource with "inherited_resources" gem and "has_scope" gem doesn\'t #apply_scopes automatically since CanCanCan version 2.0', 'state': 'closed', 'created_at': '2017-08-16T04:48:00Z', 'closed_at': '2017-08-16T08:15:49Z', 'labels': []}
+{'issuenumber': 434, 'title': 'Document Nested Resources : through_association option in the wiki', 'state': 'closed', 'created_at': '2017-08-02T23:03:44Z', 'closed_at': '2017-11-13T07:27:22Z', 'labels': []}
+{'issuenumber': 432, 'title': "WIKI error Page 'Role Based Authorization'", 'state': 'closed', 'created_at': '2017-07-19T13:42:36Z', 'closed_at': '2018-04-09T08:25:57Z', 'labels': {'name': 'waiting for feedback'}}
+{'issuenumber': 430, 'title': 'Ability with conditions array behaving strangely for single objects', 'state': 'closed', 'created_at': '2017-07-07T15:58:07Z', 'closed_at': '2017-07-07T17:26:00Z', 'labels': {'name': 'need help'}}
+{'issuenumber': 429, 'title': 'CanCanCan, JWT, RSpec failure', 'state': 'closed', 'created_at': '2017-07-05T21:08:38Z', 'closed_at': '2017-07-07T16:30:05Z', 'labels': []}
+{'issuenumber': 428, 'title': "rails g cancan:ability throws 'Could not find generator cancan:ability'", 'state': 'closed', 'created_at': '2017-06-30T19:25:20Z', 'closed_at': '2017-07-04T20:10:49Z', 'labels': {'name': 'need help'}}
+{'issuenumber': 425, 'title': 'can :read  NOT equals can [:index,:show] !', 'state': 'closed', 'created_at': '2017-06-25T08:19:39Z', 'closed_at': '2017-07-04T07:26:25Z', 'labels': []}
+{'issuenumber': 424, 'title': 'Cancancan fails to compile SQL using `Model.accessible_by` on Rails 5.1 (arel 8.0)', 'state': 'closed', 'created_at': '2017-06-19T10:13:52Z', 'closed_at': '2017-07-04T07:36:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 422, 'title': '`find_by` accepting a `Proc/Lambda`?', 'state': 'closed', 'created_at': '2017-06-15T09:21:08Z', 'closed_at': '2017-07-14T15:06:55Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 420, 'title': 'Define Permissions on Specific Resource Attributes', 'state': 'closed', 'created_at': '2017-06-07T09:22:28Z', 'closed_at': '2019-02-01T18:36:03Z', 'labels': {'name': 'next major release'}}
+{'issuenumber': 415, 'title': 'I18n::ArgumentError with i18n v0.8.2+', 'state': 'closed', 'created_at': '2017-05-30T23:51:56Z', 'closed_at': '2017-11-10T10:56:57Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 414, 'title': 'Cannot view records when running an Rspec feature', 'state': 'closed', 'created_at': '2017-05-30T20:33:16Z', 'closed_at': '2017-05-30T20:57:58Z', 'labels': []}
+{'issuenumber': 413, 'title': 'Change in rules behaviour affects RailsAdmin root actions', 'state': 'closed', 'created_at': '2017-05-26T19:07:12Z', 'closed_at': '2017-07-14T15:04:00Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 412, 'title': 'Old RDoc link in Wiki', 'state': 'closed', 'created_at': '2017-05-10T00:44:44Z', 'closed_at': '2017-05-18T07:18:34Z', 'labels': []}
+{'issuenumber': 410, 'title': 'Wrong SQL for multiple abilities', 'state': 'closed', 'created_at': '2017-05-07T06:03:43Z', 'closed_at': '2017-05-29T06:53:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 408, 'title': 'empty string in Rails 5 parameters will cause load_resource to raise error', 'state': 'closed', 'created_at': '2017-05-05T00:52:14Z', 'closed_at': '2017-05-18T07:20:00Z', 'labels': []}
+{'issuenumber': 405, 'title': 'cancancan breaks spring + rspec on rails 3.2.x', 'state': 'closed', 'created_at': '2017-04-29T20:40:53Z', 'closed_at': '2018-08-31T12:47:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 404, 'title': 'strange unauthorized errors.', 'state': 'closed', 'created_at': '2017-04-12T15:38:53Z', 'closed_at': '2017-04-12T16:20:02Z', 'labels': []}
+{'issuenumber': 401, 'title': 'Checking abilities with Class', 'state': 'closed', 'created_at': '2017-04-06T03:30:13Z', 'closed_at': '2017-04-06T07:06:07Z', 'labels': []}
+{'issuenumber': 400, 'title': 'Query based on user role', 'state': 'closed', 'created_at': '2017-03-11T16:57:20Z', 'closed_at': '2017-03-27T13:26:10Z', 'labels': []}
+{'issuenumber': 399, 'title': 'Association autosave triggered by adding new model to collection', 'state': 'closed', 'created_at': '2017-02-28T09:51:43Z', 'closed_at': '2018-09-16T14:51:17Z', 'labels': {'name': 'need help'}}
+{'issuenumber': 392, 'title': 'Production - Eager Load', 'state': 'closed', 'created_at': '2017-01-27T16:48:56Z', 'closed_at': '2017-01-27T16:52:38Z', 'labels': []}
+{'issuenumber': 391, 'title': 'skip_authorize_resource not inheritable', 'state': 'closed', 'created_at': '2017-01-25T16:35:03Z', 'closed_at': '2018-03-12T18:26:16Z', 'labels': {'name': 'need help'}}
+{'issuenumber': 390, 'title': 'Check if current resource is protected or not', 'state': 'closed', 'created_at': '2017-01-25T16:03:19Z', 'closed_at': '2017-07-14T15:09:22Z', 'labels': []}
+{'issuenumber': 389, 'title': 'Bug in ActiveRecord adapter not rejecting empty conditions', 'state': 'closed', 'created_at': '2017-01-25T16:00:40Z', 'closed_at': '2018-06-22T12:16:21Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 384, 'title': 'several issues with Ability#possible_relevant_rules with empty Ability', 'state': 'closed', 'created_at': '2017-01-11T16:19:29Z', 'closed_at': '2017-05-02T09:17:10Z', 'labels': []}
+{'issuenumber': 383, 'title': 'Small typo in Defining Abilities wiki page', 'state': 'closed', 'created_at': '2017-01-10T17:34:39Z', 'closed_at': '2017-01-17T07:07:51Z', 'labels': []}
+{'issuenumber': 382, 'title': "Why 'load_resource' uses 'accessible_by' to 'load_collection'?", 'state': 'closed', 'created_at': '2017-01-10T14:53:06Z', 'closed_at': '2017-01-17T07:08:12Z', 'labels': []}
+{'issuenumber': 372, 'title': 'Subject array checking', 'state': 'closed', 'created_at': '2016-12-15T05:07:51Z', 'closed_at': '2017-01-13T20:30:29Z', 'labels': {'name': 'question'}}
+{'issuenumber': 365, 'title': 'Authorization in nested resource based on parent in index method', 'state': 'closed', 'created_at': '2016-11-24T13:50:22Z', 'closed_at': '2016-12-11T12:20:18Z', 'labels': []}
+{'issuenumber': 362, 'title': "CanCan/matchers doesn't work when multiple permissions are checked at the same time", 'state': 'closed', 'created_at': '2016-11-15T15:49:37Z', 'closed_at': '2018-03-12T18:10:11Z', 'labels': []}
+{'issuenumber': 361, 'title': 'CanCan check_authorization not throwing AccessDenied Exception for Non RESTful Controller', 'state': 'closed', 'created_at': '2016-11-11T09:50:22Z', 'closed_at': '2017-01-17T07:09:02Z', 'labels': []}
+{'issuenumber': 359, 'title': ' Problem with user management rule in ability.rb', 'state': 'closed', 'created_at': '2016-11-07T21:51:17Z', 'closed_at': '2016-12-11T13:12:55Z', 'labels': []}
+{'issuenumber': 358, 'title': 'How to prevent Ensure Authorize from blowing up when resource list is empty?', 'state': 'closed', 'created_at': '2016-11-01T22:29:37Z', 'closed_at': '2018-04-09T08:26:20Z', 'labels': []}
+{'issuenumber': 357, 'title': 'Eager loading nested children', 'state': 'closed', 'created_at': '2016-10-31T03:01:33Z', 'closed_at': '2016-12-11T12:22:13Z', 'labels': []}
+{'issuenumber': 356, 'title': 'Confusing about abilities in DB', 'state': 'closed', 'created_at': '2016-10-28T10:14:00Z', 'closed_at': '2016-12-11T13:13:10Z', 'labels': []}
+{'issuenumber': 355, 'title': 'Query with ids hash not working', 'state': 'closed', 'created_at': '2016-10-25T09:16:04Z', 'closed_at': '2016-12-11T13:14:19Z', 'labels': {'name': 'question'}}
+{'issuenumber': 353, 'title': 'ForbiddenAttributesError, on Create of namespaced models with Strong Params', 'state': 'closed', 'created_at': '2016-10-10T07:32:47Z', 'closed_at': '2017-11-23T09:22:36Z', 'labels': []}
+{'issuenumber': 352, 'title': 'Use Cancancan with Multiple Ability files for different models', 'state': 'closed', 'created_at': '2016-10-04T18:08:27Z', 'closed_at': '2017-03-14T19:17:39Z', 'labels': []}
+{'issuenumber': 351, 'title': 'Ability with Mongoid Criteria sets attribute value incorrectly on create', 'state': 'closed', 'created_at': '2016-09-27T13:49:24Z', 'closed_at': '2018-09-16T14:50:25Z', 'labels': []}
+{'issuenumber': 349, 'title': 'Cancan ability block like this is not working ?', 'state': 'closed', 'created_at': '2016-09-06T06:17:24Z', 'closed_at': '2017-07-14T15:08:22Z', 'labels': []}
+{'issuenumber': 348, 'title': 'has_block errors', 'state': 'closed', 'created_at': '2016-08-30T09:45:28Z', 'closed_at': '2017-11-23T09:19:54Z', 'labels': []}
+{'issuenumber': 347, 'title': 'How to include a message on why the action is not authorized?', 'state': 'closed', 'created_at': '2016-08-19T11:32:07Z', 'closed_at': '2016-10-14T07:36:55Z', 'labels': {'name': 'question'}}
+{'issuenumber': 346, 'title': 'Inconsistencies b/w accessible_by and can?', 'state': 'closed', 'created_at': '2016-08-19T05:18:15Z', 'closed_at': '2016-12-11T13:22:36Z', 'labels': []}
+{'issuenumber': 345, 'title': 'Hash of conditions has unexpected results', 'state': 'closed', 'created_at': '2016-08-16T18:01:24Z', 'closed_at': '2016-08-19T04:43:12Z', 'labels': []}
+{'issuenumber': 343, 'title': "Gem 'cancancan' is not available in SDK 'ruby-2.0.0-p596'", 'state': 'closed', 'created_at': '2016-08-15T13:40:59Z', 'closed_at': '2017-05-18T07:21:16Z', 'labels': []}
+{'issuenumber': 342, 'title': 'Cancancan breaks belongs_to_required_by_default in Rails 5', 'state': 'closed', 'created_at': '2016-08-11T15:54:52Z', 'closed_at': '2017-04-06T06:46:02Z', 'labels': []}
+{'issuenumber': 341, 'title': 'Upgrade from cancan to cancancan not working', 'state': 'closed', 'created_at': '2016-08-09T12:48:04Z', 'closed_at': '2016-08-09T14:53:28Z', 'labels': []}
+{'issuenumber': 339, 'title': 'Will `check_authorization` work if authorization is done somewhere else?', 'state': 'closed', 'created_at': '2016-07-31T15:19:32Z', 'closed_at': '2016-08-07T07:52:23Z', 'labels': []}
+{'issuenumber': 338, 'title': 'Defining can :id => user.id on a custom controller action allows access to other users', 'state': 'closed', 'created_at': '2016-07-28T12:35:04Z', 'closed_at': '2018-03-12T18:08:39Z', 'labels': []}
+{'issuenumber': 337, 'title': 'accessible_by not returning the correct results when multiple rules are present', 'state': 'closed', 'created_at': '2016-07-27T23:31:02Z', 'closed_at': '2018-09-16T14:25:42Z', 'labels': []}
+{'issuenumber': 335, 'title': 'Describing abilities for AdminUser and User models', 'state': 'closed', 'created_at': '2016-07-26T19:18:45Z', 'closed_at': '2016-08-07T07:55:47Z', 'labels': []}
+{'issuenumber': 334, 'title': 'How can I manipulate abilities for Devise?', 'state': 'closed', 'created_at': '2016-07-25T04:45:21Z', 'closed_at': '2016-07-26T18:06:37Z', 'labels': []}
+{'issuenumber': 332, 'title': 'Drop support for Rails < 4.2', 'state': 'closed', 'created_at': '2016-07-05T11:06:46Z', 'closed_at': '2016-07-11T13:53:29Z', 'labels': []}
+{'issuenumber': 331, 'title': 'Get inaccessible ids?', 'state': 'closed', 'created_at': '2016-06-26T18:07:02Z', 'closed_at': '2016-08-07T07:59:55Z', 'labels': []}
+{'issuenumber': 329, 'title': 'Delete the notation  for the Rails version 2.3', 'state': 'closed', 'created_at': '2016-06-11T08:02:39Z', 'closed_at': '2016-08-07T08:02:53Z', 'labels': []}
+{'issuenumber': 328, 'title': 'N+1 query when repeating can? method', 'state': 'closed', 'created_at': '2016-05-26T22:18:16Z', 'closed_at': '2016-05-27T07:32:21Z', 'labels': []}
+{'issuenumber': 327, 'title': 'Strange behavior checking permission in view', 'state': 'closed', 'created_at': '2016-05-19T19:02:28Z', 'closed_at': '2016-05-19T23:16:27Z', 'labels': []}
+{'issuenumber': 325, 'title': 'Remove dead IRC link in the readme', 'state': 'closed', 'created_at': '2016-05-15T21:44:06Z', 'closed_at': '2016-06-22T21:33:29Z', 'labels': []}
+{'issuenumber': 324, 'title': 'Hash of conditions not working', 'state': 'closed', 'created_at': '2016-05-12T11:33:15Z', 'closed_at': '2018-09-16T14:27:47Z', 'labels': []}
+{'issuenumber': 323, 'title': '#member_action? fails when the member is fetched by subdomain', 'state': 'closed', 'created_at': '2016-05-10T19:01:04Z', 'closed_at': '2016-08-07T08:01:12Z', 'labels': []}
+{'issuenumber': 322, 'title': 'Limit access to associations?', 'state': 'closed', 'created_at': '2016-05-09T09:49:12Z', 'closed_at': '2016-08-07T08:04:53Z', 'labels': []}
+{'issuenumber': 321, 'title': 'can on model with conditions gives can to model itself', 'state': 'closed', 'created_at': '2016-05-06T13:39:17Z', 'closed_at': '2016-05-11T17:58:49Z', 'labels': []}
+{'issuenumber': 318, 'title': 'Problem when checking permission on object', 'state': 'closed', 'created_at': '2016-04-21T09:53:49Z', 'closed_at': '2016-08-07T08:08:55Z', 'labels': []}
+{'issuenumber': 317, 'title': 'Controller asks current_ability if it has been authorized', 'state': 'closed', 'created_at': '2016-04-18T08:24:40Z', 'closed_at': '2016-04-18T18:35:58Z', 'labels': []}
+{'issuenumber': 313, 'title': 'Unnecessary checks', 'state': 'closed', 'created_at': '2016-04-12T17:22:03Z', 'closed_at': '2016-04-14T18:12:10Z', 'labels': []}
+{'issuenumber': 312, 'title': 'load_and_authorize_resource with locale params', 'state': 'closed', 'created_at': '2016-04-07T15:05:26Z', 'closed_at': '2016-04-11T21:13:33Z', 'labels': []}
+{'issuenumber': 311, 'title': 'DoubleRenderError when trying to rescue Authorization errors in Rails 5', 'state': 'closed', 'created_at': '2016-04-06T12:16:44Z', 'closed_at': '2016-08-07T08:09:09Z', 'labels': []}
+{'issuenumber': 310, 'title': 'Can not add ability attribute to original Ability via engine ', 'state': 'closed', 'created_at': '2016-04-05T14:00:17Z', 'closed_at': '2018-09-16T14:47:11Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 309, 'title': 'Block code in ability throws CanCan::AccessDenied', 'state': 'closed', 'created_at': '2016-04-01T04:25:20Z', 'closed_at': '2016-04-01T07:34:48Z', 'labels': {'name': 'question'}}
+{'issuenumber': 307, 'title': 'Replacing Cancan Model Adapters', 'state': 'closed', 'created_at': '2016-03-27T01:57:46Z', 'closed_at': '2017-11-23T09:19:27Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 306, 'title': 'Issue with OR and complex query', 'state': 'closed', 'created_at': '2016-03-25T21:03:11Z', 'closed_at': '2017-05-31T08:07:02Z', 'labels': []}
+{'issuenumber': 305, 'title': 'Raising exceptions in custom ability method breaks can? and cannot? methods', 'state': 'closed', 'created_at': '2016-03-25T15:14:58Z', 'closed_at': '2016-03-28T19:07:13Z', 'labels': []}
+{'issuenumber': 304, 'title': 'Add error class method-pattern', 'state': 'closed', 'created_at': '2016-03-23T14:45:18Z', 'closed_at': '2016-08-07T08:18:18Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 303, 'title': 'load_and_authorize_resource does not enforce authorization', 'state': 'closed', 'created_at': '2016-03-23T12:11:11Z', 'closed_at': '2016-04-01T07:35:56Z', 'labels': {'name': 'question'}}
+{'issuenumber': 301, 'title': 'accessible_by requires an Ability. Why?', 'state': 'closed', 'created_at': '2016-03-01T21:55:03Z', 'closed_at': '2016-03-01T22:17:05Z', 'labels': []}
+{'issuenumber': 300, 'title': "RSpec: be_able_to doesn't handle array properly", 'state': 'closed', 'created_at': '2016-02-23T04:10:05Z', 'closed_at': '2016-02-26T19:06:54Z', 'labels': []}
+{'issuenumber': 299, 'title': 'Other resources than User?', 'state': 'closed', 'created_at': '2016-02-19T13:28:55Z', 'closed_at': '2016-02-19T18:14:19Z', 'labels': []}
+{'issuenumber': 298, 'title': 'Can manage all overriding following rules', 'state': 'closed', 'created_at': '2016-02-08T16:16:17Z', 'closed_at': '2017-03-27T13:28:39Z', 'labels': []}
+{'issuenumber': 297, 'title': 'Move RSpec matchers in their own module', 'state': 'closed', 'created_at': '2016-02-08T10:01:00Z', 'closed_at': '2016-12-11T12:23:42Z', 'labels': []}
+{'issuenumber': 295, 'title': 'load_and_authorize_resource :through always filter for the parent despite having shallow:true', 'state': 'closed', 'created_at': '2016-02-01T15:58:07Z', 'closed_at': '2016-04-06T07:12:32Z', 'labels': []}
+{'issuenumber': 294, 'title': 'can :read is not loading in index', 'state': 'closed', 'created_at': '2016-02-01T01:09:14Z', 'closed_at': '2016-02-06T22:41:04Z', 'labels': []}
+{'issuenumber': 293, 'title': 'Exception Access Denied', 'state': 'closed', 'created_at': '2016-01-30T22:43:11Z', 'closed_at': '2016-03-28T19:03:02Z', 'labels': []}
+{'issuenumber': 291, 'title': 'Why would multiple merge calls behave non-deterministically?', 'state': 'closed', 'created_at': '2016-01-27T16:52:48Z', 'closed_at': '2016-01-27T22:07:24Z', 'labels': []}
+{'issuenumber': 290, 'title': 'Rule with polymorphic relationship fails', 'state': 'closed', 'created_at': '2016-01-20T17:39:55Z', 'closed_at': '2018-09-16T14:45:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 288, 'title': 'Deep nested controllers', 'state': 'closed', 'created_at': '2016-01-10T15:34:25Z', 'closed_at': '2016-08-07T08:22:56Z', 'labels': []}
+{'issuenumber': 287, 'title': 'using can? in controller test works in some cases by not in others', 'state': 'closed', 'created_at': '2016-01-08T21:00:49Z', 'closed_at': '2016-01-15T13:51:28Z', 'labels': []}
+{'issuenumber': 286, 'title': 'Rails 5 Support', 'state': 'closed', 'created_at': '2016-01-05T01:17:48Z', 'closed_at': '2016-08-07T08:02:34Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 285, 'title': 'CanCanCan Create?', 'state': 'closed', 'created_at': '2015-12-31T23:07:13Z', 'closed_at': '2016-08-07T08:23:58Z', 'labels': []}
+{'issuenumber': 284, 'title': 'Table aliases not are used in WHERE clause', 'state': 'closed', 'created_at': '2015-12-30T10:39:13Z', 'closed_at': '2017-03-27T13:30:06Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 283, 'title': 'Warning deprecation with rails 5', 'state': 'closed', 'created_at': '2015-12-29T09:56:49Z', 'closed_at': '2016-08-07T08:25:49Z', 'labels': []}
+{'issuenumber': 280, 'title': "Merge doesn't add aliased actions", 'state': 'closed', 'created_at': '2015-12-21T14:48:04Z', 'closed_at': '2018-09-16T14:44:32Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 278, 'title': 'Problem load_instance? returning true even when :class option is set to false', 'state': 'closed', 'created_at': '2015-11-23T11:34:17Z', 'closed_at': '2015-11-23T18:18:26Z', 'labels': []}
+{'issuenumber': 277, 'title': 'can? ignores conditions when the subject is a class', 'state': 'closed', 'created_at': '2015-11-20T23:10:38Z', 'closed_at': '2015-11-20T23:53:50Z', 'labels': []}
+{'issuenumber': 268, 'title': 'Should I use 1.13.1 or 2.0?', 'state': 'closed', 'created_at': '2015-10-30T15:44:29Z', 'closed_at': '2015-10-30T23:01:41Z', 'labels': []}
+{'issuenumber': 267, 'title': 'Ability check on submitted parameters', 'state': 'closed', 'created_at': '2015-10-29T18:39:12Z', 'closed_at': '2015-10-29T22:53:41Z', 'labels': {'name': 'question'}}
+{'issuenumber': 264, 'title': 'Index action is not aliasing to read. ', 'state': 'closed', 'created_at': '2015-10-21T16:47:00Z', 'closed_at': '2015-10-22T16:56:21Z', 'labels': []}
+{'issuenumber': 261, 'title': 'Inconsistency with checking and defining abilities using the array syntax.', 'state': 'closed', 'created_at': '2015-10-15T20:12:01Z', 'closed_at': '2017-11-22T13:31:59Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 259, 'title': 'Restricting ability based on current user. ', 'state': 'closed', 'created_at': '2015-10-13T17:39:51Z', 'closed_at': '2015-10-13T19:11:12Z', 'labels': []}
+{'issuenumber': 256, 'title': 'check_authorization with multiple authorize! calls', 'state': 'closed', 'created_at': '2015-10-08T16:01:11Z', 'closed_at': '2016-01-27T12:08:10Z', 'labels': []}
+{'issuenumber': 255, 'title': 'Possible regression with draper when updating from 1.12', 'state': 'closed', 'created_at': '2015-10-08T11:46:51Z', 'closed_at': '2016-05-11T19:22:34Z', 'labels': []}
+{'issuenumber': 254, 'title': "Rails 4+ API 'CanCan' not found", 'state': 'closed', 'created_at': '2015-10-01T11:41:58Z', 'closed_at': '2016-08-07T08:29:31Z', 'labels': []}
+{'issuenumber': 253, 'title': 'can? with nested resource and multiple rules fails with hashrocket syntax', 'state': 'closed', 'created_at': '2015-09-24T21:42:52Z', 'closed_at': '2016-08-07T08:31:13Z', 'labels': []}
+{'issuenumber': 252, 'title': 'ActiveModel::ForbiddenAttributesError', 'state': 'closed', 'created_at': '2015-09-24T16:34:35Z', 'closed_at': '2015-09-24T18:13:11Z', 'labels': []}
+{'issuenumber': 250, 'title': 'RSpec 3 Compatilbity', 'state': 'closed', 'created_at': '2015-09-23T13:38:18Z', 'closed_at': '2015-11-20T14:41:20Z', 'labels': []}
+{'issuenumber': 249, 'title': 'Multiple relations as conditions are merged wrong', 'state': 'closed', 'created_at': '2015-09-11T10:16:08Z', 'closed_at': '2018-06-22T12:12:04Z', 'labels': []}
+{'issuenumber': 248, 'title': 'Nested resource authorization fails with mongoid', 'state': 'closed', 'created_at': '2015-09-02T15:00:26Z', 'closed_at': '2016-08-07T08:32:02Z', 'labels': []}
+{'issuenumber': 247, 'title': 'how to automatically included gem module into all controllers.', 'state': 'closed', 'created_at': '2015-09-01T10:14:46Z', 'closed_at': '2015-09-10T02:45:15Z', 'labels': []}
+{'issuenumber': 243, 'title': 'Join for nested hashes', 'state': 'closed', 'created_at': '2015-08-19T08:17:32Z', 'closed_at': '2016-08-07T08:32:16Z', 'labels': []}
+{'issuenumber': 240, 'title': 'cancancan not work when can :action, :subject', 'state': 'closed', 'created_at': '2015-08-17T01:12:26Z', 'closed_at': '2015-11-24T06:41:52Z', 'labels': {'name': 'question'}}
+{'issuenumber': 237, 'title': 'using cancancan in active admin using rails 4.2.1', 'state': 'closed', 'created_at': '2015-08-09T19:09:34Z', 'closed_at': '2016-08-07T08:33:42Z', 'labels': []}
+{'issuenumber': 236, 'title': 'Using with single page apps/javascript frameworks', 'state': 'closed', 'created_at': '2015-08-06T00:22:38Z', 'closed_at': '2015-10-27T16:30:24Z', 'labels': []}
+{'issuenumber': 235, 'title': 'Can class defined for authorizing action be accessed to be used for Internationalization?', 'state': 'closed', 'created_at': '2015-07-28T01:29:25Z', 'closed_at': '2015-10-27T16:28:35Z', 'labels': {'name': 'question'}}
+{'issuenumber': 232, 'title': 'Can edit be authorized based on role ability changed runtime ', 'state': 'closed', 'created_at': '2015-07-14T00:33:42Z', 'closed_at': '2015-07-16T20:25:42Z', 'labels': []}
+{'issuenumber': 231, 'title': 'cannot apply load_and_authorize_resource to controller using some other model', 'state': 'closed', 'created_at': '2015-07-13T21:36:01Z', 'closed_at': '2015-07-14T00:10:13Z', 'labels': []}
+{'issuenumber': 229, 'title': "CanCan defines the method 'merge' on nil", 'state': 'closed', 'created_at': '2015-07-11T00:34:28Z', 'closed_at': '2015-07-12T00:51:34Z', 'labels': []}
+{'issuenumber': 228, 'title': 'Eager loading on member resource', 'state': 'closed', 'created_at': '2015-07-06T03:34:20Z', 'closed_at': '2016-08-07T08:34:18Z', 'labels': []}
+{'issuenumber': 226, 'title': 'unauthorized! method not present in cancancan', 'state': 'closed', 'created_at': '2015-07-01T00:37:48Z', 'closed_at': '2015-07-03T12:50:27Z', 'labels': []}
+{'issuenumber': 224, 'title': 'Is this logic intended? Is there a better way to do this?', 'state': 'closed', 'created_at': '2015-06-26T18:29:38Z', 'closed_at': '2015-06-29T05:15:54Z', 'labels': []}
+{'issuenumber': 223, 'title': 'Cannot Access Nested Attribute Using Block', 'state': 'closed', 'created_at': '2015-06-26T14:55:17Z', 'closed_at': '2017-11-13T08:34:31Z', 'labels': []}
+{'issuenumber': 222, 'title': 'load_and_authorize_resource fails with module scope', 'state': 'closed', 'created_at': '2015-06-23T21:33:57Z', 'closed_at': '2015-06-24T23:30:30Z', 'labels': []}
+{'issuenumber': 220, 'title': 'Issue with rule precedence when using blocks', 'state': 'closed', 'created_at': '2015-06-19T18:34:13Z', 'closed_at': '2015-06-19T20:28:08Z', 'labels': []}
+{'issuenumber': 219, 'title': 'cancan slowing down page loads', 'state': 'closed', 'created_at': '2015-06-18T14:43:15Z', 'closed_at': '2015-06-18T16:11:39Z', 'labels': []}
+{'issuenumber': 218, 'title': 'Wiki - respond_to instead of explicit redirect', 'state': 'closed', 'created_at': '2015-06-17T14:25:06Z', 'closed_at': '2015-06-26T06:55:28Z', 'labels': []}
+{'issuenumber': 217, 'title': "undefined method `authorize!' for #<UsersController:0x007f925afb1ed8>", 'state': 'closed', 'created_at': '2015-06-16T06:33:08Z', 'closed_at': '2015-08-22T19:46:45Z', 'labels': []}
+{'issuenumber': 214, 'title': '"Cannot" with association hash conditions : accessible_by generates incorrect SQL (Postgres / ActiveRecord)', 'state': 'closed', 'created_at': '2015-06-12T10:16:55Z', 'closed_at': '2018-06-22T12:10:26Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 213, 'title': 'Devise wiki update', 'state': 'closed', 'created_at': '2015-06-05T09:08:08Z', 'closed_at': '2015-06-29T05:29:32Z', 'labels': {'name': 'question'}}
+{'issuenumber': 212, 'title': "Update action doesn't get sanitized", 'state': 'closed', 'created_at': '2015-06-03T16:04:55Z', 'closed_at': '2015-06-29T05:29:51Z', 'labels': {'name': 'question'}}
+{'issuenumber': 211, 'title': 'How cancancan works with authlogic gem in rails4', 'state': 'closed', 'created_at': '2015-05-29T09:00:28Z', 'closed_at': '2015-06-29T05:32:23Z', 'labels': {'name': 'question'}}
+{'issuenumber': 210, 'title': 'Serialize permissions', 'state': 'closed', 'created_at': '2015-05-28T20:43:28Z', 'closed_at': '2015-06-13T06:39:22Z', 'labels': {'name': 'question'}}
+{'issuenumber': 209, 'title': 'New Maintainer Needed!', 'state': 'closed', 'created_at': '2015-05-26T17:24:29Z', 'closed_at': '2015-06-16T08:21:13Z', 'labels': {'name': 'need help'}}
+{'issuenumber': 207, 'title': "How does CanCan's nested resources handle update and destroy?", 'state': 'closed', 'created_at': '2015-05-20T18:59:07Z', 'closed_at': '2015-10-27T16:26:38Z', 'labels': {'name': 'question'}}
+{'issuenumber': 203, 'title': 'Feature: accessible_by with includes vs joins (ActiveRecord 4+)', 'state': 'closed', 'created_at': '2015-04-29T13:20:52Z', 'closed_at': '2015-06-16T07:21:54Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 202, 'title': 'Add Custom Message option to can_definition', 'state': 'closed', 'created_at': '2015-04-27T19:19:31Z', 'closed_at': '2015-10-08T04:13:37Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 201, 'title': 'Routes params with :class_id and :id', 'state': 'closed', 'created_at': '2015-04-26T19:27:22Z', 'closed_at': '2015-04-29T16:56:40Z', 'labels': []}
+{'issuenumber': 200, 'title': '"can :create, Model do" broken?', 'state': 'closed', 'created_at': '2015-04-25T08:44:58Z', 'closed_at': '2015-07-12T03:47:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 198, 'title': 'Rescue AccessDenied in ApplicationController with automatic redirect to controllers index', 'state': 'closed', 'created_at': '2015-04-19T08:00:36Z', 'closed_at': '2015-04-20T13:11:27Z', 'labels': []}
+{'issuenumber': 197, 'title': 'load_and_authorize_resource with inherited controller ', 'state': 'closed', 'created_at': '2015-04-17T08:20:56Z', 'closed_at': '2015-06-29T05:43:00Z', 'labels': []}
+{'issuenumber': 195, 'title': 'List of things user can?', 'state': 'closed', 'created_at': '2015-03-31T07:39:18Z', 'closed_at': '2015-06-13T03:52:31Z', 'labels': {'name': 'question'}}
+{'issuenumber': 194, 'title': 'Add default load_resource :through behaviour', 'state': 'closed', 'created_at': '2015-03-17T22:19:03Z', 'closed_at': '2015-03-27T16:41:59Z', 'labels': []}
+{'issuenumber': 193, 'title': '"load_and_authorize_resource" throwing ActiveRecord::RecordNotFound for inexistent resource and its "find_by" option doesn\'t seem helpful either', 'state': 'closed', 'created_at': '2015-03-17T21:29:20Z', 'closed_at': '2017-11-22T13:30:05Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 191, 'title': "What's the best way to write a negative condition?", 'state': 'closed', 'created_at': '2015-03-15T22:01:30Z', 'closed_at': '2015-03-16T13:47:35Z', 'labels': []}
+{'issuenumber': 189, 'title': "authentication doesn't work with nested namespaces", 'state': 'closed', 'created_at': '2015-03-05T15:21:57Z', 'closed_at': '2015-03-28T04:23:09Z', 'labels': []}
+{'issuenumber': 188, 'title': 'eager loading on nested resource', 'state': 'closed', 'created_at': '2015-03-05T08:05:39Z', 'closed_at': '2015-03-27T17:07:51Z', 'labels': []}
+{'issuenumber': 187, 'title': 'select query on accessible_by(ability, :read).select(:id) call giving object instead of column detail', 'state': 'closed', 'created_at': '2015-03-04T10:28:25Z', 'closed_at': '2015-03-04T17:07:46Z', 'labels': []}
+{'issuenumber': 185, 'title': 'Error on scoped controller', 'state': 'closed', 'created_at': '2015-03-01T20:21:56Z', 'closed_at': '2015-03-01T21:39:50Z', 'labels': []}
+{'issuenumber': 183, 'title': 'is cancancan a direct replacement for cancan?', 'state': 'closed', 'created_at': '2015-02-20T14:45:03Z', 'closed_at': '2015-02-20T14:54:07Z', 'labels': []}
+{'issuenumber': 182, 'title': "AbstractAdapter.find raises exception when id doesn't exist on ActiveRecord object", 'state': 'closed', 'created_at': '2015-02-20T08:34:12Z', 'closed_at': '2015-03-27T17:22:02Z', 'labels': []}
+{'issuenumber': 177, 'title': 'Rule#matches_conditions_hash: return used in enumerable.all? block', 'state': 'closed', 'created_at': '2015-02-03T19:45:45Z', 'closed_at': '2015-11-17T04:50:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 176, 'title': 'specific columns?', 'state': 'closed', 'created_at': '2015-02-01T15:45:24Z', 'closed_at': '2015-02-16T14:25:32Z', 'labels': []}
+{'issuenumber': 175, 'title': 'Defining a combined complex ability rule', 'state': 'closed', 'created_at': '2015-01-29T07:25:04Z', 'closed_at': '2015-03-27T17:25:01Z', 'labels': []}
+{'issuenumber': 174, 'title': 'Cannot use Hash as a resource', 'state': 'closed', 'created_at': '2015-01-28T04:51:09Z', 'closed_at': '2015-06-29T05:26:24Z', 'labels': {'name': 'question'}}
+{'issuenumber': 172, 'title': 'Include extra args in AccessDenied exceptions', 'state': 'closed', 'created_at': '2015-01-27T16:12:09Z', 'closed_at': '2018-03-12T18:21:38Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 169, 'title': 'List current_user abilities', 'state': 'closed', 'created_at': '2015-01-17T04:50:10Z', 'closed_at': '2015-06-13T03:53:40Z', 'labels': []}
+{'issuenumber': 166, 'title': 'Specification of rule semantics?', 'state': 'closed', 'created_at': '2015-01-12T14:52:34Z', 'closed_at': '2015-06-29T05:47:08Z', 'labels': {'name': 'question'}}
+{'issuenumber': 165, 'title': 'Accessible by scope problem when having model for ability also in hash conditions', 'state': 'closed', 'created_at': '2015-01-12T09:07:32Z', 'closed_at': '2018-05-17T18:30:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 164, 'title': 'ActiveRecord named scope support', 'state': 'closed', 'created_at': '2015-01-11T01:28:00Z', 'closed_at': '2015-03-27T17:32:19Z', 'labels': []}
+{'issuenumber': 163, 'title': "Postgres 'ProtocolViolation' error with overlapping abilities", 'state': 'closed', 'created_at': '2015-01-09T08:24:48Z', 'closed_at': '2015-01-13T22:08:44Z', 'labels': []}
+{'issuenumber': 157, 'title': 'spec_helper requires additional activesupport components for development?', 'state': 'closed', 'created_at': '2014-12-30T10:44:14Z', 'closed_at': '2015-01-07T20:48:56Z', 'labels': []}
+{'issuenumber': 156, 'title': "[Mongoid] The condition-hash in a rule gets wrapped in a 'OR' when used in accessible_by", 'state': 'closed', 'created_at': '2014-12-25T08:55:59Z', 'closed_at': '2015-06-13T06:28:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 154, 'title': 'CanCanCan throws a regular Rails error on an exception rather than a flash message like I specified', 'state': 'closed', 'created_at': '2014-12-17T21:35:23Z', 'closed_at': '2014-12-17T21:58:35Z', 'labels': []}
+{'issuenumber': 152, 'title': 'Deprecated sanitize_sql', 'state': 'closed', 'created_at': '2014-12-12T11:48:47Z', 'closed_at': '2015-01-07T17:34:39Z', 'labels': []}
+{'issuenumber': 151, 'title': 'Problem using cancancan in engine', 'state': 'closed', 'created_at': '2014-12-11T10:10:22Z', 'closed_at': '2015-01-13T22:13:00Z', 'labels': []}
+{'issuenumber': 146, 'title': 'load_and_authorize_resource fails with 2 level modules', 'state': 'closed', 'created_at': '2014-11-25T16:35:51Z', 'closed_at': '2014-12-02T08:45:38Z', 'labels': []}
+{'issuenumber': 144, 'title': 'Ability not applying correctly', 'state': 'closed', 'created_at': '2014-11-25T10:32:21Z', 'closed_at': '2014-11-25T10:59:09Z', 'labels': []}
+{'issuenumber': 143, 'title': "Shouldn't cancancan also manage strong parameters?", 'state': 'closed', 'created_at': '2014-11-21T09:42:51Z', 'closed_at': '2015-10-27T16:27:08Z', 'labels': {'name': 'question'}}
+{'issuenumber': 141, 'title': 'Calling accessible_by fails with ambiguous-column SQL errors', 'state': 'closed', 'created_at': '2014-11-13T01:30:53Z', 'closed_at': '2014-11-15T17:34:31Z', 'labels': []}
+{'issuenumber': 140, 'title': 'Shallow routes not working', 'state': 'closed', 'created_at': '2014-11-10T21:48:40Z', 'closed_at': '2014-11-14T09:01:47Z', 'labels': []}
+{'issuenumber': 139, 'title': "load_and_authorize_resource doesn't assign attributes for update action", 'state': 'closed', 'created_at': '2014-11-04T03:04:47Z', 'closed_at': '2015-02-25T18:58:04Z', 'labels': []}
+{'issuenumber': 138, 'title': 'blocking access to index', 'state': 'closed', 'created_at': '2014-10-31T05:43:39Z', 'closed_at': '2014-10-31T08:45:02Z', 'labels': []}
+{'issuenumber': 136, 'title': 'Change param_name to sanitizer', 'state': 'closed', 'created_at': '2014-10-23T15:02:04Z', 'closed_at': '2015-06-13T04:44:57Z', 'labels': []}
+{'issuenumber': 131, 'title': 'how to use can? in application layout file', 'state': 'closed', 'created_at': '2014-10-08T11:09:38Z', 'closed_at': '2014-10-13T09:36:18Z', 'labels': []}
+{'issuenumber': 129, 'title': 'load_and_authorize_resource causing issue in create action', 'state': 'closed', 'created_at': '2014-10-03T15:50:38Z', 'closed_at': '2014-10-13T09:35:07Z', 'labels': []}
+{'issuenumber': 128, 'title': 'cannot? and can? behaves differently when using block', 'state': 'closed', 'created_at': '2014-10-02T15:10:50Z', 'closed_at': '2014-10-14T12:20:17Z', 'labels': []}
+{'issuenumber': 126, 'title': 'Cannot test shallow nested controllers', 'state': 'closed', 'created_at': '2014-09-29T08:29:36Z', 'closed_at': '2015-01-07T18:57:14Z', 'labels': []}
+{'issuenumber': 125, 'title': 'When controller occurs before application controller', 'state': 'closed', 'created_at': '2014-09-29T04:07:44Z', 'closed_at': '2017-05-18T10:04:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 124, 'title': 'how to skip authorization of namespace module named "Monologue"', 'state': 'closed', 'created_at': '2014-09-28T11:14:38Z', 'closed_at': '2014-10-13T09:42:45Z', 'labels': []}
+{'issuenumber': 123, 'title': 'Different redirects', 'state': 'closed', 'created_at': '2014-09-24T15:35:34Z', 'closed_at': '2014-09-25T18:22:26Z', 'labels': []}
+{'issuenumber': 122, 'title': "Doesn't load_resource on index only with combination of can & cannot block", 'state': 'closed', 'created_at': '2014-09-10T03:08:57Z', 'closed_at': '2015-01-07T18:57:50Z', 'labels': []}
+{'issuenumber': 121, 'title': 'Ability not showing expected behaviour', 'state': 'closed', 'created_at': '2014-09-08T11:28:00Z', 'closed_at': '2014-10-13T10:03:45Z', 'labels': []}
+{'issuenumber': 119, 'title': 'Context based abilities [discussion prior to PR]', 'state': 'closed', 'created_at': '2014-09-03T11:52:10Z', 'closed_at': '2015-06-13T04:37:20Z', 'labels': []}
+{'issuenumber': 118, 'title': 'ActiveModel::ForbiddenAttributesError in MessagesController#create', 'state': 'closed', 'created_at': '2014-08-31T22:37:39Z', 'closed_at': '2014-09-01T00:13:31Z', 'labels': []}
+{'issuenumber': 117, 'title': "Upgraded Rails app needs @AntonTrapp's before_filter fix to get Strong Parameters to work", 'state': 'closed', 'created_at': '2014-08-29T18:00:56Z', 'closed_at': '2014-08-30T07:03:52Z', 'labels': []}
+{'issuenumber': 115, 'title': 'Provide a custom authorization action on parent resources', 'state': 'closed', 'created_at': '2014-08-28T14:51:03Z', 'closed_at': '2015-06-16T04:54:39Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 114, 'title': 'Cancan rolify : Define abilty on resource depending on role', 'state': 'closed', 'created_at': '2014-08-21T12:03:11Z', 'closed_at': '2014-09-03T15:31:33Z', 'labels': []}
+{'issuenumber': 113, 'title': 'Defining ability to update resource attribute with block', 'state': 'closed', 'created_at': '2014-08-21T09:22:40Z', 'closed_at': '2014-09-03T15:24:07Z', 'labels': []}
+{'issuenumber': 112, 'title': 'Problems Testing CanCanCan with RSpec and custom matcher', 'state': 'closed', 'created_at': '2014-08-10T22:05:44Z', 'closed_at': '2014-08-11T07:34:43Z', 'labels': []}
+{'issuenumber': 111, 'title': 'Getting Status Code 500 on Access Denied', 'state': 'closed', 'created_at': '2014-08-08T18:21:36Z', 'closed_at': '2014-08-11T09:10:55Z', 'labels': []}
+{'issuenumber': 109, 'title': 'Mislabelled Documentation', 'state': 'closed', 'created_at': '2014-08-07T14:18:50Z', 'closed_at': '2014-08-07T16:29:38Z', 'labels': []}
+{'issuenumber': 108, 'title': 'attributes_for not giving the full hash of conditions', 'state': 'closed', 'created_at': '2014-08-04T09:14:42Z', 'closed_at': '2017-05-31T08:18:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 107, 'title': "Support models within modules' class name autoderivation", 'state': 'closed', 'created_at': '2014-07-31T14:39:42Z', 'closed_at': '2014-08-08T10:28:35Z', 'labels': []}
+{'issuenumber': 106, 'title': 'FriendlyId support (again)', 'state': 'closed', 'created_at': '2014-07-31T12:19:05Z', 'closed_at': '2014-10-15T12:37:44Z', 'labels': []}
+{'issuenumber': 105, 'title': 'Feature request: add if: and unless: to hash options', 'state': 'closed', 'created_at': '2014-07-30T17:56:12Z', 'closed_at': '2014-10-13T10:10:18Z', 'labels': []}
+{'issuenumber': 104, 'title': 'Design PDF and front end URL', 'state': 'closed', 'created_at': '2014-07-30T17:06:24Z', 'closed_at': '2014-08-01T09:53:03Z', 'labels': []}
+{'issuenumber': 103, 'title': 'Suggestion: Singularize and symbolize arguments before ability checking', 'state': 'closed', 'created_at': '2014-07-25T03:55:21Z', 'closed_at': '2014-10-13T09:56:40Z', 'labels': []}
+{'issuenumber': 102, 'title': 'Missing support for ActiveRecord::Enum (Rails 4.1)', 'state': 'closed', 'created_at': '2014-07-24T14:57:46Z', 'closed_at': '2015-04-16T14:38:49Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 100, 'title': 'Ordering bug since 1.9.0', 'state': 'closed', 'created_at': '2014-07-21T15:12:34Z', 'closed_at': '2014-07-21T18:56:46Z', 'labels': []}
+{'issuenumber': 99, 'title': 'ActiveRecord::RecordNotFound on #show with load_and_authorize_resource', 'state': 'closed', 'created_at': '2014-07-21T01:01:44Z', 'closed_at': '2017-11-13T09:01:21Z', 'labels': []}
+{'issuenumber': 98, 'title': 'Tackle the Beast (ControllerResource)', 'state': 'closed', 'created_at': '2014-07-20T19:39:39Z', 'closed_at': '2016-08-07T08:41:16Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 96, 'title': 'why not have alias_subject', 'state': 'closed', 'created_at': '2014-07-18T04:48:28Z', 'closed_at': '2015-01-07T20:17:32Z', 'labels': []}
+{'issuenumber': 94, 'title': 'load_and_authorize through when no index ability on parent fails', 'state': 'closed', 'created_at': '2014-07-16T15:09:44Z', 'closed_at': '2017-05-31T08:12:51Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 92, 'title': 'Adding a scope to load_and_authorize_resource', 'state': 'closed', 'created_at': '2014-07-15T03:30:18Z', 'closed_at': '2014-07-16T13:44:51Z', 'labels': []}
+{'issuenumber': 90, 'title': 'accessible_by  Produces Incorrect Query For Self Referential Models', 'state': 'closed', 'created_at': '2014-07-12T16:52:14Z', 'closed_at': '2014-08-09T11:01:57Z', 'labels': []}
+{'issuenumber': 89, 'title': 'load_and_authorize_resource skip is broken', 'state': 'closed', 'created_at': '2014-07-02T18:03:49Z', 'closed_at': '2017-05-31T08:11:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 87, 'title': 'List users which can do an action', 'state': 'closed', 'created_at': '2014-06-27T16:06:50Z', 'closed_at': '2014-07-30T08:29:36Z', 'labels': []}
+{'issuenumber': 83, 'title': 'Problem in CanCan::Rule.matches_conditions?', 'state': 'closed', 'created_at': '2014-06-24T10:38:37Z', 'closed_at': '2014-07-20T19:41:50Z', 'labels': []}
+{'issuenumber': 79, 'title': 'Can you explain why your revert my wiki changes?', 'state': 'closed', 'created_at': '2014-06-12T07:35:19Z', 'closed_at': '2014-06-12T07:42:44Z', 'labels': []}
+{'issuenumber': 77, 'title': 'Joined tables from namespaces break ability conditions accessible_by', 'state': 'closed', 'created_at': '2014-06-10T16:59:19Z', 'closed_at': '2014-08-08T11:39:04Z', 'labels': []}
+{'issuenumber': 76, 'title': 'SQL error when two rules refer to the :read action with hash parameters', 'state': 'closed', 'created_at': '2014-06-10T15:56:04Z', 'closed_at': '2017-05-31T08:10:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 74, 'title': 'How to authorize index only for users that can update other users?', 'state': 'closed', 'created_at': '2014-06-05T15:24:28Z', 'closed_at': '2014-06-05T16:08:53Z', 'labels': []}
+{'issuenumber': 73, 'title': "Bug with nested resource when 'user_id' is not submitted", 'state': 'closed', 'created_at': '2014-06-05T15:13:41Z', 'closed_at': '2016-08-07T08:36:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 71, 'title': '"can :manage, Model, id: 23" allows :new action when it shouldn\'t', 'state': 'closed', 'created_at': '2014-06-04T15:04:26Z', 'closed_at': '2014-06-04T15:19:50Z', 'labels': []}
+{'issuenumber': 70, 'title': 'Defining ability on specific instance in MongoDB', 'state': 'closed', 'created_at': '2014-06-04T00:08:19Z', 'closed_at': '2014-06-04T02:06:27Z', 'labels': []}
+{'issuenumber': 66, 'title': 'Problem detecting hashes in extract_subjects', 'state': 'closed', 'created_at': '2014-05-27T09:59:23Z', 'closed_at': '2014-05-27T16:53:49Z', 'labels': []}
+{'issuenumber': 65, 'title': 'Hash conditions containing symbols problem', 'state': 'closed', 'created_at': '2014-05-27T07:13:13Z', 'closed_at': '2016-08-07T08:38:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 64, 'title': 'Problem with custom actions', 'state': 'closed', 'created_at': '2014-05-19T18:39:59Z', 'closed_at': '2016-08-07T08:38:29Z', 'labels': {'name': 'need help'}}
+{'issuenumber': 63, 'title': 'Nested attributes problem', 'state': 'closed', 'created_at': '2014-05-18T20:20:59Z', 'closed_at': '2014-07-18T10:24:54Z', 'labels': []}
+{'issuenumber': 61, 'title': '"user" parameter is nil', 'state': 'closed', 'created_at': '2014-05-15T11:50:36Z', 'closed_at': '2014-05-15T15:29:30Z', 'labels': []}
+{'issuenumber': 60, 'title': 'accessible_by Ignores Explicit ActiveRecord select()', 'state': 'closed', 'created_at': '2014-05-14T23:20:58Z', 'closed_at': '2014-10-13T10:05:07Z', 'labels': []}
+{'issuenumber': 59, 'title': 'param_actions should include :new?', 'state': 'closed', 'created_at': '2014-05-13T10:42:55Z', 'closed_at': '2014-07-16T18:38:04Z', 'labels': []}
+{'issuenumber': 58, 'title': 'load_and_authorize_resource through: :current_user, singleton: true', 'state': 'closed', 'created_at': '2014-05-12T20:14:38Z', 'closed_at': '2014-05-13T16:20:51Z', 'labels': []}
+{'issuenumber': 56, 'title': "Model.class.to_s don't return Model name", 'state': 'closed', 'created_at': '2014-05-05T12:50:35Z', 'closed_at': '2014-05-05T15:06:57Z', 'labels': []}
+{'issuenumber': 55, 'title': 'Add sequel adapter?', 'state': 'closed', 'created_at': '2014-05-03T15:05:00Z', 'closed_at': '2014-05-08T17:03:48Z', 'labels': []}
+{'issuenumber': 53, 'title': 'Authorize! on non model backed controllers', 'state': 'closed', 'created_at': '2014-04-28T07:54:39Z', 'closed_at': '2014-05-06T11:35:06Z', 'labels': []}
+{'issuenumber': 52, 'title': 'Cannot compile on windows due to KGIO dependency', 'state': 'closed', 'created_at': '2014-04-22T23:38:14Z', 'closed_at': '2014-04-29T16:48:24Z', 'labels': []}
+{'issuenumber': 51, 'title': 'load_and_authorize_resource and new with params causes ActiveModel::ForbiddenAttributesError', 'state': 'closed', 'created_at': '2014-04-22T07:12:16Z', 'closed_at': '2014-04-22T16:56:43Z', 'labels': []}
+{'issuenumber': 50, 'title': 'Need help with complex index action.', 'state': 'closed', 'created_at': '2014-04-18T13:19:05Z', 'closed_at': '2014-04-18T16:15:46Z', 'labels': []}
+{'issuenumber': 49, 'title': 'assign_attributes bypasses mass-assignment protection when using load_and_authorize_resource', 'state': 'closed', 'created_at': '2014-04-17T20:58:41Z', 'closed_at': '2014-04-17T21:02:35Z', 'labels': []}

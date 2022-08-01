@@ -1,0 +1,134 @@
+{'issuenumber': 354, 'title': 'RFC 7807', 'state': 'closed', 'created_at': '2022-05-13T21:45:00Z', 'closed_at': '2022-05-19T03:26:06Z', 'labels': []}
+{'issuenumber': 353, 'title': 'How to pronounce Twirp?', 'state': 'closed', 'created_at': '2022-05-07T08:38:57Z', 'closed_at': '2022-05-16T20:39:40Z', 'labels': []}
+{'issuenumber': 350, 'title': 'Bug: Wrong generated file name error with `paths=imports` option & `module` option without trailing slash', 'state': 'closed', 'created_at': '2022-02-11T22:38:18Z', 'closed_at': '2022-03-08T00:49:19Z', 'labels': []}
+{'issuenumber': 348, 'title': 'Broken link in docs', 'state': 'closed', 'created_at': '2022-01-24T20:26:49Z', 'closed_at': '2022-03-07T22:31:28Z', 'labels': []}
+{'issuenumber': 342, 'title': 'Protocol inconsistency with implementation (data_loss)', 'state': 'closed', 'created_at': '2021-11-29T19:34:03Z', 'closed_at': '2021-11-30T00:48:05Z', 'labels': []}
+{'issuenumber': 335, 'title': 'Conformance test suite', 'state': 'closed', 'created_at': '2021-11-04T01:13:11Z', 'closed_at': '2022-01-21T00:00:54Z', 'labels': {'name': 'no-issue-activity'}}
+{'issuenumber': 333, 'title': 'UDS support? ', 'state': 'closed', 'created_at': '2021-09-26T18:25:20Z', 'closed_at': '2021-10-04T21:36:12Z', 'labels': []}
+{'issuenumber': 329, 'title': 'Support clients sending timeout to server?', 'state': 'closed', 'created_at': '2021-08-04T15:38:50Z', 'closed_at': '2021-08-13T04:44:17Z', 'labels': []}
+{'issuenumber': 328, 'title': 'Import types/funcs from github.com/twitchtv/twirp/... instead of generating them.', 'state': 'closed', 'created_at': '2021-07-06T05:37:18Z', 'closed_at': '2021-11-01T20:41:56Z', 'labels': []}
+{'issuenumber': 327, 'title': 'Integration with vtprotobuf', 'state': 'closed', 'created_at': '2021-06-25T08:04:03Z', 'closed_at': '2021-09-12T00:00:44Z', 'labels': {'name': 'no-issue-activity'}}
+{'issuenumber': 325, 'title': 'Log stack trace from recovered panic', 'state': 'closed', 'created_at': '2021-06-14T15:13:47Z', 'closed_at': '2021-07-20T08:55:03Z', 'labels': []}
+{'issuenumber': 324, 'title': 'clientOpts.ReadOpt undefined (type twirp.ClientOptions has no field or method ReadOpt)', 'state': 'closed', 'created_at': '2021-06-13T09:41:53Z', 'closed_at': '2021-06-16T07:35:37Z', 'labels': []}
+{'issuenumber': 316, 'title': 'ServerOptions and ClientOptions generic getters for generated code', 'state': 'closed', 'created_at': '2021-05-19T01:07:29Z', 'closed_at': '2021-06-12T05:41:04Z', 'labels': []}
+{'issuenumber': 315, 'title': 'Fix clientcompat and include tests on CI build', 'state': 'closed', 'created_at': '2021-05-18T23:42:21Z', 'closed_at': '2021-06-12T05:40:25Z', 'labels': []}
+{'issuenumber': 311, 'title': 'Add Errorf function', 'state': 'closed', 'created_at': '2021-05-10T09:12:08Z', 'closed_at': '2021-05-18T23:57:48Z', 'labels': []}
+{'issuenumber': 310, 'title': 'clientcompat issue with V8', 'state': 'closed', 'created_at': '2021-05-07T16:53:16Z', 'closed_at': '2021-05-18T23:37:27Z', 'labels': []}
+{'issuenumber': 309, 'title': 'Should The Constant Version Be Bumped to 8?', 'state': 'closed', 'created_at': '2021-05-06T16:06:17Z', 'closed_at': '2021-05-06T19:28:01Z', 'labels': []}
+{'issuenumber': 303, 'title': 'Drop protoc-gen-twirp_python in favor of external implementations', 'state': 'closed', 'created_at': '2021-04-13T04:09:46Z', 'closed_at': '2021-06-11T23:40:22Z', 'labels': []}
+{'issuenumber': 301, 'title': 'Twirp generates code that uses deprecated protobuf libraries', 'state': 'closed', 'created_at': '2021-04-05T19:34:20Z', 'closed_at': '2021-05-04T07:20:15Z', 'labels': []}
+{'issuenumber': 300, 'title': 'Support an optional ErrorCoder interface for Go servers', 'state': 'closed', 'created_at': '2021-03-25T18:31:41Z', 'closed_at': '2021-06-16T07:36:22Z', 'labels': []}
+{'issuenumber': 298, 'title': 'protoc-gen-twirp generates non stable imports list', 'state': 'closed', 'created_at': '2021-03-25T16:19:05Z', 'closed_at': '2021-05-19T00:55:13Z', 'labels': []}
+{'issuenumber': 293, 'title': 'Proposal: Check request context before returning internal error on server handler', 'state': 'closed', 'created_at': '2021-02-23T00:42:41Z', 'closed_at': '2021-04-09T05:14:47Z', 'labels': []}
+{'issuenumber': 281, 'title': 'Haberdasher example generate warning.', 'state': 'closed', 'created_at': '2020-10-13T15:04:35Z', 'closed_at': '2020-10-21T21:24:17Z', 'labels': []}
+{'issuenumber': 280, 'title': 'detecting import paths is incorrect for root vanity imports', 'state': 'closed', 'created_at': '2020-10-11T20:50:57Z', 'closed_at': '2021-01-06T22:35:46Z', 'labels': []}
+{'issuenumber': 267, 'title': 'ServerHooks Context bug: Context from Error is not passed to ResponseSent', 'state': 'closed', 'created_at': '2020-09-08T20:42:13Z', 'closed_at': '2020-09-13T23:26:53Z', 'labels': []}
+{'issuenumber': 266, 'title': 'Add a link to GitHub in the documentation page', 'state': 'closed', 'created_at': '2020-09-02T21:22:30Z', 'closed_at': '2020-09-16T06:20:05Z', 'labels': []}
+{'issuenumber': 265, 'title': 'Proposal: Request/Response interceptors', 'state': 'closed', 'created_at': '2020-09-01T22:41:34Z', 'closed_at': '2020-09-25T17:35:29Z', 'labels': []}
+{'issuenumber': 263, 'title': 'Optional /twirp prefix', 'state': 'closed', 'created_at': '2020-08-18T01:18:08Z', 'closed_at': '2020-09-16T06:20:43Z', 'labels': []}
+{'issuenumber': 261, 'title': 'Use Marshal interfaces', 'state': 'closed', 'created_at': '2020-08-12T18:26:38Z', 'closed_at': '2020-09-16T06:22:16Z', 'labels': []}
+{'issuenumber': 260, 'title': 'Address function not supported', 'state': 'closed', 'created_at': '2020-08-12T18:19:24Z', 'closed_at': '2020-12-09T00:03:10Z', 'labels': {'name': 'no-issue-activity'}}
+{'issuenumber': 259, 'title': 'Unbounded body reads', 'state': 'closed', 'created_at': '2020-08-12T18:13:05Z', 'closed_at': '2020-12-09T00:03:11Z', 'labels': {'name': 'no-issue-activity'}}
+{'issuenumber': 256, 'title': 'Optimize generated code for size, deduplication, quality', 'state': 'closed', 'created_at': '2020-07-30T00:37:54Z', 'closed_at': '2020-09-14T06:23:43Z', 'labels': []}
+{'issuenumber': 255, 'title': 'Go package naming consistency', 'state': 'closed', 'created_at': '2020-07-28T17:21:16Z', 'closed_at': '2020-12-09T00:03:13Z', 'labels': {'name': 'no-issue-activity'}}
+{'issuenumber': 254, 'title': 'Support for GRPC status package', 'state': 'closed', 'created_at': '2020-07-28T17:15:41Z', 'closed_at': '2020-12-09T00:03:14Z', 'labels': {'name': 'no-issue-activity'}}
+{'issuenumber': 253, 'title': 'Deprecated jsonpb package; customizing json encoder', 'state': 'closed', 'created_at': '2020-07-28T14:54:13Z', 'closed_at': '2020-07-29T18:13:35Z', 'labels': []}
+{'issuenumber': 252, 'title': 'Server handler: Context and http.Request', 'state': 'closed', 'created_at': '2020-07-28T14:49:14Z', 'closed_at': '2020-12-03T07:40:34Z', 'labels': {'name': 'no-issue-activity'}}
+{'issuenumber': 250, 'title': 'In client hooks context from RequestPrepared is not received in ResponseReceived', 'state': 'closed', 'created_at': '2020-07-13T16:53:44Z', 'closed_at': '2020-07-24T16:59:36Z', 'labels': []}
+{'issuenumber': 248, 'title': 'Question: Docker Image', 'state': 'closed', 'created_at': '2020-07-04T10:45:24Z', 'closed_at': '2020-07-07T09:00:16Z', 'labels': []}
+{'issuenumber': 244, 'title': "Spec doesn't mention CamelCasing the URL", 'state': 'closed', 'created_at': '2020-06-18T16:59:53Z', 'closed_at': '2020-09-25T12:07:27Z', 'labels': []}
+{'issuenumber': 242, 'title': 'C++ Client Support', 'state': 'closed', 'created_at': '2020-06-04T17:28:45Z', 'closed_at': '2020-07-03T21:18:45Z', 'labels': []}
+{'issuenumber': 239, 'title': 'Supporting custom errors', 'state': 'closed', 'created_at': '2020-05-11T15:02:26Z', 'closed_at': '2020-06-08T21:45:18Z', 'labels': []}
+{'issuenumber': 238, 'title': 'Support for custom HTTP transcoding', 'state': 'closed', 'created_at': '2020-05-11T14:34:34Z', 'closed_at': '2020-05-12T13:52:29Z', 'labels': []}
+{'issuenumber': 236, 'title': 'undefined: *.twirp.go ', 'state': 'closed', 'created_at': '2020-05-07T22:37:29Z', 'closed_at': '2020-07-13T23:16:47Z', 'labels': []}
+{'issuenumber': 233, 'title': 'Return response body when server returns invalid code', 'state': 'closed', 'created_at': '2020-05-03T21:40:02Z', 'closed_at': '2020-05-11T22:44:36Z', 'labels': []}
+{'issuenumber': 231, 'title': 'server streaming in twirp', 'state': 'closed', 'created_at': '2020-04-27T11:46:55Z', 'closed_at': '2020-06-18T18:14:49Z', 'labels': []}
+{'issuenumber': 230, 'title': 'support gzipped response', 'state': 'closed', 'created_at': '2020-04-26T08:52:26Z', 'closed_at': '2020-06-18T18:14:22Z', 'labels': []}
+{'issuenumber': 228, 'title': 'Extend error handling capabilities', 'state': 'closed', 'created_at': '2020-04-24T15:45:24Z', 'closed_at': '2020-06-22T21:57:45Z', 'labels': []}
+{'issuenumber': 226, 'title': 'Support protoc-gen-go option --go_opt=module=...', 'state': 'closed', 'created_at': '2020-04-22T14:29:04Z', 'closed_at': '2020-12-09T00:03:16Z', 'labels': {'name': 'no-issue-activity'}}
+{'issuenumber': 223, 'title': 'Tiny documentation hiccup?', 'state': 'closed', 'created_at': '2020-04-09T13:51:38Z', 'closed_at': '2020-04-13T15:31:21Z', 'labels': []}
+{'issuenumber': 222, 'title': 'Support Protobuf APIV2 ', 'state': 'closed', 'created_at': '2020-03-02T20:53:59Z', 'closed_at': '2021-05-03T21:54:30Z', 'labels': {'name': 'pending'}}
+{'issuenumber': 221, 'title': 'Proposal: Transport interface', 'state': 'closed', 'created_at': '2020-02-26T01:02:09Z', 'closed_at': '2020-05-11T01:28:45Z', 'labels': []}
+{'issuenumber': 220, 'title': "README alludes to the ability to generate python servers, but this doesn't seem to be the case", 'state': 'closed', 'created_at': '2020-02-10T23:21:43Z', 'closed_at': '2020-12-09T00:03:17Z', 'labels': {'name': 'no-issue-activity'}}
+{'issuenumber': 219, 'title': 'Proposal: allow ResponsePrepared to return an error', 'state': 'closed', 'created_at': '2020-02-08T03:36:35Z', 'closed_at': '2020-04-14T13:23:36Z', 'labels': []}
+{'issuenumber': 218, 'title': '"No handler for path" should be logged server side', 'state': 'closed', 'created_at': '2020-01-23T23:42:24Z', 'closed_at': '2020-01-25T00:33:43Z', 'labels': []}
+{'issuenumber': 215, 'title': 'Add service name and method to error meta', 'state': 'closed', 'created_at': '2020-01-10T00:34:53Z', 'closed_at': '2020-12-09T00:03:19Z', 'labels': {'name': 'no-issue-activity'}}
+{'issuenumber': 214, 'title': 'Return unmarshal errors for malformed requests', 'state': 'closed', 'created_at': '2020-01-08T01:03:58Z', 'closed_at': '2020-12-09T00:03:20Z', 'labels': {'name': 'no-issue-activity'}}
+{'issuenumber': 212, 'title': 'Add a callback that accepts input arguments and results', 'state': 'closed', 'created_at': '2019-12-30T08:33:34Z', 'closed_at': '2020-01-25T05:49:15Z', 'labels': []}
+{'issuenumber': 210, 'title': 'Add CORS headers to OPTIONS request to the golang net/http twirp server', 'state': 'closed', 'created_at': '2019-12-18T01:59:11Z', 'closed_at': '2020-01-13T18:53:05Z', 'labels': []}
+{'issuenumber': 209, 'title': 'Generated Client For Dart', 'state': 'closed', 'created_at': '2019-12-16T15:04:34Z', 'closed_at': '2020-01-14T18:02:08Z', 'labels': []}
+{'issuenumber': 207, 'title': 'How to get routing params and Custom routing ？', 'state': 'closed', 'created_at': '2019-12-10T06:56:04Z', 'closed_at': '2019-12-13T19:41:02Z', 'labels': []}
+{'issuenumber': 206, 'title': 'Suggestion: Returning a non nil context', 'state': 'closed', 'created_at': '2019-12-06T21:50:39Z', 'closed_at': '2019-12-13T19:36:59Z', 'labels': []}
+{'issuenumber': 204, 'title': 'unsupport Content-Type: application/x-www-form-urlencoded ? ', 'state': 'closed', 'created_at': '2019-12-06T09:35:24Z', 'closed_at': '2019-12-13T19:27:04Z', 'labels': []}
+{'issuenumber': 203, 'title': 'Expose stringutils package for custom plugins', 'state': 'closed', 'created_at': '2019-12-04T21:59:40Z', 'closed_at': '2019-12-13T19:24:45Z', 'labels': []}
+{'issuenumber': 201, 'title': 'Return error from twirp.WriteError', 'state': 'closed', 'created_at': '2019-12-03T05:18:10Z', 'closed_at': '2019-12-20T22:20:56Z', 'labels': []}
+{'issuenumber': 200, 'title': 'Anyone experimenting with Twirp-over-QUIC?', 'state': 'closed', 'created_at': '2019-12-01T18:37:37Z', 'closed_at': '2019-12-12T14:49:15Z', 'labels': []}
+{'issuenumber': 197, 'title': 'Upgrade Protobuf version', 'state': 'closed', 'created_at': '2019-11-27T23:36:31Z', 'closed_at': '2019-12-03T01:40:59Z', 'labels': []}
+{'issuenumber': 196, 'title': 'option paths=source_relative:. causes import cycle loop', 'state': 'closed', 'created_at': '2019-11-26T14:21:32Z', 'closed_at': '2020-05-11T23:02:24Z', 'labels': []}
+{'issuenumber': 195, 'title': 'Allow generation of Twirp in a different Golang Package', 'state': 'closed', 'created_at': '2019-11-17T17:39:45Z', 'closed_at': '2020-12-09T00:03:22Z', 'labels': {'name': 'no-issue-activity'}}
+{'issuenumber': 190, 'title': 'statsd hooks use by_codes in documentation but use status_codes to send metrics. ', 'state': 'closed', 'created_at': '2019-10-22T17:50:06Z', 'closed_at': '2019-11-06T20:03:26Z', 'labels': []}
+{'issuenumber': 189, 'title': 'Repeated fields in requests are not matched with models correctly', 'state': 'closed', 'created_at': '2019-10-09T15:30:12Z', 'closed_at': '2019-11-06T20:07:21Z', 'labels': []}
+{'issuenumber': 188, 'title': 'Use ServerHooks to validate request message content', 'state': 'closed', 'created_at': '2019-10-07T11:14:51Z', 'closed_at': '2019-11-06T20:08:36Z', 'labels': []}
+{'issuenumber': 187, 'title': 'How to get entire request / response message in hook?', 'state': 'closed', 'created_at': '2019-08-26T02:24:07Z', 'closed_at': '2019-08-27T15:50:41Z', 'labels': []}
+{'issuenumber': 186, 'title': 'Add WriteError to the twirp package', 'state': 'closed', 'created_at': '2019-08-08T19:45:01Z', 'closed_at': '2019-11-06T20:10:08Z', 'labels': []}
+{'issuenumber': 185, 'title': 'Allow python client to accept custom http headers', 'state': 'closed', 'created_at': '2019-08-07T08:13:31Z', 'closed_at': '2020-09-16T06:27:40Z', 'labels': []}
+{'issuenumber': 184, 'title': 'Introduce hooks for custom validations', 'state': 'closed', 'created_at': '2019-08-05T15:46:16Z', 'closed_at': '2019-10-01T10:38:56Z', 'labels': []}
+{'issuenumber': 183, 'title': 'Update best practices to workaround "use of internal package ... not allowed"', 'state': 'closed', 'created_at': '2019-07-03T23:58:22Z', 'closed_at': '2019-07-05T17:17:19Z', 'labels': []}
+{'issuenumber': 180, 'title': 'Updating context within method', 'state': 'closed', 'created_at': '2019-06-13T21:34:03Z', 'closed_at': '2019-06-16T22:50:36Z', 'labels': []}
+{'issuenumber': 179, 'title': 'v6 removal of /twirp prefix makes upgrading hard', 'state': 'closed', 'created_at': '2019-06-12T19:37:25Z', 'closed_at': '2020-07-22T22:54:19Z', 'labels': []}
+{'issuenumber': 178, 'title': 'service.twirp.go errorFromResponse function is broken when intermediary returns json', 'state': 'closed', 'created_at': '2019-06-12T11:39:46Z', 'closed_at': '2019-11-06T23:48:16Z', 'labels': []}
+{'issuenumber': 176, 'title': 'Proposal: add context.SetHTTPCookie ', 'state': 'closed', 'created_at': '2019-05-15T16:58:03Z', 'closed_at': '2019-06-12T18:15:54Z', 'labels': []}
+{'issuenumber': 175, 'title': 'Statsd-hooks - rate is always 1.0', 'state': 'closed', 'created_at': '2019-05-08T18:36:20Z', 'closed_at': '2020-01-14T20:30:17Z', 'labels': []}
+{'issuenumber': 174, 'title': 'Define paths via options', 'state': 'closed', 'created_at': '2019-05-07T12:16:28Z', 'closed_at': '2019-05-14T00:32:24Z', 'labels': []}
+{'issuenumber': 171, 'title': 'Empty service definition in proto file produces bad go code', 'state': 'closed', 'created_at': '2019-04-09T06:21:41Z', 'closed_at': '2019-04-16T17:50:36Z', 'labels': []}
+{'issuenumber': 166, 'title': 'Serialization and deserialization of large messages can be slow', 'state': 'closed', 'created_at': '2019-03-25T15:03:44Z', 'closed_at': '2020-12-09T00:03:24Z', 'labels': {'name': 'no-issue-activity'}}
+{'issuenumber': 163, 'title': 'Panics are not accessible in Error hooks', 'state': 'closed', 'created_at': '2019-03-20T22:13:13Z', 'closed_at': '2019-04-15T21:42:16Z', 'labels': []}
+{'issuenumber': 162, 'title': 'Panics result in empty responses unless they are intercepted in middleware', 'state': 'closed', 'created_at': '2019-03-20T01:04:50Z', 'closed_at': '2019-04-16T17:50:53Z', 'labels': []}
+{'issuenumber': 161, 'title': 'Proposal: Expose method to write error to http.ResponseWriter', 'state': 'closed', 'created_at': '2019-03-17T14:34:58Z', 'closed_at': '2019-11-06T21:00:47Z', 'labels': []}
+{'issuenumber': 158, 'title': 'Proposal: Add PathPrefix method to generated TwirpServer type', 'state': 'closed', 'created_at': '2019-03-13T09:57:04Z', 'closed_at': '2019-04-02T07:44:48Z', 'labels': []}
+{'issuenumber': 157, 'title': 'Add the Twirp logo in the official documentation.', 'state': 'closed', 'created_at': '2019-03-11T16:38:06Z', 'closed_at': '2020-04-25T19:08:10Z', 'labels': []}
+{'issuenumber': 155, 'title': 'Add Twirp/twitchtv logo to Docusaurus', 'state': 'closed', 'created_at': '2019-03-09T07:14:54Z', 'closed_at': '2019-03-14T18:09:19Z', 'labels': []}
+{'issuenumber': 152, 'title': 'Improve installation process to pin external dependencies better', 'state': 'closed', 'created_at': '2019-03-07T17:47:12Z', 'closed_at': '2019-04-16T01:35:24Z', 'labels': []}
+{'issuenumber': 150, 'title': "how to keep the .proto files ‘servcie’ name like ‘User_backstage’ in 'UserBackstagePathPrefix'", 'state': 'closed', 'created_at': '2019-02-26T03:11:55Z', 'closed_at': '2019-03-03T23:55:14Z', 'labels': []}
+{'issuenumber': 148, 'title': 'Decorate unmarshal error with field name', 'state': 'closed', 'created_at': '2019-02-22T03:36:16Z', 'closed_at': '2020-12-09T00:03:25Z', 'labels': {'name': 'no-issue-activity'}}
+{'issuenumber': 145, 'title': 'Proposal: Client-Side Hooks in Go', 'state': 'closed', 'created_at': '2019-02-14T17:28:09Z', 'closed_at': '2019-12-16T21:03:03Z', 'labels': []}
+{'issuenumber': 142, 'title': 'Make twirptest a public package instead of internal', 'state': 'closed', 'created_at': '2019-01-24T19:50:48Z', 'closed_at': '2019-03-19T19:35:50Z', 'labels': []}
+{'issuenumber': 141, 'title': 'How to get client ip addr?', 'state': 'closed', 'created_at': '2019-01-15T13:41:35Z', 'closed_at': '2019-01-16T03:24:54Z', 'labels': []}
+{'issuenumber': 140, 'title': 'add go.mod and go.sum to support go modules function', 'state': 'closed', 'created_at': '2019-01-05T08:22:07Z', 'closed_at': '2019-03-15T10:33:16Z', 'labels': []}
+{'issuenumber': 138, 'title': 'Inconsistent golang type name between protoc-gen-twirp and protoc-gen-go', 'state': 'closed', 'created_at': '2018-12-17T09:03:27Z', 'closed_at': '2019-02-15T03:03:44Z', 'labels': []}
+{'issuenumber': 136, 'title': 'Add Third Party Dart library', 'state': 'closed', 'created_at': '2018-12-13T01:26:40Z', 'closed_at': '2019-01-05T22:34:15Z', 'labels': []}
+{'issuenumber': 135, 'title': 'Bazel Support', 'state': 'closed', 'created_at': '2018-11-25T00:19:58Z', 'closed_at': '2019-02-01T20:05:50Z', 'labels': []}
+{'issuenumber': 130, 'title': 'Python 3 client problem', 'state': 'closed', 'created_at': '2018-09-29T23:17:47Z', 'closed_at': '2018-10-31T16:11:31Z', 'labels': []}
+{'issuenumber': 129, 'title': 'Support source_relative for go_package option', 'state': 'closed', 'created_at': '2018-09-24T05:25:37Z', 'closed_at': '2018-09-24T20:49:54Z', 'labels': []}
+{'issuenumber': 128, 'title': 'public PackageName and ServiceName as constant (like PathPrefix)', 'state': 'closed', 'created_at': '2018-09-19T07:14:39Z', 'closed_at': '2020-01-14T20:42:18Z', 'labels': []}
+{'issuenumber': 127, 'title': "Can't really use twirp generator with go modules from 1.11", 'state': 'closed', 'created_at': '2018-09-15T15:15:52Z', 'closed_at': '2018-09-24T20:50:48Z', 'labels': []}
+{'issuenumber': 125, 'title': 'Is it possible to download and upload files via Twirp', 'state': 'closed', 'created_at': '2018-09-06T03:48:43Z', 'closed_at': '2018-09-28T00:22:10Z', 'labels': []}
+{'issuenumber': 123, 'title': 'Generated code will not compile if the service defined in protobuf definition has a method defined with the same name.', 'state': 'closed', 'created_at': '2018-08-09T15:08:44Z', 'closed_at': '2018-08-10T17:44:35Z', 'labels': []}
+{'issuenumber': 122, 'title': 'Where is testdata file directory and fileset.pb file', 'state': 'closed', 'created_at': '2018-08-09T06:58:26Z', 'closed_at': '2018-08-09T15:57:11Z', 'labels': []}
+{'issuenumber': 121, 'title': 'Question: importing .proto messages', 'state': 'closed', 'created_at': '2018-07-25T15:10:40Z', 'closed_at': '2018-08-09T16:07:59Z', 'labels': []}
+{'issuenumber': 119, 'title': "twirp context keys can conflict with client code's context keys.", 'state': 'closed', 'created_at': '2018-07-18T06:12:29Z', 'closed_at': '2018-07-18T13:55:55Z', 'labels': []}
+{'issuenumber': 118, 'title': 'iOS client', 'state': 'closed', 'created_at': '2018-07-08T08:33:03Z', 'closed_at': '2018-07-25T00:06:17Z', 'labels': []}
+{'issuenumber': 116, 'title': 'Show flash message after successful operation', 'state': 'closed', 'created_at': '2018-06-22T12:04:04Z', 'closed_at': '2018-08-10T17:44:57Z', 'labels': []}
+{'issuenumber': 113, 'title': 'Deprecate RequiredArgumentError constructor', 'state': 'closed', 'created_at': '2018-06-06T21:02:17Z', 'closed_at': '2020-05-11T01:20:48Z', 'labels': []}
+{'issuenumber': 111, 'title': 'Is there a way to separate generated client and server code into different files ?', 'state': 'closed', 'created_at': '2018-06-04T22:56:19Z', 'closed_at': '2018-06-06T15:44:52Z', 'labels': []}
+{'issuenumber': 108, 'title': "Context with value isn't working", 'state': 'closed', 'created_at': '2018-05-28T20:11:03Z', 'closed_at': '2018-05-29T21:20:41Z', 'labels': []}
+{'issuenumber': 104, 'title': 'google/protobuf/empty.proto wrong import path', 'state': 'closed', 'created_at': '2018-05-18T13:51:06Z', 'closed_at': '2018-05-22T23:19:30Z', 'labels': []}
+{'issuenumber': 103, 'title': 'Use EmitDefaults: true for jsonpb.Marshaler in generated server code.', 'state': 'closed', 'created_at': '2018-04-26T16:39:12Z', 'closed_at': '2020-09-16T06:29:34Z', 'labels': []}
+{'issuenumber': 100, 'title': 'Values missing due to `omitempty`', 'state': 'closed', 'created_at': '2018-04-11T14:10:06Z', 'closed_at': '2018-04-11T18:47:43Z', 'labels': []}
+{'issuenumber': 96, 'title': 'Remove HTTPClient, TwirpServer from generated files', 'state': 'closed', 'created_at': '2018-04-04T08:44:45Z', 'closed_at': '2018-04-04T20:50:11Z', 'labels': []}
+{'issuenumber': 94, 'title': "Context setters don't work when imported packages' vendor directories are not flattened", 'state': 'closed', 'created_at': '2018-03-27T18:27:04Z', 'closed_at': '2018-04-01T18:24:59Z', 'labels': []}
+{'issuenumber': 93, 'title': 'Seeking feedback on protoc twirp typescript plugin', 'state': 'closed', 'created_at': '2018-03-27T01:16:42Z', 'closed_at': '2018-04-05T19:17:21Z', 'labels': []}
+{'issuenumber': 90, 'title': 'Hooks for authentication and authorization', 'state': 'closed', 'created_at': '2018-03-14T15:20:29Z', 'closed_at': '2018-03-14T17:58:50Z', 'labels': []}
+{'issuenumber': 87, 'title': 'Add server hook for Prometheus metrics', 'state': 'closed', 'created_at': '2018-02-23T06:46:34Z', 'closed_at': '2018-02-27T23:22:41Z', 'labels': []}
+{'issuenumber': 86, 'title': 'Proposal: Use <package>/<service> instead of <package>.<service> in URLs', 'state': 'closed', 'created_at': '2018-02-20T19:27:57Z', 'closed_at': '2018-06-05T20:57:03Z', 'labels': {'name': 'proposal'}}
+{'issuenumber': 84, 'title': "Proposal: Stop using 'OrigName' option when doing jsonpb marshaling", 'state': 'closed', 'created_at': '2018-02-16T16:53:42Z', 'closed_at': '2018-02-16T22:05:21Z', 'labels': {'name': 'proposal'}}
+{'issuenumber': 81, 'title': 'Generated clients should set Accept header to right Content-Type', 'state': 'closed', 'created_at': '2018-02-15T00:32:15Z', 'closed_at': '2018-02-19T20:44:10Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 78, 'title': 'Error in server.go: mixed named and unnamed function parameters', 'state': 'closed', 'created_at': '2018-02-13T17:13:44Z', 'closed_at': '2018-02-13T18:30:33Z', 'labels': []}
+{'issuenumber': 70, 'title': 'Proposal: Go streaming API', 'state': 'closed', 'created_at': '2018-01-29T18:25:25Z', 'closed_at': '2020-07-22T23:02:32Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 69, 'title': 'Allow error msg configuration', 'state': 'closed', 'created_at': '2018-01-28T20:48:21Z', 'closed_at': '2018-01-29T17:55:32Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 68, 'title': 'urlBase fails if the address has no scheme', 'state': 'closed', 'created_at': '2018-01-28T03:51:28Z', 'closed_at': '2020-09-16T06:36:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 67, 'title': 'Typo on Errors wiki page', 'state': 'closed', 'created_at': '2018-01-28T00:33:17Z', 'closed_at': '2018-01-28T22:02:38Z', 'labels': []}
+{'issuenumber': 65, 'title': 'Write a formal specification', 'state': 'closed', 'created_at': '2018-01-26T23:56:00Z', 'closed_at': '2018-02-02T17:11:19Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 61, 'title': 'List community-created generators on the README', 'state': 'closed', 'created_at': '2018-01-26T04:47:15Z', 'closed_at': '2018-01-27T22:10:52Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 60, 'title': 'Swagger output for client and documentation generation.', 'state': 'closed', 'created_at': '2018-01-26T02:23:43Z', 'closed_at': '2018-01-26T04:41:42Z', 'labels': []}
+{'issuenumber': 59, 'title': 'Vendor directory is not committed, so protoc-gen-twirp does not build reliably.', 'state': 'closed', 'created_at': '2018-01-25T23:33:45Z', 'closed_at': '2018-01-31T17:23:35Z', 'labels': {'name': 'project meta'}}

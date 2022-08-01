@@ -1,0 +1,761 @@
+{'issuenumber': 1185, 'title': "'brew install swiftformat' on M1 Mac: can't find the formula for swiftformat", 'state': 'closed', 'created_at': '2022-05-18T13:44:29Z', 'closed_at': '2022-05-19T09:45:37Z', 'labels': []}
+{'issuenumber': 1184, 'title': "unusedArguments fails when an argument is reassigned to a for loop's parameter", 'state': 'closed', 'created_at': '2022-05-16T17:43:05Z', 'closed_at': '2022-05-17T05:59:20Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 1183, 'title': 'unusedParameter rule removes required param', 'state': 'closed', 'created_at': '2022-05-13T22:56:35Z', 'closed_at': '2022-05-17T05:59:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1181, 'title': 'Not using config file from current dir', 'state': 'closed', 'created_at': '2022-05-12T08:01:20Z', 'closed_at': '2022-05-13T04:02:46Z', 'labels': []}
+{'issuenumber': 1179, 'title': 'Invalid trailing comma with multiline typealias', 'state': 'closed', 'created_at': '2022-05-11T01:32:30Z', 'closed_at': '2022-05-17T05:59:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1175, 'title': "Initializing from a metatype value must reference 'init' explicitly", 'state': 'closed', 'created_at': '2022-05-01T18:06:01Z', 'closed_at': '2022-05-01T19:37:19Z', 'labels': {'name': 'known issue'}}
+{'issuenumber': 1174, 'title': "--rules unusedArguments fails when an enum's associated value is assigned to the same variable name", 'state': 'closed', 'created_at': '2022-04-29T19:35:16Z', 'closed_at': '2022-05-03T00:17:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1172, 'title': 'Switching `Allman` does not re-format code', 'state': 'closed', 'created_at': '2022-04-28T12:38:07Z', 'closed_at': '2022-05-01T10:38:49Z', 'labels': []}
+{'issuenumber': 1170, 'title': 'Question: Removing wrap brace rule?', 'state': 'closed', 'created_at': '2022-04-26T09:04:06Z', 'closed_at': '2022-05-01T10:38:37Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1169, 'title': 'Argument is not treated as unused when the name is reused', 'state': 'closed', 'created_at': '2022-04-26T08:01:22Z', 'closed_at': '2022-05-03T00:17:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1167, 'title': 'acronyms breaking builds', 'state': 'closed', 'created_at': '2022-04-05T17:56:43Z', 'closed_at': '2022-04-05T17:59:09Z', 'labels': []}
+{'issuenumber': 1166, 'title': "unusedArguments rule doesn't handle new shorthand optional binding syntax properly", 'state': 'closed', 'created_at': '2022-04-02T23:12:46Z', 'closed_at': '2022-04-03T23:35:17Z', 'labels': {'name': 'fixed in develop'}}
+{'issuenumber': 1163, 'title': "`--xcodeindentation enabled` doesn't match Xcode for after closing parenthesis on its own line", 'state': 'closed', 'created_at': '2022-03-29T22:23:05Z', 'closed_at': '2022-04-04T17:16:07Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1162, 'title': "Redundant self isn't removed for boolean condition after optional binding condition", 'state': 'closed', 'created_at': '2022-03-24T16:10:38Z', 'closed_at': '2022-04-03T23:35:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1160, 'title': "--lint doesn't fail with error for stdin", 'state': 'closed', 'created_at': '2022-03-17T13:14:47Z', 'closed_at': '2022-04-03T23:34:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1158, 'title': 'Can\'t build because warning "\'temporaryDirectory\' is only available in macOS 10.12 or newer"', 'state': 'closed', 'created_at': '2022-03-16T11:25:07Z', 'closed_at': '2022-04-03T23:34:33Z', 'labels': {'name': 'fixed in develop'}}
+{'issuenumber': 1157, 'title': "redundantParens shouldn't remove option matching in switch statements", 'state': 'closed', 'created_at': '2022-03-16T07:44:45Z', 'closed_at': '2022-04-03T23:33:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1156, 'title': 'RedundantParens: Format breaks compile for PAT optionals', 'state': 'closed', 'created_at': '2022-03-14T22:02:34Z', 'closed_at': '2022-03-15T23:16:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1153, 'title': 'error: redundantClosure rule timed out.', 'state': 'closed', 'created_at': '2022-03-09T22:44:45Z', 'closed_at': '2022-04-03T23:32:30Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1146, 'title': 'Braces and allman not applied to multi-line functions', 'state': 'closed', 'created_at': '2022-02-24T14:16:14Z', 'closed_at': '2022-03-07T00:21:22Z', 'labels': {'name': 'fixed in develop'}}
+{'issuenumber': 1144, 'title': 'Failure to format `struct Array`', 'state': 'closed', 'created_at': '2022-02-21T10:35:57Z', 'closed_at': '2022-03-07T00:20:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1143, 'title': 'Support SPM Plugin', 'state': 'closed', 'created_at': '2022-02-18T21:11:39Z', 'closed_at': '2022-02-18T21:13:54Z', 'labels': []}
+{'issuenumber': 1142, 'title': 'SwiftFormat breaks build for one liner that combines `try` and  `??`', 'state': 'closed', 'created_at': '2022-02-18T00:43:16Z', 'closed_at': '2022-03-07T00:20:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1137, 'title': 'Formatting Issue', 'state': 'closed', 'created_at': '2022-02-07T17:03:52Z', 'closed_at': '2022-02-07T22:57:57Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1135, 'title': 'Release checksum change', 'state': 'closed', 'created_at': '2022-02-01T10:53:45Z', 'closed_at': '2022-02-01T11:20:11Z', 'labels': []}
+{'issuenumber': 1134, 'title': 'SwiftFormat crashes when concatenating String literals', 'state': 'closed', 'created_at': '2022-01-27T18:27:18Z', 'closed_at': '2022-02-07T22:57:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1133, 'title': 'Disappeared from Editor Menu', 'state': 'closed', 'created_at': '2022-01-25T19:59:16Z', 'closed_at': '2022-06-06T07:43:09Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 1132, 'title': 'SwiftFormat updates created date when formatting files', 'state': 'closed', 'created_at': '2022-01-25T16:26:21Z', 'closed_at': '2022-02-07T22:56:57Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1130, 'title': 'Struct within struct changes to enum with Format File from Xcode', 'state': 'closed', 'created_at': '2022-01-18T11:06:52Z', 'closed_at': '2022-01-18T12:38:50Z', 'labels': []}
+{'issuenumber': 1129, 'title': ' redundantSelf removes necessary self in initialisers', 'state': 'closed', 'created_at': '2022-01-18T09:12:02Z', 'closed_at': '2022-01-26T22:25:23Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1128, 'title': '--selfrequired option ignores `self` in string interpolation parameters', 'state': 'closed', 'created_at': '2022-01-18T02:37:26Z', 'closed_at': '2022-01-26T22:25:44Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1127, 'title': 'The redundantLet rule can break SwiftUI views that use let _ = print()', 'state': 'closed', 'created_at': '2022-01-17T19:48:08Z', 'closed_at': '2022-01-26T22:26:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1126, 'title': 'CocoaPods potentially out of sync: 0.49.1 is still the latest available', 'state': 'closed', 'created_at': '2022-01-17T11:37:46Z', 'closed_at': '2022-01-17T16:16:42Z', 'labels': []}
+{'issuenumber': 1122, 'title': 'remove self rules', 'state': 'closed', 'created_at': '2022-01-15T08:55:25Z', 'closed_at': '2022-01-17T18:55:44Z', 'labels': {'name': 'not a bug'}}
+{'issuenumber': 1121, 'title': 'Swiftfomat removing numeric literals in parentheses', 'state': 'closed', 'created_at': '2022-01-14T09:18:22Z', 'closed_at': '2022-01-16T13:39:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1118, 'title': 'wrap/maxwidth in comment blocks', 'state': 'closed', 'created_at': '2022-01-12T14:12:02Z', 'closed_at': '2022-01-12T17:19:29Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1117, 'title': 'blockcomments rules not working', 'state': 'closed', 'created_at': '2022-01-12T14:03:20Z', 'closed_at': '2022-01-12T16:18:35Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1116, 'title': 'Where clause on multiline function declaration gets indented', 'state': 'closed', 'created_at': '2022-01-11T21:30:06Z', 'closed_at': '2022-01-18T19:11:38Z', 'labels': {'name': 'not a bug'}}
+{'issuenumber': 1115, 'title': 'Inconsistent results formatting functions with "wrapMultilineStatementBraces" enabled', 'state': 'closed', 'created_at': '2022-01-11T21:23:02Z', 'closed_at': '2022-02-09T15:12:02Z', 'labels': {'name': 'not a bug'}}
+{'issuenumber': 1114, 'title': '`blockComments` rule will comment out valid method line if document comment have blank line.', 'state': 'closed', 'created_at': '2022-01-10T13:45:35Z', 'closed_at': '2022-01-26T22:26:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1113, 'title': 'Swiftformat parser fails on array subscripts in guard.', 'state': 'closed', 'created_at': '2022-01-04T21:07:06Z', 'closed_at': '2022-01-16T13:39:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1112, 'title': 'Unexpected `self.` autocorrection', 'state': 'closed', 'created_at': '2022-01-04T12:59:45Z', 'closed_at': '2022-01-16T13:40:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1109, 'title': '`UseSingleLinePropertyGetter` rule changes semantics of throwing property getters', 'state': 'closed', 'created_at': '2021-12-30T16:38:27Z', 'closed_at': '2021-12-30T18:25:18Z', 'labels': []}
+{'issuenumber': 1108, 'title': 'Use project specific configuration files in Xcode extension is possible', 'state': 'closed', 'created_at': '2021-12-30T13:22:10Z', 'closed_at': '2022-01-15T01:08:16Z', 'labels': []}
+{'issuenumber': 1106, 'title': 'Feature Request - Xcode format all files', 'state': 'closed', 'created_at': '2021-12-25T10:24:33Z', 'closed_at': '2021-12-30T23:04:23Z', 'labels': []}
+{'issuenumber': 1103, 'title': 'How do I use decimalgrouping?', 'state': 'closed', 'created_at': '2021-12-15T18:15:29Z', 'closed_at': '2021-12-15T19:21:21Z', 'labels': []}
+{'issuenumber': 1100, 'title': 'Second trailing closure has incorrect indentation', 'state': 'closed', 'created_at': '2021-12-14T07:30:41Z', 'closed_at': '2022-01-26T22:26:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1099, 'title': '`blockComments` rule removes bullet points', 'state': 'closed', 'created_at': '2021-12-09T17:39:02Z', 'closed_at': '2022-02-07T22:56:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1097, 'title': 'Could I off space between numbers and operator "..."?', 'state': 'closed', 'created_at': '2021-12-09T11:09:48Z', 'closed_at': '2021-12-09T11:21:18Z', 'labels': []}
+{'issuenumber': 1096, 'title': 'New rule redundantClosure', 'state': 'closed', 'created_at': '2021-12-09T07:38:09Z', 'closed_at': '2022-01-16T13:42:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1095, 'title': '"error: Expected { on line" with a guard and a double subscript', 'state': 'closed', 'created_at': '2021-12-09T07:21:23Z', 'closed_at': '2022-02-07T16:34:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1094, 'title': 'Allman edge-case', 'state': 'closed', 'created_at': '2021-12-08T00:12:46Z', 'closed_at': '2022-02-07T22:56:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1092, 'title': 'Xcode Extension "Error: Unknown rule \'wrapMultilineStatementBraces\'"', 'state': 'closed', 'created_at': '2021-12-07T10:44:05Z', 'closed_at': '2021-12-09T01:16:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1090, 'title': 'unknown rule wrapMultilineStatementBraces', 'state': 'closed', 'created_at': '2021-12-06T03:57:52Z', 'closed_at': '2021-12-06T04:03:06Z', 'labels': []}
+{'issuenumber': 1088, 'title': 'RedundantGet breaks code if getter can throw', 'state': 'closed', 'created_at': '2021-12-03T15:39:43Z', 'closed_at': '2021-12-06T14:53:03Z', 'labels': {'name': "can't reproduce"}}
+{'issuenumber': 1087, 'title': 'Redundant warning about `--wrapparameters` option?', 'state': 'closed', 'created_at': '2021-12-02T18:03:06Z', 'closed_at': '2022-02-07T22:55:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1082, 'title': 'Parsing regression on develop', 'state': 'closed', 'created_at': '2021-11-22T18:15:28Z', 'closed_at': '2021-12-04T09:48:49Z', 'labels': {'name': 'fixed in develop'}}
+{'issuenumber': 1080, 'title': '"--xcodeindentation true" doesn\'t work as expected', 'state': 'closed', 'created_at': '2021-11-20T18:39:42Z', 'closed_at': '2021-12-04T09:49:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1078, 'title': 'In a triple-quoted string containing contiguous blank lines, an interpolated value causes loss of blank lines', 'state': 'closed', 'created_at': '2021-11-18T14:46:19Z', 'closed_at': '2021-12-04T09:49:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1076, 'title': 'RedundantReturn not working?', 'state': 'closed', 'created_at': '2021-11-16T04:35:58Z', 'closed_at': '2021-12-09T01:16:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1075, 'title': '`SwiftFormat` does not specify a Swift version (`4.2`) that is satisfied by any of targets (`name`) integrating it.', 'state': 'closed', 'created_at': '2021-11-15T08:47:37Z', 'closed_at': '2021-12-09T01:18:17Z', 'labels': []}
+{'issuenumber': 1074, 'title': 'Swiftformat 0.48.18 indentation rules changed (?)', 'state': 'closed', 'created_at': '2021-11-11T12:24:45Z', 'closed_at': '2021-11-11T16:03:42Z', 'labels': []}
+{'issuenumber': 1073, 'title': 'pre-commit githook --exclude is ignored', 'state': 'closed', 'created_at': '2021-11-11T10:16:32Z', 'closed_at': '2022-03-07T00:22:30Z', 'labels': {'name': 'fixed in develop'}}
+{'issuenumber': 1070, 'title': 'redundantSelf incorrectly removes self for instance variables after local variables.', 'state': 'closed', 'created_at': '2021-11-09T23:53:26Z', 'closed_at': '2021-12-09T01:16:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1069, 'title': 'Indention question: should multi-line strings be indented?', 'state': 'closed', 'created_at': '2021-11-09T17:05:23Z', 'closed_at': '2021-11-11T16:05:04Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1066, 'title': 'redundantSelf rule incorrectly removes self nested functions and index lookups inside autoclosure calls even when --selfrequired is present', 'state': 'closed', 'created_at': '2021-11-01T21:31:00Z', 'closed_at': '2021-11-06T16:12:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1063, 'title': 'Redundant @objc annotation is not removed in some cases', 'state': 'closed', 'created_at': '2021-10-28T10:32:46Z', 'closed_at': '2021-11-06T16:12:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1062, 'title': "Can't make a valid file list", 'state': 'closed', 'created_at': '2021-10-28T01:54:20Z', 'closed_at': '2021-11-06T16:13:06Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1061, 'title': "Error thrown for missing '{' in seemingly valid code", 'state': 'closed', 'created_at': '2021-10-28T00:41:54Z', 'closed_at': '2021-11-06T16:13:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1060, 'title': 'Xcode 13 `#if` syntax forces modifiers to over-indent', 'state': 'closed', 'created_at': '2021-10-27T23:51:21Z', 'closed_at': '2021-11-06T16:13:26Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1058, 'title': 'Redundant self inside of something that is in expect() from Nimble', 'state': 'closed', 'created_at': '2021-10-22T13:15:40Z', 'closed_at': '2021-11-06T16:13:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1055, 'title': '`preferKeypath` fix causes error "Key path value type \'Double\' cannot be converted to contextual type \'Double?\'"', 'state': 'closed', 'created_at': '2021-10-20T20:59:17Z', 'closed_at': '2021-11-05T11:25:50Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 1053, 'title': 'Add section in README.md under `How?` for rules_swiftformat', 'state': 'closed', 'created_at': '2021-10-20T14:50:02Z', 'closed_at': '2021-10-21T10:41:18Z', 'labels': []}
+{'issuenumber': 1052, 'title': 'Extension stops working after restart', 'state': 'closed', 'created_at': '2021-10-19T06:15:01Z', 'closed_at': '2021-10-20T01:26:37Z', 'labels': {'name': 'known issue'}}
+{'issuenumber': 1045, 'title': 'Enum pattern matching in if/guard statement breaks redundantArguments rule', 'state': 'closed', 'created_at': '2021-10-15T18:16:11Z', 'closed_at': '2021-10-18T08:42:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1043, 'title': 'trailingCommas rule adds extra commas to closure capture list', 'state': 'closed', 'created_at': '2021-10-14T02:39:19Z', 'closed_at': '2021-10-18T08:42:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1042, 'title': 'Incorrect `--elseposition` for labeled trailing closures.', 'state': 'closed', 'created_at': '2021-10-11T17:40:45Z', 'closed_at': '2021-10-12T19:49:26Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1041, 'title': 'Indentation regression after try? on new line after open paren', 'state': 'closed', 'created_at': '2021-10-11T16:44:24Z', 'closed_at': '2021-10-12T19:49:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1040, 'title': 'Extra indentation after closing brace of trailing closure', 'state': 'closed', 'created_at': '2021-10-11T16:30:29Z', 'closed_at': '2021-10-12T19:49:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1038, 'title': 'Unexpected Indentation', 'state': 'closed', 'created_at': '2021-10-11T07:58:03Z', 'closed_at': '2021-10-12T19:50:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1037, 'title': 'redundantSelf rule causes Xcode warning in array extension call to min() and max()', 'state': 'closed', 'created_at': '2021-10-09T11:03:30Z', 'closed_at': '2021-11-06T15:45:14Z', 'labels': {'name': "can't reproduce"}}
+{'issuenumber': 1035, 'title': 'redundantGet breaks code with effectful getters, e.g. `get async`', 'state': 'closed', 'created_at': '2021-10-07T22:02:11Z', 'closed_at': '2021-10-08T07:41:40Z', 'labels': []}
+{'issuenumber': 1034, 'title': "Question: what's the rule name of replacing `struct` with `enum`?", 'state': 'closed', 'created_at': '2021-10-07T16:18:04Z', 'closed_at': '2021-10-07T16:21:36Z', 'labels': []}
+{'issuenumber': 1032, 'title': 'redundantSelf breaks older swift versions', 'state': 'closed', 'created_at': '2021-10-07T10:15:46Z', 'closed_at': '2021-10-08T23:19:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1031, 'title': 'swiftformat:disable:next is broken', 'state': 'closed', 'created_at': '2021-10-07T07:55:22Z', 'closed_at': '2021-10-08T23:19:26Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1030, 'title': 'False detection of unused parameter.', 'state': 'closed', 'created_at': '2021-10-06T16:20:18Z', 'closed_at': '2021-10-08T23:19:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1029, 'title': '"self." wrongly removed', 'state': 'closed', 'created_at': '2021-10-05T21:06:55Z', 'closed_at': '2021-10-07T07:59:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1027, 'title': 'More lenient comment parsing for `swiftformat:` directives', 'state': 'closed', 'created_at': '2021-10-05T19:32:31Z', 'closed_at': '2021-10-08T23:20:30Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1026, 'title': '`trailingClosures` mangles generic type cast parameters.', 'state': 'closed', 'created_at': '2021-10-05T19:18:22Z', 'closed_at': '2021-10-18T08:42:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1022, 'title': 'Indent regression in 0.48.5', 'state': 'closed', 'created_at': '2021-10-05T07:10:04Z', 'closed_at': '2021-10-08T23:19:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1021, 'title': '0.48.12 is not compatible with Mint package manager', 'state': 'closed', 'created_at': '2021-10-04T20:22:02Z', 'closed_at': '2021-10-05T07:10:37Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1020, 'title': "Potentially don't wrap within string interpolation in multiline string literals?", 'state': 'closed', 'created_at': '2021-10-04T18:30:12Z', 'closed_at': '2021-10-22T16:55:29Z', 'labels': {'name': 'not a bug'}}
+{'issuenumber': 1019, 'title': 'Indent regression after multi-line argument value', 'state': 'closed', 'created_at': '2021-10-04T17:20:18Z', 'closed_at': '2021-10-07T08:00:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1018, 'title': 'Indent regression after closure in 0.48.12', 'state': 'closed', 'created_at': '2021-10-04T17:04:19Z', 'closed_at': '2021-10-05T07:09:22Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1017, 'title': 'Unused argument warning is too eager', 'state': 'closed', 'created_at': '2021-10-04T04:59:03Z', 'closed_at': '2021-10-05T07:08:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1011, 'title': "Comments on the same line as a enum case don't get sorted alongside cases when enabling wrapEnumCases", 'state': 'closed', 'created_at': '2021-09-28T10:18:31Z', 'closed_at': '2021-10-03T14:05:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1009, 'title': 'Xcode 13.0 warning no such SDK: macosx', 'state': 'closed', 'created_at': '2021-09-26T06:56:16Z', 'closed_at': '2021-10-03T14:04:51Z', 'labels': {'name': 'fixed in develop'}}
+{'issuenumber': 1002, 'title': '`case some(Void)` is formatted as `case someVoid`', 'state': 'closed', 'created_at': '2021-09-21T16:21:47Z', 'closed_at': '2021-10-03T14:04:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 999, 'title': 'redundantParens rule regression with ... operator', 'state': 'closed', 'created_at': '2021-09-17T17:16:26Z', 'closed_at': '2021-09-28T18:10:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 996, 'title': '[Feature Request] “\\(string)” -> string', 'state': 'closed', 'created_at': '2021-09-11T16:12:57Z', 'closed_at': '2021-09-11T16:29:42Z', 'labels': []}
+{'issuenumber': 988, 'title': 'Removing `self` causes confusion between global method and instance method', 'state': 'closed', 'created_at': '2021-08-13T11:59:12Z', 'closed_at': '2021-10-03T14:03:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 987, 'title': 'Excess whitespaces when formatting SwiftUI code', 'state': 'closed', 'created_at': '2021-08-11T14:02:50Z', 'closed_at': '2021-10-03T14:01:10Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 985, 'title': 'How to change decimalgrouping value?', 'state': 'closed', 'created_at': '2021-08-04T08:51:35Z', 'closed_at': '2021-08-04T08:56:22Z', 'labels': []}
+{'issuenumber': 983, 'title': '`redundantSelf` breaks extensions of types with `@dynamicMemberLookup`', 'state': 'closed', 'created_at': '2021-07-29T23:32:42Z', 'closed_at': '2021-10-03T13:59:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 982, 'title': 'self not inserted in init when using `--self init-only`', 'state': 'closed', 'created_at': '2021-07-29T23:07:45Z', 'closed_at': '2021-10-03T13:57:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 981, 'title': 'Is there a rule to format associated value bindings in enums?', 'state': 'closed', 'created_at': '2021-07-23T10:36:07Z', 'closed_at': '2021-07-24T15:32:07Z', 'labels': []}
+{'issuenumber': 980, 'title': 'shortoptionals breaks composite types', 'state': 'closed', 'created_at': '2021-07-22T08:58:13Z', 'closed_at': '2021-07-26T09:21:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 979, 'title': 'Shadowed parameter is not marked with underscore', 'state': 'closed', 'created_at': '2021-07-22T08:35:43Z', 'closed_at': '2021-10-03T13:56:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 978, 'title': '"Expected {" error during formatting a certain expression', 'state': 'closed', 'created_at': '2021-07-19T13:12:21Z', 'closed_at': '2021-07-19T23:09:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 977, 'title': 'method which name is underscore cannot use.', 'state': 'closed', 'created_at': '2021-07-18T11:01:03Z', 'closed_at': '2021-07-18T22:56:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 976, 'title': 'Overloaded operator functions get an extra space between the name and parenthesis', 'state': 'closed', 'created_at': '2021-07-17T17:14:24Z', 'closed_at': '2021-07-18T01:55:29Z', 'labels': {'name': 'not a bug'}}
+{'issuenumber': 975, 'title': '--self init-only directive causes error: Unexpected class/static func with static class function', 'state': 'closed', 'created_at': '2021-07-16T13:40:15Z', 'closed_at': '2021-07-18T22:56:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 971, 'title': 'Incorrectly removing parens from negated Bools since 0.48.7', 'state': 'closed', 'created_at': '2021-07-09T06:48:26Z', 'closed_at': '2021-07-09T18:14:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 970, 'title': '0.48.7: redundantParens remove necessary parens around operators', 'state': 'closed', 'created_at': '2021-07-08T14:57:57Z', 'closed_at': '2021-07-08T17:54:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 969, 'title': 'Breaks `PreviewProvider` live update', 'state': 'closed', 'created_at': '2021-07-08T03:16:21Z', 'closed_at': '2021-07-08T03:21:10Z', 'labels': []}
+{'issuenumber': 968, 'title': 'Incorrect removal of parentheses with ranges', 'state': 'closed', 'created_at': '2021-07-06T21:30:57Z', 'closed_at': '2021-07-07T22:03:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 967, 'title': '`unowned(unsafe)` transformed to `unowned(_)` in closures', 'state': 'closed', 'created_at': '2021-07-05T19:43:43Z', 'closed_at': '2021-07-07T22:03:21Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 966, 'title': 'document (and consider changing) exit codes', 'state': 'closed', 'created_at': '2021-07-02T23:57:50Z', 'closed_at': '2021-07-07T22:04:36Z', 'labels': {'name': 'question'}}
+{'issuenumber': 965, 'title': 'trailing closure indent changed from 0.48.4 to 0.48.6', 'state': 'closed', 'created_at': '2021-07-01T09:15:11Z', 'closed_at': '2021-07-07T22:03:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 963, 'title': "Wrap function's final Parenthesis", 'state': 'closed', 'created_at': '2021-06-23T19:01:54Z', 'closed_at': '2021-06-24T18:01:16Z', 'labels': []}
+{'issuenumber': 960, 'title': '--typeAttributes seems to be ignored for class', 'state': 'closed', 'created_at': '2021-06-17T21:02:17Z', 'closed_at': '2021-06-22T14:04:27Z', 'labels': []}
+{'issuenumber': 959, 'title': 'TODOs in docstrings should be preserved', 'state': 'closed', 'created_at': '2021-06-17T20:06:40Z', 'closed_at': '2021-06-24T06:43:52Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 958, 'title': 'Bug - variables named actor break formatting', 'state': 'closed', 'created_at': '2021-06-16T14:11:11Z', 'closed_at': '2021-06-24T06:43:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 951, 'title': 'Closure indentation regression when using --closingparen same-line', 'state': 'closed', 'created_at': '2021-06-04T17:20:15Z', 'closed_at': '2021-06-15T23:53:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 950, 'title': 'spaceAroundParens wants to remove space between capture list and params in closure', 'state': 'closed', 'created_at': '2021-06-03T21:59:01Z', 'closed_at': '2021-06-15T23:53:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 949, 'title': 'Extra space between generic params and result builder', 'state': 'closed', 'created_at': '2021-06-03T20:38:36Z', 'closed_at': '2021-06-15T23:53:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 947, 'title': 'Add rule to replace CGFloat with Double in Swift 5.5 and above', 'state': 'closed', 'created_at': '2021-05-29T08:58:29Z', 'closed_at': '2021-12-07T23:59:44Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 946, 'title': 'Possible bug in indent rule', 'state': 'closed', 'created_at': '2021-05-29T03:57:21Z', 'closed_at': '2021-05-29T08:26:59Z', 'labels': {'name': 'not a bug'}}
+{'issuenumber': 944, 'title': 'Multiline statements in conditionals unindented unexpectedly', 'state': 'closed', 'created_at': '2021-05-28T17:28:44Z', 'closed_at': '2021-05-30T07:33:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 941, 'title': '`typeSugar` rule breaks build when sugaring protocol composition', 'state': 'closed', 'created_at': '2021-05-20T16:13:26Z', 'closed_at': '2021-05-22T21:18:47Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 940, 'title': '`hoistPatternLet --patternlet inline` rule changes switch case from `nil` to `let nil`', 'state': 'closed', 'created_at': '2021-05-19T21:59:28Z', 'closed_at': '2021-05-22T21:18:58Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 938, 'title': 'exclude option from config file is ignored when run for single file with githook', 'state': 'closed', 'created_at': '2021-05-17T10:46:21Z', 'closed_at': '2021-05-22T21:20:21Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 934, 'title': 'Generic attributes wrapped on generic clause with wrapAttributes --varattribbutes prev-line ', 'state': 'closed', 'created_at': '2021-05-14T01:55:31Z', 'closed_at': '2021-05-16T16:38:58Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 929, 'title': 'No empty line before //MARK after class', 'state': 'closed', 'created_at': '2021-05-13T08:14:22Z', 'closed_at': '2021-05-14T09:51:06Z', 'labels': {'name': 'not a bug'}}
+{'issuenumber': 927, 'title': 'Trailing comma in multiline Array property', 'state': 'closed', 'created_at': '2021-05-10T22:49:48Z', 'closed_at': '2021-05-16T16:39:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 925, 'title': 'Optional<Any> to Any? causes conformance error', 'state': 'closed', 'created_at': '2021-05-04T23:39:26Z', 'closed_at': '2021-05-08T08:04:10Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 924, 'title': 'sortedKeys is only available in iOS 11.0 or newer', 'state': 'closed', 'created_at': '2021-05-04T21:11:30Z', 'closed_at': '2021-05-08T08:04:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 923, 'title': 'Multipart attributes wrapped on dot with wrapAttributes --varattribbutes prev-line', 'state': 'closed', 'created_at': '2021-05-04T15:54:40Z', 'closed_at': '2021-05-08T08:04:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 922, 'title': 'redundantReturn causes build failure', 'state': 'closed', 'created_at': '2021-05-04T00:07:53Z', 'closed_at': '2021-05-08T08:05:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 920, 'title': 'Literal support for redundantType ', 'state': 'closed', 'created_at': '2021-05-03T19:46:27Z', 'closed_at': '2021-12-08T00:00:38Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 919, 'title': 'redundantType rule causes build failure', 'state': 'closed', 'created_at': '2021-05-03T19:01:44Z', 'closed_at': '2021-05-08T08:10:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 917, 'title': 'Using --filelist reads config per each file', 'state': 'closed', 'created_at': '2021-04-29T10:35:45Z', 'closed_at': '2021-05-08T08:11:09Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 916, 'title': 'Option "wrapMultilineStatementBraces" don\'t work properly', 'state': 'closed', 'created_at': '2021-04-28T13:29:27Z', 'closed_at': '2021-05-04T15:56:42Z', 'labels': {'name': 'not a bug'}}
+{'issuenumber': 914, 'title': 'Unexpected comma separator with nested array index access', 'state': 'closed', 'created_at': '2021-04-27T22:24:10Z', 'closed_at': '2021-05-08T08:12:05Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 911, 'title': 'Extra space between generic params and result bulder', 'state': 'closed', 'created_at': '2021-04-22T16:30:18Z', 'closed_at': '2021-05-08T08:12:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 909, 'title': 'Trailing closure indentation issue', 'state': 'closed', 'created_at': '2021-04-22T10:20:39Z', 'closed_at': '2021-05-08T08:12:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 907, 'title': 'Control wrapping of trailing square bracket independently of --wrapcollections setting', 'state': 'closed', 'created_at': '2021-04-21T10:04:20Z', 'closed_at': '2021-04-26T10:20:13Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 906, 'title': '"if case" statements with multiple conditions are not handled properly', 'state': 'closed', 'created_at': '2021-04-20T09:07:55Z', 'closed_at': '2021-04-21T08:17:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 903, 'title': "--exclude doesn't work with relative directory", 'state': 'closed', 'created_at': '2021-04-13T21:29:19Z', 'closed_at': '2021-04-21T08:17:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 901, 'title': 'fileHeader rule breaks swift scripts', 'state': 'closed', 'created_at': '2021-04-13T08:44:07Z', 'closed_at': '2021-04-21T08:18:08Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 897, 'title': "`redundantParens` doesn't remove parens around a single closure arg", 'state': 'closed', 'created_at': '2021-04-07T18:06:22Z', 'closed_at': '2021-04-21T08:18:22Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 896, 'title': "Case let in guard doesn't work correctly", 'state': 'closed', 'created_at': '2021-04-05T19:32:16Z', 'closed_at': '2021-04-21T08:18:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 895, 'title': 'redundantSelf False positive with guard case using full enum name', 'state': 'closed', 'created_at': '2021-04-05T09:57:19Z', 'closed_at': '2021-04-21T08:18:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 894, 'title': 'Ability to copy-paste my `.swiftformat` config\'s contents into the Xcode editor, and have that "apply" all the checkboxes accordingly', 'state': 'closed', 'created_at': '2021-04-02T23:11:41Z', 'closed_at': '2021-06-08T21:02:11Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 893, 'title': 'fileHeader on SwiftFormat for Xcode', 'state': 'closed', 'created_at': '2021-04-01T16:53:13Z', 'closed_at': '2021-04-21T08:19:10Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 891, 'title': 'Cannot build this project in XCode', 'state': 'closed', 'created_at': '2021-03-30T16:10:02Z', 'closed_at': '2021-03-31T13:34:32Z', 'labels': []}
+{'issuenumber': 890, 'title': 'Support for JSON output', 'state': 'closed', 'created_at': '2021-03-30T12:08:29Z', 'closed_at': '2021-04-21T08:19:24Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 888, 'title': '[Feature Request] Wrapping of ternary operator when `--maxwidth` is used', 'state': 'closed', 'created_at': '2021-03-23T18:23:46Z', 'closed_at': '2021-12-08T00:01:04Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 885, 'title': 'Incorrect comma insertion in dictionary definition when line wrapping', 'state': 'closed', 'created_at': '2021-03-19T20:35:19Z', 'closed_at': '2021-03-22T19:17:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 883, 'title': 'Inappropriate behavior of "Override methods which only call super"', 'state': 'closed', 'created_at': '2021-03-12T11:09:13Z', 'closed_at': '2021-03-12T16:37:59Z', 'labels': []}
+{'issuenumber': 882, 'title': 'Indentation wrong in a commented method call chain', 'state': 'closed', 'created_at': '2021-03-12T08:30:41Z', 'closed_at': '2021-03-22T19:18:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 879, 'title': 'Possible regression in closure parameters', 'state': 'closed', 'created_at': '2021-03-05T09:59:33Z', 'closed_at': '2021-03-22T19:18:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 875, 'title': 'The `redundantNilInit` rule fails on properties in a struct', 'state': 'closed', 'created_at': '2021-03-01T07:58:29Z', 'closed_at': '2021-03-27T15:25:33Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 869, 'title': 'Void.self should not be converted to ().self with `--voidtype tuple`', 'state': 'closed', 'created_at': '2021-02-23T20:21:05Z', 'closed_at': '2021-03-22T19:18:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 866, 'title': "Can't checkout repo on Windows", 'state': 'closed', 'created_at': '2021-02-18T12:45:53Z', 'closed_at': '2021-02-20T13:08:07Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 865, 'title': 'Add an option to print warning for specific rule in format mode too', 'state': 'closed', 'created_at': '2021-02-18T09:14:01Z', 'closed_at': '2021-03-20T15:38:51Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 864, 'title': '@dynamicMemberLookup needs `self` to access members, clashes with redudantSelf.', 'state': 'closed', 'created_at': '2021-02-12T13:46:26Z', 'closed_at': '2021-02-23T02:01:14Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 863, 'title': 'Extend known tokens for  `preferKeyPath` ', 'state': 'closed', 'created_at': '2021-02-09T12:56:45Z', 'closed_at': '2021-04-21T08:20:02Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 862, 'title': 'A way to disable all rules by default?', 'state': 'closed', 'created_at': '2021-02-07T19:54:08Z', 'closed_at': '2021-02-08T04:02:41Z', 'labels': []}
+{'issuenumber': 861, 'title': 'Rule to configure/disable async/await behavior', 'state': 'closed', 'created_at': '2021-02-03T12:07:39Z', 'closed_at': '2021-02-23T02:01:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 860, 'title': 'Linux binary releases', 'state': 'closed', 'created_at': '2021-02-02T13:09:53Z', 'closed_at': '2021-05-08T08:54:51Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 858, 'title': 'Bug with xcodeindentation for chained operators', 'state': 'closed', 'created_at': '2021-01-30T01:44:29Z', 'closed_at': '2021-02-23T02:02:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 857, 'title': 'convenience seems to disable --rules wrapAttributes --funcattributes prev-line', 'state': 'closed', 'created_at': '2021-01-27T18:27:26Z', 'closed_at': '2021-01-29T19:56:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 856, 'title': 'private(set) seems to disable --rules wrapAttributes --varattributes prev-line', 'state': 'closed', 'created_at': '2021-01-27T17:18:10Z', 'closed_at': '2021-01-29T19:56:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 855, 'title': 'Feature Request: Xcode 12 indentation', 'state': 'closed', 'created_at': '2021-01-26T16:12:07Z', 'closed_at': '2021-01-26T18:52:26Z', 'labels': []}
+{'issuenumber': 854, 'title': 'Question', 'state': 'closed', 'created_at': '2021-01-26T14:11:31Z', 'closed_at': '2021-02-03T00:40:36Z', 'labels': []}
+{'issuenumber': 853, 'title': 'False positive `self.` insertion', 'state': 'closed', 'created_at': '2021-01-22T20:44:15Z', 'closed_at': '2021-01-29T19:56:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 851, 'title': 'Rule request: unneeded_parentheses_in_closure_argument', 'state': 'closed', 'created_at': '2021-01-19T17:04:50Z', 'closed_at': '2021-01-30T01:35:23Z', 'labels': {'name': 'info needed'}}
+{'issuenumber': 848, 'title': 'Issue with multi-line expression in guard statement using --xcodeindentation enabled', 'state': 'closed', 'created_at': '2021-01-11T17:59:44Z', 'closed_at': '2021-01-29T19:55:40Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 847, 'title': 'switch case indentation formatting broken in ifdefs', 'state': 'closed', 'created_at': '2021-01-08T18:42:05Z', 'closed_at': '2021-02-23T02:02:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 846, 'title': 'spaceAroundOperators keypaths false positive', 'state': 'closed', 'created_at': '2021-01-07T20:20:20Z', 'closed_at': '2021-01-29T19:55:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 845, 'title': 'Possible bug in wrapArguments', 'state': 'closed', 'created_at': '2021-01-07T17:02:52Z', 'closed_at': '2021-01-29T19:55:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 843, 'title': "--nospaceoperators doesn't work with closure RHS (and maybe LHS)", 'state': 'closed', 'created_at': '2021-01-06T10:07:08Z', 'closed_at': '2021-01-08T13:08:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 842, 'title': "error: 'ranges' is not a formatting rule. Did you mean 'spaceAroundOperators'?", 'state': 'closed', 'created_at': '2021-01-06T05:02:21Z', 'closed_at': '2021-01-08T02:13:43Z', 'labels': []}
+{'issuenumber': 840, 'title': 'Sensible defaults', 'state': 'closed', 'created_at': '2021-01-02T17:02:05Z', 'closed_at': '2021-02-22T23:10:08Z', 'labels': {'name': 'info needed'}}
+{'issuenumber': 838, 'title': 'Disable a rule for a single line, a block of code etc.', 'state': 'closed', 'created_at': '2020-12-26T14:58:18Z', 'closed_at': '2020-12-26T22:06:48Z', 'labels': []}
+{'issuenumber': 837, 'title': 'Invalid fileprivate replacements', 'state': 'closed', 'created_at': '2020-12-26T04:24:01Z', 'closed_at': '2020-12-28T14:31:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 834, 'title': 'Prevent Automatic Formatting On Build', 'state': 'closed', 'created_at': '2020-12-23T19:22:51Z', 'closed_at': '2020-12-24T14:25:15Z', 'labels': []}
+{'issuenumber': 833, 'title': "Don't format sourcery inline code", 'state': 'closed', 'created_at': '2020-12-16T11:01:12Z', 'closed_at': '2020-12-28T14:31:42Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 830, 'title': 'spaceAroundParens adds space between [] and () when constructing arrays', 'state': 'closed', 'created_at': '2020-12-15T08:04:39Z', 'closed_at': '2020-12-24T19:25:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 829, 'title': 'SortedSwitchCases Bug?', 'state': 'closed', 'created_at': '2020-12-14T12:02:10Z', 'closed_at': '2020-12-24T19:25:45Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 827, 'title': 'RedundantFileprivate Rule Breaking for XCTest Extension.', 'state': 'closed', 'created_at': '2020-12-10T13:25:28Z', 'closed_at': '2020-12-10T22:54:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 826, 'title': 'FilePrivate Rule is Breaking an init()', 'state': 'closed', 'created_at': '2020-12-09T20:48:28Z', 'closed_at': '2020-12-09T23:26:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 823, 'title': "Can't run Command-line tool on iTerm2 with Apple Silicon Mac", 'state': 'closed', 'created_at': '2020-12-03T20:14:52Z', 'closed_at': '2020-12-08T20:50:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 822, 'title': 'Block is recognized as single line even when there is code after return in the first line', 'state': 'closed', 'created_at': '2020-12-03T14:43:30Z', 'closed_at': '2020-12-08T20:50:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 821, 'title': 'SortedSwitchCases Bug', 'state': 'closed', 'created_at': '2020-12-03T11:47:39Z', 'closed_at': '2020-12-08T20:51:10Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 820, 'title': 'trailingClosure enhancement for Quick/Nimble', 'state': 'closed', 'created_at': '2020-12-01T21:56:11Z', 'closed_at': '2020-12-08T20:51:27Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 819, 'title': 'Transforming `private` into `fileprivate` making confusing sometimes', 'state': 'closed', 'created_at': '2020-12-01T06:41:13Z', 'closed_at': '2020-12-17T11:16:38Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 816, 'title': 'Add explicit-type option for Redundant Type rule', 'state': 'closed', 'created_at': '2020-11-25T20:11:56Z', 'closed_at': '2020-11-27T19:44:14Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 815, 'title': 'SortedSwitchCases Bug?', 'state': 'closed', 'created_at': '2020-11-25T13:48:53Z', 'closed_at': '2020-11-27T19:39:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 814, 'title': 'Removal of non-redundant fileprivate', 'state': 'closed', 'created_at': '2020-11-25T13:37:39Z', 'closed_at': '2020-11-27T19:39:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 812, 'title': 'Binary size doubled', 'state': 'closed', 'created_at': '2020-11-25T11:14:57Z', 'closed_at': '2020-11-25T11:22:50Z', 'labels': []}
+{'issuenumber': 811, 'title': 'EnumNamespaces Rule Issue?', 'state': 'closed', 'created_at': '2020-11-24T14:25:09Z', 'closed_at': '2020-11-27T19:39:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 807, 'title': "Reading files even if it's excluded", 'state': 'closed', 'created_at': '2020-11-20T20:28:00Z', 'closed_at': '2020-11-27T19:38:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 805, 'title': 'Make actual "releases" on GitHub?', 'state': 'closed', 'created_at': '2020-11-18T00:28:39Z', 'closed_at': '2020-11-19T21:55:31Z', 'labels': []}
+{'issuenumber': 804, 'title': 'Bug: "SwiftFormat for Xcode" does not work on Big Sur 11.0.1 and Xcode 12.2 (12B45b)', 'state': 'closed', 'created_at': '2020-11-15T08:43:55Z', 'closed_at': '2020-11-20T07:11:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 801, 'title': 'markTypes incorrectly treating import statement as type definition', 'state': 'closed', 'created_at': '2020-11-13T16:41:55Z', 'closed_at': '2020-11-16T07:48:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 800, 'title': '在macOS11上失效', 'state': 'closed', 'created_at': '2020-11-13T16:21:39Z', 'closed_at': '2020-11-15T08:54:17Z', 'labels': {'name': 'info needed'}}
+{'issuenumber': 799, 'title': 'Exclude path with whitespace', 'state': 'closed', 'created_at': '2020-11-13T03:16:37Z', 'closed_at': '2020-11-13T12:56:46Z', 'labels': []}
+{'issuenumber': 798, 'title': '[Header flag] header flag is not working as expected', 'state': 'closed', 'created_at': '2020-11-10T22:27:50Z', 'closed_at': '2020-11-15T09:24:49Z', 'labels': {'name': 'not a bug'}}
+{'issuenumber': 794, 'title': 'Extension of internal protocol cannot be declared public', 'state': 'closed', 'created_at': '2020-11-09T12:52:46Z', 'closed_at': '2020-11-09T23:39:18Z', 'labels': {'name': 'fixed in develop'}}
+{'issuenumber': 793, 'title': 'Can I insert two lines by using blankLinesBetweenScopes rule?', 'state': 'closed', 'created_at': '2020-11-08T06:04:34Z', 'closed_at': '2020-11-11T01:57:30Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 792, 'title': 'Formatting switch case body break indentation [0.47.2]', 'state': 'closed', 'created_at': '2020-11-06T21:32:36Z', 'closed_at': '2020-11-09T23:39:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 791, 'title': 'Opinionated Format', 'state': 'closed', 'created_at': '2020-11-05T12:24:12Z', 'closed_at': '2020-11-10T09:35:54Z', 'labels': {'name': 'info needed'}}
+{'issuenumber': 790, 'title': 'Extend trailingClosures/allman Rule for Brace Position.', 'state': 'closed', 'created_at': '2020-11-05T12:13:23Z', 'closed_at': '2020-11-09T23:40:17Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 789, 'title': 'Regression since 0.47.2', 'state': 'closed', 'created_at': '2020-11-05T06:36:47Z', 'closed_at': '2020-11-16T07:49:14Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 788, 'title': '0.47.2 Changing struct to enum, which cannot be constructed because it has no accessible initializers', 'state': 'closed', 'created_at': '2020-11-03T01:51:45Z', 'closed_at': '2020-11-09T23:40:49Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 786, 'title': 'Possible code breaking change in guard/if case let statements', 'state': 'closed', 'created_at': '2020-10-28T20:10:39Z', 'closed_at': '2020-10-30T11:19:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 785, 'title': 'Invalid rules in .swiftformat file are treated as warning rather than error', 'state': 'closed', 'created_at': '2020-10-28T10:51:56Z', 'closed_at': '2020-10-30T11:20:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 784, 'title': 'Recent change is hoisting "private(set)" left past "static" which is 😿. ', 'state': 'closed', 'created_at': '2020-10-28T08:30:10Z', 'closed_at': '2020-10-29T13:58:40Z', 'labels': {'name': 'not a bug'}}
+{'issuenumber': 782, 'title': 'elseOnSameLine unexpectedly wrapping else keyword despite using --elseposition same-line', 'state': 'closed', 'created_at': '2020-10-26T16:40:03Z', 'closed_at': '2020-11-09T23:41:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 780, 'title': 'Crash since updating to 0.47.0', 'state': 'closed', 'created_at': '2020-10-19T22:48:11Z', 'closed_at': '2020-10-26T09:17:47Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 779, 'title': '[Bug] Swift format public modifier breaks extension to class ', 'state': 'closed', 'created_at': '2020-10-19T18:05:32Z', 'closed_at': '2020-11-09T23:41:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 774, 'title': 'Found a crash with `--header` rule', 'state': 'closed', 'created_at': '2020-10-18T09:48:15Z', 'closed_at': '2020-10-26T09:19:02Z', 'labels': {'name': 'fixed in develop'}}
+{'issuenumber': 773, 'title': 'wrapArguments unexpectedly inserting spaces in 0.47', 'state': 'closed', 'created_at': '2020-10-15T20:15:25Z', 'closed_at': '2020-10-26T09:19:14Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 772, 'title': 'Option to preserve previous behavior for indent rule', 'state': 'closed', 'created_at': '2020-10-15T19:56:09Z', 'closed_at': '2020-10-30T10:42:17Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 771, 'title': "`// swiftformat:disable` doesn't affect extensionAccessControl", 'state': 'closed', 'created_at': '2020-10-15T10:48:12Z', 'closed_at': '2020-10-30T11:20:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 770, 'title': 'K&R variant 1TBS for brace', 'state': 'closed', 'created_at': '2020-10-13T08:02:38Z', 'closed_at': '2020-10-13T09:33:01Z', 'labels': []}
+{'issuenumber': 768, 'title': 'Applying SwiftFormat to a `case let` binding breaks code', 'state': 'closed', 'created_at': '2020-10-09T08:44:29Z', 'closed_at': '2020-10-30T11:21:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 767, 'title': 'Inconsistent white space for template XCode SwiftUI project straight out of the box', 'state': 'closed', 'created_at': '2020-10-08T03:32:02Z', 'closed_at': '2020-10-15T00:16:45Z', 'labels': {'name': 'fixed in develop'}}
+{'issuenumber': 765, 'title': 'Bug in spaceInsideComments rule', 'state': 'closed', 'created_at': '2020-10-06T02:54:10Z', 'closed_at': '2020-11-16T07:49:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 761, 'title': 'space inserted on type cast <>', 'state': 'closed', 'created_at': '2020-10-01T19:34:34Z', 'closed_at': '2020-10-15T00:20:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 760, 'title': '`weak` keyword is added automatically during variable declaration', 'state': 'closed', 'created_at': '2020-09-30T09:09:45Z', 'closed_at': '2020-09-30T09:51:07Z', 'labels': []}
+{'issuenumber': 759, 'title': 'Issues with new markTypes rule', 'state': 'closed', 'created_at': '2020-09-29T18:46:14Z', 'closed_at': '2020-10-04T11:15:42Z', 'labels': {'name': 'fixed in develop'}}
+{'issuenumber': 757, 'title': 'extensionAccessControl unexpectedly places visibility keyword before annotations', 'state': 'closed', 'created_at': '2020-09-28T19:56:29Z', 'closed_at': '2020-09-29T17:03:47Z', 'labels': []}
+{'issuenumber': 754, 'title': 'Bug in sortedImports rule', 'state': 'closed', 'created_at': '2020-09-25T20:01:36Z', 'closed_at': '2020-11-16T07:50:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 752, 'title': 'Redundant Self : self not remove in specific case', 'state': 'closed', 'created_at': '2020-09-25T14:30:27Z', 'closed_at': '2021-10-03T13:55:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 751, 'title': 'Color literals', 'state': 'closed', 'created_at': '2020-09-25T09:47:59Z', 'closed_at': '2020-10-15T00:24:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 748, 'title': 'Multi-line closure parameters cause closure contents to be indented incorrectly', 'state': 'closed', 'created_at': '2020-09-21T22:57:57Z', 'closed_at': '2020-11-09T23:42:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 744, 'title': 'Update indent rule behavior to match Xcode 12', 'state': 'closed', 'created_at': '2020-09-20T16:41:43Z', 'closed_at': '2020-10-26T09:20:02Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 740, 'title': "IBOutlet variables get 'weak' removed from declaration", 'state': 'closed', 'created_at': '2020-09-15T00:19:31Z', 'closed_at': '2020-09-15T13:48:03Z', 'labels': {'name': 'not a bug'}}
+{'issuenumber': 739, 'title': 'Cant disable `redundantSelf` rule', 'state': 'closed', 'created_at': '2020-09-09T11:22:03Z', 'closed_at': '2020-09-09T12:26:55Z', 'labels': {'name': "can't reproduce"}}
+{'issuenumber': 738, 'title': 'Not removing type definition', 'state': 'closed', 'created_at': '2020-09-08T18:16:07Z', 'closed_at': '2020-09-08T18:43:46Z', 'labels': []}
+{'issuenumber': 736, 'title': 'Type definitions are removed in the case of ternary operators', 'state': 'closed', 'created_at': '2020-09-07T03:56:39Z', 'closed_at': '2020-09-25T22:50:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 734, 'title': 'Add Stroustrup brace indentation as an format option', 'state': 'closed', 'created_at': '2020-09-05T19:25:25Z', 'closed_at': '2020-09-05T19:35:33Z', 'labels': []}
+{'issuenumber': 733, 'title': 'Add convenienceType rule ', 'state': 'closed', 'created_at': '2020-09-04T21:52:14Z', 'closed_at': '2020-10-15T00:25:05Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 732, 'title': 'Possible bug in spaceAroundOperators', 'state': 'closed', 'created_at': '2020-09-04T17:20:32Z', 'closed_at': '2020-09-05T20:29:22Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 730, 'title': 'Pre-commit hook fails when staged file path contains space', 'state': 'closed', 'created_at': '2020-09-03T23:46:31Z', 'closed_at': '2020-09-05T20:30:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 729, 'title': 'Spaces removed when needed around > or <', 'state': 'closed', 'created_at': '2020-09-03T22:45:34Z', 'closed_at': '2020-09-05T20:29:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 728, 'title': '`organizeDeclarations` misplaces instance function in the Lifecycle category', 'state': 'closed', 'created_at': '2020-09-01T19:01:56Z', 'closed_at': '2020-09-05T20:28:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 727, 'title': 'Extend organizeDeclarations to mark protocol conformance extensions', 'state': 'closed', 'created_at': '2020-08-31T07:25:14Z', 'closed_at': '2021-04-20T22:12:18Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 725, 'title': 'Assertion failure in redundantSelf rule when using organizeDeclarations', 'state': 'closed', 'created_at': '2020-08-30T09:04:01Z', 'closed_at': '2020-08-31T08:13:47Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 722, 'title': 'Incorrect `isStartOfClosure(at:)` result for property observer block after executed closure', 'state': 'closed', 'created_at': '2020-08-29T17:53:20Z', 'closed_at': '2020-08-31T08:14:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 721, 'title': '0.46 printing out a bunch of newlines while formatting', 'state': 'closed', 'created_at': '2020-08-29T17:44:33Z', 'closed_at': '2020-08-31T08:14:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 717, 'title': 'Updated from 44 to 46 and now opening braces are on a newline', 'state': 'closed', 'created_at': '2020-08-28T21:16:56Z', 'closed_at': '2020-08-28T21:34:45Z', 'labels': []}
+{'issuenumber': 713, 'title': 'Switch @unknown case not formatted properly', 'state': 'closed', 'created_at': '2020-08-27T05:43:47Z', 'closed_at': '2020-08-28T13:48:23Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 705, 'title': 'SwiftFormat is disabled in Xcode 12 Beta 5', 'state': 'closed', 'created_at': '2020-08-19T18:41:01Z', 'closed_at': '2020-09-25T22:53:18Z', 'labels': {'name': 'known issue'}}
+{'issuenumber': 699, 'title': '"yodaConditions" shouldn\'t apply to asymmetric operators', 'state': 'closed', 'created_at': '2020-08-11T05:49:15Z', 'closed_at': '2020-08-12T00:12:36Z', 'labels': {'name': 'fixed in develop'}}
+{'issuenumber': 698, 'title': 'sortedImports borkage', 'state': 'closed', 'created_at': '2020-08-08T21:39:28Z', 'closed_at': '2020-08-09T09:42:21Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 697, 'title': 'Incorrect indent introduced in 0.45.3', 'state': 'closed', 'created_at': '2020-08-07T22:54:50Z', 'closed_at': '2020-08-09T09:42:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 696, 'title': 'Transforming trailing braces', 'state': 'closed', 'created_at': '2020-08-07T17:04:02Z', 'closed_at': '2020-08-07T18:17:52Z', 'labels': []}
+{'issuenumber': 695, 'title': 'Please keep old versions published on brew', 'state': 'closed', 'created_at': '2020-08-07T16:42:20Z', 'closed_at': '2020-08-07T22:47:01Z', 'labels': []}
+{'issuenumber': 690, 'title': "'else' in multi-line 'guard' statement loses indentation", 'state': 'closed', 'created_at': '2020-08-04T16:09:35Z', 'closed_at': '2020-08-08T08:33:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 689, 'title': "Running swift format 0.45 in the build phase lint's the .build folder in the BuildTools folder and ignores the rules set by .swiftformat", 'state': 'closed', 'created_at': '2020-08-04T13:52:16Z', 'closed_at': '2020-10-26T09:23:45Z', 'labels': {'name': "can't reproduce"}}
+{'issuenumber': 688, 'title': 'linerange issues', 'state': 'closed', 'created_at': '2020-08-04T06:20:13Z', 'closed_at': '2020-08-08T08:34:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 687, 'title': 'Unexpected class/static func after update to 0.45.2', 'state': 'closed', 'created_at': '2020-08-03T11:30:49Z', 'closed_at': '2020-08-03T21:40:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 685, 'title': 'Xcode extension ignores swiftformat:options directives', 'state': 'closed', 'created_at': '2020-08-01T21:39:03Z', 'closed_at': '2020-08-01T22:19:29Z', 'labels': []}
+{'issuenumber': 684, 'title': 'FileHeader rule replaces comment directives at start of file', 'state': 'closed', 'created_at': '2020-08-01T21:26:42Z', 'closed_at': '2020-08-08T08:34:23Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 683, 'title': '[Discussion] New file / type organization rules', 'state': 'closed', 'created_at': '2020-08-01T18:41:49Z', 'closed_at': '2020-08-16T15:50:29Z', 'labels': []}
+{'issuenumber': 682, 'title': 'backquote will be removed (using `init`)', 'state': 'closed', 'created_at': '2020-07-31T06:45:35Z', 'closed_at': '2020-08-01T15:32:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 681, 'title': '0.45 loses parameter indentation after closure', 'state': 'closed', 'created_at': '2020-07-30T02:09:05Z', 'closed_at': '2020-08-28T13:48:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 679, 'title': 'preferKeyPath breaks compound closures', 'state': 'closed', 'created_at': '2020-07-30T01:44:15Z', 'closed_at': '2020-08-05T17:57:58Z', 'labels': {'name': 'known issue'}}
+{'issuenumber': 678, 'title': 'redundantSelf removing non-redundant selfs', 'state': 'closed', 'created_at': '2020-07-23T15:21:05Z', 'closed_at': '2020-08-03T21:40:30Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 670, 'title': 'Running pre-commit hook from Xcode', 'state': 'closed', 'created_at': '2020-07-16T09:07:18Z', 'closed_at': '2020-08-09T09:42:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 665, 'title': 'Unexpected behavior for indent rule', 'state': 'closed', 'created_at': '2020-07-09T22:48:08Z', 'closed_at': '2020-07-30T01:03:14Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 664, 'title': 'Unexpected indentation behavior for wrapArguments rule', 'state': 'closed', 'created_at': '2020-07-09T21:59:36Z', 'closed_at': '2020-07-12T00:26:37Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 663, 'title': 'redundantSelf incorrectly removes self when the property is shadowed', 'state': 'closed', 'created_at': '2020-07-06T23:30:08Z', 'closed_at': '2020-07-08T04:31:51Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 662, 'title': 'Indentation of trailing closure not in line with start of closure.', 'state': 'closed', 'created_at': '2020-07-06T13:54:25Z', 'closed_at': '2020-07-12T17:38:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 661, 'title': "redundantReturn doesn't seem to work in Xcode extension", 'state': 'closed', 'created_at': '2020-07-03T11:39:56Z', 'closed_at': '2020-07-30T01:04:20Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 660, 'title': "swiftformat --rules gives a list that doesn't match what SwiftFormat app puts into a config file; confusing.", 'state': 'closed', 'created_at': '2020-06-26T00:16:07Z', 'closed_at': '2020-06-26T07:46:02Z', 'labels': {'name': 'question'}}
+{'issuenumber': 657, 'title': 'How to fix block parameter indentation?', 'state': 'closed', 'created_at': '2020-06-21T00:28:31Z', 'closed_at': '2020-07-01T23:18:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 656, 'title': 'isStartOfClosure incorrectly treats some functions as closures', 'state': 'closed', 'created_at': '2020-06-18T23:45:41Z', 'closed_at': '2020-07-01T23:18:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 655, 'title': 'redundantBackticks breaks `get` inside subscript', 'state': 'closed', 'created_at': '2020-06-18T23:43:57Z', 'closed_at': '2020-06-23T00:00:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 653, 'title': 'Old SwiftFormat for Xcode.app version 0.44.10 in newer zip archives', 'state': 'closed', 'created_at': '2020-06-12T09:10:14Z', 'closed_at': '2020-06-23T00:01:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 652, 'title': 'Unexpected `spaceInsideBraces` spacing instead of newline', 'state': 'closed', 'created_at': '2020-06-10T21:43:06Z', 'closed_at': '2020-07-01T23:18:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 651, 'title': 'Unexpected `wrap` with long string', 'state': 'closed', 'created_at': '2020-06-10T21:29:35Z', 'closed_at': '2020-07-01T23:18:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 650, 'title': 'Unexpected `wrap` with long string initializer', 'state': 'closed', 'created_at': '2020-06-10T20:44:10Z', 'closed_at': '2020-07-01T23:19:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 649, 'title': 'Unexpected indent with comment and `wrap`', 'state': 'closed', 'created_at': '2020-06-10T20:37:13Z', 'closed_at': '2020-07-12T08:17:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 648, 'title': 'Unexpected multiline string format with `wrap`', 'state': 'closed', 'created_at': '2020-06-10T20:35:07Z', 'closed_at': '2020-07-12T17:38:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 647, 'title': 'Unexpected generic wrapping with `wrap`', 'state': 'closed', 'created_at': '2020-06-10T20:29:13Z', 'closed_at': '2020-07-01T23:19:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 646, 'title': 'Unexpected reformatting with `wrap`', 'state': 'closed', 'created_at': '2020-06-10T20:21:07Z', 'closed_at': '2020-07-01T23:19:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 643, 'title': "SwiftLint's number_separator rule conflict", 'state': 'closed', 'created_at': '2020-06-10T07:19:24Z', 'closed_at': '2020-07-30T01:04:53Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 642, 'title': '--allman true does not move brace', 'state': 'closed', 'created_at': '2020-06-09T20:33:25Z', 'closed_at': '2020-07-30T01:05:11Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 640, 'title': 'Header template var "created" not correctly replaced when using pre-commit hook', 'state': 'closed', 'created_at': '2020-06-08T08:49:43Z', 'closed_at': '2020-07-12T17:40:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 639, 'title': 'Avoid raising "Malformed .swift-version file" error', 'state': 'closed', 'created_at': '2020-06-05T21:45:42Z', 'closed_at': '2020-11-09T23:43:10Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 638, 'title': 'SwiftFormat does semantically not equivalent rewrite from `(#file)` to `#file`', 'state': 'closed', 'created_at': '2020-06-04T19:43:18Z', 'closed_at': '2020-06-23T00:02:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 637, 'title': 'Exception for braces on same line', 'state': 'closed', 'created_at': '2020-06-03T18:42:08Z', 'closed_at': '2020-08-01T15:33:51Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 636, 'title': 'SwiftFormat does semantically not equal translations', 'state': 'closed', 'created_at': '2020-05-29T17:36:18Z', 'closed_at': '2020-05-31T14:14:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 635, 'title': 'SwiftFormat Adding Extra Indentation to Empty Array', 'state': 'closed', 'created_at': '2020-05-29T16:30:19Z', 'closed_at': '2020-05-31T14:16:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 632, 'title': 'Max width produces a failure when trying to wrap specific lines that have long text', 'state': 'closed', 'created_at': '2020-05-21T00:50:47Z', 'closed_at': '2020-05-23T00:41:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 629, 'title': 'Unexpected format with `wrapArguments`', 'state': 'closed', 'created_at': '2020-05-18T19:57:37Z', 'closed_at': '2020-05-23T00:41:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 628, 'title': "CommandLine.swift:744:17: warning: 'init(contentsOf:)' is deprecated", 'state': 'closed', 'created_at': '2020-05-18T13:43:22Z', 'closed_at': '2020-05-23T00:42:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 627, 'title': 'Formatting breaks code', 'state': 'closed', 'created_at': '2020-05-15T12:31:37Z', 'closed_at': '2020-05-23T00:42:23Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 626, 'title': 'Blank lines and compiler conditionals', 'state': 'closed', 'created_at': '2020-05-14T21:06:35Z', 'closed_at': '2020-05-23T00:42:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 625, 'title': 'Named enum case `let` issue', 'state': 'closed', 'created_at': '2020-05-08T20:19:51Z', 'closed_at': '2020-05-14T08:41:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 624, 'title': '`if case` broken code', 'state': 'closed', 'created_at': '2020-05-08T20:15:18Z', 'closed_at': '2020-05-14T08:40:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 622, 'title': 'Indent code in trailing closure', 'state': 'closed', 'created_at': '2020-05-06T01:02:47Z', 'closed_at': '2020-08-02T17:00:38Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 621, 'title': 'Request: redundantNilInit should preserve nil initialization for struct properties', 'state': 'closed', 'created_at': '2020-05-04T23:52:50Z', 'closed_at': '2020-05-05T21:41:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 620, 'title': 'Bug: wrap with "maxwidth" prefers wrapping before dot-accessors rather than wrapping arguments/parameters & after assignment operator', 'state': 'closed', 'created_at': '2020-05-04T20:08:38Z', 'closed_at': '2020-05-05T21:40:41Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 619, 'title': 'Multiline comments formatting breaks with 0.44.8', 'state': 'closed', 'created_at': '2020-05-04T14:50:34Z', 'closed_at': '2020-05-05T21:42:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 618, 'title': 'Feature: configurable modifier ordering...', 'state': 'closed', 'created_at': '2020-05-02T22:11:28Z', 'closed_at': '2020-05-14T08:42:49Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 616, 'title': "Shouldn't this error message to be rewritten?", 'state': 'closed', 'created_at': '2020-04-28T06:15:10Z', 'closed_at': '2020-05-01T08:52:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 615, 'title': 'Bug: wrap with "maxwidth" prefers wrapping before dot-accessors rather than wrapping arguments/parameters & after assignment operator', 'state': 'closed', 'created_at': '2020-04-27T19:13:09Z', 'closed_at': '2020-05-01T08:52:16Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 614, 'title': 'Crash when running SwiftFormat', 'state': 'closed', 'created_at': '2020-04-23T02:58:21Z', 'closed_at': '2020-05-01T08:52:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 613, 'title': 'Infinite formatting with a multi-line interpolated string', 'state': 'closed', 'created_at': '2020-04-22T08:56:26Z', 'closed_at': '2020-05-01T08:52:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 610, 'title': 'Indent rule fires on empty lines before trimwhitespace gets the chance', 'state': 'closed', 'created_at': '2020-04-16T13:29:36Z', 'closed_at': '2020-05-01T08:52:51Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 609, 'title': 'Commented out comments can produce infinite formatting. ', 'state': 'closed', 'created_at': '2020-04-16T08:37:26Z', 'closed_at': '2020-05-01T08:53:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 608, 'title': "Can't set shortcut in XCode", 'state': 'closed', 'created_at': '2020-04-15T14:41:54Z', 'closed_at': '2020-07-12T16:51:15Z', 'labels': {'name': "can't reproduce"}}
+{'issuenumber': 607, 'title': 'After format closure, then compile failed', 'state': 'closed', 'created_at': '2020-04-14T08:03:49Z', 'closed_at': '2020-05-01T08:53:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 606, 'title': 'A couple files in project are indented and outdented over and over again', 'state': 'closed', 'created_at': '2020-04-13T21:13:11Z', 'closed_at': '2020-04-25T07:50:49Z', 'labels': []}
+{'issuenumber': 602, 'title': 'Missed case by the unusedArguments rule when linting', 'state': 'closed', 'created_at': '2020-04-05T12:14:38Z', 'closed_at': '2020-05-01T08:53:22Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 596, 'title': 'property wrappers require an initialization (cannot strip nils) (version 0.44.6)', 'state': 'closed', 'created_at': '2020-04-03T20:55:25Z', 'closed_at': '2020-04-04T23:22:58Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 595, 'title': 'Feature Request: Smart Tabs', 'state': 'closed', 'created_at': '2020-04-03T18:31:32Z', 'closed_at': '2020-07-30T01:31:44Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 594, 'title': '"Failed to format any files" on second run with --config option', 'state': 'closed', 'created_at': '2020-04-03T15:28:52Z', 'closed_at': '2020-05-23T00:44:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 591, 'title': 'separate rules for function braces vs control flow braces', 'state': 'closed', 'created_at': '2020-03-31T02:17:29Z', 'closed_at': '2020-08-12T00:19:28Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 590, 'title': 'Build error manifest parse error', 'state': 'closed', 'created_at': '2020-03-30T16:54:26Z', 'closed_at': '2020-03-31T21:19:47Z', 'labels': []}
+{'issuenumber': 588, 'title': 'format.sh warnings at building project', 'state': 'closed', 'created_at': '2020-03-30T09:19:37Z', 'closed_at': '2020-03-31T22:23:02Z', 'labels': []}
+{'issuenumber': 587, 'title': 'VSCode --disable patternlet not working', 'state': 'closed', 'created_at': '2020-03-28T04:06:50Z', 'closed_at': '2020-03-29T20:38:55Z', 'labels': []}
+{'issuenumber': 584, 'title': 'Request: Replace { $0.property } with (\\.property) in Swift 5.2', 'state': 'closed', 'created_at': '2020-03-25T03:10:05Z', 'closed_at': '2020-07-30T01:32:29Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 582, 'title': 'Inconsistent formatting of closures after switch', 'state': 'closed', 'created_at': '2020-03-23T09:47:42Z', 'closed_at': '2020-04-04T23:23:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 581, 'title': 'Rules time out when running swiftformat with swift run', 'state': 'closed', 'created_at': '2020-03-23T09:11:17Z', 'closed_at': '2020-03-23T12:01:05Z', 'labels': []}
+{'issuenumber': 578, 'title': 'NSMapTable/NSHashTable/NSPointerArray  format wrong, when check empty.', 'state': 'closed', 'created_at': '2020-03-17T07:48:17Z', 'closed_at': '2020-03-17T07:55:44Z', 'labels': {'name': 'known issue'}}
+{'issuenumber': 577, 'title': '[CRASH] - Timeout when many closures exist in function', 'state': 'closed', 'created_at': '2020-03-13T06:18:22Z', 'closed_at': '2020-03-21T09:40:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 575, 'title': 'duplicateImports rule wiped out @testable import', 'state': 'closed', 'created_at': '2020-03-10T18:46:39Z', 'closed_at': '2020-03-11T01:13:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 574, 'title': 'Braces not formatted with switches containing tuples, extensions, or "required init" function.', 'state': 'closed', 'created_at': '2020-03-09T17:10:56Z', 'closed_at': '2020-03-11T01:13:57Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 571, 'title': 'addOperator not valid in config file', 'state': 'closed', 'created_at': '2020-02-27T13:57:08Z', 'closed_at': '2020-03-06T07:32:02Z', 'labels': []}
+{'issuenumber': 570, 'title': 'Small indentation regression in 0.44.4', 'state': 'closed', 'created_at': '2020-02-27T11:33:33Z', 'closed_at': '2020-03-11T01:14:30Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 569, 'title': 'propertyWrappers nested in another type are not handled correctly', 'state': 'closed', 'created_at': '2020-02-21T05:27:42Z', 'closed_at': '2020-02-27T09:22:57Z', 'labels': []}
+{'issuenumber': 568, 'title': 'Crash when exactly two \\n chars in --header', 'state': 'closed', 'created_at': '2020-02-21T01:43:44Z', 'closed_at': '2020-03-31T22:27:48Z', 'labels': {'name': 'info needed'}}
+{'issuenumber': 567, 'title': 'redundantReturn leaves empty line ', 'state': 'closed', 'created_at': '2020-02-20T19:24:35Z', 'closed_at': '2020-02-27T09:23:12Z', 'labels': []}
+{'issuenumber': 566, 'title': 'Add option for enforcing a specific style of multiline array/dictionary', 'state': 'closed', 'created_at': '2020-02-19T17:51:44Z', 'closed_at': '2020-02-19T19:00:01Z', 'labels': []}
+{'issuenumber': 565, 'title': 'Braces Not Being Formatted for Structs, Extensions, or if-statements', 'state': 'closed', 'created_at': '2020-02-18T16:46:16Z', 'closed_at': '2020-02-27T09:23:28Z', 'labels': []}
+{'issuenumber': 564, 'title': 'Incorrect formatting behavior for redundantReturn rule', 'state': 'closed', 'created_at': '2020-02-14T23:42:30Z', 'closed_at': '2020-02-20T00:42:11Z', 'labels': []}
+{'issuenumber': 562, 'title': 'Indent rule creates compile error on multi-line string arguments', 'state': 'closed', 'created_at': '2020-02-11T09:47:17Z', 'closed_at': '2020-02-20T00:42:43Z', 'labels': []}
+{'issuenumber': 561, 'title': 'Indentation breaks when having protocol conformances on multiple lines', 'state': 'closed', 'created_at': '2020-02-08T06:00:55Z', 'closed_at': '2020-03-11T01:16:05Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 560, 'title': 'Option to prefer a single space in emptyBraces', 'state': 'closed', 'created_at': '2020-02-06T19:03:20Z', 'closed_at': '2021-04-21T08:20:58Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 558, 'title': 'Redundant self rule can break String extensions using methods from NSString extensions', 'state': 'closed', 'created_at': '2020-02-05T23:27:36Z', 'closed_at': '2020-02-23T13:12:40Z', 'labels': []}
+{'issuenumber': 557, 'title': "redundantReturn doesn't support functions and getters", 'state': 'closed', 'created_at': '2020-02-05T07:29:00Z', 'closed_at': '2020-02-05T09:14:04Z', 'labels': []}
+{'issuenumber': 556, 'title': "redundantReturn removes return statement when it shouldn't", 'state': 'closed', 'created_at': '2020-02-04T12:04:46Z', 'closed_at': '2020-02-27T09:24:11Z', 'labels': []}
+{'issuenumber': 555, 'title': '"error: Failed to format any files." on second run', 'state': 'closed', 'created_at': '2020-02-04T06:36:13Z', 'closed_at': '2020-02-26T23:59:45Z', 'labels': []}
+{'issuenumber': 554, 'title': "--allman false doesn't work for computed properties", 'state': 'closed', 'created_at': '2020-02-02T12:18:09Z', 'closed_at': '2020-02-02T23:06:22Z', 'labels': []}
+{'issuenumber': 552, 'title': 'Spacing issues in documentation', 'state': 'closed', 'created_at': '2020-01-31T11:17:34Z', 'closed_at': '2020-05-01T08:53:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 551, 'title': 'Pre Commit script fails if the file has a folder with a spaces in it.', 'state': 'closed', 'created_at': '2020-01-28T14:37:27Z', 'closed_at': '2020-08-05T18:08:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 549, 'title': 'Crash when using `--maxwidth` on long function line', 'state': 'closed', 'created_at': '2020-01-28T00:09:11Z', 'closed_at': '2020-02-02T23:08:02Z', 'labels': []}
+{'issuenumber': 548, 'title': 'Fixes enum case spacing but not comment spacing', 'state': 'closed', 'created_at': '2020-01-27T23:35:58Z', 'closed_at': '2020-03-11T01:17:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 547, 'title': 'Removing `.map` parens breaks build with `?`', 'state': 'closed', 'created_at': '2020-01-27T23:33:16Z', 'closed_at': '2020-02-02T23:08:38Z', 'labels': []}
+{'issuenumber': 546, 'title': 'private and file private var braces', 'state': 'closed', 'created_at': '2020-01-27T16:22:26Z', 'closed_at': '2020-02-02T23:09:06Z', 'labels': []}
+{'issuenumber': 545, 'title': 'Error:    #if(iOS) formatted into #ifiOS', 'state': 'closed', 'created_at': '2020-01-25T13:27:43Z', 'closed_at': '2020-01-26T16:53:56Z', 'labels': []}
+{'issuenumber': 544, 'title': 'Formatting enum comparison fails', 'state': 'closed', 'created_at': '2020-01-23T23:58:56Z', 'closed_at': '2020-01-26T16:54:11Z', 'labels': []}
+{'issuenumber': 541, 'title': 'Inline disable all still applies wrap and wrapArugements with --maxwidth', 'state': 'closed', 'created_at': '2020-01-23T18:48:33Z', 'closed_at': '2020-01-26T16:54:33Z', 'labels': []}
+{'issuenumber': 540, 'title': 'False positive in redundantFileprivate rule when using type inference with initializers', 'state': 'closed', 'created_at': '2020-01-21T20:02:39Z', 'closed_at': '2020-01-26T16:54:48Z', 'labels': []}
+{'issuenumber': 539, 'title': 'Is this expected behavior of --nospaceoperators?', 'state': 'closed', 'created_at': '2020-01-18T12:01:38Z', 'closed_at': '2020-01-19T14:40:51Z', 'labels': []}
+{'issuenumber': 538, 'title': 'Double/no indentation when closure and parentheses on same line', 'state': 'closed', 'created_at': '2020-01-16T05:29:34Z', 'closed_at': '2020-08-09T09:43:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 537, 'title': 'Corner case for spaceInsideComments', 'state': 'closed', 'created_at': '2020-01-16T05:09:12Z', 'closed_at': '2020-03-06T14:40:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 536, 'title': 'xcodeindentation should not indent second line of type declaration', 'state': 'closed', 'created_at': '2020-01-15T20:06:28Z', 'closed_at': '2020-08-12T00:16:11Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 535, 'title': 'Wrap should ignore color & image literals', 'state': 'closed', 'created_at': '2020-01-15T19:28:59Z', 'closed_at': '2020-01-28T17:23:52Z', 'labels': []}
+{'issuenumber': 533, 'title': 'redundantSelf removes required self in capture when contained in if/guard let', 'state': 'closed', 'created_at': '2020-01-14T07:44:55Z', 'closed_at': '2020-01-15T23:28:55Z', 'labels': []}
+{'issuenumber': 532, 'title': 'Illegal instruction: 4 error in version 0.43.5', 'state': 'closed', 'created_at': '2020-01-14T06:13:24Z', 'closed_at': '2020-01-26T16:55:26Z', 'labels': []}
+{'issuenumber': 525, 'title': 'Indent incorrect with chaining function call', 'state': 'closed', 'created_at': '2020-01-06T21:25:58Z', 'closed_at': '2020-01-09T08:57:59Z', 'labels': []}
+{'issuenumber': 524, 'title': 'Wrap maxWidth should respect wrapArguments', 'state': 'closed', 'created_at': '2020-01-06T21:12:25Z', 'closed_at': '2020-01-12T16:17:35Z', 'labels': []}
+{'issuenumber': 522, 'title': 'Default in switch case is removed', 'state': 'closed', 'created_at': '2020-01-03T10:56:05Z', 'closed_at': '2020-01-04T11:15:26Z', 'labels': []}
+{'issuenumber': 520, 'title': 'Inconsistent whitespace in multi-line, error: Failed to format any files on 2nd run.', 'state': 'closed', 'created_at': '2020-01-02T11:17:30Z', 'closed_at': '2020-01-02T19:43:35Z', 'labels': []}
+{'issuenumber': 519, 'title': '--nospaceoperators does not accept open range', 'state': 'closed', 'created_at': '2020-01-02T10:28:47Z', 'closed_at': '2020-01-02T19:43:56Z', 'labels': []}
+{'issuenumber': 518, 'title': '“SwiftFormat for Xcode.app” can’t be opened because Apple cannot check it for malicious software.', 'state': 'closed', 'created_at': '2020-01-01T16:26:41Z', 'closed_at': '2020-01-03T10:36:05Z', 'labels': []}
+{'issuenumber': 517, 'title': 'Problem with andOperator in SwiftUI', 'state': 'closed', 'created_at': '2019-12-24T07:30:38Z', 'closed_at': '2019-12-28T00:49:55Z', 'labels': []}
+{'issuenumber': 516, 'title': 'weird line break behavior', 'state': 'closed', 'created_at': '2019-12-23T10:30:06Z', 'closed_at': '2019-12-23T11:59:58Z', 'labels': []}
+{'issuenumber': 515, 'title': 'Indentation regression in 0.43.0 when var/let type is specified', 'state': 'closed', 'created_at': '2019-12-19T07:44:23Z', 'closed_at': '2019-12-22T17:54:16Z', 'labels': []}
+{'issuenumber': 512, 'title': '.swiftformat not discovered when reading from stdin', 'state': 'closed', 'created_at': '2019-12-06T14:32:07Z', 'closed_at': '2020-08-09T09:48:53Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 511, 'title': 'Explicit self being removed in closure argument when result assigned to var', 'state': 'closed', 'created_at': '2019-12-03T14:37:36Z', 'closed_at': '2019-12-18T21:25:17Z', 'labels': []}
+{'issuenumber': 510, 'title': '[Enhancement] Prefer to keep entire statement intact when wrapping closure', 'state': 'closed', 'created_at': '2019-12-03T08:33:41Z', 'closed_at': '2019-12-31T23:48:06Z', 'labels': []}
+{'issuenumber': 509, 'title': 'Comment inden gets messed up in some places', 'state': 'closed', 'created_at': '2019-11-30T22:35:23Z', 'closed_at': '2019-12-28T00:50:38Z', 'labels': []}
+{'issuenumber': 507, 'title': '`blankLinesAtStartOfScope` rule in disabled list is not being disabled.', 'state': 'closed', 'created_at': '2019-11-29T12:42:15Z', 'closed_at': '2019-12-01T15:50:57Z', 'labels': []}
+{'issuenumber': 505, 'title': 'maxwidth adding trailing comma to Dictionary type sugar syntax', 'state': 'closed', 'created_at': '2019-11-26T03:38:40Z', 'closed_at': '2019-11-27T09:19:47Z', 'labels': []}
+{'issuenumber': 504, 'title': 'maxwidth wraps arguments inside string interpolation', 'state': 'closed', 'created_at': '2019-11-25T08:19:34Z', 'closed_at': '2019-11-25T22:27:40Z', 'labels': []}
+{'issuenumber': 502, 'title': 'Xcode Extension - Support formatting package manifest files', 'state': 'closed', 'created_at': '2019-11-22T11:07:08Z', 'closed_at': '2019-11-22T18:39:41Z', 'labels': []}
+{'issuenumber': 500, 'title': 'Indentation after type attribute is incorrect', 'state': 'closed', 'created_at': '2019-11-17T12:03:13Z', 'closed_at': '2020-01-10T14:36:16Z', 'labels': []}
+{'issuenumber': 499, 'title': 'Indentation after `in` of for-loop is incorrect', 'state': 'closed', 'created_at': '2019-11-17T12:01:36Z', 'closed_at': '2019-11-24T11:29:24Z', 'labels': []}
+{'issuenumber': 498, 'title': '`is` operator is not indented properly', 'state': 'closed', 'created_at': '2019-11-17T11:31:39Z', 'closed_at': '2019-11-24T11:29:39Z', 'labels': []}
+{'issuenumber': 497, 'title': 'Cannot format multiline string with escaped triple double quotes', 'state': 'closed', 'created_at': '2019-11-17T11:11:10Z', 'closed_at': '2019-11-24T11:29:48Z', 'labels': []}
+{'issuenumber': 496, 'title': 'Comment closer is deleted if multiline comments is between a class name and its body', 'state': 'closed', 'created_at': '2019-11-17T11:05:40Z', 'closed_at': '2019-11-24T11:29:58Z', 'labels': []}
+{'issuenumber': 495, 'title': 'Multi-line function calls wrongly formatted', 'state': 'closed', 'created_at': '2019-11-02T15:39:50Z', 'closed_at': '2020-08-28T13:49:26Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 494, 'title': 'Xcode source editor extension not visible in System Preferences - Extensions', 'state': 'closed', 'created_at': '2019-10-28T17:47:12Z', 'closed_at': '2019-11-24T11:30:28Z', 'labels': {'name': 'known issue'}}
+{'issuenumber': 493, 'title': 'redundantFileprivate incorrectly applied', 'state': 'closed', 'created_at': '2019-10-24T06:17:25Z', 'closed_at': '2019-10-28T23:14:01Z', 'labels': []}
+{'issuenumber': 492, 'title': 'Remove header option - removes comments on top Package.swift files', 'state': 'closed', 'created_at': '2019-10-22T13:22:35Z', 'closed_at': '2019-10-28T23:14:27Z', 'labels': []}
+{'issuenumber': 489, 'title': 'Return removed catch let block', 'state': 'closed', 'created_at': '2019-10-20T17:44:12Z', 'closed_at': '2019-10-28T23:20:14Z', 'labels': []}
+{'issuenumber': 488, 'title': 'Error should be shown and execution aborted when adding an unknown option in .swiftformat file', 'state': 'closed', 'created_at': '2019-10-18T10:19:50Z', 'closed_at': '2019-11-24T11:31:08Z', 'labels': []}
+{'issuenumber': 485, 'title': 'Prevent users from doing stupid things', 'state': 'closed', 'created_at': '2019-10-01T10:30:35Z', 'closed_at': '2019-12-18T21:30:47Z', 'labels': []}
+{'issuenumber': 484, 'title': 'Problem with andOperator in ViewBuilder in SwiftUI', 'state': 'closed', 'created_at': '2019-09-27T12:32:34Z', 'closed_at': '2019-10-28T23:20:40Z', 'labels': []}
+{'issuenumber': 482, 'title': 'Swift 5.1 compiler crash', 'state': 'closed', 'created_at': '2019-09-19T05:03:12Z', 'closed_at': '2019-09-20T22:14:43Z', 'labels': []}
+{'issuenumber': 481, 'title': 'Feature Request: print filenames in lint mode', 'state': 'closed', 'created_at': '2019-09-08T16:39:06Z', 'closed_at': '2019-12-28T00:54:35Z', 'labels': []}
+{'issuenumber': 480, 'title': 'Facing issue in Xcode 10.2 ', 'state': 'closed', 'created_at': '2019-09-05T10:17:30Z', 'closed_at': '2020-03-06T07:45:35Z', 'labels': []}
+{'issuenumber': 479, 'title': 'hoistPatternLet ignoring patterns with _', 'state': 'closed', 'created_at': '2019-08-30T14:23:47Z', 'closed_at': '2019-10-11T17:55:57Z', 'labels': []}
+{'issuenumber': 478, 'title': 'SwiftFormat wrongly transforming `fileprivate` into `private`', 'state': 'closed', 'created_at': '2019-08-30T02:18:16Z', 'closed_at': '2019-09-20T22:15:07Z', 'labels': []}
+{'issuenumber': 476, 'title': '`print` with `.raw` type is silenced by `--quiet`', 'state': 'closed', 'created_at': '2019-08-26T21:49:11Z', 'closed_at': '2019-08-27T17:51:04Z', 'labels': []}
+{'issuenumber': 475, 'title': 'Linebreak before opening brace in multiline `if`', 'state': 'closed', 'created_at': '2019-08-26T07:51:26Z', 'closed_at': '2020-08-09T06:58:09Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 474, 'title': 'Unknown option --xcodeindentation ', 'state': 'closed', 'created_at': '2019-08-14T09:47:43Z', 'closed_at': '2019-09-05T13:42:50Z', 'labels': []}
+{'issuenumber': 472, 'title': 'Rules that breaking long lines in different lines?', 'state': 'closed', 'created_at': '2019-08-08T17:35:04Z', 'closed_at': '2019-09-10T14:32:26Z', 'labels': []}
+{'issuenumber': 470, 'title': 'No eligible files found error when all checked files are ignored', 'state': 'closed', 'created_at': '2019-07-29T10:56:18Z', 'closed_at': '2020-05-23T00:45:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 469, 'title': 'Feature Request: redundantType', 'state': 'closed', 'created_at': '2019-07-29T10:30:26Z', 'closed_at': '2020-08-29T22:37:11Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 467, 'title': 'CLI: Providing only invalid files to CLI causes confusing output', 'state': 'closed', 'created_at': '2019-07-24T21:05:20Z', 'closed_at': '2020-08-02T17:06:14Z', 'labels': []}
+{'issuenumber': 466, 'title': 'Expand remove redundant return statements to functions and comp. properties in Swift 5.1', 'state': 'closed', 'created_at': '2019-07-23T12:49:14Z', 'closed_at': '2019-11-22T08:59:06Z', 'labels': []}
+{'issuenumber': 465, 'title': 'Remove redundant nil inits should exclude @propertyWrapper variables', 'state': 'closed', 'created_at': '2019-07-18T11:37:25Z', 'closed_at': '2019-07-29T23:09:56Z', 'labels': []}
+{'issuenumber': 464, 'title': 'Options for blanklinesaroundmark', 'state': 'closed', 'created_at': '2019-07-16T18:57:45Z', 'closed_at': '2020-03-23T19:56:20Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 463, 'title': 'header option should not remove swift version statement in Package.swift files', 'state': 'closed', 'created_at': '2019-07-15T09:00:23Z', 'closed_at': '2019-11-22T08:59:43Z', 'labels': []}
+{'issuenumber': 462, 'title': 'ctig', 'state': 'closed', 'created_at': '2019-07-13T23:57:14Z', 'closed_at': '2019-07-29T23:10:56Z', 'labels': []}
+{'issuenumber': 460, 'title': "--lint doesn't return a code", 'state': 'closed', 'created_at': '2019-07-08T07:46:47Z', 'closed_at': '2019-07-08T08:09:29Z', 'labels': []}
+{'issuenumber': 459, 'title': 'redundantParens rule broke generics which has parentheses as a generic param', 'state': 'closed', 'created_at': '2019-07-06T12:07:22Z', 'closed_at': '2019-07-29T23:09:29Z', 'labels': []}
+{'issuenumber': 457, 'title': 'Swift 5.1: Generic Function Builders trigger rule spaceAroundOperators', 'state': 'closed', 'created_at': '2019-06-27T23:33:54Z', 'closed_at': '2019-12-28T00:55:26Z', 'labels': []}
+{'issuenumber': 454, 'title': 'Rule timed out when running large parallel builds.', 'state': 'closed', 'created_at': '2019-06-25T00:17:49Z', 'closed_at': '2020-01-07T09:04:47Z', 'labels': []}
+{'issuenumber': 451, 'title': 'Broken result', 'state': 'closed', 'created_at': '2019-06-21T15:01:36Z', 'closed_at': '2019-06-23T21:35:37Z', 'labels': []}
+{'issuenumber': 450, 'title': 'Removed empty lines in multiline string literals', 'state': 'closed', 'created_at': '2019-06-20T07:27:07Z', 'closed_at': '2019-06-23T21:35:51Z', 'labels': []}
+{'issuenumber': 448, 'title': 'Empty braces in a chain removes too much whitespace', 'state': 'closed', 'created_at': '2019-06-12T17:47:28Z', 'closed_at': '2019-06-23T21:36:11Z', 'labels': []}
+{'issuenumber': 447, 'title': "'Swiftformat for Xcode' doesn't install into Xcode via Mac OS 10.15Beta", 'state': 'closed', 'created_at': '2019-06-11T19:16:16Z', 'closed_at': '2019-12-28T00:56:32Z', 'labels': []}
+{'issuenumber': 446, 'title': 'Empty files trigger a timeout warning', 'state': 'closed', 'created_at': '2019-06-10T20:31:19Z', 'closed_at': '2019-06-23T21:37:57Z', 'labels': []}
+{'issuenumber': 445, 'title': 'header option {file} is replaced by the directory name', 'state': 'closed', 'created_at': '2019-06-03T05:10:36Z', 'closed_at': '2019-06-23T21:38:21Z', 'labels': []}
+{'issuenumber': 443, 'title': 'Help！！！-----This question is about Xcode build phase ', 'state': 'closed', 'created_at': '2019-05-29T09:14:41Z', 'closed_at': '2019-06-12T09:15:40Z', 'labels': []}
+{'issuenumber': 441, 'title': 'Extra header added when import directly follows header', 'state': 'closed', 'created_at': '2019-05-28T22:02:13Z', 'closed_at': '2019-06-23T21:39:13Z', 'labels': []}
+{'issuenumber': 440, 'title': 'Accidental post', 'state': 'closed', 'created_at': '2019-05-27T21:20:19Z', 'closed_at': '2019-05-27T21:20:30Z', 'labels': []}
+{'issuenumber': 439, 'title': 'Bug:  Array.count format to Array.isEmpty', 'state': 'closed', 'created_at': '2019-05-14T11:29:32Z', 'closed_at': '2019-05-27T21:38:29Z', 'labels': []}
+{'issuenumber': 438, 'title': 'Problems with redundantObjc rule', 'state': 'closed', 'created_at': '2019-05-14T08:26:24Z', 'closed_at': '2019-05-27T21:52:36Z', 'labels': []}
+{'issuenumber': 437, 'title': 'This question is about Xcode build phase', 'state': 'closed', 'created_at': '2019-05-14T03:40:40Z', 'closed_at': '2019-06-12T09:16:54Z', 'labels': []}
+{'issuenumber': 436, 'title': '  This question is about Xcode build phase', 'state': 'closed', 'created_at': '2019-05-14T02:37:05Z', 'closed_at': '2019-05-14T02:43:29Z', 'labels': []}
+{'issuenumber': 435, 'title': 'Removed "self." on redundantSelf with init-only option.', 'state': 'closed', 'created_at': '2019-05-13T08:08:34Z', 'closed_at': '2019-05-27T21:52:58Z', 'labels': []}
+{'issuenumber': 434, 'title': 'Enhanced `File headers` is broken', 'state': 'closed', 'created_at': '2019-05-09T00:49:06Z', 'closed_at': '2019-05-09T01:27:55Z', 'labels': []}
+{'issuenumber': 432, 'title': 'Corner case issue with --redundantSelf', 'state': 'closed', 'created_at': '2019-05-08T20:27:11Z', 'closed_at': '2019-05-27T21:57:29Z', 'labels': []}
+{'issuenumber': 429, 'title': '[Bug] Extra newline at end of file from stdin', 'state': 'closed', 'created_at': '2019-05-04T16:39:26Z', 'closed_at': '2019-05-09T01:11:16Z', 'labels': []}
+{'issuenumber': 428, 'title': 'Formatter introduces breaking trailing closure syntax for specific function signatures', 'state': 'closed', 'created_at': '2019-05-03T14:52:35Z', 'closed_at': '2019-06-12T09:18:27Z', 'labels': []}
+{'issuenumber': 427, 'title': 'removes "self" within closures', 'state': 'closed', 'created_at': '2019-05-03T09:47:10Z', 'closed_at': '2019-05-27T22:05:06Z', 'labels': []}
+{'issuenumber': 425, 'title': 'Rule Suggestion: Add @unavailable to compiler-suggested trivial init(coder:) implementation', 'state': 'closed', 'created_at': '2019-05-01T17:15:29Z', 'closed_at': '2020-08-29T22:41:42Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 424, 'title': 'Xcode build phase not working on Xcode 10.2 and swift 5', 'state': 'closed', 'created_at': '2019-04-30T11:30:12Z', 'closed_at': '2019-05-02T08:14:11Z', 'labels': []}
+{'issuenumber': 423, 'title': 'Invalid self. added to enums associated values', 'state': 'closed', 'created_at': '2019-04-23T20:20:34Z', 'closed_at': '2019-06-12T09:20:03Z', 'labels': []}
+{'issuenumber': 422, 'title': "Doesn't work with latest Xcode 10.2", 'state': 'closed', 'created_at': '2019-04-18T15:25:07Z', 'closed_at': '2020-03-06T07:50:32Z', 'labels': []}
+{'issuenumber': 421, 'title': 'Split wrapArguments to separate function declaration and implementation ', 'state': 'closed', 'created_at': '2019-04-17T09:49:41Z', 'closed_at': '2020-01-12T14:58:44Z', 'labels': []}
+{'issuenumber': 419, 'title': 'Proposal: default file to current directory', 'state': 'closed', 'created_at': '2019-04-12T08:23:52Z', 'closed_at': '2019-12-03T14:22:49Z', 'labels': []}
+{'issuenumber': 417, 'title': 'redundantSelf rule inserts self before the parameter name', 'state': 'closed', 'created_at': '2019-04-12T03:54:42Z', 'closed_at': '2019-04-12T18:01:10Z', 'labels': []}
+{'issuenumber': 416, 'title': 'andOperator rule breaks where condition on repeat block', 'state': 'closed', 'created_at': '2019-04-11T15:56:05Z', 'closed_at': '2019-04-12T18:02:00Z', 'labels': []}
+{'issuenumber': 415, 'title': 'Incorrect change of postfix operator causes code to break', 'state': 'closed', 'created_at': '2019-04-11T13:21:31Z', 'closed_at': '2019-04-12T18:02:25Z', 'labels': []}
+{'issuenumber': 414, 'title': 'Fileprivate break classes', 'state': 'closed', 'created_at': '2019-04-11T11:10:01Z', 'closed_at': '2019-04-12T18:03:01Z', 'labels': []}
+{'issuenumber': 413, 'title': 'Feature Request: Files listed after formatted', 'state': 'closed', 'created_at': '2019-04-11T07:16:49Z', 'closed_at': '2019-04-11T09:57:30Z', 'labels': []}
+{'issuenumber': 412, 'title': 'Command line tool fails to compile/run: dyld not found in "formatCode" build phase, image not found', 'state': 'closed', 'created_at': '2019-04-10T18:59:20Z', 'closed_at': '2019-04-16T21:25:21Z', 'labels': []}
+{'issuenumber': 411, 'title': 'Unbalanced curly brackets', 'state': 'closed', 'created_at': '2019-04-09T14:37:45Z', 'closed_at': '2020-08-05T23:00:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 410, 'title': 'Bug: Problems with --operatorfunc spaced', 'state': 'closed', 'created_at': '2019-04-09T09:38:47Z', 'closed_at': '2019-04-10T18:02:30Z', 'labels': []}
+{'issuenumber': 409, 'title': 'Feature request: Allow space around operators to be disabled independently of delimiters', 'state': 'closed', 'created_at': '2019-04-06T22:10:04Z', 'closed_at': '2019-12-31T23:58:05Z', 'labels': []}
+{'issuenumber': 407, 'title': 'Bug: Problems with —blankLinesBetweenScopes and --self insert', 'state': 'closed', 'created_at': '2019-04-06T21:32:09Z', 'closed_at': '2020-03-11T09:27:51Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 404, 'title': 'redundantSelf not working in file that contains switch with nested conditional compilation', 'state': 'closed', 'created_at': '2019-04-03T16:57:44Z', 'closed_at': '2019-04-08T21:44:43Z', 'labels': []}
+{'issuenumber': 403, 'title': 'Misaligned condition compilation and comments in switch statement', 'state': 'closed', 'created_at': '2019-03-29T12:23:40Z', 'closed_at': '2019-04-08T21:46:19Z', 'labels': []}
+{'issuenumber': 402, 'title': 'Bug: `greater-than` formatted', 'state': 'closed', 'created_at': '2019-03-29T02:33:11Z', 'closed_at': '2019-04-08T21:45:34Z', 'labels': []}
+{'issuenumber': 401, 'title': 'Support Swift 5', 'state': 'closed', 'created_at': '2019-03-27T09:31:11Z', 'closed_at': '2019-03-27T13:16:16Z', 'labels': []}
+{'issuenumber': 398, 'title': 'redundantParens removes required parentheses for Selectors', 'state': 'closed', 'created_at': '2019-03-22T00:34:03Z', 'closed_at': '2019-03-23T10:06:59Z', 'labels': []}
+{'issuenumber': 397, 'title': 'yodaConditions rule breaks with keypaths', 'state': 'closed', 'created_at': '2019-03-20T12:33:22Z', 'closed_at': '2019-03-23T10:07:10Z', 'labels': []}
+{'issuenumber': 396, 'title': 'Support repeated `--disable` options', 'state': 'closed', 'created_at': '2019-03-20T12:32:55Z', 'closed_at': '2019-03-23T10:07:24Z', 'labels': []}
+{'issuenumber': 394, 'title': 'disable trailingClosures as default?', 'state': 'closed', 'created_at': '2019-03-20T11:32:43Z', 'closed_at': '2019-03-23T10:08:25Z', 'labels': []}
+{'issuenumber': 393, 'title': 'redundantFileprivate breaks visibility of synthesised struct init methods', 'state': 'closed', 'created_at': '2019-03-19T06:05:34Z', 'closed_at': '2019-03-19T21:34:15Z', 'labels': []}
+{'issuenumber': 392, 'title': 'yodaConditions breaks expressions with ternary operator', 'state': 'closed', 'created_at': '2019-03-19T03:10:41Z', 'closed_at': '2019-03-19T21:34:25Z', 'labels': []}
+{'issuenumber': 391, 'title': 'redundantFileprivate breaks public protocol conformances in (file)private types', 'state': 'closed', 'created_at': '2019-03-19T03:02:13Z', 'closed_at': '2019-03-19T21:34:39Z', 'labels': []}
+{'issuenumber': 390, 'title': 'Swift format breaks array subscript equality comparison', 'state': 'closed', 'created_at': '2019-03-18T19:12:22Z', 'closed_at': '2019-03-19T01:55:18Z', 'labels': []}
+{'issuenumber': 389, 'title': 'redundantParens removes required parentheses for closures preceding nil-coalescing operators', 'state': 'closed', 'created_at': '2019-03-18T16:10:04Z', 'closed_at': '2019-03-19T01:55:58Z', 'labels': []}
+{'issuenumber': 388, 'title': 'operater format problem', 'state': 'closed', 'created_at': '2019-03-18T11:04:37Z', 'closed_at': '2019-03-19T01:56:20Z', 'labels': []}
+{'issuenumber': 386, 'title': 'redundantParens removes required parentheses around nested cast + subscript expressions', 'state': 'closed', 'created_at': '2019-03-18T08:34:52Z', 'closed_at': '2019-03-19T01:56:43Z', 'labels': []}
+{'issuenumber': 385, 'title': 'redundantParens removes required parentheses for closure parameters with explicitly omitted parameter labels', 'state': 'closed', 'created_at': '2019-03-18T06:11:28Z', 'closed_at': '2019-03-19T01:57:03Z', 'labels': []}
+{'issuenumber': 384, 'title': 'redundantObjc: @objc on nested types still needed with @objcMembers', 'state': 'closed', 'created_at': '2019-03-18T05:56:49Z', 'closed_at': '2019-03-19T01:57:18Z', 'labels': []}
+{'issuenumber': 383, 'title': 'New yodaConditions rule broken', 'state': 'closed', 'created_at': '2019-03-18T04:50:42Z', 'closed_at': '2019-03-19T01:57:32Z', 'labels': []}
+{'issuenumber': 382, 'title': 'anyObjectProtocol  is not working, version 0.40.0', 'state': 'closed', 'created_at': '2019-03-18T03:44:51Z', 'closed_at': '2019-03-19T01:58:21Z', 'labels': []}
+{'issuenumber': 381, 'title': 'Incorrect format with PHPhotoLibrary.shared().performChanges', 'state': 'closed', 'created_at': '2019-03-16T08:51:58Z', 'closed_at': '2019-03-16T10:46:35Z', 'labels': []}
+{'issuenumber': 377, 'title': 'Add number of lines before auto formatting using wrapArguments', 'state': 'closed', 'created_at': '2019-03-06T03:04:47Z', 'closed_at': '2019-12-28T01:05:28Z', 'labels': []}
+{'issuenumber': 374, 'title': 'exclude option from config file is ignored when run for single file with githook', 'state': 'closed', 'created_at': '2019-03-01T14:20:45Z', 'closed_at': '2021-05-17T10:46:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 373, 'title': 'Settings from configuration app no longer reflect in Xcode Source Editor Extension', 'state': 'closed', 'created_at': '2019-02-24T23:11:33Z', 'closed_at': '2019-02-25T07:39:24Z', 'labels': []}
+{'issuenumber': 371, 'title': 'Functions sorting in object', 'state': 'closed', 'created_at': '2019-02-15T06:18:16Z', 'closed_at': '2019-02-15T07:09:50Z', 'labels': []}
+{'issuenumber': 370, 'title': 'Rule hoistPatternLet moving let to previous lines', 'state': 'closed', 'created_at': '2019-02-15T04:26:26Z', 'closed_at': '2019-02-15T20:02:49Z', 'labels': []}
+{'issuenumber': 368, 'title': 'No eligible files found error when the only file to check is also ignored', 'state': 'closed', 'created_at': '2019-02-15T00:01:23Z', 'closed_at': '2019-03-03T15:54:53Z', 'labels': []}
+{'issuenumber': 367, 'title': 'Array+Indices typealias', 'state': 'closed', 'created_at': '2019-02-14T22:31:38Z', 'closed_at': '2019-02-15T20:03:22Z', 'labels': []}
+{'issuenumber': 366, 'title': 'isEmpty is broken', 'state': 'closed', 'created_at': '2019-02-14T22:24:15Z', 'closed_at': '2019-02-14T22:32:55Z', 'labels': []}
+{'issuenumber': 364, 'title': 'Wrong order of specifiers', 'state': 'closed', 'created_at': '2019-02-14T17:21:02Z', 'closed_at': '2020-05-01T08:53:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 363, 'title': 'Erroneous removal of parentheses ', 'state': 'closed', 'created_at': '2019-02-14T13:18:47Z', 'closed_at': '2019-02-14T21:40:38Z', 'labels': []}
+{'issuenumber': 362, 'title': '0.39.1 wrong multiline string literal indentation', 'state': 'closed', 'created_at': '2019-02-14T12:34:52Z', 'closed_at': '2019-02-14T21:41:15Z', 'labels': []}
+{'issuenumber': 361, 'title': 'disable isEmpty rule as default', 'state': 'closed', 'created_at': '2019-02-13T17:16:40Z', 'closed_at': '2019-03-03T15:56:29Z', 'labels': []}
+{'issuenumber': 360, 'title': 'indent rule for """ text blocks', 'state': 'closed', 'created_at': '2019-02-13T13:15:38Z', 'closed_at': '2019-02-14T00:07:36Z', 'labels': []}
+{'issuenumber': 359, 'title': 'XAlign ', 'state': 'closed', 'created_at': '2019-02-12T15:02:11Z', 'closed_at': '2019-02-14T12:58:43Z', 'labels': []}
+{'issuenumber': 357, 'title': 'reduntantParens does not strip all parens', 'state': 'closed', 'created_at': '2019-02-11T18:20:32Z', 'closed_at': '2019-02-14T00:07:56Z', 'labels': []}
+{'issuenumber': 356, 'title': 'Explicitly enable rules', 'state': 'closed', 'created_at': '2019-02-10T13:48:51Z', 'closed_at': '2019-02-10T14:53:22Z', 'labels': []}
+{'issuenumber': 355, 'title': 'Rule request: Normalize comments', 'state': 'closed', 'created_at': '2019-02-09T20:49:43Z', 'closed_at': '2019-03-07T09:51:04Z', 'labels': []}
+{'issuenumber': 354, 'title': 'testFileHeaderCreationYearReplacement() failing', 'state': 'closed', 'created_at': '2019-02-09T06:43:28Z', 'closed_at': '2019-02-09T12:01:32Z', 'labels': []}
+{'issuenumber': 353, 'title': 'Group options with their associated rules in SwiftFormat for Xcode app', 'state': 'closed', 'created_at': '2019-02-07T21:11:17Z', 'closed_at': '2019-02-21T05:09:45Z', 'labels': []}
+{'issuenumber': 352, 'title': '`isEmpty` rule being applied to `foo.count == 0` or `foo.count > 0` when foo is NSOrderedSet', 'state': 'closed', 'created_at': '2019-02-06T12:17:59Z', 'closed_at': '2019-02-06T14:44:08Z', 'labels': []}
+{'issuenumber': 350, 'title': 'Tests are failing on `master`', 'state': 'closed', 'created_at': '2019-02-02T06:54:05Z', 'closed_at': '2019-02-04T09:10:32Z', 'labels': []}
+{'issuenumber': 348, 'title': 'redundantSelf does not work in XCode Extension', 'state': 'closed', 'created_at': '2019-01-24T14:49:46Z', 'closed_at': '2019-01-25T11:18:20Z', 'labels': []}
+{'issuenumber': 347, 'title': 'False positive in a compute property with tuple', 'state': 'closed', 'created_at': '2019-01-24T10:46:42Z', 'closed_at': '2019-01-24T19:01:27Z', 'labels': []}
+{'issuenumber': 346, 'title': 'Return keyword removed when it should not after latest update', 'state': 'closed', 'created_at': '2019-01-22T20:11:42Z', 'closed_at': '2019-01-22T22:07:26Z', 'labels': []}
+{'issuenumber': 345, 'title': 'Feature request: Support reporter output for --lint option', 'state': 'closed', 'created_at': '2019-01-21T00:29:37Z', 'closed_at': '2019-12-28T01:07:03Z', 'labels': []}
+{'issuenumber': 344, 'title': 'Formatting issue with documentation', 'state': 'closed', 'created_at': '2019-01-19T23:09:13Z', 'closed_at': '2019-01-20T00:13:11Z', 'labels': []}
+{'issuenumber': 343, 'title': 'Non-optional backticks removed from KeyPath', 'state': 'closed', 'created_at': '2019-01-17T02:21:02Z', 'closed_at': '2019-11-24T11:41:26Z', 'labels': []}
+{'issuenumber': 342, 'title': 'New closure behavior?', 'state': 'closed', 'created_at': '2019-01-16T00:04:02Z', 'closed_at': '2019-01-17T09:30:52Z', 'labels': []}
+{'issuenumber': 341, 'title': 'Indent fails when method-chaining', 'state': 'closed', 'created_at': '2019-01-09T06:23:33Z', 'closed_at': '2019-01-19T12:09:12Z', 'labels': []}
+{'issuenumber': 340, 'title': 'Xcode Extension stop working after latest Upgrade', 'state': 'closed', 'created_at': '2019-01-07T06:14:16Z', 'closed_at': '2019-01-25T11:55:40Z', 'labels': []}
+{'issuenumber': 339, 'title': 'SwiftFormat deletes comments without warning', 'state': 'closed', 'created_at': '2019-01-04T09:04:39Z', 'closed_at': '2019-01-19T12:08:20Z', 'labels': []}
+{'issuenumber': 338, 'title': 'My installation is corrupted', 'state': 'closed', 'created_at': '2018-12-31T20:53:29Z', 'closed_at': '2019-01-01T03:01:54Z', 'labels': []}
+{'issuenumber': 337, 'title': 'SwiftFormat crashes on launch due to invalid signature', 'state': 'closed', 'created_at': '2018-12-30T22:33:25Z', 'closed_at': '2019-01-01T17:33:27Z', 'labels': []}
+{'issuenumber': 335, 'title': 'Bug in new rule to change `if foo.count == 0 {}` to `if foo.isEmpty {}`', 'state': 'closed', 'created_at': '2018-12-18T09:09:59Z', 'closed_at': '2018-12-18T10:27:52Z', 'labels': []}
+{'issuenumber': 331, 'title': 'What `Illegal instruction:` means?', 'state': 'closed', 'created_at': '2018-12-10T11:28:24Z', 'closed_at': '2018-12-13T14:38:51Z', 'labels': []}
+{'issuenumber': 330, 'title': 'What is the exact syntax of globs in --exclude option?', 'state': 'closed', 'created_at': '2018-12-10T02:28:57Z', 'closed_at': '2018-12-15T00:16:40Z', 'labels': []}
+{'issuenumber': 329, 'title': 'Using globs in config file significantly slows down SwiftFormat', 'state': 'closed', 'created_at': '2018-12-10T02:20:09Z', 'closed_at': '2019-01-01T17:34:11Z', 'labels': []}
+{'issuenumber': 328, 'title': "SwiftFormat doesn't detect .swiftformat config", 'state': 'closed', 'created_at': '2018-12-10T02:15:58Z', 'closed_at': '2018-12-11T01:27:47Z', 'labels': []}
+{'issuenumber': 327, 'title': 'indentcase bug', 'state': 'closed', 'created_at': '2018-12-08T19:29:35Z', 'closed_at': '2018-12-10T14:01:16Z', 'labels': []}
+{'issuenumber': 325, 'title': 'Opening angle-bracket for generic type mistakenly parsed as less-than?', 'state': 'closed', 'created_at': '2018-11-27T23:03:56Z', 'closed_at': '2018-11-28T15:22:21Z', 'labels': []}
+{'issuenumber': 321, 'title': 'Parsing issue with Void as parameter', 'state': 'closed', 'created_at': '2018-11-13T10:02:10Z', 'closed_at': '2018-11-23T14:13:09Z', 'labels': []}
+{'issuenumber': 320, 'title': 'Opt-out of nested `beforeFirst` behaviour', 'state': 'closed', 'created_at': '2018-11-07T13:10:42Z', 'closed_at': '2019-01-19T12:10:35Z', 'labels': []}
+{'issuenumber': 319, 'title': 'ifdef gets indented incorrectly if you have comments after #endif', 'state': 'closed', 'created_at': '2018-10-25T06:39:07Z', 'closed_at': '2018-11-23T14:13:37Z', 'labels': []}
+{'issuenumber': 315, 'title': 'Replace double ampersand with comma ', 'state': 'closed', 'created_at': '2018-10-11T19:04:36Z', 'closed_at': '2018-12-15T00:17:31Z', 'labels': []}
+{'issuenumber': 314, 'title': 'Remove unnecessary back ticks', 'state': 'closed', 'created_at': '2018-10-11T18:30:00Z', 'closed_at': '2019-01-30T00:50:22Z', 'labels': []}
+{'issuenumber': 313, 'title': 'a case report: CIVector.init', 'state': 'closed', 'created_at': '2018-10-06T11:59:32Z', 'closed_at': '2018-10-11T09:21:22Z', 'labels': []}
+{'issuenumber': 312, 'title': "a case report: for combining String and #macro with '+' literal while using as a parameter.", 'state': 'closed', 'created_at': '2018-10-06T11:53:17Z', 'closed_at': '2018-10-11T13:30:49Z', 'labels': []}
+{'issuenumber': 309, 'title': 'Breaks statements like `self.view = view`', 'state': 'closed', 'created_at': '2018-09-28T08:42:13Z', 'closed_at': '2018-09-29T19:47:09Z', 'labels': []}
+{'issuenumber': 306, 'title': 'Is there a way to change the closing parenthesis/curly bracket indentation?', 'state': 'closed', 'created_at': '2018-09-19T05:44:03Z', 'closed_at': '2019-11-23T13:10:58Z', 'labels': []}
+{'issuenumber': 305, 'title': 'empty blocks are formatted as {}', 'state': 'closed', 'created_at': '2018-09-18T00:00:36Z', 'closed_at': '2018-09-22T04:50:08Z', 'labels': []}
+{'issuenumber': 303, 'title': 'How do I actually use this?', 'state': 'closed', 'created_at': '2018-09-11T19:10:47Z', 'closed_at': '2018-09-11T20:17:04Z', 'labels': []}
+{'issuenumber': 302, 'title': 'Required parentheses stripped away from function types', 'state': 'closed', 'created_at': '2018-09-05T18:36:15Z', 'closed_at': '2018-09-08T07:03:11Z', 'labels': []}
+{'issuenumber': 301, 'title': 'Add glob support in list of excluded files', 'state': 'closed', 'created_at': '2018-09-03T01:32:32Z', 'closed_at': '2018-09-05T13:34:42Z', 'labels': []}
+{'issuenumber': 300, 'title': 'Add silent/quiet option for command line tool', 'state': 'closed', 'created_at': '2018-09-03T01:24:22Z', 'closed_at': '2018-09-05T13:37:17Z', 'labels': []}
+{'issuenumber': 299, 'title': "Initializing from a metatype value must reference 'init' explicitly", 'state': 'closed', 'created_at': '2018-09-02T20:42:46Z', 'closed_at': '2022-05-03T00:18:41Z', 'labels': {'name': 'known issue'}}
+{'issuenumber': 298, 'title': 'Formatter gets stuck on function imports from a module', 'state': 'closed', 'created_at': '2018-09-02T17:42:46Z', 'closed_at': '2018-09-05T13:41:51Z', 'labels': []}
+{'issuenumber': 296, 'title': 'Exclude directory with a space', 'state': 'closed', 'created_at': '2018-08-29T21:37:46Z', 'closed_at': '2018-08-30T16:21:31Z', 'labels': []}
+{'issuenumber': 294, 'title': 'Wraparguments for wrong formatted function not working', 'state': 'closed', 'created_at': '2018-08-24T11:13:47Z', 'closed_at': '2019-11-24T11:43:33Z', 'labels': []}
+{'issuenumber': 293, 'title': '.swiftformat file should end with a linefeed in all configurations', 'state': 'closed', 'created_at': '2018-08-22T20:51:58Z', 'closed_at': '2018-09-05T13:42:27Z', 'labels': []}
+{'issuenumber': 292, 'title': 'Linebreaks before ending parenthesis in function calls should be a rule', 'state': 'closed', 'created_at': '2018-08-20T10:10:30Z', 'closed_at': '2018-08-21T18:09:27Z', 'labels': []}
+{'issuenumber': 291, 'title': 'How to share swiftformat rules and options between collaborators on a project?', 'state': 'closed', 'created_at': '2018-08-13T19:15:58Z', 'closed_at': '2018-08-21T17:30:51Z', 'labels': []}
+{'issuenumber': 290, 'title': 'Errors have ANSI color even when stderr is not a terminal', 'state': 'closed', 'created_at': '2018-08-13T15:38:28Z', 'closed_at': '2018-08-21T18:11:40Z', 'labels': []}
+{'issuenumber': 289, 'title': 'Clarify some options in doc and in command line help', 'state': 'closed', 'created_at': '2018-08-10T11:49:29Z', 'closed_at': '2018-08-13T08:24:00Z', 'labels': []}
+{'issuenumber': 288, 'title': 'Error on install via homebrew', 'state': 'closed', 'created_at': '2018-08-08T20:54:20Z', 'closed_at': '2018-08-13T08:24:30Z', 'labels': []}
+{'issuenumber': 287, 'title': 'Enum cases named a Swift keyword get misinterpreted', 'state': 'closed', 'created_at': '2018-08-02T11:37:36Z', 'closed_at': '2018-08-05T08:45:48Z', 'labels': []}
+{'issuenumber': 286, 'title': 'Rule `todos` applied to `where` keyword.', 'state': 'closed', 'created_at': '2018-07-30T17:40:24Z', 'closed_at': '2018-08-01T10:31:18Z', 'labels': []}
+{'issuenumber': 285, 'title': 'Unable to install specific SwiftFormat version via brew', 'state': 'closed', 'created_at': '2018-07-29T17:17:16Z', 'closed_at': '2018-08-01T09:48:35Z', 'labels': []}
+{'issuenumber': 283, 'title': '#imageLiteral handling bug', 'state': 'closed', 'created_at': '2018-07-26T22:59:58Z', 'closed_at': '2018-07-30T10:37:56Z', 'labels': []}
+{'issuenumber': 281, 'title': 'Cannot parse #if/#endif in enum', 'state': 'closed', 'created_at': '2018-07-26T05:28:02Z', 'closed_at': '2018-07-30T10:38:07Z', 'labels': []}
+{'issuenumber': 280, 'title': 'redundantParens broke optional completion closure ', 'state': 'closed', 'created_at': '2018-07-24T20:09:44Z', 'closed_at': '2018-07-24T22:09:27Z', 'labels': []}
+{'issuenumber': 278, 'title': 'FormatCommandError error 0 in Playgrounds #56', 'state': 'closed', 'created_at': '2018-07-21T17:09:22Z', 'closed_at': '2018-07-30T10:38:38Z', 'labels': []}
+{'issuenumber': 277, 'title': 'Custom operators parsing', 'state': 'closed', 'created_at': '2018-07-20T06:23:53Z', 'closed_at': '2018-07-23T13:36:09Z', 'labels': []}
+{'issuenumber': 276, 'title': 'Generic enums with type constraints fail to parse', 'state': 'closed', 'created_at': '2018-07-19T13:42:07Z', 'closed_at': '2018-10-11T13:31:09Z', 'labels': []}
+{'issuenumber': 275, 'title': "Parenthesis around 'if condition' getting removed upon formatting ", 'state': 'closed', 'created_at': '2018-07-18T18:42:27Z', 'closed_at': '2018-07-19T19:50:08Z', 'labels': []}
+{'issuenumber': 274, 'title': 'Can I set up blankLinesAtStartOfScope?', 'state': 'closed', 'created_at': '2018-07-16T11:17:03Z', 'closed_at': '2020-08-09T06:51:07Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 271, 'title': 'Non-zero exit code on error', 'state': 'closed', 'created_at': '2018-07-10T08:55:50Z', 'closed_at': '2018-07-24T22:13:46Z', 'labels': []}
+{'issuenumber': 269, 'title': 'redundant parens not removed around tuple argument', 'state': 'closed', 'created_at': '2018-07-05T10:04:31Z', 'closed_at': '2018-07-23T20:44:16Z', 'labels': []}
+{'issuenumber': 268, 'title': 'Error: Parentheses removed from closure call via positional index (tuple)', 'state': 'closed', 'created_at': '2018-07-04T13:19:46Z', 'closed_at': '2018-07-05T08:05:30Z', 'labels': []}
+{'issuenumber': 267, 'title': '--dryrun option has no return value', 'state': 'closed', 'created_at': '2018-07-03T20:54:19Z', 'closed_at': '2018-07-24T22:09:09Z', 'labels': []}
+{'issuenumber': 266, 'title': 'Passing != to a function', 'state': 'closed', 'created_at': '2018-06-30T10:50:20Z', 'closed_at': '2018-07-02T13:32:21Z', 'labels': []}
+{'issuenumber': 264, 'title': 'Losing file history and can\'t "undo" and changes', 'state': 'closed', 'created_at': '2018-06-08T14:30:32Z', 'closed_at': '2018-06-25T08:29:53Z', 'labels': []}
+{'issuenumber': 263, 'title': 'Unwanted whitespace inserted between carrot brackets', 'state': 'closed', 'created_at': '2018-05-23T23:56:35Z', 'closed_at': '2018-06-25T08:31:32Z', 'labels': []}
+{'issuenumber': 262, 'title': 'Cannot activate the Xcode extension', 'state': 'closed', 'created_at': '2018-05-22T08:02:18Z', 'closed_at': '2018-07-23T20:44:48Z', 'labels': []}
+{'issuenumber': 259, 'title': 'SwiftFormat inserts self where local variable shadows class instance method', 'state': 'closed', 'created_at': '2018-05-18T17:01:51Z', 'closed_at': '2018-06-25T08:30:57Z', 'labels': []}
+{'issuenumber': 253, 'title': '@testable is being removed from imports in test files', 'state': 'closed', 'created_at': '2018-04-30T17:11:33Z', 'closed_at': '2018-05-10T09:13:29Z', 'labels': []}
+{'issuenumber': 252, 'title': 'Build fase not working', 'state': 'closed', 'created_at': '2018-04-21T16:39:55Z', 'closed_at': '2018-06-21T20:22:05Z', 'labels': []}
+{'issuenumber': 251, 'title': 'How to Disable [Key : Second Line Value] Alignment?', 'state': 'closed', 'created_at': '2018-04-19T22:46:41Z', 'closed_at': '2018-08-21T17:34:36Z', 'labels': []}
+{'issuenumber': 248, 'title': 'Reorder of defaulted parameters', 'state': 'closed', 'created_at': '2018-04-16T03:30:38Z', 'closed_at': '2018-04-19T09:21:28Z', 'labels': []}
+{'issuenumber': 246, 'title': 'Standard Output', 'state': 'closed', 'created_at': '2018-04-14T13:23:10Z', 'closed_at': '2018-04-17T11:20:16Z', 'labels': []}
+{'issuenumber': 245, 'title': 'Partial formatting', 'state': 'closed', 'created_at': '2018-04-14T13:22:06Z', 'closed_at': '2020-08-03T21:42:18Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 244, 'title': 'One liner', 'state': 'closed', 'created_at': '2018-04-14T13:18:55Z', 'closed_at': '2018-08-05T08:46:19Z', 'labels': []}
+{'issuenumber': 243, 'title': 'Rule to indent multiline strings', 'state': 'closed', 'created_at': '2018-04-13T09:35:17Z', 'closed_at': '2021-12-08T00:03:14Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 242, 'title': 'Header strip deletes documentation', 'state': 'closed', 'created_at': '2018-04-11T14:11:34Z', 'closed_at': '2018-05-18T07:52:13Z', 'labels': []}
+{'issuenumber': 241, 'title': 'Whitespace between try!/try? and .init() Removed', 'state': 'closed', 'created_at': '2018-04-06T19:17:51Z', 'closed_at': '2018-04-18T08:02:06Z', 'labels': []}
+{'issuenumber': 240, 'title': 'Linux support?', 'state': 'closed', 'created_at': '2018-04-05T21:26:32Z', 'closed_at': '2019-02-05T01:59:44Z', 'labels': []}
+{'issuenumber': 237, 'title': 'Code and comments between imports getting deleted', 'state': 'closed', 'created_at': '2018-03-22T15:07:06Z', 'closed_at': '2018-07-03T16:09:06Z', 'labels': []}
+{'issuenumber': 236, 'title': 'Special Xcode UITesting markup is modified by SwiftFormat', 'state': 'closed', 'created_at': '2018-03-20T22:16:35Z', 'closed_at': '2018-08-21T17:35:03Z', 'labels': []}
+{'issuenumber': 235, 'title': 'sortedimports: code between imports gets deleted', 'state': 'closed', 'created_at': '2018-03-11T15:11:13Z', 'closed_at': '2018-03-16T08:54:25Z', 'labels': []}
+{'issuenumber': 234, 'title': 'Wrong indentation of conditional compilation blocks around switch cases', 'state': 'closed', 'created_at': '2018-03-08T11:01:44Z', 'closed_at': '2018-06-25T08:32:42Z', 'labels': []}
+{'issuenumber': 233, 'title': 'Failed to format some mathmatic function', 'state': 'closed', 'created_at': '2018-03-06T11:30:24Z', 'closed_at': '2018-03-07T13:11:01Z', 'labels': []}
+{'issuenumber': 232, 'title': 'spaceAroundOperators and wildcard', 'state': 'closed', 'created_at': '2018-03-05T16:08:29Z', 'closed_at': '2018-06-25T08:34:11Z', 'labels': []}
+{'issuenumber': 231, 'title': 'Use libSyntax?', 'state': 'closed', 'created_at': '2018-02-28T21:16:51Z', 'closed_at': '2018-03-05T20:14:59Z', 'labels': []}
+{'issuenumber': 230, 'title': 'swiftformat 0.26.1 redundantReturn confused by if #available', 'state': 'closed', 'created_at': '2018-02-27T05:39:27Z', 'closed_at': '2018-03-15T22:02:07Z', 'labels': []}
+{'issuenumber': 229, 'title': 'unusedArguments adds an underscore to closure argument types', 'state': 'closed', 'created_at': '2018-02-26T06:10:28Z', 'closed_at': '2018-02-26T18:00:56Z', 'labels': []}
+{'issuenumber': 227, 'title': '--inferoptions returns options which are deprecated', 'state': 'closed', 'created_at': '2018-02-21T16:32:20Z', 'closed_at': '2018-02-21T21:14:34Z', 'labels': []}
+{'issuenumber': 226, 'title': 'redundantParens removes required parentheses for function call after #selector', 'state': 'closed', 'created_at': '2018-02-21T03:26:34Z', 'closed_at': '2018-02-21T21:15:15Z', 'labels': []}
+{'issuenumber': 225, 'title': '`redundantParens` removes required parentheses for tuples of closure value.', 'state': 'closed', 'created_at': '2018-02-21T03:01:40Z', 'closed_at': '2018-02-21T21:15:32Z', 'labels': []}
+{'issuenumber': 224, 'title': '`duplicateImports` breaks with more complicated import statements', 'state': 'closed', 'created_at': '2018-02-21T02:58:42Z', 'closed_at': '2018-02-21T21:15:43Z', 'labels': []}
+{'issuenumber': 223, 'title': 'Recommended git hook commits unstaged changes if file has staged lines', 'state': 'closed', 'created_at': '2018-02-20T19:26:06Z', 'closed_at': '2020-05-27T22:59:00Z', 'labels': []}
+{'issuenumber': 221, 'title': 'SwiftFormat screws up override init', 'state': 'closed', 'created_at': '2018-02-20T09:38:25Z', 'closed_at': '2018-02-20T18:27:42Z', 'labels': []}
+{'issuenumber': 220, 'title': "Some header rule exception variations don't work", 'state': 'closed', 'created_at': '2018-02-15T18:40:11Z', 'closed_at': '2018-02-20T18:28:38Z', 'labels': []}
+{'issuenumber': 216, 'title': 'Allow option configuration for the Xcode Extension', 'state': 'closed', 'created_at': '2018-02-07T17:53:12Z', 'closed_at': '2018-07-30T10:40:09Z', 'labels': []}
+{'issuenumber': 215, 'title': 'Remove duplicated imports', 'state': 'closed', 'created_at': '2018-02-07T13:45:12Z', 'closed_at': '2018-02-10T20:52:38Z', 'labels': []}
+{'issuenumber': 214, 'title': '--insertlines --removelines ', 'state': 'closed', 'created_at': '2018-02-05T17:09:14Z', 'closed_at': '2018-02-05T17:27:46Z', 'labels': []}
+{'issuenumber': 213, 'title': 'Xcode Source Editor Extension installation issue', 'state': 'closed', 'created_at': '2018-02-01T08:13:53Z', 'closed_at': '2018-02-01T09:04:45Z', 'labels': []}
+{'issuenumber': 210, 'title': '[FEATURE REQUEST] blankLinesAtBeginningOfScope', 'state': 'closed', 'created_at': '2018-01-29T10:47:56Z', 'closed_at': '2018-02-01T22:04:53Z', 'labels': []}
+{'issuenumber': 209, 'title': 'Unable to ignore comments, adding indents to empty commented lines', 'state': 'closed', 'created_at': '2018-01-14T18:37:13Z', 'closed_at': '2018-02-01T22:05:07Z', 'labels': []}
+{'issuenumber': 208, 'title': 'Inconsistent whitespace in multi-line string literal', 'state': 'closed', 'created_at': '2018-01-11T12:30:44Z', 'closed_at': '2018-01-12T20:12:04Z', 'labels': []}
+{'issuenumber': 207, 'title': "{ } don't align properly with --allman when used as function arguments", 'state': 'closed', 'created_at': '2018-01-04T01:45:39Z', 'closed_at': '2020-07-30T22:30:33Z', 'labels': []}
+{'issuenumber': 206, 'title': 'Rule to force position of else statement in multiline guard statements', 'state': 'closed', 'created_at': '2017-12-28T03:59:03Z', 'closed_at': '2020-07-30T22:34:11Z', 'labels': []}
+{'issuenumber': 205, 'title': '`redundantSelf` false positive when capturing self in escaping autoclosure', 'state': 'closed', 'created_at': '2017-12-27T00:36:14Z', 'closed_at': '2017-12-27T02:51:07Z', 'labels': []}
+{'issuenumber': 204, 'title': 'README mistakes', 'state': 'closed', 'created_at': '2017-12-25T08:25:56Z', 'closed_at': '2018-01-12T20:12:20Z', 'labels': []}
+{'issuenumber': 199, 'title': 'Grouping for fraction digits', 'state': 'closed', 'created_at': '2017-11-28T22:35:06Z', 'closed_at': '2018-07-30T10:40:48Z', 'labels': []}
+{'issuenumber': 198, 'title': 'Split wrapArguments to separate function declaration and implementation', 'state': 'closed', 'created_at': '2017-11-28T15:42:38Z', 'closed_at': '2018-08-23T16:18:27Z', 'labels': []}
+{'issuenumber': 197, 'title': 'Add "whitelist" of methods that use @autoclosure in order to stop removing "self"', 'state': 'closed', 'created_at': '2017-11-28T00:46:25Z', 'closed_at': '2019-02-05T01:51:07Z', 'labels': []}
+{'issuenumber': 196, 'title': 'Option to force // MARK styling', 'state': 'closed', 'created_at': '2017-11-27T08:33:59Z', 'closed_at': '2017-11-30T00:26:09Z', 'labels': []}
+{'issuenumber': 193, 'title': 'Placeholder for 3 possible Issues', 'state': 'closed', 'created_at': '2017-11-22T07:10:12Z', 'closed_at': '2017-11-24T22:59:17Z', 'labels': []}
+{'issuenumber': 192, 'title': 'Issue with parenthesis and bool condition', 'state': 'closed', 'created_at': '2017-11-18T23:33:35Z', 'closed_at': '2017-11-20T00:03:00Z', 'labels': []}
+{'issuenumber': 190, 'title': '"self" incorrectly stripped from expression inside autoclosure', 'state': 'closed', 'created_at': '2017-11-14T19:27:51Z', 'closed_at': '2017-11-20T00:04:45Z', 'labels': []}
+{'issuenumber': 189, 'title': 'Howto indent with tab?', 'state': 'closed', 'created_at': '2017-11-14T16:38:56Z', 'closed_at': '2017-11-19T23:45:06Z', 'labels': []}
+{'issuenumber': 188, 'title': 'Error remove nil inside Codable struct', 'state': 'closed', 'created_at': '2017-11-09T09:10:15Z', 'closed_at': '2017-11-10T18:43:18Z', 'labels': []}
+{'issuenumber': 187, 'title': "Add an Option to indent method's closing brace if the last param is an array or closure", 'state': 'closed', 'created_at': '2017-10-31T11:07:25Z', 'closed_at': '2020-07-30T22:37:58Z', 'labels': []}
+{'issuenumber': 186, 'title': '`indent` Rule: .flatMap on new line unindents unexpectedly', 'state': 'closed', 'created_at': '2017-10-31T06:47:43Z', 'closed_at': '2019-11-23T13:06:10Z', 'labels': []}
+{'issuenumber': 185, 'title': 'Swift 4 dictionary default failure', 'state': 'closed', 'created_at': '2017-10-29T21:29:27Z', 'closed_at': '2017-11-10T18:43:35Z', 'labels': []}
+{'issuenumber': 182, 'title': '"hoistPatternLet" inserts "let" keyword before "import"', 'state': 'closed', 'created_at': '2017-10-17T20:41:35Z', 'closed_at': '2017-10-22T16:30:22Z', 'labels': []}
+{'issuenumber': 181, 'title': 'Comment indentation in switch statement', 'state': 'closed', 'created_at': '2017-10-16T21:35:21Z', 'closed_at': '2019-02-05T01:58:42Z', 'labels': []}
+{'issuenumber': 180, 'title': 'Spacing around ranges edge case with =, results in invalid code', 'state': 'closed', 'created_at': '2017-10-10T16:37:01Z', 'closed_at': '2017-10-11T22:16:16Z', 'labels': []}
+{'issuenumber': 179, 'title': "Swift 4's key paths not supported", 'state': 'closed', 'created_at': '2017-10-06T08:04:39Z', 'closed_at': '2017-10-08T16:18:58Z', 'labels': []}
+{'issuenumber': 178, 'title': 'Build with Swift Package Manager', 'state': 'closed', 'created_at': '2017-09-27T11:49:18Z', 'closed_at': '2018-04-13T12:50:22Z', 'labels': []}
+{'issuenumber': 176, 'title': 'Invalid formatting using the inline let pattern', 'state': 'closed', 'created_at': '2017-09-20T10:29:02Z', 'closed_at': '2017-09-21T14:10:21Z', 'labels': []}
+{'issuenumber': 174, 'title': '--trimwhitespace "nonblank-lines" add spaces, while it shouldn\'t', 'state': 'closed', 'created_at': '2017-09-07T16:05:18Z', 'closed_at': '2020-08-03T21:40:53Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 173, 'title': 'Whitespace and extra line at end of file', 'state': 'closed', 'created_at': '2017-09-06T21:46:03Z', 'closed_at': '2017-10-22T15:26:01Z', 'labels': []}
+{'issuenumber': 172, 'title': 'Improve space after if let foo = ..., let bar = ..., ', 'state': 'closed', 'created_at': '2017-09-06T16:36:17Z', 'closed_at': '2020-11-09T23:48:14Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 170, 'title': 'Swift 4 build errors', 'state': 'closed', 'created_at': '2017-08-28T17:58:48Z', 'closed_at': '2017-09-04T18:35:45Z', 'labels': []}
+{'issuenumber': 169, 'title': 'Failure to build on macOS 10.13 with Xcode 9', 'state': 'closed', 'created_at': '2017-08-24T12:02:23Z', 'closed_at': '2017-09-04T18:36:18Z', 'labels': []}
+{'issuenumber': 168, 'title': 'False negative when inserting `self.`', 'state': 'closed', 'created_at': '2017-08-23T20:41:04Z', 'closed_at': '2017-09-04T16:33:06Z', 'labels': []}
+{'issuenumber': 167, 'title': 'Insert `self.` false positive', 'state': 'closed', 'created_at': '2017-08-20T22:08:13Z', 'closed_at': '2017-08-21T17:27:33Z', 'labels': []}
+{'issuenumber': 165, 'title': 'Improve spaceAroundComments', 'state': 'closed', 'created_at': '2017-08-11T10:21:02Z', 'closed_at': '2017-10-27T12:51:00Z', 'labels': []}
+{'issuenumber': 163, 'title': 'Make examples more easily readable', 'state': 'closed', 'created_at': '2017-08-01T17:05:10Z', 'closed_at': '2019-11-24T11:46:52Z', 'labels': []}
+{'issuenumber': 161, 'title': 'cocoapods integration instructions not correct.', 'state': 'closed', 'created_at': '2017-07-31T15:40:17Z', 'closed_at': '2017-08-21T07:28:40Z', 'labels': []}
+{'issuenumber': 160, 'title': 'Changing text in multiline strings', 'state': 'closed', 'created_at': '2017-07-28T19:25:37Z', 'closed_at': '2017-07-31T08:03:33Z', 'labels': []}
+{'issuenumber': 159, 'title': 'Cannot disable rules', 'state': 'closed', 'created_at': '2017-07-28T16:07:37Z', 'closed_at': '2017-07-28T16:14:11Z', 'labels': []}
+{'issuenumber': 158, 'title': 'SwiftFormat as lint-only tool', 'state': 'closed', 'created_at': '2017-07-13T11:44:55Z', 'closed_at': '2017-07-13T11:55:16Z', 'labels': []}
+{'issuenumber': 157, 'title': 'Comment before closure at beginning of line removed', 'state': 'closed', 'created_at': '2017-07-12T17:59:42Z', 'closed_at': '2017-07-31T08:03:41Z', 'labels': []}
+{'issuenumber': 155, 'title': 'pre-commit script commits unstaged changes', 'state': 'closed', 'created_at': '2017-07-05T14:49:40Z', 'closed_at': '2020-05-27T23:01:01Z', 'labels': []}
+{'issuenumber': 154, 'title': 'Incorrectly inserts space into array slice syntax.', 'state': 'closed', 'created_at': '2017-07-03T06:21:32Z', 'closed_at': '2017-07-03T19:23:34Z', 'labels': []}
+{'issuenumber': 153, 'title': 'README.md/rules/semicolons/3rd example no change', 'state': 'closed', 'created_at': '2017-07-01T16:11:20Z', 'closed_at': '2017-07-03T19:24:00Z', 'labels': []}
+{'issuenumber': 152, 'title': 'switch indentation', 'state': 'closed', 'created_at': '2017-07-01T10:32:49Z', 'closed_at': '2017-10-27T12:51:36Z', 'labels': []}
+{'issuenumber': 151, 'title': 'Self option adds self to type(of:) ', 'state': 'closed', 'created_at': '2017-06-30T14:27:02Z', 'closed_at': '2017-07-03T19:24:21Z', 'labels': []}
+{'issuenumber': 150, 'title': 'Type.init sometimes removed when it is needed', 'state': 'closed', 'created_at': '2017-06-26T16:33:04Z', 'closed_at': '2017-06-29T17:16:30Z', 'labels': []}
+{'issuenumber': 149, 'title': 'Rule Suggestion: Remove Blank Lines After {', 'state': 'closed', 'created_at': '2017-06-25T14:17:31Z', 'closed_at': '2018-05-03T17:49:56Z', 'labels': []}
+{'issuenumber': 147, 'title': 'Inconsistent while formatting method with single argument.', 'state': 'closed', 'created_at': '2017-06-08T10:52:44Z', 'closed_at': '2017-07-08T09:26:51Z', 'labels': []}
+{'issuenumber': 145, 'title': 'Format on save?', 'state': 'closed', 'created_at': '2017-06-07T02:14:36Z', 'closed_at': '2017-06-08T03:25:42Z', 'labels': []}
+{'issuenumber': 144, 'title': 'pre-commit hook example does not work for paths with spaces', 'state': 'closed', 'created_at': '2017-06-06T14:20:56Z', 'closed_at': '2017-06-20T17:27:59Z', 'labels': []}
+{'issuenumber': 143, 'title': 'Comment in protocol list changes indentation', 'state': 'closed', 'created_at': '2017-06-05T07:02:59Z', 'closed_at': '2017-06-20T17:28:21Z', 'labels': []}
+{'issuenumber': 142, 'title': 'File and/or line level exclusions', 'state': 'closed', 'created_at': '2017-06-01T23:32:13Z', 'closed_at': '2017-11-30T00:27:57Z', 'labels': []}
+{'issuenumber': 141, 'title': 'spaceAroundParens removes space between closure type and capture list.', 'state': 'closed', 'created_at': '2017-05-30T13:48:37Z', 'closed_at': '2017-05-31T13:21:47Z', 'labels': []}
+{'issuenumber': 140, 'title': 'Adds line break to if when 2. argument is in parentess ', 'state': 'closed', 'created_at': '2017-05-24T12:49:55Z', 'closed_at': '2017-05-31T13:21:23Z', 'labels': []}
+{'issuenumber': 138, 'title': 'spaceAroundOperators adds space in front of "&" in pointer function calls', 'state': 'closed', 'created_at': '2017-05-15T16:55:47Z', 'closed_at': '2017-05-31T13:22:12Z', 'labels': []}
+{'issuenumber': 136, 'title': 'Error when formatting syntax related to `for condition where method() {}`', 'state': 'closed', 'created_at': '2017-05-11T11:21:50Z', 'closed_at': '2017-05-14T19:26:05Z', 'labels': []}
+{'issuenumber': 135, 'title': '`nil` is not redundant when initializing lazy properties', 'state': 'closed', 'created_at': '2017-05-05T12:36:55Z', 'closed_at': '2017-05-14T19:25:18Z', 'labels': []}
+{'issuenumber': 134, 'title': 'Question: Why is the Xcode Source Editor Extension not in brew', 'state': 'closed', 'created_at': '2017-05-04T13:20:07Z', 'closed_at': '2020-01-02T15:33:44Z', 'labels': []}
+{'issuenumber': 133, 'title': 'Adding SwiftFormat to Swift Source Compatibility Test Suite', 'state': 'closed', 'created_at': '2017-05-04T06:26:48Z', 'closed_at': '2020-07-30T23:05:53Z', 'labels': []}
+{'issuenumber': 132, 'title': "`redundantSelf` rule adding backticks to method name if it's same as keyword", 'state': 'closed', 'created_at': '2017-05-03T18:53:10Z', 'closed_at': '2019-12-31T23:58:36Z', 'labels': []}
+{'issuenumber': 131, 'title': 'How can I change settings in Xcode plugin?', 'state': 'closed', 'created_at': '2017-04-29T16:56:57Z', 'closed_at': '2018-02-01T22:07:29Z', 'labels': []}
+{'issuenumber': 130, 'title': 'Request: Remove explicit .init when possible', 'state': 'closed', 'created_at': '2017-04-26T14:45:36Z', 'closed_at': '2017-06-20T17:28:56Z', 'labels': []}
+{'issuenumber': 129, 'title': 'with --self insert: decomposing associated value with same name as member var causes confusion', 'state': 'closed', 'created_at': '2017-04-24T11:48:10Z', 'closed_at': '2017-04-26T21:09:08Z', 'labels': []}
+{'issuenumber': 126, 'title': 'Removing necessary explicit reference to self in autoclosures.', 'state': 'closed', 'created_at': '2017-04-05T20:13:46Z', 'closed_at': '2018-09-10T21:09:11Z', 'labels': []}
+{'issuenumber': 125, 'title': 'Excluded files', 'state': 'closed', 'created_at': '2017-04-03T18:00:29Z', 'closed_at': '2017-04-04T13:54:19Z', 'labels': []}
+{'issuenumber': 124, 'title': 'SwiftFormat does not handle nested enum in case', 'state': 'closed', 'created_at': '2017-03-29T06:51:30Z', 'closed_at': '2017-03-30T17:15:59Z', 'labels': []}
+{'issuenumber': 123, 'title': '--self insert breaks code in some use cases', 'state': 'closed', 'created_at': '2017-03-28T00:13:07Z', 'closed_at': '2017-03-28T17:44:05Z', 'labels': []}
+{'issuenumber': 122, 'title': 'Confusing how to enable/disable certain rules', 'state': 'closed', 'created_at': '2017-03-24T22:39:04Z', 'closed_at': '2017-03-28T17:45:11Z', 'labels': []}
+{'issuenumber': 121, 'title': 'Associated enum formatting issue', 'state': 'closed', 'created_at': '2017-03-23T07:52:44Z', 'closed_at': '2017-03-23T11:56:43Z', 'labels': []}
+{'issuenumber': 120, 'title': 'redundantSelf not working all the time', 'state': 'closed', 'created_at': '2017-03-23T05:21:48Z', 'closed_at': '2017-03-24T18:53:56Z', 'labels': []}
+{'issuenumber': 119, 'title': 'Support line length limits', 'state': 'closed', 'created_at': '2017-03-18T01:14:50Z', 'closed_at': '2019-12-01T15:50:36Z', 'labels': []}
+{'issuenumber': 118, 'title': 'Wrong removal of self ', 'state': 'closed', 'created_at': '2017-03-17T20:02:46Z', 'closed_at': '2017-03-17T21:54:31Z', 'labels': []}
+{'issuenumber': 117, 'title': 'Opposite of `elseOnSameLine`?', 'state': 'closed', 'created_at': '2017-03-17T19:48:05Z', 'closed_at': '2017-10-27T12:52:06Z', 'labels': []}
+{'issuenumber': 116, 'title': 'Add detailed instructions for installing as pod ', 'state': 'closed', 'created_at': '2017-03-17T03:24:27Z', 'closed_at': '2017-03-17T23:18:42Z', 'labels': []}
+{'issuenumber': 115, 'title': '`--patternlet inline` generates invalid code', 'state': 'closed', 'created_at': '2017-03-16T10:17:12Z', 'closed_at': '2017-03-17T21:54:54Z', 'labels': []}
+{'issuenumber': 114, 'title': 'Removed backtick causes compiler to fail', 'state': 'closed', 'created_at': '2017-03-16T10:14:35Z', 'closed_at': '2017-03-30T17:16:20Z', 'labels': []}
+{'issuenumber': 113, 'title': 'self. removed where necessary (v0.26.2)', 'state': 'closed', 'created_at': '2017-03-16T08:13:28Z', 'closed_at': '2017-03-17T21:55:36Z', 'labels': []}
+{'issuenumber': 112, 'title': 'space following "<?>" is removed', 'state': 'closed', 'created_at': '2017-03-15T18:34:27Z', 'closed_at': '2017-03-17T21:55:44Z', 'labels': []}
+{'issuenumber': 110, 'title': '0.26.1 :  redundantself flag ', 'state': 'closed', 'created_at': '2017-03-15T01:29:42Z', 'closed_at': '2017-03-24T18:59:16Z', 'labels': []}
+{'issuenumber': 108, 'title': 'removal of non-redundant return', 'state': 'closed', 'created_at': '2017-03-14T21:07:07Z', 'closed_at': '2017-03-15T07:21:03Z', 'labels': []}
+{'issuenumber': 106, 'title': '0.26.1 removes required self in case of ambiguous variable names', 'state': 'closed', 'created_at': '2017-03-14T17:16:51Z', 'closed_at': '2017-03-15T07:21:12Z', 'labels': []}
+{'issuenumber': 105, 'title': '0.26 deletes self where it is required', 'state': 'closed', 'created_at': '2017-03-13T23:23:54Z', 'closed_at': '2017-03-14T08:57:15Z', 'labels': []}
+{'issuenumber': 104, 'title': 'Return keyword is removed when it should not.', 'state': 'closed', 'created_at': '2017-03-13T17:41:42Z', 'closed_at': '2017-03-13T18:13:55Z', 'labels': []}
+{'issuenumber': 102, 'title': 'Backtick is removed for `Self`', 'state': 'closed', 'created_at': '2017-03-09T11:48:01Z', 'closed_at': '2017-03-09T18:27:52Z', 'labels': []}
+{'issuenumber': 100, 'title': 'Removal of Non-redundant return', 'state': 'closed', 'created_at': '2017-03-08T23:02:25Z', 'closed_at': '2017-03-09T18:28:30Z', 'labels': []}
+{'issuenumber': 99, 'title': 'unusedArguments should implicitly bypass required initializers', 'state': 'closed', 'created_at': '2017-03-08T02:15:34Z', 'closed_at': '2017-03-08T18:46:53Z', 'labels': []}
+{'issuenumber': 98, 'title': 'Remove multiple spaces in comments', 'state': 'closed', 'created_at': '2017-03-07T12:56:07Z', 'closed_at': '2021-10-07T09:14:07Z', 'labels': []}
+{'issuenumber': 97, 'title': 'Using arguments as a build phase in Xcode project', 'state': 'closed', 'created_at': '2017-02-28T14:07:26Z', 'closed_at': '2017-02-28T15:29:07Z', 'labels': []}
+{'issuenumber': 95, 'title': 'Spurious unscore added', 'state': 'closed', 'created_at': '2017-02-24T00:58:59Z', 'closed_at': '2017-02-24T01:27:42Z', 'labels': []}
+{'issuenumber': 94, 'title': 'Nested switch statements', 'state': 'closed', 'created_at': '2017-02-21T18:34:47Z', 'closed_at': '2017-02-28T19:09:42Z', 'labels': []}
+{'issuenumber': 93, 'title': 'Stripping used closure parameters (part 2)', 'state': 'closed', 'created_at': '2017-02-15T14:17:39Z', 'closed_at': '2017-02-16T09:05:20Z', 'labels': []}
+{'issuenumber': 91, 'title': 'Support Cocoapods Installation', 'state': 'closed', 'created_at': '2017-02-14T05:02:24Z', 'closed_at': '2017-02-16T09:05:46Z', 'labels': []}
+{'issuenumber': 90, 'title': 'Indentation of empty lines different from Xcode default', 'state': 'closed', 'created_at': '2017-02-13T14:38:23Z', 'closed_at': '2017-02-13T20:37:38Z', 'labels': []}
+{'issuenumber': 89, 'title': "trailingCommas rule gets applied to a dictionary's type declaration", 'state': 'closed', 'created_at': '2017-02-11T20:39:22Z', 'closed_at': '2017-02-12T20:37:38Z', 'labels': []}
+{'issuenumber': 88, 'title': 'allman style not working', 'state': 'closed', 'created_at': '2017-02-08T00:15:49Z', 'closed_at': '2017-02-09T18:21:32Z', 'labels': []}
+{'issuenumber': 87, 'title': "Unix piping doesn't seem to work", 'state': 'closed', 'created_at': '2017-02-02T21:41:25Z', 'closed_at': '2017-02-09T18:20:03Z', 'labels': []}
+{'issuenumber': 86, 'title': 'unusedArguments removes necessary parameter types and names in closures', 'state': 'closed', 'created_at': '2017-01-26T08:25:06Z', 'closed_at': '2017-01-26T19:38:03Z', 'labels': []}
+{'issuenumber': 85, 'title': "Warning on '#!/usr/bin/swift' lines in swift scripts", 'state': 'closed', 'created_at': '2017-01-19T09:56:10Z', 'closed_at': '2017-01-19T18:50:46Z', 'labels': []}
+{'issuenumber': 84, 'title': 'Extension crashes Xcode when there is nothing to change', 'state': 'closed', 'created_at': '2017-01-19T09:22:49Z', 'closed_at': '2017-01-19T18:51:37Z', 'labels': []}
+{'issuenumber': 83, 'title': 'Handling unusedArguments in delegate methods', 'state': 'closed', 'created_at': '2017-01-16T16:45:36Z', 'closed_at': '2017-01-19T00:24:14Z', 'labels': []}
+{'issuenumber': 82, 'title': 'Compile error after applying format in generic type of UnsafePointer', 'state': 'closed', 'created_at': '2017-01-15T16:08:11Z', 'closed_at': '2017-01-15T16:50:56Z', 'labels': []}
+{'issuenumber': 81, 'title': '[Q] Console coloring', 'state': 'closed', 'created_at': '2017-01-12T21:47:46Z', 'closed_at': '2017-01-14T01:50:19Z', 'labels': []}
+{'issuenumber': 80, 'title': 'Stripping used closure parameters (version 0.23)', 'state': 'closed', 'created_at': '2017-01-11T03:54:08Z', 'closed_at': '2017-01-14T01:50:31Z', 'labels': []}
+{'issuenumber': 79, 'title': 'weird unusedArguments replacement', 'state': 'closed', 'created_at': '2017-01-09T17:37:13Z', 'closed_at': '2017-01-18T23:58:01Z', 'labels': []}
+{'issuenumber': 78, 'title': 'SwiftFormat crashes with `illegal hardware instruction`', 'state': 'closed', 'created_at': '2017-01-05T13:30:13Z', 'closed_at': '2017-01-09T18:34:17Z', 'labels': []}
+{'issuenumber': 77, 'title': 'Errors on `enumerateSwiftFiles` are reported on the top-level directory', 'state': 'closed', 'created_at': '2017-01-05T13:22:20Z', 'closed_at': '2017-01-09T18:34:04Z', 'labels': []}
+{'issuenumber': 76, 'title': 'removes whitespace around inequality operator with repeated if statements', 'state': 'closed', 'created_at': '2017-01-03T05:34:24Z', 'closed_at': '2017-01-03T19:31:45Z', 'labels': []}
+{'issuenumber': 75, 'title': 'Config File', 'state': 'closed', 'created_at': '2016-12-24T00:23:48Z', 'closed_at': '2018-08-05T08:56:03Z', 'labels': []}
+{'issuenumber': 74, 'title': 'Add --verbose option', 'state': 'closed', 'created_at': '2016-12-20T20:29:43Z', 'closed_at': '2017-03-13T21:39:16Z', 'labels': []}
+{'issuenumber': 73, 'title': 'Missing space after paren removal from if statement starting with `!` operator', 'state': 'closed', 'created_at': '2016-12-19T23:28:49Z', 'closed_at': '2016-12-20T00:35:41Z', 'labels': []}
+{'issuenumber': 72, 'title': 'swiftformat adds unnecessary space after `?` in ternary operator expression', 'state': 'closed', 'created_at': '2016-12-19T16:07:00Z', 'closed_at': '2016-12-20T00:48:20Z', 'labels': []}
+{'issuenumber': 71, 'title': 'Allman style braces from command line', 'state': 'closed', 'created_at': '2016-12-14T12:01:21Z', 'closed_at': '2016-12-14T23:55:58Z', 'labels': []}
+{'issuenumber': 70, 'title': 'Swiftformat strips space between while loop and condition', 'state': 'closed', 'created_at': '2016-12-01T16:14:53Z', 'closed_at': '2016-12-02T23:11:05Z', 'labels': []}
+{'issuenumber': 69, 'title': 'Configure extension options without rebuilding', 'state': 'closed', 'created_at': '2016-11-29T20:18:23Z', 'closed_at': '2018-08-05T09:01:54Z', 'labels': []}
+{'issuenumber': 68, 'title': "Can't install as an extension", 'state': 'closed', 'created_at': '2016-11-28T21:00:24Z', 'closed_at': '2016-12-01T16:54:50Z', 'labels': []}
+{'issuenumber': 67, 'title': 'Replaces symlinks with contents of the linked file', 'state': 'closed', 'created_at': '2016-11-28T11:08:38Z', 'closed_at': '2016-12-02T23:12:31Z', 'labels': []}
+{'issuenumber': 66, 'title': 'How to run on a CI?', 'state': 'closed', 'created_at': '2016-11-23T21:24:48Z', 'closed_at': '2017-12-21T16:12:55Z', 'labels': []}
+{'issuenumber': 64, 'title': 'if parenthesis, missing space formatting', 'state': 'closed', 'created_at': '2016-11-17T00:19:56Z', 'closed_at': '2016-11-17T09:01:54Z', 'labels': []}
+{'issuenumber': 63, 'title': 'Closure Indenting', 'state': 'closed', 'created_at': '2016-11-11T05:14:10Z', 'closed_at': '2016-11-11T09:13:55Z', 'labels': []}
+{'issuenumber': 62, 'title': 'redundentParens error', 'state': 'closed', 'created_at': '2016-11-11T04:52:11Z', 'closed_at': '2016-11-11T09:14:16Z', 'labels': []}
+{'issuenumber': 61, 'title': 'Tokenizer splitting ..< when a comment follows', 'state': 'closed', 'created_at': '2016-11-09T11:39:42Z', 'closed_at': '2016-11-09T21:19:20Z', 'labels': []}
+{'issuenumber': 60, 'title': 'No header comments', 'state': 'closed', 'created_at': '2016-11-08T02:18:51Z', 'closed_at': '2016-11-08T23:47:57Z', 'labels': []}
+{'issuenumber': 59, 'title': 'Distribution Through Homebrew', 'state': 'closed', 'created_at': '2016-11-08T00:47:58Z', 'closed_at': '2016-11-23T13:49:39Z', 'labels': []}
+{'issuenumber': 58, 'title': 'Xcode generated availability check gets unnecessary whitespace', 'state': 'closed', 'created_at': '2016-11-07T15:21:45Z', 'closed_at': '2016-11-08T23:48:14Z', 'labels': []}
+{'issuenumber': 57, 'title': 'Extra space in generics II', 'state': 'closed', 'created_at': '2016-11-07T04:10:37Z', 'closed_at': '2016-11-08T23:49:15Z', 'labels': []}
+{'issuenumber': 56, 'title': 'Not Support for Playground', 'state': 'closed', 'created_at': '2016-11-04T07:01:36Z', 'closed_at': '2016-11-09T21:19:39Z', 'labels': []}
+{'issuenumber': 55, 'title': 'Incorrect formatting of `(Void) throws -> Void`', 'state': 'closed', 'created_at': '2016-11-03T06:31:58Z', 'closed_at': '2016-11-03T18:31:22Z', 'labels': []}
+{'issuenumber': 54, 'title': 'Extra whitespace inserted into `Array<Array<Dictionary<String, Int>>>`', 'state': 'closed', 'created_at': '2016-11-03T06:13:53Z', 'closed_at': '2016-11-03T18:31:33Z', 'labels': []}
+{'issuenumber': 53, 'title': 'Extra space inserted into `@autoclosure(escaping)`', 'state': 'closed', 'created_at': '2016-11-03T06:05:11Z', 'closed_at': '2016-11-03T18:31:41Z', 'labels': []}
+{'issuenumber': 52, 'title': 'Extra space in generic operators', 'state': 'closed', 'created_at': '2016-11-03T03:18:13Z', 'closed_at': '2016-11-03T18:44:23Z', 'labels': []}
+{'issuenumber': 50, 'title': 'Colon alignment for method arguments', 'state': 'closed', 'created_at': '2016-10-22T07:51:01Z', 'closed_at': '2020-04-04T11:16:08Z', 'labels': []}
+{'issuenumber': 49, 'title': 'SwiftFormat adds a comma at the end of array', 'state': 'closed', 'created_at': '2016-10-17T20:15:47Z', 'closed_at': '2016-10-17T23:43:55Z', 'labels': []}
+{'issuenumber': 48, 'title': 'Customizable SwiftFormat rules', 'state': 'closed', 'created_at': '2016-10-17T19:00:27Z', 'closed_at': '2016-10-27T18:46:27Z', 'labels': []}
+{'issuenumber': 47, 'title': 'Change indent rule: Keep indentation level of empty lines as the context around', 'state': 'closed', 'created_at': '2016-10-14T17:47:22Z', 'closed_at': '2016-10-27T18:48:17Z', 'labels': []}
+{'issuenumber': 46, 'title': 'Is preprocessing CLI arguments really necessary?', 'state': 'closed', 'created_at': '2016-10-14T12:24:54Z', 'closed_at': '2016-10-16T21:37:26Z', 'labels': []}
+{'issuenumber': 44, 'title': 'Space after @escaping', 'state': 'closed', 'created_at': '2016-10-13T15:46:55Z', 'closed_at': '2016-10-14T08:04:29Z', 'labels': []}
+{'issuenumber': 43, 'title': 'Fragment option is swallowing trailing newlines', 'state': 'closed', 'created_at': '2016-10-11T04:36:50Z', 'closed_at': '2016-10-14T08:04:15Z', 'labels': []}
+{'issuenumber': 42, 'title': "Multi param method calls indent doesn't match Xcode", 'state': 'closed', 'created_at': '2016-10-07T17:40:53Z', 'closed_at': '2016-10-21T21:48:47Z', 'labels': []}
+{'issuenumber': 40, 'title': 'Formatting of code fragments', 'state': 'closed', 'created_at': '2016-10-06T02:00:21Z', 'closed_at': '2016-10-08T22:18:11Z', 'labels': []}
+{'issuenumber': 38, 'title': 'Optional nill', 'state': 'closed', 'created_at': '2016-10-05T00:11:31Z', 'closed_at': '2016-10-05T13:32:46Z', 'labels': []}
+{'issuenumber': 37, 'title': 'Multi-line guard statement indentation', 'state': 'closed', 'created_at': '2016-10-04T23:40:53Z', 'closed_at': '2016-10-08T22:33:35Z', 'labels': []}
+{'issuenumber': 35, 'title': 'More fun with indentation in closures', 'state': 'closed', 'created_at': '2016-10-04T13:32:34Z', 'closed_at': '2016-10-04T17:50:15Z', 'labels': []}
+{'issuenumber': 34, 'title': 'Enforce space between [* self] and parameters in closures', 'state': 'closed', 'created_at': '2016-10-04T13:24:32Z', 'closed_at': '2016-10-04T17:49:47Z', 'labels': []}
+{'issuenumber': 33, 'title': 'Incorrect indenting of closures', 'state': 'closed', 'created_at': '2016-10-03T03:37:48Z', 'closed_at': '2016-10-04T10:10:09Z', 'labels': []}
+{'issuenumber': 32, 'title': 'Incorrectly transforming documentation comments to code block documentation', 'state': 'closed', 'created_at': '2016-09-22T08:26:09Z', 'closed_at': '2016-09-24T22:52:53Z', 'labels': []}
+{'issuenumber': 31, 'title': 'Suggestion - Rules Configuration', 'state': 'closed', 'created_at': '2016-09-16T18:17:06Z', 'closed_at': '2016-10-27T18:48:58Z', 'labels': []}
+{'issuenumber': 30, 'title': 'The following configuration fails to be parsed.', 'state': 'closed', 'created_at': '2016-09-16T03:09:15Z', 'closed_at': '2016-09-16T17:11:26Z', 'labels': []}
+{'issuenumber': 29, 'title': 'If "default" appears at the end of a line, the following one is indented.', 'state': 'closed', 'created_at': '2016-09-14T20:20:14Z', 'closed_at': '2016-09-14T23:13:34Z', 'labels': []}
+{'issuenumber': 28, 'title': "Filemanager's default interfers with switch's default.", 'state': 'closed', 'created_at': '2016-09-14T16:28:55Z', 'closed_at': '2016-09-14T17:30:31Z', 'labels': []}
+{'issuenumber': 27, 'title': 'Newline bellow struct and class declaration', 'state': 'closed', 'created_at': '2016-09-13T08:24:41Z', 'closed_at': '2016-09-13T10:50:22Z', 'labels': []}
+{'issuenumber': 26, 'title': 'a bug about blankLinesBetweenScopes', 'state': 'closed', 'created_at': '2016-09-10T18:32:13Z', 'closed_at': '2016-09-12T17:25:35Z', 'labels': []}
+{'issuenumber': 25, 'title': 'Is it possbile to add an option for trailingCommas', 'state': 'closed', 'created_at': '2016-09-10T18:00:01Z', 'closed_at': '2016-09-10T18:33:11Z', 'labels': []}
+{'issuenumber': 24, 'title': 'Swiftformat fails for "case x is [String: String]:"', 'state': 'closed', 'created_at': '2016-09-09T06:38:43Z', 'closed_at': '2016-09-09T17:14:31Z', 'labels': []}
+{'issuenumber': 23, 'title': 'Commas keep being appended for this array configuration.', 'state': 'closed', 'created_at': '2016-09-08T05:32:46Z', 'closed_at': '2016-09-08T07:56:42Z', 'labels': []}
+{'issuenumber': 22, 'title': 'Add support for directories with spaces in names', 'state': 'closed', 'created_at': '2016-09-06T11:18:26Z', 'closed_at': '2016-09-07T19:59:56Z', 'labels': []}
+{'issuenumber': 20, 'title': '[Suggestion] Empty Line Inside Out-Most Brackets Rule', 'state': 'closed', 'created_at': '2016-09-01T09:38:30Z', 'closed_at': '2016-09-07T20:00:53Z', 'labels': []}
+{'issuenumber': 17, 'title': 'Multiple newlines and EOF', 'state': 'closed', 'created_at': '2016-08-29T14:34:24Z', 'closed_at': '2016-08-31T21:02:02Z', 'labels': []}
+{'issuenumber': 16, 'title': '..< and .. should no space', 'state': 'closed', 'created_at': '2016-08-29T05:28:32Z', 'closed_at': '2016-08-31T21:02:53Z', 'labels': []}
+{'issuenumber': 15, 'title': 'Formatting issues', 'state': 'closed', 'created_at': '2016-08-29T05:13:49Z', 'closed_at': '2016-08-29T08:18:14Z', 'labels': []}
+{'issuenumber': 14, 'title': 'Objc imported selector has unnecessary spacing after formatting', 'state': 'closed', 'created_at': '2016-08-27T17:16:40Z', 'closed_at': '2016-08-28T21:24:46Z', 'labels': []}
+{'issuenumber': 13, 'title': 'SwiftFormat removes space before enum case inside a closure', 'state': 'closed', 'created_at': '2016-08-27T17:10:46Z', 'closed_at': '2016-08-28T21:24:40Z', 'labels': []}
+{'issuenumber': 12, 'title': 'tuple binding has unexpected formatting', 'state': 'closed', 'created_at': '2016-08-27T17:05:41Z', 'closed_at': '2016-08-28T21:24:32Z', 'labels': []}
+{'issuenumber': 11, 'title': 'Reformat corrupted code', 'state': 'closed', 'created_at': '2016-08-26T15:30:37Z', 'closed_at': '2016-08-26T22:53:37Z', 'labels': []}
+{'issuenumber': 10, 'title': 'Callbacks Indentation Made Worse', 'state': 'closed', 'created_at': '2016-08-26T08:33:04Z', 'closed_at': '2016-08-26T22:36:08Z', 'labels': []}
+{'issuenumber': 9, 'title': 'Double wrapped optionals using dot notation not formatted correctly', 'state': 'closed', 'created_at': '2016-08-25T20:50:36Z', 'closed_at': '2016-08-25T23:27:57Z', 'labels': []}
+{'issuenumber': 8, 'title': '-f option for Run Script in automate section of the README?', 'state': 'closed', 'created_at': '2016-08-25T16:36:46Z', 'closed_at': '2016-08-25T18:55:24Z', 'labels': []}
+{'issuenumber': 7, 'title': 'Generics type explicitly declared for a variable does not seems formatted correctly', 'state': 'closed', 'created_at': '2016-08-24T14:25:47Z', 'closed_at': '2016-08-24T17:31:40Z', 'labels': []}
+{'issuenumber': 6, 'title': 'Multiline logic statement gets wrong indentation if a line is commented', 'state': 'closed', 'created_at': '2016-08-23T12:24:38Z', 'closed_at': '2016-08-23T18:27:26Z', 'labels': []}
+{'issuenumber': 5, 'title': 'Optional generic closing > is treated as an operator', 'state': 'closed', 'created_at': '2016-08-23T10:37:19Z', 'closed_at': '2016-08-23T18:28:53Z', 'labels': []}
+{'issuenumber': 4, 'title': 'Comments do not get placed after brace when converting to KRN style braces', 'state': 'closed', 'created_at': '2016-08-23T03:59:55Z', 'closed_at': '2016-08-23T18:28:42Z', 'labels': []}
+{'issuenumber': 3, 'title': 'Suggestion: Allow private(set) formatting as Apple suggest it in the docs ?', 'state': 'closed', 'created_at': '2016-08-22T21:38:53Z', 'closed_at': '2016-08-22T22:52:52Z', 'labels': []}
+{'issuenumber': 2, 'title': 'Wrong spacing when specifying a type for a generic parameter', 'state': 'closed', 'created_at': '2016-08-22T21:36:46Z', 'closed_at': '2016-08-23T18:26:22Z', 'labels': []}
+{'issuenumber': 1, 'title': 'Wrong indenting level of if case ', 'state': 'closed', 'created_at': '2016-08-22T21:32:13Z', 'closed_at': '2016-08-22T22:53:09Z', 'labels': []}

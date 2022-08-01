@@ -1,0 +1,720 @@
+{'issuenumber': 1759, 'title': 'How to configure CodiMD with environment variables ', 'state': 'closed', 'created_at': '2022-04-27T15:27:15Z', 'closed_at': '2022-04-27T15:32:33Z', 'labels': []}
+{'issuenumber': 1758, 'title': '不小心删除之后有办法找回嘛？', 'state': 'closed', 'created_at': '2022-04-20T02:00:33Z', 'closed_at': '2022-04-27T15:33:18Z', 'labels': []}
+{'issuenumber': 1749, 'title': 'Statis assets, mixed content, CORS?', 'state': 'closed', 'created_at': '2022-02-19T07:23:38Z', 'closed_at': '2022-02-19T07:44:20Z', 'labels': []}
+{'issuenumber': 1746, 'title': 'how to change password?', 'state': 'closed', 'created_at': '2022-02-06T11:11:04Z', 'closed_at': '2022-02-24T12:59:33Z', 'labels': []}
+{'issuenumber': 1737, 'title': 'Missing Setting for Search Engines', 'state': 'closed', 'created_at': '2021-12-30T13:05:33Z', 'closed_at': '2022-01-02T12:38:30Z', 'labels': []}
+{'issuenumber': 1735, 'title': 'Run script in content', 'state': 'closed', 'created_at': '2021-12-17T10:40:00Z', 'closed_at': '2021-12-19T12:37:02Z', 'labels': []}
+{'issuenumber': 1734, 'title': 'Cannot connect database when deploying with docker-compose', 'state': 'closed', 'created_at': '2021-11-27T04:06:43Z', 'closed_at': '2021-11-27T04:24:26Z', 'labels': []}
+{'issuenumber': 1719, 'title': 'Help setting up an instance on Heroku', 'state': 'closed', 'created_at': '2021-10-05T11:02:13Z', 'closed_at': '2022-03-25T04:59:08Z', 'labels': []}
+{'issuenumber': 1714, 'title': '404 my file', 'state': 'closed', 'created_at': '2021-09-07T02:22:34Z', 'closed_at': '2021-09-07T02:37:31Z', 'labels': []}
+{'issuenumber': 1713, 'title': "SAML SSO error: ACS Url in request doesn't match configured ACS Url", 'state': 'closed', 'created_at': '2021-09-06T23:31:15Z', 'closed_at': '2021-09-07T17:20:35Z', 'labels': []}
+{'issuenumber': 1692, 'title': 'CodiMD 2.3.2 local PlantUML not rendering images', 'state': 'closed', 'created_at': '2021-06-08T12:38:23Z', 'closed_at': '2021-06-09T10:29:01Z', 'labels': []}
+{'issuenumber': 1689, 'title': "Stored XSS in Gist's importing functionality", 'state': 'closed', 'created_at': '2021-05-30T16:38:05Z', 'closed_at': '2021-06-16T11:11:34Z', 'labels': {'name': 'security'}}
+{'issuenumber': 1686, 'title': 'Installing Release 2.4.1', 'state': 'closed', 'created_at': '2021-05-18T14:28:52Z', 'closed_at': '2021-05-18T14:33:09Z', 'labels': []}
+{'issuenumber': 1681, 'title': 'CodiMD v2.3.2', 'state': 'closed', 'created_at': '2021-05-13T06:29:07Z', 'closed_at': '2021-05-13T13:50:22Z', 'labels': []}
+{'issuenumber': 1669, 'title': 'Default Login for localhost:3000?', 'state': 'closed', 'created_at': '2021-03-30T18:21:34Z', 'closed_at': '2021-04-13T16:19:17Z', 'labels': []}
+{'issuenumber': 1666, 'title': 'image registry server issue', 'state': 'closed', 'created_at': '2021-03-16T00:22:16Z', 'closed_at': '2021-05-12T15:30:05Z', 'labels': []}
+{'issuenumber': 1664, 'title': 'When "imageUploadType" is set to "S3", image upload fail.', 'state': 'closed', 'created_at': '2021-03-09T04:11:53Z', 'closed_at': '2021-05-12T15:33:56Z', 'labels': []}
+{'issuenumber': 1662, 'title': 'JS production bundle size is 8mb', 'state': 'closed', 'created_at': '2021-03-02T08:49:01Z', 'closed_at': '2021-03-02T14:52:33Z', 'labels': []}
+{'issuenumber': 1658, 'title': 'NOTES table has data,but view page query none,use shortid for uri can get it', 'state': 'closed', 'created_at': '2021-02-18T02:24:50Z', 'closed_at': '2021-02-28T04:31:13Z', 'labels': {'name': 'database/sequelize'}}
+{'issuenumber': 1657, 'title': 'Heroku deployment fail', 'state': 'closed', 'created_at': '2021-02-11T07:00:54Z', 'closed_at': '2021-03-02T03:57:07Z', 'labels': []}
+{'issuenumber': 1655, 'title': 'Feature: Auto format table', 'state': 'closed', 'created_at': '2021-01-25T11:09:27Z', 'closed_at': '2021-02-28T04:35:56Z', 'labels': []}
+{'issuenumber': 1648, 'title': 'Stored XSS in slide mode (via reveal-markdown)', 'state': 'closed', 'created_at': '2021-01-13T11:01:12Z', 'closed_at': '2021-01-25T08:50:24Z', 'labels': []}
+{'issuenumber': 1647, 'title': 'Feature Request: Support for MathJax in Code Tags', 'state': 'closed', 'created_at': '2021-01-12T14:47:26Z', 'closed_at': '2021-05-13T03:04:45Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1640, 'title': 'no referer when fetch a s3 image?', 'state': 'closed', 'created_at': '2020-12-23T11:36:54Z', 'closed_at': '2021-05-12T15:33:03Z', 'labels': []}
+{'issuenumber': 1635, 'title': 'Stored XSS in vega-lite', 'state': 'closed', 'created_at': '2020-12-21T11:00:06Z', 'closed_at': '2020-12-25T08:21:26Z', 'labels': {'name': 'upstream'}}
+{'issuenumber': 1634, 'title': 'Unrestricted File Upload in uploadImage endpoint', 'state': 'closed', 'created_at': '2020-12-21T09:05:32Z', 'closed_at': '2020-12-24T09:46:39Z', 'labels': {'name': 'security'}}
+{'issuenumber': 1630, 'title': 'Stored XSS in mermaid', 'state': 'closed', 'created_at': '2020-12-20T21:27:54Z', 'closed_at': '2020-12-25T08:21:41Z', 'labels': {'name': 'security'}}
+{'issuenumber': 1631, 'title': 'XSS in lightbox feature', 'state': 'closed', 'created_at': '2020-12-20T16:25:25Z', 'closed_at': '2020-12-25T08:21:53Z', 'labels': {'name': 'security'}}
+{'issuenumber': 1627, 'title': "[Feature Request] Add the ability to follow someone's cursor", 'state': 'closed', 'created_at': '2020-11-29T11:49:06Z', 'closed_at': '2020-11-30T05:27:20Z', 'labels': []}
+{'issuenumber': 1620, 'title': "'theme' option for slides not working", 'state': 'closed', 'created_at': '2020-11-15T11:41:29Z', 'closed_at': '2021-05-12T15:37:53Z', 'labels': []}
+{'issuenumber': 1617, 'title': 'GitHub OAuth URL Mismatch Error', 'state': 'closed', 'created_at': '2020-10-16T14:56:05Z', 'closed_at': '2021-01-07T13:57:11Z', 'labels': []}
+{'issuenumber': 1615, 'title': 'Features not Available in 2.2.0', 'state': 'closed', 'created_at': '2020-10-11T22:39:34Z', 'closed_at': '2021-02-28T06:14:25Z', 'labels': []}
+{'issuenumber': 1613, 'title': 'some listed filename become links', 'state': 'closed', 'created_at': '2020-10-08T08:31:41Z', 'closed_at': '2021-02-28T05:52:02Z', 'labels': []}
+{'issuenumber': 1604, 'title': 'link text should wrap line by line', 'state': 'closed', 'created_at': '2020-09-22T17:35:22Z', 'closed_at': '2020-09-22T18:24:43Z', 'labels': []}
+{'issuenumber': 1600, 'title': "Error: Export user data filenames contain a trailing '0'", 'state': 'closed', 'created_at': '2020-09-19T13:51:53Z', 'closed_at': '2021-05-12T16:35:33Z', 'labels': []}
+{'issuenumber': 1598, 'title': 'codimd cannot be embedded into another page (e.g. raw HTML or React) via iframe', 'state': 'closed', 'created_at': '2020-09-18T07:18:52Z', 'closed_at': '2021-05-12T16:36:06Z', 'labels': []}
+{'issuenumber': 1595, 'title': 'uglifyjs-webpack-plugin really needed?', 'state': 'closed', 'created_at': '2020-09-10T06:37:12Z', 'closed_at': '2021-10-25T08:42:04Z', 'labels': {'name': 'dependencies'}}
+{'issuenumber': 1592, 'title': 'Editor toolbar and statusbar inconsistent position', 'state': 'closed', 'created_at': '2020-09-05T15:43:02Z', 'closed_at': '2021-03-03T04:45:33Z', 'labels': []}
+{'issuenumber': 1590, 'title': 'doctoc anchors not working with codimd (lowercase/uppercase?) ', 'state': 'closed', 'created_at': '2020-09-03T08:45:55Z', 'closed_at': '2021-02-28T05:55:05Z', 'labels': []}
+{'issuenumber': 1584, 'title': 'ERROR: password authentication failed for user "hackmd"', 'state': 'closed', 'created_at': '2020-08-27T18:45:55Z', 'closed_at': '2020-08-28T07:05:05Z', 'labels': []}
+{'issuenumber': 1582, 'title': 'Icon for "Sign in via Google" is not compliant with "Sign-In Branding Guidelines"', 'state': 'closed', 'created_at': '2020-08-25T15:35:34Z', 'closed_at': '2021-05-11T09:41:33Z', 'labels': []}
+{'issuenumber': 1579, 'title': 'sequelize.import is obsolete', 'state': 'closed', 'created_at': '2020-08-20T08:19:08Z', 'closed_at': '2021-10-22T07:23:51Z', 'labels': []}
+{'issuenumber': 1578, 'title': 'args for include in EJS should be surrounded', 'state': 'closed', 'created_at': '2020-08-20T08:15:35Z', 'closed_at': '2021-07-09T07:06:06Z', 'labels': []}
+{'issuenumber': 1576, 'title': 'Shortly after startup, CodiMD fails to load notes', 'state': 'closed', 'created_at': '2020-08-18T14:22:35Z', 'closed_at': '2021-05-12T15:41:52Z', 'labels': []}
+{'issuenumber': 1573, 'title': 'CodiMD@1.6.0: LDAP authentication is not working', 'state': 'closed', 'created_at': '2020-08-13T15:37:49Z', 'closed_at': '2021-05-13T06:24:48Z', 'labels': []}
+{'issuenumber': 1572, 'title': "imageUploadType use s3 with docker ,can't use", 'state': 'closed', 'created_at': '2020-08-13T09:53:23Z', 'closed_at': '2021-05-19T07:42:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1568, 'title': 'GraphViz engine option', 'state': 'closed', 'created_at': '2020-08-11T14:44:27Z', 'closed_at': '2020-08-14T04:41:24Z', 'labels': {'name': 'markdown'}}
+{'issuenumber': 1564, 'title': 'Import all existing .md files at once from local storage (PC)', 'state': 'closed', 'created_at': '2020-07-27T01:42:54Z', 'closed_at': '2021-05-13T03:32:51Z', 'labels': []}
+{'issuenumber': 1563, 'title': 'RTL languages support', 'state': 'closed', 'created_at': '2020-07-27T01:35:19Z', 'closed_at': '2021-02-28T06:16:28Z', 'labels': []}
+{'issuenumber': 1562, 'title': '求一个word导入功能', 'state': 'closed', 'created_at': '2020-07-23T14:08:28Z', 'closed_at': '2021-02-28T06:17:23Z', 'labels': []}
+{'issuenumber': 1560, 'title': 'the register button is grey unavaliable', 'state': 'closed', 'created_at': '2020-07-21T09:13:44Z', 'closed_at': '2020-07-21T09:35:54Z', 'labels': []}
+{'issuenumber': 1558, 'title': 'Am I authenticating?', 'state': 'closed', 'created_at': '2020-07-20T13:16:56Z', 'closed_at': '2020-07-20T13:59:50Z', 'labels': []}
+{'issuenumber': 1545, 'title': 'Support YAML metadata image tag', 'state': 'closed', 'created_at': '2020-06-27T13:06:04Z', 'closed_at': '2020-07-10T02:33:56Z', 'labels': []}
+{'issuenumber': 1544, 'title': 'Enable mediawiki export format', 'state': 'closed', 'created_at': '2020-06-24T09:43:12Z', 'closed_at': '2021-05-11T07:37:37Z', 'labels': []}
+{'issuenumber': 1539, 'title': 'Night mode: no edit/both button highlight', 'state': 'closed', 'created_at': '2020-06-17T23:44:53Z', 'closed_at': '2020-09-10T07:32:07Z', 'labels': []}
+{'issuenumber': 1538, 'title': 'Option to override webpack baseUrl on runtime', 'state': 'closed', 'created_at': '2020-06-10T05:28:51Z', 'closed_at': '2020-07-10T09:37:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1526, 'title': 'Docker deployment: authentication required', 'state': 'closed', 'created_at': '2020-05-22T10:19:46Z', 'closed_at': '2021-02-28T06:18:33Z', 'labels': []}
+{'issuenumber': 1524, 'title': 'How can I prevent guests viewing ?', 'state': 'closed', 'created_at': '2020-05-20T08:26:29Z', 'closed_at': '2021-02-28T06:30:14Z', 'labels': []}
+{'issuenumber': 1523, 'title': 'some of notes is hidden  after upgrade from 1.5.0 to 1.6.0', 'state': 'closed', 'created_at': '2020-05-19T09:18:18Z', 'closed_at': '2021-05-12T15:49:14Z', 'labels': []}
+{'issuenumber': 1516, 'title': '[hackmd:2.0.1] crash with count note failed', 'state': 'closed', 'created_at': '2020-05-15T09:37:41Z', 'closed_at': '2020-05-17T05:31:04Z', 'labels': []}
+{'issuenumber': 1511, 'title': 'oauth2 and hydra', 'state': 'closed', 'created_at': '2020-05-10T17:15:47Z', 'closed_at': '2020-05-13T08:26:27Z', 'labels': []}
+{'issuenumber': 1510, 'title': 'CodeMirror div covered by status-bar', 'state': 'closed', 'created_at': '2020-05-07T17:39:48Z', 'closed_at': '2021-05-12T16:14:23Z', 'labels': []}
+{'issuenumber': 1508, 'title': "Guest can't create new pad since upgrade to 2.0.1", 'state': 'closed', 'created_at': '2020-05-03T00:58:52Z', 'closed_at': '2020-05-03T01:06:24Z', 'labels': []}
+{'issuenumber': 1503, 'title': 'Use latest branch develop repo, local docker build is not runnable and causes exception "crypto.scrypt not found: Node.js v10.5.0+ required".', 'state': 'closed', 'created_at': '2020-04-30T14:36:59Z', 'closed_at': '2020-05-20T07:11:54Z', 'labels': []}
+{'issuenumber': 1499, 'title': 'Unauthorized users see an internal server error when creating a new freeurl pad if allow_anonymous is false', 'state': 'closed', 'created_at': '2020-04-29T20:11:06Z', 'closed_at': '2020-05-11T08:05:21Z', 'labels': []}
+{'issuenumber': 1496, 'title': "Tags in YAML metadata can't handle arrays", 'state': 'closed', 'created_at': '2020-04-27T09:22:09Z', 'closed_at': '2020-07-09T07:50:59Z', 'labels': []}
+{'issuenumber': 1495, 'title': 'https://t.me/Villaofads/87', 'state': 'closed', 'created_at': '2020-04-26T12:53:43Z', 'closed_at': '2020-04-26T12:53:58Z', 'labels': []}
+{'issuenumber': 1493, 'title': "Using docker-compose can't use as anonymous or register", 'state': 'closed', 'created_at': '2020-04-26T01:05:37Z', 'closed_at': '2020-04-26T15:15:29Z', 'labels': []}
+{'issuenumber': 1492, 'title': 'Reduce size of final docker image', 'state': 'closed', 'created_at': '2020-04-24T10:02:51Z', 'closed_at': '2021-05-12T16:04:43Z', 'labels': []}
+{'issuenumber': 1491, 'title': 'Consider removing the "btn-social" class for custom OAuth2 providers (and potentially others)', 'state': 'closed', 'created_at': '2020-04-20T16:42:14Z', 'closed_at': '2020-05-25T14:27:15Z', 'labels': []}
+{'issuenumber': 1489, 'title': 'GitHub avatar invalid URL', 'state': 'closed', 'created_at': '2020-04-20T09:06:38Z', 'closed_at': '2020-04-25T06:53:58Z', 'labels': []}
+{'issuenumber': 1485, 'title': 'Suffix "0" when exporting user data', 'state': 'closed', 'created_at': '2020-04-16T14:33:04Z', 'closed_at': '2021-05-13T04:56:04Z', 'labels': []}
+{'issuenumber': 1480, 'title': 'Feature Request: ability to gain access to a note by clicking/pasting the URL once', 'state': 'closed', 'created_at': '2020-04-09T15:44:21Z', 'closed_at': '2020-04-09T17:43:47Z', 'labels': []}
+{'issuenumber': 1476, 'title': 'Have disabled anonymous usage, can anonymously create new note on free URL ', 'state': 'closed', 'created_at': '2020-04-09T14:19:54Z', 'closed_at': '2020-04-09T18:41:44Z', 'labels': []}
+{'issuenumber': 1468, 'title': 'Missing book mode functionality', 'state': 'closed', 'created_at': '2020-03-31T10:14:06Z', 'closed_at': '2020-04-01T02:38:26Z', 'labels': []}
+{'issuenumber': 1466, 'title': 'Add Prometheus metrics', 'state': 'closed', 'created_at': '2020-03-31T08:25:45Z', 'closed_at': '2020-05-13T08:54:44Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 1464, 'title': '[Doc] Wrong uploads path', 'state': 'closed', 'created_at': '2020-03-28T13:00:33Z', 'closed_at': '2020-03-31T14:28:16Z', 'labels': []}
+{'issuenumber': 1454, 'title': 'docker image use unmaintained debian jessie', 'state': 'closed', 'created_at': '2020-03-13T10:46:04Z', 'closed_at': '2020-03-17T11:37:45Z', 'labels': {'name': 'docker'}}
+{'issuenumber': 1452, 'title': "Cannot find module 'lib/imageRouter/minio'", 'state': 'closed', 'created_at': '2020-03-11T20:09:55Z', 'closed_at': '2020-03-13T13:22:37Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1444, 'title': 'Login-button doesnt work', 'state': 'closed', 'created_at': '2020-03-06T09:44:55Z', 'closed_at': '2020-03-06T13:02:33Z', 'labels': []}
+{'issuenumber': 1436, 'title': 'Render csv codeblock as table', 'state': 'closed', 'created_at': '2020-03-02T06:12:04Z', 'closed_at': '2020-07-09T09:37:46Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 1431, 'title': 'Users are not redirected back to their desired page after being redirected to login', 'state': 'closed', 'created_at': '2020-02-29T12:09:02Z', 'closed_at': '2021-06-16T12:56:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1425, 'title': 'Bad Copy/Paste of Image converted to Base64 (~10,000 Lines) - Server Crash ', 'state': 'closed', 'created_at': '2020-02-28T02:48:33Z', 'closed_at': '2020-07-06T23:53:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1423, 'title': 'codi crashes on login if the oauth2 provider was not configured to supply emails', 'state': 'closed', 'created_at': '2020-02-27T12:35:20Z', 'closed_at': '2020-02-28T07:03:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1414, 'title': 'default text not loaded when using direct URL note creation', 'state': 'closed', 'created_at': '2020-02-24T15:13:19Z', 'closed_at': '2021-05-12T16:06:58Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1413, 'title': 'Support PlantUML syntax highlighting', 'state': 'closed', 'created_at': '2020-02-24T01:46:31Z', 'closed_at': '2020-03-13T15:19:41Z', 'labels': {'name': 'editor/syntax-highlighting'}}
+{'issuenumber': 1412, 'title': 'Upgrade mermaid-js 8.2.3 to 8.4.7', 'state': 'closed', 'created_at': '2020-02-20T18:22:25Z', 'closed_at': '2020-02-26T15:08:14Z', 'labels': []}
+{'issuenumber': 1411, 'title': '[Feature Request] Zoom in/out images on mouse click', 'state': 'closed', 'created_at': '2020-02-19T03:26:11Z', 'closed_at': '2021-05-12T16:23:03Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1409, 'title': 'Feature request: Only allow certain accounts to edit', 'state': 'closed', 'created_at': '2020-02-13T17:18:00Z', 'closed_at': '2020-02-14T08:26:46Z', 'labels': []}
+{'issuenumber': 1407, 'title': 'Are there any plan of supporting addons of mindmap?', 'state': 'closed', 'created_at': '2020-02-13T09:49:44Z', 'closed_at': '2020-07-15T07:54:49Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 1404, 'title': 'Question - does it possible to only enable certain permissions?', 'state': 'closed', 'created_at': '2020-02-09T04:53:56Z', 'closed_at': '2020-02-10T07:14:43Z', 'labels': []}
+{'issuenumber': 1403, 'title': 'Question - how to enable Sync with GitHub feature?', 'state': 'closed', 'created_at': '2020-02-07T03:59:16Z', 'closed_at': '2020-02-07T04:01:50Z', 'labels': []}
+{'issuenumber': 1402, 'title': 'Question - how to limit access the published notes to only signed-in users?', 'state': 'closed', 'created_at': '2020-02-06T10:05:58Z', 'closed_at': '2020-02-26T03:56:40Z', 'labels': []}
+{'issuenumber': 1401, 'title': 'Question - does this project has index page for all notes?', 'state': 'closed', 'created_at': '2020-02-06T09:58:25Z', 'closed_at': '2020-02-06T10:01:57Z', 'labels': []}
+{'issuenumber': 1396, 'title': 'Improve file base database config & documentation', 'state': 'closed', 'created_at': '2020-01-31T04:18:29Z', 'closed_at': '2020-07-27T17:58:06Z', 'labels': []}
+{'issuenumber': 1393, 'title': 'Failed to download PDF due to early deletion?', 'state': 'closed', 'created_at': '2020-01-24T07:43:07Z', 'closed_at': '2020-02-26T16:31:52Z', 'labels': []}
+{'issuenumber': 1392, 'title': 'Using some unicode in markdown redirects to /404', 'state': 'closed', 'created_at': '2020-01-23T21:47:18Z', 'closed_at': '2021-10-31T18:00:08Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 1388, 'title': 'Question: Why do two different URLs of different lengths exist to identify a note?', 'state': 'closed', 'created_at': '2020-01-14T01:55:34Z', 'closed_at': '2021-05-12T16:23:38Z', 'labels': []}
+{'issuenumber': 1387, 'title': 'Does codimd have a global administrator', 'state': 'closed', 'created_at': '2020-01-10T22:52:40Z', 'closed_at': '2021-05-12T16:07:33Z', 'labels': []}
+{'issuenumber': 1383, 'title': 'Add support for hostedDomain parameter in passport ', 'state': 'closed', 'created_at': '2020-01-03T16:27:06Z', 'closed_at': '2020-02-28T10:03:20Z', 'labels': []}
+{'issuenumber': 1380, 'title': 'Support RTL', 'state': 'closed', 'created_at': '2019-12-14T17:06:13Z', 'closed_at': '2019-12-17T17:37:19Z', 'labels': []}
+{'issuenumber': 1375, 'title': 'codimd does not specify a scope to passport', 'state': 'closed', 'created_at': '2019-12-10T23:37:27Z', 'closed_at': '2020-02-28T07:04:30Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 1374, 'title': 'Graphviz does not work in develop branch ', 'state': 'closed', 'created_at': '2019-12-10T22:03:14Z', 'closed_at': '2020-02-26T14:59:15Z', 'labels': {'name': 'upstream'}}
+{'issuenumber': 1373, 'title': 'Arbitrary oauth2 providers', 'state': 'closed', 'created_at': '2019-12-10T09:11:49Z', 'closed_at': '2020-02-28T08:52:40Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 1372, 'title': 'Giving notes a specific URL | Consistent URL', 'state': 'closed', 'created_at': '2019-12-06T10:58:30Z', 'closed_at': '2020-02-27T01:29:08Z', 'labels': []}
+{'issuenumber': 1369, 'title': "manage_users tries to read property 'email' of null ", 'state': 'closed', 'created_at': '2019-12-05T00:59:48Z', 'closed_at': '2019-12-05T16:02:15Z', 'labels': []}
+{'issuenumber': 1367, 'title': 'How to implement fail2ban?', 'state': 'closed', 'created_at': '2019-12-02T14:06:48Z', 'closed_at': '2021-05-12T15:53:31Z', 'labels': []}
+{'issuenumber': 1366, 'title': '[docker] How can I add user without OAuth and disable CMD_ALLOW_EMAIL_REGISTER?', 'state': 'closed', 'created_at': '2019-12-02T13:32:00Z', 'closed_at': '2019-12-05T03:54:16Z', 'labels': []}
+{'issuenumber': 1359, 'title': '[PaaS Deployment] Scalingo one-click button', 'state': 'closed', 'created_at': '2019-11-29T09:27:54Z', 'closed_at': '2019-12-02T11:06:41Z', 'labels': []}
+{'issuenumber': 1358, 'title': 'urlpath config is broken', 'state': 'closed', 'created_at': '2019-11-29T02:27:03Z', 'closed_at': '2019-12-13T09:24:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1356, 'title': 'missing mysql2 package on v1.4.0', 'state': 'closed', 'created_at': '2019-11-28T02:49:10Z', 'closed_at': '2019-11-30T16:28:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1354, 'title': 'Picture upload to minio error occurred after update to 1.4.0', 'state': 'closed', 'created_at': '2019-11-23T14:10:42Z', 'closed_at': '2019-12-12T15:46:13Z', 'labels': []}
+{'issuenumber': 1353, 'title': '[docker] Reverse Proxy problem', 'state': 'closed', 'created_at': '2019-11-22T08:47:27Z', 'closed_at': '2019-12-04T12:57:34Z', 'labels': []}
+{'issuenumber': 1351, 'title': '[security][docker] pcheck call puts DB password in global process list', 'state': 'closed', 'created_at': '2019-11-21T10:07:18Z', 'closed_at': '2019-11-29T07:09:46Z', 'labels': {'name': 'security'}}
+{'issuenumber': 1348, 'title': 'Docker repository archived and not up to date but referenced for docker deployment', 'state': 'closed', 'created_at': '2019-11-13T08:44:19Z', 'closed_at': '2019-11-13T17:29:28Z', 'labels': {'name': 'new release'}}
+{'issuenumber': 1347, 'title': 'ver 1.4.0 connect local host?', 'state': 'closed', 'created_at': '2019-11-13T04:39:36Z', 'closed_at': '2019-11-29T07:09:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1345, 'title': 'Path for picture upload not working after update to 1.4.0', 'state': 'closed', 'created_at': '2019-11-11T20:57:10Z', 'closed_at': '2019-11-14T21:39:26Z', 'labels': {'name': 'new release'}}
+{'issuenumber': 1340, 'title': 'Question : is master branch aligned with release ?', 'state': 'closed', 'created_at': '2019-11-08T14:29:47Z', 'closed_at': '2019-11-11T10:17:40Z', 'labels': []}
+{'issuenumber': 1334, 'title': 'Click to Deploy On Heroku Error', 'state': 'closed', 'created_at': '2019-11-02T12:28:17Z', 'closed_at': '2019-11-02T13:42:28Z', 'labels': []}
+{'issuenumber': 1333, 'title': 'Configurable editor color scheme', 'state': 'closed', 'created_at': '2019-11-02T05:33:33Z', 'closed_at': '2020-02-05T07:56:04Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 1330, 'title': 'Documentation is for unreleased version', 'state': 'closed', 'created_at': '2019-10-29T12:24:24Z', 'closed_at': '2019-11-14T05:28:49Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 1329, 'title': 'Heroku one-click deployment fails', 'state': 'closed', 'created_at': '2019-10-28T15:50:39Z', 'closed_at': '2019-10-28T15:53:03Z', 'labels': []}
+{'issuenumber': 1314, 'title': 'Browser stuck  when useing Mermaid excludes weekdays feature', 'state': 'closed', 'created_at': '2019-10-22T18:09:06Z', 'closed_at': '2020-02-27T01:32:20Z', 'labels': {'name': 'upstream'}}
+{'issuenumber': 1312, 'title': 'Markdown hyperlinks inside graphviz', 'state': 'closed', 'created_at': '2019-10-22T16:48:54Z', 'closed_at': '2019-10-22T19:35:03Z', 'labels': []}
+{'issuenumber': 1311, 'title': "Heroku Build failed: 'Outdated Yarn lockfile'", 'state': 'closed', 'created_at': '2019-10-22T12:32:30Z', 'closed_at': '2019-10-23T11:05:26Z', 'labels': []}
+{'issuenumber': 1307, 'title': 'Update markdownlint package to latest version', 'state': 'closed', 'created_at': '2019-10-21T02:13:01Z', 'closed_at': '2019-11-01T09:19:51Z', 'labels': {'name': 'Hacktoberfest'}}
+{'issuenumber': 1305, 'title': 'Git(-Hub/Lab) compatible (lower-case) header references', 'state': 'closed', 'created_at': '2019-10-19T18:28:48Z', 'closed_at': '2019-10-30T06:44:41Z', 'labels': []}
+{'issuenumber': 1304, 'title': 'two or three people on the same page，can not see who is modifly this page!', 'state': 'closed', 'created_at': '2019-10-17T13:29:06Z', 'closed_at': '2019-10-18T11:40:06Z', 'labels': []}
+{'issuenumber': 1303, 'title': 'two or three people on the same page，can not see who', 'state': 'closed', 'created_at': '2019-10-17T13:27:47Z', 'closed_at': '2019-10-17T13:33:20Z', 'labels': []}
+{'issuenumber': 1302, 'title': 'Code syntax highlight on pdf is different from that on preview.', 'state': 'closed', 'created_at': '2019-10-17T07:13:02Z', 'closed_at': '2019-10-22T23:22:55Z', 'labels': []}
+{'issuenumber': 1299, 'title': 'Print blank pages when using Print-pdf for slides ', 'state': 'closed', 'created_at': '2019-10-12T04:27:18Z', 'closed_at': '2019-12-23T23:33:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1298, 'title': 'CodiMD fails with phantomjs ENOENT', 'state': 'closed', 'created_at': '2019-10-10T11:08:18Z', 'closed_at': '2019-10-10T19:08:59Z', 'labels': []}
+{'issuenumber': 1295, 'title': "(GitLab) OAuth doesn't use proxy (variable)", 'state': 'closed', 'created_at': '2019-10-08T12:34:40Z', 'closed_at': '2019-11-01T02:22:09Z', 'labels': []}
+{'issuenumber': 1292, 'title': 'Graphviz does not work in develop branch', 'state': 'closed', 'created_at': '2019-10-04T06:01:24Z', 'closed_at': '2019-10-05T08:31:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1287, 'title': '"error Your lockfile needs to be updated" for Heroku One Click deployment', 'state': 'closed', 'created_at': '2019-09-27T18:34:46Z', 'closed_at': '2019-09-30T04:08:24Z', 'labels': []}
+{'issuenumber': 1284, 'title': 'CDN version updated but not their hashes breaking the frontend', 'state': 'closed', 'created_at': '2019-09-23T23:54:27Z', 'closed_at': '2019-10-05T08:31:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1279, 'title': 'Add the ability to insert charts', 'state': 'closed', 'created_at': '2019-09-12T12:20:11Z', 'closed_at': '2019-10-07T09:49:40Z', 'labels': []}
+{'issuenumber': 1276, 'title': 'Do i need restart app when i change config(config.json)?', 'state': 'closed', 'created_at': '2019-09-10T10:05:45Z', 'closed_at': '2019-10-20T07:16:26Z', 'labels': []}
+{'issuenumber': 1270, 'title': 'Installation broken due to dependency js-sequence-diagrams no longer available in specified version from yarn', 'state': 'closed', 'created_at': '2019-09-06T15:15:19Z', 'closed_at': '2019-10-07T09:50:03Z', 'labels': []}
+{'issuenumber': 1269, 'title': 'I want to use GitHub Enterprise with GitHub auth', 'state': 'closed', 'created_at': '2019-09-03T08:00:52Z', 'closed_at': '2019-11-01T02:22:47Z', 'labels': {'name': 'Hacktoberfest'}}
+{'issuenumber': 1265, 'title': 'Enhancement: should render container without default summary text', 'state': 'closed', 'created_at': '2019-08-27T16:04:19Z', 'closed_at': '2019-09-07T17:10:16Z', 'labels': []}
+{'issuenumber': 1260, 'title': 'open the history page, SyntaxError: Unexpected end of JSON input', 'state': 'closed', 'created_at': '2019-08-19T01:24:47Z', 'closed_at': '2019-09-13T02:48:09Z', 'labels': []}
+{'issuenumber': 1256, 'title': 'Embed markdownlint', 'state': 'closed', 'created_at': '2019-08-14T05:35:08Z', 'closed_at': '2019-09-07T17:09:01Z', 'labels': []}
+{'issuenumber': 1254, 'title': 'npm run build - Exit errno 137', 'state': 'closed', 'created_at': '2019-08-07T06:38:06Z', 'closed_at': '2019-08-07T07:13:40Z', 'labels': []}
+{'issuenumber': 1246, 'title': "[BUG] Slides' print-pdf function prints only background", 'state': 'closed', 'created_at': '2019-08-01T10:15:07Z', 'closed_at': '2019-11-07T05:42:36Z', 'labels': []}
+{'issuenumber': 1244, 'title': 'Stop assigning random names to guests', 'state': 'closed', 'created_at': '2019-07-31T17:43:04Z', 'closed_at': '2019-08-01T04:44:40Z', 'labels': []}
+{'issuenumber': 1241, 'title': 'Features page does not open', 'state': 'closed', 'created_at': '2019-07-23T18:05:25Z', 'closed_at': '2019-07-23T18:10:54Z', 'labels': []}
+{'issuenumber': 1237, 'title': 'Feature Request: Holding a key (hjkl) in VIM edit mode continues to scroll up', 'state': 'closed', 'created_at': '2019-07-12T20:00:28Z', 'closed_at': '2019-08-08T14:56:38Z', 'labels': []}
+{'issuenumber': 1235, 'title': 'http working, https is not', 'state': 'closed', 'created_at': '2019-07-09T14:16:22Z', 'closed_at': '2019-07-28T12:07:05Z', 'labels': []}
+{'issuenumber': 1233, 'title': 'XSS Vulnerability in Markdown Editor ', 'state': 'closed', 'created_at': '2019-07-03T08:49:25Z', 'closed_at': '2019-08-01T16:16:30Z', 'labels': {'name': 'upstream'}}
+{'issuenumber': 1231, 'title': 'Unable to connect properly via our Active Directory accounts', 'state': 'closed', 'created_at': '2019-06-28T08:15:04Z', 'closed_at': '2019-06-29T01:22:18Z', 'labels': []}
+{'issuenumber': 1229, 'title': 'Error when i will start hackmd after a server restart', 'state': 'closed', 'created_at': '2019-06-27T18:29:47Z', 'closed_at': '2019-07-28T12:06:51Z', 'labels': []}
+{'issuenumber': 1225, 'title': 'flowchart.js update', 'state': 'closed', 'created_at': '2019-06-24T02:41:41Z', 'closed_at': '2019-06-24T04:55:47Z', 'labels': []}
+{'issuenumber': 1222, 'title': 'Internal Server Error', 'state': 'closed', 'created_at': '2019-06-15T12:09:04Z', 'closed_at': '2019-06-16T08:33:07Z', 'labels': []}
+{'issuenumber': 1221, 'title': 'How to implement a header authorization?', 'state': 'closed', 'created_at': '2019-06-13T03:38:43Z', 'closed_at': '2019-10-29T06:43:27Z', 'labels': []}
+{'issuenumber': 1219, 'title': 'Naming', 'state': 'closed', 'created_at': '2019-06-11T13:14:03Z', 'closed_at': '2020-03-19T13:20:47Z', 'labels': []}
+{'issuenumber': 1217, 'title': 'Add markdown equivalent to <details> snippets', 'state': 'closed', 'created_at': '2019-05-24T16:29:56Z', 'closed_at': '2019-08-03T11:58:03Z', 'labels': []}
+{'issuenumber': 1216, 'title': 'Hope the permission list could be specified by configuration.', 'state': 'closed', 'created_at': '2019-05-22T10:46:05Z', 'closed_at': '2019-05-22T10:49:15Z', 'labels': []}
+{'issuenumber': 1215, 'title': 'Far too much Sessions after One week of running HackMD', 'state': 'closed', 'created_at': '2019-05-21T08:55:30Z', 'closed_at': '2019-05-23T08:32:57Z', 'labels': []}
+{'issuenumber': 1213, 'title': '"Refresh to enjoy new features." popping up repeatedly', 'state': 'closed', 'created_at': '2019-05-08T20:50:41Z', 'closed_at': '2019-05-10T09:30:12Z', 'labels': []}
+{'issuenumber': 1212, 'title': "Don't insert <br/> within paragraphs, unless the line ends with at least two spaces", 'state': 'closed', 'created_at': '2019-05-06T10:37:36Z', 'closed_at': '2019-11-01T04:16:07Z', 'labels': {'name': 'Hacktoberfest'}}
+{'issuenumber': 1210, 'title': "Sequence diagram doesn' work", 'state': 'closed', 'created_at': '2019-05-03T14:14:15Z', 'closed_at': '2019-07-26T16:48:04Z', 'labels': []}
+{'issuenumber': 1209, 'title': 'CodiMD  returns with code:521', 'state': 'closed', 'created_at': '2019-04-30T08:55:53Z', 'closed_at': '2019-04-30T12:04:50Z', 'labels': []}
+{'issuenumber': 1208, 'title': 'https://demo.codimd.org/ is down?', 'state': 'closed', 'created_at': '2019-04-27T07:35:20Z', 'closed_at': '2019-04-27T15:10:23Z', 'labels': []}
+{'issuenumber': 1207, 'title': 'Cannot scroll past end of editor when window is narrow', 'state': 'closed', 'created_at': '2019-04-25T00:27:12Z', 'closed_at': '2019-08-21T07:37:51Z', 'labels': []}
+{'issuenumber': 1206, 'title': 'Heroku one click deployment not working', 'state': 'closed', 'created_at': '2019-04-24T06:35:29Z', 'closed_at': '2019-08-14T15:47:09Z', 'labels': []}
+{'issuenumber': 1203, 'title': 'Permissions - Editable', 'state': 'closed', 'created_at': '2019-04-22T21:09:34Z', 'closed_at': '2019-07-31T16:44:17Z', 'labels': []}
+{'issuenumber': 1200, 'title': 'Failed when deploy to Heroku.', 'state': 'closed', 'created_at': '2019-04-19T21:40:27Z', 'closed_at': '2019-08-14T15:47:09Z', 'labels': []}
+{'issuenumber': 1197, 'title': "Migration didn't return a promise", 'state': 'closed', 'created_at': '2019-04-18T16:56:50Z', 'closed_at': '2019-04-19T17:07:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1195, 'title': 'Controlling the cursor buggy in iOS', 'state': 'closed', 'created_at': '2019-04-18T06:49:32Z', 'closed_at': '2020-05-12T14:20:46Z', 'labels': []}
+{'issuenumber': 1189, 'title': 'allow raw view of code + enable CORS (so browsers can `fetch` content from hackmd documents)', 'state': 'closed', 'created_at': '2019-04-10T17:24:13Z', 'closed_at': '2019-04-18T03:29:35Z', 'labels': []}
+{'issuenumber': 1187, 'title': 'js-sequence-diagrams not found', 'state': 'closed', 'created_at': '2019-04-08T02:36:56Z', 'closed_at': '2019-04-10T12:16:38Z', 'labels': {'name': 'upstream'}}
+{'issuenumber': 1186, 'title': 'image post error ', 'state': 'closed', 'created_at': '2019-04-07T14:07:19Z', 'closed_at': '2019-08-01T04:45:14Z', 'labels': []}
+{'issuenumber': 1185, 'title': 'Edit mode but only with the output of Markdown', 'state': 'closed', 'created_at': '2019-03-29T21:37:41Z', 'closed_at': '2021-05-12T15:47:17Z', 'labels': []}
+{'issuenumber': 1183, 'title': 'night mode does not shade some view mode buttons', 'state': 'closed', 'created_at': '2019-03-29T05:47:44Z', 'closed_at': '2019-04-04T05:56:54Z', 'labels': []}
+{'issuenumber': 1177, 'title': 'serverURL still uses port 3000 instead of the remapped port of docker', 'state': 'closed', 'created_at': '2019-03-20T08:47:24Z', 'closed_at': '2019-03-20T09:07:03Z', 'labels': []}
+{'issuenumber': 1173, 'title': 'Permissions of Upload-Directory', 'state': 'closed', 'created_at': '2019-03-18T09:27:39Z', 'closed_at': '2019-03-18T09:44:26Z', 'labels': []}
+{'issuenumber': 1170, 'title': 'Switching to the open-core model', 'state': 'closed', 'created_at': '2019-03-16T04:29:19Z', 'closed_at': '2019-03-27T11:12:55Z', 'labels': {'name': 'Community'}}
+{'issuenumber': 1167, 'title': 'flowchart 版本低', 'state': 'closed', 'created_at': '2019-03-13T07:22:37Z', 'closed_at': '2019-08-09T12:56:08Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1165, 'title': 'urlPath directive has no effect on some css files', 'state': 'closed', 'created_at': '2019-03-09T00:21:14Z', 'closed_at': '2020-07-10T09:37:24Z', 'labels': []}
+{'issuenumber': 1164, 'title': 'Using emoji breaks HTML export', 'state': 'closed', 'created_at': '2019-03-08T10:07:08Z', 'closed_at': '2019-03-13T10:50:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1160, 'title': 'Google+ API Shutdown', 'state': 'closed', 'created_at': '2019-03-05T09:05:43Z', 'closed_at': '2019-03-09T13:50:21Z', 'labels': []}
+{'issuenumber': 1159, 'title': ' HSTS⇒maxAge in config must not be a string', 'state': 'closed', 'created_at': '2019-03-04T15:08:44Z', 'closed_at': '2019-03-04T15:59:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1154, 'title': 'No Text higlight after $$', 'state': 'closed', 'created_at': '2019-02-28T12:42:12Z', 'closed_at': '2019-02-28T12:48:47Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 1151, 'title': 'Sessions are only preserved over short timespans on my Heroku (free) deployed Codimd instance even though CMD_SESSION_LIFE is set to very long.', 'state': 'closed', 'created_at': '2019-02-21T20:41:56Z', 'closed_at': '2019-02-21T21:21:20Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1149, 'title': 'Using CMD_URL_PATH breaks codimd', 'state': 'closed', 'created_at': '2019-02-17T09:54:30Z', 'closed_at': '2019-02-19T00:58:02Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 1147, 'title': 'Imagedata pasting fails with invalid URL error', 'state': 'closed', 'created_at': '2019-02-14T14:47:49Z', 'closed_at': '2019-02-14T14:53:55Z', 'labels': []}
+{'issuenumber': 1146, 'title': 'Question: Is Commenting on the View Mode available?', 'state': 'closed', 'created_at': '2019-02-14T12:17:00Z', 'closed_at': '2019-02-14T22:24:01Z', 'labels': []}
+{'issuenumber': 1144, 'title': 'Add an option to delete the permission that guests can view', 'state': 'closed', 'created_at': '2019-02-12T14:28:55Z', 'closed_at': '2019-09-23T02:17:55Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 1141, 'title': 'npm run build – Exit errno 1', 'state': 'closed', 'created_at': '2019-02-11T14:48:36Z', 'closed_at': '2019-02-15T08:56:37Z', 'labels': {'name': 'needs info'}}
+{'issuenumber': 1133, 'title': 'Codimd docker container creates own network, troubles to use it behing proxy', 'state': 'closed', 'created_at': '2019-01-28T10:19:39Z', 'closed_at': '2019-01-28T10:21:08Z', 'labels': []}
+{'issuenumber': 1132, 'title': 'Support Node 10 and beyond', 'state': 'closed', 'created_at': '2019-01-26T20:31:26Z', 'closed_at': '2021-05-12T16:17:13Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1129, 'title': 'PDF download crashes heroku app', 'state': 'closed', 'created_at': '2019-01-24T20:33:58Z', 'closed_at': '2019-01-25T17:27:51Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1126, 'title': 'Heroku deployment error - Outdated Yarn lockfile', 'state': 'closed', 'created_at': '2019-01-24T05:43:06Z', 'closed_at': '2019-01-24T11:22:10Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1118, 'title': 'Not redirected when not logged in', 'state': 'closed', 'created_at': '2019-01-14T06:17:03Z', 'closed_at': '2019-01-14T08:46:24Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1115, 'title': 'codimd (especially its docker image) should create its database does not exist', 'state': 'closed', 'created_at': '2019-01-09T13:49:10Z', 'closed_at': '2019-01-15T09:38:56Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1111, 'title': 'Fallback for CDN issues', 'state': 'closed', 'created_at': '2018-12-24T03:33:28Z', 'closed_at': '2018-12-24T06:49:04Z', 'labels': []}
+{'issuenumber': 1109, 'title': 'support lutim for image hosting', 'state': 'closed', 'created_at': '2018-12-21T17:19:07Z', 'closed_at': '2019-07-31T16:37:26Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 1107, 'title': 'Bad error message in `lib/config/index.js`', 'state': 'closed', 'created_at': '2018-12-21T14:25:48Z', 'closed_at': '2018-12-21T17:38:50Z', 'labels': []}
+{'issuenumber': 1106, 'title': '[refactor] Replace blueimp-md5 with nodejs internal MD5', 'state': 'closed', 'created_at': '2018-12-21T11:13:32Z', 'closed_at': '2019-01-05T13:08:24Z', 'labels': {'name': 'refactor'}}
+{'issuenumber': 1104, 'title': 'mattermost oauth2 behind reverse proxy', 'state': 'closed', 'created_at': '2018-12-20T16:10:33Z', 'closed_at': '2018-12-20T16:55:25Z', 'labels': []}
+{'issuenumber': 1102, 'title': 'A bug when upload image using filesystem (url.resolve)', 'state': 'closed', 'created_at': '2018-12-17T15:30:15Z', 'closed_at': '2018-12-20T21:42:18Z', 'labels': []}
+{'issuenumber': 1093, 'title': 'how can we reference math equations or figures?', 'state': 'closed', 'created_at': '2018-12-10T05:34:05Z', 'closed_at': '2018-12-12T20:23:34Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1090, 'title': '"Create note" autofill no longer works', 'state': 'closed', 'created_at': '2018-12-04T05:28:53Z', 'closed_at': '2018-12-26T10:11:56Z', 'labels': []}
+{'issuenumber': 1089, 'title': 'Heroku Deploy Failed due to "Outdated Yarn lockfile"', 'state': 'closed', 'created_at': '2018-12-03T23:41:39Z', 'closed_at': '2018-12-04T17:48:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1083, 'title': 'emacs mode: ctrl + N end up with Chrome new window', 'state': 'closed', 'created_at': '2018-11-27T20:09:40Z', 'closed_at': '2018-11-27T21:12:33Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1079, 'title': '[export user data] Slashes in note titles result in subdirectories', 'state': 'closed', 'created_at': '2018-11-27T09:12:42Z', 'closed_at': '2018-11-28T09:26:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1077, 'title': 'On slow~ish boxes, toobusy-js kicks in too early', 'state': 'closed', 'created_at': '2018-11-24T21:49:51Z', 'closed_at': '2019-07-31T16:42:28Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1074, 'title': 'How to run CodiMD on Debian 9 Server ?', 'state': 'closed', 'created_at': '2018-11-22T16:42:24Z', 'closed_at': '2018-11-23T16:34:39Z', 'labels': []}
+{'issuenumber': 1056, 'title': '400-style errors when signing in via OAuth2 with Nextcloud', 'state': 'closed', 'created_at': '2018-11-14T02:39:21Z', 'closed_at': '2018-11-27T01:03:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1052, 'title': 'Make robots.txt a special note', 'state': 'closed', 'created_at': '2018-11-12T19:31:55Z', 'closed_at': '2018-11-17T12:30:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1050, 'title': 'OAUTH GIThub and Twitter', 'state': 'closed', 'created_at': '2018-11-11T18:55:36Z', 'closed_at': '2018-11-11T19:04:53Z', 'labels': []}
+{'issuenumber': 1045, 'title': 'Under docker env image upload type minio failing', 'state': 'closed', 'created_at': '2018-11-09T06:01:57Z', 'closed_at': '2018-11-09T08:05:53Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 1042, 'title': "Can't edit document after using an empty headline", 'state': 'closed', 'created_at': '2018-11-07T12:26:46Z', 'closed_at': '2018-11-19T20:33:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1039, 'title': 'constant reloads when loosing access permissions while viewing a note', 'state': 'closed', 'created_at': '2018-11-06T11:18:25Z', 'closed_at': '2019-01-14T07:36:57Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1025, 'title': 'CodiMD should return 400 error when path contains subpath', 'state': 'closed', 'created_at': '2018-10-26T06:04:19Z', 'closed_at': '2018-10-27T09:38:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1022, 'title': 'Error after update', 'state': 'closed', 'created_at': '2018-10-22T02:22:33Z', 'closed_at': '2018-11-11T18:44:56Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1020, 'title': 'Improve low-contrast environment experience', 'state': 'closed', 'created_at': '2018-10-18T10:10:21Z', 'closed_at': '2019-03-28T19:07:02Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 1019, 'title': "I can't sign in by email with docker-hackmd!", 'state': 'closed', 'created_at': '2018-10-18T08:23:14Z', 'closed_at': '2018-11-26T23:29:19Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1016, 'title': 'No css/scripts referenced inside index html', 'state': 'closed', 'created_at': '2018-10-15T15:41:41Z', 'closed_at': '2018-10-16T11:31:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1015, 'title': 'HSTS maxAgeSeconds is passed as milliseconds', 'state': 'closed', 'created_at': '2018-10-14T11:54:33Z', 'closed_at': '2018-11-21T00:29:05Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1009, 'title': 'Update reveal.js to version 3.7.0', 'state': 'closed', 'created_at': '2018-10-11T17:56:43Z', 'closed_at': '2018-11-21T00:29:52Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1008, 'title': 'delete my account', 'state': 'closed', 'created_at': '2018-10-11T13:32:15Z', 'closed_at': '2018-10-11T13:44:12Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1005, 'title': 'CodiMD keeps reloading', 'state': 'closed', 'created_at': '2018-10-10T17:25:14Z', 'closed_at': '2018-10-15T15:11:07Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1001, 'title': '[Gitlab snippets] Too many projects to choose from', 'state': 'closed', 'created_at': '2018-10-09T07:00:11Z', 'closed_at': '2018-10-09T07:16:38Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 999, 'title': 'code highlight for Rust is not correct', 'state': 'closed', 'created_at': '2018-10-08T06:25:36Z', 'closed_at': '2018-10-08T07:12:15Z', 'labels': {'name': 'HackMD.io'}}
+{'issuenumber': 998, 'title': 'Proposition - Setup a discourse instance for the community', 'state': 'closed', 'created_at': '2018-10-07T21:48:35Z', 'closed_at': '2018-10-16T06:16:57Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 996, 'title': 'Add commenting guide', 'state': 'closed', 'created_at': '2018-10-07T10:52:28Z', 'closed_at': '2019-03-28T19:07:02Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 986, 'title': 'Export Gitlab Snippets 400 error visibility does not have a valid value', 'state': 'closed', 'created_at': '2018-10-04T02:03:27Z', 'closed_at': '2018-10-09T07:14:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 980, 'title': "Can't delete note in Safari 12", 'state': 'closed', 'created_at': '2018-10-03T12:31:53Z', 'closed_at': '2018-10-03T16:56:03Z', 'labels': {'name': 'question'}}
+{'issuenumber': 972, 'title': 'Google OAuth redirect URL uses http instead of https', 'state': 'closed', 'created_at': '2018-09-28T14:01:37Z', 'closed_at': '2018-09-29T10:06:01Z', 'labels': {'name': 'question'}}
+{'issuenumber': 969, 'title': 'What will become the future roadmap?(Or: Is CodiMD a wiki? )', 'state': 'closed', 'created_at': '2018-09-27T09:44:42Z', 'closed_at': '2019-03-28T19:07:01Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 965, 'title': 'Title Sort', 'state': 'closed', 'created_at': '2018-09-25T02:00:56Z', 'closed_at': '2018-09-25T08:22:52Z', 'labels': {'name': 'question'}}
+{'issuenumber': 957, 'title': '503Error', 'state': 'closed', 'created_at': '2018-09-17T19:18:37Z', 'closed_at': '2018-09-17T19:46:25Z', 'labels': {'name': 'question'}}
+{'issuenumber': 954, 'title': 'v', 'state': 'closed', 'created_at': '2018-09-17T12:32:25Z', 'closed_at': '2018-09-17T13:17:42Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 953, 'title': 'USECDN=false works on pads, but not the main page', 'state': 'closed', 'created_at': '2018-09-17T09:13:46Z', 'closed_at': '2018-09-24T11:33:24Z', 'labels': {'name': 'needs info'}}
+{'issuenumber': 951, 'title': "using ''@'localhost' denied (mysql)", 'state': 'closed', 'created_at': '2018-09-13T17:33:08Z', 'closed_at': '2018-09-13T18:08:30Z', 'labels': {'name': 'question'}}
+{'issuenumber': 949, 'title': 'Group Documents in Folders', 'state': 'closed', 'created_at': '2018-09-11T18:51:36Z', 'closed_at': '2018-09-11T19:00:22Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 948, 'title': 'Create development branch', 'state': 'closed', 'created_at': '2018-09-11T03:06:13Z', 'closed_at': '2018-11-25T00:37:32Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 945, 'title': 'Markdown to PDF: non-english characters are lost.', 'state': 'closed', 'created_at': '2018-09-07T04:59:10Z', 'closed_at': '2021-05-12T15:51:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 941, 'title': 'Demo instance and heroku limits', 'state': 'closed', 'created_at': '2018-09-06T07:23:30Z', 'closed_at': '2018-09-12T14:48:51Z', 'labels': {'name': 'Community'}}
+{'issuenumber': 935, 'title': 'End-to-end encryption', 'state': 'closed', 'created_at': '2018-09-04T23:08:36Z', 'closed_at': '2018-09-05T07:15:03Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 934, 'title': 'Feature request: Add light background editor theme', 'state': 'closed', 'created_at': '2018-09-04T16:45:54Z', 'closed_at': '2018-09-05T07:25:32Z', 'labels': {'name': 'question'}}
+{'issuenumber': 933, 'title': 'Error of deploying hackmd docker container on VM', 'state': 'closed', 'created_at': '2018-09-03T11:22:42Z', 'closed_at': '2018-09-04T12:44:18Z', 'labels': {'name': 'question'}}
+{'issuenumber': 931, 'title': 'trying to download PDF crashes the server', 'state': 'closed', 'created_at': '2018-08-29T17:52:35Z', 'closed_at': '2018-08-29T19:51:42Z', 'labels': {'name': 'question'}}
+{'issuenumber': 930, 'title': 'Add docs for generic oauth2', 'state': 'closed', 'created_at': '2018-08-28T20:23:34Z', 'closed_at': '2018-10-04T18:08:27Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 926, 'title': 'Markdeep Support?', 'state': 'closed', 'created_at': '2018-08-22T16:01:21Z', 'closed_at': '2018-10-09T23:14:05Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 923, 'title': 'CodiMD on Cloudron', 'state': 'closed', 'created_at': '2018-08-21T03:41:26Z', 'closed_at': '2018-08-21T07:13:53Z', 'labels': []}
+{'issuenumber': 922, 'title': "Markdown syntax doesn't generate `title` text", 'state': 'closed', 'created_at': '2018-08-19T06:45:01Z', 'closed_at': '2018-08-19T09:11:19Z', 'labels': []}
+{'issuenumber': 921, 'title': '[feature] Interactively toggling of todo list checkboxes', 'state': 'closed', 'created_at': '2018-08-16T13:24:10Z', 'closed_at': '2018-08-16T19:20:27Z', 'labels': []}
+{'issuenumber': 920, 'title': 'Please suggest a way to auto login', 'state': 'closed', 'created_at': '2018-08-16T03:46:27Z', 'closed_at': '2018-08-16T09:23:40Z', 'labels': {'name': 'question'}}
+{'issuenumber': 916, 'title': "Mattermost authentication doesn't work with Mattermost v5.0 and up", 'state': 'closed', 'created_at': '2018-08-12T11:24:39Z', 'closed_at': '2018-09-27T21:00:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 914, 'title': 'Screen stuck while editing large document', 'state': 'closed', 'created_at': '2018-08-07T02:19:37Z', 'closed_at': '2018-08-07T02:26:55Z', 'labels': []}
+{'issuenumber': 913, 'title': 'Problem to run last version with Nginx and pm2', 'state': 'closed', 'created_at': '2018-08-04T10:35:39Z', 'closed_at': '2018-08-04T16:23:49Z', 'labels': {'name': 'question'}}
+{'issuenumber': 911, 'title': "Community call - Let's meet!", 'state': 'closed', 'created_at': '2018-08-03T13:11:58Z', 'closed_at': '2019-03-28T19:07:01Z', 'labels': {'name': 'Community'}}
+{'issuenumber': 909, 'title': "don't show picture after give pic url", 'state': 'closed', 'created_at': '2018-07-31T06:36:39Z', 'closed_at': '2018-07-31T06:57:50Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 904, 'title': 'emitError: EEXIST: file already exists, mkdir...', 'state': 'closed', 'created_at': '2018-07-24T09:06:37Z', 'closed_at': '2018-07-25T10:30:26Z', 'labels': []}
+{'issuenumber': 903, 'title': 'email.toLowerCase is not a a function', 'state': 'closed', 'created_at': '2018-07-23T18:00:11Z', 'closed_at': '2018-09-05T10:36:30Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 901, 'title': 'Not a verified google app', 'state': 'closed', 'created_at': '2018-07-22T17:02:09Z', 'closed_at': '2018-07-22T17:03:26Z', 'labels': []}
+{'issuenumber': 900, 'title': '/config is served with a text/html Content-Type instead of a js one', 'state': 'closed', 'created_at': '2018-07-19T15:12:43Z', 'closed_at': '2018-07-19T15:15:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 899, 'title': 'Copy to Clipboard function(Code)', 'state': 'closed', 'created_at': '2018-07-18T05:50:29Z', 'closed_at': '2018-08-09T07:41:05Z', 'labels': {'name': 'needs info'}}
+{'issuenumber': 898, 'title': 'adapting AsciiDoc', 'state': 'closed', 'created_at': '2018-07-17T02:58:25Z', 'closed_at': '2018-07-17T15:51:46Z', 'labels': []}
+{'issuenumber': 897, 'title': 'Publish view does not work without Javascript, but downloaded HTML does (for the most part)', 'state': 'closed', 'created_at': '2018-07-12T14:50:03Z', 'closed_at': '2021-05-12T16:29:06Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 895, 'title': 'SequelizeDatabaseError: column "deleteToken" does not exist', 'state': 'closed', 'created_at': '2018-07-09T17:25:22Z', 'closed_at': '2018-09-24T22:37:44Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 891, 'title': "deserializeUser: TypeError: Cannot read property 'charAt' of undefined", 'state': 'closed', 'created_at': '2018-07-05T14:10:22Z', 'closed_at': '2018-07-28T13:03:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 889, 'title': 'CodiMD core languages and maintainers', 'state': 'closed', 'created_at': '2018-07-04T11:47:35Z', 'closed_at': '2019-03-28T19:07:01Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 888, 'title': 'Speaker Mode is broken', 'state': 'closed', 'created_at': '2018-07-04T08:10:03Z', 'closed_at': '2018-07-05T10:55:58Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 887, 'title': 'Snippet import from Gitlab does not work any more', 'state': 'closed', 'created_at': '2018-07-04T07:53:06Z', 'closed_at': '2018-07-31T08:55:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 882, 'title': '"Refresh to enjoy new features." always triggered if X-Content-Type-Options: nosniff is set', 'state': 'closed', 'created_at': '2018-07-03T17:01:11Z', 'closed_at': '2018-07-03T20:17:37Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 880, 'title': 'Upstream issue management', 'state': 'closed', 'created_at': '2018-07-03T11:19:20Z', 'closed_at': '2019-03-28T19:07:01Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 878, 'title': 'Fix some night mode issues', 'state': 'closed', 'created_at': '2018-07-01T11:23:50Z', 'closed_at': '2018-07-03T19:41:05Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 876, 'title': 'Upgrading a Docker alpine setup from 1.1.0 to 1.2.0 yields Internal Server Error', 'state': 'closed', 'created_at': '2018-06-30T20:15:24Z', 'closed_at': '2018-07-31T12:58:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 875, 'title': 'Migrate viz.js to version 2', 'state': 'closed', 'created_at': '2018-06-30T17:28:01Z', 'closed_at': '2019-03-28T19:07:01Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 874, 'title': 'Migrate bootstrap to version 4', 'state': 'closed', 'created_at': '2018-06-30T16:08:52Z', 'closed_at': '2019-03-28T19:07:00Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 873, 'title': 'Migrate sequelize to version 4', 'state': 'closed', 'created_at': '2018-06-30T16:06:38Z', 'closed_at': '2019-03-28T19:07:00Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 872, 'title': 'Migrate webpack to version 4', 'state': 'closed', 'created_at': '2018-06-30T16:02:34Z', 'closed_at': '2018-10-03T17:27:00Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 870, 'title': 'New logo/icon', 'state': 'closed', 'created_at': '2018-06-29T17:21:13Z', 'closed_at': '2018-09-03T07:06:36Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 867, 'title': '/auth/saml/callback returns 404', 'state': 'closed', 'created_at': '2018-06-27T09:41:12Z', 'closed_at': '2018-07-04T07:27:03Z', 'labels': {'name': 'question'}}
+{'issuenumber': 864, 'title': 'remove all trackers ', 'state': 'closed', 'created_at': '2018-06-26T12:56:33Z', 'closed_at': '2018-06-26T21:58:22Z', 'labels': {'name': 'question'}}
+{'issuenumber': 851, 'title': 'Center text', 'state': 'closed', 'created_at': '2018-06-23T00:13:23Z', 'closed_at': '2018-06-28T22:06:27Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 847, 'title': '"Refresh to enjoy new features." is inaccurate', 'state': 'closed', 'created_at': '2018-06-20T18:08:00Z', 'closed_at': '2018-06-23T23:58:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 842, 'title': 'Wrong default imageUploadType in README.md', 'state': 'closed', 'created_at': '2018-06-15T13:52:12Z', 'closed_at': '2018-06-18T01:42:43Z', 'labels': []}
+{'issuenumber': 841, 'title': 'HTML5-Shim ignores UseCDN: false', 'state': 'closed', 'created_at': '2018-06-12T08:55:02Z', 'closed_at': '2018-06-18T01:42:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 840, 'title': 'Deactivate Gravatar by config', 'state': 'closed', 'created_at': '2018-06-12T08:49:47Z', 'closed_at': '2018-06-23T23:59:07Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 838, 'title': 'Switching away from GitHub?', 'state': 'closed', 'created_at': '2018-06-07T08:50:22Z', 'closed_at': '2018-06-22T14:05:31Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 835, 'title': 'Unclean repository after running 1.1.1-ce', 'state': 'closed', 'created_at': '2018-06-03T20:28:12Z', 'closed_at': '2018-06-07T08:29:10Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 834, 'title': 'HackMD no longer comes up after crash with uncaught exception', 'state': 'closed', 'created_at': '2018-06-02T15:13:04Z', 'closed_at': '2018-06-23T21:42:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 831, 'title': 'Larger Checkbox Size in Slide Mode', 'state': 'closed', 'created_at': '2018-05-31T08:00:49Z', 'closed_at': '2018-06-23T19:50:02Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 829, 'title': '[request]: provide API for creating notes', 'state': 'closed', 'created_at': '2018-05-24T13:59:49Z', 'closed_at': '2018-06-23T19:50:35Z', 'labels': {'name': 'question'}}
+{'issuenumber': 822, 'title': 'POST to /new containing CRLF leads to unusable document', 'state': 'closed', 'created_at': '2018-05-15T13:32:49Z', 'closed_at': '2018-06-23T23:57:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 821, 'title': 'ER_DATA_TOO_LONG Problems with MySql', 'state': 'closed', 'created_at': '2018-05-15T13:09:10Z', 'closed_at': '2018-05-16T09:50:51Z', 'labels': {'name': 'needs info'}}
+{'issuenumber': 820, 'title': 'Exported PDF does not include images', 'state': 'closed', 'created_at': '2018-05-12T14:47:57Z', 'closed_at': '2018-06-23T23:57:26Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 819, 'title': 'nothing written to the db using sqlite', 'state': 'closed', 'created_at': '2018-05-11T16:26:31Z', 'closed_at': '2018-06-26T20:00:26Z', 'labels': {'name': 'needs info'}}
+{'issuenumber': 816, 'title': 'Wrong order of Headers in TOC/Menu if one level missing', 'state': 'closed', 'created_at': '2018-05-09T21:11:03Z', 'closed_at': '2018-07-04T19:13:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 815, 'title': 'Can Not connect hackmd.io directly in PRC', 'state': 'closed', 'created_at': '2018-05-07T14:56:10Z', 'closed_at': '2018-05-07T15:08:17Z', 'labels': []}
+{'issuenumber': 814, 'title': 'Can not deploy to heroku', 'state': 'closed', 'created_at': '2018-05-06T16:59:54Z', 'closed_at': '2018-05-31T09:40:40Z', 'labels': []}
+{'issuenumber': 812, 'title': 'Error to launch Hackmd in Synology Docker', 'state': 'closed', 'created_at': '2018-04-29T15:18:16Z', 'closed_at': '2018-04-29T17:27:22Z', 'labels': {'name': 'question'}}
+{'issuenumber': 810, 'title': '編輯工具列', 'state': 'closed', 'created_at': '2018-04-27T09:48:39Z', 'closed_at': '2018-04-27T09:59:50Z', 'labels': []}
+{'issuenumber': 809, 'title': 'hackmd support invite someone to edit together by email?', 'state': 'closed', 'created_at': '2018-04-25T16:21:40Z', 'closed_at': '2018-04-25T20:11:47Z', 'labels': {'name': 'question'}}
+{'issuenumber': 808, 'title': 'CodiMD command line interface', 'state': 'closed', 'created_at': '2018-04-25T15:05:53Z', 'closed_at': '2018-06-28T21:57:38Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 807, 'title': 'Add R syntax highlight support, please!', 'state': 'closed', 'created_at': '2018-04-24T19:27:36Z', 'closed_at': '2018-04-25T09:49:13Z', 'labels': {'name': 'syntax highlighting'}}
+{'issuenumber': 806, 'title': 'Slides options for font size scaling, left alignment', 'state': 'closed', 'created_at': '2018-04-19T10:36:53Z', 'closed_at': '2021-09-03T13:14:07Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 802, 'title': 'Autogenerated avatars for LDAP users do not show with CSP enabled', 'state': 'closed', 'created_at': '2018-04-12T10:09:52Z', 'closed_at': '2018-04-17T20:29:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 801, 'title': 'No use of Google API Key', 'state': 'closed', 'created_at': '2018-04-12T09:22:15Z', 'closed_at': '2018-05-15T23:59:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 800, 'title': 'slides: reveal.js doesnt work in non-cdn mode', 'state': 'closed', 'created_at': '2018-04-11T19:07:16Z', 'closed_at': '2018-04-11T19:13:58Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 798, 'title': "allowAnonymousEdits doesn't work", 'state': 'closed', 'created_at': '2018-04-10T12:14:19Z', 'closed_at': '2018-04-11T20:48:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 795, 'title': "ATX headings aren't using specified #anchor_links", 'state': 'closed', 'created_at': '2018-04-01T23:09:05Z', 'closed_at': '2018-06-26T20:09:52Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 781, 'title': 'Feature request: Popup Outline Title ', 'state': 'closed', 'created_at': '2018-03-26T01:06:01Z', 'closed_at': '2018-06-01T11:49:10Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 777, 'title': 'Support WebDAV and Nextcloud as Import/Export?', 'state': 'closed', 'created_at': '2018-03-25T17:58:08Z', 'closed_at': '2018-03-25T18:13:59Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 776, 'title': 'Loading uws module fails', 'state': 'closed', 'created_at': '2018-03-24T15:39:25Z', 'closed_at': '2018-06-23T23:06:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 774, 'title': 'Timeout after 30s waiting on dependencies to become available', 'state': 'closed', 'created_at': '2018-03-22T16:59:47Z', 'closed_at': '2018-03-22T19:05:20Z', 'labels': []}
+{'issuenumber': 767, 'title': 'parseInt(HMD_MINIO_PORT) cause another bug', 'state': 'closed', 'created_at': '2018-03-15T18:42:32Z', 'closed_at': '2018-03-17T20:32:03Z', 'labels': []}
+{'issuenumber': 764, 'title': 'Misconfigured LDAP authenticator leaks private documents', 'state': 'closed', 'created_at': '2018-03-14T16:12:13Z', 'closed_at': '2018-03-18T14:13:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 763, 'title': 'HMD_MINIO_PORT must be converted to  Number Type', 'state': 'closed', 'created_at': '2018-03-14T12:31:29Z', 'closed_at': '2018-03-14T20:33:22Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 759, 'title': '<M-f> opens search', 'state': 'closed', 'created_at': '2018-03-08T14:04:46Z', 'closed_at': '2018-03-09T09:36:21Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 754, 'title': 'Remove unused option from ldap configuration in config.json.example', 'state': 'closed', 'created_at': '2018-03-05T08:09:06Z', 'closed_at': '2018-03-06T13:22:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 752, 'title': 'Notes-Table: `permission` is an enum and it misses values', 'state': 'closed', 'created_at': '2018-03-04T12:15:21Z', 'closed_at': '2018-03-17T20:33:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 748, 'title': 'Auto-sync with Git Repository (for Book Mode)', 'state': 'closed', 'created_at': '2018-02-28T21:19:21Z', 'closed_at': '2018-03-01T12:22:43Z', 'labels': []}
+{'issuenumber': 747, 'title': 'Export documents while the server is offline', 'state': 'closed', 'created_at': '2018-02-28T16:56:23Z', 'closed_at': '2018-02-28T17:36:02Z', 'labels': []}
+{'issuenumber': 746, 'title': 'hackmd.io looks like had some problems', 'state': 'closed', 'created_at': '2018-02-28T14:43:23Z', 'closed_at': '2018-02-28T14:46:18Z', 'labels': []}
+{'issuenumber': 745, 'title': "Published note didn't update ", 'state': 'closed', 'created_at': '2018-02-28T07:27:37Z', 'closed_at': '2018-02-28T07:45:52Z', 'labels': []}
+{'issuenumber': 741, 'title': "Cannot Find Module ' WebPack '", 'state': 'closed', 'created_at': '2018-02-25T14:00:13Z', 'closed_at': '2018-03-26T06:43:19Z', 'labels': {'name': 'question'}}
+{'issuenumber': 738, 'title': 'Missing shortcut to leave multiple selection mode', 'state': 'closed', 'created_at': '2018-02-23T11:40:24Z', 'closed_at': '2018-02-25T13:25:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 737, 'title': 'Switch main buttons', 'state': 'closed', 'created_at': '2018-02-21T18:31:56Z', 'closed_at': '2018-02-21T21:44:05Z', 'labels': []}
+{'issuenumber': 736, 'title': 'Feature request: <details> support', 'state': 'closed', 'created_at': '2018-02-20T13:41:28Z', 'closed_at': '2018-02-20T21:57:19Z', 'labels': []}
+{'issuenumber': 731, 'title': 'Postgresql SSL support', 'state': 'closed', 'created_at': '2018-02-18T02:02:01Z', 'closed_at': '2018-06-23T19:53:04Z', 'labels': {'name': 'question'}}
+{'issuenumber': 729, 'title': 'Feature request: Unicode url names of pages in free url mode', 'state': 'closed', 'created_at': '2018-02-16T19:10:36Z', 'closed_at': '2018-06-26T20:47:22Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 727, 'title': "Cannot read property 'charAt' of undefined", 'state': 'closed', 'created_at': '2018-02-16T14:24:56Z', 'closed_at': '2018-03-22T22:25:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 726, 'title': '404 page on new note 302 redirect', 'state': 'closed', 'created_at': '2018-02-15T18:21:52Z', 'closed_at': '2018-06-23T23:07:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 724, 'title': 'Hackmd documents leak referrer information to embedded content (e.g. images)', 'state': 'closed', 'created_at': '2018-02-12T00:07:27Z', 'closed_at': '2018-02-12T21:23:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 723, 'title': 'Allow in title <br> linebreak in book mode', 'state': 'closed', 'created_at': '2018-02-10T19:28:53Z', 'closed_at': '2018-02-11T20:09:30Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 722, 'title': 'Support pasting markdown', 'state': 'closed', 'created_at': '2018-02-09T13:37:35Z', 'closed_at': '2018-02-11T20:05:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 720, 'title': 'Rename the project', 'state': 'closed', 'created_at': '2018-02-08T11:16:02Z', 'closed_at': '2018-06-26T19:38:03Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 717, 'title': 'websocket error', 'state': 'closed', 'created_at': '2018-02-07T13:30:46Z', 'closed_at': '2018-02-07T14:03:43Z', 'labels': {'name': 'question'}}
+{'issuenumber': 715, 'title': 'engine.io-client dependency broken, socket.io connections not working', 'state': 'closed', 'created_at': '2018-02-01T15:02:57Z', 'closed_at': '2018-03-07T10:15:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 711, 'title': 'Suggestion: Collapsible item set', 'state': 'closed', 'created_at': '2018-01-29T13:45:51Z', 'closed_at': '2018-06-28T22:13:03Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 709, 'title': 'Multi-level Checkbox List Items Misaligned Issue', 'state': 'closed', 'created_at': '2018-01-28T19:59:04Z', 'closed_at': '2018-01-29T14:56:45Z', 'labels': {'name': 'HackMD.io'}}
+{'issuenumber': 706, 'title': 'Disable auto-numbering within code blocks', 'state': 'closed', 'created_at': '2018-01-26T21:11:41Z', 'closed_at': '2018-06-23T23:44:10Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 703, 'title': 'Error: Could not find include include file.', 'state': 'closed', 'created_at': '2018-01-25T09:55:02Z', 'closed_at': '2018-01-26T16:58:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 702, 'title': 'Simple Cmdline User-Creation Tool', 'state': 'closed', 'created_at': '2018-01-24T08:11:06Z', 'closed_at': '2018-01-29T21:35:20Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 701, 'title': 'What is responsible for generating the ToC?', 'state': 'closed', 'created_at': '2018-01-23T20:54:32Z', 'closed_at': '2018-01-24T19:41:09Z', 'labels': {'name': 'question'}}
+{'issuenumber': 699, 'title': 'Checkboxes in Nested Lists do not Sync', 'state': 'closed', 'created_at': '2018-01-23T11:35:52Z', 'closed_at': '2018-01-25T23:13:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 696, 'title': 'how to use a custom S3 endpoint?', 'state': 'closed', 'created_at': '2018-01-23T05:02:34Z', 'closed_at': '2018-06-23T23:07:54Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 689, 'title': 'Share note to guests even if allowanonymous=false', 'state': 'closed', 'created_at': '2018-01-20T13:08:09Z', 'closed_at': '2018-01-20T17:56:09Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 683, 'title': 'Dropbox Import uses clientSecret instead of appKey', 'state': 'closed', 'created_at': '2018-01-18T11:40:09Z', 'closed_at': '2018-01-19T13:31:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 676, 'title': 'Service worker support for offline usage', 'state': 'closed', 'created_at': '2018-01-14T11:29:26Z', 'closed_at': '2018-01-16T09:10:59Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 671, 'title': '[Question] Any plans of supporting more HTML tags?', 'state': 'closed', 'created_at': '2018-01-10T18:54:48Z', 'closed_at': '2018-02-25T20:50:12Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 670, 'title': "HackMD's formatting toolbar should insert HTML tags counterparts when the selection is inside an HTML block", 'state': 'closed', 'created_at': '2018-01-09T12:05:26Z', 'closed_at': '2018-01-09T12:45:46Z', 'labels': {'name': 'HackMD.io'}}
+{'issuenumber': 669, 'title': "HackMD doesn't allow inline math syntax that has space character right after/before the opening/closing dollar sign", 'state': 'closed', 'created_at': '2018-01-09T10:39:10Z', 'closed_at': '2018-01-09T10:47:34Z', 'labels': []}
+{'issuenumber': 667, 'title': 'Support Exporting/Importing/Syncing to/from Google TEAM Drives', 'state': 'closed', 'created_at': '2018-01-04T16:36:56Z', 'closed_at': '2018-01-04T19:07:48Z', 'labels': []}
+{'issuenumber': 658, 'title': 'Allow book pages to link to other book pages', 'state': 'closed', 'created_at': '2017-12-20T21:08:39Z', 'closed_at': '2017-12-31T18:32:51Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 655, 'title': "webpack@1.15.0 does not satisfy its siblings' peerDependencies requirements", 'state': 'closed', 'created_at': '2017-12-12T17:05:55Z', 'closed_at': '2017-12-12T20:35:12Z', 'labels': {'name': 'needs info'}}
+{'issuenumber': 652, 'title': 'Deploying without PhantomJS dependency', 'state': 'closed', 'created_at': '2017-12-10T12:36:27Z', 'closed_at': '2018-06-23T19:51:54Z', 'labels': {'name': 'question'}}
+{'issuenumber': 649, 'title': 'Impossible to use HMD_LDAP_SEARCHATTRIBUTES?', 'state': 'closed', 'created_at': '2017-12-09T10:04:18Z', 'closed_at': '2018-01-19T17:31:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 648, 'title': 'Ipython notebook viewer', 'state': 'closed', 'created_at': '2017-12-07T18:32:27Z', 'closed_at': '2017-12-09T18:26:10Z', 'labels': {'name': 'question'}}
+{'issuenumber': 647, 'title': 'Change spellcheck language', 'state': 'closed', 'created_at': '2017-12-07T09:21:41Z', 'closed_at': '2020-02-05T11:16:11Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 645, 'title': '功能介紹裡的 Facebook Message 連結失效了/The link to "Facebook Message" isn\'t working.', 'state': 'closed', 'created_at': '2017-12-03T17:31:48Z', 'closed_at': '2017-12-06T06:01:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 644, 'title': 'pasting image bug?', 'state': 'closed', 'created_at': '2017-12-03T13:08:51Z', 'closed_at': '2018-03-21T13:15:05Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 642, 'title': 'SSL Segmentation fault', 'state': 'closed', 'created_at': '2017-12-02T06:23:51Z', 'closed_at': '2017-12-02T08:08:02Z', 'labels': []}
+{'issuenumber': 641, 'title': 'User Cursor Indicator', 'state': 'closed', 'created_at': '2017-12-01T11:33:16Z', 'closed_at': '2017-12-07T09:09:09Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 638, 'title': "Image Markdown syntax doesn't generate alternative text", 'state': 'closed', 'created_at': '2017-11-28T20:54:49Z', 'closed_at': '2018-01-19T13:26:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 637, 'title': 'Recognize svg on drag and drop', 'state': 'closed', 'created_at': '2017-11-28T19:13:18Z', 'closed_at': '2018-01-23T11:10:34Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 634, 'title': 'sslcapath bug', 'state': 'closed', 'created_at': '2017-11-28T11:43:59Z', 'closed_at': '2018-01-18T10:23:44Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 630, 'title': ' redirecting page when hostname is not right', 'state': 'closed', 'created_at': '2017-11-26T13:10:22Z', 'closed_at': '2018-07-04T19:21:38Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 629, 'title': 'port config problem', 'state': 'closed', 'created_at': '2017-11-26T07:51:17Z', 'closed_at': '2017-11-26T08:15:20Z', 'labels': []}
+{'issuenumber': 628, 'title': 'port config problem', 'state': 'closed', 'created_at': '2017-11-26T07:34:17Z', 'closed_at': '2017-11-26T07:54:15Z', 'labels': []}
+{'issuenumber': 626, 'title': 'XSS Vulnerability in Markdown Editor', 'state': 'closed', 'created_at': '2017-11-24T08:35:41Z', 'closed_at': '2017-11-24T17:09:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 625, 'title': 'Double dollar-sign latex formular breaks editor highlighting', 'state': 'closed', 'created_at': '2017-11-22T20:17:26Z', 'closed_at': '2019-10-07T09:53:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 624, 'title': 'HackMD on Cloud 9', 'state': 'closed', 'created_at': '2017-11-20T22:52:41Z', 'closed_at': '2017-12-09T18:27:16Z', 'labels': {'name': 'question'}}
+{'issuenumber': 623, 'title': 'Getting the note ID from the Referer header is not reliable', 'state': 'closed', 'created_at': '2017-11-16T21:05:24Z', 'closed_at': '2018-02-05T13:50:49Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 621, 'title': 'Revision window showing empty revision', 'state': 'closed', 'created_at': '2017-11-10T12:41:08Z', 'closed_at': '2017-11-11T09:41:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 617, 'title': 'When write to the last line, the words will covered by the bottom bar.', 'state': 'closed', 'created_at': '2017-11-03T13:06:01Z', 'closed_at': '2021-05-12T16:21:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 616, 'title': 'Font files become 404 when setup in subdirectory', 'state': 'closed', 'created_at': '2017-11-02T19:38:52Z', 'closed_at': '2020-07-10T09:37:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 611, 'title': 'Add more tests', 'state': 'closed', 'created_at': '2017-10-30T07:21:03Z', 'closed_at': '2019-03-28T19:07:00Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 610, 'title': 'mermaid error handling broken', 'state': 'closed', 'created_at': '2017-10-30T07:01:05Z', 'closed_at': '2017-10-30T11:30:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 600, 'title': "When without use cdn,mermaid can't work", 'state': 'closed', 'created_at': '2017-10-24T11:48:11Z', 'closed_at': '2017-10-29T16:32:44Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 596, 'title': 'tag-structure breaks by gist feature', 'state': 'closed', 'created_at': '2017-10-19T14:24:59Z', 'closed_at': '2017-10-21T12:30:10Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 594, 'title': 'Remove remaining CSP issues', 'state': 'closed', 'created_at': '2017-10-17T17:28:45Z', 'closed_at': '2019-03-28T19:07:00Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 592, 'title': 'Feature request: Embedding Maps', 'state': 'closed', 'created_at': '2017-10-17T13:48:09Z', 'closed_at': '2020-02-28T09:37:24Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 590, 'title': 'Is there any better ways to type algorithms in HackMD like latex?', 'state': 'closed', 'created_at': '2017-10-17T02:24:29Z', 'closed_at': '2018-02-21T15:37:02Z', 'labels': {'name': 'question'}}
+{'issuenumber': 587, 'title': 'html comments ruin <ol>', 'state': 'closed', 'created_at': '2017-10-13T12:28:35Z', 'closed_at': '2018-01-23T15:27:27Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 584, 'title': "Don't enforce HSTS", 'state': 'closed', 'created_at': '2017-10-12T13:28:22Z', 'closed_at': '2017-10-14T16:02:44Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 583, 'title': 'Provide documentation for auth providers', 'state': 'closed', 'created_at': '2017-10-12T10:51:02Z', 'closed_at': '2019-03-28T19:06:59Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 582, 'title': 'Google OAuth Broken', 'state': 'closed', 'created_at': '2017-10-12T10:05:10Z', 'closed_at': '2017-10-12T10:37:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 580, 'title': 'License Change Announcement', 'state': 'closed', 'created_at': '2017-10-11T18:25:47Z', 'closed_at': '2018-01-16T10:45:27Z', 'labels': {'name': 'Community'}}
+{'issuenumber': 579, 'title': 'HackMD Community Announcement', 'state': 'closed', 'created_at': '2017-10-11T18:24:15Z', 'closed_at': '2018-06-26T21:38:49Z', 'labels': {'name': 'Community'}}
+{'issuenumber': 577, 'title': 'Empty export section should be hidden', 'state': 'closed', 'created_at': '2017-10-11T13:07:54Z', 'closed_at': '2017-10-19T13:04:28Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 576, 'title': 'No matching version found for uws@^0.12.0', 'state': 'closed', 'created_at': '2017-10-11T09:33:08Z', 'closed_at': '2017-10-11T09:36:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 572, 'title': 'Book Mode - making a heading a link causes it to disappear', 'state': 'closed', 'created_at': '2017-10-10T13:56:23Z', 'closed_at': '2018-01-01T17:10:00Z', 'labels': {'name': 'UI/UX'}}
+{'issuenumber': 568, 'title': 'Versions diff, highlight changes since previous preview', 'state': 'closed', 'created_at': '2017-10-09T18:33:03Z', 'closed_at': '2021-05-12T16:31:14Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 565, 'title': 'History (Version list) unsorted?', 'state': 'closed', 'created_at': '2017-10-08T22:37:42Z', 'closed_at': '2017-10-10T23:08:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 561, 'title': 'Disable PDF export by config', 'state': 'closed', 'created_at': '2017-10-06T22:20:10Z', 'closed_at': '2017-10-25T13:56:18Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 559, 'title': 'Delete a note should also delete image uploaded to imgur', 'state': 'closed', 'created_at': '2017-10-06T08:25:31Z', 'closed_at': '2017-10-08T18:58:02Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 558, 'title': 'Greater-Than escape in style-CSS', 'state': 'closed', 'created_at': '2017-10-02T18:03:55Z', 'closed_at': '2017-10-05T02:02:38Z', 'labels': []}
+{'issuenumber': 557, 'title': 'Title unchanged when posted on social media', 'state': 'closed', 'created_at': '2017-10-01T23:33:56Z', 'closed_at': '2017-10-12T13:42:40Z', 'labels': {'name': 'needs info'}}
+{'issuenumber': 556, 'title': 'target="_blank" doesn\'t work on side menu when in book mode', 'state': 'closed', 'created_at': '2017-09-29T01:54:05Z', 'closed_at': '2018-01-01T17:10:47Z', 'labels': {'name': 'HackMD.io'}}
+{'issuenumber': 555, 'title': 'feasibility of use hackmd as module?', 'state': 'closed', 'created_at': '2017-09-28T04:44:44Z', 'closed_at': '2017-10-06T20:14:51Z', 'labels': []}
+{'issuenumber': 554, 'title': 'Slide Mode Syntax Highlight Error', 'state': 'closed', 'created_at': '2017-09-25T08:33:59Z', 'closed_at': '2017-09-27T10:26:22Z', 'labels': []}
+{'issuenumber': 551, 'title': 'Unable to paste from mobile', 'state': 'closed', 'created_at': '2017-09-22T14:41:47Z', 'closed_at': '2017-09-22T14:55:54Z', 'labels': []}
+{'issuenumber': 549, 'title': 'GitLab OAuth only works with gravatar enabled', 'state': 'closed', 'created_at': '2017-09-22T08:22:48Z', 'closed_at': '2017-10-08T20:20:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 548, 'title': 'Document "fork" into two versions', 'state': 'closed', 'created_at': '2017-09-22T03:43:05Z', 'closed_at': '2017-12-09T18:29:22Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 547, 'title': 'Create new document in a catalog', 'state': 'closed', 'created_at': '2017-09-12T18:58:36Z', 'closed_at': '2017-09-13T12:12:07Z', 'labels': []}
+{'issuenumber': 546, 'title': 'Anchors not changing current URL when document viewed as a folder item', 'state': 'closed', 'created_at': '2017-09-12T18:55:21Z', 'closed_at': '2017-09-13T12:11:16Z', 'labels': []}
+{'issuenumber': 545, 'title': 'Export of Reveal.js slides', 'state': 'closed', 'created_at': '2017-09-12T03:47:33Z', 'closed_at': '2018-06-24T22:30:56Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 544, 'title': 'Offset cursor when in half-screen window', 'state': 'closed', 'created_at': '2017-09-11T10:58:58Z', 'closed_at': '2017-10-06T16:06:55Z', 'labels': {'name': 'needs info'}}
+{'issuenumber': 542, 'title': 'Export to google drive will create redundant files', 'state': 'closed', 'created_at': '2017-09-05T02:41:19Z', 'closed_at': '2018-10-20T13:27:18Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 540, 'title': '[Feature Request] 嵌入圖片時希望可以只調整比例', 'state': 'closed', 'created_at': '2017-09-01T16:51:44Z', 'closed_at': '2017-09-02T14:20:18Z', 'labels': []}
+{'issuenumber': 539, 'title': 'Login Using Email & Password', 'state': 'closed', 'created_at': '2017-08-30T12:23:08Z', 'closed_at': '2017-10-06T16:16:14Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 537, 'title': 'How to import .md file or other hackMD document into my hackMD', 'state': 'closed', 'created_at': '2017-08-29T08:33:38Z', 'closed_at': '2018-03-24T23:25:30Z', 'labels': {'name': 'question'}}
+{'issuenumber': 534, 'title': 'Convert Domains to URL with SSL if available', 'state': 'closed', 'created_at': '2017-08-25T17:33:07Z', 'closed_at': '2017-08-26T13:04:02Z', 'labels': []}
+{'issuenumber': 533, 'title': 'Embedded videos support', 'state': 'closed', 'created_at': '2017-08-22T16:30:09Z', 'closed_at': '2017-09-05T09:28:08Z', 'labels': []}
+{'issuenumber': 532, 'title': 'Ada syntax highlighting', 'state': 'closed', 'created_at': '2017-08-22T10:31:55Z', 'closed_at': '2017-10-21T22:55:37Z', 'labels': {'name': 'question'}}
+{'issuenumber': 531, 'title': 'Missing release 0.5.2 Affogato', 'state': 'closed', 'created_at': '2017-08-21T10:24:27Z', 'closed_at': '2018-01-18T16:03:54Z', 'labels': {'name': 'question'}}
+{'issuenumber': 530, 'title': 'Way to disable keyboard shortcuts', 'state': 'closed', 'created_at': '2017-08-20T15:12:32Z', 'closed_at': '2018-06-26T20:07:26Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 526, 'title': 'Guest accessing a restricted note should be redirected to sign-in and then back to note', 'state': 'closed', 'created_at': '2017-08-07T22:23:06Z', 'closed_at': '2018-11-13T19:52:45Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 525, 'title': 'add SVG support?', 'state': 'closed', 'created_at': '2017-08-07T12:32:46Z', 'closed_at': '2017-10-06T16:15:57Z', 'labels': {'name': 'needs info'}}
+{'issuenumber': 524, 'title': 'allow non-english spell check', 'state': 'closed', 'created_at': '2017-08-02T14:44:02Z', 'closed_at': '2017-10-06T20:45:25Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 523, 'title': 'Editor Toolbar', 'state': 'closed', 'created_at': '2017-07-29T21:17:56Z', 'closed_at': '2017-10-06T21:08:16Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 521, 'title': 'silent data loss for pads above 64KB on MySQL/MariaDB', 'state': 'closed', 'created_at': '2017-07-29T12:00:18Z', 'closed_at': '2018-01-18T10:16:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 520, 'title': 'Next Release', 'state': 'closed', 'created_at': '2017-07-29T08:40:54Z', 'closed_at': '2017-10-06T16:16:56Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 519, 'title': 'ODF -> ODT', 'state': 'closed', 'created_at': '2017-07-26T18:04:42Z', 'closed_at': '2018-02-11T20:10:53Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 518, 'title': 'file:// hyperlink markup is not translated', 'state': 'closed', 'created_at': '2017-07-22T08:54:48Z', 'closed_at': '2017-07-23T07:30:31Z', 'labels': []}
+{'issuenumber': 517, 'title': 'Error with Webpack Plugin', 'state': 'closed', 'created_at': '2017-07-21T10:52:38Z', 'closed_at': '2017-10-12T13:05:44Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 516, 'title': 'New release?', 'state': 'closed', 'created_at': '2017-07-17T19:43:38Z', 'closed_at': '2017-10-06T16:17:48Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 514, 'title': 'Weird Home and End key behaviour', 'state': 'closed', 'created_at': '2017-07-15T21:18:24Z', 'closed_at': '2017-09-27T13:27:55Z', 'labels': []}
+{'issuenumber': 513, 'title': 'keybindings macOS', 'state': 'closed', 'created_at': '2017-07-15T14:14:16Z', 'closed_at': '2017-10-06T21:01:42Z', 'labels': {'name': 'needs info'}}
+{'issuenumber': 512, 'title': 'support for hovercraft in slide mode', 'state': 'closed', 'created_at': '2017-07-15T13:11:21Z', 'closed_at': '2018-06-24T18:35:48Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 511, 'title': 'make username changeable', 'state': 'closed', 'created_at': '2017-07-15T13:06:10Z', 'closed_at': '2017-10-06T16:18:07Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 510, 'title': "can't move cursor on iOS", 'state': 'closed', 'created_at': '2017-07-15T12:33:04Z', 'closed_at': '2017-10-06T21:01:23Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 504, 'title': 'Ignores $NODE_ENV', 'state': 'closed', 'created_at': '2017-07-06T16:24:37Z', 'closed_at': '2017-10-20T12:39:48Z', 'labels': {'name': 'needs info'}}
+{'issuenumber': 502, 'title': 'tags會被算入ToC的第3個層級中 / tags is included in the third level of TOC', 'state': 'closed', 'created_at': '2017-07-04T08:00:03Z', 'closed_at': '2018-07-04T19:13:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 501, 'title': '刪除上傳到 imgur 的圖片', 'state': 'closed', 'created_at': '2017-07-04T06:19:16Z', 'closed_at': '2017-07-04T07:32:23Z', 'labels': {'name': 'upstream'}}
+{'issuenumber': 500, 'title': 'Deploying to Heroku Problems :(', 'state': 'closed', 'created_at': '2017-07-03T11:30:02Z', 'closed_at': '2018-01-31T13:10:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 498, 'title': 'LDAP Auth / Strange Bug / user sessions', 'state': 'closed', 'created_at': '2017-06-30T19:02:08Z', 'closed_at': '2017-10-06T20:40:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 497, 'title': 'Book mode 是否開源', 'state': 'closed', 'created_at': '2017-06-28T01:11:08Z', 'closed_at': '2017-06-28T01:38:33Z', 'labels': []}
+{'issuenumber': 496, 'title': 'Redeploying to heroku fails with "codemirror.min.js doesn\'t exist"', 'state': 'closed', 'created_at': '2017-06-27T00:10:59Z', 'closed_at': '2017-07-12T07:22:11Z', 'labels': []}
+{'issuenumber': 493, 'title': '[Design suggestion] Make "New note" pop', 'state': 'closed', 'created_at': '2017-06-20T20:40:54Z', 'closed_at': '2017-10-08T13:41:28Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 492, 'title': '有無將Markdown編輯器單獨開源的計劃呀~', 'state': 'closed', 'created_at': '2017-06-18T14:27:15Z', 'closed_at': '2017-06-28T01:40:03Z', 'labels': []}
+{'issuenumber': 491, 'title': 'Update package.json script paths?', 'state': 'closed', 'created_at': '2017-06-17T14:26:19Z', 'closed_at': '2021-05-12T16:34:22Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 490, 'title': 'Update shell scripts to use /usr/bin/env', 'state': 'closed', 'created_at': '2017-06-17T14:22:15Z', 'closed_at': '2017-10-06T20:34:07Z', 'labels': {'name': 'upstream'}}
+{'issuenumber': 489, 'title': 'Listed checkbox data broken next Line in editor', 'state': 'closed', 'created_at': '2017-06-17T06:54:58Z', 'closed_at': '2017-06-18T12:05:51Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 487, 'title': 'Option to swap the preview pane', 'state': 'closed', 'created_at': '2017-06-15T06:31:57Z', 'closed_at': '2018-07-04T23:36:32Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 485, 'title': "can't run HackMD in c9.io", 'state': 'closed', 'created_at': '2017-06-13T06:23:51Z', 'closed_at': '2017-10-06T20:30:29Z', 'labels': {'name': 'question'}}
+{'issuenumber': 483, 'title': 'Connection refused error - Hackmd call out to an IP over port 8080', 'state': 'closed', 'created_at': '2017-06-09T12:53:10Z', 'closed_at': '2017-06-14T04:00:05Z', 'labels': []}
+{'issuenumber': 479, 'title': 'feature request: PlantUML support', 'state': 'closed', 'created_at': '2017-06-04T03:00:19Z', 'closed_at': '2017-06-04T04:39:17Z', 'labels': []}
+{'issuenumber': 475, 'title': 'Rendering emoji on titles is buggy', 'state': 'closed', 'created_at': '2017-06-03T10:16:28Z', 'closed_at': '2017-06-06T05:01:49Z', 'labels': []}
+{'issuenumber': 470, 'title': 'Windows Installation Fails', 'state': 'closed', 'created_at': '2017-05-31T12:19:27Z', 'closed_at': '2017-06-02T17:56:45Z', 'labels': []}
+{'issuenumber': 469, 'title': 'Installation fails', 'state': 'closed', 'created_at': '2017-05-30T22:21:14Z', 'closed_at': '2017-10-06T20:28:59Z', 'labels': {'name': 'question'}}
+{'issuenumber': 467, 'title': 'custom css and themes in slide mode', 'state': 'closed', 'created_at': '2017-05-28T04:05:19Z', 'closed_at': '2018-04-25T09:47:00Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 466, 'title': '瀏覽數是可以刷的 / View counts can be flooded', 'state': 'closed', 'created_at': '2017-05-25T15:56:56Z', 'closed_at': '2018-06-26T21:41:10Z', 'labels': {'name': 'minor'}}
+{'issuenumber': 465, 'title': 'sandstorm integration', 'state': 'closed', 'created_at': '2017-05-24T06:13:29Z', 'closed_at': '2018-01-23T01:01:49Z', 'labels': {'name': 'needs info'}}
+{'issuenumber': 464, 'title': 'Error on bin/setup', 'state': 'closed', 'created_at': '2017-05-23T16:25:40Z', 'closed_at': '2017-05-23T21:19:28Z', 'labels': []}
+{'issuenumber': 461, 'title': 'Export Gist - 404 not found', 'state': 'closed', 'created_at': '2017-05-16T17:55:02Z', 'closed_at': '2017-05-16T18:43:14Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 459, 'title': '*emphasis* & **strong emphasis** markup not working under certain circumstances', 'state': 'closed', 'created_at': '2017-05-15T07:54:50Z', 'closed_at': '2017-10-06T21:44:54Z', 'labels': {'name': 'upstream'}}
+{'issuenumber': 457, 'title': 'fork audreyt/pad2an to be used in hackmd', 'state': 'closed', 'created_at': '2017-05-12T08:49:46Z', 'closed_at': '2018-06-24T22:15:45Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 456, 'title': '無法新增筆記 & 無法使用Mail登入', 'state': 'closed', 'created_at': '2017-05-09T16:33:59Z', 'closed_at': '2017-10-07T01:42:56Z', 'labels': []}
+{'issuenumber': 455, 'title': '請問 book mode 要如何開啟??', 'state': 'closed', 'created_at': '2017-05-09T14:50:55Z', 'closed_at': '2017-05-09T15:34:15Z', 'labels': {'name': 'question'}}
+{'issuenumber': 454, 'title': 'config.json port 無法設定', 'state': 'closed', 'created_at': '2017-05-09T14:34:54Z', 'closed_at': '2017-05-09T14:42:30Z', 'labels': []}
+{'issuenumber': 453, 'title': '能否提供帶側邊目錄欄的HTML / Provide HTML with sidebar TOC?', 'state': 'closed', 'created_at': '2017-05-08T09:30:58Z', 'closed_at': '2018-02-11T20:12:22Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 449, 'title': '請問目前hackmd 有支援離線編輯嗎?', 'state': 'closed', 'created_at': '2017-05-07T09:44:31Z', 'closed_at': '2017-05-07T12:12:51Z', 'labels': []}
+{'issuenumber': 448, 'title': 'Download URL for raw Markdown file', 'state': 'closed', 'created_at': '2017-05-04T08:33:51Z', 'closed_at': '2017-05-04T08:59:00Z', 'labels': []}
+{'issuenumber': 447, 'title': 'Using absolute symbol for math expression in the table leads wrong parsing', 'state': 'closed', 'created_at': '2017-05-04T03:51:58Z', 'closed_at': '2018-01-16T09:40:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 446, 'title': 'Download as pdf file', 'state': 'closed', 'created_at': '2017-05-04T03:33:49Z', 'closed_at': '2017-05-04T03:53:59Z', 'labels': []}
+{'issuenumber': 445, 'title': 'Feature request: support MD equivalent of <details> tag', 'state': 'closed', 'created_at': '2017-05-03T09:57:51Z', 'closed_at': '2018-06-26T21:24:21Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 444, 'title': '404 on gitlab signin', 'state': 'closed', 'created_at': '2017-05-02T12:04:22Z', 'closed_at': '2017-05-03T19:48:08Z', 'labels': {'name': 'auth provider'}}
+{'issuenumber': 443, 'title': 'feature request: label important revisions', 'state': 'closed', 'created_at': '2017-04-30T21:25:44Z', 'closed_at': '2019-10-08T23:52:46Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 441, 'title': 'Runaway memory when document left open in edit mode', 'state': 'closed', 'created_at': '2017-04-28T12:05:12Z', 'closed_at': '2017-05-03T09:41:50Z', 'labels': []}
+{'issuenumber': 440, 'title': 'Increase document length', 'state': 'closed', 'created_at': '2017-04-27T00:42:47Z', 'closed_at': '2017-05-04T03:55:03Z', 'labels': []}
+{'issuenumber': 438, 'title': 'CSS style of notes', 'state': 'closed', 'created_at': '2017-04-26T13:13:22Z', 'closed_at': '2017-04-26T15:19:59Z', 'labels': []}
+{'issuenumber': 437, 'title': 'Support configuration of reveal.js theme', 'state': 'closed', 'created_at': '2017-04-26T12:07:34Z', 'closed_at': '2017-10-06T20:07:13Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 435, 'title': 'Image upload to S3 - ContentType not set', 'state': 'closed', 'created_at': '2017-04-25T19:38:25Z', 'closed_at': '2017-05-08T11:14:48Z', 'labels': []}
+{'issuenumber': 434, 'title': 'User password changing', 'state': 'closed', 'created_at': '2017-04-25T17:39:56Z', 'closed_at': '2017-05-04T08:20:31Z', 'labels': []}
+{'issuenumber': 433, 'title': 'When are revisions created?', 'state': 'closed', 'created_at': '2017-04-24T16:06:43Z', 'closed_at': '2017-04-24T16:36:15Z', 'labels': []}
+{'issuenumber': 432, 'title': 'If uidNumber does not exist, session management fails with LDAP authentication. ', 'state': 'closed', 'created_at': '2017-04-24T12:03:38Z', 'closed_at': '2017-10-27T10:48:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 431, 'title': 'Idea: Show hint to log in on 403 page', 'state': 'closed', 'created_at': '2017-04-23T18:42:14Z', 'closed_at': '2018-06-24T18:37:45Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 430, 'title': 'Old presentations endup in 404', 'state': 'closed', 'created_at': '2017-04-18T16:24:52Z', 'closed_at': '2017-04-26T14:31:21Z', 'labels': []}
+{'issuenumber': 424, 'title': 'Not sure how to set up urlpath', 'state': 'closed', 'created_at': '2017-04-16T13:03:57Z', 'closed_at': '2018-03-24T23:25:47Z', 'labels': {'name': 'question'}}
+{'issuenumber': 423, 'title': 'notarget No compatible version found: uws@^0.12.0', 'state': 'closed', 'created_at': '2017-04-15T22:42:06Z', 'closed_at': '2017-04-17T03:21:17Z', 'labels': {'name': 'upstream'}}
+{'issuenumber': 422, 'title': 'Documentation on hardware requirements', 'state': 'closed', 'created_at': '2017-04-12T03:13:56Z', 'closed_at': '2017-04-12T12:28:37Z', 'labels': {'name': 'question'}}
+{'issuenumber': 420, 'title': 'Error when creating notes with free url', 'state': 'closed', 'created_at': '2017-04-11T11:15:46Z', 'closed_at': '2018-01-18T10:22:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 418, 'title': 'Heroku deployment - deploy button causes error', 'state': 'closed', 'created_at': '2017-04-06T20:26:24Z', 'closed_at': '2017-05-07T12:43:33Z', 'labels': []}
+{'issuenumber': 415, 'title': 'Clarification on permissions', 'state': 'closed', 'created_at': '2017-04-05T14:02:11Z', 'closed_at': '2017-04-05T15:13:15Z', 'labels': []}
+{'issuenumber': 413, 'title': 'LDAP auth broken in 0.5.1', 'state': 'closed', 'created_at': '2017-04-04T13:34:49Z', 'closed_at': '2017-10-06T22:05:18Z', 'labels': {'name': 'question'}}
+{'issuenumber': 412, 'title': 'XSS Vulnerability in Markdown Editor', 'state': 'closed', 'created_at': '2017-04-03T06:50:12Z', 'closed_at': '2017-04-11T14:25:57Z', 'labels': {'name': 'security'}}
+{'issuenumber': 410, 'title': 'Deleted file failed', 'state': 'closed', 'created_at': '2017-03-30T08:21:26Z', 'closed_at': '2017-04-05T15:29:18Z', 'labels': []}
+{'issuenumber': 409, 'title': 'Make pages uncrawlable', 'state': 'closed', 'created_at': '2017-03-29T14:18:06Z', 'closed_at': '2017-03-29T14:41:56Z', 'labels': []}
+{'issuenumber': 407, 'title': 'Easily adding blockquote tags', 'state': 'closed', 'created_at': '2017-03-28T18:02:01Z', 'closed_at': '2018-06-24T22:18:56Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 405, 'title': 'vexflow/abcjs? what is it?', 'state': 'closed', 'created_at': '2017-03-27T06:47:07Z', 'closed_at': '2017-03-27T10:25:18Z', 'labels': []}
+{'issuenumber': 403, 'title': 'Cannot Add Blanks Between Words in a line', 'state': 'closed', 'created_at': '2017-03-25T04:09:52Z', 'closed_at': '2017-03-28T08:03:46Z', 'labels': {'name': 'question'}}
+{'issuenumber': 402, 'title': 'deploy to heroku, error column accessToken', 'state': 'closed', 'created_at': '2017-03-25T02:43:56Z', 'closed_at': '2017-03-27T00:38:08Z', 'labels': {'name': 'question'}}
+{'issuenumber': 400, 'title': 'Delete line syntax typing bug', 'state': 'closed', 'created_at': '2017-03-24T04:30:37Z', 'closed_at': '2017-03-27T11:02:51Z', 'labels': {'name': 'upstream'}}
+{'issuenumber': 399, 'title': 'Push to Kindle', 'state': 'closed', 'created_at': '2017-03-24T03:16:01Z', 'closed_at': '2017-10-06T22:11:18Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 398, 'title': 'hackmd.io/new with offline support?', 'state': 'closed', 'created_at': '2017-03-23T13:23:33Z', 'closed_at': '2018-06-24T21:25:50Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 397, 'title': 'CORS issue when embedding', 'state': 'closed', 'created_at': '2017-03-22T16:30:23Z', 'closed_at': '2017-03-25T12:09:12Z', 'labels': []}
+{'issuenumber': 396, 'title': 'XSS vulnerability', 'state': 'closed', 'created_at': '2017-03-22T10:03:04Z', 'closed_at': '2017-03-22T10:27:12Z', 'labels': []}
+{'issuenumber': 395, 'title': 'Feature request: create new document from URL?', 'state': 'closed', 'created_at': '2017-03-21T13:29:53Z', 'closed_at': '2017-03-21T18:42:00Z', 'labels': []}
+{'issuenumber': 394, 'title': 'RFE: Work towards CommonMark spec compliance', 'state': 'closed', 'created_at': '2017-03-20T14:44:29Z', 'closed_at': '2017-03-21T01:38:08Z', 'labels': []}
+{'issuenumber': 392, 'title': 'Published notes are sometimes loading as 403 Forbidden', 'state': 'closed', 'created_at': '2017-03-18T00:23:41Z', 'closed_at': '2017-03-22T10:34:19Z', 'labels': []}
+{'issuenumber': 391, 'title': 'Support for targeting GistID to export', 'state': 'closed', 'created_at': '2017-03-15T14:17:14Z', 'closed_at': '2017-03-15T14:19:17Z', 'labels': []}
+{'issuenumber': 390, 'title': 'Title Metadata: two digits -> 404', 'state': 'closed', 'created_at': '2017-03-15T13:21:15Z', 'closed_at': '2017-03-15T14:14:14Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 389, 'title': 'Support for Grammarly Chrome extension?', 'state': 'closed', 'created_at': '2017-03-15T06:44:04Z', 'closed_at': '2018-06-23T23:47:33Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 388, 'title': 'Webpack production build: Output exceeds 32000 characters message', 'state': 'closed', 'created_at': '2017-03-14T15:59:16Z', 'closed_at': '2017-10-07T23:23:23Z', 'labels': {'name': 'minor'}}
+{'issuenumber': 386, 'title': 'embedding in other website', 'state': 'closed', 'created_at': '2017-03-13T10:23:52Z', 'closed_at': '2017-03-15T16:47:48Z', 'labels': []}
+{'issuenumber': 381, 'title': 'ABC.js support', 'state': 'closed', 'created_at': '2017-03-08T22:18:44Z', 'closed_at': '2017-03-26T12:39:59Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 380, 'title': 'emoji in html export', 'state': 'closed', 'created_at': '2017-03-08T14:24:26Z', 'closed_at': '2017-03-14T08:38:22Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 379, 'title': 'XSS issue by parsing html codes', 'state': 'closed', 'created_at': '2017-03-08T08:11:47Z', 'closed_at': '2017-03-14T08:29:33Z', 'labels': {'name': 'security'}}
+{'issuenumber': 378, 'title': 'enable distraction free / word wrap?', 'state': 'closed', 'created_at': '2017-03-07T19:50:30Z', 'closed_at': '2017-10-06T22:42:53Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 377, 'title': "String '.insert()` makes service down (release 0.5 and SQL Server)", 'state': 'closed', 'created_at': '2017-03-07T09:28:53Z', 'closed_at': '2017-10-06T22:18:35Z', 'labels': {'name': 'upstream'}}
+{'issuenumber': 375, 'title': 'Feature: WYSIWYG editing', 'state': 'closed', 'created_at': '2017-03-02T21:37:10Z', 'closed_at': '2018-01-22T19:21:01Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 373, 'title': 'Diacritics break on export', 'state': 'closed', 'created_at': '2017-02-26T18:21:22Z', 'closed_at': '2018-06-24T21:22:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 371, 'title': '"Publish" button and smiley images use "localhost" as domain', 'state': 'closed', 'created_at': '2017-02-23T19:40:20Z', 'closed_at': '2017-02-23T20:02:46Z', 'labels': []}
+{'issuenumber': 369, 'title': 'Mysql ?', 'state': 'closed', 'created_at': '2017-02-23T13:12:16Z', 'closed_at': '2017-02-27T13:41:20Z', 'labels': []}
+{'issuenumber': 368, 'title': 'table of contents tag only displays 3 levels of headline', 'state': 'closed', 'created_at': '2017-02-22T09:20:27Z', 'closed_at': '2021-05-12T16:11:34Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 367, 'title': 'Sign Up ', 'state': 'closed', 'created_at': '2017-02-21T13:58:37Z', 'closed_at': '2017-02-21T15:23:00Z', 'labels': []}
+{'issuenumber': 366, 'title': 'Docker container does not execute DB setup', 'state': 'closed', 'created_at': '2017-02-21T13:16:18Z', 'closed_at': '2017-03-28T08:48:30Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 365, 'title': 'sync scrolling to cursor position support', 'state': 'closed', 'created_at': '2017-02-21T05:21:11Z', 'closed_at': '2018-01-23T00:47:35Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 362, 'title': 'support PlantUML', 'state': 'closed', 'created_at': '2017-02-17T08:53:09Z', 'closed_at': '2019-11-15T14:55:53Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 360, 'title': 'cannot show :musical_note: in slide mode', 'state': 'closed', 'created_at': '2017-02-16T06:11:13Z', 'closed_at': '2017-06-04T17:21:26Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 357, 'title': 'Free URL /s/ route 404', 'state': 'closed', 'created_at': '2017-02-14T23:25:44Z', 'closed_at': '2018-06-26T20:40:07Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 356, 'title': 'A way to export all articles to .md file', 'state': 'closed', 'created_at': '2017-02-13T06:55:01Z', 'closed_at': '2017-02-15T05:20:55Z', 'labels': []}
+{'issuenumber': 354, 'title': 'scrypt crashing', 'state': 'closed', 'created_at': '2017-02-11T11:22:27Z', 'closed_at': '2018-01-23T21:53:41Z', 'labels': {'name': 'upstream'}}
+{'issuenumber': 352, 'title': "Google Drive not showing .md's in _posts directory", 'state': 'closed', 'created_at': '2017-02-10T14:30:16Z', 'closed_at': '2017-02-27T14:06:02Z', 'labels': {'name': 'upstream'}}
+{'issuenumber': 351, 'title': 'Yank to clipboard in vim mode', 'state': 'closed', 'created_at': '2017-02-09T19:41:07Z', 'closed_at': '2019-06-27T09:32:14Z', 'labels': {'name': 'upstream'}}
+{'issuenumber': 350, 'title': 'Folder or nested management system', 'state': 'closed', 'created_at': '2017-02-09T08:42:18Z', 'closed_at': '2017-02-09T08:45:12Z', 'labels': []}
+{'issuenumber': 346, 'title': 'GitLab auth: Support custom root CA for https certificates signed in house', 'state': 'closed', 'created_at': '2017-02-07T12:28:06Z', 'closed_at': '2017-10-10T18:03:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 344, 'title': 'Free url throws 500 Server Error on first request', 'state': 'closed', 'created_at': '2017-02-06T23:00:52Z', 'closed_at': '2017-02-10T02:56:35Z', 'labels': []}
+{'issuenumber': 340, 'title': 'Stripped spaces in published docs', 'state': 'closed', 'created_at': '2017-02-02T11:35:08Z', 'closed_at': '2017-02-02T11:49:34Z', 'labels': []}
+{'issuenumber': 338, 'title': '1.0 Roadmap', 'state': 'closed', 'created_at': '2017-01-31T12:59:52Z', 'closed_at': '2017-02-27T15:36:40Z', 'labels': []}
+{'issuenumber': 335, 'title': 'Support import from Hackpad', 'state': 'closed', 'created_at': '2017-01-26T08:22:49Z', 'closed_at': '2017-10-06T22:32:54Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 334, 'title': 'Moving detail description to docs', 'state': 'closed', 'created_at': '2017-01-26T03:51:15Z', 'closed_at': '2019-08-09T12:53:06Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 332, 'title': 'Feature Request: Improve vim support.', 'state': 'closed', 'created_at': '2017-01-25T12:35:53Z', 'closed_at': '2018-01-23T21:56:58Z', 'labels': {'name': 'upstream'}}
+{'issuenumber': 331, 'title': '[Advise] Would hackMD have explorer or feed like blog?', 'state': 'closed', 'created_at': '2017-01-23T22:37:21Z', 'closed_at': '2017-01-26T08:30:47Z', 'labels': []}
+{'issuenumber': 330, 'title': 'Make the "Download as Markdown" link wget friendly', 'state': 'closed', 'created_at': '2017-01-23T08:09:28Z', 'closed_at': '2017-02-03T17:13:09Z', 'labels': []}
+{'issuenumber': 327, 'title': 'Image (or any other external content) placing next to text', 'state': 'closed', 'created_at': '2017-01-21T12:57:30Z', 'closed_at': '2017-10-06T18:32:19Z', 'labels': []}
+{'issuenumber': 323, 'title': 'Add fontawesome in Revealjs presentation', 'state': 'closed', 'created_at': '2017-01-20T18:30:47Z', 'closed_at': '2017-01-21T01:34:09Z', 'labels': []}
+{'issuenumber': 322, 'title': 'List all available notes', 'state': 'closed', 'created_at': '2017-01-20T02:33:32Z', 'closed_at': '2017-01-20T11:47:01Z', 'labels': []}
+{'issuenumber': 319, 'title': 'Enforce protocol in callback URLs', 'state': 'closed', 'created_at': '2017-01-18T20:33:32Z', 'closed_at': '2017-01-22T09:38:52Z', 'labels': []}
+{'issuenumber': 318, 'title': 'Clean package.json production dependencies', 'state': 'closed', 'created_at': '2017-01-12T12:04:31Z', 'closed_at': '2017-02-27T14:02:47Z', 'labels': []}
+{'issuenumber': 315, 'title': 'Inconsistent cases in config', 'state': 'closed', 'created_at': '2017-01-09T09:52:06Z', 'closed_at': '2018-03-25T17:15:17Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 311, 'title': 'No linting in frontmatter or code blocks', 'state': 'closed', 'created_at': '2017-01-03T06:32:47Z', 'closed_at': '2017-01-05T17:02:06Z', 'labels': []}
+{'issuenumber': 310, 'title': 'Feature request: Minimap', 'state': 'closed', 'created_at': '2017-01-03T06:05:17Z', 'closed_at': '2017-10-06T19:39:51Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 309, 'title': 'Prevent creation of empty notes', 'state': 'closed', 'created_at': '2017-01-02T19:53:33Z', 'closed_at': '2017-01-03T17:24:36Z', 'labels': []}
+{'issuenumber': 306, 'title': 'YAML metadata not parsed for published revision', 'state': 'closed', 'created_at': '2016-12-30T20:39:15Z', 'closed_at': '2017-01-02T03:20:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 305, 'title': 'pasted URL after image upload', 'state': 'closed', 'created_at': '2016-12-30T20:21:11Z', 'closed_at': '2016-12-31T01:59:43Z', 'labels': []}
+{'issuenumber': 304, 'title': '[BUG] Math Processing Error', 'state': 'closed', 'created_at': '2016-12-28T05:58:18Z', 'closed_at': '2016-12-28T08:59:19Z', 'labels': []}
+{'issuenumber': 301, 'title': 'GitLab OAuth requests too much permissions', 'state': 'closed', 'created_at': '2016-12-26T23:43:00Z', 'closed_at': '2017-03-14T10:07:16Z', 'labels': {'name': 'upstream'}}
+{'issuenumber': 297, 'title': 'Allowing one user only to use', 'state': 'closed', 'created_at': '2016-12-23T17:12:15Z', 'closed_at': '2017-01-24T04:23:24Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 296, 'title': 'Remove transport encoding on all socket.io events', 'state': 'closed', 'created_at': '2016-12-23T06:14:09Z', 'closed_at': '2017-01-02T18:24:34Z', 'labels': {'name': 'refactor'}}
+{'issuenumber': 293, 'title': '[Bug] sqlite deploy error', 'state': 'closed', 'created_at': '2016-12-22T03:42:46Z', 'closed_at': '2016-12-22T14:29:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 291, 'title': 'Spell check error with abbreviation', 'state': 'closed', 'created_at': '2016-12-20T09:52:22Z', 'closed_at': '2016-12-20T12:34:54Z', 'labels': []}
+{'issuenumber': 290, 'title': 'Cannot export .md file to dropbox', 'state': 'closed', 'created_at': '2016-12-20T09:10:54Z', 'closed_at': '2016-12-20T09:15:28Z', 'labels': []}
+{'issuenumber': 289, 'title': 'LaTeX not work after updated', 'state': 'closed', 'created_at': '2016-12-19T17:37:13Z', 'closed_at': '2016-12-19T19:09:30Z', 'labels': []}
+{'issuenumber': 288, 'title': 'Apply style on email address will break email parsing/link', 'state': 'closed', 'created_at': '2016-12-19T16:35:53Z', 'closed_at': '2017-02-27T14:13:17Z', 'labels': {'name': 'upstream'}}
+{'issuenumber': 286, 'title': 'Release issues on docker repo', 'state': 'closed', 'created_at': '2016-12-19T13:42:59Z', 'closed_at': '2016-12-19T13:44:32Z', 'labels': []}
+{'issuenumber': 284, 'title': 'S3 bucket name can not be specified', 'state': 'closed', 'created_at': '2016-12-18T09:55:19Z', 'closed_at': '2016-12-18T13:23:18Z', 'labels': []}
+{'issuenumber': 283, 'title': 'Issue #270 seems not to be resolved?', 'state': 'closed', 'created_at': '2016-12-17T21:00:59Z', 'closed_at': '2016-12-19T16:02:17Z', 'labels': []}
+{'issuenumber': 282, 'title': 'Standalone electron app', 'state': 'closed', 'created_at': '2016-12-14T22:27:19Z', 'closed_at': '2017-01-26T03:28:13Z', 'labels': []}
+{'issuenumber': 281, 'title': 'Every document is named Untitled. ', 'state': 'closed', 'created_at': '2016-12-14T22:25:05Z', 'closed_at': '2016-12-15T02:06:55Z', 'labels': []}
+{'issuenumber': 280, 'title': 'Support "copy markdown to clipboard" funtionality', 'state': 'closed', 'created_at': '2016-12-14T11:40:04Z', 'closed_at': '2018-06-26T21:43:41Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 278, 'title': 'path is not defined when I use local file system to store image', 'state': 'closed', 'created_at': '2016-12-12T04:31:13Z', 'closed_at': '2016-12-12T05:07:16Z', 'labels': []}
+{'issuenumber': 275, 'title': 'Automatic exporting to Google Drive', 'state': 'closed', 'created_at': '2016-12-11T17:01:18Z', 'closed_at': '2018-06-24T21:22:55Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 273, 'title': 'Heroku deployment use sqlite instead of postgres', 'state': 'closed', 'created_at': '2016-12-10T11:19:18Z', 'closed_at': '2016-12-12T15:27:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 271, 'title': 'Automatic URLs', 'state': 'closed', 'created_at': '2016-12-09T10:42:43Z', 'closed_at': '2016-12-10T17:52:00Z', 'labels': []}
+{'issuenumber': 270, 'title': 'Page two of history - links are not working', 'state': 'closed', 'created_at': '2016-12-07T10:59:12Z', 'closed_at': '2016-12-07T11:44:05Z', 'labels': []}
+{'issuenumber': 269, 'title': "'urlpath' not working for webpack-generated components", 'state': 'closed', 'created_at': '2016-12-06T17:57:05Z', 'closed_at': '2016-12-12T05:02:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 266, 'title': '無法登入', 'state': 'closed', 'created_at': '2016-12-02T15:19:20Z', 'closed_at': '2016-12-03T02:55:08Z', 'labels': []}
+{'issuenumber': 265, 'title': 'HTML entities in drop down tag selector', 'state': 'closed', 'created_at': '2016-11-29T13:14:31Z', 'closed_at': '2016-11-29T13:34:38Z', 'labels': []}
+{'issuenumber': 264, 'title': 'Drop bower the package manager', 'state': 'closed', 'created_at': '2016-11-29T08:30:49Z', 'closed_at': '2016-12-12T00:56:34Z', 'labels': []}
+{'issuenumber': 262, 'title': '[Suggestion] New emojis', 'state': 'closed', 'created_at': '2016-11-28T20:32:08Z', 'closed_at': '2020-02-06T06:58:04Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 260, 'title': 'No account support for docker-compose version ?', 'state': 'closed', 'created_at': '2016-11-27T05:50:39Z', 'closed_at': '2016-11-27T06:03:11Z', 'labels': []}
+{'issuenumber': 259, 'title': 'Get error with google login', 'state': 'closed', 'created_at': '2016-11-24T23:14:53Z', 'closed_at': '2016-11-25T14:52:14Z', 'labels': {'name': 'auth provider'}}
+{'issuenumber': 258, 'title': 'Suggestion: support TypeScript syntax highlight', 'state': 'closed', 'created_at': '2016-11-23T03:02:35Z', 'closed_at': '2016-11-28T10:34:39Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 257, 'title': 'TOC shows css styling when using LaTeX in a subheader', 'state': 'closed', 'created_at': '2016-11-22T20:57:20Z', 'closed_at': '2016-11-28T14:15:34Z', 'labels': []}
+{'issuenumber': 256, 'title': '影片支援：從特定時間開始播放', 'state': 'closed', 'created_at': '2016-11-18T06:38:25Z', 'closed_at': '2016-11-26T15:41:23Z', 'labels': []}
+{'issuenumber': 255, 'title': 'Cmd+L overwritten by codemirror', 'state': 'closed', 'created_at': '2016-11-17T13:54:47Z', 'closed_at': '2016-12-03T17:01:14Z', 'labels': []}
+{'issuenumber': 254, 'title': 'Simple chat functionality', 'state': 'closed', 'created_at': '2016-11-17T11:00:47Z', 'closed_at': '2016-11-19T10:19:09Z', 'labels': []}
+{'issuenumber': 253, 'title': 'Loosen Imgur dependency / plug-ins', 'state': 'closed', 'created_at': '2016-11-16T18:28:19Z', 'closed_at': '2016-12-01T18:27:44Z', 'labels': []}
+{'issuenumber': 252, 'title': 'LaTeX display problem in published page', 'state': 'closed', 'created_at': '2016-11-16T09:59:30Z', 'closed_at': '2016-11-18T04:28:26Z', 'labels': []}
+{'issuenumber': 247, 'title': '執行./setup 開頭有錯', 'state': 'closed', 'created_at': '2016-11-11T03:25:31Z', 'closed_at': '2016-11-19T10:25:28Z', 'labels': []}
+{'issuenumber': 241, 'title': 'Add DeckTape PDF exporter for slides presentation', 'state': 'closed', 'created_at': '2016-10-30T01:56:14Z', 'closed_at': '2018-11-25T00:44:29Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 240, 'title': '投影片輸出PDF排版錯誤 (Export slides to PDF)', 'state': 'closed', 'created_at': '2016-10-29T14:57:34Z', 'closed_at': '2016-10-29T15:39:30Z', 'labels': []}
+{'issuenumber': 239, 'title': 'Storage: Why are fields base64 encoded?', 'state': 'closed', 'created_at': '2016-10-29T09:15:34Z', 'closed_at': '2017-01-02T18:24:22Z', 'labels': {'name': 'refactor'}}
+{'issuenumber': 238, 'title': 'combination of HTML tag <details> and <summary>', 'state': 'closed', 'created_at': '2016-10-28T20:02:24Z', 'closed_at': '2016-10-29T15:45:16Z', 'labels': []}
+{'issuenumber': 237, 'title': 'Disable guest notes / require authentication', 'state': 'closed', 'created_at': '2016-10-28T11:34:12Z', 'closed_at': '2016-12-15T06:08:43Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 236, 'title': 'expand error', 'state': 'closed', 'created_at': '2016-10-26T07:48:27Z', 'closed_at': '2016-10-27T03:16:43Z', 'labels': []}
+{'issuenumber': 235, 'title': 'Client for Desktop', 'state': 'closed', 'created_at': '2016-10-25T01:54:10Z', 'closed_at': '2017-01-26T03:27:59Z', 'labels': []}
+{'issuenumber': 234, 'title': 'Imgur is temporarily over capacity. Please try again later.', 'state': 'closed', 'created_at': '2016-10-24T13:39:51Z', 'closed_at': '2016-10-25T07:06:52Z', 'labels': []}
+{'issuenumber': 233, 'title': 'Error - Deploy Heroku', 'state': 'closed', 'created_at': '2016-10-24T05:27:58Z', 'closed_at': '2016-10-26T19:19:46Z', 'labels': []}
+{'issuenumber': 228, 'title': "Python's Syntax Highlight doesn't work", 'state': 'closed', 'created_at': '2016-10-23T02:40:28Z', 'closed_at': '2016-10-23T08:13:20Z', 'labels': []}
+{'issuenumber': 227, 'title': 'Hackmd files and folders as authority for derived code and descriptions', 'state': 'closed', 'created_at': '2016-10-21T07:30:46Z', 'closed_at': '2016-11-21T18:36:08Z', 'labels': []}
+{'issuenumber': 225, 'title': '多階層 checklist 勾選連動 / Auto check sub list items on checking parent', 'state': 'closed', 'created_at': '2016-10-20T14:09:01Z', 'closed_at': '2018-06-26T21:03:58Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 223, 'title': '字型替換擴充', 'state': 'closed', 'created_at': '2016-10-20T02:14:42Z', 'closed_at': '2016-10-20T02:46:23Z', 'labels': []}
+{'issuenumber': 221, 'title': '警告區塊自訂色彩 / Custom alert area color', 'state': 'closed', 'created_at': '2016-10-19T07:58:54Z', 'closed_at': '2017-02-27T14:24:05Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 220, 'title': 'Support more emoji and fix its autocomplete', 'state': 'closed', 'created_at': '2016-10-19T02:36:53Z', 'closed_at': '2018-10-22T21:02:34Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 219, 'title': 'External Server Requests', 'state': 'closed', 'created_at': '2016-10-18T21:19:50Z', 'closed_at': '2016-11-26T15:37:49Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 217, 'title': 'Emoji inside parens are not working', 'state': 'closed', 'created_at': '2016-10-18T06:20:44Z', 'closed_at': '2016-10-18T22:08:37Z', 'labels': []}
+{'issuenumber': 215, 'title': '清單項目下的 syntax highlighting / syntax highlighting under list items', 'state': 'closed', 'created_at': '2016-10-17T10:19:46Z', 'closed_at': '2016-10-18T03:31:02Z', 'labels': []}
+{'issuenumber': 214, 'title': 'Images Link Automatically', 'state': 'closed', 'created_at': '2016-10-16T18:46:30Z', 'closed_at': '2016-10-18T04:59:06Z', 'labels': []}
+{'issuenumber': 211, 'title': 'Feature Proposal: turn [ ]  into check boxes', 'state': 'closed', 'created_at': '2016-10-15T17:41:17Z', 'closed_at': '2016-10-15T17:42:16Z', 'labels': []}
+{'issuenumber': 210, 'title': 'Edit button', 'state': 'closed', 'created_at': '2016-10-15T09:20:37Z', 'closed_at': '2018-06-26T21:32:17Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 209, 'title': 'Order list support multiple level', 'state': 'closed', 'created_at': '2016-10-15T06:55:47Z', 'closed_at': '2017-02-17T14:15:05Z', 'labels': {'name': 'vote wanted'}}
+{'issuenumber': 208, 'title': 'Database Issue with setup on MariaDB 10.0.27 (ubuntu default package)', 'state': 'closed', 'created_at': '2016-10-15T00:23:05Z', 'closed_at': '2016-10-15T16:54:34Z', 'labels': []}
+{'issuenumber': 207, 'title': 'Multiplexing slides', 'state': 'closed', 'created_at': '2016-10-14T15:09:48Z', 'closed_at': '2018-06-24T22:03:00Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 203, 'title': 'loading css (for Chinese, on slide)', 'state': 'closed', 'created_at': '2016-10-13T12:05:55Z', 'closed_at': '2017-01-08T16:58:25Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 200, 'title': '登入問題', 'state': 'closed', 'created_at': '2016-10-12T11:58:26Z', 'closed_at': '2016-10-13T04:11:32Z', 'labels': []}
+{'issuenumber': 199, 'title': 'Paid subscription of hackmd.io', 'state': 'closed', 'created_at': '2016-10-11T21:19:17Z', 'closed_at': '2016-10-13T04:11:56Z', 'labels': []}
+{'issuenumber': 198, 'title': 'Trouble with Reverse Proxy and websockets', 'state': 'closed', 'created_at': '2016-10-11T07:35:18Z', 'closed_at': '2016-10-11T09:01:15Z', 'labels': []}
+{'issuenumber': 188, 'title': 'Some characters will be displayd as HTML escape character in slide mode.', 'state': 'closed', 'created_at': '2016-10-04T16:08:28Z', 'closed_at': '2016-10-04T16:22:41Z', 'labels': []}
+{'issuenumber': 186, 'title': 'Bug: editor is confused of underscores + non-alphanumeric in MathJax notation', 'state': 'closed', 'created_at': '2016-10-03T18:41:52Z', 'closed_at': '2016-10-10T13:31:13Z', 'labels': []}
+{'issuenumber': 185, 'title': 'loginned user private doc.', 'state': 'closed', 'created_at': '2016-10-03T18:32:35Z', 'closed_at': '2016-10-13T04:12:23Z', 'labels': []}
+{'issuenumber': 181, 'title': 'Connection lost when multiple client delete at same place at the same time', 'state': 'closed', 'created_at': '2016-10-02T11:53:15Z', 'closed_at': '2016-10-10T13:32:06Z', 'labels': []}
+{'issuenumber': 180, 'title': 'Errors in README', 'state': 'closed', 'created_at': '2016-10-02T04:57:19Z', 'closed_at': '2016-10-11T07:34:47Z', 'labels': []}
+{'issuenumber': 177, 'title': '支援GIF圖貼上', 'state': 'closed', 'created_at': '2016-09-30T08:51:00Z', 'closed_at': '2016-10-01T00:08:59Z', 'labels': []}
+{'issuenumber': 176, 'title': 'Support zen (full writing) mode', 'state': 'closed', 'created_at': '2016-09-28T02:43:13Z', 'closed_at': '2018-06-24T22:07:38Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 175, 'title': 'hackmd with matrix.org ', 'state': 'closed', 'created_at': '2016-09-27T21:32:31Z', 'closed_at': '2018-01-23T00:48:23Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 174, 'title': 'Improve history create and update method', 'state': 'closed', 'created_at': '2016-09-27T18:38:01Z', 'closed_at': '2016-10-10T13:35:24Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 173, 'title': 'Improve and support more environment variables', 'state': 'closed', 'created_at': '2016-09-27T18:30:54Z', 'closed_at': '2016-10-10T13:30:05Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 165, 'title': 'Exclamation marks in french VS image tag', 'state': 'closed', 'created_at': '2016-08-30T12:29:23Z', 'closed_at': '2016-09-18T09:08:30Z', 'labels': []}
+{'issuenumber': 164, 'title': 'UX adjustments (layout, style, flows, syntax, anything related...)', 'state': 'closed', 'created_at': '2016-08-30T11:22:09Z', 'closed_at': '2017-02-27T14:17:17Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 162, 'title': 'Few questions for production', 'state': 'closed', 'created_at': '2016-08-25T22:12:47Z', 'closed_at': '2016-10-13T04:24:21Z', 'labels': {'name': 'question'}}
+{'issuenumber': 161, 'title': 'Dropbox Export Broken?', 'state': 'closed', 'created_at': '2016-08-23T23:56:36Z', 'closed_at': '2016-10-31T10:01:31Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 160, 'title': 'Persistent connection problem', 'state': 'closed', 'created_at': '2016-08-21T13:25:01Z', 'closed_at': '2016-08-24T02:11:18Z', 'labels': []}
+{'issuenumber': 157, 'title': 'Need help for translation', 'state': 'closed', 'created_at': '2016-08-19T03:59:38Z', 'closed_at': '2017-02-27T14:16:03Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 156, 'title': 'support local filesystem for uploading images', 'state': 'closed', 'created_at': '2016-08-17T09:18:28Z', 'closed_at': '2016-12-01T18:29:12Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 154, 'title': 'feature request: TOC element', 'state': 'closed', 'created_at': '2016-08-12T08:11:05Z', 'closed_at': '2016-08-15T04:03:45Z', 'labels': []}
+{'issuenumber': 153, 'title': 'Images behave strangely in slide mode', 'state': 'closed', 'created_at': '2016-08-10T00:37:01Z', 'closed_at': '2016-08-15T10:29:36Z', 'labels': []}
+{'issuenumber': 152, 'title': 'feature request: support embedded base64-encoded images and objects', 'state': 'closed', 'created_at': '2016-08-09T14:27:38Z', 'closed_at': '2016-08-15T03:50:27Z', 'labels': []}
+{'issuenumber': 151, 'title': "Can't paste at mobile browser", 'state': 'closed', 'created_at': '2016-08-06T17:19:24Z', 'closed_at': '2016-08-09T09:08:26Z', 'labels': []}
+{'issuenumber': 149, 'title': 'Cannot link to chrome extensions', 'state': 'closed', 'created_at': '2016-08-05T06:28:28Z', 'closed_at': '2016-08-15T03:51:06Z', 'labels': []}
+{'issuenumber': 148, 'title': "Doesn't work Ctrl+C copy action in vim insertion mode", 'state': 'closed', 'created_at': '2016-08-02T01:55:33Z', 'closed_at': '2016-08-02T03:25:25Z', 'labels': []}
+{'issuenumber': 147, 'title': 'config.json "urladdport" setting (set to "false") not honored', 'state': 'closed', 'created_at': '2016-07-30T01:33:32Z', 'closed_at': '2016-07-30T02:05:50Z', 'labels': []}
+{'issuenumber': 146, 'title': 'Move cursor to start/end of line is wrong for multi-line parragraphs', 'state': 'closed', 'created_at': '2016-07-28T22:28:33Z', 'closed_at': '2016-08-01T18:53:06Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 145, 'title': 'revealjs output slide display problem', 'state': 'closed', 'created_at': '2016-07-19T04:19:15Z', 'closed_at': '2016-07-30T12:34:51Z', 'labels': []}
+{'issuenumber': 144, 'title': '全域設定 Slide-transition', 'state': 'closed', 'created_at': '2016-07-12T06:06:51Z', 'closed_at': '2016-07-31T16:09:30Z', 'labels': []}
+{'issuenumber': 143, 'title': "css couldn't display correctly via Facebook messenger", 'state': 'closed', 'created_at': '2016-07-10T14:13:14Z', 'closed_at': '2016-07-12T18:20:22Z', 'labels': []}
+{'issuenumber': 142, 'title': 'spell check should ignore Chinese', 'state': 'closed', 'created_at': '2016-07-09T17:09:51Z', 'closed_at': '2016-07-13T02:44:10Z', 'labels': []}
+{'issuenumber': 141, 'title': 'Gitlab OAuth integration throws an internal server error on login', 'state': 'closed', 'created_at': '2016-07-05T16:03:25Z', 'closed_at': '2016-07-08T05:39:06Z', 'labels': {'name': 'auth provider'}}
+{'issuenumber': 140, 'title': 'Redirect URI for OAuth services?', 'state': 'closed', 'created_at': '2016-07-05T13:59:28Z', 'closed_at': '2016-07-05T15:02:42Z', 'labels': {'name': 'auth provider'}}
+{'issuenumber': 139, 'title': 'Link maintains focused after click', 'state': 'closed', 'created_at': '2016-06-30T07:59:09Z', 'closed_at': '2016-06-30T11:58:48Z', 'labels': []}
+{'issuenumber': 137, 'title': 'socket.io path is not modified', 'state': 'closed', 'created_at': '2016-06-18T18:00:46Z', 'closed_at': '2016-06-19T00:24:27Z', 'labels': []}
+{'issuenumber': 136, 'title': 'external 功能可否支援 google analytics ?', 'state': 'closed', 'created_at': '2016-06-15T06:57:52Z', 'closed_at': '2016-06-21T13:50:04Z', 'labels': []}
+{'issuenumber': 135, 'title': 'Support for exporting raw HTML', 'state': 'closed', 'created_at': '2016-06-08T16:53:35Z', 'closed_at': '2016-06-17T08:45:30Z', 'labels': []}
+{'issuenumber': 134, 'title': 'Internationalization (i18n)', 'state': 'closed', 'created_at': '2016-06-04T15:48:49Z', 'closed_at': '2016-08-19T03:50:34Z', 'labels': []}
+{'issuenumber': 133, 'title': '無法刪除歷史紀錄，js error', 'state': 'closed', 'created_at': '2016-06-01T20:05:24Z', 'closed_at': '2016-06-02T02:57:13Z', 'labels': []}
+{'issuenumber': 132, 'title': '"this page need refresh" 持續重複出現', 'state': 'closed', 'created_at': '2016-06-01T19:58:51Z', 'closed_at': '2016-06-02T02:57:07Z', 'labels': []}
+{'issuenumber': 131, 'title': 'Error 500 since 0.4.2 upgrade', 'state': 'closed', 'created_at': '2016-06-01T16:04:05Z', 'closed_at': '2016-06-14T14:47:58Z', 'labels': []}
+{'issuenumber': 130, 'title': 'Remove login button', 'state': 'closed', 'created_at': '2016-05-31T22:11:17Z', 'closed_at': '2016-06-01T13:46:10Z', 'labels': []}
+{'issuenumber': 129, 'title': '不同入口的帳號合併功能 / Support merging different account data', 'state': 'closed', 'created_at': '2016-05-26T18:40:01Z', 'closed_at': '2018-06-26T21:46:46Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 128, 'title': 'Support two-column editor mode', 'state': 'closed', 'created_at': '2016-05-24T11:34:39Z', 'closed_at': '2017-10-06T19:48:30Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 127, 'title': 'Editor buggy (Firefox)', 'state': 'closed', 'created_at': '2016-05-23T16:32:43Z', 'closed_at': '2016-06-01T06:40:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 120, 'title': 'Reduce the possibility to reload page', 'state': 'closed', 'created_at': '2016-05-12T02:50:10Z', 'closed_at': '2016-12-20T03:23:56Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 119, 'title': 'Supply a docker image with ready-to-run hackmd', 'state': 'closed', 'created_at': '2016-05-09T22:56:09Z', 'closed_at': '2016-05-09T22:59:15Z', 'labels': []}
+{'issuenumber': 116, 'title': 'Mixed content', 'state': 'closed', 'created_at': '2016-05-07T17:19:36Z', 'closed_at': '2016-05-07T17:57:54Z', 'labels': []}
+{'issuenumber': 115, 'title': '介面稍微跑版', 'state': 'closed', 'created_at': '2016-05-06T10:49:55Z', 'closed_at': '2016-05-09T09:54:39Z', 'labels': []}
+{'issuenumber': 114, 'title': 'Use git to version notes', 'state': 'closed', 'created_at': '2016-05-05T12:00:30Z', 'closed_at': '2018-06-26T21:30:32Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 113, 'title': 'Embed videos in slide mode', 'state': 'closed', 'created_at': '2016-04-30T10:15:41Z', 'closed_at': '2016-07-02T08:44:30Z', 'labels': []}
+{'issuenumber': 112, 'title': '应用能支持其他语言么', 'state': 'closed', 'created_at': '2016-04-28T01:32:52Z', 'closed_at': '2016-08-19T03:50:45Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 111, 'title': 'History should also track publish note browse record', 'state': 'closed', 'created_at': '2016-04-27T02:10:49Z', 'closed_at': '2016-04-28T02:32:33Z', 'labels': []}
+{'issuenumber': 110, 'title': 'Support multiple selection on history', 'state': 'closed', 'created_at': '2016-04-27T02:07:56Z', 'closed_at': '2018-06-26T20:59:38Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 108, 'title': 'Support export as a revision of an existing Gist', 'state': 'closed', 'created_at': '2016-04-26T18:46:35Z', 'closed_at': '2018-06-26T20:58:21Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 107, 'title': '界面主題配色 / Support more themes', 'state': 'closed', 'created_at': '2016-04-26T15:53:15Z', 'closed_at': '2018-01-16T09:25:27Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 106, 'title': '使"檢視區塊"滑動時，"編輯區塊"也能跟著移動 / Also sync the progress bar from "view" pane to "edit" pane', 'state': 'closed', 'created_at': '2016-04-26T15:19:12Z', 'closed_at': '2016-05-25T05:25:43Z', 'labels': []}
+{'issuenumber': 105, 'title': '"編輯權限"顯示的位置 / Change the position of permission type', 'state': 'closed', 'created_at': '2016-04-26T15:17:32Z', 'closed_at': '2018-06-24T22:06:04Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 104, 'title': '增加google登入 / Support Google Signin', 'state': 'closed', 'created_at': '2016-04-26T15:14:14Z', 'closed_at': '2016-05-21T14:53:27Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 103, 'title': 'Embedd PDF', 'state': 'closed', 'created_at': '2016-04-25T21:43:36Z', 'closed_at': '2016-06-21T13:50:43Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 100, 'title': 'Please provide nginx vhost configuration exemple', 'state': 'closed', 'created_at': '2016-04-22T11:17:38Z', 'closed_at': '2016-04-22T16:41:02Z', 'labels': []}
+{'issuenumber': 99, 'title': "DB socket connexion isn't supported", 'state': 'closed', 'created_at': '2016-04-21T16:49:22Z', 'closed_at': '2016-04-22T11:10:24Z', 'labels': []}
+{'issuenumber': 98, 'title': 'Cheat sheet needed', 'state': 'closed', 'created_at': '2016-04-21T03:03:17Z', 'closed_at': '2016-05-11T06:40:56Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 96, 'title': 'Cannot Get Latest Code Working', 'state': 'closed', 'created_at': '2016-04-13T22:49:11Z', 'closed_at': '2016-04-21T13:48:56Z', 'labels': []}
+{'issuenumber': 95, 'title': 'Support for spell-check?', 'state': 'closed', 'created_at': '2016-04-12T16:49:46Z', 'closed_at': '2016-06-21T13:51:54Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 94, 'title': 'Convert tabs into spaces', 'state': 'closed', 'created_at': '2016-03-26T14:38:15Z', 'closed_at': '2016-03-26T18:18:44Z', 'labels': []}
+{'issuenumber': 93, 'title': 'Support LDAP auth', 'state': 'closed', 'created_at': '2016-03-22T09:58:25Z', 'closed_at': '2017-02-27T13:49:23Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 92, 'title': 'Please add Mysql-based DB support', 'state': 'closed', 'created_at': '2016-03-10T17:32:19Z', 'closed_at': '2016-04-20T10:25:50Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 91, 'title': '能支持mermaid解析器為新功能?', 'state': 'closed', 'created_at': '2016-03-03T11:59:19Z', 'closed_at': '2016-03-04T15:35:26Z', 'labels': []}
+{'issuenumber': 90, 'title': 'Saving to local filesystem', 'state': 'closed', 'created_at': '2016-03-03T09:53:08Z', 'closed_at': '2018-06-26T20:14:28Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 89, 'title': 'Colon confuses MathJax parsing', 'state': 'closed', 'created_at': '2016-02-23T17:25:32Z', 'closed_at': '2016-02-24T02:04:49Z', 'labels': []}
+{'issuenumber': 88, 'title': 'Highlighter works only top line of the list in editor', 'state': 'closed', 'created_at': '2016-02-17T12:42:59Z', 'closed_at': '2016-03-04T15:34:21Z', 'labels': []}
+{'issuenumber': 87, 'title': "Japanese comma(、) and period(。) aren't displayed correctly in editor mode.", 'state': 'closed', 'created_at': '2016-02-15T09:54:22Z', 'closed_at': '2016-02-16T01:19:22Z', 'labels': []}
+{'issuenumber': 86, 'title': 'Feature Request: Enable relative path like http://www.example.com/hackmd', 'state': 'closed', 'created_at': '2016-02-12T16:31:21Z', 'closed_at': '2016-02-20T03:18:13Z', 'labels': []}
+{'issuenumber': 85, 'title': 'Export to GitHub Gist', 'state': 'closed', 'created_at': '2016-01-29T17:56:37Z', 'closed_at': '2016-01-31T21:46:05Z', 'labels': []}
+{'issuenumber': 84, 'title': 'Flow chart is not shown correctly', 'state': 'closed', 'created_at': '2016-01-26T20:26:13Z', 'closed_at': '2016-01-31T21:45:12Z', 'labels': []}
+{'issuenumber': 83, 'title': 'Support two spaces for list indentation', 'state': 'closed', 'created_at': '2016-01-22T05:31:56Z', 'closed_at': '2016-02-24T14:52:14Z', 'labels': []}
+{'issuenumber': 82, 'title': 'Weird parsing', 'state': 'closed', 'created_at': '2016-01-22T04:35:46Z', 'closed_at': '2016-02-21T03:38:48Z', 'labels': []}
+{'issuenumber': 74, 'title': 'Browse restriction and noindex robot', 'state': 'closed', 'created_at': '2016-01-08T04:06:38Z', 'closed_at': '2016-01-19T17:40:48Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 65, 'title': 'Session cookie might be undefinied', 'state': 'closed', 'created_at': '2015-12-30T05:03:27Z', 'closed_at': '2015-12-30T05:43:18Z', 'labels': []}
+{'issuenumber': 64, 'title': 'Passport not initialized error', 'state': 'closed', 'created_at': '2015-12-30T04:02:44Z', 'closed_at': '2015-12-30T05:37:36Z', 'labels': []}
+{'issuenumber': 58, 'title': 'a commit has broken the view and edit feature', 'state': 'closed', 'created_at': '2015-12-24T10:38:04Z', 'closed_at': '2015-12-25T07:09:47Z', 'labels': []}
+{'issuenumber': 56, 'title': 'rendering problem for MathJax after colon', 'state': 'closed', 'created_at': '2015-12-21T12:15:57Z', 'closed_at': '2015-12-22T18:10:04Z', 'labels': []}
+{'issuenumber': 48, 'title': 'Use pandoc', 'state': 'closed', 'created_at': '2015-12-14T16:07:40Z', 'closed_at': '2020-02-17T03:35:03Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 44, 'title': 'Allow *free url* mode like etherpad', 'state': 'closed', 'created_at': '2015-11-26T09:18:08Z', 'closed_at': '2016-12-16T07:39:31Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 42, 'title': 'Wrong file paths in pretty.ejs', 'state': 'closed', 'created_at': '2015-11-12T22:42:29Z', 'closed_at': '2015-11-17T12:22:07Z', 'labels': []}
+{'issuenumber': 40, 'title': 'Markdown line breaks', 'state': 'closed', 'created_at': '2015-11-07T16:04:34Z', 'closed_at': '2016-01-19T17:34:12Z', 'labels': []}
+{'issuenumber': 39, 'title': '預覽頁面出現再製片段', 'state': 'closed', 'created_at': '2015-10-28T01:27:07Z', 'closed_at': '2015-10-28T01:30:03Z', 'labels': []}
+{'issuenumber': 38, 'title': '空行', 'state': 'closed', 'created_at': '2015-10-07T11:02:03Z', 'closed_at': '2016-01-19T17:43:45Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 37, 'title': 'Use build tools', 'state': 'closed', 'created_at': '2015-10-05T06:27:30Z', 'closed_at': '2016-10-17T10:16:08Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 36, 'title': 'Support local signin', 'state': 'closed', 'created_at': '2015-10-04T12:03:27Z', 'closed_at': '2016-12-01T18:00:02Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 33, 'title': 'Export to pdf', 'state': 'closed', 'created_at': '2015-10-02T04:28:53Z', 'closed_at': '2018-06-26T19:41:19Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 32, 'title': 'Slide mode', 'state': 'closed', 'created_at': '2015-10-01T16:55:37Z', 'closed_at': '2016-10-13T04:18:39Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 31, 'title': 'Standalone app', 'state': 'closed', 'created_at': '2015-09-30T12:35:32Z', 'closed_at': '2017-02-27T13:53:51Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 30, 'title': 'Feature Suggestions', 'state': 'closed', 'created_at': '2015-09-30T05:49:27Z', 'closed_at': '2018-01-23T22:22:52Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 29, 'title': 'Use dependency managers', 'state': 'closed', 'created_at': '2015-09-29T09:34:43Z', 'closed_at': '2016-01-19T17:35:35Z', 'labels': []}
+{'issuenumber': 28, 'title': 'Suggest edit', 'state': 'closed', 'created_at': '2015-09-29T09:30:49Z', 'closed_at': '2017-02-27T13:59:48Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 26, 'title': 'May let the cursor longer but showing away', 'state': 'closed', 'created_at': '2015-09-29T09:17:15Z', 'closed_at': '2016-06-19T09:21:33Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 25, 'title': 'Better table support', 'state': 'closed', 'created_at': '2015-09-29T09:15:11Z', 'closed_at': '2020-03-10T01:44:28Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 24, 'title': 'Authorship highlight', 'state': 'closed', 'created_at': '2015-09-29T09:13:35Z', 'closed_at': '2016-07-30T04:27:11Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 23, 'title': 'Support YAML', 'state': 'closed', 'created_at': '2015-09-29T09:11:49Z', 'closed_at': '2016-01-19T17:38:31Z', 'labels': []}
+{'issuenumber': 22, 'title': 'Need tests', 'state': 'closed', 'created_at': '2015-09-29T09:10:22Z', 'closed_at': '2018-06-26T20:42:31Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 21, 'title': 'Setup Problems', 'state': 'closed', 'created_at': '2015-09-24T12:38:13Z', 'closed_at': '2015-11-12T18:06:59Z', 'labels': []}
+{'issuenumber': 19, 'title': 'Either choose PostgreSQL or MongoDB', 'state': 'closed', 'created_at': '2015-09-11T18:05:24Z', 'closed_at': '2016-04-20T10:26:32Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 18, 'title': 'Missing files', 'state': 'closed', 'created_at': '2015-08-31T10:02:19Z', 'closed_at': '2015-09-13T11:49:50Z', 'labels': []}
+{'issuenumber': 17, 'title': 'DATABASE_URL这个是什么格式', 'state': 'closed', 'created_at': '2015-08-19T15:44:40Z', 'closed_at': '2015-09-15T08:12:14Z', 'labels': []}
+{'issuenumber': 15, 'title': '可以使用mysql来代替PostgreSQL吗？', 'state': 'closed', 'created_at': '2015-07-17T03:44:37Z', 'closed_at': '2016-04-20T10:26:41Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 14, 'title': 'Set document max length', 'state': 'closed', 'created_at': '2015-07-16T08:45:02Z', 'closed_at': '2015-07-16T14:52:47Z', 'labels': []}
+{'issuenumber': 13, 'title': 'Multiple Configs and Daemon Tools', 'state': 'closed', 'created_at': '2015-07-13T17:10:29Z', 'closed_at': '2015-09-17T05:58:09Z', 'labels': []}
+{'issuenumber': 10, 'title': 'Delete note', 'state': 'closed', 'created_at': '2015-07-11T05:15:24Z', 'closed_at': '2016-10-10T13:33:24Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 8, 'title': 'Show profile image if available', 'state': 'closed', 'created_at': '2015-07-02T01:57:30Z', 'closed_at': '2015-07-04T14:22:37Z', 'labels': []}
+{'issuenumber': 5, 'title': 'Owner & Contributors', 'state': 'closed', 'created_at': '2015-07-02T00:33:08Z', 'closed_at': '2018-06-26T20:56:37Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 4, 'title': 'Inline popover or shortcut', 'state': 'closed', 'created_at': '2015-07-02T00:24:08Z', 'closed_at': '2018-07-04T20:00:03Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 3, 'title': 'Support operational transformation', 'state': 'closed', 'created_at': '2015-07-02T00:21:50Z', 'closed_at': '2015-07-11T04:56:31Z', 'labels': []}
+{'issuenumber': 1, 'title': 'Database schema', 'state': 'closed', 'created_at': '2015-05-06T07:20:29Z', 'closed_at': '2015-05-08T06:26:05Z', 'labels': []}

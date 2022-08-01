@@ -1,0 +1,421 @@
+{'issuenumber': 1086, 'title': 'Failed to build:  Error: conflicting types for ‘write’; have ‘void(WrenVM *, const char *)’', 'state': 'closed', 'created_at': '2022-03-08T10:34:29Z', 'closed_at': '2022-03-08T15:50:10Z', 'labels': []}
+{'issuenumber': 1085, 'title': 'Is your language have an IDE for it?', 'state': 'closed', 'created_at': '2022-03-02T13:53:15Z', 'closed_at': '2022-03-03T00:02:39Z', 'labels': []}
+{'issuenumber': 1082, 'title': 'Link wren_test on MAC failed', 'state': 'closed', 'created_at': '2022-02-13T03:28:31Z', 'closed_at': '2022-02-13T15:55:18Z', 'labels': []}
+{'issuenumber': 1081, 'title': '(Feature Request) Support for RegEx', 'state': 'closed', 'created_at': '2022-02-12T14:00:27Z', 'closed_at': '2022-02-13T02:42:05Z', 'labels': []}
+{'issuenumber': 1080, 'title': 'Is recursion possible?', 'state': 'closed', 'created_at': '2022-02-09T14:01:45Z', 'closed_at': '2022-02-11T11:17:03Z', 'labels': []}
+{'issuenumber': 1079, 'title': 'Is Compiling wren code possible?', 'state': 'closed', 'created_at': '2022-02-04T15:43:42Z', 'closed_at': '2022-02-11T11:17:14Z', 'labels': []}
+{'issuenumber': 1074, 'title': 'Accessing Wren `map` objects from the host application', 'state': 'closed', 'created_at': '2022-01-17T17:06:12Z', 'closed_at': '2022-01-17T18:47:52Z', 'labels': []}
+{'issuenumber': 1073, 'title': 'How does the host application obtain the name of the called constructor for foreign classes?', 'state': 'closed', 'created_at': '2022-01-17T09:56:09Z', 'closed_at': '2022-01-17T16:26:34Z', 'labels': []}
+{'issuenumber': 1070, 'title': 'Optional brackets around expressions in statements', 'state': 'closed', 'created_at': '2022-01-13T12:49:45Z', 'closed_at': '2022-01-13T18:28:31Z', 'labels': []}
+{'issuenumber': 1069, 'title': 'Infinite loop on setter method', 'state': 'closed', 'created_at': '2022-01-06T19:43:17Z', 'closed_at': '2022-01-06T23:16:23Z', 'labels': []}
+{'issuenumber': 1064, 'title': 'Simpler bindings?', 'state': 'closed', 'created_at': '2021-11-30T00:54:35Z', 'closed_at': '2022-02-13T03:04:13Z', 'labels': []}
+{'issuenumber': 1062, 'title': 'Crash on returning new foreign class in foreign class function', 'state': 'closed', 'created_at': '2021-11-13T17:38:12Z', 'closed_at': '2021-11-14T16:13:14Z', 'labels': []}
+{'issuenumber': 1050, 'title': 'Potentially dangerous behavior when functions are passed too many arguments', 'state': 'closed', 'created_at': '2021-08-25T10:14:12Z', 'closed_at': '2021-09-08T08:49:27Z', 'labels': []}
+{'issuenumber': 1049, 'title': "Bug: List does not implement 'remove(_)'", 'state': 'closed', 'created_at': '2021-08-22T09:53:44Z', 'closed_at': '2021-08-22T12:56:03Z', 'labels': []}
+{'issuenumber': 1047, 'title': 'allow the caller to specify a preallocated array for the heap', 'state': 'closed', 'created_at': '2021-08-10T00:19:53Z', 'closed_at': '2021-08-10T00:43:28Z', 'labels': []}
+{'issuenumber': 1045, 'title': '[RFC] Make the use of call method to invoke functions optional.', 'state': 'closed', 'created_at': '2021-08-09T10:41:40Z', 'closed_at': '2021-08-09T21:59:21Z', 'labels': []}
+{'issuenumber': 1043, 'title': 'Using userdata and finalizers together might imply Global State - even if unwanted', 'state': 'closed', 'created_at': '2021-08-03T10:51:07Z', 'closed_at': '2021-08-05T09:15:20Z', 'labels': []}
+{'issuenumber': 1042, 'title': 'How i import a module?', 'state': 'closed', 'created_at': '2021-06-25T01:37:23Z', 'closed_at': '2021-06-26T04:45:53Z', 'labels': []}
+{'issuenumber': 1041, 'title': 'Question: Performance enhancement in the VM ', 'state': 'closed', 'created_at': '2021-06-23T08:33:08Z', 'closed_at': '2021-06-24T04:14:21Z', 'labels': []}
+{'issuenumber': 1040, 'title': "bug in 'each' iterator", 'state': 'closed', 'created_at': '2021-06-19T01:52:15Z', 'closed_at': '2021-06-20T15:28:55Z', 'labels': []}
+{'issuenumber': 1039, 'title': 'wren_core.h references IO.write (which is a Lua thing, not Wren thing)', 'state': 'closed', 'created_at': '2021-06-12T14:23:41Z', 'closed_at': '2021-08-10T00:25:02Z', 'labels': []}
+{'issuenumber': 1035, 'title': 'Segfault in invalid code example', 'state': 'closed', 'created_at': '2021-05-30T16:26:52Z', 'closed_at': '2021-08-10T00:43:43Z', 'labels': []}
+{'issuenumber': 1031, 'title': 'bitwise negation gives incorrect results', 'state': 'closed', 'created_at': '2021-05-28T20:54:08Z', 'closed_at': '2021-05-29T05:54:38Z', 'labels': []}
+{'issuenumber': 1025, 'title': '[Question] How to implement a recursive function in wren?', 'state': 'closed', 'created_at': '2021-05-23T04:10:54Z', 'closed_at': '2021-05-23T18:03:41Z', 'labels': []}
+{'issuenumber': 1014, 'title': '[RFC] Wren Hooks or Dynamic Dispatch', 'state': 'closed', 'created_at': '2021-05-10T18:29:23Z', 'closed_at': '2021-07-14T16:12:25Z', 'labels': []}
+{'issuenumber': 1011, 'title': 'join method not documented is the website', 'state': 'closed', 'created_at': '2021-05-08T18:42:38Z', 'closed_at': '2021-05-08T18:43:54Z', 'labels': []}
+{'issuenumber': 995, 'title': "What's the purpose of wren_test.make in projects/make?", 'state': 'closed', 'created_at': '2021-05-01T05:25:54Z', 'closed_at': '2021-05-09T05:41:00Z', 'labels': []}
+{'issuenumber': 993, 'title': '[RFC] Protocols or Traits', 'state': 'closed', 'created_at': '2021-04-27T04:22:02Z', 'closed_at': '2021-07-14T16:15:30Z', 'labels': []}
+{'issuenumber': 991, 'title': '[RFC] Make 0 falsy', 'state': 'closed', 'created_at': '2021-04-26T01:24:34Z', 'closed_at': '2021-08-14T16:58:29Z', 'labels': []}
+{'issuenumber': 988, 'title': 'string literals dont account for CRLF', 'state': 'closed', 'created_at': '2021-04-24T12:45:41Z', 'closed_at': '2021-05-21T23:32:25Z', 'labels': []}
+{'issuenumber': 974, 'title': 'Undocumented behavior of the return keyword.', 'state': 'closed', 'created_at': '2021-04-15T18:00:26Z', 'closed_at': '2021-04-16T18:09:28Z', 'labels': []}
+{'issuenumber': 973, 'title': '[RFC] Allow an empty for statement to be used as an infinite loop.', 'state': 'closed', 'created_at': '2021-04-15T09:07:54Z', 'closed_at': '2021-04-15T14:46:09Z', 'labels': []}
+{'issuenumber': 968, 'title': '[RFC] Use `in` keyword as a binary operator.', 'state': 'closed', 'created_at': '2021-04-13T10:54:03Z', 'closed_at': '2021-04-25T08:52:11Z', 'labels': []}
+{'issuenumber': 967, 'title': '[doc] Add "Examples" section to wren.io?', 'state': 'closed', 'created_at': '2021-04-13T02:11:52Z', 'closed_at': '2021-04-20T23:11:47Z', 'labels': []}
+{'issuenumber': 961, 'title': 'Unit Tests', 'state': 'closed', 'created_at': '2021-04-05T22:50:58Z', 'closed_at': '2021-04-06T05:15:54Z', 'labels': []}
+{'issuenumber': 941, 'title': '[RFC] Pipe Operator', 'state': 'closed', 'created_at': '2021-03-27T20:08:53Z', 'closed_at': '2021-07-29T00:16:40Z', 'labels': []}
+{'issuenumber': 940, 'title': '[RFC] Map.fromList method', 'state': 'closed', 'created_at': '2021-03-27T20:01:59Z', 'closed_at': '2021-07-29T00:22:11Z', 'labels': []}
+{'issuenumber': 938, 'title': "What's the difference between fiber and generator?", 'state': 'closed', 'created_at': '2021-03-17T07:51:32Z', 'closed_at': '2021-03-17T08:07:13Z', 'labels': []}
+{'issuenumber': 937, 'title': 'SDL2', 'state': 'closed', 'created_at': '2021-03-13T08:29:03Z', 'closed_at': '2021-03-13T10:34:05Z', 'labels': []}
+{'issuenumber': 935, 'title': '[Feature request] Shell scripting', 'state': 'closed', 'created_at': '2021-03-07T22:56:54Z', 'closed_at': '2021-03-07T23:39:59Z', 'labels': []}
+{'issuenumber': 934, 'title': '[Meta] Have you ever considered creating a Wren Gitter page?', 'state': 'closed', 'created_at': '2021-03-05T18:42:52Z', 'closed_at': '2021-03-05T18:45:17Z', 'labels': []}
+{'issuenumber': 929, 'title': '[RFC] Introduce a Long type for 64-bit signed integers.', 'state': 'closed', 'created_at': '2021-02-16T16:34:07Z', 'closed_at': '2021-02-16T18:11:55Z', 'labels': []}
+{'issuenumber': 927, 'title': 'Can relative module resolution be implementd with wren?', 'state': 'closed', 'created_at': '2021-02-14T09:40:35Z', 'closed_at': '2021-02-14T10:37:35Z', 'labels': []}
+{'issuenumber': 924, 'title': 'False positive syntax error', 'state': 'closed', 'created_at': '2021-02-11T16:12:19Z', 'closed_at': '2021-04-08T05:58:46Z', 'labels': []}
+{'issuenumber': 922, 'title': 'Top level functions?', 'state': 'closed', 'created_at': '2021-02-06T10:45:29Z', 'closed_at': '2021-02-13T01:58:31Z', 'labels': []}
+{'issuenumber': 917, 'title': 'Running OS processes question', 'state': 'closed', 'created_at': '2021-01-28T20:49:21Z', 'closed_at': '2021-01-28T21:25:08Z', 'labels': []}
+{'issuenumber': 914, 'title': '[RFC] Add method chaining operator.', 'state': 'closed', 'created_at': '2021-01-13T09:04:17Z', 'closed_at': '2021-01-13T17:19:51Z', 'labels': []}
+{'issuenumber': 909, 'title': 'Examples - Functions', 'state': 'closed', 'created_at': '2021-01-09T05:13:25Z', 'closed_at': '2021-01-09T05:24:13Z', 'labels': []}
+{'issuenumber': 907, 'title': '[RFC] Add integer division operator', 'state': 'closed', 'created_at': '2021-01-05T12:45:50Z', 'closed_at': '2021-01-05T17:32:30Z', 'labels': []}
+{'issuenumber': 893, 'title': 'Odd behaviour of Sequence.all and Sequence.any', 'state': 'closed', 'created_at': '2020-12-27T17:49:18Z', 'closed_at': '2020-12-30T16:34:03Z', 'labels': []}
+{'issuenumber': 890, 'title': '[Proposal] Add Num.cbrt', 'state': 'closed', 'created_at': '2020-12-21T15:09:19Z', 'closed_at': '2021-01-31T05:13:59Z', 'labels': []}
+{'issuenumber': 881, 'title': 'System.writeAll', 'state': 'closed', 'created_at': '2020-12-17T15:36:21Z', 'closed_at': '2021-01-31T05:21:34Z', 'labels': []}
+{'issuenumber': 879, 'title': 'Undocumented features of the Num class.', 'state': 'closed', 'created_at': '2020-12-16T23:03:12Z', 'closed_at': '2021-02-01T19:16:19Z', 'labels': []}
+{'issuenumber': 878, 'title': 'Undocumented features of the List class.', 'state': 'closed', 'created_at': '2020-12-16T19:16:47Z', 'closed_at': '2021-02-01T19:16:11Z', 'labels': []}
+{'issuenumber': 875, 'title': '[Feature Request] Hexadecimal number literals', 'state': 'closed', 'created_at': '2020-12-15T14:10:48Z', 'closed_at': '2021-04-25T20:16:28Z', 'labels': []}
+{'issuenumber': 867, 'title': 'Creating a foreign object in a foreign object call?', 'state': 'closed', 'created_at': '2020-12-04T18:20:30Z', 'closed_at': '2020-12-05T09:29:11Z', 'labels': []}
+{'issuenumber': 851, 'title': '[Feature Request] Raw Strings', 'state': 'closed', 'created_at': '2020-11-26T22:08:09Z', 'closed_at': '2021-04-05T00:55:44Z', 'labels': []}
+{'issuenumber': 842, 'title': 'Error: Invalid byte 0xfd. when loading data from file', 'state': 'closed', 'created_at': '2020-11-14T11:09:54Z', 'closed_at': '2020-11-14T11:24:12Z', 'labels': []}
+{'issuenumber': 839, 'title': '`System.print()` a string with null', 'state': 'closed', 'created_at': '2020-11-09T20:02:23Z', 'closed_at': '2020-12-03T04:58:24Z', 'labels': []}
+{'issuenumber': 838, 'title': 'Do we really want to allow overloading `is`?', 'state': 'closed', 'created_at': '2020-11-07T17:29:58Z', 'closed_at': '2020-11-08T15:51:58Z', 'labels': []}
+{'issuenumber': 830, 'title': 'Inherit built-in `Num`', 'state': 'closed', 'created_at': '2020-10-25T15:58:23Z', 'closed_at': '2020-10-26T15:39:38Z', 'labels': []}
+{'issuenumber': 827, 'title': 'wchar_t* Support', 'state': 'closed', 'created_at': '2020-10-17T14:02:39Z', 'closed_at': '2020-10-17T16:22:22Z', 'labels': []}
+{'issuenumber': 825, 'title': 'Add a `Sequence.sort()` method?', 'state': 'closed', 'created_at': '2020-10-11T03:08:31Z', 'closed_at': '2020-10-11T07:17:32Z', 'labels': []}
+{'issuenumber': 818, 'title': 'Language: Infinity and NaN', 'state': 'closed', 'created_at': '2020-10-05T01:19:52Z', 'closed_at': '2020-12-10T15:25:18Z', 'labels': []}
+{'issuenumber': 813, 'title': 'Bizarre array-of-fn execution results', 'state': 'closed', 'created_at': '2020-09-27T18:32:52Z', 'closed_at': '2020-09-27T18:43:48Z', 'labels': []}
+{'issuenumber': 812, 'title': 'Proposal: Date module', 'state': 'closed', 'created_at': '2020-09-27T11:38:07Z', 'closed_at': '2021-04-23T18:01:12Z', 'labels': []}
+{'issuenumber': 810, 'title': 'Should we check for undeclared methods on this at compile-time?', 'state': 'closed', 'created_at': '2020-09-21T22:33:00Z', 'closed_at': '2020-09-22T18:50:34Z', 'labels': []}
+{'issuenumber': 801, 'title': 'System.print causes different output', 'state': 'closed', 'created_at': '2020-08-19T17:13:32Z', 'closed_at': '2020-09-18T19:37:38Z', 'labels': []}
+{'issuenumber': 797, 'title': 'Something funny: we can have static operators', 'state': 'closed', 'created_at': '2020-08-13T19:37:00Z', 'closed_at': '2020-12-10T15:13:04Z', 'labels': []}
+{'issuenumber': 790, 'title': 'Support import from variable', 'state': 'closed', 'created_at': '2020-08-03T14:21:14Z', 'closed_at': '2020-08-07T20:13:13Z', 'labels': []}
+{'issuenumber': 789, 'title': '[Question] Best practice for mass bindings?', 'state': 'closed', 'created_at': '2020-07-28T13:59:13Z', 'closed_at': '2020-08-04T16:33:10Z', 'labels': []}
+{'issuenumber': 786, 'title': 'wren.io/try cannot import any modules', 'state': 'closed', 'created_at': '2020-07-20T20:20:27Z', 'closed_at': '2021-08-28T02:28:18Z', 'labels': []}
+{'issuenumber': 770, 'title': 'Different behaviour of two semantically identical functions.', 'state': 'closed', 'created_at': '2020-06-28T07:09:51Z', 'closed_at': '2020-09-18T19:36:11Z', 'labels': []}
+{'issuenumber': 769, 'title': 'list.removeAt changes size of list after checking if capacity resize is necessary', 'state': 'closed', 'created_at': '2020-06-25T10:56:32Z', 'closed_at': '2020-06-26T09:26:11Z', 'labels': []}
+{'issuenumber': 767, 'title': 'Inconsistent wrenInterpretResult calls', 'state': 'closed', 'created_at': '2020-06-22T22:40:28Z', 'closed_at': '2020-06-23T01:34:54Z', 'labels': []}
+{'issuenumber': 761, 'title': 'Stack corruption', 'state': 'closed', 'created_at': '2020-06-10T14:30:08Z', 'closed_at': '2020-09-18T19:37:10Z', 'labels': []}
+{'issuenumber': 752, 'title': "Grammar fixes: it's -> its", 'state': 'closed', 'created_at': '2020-06-06T00:36:51Z', 'closed_at': '2020-06-06T02:17:00Z', 'labels': []}
+{'issuenumber': 748, 'title': 'Recursion bug', 'state': 'closed', 'created_at': '2020-04-30T10:25:46Z', 'closed_at': '2020-04-30T14:59:21Z', 'labels': []}
+{'issuenumber': 747, 'title': 'Inconsistent behavior: nonexistent class', 'state': 'closed', 'created_at': '2020-04-24T16:40:25Z', 'closed_at': '2020-04-30T03:23:21Z', 'labels': []}
+{'issuenumber': 744, 'title': 'duplicate isLocalName definitions prevent wren from compiling in unity/jumbo builds', 'state': 'closed', 'created_at': '2020-04-15T21:14:22Z', 'closed_at': '2020-04-15T21:16:08Z', 'labels': []}
+{'issuenumber': 742, 'title': 'Tests failing with Python 3.8', 'state': 'closed', 'created_at': '2020-04-03T18:05:21Z', 'closed_at': '2020-04-03T18:07:17Z', 'labels': []}
+{'issuenumber': 741, 'title': 'Some more examples of Functions in Wren', 'state': 'closed', 'created_at': '2020-04-01T16:48:52Z', 'closed_at': '2020-06-06T02:23:24Z', 'labels': []}
+{'issuenumber': 740, 'title': 'Would it be possible for wren to replace a bash language and use as shell in Linux distributions?', 'state': 'closed', 'created_at': '2020-04-01T15:49:43Z', 'closed_at': '2020-06-06T02:17:29Z', 'labels': []}
+{'issuenumber': 738, 'title': 'Unable to build Wren with MinGW', 'state': 'closed', 'created_at': '2020-03-29T15:38:25Z', 'closed_at': '2020-06-06T02:17:55Z', 'labels': []}
+{'issuenumber': 736, 'title': 'Magic Numbers in Exit Codes', 'state': 'closed', 'created_at': '2020-03-28T06:53:30Z', 'closed_at': '2020-07-29T02:57:12Z', 'labels': []}
+{'issuenumber': 735, 'title': 'UTF-16 and emoji count support', 'state': 'closed', 'created_at': '2020-03-24T00:55:35Z', 'closed_at': '2020-03-24T01:27:27Z', 'labels': []}
+{'issuenumber': 734, 'title': 'Is it ok to hold on to a pointer returned by wrenGetSlotForeign?', 'state': 'closed', 'created_at': '2020-03-11T18:25:19Z', 'closed_at': '2020-03-11T20:13:34Z', 'labels': []}
+{'issuenumber': 732, 'title': 'Thread safety of a VM?', 'state': 'closed', 'created_at': '2020-02-26T18:07:38Z', 'closed_at': '2020-06-06T02:17:38Z', 'labels': []}
+{'issuenumber': 728, 'title': 'No print output when following embedding example in documentation', 'state': 'closed', 'created_at': '2020-02-02T20:12:49Z', 'closed_at': '2020-06-30T17:50:39Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 724, 'title': 'Maps ideally should not heave member functions', 'state': 'closed', 'created_at': '2020-01-07T11:22:22Z', 'closed_at': '2020-01-08T04:21:41Z', 'labels': []}
+{'issuenumber': 722, 'title': 'Unsupported platform:  FreeBSD', 'state': 'closed', 'created_at': '2020-01-06T05:14:55Z', 'closed_at': '2020-01-30T18:16:34Z', 'labels': []}
+{'issuenumber': 721, 'title': 'High memory usage in binary_trees.wren', 'state': 'closed', 'created_at': '2020-01-04T14:14:23Z', 'closed_at': '2020-01-08T04:25:26Z', 'labels': []}
+{'issuenumber': 713, 'title': 'Random.sample always the same result', 'state': 'closed', 'created_at': '2019-12-11T19:18:47Z', 'closed_at': '2019-12-11T23:40:08Z', 'labels': []}
+{'issuenumber': 711, 'title': 'Is it possible to merge the "functional" branch', 'state': 'closed', 'created_at': '2019-12-02T09:59:34Z', 'closed_at': '2019-12-02T22:28:14Z', 'labels': []}
+{'issuenumber': 710, 'title': 'Calling wrenEnsureSlots before wrenInterpret causes apiStack to become invalid', 'state': 'closed', 'created_at': '2019-12-01T19:17:33Z', 'closed_at': '2020-06-14T04:42:07Z', 'labels': []}
+{'issuenumber': 709, 'title': "Some methods of String don't work in the online interpreter", 'state': 'closed', 'created_at': '2019-11-16T08:42:17Z', 'closed_at': '2019-11-16T22:14:05Z', 'labels': []}
+{'issuenumber': 708, 'title': "Why can't Wren output a quote?", 'state': 'closed', 'created_at': '2019-10-29T13:38:20Z', 'closed_at': '2019-10-29T13:41:07Z', 'labels': []}
+{'issuenumber': 707, 'title': 'wrenEnsureSlots for more than slots than arguments in foreign allocate method causes errors', 'state': 'closed', 'created_at': '2019-10-24T08:15:44Z', 'closed_at': '2019-10-25T12:23:04Z', 'labels': []}
+{'issuenumber': 705, 'title': 'Building wren without building libuv', 'state': 'closed', 'created_at': '2019-10-11T01:58:27Z', 'closed_at': '2019-10-13T16:51:24Z', 'labels': []}
+{'issuenumber': 704, 'title': 'Error when using make on Windows', 'state': 'closed', 'created_at': '2019-09-30T18:38:38Z', 'closed_at': '2020-06-06T02:22:48Z', 'labels': []}
+{'issuenumber': 702, 'title': 'Documentation typo on wren.io', 'state': 'closed', 'created_at': '2019-09-30T08:44:02Z', 'closed_at': '2019-09-30T20:24:12Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 700, 'title': 'what is the best practice to read wren source code', 'state': 'closed', 'created_at': '2019-09-20T09:54:06Z', 'closed_at': '2019-09-25T01:17:32Z', 'labels': []}
+{'issuenumber': 697, 'title': 'Calling wrenAbortFiber during foreign class allocation does not abort the fiber', 'state': 'closed', 'created_at': '2019-09-15T12:33:09Z', 'closed_at': '2019-09-17T19:45:48Z', 'labels': []}
+{'issuenumber': 695, 'title': 'Is negative modulus intended?', 'state': 'closed', 'created_at': '2019-08-16T07:52:43Z', 'closed_at': '2019-09-18T05:27:48Z', 'labels': []}
+{'issuenumber': 694, 'title': "wrenGetSlot* doesn't check type and (often) give garbage output on invalid type", 'state': 'closed', 'created_at': '2019-08-05T09:25:50Z', 'closed_at': '2019-08-05T17:20:13Z', 'labels': []}
+{'issuenumber': 691, 'title': 'Inheritance and Scope in Docs?', 'state': 'closed', 'created_at': '2019-07-04T21:55:10Z', 'closed_at': '2019-09-18T05:18:56Z', 'labels': []}
+{'issuenumber': 689, 'title': 'Error building Wren Language from MinGW to Windows', 'state': 'closed', 'created_at': '2019-06-21T17:53:48Z', 'closed_at': '2019-06-29T13:55:08Z', 'labels': []}
+{'issuenumber': 686, 'title': 'Efficient way to call Wren callback functions from C?', 'state': 'closed', 'created_at': '2019-05-06T08:08:19Z', 'closed_at': '2019-06-12T08:02:37Z', 'labels': []}
+{'issuenumber': 685, 'title': 'Wren Reflection: How to go about it?', 'state': 'closed', 'created_at': '2019-05-03T08:09:16Z', 'closed_at': '2019-05-06T00:26:20Z', 'labels': []}
+{'issuenumber': 684, 'title': 'Embedding API: passing user-data to finalizers', 'state': 'closed', 'created_at': '2019-04-29T11:54:03Z', 'closed_at': '2019-09-19T05:28:45Z', 'labels': {'name': 'future'}}
+{'issuenumber': 683, 'title': 'Correctly set up https for wren.io', 'state': 'closed', 'created_at': '2019-04-24T09:03:20Z', 'closed_at': '2020-06-08T16:09:44Z', 'labels': []}
+{'issuenumber': 681, 'title': 'metaclass does not implement method', 'state': 'closed', 'created_at': '2019-04-13T09:17:26Z', 'closed_at': '2019-04-15T19:26:02Z', 'labels': []}
+{'issuenumber': 672, 'title': 'Broken link in modules/core/map documentation', 'state': 'closed', 'created_at': '2019-04-01T17:04:29Z', 'closed_at': '2019-04-09T22:46:39Z', 'labels': []}
+{'issuenumber': 671, 'title': 'Create instances of a class without explicitly stating class name', 'state': 'closed', 'created_at': '2019-03-31T09:47:36Z', 'closed_at': '2019-04-01T21:00:49Z', 'labels': []}
+{'issuenumber': 670, 'title': 'Import seemingly not working amongst modules', 'state': 'closed', 'created_at': '2019-03-29T21:44:02Z', 'closed_at': '2019-09-18T05:31:23Z', 'labels': []}
+{'issuenumber': 667, 'title': 'Warnings when building VM using Visual Studio 2017', 'state': 'closed', 'created_at': '2019-03-26T14:28:19Z', 'closed_at': '2020-06-06T02:21:14Z', 'labels': []}
+{'issuenumber': 666, 'title': 'Segmentation Fault: trying to use foreign functions stored in Map.', 'state': 'closed', 'created_at': '2019-03-25T09:15:27Z', 'closed_at': '2019-03-25T16:01:51Z', 'labels': []}
+{'issuenumber': 662, 'title': '[QUESTION] How to read value from list element', 'state': 'closed', 'created_at': '2019-03-20T20:08:03Z', 'closed_at': '2019-03-20T20:37:16Z', 'labels': []}
+{'issuenumber': 661, 'title': 'Proposal: Wauxlib', 'state': 'closed', 'created_at': '2019-03-01T12:32:49Z', 'closed_at': '2019-09-19T06:04:14Z', 'labels': {'name': 'vm'}}
+{'issuenumber': 659, 'title': 'String/bytes confusion', 'state': 'closed', 'created_at': '2019-02-23T12:29:48Z', 'closed_at': '2019-02-23T20:24:58Z', 'labels': []}
+{'issuenumber': 656, 'title': 'Linux build error in wren_compiler.c', 'state': 'closed', 'created_at': '2019-02-13T13:34:59Z', 'closed_at': '2019-02-13T20:55:49Z', 'labels': []}
+{'issuenumber': 653, 'title': 'Performance', 'state': 'closed', 'created_at': '2019-01-17T01:08:02Z', 'closed_at': '2019-01-20T03:46:51Z', 'labels': []}
+{'issuenumber': 651, 'title': 'Error message buffer too small', 'state': 'closed', 'created_at': '2019-01-16T22:13:30Z', 'closed_at': '2019-01-16T22:23:54Z', 'labels': []}
+{'issuenumber': 650, 'title': 'Windows build not working', 'state': 'closed', 'created_at': '2019-01-15T16:16:51Z', 'closed_at': '2019-02-19T20:13:21Z', 'labels': []}
+{'issuenumber': 649, 'title': 'Amalgamation not working', 'state': 'closed', 'created_at': '2019-01-13T21:33:00Z', 'closed_at': '2019-09-18T07:15:16Z', 'labels': []}
+{'issuenumber': 648, 'title': 'bind foreign methods is slow', 'state': 'closed', 'created_at': '2019-01-02T03:30:22Z', 'closed_at': '2019-01-03T01:09:13Z', 'labels': {'name': 'as-designed'}}
+{'issuenumber': 645, 'title': 'Wren for Swift', 'state': 'closed', 'created_at': '2018-12-19T15:32:55Z', 'closed_at': '2018-12-19T18:12:15Z', 'labels': []}
+{'issuenumber': 644, 'title': 'Wren for Swift', 'state': 'closed', 'created_at': '2018-12-19T15:32:55Z', 'closed_at': '2018-12-19T18:07:38Z', 'labels': []}
+{'issuenumber': 643, 'title': 'Build fails under CC on Fedora 29', 'state': 'closed', 'created_at': '2018-12-17T14:46:54Z', 'closed_at': '2018-12-17T18:00:21Z', 'labels': []}
+{'issuenumber': 639, 'title': 'Initializing Wren attributes from C', 'state': 'closed', 'created_at': '2018-12-06T10:53:31Z', 'closed_at': '2019-09-18T05:32:22Z', 'labels': []}
+{'issuenumber': 638, 'title': 'Binding Fn instance to a custom "this" or "environment"', 'state': 'closed', 'created_at': '2018-12-06T01:51:04Z', 'closed_at': '2018-12-06T02:17:56Z', 'labels': []}
+{'issuenumber': 637, 'title': 'Import variable renames: import "..." for (x as y)', 'state': 'closed', 'created_at': '2018-12-06T01:30:57Z', 'closed_at': '2019-09-18T05:35:14Z', 'labels': []}
+{'issuenumber': 635, 'title': 'Variable may be used uninitialized', 'state': 'closed', 'created_at': '2018-11-17T03:24:09Z', 'closed_at': '2019-02-14T15:52:05Z', 'labels': []}
+{'issuenumber': 633, 'title': 'Top-Level functions', 'state': 'closed', 'created_at': '2018-11-13T00:15:53Z', 'closed_at': '2019-09-19T05:52:13Z', 'labels': []}
+{'issuenumber': 632, 'title': 'Multi-line strings', 'state': 'closed', 'created_at': '2018-11-12T04:36:29Z', 'closed_at': '2019-09-19T05:38:12Z', 'labels': []}
+{'issuenumber': 631, 'title': 'Passing NULL to wrenInterpret for Module will crash.', 'state': 'closed', 'created_at': '2018-11-11T22:27:09Z', 'closed_at': '2019-09-19T05:49:06Z', 'labels': []}
+{'issuenumber': 630, 'title': 'Add objects to to the root module, like System.', 'state': 'closed', 'created_at': '2018-11-11T20:40:24Z', 'closed_at': '2019-09-18T23:26:50Z', 'labels': []}
+{'issuenumber': 628, 'title': 'Anonymous classes?', 'state': 'closed', 'created_at': '2018-11-11T10:43:59Z', 'closed_at': '2018-11-11T18:28:55Z', 'labels': []}
+{'issuenumber': 627, 'title': 'MacOS: i386 is no longer supported', 'state': 'closed', 'created_at': '2018-11-11T02:06:28Z', 'closed_at': '2019-09-18T23:24:16Z', 'labels': []}
+{'issuenumber': 626, 'title': 'Wren without UV?', 'state': 'closed', 'created_at': '2018-11-11T01:52:55Z', 'closed_at': '2018-11-11T02:17:25Z', 'labels': []}
+{'issuenumber': 625, 'title': 'Is it possible to use the VM without the compiler?', 'state': 'closed', 'created_at': '2018-11-09T16:30:05Z', 'closed_at': '2019-09-19T05:51:25Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 623, 'title': 'Proposition for a fork.', 'state': 'closed', 'created_at': '2018-11-02T08:24:15Z', 'closed_at': '2018-11-17T10:34:51Z', 'labels': []}
+{'issuenumber': 617, 'title': 'Issues embedding the vm into a C program', 'state': 'closed', 'created_at': '2018-10-28T20:10:10Z', 'closed_at': '2018-10-28T20:22:03Z', 'labels': []}
+{'issuenumber': 616, 'title': 'Does Wren got a Websocket library?', 'state': 'closed', 'created_at': '2018-10-26T12:32:09Z', 'closed_at': '2018-10-26T12:44:59Z', 'labels': []}
+{'issuenumber': 608, 'title': 'Classes across modules seem to become null', 'state': 'closed', 'created_at': '2018-09-25T07:07:37Z', 'closed_at': '2019-02-14T16:13:15Z', 'labels': {'name': 'as-designed'}}
+{'issuenumber': 607, 'title': 'Tuple: immutable list type', 'state': 'closed', 'created_at': '2018-09-22T12:08:36Z', 'closed_at': '2020-04-03T18:43:59Z', 'labels': []}
+{'issuenumber': 603, 'title': 'Interactive mode crashes when a `\\` is typed after a `"`.', 'state': 'closed', 'created_at': '2018-09-19T16:58:36Z', 'closed_at': '2019-02-12T06:58:07Z', 'labels': []}
+{'issuenumber': 602, 'title': 'Calling function from one VM whilst inside another', 'state': 'closed', 'created_at': '2018-09-16T18:48:20Z', 'closed_at': '2019-09-19T03:28:13Z', 'labels': []}
+{'issuenumber': 601, 'title': 'wrenGetVariable does not seem to return a sane value', 'state': 'closed', 'created_at': '2018-09-09T20:50:39Z', 'closed_at': '2020-06-06T03:04:38Z', 'labels': []}
+{'issuenumber': 600, 'title': 'Unable to import modules', 'state': 'closed', 'created_at': '2018-09-09T02:25:18Z', 'closed_at': '2018-09-09T03:28:15Z', 'labels': []}
+{'issuenumber': 599, 'title': 'arg missmatch in tutorial ', 'state': 'closed', 'created_at': '2018-09-05T10:30:03Z', 'closed_at': '2019-02-12T07:32:40Z', 'labels': []}
+{'issuenumber': 598, 'title': 'Paren free mode', 'state': 'closed', 'created_at': '2018-09-04T13:10:19Z', 'closed_at': '2018-09-04T13:40:22Z', 'labels': []}
+{'issuenumber': 596, 'title': 'Is there a better way of using default values for constructors?', 'state': 'closed', 'created_at': '2018-08-27T04:04:26Z', 'closed_at': '2019-09-19T07:28:30Z', 'labels': []}
+{'issuenumber': 595, 'title': 'cannot build on mingw32', 'state': 'closed', 'created_at': '2018-08-20T12:48:23Z', 'closed_at': '2019-02-21T23:31:56Z', 'labels': []}
+{'issuenumber': 594, 'title': 'wren segfaults on deeply-nested expressions', 'state': 'closed', 'created_at': '2018-08-07T07:32:16Z', 'closed_at': '2019-09-19T05:58:51Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 593, 'title': 'Binding class methods and other primitives at runtime', 'state': 'closed', 'created_at': '2018-08-03T10:36:23Z', 'closed_at': '2019-09-19T07:41:18Z', 'labels': []}
+{'issuenumber': 592, 'title': "Converting WrenHandle to a foreign object's data", 'state': 'closed', 'created_at': '2018-08-02T23:12:56Z', 'closed_at': '2020-06-06T03:01:12Z', 'labels': []}
+{'issuenumber': 588, 'title': 'Please tag a new release!', 'state': 'closed', 'created_at': '2018-07-26T05:52:07Z', 'closed_at': '2018-08-01T13:59:48Z', 'labels': []}
+{'issuenumber': 586, 'title': 'Error in code for windows', 'state': 'closed', 'created_at': '2018-07-20T08:46:34Z', 'closed_at': '2018-07-20T14:19:29Z', 'labels': []}
+{'issuenumber': 583, 'title': 'Tighter object representation in Wren?', 'state': 'closed', 'created_at': '2018-07-16T09:55:59Z', 'closed_at': '2019-09-19T05:55:55Z', 'labels': {'name': 'vm'}}
+{'issuenumber': 582, 'title': 'Request: cmdline switch for syntax check only', 'state': 'closed', 'created_at': '2018-07-14T10:17:45Z', 'closed_at': '2018-07-14T12:56:09Z', 'labels': []}
+{'issuenumber': 580, 'title': 'Wren function refuses to execute from native invoking', 'state': 'closed', 'created_at': '2018-07-12T05:22:07Z', 'closed_at': '2018-07-16T14:13:45Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 578, 'title': 'Unsupported platform MSYS2 MinGW 32 / 64 bits', 'state': 'closed', 'created_at': '2018-07-07T14:52:09Z', 'closed_at': '2018-07-12T18:09:17Z', 'labels': []}
+{'issuenumber': 577, 'title': 'Embedding the VM and Optional modules', 'state': 'closed', 'created_at': '2018-07-07T10:11:11Z', 'closed_at': '2018-07-15T05:16:19Z', 'labels': []}
+{'issuenumber': 576, 'title': 'Variadic support?', 'state': 'closed', 'created_at': '2018-07-07T05:22:50Z', 'closed_at': '2018-07-10T02:40:56Z', 'labels': []}
+{'issuenumber': 575, 'title': '[BUG] location of curly brackets', 'state': 'closed', 'created_at': '2018-07-07T02:33:37Z', 'closed_at': '2018-07-07T02:46:15Z', 'labels': []}
+{'issuenumber': 574, 'title': "Calling Wren from C: How to handle when a receiver doesn't have a method", 'state': 'closed', 'created_at': '2018-07-04T13:40:36Z', 'closed_at': '2020-06-06T03:02:54Z', 'labels': {'name': 'api'}}
+{'issuenumber': 573, 'title': '[Question] Wren releases list', 'state': 'closed', 'created_at': '2018-07-03T22:34:07Z', 'closed_at': '2018-07-04T01:36:19Z', 'labels': []}
+{'issuenumber': 572, 'title': 'Built shared library appears to have incorrect SONAME', 'state': 'closed', 'created_at': '2018-07-02T12:46:59Z', 'closed_at': '2018-07-13T14:19:15Z', 'labels': []}
+{'issuenumber': 571, 'title': 'Sandboxing API for running untrusted code', 'state': 'closed', 'created_at': '2018-06-29T00:25:54Z', 'closed_at': '2019-09-18T23:21:54Z', 'labels': {'name': 'future'}}
+{'issuenumber': 570, 'title': 'Compile error: print possibly out of range', 'state': 'closed', 'created_at': '2018-06-27T17:09:40Z', 'closed_at': '2018-06-27T17:20:35Z', 'labels': []}
+{'issuenumber': 563, 'title': 'Suggestion: the representative image of wren ', 'state': 'closed', 'created_at': '2018-06-13T15:05:51Z', 'closed_at': '2019-09-18T23:20:32Z', 'labels': []}
+{'issuenumber': 561, 'title': 'Array overflow in the locals array by hidden variables of an for loop', 'state': 'closed', 'created_at': '2018-06-12T21:01:08Z', 'closed_at': '2019-09-18T07:20:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 556, 'title': 'c# LoadModule callback', 'state': 'closed', 'created_at': '2018-06-06T16:29:09Z', 'closed_at': '2018-06-11T12:27:08Z', 'labels': []}
+{'issuenumber': 553, 'title': 'How is the "correct" way to debug the Wren when developing it?', 'state': 'closed', 'created_at': '2018-06-04T01:15:17Z', 'closed_at': '2018-07-13T14:29:49Z', 'labels': []}
+{'issuenumber': 551, 'title': 'Remove special bultins modules from library.', 'state': 'closed', 'created_at': '2018-05-29T05:56:52Z', 'closed_at': '2020-06-06T02:31:34Z', 'labels': {'name': 'future'}}
+{'issuenumber': 550, 'title': 'Invalid conversion to integer running under WebAssembly', 'state': 'closed', 'created_at': '2018-05-28T22:01:47Z', 'closed_at': '2018-05-29T09:42:01Z', 'labels': []}
+{'issuenumber': 549, 'title': 'PUSH() may lead to fiber stack overflow', 'state': 'closed', 'created_at': '2018-05-27T08:23:10Z', 'closed_at': '2018-08-01T14:31:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 548, 'title': 'Notify iterable if iterator ends abruptly (to do possible cleanup)', 'state': 'closed', 'created_at': '2018-05-23T15:52:59Z', 'closed_at': '2019-09-19T07:30:56Z', 'labels': []}
+{'issuenumber': 545, 'title': 'VS2017 Project references "util/libuv.py" which no longer exists', 'state': 'closed', 'created_at': '2018-05-19T01:00:16Z', 'closed_at': '2018-07-15T18:09:01Z', 'labels': []}
+{'issuenumber': 544, 'title': '[Question] How could one handle shared_ptr(s) to foreign objects seamlessly? ', 'state': 'closed', 'created_at': '2018-05-17T17:31:05Z', 'closed_at': '2018-05-20T15:30:01Z', 'labels': []}
+{'issuenumber': 543, 'title': "List returned from foreign method isn't always constructed correctly", 'state': 'closed', 'created_at': '2018-05-14T19:28:16Z', 'closed_at': '2018-05-24T07:52:34Z', 'labels': []}
+{'issuenumber': 540, 'title': 'Range docs incorrectly use .min in most examples', 'state': 'closed', 'created_at': '2018-05-11T11:16:31Z', 'closed_at': '2018-05-15T17:32:01Z', 'labels': []}
+{'issuenumber': 539, 'title': 'Self-assignment operators', 'state': 'closed', 'created_at': '2018-05-01T13:21:14Z', 'closed_at': '2019-09-18T08:35:55Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 538, 'title': 'Add more languages to benchmark comparisons', 'state': 'closed', 'created_at': '2018-04-30T17:47:14Z', 'closed_at': '2019-09-19T07:28:53Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 537, 'title': 'Stream source into the compiler instead of loading all source into memory?', 'state': 'closed', 'created_at': '2018-04-29T00:20:43Z', 'closed_at': '2019-09-19T07:32:34Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 536, 'title': 'Storing Functions in Classes', 'state': 'closed', 'created_at': '2018-04-28T04:15:49Z', 'closed_at': '2018-04-28T18:30:27Z', 'labels': []}
+{'issuenumber': 534, 'title': 'undefined reference to "setTestCallbacks', 'state': 'closed', 'created_at': '2018-04-27T08:53:08Z', 'closed_at': '2018-04-27T09:43:57Z', 'labels': []}
+{'issuenumber': 533, 'title': 'Wren needs a setting and/or hook to limit CPU use', 'state': 'closed', 'created_at': '2018-04-25T13:16:47Z', 'closed_at': '2019-09-18T08:34:10Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 532, 'title': 'Exposing field symbols at runtime', 'state': 'closed', 'created_at': '2018-04-21T18:49:26Z', 'closed_at': '2019-09-18T08:34:54Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 531, 'title': 'Failure to build new checkout on gcc 8.0.1, implied buffer overflow', 'state': 'closed', 'created_at': '2018-04-21T14:16:38Z', 'closed_at': '2019-09-18T08:32:56Z', 'labels': {'name': 'portability'}}
+{'issuenumber': 529, 'title': 'Documentation for embedding configuration shows wrong WrenErrorFn signature', 'state': 'closed', 'created_at': '2018-04-12T06:32:42Z', 'closed_at': '2018-04-12T20:57:25Z', 'labels': []}
+{'issuenumber': 528, 'title': 'Grammar error', 'state': 'closed', 'created_at': '2018-04-08T13:20:12Z', 'closed_at': '2018-04-28T23:54:40Z', 'labels': []}
+{'issuenumber': 522, 'title': 'Support calling Native function directly from Wren using libffi', 'state': 'closed', 'created_at': '2018-04-05T20:18:29Z', 'closed_at': '2019-09-18T08:32:34Z', 'labels': []}
+{'issuenumber': 520, 'title': 'Ignore UTF-8 byte order mark', 'state': 'closed', 'created_at': '2018-04-03T22:44:17Z', 'closed_at': '2018-04-28T17:10:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 514, 'title': 'Support libuv compilation on macOS systems without Xcode', 'state': 'closed', 'created_at': '2018-03-20T10:27:41Z', 'closed_at': '2019-09-18T08:30:31Z', 'labels': {'name': 'tooling'}}
+{'issuenumber': 512, 'title': 'System.print("~") breaks', 'state': 'closed', 'created_at': '2018-03-19T20:08:20Z', 'closed_at': '2018-03-19T21:08:42Z', 'labels': []}
+{'issuenumber': 511, 'title': 'Importing issue', 'state': 'closed', 'created_at': '2018-03-18T01:09:03Z', 'closed_at': '2018-03-18T05:59:32Z', 'labels': []}
+{'issuenumber': 510, 'title': 'wrenEnsureSlots corruption/crash', 'state': 'closed', 'created_at': '2018-03-17T20:24:53Z', 'closed_at': '2019-02-11T15:38:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 508, 'title': 'System.clock should not use clock(3)', 'state': 'closed', 'created_at': '2018-03-02T10:48:50Z', 'closed_at': '2019-09-18T08:29:34Z', 'labels': {'name': 'core'}}
+{'issuenumber': 505, 'title': 'how to save the wren object to the file?', 'state': 'closed', 'created_at': '2018-02-08T09:52:11Z', 'closed_at': '2018-04-30T14:14:52Z', 'labels': []}
+{'issuenumber': 504, 'title': 'Vector and matrix math as an optional module', 'state': 'closed', 'created_at': '2018-01-28T21:39:45Z', 'closed_at': '2020-06-06T02:46:32Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 503, 'title': 'Suggestion: Constants', 'state': 'closed', 'created_at': '2018-01-18T17:44:53Z', 'closed_at': '2019-09-18T08:32:10Z', 'labels': {'name': 'language'}}
+{'issuenumber': 501, 'title': 'Question: How to handle imports with subdirectories', 'state': 'closed', 'created_at': '2018-01-18T05:40:53Z', 'closed_at': '2018-07-16T14:49:05Z', 'labels': []}
+{'issuenumber': 499, 'title': 'Allocating foreign objects yourself', 'state': 'closed', 'created_at': '2018-01-09T18:00:28Z', 'closed_at': '2019-09-19T05:30:51Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 497, 'title': 'Question: Static type checking and "inner"', 'state': 'closed', 'created_at': '2017-12-27T16:37:56Z', 'closed_at': '2018-04-28T23:57:47Z', 'labels': []}
+{'issuenumber': 496, 'title': 'Value of QNAN', 'state': 'closed', 'created_at': '2017-12-24T20:33:11Z', 'closed_at': '2017-12-27T11:39:41Z', 'labels': []}
+{'issuenumber': 495, 'title': 'Global variables not accessible from class methods. Is this intended?', 'state': 'closed', 'created_at': '2017-12-21T09:11:11Z', 'closed_at': '2017-12-21T18:19:17Z', 'labels': []}
+{'issuenumber': 494, 'title': 'stack-buffer-overflow bug signatureParameterList', 'state': 'closed', 'created_at': '2017-12-20T12:15:10Z', 'closed_at': '2018-04-27T16:15:05Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 493, 'title': 'Wrong variable for assert?', 'state': 'closed', 'created_at': '2017-12-14T01:58:17Z', 'closed_at': '2018-03-26T14:51:36Z', 'labels': []}
+{'issuenumber': 492, 'title': 'Find the module associated with a class?', 'state': 'closed', 'created_at': '2017-12-14T01:49:44Z', 'closed_at': '2019-09-18T08:28:58Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 490, 'title': 'Some suggestions : add some useful function and more', 'state': 'closed', 'created_at': '2017-12-05T17:13:56Z', 'closed_at': '2018-07-15T17:51:49Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 488, 'title': 'Can not use libuv function after built with VS2015?', 'state': 'closed', 'created_at': '2017-12-02T18:41:45Z', 'closed_at': '2017-12-03T04:48:06Z', 'labels': []}
+{'issuenumber': 486, 'title': 'WrenConfiguration allow method function pointers', 'state': 'closed', 'created_at': '2017-11-27T02:41:34Z', 'closed_at': '2018-04-22T17:06:18Z', 'labels': []}
+{'issuenumber': 485, 'title': 'vm.h', 'state': 'closed', 'created_at': '2017-11-27T00:15:55Z', 'closed_at': '2017-11-27T00:30:57Z', 'labels': []}
+{'issuenumber': 478, 'title': 'stopping VM instances from the host side', 'state': 'closed', 'created_at': '2017-10-29T16:51:21Z', 'closed_at': '2019-09-18T08:26:46Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 477, 'title': 'broken link in the README.md', 'state': 'closed', 'created_at': '2017-10-29T13:34:30Z', 'closed_at': '2018-04-27T16:16:09Z', 'labels': []}
+{'issuenumber': 473, 'title': 'Unfair Benchmarks', 'state': 'closed', 'created_at': '2017-10-09T21:52:59Z', 'closed_at': '2017-10-10T02:25:32Z', 'labels': []}
+{'issuenumber': 469, 'title': 'confusingly similar naming nit: Compiler versus ClassCompiler', 'state': 'closed', 'created_at': '2017-09-07T22:18:28Z', 'closed_at': '2017-10-09T13:47:48Z', 'labels': []}
+{'issuenumber': 468, 'title': 'Fiber documentation nits', 'state': 'closed', 'created_at': '2017-09-03T18:05:44Z', 'closed_at': '2017-10-05T13:50:59Z', 'labels': []}
+{'issuenumber': 467, 'title': 'forward references only work for module variables that start with a capital letter', 'state': 'closed', 'created_at': '2017-09-02T17:15:58Z', 'closed_at': '2019-10-01T03:30:44Z', 'labels': {'name': 'language'}}
+{'issuenumber': 466, 'title': 'memory corruption when accessing dynamically created class with different parent', 'state': 'closed', 'created_at': '2017-08-27T22:48:30Z', 'closed_at': '2019-09-18T08:24:49Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 465, 'title': 'When will Embedding API page be complete?', 'state': 'closed', 'created_at': '2017-07-27T15:15:22Z', 'closed_at': '2017-10-20T05:16:46Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 463, 'title': 'Figuring out which script causes a runtime error.', 'state': 'closed', 'created_at': '2017-06-24T23:32:06Z', 'closed_at': '2018-07-16T14:18:24Z', 'labels': []}
+{'issuenumber': 461, 'title': 'libUV causing issues in Installation - Circular dependency', 'state': 'closed', 'created_at': '2017-06-11T14:04:39Z', 'closed_at': '2017-08-01T18:26:08Z', 'labels': []}
+{'issuenumber': 459, 'title': 'clarify usage of slot functions in wren.h', 'state': 'closed', 'created_at': '2017-05-28T20:02:21Z', 'closed_at': '2017-10-05T13:51:49Z', 'labels': []}
+{'issuenumber': 458, 'title': 'Stack reallocation issue', 'state': 'closed', 'created_at': '2017-05-17T20:44:20Z', 'closed_at': '2017-10-08T16:42:40Z', 'labels': []}
+{'issuenumber': 457, 'title': 'Some bugs in the VM source code', 'state': 'closed', 'created_at': '2017-05-15T19:59:58Z', 'closed_at': '2017-10-08T16:45:11Z', 'labels': []}
+{'issuenumber': 456, 'title': 'Getting started is not working?', 'state': 'closed', 'created_at': '2017-05-10T08:21:17Z', 'closed_at': '2018-04-27T15:20:57Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 455, 'title': 'Question: how to resume suspended Fiber from C code?', 'state': 'closed', 'created_at': '2017-05-08T20:24:25Z', 'closed_at': '2017-05-11T23:58:56Z', 'labels': []}
+{'issuenumber': 454, 'title': 'define a wrenStringToNum() for foreign methods?', 'state': 'closed', 'created_at': '2017-05-02T12:08:10Z', 'closed_at': '2019-09-18T08:24:25Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 453, 'title': 'Comments needing updates for foreign classes', 'state': 'closed', 'created_at': '2017-04-28T05:57:40Z', 'closed_at': '2017-10-12T13:37:54Z', 'labels': []}
+{'issuenumber': 452, 'title': 'SegFault when imported module is empty', 'state': 'closed', 'created_at': '2017-04-28T02:19:00Z', 'closed_at': '2017-04-28T03:25:55Z', 'labels': []}
+{'issuenumber': 451, 'title': 'External module import from dll', 'state': 'closed', 'created_at': '2017-04-18T20:17:31Z', 'closed_at': '2019-09-18T08:23:48Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 450, 'title': 'Additional Capabilities Grammer!', 'state': 'closed', 'created_at': '2017-04-11T10:23:13Z', 'closed_at': '2017-10-08T17:37:11Z', 'labels': []}
+{'issuenumber': 449, 'title': 'Parameter syntax', 'state': 'closed', 'created_at': '2017-04-10T19:35:18Z', 'closed_at': '2019-09-18T08:23:38Z', 'labels': {'name': 'language'}}
+{'issuenumber': 448, 'title': 'System Call [Proposal & PR]', 'state': 'closed', 'created_at': '2017-04-09T22:36:43Z', 'closed_at': '2019-09-18T08:23:18Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 445, 'title': 'Bad Performance of System.print()', 'state': 'closed', 'created_at': '2017-04-08T13:44:05Z', 'closed_at': '2017-10-09T14:16:10Z', 'labels': {'name': 'performance'}}
+{'issuenumber': 444, 'title': 'Document how to call a function (not method) from C', 'state': 'closed', 'created_at': '2017-04-07T12:14:09Z', 'closed_at': '2019-09-18T08:23:01Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 442, 'title': 'Segmentation faults', 'state': 'closed', 'created_at': '2017-04-04T12:14:09Z', 'closed_at': '2017-10-08T17:15:21Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 439, 'title': 'Strange list behaviour', 'state': 'closed', 'created_at': '2017-03-30T21:19:43Z', 'closed_at': '2017-04-08T19:44:51Z', 'labels': []}
+{'issuenumber': 438, 'title': 'Same tests', 'state': 'closed', 'created_at': '2017-03-29T20:14:46Z', 'closed_at': '2017-04-08T19:53:37Z', 'labels': []}
+{'issuenumber': 437, 'title': 'gyp: Daily bandwidth rate limit exceeded', 'state': 'closed', 'created_at': '2017-03-29T08:25:17Z', 'closed_at': '2018-03-26T15:04:26Z', 'labels': []}
+{'issuenumber': 434, 'title': "Fiber.try() doesn't catch bubbling exceptions", 'state': 'closed', 'created_at': '2017-03-27T02:05:20Z', 'closed_at': '2017-10-06T14:41:03Z', 'labels': []}
+{'issuenumber': 433, 'title': 'Book of Wren', 'state': 'closed', 'created_at': '2017-03-25T18:53:21Z', 'closed_at': '2017-04-09T16:35:54Z', 'labels': []}
+{'issuenumber': 432, 'title': 'Show how to create `blondie`', 'state': 'closed', 'created_at': '2017-03-23T18:23:34Z', 'closed_at': '2017-03-24T04:22:12Z', 'labels': []}
+{'issuenumber': 431, 'title': 'use case of the language', 'state': 'closed', 'created_at': '2017-03-23T15:41:55Z', 'closed_at': '2018-07-16T14:16:22Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 430, 'title': 'Import statements can leak memory', 'state': 'closed', 'created_at': '2017-03-22T03:14:01Z', 'closed_at': '2017-04-08T19:38:42Z', 'labels': []}
+{'issuenumber': 429, 'title': 'A NUL byte in a script will crash Wren', 'state': 'closed', 'created_at': '2017-03-22T03:13:26Z', 'closed_at': '2017-10-08T17:03:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 428, 'title': 'This script crashes Wren', 'state': 'closed', 'created_at': '2017-03-22T03:12:53Z', 'closed_at': '2017-03-24T04:19:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 426, 'title': 'Do we need List.sort?', 'state': 'closed', 'created_at': '2017-03-21T11:17:18Z', 'closed_at': '2019-09-18T08:22:39Z', 'labels': {'name': 'core'}}
+{'issuenumber': 424, 'title': '"Help Wanted" or similar label', 'state': 'closed', 'created_at': '2017-03-14T15:02:04Z', 'closed_at': '2018-07-16T14:54:55Z', 'labels': []}
+{'issuenumber': 423, 'title': 'Support enum and immutable variables', 'state': 'closed', 'created_at': '2017-03-13T07:16:19Z', 'closed_at': '2019-09-18T08:22:21Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 422, 'title': 'uv.h Not Found', 'state': 'closed', 'created_at': '2017-03-13T06:21:36Z', 'closed_at': '2017-03-15T00:34:52Z', 'labels': []}
+{'issuenumber': 416, 'title': 'Namespace Classes with Cleaner Syntax', 'state': 'closed', 'created_at': '2017-03-03T14:38:28Z', 'closed_at': '2019-09-18T08:21:28Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 415, 'title': 'Calling a C function from Wren # TODO', 'state': 'closed', 'created_at': '2017-02-24T14:13:20Z', 'closed_at': '2017-03-15T13:50:30Z', 'labels': []}
+{'issuenumber': 414, 'title': 'Implement Call Operator ', 'state': 'closed', 'created_at': '2017-02-17T19:25:36Z', 'closed_at': '2017-02-17T22:30:31Z', 'labels': []}
+{'issuenumber': 411, 'title': "fatal: unable to access 'https://chromium.googlesource.com/external/gyp.git/'", 'state': 'closed', 'created_at': '2017-02-06T07:13:15Z', 'closed_at': '2017-02-06T08:11:05Z', 'labels': []}
+{'issuenumber': 410, 'title': 'WrenHandle receiver get nulled after double import', 'state': 'closed', 'created_at': '2017-02-05T09:47:16Z', 'closed_at': '2019-02-15T15:35:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 408, 'title': 'Foreign method questions', 'state': 'closed', 'created_at': '2017-02-01T18:42:01Z', 'closed_at': '2017-03-15T14:01:52Z', 'labels': []}
+{'issuenumber': 407, 'title': 'Explicit length for `wrenInterpret`', 'state': 'closed', 'created_at': '2017-01-29T16:45:33Z', 'closed_at': '2019-09-18T08:20:21Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 403, 'title': 'Any plans for annotations on methods?', 'state': 'closed', 'created_at': '2017-01-18T09:18:04Z', 'closed_at': '2019-09-18T08:19:24Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 402, 'title': 'Most crucial documentation (embedding) is missing', 'state': 'closed', 'created_at': '2017-01-17T09:03:02Z', 'closed_at': '2017-01-18T08:12:07Z', 'labels': []}
+{'issuenumber': 397, 'title': 'Help with Wren?', 'state': 'closed', 'created_at': '2016-11-05T03:35:59Z', 'closed_at': '2016-11-06T05:47:38Z', 'labels': []}
+{'issuenumber': 390, 'title': 'Clarify docs around expression-bodied blocks', 'state': 'closed', 'created_at': '2016-10-05T06:33:23Z', 'closed_at': '2017-01-12T19:05:11Z', 'labels': []}
+{'issuenumber': 387, 'title': 'Random numbers cross platform.', 'state': 'closed', 'created_at': '2016-08-09T02:57:36Z', 'closed_at': '2016-08-27T16:48:58Z', 'labels': []}
+{'issuenumber': 386, 'title': 'Squirrel vs wren', 'state': 'closed', 'created_at': '2016-08-05T08:01:26Z', 'closed_at': '2016-08-05T16:23:04Z', 'labels': []}
+{'issuenumber': 378, 'title': 'Overwritable import semantics', 'state': 'closed', 'created_at': '2016-07-07T15:35:57Z', 'closed_at': '2016-07-10T16:15:29Z', 'labels': []}
+{'issuenumber': 377, 'title': 'Add List constructor to create list of given size', 'state': 'closed', 'created_at': '2016-07-05T17:32:22Z', 'closed_at': '2016-08-04T05:43:49Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 374, 'title': 'Manual install', 'state': 'closed', 'created_at': '2016-07-02T08:57:55Z', 'closed_at': '2019-09-18T08:15:53Z', 'labels': {'name': 'tooling'}}
+{'issuenumber': 373, 'title': 'Can end up with duplicate map keys', 'state': 'closed', 'created_at': '2016-06-27T14:12:19Z', 'closed_at': '2016-06-27T14:14:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 372, 'title': 'Add isEmpty to Map', 'state': 'closed', 'created_at': '2016-06-26T17:58:52Z', 'closed_at': '2016-07-06T14:16:53Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 371, 'title': 'Jit on PC platform?', 'state': 'closed', 'created_at': '2016-06-17T05:32:37Z', 'closed_at': '2016-06-17T16:52:39Z', 'labels': []}
+{'issuenumber': 370, 'title': 'Making Executables', 'state': 'closed', 'created_at': '2016-06-10T20:06:03Z', 'closed_at': '2016-06-10T20:46:33Z', 'labels': []}
+{'issuenumber': 369, 'title': 'Fiber Queue?', 'state': 'closed', 'created_at': '2016-06-05T02:21:46Z', 'closed_at': '2016-06-14T23:33:05Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 368, 'title': 'Allow foreign methods to produce runtime errors', 'state': 'closed', 'created_at': '2016-06-02T13:36:04Z', 'closed_at': '2016-06-10T02:15:32Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 367, 'title': 'Are there ready made executables?', 'state': 'closed', 'created_at': '2016-05-24T06:50:44Z', 'closed_at': '2016-05-26T14:28:46Z', 'labels': []}
+{'issuenumber': 363, 'title': 'docs in Firefox: <output> is shifted down by one line', 'state': 'closed', 'created_at': '2016-05-19T14:32:37Z', 'closed_at': '2016-05-19T16:31:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 362, 'title': 'Invoking a foreign method using wrenCall() returns an invalid slot array', 'state': 'closed', 'created_at': '2016-05-18T17:18:04Z', 'closed_at': '2017-03-18T09:05:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 360, 'title': 'Mention subreddit on the community docs', 'state': 'closed', 'created_at': '2016-05-09T01:40:10Z', 'closed_at': '2016-05-20T17:02:54Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 359, 'title': 'Object references', 'state': 'closed', 'created_at': '2016-05-08T11:14:12Z', 'closed_at': '2016-05-19T17:38:29Z', 'labels': []}
+{'issuenumber': 358, 'title': 'How to embed into a game loop?', 'state': 'closed', 'created_at': '2016-05-05T17:20:41Z', 'closed_at': '2016-05-05T21:26:07Z', 'labels': []}
+{'issuenumber': 356, 'title': '.NET integration for Wren', 'state': 'closed', 'created_at': '2016-05-03T21:25:58Z', 'closed_at': '2016-05-04T01:43:32Z', 'labels': []}
+{'issuenumber': 352, 'title': 'Switch or match statement', 'state': 'closed', 'created_at': '2016-05-03T04:20:59Z', 'closed_at': '2019-09-18T08:15:17Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 351, 'title': 'Odd behavior/segfault.', 'state': 'closed', 'created_at': '2016-05-03T01:24:06Z', 'closed_at': '2016-05-04T13:29:47Z', 'labels': []}
+{'issuenumber': 350, 'title': 'Enable ability to add user-data to WrenVM object', 'state': 'closed', 'created_at': '2016-05-02T20:30:21Z', 'closed_at': '2019-09-18T08:14:28Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 349, 'title': 'Weirdness with fibers and methods', 'state': 'closed', 'created_at': '2016-05-02T14:48:18Z', 'closed_at': '2016-05-02T14:57:26Z', 'labels': []}
+{'issuenumber': 346, 'title': 'Import Syntax', 'state': 'closed', 'created_at': '2016-04-01T22:02:36Z', 'closed_at': '2019-09-18T08:13:40Z', 'labels': {'name': 'proposal'}}
+{'issuenumber': 342, 'title': 'modifications required to build in windows', 'state': 'closed', 'created_at': '2016-03-14T21:50:28Z', 'closed_at': '2016-03-18T14:57:54Z', 'labels': []}
+{'issuenumber': 341, 'title': 'Keyword arguments?', 'state': 'closed', 'created_at': '2016-03-14T19:12:36Z', 'closed_at': '2019-09-18T08:12:27Z', 'labels': {'name': 'proposal'}}
+{'issuenumber': 340, 'title': 'Fiber finalizers and transition events', 'state': 'closed', 'created_at': '2016-03-13T05:00:39Z', 'closed_at': '2019-09-18T08:04:54Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 339, 'title': 'What is `CODE_X`, and where are they defined?', 'state': 'closed', 'created_at': '2016-03-11T22:31:20Z', 'closed_at': '2016-03-11T22:43:48Z', 'labels': []}
+{'issuenumber': 338, 'title': 'Set a milestone for Wren 0.0.0', 'state': 'closed', 'created_at': '2016-03-08T17:21:43Z', 'closed_at': '2016-08-28T00:38:44Z', 'labels': []}
+{'issuenumber': 334, 'title': 'Addition of a build system generator', 'state': 'closed', 'created_at': '2016-03-07T12:25:52Z', 'closed_at': '2016-03-08T15:31:41Z', 'labels': []}
+{'issuenumber': 332, 'title': 'Embedding API request: `config.errorFn`', 'state': 'closed', 'created_at': '2016-03-04T18:25:27Z', 'closed_at': '2016-03-06T21:16:04Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 323, 'title': 'A way to express "finally" in Wren', 'state': 'closed', 'created_at': '2016-02-20T16:47:33Z', 'closed_at': '2019-09-18T08:06:59Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 322, 'title': 'Choose to make either static OR shared libwren instead of both.', 'state': 'closed', 'created_at': '2016-02-16T23:52:14Z', 'closed_at': '2016-02-19T15:22:11Z', 'labels': []}
+{'issuenumber': 317, 'title': 'How should method collisions be handled?', 'state': 'closed', 'created_at': '2015-12-21T15:57:59Z', 'closed_at': '2016-03-18T14:58:25Z', 'labels': {'name': 'language'}}
+{'issuenumber': 316, 'title': 'Hierarchical naming?', 'state': 'closed', 'created_at': '2015-12-07T23:25:14Z', 'closed_at': '2015-12-08T00:31:27Z', 'labels': []}
+{'issuenumber': 315, 'title': '(from..to) != (from...to-1)', 'state': 'closed', 'created_at': '2015-12-02T11:14:11Z', 'closed_at': '2015-12-03T02:21:23Z', 'labels': []}
+{'issuenumber': 314, 'title': 'Consider packing method table', 'state': 'closed', 'created_at': '2015-11-29T17:45:05Z', 'closed_at': '2019-09-18T08:06:06Z', 'labels': {'name': 'vm'}}
+{'issuenumber': 309, 'title': 'pull/clone fails on windows: cannot create folder `aux`', 'state': 'closed', 'created_at': '2015-10-19T14:58:29Z', 'closed_at': '2015-10-24T16:23:27Z', 'labels': []}
+{'issuenumber': 307, 'title': 'Curly brace on a new line', 'state': 'closed', 'created_at': '2015-10-04T20:16:12Z', 'closed_at': '2015-10-07T20:18:28Z', 'labels': {'name': 'as-designed'}}
+{'issuenumber': 304, 'title': 'Use of src/vm/wren_common.h', 'state': 'closed', 'created_at': '2015-09-23T09:34:04Z', 'closed_at': '2015-10-17T04:51:32Z', 'labels': []}
+{'issuenumber': 296, 'title': "Built-in types shouldn't expose default constructors", 'state': 'closed', 'created_at': '2015-08-18T14:45:50Z', 'closed_at': '2015-09-01T15:16:06Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 294, 'title': 'Fiber::try not working as expected', 'state': 'closed', 'created_at': '2015-08-14T21:32:54Z', 'closed_at': '2019-09-18T08:05:45Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 290, 'title': 'Foreign classes', 'state': 'closed', 'created_at': '2015-08-09T18:10:58Z', 'closed_at': '2015-09-01T15:18:09Z', 'labels': {'name': 'proposal'}}
+{'issuenumber': 289, 'title': 'generate_builtins.py produces invalid wren_core.c ', 'state': 'closed', 'created_at': '2015-07-18T22:20:24Z', 'closed_at': '2015-07-19T00:29:40Z', 'labels': []}
+{'issuenumber': 287, 'title': 'Written interview about Wren', 'state': 'closed', 'created_at': '2015-07-10T20:55:38Z', 'closed_at': '2015-07-13T23:44:32Z', 'labels': []}
+{'issuenumber': 282, 'title': 'Wren for microcontrollers?', 'state': 'closed', 'created_at': '2015-07-07T00:30:36Z', 'closed_at': '2015-07-08T14:10:54Z', 'labels': []}
+{'issuenumber': 280, 'title': 'Deeply nested objects can result in a stack overflow in the garbage collector', 'state': 'closed', 'created_at': '2015-06-07T16:31:34Z', 'closed_at': '2015-11-19T15:56:23Z', 'labels': []}
+{'issuenumber': 278, 'title': 'Using Meta.eval inside an object', 'state': 'closed', 'created_at': '2015-06-02T16:48:52Z', 'closed_at': '2019-09-18T08:03:00Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 274, 'title': 'Suggestion: Have a reference for the IO object', 'state': 'closed', 'created_at': '2015-05-28T19:35:09Z', 'closed_at': '2015-07-01T13:45:18Z', 'labels': []}
+{'issuenumber': 270, 'title': 'Fixed Visual Studio project files, need help with pull request.', 'state': 'closed', 'created_at': '2015-05-22T16:00:24Z', 'closed_at': '2015-12-30T05:16:58Z', 'labels': []}
+{'issuenumber': 269, 'title': 'Improved VM performance for Windows/VC++', 'state': 'closed', 'created_at': '2015-05-22T15:58:04Z', 'closed_at': '2019-09-18T08:02:28Z', 'labels': {'name': 'vm'}}
+{'issuenumber': 267, 'title': 'REPL features', 'state': 'closed', 'created_at': '2015-05-16T12:38:30Z', 'closed_at': '2015-12-31T16:53:58Z', 'labels': []}
+{'issuenumber': 266, 'title': 'Running set example errors', 'state': 'closed', 'created_at': '2015-05-16T12:34:34Z', 'closed_at': '2015-05-20T14:07:55Z', 'labels': []}
+{'issuenumber': 265, 'title': 'Provide access to compile/parse errors generated during wrenInterpret()', 'state': 'closed', 'created_at': '2015-05-15T13:18:25Z', 'closed_at': '2016-04-06T13:55:09Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 257, 'title': 'Add a page for "Wren community" stuff', 'state': 'closed', 'created_at': '2015-04-15T19:01:07Z', 'closed_at': '2015-04-25T15:48:23Z', 'labels': []}
+{'issuenumber': 251, 'title': 'Cannot create new instance from method if class name is lowercase', 'state': 'closed', 'created_at': '2015-04-02T21:22:08Z', 'closed_at': '2015-04-25T17:48:03Z', 'labels': []}
+{'issuenumber': 250, 'title': 'Call super constructor', 'state': 'closed', 'created_at': '2015-04-01T22:17:42Z', 'closed_at': '2015-06-02T14:33:16Z', 'labels': []}
+{'issuenumber': 248, 'title': '"list" -> "toList"', 'state': 'closed', 'created_at': '2015-04-01T14:45:31Z', 'closed_at': '2015-04-03T18:22:42Z', 'labels': {'name': 'proposal'}}
+{'issuenumber': 246, 'title': 'If superclass clause evaluates to null, is implicitly treated as Object', 'state': 'closed', 'created_at': '2015-03-31T06:01:07Z', 'closed_at': '2015-09-12T17:14:07Z', 'labels': []}
+{'issuenumber': 238, 'title': 'Why is "new" a language construct instead of a method?', 'state': 'closed', 'created_at': '2015-03-27T16:47:09Z', 'closed_at': '2015-07-21T14:30:36Z', 'labels': []}
+{'issuenumber': 237, 'title': 'Fields are not inherited', 'state': 'closed', 'created_at': '2015-03-26T23:07:32Z', 'closed_at': '2015-03-27T13:46:20Z', 'labels': []}
+{'issuenumber': 219, 'title': "Consider a function like Python's chr()", 'state': 'closed', 'created_at': '2015-03-12T19:56:27Z', 'closed_at': '2015-03-27T15:37:08Z', 'labels': []}
+{'issuenumber': 211, 'title': 'Make Range implement count', 'state': 'closed', 'created_at': '2015-03-06T15:15:25Z', 'closed_at': '2019-09-18T08:00:25Z', 'labels': {'name': 'core'}}
+{'issuenumber': 209, 'title': "Would it be possible to drop the 'new' when instantiating?", 'state': 'closed', 'created_at': '2015-03-05T10:03:38Z', 'closed_at': '2015-03-06T16:09:09Z', 'labels': []}
+{'issuenumber': 207, 'title': 'IO.read reaching EOF', 'state': 'closed', 'created_at': '2015-03-04T14:09:03Z', 'closed_at': '2015-03-10T19:15:03Z', 'labels': []}
+{'issuenumber': 206, 'title': 'Passing basic types by reference', 'state': 'closed', 'created_at': '2015-03-03T20:59:01Z', 'closed_at': '2015-03-04T01:32:07Z', 'labels': []}
+{'issuenumber': 204, 'title': '[website] some links do not work under IE', 'state': 'closed', 'created_at': '2015-03-03T02:41:56Z', 'closed_at': '2015-03-18T14:52:38Z', 'labels': []}
+{'issuenumber': 198, 'title': 'build issue on windows with Mingw and MSYS', 'state': 'closed', 'created_at': '2015-02-28T08:36:38Z', 'closed_at': '2015-03-02T17:51:12Z', 'labels': []}
+{'issuenumber': 194, 'title': 'Embedding API: calling function/method', 'state': 'closed', 'created_at': '2015-02-26T15:14:45Z', 'closed_at': '2015-02-28T21:35:34Z', 'labels': []}
+{'issuenumber': 193, 'title': 'Embedding API: accessing VM symbols', 'state': 'closed', 'created_at': '2015-02-26T14:54:15Z', 'closed_at': '2015-12-31T16:58:45Z', 'labels': []}
+{'issuenumber': 190, 'title': 'wrenrc file to configure interpreter', 'state': 'closed', 'created_at': '2015-02-24T20:37:55Z', 'closed_at': '2015-02-25T04:01:18Z', 'labels': []}
+{'issuenumber': 188, 'title': 'How to open and read from a given file?', 'state': 'closed', 'created_at': '2015-02-24T11:25:44Z', 'closed_at': '2015-02-24T15:31:36Z', 'labels': []}
+{'issuenumber': 184, 'title': 'REPL is broken after module addition', 'state': 'closed', 'created_at': '2015-02-23T05:41:45Z', 'closed_at': '2015-02-25T00:01:44Z', 'labels': []}
+{'issuenumber': 182, 'title': 'issues with numbers.', 'state': 'closed', 'created_at': '2015-02-22T21:52:22Z', 'closed_at': '2015-12-31T17:16:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 181, 'title': 'runFile segfault when lastSlash is null', 'state': 'closed', 'created_at': '2015-02-22T03:32:37Z', 'closed_at': '2015-02-22T18:22:28Z', 'labels': []}
+{'issuenumber': 180, 'title': 'Embedding API: How to get Function arguments other then bool, double and string?', 'state': 'closed', 'created_at': '2015-02-19T20:04:22Z', 'closed_at': '2016-02-20T21:49:32Z', 'labels': {'name': 'question'}}
+{'issuenumber': 179, 'title': 'Execution speed compared to Dart', 'state': 'closed', 'created_at': '2015-02-19T11:41:34Z', 'closed_at': '2015-02-19T14:41:20Z', 'labels': []}
+{'issuenumber': 176, 'title': 'Removing element from List', 'state': 'closed', 'created_at': '2015-02-17T16:35:52Z', 'closed_at': '2015-02-22T18:26:38Z', 'labels': []}
+{'issuenumber': 175, 'title': 'Operators and precedence', 'state': 'closed', 'created_at': '2015-02-17T09:06:48Z', 'closed_at': '2015-02-27T14:23:06Z', 'labels': []}
+{'issuenumber': 171, 'title': 'More infix operands?', 'state': 'closed', 'created_at': '2015-02-13T23:54:44Z', 'closed_at': '2015-02-18T14:51:13Z', 'labels': []}
+{'issuenumber': 170, 'title': 'Random numbers', 'state': 'closed', 'created_at': '2015-02-13T11:55:40Z', 'closed_at': '2015-02-21T18:07:04Z', 'labels': []}
+{'issuenumber': 167, 'title': 'Automated testing for all configurations', 'state': 'closed', 'created_at': '2015-02-05T19:02:38Z', 'closed_at': '2019-09-18T07:58:27Z', 'labels': {'name': 'tooling'}}
+{'issuenumber': 166, 'title': 'Move benchmark script into script/', 'state': 'closed', 'created_at': '2015-02-05T18:59:01Z', 'closed_at': '2015-02-12T17:02:16Z', 'labels': {'name': 'tooling'}}
+{'issuenumber': 158, 'title': 'Cleaner function syntax?', 'state': 'closed', 'created_at': '2015-02-03T02:16:05Z', 'closed_at': '2015-02-03T05:13:56Z', 'labels': []}
+{'issuenumber': 156, 'title': 'Embedding API: How to store private data in a class instance?', 'state': 'closed', 'created_at': '2015-02-02T04:28:11Z', 'closed_at': '2015-09-01T15:19:10Z', 'labels': []}
+{'issuenumber': 155, 'title': 'Make Fibers inherit Sequence and be iterable', 'state': 'closed', 'created_at': '2015-02-01T19:13:13Z', 'closed_at': '2015-03-03T15:26:28Z', 'labels': []}
+{'issuenumber': 154, 'title': 'this in static method', 'state': 'closed', 'created_at': '2015-01-31T22:20:00Z', 'closed_at': '2015-02-03T18:47:22Z', 'labels': []}
+{'issuenumber': 153, 'title': "Doesn't check for stack overflow", 'state': 'closed', 'created_at': '2015-01-31T22:19:04Z', 'closed_at': '2015-12-14T16:09:39Z', 'labels': []}
+{'issuenumber': 152, 'title': 'Make strings "8-bit clean"', 'state': 'closed', 'created_at': '2015-01-31T19:32:21Z', 'closed_at': '2015-02-05T04:29:05Z', 'labels': []}
+{'issuenumber': 151, 'title': 'define terms: statement position, expression position', 'state': 'closed', 'created_at': '2015-01-30T15:42:11Z', 'closed_at': '2019-09-18T07:58:15Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 148, 'title': '`validateKey()` compile error on Linux', 'state': 'closed', 'created_at': '2015-01-29T10:26:08Z', 'closed_at': '2015-01-30T04:44:54Z', 'labels': []}
+{'issuenumber': 142, 'title': 'Compile error with gcc 4.8.2', 'state': 'closed', 'created_at': '2015-01-26T22:53:36Z', 'closed_at': '2015-01-27T05:53:22Z', 'labels': []}
+{'issuenumber': 141, 'title': 'Consider alternate hash table representation', 'state': 'closed', 'created_at': '2015-01-26T17:04:37Z', 'closed_at': '2019-09-18T07:57:56Z', 'labels': {'name': 'core'}}
+{'issuenumber': 137, 'title': 'Set syntax sugar for maps', 'state': 'closed', 'created_at': '2015-01-26T01:46:30Z', 'closed_at': '2019-09-18T07:57:10Z', 'labels': {'name': 'proposal'}}
+{'issuenumber': 134, 'title': 'Returning an object in Fiber.abort', 'state': 'closed', 'created_at': '2015-01-24T01:43:01Z', 'closed_at': '2019-09-18T07:56:16Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 133, 'title': 'Wrong API argument indexing documentation', 'state': 'closed', 'created_at': '2015-01-22T13:44:30Z', 'closed_at': '2015-01-22T15:06:01Z', 'labels': []}
+{'issuenumber': 131, 'title': 'Figure out why 9453acf1 regressed perf', 'state': 'closed', 'created_at': '2015-01-21T15:47:37Z', 'closed_at': '2015-01-21T16:04:19Z', 'labels': []}
+{'issuenumber': 129, 'title': 'Proposal: Empty argument lists', 'state': 'closed', 'created_at': '2015-01-21T01:26:15Z', 'closed_at': '2015-02-27T15:29:06Z', 'labels': {'name': 'proposal'}}
+{'issuenumber': 128, 'title': 'WREN_PIN breaks under some optimizations', 'state': 'closed', 'created_at': '2015-01-20T10:30:51Z', 'closed_at': '2015-01-21T15:56:14Z', 'labels': []}
+{'issuenumber': 127, 'title': 'Integers?', 'state': 'closed', 'created_at': '2015-01-20T10:13:47Z', 'closed_at': '2015-01-20T23:44:43Z', 'labels': []}
+{'issuenumber': 125, 'title': 'Crashing on windows with MinGW', 'state': 'closed', 'created_at': '2015-01-20T07:59:24Z', 'closed_at': '2015-01-21T19:21:56Z', 'labels': []}
+{'issuenumber': 122, 'title': 'Module strawman 3: Implicitly defined imports', 'state': 'closed', 'created_at': '2015-01-18T19:14:37Z', 'closed_at': '2015-02-18T16:00:01Z', 'labels': {'name': 'proposal'}}
+{'issuenumber': 120, 'title': 'String pattern matching', 'state': 'closed', 'created_at': '2015-01-17T23:58:29Z', 'closed_at': '2019-09-18T07:55:45Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 119, 'title': 'Consider tweaking precedence of is operator', 'state': 'closed', 'created_at': '2015-01-17T17:03:45Z', 'closed_at': '2015-01-18T18:20:36Z', 'labels': []}
+{'issuenumber': 117, 'title': 'Proposal: Private methods', 'state': 'closed', 'created_at': '2015-01-17T07:57:20Z', 'closed_at': '2019-09-18T07:54:38Z', 'labels': {'name': 'proposal'}}
+{'issuenumber': 116, 'title': 'Attempting to build latest code as C++ fails in VS2013', 'state': 'closed', 'created_at': '2015-01-17T06:18:25Z', 'closed_at': '2015-01-17T07:37:19Z', 'labels': []}
+{'issuenumber': 115, 'title': 'Disable modules for Sandboxing', 'state': 'closed', 'created_at': '2015-01-16T20:48:04Z', 'closed_at': '2015-01-17T00:22:47Z', 'labels': []}
+{'issuenumber': 111, 'title': 'Wren does not compile in 32bits (mingw/windows)', 'state': 'closed', 'created_at': '2015-01-14T14:56:05Z', 'closed_at': '2015-01-21T01:06:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 110, 'title': 'Performance optimisation of readName method', 'state': 'closed', 'created_at': '2015-01-14T11:35:48Z', 'closed_at': '2015-01-14T14:46:10Z', 'labels': []}
+{'issuenumber': 107, 'title': 'source highlighting', 'state': 'closed', 'created_at': '2015-01-13T15:08:09Z', 'closed_at': '2017-10-09T18:12:08Z', 'labels': {'name': 'tooling'}}
+{'issuenumber': 106, 'title': 'Proposal: Top level names', 'state': 'closed', 'created_at': '2015-01-13T01:02:44Z', 'closed_at': '2015-01-15T07:08:46Z', 'labels': []}
+{'issuenumber': 102, 'title': 'Range Operators', 'state': 'closed', 'created_at': '2015-01-12T08:21:40Z', 'closed_at': '2019-09-18T07:50:23Z', 'labels': {'name': 'proposal'}}
+{'issuenumber': 101, 'title': 'Bad scoping behavior', 'state': 'closed', 'created_at': '2015-01-12T05:57:36Z', 'closed_at': '2015-01-15T07:08:46Z', 'labels': []}
+{'issuenumber': 100, 'title': 'Coding style', 'state': 'closed', 'created_at': '2015-01-11T23:32:38Z', 'closed_at': '2015-01-12T03:01:34Z', 'labels': []}
+{'issuenumber': 98, 'title': 'Maps', 'state': 'closed', 'created_at': '2015-01-10T00:52:18Z', 'closed_at': '2015-01-26T01:48:06Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 93, 'title': 'Parse of "i-1" is space-sensitive', 'state': 'closed', 'created_at': '2015-01-09T02:48:15Z', 'closed_at': '2015-01-09T15:00:12Z', 'labels': []}
+{'issuenumber': 91, 'title': 'Proposal: Header files / header of a file for Modules', 'state': 'closed', 'created_at': '2015-01-09T01:23:19Z', 'closed_at': '2015-02-18T15:58:29Z', 'labels': {'name': 'proposal'}}
+{'issuenumber': 90, 'title': 'wrenpp / macros', 'state': 'closed', 'created_at': '2015-01-09T01:09:59Z', 'closed_at': '2015-01-09T05:19:04Z', 'labels': []}
+{'issuenumber': 89, 'title': 'wrenfmt', 'state': 'closed', 'created_at': '2015-01-09T01:07:42Z', 'closed_at': '2019-09-18T07:48:15Z', 'labels': {'name': 'tooling'}}
+{'issuenumber': 88, 'title': 'Implement a Wren parser in Wren', 'state': 'closed', 'created_at': '2015-01-09T01:05:57Z', 'closed_at': '2015-12-31T17:11:52Z', 'labels': {'name': 'tooling'}}
+{'issuenumber': 87, 'title': 'File IO', 'state': 'closed', 'created_at': '2015-01-09T01:03:33Z', 'closed_at': '2015-01-17T07:46:56Z', 'labels': []}
+{'issuenumber': 86, 'title': 'Optional stdlib / cookbook', 'state': 'closed', 'created_at': '2015-01-09T01:02:46Z', 'closed_at': '2015-01-17T19:17:20Z', 'labels': []}
+{'issuenumber': 85, 'title': 'Doctests (literate Wren?)', 'state': 'closed', 'created_at': '2015-01-09T01:00:35Z', 'closed_at': '2019-09-18T07:47:56Z', 'labels': {'name': 'tooling'}}
+{'issuenumber': 82, 'title': 'Why a stack machine instead of a register machine?', 'state': 'closed', 'created_at': '2015-01-08T09:01:37Z', 'closed_at': '2015-01-08T14:59:05Z', 'labels': []}
+{'issuenumber': 79, 'title': 'Proposal: Module classes', 'state': 'closed', 'created_at': '2015-01-07T05:01:45Z', 'closed_at': '2015-02-18T15:59:21Z', 'labels': {'name': 'proposal'}}
+{'issuenumber': 70, 'title': 'No subclassing of builtins?', 'state': 'closed', 'created_at': '2015-01-05T23:01:42Z', 'closed_at': '2015-02-27T16:10:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 68, 'title': 'UTF8 support?', 'state': 'closed', 'created_at': '2015-01-05T14:01:33Z', 'closed_at': '2015-09-12T04:34:24Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 67, 'title': 'SegFault when overridding toString', 'state': 'closed', 'created_at': '2015-01-05T10:40:50Z', 'closed_at': '2015-01-08T15:53:43Z', 'labels': []}
+{'issuenumber': 65, 'title': 'Number test failures', 'state': 'closed', 'created_at': '2015-01-05T01:50:28Z', 'closed_at': '2015-01-06T15:09:54Z', 'labels': []}
+{'issuenumber': 61, 'title': 'Considering add thread support?', 'state': 'closed', 'created_at': '2015-01-04T21:41:57Z', 'closed_at': '2015-01-05T15:45:42Z', 'labels': []}
+{'issuenumber': 60, 'title': 'Add website URL to GitHub page', 'state': 'closed', 'created_at': '2015-01-04T21:07:06Z', 'closed_at': '2015-01-05T15:33:53Z', 'labels': []}
+{'issuenumber': 57, 'title': 'Single comment source file raises "Unexpected token for expression".', 'state': 'closed', 'created_at': '2015-01-03T20:17:32Z', 'closed_at': '2015-01-04T21:01:02Z', 'labels': []}
+{'issuenumber': 54, 'title': 'Question: Different Function Syntax for Methods and Anonymous Blocks', 'state': 'closed', 'created_at': '2015-01-03T02:33:07Z', 'closed_at': '2015-01-03T04:50:03Z', 'labels': []}
+{'issuenumber': 53, 'title': 'Reconsider having both .. and ... for ranges?', 'state': 'closed', 'created_at': '2015-01-03T00:00:03Z', 'closed_at': '2015-01-03T04:36:59Z', 'labels': []}
+{'issuenumber': 52, 'title': 'Multiple problems prevent building with MSVC', 'state': 'closed', 'created_at': '2015-01-02T23:48:05Z', 'closed_at': '2015-01-16T05:20:03Z', 'labels': []}
+{'issuenumber': 47, 'title': "Code sample on website / README doesn't actually compile?", 'state': 'closed', 'created_at': '2015-01-02T18:35:48Z', 'closed_at': '2015-01-03T04:07:53Z', 'labels': []}
+{'issuenumber': 46, 'title': 'Feature: import/include/require code?', 'state': 'closed', 'created_at': '2015-01-02T17:09:11Z', 'closed_at': '2015-02-18T15:57:44Z', 'labels': []}
+{'issuenumber': 43, 'title': 'Build fails under GCC on Linux x86_64', 'state': 'closed', 'created_at': '2015-01-02T12:55:28Z', 'closed_at': '2015-01-02T15:31:17Z', 'labels': []}
+{'issuenumber': 42, 'title': 'cleanup suggestions', 'state': 'closed', 'created_at': '2015-01-02T12:19:30Z', 'closed_at': '2015-01-02T15:51:15Z', 'labels': []}
+{'issuenumber': 41, 'title': 'Switching to a more permissive licensing, even', 'state': 'closed', 'created_at': '2015-01-02T09:18:55Z', 'closed_at': '2015-01-02T15:39:07Z', 'labels': []}
+{'issuenumber': 40, 'title': 'Sending input to the REPL runs out of memory', 'state': 'closed', 'created_at': '2014-12-07T00:45:50Z', 'closed_at': '2016-02-20T21:36:57Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 31, 'title': 'Bitwise operators for Nums', 'state': 'closed', 'created_at': '2014-02-17T03:59:24Z', 'closed_at': '2014-02-24T15:27:50Z', 'labels': []}
+{'issuenumber': 29, 'title': 'Think about class hierarchy for Collections', 'state': 'closed', 'created_at': '2014-02-16T23:50:48Z', 'closed_at': '2015-01-17T19:19:23Z', 'labels': []}
+{'issuenumber': 28, 'title': '`Sequence.map` and `where` should use `new this.type` instead of `[]`', 'state': 'closed', 'created_at': '2014-02-16T23:39:56Z', 'closed_at': '2015-09-12T17:20:55Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 25, 'title': 'segfault on IO.print(new List)', 'state': 'closed', 'created_at': '2014-02-16T17:31:32Z', 'closed_at': '2015-01-05T15:50:24Z', 'labels': []}
+{'issuenumber': 24, 'title': 'Odd newline and parenthesization rules', 'state': 'closed', 'created_at': '2014-02-16T17:12:38Z', 'closed_at': '2015-02-22T19:04:50Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 23, 'title': 'Cannot define some custom operators', 'state': 'closed', 'created_at': '2014-02-16T17:09:06Z', 'closed_at': '2014-02-17T03:59:09Z', 'labels': []}
+{'issuenumber': 21, 'title': 'Classes cannot create new instances of themselves internally', 'state': 'closed', 'created_at': '2014-02-15T21:35:43Z', 'closed_at': '2014-02-16T16:54:42Z', 'labels': []}
+{'issuenumber': 17, 'title': 'Single line classes require semicolons', 'state': 'closed', 'created_at': '2014-02-15T03:21:41Z', 'closed_at': '2014-02-15T04:15:56Z', 'labels': []}
+{'issuenumber': 16, 'title': 'Toward first class functions', 'state': 'closed', 'created_at': '2014-02-14T19:12:19Z', 'closed_at': '2014-02-15T01:12:37Z', 'labels': []}
+{'issuenumber': 15, 'title': 'Dangling else', 'state': 'closed', 'created_at': '2014-02-14T18:40:59Z', 'closed_at': '2014-02-15T01:09:28Z', 'labels': []}
+{'issuenumber': 14, 'title': 'Single-pass compiler questions', 'state': 'closed', 'created_at': '2014-02-14T18:35:56Z', 'closed_at': '2014-02-15T01:15:12Z', 'labels': []}
+{'issuenumber': 8, 'title': 'Proposal: is -> isA', 'state': 'closed', 'created_at': '2014-01-28T19:39:26Z', 'closed_at': '2014-02-14T17:31:24Z', 'labels': []}
+{'issuenumber': 6, 'title': 'Ctrl-D to exit repl', 'state': 'closed', 'created_at': '2014-01-21T17:42:20Z', 'closed_at': '2014-01-21T23:41:19Z', 'labels': []}
+{'issuenumber': 4, 'title': 'Seperate building from Xcode', 'state': 'closed', 'created_at': '2014-01-21T04:05:03Z', 'closed_at': '2014-01-21T23:32:28Z', 'labels': []}
+{'issuenumber': 3, 'title': 'Infinite recursion of lists containing themselves', 'state': 'closed', 'created_at': '2014-01-21T02:34:58Z', 'closed_at': '2015-05-03T18:13:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 2, 'title': 'Range class should validate input parameters', 'state': 'closed', 'created_at': '2014-01-15T03:07:30Z', 'closed_at': '2014-01-20T21:20:44Z', 'labels': []}

@@ -1,0 +1,978 @@
+{'issuenumber': 2929, 'title': "[bug] Can't open Dogecoin Core in Mac OS Monterey [Version 12.2.1]", 'state': 'closed', 'created_at': '2022-04-18T19:01:46Z', 'closed_at': '2022-07-21T01:10:21Z', 'labels': []}
+{'issuenumber': 2928, 'title': '[feat] Prune block storage on Dogecoin Core GUI', 'state': 'closed', 'created_at': '2022-04-16T18:46:56Z', 'closed_at': '2022-04-27T05:35:37Z', 'labels': []}
+{'issuenumber': 2926, 'title': '[feat] high', 'state': 'closed', 'created_at': '2022-04-15T06:49:06Z', 'closed_at': '2022-04-15T07:06:04Z', 'labels': []}
+{'issuenumber': 2924, 'title': '[feat] Let miners decide on block size', 'state': 'closed', 'created_at': '2022-04-15T00:20:17Z', 'closed_at': '2022-04-15T01:09:08Z', 'labels': []}
+{'issuenumber': 2911, 'title': '[feat] Lower Transaction Fees', 'state': 'closed', 'created_at': '2022-04-08T04:04:08Z', 'closed_at': '2022-04-15T00:27:11Z', 'labels': []}
+{'issuenumber': 2905, 'title': '[bug] ', 'state': 'closed', 'created_at': '2022-04-03T20:57:06Z', 'closed_at': '2022-04-03T22:19:57Z', 'labels': []}
+{'issuenumber': 2904, 'title': '[bug] autogen.sh warns', 'state': 'closed', 'created_at': '2022-04-03T20:37:37Z', 'closed_at': '2022-04-07T20:53:50Z', 'labels': {'name': 'backport'}}
+{'issuenumber': 2900, 'title': 'Logo usage permission', 'state': 'closed', 'created_at': '2022-03-31T11:44:23Z', 'closed_at': '2022-03-31T12:40:23Z', 'labels': []}
+{'issuenumber': 2887, 'title': '[feat] ', 'state': 'closed', 'created_at': '2022-03-25T06:56:10Z', 'closed_at': '2022-03-25T06:57:30Z', 'labels': []}
+{'issuenumber': 2879, 'title': '[bug] build/ci: focal and g++-9-cross are broken for ARMv82+crypto', 'state': 'closed', 'created_at': '2022-03-22T00:47:25Z', 'closed_at': '2022-04-29T18:45:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 2878, 'title': "[bug] dogecoin-cli getaddressinfo command doesn't work", 'state': 'closed', 'created_at': '2022-03-22T00:46:22Z', 'closed_at': '2022-03-22T18:49:49Z', 'labels': []}
+{'issuenumber': 2873, 'title': '[feat]', 'state': 'closed', 'created_at': '2022-03-12T11:10:56Z', 'closed_at': '2022-03-12T11:28:45Z', 'labels': []}
+{'issuenumber': 2862, 'title': 'Start calling dogecoin doggy coin ', 'state': 'closed', 'created_at': '2022-02-25T09:25:41Z', 'closed_at': '2022-02-25T14:09:14Z', 'labels': []}
+{'issuenumber': 2855, 'title': '[bug] Hello developers, can you solve the problem of scaling display in Win11 system', 'state': 'closed', 'created_at': '2022-02-18T11:59:44Z', 'closed_at': '2022-04-03T00:55:28Z', 'labels': []}
+{'issuenumber': 2853, 'title': '[bug] REST getutxos is not returning the same data as RPC', 'state': 'closed', 'created_at': '2022-02-17T23:58:34Z', 'closed_at': '2022-04-27T18:58:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 2846, 'title': '[feat] Allow send < 1 Doge wen using  fundrawtransaction', 'state': 'closed', 'created_at': '2022-02-13T10:54:08Z', 'closed_at': '2022-02-14T13:13:08Z', 'labels': []}
+{'issuenumber': 2838, 'title': 'Dogecoin transaction has been disappeared [bug] ', 'state': 'closed', 'created_at': '2022-02-08T14:28:24Z', 'closed_at': '2022-02-09T14:41:50Z', 'labels': []}
+{'issuenumber': 2836, 'title': '[feat] anthonysidesapps', 'state': 'closed', 'created_at': '2022-02-07T11:54:00Z', 'closed_at': '2022-02-07T12:10:59Z', 'labels': []}
+{'issuenumber': 2824, 'title': '$Read me dogecoin core', 'state': 'closed', 'created_at': '2022-02-04T02:41:26Z', 'closed_at': '2022-02-04T03:45:01Z', 'labels': []}
+{'issuenumber': 2821, 'title': 'Korean translation still contains "bitcoin" in source strings', 'state': 'closed', 'created_at': '2022-01-28T16:33:30Z', 'closed_at': '2022-01-28T17:56:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 2799, 'title': '[bug] Incorrect translations and missing translations in file dogecoin/src/qt/locale/bitcoin_ko_KR.ts', 'state': 'closed', 'created_at': '2022-01-16T23:15:40Z', 'closed_at': '2022-06-04T14:36:24Z', 'labels': {'name': 'UI'}}
+{'issuenumber': 2793, 'title': 'bitcoinjs-lib', 'state': 'closed', 'created_at': '2022-01-09T10:41:12Z', 'closed_at': '2022-01-09T14:44:29Z', 'labels': []}
+{'issuenumber': 2781, 'title': 'update the network charge for the playstore application [bug] ', 'state': 'closed', 'created_at': '2021-12-25T16:02:14Z', 'closed_at': '2021-12-28T13:25:07Z', 'labels': []}
+{'issuenumber': 2776, 'title': 'Attribute Qt::AA_EnableHighDpiScaling  [bug] ', 'state': 'closed', 'created_at': '2021-12-25T02:06:53Z', 'closed_at': '2022-01-20T13:47:08Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 2769, 'title': '[bug] ', 'state': 'closed', 'created_at': '2021-12-20T23:48:39Z', 'closed_at': '2021-12-20T23:50:16Z', 'labels': []}
+{'issuenumber': 2766, 'title': '[feat] ', 'state': 'closed', 'created_at': '2021-12-19T20:22:16Z', 'closed_at': '2021-12-19T22:34:47Z', 'labels': []}
+{'issuenumber': 2760, 'title': "[feat]  Dogecoin's killer app: Adorable Instant Messaging (AIM)", 'state': 'closed', 'created_at': '2021-12-18T06:29:23Z', 'closed_at': '2021-12-18T13:47:28Z', 'labels': []}
+{'issuenumber': 2748, 'title': '"First dogecoin NFT" is not real', 'state': 'closed', 'created_at': '2021-12-15T14:16:13Z', 'closed_at': '2021-12-15T19:00:13Z', 'labels': []}
+{'issuenumber': 2743, 'title': 'Documentation wallet section obsolete and buggy - https://github.com/dogecoin/dogecoin/blob/master/doc/build-unix.md#wallet - It needs to be fixed', 'state': 'closed', 'created_at': '2021-12-13T04:04:23Z', 'closed_at': '2022-07-21T01:33:51Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 2742, 'title': 'Enforce the one block per minute, stop empty block mining ', 'state': 'closed', 'created_at': '2021-12-10T01:22:49Z', 'closed_at': '2021-12-10T01:35:24Z', 'labels': []}
+{'issuenumber': 2737, 'title': '[feat]', 'state': 'closed', 'created_at': '2021-12-08T00:30:12Z', 'closed_at': '2021-12-08T00:42:19Z', 'labels': []}
+{'issuenumber': 2736, 'title': '[bug]', 'state': 'closed', 'created_at': '2021-12-08T00:25:35Z', 'closed_at': '2021-12-08T00:37:35Z', 'labels': []}
+{'issuenumber': 2735, 'title': '[Security Enhancement] Security Enhancements for Preventing Two Kinds of Attacks', 'state': 'closed', 'created_at': '2021-12-07T07:12:49Z', 'closed_at': '2022-07-14T14:40:14Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 2725, 'title': '[feat]', 'state': 'closed', 'created_at': '2021-11-28T14:53:17Z', 'closed_at': '2021-11-28T20:24:30Z', 'labels': []}
+{'issuenumber': 2724, 'title': '[feat]', 'state': 'closed', 'created_at': '2021-11-28T14:24:46Z', 'closed_at': '2021-11-28T20:24:21Z', 'labels': []}
+{'issuenumber': 2722, 'title': 'I have no idea to run the source code, which IDE can I use  for developing?', 'state': 'closed', 'created_at': '2021-11-26T13:26:12Z', 'closed_at': '2021-12-05T18:29:39Z', 'labels': []}
+{'issuenumber': 2721, 'title': '[feat] Add an RPC method showing wallet transactions that are not in the mempool', 'state': 'closed', 'created_at': '2021-11-25T00:35:07Z', 'closed_at': '2022-06-23T12:30:21Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 2712, 'title': '[feat] ', 'state': 'closed', 'created_at': '2021-11-18T10:49:52Z', 'closed_at': '2021-11-18T13:45:29Z', 'labels': []}
+{'issuenumber': 2711, 'title': '[bug] Report', 'state': 'closed', 'created_at': '2021-11-18T10:46:30Z', 'closed_at': '2021-11-18T13:45:36Z', 'labels': []}
+{'issuenumber': 2706, 'title': 'rolex', 'state': 'closed', 'created_at': '2021-11-18T06:45:47Z', 'closed_at': '2021-11-18T08:47:35Z', 'labels': []}
+{'issuenumber': 2704, 'title': '[feat] ', 'state': 'closed', 'created_at': '2021-11-18T06:40:08Z', 'closed_at': '2021-11-18T08:47:11Z', 'labels': []}
+{'issuenumber': 2703, 'title': '[feat] ', 'state': 'closed', 'created_at': '2021-11-18T06:39:49Z', 'closed_at': '2021-11-18T08:46:53Z', 'labels': []}
+{'issuenumber': 2697, 'title': 'Aux POW missing chain merkle root in parent coinbase', 'state': 'closed', 'created_at': '2021-11-12T12:29:00Z', 'closed_at': '2021-11-15T13:06:53Z', 'labels': []}
+{'issuenumber': 2696, 'title': "Does anyone know the error of binance's handling fee?", 'state': 'closed', 'created_at': '2021-11-12T02:51:59Z', 'closed_at': '2021-11-12T14:21:30Z', 'labels': []}
+{'issuenumber': 2690, 'title': '[bug] build error', 'state': 'closed', 'created_at': '2021-11-10T14:02:31Z', 'closed_at': '2021-11-12T13:10:25Z', 'labels': []}
+{'issuenumber': 2672, 'title': 'Potential Wallet Address Book Info Leakage', 'state': 'closed', 'created_at': '2021-11-05T11:25:17Z', 'closed_at': '2021-11-07T14:40:14Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 2665, 'title': 'URI Argument Injection in Dogecoin-Qt', 'state': 'closed', 'created_at': '2021-11-03T13:28:32Z', 'closed_at': '2021-11-04T12:50:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 2655, 'title': 'Open items for 1.14.5 release', 'state': 'closed', 'created_at': '2021-11-01T16:43:06Z', 'closed_at': '2021-11-08T19:05:29Z', 'labels': []}
+{'issuenumber': 2651, 'title': '[feat] Improve error message for `submitblock`', 'state': 'closed', 'created_at': '2021-10-31T14:53:49Z', 'closed_at': '2021-11-01T22:01:30Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 2643, 'title': '[bug] ', 'state': 'closed', 'created_at': '2021-10-26T14:06:37Z', 'closed_at': '2021-12-09T23:21:26Z', 'labels': []}
+{'issuenumber': 2641, 'title': '[feat]', 'state': 'closed', 'created_at': '2021-10-23T08:04:22Z', 'closed_at': '2021-10-24T14:37:50Z', 'labels': []}
+{'issuenumber': 2639, 'title': '[feat] Precision on BDB requirements.', 'state': 'closed', 'created_at': '2021-10-21T17:42:52Z', 'closed_at': '2021-12-15T08:58:17Z', 'labels': []}
+{'issuenumber': 2630, 'title': "Add createauxblock RPC command to 1.14.x version to faciliate minining pools' adoption", 'state': 'closed', 'created_at': '2021-10-18T12:59:42Z', 'closed_at': '2021-11-01T22:04:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 2625, 'title': '[bug] Missing return value and missing va_end()', 'state': 'closed', 'created_at': '2021-10-15T20:42:29Z', 'closed_at': '2021-10-18T15:36:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 2603, 'title': '[bug] Dust outputs are always interpreted as non-standard on mainnet', 'state': 'closed', 'created_at': '2021-10-06T18:12:32Z', 'closed_at': '2021-11-01T16:31:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 2602, 'title': '[feat] is it possible to add some ADA features like treasury!?', 'state': 'closed', 'created_at': '2021-10-05T04:01:14Z', 'closed_at': '2021-11-09T23:56:58Z', 'labels': []}
+{'issuenumber': 2600, 'title': '[feat] ', 'state': 'closed', 'created_at': '2021-10-02T18:24:09Z', 'closed_at': '2021-10-02T19:08:36Z', 'labels': []}
+{'issuenumber': 2598, 'title': '[bug]', 'state': 'closed', 'created_at': '2021-09-30T02:32:49Z', 'closed_at': '2021-09-30T15:17:56Z', 'labels': []}
+{'issuenumber': 2597, 'title': 'Network Dominated and exploited by one miner, empty blocks, miner at over 25% of mined blocks[bug] ', 'state': 'closed', 'created_at': '2021-09-29T13:12:08Z', 'closed_at': '2021-09-29T16:08:13Z', 'labels': []}
+{'issuenumber': 2596, 'title': 'dogecoin-cli listaccounts | documentation?', 'state': 'closed', 'created_at': '2021-09-29T08:58:15Z', 'closed_at': '2021-09-29T15:30:31Z', 'labels': []}
+{'issuenumber': 2593, 'title': "This is a bug: Talked to the miner. What's happening is this:", 'state': 'closed', 'created_at': '2021-09-27T02:40:35Z', 'closed_at': '2021-09-27T15:55:21Z', 'labels': []}
+{'issuenumber': 2592, 'title': '[feat] Extra /src directory in rpc-tests.py line 221', 'state': 'closed', 'created_at': '2021-09-26T22:53:45Z', 'closed_at': '2021-09-27T00:25:48Z', 'labels': []}
+{'issuenumber': 2585, 'title': 'A miner is mining empty blocks', 'state': 'closed', 'created_at': '2021-09-24T03:22:25Z', 'closed_at': '2021-09-26T17:09:22Z', 'labels': []}
+{'issuenumber': 2582, 'title': 'Docs4Doge : Document dogecoin integration with third party into applications or website', 'state': 'closed', 'created_at': '2021-09-22T18:03:18Z', 'closed_at': '2021-10-02T08:26:33Z', 'labels': []}
+{'issuenumber': 2576, 'title': '[feat] Make changes on Bitcoin code to replace existing legacy Dogecoin code', 'state': 'closed', 'created_at': '2021-09-18T22:07:48Z', 'closed_at': '2021-10-24T14:39:54Z', 'labels': []}
+{'issuenumber': 2569, 'title': '[feat] Rewards for running a full node', 'state': 'closed', 'created_at': '2021-09-14T16:20:13Z', 'closed_at': '2021-09-15T17:14:54Z', 'labels': []}
+{'issuenumber': 2563, 'title': '[feat] ', 'state': 'closed', 'created_at': '2021-09-11T13:30:52Z', 'closed_at': '2021-09-19T23:31:08Z', 'labels': []}
+{'issuenumber': 2559, 'title': '[bug] ', 'state': 'closed', 'created_at': '2021-09-10T04:23:22Z', 'closed_at': '2021-09-10T04:24:21Z', 'labels': []}
+{'issuenumber': 2557, 'title': '[bug] Dogecoin 1.21-dev not syncing', 'state': 'closed', 'created_at': '2021-09-08T04:48:37Z', 'closed_at': '2021-09-08T11:17:21Z', 'labels': []}
+{'issuenumber': 2550, 'title': '[feat]', 'state': 'closed', 'created_at': '2021-09-06T07:39:01Z', 'closed_at': '2021-09-06T13:56:43Z', 'labels': []}
+{'issuenumber': 2549, 'title': '[feat] ', 'state': 'closed', 'created_at': '2021-09-05T15:40:56Z', 'closed_at': '2021-09-06T13:58:13Z', 'labels': []}
+{'issuenumber': 2531, 'title': '[feat] Update leveldb source', 'state': 'closed', 'created_at': '2021-09-04T20:02:41Z', 'closed_at': '2021-12-10T00:18:09Z', 'labels': []}
+{'issuenumber': 2523, 'title': '[bug] Debug window Network Traffic Tab and Peers Tab bugs.', 'state': 'closed', 'created_at': '2021-09-03T21:24:32Z', 'closed_at': '2022-06-28T23:10:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 2516, 'title': '[feat]', 'state': 'closed', 'created_at': '2021-09-01T20:43:19Z', 'closed_at': '2021-09-01T20:44:36Z', 'labels': []}
+{'issuenumber': 2513, 'title': '“Dogecoin Core.app” can’t be opened because Apple cannot check it for malicious software (macOS)', 'state': 'closed', 'created_at': '2021-09-01T09:54:32Z', 'closed_at': '2022-07-21T01:14:15Z', 'labels': {'name': 'false positive'}}
+{'issuenumber': 2508, 'title': '[feat]', 'state': 'closed', 'created_at': '2021-08-31T16:53:28Z', 'closed_at': '2021-08-31T22:57:59Z', 'labels': []}
+{'issuenumber': 2504, 'title': '[feat] Update from Doge Core app', 'state': 'closed', 'created_at': '2021-08-30T16:26:56Z', 'closed_at': '2021-09-01T20:46:09Z', 'labels': []}
+{'issuenumber': 2499, 'title': 'Compiling dogecoin-dev-1.14.5 on Gentoo Linux', 'state': 'closed', 'created_at': '2021-08-28T22:11:59Z', 'closed_at': '2021-08-31T22:59:15Z', 'labels': []}
+{'issuenumber': 2475, 'title': '[bug] FreeBSD compilation fails on scrypt.h', 'state': 'closed', 'created_at': '2021-08-20T19:10:32Z', 'closed_at': '2021-08-29T15:01:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 2471, 'title': 'Refresh README introduction sentence', 'state': 'closed', 'created_at': '2021-08-20T09:59:22Z', 'closed_at': '2021-09-15T19:09:33Z', 'labels': []}
+{'issuenumber': 2462, 'title': '1.14.4-dev gitian built binaries pre-check', 'state': 'closed', 'created_at': '2021-08-19T00:02:13Z', 'closed_at': '2021-08-20T18:59:30Z', 'labels': []}
+{'issuenumber': 2460, 'title': 'Open items for 1.14.4 release as of 8/18/2021', 'state': 'closed', 'created_at': '2021-08-18T21:54:26Z', 'closed_at': '2021-08-20T21:17:08Z', 'labels': []}
+{'issuenumber': 2445, 'title': "Can't send a test amount of < 100 Doge to check address is correct", 'state': 'closed', 'created_at': '2021-08-11T09:49:12Z', 'closed_at': '2021-08-11T22:11:05Z', 'labels': []}
+{'issuenumber': 2442, 'title': 'Is there a 1 kb fee of DogeCoin ', 'state': 'closed', 'created_at': '2021-08-10T09:04:11Z', 'closed_at': '2021-08-10T17:51:26Z', 'labels': []}
+{'issuenumber': 2424, 'title': '[bug] i cant receive my dogecoins on dogecoin core wallet HELP', 'state': 'closed', 'created_at': '2021-07-27T17:22:14Z', 'closed_at': '2021-07-30T14:57:06Z', 'labels': []}
+{'issuenumber': 2419, 'title': 'getrawtransaction node api  ', 'state': 'closed', 'created_at': '2021-07-23T09:45:35Z', 'closed_at': '2021-07-23T10:40:38Z', 'labels': []}
+{'issuenumber': 2406, 'title': '[bug] AuxPow functional test fails intermittently ', 'state': 'closed', 'created_at': '2021-07-16T23:24:38Z', 'closed_at': '2021-08-04T13:54:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 2405, 'title': 'Why this transaction still unconfirmed ? the satoshi per byte is enough', 'state': 'closed', 'created_at': '2021-07-16T05:48:48Z', 'closed_at': '2021-07-18T10:07:33Z', 'labels': []}
+{'issuenumber': 2404, 'title': '[feat] Why not restore the number of dogecoin to a limited number?', 'state': 'closed', 'created_at': '2021-07-16T05:48:24Z', 'closed_at': '2021-07-16T18:26:26Z', 'labels': []}
+{'issuenumber': 2400, 'title': '[bug] Failing CI for OPENSSL', 'state': 'closed', 'created_at': '2021-07-14T20:27:56Z', 'closed_at': '2022-02-14T17:50:02Z', 'labels': {'name': 'dependencies'}}
+{'issuenumber': 2397, 'title': 'Max Supply 250.000.000.000', 'state': 'closed', 'created_at': '2021-07-14T14:19:49Z', 'closed_at': '2021-07-14T20:47:43Z', 'labels': []}
+{'issuenumber': 2391, 'title': 'Verify signed message ', 'state': 'closed', 'created_at': '2021-07-11T15:54:11Z', 'closed_at': '2021-07-11T16:27:02Z', 'labels': []}
+{'issuenumber': 2386, 'title': 'How does Dogecoin relay transaction', 'state': 'closed', 'created_at': '2021-07-10T21:26:13Z', 'closed_at': '2021-07-10T23:00:20Z', 'labels': {'name': 'question'}}
+{'issuenumber': 2384, 'title': 'Add "dogecoin developers" wallet on README.md', 'state': 'closed', 'created_at': '2021-07-10T16:33:09Z', 'closed_at': '2021-09-03T11:36:01Z', 'labels': {'name': 'question'}}
+{'issuenumber': 2379, 'title': 'Methods to generate signed message and verify it', 'state': 'closed', 'created_at': '2021-07-09T07:30:49Z', 'closed_at': '2021-07-09T14:12:08Z', 'labels': []}
+{'issuenumber': 2376, 'title': 'Official Node APIs', 'state': 'closed', 'created_at': '2021-07-08T06:55:54Z', 'closed_at': '2021-07-10T23:01:17Z', 'labels': []}
+{'issuenumber': 2374, 'title': 'Please make a roadmap for this whole project.  Then the new developer can collaborate.', 'state': 'closed', 'created_at': '2021-07-07T20:28:45Z', 'closed_at': '2021-07-10T23:01:48Z', 'labels': []}
+{'issuenumber': 2371, 'title': '[feat]', 'state': 'closed', 'created_at': '2021-07-07T13:56:47Z', 'closed_at': '2021-07-07T13:58:17Z', 'labels': []}
+{'issuenumber': 2369, 'title': '[bug] gitian development setup - osslsigncode 1.7.1 gives 404 error from sourceforge', 'state': 'closed', 'created_at': '2021-07-07T02:32:07Z', 'closed_at': '2021-07-11T21:40:49Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 2367, 'title': 'Dockerfile', 'state': 'closed', 'created_at': '2021-07-05T14:44:16Z', 'closed_at': '2021-11-12T16:02:27Z', 'labels': []}
+{'issuenumber': 2366, 'title': 'Docker node setup', 'state': 'closed', 'created_at': '2021-07-05T14:34:49Z', 'closed_at': '2021-11-12T16:02:40Z', 'labels': []}
+{'issuenumber': 2363, 'title': 'Which Proof of Work crypto should  Pool support next? ', 'state': 'closed', 'created_at': '2021-07-02T19:22:58Z', 'closed_at': '2021-07-02T19:24:08Z', 'labels': []}
+{'issuenumber': 2354, 'title': 'DOGE marketplace', 'state': 'closed', 'created_at': '2021-06-30T22:55:41Z', 'closed_at': '2021-06-30T23:14:52Z', 'labels': []}
+{'issuenumber': 2353, 'title': 'How can i add doge coin payment method. in  my website.... ', 'state': 'closed', 'created_at': '2021-06-29T19:55:09Z', 'closed_at': '2021-06-29T20:01:13Z', 'labels': []}
+{'issuenumber': 2351, 'title': '[bug] berkeleydb 5.1 - package has no installation candidate', 'state': 'closed', 'created_at': '2021-06-28T20:41:01Z', 'closed_at': '2021-06-28T21:01:22Z', 'labels': []}
+{'issuenumber': 2350, 'title': 'THIS TRANSACTION IS NOT STANDARD AND SHOULD NOT BE TRUSTED [bug] ', 'state': 'closed', 'created_at': '2021-06-28T04:46:16Z', 'closed_at': '2021-08-21T03:13:07Z', 'labels': {'name': 'external'}}
+{'issuenumber': 2340, 'title': 'Depends build dependencies', 'state': 'closed', 'created_at': '2021-06-25T13:32:09Z', 'closed_at': '2021-09-02T02:02:19Z', 'labels': []}
+{'issuenumber': 2338, 'title': '[bug] [1.14.4-dev] Qt keyboard detection issue /w german keyboard layout', 'state': 'closed', 'created_at': '2021-06-24T02:37:49Z', 'closed_at': '2021-11-01T22:05:56Z', 'labels': []}
+{'issuenumber': 2336, 'title': 'Transaction not eligible for abandonment', 'state': 'closed', 'created_at': '2021-06-23T12:20:20Z', 'closed_at': '2021-08-21T03:12:52Z', 'labels': []}
+{'issuenumber': 2319, 'title': '[bug] ', 'state': 'closed', 'created_at': '2021-06-19T00:55:48Z', 'closed_at': '2021-06-19T19:40:50Z', 'labels': []}
+{'issuenumber': 2318, 'title': '[feat] ', 'state': 'closed', 'created_at': '2021-06-19T00:54:44Z', 'closed_at': '2021-06-19T19:41:12Z', 'labels': []}
+{'issuenumber': 2317, 'title': '[feat] ', 'state': 'closed', 'created_at': '2021-06-19T00:54:04Z', 'closed_at': '2021-06-19T19:41:19Z', 'labels': []}
+{'issuenumber': 2316, 'title': 'Relevance of qt4 dependency for build instructions', 'state': 'closed', 'created_at': '2021-06-18T14:09:41Z', 'closed_at': '2021-09-01T21:39:32Z', 'labels': []}
+{'issuenumber': 2310, 'title': "[feat] Fetch wallet version on client's start", 'state': 'closed', 'created_at': '2021-06-15T16:48:30Z', 'closed_at': '2021-09-03T11:56:21Z', 'labels': []}
+{'issuenumber': 2307, 'title': 'Não sei oq e isso', 'state': 'closed', 'created_at': '2021-06-14T00:38:29Z', 'closed_at': '2021-06-14T18:39:18Z', 'labels': []}
+{'issuenumber': 2305, 'title': 'Quero ganhar dinheiro tô em momento de nececidade 🙏', 'state': 'closed', 'created_at': '2021-06-13T19:32:22Z', 'closed_at': '2021-06-13T21:06:42Z', 'labels': []}
+{'issuenumber': 2293, 'title': '[feat] Tutorial/Hints/Tips and Tricks Section/Window/Popup', 'state': 'closed', 'created_at': '2021-06-10T15:08:36Z', 'closed_at': '2021-08-21T03:12:08Z', 'labels': []}
+{'issuenumber': 2282, 'title': '[vulnerability] Disconnect stalling peers after timeout of header sync', 'state': 'closed', 'created_at': '2021-06-09T12:50:22Z', 'closed_at': '2021-08-21T01:06:01Z', 'labels': []}
+{'issuenumber': 2281, 'title': '[vulnerability] Do not connect a corrupted block', 'state': 'closed', 'created_at': '2021-06-09T12:49:58Z', 'closed_at': '2021-11-01T15:38:27Z', 'labels': []}
+{'issuenumber': 2280, 'title': '[vulnerability] A newly appended block header should not build on an invalid chain', 'state': 'closed', 'created_at': '2021-06-09T12:49:08Z', 'closed_at': '2021-08-20T21:17:07Z', 'labels': []}
+{'issuenumber': 2271, 'title': 'Docs4Doge Initiative - Update the Dogecoin documentation', 'state': 'closed', 'created_at': '2021-06-08T15:56:33Z', 'closed_at': '2022-05-28T12:38:32Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 2269, 'title': 'Create a chat application such as WhatsApp Telegram, etc... (with a wallet to send and withdraw)[feat] ', 'state': 'closed', 'created_at': '2021-06-06T18:42:36Z', 'closed_at': '2021-06-06T21:15:45Z', 'labels': []}
+{'issuenumber': 2266, 'title': "cap is needed...period. work on it or not. but, I'm right about this.", 'state': 'closed', 'created_at': '2021-06-06T11:57:26Z', 'closed_at': '2021-06-06T17:39:55Z', 'labels': []}
+{'issuenumber': 2263, 'title': '[bug] Potential security issue with the released binaries', 'state': 'closed', 'created_at': '2021-06-06T09:26:03Z', 'closed_at': '2021-08-31T23:07:36Z', 'labels': []}
+{'issuenumber': 2251, 'title': '[feat] DOGE to become a shard on ethereum?', 'state': 'closed', 'created_at': '2021-06-05T06:31:56Z', 'closed_at': '2021-06-05T15:21:07Z', 'labels': []}
+{'issuenumber': 2246, 'title': 'Skip getauxblock tests when wallet disabled', 'state': 'closed', 'created_at': '2021-06-04T09:15:31Z', 'closed_at': '2021-06-05T09:12:22Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 2240, 'title': '[feat] Sort Nodes by Data Sent or Received and or by Upload/Download speed', 'state': 'closed', 'created_at': '2021-06-03T20:20:01Z', 'closed_at': '2021-06-08T18:04:34Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 2239, 'title': ' I lost my phone with dogecoin wallet. I have the back up file. Pls help me how to recover it. Thank you ', 'state': 'closed', 'created_at': '2021-06-03T09:25:37Z', 'closed_at': '2021-06-03T15:48:56Z', 'labels': []}
+{'issuenumber': 2231, 'title': 'Decide on alert support for 1.21', 'state': 'closed', 'created_at': '2021-06-02T08:14:41Z', 'closed_at': '2021-06-04T01:12:24Z', 'labels': []}
+{'issuenumber': 2230, 'title': 'Priority decreasing per transaction', 'state': 'closed', 'created_at': '2021-06-01T17:35:05Z', 'closed_at': '2021-06-01T19:33:17Z', 'labels': []}
+{'issuenumber': 2229, 'title': '[bug] 1.21 - depends/boost download fails', 'state': 'closed', 'created_at': '2021-06-01T15:08:45Z', 'closed_at': '2021-06-06T09:56:05Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 2228, 'title': '[feat] Add Dogecoin Core to Winget', 'state': 'closed', 'created_at': '2021-06-01T09:38:34Z', 'closed_at': '2021-06-03T15:51:01Z', 'labels': []}
+{'issuenumber': 2226, 'title': 'Why not work on a pool to switch to all cryptocurrencies (the base currency to switch is Dogecoin). We are adding it to the main Dogecoin website. Thus, it is possible to make the values of other currencies mainly related to Dogecoin or it is possible to increase the market value significantly because it will be an intermediate currency for all cryptocurrencies [feat] ', 'state': 'closed', 'created_at': '2021-05-31T16:33:11Z', 'closed_at': '2021-05-31T18:06:27Z', 'labels': []}
+{'issuenumber': 2225, 'title': 'Align generation of coins to market demands', 'state': 'closed', 'created_at': '2021-05-31T07:01:01Z', 'closed_at': '2021-05-31T12:56:53Z', 'labels': []}
+{'issuenumber': 2220, 'title': '[feat] Continue MultiDoge development or develop its alternative', 'state': 'closed', 'created_at': '2021-05-30T14:48:33Z', 'closed_at': '2021-05-30T20:22:28Z', 'labels': []}
+{'issuenumber': 2216, 'title': '"Zoom link"-like wallet installation/payment', 'state': 'closed', 'created_at': '2021-05-30T11:18:35Z', 'closed_at': '2021-09-03T12:12:34Z', 'labels': {'name': 'referred to discussions'}}
+{'issuenumber': 2214, 'title': '[bug] Need to fix errors of Qt locale bitcoin_ko_KR.ts file for 1.14.4-dev', 'state': 'closed', 'created_at': '2021-05-30T05:32:43Z', 'closed_at': '2021-08-20T21:17:07Z', 'labels': {'name': 'UI'}}
+{'issuenumber': 2213, 'title': '[feat] DOGE NEEDS A CAP', 'state': 'closed', 'created_at': '2021-05-30T05:23:59Z', 'closed_at': '2021-05-30T10:13:45Z', 'labels': []}
+{'issuenumber': 2212, 'title': 'Delete if irrelevant (first time developer motivation)', 'state': 'closed', 'created_at': '2021-05-29T22:28:59Z', 'closed_at': '2021-05-30T13:31:59Z', 'labels': []}
+{'issuenumber': 2209, 'title': '[feat] can we create a way for active devs to get a % or commision of transaction fees? At least a fund me page or some way to tip them in doge for their hard work  ', 'state': 'closed', 'created_at': '2021-05-29T16:19:10Z', 'closed_at': '2021-05-29T19:52:18Z', 'labels': []}
+{'issuenumber': 2208, 'title': 'Expand dogecoin to DecentralisedCommerce', 'state': 'closed', 'created_at': '2021-05-29T11:46:18Z', 'closed_at': '2021-05-29T19:55:24Z', 'labels': []}
+{'issuenumber': 2207, 'title': 'Increase value of one doge compared to fiat currencies', 'state': 'closed', 'created_at': '2021-05-29T11:37:04Z', 'closed_at': '2021-05-29T15:41:03Z', 'labels': []}
+{'issuenumber': 2206, 'title': 'I hope that adding a second-hand goods trading function to DogeCoin will enable DogeCoin to cut into the goods exchange link.[feat] ', 'state': 'closed', 'created_at': '2021-05-29T09:56:21Z', 'closed_at': '2021-05-29T20:05:47Z', 'labels': []}
+{'issuenumber': 2205, 'title': 'why use this repository.  please explain it. ', 'state': 'closed', 'created_at': '2021-05-29T07:40:52Z', 'closed_at': '2021-05-29T20:06:18Z', 'labels': []}
+{'issuenumber': 2202, 'title': '[feat] Snapshot of current state', 'state': 'closed', 'created_at': '2021-05-28T22:37:09Z', 'closed_at': '2021-05-28T22:59:01Z', 'labels': []}
+{'issuenumber': 2199, 'title': 'Without Private key? ', 'state': 'closed', 'created_at': '2021-05-28T10:22:04Z', 'closed_at': '2021-05-29T00:01:34Z', 'labels': []}
+{'issuenumber': 2197, 'title': '[bug] ', 'state': 'closed', 'created_at': '2021-05-27T22:23:33Z', 'closed_at': '2021-05-28T00:46:39Z', 'labels': []}
+{'issuenumber': 2196, 'title': "[feat] Doge Should Seriously Consider VeriBlock Implementation to Inherit BTC Hash Power and Reduce the Power Required to Secure It's Network", 'state': 'closed', 'created_at': '2021-05-27T20:38:02Z', 'closed_at': '2021-05-28T22:55:00Z', 'labels': []}
+{'issuenumber': 2194, 'title': 'Dogecoin Transaction Security', 'state': 'closed', 'created_at': '2021-05-27T19:37:45Z', 'closed_at': '2021-09-03T05:33:17Z', 'labels': {'name': 'referred to discussions'}}
+{'issuenumber': 2193, 'title': '[feat] ', 'state': 'closed', 'created_at': '2021-05-27T18:12:28Z', 'closed_at': '2021-05-28T00:59:38Z', 'labels': []}
+{'issuenumber': 2190, 'title': 'Accept Dogecoin as payment for starlink ', 'state': 'closed', 'created_at': '2021-05-27T13:19:46Z', 'closed_at': '2021-05-27T15:29:18Z', 'labels': []}
+{'issuenumber': 2189, 'title': 'Make Tesla car pay automatically with dogecoin at charging station[feat] ', 'state': 'closed', 'created_at': '2021-05-27T13:18:57Z', 'closed_at': '2021-05-27T14:58:24Z', 'labels': []}
+{'issuenumber': 2188, 'title': '[feat] make it limited for now', 'state': 'closed', 'created_at': '2021-05-27T11:37:56Z', 'closed_at': '2021-05-27T15:29:27Z', 'labels': []}
+{'issuenumber': 2186, 'title': ' I was thinking of how to make it more practical and reduce energy consumption. So like the charging station in homes for the Tesla what if we had a smaller charging station that we could use to mine for said coins?  I did the math there are roughly 5 billion cell phones in the world and 2.17 billion smart phones. @ .25 to charge just a phone if that cost was reduced by using a charging station 2.17 billion * .25 is roughly 500 million dollars we would not be putting into the electric companies pockets. If cars will be mostly electric it only makes sense we would transition other devices in the same manor. So how does it help doge? Well simply put we would be using renewable energy on the  devices we mine with.[feat] ', 'state': 'closed', 'created_at': '2021-05-27T09:22:19Z', 'closed_at': '2021-05-27T10:28:03Z', 'labels': []}
+{'issuenumber': 2185, 'title': '[feat] Create an automated NFT rewards program', 'state': 'closed', 'created_at': '2021-05-27T07:27:17Z', 'closed_at': '2021-05-27T15:29:41Z', 'labels': []}
+{'issuenumber': 2184, 'title': '[feat] ', 'state': 'closed', 'created_at': '2021-05-27T06:33:19Z', 'closed_at': '2021-05-27T10:31:37Z', 'labels': []}
+{'issuenumber': 2183, 'title': 'New Consensus algorithm', 'state': 'closed', 'created_at': '2021-05-27T05:33:10Z', 'closed_at': '2021-05-27T10:33:04Z', 'labels': []}
+{'issuenumber': 2182, 'title': '[feat] Doing.Only.Good.Environmentally', 'state': 'closed', 'created_at': '2021-05-27T04:55:12Z', 'closed_at': '2021-05-27T10:37:21Z', 'labels': []}
+{'issuenumber': 2181, 'title': '[feat] Doing.Only.Good.Environmentally \U0001f91f🏻🌱❤️', 'state': 'closed', 'created_at': '2021-05-27T04:50:31Z', 'closed_at': '2021-05-27T10:37:12Z', 'labels': []}
+{'issuenumber': 2180, 'title': 'Can’t Beat A Win Win! ', 'state': 'closed', 'created_at': '2021-05-27T04:24:26Z', 'closed_at': '2021-05-27T10:34:18Z', 'labels': []}
+{'issuenumber': 2179, 'title': '[feat] ', 'state': 'closed', 'created_at': '2021-05-27T04:23:39Z', 'closed_at': '2021-05-27T10:36:33Z', 'labels': []}
+{'issuenumber': 2178, 'title': '[feat] Make the computation output of mining Doge the crowd-computation of processing SETI images to look for habitable planets in the cosmos', 'state': 'closed', 'created_at': '2021-05-27T00:49:13Z', 'closed_at': '2021-05-27T10:31:17Z', 'labels': []}
+{'issuenumber': 2177, 'title': '[feat] i would like to develop the RPi4 board with minimal scripts and power consumption', 'state': 'closed', 'created_at': '2021-05-27T00:47:15Z', 'closed_at': '2021-05-27T10:36:16Z', 'labels': []}
+{'issuenumber': 2176, 'title': 'Ideas for Elon Musk / Tesla regarding Doge mining[feat] ', 'state': 'closed', 'created_at': '2021-05-27T00:20:22Z', 'closed_at': '2021-05-27T15:23:23Z', 'labels': []}
+{'issuenumber': 2175, 'title': 'Dogecoin In Videogames', 'state': 'closed', 'created_at': '2021-05-26T23:15:18Z', 'closed_at': '2021-05-26T23:18:18Z', 'labels': []}
+{'issuenumber': 2174, 'title': '[feat] dont know how it would be done just some ideas', 'state': 'closed', 'created_at': '2021-05-26T22:29:30Z', 'closed_at': '2021-05-26T23:03:20Z', 'labels': []}
+{'issuenumber': 2173, 'title': '[feat] charity to help the people the coin represents', 'state': 'closed', 'created_at': '2021-05-26T21:58:15Z', 'closed_at': '2021-05-26T22:09:56Z', 'labels': []}
+{'issuenumber': 2172, 'title': '[feat] Little Rabbit Coin', 'state': 'closed', 'created_at': '2021-05-26T20:05:37Z', 'closed_at': '2021-05-26T20:11:59Z', 'labels': []}
+{'issuenumber': 2170, 'title': 'Suggest checking "help wanted" issues in CONTRIBUTING.md', 'state': 'closed', 'created_at': '2021-05-26T19:43:24Z', 'closed_at': '2021-08-21T07:23:28Z', 'labels': []}
+{'issuenumber': 2169, 'title': 'FEATURE REQUEST/DESCRIBE ALTERNATIVE ', 'state': 'closed', 'created_at': '2021-05-26T19:22:39Z', 'closed_at': '2021-05-26T19:29:34Z', 'labels': []}
+{'issuenumber': 2168, 'title': 'Telsa cars sold with doge', 'state': 'closed', 'created_at': '2021-05-26T18:48:36Z', 'closed_at': '2021-05-26T19:05:28Z', 'labels': []}
+{'issuenumber': 2165, 'title': 'Give much wow rewards to doge miners which they can use later to go to the moon 🚀 ', 'state': 'closed', 'created_at': '2021-05-26T18:03:35Z', 'closed_at': '2021-05-26T18:03:59Z', 'labels': []}
+{'issuenumber': 2163, 'title': '[feat] would it be possible to integrate Doge with Inu in the same way etherium uses ether? This combined with staking rewards creates a surplus for doge to pull from in its rewards. Losing the amount of doge that’s mined at its current pace while still establishing a reward and further incentive to hold. Integration with the cosmos network and discussion about use via cosmos for micro transactions across digital mediums would be practical under that formula, would it not?', 'state': 'closed', 'created_at': '2021-05-26T16:20:42Z', 'closed_at': '2021-05-26T17:00:29Z', 'labels': []}
+{'issuenumber': 2162, 'title': 'Delete INSTALL.md [or remove installation instruction from README]', 'state': 'closed', 'created_at': '2021-05-26T16:14:42Z', 'closed_at': '2021-09-01T21:37:04Z', 'labels': []}
+{'issuenumber': 2161, 'title': 'Simplified fun UI', 'state': 'closed', 'created_at': '2021-05-26T15:59:34Z', 'closed_at': '2021-05-26T17:21:23Z', 'labels': []}
+{'issuenumber': 2160, 'title': 'A Dogecoin ATM. You guys can make a Dogecoin Card Wallet!', 'state': 'closed', 'created_at': '2021-05-26T15:50:58Z', 'closed_at': '2021-05-26T17:21:10Z', 'labels': []}
+{'issuenumber': 2159, 'title': 'Allow transaction reversal when fraud happens', 'state': 'closed', 'created_at': '2021-05-26T15:49:33Z', 'closed_at': '2021-05-26T18:06:16Z', 'labels': []}
+{'issuenumber': 2158, 'title': 'Dogecoin for Real Estate Transactions', 'state': 'closed', 'created_at': '2021-05-26T15:39:21Z', 'closed_at': '2021-05-26T17:22:44Z', 'labels': []}
+{'issuenumber': 2156, 'title': 'Multiplanetary cryptocurrency system', 'state': 'closed', 'created_at': '2021-05-26T15:11:59Z', 'closed_at': '2021-05-26T17:23:23Z', 'labels': []}
+{'issuenumber': 2155, 'title': 'Doge Development', 'state': 'closed', 'created_at': '2021-05-26T14:50:15Z', 'closed_at': '2021-05-26T17:26:10Z', 'labels': []}
+{'issuenumber': 2153, 'title': 'Supply', 'state': 'closed', 'created_at': '2021-05-26T14:00:52Z', 'closed_at': '2021-05-26T16:00:29Z', 'labels': []}
+{'issuenumber': 2152, 'title': 'Add DOGE coin wallet to Tesla cars and pay for charging in DOGE', 'state': 'closed', 'created_at': '2021-05-26T13:53:36Z', 'closed_at': '2021-05-26T17:26:40Z', 'labels': []}
+{'issuenumber': 2151, 'title': 'Mining cryptocurrency on the moon using nuclear energy ', 'state': 'closed', 'created_at': '2021-05-26T13:53:16Z', 'closed_at': '2021-05-26T18:03:26Z', 'labels': []}
+{'issuenumber': 2150, 'title': '[feat] let the exchange platforms issue similar instruments like the banks, letter of credit, bank guarantee, SLBC, or any MT blocked funds. That will make it easier for the companies to be a part of that. 🤜💎🤛 ', 'state': 'closed', 'created_at': '2021-05-26T13:35:17Z', 'closed_at': '2021-05-26T18:40:37Z', 'labels': []}
+{'issuenumber': 2149, 'title': '[bug] Please upgrade ZMQ library: the old one used misses some transactions', 'state': 'closed', 'created_at': '2021-05-26T12:59:00Z', 'closed_at': '2021-08-20T21:17:07Z', 'labels': {'name': 'dependencies'}}
+{'issuenumber': 2147, 'title': 'Upgrade Dogeoind daemon ', 'state': 'closed', 'created_at': '2021-05-26T12:05:25Z', 'closed_at': '2021-09-01T00:03:35Z', 'labels': []}
+{'issuenumber': 2146, 'title': 'To limit supply of Dogecoin', 'state': 'closed', 'created_at': '2021-05-26T11:59:05Z', 'closed_at': '2021-05-26T18:11:49Z', 'labels': []}
+{'issuenumber': 2144, 'title': 'Can we neuter Doge coin?', 'state': 'closed', 'created_at': '2021-05-26T08:30:23Z', 'closed_at': '2021-05-26T09:06:50Z', 'labels': []}
+{'issuenumber': 2142, 'title': '[feat] a newly systematic blockchain needs to be.', 'state': 'closed', 'created_at': '2021-05-26T04:11:57Z', 'closed_at': '2021-05-26T20:20:07Z', 'labels': []}
+{'issuenumber': 2141, 'title': 'VERY LOW SPEED ', 'state': 'closed', 'created_at': '2021-05-26T01:30:11Z', 'closed_at': '2021-05-26T23:13:36Z', 'labels': []}
+{'issuenumber': 2138, 'title': 'In a Windows environment, running make HOST=x86_64-w64-mingw32 throws various syntax errors', 'state': 'closed', 'created_at': '2021-05-25T23:23:22Z', 'closed_at': '2021-09-01T20:55:05Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 2137, 'title': 'Proof of Stake', 'state': 'closed', 'created_at': '2021-05-25T22:53:58Z', 'closed_at': '2021-05-25T23:04:35Z', 'labels': []}
+{'issuenumber': 2136, 'title': 'Not necessarily a new feature but anybody know how to post on the reddit when your Karma is too low? ', 'state': 'closed', 'created_at': '2021-05-25T21:57:08Z', 'closed_at': '2021-09-01T20:58:06Z', 'labels': []}
+{'issuenumber': 2135, 'title': '[feat] Dogepal', 'state': 'closed', 'created_at': '2021-05-25T21:55:36Z', 'closed_at': '2021-05-25T22:10:07Z', 'labels': []}
+{'issuenumber': 2134, 'title': '如何解决因为经济危机结束导致加密货币暴跌？', 'state': 'closed', 'created_at': '2021-05-25T21:50:28Z', 'closed_at': '2021-05-25T22:08:17Z', 'labels': []}
+{'issuenumber': 2133, 'title': 'The Great RESET - OBJECTIVELY to get it right!', 'state': 'closed', 'created_at': '2021-05-25T21:11:22Z', 'closed_at': '2021-05-25T21:22:32Z', 'labels': []}
+{'issuenumber': 2131, 'title': '[feat] Elon start a Dogecoin market place. To the moooon!!!', 'state': 'closed', 'created_at': '2021-05-25T21:11:11Z', 'closed_at': '2021-05-25T21:13:40Z', 'labels': []}
+{'issuenumber': 2129, 'title': '[feat] My NFT Colletion Buy Dogecoin ', 'state': 'closed', 'created_at': '2021-05-25T20:55:47Z', 'closed_at': '2021-05-25T21:09:17Z', 'labels': []}
+{'issuenumber': 2128, 'title': 'Github Discussions', 'state': 'closed', 'created_at': '2021-05-25T20:41:55Z', 'closed_at': '2021-06-05T21:15:15Z', 'labels': []}
+{'issuenumber': 2127, 'title': '[feat] Spin Up Organization For DOGE Project', 'state': 'closed', 'created_at': '2021-05-25T20:30:39Z', 'closed_at': '2021-05-25T20:33:22Z', 'labels': []}
+{'issuenumber': 2126, 'title': '[feat] performance improvement by tuning block parameters', 'state': 'closed', 'created_at': '2021-05-25T20:23:19Z', 'closed_at': '2021-05-25T20:35:01Z', 'labels': []}
+{'issuenumber': 2124, 'title': 'Peer-to-Peer Dogecoin Relay Network (based on Starlink)', 'state': 'closed', 'created_at': '2021-05-25T20:07:44Z', 'closed_at': '2021-09-01T12:21:09Z', 'labels': {'name': 'external'}}
+{'issuenumber': 2123, 'title': 'Dogecoin 1.21 QT Wallet UI', 'state': 'closed', 'created_at': '2021-05-25T19:37:30Z', 'closed_at': '2021-05-25T20:10:55Z', 'labels': []}
+{'issuenumber': 2120, 'title': '[feat] Carbon Neutral Mining - heat reusage / decentralized aspects', 'state': 'closed', 'created_at': '2021-05-25T17:30:33Z', 'closed_at': '2021-05-25T17:34:04Z', 'labels': []}
+{'issuenumber': 2119, 'title': 'Prevent market manipulation buy whales using tokenomics', 'state': 'closed', 'created_at': '2021-05-25T17:11:26Z', 'closed_at': '2021-05-25T17:27:12Z', 'labels': []}
+{'issuenumber': 2118, 'title': '[bug] ', 'state': 'closed', 'created_at': '2021-05-25T17:04:07Z', 'closed_at': '2021-05-25T17:11:53Z', 'labels': []}
+{'issuenumber': 2114, 'title': '[feat] Suggest to make a mining machine for renewable energy activity used', 'state': 'closed', 'created_at': '2021-05-25T16:18:38Z', 'closed_at': '2021-05-25T16:19:26Z', 'labels': []}
+{'issuenumber': 2113, 'title': "Do not follow Bitcoin's development model", 'state': 'closed', 'created_at': '2021-05-25T16:16:51Z', 'closed_at': '2021-05-25T16:19:46Z', 'labels': []}
+{'issuenumber': 2112, 'title': '[bug] QR code on Android says invalid Dogecoin URI', 'state': 'closed', 'created_at': '2021-05-25T15:50:26Z', 'closed_at': '2021-05-27T10:40:22Z', 'labels': []}
+{'issuenumber': 2109, 'title': '[feat] Doge as a multi-chain même protocol', 'state': 'closed', 'created_at': '2021-05-25T15:03:01Z', 'closed_at': '2021-05-25T16:22:08Z', 'labels': []}
+{'issuenumber': 2108, 'title': '[feat]  Free Tesla for every Dogecoin holder', 'state': 'closed', 'created_at': '2021-05-25T14:56:49Z', 'closed_at': '2021-05-25T15:17:22Z', 'labels': []}
+{'issuenumber': 2107, 'title': '[feat] PoT (Proof of Thought)', 'state': 'closed', 'created_at': '2021-05-25T14:33:37Z', 'closed_at': '2021-05-25T15:43:28Z', 'labels': []}
+{'issuenumber': 2106, 'title': '[feat] ', 'state': 'closed', 'created_at': '2021-05-25T14:31:17Z', 'closed_at': '2021-05-25T15:44:33Z', 'labels': []}
+{'issuenumber': 2105, 'title': '[feat] lukeenterprise', 'state': 'closed', 'created_at': '2021-05-25T14:09:36Z', 'closed_at': '2021-05-25T15:17:48Z', 'labels': []}
+{'issuenumber': 2103, 'title': '[feat] Garbage Collection', 'state': 'closed', 'created_at': '2021-05-25T14:06:03Z', 'closed_at': '2021-05-25T15:47:36Z', 'labels': []}
+{'issuenumber': 2102, 'title': '[feat] Mine using Neuralink ', 'state': 'closed', 'created_at': '2021-05-25T14:03:21Z', 'closed_at': '2021-05-25T15:48:16Z', 'labels': []}
+{'issuenumber': 2101, 'title': '[feat] Make Dogecoin the currency for use in social media apps', 'state': 'closed', 'created_at': '2021-05-25T13:54:23Z', 'closed_at': '2021-05-25T15:49:27Z', 'labels': []}
+{'issuenumber': 2100, 'title': 'IDEA Multiplanetary', 'state': 'closed', 'created_at': '2021-05-25T13:43:23Z', 'closed_at': '2021-05-25T15:50:22Z', 'labels': []}
+{'issuenumber': 2098, 'title': '[feat] POT - Proof Of Tesla (ᵔᴥᵔ)', 'state': 'closed', 'created_at': '2021-05-25T13:22:47Z', 'closed_at': '2021-05-25T13:26:42Z', 'labels': []}
+{'issuenumber': 2097, 'title': 'DOGE in Gaming/Twitch Community ', 'state': 'closed', 'created_at': '2021-05-25T12:11:20Z', 'closed_at': '2021-05-25T15:53:43Z', 'labels': []}
+{'issuenumber': 2096, 'title': 'DOGECOIN IS ALIVE: A SOLUTION FOR THE WORLD', 'state': 'closed', 'created_at': '2021-05-25T12:02:45Z', 'closed_at': '2021-05-25T15:52:58Z', 'labels': []}
+{'issuenumber': 2095, 'title': '[Discussion] End Goal of Dogecoin', 'state': 'closed', 'created_at': '2021-05-25T11:55:20Z', 'closed_at': '2021-05-25T16:59:57Z', 'labels': []}
+{'issuenumber': 2094, 'title': '[feat] Why not create a app where you can purchase doge and use it to purchase goods inside the app cheaper than you could get things with USD? ', 'state': 'closed', 'created_at': '2021-05-25T11:50:30Z', 'closed_at': '2021-05-25T15:55:12Z', 'labels': []}
+{'issuenumber': 2093, 'title': 'Dogecoin for the needy. Doge saves lives.', 'state': 'closed', 'created_at': '2021-05-25T11:38:12Z', 'closed_at': '2021-05-25T15:56:00Z', 'labels': []}
+{'issuenumber': 2092, 'title': 'Suggestions for Doge devs', 'state': 'closed', 'created_at': '2021-05-25T11:10:35Z', 'closed_at': '2021-05-25T15:56:36Z', 'labels': []}
+{'issuenumber': 2091, 'title': 'DAAS: DOGE as a Service', 'state': 'closed', 'created_at': '2021-05-25T11:04:37Z', 'closed_at': '2021-05-25T15:57:19Z', 'labels': []}
+{'issuenumber': 2090, 'title': 'Devs I know you want to make it better.  Consider migrating to Iota  [feat] ', 'state': 'closed', 'created_at': '2021-05-25T10:13:37Z', 'closed_at': '2021-05-25T15:58:09Z', 'labels': {'name': 'major rework'}}
+{'issuenumber': 2089, 'title': '[feat] Make doge accept everywhere like google pay or make doge payment gateway', 'state': 'closed', 'created_at': '2021-05-25T10:05:02Z', 'closed_at': '2021-05-25T15:52:45Z', 'labels': {'name': 'external'}}
+{'issuenumber': 2088, 'title': '[feat] ', 'state': 'closed', 'created_at': '2021-05-25T10:04:27Z', 'closed_at': '2021-05-25T15:59:18Z', 'labels': []}
+{'issuenumber': 2087, 'title': '[feat] —A DogeSpaceMinning every rocket or satelite have the option to mining Doge and it will bee given away to all Holders', 'state': 'closed', 'created_at': '2021-05-25T09:38:17Z', 'closed_at': '2021-05-25T15:59:42Z', 'labels': []}
+{'issuenumber': 2086, 'title': '[feat] Build an NFT based Mars Game which uses Dogecoin as universal currrency.', 'state': 'closed', 'created_at': '2021-05-25T09:29:57Z', 'closed_at': '2021-05-25T16:01:51Z', 'labels': []}
+{'issuenumber': 2085, 'title': '[Make DOGECOIN net to a decentralized super computer that solve genetic stimulation projects] ', 'state': 'closed', 'created_at': '2021-05-25T09:25:21Z', 'closed_at': '2021-05-25T16:02:02Z', 'labels': []}
+{'issuenumber': 2084, 'title': 'Mine Doge in Space', 'state': 'closed', 'created_at': '2021-05-25T09:19:21Z', 'closed_at': '2021-05-25T16:02:12Z', 'labels': []}
+{'issuenumber': 2083, 'title': 'The future is very near', 'state': 'closed', 'created_at': '2021-05-25T09:01:27Z', 'closed_at': '2021-05-25T16:04:28Z', 'labels': {'name': 'external'}}
+{'issuenumber': 2082, 'title': '[feat] USE TESLA CARS FOR MINING. ', 'state': 'closed', 'created_at': '2021-05-25T08:53:32Z', 'closed_at': '2021-05-25T16:04:56Z', 'labels': []}
+{'issuenumber': 2081, 'title': 'A device which mines using solar power ', 'state': 'closed', 'created_at': '2021-05-25T08:52:25Z', 'closed_at': '2021-05-25T09:37:45Z', 'labels': []}
+{'issuenumber': 2080, 'title': 'FareShare Mining Idea - replying to Musk', 'state': 'closed', 'created_at': '2021-05-25T08:51:59Z', 'closed_at': '2021-05-25T16:05:50Z', 'labels': []}
+{'issuenumber': 2079, 'title': 'Cheap Energy Source', 'state': 'closed', 'created_at': '2021-05-25T08:06:00Z', 'closed_at': '2021-05-25T08:22:52Z', 'labels': {'name': 'external'}}
+{'issuenumber': 2078, 'title': 'Website for doge for future use.', 'state': 'closed', 'created_at': '2021-05-25T07:25:13Z', 'closed_at': '2021-05-25T07:35:51Z', 'labels': []}
+{'issuenumber': 2077, 'title': 'Payment for tesla only with DOGE ', 'state': 'closed', 'created_at': '2021-05-25T07:20:26Z', 'closed_at': '2021-05-25T16:06:12Z', 'labels': {'name': 'external'}}
+{'issuenumber': 2076, 'title': 'DogePay App for Android/iOS with free internal wallet transfers', 'state': 'closed', 'created_at': '2021-05-25T07:19:43Z', 'closed_at': '2021-05-25T16:07:07Z', 'labels': []}
+{'issuenumber': 2075, 'title': '[feat] Renewable Energy-Solar energy', 'state': 'closed', 'created_at': '2021-05-25T07:11:17Z', 'closed_at': '2021-05-25T07:24:48Z', 'labels': []}
+{'issuenumber': 2074, 'title': 'Updating CONTRIBUTING.md to reflect Dogecon && || adding a GOVERNANCE.md file', 'state': 'closed', 'created_at': '2021-05-25T06:48:55Z', 'closed_at': '2021-05-25T16:06:47Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 2073, 'title': '[feat] Switch codebase from core to libbitcoin', 'state': 'closed', 'created_at': '2021-05-25T06:21:31Z', 'closed_at': '2021-05-25T16:07:58Z', 'labels': {'name': 'major rework'}}
+{'issuenumber': 2072, 'title': ' Want Energy-Efficient Mining ? Build It Underwater', 'state': 'closed', 'created_at': '2021-05-25T06:18:58Z', 'closed_at': '2021-05-25T16:08:35Z', 'labels': {'name': 'external'}}
+{'issuenumber': 2071, 'title': 'Want Energy-Efficient Mining ? Build It Underwater', 'state': 'closed', 'created_at': '2021-05-25T06:16:20Z', 'closed_at': '2021-05-25T07:51:37Z', 'labels': {'name': 'external'}}
+{'issuenumber': 2070, 'title': 'Doge Auction[feat] ', 'state': 'closed', 'created_at': '2021-05-25T05:56:15Z', 'closed_at': '2021-05-25T16:09:52Z', 'labels': []}
+{'issuenumber': 2069, 'title': 'Mine doge using tesla', 'state': 'closed', 'created_at': '2021-05-25T05:41:20Z', 'closed_at': '2021-05-25T16:10:19Z', 'labels': {'name': 'external'}}
+{'issuenumber': 2068, 'title': '[feat] Virtual bank', 'state': 'closed', 'created_at': '2021-05-25T05:38:16Z', 'closed_at': '2021-05-25T07:14:33Z', 'labels': {'name': 'external'}}
+{'issuenumber': 2067, 'title': '[bug] Remove Elon Musk', 'state': 'closed', 'created_at': '2021-05-25T05:23:23Z', 'closed_at': '2021-05-25T07:57:45Z', 'labels': {'name': 'external'}}
+{'issuenumber': 2066, 'title': '[IDEA] move to proof of stake this year - move will be very possible with existing stakers on other chains', 'state': 'closed', 'created_at': '2021-05-25T05:20:18Z', 'closed_at': '2021-05-25T16:10:59Z', 'labels': {'name': 'major rework'}}
+{'issuenumber': 2064, 'title': '[feat] On-Chain Programming Language', 'state': 'closed', 'created_at': '2021-05-25T05:05:12Z', 'closed_at': '2021-05-25T16:11:47Z', 'labels': {'name': 'major rework'}}
+{'issuenumber': 2063, 'title': '[feat] Request -- Reduce ability of whales to pump and dump', 'state': 'closed', 'created_at': '2021-05-25T04:33:39Z', 'closed_at': '2021-05-25T16:12:45Z', 'labels': {'name': 'external'}}
+{'issuenumber': 2062, 'title': 'Tesla can hasten adoption of DOGE like this', 'state': 'closed', 'created_at': '2021-05-25T04:18:09Z', 'closed_at': '2021-05-25T07:03:56Z', 'labels': []}
+{'issuenumber': 2061, 'title': '[feat] Development Guideline & Documentation and Development Environment in VM', 'state': 'closed', 'created_at': '2021-05-25T04:10:59Z', 'closed_at': '2021-05-25T16:13:22Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 2060, 'title': 'Make lots of small miners', 'state': 'closed', 'created_at': '2021-05-25T03:53:11Z', 'closed_at': '2021-05-25T16:14:01Z', 'labels': {'name': 'external'}}
+{'issuenumber': 2059, 'title': 'Switch to Proof of Interaction, an algorithm that requires small amount of computational power while being secure. [feat]', 'state': 'closed', 'created_at': '2021-05-25T03:33:50Z', 'closed_at': '2021-05-25T17:38:47Z', 'labels': {'name': 'major rework'}}
+{'issuenumber': 2058, 'title': 'The doge days of summer fee free or reduced during this time period.July 3rd to August 11th ', 'state': 'closed', 'created_at': '2021-05-25T03:30:01Z', 'closed_at': '2021-05-25T16:15:28Z', 'labels': []}
+{'issuenumber': 2057, 'title': '[Limit the Dogecoin ]', 'state': 'closed', 'created_at': '2021-05-25T03:27:31Z', 'closed_at': '2021-05-25T07:01:22Z', 'labels': []}
+{'issuenumber': 2056, 'title': 'Limit the dogecoin ', 'state': 'closed', 'created_at': '2021-05-25T03:22:04Z', 'closed_at': '2021-05-25T06:59:25Z', 'labels': []}
+{'issuenumber': 2055, 'title': '[feat] Use Satrlink Network for doge transaction ', 'state': 'closed', 'created_at': '2021-05-25T03:20:03Z', 'closed_at': '2021-05-25T08:00:40Z', 'labels': []}
+{'issuenumber': 2054, 'title': 'It’s time to take over, no longer can we stand on the sidelines and let other coins pass us!', 'state': 'closed', 'created_at': '2021-05-25T03:13:32Z', 'closed_at': '2021-05-25T16:16:15Z', 'labels': []}
+{'issuenumber': 2053, 'title': 'Can you tie the price to Bitcoin so Bitcoin is the Gold and Doge is the Currency of the Gold? Say 1/10000 [feat] ', 'state': 'closed', 'created_at': '2021-05-25T03:07:07Z', 'closed_at': '2021-05-25T08:32:00Z', 'labels': {'name': 'external'}}
+{'issuenumber': 2052, 'title': 'Dogecoin is going to have Segwit and CSV, a must-have feature for Lightning Network.', 'state': 'closed', 'created_at': '2021-05-25T03:03:59Z', 'closed_at': '2021-05-25T16:17:14Z', 'labels': []}
+{'issuenumber': 2051, 'title': 'More Possible Transactions per Block', 'state': 'closed', 'created_at': '2021-05-25T02:40:20Z', 'closed_at': '2021-05-25T14:00:41Z', 'labels': []}
+{'issuenumber': 2050, 'title': '[feat] Practical Smart Contracts', 'state': 'closed', 'created_at': '2021-05-25T02:22:46Z', 'closed_at': '2021-05-25T17:10:31Z', 'labels': []}
+{'issuenumber': 2049, 'title': "Doge can not be people's crypto, if it is allowed to be concentrated!", 'state': 'closed', 'created_at': '2021-05-25T02:19:19Z', 'closed_at': '2021-05-25T16:18:48Z', 'labels': []}
+{'issuenumber': 2048, 'title': 'Limit Dogecoin supply, Make it a erc20 token, use doge as a governance token to make it a DAO', 'state': 'closed', 'created_at': '2021-05-25T02:14:46Z', 'closed_at': '2021-05-25T07:02:10Z', 'labels': []}
+{'issuenumber': 2047, 'title': '[bug] ', 'state': 'closed', 'created_at': '2021-05-25T01:48:31Z', 'closed_at': '2021-05-25T08:03:07Z', 'labels': {'name': 'external'}}
+{'issuenumber': 2046, 'title': '[feat] ARM port and ARM assembly optimization for energy savings', 'state': 'closed', 'created_at': '2021-05-25T01:47:37Z', 'closed_at': '2021-05-25T16:22:58Z', 'labels': []}
+{'issuenumber': 2045, 'title': '[idea] Integration of Neural Net and Search Engine for Proof of Work', 'state': 'closed', 'created_at': '2021-05-25T01:44:04Z', 'closed_at': '2021-05-25T07:09:52Z', 'labels': []}
+{'issuenumber': 2043, 'title': '[project-idea] creating a new system for life using dogecoin', 'state': 'closed', 'created_at': '2021-05-25T01:17:58Z', 'closed_at': '2021-05-25T16:22:46Z', 'labels': []}
+{'issuenumber': 2041, 'title': '[feat] Proof of D.O.G.E. ', 'state': 'closed', 'created_at': '2021-05-25T00:14:18Z', 'closed_at': '2021-05-25T14:07:42Z', 'labels': []}
+{'issuenumber': 2040, 'title': '[feat] marketing?', 'state': 'closed', 'created_at': '2021-05-25T00:12:34Z', 'closed_at': '2021-05-25T16:23:53Z', 'labels': []}
+{'issuenumber': 2039, 'title': "[feat] Use Elon Musk's connections to gain widespread political support", 'state': 'closed', 'created_at': '2021-05-25T00:02:45Z', 'closed_at': '2021-05-25T08:41:32Z', 'labels': []}
+{'issuenumber': 2038, 'title': '[feat] Migration off Litecoin, and further musings.', 'state': 'closed', 'created_at': '2021-05-24T23:59:19Z', 'closed_at': '2021-05-25T07:46:25Z', 'labels': []}
+{'issuenumber': 2037, 'title': 'Idea lava lamps as cpsrng', 'state': 'closed', 'created_at': '2021-05-24T23:44:17Z', 'closed_at': '2021-05-25T16:24:35Z', 'labels': []}
+{'issuenumber': 2036, 'title': "[feat] Make DOGE the Worlds's Currency", 'state': 'closed', 'created_at': '2021-05-24T23:27:29Z', 'closed_at': '2021-05-25T16:25:20Z', 'labels': []}
+{'issuenumber': 2034, 'title': '[feat] Stick to cars and rockets', 'state': 'closed', 'created_at': '2021-05-24T23:02:43Z', 'closed_at': '2021-05-24T23:30:31Z', 'labels': []}
+{'issuenumber': 2033, 'title': '[Ideal] Transactions containing numbers 69 or 420 should be without fee', 'state': 'closed', 'created_at': '2021-05-24T23:00:09Z', 'closed_at': '2021-05-25T16:54:33Z', 'labels': []}
+{'issuenumber': 2032, 'title': '[feat] Store arbitrary data along transactions (e.g. for NFT)', 'state': 'closed', 'created_at': '2021-05-24T22:58:42Z', 'closed_at': '2021-05-25T17:02:26Z', 'labels': []}
+{'issuenumber': 2029, 'title': 'Elon Musk‘s influence on Doge Coin', 'state': 'closed', 'created_at': '2021-05-24T22:48:34Z', 'closed_at': '2021-05-25T16:56:22Z', 'labels': {'name': 'external'}}
+{'issuenumber': 2028, 'title': '[feat] [SoftFork] Use a part of the block reward to give out an basic income / universal dividend ', 'state': 'closed', 'created_at': '2021-05-24T22:45:38Z', 'closed_at': '2021-05-25T16:53:21Z', 'labels': []}
+{'issuenumber': 2027, 'title': '[feat] Make doge 1000x faster, 1000000x cheaper, and 1000000x smaller in size, and 100000x more sustainable', 'state': 'closed', 'created_at': '2021-05-24T22:44:40Z', 'closed_at': '2021-05-24T23:39:31Z', 'labels': []}
+{'issuenumber': 2026, 'title': 'Doge card', 'state': 'closed', 'created_at': '2021-05-24T22:40:35Z', 'closed_at': '2021-05-24T23:38:40Z', 'labels': []}
+{'issuenumber': 2025, 'title': 'Ideas to developing Dogecoin', 'state': 'closed', 'created_at': '2021-05-24T22:18:24Z', 'closed_at': '2021-05-25T16:56:50Z', 'labels': []}
+{'issuenumber': 2024, 'title': '[feat] Radically improve Dogecoin by forking Nano: Zero fees, fastest cryptocurrency, no inflation, no mining', 'state': 'closed', 'created_at': '2021-05-24T22:17:24Z', 'closed_at': '2021-05-25T16:26:35Z', 'labels': []}
+{'issuenumber': 2023, 'title': '[feat] NFC Payment for mobile wallets', 'state': 'closed', 'created_at': '2021-05-24T22:14:34Z', 'closed_at': '2021-05-25T16:57:59Z', 'labels': []}
+{'issuenumber': 2021, 'title': '[bug] Repetitive header requests from 1.14.x nodes.', 'state': 'closed', 'created_at': '2021-05-24T21:46:08Z', 'closed_at': '2021-08-20T21:17:06Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 2020, 'title': '[feat] Make Dogecoin fungible aka real Money', 'state': 'closed', 'created_at': '2021-05-24T21:44:26Z', 'closed_at': '2021-05-25T16:58:29Z', 'labels': []}
+{'issuenumber': 2019, 'title': '[feat] Algorand of Oborus blockchains?', 'state': 'closed', 'created_at': '2021-05-24T21:42:44Z', 'closed_at': '2021-05-25T16:58:49Z', 'labels': []}
+{'issuenumber': 2018, 'title': 'Dogecoin Network Improvement Proposal', 'state': 'closed', 'created_at': '2021-05-24T21:36:34Z', 'closed_at': '2021-05-25T17:00:51Z', 'labels': []}
+{'issuenumber': 2017, 'title': 'Im a programmer with 15yrs some c++ exp how can I contribute for betterment of dogecoin. pls guide', 'state': 'closed', 'created_at': '2021-05-24T21:33:07Z', 'closed_at': '2021-09-03T05:15:53Z', 'labels': {'name': 'referred to discussions'}}
+{'issuenumber': 2014, 'title': '[feat] ARM or any energy efficient cpu Feature to be able to run doge blockchain on DOGE-1 sat', 'state': 'closed', 'created_at': '2021-05-24T21:05:55Z', 'closed_at': '2021-05-24T21:08:12Z', 'labels': []}
+{'issuenumber': 2013, 'title': '[feat] introduce sybil-resistant identity', 'state': 'closed', 'created_at': '2021-05-24T20:57:10Z', 'closed_at': '2021-05-25T17:08:28Z', 'labels': []}
+{'issuenumber': 2011, 'title': '[feat] Native iOS and macOS SwiftUI app', 'state': 'closed', 'created_at': '2021-05-24T20:34:16Z', 'closed_at': '2021-05-25T17:16:56Z', 'labels': []}
+{'issuenumber': 2010, 'title': 'Request for assistance: Tests on AuxPoW branch', 'state': 'closed', 'created_at': '2021-05-24T20:32:26Z', 'closed_at': '2021-08-31T23:47:49Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 2009, 'title': '[bug] 1.21 Travis timeouts', 'state': 'closed', 'created_at': '2021-05-24T20:30:00Z', 'closed_at': '2021-06-03T17:08:25Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 2008, 'title': '[feat] Recreate dogecoin for substrate framework', 'state': 'closed', 'created_at': '2021-05-24T20:26:52Z', 'closed_at': '2021-05-25T17:16:06Z', 'labels': {'name': 'major rework'}}
+{'issuenumber': 2007, 'title': '[feat] Decentralized Identifiers based on the Dogecoin blockchain', 'state': 'closed', 'created_at': '2021-05-24T20:25:53Z', 'closed_at': '2021-09-03T12:02:17Z', 'labels': {'name': 'referred to discussions'}}
+{'issuenumber': 2005, 'title': 'p2p sharing for initial blockchain downloads [feat] ', 'state': 'closed', 'created_at': '2021-05-24T20:20:08Z', 'closed_at': '2021-05-24T20:22:58Z', 'labels': []}
+{'issuenumber': 2003, 'title': '[feat] Eliminate unlimited supply of Dogecoin', 'state': 'closed', 'created_at': '2021-05-24T20:10:57Z', 'closed_at': '2021-05-24T20:14:48Z', 'labels': []}
+{'issuenumber': 2001, 'title': 'Can elon shut up pls?', 'state': 'closed', 'created_at': '2021-05-24T19:55:43Z', 'closed_at': '2021-05-24T19:59:51Z', 'labels': []}
+{'issuenumber': 2000, 'title': '[feat] Quantum blockchain for DOGE.', 'state': 'closed', 'created_at': '2021-05-24T19:54:38Z', 'closed_at': '2021-05-25T17:42:35Z', 'labels': []}
+{'issuenumber': 1999, 'title': 'Rework of contribution guideline', 'state': 'closed', 'created_at': '2021-05-24T13:53:54Z', 'closed_at': '2021-06-03T22:30:58Z', 'labels': []}
+{'issuenumber': 1996, 'title': '[feat]  PONW & POE to replace POW Increasing speed and energy efficiency while keeping miners happy', 'state': 'closed', 'created_at': '2021-05-24T01:04:47Z', 'closed_at': '2021-05-24T12:31:18Z', 'labels': []}
+{'issuenumber': 1991, 'title': "Dogecoin Full Moon Transaction Fee 'quirkmode'", 'state': 'closed', 'created_at': '2021-05-23T11:44:04Z', 'closed_at': '2021-09-03T12:31:12Z', 'labels': {'name': 'referred to discussions'}}
+{'issuenumber': 1985, 'title': 'Proposed Dogecoin Scaling Roadmap', 'state': 'closed', 'created_at': '2021-05-21T16:08:55Z', 'closed_at': '2021-05-22T02:58:05Z', 'labels': []}
+{'issuenumber': 1983, 'title': '[feat]', 'state': 'closed', 'created_at': '2021-05-21T04:43:52Z', 'closed_at': '2021-05-21T06:56:08Z', 'labels': []}
+{'issuenumber': 1982, 'title': '[feat] ', 'state': 'closed', 'created_at': '2021-05-21T04:30:02Z', 'closed_at': '2021-05-21T06:56:12Z', 'labels': []}
+{'issuenumber': 1981, 'title': '[feat] commit arson and then dissolve dogecoin forever', 'state': 'closed', 'created_at': '2021-05-21T04:26:42Z', 'closed_at': '2021-05-21T06:56:41Z', 'labels': []}
+{'issuenumber': 1980, 'title': '[feat] A clear and concise description of what the feature request is. Please include if your feature request is related to a problem', 'state': 'closed', 'created_at': '2021-05-21T02:45:06Z', 'closed_at': '2021-05-21T06:56:00Z', 'labels': []}
+{'issuenumber': 1978, 'title': '[feat] ', 'state': 'closed', 'created_at': '2021-05-20T21:17:47Z', 'closed_at': '2021-05-20T21:24:27Z', 'labels': []}
+{'issuenumber': 1972, 'title': '[feat] Ganhar dinheiro baixando o Kwai!https://s.kwai.app/s/ZbufRWdY', 'state': 'closed', 'created_at': '2021-05-20T08:44:08Z', 'closed_at': '2021-05-20T09:57:16Z', 'labels': []}
+{'issuenumber': 1971, 'title': 'Kwai118030210', 'state': 'closed', 'created_at': '2021-05-20T06:07:36Z', 'closed_at': '2021-05-20T09:57:19Z', 'labels': []}
+{'issuenumber': 1969, 'title': '[bug]', 'state': 'closed', 'created_at': '2021-05-20T01:23:09Z', 'closed_at': '2021-05-20T10:39:42Z', 'labels': []}
+{'issuenumber': 1968, 'title': 'Fix magic numbers', 'state': 'closed', 'created_at': '2021-05-19T23:05:15Z', 'closed_at': '2021-08-21T03:08:32Z', 'labels': []}
+{'issuenumber': 1966, 'title': 'doge', 'state': 'closed', 'created_at': '2021-05-18T10:04:19Z', 'closed_at': '2021-05-18T10:04:33Z', 'labels': []}
+{'issuenumber': 1963, 'title': 'can some one limit the supply of coin ?', 'state': 'closed', 'created_at': '2021-05-18T02:50:06Z', 'closed_at': '2021-05-20T09:58:15Z', 'labels': []}
+{'issuenumber': 1961, 'title': 'Doge', 'state': 'closed', 'created_at': '2021-05-17T07:59:34Z', 'closed_at': '2021-05-20T09:58:30Z', 'labels': []}
+{'issuenumber': 1958, 'title': 'Hacker and security Alert!', 'state': 'closed', 'created_at': '2021-05-16T20:34:06Z', 'closed_at': '2021-05-17T15:33:15Z', 'labels': []}
+{'issuenumber': 1957, 'title': 'Dogecoin Docker on Photon OS for scaleabilty', 'state': 'closed', 'created_at': '2021-05-16T19:35:52Z', 'closed_at': '2021-05-20T10:02:14Z', 'labels': []}
+{'issuenumber': 1955, 'title': 'Add cat language', 'state': 'closed', 'created_at': '2021-05-16T17:31:40Z', 'closed_at': '2021-05-16T17:40:50Z', 'labels': []}
+{'issuenumber': 1952, 'title': 'Dogecoin switch to PoS consensus ', 'state': 'closed', 'created_at': '2021-05-16T08:47:28Z', 'closed_at': '2021-05-20T10:08:07Z', 'labels': []}
+{'issuenumber': 1951, 'title': 'how I can help to translate in THAI language', 'state': 'closed', 'created_at': '2021-05-16T08:22:13Z', 'closed_at': '2021-05-20T10:04:40Z', 'labels': []}
+{'issuenumber': 1947, 'title': "Papa Musk's Request on Twitter for block time speed-up/ increase block size/ drop fee etc.", 'state': 'closed', 'created_at': '2021-05-16T02:59:49Z', 'closed_at': '2021-05-16T18:58:54Z', 'labels': []}
+{'issuenumber': 1942, 'title': 'Proof of Rest', 'state': 'closed', 'created_at': '2021-05-15T15:39:51Z', 'closed_at': '2021-08-31T23:46:17Z', 'labels': []}
+{'issuenumber': 1940, 'title': 'Dogecoin SNL giveaway scam and wallet issue', 'state': 'closed', 'created_at': '2021-05-15T13:54:40Z', 'closed_at': '2021-05-20T09:59:02Z', 'labels': []}
+{'issuenumber': 1939, 'title': 'not yet redeemed in Dogecoin  ', 'state': 'closed', 'created_at': '2021-05-15T13:31:41Z', 'closed_at': '2021-05-20T09:59:05Z', 'labels': []}
+{'issuenumber': 1938, 'title': 'I was scammed and I need help . I can see that my transaction iD and wallet address of recipient and it says not yet redeemed .', 'state': 'closed', 'created_at': '2021-05-15T13:30:10Z', 'closed_at': '2021-05-20T09:59:12Z', 'labels': []}
+{'issuenumber': 1929, 'title': 'Fail to start make of dependencies on Windows Subsystem Linux: /bin/sh: 1: Syntax error: "(" - unexpected .stamp_configured] Error 2', 'state': 'closed', 'created_at': '2021-05-14T17:08:21Z', 'closed_at': '2021-05-15T00:24:48Z', 'labels': []}
+{'issuenumber': 1924, 'title': 'Proof of stake as an optional layer 2 settlement layer. ', 'state': 'closed', 'created_at': '2021-05-14T06:21:24Z', 'closed_at': '2021-08-31T23:41:43Z', 'labels': []}
+{'issuenumber': 1923, 'title': 'Is there a regression test mechanism for new developers to verify their changes ?', 'state': 'closed', 'created_at': '2021-05-14T05:52:30Z', 'closed_at': '2021-05-14T05:54:35Z', 'labels': []}
+{'issuenumber': 1922, 'title': 'We need an actual main site for dogecoin in this repo.', 'state': 'closed', 'created_at': '2021-05-14T02:04:50Z', 'closed_at': '2021-05-20T10:05:24Z', 'labels': []}
+{'issuenumber': 1921, 'title': '1.21 feature_assumevalid.py times out', 'state': 'closed', 'created_at': '2021-05-13T21:45:32Z', 'closed_at': '2021-05-20T10:05:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1918, 'title': 'Doge wallet Multidoge ', 'state': 'closed', 'created_at': '2021-05-12T19:28:53Z', 'closed_at': '2021-08-21T03:07:53Z', 'labels': []}
+{'issuenumber': 1917, 'title': 'Circulating Supply & Mining', 'state': 'closed', 'created_at': '2021-05-12T14:39:00Z', 'closed_at': '2021-05-14T07:12:42Z', 'labels': []}
+{'issuenumber': 1915, 'title': '# Improve documentation', 'state': 'closed', 'created_at': '2021-05-11T11:31:13Z', 'closed_at': '2021-05-11T11:36:44Z', 'labels': []}
+{'issuenumber': 1914, 'title': '```', 'state': 'closed', 'created_at': '2021-05-11T11:25:25Z', 'closed_at': '2021-05-11T11:37:35Z', 'labels': []}
+{'issuenumber': 1912, 'title': 'Compiler warnings when building Dogecoin.', 'state': 'closed', 'created_at': '2021-05-11T06:02:13Z', 'closed_at': '2021-09-02T21:48:46Z', 'labels': []}
+{'issuenumber': 1911, 'title': 'Feature Request Discussion: Fraud Protection Mechanism', 'state': 'closed', 'created_at': '2021-05-11T05:53:05Z', 'closed_at': '2021-05-20T10:07:51Z', 'labels': []}
+{'issuenumber': 1909, 'title': '.', 'state': 'closed', 'created_at': '2021-05-11T03:09:57Z', 'closed_at': '2021-05-15T21:32:39Z', 'labels': []}
+{'issuenumber': 1907, 'title': 'Coin mining update', 'state': 'closed', 'created_at': '2021-05-10T23:04:42Z', 'closed_at': '2021-05-11T16:07:56Z', 'labels': []}
+{'issuenumber': 1905, 'title': 'No wallet.dat ?', 'state': 'closed', 'created_at': '2021-05-10T08:33:00Z', 'closed_at': '2021-05-15T21:32:51Z', 'labels': []}
+{'issuenumber': 1903, 'title': 'Doge Chain Balance amout not showing up in Doge Core Wallet', 'state': 'closed', 'created_at': '2021-05-10T04:48:27Z', 'closed_at': '2021-05-20T10:16:55Z', 'labels': []}
+{'issuenumber': 1902, 'title': 'Sync Screen Wrong', 'state': 'closed', 'created_at': '2021-05-09T23:10:53Z', 'closed_at': '2021-09-02T01:58:15Z', 'labels': []}
+{'issuenumber': 1900, 'title': 'MAKE A DOGECOIN VISA BLOCKCARD', 'state': 'closed', 'created_at': '2021-05-09T17:18:14Z', 'closed_at': '2021-05-09T17:24:56Z', 'labels': []}
+{'issuenumber': 1899, 'title': 'To the moon', 'state': 'closed', 'created_at': '2021-05-09T05:28:23Z', 'closed_at': '2021-05-09T05:36:45Z', 'labels': []}
+{'issuenumber': 1898, 'title': "dogecoin core and dogechain.info don't agree", 'state': 'closed', 'created_at': '2021-05-08T19:59:17Z', 'closed_at': '2021-05-20T10:08:58Z', 'labels': []}
+{'issuenumber': 1894, 'title': 'Discussion', 'state': 'closed', 'created_at': '2021-05-08T04:42:49Z', 'closed_at': '2021-05-08T23:08:53Z', 'labels': []}
+{'issuenumber': 1893, 'title': 'Question / Idea / Bounty Program for development ', 'state': 'closed', 'created_at': '2021-05-07T20:33:06Z', 'closed_at': '2021-05-19T05:05:42Z', 'labels': []}
+{'issuenumber': 1892, 'title': 'Dogecoin ', 'state': 'closed', 'created_at': '2021-05-07T18:46:10Z', 'closed_at': '2021-05-09T21:46:02Z', 'labels': []}
+{'issuenumber': 1891, 'title': 'SVG to replace png files as desktop icons', 'state': 'closed', 'created_at': '2021-05-07T16:33:01Z', 'closed_at': '2022-01-08T15:53:00Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 1890, 'title': 'Biggest issue that will destroy a lot of life’s ', 'state': 'closed', 'created_at': '2021-05-07T15:31:17Z', 'closed_at': '2021-05-07T23:56:06Z', 'labels': []}
+{'issuenumber': 1888, 'title': 'Fix Japanese Translation', 'state': 'closed', 'created_at': '2021-05-07T10:00:09Z', 'closed_at': '2022-01-20T22:42:27Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 1887, 'title': 'An open "letter" from someone who contributes to F@H', 'state': 'closed', 'created_at': '2021-05-07T09:14:01Z', 'closed_at': '2021-08-02T17:15:59Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1885, 'title': 'Forgot dogewallet password', 'state': 'closed', 'created_at': '2021-05-06T23:26:10Z', 'closed_at': '2021-05-20T10:10:24Z', 'labels': []}
+{'issuenumber': 1883, 'title': 'Idk', 'state': 'closed', 'created_at': '2021-05-06T18:01:06Z', 'closed_at': '2021-05-13T14:04:58Z', 'labels': []}
+{'issuenumber': 1880, 'title': 'Not yet redeemed', 'state': 'closed', 'created_at': '2021-05-06T03:04:07Z', 'closed_at': '2021-05-20T10:11:46Z', 'labels': []}
+{'issuenumber': 1879, 'title': '200k Dogecoin reward', 'state': 'closed', 'created_at': '2021-05-06T01:28:45Z', 'closed_at': '2021-05-06T01:57:28Z', 'labels': []}
+{'issuenumber': 1878, 'title': ' doge wallet.info 2FA factor arror show there no option for 2 factor i was not open but its show what to do have password and user name thanks ', 'state': 'closed', 'created_at': '2021-05-06T00:57:13Z', 'closed_at': '2021-05-06T22:36:17Z', 'labels': []}
+{'issuenumber': 1877, 'title': 'Nghieu', 'state': 'closed', 'created_at': '2021-05-06T00:51:14Z', 'closed_at': '2021-05-06T00:51:31Z', 'labels': []}
+{'issuenumber': 1876, 'title': '10000 DOGE reward. Unable to recover my private keys. I know the password of wallet.dat', 'state': 'closed', 'created_at': '2021-05-06T00:25:15Z', 'closed_at': '2021-09-06T17:11:11Z', 'labels': []}
+{'issuenumber': 1875, 'title': 'bitcoin_en.ts out of date', 'state': 'closed', 'created_at': '2021-05-05T18:09:12Z', 'closed_at': '2021-05-05T18:12:01Z', 'labels': []}
+{'issuenumber': 1872, 'title': 'Update CONTRIBUTING.md to remove the references to Bitcoin Core and produce an actual contribution guideline document', 'state': 'closed', 'created_at': '2021-05-04T22:00:21Z', 'closed_at': '2021-06-03T22:30:14Z', 'labels': []}
+{'issuenumber': 1870, 'title': 'Detected as malware by major antivirus', 'state': 'closed', 'created_at': '2021-05-04T13:52:19Z', 'closed_at': '2021-09-02T19:45:08Z', 'labels': {'name': 'false positive'}}
+{'issuenumber': 1868, 'title': 'Web3 connection with Etherscan.io', 'state': 'closed', 'created_at': '2021-05-03T09:19:15Z', 'closed_at': '2021-05-03T14:11:54Z', 'labels': []}
+{'issuenumber': 1862, 'title': "error: no matching function for call to 'objc_msgSend'", 'state': 'closed', 'created_at': '2021-04-30T05:16:53Z', 'closed_at': '2021-09-03T05:35:46Z', 'labels': []}
+{'issuenumber': 1860, 'title': 'make command not working in Mac OS ', 'state': 'closed', 'created_at': '2021-04-27T11:37:56Z', 'closed_at': '2021-04-30T05:18:56Z', 'labels': []}
+{'issuenumber': 1859, 'title': 'How to mine doge in PC without high GPU', 'state': 'closed', 'created_at': '2021-04-27T08:31:04Z', 'closed_at': '2021-04-27T08:59:13Z', 'labels': []}
+{'issuenumber': 1857, 'title': 'Có ai biết tiếng việt không giúp tôi với', 'state': 'closed', 'created_at': '2021-04-26T05:44:30Z', 'closed_at': '2021-04-26T21:04:25Z', 'labels': []}
+{'issuenumber': 1855, 'title': '[Feature] Purge function', 'state': 'closed', 'created_at': '2021-04-25T11:22:31Z', 'closed_at': '2021-04-26T23:19:40Z', 'labels': []}
+{'issuenumber': 1854, 'title': 'Listing with PundiX', 'state': 'closed', 'created_at': '2021-04-24T20:09:04Z', 'closed_at': '2021-04-25T18:35:25Z', 'labels': []}
+{'issuenumber': 1853, 'title': 'need more pair for 1.14.3', 'state': 'closed', 'created_at': '2021-04-24T11:45:54Z', 'closed_at': '2021-05-04T18:43:49Z', 'labels': []}
+{'issuenumber': 1852, 'title': 'Dogecoins gone??', 'state': 'closed', 'created_at': '2021-04-23T22:04:33Z', 'closed_at': '2021-05-14T20:55:45Z', 'labels': []}
+{'issuenumber': 1851, 'title': 'Can the DogeCoind work with a miner directly?', 'state': 'closed', 'created_at': '2021-04-23T15:59:55Z', 'closed_at': '2021-09-02T21:53:47Z', 'labels': []}
+{'issuenumber': 1850, 'title': 'BUILDING error windows 64:    "  configure: error: libdb_cxx headers missing, Dogecoin Core requires this library for wallet functionality (--disable-wallet to disable wallet functionality)  "', 'state': 'closed', 'created_at': '2021-04-22T22:01:35Z', 'closed_at': '2021-09-01T22:45:27Z', 'labels': []}
+{'issuenumber': 1849, 'title': 'Can we double blocksize at the same time as we introduce Segwit?', 'state': 'closed', 'created_at': '2021-04-22T17:30:15Z', 'closed_at': '2021-09-02T21:47:00Z', 'labels': {'name': 'referred to discussions'}}
+{'issuenumber': 1848, 'title': '无法发送', 'state': 'closed', 'created_at': '2021-04-22T13:42:35Z', 'closed_at': '2021-05-04T18:40:30Z', 'labels': []}
+{'issuenumber': 1847, 'title': 'how to create a wallet in dogecoin-cli ', 'state': 'closed', 'created_at': '2021-04-22T07:18:03Z', 'closed_at': '2021-04-23T09:19:44Z', 'labels': []}
+{'issuenumber': 1846, 'title': 'RPC sending error 405 when trying to mine', 'state': 'closed', 'created_at': '2021-04-22T04:35:42Z', 'closed_at': '2021-04-22T16:37:27Z', 'labels': []}
+{'issuenumber': 1843, 'title': 'Issues With Cuda Miner', 'state': 'closed', 'created_at': '2021-04-21T20:00:28Z', 'closed_at': '2021-04-21T23:44:33Z', 'labels': []}
+{'issuenumber': 1839, 'title': 'I might have someone who can recover your wallet.dat file - waiting for confirmation', 'state': 'closed', 'created_at': '2021-04-19T23:20:58Z', 'closed_at': '2021-05-04T18:44:27Z', 'labels': []}
+{'issuenumber': 1837, 'title': 'Make not working in Build.', 'state': 'closed', 'created_at': '2021-04-19T01:17:55Z', 'closed_at': '2021-09-01T22:41:28Z', 'labels': []}
+{'issuenumber': 1836, 'title': 'This version is slower then older one I rescanned and still only 2 peers connection. Do you have a snapshot?', 'state': 'closed', 'created_at': '2021-04-19T00:54:48Z', 'closed_at': '2021-05-04T18:48:56Z', 'labels': []}
+{'issuenumber': 1832, 'title': '1.21 Update miner test blocks', 'state': 'closed', 'created_at': '2021-04-18T10:40:44Z', 'closed_at': '2021-09-01T22:40:36Z', 'labels': []}
+{'issuenumber': 1830, 'title': 'Dodge', 'state': 'closed', 'created_at': '2021-04-17T22:31:09Z', 'closed_at': '2021-04-17T22:33:10Z', 'labels': []}
+{'issuenumber': 1829, 'title': 'Doge', 'state': 'closed', 'created_at': '2021-04-17T21:41:44Z', 'closed_at': '2021-04-17T22:12:58Z', 'labels': []}
+{'issuenumber': 1827, 'title': 'Catcoin is better', 'state': 'closed', 'created_at': '2021-04-17T11:59:05Z', 'closed_at': '2021-04-17T12:01:28Z', 'labels': []}
+{'issuenumber': 1826, 'title': 'Location of simplified variant of scrypt replacement from the sha256', 'state': 'closed', 'created_at': '2021-04-17T01:03:57Z', 'closed_at': '2021-04-17T06:42:41Z', 'labels': []}
+{'issuenumber': 1824, 'title': 'Dogecoin\n', 'state': 'closed', 'created_at': '2021-04-16T16:10:48Z', 'closed_at': '2021-04-16T16:20:41Z', 'labels': []}
+{'issuenumber': 1823, 'title': 'Phantom dogecoin addresses', 'state': 'closed', 'created_at': '2021-04-16T15:14:18Z', 'closed_at': '2021-05-25T08:53:05Z', 'labels': []}
+{'issuenumber': 1822, 'title': 'dogecoin', 'state': 'closed', 'created_at': '2021-04-16T12:50:37Z', 'closed_at': '2021-04-16T15:20:21Z', 'labels': []}
+{'issuenumber': 1821, 'title': 'Dogecoin', 'state': 'closed', 'created_at': '2021-04-16T12:42:03Z', 'closed_at': '2021-04-16T15:20:40Z', 'labels': []}
+{'issuenumber': 1815, 'title': 'Dogecoin foundation 2.0?', 'state': 'closed', 'created_at': '2021-04-05T22:27:11Z', 'closed_at': '2021-04-05T22:29:01Z', 'labels': []}
+{'issuenumber': 1810, 'title': 'Feature request: Proof Of Stake, Smart Contracts', 'state': 'closed', 'created_at': '2021-03-30T08:37:03Z', 'closed_at': '2021-04-04T16:59:32Z', 'labels': []}
+{'issuenumber': 1809, 'title': 'Feature request: Add transaction code field ala XLM and XRP', 'state': 'closed', 'created_at': '2021-03-30T04:58:04Z', 'closed_at': '2021-09-02T22:05:56Z', 'labels': {'name': 'referred to discussions'}}
+{'issuenumber': 1808, 'title': '[QT] Feature request: Add a form dialog for importing private keys', 'state': 'closed', 'created_at': '2021-03-23T12:18:58Z', 'closed_at': '2021-05-24T12:49:30Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1807, 'title': '[QT] Feature request: Add a form dialog for adding peers', 'state': 'closed', 'created_at': '2021-03-23T12:18:08Z', 'closed_at': '2021-06-08T18:18:32Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1804, 'title': 'Paper wallet generator crops out last character of dogecoin address', 'state': 'closed', 'created_at': '2021-03-19T16:39:51Z', 'closed_at': '2021-08-20T21:17:06Z', 'labels': []}
+{'issuenumber': 1799, 'title': 'Apple M1 MacBook Air Impossible to lunch Dogecoin Core Software', 'state': 'closed', 'created_at': '2021-03-15T05:39:36Z', 'closed_at': '2022-07-21T01:15:14Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 1798, 'title': 'Consensus plan for next major release (1.21)', 'state': 'closed', 'created_at': '2021-03-14T23:31:02Z', 'closed_at': '2021-06-06T10:28:42Z', 'labels': {'name': 'consensus'}}
+{'issuenumber': 1797, 'title': '1.21 Fees', 'state': 'closed', 'created_at': '2021-03-14T12:14:30Z', 'closed_at': '2021-06-05T21:48:47Z', 'labels': []}
+{'issuenumber': 1795, 'title': 'Update max money', 'state': 'closed', 'created_at': '2021-03-14T12:11:30Z', 'closed_at': '2021-05-20T10:53:35Z', 'labels': []}
+{'issuenumber': 1792, 'title': 'Syncing node for BtcPay is stuck at 99%', 'state': 'closed', 'created_at': '2021-03-13T20:25:13Z', 'closed_at': '2021-12-14T21:02:46Z', 'labels': {'name': 'external'}}
+{'issuenumber': 1790, 'title': "Txid is missing and coins don't seem on the wallet address", 'state': 'closed', 'created_at': '2021-03-11T08:38:42Z', 'closed_at': '2021-03-14T07:36:42Z', 'labels': []}
+{'issuenumber': 1789, 'title': 'GSC', 'state': 'closed', 'created_at': '2021-03-11T05:35:14Z', 'closed_at': '2021-03-11T07:04:32Z', 'labels': []}
+{'issuenumber': 1787, 'title': 'does dogecoin support omni ?', 'state': 'closed', 'created_at': '2021-03-10T00:36:07Z', 'closed_at': '2021-09-01T22:26:11Z', 'labels': []}
+{'issuenumber': 1786, 'title': 'Nose', 'state': 'closed', 'created_at': '2021-03-07T18:42:13Z', 'closed_at': '2021-03-07T18:45:23Z', 'labels': []}
+{'issuenumber': 1782, 'title': 'b2b875e6d0ec77e6d914ca2298959de350d9f8e0a017c33826f4ffb1839c01e4', 'state': 'closed', 'created_at': '2021-03-06T18:37:22Z', 'closed_at': '2021-03-14T08:04:03Z', 'labels': []}
+{'issuenumber': 1779, 'title': 'Dogecoin fatal error while downloading wallet', 'state': 'closed', 'created_at': '2021-03-02T21:50:59Z', 'closed_at': '2021-03-11T12:09:58Z', 'labels': []}
+{'issuenumber': 1778, 'title': 'MAC OS: Cannot obtain a lock on data directory', 'state': 'closed', 'created_at': '2021-03-01T17:59:59Z', 'closed_at': '2021-09-03T08:29:49Z', 'labels': []}
+{'issuenumber': 1776, 'title': 'GOD=COM', 'state': 'closed', 'created_at': '2021-02-28T23:22:04Z', 'closed_at': '2021-02-28T23:32:57Z', 'labels': []}
+{'issuenumber': 1772, 'title': 'High cpu usage', 'state': 'closed', 'created_at': '2021-02-28T07:29:24Z', 'closed_at': '2021-03-01T07:07:02Z', 'labels': []}
+{'issuenumber': 1764, 'title': 'estimatesmartfee always returns -1', 'state': 'closed', 'created_at': '2021-02-25T05:39:50Z', 'closed_at': '2021-06-20T18:12:21Z', 'labels': []}
+{'issuenumber': 1759, 'title': "Let's add msvc/Visual Studio support!", 'state': 'closed', 'created_at': '2021-02-23T23:00:29Z', 'closed_at': '2021-03-14T11:54:12Z', 'labels': []}
+{'issuenumber': 1758, 'title': 'Reduce the minimum fee?', 'state': 'closed', 'created_at': '2021-02-23T07:21:57Z', 'closed_at': '2021-02-23T20:19:26Z', 'labels': []}
+{'issuenumber': 1756, 'title': 'Wallet synced, old TX uncnfrmed. No TX history on blockchain from all walletdump addresses.', 'state': 'closed', 'created_at': '2021-02-22T17:39:36Z', 'closed_at': '2021-09-05T22:31:33Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1753, 'title': 'PGP signs', 'state': 'closed', 'created_at': '2021-02-21T17:42:15Z', 'closed_at': '2021-02-22T15:20:39Z', 'labels': []}
+{'issuenumber': 1750, 'title': 'QT wallet console command replies with "null"', 'state': 'closed', 'created_at': '2021-02-20T19:31:04Z', 'closed_at': '2021-06-23T22:11:20Z', 'labels': {'name': 'UI'}}
+{'issuenumber': 1748, 'title': 'Some problems while building dogecoin on MAC OSX', 'state': 'closed', 'created_at': '2021-02-19T09:55:58Z', 'closed_at': '2021-09-01T22:24:09Z', 'labels': []}
+{'issuenumber': 1747, 'title': 'get the core to run in linux', 'state': 'closed', 'created_at': '2021-02-19T05:57:27Z', 'closed_at': '2021-08-21T03:07:06Z', 'labels': []}
+{'issuenumber': 1744, 'title': 'dogecoin trans', 'state': 'closed', 'created_at': '2021-02-17T13:20:02Z', 'closed_at': '2021-03-14T11:55:58Z', 'labels': []}
+{'issuenumber': 1743, 'title': 'dogecoin trans', 'state': 'closed', 'created_at': '2021-02-17T13:13:12Z', 'closed_at': '2021-03-14T11:55:55Z', 'labels': []}
+{'issuenumber': 1740, 'title': 'Configure ignores --with-incompatible-bdb on 1.14 and fails even when libdb_cxx 5.1 is present on master', 'state': 'closed', 'created_at': '2021-02-15T19:56:38Z', 'closed_at': '2021-02-15T21:15:07Z', 'labels': []}
+{'issuenumber': 1739, 'title': 'Why not increase the supply once people adopt it as means of exchange? Cap the market now and increase supply later.', 'state': 'closed', 'created_at': '2021-02-15T18:51:52Z', 'closed_at': '2021-02-15T19:39:44Z', 'labels': []}
+{'issuenumber': 1738, 'title': 'httpserver fails to buils unless #include <deque> is added to httpserver.cpp', 'state': 'closed', 'created_at': '2021-02-15T17:56:57Z', 'closed_at': '2021-02-22T11:36:55Z', 'labels': []}
+{'issuenumber': 1737, 'title': 'validation.cpp:182:111: error: ‘_1’ was not declared in this scope', 'state': 'closed', 'created_at': '2021-02-15T17:54:58Z', 'closed_at': '2021-09-03T12:20:15Z', 'labels': []}
+{'issuenumber': 1736, 'title': 'Doge android wallet', 'state': 'closed', 'created_at': '2021-02-15T09:44:31Z', 'closed_at': '2021-09-01T22:23:15Z', 'labels': []}
+{'issuenumber': 1729, 'title': 'Hello, I transfer dogcoin through this wallet address. But the account balance is 0. My email address: Email: 1904570224@qq.com', 'state': 'closed', 'created_at': '2021-02-12T07:42:34Z', 'closed_at': '2021-09-03T20:59:47Z', 'labels': []}
+{'issuenumber': 1728, 'title': 'Malware? Not verified developer.', 'state': 'closed', 'created_at': '2021-02-11T16:24:52Z', 'closed_at': '2021-02-11T16:31:49Z', 'labels': []}
+{'issuenumber': 1727, 'title': 'Sent 160 dogecoin, but transaction showing 258.56638159.', 'state': 'closed', 'created_at': '2021-02-11T16:19:30Z', 'closed_at': '2021-02-11T23:18:59Z', 'labels': []}
+{'issuenumber': 1726, 'title': "Can't run MultiDoge wallet on Mac Os 11.2.1", 'state': 'closed', 'created_at': '2021-02-11T16:14:15Z', 'closed_at': '2021-02-11T16:32:14Z', 'labels': []}
+{'issuenumber': 1724, 'title': 'Computer locked up', 'state': 'closed', 'created_at': '2021-02-11T12:32:35Z', 'closed_at': '2021-09-01T22:21:24Z', 'labels': []}
+{'issuenumber': 1723, 'title': 'How to use Paperwallet Private key with a password?', 'state': 'closed', 'created_at': '2021-02-10T22:15:04Z', 'closed_at': '2021-09-03T12:05:49Z', 'labels': []}
+{'issuenumber': 1722, 'title': 'Addnode (Peers)', 'state': 'closed', 'created_at': '2021-02-10T15:18:22Z', 'closed_at': '2021-09-03T04:39:51Z', 'labels': []}
+{'issuenumber': 1721, 'title': 'Dogecoin', 'state': 'closed', 'created_at': '2021-02-10T08:23:04Z', 'closed_at': '2021-02-14T12:26:42Z', 'labels': []}
+{'issuenumber': 1719, 'title': 'dogecoind does not exempt whitelisted peers from the maxconnections limit.', 'state': 'closed', 'created_at': '2021-02-09T01:23:11Z', 'closed_at': '2021-09-03T12:19:27Z', 'labels': []}
+{'issuenumber': 1717, 'title': 'MultiDoge wallet won´t sync. (not Core)', 'state': 'closed', 'created_at': '2021-02-08T10:04:28Z', 'closed_at': '2021-02-08T10:12:37Z', 'labels': []}
+{'issuenumber': 1713, 'title': 'Trying to send coins to exchange', 'state': 'closed', 'created_at': '2021-02-07T04:26:58Z', 'closed_at': '2021-03-14T11:45:05Z', 'labels': []}
+{'issuenumber': 1704, 'title': 'Burn or not ? =D <3', 'state': 'closed', 'created_at': '2021-02-05T22:43:26Z', 'closed_at': '2021-02-05T22:53:25Z', 'labels': []}
+{'issuenumber': 1703, 'title': 'No updates?', 'state': 'closed', 'created_at': '2021-02-05T11:54:19Z', 'closed_at': '2021-02-05T12:01:48Z', 'labels': []}
+{'issuenumber': 1702, 'title': 'MultiDoge not working under MAC OSX 11.1', 'state': 'closed', 'created_at': '2021-02-04T21:06:45Z', 'closed_at': '2021-02-04T21:29:10Z', 'labels': []}
+{'issuenumber': 1700, 'title': 'Shall we cap the total coins?', 'state': 'closed', 'created_at': '2021-02-04T15:40:47Z', 'closed_at': '2021-02-04T15:46:18Z', 'labels': []}
+{'issuenumber': 1699, 'title': 'Dogecoin balance stuck in an unconfirmed transaction from 2017.', 'state': 'closed', 'created_at': '2021-02-04T02:51:17Z', 'closed_at': '2021-02-04T23:25:03Z', 'labels': []}
+{'issuenumber': 1696, 'title': 'Please reintroduce a supply cap (hear me out)', 'state': 'closed', 'created_at': '2021-02-02T10:01:05Z', 'closed_at': '2021-02-02T10:04:18Z', 'labels': []}
+{'issuenumber': 1693, 'title': 'DNS Seeders unreachable when using proxy through Tor connections', 'state': 'closed', 'created_at': '2021-02-02T04:02:02Z', 'closed_at': '2021-08-20T04:37:57Z', 'labels': []}
+{'issuenumber': 1692, 'title': 'No package for Debian Bullseye', 'state': 'closed', 'created_at': '2021-02-02T01:41:18Z', 'closed_at': '2021-09-06T13:27:53Z', 'labels': []}
+{'issuenumber': 1691, 'title': 'Transaction Fee Adjustment is broken.  Cannot send more than 1 Doge/kb ', 'state': 'closed', 'created_at': '2021-02-01T17:05:23Z', 'closed_at': '2021-08-21T03:06:24Z', 'labels': []}
+{'issuenumber': 1689, 'title': 'Sueños para iphone no puedo ', 'state': 'closed', 'created_at': '2021-02-01T14:20:22Z', 'closed_at': '2021-02-01T14:28:42Z', 'labels': []}
+{'issuenumber': 1688, 'title': 'Supply bug? 8 billion increase in a few hours ', 'state': 'closed', 'created_at': '2021-02-01T12:30:29Z', 'closed_at': '2021-02-01T14:13:56Z', 'labels': []}
+{'issuenumber': 1685, 'title': 'Dogecoin needs a fixed max supply', 'state': 'closed', 'created_at': '2021-01-31T12:35:44Z', 'closed_at': '2021-01-31T12:55:11Z', 'labels': []}
+{'issuenumber': 1682, 'title': 'GUI: OpenType support missing for script', 'state': 'closed', 'created_at': '2021-01-31T04:27:32Z', 'closed_at': '2021-09-03T12:03:06Z', 'labels': []}
+{'issuenumber': 1681, 'title': 'Hello', 'state': 'closed', 'created_at': '2021-01-31T00:29:41Z', 'closed_at': '2021-01-31T00:32:14Z', 'labels': []}
+{'issuenumber': 1674, 'title': 'Reintroduce the cap', 'state': 'closed', 'created_at': '2021-01-30T18:39:52Z', 'closed_at': '2021-01-30T19:39:18Z', 'labels': []}
+{'issuenumber': 1673, 'title': 'Provide a bootstrap for users', 'state': 'closed', 'created_at': '2021-01-30T18:00:24Z', 'closed_at': '2021-09-03T12:25:04Z', 'labels': {'name': 'referred to discussions'}}
+{'issuenumber': 1672, 'title': 'Cap the coin!', 'state': 'closed', 'created_at': '2021-01-30T06:32:15Z', 'closed_at': '2021-01-30T06:37:43Z', 'labels': []}
+{'issuenumber': 1671, 'title': "Help, Dogecoin core not connecting and I've done something silly", 'state': 'closed', 'created_at': '2021-01-30T01:03:55Z', 'closed_at': '2021-08-21T01:13:25Z', 'labels': []}
+{'issuenumber': 1670, 'title': 'I was scammed', 'state': 'closed', 'created_at': '2021-01-30T00:10:42Z', 'closed_at': '2021-01-30T00:12:54Z', 'labels': []}
+{'issuenumber': 1667, 'title': 'Windows Build instructions hyperlink leads to a 404 error', 'state': 'closed', 'created_at': '2021-01-29T21:04:39Z', 'closed_at': '2021-08-21T00:49:33Z', 'labels': []}
+{'issuenumber': 1666, 'title': 'Doge to the moon 📈🐕', 'state': 'closed', 'created_at': '2021-01-29T03:35:42Z', 'closed_at': '2021-01-29T03:36:11Z', 'labels': []}
+{'issuenumber': 1665, 'title': 'My dogecoin is moved out on 25th Jan.', 'state': 'closed', 'created_at': '2021-01-28T14:54:56Z', 'closed_at': '2021-01-28T16:03:10Z', 'labels': []}
+{'issuenumber': 1663, 'title': 'Unconfirmed transaction refusing to fall off at 3+ weeks', 'state': 'closed', 'created_at': '2021-01-26T00:49:46Z', 'closed_at': '2021-08-21T00:49:57Z', 'labels': []}
+{'issuenumber': 1659, 'title': 'Will not connect to network, connecting to peers', 'state': 'closed', 'created_at': '2021-01-05T20:21:50Z', 'closed_at': '2021-08-21T00:50:43Z', 'labels': []}
+{'issuenumber': 1658, 'title': 'dogecoin CPFP support', 'state': 'closed', 'created_at': '2021-01-03T15:06:14Z', 'closed_at': '2021-08-21T00:50:57Z', 'labels': []}
+{'issuenumber': 1657, 'title': 'how to create an installer for windows?', 'state': 'closed', 'created_at': '2021-01-03T13:22:56Z', 'closed_at': '2021-01-05T16:59:50Z', 'labels': []}
+{'issuenumber': 1654, 'title': 'boost 1.74 - validation.cpp:182:111: error: ‘_1’ was not declared in this scope', 'state': 'closed', 'created_at': '2020-11-23T22:00:44Z', 'closed_at': '2021-08-21T00:52:13Z', 'labels': []}
+{'issuenumber': 1652, 'title': 'We have a lot of transactions stuck on the chain with below < 1 tx fee. ', 'state': 'closed', 'created_at': '2020-11-06T19:09:47Z', 'closed_at': '2021-09-03T11:44:38Z', 'labels': []}
+{'issuenumber': 1651, 'title': 'Several transactions stuck in mempool for days despite sufficient fee (mainnet)', 'state': 'closed', 'created_at': '2020-11-05T01:25:45Z', 'closed_at': '2020-11-05T01:27:09Z', 'labels': []}
+{'issuenumber': 1649, 'title': 'Dogecoin not syncing', 'state': 'closed', 'created_at': '2020-11-04T20:01:35Z', 'closed_at': '2021-08-21T01:12:47Z', 'labels': []}
+{'issuenumber': 1648, 'title': 'Dogecoin Core Wallet 64-Bit is freez and  is stopped to sync 1.14', 'state': 'closed', 'created_at': '2020-10-13T19:18:26Z', 'closed_at': '2020-10-13T19:21:36Z', 'labels': []}
+{'issuenumber': 1647, 'title': "Dogecoin-qt doesn't work on Ubuntu 20.10", 'state': 'closed', 'created_at': '2020-09-19T17:49:42Z', 'closed_at': '2021-03-14T11:46:19Z', 'labels': []}
+{'issuenumber': 1646, 'title': 'Transaction blocked in mempool from 13 days', 'state': 'closed', 'created_at': '2020-09-12T11:29:48Z', 'closed_at': '2021-03-14T11:46:54Z', 'labels': []}
+{'issuenumber': 1645, 'title': '__atomic_compare_exchange error when building bdb', 'state': 'closed', 'created_at': '2020-09-12T10:22:28Z', 'closed_at': '2021-03-14T11:58:18Z', 'labels': []}
+{'issuenumber': 1644, 'title': 'rpc call getauxblock failed', 'state': 'closed', 'created_at': '2020-09-09T09:23:55Z', 'closed_at': '2020-09-09T10:40:03Z', 'labels': []}
+{'issuenumber': 1643, 'title': 'Virus detection', 'state': 'closed', 'created_at': '2020-08-31T08:53:10Z', 'closed_at': '2020-09-03T07:28:40Z', 'labels': {'name': 'false positive'}}
+{'issuenumber': 1642, 'title': 'Build error with gcc 10.1.0 and qt 5.15.0', 'state': 'closed', 'created_at': '2020-08-19T02:39:14Z', 'closed_at': '2021-02-22T11:13:12Z', 'labels': []}
+{'issuenumber': 1641, 'title': 'Hi', 'state': 'closed', 'created_at': '2020-08-06T07:33:32Z', 'closed_at': '2020-08-06T07:34:15Z', 'labels': []}
+{'issuenumber': 1634, 'title': 'Faucet Testnet or some doges...', 'state': 'closed', 'created_at': '2020-06-26T10:30:33Z', 'closed_at': '2020-06-26T11:23:54Z', 'labels': []}
+{'issuenumber': 1633, 'title': 'Level dB too many open files default is limited to 1000', 'state': 'closed', 'created_at': '2020-06-24T18:17:46Z', 'closed_at': '2021-09-01T22:13:22Z', 'labels': []}
+{'issuenumber': 1632, 'title': 'No 1', 'state': 'closed', 'created_at': '2020-05-24T10:19:37Z', 'closed_at': '2020-05-24T11:08:19Z', 'labels': []}
+{'issuenumber': 1628, 'title': 'dogecoin: links are not handled', 'state': 'closed', 'created_at': '2020-02-27T08:05:04Z', 'closed_at': '2021-02-28T21:09:42Z', 'labels': []}
+{'issuenumber': 1625, 'title': 'RPC verbosity', 'state': 'closed', 'created_at': '2020-01-21T09:40:41Z', 'closed_at': '2020-01-22T17:35:45Z', 'labels': []}
+{'issuenumber': 1623, 'title': 'Wait why are the rewards so high still??', 'state': 'closed', 'created_at': '2020-01-17T16:03:17Z', 'closed_at': '2020-01-30T19:58:17Z', 'labels': []}
+{'issuenumber': 1622, 'title': "Dogecoin: Spot's Version", 'state': 'closed', 'created_at': '2019-12-02T04:59:51Z', 'closed_at': '2021-08-21T00:58:26Z', 'labels': []}
+{'issuenumber': 1621, 'title': 'when will the  fork activate mentioned in release core 1.14', 'state': 'closed', 'created_at': '2019-12-02T02:14:19Z', 'closed_at': '2019-12-02T02:50:02Z', 'labels': []}
+{'issuenumber': 1620, 'title': 'Over 1 million coins lost after turning off laptop though I have wallet.dat.How to restore!', 'state': 'closed', 'created_at': '2019-11-26T18:51:11Z', 'closed_at': '2020-07-01T08:44:09Z', 'labels': []}
+{'issuenumber': 1619, 'title': 'Trash that flat 1 0000 0000 fee for every transaction', 'state': 'closed', 'created_at': '2019-11-15T01:31:00Z', 'closed_at': '2019-11-15T15:19:23Z', 'labels': []}
+{'issuenumber': 1617, 'title': 'Dogecoin client sendtoaddress never have confirmations or appear in blockchain', 'state': 'closed', 'created_at': '2019-11-12T14:52:51Z', 'closed_at': '2021-03-14T11:59:52Z', 'labels': []}
+{'issuenumber': 1616, 'title': 'Edit the Readme info?', 'state': 'closed', 'created_at': '2019-11-10T23:50:16Z', 'closed_at': '2020-07-24T11:17:56Z', 'labels': []}
+{'issuenumber': 1613, 'title': 'send tx failed, reture insufficient priority', 'state': 'closed', 'created_at': '2019-10-29T03:03:35Z', 'closed_at': '2021-09-02T20:27:03Z', 'labels': []}
+{'issuenumber': 1612, 'title': 'when fork to enable BIP-65', 'state': 'closed', 'created_at': '2019-10-18T09:00:59Z', 'closed_at': '2019-10-18T14:01:09Z', 'labels': []}
+{'issuenumber': 1610, 'title': 'configure: error: PKG_PROG_PKG_CONFIG macro not found. Please install pkg-config and re-run autogen.sh', 'state': 'closed', 'created_at': '2019-09-22T07:39:31Z', 'closed_at': '2021-08-21T00:59:23Z', 'labels': []}
+{'issuenumber': 1609, 'title': 'importaddress error with v1.10.0 regtest address', 'state': 'closed', 'created_at': '2019-09-18T21:28:21Z', 'closed_at': '2019-10-21T13:44:27Z', 'labels': []}
+{'issuenumber': 1608, 'title': 'Not Get non-wallet Transaction details via api (nodejs)??', 'state': 'closed', 'created_at': '2019-08-30T05:52:11Z', 'closed_at': '2020-07-24T11:00:54Z', 'labels': []}
+{'issuenumber': 1607, 'title': 'Invalid txfee?', 'state': 'closed', 'created_at': '2019-08-16T05:49:48Z', 'closed_at': '2019-08-16T16:25:12Z', 'labels': []}
+{'issuenumber': 1606, 'title': '[Regtest] unconstantly receiving inv message', 'state': 'closed', 'created_at': '2019-08-06T19:40:21Z', 'closed_at': '2020-08-04T17:11:26Z', 'labels': []}
+{'issuenumber': 1604, 'title': 'settxfee no longer working?', 'state': 'closed', 'created_at': '2019-08-05T07:50:05Z', 'closed_at': '2021-09-01T21:50:36Z', 'labels': []}
+{'issuenumber': 1603, 'title': 'Add support for CORS headers and pre-flight request', 'state': 'closed', 'created_at': '2019-08-03T20:26:27Z', 'closed_at': '2021-09-01T21:34:53Z', 'labels': []}
+{'issuenumber': 1597, 'title': 'transaction is not propagated to the network', 'state': 'closed', 'created_at': '2019-07-12T10:46:23Z', 'closed_at': '2019-07-12T16:38:48Z', 'labels': []}
+{'issuenumber': 1595, 'title': 'Libra news', 'state': 'closed', 'created_at': '2019-07-10T07:16:03Z', 'closed_at': '2019-07-10T07:18:30Z', 'labels': []}
+{'issuenumber': 1594, 'title': 'Unspent Txs not detected even after -rescan', 'state': 'closed', 'created_at': '2019-06-28T00:36:33Z', 'closed_at': '2021-08-21T01:00:00Z', 'labels': []}
+{'issuenumber': 1593, 'title': " dogecoin-1.14.0-osx.dmg 'no mountable file systems'", 'state': 'closed', 'created_at': '2019-06-27T21:47:37Z', 'closed_at': '2020-07-24T11:31:30Z', 'labels': []}
+{'issuenumber': 1592, 'title': 'Bloom filter mode missing tx when more than one element', 'state': 'closed', 'created_at': '2019-06-26T15:45:17Z', 'closed_at': '2019-07-05T11:39:31Z', 'labels': []}
+{'issuenumber': 1589, 'title': 'Ayuda para retirar dogecoins', 'state': 'closed', 'created_at': '2019-06-21T17:54:25Z', 'closed_at': '2019-06-21T18:13:03Z', 'labels': []}
+{'issuenumber': 1586, 'title': "dogecoind it's running but it doesn't show anything.", 'state': 'closed', 'created_at': '2019-05-23T20:36:25Z', 'closed_at': '2019-05-24T15:48:37Z', 'labels': []}
+{'issuenumber': 1584, 'title': 'does doge support replace-by-fee? ', 'state': 'closed', 'created_at': '2019-05-22T06:30:37Z', 'closed_at': '2021-08-21T01:00:47Z', 'labels': []}
+{'issuenumber': 1582, 'title': '1.17-dev out of scope error', 'state': 'closed', 'created_at': '2019-05-19T14:41:43Z', 'closed_at': '2019-05-19T16:05:20Z', 'labels': []}
+{'issuenumber': 1581, 'title': 'Invalid use of incomplete type dogecoin make', 'state': 'closed', 'created_at': '2019-05-17T19:39:55Z', 'closed_at': '2020-07-24T11:08:50Z', 'labels': []}
+{'issuenumber': 1580, 'title': 'Exodus Support Outreach?', 'state': 'closed', 'created_at': '2019-05-16T07:10:21Z', 'closed_at': '2020-07-24T11:32:53Z', 'labels': []}
+{'issuenumber': 1576, 'title': 'Transaction fee or coin amount cann`t be negative', 'state': 'closed', 'created_at': '2019-04-06T08:49:28Z', 'closed_at': '2019-04-06T08:58:44Z', 'labels': []}
+{'issuenumber': 1571, 'title': 'The transaction is  too large', 'state': 'closed', 'created_at': '2019-03-08T06:15:50Z', 'closed_at': '2020-07-24T11:05:48Z', 'labels': []}
+{'issuenumber': 1570, 'title': 'testnet stuck at unknown syncing headers 1855459 (Fri Feb 22 18:22:53 2019)', 'state': 'closed', 'created_at': '2019-02-27T02:01:44Z', 'closed_at': '2019-10-29T20:56:57Z', 'labels': []}
+{'issuenumber': 1566, 'title': 'can NOT sync in testnet', 'state': 'closed', 'created_at': '2019-01-28T07:35:02Z', 'closed_at': '2019-02-20T02:38:38Z', 'labels': []}
+{'issuenumber': 1565, 'title': 'Core dump when running dogecoind', 'state': 'closed', 'created_at': '2019-01-20T15:04:00Z', 'closed_at': '2020-07-24T10:53:09Z', 'labels': []}
+{'issuenumber': 1564, 'title': 'FTBFS with boost 1.67', 'state': 'closed', 'created_at': '2019-01-18T07:54:10Z', 'closed_at': '2021-08-21T01:01:36Z', 'labels': []}
+{'issuenumber': 1563, 'title': "Can't sync blockchain 1.13 & 1.14 B1", 'state': 'closed', 'created_at': '2019-01-03T05:05:16Z', 'closed_at': '2021-09-03T04:35:53Z', 'labels': []}
+{'issuenumber': 1559, 'title': 'Missed TXID', 'state': 'closed', 'created_at': '2018-12-25T23:38:18Z', 'closed_at': '2021-09-01T21:27:18Z', 'labels': []}
+{'issuenumber': 1558, 'title': 'Precision loss in JSON RPC due to using float', 'state': 'closed', 'created_at': '2018-12-24T10:40:38Z', 'closed_at': '2019-01-17T06:28:38Z', 'labels': []}
+{'issuenumber': 1556, 'title': 'no vsize/size result on decoderawtransaction ', 'state': 'closed', 'created_at': '2018-11-22T03:22:17Z', 'closed_at': '2018-12-31T19:34:46Z', 'labels': []}
+{'issuenumber': 1554, 'title': 'Any ETA for the 1.14 final release?', 'state': 'closed', 'created_at': '2018-11-10T16:09:23Z', 'closed_at': '2018-11-10T17:11:49Z', 'labels': []}
+{'issuenumber': 1553, 'title': 'BUILD process wallet', 'state': 'closed', 'created_at': '2018-11-05T17:08:38Z', 'closed_at': '2018-12-31T19:35:23Z', 'labels': []}
+{'issuenumber': 1550, 'title': 'get chain size through rpc', 'state': 'closed', 'created_at': '2018-10-26T14:44:40Z', 'closed_at': '2020-08-06T08:05:51Z', 'labels': {'name': 'backport'}}
+{'issuenumber': 1549, 'title': 'ERROR & crash after linking data dir .dogecoin to external device dir', 'state': 'closed', 'created_at': '2018-10-24T22:00:13Z', 'closed_at': '2018-12-31T19:39:27Z', 'labels': []}
+{'issuenumber': 1547, 'title': 'getblockchaininfo - verificationprogress never goes 100%', 'state': 'closed', 'created_at': '2018-10-22T19:45:31Z', 'closed_at': '2018-12-31T19:29:24Z', 'labels': []}
+{'issuenumber': 1543, 'title': 'Static build', 'state': 'closed', 'created_at': '2018-10-15T16:34:02Z', 'closed_at': '2018-10-15T18:37:51Z', 'labels': []}
+{'issuenumber': 1540, 'title': "Systemd can't capture logs because they go to debug.log instead of stdout/stderr", 'state': 'closed', 'created_at': '2018-10-13T18:08:14Z', 'closed_at': '2018-12-31T19:39:56Z', 'labels': []}
+{'issuenumber': 1539, 'title': 'Beginner questions', 'state': 'closed', 'created_at': '2018-10-12T16:31:32Z', 'closed_at': '2018-10-12T18:30:02Z', 'labels': []}
+{'issuenumber': 1527, 'title': 'Is dogecoin core affected by CVE-2018-17144 ?', 'state': 'closed', 'created_at': '2018-09-20T08:31:56Z', 'closed_at': '2018-12-31T19:40:44Z', 'labels': []}
+{'issuenumber': 1522, 'title': 'Unable to Bootstrap via SOCKS proxy Tor', 'state': 'closed', 'created_at': '2018-08-29T09:27:20Z', 'closed_at': '2022-07-16T22:50:16Z', 'labels': []}
+{'issuenumber': 1513, 'title': 'estimatefee output error', 'state': 'closed', 'created_at': '2018-08-10T03:07:26Z', 'closed_at': '2021-09-02T20:22:47Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1512, 'title': 'Not found working mainnet dns seeds', 'state': 'closed', 'created_at': '2018-08-07T09:35:57Z', 'closed_at': '2018-12-31T19:32:27Z', 'labels': []}
+{'issuenumber': 1511, 'title': 'nodes wont start on my debian', 'state': 'closed', 'created_at': '2018-08-04T22:50:26Z', 'closed_at': '2018-12-31T19:31:15Z', 'labels': []}
+{'issuenumber': 1510, 'title': 'Updating travis', 'state': 'closed', 'created_at': '2018-08-01T13:34:06Z', 'closed_at': '2020-07-24T11:10:58Z', 'labels': []}
+{'issuenumber': 1509, 'title': 'Can not find any working java library for send/receive dogecoin', 'state': 'closed', 'created_at': '2018-07-31T13:43:37Z', 'closed_at': '2018-12-31T19:30:47Z', 'labels': []}
+{'issuenumber': 1508, 'title': '不错', 'state': 'closed', 'created_at': '2018-07-28T10:09:08Z', 'closed_at': '2018-12-31T19:29:53Z', 'labels': []}
+{'issuenumber': 1507, 'title': 'dogecore-node', 'state': 'closed', 'created_at': '2018-07-19T05:47:40Z', 'closed_at': '2018-12-31T19:41:22Z', 'labels': []}
+{'issuenumber': 1505, 'title': 'Can not find any working faucet.', 'state': 'closed', 'created_at': '2018-06-26T11:21:30Z', 'closed_at': '2018-12-31T19:30:28Z', 'labels': []}
+{'issuenumber': 1503, 'title': '!!!ATTENTION!!! THE THIEVES !!! ROBBERS !!! AFERISTS !!!', 'state': 'closed', 'created_at': '2018-06-21T07:23:00Z', 'closed_at': '2018-06-21T11:00:09Z', 'labels': []}
+{'issuenumber': 1502, 'title': 'make error: rpcserver.cpp ', 'state': 'closed', 'created_at': '2018-06-05T23:53:19Z', 'closed_at': '2018-06-06T04:02:21Z', 'labels': []}
+{'issuenumber': 1501, 'title': 'uninitialized value by static analysis tools', 'state': 'closed', 'created_at': '2018-05-28T05:53:38Z', 'closed_at': '2018-12-31T19:48:49Z', 'labels': []}
+{'issuenumber': 1500, 'title': 'unused_value by static analysis tools', 'state': 'closed', 'created_at': '2018-05-28T05:38:18Z', 'closed_at': '2018-12-31T19:44:03Z', 'labels': []}
+{'issuenumber': 1499, 'title': 'null dereference by static analysis tools', 'state': 'closed', 'created_at': '2018-05-28T05:32:51Z', 'closed_at': '2018-12-31T19:45:20Z', 'labels': []}
+{'issuenumber': 1497, 'title': "Doge wallet 1.10 Ubuntu 12,14 & 16 w/all lib's install error", 'state': 'closed', 'created_at': '2018-05-22T01:25:39Z', 'closed_at': '2018-12-31T19:49:22Z', 'labels': []}
+{'issuenumber': 1495, 'title': 'Headers cmd for spv node sending a lot of data', 'state': 'closed', 'created_at': '2018-05-20T11:02:03Z', 'closed_at': '2018-05-21T13:56:11Z', 'labels': []}
+{'issuenumber': 1492, 'title': '[spv node] transactionCount not zero when doing getHeaders command', 'state': 'closed', 'created_at': '2018-05-19T00:19:14Z', 'closed_at': '2018-05-19T18:29:59Z', 'labels': []}
+{'issuenumber': 1491, 'title': 'RPC close ', 'state': 'closed', 'created_at': '2018-05-18T15:12:30Z', 'closed_at': '2020-07-24T11:27:33Z', 'labels': []}
+{'issuenumber': 1490, 'title': 'Dogecoin not yet redeemed', 'state': 'closed', 'created_at': '2018-05-18T03:53:39Z', 'closed_at': '2018-05-18T05:20:24Z', 'labels': []}
+{'issuenumber': 1489, 'title': 'After making, where is the executable? (Linux)', 'state': 'closed', 'created_at': '2018-04-28T18:06:18Z', 'closed_at': '2018-04-28T22:38:18Z', 'labels': []}
+{'issuenumber': 1488, 'title': 'tinyformat stuck on g', 'state': 'closed', 'created_at': '2018-04-28T17:07:32Z', 'closed_at': '2018-04-28T18:06:30Z', 'labels': []}
+{'issuenumber': 1487, 'title': 'hi', 'state': 'closed', 'created_at': '2018-04-25T20:23:14Z', 'closed_at': '2018-12-31T19:49:36Z', 'labels': []}
+{'issuenumber': 1486, 'title': 'Detected LibreSSL, unable to make (OSX)', 'state': 'closed', 'created_at': '2018-04-25T04:10:12Z', 'closed_at': '2018-12-31T19:50:34Z', 'labels': []}
+{'issuenumber': 1484, 'title': 'whereis rpc document?', 'state': 'closed', 'created_at': '2018-04-16T06:19:58Z', 'closed_at': '2018-04-17T18:58:16Z', 'labels': []}
+{'issuenumber': 1482, 'title': 'Raw hex of Dogecoin gensis block', 'state': 'closed', 'created_at': '2018-03-28T19:27:06Z', 'closed_at': '2018-03-28T20:17:10Z', 'labels': []}
+{'issuenumber': 1480, 'title': 'ZMQ support', 'state': 'closed', 'created_at': '2018-03-17T14:02:08Z', 'closed_at': '2018-03-17T15:04:08Z', 'labels': []}
+{'issuenumber': 1479, 'title': 'configure: error: Found Berkeley DB other than 5.1, required for portable wallets', 'state': 'closed', 'created_at': '2018-03-12T06:30:45Z', 'closed_at': '2018-12-31T19:52:48Z', 'labels': []}
+{'issuenumber': 1478, 'title': 'Question: PROTOCOL_VERSION vs INIT_PROTO_VERSION?', 'state': 'closed', 'created_at': '2018-03-01T16:46:24Z', 'closed_at': '2018-03-01T18:24:47Z', 'labels': []}
+{'issuenumber': 1477, 'title': 'Cryptopia deposit issue (DOGE)', 'state': 'closed', 'created_at': '2018-02-26T15:55:36Z', 'closed_at': '2018-02-26T15:58:35Z', 'labels': []}
+{'issuenumber': 1476, 'title': 'Reindexing blocks in disc (Sorry for bad grammar but I got dogecoin on spanish)', 'state': 'closed', 'created_at': '2018-02-26T14:44:26Z', 'closed_at': '2018-02-26T18:21:22Z', 'labels': []}
+{'issuenumber': 1475, 'title': 'Dogecoind crashed after upgarding from 1.10 to 1.14alpha 2 ', 'state': 'closed', 'created_at': '2018-02-25T01:20:28Z', 'closed_at': '2020-07-24T11:28:07Z', 'labels': []}
+{'issuenumber': 1473, 'title': 'Is it possible yet to run a wallet on a pruned dogecoind client?', 'state': 'closed', 'created_at': '2018-02-12T19:10:08Z', 'closed_at': '2018-03-08T22:27:53Z', 'labels': []}
+{'issuenumber': 1472, 'title': 'Dogecoin Core v1.10 takes up ~2gb of RAM', 'state': 'closed', 'created_at': '2018-02-11T22:10:50Z', 'closed_at': '2018-12-31T20:00:06Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1471, 'title': 'compilation error in ubuntu', 'state': 'closed', 'created_at': '2018-02-05T17:46:19Z', 'closed_at': '2018-12-31T20:01:06Z', 'labels': []}
+{'issuenumber': 1461, 'title': 'How to redeem doge coin in my wallet', 'state': 'closed', 'created_at': '2018-01-24T16:40:24Z', 'closed_at': '2018-02-23T17:37:59Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1459, 'title': 'Can\'t create an address using "request payment" function.', 'state': 'closed', 'created_at': '2018-01-21T17:15:52Z', 'closed_at': '2018-12-31T20:03:03Z', 'labels': []}
+{'issuenumber': 1454, 'title': '[Linux] Dogecoin-Qt SystemTray Menu Inoperable', 'state': 'closed', 'created_at': '2018-01-16T16:33:50Z', 'closed_at': '2018-12-31T20:04:20Z', 'labels': []}
+{'issuenumber': 1453, 'title': 'No Wallet Has Been Loaded', 'state': 'closed', 'created_at': '2018-01-15T15:45:11Z', 'closed_at': '2018-12-31T20:06:46Z', 'labels': []}
+{'issuenumber': 1452, 'title': 'Electrum Vulnerability and Dogecoin Core', 'state': 'closed', 'created_at': '2018-01-15T03:30:55Z', 'closed_at': '2018-01-15T07:03:25Z', 'labels': []}
+{'issuenumber': 1446, 'title': 'Balance not spendable ', 'state': 'closed', 'created_at': '2018-01-11T20:18:46Z', 'closed_at': '2018-01-11T20:35:36Z', 'labels': []}
+{'issuenumber': 1445, 'title': '-service no effict on mac run  Dogecoin-QT', 'state': 'closed', 'created_at': '2018-01-11T08:02:53Z', 'closed_at': '2018-12-31T20:07:36Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1442, 'title': 'getheaders not serializing correctly in 1.14', 'state': 'closed', 'created_at': '2018-01-10T22:48:28Z', 'closed_at': '2020-07-24T11:12:08Z', 'labels': []}
+{'issuenumber': 1428, 'title': 'Error -30973 when sending doges, please help', 'state': 'closed', 'created_at': '2018-01-09T11:55:03Z', 'closed_at': '2018-12-31T20:08:21Z', 'labels': []}
+{'issuenumber': 1424, 'title': 'Getting this error message in the debug window: ERROR: AcceptToMemoryPool: non-final', 'state': 'closed', 'created_at': '2018-01-07T23:13:50Z', 'closed_at': '2018-01-08T00:40:04Z', 'labels': []}
+{'issuenumber': 1423, 'title': 'wrong portfolio on transfer', 'state': 'closed', 'created_at': '2018-01-07T15:37:18Z', 'closed_at': '2018-01-07T18:43:23Z', 'labels': []}
+{'issuenumber': 1422, 'title': '#error "You must build your code with position independent code if Qt was built with -reduce-relocations', 'state': 'closed', 'created_at': '2018-01-07T14:41:35Z', 'closed_at': '2018-12-31T20:08:37Z', 'labels': []}
+{'issuenumber': 1421, 'title': 'recipe for target', 'state': 'closed', 'created_at': '2018-01-07T10:28:31Z', 'closed_at': '2018-01-07T10:57:37Z', 'labels': []}
+{'issuenumber': 1419, 'title': 'How to redeem doge coin back from output with private key', 'state': 'closed', 'created_at': '2018-01-05T09:47:57Z', 'closed_at': '2018-09-15T07:54:18Z', 'labels': []}
+{'issuenumber': 1418, 'title': 'Move bug?', 'state': 'closed', 'created_at': '2018-01-03T01:28:08Z', 'closed_at': '2018-12-31T20:09:12Z', 'labels': []}
+{'issuenumber': 1407, 'title': 'EXCEPTION: St9bad_alloc', 'state': 'closed', 'created_at': '2017-12-26T11:17:38Z', 'closed_at': '2018-01-10T18:51:57Z', 'labels': []}
+{'issuenumber': 1402, 'title': 'Backupwallet RPC call destroyed wallet if target equals the source wallet file', 'state': 'closed', 'created_at': '2017-12-25T20:48:10Z', 'closed_at': '2018-01-05T21:32:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1401, 'title': 'Mobile wallet 1.8 version of a back up wallet into the mobile wallet 3.0 version  failed. ', 'state': 'closed', 'created_at': '2017-12-21T13:35:45Z', 'closed_at': '2017-12-21T17:46:34Z', 'labels': []}
+{'issuenumber': 1400, 'title': 'Dogecoin Core not launching Win10', 'state': 'closed', 'created_at': '2017-12-18T02:39:11Z', 'closed_at': '2017-12-22T12:36:26Z', 'labels': []}
+{'issuenumber': 1399, 'title': 'till Spendable 0!!!!!!!!', 'state': 'closed', 'created_at': '2017-12-18T00:33:24Z', 'closed_at': '2017-12-18T16:22:36Z', 'labels': []}
+{'issuenumber': 1398, 'title': 'Crash when using strace', 'state': 'closed', 'created_at': '2017-12-16T17:42:41Z', 'closed_at': '2021-09-01T21:20:30Z', 'labels': []}
+{'issuenumber': 1395, 'title': 'DogeCoin是否能改成pos出块？', 'state': 'closed', 'created_at': '2017-11-25T12:46:02Z', 'closed_at': '2017-12-27T20:05:32Z', 'labels': []}
+{'issuenumber': 1394, 'title': '0.14 rebase', 'state': 'closed', 'created_at': '2017-11-23T18:03:29Z', 'closed_at': '2017-11-23T21:23:10Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1393, 'title': 'listtransactions/listsinceblock returning odd errors', 'state': 'closed', 'created_at': '2017-11-20T05:43:39Z', 'closed_at': '2021-08-18T21:21:47Z', 'labels': []}
+{'issuenumber': 1391, 'title': 'multidoge spendable', 'state': 'closed', 'created_at': '2017-11-14T01:43:31Z', 'closed_at': '2017-12-27T20:03:56Z', 'labels': []}
+{'issuenumber': 1390, 'title': 'MultiDoge is not opening', 'state': 'closed', 'created_at': '2017-11-03T16:32:19Z', 'closed_at': '2017-12-27T20:04:17Z', 'labels': []}
+{'issuenumber': 1389, 'title': 'Rootstock(Smart Contracts)?', 'state': 'closed', 'created_at': '2017-10-26T16:15:45Z', 'closed_at': '2017-11-26T17:13:53Z', 'labels': []}
+{'issuenumber': 1387, 'title': 'Push Transaction Script', 'state': 'closed', 'created_at': '2017-10-15T04:45:43Z', 'closed_at': '2017-11-21T06:46:37Z', 'labels': []}
+{'issuenumber': 1384, 'title': "Dogecoin 'Stache", 'state': 'closed', 'created_at': '2017-09-18T17:16:29Z', 'closed_at': '2017-12-27T20:04:53Z', 'labels': []}
+{'issuenumber': 1383, 'title': 'No Block Source Available', 'state': 'closed', 'created_at': '2017-09-10T18:30:16Z', 'closed_at': '2017-09-12T05:11:22Z', 'labels': []}
+{'issuenumber': 1382, 'title': 'the lightning network? ', 'state': 'closed', 'created_at': '2017-08-22T22:08:37Z', 'closed_at': '2021-08-31T23:38:19Z', 'labels': []}
+{'issuenumber': 1377, 'title': 'Always HTTPERROR 401 ON CentOS7', 'state': 'closed', 'created_at': '2017-07-21T02:59:46Z', 'closed_at': '2017-07-21T03:15:51Z', 'labels': []}
+{'issuenumber': 1376, 'title': 'Make command not working on MAC OSx', 'state': 'closed', 'created_at': '2017-06-21T08:49:13Z', 'closed_at': '2018-12-31T20:11:53Z', 'labels': []}
+{'issuenumber': 1375, 'title': 'DogeCoin Core v1.10.0.0-bb4b082 (64bit) for Windows 10 no sync error "No block source available"', 'state': 'closed', 'created_at': '2017-06-05T11:33:44Z', 'closed_at': '2018-12-31T20:12:02Z', 'labels': []}
+{'issuenumber': 1373, 'title': 'contrib/linearize broken, Unable to read blockchain', 'state': 'closed', 'created_at': '2017-05-27T16:09:48Z', 'closed_at': '2021-02-22T11:14:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1372, 'title': 'checksum changed', 'state': 'closed', 'created_at': '2017-05-25T14:48:11Z', 'closed_at': '2018-12-31T20:13:36Z', 'labels': []}
+{'issuenumber': 1370, 'title': "Build error on Arch Linux, detecting LibreSSL when it's not installed", 'state': 'closed', 'created_at': '2017-05-22T06:24:18Z', 'closed_at': '2021-08-31T23:35:04Z', 'labels': []}
+{'issuenumber': 1368, 'title': "Can't Link LibBoost from Ubuntu Libboost1.58.0 packages", 'state': 'closed', 'created_at': '2017-05-18T02:36:15Z', 'closed_at': '2018-12-31T20:15:06Z', 'labels': []}
+{'issuenumber': 1367, 'title': 'segwit or LN?', 'state': 'closed', 'created_at': '2017-05-11T18:13:10Z', 'closed_at': '2018-12-31T20:15:36Z', 'labels': []}
+{'issuenumber': 1365, 'title': 'Beerwallet not registering Doge balance.', 'state': 'closed', 'created_at': '2017-05-09T06:06:17Z', 'closed_at': '2017-05-09T06:10:18Z', 'labels': []}
+{'issuenumber': 1364, 'title': 'Virus alert when download Dogecoin 1.10 ', 'state': 'closed', 'created_at': '2017-05-01T10:18:26Z', 'closed_at': '2017-05-07T15:56:04Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1363, 'title': 'Virus alert when download Dogecoin 1.10 ', 'state': 'closed', 'created_at': '2017-05-01T10:18:24Z', 'closed_at': '2017-05-01T13:34:42Z', 'labels': []}
+{'issuenumber': 1359, 'title': 'Discussion: updated tooling and CI, now what?', 'state': 'closed', 'created_at': '2016-12-12T11:22:33Z', 'closed_at': '2018-12-31T20:16:49Z', 'labels': []}
+{'issuenumber': 1357, 'title': 'Transactions not being added to the transaction log', 'state': 'closed', 'created_at': '2016-12-11T00:53:08Z', 'closed_at': '2021-08-21T01:03:37Z', 'labels': []}
+{'issuenumber': 1356, 'title': 'Unable to build on ubuntu 16.10 with qt5', 'state': 'closed', 'created_at': '2016-12-07T20:54:47Z', 'closed_at': '2016-12-12T06:26:42Z', 'labels': []}
+{'issuenumber': 1355, 'title': 'Segfualt on Arch Linux with Berkely Database 5.1', 'state': 'closed', 'created_at': '2016-09-19T07:24:57Z', 'closed_at': '2021-08-31T23:32:21Z', 'labels': []}
+{'issuenumber': 1354, 'title': 'Add keepkey HD wallet to recomendations of HD Wallets?', 'state': 'closed', 'created_at': '2016-09-12T17:59:46Z', 'closed_at': '2018-12-31T20:18:21Z', 'labels': []}
+{'issuenumber': 1353, 'title': 'updates to this wallet?  ', 'state': 'closed', 'created_at': '2016-08-25T19:20:09Z', 'closed_at': '2018-12-31T20:18:29Z', 'labels': []}
+{'issuenumber': 1352, 'title': 'Vulnerability to spam transactions and dynamic blocksize solution ', 'state': 'closed', 'created_at': '2016-07-22T21:05:05Z', 'closed_at': '2016-08-14T09:00:48Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1350, 'title': 'Windows 1.10 Dogecoin wallet', 'state': 'closed', 'created_at': '2016-06-27T04:33:35Z', 'closed_at': '2018-12-31T20:18:37Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1349, 'title': 'HI:  I compiled using mingw dogecoin QT client, connection error, can you help me?', 'state': 'closed', 'created_at': '2016-05-15T02:32:06Z', 'closed_at': '2018-12-31T20:18:50Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1348, 'title': '[Windows] 1.10.0 Memory Leak', 'state': 'closed', 'created_at': '2016-05-11T20:00:45Z', 'closed_at': '2016-06-05T11:19:26Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1334, 'title': 'VersionBits (BIP 9) and AuxPoW', 'state': 'closed', 'created_at': '2016-02-29T12:58:23Z', 'closed_at': '2021-06-06T11:24:58Z', 'labels': {'name': 'consensus'}}
+{'issuenumber': 1333, 'title': 'unable to build 1.10 on debian stable', 'state': 'closed', 'created_at': '2016-02-26T04:47:24Z', 'closed_at': '2016-02-26T09:06:32Z', 'labels': []}
+{'issuenumber': 1326, 'title': "Why don't we add Distributed computing function into dogecoin?", 'state': 'closed', 'created_at': '2016-02-12T03:20:30Z', 'closed_at': '2016-02-12T06:52:28Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1325, 'title': 'emdedded libbitcoinconsensus', 'state': 'closed', 'created_at': '2016-02-09T16:18:42Z', 'closed_at': '2016-02-20T17:55:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1321, 'title': '[Windows] 1.10 block corruption when syncing from scratch', 'state': 'closed', 'created_at': '2016-01-23T11:58:28Z', 'closed_at': '2021-08-19T14:47:06Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1318, 'title': 'ARM gitian builds', 'state': 'closed', 'created_at': '2016-01-05T15:12:44Z', 'closed_at': '2018-12-31T20:20:55Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1314, 'title': '"Amounts" column in "coin control" are sorted alphabetically when col header is clicked', 'state': 'closed', 'created_at': '2015-11-13T17:54:09Z', 'closed_at': '2021-08-21T01:05:04Z', 'labels': []}
+{'issuenumber': 1303, 'title': 'Unable to build on current Debian Sid', 'state': 'closed', 'created_at': '2015-10-17T14:46:35Z', 'closed_at': '2015-10-17T15:56:36Z', 'labels': []}
+{'issuenumber': 1298, 'title': 'shared icon resource in osx desktop notification', 'state': 'closed', 'created_at': '2015-10-14T14:27:55Z', 'closed_at': '2021-09-01T21:18:34Z', 'labels': {'name': 'UI'}}
+{'issuenumber': 1295, 'title': 'When DNS fails dogecoin core silently uses remembers P2P peers', 'state': 'closed', 'created_at': '2015-10-11T17:25:21Z', 'closed_at': '2018-12-31T20:22:45Z', 'labels': []}
+{'issuenumber': 1292, 'title': 'Fails to compile with miniupnpc 1.9', 'state': 'closed', 'created_at': '2015-10-06T22:32:54Z', 'closed_at': '2015-10-12T20:24:21Z', 'labels': []}
+{'issuenumber': 1289, 'title': 'Sorting inputs (Coin selection) does not behave as expected', 'state': 'closed', 'created_at': '2015-09-18T14:11:29Z', 'closed_at': '2018-12-31T20:21:47Z', 'labels': []}
+{'issuenumber': 1286, 'title': 'about.png in "Help" -> "About Dogecoin Core" is Bitcoin icon', 'state': 'closed', 'created_at': '2015-09-15T08:23:44Z', 'closed_at': '2015-09-15T08:39:05Z', 'labels': []}
+{'issuenumber': 1285, 'title': 'N5boost Error (current wallet)', 'state': 'closed', 'created_at': '2015-09-14T13:13:57Z', 'closed_at': '2015-09-14T18:01:24Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1275, 'title': 'Multisig support RPC methods', 'state': 'closed', 'created_at': '2015-09-01T19:41:08Z', 'closed_at': '2021-05-20T16:00:32Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1272, 'title': 'Peers data not saved on Windows 7', 'state': 'closed', 'created_at': '2015-08-28T22:24:33Z', 'closed_at': '2018-12-31T20:23:15Z', 'labels': []}
+{'issuenumber': 1271, 'title': 'No fee estimates are saved for testnet', 'state': 'closed', 'created_at': '2015-08-28T21:16:32Z', 'closed_at': '2015-08-29T08:31:37Z', 'labels': []}
+{'issuenumber': 1260, 'title': '0 fee and <1 fee transactions confirmed', 'state': 'closed', 'created_at': '2015-08-20T23:39:53Z', 'closed_at': '2015-10-11T08:07:10Z', 'labels': []}
+{'issuenumber': 1259, 'title': 'Compile Error for current version', 'state': 'closed', 'created_at': '2015-08-19T15:40:09Z', 'closed_at': '2015-08-20T16:55:14Z', 'labels': []}
+{'issuenumber': 1258, 'title': 'issue while doing initial sync', 'state': 'closed', 'created_at': '2015-08-19T13:21:07Z', 'closed_at': '2015-12-13T10:37:52Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1255, 'title': 'thin space in amounts', 'state': 'closed', 'created_at': '2015-08-17T12:06:48Z', 'closed_at': '2015-09-10T10:09:09Z', 'labels': []}
+{'issuenumber': 1242, 'title': 'User manual link in help menu?', 'state': 'closed', 'created_at': '2015-08-13T04:13:49Z', 'closed_at': '2021-09-03T11:50:51Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1230, 'title': 'Block height in new block notification for 1.10', 'state': 'closed', 'created_at': '2015-08-07T21:36:45Z', 'closed_at': '2015-08-11T19:31:58Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1228, 'title': 'test_bitcoin-qt failure', 'state': 'closed', 'created_at': '2015-08-07T11:54:53Z', 'closed_at': '2016-03-21T19:54:26Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1216, 'title': 'Inconsistent results on reindex', 'state': 'closed', 'created_at': '2015-07-31T07:45:50Z', 'closed_at': '2021-03-14T11:40:21Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1203, 'title': 'the gettxoutsetinfo command error', 'state': 'closed', 'created_at': '2015-07-13T00:39:31Z', 'closed_at': '2015-08-09T14:00:43Z', 'labels': []}
+{'issuenumber': 1193, 'title': "What's the story with the sudden burst of release tags?", 'state': 'closed', 'created_at': '2015-07-03T05:29:58Z', 'closed_at': '2015-07-03T05:59:26Z', 'labels': []}
+{'issuenumber': 1185, 'title': 'Blockchain regenesis', 'state': 'closed', 'created_at': '2015-06-25T13:46:00Z', 'closed_at': '2021-03-14T11:40:13Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1183, 'title': 'Request to keep gitian-descriptor file names consistent', 'state': 'closed', 'created_at': '2015-06-25T04:05:36Z', 'closed_at': '2015-08-07T15:25:53Z', 'labels': []}
+{'issuenumber': 1163, 'title': "RPC call to retrieve TxID's associated with an address", 'state': 'closed', 'created_at': '2015-06-20T19:14:03Z', 'closed_at': '2021-03-14T13:24:04Z', 'labels': []}
+{'issuenumber': 1132, 'title': 'Reconcile AuxPoW unit tests against Namecoin', 'state': 'closed', 'created_at': '2015-06-14T14:59:33Z', 'closed_at': '2015-07-15T22:58:32Z', 'labels': {'name': 'revisit later'}}
+{'issuenumber': 1131, 'title': 'Add CBlockVersion from Namecoin', 'state': 'closed', 'created_at': '2015-06-14T14:58:45Z', 'closed_at': '2015-07-15T22:58:23Z', 'labels': {'name': 'revisit later'}}
+{'issuenumber': 1128, 'title': 'Error compiling 1.8.2 with Boost 1.58.0-1', 'state': 'closed', 'created_at': '2015-05-02T09:58:44Z', 'closed_at': '2015-08-17T19:50:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1092, 'title': 'Dogecoin-qt hangs up closing sometimes', 'state': 'closed', 'created_at': '2015-03-21T22:41:52Z', 'closed_at': '2018-12-31T20:24:41Z', 'labels': []}
+{'issuenumber': 1038, 'title': 'Ubuntu dogecoin-qt will not finish loading, unresponsive, hard disk thrashes.  Too many transactions?', 'state': 'closed', 'created_at': '2015-03-15T09:58:12Z', 'closed_at': '2015-06-22T20:08:58Z', 'labels': []}
+{'issuenumber': 1023, 'title': 'Verify.sh does not verify', 'state': 'closed', 'created_at': '2015-03-11T04:05:05Z', 'closed_at': '2015-03-11T19:39:56Z', 'labels': []}
+{'issuenumber': 1015, 'title': 'Fix circular dependencies ', 'state': 'closed', 'created_at': '2015-03-08T21:34:02Z', 'closed_at': '2015-07-16T11:32:56Z', 'labels': []}
+{'issuenumber': 1014, 'title': 'Review contrib/linearize', 'state': 'closed', 'created_at': '2015-03-08T21:27:52Z', 'closed_at': '2015-06-13T22:23:59Z', 'labels': []}
+{'issuenumber': 1001, 'title': 'compile on centos', 'state': 'closed', 'created_at': '2015-03-02T07:38:06Z', 'closed_at': '2015-03-02T19:48:39Z', 'labels': []}
+{'issuenumber': 922, 'title': 'Improve return filtering on built in miner', 'state': 'closed', 'created_at': '2015-02-14T21:14:26Z', 'closed_at': '2021-03-14T11:43:13Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 921, 'title': 'PaymentServer reports all CA certs as invalid', 'state': 'closed', 'created_at': '2015-02-14T20:47:43Z', 'closed_at': '2015-08-07T08:35:43Z', 'labels': []}
+{'issuenumber': 920, 'title': 'Internal server error when getblock is passed an invalid hash', 'state': 'closed', 'created_at': '2015-02-14T15:31:46Z', 'closed_at': '2015-02-14T16:03:21Z', 'labels': []}
+{'issuenumber': 898, 'title': 'Links down at doc/bootstrap.md document.', 'state': 'closed', 'created_at': '2015-02-10T15:51:01Z', 'closed_at': '2015-02-13T23:44:38Z', 'labels': []}
+{'issuenumber': 883, 'title': 'Assertion errors while shutting down integrated miner', 'state': 'closed', 'created_at': '2015-02-07T22:43:59Z', 'closed_at': '2021-03-14T11:43:21Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 832, 'title': 'dogecoin/src/$ make -f makefile.unix use_upnp =-', 'state': 'closed', 'created_at': '2015-02-01T08:37:37Z', 'closed_at': '2015-02-01T12:25:35Z', 'labels': {'name': 'question'}}
+{'issuenumber': 787, 'title': '[COMPATIBILITY] For FreeBSD, rename le32enc/dec and be32enc/dec', 'state': 'closed', 'created_at': '2015-01-23T23:06:33Z', 'closed_at': '2015-01-31T19:18:34Z', 'labels': []}
+{'issuenumber': 783, 'title': 'Is the ComputeMinWork function wrong for the new difficulty adjustments?', 'state': 'closed', 'created_at': '2015-01-12T20:26:51Z', 'closed_at': '2015-08-07T21:47:50Z', 'labels': {'name': 'question'}}
+{'issuenumber': 782, 'title': 'Apply OpenSSL 1.0.1k fixes to Dogecoin 1.9', 'state': 'closed', 'created_at': '2015-01-12T20:18:02Z', 'closed_at': '2015-01-31T19:18:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 779, 'title': 'Compile 1.8.1 ,ld returned  1 Error, printing paper wallets', 'state': 'closed', 'created_at': '2015-01-03T11:21:42Z', 'closed_at': '2015-09-06T08:24:55Z', 'labels': []}
+{'issuenumber': 778, 'title': 'RPC call for Merged Mining', 'state': 'closed', 'created_at': '2015-01-02T22:24:25Z', 'closed_at': '2015-08-07T14:24:59Z', 'labels': {'name': 'question'}}
+{'issuenumber': 775, 'title': 'Update the fixed nodes', 'state': 'closed', 'created_at': '2015-01-02T09:11:52Z', 'closed_at': '2021-02-28T10:47:39Z', 'labels': []}
+{'issuenumber': 774, 'title': 'Check DNS seeds if they are working correctly', 'state': 'closed', 'created_at': '2015-01-02T09:10:02Z', 'closed_at': '2015-07-16T16:30:20Z', 'labels': []}
+{'issuenumber': 752, 'title': '[Request] Allow user-tunable MAX_OUTBOUND_CONNECTIONS', 'state': 'closed', 'created_at': '2014-12-17T16:09:40Z', 'closed_at': '2015-01-02T09:08:58Z', 'labels': []}
+{'issuenumber': 751, 'title': '[Request] add block height parameter to -blocknotify', 'state': 'closed', 'created_at': '2014-12-12T19:50:34Z', 'closed_at': '2015-01-02T09:08:50Z', 'labels': []}
+{'issuenumber': 746, 'title': 'getReceivedByAddress returns 0', 'state': 'closed', 'created_at': '2014-11-18T20:52:37Z', 'closed_at': '2014-12-19T17:28:05Z', 'labels': []}
+{'issuenumber': 738, 'title': 'Compiling on Ubuntu 14.10', 'state': 'closed', 'created_at': '2014-10-27T19:35:50Z', 'closed_at': '2015-08-17T19:52:13Z', 'labels': []}
+{'issuenumber': 728, 'title': 'How to add a language to DOgecoin', 'state': 'closed', 'created_at': '2014-10-05T11:06:36Z', 'closed_at': '2014-10-05T11:47:19Z', 'labels': []}
+{'issuenumber': 722, 'title': 'file makefile.unix', 'state': 'closed', 'created_at': '2014-10-04T10:17:15Z', 'closed_at': '2014-10-04T16:13:31Z', 'labels': []}
+{'issuenumber': 719, 'title': '[Suggestion] Add a button to Copy Address next to the Show Button', 'state': 'closed', 'created_at': '2014-10-01T01:06:27Z', 'closed_at': '2018-12-31T20:26:14Z', 'labels': []}
+{'issuenumber': 717, 'title': 'Max orphan blocks problem when syncing.', 'state': 'closed', 'created_at': '2014-09-26T13:34:22Z', 'closed_at': '2015-09-05T12:23:47Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 714, 'title': 'Out of memory while synching blockchain', 'state': 'closed', 'created_at': '2014-09-22T12:48:46Z', 'closed_at': '2016-03-19T21:58:31Z', 'labels': []}
+{'issuenumber': 711, 'title': 'new suggeted features ', 'state': 'closed', 'created_at': '2014-09-21T19:37:32Z', 'closed_at': '2018-12-31T20:26:30Z', 'labels': []}
+{'issuenumber': 705, 'title': 'Compile 1.8 ,Encountered an error', 'state': 'closed', 'created_at': '2014-09-15T03:49:46Z', 'closed_at': '2018-12-31T20:26:39Z', 'labels': []}
+{'issuenumber': 703, 'title': 'Stop relaying free TXes', 'state': 'closed', 'created_at': '2014-09-13T09:04:18Z', 'closed_at': '2021-03-14T11:39:14Z', 'labels': []}
+{'issuenumber': 702, 'title': '[Question] How to verify/monitor AUXPOW activity in dogecoin server while p2pool mining?', 'state': 'closed', 'created_at': '2014-09-12T20:47:09Z', 'closed_at': '2018-12-31T20:27:23Z', 'labels': {'name': 'question'}}
+{'issuenumber': 700, 'title': 'DOGE parameters for wrapper', 'state': 'closed', 'created_at': '2014-09-06T18:35:03Z', 'closed_at': '2018-12-31T20:27:58Z', 'labels': {'name': 'question'}}
+{'issuenumber': 699, 'title': 'Cannot configure 1.8 on MacOSX Mavericks (10.9.4)', 'state': 'closed', 'created_at': '2014-09-05T14:01:59Z', 'closed_at': '2015-08-08T22:47:04Z', 'labels': []}
+{'issuenumber': 698, 'title': 'Build problem', 'state': 'closed', 'created_at': '2014-09-05T09:34:28Z', 'closed_at': '2014-09-05T21:01:41Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 697, 'title': 'Crash on startup', 'state': 'closed', 'created_at': '2014-09-05T09:28:50Z', 'closed_at': '2014-09-05T21:07:00Z', 'labels': []}
+{'issuenumber': 694, 'title': 'miniupnp 1.9.20140701 breaks windows build', 'state': 'closed', 'created_at': '2014-09-01T21:19:13Z', 'closed_at': '2014-09-03T02:04:37Z', 'labels': []}
+{'issuenumber': 692, 'title': 'Network discovery issues in 1.8', 'state': 'closed', 'created_at': '2014-08-31T10:01:34Z', 'closed_at': '2015-07-15T22:57:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 691, 'title': '[IDEA] Ability to label transactions', 'state': 'closed', 'created_at': '2014-08-30T20:59:36Z', 'closed_at': '2018-12-31T20:28:14Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 687, 'title': "Dogecoin v.1.8.0 won't compile with any version of libboost", 'state': 'closed', 'created_at': '2014-08-30T13:36:09Z', 'closed_at': '2014-08-30T14:54:04Z', 'labels': []}
+{'issuenumber': 670, 'title': 'RPC calls are slow', 'state': 'closed', 'created_at': '2014-08-28T06:46:14Z', 'closed_at': '2016-01-05T13:49:52Z', 'labels': []}
+{'issuenumber': 666, 'title': 'Warning: swp{b} use is deprecated for this architecture', 'state': 'closed', 'created_at': '2014-08-25T13:34:35Z', 'closed_at': '2014-08-27T08:14:47Z', 'labels': []}
+{'issuenumber': 662, 'title': 'Windows installer includes old readme.txt', 'state': 'closed', 'created_at': '2014-08-24T22:16:07Z', 'closed_at': '2014-08-27T08:17:31Z', 'labels': []}
+{'issuenumber': 661, 'title': 'Wallet options allow 0 DOGE fee', 'state': 'closed', 'created_at': '2014-08-24T21:33:45Z', 'closed_at': '2016-01-05T12:19:35Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 655, 'title': 'Dependencies: new openssl / boost versions', 'state': 'closed', 'created_at': '2014-08-24T09:56:29Z', 'closed_at': '2014-09-08T11:06:55Z', 'labels': []}
+{'issuenumber': 652, 'title': '[Q] Re v1.8beta , Expected ETA of block 371,337 on "mainnet"?', 'state': 'closed', 'created_at': '2014-08-23T23:56:13Z', 'closed_at': '2014-08-24T06:30:24Z', 'labels': {'name': 'question'}}
+{'issuenumber': 632, 'title': 'Unused function in scrypt.cpp', 'state': 'closed', 'created_at': '2014-08-22T20:39:50Z', 'closed_at': '2014-08-24T14:32:55Z', 'labels': []}
+{'issuenumber': 629, 'title': 'miner.cpp: In function ‘void DogecoinMiner(CWallet*)’: miner.cpp:536:74: warning: format ‘%u’ expects argument of type ‘unsigned int’, but argument 2 has type ‘std::vector<CTransaction>::size_type {aka long unsigned int}’ [-Wformat]', 'state': 'closed', 'created_at': '2014-08-22T17:52:01Z', 'closed_at': '2015-08-17T19:53:50Z', 'labels': []}
+{'issuenumber': 619, 'title': 'Add specific RPC error messages for Aux functionality before switchover block', 'state': 'closed', 'created_at': '2014-08-18T09:27:05Z', 'closed_at': '2014-08-19T15:24:53Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 618, 'title': 'Disable safemode automatically around AuxPoW fork block', 'state': 'closed', 'created_at': '2014-08-18T09:26:03Z', 'closed_at': '2014-08-24T14:30:29Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 608, 'title': 'invalid url and rss feed', 'state': 'closed', 'created_at': '2014-08-15T20:10:08Z', 'closed_at': '2014-08-17T12:38:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 599, 'title': 'Has 1.7.2 been abandoned', 'state': 'closed', 'created_at': '2014-08-08T09:21:51Z', 'closed_at': '2014-08-17T12:38:42Z', 'labels': {'name': 'question'}}
+{'issuenumber': 595, 'title': 'Issues with AuxPoW and SPV', 'state': 'closed', 'created_at': '2014-08-07T18:30:40Z', 'closed_at': '2014-08-07T19:28:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 593, 'title': '[Q] running v1.8-dev on testnet with p2pool', 'state': 'closed', 'created_at': '2014-08-05T07:49:38Z', 'closed_at': '2014-08-05T14:02:49Z', 'labels': []}
+{'issuenumber': 586, 'title': 'Assertion failure on automatic re-index', 'state': 'closed', 'created_at': '2014-08-04T00:21:32Z', 'closed_at': '2014-08-17T12:39:33Z', 'labels': []}
+{'issuenumber': 580, 'title': 'Re-enable address list export from Dogecoin Core client', 'state': 'closed', 'created_at': '2014-07-22T04:48:07Z', 'closed_at': '2014-07-31T19:31:21Z', 'labels': []}
+{'issuenumber': 579, 'title': 'Unused Function', 'state': 'closed', 'created_at': '2014-07-19T03:59:10Z', 'closed_at': '2014-08-07T19:28:47Z', 'labels': []}
+{'issuenumber': 577, 'title': 'Cant compile doge.', 'state': 'closed', 'created_at': '2014-07-15T00:07:40Z', 'closed_at': '2014-07-15T16:28:58Z', 'labels': []}
+{'issuenumber': 576, 'title': 'Printing paper wallets', 'state': 'closed', 'created_at': '2014-07-14T23:02:27Z', 'closed_at': '2015-03-26T22:16:22Z', 'labels': []}
+{'issuenumber': 569, 'title': 'libdbcxx version not in line with upstream', 'state': 'closed', 'created_at': '2014-07-05T14:59:03Z', 'closed_at': '2014-07-06T18:41:32Z', 'labels': []}
+{'issuenumber': 568, 'title': 'Version Numbers Not in line with Upstream', 'state': 'closed', 'created_at': '2014-07-05T14:57:40Z', 'closed_at': '2014-07-06T18:40:18Z', 'labels': []}
+{'issuenumber': 566, 'title': 'Invalid, weaker fork can trigger safemode on correct fork', 'state': 'closed', 'created_at': '2014-07-03T15:08:11Z', 'closed_at': '2015-09-05T12:22:00Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 565, 'title': 'Much receive window enhancements.', 'state': 'closed', 'created_at': '2014-06-29T18:45:40Z', 'closed_at': '2018-12-31T20:28:52Z', 'labels': []}
+{'issuenumber': 563, 'title': 'dogecoin-1.7.1 compile error', 'state': 'closed', 'created_at': '2014-06-26T20:09:50Z', 'closed_at': '2015-08-07T08:32:24Z', 'labels': {'name': 'question'}}
+{'issuenumber': 562, 'title': 'Release version 1.7.1 showing as 1.7.0 in splash and about screens.', 'state': 'closed', 'created_at': '2014-06-26T18:21:22Z', 'closed_at': '2014-08-19T19:31:54Z', 'labels': []}
+{'issuenumber': 561, 'title': 'Compiled on centos', 'state': 'closed', 'created_at': '2014-06-23T13:22:36Z', 'closed_at': '2014-08-24T14:35:21Z', 'labels': {'name': 'question'}}
+{'issuenumber': 550, 'title': 'OpenSSL Advisory 20140605', 'state': 'closed', 'created_at': '2014-06-05T18:12:52Z', 'closed_at': '2014-06-09T16:52:19Z', 'labels': []}
+{'issuenumber': 538, 'title': 'URI handler not always registering correctly', 'state': 'closed', 'created_at': '2014-05-27T11:56:03Z', 'closed_at': '2018-12-31T20:29:06Z', 'labels': []}
+{'issuenumber': 537, 'title': 'opening dogecoin URI results in startup error if already running', 'state': 'closed', 'created_at': '2014-05-27T11:53:11Z', 'closed_at': '2014-06-29T13:32:30Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 533, 'title': 'CCache issues on Debian Jessie', 'state': 'closed', 'created_at': '2014-05-25T13:09:37Z', 'closed_at': '2015-08-07T08:31:26Z', 'labels': []}
+{'issuenumber': 530, 'title': 'Boost link error while compiling on Ubuntu 12.04.4 LTS', 'state': 'closed', 'created_at': '2014-05-24T08:53:23Z', 'closed_at': '2014-05-24T15:02:20Z', 'labels': {'name': 'question'}}
+{'issuenumber': 529, 'title': 'Missing autoreconf for compiling in unix evironments', 'state': 'closed', 'created_at': '2014-05-24T02:38:15Z', 'closed_at': '2014-05-24T14:56:23Z', 'labels': {'name': 'question'}}
+{'issuenumber': 526, 'title': 'Datadir issues', 'state': 'closed', 'created_at': '2014-05-18T16:43:10Z', 'closed_at': '2014-08-24T14:31:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 519, 'title': 'OS X: Unable to reopen the window after closing it', 'state': 'closed', 'created_at': '2014-05-16T21:52:17Z', 'closed_at': '2015-08-24T08:39:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 518, 'title': 'Building on Ubuntu 14.04 with libdb5.1 and libboost1.55 gives linker error ', 'state': 'closed', 'created_at': '2014-05-16T15:54:11Z', 'closed_at': '2014-05-16T16:31:12Z', 'labels': []}
+{'issuenumber': 517, 'title': 'Testnet multisig address length', 'state': 'closed', 'created_at': '2014-05-14T12:35:22Z', 'closed_at': '2014-07-01T07:23:57Z', 'labels': {'name': 'question'}}
+{'issuenumber': 511, 'title': 'In the 1.7 Qt client splashscreen text overlaps the logo', 'state': 'closed', 'created_at': '2014-05-09T06:44:34Z', 'closed_at': '2014-05-21T22:10:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 509, 'title': 'Enable non-custodial wallet accounting', 'state': 'closed', 'created_at': '2014-05-08T02:42:44Z', 'closed_at': '2018-12-31T20:29:34Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 508, 'title': '[Branding]: Comic Sans on non-MS systems?', 'state': 'closed', 'created_at': '2014-05-06T09:41:10Z', 'closed_at': '2014-05-21T05:53:28Z', 'labels': []}
+{'issuenumber': 500, 'title': '1.7 confirmation requirement', 'state': 'closed', 'created_at': '2014-05-03T17:01:01Z', 'closed_at': '2014-05-04T14:43:44Z', 'labels': []}
+{'issuenumber': 489, 'title': 'Cannot download the 1.6 client', 'state': 'closed', 'created_at': '2014-04-24T21:07:30Z', 'closed_at': '2014-04-24T21:56:58Z', 'labels': []}
+{'issuenumber': 484, 'title': 'Need a better way of using bootstrap.dat', 'state': 'closed', 'created_at': '2014-04-23T12:40:40Z', 'closed_at': '2014-09-03T17:43:12Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 479, 'title': 'Wallet keeps rejecting sends in 1.7 Beta 1 on Mac OS X 10.8.5', 'state': 'closed', 'created_at': '2014-04-20T00:18:03Z', 'closed_at': '2014-04-23T13:34:14Z', 'labels': []}
+{'issuenumber': 477, 'title': 'Block/WalletNotify Flashing Console Window on Windows', 'state': 'closed', 'created_at': '2014-04-18T05:18:40Z', 'closed_at': '2021-09-01T21:09:24Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 476, 'title': 'Possible exploit - block inventory spam', 'state': 'closed', 'created_at': '2014-04-17T20:47:15Z', 'closed_at': '2015-08-07T14:29:55Z', 'labels': []}
+{'issuenumber': 472, 'title': 'Request to implement support for resolving DNS via the SOCKS4 proxy (SOCKS4a) and SOCKS5', 'state': 'closed', 'created_at': '2014-04-16T21:26:58Z', 'closed_at': '2018-12-31T20:31:15Z', 'labels': []}
+{'issuenumber': 464, 'title': 'Mined Transaction Details in Dogecoin-QT is wrong', 'state': 'closed', 'created_at': '2014-04-14T04:51:38Z', 'closed_at': '2015-08-07T08:30:21Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 463, 'title': 'Transaction Fees after the 600,000th block?', 'state': 'closed', 'created_at': '2014-04-14T02:39:40Z', 'closed_at': '2014-08-24T14:37:40Z', 'labels': {'name': 'question'}}
+{'issuenumber': 454, 'title': 'Alertnotify Unit Test', 'state': 'closed', 'created_at': '2014-04-13T20:31:29Z', 'closed_at': '2014-04-24T20:08:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 445, 'title': 'Fix for heartbleed', 'state': 'closed', 'created_at': '2014-04-11T02:25:15Z', 'closed_at': '2014-08-01T16:16:57Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 434, 'title': 'newer build linked to updated OpenSSL library', 'state': 'closed', 'created_at': '2014-04-09T12:08:23Z', 'closed_at': '2014-04-09T12:14:34Z', 'labels': []}
+{'issuenumber': 421, 'title': 'Have you considered using Travis CI?', 'state': 'closed', 'created_at': '2014-04-06T11:33:19Z', 'closed_at': '2014-04-20T14:21:25Z', 'labels': []}
+{'issuenumber': 414, 'title': 'CECKey issue CentOS 64-bit', 'state': 'closed', 'created_at': '2014-04-04T15:18:21Z', 'closed_at': '2014-04-11T21:18:21Z', 'labels': []}
+{'issuenumber': 413, 'title': 'wallet will not sync 1.6', 'state': 'closed', 'created_at': '2014-04-04T11:43:05Z', 'closed_at': '2014-05-13T13:05:43Z', 'labels': []}
+{'issuenumber': 412, 'title': 'My updated (1.6) wallet will not sync', 'state': 'closed', 'created_at': '2014-04-04T02:42:50Z', 'closed_at': '2014-04-04T06:01:00Z', 'labels': []}
+{'issuenumber': 405, 'title': "QT On Mac Mavericks Right Click Menu Doesn't disappear", 'state': 'closed', 'created_at': '2014-04-03T06:33:25Z', 'closed_at': '2014-04-24T20:14:46Z', 'labels': []}
+{'issuenumber': 390, 'title': 'dogechain.info removed from DNS seeds in 1.7?', 'state': 'closed', 'created_at': '2014-03-30T17:09:15Z', 'closed_at': '2014-03-30T22:59:57Z', 'labels': []}
+{'issuenumber': 389, 'title': 'Client 1.6 caused "System Error - Database Corrupted"', 'state': 'closed', 'created_at': '2014-03-30T13:13:28Z', 'closed_at': '2014-03-30T17:54:06Z', 'labels': []}
+{'issuenumber': 387, 'title': 'Illustrated: Dogecoin 1.5 to 1.6; evidence of anomaly in timestamps', 'state': 'closed', 'created_at': '2014-03-30T11:14:26Z', 'closed_at': '2014-08-24T15:37:23Z', 'labels': []}
+{'issuenumber': 377, 'title': 'Tests do not compile in 1.7', 'state': 'closed', 'created_at': '2014-03-29T14:31:00Z', 'closed_at': '2014-03-30T00:09:59Z', 'labels': []}
+{'issuenumber': 369, 'title': '[enhancement] website optimization', 'state': 'closed', 'created_at': '2014-03-28T17:23:27Z', 'closed_at': '2014-03-28T17:36:58Z', 'labels': []}
+{'issuenumber': 368, 'title': 'Display your dogecoin amount to send in both decimal and words.', 'state': 'closed', 'created_at': '2014-03-28T04:57:07Z', 'closed_at': '2014-05-13T13:00:55Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 367, 'title': 'Windows compilation documentation needs extending', 'state': 'closed', 'created_at': '2014-03-26T20:50:22Z', 'closed_at': '2015-08-07T14:33:21Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 365, 'title': 'Too easy to send incorrect amounts', 'state': 'closed', 'created_at': '2014-03-25T11:10:57Z', 'closed_at': '2016-01-05T12:29:31Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 360, 'title': 'Bitcoin 0.9.0', 'state': 'closed', 'created_at': '2014-03-22T22:56:22Z', 'closed_at': '2014-05-13T13:03:46Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 356, 'title': 'Implement the Cuckoo Cycle algorithm', 'state': 'closed', 'created_at': '2014-03-21T20:41:14Z', 'closed_at': '2014-08-01T16:23:44Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 355, 'title': 'Wafflepool at 47.3% of the network', 'state': 'closed', 'created_at': '2014-03-21T17:19:38Z', 'closed_at': '2014-08-19T19:30:44Z', 'labels': {'name': 'question'}}
+{'issuenumber': 354, 'title': 'submitblock error "inputs missing/spent"', 'state': 'closed', 'created_at': '2014-03-20T21:27:36Z', 'closed_at': '2014-05-13T12:53:32Z', 'labels': []}
+{'issuenumber': 353, 'title': 'Timestamps are wrong again :(', 'state': 'closed', 'created_at': '2014-03-20T12:21:26Z', 'closed_at': '2014-05-09T12:17:15Z', 'labels': []}
+{'issuenumber': 351, 'title': '(maybe) official ASCII art?', 'state': 'closed', 'created_at': '2014-03-20T07:49:31Z', 'closed_at': '2014-04-24T20:25:55Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 349, 'title': '[Request] Remove change addresses by default', 'state': 'closed', 'created_at': '2014-03-20T03:46:53Z', 'closed_at': '2014-03-21T21:41:05Z', 'labels': []}
+{'issuenumber': 345, 'title': '[Suggestion] "Simply Lost"', 'state': 'closed', 'created_at': '2014-03-18T20:16:10Z', 'closed_at': '2014-08-24T15:44:16Z', 'labels': []}
+{'issuenumber': 341, 'title': 'RPC listtransactions serious bug - invalid send addresses', 'state': 'closed', 'created_at': '2014-03-16T20:43:50Z', 'closed_at': '2014-03-17T06:44:56Z', 'labels': []}
+{'issuenumber': 340, 'title': 'GetNetworkHashPS for digishield', 'state': 'closed', 'created_at': '2014-03-16T13:02:42Z', 'closed_at': '2014-05-13T12:46:23Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 336, 'title': 'MultiSig', 'state': 'closed', 'created_at': '2014-03-14T23:29:20Z', 'closed_at': '2015-08-07T14:31:15Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 334, 'title': 'Very high orphan rate in 1.6 wallet.', 'state': 'closed', 'created_at': '2014-03-14T18:15:09Z', 'closed_at': '2014-03-15T19:19:52Z', 'labels': []}
+{'issuenumber': 333, 'title': 'Performance: Transactions with many inputs are very slow', 'state': 'closed', 'created_at': '2014-03-13T17:18:12Z', 'closed_at': '2014-08-24T15:34:02Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 332, 'title': 'Backport block reward changes to 1.4.x please', 'state': 'closed', 'created_at': '2014-03-13T16:15:24Z', 'closed_at': '2014-03-29T14:27:56Z', 'labels': []}
+{'issuenumber': 331, 'title': "Unable to 'pull' over 1.5", 'state': 'closed', 'created_at': '2014-03-13T06:56:30Z', 'closed_at': '2014-03-13T07:02:36Z', 'labels': []}
+{'issuenumber': 324, 'title': 'Alerts System', 'state': 'closed', 'created_at': '2014-03-12T12:17:43Z', 'closed_at': '2014-03-12T12:32:19Z', 'labels': []}
+{'issuenumber': 323, 'title': 'Fork timeplan', 'state': 'closed', 'created_at': '2014-03-12T11:19:11Z', 'closed_at': '2014-03-22T22:34:23Z', 'labels': []}
+{'issuenumber': 322, 'title': 'fatal error: miniupnpc/miniwget.h: No such file', 'state': 'closed', 'created_at': '2014-03-12T09:54:35Z', 'closed_at': '2014-03-12T10:05:58Z', 'labels': []}
+{'issuenumber': 321, 'title': 'Add automatic client update feature', 'state': 'closed', 'created_at': '2014-03-12T09:13:11Z', 'closed_at': '2014-04-24T23:11:37Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 318, 'title': 'Extend mining phase', 'state': 'closed', 'created_at': '2014-03-10T20:13:05Z', 'closed_at': '2014-03-18T21:24:25Z', 'labels': []}
+{'issuenumber': 317, 'title': 'Current block retargetting requires PoS', 'state': 'closed', 'created_at': '2014-03-10T19:52:03Z', 'closed_at': '2014-03-10T19:52:33Z', 'labels': []}
+{'issuenumber': 316, 'title': 'Encourage sweeping?', 'state': 'closed', 'created_at': '2014-03-10T14:00:15Z', 'closed_at': '2018-12-31T20:32:36Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 315, 'title': 'Coinbase maturity time', 'state': 'closed', 'created_at': '2014-03-10T03:12:07Z', 'closed_at': '2014-03-13T21:07:01Z', 'labels': []}
+{'issuenumber': 311, 'title': '[request] Add compiled dogecoind to releases', 'state': 'closed', 'created_at': '2014-03-08T20:26:11Z', 'closed_at': '2014-03-09T23:59:30Z', 'labels': []}
+{'issuenumber': 308, 'title': '[Feature Request] Windows HTTP Proxy Support', 'state': 'closed', 'created_at': '2014-03-06T21:34:55Z', 'closed_at': '2014-03-07T21:40:33Z', 'labels': []}
+{'issuenumber': 307, 'title': 'Compilation fails with g++ 4.8.2', 'state': 'closed', 'created_at': '2014-03-06T21:34:32Z', 'closed_at': '2014-03-07T03:48:31Z', 'labels': []}
+{'issuenumber': 306, 'title': 'add  QR-code', 'state': 'closed', 'created_at': '2014-03-06T00:56:23Z', 'closed_at': '2014-03-07T03:49:25Z', 'labels': []}
+{'issuenumber': 304, 'title': 'Daemon stops receiving blocks, Will not resume unless restarted.', 'state': 'closed', 'created_at': '2014-03-04T20:28:49Z', 'closed_at': '2014-08-24T14:40:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 302, 'title': '[Feature Request]Choosable blockchain store folder', 'state': 'closed', 'created_at': '2014-03-03T19:22:13Z', 'closed_at': '2014-04-15T19:53:04Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 301, 'title': 'Debug Window is missing a close button', 'state': 'closed', 'created_at': '2014-03-03T18:19:41Z', 'closed_at': '2014-04-30T10:53:06Z', 'labels': []}
+{'issuenumber': 298, 'title': 'Startup Square icon/logo persists', 'state': 'closed', 'created_at': '2014-03-03T07:08:26Z', 'closed_at': '2014-04-24T20:24:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 297, 'title': 'Startup ', 'state': 'closed', 'created_at': '2014-03-03T07:02:52Z', 'closed_at': '2014-03-03T07:16:41Z', 'labels': []}
+{'issuenumber': 296, 'title': 'Add preference to automatically check for updates', 'state': 'closed', 'created_at': '2014-03-03T07:02:33Z', 'closed_at': '2014-08-24T14:41:05Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 295, 'title': 'Command-m to minimize does not work on Mac OS X', 'state': 'closed', 'created_at': '2014-03-03T06:58:19Z', 'closed_at': '2014-08-24T22:38:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 293, 'title': 'Generate Merkle Hash and Gensis block for POS coin', 'state': 'closed', 'created_at': '2014-03-01T11:23:01Z', 'closed_at': '2014-03-01T13:27:57Z', 'labels': []}
+{'issuenumber': 289, 'title': '[Suggestion] Prompt for password on wallet generation', 'state': 'closed', 'created_at': '2014-02-26T06:04:26Z', 'closed_at': '2018-12-31T20:32:45Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 288, 'title': 'mac os x mavericks qt client build error: db::verify undefined symbols for x86_64', 'state': 'closed', 'created_at': '2014-02-26T05:15:30Z', 'closed_at': '2014-04-24T20:23:17Z', 'labels': []}
+{'issuenumber': 286, 'title': 'Qt Creator Error 1', 'state': 'closed', 'created_at': '2014-02-25T18:38:12Z', 'closed_at': '2014-04-24T20:20:59Z', 'labels': []}
+{'issuenumber': 285, 'title': 'dogecoind missed a deposit', 'state': 'closed', 'created_at': '2014-02-25T08:59:19Z', 'closed_at': '2014-05-13T13:34:10Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 284, 'title': 'Dogecoin Recovery', 'state': 'closed', 'created_at': '2014-02-25T06:22:56Z', 'closed_at': '2014-02-25T07:34:05Z', 'labels': []}
+{'issuenumber': 282, 'title': 'Item "Show transaction of Dogechain" not translated at all', 'state': 'closed', 'created_at': '2014-02-24T02:14:41Z', 'closed_at': '2014-08-24T14:41:44Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 280, 'title': '1.5 Dying with buffer overflow', 'state': 'closed', 'created_at': '2014-02-23T17:42:59Z', 'closed_at': '2014-08-24T14:42:05Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 278, 'title': "OSX 10.9 - Wallet window won't un-minimize", 'state': 'closed', 'created_at': '2014-02-23T08:37:24Z', 'closed_at': '2014-05-15T20:39:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 277, 'title': 'Upon exit, wallet 1.5.2 on OSX Mavericks flashes exception error:', 'state': 'closed', 'created_at': '2014-02-22T20:19:15Z', 'closed_at': '2014-05-13T12:31:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 275, 'title': 'French wallet says send bitcoins instead of dogecoins', 'state': 'closed', 'created_at': '2014-02-22T17:20:10Z', 'closed_at': '2014-02-23T15:14:17Z', 'labels': []}
+{'issuenumber': 263, 'title': 'Instructions for building with OSX needs more clarity', 'state': 'closed', 'created_at': '2014-02-20T08:56:29Z', 'closed_at': '2014-03-12T19:15:47Z', 'labels': []}
+{'issuenumber': 262, 'title': 'dogecoin.conf is ignored on Windows', 'state': 'closed', 'created_at': '2014-02-20T05:20:27Z', 'closed_at': '2014-02-20T05:41:12Z', 'labels': []}
+{'issuenumber': 261, 'title': '[MAC] Feature request for dogecoin & NC integration.', 'state': 'closed', 'created_at': '2014-02-19T17:27:07Z', 'closed_at': '2018-12-31T20:32:54Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 260, 'title': 'i think this is serious problem, am i right?', 'state': 'closed', 'created_at': '2014-02-19T14:10:37Z', 'closed_at': '2014-02-19T14:28:29Z', 'labels': []}
+{'issuenumber': 259, 'title': 'Pool payout transactions getting lost', 'state': 'closed', 'created_at': '2014-02-19T05:02:18Z', 'closed_at': '2014-04-24T20:20:15Z', 'labels': []}
+{'issuenumber': 254, 'title': 'Internal Server Error 500 intermittently occurs when doing sendtoaddress or sendtomany', 'state': 'closed', 'created_at': '2014-02-18T02:26:39Z', 'closed_at': '2014-04-24T23:28:51Z', 'labels': []}
+{'issuenumber': 253, 'title': 'Dogecoin 1.5+ performance', 'state': 'closed', 'created_at': '2014-02-18T00:13:52Z', 'closed_at': '2014-02-25T11:21:29Z', 'labels': []}
+{'issuenumber': 252, 'title': '..', 'state': 'closed', 'created_at': '2014-02-17T19:05:32Z', 'closed_at': '2014-02-17T20:14:57Z', 'labels': []}
+{'issuenumber': 251, 'title': 'do you guys know the chinese dogecoin1.51 is wrong about chinese?', 'state': 'closed', 'created_at': '2014-02-17T16:53:16Z', 'closed_at': '2014-02-18T11:19:47Z', 'labels': []}
+{'issuenumber': 250, 'title': 'URGENT : Dogecoin fork #2', 'state': 'closed', 'created_at': '2014-02-17T14:19:09Z', 'closed_at': '2014-03-02T00:02:09Z', 'labels': []}
+{'issuenumber': 249, 'title': "How to make DogeCoin client portable on Windows? I can't find a .zip version.", 'state': 'closed', 'created_at': '2014-02-17T13:33:05Z', 'closed_at': '2014-02-17T13:52:58Z', 'labels': []}
+{'issuenumber': 248, 'title': 'MultiSig Support?', 'state': 'closed', 'created_at': '2014-02-16T04:09:01Z', 'closed_at': '2014-03-03T07:35:45Z', 'labels': []}
+{'issuenumber': 247, 'title': 'Cannot compile', 'state': 'closed', 'created_at': '2014-02-15T08:55:35Z', 'closed_at': '2014-02-15T09:52:05Z', 'labels': []}
+{'issuenumber': 246, 'title': 'Add address prefixes to wiki', 'state': 'closed', 'created_at': '2014-02-15T02:06:22Z', 'closed_at': '2014-02-23T07:28:05Z', 'labels': []}
+{'issuenumber': 245, 'title': 'rightmost column in Windows 1.5.1 not resizable', 'state': 'closed', 'created_at': '2014-02-13T23:52:31Z', 'closed_at': '2014-04-24T20:18:49Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 244, 'title': 'linux tarball? ', 'state': 'closed', 'created_at': '2014-02-13T05:55:58Z', 'closed_at': '2014-04-13T20:26:48Z', 'labels': []}
+{'issuenumber': 241, 'title': 'Diskspace error message', 'state': 'closed', 'created_at': '2014-02-12T12:45:22Z', 'closed_at': '2014-05-02T19:43:08Z', 'labels': []}
+{'issuenumber': 240, 'title': 'Watch only address support?', 'state': 'closed', 'created_at': '2014-02-12T02:08:15Z', 'closed_at': '2014-02-12T02:11:55Z', 'labels': []}
+{'issuenumber': 239, 'title': 'dogecoin-qt drop-down menus not closing', 'state': 'closed', 'created_at': '2014-02-11T22:47:33Z', 'closed_at': '2014-02-11T23:12:40Z', 'labels': []}
+{'issuenumber': 238, 'title': "dogecoin-qt doesn't sychronize", 'state': 'closed', 'created_at': '2014-02-11T19:53:27Z', 'closed_at': '2014-02-12T13:11:53Z', 'labels': []}
+{'issuenumber': 237, 'title': 'makefile termination in Ubuntu 13.10 64bit Desktop', 'state': 'closed', 'created_at': '2014-02-11T14:28:03Z', 'closed_at': '2014-02-12T13:16:45Z', 'labels': []}
+{'issuenumber': 235, 'title': 'No fee when using change in config', 'state': 'closed', 'created_at': '2014-02-11T06:15:36Z', 'closed_at': '2014-02-15T23:17:56Z', 'labels': []}
+{'issuenumber': 234, 'title': 'Transaction malleability bugs in Bitcoin, can cause exchange double spend', 'state': 'closed', 'created_at': '2014-02-10T16:54:37Z', 'closed_at': '2014-02-10T21:44:22Z', 'labels': []}
+{'issuenumber': 233, 'title': '[Enhancement] Percentage/ETA in Progress Bar', 'state': 'closed', 'created_at': '2014-02-10T01:46:43Z', 'closed_at': '2018-12-31T20:33:09Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 232, 'title': 'Transactions not being broadcast to nodes in a timely manner/Long Transaction Queue', 'state': 'closed', 'created_at': '2014-02-09T21:52:02Z', 'closed_at': '2014-05-13T13:02:51Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 230, 'title': "Windows Setup 1.5.1 crashes on start, doesn't run (Win 8.1.)", 'state': 'closed', 'created_at': '2014-02-09T20:08:31Z', 'closed_at': '2014-02-09T20:26:21Z', 'labels': []}
+{'issuenumber': 229, 'title': 'Major issue in version 1.5 causing lots of Orphaned Blocks', 'state': 'closed', 'created_at': '2014-02-09T13:31:51Z', 'closed_at': '2014-03-04T11:32:50Z', 'labels': []}
+{'issuenumber': 226, 'title': 'Mac: Context menu can stay above other apps.', 'state': 'closed', 'created_at': '2014-02-07T23:42:19Z', 'closed_at': '2014-02-09T11:51:33Z', 'labels': []}
+{'issuenumber': 225, 'title': 'Application crashes and closes upon opening (v1.5 - Mavericks)', 'state': 'closed', 'created_at': '2014-02-07T18:21:39Z', 'closed_at': '2014-02-11T23:10:27Z', 'labels': []}
+{'issuenumber': 222, 'title': 'make link work with desktop wallet', 'state': 'closed', 'created_at': '2014-02-07T04:29:15Z', 'closed_at': '2014-02-07T04:53:21Z', 'labels': []}
+{'issuenumber': 221, 'title': 'Create Web UI for satoshi Client', 'state': 'closed', 'created_at': '2014-02-06T23:34:08Z', 'closed_at': '2014-02-09T10:58:25Z', 'labels': []}
+{'issuenumber': 220, 'title': 'Cannot connect to server', 'state': 'closed', 'created_at': '2014-02-06T23:23:09Z', 'closed_at': '2014-02-07T11:05:33Z', 'labels': []}
+{'issuenumber': 218, 'title': '"CWalletTx::GetAmounts: Unknown transaction type found <txid>" errors and account balance issues with 1.5', 'state': 'closed', 'created_at': '2014-02-06T18:28:10Z', 'closed_at': '2014-02-09T10:12:41Z', 'labels': []}
+{'issuenumber': 217, 'title': 'Very laggy transactions, only 2 sent per block?', 'state': 'closed', 'created_at': '2014-02-06T03:51:49Z', 'closed_at': '2014-02-09T10:04:27Z', 'labels': []}
+{'issuenumber': 216, 'title': 'Strange: 4 Blocks today with exactly 10,000 mined reward', 'state': 'closed', 'created_at': '2014-02-06T03:01:52Z', 'closed_at': '2014-02-06T04:33:49Z', 'labels': []}
+{'issuenumber': 214, 'title': 'Localised decimal seperator wrong in send amount', 'state': 'closed', 'created_at': '2014-02-05T21:17:46Z', 'closed_at': '2014-04-15T18:52:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 213, 'title': "Ending the predictability of a round's block rewards", 'state': 'closed', 'created_at': '2014-02-05T17:47:23Z', 'closed_at': '2014-02-05T17:55:23Z', 'labels': []}
+{'issuenumber': 212, 'title': 'Enahncement: URL handling in the wallet', 'state': 'closed', 'created_at': '2014-02-05T15:09:21Z', 'closed_at': '2014-02-06T00:01:19Z', 'labels': []}
+{'issuenumber': 211, 'title': 'Stop making packaging hard.', 'state': 'closed', 'created_at': '2014-02-04T20:26:19Z', 'closed_at': '2014-02-05T23:41:10Z', 'labels': []}
+{'issuenumber': 209, 'title': 'Crash in CPartialMerkleTree:CalcHash', 'state': 'closed', 'created_at': '2014-02-04T00:50:21Z', 'closed_at': '2014-02-09T10:57:25Z', 'labels': []}
+{'issuenumber': 208, 'title': 'Major issue causing lots of Orphaned Blocks due to compiling with boost v1.55', 'state': 'closed', 'created_at': '2014-02-04T00:44:41Z', 'closed_at': '2014-02-09T10:03:48Z', 'labels': []}
+{'issuenumber': 207, 'title': '[SPAM] dogecoin', 'state': 'closed', 'created_at': '2014-02-04T00:02:07Z', 'closed_at': '2014-02-04T01:23:40Z', 'labels': []}
+{'issuenumber': 206, 'title': '[SPAM] dogecoin', 'state': 'closed', 'created_at': '2014-02-04T00:01:18Z', 'closed_at': '2014-02-04T01:23:50Z', 'labels': []}
+{'issuenumber': 205, 'title': 'dogecoin-qt crashing in Windows 8.1', 'state': 'closed', 'created_at': '2014-02-04T00:00:48Z', 'closed_at': '2014-02-09T10:56:55Z', 'labels': []}
+{'issuenumber': 204, 'title': "Rather than to inflate, let's find a real solution", 'state': 'closed', 'created_at': '2014-02-03T23:06:56Z', 'closed_at': '2014-02-04T23:54:22Z', 'labels': []}
+{'issuenumber': 203, 'title': 'Dogecoin Mac OS X 1.5 linked on site connects to IRC', 'state': 'closed', 'created_at': '2014-02-03T18:52:29Z', 'closed_at': '2014-02-03T22:27:57Z', 'labels': []}
+{'issuenumber': 202, 'title': 'Fix README', 'state': 'closed', 'created_at': '2014-02-03T18:18:10Z', 'closed_at': '2014-02-05T23:41:23Z', 'labels': []}
+{'issuenumber': 201, 'title': 'dogecoin-qt 1.5 synchronization on Win8.1', 'state': 'closed', 'created_at': '2014-02-03T17:07:30Z', 'closed_at': '2014-02-03T21:27:22Z', 'labels': []}
+{'issuenumber': 200, 'title': 'change wallet-client title from litecoin to dogecoin in chinese pls', 'state': 'closed', 'created_at': '2014-02-03T13:00:30Z', 'closed_at': '2014-02-05T23:41:42Z', 'labels': []}
+{'issuenumber': 198, 'title': 'spontaneous blockchain corruption', 'state': 'closed', 'created_at': '2014-02-03T03:04:19Z', 'closed_at': '2014-04-24T23:33:24Z', 'labels': []}
+{'issuenumber': 197, 'title': '[SPAM] Market cap request', 'state': 'closed', 'created_at': '2014-02-02T22:52:31Z', 'closed_at': '2014-02-02T23:04:20Z', 'labels': []}
+{'issuenumber': 195, 'title': '[SPAM] Market Cap Doge', 'state': 'closed', 'created_at': '2014-02-02T22:43:36Z', 'closed_at': '2014-02-02T22:47:49Z', 'labels': []}
+{'issuenumber': 194, 'title': '[SPAM] Save Dogecoin? Plz?', 'state': 'closed', 'created_at': '2014-02-02T22:42:39Z', 'closed_at': '2014-02-02T22:47:32Z', 'labels': []}
+{'issuenumber': 193, 'title': '[SPAM] please add a cap to dogecoin', 'state': 'closed', 'created_at': '2014-02-02T22:40:42Z', 'closed_at': '2014-02-03T01:00:58Z', 'labels': []}
+{'issuenumber': 192, 'title': '[SPAM] Please set a market cap!', 'state': 'closed', 'created_at': '2014-02-02T22:39:19Z', 'closed_at': '2014-02-03T00:59:56Z', 'labels': []}
+{'issuenumber': 191, 'title': '[SPAM] Market Cap', 'state': 'closed', 'created_at': '2014-02-02T22:38:36Z', 'closed_at': '2014-02-03T01:01:12Z', 'labels': []}
+{'issuenumber': 190, 'title': 'signmessage / verifymessage is incompatible with old signatures in v1.5', 'state': 'closed', 'created_at': '2014-02-02T05:03:01Z', 'closed_at': '2014-04-15T18:37:48Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 186, 'title': '1.5 dogecoind 100% CPU LOCK (linux)', 'state': 'closed', 'created_at': '2014-02-01T12:28:54Z', 'closed_at': '2014-02-09T10:06:38Z', 'labels': []}
+{'issuenumber': 185, 'title': 'Wallet withholding transactions - Worrying Wallet error', 'state': 'closed', 'created_at': '2014-02-01T12:05:51Z', 'closed_at': '2014-02-09T10:52:41Z', 'labels': []}
+{'issuenumber': 183, 'title': 'Mac wallet and screensaver issues', 'state': 'closed', 'created_at': '2014-02-01T02:50:40Z', 'closed_at': '2014-02-01T05:14:07Z', 'labels': []}
+{'issuenumber': 182, 'title': "Issue with staying sync'd", 'state': 'closed', 'created_at': '2014-01-31T23:32:23Z', 'closed_at': '2014-02-09T10:39:26Z', 'labels': []}
+{'issuenumber': 181, 'title': 'Issue with Dogecoin wallet. 2.6M doge removed from my wallet with a (so confuse) error.', 'state': 'closed', 'created_at': '2014-01-31T04:36:55Z', 'closed_at': '2014-02-05T02:08:03Z', 'labels': []}
+{'issuenumber': 179, 'title': 'UI for importprivkey', 'state': 'closed', 'created_at': '2014-01-30T22:25:41Z', 'closed_at': '2021-05-25T21:39:47Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 178, 'title': 'ThreadFlushWalletDB takes a long time with a big wallet.dat', 'state': 'closed', 'created_at': '2014-01-30T17:22:10Z', 'closed_at': '2014-08-24T14:43:07Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 176, 'title': 'Dogecoind stops syncing.', 'state': 'closed', 'created_at': '2014-01-30T12:17:38Z', 'closed_at': '2014-02-05T23:52:25Z', 'labels': []}
+{'issuenumber': 175, 'title': 'More display unit options?', 'state': 'closed', 'created_at': '2014-01-30T11:24:54Z', 'closed_at': '2014-01-30T11:28:50Z', 'labels': []}
+{'issuenumber': 172, 'title': 'Mac 10.6.8 always creates new wallet.dat - missing coins - Pls help', 'state': 'closed', 'created_at': '2014-01-29T17:04:07Z', 'closed_at': '2014-01-31T07:16:23Z', 'labels': []}
+{'issuenumber': 171, 'title': 'Dogecoin wallet will no open', 'state': 'closed', 'created_at': '2014-01-29T16:30:14Z', 'closed_at': '2014-01-30T03:37:12Z', 'labels': []}
+{'issuenumber': 170, 'title': "System error: CDB() : can't open database file wallet.dat, error -30974", 'state': 'closed', 'created_at': '2014-01-29T09:44:07Z', 'closed_at': '2014-01-29T18:49:13Z', 'labels': []}
+{'issuenumber': 168, 'title': 'password issues with move from 1.3 to 1.5', 'state': 'closed', 'created_at': '2014-01-29T05:18:39Z', 'closed_at': '2014-01-30T03:51:34Z', 'labels': []}
+{'issuenumber': 167, 'title': 'testnet broken in version 1.5', 'state': 'closed', 'created_at': '2014-01-29T03:11:30Z', 'closed_at': '2014-02-05T23:47:05Z', 'labels': []}
+{'issuenumber': 166, 'title': 'URGENT : Retarget wrong in getnetworkhashps we need an update !!!', 'state': 'closed', 'created_at': '2014-01-29T02:13:58Z', 'closed_at': '2014-01-30T03:38:09Z', 'labels': []}
+{'issuenumber': 165, 'title': '"System Error: Database Corrupted" - Just before client finishes reindexing or synchronizing on 1.5', 'state': 'closed', 'created_at': '2014-01-29T00:14:08Z', 'closed_at': '2014-02-09T06:54:23Z', 'labels': []}
+{'issuenumber': 164, 'title': 'Upgrading o 1.5 /usr/bin/ld: cannot find -lboost_chrono', 'state': 'closed', 'created_at': '2014-01-28T22:34:21Z', 'closed_at': '2014-02-09T10:28:00Z', 'labels': []}
+{'issuenumber': 163, 'title': 'Transfers not registering until wallet restarted', 'state': 'closed', 'created_at': '2014-01-28T22:20:18Z', 'closed_at': '2014-01-30T09:39:45Z', 'labels': []}
+{'issuenumber': 162, 'title': 'Conf file', 'state': 'closed', 'created_at': '2014-01-28T21:27:29Z', 'closed_at': '2014-02-05T23:44:56Z', 'labels': []}
+{'issuenumber': 161, 'title': 'Failed to connect best block', 'state': 'closed', 'created_at': '2014-01-28T19:35:11Z', 'closed_at': '2014-02-05T23:51:53Z', 'labels': []}
+{'issuenumber': 160, 'title': '1.5 Client Always Writing to debug.log', 'state': 'closed', 'created_at': '2014-01-28T18:51:19Z', 'closed_at': '2014-01-30T09:40:24Z', 'labels': []}
+{'issuenumber': 159, 'title': '"Corrupted block database detected" Updating to 1.5', 'state': 'closed', 'created_at': '2014-01-28T05:23:16Z', 'closed_at': '2014-02-08T07:16:18Z', 'labels': []}
+{'issuenumber': 158, 'title': 'Dogecoin-qt 1.5.0 abort on Fedora 20 64-bit', 'state': 'closed', 'created_at': '2014-01-28T03:16:42Z', 'closed_at': '2014-01-28T03:27:14Z', 'labels': []}
+{'issuenumber': 155, 'title': 'Sync with Linux', 'state': 'closed', 'created_at': '2014-01-27T18:12:35Z', 'closed_at': '2014-02-05T23:47:53Z', 'labels': []}
+{'issuenumber': 154, 'title': 'Build Failure, Debian 7', 'state': 'closed', 'created_at': '2014-01-27T15:16:33Z', 'closed_at': '2014-01-27T21:42:27Z', 'labels': []}
+{'issuenumber': 153, 'title': 'DogeCoin QT CPU usage OSX', 'state': 'closed', 'created_at': '2014-01-27T11:29:42Z', 'closed_at': '2014-02-09T10:12:20Z', 'labels': []}
+{'issuenumber': 152, 'title': 'Implement response to uri scheme doge:', 'state': 'closed', 'created_at': '2014-01-27T08:52:26Z', 'closed_at': '2014-02-05T23:10:16Z', 'labels': []}
+{'issuenumber': 151, 'title': "listaccounts doesn't include mined amounts", 'state': 'closed', 'created_at': '2014-01-26T04:11:50Z', 'closed_at': '2014-01-26T05:10:59Z', 'labels': []}
+{'issuenumber': 150, 'title': 'Scrypt ASIC resistance.', 'state': 'closed', 'created_at': '2014-01-25T18:34:26Z', 'closed_at': '2014-02-05T23:46:13Z', 'labels': []}
+{'issuenumber': 149, 'title': 'Dogecoin 1.5a2 makes my router fall over', 'state': 'closed', 'created_at': '2014-01-25T15:58:54Z', 'closed_at': '2014-01-25T16:15:29Z', 'labels': []}
+{'issuenumber': 148, 'title': 'Blocks with incorrect values are allowed', 'state': 'closed', 'created_at': '2014-01-25T11:31:08Z', 'closed_at': '2014-08-24T15:25:04Z', 'labels': []}
+{'issuenumber': 147, 'title': 'Is there any way to show Hidden addresses in the wallet?', 'state': 'closed', 'created_at': '2014-01-25T02:43:42Z', 'closed_at': '2014-01-30T09:44:11Z', 'labels': []}
+{'issuenumber': 146, 'title': 'createmultisig not implemented', 'state': 'closed', 'created_at': '2014-01-25T02:43:13Z', 'closed_at': '2014-02-06T00:02:55Z', 'labels': []}
+{'issuenumber': 145, 'title': "Digging dogecoin doesn't respect thread count [v1.4.1.0-unk-beta]", 'state': 'closed', 'created_at': '2014-01-24T21:14:14Z', 'closed_at': '2014-01-27T21:48:17Z', 'labels': []}
+{'issuenumber': 144, 'title': 'Thanks for NOT answering any of my important questions.', 'state': 'closed', 'created_at': '2014-01-23T15:01:52Z', 'closed_at': '2014-01-24T15:05:18Z', 'labels': []}
+{'issuenumber': 142, 'title': 'Serious encryption/passphrase problem when spaces and commas used in passphrase', 'state': 'closed', 'created_at': '2014-01-23T11:07:33Z', 'closed_at': '2014-02-05T23:44:25Z', 'labels': []}
+{'issuenumber': 141, 'title': 'Teamdoge Account Changes - Email Conf not Working', 'state': 'closed', 'created_at': '2014-01-22T21:07:13Z', 'closed_at': '2014-01-24T15:35:11Z', 'labels': []}
+{'issuenumber': 139, 'title': 'complie error on linux', 'state': 'closed', 'created_at': '2014-01-22T15:33:59Z', 'closed_at': '2014-01-22T17:42:43Z', 'labels': []}
+{'issuenumber': 138, 'title': 'Splash is annoying', 'state': 'closed', 'created_at': '2014-01-22T13:27:40Z', 'closed_at': '2014-02-03T01:53:58Z', 'labels': []}
+{'issuenumber': 137, 'title': 'Translation', 'state': 'closed', 'created_at': '2014-01-22T09:03:43Z', 'closed_at': '2014-02-05T23:45:12Z', 'labels': []}
+{'issuenumber': 136, 'title': 'automatic backup support', 'state': 'closed', 'created_at': '2014-01-22T03:53:40Z', 'closed_at': '2014-02-06T00:05:16Z', 'labels': []}
+{'issuenumber': 135, 'title': 'How many network confirmations are needed for a newly generated Dogecoin?', 'state': 'closed', 'created_at': '2014-01-22T02:32:45Z', 'closed_at': '2014-01-24T15:06:03Z', 'labels': []}
+{'issuenumber': 134, 'title': 'rounding error in dogecoin value?', 'state': 'closed', 'created_at': '2014-01-22T01:07:52Z', 'closed_at': '2021-03-14T11:39:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 133, 'title': 'Building coind fails', 'state': 'closed', 'created_at': '2014-01-21T20:08:06Z', 'closed_at': '2014-01-24T04:25:45Z', 'labels': []}
+{'issuenumber': 132, 'title': 'Build fails in Linux', 'state': 'closed', 'created_at': '2014-01-21T12:15:01Z', 'closed_at': '2014-01-27T21:50:13Z', 'labels': []}
+{'issuenumber': 131, 'title': 'comma separator for numbers in balance', 'state': 'closed', 'created_at': '2014-01-21T11:04:22Z', 'closed_at': '2014-01-27T21:50:27Z', 'labels': []}
+{'issuenumber': 128, 'title': 'RPC Lockup Issues with Large Wallets', 'state': 'closed', 'created_at': '2014-01-20T18:44:18Z', 'closed_at': '2014-02-09T10:25:43Z', 'labels': []}
+{'issuenumber': 127, 'title': 'coin selection code creates tiny change outputs', 'state': 'closed', 'created_at': '2014-01-19T08:54:17Z', 'closed_at': '2014-02-10T05:52:32Z', 'labels': []}
+{'issuenumber': 126, 'title': 'Fresh Install of 1.4 Windows - display time instead of blocks', 'state': 'closed', 'created_at': '2014-01-19T02:32:05Z', 'closed_at': '2014-02-08T07:23:54Z', 'labels': []}
+{'issuenumber': 125, 'title': 'Synchronising on Linux hangs the machine', 'state': 'closed', 'created_at': '2014-01-18T19:53:26Z', 'closed_at': '2014-02-09T10:23:20Z', 'labels': []}
+{'issuenumber': 123, 'title': 'Increase transaction fees as the network grows', 'state': 'closed', 'created_at': '2014-01-14T13:58:44Z', 'closed_at': '2014-01-18T17:06:12Z', 'labels': []}
+{'issuenumber': 122, 'title': 'Localisation seems very outdated', 'state': 'closed', 'created_at': '2014-01-14T11:56:57Z', 'closed_at': '2014-01-19T00:58:17Z', 'labels': []}
+{'issuenumber': 121, 'title': 'dogecoin-qt.pro and src/makefile.mingw not synced', 'state': 'closed', 'created_at': '2014-01-12T23:44:06Z', 'closed_at': '2014-01-27T21:53:32Z', 'labels': []}
+{'issuenumber': 120, 'title': 'Windows build instructions are obsolete', 'state': 'closed', 'created_at': '2014-01-12T15:59:13Z', 'closed_at': '2014-02-09T10:23:00Z', 'labels': []}
+{'issuenumber': 119, 'title': 'Db::get Not enough Space', 'state': 'closed', 'created_at': '2014-01-12T11:10:43Z', 'closed_at': '2014-01-12T19:51:40Z', 'labels': []}
+{'issuenumber': 118, 'title': 'Creating thin client (Electrum equiv) discussion', 'state': 'closed', 'created_at': '2014-01-12T03:34:09Z', 'closed_at': '2014-02-09T10:22:38Z', 'labels': []}
+{'issuenumber': 112, 'title': "txindex and reindex aren't implemented. We really need them.", 'state': 'closed', 'created_at': '2014-01-10T16:23:20Z', 'closed_at': '2014-02-05T23:45:31Z', 'labels': []}
+{'issuenumber': 111, 'title': 'Add support for watch-only addresses', 'state': 'closed', 'created_at': '2014-01-10T00:14:08Z', 'closed_at': '2015-03-12T21:23:05Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 110, 'title': 'Wallet on MacOS Maverick Boost: ld: symbol(s) not found for architecture x86_64', 'state': 'closed', 'created_at': '2014-01-08T22:20:04Z', 'closed_at': '2014-01-27T22:00:16Z', 'labels': []}
+{'issuenumber': 109, 'title': '1.4 client crashes on any command in console window', 'state': 'closed', 'created_at': '2014-01-07T22:07:32Z', 'closed_at': '2014-01-12T19:52:04Z', 'labels': []}
+{'issuenumber': 108, 'title': 'check this dogecoin.conf', 'state': 'closed', 'created_at': '2014-01-07T17:23:08Z', 'closed_at': '2014-02-06T00:04:07Z', 'labels': []}
+{'issuenumber': 107, 'title': 'MacOS X 10.9 1.4 such exceptions  ', 'state': 'closed', 'created_at': '2014-01-07T00:50:13Z', 'closed_at': '2014-02-09T10:20:47Z', 'labels': []}
+{'issuenumber': 106, 'title': 'Need CFLAGS in makefile.unix', 'state': 'closed', 'created_at': '2014-01-06T22:38:57Z', 'closed_at': '2014-02-09T10:20:22Z', 'labels': []}
+{'issuenumber': 105, 'title': 'cross-compile: need to patch something', 'state': 'closed', 'created_at': '2014-01-06T21:50:17Z', 'closed_at': '2014-02-09T10:20:14Z', 'labels': []}
+{'issuenumber': 103, 'title': 'Dogecoin Cleint 14 crash on OS X 10.6.8 ', 'state': 'closed', 'created_at': '2014-01-05T19:50:11Z', 'closed_at': '2014-02-09T10:20:01Z', 'labels': []}
+{'issuenumber': 102, 'title': 'Signed releases', 'state': 'closed', 'created_at': '2014-01-05T18:46:47Z', 'closed_at': '2014-02-09T10:19:50Z', 'labels': []}
+{'issuenumber': 100, 'title': 'Cannot delete entries from address book', 'state': 'closed', 'created_at': '2014-01-05T17:31:20Z', 'closed_at': '2014-02-05T23:53:55Z', 'labels': []}
+{'issuenumber': 99, 'title': 'EXCEPTION: 11DbException', 'state': 'closed', 'created_at': '2014-01-05T13:53:55Z', 'closed_at': '2014-01-06T10:59:45Z', 'labels': []}
+{'issuenumber': 95, 'title': "can't get 1.3 working on mac os x 10.9.1", 'state': 'closed', 'created_at': '2014-01-05T05:44:36Z', 'closed_at': '2014-01-05T18:47:47Z', 'labels': []}
+{'issuenumber': 94, 'title': 'Exception: 11DbException', 'state': 'closed', 'created_at': '2014-01-05T03:41:00Z', 'closed_at': '2014-01-05T17:21:55Z', 'labels': []}
+{'issuenumber': 91, 'title': 'Unintentional "Bitcoin" Reference on Dialog', 'state': 'closed', 'created_at': '2014-01-03T20:08:48Z', 'closed_at': '2014-01-06T21:07:45Z', 'labels': []}
+{'issuenumber': 90, 'title': '"DogeCoin server has now stopped running!" lies', 'state': 'closed', 'created_at': '2014-01-03T16:18:42Z', 'closed_at': '2014-02-09T10:18:56Z', 'labels': []}
+{'issuenumber': 88, 'title': 'Implement bloom filtering for greatly reduced bandwidth usage', 'state': 'closed', 'created_at': '2014-01-03T08:32:49Z', 'closed_at': '2014-01-29T06:58:52Z', 'labels': []}
+{'issuenumber': 86, 'title': 'Small interface bug', 'state': 'closed', 'created_at': '2014-01-01T21:22:38Z', 'closed_at': '2014-01-26T07:54:15Z', 'labels': []}
+{'issuenumber': 85, 'title': 'Mac OSX - App crashes all the time during startup v1.3', 'state': 'closed', 'created_at': '2014-01-01T20:51:46Z', 'closed_at': '2014-02-09T10:14:42Z', 'labels': []}
+{'issuenumber': 84, 'title': 'dogecoin-qt-v13 does not run under OSX 10.6.8', 'state': 'closed', 'created_at': '2014-01-01T01:53:20Z', 'closed_at': '2014-01-26T07:54:02Z', 'labels': []}
+{'issuenumber': 83, 'title': 'Tray icon looks like Dogedookie', 'state': 'closed', 'created_at': '2013-12-31T19:57:13Z', 'closed_at': '2014-02-05T23:53:21Z', 'labels': []}
+{'issuenumber': 81, 'title': 'such "bc" in logfile', 'state': 'closed', 'created_at': '2013-12-31T09:37:02Z', 'closed_at': '2014-01-26T07:53:55Z', 'labels': []}
+{'issuenumber': 80, 'title': 'Coinbase transactions paid to default account.', 'state': 'closed', 'created_at': '2013-12-30T21:08:31Z', 'closed_at': '2014-01-09T14:54:41Z', 'labels': []}
+{'issuenumber': 77, 'title': 'failed to strat', 'state': 'closed', 'created_at': '2013-12-30T11:10:52Z', 'closed_at': '2014-01-12T19:52:53Z', 'labels': []}
+{'issuenumber': 76, 'title': 'src/db.h:15:20: fatal error: db_cxx.h: No such file or directory', 'state': 'closed', 'created_at': '2013-12-30T10:56:25Z', 'closed_at': '2014-01-11T05:39:06Z', 'labels': []}
+{'issuenumber': 75, 'title': 'Question: How to determine if block is in side/orphan or main chain?', 'state': 'closed', 'created_at': '2013-12-30T06:00:04Z', 'closed_at': '2014-01-12T19:53:27Z', 'labels': []}
+{'issuenumber': 74, 'title': 'Mac Client 1.4 Alpha 2 Crashes on Notification of Transaction', 'state': 'closed', 'created_at': '2013-12-30T02:28:56Z', 'closed_at': '2013-12-30T04:24:34Z', 'labels': []}
+{'issuenumber': 73, 'title': 'Add an option to hide the dock icon on Mac OS X', 'state': 'closed', 'created_at': '2013-12-29T19:11:11Z', 'closed_at': '2014-02-09T10:18:22Z', 'labels': []}
+{'issuenumber': 71, 'title': "Preferred spelling? 'DogeCoin' or 'Dogecoin'?", 'state': 'closed', 'created_at': '2013-12-28T19:26:39Z', 'closed_at': '2013-12-29T05:25:48Z', 'labels': []}
+{'issuenumber': 69, 'title': 'such fedora.  fatal exception. wow.', 'state': 'closed', 'created_at': '2013-12-28T01:16:25Z', 'closed_at': '2014-01-26T07:53:23Z', 'labels': []}
+{'issuenumber': 68, 'title': 'Client crashes when opening in Mavericks', 'state': 'closed', 'created_at': '2013-12-27T21:32:49Z', 'closed_at': '2013-12-27T21:34:45Z', 'labels': []}
+{'issuenumber': 67, 'title': 'Digging with Dogecoin-QT, think I found a bug', 'state': 'closed', 'created_at': '2013-12-27T19:29:30Z', 'closed_at': '2013-12-31T01:53:44Z', 'labels': []}
+{'issuenumber': 65, 'title': 'segfault. EXCEPTION: St12out_of_range CInv::GetCommand() type=3 unknown in ProcessMessages()', 'state': 'closed', 'created_at': '2013-12-27T13:03:45Z', 'closed_at': '2014-02-05T23:55:29Z', 'labels': []}
+{'issuenumber': 62, 'title': 'dogecoin-qt 1.3 crashes immediately on startup (osx 10.8.5)', 'state': 'closed', 'created_at': '2013-12-27T05:20:01Z', 'closed_at': '2014-01-26T07:53:11Z', 'labels': []}
+{'issuenumber': 61, 'title': 'dogecoin-qt 1. crashes immediately on startup (osx 10.8.5)', 'state': 'closed', 'created_at': '2013-12-27T05:19:33Z', 'closed_at': '2013-12-27T05:20:30Z', 'labels': []}
+{'issuenumber': 59, 'title': 'incorrect transaction amount', 'state': 'closed', 'created_at': '2013-12-27T04:23:42Z', 'closed_at': '2013-12-31T01:56:27Z', 'labels': []}
+{'issuenumber': 56, 'title': 'Possibly many side chains created in block; filling blk####.dat file with junk data', 'state': 'closed', 'created_at': '2013-12-26T21:37:15Z', 'closed_at': '2014-02-05T23:54:55Z', 'labels': []}
+{'issuenumber': 53, 'title': 'anti multi pool mining patch much needed', 'state': 'closed', 'created_at': '2013-12-26T06:52:14Z', 'closed_at': '2013-12-31T01:57:16Z', 'labels': []}
+{'issuenumber': 50, 'title': 'sendtoaddress failed twice', 'state': 'closed', 'created_at': '2013-12-24T06:31:23Z', 'closed_at': '2014-01-26T07:52:55Z', 'labels': []}
+{'issuenumber': 47, 'title': 'Lack of -walletnotify', 'state': 'closed', 'created_at': '2013-12-23T22:11:56Z', 'closed_at': '2014-01-26T07:52:38Z', 'labels': []}
+{'issuenumber': 45, 'title': 'OS X JSON-RPC server only works from CLI args', 'state': 'closed', 'created_at': '2013-12-23T15:49:20Z', 'closed_at': '2014-02-09T10:13:48Z', 'labels': []}
+{'issuenumber': 44, 'title': 'easy to fix bug in client', 'state': 'closed', 'created_at': '2013-12-23T00:57:58Z', 'closed_at': '2013-12-25T14:37:37Z', 'labels': []}
+{'issuenumber': 42, 'title': 'Client crashes when encrypting the wallet for the first time. Windows', 'state': 'closed', 'created_at': '2013-12-22T11:12:37Z', 'closed_at': '2013-12-23T18:09:04Z', 'labels': []}
+{'issuenumber': 41, 'title': 'Client crashes when importing private key', 'state': 'closed', 'created_at': '2013-12-21T19:03:07Z', 'closed_at': '2013-12-23T18:12:47Z', 'labels': []}
+{'issuenumber': 40, 'title': 'Merging Feathercoin improvements with Dogecoin', 'state': 'closed', 'created_at': '2013-12-21T07:36:02Z', 'closed_at': '2014-01-26T07:52:22Z', 'labels': []}
+{'issuenumber': 39, 'title': 'Mining for over 36 Hours with 30+ Workers, No blocks, orphan error', 'state': 'closed', 'created_at': '2013-12-21T03:15:17Z', 'closed_at': '2014-01-11T05:37:32Z', 'labels': []}
+{'issuenumber': 38, 'title': 'Bug - Dust transactions need to be addressed', 'state': 'closed', 'created_at': '2013-12-20T20:07:31Z', 'closed_at': '2014-01-11T05:37:49Z', 'labels': []}
+{'issuenumber': 37, 'title': 'debug console not responsing', 'state': 'closed', 'created_at': '2013-12-20T12:13:31Z', 'closed_at': '2013-12-31T01:54:05Z', 'labels': []}
+{'issuenumber': 33, 'title': "error in 'move' RCP command", 'state': 'closed', 'created_at': '2013-12-19T05:53:31Z', 'closed_at': '2013-12-19T09:15:38Z', 'labels': []}
+{'issuenumber': 29, 'title': 'Wallet so connection failing.', 'state': 'closed', 'created_at': '2013-12-18T08:38:27Z', 'closed_at': '2013-12-20T07:08:37Z', 'labels': []}
+{'issuenumber': 28, 'title': 'Unfortunate divergence of block header hash functions', 'state': 'closed', 'created_at': '2013-12-18T08:36:00Z', 'closed_at': '2014-02-05T23:57:44Z', 'labels': []}
+{'issuenumber': 27, 'title': 'Proof of Stake (PoS) blocks rewards!', 'state': 'closed', 'created_at': '2013-12-18T07:06:36Z', 'closed_at': '2014-02-05T23:54:22Z', 'labels': []}
+{'issuenumber': 26, 'title': 'Ubuntu 12.04 must explicity install libboost1.48', 'state': 'closed', 'created_at': '2013-12-17T22:46:37Z', 'closed_at': '2014-02-09T10:13:28Z', 'labels': []}
+{'issuenumber': 25, 'title': "'sendtoaddress' can't send more than 84M DOGE at once", 'state': 'closed', 'created_at': '2013-12-17T16:08:42Z', 'closed_at': '2013-12-17T23:25:24Z', 'labels': []}
+{'issuenumber': 23, 'title': 'Not actually capped at 100 billion?', 'state': 'closed', 'created_at': '2013-12-17T10:13:06Z', 'closed_at': '2014-02-02T05:52:42Z', 'labels': []}
+{'issuenumber': 22, 'title': 'Herd dig http only', 'state': 'closed', 'created_at': '2013-12-16T21:36:03Z', 'closed_at': '2013-12-20T20:15:04Z', 'labels': []}
+{'issuenumber': 21, 'title': 'Very getting started guide?', 'state': 'closed', 'created_at': '2013-12-16T21:06:33Z', 'closed_at': '2013-12-16T21:17:21Z', 'labels': []}
+{'issuenumber': 20, 'title': 'Option -fPIC with scrypt.c', 'state': 'closed', 'created_at': '2013-12-16T20:35:26Z', 'closed_at': '2014-01-26T07:51:34Z', 'labels': []}
+{'issuenumber': 19, 'title': 'Such no linux binary', 'state': 'closed', 'created_at': '2013-12-16T02:09:11Z', 'closed_at': '2014-01-26T07:51:17Z', 'labels': []}
+{'issuenumber': 18, 'title': 'IDEA: Faux-Hologram doge security (tm) protection', 'state': 'closed', 'created_at': '2013-12-16T01:48:28Z', 'closed_at': '2014-01-26T07:50:59Z', 'labels': []}
+{'issuenumber': 16, 'title': 'Wrong arguments in UPNP_AddPortMapping (miniupnpc 1.5)', 'state': 'closed', 'created_at': '2013-12-14T23:28:08Z', 'closed_at': '2014-01-26T07:50:47Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 15, 'title': 'Such old code base', 'state': 'closed', 'created_at': '2013-12-14T18:24:42Z', 'closed_at': '2014-01-26T07:50:40Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 13, 'title': 'GNU/Linux support?', 'state': 'closed', 'created_at': '2013-12-13T03:14:25Z', 'closed_at': '2013-12-13T04:31:42Z', 'labels': []}
+{'issuenumber': 10, 'title': 'such dependencies, so missing', 'state': 'closed', 'created_at': '2013-12-12T14:57:06Z', 'closed_at': '2013-12-19T10:31:19Z', 'labels': []}
+{'issuenumber': 9, 'title': 'much crash to encrypt moneybag', 'state': 'closed', 'created_at': '2013-12-12T11:21:49Z', 'closed_at': '2014-01-19T00:55:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 7, 'title': 'Sender address unknown', 'state': 'closed', 'created_at': '2013-12-11T12:47:35Z', 'closed_at': '2013-12-31T01:54:47Z', 'labels': []}
+{'issuenumber': 5, 'title': 'very no linux support', 'state': 'closed', 'created_at': '2013-12-09T13:12:20Z', 'closed_at': '2013-12-12T04:15:44Z', 'labels': []}
+{'issuenumber': 3, 'title': 'Mac client?', 'state': 'closed', 'created_at': '2013-12-09T01:08:33Z', 'closed_at': '2014-01-26T07:50:08Z', 'labels': []}

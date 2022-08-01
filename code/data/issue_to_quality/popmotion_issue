@@ -1,0 +1,549 @@
+{'issuenumber': 923, 'title': 'Popmotion: React import { animate } from "popmotion"; fails', 'state': 'closed', 'created_at': '2021-11-01T17:27:25Z', 'closed_at': '2021-11-01T18:53:50Z', 'labels': []}
+{'issuenumber': 920, 'title': 'CDN link maybe not working', 'state': 'closed', 'created_at': '2021-10-13T11:42:15Z', 'closed_at': '2021-10-19T21:32:41Z', 'labels': []}
+{'issuenumber': 918, 'title': "'action' is not exported from 'popmotion'", 'state': 'closed', 'created_at': '2021-09-02T18:14:43Z', 'closed_at': '2021-09-02T18:22:01Z', 'labels': []}
+{'issuenumber': 914, 'title': ' two different result between 60hz framerate and 144hz screen', 'state': 'closed', 'created_at': '2021-08-22T10:03:57Z', 'closed_at': '2021-08-30T03:13:51Z', 'labels': []}
+{'issuenumber': 913, 'title': 'Question: Is there any documentation on how to do a drag with inertia?', 'state': 'closed', 'created_at': '2021-07-08T12:53:12Z', 'closed_at': '2021-07-09T23:04:58Z', 'labels': []}
+{'issuenumber': 911, 'title': 'Could I set up a global driver?', 'state': 'closed', 'created_at': '2021-06-15T09:11:29Z', 'closed_at': '2021-06-18T10:57:16Z', 'labels': []}
+{'issuenumber': 905, 'title': 'popmotion@8.value and popmotion@8.physics on popmotion@9', 'state': 'closed', 'created_at': '2021-01-29T15:33:15Z', 'closed_at': '2021-02-10T07:16:56Z', 'labels': []}
+{'issuenumber': 904, 'title': 'Examples', 'state': 'closed', 'created_at': '2021-01-24T00:06:36Z', 'closed_at': '2021-01-24T17:33:04Z', 'labels': []}
+{'issuenumber': 895, 'title': 'Stagger not exported by popmotion.es.js', 'state': 'closed', 'created_at': '2020-10-08T22:22:55Z', 'closed_at': '2020-10-09T09:23:24Z', 'labels': []}
+{'issuenumber': 893, 'title': 'Add LICENCSE file to the pop motion repo. ', 'state': 'closed', 'created_at': '2020-09-14T22:04:18Z', 'closed_at': '2021-05-17T07:10:55Z', 'labels': []}
+{'issuenumber': 891, 'title': 'Typing error after updating to v8.7.4 from v8.7.3', 'state': 'closed', 'created_at': '2020-09-03T08:47:53Z', 'closed_at': '2020-09-03T10:27:12Z', 'labels': []}
+{'issuenumber': 889, 'title': '[BUG] Popmotion 9: spring animations not working with object values', 'state': 'closed', 'created_at': '2020-08-17T19:42:05Z', 'closed_at': '2020-08-17T20:09:54Z', 'labels': []}
+{'issuenumber': 888, 'title': 'Future of Pose for Vue', 'state': 'closed', 'created_at': '2020-08-17T06:46:23Z', 'closed_at': '2020-08-17T08:01:39Z', 'labels': []}
+{'issuenumber': 878, 'title': 'Duplicated definitions in v8.7.2 cause error TS2349: This expression is not callable', 'state': 'closed', 'created_at': '2020-05-08T10:39:27Z', 'closed_at': '2020-05-08T19:27:14Z', 'labels': []}
+{'issuenumber': 875, 'title': 'Unbundled dependencies in UMD builds (Stylefire published that way since 7.0.2)', 'state': 'closed', 'created_at': '2020-04-30T16:44:52Z', 'closed_at': '2020-05-06T07:51:48Z', 'labels': []}
+{'issuenumber': 867, 'title': 'pose-core: version 2.1.1 includes typescript as dependency which bloats production installs', 'state': 'closed', 'created_at': '2020-03-17T17:43:01Z', 'closed_at': '2020-12-18T17:27:13Z', 'labels': []}
+{'issuenumber': 864, 'title': 'Add support for WebXR frame updates', 'state': 'closed', 'created_at': '2020-02-20T07:45:01Z', 'closed_at': '2020-08-17T08:13:15Z', 'labels': []}
+{'issuenumber': 863, 'title': 'package name change to @popmotion/core', 'state': 'closed', 'created_at': '2020-02-12T22:49:19Z', 'closed_at': '2020-02-13T17:35:02Z', 'labels': []}
+{'issuenumber': 862, 'title': 'Support rem unit', 'state': 'closed', 'created_at': '2020-02-07T05:25:25Z', 'closed_at': '2020-02-09T08:42:10Z', 'labels': []}
+{'issuenumber': 858, 'title': 'pose-core: rollup-plugin-typescript2 should not be a main dependency', 'state': 'closed', 'created_at': '2020-01-04T15:14:14Z', 'closed_at': '2020-01-20T14:54:16Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 856, 'title': "Object does not support 'find' method on IE 11", 'state': 'closed', 'created_at': '2019-12-20T03:43:59Z', 'closed_at': '2020-01-20T14:54:16Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 855, 'title': 'style-values-type: color objects with bad format are wrong detected like valid colors', 'state': 'closed', 'created_at': '2019-12-06T15:52:36Z', 'closed_at': '2020-01-21T11:25:35Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 852, 'title': 'Hover on parent and hover on element poses', 'state': 'closed', 'created_at': '2019-12-03T07:20:36Z', 'closed_at': '2020-01-20T14:54:16Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 851, 'title': 'Typo/wrong information in Stylefire SVG documentation ', 'state': 'closed', 'created_at': '2019-12-02T11:44:46Z', 'closed_at': '2020-01-21T11:28:24Z', 'labels': []}
+{'issuenumber': 850, 'title': 'Animate between two "height: auto" values?', 'state': 'closed', 'created_at': '2019-11-29T18:48:16Z', 'closed_at': '2020-01-20T14:54:16Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 849, 'title': 'collision detection', 'state': 'closed', 'created_at': '2019-11-23T17:33:31Z', 'closed_at': '2020-01-21T11:28:55Z', 'labels': []}
+{'issuenumber': 848, 'title': '[NPM INSTALL FAIL] version of @popmotion/popcorn  is wrong', 'state': 'closed', 'created_at': '2019-11-14T13:22:17Z', 'closed_at': '2019-11-14T14:51:40Z', 'labels': []}
+{'issuenumber': 845, 'title': 'Failed to compile with TypeScript v3.7', 'state': 'closed', 'created_at': '2019-11-07T08:05:12Z', 'closed_at': '2019-11-18T08:57:42Z', 'labels': []}
+{'issuenumber': 844, 'title': 'Question: delay the pose group height transition until after children', 'state': 'closed', 'created_at': '2019-11-01T12:05:38Z', 'closed_at': '2019-11-21T12:43:30Z', 'labels': []}
+{'issuenumber': 840, 'title': '[react-pose] Pose not changing despite prop update', 'state': 'closed', 'created_at': '2019-10-15T21:51:38Z', 'closed_at': '2020-01-20T14:54:15Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 835, 'title': 'Stylefire: Broken "production" builds ', 'state': 'closed', 'created_at': '2019-10-01T20:07:40Z', 'closed_at': '2019-10-02T08:51:21Z', 'labels': []}
+{'issuenumber': 834, 'title': 'Document deprecation in favour of Framer Motion', 'state': 'closed', 'created_at': '2019-09-25T15:41:05Z', 'closed_at': '2020-01-20T14:54:15Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 833, 'title': 'staggerDirection type error as prop of transition', 'state': 'closed', 'created_at': '2019-09-19T15:27:05Z', 'closed_at': '2020-01-21T12:58:48Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 832, 'title': '[react] componentWillReceiveProps is deprecated', 'state': 'closed', 'created_at': '2019-09-06T03:18:27Z', 'closed_at': '2020-01-21T12:58:28Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 831, 'title': 'All the examples on "Constrain Motion" page is not working', 'state': 'closed', 'created_at': '2019-08-27T02:00:26Z', 'closed_at': '2020-01-21T12:56:28Z', 'labels': []}
+{'issuenumber': 830, 'title': 'Question: set transition for all poses?', 'state': 'closed', 'created_at': '2019-08-14T21:03:57Z', 'closed_at': '2020-01-20T14:54:15Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 829, 'title': 'supporting `steps` easing ?', 'state': 'closed', 'created_at': '2019-08-05T13:53:41Z', 'closed_at': '2020-01-20T14:54:14Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 828, 'title': 'React Router + React Pose slide in/out with "POP" or "PUSH" direction', 'state': 'closed', 'created_at': '2019-07-19T12:17:43Z', 'closed_at': '2020-01-20T14:54:14Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 826, 'title': '[vue-pose] posed elements nested in PoseTransition animations always use parent initial pose', 'state': 'closed', 'created_at': '2019-07-16T15:54:31Z', 'closed_at': '2020-01-20T14:54:14Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 825, 'title': 'react-pose: unexpected entry animation behaviour when using flip: true', 'state': 'closed', 'created_at': '2019-07-08T20:29:58Z', 'closed_at': '2020-01-20T14:54:14Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 824, 'title': 'Pose Element does not unsubscribe parentValues on unMount 4.0.8', 'state': 'closed', 'created_at': '2019-07-06T10:14:48Z', 'closed_at': '2020-01-20T14:54:13Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 822, 'title': '[react-pose] SplitText - Split by lines', 'state': 'closed', 'created_at': '2019-07-05T09:32:13Z', 'closed_at': '2020-01-20T14:54:13Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 820, 'title': '[react-pose] Setting state causes recreation of PoseElements', 'state': 'closed', 'created_at': '2019-07-02T23:35:25Z', 'closed_at': '2020-01-20T14:54:13Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 819, 'title': '[React Pose] Draggable not interacting with HTML5 drag/drop API', 'state': 'closed', 'created_at': '2019-07-02T16:35:50Z', 'closed_at': '2020-01-20T14:54:13Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 816, 'title': 'The latest Version of react-pose requires a `String.startsWith` polyfill', 'state': 'closed', 'created_at': '2019-06-24T23:36:39Z', 'closed_at': '2020-01-20T14:54:12Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 815, 'title': 'Inertial/momentum based scroll effect', 'state': 'closed', 'created_at': '2019-06-21T11:20:18Z', 'closed_at': '2020-01-20T14:54:12Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 813, 'title': 'Question: How can I trigger a fade out/in on componentDidUpate in React Pose?', 'state': 'closed', 'created_at': '2019-06-16T19:47:38Z', 'closed_at': '2020-01-20T14:54:12Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 812, 'title': 'Feature request: React Pose, animating overflow hidden / visible', 'state': 'closed', 'created_at': '2019-06-07T08:04:15Z', 'closed_at': '2019-06-07T16:23:08Z', 'labels': []}
+{'issuenumber': 810, 'title': 'Timeline with staggers bug', 'state': 'closed', 'created_at': '2019-06-03T15:46:09Z', 'closed_at': '2020-01-21T13:38:38Z', 'labels': []}
+{'issuenumber': 809, 'title': 'codepen typo', 'state': 'closed', 'created_at': '2019-06-03T10:11:24Z', 'closed_at': '2020-01-21T12:59:20Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 808, 'title': "Popmotion: physics.setSpringTarget() doesn't handle partial completions", 'state': 'closed', 'created_at': '2019-05-29T04:38:17Z', 'closed_at': '2020-01-21T12:40:23Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 807, 'title': 'Ability to unmount when animation is complete without <PoseGroup/>?', 'state': 'closed', 'created_at': '2019-05-27T07:52:35Z', 'closed_at': '2020-01-20T14:54:12Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 806, 'title': 'Popmotion: version 8.6.9 - bug with scaleY tween animations', 'state': 'closed', 'created_at': '2019-05-23T15:29:28Z', 'closed_at': '2020-01-21T13:00:44Z', 'labels': []}
+{'issuenumber': 805, 'title': '[react-pose] Route transitions have added bounce-in effect if activated when page is scrolled down', 'state': 'closed', 'created_at': '2019-05-22T11:21:37Z', 'closed_at': '2020-01-20T14:54:11Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 804, 'title': 'Animate clip-path', 'state': 'closed', 'created_at': '2019-05-21T08:12:50Z', 'closed_at': '2019-06-17T18:24:26Z', 'labels': []}
+{'issuenumber': 803, 'title': 'Popmotion: SVG line drawing playground on CodePen is not working', 'state': 'closed', 'created_at': '2019-05-17T16:14:23Z', 'closed_at': '2020-01-21T12:38:21Z', 'labels': []}
+{'issuenumber': 800, 'title': '[react-pose] Strange behaviour with nested posed components', 'state': 'closed', 'created_at': '2019-05-11T18:54:45Z', 'closed_at': '2020-01-20T14:54:11Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 799, 'title': "react-pose: Parameter 'props' implicitly has an 'any' type (TypeScript)", 'state': 'closed', 'created_at': '2019-05-09T20:22:23Z', 'closed_at': '2020-01-20T14:54:11Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 798, 'title': '[react-pose] reverse other animations on pose start', 'state': 'closed', 'created_at': '2019-05-09T10:16:11Z', 'closed_at': '2019-07-03T10:04:17Z', 'labels': []}
+{'issuenumber': 797, 'title': '[react-pose] Drag change events', 'state': 'closed', 'created_at': '2019-05-08T20:55:28Z', 'closed_at': '2020-01-20T14:54:10Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 796, 'title': '[react-pose] Clone on Drag', 'state': 'closed', 'created_at': '2019-05-08T20:49:58Z', 'closed_at': '2020-01-20T14:54:10Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 795, 'title': '[react-pose] attribute d expected moveto path command', 'state': 'closed', 'created_at': '2019-05-08T12:17:10Z', 'closed_at': '2020-01-20T14:54:10Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 794, 'title': 'Popmotion@8.6.9 getActionCreator is not a function', 'state': 'closed', 'created_at': '2019-05-05T15:35:29Z', 'closed_at': '2020-01-20T14:55:43Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 793, 'title': '[react-pose] : `translateZ()` is applied when using `x` or `y`', 'state': 'closed', 'created_at': '2019-05-03T04:25:04Z', 'closed_at': '2019-05-06T09:34:54Z', 'labels': []}
+{'issuenumber': 792, 'title': 'Wrong CodePen for passive values in React Pose documentation?', 'state': 'closed', 'created_at': '2019-05-01T22:29:00Z', 'closed_at': '2020-01-20T14:55:43Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 791, 'title': 'React Native Android Crashed ( can not find variable WeakSet ) IOS Fine', 'state': 'closed', 'created_at': '2019-05-01T14:38:35Z', 'closed_at': '2020-01-21T12:38:35Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 789, 'title': '[Question] How do I get animation to occur for when just the prop changes but no change in pose?', 'state': 'closed', 'created_at': '2019-04-30T11:20:10Z', 'closed_at': '2019-04-30T13:26:05Z', 'labels': []}
+{'issuenumber': 788, 'title': 'popmotion and framesync', 'state': 'closed', 'created_at': '2019-04-29T12:44:21Z', 'closed_at': '2020-01-21T12:39:04Z', 'labels': []}
+{'issuenumber': 787, 'title': 'Hitslop is not working inside TouchableNativeFeedback with Animating children', 'state': 'closed', 'created_at': '2019-04-28T12:16:22Z', 'closed_at': '2020-01-21T12:39:25Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 786, 'title': '[react-pose] Setting dragBounds dynamically', 'state': 'closed', 'created_at': '2019-04-28T07:09:04Z', 'closed_at': '2020-01-20T14:55:43Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 783, 'title': '[react-pose] How to override values from outside of react component', 'state': 'closed', 'created_at': '2019-04-23T13:26:19Z', 'closed_at': '2020-01-20T14:55:43Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 782, 'title': 'Initial style not set', 'state': 'closed', 'created_at': '2019-04-23T10:58:23Z', 'closed_at': '2020-01-20T14:55:42Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 781, 'title': '[react-pose 4.0.8]  memoize_cjs is not a function (umd  build)', 'state': 'closed', 'created_at': '2019-04-23T02:42:41Z', 'closed_at': '2020-01-20T14:55:42Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 780, 'title': 'Pose left elements in the dom if switching animations fast', 'state': 'closed', 'created_at': '2019-04-19T06:19:13Z', 'closed_at': '2020-01-20T14:55:42Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 779, 'title': '[React-Pose] Transition props not evaluated', 'state': 'closed', 'created_at': '2019-04-17T19:10:36Z', 'closed_at': '2019-05-01T14:57:07Z', 'labels': []}
+{'issuenumber': 778, 'title': 'Popmotion: Callback when animation is finished', 'state': 'closed', 'created_at': '2019-04-17T16:01:32Z', 'closed_at': '2020-01-21T12:39:47Z', 'labels': []}
+{'issuenumber': 777, 'title': 'React Pose: `overflow: hidden` not respected on exit animation', 'state': 'closed', 'created_at': '2019-04-15T11:21:37Z', 'closed_at': '2019-04-16T11:08:29Z', 'labels': []}
+{'issuenumber': 776, 'title': 'Trying to add property to the morph example results in an error', 'state': 'closed', 'created_at': '2019-04-12T16:06:34Z', 'closed_at': '2020-01-20T14:55:42Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 774, 'title': 'Question: a really simple example on how to get pose working with Class components?', 'state': 'closed', 'created_at': '2019-04-10T21:00:25Z', 'closed_at': '2019-04-10T23:54:35Z', 'labels': []}
+{'issuenumber': 773, 'title': "Question: is it possible to do 'trails' like in react-spring?", 'state': 'closed', 'created_at': '2019-04-09T18:42:54Z', 'closed_at': '2019-04-09T18:45:13Z', 'labels': []}
+{'issuenumber': 770, 'title': '[react-pose] poseGroup transition delay causes weird lags', 'state': 'closed', 'created_at': '2019-04-03T22:15:09Z', 'closed_at': '2020-01-20T14:55:42Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 769, 'title': "[Help] FLIP animation 'Last' stage flashing problem", 'state': 'closed', 'created_at': '2019-04-02T12:32:40Z', 'closed_at': '2019-04-08T11:17:33Z', 'labels': []}
+{'issuenumber': 767, 'title': 'PoseGroup dragBounds & Interaction with elements', 'state': 'closed', 'created_at': '2019-03-30T18:54:20Z', 'closed_at': '2020-01-21T12:39:57Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 766, 'title': 'Transition does not seem to work on Android', 'state': 'closed', 'created_at': '2019-03-30T03:46:36Z', 'closed_at': '2020-01-20T14:55:41Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 765, 'title': 'react-pose 4.0.4 -> 4.0.5 PoseGroup y value is reset to 0', 'state': 'closed', 'created_at': '2019-03-28T11:50:22Z', 'closed_at': '2020-01-20T14:55:41Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 764, 'title': '[react-pose@4.0.8] Route transitions with react-router <Redirect/> crashes React', 'state': 'closed', 'created_at': '2019-03-28T09:53:20Z', 'closed_at': '2020-01-20T14:55:41Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 761, 'title': 'Interia `dragEnd` after first drag - React Pose and Popmotion', 'state': 'closed', 'created_at': '2019-03-23T00:31:36Z', 'closed_at': '2019-04-09T15:48:09Z', 'labels': []}
+{'issuenumber': 759, 'title': "vue-pose: Events aren't passed through when using vue-styled-components with vue-pose.", 'state': 'closed', 'created_at': '2019-03-21T01:12:28Z', 'closed_at': '2020-01-20T14:55:41Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 758, 'title': 'React Pose Script Embed throwing errors (Dependency issue?)', 'state': 'closed', 'created_at': '2019-03-20T19:24:39Z', 'closed_at': '2020-01-20T14:55:40Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 757, 'title': '"react-pose": "4.0.8". Exit animation applies only a one time', 'state': 'closed', 'created_at': '2019-03-19T14:15:33Z', 'closed_at': '2020-01-20T14:55:40Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 756, 'title': 'why is react-pose almost as big as react-dom?', 'state': 'closed', 'created_at': '2019-03-15T21:56:11Z', 'closed_at': '2019-03-18T09:19:06Z', 'labels': []}
+{'issuenumber': 755, 'title': '[react-native-pose] animating width or height gives error', 'state': 'closed', 'created_at': '2019-03-14T02:17:26Z', 'closed_at': '2020-01-20T14:55:40Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 754, 'title': 'react-native-pose [0.9.0]: enterAfterExit not working with opacity', 'state': 'closed', 'created_at': '2019-03-13T10:28:46Z', 'closed_at': '2020-01-20T14:55:40Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 752, 'title': 'How to add individual route transitions?', 'state': 'closed', 'created_at': '2019-03-08T11:56:41Z', 'closed_at': '2019-03-10T21:15:19Z', 'labels': []}
+{'issuenumber': 750, 'title': 'react-pose 4.0.1 -> 4.0.2 upgrade makes tween bounce', 'state': 'closed', 'created_at': '2019-03-05T10:45:18Z', 'closed_at': '2020-01-20T14:55:39Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 749, 'title': '[question] How can I continuously rotate until a state change?', 'state': 'closed', 'created_at': '2019-03-05T00:17:18Z', 'closed_at': '2019-03-25T17:12:14Z', 'labels': []}
+{'issuenumber': 748, 'title': '[react-pose] Trying to transition between position: relative to position: absolute', 'state': 'closed', 'created_at': '2019-03-02T07:40:33Z', 'closed_at': '2020-01-20T14:55:39Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 747, 'title': "react-pose: staggerChildren + nested delayChildren doesn't work as expected", 'state': 'closed', 'created_at': '2019-02-28T22:09:12Z', 'closed_at': '2020-01-20T14:55:39Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 745, 'title': 'react-pose: on hoverable fill property is `NaN`', 'state': 'closed', 'created_at': '2019-02-27T23:28:10Z', 'closed_at': '2019-03-01T02:51:13Z', 'labels': []}
+{'issuenumber': 743, 'title': 'Bounce Easing', 'state': 'closed', 'created_at': '2019-02-27T22:14:43Z', 'closed_at': '2019-03-05T11:37:17Z', 'labels': []}
+{'issuenumber': 742, 'title': 'Make dragBounds respected even with transitions', 'state': 'closed', 'created_at': '2019-02-25T19:53:33Z', 'closed_at': '2020-01-20T14:55:39Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 739, 'title': '[react-pose] Combination of flip and dynamic prop', 'state': 'closed', 'created_at': '2019-02-17T11:37:49Z', 'closed_at': '2020-01-20T14:55:38Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 738, 'title': "Popmotion: Can't make css perspective work", 'state': 'closed', 'created_at': '2019-02-16T15:55:21Z', 'closed_at': '2020-01-21T12:49:40Z', 'labels': []}
+{'issuenumber': 737, 'title': 'Question: Flat list Items', 'state': 'closed', 'created_at': '2019-02-16T10:50:09Z', 'closed_at': '2020-01-20T14:55:38Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 736, 'title': 'React-Pose fails Jest Snapshot test', 'state': 'closed', 'created_at': '2019-02-13T17:30:25Z', 'closed_at': '2020-01-20T14:55:38Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 735, 'title': '[react-native-pose] children pose with same key are triggered', 'state': 'closed', 'created_at': '2019-02-13T16:55:43Z', 'closed_at': '2020-01-20T14:55:38Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 734, 'title': 'react-post: dragEnd does not return element to original position, instead returning to where the mouse was released', 'state': 'closed', 'created_at': '2019-02-12T18:47:28Z', 'closed_at': '2020-01-20T14:56:35Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 733, 'title': 'How to transition number from 0 to x with react-pose', 'state': 'closed', 'created_at': '2019-02-12T17:34:10Z', 'closed_at': '2019-02-13T14:25:54Z', 'labels': []}
+{'issuenumber': 732, 'title': 'PoseGroup and lazy component with Suspense', 'state': 'closed', 'created_at': '2019-02-12T12:04:54Z', 'closed_at': '2019-02-12T12:47:16Z', 'labels': []}
+{'issuenumber': 731, 'title': 'react-pose: pose not applied for some strange reasons', 'state': 'closed', 'created_at': '2019-02-11T15:30:44Z', 'closed_at': '2020-01-20T14:56:35Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 729, 'title': 'React-Pose:  Draggable example no longer works', 'state': 'closed', 'created_at': '2019-02-10T22:18:42Z', 'closed_at': '2019-02-12T08:52:45Z', 'labels': []}
+{'issuenumber': 727, 'title': 'PoseGroup frame performance on numerous flip animations', 'state': 'closed', 'created_at': '2019-02-06T15:58:22Z', 'closed_at': '2019-07-18T16:49:33Z', 'labels': []}
+{'issuenumber': 726, 'title': 'Question: does this work for route transitions in vuejs?', 'state': 'closed', 'created_at': '2019-02-05T21:26:02Z', 'closed_at': '2020-01-20T14:56:35Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 724, 'title': 'Flip animation between two different elements example', 'state': 'closed', 'created_at': '2019-02-03T23:10:19Z', 'closed_at': '2019-02-15T19:23:03Z', 'labels': []}
+{'issuenumber': 723, 'title': '[react-pose] Custom window for instanceof checks when running in an iframe', 'state': 'closed', 'created_at': '2019-02-02T06:07:35Z', 'closed_at': '2020-01-20T14:56:34Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 722, 'title': 'Failing CI', 'state': 'closed', 'created_at': '2019-01-31T21:05:45Z', 'closed_at': '2019-01-31T21:27:42Z', 'labels': []}
+{'issuenumber': 721, 'title': '[react-pose] Performance Optimization for conditionally skipping animations', 'state': 'closed', 'created_at': '2019-01-30T15:20:38Z', 'closed_at': '2020-01-20T14:56:34Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 720, 'title': '[Feature Request] Motion path', 'state': 'closed', 'created_at': '2019-01-30T11:55:15Z', 'closed_at': '2020-01-21T12:41:27Z', 'labels': []}
+{'issuenumber': 719, 'title': 'react-pose: supporting iOS 8 ?', 'state': 'closed', 'created_at': '2019-01-30T03:52:32Z', 'closed_at': '2019-02-02T02:35:29Z', 'labels': []}
+{'issuenumber': 717, 'title': 'React pose stutter / performance issues', 'state': 'closed', 'created_at': '2019-01-28T19:19:13Z', 'closed_at': '2020-01-20T14:56:34Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 716, 'title': 'Enter/exit transitions for React Native', 'state': 'closed', 'created_at': '2019-01-28T16:41:45Z', 'closed_at': '2019-01-28T18:30:38Z', 'labels': []}
+{'issuenumber': 715, 'title': 'react-pose: Nothing animates (w/ react 16.8.0-alpha.1)', 'state': 'closed', 'created_at': '2019-01-28T15:55:34Z', 'closed_at': '2019-02-09T23:04:20Z', 'labels': []}
+{'issuenumber': 712, 'title': "react-pose: my dynamic props doesn't trigger change on my animated element", 'state': 'closed', 'created_at': '2019-01-26T21:51:51Z', 'closed_at': '2020-01-20T14:56:34Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 709, 'title': 'Add "Material" Motion to Examples/Tutorials', 'state': 'closed', 'created_at': '2019-01-25T23:48:03Z', 'closed_at': '2020-01-20T14:56:33Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 707, 'title': '[react-pose] Issue with Animation Delay in Pose Group (affects animation type) ', 'state': 'closed', 'created_at': '2019-01-23T03:50:01Z', 'closed_at': '2019-01-23T13:31:41Z', 'labels': []}
+{'issuenumber': 705, 'title': 'react-pose: global reuse of popmotion in 4.0.5', 'state': 'closed', 'created_at': '2019-01-22T03:57:03Z', 'closed_at': '2019-04-23T01:23:42Z', 'labels': []}
+{'issuenumber': 704, 'title': 'dragBounds does not work properly with v4.0.5', 'state': 'closed', 'created_at': '2019-01-21T14:17:03Z', 'closed_at': '2019-02-04T10:28:03Z', 'labels': []}
+{'issuenumber': 700, 'title': 'react-pose: Drag example not consistent in 4.0.5', 'state': 'closed', 'created_at': '2019-01-18T21:17:31Z', 'closed_at': '2019-01-22T09:08:49Z', 'labels': []}
+{'issuenumber': 698, 'title': 'React Pose: applyAtStart / applyAtEnd display: none / block preventing transition', 'state': 'closed', 'created_at': '2019-01-16T15:09:34Z', 'closed_at': '2020-01-20T14:56:33Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 696, 'title': 'ReactPose does not work on ReactDOM.createPortal', 'state': 'closed', 'created_at': '2019-01-13T18:18:36Z', 'closed_at': '2020-01-20T14:56:33Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 694, 'title': 'react-native-pose: simplest example is not working ', 'state': 'closed', 'created_at': '2019-01-12T13:34:35Z', 'closed_at': '2019-01-13T17:41:11Z', 'labels': []}
+{'issuenumber': 693, 'title': 'Unable to create Linear Transition', 'state': 'closed', 'created_at': '2019-01-12T02:07:45Z', 'closed_at': '2019-01-13T18:51:33Z', 'labels': []}
+{'issuenumber': 692, 'title': 'react-pose: `onPoseComplete` does not fire on hover changes', 'state': 'closed', 'created_at': '2019-01-10T21:03:08Z', 'closed_at': '2020-01-20T14:56:33Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 691, 'title': 'Popmotion: Transitions between components no longer work after 3.3.1', 'state': 'closed', 'created_at': '2019-01-10T16:41:59Z', 'closed_at': '2020-01-20T14:56:33Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 690, 'title': '[React-Native-Pose] StaggerChildren not working properly', 'state': 'closed', 'created_at': '2019-01-10T14:50:29Z', 'closed_at': '2020-01-20T14:56:32Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 687, 'title': '[Question] How to easing stop a circular motion to a designated [x, y] position?', 'state': 'closed', 'created_at': '2019-01-08T10:09:02Z', 'closed_at': '2019-01-09T01:53:54Z', 'labels': []}
+{'issuenumber': 685, 'title': "[React-Pose - <Transition>] Insertion index for leaving children doesn't take entering children into consideration", 'state': 'closed', 'created_at': '2019-01-05T20:46:40Z', 'closed_at': '2020-01-20T14:56:32Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 684, 'title': '[react-pose] Calling setState() during PoseGroup transition causes entering component to lose current animation', 'state': 'closed', 'created_at': '2019-01-04T22:32:18Z', 'closed_at': '2020-01-20T14:56:32Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 682, 'title': 'React Pose: PoseGroup does not animate elements before the one being removed', 'state': 'closed', 'created_at': '2019-01-04T13:28:10Z', 'closed_at': '2019-01-08T08:42:35Z', 'labels': []}
+{'issuenumber': 681, 'title': 'Text effect', 'state': 'closed', 'created_at': '2019-01-02T12:07:03Z', 'closed_at': '2019-01-10T00:18:45Z', 'labels': []}
+{'issuenumber': 680, 'title': 'typescript pure playbacks missing', 'state': 'closed', 'created_at': '2019-01-02T10:46:47Z', 'closed_at': '2020-01-21T12:42:15Z', 'labels': []}
+{'issuenumber': 679, 'title': 'compatibility problem', 'state': 'closed', 'created_at': '2019-01-02T07:46:53Z', 'closed_at': '2020-01-21T12:42:59Z', 'labels': []}
+{'issuenumber': 678, 'title': 'React-Pose: Component factory type issue with props', 'state': 'closed', 'created_at': '2018-12-29T23:38:30Z', 'closed_at': '2019-01-22T09:19:28Z', 'labels': []}
+{'issuenumber': 677, 'title': 'disable animation', 'state': 'closed', 'created_at': '2018-12-29T03:32:05Z', 'closed_at': '2020-01-20T14:56:32Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 675, 'title': '[react-pose] TypeScript prop typings are lost when posing an existing component', 'state': 'closed', 'created_at': '2018-12-27T22:50:11Z', 'closed_at': '2019-01-22T15:38:19Z', 'labels': []}
+{'issuenumber': 674, 'title': 'onPoseComplete missing in react-native-posed', 'state': 'closed', 'created_at': '2018-12-24T15:50:01Z', 'closed_at': '2019-01-30T11:14:20Z', 'labels': []}
+{'issuenumber': 673, 'title': 'React-pose - Whole component re-renders when nested routes are triggered', 'state': 'closed', 'created_at': '2018-12-21T18:24:28Z', 'closed_at': '2018-12-25T00:38:53Z', 'labels': []}
+{'issuenumber': 672, 'title': 'react-pose overrides unrelated CSS properties creating glitches', 'state': 'closed', 'created_at': '2018-12-21T08:11:43Z', 'closed_at': '2020-01-20T14:56:31Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 671, 'title': 'react-pose: List items rendering are not animated while reordering', 'state': 'closed', 'created_at': '2018-12-18T15:25:47Z', 'closed_at': '2018-12-19T15:32:19Z', 'labels': []}
+{'issuenumber': 668, 'title': 'PoseGroup, collapsing list items could customised?', 'state': 'closed', 'created_at': '2018-12-13T11:09:45Z', 'closed_at': '2018-12-14T10:15:51Z', 'labels': []}
+{'issuenumber': 667, 'title': 'Popmotion Pure with react-native', 'state': 'closed', 'created_at': '2018-12-11T18:37:23Z', 'closed_at': '2018-12-22T12:04:07Z', 'labels': []}
+{'issuenumber': 665, 'title': 'vue-pose posed.video autoplay dont work', 'state': 'closed', 'created_at': '2018-12-10T13:35:01Z', 'closed_at': '2020-01-20T14:56:31Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 664, 'title': 'Support css position attribute', 'state': 'closed', 'created_at': '2018-12-10T06:09:09Z', 'closed_at': '2018-12-11T09:49:59Z', 'labels': []}
+{'issuenumber': 662, 'title': '[react-pose] console.log left in componentDidMount', 'state': 'closed', 'created_at': '2018-12-06T12:30:07Z', 'closed_at': '2018-12-06T22:15:43Z', 'labels': []}
+{'issuenumber': 661, 'title': '[react-pose] Box shadow does not work when combined with PoseGroup', 'state': 'closed', 'created_at': '2018-12-05T16:07:03Z', 'closed_at': '2018-12-07T13:22:49Z', 'labels': []}
+{'issuenumber': 660, 'title': '[react-pose] Scaled text is blurry in demos', 'state': 'closed', 'created_at': '2018-12-05T13:27:43Z', 'closed_at': '2018-12-05T15:04:25Z', 'labels': []}
+{'issuenumber': 656, 'title': 'BUG: subscribing to a value is firing update on other subscriptions', 'state': 'closed', 'created_at': '2018-12-02T08:16:01Z', 'closed_at': '2018-12-10T11:18:04Z', 'labels': []}
+{'issuenumber': 655, 'title': 'React-Pose 4.0.x bug - Child pose state no effect if parent was assigned pose props', 'state': 'closed', 'created_at': '2018-11-30T18:00:11Z', 'closed_at': '2018-12-04T09:39:20Z', 'labels': []}
+{'issuenumber': 654, 'title': '[react-pose] StaggerChildren on PoseGroup', 'state': 'closed', 'created_at': '2018-11-29T15:10:32Z', 'closed_at': '2020-01-20T14:56:31Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 651, 'title': 'FrameSync: Unable to implement cancelSync', 'state': 'closed', 'created_at': '2018-11-28T08:29:01Z', 'closed_at': '2018-11-28T12:29:33Z', 'labels': []}
+{'issuenumber': 648, 'title': 'iOS 8 import popmotion console log: "ReferenceError: Can\'t find variable: WeakSet"', 'state': 'closed', 'created_at': '2018-11-27T08:05:22Z', 'closed_at': '2018-11-27T09:36:23Z', 'labels': []}
+{'issuenumber': 646, 'title': '[react-pose] Transition that returns a fn w/ a tween fn inside is not called', 'state': 'closed', 'created_at': '2018-11-26T20:27:00Z', 'closed_at': '2019-01-28T13:48:00Z', 'labels': []}
+{'issuenumber': 645, 'title': '[react-pose] SVG Path Update Fails', 'state': 'closed', 'created_at': '2018-11-26T19:40:55Z', 'closed_at': '2020-01-20T14:56:31Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 644, 'title': '[react-pose] applyAtStart/applyAtEnd problem', 'state': 'closed', 'created_at': '2018-11-23T17:48:17Z', 'closed_at': '2020-01-20T14:56:31Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 643, 'title': 'Animations with a delay are stuttering during scroll (chrome only)', 'state': 'closed', 'created_at': '2018-11-21T11:40:31Z', 'closed_at': '2018-11-22T12:04:09Z', 'labels': []}
+{'issuenumber': 642, 'title': '[react-pose] + [vue-pose] DragEnd should be called when user leaves window', 'state': 'closed', 'created_at': '2018-11-21T04:16:54Z', 'closed_at': '2020-01-20T14:56:30Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 641, 'title': 'Pose pathLength not working when combined with animated d attrs', 'state': 'closed', 'created_at': '2018-11-20T17:53:44Z', 'closed_at': '2020-01-20T14:56:30Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 639, 'title': 'Stylefire: cannot handle SVG `<stop />` elements (`element.getBBox is not a function`)', 'state': 'closed', 'created_at': '2018-11-20T13:22:46Z', 'closed_at': '2018-11-28T15:40:54Z', 'labels': []}
+{'issuenumber': 638, 'title': 'Stylefire + Pose Docs', 'state': 'closed', 'created_at': '2018-11-19T21:30:29Z', 'closed_at': '2018-11-20T01:36:19Z', 'labels': []}
+{'issuenumber': 637, 'title': 'Animate Multiple Elements at same time in React', 'state': 'closed', 'created_at': '2018-11-19T15:28:54Z', 'closed_at': '2018-11-24T21:55:04Z', 'labels': []}
+{'issuenumber': 636, 'title': 'Update Lifecycle Function ', 'state': 'closed', 'created_at': '2018-11-18T17:54:34Z', 'closed_at': '2020-01-20T14:56:30Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 635, 'title': 'Documentation is broken', 'state': 'closed', 'created_at': '2018-11-16T19:07:28Z', 'closed_at': '2018-11-16T19:32:45Z', 'labels': []}
+{'issuenumber': 632, 'title': 'Declarative Pose Elements in React', 'state': 'closed', 'created_at': '2018-11-16T02:34:58Z', 'closed_at': '2020-01-20T14:56:29Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 631, 'title': '[react] Inner ref is deprecated', 'state': 'closed', 'created_at': '2018-11-15T19:55:52Z', 'closed_at': '2018-11-20T17:45:40Z', 'labels': []}
+{'issuenumber': 630, 'title': "Popmotion Pure: Interpolate not clamping if output exceeds it's max outputRange despite the docs", 'state': 'closed', 'created_at': '2018-11-14T16:51:10Z', 'closed_at': '2018-11-27T14:17:40Z', 'labels': []}
+{'issuenumber': 627, 'title': '[react-pose] Example with React Context consumer ', 'state': 'closed', 'created_at': '2018-11-12T20:41:47Z', 'closed_at': '2018-11-13T14:08:04Z', 'labels': []}
+{'issuenumber': 626, 'title': '---', 'state': 'closed', 'created_at': '2018-11-12T19:50:30Z', 'closed_at': '2018-11-12T19:51:48Z', 'labels': []}
+{'issuenumber': 625, 'title': 'Passive opacity for both X and y axis?', 'state': 'closed', 'created_at': '2018-11-12T11:43:58Z', 'closed_at': '2020-01-20T14:57:28Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 624, 'title': 'react-pose version 4 bug with FLIP/PoseGroup not present in version 3', 'state': 'closed', 'created_at': '2018-11-12T10:28:26Z', 'closed_at': '2018-11-16T09:43:32Z', 'labels': []}
+{'issuenumber': 623, 'title': "React-Pose Animations don't happen if nested in dynamic returns", 'state': 'closed', 'created_at': '2018-11-11T00:29:34Z', 'closed_at': '2018-11-12T19:16:54Z', 'labels': []}
+{'issuenumber': 622, 'title': 'Cordova Integration', 'state': 'closed', 'created_at': '2018-11-09T06:15:40Z', 'closed_at': '2018-12-11T21:41:31Z', 'labels': []}
+{'issuenumber': 621, 'title': "react-pose 4.0.1 TypeError: cannot read property 'replace' of null with build", 'state': 'closed', 'created_at': '2018-11-07T22:10:36Z', 'closed_at': '2018-11-08T22:16:15Z', 'labels': []}
+{'issuenumber': 620, 'title': "react-pose 4.0.1 TypeError: cannot read property 'replace' of null with build", 'state': 'closed', 'created_at': '2018-11-07T22:10:35Z', 'closed_at': '2018-11-07T23:54:03Z', 'labels': []}
+{'issuenumber': 619, 'title': 'Compose Values/Reactions', 'state': 'closed', 'created_at': '2018-11-07T11:05:59Z', 'closed_at': '2020-01-21T12:43:27Z', 'labels': []}
+{'issuenumber': 618, 'title': '[React-Pose] A x-draggable element intercepts scroll event on touch devices', 'state': 'closed', 'created_at': '2018-11-07T09:55:53Z', 'closed_at': '2020-01-20T14:57:28Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 616, 'title': 'Codepen examples on doc site not appearing in Safari', 'state': 'closed', 'created_at': '2018-11-06T19:33:24Z', 'closed_at': '2020-01-20T14:57:28Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 615, 'title': 'Stylefire: allow numeric values for props like padding, margin, etc.', 'state': 'closed', 'created_at': '2018-11-06T18:36:22Z', 'closed_at': '2018-11-07T08:29:01Z', 'labels': []}
+{'issuenumber': 614, 'title': '[react-pose] PoseGroup children animated from original position when a child leaves the DOM ', 'state': 'closed', 'created_at': '2018-11-06T13:33:17Z', 'closed_at': '2018-11-16T09:43:32Z', 'labels': []}
+{'issuenumber': 613, 'title': 'Issues with PoseGroup and onLeave animations', 'state': 'closed', 'created_at': '2018-11-06T10:15:16Z', 'closed_at': '2020-01-20T14:57:28Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 610, 'title': 'React-pose: typings error when using react-pose@3.4.0 in typescript project', 'state': 'closed', 'created_at': '2018-11-05T18:47:55Z', 'closed_at': '2020-01-20T14:57:27Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 609, 'title': '[help] draggable only on X and Y axis', 'state': 'closed', 'created_at': '2018-11-05T16:07:12Z', 'closed_at': '2018-11-06T20:09:26Z', 'labels': []}
+{'issuenumber': 607, 'title': '[popcorn] Wrong imports in distance.d.ts', 'state': 'closed', 'created_at': '2018-11-02T13:58:43Z', 'closed_at': '2018-11-05T15:43:07Z', 'labels': []}
+{'issuenumber': 606, 'title': '[react-pose]: Build fails on attempt to import springForce', 'state': 'closed', 'created_at': '2018-11-01T14:12:12Z', 'closed_at': '2018-11-01T15:18:30Z', 'labels': []}
+{'issuenumber': 602, 'title': '[vue-pose] Install for nuxt.js', 'state': 'closed', 'created_at': '2018-11-01T08:17:58Z', 'closed_at': '2018-11-01T11:50:44Z', 'labels': []}
+{'issuenumber': 601, 'title': '[react-pose]: React.StrictMode causes removeChild to not be called in Transition component', 'state': 'closed', 'created_at': '2018-11-01T02:05:00Z', 'closed_at': '2018-11-01T10:40:57Z', 'labels': []}
+{'issuenumber': 598, 'title': '[react-pose] Is there a way to reverse stagger animation?', 'state': 'closed', 'created_at': '2018-10-31T21:55:11Z', 'closed_at': '2018-11-01T11:50:54Z', 'labels': []}
+{'issuenumber': 597, 'title': '[react-pose] Stagger order is unsafe', 'state': 'closed', 'created_at': '2018-10-30T15:26:34Z', 'closed_at': '2020-01-20T14:57:27Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 595, 'title': '[react-pose]: Passing hostRef to a styled-component ', 'state': 'closed', 'created_at': '2018-10-29T19:53:34Z', 'closed_at': '2020-01-20T14:57:27Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 593, 'title': 'react-pose: applyAtStart/applyAtEnd in inner posed element gets applied to outer posed element', 'state': 'closed', 'created_at': '2018-10-27T10:50:26Z', 'closed_at': '2018-10-31T11:14:21Z', 'labels': []}
+{'issuenumber': 592, 'title': 'Writing inline styles with `element.style.cssText` violates some CSP policies', 'state': 'closed', 'created_at': '2018-10-26T14:42:11Z', 'closed_at': '2018-12-05T12:02:30Z', 'labels': []}
+{'issuenumber': 591, 'title': "Pose object inside other pose object doens't show", 'state': 'closed', 'created_at': '2018-10-26T08:23:42Z', 'closed_at': '2018-10-28T22:06:46Z', 'labels': []}
+{'issuenumber': 590, 'title': '[react native] text within nested posed component with animated position renders in low quality', 'state': 'closed', 'created_at': '2018-10-26T03:14:34Z', 'closed_at': '2018-11-29T00:37:02Z', 'labels': []}
+{'issuenumber': 589, 'title': 'applyAtEnd doesnt get applied on mount unless it actually changes pose?', 'state': 'closed', 'created_at': '2018-10-25T17:00:42Z', 'closed_at': '2020-01-20T14:57:27Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 586, 'title': '[react-pose: PoseGroup] Strange behavior when many elements concurrent being unmounted', 'state': 'closed', 'created_at': '2018-10-24T23:01:46Z', 'closed_at': '2020-01-20T14:57:26Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 581, 'title': '[react-pose] <Transition animateOnMount/> doesnt apply children dynamic property resolvers', 'state': 'closed', 'created_at': '2018-10-24T13:22:54Z', 'closed_at': '2018-10-25T12:45:18Z', 'labels': []}
+{'issuenumber': 576, 'title': 'Replace componentWillUpdate with componentDidUpdate', 'state': 'closed', 'created_at': '2018-10-24T06:57:30Z', 'closed_at': '2018-10-31T11:47:09Z', 'labels': []}
+{'issuenumber': 574, 'title': "React Pose: Animations don't start if the next pose is an array of equal length", 'state': 'closed', 'created_at': '2018-10-23T15:57:20Z', 'closed_at': '2018-10-31T11:51:01Z', 'labels': []}
+{'issuenumber': 573, 'title': 'Fix and/or normalize stylefire svg origin config', 'state': 'closed', 'created_at': '2018-10-20T03:14:38Z', 'closed_at': '2020-01-20T14:57:26Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 568, 'title': '[Help]Page transition working like if it were mobile.', 'state': 'closed', 'created_at': '2018-10-17T23:20:42Z', 'closed_at': '2020-01-21T11:20:43Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 567, 'title': 'enable dynamic props for passive values', 'state': 'closed', 'created_at': '2018-10-17T22:49:59Z', 'closed_at': '2020-01-20T14:57:26Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 566, 'title': 'Pose: resizable option', 'state': 'closed', 'created_at': '2018-10-16T22:20:32Z', 'closed_at': '2020-01-20T14:57:25Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 565, 'title': 'React-pose: `onPoseComplete` not firing', 'state': 'closed', 'created_at': '2018-10-16T21:53:31Z', 'closed_at': '2020-01-20T14:57:25Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 562, 'title': "Pose-core/popmotion-pose: Height flipping broken - doesn't reverse to init", 'state': 'closed', 'created_at': '2018-10-14T12:46:53Z', 'closed_at': '2020-01-20T14:57:25Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 561, 'title': '[question] flip implementation', 'state': 'closed', 'created_at': '2018-10-14T10:16:00Z', 'closed_at': '2018-10-14T13:36:52Z', 'labels': []}
+{'issuenumber': 559, 'title': 'Popmotion: Runs slow on mobile devices', 'state': 'closed', 'created_at': '2018-10-12T03:46:08Z', 'closed_at': '2018-10-20T02:33:43Z', 'labels': []}
+{'issuenumber': 558, 'title': '`stop` callback', 'state': 'closed', 'created_at': '2018-10-12T03:37:35Z', 'closed_at': '2018-10-13T02:59:25Z', 'labels': []}
+{'issuenumber': 557, 'title': 'react-pose: Route Page Transition With Different Margins', 'state': 'closed', 'created_at': '2018-10-11T22:10:58Z', 'closed_at': '2018-10-14T19:34:51Z', 'labels': []}
+{'issuenumber': 556, 'title': 'react-pose-text change renderChars to render span', 'state': 'closed', 'created_at': '2018-10-10T15:05:04Z', 'closed_at': '2018-10-10T16:30:23Z', 'labels': []}
+{'issuenumber': 555, 'title': 'react-pose: flip scales incorrectly', 'state': 'closed', 'created_at': '2018-10-10T10:46:34Z', 'closed_at': '2020-01-20T14:57:24Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 554, 'title': '[react-pose] Poses config update API', 'state': 'closed', 'created_at': '2018-10-10T10:04:26Z', 'closed_at': '2020-01-20T14:57:24Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 553, 'title': 'React-Pose: PoseGroup Animations running on render/update instead of mount', 'state': 'closed', 'created_at': '2018-10-09T20:10:53Z', 'closed_at': '2018-10-09T20:34:02Z', 'labels': []}
+{'issuenumber': 552, 'title': 'react-pose: shouldn’t always return to init after hover', 'state': 'closed', 'created_at': '2018-10-09T17:54:19Z', 'closed_at': '2020-01-20T14:57:23Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 551, 'title': 'Route transitions with React Router', 'state': 'closed', 'created_at': '2018-10-09T17:39:59Z', 'closed_at': '2020-01-21T11:19:30Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 550, 'title': '[react-pose] Posed element config is hoisted', 'state': 'closed', 'created_at': '2018-10-09T16:04:34Z', 'closed_at': '2018-10-19T15:39:28Z', 'labels': []}
+{'issuenumber': 549, 'title': ' onDragStart/onDragEnd triggered by mouse down and mouse up without dragging?', 'state': 'closed', 'created_at': '2018-10-09T08:34:36Z', 'closed_at': '2020-01-20T14:57:23Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 548, 'title': '[discussion] Should onPoseComplete fire for nested elements?', 'state': 'closed', 'created_at': '2018-10-09T08:17:40Z', 'closed_at': '2020-01-20T14:57:23Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 546, 'title': 'Support for <main>', 'state': 'closed', 'created_at': '2018-10-08T18:42:08Z', 'closed_at': '2020-01-20T14:57:23Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 545, 'title': 'react-pose: parent / child poses: parent-pose is "winning" from child pose', 'state': 'closed', 'created_at': '2018-10-08T11:42:40Z', 'closed_at': '2020-01-20T14:57:22Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 544, 'title': 'react-pose: onPoseComplete on a deeper nested posed component within a PoseGroup is not working', 'state': 'closed', 'created_at': '2018-10-08T10:21:20Z', 'closed_at': '2018-10-09T07:58:38Z', 'labels': []}
+{'issuenumber': 543, 'title': 'How to get value to stop parent when using start object style', 'state': 'closed', 'created_at': '2018-10-08T01:58:52Z', 'closed_at': '2020-01-21T11:13:42Z', 'labels': []}
+{'issuenumber': 542, 'title': 'vue-pose: Issue with pose transitions based on height', 'state': 'closed', 'created_at': '2018-10-06T20:32:59Z', 'closed_at': '2020-01-20T14:57:22Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 541, 'title': 'Children button "onClick" not triggering when parent div "draggable" = true', 'state': 'closed', 'created_at': '2018-10-05T08:33:14Z', 'closed_at': '2018-12-17T09:46:51Z', 'labels': []}
+{'issuenumber': 540, 'title': 'React Pose: extend API', 'state': 'closed', 'created_at': '2018-10-05T08:32:02Z', 'closed_at': '2020-01-20T14:57:22Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 539, 'title': 'react-pose: Using NavLink in conjunction with posed causes activeClassName to break', 'state': 'closed', 'created_at': '2018-10-05T07:27:14Z', 'closed_at': '2020-01-20T14:57:21Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 537, 'title': 'Keys on pose config need to be unique when nesting animations?', 'state': 'closed', 'created_at': '2018-10-02T16:54:43Z', 'closed_at': '2020-01-20T14:57:21Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 536, 'title': 'Child Animations on react native', 'state': 'closed', 'created_at': '2018-10-02T07:15:16Z', 'closed_at': '2018-10-03T13:57:58Z', 'labels': []}
+{'issuenumber': 535, 'title': 'react-pose not recognizing keys on first run when using react-router-dom', 'state': 'closed', 'created_at': '2018-10-01T04:37:51Z', 'closed_at': '2018-10-03T19:30:02Z', 'labels': []}
+{'issuenumber': 532, 'title': 'Setup typing tests', 'state': 'closed', 'created_at': '2018-09-29T12:12:46Z', 'closed_at': '2020-01-21T11:13:20Z', 'labels': []}
+{'issuenumber': 528, 'title': "Popmotion: transform.steps() doesn't round properly to each step. ", 'state': 'closed', 'created_at': '2018-09-28T16:44:41Z', 'closed_at': '2020-01-21T11:13:08Z', 'labels': []}
+{'issuenumber': 526, 'title': "react-pose: Typescript | Cannot find name 'ReactElement'.", 'state': 'closed', 'created_at': '2018-09-28T16:13:26Z', 'closed_at': '2018-09-28T16:30:37Z', 'labels': []}
+{'issuenumber': 524, 'title': "Color transition only support hex, string doesn't work", 'state': 'closed', 'created_at': '2018-09-26T03:20:12Z', 'closed_at': '2020-01-21T11:12:50Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 523, 'title': '/lib not be compiled in publishing @ 8.4 ', 'state': 'closed', 'created_at': '2018-09-25T08:29:11Z', 'closed_at': '2020-01-21T11:12:32Z', 'labels': []}
+{'issuenumber': 522, 'title': 'react-pose 3.3.4: PoseGroup not working with styled-components', 'state': 'closed', 'created_at': '2018-09-24T20:36:34Z', 'closed_at': '2018-09-24T20:45:23Z', 'labels': []}
+{'issuenumber': 520, 'title': 'Dependency ajv', 'state': 'closed', 'created_at': '2018-09-24T03:31:03Z', 'closed_at': '2020-01-20T14:58:07Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 519, 'title': 'Control over when PoseGroup begins its [pre]enter process', 'state': 'closed', 'created_at': '2018-09-24T02:27:09Z', 'closed_at': '2020-01-20T14:58:06Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 517, 'title': '[react-pose] Manually register children of PoseGroup', 'state': 'closed', 'created_at': '2018-09-22T15:59:00Z', 'closed_at': '2018-10-09T12:59:49Z', 'labels': []}
+{'issuenumber': 512, 'title': 'Fix `isForwardRef` typings', 'state': 'closed', 'created_at': '2018-09-22T06:56:53Z', 'closed_at': '2018-10-31T11:44:17Z', 'labels': []}
+{'issuenumber': 507, 'title': 'Exit event not firing', 'state': 'closed', 'created_at': '2018-09-20T21:29:23Z', 'closed_at': '2020-01-20T14:58:06Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 505, 'title': 'Link in documentation leads to dead page', 'state': 'closed', 'created_at': '2018-09-20T08:37:15Z', 'closed_at': '2018-09-20T10:20:27Z', 'labels': []}
+{'issuenumber': 504, 'title': "React Native <Transition />: cannot read property 'key' of null", 'state': 'closed', 'created_at': '2018-09-20T04:20:44Z', 'closed_at': '2018-09-21T10:05:57Z', 'labels': []}
+{'issuenumber': 502, 'title': 'React Pose: PoseGroup events like onPoseComplete and onValueChange', 'state': 'closed', 'created_at': '2018-09-19T14:11:43Z', 'closed_at': '2018-09-21T14:06:40Z', 'labels': []}
+{'issuenumber': 499, 'title': "React-pose Error: Pose 'hoverable' is of invalid type. All poses should be objects.", 'state': 'closed', 'created_at': '2018-09-18T18:25:11Z', 'closed_at': '2018-09-25T16:30:29Z', 'labels': []}
+{'issuenumber': 498, 'title': 'Vue-Pose: onPoseComplete on exit?', 'state': 'closed', 'created_at': '2018-09-18T12:33:41Z', 'closed_at': '2020-01-20T14:58:06Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 497, 'title': 'Pose-group for Vue?', 'state': 'closed', 'created_at': '2018-09-18T10:47:02Z', 'closed_at': '2018-09-18T11:47:56Z', 'labels': []}
+{'issuenumber': 495, 'title': "Change a posed component's draggable property after it has mounted", 'state': 'closed', 'created_at': '2018-09-18T01:43:03Z', 'closed_at': '2020-01-20T14:58:06Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 494, 'title': 'React pose: Transition props forwarding bug', 'state': 'closed', 'created_at': '2018-09-17T22:18:20Z', 'closed_at': '2018-09-28T15:31:42Z', 'labels': []}
+{'issuenumber': 493, 'title': "Why height animation doesn't work?", 'state': 'closed', 'created_at': '2018-09-17T14:08:13Z', 'closed_at': '2018-09-17T14:13:27Z', 'labels': []}
+{'issuenumber': 491, 'title': 'Pose-core: flip & applyAtStart clash', 'state': 'closed', 'created_at': '2018-09-16T21:37:52Z', 'closed_at': '2019-02-04T10:11:27Z', 'labels': []}
+{'issuenumber': 489, 'title': 'Pose: snapPoints option', 'state': 'closed', 'created_at': '2018-09-14T19:23:01Z', 'closed_at': '2020-01-20T14:58:06Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 487, 'title': '"reentering" elements removing their corresponding "leaving" elements', 'state': 'closed', 'created_at': '2018-09-13T21:42:22Z', 'closed_at': '2020-01-20T14:58:05Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 485, 'title': 'Wait for the enter component to finish its animation before unmounting the exit component', 'state': 'closed', 'created_at': '2018-09-13T15:16:07Z', 'closed_at': '2018-09-13T18:40:27Z', 'labels': []}
+{'issuenumber': 484, 'title': 'Route transition with HashRouter ?', 'state': 'closed', 'created_at': '2018-09-13T13:41:43Z', 'closed_at': '2020-01-21T11:12:25Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 483, 'title': 'Is it possible to set position on pose config?', 'state': 'closed', 'created_at': '2018-09-13T10:41:54Z', 'closed_at': '2018-09-13T13:08:24Z', 'labels': []}
+{'issuenumber': 482, 'title': 'react-pose: Runtime error with Typescript', 'state': 'closed', 'created_at': '2018-09-12T21:51:15Z', 'closed_at': '2020-01-20T14:58:05Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 480, 'title': 'resolveProp called with different set of props', 'state': 'closed', 'created_at': '2018-09-12T10:30:01Z', 'closed_at': '2020-01-21T11:12:16Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 479, 'title': 'Pure - get started link', 'state': 'closed', 'created_at': '2018-09-12T04:06:04Z', 'closed_at': '2018-09-20T05:24:35Z', 'labels': []}
+{'issuenumber': 478, 'title': 'Flow types', 'state': 'closed', 'created_at': '2018-09-11T16:14:54Z', 'closed_at': '2020-01-20T14:58:05Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 475, 'title': 'react-posed: applyAtStart display block and none not working', 'state': 'closed', 'created_at': '2018-09-10T14:15:45Z', 'closed_at': '2018-09-10T14:23:28Z', 'labels': []}
+{'issuenumber': 473, 'title': 'React Pose: React warning about innerRef', 'state': 'closed', 'created_at': '2018-09-10T11:58:10Z', 'closed_at': '2019-01-13T17:10:32Z', 'labels': []}
+{'issuenumber': 466, 'title': 'react-pose: PoseGroup animations do not work after v3.1.0', 'state': 'closed', 'created_at': '2018-09-04T20:55:05Z', 'closed_at': '2018-09-17T16:27:32Z', 'labels': []}
+{'issuenumber': 463, 'title': 'React-pose props', 'state': 'closed', 'created_at': '2018-09-03T22:05:30Z', 'closed_at': '2020-01-20T14:58:05Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 461, 'title': 'dynamic prop with random poseKey not updating underlying dom element attribute', 'state': 'closed', 'created_at': '2018-09-03T13:16:39Z', 'closed_at': '2018-09-03T20:09:07Z', 'labels': []}
+{'issuenumber': 459, 'title': 'Lag when mount animation in Safari', 'state': 'closed', 'created_at': '2018-08-31T14:09:39Z', 'closed_at': '2018-09-01T07:33:31Z', 'labels': []}
+{'issuenumber': 454, 'title': '[SVG][polyline][react-pose] - pathLength having no effect', 'state': 'closed', 'created_at': '2018-08-31T00:06:27Z', 'closed_at': '2018-08-31T08:48:49Z', 'labels': []}
+{'issuenumber': 453, 'title': 'react-pose-text: Changing `pose` dynamically has no effect', 'state': 'closed', 'created_at': '2018-08-30T18:50:48Z', 'closed_at': '2018-08-31T10:08:27Z', 'labels': []}
+{'issuenumber': 451, 'title': 'react-pose: pose config as a function', 'state': 'closed', 'created_at': '2018-08-30T08:48:02Z', 'closed_at': '2018-08-31T10:46:05Z', 'labels': []}
+{'issuenumber': 450, 'title': 'Pose route transition with Gatsby', 'state': 'closed', 'created_at': '2018-08-29T14:04:43Z', 'closed_at': '2020-01-20T14:58:04Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 449, 'title': 'Animate filter?', 'state': 'closed', 'created_at': '2018-08-29T13:00:48Z', 'closed_at': '2018-08-31T13:11:23Z', 'labels': []}
+{'issuenumber': 448, 'title': 'react-pose: Added additional attributes when a pose is leaving', 'state': 'closed', 'created_at': '2018-08-29T08:47:50Z', 'closed_at': '2018-08-31T13:13:47Z', 'labels': []}
+{'issuenumber': 446, 'title': 'Pressable Mouse Events Lost', 'state': 'closed', 'created_at': '2018-08-27T20:40:03Z', 'closed_at': '2018-08-31T13:47:49Z', 'labels': []}
+{'issuenumber': 445, 'title': 'Flip section missing in the sidebar of Learn section', 'state': 'closed', 'created_at': '2018-08-27T11:34:11Z', 'closed_at': '2018-08-31T13:49:23Z', 'labels': []}
+{'issuenumber': 441, 'title': 'Help with animating between 2 posed components', 'state': 'closed', 'created_at': '2018-08-24T09:38:52Z', 'closed_at': '2018-08-28T10:10:35Z', 'labels': []}
+{'issuenumber': 440, 'title': 'Set values within Timeline tracks', 'state': 'closed', 'created_at': '2018-08-21T17:20:27Z', 'closed_at': '2018-08-25T06:15:28Z', 'labels': []}
+{'issuenumber': 439, 'title': 'Website: Make menu in desktop mode position: static', 'state': 'closed', 'created_at': '2018-08-20T17:26:59Z', 'closed_at': '2018-08-20T21:25:55Z', 'labels': []}
+{'issuenumber': 438, 'title': "Add TS to project's devDependencies", 'state': 'closed', 'created_at': '2018-08-20T15:03:16Z', 'closed_at': '2018-08-27T10:57:45Z', 'labels': []}
+{'issuenumber': 436, 'title': 'Pose reverting to wrong pose', 'state': 'closed', 'created_at': '2018-08-20T11:23:42Z', 'closed_at': '2018-08-20T11:56:17Z', 'labels': []}
+{'issuenumber': 430, 'title': 'TS type error', 'state': 'closed', 'created_at': '2018-08-18T12:07:19Z', 'closed_at': '2018-08-20T15:01:04Z', 'labels': []}
+{'issuenumber': 426, 'title': 'Lerna', 'state': 'closed', 'created_at': '2018-08-16T19:25:17Z', 'closed_at': '2018-08-17T06:16:44Z', 'labels': []}
+{'issuenumber': 425, 'title': 'Posed documentation is missing info about `values`- and `parentValues`-props', 'state': 'closed', 'created_at': '2018-08-14T21:33:34Z', 'closed_at': '2018-08-16T14:12:34Z', 'labels': []}
+{'issuenumber': 423, 'title': '"different format "-error with values in exponential notation', 'state': 'closed', 'created_at': '2018-08-14T07:49:39Z', 'closed_at': '2018-08-16T16:39:05Z', 'labels': []}
+{'issuenumber': 422, 'title': 'Pose causes test suite to fail', 'state': 'closed', 'created_at': '2018-08-14T05:51:01Z', 'closed_at': '2018-08-20T14:19:53Z', 'labels': []}
+{'issuenumber': 421, 'title': 'New internal dependencies upgrade will break the app for not label unit for height.', 'state': 'closed', 'created_at': '2018-08-14T00:20:01Z', 'closed_at': '2018-08-14T05:48:50Z', 'labels': []}
+{'issuenumber': 420, 'title': 'Website: ToC links arent properly indented', 'state': 'closed', 'created_at': '2018-08-13T16:05:54Z', 'closed_at': '2018-08-16T17:06:57Z', 'labels': []}
+{'issuenumber': 418, 'title': 'react-pose: in IE11 child-components seem to ignore parent-pose keys', 'state': 'closed', 'created_at': '2018-08-13T13:12:42Z', 'closed_at': '2018-08-20T15:33:33Z', 'labels': []}
+{'issuenumber': 415, 'title': 'Passing a value to pose has no effect', 'state': 'closed', 'created_at': '2018-08-08T10:49:12Z', 'closed_at': '2018-08-09T13:00:09Z', 'labels': []}
+{'issuenumber': 412, 'title': 'Popmotion: Ensure the initial touch event is set as { passive: true }', 'state': 'closed', 'created_at': '2018-08-07T13:27:58Z', 'closed_at': '2018-08-20T14:51:18Z', 'labels': []}
+{'issuenumber': 410, 'title': '[Docs] Popmotion Pose API link goes to Popmotion API', 'state': 'closed', 'created_at': '2018-08-03T13:25:36Z', 'closed_at': '2018-08-20T16:02:23Z', 'labels': []}
+{'issuenumber': 409, 'title': 'React Native Pose: Color poses do not work', 'state': 'closed', 'created_at': '2018-08-01T22:26:57Z', 'closed_at': '2018-09-12T15:48:03Z', 'labels': []}
+{'issuenumber': 408, 'title': 'Popmotion: Timeline animation for object and array values not working as expected', 'state': 'closed', 'created_at': '2018-07-31T22:01:10Z', 'closed_at': '2018-08-28T16:50:17Z', 'labels': []}
+{'issuenumber': 407, 'title': 'Place for examples', 'state': 'closed', 'created_at': '2018-07-29T11:38:11Z', 'closed_at': '2018-08-20T16:02:47Z', 'labels': []}
+{'issuenumber': 406, 'title': 'Pose: Dragbounds example broken on homepage', 'state': 'closed', 'created_at': '2018-07-27T13:49:41Z', 'closed_at': '2018-08-20T16:03:07Z', 'labels': []}
+{'issuenumber': 405, 'title': 'Pose: Add preventDefault to drag end ', 'state': 'closed', 'created_at': '2018-07-24T15:21:56Z', 'closed_at': '2018-08-20T16:58:03Z', 'labels': []}
+{'issuenumber': 404, 'title': "low res render when nesting posed.View's in react-native", 'state': 'closed', 'created_at': '2018-07-23T21:18:13Z', 'closed_at': '2020-01-20T14:58:04Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 403, 'title': 'Stop mousedown tracking when mouse leave the document (or is out of window)', 'state': 'closed', 'created_at': '2018-07-19T17:44:06Z', 'closed_at': '2018-08-31T15:10:57Z', 'labels': []}
+{'issuenumber': 402, 'title': 'React Posed : Running Test issue with jest & jsdom', 'state': 'closed', 'created_at': '2018-07-19T14:16:23Z', 'closed_at': '2018-07-30T11:50:27Z', 'labels': []}
+{'issuenumber': 401, 'title': 'react-pose: Update style on props change', 'state': 'closed', 'created_at': '2018-07-19T08:55:18Z', 'closed_at': '2018-07-20T14:08:57Z', 'labels': []}
+{'issuenumber': 400, 'title': '8.1.24.  Chaining Tweens that already have started does not work', 'state': 'closed', 'created_at': '2018-07-18T22:52:42Z', 'closed_at': '2018-07-24T10:12:05Z', 'labels': []}
+{'issuenumber': 398, 'title': '[Request] timeline.getActive()?', 'state': 'closed', 'created_at': '2018-07-15T18:59:14Z', 'closed_at': '2020-01-21T11:11:54Z', 'labels': []}
+{'issuenumber': 397, 'title': 'Breaking changes in minor version update?', 'state': 'closed', 'created_at': '2018-07-13T16:52:36Z', 'closed_at': '2018-07-13T16:55:39Z', 'labels': []}
+{'issuenumber': 396, 'title': "Typings for DomPopmotionConfig don't seem to be correct", 'state': 'closed', 'created_at': '2018-07-12T08:28:51Z', 'closed_at': '2018-08-31T15:18:58Z', 'labels': []}
+{'issuenumber': 395, 'title': '[Bug] Call tween.resume() multi times will speedup multi times', 'state': 'closed', 'created_at': '2018-07-10T06:38:39Z', 'closed_at': '2018-08-31T15:25:03Z', 'labels': []}
+{'issuenumber': 394, 'title': 'BUG: complete event for values only fires once when completed when attached to a physics/decay.start()', 'state': 'closed', 'created_at': '2018-07-09T06:06:30Z', 'closed_at': '2020-01-21T11:11:21Z', 'labels': []}
+{'issuenumber': 393, 'title': "'draggable' should not be triggered with right mouse click", 'state': 'closed', 'created_at': '2018-07-09T01:22:29Z', 'closed_at': '2020-01-21T11:10:45Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 392, 'title': 'Which browsers are supported?', 'state': 'closed', 'created_at': '2018-07-06T12:22:37Z', 'closed_at': '2018-08-20T17:27:26Z', 'labels': []}
+{'issuenumber': 391, 'title': "React-Pose posed component doesn't update props in pose transition", 'state': 'closed', 'created_at': '2018-07-05T01:13:44Z', 'closed_at': '2018-07-05T05:52:33Z', 'labels': []}
+{'issuenumber': 388, 'title': "Import issue,  style-value-types doesn't get transpiled.", 'state': 'closed', 'created_at': '2018-06-27T13:42:35Z', 'closed_at': '2018-06-28T07:28:49Z', 'labels': []}
+{'issuenumber': 386, 'title': 'No types available for popmotion?', 'state': 'closed', 'created_at': '2018-06-20T20:21:46Z', 'closed_at': '2018-08-31T15:50:50Z', 'labels': []}
+{'issuenumber': 385, 'title': 'import error when i update from 8.2.3 to 8.2.5 ', 'state': 'closed', 'created_at': '2018-06-20T10:46:28Z', 'closed_at': '2018-08-31T16:25:49Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 383, 'title': 'define what props have auto animations', 'state': 'closed', 'created_at': '2018-06-16T02:17:58Z', 'closed_at': '2018-08-31T16:11:17Z', 'labels': []}
+{'issuenumber': 379, 'title': 'How do you deal with "media queries"', 'state': 'closed', 'created_at': '2018-06-14T14:51:10Z', 'closed_at': '2018-08-31T14:16:08Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 377, 'title': '[pose] : `delay` in transition config does not work', 'state': 'closed', 'created_at': '2018-06-14T09:18:12Z', 'closed_at': '2018-06-14T15:41:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 376, 'title': 'Add installation instructions to contributing.md', 'state': 'closed', 'created_at': '2018-06-13T15:38:30Z', 'closed_at': '2018-06-14T11:15:16Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 375, 'title': '0 velocity', 'state': 'closed', 'created_at': '2018-06-13T13:16:57Z', 'closed_at': '2018-06-13T15:44:22Z', 'labels': []}
+{'issuenumber': 374, 'title': 'Popmotion will not compile', 'state': 'closed', 'created_at': '2018-06-11T23:12:56Z', 'closed_at': '2019-03-02T05:10:42Z', 'labels': []}
+{'issuenumber': 373, 'title': 'react-pose: Deterministically measure posed element before animations', 'state': 'closed', 'created_at': '2018-06-11T14:25:56Z', 'closed_at': '2020-01-20T14:58:04Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 372, 'title': '8.2.4 have breaking change for using subset like docs said', 'state': 'closed', 'created_at': '2018-06-10T03:39:40Z', 'closed_at': '2018-08-31T16:58:44Z', 'labels': []}
+{'issuenumber': 371, 'title': "React Pose: HOC parameter order is inverted - won't compose.", 'state': 'closed', 'created_at': '2018-06-08T21:32:06Z', 'closed_at': '2018-06-13T15:52:04Z', 'labels': []}
+{'issuenumber': 368, 'title': 'React Native Pose: Add warnings  when useNativeDriver is invalidated', 'state': 'closed', 'created_at': '2018-06-08T12:42:58Z', 'closed_at': '2018-06-15T14:45:09Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 367, 'title': 'Issues using react-native-pose with react-native-web', 'state': 'closed', 'created_at': '2018-06-07T21:09:08Z', 'closed_at': '2018-08-31T16:37:01Z', 'labels': []}
+{'issuenumber': 366, 'title': 'Popmotion uses a lot of memory/cpu usage', 'state': 'closed', 'created_at': '2018-06-07T17:37:31Z', 'closed_at': '2018-07-10T08:38:13Z', 'labels': []}
+{'issuenumber': 365, 'title': 'Add continuous integration using eg. Travis CI', 'state': 'closed', 'created_at': '2018-06-07T15:47:03Z', 'closed_at': '2018-09-05T10:05:33Z', 'labels': []}
+{'issuenumber': 363, 'title': 'React Pose: Performance improvement in PoseGroup', 'state': 'closed', 'created_at': '2018-06-06T14:34:02Z', 'closed_at': '2018-09-21T14:04:43Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 362, 'title': 'originX and originY potentially broken in Stylefire', 'state': 'closed', 'created_at': '2018-06-06T11:52:52Z', 'closed_at': '2018-06-06T11:55:06Z', 'labels': []}
+{'issuenumber': 361, 'title': 'React Pose: On mount / "enter"-support for posed.[div|circle|...]()', 'state': 'closed', 'created_at': '2018-06-06T08:59:51Z', 'closed_at': '2018-06-06T11:36:23Z', 'labels': []}
+{'issuenumber': 360, 'title': 'Pose: Add shallow-equivalence check for Pose arrays', 'state': 'closed', 'created_at': '2018-06-05T14:32:27Z', 'closed_at': '2018-06-06T13:21:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 359, 'title': 'FLIP custom transition', 'state': 'closed', 'created_at': '2018-06-05T08:54:13Z', 'closed_at': '2018-08-31T16:41:15Z', 'labels': []}
+{'issuenumber': 358, 'title': "React Pose: Can't start a transition with {x: 0}", 'state': 'closed', 'created_at': '2018-06-04T18:56:58Z', 'closed_at': '2020-01-20T14:58:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 357, 'title': "Reaction while doesn't work?", 'state': 'closed', 'created_at': '2018-06-02T21:34:38Z', 'closed_at': '2020-01-21T11:10:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 355, 'title': '[Pose] Missing html part', 'state': 'closed', 'created_at': '2018-05-31T08:09:45Z', 'closed_at': '2018-05-31T08:41:36Z', 'labels': []}
+{'issuenumber': 354, 'title': "Examples on website don't work", 'state': 'closed', 'created_at': '2018-05-30T18:55:29Z', 'closed_at': '2018-08-31T16:45:26Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 353, 'title': "FLIP does not transition from position 'relative' to 'fixed'", 'state': 'closed', 'created_at': '2018-05-30T12:09:13Z', 'closed_at': '2018-09-05T11:27:19Z', 'labels': []}
+{'issuenumber': 352, 'title': 'Popmotion: arbitrary unit support', 'state': 'closed', 'created_at': '2018-05-30T11:29:09Z', 'closed_at': '2018-05-30T11:29:26Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 350, 'title': 'react native pose Draggable "Hello, world" isn\'t dragging', 'state': 'closed', 'created_at': '2018-05-29T03:29:43Z', 'closed_at': '2018-08-31T16:42:37Z', 'labels': []}
+{'issuenumber': 348, 'title': 'Popmotion: Support arbitrary string animation via vector type', 'state': 'closed', 'created_at': '2018-05-22T08:53:41Z', 'closed_at': '2018-08-31T16:55:48Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 347, 'title': "React Pose: `innerRef` doesn't work with `React.createRef()`", 'state': 'closed', 'created_at': '2018-05-22T08:51:46Z', 'closed_at': '2020-01-20T14:58:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 346, 'title': 'React Pose: `onPoseComplete` firing at unexpected times.', 'state': 'closed', 'created_at': '2018-05-22T08:45:14Z', 'closed_at': '2020-01-20T14:58:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 345, 'title': 'Pose core: Returning `false` should be instant transition', 'state': 'closed', 'created_at': '2018-05-21T15:33:01Z', 'closed_at': '2018-05-21T15:37:01Z', 'labels': []}
+{'issuenumber': 344, 'title': 'Pose: Add warning when user attempts to animate between two different unit types', 'state': 'closed', 'created_at': '2018-05-21T15:16:38Z', 'closed_at': '2018-08-31T16:31:24Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 343, 'title': 'Pose: FLIP to width/height 0', 'state': 'closed', 'created_at': '2018-05-21T12:04:36Z', 'closed_at': '2020-01-20T14:58:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 342, 'title': 'Pose: Set FLIP to opt-in', 'state': 'closed', 'created_at': '2018-05-21T12:02:58Z', 'closed_at': '2018-08-31T16:31:15Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 341, 'title': 'Pose: TypeScript error with `PoseGroup` and single child', 'state': 'closed', 'created_at': '2018-05-21T12:01:18Z', 'closed_at': '2018-10-02T14:01:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 338, 'title': 'Pose: "fill" not applied correclty "NaN" in inspector', 'state': 'closed', 'created_at': '2018-05-20T09:51:28Z', 'closed_at': '2018-08-31T16:53:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 337, 'title': 'Pose: Move popmotion to peerDependencies', 'state': 'closed', 'created_at': '2018-05-20T08:01:19Z', 'closed_at': '2018-05-20T10:28:18Z', 'labels': []}
+{'issuenumber': 335, 'title': 'Playground broken?', 'state': 'closed', 'created_at': '2018-05-18T14:19:28Z', 'closed_at': '2018-05-19T06:30:06Z', 'labels': []}
+{'issuenumber': 334, 'title': "PoseGroup doesn't working in webpack production", 'state': 'closed', 'created_at': '2018-05-18T10:33:02Z', 'closed_at': '2018-05-18T11:48:08Z', 'labels': []}
+{'issuenumber': 333, 'title': 'Pose: Serialised animation defintions', 'state': 'closed', 'created_at': '2018-05-17T15:50:57Z', 'closed_at': '2018-09-01T07:09:25Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 332, 'title': 'Pose: `viewport` prop for transitions', 'state': 'closed', 'created_at': '2018-05-17T14:13:19Z', 'closed_at': '2018-09-01T07:10:09Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 330, 'title': 'Callback on finish animate with pose children.', 'state': 'closed', 'created_at': '2018-05-15T07:16:39Z', 'closed_at': '2018-05-21T15:38:09Z', 'labels': []}
+{'issuenumber': 329, 'title': 'distribute UMDs', 'state': 'closed', 'created_at': '2018-05-10T22:42:20Z', 'closed_at': '2018-05-29T20:26:40Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 327, 'title': 'Positional props should accept functions', 'state': 'closed', 'created_at': '2018-05-09T09:39:03Z', 'closed_at': '2018-05-10T10:59:34Z', 'labels': []}
+{'issuenumber': 326, 'title': 'Does not find `pose` property with styled-components in TypeScript', 'state': 'closed', 'created_at': '2018-05-08T16:36:05Z', 'closed_at': '2020-01-20T14:58:02Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 324, 'title': '[feature request]splines for movement ', 'state': 'closed', 'created_at': '2018-05-07T16:24:09Z', 'closed_at': '2018-05-09T09:41:50Z', 'labels': []}
+{'issuenumber': 323, 'title': 'Transition fails unless I specify transition on subsequent animations', 'state': 'closed', 'created_at': '2018-05-07T04:41:40Z', 'closed_at': '2018-05-10T12:11:59Z', 'labels': []}
+{'issuenumber': 322, 'title': 'Timeline for Pose', 'state': 'closed', 'created_at': '2018-05-06T22:43:41Z', 'closed_at': '2018-05-06T23:59:08Z', 'labels': []}
+{'issuenumber': 320, 'title': 'Old DOM items are kept in PoseGroup', 'state': 'closed', 'created_at': '2018-05-06T08:02:49Z', 'closed_at': '2020-01-20T14:58:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 319, 'title': 'Reorder Pose children', 'state': 'closed', 'created_at': '2018-05-06T07:53:06Z', 'closed_at': '2020-01-20T14:58:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 318, 'title': 'Popmotion pose holds on to and animates orphan DOM elements', 'state': 'closed', 'created_at': '2018-05-04T13:02:49Z', 'closed_at': '2020-01-20T14:58:02Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 317, 'title': 'Type errors', 'state': 'closed', 'created_at': '2018-05-03T22:54:05Z', 'closed_at': '2018-05-04T06:39:39Z', 'labels': []}
+{'issuenumber': 316, 'title': 'React Native custom transitions not working', 'state': 'closed', 'created_at': '2018-05-02T21:45:25Z', 'closed_at': '2018-05-10T18:16:32Z', 'labels': []}
+{'issuenumber': 315, 'title': "Animation isn't displayed when you switch between lists", 'state': 'closed', 'created_at': '2018-04-29T10:45:11Z', 'closed_at': '2018-08-31T16:52:29Z', 'labels': []}
+{'issuenumber': 314, 'title': 'react-pose not working in IE 11', 'state': 'closed', 'created_at': '2018-04-28T16:36:51Z', 'closed_at': '2018-05-10T15:52:37Z', 'labels': []}
+{'issuenumber': 313, 'title': 'Friendly import-on-demand popmotion for babel-plugin-import.', 'state': 'closed', 'created_at': '2018-04-28T14:34:46Z', 'closed_at': '2018-08-31T16:50:32Z', 'labels': []}
+{'issuenumber': 312, 'title': 'react-pose prevents googlebot from rendering react app', 'state': 'closed', 'created_at': '2018-04-26T17:33:29Z', 'closed_at': '2018-05-10T17:10:41Z', 'labels': []}
+{'issuenumber': 306, 'title': 'React pose setting a left position when there is already a right position', 'state': 'closed', 'created_at': '2018-04-23T08:39:49Z', 'closed_at': '2018-05-09T08:55:44Z', 'labels': []}
+{'issuenumber': 305, 'title': 'React Pose: Fails in Storybook', 'state': 'closed', 'created_at': '2018-04-20T13:17:02Z', 'closed_at': '2018-05-10T16:26:44Z', 'labels': []}
+{'issuenumber': 304, 'title': 'Props being passed down to DOM element', 'state': 'closed', 'created_at': '2018-04-20T04:07:46Z', 'closed_at': '2018-08-20T13:18:42Z', 'labels': []}
+{'issuenumber': 302, 'title': 'Nested React Posegroup breaks and leaves ghost items', 'state': 'closed', 'created_at': '2018-04-19T15:46:23Z', 'closed_at': '2020-01-20T14:58:01Z', 'labels': {'name': 'Pose is deprecated'}}
+{'issuenumber': 301, 'title': 'Logo Design', 'state': 'closed', 'created_at': '2018-04-18T11:05:06Z', 'closed_at': '2018-04-18T11:27:00Z', 'labels': []}
+{'issuenumber': 300, 'title': "react-pose - IE11 - 'Proxy' is undefined", 'state': 'closed', 'created_at': '2018-04-17T14:38:55Z', 'closed_at': '2018-04-18T05:10:01Z', 'labels': []}
+{'issuenumber': 299, 'title': 'PoseGroup w/ staggerChildren', 'state': 'closed', 'created_at': '2018-04-14T04:50:51Z', 'closed_at': '2018-08-31T16:49:42Z', 'labels': []}
+{'issuenumber': 298, 'title': 'docs: <ol> layout problem', 'state': 'closed', 'created_at': '2018-04-13T13:35:30Z', 'closed_at': '2018-05-10T16:09:23Z', 'labels': []}
+{'issuenumber': 297, 'title': 'React Pose: Add onDragStart/onDragEnd listeners to posed components', 'state': 'closed', 'created_at': '2018-04-12T16:31:23Z', 'closed_at': '2018-04-12T16:43:41Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 295, 'title': 'Pose: FLIP origin being overridden', 'state': 'closed', 'created_at': '2018-04-12T14:32:14Z', 'closed_at': '2020-01-20T14:58:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 294, 'title': 'FLIP z-index issues in Pose', 'state': 'closed', 'created_at': '2018-04-12T14:30:22Z', 'closed_at': '2020-01-20T14:58:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 291, 'title': 'Callback when Pose animation is finished?', 'state': 'closed', 'created_at': '2018-04-10T16:50:20Z', 'closed_at': '2018-04-10T17:04:52Z', 'labels': []}
+{'issuenumber': 290, 'title': 'Add staggering to PoseGroup', 'state': 'closed', 'created_at': '2018-04-10T14:02:32Z', 'closed_at': '2018-04-10T17:05:08Z', 'labels': []}
+{'issuenumber': 289, 'title': 'Using PoseGroup for more complex components', 'state': 'closed', 'created_at': '2018-04-10T02:22:52Z', 'closed_at': '2018-04-12T15:10:47Z', 'labels': []}
+{'issuenumber': 288, 'title': 'Manual flip with react-pose?', 'state': 'closed', 'created_at': '2018-04-07T21:24:16Z', 'closed_at': '2018-05-10T14:34:55Z', 'labels': []}
+{'issuenumber': 287, 'title': "What's the suggested way to use PoseGroup with a render-prop child?", 'state': 'closed', 'created_at': '2018-04-07T12:14:13Z', 'closed_at': '2018-04-07T12:58:02Z', 'labels': []}
+{'issuenumber': 286, 'title': 'PoseGroup with "singleChildOnly" feature request', 'state': 'closed', 'created_at': '2018-04-04T21:12:35Z', 'closed_at': '2020-01-20T14:58:01Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 285, 'title': "PoseGroup childrens' children enter poses don't animate", 'state': 'closed', 'created_at': '2018-04-04T17:44:09Z', 'closed_at': '2018-04-08T09:04:16Z', 'labels': []}
+{'issuenumber': 284, 'title': 'React playground not working', 'state': 'closed', 'created_at': '2018-04-04T01:58:58Z', 'closed_at': '2018-04-04T05:31:54Z', 'labels': []}
+{'issuenumber': 283, 'title': 'Need help using PoseGroup with animated Items', 'state': 'closed', 'created_at': '2018-04-03T16:58:11Z', 'closed_at': '2018-05-10T14:33:51Z', 'labels': []}
+{'issuenumber': 281, 'title': 'React Native?', 'state': 'closed', 'created_at': '2018-04-02T16:50:18Z', 'closed_at': '2018-04-02T18:05:30Z', 'labels': []}
+{'issuenumber': 280, 'title': 'react-pose - posed onChange overrides input onChange', 'state': 'closed', 'created_at': '2018-04-02T16:45:34Z', 'closed_at': '2018-05-10T12:54:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 275, 'title': 'Nesting timelines?', 'state': 'closed', 'created_at': '2018-03-29T16:28:39Z', 'closed_at': '2018-04-02T09:28:53Z', 'labels': []}
+{'issuenumber': 274, 'title': '`steps` returns NaN if range is 0,0', 'state': 'closed', 'created_at': '2018-03-29T12:04:38Z', 'closed_at': '2018-05-04T06:38:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 273, 'title': 'website link is broken', 'state': 'closed', 'created_at': '2018-03-29T02:22:30Z', 'closed_at': '2018-03-29T05:58:33Z', 'labels': []}
+{'issuenumber': 272, 'title': '[Pose] API page links are broken', 'state': 'closed', 'created_at': '2018-03-28T23:33:49Z', 'closed_at': '2018-03-29T05:58:57Z', 'labels': []}
+{'issuenumber': 270, 'title': 'argument to flip should be optional in typescript', 'state': 'closed', 'created_at': '2018-03-26T09:10:52Z', 'closed_at': '2018-03-26T10:18:34Z', 'labels': []}
+{'issuenumber': 268, 'title': 'Updating React component state when component props are updated', 'state': 'closed', 'created_at': '2018-03-22T00:14:04Z', 'closed_at': '2018-03-22T06:39:07Z', 'labels': []}
+{'issuenumber': 267, 'title': 'Pose: `staggerChildren` not working when `staggerDirection` is -1', 'state': 'closed', 'created_at': '2018-03-21T20:32:40Z', 'closed_at': '2018-04-02T09:44:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 266, 'title': 'Feature request: React Native support', 'state': 'closed', 'created_at': '2018-03-21T13:29:10Z', 'closed_at': '2018-03-21T15:36:48Z', 'labels': []}
+{'issuenumber': 265, 'title': 'Mouse doesnt work after touch is used in Pointer.', 'state': 'closed', 'created_at': '2018-03-20T09:45:00Z', 'closed_at': '2020-01-21T11:10:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 264, 'title': 'How to react to stop event?', 'state': 'closed', 'created_at': '2018-03-17T06:07:13Z', 'closed_at': '2018-05-10T12:44:47Z', 'labels': []}
+{'issuenumber': 263, 'title': 'Release popmotion-spinnable 2.0.1 in NPM, current release 2.0.0 is broken', 'state': 'closed', 'created_at': '2018-03-14T20:07:29Z', 'closed_at': '2018-05-10T12:30:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 259, 'title': 'How to hook into another animation loop?', 'state': 'closed', 'created_at': '2018-02-23T23:29:18Z', 'closed_at': '2018-02-24T07:39:22Z', 'labels': []}
+{'issuenumber': 258, 'title': 'Performance improvement:', 'state': 'closed', 'created_at': '2018-02-23T23:22:29Z', 'closed_at': '2018-02-24T07:44:54Z', 'labels': []}
+{'issuenumber': 257, 'title': 'finished argument in complete callback', 'state': 'closed', 'created_at': '2018-02-18T03:22:32Z', 'closed_at': '2018-02-19T18:10:57Z', 'labels': []}
+{'issuenumber': 253, 'title': 'React as a dependency', 'state': 'closed', 'created_at': '2018-01-29T12:27:44Z', 'closed_at': '2018-01-29T12:33:21Z', 'labels': []}
+{'issuenumber': 251, 'title': 'the Codepen demo in `/api/keyframes` is broken', 'state': 'closed', 'created_at': '2018-01-22T11:08:38Z', 'closed_at': '2018-02-27T13:18:23Z', 'labels': []}
+{'issuenumber': 249, 'title': 'A Link In The Documentation Link Is Broken', 'state': 'closed', 'created_at': '2018-01-18T05:27:09Z', 'closed_at': '2018-04-03T09:17:17Z', 'labels': []}
+{'issuenumber': 247, 'title': 'Chrome46 not working properly with 8.1.7', 'state': 'closed', 'created_at': '2018-01-17T12:05:17Z', 'closed_at': '2018-01-22T11:59:20Z', 'labels': []}
+{'issuenumber': 245, 'title': 'CSS Styler set blur', 'state': 'closed', 'created_at': '2018-01-10T11:44:09Z', 'closed_at': '2018-04-03T09:17:37Z', 'labels': []}
+{'issuenumber': 242, 'title': 'IE11 support', 'state': 'closed', 'created_at': '2018-01-03T01:13:10Z', 'closed_at': '2018-05-10T12:43:26Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 239, 'title': 'React-PopMotion TransitionGroup - componentWillLeave never fired', 'state': 'closed', 'created_at': '2017-12-29T10:50:48Z', 'closed_at': '2017-12-30T10:02:16Z', 'labels': []}
+{'issuenumber': 238, 'title': 'type definition for `TweenProps`', 'state': 'closed', 'created_at': '2017-12-27T02:01:37Z', 'closed_at': '2018-01-03T09:56:35Z', 'labels': []}
+{'issuenumber': 236, 'title': 'Add `window.popmotion` to website so people can use it in their console', 'state': 'closed', 'created_at': '2017-12-22T13:36:54Z', 'closed_at': '2018-01-03T10:13:21Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 235, 'title': 'value velocity should check itself on the next frame for an update', 'state': 'closed', 'created_at': '2017-12-22T11:53:05Z', 'closed_at': '2018-04-03T09:21:06Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 234, 'title': 'Popmotion x React TransitionGroup Example', 'state': 'closed', 'created_at': '2017-12-19T17:44:03Z', 'closed_at': '2018-04-02T10:24:33Z', 'labels': []}
+{'issuenumber': 233, 'title': 'use with angular.io 2/4/5', 'state': 'closed', 'created_at': '2017-12-19T02:41:03Z', 'closed_at': '2017-12-19T14:52:10Z', 'labels': []}
+{'issuenumber': 232, 'title': 'on scroll on load animation', 'state': 'closed', 'created_at': '2017-12-18T09:47:31Z', 'closed_at': '2017-12-18T10:57:56Z', 'labels': []}
+{'issuenumber': 231, 'title': 'Would be nice to see browser support in readme', 'state': 'closed', 'created_at': '2017-12-18T08:12:24Z', 'closed_at': '2018-05-10T12:37:42Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 230, 'title': 'Browser support?', 'state': 'closed', 'created_at': '2017-12-16T03:46:25Z', 'closed_at': '2017-12-16T08:51:34Z', 'labels': []}
+{'issuenumber': 229, 'title': 'TS errors on import', 'state': 'closed', 'created_at': '2017-12-15T17:47:05Z', 'closed_at': '2018-05-10T12:40:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 228, 'title': 'Tell what actual color blending you use', 'state': 'closed', 'created_at': '2017-12-15T11:16:01Z', 'closed_at': '2018-04-02T10:21:44Z', 'labels': []}
+{'issuenumber': 223, 'title': 'Consider aligning the API with the Observable proposal', 'state': 'closed', 'created_at': '2017-12-13T01:49:48Z', 'closed_at': '2017-12-13T09:04:35Z', 'labels': []}
+{'issuenumber': 220, 'title': 'Framsync not winding down after drag', 'state': 'closed', 'created_at': '2017-12-11T08:50:38Z', 'closed_at': '2017-12-11T11:31:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 219, 'title': 'mobile performance', 'state': 'closed', 'created_at': '2017-12-11T01:34:36Z', 'closed_at': '2017-12-11T11:33:07Z', 'labels': []}
+{'issuenumber': 218, 'title': 'Broken tutorial', 'state': 'closed', 'created_at': '2017-12-09T15:04:47Z', 'closed_at': '2017-12-09T15:23:37Z', 'labels': []}
+{'issuenumber': 217, 'title': 'chain reset or restart animation.', 'state': 'closed', 'created_at': '2017-12-06T04:59:24Z', 'closed_at': '2017-12-14T08:12:35Z', 'labels': []}
+{'issuenumber': 216, 'title': 'Delay used into parallel action, sync problem', 'state': 'closed', 'created_at': '2017-12-01T08:36:52Z', 'closed_at': '2017-12-01T09:36:22Z', 'labels': []}
+{'issuenumber': 215, 'title': 'loop and flip for Physics() ', 'state': 'closed', 'created_at': '2017-11-30T06:42:54Z', 'closed_at': '2017-11-30T09:00:59Z', 'labels': []}
+{'issuenumber': 214, 'title': 'Popmotion Beta suggestions', 'state': 'closed', 'created_at': '2017-11-25T15:58:30Z', 'closed_at': '2017-11-28T18:05:08Z', 'labels': []}
+{'issuenumber': 213, 'title': "How we can trigger 'complete' on an action at the end of each loop?", 'state': 'closed', 'created_at': '2017-11-24T09:46:41Z', 'closed_at': '2017-12-04T21:37:18Z', 'labels': []}
+{'issuenumber': 212, 'title': 'Promote distribution alternatives for ease of access & personal development styles', 'state': 'closed', 'created_at': '2017-11-23T12:55:17Z', 'closed_at': '2017-11-24T11:40:02Z', 'labels': []}
+{'issuenumber': 211, 'title': 'Example viewport units', 'state': 'closed', 'created_at': '2017-11-22T11:53:12Z', 'closed_at': '2017-11-28T18:06:21Z', 'labels': []}
+{'issuenumber': 210, 'title': 'Styler not setting CSS values in latest Beta', 'state': 'closed', 'created_at': '2017-11-22T00:15:16Z', 'closed_at': '2017-11-22T07:32:57Z', 'labels': []}
+{'issuenumber': 209, 'title': 'Popmotion 8 beta: First touch not recognised', 'state': 'closed', 'created_at': '2017-11-14T19:00:30Z', 'closed_at': '2017-11-22T07:29:08Z', 'labels': []}
+{'issuenumber': 208, 'title': 'Keyframes on beta', 'state': 'closed', 'created_at': '2017-11-12T11:02:28Z', 'closed_at': '2017-11-14T18:39:25Z', 'labels': []}
+{'issuenumber': 207, 'title': 'Error: Recursion in resolving', 'state': 'closed', 'created_at': '2017-11-08T22:56:59Z', 'closed_at': '2017-11-09T13:08:39Z', 'labels': []}
+{'issuenumber': 206, 'title': 'Reverse interpolate input array of largest - smallest', 'state': 'closed', 'created_at': '2017-11-06T18:08:58Z', 'closed_at': '2017-11-09T09:41:18Z', 'labels': []}
+{'issuenumber': 205, 'title': "`blendColor` doesn't support `hsla`", 'state': 'closed', 'created_at': '2017-10-26T14:02:28Z', 'closed_at': '2017-11-22T07:29:15Z', 'labels': []}
+{'issuenumber': 204, 'title': 'Parallel action sometimes never completes in certain scenarios', 'state': 'closed', 'created_at': '2017-10-24T18:03:45Z', 'closed_at': '2018-05-10T12:37:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 203, 'title': 'Composite Output to Multiple Events', 'state': 'closed', 'created_at': '2017-09-14T15:36:58Z', 'closed_at': '2018-04-02T10:21:05Z', 'labels': []}
+{'issuenumber': 202, 'title': 'Popmotion React Docs Page Crashes', 'state': 'closed', 'created_at': '2017-09-13T14:31:43Z', 'closed_at': '2017-10-03T12:25:07Z', 'labels': []}
+{'issuenumber': 201, 'title': 'Should trackOffset stop when the animation stops?', 'state': 'closed', 'created_at': '2017-09-12T15:13:22Z', 'closed_at': '2018-04-02T10:20:51Z', 'labels': []}
+{'issuenumber': 200, 'title': 'Cancel / reset animation on mouseout/mouseleave', 'state': 'closed', 'created_at': '2017-09-11T16:15:37Z', 'closed_at': '2017-09-12T09:09:27Z', 'labels': []}
+{'issuenumber': 199, 'title': 'support named colors', 'state': 'closed', 'created_at': '2017-09-10T19:01:52Z', 'closed_at': '2017-09-15T05:40:32Z', 'labels': []}
+{'issuenumber': 198, 'title': 'Move through svg path', 'state': 'closed', 'created_at': '2017-08-31T16:05:55Z', 'closed_at': '2017-08-31T16:56:21Z', 'labels': []}
+{'issuenumber': 197, 'title': 'currentFrameTime Rename Breaking SemVer', 'state': 'closed', 'created_at': '2017-08-29T10:08:58Z', 'closed_at': '2017-08-29T10:32:32Z', 'labels': []}
+{'issuenumber': 194, 'title': 'touches.getAction is not a function', 'state': 'closed', 'created_at': '2017-08-26T17:29:43Z', 'closed_at': '2017-08-26T22:02:40Z', 'labels': []}
+{'issuenumber': 193, 'title': 'popmotion-draggable is popmotion-spinnable after babel', 'state': 'closed', 'created_at': '2017-08-25T06:52:59Z', 'closed_at': '2017-08-25T10:27:34Z', 'labels': []}
+{'issuenumber': 192, 'title': 'possible to animate multiple values within a react `TransitionGroup`?', 'state': 'closed', 'created_at': '2017-08-15T06:10:12Z', 'closed_at': '2017-08-15T08:58:54Z', 'labels': {'name': 'question'}}
+{'issuenumber': 191, 'title': 'issues after `componentWillLeave`', 'state': 'closed', 'created_at': '2017-08-15T05:45:39Z', 'closed_at': '2018-04-02T10:20:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 190, 'title': 'react-transition-group v2.0', 'state': 'closed', 'created_at': '2017-08-09T23:13:44Z', 'closed_at': '2018-04-02T10:20:16Z', 'labels': []}
+{'issuenumber': 188, 'title': 'Frame error on timeline loop', 'state': 'closed', 'created_at': '2017-08-02T10:49:55Z', 'closed_at': '2017-08-02T11:37:11Z', 'labels': []}
+{'issuenumber': 187, 'title': 'One animation mapping to multiple properties', 'state': 'closed', 'created_at': '2017-07-13T13:50:47Z', 'closed_at': '2017-07-13T17:07:05Z', 'labels': []}
+{'issuenumber': 185, 'title': 'Can we have tween methods into actions?', 'state': 'closed', 'created_at': '2017-06-26T09:49:37Z', 'closed_at': '2017-07-14T10:37:09Z', 'labels': []}
+{'issuenumber': 184, 'title': 'Check `Renderer.set` first arg is object before setting as multiprop', 'state': 'closed', 'created_at': '2017-06-25T08:40:26Z', 'closed_at': '2018-04-02T10:19:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 181, 'title': 'Add `filter` or `lens` property that covers `get`', 'state': 'closed', 'created_at': '2017-06-01T10:06:11Z', 'closed_at': '2017-06-01T10:50:34Z', 'labels': []}
+{'issuenumber': 180, 'title': 'Add support for prefers-reduced-motion', 'state': 'closed', 'created_at': '2017-05-09T09:19:45Z', 'closed_at': '2017-09-15T05:37:16Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 179, 'title': 'Firefox not working at all with v3.5.0 or v4.3.4?', 'state': 'closed', 'created_at': '2017-05-02T10:50:54Z', 'closed_at': '2017-05-17T13:52:03Z', 'labels': []}
+{'issuenumber': 178, 'title': 'play backward', 'state': 'closed', 'created_at': '2017-03-06T13:51:38Z', 'closed_at': '2017-06-07T23:21:34Z', 'labels': []}
+{'issuenumber': 177, 'title': 'Input tracking example', 'state': 'closed', 'created_at': '2017-03-02T16:37:43Z', 'closed_at': '2017-03-03T10:04:16Z', 'labels': []}
+{'issuenumber': 175, 'title': 'Erron on Firefox when trying to animate a svg path', 'state': 'closed', 'created_at': '2017-02-20T20:45:42Z', 'closed_at': '2018-04-02T10:19:37Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 174, 'title': "SVG Path example won't run on Firefox", 'state': 'closed', 'created_at': '2017-02-10T00:52:09Z', 'closed_at': '2017-02-10T13:27:34Z', 'labels': []}
+{'issuenumber': 173, 'title': 'Pointer default props not taking effect', 'state': 'closed', 'created_at': '2017-02-06T14:25:37Z', 'closed_at': '2017-07-14T10:36:58Z', 'labels': []}
+{'issuenumber': 172, 'title': 'React.js examples', 'state': 'closed', 'created_at': '2017-01-12T08:59:28Z', 'closed_at': '2017-07-12T21:22:50Z', 'labels': []}
+{'issuenumber': 170, 'title': 'Animate based on scroll event', 'state': 'closed', 'created_at': '2016-11-04T03:29:59Z', 'closed_at': '2016-11-04T04:31:02Z', 'labels': []}
+{'issuenumber': 169, 'title': 'How to setMovement(action) to scrollTo?', 'state': 'closed', 'created_at': '2016-11-04T03:25:57Z', 'closed_at': '2017-01-12T13:07:52Z', 'labels': []}
+{'issuenumber': 168, 'title': 'What is the isTweening GSAP equivalent in Popmotion?', 'state': 'closed', 'created_at': '2016-10-01T17:39:50Z', 'closed_at': '2016-10-01T21:32:49Z', 'labels': []}
+{'issuenumber': 167, 'title': 'Update method for input not working', 'state': 'closed', 'created_at': '2016-09-19T23:48:04Z', 'closed_at': '2017-01-12T13:07:52Z', 'labels': []}
+{'issuenumber': 166, 'title': 'How to use Popmotion with NPM depency?', 'state': 'closed', 'created_at': '2016-08-18T17:55:31Z', 'closed_at': '2017-01-12T13:07:52Z', 'labels': []}
+{'issuenumber': 165, 'title': ' motion.physics().start(),once it triggered,would not have any animation after.', 'state': 'closed', 'created_at': '2016-08-08T04:16:29Z', 'closed_at': '2017-01-12T13:07:52Z', 'labels': []}
+{'issuenumber': 164, 'title': 'from property not working.', 'state': 'closed', 'created_at': '2016-08-04T03:09:44Z', 'closed_at': '2017-01-12T13:07:52Z', 'labels': []}
+{'issuenumber': 162, 'title': 'Unit types are not respected', 'state': 'closed', 'created_at': '2016-06-18T17:32:38Z', 'closed_at': '2017-01-12T13:07:52Z', 'labels': []}
+{'issuenumber': 161, 'title': "Tween.seek doesn't appear to be working", 'state': 'closed', 'created_at': '2016-06-16T16:54:09Z', 'closed_at': '2017-01-12T13:07:52Z', 'labels': []}
+{'issuenumber': 159, 'title': 'Opacity cannot be set to decimal value', 'state': 'closed', 'created_at': '2016-06-10T18:15:38Z', 'closed_at': '2016-06-11T09:56:59Z', 'labels': []}
+{'issuenumber': 157, 'title': '`track` in Firefox not working properly', 'state': 'closed', 'created_at': '2016-06-01T19:02:19Z', 'closed_at': '2016-06-04T09:23:47Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 156, 'title': 'From To Properties issue', 'state': 'closed', 'created_at': '2016-05-23T10:12:48Z', 'closed_at': '2016-06-11T15:50:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 155, 'title': 'CSS Properties name docs? 2d Transform in IE9?', 'state': 'closed', 'created_at': '2016-05-22T10:46:10Z', 'closed_at': '2017-01-12T13:07:52Z', 'labels': []}
+{'issuenumber': 154, 'title': 'Child properties being sent to `adapter.get`', 'state': 'closed', 'created_at': '2016-05-21T11:12:19Z', 'closed_at': '2017-01-12T13:07:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 152, 'title': 'Physics not automatically stopping', 'state': 'closed', 'created_at': '2016-05-14T15:38:41Z', 'closed_at': '2017-01-12T13:07:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 150, 'title': 'Disable auto addition of translateZ?', 'state': 'closed', 'created_at': '2016-05-11T17:11:52Z', 'closed_at': '2017-01-12T13:07:52Z', 'labels': {'name': 'question'}}
+{'issuenumber': 148, 'title': 'Update demo to popmotion 5', 'state': 'closed', 'created_at': '2016-05-01T02:25:42Z', 'closed_at': '2016-05-14T15:50:48Z', 'labels': {'name': 'question'}}
+{'issuenumber': 147, 'title': 'VirtualDom', 'state': 'closed', 'created_at': '2016-04-25T15:04:59Z', 'closed_at': '2016-04-26T09:35:49Z', 'labels': {'name': 'question'}}
+{'issuenumber': 146, 'title': 'Blend irregularities', 'state': 'closed', 'created_at': '2016-04-25T13:58:25Z', 'closed_at': '2017-01-12T13:07:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 145, 'title': 'Inertia Action plugin not working', 'state': 'closed', 'created_at': '2016-04-19T17:41:38Z', 'closed_at': '2017-01-12T13:07:52Z', 'labels': []}
+{'issuenumber': 144, 'title': 'Question: Documentation for 4.3.x', 'state': 'closed', 'created_at': '2016-04-14T15:24:03Z', 'closed_at': '2016-04-18T22:29:10Z', 'labels': []}
+{'issuenumber': 143, 'title': 'To & From working correctly?', 'state': 'closed', 'created_at': '2016-04-08T11:57:18Z', 'closed_at': '2016-04-18T22:30:39Z', 'labels': []}
+{'issuenumber': 142, 'title': 'rotation - how to force popmotion to use rotate3d', 'state': 'closed', 'created_at': '2016-04-04T12:31:07Z', 'closed_at': '2016-04-18T22:29:20Z', 'labels': []}
+{'issuenumber': 140, 'title': 'Failed to execute error', 'state': 'closed', 'created_at': '2016-03-07T00:16:13Z', 'closed_at': '2016-03-07T03:54:20Z', 'labels': []}
+{'issuenumber': 139, 'title': 'Memory consumption / Garbage collection', 'state': 'closed', 'created_at': '2016-01-29T02:04:22Z', 'closed_at': '2016-04-18T22:30:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 138, 'title': 'Code consistency', 'state': 'closed', 'created_at': '2016-01-29T01:52:44Z', 'closed_at': '2016-01-29T10:00:24Z', 'labels': []}
+{'issuenumber': 137, 'title': 'Help - blurry results', 'state': 'closed', 'created_at': '2016-01-19T22:12:13Z', 'closed_at': '2016-04-18T22:30:39Z', 'labels': []}
+{'issuenumber': 136, 'title': 'Question: moving multiple actors/tweens of non-DOM objects, in parallel?', 'state': 'closed', 'created_at': '2016-01-04T12:49:06Z', 'closed_at': '2016-01-04T13:25:20Z', 'labels': []}
+{'issuenumber': 133, 'title': 'Acceleration property not handled correctly when defined as a function', 'state': 'closed', 'created_at': '2015-12-28T15:52:32Z', 'closed_at': '2016-04-18T22:30:38Z', 'labels': []}
+{'issuenumber': 131, 'title': '[Question] Warnings console using FF', 'state': 'closed', 'created_at': '2015-12-18T20:06:19Z', 'closed_at': '2016-04-18T22:30:25Z', 'labels': []}
+{'issuenumber': 129, 'title': 'Bug with Actor.sync() and starting an Action within the frame while the frame is being updated', 'state': 'closed', 'created_at': '2015-12-14T11:39:11Z', 'closed_at': '2015-12-22T14:27:37Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 128, 'title': '[Question] How to apply Sequence when you have defined Controls', 'state': 'closed', 'created_at': '2015-12-10T16:46:47Z', 'closed_at': '2016-04-18T22:30:25Z', 'labels': []}
+{'issuenumber': 127, 'title': ' strange behavior with opacity 0', 'state': 'closed', 'created_at': '2015-12-08T19:42:04Z', 'closed_at': '2015-12-09T15:40:45Z', 'labels': []}
+{'issuenumber': 126, 'title': '[enhancement] Add new types in svg role', 'state': 'closed', 'created_at': '2015-12-07T16:35:45Z', 'closed_at': '2015-12-07T21:25:03Z', 'labels': []}
+{'issuenumber': 125, 'title': 'Possible bug?', 'state': 'closed', 'created_at': '2015-12-07T12:43:56Z', 'closed_at': '2015-12-07T14:15:07Z', 'labels': []}
+{'issuenumber': 124, 'title': 'Question: Reverse tween animation on click', 'state': 'closed', 'created_at': '2015-12-05T14:44:45Z', 'closed_at': '2016-04-18T22:30:25Z', 'labels': []}
+{'issuenumber': 123, 'title': 'About setting initial values', 'state': 'closed', 'created_at': '2015-12-05T03:41:00Z', 'closed_at': '2015-12-05T12:55:55Z', 'labels': []}
+{'issuenumber': 122, 'title': 'IE9-IE10 Not working with Angular + Ionic', 'state': 'closed', 'created_at': '2015-12-03T08:17:30Z', 'closed_at': '2015-12-03T14:15:17Z', 'labels': []}
+{'issuenumber': 120, 'title': 'Simulate transform ', 'state': 'closed', 'created_at': '2015-12-01T19:44:50Z', 'closed_at': '2015-12-01T21:15:54Z', 'labels': []}
+{'issuenumber': 119, 'title': 'Website and pricing questions', 'state': 'closed', 'created_at': '2015-12-01T14:34:03Z', 'closed_at': '2015-12-06T09:50:20Z', 'labels': {'name': 'question'}}
+{'issuenumber': 115, 'title': 'License', 'state': 'closed', 'created_at': '2015-11-14T11:46:06Z', 'closed_at': '2015-11-14T15:21:31Z', 'labels': []}
+{'issuenumber': 113, 'title': 'Lag on mobile', 'state': 'closed', 'created_at': '2015-11-05T03:42:20Z', 'closed_at': '2015-11-11T10:27:44Z', 'labels': []}
+{'issuenumber': 110, 'title': 'Need a basic Meteor package', 'state': 'closed', 'created_at': '2015-11-02T09:57:14Z', 'closed_at': '2015-11-02T17:14:20Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 107, 'title': 'Update demos on codepen to serve popmotion.js over https', 'state': 'closed', 'created_at': '2015-10-20T20:55:45Z', 'closed_at': '2015-10-21T11:09:44Z', 'labels': []}
+{'issuenumber': 106, 'title': 'Is it possible to force css role to svg element?', 'state': 'closed', 'created_at': '2015-10-16T15:21:46Z', 'closed_at': '2015-10-21T10:24:21Z', 'labels': []}
+{'issuenumber': 104, 'title': 'How to handle scrolling and ui.track for a div', 'state': 'closed', 'created_at': '2015-10-13T17:32:47Z', 'closed_at': '2015-10-21T10:32:22Z', 'labels': []}
+{'issuenumber': 102, 'title': 'Timeline feature', 'state': 'closed', 'created_at': '2015-10-13T11:11:57Z', 'closed_at': '2015-10-13T11:22:03Z', 'labels': []}
+{'issuenumber': 101, 'title': "Doesn't work in IE9 as advertised", 'state': 'closed', 'created_at': '2015-10-13T11:07:25Z', 'closed_at': '2015-10-13T11:17:56Z', 'labels': []}
+{'issuenumber': 99, 'title': 'Tween seems to reset', 'state': 'closed', 'created_at': '2015-10-12T18:40:17Z', 'closed_at': '2015-10-12T20:29:27Z', 'labels': []}
+{'issuenumber': 98, 'title': 'passing new ui.Actor(aQuerySelectorElementReference)', 'state': 'closed', 'created_at': '2015-10-12T17:51:28Z', 'closed_at': '2015-10-12T17:54:56Z', 'labels': []}
+{'issuenumber': 97, 'title': 'new Actor', 'state': 'closed', 'created_at': '2015-10-12T09:52:06Z', 'closed_at': '2015-10-12T10:18:06Z', 'labels': []}
+{'issuenumber': 96, 'title': 'Feature Request: Actor Collision Detection', 'state': 'closed', 'created_at': '2015-10-11T19:28:03Z', 'closed_at': '2015-10-12T10:20:46Z', 'labels': []}
+{'issuenumber': 95, 'title': 'Cannot select text in input field', 'state': 'closed', 'created_at': '2015-10-10T12:26:46Z', 'closed_at': '2015-10-10T13:50:34Z', 'labels': []}
+{'issuenumber': 94, 'title': 'License info', 'state': 'closed', 'created_at': '2015-10-09T07:37:42Z', 'closed_at': '2015-10-13T11:22:54Z', 'labels': []}
+{'issuenumber': 93, 'title': 'Change values to track dynamically', 'state': 'closed', 'created_at': '2015-10-07T16:34:20Z', 'closed_at': '2015-10-08T15:23:48Z', 'labels': []}
+{'issuenumber': 92, 'title': 'watch x', 'state': 'closed', 'created_at': '2015-10-07T15:43:54Z', 'closed_at': '2015-11-23T16:21:00Z', 'labels': []}
+{'issuenumber': 90, 'title': 'Popmotion watch / scrubber example.', 'state': 'closed', 'created_at': '2015-10-06T19:01:21Z', 'closed_at': '2015-10-07T12:52:01Z', 'labels': []}
+{'issuenumber': 89, 'title': "Can't get 'watch' to work", 'state': 'closed', 'created_at': '2015-10-06T14:24:58Z', 'closed_at': '2015-10-07T12:52:01Z', 'labels': []}
+{'issuenumber': 87, 'title': 'Fake', 'state': 'closed', 'created_at': '2015-10-05T15:18:27Z', 'closed_at': '2015-10-05T15:24:04Z', 'labels': []}
+{'issuenumber': 86, 'title': 'cannot find module', 'state': 'closed', 'created_at': '2015-10-05T13:59:02Z', 'closed_at': '2015-10-05T15:06:47Z', 'labels': []}
+{'issuenumber': 85, 'title': 'Please add SVG morphing to the popmotion features', 'state': 'closed', 'created_at': '2015-10-05T00:17:55Z', 'closed_at': '2015-10-05T06:29:06Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 84, 'title': 'Latest version unavailable through Bower', 'state': 'closed', 'created_at': '2015-10-04T18:45:44Z', 'closed_at': '2015-10-06T13:15:37Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 82, 'title': 'everything is being called twice', 'state': 'closed', 'created_at': '2015-10-04T08:36:02Z', 'closed_at': '2015-10-04T11:15:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 81, 'title': '[Suggestion] Switch order of nav links', 'state': 'closed', 'created_at': '2015-10-04T02:50:34Z', 'closed_at': '2015-11-23T16:21:00Z', 'labels': []}
+{'issuenumber': 80, 'title': 'Simulation being called in "onComplete" for another simulation isn\'t having an affect', 'state': 'closed', 'created_at': '2015-10-04T02:15:56Z', 'closed_at': '2015-10-04T09:13:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 79, 'title': 'rotateZ simulation animates invalid values', 'state': 'closed', 'created_at': '2015-10-03T19:00:58Z', 'closed_at': '2015-10-03T23:50:55Z', 'labels': []}
+{'issuenumber': 77, 'title': 'When user drags out of window, it should automatically let go', 'state': 'closed', 'created_at': '2015-10-03T04:09:31Z', 'closed_at': '2015-10-04T09:17:09Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 76, 'title': '"Get started" exemples not working in Firefox 41', 'state': 'closed', 'created_at': '2015-10-03T02:26:47Z', 'closed_at': '2015-10-03T15:27:50Z', 'labels': []}
+{'issuenumber': 75, 'title': 'Add "Keep it up" documentation to get started', 'state': 'closed', 'created_at': '2015-10-02T16:55:27Z', 'closed_at': '2015-10-03T14:34:05Z', 'labels': []}
+{'issuenumber': 73, 'title': 'What is the real size of the lib?', 'state': 'closed', 'created_at': '2015-10-01T14:32:47Z', 'closed_at': '2015-10-01T14:36:37Z', 'labels': []}
+{'issuenumber': 69, 'title': '.each is not a function', 'state': 'closed', 'created_at': '2015-09-18T18:12:56Z', 'closed_at': '2015-09-19T10:32:25Z', 'labels': []}
+{'issuenumber': 68, 'title': 'question: popmotion works with meteor?', 'state': 'closed', 'created_at': '2015-09-13T16:28:36Z', 'closed_at': '2015-09-19T10:17:15Z', 'labels': []}
+{'issuenumber': 61, 'title': 'Check queue on .play()', 'state': 'closed', 'created_at': '2015-07-29T13:17:13Z', 'closed_at': '2015-09-19T10:16:48Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 55, 'title': 'Using Redshift isomorphically.', 'state': 'closed', 'created_at': '2015-05-20T20:47:35Z', 'closed_at': '2015-07-04T08:27:11Z', 'labels': []}
+{'issuenumber': 54, 'title': 'path route onStart not firing', 'state': 'closed', 'created_at': '2015-05-20T16:53:37Z', 'closed_at': '2015-05-20T16:53:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 53, 'title': 'Link maps longer than 2 not working correctly', 'state': 'closed', 'created_at': '2015-05-20T16:02:56Z', 'closed_at': '2015-05-20T16:03:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 52, 'title': '.run() chokes at velocities lower than ~20', 'state': 'closed', 'created_at': '2015-05-20T09:39:33Z', 'closed_at': '2015-10-04T09:15:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 51, 'title': 'Using Redshift with virtual-dom', 'state': 'closed', 'created_at': '2015-05-20T01:20:47Z', 'closed_at': '2015-07-04T08:27:25Z', 'labels': {'name': 'question'}}
+{'issuenumber': 50, 'title': "README - 'Tutorials' link is broken", 'state': 'closed', 'created_at': '2015-05-14T08:03:13Z', 'closed_at': '2015-05-14T08:52:14Z', 'labels': []}
+{'issuenumber': 23, 'title': 'BUG: Bezier numbers not rounded correctly', 'state': 'closed', 'created_at': '2014-11-27T15:24:45Z', 'closed_at': '2015-01-27T20:25:07Z', 'labels': {'name': 'bug'}}

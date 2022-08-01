@@ -1,0 +1,572 @@
+{'issuenumber': 1744, 'title': 'C precedence bugs', 'state': 'closed', 'created_at': '2022-05-09T06:33:35Z', 'closed_at': '2022-05-09T06:46:49Z', 'labels': []}
+{'issuenumber': 1742, 'title': 'Is there an easy way to compile (and use) tree-sitter to WASM as part of a larger program?', 'state': 'closed', 'created_at': '2022-05-06T14:02:00Z', 'closed_at': '2022-05-25T12:54:35Z', 'labels': []}
+{'issuenumber': 1740, 'title': "Running 'test' doesn't always trigger parser generation (hidden rules)", 'state': 'closed', 'created_at': '2022-05-04T16:38:18Z', 'closed_at': '2022-05-04T19:05:12Z', 'labels': []}
+{'issuenumber': 1735, 'title': "Can't find -lstdc++", 'state': 'closed', 'created_at': '2022-05-02T18:08:13Z', 'closed_at': '2022-05-02T21:06:46Z', 'labels': []}
+{'issuenumber': 1734, 'title': 'New javascript backend for tree-sitter instead of C', 'state': 'closed', 'created_at': '2022-05-02T12:59:19Z', 'closed_at': '2022-05-04T10:23:48Z', 'labels': []}
+{'issuenumber': 1727, 'title': 'Is the column of ts_node_start_point() based on bytes or characters?', 'state': 'closed', 'created_at': '2022-04-26T07:28:36Z', 'closed_at': '2022-05-07T20:46:49Z', 'labels': []}
+{'issuenumber': 1726, 'title': 'Identifiers not working with Chinese characters', 'state': 'closed', 'created_at': '2022-04-26T07:22:33Z', 'closed_at': '2022-04-27T00:22:17Z', 'labels': []}
+{'issuenumber': 1725, 'title': 'Deleting', 'state': 'closed', 'created_at': '2022-04-26T07:21:13Z', 'closed_at': '2022-04-26T07:21:39Z', 'labels': []}
+{'issuenumber': 1722, 'title': 'Regression with 0.20.* when using with wasm-bindgen', 'state': 'closed', 'created_at': '2022-04-24T20:52:07Z', 'closed_at': '2022-07-02T03:19:28Z', 'labels': []}
+{'issuenumber': 1713, 'title': 'version 0.20.6 produces incompatible libs on M1 mac', 'state': 'closed', 'created_at': '2022-04-20T03:40:51Z', 'closed_at': '2022-04-21T22:05:15Z', 'labels': []}
+{'issuenumber': 1710, 'title': 'npm install tree-sitter-cli fails on freebsd ', 'state': 'closed', 'created_at': '2022-04-16T03:11:41Z', 'closed_at': '2022-04-17T01:27:29Z', 'labels': []}
+{'issuenumber': 1709, 'title': 'CSS Syntax highlighting', 'state': 'closed', 'created_at': '2022-04-16T02:55:32Z', 'closed_at': '2022-05-27T20:42:54Z', 'labels': []}
+{'issuenumber': 1708, 'title': 'Extracting paths between terminals from AST tree', 'state': 'closed', 'created_at': '2022-04-15T13:21:47Z', 'closed_at': '2022-04-29T13:43:22Z', 'labels': []}
+{'issuenumber': 1684, 'title': 'Process finished with exit code -1073741819 (0xC0000005)', 'state': 'closed', 'created_at': '2022-03-10T12:38:56Z', 'closed_at': '2022-03-10T13:15:34Z', 'labels': []}
+{'issuenumber': 1670, 'title': 'Rewrite core library in rust', 'state': 'closed', 'created_at': '2022-02-27T15:51:22Z', 'closed_at': '2022-02-27T16:21:53Z', 'labels': []}
+{'issuenumber': 1669, 'title': 'Support scala', 'state': 'closed', 'created_at': '2022-02-27T15:00:36Z', 'closed_at': '2022-02-28T03:40:03Z', 'labels': []}
+{'issuenumber': 1664, 'title': "[question] Is this a bug?  I can't seem to skip over an optional block", 'state': 'closed', 'created_at': '2022-02-24T15:02:46Z', 'closed_at': '2022-02-25T00:50:43Z', 'labels': []}
+{'issuenumber': 1663, 'title': 'Undocumented node-types.json', 'state': 'closed', 'created_at': '2022-02-24T01:24:49Z', 'closed_at': '2022-03-04T15:51:04Z', 'labels': []}
+{'issuenumber': 1656, 'title': 'tree_sitter::QueryMatches appears to mutate the match', 'state': 'closed', 'created_at': '2022-02-16T22:16:28Z', 'closed_at': '2022-02-16T22:37:06Z', 'labels': []}
+{'issuenumber': 1652, 'title': 'Unable to load wasm file from JS', 'state': 'closed', 'created_at': '2022-02-15T10:16:57Z', 'closed_at': '2022-02-15T13:07:00Z', 'labels': []}
+{'issuenumber': 1645, 'title': 'Incorrect incremental parse result found in Python test corpus', 'state': 'closed', 'created_at': '2022-02-07T17:01:14Z', 'closed_at': '2022-02-26T22:59:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1629, 'title': 'Feature request: provide grammar.js for the built-in query language', 'state': 'closed', 'created_at': '2022-01-30T17:55:50Z', 'closed_at': '2022-01-30T18:38:59Z', 'labels': []}
+{'issuenumber': 1622, 'title': 'Anchors and predicates give unexpected results', 'state': 'closed', 'created_at': '2022-01-28T22:30:13Z', 'closed_at': '2022-02-02T21:07:46Z', 'labels': []}
+{'issuenumber': 1614, 'title': 'tree-sitter version bump to v0.20.4', 'state': 'closed', 'created_at': '2022-01-23T20:16:34Z', 'closed_at': '2022-01-23T20:39:28Z', 'labels': []}
+{'issuenumber': 1613, 'title': 'Push latest tree-sitter-cli version to NPM', 'state': 'closed', 'created_at': '2022-01-23T02:38:36Z', 'closed_at': '2022-01-23T19:50:42Z', 'labels': []}
+{'issuenumber': 1611, 'title': 'Query causing Tree-sitter to freeze', 'state': 'closed', 'created_at': '2022-01-21T21:55:14Z', 'closed_at': '2022-01-21T21:58:40Z', 'labels': []}
+{'issuenumber': 1609, 'title': 'Why the length of string in Tree-sitter is uint32_t size?', 'state': 'closed', 'created_at': '2022-01-20T12:58:14Z', 'closed_at': '2022-01-21T19:57:46Z', 'labels': []}
+{'issuenumber': 1603, 'title': 'Create call graph with tree-sitter', 'state': 'closed', 'created_at': '2022-01-19T12:06:01Z', 'closed_at': '2022-01-19T13:41:27Z', 'labels': []}
+{'issuenumber': 1597, 'title': 'allow `#is-not? local` to gate multiple captures in a stanza?', 'state': 'closed', 'created_at': '2022-01-17T19:11:17Z', 'closed_at': '2022-01-20T00:40:30Z', 'labels': []}
+{'issuenumber': 1582, 'title': 'Treesitter not working in some places in html', 'state': 'closed', 'created_at': '2022-01-11T19:23:55Z', 'closed_at': '2022-01-11T21:52:22Z', 'labels': []}
+{'issuenumber': 1569, 'title': 'Unable to load parser for c help', 'state': 'closed', 'created_at': '2022-01-02T15:45:38Z', 'closed_at': '2022-01-03T01:01:51Z', 'labels': []}
+{'issuenumber': 1564, 'title': 'Ignore case regexp modifier ignored in grammar', 'state': 'closed', 'created_at': '2022-01-01T11:28:01Z', 'closed_at': '2022-01-01T19:09:55Z', 'labels': []}
+{'issuenumber': 1557, 'title': 'How is it possible to parse non-CFLs with tree-sitter?', 'state': 'closed', 'created_at': '2021-12-27T10:17:00Z', 'closed_at': '2021-12-28T23:06:16Z', 'labels': []}
+{'issuenumber': 1551, 'title': 'Documenting comments in c++', 'state': 'closed', 'created_at': '2021-12-22T16:39:30Z', 'closed_at': '2021-12-22T22:19:22Z', 'labels': []}
+{'issuenumber': 1537, 'title': 'tree_sitter_cli::test::format_sexp_indented calls unwrap on a None value', 'state': 'closed', 'created_at': '2021-12-15T16:54:10Z', 'closed_at': '2021-12-15T19:59:30Z', 'labels': []}
+{'issuenumber': 1535, 'title': 'Allow swapping malloc implementation at runtime', 'state': 'closed', 'created_at': '2021-12-14T07:08:31Z', 'closed_at': '2021-12-29T04:57:58Z', 'labels': []}
+{'issuenumber': 1531, 'title': 'Bindings for Java/Kotlin', 'state': 'closed', 'created_at': '2021-12-10T20:19:20Z', 'closed_at': '2021-12-13T21:23:28Z', 'labels': []}
+{'issuenumber': 1527, 'title': '0.20.1 breaks error case', 'state': 'closed', 'created_at': '2021-12-10T00:25:21Z', 'closed_at': '2021-12-23T22:14:36Z', 'labels': []}
+{'issuenumber': 1526, 'title': 'ts_node_child_by_field_* problematic in combination with anonymous nodes', 'state': 'closed', 'created_at': '2021-12-09T12:28:23Z', 'closed_at': '2021-12-10T09:18:28Z', 'labels': []}
+{'issuenumber': 1523, 'title': '`tree-sitter playground` is broken when building without wasm library', 'state': 'closed', 'created_at': '2021-12-04T06:31:19Z', 'closed_at': '2021-12-07T00:52:23Z', 'labels': []}
+{'issuenumber': 1522, 'title': 'electron 13 compatibility', 'state': 'closed', 'created_at': '2021-12-04T01:43:29Z', 'closed_at': '2021-12-08T00:14:23Z', 'labels': []}
+{'issuenumber': 1519, 'title': 'render bug in vue file', 'state': 'closed', 'created_at': '2021-12-03T06:41:37Z', 'closed_at': '2021-12-03T09:08:59Z', 'labels': []}
+{'issuenumber': 1510, 'title': 'Possible query performance regression introduced in 0.20?', 'state': 'closed', 'created_at': '2021-11-28T22:48:21Z', 'closed_at': '2022-01-01T01:25:37Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1498, 'title': 'Playground is down', 'state': 'closed', 'created_at': '2021-11-22T09:32:54Z', 'closed_at': '2021-11-23T00:05:27Z', 'labels': []}
+{'issuenumber': 1497, 'title': '`tree-sitter test` fails with "Stderr: Undefined symbols for architecture x86_64"', 'state': 'closed', 'created_at': '2021-11-21T20:49:02Z', 'closed_at': '2021-11-22T01:44:18Z', 'labels': []}
+{'issuenumber': 1494, 'title': 'Multi-Language Grammar parser issue', 'state': 'closed', 'created_at': '2021-11-21T03:37:34Z', 'closed_at': '2021-11-23T00:15:13Z', 'labels': []}
+{'issuenumber': 1484, 'title': "Howto decide language injection vs 'monolitic' grammar", 'state': 'closed', 'created_at': '2021-11-15T21:38:07Z', 'closed_at': '2021-11-23T00:15:36Z', 'labels': []}
+{'issuenumber': 1481, 'title': 'parsing token by token or parsing chunk by chunk of text', 'state': 'closed', 'created_at': '2021-11-12T15:03:33Z', 'closed_at': '2021-11-19T19:30:22Z', 'labels': []}
+{'issuenumber': 1470, 'title': 'Javascript.so is not a valid Win32 application', 'state': 'closed', 'created_at': '2021-11-04T15:16:11Z', 'closed_at': '2021-11-23T00:15:54Z', 'labels': []}
+{'issuenumber': 1466, 'title': 'SubtreeInlineData is broken on Big-Endian (specifically OpenBSD/macppc)', 'state': 'closed', 'created_at': '2021-10-30T10:41:29Z', 'closed_at': '2021-12-27T05:03:26Z', 'labels': []}
+{'issuenumber': 1458, 'title': 'Playground freezes when specifying named fields on wildcard nodes', 'state': 'closed', 'created_at': '2021-10-26T14:07:48Z', 'closed_at': '2021-11-23T00:09:15Z', 'labels': []}
+{'issuenumber': 1451, 'title': "possible to generate 'flat' expressions?", 'state': 'closed', 'created_at': '2021-10-21T10:35:16Z', 'closed_at': '2021-10-21T13:12:00Z', 'labels': []}
+{'issuenumber': 1449, 'title': 'Highlighting Broken as of 0.20.0', 'state': 'closed', 'created_at': '2021-10-20T15:36:27Z', 'closed_at': '2021-10-21T19:45:59Z', 'labels': []}
+{'issuenumber': 1448, 'title': 'White spaces on `--paths`', 'state': 'closed', 'created_at': '2021-10-20T04:47:11Z', 'closed_at': '2021-10-25T23:37:13Z', 'labels': []}
+{'issuenumber': 1444, 'title': 'an incremental change can corrupt the parse tree', 'state': 'closed', 'created_at': '2021-10-17T15:47:05Z', 'closed_at': '2021-11-19T20:44:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1436, 'title': 'Query with mismatched parentheses parses but does not match anything', 'state': 'closed', 'created_at': '2021-10-12T14:44:22Z', 'closed_at': '2021-10-12T16:21:13Z', 'labels': []}
+{'issuenumber': 1420, 'title': "'index out of bounds: the len is 8 but the index is 8'", 'state': 'closed', 'created_at': '2021-09-29T13:38:01Z', 'closed_at': '2021-11-19T21:02:10Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1406, 'title': 'Precedence problems with a "catch all" rule', 'state': 'closed', 'created_at': '2021-09-23T09:01:49Z', 'closed_at': '2021-09-23T12:37:22Z', 'labels': []}
+{'issuenumber': 1405, 'title': 'get_column seems to return byte count, not codepoint count', 'state': 'closed', 'created_at': '2021-09-22T20:07:14Z', 'closed_at': '2021-09-22T20:53:46Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 1404, 'title': "Keyword extraction doesn't work when optional regexp precedes a keyword", 'state': 'closed', 'created_at': '2021-09-22T19:14:54Z', 'closed_at': '2021-09-23T23:42:52Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1402, 'title': 'Requested grammar: Windows batch', 'state': 'closed', 'created_at': '2021-09-22T09:23:27Z', 'closed_at': '2021-09-22T15:51:32Z', 'labels': []}
+{'issuenumber': 1401, 'title': 'Get the value of literals', 'state': 'closed', 'created_at': '2021-09-22T05:00:15Z', 'closed_at': '2021-09-23T13:34:41Z', 'labels': []}
+{'issuenumber': 1395, 'title': 'How to setup unquoted strings', 'state': 'closed', 'created_at': '2021-09-21T16:51:23Z', 'closed_at': '2021-09-21T18:28:07Z', 'labels': []}
+{'issuenumber': 1392, 'title': 'Alternation with predicates', 'state': 'closed', 'created_at': '2021-09-20T12:07:56Z', 'closed_at': '2021-09-24T15:56:23Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1389, 'title': 'Need a way to enable assertions with `tree-sitter build-wasm`', 'state': 'closed', 'created_at': '2021-09-16T19:15:04Z', 'closed_at': '2021-09-16T20:59:43Z', 'labels': []}
+{'issuenumber': 1380, 'title': 'Strict parsing vs relaxed parsing', 'state': 'closed', 'created_at': '2021-09-08T22:08:55Z', 'closed_at': '2021-09-09T09:26:47Z', 'labels': []}
+{'issuenumber': 1376, 'title': "Can't use npm-installed grammars with web-tree-sitter: Argument must be a Language", 'state': 'closed', 'created_at': '2021-09-06T16:05:53Z', 'closed_at': '2021-09-06T19:26:10Z', 'labels': []}
+{'issuenumber': 1375, 'title': 'Arch Linux Neovim 0.5 Tree-Sitter Interface error ', 'state': 'closed', 'created_at': '2021-09-06T14:53:18Z', 'closed_at': '2021-09-06T18:00:49Z', 'labels': []}
+{'issuenumber': 1374, 'title': 'Highlighting test groups priority', 'state': 'closed', 'created_at': '2021-09-03T16:06:57Z', 'closed_at': '2021-09-03T18:20:17Z', 'labels': []}
+{'issuenumber': 1370, 'title': 'Rust crate out of date on crates.io', 'state': 'closed', 'created_at': '2021-08-30T17:49:45Z', 'closed_at': '2021-08-30T17:59:49Z', 'labels': []}
+{'issuenumber': 1363, 'title': 'tree-sitter-highlight@0.19.2 does not build', 'state': 'closed', 'created_at': '2021-08-28T19:50:46Z', 'closed_at': '2021-08-29T10:41:21Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 1359, 'title': 'C documentation/tutorial for tree_sitter_highlight?', 'state': 'closed', 'created_at': '2021-08-25T14:59:01Z', 'closed_at': '2021-10-06T13:44:16Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 1358, 'title': "Anonymous wildcard doesn't seem to work: _", 'state': 'closed', 'created_at': '2021-08-25T14:42:33Z', 'closed_at': '2021-08-25T20:07:34Z', 'labels': []}
+{'issuenumber': 1352, 'title': 'ARM Support', 'state': 'closed', 'created_at': '2021-08-21T00:51:11Z', 'closed_at': '2021-08-23T14:01:15Z', 'labels': []}
+{'issuenumber': 1351, 'title': 'Error while using parser with Windows x64', 'state': 'closed', 'created_at': '2021-08-20T17:23:14Z', 'closed_at': '2021-08-20T19:01:09Z', 'labels': []}
+{'issuenumber': 1349, 'title': 'Detecting MISSING identifier in Python bindings.', 'state': 'closed', 'created_at': '2021-08-20T05:23:57Z', 'closed_at': '2021-08-26T22:23:46Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 1347, 'title': '`tree-sitter test` Freezes While Testing Syntax Highlighting', 'state': 'closed', 'created_at': '2021-08-19T15:00:51Z', 'closed_at': '2021-08-29T22:04:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1343, 'title': 'Presumed Homomorphic Expectations Violated; Document or Change', 'state': 'closed', 'created_at': '2021-08-18T02:58:04Z', 'closed_at': '2021-08-18T04:20:14Z', 'labels': []}
+{'issuenumber': 1338, 'title': 'Bug while parsing C++ code with operators declarations', 'state': 'closed', 'created_at': '2021-08-14T19:50:45Z', 'closed_at': '2021-08-15T01:47:21Z', 'labels': []}
+{'issuenumber': 1333, 'title': 'Incorrect tree structure with coment starting in same line as closing bracket of a function', 'state': 'closed', 'created_at': '2021-08-11T19:48:08Z', 'closed_at': '2021-11-19T21:06:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1324, 'title': 'Cannot find language for highlighting, but tests succeed', 'state': 'closed', 'created_at': '2021-08-05T21:38:27Z', 'closed_at': '2021-09-20T02:56:59Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1323, 'title': 'Treesitter colorscheme produces weird highlighting', 'state': 'closed', 'created_at': '2021-08-05T19:04:14Z', 'closed_at': '2021-08-05T19:14:45Z', 'labels': []}
+{'issuenumber': 1320, 'title': 'impl Send for Node', 'state': 'closed', 'created_at': '2021-08-04T18:34:50Z', 'closed_at': '2021-08-05T15:34:04Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 1318, 'title': 'tree-sitter highlight - segfaults on an old version of injected language', 'state': 'closed', 'created_at': '2021-08-04T00:23:46Z', 'closed_at': '2021-09-03T20:21:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1312, 'title': '[New] Tree sitter for zig', 'state': 'closed', 'created_at': '2021-08-02T13:32:50Z', 'closed_at': '2021-08-02T20:28:33Z', 'labels': []}
+{'issuenumber': 1311, 'title': 'Parsing hangs on some Erlang files', 'state': 'closed', 'created_at': '2021-08-02T10:12:22Z', 'closed_at': '2021-08-02T20:42:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1300, 'title': 'Playground not working with "Uncaught TypeError: tree is not defined"', 'state': 'closed', 'created_at': '2021-07-28T22:54:19Z', 'closed_at': '2021-07-29T23:06:35Z', 'labels': []}
+{'issuenumber': 1291, 'title': 'Weird behavior on DEDENT token.', 'state': 'closed', 'created_at': '2021-07-23T14:20:47Z', 'closed_at': '2021-07-23T22:52:10Z', 'labels': []}
+{'issuenumber': 1290, 'title': 'Feature request: Hashicorp Config Language (HCL) support', 'state': 'closed', 'created_at': '2021-07-23T04:37:41Z', 'closed_at': '2021-07-23T21:03:47Z', 'labels': []}
+{'issuenumber': 1289, 'title': '[Question] Is the a way remove child rule from parent rule', 'state': 'closed', 'created_at': '2021-07-22T10:07:25Z', 'closed_at': '2021-07-23T23:52:47Z', 'labels': []}
+{'issuenumber': 1285, 'title': 'Highlighting error for C++ grammar', 'state': 'closed', 'created_at': '2021-07-20T22:54:35Z', 'closed_at': '2021-07-21T05:06:59Z', 'labels': []}
+{'issuenumber': 1284, 'title': 'The simplest way to write tests for nodes that can not appear at root', 'state': 'closed', 'created_at': '2021-07-20T16:32:11Z', 'closed_at': '2021-07-20T20:21:03Z', 'labels': []}
+{'issuenumber': 1280, 'title': 'ERROR when parsing newline in external scanner.', 'state': 'closed', 'created_at': '2021-07-19T15:06:20Z', 'closed_at': '2021-07-19T15:13:20Z', 'labels': []}
+{'issuenumber': 1272, 'title': '"/usr/share/nvim/runtime/lua/vim/treesitter/query.lua:347: No handler for any-of?"', 'state': 'closed', 'created_at': '2021-07-15T20:31:39Z', 'closed_at': '2021-07-15T21:35:15Z', 'labels': []}
+{'issuenumber': 1259, 'title': 'tree-sitter calls external scanner with all symbols marked valid', 'state': 'closed', 'created_at': '2021-07-13T14:32:48Z', 'closed_at': '2021-07-13T16:08:26Z', 'labels': []}
+{'issuenumber': 1256, 'title': 'External scanner for comments only being called at toplevel', 'state': 'closed', 'created_at': '2021-07-11T23:48:24Z', 'closed_at': '2021-07-12T00:23:16Z', 'labels': []}
+{'issuenumber': 1253, 'title': 'Difference between `_` and `(_)`', 'state': 'closed', 'created_at': '2021-07-11T00:49:32Z', 'closed_at': '2021-07-11T16:58:39Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1232, 'title': 'Highlighting entirely broken in CLI v0.20.0', 'state': 'closed', 'created_at': '2021-07-03T00:33:15Z', 'closed_at': '2021-07-05T15:48:40Z', 'labels': []}
+{'issuenumber': 1229, 'title': 'highlight command panics with tree-sitter-cli 0.20.0', 'state': 'closed', 'created_at': '2021-07-02T18:42:54Z', 'closed_at': '2021-09-11T19:43:22Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1228, 'title': '`tree-sitter init-config` does not print out path to created config file on Windows', 'state': 'closed', 'created_at': '2021-07-02T18:07:54Z', 'closed_at': '2021-07-02T18:13:57Z', 'labels': []}
+{'issuenumber': 1227, 'title': 'tree-sitter-cli 0.20.0: better error messages when config.json parsing fails', 'state': 'closed', 'created_at': '2021-07-02T18:00:40Z', 'closed_at': '2021-07-16T03:37:41Z', 'labels': []}
+{'issuenumber': 1226, 'title': 'CLI help is missing a summary/description for the `tags` subcommand', 'state': 'closed', 'created_at': '2021-07-02T13:58:20Z', 'closed_at': '2021-07-19T18:32:32Z', 'labels': []}
+{'issuenumber': 1222, 'title': 'Setting TREE_SITTER_DIR causes ENOENT on tree-sitter 0.20.0 + macOS', 'state': 'closed', 'created_at': '2021-07-01T04:21:10Z', 'closed_at': '2021-07-01T21:51:23Z', 'labels': []}
+{'issuenumber': 1217, 'title': "no such file or directory, open 'target/scratch/tree-sitter.js' when installing HEAD via homebrew on mac", 'state': 'closed', 'created_at': '2021-06-29T11:00:33Z', 'closed_at': '2021-06-30T17:00:05Z', 'labels': []}
+{'issuenumber': 1216, 'title': 'New release tag?', 'state': 'closed', 'created_at': '2021-06-29T10:33:19Z', 'closed_at': '2021-06-30T05:34:03Z', 'labels': []}
+{'issuenumber': 1201, 'title': 'Problem building WASM with tree-sitter-cli@0.19.5', 'state': 'closed', 'created_at': '2021-06-23T17:17:10Z', 'closed_at': '2021-06-30T00:51:28Z', 'labels': []}
+{'issuenumber': 1195, 'title': "tree-sitter generate - doesn't restore any independently deleted generated files", 'state': 'closed', 'created_at': '2021-06-23T00:38:20Z', 'closed_at': '2021-06-29T23:28:46Z', 'labels': []}
+{'issuenumber': 1182, 'title': 'Broken website research links', 'state': 'closed', 'created_at': '2021-06-19T02:21:03Z', 'closed_at': '2021-08-24T22:32:51Z', 'labels': []}
+{'issuenumber': 1179, 'title': '"indirect call to null" in `_ts_parser_parse_wasm`', 'state': 'closed', 'created_at': '2021-06-18T00:57:12Z', 'closed_at': '2021-06-30T00:38:25Z', 'labels': []}
+{'issuenumber': 1178, 'title': '`scripts/build-wasm --docker` fails', 'state': 'closed', 'created_at': '2021-06-18T00:46:59Z', 'closed_at': '2021-06-29T22:45:25Z', 'labels': []}
+{'issuenumber': 1155, 'title': '[Question] Operator Nodes', 'state': 'closed', 'created_at': '2021-06-09T23:29:29Z', 'closed_at': '2021-06-10T05:39:58Z', 'labels': []}
+{'issuenumber': 1144, 'title': '[Question] How to build autocomplete feature using tree-sitter ?', 'state': 'closed', 'created_at': '2021-06-07T05:39:29Z', 'closed_at': '2021-06-07T18:36:59Z', 'labels': []}
+{'issuenumber': 1139, 'title': 'Generate simple markdown parser', 'state': 'closed', 'created_at': '2021-06-04T13:04:43Z', 'closed_at': '2021-06-09T08:17:13Z', 'labels': []}
+{'issuenumber': 1133, 'title': '[Question] How to run query and see logs in the playground', 'state': 'closed', 'created_at': '2021-05-31T08:31:36Z', 'closed_at': '2021-08-02T22:06:18Z', 'labels': {'name': 'playground'}}
+{'issuenumber': 1131, 'title': 'WASM library fails to build with emscripten 2.0.23, 2.0.24', 'state': 'closed', 'created_at': '2021-05-29T08:27:56Z', 'closed_at': '2021-06-29T23:51:31Z', 'labels': []}
+{'issuenumber': 1129, 'title': 'web-tree-sitter parser.parse exits abruptly', 'state': 'closed', 'created_at': '2021-05-27T15:44:16Z', 'closed_at': '2021-06-05T03:45:58Z', 'labels': []}
+{'issuenumber': 1128, 'title': "On ERROR, parser stops and doesn't proceed further, when external scanner is present.", 'state': 'closed', 'created_at': '2021-05-24T18:30:37Z', 'closed_at': '2021-05-24T19:49:29Z', 'labels': []}
+{'issuenumber': 1124, 'title': 'tree-sitter-cli 0.19.5 does not build with docker', 'state': 'closed', 'created_at': '2021-05-23T03:07:41Z', 'closed_at': '2021-05-23T19:09:36Z', 'labels': []}
+{'issuenumber': 1122, 'title': 'tree-sitter-highlight 0.19.2 does not compile with tree-sitter 0.19.5', 'state': 'closed', 'created_at': '2021-05-21T13:25:05Z', 'closed_at': '2021-09-09T23:25:10Z', 'labels': []}
+{'issuenumber': 1114, 'title': 'Simple example of C/C++ program parsing Ruby', 'state': 'closed', 'created_at': '2021-05-18T20:13:16Z', 'closed_at': '2021-06-30T16:04:57Z', 'labels': []}
+{'issuenumber': 1106, 'title': 'Question: Existing work on tree-sitter-sql', 'state': 'closed', 'created_at': '2021-05-13T06:58:16Z', 'closed_at': '2021-05-13T16:48:16Z', 'labels': []}
+{'issuenumber': 1099, 'title': 'web-tree-sitter failing while other bindings are working', 'state': 'closed', 'created_at': '2021-05-08T10:38:23Z', 'closed_at': '2021-05-30T12:27:44Z', 'labels': []}
+{'issuenumber': 1098, 'title': 'Wasm platform dependencies? function signature mismatch error on different machines', 'state': 'closed', 'created_at': '2021-05-07T21:58:14Z', 'closed_at': '2021-05-29T21:51:24Z', 'labels': []}
+{'issuenumber': 1095, 'title': 'Wasm broken: function signature mismatch', 'state': 'closed', 'created_at': '2021-05-07T07:12:46Z', 'closed_at': '2021-05-07T17:37:38Z', 'labels': []}
+{'issuenumber': 1093, 'title': "`tree-sitter generate` doesn't update cargo dependencies if binding exist", 'state': 'closed', 'created_at': '2021-05-06T05:22:49Z', 'closed_at': '2021-05-07T05:12:07Z', 'labels': []}
+{'issuenumber': 1090, 'title': 'Question: ts_tree_cursor_current_field_name API does not return field_name', 'state': 'closed', 'created_at': '2021-05-04T01:03:33Z', 'closed_at': '2021-08-27T06:14:00Z', 'labels': []}
+{'issuenumber': 1088, 'title': "wasm bindings don't work with emscripten 2.0.18", 'state': 'closed', 'created_at': '2021-05-03T18:13:18Z', 'closed_at': '2021-05-03T18:47:06Z', 'labels': []}
+{'issuenumber': 1087, 'title': 'How to prevent extras from matching in a string?', 'state': 'closed', 'created_at': '2021-05-01T23:20:26Z', 'closed_at': '2021-05-06T03:32:28Z', 'labels': []}
+{'issuenumber': 1085, 'title': 'Mutate tree sitter AST from Rust? (Is tree sitter suitable for transformations/code instrumentation)', 'state': 'closed', 'created_at': '2021-05-01T05:41:01Z', 'closed_at': '2021-05-01T20:43:13Z', 'labels': []}
+{'issuenumber': 1078, 'title': 'Installation of `0.19.0` crashes ungracefully   ', 'state': 'closed', 'created_at': '2021-04-28T13:20:51Z', 'closed_at': '2021-09-17T22:41:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1073, 'title': 'Is a tree-sitter generated ast suitable as the base ast for a new compile-to-wasm language?', 'state': 'closed', 'created_at': '2021-04-25T13:35:21Z', 'closed_at': '2021-08-27T06:15:56Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1061, 'title': 'GLR parsing not triggering when precedence is defined', 'state': 'closed', 'created_at': '2021-04-17T23:15:58Z', 'closed_at': '2022-01-30T16:20:04Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1060, 'title': 'May I know how to check the version of tree_sitter being installed', 'state': 'closed', 'created_at': '2021-04-16T04:07:25Z', 'closed_at': '2022-06-13T06:51:50Z', 'labels': {'name': 'more-information-needed'}}
+{'issuenumber': 1056, 'title': 'Java newline braces not showing code navigation', 'state': 'closed', 'created_at': '2021-04-13T19:34:02Z', 'closed_at': '2021-04-18T17:08:18Z', 'labels': []}
+{'issuenumber': 1049, 'title': 'Move global configuration directory', 'state': 'closed', 'created_at': '2021-04-08T05:16:33Z', 'closed_at': '2021-04-10T17:50:13Z', 'labels': []}
+{'issuenumber': 1047, 'title': 'Unexpected behaviour when test name contains equals = character', 'state': 'closed', 'created_at': '2021-04-06T15:11:28Z', 'closed_at': '2021-09-09T08:56:00Z', 'labels': []}
+{'issuenumber': 1032, 'title': 'Weird Cargo.toml generated with `tree-sitter generate`', 'state': 'closed', 'created_at': '2021-03-31T05:40:23Z', 'closed_at': '2021-06-29T23:48:24Z', 'labels': []}
+{'issuenumber': 1026, 'title': 'out-of-order parsing', 'state': 'closed', 'created_at': '2021-03-28T13:57:45Z', 'closed_at': '2021-03-28T17:43:44Z', 'labels': []}
+{'issuenumber': 1021, 'title': 'Can we get a web-tree-sitter update?', 'state': 'closed', 'created_at': '2021-03-26T16:11:54Z', 'closed_at': '2021-05-08T00:38:12Z', 'labels': []}
+{'issuenumber': 1018, 'title': 'Program freezes on query', 'state': 'closed', 'created_at': '2021-03-25T11:10:14Z', 'closed_at': '2021-03-27T16:36:19Z', 'labels': []}
+{'issuenumber': 1017, 'title': 'Using Tree-Sitter in Browser', 'state': 'closed', 'created_at': '2021-03-25T04:29:51Z', 'closed_at': '2021-03-27T17:19:33Z', 'labels': []}
+{'issuenumber': 1016, 'title': 'In c++, a function declarator is seen as an init declarator with 0.19.2 release', 'state': 'closed', 'created_at': '2021-03-24T14:14:29Z', 'closed_at': '2021-03-27T17:10:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1013, 'title': 'Alternative ebnf to write parsers', 'state': 'closed', 'created_at': '2021-03-23T18:09:32Z', 'closed_at': '2021-03-28T15:26:32Z', 'labels': []}
+{'issuenumber': 1011, 'title': 'Extending incremental parsing to data structures derived from tree', 'state': 'closed', 'created_at': '2021-03-23T06:00:34Z', 'closed_at': '2022-05-07T20:48:10Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1010, 'title': 'Need help to define a specific query', 'state': 'closed', 'created_at': '2021-03-22T13:13:15Z', 'closed_at': '2021-03-24T13:10:30Z', 'labels': []}
+{'issuenumber': 1009, 'title': 'Unable to install tree-sitter using linuxbrew', 'state': 'closed', 'created_at': '2021-03-20T16:01:56Z', 'closed_at': '2021-03-20T17:47:39Z', 'labels': []}
+{'issuenumber': 1007, 'title': 'Failed assertion in `ts_query__analyze_patterns`', 'state': 'closed', 'created_at': '2021-03-19T11:20:48Z', 'closed_at': '2021-03-19T18:00:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1006, 'title': 'Release 0.19.4 has no assets which breaks install.js', 'state': 'closed', 'created_at': '2021-03-19T09:50:11Z', 'closed_at': '2021-03-19T16:35:21Z', 'labels': []}
+{'issuenumber': 1004, 'title': "tree-sitter doesn't support look-ahead, how can I implement it?", 'state': 'closed', 'created_at': '2021-03-19T04:57:25Z', 'closed_at': '2021-03-19T05:02:43Z', 'labels': []}
+{'issuenumber': 1003, 'title': 'Issue with v0.19.4 tag place', 'state': 'closed', 'created_at': '2021-03-19T04:35:25Z', 'closed_at': '2021-03-19T05:02:17Z', 'labels': []}
+{'issuenumber': 997, 'title': 'rust bindings "node_kind_is_visible" is inaccurate', 'state': 'closed', 'created_at': '2021-03-17T14:48:07Z', 'closed_at': '2021-03-18T17:26:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 995, 'title': 'Performance optimizations when only parsing a file once?', 'state': 'closed', 'created_at': '2021-03-17T05:54:24Z', 'closed_at': '2021-03-18T21:25:33Z', 'labels': []}
+{'issuenumber': 984, 'title': 'Segmentation Fault when opening a non-vim file', 'state': 'closed', 'created_at': '2021-03-12T23:27:18Z', 'closed_at': '2021-03-12T23:30:27Z', 'labels': []}
+{'issuenumber': 982, 'title': 'Workaround for tree-sitter test file separator conflict', 'state': 'closed', 'created_at': '2021-03-12T22:03:23Z', 'closed_at': '2021-09-08T05:58:06Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 979, 'title': "web-tree-sitter npm package doesn't contain license file", 'state': 'closed', 'created_at': '2021-03-12T08:34:06Z', 'closed_at': '2021-08-22T02:45:30Z', 'labels': []}
+{'issuenumber': 976, 'title': 'Future...', 'state': 'closed', 'created_at': '2021-03-09T22:54:15Z', 'closed_at': '2021-03-09T22:57:48Z', 'labels': []}
+{'issuenumber': 972, 'title': 'web/wasm bindings should allow passing a URL to the WASM file', 'state': 'closed', 'created_at': '2021-03-07T19:43:52Z', 'closed_at': '2022-01-07T19:09:40Z', 'labels': []}
+{'issuenumber': 970, 'title': 'Allow "tree-sitter parse " to omit token positions in parse tree output', 'state': 'closed', 'created_at': '2021-03-07T16:05:13Z', 'closed_at': '2021-03-13T19:30:46Z', 'labels': []}
+{'issuenumber': 969, 'title': 'lua highlighter error: "end_col value outside range"', 'state': 'closed', 'created_at': '2021-03-07T13:03:19Z', 'closed_at': '2021-03-07T13:03:45Z', 'labels': []}
+{'issuenumber': 968, 'title': 'Assertion failure on invalid query syntax', 'state': 'closed', 'created_at': '2021-03-06T23:56:48Z', 'closed_at': '2021-03-08T17:54:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 967, 'title': 'Unable to capture extra node in "parent" node', 'state': 'closed', 'created_at': '2021-03-06T02:29:50Z', 'closed_at': '2021-03-08T17:54:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 966, 'title': 'Incompatible language version 0. Compatibility range 13 through 13.', 'state': 'closed', 'created_at': '2021-03-06T01:45:10Z', 'closed_at': '2022-01-23T00:57:04Z', 'labels': []}
+{'issuenumber': 964, 'title': 'Version incompatibility', 'state': 'closed', 'created_at': '2021-03-05T13:42:59Z', 'closed_at': '2021-03-05T16:16:48Z', 'labels': []}
+{'issuenumber': 963, 'title': 'unable to install using cargo', 'state': 'closed', 'created_at': '2021-03-02T23:43:08Z', 'closed_at': '2021-09-03T21:09:27Z', 'labels': []}
+{'issuenumber': 960, 'title': 'New tree-sitter version not on crates.io', 'state': 'closed', 'created_at': '2021-03-01T22:29:26Z', 'closed_at': '2021-03-01T22:49:15Z', 'labels': []}
+{'issuenumber': 953, 'title': 'P4 Programming Language - lexer and parser collaboration', 'state': 'closed', 'created_at': '2021-02-28T21:44:17Z', 'closed_at': '2021-03-01T20:31:54Z', 'labels': []}
+{'issuenumber': 950, 'title': 'Parse a single expression in middle of file?', 'state': 'closed', 'created_at': '2021-02-28T01:15:12Z', 'closed_at': '2021-02-28T18:27:15Z', 'labels': []}
+{'issuenumber': 947, 'title': 'Command `tree-sitter init-config` does not generate anything', 'state': 'closed', 'created_at': '2021-02-26T20:44:40Z', 'closed_at': '2021-02-26T21:05:29Z', 'labels': []}
+{'issuenumber': 944, 'title': 'tree-sitter-haskell rewrite', 'state': 'closed', 'created_at': '2021-02-26T11:25:05Z', 'closed_at': '2021-02-26T14:34:58Z', 'labels': []}
+{'issuenumber': 942, 'title': '`npm install tree-sitter-cli` fails on Apple Silicon', 'state': 'closed', 'created_at': '2021-02-25T20:20:45Z', 'closed_at': '2021-02-26T23:57:37Z', 'labels': []}
+{'issuenumber': 940, 'title': 'Some external scanners used for testing cannot handler CRLF line endings', 'state': 'closed', 'created_at': '2021-02-25T04:00:33Z', 'closed_at': '2021-10-05T21:13:27Z', 'labels': []}
+{'issuenumber': 938, 'title': 'Ignore folders in `queries` for "tree-sitter test"', 'state': 'closed', 'created_at': '2021-02-24T16:26:37Z', 'closed_at': '2021-02-25T21:33:06Z', 'labels': []}
+{'issuenumber': 937, 'title': 'Query pattern only matches with extra capture', 'state': 'closed', 'created_at': '2021-02-24T11:05:08Z', 'closed_at': '2021-02-26T05:42:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 933, 'title': 'tree-sitter crashes by triggering `assert(symbol < self->token_count);`', 'state': 'closed', 'created_at': '2021-02-21T12:03:55Z', 'closed_at': '2021-02-26T22:52:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 932, 'title': 'web-tree-sitter query with predicates fills array with undefined values', 'state': 'closed', 'created_at': '2021-02-21T04:28:27Z', 'closed_at': '2021-02-26T23:16:13Z', 'labels': []}
+{'issuenumber': 929, 'title': 'ts_tree_delete takes a long time to run', 'state': 'closed', 'created_at': '2021-02-20T22:29:07Z', 'closed_at': '2021-03-01T20:40:10Z', 'labels': []}
+{'issuenumber': 927, 'title': 'All web bundlers mangle `tree-sitter.wasm`', 'state': 'closed', 'created_at': '2021-02-17T21:32:15Z', 'closed_at': '2021-02-18T21:54:57Z', 'labels': []}
+{'issuenumber': 925, 'title': 'Error loading `tree-sitter.{js,wasm}` in browser', 'state': 'closed', 'created_at': '2021-02-16T02:43:06Z', 'closed_at': '2021-02-17T21:32:29Z', 'labels': []}
+{'issuenumber': 924, 'title': 'Can tree-sitter parse binary format?', 'state': 'closed', 'created_at': '2021-02-15T16:05:40Z', 'closed_at': '2021-02-16T15:08:48Z', 'labels': []}
+{'issuenumber': 923, 'title': 'Generate "incomplete" nodes in the presence of syntax errors?', 'state': 'closed', 'created_at': '2021-02-14T03:34:09Z', 'closed_at': '2021-03-04T02:34:01Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 920, 'title': '-', 'state': 'closed', 'created_at': '2021-02-10T00:57:56Z', 'closed_at': '2021-02-10T00:58:27Z', 'labels': []}
+{'issuenumber': 919, 'title': 'CLI compilation error introduced by b661050a61 commit', 'state': 'closed', 'created_at': '2021-02-09T13:27:57Z', 'closed_at': '2021-02-25T14:39:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 916, 'title': 'golang bindings', 'state': 'closed', 'created_at': '2021-02-05T23:40:40Z', 'closed_at': '2021-02-11T00:18:35Z', 'labels': []}
+{'issuenumber': 913, 'title': 'Fixture tests do not test different line endings', 'state': 'closed', 'created_at': '2021-02-04T20:14:16Z', 'closed_at': '2021-10-05T21:13:27Z', 'labels': []}
+{'issuenumber': 912, 'title': 'Check failed: allocator->SetPermissions(reinterpret_cast<void*>(region.begin()), region.size(), PageAllocator::kNoAccess)', 'state': 'closed', 'created_at': '2021-02-04T11:37:38Z', 'closed_at': '2021-02-04T12:37:07Z', 'labels': []}
+{'issuenumber': 895, 'title': 'TypeScript bindings for the generated index.js', 'state': 'closed', 'created_at': '2021-01-25T06:10:35Z', 'closed_at': '2021-01-25T06:28:38Z', 'labels': []}
+{'issuenumber': 891, 'title': 'Creating Parsers - Getting Started doc inconsistency', 'state': 'closed', 'created_at': '2021-01-23T07:31:49Z', 'closed_at': '2021-08-27T08:09:59Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 888, 'title': 'Install.js does not work behind a proxy', 'state': 'closed', 'created_at': '2021-01-21T13:07:18Z', 'closed_at': '2022-04-26T16:54:05Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 886, 'title': 'Error while parsing, (ERROR [0, 0] - [1, 1])', 'state': 'closed', 'created_at': '2021-01-20T11:26:53Z', 'closed_at': '2021-01-20T14:59:19Z', 'labels': []}
+{'issuenumber': 885, 'title': 'Bindings for direct access to the lexer', 'state': 'closed', 'created_at': '2021-01-19T17:54:29Z', 'closed_at': '2021-01-23T01:17:07Z', 'labels': []}
+{'issuenumber': 879, 'title': 'build-wasm throws error for a new tree-sitter grammar', 'state': 'closed', 'created_at': '2021-01-10T19:07:13Z', 'closed_at': '2021-04-09T14:47:50Z', 'labels': []}
+{'issuenumber': 873, 'title': 'Issue with web-tree-sitter@0.18.0', 'state': 'closed', 'created_at': '2021-01-06T15:55:08Z', 'closed_at': '2021-03-09T21:00:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 872, 'title': 'Issue with last child operator', 'state': 'closed', 'created_at': '2021-01-06T15:39:15Z', 'closed_at': '2021-03-04T23:54:05Z', 'labels': []}
+{'issuenumber': 869, 'title': 'Failed to load grammar package', 'state': 'closed', 'created_at': '2021-01-05T15:16:44Z', 'closed_at': '2021-01-05T20:05:15Z', 'labels': []}
+{'issuenumber': 868, 'title': 'Does tree-sitter support code-doc nodes?', 'state': 'closed', 'created_at': '2021-01-04T09:42:01Z', 'closed_at': '2021-01-04T14:20:36Z', 'labels': []}
+{'issuenumber': 864, 'title': 'Support for emacs org mode?', 'state': 'closed', 'created_at': '2020-12-29T22:26:26Z', 'closed_at': '2020-12-29T22:36:39Z', 'labels': []}
+{'issuenumber': 862, 'title': 'Possible to implement DoubleEndedIterator for Node::children?', 'state': 'closed', 'created_at': '2020-12-24T23:07:44Z', 'closed_at': '2020-12-30T05:15:27Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 861, 'title': 'A syntax to keep extras from matching?', 'state': 'closed', 'created_at': '2020-12-24T13:50:41Z', 'closed_at': '2021-01-03T01:54:11Z', 'labels': []}
+{'issuenumber': 855, 'title': 'error while processing nvim-treesitter.vim after update ', 'state': 'closed', 'created_at': '2020-12-20T01:12:59Z', 'closed_at': '2020-12-20T01:49:17Z', 'labels': []}
+{'issuenumber': 853, 'title': 'Build fails with gcc 11', 'state': 'closed', 'created_at': '2020-12-19T00:18:05Z', 'closed_at': '2020-12-23T04:38:52Z', 'labels': []}
+{'issuenumber': 849, 'title': 'Is there a similar api in C to Node node.text?', 'state': 'closed', 'created_at': '2020-12-14T22:05:29Z', 'closed_at': '2020-12-14T22:14:29Z', 'labels': {'name': 'question'}}
+{'issuenumber': 848, 'title': 'Fields of NewRegex', 'state': 'closed', 'created_at': '2020-12-12T23:20:07Z', 'closed_at': '2020-12-13T03:34:47Z', 'labels': []}
+{'issuenumber': 846, 'title': 'Calling `.copy()` on a `Parser.Tree` object fails with `ze._ts_tree_copy is not a function`', 'state': 'closed', 'created_at': '2020-12-11T21:17:49Z', 'closed_at': '2020-12-11T21:48:29Z', 'labels': []}
+{'issuenumber': 839, 'title': 'Timing how long parsing/highlighting takes, like playground does?', 'state': 'closed', 'created_at': '2020-12-08T03:52:40Z', 'closed_at': '2020-12-08T04:32:12Z', 'labels': []}
+{'issuenumber': 838, 'title': 'Cannot find language for highlighting, but tests work', 'state': 'closed', 'created_at': '2020-12-07T17:38:33Z', 'closed_at': '2020-12-07T18:01:19Z', 'labels': []}
+{'issuenumber': 829, 'title': "add tree-sitter to wikipedia's Comparison of parser generators", 'state': 'closed', 'created_at': '2020-12-04T12:36:07Z', 'closed_at': '2021-08-26T00:52:53Z', 'labels': []}
+{'issuenumber': 828, 'title': 'Support a test-promote cycle', 'state': 'closed', 'created_at': '2020-12-03T13:21:15Z', 'closed_at': '2020-12-03T20:15:19Z', 'labels': []}
+{'issuenumber': 824, 'title': 'ability to cache trees on disk', 'state': 'closed', 'created_at': '2020-12-02T15:21:20Z', 'closed_at': '2020-12-02T18:08:28Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 818, 'title': 'Consider disallowing rules with identical names', 'state': 'closed', 'created_at': '2020-11-26T07:46:58Z', 'closed_at': '2020-11-30T20:29:38Z', 'labels': []}
+{'issuenumber': 815, 'title': 'Inconsistent syntax tree on large grammar', 'state': 'closed', 'created_at': '2020-11-23T23:13:55Z', 'closed_at': '2021-03-09T21:40:58Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 810, 'title': 'Incorrect build setup', 'state': 'closed', 'created_at': '2020-11-21T00:53:58Z', 'closed_at': '2020-12-19T00:52:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 806, 'title': 'Last-named-child operator not always working working', 'state': 'closed', 'created_at': '2020-11-16T21:06:34Z', 'closed_at': '2021-03-09T21:40:20Z', 'labels': []}
+{'issuenumber': 802, 'title': 'Grammars with complex identifiers', 'state': 'closed', 'created_at': '2020-11-11T14:39:06Z', 'closed_at': '2020-11-11T15:45:04Z', 'labels': []}
+{'issuenumber': 798, 'title': 'fails to build on aarch64 tags/c_lib: pointer mismatches (*const u8) vs (*const i8)', 'state': 'closed', 'created_at': '2020-11-08T07:12:30Z', 'closed_at': '2020-11-16T20:11:49Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 792, 'title': 'Inconsistent unicode column positions between CLI and Web Interface', 'state': 'closed', 'created_at': '2020-11-03T02:48:27Z', 'closed_at': '2020-11-03T17:23:21Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 790, 'title': 'Query pattern under a field name matches only the first child', 'state': 'closed', 'created_at': '2020-11-02T13:38:27Z', 'closed_at': '2020-11-02T22:08:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 788, 'title': 'Create a gitter and/or reddit sub', 'state': 'closed', 'created_at': '2020-10-30T14:52:41Z', 'closed_at': '2020-11-03T17:24:15Z', 'labels': []}
+{'issuenumber': 778, 'title': 'Multiple regex ranges slow parser generation down.', 'state': 'closed', 'created_at': '2020-10-23T16:41:58Z', 'closed_at': '2021-01-29T21:35:49Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 776, 'title': 'Unable to match anonymous node `"`', 'state': 'closed', 'created_at': '2020-10-23T15:08:03Z', 'closed_at': '2020-10-28T20:55:47Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 773, 'title': 'How to get the field name of the tokens when parsing java using python interface?', 'state': 'closed', 'created_at': '2020-10-21T08:47:52Z', 'closed_at': '2020-10-21T09:00:09Z', 'labels': {'name': 'question'}}
+{'issuenumber': 771, 'title': 'Document dot operator in queries', 'state': 'closed', 'created_at': '2020-10-20T20:40:16Z', 'closed_at': '2020-10-28T21:38:22Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 767, 'title': 'field not generated?', 'state': 'closed', 'created_at': '2020-10-17T15:56:08Z', 'closed_at': '2020-10-18T15:18:30Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 765, 'title': 'issue no. 735', 'state': 'closed', 'created_at': '2020-10-16T18:01:15Z', 'closed_at': '2020-10-28T21:21:53Z', 'labels': []}
+{'issuenumber': 763, 'title': 'Sparql grammar is slow to generate', 'state': 'closed', 'created_at': '2020-10-15T15:57:52Z', 'closed_at': '2020-10-23T17:01:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 760, 'title': 'Double quote token on highlight file', 'state': 'closed', 'created_at': '2020-10-10T20:48:42Z', 'closed_at': '2020-10-28T20:55:47Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 759, 'title': 'Allow matching on node type with out specifing the complete subtree', 'state': 'closed', 'created_at': '2020-10-10T13:43:29Z', 'closed_at': '2020-10-14T00:12:48Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 758, 'title': 'RGB color on tree-sitter highlight', 'state': 'closed', 'created_at': '2020-10-10T08:45:01Z', 'closed_at': '2021-03-01T17:19:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 757, 'title': '`ts_record_realloc` is not provided in release+debuginfo builds (link-time error)', 'state': 'closed', 'created_at': '2020-10-09T13:44:12Z', 'closed_at': '2020-10-12T18:54:49Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 755, 'title': 'Unexpected behaviour of ts_node_child_by_field_name', 'state': 'closed', 'created_at': '2020-10-08T09:57:24Z', 'closed_at': '2020-10-28T22:21:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 752, 'title': 'Comments in test files', 'state': 'closed', 'created_at': '2020-10-05T20:10:06Z', 'closed_at': '2021-04-12T15:42:33Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 747, 'title': 'Tree-sitter for highlighting code in cli', 'state': 'closed', 'created_at': '2020-09-30T11:42:13Z', 'closed_at': '2021-08-27T07:21:11Z', 'labels': {'name': 'question'}}
+{'issuenumber': 745, 'title': 'Panic when `extras` field is not a list', 'state': 'closed', 'created_at': '2020-09-28T16:00:18Z', 'closed_at': '2020-10-05T20:57:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 744, 'title': 'Panic when `tree-sitter parse` is given nonexistent file', 'state': 'closed', 'created_at': '2020-09-28T15:43:48Z', 'closed_at': '2020-11-03T20:11:44Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 742, 'title': 'Extension host terminated unexpectedly.', 'state': 'closed', 'created_at': '2020-09-24T19:22:55Z', 'closed_at': '2020-09-24T19:24:21Z', 'labels': []}
+{'issuenumber': 741, 'title': 'Allow `tree-sitter parse` to collect information about error percentages when parsing multiple files', 'state': 'closed', 'created_at': '2020-09-24T14:31:55Z', 'closed_at': '2020-09-30T17:19:28Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 740, 'title': 'npm distributions', 'state': 'closed', 'created_at': '2020-09-23T17:09:14Z', 'closed_at': '2020-09-23T21:16:00Z', 'labels': {'name': 'question'}}
+{'issuenumber': 739, 'title': 'Custom memory allocation function', 'state': 'closed', 'created_at': '2020-09-22T14:32:59Z', 'closed_at': '2020-11-18T11:28:54Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 737, 'title': 'discuss', 'state': 'closed', 'created_at': '2020-09-19T19:36:21Z', 'closed_at': '2020-10-28T21:37:12Z', 'labels': {'name': 'question'}}
+{'issuenumber': 736, 'title': '🔥Bot--up-discuss~rbst not confident enough to auto-label this issue. See [dashboard](https://mlbot.net/data/tree-sitter/tree-sitter) for more details.', 'state': 'closed', 'created_at': '2020-09-19T19:29:36Z', 'closed_at': '2020-10-16T18:01:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 734, 'title': 'Project setup', 'state': 'closed', 'created_at': '2020-09-18T11:08:23Z', 'closed_at': '2020-09-30T17:13:01Z', 'labels': []}
+{'issuenumber': 726, 'title': 'Potential for generating LSPs?', 'state': 'closed', 'created_at': '2020-09-08T12:15:05Z', 'closed_at': '2020-10-28T22:22:53Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 725, 'title': 'How to extract [Python, Java, Go, …] methods/function metadata?', 'state': 'closed', 'created_at': '2020-09-07T22:06:53Z', 'closed_at': '2020-09-08T13:01:14Z', 'labels': {'name': 'question'}}
+{'issuenumber': 718, 'title': '"cargo build" fails on master', 'state': 'closed', 'created_at': '2020-09-01T11:54:20Z', 'closed_at': '2020-09-23T19:36:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 714, 'title': 'C trigraphs need to be escaped on some platforms', 'state': 'closed', 'created_at': '2020-08-17T22:33:11Z', 'closed_at': '2020-09-23T20:06:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 712, 'title': 'Parsing the empty string twice, while trying to use the previous tree leads to an assert failure', 'state': 'closed', 'created_at': '2020-08-14T20:05:45Z', 'closed_at': '2020-09-23T20:00:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 710, 'title': 'Generated files in git repos are too big for us', 'state': 'closed', 'created_at': '2020-08-10T20:24:15Z', 'closed_at': '2020-08-11T19:01:19Z', 'labels': []}
+{'issuenumber': 704, 'title': 'Document some extra syntax for queries', 'state': 'closed', 'created_at': '2020-08-03T17:14:45Z', 'closed_at': '2020-10-12T19:32:35Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 702, 'title': 'Rule order matters but is not documented', 'state': 'closed', 'created_at': '2020-07-29T16:37:32Z', 'closed_at': '2020-07-29T17:04:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 699, 'title': '400+ terminal rules seams slow to generate', 'state': 'closed', 'created_at': '2020-07-28T10:04:01Z', 'closed_at': '2020-08-07T15:30:10Z', 'labels': []}
+{'issuenumber': 697, 'title': 'Context-aware associativity?', 'state': 'closed', 'created_at': '2020-07-27T17:17:42Z', 'closed_at': '2020-07-31T12:17:44Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 695, 'title': 'Regression when using the field() function in grammar.', 'state': 'closed', 'created_at': '2020-07-22T15:17:04Z', 'closed_at': '2020-07-24T16:28:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 694, 'title': 'Parser performance in context of rules simply pointing to other rules', 'state': 'closed', 'created_at': '2020-07-21T12:40:16Z', 'closed_at': '2020-07-24T16:30:08Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 691, 'title': 'Problem with decimal literal parsing.', 'state': 'closed', 'created_at': '2020-07-15T11:27:04Z', 'closed_at': '2020-07-17T16:10:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 690, 'title': 'presence of conflict causes bogus lexer error', 'state': 'closed', 'created_at': '2020-07-13T17:09:11Z', 'closed_at': '2020-07-13T22:20:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 689, 'title': "Rule functions with the same name don't collide", 'state': 'closed', 'created_at': '2020-07-13T14:51:21Z', 'closed_at': '2020-07-13T20:15:05Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 688, 'title': 'tree-sitter does not detect potential conflict', 'state': 'closed', 'created_at': '2020-07-13T11:44:52Z', 'closed_at': '2020-07-14T17:02:10Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 687, 'title': 'Highlighing and tagging apis?', 'state': 'closed', 'created_at': '2020-07-12T23:25:14Z', 'closed_at': '2020-07-14T23:00:14Z', 'labels': {'name': 'question'}}
+{'issuenumber': 686, 'title': 'Program for viewing debug graph.', 'state': 'closed', 'created_at': '2020-07-12T15:05:49Z', 'closed_at': '2020-07-17T16:39:45Z', 'labels': []}
+{'issuenumber': 685, 'title': 'Range-restricted query execution returns fewer results when there are more patterns', 'state': 'closed', 'created_at': '2020-07-12T14:25:39Z', 'closed_at': '2020-07-17T16:39:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 683, 'title': 'What are the differences between an inline named rule and a rule written inline?', 'state': 'closed', 'created_at': '2020-07-11T03:08:51Z', 'closed_at': '2020-07-17T16:53:07Z', 'labels': {'name': 'question'}}
+{'issuenumber': 682, 'title': 'Running tests with debug-graph panics.', 'state': 'closed', 'created_at': '2020-07-10T13:21:24Z', 'closed_at': '2020-07-10T17:13:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 681, 'title': 'web-tree-sitter: "Error: Can\'t resolve \'fs\'"', 'state': 'closed', 'created_at': '2020-07-10T10:42:59Z', 'closed_at': '2021-08-27T07:40:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 680, 'title': 'Unit testing highlighting', 'state': 'closed', 'created_at': '2020-07-10T01:03:53Z', 'closed_at': '2020-07-13T20:18:10Z', 'labels': []}
+{'issuenumber': 679, 'title': 'The rule matches the empty string.', 'state': 'closed', 'created_at': '2020-07-09T19:04:06Z', 'closed_at': '2020-07-09T19:11:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 678, 'title': 'How is total dynamic precedence calculated?', 'state': 'closed', 'created_at': '2020-07-09T13:25:23Z', 'closed_at': '2020-07-10T05:47:49Z', 'labels': {'name': 'question'}}
+{'issuenumber': 677, 'title': 'Cannot generate on a mac', 'state': 'closed', 'created_at': '2020-07-09T05:24:22Z', 'closed_at': '2020-07-09T16:12:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 676, 'title': "'multiple' field in node-types.json incorrect for fields with repeated elements", 'state': 'closed', 'created_at': '2020-07-08T21:20:03Z', 'closed_at': '2020-07-17T21:20:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 675, 'title': 'Is the treesitter stackoverflow tag watched by anyone or should questions be asked here in the issues?', 'state': 'closed', 'created_at': '2020-07-08T18:03:19Z', 'closed_at': '2020-07-08T21:03:00Z', 'labels': []}
+{'issuenumber': 674, 'title': '[Question] How to handle different versions of a language?', 'state': 'closed', 'created_at': '2020-07-07T11:18:41Z', 'closed_at': '2020-07-17T21:21:21Z', 'labels': {'name': 'question'}}
+{'issuenumber': 673, 'title': 'Will this Keyword Extraction work', 'state': 'closed', 'created_at': '2020-07-07T11:06:10Z', 'closed_at': '2020-07-07T15:49:02Z', 'labels': {'name': 'question'}}
+{'issuenumber': 672, 'title': 'Difference between using const and rules.', 'state': 'closed', 'created_at': '2020-07-07T09:11:31Z', 'closed_at': '2020-07-08T15:17:50Z', 'labels': {'name': 'question'}}
+{'issuenumber': 671, 'title': 'Writing tests during development.', 'state': 'closed', 'created_at': '2020-07-07T08:21:18Z', 'closed_at': '2020-07-08T15:16:08Z', 'labels': {'name': 'question'}}
+{'issuenumber': 669, 'title': '20+ minutes for a 262 byte C++ file', 'state': 'closed', 'created_at': '2020-07-06T21:25:20Z', 'closed_at': '2020-07-06T22:58:40Z', 'labels': []}
+{'issuenumber': 668, 'title': 'grammar.js for case insensitive language', 'state': 'closed', 'created_at': '2020-07-06T21:04:42Z', 'closed_at': '2020-07-10T17:18:46Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 667, 'title': 'Use of tree-sitter CST in LSP servers/compilers.', 'state': 'closed', 'created_at': '2020-07-06T15:56:32Z', 'closed_at': '2020-07-07T15:55:52Z', 'labels': {'name': 'question'}}
+{'issuenumber': 665, 'title': 'How to iterate over all nodes at in a given range ?', 'state': 'closed', 'created_at': '2020-07-01T12:53:55Z', 'closed_at': '2020-10-28T21:58:33Z', 'labels': []}
+{'issuenumber': 663, 'title': 'Code highlight in web-ui?', 'state': 'closed', 'created_at': '2020-06-30T17:27:24Z', 'closed_at': '2020-07-10T17:22:28Z', 'labels': []}
+{'issuenumber': 660, 'title': 'Document `queries/tags.scm`', 'state': 'closed', 'created_at': '2020-06-24T18:31:18Z', 'closed_at': '2022-05-16T21:03:56Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 659, 'title': 'Composability of alternations and field names in query patterns', 'state': 'closed', 'created_at': '2020-06-24T11:59:26Z', 'closed_at': '2020-06-24T21:20:57Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 651, 'title': "adding 'comment' to grammar always gives parse-time error.", 'state': 'closed', 'created_at': '2020-06-20T00:18:41Z', 'closed_at': '2020-07-10T17:29:49Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 649, 'title': "Git master - build is broken: couldn't read cli/src/../../lib/binding_web/tree-sitter.js: No such file or directory (os error 2)", 'state': 'closed', 'created_at': '2020-06-18T04:44:05Z', 'closed_at': '2020-06-18T04:53:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 646, 'title': 'Question: Extending grammars and generating queries programatically', 'state': 'closed', 'created_at': '2020-06-14T10:31:11Z', 'closed_at': '2020-06-28T20:10:43Z', 'labels': {'name': 'question'}}
+{'issuenumber': 643, 'title': 'How to put custom grammar and tree-sitter together?', 'state': 'closed', 'created_at': '2020-06-10T10:24:49Z', 'closed_at': '2020-06-10T16:50:15Z', 'labels': {'name': 'question'}}
+{'issuenumber': 642, 'title': 'thought: using tree-sitter for AST transformation/codegen', 'state': 'closed', 'created_at': '2020-06-09T17:25:38Z', 'closed_at': '2020-06-22T18:05:16Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 641, 'title': 'Failing to compile on rust v1.44', 'state': 'closed', 'created_at': '2020-06-07T18:41:56Z', 'closed_at': '2020-10-28T22:04:49Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 634, 'title': '.captures method returns fewer results than .matches when query cursor has range restriction', 'state': 'closed', 'created_at': '2020-06-03T15:01:42Z', 'closed_at': '2020-09-02T17:28:22Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 633, 'title': 'Incremental parsing bugs when using non-terminal extras', 'state': 'closed', 'created_at': '2020-06-02T03:59:03Z', 'closed_at': '2020-06-04T20:40:05Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 632, 'title': 'What is the precedence in highlighting queries?', 'state': 'closed', 'created_at': '2020-06-01T05:25:29Z', 'closed_at': '2020-10-28T21:59:30Z', 'labels': []}
+{'issuenumber': 629, 'title': 'Question: Possible to re-use a capture in multiple sub queries?', 'state': 'closed', 'created_at': '2020-05-28T17:50:36Z', 'closed_at': '2020-05-28T18:26:07Z', 'labels': []}
+{'issuenumber': 628, 'title': 'Thought on XDG convention', 'state': 'closed', 'created_at': '2020-05-28T07:21:43Z', 'closed_at': '2021-06-30T15:42:54Z', 'labels': []}
+{'issuenumber': 625, 'title': 'Add docs on how to query injected nodes', 'state': 'closed', 'created_at': '2020-05-19T22:05:19Z', 'closed_at': '2020-05-19T23:49:26Z', 'labels': {'name': 'more-information-needed'}}
+{'issuenumber': 623, 'title': 'Fail to generate .wasm', 'state': 'closed', 'created_at': '2020-05-18T12:29:36Z', 'closed_at': '2021-08-27T06:44:33Z', 'labels': []}
+{'issuenumber': 618, 'title': 'Feature Request: Adding support for lisps.', 'state': 'closed', 'created_at': '2020-05-15T13:53:00Z', 'closed_at': '2020-05-15T22:35:03Z', 'labels': []}
+{'issuenumber': 614, 'title': 'TS sometimes swallows conflicts and ignores priorites', 'state': 'closed', 'created_at': '2020-05-10T16:24:43Z', 'closed_at': '2020-05-10T18:29:47Z', 'labels': []}
+{'issuenumber': 613, 'title': 'Incremental parsing and language server protocol', 'state': 'closed', 'created_at': '2020-05-10T00:42:36Z', 'closed_at': '2020-05-10T18:51:44Z', 'labels': []}
+{'issuenumber': 611, 'title': "subtree.c:518: ts_subtree_release: Assertion `self.ptr->ref_count > 0' failed.", 'state': 'closed', 'created_at': '2020-05-06T12:22:19Z', 'closed_at': '2020-05-06T16:30:42Z', 'labels': {'name': 'more-information-needed'}}
+{'issuenumber': 610, 'title': 'tree-sitter-cli on crates.io is an old version', 'state': 'closed', 'created_at': '2020-05-01T02:01:21Z', 'closed_at': '2021-09-03T21:09:52Z', 'labels': []}
+{'issuenumber': 605, 'title': 'Grammars for wasm text formats', 'state': 'closed', 'created_at': '2020-04-26T17:26:37Z', 'closed_at': '2020-05-06T16:34:24Z', 'labels': []}
+{'issuenumber': 603, 'title': 'Pretty print correct code from tree-sitter parse tree', 'state': 'closed', 'created_at': '2020-04-21T21:14:30Z', 'closed_at': '2020-05-19T17:27:18Z', 'labels': []}
+{'issuenumber': 600, 'title': 'Generate Checking', 'state': 'closed', 'created_at': '2020-04-20T04:37:10Z', 'closed_at': '2020-07-10T17:37:21Z', 'labels': []}
+{'issuenumber': 599, 'title': 'anonymousFunctionExprNodes.flatMap is not a function', 'state': 'closed', 'created_at': '2020-04-17T14:51:57Z', 'closed_at': '2020-04-17T16:54:32Z', 'labels': []}
+{'issuenumber': 597, 'title': 'Build compatibility with Alpine', 'state': 'closed', 'created_at': '2020-04-16T08:36:58Z', 'closed_at': '2020-10-28T22:12:52Z', 'labels': []}
+{'issuenumber': 596, 'title': 'Render or Main Process of  Electron', 'state': 'closed', 'created_at': '2020-04-16T07:14:05Z', 'closed_at': '2020-10-28T22:08:48Z', 'labels': []}
+{'issuenumber': 595, 'title': 'How do you get token text?', 'state': 'closed', 'created_at': '2020-04-16T01:48:59Z', 'closed_at': '2020-04-16T03:17:36Z', 'labels': []}
+{'issuenumber': 594, 'title': 'Could it be Used as code generation from one language to another', 'state': 'closed', 'created_at': '2020-04-15T14:53:07Z', 'closed_at': '2020-10-28T22:11:13Z', 'labels': []}
+{'issuenumber': 593, 'title': "A field name named 'field' cannot be queried", 'state': 'closed', 'created_at': '2020-04-14T14:42:45Z', 'closed_at': '2020-04-14T14:49:40Z', 'labels': []}
+{'issuenumber': 590, 'title': 'Generating error nodes', 'state': 'closed', 'created_at': '2020-04-05T23:17:59Z', 'closed_at': '2020-12-05T13:57:39Z', 'labels': []}
+{'issuenumber': 589, 'title': 'Each call of get_column increase the line number of tokens by 1', 'state': 'closed', 'created_at': '2020-04-04T07:22:25Z', 'closed_at': '2021-03-12T00:42:39Z', 'labels': []}
+{'issuenumber': 587, 'title': 'Encoding trees as XML: any preferred namespace URL?', 'state': 'closed', 'created_at': '2020-03-30T13:06:37Z', 'closed_at': '2020-10-28T22:07:53Z', 'labels': []}
+{'issuenumber': 585, 'title': 'Failing test test_highlighting_with_content_children_included', 'state': 'closed', 'created_at': '2020-03-25T10:48:26Z', 'closed_at': '2020-04-07T20:26:45Z', 'labels': []}
+{'issuenumber': 584, 'title': 'Unicode lexer compile times are 20x to 800x slower than ASCII.', 'state': 'closed', 'created_at': '2020-03-21T16:41:31Z', 'closed_at': '2020-05-26T20:39:11Z', 'labels': []}
+{'issuenumber': 582, 'title': 'Move parser api into the parser header', 'state': 'closed', 'created_at': '2020-03-19T11:02:02Z', 'closed_at': '2020-03-19T16:36:19Z', 'labels': []}
+{'issuenumber': 581, 'title': 'RFC: provide a build system for Linux distribution integration', 'state': 'closed', 'created_at': '2020-03-16T06:01:44Z', 'closed_at': '2020-04-22T04:22:39Z', 'labels': []}
+{'issuenumber': 580, 'title': 'Unresolved conflict for symbol sequence even as interpretations have different precedence', 'state': 'closed', 'created_at': '2020-03-15T13:04:59Z', 'closed_at': '2020-03-17T15:14:47Z', 'labels': []}
+{'issuenumber': 579, 'title': 'Use heap after free in test', 'state': 'closed', 'created_at': '2020-03-14T12:56:05Z', 'closed_at': '2020-03-16T21:46:11Z', 'labels': []}
+{'issuenumber': 577, 'title': 'Using tree-sitter + grammar from atom package does not seem to work', 'state': 'closed', 'created_at': '2020-03-13T01:27:54Z', 'closed_at': '2020-03-13T20:07:16Z', 'labels': []}
+{'issuenumber': 575, 'title': 'Oxidize core lib', 'state': 'closed', 'created_at': '2020-03-10T18:46:31Z', 'closed_at': '2021-08-27T13:48:36Z', 'labels': {'name': 'interesting'}}
+{'issuenumber': 574, 'title': 'Using function results in errors', 'state': 'closed', 'created_at': '2020-03-09T21:38:42Z', 'closed_at': '2020-03-09T22:07:36Z', 'labels': []}
+{'issuenumber': 572, 'title': 'Highlighter questions and usability problems', 'state': 'closed', 'created_at': '2020-03-08T22:02:00Z', 'closed_at': '2021-12-13T08:27:50Z', 'labels': []}
+{'issuenumber': 571, 'title': 'Unhandled promise rejection aborts the process', 'state': 'closed', 'created_at': '2020-03-08T14:33:55Z', 'closed_at': '2020-12-01T21:11:00Z', 'labels': []}
+{'issuenumber': 564, 'title': 'Incompatible language version 11', 'state': 'closed', 'created_at': '2020-03-04T12:20:35Z', 'closed_at': '2020-03-04T12:31:38Z', 'labels': []}
+{'issuenumber': 563, 'title': 'Feature request: Generate tmLanguage (and possibly other highlighting formats) from tree-sitter grammar.', 'state': 'closed', 'created_at': '2020-03-03T14:23:43Z', 'closed_at': '2020-03-03T17:40:40Z', 'labels': []}
+{'issuenumber': 560, 'title': 'Question: Multiple highlight names single query ', 'state': 'closed', 'created_at': '2020-02-27T12:32:12Z', 'closed_at': '2020-03-02T23:00:23Z', 'labels': []}
+{'issuenumber': 557, 'title': 'Tree from tab indented text?', 'state': 'closed', 'created_at': '2020-02-25T19:19:00Z', 'closed_at': '2020-03-03T21:03:39Z', 'labels': []}
+{'issuenumber': 555, 'title': 'tree-sitter-web typescript types missing query api', 'state': 'closed', 'created_at': '2020-02-25T06:36:45Z', 'closed_at': '2021-08-26T04:23:56Z', 'labels': []}
+{'issuenumber': 552, 'title': 'Get TSSymbol for many names', 'state': 'closed', 'created_at': '2020-02-20T13:29:43Z', 'closed_at': '2020-02-20T17:31:06Z', 'labels': []}
+{'issuenumber': 547, 'title': "Version 0.1.6 of tree-sitter-highligh on crates.io doesn't build", 'state': 'closed', 'created_at': '2020-02-18T09:58:30Z', 'closed_at': '2020-02-18T16:55:33Z', 'labels': []}
+{'issuenumber': 546, 'title': 'Feature request - add support to generate Rust code instead', 'state': 'closed', 'created_at': '2020-02-18T04:13:11Z', 'closed_at': '2020-02-24T19:31:32Z', 'labels': []}
+{'issuenumber': 545, 'title': 'Alias not being applied to seq', 'state': 'closed', 'created_at': '2020-02-17T18:30:50Z', 'closed_at': '2020-02-17T22:52:46Z', 'labels': []}
+{'issuenumber': 544, 'title': 'Give nodes a unique identifier?', 'state': 'closed', 'created_at': '2020-02-17T17:14:17Z', 'closed_at': '2020-02-18T00:14:50Z', 'labels': []}
+{'issuenumber': 543, 'title': 'Compiling a tree-sitter parser that defines cpp source will break on linking a rust object file due to name mangling', 'state': 'closed', 'created_at': '2020-02-16T08:13:49Z', 'closed_at': '2020-02-19T05:42:01Z', 'labels': []}
+{'issuenumber': 541, 'title': 'Feature request: typescript definition for the DSL', 'state': 'closed', 'created_at': '2020-02-15T15:48:28Z', 'closed_at': '2020-07-19T19:23:50Z', 'labels': []}
+{'issuenumber': 540, 'title': 'Generate a parser.cs (c#)', 'state': 'closed', 'created_at': '2020-02-15T13:38:00Z', 'closed_at': '2020-02-18T16:58:28Z', 'labels': []}
+{'issuenumber': 539, 'title': 'Parser fails on for loop syntax with line continuation', 'state': 'closed', 'created_at': '2020-02-15T06:54:00Z', 'closed_at': '2020-02-15T06:59:59Z', 'labels': []}
+{'issuenumber': 534, 'title': "Why can't I pass tests", 'state': 'closed', 'created_at': '2020-02-07T16:00:11Z', 'closed_at': '2020-02-10T17:37:28Z', 'labels': []}
+{'issuenumber': 533, 'title': 'Permission denied error when exec `tree-sitter build-wasm`', 'state': 'closed', 'created_at': '2020-02-06T16:31:52Z', 'closed_at': '2020-02-10T17:40:33Z', 'labels': []}
+{'issuenumber': 530, 'title': 'Dropping `QueryCursor` leads to dangling pointers', 'state': 'closed', 'created_at': '2020-01-28T04:42:02Z', 'closed_at': '2020-01-28T17:16:44Z', 'labels': []}
+{'issuenumber': 529, 'title': '🎨 Diffrent `Syntax Highlighting` for each language... Is that possible?', 'state': 'closed', 'created_at': '2020-01-26T20:41:47Z', 'closed_at': '2020-01-26T22:00:11Z', 'labels': []}
+{'issuenumber': 528, 'title': 'Serialize tree to JSON object', 'state': 'closed', 'created_at': '2020-01-24T03:10:21Z', 'closed_at': '2020-01-24T20:44:19Z', 'labels': []}
+{'issuenumber': 524, 'title': 'Document supertypes in the parser creation page and in grammar-schema.json', 'state': 'closed', 'created_at': '2020-01-13T00:31:42Z', 'closed_at': '2020-02-25T00:15:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 523, 'title': 'grammar-schema.json does not allow `type: "FIELD"`', 'state': 'closed', 'created_at': '2020-01-12T23:52:43Z', 'closed_at': '2020-01-26T22:08:40Z', 'labels': []}
+{'issuenumber': 522, 'title': 'prec not behaving as expected', 'state': 'closed', 'created_at': '2020-01-12T14:35:10Z', 'closed_at': '2020-02-10T17:51:50Z', 'labels': []}
+{'issuenumber': 519, 'title': "[Question] Can't parse valid code", 'state': 'closed', 'created_at': '2020-01-07T15:00:43Z', 'closed_at': '2020-01-07T22:16:31Z', 'labels': {'name': 'question'}}
+{'issuenumber': 518, 'title': 'GLR parsing for similar regexs', 'state': 'closed', 'created_at': '2020-01-07T03:14:05Z', 'closed_at': '2020-01-07T22:20:04Z', 'labels': {'name': 'question'}}
+{'issuenumber': 517, 'title': 'Conflicts in RegExp', 'state': 'closed', 'created_at': '2020-01-05T15:10:57Z', 'closed_at': '2020-01-07T22:22:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 516, 'title': 'get_column causes infinite loop', 'state': 'closed', 'created_at': '2020-01-05T13:14:32Z', 'closed_at': '2021-03-12T00:42:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 515, 'title': 'Semantic modifiers', 'state': 'closed', 'created_at': '2020-01-05T10:56:52Z', 'closed_at': '2020-01-07T22:27:10Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 513, 'title': 'Minor fixes for building tree-sitter with MinGW', 'state': 'closed', 'created_at': '2020-01-03T09:54:26Z', 'closed_at': '2020-01-06T17:21:41Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 512, 'title': 'TCL grammar', 'state': 'closed', 'created_at': '2020-01-01T19:52:06Z', 'closed_at': '2020-02-10T18:08:08Z', 'labels': []}
+{'issuenumber': 511, 'title': 'Tree-sitter generates invalid code for grammars with large numbers of fields and/or aliases', 'state': 'closed', 'created_at': '2019-12-30T01:45:43Z', 'closed_at': '2021-02-26T04:21:22Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 510, 'title': 'Incompatible language version when using wasm version on a browser', 'state': 'closed', 'created_at': '2019-12-24T17:22:07Z', 'closed_at': '2020-01-04T21:50:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 509, 'title': 'Options for GitHub syntax highlighting?', 'state': 'closed', 'created_at': '2019-12-18T01:04:18Z', 'closed_at': '2020-02-10T17:50:55Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 508, 'title': 'http://tree-sitter.github.io/tree-sitter/ should have a front-and-center link to this repo', 'state': 'closed', 'created_at': '2019-12-18T01:00:00Z', 'closed_at': '2020-02-12T20:02:00Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 506, 'title': "Don't force local browser to open with web-ui", 'state': 'closed', 'created_at': '2019-12-14T15:34:08Z', 'closed_at': '2020-05-16T06:56:41Z', 'labels': []}
+{'issuenumber': 503, 'title': 'Web-ui HTML missing encoding', 'state': 'closed', 'created_at': '2019-12-07T02:42:41Z', 'closed_at': '2019-12-07T03:46:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 497, 'title': 'Whitespace as node', 'state': 'closed', 'created_at': '2019-12-02T20:48:16Z', 'closed_at': '2019-12-05T23:37:46Z', 'labels': {'name': 'question'}}
+{'issuenumber': 487, 'title': 'Represent form feed character using an escape sequence in generated parsers', 'state': 'closed', 'created_at': '2019-11-12T18:47:20Z', 'closed_at': '2019-11-13T18:54:43Z', 'labels': []}
+{'issuenumber': 486, 'title': 'Unable to build the library', 'state': 'closed', 'created_at': '2019-11-11T18:53:31Z', 'closed_at': '2019-11-11T23:45:12Z', 'labels': []}
+{'issuenumber': 485, 'title': 'Unexpectedly failed parsing', 'state': 'closed', 'created_at': '2019-11-11T14:45:52Z', 'closed_at': '2019-11-12T00:01:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 484, 'title': 'sd', 'state': 'closed', 'created_at': '2019-11-11T14:28:46Z', 'closed_at': '2019-11-11T14:29:13Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 483, 'title': 'Unclear meaning of alias behaviour', 'state': 'closed', 'created_at': '2019-11-11T13:45:18Z', 'closed_at': '2019-11-15T18:55:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 482, 'title': 'Append scopes instead of overriding them', 'state': 'closed', 'created_at': '2019-11-10T15:02:08Z', 'closed_at': '2019-11-13T18:51:17Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 480, 'title': 'Repeated named children', 'state': 'closed', 'created_at': '2019-11-08T17:45:22Z', 'closed_at': '2019-11-08T22:22:16Z', 'labels': []}
+{'issuenumber': 478, 'title': 'Build fails using Cargo', 'state': 'closed', 'created_at': '2019-11-04T15:28:04Z', 'closed_at': '2019-11-04T22:36:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 477, 'title': 'tree-sitter cli broken and missing debug information.', 'state': 'closed', 'created_at': '2019-11-02T17:01:44Z', 'closed_at': '2019-11-03T22:02:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 476, 'title': 'Mention npx option in docs', 'state': 'closed', 'created_at': '2019-11-01T21:32:07Z', 'closed_at': '2019-11-01T23:38:35Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 470, 'title': 'Downloading a prebuilt binary of tree-sitter fails with tree-sitter-cli 0.15.12', 'state': 'closed', 'created_at': '2019-10-22T20:20:04Z', 'closed_at': '2019-10-22T20:32:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 468, 'title': 'Testing with tree-sitter-cli fails after upgrade to 0.15.11', 'state': 'closed', 'created_at': '2019-10-21T08:12:51Z', 'closed_at': '2019-10-21T16:22:57Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 466, 'title': "webpack with web-tree-sitter, Module not found: Error: Can't resolve 'fs' in 'node_modules/web-tree-sitter'", 'state': 'closed', 'created_at': '2019-10-19T22:02:08Z', 'closed_at': '2019-10-22T21:56:43Z', 'labels': []}
+{'issuenumber': 464, 'title': 'Lexer bloat when supporting large character classes', 'state': 'closed', 'created_at': '2019-10-15T18:51:34Z', 'closed_at': '2020-05-26T20:39:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 458, 'title': 'Generated node-types.json files are incorrect when repeating regexps', 'state': 'closed', 'created_at': '2019-10-03T21:50:52Z', 'closed_at': '2019-10-14T19:27:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 455, 'title': "Generated node-types.json files don't handle aliases correctly", 'state': 'closed', 'created_at': '2019-10-01T16:25:05Z', 'closed_at': '2019-10-02T20:59:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 452, 'title': "Generated parser.c includes '0x1a' literal which fails compilation on windows", 'state': 'closed', 'created_at': '2019-09-25T14:16:53Z', 'closed_at': '2019-11-13T18:57:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 451, 'title': 'Unicode Plane0 surrogates not supported', 'state': 'closed', 'created_at': '2019-09-24T18:14:07Z', 'closed_at': '2019-09-25T13:59:02Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 447, 'title': 'compiled parser produces different result than tree sitter cli parse command', 'state': 'closed', 'created_at': '2019-09-18T14:06:35Z', 'closed_at': '2019-09-19T20:40:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 446, 'title': 'Docs for ts_node_is_extra duplicate the docs for ts_node_is_missing', 'state': 'closed', 'created_at': '2019-09-16T18:18:21Z', 'closed_at': '2019-11-05T17:49:23Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 445, 'title': 'ts_tree_edit: Can I use only bytes and not TSPosition?', 'state': 'closed', 'created_at': '2019-09-16T17:10:44Z', 'closed_at': '2019-11-05T18:17:45Z', 'labels': []}
+{'issuenumber': 434, 'title': 'tree-sitter-cli cannot run emcc on windows', 'state': 'closed', 'created_at': '2019-08-23T11:53:15Z', 'closed_at': '2021-04-05T19:55:44Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 431, 'title': 'rust bindings: Linking fails on Windows', 'state': 'closed', 'created_at': '2019-08-21T15:32:15Z', 'closed_at': '2019-08-21T18:59:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 429, 'title': 'Example with HTML parser not working', 'state': 'closed', 'created_at': '2019-08-17T14:51:30Z', 'closed_at': '2019-08-19T17:21:22Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 425, 'title': 'Maintaining partial sums of children length in parent', 'state': 'closed', 'created_at': '2019-08-14T17:55:24Z', 'closed_at': '2019-08-14T20:44:51Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 423, 'title': 'Document minimum C compiler version', 'state': 'closed', 'created_at': '2019-08-13T22:11:25Z', 'closed_at': '2019-08-15T16:50:59Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 421, 'title': "Can't use rust bindings", 'state': 'closed', 'created_at': '2019-08-11T19:46:23Z', 'closed_at': '2019-08-13T18:44:23Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 420, 'title': 'Possibly UB', 'state': 'closed', 'created_at': '2019-08-11T18:25:16Z', 'closed_at': '2019-08-12T18:28:14Z', 'labels': []}
+{'issuenumber': 419, 'title': 'Segfault in Rust binding', 'state': 'closed', 'created_at': '2019-08-11T13:38:46Z', 'closed_at': '2019-08-11T16:23:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 418, 'title': 'Thoughts on generating parsers in Rust', 'state': 'closed', 'created_at': '2019-08-10T22:14:25Z', 'closed_at': '2019-08-12T18:26:01Z', 'labels': []}
+{'issuenumber': 417, 'title': 'Tree-sitter API: Obtaining field information', 'state': 'closed', 'created_at': '2019-08-09T23:12:09Z', 'closed_at': '2019-08-09T23:53:00Z', 'labels': {'name': 'question'}}
+{'issuenumber': 416, 'title': 'Documentation about tree node fields', 'state': 'closed', 'created_at': '2019-08-09T22:14:56Z', 'closed_at': '2019-11-05T18:19:56Z', 'labels': []}
+{'issuenumber': 414, 'title': 'ld: symbol(s) not found for architecture x86_64', 'state': 'closed', 'created_at': '2019-08-07T19:28:46Z', 'closed_at': '2019-08-08T20:11:51Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 412, 'title': 'Expose utility for computing (row, column) from index', 'state': 'closed', 'created_at': '2019-08-03T11:41:32Z', 'closed_at': '2019-08-03T17:03:12Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 411, 'title': 'Tests for ts_tree_edit', 'state': 'closed', 'created_at': '2019-08-03T11:13:14Z', 'closed_at': '2019-08-03T16:47:56Z', 'labels': []}
+{'issuenumber': 410, 'title': 'Optimize file size for WASM language builds', 'state': 'closed', 'created_at': '2019-08-03T08:38:12Z', 'closed_at': '2019-08-31T04:40:52Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 409, 'title': 'Build Errors on Node.js v12', 'state': 'closed', 'created_at': '2019-08-03T07:40:47Z', 'closed_at': '2019-08-06T22:29:31Z', 'labels': []}
+{'issuenumber': 407, 'title': 'descendantForPosition changes behavior', 'state': 'closed', 'created_at': '2019-08-01T00:17:42Z', 'closed_at': '2019-08-01T22:29:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 404, 'title': 'Comparing a node text causes heavy cpu load', 'state': 'closed', 'created_at': '2019-07-30T23:51:31Z', 'closed_at': '2019-07-31T20:55:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 402, 'title': 'Tests of various grammars fail in locales with "," decimal separator', 'state': 'closed', 'created_at': '2019-07-30T06:29:16Z', 'closed_at': '2019-09-04T16:35:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 401, 'title': 'Unclear alias() behavior (+ I would like to improve the documentation on this)', 'state': 'closed', 'created_at': '2019-07-29T11:59:44Z', 'closed_at': '2019-08-29T21:30:54Z', 'labels': []}
+{'issuenumber': 400, 'title': 'Using tree-sitter within wasm client-side web app', 'state': 'closed', 'created_at': '2019-07-27T13:10:40Z', 'closed_at': '2019-08-08T09:43:43Z', 'labels': []}
+{'issuenumber': 399, 'title': 'Help with setting up an injection', 'state': 'closed', 'created_at': '2019-07-26T17:48:53Z', 'closed_at': '2019-09-04T16:38:35Z', 'labels': {'name': 'question'}}
+{'issuenumber': 398, 'title': 'Assertion failed error with web-tree-sitter', 'state': 'closed', 'created_at': '2019-07-25T19:29:29Z', 'closed_at': '2020-12-05T17:01:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 397, 'title': "Is TSPoint's column counting on bytes or chars?", 'state': 'closed', 'created_at': '2019-07-25T12:57:37Z', 'closed_at': '2019-07-25T16:33:21Z', 'labels': {'name': 'question'}}
+{'issuenumber': 396, 'title': 'What are the relationships between is_missing, is_error, has_error in the Rust binding?', 'state': 'closed', 'created_at': '2019-07-25T12:18:11Z', 'closed_at': '2019-11-08T22:23:54Z', 'labels': []}
+{'issuenumber': 395, 'title': 'How to use a parser in rust?', 'state': 'closed', 'created_at': '2019-07-23T18:20:48Z', 'closed_at': '2019-07-28T21:29:09Z', 'labels': {'name': 'question'}}
+{'issuenumber': 394, 'title': 'wasm implementation of descendantsOfType causing out of bounds error', 'state': 'closed', 'created_at': '2019-07-21T21:48:36Z', 'closed_at': '2019-07-30T00:19:06Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 393, 'title': 'What are supertypes?', 'state': 'closed', 'created_at': '2019-07-19T17:39:07Z', 'closed_at': '2020-02-24T19:12:49Z', 'labels': {'name': 'question'}}
+{'issuenumber': 388, 'title': 'Fuzzing a tree sitter parser', 'state': 'closed', 'created_at': '2019-07-13T23:14:27Z', 'closed_at': '2019-07-16T21:37:55Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 386, 'title': 'Support callbacks that return String instead of slice in Rust binding', 'state': 'closed', 'created_at': '2019-07-10T09:39:13Z', 'closed_at': '2019-08-29T17:40:09Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 385, 'title': 'Is Python 2 a dependency?', 'state': 'closed', 'created_at': '2019-07-09T16:17:22Z', 'closed_at': '2019-07-16T21:49:05Z', 'labels': {'name': 'question'}}
+{'issuenumber': 380, 'title': 'CURLY_BRACE_REGEX mangles regex properties', 'state': 'closed', 'created_at': '2019-07-08T03:24:35Z', 'closed_at': '2021-02-18T00:14:42Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 379, 'title': 'Creating a Tree Language to Generate Tree-Sitter Grammars?', 'state': 'closed', 'created_at': '2019-07-06T18:45:02Z', 'closed_at': '2019-07-16T21:57:29Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 378, 'title': 'Issue with highlighting in atom', 'state': 'closed', 'created_at': '2019-07-03T19:09:34Z', 'closed_at': '2019-07-16T21:53:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 377, 'title': 'Tree Sitter failing when integrating with Atom', 'state': 'closed', 'created_at': '2019-07-03T17:02:24Z', 'closed_at': '2019-07-03T17:29:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 376, 'title': 'Verilog parser in the playground', 'state': 'closed', 'created_at': '2019-06-30T04:34:36Z', 'closed_at': '2019-07-16T21:56:28Z', 'labels': []}
+{'issuenumber': 372, 'title': 'Production vs Operator Precedence. How does it work in Treesitter?', 'state': 'closed', 'created_at': '2019-06-26T01:33:48Z', 'closed_at': '2019-11-05T18:18:34Z', 'labels': {'name': 'question'}}
+{'issuenumber': 371, 'title': 'Running out of memory while generating WASM version of tree-sitter-verilog', 'state': 'closed', 'created_at': '2019-06-25T04:40:32Z', 'closed_at': '2019-11-05T19:55:05Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 370, 'title': 'TSInput raed function', 'state': 'closed', 'created_at': '2019-06-23T15:04:33Z', 'closed_at': '2019-06-23T15:32:46Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 369, 'title': '`tree-sitter test` attempts to read vim swp files, which results in "stream not valid UTF-8" errors', 'state': 'closed', 'created_at': '2019-06-20T15:39:41Z', 'closed_at': '2019-11-05T17:55:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 366, 'title': 'grammar rules graph generation', 'state': 'closed', 'created_at': '2019-06-15T02:42:22Z', 'closed_at': '2019-07-16T22:05:52Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 364, 'title': 'Incorrect parsing behavior when NDEBUG macro is defined', 'state': 'closed', 'created_at': '2019-06-14T19:57:04Z', 'closed_at': '2019-06-14T21:23:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 362, 'title': 'npm i web-tree-sitter :: fail on Node 12', 'state': 'closed', 'created_at': '2019-06-13T18:46:07Z', 'closed_at': '2019-06-13T18:48:05Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 359, 'title': 'Thread-safety question', 'state': 'closed', 'created_at': '2019-06-12T15:00:40Z', 'closed_at': '2019-06-13T18:41:44Z', 'labels': {'name': 'question'}}
+{'issuenumber': 358, 'title': 'build-wasm on Windows', 'state': 'closed', 'created_at': '2019-06-10T10:11:21Z', 'closed_at': '2019-06-10T18:40:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 357, 'title': 'Parsing error when property sheet files use CRLF line endings', 'state': 'closed', 'created_at': '2019-06-09T23:29:35Z', 'closed_at': '2019-11-05T17:50:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 356, 'title': 'Where to find tree-sitter support?', 'state': 'closed', 'created_at': '2019-06-09T16:54:08Z', 'closed_at': '2020-10-28T22:15:08Z', 'labels': {'name': 'question'}}
+{'issuenumber': 353, 'title': 'Cannot build with cargo build', 'state': 'closed', 'created_at': '2019-06-06T20:12:18Z', 'closed_at': '2020-09-23T20:10:23Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 352, 'title': 'Cannot install tree-sitter-cli with cargo', 'state': 'closed', 'created_at': '2019-06-06T19:50:53Z', 'closed_at': '2019-06-06T20:13:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 350, 'title': 'tree-sitter/emscripten mismatch?', 'state': 'closed', 'created_at': '2019-06-03T22:34:28Z', 'closed_at': '2019-06-04T23:39:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 349, 'title': 'descendantsOfType missing from web-tree-sitter typescript definition', 'state': 'closed', 'created_at': '2019-06-01T00:09:36Z', 'closed_at': '2019-07-17T16:22:46Z', 'labels': []}
+{'issuenumber': 344, 'title': 'Release and publish to npm?', 'state': 'closed', 'created_at': '2019-05-29T23:24:12Z', 'closed_at': '2019-05-31T17:27:03Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 341, 'title': '[Language Request] Lua', 'state': 'closed', 'created_at': '2019-05-25T23:00:08Z', 'closed_at': '2019-05-31T16:21:42Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 339, 'title': '\'tree-sitter parse the-file\' throws error following tutorial "The system cannot find the file specified (os error 2)"', 'state': 'closed', 'created_at': '2019-05-23T20:54:54Z', 'closed_at': '2019-05-31T20:38:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 338, 'title': 'Loading wasm language within a node environment fails on Windows', 'state': 'closed', 'created_at': '2019-05-23T11:16:51Z', 'closed_at': '2019-05-23T23:12:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 337, 'title': 'wasm memory out of bounds', 'state': 'closed', 'created_at': '2019-05-22T18:12:00Z', 'closed_at': '2019-05-22T19:37:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 335, 'title': 'How to package for electron', 'state': 'closed', 'created_at': '2019-05-20T07:05:04Z', 'closed_at': '2019-05-21T05:20:43Z', 'labels': {'name': 'question'}}
+{'issuenumber': 329, 'title': 'Parsing newline issue after updating from 0.13.x to 0.14.x', 'state': 'closed', 'created_at': '2019-05-05T22:39:09Z', 'closed_at': '2020-02-10T18:30:07Z', 'labels': []}
+{'issuenumber': 326, 'title': 'test fails with "stream did not contain valid UTF-8" since 0.14.* on macOS', 'state': 'closed', 'created_at': '2019-05-02T23:32:44Z', 'closed_at': '2019-11-05T17:55:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 325, 'title': "Node 12 doesn't compile", 'state': 'closed', 'created_at': '2019-04-30T16:21:19Z', 'closed_at': '2019-05-01T19:29:48Z', 'labels': []}
+{'issuenumber': 324, 'title': 'How to find performance problems', 'state': 'closed', 'created_at': '2019-04-29T21:30:51Z', 'closed_at': '2019-05-31T11:14:14Z', 'labels': {'name': 'question'}}
+{'issuenumber': 322, 'title': 'allow extras inside extras', 'state': 'closed', 'created_at': '2019-04-26T09:17:05Z', 'closed_at': '2021-08-26T01:44:03Z', 'labels': {'name': 'feature_request'}}
+{'issuenumber': 318, 'title': 'parsers with duplicate symbols?', 'state': 'closed', 'created_at': '2019-04-06T13:57:05Z', 'closed_at': '2019-04-06T20:32:13Z', 'labels': []}
+{'issuenumber': 317, 'title': 'Could http://tree-sitter.github.io/ be made to redirect to /tree-sitter', 'state': 'closed', 'created_at': '2019-04-05T10:06:32Z', 'closed_at': '2019-04-19T22:14:35Z', 'labels': []}
+{'issuenumber': 316, 'title': 'External scanners should be able to produce tokens without calling `advance`', 'state': 'closed', 'created_at': '2019-04-04T21:21:08Z', 'closed_at': '2019-04-08T22:02:02Z', 'labels': []}
+{'issuenumber': 315, 'title': 'parser.h in tree-sitter repo is different from those in tree-sitter-c and tree-sitter-cpp', 'state': 'closed', 'created_at': '2019-04-01T16:24:40Z', 'closed_at': '2019-04-02T22:12:59Z', 'labels': []}
+{'issuenumber': 314, 'title': '`get_column` causing side effects', 'state': 'closed', 'created_at': '2019-04-01T08:23:55Z', 'closed_at': '2021-07-13T22:39:35Z', 'labels': []}
+{'issuenumber': 313, 'title': 'Logging from scanner.cc', 'state': 'closed', 'created_at': '2019-03-30T14:05:44Z', 'closed_at': '2019-04-09T22:13:12Z', 'labels': []}
+{'issuenumber': 312, 'title': '`get_column` acting weird before unicode symbols.', 'state': 'closed', 'created_at': '2019-03-27T07:57:29Z', 'closed_at': '2019-11-05T18:24:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 311, 'title': 'Support :nth-last-child in syntax style sheets', 'state': 'closed', 'created_at': '2019-03-27T06:34:34Z', 'closed_at': '2019-11-05T17:52:05Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 305, 'title': "Missing field 'value' error detail", 'state': 'closed', 'created_at': '2019-03-16T00:44:53Z', 'closed_at': '2019-04-05T20:04:45Z', 'labels': []}
+{'issuenumber': 303, 'title': 'Stale code: build fails when DEBUG_GET_CHANGED_RANGES is defined', 'state': 'closed', 'created_at': '2019-03-14T20:40:44Z', 'closed_at': '2019-03-14T23:50:18Z', 'labels': []}
+{'issuenumber': 302, 'title': 'Test failure: real language corpus test fails when LOG_GRAPH_ENABLED', 'state': 'closed', 'created_at': '2019-03-14T20:28:42Z', 'closed_at': '2019-03-14T21:01:03Z', 'labels': []}
+{'issuenumber': 299, 'title': 'Case insensitive grammar support', 'state': 'closed', 'created_at': '2019-03-12T20:48:48Z', 'closed_at': '2019-03-12T21:03:24Z', 'labels': []}
+{'issuenumber': 298, 'title': 'Rationale for token-content-targeting highlight rules', 'state': 'closed', 'created_at': '2019-03-12T13:58:56Z', 'closed_at': '2019-03-12T18:58:50Z', 'labels': []}
+{'issuenumber': 297, 'title': 'Given context-aware lexing, how do you enforce keywords ending on word boundaries', 'state': 'closed', 'created_at': '2019-03-12T13:50:01Z', 'closed_at': '2019-03-12T14:20:05Z', 'labels': []}
+{'issuenumber': 296, 'title': 'Syntax rely on regex assertions', 'state': 'closed', 'created_at': '2019-03-10T05:34:03Z', 'closed_at': '2019-03-11T22:01:34Z', 'labels': []}
+{'issuenumber': 292, 'title': 'Int types instead of string', 'state': 'closed', 'created_at': '2019-03-01T13:32:23Z', 'closed_at': '2019-03-02T15:41:02Z', 'labels': []}
+{'issuenumber': 291, 'title': 'wasm-tree-sitter', 'state': 'closed', 'created_at': '2019-03-01T00:32:44Z', 'closed_at': '2019-03-01T22:14:48Z', 'labels': []}
+{'issuenumber': 290, 'title': 'How to use Parse Tree for code analysis?', 'state': 'closed', 'created_at': '2019-02-28T18:37:26Z', 'closed_at': '2019-02-28T19:38:46Z', 'labels': []}
+{'issuenumber': 289, 'title': 'Unicode regex range escaping lost in grammar.js', 'state': 'closed', 'created_at': '2019-02-27T00:49:06Z', 'closed_at': '2019-03-04T18:10:14Z', 'labels': []}
+{'issuenumber': 288, 'title': 'parser in the infinite loop', 'state': 'closed', 'created_at': '2019-02-26T01:46:40Z', 'closed_at': '2019-02-26T23:34:27Z', 'labels': []}
+{'issuenumber': 287, 'title': '0-indexed line numbers in CLI output', 'state': 'closed', 'created_at': '2019-02-24T22:26:31Z', 'closed_at': '2019-03-15T16:05:16Z', 'labels': []}
+{'issuenumber': 286, 'title': 'Codepoint support in regular expressions', 'state': 'closed', 'created_at': '2019-02-24T08:03:19Z', 'closed_at': '2019-07-08T04:22:03Z', 'labels': []}
+{'issuenumber': 285, 'title': 'No error recovery?', 'state': 'closed', 'created_at': '2019-02-21T03:51:05Z', 'closed_at': '2019-02-21T07:53:33Z', 'labels': []}
+{'issuenumber': 284, 'title': 'Disable whitespace parsing on a method level', 'state': 'closed', 'created_at': '2019-02-19T22:43:40Z', 'closed_at': '2019-03-04T05:33:56Z', 'labels': []}
+{'issuenumber': 282, 'title': "Prebuilt linux binary doesn't work on CentOS/RHEL/Oracle Linux 7", 'state': 'closed', 'created_at': '2019-02-19T00:57:20Z', 'closed_at': '2019-11-05T17:53:53Z', 'labels': []}
+{'issuenumber': 281, 'title': 'Document external scanners', 'state': 'closed', 'created_at': '2019-02-17T02:18:21Z', 'closed_at': '2019-02-22T17:35:38Z', 'labels': []}
+{'issuenumber': 280, 'title': 'Is there a way to distinguish between EOF and the \\0 character in external scanners?', 'state': 'closed', 'created_at': '2019-02-16T19:58:46Z', 'closed_at': '2019-10-31T22:58:50Z', 'labels': []}
+{'issuenumber': 279, 'title': 'tree-sitter-cli v0.14.4 is broken', 'state': 'closed', 'created_at': '2019-02-15T07:23:46Z', 'closed_at': '2019-02-25T23:13:58Z', 'labels': []}
+{'issuenumber': 278, 'title': "No such file or directory (os error 2) when running 'tree-sitter generate'", 'state': 'closed', 'created_at': '2019-02-14T10:29:37Z', 'closed_at': '2019-02-14T18:57:42Z', 'labels': []}
+{'issuenumber': 277, 'title': '`tree-sitter parse` fails with "symbol not found" if npm package has a scope', 'state': 'closed', 'created_at': '2019-02-14T02:19:07Z', 'closed_at': '2019-02-14T03:31:57Z', 'labels': []}
+{'issuenumber': 276, 'title': 'css highlighting not complete', 'state': 'closed', 'created_at': '2019-02-13T16:48:16Z', 'closed_at': '2019-02-15T01:13:17Z', 'labels': []}
+{'issuenumber': 275, 'title': 'Grammar test coverage', 'state': 'closed', 'created_at': '2019-02-11T21:14:05Z', 'closed_at': '2019-11-05T18:05:38Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 274, 'title': 'SystemRDL grammar', 'state': 'closed', 'created_at': '2019-02-11T19:45:48Z', 'closed_at': '2019-06-13T18:48:51Z', 'labels': []}
+{'issuenumber': 272, 'title': 'Failure when updating 0.13.15 -> 0.14.2', 'state': 'closed', 'created_at': '2019-02-10T14:19:39Z', 'closed_at': '2019-02-14T03:31:57Z', 'labels': []}
+{'issuenumber': 269, 'title': '[documentation] following instructions does not work for minimal grammar', 'state': 'closed', 'created_at': '2019-02-03T20:42:21Z', 'closed_at': '2019-02-03T22:34:40Z', 'labels': []}
+{'issuenumber': 268, 'title': 'grammar conflict sub-chains', 'state': 'closed', 'created_at': '2019-01-21T19:21:02Z', 'closed_at': '2019-01-21T21:16:48Z', 'labels': []}
+{'issuenumber': 266, 'title': 'Missing parser for XML', 'state': 'closed', 'created_at': '2019-01-09T08:29:05Z', 'closed_at': '2019-11-05T18:21:56Z', 'labels': []}
+{'issuenumber': 265, 'title': 'Creating a binary package', 'state': 'closed', 'created_at': '2019-01-09T08:27:36Z', 'closed_at': '2019-01-18T01:17:34Z', 'labels': []}
+{'issuenumber': 264, 'title': 'ACCEPT_TOKEN error in generated parser', 'state': 'closed', 'created_at': '2019-01-09T04:58:04Z', 'closed_at': '2019-01-19T04:31:29Z', 'labels': []}
+{'issuenumber': 263, 'title': 'Failed to load grammar (DLL initialization routine failed)', 'state': 'closed', 'created_at': '2019-01-08T12:43:24Z', 'closed_at': '2019-01-18T01:19:52Z', 'labels': []}
+{'issuenumber': 262, 'title': 'using end line as statement separator', 'state': 'closed', 'created_at': '2019-01-05T16:12:41Z', 'closed_at': '2019-03-12T23:34:55Z', 'labels': []}
+{'issuenumber': 259, 'title': 'MacOS 10.13, Visual Studio Code 1.3, Bash IDE, trying to install the bash-language-server', 'state': 'closed', 'created_at': '2019-01-03T12:53:25Z', 'closed_at': '2019-01-04T20:39:53Z', 'labels': []}
+{'issuenumber': 258, 'title': "subtree.h:159: ts_subtree_set_symbol: Assertion `symbol < (255)' failed.", 'state': 'closed', 'created_at': '2019-01-02T06:16:24Z', 'closed_at': '2019-01-19T04:30:59Z', 'labels': []}
+{'issuenumber': 256, 'title': 'Should third party parsers be mentioned in the docs?', 'state': 'closed', 'created_at': '2018-12-28T15:07:28Z', 'closed_at': '2019-11-05T18:00:44Z', 'labels': []}
+{'issuenumber': 254, 'title': 'Using parsers in C++', 'state': 'closed', 'created_at': '2018-12-21T04:23:44Z', 'closed_at': '2019-01-05T03:41:47Z', 'labels': []}
+{'issuenumber': 253, 'title': 'Blocks ESLint lints with flow language', 'state': 'closed', 'created_at': '2018-12-20T15:56:56Z', 'closed_at': '2018-12-20T21:52:38Z', 'labels': []}
+{'issuenumber': 252, 'title': 'WebAssembly bindings', 'state': 'closed', 'created_at': '2018-12-19T00:36:30Z', 'closed_at': '2019-04-28T00:50:42Z', 'labels': []}
+{'issuenumber': 250, 'title': 'Failed runtime stack assertion', 'state': 'closed', 'created_at': '2018-12-16T03:26:08Z', 'closed_at': '2019-11-05T18:04:23Z', 'labels': []}
+{'issuenumber': 248, 'title': 'Adding vala bindings', 'state': 'closed', 'created_at': '2018-12-12T14:42:29Z', 'closed_at': '2019-01-09T08:22:14Z', 'labels': []}
+{'issuenumber': 247, 'title': '`optional()` function silently accepts multiple arguments', 'state': 'closed', 'created_at': '2018-12-05T08:42:28Z', 'closed_at': '2019-02-06T17:31:41Z', 'labels': []}
+{'issuenumber': 245, 'title': '[Question] outputting highlighted syntax', 'state': 'closed', 'created_at': '2018-12-03T05:30:08Z', 'closed_at': '2018-12-05T05:32:57Z', 'labels': []}
+{'issuenumber': 243, 'title': 'tree-sitter compatibility version', 'state': 'closed', 'created_at': '2018-11-28T14:35:41Z', 'closed_at': '2018-11-28T18:49:22Z', 'labels': []}
+{'issuenumber': 242, 'title': 'difference between ts_node_edit and ts_tree_edit', 'state': 'closed', 'created_at': '2018-11-26T23:00:27Z', 'closed_at': '2018-11-27T19:31:30Z', 'labels': []}
+{'issuenumber': 241, 'title': 'Alias does not work on single use rules', 'state': 'closed', 'created_at': '2018-11-26T17:45:01Z', 'closed_at': '2019-03-12T23:30:46Z', 'labels': []}
+{'issuenumber': 240, 'title': '[Question] Ignoring generated files using Git', 'state': 'closed', 'created_at': '2018-11-25T12:29:25Z', 'closed_at': '2020-11-30T20:35:27Z', 'labels': []}
+{'issuenumber': 238, 'title': 'Help parsing after an error', 'state': 'closed', 'created_at': '2018-11-24T20:41:28Z', 'closed_at': '2020-11-03T20:22:51Z', 'labels': []}
+{'issuenumber': 237, 'title': 'Verilog grammar', 'state': 'closed', 'created_at': '2018-11-24T05:38:16Z', 'closed_at': '2018-11-28T18:47:16Z', 'labels': []}
+{'issuenumber': 233, 'title': 'Troubles resolving conflicts', 'state': 'closed', 'created_at': '2018-11-19T14:21:38Z', 'closed_at': '2018-12-09T08:30:48Z', 'labels': []}
+{'issuenumber': 231, 'title': 'enhancement: return count of TSNode in the tree', 'state': 'closed', 'created_at': '2018-11-12T09:48:08Z', 'closed_at': '2018-11-12T21:35:57Z', 'labels': []}
+{'issuenumber': 228, 'title': 'json grammar fails', 'state': 'closed', 'created_at': '2018-11-10T09:32:18Z', 'closed_at': '2018-11-13T23:37:54Z', 'labels': []}
+{'issuenumber': 224, 'title': 'Error-recovery strategy', 'state': 'closed', 'created_at': '2018-11-07T16:11:39Z', 'closed_at': '2018-11-09T08:10:43Z', 'labels': []}
+{'issuenumber': 223, 'title': 'Navigating syntax trees', 'state': 'closed', 'created_at': '2018-11-05T20:18:13Z', 'closed_at': '2018-11-06T09:11:44Z', 'labels': []}
+{'issuenumber': 221, 'title': 'tree-sitter-latex', 'state': 'closed', 'created_at': '2018-11-05T03:38:29Z', 'closed_at': '2018-11-05T21:40:20Z', 'labels': []}
+{'issuenumber': 220, 'title': 'Crash in fuzzing tests', 'state': 'closed', 'created_at': '2018-11-04T15:08:43Z', 'closed_at': '2018-11-05T09:06:24Z', 'labels': []}
+{'issuenumber': 219, 'title': 'Builtin support for white space sensitive languages', 'state': 'closed', 'created_at': '2018-11-03T15:41:48Z', 'closed_at': '2019-11-05T17:57:37Z', 'labels': []}
+{'issuenumber': 216, 'title': 'Remove an unnecessary null pointer check', 'state': 'closed', 'created_at': '2018-11-01T10:42:06Z', 'closed_at': '2018-11-15T20:26:34Z', 'labels': []}
+{'issuenumber': 215, 'title': 'Completion of error handling', 'state': 'closed', 'created_at': '2018-11-01T10:30:19Z', 'closed_at': '2018-11-01T18:47:23Z', 'labels': []}
+{'issuenumber': 213, 'title': 'Discovered seed with parser failures', 'state': 'closed', 'created_at': '2018-10-28T18:38:03Z', 'closed_at': '2019-11-05T18:15:22Z', 'labels': []}
+{'issuenumber': 212, 'title': 'Request test_grammar for #line directives', 'state': 'closed', 'created_at': '2018-10-27T12:01:50Z', 'closed_at': '2019-01-18T01:21:09Z', 'labels': []}
+{'issuenumber': 211, 'title': '[question] How atom prioritizes grammar selection? ', 'state': 'closed', 'created_at': '2018-10-26T16:19:21Z', 'closed_at': '2018-10-26T16:31:44Z', 'labels': []}
+{'issuenumber': 210, 'title': 'ts_tree_edit: can I use only TSPosition and no bytes?', 'state': 'closed', 'created_at': '2018-10-25T17:21:17Z', 'closed_at': '2018-10-25T19:36:40Z', 'labels': []}
+{'issuenumber': 208, 'title': 'Code Folding is Unreliable with Tree Parson in Atom 1.32.0', 'state': 'closed', 'created_at': '2018-10-25T10:22:27Z', 'closed_at': '2018-10-29T20:55:48Z', 'labels': []}
+{'issuenumber': 207, 'title': 'JVM binding', 'state': 'closed', 'created_at': '2018-10-16T22:10:20Z', 'closed_at': '2019-11-05T18:02:13Z', 'labels': []}
+{'issuenumber': 206, 'title': 'GYP is three years out of date.', 'state': 'closed', 'created_at': '2018-10-16T20:21:22Z', 'closed_at': '2019-02-05T17:53:13Z', 'labels': []}
+{'issuenumber': 205, 'title': 'Indicate in engines field that node 8 is required', 'state': 'closed', 'created_at': '2018-10-06T20:46:06Z', 'closed_at': '2019-02-06T18:48:19Z', 'labels': []}
+{'issuenumber': 203, 'title': 'node-gyp on macOs 10.14 Mojave', 'state': 'closed', 'created_at': '2018-10-01T11:09:21Z', 'closed_at': '2018-10-01T14:51:51Z', 'labels': []}
+{'issuenumber': 199, 'title': 'Use of uninitialized memory in `ts_external_scanner_state_eq`', 'state': 'closed', 'created_at': '2018-08-31T15:27:45Z', 'closed_at': '2018-08-31T17:48:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 198, 'title': 'How to export the grammar?', 'state': 'closed', 'created_at': '2018-08-30T14:39:07Z', 'closed_at': '2018-09-08T22:06:28Z', 'labels': []}
+{'issuenumber': 194, 'title': 'Simple whitespace regex behaves differently than string', 'state': 'closed', 'created_at': '2018-08-07T21:41:22Z', 'closed_at': '2018-08-07T22:37:21Z', 'labels': []}
+{'issuenumber': 192, 'title': 'Comments in tree-sitter.', 'state': 'closed', 'created_at': '2018-08-03T04:51:57Z', 'closed_at': '2018-08-03T05:52:44Z', 'labels': []}
+{'issuenumber': 186, 'title': 'How to get the representation of the current node?', 'state': 'closed', 'created_at': '2018-07-23T02:58:37Z', 'closed_at': '2018-07-23T17:32:08Z', 'labels': []}
+{'issuenumber': 185, 'title': 'How to use the parser in Javascript?', 'state': 'closed', 'created_at': '2018-07-21T04:11:57Z', 'closed_at': '2018-09-10T22:40:50Z', 'labels': []}
+{'issuenumber': 182, 'title': 'Typo in README?', 'state': 'closed', 'created_at': '2018-06-22T00:36:57Z', 'closed_at': '2018-07-10T21:09:28Z', 'labels': []}
+{'issuenumber': 175, 'title': 'Consider switching from `node-gyp` to a modern and maintained alternative', 'state': 'closed', 'created_at': '2018-06-13T06:53:39Z', 'closed_at': '2019-02-05T17:53:13Z', 'labels': []}
+{'issuenumber': 174, 'title': 'How to publish tree-sitter-xxx to npm', 'state': 'closed', 'created_at': '2018-06-11T10:08:00Z', 'closed_at': '2018-06-12T03:49:34Z', 'labels': []}
+{'issuenumber': 173, 'title': 'Is `repeat` left-associative or right-associative?', 'state': 'closed', 'created_at': '2018-05-31T07:03:00Z', 'closed_at': '2018-06-04T14:24:11Z', 'labels': []}
+{'issuenumber': 166, 'title': 'Libruntime API documentation', 'state': 'closed', 'created_at': '2018-05-16T14:58:42Z', 'closed_at': '2019-03-29T23:50:15Z', 'labels': []}
+{'issuenumber': 164, 'title': 'Recovery synchronization points', 'state': 'closed', 'created_at': '2018-04-26T22:37:05Z', 'closed_at': '2018-05-01T15:00:26Z', 'labels': []}
+{'issuenumber': 161, 'title': 'Allow non-terminal extras', 'state': 'closed', 'created_at': '2018-04-11T19:09:25Z', 'closed_at': '2019-10-22T01:47:46Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 158, 'title': 'Cannot use [ or ] as start or end of character sequence', 'state': 'closed', 'created_at': '2018-04-05T12:39:07Z', 'closed_at': '2018-04-06T20:22:35Z', 'labels': []}
+{'issuenumber': 156, 'title': 'Hang when parsing some Go code with an error', 'state': 'closed', 'created_at': '2018-04-02T23:19:23Z', 'closed_at': '2018-04-09T19:44:03Z', 'labels': []}
+{'issuenumber': 152, 'title': 'S-expression whitespace syntax', 'state': 'closed', 'created_at': '2018-03-25T09:02:31Z', 'closed_at': '2018-03-29T16:24:35Z', 'labels': []}
+{'issuenumber': 151, 'title': 'Incompatible language version', 'state': 'closed', 'created_at': '2018-03-20T04:02:51Z', 'closed_at': '2018-03-20T09:03:36Z', 'labels': []}
+{'issuenumber': 150, 'title': 'Parsing HTML templates in JavaScript as HTML', 'state': 'closed', 'created_at': '2018-03-18T17:16:05Z', 'closed_at': '2018-07-16T22:19:00Z', 'labels': []}
+{'issuenumber': 146, 'title': 'Should tree-sitter-cli really be added as one of dependencies in parser?', 'state': 'closed', 'created_at': '2018-03-16T01:42:25Z', 'closed_at': '2018-03-19T16:37:59Z', 'labels': []}
+{'issuenumber': 144, 'title': 'Invalidate external tokens that use `get_column` when their start column changes', 'state': 'closed', 'created_at': '2018-03-13T17:33:19Z', 'closed_at': '2021-03-12T00:42:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 143, 'title': 'Failed to load the grammar package', 'state': 'closed', 'created_at': '2018-03-13T07:17:54Z', 'closed_at': '2018-03-16T08:56:23Z', 'labels': []}
+{'issuenumber': 141, 'title': "Unused external tokens cause tree-sitter to generate C code that doesn't compile", 'state': 'closed', 'created_at': '2018-03-09T19:32:21Z', 'closed_at': '2019-11-05T18:02:51Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 139, 'title': 'Sublime Syntax compatibility', 'state': 'closed', 'created_at': '2018-03-08T15:22:06Z', 'closed_at': '2018-03-08T17:14:15Z', 'labels': []}
+{'issuenumber': 138, 'title': 'Writting grammars in YAML', 'state': 'closed', 'created_at': '2018-03-08T15:19:01Z', 'closed_at': '2018-03-08T17:03:30Z', 'labels': []}
+{'issuenumber': 136, 'title': 'Creating an alias that matches an existing rule name creates a duplicate symbol', 'state': 'closed', 'created_at': '2018-03-07T18:40:13Z', 'closed_at': '2019-02-05T17:53:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 135, 'title': 'tree-sitter tutorial', 'state': 'closed', 'created_at': '2018-03-07T11:00:12Z', 'closed_at': '2018-03-07T18:49:52Z', 'labels': []}
+{'issuenumber': 134, 'title': 'assert ranges in corpus tests ?', 'state': 'closed', 'created_at': '2018-03-03T20:07:58Z', 'closed_at': '2018-09-08T22:07:58Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 133, 'title': 'OOM in `parser__do_all_potential_reductions`', 'state': 'closed', 'created_at': '2018-02-28T16:53:33Z', 'closed_at': '2018-03-02T17:15:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 132, 'title': 'Memory leak in `parser__do_all_potential_reductions`', 'state': 'closed', 'created_at': '2018-02-28T16:40:43Z', 'closed_at': '2018-03-07T18:18:57Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 131, 'title': 'Memory leak when rebalancing repetition trees', 'state': 'closed', 'created_at': '2018-02-15T15:27:58Z', 'closed_at': '2018-02-20T16:56:03Z', 'labels': []}
+{'issuenumber': 130, 'title': 'Expressing permutations', 'state': 'closed', 'created_at': '2018-02-11T12:25:57Z', 'closed_at': '2018-03-05T18:37:54Z', 'labels': []}
+{'issuenumber': 129, 'title': 'QUESTION: Which libcompiler.a should I use?', 'state': 'closed', 'created_at': '2018-02-06T11:17:44Z', 'closed_at': '2018-06-04T14:58:46Z', 'labels': []}
+{'issuenumber': 122, 'title': 'Fortran grammar for tree sitter', 'state': 'closed', 'created_at': '2018-01-04T01:33:58Z', 'closed_at': '2018-03-02T19:15:31Z', 'labels': []}
+{'issuenumber': 121, 'title': 'Question about files that contain multiple languages', 'state': 'closed', 'created_at': '2017-12-30T17:16:32Z', 'closed_at': '2018-03-02T18:52:59Z', 'labels': []}
+{'issuenumber': 115, 'title': 'Update regex parser', 'state': 'closed', 'created_at': '2017-12-12T22:20:57Z', 'closed_at': '2017-12-13T20:34:46Z', 'labels': []}
+{'issuenumber': 114, 'title': 'Investigate why the ruby parser is so large', 'state': 'closed', 'created_at': '2017-12-11T18:11:59Z', 'closed_at': '2018-07-26T23:38:25Z', 'labels': []}
+{'issuenumber': 113, 'title': 'clang "uninitialized" warnings on `error_start_position` etc. in `parser__lex`', 'state': 'closed', 'created_at': '2017-10-31T05:39:29Z', 'closed_at': '2017-10-31T17:06:51Z', 'labels': []}
+{'issuenumber': 112, 'title': 'Flaky failure in two javascript tests', 'state': 'closed', 'created_at': '2017-10-31T05:18:35Z', 'closed_at': '2018-03-08T17:33:28Z', 'labels': []}
+{'issuenumber': 111, 'title': 'Tokens with higher precedence should be preferred, even if they are shorter', 'state': 'closed', 'created_at': '2017-10-30T19:07:56Z', 'closed_at': '2018-07-31T19:52:15Z', 'labels': []}
+{'issuenumber': 109, 'title': 'Tests should give a helpful error message if grammar repos are not present', 'state': 'closed', 'created_at': '2017-10-29T06:00:35Z', 'closed_at': '2019-02-06T18:52:15Z', 'labels': []}
+{'issuenumber': 107, 'title': 'Broken links in README References', 'state': 'closed', 'created_at': '2017-10-16T21:19:24Z', 'closed_at': '2017-10-16T21:30:36Z', 'labels': []}
+{'issuenumber': 105, 'title': '\\n should match line separators', 'state': 'closed', 'created_at': '2017-10-06T18:39:22Z', 'closed_at': '2017-10-06T19:32:14Z', 'labels': []}
+{'issuenumber': 102, 'title': 'linker error "cannot find -lcompiler "', 'state': 'closed', 'created_at': '2017-09-06T04:11:28Z', 'closed_at': '2017-10-31T16:43:43Z', 'labels': []}
+{'issuenumber': 95, 'title': 'Make it easy to define identifiers that allow unicode character', 'state': 'closed', 'created_at': '2017-07-24T22:45:39Z', 'closed_at': '2021-02-18T00:14:42Z', 'labels': []}
+{'issuenumber': 65, 'title': 'Tree-sitter and semantic highlighting', 'state': 'closed', 'created_at': '2017-03-05T05:41:34Z', 'closed_at': '2018-03-03T01:12:31Z', 'labels': []}
+{'issuenumber': 64, 'title': 'Unused rules in grammars cause incorrect parser generation', 'state': 'closed', 'created_at': '2017-03-01T18:47:59Z', 'closed_at': '2017-03-10T05:20:14Z', 'labels': []}
+{'issuenumber': 56, 'title': 'Crash during error recovery', 'state': 'closed', 'created_at': '2017-02-07T23:08:16Z', 'closed_at': '2017-02-20T22:43:18Z', 'labels': []}
+{'issuenumber': 45, 'title': 'Improve randomized test coverage', 'state': 'closed', 'created_at': '2016-11-07T17:32:04Z', 'closed_at': '2018-09-08T22:08:17Z', 'labels': []}
+{'issuenumber': 44, 'title': 'Parse state merging can introduce artificial lexical conflicts', 'state': 'closed', 'created_at': '2016-11-07T05:46:07Z', 'closed_at': '2017-03-09T20:19:47Z', 'labels': []}
+{'issuenumber': 41, 'title': 'Parse-state-merging can cause incorrect tokenization of whitespace', 'state': 'closed', 'created_at': '2016-10-06T17:47:08Z', 'closed_at': '2016-11-07T05:38:52Z', 'labels': []}
+{'issuenumber': 34, 'title': 'Thoughts on detecting invalidated ranges', 'state': 'closed', 'created_at': '2016-09-03T15:47:33Z', 'closed_at': '2016-11-07T05:40:16Z', 'labels': []}
+{'issuenumber': 31, 'title': 'Precedence works in mysterious ways', 'state': 'closed', 'created_at': '2016-02-24T17:48:33Z', 'closed_at': '2016-11-19T01:11:35Z', 'labels': []}
+{'issuenumber': 28, 'title': 'JS grammar API could use array literals for sequences', 'state': 'closed', 'created_at': '2016-02-19T17:21:42Z', 'closed_at': '2016-02-19T17:24:22Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 27, 'title': 'Can’t use slashes in test names', 'state': 'closed', 'created_at': '2016-02-19T16:28:47Z', 'closed_at': '2016-02-19T17:53:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 5, 'title': '\\d (for example) in regexps is not escaped in the C parser', 'state': 'closed', 'created_at': '2015-11-06T21:35:24Z', 'closed_at': '2015-11-09T19:59:59Z', 'labels': []}
+{'issuenumber': 3, 'title': 'Language introspection', 'state': 'closed', 'created_at': '2015-10-28T21:26:17Z', 'closed_at': '2019-11-05T18:13:44Z', 'labels': []}
+{'issuenumber': 1, 'title': 'Provide callbacks for node construction, skipping ts_node APIs', 'state': 'closed', 'created_at': '2015-10-28T14:41:21Z', 'closed_at': '2019-11-05T18:11:54Z', 'labels': []}

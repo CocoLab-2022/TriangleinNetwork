@@ -1,0 +1,735 @@
+{'issuenumber': 2190, 'title': 'Dashboard from input when model has multiple many-to-many relationships.', 'state': 'closed', 'created_at': '2022-05-10T05:12:38Z', 'closed_at': '2022-05-10T06:10:23Z', 'labels': []}
+{'issuenumber': 2187, 'title': 'Possible regression - Delete link not working ', 'state': 'closed', 'created_at': '2022-05-09T08:48:27Z', 'closed_at': '2022-05-09T09:03:34Z', 'labels': []}
+{'issuenumber': 2175, 'title': 'Rails 7: "uninitialized constant ActionText::RichTextDashboard"', 'state': 'closed', 'created_at': '2022-04-06T22:46:17Z', 'closed_at': '2022-04-14T13:33:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 2168, 'title': 'Is this necessary to keep unicorn setting in package?', 'state': 'closed', 'created_at': '2022-03-26T01:33:04Z', 'closed_at': '2022-03-27T20:04:25Z', 'labels': []}
+{'issuenumber': 2165, 'title': 'support I18n in navigation block', 'state': 'closed', 'created_at': '2022-03-24T15:24:05Z', 'closed_at': '2022-03-24T18:15:58Z', 'labels': []}
+{'issuenumber': 2155, 'title': 'Dealing with booleans that require true or false', 'state': 'closed', 'created_at': '2022-03-06T02:50:31Z', 'closed_at': '2022-03-31T13:59:19Z', 'labels': []}
+{'issuenumber': 2143, 'title': 'Adding destroy link to the show template', 'state': 'closed', 'created_at': '2022-02-15T05:28:57Z', 'closed_at': '2022-02-18T06:14:22Z', 'labels': []}
+{'issuenumber': 2134, 'title': 'Support opening url in a new browser tab', 'state': 'closed', 'created_at': '2022-01-27T08:52:40Z', 'closed_at': '2022-02-15T12:29:25Z', 'labels': []}
+{'issuenumber': 2088, 'title': 'Performance Problems Counting Associated records', 'state': 'closed', 'created_at': '2021-12-20T23:37:35Z', 'closed_at': '2022-02-10T15:02:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 2087, 'title': "Inline Style doesn't work with Content Security Policy ", 'state': 'closed', 'created_at': '2021-12-17T12:18:30Z', 'closed_at': '2022-01-24T15:15:11Z', 'labels': []}
+{'issuenumber': 2086, 'title': 'Is it possible to get access to administrate demo source code http://administrate-demo.herokuapp.com?', 'state': 'closed', 'created_at': '2021-12-17T09:46:53Z', 'closed_at': '2021-12-17T10:03:04Z', 'labels': []}
+{'issuenumber': 2076, 'title': 'Be able to search deeper in instance methods or model associations', 'state': 'closed', 'created_at': '2021-12-09T15:19:04Z', 'closed_at': '2022-02-03T13:39:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 2075, 'title': 'Destroy link ujs not working', 'state': 'closed', 'created_at': '2021-12-06T15:55:21Z', 'closed_at': '2022-01-13T16:31:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 2071, 'title': 'New to administrate - Question on defaulting model id', 'state': 'closed', 'created_at': '2021-11-28T02:05:00Z', 'closed_at': '2021-11-28T18:51:39Z', 'labels': []}
+{'issuenumber': 2068, 'title': 'Adding field name to table header class', 'state': 'closed', 'created_at': '2021-11-25T04:48:31Z', 'closed_at': '2022-01-13T15:50:01Z', 'labels': []}
+{'issuenumber': 2063, 'title': 'Search by Polymorphic Field', 'state': 'closed', 'created_at': '2021-11-17T20:22:25Z', 'closed_at': '2021-12-28T09:45:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 2062, 'title': "Can't edit a record", 'state': 'closed', 'created_at': '2021-11-17T03:19:45Z', 'closed_at': '2021-11-17T04:48:49Z', 'labels': []}
+{'issuenumber': 2061, 'title': 'Create dependent model from show page', 'state': 'closed', 'created_at': '2021-11-16T01:20:10Z', 'closed_at': '2022-03-31T13:28:59Z', 'labels': []}
+{'issuenumber': 2059, 'title': "Edit page times out when there's a large number of has_many relations", 'state': 'closed', 'created_at': '2021-11-14T00:03:05Z', 'closed_at': '2022-02-08T11:56:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 2058, 'title': '..', 'state': 'closed', 'created_at': '2021-11-11T05:47:41Z', 'closed_at': '2021-11-13T18:38:46Z', 'labels': []}
+{'issuenumber': 2056, 'title': 'The has_many render with invalid field translation', 'state': 'closed', 'created_at': '2021-10-31T12:47:28Z', 'closed_at': '2022-02-08T12:00:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 2055, 'title': 'Want to disable destroy option on user show page', 'state': 'closed', 'created_at': '2021-10-29T20:57:38Z', 'closed_at': '2021-12-25T05:39:27Z', 'labels': []}
+{'issuenumber': 2051, 'title': '(Help) How to access current_user variable in the dashboard', 'state': 'closed', 'created_at': '2021-10-18T15:14:36Z', 'closed_at': '2021-11-11T17:18:54Z', 'labels': []}
+{'issuenumber': 2045, 'title': 'Type not being set in many-to-many polymorphic association', 'state': 'closed', 'created_at': '2021-09-30T20:03:30Z', 'closed_at': '2021-10-03T07:39:23Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 2044, 'title': 'When can we expect a new gem version?', 'state': 'closed', 'created_at': '2021-09-29T08:32:15Z', 'closed_at': '2021-11-05T07:14:43Z', 'labels': []}
+{'issuenumber': 2043, 'title': 'Question about HasMany field!!!', 'state': 'closed', 'created_at': '2021-09-28T23:38:21Z', 'closed_at': '2021-11-05T06:54:09Z', 'labels': []}
+{'issuenumber': 2040, 'title': 'Fresh install—stack level too deep', 'state': 'closed', 'created_at': '2021-08-24T00:31:12Z', 'closed_at': '2021-08-28T05:50:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 2031, 'title': "Could not find generator 'administrate:install'", 'state': 'closed', 'created_at': '2021-08-09T10:38:31Z', 'closed_at': '2021-08-09T11:21:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 2024, 'title': 'Not able to hide attributes on dashboards ', 'state': 'closed', 'created_at': '2021-07-26T20:00:55Z', 'closed_at': '2021-07-27T17:36:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 2022, 'title': 'Is it possible to create a separate dashboard for a subset of a collection', 'state': 'closed', 'created_at': '2021-07-22T11:19:17Z', 'closed_at': '2021-07-25T15:31:15Z', 'labels': []}
+{'issuenumber': 2016, 'title': 'Moment JS is in maintenance mode', 'state': 'closed', 'created_at': '2021-07-05T08:01:47Z', 'closed_at': '2022-03-04T17:39:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 2009, 'title': 'Template error on html_safe in flash when Devise OAuth2 session expired', 'state': 'closed', 'created_at': '2021-06-24T18:48:23Z', 'closed_at': '2021-07-19T15:12:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 2000, 'title': 'Create security policy and include email from contribute.md', 'state': 'closed', 'created_at': '2021-06-16T13:26:27Z', 'closed_at': '2021-06-17T20:44:47Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1999, 'title': 'Potential security vulnerability', 'state': 'closed', 'created_at': '2021-06-16T05:39:11Z', 'closed_at': '2021-06-16T16:37:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1997, 'title': 'Example file upload through Administrate? Enable multipart/form-data ?', 'state': 'closed', 'created_at': '2021-06-09T06:53:40Z', 'closed_at': '2022-03-31T13:18:29Z', 'labels': []}
+{'issuenumber': 1983, 'title': 'Select witch visible attributes deppending Pundit or something', 'state': 'closed', 'created_at': '2021-05-13T10:05:29Z', 'closed_at': '2021-05-13T16:11:14Z', 'labels': []}
+{'issuenumber': 1979, 'title': '"ActionView::Template::Error: Please use symbols for polymorphic route arguments" on Rails 6.1.3.2', 'state': 'closed', 'created_at': '2021-05-08T07:43:26Z', 'closed_at': '2021-05-10T17:13:03Z', 'labels': []}
+{'issuenumber': 1977, 'title': 'Rails 6.0.3.7 breaks the admin', 'state': 'closed', 'created_at': '2021-05-07T00:18:10Z', 'closed_at': '2021-05-07T11:46:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1976, 'title': 'Spec failures for models with BelongsTo relationships', 'state': 'closed', 'created_at': '2021-05-06T18:12:35Z', 'closed_at': '2021-05-10T22:01:39Z', 'labels': []}
+{'issuenumber': 1971, 'title': 'Rails 6.1.3.2 breaks Administrate', 'state': 'closed', 'created_at': '2021-05-05T20:18:26Z', 'closed_at': '2021-05-06T14:40:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1964, 'title': 'Search for user throwing error', 'state': 'closed', 'created_at': '2021-04-25T06:49:20Z', 'closed_at': '2021-05-01T10:40:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1959, 'title': 'CONTRIBUTING.md link gets a 404 on herokuapp', 'state': 'closed', 'created_at': '2021-04-12T16:03:19Z', 'closed_at': '2021-04-20T11:05:13Z', 'labels': []}
+{'issuenumber': 1958, 'title': '[housekeeping] change leading branch from `master` -> `main`', 'state': 'closed', 'created_at': '2021-04-09T15:41:23Z', 'closed_at': '2021-04-23T14:23:59Z', 'labels': []}
+{'issuenumber': 1957, 'title': 'Pagination broken in 0.15 for customized views', 'state': 'closed', 'created_at': '2021-04-08T23:43:57Z', 'closed_at': '2021-04-16T16:41:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1954, 'title': 'updating to 0.15.0 leads to segmentation fault', 'state': 'closed', 'created_at': '2021-04-01T08:48:49Z', 'closed_at': '2021-04-16T12:12:10Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1949, 'title': 'How to render dashboard fields based on condition', 'state': 'closed', 'created_at': '2021-03-28T13:57:56Z', 'closed_at': '2021-04-16T14:59:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1947, 'title': 'Field::Select using hash as a collection (can use key and value)', 'state': 'closed', 'created_at': '2021-03-25T11:09:54Z', 'closed_at': '2021-03-30T04:23:52Z', 'labels': []}
+{'issuenumber': 1928, 'title': 'Add the locale setting method of the table column.', 'state': 'closed', 'created_at': '2021-03-04T02:29:47Z', 'closed_at': '2021-04-16T14:36:10Z', 'labels': []}
+{'issuenumber': 1920, 'title': 'customize redirect_url after update a resource', 'state': 'closed', 'created_at': '2021-02-25T07:34:32Z', 'closed_at': '2021-02-25T14:43:14Z', 'labels': []}
+{'issuenumber': 1919, 'title': 'dashboard for namespaced model (eg. audited:audits)?', 'state': 'closed', 'created_at': '2021-02-25T02:50:50Z', 'closed_at': '2021-02-25T08:05:13Z', 'labels': []}
+{'issuenumber': 1918, 'title': 'Field::Belongs_to not work as expected', 'state': 'closed', 'created_at': '2021-02-25T01:22:17Z', 'closed_at': '2021-03-11T17:35:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1917, 'title': 'customize edit and destroy links', 'state': 'closed', 'created_at': '2021-02-23T08:43:00Z', 'closed_at': '2021-02-24T12:00:37Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1912, 'title': 'associated_dashboard selects the wrong Class and raises NameError', 'state': 'closed', 'created_at': '2021-02-16T21:19:44Z', 'closed_at': '2021-02-22T19:32:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1911, 'title': 'Trying to render a collection field with a PaperTrail versions key throws an exception', 'state': 'closed', 'created_at': '2021-02-16T11:11:19Z', 'closed_at': '2021-03-13T11:03:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1903, 'title': 'Missing translations for finnish locale', 'state': 'closed', 'created_at': '2021-02-11T20:30:50Z', 'closed_at': '2021-02-26T10:26:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1890, 'title': 'How to use a modal form?', 'state': 'closed', 'created_at': '2021-02-09T16:26:08Z', 'closed_at': '2021-02-11T16:44:49Z', 'labels': []}
+{'issuenumber': 1888, 'title': 'Add translations to kaminari pagination labels ', 'state': 'closed', 'created_at': '2021-02-06T08:10:39Z', 'closed_at': '2021-02-18T15:07:47Z', 'labels': []}
+{'issuenumber': 1887, 'title': 'Scope a belongs_to field based on the value of the previous field', 'state': 'closed', 'created_at': '2021-02-05T15:02:07Z', 'closed_at': '2021-02-11T16:17:11Z', 'labels': []}
+{'issuenumber': 1878, 'title': 'masquerade works on localhost but not on VPS (development mode)', 'state': 'closed', 'created_at': '2021-01-29T08:40:58Z', 'closed_at': '2021-01-29T08:46:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1873, 'title': 'Could not find generator \'administrate:install\'. Maybe you meant "administrate:field"?', 'state': 'closed', 'created_at': '2021-01-24T21:49:08Z', 'closed_at': '2021-01-26T09:40:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1871, 'title': 'Incomplete install script or directions', 'state': 'closed', 'created_at': '2021-01-17T22:46:28Z', 'closed_at': '2021-02-26T16:21:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1865, 'title': 'fix syntax error in getting started documentation', 'state': 'closed', 'created_at': '2021-01-11T22:37:13Z', 'closed_at': '2021-01-21T10:29:38Z', 'labels': []}
+{'issuenumber': 1860, 'title': "Administrate doesn't read context on Model when load form for mandatory field", 'state': 'closed', 'created_at': '2021-01-07T06:17:56Z', 'closed_at': '2021-02-26T16:20:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1847, 'title': 'Possibility to have two or more instances of administrate in same rails app', 'state': 'closed', 'created_at': '2020-12-18T13:15:31Z', 'closed_at': '2021-01-14T14:50:03Z', 'labels': []}
+{'issuenumber': 1833, 'title': 'Order fields on the nested attributes edit form by id ', 'state': 'closed', 'created_at': '2020-11-25T16:36:39Z', 'closed_at': '2020-11-26T15:12:20Z', 'labels': []}
+{'issuenumber': 1830, 'title': "undefined method `klass' for nil:NilClass (NoMethodError)`", 'state': 'closed', 'created_at': '2020-11-23T17:25:52Z', 'closed_at': '2021-01-21T10:16:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1825, 'title': 'Can I use actiontext/trix editor for e.g. a blog post body field?', 'state': 'closed', 'created_at': '2020-11-06T16:29:21Z', 'closed_at': '2020-11-07T19:20:55Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 1823, 'title': "Resources doesn't generate edit/create routes unless passing it into only:", 'state': 'closed', 'created_at': '2020-11-05T21:29:50Z', 'closed_at': '2020-11-07T18:43:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1822, 'title': "Pundit authorization doesn't authorize index view", 'state': 'closed', 'created_at': '2020-11-05T14:09:30Z', 'closed_at': '2020-11-13T15:47:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1820, 'title': '"Un-deprecate', 'state': 'closed', 'created_at': '2020-11-05T00:13:36Z', 'closed_at': '2020-11-05T14:19:11Z', 'labels': []}
+{'issuenumber': 1819, 'title': 'Resource name in flash messages is in camel case', 'state': 'closed', 'created_at': '2020-11-04T00:17:19Z', 'closed_at': '2020-11-07T17:34:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1818, 'title': 'Webpacker issue when using database replicas as read source.', 'state': 'closed', 'created_at': '2020-11-02T07:55:37Z', 'closed_at': '2021-04-16T16:27:26Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1817, 'title': 'Error on running "generate administrate:install"', 'state': 'closed', 'created_at': '2020-10-31T02:24:11Z', 'closed_at': '2020-10-31T19:04:45Z', 'labels': []}
+{'issuenumber': 1816, 'title': 'Sprockets 4 and Webpacker Config/Wiki', 'state': 'closed', 'created_at': '2020-10-29T21:51:15Z', 'closed_at': '2021-02-26T12:28:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1814, 'title': 'Docs sites do not load', 'state': 'closed', 'created_at': '2020-10-29T20:59:53Z', 'closed_at': '2020-10-30T11:46:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1810, 'title': 'Proposal for themes', 'state': 'closed', 'created_at': '2020-10-23T15:55:50Z', 'closed_at': '2020-10-26T12:58:14Z', 'labels': {'name': 'views-and-styles'}}
+{'issuenumber': 1809, 'title': 'Updating from 0.10.0 to 0.14.0', 'state': 'closed', 'created_at': '2020-10-23T14:25:16Z', 'closed_at': '2020-10-29T11:35:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1807, 'title': 'Polymorphic many to many relations ', 'state': 'closed', 'created_at': '2020-10-22T18:40:50Z', 'closed_at': '2020-10-29T09:49:36Z', 'labels': []}
+{'issuenumber': 1806, 'title': 'Unify "getting started" documentation', 'state': 'closed', 'created_at': '2020-10-22T13:01:01Z', 'closed_at': '2020-10-29T17:38:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1802, 'title': 'AssetNotPrecompiled after clean install', 'state': 'closed', 'created_at': '2020-10-17T08:37:31Z', 'closed_at': '2020-10-18T10:24:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1799, 'title': 'Fields are sometimes marked as required when they are not', 'state': 'closed', 'created_at': '2020-10-15T15:13:35Z', 'closed_at': '2020-10-29T12:25:55Z', 'labels': []}
+{'issuenumber': 1795, 'title': 'Feature Request: Redirect search if only 1 result', 'state': 'closed', 'created_at': '2020-10-13T05:27:01Z', 'closed_at': '2020-10-14T19:05:06Z', 'labels': []}
+{'issuenumber': 1793, 'title': 'Unpermitted parameters: :password, :password_confirmation remain unsolved', 'state': 'closed', 'created_at': '2020-10-12T14:59:36Z', 'closed_at': '2020-11-05T10:36:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1792, 'title': 'HasOne field breaks when rendering a nested HasMany', 'state': 'closed', 'created_at': '2020-10-08T15:42:51Z', 'closed_at': '2020-10-15T09:28:58Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1780, 'title': 'Field::ActiveStorage MULTIPLE ITEMS is not well imlemented', 'state': 'closed', 'created_at': '2020-09-27T18:59:55Z', 'closed_at': '2020-10-01T11:01:50Z', 'labels': []}
+{'issuenumber': 1774, 'title': 'Appraisal prevents Bundler cache from working on Circle CI', 'state': 'closed', 'created_at': '2020-09-20T01:04:28Z', 'closed_at': '2020-10-26T11:40:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1759, 'title': 'Any plan to support json type?', 'state': 'closed', 'created_at': '2020-09-08T23:44:45Z', 'closed_at': '2020-09-21T11:13:00Z', 'labels': []}
+{'issuenumber': 1756, 'title': 'How to do file processing / parsing? ', 'state': 'closed', 'created_at': '2020-09-03T20:39:05Z', 'closed_at': '2020-09-16T20:28:12Z', 'labels': []}
+{'issuenumber': 1755, 'title': 'why update request is post action?', 'state': 'closed', 'created_at': '2020-09-03T13:12:25Z', 'closed_at': '2020-09-04T12:28:57Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1750, 'title': 'View Component instead of administrate fields', 'state': 'closed', 'created_at': '2020-08-26T21:25:56Z', 'closed_at': '2020-08-31T09:27:57Z', 'labels': []}
+{'issuenumber': 1745, 'title': 'When I adding controllers without a related model, I got errors.', 'state': 'closed', 'created_at': '2020-08-21T03:06:20Z', 'closed_at': '2020-09-21T11:17:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1741, 'title': "The 'Adding Controllers without a related Model' page, does NOT display the page title as a prefix to '- Administrate'.", 'state': 'closed', 'created_at': '2020-08-14T15:53:15Z', 'closed_at': '2020-08-14T16:23:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1736, 'title': '`テスト`', 'state': 'closed', 'created_at': '2020-08-06T04:40:27Z', 'closed_at': '2020-08-06T10:45:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1735, 'title': 'Field type: Array resource_params getting called twice. ', 'state': 'closed', 'created_at': '2020-08-05T16:27:41Z', 'closed_at': '2020-08-06T14:51:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1734, 'title': 'Make nested has_many respect `scoped_resource`?', 'state': 'closed', 'created_at': '2020-08-05T02:25:23Z', 'closed_at': '2020-08-10T16:28:54Z', 'labels': []}
+{'issuenumber': 1733, 'title': 'autoprefixer-rails is deprecated', 'state': 'closed', 'created_at': '2020-08-03T13:54:26Z', 'closed_at': '2020-09-17T17:18:15Z', 'labels': {'name': 'views-and-styles'}}
+{'issuenumber': 1730, 'title': 'How do I use a polymorphic relationship with Carrierwave?', 'state': 'closed', 'created_at': '2020-08-02T03:02:46Z', 'closed_at': '2020-08-06T14:32:39Z', 'labels': []}
+{'issuenumber': 1724, 'title': 'Bulk add by providing a quantity', 'state': 'closed', 'created_at': '2020-07-28T05:59:19Z', 'closed_at': '2020-07-30T08:49:31Z', 'labels': []}
+{'issuenumber': 1721, 'title': 'Any way to add another action to the index page?', 'state': 'closed', 'created_at': '2020-07-24T02:32:51Z', 'closed_at': '2020-07-25T18:27:42Z', 'labels': {'name': 'views-and-styles'}}
+{'issuenumber': 1720, 'title': "Can't access models/order.rb from order_dashboard.rb", 'state': 'closed', 'created_at': '2020-07-22T11:58:45Z', 'closed_at': '2020-07-23T10:10:37Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1719, 'title': 'Search by string field does not work', 'state': 'closed', 'created_at': '2020-07-21T16:54:22Z', 'closed_at': '2020-07-23T13:26:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1717, 'title': 'How do I change the resource #show links?', 'state': 'closed', 'created_at': '2020-07-21T03:32:42Z', 'closed_at': '2020-07-21T12:24:14Z', 'labels': {'name': 'dashboards'}}
+{'issuenumber': 1716, 'title': 'Edit directly in the collection view', 'state': 'closed', 'created_at': '2020-07-18T06:12:25Z', 'closed_at': '2020-07-19T04:52:32Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 1714, 'title': 'Need to cast `params[:per_page]` to Int; seems like it should be handled by the gem?', 'state': 'closed', 'created_at': '2020-07-15T01:21:53Z', 'closed_at': '2020-07-24T03:49:26Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1712, 'title': 'Destroy flow is broken when translation helper is used', 'state': 'closed', 'created_at': '2020-07-14T18:04:34Z', 'closed_at': '2020-07-14T18:50:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1711, 'title': 'Specify number of results per page?', 'state': 'closed', 'created_at': '2020-07-14T17:14:21Z', 'closed_at': '2020-07-15T01:11:35Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 1710, 'title': 'Change search placeholder on a dashboard?', 'state': 'closed', 'created_at': '2020-07-14T16:03:54Z', 'closed_at': '2020-07-16T13:57:15Z', 'labels': {'name': 'i18n'}}
+{'issuenumber': 1709, 'title': 'Is there a workaround for a model named "Page"?', 'state': 'closed', 'created_at': '2020-07-13T23:55:17Z', 'closed_at': '2020-07-31T14:18:37Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1706, 'title': 'Order of items in navigation sidebar', 'state': 'closed', 'created_at': '2020-07-13T11:02:15Z', 'closed_at': '2020-10-06T16:41:22Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1700, 'title': '"Resource label" overlaps "Resource value" when Layout is Responsive', 'state': 'closed', 'created_at': '2020-07-06T11:36:57Z', 'closed_at': '2020-07-23T09:24:39Z', 'labels': {'name': 'views-and-styles'}}
+{'issuenumber': 1699, 'title': 'Destroy button not fit on the page when Layout is Responsive', 'state': 'closed', 'created_at': '2020-07-06T11:12:48Z', 'closed_at': '2020-07-23T09:24:18Z', 'labels': {'name': 'views-and-styles'}}
+{'issuenumber': 1693, 'title': 'Unable to bundle on Windows 10 because of a symlink.', 'state': 'closed', 'created_at': '2020-06-30T08:26:45Z', 'closed_at': '2020-07-31T14:01:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1689, 'title': "Removing some attributes from `SHOW_PAGE_ATTRIBUTES` throws an undefined method '#' error", 'state': 'closed', 'created_at': '2020-06-26T17:26:20Z', 'closed_at': '2020-10-06T17:31:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1681, 'title': 'Belongs to label does not follow the Internationalisation', 'state': 'closed', 'created_at': '2020-06-22T07:37:38Z', 'closed_at': '2021-05-26T02:56:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1677, 'title': 'Create resource on index page not using i18n', 'state': 'closed', 'created_at': '2020-06-16T10:34:45Z', 'closed_at': '2020-10-06T11:25:51Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1671, 'title': 'Time fields default to 20:00:00', 'state': 'closed', 'created_at': '2020-06-09T09:33:04Z', 'closed_at': '2020-06-11T09:16:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1669, 'title': 'Using "administrate" as custom namespace throws exception', 'state': 'closed', 'created_at': '2020-06-07T14:45:03Z', 'closed_at': '2020-06-25T08:12:21Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1661, 'title': 'Always render flashes div so you can insert HTML via Javascript', 'state': 'closed', 'created_at': '2020-05-31T19:15:53Z', 'closed_at': '2020-06-11T17:27:54Z', 'labels': {'name': 'views-and-styles'}}
+{'issuenumber': 1647, 'title': 'Install fails if ActiveAdmin is already present in the project', 'state': 'closed', 'created_at': '2020-05-13T17:15:49Z', 'closed_at': '2020-10-06T17:28:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1645, 'title': 'License link on heroku front page returns 404 error', 'state': 'closed', 'created_at': '2020-05-13T00:38:13Z', 'closed_at': '2021-02-26T14:31:26Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1643, 'title': 'Destroy link does not work', 'state': 'closed', 'created_at': '2020-05-11T15:07:44Z', 'closed_at': '2020-06-30T15:41:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1641, 'title': 'UI has started using plural names in singular places', 'state': 'closed', 'created_at': '2020-05-07T13:11:56Z', 'closed_at': '2020-05-07T13:27:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1637, 'title': 'Search: Field::BelongsTo always inner joined without option for a left join', 'state': 'closed', 'created_at': '2020-05-06T01:05:31Z', 'closed_at': '2020-05-08T08:50:58Z', 'labels': []}
+{'issuenumber': 1631, 'title': 'Clarify compatibility', 'state': 'closed', 'created_at': '2020-05-01T07:58:07Z', 'closed_at': '2020-08-21T09:18:36Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 1629, 'title': 'Enum fields should be generated as Field::Select instead of Field::String', 'state': 'closed', 'created_at': '2020-04-29T22:00:03Z', 'closed_at': '2020-06-02T05:58:57Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1628, 'title': "undefined method `class_name' for nil:NilClass (NoMethodError)", 'state': 'closed', 'created_at': '2020-04-29T21:20:15Z', 'closed_at': '2020-10-06T17:23:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1623, 'title': 'Problem to get started', 'state': 'closed', 'created_at': '2020-04-24T10:37:11Z', 'closed_at': '2020-04-29T14:39:23Z', 'labels': {'name': 'install'}}
+{'issuenumber': 1622, 'title': 'Back to app not translated', 'state': 'closed', 'created_at': '2020-04-24T10:20:06Z', 'closed_at': '2020-05-22T15:32:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1615, 'title': 'ActionController::UnfilteredParameters for freshly generated dashboard', 'state': 'closed', 'created_at': '2020-04-18T23:16:54Z', 'closed_at': '2020-04-21T05:34:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1614, 'title': 'Installing Administrate on an existing project', 'state': 'closed', 'created_at': '2020-04-18T18:06:37Z', 'closed_at': '2020-04-19T12:38:09Z', 'labels': {'name': 'install'}}
+{'issuenumber': 1613, 'title': 'Multiple dashboards for the same model', 'state': 'closed', 'created_at': '2020-04-18T13:47:27Z', 'closed_at': '2020-04-18T17:37:37Z', 'labels': {'name': 'dashboards'}}
+{'issuenumber': 1610, 'title': 'Customizing date_time field partials yields error', 'state': 'closed', 'created_at': '2020-04-11T15:56:49Z', 'closed_at': '2020-04-18T17:36:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1605, 'title': 'We should document the existance of `new_resource`', 'state': 'closed', 'created_at': '2020-04-06T08:52:11Z', 'closed_at': '2020-08-14T13:59:26Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 1600, 'title': 'We should bring community plugins into the docs', 'state': 'closed', 'created_at': '2020-04-03T10:29:14Z', 'closed_at': '2021-02-26T13:07:35Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 1599, 'title': 'Preloading instance dependent scopes is not supported', 'state': 'closed', 'created_at': '2020-04-02T17:23:31Z', 'closed_at': '2020-04-03T11:18:00Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 1597, 'title': 'Associative fields should figure out association options automatically', 'state': 'closed', 'created_at': '2020-04-02T13:22:47Z', 'closed_at': '2020-10-27T19:03:01Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 1595, 'title': "The action 'index' could not be found for Admin::UsersController", 'state': 'closed', 'created_at': '2020-04-01T07:12:56Z', 'closed_at': '2020-09-24T09:15:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1594, 'title': 'Incorrect path names to custom fields on Rails 6', 'state': 'closed', 'created_at': '2020-03-31T22:11:38Z', 'closed_at': '2020-04-01T01:49:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1593, 'title': "Getting session's information from administrate dashboard or field?", 'state': 'closed', 'created_at': '2020-03-30T14:56:18Z', 'closed_at': '2022-02-08T11:47:11Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 1590, 'title': 'Live dashboard', 'state': 'closed', 'created_at': '2020-03-27T15:20:50Z', 'closed_at': '2020-10-06T17:18:59Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 1588, 'title': 'Should we drop Rails <5 support?', 'state': 'closed', 'created_at': '2020-03-26T16:40:36Z', 'closed_at': '2020-08-14T15:36:46Z', 'labels': {'name': 'dependencies'}}
+{'issuenumber': 1587, 'title': "We don't document how to hide dashboards from the sidebar", 'state': 'closed', 'created_at': '2020-03-26T15:55:57Z', 'closed_at': '2020-10-05T20:56:32Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 1580, 'title': "ModuleNotFoundError: Module not found: Error: Can't resolve '../components/table'", 'state': 'closed', 'created_at': '2020-03-22T15:24:15Z', 'closed_at': '2020-03-29T19:52:57Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1575, 'title': "Administrate's stylesheets with Webpacker in Rails 6", 'state': 'closed', 'created_at': '2020-03-18T21:48:39Z', 'closed_at': '2020-03-21T10:08:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1573, 'title': "Undefined local variable or method `root_url' for Class", 'state': 'closed', 'created_at': '2020-03-16T23:50:18Z', 'closed_at': '2020-03-23T18:36:14Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1570, 'title': '0.13.0 regressions with nested forms (and polymorphic relations?)', 'state': 'closed', 'created_at': '2020-03-14T16:20:00Z', 'closed_at': '2020-03-26T15:30:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1553, 'title': "Can't set Nullable Fields to null", 'state': 'closed', 'created_at': '2020-02-14T15:55:34Z', 'closed_at': '2020-02-14T18:18:05Z', 'labels': []}
+{'issuenumber': 1541, 'title': 'uninitialized constant Analytics (NameError)', 'state': 'closed', 'created_at': '2020-01-29T09:22:25Z', 'closed_at': '2020-03-26T17:11:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1535, 'title': 'Dynamic select field', 'state': 'closed', 'created_at': '2020-01-21T10:05:20Z', 'closed_at': '2020-03-27T18:57:17Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 1520, 'title': 'How to export dashboards as excel（xls xlsx）', 'state': 'closed', 'created_at': '2020-01-10T07:38:56Z', 'closed_at': '2020-01-10T11:36:39Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 1516, 'title': 'fields: Checkbox field with >2 options?', 'state': 'closed', 'created_at': '2020-01-05T05:53:57Z', 'closed_at': '2020-01-07T13:02:44Z', 'labels': []}
+{'issuenumber': 1499, 'title': 'How can I convert my properties in ‘show page‘?', 'state': 'closed', 'created_at': '2019-12-17T09:07:57Z', 'closed_at': '2019-12-24T22:17:43Z', 'labels': []}
+{'issuenumber': 1492, 'title': 'How can I run demo on my windows？', 'state': 'closed', 'created_at': '2019-12-13T08:46:34Z', 'closed_at': '2019-12-16T06:44:54Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 1490, 'title': 'BUG: Custom fields are not included in Search', 'state': 'closed', 'created_at': '2019-12-12T21:59:35Z', 'closed_at': '2020-10-05T17:58:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1489, 'title': 'An user submitting a form should be able to see what fields are required.', 'state': 'closed', 'created_at': '2019-12-12T18:03:22Z', 'closed_at': '2020-01-25T14:43:21Z', 'labels': {'name': 'views-and-styles'}}
+{'issuenumber': 1486, 'title': 'get value of another column in custom field', 'state': 'closed', 'created_at': '2019-12-11T06:33:24Z', 'closed_at': '2019-12-16T12:33:59Z', 'labels': []}
+{'issuenumber': 1480, 'title': "valid_action? doesn't remove the url access", 'state': 'closed', 'created_at': '2019-12-05T16:57:17Z', 'closed_at': '2020-10-05T15:56:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1474, 'title': 'Install issues on rails 6.1 and Mac OS Catalina 10.15.1', 'state': 'closed', 'created_at': '2019-11-28T13:24:39Z', 'closed_at': '2019-12-27T13:37:08Z', 'labels': []}
+{'issuenumber': 1466, 'title': 'How to NOT cache SelectField options', 'state': 'closed', 'created_at': '2019-11-14T05:10:55Z', 'closed_at': '2020-10-05T19:53:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1464, 'title': 'HasMany relationships load all objects and then count on collection page', 'state': 'closed', 'created_at': '2019-11-08T22:09:57Z', 'closed_at': '2021-04-23T20:38:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1459, 'title': 'How to show an attribute field of a BelongsTo', 'state': 'closed', 'created_at': '2019-11-04T23:40:55Z', 'closed_at': '2019-11-08T07:36:05Z', 'labels': []}
+{'issuenumber': 1454, 'title': 'Turbolinks back button broken', 'state': 'closed', 'created_at': '2019-10-26T23:47:11Z', 'closed_at': '2020-10-05T16:56:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1448, 'title': 'ArgumentError in `application/_collection.html.erb`', 'state': 'closed', 'created_at': '2019-10-23T23:07:45Z', 'closed_at': '2020-02-07T10:18:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1445, 'title': 'Bulk delete', 'state': 'closed', 'created_at': '2019-10-17T09:13:01Z', 'closed_at': '2020-01-02T15:43:15Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 1443, 'title': 'Demo on Heroku does not work', 'state': 'closed', 'created_at': '2019-10-16T15:27:50Z', 'closed_at': '2019-10-17T12:02:26Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1441, 'title': 'Use Pagy', 'state': 'closed', 'created_at': '2019-10-12T05:00:23Z', 'closed_at': '2020-01-30T09:22:25Z', 'labels': {'name': 'dependencies'}}
+{'issuenumber': 1423, 'title': 'disable pagination for some models', 'state': 'closed', 'created_at': '2019-09-11T10:56:19Z', 'closed_at': '2020-02-20T12:33:53Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 1421, 'title': 'Unpermitted parameter notice on resource index page', 'state': 'closed', 'created_at': '2019-09-09T13:30:58Z', 'closed_at': '2019-09-10T08:50:09Z', 'labels': []}
+{'issuenumber': 1417, 'title': 'Allow removing model from navigation without removing its routes', 'state': 'closed', 'created_at': '2019-09-05T22:34:14Z', 'closed_at': '2020-02-18T12:21:58Z', 'labels': []}
+{'issuenumber': 1414, 'title': 'Allow choosing attributes for rendering nested records instead of using FORM_ATTRIBUTES', 'state': 'closed', 'created_at': '2019-09-02T20:56:26Z', 'closed_at': '2020-10-06T17:17:06Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 1411, 'title': "Use pundit's `policy_scope` instead of administrate's `policy_scope_admin`", 'state': 'closed', 'created_at': '2019-09-01T20:01:15Z', 'closed_at': '2019-10-24T08:02:53Z', 'labels': []}
+{'issuenumber': 1408, 'title': 'Datetimepicker not rendering properly', 'state': 'closed', 'created_at': '2019-08-27T19:10:01Z', 'closed_at': '2019-12-25T18:37:07Z', 'labels': []}
+{'issuenumber': 1403, 'title': 'Unable to use with Namespaced models', 'state': 'closed', 'created_at': '2019-08-19T13:01:48Z', 'closed_at': '2019-08-19T13:02:15Z', 'labels': []}
+{'issuenumber': 1401, 'title': 'Not able to install with rails 6.0.0', 'state': 'closed', 'created_at': '2019-08-18T06:06:04Z', 'closed_at': '2019-09-10T22:29:47Z', 'labels': []}
+{'issuenumber': 1382, 'title': "undefined method `default_scoped' for Admin:Module", 'state': 'closed', 'created_at': '2019-07-29T04:54:01Z', 'closed_at': '2019-07-29T05:07:17Z', 'labels': []}
+{'issuenumber': 1375, 'title': 'Use Administrate with a separate namespace', 'state': 'closed', 'created_at': '2019-07-11T07:16:30Z', 'closed_at': '2019-08-16T14:29:44Z', 'labels': []}
+{'issuenumber': 1369, 'title': 'No route changes or models views on administrate:install with Rails 6.rc1', 'state': 'closed', 'created_at': '2019-06-28T01:39:46Z', 'closed_at': '2019-09-10T21:45:58Z', 'labels': []}
+{'issuenumber': 1368, 'title': "Don't search my edit route for id", 'state': 'closed', 'created_at': '2019-06-26T19:22:01Z', 'closed_at': '2020-02-07T09:54:03Z', 'labels': []}
+{'issuenumber': 1366, 'title': "undefined local variable or method `page' for #<#<Class:0x00007f3ff1f4c3a0>:0x00007f3ff21d9618>", 'state': 'closed', 'created_at': '2019-06-24T09:45:18Z', 'closed_at': '2020-10-05T15:39:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1354, 'title': 'Lazy load administrate dependency', 'state': 'closed', 'created_at': '2019-05-31T05:54:46Z', 'closed_at': '2020-05-08T09:32:20Z', 'labels': {'name': 'dependencies'}}
+{'issuenumber': 1351, 'title': 'Rails 6 rich text editor', 'state': 'closed', 'created_at': '2019-05-22T15:36:22Z', 'closed_at': '2019-05-22T21:25:30Z', 'labels': []}
+{'issuenumber': 1348, 'title': 'Punditize concern does not restrict index', 'state': 'closed', 'created_at': '2019-05-16T18:31:07Z', 'closed_at': '2020-10-06T17:06:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1346, 'title': 'arrays not handled during edit action', 'state': 'closed', 'created_at': '2019-05-14T11:16:34Z', 'closed_at': '2020-10-05T18:11:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1344, 'title': 'custom destroy not working', 'state': 'closed', 'created_at': '2019-05-11T20:32:59Z', 'closed_at': '2019-05-12T03:33:16Z', 'labels': []}
+{'issuenumber': 1343, 'title': 'NoMethodError in Admin::UsersController#index', 'state': 'closed', 'created_at': '2019-05-11T00:18:42Z', 'closed_at': '2020-10-05T18:24:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1341, 'title': 'Differently Named Route Namespace', 'state': 'closed', 'created_at': '2019-05-10T17:14:23Z', 'closed_at': '2020-01-03T12:15:58Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 1339, 'title': 'Autoloading punditize fails with Zeitwerk + Rails 6 (rc1) if not using punditize', 'state': 'closed', 'created_at': '2019-05-06T16:25:05Z', 'closed_at': '2019-08-09T09:46:51Z', 'labels': []}
+{'issuenumber': 1333, 'title': 'Administrate trying to admin my sessions', 'state': 'closed', 'created_at': '2019-04-25T21:46:12Z', 'closed_at': '2019-06-11T01:38:28Z', 'labels': []}
+{'issuenumber': 1315, 'title': 'Customize search field ', 'state': 'closed', 'created_at': '2019-04-12T22:26:01Z', 'closed_at': '2020-10-05T18:05:23Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1313, 'title': 'It is an error to open a Show page when ImageField is nil.', 'state': 'closed', 'created_at': '2019-04-12T13:09:39Z', 'closed_at': '2019-04-16T14:05:43Z', 'labels': []}
+{'issuenumber': 1311, 'title': 'Choosing between HasOne or BelongsTo', 'state': 'closed', 'created_at': '2019-04-10T14:31:22Z', 'closed_at': '2020-10-06T17:00:14Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 1309, 'title': 'Total number of records in table', 'state': 'closed', 'created_at': '2019-04-03T19:15:29Z', 'closed_at': '2020-01-03T12:52:45Z', 'labels': {'name': 'views-and-styles'}}
+{'issuenumber': 1303, 'title': 'Adding extra columns later?', 'state': 'closed', 'created_at': '2019-03-25T02:55:35Z', 'closed_at': '2019-03-25T02:57:00Z', 'labels': []}
+{'issuenumber': 1302, 'title': 'ActionView::Template::Error (The asset is not present in the asset pipeline.)', 'state': 'closed', 'created_at': '2019-03-21T09:31:31Z', 'closed_at': '2019-08-02T08:28:47Z', 'labels': []}
+{'issuenumber': 1289, 'title': 'Accept array or string for searchable_field', 'state': 'closed', 'created_at': '2019-02-21T16:27:08Z', 'closed_at': '2020-10-05T18:03:33Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 1281, 'title': 'deploy latests docs', 'state': 'closed', 'created_at': '2019-01-15T19:02:01Z', 'closed_at': '2020-01-02T15:19:53Z', 'labels': []}
+{'issuenumber': 1274, 'title': 'Ability to pass custom variables to a dashboard controller', 'state': 'closed', 'created_at': '2019-01-05T19:18:18Z', 'closed_at': '2020-10-05T18:17:53Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 1272, 'title': 'The method .order() must contain arguments, when model has column "order"', 'state': 'closed', 'created_at': '2019-01-03T00:44:57Z', 'closed_at': '2021-04-22T16:13:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1271, 'title': "Dependabot can't resolve your Ruby dependency files", 'state': 'closed', 'created_at': '2019-01-01T09:19:02Z', 'closed_at': '2019-01-01T14:21:14Z', 'labels': []}
+{'issuenumber': 1269, 'title': 'Add an additional field - based on other fields value?', 'state': 'closed', 'created_at': '2018-12-31T07:55:00Z', 'closed_at': '2020-10-05T19:56:45Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 1265, 'title': 'Port Gem to Elixir Phoenix Hex Package', 'state': 'closed', 'created_at': '2018-12-21T11:33:15Z', 'closed_at': '2018-12-21T15:24:27Z', 'labels': []}
+{'issuenumber': 1258, 'title': 'has_many Associative though', 'state': 'closed', 'created_at': '2018-12-09T04:58:54Z', 'closed_at': '2018-12-09T05:24:01Z', 'labels': []}
+{'issuenumber': 1256, 'title': 'Allow custom CSS w/o having to install the Administrate assets', 'state': 'closed', 'created_at': '2018-12-05T16:22:03Z', 'closed_at': '2020-01-30T17:46:47Z', 'labels': []}
+{'issuenumber': 1252, 'title': 'ActiveRecord purged in test environment unexpectedly', 'state': 'closed', 'created_at': '2018-12-05T00:11:52Z', 'closed_at': '2018-12-05T22:09:23Z', 'labels': []}
+{'issuenumber': 1242, 'title': 'Resource names are not being translated properly on notice messages', 'state': 'closed', 'created_at': '2018-11-27T20:18:32Z', 'closed_at': '2020-10-06T16:42:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1240, 'title': "Field::BelongsTo doesn't work with include_blank in views", 'state': 'closed', 'created_at': '2018-11-12T02:43:57Z', 'closed_at': '2021-07-22T09:07:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1238, 'title': 'Feature Request: Interface to add helper modules', 'state': 'closed', 'created_at': '2018-11-07T22:43:49Z', 'closed_at': '2021-04-16T15:49:34Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 1237, 'title': 'Field markup could benefit from a reference to attribute name', 'state': 'closed', 'created_at': '2018-11-06T21:09:31Z', 'closed_at': '2020-10-05T18:47:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1236, 'title': 'Deal with Active Storage attachments.', 'state': 'closed', 'created_at': '2018-11-06T05:49:29Z', 'closed_at': '2020-10-05T15:07:11Z', 'labels': {'name': 'dependencies'}}
+{'issuenumber': 1235, 'title': 'Field::Select usable :collection values violate reasonable assumptions for ActionView::Helpers::FormBuilder#select', 'state': 'closed', 'created_at': '2018-11-05T21:35:26Z', 'closed_at': '2019-07-20T08:25:43Z', 'labels': []}
+{'issuenumber': 1233, 'title': 'authorize_resource is not called on the index action', 'state': 'closed', 'created_at': '2018-11-02T16:40:24Z', 'closed_at': '2020-11-13T15:46:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1232, 'title': 'Add reinvite user action to users controller', 'state': 'closed', 'created_at': '2018-10-29T07:34:17Z', 'closed_at': '2018-10-29T12:50:07Z', 'labels': []}
+{'issuenumber': 1227, 'title': "Why Time doesn't have a option `:format` ?", 'state': 'closed', 'created_at': '2018-10-15T06:51:17Z', 'closed_at': '2022-03-04T17:34:14Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 1224, 'title': 'Sharing what worked for me concerning Hstore/Jsonb datatypes ', 'state': 'closed', 'created_at': '2018-10-05T01:38:06Z', 'closed_at': '2020-01-03T12:51:09Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 1221, 'title': 'Could not load generator "generators/administrate/routes/routes_generator". Error: uninitialized constant Administrate::BaseDashboard', 'state': 'closed', 'created_at': '2018-09-26T05:04:54Z', 'closed_at': '2018-09-26T15:07:55Z', 'labels': []}
+{'issuenumber': 1213, 'title': 'Values not vertically aligned with field names on show page', 'state': 'closed', 'created_at': '2018-09-06T18:22:33Z', 'closed_at': '2020-01-25T14:46:10Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1209, 'title': 'How to make boolean field to be checkbox on the index page?', 'state': 'closed', 'created_at': '2018-08-28T13:30:42Z', 'closed_at': '2018-09-19T14:00:21Z', 'labels': []}
+{'issuenumber': 1208, 'title': 'Use bootstrap with Administrate', 'state': 'closed', 'created_at': '2018-08-27T21:15:57Z', 'closed_at': '2018-08-27T21:51:00Z', 'labels': []}
+{'issuenumber': 1205, 'title': 'New page title should not be pluralized', 'state': 'closed', 'created_at': '2018-08-25T22:59:08Z', 'closed_at': '2020-10-06T16:13:58Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1204, 'title': 'Should generator call `namespace.camelize` instead of `namespace.classify`?', 'state': 'closed', 'created_at': '2018-08-25T07:39:12Z', 'closed_at': '2019-05-03T01:58:38Z', 'labels': []}
+{'issuenumber': 1202, 'title': "Don't protect options passed to attribute definitions in dashboard config?", 'state': 'closed', 'created_at': '2018-08-21T20:15:54Z', 'closed_at': '2020-01-01T09:50:41Z', 'labels': []}
+{'issuenumber': 1201, 'title': "getting error that says  undefined local variable or method `resource_includes'", 'state': 'closed', 'created_at': '2018-08-13T17:11:18Z', 'closed_at': '2018-08-15T09:47:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1198, 'title': 'Custom javascript when using Webpack', 'state': 'closed', 'created_at': '2018-08-08T01:09:08Z', 'closed_at': '2018-09-24T16:47:33Z', 'labels': []}
+{'issuenumber': 1196, 'title': 'Ruby Sass is deprecated and will be unmaintained as of 26 March 2019.', 'state': 'closed', 'created_at': '2018-08-01T14:38:49Z', 'closed_at': '2019-04-19T23:07:09Z', 'labels': []}
+{'issuenumber': 1191, 'title': 'HasMany Show should render relationship collection partial', 'state': 'closed', 'created_at': '2018-07-17T18:33:47Z', 'closed_at': '2020-10-05T18:50:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1190, 'title': 'Search fails in certain edge case with SQL error ', 'state': 'closed', 'created_at': '2018-07-13T10:23:11Z', 'closed_at': '2020-10-05T18:07:05Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1188, 'title': "Ordering BelongsTo's column alphabetically", 'state': 'closed', 'created_at': '2018-07-06T07:51:33Z', 'closed_at': '2019-08-02T08:29:15Z', 'labels': []}
+{'issuenumber': 1186, 'title': 'Default `/admin` page when no models or dashboards exist', 'state': 'closed', 'created_at': '2018-07-01T05:06:38Z', 'closed_at': '2019-05-20T18:57:48Z', 'labels': []}
+{'issuenumber': 1185, 'title': 'Filter field base on user capabilites in form', 'state': 'closed', 'created_at': '2018-06-30T02:07:04Z', 'closed_at': '2020-01-03T12:11:08Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 1183, 'title': 'Why does show page with has_many evoke _collection to render?', 'state': 'closed', 'created_at': '2018-06-28T06:42:50Z', 'closed_at': '2020-02-07T09:53:13Z', 'labels': []}
+{'issuenumber': 1182, 'title': 'Demo error - sorting customers by country', 'state': 'closed', 'created_at': '2018-06-26T08:33:55Z', 'closed_at': '2020-02-18T12:14:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1181, 'title': 'Rails 3.2 compatibility?', 'state': 'closed', 'created_at': '2018-06-24T09:09:56Z', 'closed_at': '2018-07-20T14:55:41Z', 'labels': []}
+{'issuenumber': 1180, 'title': 'i18n: activerecord attributes only translates form fields', 'state': 'closed', 'created_at': '2018-06-23T03:17:22Z', 'closed_at': '2020-01-23T11:44:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1179, 'title': 'Error on Search on belongs_to with class_name option', 'state': 'closed', 'created_at': '2018-06-19T13:01:47Z', 'closed_at': '2020-03-21T09:54:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1178, 'title': 'unable to install Administrate  rails 5.2', 'state': 'closed', 'created_at': '2018-06-16T18:58:20Z', 'closed_at': '2020-01-02T15:17:54Z', 'labels': []}
+{'issuenumber': 1175, 'title': 'How to set the owner in a new record - permitted_attributes & accessing param hash with strong_param', 'state': 'closed', 'created_at': '2018-06-12T10:50:11Z', 'closed_at': '2018-06-12T14:49:07Z', 'labels': []}
+{'issuenumber': 1173, 'title': 'TextField works as BelongsTo', 'state': 'closed', 'created_at': '2018-06-11T10:25:14Z', 'closed_at': '2019-08-08T09:10:18Z', 'labels': []}
+{'issuenumber': 1169, 'title': "Click to model tr (model#index view) didn't work at Firefox", 'state': 'closed', 'created_at': '2018-05-30T12:02:03Z', 'closed_at': '2020-10-05T16:13:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1162, 'title': 'Could not find generator', 'state': 'closed', 'created_at': '2018-05-06T22:44:19Z', 'closed_at': '2020-03-05T16:47:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1160, 'title': 'pagination gems', 'state': 'closed', 'created_at': '2018-05-04T02:06:56Z', 'closed_at': '2020-10-05T15:01:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1154, 'title': 'Possible new option [--skip-models]', 'state': 'closed', 'created_at': '2018-04-21T16:19:08Z', 'closed_at': '2018-05-26T10:53:07Z', 'labels': []}
+{'issuenumber': 1149, 'title': 'Support Sequel as a means for oracle database consumers.', 'state': 'closed', 'created_at': '2018-04-17T14:42:09Z', 'closed_at': '2020-01-02T15:51:35Z', 'labels': {'name': 'dependencies'}}
+{'issuenumber': 1146, 'title': '`app/dashboards` directory path should be customizable', 'state': 'closed', 'created_at': '2018-04-13T22:55:33Z', 'closed_at': '2018-04-27T16:09:27Z', 'labels': []}
+{'issuenumber': 1142, 'title': 'HasOne with a HasOne attribute shows object.to_s', 'state': 'closed', 'created_at': '2018-04-13T10:14:33Z', 'closed_at': '2020-10-05T18:41:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1141, 'title': 'issue with gem "administrate"', 'state': 'closed', 'created_at': '2018-04-12T19:38:25Z', 'closed_at': '2018-04-20T13:37:44Z', 'labels': []}
+{'issuenumber': 1139, 'title': '`.byebug_history` and `gemfiles/.bundle/` not in .gitignore', 'state': 'closed', 'created_at': '2018-04-11T06:49:21Z', 'closed_at': '2018-04-20T13:26:08Z', 'labels': []}
+{'issuenumber': 1137, 'title': "Discussion: How to change fields' visibility in a form using Pundit's `permitted_attributes_for#{action}`?", 'state': 'closed', 'created_at': '2018-04-11T06:12:27Z', 'closed_at': '2018-05-01T10:10:22Z', 'labels': []}
+{'issuenumber': 1133, 'title': 'Dependency issues with rails 5.2.0 on bundle install', 'state': 'closed', 'created_at': '2018-04-10T12:08:58Z', 'closed_at': '2018-04-20T13:13:31Z', 'labels': []}
+{'issuenumber': 1130, 'title': "Sidebar fails rendering link_to with NoMethodError: undefined method `to_model' for #<Administrate::Namespace::Resource:0x0000...>", 'state': 'closed', 'created_at': '2018-04-05T11:37:49Z', 'closed_at': '2020-03-31T21:23:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1128, 'title': 'How to Create Job Dashboard?', 'state': 'closed', 'created_at': '2018-03-29T19:24:50Z', 'closed_at': '2020-01-09T10:55:26Z', 'labels': []}
+{'issuenumber': 1123, 'title': 'How to display has_many field name in edit/new dropdown', 'state': 'closed', 'created_at': '2018-03-21T08:24:02Z', 'closed_at': '2018-03-21T08:44:39Z', 'labels': []}
+{'issuenumber': 1122, 'title': 'Could not find momentjs-rails', 'state': 'closed', 'created_at': '2018-03-20T14:23:14Z', 'closed_at': '2018-03-20T14:43:29Z', 'labels': []}
+{'issuenumber': 1118, 'title': 'No possibility to override stylesheets and javascripts through Webpacker assets', 'state': 'closed', 'created_at': '2018-03-16T02:51:27Z', 'closed_at': '2020-01-30T17:42:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1114, 'title': 'Randomly failing test in show_page_spec.rb:5', 'state': 'closed', 'created_at': '2018-03-13T17:52:25Z', 'closed_at': '2018-04-21T09:48:05Z', 'labels': []}
+{'issuenumber': 1113, 'title': '.rubocop.yml need an update', 'state': 'closed', 'created_at': '2018-03-13T17:26:55Z', 'closed_at': '2018-03-16T10:27:42Z', 'labels': []}
+{'issuenumber': 1111, 'title': 'automatically remove models from sidebar that are inaccessible?', 'state': 'closed', 'created_at': '2018-03-08T17:57:53Z', 'closed_at': '2019-04-07T01:16:12Z', 'labels': []}
+{'issuenumber': 1110, 'title': 'Uninitialized constant Dashboard error from custom field.', 'state': 'closed', 'created_at': '2018-03-07T15:47:49Z', 'closed_at': '2018-03-07T20:55:58Z', 'labels': []}
+{'issuenumber': 1109, 'title': 'alternate field set for displaying has_many on show page', 'state': 'closed', 'created_at': '2018-03-07T14:15:11Z', 'closed_at': '2019-04-07T01:15:53Z', 'labels': []}
+{'issuenumber': 1108, 'title': 'Allow for custom attributes on PageCollection', 'state': 'closed', 'created_at': '2018-03-06T17:57:15Z', 'closed_at': '2019-07-13T17:57:24Z', 'labels': []}
+{'issuenumber': 1105, 'title': 'i18n inconsistencies in forms for associations', 'state': 'closed', 'created_at': '2018-03-05T12:53:32Z', 'closed_at': '2018-07-20T15:18:21Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1102, 'title': 'Show search bar ?', 'state': 'closed', 'created_at': '2018-02-22T17:11:39Z', 'closed_at': '2018-03-02T20:10:52Z', 'labels': []}
+{'issuenumber': 1101, 'title': 'Search is broken in MySQL', 'state': 'closed', 'created_at': '2018-02-22T15:13:59Z', 'closed_at': '2018-02-25T10:00:59Z', 'labels': []}
+{'issuenumber': 1100, 'title': "`has_one?' for nil:NilClass (NoMethodError)", 'state': 'closed', 'created_at': '2018-02-18T21:22:36Z', 'closed_at': '2019-04-30T11:41:48Z', 'labels': {'name': 'models'}}
+{'issuenumber': 1093, 'title': 'errors on create when `FORM_ATTRIBUTES = []`', 'state': 'closed', 'created_at': '2018-02-12T08:25:52Z', 'closed_at': '2020-01-09T10:54:18Z', 'labels': []}
+{'issuenumber': 1092, 'title': 'Change basic authentication documentation', 'state': 'closed', 'created_at': '2018-02-09T16:04:26Z', 'closed_at': '2020-01-03T12:09:08Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 1091, 'title': 'PG case sensitivity', 'state': 'closed', 'created_at': '2018-02-09T14:46:19Z', 'closed_at': '2020-10-05T17:21:14Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1090, 'title': '`show_action?` not being overridden? ', 'state': 'closed', 'created_at': '2018-02-08T16:28:44Z', 'closed_at': '2020-10-05T15:57:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1089, 'title': 'PG::UndefinedFunction: ERROR:  function lower(date) does not exist LINE 1: SELECT  "posts".* FROM "posts" WHERE (lower("posts"."date") ...', 'state': 'closed', 'created_at': '2018-02-06T23:26:31Z', 'closed_at': '2019-08-08T10:49:48Z', 'labels': []}
+{'issuenumber': 1088, 'title': 'Adminstrate with devise_invitable (Not an issue, Just a query)', 'state': 'closed', 'created_at': '2018-02-06T04:27:23Z', 'closed_at': '2018-02-09T05:17:34Z', 'labels': []}
+{'issuenumber': 1087, 'title': 'Why do you use double quote " for the string', 'state': 'closed', 'created_at': '2018-02-05T12:07:01Z', 'closed_at': '2018-02-06T09:48:48Z', 'labels': []}
+{'issuenumber': 1086, 'title': 'support globalize gem?', 'state': 'closed', 'created_at': '2018-02-05T01:47:27Z', 'closed_at': '2018-04-20T13:25:00Z', 'labels': []}
+{'issuenumber': 1085, 'title': 'Unable to generate a dashboard', 'state': 'closed', 'created_at': '2018-02-04T13:14:59Z', 'closed_at': '2018-02-04T13:27:43Z', 'labels': []}
+{'issuenumber': 1084, 'title': 'Add a way to show JSON column ', 'state': 'closed', 'created_at': '2018-02-03T17:05:36Z', 'closed_at': '2018-02-03T18:02:16Z', 'labels': []}
+{'issuenumber': 1082, 'title': 'dashboard for model inside a Gem', 'state': 'closed', 'created_at': '2018-01-30T05:59:33Z', 'closed_at': '2020-01-09T10:56:08Z', 'labels': []}
+{'issuenumber': 1080, 'title': "rails generate administrate:install --> const_get': uninitialized constant Welcome (NameError)", 'state': 'closed', 'created_at': '2018-01-28T16:14:25Z', 'closed_at': '2020-01-02T15:17:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1072, 'title': 'Text in links not fully translated', 'state': 'closed', 'created_at': '2018-01-25T00:45:06Z', 'closed_at': '2020-10-06T11:26:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1071, 'title': 'rails generate administrate:install fails', 'state': 'closed', 'created_at': '2018-01-23T08:07:55Z', 'closed_at': '2018-01-26T12:30:22Z', 'labels': []}
+{'issuenumber': 1069, 'title': 'Default timezone is better to be Rails.application.config.time_zone', 'state': 'closed', 'created_at': '2018-01-15T05:37:07Z', 'closed_at': '2018-03-02T20:04:30Z', 'labels': []}
+{'issuenumber': 1062, 'title': 'Access Method on model', 'state': 'closed', 'created_at': '2018-01-08T02:19:22Z', 'closed_at': '2020-01-03T12:45:24Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 1060, 'title': 'Generic method for referencing the model associated to that controller', 'state': 'closed', 'created_at': '2017-12-30T02:51:36Z', 'closed_at': '2020-01-03T12:44:20Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 1058, 'title': 'invalid date error', 'state': 'closed', 'created_at': '2017-12-22T17:54:37Z', 'closed_at': '2020-10-05T18:42:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1050, 'title': 'Field::BelongsTo show link issue', 'state': 'closed', 'created_at': '2017-12-12T18:23:56Z', 'closed_at': '2020-01-09T10:52:12Z', 'labels': []}
+{'issuenumber': 1049, 'title': 'Custom controller causes ActionController::UrlGenerationError in Admin::Users#edit', 'state': 'closed', 'created_at': '2017-12-12T15:53:44Z', 'closed_at': '2017-12-12T17:40:44Z', 'labels': []}
+{'issuenumber': 1048, 'title': 'Eager load: uninitialized constant Administrate::Punditize::Pundit (NameError)', 'state': 'closed', 'created_at': '2017-12-09T07:22:28Z', 'closed_at': '2018-01-16T09:48:34Z', 'labels': []}
+{'issuenumber': 1047, 'title': 'Custom /admin route?', 'state': 'closed', 'created_at': '2017-12-08T13:57:29Z', 'closed_at': '2018-03-27T10:58:35Z', 'labels': []}
+{'issuenumber': 1045, 'title': 'Missing data with has_many collection pagination', 'state': 'closed', 'created_at': '2017-12-05T20:01:46Z', 'closed_at': '2021-01-14T14:51:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1044, 'title': 'Decorate model instance with custom attributes in administration?', 'state': 'closed', 'created_at': '2017-12-05T14:35:43Z', 'closed_at': '2018-03-02T16:26:01Z', 'labels': []}
+{'issuenumber': 1042, 'title': 'HasMany index partial passes an already-pluralized field name to pluralize helper', 'state': 'closed', 'created_at': '2017-12-04T21:17:09Z', 'closed_at': '2018-01-16T09:55:34Z', 'labels': []}
+{'issuenumber': 1038, 'title': 'The "Show All" button not generating the correct query when called on has_many through relations', 'state': 'closed', 'created_at': '2017-11-30T02:25:27Z', 'closed_at': '2020-10-05T18:12:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1036, 'title': ' Could not load generator "generators/administrate/routes/routes_generator". Error: Circular dependency detected while autoloading constant Administrate::ApplicationController.', 'state': 'closed', 'created_at': '2017-11-29T19:01:24Z', 'closed_at': '2020-10-05T17:37:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1035, 'title': 'Installation error using Rails 5.2.0.beta1', 'state': 'closed', 'created_at': '2017-11-28T20:45:05Z', 'closed_at': '2017-12-05T19:21:52Z', 'labels': []}
+{'issuenumber': 1034, 'title': 'BelongsTo field ordering', 'state': 'closed', 'created_at': '2017-11-27T19:28:59Z', 'closed_at': '2017-12-04T17:15:29Z', 'labels': []}
+{'issuenumber': 1033, 'title': 'Current design is crippling nested "has_many" forms', 'state': 'closed', 'created_at': '2017-11-27T18:32:03Z', 'closed_at': '2020-10-05T16:59:51Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1030, 'title': 'DRY on admin_user_dashboard.rb', 'state': 'closed', 'created_at': '2017-11-22T21:47:23Z', 'closed_at': '2017-12-19T22:09:15Z', 'labels': []}
+{'issuenumber': 1029, 'title': 'Invalid date error', 'state': 'closed', 'created_at': '2017-11-21T14:44:51Z', 'closed_at': '2017-11-24T17:59:21Z', 'labels': []}
+{'issuenumber': 1026, 'title': 'Administrate does not yet support namespaced models.', 'state': 'closed', 'created_at': '2017-11-15T08:28:45Z', 'closed_at': '2017-11-23T15:09:41Z', 'labels': []}
+{'issuenumber': 1025, 'title': 'Adding a newly-migrated attribute to the dashboard', 'state': 'closed', 'created_at': '2017-11-10T22:03:40Z', 'closed_at': '2020-01-03T12:38:56Z', 'labels': []}
+{'issuenumber': 1024, 'title': 'Filters in search?', 'state': 'closed', 'created_at': '2017-11-10T07:36:29Z', 'closed_at': '2021-04-22T16:01:34Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 1023, 'title': 'with_options for Field::BelongsTo?', 'state': 'closed', 'created_at': '2017-11-09T19:18:54Z', 'closed_at': '2017-12-04T17:35:36Z', 'labels': []}
+{'issuenumber': 1021, 'title': 'Use number_field for Field::Number', 'state': 'closed', 'created_at': '2017-11-05T16:54:54Z', 'closed_at': '2020-10-05T20:06:53Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 1019, 'title': 'Running the install generator after initial install should pick up new models.', 'state': 'closed', 'created_at': '2017-10-29T15:58:37Z', 'closed_at': '2019-08-06T10:27:55Z', 'labels': []}
+{'issuenumber': 1015, 'title': 'List plugins in repo?', 'state': 'closed', 'created_at': '2017-10-26T20:15:49Z', 'closed_at': '2018-02-13T17:28:47Z', 'labels': []}
+{'issuenumber': 1012, 'title': 'Documentation suggestion for non-AR models', 'state': 'closed', 'created_at': '2017-10-25T00:11:45Z', 'closed_at': '2019-07-22T09:40:58Z', 'labels': []}
+{'issuenumber': 1011, 'title': 'Generated dashboards throwing undefined method permit error', 'state': 'closed', 'created_at': '2017-10-23T03:31:37Z', 'closed_at': '2017-12-04T16:47:16Z', 'labels': []}
+{'issuenumber': 1010, 'title': 'Ruby version 2.1.6 throws SyntaxError from lib/administrate/field/has_one.rb:21', 'state': 'closed', 'created_at': '2017-10-20T21:51:20Z', 'closed_at': '2018-01-30T09:41:52Z', 'labels': []}
+{'issuenumber': 1003, 'title': "problem with rerun 'rails generate administrate:install'", 'state': 'closed', 'created_at': '2017-10-14T17:15:36Z', 'closed_at': '2017-10-29T16:00:36Z', 'labels': []}
+{'issuenumber': 1001, 'title': 'Sorting Navigation Resources', 'state': 'closed', 'created_at': '2017-10-11T18:29:41Z', 'closed_at': '2017-10-11T20:39:11Z', 'labels': []}
+{'issuenumber': 997, 'title': 'Search no longer retuning partial match results', 'state': 'closed', 'created_at': '2017-10-06T21:12:31Z', 'closed_at': '2019-12-28T08:30:57Z', 'labels': []}
+{'issuenumber': 995, 'title': 'how to add a custom JS/form to a dashboard', 'state': 'closed', 'created_at': '2017-10-05T18:49:40Z', 'closed_at': '2017-11-20T14:59:45Z', 'labels': []}
+{'issuenumber': 990, 'title': 'How to add new attributes to permit?', 'state': 'closed', 'created_at': '2017-09-29T10:51:46Z', 'closed_at': '2020-02-07T10:10:09Z', 'labels': []}
+{'issuenumber': 989, 'title': 'Pagination broken on `show` pages', 'state': 'closed', 'created_at': '2017-09-29T09:48:58Z', 'closed_at': '2019-01-11T16:14:29Z', 'labels': []}
+{'issuenumber': 986, 'title': 'ArgumentError - unknown firstpos: NilClass:', 'state': 'closed', 'created_at': '2017-09-28T18:12:58Z', 'closed_at': '2020-02-07T09:31:00Z', 'labels': []}
+{'issuenumber': 985, 'title': 'Error while run: rails generate administrate:install on existing project ', 'state': 'closed', 'created_at': '2017-09-28T12:04:11Z', 'closed_at': '2017-10-18T22:31:47Z', 'labels': []}
+{'issuenumber': 983, 'title': "Documentation doesn't describe views customisation", 'state': 'closed', 'created_at': '2017-09-28T09:33:08Z', 'closed_at': '2020-01-03T12:56:51Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 979, 'title': "License copyright date doesn't match Readme", 'state': 'closed', 'created_at': '2017-09-25T12:32:18Z', 'closed_at': '2017-09-25T14:32:28Z', 'labels': []}
+{'issuenumber': 978, 'title': 'has_and_belongs_to_many association', 'state': 'closed', 'created_at': '2017-09-25T11:09:01Z', 'closed_at': '2017-11-28T12:40:52Z', 'labels': []}
+{'issuenumber': 975, 'title': '`attr_encrypted` columns will cause the dashboard generator to fail', 'state': 'closed', 'created_at': '2017-09-20T21:42:59Z', 'closed_at': '2020-01-09T09:52:43Z', 'labels': []}
+{'issuenumber': 974, 'title': "Order option for belongs_to field doesn't work consistently", 'state': 'closed', 'created_at': '2017-09-20T16:34:56Z', 'closed_at': '2017-11-01T16:08:06Z', 'labels': []}
+{'issuenumber': 973, 'title': 'Inconsistent paths between view/partial generators', 'state': 'closed', 'created_at': '2017-09-18T19:39:11Z', 'closed_at': '2020-01-09T10:49:02Z', 'labels': []}
+{'issuenumber': 970, 'title': 'Custom view for a specific action not overriding default', 'state': 'closed', 'created_at': '2017-09-12T22:05:58Z', 'closed_at': '2019-07-22T16:11:19Z', 'labels': []}
+{'issuenumber': 969, 'title': 'ActiveStorage (Rails 5.2)', 'state': 'closed', 'created_at': '2017-09-10T15:51:45Z', 'closed_at': '2017-09-19T16:29:36Z', 'labels': []}
+{'issuenumber': 968, 'title': 'STI model names not being rendered correctly', 'state': 'closed', 'created_at': '2017-09-07T14:08:37Z', 'closed_at': '2020-10-05T17:24:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 965, 'title': 'Using Administrate with an API app', 'state': 'closed', 'created_at': '2017-08-21T04:58:09Z', 'closed_at': '2020-01-03T12:49:16Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 964, 'title': 'rails g administrate:dashboard Model fails: uninitialized constant Users (NameError)', 'state': 'closed', 'created_at': '2017-08-16T16:52:28Z', 'closed_at': '2017-08-16T16:58:31Z', 'labels': []}
+{'issuenumber': 963, 'title': "Unable to localize model name in 'create' button", 'state': 'closed', 'created_at': '2017-08-10T19:06:29Z', 'closed_at': '2017-09-28T15:28:51Z', 'labels': []}
+{'issuenumber': 962, 'title': 'How to use HasMany in conjunction with self referential associations', 'state': 'closed', 'created_at': '2017-08-10T16:22:50Z', 'closed_at': '2020-01-09T10:19:31Z', 'labels': []}
+{'issuenumber': 960, 'title': 'Dashboard file still created if errors occur', 'state': 'closed', 'created_at': '2017-08-09T11:51:09Z', 'closed_at': '2019-08-18T16:30:18Z', 'labels': []}
+{'issuenumber': 959, 'title': 'password field?', 'state': 'closed', 'created_at': '2017-08-08T16:37:53Z', 'closed_at': '2017-08-09T10:07:37Z', 'labels': []}
+{'issuenumber': 958, 'title': "Couldn't find the New button", 'state': 'closed', 'created_at': '2017-08-07T15:01:39Z', 'closed_at': '2017-08-07T15:03:48Z', 'labels': []}
+{'issuenumber': 957, 'title': "Class of a field does not have access to it's own options", 'state': 'closed', 'created_at': '2017-08-02T09:51:02Z', 'closed_at': '2018-04-27T20:23:20Z', 'labels': []}
+{'issuenumber': 955, 'title': 'add additional definitions to manage nested forms, etc ?', 'state': 'closed', 'created_at': '2017-07-31T16:11:57Z', 'closed_at': '2020-10-05T18:21:13Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 954, 'title': 'how to disable nested forms or restrict to a certain number of levels', 'state': 'closed', 'created_at': '2017-07-31T16:10:15Z', 'closed_at': '2020-10-06T16:52:05Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 953, 'title': 'run rails generate administrate:install', 'state': 'closed', 'created_at': '2017-07-29T17:34:03Z', 'closed_at': '2017-10-29T15:30:53Z', 'labels': []}
+{'issuenumber': 952, 'title': 'Time zone select?', 'state': 'closed', 'created_at': '2017-07-29T07:22:38Z', 'closed_at': '2017-07-30T14:00:48Z', 'labels': []}
+{'issuenumber': 951, 'title': 'has_one with options class_name burns in agony', 'state': 'closed', 'created_at': '2017-07-28T19:39:26Z', 'closed_at': '2017-12-20T14:19:31Z', 'labels': []}
+{'issuenumber': 950, 'title': 'Feature Request: has_many relationships in edit page are clickable and can scope', 'state': 'closed', 'created_at': '2017-07-28T18:22:13Z', 'closed_at': '2020-10-05T18:26:58Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 949, 'title': 'Name Error with generate dashboard command', 'state': 'closed', 'created_at': '2017-07-24T17:39:48Z', 'closed_at': '2020-01-02T15:14:26Z', 'labels': []}
+{'issuenumber': 948, 'title': 'Support for isolated engines?', 'state': 'closed', 'created_at': '2017-07-22T22:05:32Z', 'closed_at': '2020-01-02T15:49:40Z', 'labels': []}
+{'issuenumber': 944, 'title': 'display_resource not overwriting to show username instead of  User #1 ', 'state': 'closed', 'created_at': '2017-07-19T23:22:51Z', 'closed_at': '2017-07-24T22:34:02Z', 'labels': []}
+{'issuenumber': 943, 'title': 'How to display column with object number?', 'state': 'closed', 'created_at': '2017-07-19T19:31:28Z', 'closed_at': '2019-08-02T08:50:09Z', 'labels': []}
+{'issuenumber': 941, 'title': 'Add IntelliJ-related metadata files to .gitignore', 'state': 'closed', 'created_at': '2017-07-19T10:39:33Z', 'closed_at': '2017-07-20T11:08:53Z', 'labels': []}
+{'issuenumber': 938, 'title': 'How to rename dashboard', 'state': 'closed', 'created_at': '2017-07-17T17:08:10Z', 'closed_at': '2017-08-09T13:31:40Z', 'labels': []}
+{'issuenumber': 937, 'title': 'Can custom field plugins reformat data on submit?', 'state': 'closed', 'created_at': '2017-07-15T20:49:03Z', 'closed_at': '2020-10-05T18:48:01Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 932, 'title': 'Normalize asset file not included in gem', 'state': 'closed', 'created_at': '2017-07-14T13:48:20Z', 'closed_at': '2017-07-14T17:02:04Z', 'labels': []}
+{'issuenumber': 930, 'title': 'How to create read-only dashboard or restrict actions by some conditions', 'state': 'closed', 'created_at': '2017-07-12T20:40:11Z', 'closed_at': '2020-01-02T15:13:40Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 929, 'title': "Launching the sample app locally with rails s doesn't load ENV variables", 'state': 'closed', 'created_at': '2017-07-11T16:40:45Z', 'closed_at': '2017-11-23T12:23:33Z', 'labels': []}
+{'issuenumber': 911, 'title': 'How to display the correct attribute in display_resource according to the dashboard?', 'state': 'closed', 'created_at': '2017-06-13T16:26:03Z', 'closed_at': '2020-01-09T10:44:26Z', 'labels': []}
+{'issuenumber': 909, 'title': 'How to setting an association field and customize it with paperclip', 'state': 'closed', 'created_at': '2017-06-12T06:42:28Z', 'closed_at': '2017-07-12T09:59:33Z', 'labels': []}
+{'issuenumber': 908, 'title': 'convert lives to life', 'state': 'closed', 'created_at': '2017-06-10T03:21:38Z', 'closed_at': '2017-06-10T15:31:15Z', 'labels': []}
+{'issuenumber': 907, 'title': 'A new release to support 5.1.1', 'state': 'closed', 'created_at': '2017-06-01T21:54:12Z', 'closed_at': '2020-01-02T15:12:17Z', 'labels': []}
+{'issuenumber': 906, 'title': 'install with rails 5.1', 'state': 'closed', 'created_at': '2017-05-31T06:50:07Z', 'closed_at': '2017-06-01T04:09:35Z', 'labels': []}
+{'issuenumber': 905, 'title': 'rails 5.1 Support .  ', 'state': 'closed', 'created_at': '2017-05-30T00:32:08Z', 'closed_at': '2017-05-30T02:20:37Z', 'labels': []}
+{'issuenumber': 901, 'title': 'include FactoryGirl::Syntax::Methods breaks controller inheritance of create action', 'state': 'closed', 'created_at': '2017-05-20T18:14:43Z', 'closed_at': '2017-06-07T22:43:03Z', 'labels': []}
+{'issuenumber': 900, 'title': 'I already have an /admin route', 'state': 'closed', 'created_at': '2017-05-19T20:26:41Z', 'closed_at': '2017-06-20T09:55:30Z', 'labels': []}
+{'issuenumber': 899, 'title': 'Nested resources in admin namespace throwing errors', 'state': 'closed', 'created_at': '2017-05-19T14:12:54Z', 'closed_at': '2021-02-28T11:37:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 897, 'title': 'Is it possible to use administrate inside of an rails engine?', 'state': 'closed', 'created_at': '2017-05-19T09:20:09Z', 'closed_at': '2020-01-02T15:49:03Z', 'labels': []}
+{'issuenumber': 895, 'title': 'Entire search bar is not clickable', 'state': 'closed', 'created_at': '2017-05-18T17:47:49Z', 'closed_at': '2017-05-19T14:49:54Z', 'labels': []}
+{'issuenumber': 894, 'title': "Doesn't work with Rails 5.1", 'state': 'closed', 'created_at': '2017-05-18T13:14:53Z', 'closed_at': '2017-05-18T15:21:34Z', 'labels': []}
+{'issuenumber': 890, 'title': 'DateTimePicker is not shown', 'state': 'closed', 'created_at': '2017-05-15T11:34:26Z', 'closed_at': '2020-01-09T17:25:54Z', 'labels': []}
+{'issuenumber': 889, 'title': 'Selectize.define is not a function', 'state': 'closed', 'created_at': '2017-05-15T11:33:05Z', 'closed_at': '2019-08-06T10:26:05Z', 'labels': []}
+{'issuenumber': 888, 'title': "administrate:views:layout task doesn't generate stylesheet partial", 'state': 'closed', 'created_at': '2017-05-14T07:13:52Z', 'closed_at': '2017-07-03T20:49:37Z', 'labels': []}
+{'issuenumber': 878, 'title': 'pagination translation for administrate', 'state': 'closed', 'created_at': '2017-05-10T10:25:16Z', 'closed_at': '2017-05-16T17:52:50Z', 'labels': {'name': 'i18n'}}
+{'issuenumber': 876, 'title': 'Split the translations into a separate gem.', 'state': 'closed', 'created_at': '2017-05-08T20:53:07Z', 'closed_at': '2020-01-02T15:48:04Z', 'labels': {'name': 'i18n'}}
+{'issuenumber': 865, 'title': 'Sticky table headers?', 'state': 'closed', 'created_at': '2017-05-06T01:57:47Z', 'closed_at': '2018-07-27T19:23:09Z', 'labels': {'name': 'views-and-styles'}}
+{'issuenumber': 864, 'title': 'Fix overlapping icon', 'state': 'closed', 'created_at': '2017-05-06T01:50:08Z', 'closed_at': '2017-10-02T16:11:48Z', 'labels': {'name': 'views-and-styles'}}
+{'issuenumber': 860, 'title': 'Improve error state visual design', 'state': 'closed', 'created_at': '2017-05-05T18:15:34Z', 'closed_at': '2021-02-05T15:43:57Z', 'labels': {'name': 'views-and-styles'}}
+{'issuenumber': 858, 'title': 'Sorting HasMany fields on show page', 'state': 'closed', 'created_at': '2017-05-05T08:06:53Z', 'closed_at': '2017-07-21T14:42:41Z', 'labels': []}
+{'issuenumber': 855, 'title': 'Admin model in rails app', 'state': 'closed', 'created_at': '2017-05-03T18:30:35Z', 'closed_at': '2020-01-02T15:11:58Z', 'labels': []}
+{'issuenumber': 853, 'title': 'After recent changes do not know how to run project in development environment', 'state': 'closed', 'created_at': '2017-05-03T01:44:39Z', 'closed_at': '2017-05-03T19:31:58Z', 'labels': []}
+{'issuenumber': 852, 'title': "undefined method `set_table_name'", 'state': 'closed', 'created_at': '2017-05-02T15:59:55Z', 'closed_at': '2020-01-02T15:11:09Z', 'labels': []}
+{'issuenumber': 850, 'title': 'Support Rails 5.1', 'state': 'closed', 'created_at': '2017-05-02T09:41:01Z', 'closed_at': '2017-05-02T10:06:58Z', 'labels': []}
+{'issuenumber': 848, 'title': 'Is it possible to specify sort order for related fields?', 'state': 'closed', 'created_at': '2017-04-30T23:41:39Z', 'closed_at': '2017-09-26T15:13:58Z', 'labels': []}
+{'issuenumber': 847, 'title': 'uninitialized constant Admin::Administrate', 'state': 'closed', 'created_at': '2017-04-29T21:27:49Z', 'closed_at': '2017-05-02T21:01:38Z', 'labels': []}
+{'issuenumber': 846, 'title': 'spec/generators/dashboard_generator_spec.rb failing randomly?', 'state': 'closed', 'created_at': '2017-04-29T15:57:39Z', 'closed_at': '2017-05-08T09:06:47Z', 'labels': []}
+{'issuenumber': 840, 'title': 'webmock gem need to be updated?', 'state': 'closed', 'created_at': '2017-04-25T19:31:26Z', 'closed_at': '2017-04-25T19:34:06Z', 'labels': []}
+{'issuenumber': 836, 'title': 'Rails g administrate:install not working', 'state': 'closed', 'created_at': '2017-04-20T00:31:50Z', 'closed_at': '2017-04-26T04:58:44Z', 'labels': []}
+{'issuenumber': 835, 'title': 'Resource Name', 'state': 'closed', 'created_at': '2017-04-18T21:53:11Z', 'closed_at': '2017-05-21T20:28:30Z', 'labels': []}
+{'issuenumber': 834, 'title': 'UI/UX/Design style guide for contributors and plugin authors', 'state': 'closed', 'created_at': '2017-04-14T20:29:50Z', 'closed_at': '2020-10-05T17:57:04Z', 'labels': {'name': 'views-and-styles'}}
+{'issuenumber': 833, 'title': "Question: Displaying image from Google Auth's URL image", 'state': 'closed', 'created_at': '2017-04-13T23:42:04Z', 'closed_at': '2017-04-14T02:06:11Z', 'labels': []}
+{'issuenumber': 831, 'title': 'Getting a hash for name resources ', 'state': 'closed', 'created_at': '2017-04-13T06:51:15Z', 'closed_at': '2017-04-14T02:02:56Z', 'labels': []}
+{'issuenumber': 829, 'title': 'Column name must be quoted', 'state': 'closed', 'created_at': '2017-04-11T23:39:10Z', 'closed_at': '2017-04-28T19:40:23Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 828, 'title': 'Document CSS architecture', 'state': 'closed', 'created_at': '2017-04-11T17:53:50Z', 'closed_at': '2017-05-07T14:32:20Z', 'labels': {'name': 'views-and-styles'}}
+{'issuenumber': 827, 'title': 'Update SCSS-Lint configuration', 'state': 'closed', 'created_at': '2017-04-11T17:49:09Z', 'closed_at': '2017-05-07T14:31:38Z', 'labels': {'name': 'views-and-styles'}}
+{'issuenumber': 825, 'title': 'Feature Request: Options From Collection For Select', 'state': 'closed', 'created_at': '2017-04-11T04:59:39Z', 'closed_at': '2021-04-22T15:50:10Z', 'labels': []}
+{'issuenumber': 819, 'title': 'Move the prototype/spec referenced images to a single, reliable source.', 'state': 'closed', 'created_at': '2017-04-04T20:44:51Z', 'closed_at': '2017-07-14T17:24:02Z', 'labels': []}
+{'issuenumber': 816, 'title': "Document how you could use enum's in a custom field.", 'state': 'closed', 'created_at': '2017-04-04T19:38:08Z', 'closed_at': '2018-09-19T14:59:13Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 811, 'title': 'Using fields in a customized form', 'state': 'closed', 'created_at': '2017-04-04T08:13:50Z', 'closed_at': '2019-08-14T08:24:02Z', 'labels': []}
+{'issuenumber': 808, 'title': 'How do i change the display name of related objects?', 'state': 'closed', 'created_at': '2017-04-02T22:52:38Z', 'closed_at': '2017-04-04T19:38:15Z', 'labels': []}
+{'issuenumber': 806, 'title': 'Upgrading to 0.5.0 breaks because bourbon seems to be missing', 'state': 'closed', 'created_at': '2017-03-31T17:05:55Z', 'closed_at': '2017-04-04T11:27:51Z', 'labels': []}
+{'issuenumber': 802, 'title': 'Error installing with Rails 5.1.0.rc1', 'state': 'closed', 'created_at': '2017-03-28T18:32:12Z', 'closed_at': '2017-03-29T08:56:43Z', 'labels': []}
+{'issuenumber': 800, 'title': '"uninitialized constant AverageCach (NameError)" when trying to generate administrate:install', 'state': 'closed', 'created_at': '2017-03-27T00:43:16Z', 'closed_at': '2017-04-04T19:37:09Z', 'labels': []}
+{'issuenumber': 790, 'title': '500 error - #valid_action? called with the wrong arguments when rendering Field::HasMany', 'state': 'closed', 'created_at': '2017-03-22T18:40:54Z', 'closed_at': '2017-05-12T16:02:40Z', 'labels': []}
+{'issuenumber': 777, 'title': 'belongs_to with :primary_key raises exception on rendering _form', 'state': 'closed', 'created_at': '2017-03-13T13:30:00Z', 'closed_at': '2017-07-31T15:17:05Z', 'labels': []}
+{'issuenumber': 775, 'title': 'Shipped gem should include documentation (guides)', 'state': 'closed', 'created_at': '2017-03-10T19:04:04Z', 'closed_at': '2017-03-11T18:26:40Z', 'labels': []}
+{'issuenumber': 773, 'title': 'Missing Translations for "New"/"Back".', 'state': 'closed', 'created_at': '2017-03-10T16:36:13Z', 'closed_at': '2017-03-27T20:40:58Z', 'labels': []}
+{'issuenumber': 770, 'title': 'Suggestion: Disable click event on text selection in index tables', 'state': 'closed', 'created_at': '2017-03-09T05:23:44Z', 'closed_at': '2017-04-28T19:42:40Z', 'labels': []}
+{'issuenumber': 768, 'title': 'Has_many associations are nil', 'state': 'closed', 'created_at': '2017-03-07T18:33:29Z', 'closed_at': '2017-03-10T20:20:59Z', 'labels': []}
+{'issuenumber': 766, 'title': "Ensure that Autoprefixer is running on Administrate's CSS", 'state': 'closed', 'created_at': '2017-03-06T18:28:39Z', 'closed_at': '2017-03-16T14:17:45Z', 'labels': []}
+{'issuenumber': 765, 'title': 'Suggestion: Namespace controllers and dashboards under the "administrate" name', 'state': 'closed', 'created_at': '2017-03-04T07:32:12Z', 'closed_at': '2020-01-02T15:10:23Z', 'labels': []}
+{'issuenumber': 758, 'title': 'Administrate::Namespace#namespace_controller_paths', 'state': 'closed', 'created_at': '2017-03-03T08:25:46Z', 'closed_at': '2018-03-27T10:29:09Z', 'labels': []}
+{'issuenumber': 756, 'title': 'How to add a new model to the Administrate framework?', 'state': 'closed', 'created_at': '2017-02-23T18:09:53Z', 'closed_at': '2019-02-26T17:19:36Z', 'labels': []}
+{'issuenumber': 754, 'title': 'Add `namespace` option to generators', 'state': 'closed', 'created_at': '2017-02-21T23:12:31Z', 'closed_at': '2017-11-10T10:50:30Z', 'labels': []}
+{'issuenumber': 753, 'title': 'Last Commit Date 2 Years Ago, Project Looks Dead', 'state': 'closed', 'created_at': '2017-02-17T09:04:51Z', 'closed_at': '2017-02-18T23:10:54Z', 'labels': []}
+{'issuenumber': 752, 'title': 'CSV Export', 'state': 'closed', 'created_at': '2017-02-12T16:41:13Z', 'closed_at': '2017-03-10T15:35:57Z', 'labels': []}
+{'issuenumber': 751, 'title': 'Feature Request: Alternate views to Grid', 'state': 'closed', 'created_at': '2017-02-10T01:48:04Z', 'closed_at': '2019-07-16T13:31:17Z', 'labels': []}
+{'issuenumber': 749, 'title': 'Any release planned?', 'state': 'closed', 'created_at': '2017-02-07T19:03:15Z', 'closed_at': '2017-02-11T17:22:39Z', 'labels': []}
+{'issuenumber': 748, 'title': 'How to add custom CSS?', 'state': 'closed', 'created_at': '2017-02-07T05:03:08Z', 'closed_at': '2017-02-28T23:01:28Z', 'labels': []}
+{'issuenumber': 745, 'title': 'DateTime Field blank on edit', 'state': 'closed', 'created_at': '2017-02-01T23:09:11Z', 'closed_at': '2020-01-02T15:08:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 742, 'title': 'Filtered scope for belongs_to', 'state': 'closed', 'created_at': '2017-01-24T08:21:21Z', 'closed_at': '2017-07-30T14:27:25Z', 'labels': []}
+{'issuenumber': 741, 'title': 'Date Field?', 'state': 'closed', 'created_at': '2017-01-23T15:14:51Z', 'closed_at': '2017-01-25T15:55:10Z', 'labels': []}
+{'issuenumber': 740, 'title': 'Interest in possible new Field::Float component', 'state': 'closed', 'created_at': '2017-01-21T03:47:44Z', 'closed_at': '2017-04-28T19:36:08Z', 'labels': []}
+{'issuenumber': 738, 'title': 'Deleting Customers and/or Orders from the Demo App throws an exception', 'state': 'closed', 'created_at': '2017-01-20T17:42:30Z', 'closed_at': '2017-01-20T19:02:53Z', 'labels': []}
+{'issuenumber': 735, 'title': 'belongs_to with foreign_key not working', 'state': 'closed', 'created_at': '2017-01-18T06:54:39Z', 'closed_at': '2017-03-21T10:41:20Z', 'labels': []}
+{'issuenumber': 734, 'title': 'Demo', 'state': 'closed', 'created_at': '2017-01-16T17:04:48Z', 'closed_at': '2017-01-18T12:40:21Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 731, 'title': 'Unscoping default scope', 'state': 'closed', 'created_at': '2017-01-13T19:40:56Z', 'closed_at': '2017-07-10T16:11:00Z', 'labels': []}
+{'issuenumber': 725, 'title': 'Assets not loaded in production', 'state': 'closed', 'created_at': '2017-01-05T13:08:16Z', 'closed_at': '2017-04-05T14:08:55Z', 'labels': []}
+{'issuenumber': 724, 'title': 'has_one nested form ?', 'state': 'closed', 'created_at': '2017-01-03T06:33:18Z', 'closed_at': '2017-03-07T04:00:23Z', 'labels': []}
+{'issuenumber': 723, 'title': 'File to import not found or unreadable: bourbon. Load paths', 'state': 'closed', 'created_at': '2017-01-02T05:38:48Z', 'closed_at': '2017-01-03T14:54:20Z', 'labels': []}
+{'issuenumber': 720, 'title': 'DashboardGenerator does not update routes', 'state': 'closed', 'created_at': '2016-12-27T23:36:51Z', 'closed_at': '2021-04-23T20:42:37Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 718, 'title': "undefined local variable or method `page'", 'state': 'closed', 'created_at': '2016-12-25T23:25:10Z', 'closed_at': '2017-03-11T18:20:09Z', 'labels': []}
+{'issuenumber': 717, 'title': 'Issue with administrate-field-image', 'state': 'closed', 'created_at': '2016-12-20T17:50:29Z', 'closed_at': '2016-12-20T18:07:41Z', 'labels': []}
+{'issuenumber': 716, 'title': 'Format for datetimepickers should be customizable', 'state': 'closed', 'created_at': '2016-12-19T02:00:46Z', 'closed_at': '2019-12-31T13:41:32Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 715, 'title': 'Field::JSON Needed', 'state': 'closed', 'created_at': '2016-12-17T19:40:14Z', 'closed_at': '2016-12-18T20:38:24Z', 'labels': []}
+{'issuenumber': 711, 'title': 'Unable to pass instance variables from the Controller to the View', 'state': 'closed', 'created_at': '2016-12-14T22:44:46Z', 'closed_at': '2017-03-10T15:32:30Z', 'labels': []}
+{'issuenumber': 710, 'title': 'DateFormat Option in Field::DateTime', 'state': 'closed', 'created_at': '2016-12-14T17:51:27Z', 'closed_at': '2018-04-20T13:57:21Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 709, 'title': 'General question: What should the community expect in terms of commitment to merging PRs', 'state': 'closed', 'created_at': '2016-12-14T13:53:23Z', 'closed_at': '2016-12-16T18:49:00Z', 'labels': []}
+{'issuenumber': 708, 'title': 'Multiple permitted attributes per field?', 'state': 'closed', 'created_at': '2016-12-14T02:01:53Z', 'closed_at': '2016-12-14T02:30:00Z', 'labels': []}
+{'issuenumber': 705, 'title': 'Field type: array', 'state': 'closed', 'created_at': '2016-12-11T19:14:05Z', 'closed_at': '2016-12-11T19:36:22Z', 'labels': []}
+{'issuenumber': 702, 'title': 'When will the Official RubyGem be made available for Rails 5?', 'state': 'closed', 'created_at': '2016-11-30T00:09:58Z', 'closed_at': '2016-12-16T19:13:03Z', 'labels': []}
+{'issuenumber': 701, 'title': 'Virtual Attributes and option for select', 'state': 'closed', 'created_at': '2016-11-29T20:09:10Z', 'closed_at': '2016-11-30T09:00:39Z', 'labels': []}
+{'issuenumber': 700, 'title': 'Demo App Source Code', 'state': 'closed', 'created_at': '2016-11-29T19:05:26Z', 'closed_at': '2016-12-16T19:12:03Z', 'labels': []}
+{'issuenumber': 699, 'title': 'I18n of new resource button', 'state': 'closed', 'created_at': '2016-11-28T13:27:25Z', 'closed_at': '2020-01-02T15:00:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 697, 'title': 'Version 0.3.0 on rubygems makes resolving dependencies difficult', 'state': 'closed', 'created_at': '2016-11-23T18:01:06Z', 'closed_at': '2016-12-16T19:10:20Z', 'labels': []}
+{'issuenumber': 696, 'title': 'Separate paging views for admin', 'state': 'closed', 'created_at': '2016-11-23T15:19:13Z', 'closed_at': '2016-11-23T15:48:14Z', 'labels': []}
+{'issuenumber': 695, 'title': 'Sorting arrows in wrong places', 'state': 'closed', 'created_at': '2016-11-18T10:42:35Z', 'closed_at': '2016-11-22T08:06:36Z', 'labels': []}
+{'issuenumber': 694, 'title': 'Fresh install - vertical pagination', 'state': 'closed', 'created_at': '2016-11-18T10:19:55Z', 'closed_at': '2016-11-23T14:46:46Z', 'labels': []}
+{'issuenumber': 693, 'title': 'ERROR: Attempting to generate a URL from non-sanitized request parameters! An attacker can inject malicious data into the generated URL, such as changing the host. Whitelist and sanitize passed parameters to be secure.', 'state': 'closed', 'created_at': '2016-11-16T22:14:13Z', 'closed_at': '2017-03-10T18:57:13Z', 'labels': []}
+{'issuenumber': 692, 'title': 'Ability to customize left sidebar', 'state': 'closed', 'created_at': '2016-11-12T03:29:41Z', 'closed_at': '2016-11-12T03:49:22Z', 'labels': []}
+{'issuenumber': 691, 'title': 'Exclude certain attributes from search', 'state': 'closed', 'created_at': '2016-11-12T02:40:19Z', 'closed_at': '2016-11-12T03:50:34Z', 'labels': []}
+{'issuenumber': 690, 'title': 'Search functionality issues', 'state': 'closed', 'created_at': '2016-11-10T08:33:43Z', 'closed_at': '2017-03-10T15:24:39Z', 'labels': []}
+{'issuenumber': 689, 'title': 'Customize association name', 'state': 'closed', 'created_at': '2016-11-08T08:47:01Z', 'closed_at': '2016-11-10T08:32:50Z', 'labels': []}
+{'issuenumber': 686, 'title': 'Broken sort arrow in the resource table', 'state': 'closed', 'created_at': '2016-11-06T10:48:07Z', 'closed_at': '2017-03-10T15:23:23Z', 'labels': []}
+{'issuenumber': 685, 'title': 'Setting extra attributes on has_many join table?', 'state': 'closed', 'created_at': '2016-11-02T16:14:18Z', 'closed_at': '2016-11-21T18:11:54Z', 'labels': []}
+{'issuenumber': 681, 'title': 'Unable to display has many relationship if "source" is used in the relationship', 'state': 'closed', 'created_at': '2016-10-28T16:00:08Z', 'closed_at': '2020-10-05T17:26:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 678, 'title': 'Question: Does this gem allow adding children to parent object?', 'state': 'closed', 'created_at': '2016-10-27T02:29:41Z', 'closed_at': '2017-03-17T16:44:41Z', 'labels': []}
+{'issuenumber': 677, 'title': 'Uncommenting display_resource method throws "NameError in Admin::Users#show" error', 'state': 'closed', 'created_at': '2016-10-27T02:20:49Z', 'closed_at': '2016-10-27T02:22:57Z', 'labels': []}
+{'issuenumber': 676, 'title': 'Demo app throws errors', 'state': 'closed', 'created_at': '2016-10-27T02:13:56Z', 'closed_at': '2017-02-03T11:57:30Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 675, 'title': "`add_route': Invalid route name, already in use: 'admin_root'", 'state': 'closed', 'created_at': '2016-10-24T16:03:29Z', 'closed_at': '2016-10-28T14:50:29Z', 'labels': []}
+{'issuenumber': 674, 'title': 'Previewing on the Cloud', 'state': 'closed', 'created_at': '2016-10-24T12:50:47Z', 'closed_at': '2016-10-28T15:07:27Z', 'labels': []}
+{'issuenumber': 669, 'title': 'Clear search broken on rails 5', 'state': 'closed', 'created_at': '2016-10-13T14:54:37Z', 'closed_at': '2017-04-04T19:42:04Z', 'labels': []}
+{'issuenumber': 668, 'title': '0.2.2 depends on rails ~4.2', 'state': 'closed', 'created_at': '2016-10-12T21:28:14Z', 'closed_at': '2016-11-02T14:32:58Z', 'labels': []}
+{'issuenumber': 666, 'title': 'Increase viewable instances of attributes with has_many relation on show pages', 'state': 'closed', 'created_at': '2016-10-07T21:39:56Z', 'closed_at': '2016-10-20T21:52:11Z', 'labels': []}
+{'issuenumber': 664, 'title': 'Sass::SyntaxError - File to import not found or unreadable: bourbon.', 'state': 'closed', 'created_at': '2016-10-06T00:29:16Z', 'closed_at': '2016-10-19T16:37:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 662, 'title': 'NoMethodError in Admin::Users#index', 'state': 'closed', 'created_at': '2016-10-03T22:06:18Z', 'closed_at': '2016-10-03T22:54:57Z', 'labels': []}
+{'issuenumber': 661, 'title': '"datetimepicker" not showing / responding in datetime field.', 'state': 'closed', 'created_at': '2016-09-29T15:26:44Z', 'closed_at': '2017-04-17T15:40:23Z', 'labels': []}
+{'issuenumber': 660, 'title': 'Fresh install of gem, cannot get past Invalid CSS Error', 'state': 'closed', 'created_at': '2016-09-22T17:54:05Z', 'closed_at': '2017-03-10T15:17:11Z', 'labels': []}
+{'issuenumber': 659, 'title': 'Feature Request: Support multiple select', 'state': 'closed', 'created_at': '2016-09-22T07:01:02Z', 'closed_at': '2016-10-07T14:55:39Z', 'labels': []}
+{'issuenumber': 658, 'title': 'How can I prefill a form with data I get from an external API ?', 'state': 'closed', 'created_at': '2016-09-21T10:03:53Z', 'closed_at': '2016-09-22T08:20:36Z', 'labels': []}
+{'issuenumber': 657, 'title': 'uninitialized constant FriendlyId::SlugDashboard', 'state': 'closed', 'created_at': '2016-09-16T18:06:58Z', 'closed_at': '2016-10-21T16:48:07Z', 'labels': []}
+{'issuenumber': 655, 'title': 'How do I display an image instead of the image_path?', 'state': 'closed', 'created_at': '2016-09-11T08:34:48Z', 'closed_at': '2016-10-07T16:03:10Z', 'labels': []}
+{'issuenumber': 652, 'title': 'Is this project still active?', 'state': 'closed', 'created_at': '2016-09-06T23:48:17Z', 'closed_at': '2016-10-07T14:32:00Z', 'labels': []}
+{'issuenumber': 651, 'title': 'Doh', 'state': 'closed', 'created_at': '2016-09-06T16:10:09Z', 'closed_at': '2016-09-06T16:11:19Z', 'labels': []}
+{'issuenumber': 647, 'title': 'with_options usage documentation', 'state': 'closed', 'created_at': '2016-08-19T15:30:03Z', 'closed_at': '2017-03-10T15:16:21Z', 'labels': []}
+{'issuenumber': 645, 'title': 'Generate administrate:views creates incorrect path', 'state': 'closed', 'created_at': '2016-08-17T03:07:16Z', 'closed_at': '2017-02-03T14:44:07Z', 'labels': []}
+{'issuenumber': 644, 'title': 'Install causes Collection attribute type errors', 'state': 'closed', 'created_at': '2016-08-16T18:49:45Z', 'closed_at': '2017-04-17T15:41:04Z', 'labels': []}
+{'issuenumber': 643, 'title': 'Question: default_scoped models', 'state': 'closed', 'created_at': '2016-08-16T04:29:07Z', 'closed_at': '2017-03-10T15:15:44Z', 'labels': []}
+{'issuenumber': 641, 'title': "Where's the code of the demo application?", 'state': 'closed', 'created_at': '2016-08-07T21:48:48Z', 'closed_at': '2016-08-07T21:54:24Z', 'labels': []}
+{'issuenumber': 640, 'title': 'Update Rails store ', 'state': 'closed', 'created_at': '2016-08-07T16:10:45Z', 'closed_at': '2016-08-08T09:39:57Z', 'labels': []}
+{'issuenumber': 639, 'title': 'Rails 5 - Gives Warning for no ApplicationRecord dashboard', 'state': 'closed', 'created_at': '2016-08-05T21:37:22Z', 'closed_at': '2016-10-28T15:14:20Z', 'labels': []}
+{'issuenumber': 638, 'title': 'Search against a table containing a boolean fails in Postgres', 'state': 'closed', 'created_at': '2016-08-04T09:19:49Z', 'closed_at': '2016-08-04T15:34:41Z', 'labels': []}
+{'issuenumber': 635, 'title': 'ActiveRecord::AssociationTypeMismatch in Admin::CampingsController#update', 'state': 'closed', 'created_at': '2016-07-30T16:02:11Z', 'closed_at': '2017-04-17T15:40:03Z', 'labels': []}
+{'issuenumber': 628, 'title': 'Question: On New/Edit page for a model, can fields for enumerables be drop down instead of text field?', 'state': 'closed', 'created_at': '2016-07-06T15:18:19Z', 'closed_at': '2016-07-06T15:34:19Z', 'labels': []}
+{'issuenumber': 626, 'title': 'question: Can I hide dashboards from the left menu but keep them in as relationships?', 'state': 'closed', 'created_at': '2016-07-06T13:53:14Z', 'closed_at': '2017-03-10T15:09:38Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 624, 'title': 'Getting an Internal 500 Server Error when I visit my /admin route on heroku.', 'state': 'closed', 'created_at': '2016-07-02T15:59:00Z', 'closed_at': '2016-07-02T16:14:00Z', 'labels': []}
+{'issuenumber': 623, 'title': 'Rails 5 support', 'state': 'closed', 'created_at': '2016-07-01T08:34:26Z', 'closed_at': '2016-10-13T16:21:30Z', 'labels': []}
+{'issuenumber': 620, 'title': 'cast type in search (function lower text does not exist error)', 'state': 'closed', 'created_at': '2016-06-28T16:39:57Z', 'closed_at': '2018-01-31T10:08:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 619, 'title': 'How do I customize various admin messages?', 'state': 'closed', 'created_at': '2016-06-27T19:16:04Z', 'closed_at': '2017-03-01T10:22:16Z', 'labels': []}
+{'issuenumber': 618, 'title': 'How to pass current_user to Administrate::Field ?', 'state': 'closed', 'created_at': '2016-06-24T15:51:49Z', 'closed_at': '2017-03-10T15:03:41Z', 'labels': []}
+{'issuenumber': 617, 'title': 'Errors when running Administrate and Friendly ID', 'state': 'closed', 'created_at': '2016-06-24T03:02:28Z', 'closed_at': '2016-06-24T03:07:17Z', 'labels': []}
+{'issuenumber': 616, 'title': 'Use with Audited Gem', 'state': 'closed', 'created_at': '2016-06-22T18:04:41Z', 'closed_at': '2020-10-05T17:52:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 615, 'title': 'Dependency on bourbon not listed', 'state': 'closed', 'created_at': '2016-06-22T15:43:24Z', 'closed_at': '2016-12-20T03:01:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 613, 'title': 'rails g install error', 'state': 'closed', 'created_at': '2016-06-16T22:17:09Z', 'closed_at': '2016-12-19T16:48:16Z', 'labels': []}
+{'issuenumber': 612, 'title': "Question: Why aren't field options available to templates?", 'state': 'closed', 'created_at': '2016-06-16T16:20:02Z', 'closed_at': '2020-02-13T10:25:56Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 610, 'title': 'NoMethodError on Models with methods overriding their fields', 'state': 'closed', 'created_at': '2016-06-15T23:40:27Z', 'closed_at': '2017-04-17T15:39:17Z', 'labels': []}
+{'issuenumber': 609, 'title': 'Is it possible to display an association on a particular dashboard?', 'state': 'closed', 'created_at': '2016-06-15T20:52:04Z', 'closed_at': '2019-07-10T15:29:40Z', 'labels': []}
+{'issuenumber': 608, 'title': 'NameError in Admin::UsersController#index', 'state': 'closed', 'created_at': '2016-06-15T06:27:43Z', 'closed_at': '2017-03-10T14:58:32Z', 'labels': []}
+{'issuenumber': 607, 'title': 'ActiveRecord::StatementInvalid on first search - Fresh Install', 'state': 'closed', 'created_at': '2016-06-15T02:15:08Z', 'closed_at': '2016-06-15T02:50:29Z', 'labels': []}
+{'issuenumber': 606, 'title': "undefined method `paginate' for", 'state': 'closed', 'created_at': '2016-06-09T16:41:38Z', 'closed_at': '2016-06-10T08:09:29Z', 'labels': []}
+{'issuenumber': 605, 'title': 'Updating causes unrelated NULL fields to become NOT NULL', 'state': 'closed', 'created_at': '2016-06-09T11:35:55Z', 'closed_at': '2019-12-25T17:50:08Z', 'labels': []}
+{'issuenumber': 604, 'title': "Gem 'administrate' is not available in SDK 'ruby-2.0.0-p596'", 'state': 'closed', 'created_at': '2016-06-09T09:39:42Z', 'closed_at': '2016-06-13T19:25:17Z', 'labels': []}
+{'issuenumber': 601, 'title': 'rails g administrate:install error', 'state': 'closed', 'created_at': '2016-06-06T08:00:11Z', 'closed_at': '2016-12-19T16:48:11Z', 'labels': []}
+{'issuenumber': 600, 'title': 'Adding Custom Field Type - ChosenRails ', 'state': 'closed', 'created_at': '2016-06-02T15:08:19Z', 'closed_at': '2017-03-09T10:34:23Z', 'labels': []}
+{'issuenumber': 599, 'title': "Viewing User Record: ActionView::Template::Error: undefined method `limit' for nil:NilClass", 'state': 'closed', 'created_at': '2016-06-01T22:16:09Z', 'closed_at': '2017-07-14T11:05:13Z', 'labels': []}
+{'issuenumber': 598, 'title': "Customizing for all resources doesn't work", 'state': 'closed', 'created_at': '2016-05-30T14:18:55Z', 'closed_at': '2020-10-05T15:44:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 595, 'title': 'Search box not fitting into page layout', 'state': 'closed', 'created_at': '2016-05-27T05:11:40Z', 'closed_at': '2017-04-17T15:38:06Z', 'labels': []}
+{'issuenumber': 592, 'title': 'Custom fields', 'state': 'closed', 'created_at': '2016-05-24T14:09:41Z', 'closed_at': '2017-01-26T07:00:35Z', 'labels': []}
+{'issuenumber': 589, 'title': 'Pagination broken w/ action_on_unpermitted_parameters = :raise', 'state': 'closed', 'created_at': '2016-05-19T03:23:34Z', 'closed_at': '2016-05-25T21:00:32Z', 'labels': []}
+{'issuenumber': 587, 'title': 'Demo Application', 'state': 'closed', 'created_at': '2016-05-18T14:22:11Z', 'closed_at': '2017-01-20T17:40:16Z', 'labels': []}
+{'issuenumber': 586, 'title': '(confused) Which version of ruby we are using?', 'state': 'closed', 'created_at': '2016-05-17T18:25:18Z', 'closed_at': '2016-05-25T04:52:54Z', 'labels': []}
+{'issuenumber': 585, 'title': 'Can you choose when a list appears as a normal dropdown vs a searchable one?', 'state': 'closed', 'created_at': '2016-05-17T02:55:17Z', 'closed_at': '2017-03-09T18:17:01Z', 'labels': []}
+{'issuenumber': 584, 'title': 'Can not use a custom Field more that once? `uninitialized constant Administrate::Field::EnumField`', 'state': 'closed', 'created_at': '2016-05-16T18:05:12Z', 'closed_at': '2017-03-09T18:14:38Z', 'labels': []}
+{'issuenumber': 581, 'title': 'Generator not respecting abstract_class', 'state': 'closed', 'created_at': '2016-05-16T10:48:01Z', 'closed_at': '2019-07-12T15:33:34Z', 'labels': []}
+{'issuenumber': 576, 'title': 'Trying to visit admin_root page ', 'state': 'closed', 'created_at': '2016-05-12T07:28:04Z', 'closed_at': '2017-01-25T10:57:36Z', 'labels': []}
+{'issuenumber': 574, 'title': 'Resource resolver and irregular table names', 'state': 'closed', 'created_at': '2016-05-11T14:31:57Z', 'closed_at': '2020-02-07T13:06:53Z', 'labels': []}
+{'issuenumber': 572, 'title': 'Cross-Origin issues with SVGs when using CDN', 'state': 'closed', 'created_at': '2016-05-09T01:21:52Z', 'closed_at': '2017-06-20T09:57:16Z', 'labels': {'name': 'views-and-styles'}}
+{'issuenumber': 571, 'title': 'Orders/Products listing - Destroy action triggers 500 error', 'state': 'closed', 'created_at': '2016-05-08T23:58:04Z', 'closed_at': '2017-03-08T21:02:19Z', 'labels': []}
+{'issuenumber': 566, 'title': 'I created Administrate::Field::JSON and looking for feedback.', 'state': 'closed', 'created_at': '2016-04-27T20:53:15Z', 'closed_at': '2016-05-18T22:17:55Z', 'labels': []}
+{'issuenumber': 565, 'title': 'Using administrate over APIs', 'state': 'closed', 'created_at': '2016-04-26T14:48:08Z', 'closed_at': '2017-03-06T18:26:18Z', 'labels': []}
+{'issuenumber': 564, 'title': 'Could not find generator ', 'state': 'closed', 'created_at': '2016-04-25T23:34:34Z', 'closed_at': '2017-07-30T14:21:12Z', 'labels': []}
+{'issuenumber': 563, 'title': 'Specify scope with model in admin page?', 'state': 'closed', 'created_at': '2016-04-22T16:02:05Z', 'closed_at': '2020-01-02T15:05:43Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 562, 'title': 'DateTime template renders only date', 'state': 'closed', 'created_at': '2016-04-22T08:47:53Z', 'closed_at': '2017-07-10T15:08:38Z', 'labels': []}
+{'issuenumber': 561, 'title': 'v0.2.0 is still requiring the image field', 'state': 'closed', 'created_at': '2016-04-21T18:07:17Z', 'closed_at': '2016-05-25T04:54:33Z', 'labels': []}
+{'issuenumber': 558, 'title': 'resource_class_name not working for every model name (Ie -> Y)', 'state': 'closed', 'created_at': '2016-04-20T21:48:21Z', 'closed_at': '2017-03-15T23:28:31Z', 'labels': []}
+{'issuenumber': 557, 'title': "Application wide generators views don't seem to work", 'state': 'closed', 'created_at': '2016-04-20T15:18:21Z', 'closed_at': '2017-03-07T19:05:09Z', 'labels': []}
+{'issuenumber': 556, 'title': 'Generator for Application layout & partials', 'state': 'closed', 'created_at': '2016-04-20T14:31:14Z', 'closed_at': '2017-03-08T18:37:41Z', 'labels': []}
+{'issuenumber': 549, 'title': 'Overriding the `_collection` template for a model affects `has_many` for other models.', 'state': 'closed', 'created_at': '2016-04-19T11:29:14Z', 'closed_at': '2019-12-25T16:52:54Z', 'labels': []}
+{'issuenumber': 548, 'title': 'key not found: :jsonb :inet', 'state': 'closed', 'created_at': '2016-04-18T08:01:25Z', 'closed_at': '2020-01-02T14:55:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 547, 'title': 'Custom Forms', 'state': 'closed', 'created_at': '2016-04-15T19:09:12Z', 'closed_at': '2017-05-16T17:27:16Z', 'labels': []}
+{'issuenumber': 545, 'title': 'Resource update changes name on edit title and show resource button', 'state': 'closed', 'created_at': '2016-04-14T06:43:50Z', 'closed_at': '2019-12-13T23:24:28Z', 'labels': []}
+{'issuenumber': 542, 'title': 'Remove the FuuBar Gem', 'state': 'closed', 'created_at': '2016-04-11T23:43:07Z', 'closed_at': '2016-04-19T20:19:21Z', 'labels': []}
+{'issuenumber': 539, 'title': 'javascript should be decleared at the beginning of body', 'state': 'closed', 'created_at': '2016-04-09T18:13:07Z', 'closed_at': '2020-01-10T11:46:43Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 538, 'title': 'Rails 5 compatibility ', 'state': 'closed', 'created_at': '2016-04-07T11:07:20Z', 'closed_at': '2016-12-17T18:22:18Z', 'labels': []}
+{'issuenumber': 536, 'title': 'Hide resources in sidebar | Pagination in ::HasMany', 'state': 'closed', 'created_at': '2016-04-06T12:02:10Z', 'closed_at': '2016-05-16T07:59:40Z', 'labels': []}
+{'issuenumber': 534, 'title': 'Quick question about combining Administrate and Devise. ', 'state': 'closed', 'created_at': '2016-04-05T00:05:09Z', 'closed_at': '2017-03-08T20:30:48Z', 'labels': []}
+{'issuenumber': 533, 'title': 'Enum fields', 'state': 'closed', 'created_at': '2016-04-04T13:12:30Z', 'closed_at': '2017-04-04T19:35:03Z', 'labels': []}
+{'issuenumber': 531, 'title': 'HasMany edit fields no longer working after upgrading from 0.1.2', 'state': 'closed', 'created_at': '2016-03-28T04:50:06Z', 'closed_at': '2017-03-09T14:19:58Z', 'labels': []}
+{'issuenumber': 530, 'title': 'i18n helpers.submit translations not taken', 'state': 'closed', 'created_at': '2016-03-27T04:31:36Z', 'closed_at': '2017-05-08T20:40:19Z', 'labels': []}
+{'issuenumber': 529, 'title': 'Nested edit forms', 'state': 'closed', 'created_at': '2016-03-26T03:14:24Z', 'closed_at': '2016-04-11T18:49:40Z', 'labels': []}
+{'issuenumber': 528, 'title': 'gems/administrate-0.1.4/app/views/administrate/application/index.html.erb where line #31 raised:', 'state': 'closed', 'created_at': '2016-03-24T11:30:51Z', 'closed_at': '2017-03-07T19:31:59Z', 'labels': []}
+{'issuenumber': 527, 'title': 'Install Error', 'state': 'closed', 'created_at': '2016-03-24T00:15:44Z', 'closed_at': '2019-12-25T16:56:33Z', 'labels': []}
+{'issuenumber': 526, 'title': 'No Search Bar', 'state': 'closed', 'created_at': '2016-03-24T00:13:18Z', 'closed_at': '2017-04-17T15:35:40Z', 'labels': []}
+{'issuenumber': 525, 'title': 'ajax administrate', 'state': 'closed', 'created_at': '2016-03-20T11:56:33Z', 'closed_at': '2017-05-08T21:13:55Z', 'labels': []}
+{'issuenumber': 523, 'title': 'How to enable only specific resource.', 'state': 'closed', 'created_at': '2016-03-18T10:03:34Z', 'closed_at': '2016-03-18T10:35:22Z', 'labels': []}
+{'issuenumber': 521, 'title': "Translation error (i18n) after changing de default from :en to :'pt-BR'", 'state': 'closed', 'created_at': '2016-03-15T16:44:29Z', 'closed_at': '2016-03-18T20:16:59Z', 'labels': []}
+{'issuenumber': 520, 'title': 'No multiplier option for Field::Number.', 'state': 'closed', 'created_at': '2016-03-15T02:01:23Z', 'closed_at': '2017-03-07T20:24:57Z', 'labels': []}
+{'issuenumber': 516, 'title': 'Cannot run rails generate administrate:install', 'state': 'closed', 'created_at': '2016-03-09T14:50:50Z', 'closed_at': '2016-12-19T16:47:42Z', 'labels': []}
+{'issuenumber': 507, 'title': 'How can I create a new Dashboard without a model?', 'state': 'closed', 'created_at': '2016-03-07T16:52:09Z', 'closed_at': '2019-07-22T12:02:48Z', 'labels': []}
+{'issuenumber': 505, 'title': 'Routes generator produces ill-indented code', 'state': 'closed', 'created_at': '2016-03-07T07:37:15Z', 'closed_at': '2017-05-08T20:40:52Z', 'labels': []}
+{'issuenumber': 503, 'title': 'README should point to the documentation (guides) in repository, not only online', 'state': 'closed', 'created_at': '2016-03-07T07:12:14Z', 'closed_at': '2017-03-20T14:56:01Z', 'labels': []}
+{'issuenumber': 502, 'title': "Undefined method 'camelize' for nil:NilClass", 'state': 'closed', 'created_at': '2016-03-06T23:22:28Z', 'closed_at': '2016-12-19T16:46:15Z', 'labels': []}
+{'issuenumber': 500, 'title': 'Hard-coded, non localizable strings', 'state': 'closed', 'created_at': '2016-03-04T09:10:53Z', 'closed_at': '2016-03-04T13:13:56Z', 'labels': []}
+{'issuenumber': 498, 'title': 'newbie administrate questions', 'state': 'closed', 'created_at': '2016-03-03T02:08:27Z', 'closed_at': '2016-03-20T11:42:44Z', 'labels': []}
+{'issuenumber': 497, 'title': 'Vulnerability CVE-2016-2098 (actionpack) prevents tests passing.', 'state': 'closed', 'created_at': '2016-03-02T18:39:58Z', 'closed_at': '2016-03-05T13:25:55Z', 'labels': []}
+{'issuenumber': 495, 'title': 'Editing devise users requires password field to be filled in', 'state': 'closed', 'created_at': '2016-03-01T08:57:09Z', 'closed_at': '2017-03-08T07:31:17Z', 'labels': []}
+{'issuenumber': 493, 'title': "Installation failed - undefined method `camelize' for nil:NilClass (NoMethodError)", 'state': 'closed', 'created_at': '2016-02-29T09:26:19Z', 'closed_at': '2016-02-29T13:11:23Z', 'labels': []}
+{'issuenumber': 490, 'title': 'Lost custom fields alignment on edit form after 0.1.3 update', 'state': 'closed', 'created_at': '2016-02-28T23:23:04Z', 'closed_at': '2016-03-11T00:09:19Z', 'labels': []}
+{'issuenumber': 489, 'title': 'Broken custom fields and no 0.1.4 release documentation', 'state': 'closed', 'created_at': '2016-02-28T22:44:11Z', 'closed_at': '2016-02-28T23:37:21Z', 'labels': []}
+{'issuenumber': 488, 'title': 'No such file to load -- administrate/fields/base', 'state': 'closed', 'created_at': '2016-02-28T05:30:32Z', 'closed_at': '2016-02-28T09:28:12Z', 'labels': []}
+{'issuenumber': 487, 'title': "Error undefined method `reflections' for Admin:Module (NoMethodError)", 'state': 'closed', 'created_at': '2016-02-27T15:15:34Z', 'closed_at': '2016-02-27T15:20:29Z', 'labels': []}
+{'issuenumber': 486, 'title': 'List parameters on "Customizing attribute partials" docs page', 'state': 'closed', 'created_at': '2016-02-27T11:16:49Z', 'closed_at': '2020-01-03T14:05:42Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 484, 'title': 'rails g administrative:views inflects differently than specific adminstrate generator', 'state': 'closed', 'created_at': '2016-02-24T16:25:09Z', 'closed_at': '2017-04-10T13:22:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 483, 'title': 'Generated controller code throws ArgumentError', 'state': 'closed', 'created_at': '2016-02-24T10:13:21Z', 'closed_at': '2017-03-07T18:51:52Z', 'labels': []}
+{'issuenumber': 481, 'title': 'Custom controller is assumed to have a related model', 'state': 'closed', 'created_at': '2016-02-22T14:31:58Z', 'closed_at': '2020-10-05T18:25:39Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 480, 'title': 'NoMethodError is silently ignored', 'state': 'closed', 'created_at': '2016-02-22T12:05:47Z', 'closed_at': '2019-11-01T16:51:59Z', 'labels': []}
+{'issuenumber': 479, 'title': 'Gemspec needs to list inline_svg gem as a dependency', 'state': 'closed', 'created_at': '2016-02-21T23:01:35Z', 'closed_at': '2016-04-03T07:35:07Z', 'labels': []}
+{'issuenumber': 473, 'title': 'Broken view path finding for nested resource index', 'state': 'closed', 'created_at': '2016-02-17T13:25:10Z', 'closed_at': '2019-07-18T06:33:09Z', 'labels': []}
+{'issuenumber': 472, 'title': 'Manifest for specific resource ?', 'state': 'closed', 'created_at': '2016-02-16T20:20:47Z', 'closed_at': '2016-02-17T04:22:53Z', 'labels': []}
+{'issuenumber': 471, 'title': 'Scope sort and order params by association', 'state': 'closed', 'created_at': '2016-02-16T02:55:06Z', 'closed_at': '2017-12-19T23:01:30Z', 'labels': []}
+{'issuenumber': 470, 'title': 'Static Pages', 'state': 'closed', 'created_at': '2016-02-15T19:06:17Z', 'closed_at': '2017-05-08T20:41:25Z', 'labels': []}
+{'issuenumber': 468, 'title': 'Custom Fields, make a PR or a Gem', 'state': 'closed', 'created_at': '2016-02-15T01:08:05Z', 'closed_at': '2016-02-24T15:38:02Z', 'labels': []}
+{'issuenumber': 461, 'title': 'Custom TABLE_ATTRIBUTES in Dashboard', 'state': 'closed', 'created_at': '2016-02-12T02:08:47Z', 'closed_at': '2017-04-17T15:34:32Z', 'labels': []}
+{'issuenumber': 460, 'title': 'Dashboard magic?', 'state': 'closed', 'created_at': '2016-02-12T01:45:12Z', 'closed_at': '2019-12-12T10:25:14Z', 'labels': []}
+{'issuenumber': 456, 'title': 'how do I change belongs_to attribute displayed?', 'state': 'closed', 'created_at': '2016-02-09T22:22:22Z', 'closed_at': '2017-03-07T22:55:47Z', 'labels': []}
+{'issuenumber': 455, 'title': 'resources is overriden on the index page', 'state': 'closed', 'created_at': '2016-02-06T07:11:20Z', 'closed_at': '2017-03-07T04:21:23Z', 'labels': []}
+{'issuenumber': 453, 'title': 'InstallGenerator::DashboardManifest (NameError)', 'state': 'closed', 'created_at': '2016-02-05T16:32:33Z', 'closed_at': '2016-02-20T05:45:23Z', 'labels': []}
+{'issuenumber': 452, 'title': 'Generated custom page views, but app still tries to use the gem supplied views.', 'state': 'closed', 'created_at': '2016-02-04T00:05:25Z', 'closed_at': '2016-02-04T23:51:55Z', 'labels': []}
+{'issuenumber': 451, 'title': 'Custom labels for fields', 'state': 'closed', 'created_at': '2016-02-03T02:27:46Z', 'closed_at': '2016-05-03T08:37:23Z', 'labels': []}
+{'issuenumber': 448, 'title': '0.1.3 - install generator fails uninitialized constant Administrate::Generators::InstallGenerator::DashboardManifest', 'state': 'closed', 'created_at': '2016-01-31T01:47:08Z', 'closed_at': '2016-02-20T05:45:41Z', 'labels': []}
+{'issuenumber': 446, 'title': 'Separate list of attributes for edit and new forms', 'state': 'closed', 'created_at': '2016-01-30T11:07:28Z', 'closed_at': '2019-12-13T23:06:35Z', 'labels': {'name': 'views-and-styles'}}
+{'issuenumber': 445, 'title': 'Should being searchable really be defined in the fieldtype?', 'state': 'closed', 'created_at': '2016-01-30T05:50:58Z', 'closed_at': '2017-03-07T05:18:03Z', 'labels': []}
+{'issuenumber': 444, 'title': 'line break in textarea', 'state': 'closed', 'created_at': '2016-01-30T01:11:18Z', 'closed_at': '2016-01-30T17:46:09Z', 'labels': []}
+{'issuenumber': 443, 'title': 'HasOne support', 'state': 'closed', 'created_at': '2016-01-29T05:53:00Z', 'closed_at': '2017-07-14T10:51:25Z', 'labels': []}
+{'issuenumber': 442, 'title': 'Default order/sort of lists', 'state': 'closed', 'created_at': '2016-01-29T00:10:02Z', 'closed_at': '2017-07-30T18:58:22Z', 'labels': []}
+{'issuenumber': 441, 'title': 'Empty fields submit blank values (integers get zeros)', 'state': 'closed', 'created_at': '2016-01-28T22:40:12Z', 'closed_at': '2018-10-02T01:51:24Z', 'labels': []}
+{'issuenumber': 440, 'title': 'Has many field renders (potentially) wrong partial', 'state': 'closed', 'created_at': '2016-01-27T16:14:29Z', 'closed_at': '2019-11-29T16:58:29Z', 'labels': []}
+{'issuenumber': 439, 'title': 'Modify show template for a given field type for a given model', 'state': 'closed', 'created_at': '2016-01-26T03:56:28Z', 'closed_at': '2019-07-30T07:27:55Z', 'labels': []}
+{'issuenumber': 438, 'title': 'Can fields have reference to resource instead of just the data?', 'state': 'closed', 'created_at': '2016-01-26T03:15:16Z', 'closed_at': '2020-01-03T12:41:27Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 437, 'title': 'Best way to format datatime fields', 'state': 'closed', 'created_at': '2016-01-26T02:49:53Z', 'closed_at': '2016-03-29T00:18:23Z', 'labels': []}
+{'issuenumber': 434, 'title': "undefined method `html_class' for :string:Symbol", 'state': 'closed', 'created_at': '2016-01-23T15:19:36Z', 'closed_at': '2017-03-07T01:09:54Z', 'labels': []}
+{'issuenumber': 433, 'title': 'Allow preloading records with `Field::HasMany`', 'state': 'closed', 'created_at': '2016-01-23T00:35:42Z', 'closed_at': '2016-02-14T03:22:42Z', 'labels': []}
+{'issuenumber': 432, 'title': 'SimpleForm + Foundation Style Conflict & Question', 'state': 'closed', 'created_at': '2016-01-22T21:50:45Z', 'closed_at': '2017-03-06T18:40:37Z', 'labels': []}
+{'issuenumber': 431, 'title': 'uninitialized constant Administrate::Generators::InstallGenerator::DashboardManifest', 'state': 'closed', 'created_at': '2016-01-22T21:26:32Z', 'closed_at': '2016-02-20T05:45:54Z', 'labels': []}
+{'issuenumber': 430, 'title': 'Feature: deal with huge result sets', 'state': 'closed', 'created_at': '2016-01-22T18:36:35Z', 'closed_at': '2018-09-23T14:22:59Z', 'labels': []}
+{'issuenumber': 429, 'title': 'Undefined variable: "$bold-font-weight".', 'state': 'closed', 'created_at': '2016-01-22T17:00:00Z', 'closed_at': '2017-06-20T09:53:38Z', 'labels': {'name': 'views-and-styles'}}
+{'issuenumber': 427, 'title': 'Two lines on index', 'state': 'closed', 'created_at': '2016-01-22T03:08:18Z', 'closed_at': '2016-01-25T15:10:32Z', 'labels': []}
+{'issuenumber': 421, 'title': 'Feature request: reading data attributes of a record', 'state': 'closed', 'created_at': '2016-01-19T17:23:31Z', 'closed_at': '2016-01-30T19:59:46Z', 'labels': []}
+{'issuenumber': 420, 'title': 'Feature request/ Way to do dropdown/select boxes for enums...etc?', 'state': 'closed', 'created_at': '2016-01-19T00:11:30Z', 'closed_at': '2017-04-04T19:41:47Z', 'labels': []}
+{'issuenumber': 419, 'title': 'clicking on resource results in wrong id lookup AR error ', 'state': 'closed', 'created_at': '2016-01-18T23:18:58Z', 'closed_at': '2017-04-17T15:32:49Z', 'labels': []}
+{'issuenumber': 417, 'title': "'permitted_attributes' method collides with pundit", 'state': 'closed', 'created_at': '2016-01-18T14:38:38Z', 'closed_at': '2017-03-07T10:17:43Z', 'labels': []}
+{'issuenumber': 415, 'title': '[Accessibility] Form elements must have labels', 'state': 'closed', 'created_at': '2016-01-17T19:52:21Z', 'closed_at': '2016-01-20T21:49:02Z', 'labels': []}
+{'issuenumber': 413, 'title': 'uninitialized constant Administrate::NAMESPACE', 'state': 'closed', 'created_at': '2016-01-17T00:56:49Z', 'closed_at': '2016-02-29T03:04:01Z', 'labels': []}
+{'issuenumber': 412, 'title': 'Override single method of a field', 'state': 'closed', 'created_at': '2016-01-16T22:40:26Z', 'closed_at': '2017-04-17T15:32:19Z', 'labels': []}
+{'issuenumber': 407, 'title': 'Working with friendly_id', 'state': 'closed', 'created_at': '2016-01-14T13:22:07Z', 'closed_at': '2016-01-15T11:25:45Z', 'labels': []}
+{'issuenumber': 406, 'title': 'Controller Generator Pagination', 'state': 'closed', 'created_at': '2016-01-14T11:11:14Z', 'closed_at': '2017-02-27T11:44:38Z', 'labels': []}
+{'issuenumber': 405, 'title': 'Routes without namespace', 'state': 'closed', 'created_at': '2016-01-13T14:34:27Z', 'closed_at': '2020-01-02T15:39:27Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 404, 'title': 'How to add to a rails-api Rails 5 app?', 'state': 'closed', 'created_at': '2016-01-13T11:55:48Z', 'closed_at': '2017-04-05T12:44:22Z', 'labels': []}
+{'issuenumber': 403, 'title': "undefined local variable or method `namespace'", 'state': 'closed', 'created_at': '2016-01-12T04:18:29Z', 'closed_at': '2017-04-17T15:31:54Z', 'labels': []}
+{'issuenumber': 401, 'title': 'Prefilling forms?', 'state': 'closed', 'created_at': '2016-01-11T04:32:32Z', 'closed_at': '2017-04-17T15:31:06Z', 'labels': []}
+{'issuenumber': 400, 'title': 'Sidebar link being generated incorrectly, No route matches', 'state': 'closed', 'created_at': '2016-01-11T04:16:30Z', 'closed_at': '2017-11-23T13:09:28Z', 'labels': []}
+{'issuenumber': 394, 'title': 'Location of Source Code for Demo App', 'state': 'closed', 'created_at': '2016-01-09T07:18:47Z', 'closed_at': '2016-01-09T16:02:36Z', 'labels': []}
+{'issuenumber': 393, 'title': 'Inflection Issues on non-standard model names.', 'state': 'closed', 'created_at': '2016-01-09T00:15:57Z', 'closed_at': '2019-05-20T19:14:28Z', 'labels': []}
+{'issuenumber': 391, 'title': 'Record context within a field', 'state': 'closed', 'created_at': '2016-01-08T11:49:21Z', 'closed_at': '2016-02-22T11:43:51Z', 'labels': []}
+{'issuenumber': 388, 'title': 'Always go to show page', 'state': 'closed', 'created_at': '2016-01-08T09:28:14Z', 'closed_at': '2019-11-26T08:23:01Z', 'labels': []}
+{'issuenumber': 378, 'title': 'Missing Required Key', 'state': 'closed', 'created_at': '2016-01-06T19:12:34Z', 'closed_at': '2019-05-20T19:09:43Z', 'labels': []}
+{'issuenumber': 377, 'title': 'NameError uninitialized constant class', 'state': 'closed', 'created_at': '2016-01-05T16:14:42Z', 'closed_at': '2016-01-05T16:20:04Z', 'labels': []}
+{'issuenumber': 375, 'title': "undefined method `class_name' for nil:NilClass", 'state': 'closed', 'created_at': '2016-01-04T20:44:55Z', 'closed_at': '2016-01-05T15:19:40Z', 'labels': []}
+{'issuenumber': 374, 'title': '"Rails generate administrate:install" interferes with the existing app/controllers/admin" folder.', 'state': 'closed', 'created_at': '2016-01-04T20:18:54Z', 'closed_at': '2016-06-16T22:30:26Z', 'labels': []}
+{'issuenumber': 373, 'title': 'admin authentication', 'state': 'closed', 'created_at': '2016-01-04T12:32:10Z', 'closed_at': '2017-03-06T17:52:58Z', 'labels': []}
+{'issuenumber': 367, 'title': 'Change has_many or belongs_to display title', 'state': 'closed', 'created_at': '2015-12-29T18:53:36Z', 'closed_at': '2017-03-06T17:43:54Z', 'labels': []}
+{'issuenumber': 366, 'title': '[SCSS] FIX - appearence none', 'state': 'closed', 'created_at': '2015-12-25T13:06:09Z', 'closed_at': '2017-03-06T17:41:53Z', 'labels': []}
+{'issuenumber': 360, 'title': 'Date Time Select Layout Issue and Responsive Layout', 'state': 'closed', 'created_at': '2015-12-21T19:21:13Z', 'closed_at': '2020-01-02T14:52:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 356, 'title': 'inline_svg: Asset Finder should implement the #find_asset method (InlineSvg::Configuration::Invalid)', 'state': 'closed', 'created_at': '2015-12-21T15:30:58Z', 'closed_at': '2016-01-20T14:07:27Z', 'labels': []}
+{'issuenumber': 355, 'title': "undefined method `display_resource_name' for...", 'state': 'closed', 'created_at': '2015-12-20T16:09:58Z', 'closed_at': '2016-01-18T14:17:53Z', 'labels': []}
+{'issuenumber': 354, 'title': 'Belongs_to form NoMethodError when association uses different foreign_key', 'state': 'closed', 'created_at': '2015-12-19T18:05:10Z', 'closed_at': '2020-02-07T12:49:46Z', 'labels': []}
+{'issuenumber': 353, 'title': 'Generator to update dashboard', 'state': 'closed', 'created_at': '2015-12-18T15:17:16Z', 'closed_at': '2017-10-29T16:08:32Z', 'labels': []}
+{'issuenumber': 351, 'title': 'Pass custom HTML classes into fields', 'state': 'closed', 'created_at': '2015-12-17T16:42:21Z', 'closed_at': '2015-12-21T17:47:05Z', 'labels': []}
+{'issuenumber': 349, 'title': 'Allow easier hooks to provide simple, custom stylesheet/javascript requires', 'state': 'closed', 'created_at': '2015-12-17T03:48:49Z', 'closed_at': '2017-03-03T20:41:57Z', 'labels': []}
+{'issuenumber': 343, 'title': 'Custom JavaScript problem', 'state': 'closed', 'created_at': '2015-12-15T17:51:06Z', 'closed_at': '2015-12-15T22:52:48Z', 'labels': []}
+{'issuenumber': 342, 'title': 'custom field and ckeditor', 'state': 'closed', 'created_at': '2015-12-15T17:22:24Z', 'closed_at': '2016-01-08T11:33:43Z', 'labels': []}
+{'issuenumber': 341, 'title': 'Suggestion: Allowing ordering to accept more options', 'state': 'closed', 'created_at': '2015-12-15T10:24:11Z', 'closed_at': '2017-07-10T13:08:02Z', 'labels': []}
+{'issuenumber': 334, 'title': 'Best way to include main app helper modules in administrate?', 'state': 'closed', 'created_at': '2015-12-14T20:11:34Z', 'closed_at': '2016-03-08T16:03:05Z', 'labels': []}
+{'issuenumber': 331, 'title': 'Customizing `candidate_resources` per Dashboard', 'state': 'closed', 'created_at': '2015-12-14T18:25:22Z', 'closed_at': '2019-11-26T08:16:05Z', 'labels': []}
+{'issuenumber': 329, 'title': '#to_s on models not working reliably', 'state': 'closed', 'created_at': '2015-12-14T05:05:21Z', 'closed_at': '2015-12-15T22:45:12Z', 'labels': []}
+{'issuenumber': 327, 'title': 'uninitialized constant when using custom field more than 1 time', 'state': 'closed', 'created_at': '2015-12-13T03:53:01Z', 'closed_at': '2015-12-15T07:24:56Z', 'labels': []}
+{'issuenumber': 323, 'title': 'belongs_to with class_name not working', 'state': 'closed', 'created_at': '2015-12-11T23:41:59Z', 'closed_at': '2015-12-17T16:38:27Z', 'labels': []}
+{'issuenumber': 320, 'title': 'Overriding the index method on a controller ', 'state': 'closed', 'created_at': '2015-12-11T15:09:27Z', 'closed_at': '2019-05-20T19:04:20Z', 'labels': []}
+{'issuenumber': 319, 'title': 'Translations of the resources used in Administrate', 'state': 'closed', 'created_at': '2015-12-11T08:41:28Z', 'closed_at': '2015-12-11T10:48:45Z', 'labels': []}
+{'issuenumber': 318, 'title': 'Alias _requested_resource to appropriately named model', 'state': 'closed', 'created_at': '2015-12-11T01:42:40Z', 'closed_at': '2015-12-13T03:18:59Z', 'labels': []}
+{'issuenumber': 314, 'title': 'Search is ambiguously displayed when nothing is searchable', 'state': 'closed', 'created_at': '2015-12-09T19:28:01Z', 'closed_at': '2017-03-02T21:44:44Z', 'labels': []}
+{'issuenumber': 310, 'title': 'destroy administrate:views not working', 'state': 'closed', 'created_at': '2015-12-09T11:16:36Z', 'closed_at': '2016-01-22T06:55:02Z', 'labels': []}
+{'issuenumber': 308, 'title': "After running install generator I get this error `source_reflection': undefined method `klass' for nil:NilClass (NoMethodError)", 'state': 'closed', 'created_at': '2015-12-08T17:21:53Z', 'closed_at': '2017-03-07T03:30:20Z', 'labels': []}
+{'issuenumber': 303, 'title': 'Allow Easier Editing of Labels For HasMany Field', 'state': 'closed', 'created_at': '2015-12-08T00:20:32Z', 'closed_at': '2015-12-09T20:52:34Z', 'labels': []}
+{'issuenumber': 302, 'title': 'Passing in arguments from dashboard to custom field', 'state': 'closed', 'created_at': '2015-12-07T22:48:14Z', 'closed_at': '2017-03-02T21:00:26Z', 'labels': []}
+{'issuenumber': 300, 'title': 'Hierarchy and custom fields', 'state': 'closed', 'created_at': '2015-12-07T13:39:52Z', 'closed_at': '2017-05-08T21:09:05Z', 'labels': []}
+{'issuenumber': 296, 'title': 'Environment setup issues', 'state': 'closed', 'created_at': '2015-12-05T21:12:01Z', 'closed_at': '2015-12-21T18:08:52Z', 'labels': []}
+{'issuenumber': 292, 'title': "with_options(title: '...') not setting field titles in dashboards", 'state': 'closed', 'created_at': '2015-12-04T20:07:43Z', 'closed_at': '2019-11-11T12:59:18Z', 'labels': []}
+{'issuenumber': 291, 'title': 'Search crashing with uuids, any way to override search?', 'state': 'closed', 'created_at': '2015-12-04T16:18:57Z', 'closed_at': '2015-12-04T21:23:54Z', 'labels': []}
+{'issuenumber': 290, 'title': 'ActiveRecord enum types incorrectly interpreted by generator', 'state': 'closed', 'created_at': '2015-12-04T05:04:58Z', 'closed_at': '2015-12-11T19:50:51Z', 'labels': []}
+{'issuenumber': 289, 'title': 'Set ruby version for CircleCI', 'state': 'closed', 'created_at': '2015-12-02T19:23:54Z', 'closed_at': '2015-12-07T18:12:24Z', 'labels': []}
+{'issuenumber': 288, 'title': 'Search by the ID field', 'state': 'closed', 'created_at': '2015-12-02T19:15:12Z', 'closed_at': '2015-12-08T18:09:38Z', 'labels': []}
+{'issuenumber': 287, 'title': 'Views, little problem for all of you, big for me', 'state': 'closed', 'created_at': '2015-12-02T15:31:24Z', 'closed_at': '2017-03-02T20:48:43Z', 'labels': []}
+{'issuenumber': 286, 'title': 'authenticate_admin method ?', 'state': 'closed', 'created_at': '2015-12-02T10:39:37Z', 'closed_at': '2016-01-08T05:33:40Z', 'labels': []}
+{'issuenumber': 284, 'title': "Undefined method 'per'", 'state': 'closed', 'created_at': '2015-12-02T06:13:16Z', 'closed_at': '2015-12-08T16:24:52Z', 'labels': []}
+{'issuenumber': 283, 'title': 'Allows controllers to be defined and work properly without declaring them in the manifest', 'state': 'closed', 'created_at': '2015-12-02T05:45:41Z', 'closed_at': '2017-03-02T20:47:07Z', 'labels': []}
+{'issuenumber': 281, 'title': 'Allow administrate to be installed somewhere other than /admin', 'state': 'closed', 'created_at': '2015-12-01T00:39:50Z', 'closed_at': '2015-12-16T19:58:50Z', 'labels': []}
+{'issuenumber': 280, 'title': 'Raise error for incorrect use of `Field::` namespace for custom fields', 'state': 'closed', 'created_at': '2015-11-30T23:49:39Z', 'closed_at': '2017-07-06T11:41:37Z', 'labels': []}
+{'issuenumber': 279, 'title': 'ActiveResource Support', 'state': 'closed', 'created_at': '2015-11-30T22:35:46Z', 'closed_at': '2015-12-01T00:08:46Z', 'labels': []}
+{'issuenumber': 277, 'title': 'Filters : feature request ', 'state': 'closed', 'created_at': '2015-11-30T05:55:35Z', 'closed_at': '2015-12-08T10:41:21Z', 'labels': []}
+{'issuenumber': 274, 'title': 'Model titles and attributes not translatable', 'state': 'closed', 'created_at': '2015-11-26T08:06:47Z', 'closed_at': '2015-12-03T12:25:24Z', 'labels': []}
+{'issuenumber': 271, 'title': 'Feature Request: Add Top Nav', 'state': 'closed', 'created_at': '2015-11-24T04:50:07Z', 'closed_at': '2020-01-02T15:45:46Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 267, 'title': 'Model object in the field', 'state': 'closed', 'created_at': '2015-11-22T15:21:42Z', 'closed_at': '2017-05-08T21:15:39Z', 'labels': []}
+{'issuenumber': 265, 'title': "[Prototype] Sort by customer orders & lifetime value don't work", 'state': 'closed', 'created_at': '2015-11-22T00:50:28Z', 'closed_at': '2019-11-11T12:19:23Z', 'labels': []}
+{'issuenumber': 261, 'title': 'Submenu for less important models?', 'state': 'closed', 'created_at': '2015-11-21T18:51:30Z', 'closed_at': '2017-03-02T20:26:10Z', 'labels': []}
+{'issuenumber': 260, 'title': 'Cancel Search Issue', 'state': 'closed', 'created_at': '2015-11-21T13:31:05Z', 'closed_at': '2015-11-21T18:20:34Z', 'labels': []}
+{'issuenumber': 258, 'title': 'Admin layout generation?', 'state': 'closed', 'created_at': '2015-11-20T19:06:19Z', 'closed_at': '2015-11-20T19:23:01Z', 'labels': []}
+{'issuenumber': 257, 'title': 'Rubocop errors in arrays', 'state': 'closed', 'created_at': '2015-11-20T10:02:11Z', 'closed_at': '2015-11-20T21:38:04Z', 'labels': []}
+{'issuenumber': 256, 'title': '`missing required keys: [:id]` in dashboard for a model with CamelCase name', 'state': 'closed', 'created_at': '2015-11-20T06:39:12Z', 'closed_at': '2015-11-20T09:41:14Z', 'labels': []}
+{'issuenumber': 255, 'title': 'automatic updating of admin controllers and views', 'state': 'closed', 'created_at': '2015-11-19T19:54:20Z', 'closed_at': '2015-11-19T20:59:26Z', 'labels': []}
+{'issuenumber': 254, 'title': 'Paginate has_many collections. ', 'state': 'closed', 'created_at': '2015-11-19T14:48:41Z', 'closed_at': '2019-11-11T10:31:11Z', 'labels': []}
+{'issuenumber': 252, 'title': 'Limit admin interface to sub-net and localhost', 'state': 'closed', 'created_at': '2015-11-19T08:01:40Z', 'closed_at': '2015-11-19T19:39:56Z', 'labels': []}
+{'issuenumber': 250, 'title': 'Undefined method', 'state': 'closed', 'created_at': '2015-11-18T03:30:49Z', 'closed_at': '2016-03-08T15:37:41Z', 'labels': []}
+{'issuenumber': 246, 'title': 'Developer UX: better error for misspelled/missing attribute', 'state': 'closed', 'created_at': '2015-11-16T21:16:32Z', 'closed_at': '2015-11-19T07:39:45Z', 'labels': []}
+{'issuenumber': 245, 'title': 'Polymorphic field should override dashboard selection from Associative', 'state': 'closed', 'created_at': '2015-11-16T21:01:57Z', 'closed_at': '2015-11-19T07:47:09Z', 'labels': []}
+{'issuenumber': 244, 'title': 'Has_many not populated with existing values in edit', 'state': 'closed', 'created_at': '2015-11-16T20:35:12Z', 'closed_at': '2015-11-18T17:11:25Z', 'labels': []}
+{'issuenumber': 241, 'title': 'Buggy BelongsTo:  Edit page for a resource shows old field data.', 'state': 'closed', 'created_at': '2015-11-16T14:38:57Z', 'closed_at': '2015-11-18T17:11:39Z', 'labels': []}
+{'issuenumber': 240, 'title': 'Mongoid support', 'state': 'closed', 'created_at': '2015-11-14T22:26:10Z', 'closed_at': '2015-12-01T00:09:25Z', 'labels': []}
+{'issuenumber': 238, 'title': 'undefined method', 'state': 'closed', 'created_at': '2015-11-14T13:54:47Z', 'closed_at': '2015-11-15T02:06:58Z', 'labels': []}
+{'issuenumber': 236, 'title': 'Feature Idea: Out of The Box Metrics', 'state': 'closed', 'created_at': '2015-11-12T23:32:45Z', 'closed_at': '2015-11-17T00:07:29Z', 'labels': []}
+{'issuenumber': 235, 'title': 'Error after running install generator', 'state': 'closed', 'created_at': '2015-11-12T20:20:07Z', 'closed_at': '2017-03-02T20:21:30Z', 'labels': []}
+{'issuenumber': 234, 'title': 'Sign in Count, etc.', 'state': 'closed', 'created_at': '2015-11-12T19:36:15Z', 'closed_at': '2015-11-12T19:45:10Z', 'labels': []}
+{'issuenumber': 232, 'title': 'Generate is not idempotent for routes', 'state': 'closed', 'created_at': '2015-11-12T08:56:13Z', 'closed_at': '2015-12-21T19:48:35Z', 'labels': []}
+{'issuenumber': 230, 'title': 'Show page: wrapped attribute-label combined with empty attribute-data breaks rendering.', 'state': 'closed', 'created_at': '2015-11-12T07:59:30Z', 'closed_at': '2015-11-20T01:52:24Z', 'labels': []}
+{'issuenumber': 227, 'title': 'Wire up i18n-spec', 'state': 'closed', 'created_at': '2015-11-12T05:36:30Z', 'closed_at': '2017-05-08T20:55:18Z', 'labels': []}
+{'issuenumber': 226, 'title': 'TypeError in Admin::UsersController#index,  Admin is not a module', 'state': 'closed', 'created_at': '2015-11-12T05:10:54Z', 'closed_at': '2015-11-12T05:29:12Z', 'labels': []}
+{'issuenumber': 225, 'title': 'TypeError in Admin::UsersController#index Admin is not a module', 'state': 'closed', 'created_at': '2015-11-12T05:06:33Z', 'closed_at': '2015-11-12T08:25:33Z', 'labels': []}
+{'issuenumber': 222, 'title': 'Adding actions to dashboard', 'state': 'closed', 'created_at': '2015-11-12T02:21:30Z', 'closed_at': '2017-03-02T20:17:51Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 220, 'title': 'Request: Custom-building a new record in controller', 'state': 'closed', 'created_at': '2015-11-11T21:40:10Z', 'closed_at': '2020-04-06T08:52:41Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 219, 'title': 'Install error', 'state': 'closed', 'created_at': '2015-11-11T17:12:21Z', 'closed_at': '2015-11-21T01:30:09Z', 'labels': []}
+{'issuenumber': 218, 'title': 'Enum field support', 'state': 'closed', 'created_at': '2015-11-11T11:19:58Z', 'closed_at': '2015-11-12T07:53:57Z', 'labels': []}
+{'issuenumber': 215, 'title': 'administrate:views generator is missing', 'state': 'closed', 'created_at': '2015-11-11T07:52:29Z', 'closed_at': '2015-12-15T07:47:07Z', 'labels': []}
+{'issuenumber': 212, 'title': "Generated forms aren't getting a 'form' class", 'state': 'closed', 'created_at': '2015-11-10T23:40:41Z', 'closed_at': '2015-11-12T06:39:13Z', 'labels': []}
+{'issuenumber': 210, 'title': 'uninitialized constant User::SharedAlbum (NameError)', 'state': 'closed', 'created_at': '2015-11-10T15:04:26Z', 'closed_at': '2015-11-10T15:08:50Z', 'labels': []}
+{'issuenumber': 209, 'title': 'Using with Clearance', 'state': 'closed', 'created_at': '2015-11-10T14:08:32Z', 'closed_at': '2015-11-11T18:17:17Z', 'labels': []}
+{'issuenumber': 207, 'title': 'Is there a reason permitted params is limited to `FORM_ATTRIBUTES`', 'state': 'closed', 'created_at': '2015-11-10T08:50:40Z', 'closed_at': '2015-11-18T19:48:08Z', 'labels': []}
+{'issuenumber': 205, 'title': 'Tables should have an explicit link to each resource', 'state': 'closed', 'created_at': '2015-11-09T21:58:05Z', 'closed_at': '2015-11-18T19:50:10Z', 'labels': []}
+{'issuenumber': 204, 'title': 'Something I found useful using Pundit', 'state': 'closed', 'created_at': '2015-11-09T20:47:37Z', 'closed_at': '2015-11-09T21:18:21Z', 'labels': []}
+{'issuenumber': 202, 'title': 'Generating views creates wrong file paths', 'state': 'closed', 'created_at': '2015-11-09T19:23:05Z', 'closed_at': '2016-01-20T01:55:12Z', 'labels': []}
+{'issuenumber': 201, 'title': 'GitHub Releases for the repo are empty', 'state': 'closed', 'created_at': '2015-11-09T13:52:22Z', 'closed_at': '2015-11-11T18:16:36Z', 'labels': []}
+{'issuenumber': 200, 'title': 'Option to generate with turbolinks enabled', 'state': 'closed', 'created_at': '2015-11-09T13:18:47Z', 'closed_at': '2020-01-02T15:36:27Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 199, 'title': 'Associations are displaying the object id in the select box', 'state': 'closed', 'created_at': '2015-11-09T13:16:59Z', 'closed_at': '2015-11-09T14:23:51Z', 'labels': []}
+{'issuenumber': 197, 'title': "Generated dashboard files won't work without tweeking", 'state': 'closed', 'created_at': '2015-11-09T09:59:48Z', 'closed_at': '2015-11-10T15:16:32Z', 'labels': []}
+{'issuenumber': 195, 'title': 'Add example of file upload ', 'state': 'closed', 'created_at': '2015-11-09T02:58:21Z', 'closed_at': '2017-05-08T21:04:41Z', 'labels': []}
+{'issuenumber': 192, 'title': 'Feature Request: Nested Forms', 'state': 'closed', 'created_at': '2015-11-08T11:07:03Z', 'closed_at': '2016-04-22T14:20:48Z', 'labels': []}
+{'issuenumber': 190, 'title': 'Demo source code', 'state': 'closed', 'created_at': '2015-11-08T00:58:27Z', 'closed_at': '2015-11-08T19:15:37Z', 'labels': []}
+{'issuenumber': 189, 'title': 'No route matches [POST] "/admin/users/22"', 'state': 'closed', 'created_at': '2015-11-08T00:18:18Z', 'closed_at': '2015-11-08T00:35:01Z', 'labels': []}
+{'issuenumber': 187, 'title': 'Custom javascript', 'state': 'closed', 'created_at': '2015-11-07T17:59:21Z', 'closed_at': '2015-12-15T02:02:14Z', 'labels': []}
+{'issuenumber': 186, 'title': 'Display a "Getting Started" page if there is no root dashboard', 'state': 'closed', 'created_at': '2015-11-07T16:34:53Z', 'closed_at': '2020-01-02T15:45:00Z', 'labels': []}
+{'issuenumber': 185, 'title': 'Improve default styling of validation messages', 'state': 'closed', 'created_at': '2015-11-07T09:54:51Z', 'closed_at': '2017-03-10T14:12:06Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 184, 'title': 'Feature Request: Batch Editing', 'state': 'closed', 'created_at': '2015-11-06T22:27:10Z', 'closed_at': '2021-04-22T15:38:03Z', 'labels': {'name': 'views-and-styles'}}
+{'issuenumber': 183, 'title': 'Feature Request: Add filtering', 'state': 'closed', 'created_at': '2015-11-06T22:26:21Z', 'closed_at': '2017-05-08T21:07:06Z', 'labels': []}
+{'issuenumber': 182, 'title': 'Dashboard Manifest generator', 'state': 'closed', 'created_at': '2015-11-06T20:31:20Z', 'closed_at': '2016-01-08T06:04:38Z', 'labels': []}
+{'issuenumber': 181, 'title': 'Feature Request: Override Default Templates', 'state': 'closed', 'created_at': '2015-11-06T20:09:22Z', 'closed_at': '2015-12-12T20:00:39Z', 'labels': []}
+{'issuenumber': 179, 'title': 'How to use with namespaced models.', 'state': 'closed', 'created_at': '2015-11-06T16:21:03Z', 'closed_at': '2017-07-14T12:01:53Z', 'labels': []}
+{'issuenumber': 178, 'title': 'Devise inet fields may be treated as Field::String in Administrate, which results in SQL errors when searching', 'state': 'closed', 'created_at': '2015-11-06T16:08:30Z', 'closed_at': '2015-11-09T18:34:25Z', 'labels': []}
+{'issuenumber': 177, 'title': 'How do I customise the page title?', 'state': 'closed', 'created_at': '2015-11-06T15:11:06Z', 'closed_at': '2015-11-06T15:33:01Z', 'labels': []}
+{'issuenumber': 176, 'title': 'Issue with Enums', 'state': 'closed', 'created_at': '2015-11-06T14:28:08Z', 'closed_at': '2015-11-06T15:10:10Z', 'labels': []}
+{'issuenumber': 175, 'title': 'How to customize the displayed text for an associated model?', 'state': 'closed', 'created_at': '2015-11-06T13:41:53Z', 'closed_at': '2015-11-06T13:59:16Z', 'labels': []}
+{'issuenumber': 173, 'title': 'Implicit dependencies on the Rails Asset Pipeline', 'state': 'closed', 'created_at': '2015-11-06T12:49:45Z', 'closed_at': '2015-11-12T06:30:57Z', 'labels': []}
+{'issuenumber': 167, 'title': 'Generators trip over irregular inflections', 'state': 'closed', 'created_at': '2015-11-06T08:04:55Z', 'closed_at': '2020-10-05T15:45:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 164, 'title': "undefined method `new' for nil:NilClass on custom attribute", 'state': 'closed', 'created_at': '2015-11-06T02:51:07Z', 'closed_at': '2015-11-06T18:45:17Z', 'labels': []}
+{'issuenumber': 163, 'title': "Sort by function in line item doesn't work in `quantity` and `unit price`", 'state': 'closed', 'created_at': '2015-11-05T23:00:50Z', 'closed_at': '2015-11-06T08:51:08Z', 'labels': []}
+{'issuenumber': 162, 'title': 'Products index page is broken', 'state': 'closed', 'created_at': '2015-11-05T20:37:10Z', 'closed_at': '2015-11-06T13:19:53Z', 'labels': []}
+{'issuenumber': 159, 'title': 'Custom field types not work', 'state': 'closed', 'created_at': '2015-11-05T18:56:15Z', 'closed_at': '2015-11-05T19:55:16Z', 'labels': []}
+{'issuenumber': 158, 'title': "Issue: undefined method `per'", 'state': 'closed', 'created_at': '2015-11-05T18:40:14Z', 'closed_at': '2015-11-05T19:48:31Z', 'labels': []}
+{'issuenumber': 157, 'title': 'Smart Searching', 'state': 'closed', 'created_at': '2015-11-05T16:09:18Z', 'closed_at': '2019-08-15T08:27:26Z', 'labels': []}
+{'issuenumber': 155, 'title': 'Customizing page views - missing view generators?', 'state': 'closed', 'created_at': '2015-11-05T15:22:16Z', 'closed_at': '2015-11-05T15:30:45Z', 'labels': []}
+{'issuenumber': 151, 'title': 'The Products page in the demo returns a 500 error', 'state': 'closed', 'created_at': '2015-11-05T13:04:00Z', 'closed_at': '2015-11-05T23:34:10Z', 'labels': []}
+{'issuenumber': 150, 'title': 'Enum attribute type', 'state': 'closed', 'created_at': '2015-11-05T11:23:32Z', 'closed_at': '2015-11-06T11:47:44Z', 'labels': []}
+{'issuenumber': 149, 'title': 'Please change the example e-mail addresses to end in @example.com', 'state': 'closed', 'created_at': '2015-11-05T11:12:26Z', 'closed_at': '2015-11-06T09:21:33Z', 'labels': []}
+{'issuenumber': 146, 'title': 'uninitialized constant DashboardManifest (NameError)', 'state': 'closed', 'created_at': '2015-11-04T18:26:38Z', 'closed_at': '2015-11-04T19:24:10Z', 'labels': []}
+{'issuenumber': 145, 'title': 'issues with `rake routes`', 'state': 'closed', 'created_at': '2015-11-04T18:26:08Z', 'closed_at': '2015-11-21T01:29:37Z', 'labels': []}
+{'issuenumber': 143, 'title': 'Feature Request: Make it ORM-agnostic', 'state': 'closed', 'created_at': '2015-11-04T16:30:08Z', 'closed_at': '2019-05-20T18:03:35Z', 'labels': []}
+{'issuenumber': 141, 'title': 'Requiring inline_svg twice in the engine.rb file', 'state': 'closed', 'created_at': '2015-11-04T14:43:04Z', 'closed_at': '2015-11-05T18:41:41Z', 'labels': []}
+{'issuenumber': 140, 'title': 'Search query and MySQL', 'state': 'closed', 'created_at': '2015-11-04T13:32:43Z', 'closed_at': '2015-12-15T04:59:07Z', 'labels': []}
+{'issuenumber': 138, 'title': 'Move sample Rails app to separate repo or folder', 'state': 'closed', 'created_at': '2015-11-04T00:34:09Z', 'closed_at': '2015-11-04T16:35:27Z', 'labels': []}
+{'issuenumber': 137, 'title': 'Documentation missing: Customize Attribute Partials', 'state': 'closed', 'created_at': '2015-11-03T21:16:36Z', 'closed_at': '2015-11-03T22:10:57Z', 'labels': []}
+{'issuenumber': 136, 'title': 'Selector for belongs_to needs include_blank: true if column is nullable', 'state': 'closed', 'created_at': '2015-11-03T20:39:37Z', 'closed_at': '2017-03-02T18:43:09Z', 'labels': []}
+{'issuenumber': 135, 'title': 'DateTime fields blank out for values that are already set', 'state': 'closed', 'created_at': '2015-11-03T19:56:27Z', 'closed_at': '2015-11-12T02:35:30Z', 'labels': []}
+{'issuenumber': 134, 'title': 'File to import not found or unreadable', 'state': 'closed', 'created_at': '2015-11-03T19:11:55Z', 'closed_at': '2015-11-05T18:41:41Z', 'labels': []}
+{'issuenumber': 131, 'title': 'Add a way to customize order of options in select for `belongs_to`', 'state': 'closed', 'created_at': '2015-11-02T23:17:41Z', 'closed_at': '2017-03-02T18:42:04Z', 'labels': []}
+{'issuenumber': 130, 'title': 'Generate `SHOW_PAGE_ATTRIBUTES` as an explicit array', 'state': 'closed', 'created_at': '2015-11-02T23:08:34Z', 'closed_at': '2016-01-08T05:59:26Z', 'labels': []}
+{'issuenumber': 129, 'title': "Don't use `#to_s` to display models in Administrate.", 'state': 'closed', 'created_at': '2015-11-02T22:16:28Z', 'closed_at': '2015-11-12T07:21:07Z', 'labels': []}
+{'issuenumber': 123, 'title': 'Plugin structure and best practices', 'state': 'closed', 'created_at': '2015-11-01T23:26:31Z', 'closed_at': '2016-04-21T03:15:28Z', 'labels': []}
+{'issuenumber': 122, 'title': ' PG::UndefinedTable: ERROR:  relation "read_marks" does not exist', 'state': 'closed', 'created_at': '2015-11-01T22:55:52Z', 'closed_at': '2015-11-02T04:45:26Z', 'labels': []}
+{'issuenumber': 121, 'title': 'Feature Request: Clearing Search', 'state': 'closed', 'created_at': '2015-11-01T22:37:25Z', 'closed_at': '2016-09-28T11:57:38Z', 'labels': []}

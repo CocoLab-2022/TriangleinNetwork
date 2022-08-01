@@ -1,0 +1,543 @@
+{'issuenumber': 887, 'title': 'Can it be used with Rollup with server side rendering?', 'state': 'closed', 'created_at': '2022-03-23T09:21:49Z', 'closed_at': '2022-03-24T06:59:07Z', 'labels': []}
+{'issuenumber': 886, 'title': 'Unauthorized ', 'state': 'closed', 'created_at': '2022-03-22T13:24:11Z', 'closed_at': '2022-04-03T04:24:49Z', 'labels': []}
+{'issuenumber': 884, 'title': 'Is it possible to load component from a remote server?', 'state': 'closed', 'created_at': '2022-03-17T11:37:01Z', 'closed_at': '2022-06-19T21:25:49Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 879, 'title': 'Imperatively accessing component on server', 'state': 'closed', 'created_at': '2022-02-17T03:27:20Z', 'closed_at': '2022-06-19T21:25:30Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 878, 'title': 'Getting dayjs__WEBPACK_IMPORTED_MODULE_18___default(...)(...).local is not a function', 'state': 'closed', 'created_at': '2022-02-14T20:16:35Z', 'closed_at': '2022-04-27T12:05:40Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 877, 'title': 'nodeExtractor.requireEntrypoint crashing to "self is not defined"', 'state': 'closed', 'created_at': '2022-02-14T11:28:41Z', 'closed_at': '2022-04-27T12:05:41Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 871, 'title': 'Determine the type of `.default`  of dynamic import result', 'state': 'closed', 'created_at': '2022-01-22T17:24:20Z', 'closed_at': '2022-02-12T22:24:27Z', 'labels': []}
+{'issuenumber': 868, 'title': '5.14.1 -> 5.15.2 no longer loading latest CSS', 'state': 'closed', 'created_at': '2022-01-21T20:57:55Z', 'closed_at': '2022-04-27T12:05:33Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 867, 'title': 'Incorrect or Confusing Docs', 'state': 'closed', 'created_at': '2022-01-20T21:02:38Z', 'closed_at': '2022-04-27T12:05:39Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 865, 'title': 'Some questions about the SSR flow', 'state': 'closed', 'created_at': '2022-01-12T17:36:35Z', 'closed_at': '2022-04-27T12:05:37Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 864, 'title': "Loadable doesn't seem to correctly support module script preloading", 'state': 'closed', 'created_at': '2022-01-07T11:43:44Z', 'closed_at': '2022-04-27T12:05:33Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 863, 'title': 'Is this the correct way of using loadable?', 'state': 'closed', 'created_at': '2022-01-02T16:15:13Z', 'closed_at': '2022-04-27T12:05:36Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 862, 'title': 'So babelrc or config file require to use this module?', 'state': 'closed', 'created_at': '2021-12-26T18:38:47Z', 'closed_at': '2022-04-27T12:05:28Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 861, 'title': 'Ref is not working in Loadable Component', 'state': 'closed', 'created_at': '2021-12-12T19:34:31Z', 'closed_at': '2021-12-12T22:54:21Z', 'labels': []}
+{'issuenumber': 857, 'title': 'Ref always return null', 'state': 'closed', 'created_at': '2021-12-12T01:26:43Z', 'closed_at': '2022-04-27T12:05:28Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 856, 'title': 'Uncaught ReferenceError: exports is not defined', 'state': 'closed', 'created_at': '2021-12-09T03:43:18Z', 'closed_at': '2022-06-12T15:31:15Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 854, 'title': 'TypeError: (0 , _component.default) is not a function mock tests', 'state': 'closed', 'created_at': '2021-11-23T15:58:12Z', 'closed_at': '2022-04-27T12:05:25Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 853, 'title': '__LOADABLE_REQUIRED_CHUNKS__ empty ', 'state': 'closed', 'created_at': '2021-11-17T12:12:38Z', 'closed_at': '2021-12-20T08:32:34Z', 'labels': []}
+{'issuenumber': 852, 'title': 'Rescuing from a component syntax error inside an ErrorBoundary.', 'state': 'closed', 'created_at': '2021-11-10T15:53:09Z', 'closed_at': '2021-11-15T22:26:08Z', 'labels': []}
+{'issuenumber': 851, 'title': 'ChunkExtractorManager case useState not work', 'state': 'closed', 'created_at': '2021-11-10T10:28:10Z', 'closed_at': '2022-04-27T12:05:23Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 850, 'title': 'Expose synchronous `isReady` method ', 'state': 'closed', 'created_at': '2021-11-04T21:15:49Z', 'closed_at': '2022-04-27T12:05:31Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 848, 'title': 'loadable-components: failed to asynchronously load component', 'state': 'closed', 'created_at': '2021-10-19T07:30:00Z', 'closed_at': '2021-10-19T08:19:08Z', 'labels': []}
+{'issuenumber': 846, 'title': "Uncaught SyntaxError: Unexpected token '<'", 'state': 'closed', 'created_at': '2021-10-12T08:27:39Z', 'closed_at': '2021-10-13T23:32:26Z', 'labels': []}
+{'issuenumber': 845, 'title': "Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node. Specifically for UI libraries and loadable SSR", 'state': 'closed', 'created_at': '2021-10-12T07:08:37Z', 'closed_at': '2021-10-14T03:18:33Z', 'labels': []}
+{'issuenumber': 843, 'title': 'requireEntrypoint actually requires all js chunks', 'state': 'closed', 'created_at': '2021-10-01T14:33:34Z', 'closed_at': '2022-04-27T12:05:41Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 842, 'title': 'Yarn audit shows vulnerability for lodash', 'state': 'closed', 'created_at': '2021-09-28T07:56:23Z', 'closed_at': '2022-04-16T05:23:41Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 841, 'title': 'Precheck dynamic import', 'state': 'closed', 'created_at': '2021-09-27T20:38:21Z', 'closed_at': '2021-09-28T20:32:37Z', 'labels': []}
+{'issuenumber': 837, 'title': 'Stale stats when not using HotModuleReplacementPlugin', 'state': 'closed', 'created_at': '2021-09-23T16:09:36Z', 'closed_at': '2022-04-27T12:05:35Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 833, 'title': 'Usage with Vitejs', 'state': 'closed', 'created_at': '2021-09-20T15:49:13Z', 'closed_at': '2022-04-27T12:05:26Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 832, 'title': 'pass props to loadable', 'state': 'closed', 'created_at': '2021-09-18T06:55:04Z', 'closed_at': '2022-04-16T05:23:04Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 831, 'title': 'What should the type of `loadFn` be to allow non-FC functional components?', 'state': 'closed', 'created_at': '2021-09-17T16:07:53Z', 'closed_at': '2022-04-16T05:23:19Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 829, 'title': 'loadable.lib seems not work with ref when ssr', 'state': 'closed', 'created_at': '2021-09-07T14:28:35Z', 'closed_at': '2022-04-27T12:05:31Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 822, 'title': 'Dynamic page loading, show error when file not found', 'state': 'closed', 'created_at': '2021-08-30T11:29:15Z', 'closed_at': '2022-01-09T01:53:01Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 821, 'title': 'Stale `statsFile`', 'state': 'closed', 'created_at': '2021-08-29T13:57:05Z', 'closed_at': '2021-11-01T11:02:15Z', 'labels': []}
+{'issuenumber': 820, 'title': 'Serializability of ChunkExtractor.', 'state': 'closed', 'created_at': '2021-08-26T22:16:51Z', 'closed_at': '2021-09-08T16:11:08Z', 'labels': []}
+{'issuenumber': 819, 'title': 'How to control the number of generated JS files', 'state': 'closed', 'created_at': '2021-08-25T03:33:10Z', 'closed_at': '2021-08-25T07:11:40Z', 'labels': []}
+{'issuenumber': 818, 'title': 'outputPath', 'state': 'closed', 'created_at': '2021-08-23T20:03:24Z', 'closed_at': '2022-01-09T01:53:00Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 817, 'title': 'Add some details in SSR guide', 'state': 'closed', 'created_at': '2021-08-18T12:59:29Z', 'closed_at': '2021-11-16T11:24:34Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 805, 'title': 'DOM Elements thrown away during hydration', 'state': 'closed', 'created_at': '2021-08-03T13:25:40Z', 'closed_at': '2021-08-12T13:26:15Z', 'labels': []}
+{'issuenumber': 804, 'title': 'Error with loadable component while import from another directory', 'state': 'closed', 'created_at': '2021-07-28T11:37:36Z', 'closed_at': '2022-04-16T05:23:14Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 802, 'title': 'setting runtimeChunk single, get error', 'state': 'closed', 'created_at': '2021-07-20T02:17:26Z', 'closed_at': '2021-09-26T18:02:07Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 801, 'title': 'lazy not using fallback without Suspense', 'state': 'closed', 'created_at': '2021-07-14T20:34:52Z', 'closed_at': '2021-07-14T23:21:58Z', 'labels': []}
+{'issuenumber': 800, 'title': 'Getting Loadable Chunks when using renderToString , but not when using renderToNodeStream', 'state': 'closed', 'created_at': '2021-07-12T06:13:16Z', 'closed_at': '2021-09-26T18:02:08Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 799, 'title': 'I tried to implement this in my react app have the react-loadable implemented', 'state': 'closed', 'created_at': '2021-07-09T09:22:51Z', 'closed_at': '2021-09-09T07:34:13Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 797, 'title': 'webpackChunkName invalid', 'state': 'closed', 'created_at': '2021-06-24T10:35:45Z', 'closed_at': '2021-06-25T02:50:10Z', 'labels': []}
+{'issuenumber': 796, 'title': 'Warning or error when trying to transpile a function without losing business logic', 'state': 'closed', 'created_at': '2021-06-21T23:00:12Z', 'closed_at': '2021-08-29T23:47:23Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 795, 'title': "TypeError: Cannot read property '__esModule' of undefined when /* webpackPrefetch: true */", 'state': 'closed', 'created_at': '2021-06-21T11:12:55Z', 'closed_at': '2021-07-02T10:51:27Z', 'labels': []}
+{'issuenumber': 794, 'title': 'requireEntrypoint broken on Webpack 5', 'state': 'closed', 'created_at': '2021-06-19T04:56:20Z', 'closed_at': '2021-10-22T08:44:13Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 791, 'title': 'Error with "path"', 'state': 'closed', 'created_at': '2021-06-10T13:07:02Z', 'closed_at': '2021-06-10T23:48:56Z', 'labels': []}
+{'issuenumber': 789, 'title': 'object is undefined', 'state': 'closed', 'created_at': '2021-06-09T09:27:29Z', 'closed_at': '2021-06-20T00:32:12Z', 'labels': []}
+{'issuenumber': 788, 'title': 'Import a module from npm package', 'state': 'closed', 'created_at': '2021-06-09T07:41:21Z', 'closed_at': '2021-06-09T07:49:31Z', 'labels': []}
+{'issuenumber': 787, 'title': 'loadable-components for React 18', 'state': 'closed', 'created_at': '2021-06-09T04:15:42Z', 'closed_at': '2021-08-17T07:16:17Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 786, 'title': '@loadable/server requireEntrypoint - The "path" argument must be of type string. Received undefined', 'state': 'closed', 'created_at': '2021-06-07T08:23:00Z', 'closed_at': '2021-06-10T11:19:18Z', 'labels': []}
+{'issuenumber': 785, 'title': 'Uncaught Error: loadable-component: @loadable/server does not match @loadable/component', 'state': 'closed', 'created_at': '2021-06-05T09:45:10Z', 'closed_at': '2021-06-08T09:54:24Z', 'labels': []}
+{'issuenumber': 783, 'title': "Component.preload() doesn't work?", 'state': 'closed', 'created_at': '2021-05-30T13:34:52Z', 'closed_at': '2021-09-03T00:56:44Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 770, 'title': 'Missing assets from loadable-stats.json', 'state': 'closed', 'created_at': '2021-05-17T20:12:43Z', 'closed_at': '2021-05-26T08:20:04Z', 'labels': {'name': 'next release'}}
+{'issuenumber': 769, 'title': 'Expose just scripts for chunks', 'state': 'closed', 'created_at': '2021-05-13T16:29:18Z', 'closed_at': '2021-10-22T08:44:14Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 765, 'title': 'SSR question', 'state': 'closed', 'created_at': '2021-05-10T17:02:26Z', 'closed_at': '2021-05-11T15:28:11Z', 'labels': []}
+{'issuenumber': 755, 'title': 'React router context not updated when route is loaded through loadable', 'state': 'closed', 'created_at': '2021-05-04T23:03:48Z', 'closed_at': '2021-05-05T11:34:13Z', 'labels': []}
+{'issuenumber': 754, 'title': 'ReactJS.net - document is not defined', 'state': 'closed', 'created_at': '2021-05-03T19:41:22Z', 'closed_at': '2021-05-04T20:04:38Z', 'labels': []}
+{'issuenumber': 751, 'title': '[webpack-plugin] How to ignore an entrypoint with the plugin-webpack?', 'state': 'closed', 'created_at': '2021-04-30T07:45:24Z', 'closed_at': '2021-07-08T00:49:10Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 750, 'title': '`loadable.lib` Webpack 5 dynamic import/chunk name bug ', 'state': 'closed', 'created_at': '2021-04-29T22:07:59Z', 'closed_at': '2021-08-10T02:53:19Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 748, 'title': 'Fallback overlaps HTML from ssr', 'state': 'closed', 'created_at': '2021-04-22T15:30:11Z', 'closed_at': '2021-04-25T22:27:14Z', 'labels': []}
+{'issuenumber': 747, 'title': 'How to load default export of a module?', 'state': 'closed', 'created_at': '2021-04-22T14:02:38Z', 'closed_at': '2021-04-23T04:37:46Z', 'labels': []}
+{'issuenumber': 746, 'title': '`opts.path` is undefined in webpack plugin', 'state': 'closed', 'created_at': '2021-04-21T14:49:37Z', 'closed_at': '2021-04-21T14:51:24Z', 'labels': []}
+{'issuenumber': 745, 'title': 'New Release', 'state': 'closed', 'created_at': '2021-04-20T07:22:36Z', 'closed_at': '2021-05-10T01:20:00Z', 'labels': []}
+{'issuenumber': 744, 'title': 'Loadable in TypeScript', 'state': 'closed', 'created_at': '2021-04-19T22:42:01Z', 'closed_at': '2021-05-03T03:39:46Z', 'labels': []}
+{'issuenumber': 742, 'title': 'Loadable Components Does not seem to work on ios versions < 14.0', 'state': 'closed', 'created_at': '2021-04-13T23:18:58Z', 'closed_at': '2021-04-13T23:27:51Z', 'labels': []}
+{'issuenumber': 741, 'title': 'Version Mismatch', 'state': 'closed', 'created_at': '2021-04-12T20:34:02Z', 'closed_at': '2021-05-10T04:03:36Z', 'labels': []}
+{'issuenumber': 740, 'title': 'Feature proposal: Option to turn off automatic chunk naming', 'state': 'closed', 'created_at': '2021-04-09T07:04:31Z', 'closed_at': '2021-06-18T13:52:24Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 739, 'title': 'Update to latest Babel', 'state': 'closed', 'created_at': '2021-04-06T20:43:31Z', 'closed_at': '2021-04-07T04:15:21Z', 'labels': []}
+{'issuenumber': 738, 'title': 'Layout will be reload if it self is dynamic import load', 'state': 'closed', 'created_at': '2021-04-06T08:55:38Z', 'closed_at': '2021-06-16T20:47:46Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 736, 'title': 'Gatsby loadable-components default', 'state': 'closed', 'created_at': '2021-04-02T18:44:52Z', 'closed_at': '2021-04-07T17:42:24Z', 'labels': []}
+{'issuenumber': 733, 'title': 'Memory leak', 'state': 'closed', 'created_at': '2021-04-01T00:54:47Z', 'closed_at': '2021-06-09T21:52:34Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 728, 'title': 'createLoadable inner resolve() function params got error', 'state': 'closed', 'created_at': '2021-03-30T13:20:16Z', 'closed_at': '2021-06-09T21:52:32Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 727, 'title': 'Add displayName to Loadable and WithChunkExtractor based components', 'state': 'closed', 'created_at': '2021-03-29T22:05:31Z', 'closed_at': '2021-03-31T02:45:07Z', 'labels': []}
+{'issuenumber': 726, 'title': 'Loadable Components raises error `SSR requires @loadable/babel-plugin, please install it` when using TypeScript `commonjs` modules.', 'state': 'closed', 'created_at': '2021-03-29T04:57:28Z', 'closed_at': '2021-07-27T22:48:42Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 725, 'title': 'React Loadable Components increase Cumulative Layout Shift (CLS)', 'state': 'closed', 'created_at': '2021-03-28T20:20:05Z', 'closed_at': '2021-06-09T21:52:33Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 724, 'title': 'Failed to asynchronously load component in DEV', 'state': 'closed', 'created_at': '2021-03-24T11:26:08Z', 'closed_at': '2021-04-09T10:08:51Z', 'labels': []}
+{'issuenumber': 723, 'title': 'Add support for React Native', 'state': 'closed', 'created_at': '2021-03-17T07:12:02Z', 'closed_at': '2021-06-09T21:52:30Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 722, 'title': 'Async chunks not being collected by the webExtractor.collectChunks() call for SSR of async routes with split chunks', 'state': 'closed', 'created_at': '2021-03-16T12:24:08Z', 'closed_at': '2021-08-10T02:53:18Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 721, 'title': 'Improve the docs on SSR. There a big gap between the docs and repo used as the complete SSR example', 'state': 'closed', 'created_at': '2021-03-15T15:34:09Z', 'closed_at': '2021-06-22T14:44:16Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 720, 'title': 'Change the extractor.getLinkTags and getScriptTags to have options to speed up FCP for PageSpeed', 'state': 'closed', 'created_at': '2021-03-11T20:35:54Z', 'closed_at': '2021-06-09T21:52:31Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 717, 'title': 'Make lazy load errors easily identifiable', 'state': 'closed', 'created_at': '2021-03-10T09:59:19Z', 'closed_at': '2021-10-22T08:44:16Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 716, 'title': 'Swallowing a loadable error in an Error Boundary leads to an infinite loop', 'state': 'closed', 'created_at': '2021-03-10T09:25:10Z', 'closed_at': '2021-08-17T07:16:18Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 712, 'title': 'WP5 - Incorrect contenthash in stats vs real filenames in LoadablePlugin', 'state': 'closed', 'created_at': '2021-03-03T23:49:50Z', 'closed_at': '2021-03-04T10:48:27Z', 'labels': []}
+{'issuenumber': 711, 'title': 'Destructure library', 'state': 'closed', 'created_at': '2021-03-01T23:14:05Z', 'closed_at': '2021-03-02T23:36:54Z', 'labels': []}
+{'issuenumber': 709, 'title': 'Prune loadable stats file more aggressively', 'state': 'closed', 'created_at': '2021-03-01T08:31:16Z', 'closed_at': '2021-10-22T08:44:15Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 707, 'title': 'Duplicate react app in react devtools', 'state': 'closed', 'created_at': '2021-02-24T11:17:38Z', 'closed_at': '2021-02-25T06:24:11Z', 'labels': []}
+{'issuenumber': 706, 'title': 'Not expecting `extractor.getStyleTags()` to return empty string', 'state': 'closed', 'created_at': '2021-02-24T01:58:04Z', 'closed_at': '2021-08-10T02:53:17Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 705, 'title': 'How do you use it with meteor', 'state': 'closed', 'created_at': '2021-02-19T11:43:34Z', 'closed_at': '2021-02-21T00:37:01Z', 'labels': []}
+{'issuenumber': 704, 'title': "No error handling for dynamically loaded components that don't exist", 'state': 'closed', 'created_at': '2021-02-19T10:08:30Z', 'closed_at': '2021-06-02T15:27:10Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 703, 'title': 'Placeholder for Loadable Component', 'state': 'closed', 'created_at': '2021-02-18T11:41:34Z', 'closed_at': '2021-02-25T11:53:47Z', 'labels': []}
+{'issuenumber': 702, 'title': 'Loading multiple resources ', 'state': 'closed', 'created_at': '2021-02-10T13:04:39Z', 'closed_at': '2021-04-26T07:00:15Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 700, 'title': "What's the difference between outputAsset and writeToDisk for webpack plugin?", 'state': 'closed', 'created_at': '2021-02-05T02:35:36Z', 'closed_at': '2021-04-18T23:04:09Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 699, 'title': 'Full Typescript Support', 'state': 'closed', 'created_at': '2021-02-04T21:45:02Z', 'closed_at': '2021-04-26T07:00:16Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 698, 'title': '[HELP] Different collected chunks, local vs heroku', 'state': 'closed', 'created_at': '2021-02-01T22:51:02Z', 'closed_at': '2021-02-02T09:10:06Z', 'labels': []}
+{'issuenumber': 697, 'title': "[BUG] TypeError: Cannot read property 'find' of undefined on @loadable/server 5.14.2", 'state': 'closed', 'created_at': '2021-02-01T20:30:00Z', 'closed_at': '2021-06-02T15:27:11Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 696, 'title': 'esbuild plugin support', 'state': 'closed', 'created_at': '2021-01-27T10:16:35Z', 'closed_at': '2021-01-29T02:43:54Z', 'labels': []}
+{'issuenumber': 694, 'title': 'React-loadable to Loadable-components', 'state': 'closed', 'created_at': '2021-01-25T15:04:31Z', 'closed_at': '2021-03-31T05:56:31Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 693, 'title': "Can't launch SSR example", 'state': 'closed', 'created_at': '2021-01-25T13:42:34Z', 'closed_at': '2021-04-18T23:04:10Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 690, 'title': 'LoadableReady is not able to resolve shared modules from module Federation Plugin of Webpack 5(eg: react-dom)', 'state': 'closed', 'created_at': '2021-01-15T08:31:15Z', 'closed_at': '2021-03-26T11:38:40Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 688, 'title': 'LoadableReady not be called if required chunks have a chunk only contains css.', 'state': 'closed', 'created_at': '2021-01-13T03:10:22Z', 'closed_at': '2021-03-26T11:38:41Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 685, 'title': "Scripts don't work when I use getScriptTags().replace(/async/gi, 'defer'); hackaround", 'state': 'closed', 'created_at': '2021-01-01T14:18:30Z', 'closed_at': '2021-03-16T03:50:34Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 684, 'title': '@loadable/component failed to asynchronously load component', 'state': 'closed', 'created_at': '2020-12-31T02:35:12Z', 'closed_at': '2021-01-12T09:22:03Z', 'labels': []}
+{'issuenumber': 683, 'title': '[SSR] Loading library not splitting vendor client side but splitted server side', 'state': 'closed', 'created_at': '2020-12-30T13:30:00Z', 'closed_at': '2020-12-30T14:41:23Z', 'labels': []}
+{'issuenumber': 682, 'title': 'Failed to minify code from external : @loadable/component', 'state': 'closed', 'created_at': '2020-12-25T11:29:01Z', 'closed_at': '2021-03-07T06:20:36Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 681, 'title': 'Failed to minify code from external : @loadable/component', 'state': 'closed', 'created_at': '2020-12-25T11:23:12Z', 'closed_at': '2020-12-25T11:30:08Z', 'labels': []}
+{'issuenumber': 680, 'title': 'How to use SSR', 'state': 'closed', 'created_at': '2020-12-23T14:56:15Z', 'closed_at': '2021-03-03T19:30:08Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 679, 'title': 'type is invalid react testing libarary', 'state': 'closed', 'created_at': '2020-12-23T06:49:52Z', 'closed_at': '2021-01-07T05:02:19Z', 'labels': []}
+{'issuenumber': 678, 'title': 'How to use loadable/components with SSR and react-query?', 'state': 'closed', 'created_at': '2020-12-22T12:20:52Z', 'closed_at': '2021-03-07T06:20:37Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 675, 'title': 'How to use with redux-async-connect?', 'state': 'closed', 'created_at': '2020-12-16T21:20:19Z', 'closed_at': '2020-12-18T17:51:01Z', 'labels': []}
+{'issuenumber': 670, 'title': "Allow other names for 'loadable' in the babel plugin for server-side rendering", 'state': 'closed', 'created_at': '2020-12-10T01:06:59Z', 'closed_at': '2020-12-10T18:18:08Z', 'labels': []}
+{'issuenumber': 669, 'title': 'Invalid element type', 'state': 'closed', 'created_at': '2020-12-09T03:09:04Z', 'closed_at': '2021-02-14T19:09:44Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 668, 'title': 'Invalid configuration object. Webpack has been initialised using a configuration object that does not match the API schema', 'state': 'closed', 'created_at': '2020-12-09T00:29:10Z', 'closed_at': '2020-12-09T02:30:34Z', 'labels': []}
+{'issuenumber': 666, 'title': 'Content Hash', 'state': 'closed', 'created_at': '2020-11-24T16:45:03Z', 'closed_at': '2020-11-24T20:32:03Z', 'labels': []}
+{'issuenumber': 665, 'title': 'How to indicate component must not render from server but still send chunk script for client?', 'state': 'closed', 'created_at': '2020-11-24T14:50:25Z', 'closed_at': '2021-02-06T15:29:48Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 663, 'title': 'How do you import/load a named export?', 'state': 'closed', 'created_at': '2020-11-19T18:29:13Z', 'closed_at': '2020-11-21T06:58:27Z', 'labels': []}
+{'issuenumber': 662, 'title': "loadableReady stops working when 'react-dom' is added in shared of moduleFederationPlugin", 'state': 'closed', 'created_at': '2020-11-19T10:37:25Z', 'closed_at': '2021-01-15T08:32:27Z', 'labels': []}
+{'issuenumber': 661, 'title': 'On the fly publicPath when lazy-loading using @loadable/component?', 'state': 'closed', 'created_at': '2020-11-13T18:38:08Z', 'closed_at': '2021-02-01T19:54:00Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 660, 'title': 'Webpack 5 sur error and chunk files error (Public url)', 'state': 'closed', 'created_at': '2020-11-11T06:51:57Z', 'closed_at': '2020-11-30T09:08:44Z', 'labels': []}
+{'issuenumber': 659, 'title': 'Creating the ChunkExtractor once?', 'state': 'closed', 'created_at': '2020-11-08T17:06:06Z', 'closed_at': '2021-01-16T09:32:10Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 658, 'title': 'Webpack 5 target web, es5 error', 'state': 'closed', 'created_at': '2020-11-06T17:58:32Z', 'closed_at': '2020-11-06T21:41:08Z', 'labels': []}
+{'issuenumber': 657, 'title': 'Error when doing SSR and webpack serve (webpack 5)', 'state': 'closed', 'created_at': '2020-11-05T12:28:05Z', 'closed_at': '2021-03-26T11:38:41Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 656, 'title': 'Styled Component Conflict', 'state': 'closed', 'created_at': '2020-11-03T22:28:58Z', 'closed_at': '2020-11-09T13:29:22Z', 'labels': {'name': 'help wanted 🆘'}}
+{'issuenumber': 654, 'title': "[SSR] TypeError: Cannot read property 'length' of undefined", 'state': 'closed', 'created_at': '2020-10-24T19:25:59Z', 'closed_at': '2020-10-25T12:55:37Z', 'labels': []}
+{'issuenumber': 653, 'title': "loadable/component - loadableReady doesn't work on webpack 5", 'state': 'closed', 'created_at': '2020-10-24T12:51:53Z', 'closed_at': '2020-10-25T06:24:05Z', 'labels': []}
+{'issuenumber': 652, 'title': "Webpack plugin: doesn't ignore hot-update.js files from hot reload", 'state': 'closed', 'created_at': '2020-10-24T12:38:31Z', 'closed_at': '2020-12-31T10:33:11Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 650, 'title': 'how to pass props to lodables.lib()', 'state': 'closed', 'created_at': '2020-10-22T07:00:36Z', 'closed_at': '2020-10-22T07:10:52Z', 'labels': []}
+{'issuenumber': 649, 'title': 'Full Dynamic Import failing @5.14.0', 'state': 'closed', 'created_at': '2020-10-21T16:01:51Z', 'closed_at': '2021-01-05T05:16:03Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 648, 'title': 'requireEntrypoint() make a multiple call with express().listen() and caused a EADDRINUSE error', 'state': 'closed', 'created_at': '2020-10-21T07:10:01Z', 'closed_at': '2020-10-21T07:28:17Z', 'labels': []}
+{'issuenumber': 647, 'title': 'Integration tests', 'state': 'closed', 'created_at': '2020-10-21T07:02:27Z', 'closed_at': '2021-03-03T19:30:09Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 641, 'title': '[React Router v6] Loadable dynamic component fails to render on the server ?', 'state': 'closed', 'created_at': '2020-10-19T07:25:42Z', 'closed_at': '2020-10-26T01:59:29Z', 'labels': []}
+{'issuenumber': 639, 'title': 'loadbleReady not working', 'state': 'closed', 'created_at': '2020-10-12T13:43:16Z', 'closed_at': '2020-10-13T05:59:11Z', 'labels': []}
+{'issuenumber': 637, 'title': 'Type def component in router config', 'state': 'closed', 'created_at': '2020-10-08T19:28:41Z', 'closed_at': '2020-12-23T00:46:56Z', 'labels': []}
+{'issuenumber': 636, 'title': 'Support Webpack 5', 'state': 'closed', 'created_at': '2020-09-29T12:37:34Z', 'closed_at': '2021-02-23T06:19:43Z', 'labels': {'name': 'webpack5'}}
+{'issuenumber': 635, 'title': 'Add the ability to customize the jsonpFunction name (__LOADABLE_LOADED_CHUNKS__)', 'state': 'closed', 'created_at': '2020-09-29T11:58:43Z', 'closed_at': '2020-12-31T00:52:14Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 634, 'title': 'Error "undefined is not an object (evaluating \'e[c].call\')" When runtime chunk is slow to load', 'state': 'closed', 'created_at': '2020-09-25T08:00:54Z', 'closed_at': '2020-12-29T04:47:46Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 633, 'title': 'Warning: Did not expect server HTML to contain a <div> in <div>.', 'state': 'closed', 'created_at': '2020-09-23T06:45:25Z', 'closed_at': '2020-09-23T09:54:45Z', 'labels': []}
+{'issuenumber': 632, 'title': 'Not Generating Chunks', 'state': 'closed', 'created_at': '2020-09-21T15:18:39Z', 'closed_at': '2020-11-21T08:11:17Z', 'labels': []}
+{'issuenumber': 629, 'title': 'Error: Converting circular structure to JSON', 'state': 'closed', 'created_at': '2020-09-15T18:26:16Z', 'closed_at': '2020-10-12T10:31:17Z', 'labels': []}
+{'issuenumber': 628, 'title': '@loadable/server, Each child in a list should have a unique "key" prop.', 'state': 'closed', 'created_at': '2020-09-15T05:29:25Z', 'closed_at': '2020-09-17T02:18:48Z', 'labels': []}
+{'issuenumber': 623, 'title': 'How does loadableReady.js work?', 'state': 'closed', 'created_at': '2020-09-02T20:52:57Z', 'closed_at': '2020-11-10T07:12:23Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 621, 'title': 'Gatsby SSR error. Failed Building static HTML for pages', 'state': 'closed', 'created_at': '2020-08-30T12:29:38Z', 'closed_at': '2020-11-11T15:37:47Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 620, 'title': 'Typescript: nodeExtractor.requireEntrypoint returns undefined', 'state': 'closed', 'created_at': '2020-08-29T16:25:56Z', 'closed_at': '2020-08-30T08:30:29Z', 'labels': []}
+{'issuenumber': 618, 'title': "【React SSR】When I used the latest version, I reported an error in chrome 84, But I went back to **v5.12.0** and I didn't have this problem。", 'state': 'closed', 'created_at': '2020-08-20T08:45:06Z', 'closed_at': '2020-10-27T07:32:27Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 617, 'title': 'serverError: Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object.', 'state': 'closed', 'created_at': '2020-08-20T04:06:55Z', 'closed_at': '2020-08-20T22:29:39Z', 'labels': []}
+{'issuenumber': 616, 'title': 'Feature request: Handle non-standard file extensions in @loadable/server ', 'state': 'closed', 'created_at': '2020-08-17T10:39:04Z', 'closed_at': '2020-10-24T01:47:57Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 615, 'title': 'Support for multi-config compilation', 'state': 'closed', 'created_at': '2020-08-16T21:59:07Z', 'closed_at': '2020-11-22T18:20:11Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 613, 'title': 'publicPath not working for me + SSR errors', 'state': 'closed', 'created_at': '2020-08-16T11:44:12Z', 'closed_at': '2020-10-23T00:08:49Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 612, 'title': 'How loadable-component works with SSR and React Router', 'state': 'closed', 'created_at': '2020-08-11T09:16:17Z', 'closed_at': '2020-08-11T22:18:03Z', 'labels': []}
+{'issuenumber': 611, 'title': 'full dynamic import does not work in production', 'state': 'closed', 'created_at': '2020-08-08T06:36:44Z', 'closed_at': '2020-08-09T06:43:51Z', 'labels': []}
+{'issuenumber': 609, 'title': "Dynamic, dynamic imports can't be caught when an error occurs", 'state': 'closed', 'created_at': '2020-08-06T23:39:11Z', 'closed_at': '2020-11-05T00:49:23Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 608, 'title': 'Unused component being loaded', 'state': 'closed', 'created_at': '2020-08-05T13:44:29Z', 'closed_at': '2020-08-05T22:33:37Z', 'labels': []}
+{'issuenumber': 606, 'title': 'How to measure component height?', 'state': 'closed', 'created_at': '2020-08-04T03:21:23Z', 'closed_at': '2020-08-09T05:13:07Z', 'labels': []}
+{'issuenumber': 604, 'title': 'In the server environment, the Consumer in loadable/component always cannot get the extractor', 'state': 'closed', 'created_at': '2020-07-27T16:25:17Z', 'closed_at': '2020-07-29T02:52:13Z', 'labels': []}
+{'issuenumber': 603, 'title': 'Performance degradation over time (starts at around 100ms and grows to over 400).', 'state': 'closed', 'created_at': '2020-07-23T10:11:16Z', 'closed_at': '2020-11-13T10:00:13Z', 'labels': []}
+{'issuenumber': 602, 'title': 'Plugin Babel Macros', 'state': 'closed', 'created_at': '2020-07-20T22:18:48Z', 'closed_at': '2020-09-25T23:51:12Z', 'labels': []}
+{'issuenumber': 601, 'title': 'requireAsync .then is not a function', 'state': 'closed', 'created_at': '2020-07-20T11:22:41Z', 'closed_at': '2020-09-26T13:50:04Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 599, 'title': "Cannot read property 'call' of undefined (5.13.1)", 'state': 'closed', 'created_at': '2020-07-16T21:54:23Z', 'closed_at': '2020-09-23T03:56:19Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 597, 'title': 'getScriptElements now returns an array for required chunks', 'state': 'closed', 'created_at': '2020-07-15T09:39:55Z', 'closed_at': '2020-07-15T23:01:34Z', 'labels': []}
+{'issuenumber': 596, 'title': 'Option to embed JavaScript inline (similar to `chunkExtractor.getCssString`) ', 'state': 'closed', 'created_at': '2020-07-10T18:02:02Z', 'closed_at': '2020-09-17T23:13:57Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 595, 'title': 'typo', 'state': 'closed', 'created_at': '2020-07-10T07:09:32Z', 'closed_at': '2020-09-17T03:02:14Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 594, 'title': 'SSR and Express without webpack-dev-middleware', 'state': 'closed', 'created_at': '2020-07-09T14:35:25Z', 'closed_at': '2020-10-05T20:39:24Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 593, 'title': 'SSR does not wait for react-router@2.0.0 enterHook callback', 'state': 'closed', 'created_at': '2020-07-09T00:02:27Z', 'closed_at': '2020-07-09T02:57:45Z', 'labels': []}
+{'issuenumber': 592, 'title': '`chunkExtractor.getScriptElements` returns nested array in 5.13.1', 'state': 'closed', 'created_at': '2020-07-07T22:55:18Z', 'closed_at': '2020-09-02T22:17:52Z', 'labels': []}
+{'issuenumber': 591, 'title': 'Using of ChunkExtractorManager', 'state': 'closed', 'created_at': '2020-07-07T06:19:39Z', 'closed_at': '2020-07-29T07:14:11Z', 'labels': []}
+{'issuenumber': 590, 'title': 'There was an error: Invariant Violation: loadable: cannot find pages-Home in stats', 'state': 'closed', 'created_at': '2020-07-03T18:21:39Z', 'closed_at': '2020-09-26T13:50:03Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 588, 'title': 'Option to exclude components from chunk-extraction', 'state': 'closed', 'created_at': '2020-07-01T09:37:52Z', 'closed_at': '2020-08-30T22:16:56Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 587, 'title': 'Hydration of app in 5.13.0', 'state': 'closed', 'created_at': '2020-07-01T07:26:28Z', 'closed_at': '2020-07-15T09:14:57Z', 'labels': []}
+{'issuenumber': 586, 'title': 'Is it possible to combine multiple components into one file?', 'state': 'closed', 'created_at': '2020-06-26T19:38:00Z', 'closed_at': '2020-08-03T22:22:14Z', 'labels': []}
+{'issuenumber': 585, 'title': 'SSR with wrapped import', 'state': 'closed', 'created_at': '2020-06-19T13:11:32Z', 'closed_at': '2020-08-26T13:03:26Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 584, 'title': 'When will the new version be released?', 'state': 'closed', 'created_at': '2020-06-13T04:38:12Z', 'closed_at': '2020-07-13T10:43:29Z', 'labels': []}
+{'issuenumber': 581, 'title': ' loadable/component  is not Working on IE(10 and 11)', 'state': 'closed', 'created_at': '2020-06-05T10:18:16Z', 'closed_at': '2020-06-09T06:40:23Z', 'labels': []}
+{'issuenumber': 580, 'title': 'Giving me Invalid character, SCTIPT1014 when loading in IE(10 and 11) in lodable/component while in chrome working fine', 'state': 'closed', 'created_at': '2020-06-04T09:54:18Z', 'closed_at': '2020-06-04T10:41:01Z', 'labels': []}
+{'issuenumber': 579, 'title': 'How to use @loadable/component with classes which do not have defaut exports', 'state': 'closed', 'created_at': '2020-05-30T11:56:57Z', 'closed_at': '2020-05-31T07:05:15Z', 'labels': []}
+{'issuenumber': 578, 'title': 'Prevent preloading a chunk even if it is used on the server', 'state': 'closed', 'created_at': '2020-05-30T10:30:52Z', 'closed_at': '2020-09-21T09:26:12Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 577, 'title': 'Loadable Components with react-redux connect error', 'state': 'closed', 'created_at': '2020-05-30T02:45:08Z', 'closed_at': '2020-05-30T05:08:28Z', 'labels': []}
+{'issuenumber': 574, 'title': 'Object(...) is not a function', 'state': 'closed', 'created_at': '2020-05-21T03:36:26Z', 'closed_at': '2020-07-27T09:11:41Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 572, 'title': 'getStyleTags() seems to work fine with renderToNodeStream when using prepass', 'state': 'closed', 'created_at': '2020-05-18T18:48:54Z', 'closed_at': '2020-07-25T01:58:08Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 571, 'title': 'fully dynamic import with svgr', 'state': 'closed', 'created_at': '2020-05-16T13:55:07Z', 'closed_at': '2020-09-22T06:58:14Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 570, 'title': 'Creating reusable vendor chunks with loadable across projects', 'state': 'closed', 'created_at': '2020-05-16T13:07:13Z', 'closed_at': '2020-07-23T04:13:21Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 569, 'title': 'SVGR', 'state': 'closed', 'created_at': '2020-05-15T21:18:29Z', 'closed_at': '2020-05-15T21:23:53Z', 'labels': []}
+{'issuenumber': 566, 'title': 'Regarding external npm packages', 'state': 'closed', 'created_at': '2020-05-06T22:48:40Z', 'closed_at': '2020-05-07T10:28:49Z', 'labels': []}
+{'issuenumber': 565, 'title': 'Export `createLoadable` ', 'state': 'closed', 'created_at': '2020-04-30T12:06:14Z', 'closed_at': '2020-06-30T22:10:06Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 564, 'title': "without any Router, dynamic loading the component when the base address not start from '/' will cause errors", 'state': 'closed', 'created_at': '2020-04-29T01:55:44Z', 'closed_at': '2020-04-29T02:00:03Z', 'labels': []}
+{'issuenumber': 563, 'title': "integrity isn't added to assets in loadable-stats.json", 'state': 'closed', 'created_at': '2020-04-27T19:03:22Z', 'closed_at': '2020-07-03T20:47:33Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 562, 'title': 'What is the minimal react version required?', 'state': 'closed', 'created_at': '2020-04-27T13:55:10Z', 'closed_at': '2020-04-28T15:08:50Z', 'labels': []}
+{'issuenumber': 561, 'title': 'What is __LOADABLE_REQUIRED_CHUNKS__ script tag is for? Is it important?', 'state': 'closed', 'created_at': '2020-04-27T13:18:57Z', 'closed_at': '2020-04-28T01:06:33Z', 'labels': []}
+{'issuenumber': 560, 'title': 'Memory leak caused by ChunkExtractor', 'state': 'closed', 'created_at': '2020-04-26T08:36:49Z', 'closed_at': '2020-06-05T23:01:04Z', 'labels': []}
+{'issuenumber': 559, 'title': 'Question What is the difference between `lazy` and `loadable`', 'state': 'closed', 'created_at': '2020-04-22T10:47:09Z', 'closed_at': '2020-06-21T21:58:43Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 558, 'title': "undefined is not an object (evaluating 'e[t].call')", 'state': 'closed', 'created_at': '2020-04-22T07:12:00Z', 'closed_at': '2020-06-07T00:24:18Z', 'labels': []}
+{'issuenumber': 557, 'title': 'Warning: Did not expect server HTML to contain a <div> in <div>.', 'state': 'closed', 'created_at': '2020-04-20T04:28:37Z', 'closed_at': '2020-05-19T07:25:07Z', 'labels': []}
+{'issuenumber': 556, 'title': 'Version for Nuxt / VueJS?', 'state': 'closed', 'created_at': '2020-04-17T17:06:30Z', 'closed_at': '2020-06-23T18:42:43Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 555, 'title': "Script tags append again when they have already appended, And when you jump to a page, publicpath doesn't work", 'state': 'closed', 'created_at': '2020-04-17T11:34:58Z', 'closed_at': '2020-05-19T07:25:22Z', 'labels': []}
+{'issuenumber': 554, 'title': 'SSR Example + typescript = "cannot find **** in stats"', 'state': 'closed', 'created_at': '2020-04-15T19:03:20Z', 'closed_at': '2020-06-21T20:07:18Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 553, 'title': 'SSR: hydration breaks when using emotion', 'state': 'closed', 'created_at': '2020-04-12T10:16:05Z', 'closed_at': '2020-10-07T02:00:31Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 550, 'title': 'Changes not working on Server Side.', 'state': 'closed', 'created_at': '2020-04-10T03:31:55Z', 'closed_at': '2020-05-18T14:26:38Z', 'labels': []}
+{'issuenumber': 549, 'title': 'Babel-plugin: Unrelated files are being bundled together due to import with identical relative paths', 'state': 'closed', 'created_at': '2020-04-07T14:00:56Z', 'closed_at': '2020-08-26T13:03:27Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 548, 'title': 'Error of "Invariant Violation: loadable: SSR requires `@loadable/babel-plugin`" is hard to get rid of', 'state': 'closed', 'created_at': '2020-04-04T13:16:36Z', 'closed_at': '2020-08-16T13:44:45Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 547, 'title': 'Uncaught Error: Cannot find module', 'state': 'closed', 'created_at': '2020-03-31T04:12:28Z', 'closed_at': '2020-07-11T02:02:24Z', 'labels': []}
+{'issuenumber': 546, 'title': 'loading handler while loading component', 'state': 'closed', 'created_at': '2020-03-30T19:49:57Z', 'closed_at': '2020-03-30T22:25:53Z', 'labels': []}
+{'issuenumber': 545, 'title': 'How to handle error on the server？', 'state': 'closed', 'created_at': '2020-03-26T03:02:56Z', 'closed_at': '2020-03-26T07:16:56Z', 'labels': []}
+{'issuenumber': 543, 'title': 'SSR supports multiple imports', 'state': 'closed', 'created_at': '2020-03-23T12:35:36Z', 'closed_at': '2020-03-26T02:51:58Z', 'labels': []}
+{'issuenumber': 540, 'title': 'Adding react-hot-loader to the SSR example', 'state': 'closed', 'created_at': '2020-03-22T20:00:33Z', 'closed_at': '2020-05-30T02:21:39Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 538, 'title': '@loadable/babel-plugin not support webpack magic comments', 'state': 'closed', 'created_at': '2020-03-14T14:33:56Z', 'closed_at': '2020-04-02T08:05:43Z', 'labels': []}
+{'issuenumber': 536, 'title': 'loadable: SSR requires `@loadable/babel-plugin`, please install it', 'state': 'closed', 'created_at': '2020-03-07T17:40:38Z', 'closed_at': '2020-03-09T01:30:22Z', 'labels': []}
+{'issuenumber': 535, 'title': 'Server without webpack', 'state': 'closed', 'created_at': '2020-03-04T23:59:27Z', 'closed_at': '2020-03-14T13:21:05Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 534, 'title': 'component loading twice', 'state': 'closed', 'created_at': '2020-03-04T06:54:46Z', 'closed_at': '2020-03-09T02:09:27Z', 'labels': []}
+{'issuenumber': 533, 'title': 'Loadable Components work with Preact?', 'state': 'closed', 'created_at': '2020-03-03T08:11:30Z', 'closed_at': '2020-03-03T12:08:31Z', 'labels': []}
+{'issuenumber': 531, 'title': 'is there a migration guide from v2 to v3/5?', 'state': 'closed', 'created_at': '2020-02-26T12:46:30Z', 'closed_at': '2020-02-26T15:05:52Z', 'labels': []}
+{'issuenumber': 530, 'title': 'Loadable components not rendering on server', 'state': 'closed', 'created_at': '2020-02-25T07:50:16Z', 'closed_at': '2020-05-05T08:33:02Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 528, 'title': 'Page gets broken with SSR + client side mode', 'state': 'closed', 'created_at': '2020-02-13T15:56:38Z', 'closed_at': '2020-04-28T09:24:59Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 527, 'title': 'SSR is not work when adding vendor split chunks', 'state': 'closed', 'created_at': '2020-02-12T23:59:50Z', 'closed_at': '2021-06-22T14:44:17Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 525, 'title': 'Handle of Loading chunk failure', 'state': 'closed', 'created_at': '2020-02-12T03:33:11Z', 'closed_at': '2020-02-16T15:17:21Z', 'labels': []}
+{'issuenumber': 523, 'title': 'loadableReady getting called twice', 'state': 'closed', 'created_at': '2020-02-07T06:40:57Z', 'closed_at': '2020-02-07T07:35:41Z', 'labels': []}
+{'issuenumber': 522, 'title': 'how to load json file through loadable component ?', 'state': 'closed', 'created_at': '2020-02-06T05:49:58Z', 'closed_at': '2020-02-16T15:24:17Z', 'labels': []}
+{'issuenumber': 519, 'title': 'Build only changed files?', 'state': 'closed', 'created_at': '2020-01-29T03:42:40Z', 'closed_at': '2020-02-21T08:52:16Z', 'labels': []}
+{'issuenumber': 518, 'title': 'Need help for my unit test with load', 'state': 'closed', 'created_at': '2020-01-27T18:05:16Z', 'closed_at': '2020-01-28T22:58:02Z', 'labels': []}
+{'issuenumber': 517, 'title': 'Tree Shaking Seems to be not Working', 'state': 'closed', 'created_at': '2020-01-27T16:18:48Z', 'closed_at': '2020-01-29T09:11:32Z', 'labels': []}
+{'issuenumber': 515, 'title': 'Dynamically imported components does not render in SSR', 'state': 'closed', 'created_at': '2020-01-15T14:36:41Z', 'closed_at': '2020-02-05T09:51:17Z', 'labels': []}
+{'issuenumber': 514, 'title': 'Full dynamic import using function argument destructuring breaks on production builds', 'state': 'closed', 'created_at': '2020-01-14T19:14:22Z', 'closed_at': '2020-05-22T04:11:36Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 512, 'title': 'How to avoid blinking when switching between pages using react-router?', 'state': 'closed', 'created_at': '2020-01-14T10:46:18Z', 'closed_at': '2020-01-14T21:48:04Z', 'labels': []}
+{'issuenumber': 509, 'title': 'Safari does not show the fallback component', 'state': 'closed', 'created_at': '2020-01-10T01:00:17Z', 'closed_at': '2020-03-11T21:56:43Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 508, 'title': 'Why a separate @loadable/webpack-plugin?', 'state': 'closed', 'created_at': '2020-01-10T00:02:59Z', 'closed_at': '2020-01-10T03:34:51Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 500, 'title': 'Context.provider in ssr html, but in loadable component, this context could not be found', 'state': 'closed', 'created_at': '2020-01-08T13:50:33Z', 'closed_at': '2020-01-08T21:30:37Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 499, 'title': "The path that is created by webpack can't be found when the program is started.", 'state': 'closed', 'created_at': '2020-01-07T08:15:32Z', 'closed_at': '2020-05-30T06:42:33Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 498, 'title': 'Jest babel plugin', 'state': 'closed', 'created_at': '2020-01-07T03:59:16Z', 'closed_at': '2020-03-26T11:01:41Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 497, 'title': 'Components are not loaded for first request in node SSR', 'state': 'closed', 'created_at': '2020-01-04T20:26:56Z', 'closed_at': '2020-04-10T18:43:04Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 496, 'title': 'extractor.collectChunks does not provide mjs script chunks in getScriptTags fn', 'state': 'closed', 'created_at': '2020-01-03T17:16:23Z', 'closed_at': '2020-01-04T20:10:55Z', 'labels': []}
+{'issuenumber': 495, 'title': 'Server did not response and remains loading while using chunkExtractor', 'state': 'closed', 'created_at': '2020-01-03T12:22:27Z', 'closed_at': '2020-02-05T09:51:34Z', 'labels': []}
+{'issuenumber': 493, 'title': 'Failed prop type: Invalid prop `component` of type `object` supplied to `Route`, expected `function`.', 'state': 'closed', 'created_at': '2019-12-28T17:57:44Z', 'closed_at': '2019-12-28T22:21:02Z', 'labels': []}
+{'issuenumber': 492, 'title': 'multiple import calls inside `loadable()` function are not supported', 'state': 'closed', 'created_at': '2019-12-27T15:27:50Z', 'closed_at': '2019-12-27T20:58:37Z', 'labels': []}
+{'issuenumber': 491, 'title': 'Loading placeholder ', 'state': 'closed', 'created_at': '2019-12-24T13:04:05Z', 'closed_at': '2019-12-25T12:28:37Z', 'labels': []}
+{'issuenumber': 490, 'title': '@ loadable / server does not support webpack output.filename is a special path name 🐛', 'state': 'closed', 'created_at': '2019-12-23T02:15:55Z', 'closed_at': '2020-01-06T05:04:17Z', 'labels': []}
+{'issuenumber': 489, 'title': 'bag getLinkTags', 'state': 'closed', 'created_at': '2019-12-22T19:47:27Z', 'closed_at': '2020-02-27T22:31:21Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 488, 'title': 'Invariant Violation: loadable: SSR requires `@loadable/babel-plugin`, please install it', 'state': 'closed', 'created_at': '2019-12-21T07:33:37Z', 'closed_at': '2019-12-30T21:44:45Z', 'labels': []}
+{'issuenumber': 484, 'title': 'Invariant Violation: loadable: SSR requires `@loadable/babel-plugin`, please install it', 'state': 'closed', 'created_at': '2019-12-18T03:10:57Z', 'closed_at': '2019-12-23T01:53:37Z', 'labels': []}
+{'issuenumber': 482, 'title': 'Optional parameter to disable loadable stats reload in non production', 'state': 'closed', 'created_at': '2019-12-12T23:33:28Z', 'closed_at': '2020-04-29T21:34:33Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 481, 'title': 'Issue with filenames of chunks', 'state': 'closed', 'created_at': '2019-12-11T08:50:41Z', 'closed_at': '2019-12-11T09:49:29Z', 'labels': []}
+{'issuenumber': 480, 'title': 'Loadable components and not having dynamic imports on server', 'state': 'closed', 'created_at': '2019-12-10T16:13:08Z', 'closed_at': '2020-01-12T20:44:21Z', 'labels': []}
+{'issuenumber': 479, 'title': 'chunkNames in Server Stats file different from Client stats file', 'state': 'closed', 'created_at': '2019-12-08T13:01:44Z', 'closed_at': '2019-12-09T09:16:52Z', 'labels': []}
+{'issuenumber': 478, 'title': 'Webpack Multiple Entries: Split Chunks being included in main Bundle', 'state': 'closed', 'created_at': '2019-12-06T21:40:49Z', 'closed_at': '2020-02-11T22:28:12Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 474, 'title': "TypeError: Cannot read property 'resolve' of undefined", 'state': 'closed', 'created_at': '2019-12-05T16:44:45Z', 'closed_at': '2020-02-11T21:28:12Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 473, 'title': "[SSR/redux-saga] first request http get doesn't trigger actions, but all the next ones yes", 'state': 'closed', 'created_at': '2019-12-04T22:19:04Z', 'closed_at': '2019-12-05T05:19:37Z', 'labels': []}
+{'issuenumber': 472, 'title': 'SSR example does not work when running `yarn dev` for the first time', 'state': 'closed', 'created_at': '2019-12-04T07:47:00Z', 'closed_at': '2020-02-09T09:07:02Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 471, 'title': 'this.resolve is not a function with version 5.11.0', 'state': 'closed', 'created_at': '2019-12-03T09:38:34Z', 'closed_at': '2019-12-03T09:47:25Z', 'labels': []}
+{'issuenumber': 469, 'title': 'pass new props loading', 'state': 'closed', 'created_at': '2019-12-02T11:15:08Z', 'closed_at': '2020-02-09T22:07:03Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 467, 'title': 'Retry lazy loading', 'state': 'closed', 'created_at': '2019-11-27T16:17:59Z', 'closed_at': '2019-11-27T21:31:16Z', 'labels': []}
+{'issuenumber': 466, 'title': 'Invariant Violation: loadable: SSR requires `@loadable/babel-plugin`, please install it', 'state': 'closed', 'created_at': '2019-11-27T15:35:18Z', 'closed_at': '2020-01-09T10:39:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 465, 'title': 'apollo client local state cannot be collected', 'state': 'closed', 'created_at': '2019-11-27T00:53:33Z', 'closed_at': '2020-02-02T02:50:43Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 464, 'title': "is it seemly doesn't work in typescript?  code spliting fail", 'state': 'closed', 'created_at': '2019-11-18T09:57:41Z', 'closed_at': '2020-01-17T21:23:57Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 462, 'title': 'How to preload chanks before going to page ?', 'state': 'closed', 'created_at': '2019-11-14T10:01:47Z', 'closed_at': '2019-11-14T11:01:13Z', 'labels': []}
+{'issuenumber': 461, 'title': 'marking the scripts as `async`', 'state': 'closed', 'created_at': '2019-11-09T08:25:23Z', 'closed_at': '2019-11-09T09:10:54Z', 'labels': []}
+{'issuenumber': 460, 'title': 'stats file generated by loadable-components webpack plugin contains warnings as well', 'state': 'closed', 'created_at': '2019-11-08T13:44:56Z', 'closed_at': '2020-01-16T21:18:25Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 459, 'title': 'I believe there is a bug in webpack-plugin', 'state': 'closed', 'created_at': '2019-11-03T11:25:24Z', 'closed_at': '2020-01-10T06:04:29Z', 'labels': []}
+{'issuenumber': 458, 'title': 'TypeScript custom transformer for SSR', 'state': 'closed', 'created_at': '2019-11-02T11:09:23Z', 'closed_at': '2020-11-26T02:53:39Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 456, 'title': 'Webpack for server build: can we limit to 1 chunk?', 'state': 'closed', 'created_at': '2019-10-28T22:07:44Z', 'closed_at': '2019-11-18T19:33:09Z', 'labels': []}
+{'issuenumber': 455, 'title': "Server doesn't work with `esm` package", 'state': 'closed', 'created_at': '2019-10-28T19:16:01Z', 'closed_at': '2019-12-02T10:38:12Z', 'labels': []}
+{'issuenumber': 454, 'title': 'Question: "Rendering Modes" / Thunked options argument', 'state': 'closed', 'created_at': '2019-10-28T12:53:37Z', 'closed_at': '2020-01-16T21:18:23Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 453, 'title': 'Support custom ChunkName when using "Full dynamic import"', 'state': 'closed', 'created_at': '2019-10-25T13:21:14Z', 'closed_at': '2019-11-03T07:13:55Z', 'labels': []}
+{'issuenumber': 452, 'title': 'Scripts(.js) are also included in response of extractor.getStyleTags(). ', 'state': 'closed', 'created_at': '2019-10-25T08:59:23Z', 'closed_at': '2019-10-25T09:43:20Z', 'labels': []}
+{'issuenumber': 451, 'title': 'Cache style file content to improve ssr performance', 'state': 'closed', 'created_at': '2019-10-22T09:48:29Z', 'closed_at': '2019-10-22T09:57:28Z', 'labels': []}
+{'issuenumber': 450, 'title': 'Compilation issue with new babel version, namely @babel/types 7.6.3', 'state': 'closed', 'created_at': '2019-10-21T14:34:25Z', 'closed_at': '2020-05-25T11:16:33Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 444, 'title': 'Backend based component rendering does not renders in ssr', 'state': 'closed', 'created_at': '2019-10-04T14:22:11Z', 'closed_at': '2020-01-16T21:18:20Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 443, 'title': 'Load page assets on server as required', 'state': 'closed', 'created_at': '2019-10-01T22:26:17Z', 'closed_at': '2019-10-02T14:13:03Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 441, 'title': '<script crossOrigin="anonymous" ... /> possible ??', 'state': 'closed', 'created_at': '2019-09-29T14:44:08Z', 'closed_at': '2019-10-01T19:38:58Z', 'labels': []}
+{'issuenumber': 439, 'title': "CSS doesn't load when I use loadable component in Router", 'state': 'closed', 'created_at': '2019-09-25T17:22:01Z', 'closed_at': '2020-01-16T21:18:17Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 438, 'title': '[Feature Request] On Load callback ', 'state': 'closed', 'created_at': '2019-09-25T12:35:42Z', 'closed_at': '2019-09-25T13:04:14Z', 'labels': []}
+{'issuenumber': 437, 'title': 'Is that available to compress the and reference gzip file in server side rendering?', 'state': 'closed', 'created_at': '2019-09-25T02:46:22Z', 'closed_at': '2019-09-25T06:46:00Z', 'labels': []}
+{'issuenumber': 433, 'title': 'Functionality of getScriptTags in SSR environment', 'state': 'closed', 'created_at': '2019-09-18T17:12:57Z', 'closed_at': '2019-09-18T17:17:11Z', 'labels': []}
+{'issuenumber': 432, 'title': 'How to handle `cannot find module`', 'state': 'closed', 'created_at': '2019-09-17T08:42:54Z', 'closed_at': '2019-09-25T05:04:38Z', 'labels': []}
+{'issuenumber': 430, 'title': 'Methods not available on extractor for SSR', 'state': 'closed', 'created_at': '2019-09-11T22:55:17Z', 'closed_at': '2019-09-12T16:29:48Z', 'labels': []}
+{'issuenumber': 429, 'title': 'Accessing Route Config from within server.js file', 'state': 'closed', 'created_at': '2019-09-10T19:59:19Z', 'closed_at': '2019-09-22T20:40:56Z', 'labels': []}
+{'issuenumber': 428, 'title': 'Loadable + SSR + NON Ejected CRA', 'state': 'closed', 'created_at': '2019-09-10T15:36:43Z', 'closed_at': '2019-09-22T20:41:43Z', 'labels': []}
+{'issuenumber': 427, 'title': 'Custom public path on the fly for assets', 'state': 'closed', 'created_at': '2019-09-10T11:48:54Z', 'closed_at': '2019-10-04T01:59:28Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 426, 'title': 'Website menu is not scrolling', 'state': 'closed', 'created_at': '2019-09-05T07:59:24Z', 'closed_at': '2019-09-19T07:33:24Z', 'labels': []}
+{'issuenumber': 423, 'title': 'Getting warning: Did not expect server HTML to contain a <div> in <div>', 'state': 'closed', 'created_at': '2019-09-02T12:30:22Z', 'closed_at': '2020-04-09T14:27:49Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 421, 'title': 'Add missing loadable packages in examples', 'state': 'closed', 'created_at': '2019-08-28T06:05:13Z', 'closed_at': '2020-01-16T21:18:14Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 420, 'title': 'import error inside async loaded component is hidden by @loadable', 'state': 'closed', 'created_at': '2019-08-27T13:55:28Z', 'closed_at': '2020-01-16T21:18:24Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 418, 'title': "does not support 'webpack-hot-middleware' ?", 'state': 'closed', 'created_at': '2019-08-25T12:02:05Z', 'closed_at': '2019-08-28T07:57:20Z', 'labels': []}
+{'issuenumber': 415, 'title': 'componentWillMount is deprecated in react 16.9', 'state': 'closed', 'created_at': '2019-08-22T09:02:15Z', 'closed_at': '2019-08-28T07:34:26Z', 'labels': []}
+{'issuenumber': 414, 'title': 'Does @loadable works with React Hooks? ', 'state': 'closed', 'created_at': '2019-08-20T22:29:51Z', 'closed_at': '2019-09-13T22:44:51Z', 'labels': []}
+{'issuenumber': 413, 'title': '@loadable/babel-plugin Error', 'state': 'closed', 'created_at': '2019-08-15T11:16:48Z', 'closed_at': '2019-08-28T06:36:51Z', 'labels': []}
+{'issuenumber': 412, 'title': 'Something is wrong with @loadable/babel-plugin', 'state': 'closed', 'created_at': '2019-08-15T11:12:31Z', 'closed_at': '2019-08-15T11:13:51Z', 'labels': []}
+{'issuenumber': 411, 'title': 'Somethisng is wrong with @loadable/babel-plugin', 'state': 'closed', 'created_at': '2019-08-15T11:09:46Z', 'closed_at': '2019-08-15T11:11:09Z', 'labels': []}
+{'issuenumber': 410, 'title': "Something is wrong with '@loadable/babel-plugin'", 'state': 'closed', 'created_at': '2019-08-15T11:08:05Z', 'closed_at': '2019-08-15T11:10:10Z', 'labels': []}
+{'issuenumber': 409, 'title': 'Hydrate error (Warning: Did not expect server HTML to contain a [  ] in [  ].)', 'state': 'closed', 'created_at': '2019-08-14T02:21:59Z', 'closed_at': '2019-08-17T05:21:57Z', 'labels': []}
+{'issuenumber': 408, 'title': 'How to avoid preloading certain routes', 'state': 'closed', 'created_at': '2019-08-13T10:36:24Z', 'closed_at': '2019-08-28T06:30:34Z', 'labels': []}
+{'issuenumber': 407, 'title': 'Razzle example local server start fails', 'state': 'closed', 'created_at': '2019-08-11T11:44:42Z', 'closed_at': '2019-08-28T06:03:35Z', 'labels': []}
+{'issuenumber': 406, 'title': 'Cant run the server side code example.', 'state': 'closed', 'created_at': '2019-08-10T00:06:45Z', 'closed_at': '2019-08-28T06:01:12Z', 'labels': []}
+{'issuenumber': 405, 'title': 'SSR with remote stats and assets', 'state': 'closed', 'created_at': '2019-08-08T14:51:57Z', 'closed_at': '2019-08-12T08:59:47Z', 'labels': []}
+{'issuenumber': 403, 'title': 'Inline manifest in server response', 'state': 'closed', 'created_at': '2019-08-06T14:21:44Z', 'closed_at': '2019-08-06T22:14:00Z', 'labels': []}
+{'issuenumber': 401, 'title': 'without babel - how to use fallback and other options', 'state': 'closed', 'created_at': '2019-08-05T22:45:15Z', 'closed_at': '2019-09-18T19:49:32Z', 'labels': []}
+{'issuenumber': 400, 'title': 'isReady returns true even though bundles are not all loaded', 'state': 'closed', 'created_at': '2019-08-05T14:59:55Z', 'closed_at': '2019-12-02T10:37:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 399, 'title': 'How pass isLoading', 'state': 'closed', 'created_at': '2019-08-03T09:43:38Z', 'closed_at': '2019-08-06T10:27:43Z', 'labels': []}
+{'issuenumber': 398, 'title': "Example with ruzzle doesn't work", 'state': 'closed', 'created_at': '2019-08-01T16:22:42Z', 'closed_at': '2019-08-06T11:06:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 397, 'title': "IE11: Object doesn't support property or method 'includes'", 'state': 'closed', 'created_at': '2019-07-30T15:15:09Z', 'closed_at': '2019-08-28T07:06:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 396, 'title': 'Loadable breaks tests if used with SSR', 'state': 'closed', 'created_at': '2019-07-30T10:05:02Z', 'closed_at': '2019-08-07T13:20:55Z', 'labels': {'name': 'discussion 🗣'}}
+{'issuenumber': 395, 'title': "'create-react-app', extractor.getStyleTags() can‘t get .css", 'state': 'closed', 'created_at': '2019-07-26T08:22:33Z', 'closed_at': '2019-07-31T04:28:58Z', 'labels': []}
+{'issuenumber': 394, 'title': 'TS + create-react-app + react-router: error "You may need an appropriate loader to handle this file type."', 'state': 'closed', 'created_at': '2019-07-24T07:09:37Z', 'closed_at': '2019-08-06T10:08:35Z', 'labels': []}
+{'issuenumber': 393, 'title': 'Cannot find x in stats with ssr: true', 'state': 'closed', 'created_at': '2019-07-15T14:40:18Z', 'closed_at': '2020-01-16T21:18:16Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 382, 'title': '"loadable: cannot find x in stats" with dynamic import and loadable.lib', 'state': 'closed', 'created_at': '2019-07-09T13:13:09Z', 'closed_at': '2020-02-10T10:32:22Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 381, 'title': 'Theres a way to preload a font in ssr?', 'state': 'closed', 'created_at': '2019-07-09T01:46:10Z', 'closed_at': '2019-07-09T20:17:50Z', 'labels': []}
+{'issuenumber': 380, 'title': 'You may need an additional loader to handle the result of these loaders.', 'state': 'closed', 'created_at': '2019-07-08T10:09:50Z', 'closed_at': '2019-07-15T08:31:20Z', 'labels': []}
+{'issuenumber': 379, 'title': 'babel-preset-env 7.5 breaks loadable', 'state': 'closed', 'created_at': '2019-07-06T19:48:36Z', 'closed_at': '2019-07-08T23:12:29Z', 'labels': []}
+{'issuenumber': 378, 'title': 'how to hide SSRendered html while waiting for chunks to be laoded?', 'state': 'closed', 'created_at': '2019-07-05T14:54:54Z', 'closed_at': '2019-07-09T15:13:39Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 377, 'title': 'All route split chunks get added when using webpackPreload and SSR', 'state': 'closed', 'created_at': '2019-07-05T02:13:59Z', 'closed_at': '2019-07-08T07:28:04Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 376, 'title': 'How to avoid load the same component twice?', 'state': 'closed', 'created_at': '2019-07-04T13:30:32Z', 'closed_at': '2019-07-05T11:50:22Z', 'labels': []}
+{'issuenumber': 374, 'title': 'Loadable Components SSR with React Router v3', 'state': 'closed', 'created_at': '2019-07-03T04:46:33Z', 'closed_at': '2019-07-05T00:58:20Z', 'labels': []}
+{'issuenumber': 373, 'title': 'Multiple chunks for same component when paths different', 'state': 'closed', 'created_at': '2019-07-01T14:54:39Z', 'closed_at': '2019-07-15T08:30:24Z', 'labels': []}
+{'issuenumber': 372, 'title': "@loadable/babel-plugin doesn't work with dynamic imports", 'state': 'closed', 'created_at': '2019-07-01T11:15:48Z', 'closed_at': '2019-07-01T12:03:04Z', 'labels': []}
+{'issuenumber': 369, 'title': 'react-loadable compatibility component ', 'state': 'closed', 'created_at': '2019-06-26T19:39:50Z', 'closed_at': '2019-07-01T07:43:01Z', 'labels': {'name': 'feature request 🙏'}}
+{'issuenumber': 368, 'title': 'ssr and redux ', 'state': 'closed', 'created_at': '2019-06-19T11:10:52Z', 'closed_at': '2019-06-25T08:19:34Z', 'labels': []}
+{'issuenumber': 367, 'title': 'Overriding loadable library methods.', 'state': 'closed', 'created_at': '2019-06-17T21:15:13Z', 'closed_at': '2020-01-16T21:18:13Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 366, 'title': 'Window is not defined', 'state': 'closed', 'created_at': '2019-06-17T10:20:02Z', 'closed_at': '2019-06-17T15:09:12Z', 'labels': []}
+{'issuenumber': 365, 'title': 'Support multiple extractors', 'state': 'closed', 'created_at': '2019-06-16T00:31:03Z', 'closed_at': '2020-01-16T21:18:18Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 364, 'title': 'server compile not generated on production mode', 'state': 'closed', 'created_at': '2019-06-15T12:29:29Z', 'closed_at': '2019-06-15T22:47:28Z', 'labels': []}
+{'issuenumber': 363, 'title': 'IE11 support for loadable', 'state': 'closed', 'created_at': '2019-06-14T17:40:03Z', 'closed_at': '2019-06-17T09:27:52Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 362, 'title': 'Customise chunk output name?', 'state': 'closed', 'created_at': '2019-06-07T16:13:10Z', 'closed_at': '2019-06-08T11:12:01Z', 'labels': []}
+{'issuenumber': 352, 'title': 'Preload for links and Async/Defer for scripts', 'state': 'closed', 'created_at': '2019-05-29T21:15:14Z', 'closed_at': '2019-06-05T11:25:46Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 351, 'title': 'SSR - HMR is not working', 'state': 'closed', 'created_at': '2019-05-29T10:17:18Z', 'closed_at': '2019-06-05T08:40:24Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 350, 'title': '__LOADABLE_REQUIRED_CHUNKS__ is undefined', 'state': 'closed', 'created_at': '2019-05-28T13:23:48Z', 'closed_at': '2019-06-17T09:53:50Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 349, 'title': "Cannot find module './vendors~index.js' ", 'state': 'closed', 'created_at': '2019-05-28T09:23:02Z', 'closed_at': '2019-05-28T13:14:10Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 348, 'title': 'Dynamic publicPath in extractor and client side JS chunk loading', 'state': 'closed', 'created_at': '2019-05-27T18:52:09Z', 'closed_at': '2019-05-28T09:21:43Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 347, 'title': 'I get an error. Check the render method of `InnerLoadable`', 'state': 'closed', 'created_at': '2019-05-27T07:30:29Z', 'closed_at': '2019-06-04T10:40:56Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 345, 'title': 'Hydration can be incorrect if same component rendered on page in both ssr and non-ssr mode', 'state': 'closed', 'created_at': '2019-05-20T20:51:12Z', 'closed_at': '2020-01-09T19:01:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 344, 'title': 'Support SRI on webpack-plugin', 'state': 'closed', 'created_at': '2019-05-20T02:20:15Z', 'closed_at': '2020-01-16T21:18:15Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 343, 'title': 'Get CSS and JS for requested chunk at server itself', 'state': 'closed', 'created_at': '2019-05-18T15:36:27Z', 'closed_at': '2019-05-22T19:08:45Z', 'labels': []}
+{'issuenumber': 342, 'title': 'Conditional Rendering?', 'state': 'closed', 'created_at': '2019-05-17T15:11:23Z', 'closed_at': '2019-05-23T08:03:54Z', 'labels': []}
+{'issuenumber': 341, 'title': "Doc Links don't work sometimes", 'state': 'closed', 'created_at': '2019-05-17T07:28:22Z', 'closed_at': '2019-05-17T11:55:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 340, 'title': 'Why is this a problem ?', 'state': 'closed', 'created_at': '2019-05-17T05:15:48Z', 'closed_at': '2019-05-17T11:47:56Z', 'labels': []}
+{'issuenumber': 339, 'title': 'How do I build a loadable/components using webpack?', 'state': 'closed', 'created_at': '2019-05-17T00:28:31Z', 'closed_at': '2019-05-17T11:57:07Z', 'labels': []}
+{'issuenumber': 338, 'title': 'Docs app responding `503`', 'state': 'closed', 'created_at': '2019-05-16T10:23:46Z', 'closed_at': '2019-05-17T11:56:05Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 337, 'title': 'Add the choose between defer or async', 'state': 'closed', 'created_at': '2019-05-15T08:29:54Z', 'closed_at': '2020-04-18T11:03:54Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 335, 'title': "Confused about the default built target 'Node'", 'state': 'closed', 'created_at': '2019-05-14T06:21:18Z', 'closed_at': '2019-05-14T08:01:55Z', 'labels': []}
+{'issuenumber': 334, 'title': 'Is there a way to control code split chunk names ?', 'state': 'closed', 'created_at': '2019-05-14T03:54:32Z', 'closed_at': '2019-05-14T06:20:41Z', 'labels': []}
+{'issuenumber': 331, 'title': 'Chunk name mismatch for dynamic child directory import', 'state': 'closed', 'created_at': '2019-05-09T06:32:22Z', 'closed_at': '2019-05-12T19:50:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 328, 'title': 'Ads on Docs site is blocking content', 'state': 'closed', 'created_at': '2019-05-07T05:57:00Z', 'closed_at': '2020-01-16T21:18:12Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 327, 'title': "Can't get hooks to work", 'state': 'closed', 'created_at': '2019-05-05T23:40:10Z', 'closed_at': '2019-05-07T16:53:36Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 325, 'title': 'getStyleTags only returns main CSS', 'state': 'closed', 'created_at': '2019-05-01T20:34:34Z', 'closed_at': '2019-05-05T08:31:26Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 324, 'title': 'Control ssr via props ?', 'state': 'closed', 'created_at': '2019-05-01T00:54:05Z', 'closed_at': '2019-05-02T07:31:26Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 323, 'title': 'implementation of HMR examples in ssr', 'state': 'closed', 'created_at': '2019-04-29T04:55:47Z', 'closed_at': '2019-05-02T09:44:10Z', 'labels': []}
+{'issuenumber': 322, 'title': 'Delay rendering fallback component to avoid "Flash Of Loading Component"', 'state': 'closed', 'created_at': '2019-04-26T21:58:59Z', 'closed_at': '2019-04-27T12:00:30Z', 'labels': []}
+{'issuenumber': 321, 'title': "SSR only works at '/'", 'state': 'closed', 'created_at': '2019-04-24T08:14:03Z', 'closed_at': '2019-04-24T08:26:49Z', 'labels': []}
+{'issuenumber': 316, 'title': 'chunkName BUG', 'state': 'closed', 'created_at': '2019-04-23T07:22:52Z', 'closed_at': '2019-04-23T12:42:45Z', 'labels': []}
+{'issuenumber': 315, 'title': 'Possibility change filesystem optionaly in ChunkExtractor', 'state': 'closed', 'created_at': '2019-04-22T17:03:29Z', 'closed_at': '2019-04-23T13:12:59Z', 'labels': {'name': 'feature request 🙏'}}
+{'issuenumber': 314, 'title': 'SSR Loadable can not detect code splitting with typescript, ts-loader', 'state': 'closed', 'created_at': '2019-04-19T05:59:44Z', 'closed_at': '2019-04-29T14:50:30Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 312, 'title': '__LOADABLE_REQUIRED_CHUNKS__ is always empty.', 'state': 'closed', 'created_at': '2019-04-18T07:35:24Z', 'closed_at': '2019-04-29T11:54:45Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 311, 'title': 'Support for multiple loadable components on same page', 'state': 'closed', 'created_at': '2019-04-17T13:41:30Z', 'closed_at': '2019-04-23T12:44:46Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 310, 'title': 'Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object.', 'state': 'closed', 'created_at': '2019-04-16T10:46:11Z', 'closed_at': '2019-04-16T17:24:43Z', 'labels': []}
+{'issuenumber': 309, 'title': 'The module number appears in the package. How do I remove the module number? This module was added when I was routing and loading, and it is specified as a file name similar to 31ffad51-2.chunk', 'state': 'closed', 'created_at': '2019-04-16T05:02:48Z', 'closed_at': '2019-04-16T07:29:58Z', 'labels': []}
+{'issuenumber': 308, 'title': 'Unnecessary chunk is being created for the test files.', 'state': 'closed', 'created_at': '2019-04-12T20:11:14Z', 'closed_at': '2019-04-15T09:55:28Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 307, 'title': 'Document `clearModuleCache` when running in development vs. production mode', 'state': 'closed', 'created_at': '2019-04-12T17:52:31Z', 'closed_at': '2020-01-16T21:18:11Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 306, 'title': 'Absolute paths in public/dist/web/loadable-stats.json', 'state': 'closed', 'created_at': '2019-04-11T19:48:21Z', 'closed_at': '2019-04-12T06:35:36Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 304, 'title': 'could getScriptTags() returns a JSON', 'state': 'closed', 'created_at': '2019-04-11T09:28:25Z', 'closed_at': '2019-04-12T06:39:02Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 302, 'title': 'I need help .  code splite done, but I get a warning.', 'state': 'closed', 'created_at': '2019-04-10T09:13:21Z', 'closed_at': '2019-04-10T09:24:50Z', 'labels': []}
+{'issuenumber': 301, 'title': 'Absolute node_modules paths are not getting resolved during SSR', 'state': 'closed', 'created_at': '2019-04-08T23:05:05Z', 'closed_at': '2019-04-15T16:45:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 297, 'title': 'How do I not split css style files?', 'state': 'closed', 'created_at': '2019-04-08T05:34:22Z', 'closed_at': '2019-04-09T06:53:08Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 296, 'title': "TypeError: Cannot read property 'bind' of undefined", 'state': 'closed', 'created_at': '2019-04-07T17:43:05Z', 'closed_at': '2019-04-10T14:49:04Z', 'labels': {'name': 'discussion 🗣'}}
+{'issuenumber': 295, 'title': "How to load all CSS chunk files before stream's end event?", 'state': 'closed', 'created_at': '2019-04-05T00:52:08Z', 'closed_at': '2019-04-05T19:00:16Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 294, 'title': 'Documentation about minimum supported versions of React and Webpack', 'state': 'closed', 'created_at': '2019-04-03T22:51:15Z', 'closed_at': '2019-04-23T13:29:21Z', 'labels': {'name': 'good first issue 🤙'}}
+{'issuenumber': 293, 'title': 'Is it only possible to import modules relative to __dirname on server without webpack?', 'state': 'closed', 'created_at': '2019-04-02T12:41:12Z', 'closed_at': '2019-04-23T13:27:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 291, 'title': 'Uncaught ReferenceError: exports is not defined', 'state': 'closed', 'created_at': '2019-03-29T00:12:09Z', 'closed_at': '2019-04-01T22:30:06Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 289, 'title': 'When 5.7.2 will be available on NPM?', 'state': 'closed', 'created_at': '2019-03-28T05:59:26Z', 'closed_at': '2019-03-28T09:06:27Z', 'labels': []}
+{'issuenumber': 288, 'title': 'full dynamic import ssr not working', 'state': 'closed', 'created_at': '2019-03-27T22:44:34Z', 'closed_at': '2019-03-28T15:51:09Z', 'labels': []}
+{'issuenumber': 287, 'title': 'Webpack: Error: .plugins[0][1] must be an object, false, or undefined', 'state': 'closed', 'created_at': '2019-03-26T16:15:59Z', 'closed_at': '2019-03-26T16:22:55Z', 'labels': []}
+{'issuenumber': 286, 'title': 'async get loadable-stats.json', 'state': 'closed', 'created_at': '2019-03-25T05:59:33Z', 'closed_at': '2019-03-25T08:00:12Z', 'labels': []}
+{'issuenumber': 285, 'title': 'Make loadable.preload() return a promise', 'state': 'closed', 'created_at': '2019-03-23T07:38:17Z', 'closed_at': '2019-03-24T16:58:05Z', 'labels': []}
+{'issuenumber': 284, 'title': 'Fully dynamic loadable is not reactive ', 'state': 'closed', 'created_at': '2019-03-23T07:29:32Z', 'closed_at': '2019-05-12T17:37:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 283, 'title': 'Get redux state before renderToString with current version of loadable-components', 'state': 'closed', 'created_at': '2019-03-21T09:35:28Z', 'closed_at': '2019-03-21T15:42:16Z', 'labels': {'name': 'discussion 🗣'}}
+{'issuenumber': 282, 'title': 'Discrepancies between SSR Example and Documentation', 'state': 'closed', 'created_at': '2019-03-20T21:49:49Z', 'closed_at': '2019-04-08T20:56:36Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 281, 'title': 'Why SSR docs are so leak of information?!', 'state': 'closed', 'created_at': '2019-03-20T08:03:40Z', 'closed_at': '2019-03-20T10:21:38Z', 'labels': []}
+{'issuenumber': 278, 'title': 'Unexpected token < on collectChunks(<App />)', 'state': 'closed', 'created_at': '2019-03-18T09:36:53Z', 'closed_at': '2019-03-21T09:01:19Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 276, 'title': '"self" is not defined error on server side generated entry file', 'state': 'closed', 'created_at': '2019-03-17T14:15:48Z', 'closed_at': '2019-03-18T08:34:58Z', 'labels': []}
+{'issuenumber': 275, 'title': 'node\\web loadable-stats.json <- what is for?', 'state': 'closed', 'created_at': '2019-03-15T17:31:53Z', 'closed_at': '2019-03-19T16:50:05Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 274, 'title': 'React 16 + React router 4 + Redux + Webpack 4 + Babel 7 + SSR', 'state': 'closed', 'created_at': '2019-03-15T10:44:37Z', 'closed_at': '2019-03-27T22:17:34Z', 'labels': []}
+{'issuenumber': 272, 'title': 'Do not resolve files with webpack@4.29.1', 'state': 'closed', 'created_at': '2019-03-14T15:36:18Z', 'closed_at': '2019-03-19T07:53:53Z', 'labels': []}
+{'issuenumber': 270, 'title': 'Using loadable-components with Razzle', 'state': 'closed', 'created_at': '2019-03-13T06:41:59Z', 'closed_at': '2019-04-23T13:25:19Z', 'labels': {'name': 'discussion 🗣'}}
+{'issuenumber': 269, 'title': 'Support "on the fly" public path definitions from webpack', 'state': 'closed', 'created_at': '2019-03-12T23:06:48Z', 'closed_at': '2019-04-05T19:02:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 268, 'title': 'Usage with create-react-app + SSR', 'state': 'closed', 'created_at': '2019-03-12T16:26:40Z', 'closed_at': '2019-04-23T13:12:29Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 265, 'title': 'ChunkExtractor loads more chunks than necessary', 'state': 'closed', 'created_at': '2019-03-12T06:09:14Z', 'closed_at': '2019-03-22T01:55:23Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 263, 'title': 'Typescript + SSR after build throws error: "loadable: SSR requires `@loadable/babel`, please install it"', 'state': 'closed', 'created_at': '2019-03-11T13:45:56Z', 'closed_at': '2019-03-29T13:25:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 262, 'title': 'Cannot find chunk in stats #2', 'state': 'closed', 'created_at': '2019-03-11T10:22:34Z', 'closed_at': '2019-03-15T10:43:18Z', 'labels': {'name': 'needs more info 🖐'}}
+{'issuenumber': 261, 'title': 'Set different attributes on tags based on chunk', 'state': 'closed', 'created_at': '2019-03-11T09:11:11Z', 'closed_at': '2019-04-05T19:56:50Z', 'labels': {'name': 'feature request 🙏'}}
+{'issuenumber': 260, 'title': 'Is it possible to load many libraries at the same time with loadable.lib ?', 'state': 'closed', 'created_at': '2019-03-09T23:53:37Z', 'closed_at': '2019-03-10T23:07:10Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 259, 'title': 'integration with React Router Config', 'state': 'closed', 'created_at': '2019-03-08T13:01:54Z', 'closed_at': '2019-03-13T13:54:01Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 258, 'title': 'Consider using the defer attribute instead of async for script tags [performance]', 'state': 'closed', 'created_at': '2019-03-07T14:34:34Z', 'closed_at': '2019-03-13T20:56:59Z', 'labels': []}
+{'issuenumber': 254, 'title': 'requireAsync: () => import()  SyntaxError: Unexpected token import', 'state': 'closed', 'created_at': '2019-03-01T15:18:30Z', 'closed_at': '2019-04-12T06:37:10Z', 'labels': []}
+{'issuenumber': 253, 'title': 'Error message still shows "@loadable/babel" rather than "@loadable/babel-plugin"', 'state': 'closed', 'created_at': '2019-03-01T03:18:09Z', 'closed_at': '2019-03-04T12:51:38Z', 'labels': {'name': 'good first issue 🤙'}}
+{'issuenumber': 249, 'title': 'Webassembly loading ?', 'state': 'closed', 'created_at': '2019-02-21T00:42:10Z', 'closed_at': '2020-01-16T21:18:10Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 248, 'title': 'Cannot find chunk in stats', 'state': 'closed', 'created_at': '2019-02-20T13:08:28Z', 'closed_at': '2019-02-25T06:34:26Z', 'labels': []}
+{'issuenumber': 247, 'title': 'Duplicated prefetch link (with SSR)', 'state': 'closed', 'created_at': '2019-02-19T12:08:14Z', 'closed_at': '2019-05-12T17:46:47Z', 'labels': {'name': 'discussion 🗣'}}
+{'issuenumber': 245, 'title': 'Failing to import named exports server side', 'state': 'closed', 'created_at': '2019-02-19T09:48:53Z', 'closed_at': '2020-07-11T04:21:34Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 243, 'title': 'loadable-components breaks Hot Module Replacement (HMR)', 'state': 'closed', 'created_at': '2019-02-18T14:57:50Z', 'closed_at': '2019-02-19T10:12:18Z', 'labels': []}
+{'issuenumber': 242, 'title': 'Pass loadable-stats.json to ChunkExtractor ?', 'state': 'closed', 'created_at': '2019-02-18T14:54:33Z', 'closed_at': '2019-02-19T08:40:32Z', 'labels': []}
+{'issuenumber': 241, 'title': 'Chunks exist in my stats file but not in LOADABLE_REQUIRED_CHUNKS on client.', 'state': 'closed', 'created_at': '2019-02-16T00:00:14Z', 'closed_at': '2019-04-23T13:12:42Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 238, 'title': 'Template.ast is not a function', 'state': 'closed', 'created_at': '2019-02-14T01:22:45Z', 'closed_at': '2019-02-14T22:32:03Z', 'labels': []}
+{'issuenumber': 236, 'title': 'Better "plain" CSS support.', 'state': 'closed', 'created_at': '2019-02-13T09:05:09Z', 'closed_at': '2019-04-23T13:11:22Z', 'labels': []}
+{'issuenumber': 235, 'title': 'style tags are in reverse order', 'state': 'closed', 'created_at': '2019-02-12T16:00:20Z', 'closed_at': '2019-03-22T22:44:01Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 234, 'title': 'Webpack reports "the request of a dependency is an expression" (SSR, Server-Side only)', 'state': 'closed', 'created_at': '2019-02-12T13:30:21Z', 'closed_at': '2019-02-15T10:14:57Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 233, 'title': 'Getting Unexpected token error.', 'state': 'closed', 'created_at': '2019-02-11T20:14:34Z', 'closed_at': '2019-02-13T14:25:06Z', 'labels': []}
+{'issuenumber': 232, 'title': 'Out of date docs or incorrect types?', 'state': 'closed', 'created_at': '2019-02-11T18:51:09Z', 'closed_at': '2019-02-18T15:09:50Z', 'labels': {'name': 'typings 🔧'}}
+{'issuenumber': 231, 'title': 'Document SSR build with externals', 'state': 'closed', 'created_at': '2019-02-11T07:31:44Z', 'closed_at': '2020-01-16T21:18:19Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 230, 'title': 'Async chunks are not updated on the server', 'state': 'closed', 'created_at': '2019-02-10T11:39:15Z', 'closed_at': '2019-09-19T06:39:49Z', 'labels': {'name': 'good first issue 🤙'}}
+{'issuenumber': 227, 'title': 'Babel plugin does not work with Storybook', 'state': 'closed', 'created_at': '2019-02-07T18:52:37Z', 'closed_at': '2019-02-08T22:54:39Z', 'labels': []}
+{'issuenumber': 225, 'title': "loadable-stats.json's are created as duplicates.", 'state': 'closed', 'created_at': '2019-02-06T16:57:46Z', 'closed_at': '2019-02-13T13:54:22Z', 'labels': []}
+{'issuenumber': 220, 'title': 'SSR: ChunkExtractor tries to load unexisting script', 'state': 'closed', 'created_at': '2019-02-04T10:47:27Z', 'closed_at': '2019-05-08T16:38:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 217, 'title': 'Add Suspense import to documentation', 'state': 'closed', 'created_at': '2019-01-31T13:40:15Z', 'closed_at': '2019-01-31T17:58:25Z', 'labels': []}
+{'issuenumber': 216, 'title': 'Extractor gets incorrect chunk name', 'state': 'closed', 'created_at': '2019-01-30T19:55:24Z', 'closed_at': '2019-02-01T02:17:05Z', 'labels': []}
+{'issuenumber': 214, 'title': 'require.ensure is not a function', 'state': 'closed', 'created_at': '2019-01-29T17:19:16Z', 'closed_at': '2019-01-29T21:55:05Z', 'labels': []}
+{'issuenumber': 213, 'title': 'Flickering effect and SSR example not working', 'state': 'closed', 'created_at': '2019-01-24T14:15:27Z', 'closed_at': '2019-04-23T12:50:26Z', 'labels': {'name': 'discussion 🗣'}}
+{'issuenumber': 211, 'title': 'SSR Not Consistently Working with Redux', 'state': 'closed', 'created_at': '2019-01-22T18:46:15Z', 'closed_at': '2019-01-23T17:38:12Z', 'labels': []}
+{'issuenumber': 209, 'title': 'Using styled-components ', 'state': 'closed', 'created_at': '2019-01-21T13:04:05Z', 'closed_at': '2019-01-21T16:48:40Z', 'labels': []}
+{'issuenumber': 208, 'title': "Cannot read property 'emit' of undefined", 'state': 'closed', 'created_at': '2019-01-21T06:14:09Z', 'closed_at': '2019-01-21T09:16:20Z', 'labels': []}
+{'issuenumber': 207, 'title': 'Equivalent to preloadAll', 'state': 'closed', 'created_at': '2019-01-18T06:50:07Z', 'closed_at': '2019-01-22T08:07:43Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 206, 'title': "Apollo's getDataFromTree does not fetch data for a Loadable component's children queries", 'state': 'closed', 'created_at': '2019-01-17T20:44:24Z', 'closed_at': '2019-01-22T21:42:05Z', 'labels': {'name': 'discussion 🗣'}}
+{'issuenumber': 205, 'title': 'No compatibility w/ react-helmet in prod', 'state': 'closed', 'created_at': '2019-01-17T06:24:56Z', 'closed_at': '2019-01-17T14:52:24Z', 'labels': []}
+{'issuenumber': 204, 'title': 'SyntaxError: Unexpected token import', 'state': 'closed', 'created_at': '2019-01-16T22:43:23Z', 'closed_at': '2019-01-21T16:49:19Z', 'labels': {'name': 'discussion 🗣'}}
+{'issuenumber': 203, 'title': 'How can I please trigger the route load before the page change using react-router?', 'state': 'closed', 'created_at': '2019-01-15T08:43:55Z', 'closed_at': '2019-01-21T13:03:29Z', 'labels': []}
+{'issuenumber': 202, 'title': 'server-side-rendering example issue', 'state': 'closed', 'created_at': '2019-01-14T13:57:01Z', 'closed_at': '2019-01-17T14:15:57Z', 'labels': []}
+{'issuenumber': 201, 'title': 'Testing loadable-components with Jest snapshots', 'state': 'closed', 'created_at': '2019-01-11T15:59:06Z', 'closed_at': '2019-04-23T12:49:58Z', 'labels': {'name': 'discussion 🗣'}}
+{'issuenumber': 200, 'title': 'Migration from react-loadable to loadable-components', 'state': 'closed', 'created_at': '2019-01-10T07:58:13Z', 'closed_at': '2019-02-01T19:13:10Z', 'labels': {'name': 'discussion 🗣'}}
+{'issuenumber': 199, 'title': 'can i use React.component with fallback option', 'state': 'closed', 'created_at': '2019-01-08T14:09:50Z', 'closed_at': '2019-01-11T14:29:49Z', 'labels': []}
+{'issuenumber': 196, 'title': 'Consider putting back prefetch function.', 'state': 'closed', 'created_at': '2019-01-07T15:13:39Z', 'closed_at': '2019-02-05T23:30:23Z', 'labels': {'name': 'feature request 🙏'}}
+{'issuenumber': 195, 'title': 'Option not to load on server', 'state': 'closed', 'created_at': '2019-01-07T12:57:17Z', 'closed_at': '2019-02-05T22:47:26Z', 'labels': {'name': 'feature request 🙏'}}
+{'issuenumber': 194, 'title': 'Loadable extracted component window is not defined', 'state': 'closed', 'created_at': '2019-01-06T15:29:53Z', 'closed_at': '2019-02-05T23:31:55Z', 'labels': []}
+{'issuenumber': 193, 'title': 'Not getting chunks SSR', 'state': 'closed', 'created_at': '2018-12-28T15:26:18Z', 'closed_at': '2019-02-15T10:14:36Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 192, 'title': 'Parse functions annotated', 'state': 'closed', 'created_at': '2018-12-27T09:00:03Z', 'closed_at': '2019-02-05T22:27:03Z', 'labels': {'name': 'enhancement ✨'}}
+{'issuenumber': 191, 'title': 'Component is rendered twice', 'state': 'closed', 'created_at': '2018-12-24T02:19:02Z', 'closed_at': '2019-02-05T23:30:43Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 189, 'title': 'requireEntrypoint returns undefined value', 'state': 'closed', 'created_at': '2018-12-19T10:08:34Z', 'closed_at': '2018-12-21T14:59:14Z', 'labels': []}
+{'issuenumber': 188, 'title': "@loadable/babel-plugin doesn't work with declared functions", 'state': 'closed', 'created_at': '2018-12-17T21:01:47Z', 'closed_at': '2019-02-05T23:33:00Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 182, 'title': 'Chunk issues with dynamic imports.', 'state': 'closed', 'created_at': '2018-12-11T15:59:46Z', 'closed_at': '2018-12-11T22:44:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 181, 'title': "Won't work if I use webpack to compiled code for server side", 'state': 'closed', 'created_at': '2018-12-11T09:50:48Z', 'closed_at': '2018-12-12T10:29:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 180, 'title': 'setState() on unmounted component, possible bug or misunderstanding?', 'state': 'closed', 'created_at': '2018-12-11T07:51:33Z', 'closed_at': '2018-12-11T23:13:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 179, 'title': '@loadable/webpack-plugin hangs in production mode', 'state': 'closed', 'created_at': '2018-12-10T11:15:18Z', 'closed_at': '2019-01-17T08:44:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 178, 'title': '"cannot find main in stats"', 'state': 'closed', 'created_at': '2018-12-09T03:23:05Z', 'closed_at': '2018-12-09T03:33:36Z', 'labels': []}
+{'issuenumber': 177, 'title': 'React-Routr-Dom: Failed prop type', 'state': 'closed', 'created_at': '2018-12-08T23:31:38Z', 'closed_at': '2018-12-09T22:54:52Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 175, 'title': 'Rules for valid full dynamic imports?', 'state': 'closed', 'created_at': '2018-12-07T14:41:01Z', 'closed_at': '2018-12-10T14:30:29Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 173, 'title': 'Typescript + 5.2 + SSR Bug ', 'state': 'closed', 'created_at': '2018-12-04T07:20:36Z', 'closed_at': '2019-02-04T13:04:31Z', 'labels': {'name': 'discussion 🗣'}}
+{'issuenumber': 172, 'title': 'named and multiple entry points', 'state': 'closed', 'created_at': '2018-12-03T14:04:15Z', 'closed_at': '2018-12-03T18:54:09Z', 'labels': []}
+{'issuenumber': 171, 'title': "@loadable/webpack-plugin TypeError: Cannot read property 'startsWith' of null", 'state': 'closed', 'created_at': '2018-11-30T08:57:17Z', 'closed_at': '2018-12-04T20:42:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 169, 'title': 'Error when using react-router with SSR example in production', 'state': 'closed', 'created_at': '2018-11-26T16:25:29Z', 'closed_at': '2018-11-27T14:01:38Z', 'labels': {'name': 'needs more info 🖐'}}
+{'issuenumber': 168, 'title': 'TypeError in webpack-plugin 5.2.0', 'state': 'closed', 'created_at': '2018-11-26T11:01:43Z', 'closed_at': '2018-11-27T13:50:56Z', 'labels': {'name': 'good first issue 🤙'}}
+{'issuenumber': 165, 'title': 'SSR App but client only loadable-components v5', 'state': 'closed', 'created_at': '2018-11-23T13:56:35Z', 'closed_at': '2019-01-28T11:11:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 164, 'title': "Cannot find module '@babel/plugin-syntax-dynamic-import'", 'state': 'closed', 'created_at': '2018-11-23T10:30:46Z', 'closed_at': '2019-02-04T13:05:42Z', 'labels': {'name': 'good first issue 🤙'}}
+{'issuenumber': 160, 'title': 'Named imports from icon library', 'state': 'closed', 'created_at': '2018-11-21T15:39:36Z', 'closed_at': '2018-11-21T23:45:48Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 159, 'title': 'React-snap integration', 'state': 'closed', 'created_at': '2018-11-21T07:55:29Z', 'closed_at': '2019-04-23T12:48:50Z', 'labels': {'name': 'feature request 🙏'}}
+{'issuenumber': 158, 'title': 'Add option to emit file in @loadble/webpack-plugin', 'state': 'closed', 'created_at': '2018-11-20T17:43:32Z', 'closed_at': '2019-02-05T20:09:06Z', 'labels': {'name': 'feature request 🙏'}}
+{'issuenumber': 154, 'title': 'Was getState() replaced or removed; is it now built in behavior?', 'state': 'closed', 'created_at': '2018-11-17T19:58:24Z', 'closed_at': '2019-04-23T12:48:24Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 153, 'title': "Breaks when Webpack's output.publicPath is a URL", 'state': 'closed', 'created_at': '2018-11-17T10:49:16Z', 'closed_at': '2018-11-19T22:26:24Z', 'labels': []}
+{'issuenumber': 152, 'title': 'Syntax convention when using loadable', 'state': 'closed', 'created_at': '2018-11-16T14:53:51Z', 'closed_at': '2018-11-18T20:34:51Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 151, 'title': 'SSR Example with HMR', 'state': 'closed', 'created_at': '2018-11-16T13:43:46Z', 'closed_at': '2018-11-20T12:44:14Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 150, 'title': '@loadable/babel-plugin does not work with razzle (babel 6)', 'state': 'closed', 'created_at': '2018-11-16T10:03:25Z', 'closed_at': '2018-11-18T20:30:05Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 149, 'title': 'Is it possible to do SSR without babel?', 'state': 'closed', 'created_at': '2018-11-15T10:24:18Z', 'closed_at': '2018-11-18T20:27:55Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 148, 'title': 'Ignore ".hot-update.js" files', 'state': 'closed', 'created_at': '2018-11-14T17:02:05Z', 'closed_at': '2018-11-20T12:45:39Z', 'labels': {'name': 'enhancement ✨'}}
+{'issuenumber': 147, 'title': 'Load a component from external server/CDN', 'state': 'closed', 'created_at': '2018-11-14T10:20:50Z', 'closed_at': '2019-02-05T20:09:31Z', 'labels': {'name': 'feature request 🙏'}}
+{'issuenumber': 146, 'title': 'server-side-rendering example issue: babel-plugin not found', 'state': 'closed', 'created_at': '2018-11-14T07:46:16Z', 'closed_at': '2019-04-23T12:47:46Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 145, 'title': "the library doesn't work with React v15", 'state': 'closed', 'created_at': '2018-11-14T07:09:05Z', 'closed_at': '2018-11-22T15:57:49Z', 'labels': {'name': 'question ❓'}}
+{'issuenumber': 141, 'title': "New SSR webpack aliases don't seem to be working", 'state': 'closed', 'created_at': '2018-11-11T10:09:08Z', 'closed_at': '2018-11-12T11:58:44Z', 'labels': []}
+{'issuenumber': 139, 'title': 'loadableState.getPrefetchTags() returns empty string', 'state': 'closed', 'created_at': '2018-11-09T22:54:30Z', 'closed_at': '2018-11-10T17:19:29Z', 'labels': []}
+{'issuenumber': 138, 'title': 'Lazy loading from another host', 'state': 'closed', 'created_at': '2018-11-08T15:30:53Z', 'closed_at': '2018-11-09T08:52:19Z', 'labels': []}
+{'issuenumber': 137, 'title': '@loadable/webpack-plugin chunk.name can be null', 'state': 'closed', 'created_at': '2018-11-05T17:28:01Z', 'closed_at': '2018-11-06T17:06:53Z', 'labels': []}
+{'issuenumber': 136, 'title': 'Nested routes search for an incorrect relative chunk path (SSR)', 'state': 'closed', 'created_at': '2018-11-04T13:00:56Z', 'closed_at': '2018-11-10T17:21:32Z', 'labels': []}
+{'issuenumber': 135, 'title': 'Static SSR not functional in v4', 'state': 'closed', 'created_at': '2018-11-02T16:29:14Z', 'closed_at': '2018-11-10T17:21:15Z', 'labels': []}
+{'issuenumber': 134, 'title': 'Does loadable-components support SSR & HMR?', 'state': 'closed', 'created_at': '2018-11-02T01:49:54Z', 'closed_at': '2018-11-02T07:26:51Z', 'labels': []}
+{'issuenumber': 128, 'title': 'Server side rendering have no effect in 3.0.x', 'state': 'closed', 'created_at': '2018-10-30T16:16:51Z', 'closed_at': '2018-11-10T17:20:44Z', 'labels': []}
+{'issuenumber': 126, 'title': 'Static mode cannot be used with Webpack devserver', 'state': 'closed', 'created_at': '2018-10-30T14:33:11Z', 'closed_at': '2018-10-30T16:14:21Z', 'labels': []}
+{'issuenumber': 124, 'title': 'TypeScript types are not correct for server module', 'state': 'closed', 'created_at': '2018-10-26T09:24:25Z', 'closed_at': '2018-10-29T12:29:51Z', 'labels': []}
+{'issuenumber': 123, 'title': "loadableStage.getScriptTag() doesn't return script tags", 'state': 'closed', 'created_at': '2018-10-23T06:16:59Z', 'closed_at': '2018-10-29T12:31:28Z', 'labels': []}
+{'issuenumber': 122, 'title': "getLoadableState doesn't work with Apollo", 'state': 'closed', 'created_at': '2018-10-22T16:04:25Z', 'closed_at': '2018-10-29T12:31:34Z', 'labels': []}
+{'issuenumber': 121, 'title': 'react-router@next issue with SSR', 'state': 'closed', 'created_at': '2018-10-16T18:24:25Z', 'closed_at': '2018-10-17T20:46:51Z', 'labels': []}
+{'issuenumber': 120, 'title': 'Add type definition for server', 'state': 'closed', 'created_at': '2018-10-12T18:42:36Z', 'closed_at': '2018-10-29T12:32:12Z', 'labels': []}
+{'issuenumber': 119, 'title': 'Modules entry missing error', 'state': 'closed', 'created_at': '2018-09-25T12:00:24Z', 'closed_at': '2018-10-19T15:57:27Z', 'labels': []}
+{'issuenumber': 118, 'title': 'Does not render anything when use dynamic import', 'state': 'closed', 'created_at': '2018-09-20T13:40:11Z', 'closed_at': '2018-10-29T12:32:24Z', 'labels': []}
+{'issuenumber': 116, 'title': 'A link address in README.md does not exist.', 'state': 'closed', 'created_at': '2018-09-13T21:30:32Z', 'closed_at': '2018-09-15T07:40:42Z', 'labels': []}
+{'issuenumber': 115, 'title': 'reload functionality', 'state': 'closed', 'created_at': '2018-09-13T14:47:13Z', 'closed_at': '2018-10-29T12:32:30Z', 'labels': []}
+{'issuenumber': 114, 'title': '`getState` changed its behaviour?', 'state': 'closed', 'created_at': '2018-09-07T11:54:29Z', 'closed_at': '2018-10-29T12:32:39Z', 'labels': []}
+{'issuenumber': 112, 'title': 'Include server.d.ts in npm management', 'state': 'closed', 'created_at': '2018-09-01T11:35:25Z', 'closed_at': '2018-09-04T22:37:47Z', 'labels': []}
+{'issuenumber': 108, 'title': 'loadable-components and refs?', 'state': 'closed', 'created_at': '2018-07-29T03:30:10Z', 'closed_at': '2018-10-29T13:50:07Z', 'labels': []}
+{'issuenumber': 107, 'title': 'warning against walking dom tree', 'state': 'closed', 'created_at': '2018-07-24T04:07:22Z', 'closed_at': '2018-07-24T12:05:20Z', 'labels': []}
+{'issuenumber': 106, 'title': 'unit testing async component', 'state': 'closed', 'created_at': '2018-07-17T08:31:54Z', 'closed_at': '2018-10-29T13:49:32Z', 'labels': []}
+{'issuenumber': 103, 'title': 'Add support for any webpack assets', 'state': 'closed', 'created_at': '2018-06-21T23:21:39Z', 'closed_at': '2018-06-30T12:56:05Z', 'labels': []}
+{'issuenumber': 102, 'title': 'consider using react-walk-tree', 'state': 'closed', 'created_at': '2018-06-20T03:33:57Z', 'closed_at': '2018-06-30T12:58:51Z', 'labels': []}
+{'issuenumber': 101, 'title': 'Support multi locale environments', 'state': 'closed', 'created_at': '2018-06-19T14:09:59Z', 'closed_at': '2018-10-29T13:47:03Z', 'labels': []}
+{'issuenumber': 100, 'title': 'Creating a reusable component', 'state': 'closed', 'created_at': '2018-06-19T12:52:24Z', 'closed_at': '2018-10-29T13:46:44Z', 'labels': []}
+{'issuenumber': 99, 'title': 'Bug in babel plugin', 'state': 'closed', 'created_at': '2018-06-13T02:40:32Z', 'closed_at': '2018-10-29T13:47:13Z', 'labels': []}
+{'issuenumber': 97, 'title': 'Named import', 'state': 'closed', 'created_at': '2018-06-06T17:16:13Z', 'closed_at': '2018-06-13T13:13:08Z', 'labels': []}
+{'issuenumber': 94, 'title': 'Server rendering with dynamic imports and CSS', 'state': 'closed', 'created_at': '2018-05-30T02:03:03Z', 'closed_at': '2020-01-16T21:18:21Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 91, 'title': 'Just an Idea - babel-plugin - api improvement - customization', 'state': 'closed', 'created_at': '2018-05-27T13:55:32Z', 'closed_at': '2018-10-29T13:49:02Z', 'labels': []}
+{'issuenumber': 90, 'title': 'Server initial render', 'state': 'closed', 'created_at': '2018-05-25T13:16:47Z', 'closed_at': '2018-06-06T16:52:55Z', 'labels': []}
+{'issuenumber': 85, 'title': 'HMR not working', 'state': 'closed', 'created_at': '2018-05-15T10:47:57Z', 'closed_at': '2018-11-13T09:20:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 82, 'title': 'Support for context (variables) in import()?', 'state': 'closed', 'created_at': '2018-05-14T10:41:46Z', 'closed_at': '2018-05-23T07:20:52Z', 'labels': []}
+{'issuenumber': 79, 'title': 'TypeScript support', 'state': 'closed', 'created_at': '2018-05-12T14:16:04Z', 'closed_at': '2018-05-13T08:22:33Z', 'labels': []}
+{'issuenumber': 77, 'title': 'Preload scripts', 'state': 'closed', 'created_at': '2018-05-11T22:21:17Z', 'closed_at': '2018-10-29T13:48:37Z', 'labels': []}
+{'issuenumber': 76, 'title': 'loadable components is pre-loading all the route chunks from start', 'state': 'closed', 'created_at': '2018-05-11T16:47:25Z', 'closed_at': '2018-05-12T14:16:33Z', 'labels': []}
+{'issuenumber': 74, 'title': 'MODULE_NOT_FOUND when running in development mode with SSR & webpack-hot-server-middleware', 'state': 'closed', 'created_at': '2018-05-07T06:33:47Z', 'closed_at': '2018-05-09T09:04:34Z', 'labels': []}
+{'issuenumber': 72, 'title': 'Loaded all chunks in development mode', 'state': 'closed', 'created_at': '2018-05-05T10:49:02Z', 'closed_at': '2018-05-05T16:48:52Z', 'labels': []}
+{'issuenumber': 71, 'title': 'dynamic import not work ?', 'state': 'closed', 'created_at': '2018-05-03T12:43:45Z', 'closed_at': '2018-05-05T16:49:39Z', 'labels': []}
+{'issuenumber': 70, 'title': 'Document is not defined with SSR and Redux', 'state': 'closed', 'created_at': '2018-05-03T11:25:48Z', 'closed_at': '2018-05-05T19:34:05Z', 'labels': []}
+{'issuenumber': 68, 'title': 'Question: Load all component from client begins', 'state': 'closed', 'created_at': '2018-05-01T23:59:31Z', 'closed_at': '2018-05-02T08:03:25Z', 'labels': []}
+{'issuenumber': 67, 'title': 'window[LOADABLE_STATE] is not working', 'state': 'closed', 'created_at': '2018-04-30T20:05:41Z', 'closed_at': '2018-05-02T16:59:23Z', 'labels': []}
+{'issuenumber': 66, 'title': 'Error: loadable-components: modules entry is missing, your are probably missing `loadable-components/babel`', 'state': 'closed', 'created_at': '2018-04-23T10:44:42Z', 'closed_at': '2018-04-24T13:30:48Z', 'labels': []}
+{'issuenumber': 63, 'title': "Loading state didn't changed correctlly when using custom render props", 'state': 'closed', 'created_at': '2018-04-16T09:46:44Z', 'closed_at': '2018-04-18T15:27:45Z', 'labels': []}
+{'issuenumber': 59, 'title': 'Bug with server-side render and modules resolving', 'state': 'closed', 'created_at': '2018-04-04T18:09:16Z', 'closed_at': '2018-05-12T14:16:50Z', 'labels': []}
+{'issuenumber': 58, 'title': 'Attach static methods of wrapped component to loadable component', 'state': 'closed', 'created_at': '2018-04-03T13:07:35Z', 'closed_at': '2018-04-05T21:32:19Z', 'labels': []}
+{'issuenumber': 57, 'title': 'Support React 16.3', 'state': 'closed', 'created_at': '2018-03-31T07:28:29Z', 'closed_at': '2018-04-05T21:32:04Z', 'labels': []}
+{'issuenumber': 56, 'title': 'Hot reload not work in v1.2.0', 'state': 'closed', 'created_at': '2018-03-28T16:26:18Z', 'closed_at': '2018-04-15T17:06:27Z', 'labels': []}
+{'issuenumber': 55, 'title': 'calling ReactDOM.hydrate', 'state': 'closed', 'created_at': '2018-03-28T11:37:16Z', 'closed_at': '2018-03-29T09:59:24Z', 'labels': []}
+{'issuenumber': 52, 'title': 'Error Handling not working', 'state': 'closed', 'created_at': '2018-03-20T20:45:52Z', 'closed_at': '2018-03-21T19:29:40Z', 'labels': []}
+{'issuenumber': 50, 'title': '[ASK] Webpack v4 support?', 'state': 'closed', 'created_at': '2018-03-12T04:01:21Z', 'closed_at': '2018-03-16T17:26:34Z', 'labels': []}
+{'issuenumber': 48, 'title': 'getLoadableState return empty object on development', 'state': 'closed', 'created_at': '2018-02-17T05:23:11Z', 'closed_at': '2018-02-19T09:45:17Z', 'labels': []}
+{'issuenumber': 47, 'title': '[ASK] "staticContext" of react-router v4 won\'t work with loadable-components', 'state': 'closed', 'created_at': '2018-02-15T11:23:05Z', 'closed_at': '2018-02-15T17:49:01Z', 'labels': []}
+{'issuenumber': 46, 'title': 'ssr not working with webpack 4.0.0-beta1', 'state': 'closed', 'created_at': '2018-02-14T21:26:32Z', 'closed_at': '2018-03-24T10:29:29Z', 'labels': []}
+{'issuenumber': 45, 'title': 'Warning when using react-hot-loader@next', 'state': 'closed', 'created_at': '2018-02-13T09:29:01Z', 'closed_at': '2018-02-13T11:16:15Z', 'labels': []}
+{'issuenumber': 44, 'title': '[Error] Server and Client modules are not sync', 'state': 'closed', 'created_at': '2018-02-10T19:00:11Z', 'closed_at': '2018-03-24T10:25:25Z', 'labels': []}
+{'issuenumber': 43, 'title': '[ASK] Will this library support hot reloading?', 'state': 'closed', 'created_at': '2018-02-09T08:46:38Z', 'closed_at': '2018-02-10T07:50:22Z', 'labels': []}
+{'issuenumber': 42, 'title': 'UnhandledPromiseRejectionWarning on node v9.5.0', 'state': 'closed', 'created_at': '2018-02-08T10:31:20Z', 'closed_at': '2018-02-12T10:50:36Z', 'labels': []}
+{'issuenumber': 40, 'title': "Module not found: Error: Can't resolve 'loadable-components/snap'", 'state': 'closed', 'created_at': '2018-02-06T01:38:24Z', 'closed_at': '2018-02-06T09:29:34Z', 'labels': []}
+{'issuenumber': 39, 'title': '[Feature Request] Integrating Delay and Timeout features with this library', 'state': 'closed', 'created_at': '2018-02-05T13:46:55Z', 'closed_at': '2018-02-05T17:23:45Z', 'labels': []}
+{'issuenumber': 36, 'title': 'Error: loadable-components state not found', 'state': 'closed', 'created_at': '2018-02-03T17:59:22Z', 'closed_at': '2018-02-04T09:43:09Z', 'labels': []}
+{'issuenumber': 34, 'title': 'loadComponents null', 'state': 'closed', 'created_at': '2018-02-03T11:13:19Z', 'closed_at': '2018-02-03T17:34:49Z', 'labels': []}
+{'issuenumber': 32, 'title': 'image not working after build with cra and server side rendering', 'state': 'closed', 'created_at': '2018-02-01T13:41:14Z', 'closed_at': '2018-02-02T14:26:09Z', 'labels': []}
+{'issuenumber': 31, 'title': 'Flash of unstyled content (FOUC) issue', 'state': 'closed', 'created_at': '2018-01-22T02:13:09Z', 'closed_at': '2018-01-23T14:20:14Z', 'labels': []}
+{'issuenumber': 30, 'title': 'Example of how to fetch API data for SSR ', 'state': 'closed', 'created_at': '2018-01-19T15:58:20Z', 'closed_at': '2018-01-22T14:23:51Z', 'labels': []}
+{'issuenumber': 29, 'title': 'loadable-components issues with Asp.Net core SPA (JavascriptServices)', 'state': 'closed', 'created_at': '2018-01-14T06:20:11Z', 'closed_at': '2018-01-21T18:48:34Z', 'labels': []}
+{'issuenumber': 28, 'title': 'warnForDeletedHydratableElement: Warning: Did not expect server HTML to contain a <h1> in <div>', 'state': 'closed', 'created_at': '2018-01-12T02:07:01Z', 'closed_at': '2018-01-21T16:45:26Z', 'labels': []}
+{'issuenumber': 26, 'title': 'Add a .babelrc example', 'state': 'closed', 'created_at': '2017-12-22T10:27:20Z', 'closed_at': '2018-02-02T14:46:55Z', 'labels': []}
+{'issuenumber': 25, 'title': 'Error when working with snapshots', 'state': 'closed', 'created_at': '2017-12-21T13:17:45Z', 'closed_at': '2018-02-02T14:48:14Z', 'labels': []}
+{'issuenumber': 24, 'title': 'Support hot module replacement', 'state': 'closed', 'created_at': '2017-12-16T07:10:13Z', 'closed_at': '2018-02-02T14:52:11Z', 'labels': []}
+{'issuenumber': 23, 'title': 'is it possible to name the bundle?', 'state': 'closed', 'created_at': '2017-12-11T11:48:41Z', 'closed_at': '2018-02-02T14:28:12Z', 'labels': []}
+{'issuenumber': 19, 'title': 'Strange behaviour', 'state': 'closed', 'created_at': '2017-11-23T19:10:19Z', 'closed_at': '2017-11-23T22:43:58Z', 'labels': []}
+{'issuenumber': 18, 'title': 'TypeError: getComponent is not a function', 'state': 'closed', 'created_at': '2017-11-17T03:51:31Z', 'closed_at': '2017-11-17T17:26:32Z', 'labels': []}
+{'issuenumber': 17, 'title': 'Thank you for this library!', 'state': 'closed', 'created_at': '2017-11-10T13:29:59Z', 'closed_at': '2018-02-02T14:48:39Z', 'labels': []}
+{'issuenumber': 16, 'title': 'Delay', 'state': 'closed', 'created_at': '2017-11-03T00:19:59Z', 'closed_at': '2017-11-04T11:09:36Z', 'labels': []}
+{'issuenumber': 15, 'title': 'Usage with HOC loading', 'state': 'closed', 'created_at': '2017-10-19T08:50:35Z', 'closed_at': '2017-10-19T08:50:46Z', 'labels': []}
+{'issuenumber': 14, 'title': 'Add TypeScript Support', 'state': 'closed', 'created_at': '2017-10-14T06:11:06Z', 'closed_at': '2018-05-12T14:16:18Z', 'labels': []}
+{'issuenumber': 12, 'title': 'getLoadableState)(...).then is not a function', 'state': 'closed', 'created_at': '2017-08-08T20:13:44Z', 'closed_at': '2017-08-09T07:56:30Z', 'labels': []}
+{'issuenumber': 10, 'title': "Uncaught TypeError: Cannot read property 'Symbol(loadable)' of undefined", 'state': 'closed', 'created_at': '2017-07-21T07:41:17Z', 'closed_at': '2018-02-02T14:53:12Z', 'labels': []}
+{'issuenumber': 9, 'title': 'Add support for preload meta tags', 'state': 'closed', 'created_at': '2017-07-19T14:04:21Z', 'closed_at': '2018-02-02T14:51:00Z', 'labels': []}
+{'issuenumber': 8, 'title': 'Webpack magic comments not supported?', 'state': 'closed', 'created_at': '2017-07-17T09:26:56Z', 'closed_at': '2017-07-27T08:43:09Z', 'labels': []}
+{'issuenumber': 7, 'title': 'getLoadableState undefined', 'state': 'closed', 'created_at': '2017-07-16T08:19:42Z', 'closed_at': '2017-07-16T15:51:42Z', 'labels': []}
+{'issuenumber': 2, 'title': 'Comparison with other libraries', 'state': 'closed', 'created_at': '2017-06-24T04:26:30Z', 'closed_at': '2017-06-24T09:58:31Z', 'labels': []}

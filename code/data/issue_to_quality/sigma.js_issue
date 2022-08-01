@@ -1,0 +1,931 @@
+{'issuenumber': 1249, 'title': 'Hovered nodes layer is not cleared sometimes', 'state': 'closed', 'created_at': '2022-05-25T12:44:50Z', 'closed_at': '2022-05-25T13:34:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1247, 'title': 'disabled camera but cant scroll past graph', 'state': 'closed', 'created_at': '2022-05-19T00:28:47Z', 'closed_at': '2022-07-19T22:33:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1244, 'title': 'examples\\custom-rendering could not run!', 'state': 'closed', 'created_at': '2022-05-18T06:29:50Z', 'closed_at': '2022-07-12T21:32:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1240, 'title': '`clickNode` not triggered on touch devices', 'state': 'closed', 'created_at': '2022-05-09T07:20:30Z', 'closed_at': '2022-05-09T10:34:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1237, 'title': 'Update devicePixelRatio on resize?', 'state': 'closed', 'created_at': '2022-04-29T13:56:24Z', 'closed_at': '2022-05-09T10:34:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1236, 'title': '#preventSigmaDefault is wrongly scoped', 'state': 'closed', 'created_at': '2022-04-29T09:07:36Z', 'closed_at': '2022-05-09T10:34:37Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1235, 'title': '#viewportToGraph returns { x: NaN, y: NaN } when the graph is empty', 'state': 'closed', 'created_at': '2022-04-28T12:25:49Z', 'closed_at': '2022-05-09T10:34:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1234, 'title': 'May I customize the shape of the points', 'state': 'closed', 'created_at': '2022-04-25T03:03:25Z', 'closed_at': '2022-06-20T09:42:42Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1231, 'title': 'Curved edges', 'state': 'closed', 'created_at': '2022-04-21T11:31:21Z', 'closed_at': '2022-04-21T11:48:16Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1229, 'title': 'mouse manipulations example not working in Chrome', 'state': 'closed', 'created_at': '2022-04-05T19:52:31Z', 'closed_at': '2022-04-06T07:11:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1228, 'title': 'Get color from node', 'state': 'closed', 'created_at': '2022-04-04T23:33:56Z', 'closed_at': '2022-04-05T08:06:30Z', 'labels': []}
+{'issuenumber': 1227, 'title': "Allow preventing sigma's mouse move events behavior", 'state': 'closed', 'created_at': '2022-04-04T15:57:27Z', 'closed_at': '2022-04-04T16:14:15Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1226, 'title': 'Normal node program (triangle, not point) does not render correctly', 'state': 'closed', 'created_at': '2022-04-01T15:06:21Z', 'closed_at': '2022-04-04T16:14:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1225, 'title': 'Adding a beforeRender & resize event?', 'state': 'closed', 'created_at': '2022-04-01T14:21:04Z', 'closed_at': '2022-04-05T10:38:36Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1224, 'title': 'Derive an helper from utils.floatColor returning a Float32Array', 'state': 'closed', 'created_at': '2022-04-01T12:49:32Z', 'closed_at': '2022-04-01T14:48:33Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1223, 'title': 'In frag shaders, transparent should be a const', 'state': 'closed', 'created_at': '2022-04-01T11:02:59Z', 'closed_at': '2022-04-01T14:35:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1219, 'title': 'NodeProgram incorrect hidden processing', 'state': 'closed', 'created_at': '2022-03-31T20:20:16Z', 'closed_at': '2022-04-01T09:33:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1218, 'title': 'Encapsulate hasNothingToRender, bind and bufferData into program.render?', 'state': 'closed', 'created_at': '2022-03-31T20:03:15Z', 'closed_at': '2022-05-26T13:49:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1216, 'title': "Some demos don't work on  CodeSandBox", 'state': 'closed', 'created_at': '2022-03-23T21:15:43Z', 'closed_at': '2022-03-28T08:34:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1214, 'title': "Dropping node from graph isn't reflected until further rendered interface interaction", 'state': 'closed', 'created_at': '2022-02-15T22:17:21Z', 'closed_at': '2022-04-05T10:20:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1213, 'title': 'At least 5 nodes are outside the global quadtree zone.', 'state': 'closed', 'created_at': '2022-02-15T04:40:25Z', 'closed_at': '2022-05-26T13:49:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1211, 'title': 'How to use sigma.js with django backend server. ', 'state': 'closed', 'created_at': '2022-02-10T20:11:36Z', 'closed_at': '2022-02-22T11:20:44Z', 'labels': []}
+{'issuenumber': 1210, 'title': 'Expose hoverRenderer label background as setting', 'state': 'closed', 'created_at': '2022-02-07T09:58:38Z', 'closed_at': '2022-04-05T10:47:18Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1207, 'title': 'Node image texture grows beyond canvas limits', 'state': 'closed', 'created_at': '2022-02-03T16:48:13Z', 'closed_at': '2022-03-31T09:35:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1205, 'title': 'Add an example to showcase the scalability', 'state': 'closed', 'created_at': '2022-01-31T10:25:51Z', 'closed_at': '2022-02-02T18:18:46Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1204, 'title': 'Error while building demo project', 'state': 'closed', 'created_at': '2022-01-25T10:54:42Z', 'closed_at': '2022-01-26T09:19:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1203, 'title': 'Opening index.html file from examples does not open network in browser.', 'state': 'closed', 'created_at': '2022-01-24T14:46:06Z', 'closed_at': '2022-01-24T16:25:58Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1202, 'title': 'Is there a way to force labels to show all the time?', 'state': 'closed', 'created_at': '2022-01-24T11:27:38Z', 'closed_at': '2022-01-24T16:26:15Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1201, 'title': '💡 Feature Idea: Support combo style grouping of nodes & links for the data visualization', 'state': 'closed', 'created_at': '2022-01-12T15:47:00Z', 'closed_at': '2022-02-01T14:26:12Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1200, 'title': 'Edge labels will be hidden when node labels are empty/null', 'state': 'closed', 'created_at': '2022-01-12T09:02:12Z', 'closed_at': '2022-01-24T17:21:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1198, 'title': 'Q: Dynamic node size depending on zoom level', 'state': 'closed', 'created_at': '2022-01-08T12:00:19Z', 'closed_at': '2022-05-08T11:03:58Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1196, 'title': 'Lifecycle of instance when it is killed', 'state': 'closed', 'created_at': '2022-01-05T09:03:39Z', 'closed_at': '2022-02-20T09:20:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1194, 'title': 'Camera animation to angle 0 does not work', 'state': 'closed', 'created_at': '2021-12-27T16:59:48Z', 'closed_at': '2022-01-24T16:33:26Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1193, 'title': "Stage drag and drop on website's demo behaves weirdly", 'state': 'closed', 'created_at': '2021-12-21T09:35:35Z', 'closed_at': '2021-12-22T09:42:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1192, 'title': 'White square on highlighted nodes that overlaps', 'state': 'closed', 'created_at': '2021-12-20T11:04:50Z', 'closed_at': '2021-12-21T16:43:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1191, 'title': 'Property does not exist', 'state': 'closed', 'created_at': '2021-12-16T01:51:42Z', 'closed_at': '2021-12-16T17:28:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1190, 'title': 'Typo in mousemove event example', 'state': 'closed', 'created_at': '2021-12-13T01:14:59Z', 'closed_at': '2021-12-13T07:57:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1189, 'title': 'Multigraph doesnt seem to work', 'state': 'closed', 'created_at': '2021-12-12T10:30:30Z', 'closed_at': '2021-12-13T15:48:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1187, 'title': 'Add a way to force a label to be displayed', 'state': 'closed', 'created_at': '2021-12-07T13:44:35Z', 'closed_at': '2021-12-21T09:20:03Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1186, 'title': 'Hovered node (and enter/leave events) dispatched even when mouse is not hover sigma container', 'state': 'closed', 'created_at': '2021-12-06T15:23:24Z', 'closed_at': '2021-12-10T16:07:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1184, 'title': 'Node default color cannot be set', 'state': 'closed', 'created_at': '2021-12-04T09:08:04Z', 'closed_at': '2021-12-04T09:20:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1183, 'title': 'Edge labels layer should be behind nodes layer', 'state': 'closed', 'created_at': '2021-12-02T10:11:38Z', 'closed_at': '2021-12-10T16:06:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1182, 'title': 'Add cached data to custom label / hover renderers', 'state': 'closed', 'created_at': '2021-12-01T16:58:02Z', 'closed_at': '2021-12-21T09:20:03Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1180, 'title': 'Edge events are not working when edge size are not set in the graph', 'state': 'closed', 'created_at': '2021-12-01T11:27:57Z', 'closed_at': '2021-12-10T16:03:44Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1179, 'title': "Uncaught Error: Sigma: Coordinates of node 1 are invalid. A node must have a numeric 'x' and 'y' attribute", 'state': 'closed', 'created_at': '2021-11-30T12:08:59Z', 'closed_at': '2021-11-30T12:18:29Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 1178, 'title': 'node.image program throws in Firefox for images with no size', 'state': 'closed', 'created_at': '2021-11-30T08:56:10Z', 'closed_at': '2021-12-10T16:06:57Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1176, 'title': 'Clean captor legacy code', 'state': 'closed', 'created_at': '2021-11-29T13:44:27Z', 'closed_at': '2021-12-21T09:20:02Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1175, 'title': 'Mouse position on zoom / wheel is wrong when window scrolled', 'state': 'closed', 'created_at': '2021-11-27T20:03:03Z', 'closed_at': '2021-11-29T13:31:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1173, 'title': "clearEdges won't delete the edges in the graph", 'state': 'closed', 'created_at': '2021-11-27T12:07:08Z', 'closed_at': '2021-11-29T13:13:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1171, 'title': 'Maybe unnecessary context clearing in edge label rendering', 'state': 'closed', 'created_at': '2021-11-26T20:39:30Z', 'closed_at': '2021-12-21T12:30:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1170, 'title': 'Simplify and optimize multiplyVec util', 'state': 'closed', 'created_at': '2021-11-26T15:54:45Z', 'closed_at': '2022-04-04T16:13:38Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1169, 'title': 'Wrong events x / y values when not hovering the sigma instance', 'state': 'closed', 'created_at': '2021-11-26T09:32:34Z', 'closed_at': '2021-11-29T13:31:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1165, 'title': 'Hovered nodes are no more cleared after the mouse leaves them', 'state': 'closed', 'created_at': '2021-11-24T15:56:00Z', 'closed_at': '2021-11-24T16:26:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1163, 'title': 'Deal with edge labels longer than the edges', 'state': 'closed', 'created_at': '2021-11-24T13:33:09Z', 'closed_at': '2021-11-24T15:10:49Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1162, 'title': "Add a similar feature to v1's `autoRescale` option", 'state': 'closed', 'created_at': '2021-11-24T13:00:12Z', 'closed_at': '2021-12-06T10:10:53Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1161, 'title': 'minZoom & maxZoom options missing', 'state': 'closed', 'created_at': '2021-11-24T07:27:25Z', 'closed_at': '2021-12-21T10:47:09Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1157, 'title': '(V2) Unexpected node interaction with zIndex', 'state': 'closed', 'created_at': '2021-11-12T15:15:42Z', 'closed_at': '2021-11-19T17:04:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1156, 'title': "Can't run examples", 'state': 'closed', 'created_at': '2021-11-12T05:26:40Z', 'closed_at': '2021-11-12T20:27:14Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1155, 'title': '[v2] Leaflet map coordinates to SigmaJS v2 coordinates', 'state': 'closed', 'created_at': '2021-11-11T15:33:00Z', 'closed_at': '2021-11-12T18:27:58Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 1154, 'title': 'border and image at node', 'state': 'closed', 'created_at': '2021-11-10T21:01:18Z', 'closed_at': '2022-04-13T10:18:53Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1153, 'title': 'V2 double click event', 'state': 'closed', 'created_at': '2021-11-05T13:19:24Z', 'closed_at': '2021-11-24T15:10:48Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1150, 'title': 'Merge canvas and export to png', 'state': 'closed', 'created_at': '2021-11-02T01:53:27Z', 'closed_at': '2021-11-24T15:10:48Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1149, 'title': 'Graphology upgrade report', 'state': 'closed', 'created_at': '2021-10-31T10:55:02Z', 'closed_at': '2021-11-02T20:45:23Z', 'labels': []}
+{'issuenumber': 1148, 'title': 'Sigma stops propagating "mousemove" events even when not dragging anything', 'state': 'closed', 'created_at': '2021-10-29T07:33:51Z', 'closed_at': '2021-11-24T15:10:47Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1145, 'title': 'demo should go in npmignore', 'state': 'closed', 'created_at': '2021-10-15T16:10:02Z', 'closed_at': '2021-10-15T17:25:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1142, 'title': 'Better TS typing for event', 'state': 'closed', 'created_at': '2021-10-08T08:59:47Z', 'closed_at': '2022-04-05T08:28:09Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1139, 'title': 'Trying to get in touch regarding a security issue', 'state': 'closed', 'created_at': '2021-09-21T18:33:05Z', 'closed_at': '2021-10-25T09:59:07Z', 'labels': []}
+{'issuenumber': 1138, 'title': 'Support for curved edges in v2', 'state': 'closed', 'created_at': '2021-09-15T19:33:12Z', 'closed_at': '2021-11-09T08:38:25Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1137, 'title': 'Can sigma display a graph directly from a Graphology object?', 'state': 'closed', 'created_at': '2021-09-13T10:37:49Z', 'closed_at': '2021-10-20T21:56:26Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 1136, 'title': "v2 Camera.setState doesn't set angle to 0", 'state': 'closed', 'created_at': '2021-09-05T11:17:01Z', 'closed_at': '2021-10-15T13:44:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1135, 'title': "enterNode event on the extremes for v2 doesn't seem to fire", 'state': 'closed', 'created_at': '2021-08-19T08:51:10Z', 'closed_at': '2021-08-30T13:41:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1132, 'title': 'Using hideEdgesOnMove does not work with defaultEdgeType set to "arrow" in v2', 'state': 'closed', 'created_at': '2021-08-16T07:33:05Z', 'closed_at': '2021-08-30T13:41:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1131, 'title': 'zIndex not working when using with reducers', 'state': 'closed', 'created_at': '2021-07-18T04:17:34Z', 'closed_at': '2021-08-30T15:41:10Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1130, 'title': 'how to display the graph to occupy whole container', 'state': 'closed', 'created_at': '2021-07-14T15:43:02Z', 'closed_at': '2021-10-23T14:32:09Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1129, 'title': 'planned sigma v2 features', 'state': 'closed', 'created_at': '2021-07-14T08:46:18Z', 'closed_at': '2021-08-16T12:20:04Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 1128, 'title': 'on v2 nodes labels disappear randomly on zooming', 'state': 'closed', 'created_at': '2021-07-11T09:17:23Z', 'closed_at': '2021-08-30T15:48:11Z', 'labels': {'name': 'v2'}}
+{'issuenumber': 1127, 'title': 'doc and samples for v2', 'state': 'closed', 'created_at': '2021-07-09T14:42:42Z', 'closed_at': '2021-07-11T09:46:22Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 1125, 'title': 'Displayed labels disappear/appear while "throwing" the graph', 'state': 'closed', 'created_at': '2021-06-30T16:07:31Z', 'closed_at': '2021-08-30T13:45:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1123, 'title': 'Make camera animation helper methods take optional arguments again?', 'state': 'closed', 'created_at': '2021-06-25T16:56:42Z', 'closed_at': '2021-06-29T13:52:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1122, 'title': 'Problems with installing sigma with npm', 'state': 'closed', 'created_at': '2021-05-28T11:23:34Z', 'closed_at': '2021-05-28T12:55:59Z', 'labels': []}
+{'issuenumber': 1121, 'title': 'Build problems on Ubuntu 21.04 - PhantomJS requirement?', 'state': 'closed', 'created_at': '2021-05-28T10:21:08Z', 'closed_at': '2021-08-16T12:50:56Z', 'labels': []}
+{'issuenumber': 1120, 'title': 'Highlight path through tri-partite graph', 'state': 'closed', 'created_at': '2021-05-27T13:45:38Z', 'closed_at': '2021-10-23T14:32:08Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1119, 'title': "Can't get bind() to work", 'state': 'closed', 'created_at': '2021-05-10T03:51:07Z', 'closed_at': '2021-10-23T14:32:05Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1118, 'title': 'Highlight of nodes when label is not present', 'state': 'closed', 'created_at': '2021-05-06T15:31:11Z', 'closed_at': '2021-10-20T22:02:29Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1116, 'title': 'neo4j cypher query error', 'state': 'closed', 'created_at': '2021-03-18T09:31:09Z', 'closed_at': '2021-04-27T06:41:13Z', 'labels': []}
+{'issuenumber': 1115, 'title': 'Is there any planned support for plugins in version 2?', 'state': 'closed', 'created_at': '2021-02-10T19:45:17Z', 'closed_at': '2021-10-23T14:32:10Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 1114, 'title': 'GEXF example (load-external-gexf.html) blank', 'state': 'closed', 'created_at': '2021-02-08T22:26:32Z', 'closed_at': '2021-10-23T14:32:03Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1113, 'title': 'Better error If nodes has no y/x properties', 'state': 'closed', 'created_at': '2021-02-02T15:33:05Z', 'closed_at': '2021-04-08T10:16:01Z', 'labels': {'name': 'v2'}}
+{'issuenumber': 1112, 'title': 'How do I move camera to specific node in sigma.js version 2?', 'state': 'closed', 'created_at': '2021-01-12T17:23:32Z', 'closed_at': '2021-04-12T05:21:35Z', 'labels': []}
+{'issuenumber': 1111, 'title': 'edgeHoverPrecision is not working for horizontal straight edges', 'state': 'closed', 'created_at': '2021-01-11T12:25:21Z', 'closed_at': '2021-10-23T14:32:01Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1110, 'title': 'forceAtlas2 adjustSizes setting', 'state': 'closed', 'created_at': '2020-12-28T13:49:47Z', 'closed_at': '2021-10-23T14:31:59Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1109, 'title': 'unreachable statement in ForceAtlas2 worker', 'state': 'closed', 'created_at': '2020-12-28T13:33:37Z', 'closed_at': '2021-10-23T14:32:00Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1108, 'title': '[v2] sigma.js + graphology + graphology-gexf umd version ', 'state': 'closed', 'created_at': '2020-12-28T09:13:13Z', 'closed_at': '2020-12-28T15:06:34Z', 'labels': []}
+{'issuenumber': 1107, 'title': '[v2] Issue with mouse wheel', 'state': 'closed', 'created_at': '2020-12-26T17:11:50Z', 'closed_at': '2020-12-26T17:49:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1106, 'title': 'How to add a color individual label?', 'state': 'closed', 'created_at': '2020-12-15T11:32:24Z', 'closed_at': '2021-10-23T14:31:57Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1105, 'title': 'Expanding the graph step by step', 'state': 'closed', 'created_at': '2020-12-15T05:34:33Z', 'closed_at': '2021-10-23T14:31:56Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1103, 'title': 'Mouse captor uses setImmediate which does not exist in FF', 'state': 'closed', 'created_at': '2020-11-17T20:56:59Z', 'closed_at': '2020-11-17T21:54:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1102, 'title': 'v2 label color hard-coded?', 'state': 'closed', 'created_at': '2020-11-09T15:18:29Z', 'closed_at': '2021-11-24T15:10:47Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1101, 'title': 'Sigma.js@v"2.0.0-alpha40" steps to get started', 'state': 'closed', 'created_at': '2020-10-27T16:23:50Z', 'closed_at': '2021-08-17T08:25:57Z', 'labels': []}
+{'issuenumber': 1099, 'title': 'Node border', 'state': 'closed', 'created_at': '2020-09-15T16:42:22Z', 'closed_at': '2020-09-16T15:41:04Z', 'labels': []}
+{'issuenumber': 1098, 'title': 'Graph leaves echo image on zoom', 'state': 'closed', 'created_at': '2020-08-27T14:17:09Z', 'closed_at': '2021-10-23T14:31:54Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1097, 'title': 'Drag nodes on touchscreens', 'state': 'closed', 'created_at': '2020-08-27T05:38:22Z', 'closed_at': '2021-10-23T14:31:53Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1096, 'title': 'how to import plugins', 'state': 'closed', 'created_at': '2020-08-24T00:19:56Z', 'closed_at': '2021-10-23T14:31:52Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1095, 'title': 'Hosting pages which load json or gexf files on github pages', 'state': 'closed', 'created_at': '2020-08-14T16:24:58Z', 'closed_at': '2020-08-15T15:54:21Z', 'labels': []}
+{'issuenumber': 1094, 'title': 'Edge weights prop not documented?', 'state': 'closed', 'created_at': '2020-08-02T16:33:44Z', 'closed_at': '2021-10-23T14:31:51Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1093, 'title': "Issue: Graph edges sometimes doesn't render", 'state': 'closed', 'created_at': '2020-07-23T12:04:39Z', 'closed_at': '2021-10-23T14:31:46Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1092, 'title': 'Labels appear with `autoRescale: false`, among other things', 'state': 'closed', 'created_at': '2020-07-14T01:11:07Z', 'closed_at': '2021-10-23T14:31:45Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1091, 'title': 'sigma js - display nodes depending on node.size', 'state': 'closed', 'created_at': '2020-07-03T07:26:52Z', 'closed_at': '2020-07-09T07:51:40Z', 'labels': []}
+{'issuenumber': 1090, 'title': 'Typescript and index import issue', 'state': 'closed', 'created_at': '2020-06-22T12:05:48Z', 'closed_at': '2020-10-28T13:21:27Z', 'labels': {'name': 'v2'}}
+{'issuenumber': 1089, 'title': "The Typescript overhaul's aftermath", 'state': 'closed', 'created_at': '2020-06-20T13:39:04Z', 'closed_at': '2020-10-28T13:26:53Z', 'labels': {'name': 'v2'}}
+{'issuenumber': 1088, 'title': 'Drag to create edges', 'state': 'closed', 'created_at': '2020-06-05T11:14:23Z', 'closed_at': '2021-10-23T14:31:44Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1087, 'title': 'How is it possible to export the graph as gexf?', 'state': 'closed', 'created_at': '2020-06-02T20:39:51Z', 'closed_at': '2021-10-23T14:31:43Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 1086, 'title': 'How can I put edge weight in the information panel of sigma Js, I have a directed graph from gephi.', 'state': 'closed', 'created_at': '2020-05-31T03:07:40Z', 'closed_at': '2021-10-23T14:31:42Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1084, 'title': 'on "clickLabel" event needed', 'state': 'closed', 'created_at': '2020-05-14T08:10:09Z', 'closed_at': '2021-10-23T14:31:41Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1083, 'title': 'Zoom not working properly on larger Networks', 'state': 'closed', 'created_at': '2020-05-01T14:11:20Z', 'closed_at': '2020-05-03T14:18:56Z', 'labels': []}
+{'issuenumber': 1082, 'title': 'I need to highlight all nodes connected to clicked node directly or indirectly!', 'state': 'closed', 'created_at': '2020-04-22T08:35:05Z', 'closed_at': '2021-10-23T14:31:39Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1081, 'title': 'Host the examples on the website', 'state': 'closed', 'created_at': '2020-04-13T08:49:26Z', 'closed_at': '2021-10-23T14:31:51Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1078, 'title': 'Can we get the edge path(the coordinates of each point on a edge)? ', 'state': 'closed', 'created_at': '2020-03-28T15:11:44Z', 'closed_at': '2021-10-23T15:32:07Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1077, 'title': 'Camera usage ?', 'state': 'closed', 'created_at': '2020-03-25T21:35:11Z', 'closed_at': '2021-04-22T21:05:26Z', 'labels': []}
+{'issuenumber': 1076, 'title': 'Is there any way to use pie chart style as coloring? ', 'state': 'closed', 'created_at': '2020-03-25T15:29:37Z', 'closed_at': '2021-10-23T14:32:02Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1075, 'title': 'There is a easy way to put a image instead of a circle for graph nodes?', 'state': 'closed', 'created_at': '2020-03-23T17:08:15Z', 'closed_at': '2020-03-27T16:46:09Z', 'labels': []}
+{'issuenumber': 1074, 'title': 'The node size is too big when compare to edge length', 'state': 'closed', 'created_at': '2020-03-14T08:02:58Z', 'closed_at': '2020-03-17T13:55:39Z', 'labels': []}
+{'issuenumber': 1072, 'title': 'overEdge / other Edge functions only work with forceAtlas paused', 'state': 'closed', 'created_at': '2020-02-14T07:42:37Z', 'closed_at': '2021-10-23T15:32:04Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1071, 'title': 'Render charts instead of Nodes.', 'state': 'closed', 'created_at': '2020-01-27T10:50:22Z', 'closed_at': '2021-10-23T15:32:10Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1070, 'title': 'display graph with no edges', 'state': 'closed', 'created_at': '2020-01-23T12:45:35Z', 'closed_at': '2020-01-23T23:42:11Z', 'labels': []}
+{'issuenumber': 1069, 'title': 'Modified way to place nodes circular', 'state': 'closed', 'created_at': '2020-01-21T13:11:24Z', 'closed_at': '2021-10-23T15:31:59Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1068, 'title': 'Animating edge properties', 'state': 'closed', 'created_at': '2020-01-17T21:33:51Z', 'closed_at': '2021-10-23T15:31:57Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1067, 'title': 'Sigma JS Example', 'state': 'closed', 'created_at': '2020-01-16T21:58:56Z', 'closed_at': '2020-01-27T22:35:45Z', 'labels': []}
+{'issuenumber': 1066, 'title': 'sigma.renderers.snapshot - png export problematic', 'state': 'closed', 'created_at': '2020-01-13T12:07:55Z', 'closed_at': '2021-10-23T15:31:58Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1065, 'title': 'Unable to integrate sigma 1.2.1 with angular 7.2.2', 'state': 'closed', 'created_at': '2020-01-09T08:10:02Z', 'closed_at': '2021-10-23T15:31:54Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1063, 'title': 'Render Mathml on Sigma Nodes', 'state': 'closed', 'created_at': '2019-12-23T11:44:31Z', 'closed_at': '2021-10-23T15:31:51Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1062, 'title': 'Help on minimap', 'state': 'closed', 'created_at': '2019-12-19T19:03:46Z', 'closed_at': '2021-10-23T15:31:50Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1061, 'title': 'Unable to add multiple nodes/edges?', 'state': 'closed', 'created_at': '2019-12-16T10:02:22Z', 'closed_at': '2019-12-20T08:58:09Z', 'labels': []}
+{'issuenumber': 1060, 'title': 'Not able to display the graph ', 'state': 'closed', 'created_at': '2019-12-16T09:48:19Z', 'closed_at': '2019-12-16T10:01:49Z', 'labels': []}
+{'issuenumber': 1059, 'title': 'goTo api not changing anything on screen', 'state': 'closed', 'created_at': '2019-12-12T20:15:47Z', 'closed_at': '2020-01-21T18:48:09Z', 'labels': []}
+{'issuenumber': 1058, 'title': 'Curved SVG Export', 'state': 'closed', 'created_at': '2019-12-03T08:16:44Z', 'closed_at': '2021-10-23T15:31:49Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1057, 'title': 'Mouse scroll zoom issue ', 'state': 'closed', 'created_at': '2019-11-29T00:55:57Z', 'closed_at': '2021-10-23T14:31:38Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1055, 'title': 'Create sigma.min.js ', 'state': 'closed', 'created_at': '2019-11-20T07:07:44Z', 'closed_at': '2021-10-23T15:31:47Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1053, 'title': 'How to drawLabels true only for current node and connected node by hovering on current Node', 'state': 'closed', 'created_at': '2019-11-13T05:21:29Z', 'closed_at': '2021-10-23T15:31:46Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1052, 'title': 'CurvedArrow edges are only shown upon hovering in V1.2.1', 'state': 'closed', 'created_at': '2019-11-02T18:44:16Z', 'closed_at': '2019-11-08T15:10:48Z', 'labels': []}
+{'issuenumber': 1051, 'title': 'How to draw a directed graph from top to bottom?', 'state': 'closed', 'created_at': '2019-11-02T14:00:18Z', 'closed_at': '2021-10-23T15:31:44Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1050, 'title': 'Could you change the tutorial on your homepage?', 'state': 'closed', 'created_at': '2019-10-29T09:12:32Z', 'closed_at': '2021-10-23T15:31:43Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1049, 'title': 'New line in label', 'state': 'closed', 'created_at': '2019-10-24T16:26:49Z', 'closed_at': '2021-10-23T15:31:42Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1048, 'title': 'webpack typeerror', 'state': 'closed', 'created_at': '2019-10-09T21:55:23Z', 'closed_at': '2021-10-23T15:31:42Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1047, 'title': 'How to use JSON data with Sigma in Angular ?', 'state': 'closed', 'created_at': '2019-10-08T17:23:45Z', 'closed_at': '2021-10-23T15:31:45Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1046, 'title': 'Fresh sigma instance is not fresh', 'state': 'closed', 'created_at': '2019-09-13T04:44:31Z', 'closed_at': '2019-09-13T05:34:42Z', 'labels': []}
+{'issuenumber': 1045, 'title': 'sigma.js does not work in Angular 8 ', 'state': 'closed', 'created_at': '2019-09-04T16:30:20Z', 'closed_at': '2021-10-23T15:31:37Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1043, 'title': 'Image scaling without limitations?', 'state': 'closed', 'created_at': '2019-08-28T11:05:33Z', 'closed_at': '2021-10-23T18:54:26Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1042, 'title': 'Not able to import sigma in vue.js project', 'state': 'closed', 'created_at': '2019-08-17T13:41:34Z', 'closed_at': '2019-08-19T08:57:40Z', 'labels': []}
+{'issuenumber': 1040, 'title': 'Unable to draw node labels', 'state': 'closed', 'created_at': '2019-08-01T21:54:19Z', 'closed_at': '2019-08-01T21:58:59Z', 'labels': []}
+{'issuenumber': 1039, 'title': 'Update graph using json parser - undefined object error', 'state': 'closed', 'created_at': '2019-07-31T12:05:40Z', 'closed_at': '2021-10-23T15:32:06Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1038, 'title': 'distinguish between click and drag', 'state': 'closed', 'created_at': '2019-07-30T16:36:41Z', 'closed_at': '2021-10-23T18:54:22Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1037, 'title': 'Drag node with neighbors', 'state': 'closed', 'created_at': '2019-07-30T12:09:25Z', 'closed_at': '2021-10-23T18:54:24Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1036, 'title': 'getting error in edge.js', 'state': 'closed', 'created_at': '2019-07-25T14:13:16Z', 'closed_at': '2021-10-23T18:54:21Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1035, 'title': 'tapNode - touch event on nodes?', 'state': 'closed', 'created_at': '2019-06-18T15:59:27Z', 'closed_at': '2021-10-23T18:54:25Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1034, 'title': ' Camera sharing between two renderers', 'state': 'closed', 'created_at': '2019-06-13T14:41:17Z', 'closed_at': '2021-10-23T18:54:19Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1033, 'title': 'Disable node hover by attributes', 'state': 'closed', 'created_at': '2019-06-13T08:34:44Z', 'closed_at': '2019-08-19T08:44:59Z', 'labels': []}
+{'issuenumber': 1032, 'title': 'Using sigma.js canvas renderer for high quality image?', 'state': 'closed', 'created_at': '2019-06-13T08:27:09Z', 'closed_at': '2021-10-23T18:54:17Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1031, 'title': 'where is sigma.parsers.min.gexf.js?', 'state': 'closed', 'created_at': '2019-06-07T15:35:41Z', 'closed_at': '2019-06-20T09:01:14Z', 'labels': []}
+{'issuenumber': 1030, 'title': 'Sigma status', 'state': 'closed', 'created_at': '2019-06-04T21:47:45Z', 'closed_at': '2019-06-04T23:27:15Z', 'labels': []}
+{'issuenumber': 1029, 'title': 'importing data', 'state': 'closed', 'created_at': '2019-05-24T09:07:30Z', 'closed_at': '2019-08-16T12:00:06Z', 'labels': []}
+{'issuenumber': 1028, 'title': 'Documentation for version 2 alpha20', 'state': 'closed', 'created_at': '2019-05-22T12:17:50Z', 'closed_at': '2019-05-24T08:30:30Z', 'labels': []}
+{'issuenumber': 1027, 'title': 'strange click edge event', 'state': 'closed', 'created_at': '2019-05-20T06:27:38Z', 'closed_at': '2021-10-08T19:10:41Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1026, 'title': 'Not all of my edges are getting drawn', 'state': 'closed', 'created_at': '2019-05-17T22:42:09Z', 'closed_at': '2021-10-23T18:54:15Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1024, 'title': 'Dagre dynamically add nodes', 'state': 'closed', 'created_at': '2019-05-15T08:35:30Z', 'closed_at': '2021-10-23T18:54:13Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1022, 'title': 'Finding the Lenght of edges', 'state': 'closed', 'created_at': '2019-05-06T20:13:47Z', 'closed_at': '2019-05-15T20:45:39Z', 'labels': []}
+{'issuenumber': 1021, 'title': 'Change the nodes label color and re-render?', 'state': 'closed', 'created_at': '2019-05-05T03:10:47Z', 'closed_at': '2021-10-23T18:54:14Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1020, 'title': 'Event "when graph is ready"', 'state': 'closed', 'created_at': '2019-04-25T09:49:47Z', 'closed_at': '2021-10-23T18:54:13Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1019, 'title': 'Zoom on visible nodes', 'state': 'closed', 'created_at': '2019-04-25T08:26:20Z', 'closed_at': '2021-10-23T18:54:11Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1018, 'title': 'Zoom in and out canvas', 'state': 'closed', 'created_at': '2019-04-24T01:17:39Z', 'closed_at': '2019-04-24T01:35:28Z', 'labels': []}
+{'issuenumber': 1016, 'title': "Edge labels doesn't display", 'state': 'closed', 'created_at': '2019-04-11T17:55:56Z', 'closed_at': '2019-04-11T19:18:41Z', 'labels': []}
+{'issuenumber': 1010, 'title': 'npm install failed', 'state': 'closed', 'created_at': '2019-02-16T16:20:17Z', 'closed_at': '2021-10-23T18:54:06Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1009, 'title': 'neighborsOf predicate processors in filter plugin should accept multiple ids.', 'state': 'closed', 'created_at': '2019-01-28T20:39:05Z', 'closed_at': '2021-10-23T18:54:04Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1008, 'title': 'graph is too sparse and far away when using forceatlas2 with few nodes', 'state': 'closed', 'created_at': '2019-01-28T09:32:16Z', 'closed_at': '2021-10-23T18:54:08Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1006, 'title': 'V2@alpha issue in WebGLRenderer and React', 'state': 'closed', 'created_at': '2019-01-20T17:26:40Z', 'closed_at': '2019-02-01T15:27:55Z', 'labels': []}
+{'issuenumber': 1005, 'title': 'Edge-renders + svg-freestyle-renderer', 'state': 'closed', 'created_at': '2019-01-18T21:55:13Z', 'closed_at': '2021-10-23T18:54:03Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1004, 'title': 'custom property names ', 'state': 'closed', 'created_at': '2019-01-17T14:32:32Z', 'closed_at': '2021-10-23T18:54:03Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1003, 'title': 'View single node and immediate neighbours/edges only', 'state': 'closed', 'created_at': '2019-01-10T09:23:11Z', 'closed_at': '2019-01-11T12:01:30Z', 'labels': []}
+{'issuenumber': 1002, 'title': 'use sigma.js in vue project', 'state': 'closed', 'created_at': '2018-12-27T12:21:17Z', 'closed_at': '2021-10-23T18:54:24Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1001, 'title': 'sigma.layout.forceAtlas2 plugin feature', 'state': 'closed', 'created_at': '2018-12-26T19:12:29Z', 'closed_at': '2021-10-23T18:53:59Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1000, 'title': 'Sigma graph wont render without error', 'state': 'closed', 'created_at': '2018-12-26T19:03:21Z', 'closed_at': '2021-10-23T18:54:00Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 999, 'title': '[bug] noverlap yields error for basic example', 'state': 'closed', 'created_at': '2018-12-26T17:51:49Z', 'closed_at': '2020-05-16T18:02:45Z', 'labels': []}
+{'issuenumber': 998, 'title': 'Problems with layout.noverlap', 'state': 'closed', 'created_at': '2018-12-12T09:01:23Z', 'closed_at': '2021-10-23T17:54:27Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 997, 'title': "When doing 'drag-nodes' with 'nooverlap' we lose the functionality of 'drag'", 'state': 'closed', 'created_at': '2018-12-11T09:12:07Z', 'closed_at': '2021-10-23T17:54:25Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 996, 'title': 'Node Label Position Change (defaultLabelAlignment not working)', 'state': 'closed', 'created_at': '2018-12-11T08:06:44Z', 'closed_at': '2021-10-23T17:54:24Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 995, 'title': 'Edge Arrow Size without affecting line size', 'state': 'closed', 'created_at': '2018-12-11T07:24:52Z', 'closed_at': '2021-10-23T15:32:03Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 994, 'title': 'Colouring a gexf ', 'state': 'closed', 'created_at': '2018-12-06T13:41:49Z', 'closed_at': '2021-10-23T17:54:24Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 993, 'title': 'Gephi networkgraph not interactive on touchscreen as exported from 0.9.2 plugin', 'state': 'closed', 'created_at': '2018-11-24T02:35:46Z', 'closed_at': '2021-10-23T15:32:08Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 992, 'title': 'Curved Edge Labels not inline', 'state': 'closed', 'created_at': '2018-11-15T16:03:12Z', 'closed_at': '2021-10-23T17:54:22Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 991, 'title': 'performance issue when drop large number of nodes', 'state': 'closed', 'created_at': '2018-11-05T11:15:44Z', 'closed_at': '2021-10-23T17:54:20Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 990, 'title': 'Loading graph from Gephi - Different preview', 'state': 'closed', 'created_at': '2018-10-29T19:25:19Z', 'closed_at': '2021-10-23T17:54:19Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 989, 'title': 'Tutorial for custom WebGL node renderer', 'state': 'closed', 'created_at': '2018-10-17T07:58:34Z', 'closed_at': '2021-10-23T17:54:18Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 988, 'title': 'Use absolute node width/height', 'state': 'closed', 'created_at': '2018-10-09T12:24:18Z', 'closed_at': '2021-10-23T17:54:14Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 987, 'title': 'import sigma into vuejs + webpack project', 'state': 'closed', 'created_at': '2018-10-06T11:37:34Z', 'closed_at': '2021-10-23T15:31:52Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 986, 'title': 'Is there a way to bold a particular label?', 'state': 'closed', 'created_at': '2018-10-02T04:53:52Z', 'closed_at': '2021-10-23T17:54:16Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 985, 'title': 'when attempting to import plugins in webpack i got the following js error', 'state': 'closed', 'created_at': '2018-09-18T13:11:29Z', 'closed_at': '2018-09-20T14:57:25Z', 'labels': []}
+{'issuenumber': 984, 'title': 'How to specify canvas renderer when loading gexf file', 'state': 'closed', 'created_at': '2018-09-18T09:46:55Z', 'closed_at': '2018-09-19T11:06:54Z', 'labels': []}
+{'issuenumber': 982, 'title': 'Edges disappear while zooming when sigma type is canvas', 'state': 'closed', 'created_at': '2018-09-11T15:38:57Z', 'closed_at': '2018-09-18T08:06:22Z', 'labels': []}
+{'issuenumber': 981, 'title': 'How to implement sigma js in vue js application', 'state': 'closed', 'created_at': '2018-09-06T02:24:38Z', 'closed_at': '2021-10-23T15:31:53Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 980, 'title': 'Files missing from CDN', 'state': 'closed', 'created_at': '2018-09-02T05:52:34Z', 'closed_at': '2021-10-23T17:54:09Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 979, 'title': 'Bidi (rtl) support for labels', 'state': 'closed', 'created_at': '2018-08-30T11:36:23Z', 'closed_at': '2021-10-23T15:31:55Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 978, 'title': 'Use images for nodes', 'state': 'closed', 'created_at': '2018-08-12T13:15:14Z', 'closed_at': '2021-10-23T17:54:11Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 977, 'title': 'Split massive graph into tiles and render', 'state': 'closed', 'created_at': '2018-08-11T22:24:15Z', 'closed_at': '2021-10-23T17:54:01Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 976, 'title': 'How to use sigma.js in angular 6 project', 'state': 'closed', 'created_at': '2018-08-10T14:11:40Z', 'closed_at': '2021-10-23T14:31:58Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 974, 'title': 'Node type is never set by GEXF parser', 'state': 'closed', 'created_at': '2018-07-29T12:17:49Z', 'closed_at': '2018-07-30T16:14:43Z', 'labels': []}
+{'issuenumber': 973, 'title': 'how to have different settings for different nodes? ', 'state': 'closed', 'created_at': '2018-07-25T23:23:30Z', 'closed_at': '2021-10-23T17:54:17Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 972, 'title': 'Hover effect outside the graph', 'state': 'closed', 'created_at': '2018-07-25T15:45:33Z', 'closed_at': '2021-10-23T19:54:27Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 971, 'title': 'Applause for 2.0', 'state': 'closed', 'created_at': '2018-07-24T02:06:46Z', 'closed_at': '2021-10-23T18:54:10Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 970, 'title': 'Switiching between full and neighborhood graph does not work / Conflicting sigma instances?', 'state': 'closed', 'created_at': '2018-07-17T12:39:44Z', 'closed_at': '2021-10-23T19:54:25Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 969, 'title': 'Right most label is being cut off', 'state': 'closed', 'created_at': '2018-07-15T03:30:38Z', 'closed_at': '2021-10-23T17:53:58Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 968, 'title': 'Custom middleware', 'state': 'closed', 'created_at': '2018-07-11T10:54:21Z', 'closed_at': '2021-10-23T19:54:24Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 967, 'title': 'performance issue', 'state': 'closed', 'created_at': '2018-07-09T18:43:51Z', 'closed_at': '2021-10-23T15:31:49Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 966, 'title': 'ECMA6 Compliance', 'state': 'closed', 'created_at': '2018-07-09T14:42:18Z', 'closed_at': '2018-07-09T15:04:09Z', 'labels': []}
+{'issuenumber': 965, 'title': 'Json Parsar ', 'state': 'closed', 'created_at': '2018-07-06T19:03:34Z', 'closed_at': '2021-10-23T19:54:22Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 964, 'title': 'Question: How does canvas renderer handle changes?', 'state': 'closed', 'created_at': '2018-07-06T17:18:34Z', 'closed_at': '2018-07-07T08:32:18Z', 'labels': []}
+{'issuenumber': 963, 'title': 'graph uses maxEdgeSize instead of specified edge size', 'state': 'closed', 'created_at': '2018-07-03T10:21:31Z', 'closed_at': '2018-07-03T12:11:24Z', 'labels': []}
+{'issuenumber': 962, 'title': 'Custom node renderer used only when mouse hovers over node', 'state': 'closed', 'created_at': '2018-06-29T18:05:00Z', 'closed_at': '2018-07-03T16:54:55Z', 'labels': []}
+{'issuenumber': 961, 'title': 'Forceatlas settings and sparsity ', 'state': 'closed', 'created_at': '2018-06-28T20:25:37Z', 'closed_at': '2018-06-29T12:54:31Z', 'labels': []}
+{'issuenumber': 960, 'title': 'How to Search/hoover on filtered graph ', 'state': 'closed', 'created_at': '2018-06-27T21:54:21Z', 'closed_at': '2021-10-23T19:54:22Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 959, 'title': 'Webgl rendering laging and taking up all of the gpu', 'state': 'closed', 'created_at': '2018-06-26T07:58:27Z', 'closed_at': '2018-06-28T20:17:03Z', 'labels': []}
+{'issuenumber': 958, 'title': 'Consider adding declarations ', 'state': 'closed', 'created_at': '2018-06-23T12:01:12Z', 'closed_at': '2021-10-23T18:54:19Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 956, 'title': 'Sigma v2?', 'state': 'closed', 'created_at': '2018-06-14T13:53:39Z', 'closed_at': '2018-06-14T14:08:28Z', 'labels': []}
+{'issuenumber': 955, 'title': 'How to show node and edge labels only on hovering hovering over the node and edge?', 'state': 'closed', 'created_at': '2018-06-12T10:54:31Z', 'closed_at': '2021-10-23T17:54:03Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 954, 'title': 'dropNode error: e is undefined  (sigma.min.js:2:45789)', 'state': 'closed', 'created_at': '2018-06-07T18:31:23Z', 'closed_at': '2021-10-23T19:54:19Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 953, 'title': 'How to avoid sigma.parsers.json()?', 'state': 'closed', 'created_at': '2018-06-04T12:33:46Z', 'closed_at': '2021-10-23T19:54:17Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 952, 'title': 'How to disable the showing of labels on hovering over the node?', 'state': 'closed', 'created_at': '2018-06-04T09:43:58Z', 'closed_at': '2018-06-04T12:24:44Z', 'labels': []}
+{'issuenumber': 951, 'title': 'What should I set the edge type to if I want my edges to be both curved and directed(having arrows)?', 'state': 'closed', 'created_at': '2018-06-02T10:55:48Z', 'closed_at': '2021-10-23T19:54:18Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 950, 'title': "Does s.addCamera('cam'); and  var cam = s.camera; do the same job?", 'state': 'closed', 'created_at': '2018-05-30T12:27:56Z', 'closed_at': '2021-10-23T19:54:15Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 949, 'title': "What is 'config' meant here - var listener = s.configNoverlap(config); ?", 'state': 'closed', 'created_at': '2018-05-30T11:34:58Z', 'closed_at': '2021-10-23T19:54:14Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 948, 'title': 'Search and zoom a particular node', 'state': 'closed', 'created_at': '2018-05-29T12:31:59Z', 'closed_at': '2021-10-23T19:54:13Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 947, 'title': 'After clicking a node,I want to color all the edges and only the edges which contain the clicked node.', 'state': 'closed', 'created_at': '2018-05-29T10:07:58Z', 'closed_at': '2021-10-23T19:54:24Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 946, 'title': 'Showing all the node labels', 'state': 'closed', 'created_at': '2018-05-28T14:28:28Z', 'closed_at': '2021-10-23T19:54:13Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 945, 'title': 'Interactively draw a virtual edge to connect nodes', 'state': 'closed', 'created_at': '2018-05-19T06:49:31Z', 'closed_at': '2021-10-23T19:54:12Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 943, 'title': 'How to use the plugins with npm?', 'state': 'closed', 'created_at': '2018-05-15T23:55:26Z', 'closed_at': '2021-10-23T19:54:28Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 942, 'title': 'A bug with curved edges caused by uglify', 'state': 'closed', 'created_at': '2018-05-15T19:17:18Z', 'closed_at': '2021-10-23T19:54:11Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 941, 'title': 'Hide some nodes and edges', 'state': 'closed', 'created_at': '2018-05-11T10:57:38Z', 'closed_at': '2018-05-14T07:21:45Z', 'labels': []}
+{'issuenumber': 940, 'title': 's.startForceAtlas2 is not a function', 'state': 'closed', 'created_at': '2018-04-24T03:04:54Z', 'closed_at': '2018-04-24T05:23:35Z', 'labels': []}
+{'issuenumber': 939, 'title': 'SigmaJs can automatically set the x,y of node ?', 'state': 'closed', 'created_at': '2018-04-20T03:35:06Z', 'closed_at': '2021-10-23T19:54:06Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 938, 'title': 'What are the disadvantages of Sigma.js?', 'state': 'closed', 'created_at': '2018-04-17T00:42:27Z', 'closed_at': '2021-10-23T19:54:07Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 937, 'title': 'automatic placement of nodes, with neat output', 'state': 'closed', 'created_at': '2018-04-04T08:54:04Z', 'closed_at': '2018-04-07T02:35:51Z', 'labels': []}
+{'issuenumber': 935, 'title': 'Cannot import sigma.js in Angular-cli Webpack', 'state': 'closed', 'created_at': '2018-03-19T23:50:16Z', 'closed_at': '2021-10-23T19:54:04Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 934, 'title': 'Is it possible to detect if the change of nodes?', 'state': 'closed', 'created_at': '2018-03-18T23:52:07Z', 'closed_at': '2018-03-19T00:45:13Z', 'labels': []}
+{'issuenumber': 933, 'title': '能问一下，sigma有api文档吗？为什么我找不到啊，怎么控制线条的长度，我想写一个类似人物关系图，应该怎么写啊', 'state': 'closed', 'created_at': '2018-02-05T07:20:20Z', 'closed_at': '2021-10-23T19:54:08Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 932, 'title': 'Different size  between Canvas and Container ', 'state': 'closed', 'created_at': '2018-01-29T12:21:35Z', 'closed_at': '2021-08-12T11:23:20Z', 'labels': []}
+{'issuenumber': 931, 'title': 'Replacing .json shows nothing', 'state': 'closed', 'created_at': '2018-01-29T10:19:50Z', 'closed_at': '2021-10-23T19:54:00Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 930, 'title': 'Edge click events not working', 'state': 'closed', 'created_at': '2018-01-24T21:42:34Z', 'closed_at': '2021-10-23T19:54:06Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 929, 'title': 'Using browserify and plugins not documented', 'state': 'closed', 'created_at': '2018-01-16T06:14:17Z', 'closed_at': '2021-10-24T09:26:00Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 928, 'title': 'Is it possible to stop camera zoom in when mouse is double clicked?', 'state': 'closed', 'created_at': '2018-01-13T23:47:58Z', 'closed_at': '2018-01-15T00:41:13Z', 'labels': []}
+{'issuenumber': 927, 'title': 'Custom menu on click events in Sigma', 'state': 'closed', 'created_at': '2018-01-09T20:21:51Z', 'closed_at': '2021-10-24T09:25:56Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 926, 'title': 'Firefox 57.0.4 rendering bug on heights larger than 800px', 'state': 'closed', 'created_at': '2018-01-08T11:33:53Z', 'closed_at': '2021-10-24T09:25:58Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 925, 'title': 'how do I hide edge labels when a node is selected?', 'state': 'closed', 'created_at': '2017-12-31T11:28:34Z', 'closed_at': '2021-10-24T09:25:53Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 924, 'title': 'npm install fails on Ubuntu 14', 'state': 'closed', 'created_at': '2017-12-27T23:41:45Z', 'closed_at': '2017-12-28T18:16:04Z', 'labels': []}
+{'issuenumber': 923, 'title': 'How to drag and drop edge and nodes with Sigma JS', 'state': 'closed', 'created_at': '2017-12-25T08:45:20Z', 'closed_at': '2021-10-24T09:25:55Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 922, 'title': 'how to show a node label without hover a node', 'state': 'closed', 'created_at': '2017-12-21T19:41:57Z', 'closed_at': '2021-10-23T17:54:02Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 921, 'title': 'No module loader for SigmaJS', 'state': 'closed', 'created_at': '2017-12-20T22:18:10Z', 'closed_at': '2021-10-24T09:25:54Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 920, 'title': 'CustomShape plugin not getting recogonised', 'state': 'closed', 'created_at': '2017-12-18T11:12:48Z', 'closed_at': '2021-10-23T15:32:05Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 919, 'title': 'From Quad tree know quadrant  ( SW , NE ,N,S,E,W )', 'state': 'closed', 'created_at': '2017-12-18T07:33:16Z', 'closed_at': '2018-01-07T17:26:29Z', 'labels': []}
+{'issuenumber': 918, 'title': 'not being able to call angular2 component function on sigma.js bind event call', 'state': 'closed', 'created_at': '2017-12-12T12:28:36Z', 'closed_at': '2017-12-12T16:52:12Z', 'labels': []}
+{'issuenumber': 917, 'title': 'Drag and drop plugin', 'state': 'closed', 'created_at': '2017-12-08T16:30:35Z', 'closed_at': '2021-10-24T09:25:52Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 916, 'title': 'Can anyone explain whats happening in this camara applyView code. ', 'state': 'closed', 'created_at': '2017-12-06T08:02:39Z', 'closed_at': '2017-12-18T07:34:18Z', 'labels': []}
+{'issuenumber': 915, 'title': 'Move Node in auto scale mode on', 'state': 'closed', 'created_at': '2017-11-30T16:27:02Z', 'closed_at': '2017-12-06T08:02:59Z', 'labels': []}
+{'issuenumber': 914, 'title': 'Scale Radius value and set initial scale level  ', 'state': 'closed', 'created_at': '2017-11-28T12:17:52Z', 'closed_at': '2017-12-06T08:03:11Z', 'labels': []}
+{'issuenumber': 913, 'title': 'Running Forced layout on selected area only ', 'state': 'closed', 'created_at': '2017-11-27T12:03:09Z', 'closed_at': '2017-11-28T12:11:49Z', 'labels': []}
+{'issuenumber': 912, 'title': 'ForceAtlas2 makes graph disappear.', 'state': 'closed', 'created_at': '2017-11-26T01:47:24Z', 'closed_at': '2021-10-23T21:27:58Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 911, 'title': 'Place nodes close to selected node', 'state': 'closed', 'created_at': '2017-11-25T18:32:15Z', 'closed_at': '2017-11-28T12:12:03Z', 'labels': []}
+{'issuenumber': 910, 'title': 'Prevent default zoom on double click of node', 'state': 'closed', 'created_at': '2017-11-20T06:00:41Z', 'closed_at': '2017-11-20T06:36:13Z', 'labels': []}
+{'issuenumber': 909, 'title': 'To Display all the search result nodes on the graph', 'state': 'closed', 'created_at': '2017-11-20T03:53:10Z', 'closed_at': '2018-05-17T13:25:16Z', 'labels': []}
+{'issuenumber': 908, 'title': 'Is there a good way to not add nodes if graph is being dragged?', 'state': 'closed', 'created_at': '2017-11-15T21:20:24Z', 'closed_at': '2021-10-25T09:58:39Z', 'labels': []}
+{'issuenumber': 906, 'title': 'Performance drop caused by edges.', 'state': 'closed', 'created_at': '2017-11-03T12:34:12Z', 'closed_at': '2021-10-23T18:54:11Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 905, 'title': 'Circular Node Placement ', 'state': 'closed', 'created_at': '2017-11-02T11:18:09Z', 'closed_at': '2017-11-06T20:39:19Z', 'labels': []}
+{'issuenumber': 903, 'title': 'How to add new node to right of selected node ( Expand Collapse of Node)', 'state': 'closed', 'created_at': '2017-10-28T15:55:30Z', 'closed_at': '2017-11-06T20:39:42Z', 'labels': []}
+{'issuenumber': 902, 'title': 'x , y coordinate update ', 'state': 'closed', 'created_at': '2017-10-28T07:21:44Z', 'closed_at': '2021-10-25T09:56:46Z', 'labels': []}
+{'issuenumber': 901, 'title': 'Sigma Graph Issue With Angular-Material', 'state': 'closed', 'created_at': '2017-09-21T13:38:27Z', 'closed_at': '2017-09-29T13:51:29Z', 'labels': []}
+{'issuenumber': 900, 'title': '[Feature Request] Add HTML support to node label', 'state': 'closed', 'created_at': '2017-09-21T01:11:31Z', 'closed_at': '2017-09-24T11:30:36Z', 'labels': []}
+{'issuenumber': 899, 'title': 'custom buttons for zoom with limits', 'state': 'closed', 'created_at': '2017-09-18T10:57:04Z', 'closed_at': '2021-10-25T09:56:19Z', 'labels': []}
+{'issuenumber': 898, 'title': 'Change cursor to hand when hovering on clickable node', 'state': 'closed', 'created_at': '2017-09-06T02:35:51Z', 'closed_at': '2017-09-06T10:37:03Z', 'labels': []}
+{'issuenumber': 897, 'title': 'Several layers of sigma at one time?', 'state': 'closed', 'created_at': '2017-09-01T17:31:56Z', 'closed_at': '2021-10-25T09:56:05Z', 'labels': []}
+{'issuenumber': 896, 'title': 'Node Label Background enabled for nodes and its neighbours onNodeClick', 'state': 'closed', 'created_at': '2017-08-31T11:18:21Z', 'closed_at': '2021-10-25T09:55:02Z', 'labels': []}
+{'issuenumber': 895, 'title': 'Getting Sigma.js to work with Electron (Node.js)', 'state': 'closed', 'created_at': '2017-08-29T14:23:21Z', 'closed_at': '2021-10-23T18:54:07Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 894, 'title': 'Graph is not loaded perfectly using forcealtlas2 after setting settimeout function', 'state': 'closed', 'created_at': '2017-08-29T02:58:38Z', 'closed_at': '2021-10-25T09:53:51Z', 'labels': []}
+{'issuenumber': 893, 'title': 'Callback without sigma parser', 'state': 'closed', 'created_at': '2017-08-25T09:53:53Z', 'closed_at': '2021-10-25T09:53:31Z', 'labels': []}
+{'issuenumber': 892, 'title': 'Plugin problem: non-hover text label proportional to node size ', 'state': 'closed', 'created_at': '2017-08-24T09:07:39Z', 'closed_at': '2021-10-23T15:32:09Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 891, 'title': 'Prevent Label overlap dynamically based on how far graph is zoomed out?', 'state': 'closed', 'created_at': '2017-08-18T02:38:45Z', 'closed_at': '2021-11-28T21:20:53Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 890, 'title': 'Is there anyway to show both 1st and 2nd order connections once a node is selected?', 'state': 'closed', 'created_at': '2017-08-17T12:24:31Z', 'closed_at': '2021-10-25T09:52:06Z', 'labels': []}
+{'issuenumber': 889, 'title': 'Typo in http://sigmajs.org/', 'state': 'closed', 'created_at': '2017-07-29T08:10:43Z', 'closed_at': '2021-10-25T09:44:23Z', 'labels': []}
+{'issuenumber': 888, 'title': 'Install Sigma.js on github pages and minimal mistakes', 'state': 'closed', 'created_at': '2017-07-28T11:04:37Z', 'closed_at': '2017-08-02T14:09:24Z', 'labels': []}
+{'issuenumber': 887, 'title': 'Is it possible to map SAN like network swich neighbors ?', 'state': 'closed', 'created_at': '2017-07-26T09:34:06Z', 'closed_at': '2021-10-23T21:27:55Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 886, 'title': 'Sigma settings are not working when using neo4j', 'state': 'closed', 'created_at': '2017-07-25T14:56:30Z', 'closed_at': '2021-10-25T09:50:45Z', 'labels': []}
+{'issuenumber': 885, 'title': 'How can I fix the node when I use  the sigma.plugins.dragNodes plugin', 'state': 'closed', 'created_at': '2017-07-24T09:23:32Z', 'closed_at': '2018-02-05T14:18:18Z', 'labels': []}
+{'issuenumber': 884, 'title': 'Fix the graph position', 'state': 'closed', 'created_at': '2017-07-21T12:08:27Z', 'closed_at': '2021-10-25T09:49:16Z', 'labels': []}
+{'issuenumber': 883, 'title': 'support for edge hovering with the webgl renderer', 'state': 'closed', 'created_at': '2017-07-20T07:23:28Z', 'closed_at': '2021-10-23T21:27:51Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 882, 'title': 'How to invert the zoom direction', 'state': 'closed', 'created_at': '2017-07-16T13:51:51Z', 'closed_at': '2021-10-23T21:27:53Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 881, 'title': 'Draw dotted arrow', 'state': 'closed', 'created_at': '2017-07-15T22:13:05Z', 'closed_at': '2017-07-15T23:02:38Z', 'labels': []}
+{'issuenumber': 880, 'title': 'Import plugins with webpacker', 'state': 'closed', 'created_at': '2017-07-12T18:44:37Z', 'closed_at': '2021-10-23T19:53:59Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 879, 'title': 'How to disable dragging the graph around?', 'state': 'closed', 'created_at': '2017-07-03T00:45:35Z', 'closed_at': '2017-07-04T11:25:55Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 878, 'title': 'No Support for Alpha/Opacity in Webgl?', 'state': 'closed', 'created_at': '2017-06-28T19:57:39Z', 'closed_at': '2017-07-01T19:34:23Z', 'labels': []}
+{'issuenumber': 877, 'title': 'sigma.middlewares.rescale', 'state': 'closed', 'created_at': '2017-06-27T12:50:07Z', 'closed_at': '2021-10-23T21:27:49Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 876, 'title': 'outNode event not triggered when switching to another window/application', 'state': 'closed', 'created_at': '2017-06-25T23:32:37Z', 'closed_at': '2021-10-23T21:27:48Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 875, 'title': 'Is it possible to move the position of node labels from the right hand side to the top of the node?', 'state': 'closed', 'created_at': '2017-06-23T10:24:32Z', 'closed_at': '2021-10-23T18:53:58Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 874, 'title': "Can't get GEXF example to work", 'state': 'closed', 'created_at': '2017-06-20T14:02:44Z', 'closed_at': '2021-10-23T18:54:09Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 873, 'title': 'How do I get the id of node/edge when they are clicked ? ', 'state': 'closed', 'created_at': '2017-06-13T07:57:09Z', 'closed_at': '2017-06-13T08:10:48Z', 'labels': []}
+{'issuenumber': 872, 'title': "Can't make ForceAtlas2 work on 1.2.0", 'state': 'closed', 'created_at': '2017-06-11T16:38:59Z', 'closed_at': '2017-06-12T09:46:50Z', 'labels': []}
+{'issuenumber': 871, 'title': 'How to import plugins as module in Webpack ES6?', 'state': 'closed', 'created_at': '2017-06-08T07:48:34Z', 'closed_at': '2017-06-22T15:25:24Z', 'labels': []}
+{'issuenumber': 870, 'title': 'Force Atlas not taking in account new Nodes after first run', 'state': 'closed', 'created_at': '2017-06-06T22:23:29Z', 'closed_at': '2017-06-07T09:41:52Z', 'labels': []}
+{'issuenumber': 869, 'title': 'Curved edges not curved', 'state': 'closed', 'created_at': '2017-06-06T17:14:28Z', 'closed_at': '2017-06-07T13:43:57Z', 'labels': []}
+{'issuenumber': 868, 'title': 'sigma is not declared when importing force atlas 2', 'state': 'closed', 'created_at': '2017-06-04T20:48:08Z', 'closed_at': '2017-06-07T08:52:37Z', 'labels': []}
+{'issuenumber': 866, 'title': 'Hide nodes on mouse click', 'state': 'closed', 'created_at': '2017-05-27T10:42:29Z', 'closed_at': '2021-10-23T21:27:44Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 865, 'title': 'Ability to handle Duplicate Nodes.', 'state': 'closed', 'created_at': '2017-05-24T09:11:19Z', 'closed_at': '2017-05-24T12:22:00Z', 'labels': []}
+{'issuenumber': 864, 'title': 'multiple edge support', 'state': 'closed', 'created_at': '2017-05-19T06:58:54Z', 'closed_at': '2021-10-23T21:27:43Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 862, 'title': 'combine two graphs. older and newer versions of sigma. ', 'state': 'closed', 'created_at': '2017-05-11T13:55:11Z', 'closed_at': '2017-05-17T14:21:15Z', 'labels': []}
+{'issuenumber': 861, 'title': 'Visualize a taxonomic tree with sigma. Is it possible? #Scalability', 'state': 'closed', 'created_at': '2017-05-10T18:06:28Z', 'closed_at': '2021-10-23T21:27:42Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 860, 'title': 'Edge hover color and size change and arrow is not working for some edges', 'state': 'closed', 'created_at': '2017-05-10T02:42:43Z', 'closed_at': '2021-10-23T17:53:59Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 859, 'title': 'Hierarchy Graphs', 'state': 'closed', 'created_at': '2017-05-05T15:58:47Z', 'closed_at': '2021-10-23T17:54:17Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 858, 'title': 'How to find sigma js <1.0.0 version', 'state': 'closed', 'created_at': '2017-05-04T07:15:10Z', 'closed_at': '2021-10-23T21:27:41Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 857, 'title': 'Loading SigmaJS Graph in browser', 'state': 'closed', 'created_at': '2017-05-03T12:09:22Z', 'closed_at': '2017-05-03T15:35:50Z', 'labels': []}
+{'issuenumber': 856, 'title': 'TypeError: sigma.publicPrototype is undefined', 'state': 'closed', 'created_at': '2017-05-02T06:30:01Z', 'closed_at': '2021-10-23T14:31:40Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 855, 'title': 'TypeError: sigma.init is not a function', 'state': 'closed', 'created_at': '2017-05-02T06:23:29Z', 'closed_at': '2021-10-23T21:27:41Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 854, 'title': 'How show the edge labels on the edge', 'state': 'closed', 'created_at': '2017-04-26T02:46:34Z', 'closed_at': '2021-10-23T21:27:39Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 853, 'title': 'Download the WHOLE Graph as JPG/PNG using Snapshot', 'state': 'closed', 'created_at': '2017-04-20T06:33:37Z', 'closed_at': '2021-10-24T09:25:57Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 852, 'title': 'ForceAtlas2 - Moving an edge to another Node effect', 'state': 'closed', 'created_at': '2017-04-18T17:17:14Z', 'closed_at': '2021-10-23T21:27:34Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 851, 'title': 'Possibility to speed up color computation using bitwise operations', 'state': 'closed', 'created_at': '2017-04-12T09:16:02Z', 'closed_at': '2021-10-25T09:44:54Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 850, 'title': 'including sigma.js in my github repo', 'state': 'closed', 'created_at': '2017-04-12T04:43:25Z', 'closed_at': '2021-10-23T21:27:32Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 849, 'title': 'Changing group names', 'state': 'closed', 'created_at': '2017-04-07T10:00:31Z', 'closed_at': '2021-10-23T21:27:35Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 848, 'title': 'no curve rendering in default build', 'state': 'closed', 'created_at': '2017-04-05T13:38:25Z', 'closed_at': '2021-10-23T19:54:01Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 847, 'title': 'zoomMax and zoomMin not working as expected', 'state': 'closed', 'created_at': '2017-03-30T11:01:59Z', 'closed_at': '2021-10-23T19:54:03Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 846, 'title': 'NetworkX generated .gexf files are not parsed/processed correctly', 'state': 'closed', 'created_at': '2017-03-28T20:19:57Z', 'closed_at': '2021-10-25T09:48:32Z', 'labels': []}
+{'issuenumber': 845, 'title': 'how to set transparency for edges?', 'state': 'closed', 'created_at': '2017-03-19T11:18:58Z', 'closed_at': '2021-10-23T21:27:31Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 844, 'title': 'Some mistakes in the sigma.plugins.animate.js', 'state': 'closed', 'created_at': '2017-03-15T09:50:50Z', 'closed_at': '2021-10-23T22:27:58Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 843, 'title': 'Migrating a plugin from canvas to webgl (question/misc)', 'state': 'closed', 'created_at': '2017-03-14T20:28:42Z', 'closed_at': '2021-10-23T22:27:57Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 842, 'title': "incorrect mouse events handling for 'curve' and 'curvedArrow'", 'state': 'closed', 'created_at': '2017-03-13T13:03:22Z', 'closed_at': '2021-10-23T22:27:56Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 841, 'title': 'i m not able to render a graph for my json data ', 'state': 'closed', 'created_at': '2017-03-10T06:28:48Z', 'closed_at': '2021-10-23T22:27:55Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 840, 'title': 'How to drag and drop edge with Sigma JS', 'state': 'closed', 'created_at': '2017-03-04T17:16:46Z', 'closed_at': '2021-10-23T21:27:33Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 839, 'title': 'Scroll bar in canvas', 'state': 'closed', 'created_at': '2017-03-02T14:59:53Z', 'closed_at': '2021-10-23T21:27:57Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 838, 'title': 'Fix node position', 'state': 'closed', 'created_at': '2017-03-02T06:58:55Z', 'closed_at': '2021-10-23T22:27:52Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 835, 'title': 'noverlap plugin is stoping automatically within seconds after start', 'state': 'closed', 'created_at': '2017-02-26T06:55:18Z', 'closed_at': '2017-02-27T19:47:53Z', 'labels': []}
+{'issuenumber': 834, 'title': 'Sending event to edges ?', 'state': 'closed', 'created_at': '2017-02-24T19:37:13Z', 'closed_at': '2021-10-25T09:46:33Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 833, 'title': 'Zoom about a node', 'state': 'closed', 'created_at': '2017-02-24T09:18:38Z', 'closed_at': '2021-10-23T22:27:49Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 832, 'title': 'Increase size of container when adding additional nodes', 'state': 'closed', 'created_at': '2017-02-23T14:45:22Z', 'closed_at': '2021-10-23T22:27:50Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 831, 'title': 'custom-rendered label not appearing', 'state': 'closed', 'created_at': '2017-02-21T22:30:11Z', 'closed_at': '2017-02-22T10:27:31Z', 'labels': []}
+{'issuenumber': 830, 'title': 'is there any way to display tightly connected nodes of graph closer to each other', 'state': 'closed', 'created_at': '2017-02-20T13:10:31Z', 'closed_at': '2017-02-22T09:57:34Z', 'labels': []}
+{'issuenumber': 828, 'title': "Name changes to include 'dot' in Gruntfile not actually done", 'state': 'closed', 'created_at': '2017-02-15T14:44:07Z', 'closed_at': '2021-10-23T22:27:46Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 827, 'title': 'Draw nodes as circles with label inside', 'state': 'closed', 'created_at': '2017-02-12T23:11:51Z', 'closed_at': '2021-10-23T18:54:17Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 826, 'title': 'Using sigmajs for Bipartite graph visualization and highlighting shortest path between two nodes', 'state': 'closed', 'created_at': '2017-02-08T07:10:07Z', 'closed_at': '2017-02-12T07:54:36Z', 'labels': []}
+{'issuenumber': 825, 'title': 'Angular 2 Compatability?', 'state': 'closed', 'created_at': '2017-02-08T05:55:58Z', 'closed_at': '2021-10-23T15:32:03Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 824, 'title': 'How to give attribute values and Color to node of graph', 'state': 'closed', 'created_at': '2017-02-06T08:47:07Z', 'closed_at': '2017-02-07T08:39:36Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 823, 'title': 'annoying error on events over elements without class names', 'state': 'closed', 'created_at': '2017-02-04T12:42:06Z', 'closed_at': '2021-10-23T22:27:43Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 822, 'title': 'can only some edges have their edge-hovering allowed? ', 'state': 'closed', 'created_at': '2017-01-24T12:56:28Z', 'closed_at': '2021-10-23T21:27:38Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 821, 'title': 'I use leaflet sigma plugin and I have a problem draw polygon on map', 'state': 'closed', 'created_at': '2017-01-23T12:54:39Z', 'closed_at': '2021-10-23T22:27:45Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 820, 'title': 'Can I set Z-index for edges?', 'state': 'closed', 'created_at': '2017-01-20T23:43:26Z', 'closed_at': '2021-10-23T21:27:52Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 819, 'title': 'edge hovering over vertical and horizontal edges is problematic ', 'state': 'closed', 'created_at': '2017-01-18T16:19:07Z', 'closed_at': '2021-10-23T17:54:05Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 818, 'title': 'toggle drawLabels', 'state': 'closed', 'created_at': '2017-01-18T16:11:05Z', 'closed_at': '2017-01-18T16:27:58Z', 'labels': []}
+{'issuenumber': 817, 'title': 'curve not working', 'state': 'closed', 'created_at': '2017-01-14T17:30:03Z', 'closed_at': '2017-01-15T17:52:16Z', 'labels': []}
+{'issuenumber': 816, 'title': 'Edge hovering not working', 'state': 'closed', 'created_at': '2017-01-08T21:15:45Z', 'closed_at': '2021-10-23T21:27:47Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 815, 'title': 'dragNodes plugin and WebGL renderer', 'state': 'closed', 'created_at': '2017-01-05T18:14:10Z', 'closed_at': '2021-10-23T21:27:36Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 814, 'title': 'Fisheye plugin', 'state': 'closed', 'created_at': '2017-01-02T10:38:15Z', 'closed_at': '2021-10-23T22:27:44Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 813, 'title': 'Version 0.1 - unminified code still available?', 'state': 'closed', 'created_at': '2016-12-22T10:39:57Z', 'closed_at': '2021-10-23T22:27:42Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 812, 'title': "'clickNode' does not fire when 'drawLabels' is false", 'state': 'closed', 'created_at': '2016-12-21T13:41:11Z', 'closed_at': '2021-10-23T22:27:41Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 811, 'title': 'Overlapping Labels when using arrow and bidirectional relations', 'state': 'closed', 'created_at': '2016-12-19T10:53:37Z', 'closed_at': '2021-10-23T22:27:40Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 810, 'title': 'Edge to the same node?', 'state': 'closed', 'created_at': '2016-12-18T19:06:27Z', 'closed_at': '2021-10-23T22:27:39Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 809, 'title': '"this undefined" error when using npm link and webpack', 'state': 'closed', 'created_at': '2016-12-16T14:49:03Z', 'closed_at': '2021-10-23T22:27:38Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 808, 'title': 'How to make the node staying fixed when dragging another connected node ?', 'state': 'closed', 'created_at': '2016-12-15T11:14:04Z', 'closed_at': '2021-10-23T22:27:36Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 807, 'title': 'How to delay about load every tier node ?', 'state': 'closed', 'created_at': '2016-12-14T08:40:21Z', 'closed_at': '2021-10-23T22:27:37Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 806, 'title': 'Overlapping labels. Can you change position/alignment?', 'state': 'closed', 'created_at': '2016-12-12T21:32:38Z', 'closed_at': '2021-10-23T22:27:52Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 805, 'title': 'Add a node for the right click mouse event', 'state': 'closed', 'created_at': '2016-12-06T16:27:41Z', 'closed_at': '2021-10-23T22:27:34Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 804, 'title': 'A* Plugin: Find all possible paths', 'state': 'closed', 'created_at': '2016-12-05T11:08:48Z', 'closed_at': '2016-12-05T12:58:17Z', 'labels': []}
+{'issuenumber': 802, 'title': 'Parser Error Callbacks', 'state': 'closed', 'created_at': '2016-12-02T09:57:36Z', 'closed_at': '2016-12-02T10:49:57Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 801, 'title': 'Getting started: Sigma vs Linkurious and other resources?', 'state': 'closed', 'created_at': '2016-11-30T22:10:09Z', 'closed_at': '2021-10-23T22:27:48Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 800, 'title': 'edge hover color not working ', 'state': 'closed', 'created_at': '2016-11-28T04:25:15Z', 'closed_at': '2021-10-23T22:27:47Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 798, 'title': 'Display neighbors labels programmatically', 'state': 'closed', 'created_at': '2016-11-22T13:58:37Z', 'closed_at': '2016-12-12T09:13:01Z', 'labels': []}
+{'issuenumber': 796, 'title': 'webgl is slower than canvas', 'state': 'closed', 'created_at': '2016-11-16T02:52:47Z', 'closed_at': '2021-10-23T22:27:32Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 795, 'title': 'Memory significantly rising when creating, killing and reinitializing sigma.js', 'state': 'closed', 'created_at': '2016-11-15T15:48:44Z', 'closed_at': '2021-10-23T22:27:33Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 794, 'title': 'edgeLabel plugin example not working with built sigma.js', 'state': 'closed', 'created_at': '2016-11-13T03:11:28Z', 'closed_at': '2021-10-23T22:27:30Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 792, 'title': 'Disable Auto Zoom-out to fit all nodes in selected region.', 'state': 'closed', 'created_at': '2016-11-02T12:58:19Z', 'closed_at': '2021-10-25T07:51:30Z', 'labels': []}
+{'issuenumber': 790, 'title': 'Unexpected camera behavior when zooming with a macbook pro trackpad', 'state': 'closed', 'created_at': '2016-11-02T10:40:44Z', 'closed_at': '2016-11-03T15:14:54Z', 'labels': []}
+{'issuenumber': 789, 'title': 'Json data object, nothing getting displayed on browser. ', 'state': 'closed', 'created_at': '2016-10-29T08:47:33Z', 'closed_at': '2016-10-29T17:06:35Z', 'labels': []}
+{'issuenumber': 788, 'title': 'How to get center node coordinates and angle', 'state': 'closed', 'created_at': '2016-10-24T07:14:40Z', 'closed_at': '2021-10-23T23:27:57Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 784, 'title': 'How can I modifying node attributes in existing graph', 'state': 'closed', 'created_at': '2016-10-10T02:40:33Z', 'closed_at': '2021-10-23T22:27:31Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 782, 'title': 'curve/curvedArrow removed from Gruntfile.js', 'state': 'closed', 'created_at': '2016-10-03T14:50:50Z', 'closed_at': '2021-10-23T23:27:54Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 781, 'title': 'Make overNode have priority on overEdge', 'state': 'closed', 'created_at': '2016-10-03T13:44:46Z', 'closed_at': '2021-10-23T23:27:56Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 780, 'title': 'GraphML parser?', 'state': 'closed', 'created_at': '2016-09-28T02:52:27Z', 'closed_at': '2016-10-06T20:17:13Z', 'labels': []}
+{'issuenumber': 779, 'title': 'Showing hyperlink in information pane', 'state': 'closed', 'created_at': '2016-09-27T16:55:45Z', 'closed_at': '2021-10-23T23:27:58Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 778, 'title': 'Labels for parallel edges', 'state': 'closed', 'created_at': '2016-09-23T03:09:27Z', 'closed_at': '2018-06-25T12:39:34Z', 'labels': []}
+{'issuenumber': 777, 'title': 'doese linkurious js interact with php ?', 'state': 'closed', 'created_at': '2016-09-20T04:06:18Z', 'closed_at': '2021-10-23T23:27:48Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 775, 'title': 'Force atlas sigma', 'state': 'closed', 'created_at': '2016-09-16T20:44:24Z', 'closed_at': '2021-10-23T23:27:48Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 774, 'title': 'Make a node double its size on mouseOver', 'state': 'closed', 'created_at': '2016-09-16T16:39:34Z', 'closed_at': '2021-10-23T23:27:49Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 773, 'title': 'Calling functions after generating the graph', 'state': 'closed', 'created_at': '2016-09-16T16:38:52Z', 'closed_at': '2021-10-23T23:27:53Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 772, 'title': 'Can I add a css property only to selected nodes?', 'state': 'closed', 'created_at': '2016-09-16T13:29:52Z', 'closed_at': '2021-10-23T23:27:50Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 771, 'title': 'Why do edges need an ID', 'state': 'closed', 'created_at': '2016-09-14T14:08:26Z', 'closed_at': '2016-09-20T08:31:22Z', 'labels': []}
+{'issuenumber': 769, 'title': "npm package doesn't install correctly if added as a git dependency", 'state': 'closed', 'created_at': '2016-09-11T20:57:06Z', 'closed_at': '2021-10-23T22:27:35Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 768, 'title': 'Performance issue with webgl addEdge', 'state': 'closed', 'created_at': '2016-09-11T12:32:41Z', 'closed_at': '2021-10-23T23:27:44Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 767, 'title': 'NPM Documentation Incorrect', 'state': 'closed', 'created_at': '2016-09-08T00:55:27Z', 'closed_at': '2021-10-23T23:27:48Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 765, 'title': "Hovered edges won't be cleared when the mouse directly moves out of the canvas", 'state': 'closed', 'created_at': '2016-09-02T07:53:52Z', 'closed_at': '2021-10-23T17:54:03Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 764, 'title': 'Server requests with sigmajs', 'state': 'closed', 'created_at': '2016-08-31T13:04:33Z', 'closed_at': '2021-10-23T23:27:40Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 763, 'title': 'Edge hovering does not work correctly with property: defaultEdgeType: "curvedArrow"', 'state': 'closed', 'created_at': '2016-08-31T09:01:23Z', 'closed_at': '2021-10-23T17:54:07Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 762, 'title': 'edge labels do not appear on the graph', 'state': 'closed', 'created_at': '2016-08-29T09:19:01Z', 'closed_at': '2021-10-23T23:27:42Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 761, 'title': 'nodeHoverColor not work  in sigma Instance', 'state': 'closed', 'created_at': '2016-08-27T03:16:01Z', 'closed_at': '2021-10-23T17:54:22Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 760, 'title': 'How to set initial zoom level ?', 'state': 'closed', 'created_at': '2016-08-25T13:12:55Z', 'closed_at': '2016-08-25T13:36:37Z', 'labels': []}
+{'issuenumber': 759, 'title': 'sigmajs working on ios', 'state': 'closed', 'created_at': '2016-08-23T19:40:25Z', 'closed_at': '2016-08-27T20:07:53Z', 'labels': []}
+{'issuenumber': 758, 'title': 'need org chart example with vertical and horizontal connectors', 'state': 'closed', 'created_at': '2016-08-23T10:55:11Z', 'closed_at': '2021-10-23T23:27:36Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 757, 'title': 'Sigma.js filter plugin only working on singleton instance mode', 'state': 'closed', 'created_at': '2016-08-21T08:11:28Z', 'closed_at': '2021-10-23T23:27:35Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 756, 'title': 'Multigraphs', 'state': 'closed', 'created_at': '2016-08-07T12:09:03Z', 'closed_at': '2021-10-23T23:27:32Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 755, 'title': 'Error in animate plugin ', 'state': 'closed', 'created_at': '2016-07-25T20:35:10Z', 'closed_at': '2021-10-24T09:25:51Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 753, 'title': 'Initially scale the graph to fit the container width', 'state': 'closed', 'created_at': '2016-07-12T10:14:58Z', 'closed_at': '2021-10-23T23:27:37Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 752, 'title': 'Multi Line Pop-ups on hover', 'state': 'closed', 'created_at': '2016-07-11T21:22:00Z', 'closed_at': '2021-10-23T23:27:38Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 751, 'title': 'gephi to HTML', 'state': 'closed', 'created_at': '2016-07-07T11:42:34Z', 'closed_at': '2016-08-06T12:58:53Z', 'labels': []}
+{'issuenumber': 750, 'title': 'Plugins with parser gexf files', 'state': 'closed', 'created_at': '2016-06-24T11:25:22Z', 'closed_at': '2016-06-24T13:19:49Z', 'labels': []}
+{'issuenumber': 749, 'title': 'Weird assignmint in sigma.parsers.gexf.js', 'state': 'closed', 'created_at': '2016-06-19T14:29:18Z', 'closed_at': '2021-10-24T09:25:50Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 748, 'title': 'defaultlabelBGColor', 'state': 'closed', 'created_at': '2016-06-17T15:25:36Z', 'closed_at': '2021-10-23T23:27:33Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 747, 'title': 'allNeighborsIndex returning nothing', 'state': 'closed', 'created_at': '2016-06-15T06:28:15Z', 'closed_at': '2021-10-23T23:27:41Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 746, 'title': 'Prevent graph from panning', 'state': 'closed', 'created_at': '2016-06-14T22:03:40Z', 'closed_at': '2016-09-22T08:16:02Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 745, 'title': 'Set individual node mass in Force Atlas', 'state': 'closed', 'created_at': '2016-06-10T10:29:08Z', 'closed_at': '2021-10-23T23:27:30Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 742, 'title': 'gexf graph not visible in FreeMarker Template until zoomed', 'state': 'closed', 'created_at': '2016-06-04T13:36:30Z', 'closed_at': '2016-06-04T14:11:25Z', 'labels': []}
+{'issuenumber': 741, 'title': 'where is the online examples? thanks !', 'state': 'closed', 'created_at': '2016-05-23T01:54:52Z', 'closed_at': '2016-05-24T03:33:34Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 740, 'title': 'creat a build folder on repo', 'state': 'closed', 'created_at': '2016-05-20T17:11:48Z', 'closed_at': '2016-05-24T16:43:56Z', 'labels': []}
+{'issuenumber': 739, 'title': 'very large networks ( > 1M nodes) possible with webGL rendering?', 'state': 'closed', 'created_at': '2016-05-14T00:31:09Z', 'closed_at': '2021-10-24T09:25:49Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 738, 'title': 'minArrowSize setting not working with WebGL renderer (Firefox)', 'state': 'closed', 'created_at': '2016-05-13T00:12:59Z', 'closed_at': '2021-10-24T09:25:48Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 737, 'title': 'Nodes added with read get strange performance in hover event', 'state': 'closed', 'created_at': '2016-05-09T09:45:28Z', 'closed_at': '2016-05-10T03:31:25Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 735, 'title': 'Using filters plugin with json input instead of gexf', 'state': 'closed', 'created_at': '2016-05-02T20:42:05Z', 'closed_at': '2021-10-25T09:43:47Z', 'labels': []}
+{'issuenumber': 733, 'title': 'Adding WebGL support for images', 'state': 'closed', 'created_at': '2016-04-20T21:50:13Z', 'closed_at': '2021-10-24T09:25:43Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 732, 'title': 'How to set the edge opacity and thickness to be the same as the one on Gephi?', 'state': 'closed', 'created_at': '2016-04-13T18:02:16Z', 'closed_at': '2021-11-14T09:57:18Z', 'labels': []}
+{'issuenumber': 731, 'title': 'does sigma.js supports graph auto layout ?', 'state': 'closed', 'created_at': '2016-04-13T00:13:59Z', 'closed_at': '2021-10-23T23:27:29Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 730, 'title': 'import/require plugins with webpack', 'state': 'closed', 'created_at': '2016-04-10T22:25:49Z', 'closed_at': '2021-10-23T21:27:37Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 729, 'title': 'Force atlas Weight', 'state': 'closed', 'created_at': '2016-04-01T22:41:29Z', 'closed_at': '2021-10-24T09:25:45Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 728, 'title': 'How can some edges target an other Edge?', 'state': 'closed', 'created_at': '2016-03-25T13:25:54Z', 'closed_at': '2021-10-24T09:25:46Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 727, 'title': 'Merge canvas and export to png', 'state': 'closed', 'created_at': '2016-03-13T21:23:11Z', 'closed_at': '2021-10-24T09:25:44Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 724, 'title': 'Error after success install', 'state': 'closed', 'created_at': '2016-03-10T03:55:14Z', 'closed_at': '2021-10-24T09:25:47Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 723, 'title': "dragNodes plugin doesn't work correctly when zoomed.", 'state': 'closed', 'created_at': '2016-03-07T20:43:43Z', 'closed_at': '2021-10-24T09:25:42Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 721, 'title': 'Noverlap on sub-set of nodes only.', 'state': 'closed', 'created_at': '2016-03-04T19:28:13Z', 'closed_at': '2021-10-24T09:25:40Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 720, 'title': 'Issues with FA2 when adjustSizes is set to true', 'state': 'closed', 'created_at': '2016-03-04T04:44:25Z', 'closed_at': '2021-10-24T09:25:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 719, 'title': 'Disable camera view.', 'state': 'closed', 'created_at': '2016-02-29T09:26:16Z', 'closed_at': '2021-10-24T09:25:37Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 717, 'title': 'npm install wierd error 127', 'state': 'closed', 'created_at': '2016-02-26T00:30:30Z', 'closed_at': '2021-10-24T09:25:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 716, 'title': 'How to disable all labels ', 'state': 'closed', 'created_at': '2016-02-24T10:37:10Z', 'closed_at': '2016-02-24T10:48:02Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 715, 'title': 'Problem with neighborhoods plugin and loading graph', 'state': 'closed', 'created_at': '2016-02-23T17:16:34Z', 'closed_at': '2021-10-23T19:53:58Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 714, 'title': 'defaultEdgeArrow with sigma.parsers.json', 'state': 'closed', 'created_at': '2016-02-23T09:19:09Z', 'closed_at': '2016-02-23T09:58:14Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 713, 'title': 'ConradId is not reset on killing a sigma instance / renderer', 'state': 'closed', 'created_at': '2016-02-22T04:00:28Z', 'closed_at': '2016-02-22T10:51:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 712, 'title': 'Fix touch scrolling', 'state': 'closed', 'created_at': '2016-02-16T20:11:57Z', 'closed_at': '2021-10-24T07:47:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 711, 'title': '[Optim] - Try to debounce some functions', 'state': 'closed', 'created_at': '2016-02-16T18:40:47Z', 'closed_at': '2021-10-25T09:42:19Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 710, 'title': '[Optim] - Drawing edge lines by expanding in vertex shader', 'state': 'closed', 'created_at': '2016-02-15T18:35:30Z', 'closed_at': '2016-02-17T15:14:29Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 709, 'title': '[Optim] - Try passing the edge color as uniform rather than attribute', 'state': 'closed', 'created_at': '2016-02-15T18:32:23Z', 'closed_at': '2016-02-15T19:34:37Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 708, 'title': 'Background image (ex: floor plan) to graph visualization', 'state': 'closed', 'created_at': '2016-02-12T13:09:20Z', 'closed_at': '2021-10-24T09:25:38Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 706, 'title': '[Optim] utils.floatColor', 'state': 'closed', 'created_at': '2016-02-10T19:18:34Z', 'closed_at': '2016-02-11T12:57:30Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 705, 'title': ' Why use sigma?', 'state': 'closed', 'created_at': '2016-01-26T08:12:46Z', 'closed_at': '2021-10-24T07:47:38Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 704, 'title': 'Selecting multiple edges at once.  ', 'state': 'closed', 'created_at': '2016-01-26T02:58:38Z', 'closed_at': '2021-10-24T07:47:37Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 702, 'title': 'Placeholder window does not contain removeEventListener function', 'state': 'closed', 'created_at': '2016-01-19T21:13:05Z', 'closed_at': '2021-10-24T07:47:37Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 701, 'title': 'Adding edges causes framerate to drop?', 'state': 'closed', 'created_at': '2016-01-14T20:29:40Z', 'closed_at': '2021-10-24T07:47:32Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 700, 'title': "Cannot read property 'getElementsByTagName' of null", 'state': 'closed', 'created_at': '2016-01-14T13:00:08Z', 'closed_at': '2021-10-25T09:41:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 699, 'title': 'Pushing nodes to an array ends up with duplicate data.  ', 'state': 'closed', 'created_at': '2016-01-08T20:42:31Z', 'closed_at': '2021-10-24T07:47:31Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 697, 'title': 'What needs to be done to achieve this?', 'state': 'closed', 'created_at': '2016-01-05T22:47:53Z', 'closed_at': '2021-10-24T09:25:33Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 696, 'title': 'Multiple Selection Tool', 'state': 'closed', 'created_at': '2016-01-05T21:02:55Z', 'closed_at': '2021-10-24T07:47:33Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 695, 'title': "Editting a node through the 'clicknode' function.  ", 'state': 'closed', 'created_at': '2016-01-05T20:44:46Z', 'closed_at': '2021-10-24T03:20:04Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 694, 'title': 'Error: WebGL: Requested size 2720x780 was too large, but resize to 1360x390 succeeded.', 'state': 'closed', 'created_at': '2016-01-04T16:26:04Z', 'closed_at': '2021-10-24T03:20:03Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 693, 'title': 'Remix nodes ?', 'state': 'closed', 'created_at': '2016-01-02T17:44:20Z', 'closed_at': '2016-01-02T22:39:29Z', 'labels': []}
+{'issuenumber': 692, 'title': 'Custom Shapes hover ', 'state': 'closed', 'created_at': '2016-01-02T13:18:49Z', 'closed_at': '2021-10-23T21:27:56Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 691, 'title': 'nodes dancing around in forceatlas2 layout', 'state': 'closed', 'created_at': '2015-12-30T07:29:08Z', 'closed_at': '2021-10-24T03:20:02Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 690, 'title': 'Nodes without (x, y) coordinates, why not be nice ?', 'state': 'closed', 'created_at': '2015-12-29T13:01:52Z', 'closed_at': '2021-10-25T09:40:14Z', 'labels': []}
+{'issuenumber': 689, 'title': '[difficult start] Error: WebGL: Error during ANGLE OpenGL init', 'state': 'closed', 'created_at': '2015-12-29T08:38:06Z', 'closed_at': '2015-12-29T12:47:10Z', 'labels': []}
+{'issuenumber': 688, 'title': 'sigma.export.js broken for node 5.3.0', 'state': 'closed', 'created_at': '2015-12-28T19:46:31Z', 'closed_at': '2021-10-24T03:20:01Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 687, 'title': 'Nodes overlapping Issue', 'state': 'closed', 'created_at': '2015-12-28T11:37:37Z', 'closed_at': '2021-10-23T22:27:54Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 686, 'title': 'Force Atlas 2 ', 'state': 'closed', 'created_at': '2015-12-21T13:07:00Z', 'closed_at': '2021-10-23T21:27:29Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 685, 'title': 'Displaying axis data?', 'state': 'closed', 'created_at': '2015-12-20T19:14:08Z', 'closed_at': '2015-12-23T20:36:22Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 684, 'title': 'Force Atlas Layout not working with Canvas rendering', 'state': 'closed', 'created_at': '2015-12-19T22:55:05Z', 'closed_at': '2021-10-24T03:19:59Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 683, 'title': 'Canvas rendering with external JSON file', 'state': 'closed', 'created_at': '2015-12-18T20:17:05Z', 'closed_at': '2015-12-18T20:21:32Z', 'labels': []}
+{'issuenumber': 682, 'title': 'Multiple edges', 'state': 'closed', 'created_at': '2015-12-14T10:14:33Z', 'closed_at': '2015-12-14T13:35:39Z', 'labels': []}
+{'issuenumber': 681, 'title': 'Connect the node to itself', 'state': 'closed', 'created_at': '2015-12-14T10:13:26Z', 'closed_at': '2015-12-14T13:41:07Z', 'labels': []}
+{'issuenumber': 680, 'title': 'CommonJS/Browserify example', 'state': 'closed', 'created_at': '2015-12-14T10:04:34Z', 'closed_at': '2021-10-24T03:19:57Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 679, 'title': 'Nodes overlap', 'state': 'closed', 'created_at': '2015-12-09T18:38:01Z', 'closed_at': '2021-10-23T15:31:56Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 678, 'title': 'Creating an edge from source to target?', 'state': 'closed', 'created_at': '2015-12-01T05:26:57Z', 'closed_at': '2021-10-24T09:25:41Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 676, 'title': 'hideEdgesOnMove - edges do not reappear after touch gestures', 'state': 'closed', 'created_at': '2015-11-24T18:29:10Z', 'closed_at': '2021-10-23T18:54:20Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 675, 'title': 'no CurvedArrow/Labels with neo4j or webgl ?', 'state': 'closed', 'created_at': '2015-11-24T10:59:07Z', 'closed_at': '2021-10-23T23:27:34Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 674, 'title': "Can't use images as nodes", 'state': 'closed', 'created_at': '2015-11-20T09:35:25Z', 'closed_at': '2015-11-20T12:04:28Z', 'labels': []}
+{'issuenumber': 673, 'title': 'Undocumented settings in wiki', 'state': 'closed', 'created_at': '2015-11-18T18:45:32Z', 'closed_at': '2015-12-30T18:48:49Z', 'labels': []}
+{'issuenumber': 672, 'title': 'Release 1.1.0 quest', 'state': 'closed', 'created_at': '2015-11-16T02:00:19Z', 'closed_at': '2021-10-09T06:49:23Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 671, 'title': 'Forceatlas on a subset', 'state': 'closed', 'created_at': '2015-11-09T08:00:00Z', 'closed_at': '2015-11-09T08:14:09Z', 'labels': []}
+{'issuenumber': 670, 'title': '"Group" Toggle', 'state': 'closed', 'created_at': '2015-11-05T07:01:07Z', 'closed_at': '2021-10-24T03:20:08Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 669, 'title': 'force crashes google chrome', 'state': 'closed', 'created_at': '2015-11-01T15:32:26Z', 'closed_at': '2021-10-23T19:54:10Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 668, 'title': 'Loading via ajax fails - but only for forceAtlas2 files??', 'state': 'closed', 'created_at': '2015-10-29T17:48:25Z', 'closed_at': '2015-10-29T21:18:58Z', 'labels': []}
+{'issuenumber': 667, 'title': 'How to increase size of edges in sigma js ?', 'state': 'closed', 'created_at': '2015-10-26T18:29:54Z', 'closed_at': '2021-10-23T22:27:53Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 666, 'title': 'Nodes overlapping at certain resolutions', 'state': 'closed', 'created_at': '2015-10-23T21:27:03Z', 'closed_at': '2021-10-24T03:19:54Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 662, 'title': 'Setting a fixed node border color from JSON graph', 'state': 'closed', 'created_at': '2015-10-17T19:09:44Z', 'closed_at': '2015-10-19T01:27:13Z', 'labels': []}
+{'issuenumber': 661, 'title': 'Possible to get the steps in the forceAtlas ?', 'state': 'closed', 'created_at': '2015-10-15T14:46:03Z', 'closed_at': '2015-11-09T07:58:57Z', 'labels': []}
+{'issuenumber': 660, 'title': 'RAM issues with enableEdgeHovering', 'state': 'closed', 'created_at': '2015-10-11T12:57:08Z', 'closed_at': '2021-10-23T14:32:06Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 659, 'title': 'Use sigmajs for realtime monitoring ?', 'state': 'closed', 'created_at': '2015-10-09T14:11:48Z', 'closed_at': '2021-10-23T17:54:13Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 658, 'title': 'Cannot focus edge when node gets too small', 'state': 'closed', 'created_at': '2015-10-09T07:43:32Z', 'closed_at': '2021-10-24T03:19:51Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 657, 'title': 'startForceAtlas2 is not working', 'state': 'closed', 'created_at': '2015-10-02T10:10:18Z', 'closed_at': '2021-10-24T03:19:49Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 656, 'title': 'save graph state', 'state': 'closed', 'created_at': '2015-09-30T13:07:10Z', 'closed_at': '2021-10-23T18:54:02Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 655, 'title': "startForceAtlas2 doesn't appear to have an effect (no animation)", 'state': 'closed', 'created_at': '2015-09-29T16:52:59Z', 'closed_at': '2021-10-24T03:19:58Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 654, 'title': "Cannot read property 'slice' of undefined - sigma.classes.graph.js : 728", 'state': 'closed', 'created_at': '2015-09-28T03:04:29Z', 'closed_at': '2021-10-23T17:54:05Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 650, 'title': 'Does sigma.js provide layout algorithms?', 'state': 'closed', 'created_at': '2015-09-15T13:14:03Z', 'closed_at': '2015-09-17T07:53:18Z', 'labels': []}
+{'issuenumber': 649, 'title': 'Gwt/Errai, graph not displaying', 'state': 'closed', 'created_at': '2015-09-15T09:47:10Z', 'closed_at': '2021-10-25T09:26:55Z', 'labels': []}
+{'issuenumber': 648, 'title': 'Shortest Path', 'state': 'closed', 'created_at': '2015-09-14T02:42:56Z', 'closed_at': '2021-10-24T09:25:59Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 647, 'title': 'stopping restarting after refresh error.', 'state': 'closed', 'created_at': '2015-09-07T21:43:44Z', 'closed_at': '2015-09-08T13:54:47Z', 'labels': []}
+{'issuenumber': 646, 'title': 'automatically decide on the best position', 'state': 'closed', 'created_at': '2015-09-06T20:07:00Z', 'closed_at': '2021-10-24T03:19:48Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 645, 'title': '  Is it possible to visible display the direction of an edge (eg with an arrow, or a colour gradient)?', 'state': 'closed', 'created_at': '2015-08-27T14:56:09Z', 'closed_at': '2021-10-24T03:19:48Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 644, 'title': 'How to add a retangle including some nodes by sigma.js', 'state': 'closed', 'created_at': '2015-08-25T07:48:11Z', 'closed_at': '2021-10-24T03:19:47Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 643, 'title': 'Some troubles with webpack', 'state': 'closed', 'created_at': '2015-08-21T13:51:45Z', 'closed_at': '2016-11-03T09:58:34Z', 'labels': []}
+{'issuenumber': 642, 'title': 'Firefox performance with batchEdgesDrawing enabled when using canvas renderer', 'state': 'closed', 'created_at': '2015-08-14T15:32:51Z', 'closed_at': '2015-08-14T16:29:40Z', 'labels': []}
+{'issuenumber': 641, 'title': 'Including Node and Edge Tooltips together.', 'state': 'closed', 'created_at': '2015-08-13T14:05:14Z', 'closed_at': '2021-10-24T03:19:47Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 640, 'title': 'How to hover edges manually', 'state': 'closed', 'created_at': '2015-08-13T09:32:02Z', 'closed_at': '2021-10-25T09:45:53Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 638, 'title': 'Get the source and target on edge click.', 'state': 'closed', 'created_at': '2015-08-11T06:16:51Z', 'closed_at': '2015-08-13T07:44:43Z', 'labels': []}
+{'issuenumber': 637, 'title': "Anyways to use ForceAtlas layout without using Sigma's rendering utilities?", 'state': 'closed', 'created_at': '2015-08-10T21:48:33Z', 'closed_at': '2015-08-11T16:59:14Z', 'labels': []}
+{'issuenumber': 636, 'title': 'Mouse coordinates on clickEdge', 'state': 'closed', 'created_at': '2015-08-10T10:10:26Z', 'closed_at': '2015-08-13T07:44:36Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 635, 'title': 'Overlay on a Node in Sigma JS', 'state': 'closed', 'created_at': '2015-08-06T06:19:01Z', 'closed_at': '2021-10-24T03:19:41Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 634, 'title': 'Jagged nodes when setting minEdgeSize/maxEdgeSize', 'state': 'closed', 'created_at': '2015-08-04T11:59:18Z', 'closed_at': '2015-08-19T17:34:29Z', 'labels': []}
+{'issuenumber': 633, 'title': 'doubleclicknode fires clicknode too', 'state': 'closed', 'created_at': '2015-08-02T18:18:47Z', 'closed_at': '2021-10-24T03:19:42Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 631, 'title': 'Graph Container >2000px on Chrome', 'state': 'closed', 'created_at': '2015-07-28T13:06:48Z', 'closed_at': '2021-10-24T03:19:40Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 630, 'title': "Hover doesn't work on parallel edges", 'state': 'closed', 'created_at': '2015-07-28T11:15:19Z', 'closed_at': '2021-10-23T17:54:10Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 629, 'title': 'Cannot render curvedarrow edge.', 'state': 'closed', 'created_at': '2015-07-27T16:57:47Z', 'closed_at': '2015-07-28T07:16:39Z', 'labels': []}
+{'issuenumber': 628, 'title': "Listing a node's neighbors along with the respective edge weights in an information pane?", 'state': 'closed', 'created_at': '2015-07-27T05:04:02Z', 'closed_at': '2021-10-23T23:27:31Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 627, 'title': 'collapse nodes in d3.js', 'state': 'closed', 'created_at': '2015-07-24T04:57:02Z', 'closed_at': '2021-10-24T03:19:39Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 626, 'title': 'Edge Settings not Respected Until Resize when Parsing from Gexf', 'state': 'closed', 'created_at': '2015-07-23T14:39:20Z', 'closed_at': '2015-07-23T17:37:43Z', 'labels': []}
+{'issuenumber': 623, 'title': 'Enable edge events', 'state': 'closed', 'created_at': '2015-07-19T04:20:38Z', 'closed_at': '2015-07-20T17:13:37Z', 'labels': []}
+{'issuenumber': 622, 'title': 'max Edge size is ignored', 'state': 'closed', 'created_at': '2015-07-18T00:35:19Z', 'closed_at': '2021-10-24T03:19:37Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 620, 'title': 'drag vs click events', 'state': 'closed', 'created_at': '2015-07-17T11:49:16Z', 'closed_at': '2016-08-09T07:48:34Z', 'labels': []}
+{'issuenumber': 619, 'title': 'SVG Export failing in IE11', 'state': 'closed', 'created_at': '2015-07-17T09:41:10Z', 'closed_at': '2021-10-24T03:19:38Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 618, 'title': 'navigation buttons', 'state': 'closed', 'created_at': '2015-07-16T16:28:14Z', 'closed_at': '2021-10-24T03:19:36Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 617, 'title': 'individual node style', 'state': 'closed', 'created_at': '2015-07-16T00:46:02Z', 'closed_at': '2021-10-24T03:19:34Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 615, 'title': 'examples/svg-export.html broken', 'state': 'closed', 'created_at': '2015-07-14T18:08:53Z', 'closed_at': '2021-10-24T03:19:35Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 614, 'title': 'logic OR operator in code', 'state': 'closed', 'created_at': '2015-07-14T06:42:09Z', 'closed_at': '2021-10-24T02:20:03Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 613, 'title': 'ForceAtlas2 - node spacing', 'state': 'closed', 'created_at': '2015-07-14T04:25:28Z', 'closed_at': '2021-10-24T07:47:40Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 611, 'title': 'What is the best way to determine whether or not a node is hidden at any given time?', 'state': 'closed', 'created_at': '2015-07-13T07:25:45Z', 'closed_at': '2015-07-13T22:44:37Z', 'labels': []}
+{'issuenumber': 609, 'title': 'Edge Arrow Status?', 'state': 'closed', 'created_at': '2015-07-08T23:24:36Z', 'closed_at': '2015-07-09T15:47:36Z', 'labels': []}
+{'issuenumber': 608, 'title': '“SAH” in code comment, what does it mean?', 'state': 'closed', 'created_at': '2015-07-08T06:23:02Z', 'closed_at': '2016-08-06T14:39:38Z', 'labels': []}
+{'issuenumber': 607, 'title': 'Is there a way to change edge color using the addEdge method? If so, can someone give an example.', 'state': 'closed', 'created_at': '2015-07-07T21:28:48Z', 'closed_at': '2021-10-24T02:20:02Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 605, 'title': "TypeError: undefined is not an object (evaluating 's.id')", 'state': 'closed', 'created_at': '2015-07-06T22:44:55Z', 'closed_at': '2021-10-24T02:20:01Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 604, 'title': 'NPM package has broken code', 'state': 'closed', 'created_at': '2015-07-04T07:09:49Z', 'closed_at': '2021-10-24T03:19:50Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 603, 'title': 's.refresh() functionality?', 'state': 'closed', 'created_at': '2015-07-02T16:42:32Z', 'closed_at': '2016-05-23T21:59:13Z', 'labels': []}
+{'issuenumber': 601, 'title': 'Searching nodes by label?', 'state': 'closed', 'created_at': '2015-07-01T07:18:52Z', 'closed_at': '2015-07-27T09:39:54Z', 'labels': []}
+{'issuenumber': 600, 'title': 'Time Evolution of a Graph', 'state': 'closed', 'created_at': '2015-06-29T16:23:38Z', 'closed_at': '2021-10-24T02:20:00Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 599, 'title': 'Show the attributes of a node on click?', 'state': 'closed', 'created_at': '2015-06-28T23:05:46Z', 'closed_at': '2015-06-29T06:17:18Z', 'labels': []}
+{'issuenumber': 598, 'title': 'Hover event called again when refreshing the graph', 'state': 'closed', 'created_at': '2015-06-26T08:50:29Z', 'closed_at': '2021-10-23T17:54:14Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 597, 'title': 'label alignment on single node', 'state': 'closed', 'created_at': '2015-06-25T01:13:11Z', 'closed_at': '2021-10-24T03:19:56Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 593, 'title': 'position jump to bring graph fully into view', 'state': 'closed', 'created_at': '2015-06-18T23:50:35Z', 'closed_at': '2021-10-24T02:19:57Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 590, 'title': 'Create a Gitter channel? (or similar slack/irc/whatever chat system?)', 'state': 'closed', 'created_at': '2015-06-16T22:23:29Z', 'closed_at': '2021-10-24T02:19:56Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 589, 'title': "Missing setting 'defaultLabelType'  to use custom label renderers", 'state': 'closed', 'created_at': '2015-06-16T14:46:36Z', 'closed_at': '2021-10-24T02:19:53Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 588, 'title': 'Add an option to show labels below nodes instead of on the right side', 'state': 'closed', 'created_at': '2015-06-11T10:38:38Z', 'closed_at': '2021-10-23T15:32:03Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 587, 'title': 'Attempting to use FA2 from a graph imported from JSON', 'state': 'closed', 'created_at': '2015-06-11T09:39:39Z', 'closed_at': '2021-10-24T02:19:51Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 586, 'title': 'Grouping nodes', 'state': 'closed', 'created_at': '2015-06-10T04:00:24Z', 'closed_at': '2015-06-10T15:33:07Z', 'labels': []}
+{'issuenumber': 584, 'title': 'Stop depending on global scope', 'state': 'closed', 'created_at': '2015-06-09T11:53:48Z', 'closed_at': '2021-10-25T09:27:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 583, 'title': 'GEXF Parser does not pass the proper keys for attributes', 'state': 'closed', 'created_at': '2015-06-03T14:36:07Z', 'closed_at': '2021-10-23T17:54:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 582, 'title': 'Improve horrible documentation', 'state': 'closed', 'created_at': '2015-06-02T05:42:08Z', 'closed_at': '2021-10-24T02:19:48Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 581, 'title': 'How to set sigma settings for the sigma GEXF parser?', 'state': 'closed', 'created_at': '2015-05-30T20:02:01Z', 'closed_at': '2021-10-24T09:25:35Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 580, 'title': 'Curly and wave-like edge types?', 'state': 'closed', 'created_at': '2015-05-29T16:20:39Z', 'closed_at': '2015-06-16T18:46:50Z', 'labels': []}
+{'issuenumber': 579, 'title': 'node highlighting effect', 'state': 'closed', 'created_at': '2015-05-28T22:11:18Z', 'closed_at': '2021-10-24T02:19:58Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 578, 'title': 'Trying to get the example on your main page to work.', 'state': 'closed', 'created_at': '2015-05-26T18:51:38Z', 'closed_at': '2021-10-24T02:19:46Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 576, 'title': 'Zoom-independent node sizes / Google Map-like decorators', 'state': 'closed', 'created_at': '2015-05-20T16:27:16Z', 'closed_at': '2021-10-24T02:19:49Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 575, 'title': 'Edge color in svg graphs', 'state': 'closed', 'created_at': '2015-05-20T07:32:52Z', 'closed_at': '2016-03-01T17:42:11Z', 'labels': []}
+{'issuenumber': 574, 'title': 'Limiting the range of panning with the camera?', 'state': 'closed', 'created_at': '2015-05-16T23:19:55Z', 'closed_at': '2015-05-16T23:56:36Z', 'labels': []}
+{'issuenumber': 572, 'title': 'Gephi plugin question', 'state': 'closed', 'created_at': '2015-05-15T15:19:14Z', 'closed_at': '2021-10-24T02:19:43Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 571, 'title': '"Knowledge Graph" with Sigma.js', 'state': 'closed', 'created_at': '2015-05-12T21:11:28Z', 'closed_at': '2021-10-23T23:27:51Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 570, 'title': 'node ellipsis shaped', 'state': 'closed', 'created_at': '2015-05-12T09:48:53Z', 'closed_at': '2021-10-24T02:19:41Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 569, 'title': 'Edges in canvas mode severally affect navigation even with edge drawing off', 'state': 'closed', 'created_at': '2015-05-11T19:42:33Z', 'closed_at': '2021-10-24T02:19:42Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 567, 'title': 'Performance optimization ', 'state': 'closed', 'created_at': '2015-05-06T20:06:07Z', 'closed_at': '2015-05-11T19:45:08Z', 'labels': []}
+{'issuenumber': 566, 'title': 'Control Points for edges', 'state': 'closed', 'created_at': '2015-05-06T07:14:37Z', 'closed_at': '2015-05-15T08:22:38Z', 'labels': []}
+{'issuenumber': 565, 'title': 'Drag nodes not working after double click', 'state': 'closed', 'created_at': '2015-05-06T02:17:45Z', 'closed_at': '2021-10-23T14:32:04Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 564, 'title': 'is it possible to change label color dynamically?', 'state': 'closed', 'created_at': '2015-05-05T08:06:39Z', 'closed_at': '2015-05-05T10:20:17Z', 'labels': []}
+{'issuenumber': 563, 'title': 'label inside node', 'state': 'closed', 'created_at': '2015-05-04T13:57:43Z', 'closed_at': '2015-05-30T00:14:58Z', 'labels': []}
+{'issuenumber': 562, 'title': 'edge orientation', 'state': 'closed', 'created_at': '2015-05-04T13:07:04Z', 'closed_at': '2015-05-09T22:37:05Z', 'labels': []}
+{'issuenumber': 561, 'title': 'Catch Zoom event to update background CSS', 'state': 'closed', 'created_at': '2015-05-04T03:37:35Z', 'closed_at': '2021-10-23T23:27:43Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 559, 'title': 'canvas vs svg', 'state': 'closed', 'created_at': '2015-04-29T23:05:45Z', 'closed_at': '2021-10-24T02:19:40Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 555, 'title': 'CSS border on container breaks panning / dragging', 'state': 'closed', 'created_at': '2015-04-25T01:00:39Z', 'closed_at': '2021-10-24T02:19:37Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 552, 'title': "dragging same node twice in a row doesn't work when first drag moves less than node's size", 'state': 'closed', 'created_at': '2015-04-23T23:24:58Z', 'closed_at': '2021-10-24T02:19:36Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 551, 'title': 'dragNodes mishandles offset within node, first drag event causes discontinuous jump', 'state': 'closed', 'created_at': '2015-04-23T22:51:17Z', 'closed_at': '2021-10-24T02:19:35Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 548, 'title': "Clarify relationship between nodes' x, y, and size properties, initial zoom level", 'state': 'closed', 'created_at': '2015-04-23T21:20:44Z', 'closed_at': '2021-10-24T02:19:54Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 547, 'title': 'Document or remove `renderer.resize(false)` usage', 'state': 'closed', 'created_at': '2015-04-23T19:16:57Z', 'closed_at': '2021-10-24T02:19:38Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 544, 'title': 'Curved Arrow graphs are broken when using parsers.gexf()', 'state': 'closed', 'created_at': '2015-04-16T22:21:33Z', 'closed_at': '2015-04-17T08:23:29Z', 'labels': []}
+{'issuenumber': 543, 'title': 'Edge hovering slows down clickNode event', 'state': 'closed', 'created_at': '2015-04-16T21:04:20Z', 'closed_at': '2015-04-21T13:06:47Z', 'labels': []}
+{'issuenumber': 542, 'title': 'ForceAtlas has an error after adding/removing nodes', 'state': 'closed', 'created_at': '2015-04-16T08:25:40Z', 'closed_at': '2015-04-17T01:35:27Z', 'labels': []}
+{'issuenumber': 541, 'title': 'extra properties in json', 'state': 'closed', 'created_at': '2015-04-15T05:56:41Z', 'closed_at': '2015-04-15T06:09:54Z', 'labels': []}
+{'issuenumber': 540, 'title': 'problem on forcelayout2 when add new Nodes and edges  to existing graph', 'state': 'closed', 'created_at': '2015-04-13T19:19:34Z', 'closed_at': '2021-10-24T07:47:28Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 538, 'title': 'Sigma container resizing', 'state': 'closed', 'created_at': '2015-04-08T15:02:59Z', 'closed_at': '2021-10-23T22:27:29Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 535, 'title': "use throw new Error('msg') instead of throw 'msg' ", 'state': 'closed', 'created_at': '2015-04-06T09:14:33Z', 'closed_at': '2021-10-24T07:47:27Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 534, 'title': 'cannot get dragNodes to work [using parsers.json and forceAtlas2]', 'state': 'closed', 'created_at': '2015-04-03T14:31:46Z', 'closed_at': '2021-10-24T02:19:52Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 533, 'title': 'Adding edge labels to JSON parser', 'state': 'closed', 'created_at': '2015-03-26T20:36:04Z', 'closed_at': '2015-03-27T14:07:10Z', 'labels': []}
+{'issuenumber': 532, 'title': 'Listener for Mousewheel Zoom In/Zoom Out?', 'state': 'closed', 'created_at': '2015-03-25T05:53:59Z', 'closed_at': '2018-07-05T20:31:36Z', 'labels': []}
+{'issuenumber': 531, 'title': 'Bug with resizing', 'state': 'closed', 'created_at': '2015-03-24T16:03:13Z', 'closed_at': '2021-10-24T07:47:26Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 530, 'title': "How does the 'prefix' work in a canvas renderer?", 'state': 'closed', 'created_at': '2015-03-18T08:17:07Z', 'closed_at': '2015-05-06T15:29:10Z', 'labels': []}
+{'issuenumber': 529, 'title': 'Add a settings to customize the captors animation easings.', 'state': 'closed', 'created_at': '2015-03-16T10:23:39Z', 'closed_at': '2021-10-25T09:39:29Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 526, 'title': 'Persistent label with hyperlink', 'state': 'closed', 'created_at': '2015-03-11T15:08:55Z', 'closed_at': '2021-10-24T07:47:22Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 525, 'title': "Constructor's polymorphism bug", 'state': 'closed', 'created_at': '2015-03-10T12:57:03Z', 'closed_at': '2021-10-24T07:47:21Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 524, 'title': 'Could we zoom multi level layout with sigma js', 'state': 'closed', 'created_at': '2015-03-10T02:57:37Z', 'closed_at': '2021-10-24T07:47:24Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 522, 'title': 'Browser Incompatibility and Debugging Failures with No Exceptions', 'state': 'closed', 'created_at': '2015-02-26T05:02:23Z', 'closed_at': '2015-02-27T01:17:37Z', 'labels': []}
+{'issuenumber': 521, 'title': 'forcelayout2 does not work good after addNode', 'state': 'closed', 'created_at': '2015-02-22T18:55:34Z', 'closed_at': '2021-10-24T07:47:20Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 520, 'title': 'Using sigma.parseGexf.js or sigma.parsers.gexf.min.js', 'state': 'closed', 'created_at': '2015-02-05T22:20:47Z', 'closed_at': '2015-03-13T22:17:15Z', 'labels': []}
+{'issuenumber': 519, 'title': 'FA2 in IE9 implementation', 'state': 'closed', 'created_at': '2015-02-04T14:02:52Z', 'closed_at': '2021-10-24T07:47:18Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 517, 'title': 'How to plug a plugin in my own page?', 'state': 'closed', 'created_at': '2015-02-03T17:58:38Z', 'closed_at': '2021-10-24T07:47:17Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 516, 'title': 'how can I drag and select multiple nodes together ? ', 'state': 'closed', 'created_at': '2015-02-03T13:33:42Z', 'closed_at': '2021-10-24T02:19:39Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 515, 'title': 'Figure out absence of rendering properties on node on edge cases.', 'state': 'closed', 'created_at': '2015-02-02T21:43:27Z', 'closed_at': '2021-10-24T07:47:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 514, 'title': 'Add FA2 option to stop after N iterations ?', 'state': 'closed', 'created_at': '2015-02-02T21:22:14Z', 'closed_at': '2021-10-24T07:47:16Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 512, 'title': 'Lack of edge events', 'state': 'closed', 'created_at': '2015-02-02T00:24:16Z', 'closed_at': '2021-10-24T02:19:55Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 511, 'title': 'Cleanup some lines in FA2', 'state': 'closed', 'created_at': '2015-01-31T18:39:52Z', 'closed_at': '2015-02-01T12:25:08Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 510, 'title': 'FA2 sendNewCoords not working in IE cause of new Event not supported', 'state': 'closed', 'created_at': '2015-01-29T22:03:01Z', 'closed_at': '2015-02-03T13:58:24Z', 'labels': []}
+{'issuenumber': 506, 'title': 'doubleClickNode also fires clickNode', 'state': 'closed', 'created_at': '2015-01-28T13:11:00Z', 'closed_at': '2021-10-25T09:38:51Z', 'labels': []}
+{'issuenumber': 504, 'title': 'FA2 layout not reflecting graph changes', 'state': 'closed', 'created_at': '2015-01-27T17:47:44Z', 'closed_at': '2021-10-24T07:47:19Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 501, 'title': 'A* plugin', 'state': 'closed', 'created_at': '2015-01-26T13:44:14Z', 'closed_at': '2015-01-30T09:39:55Z', 'labels': []}
+{'issuenumber': 500, 'title': 'Bug with a basic test on node colors', 'state': 'closed', 'created_at': '2015-01-24T21:45:13Z', 'closed_at': '2021-10-24T07:47:16Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 496, 'title': 'Custom hover plugin hook', 'state': 'closed', 'created_at': '2015-01-16T00:48:50Z', 'closed_at': '2015-02-11T14:58:23Z', 'labels': []}
+{'issuenumber': 495, 'title': 'labelThreshold question', 'state': 'closed', 'created_at': '2015-01-15T18:16:33Z', 'closed_at': '2021-10-24T07:47:12Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 493, 'title': 'hide labels', 'state': 'closed', 'created_at': '2015-01-12T07:01:03Z', 'closed_at': '2021-10-24T07:47:10Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 491, 'title': 'Scene background-color option', 'state': 'closed', 'created_at': '2015-01-05T17:21:35Z', 'closed_at': '2015-01-05T17:38:06Z', 'labels': []}
+{'issuenumber': 490, 'title': 'Create example of updating data in an already instantiated sigma display', 'state': 'closed', 'created_at': '2015-01-04T17:31:09Z', 'closed_at': '2015-01-06T10:08:06Z', 'labels': []}
+{'issuenumber': 489, 'title': "Sigma doesn't render until browser window has been resized.", 'state': 'closed', 'created_at': '2014-12-30T05:00:11Z', 'closed_at': '2015-09-07T10:55:37Z', 'labels': []}
+{'issuenumber': 487, 'title': 'sigma.exporters.svg is not strict-compliant', 'state': 'closed', 'created_at': '2014-12-22T11:42:46Z', 'closed_at': '2014-12-22T12:13:25Z', 'labels': []}
+{'issuenumber': 486, 'title': 'sigma.exporters.svg: exception if node.hidden is true', 'state': 'closed', 'created_at': '2014-12-21T20:44:10Z', 'closed_at': '2014-12-21T23:49:02Z', 'labels': []}
+{'issuenumber': 484, 'title': 'Export shim failing in browserify', 'state': 'closed', 'created_at': '2014-12-18T18:15:37Z', 'closed_at': '2021-10-23T23:27:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 483, 'title': 'Bug in sigma.exporters.svg: colors are not exported correctly', 'state': 'closed', 'created_at': '2014-12-18T10:33:00Z', 'closed_at': '2014-12-18T18:00:11Z', 'labels': []}
+{'issuenumber': 482, 'title': 'No labels on edges after loading from json', 'state': 'closed', 'created_at': '2014-12-18T05:22:53Z', 'closed_at': '2021-10-23T21:27:30Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 480, 'title': 'How to manipulate the graph after loading from JSON', 'state': 'closed', 'created_at': '2014-12-15T21:22:32Z', 'closed_at': '2021-10-24T07:47:29Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 479, 'title': 'hover label settings', 'state': 'closed', 'created_at': '2014-12-13T04:18:22Z', 'closed_at': '2021-10-24T05:47:42Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 478, 'title': 'drag node with zoom in and out', 'state': 'closed', 'created_at': '2014-12-12T16:58:24Z', 'closed_at': '2021-10-24T05:47:41Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 477, 'title': 'node border', 'state': 'closed', 'created_at': '2014-12-12T16:45:11Z', 'closed_at': '2021-10-24T05:47:43Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 476, 'title': 'webgl drag operation', 'state': 'closed', 'created_at': '2014-12-12T16:42:03Z', 'closed_at': '2021-10-24T05:47:40Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 475, 'title': 'Edge opacity', 'state': 'closed', 'created_at': '2014-12-12T16:40:14Z', 'closed_at': '2021-10-23T23:27:39Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 474, 'title': 'SVG: drop shadow for hovered areas', 'state': 'closed', 'created_at': '2014-12-12T04:53:47Z', 'closed_at': '2021-10-24T05:47:38Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 473, 'title': 'SVG: Custome shape and image support', 'state': 'closed', 'created_at': '2014-12-12T04:52:06Z', 'closed_at': '2021-10-24T05:47:39Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 470, 'title': 'dispatch event click node event', 'state': 'closed', 'created_at': '2014-12-09T04:38:18Z', 'closed_at': '2021-10-24T02:19:47Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 466, 'title': 'Edges added with addEdge will not hover', 'state': 'closed', 'created_at': '2014-12-08T17:44:50Z', 'closed_at': '2015-04-28T16:37:42Z', 'labels': []}
+{'issuenumber': 461, 'title': 'svg renderer does not create edge labels', 'state': 'closed', 'created_at': '2014-12-05T21:34:10Z', 'closed_at': '2021-10-25T09:38:15Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 460, 'title': 'Label position configuration', 'state': 'closed', 'created_at': '2014-12-05T21:33:10Z', 'closed_at': '2014-12-08T17:27:02Z', 'labels': []}
+{'issuenumber': 450, 'title': 'Add examples to sigmajs.org website', 'state': 'closed', 'created_at': '2014-11-30T22:41:23Z', 'closed_at': '2015-10-23T03:03:50Z', 'labels': []}
+{'issuenumber': 449, 'title': 'How to display the hover display of a node without hovering?', 'state': 'closed', 'created_at': '2014-11-30T13:57:15Z', 'closed_at': '2021-10-24T04:47:37Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 448, 'title': 'Trigger hover and label', 'state': 'closed', 'created_at': '2014-11-28T14:49:36Z', 'closed_at': '2021-10-25T09:37:35Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 447, 'title': 'Possibility to assign entityTypes', 'state': 'closed', 'created_at': '2014-11-28T14:48:47Z', 'closed_at': '2021-10-25T09:36:14Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 446, 'title': 'defaultNodeType is not taken into account when hover fetches the node renderer', 'state': 'closed', 'created_at': '2014-11-20T23:20:14Z', 'closed_at': '2021-10-24T04:47:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 445, 'title': 'configurable object for settings in sigma constructor', 'state': 'closed', 'created_at': '2014-11-17T18:38:03Z', 'closed_at': '2021-10-23T21:27:46Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 444, 'title': 'Drag select multiple nodes', 'state': 'closed', 'created_at': '2014-11-14T22:30:02Z', 'closed_at': '2021-10-24T04:47:32Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 443, 'title': 'examples/data/geolocalized.json does not work', 'state': 'closed', 'created_at': '2014-11-13T22:33:02Z', 'closed_at': '2021-10-24T05:47:37Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 441, 'title': 'How to filter nodes that are have lost their edge', 'state': 'closed', 'created_at': '2014-11-13T19:51:58Z', 'closed_at': '2021-10-23T19:54:21Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 440, 'title': 'Overlapping nodes / node stack bugs in drag nodes plugin', 'state': 'closed', 'created_at': '2014-11-13T10:34:46Z', 'closed_at': '2021-10-24T04:47:36Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 439, 'title': 'bower.json ', 'state': 'closed', 'created_at': '2014-11-12T23:30:23Z', 'closed_at': '2021-10-25T08:26:20Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 438, 'title': 'Events list wiki page', 'state': 'closed', 'created_at': '2014-11-12T23:17:37Z', 'closed_at': '2020-09-30T22:44:03Z', 'labels': []}
+{'issuenumber': 437, 'title': 'Svg renderer support', 'state': 'closed', 'created_at': '2014-11-09T03:10:18Z', 'closed_at': '2021-10-24T05:47:39Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 436, 'title': 'Graph not included in its container', 'state': 'closed', 'created_at': '2014-11-07T13:12:48Z', 'closed_at': '2021-10-24T04:47:34Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 435, 'title': 'zoomIn zoomOut events?', 'state': 'closed', 'created_at': '2014-11-06T00:35:33Z', 'closed_at': '2021-10-24T07:47:41Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 434, 'title': 'mouse coordinates on clickNode', 'state': 'closed', 'created_at': '2014-11-05T14:24:43Z', 'closed_at': '2014-11-06T00:33:24Z', 'labels': []}
+{'issuenumber': 433, 'title': 'No hovering or graph disappears when nodes are on the same axis', 'state': 'closed', 'created_at': '2014-11-03T12:28:18Z', 'closed_at': '2021-10-24T04:47:31Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 429, 'title': 'namespace guideline proposal for plugins', 'state': 'closed', 'created_at': '2014-10-30T09:54:03Z', 'closed_at': '2021-10-24T04:47:30Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 428, 'title': 'rendering webgl', 'state': 'closed', 'created_at': '2014-10-21T12:37:57Z', 'closed_at': '2021-10-24T07:47:23Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 427, 'title': 'How to make labels always visible?', 'state': 'closed', 'created_at': '2014-10-21T09:25:12Z', 'closed_at': '2014-10-21T21:43:35Z', 'labels': []}
+{'issuenumber': 426, 'title': 'Error Undefined is not a Function while using startForceAtlas2', 'state': 'closed', 'created_at': '2014-10-20T15:58:49Z', 'closed_at': '2014-10-20T16:46:16Z', 'labels': []}
+{'issuenumber': 425, 'title': 'Border on non-hover nodes?', 'state': 'closed', 'created_at': '2014-10-19T10:29:31Z', 'closed_at': '2014-11-26T10:26:56Z', 'labels': []}
+{'issuenumber': 424, 'title': 'Missing setting defaultNodeSize', 'state': 'closed', 'created_at': '2014-10-15T16:07:36Z', 'closed_at': '2021-10-24T07:47:13Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 423, 'title': 'Drag node issue', 'state': 'closed', 'created_at': '2014-10-14T00:55:18Z', 'closed_at': '2021-10-24T04:47:29Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 422, 'title': "Newbie question: Why won't this script draw", 'state': 'closed', 'created_at': '2014-10-11T13:04:13Z', 'closed_at': '2014-10-11T13:16:08Z', 'labels': []}
+{'issuenumber': 417, 'title': 'Quick touchmove on graph makes it unresponsive to touch', 'state': 'closed', 'created_at': '2014-10-10T12:02:36Z', 'closed_at': '2021-10-24T04:47:27Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 416, 'title': 'rescale ', 'state': 'closed', 'created_at': '2014-10-10T10:48:44Z', 'closed_at': '2016-05-06T19:30:17Z', 'labels': []}
+{'issuenumber': 415, 'title': 'Multitouch testing with gremlins.js throws non-fatal errors', 'state': 'closed', 'created_at': '2014-10-09T15:19:16Z', 'closed_at': '2021-10-24T04:47:25Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 414, 'title': 'Inactive zoomMin and zoomMax on touch screens.', 'state': 'closed', 'created_at': '2014-10-09T10:16:52Z', 'closed_at': '2021-10-24T04:47:26Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 413, 'title': "How to change the label's position?", 'state': 'closed', 'created_at': '2014-10-08T23:32:23Z', 'closed_at': '2019-09-24T01:42:28Z', 'labels': []}
+{'issuenumber': 411, 'title': "Drag nodes in scrollable page doesn't work properly.", 'state': 'closed', 'created_at': '2014-10-08T17:27:58Z', 'closed_at': '2014-10-09T07:23:15Z', 'labels': []}
+{'issuenumber': 409, 'title': 'Neighborhoods plugin example broken', 'state': 'closed', 'created_at': '2014-10-07T07:15:32Z', 'closed_at': '2014-10-07T08:27:22Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 408, 'title': 'Filter plugin fails with multiple instances of sigma', 'state': 'closed', 'created_at': '2014-10-06T17:13:50Z', 'closed_at': '2021-10-24T02:19:59Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 405, 'title': 'disable zoom with mouse wheel', 'state': 'closed', 'created_at': '2014-10-02T10:10:40Z', 'closed_at': '2014-10-07T12:50:02Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 404, 'title': "Copy-paste error in sigma.classes.graph.js, graph.addMethod('addEdge', function(edge) ", 'state': 'closed', 'created_at': '2014-10-01T14:49:42Z', 'closed_at': '2014-10-01T15:08:39Z', 'labels': []}
+{'issuenumber': 403, 'title': 'addRenderer polymorphism', 'state': 'closed', 'created_at': '2014-09-26T09:50:46Z', 'closed_at': '2014-09-28T16:40:06Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 402, 'title': 'Setting "autoRescale: false" prevents graph from drawing', 'state': 'closed', 'created_at': '2014-09-22T17:29:33Z', 'closed_at': '2014-09-22T17:34:32Z', 'labels': []}
+{'issuenumber': 401, 'title': 'Setting "autoRescale: false" prevents graph from drawing', 'state': 'closed', 'created_at': '2014-09-22T17:16:37Z', 'closed_at': '2014-09-25T15:42:45Z', 'labels': []}
+{'issuenumber': 400, 'title': 'Sigma.js filter plugin not working', 'state': 'closed', 'created_at': '2014-09-22T15:54:55Z', 'closed_at': '2014-09-29T07:57:20Z', 'labels': []}
+{'issuenumber': 399, 'title': 'how to use renderer sigma.canvas.edges.arrow ', 'state': 'closed', 'created_at': '2014-09-21T09:39:18Z', 'closed_at': '2021-10-24T04:47:38Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 398, 'title': 'show edge direction is missing and label on edge from the last version 1.0.3.  ', 'state': 'closed', 'created_at': '2014-09-21T08:07:18Z', 'closed_at': '2021-10-24T04:47:23Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 397, 'title': 'Add option to refresh() to disable quadtree indexing', 'state': 'closed', 'created_at': '2014-09-19T08:48:00Z', 'closed_at': '2014-10-07T13:51:57Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 396, 'title': 'Loading sigma.js and plugins using amd', 'state': 'closed', 'created_at': '2014-09-17T18:02:39Z', 'closed_at': '2021-10-24T02:19:44Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 395, 'title': '[error handling] wrong coordinates', 'state': 'closed', 'created_at': '2014-09-16T20:36:43Z', 'closed_at': '2021-10-24T04:47:14Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 394, 'title': 'is it possible to label an edge in sigma js?', 'state': 'closed', 'created_at': '2014-09-14T18:23:51Z', 'closed_at': '2014-11-20T16:18:40Z', 'labels': []}
+{'issuenumber': 393, 'title': 'If all nodes have same ID, graph does not display. no error message', 'state': 'closed', 'created_at': '2014-09-14T15:06:17Z', 'closed_at': '2021-10-24T04:47:22Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 392, 'title': '"Miss a drag as we are waiting for WebCore\'s response for touch down"', 'state': 'closed', 'created_at': '2014-09-12T10:54:12Z', 'closed_at': '2021-10-24T04:47:15Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 391, 'title': 'change graph size', 'state': 'closed', 'created_at': '2014-09-12T00:58:32Z', 'closed_at': '2014-09-28T16:42:38Z', 'labels': []}
+{'issuenumber': 390, 'title': 'edit settings after initialization', 'state': 'closed', 'created_at': '2014-09-09T19:56:16Z', 'closed_at': '2014-09-25T16:16:12Z', 'labels': []}
+{'issuenumber': 389, 'title': 'Any interest in Web Components?', 'state': 'closed', 'created_at': '2014-09-08T17:35:55Z', 'closed_at': '2021-10-24T04:47:18Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 388, 'title': 'autoRescale and maxNodeSize', 'state': 'closed', 'created_at': '2014-09-06T21:17:10Z', 'closed_at': '2021-10-24T04:47:10Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 387, 'title': 'Only display node labels on hover?', 'state': 'closed', 'created_at': '2014-09-04T14:49:22Z', 'closed_at': '2021-10-23T17:54:27Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 385, 'title': 'Is there any way that I can adjust "force" between nodes?(ForceAtlas2)', 'state': 'closed', 'created_at': '2014-09-03T08:14:49Z', 'closed_at': '2021-10-24T04:47:11Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 383, 'title': 'JS files in plugin subdir are not minified', 'state': 'closed', 'created_at': '2014-09-01T17:16:57Z', 'closed_at': '2014-10-07T13:52:54Z', 'labels': []}
+{'issuenumber': 380, 'title': 'TypeError: sigma.utils.matrices is undefined sigma.min.js:2', 'state': 'closed', 'created_at': '2014-08-26T10:11:53Z', 'closed_at': '2021-10-24T04:47:19Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 379, 'title': 'Sigma on single-page apps: plugin destroyed automatically when sigma is killed?', 'state': 'closed', 'created_at': '2014-08-25T17:13:56Z', 'closed_at': '2014-10-01T12:27:17Z', 'labels': []}
+{'issuenumber': 378, 'title': 'Force Atlas 2 is acting really weird now...', 'state': 'closed', 'created_at': '2014-08-25T02:26:58Z', 'closed_at': '2021-10-24T03:19:55Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 377, 'title': "Graph is not rescaled to parent container's dimensions when refresh() is called.", 'state': 'closed', 'created_at': '2014-08-23T01:36:09Z', 'closed_at': '2014-10-10T16:14:36Z', 'labels': []}
+{'issuenumber': 376, 'title': 'Missing documentation on sigma lifecycle', 'state': 'closed', 'created_at': '2014-08-21T16:11:58Z', 'closed_at': '2021-10-25T09:36:32Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 375, 'title': "autoRescale: ['nodes.size', 'edges.size'] breaks settings", 'state': 'closed', 'created_at': '2014-08-17T18:12:13Z', 'closed_at': '2014-10-07T09:42:07Z', 'labels': []}
+{'issuenumber': 374, 'title': 'Fix to support gjslint on Windows', 'state': 'closed', 'created_at': '2014-08-16T13:21:36Z', 'closed_at': '2021-10-25T09:35:11Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 373, 'title': 'Nodes disappear on canvas if autoRescale: false', 'state': 'closed', 'created_at': '2014-08-15T15:59:00Z', 'closed_at': '2021-10-23T21:27:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 372, 'title': 'How to label from disappearing from selected node', 'state': 'closed', 'created_at': '2014-08-15T05:12:59Z', 'closed_at': '2021-10-24T04:47:21Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 371, 'title': 'Bug with hovers', 'state': 'closed', 'created_at': '2014-08-14T07:27:30Z', 'closed_at': '2014-09-25T15:02:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 370, 'title': 'Reading meta information from GEXF networks', 'state': 'closed', 'created_at': '2014-08-13T11:31:45Z', 'closed_at': '2014-08-17T19:38:57Z', 'labels': []}
+{'issuenumber': 368, 'title': 'Possibility to change the way the nodes/edges renderers are chosen', 'state': 'closed', 'created_at': '2014-08-11T14:16:42Z', 'closed_at': '2021-10-25T09:35:57Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 367, 'title': 'Hive plot layout', 'state': 'closed', 'created_at': '2014-08-10T07:08:58Z', 'closed_at': '2021-10-24T04:47:20Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 366, 'title': 'Collapsible nodes', 'state': 'closed', 'created_at': '2014-08-09T06:45:25Z', 'closed_at': '2021-10-23T23:27:59Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 365, 'title': 'Bug in plugin renderers-custom-edge-shapes', 'state': 'closed', 'created_at': '2014-08-07T14:01:27Z', 'closed_at': '2014-09-16T18:23:53Z', 'labels': []}
+{'issuenumber': 364, 'title': 'What is the benefit of the "immutable" option?', 'state': 'closed', 'created_at': '2014-08-07T12:41:10Z', 'closed_at': '2014-10-06T11:53:29Z', 'labels': []}
+{'issuenumber': 363, 'title': 'Displaying very long node labels?', 'state': 'closed', 'created_at': '2014-08-06T14:44:46Z', 'closed_at': '2016-04-25T17:04:47Z', 'labels': []}
+{'issuenumber': 362, 'title': 'Why node/edge id must be a string?', 'state': 'closed', 'created_at': '2014-08-04T14:09:29Z', 'closed_at': '2014-09-25T16:08:46Z', 'labels': []}
+{'issuenumber': 361, 'title': "node['read_cam0:x'] returns undefined", 'state': 'closed', 'created_at': '2014-08-04T10:16:16Z', 'closed_at': '2014-08-05T08:40:19Z', 'labels': []}
+{'issuenumber': 360, 'title': 'Save the graph in jpg', 'state': 'closed', 'created_at': '2014-08-01T18:30:27Z', 'closed_at': '2021-10-24T04:47:24Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 359, 'title': 'Arrows not showing up ', 'state': 'closed', 'created_at': '2014-07-30T03:42:18Z', 'closed_at': '2021-10-24T04:47:13Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 358, 'title': 'How to create and reuse a sigma instance to parse GEXF', 'state': 'closed', 'created_at': '2014-07-29T17:26:38Z', 'closed_at': '2014-10-10T16:01:19Z', 'labels': []}
+{'issuenumber': 354, 'title': 'Correct way to Export Graph in sigma to json', 'state': 'closed', 'created_at': '2014-07-28T01:28:24Z', 'closed_at': '2014-09-28T16:43:58Z', 'labels': []}
+{'issuenumber': 353, 'title': 'Clickable URLs for each node in information pane?', 'state': 'closed', 'created_at': '2014-07-22T22:09:54Z', 'closed_at': '2021-10-23T23:27:55Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 352, 'title': 'How to debug parsing of gexf file ', 'state': 'closed', 'created_at': '2014-07-22T15:04:01Z', 'closed_at': '2014-07-22T19:08:30Z', 'labels': []}
+{'issuenumber': 351, 'title': 'Sigma methods: showLabel and indexof', 'state': 'closed', 'created_at': '2014-07-22T08:33:12Z', 'closed_at': '2014-08-11T07:56:09Z', 'labels': []}
+{'issuenumber': 350, 'title': 'Parallel edges', 'state': 'closed', 'created_at': '2014-07-21T13:38:41Z', 'closed_at': '2014-07-22T13:05:54Z', 'labels': []}
+{'issuenumber': 349, 'title': "build doesn't generate the forceAtlas2 minified file", 'state': 'closed', 'created_at': '2014-07-19T14:32:20Z', 'closed_at': '2014-07-19T14:34:07Z', 'labels': []}
+{'issuenumber': 347, 'title': 'Add a polymorphism for autoRescale settings.', 'state': 'closed', 'created_at': '2014-07-17T15:01:20Z', 'closed_at': '2014-07-18T11:14:31Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 346, 'title': 'FA2 only one supervisor', 'state': 'closed', 'created_at': '2014-07-17T12:54:38Z', 'closed_at': '2014-07-18T09:06:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 345, 'title': 'FA2 add an option to disable webworker usage.', 'state': 'closed', 'created_at': '2014-07-17T08:44:03Z', 'closed_at': '2014-07-18T09:24:39Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 344, 'title': 'FA2 adjustsizes to take node size into account?', 'state': 'closed', 'created_at': '2014-07-16T17:20:23Z', 'closed_at': '2021-10-24T05:47:37Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 343, 'title': 'javascript louvain implementation', 'state': 'closed', 'created_at': '2014-07-15T23:43:23Z', 'closed_at': '2015-02-11T15:00:24Z', 'labels': []}
+{'issuenumber': 342, 'title': 'Possible to distinguish between clickStage and stage drag?', 'state': 'closed', 'created_at': '2014-07-15T18:39:40Z', 'closed_at': '2014-10-08T16:44:42Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 341, 'title': 'take a snapshot', 'state': 'closed', 'created_at': '2014-07-15T11:38:50Z', 'closed_at': '2014-09-26T08:57:30Z', 'labels': []}
+{'issuenumber': 340, 'title': "Graph model's memory usage", 'state': 'closed', 'created_at': '2014-07-14T17:35:34Z', 'closed_at': '2021-10-23T17:54:09Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 339, 'title': 'Understanding custom edge', 'state': 'closed', 'created_at': '2014-07-11T15:10:37Z', 'closed_at': '2021-10-24T04:47:16Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 338, 'title': 'Rescale node and edge size without rescaling the graph?', 'state': 'closed', 'created_at': '2014-07-11T14:32:25Z', 'closed_at': '2014-07-26T19:52:48Z', 'labels': []}
+{'issuenumber': 337, 'title': 'Drag nodes plugin that is compatible with WEBGL renderer?', 'state': 'closed', 'created_at': '2014-07-10T01:54:50Z', 'closed_at': '2021-10-23T19:54:05Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 336, 'title': 'Is it possible to render a graph without providing node positions?', 'state': 'closed', 'created_at': '2014-07-10T01:23:49Z', 'closed_at': '2021-10-23T19:54:20Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 335, 'title': 'Refactor indexes creation', 'state': 'closed', 'created_at': '2014-07-08T16:02:38Z', 'closed_at': '2021-10-25T09:34:04Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 334, 'title': "Node hover properties aren't in use ", 'state': 'closed', 'created_at': '2014-07-07T16:50:15Z', 'closed_at': '2021-10-24T05:47:48Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 333, 'title': 'Add a camera option not to create a quadtree', 'state': 'closed', 'created_at': '2014-07-05T13:31:45Z', 'closed_at': '2021-10-25T09:30:43Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 332, 'title': 'guidance on compiling FA2 and custom plugin', 'state': 'closed', 'created_at': '2014-07-05T06:19:47Z', 'closed_at': '2014-07-05T13:46:59Z', 'labels': []}
+{'issuenumber': 331, 'title': 'Add option autoRender for renderers.', 'state': 'closed', 'created_at': '2014-07-03T12:44:22Z', 'closed_at': '2021-10-25T09:31:21Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 330, 'title': 'Add option not to create a quadtree when a camera is created', 'state': 'closed', 'created_at': '2014-07-02T14:23:23Z', 'closed_at': '2014-07-18T10:10:32Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 328, 'title': 'sigma.utils.getX(e) returns false?', 'state': 'closed', 'created_at': '2014-07-01T14:05:51Z', 'closed_at': '2014-09-25T19:35:25Z', 'labels': []}
+{'issuenumber': 327, 'title': 'Cannot drag nodes while ForceAtlas2 is running', 'state': 'closed', 'created_at': '2014-06-30T21:23:58Z', 'closed_at': '2021-10-23T21:27:54Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 323, 'title': 'mouse event detection on nodes and edges using canvas.isPointInPath?', 'state': 'closed', 'created_at': '2014-06-25T07:40:20Z', 'closed_at': '2014-09-17T06:27:46Z', 'labels': []}
+{'issuenumber': 320, 'title': 'Packed circles', 'state': 'closed', 'created_at': '2014-06-23T23:08:42Z', 'closed_at': '2021-10-24T05:47:30Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 319, 'title': 'Extending sigma.js gephi exporter', 'state': 'closed', 'created_at': '2014-06-23T23:02:13Z', 'closed_at': '2021-10-24T05:47:29Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 318, 'title': 'jitterTolerance gone?', 'state': 'closed', 'created_at': '2014-06-23T20:12:05Z', 'closed_at': '2014-06-25T17:50:15Z', 'labels': []}
+{'issuenumber': 315, 'title': 'drag node bug', 'state': 'closed', 'created_at': '2014-06-20T22:34:31Z', 'closed_at': '2021-10-24T03:19:53Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 314, 'title': 'IE11 Gives Security Error for new FA2 Algorithm', 'state': 'closed', 'created_at': '2014-06-20T02:12:34Z', 'closed_at': '2021-10-24T04:47:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 313, 'title': 'doc on camera settings seems wrong', 'state': 'closed', 'created_at': '2014-06-18T15:22:36Z', 'closed_at': '2014-09-17T06:27:10Z', 'labels': []}
+{'issuenumber': 312, 'title': "edge[prefix + 'size'] is undefined using the WebGL renderer", 'state': 'closed', 'created_at': '2014-06-18T14:53:08Z', 'closed_at': '2014-06-19T09:05:33Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 311, 'title': 'using the graph API in node.js', 'state': 'closed', 'created_at': '2014-06-18T10:31:13Z', 'closed_at': '2014-10-01T16:05:48Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 310, 'title': 'indexing edges with the quadtree?', 'state': 'closed', 'created_at': '2014-06-18T06:31:26Z', 'closed_at': '2014-08-14T07:06:12Z', 'labels': []}
+{'issuenumber': 309, 'title': 'extending graph API', 'state': 'closed', 'created_at': '2014-06-17T13:25:27Z', 'closed_at': '2014-10-01T16:06:30Z', 'labels': []}
+{'issuenumber': 304, 'title': 'edge events?', 'state': 'closed', 'created_at': '2014-06-13T17:00:01Z', 'closed_at': '2014-08-14T07:10:28Z', 'labels': []}
+{'issuenumber': 303, 'title': 'Drag node division by 0 error when the first two nodes have the same y position ', 'state': 'closed', 'created_at': '2014-06-13T15:18:19Z', 'closed_at': '2021-10-24T03:19:52Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 300, 'title': 'mouse over a node and show labels of its neighbors', 'state': 'closed', 'created_at': '2014-06-13T05:31:49Z', 'closed_at': '2021-10-24T04:47:17Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 299, 'title': 'Npm run build', 'state': 'closed', 'created_at': '2014-06-13T02:13:10Z', 'closed_at': '2014-07-05T13:46:59Z', 'labels': []}
+{'issuenumber': 297, 'title': 'How to detect when a node is dragged?', 'state': 'closed', 'created_at': '2014-06-12T15:26:42Z', 'closed_at': '2014-09-17T06:24:32Z', 'labels': []}
+{'issuenumber': 296, 'title': 'right-click events', 'state': 'closed', 'created_at': '2014-06-12T15:20:34Z', 'closed_at': '2014-07-30T08:49:35Z', 'labels': []}
+{'issuenumber': 294, 'title': 'drawHoverNode', 'state': 'closed', 'created_at': '2014-06-09T12:57:42Z', 'closed_at': '2021-10-24T05:47:24Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 292, 'title': 'drag nodes for touch screen', 'state': 'closed', 'created_at': '2014-06-05T17:14:39Z', 'closed_at': '2014-06-10T18:17:42Z', 'labels': []}
+{'issuenumber': 289, 'title': 'Animate specific nodes only', 'state': 'closed', 'created_at': '2014-06-04T17:30:24Z', 'closed_at': '2021-10-24T07:47:11Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 288, 'title': 'Label offset modification', 'state': 'closed', 'created_at': '2014-06-04T15:21:23Z', 'closed_at': '2014-06-25T18:00:19Z', 'labels': []}
+{'issuenumber': 287, 'title': 'Animate after FA2', 'state': 'closed', 'created_at': '2014-06-03T11:40:22Z', 'closed_at': '2014-06-03T13:59:02Z', 'labels': []}
+{'issuenumber': 286, 'title': 'Dropping a self edge leads to an error', 'state': 'closed', 'created_at': '2014-06-02T19:33:12Z', 'closed_at': '2014-10-07T09:29:04Z', 'labels': []}
+{'issuenumber': 285, 'title': 'add json response to an existing graph', 'state': 'closed', 'created_at': '2014-05-31T22:49:57Z', 'closed_at': '2014-06-21T13:28:48Z', 'labels': []}
+{'issuenumber': 283, 'title': 'Neighborhoods of several nodes on one graph', 'state': 'closed', 'created_at': '2014-05-24T11:22:03Z', 'closed_at': '2021-10-24T05:47:25Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 282, 'title': 'Edge render order', 'state': 'closed', 'created_at': '2014-05-23T19:01:18Z', 'closed_at': '2021-10-23T21:27:50Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 280, 'title': 'Expose FA2 running state', 'state': 'closed', 'created_at': '2014-05-21T16:01:02Z', 'closed_at': '2014-06-13T17:21:23Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 278, 'title': 'Performance in Firefox?', 'state': 'closed', 'created_at': '2014-05-21T03:00:12Z', 'closed_at': '2014-05-22T09:34:46Z', 'labels': []}
+{'issuenumber': 277, 'title': 'Camera Position Change', 'state': 'closed', 'created_at': '2014-05-19T17:30:27Z', 'closed_at': '2014-10-01T16:10:40Z', 'labels': []}
+{'issuenumber': 276, 'title': 'Color animation', 'state': 'closed', 'created_at': '2014-05-19T11:37:57Z', 'closed_at': '2021-10-24T07:47:09Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 275, 'title': 'node animation', 'state': 'closed', 'created_at': '2014-05-18T09:54:52Z', 'closed_at': '2021-10-24T05:47:22Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 274, 'title': 'Changing labels, background always visible.', 'state': 'closed', 'created_at': '2014-05-16T15:33:34Z', 'closed_at': '2021-10-24T02:19:34Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 273, 'title': 'Problem on edges generating', 'state': 'closed', 'created_at': '2014-05-15T21:26:48Z', 'closed_at': '2014-05-16T11:22:20Z', 'labels': []}
+{'issuenumber': 271, 'title': 'Can I draw a rectangle in graph?', 'state': 'closed', 'created_at': '2014-05-11T14:38:14Z', 'closed_at': '2021-10-24T03:20:00Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 270, 'title': 'How to edit node in graph?', 'state': 'closed', 'created_at': '2014-05-11T09:22:30Z', 'closed_at': '2014-10-01T16:12:17Z', 'labels': []}
+{'issuenumber': 269, 'title': 'Drag individual node', 'state': 'closed', 'created_at': '2014-05-11T09:01:44Z', 'closed_at': '2021-10-24T05:47:21Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 268, 'title': 'Integration with Google Maps', 'state': 'closed', 'created_at': '2014-05-09T10:43:21Z', 'closed_at': '2021-10-24T02:19:45Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 266, 'title': "Cannot set 'top' attribute on graph-container in example", 'state': 'closed', 'created_at': '2014-05-08T17:11:13Z', 'closed_at': '2021-10-24T05:47:20Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 263, 'title': 'defaultEdgeType & defaultNodeType', 'state': 'closed', 'created_at': '2014-05-05T09:28:56Z', 'closed_at': '2014-10-07T14:48:01Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 262, 'title': 'Edge: Display Data', 'state': 'closed', 'created_at': '2014-05-04T16:19:43Z', 'closed_at': '2021-10-24T05:47:27Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 261, 'title': 'Rendering of curved arrowed edges', 'state': 'closed', 'created_at': '2014-05-04T14:16:59Z', 'closed_at': '2014-05-05T06:14:37Z', 'labels': []}
+{'issuenumber': 260, 'title': 'Alt, Shift & Control key states', 'state': 'closed', 'created_at': '2014-05-03T19:54:39Z', 'closed_at': '2014-07-30T08:38:33Z', 'labels': []}
+{'issuenumber': 258, 'title': 'Edges Size', 'state': 'closed', 'created_at': '2014-04-29T12:24:38Z', 'closed_at': '2014-04-30T09:03:58Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 257, 'title': 'Labels and Nodes Separate on Large Resolution Displays', 'state': 'closed', 'created_at': '2014-04-28T17:45:45Z', 'closed_at': '2021-10-23T14:32:07Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 256, 'title': 'How to stop the graph from resizing?', 'state': 'closed', 'created_at': '2014-04-28T12:48:12Z', 'closed_at': '2021-10-24T07:47:30Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 255, 'title': 'Showing the edges labels', 'state': 'closed', 'created_at': '2014-04-25T12:23:10Z', 'closed_at': '2014-04-25T12:27:32Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 254, 'title': 'Removing / adding plugins', 'state': 'closed', 'created_at': '2014-04-25T05:41:42Z', 'closed_at': '2021-10-24T04:47:12Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 253, 'title': 'pitch on nodes in an  area', 'state': 'closed', 'created_at': '2014-04-24T03:43:32Z', 'closed_at': '2021-10-24T05:47:19Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 252, 'title': 'Select nodes in an area ', 'state': 'closed', 'created_at': '2014-04-22T05:18:49Z', 'closed_at': '2014-10-01T16:14:45Z', 'labels': []}
+{'issuenumber': 251, 'title': 'How to restrict panning and zooming?', 'state': 'closed', 'created_at': '2014-04-16T22:03:03Z', 'closed_at': '2014-08-20T23:15:42Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 250, 'title': 'neighborhoods graph data from variable possible?', 'state': 'closed', 'created_at': '2014-04-16T00:37:13Z', 'closed_at': '2014-04-16T04:34:27Z', 'labels': []}
+{'issuenumber': 249, 'title': 'sigma.js example not working for me ', 'state': 'closed', 'created_at': '2014-04-14T08:16:45Z', 'closed_at': '2014-04-14T08:23:25Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 248, 'title': 'Added angle for slanted text', 'state': 'closed', 'created_at': '2014-04-12T13:41:16Z', 'closed_at': '2021-10-27T10:58:10Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 247, 'title': 'Methods for anti-collision using node.size?', 'state': 'closed', 'created_at': '2014-04-11T16:19:49Z', 'closed_at': '2021-10-24T04:47:09Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 246, 'title': 'Highlight edges on hover', 'state': 'closed', 'created_at': '2014-04-09T21:43:27Z', 'closed_at': '2014-04-09T22:01:23Z', 'labels': []}
+{'issuenumber': 245, 'title': 'FritWork - Data Visualization of Facebook network using sigma.js', 'state': 'closed', 'created_at': '2014-04-09T13:30:53Z', 'closed_at': '2014-10-01T16:22:04Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 244, 'title': 'minNodeSize fails if given string', 'state': 'closed', 'created_at': '2014-04-08T20:01:09Z', 'closed_at': '2014-04-11T12:02:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 243, 'title': 'A problem with GUI testing and its solution', 'state': 'closed', 'created_at': '2014-04-08T16:01:33Z', 'closed_at': '2014-04-09T09:05:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 241, 'title': 'Display edges underneath nodes when batch edge rendering is on', 'state': 'closed', 'created_at': '2014-04-07T10:18:18Z', 'closed_at': '2014-04-11T10:08:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 240, 'title': 'Edit Animations time', 'state': 'closed', 'created_at': '2014-04-03T10:33:38Z', 'closed_at': '2014-10-01T16:18:08Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 239, 'title': 'Rendering Large (~5000 Nodes and ~100,000 edges) Datasets', 'state': 'closed', 'created_at': '2014-04-01T01:47:14Z', 'closed_at': '2021-10-24T04:47:33Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 237, 'title': 'Zoom', 'state': 'closed', 'created_at': '2014-03-27T19:15:00Z', 'closed_at': '2014-04-02T08:14:44Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 236, 'title': 'Switching renderers multiple times causes graphical errors', 'state': 'closed', 'created_at': '2014-03-27T14:42:28Z', 'closed_at': '2014-04-02T15:30:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 235, 'title': 'Alpha channel for node and edge color', 'state': 'closed', 'created_at': '2014-03-26T18:54:26Z', 'closed_at': '2014-04-03T08:52:48Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 232, 'title': 'Events over Edge', 'state': 'closed', 'created_at': '2014-03-21T15:46:24Z', 'closed_at': '2014-03-21T16:02:12Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 230, 'title': 'Browser crash on mouseover', 'state': 'closed', 'created_at': '2014-03-20T17:24:55Z', 'closed_at': '2021-10-24T05:47:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 229, 'title': 'How to kill the graph', 'state': 'closed', 'created_at': '2014-03-20T02:42:14Z', 'closed_at': '2014-03-21T09:17:05Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 227, 'title': 'Zoom in / Zoom out buttons on Sigma?', 'state': 'closed', 'created_at': '2014-03-19T14:55:51Z', 'closed_at': '2014-03-19T15:26:50Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 226, 'title': 'FishEye in Sigma 2?', 'state': 'closed', 'created_at': '2014-03-17T15:00:00Z', 'closed_at': '2021-10-25T09:30:07Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 225, 'title': 'How to ensure that every time the graph layout looks the same in ForceAtlas', 'state': 'closed', 'created_at': '2014-03-16T13:33:21Z', 'closed_at': '2014-03-17T10:05:19Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 224, 'title': 'Factor Graph', 'state': 'closed', 'created_at': '2014-03-15T23:04:07Z', 'closed_at': '2014-03-17T09:49:02Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 223, 'title': 'How to avoid dispersion of disconnected components in ForceAtlas?', 'state': 'closed', 'created_at': '2014-03-15T17:52:21Z', 'closed_at': '2014-03-17T09:58:00Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 222, 'title': 'How to set up the edge size?', 'state': 'closed', 'created_at': '2014-03-15T17:48:05Z', 'closed_at': '2014-03-17T09:51:35Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 221, 'title': 'Focus capturing', 'state': 'closed', 'created_at': '2014-03-12T17:24:12Z', 'closed_at': '2021-10-25T09:29:06Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 220, 'title': 'Can I display edges underneath nodes when batch edge rendering is on?', 'state': 'closed', 'created_at': '2014-03-12T06:19:44Z', 'closed_at': '2014-03-12T15:54:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 218, 'title': 'How to change node sizes?', 'state': 'closed', 'created_at': '2014-03-11T14:35:08Z', 'closed_at': '2014-03-11T16:54:30Z', 'labels': []}
+{'issuenumber': 217, 'title': 'How to display images on nodes?', 'state': 'closed', 'created_at': '2014-03-11T11:54:45Z', 'closed_at': '2021-10-24T05:47:23Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 216, 'title': 'render without coordinates', 'state': 'closed', 'created_at': '2014-03-09T05:21:15Z', 'closed_at': '2014-03-11T17:16:10Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 213, 'title': 'How redraw map by div container size?', 'state': 'closed', 'created_at': '2014-03-05T14:12:46Z', 'closed_at': '2014-03-12T08:30:48Z', 'labels': []}
+{'issuenumber': 212, 'title': 'I want to know how to display of labels for line edges', 'state': 'closed', 'created_at': '2014-03-04T10:48:29Z', 'closed_at': '2014-03-04T11:18:40Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 211, 'title': 'Improve camera access in core API', 'state': 'closed', 'created_at': '2014-03-03T09:46:04Z', 'closed_at': '2014-03-04T09:27:28Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 210, 'title': 'Zooming on nodes', 'state': 'closed', 'created_at': '2014-03-02T04:37:31Z', 'closed_at': '2014-03-03T10:18:00Z', 'labels': []}
+{'issuenumber': 209, 'title': 'hideEdgesOnMove:true breaks edges rendering on iOS & Android', 'state': 'closed', 'created_at': '2014-03-01T08:17:10Z', 'closed_at': '2021-10-24T05:47:17Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 208, 'title': 'doubleClick events not playing nicely with single click events', 'state': 'closed', 'created_at': '2014-02-27T15:26:34Z', 'closed_at': '2014-03-13T16:13:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 207, 'title': 'Curved Edges', 'state': 'closed', 'created_at': '2014-02-26T20:53:13Z', 'closed_at': '2014-02-27T10:13:55Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 206, 'title': 'Control size of edge arrowheads', 'state': 'closed', 'created_at': '2014-02-26T18:58:40Z', 'closed_at': '2021-11-28T21:20:54Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 205, 'title': 'Hiding nodes', 'state': 'closed', 'created_at': '2014-02-26T11:50:44Z', 'closed_at': '2014-02-26T13:00:37Z', 'labels': []}
+{'issuenumber': 204, 'title': 'Back to previous map?', 'state': 'closed', 'created_at': '2014-02-26T06:23:38Z', 'closed_at': '2014-02-26T16:24:44Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 203, 'title': 'some guidance how to implement self-loops', 'state': 'closed', 'created_at': '2014-02-22T00:47:42Z', 'closed_at': '2014-02-24T17:32:19Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 202, 'title': 'More Node Info', 'state': 'closed', 'created_at': '2014-02-20T10:47:08Z', 'closed_at': '2014-03-11T16:53:55Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 201, 'title': 'Hypergraphs', 'state': 'closed', 'created_at': '2014-02-20T08:31:56Z', 'closed_at': '2014-02-20T09:11:38Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 200, 'title': 'Colorization based on position', 'state': 'closed', 'created_at': '2014-02-19T23:21:03Z', 'closed_at': '2014-03-13T11:06:05Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 199, 'title': 'Configuring the JSON parser?', 'state': 'closed', 'created_at': '2014-02-18T11:06:10Z', 'closed_at': '2014-02-18T11:12:35Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 198, 'title': 'Filtering Sigma.Js graph via external events.', 'state': 'closed', 'created_at': '2014-02-18T00:38:12Z', 'closed_at': '2014-02-18T10:27:57Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 197, 'title': 'HTML rendered node labels', 'state': 'closed', 'created_at': '2014-02-18T00:09:44Z', 'closed_at': '2014-02-18T16:50:15Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 196, 'title': 'Mistake in Example Step-2 on Sigmajs.Org', 'state': 'closed', 'created_at': '2014-02-17T07:28:31Z', 'closed_at': '2014-02-18T10:44:41Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 195, 'title': 'Leap Motion control of Sigma.Js graph', 'state': 'closed', 'created_at': '2014-02-17T00:29:30Z', 'closed_at': '2014-02-18T10:53:57Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 194, 'title': 'Add an edge on the graph?', 'state': 'closed', 'created_at': '2014-02-15T23:40:14Z', 'closed_at': '2014-02-18T12:19:15Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 193, 'title': 'Do I rightly update graph with json', 'state': 'closed', 'created_at': '2014-02-15T19:32:04Z', 'closed_at': '2021-10-24T05:47:16Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 192, 'title': 'Custom node renderer - cross browser', 'state': 'closed', 'created_at': '2014-02-14T11:55:00Z', 'closed_at': '2021-10-24T05:47:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 191, 'title': 'How to capture resize (rescale) event and update graph', 'state': 'closed', 'created_at': '2014-02-14T05:12:33Z', 'closed_at': '2014-02-15T19:38:29Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 190, 'title': 'ForceLayout on JSON graph?', 'state': 'closed', 'created_at': '2014-02-13T22:06:21Z', 'closed_at': '2014-02-14T12:46:31Z', 'labels': []}
+{'issuenumber': 189, 'title': 'How catch Double click event?', 'state': 'closed', 'created_at': '2014-02-13T09:13:38Z', 'closed_at': '2014-02-25T09:47:50Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 188, 'title': 'Retina support', 'state': 'closed', 'created_at': '2014-02-12T14:39:44Z', 'closed_at': '2014-02-12T14:40:26Z', 'labels': []}
+{'issuenumber': 187, 'title': 'Drag and drop for individual nodes', 'state': 'closed', 'created_at': '2014-02-11T22:34:42Z', 'closed_at': '2014-04-01T16:36:57Z', 'labels': []}
+{'issuenumber': 186, 'title': 'npm package?', 'state': 'closed', 'created_at': '2014-02-11T15:32:07Z', 'closed_at': '2014-04-03T14:13:58Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 183, 'title': "TypeError function has no method 'handler'", 'state': 'closed', 'created_at': '2014-02-10T21:46:03Z', 'closed_at': '2014-02-11T11:41:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 182, 'title': 'add node at mouse position ', 'state': 'closed', 'created_at': '2014-02-09T17:43:38Z', 'closed_at': '2021-10-23T14:31:55Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 181, 'title': 'Canvas.edge and Canvas.node not triggered when data loaded from file', 'state': 'closed', 'created_at': '2014-02-06T20:37:12Z', 'closed_at': '2014-02-07T01:19:47Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 180, 'title': 'retina display support', 'state': 'closed', 'created_at': '2014-02-06T15:17:57Z', 'closed_at': '2016-02-11T13:20:51Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 179, 'title': 'npm install does not work', 'state': 'closed', 'created_at': '2014-02-06T02:04:08Z', 'closed_at': '2014-10-09T18:41:50Z', 'labels': []}
+{'issuenumber': 176, 'title': 'zoom to a node', 'state': 'closed', 'created_at': '2014-02-04T00:43:40Z', 'closed_at': '2014-02-04T01:45:20Z', 'labels': []}
+{'issuenumber': 175, 'title': 'Setting FA2', 'state': 'closed', 'created_at': '2014-02-03T16:28:38Z', 'closed_at': '2014-03-13T10:55:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 173, 'title': "Replace 'SimpleHTTPServer' with http-server node package ", 'state': 'closed', 'created_at': '2014-02-02T10:27:24Z', 'closed_at': '2014-02-04T21:07:33Z', 'labels': []}
+{'issuenumber': 172, 'title': 'Unable to clone the new repo', 'state': 'closed', 'created_at': '2014-02-01T15:56:14Z', 'closed_at': '2014-02-02T09:44:26Z', 'labels': []}
+{'issuenumber': 171, 'title': 'Add gh-pages to make the examples sharable via URL', 'state': 'closed', 'created_at': '2014-02-01T15:45:04Z', 'closed_at': '2021-10-25T09:26:02Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 169, 'title': 'node.hidden and edge.hidden not working?', 'state': 'closed', 'created_at': '2014-01-30T22:49:55Z', 'closed_at': '2014-01-31T10:51:46Z', 'labels': []}
+{'issuenumber': 167, 'title': 'example broken? [plnkr included]', 'state': 'closed', 'created_at': '2014-01-28T19:29:43Z', 'closed_at': '2014-01-28T19:39:57Z', 'labels': []}
+{'issuenumber': 166, 'title': 'clickNode event on touch devices (draft-v1.0.0)', 'state': 'closed', 'created_at': '2014-01-26T23:49:38Z', 'closed_at': '2014-01-27T11:45:35Z', 'labels': []}
+{'issuenumber': 164, 'title': 'Activate label name given a node.', 'state': 'closed', 'created_at': '2014-01-21T16:15:02Z', 'closed_at': '2014-01-21T17:48:50Z', 'labels': []}
+{'issuenumber': 163, 'title': "Can't do 'click' event on node", 'state': 'closed', 'created_at': '2014-01-21T16:08:23Z', 'closed_at': '2014-01-21T16:58:10Z', 'labels': []}
+{'issuenumber': 162, 'title': 'Hierarchy rendering', 'state': 'closed', 'created_at': '2014-01-21T06:11:07Z', 'closed_at': '2014-01-21T09:23:58Z', 'labels': []}
+{'issuenumber': 161, 'title': 'Touch events position are not related to the container', 'state': 'closed', 'created_at': '2014-01-16T18:54:52Z', 'closed_at': '2014-01-18T21:43:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 160, 'title': 'double-touch is missing', 'state': 'closed', 'created_at': '2014-01-16T18:52:43Z', 'closed_at': '2014-01-19T13:37:59Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 159, 'title': 'Update Graph API wiki page', 'state': 'closed', 'created_at': '2014-01-13T09:35:06Z', 'closed_at': '2014-01-13T15:24:35Z', 'labels': []}
+{'issuenumber': 158, 'title': 'Add a JSON loader plugin', 'state': 'closed', 'created_at': '2014-01-13T09:27:10Z', 'closed_at': '2014-01-13T15:28:50Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 157, 'title': 'Directed edges displayed as arrows', 'state': 'closed', 'created_at': '2014-01-12T21:40:57Z', 'closed_at': '2014-01-18T21:44:26Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 156, 'title': 'Resizing nodes on overnodes event?', 'state': 'closed', 'created_at': '2014-01-09T23:25:10Z', 'closed_at': '2014-01-11T12:44:34Z', 'labels': []}
+{'issuenumber': 155, 'title': '[enhancement] Add missing bower.json.', 'state': 'closed', 'created_at': '2014-01-07T10:29:22Z', 'closed_at': '2021-10-25T09:24:45Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 154, 'title': '[sigma draft] Make immutable only id property instead of copying all nodes that are added to the graph', 'state': 'closed', 'created_at': '2013-12-27T22:09:13Z', 'closed_at': '2014-01-11T20:31:48Z', 'labels': []}
+{'issuenumber': 153, 'title': 'getters for nodes properties', 'state': 'closed', 'created_at': '2013-12-21T00:16:09Z', 'closed_at': '2013-12-21T00:17:55Z', 'labels': []}
+{'issuenumber': 152, 'title': 'webgl examples are broken', 'state': 'closed', 'created_at': '2013-12-21T00:00:28Z', 'closed_at': '2014-10-10T05:31:05Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 151, 'title': 'Consider using CoffeeScript', 'state': 'closed', 'created_at': '2013-12-20T22:52:48Z', 'closed_at': '2014-01-11T12:20:49Z', 'labels': []}
+{'issuenumber': 150, 'title': "Graph doesn't get refreshed after removing an edge", 'state': 'closed', 'created_at': '2013-12-18T05:25:31Z', 'closed_at': '2013-12-18T08:52:09Z', 'labels': []}
+{'issuenumber': 149, 'title': 'Move math portion of forceAtlas plugin to a WebWorker', 'state': 'closed', 'created_at': '2013-12-17T12:03:36Z', 'closed_at': '2021-10-25T09:24:17Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 148, 'title': 'Consider using TypeScript', 'state': 'closed', 'created_at': '2013-12-17T11:47:14Z', 'closed_at': '2014-01-11T12:36:04Z', 'labels': []}
+{'issuenumber': 147, 'title': 'Alternative quadtree impl', 'state': 'closed', 'created_at': '2013-12-17T11:41:07Z', 'closed_at': '2014-10-01T16:22:28Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 144, 'title': 'Announcing sigma.js v1.0.0', 'state': 'closed', 'created_at': '2013-12-13T17:10:15Z', 'closed_at': '2014-02-11T12:34:34Z', 'labels': []}
+{'issuenumber': 142, 'title': 'adding nodes via click', 'state': 'closed', 'created_at': '2013-12-03T18:44:48Z', 'closed_at': '2014-02-11T12:37:38Z', 'labels': []}
+{'issuenumber': 141, 'title': "Sigma 1 - Gexf parser error when there's no viz position on nodes in GEXF file", 'state': 'closed', 'created_at': '2013-12-01T22:19:41Z', 'closed_at': '2013-12-02T09:13:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 140, 'title': 'Export graph to sigma.js template using gephi toolkit?', 'state': 'closed', 'created_at': '2013-11-25T11:30:38Z', 'closed_at': '2013-12-10T10:29:11Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 139, 'title': 'focus on a particular node', 'state': 'closed', 'created_at': '2013-11-22T09:44:15Z', 'closed_at': '2014-02-08T09:57:01Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 138, 'title': 'How to draw T-shaped edges using sigma.js', 'state': 'closed', 'created_at': '2013-10-29T18:26:16Z', 'closed_at': '2014-01-12T16:33:53Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 136, 'title': "Basic example doesn't work", 'state': 'closed', 'created_at': '2013-10-26T22:04:24Z', 'closed_at': '2014-01-11T14:01:41Z', 'labels': []}
+{'issuenumber': 134, 'title': 'iPad/iPhone support', 'state': 'closed', 'created_at': '2013-09-30T11:28:04Z', 'closed_at': '2013-12-18T09:16:37Z', 'labels': []}
+{'issuenumber': 133, 'title': 'Edge labels', 'state': 'closed', 'created_at': '2013-09-27T08:56:43Z', 'closed_at': '2014-01-19T11:13:42Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 132, 'title': 'Support for dynamic graphs?', 'state': 'closed', 'created_at': '2013-09-26T16:45:03Z', 'closed_at': '2014-01-19T10:42:24Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 130, 'title': 'Issue faced with getNodes() method', 'state': 'closed', 'created_at': '2013-09-06T05:51:17Z', 'closed_at': '2013-12-18T09:21:02Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 129, 'title': 'forceAtlas2 self.p.speed = NaN', 'state': 'closed', 'created_at': '2013-08-31T10:57:18Z', 'closed_at': '2021-10-24T05:47:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 128, 'title': 'becomes slow..', 'state': 'closed', 'created_at': '2013-08-19T06:29:37Z', 'closed_at': '2013-12-18T09:08:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 127, 'title': 'Can I have a background image zoom in and zoom out with nodes?', 'state': 'closed', 'created_at': '2013-08-13T03:35:59Z', 'closed_at': '2021-10-24T09:25:36Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 126, 'title': 'Background image ', 'state': 'closed', 'created_at': '2013-08-13T03:34:33Z', 'closed_at': '2021-10-25T09:22:40Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 125, 'title': 'forceAtlas2 graph shape options', 'state': 'closed', 'created_at': '2013-08-12T07:32:58Z', 'closed_at': '2013-08-13T01:13:38Z', 'labels': []}
+{'issuenumber': 124, 'title': 'Can some one will explain me the co-ordinate system of sigma.js wih example?', 'state': 'closed', 'created_at': '2013-08-12T06:57:23Z', 'closed_at': '2014-01-19T10:57:24Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 123, 'title': 'Gephi plug in issue', 'state': 'closed', 'created_at': '2013-08-07T20:49:47Z', 'closed_at': '2014-01-11T13:58:02Z', 'labels': []}
+{'issuenumber': 122, 'title': 'HTML tags stripped from Example code on website for accessing node attributes', 'state': 'closed', 'created_at': '2013-08-07T04:09:22Z', 'closed_at': '2014-01-19T11:51:35Z', 'labels': []}
+{'issuenumber': 121, 'title': 'why not run??', 'state': 'closed', 'created_at': '2013-07-28T06:09:54Z', 'closed_at': '2014-01-11T14:01:24Z', 'labels': []}
+{'issuenumber': 120, 'title': 'Question about JSON Interface versus XML', 'state': 'closed', 'created_at': '2013-07-26T18:29:07Z', 'closed_at': '2013-07-26T18:33:24Z', 'labels': []}
+{'issuenumber': 119, 'title': 'deleting an instance', 'state': 'closed', 'created_at': '2013-07-23T06:00:20Z', 'closed_at': '2014-01-11T14:49:11Z', 'labels': []}
+{'issuenumber': 117, 'title': 'Support file compression in parseGexf plugin', 'state': 'closed', 'created_at': '2013-06-28T22:00:13Z', 'closed_at': '2021-10-24T05:47:26Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 116, 'title': 'Release a non-minimised version of sigma.js on the website', 'state': 'closed', 'created_at': '2013-06-28T21:55:40Z', 'closed_at': '2021-10-25T09:22:20Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 115, 'title': 'Node Coloring', 'state': 'closed', 'created_at': '2013-06-26T14:25:17Z', 'closed_at': '2014-01-11T13:47:02Z', 'labels': []}
+{'issuenumber': 114, 'title': 'Hook to node rendering', 'state': 'closed', 'created_at': '2013-06-22T15:40:29Z', 'closed_at': '2014-01-11T21:10:37Z', 'labels': []}
+{'issuenumber': 113, 'title': 'Node Label Renderer cannot recognize options', 'state': 'closed', 'created_at': '2013-06-20T23:49:20Z', 'closed_at': '2014-01-11T21:15:35Z', 'labels': []}
+{'issuenumber': 111, 'title': 'Synchronous XHR request blocks execution for big GEXF document', 'state': 'closed', 'created_at': '2013-06-12T19:10:29Z', 'closed_at': '2014-01-13T09:04:26Z', 'labels': []}
+{'issuenumber': 109, 'title': 'Setting of fontStyle does not work', 'state': 'closed', 'created_at': '2013-06-08T09:04:06Z', 'closed_at': '2014-01-11T14:14:42Z', 'labels': []}
+{'issuenumber': 107, 'title': 'dense network with overlapping nodes', 'state': 'closed', 'created_at': '2013-06-07T21:17:34Z', 'closed_at': '2021-10-24T02:19:50Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 105, 'title': 'How to assign a name to Group Selector - SigmaExporet', 'state': 'closed', 'created_at': '2013-06-05T07:39:01Z', 'closed_at': '2013-06-05T08:22:45Z', 'labels': []}
+{'issuenumber': 104, 'title': 'graph expansion', 'state': 'closed', 'created_at': '2013-05-30T09:36:39Z', 'closed_at': '2014-01-12T12:21:08Z', 'labels': []}
+{'issuenumber': 103, 'title': 'Opacity ', 'state': 'closed', 'created_at': '2013-05-22T12:43:21Z', 'closed_at': '2013-11-29T17:00:32Z', 'labels': []}
+{'issuenumber': 102, 'title': 'can not parse .gexf file', 'state': 'closed', 'created_at': '2013-05-20T10:10:11Z', 'closed_at': '2014-01-13T13:45:06Z', 'labels': []}
+{'issuenumber': 98, 'title': "Simple example code on website doesn't seem to work", 'state': 'closed', 'created_at': '2013-05-06T18:42:33Z', 'closed_at': '2013-05-08T03:21:50Z', 'labels': []}
+{'issuenumber': 95, 'title': 'How to handle onClick when onOverNode is raises', 'state': 'closed', 'created_at': '2013-04-21T13:03:20Z', 'closed_at': '2014-04-03T15:56:12Z', 'labels': []}
+{'issuenumber': 94, 'title': '(0,0) coordinates as the very first node causes clipping problems', 'state': 'closed', 'created_at': '2013-04-20T08:24:48Z', 'closed_at': '2014-01-12T12:17:02Z', 'labels': []}
+{'issuenumber': 93, 'title': 'Error when parseGexf', 'state': 'closed', 'created_at': '2013-04-19T12:36:57Z', 'closed_at': '2014-01-13T08:57:38Z', 'labels': []}
+{'issuenumber': 92, 'title': 'Enable GitHub Wiki for documentation', 'state': 'closed', 'created_at': '2013-04-16T04:31:05Z', 'closed_at': '2013-04-16T08:14:27Z', 'labels': []}
+{'issuenumber': 91, 'title': '-', 'state': 'closed', 'created_at': '2013-04-11T09:04:16Z', 'closed_at': '2013-04-11T09:04:41Z', 'labels': []}
+{'issuenumber': 88, 'title': 'How to import a local .gexf file', 'state': 'closed', 'created_at': '2013-04-07T13:34:30Z', 'closed_at': '2013-04-17T14:53:17Z', 'labels': []}
+{'issuenumber': 87, 'title': 'Fire node click/hover events when mouse is over/clicks a visible node label', 'state': 'closed', 'created_at': '2013-04-04T00:05:34Z', 'closed_at': '2014-01-19T10:30:30Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 83, 'title': 'Nodes with image', 'state': 'closed', 'created_at': '2013-03-27T17:26:11Z', 'closed_at': '2014-01-12T16:10:01Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 82, 'title': 'Modularity', 'state': 'closed', 'created_at': '2013-03-22T23:57:27Z', 'closed_at': '2021-10-24T05:47:14Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 80, 'title': "anything similar to 'overenodes' for edges, for say 'overedges'", 'state': 'closed', 'created_at': '2013-03-08T16:44:32Z', 'closed_at': '2014-01-19T10:26:29Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 79, 'title': 'click node?', 'state': 'closed', 'created_at': '2013-03-06T09:46:50Z', 'closed_at': '2013-03-06T10:01:50Z', 'labels': []}
+{'issuenumber': 76, 'title': 'pushGraph', 'state': 'closed', 'created_at': '2013-03-01T12:10:33Z', 'closed_at': '2014-01-11T13:54:20Z', 'labels': []}
+{'issuenumber': 75, 'title': 'Double categorisation node color + node border color?', 'state': 'closed', 'created_at': '2013-02-27T12:12:15Z', 'closed_at': '2014-01-12T13:02:39Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 74, 'title': 'https access to sigma.min.js', 'state': 'closed', 'created_at': '2013-02-22T22:17:01Z', 'closed_at': '2014-01-19T10:22:04Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 72, 'title': "How to 'stop' ForceAtlas2 from rendering?", 'state': 'closed', 'created_at': '2013-02-05T19:33:21Z', 'closed_at': '2017-01-19T11:53:35Z', 'labels': {'name': 'question / misc'}}
+{'issuenumber': 71, 'title': 'Example code in readme not working -- addNode()', 'state': 'closed', 'created_at': '2013-02-05T00:16:18Z', 'closed_at': '2014-01-11T14:00:25Z', 'labels': []}
+{'issuenumber': 70, 'title': 'Show edges on drag and zoom', 'state': 'closed', 'created_at': '2013-01-31T09:14:56Z', 'closed_at': '2013-02-03T11:38:25Z', 'labels': []}
+{'issuenumber': 69, 'title': 'Detecting the event of a converging graph that is animated by forceAtlas2', 'state': 'closed', 'created_at': '2013-01-29T11:22:56Z', 'closed_at': '2021-10-25T09:21:43Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 68, 'title': "When sigInst.configProperties: { drawHoverNodes: false } -- 'overnodes', 'downnodes', etc do not fire", 'state': 'closed', 'created_at': '2013-01-25T07:57:01Z', 'closed_at': '2021-10-24T05:47:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 67, 'title': "Can't change edges color", 'state': 'closed', 'created_at': '2013-01-17T10:44:31Z', 'closed_at': '2014-01-11T13:45:43Z', 'labels': []}
+{'issuenumber': 66, 'title': 'using a Json file as the input instead of Gexf', 'state': 'closed', 'created_at': '2013-01-15T16:49:21Z', 'closed_at': '2014-01-11T14:45:58Z', 'labels': []}
+{'issuenumber': 64, 'title': 'How to load parseGexf from an abs url?', 'state': 'closed', 'created_at': '2013-01-06T00:29:11Z', 'closed_at': '2014-01-11T13:41:04Z', 'labels': []}
+{'issuenumber': 63, 'title': 'Asynchronous graph population from rss feed', 'state': 'closed', 'created_at': '2012-12-18T14:01:26Z', 'closed_at': '2012-12-21T17:55:20Z', 'labels': []}
+{'issuenumber': 62, 'title': 'graph disappears randomly using hide on mouseover', 'state': 'closed', 'created_at': '2012-12-07T01:24:17Z', 'closed_at': '2013-01-24T00:03:13Z', 'labels': []}
+{'issuenumber': 61, 'title': 'Need a simple example', 'state': 'closed', 'created_at': '2012-12-06T04:28:11Z', 'closed_at': '2013-02-03T11:42:59Z', 'labels': []}
+{'issuenumber': 60, 'title': 'Edge with source node id = "target" ', 'state': 'closed', 'created_at': '2012-11-26T02:08:05Z', 'closed_at': '2014-01-19T15:57:53Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 58, 'title': "Is there a way to adjust a label's offset?", 'state': 'closed', 'created_at': '2012-11-07T04:34:05Z', 'closed_at': '2014-01-19T11:08:35Z', 'labels': []}
+{'issuenumber': 55, 'title': 'Stage reset', 'state': 'closed', 'created_at': '2012-10-31T22:28:54Z', 'closed_at': '2014-01-19T10:53:19Z', 'labels': []}
+{'issuenumber': 54, 'title': 'Reflexive Edges (Selfloops) Do Not Render', 'state': 'closed', 'created_at': '2012-10-17T22:40:14Z', 'closed_at': '2014-02-24T17:06:45Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 53, 'title': 'Zoom IN and Zoom Out', 'state': 'closed', 'created_at': '2012-10-15T14:35:24Z', 'closed_at': '2012-10-15T14:40:39Z', 'labels': []}
+{'issuenumber': 51, 'title': 'ForceAtlas2 does not push isolates to the border', 'state': 'closed', 'created_at': '2012-09-19T14:21:09Z', 'closed_at': '2014-06-23T10:53:26Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 49, 'title': 'Node borders', 'state': 'closed', 'created_at': '2012-08-30T14:52:06Z', 'closed_at': '2014-01-12T16:08:45Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 48, 'title': 'Arrows instead of lines', 'state': 'closed', 'created_at': '2012-08-25T08:22:29Z', 'closed_at': '2013-05-21T11:48:47Z', 'labels': []}
+{'issuenumber': 47, 'title': "Can't Zoom Out to Show Full Visualization", 'state': 'closed', 'created_at': '2012-08-22T18:04:33Z', 'closed_at': '2014-01-11T13:11:33Z', 'labels': []}
+{'issuenumber': 46, 'title': 'clone', 'state': 'closed', 'created_at': '2012-08-21T17:40:44Z', 'closed_at': '2014-01-11T13:07:19Z', 'labels': []}
+{'issuenumber': 45, 'title': 'Does the plugin sigma.parseGexf.js support IE?', 'state': 'closed', 'created_at': '2012-08-17T02:53:32Z', 'closed_at': '2014-01-13T15:26:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 43, 'title': 'Exception when adding node with x = y = 0', 'state': 'closed', 'created_at': '2012-08-15T13:22:07Z', 'closed_at': '2014-01-12T12:00:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 41, 'title': 'Work on non-compiled lib', 'state': 'closed', 'created_at': '2012-08-08T15:43:33Z', 'closed_at': '2012-08-08T15:51:00Z', 'labels': []}
+{'issuenumber': 40, 'title': 'Color a node', 'state': 'closed', 'created_at': '2012-08-07T14:43:30Z', 'closed_at': '2012-08-22T12:30:58Z', 'labels': []}

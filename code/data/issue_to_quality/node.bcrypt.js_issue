@@ -1,0 +1,731 @@
+{'issuenumber': 929, 'title': 'Docker image repository change to ECR Public Gallery', 'state': 'closed', 'created_at': '2022-05-13T18:22:17Z', 'closed_at': '2022-05-14T12:22:21Z', 'labels': []}
+{'issuenumber': 926, 'title': 'yum build essential', 'state': 'closed', 'created_at': '2022-03-28T09:50:11Z', 'closed_at': '2022-03-28T09:50:29Z', 'labels': []}
+{'issuenumber': 924, 'title': 'I am using node version 16.14.2 and my npm is at version 8.5.0 which is  LTS Recommended For Most Users but I am getting error in my device', 'state': 'closed', 'created_at': '2022-03-19T11:20:23Z', 'closed_at': '2022-03-19T11:49:51Z', 'labels': []}
+{'issuenumber': 922, 'title': 'Bcrypt causing CPU usage issue and consuming alot of time.', 'state': 'closed', 'created_at': '2022-03-14T12:59:26Z', 'closed_at': '2022-03-25T05:43:56Z', 'labels': {'name': 'question'}}
+{'issuenumber': 921, 'title': 'got this while installing bcrypt "Version \'bcrypt\' not found - try `nvm ls-remote` to browse available versions."', 'state': 'closed', 'created_at': '2022-03-13T10:32:13Z', 'closed_at': '2022-03-13T10:36:28Z', 'labels': []}
+{'issuenumber': 920, 'title': 'New npm release?', 'state': 'closed', 'created_at': '2022-02-24T04:22:11Z', 'closed_at': '2022-06-10T21:54:47Z', 'labels': []}
+{'issuenumber': 915, 'title': 'node-fetch vulnerabilitiy', 'state': 'closed', 'created_at': '2022-01-22T14:21:18Z', 'closed_at': '2022-01-23T16:35:10Z', 'labels': []}
+{'issuenumber': 914, 'title': 'BCrypt@5.0.1 - Install Failure in AWS - Linux (node-v14.18.2-linux-x64)', 'state': 'closed', 'created_at': '2022-01-18T11:52:44Z', 'closed_at': '2022-01-18T12:06:30Z', 'labels': []}
+{'issuenumber': 913, 'title': 'npm i bcrypt error', 'state': 'closed', 'created_at': '2022-01-13T23:31:38Z', 'closed_at': '2022-01-14T18:11:56Z', 'labels': []}
+{'issuenumber': 912, 'title': 'Error while installing bcrypt', 'state': 'closed', 'created_at': '2022-01-12T04:59:48Z', 'closed_at': '2022-01-14T18:11:21Z', 'labels': []}
+{'issuenumber': 911, 'title': 'Bcrypt does not exist on these urls', 'state': 'closed', 'created_at': '2022-01-10T07:17:51Z', 'closed_at': '2022-01-14T18:17:31Z', 'labels': []}
+{'issuenumber': 910, 'title': "v5.0.1 release doesn't include build for all the architectures as 5.0.0 does", 'state': 'closed', 'created_at': '2022-01-05T08:33:17Z', 'closed_at': '2022-01-05T16:51:12Z', 'labels': []}
+{'issuenumber': 908, 'title': 'Cannot install bcrypt on OpenSUSE Tumbleweed, NodeJS 14', 'state': 'closed', 'created_at': '2021-12-25T06:18:15Z', 'closed_at': '2022-01-14T18:18:04Z', 'labels': []}
+{'issuenumber': 907, 'title': "Failed at the bcrypt@0.8.7 install script 'node-gyp rebuild'.", 'state': 'closed', 'created_at': '2021-12-23T20:17:54Z', 'closed_at': '2021-12-24T04:29:46Z', 'labels': []}
+{'issuenumber': 903, 'title': ' Error: data must be a string or Buffer and salt must either be a salt string or a number of rounds', 'state': 'closed', 'created_at': '2021-11-16T13:51:35Z', 'closed_at': '2021-11-17T15:31:55Z', 'labels': []}
+{'issuenumber': 902, 'title': 'Compare always returning undefined', 'state': 'closed', 'created_at': '2021-11-09T02:34:08Z', 'closed_at': '2021-11-10T02:01:03Z', 'labels': []}
+{'issuenumber': 900, 'title': 'Is there a way of changing the hash algorithm from `$2a$` to `$2b$`', 'state': 'closed', 'created_at': '2021-11-06T20:52:15Z', 'closed_at': '2022-03-25T05:44:58Z', 'labels': []}
+{'issuenumber': 885, 'title': 'Inconsistent results from bcrypt.compare', 'state': 'closed', 'created_at': '2021-07-24T09:28:11Z', 'closed_at': '2021-07-28T19:51:28Z', 'labels': []}
+{'issuenumber': 884, 'title': 'npm ERR! bcrypt@5.0.1 install: `node-pre-gyp install --fallback-to-build`', 'state': 'closed', 'created_at': '2021-07-17T03:04:24Z', 'closed_at': '2021-07-17T03:40:45Z', 'labels': []}
+{'issuenumber': 882, 'title': 'docker node:14.17-stretch and bcrypt is a dependency of a dependency', 'state': 'closed', 'created_at': '2021-06-27T06:03:49Z', 'closed_at': '2021-07-08T13:22:56Z', 'labels': []}
+{'issuenumber': 881, 'title': 'How to get `nan.h` , to support the build?', 'state': 'closed', 'created_at': '2021-06-25T04:09:35Z', 'closed_at': '2021-06-25T05:25:41Z', 'labels': []}
+{'issuenumber': 880, 'title': 'ERR node-pre-gyp install --fallback-to-build', 'state': 'closed', 'created_at': '2021-06-22T08:34:01Z', 'closed_at': '2021-06-25T05:26:32Z', 'labels': []}
+{'issuenumber': 876, 'title': 'install bcrypt error: Undefined variable module_name in binding.gyp while trying to load binding.gyp', 'state': 'closed', 'created_at': '2021-05-20T21:07:28Z', 'closed_at': '2021-05-23T19:42:32Z', 'labels': []}
+{'issuenumber': 875, 'title': 'npm ERR! bcrypt@5.0.1 install: `node-pre-gyp install --fallback-to-build`', 'state': 'closed', 'created_at': '2021-05-17T17:34:39Z', 'closed_at': '2021-07-31T20:30:56Z', 'labels': []}
+{'issuenumber': 874, 'title': 'Cannot bundle bcrypt', 'state': 'closed', 'created_at': '2021-05-05T06:19:14Z', 'closed_at': '2021-05-06T14:32:33Z', 'labels': []}
+{'issuenumber': 873, 'title': 'Error: EPERM: operation not permitted', 'state': 'closed', 'created_at': '2021-05-02T18:02:36Z', 'closed_at': '2021-05-17T18:51:37Z', 'labels': []}
+{'issuenumber': 870, 'title': 'Minimum salt is 4?', 'state': 'closed', 'created_at': '2021-04-30T07:31:36Z', 'closed_at': '2021-05-04T18:34:45Z', 'labels': []}
+{'issuenumber': 869, 'title': 'node-pre-gyp install --fallback-to-build not generated anything', 'state': 'closed', 'created_at': '2021-04-28T07:34:11Z', 'closed_at': '2021-06-11T07:31:28Z', 'labels': []}
+{'issuenumber': 868, 'title': 'mac m1 bcrypt@5.0.1 install: `node-pre-gyp install --fallback-to-build`', 'state': 'closed', 'created_at': '2021-04-27T22:49:14Z', 'closed_at': '2022-01-14T18:17:10Z', 'labels': []}
+{'issuenumber': 866, 'title': 'Issue with installing bcrypt with npm', 'state': 'closed', 'created_at': '2021-04-03T14:41:25Z', 'closed_at': '2021-04-03T16:34:25Z', 'labels': []}
+{'issuenumber': 864, 'title': 'bcrypt_lib-v5.0.1-napi-v3-linux-x64-glibc.tar.gz is not found ', 'state': 'closed', 'created_at': '2021-03-08T06:06:30Z', 'closed_at': '2021-03-08T17:35:06Z', 'labels': []}
+{'issuenumber': 863, 'title': "Error: /lib64/libstdc++.so.6: version `CXXABI_1.3.8' not found", 'state': 'closed', 'created_at': '2021-03-01T17:47:47Z', 'closed_at': '2021-03-08T17:35:25Z', 'labels': []}
+{'issuenumber': 862, 'title': 'bycrypt- Not Found', 'state': 'closed', 'created_at': '2021-03-01T10:26:37Z', 'closed_at': '2021-03-08T17:37:14Z', 'labels': []}
+{'issuenumber': 861, 'title': 'How can we generate a $2a$ hash?', 'state': 'closed', 'created_at': '2021-02-26T01:38:22Z', 'closed_at': '2021-02-26T02:01:46Z', 'labels': []}
+{'issuenumber': 860, 'title': 'Bcrypt compare (only this method) crashing node application on Docker.', 'state': 'closed', 'created_at': '2021-02-24T21:31:26Z', 'closed_at': '2021-05-30T16:35:01Z', 'labels': []}
+{'issuenumber': 859, 'title': 'Random lock-ups with Node.js v14.15.4', 'state': 'closed', 'created_at': '2021-02-24T13:46:15Z', 'closed_at': '2021-02-25T02:11:32Z', 'labels': []}
+{'issuenumber': 857, 'title': 'Unable to install on windows', 'state': 'closed', 'created_at': '2021-02-21T11:35:40Z', 'closed_at': '2021-03-08T17:38:45Z', 'labels': []}
+{'issuenumber': 855, 'title': 'npm WARN deprecated node-pre-gyp@0.15.0', 'state': 'closed', 'created_at': '2021-02-19T11:15:02Z', 'closed_at': '2021-03-08T17:37:29Z', 'labels': []}
+{'issuenumber': 854, 'title': 'Cannot install bcrypt', 'state': 'closed', 'created_at': '2021-02-19T07:02:35Z', 'closed_at': '2021-02-19T08:12:25Z', 'labels': []}
+{'issuenumber': 853, 'title': 'bcrypt_lib-v3.0.6-node-v83-win32-x64-unknown.tar.gz', 'state': 'closed', 'created_at': '2021-02-03T15:26:44Z', 'closed_at': '2021-02-04T02:43:54Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 850, 'title': "Bcrypt 'ini' v1.3.5 dependency is vulnerable", 'state': 'closed', 'created_at': '2021-01-31T14:27:41Z', 'closed_at': '2021-02-03T17:25:31Z', 'labels': []}
+{'issuenumber': 846, 'title': 'npm ERR! bcrypt@5.0.0 install: `node-pre-gyp install --fallback-to-build`', 'state': 'closed', 'created_at': '2021-01-06T07:39:41Z', 'closed_at': '2021-01-06T08:41:05Z', 'labels': []}
+{'issuenumber': 845, 'title': 'Error While Installing Brcrypt in Ubuntu 18.04 using Node 14.15.3', 'state': 'closed', 'created_at': '2021-01-01T15:49:29Z', 'closed_at': '2021-02-04T02:45:32Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 844, 'title': "TypeScript types don't support `compare` returning a promise", 'state': 'closed', 'created_at': '2020-12-28T07:03:59Z', 'closed_at': '2020-12-28T07:07:40Z', 'labels': []}
+{'issuenumber': 843, 'title': 'Error while installing on ubuntu 18.04', 'state': 'closed', 'created_at': '2020-12-09T16:40:21Z', 'closed_at': '2021-02-04T02:46:03Z', 'labels': []}
+{'issuenumber': 842, 'title': 'npm ERR! code ELIFECYCLE npm ERR! errno 1 npm ERR! bcrypt@3.0.2 install: `node-pre-gyp install --fallback-to-build` npm ERR! Exit status 1 npm ERR!  npm ERR! Failed at the bcrypt@3.0.2 install script. npm ERR! This is probably not a problem with npm. There is likely additional logging output above.  npm ERR! A complete log of this run can be found in: npm ERR!     C:\\Users\\Rohan sharma\\AppData\\Roaming\\npm-cache\\_logs\\2020-12-04T09_05_44_645Z-debug.log', 'state': 'closed', 'created_at': '2020-12-04T09:07:31Z', 'closed_at': '2020-12-06T19:57:29Z', 'labels': []}
+{'issuenumber': 840, 'title': 'Giving Warning with node14.15.1 and npm6.14.8', 'state': 'closed', 'created_at': '2020-11-19T17:53:52Z', 'closed_at': '2020-11-19T17:58:09Z', 'labels': []}
+{'issuenumber': 839, 'title': '.', 'state': 'closed', 'created_at': '2020-11-11T14:19:30Z', 'closed_at': '2020-11-11T14:19:55Z', 'labels': []}
+{'issuenumber': 836, 'title': 'Installation Warning', 'state': 'closed', 'created_at': '2020-10-19T08:13:01Z', 'closed_at': '2020-10-20T06:13:16Z', 'labels': {'name': 'question'}}
+{'issuenumber': 835, 'title': 'Critical dependency: the request of a dependency is an expression', 'state': 'closed', 'created_at': '2020-10-15T13:14:25Z', 'closed_at': '2020-10-20T06:16:03Z', 'labels': []}
+{'issuenumber': 834, 'title': 'bcrypt@2.0.1 trying to download from wrong url results 404. How to fix?', 'state': 'closed', 'created_at': '2020-10-07T07:21:00Z', 'closed_at': '2020-10-08T04:28:52Z', 'labels': []}
+{'issuenumber': 833, 'title': "hash doesn't return anything", 'state': 'closed', 'created_at': '2020-09-30T23:47:46Z', 'closed_at': '2020-10-01T02:20:50Z', 'labels': []}
+{'issuenumber': 832, 'title': 'Feature request: calibrate salt_rounds', 'state': 'closed', 'created_at': '2020-09-18T12:30:08Z', 'closed_at': '2020-09-18T15:20:56Z', 'labels': []}
+{'issuenumber': 831, 'title': 'ReferenceError: bcrypt is not defined', 'state': 'closed', 'created_at': '2020-09-11T05:34:55Z', 'closed_at': '2020-09-11T05:53:53Z', 'labels': []}
+{'issuenumber': 829, 'title': 'Does node12.18.3 not support the installation of bcrypt3.0.8?', 'state': 'closed', 'created_at': '2020-09-07T10:18:49Z', 'closed_at': '2020-10-20T06:16:43Z', 'labels': []}
+{'issuenumber': 828, 'title': 'Improve docs, more details for hash() return value', 'state': 'closed', 'created_at': '2020-09-06T19:17:39Z', 'closed_at': '2020-12-06T19:58:36Z', 'labels': []}
+{'issuenumber': 827, 'title': 'Error on dependency node-pre-gyp, downloads from remote', 'state': 'closed', 'created_at': '2020-09-05T18:46:11Z', 'closed_at': '2020-10-20T06:19:01Z', 'labels': []}
+{'issuenumber': 826, 'title': "I'm using node 12.18.3 and could not install bcrypt@3.0.6. ", 'state': 'closed', 'created_at': '2020-08-23T13:20:19Z', 'closed_at': '2020-08-27T23:20:41Z', 'labels': []}
+{'issuenumber': 824, 'title': 'Error while building a docker image ', 'state': 'closed', 'created_at': '2020-08-19T13:00:21Z', 'closed_at': '2021-03-08T17:37:46Z', 'labels': {'name': 'question'}}
+{'issuenumber': 823, 'title': ' data and salt arguments required', 'state': 'closed', 'created_at': '2020-08-03T12:25:34Z', 'closed_at': '2020-08-12T08:10:13Z', 'labels': []}
+{'issuenumber': 822, 'title': 'passwords not hashing properly', 'state': 'closed', 'created_at': '2020-08-01T22:12:20Z', 'closed_at': '2020-08-02T02:19:37Z', 'labels': []}
+{'issuenumber': 821, 'title': 'compare() allways return true', 'state': 'closed', 'created_at': '2020-07-29T10:13:26Z', 'closed_at': '2021-02-03T11:52:37Z', 'labels': []}
+{'issuenumber': 820, 'title': 'Compare not working', 'state': 'closed', 'created_at': '2020-07-28T00:13:08Z', 'closed_at': '2020-07-28T11:16:13Z', 'labels': []}
+{'issuenumber': 818, 'title': '[nodemon] app crashed', 'state': 'closed', 'created_at': '2020-07-22T07:11:09Z', 'closed_at': '2021-02-03T11:55:00Z', 'labels': []}
+{'issuenumber': 817, 'title': 'node-pre-gyp WARN Using needle for node-pre-gyp https download', 'state': 'closed', 'created_at': '2020-07-20T17:25:16Z', 'closed_at': '2020-07-21T07:08:56Z', 'labels': []}
+{'issuenumber': 816, 'title': 'Getting this issue', 'state': 'closed', 'created_at': '2020-07-19T18:08:28Z', 'closed_at': '2020-10-20T06:17:02Z', 'labels': []}
+{'issuenumber': 815, 'title': 'npm i bcrypt does not work npm version -6.14.6  node version - 12.18.0 $ npm install bcrypt  > bcrypt@5.0.0 install D:\\courses\\Angela Yu - Web Development\\31. Authentication & Security\\Secrets - Starting Code\\node_modules\\bcrypt         > node-pre-gyp install --fallback-to-build  The system cannot find the path specified. \'"node"\' is not recognized as an internal or external command, operable program or batch file. npm WARN website@1.0.0 No description npm WARN website@1.0.0 No repository field.  npm ERR! code ELIFECYCLE npm ERR! errno 9009 npm ERR! bcrypt@5.0.0 install: `node-pre-gyp install --fallback-to-build` npm ERR! Exit status 9009 npm ERR! npm ERR! Failed at the bcrypt@5.0.0 install script. npm ERR! This is probably not a problem with npm. There is likely additional logging output above.  npm ERR! A complete log of this run can be found in: npm ERR!     C:\\Users\\Aryan chauhan\\AppData\\Roaming\\npm-cache\\_logs\\2020-07-15T16_53_36_616Z-debug.log', 'state': 'closed', 'created_at': '2020-07-15T16:55:15Z', 'closed_at': '2020-07-15T16:57:48Z', 'labels': []}
+{'issuenumber': 814, 'title': 'Version 5.0.0 symbol lookup error', 'state': 'closed', 'created_at': '2020-07-01T01:50:15Z', 'closed_at': '2020-07-01T10:00:07Z', 'labels': []}
+{'issuenumber': 813, 'title': 'bcrypt fails in GitHub Actions', 'state': 'closed', 'created_at': '2020-06-14T20:46:06Z', 'closed_at': '2020-06-15T09:51:48Z', 'labels': []}
+{'issuenumber': 812, 'title': 'Add to readme: What are saltRounds?', 'state': 'closed', 'created_at': '2020-06-09T09:40:24Z', 'closed_at': '2020-06-09T09:42:39Z', 'labels': []}
+{'issuenumber': 810, 'title': 'Password not saving in the DB.', 'state': 'closed', 'created_at': '2020-06-05T12:08:11Z', 'closed_at': '2020-06-05T12:31:13Z', 'labels': []}
+{'issuenumber': 809, 'title': 'Upload 5.0.0 to npm', 'state': 'closed', 'created_at': '2020-06-05T09:00:02Z', 'closed_at': '2020-06-08T10:07:36Z', 'labels': []}
+{'issuenumber': 808, 'title': "Async/Await - missing 'await' results in match always being 'true'", 'state': 'closed', 'created_at': '2020-06-03T23:43:37Z', 'closed_at': '2020-07-28T11:17:24Z', 'labels': {'name': 'question'}}
+{'issuenumber': 805, 'title': '[URGENT] Installation failed on production system', 'state': 'closed', 'created_at': '2020-05-28T20:01:26Z', 'closed_at': '2020-05-29T10:36:13Z', 'labels': []}
+{'issuenumber': 803, 'title': '"node-pre-gyp install --fallback-to-build" in node v12.16.3 / arm64 / Rasbperry Pi', 'state': 'closed', 'created_at': '2020-05-26T18:58:11Z', 'closed_at': '2020-06-08T10:08:26Z', 'labels': []}
+{'issuenumber': 801, 'title': 'Want to have document update about combination of bcrypt@4.x and alpine linux', 'state': 'closed', 'created_at': '2020-05-14T15:25:25Z', 'closed_at': '2020-06-24T07:25:56Z', 'labels': []}
+{'issuenumber': 800, 'title': "Error: Cannot find module '...../bcrypt/lib/binding/napi-v3/bcrypt_lib.node'", 'state': 'closed', 'created_at': '2020-05-13T21:38:47Z', 'closed_at': '2020-05-14T02:10:12Z', 'labels': []}
+{'issuenumber': 798, 'title': '3.0.8 pre-built binary works for Node 12.16.2 but not 12.16.3', 'state': 'closed', 'created_at': '2020-05-13T09:50:49Z', 'closed_at': '2020-05-29T10:35:54Z', 'labels': []}
+{'issuenumber': 797, 'title': 'Pre-built binaries not installable for bcrypt@4.0.1 and node@12.16.3 ', 'state': 'closed', 'created_at': '2020-05-06T05:32:15Z', 'closed_at': '2020-05-29T10:36:02Z', 'labels': []}
+{'issuenumber': 796, 'title': 'Failing to install prebuild binaries in node v12 and Ubuntu 18.04', 'state': 'closed', 'created_at': '2020-05-06T02:16:32Z', 'closed_at': '2020-06-01T18:42:36Z', 'labels': []}
+{'issuenumber': 795, 'title': 'Bcrypt Compare failing with Node Alpine in Docker', 'state': 'closed', 'created_at': '2020-05-04T15:21:00Z', 'closed_at': '2020-05-04T15:38:28Z', 'labels': []}
+{'issuenumber': 794, 'title': 'Error: Cannot find module `node-pre-gyp\\bin\\node-pre-gyp` looking in wrong path', 'state': 'closed', 'created_at': '2020-05-01T12:04:37Z', 'closed_at': '2020-05-01T17:13:00Z', 'labels': []}
+{'issuenumber': 793, 'title': 'Tried to download(404): https://github.com/kelektiv/node.bcrypt.js/releases/download/v3.0.8/bcrypt_lib-v3.0.8-node-v64-linux-x64-musl.tar.gz ', 'state': 'closed', 'created_at': '2020-04-24T13:26:06Z', 'closed_at': '2020-05-13T13:22:11Z', 'labels': []}
+{'issuenumber': 792, 'title': 'Expected in: flat namespace', 'state': 'closed', 'created_at': '2020-03-20T13:21:17Z', 'closed_at': '2020-06-08T10:08:46Z', 'labels': []}
+{'issuenumber': 791, 'title': 'mkdirp@0.5.3: Legacy versions of mkdirp are no longer supported. Please update to mkdirp 1.x. (Note that the API surface has changed to use Promises in 1.x.)', 'state': 'closed', 'created_at': '2020-03-19T13:56:40Z', 'closed_at': '2020-06-01T22:52:32Z', 'labels': []}
+{'issuenumber': 790, 'title': 'v4.0.0 is missing release notes/changelog', 'state': 'closed', 'created_at': '2020-03-16T11:13:12Z', 'closed_at': '2020-03-16T12:34:10Z', 'labels': []}
+{'issuenumber': 789, 'title': 'Installation failed bcrypt@4 on windows 10', 'state': 'closed', 'created_at': '2020-03-08T17:28:29Z', 'closed_at': '2020-03-08T19:32:44Z', 'labels': []}
+{'issuenumber': 788, 'title': 'Linux-alpine issue', 'state': 'closed', 'created_at': '2020-03-03T08:54:36Z', 'closed_at': '2020-03-05T12:55:45Z', 'labels': []}
+{'issuenumber': 786, 'title': 'Version 4 doenst work with node 8.15', 'state': 'closed', 'created_at': '2020-02-25T08:33:27Z', 'closed_at': '2020-02-26T13:12:55Z', 'labels': []}
+{'issuenumber': 782, 'title': 'bcrypt musl u_int8_t', 'state': 'closed', 'created_at': '2020-02-21T14:11:24Z', 'closed_at': '2020-02-28T17:02:15Z', 'labels': []}
+{'issuenumber': 776, 'title': 'Some compatibility issue with emoji', 'state': 'closed', 'created_at': '2020-01-25T13:41:58Z', 'closed_at': '2020-06-01T09:44:36Z', 'labels': []}
+{'issuenumber': 775, 'title': 'Prebuild releases for window', 'state': 'closed', 'created_at': '2020-01-14T15:48:33Z', 'closed_at': '2020-02-17T12:47:20Z', 'labels': []}
+{'issuenumber': 774, 'title': 'Passwords are stripped after an ASCII NUL character', 'state': 'closed', 'created_at': '2020-01-13T19:24:26Z', 'closed_at': '2020-06-01T18:32:27Z', 'labels': []}
+{'issuenumber': 773, 'title': 'Have to use Python 2 for using bcrypt in latest stable node version?', 'state': 'closed', 'created_at': '2020-01-08T06:42:33Z', 'closed_at': '2020-02-17T12:49:36Z', 'labels': []}
+{'issuenumber': 772, 'title': 'fail to run aplication', 'state': 'closed', 'created_at': '2020-01-06T15:08:36Z', 'closed_at': '2020-02-26T14:25:57Z', 'labels': []}
+{'issuenumber': 771, 'title': 'Version 3.0.0 is missing precompiled binaries and fails to compile', 'state': 'closed', 'created_at': '2019-12-09T10:04:10Z', 'closed_at': '2020-02-17T12:55:22Z', 'labels': []}
+{'issuenumber': 770, 'title': 'v3.0.7 release missing windows .tar.gz files', 'state': 'closed', 'created_at': '2019-12-04T05:55:47Z', 'closed_at': '2019-12-04T05:57:58Z', 'labels': []}
+{'issuenumber': 769, 'title': 'compareSync fails on Windows 10 WSL', 'state': 'closed', 'created_at': '2019-11-29T20:44:02Z', 'closed_at': '2019-11-29T21:01:25Z', 'labels': []}
+{'issuenumber': 768, 'title': "why i can install 3.0.6,bug i can't install 3.0.7", 'state': 'closed', 'created_at': '2019-11-23T06:06:14Z', 'closed_at': '2020-02-17T13:00:47Z', 'labels': []}
+{'issuenumber': 767, 'title': 'Bcrypt 3.0.7 does not install correctly on nodejs 12.13', 'state': 'closed', 'created_at': '2019-11-21T21:01:55Z', 'closed_at': '2019-11-21T21:51:03Z', 'labels': []}
+{'issuenumber': 766, 'title': "can't install bcrypt.js", 'state': 'closed', 'created_at': '2019-11-20T06:36:00Z', 'closed_at': '2020-01-10T04:24:22Z', 'labels': []}
+{'issuenumber': 765, 'title': 'bcrypt install failed because node-pre-gyp install failed ', 'state': 'closed', 'created_at': '2019-11-17T11:29:51Z', 'closed_at': '2019-11-17T11:46:21Z', 'labels': []}
+{'issuenumber': 764, 'title': 'Updates not pushed to npm.js repo', 'state': 'closed', 'created_at': '2019-11-03T16:54:44Z', 'closed_at': '2019-11-22T21:21:22Z', 'labels': []}
+{'issuenumber': 761, 'title': 'not work with node v12.13.0', 'state': 'closed', 'created_at': '2019-10-27T08:55:41Z', 'closed_at': '2020-02-17T12:55:21Z', 'labels': []}
+{'issuenumber': 760, 'title': 'Error bcrypt@3.0.6   bcrypt@3.0.7 in node 12', 'state': 'closed', 'created_at': '2019-10-20T02:59:38Z', 'closed_at': '2019-12-30T05:35:48Z', 'labels': []}
+{'issuenumber': 759, 'title': 'Docker node 12 node-pre-gyp WARN bcypt 3.06', 'state': 'closed', 'created_at': '2019-10-09T11:15:33Z', 'closed_at': '2020-02-17T12:59:48Z', 'labels': []}
+{'issuenumber': 758, 'title': "Module not found: Error: Can't resolve 'aws-sdk' in ", 'state': 'closed', 'created_at': '2019-09-29T09:39:59Z', 'closed_at': '2020-02-17T12:55:21Z', 'labels': []}
+{'issuenumber': 757, 'title': 'pakage not found ', 'state': 'closed', 'created_at': '2019-09-26T13:02:28Z', 'closed_at': '2020-02-17T12:55:21Z', 'labels': []}
+{'issuenumber': 756, 'title': 'No longer installs', 'state': 'closed', 'created_at': '2019-09-23T23:50:35Z', 'closed_at': '2020-02-17T13:01:58Z', 'labels': []}
+{'issuenumber': 755, 'title': 'Error: invalid ELF header', 'state': 'closed', 'created_at': '2019-09-23T17:03:08Z', 'closed_at': '2019-09-23T19:48:05Z', 'labels': []}
+{'issuenumber': 754, 'title': 'Python 2 will be deprecated in a little more than 3 months', 'state': 'closed', 'created_at': '2019-09-12T15:51:55Z', 'closed_at': '2020-02-17T12:55:20Z', 'labels': []}
+{'issuenumber': 753, 'title': 'Failed when compared hash generated by online generator', 'state': 'closed', 'created_at': '2019-09-06T15:19:59Z', 'closed_at': '2020-02-19T12:17:02Z', 'labels': []}
+{'issuenumber': 752, 'title': 'bcrypt version error', 'state': 'closed', 'created_at': '2019-08-28T12:17:17Z', 'closed_at': '2020-02-17T13:02:09Z', 'labels': []}
+{'issuenumber': 751, 'title': 'Unable to install bcrypt (WSL)', 'state': 'closed', 'created_at': '2019-08-26T20:32:48Z', 'closed_at': '2020-02-17T12:55:43Z', 'labels': []}
+{'issuenumber': 750, 'title': 'cant install 3.0.6 on win10 ', 'state': 'closed', 'created_at': '2019-08-17T21:08:21Z', 'closed_at': '2019-08-20T00:38:53Z', 'labels': []}
+{'issuenumber': 749, 'title': 'Salt shows up as first part of hash? ', 'state': 'closed', 'created_at': '2019-08-15T17:33:15Z', 'closed_at': '2019-08-15T17:40:16Z', 'labels': []}
+{'issuenumber': 747, 'title': 'WebAssembly', 'state': 'closed', 'created_at': '2019-07-29T18:12:08Z', 'closed_at': '2020-02-17T12:55:20Z', 'labels': []}
+{'issuenumber': 746, 'title': 'cannot install Bcrypt', 'state': 'closed', 'created_at': '2019-07-26T14:08:27Z', 'closed_at': '2020-02-17T13:03:55Z', 'labels': []}
+{'issuenumber': 745, 'title': 'Cannot install  bcrypt', 'state': 'closed', 'created_at': '2019-07-25T16:45:29Z', 'closed_at': '2019-08-02T06:44:19Z', 'labels': []}
+{'issuenumber': 742, 'title': 'Bcrypt install fails with json error', 'state': 'closed', 'created_at': '2019-07-22T06:43:51Z', 'closed_at': '2019-07-23T05:42:10Z', 'labels': []}
+{'issuenumber': 741, 'title': 'Bcrypt fails install on node11-alpine docker image even with rebuild from source', 'state': 'closed', 'created_at': '2019-07-19T16:02:18Z', 'closed_at': '2019-07-20T13:19:38Z', 'labels': []}
+{'issuenumber': 740, 'title': 'Cannot install bcrypt via yarn', 'state': 'closed', 'created_at': '2019-07-18T10:07:00Z', 'closed_at': '2020-02-17T12:54:42Z', 'labels': []}
+{'issuenumber': 739, 'title': 'Help with understanding the compatibility matrix', 'state': 'closed', 'created_at': '2019-07-11T08:34:37Z', 'closed_at': '2020-02-17T13:03:16Z', 'labels': {'name': 'question'}}
+{'issuenumber': 738, 'title': '403 forbidden when downloading package from curl or npm', 'state': 'closed', 'created_at': '2019-07-10T15:44:27Z', 'closed_at': '2020-02-17T13:03:31Z', 'labels': []}
+{'issuenumber': 737, 'title': '[Question] Version upgrade guide', 'state': 'closed', 'created_at': '2019-07-10T05:44:54Z', 'closed_at': '2019-07-10T05:52:27Z', 'labels': []}
+{'issuenumber': 736, 'title': 'Bcrypts npm install fails in docker container with node 10.16.0', 'state': 'closed', 'created_at': '2019-07-10T00:10:03Z', 'closed_at': '2020-02-17T13:01:05Z', 'labels': []}
+{'issuenumber': 735, 'title': 'cannot install bcrypt', 'state': 'closed', 'created_at': '2019-07-01T14:13:14Z', 'closed_at': '2020-02-17T12:55:20Z', 'labels': []}
+{'issuenumber': 734, 'title': 'Salt rounds 20 not working', 'state': 'closed', 'created_at': '2019-06-22T16:43:24Z', 'closed_at': '2020-02-17T12:57:21Z', 'labels': {'name': 'question'}}
+{'issuenumber': 733, 'title': 'Bcrypt failed to install via npm or yarn', 'state': 'closed', 'created_at': '2019-06-21T00:30:43Z', 'closed_at': '2020-02-17T12:51:48Z', 'labels': []}
+{'issuenumber': 732, 'title': "Not expected error: bcrypt.compare doen't work", 'state': 'closed', 'created_at': '2019-06-17T14:30:38Z', 'closed_at': '2019-06-17T15:21:46Z', 'labels': []}
+{'issuenumber': 731, 'title': '72 bytes not characters?', 'state': 'closed', 'created_at': '2019-06-12T23:05:09Z', 'closed_at': '2019-12-30T08:43:00Z', 'labels': {'name': 'question'}}
+{'issuenumber': 730, 'title': 'BCrypt fails to install on Node v12.4.0', 'state': 'closed', 'created_at': '2019-06-09T18:52:01Z', 'closed_at': '2020-02-17T12:57:02Z', 'labels': []}
+{'issuenumber': 729, 'title': 'Installing bcrypt@3.0.6 on Alpine Node 10', 'state': 'closed', 'created_at': '2019-06-02T10:50:07Z', 'closed_at': '2020-02-17T13:05:46Z', 'labels': []}
+{'issuenumber': 728, 'title': 'npm install bcrypt@3.0.6 fails with node 12.3.0', 'state': 'closed', 'created_at': '2019-05-22T15:42:06Z', 'closed_at': '2020-02-17T13:02:36Z', 'labels': []}
+{'issuenumber': 725, 'title': 'Pre-built binaries not found for bcrypt@3.0.6 and node@12.2.0 (node-v72 ABI, unknown) ', 'state': 'closed', 'created_at': '2019-05-16T14:48:04Z', 'closed_at': '2020-02-17T12:55:20Z', 'labels': []}
+{'issuenumber': 724, 'title': 'module initialization error: Error', 'state': 'closed', 'created_at': '2019-05-13T12:06:14Z', 'closed_at': '2019-10-29T13:23:32Z', 'labels': []}
+{'issuenumber': 723, 'title': "gyp ERR! stack Error: EACCES: permission denied, mkdir '/Users/Test/Desktop/RESTfulAPITutorial-password-reset/node_modules/bcrypt/build'", 'state': 'closed', 'created_at': '2019-05-09T05:03:44Z', 'closed_at': '2019-11-03T16:18:35Z', 'labels': []}
+{'issuenumber': 722, 'title': 'bcrypt 中 bcrypt.genSalt停止运行', 'state': 'closed', 'created_at': '2019-05-08T07:13:12Z', 'closed_at': '2020-02-17T13:04:13Z', 'labels': []}
+{'issuenumber': 721, 'title': 'Prebuild binaries for Node 12 LTS (v72)', 'state': 'closed', 'created_at': '2019-04-25T11:16:30Z', 'closed_at': '2020-02-17T12:50:24Z', 'labels': []}
+{'issuenumber': 720, 'title': 'CompareStrings is not timing safe', 'state': 'closed', 'created_at': '2019-04-24T12:58:30Z', 'closed_at': '2020-02-17T13:06:02Z', 'labels': []}
+{'issuenumber': 719, 'title': 'feature: browser version (including ie 11)', 'state': 'closed', 'created_at': '2019-04-20T03:07:02Z', 'closed_at': '2019-04-21T02:34:36Z', 'labels': {'name': 'question'}}
+{'issuenumber': 718, 'title': "'nan_callbacks.h' file not found", 'state': 'closed', 'created_at': '2019-04-17T07:33:59Z', 'closed_at': '2020-02-17T13:02:51Z', 'labels': []}
+{'issuenumber': 717, 'title': 'Unable to install bcrypt. installation fails', 'state': 'closed', 'created_at': '2019-04-11T09:23:03Z', 'closed_at': '2019-04-11T09:28:12Z', 'labels': []}
+{'issuenumber': 715, 'title': 'Fails on Node.js v12', 'state': 'closed', 'created_at': '2019-04-05T22:04:11Z', 'closed_at': '2019-08-11T16:12:14Z', 'labels': []}
+{'issuenumber': 714, 'title': 'Automatic computation of salt rounds based on target hash time', 'state': 'closed', 'created_at': '2019-03-25T15:03:32Z', 'closed_at': '2020-02-17T13:06:10Z', 'labels': []}
+{'issuenumber': 713, 'title': 'bcrypt v3.0.5 failing in windows x64', 'state': 'closed', 'created_at': '2019-03-20T08:48:12Z', 'closed_at': '2019-03-20T16:35:47Z', 'labels': []}
+{'issuenumber': 711, 'title': 'bcrypt install fails using npm but is successful with yarn and pnpm (NodeJS versions 8.15.1 and 10.15.3)', 'state': 'closed', 'created_at': '2019-03-19T02:53:36Z', 'closed_at': '2020-02-17T13:04:27Z', 'labels': []}
+{'issuenumber': 710, 'title': "Can't start Npm", 'state': 'closed', 'created_at': '2019-03-10T13:45:16Z', 'closed_at': '2019-08-11T16:16:10Z', 'labels': []}
+{'issuenumber': 709, 'title': 'bcrypt crashes in child process', 'state': 'closed', 'created_at': '2019-03-08T08:18:24Z', 'closed_at': '2020-02-26T14:25:37Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 708, 'title': 'Help: Segmentation fault (core dumped)', 'state': 'closed', 'created_at': '2019-02-28T08:01:09Z', 'closed_at': '2019-03-02T03:59:04Z', 'labels': []}
+{'issuenumber': 707, 'title': 't', 'state': 'closed', 'created_at': '2019-02-16T16:40:37Z', 'closed_at': '2019-03-19T18:43:43Z', 'labels': []}
+{'issuenumber': 706, 'title': '404 bcrypt error when building docker container', 'state': 'closed', 'created_at': '2019-02-14T07:32:08Z', 'closed_at': '2019-02-14T08:01:48Z', 'labels': []}
+{'issuenumber': 705, 'title': '[Question] Difference between bcrypt and bcryptjs', 'state': 'closed', 'created_at': '2019-02-13T16:58:00Z', 'closed_at': '2019-02-14T10:42:43Z', 'labels': {'name': 'question'}}
+{'issuenumber': 704, 'title': 'package includes node_modules?', 'state': 'closed', 'created_at': '2019-02-12T11:38:00Z', 'closed_at': '2019-03-19T18:44:19Z', 'labels': {'name': 'cleanup'}}
+{'issuenumber': 703, 'title': 'ypt', 'state': 'closed', 'created_at': '2019-02-11T04:40:59Z', 'closed_at': '2019-02-11T04:41:26Z', 'labels': []}
+{'issuenumber': 702, 'title': 'Is Node.js 11 Officially Supported?', 'state': 'closed', 'created_at': '2019-02-09T07:07:18Z', 'closed_at': '2019-02-09T07:12:27Z', 'labels': []}
+{'issuenumber': 701, 'title': 'Support for Node 11', 'state': 'closed', 'created_at': '2019-02-07T11:04:27Z', 'closed_at': '2019-02-07T12:25:57Z', 'labels': []}
+{'issuenumber': 700, 'title': '404 when trying to npm install', 'state': 'closed', 'created_at': '2019-02-04T21:52:09Z', 'closed_at': '2019-02-06T18:53:49Z', 'labels': []}
+{'issuenumber': 697, 'title': "“npm install bcrypt” failing with “Error: Cannot find module 'nan'”", 'state': 'closed', 'created_at': '2019-01-21T20:01:28Z', 'closed_at': '2019-03-19T18:45:27Z', 'labels': []}
+{'issuenumber': 696, 'title': 'How to avoid bcrypt generating hashes with a slash?', 'state': 'closed', 'created_at': '2019-01-19T17:53:41Z', 'closed_at': '2019-04-21T09:27:14Z', 'labels': {'name': 'question'}}
+{'issuenumber': 695, 'title': 'Bcrypt Installation error `node-pre-gyp install --fallback-to-build`', 'state': 'closed', 'created_at': '2019-01-19T04:49:19Z', 'closed_at': '2019-03-19T18:52:41Z', 'labels': []}
+{'issuenumber': 694, 'title': "Can't build on Raspberry Pi", 'state': 'closed', 'created_at': '2019-01-02T19:08:44Z', 'closed_at': '2020-02-17T13:05:01Z', 'labels': []}
+{'issuenumber': 693, 'title': "Can't install on Windows 10 x64", 'state': 'closed', 'created_at': '2019-01-02T11:40:35Z', 'closed_at': '2019-02-14T05:13:05Z', 'labels': []}
+{'issuenumber': 692, 'title': 'bcrypt@3.0.3 install: `node-pre-gyp install --fallback-to-build`', 'state': 'closed', 'created_at': '2018-12-30T18:56:21Z', 'closed_at': '2020-02-17T12:55:19Z', 'labels': []}
+{'issuenumber': 691, 'title': 'r', 'state': 'closed', 'created_at': '2018-12-30T00:21:47Z', 'closed_at': '2018-12-30T00:22:42Z', 'labels': []}
+{'issuenumber': 690, 'title': 'Prebuild binaries for Node 10 not available', 'state': 'closed', 'created_at': '2018-12-26T20:22:30Z', 'closed_at': '2019-03-19T18:46:17Z', 'labels': []}
+{'issuenumber': 687, 'title': 'how to migrate password from v1 to v2 or v3 ', 'state': 'closed', 'created_at': '2018-12-18T09:59:04Z', 'closed_at': '2018-12-18T10:24:45Z', 'labels': []}
+{'issuenumber': 686, 'title': '[DEP0106] DeprecationWarning', 'state': 'closed', 'created_at': '2018-12-08T13:14:36Z', 'closed_at': '2019-02-14T05:17:21Z', 'labels': []}
+{'issuenumber': 685, 'title': ' bcrypt.compare return false always. ', 'state': 'closed', 'created_at': '2018-12-07T17:58:28Z', 'closed_at': '2019-03-19T18:50:14Z', 'labels': []}
+{'issuenumber': 684, 'title': 'Node 11.3 deprecated warnings', 'state': 'closed', 'created_at': '2018-12-06T14:32:37Z', 'closed_at': '2018-12-24T03:53:25Z', 'labels': []}
+{'issuenumber': 683, 'title': 'ar', 'state': 'closed', 'created_at': '2018-11-28T15:05:29Z', 'closed_at': '2018-12-02T17:32:59Z', 'labels': []}
+{'issuenumber': 681, 'title': 'Any async function from bindings not working', 'state': 'closed', 'created_at': '2018-11-27T15:35:33Z', 'closed_at': '2019-03-19T19:08:07Z', 'labels': []}
+{'issuenumber': 680, 'title': 'Remove aws-sdk as a dependecy', 'state': 'closed', 'created_at': '2018-11-21T02:22:54Z', 'closed_at': '2018-11-21T02:28:17Z', 'labels': []}
+{'issuenumber': 679, 'title': 'Nota ble to install', 'state': 'closed', 'created_at': '2018-11-20T14:31:46Z', 'closed_at': '2019-02-14T05:16:13Z', 'labels': []}
+{'issuenumber': 678, 'title': 'npm install - cannot build bcrypt ', 'state': 'closed', 'created_at': '2018-11-19T14:17:56Z', 'closed_at': '2019-04-21T09:26:54Z', 'labels': []}
+{'issuenumber': 677, 'title': '1.0.3 Pre-built binaries not found for v64-linux-x64', 'state': 'closed', 'created_at': '2018-11-19T09:11:23Z', 'closed_at': '2018-11-19T18:07:51Z', 'labels': []}
+{'issuenumber': 675, 'title': 'r', 'state': 'closed', 'created_at': '2018-11-12T04:16:25Z', 'closed_at': '2018-11-12T09:14:31Z', 'labels': []}
+{'issuenumber': 674, 'title': "app is crashing while using bcrypt's async methods", 'state': 'closed', 'created_at': '2018-11-12T02:02:10Z', 'closed_at': '2019-03-01T14:18:13Z', 'labels': []}
+{'issuenumber': 673, 'title': 'Second argument must be a 16 byte Buffer', 'state': 'closed', 'created_at': '2018-11-01T15:04:07Z', 'closed_at': '2018-11-21T02:29:29Z', 'labels': []}
+{'issuenumber': 671, 'title': 'npm install fails in MacOS ', 'state': 'closed', 'created_at': '2018-10-31T12:06:41Z', 'closed_at': '2018-11-01T12:56:31Z', 'labels': []}
+{'issuenumber': 670, 'title': 'Unhashing?', 'state': 'closed', 'created_at': '2018-10-28T05:15:23Z', 'closed_at': '2018-11-02T18:15:17Z', 'labels': {'name': 'question'}}
+{'issuenumber': 668, 'title': 'Similar gyp error', 'state': 'closed', 'created_at': '2018-10-24T15:02:38Z', 'closed_at': '2019-03-19T18:49:13Z', 'labels': []}
+{'issuenumber': 666, 'title': 'Heroku build fails - node 8.12.0', 'state': 'closed', 'created_at': '2018-10-24T03:40:10Z', 'closed_at': '2018-10-24T05:44:24Z', 'labels': []}
+{'issuenumber': 664, 'title': "Failed at the bcrypt@*** install script 'node-gyp rebuild'.", 'state': 'closed', 'created_at': '2018-10-15T13:49:29Z', 'closed_at': '2019-03-19T18:53:17Z', 'labels': []}
+{'issuenumber': 661, 'title': 'Node getting stuck on bcrypt.hash and bcrypt.hashSync.', 'state': 'closed', 'created_at': '2018-10-09T15:49:22Z', 'closed_at': '2018-10-10T14:53:53Z', 'labels': []}
+{'issuenumber': 660, 'title': 'Node getting stuck on bcrypt.hash and bcrypt.hashSync however if I comment this statement my code going well .I am hangout in this error since morning.', 'state': 'closed', 'created_at': '2018-10-09T15:27:17Z', 'closed_at': '2018-10-09T18:08:48Z', 'labels': []}
+{'issuenumber': 659, 'title': 'Node-gyp ', 'state': 'closed', 'created_at': '2018-10-03T21:18:49Z', 'closed_at': '2018-10-04T00:31:37Z', 'labels': []}
+{'issuenumber': 658, 'title': 'Cant install 3.x version', 'state': 'closed', 'created_at': '2018-10-02T13:35:23Z', 'closed_at': '2019-03-19T18:52:00Z', 'labels': []}
+{'issuenumber': 657, 'title': '2.0.1 async functions do not work when other node module requires 1.0.3', 'state': 'closed', 'created_at': '2018-10-01T15:14:51Z', 'closed_at': '2019-02-14T05:14:26Z', 'labels': []}
+{'issuenumber': 656, 'title': 'symbol lookup error undefined symbol: _ZN4node19GetCurrentEventLoopEPN2v87IsolateE', 'state': 'closed', 'created_at': '2018-09-28T17:47:25Z', 'closed_at': '2018-10-18T03:23:16Z', 'labels': []}
+{'issuenumber': 655, 'title': 'v3.0.1/bcrypt_lib-v3.0.1-node-v57-win32-x64-unknown.tar.gz   ?', 'state': 'closed', 'created_at': '2018-09-26T04:41:45Z', 'closed_at': '2018-10-18T03:10:21Z', 'labels': []}
+{'issuenumber': 654, 'title': 'where is salt stored?', 'state': 'closed', 'created_at': '2018-09-21T03:02:41Z', 'closed_at': '2018-10-18T03:16:54Z', 'labels': {'name': 'question'}}
+{'issuenumber': 653, 'title': 'Kernel Panic on installing bcrypt@2.0.1', 'state': 'closed', 'created_at': '2018-09-20T08:30:55Z', 'closed_at': '2018-09-21T13:04:10Z', 'labels': []}
+{'issuenumber': 652, 'title': 'Snyk is flagging a TOCTOU vulnerability on bcrypt ', 'state': 'closed', 'created_at': '2018-09-19T01:42:17Z', 'closed_at': '2018-10-18T03:12:06Z', 'labels': []}
+{'issuenumber': 651, 'title': 'bcrypt.compare not executing when testing with mocha and chai-http', 'state': 'closed', 'created_at': '2018-09-18T11:33:58Z', 'closed_at': '2018-09-19T13:36:53Z', 'labels': []}
+{'issuenumber': 650, 'title': 'Bcrypt fails to install on node v 8.12.0', 'state': 'closed', 'created_at': '2018-09-14T12:21:02Z', 'closed_at': '2020-02-17T13:01:31Z', 'labels': []}
+{'issuenumber': 648, 'title': 'Bcrypt@3.0.0 failed to install on Node 8.11.4', 'state': 'closed', 'created_at': '2018-09-01T10:24:21Z', 'closed_at': '2018-09-14T12:47:16Z', 'labels': []}
+{'issuenumber': 646, 'title': "The non-configurable node-pre-gyp's binary remote_path prevents from using bcrypt 1.0.3-3.0.0 off an enterprise artifactory", 'state': 'closed', 'created_at': '2018-08-30T06:03:42Z', 'closed_at': '2018-08-30T06:18:54Z', 'labels': []}
+{'issuenumber': 644, 'title': 'error MSB4019: The imported project "C:\\Microsoft.Cpp.Default.props" was not found.', 'state': 'closed', 'created_at': '2018-08-24T17:34:16Z', 'closed_at': '2018-08-24T17:38:01Z', 'labels': []}
+{'issuenumber': 641, 'title': 'Bcrypt returning false when comparing the hashedPassword from Database', 'state': 'closed', 'created_at': '2018-08-09T15:39:11Z', 'closed_at': '2018-10-18T03:13:37Z', 'labels': []}
+{'issuenumber': 640, 'title': 'How to decrypt the password into plain text.. ?', 'state': 'closed', 'created_at': '2018-08-06T11:19:15Z', 'closed_at': '2018-08-06T11:41:17Z', 'labels': []}
+{'issuenumber': 639, 'title': 'Comparison fails under Ubuntu 16.03 if the hash was generated on a Windows 10 machine', 'state': 'closed', 'created_at': '2018-08-02T14:44:37Z', 'closed_at': '2018-08-03T06:51:44Z', 'labels': []}
+{'issuenumber': 637, 'title': 'Is it possible to provide an API to get the salt used in a hash?', 'state': 'closed', 'created_at': '2018-07-26T22:11:47Z', 'closed_at': '2018-08-19T04:29:20Z', 'labels': {'name': 'question'}}
+{'issuenumber': 636, 'title': 'node v 10.x throw error', 'state': 'closed', 'created_at': '2018-07-20T08:24:22Z', 'closed_at': '2018-08-19T04:21:07Z', 'labels': []}
+{'issuenumber': 635, 'title': 'process.dlopen(module, path.toNamespacedPath(filename))', 'state': 'closed', 'created_at': '2018-07-18T03:50:45Z', 'closed_at': '2018-08-19T04:25:11Z', 'labels': []}
+{'issuenumber': 634, 'title': 'Pre-built binaries not found for bcrypt@3.0.0 and node@8.4.0', 'state': 'closed', 'created_at': '2018-07-16T09:52:34Z', 'closed_at': '2018-08-19T04:19:51Z', 'labels': []}
+{'issuenumber': 633, 'title': 'OS X bcrypt@3.0.0 fail install', 'state': 'closed', 'created_at': '2018-07-09T22:19:16Z', 'closed_at': '2018-07-10T12:55:09Z', 'labels': []}
+{'issuenumber': 632, 'title': 'bcrypt@3.0.0 fails to install', 'state': 'closed', 'created_at': '2018-07-09T16:03:53Z', 'closed_at': '2018-08-19T04:24:02Z', 'labels': []}
+{'issuenumber': 631, 'title': 'Failed installing bcrypt', 'state': 'closed', 'created_at': '2018-07-09T05:52:14Z', 'closed_at': '2018-07-10T12:49:22Z', 'labels': []}
+{'issuenumber': 630, 'title': 'Potential "Constant Time" inconsistency with bcrypt.compare', 'state': 'closed', 'created_at': '2018-07-09T00:15:46Z', 'closed_at': '2020-02-17T13:06:27Z', 'labels': {'name': 'question'}}
+{'issuenumber': 629, 'title': 'error in installing bcrypt in nodejs? ', 'state': 'closed', 'created_at': '2018-07-07T11:14:57Z', 'closed_at': '2018-07-07T12:04:03Z', 'labels': []}
+{'issuenumber': 626, 'title': 'npm audit security report', 'state': 'closed', 'created_at': '2018-07-06T06:14:04Z', 'closed_at': '2018-08-19T04:24:33Z', 'labels': []}
+{'issuenumber': 625, 'title': '`nan` does not build on node 10.x', 'state': 'closed', 'created_at': '2018-07-05T13:59:22Z', 'closed_at': '2018-08-19T13:45:25Z', 'labels': []}
+{'issuenumber': 624, 'title': 'How to install v3?', 'state': 'closed', 'created_at': '2018-07-04T11:27:41Z', 'closed_at': '2018-07-04T12:05:58Z', 'labels': []}
+{'issuenumber': 622, 'title': 'gyp ERR! build error', 'state': 'closed', 'created_at': '2018-06-25T13:39:30Z', 'closed_at': '2018-06-25T13:50:08Z', 'labels': []}
+{'issuenumber': 621, 'title': 'Upgrade deep-extend dependency to 0.5.1+', 'state': 'closed', 'created_at': '2018-06-24T03:40:01Z', 'closed_at': '2018-06-24T03:50:08Z', 'labels': []}
+{'issuenumber': 620, 'title': 'Bcrypt compare returns false after a certain amount of time ', 'state': 'closed', 'created_at': '2018-06-18T13:50:05Z', 'closed_at': '2018-06-19T12:33:39Z', 'labels': []}
+{'issuenumber': 619, 'title': 'bcrypt 1.0.3 fails to build on Node v10.4 (Ubuntu 18.04)', 'state': 'closed', 'created_at': '2018-06-12T05:55:40Z', 'closed_at': '2018-06-26T05:11:50Z', 'labels': []}
+{'issuenumber': 618, 'title': "can't install even with sudo. ", 'state': 'closed', 'created_at': '2018-06-08T20:50:27Z', 'closed_at': '2018-06-09T00:03:19Z', 'labels': []}
+{'issuenumber': 617, 'title': 'error /apps/opt/app/learninglocker/node_modules/bcrypt: Command failed', 'state': 'closed', 'created_at': '2018-06-08T17:24:10Z', 'closed_at': '2018-06-11T10:30:58Z', 'labels': []}
+{'issuenumber': 616, 'title': 'node_modules are published', 'state': 'closed', 'created_at': '2018-06-07T15:48:05Z', 'closed_at': '2018-06-07T16:50:00Z', 'labels': {'name': 'question'}}
+{'issuenumber': 615, 'title': 'node:alpine binaries not found and build fails too', 'state': 'closed', 'created_at': '2018-06-07T10:06:28Z', 'closed_at': '2018-07-24T06:49:12Z', 'labels': []}
+{'issuenumber': 614, 'title': 'AWS Elasticbeanstalk binaries not installable?', 'state': 'closed', 'created_at': '2018-06-06T09:38:44Z', 'closed_at': '2018-06-15T19:32:38Z', 'labels': []}
+{'issuenumber': 613, 'title': 'Add 32-bit Linux Support', 'state': 'closed', 'created_at': '2018-05-31T20:09:59Z', 'closed_at': '2018-06-15T00:50:39Z', 'labels': []}
+{'issuenumber': 612, 'title': 'build failure on Node 10.2.0', 'state': 'closed', 'created_at': '2018-05-25T03:20:13Z', 'closed_at': '2018-05-31T00:45:58Z', 'labels': []}
+{'issuenumber': 611, 'title': 'Missing release bcrypt_lib-v2.0.1-node-v64-linux-x64-glibc.tar.gz', 'state': 'closed', 'created_at': '2018-05-17T09:28:56Z', 'closed_at': '2018-05-18T08:45:48Z', 'labels': []}
+{'issuenumber': 610, 'title': 'Azure Web App failing when requiring bcrypt', 'state': 'closed', 'created_at': '2018-05-11T19:51:52Z', 'closed_at': '2018-06-15T19:34:16Z', 'labels': []}
+{'issuenumber': 609, 'title': 'Excessive memory usage for 2.x.x', 'state': 'closed', 'created_at': '2018-05-11T07:59:28Z', 'closed_at': '2018-06-15T19:35:21Z', 'labels': []}
+{'issuenumber': 608, 'title': 'TypeError: 4 arguments expected', 'state': 'closed', 'created_at': '2018-05-11T07:44:51Z', 'closed_at': '2018-05-11T07:45:03Z', 'labels': []}
+{'issuenumber': 607, 'title': 'aws-sdk is required', 'state': 'closed', 'created_at': '2018-05-09T08:07:27Z', 'closed_at': '2018-06-15T19:25:36Z', 'labels': []}
+{'issuenumber': 605, 'title': 'npm ERR! 404 Not Found: bcrycpt@latest - Windows 10 Pro', 'state': 'closed', 'created_at': '2018-05-08T08:46:47Z', 'closed_at': '2018-05-08T09:06:15Z', 'labels': []}
+{'issuenumber': 604, 'title': 'update node-pre-gyp after vulnerability is fixed', 'state': 'closed', 'created_at': '2018-05-07T10:41:59Z', 'closed_at': '2018-06-15T19:29:59Z', 'labels': []}
+{'issuenumber': 602, 'title': 'bcrypt@1.0.3 required for argon2 impossible to install', 'state': 'closed', 'created_at': '2018-04-30T15:07:13Z', 'closed_at': '2018-05-12T16:52:13Z', 'labels': []}
+{'issuenumber': 600, 'title': 'node 10.0.0 compatibility', 'state': 'closed', 'created_at': '2018-04-26T05:19:44Z', 'closed_at': '2018-05-03T04:46:39Z', 'labels': []}
+{'issuenumber': 599, 'title': 'cannot install in node.js@10.0.0', 'state': 'closed', 'created_at': '2018-04-25T15:40:41Z', 'closed_at': '2018-05-03T04:46:39Z', 'labels': []}
+{'issuenumber': 596, 'title': 'Version 2.0.0 hashed passwords not compatible with version 1.0.3', 'state': 'closed', 'created_at': '2018-04-20T15:17:35Z', 'closed_at': '2018-04-24T15:35:13Z', 'labels': []}
+{'issuenumber': 595, 'title': 'bcrypt error when deploy on Heroku : invalid ELF header', 'state': 'closed', 'created_at': '2018-04-18T23:33:19Z', 'closed_at': '2018-04-22T06:05:18Z', 'labels': []}
+{'issuenumber': 594, 'title': 'Warning for dependency node-pre-gyp', 'state': 'closed', 'created_at': '2018-04-18T06:12:34Z', 'closed_at': '2018-04-20T16:54:09Z', 'labels': []}
+{'issuenumber': 593, 'title': 'Question about v2 changes', 'state': 'closed', 'created_at': '2018-04-15T20:42:00Z', 'closed_at': '2018-04-16T16:30:49Z', 'labels': []}
+{'issuenumber': 592, 'title': "window 10 i can't install   :-(", 'state': 'closed', 'created_at': '2018-04-15T11:03:25Z', 'closed_at': '2018-04-21T16:55:13Z', 'labels': []}
+{'issuenumber': 591, 'title': "Can't install bcrypt", 'state': 'closed', 'created_at': '2018-04-12T18:19:07Z', 'closed_at': '2018-04-24T15:29:25Z', 'labels': []}
+{'issuenumber': 590, 'title': 'Bcrypt still will not install on Node 9', 'state': 'closed', 'created_at': '2018-04-09T17:53:24Z', 'closed_at': '2018-04-24T15:32:12Z', 'labels': []}
+{'issuenumber': 588, 'title': 'Publish a new version for Node 10', 'state': 'closed', 'created_at': '2018-04-06T12:08:02Z', 'closed_at': '2018-04-07T15:42:18Z', 'labels': []}
+{'issuenumber': 586, 'title': 'Any way to get same encrypted value when same data and salt are provided?', 'state': 'closed', 'created_at': '2018-03-22T11:34:08Z', 'closed_at': '2018-04-04T14:34:22Z', 'labels': {'name': 'question'}}
+{'issuenumber': 585, 'title': 'error compilation version 0.4.1 (node-gyp & openssl installed)', 'state': 'closed', 'created_at': '2018-03-17T09:29:53Z', 'closed_at': '2018-03-17T11:28:11Z', 'labels': []}
+{'issuenumber': 582, 'title': 'bcrypt@1.0.3 fail at install script', 'state': 'closed', 'created_at': '2018-03-05T20:21:57Z', 'closed_at': '2018-03-06T15:48:49Z', 'labels': []}
+{'issuenumber': 581, 'title': 'Security issue in hoek 4.2.0 lib', 'state': 'closed', 'created_at': '2018-02-22T14:18:03Z', 'closed_at': '2018-03-16T14:48:45Z', 'labels': []}
+{'issuenumber': 579, 'title': 'Failed at the bcrypt@0.8.7 install script error', 'state': 'closed', 'created_at': '2018-02-17T15:04:11Z', 'closed_at': '2018-02-17T15:48:06Z', 'labels': []}
+{'issuenumber': 578, 'title': 'invalid ELF header  when I use it on docker ', 'state': 'closed', 'created_at': '2018-02-13T03:29:05Z', 'closed_at': '2018-02-22T14:26:50Z', 'labels': []}
+{'issuenumber': 577, 'title': 'Bcrypt on docker node:9.4-alpine crash application', 'state': 'closed', 'created_at': '2018-02-06T19:39:55Z', 'closed_at': '2018-02-07T11:17:06Z', 'labels': []}
+{'issuenumber': 576, 'title': 'Node Version Problem', 'state': 'closed', 'created_at': '2018-02-01T06:45:11Z', 'closed_at': '2018-02-01T11:35:28Z', 'labels': []}
+{'issuenumber': 574, 'title': 'bcrypt.compareAsync(password, this.password) always returning false', 'state': 'closed', 'created_at': '2018-01-24T16:36:33Z', 'closed_at': '2018-01-25T16:02:04Z', 'labels': []}
+{'issuenumber': 573, 'title': 'Node cant find package.json file', 'state': 'closed', 'created_at': '2018-01-20T16:20:16Z', 'closed_at': '2018-01-25T15:41:57Z', 'labels': []}
+{'issuenumber': 572, 'title': 'node-pre-gyp ERR! Tried to download(404): https://github.com/kelektiv/node.bcrypt.js/releases/download/v1.0.3/bcrypt_lib-v1.0.3-node-v59-linux-x64.tar.gz ', 'state': 'closed', 'created_at': '2018-01-16T10:51:25Z', 'closed_at': '2018-01-21T07:49:58Z', 'labels': []}
+{'issuenumber': 571, 'title': 'Windows 10 : node-pre-gyp ERR! Tried to download(404): https://github.com/kelektiv/node.bcrypt.js/releases/download/v1.0.3/bcrypt_lib-v1.0.3-node-v59-win32-x64.tar.gz', 'state': 'closed', 'created_at': '2018-01-16T08:53:28Z', 'closed_at': '2018-01-30T08:26:33Z', 'labels': []}
+{'issuenumber': 570, 'title': 'getting errors while trying to install on express nodejs windows 10', 'state': 'closed', 'created_at': '2018-01-15T01:20:04Z', 'closed_at': '2018-01-20T18:28:35Z', 'labels': []}
+{'issuenumber': 569, 'title': 'ported bcrypt to new N-API', 'state': 'closed', 'created_at': '2018-01-13T17:02:01Z', 'closed_at': '2018-01-14T03:58:23Z', 'labels': []}
+{'issuenumber': 568, 'title': 'Compile warnings in encode_salt with GCC 7.2', 'state': 'closed', 'created_at': '2018-01-11T11:23:11Z', 'closed_at': '2019-02-16T10:02:15Z', 'labels': []}
+{'issuenumber': 567, 'title': 'pre-built bcrypt binaries', 'state': 'closed', 'created_at': '2017-12-28T17:43:06Z', 'closed_at': '2017-12-29T08:12:27Z', 'labels': []}
+{'issuenumber': 566, 'title': 'bcrypt not working in current node 9.3.0', 'state': 'closed', 'created_at': '2017-12-27T07:43:35Z', 'closed_at': '2018-01-20T18:22:39Z', 'labels': []}
+{'issuenumber': 565, 'title': 'Async and IO', 'state': 'closed', 'created_at': '2017-12-22T18:57:11Z', 'closed_at': '2017-12-22T19:14:12Z', 'labels': []}
+{'issuenumber': 563, 'title': 'README should note compare uses constant-time check (prevents timing attacks)', 'state': 'closed', 'created_at': '2017-12-21T02:07:59Z', 'closed_at': '2018-01-20T18:27:37Z', 'labels': []}
+{'issuenumber': 562, 'title': 'Incorrect NODE_MODULE_VERSION', 'state': 'closed', 'created_at': '2017-12-15T11:18:38Z', 'closed_at': '2018-01-04T14:35:33Z', 'labels': []}
+{'issuenumber': 561, 'title': 'bcrypt install on windows 8.1 64bit', 'state': 'closed', 'created_at': '2017-12-01T12:29:57Z', 'closed_at': '2018-01-30T08:27:11Z', 'labels': []}
+{'issuenumber': 560, 'title': 'bcrypt not getting compiled on Node 8.8.1 on AWS AMI', 'state': 'closed', 'created_at': '2017-12-01T05:01:34Z', 'closed_at': '2017-12-29T01:06:30Z', 'labels': []}
+{'issuenumber': 559, 'title': 'Update node-pre-gyp to provide libc aware pre-built binaries.', 'state': 'closed', 'created_at': '2017-11-27T15:34:31Z', 'closed_at': '2018-04-06T18:20:55Z', 'labels': []}
+{'issuenumber': 558, 'title': 'bcrypt does not work with Node 9.x', 'state': 'closed', 'created_at': '2017-11-26T02:10:07Z', 'closed_at': '2018-01-25T16:02:39Z', 'labels': []}
+{'issuenumber': 557, 'title': 'Error after run in debug mode ', 'state': 'closed', 'created_at': '2017-11-22T10:27:58Z', 'closed_at': '2017-12-02T10:36:30Z', 'labels': []}
+{'issuenumber': 556, 'title': 'Tried to download(undefined): https://github.com/kelektiv/node.bcrypt.js/releases/download/v1.0.3/bcrypt_lib-v1.0.3-node-v48-win32-x64.tar.gz', 'state': 'closed', 'created_at': '2017-11-13T00:20:52Z', 'closed_at': '2017-11-16T06:18:25Z', 'labels': []}
+{'issuenumber': 555, 'title': 'Node9 support', 'state': 'closed', 'created_at': '2017-11-10T00:45:31Z', 'closed_at': '2018-01-30T08:27:25Z', 'labels': []}
+{'issuenumber': 553, 'title': 'Password and hash does not match', 'state': 'closed', 'created_at': '2017-10-28T06:29:46Z', 'closed_at': '2018-04-06T17:40:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 552, 'title': 'bcrypt fails to compile on FreeBSD 11', 'state': 'closed', 'created_at': '2017-10-21T05:22:26Z', 'closed_at': '2017-10-28T13:22:48Z', 'labels': []}
+{'issuenumber': 548, 'title': 'Security issue', 'state': 'closed', 'created_at': '2017-09-21T10:48:33Z', 'closed_at': '2017-09-21T15:49:07Z', 'labels': []}
+{'issuenumber': 547, 'title': '[FIXED] error: ld: library not found for -lgcc_s.10.5', 'state': 'closed', 'created_at': '2017-09-20T14:44:57Z', 'closed_at': '2017-10-21T08:14:18Z', 'labels': []}
+{'issuenumber': 544, 'title': 'not found bcrypt_lib-v1.0.3-node-v57-win32-x64.tar.gz', 'state': 'closed', 'created_at': '2017-09-11T11:17:26Z', 'closed_at': '2017-09-12T01:07:57Z', 'labels': []}
+{'issuenumber': 543, 'title': 'invalid salt in hash fn', 'state': 'closed', 'created_at': '2017-09-11T00:43:34Z', 'closed_at': '2017-10-21T08:26:37Z', 'labels': {'name': 'question'}}
+{'issuenumber': 541, 'title': 'Installation without internet access', 'state': 'closed', 'created_at': '2017-08-30T08:52:01Z', 'closed_at': '2017-09-14T14:46:16Z', 'labels': []}
+{'issuenumber': 540, 'title': 'Windows binaries', 'state': 'closed', 'created_at': '2017-08-29T14:13:45Z', 'closed_at': '2017-09-14T14:43:12Z', 'labels': []}
+{'issuenumber': 538, 'title': 'Why is nextTick() used on all error callbacks in bcrypt.js?', 'state': 'closed', 'created_at': '2017-08-25T18:45:15Z', 'closed_at': '2017-10-21T08:15:04Z', 'labels': []}
+{'issuenumber': 537, 'title': 'ERR! Tried to download(404): bcrypt_lib-v1.0.3-node-v57-darwin-x64.tar.gz', 'state': 'closed', 'created_at': '2017-08-24T10:20:49Z', 'closed_at': '2017-08-28T06:08:54Z', 'labels': []}
+{'issuenumber': 536, 'title': 'publish node 8 compatibility', 'state': 'closed', 'created_at': '2017-08-18T17:03:44Z', 'closed_at': '2017-08-24T03:48:09Z', 'labels': {'name': 'question'}}
+{'issuenumber': 535, 'title': 'Comparing return false, even if password are matched', 'state': 'closed', 'created_at': '2017-08-10T17:07:04Z', 'closed_at': '2017-08-12T16:46:16Z', 'labels': []}
+{'issuenumber': 534, 'title': 'question: will hash length always be 60 characters long?', 'state': 'closed', 'created_at': '2017-08-07T20:31:58Z', 'closed_at': '2017-08-09T12:57:33Z', 'labels': []}
+{'issuenumber': 533, 'title': 'Non-deterministic behaviour with broken salt', 'state': 'closed', 'created_at': '2017-07-19T20:22:34Z', 'closed_at': '2017-10-21T08:26:54Z', 'labels': []}
+{'issuenumber': 532, 'title': 'How is this secure?', 'state': 'closed', 'created_at': '2017-07-13T01:07:05Z', 'closed_at': '2017-07-13T01:12:19Z', 'labels': []}
+{'issuenumber': 530, 'title': 'Fallback to source compile if pre-built module is ABI incompatible', 'state': 'closed', 'created_at': '2017-07-09T09:15:30Z', 'closed_at': '2018-04-07T15:42:47Z', 'labels': []}
+{'issuenumber': 529, 'title': 'Removing support for NodeJS versions < 4', 'state': 'closed', 'created_at': '2017-07-09T09:09:51Z', 'closed_at': '2017-10-21T08:28:17Z', 'labels': []}
+{'issuenumber': 528, 'title': 'Segmentation Fault on Node alpine', 'state': 'closed', 'created_at': '2017-07-07T11:47:44Z', 'closed_at': '2018-04-07T15:43:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 526, 'title': 'Regular Expression Denial of Service (ReDoS) Vulnerability ', 'state': 'closed', 'created_at': '2017-07-04T16:03:09Z', 'closed_at': '2017-07-07T17:02:57Z', 'labels': []}
+{'issuenumber': 525, 'title': 'bcrypt error on MacOS', 'state': 'closed', 'created_at': '2017-07-03T13:41:30Z', 'closed_at': '2017-07-05T17:54:05Z', 'labels': []}
+{'issuenumber': 524, 'title': 'Running test with bcrypt and Jest', 'state': 'closed', 'created_at': '2017-06-28T22:58:31Z', 'closed_at': '2017-06-28T23:55:40Z', 'labels': []}
+{'issuenumber': 523, 'title': 'Unable to deploy app to heroku and bcrypt seems to be causing the issue', 'state': 'closed', 'created_at': '2017-06-27T13:17:29Z', 'closed_at': '2017-08-12T04:42:53Z', 'labels': []}
+{'issuenumber': 522, 'title': 'Issue while encoding the hash', 'state': 'closed', 'created_at': '2017-06-27T11:06:31Z', 'closed_at': '2017-07-07T14:24:01Z', 'labels': []}
+{'issuenumber': 521, 'title': 'Test script using bcrypt throws "Unexpected identifier" error', 'state': 'closed', 'created_at': '2017-06-23T04:42:29Z', 'closed_at': '2017-07-07T06:13:03Z', 'labels': []}
+{'issuenumber': 519, 'title': 'Error 404 :  npm install bcrypt on Debian 8', 'state': 'closed', 'created_at': '2017-06-15T21:25:33Z', 'closed_at': '2017-06-21T05:27:54Z', 'labels': []}
+{'issuenumber': 518, 'title': 'Deploying an app to Heroku fails if using bcrypt on node v8.1.1', 'state': 'closed', 'created_at': '2017-06-14T13:15:07Z', 'closed_at': '2017-06-17T21:04:31Z', 'labels': []}
+{'issuenumber': 517, 'title': 'Build Failed on Heroku 404', 'state': 'closed', 'created_at': '2017-06-14T08:22:53Z', 'closed_at': '2017-06-14T09:45:12Z', 'labels': []}
+{'issuenumber': 516, 'title': 'NodeJS 8 - Installation fails', 'state': 'closed', 'created_at': '2017-06-14T08:19:58Z', 'closed_at': '2017-06-14T09:29:44Z', 'labels': []}
+{'issuenumber': 515, 'title': 'an', 'state': 'closed', 'created_at': '2017-06-13T12:56:03Z', 'closed_at': '2017-06-17T20:21:16Z', 'labels': []}
+{'issuenumber': 514, 'title': "'npm install bcrypt' fails on Ubuntu 17.04 64 bit", 'state': 'closed', 'created_at': '2017-06-09T10:34:54Z', 'closed_at': '2017-06-13T09:40:19Z', 'labels': []}
+{'issuenumber': 513, 'title': 'N-API Support for node.bcrypt.js', 'state': 'closed', 'created_at': '2017-06-07T16:22:56Z', 'closed_at': '2020-02-19T12:15:20Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 512, 'title': 'Install Fail on Centos v7', 'state': 'closed', 'created_at': '2017-06-02T23:23:02Z', 'closed_at': '2017-07-10T09:57:24Z', 'labels': []}
+{'issuenumber': 510, 'title': 'Please add node 8 prebuilt files.', 'state': 'closed', 'created_at': '2017-06-01T07:39:25Z', 'closed_at': '2017-07-07T06:07:27Z', 'labels': []}
+{'issuenumber': 509, 'title': 'Bcrypt fails to install via npm', 'state': 'closed', 'created_at': '2017-06-01T04:08:29Z', 'closed_at': '2017-10-21T08:14:02Z', 'labels': []}
+{'issuenumber': 508, 'title': 'Wrong false result while compare', 'state': 'closed', 'created_at': '2017-05-20T14:29:29Z', 'closed_at': '2017-07-07T14:28:40Z', 'labels': []}
+{'issuenumber': 507, 'title': 'install error', 'state': 'closed', 'created_at': '2017-05-04T10:10:05Z', 'closed_at': '2017-07-07T14:59:58Z', 'labels': []}
+{'issuenumber': 506, 'title': '..', 'state': 'closed', 'created_at': '2017-04-23T08:28:03Z', 'closed_at': '2017-07-07T06:07:48Z', 'labels': []}
+{'issuenumber': 505, 'title': 'bcrypt on AWS Lambda', 'state': 'closed', 'created_at': '2017-04-18T09:14:22Z', 'closed_at': '2017-07-10T10:00:16Z', 'labels': []}
+{'issuenumber': 503, 'title': 'Unable to install bcrypt module in windows 10', 'state': 'closed', 'created_at': '2017-04-04T15:34:22Z', 'closed_at': '2017-04-05T16:57:00Z', 'labels': []}
+{'issuenumber': 502, 'title': 'bcrypt@1.0.2 failing to build under node 7.7', 'state': 'closed', 'created_at': '2017-03-29T16:22:59Z', 'closed_at': '2017-03-29T19:08:17Z', 'labels': []}
+{'issuenumber': 501, 'title': 'BCRYPT module is not installing ', 'state': 'closed', 'created_at': '2017-03-22T03:58:49Z', 'closed_at': '2017-07-07T14:58:10Z', 'labels': []}
+{'issuenumber': 500, 'title': 'Bcrypt not installing | Throwing 404 for the referred resource in npm', 'state': 'closed', 'created_at': '2017-03-20T09:09:11Z', 'closed_at': '2017-07-07T06:10:19Z', 'labels': []}
+{'issuenumber': 498, 'title': 'bcrypt DigitalOcean VM problem', 'state': 'closed', 'created_at': '2017-03-16T22:01:38Z', 'closed_at': '2017-07-07T06:12:36Z', 'labels': []}
+{'issuenumber': 497, 'title': 'bycrypt does not install on Windows 10 win VS2017', 'state': 'closed', 'created_at': '2017-03-13T08:29:38Z', 'closed_at': '2017-07-07T06:04:51Z', 'labels': []}
+{'issuenumber': 496, 'title': 'salt on decrypt?', 'state': 'closed', 'created_at': '2017-03-11T12:59:45Z', 'closed_at': '2017-07-07T14:57:20Z', 'labels': []}
+{'issuenumber': 495, 'title': 'Electron Throw Error on loading of Bcrypt', 'state': 'closed', 'created_at': '2017-03-10T19:38:32Z', 'closed_at': '2017-07-07T15:05:02Z', 'labels': []}
+{'issuenumber': 494, 'title': 'Missing file', 'state': 'closed', 'created_at': '2017-03-09T21:58:23Z', 'closed_at': '2017-03-10T16:31:34Z', 'labels': []}
+{'issuenumber': 492, 'title': 'node 7.7.0 build fails', 'state': 'closed', 'created_at': '2017-03-01T07:23:58Z', 'closed_at': '2017-03-02T04:45:49Z', 'labels': []}
+{'issuenumber': 491, 'title': "Failed at the bcrypt@1.0.2 install script 'node-gyp rebuild  on Windows", 'state': 'closed', 'created_at': '2017-02-18T23:46:58Z', 'closed_at': '2017-02-18T23:59:49Z', 'labels': []}
+{'issuenumber': 490, 'title': "Failed at the bcrypt@1.0.2 install script 'node-gyp rebuild ", 'state': 'closed', 'created_at': '2017-02-18T22:22:58Z', 'closed_at': '2017-02-18T23:10:09Z', 'labels': []}
+{'issuenumber': 488, 'title': 'The promise examples in the readme does not work', 'state': 'closed', 'created_at': '2017-02-16T15:25:31Z', 'closed_at': '2017-02-16T21:09:40Z', 'labels': []}
+{'issuenumber': 487, 'title': 'Cannot install pre-built binary on windows', 'state': 'closed', 'created_at': '2017-02-16T07:11:46Z', 'closed_at': '2017-07-07T06:01:34Z', 'labels': []}
+{'issuenumber': 486, 'title': 'can not download the package by remote_path', 'state': 'closed', 'created_at': '2017-02-14T02:18:15Z', 'closed_at': '2017-02-18T17:10:58Z', 'labels': []}
+{'issuenumber': 485, 'title': "'bcript' is not in the npm registry.", 'state': 'closed', 'created_at': '2017-02-09T11:37:51Z', 'closed_at': '2017-02-09T13:03:51Z', 'labels': []}
+{'issuenumber': 484, 'title': 'Not able to install node version 6.0.0', 'state': 'closed', 'created_at': '2017-02-09T06:25:37Z', 'closed_at': '2017-02-09T16:17:12Z', 'labels': []}
+{'issuenumber': 482, 'title': 'Not able to use bcrypt.', 'state': 'closed', 'created_at': '2017-02-07T19:22:30Z', 'closed_at': '2017-02-09T16:17:35Z', 'labels': []}
+{'issuenumber': 480, 'title': 'replace bcrypt ', 'state': 'closed', 'created_at': '2017-01-20T10:43:43Z', 'closed_at': '2017-01-20T16:18:34Z', 'labels': []}
+{'issuenumber': 479, 'title': 'Error documentation', 'state': 'closed', 'created_at': '2017-01-18T09:32:58Z', 'closed_at': '2017-01-20T16:18:51Z', 'labels': []}
+{'issuenumber': 478, 'title': 'feature-request: use any-promise for Promises', 'state': 'closed', 'created_at': '2017-01-16T22:32:58Z', 'closed_at': '2018-04-06T18:18:47Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 477, 'title': 'How can I fetch hash code from database and pass as input if my email and password is encrypted', 'state': 'closed', 'created_at': '2017-01-11T17:10:46Z', 'closed_at': '2017-01-20T16:19:04Z', 'labels': []}
+{'issuenumber': 476, 'title': 'Failed at the bcrypt@1.0.2 install', 'state': 'closed', 'created_at': '2017-01-11T09:46:03Z', 'closed_at': '2017-02-09T16:19:05Z', 'labels': []}
+{'issuenumber': 475, 'title': 'problem running on Amazon Linux with gcc 6.3 ', 'state': 'closed', 'created_at': '2017-01-10T19:03:16Z', 'closed_at': '2017-01-13T07:04:46Z', 'labels': []}
+{'issuenumber': 474, 'title': 'Error npm install bcrypt-as-promised --save Im using windows 8.1', 'state': 'closed', 'created_at': '2017-01-08T01:25:16Z', 'closed_at': '2017-01-09T01:09:13Z', 'labels': []}
+{'issuenumber': 473, 'title': 'npm install of bcrypt falls back to source compile every time', 'state': 'closed', 'created_at': '2017-01-05T14:57:08Z', 'closed_at': '2017-08-13T02:26:42Z', 'labels': []}
+{'issuenumber': 472, 'title': 'ear', 'state': 'closed', 'created_at': '2017-01-02T16:04:30Z', 'closed_at': '2017-01-02T16:05:03Z', 'labels': []}
+{'issuenumber': 471, 'title': 'Trying to instal bcrypt, but receiving this erros:', 'state': 'closed', 'created_at': '2017-01-01T11:15:48Z', 'closed_at': '2017-01-20T16:23:40Z', 'labels': []}
+{'issuenumber': 470, 'title': 'Use Travis for building releases ', 'state': 'closed', 'created_at': '2017-01-01T03:16:36Z', 'closed_at': '2018-08-19T04:41:22Z', 'labels': []}
+{'issuenumber': 468, 'title': 'Compare method not rejecting promise on error', 'state': 'closed', 'created_at': '2016-12-24T09:11:17Z', 'closed_at': '2016-12-31T22:33:24Z', 'labels': []}
+{'issuenumber': 467, 'title': 'bcyrpt installation suddenly failing when pushing to heroku/installing locally on macOS', 'state': 'closed', 'created_at': '2016-12-20T07:15:10Z', 'closed_at': '2017-08-12T04:40:16Z', 'labels': []}
+{'issuenumber': 466, 'title': "The compare method's result is false if hashed password is stored/retrieved from database", 'state': 'closed', 'created_at': '2016-12-16T15:27:35Z', 'closed_at': '2017-01-20T16:21:48Z', 'labels': []}
+{'issuenumber': 465, 'title': 'I tryed installing bcrypt and i got this', 'state': 'closed', 'created_at': '2016-12-13T16:37:13Z', 'closed_at': '2016-12-13T16:37:29Z', 'labels': []}
+{'issuenumber': 464, 'title': 'Error installing bcrypt (Ubuntu)', 'state': 'closed', 'created_at': '2016-12-09T17:46:15Z', 'closed_at': '2016-12-10T04:46:17Z', 'labels': []}
+{'issuenumber': 463, 'title': 'bcrypt installation fails (Ubuntu + Vagrant)', 'state': 'closed', 'created_at': '2016-12-09T17:26:55Z', 'closed_at': '2016-12-09T17:39:06Z', 'labels': []}
+{'issuenumber': 461, 'title': 'Not Work on node v7', 'state': 'closed', 'created_at': '2016-12-05T09:49:10Z', 'closed_at': '2016-12-05T16:35:17Z', 'labels': []}
+{'issuenumber': 460, 'title': 'v1.0.0 build issues on AWS', 'state': 'closed', 'created_at': '2016-12-05T03:51:39Z', 'closed_at': '2016-12-05T16:34:44Z', 'labels': []}
+{'issuenumber': 459, 'title': 'npm install bcrypt is throwing an error. ', 'state': 'closed', 'created_at': '2016-11-27T22:35:32Z', 'closed_at': '2016-11-28T01:16:04Z', 'labels': []}
+{'issuenumber': 457, 'title': 'Is it possible to strengthen an encryption by adding iteration rounds?', 'state': 'closed', 'created_at': '2016-11-13T09:45:35Z', 'closed_at': '2016-11-15T15:56:46Z', 'labels': []}
+{'issuenumber': 456, 'title': 'What for create an amazing crypt lib if the installation guide is SO poor!', 'state': 'closed', 'created_at': '2016-11-11T22:22:14Z', 'closed_at': '2016-11-11T23:05:17Z', 'labels': []}
+{'issuenumber': 455, 'title': 'Can not compare sync a hashed password', 'state': 'closed', 'created_at': '2016-11-01T23:47:21Z', 'closed_at': '2016-11-28T01:17:09Z', 'labels': []}
+{'issuenumber': 453, 'title': 'node-gyp rebuild fails on Ubuntu 16.04.1 + nodejs 4.6.1 + bcrypt 0.8.7', 'state': 'closed', 'created_at': '2016-10-25T14:06:15Z', 'closed_at': '2016-10-25T15:51:14Z', 'labels': []}
+{'issuenumber': 451, 'title': 'meteor npm install  --bcrypt -save is throwing an error', 'state': 'closed', 'created_at': '2016-10-12T04:12:49Z', 'closed_at': '2016-11-28T01:18:09Z', 'labels': []}
+{'issuenumber': 449, 'title': 'Error thrown while attempting to install ', 'state': 'closed', 'created_at': '2016-09-28T03:07:26Z', 'closed_at': '2016-09-28T08:36:15Z', 'labels': []}
+{'issuenumber': 448, 'title': 'Cannot build under Windows 10', 'state': 'closed', 'created_at': '2016-09-22T19:42:17Z', 'closed_at': '2016-09-22T19:57:41Z', 'labels': []}
+{'issuenumber': 447, 'title': 'npm install bcrypt failed', 'state': 'closed', 'created_at': '2016-09-21T07:12:06Z', 'closed_at': '2016-09-27T15:44:58Z', 'labels': []}
+{'issuenumber': 446, 'title': 'npm install bcrypt -- fails ', 'state': 'closed', 'created_at': '2016-09-12T14:53:45Z', 'closed_at': '2016-09-12T15:32:15Z', 'labels': []}
+{'issuenumber': 445, 'title': 'Error: unable to get local issuer certificate', 'state': 'closed', 'created_at': '2016-09-10T14:10:24Z', 'closed_at': '2016-09-10T16:26:12Z', 'labels': []}
+{'issuenumber': 443, 'title': 'Question about implementation of async methods', 'state': 'closed', 'created_at': '2016-08-27T03:21:21Z', 'closed_at': '2016-08-28T07:00:49Z', 'labels': []}
+{'issuenumber': 442, 'title': "Failed at the bcrypt@0.8.7 install script 'node-gyp rebuild'", 'state': 'closed', 'created_at': '2016-08-20T04:41:09Z', 'closed_at': '2016-08-28T23:27:47Z', 'labels': []}
+{'issuenumber': 441, 'title': "Can't install on OS X, lookup is done in C:/Python27/python.exe", 'state': 'closed', 'created_at': '2016-08-19T14:48:34Z', 'closed_at': '2016-08-28T23:28:19Z', 'labels': []}
+{'issuenumber': 440, 'title': "fails bcrypt@0.8.7 install script 'node-gyp rebuild' ", 'state': 'closed', 'created_at': '2016-08-13T15:46:21Z', 'closed_at': '2016-08-13T23:00:33Z', 'labels': []}
+{'issuenumber': 439, 'title': 'Error while loading npm-bcrypt@0.8.7 ', 'state': 'closed', 'created_at': '2016-08-06T08:39:19Z', 'closed_at': '2016-08-06T17:20:28Z', 'labels': []}
+{'issuenumber': 438, 'title': "Failed at the bcrypt@0.8.7 install script 'node-gyp rebuild'", 'state': 'closed', 'created_at': '2016-07-29T13:03:18Z', 'closed_at': '2016-08-06T17:22:16Z', 'labels': []}
+{'issuenumber': 437, 'title': 'Wrong error message being thrown when salt rounds value is a string', 'state': 'closed', 'created_at': '2016-07-18T00:52:22Z', 'closed_at': '2016-10-13T14:55:13Z', 'labels': []}
+{'issuenumber': 436, 'title': 'node-gyp rebuild fails', 'state': 'closed', 'created_at': '2016-07-12T14:24:43Z', 'closed_at': '2016-07-17T17:05:09Z', 'labels': []}
+{'issuenumber': 435, 'title': 'bcrypt requires a no-longer-supported version of MSBUILD on windows', 'state': 'closed', 'created_at': '2016-07-05T19:32:00Z', 'closed_at': '2016-07-05T20:59:24Z', 'labels': []}
+{'issuenumber': 434, 'title': 'Bcrypt installation issue with azure', 'state': 'closed', 'created_at': '2016-07-02T16:19:55Z', 'closed_at': '2016-07-03T04:37:50Z', 'labels': []}
+{'issuenumber': 433, 'title': 'install bcrypt with node 5.11.0 on linux', 'state': 'closed', 'created_at': '2016-07-01T12:05:51Z', 'closed_at': '2016-07-02T02:57:04Z', 'labels': []}
+{'issuenumber': 432, 'title': '[Solved] bcrypt fails at the install script at node-gyp rebuild', 'state': 'closed', 'created_at': '2016-07-01T08:50:52Z', 'closed_at': '2016-07-02T02:57:41Z', 'labels': []}
+{'issuenumber': 431, 'title': 'MSBUILD : error MSB4132: The tools version "2.0" is unrecognized. Available tools versions are "4.0".', 'state': 'closed', 'created_at': '2016-06-20T05:56:35Z', 'closed_at': '2016-07-02T02:57:52Z', 'labels': []}
+{'issuenumber': 430, 'title': 'gyp ERR! stack Error: Python executable "python.EXE" is v3.5.1, which is not supported by gyp.', 'state': 'closed', 'created_at': '2016-06-20T05:41:45Z', 'closed_at': '2016-07-02T02:58:06Z', 'labels': []}
+{'issuenumber': 428, 'title': "node-gyp rebuild error 'nan' module not found", 'state': 'closed', 'created_at': '2016-06-12T13:07:03Z', 'closed_at': '2016-07-04T05:49:17Z', 'labels': []}
+{'issuenumber': 427, 'title': 'Module version mismatch. Expected 43, got 48.', 'state': 'closed', 'created_at': '2016-06-06T11:36:16Z', 'closed_at': '2016-06-08T23:40:03Z', 'labels': []}
+{'issuenumber': 426, 'title': 'Cannot run bcrypt with Node.js 6.2.1', 'state': 'closed', 'created_at': '2016-06-04T05:19:29Z', 'closed_at': '2016-06-04T05:25:31Z', 'labels': []}
+{'issuenumber': 424, 'title': "Can't install on MacOS X", 'state': 'closed', 'created_at': '2016-05-29T15:04:13Z', 'closed_at': '2016-05-30T04:03:05Z', 'labels': []}
+{'issuenumber': 422, 'title': 'Cannot install bcrypt with nom', 'state': 'closed', 'created_at': '2016-05-25T00:56:26Z', 'closed_at': '2016-05-25T01:25:17Z', 'labels': []}
+{'issuenumber': 421, 'title': 'node-gyp rebuild failed; failed to install', 'state': 'closed', 'created_at': '2016-05-23T20:24:32Z', 'closed_at': '2016-05-28T19:43:29Z', 'labels': []}
+{'issuenumber': 420, 'title': 'Async with methods', 'state': 'closed', 'created_at': '2016-05-13T20:38:46Z', 'closed_at': '2016-05-19T16:36:01Z', 'labels': []}
+{'issuenumber': 419, 'title': 'Unable to run module using node 6 on ubuntu 16.04', 'state': 'closed', 'created_at': '2016-05-12T07:51:49Z', 'closed_at': '2016-05-30T04:03:37Z', 'labels': []}
+{'issuenumber': 418, 'title': 'Unable to install the module', 'state': 'closed', 'created_at': '2016-05-12T05:24:07Z', 'closed_at': '2016-05-30T04:03:43Z', 'labels': []}
+{'issuenumber': 416, 'title': 'Issue when "npm rebuild" using Node 6.0 on Windows 10', 'state': 'closed', 'created_at': '2016-04-27T19:13:59Z', 'closed_at': '2016-05-30T04:03:52Z', 'labels': []}
+{'issuenumber': 415, 'title': 'saltrounds and hash', 'state': 'closed', 'created_at': '2016-04-21T10:38:39Z', 'closed_at': '2016-04-21T21:48:36Z', 'labels': []}
+{'issuenumber': 414, 'title': 'Bcrypt Fails at NPM install', 'state': 'closed', 'created_at': '2016-04-19T03:37:35Z', 'closed_at': '2016-04-19T03:43:49Z', 'labels': []}
+{'issuenumber': 413, 'title': "Can't install it", 'state': 'closed', 'created_at': '2016-04-18T05:43:42Z', 'closed_at': '2016-04-18T06:29:53Z', 'labels': []}
+{'issuenumber': 412, 'title': 'warning C4267 and flow test failed messages.', 'state': 'closed', 'created_at': '2016-04-17T14:05:52Z', 'closed_at': '2016-04-17T16:47:10Z', 'labels': []}
+{'issuenumber': 411, 'title': 'Please help me to solve this issue.', 'state': 'closed', 'created_at': '2016-04-13T08:51:35Z', 'closed_at': '2016-04-14T02:24:25Z', 'labels': []}
+{'issuenumber': 409, 'title': 'npm bcrypt.js install problem', 'state': 'closed', 'created_at': '2016-04-10T21:48:10Z', 'closed_at': '2016-04-11T01:04:30Z', 'labels': []}
+{'issuenumber': 408, 'title': "can't install on windows 8.1", 'state': 'closed', 'created_at': '2016-04-10T21:16:20Z', 'closed_at': '2016-04-11T01:04:45Z', 'labels': []}
+{'issuenumber': 407, 'title': 'performance', 'state': 'closed', 'created_at': '2016-04-07T13:14:12Z', 'closed_at': '2016-04-07T22:39:12Z', 'labels': []}
+{'issuenumber': 406, 'title': 'Build error in production', 'state': 'closed', 'created_at': '2016-03-30T12:49:37Z', 'closed_at': '2016-04-18T18:51:37Z', 'labels': []}
+{'issuenumber': 404, 'title': 'stack Error: not found: make', 'state': 'closed', 'created_at': '2016-03-24T12:07:20Z', 'closed_at': '2016-03-28T07:05:26Z', 'labels': []}
+{'issuenumber': 403, 'title': "API: 'salt' parameter as a number for hash method?", 'state': 'closed', 'created_at': '2016-03-20T02:00:30Z', 'closed_at': '2016-03-21T04:32:01Z', 'labels': []}
+{'issuenumber': 402, 'title': 'Could not locate the bindings file on Ubuntu', 'state': 'closed', 'created_at': '2016-03-10T07:16:37Z', 'closed_at': '2016-03-25T06:54:48Z', 'labels': []}
+{'issuenumber': 401, 'title': 'work factor?', 'state': 'closed', 'created_at': '2016-03-05T12:44:29Z', 'closed_at': '2016-03-28T07:05:46Z', 'labels': []}
+{'issuenumber': 400, 'title': 'Install fails on Alpine Linux', 'state': 'closed', 'created_at': '2016-02-25T21:42:54Z', 'closed_at': '2016-02-25T22:06:21Z', 'labels': []}
+{'issuenumber': 399, 'title': 'Cannot install bcrypt with npm.', 'state': 'closed', 'created_at': '2016-02-25T17:54:33Z', 'closed_at': '2016-02-25T19:06:01Z', 'labels': []}
+{'issuenumber': 398, 'title': 'Issue installing on node 5.6.0', 'state': 'closed', 'created_at': '2016-02-22T11:31:46Z', 'closed_at': '2016-02-22T21:32:33Z', 'labels': []}
+{'issuenumber': 397, 'title': 'PEM routines:PEM_read_bio:no start line', 'state': 'closed', 'created_at': '2016-02-19T05:48:50Z', 'closed_at': '2016-02-19T05:50:08Z', 'labels': []}
+{'issuenumber': 396, 'title': 'Problem Issue!', 'state': 'closed', 'created_at': '2016-02-12T09:15:51Z', 'closed_at': '2016-02-12T18:01:08Z', 'labels': []}
+{'issuenumber': 395, 'title': 'bcrypt module fails to install on node v5.4', 'state': 'closed', 'created_at': '2016-02-09T05:03:09Z', 'closed_at': '2016-02-09T06:23:50Z', 'labels': []}
+{'issuenumber': 394, 'title': 'bcrypt support node v5?', 'state': 'closed', 'created_at': '2016-02-05T04:15:48Z', 'closed_at': '2016-02-07T05:30:13Z', 'labels': []}
+{'issuenumber': 393, 'title': 'compareSync returned true on different stringified objects', 'state': 'closed', 'created_at': '2016-01-30T00:03:32Z', 'closed_at': '2016-01-30T02:39:40Z', 'labels': []}
+{'issuenumber': 392, 'title': 'Error: Module version mismatch. Expected 14, got 46.', 'state': 'closed', 'created_at': '2016-01-19T22:13:31Z', 'closed_at': '2016-01-20T17:22:27Z', 'labels': []}
+{'issuenumber': 391, 'title': 'Module did not self-register', 'state': 'closed', 'created_at': '2016-01-14T17:09:33Z', 'closed_at': '2016-02-03T15:34:50Z', 'labels': []}
+{'issuenumber': 390, 'title': 'Installation Issues', 'state': 'closed', 'created_at': '2016-01-13T21:43:09Z', 'closed_at': '2016-01-13T22:00:59Z', 'labels': []}
+{'issuenumber': 389, 'title': 'AWS ec2 deployment issue while building bcrypt', 'state': 'closed', 'created_at': '2016-01-13T02:29:51Z', 'closed_at': '2016-01-13T04:30:19Z', 'labels': []}
+{'issuenumber': 388, 'title': 'Error when running sudo npm install bcrypt', 'state': 'closed', 'created_at': '2016-01-05T00:28:56Z', 'closed_at': '2016-01-05T01:00:47Z', 'labels': []}
+{'issuenumber': 387, 'title': 'npm WARN cannot run in wd bcrypt@0.8.5 node-gyp rebuild', 'state': 'closed', 'created_at': '2015-12-28T04:04:00Z', 'closed_at': '2015-12-28T04:54:47Z', 'labels': []}
+{'issuenumber': 386, 'title': 'NPM failed to install shp2json (Windows 7)', 'state': 'closed', 'created_at': '2015-12-22T17:52:05Z', 'closed_at': '2015-12-22T17:53:36Z', 'labels': []}
+{'issuenumber': 385, 'title': "Failed at the bcrypt@0.7.8 install script 'node-gyp rebuild'", 'state': 'closed', 'created_at': '2015-12-21T18:36:37Z', 'closed_at': '2015-12-25T16:50:50Z', 'labels': []}
+{'issuenumber': 384, 'title': 'Install fails on Ubuntu', 'state': 'closed', 'created_at': '2015-12-13T23:38:04Z', 'closed_at': '2015-12-14T01:54:47Z', 'labels': []}
+{'issuenumber': 383, 'title': 'adding promises', 'state': 'closed', 'created_at': '2015-12-09T13:12:54Z', 'closed_at': '2015-12-09T19:35:01Z', 'labels': []}
+{'issuenumber': 382, 'title': 'Cannot load bcrypt on Windows 8.1 64-bit', 'state': 'closed', 'created_at': '2015-12-09T10:30:30Z', 'closed_at': '2016-03-28T07:06:41Z', 'labels': []}
+{'issuenumber': 381, 'title': 'Issues instaling on Windows 7 with Node 0.10.41', 'state': 'closed', 'created_at': '2015-12-08T21:06:19Z', 'closed_at': '2015-12-09T05:07:38Z', 'labels': []}
+{'issuenumber': 380, 'title': 'Cannot build on node 4.2.2 (Ubuntu 12.04 64-bit)', 'state': 'closed', 'created_at': '2015-12-07T22:14:48Z', 'closed_at': '2015-12-07T22:46:16Z', 'labels': []}
+{'issuenumber': 379, 'title': 'bcrypt', 'state': 'closed', 'created_at': '2015-12-07T21:12:57Z', 'closed_at': '2015-12-07T22:45:53Z', 'labels': []}
+{'issuenumber': 378, 'title': 'Cannot Install Bcrypt', 'state': 'closed', 'created_at': '2015-11-30T19:01:48Z', 'closed_at': '2015-12-01T15:02:35Z', 'labels': []}
+{'issuenumber': 377, 'title': 'Fails to compile on FreeBSD', 'state': 'closed', 'created_at': '2015-11-30T02:15:49Z', 'closed_at': '2015-12-07T11:18:13Z', 'labels': []}
+{'issuenumber': 376, 'title': 'Error: version GLIBCXX_3.4.21 not defined in file libstdc++.so.6 with link time reference', 'state': 'closed', 'created_at': '2015-11-20T10:01:33Z', 'closed_at': '2015-12-07T11:17:56Z', 'labels': []}
+{'issuenumber': 375, 'title': 'add mention-bot', 'state': 'closed', 'created_at': '2015-11-19T22:17:26Z', 'closed_at': '2015-11-19T23:18:03Z', 'labels': []}
+{'issuenumber': 374, 'title': 'bcrypt always fails.. no clue why.', 'state': 'closed', 'created_at': '2015-11-10T23:27:28Z', 'closed_at': '2015-11-18T05:09:31Z', 'labels': []}
+{'issuenumber': 373, 'title': 'npm install bcrypt error in OSX ElCapitan', 'state': 'closed', 'created_at': '2015-11-10T06:15:43Z', 'closed_at': '2015-11-10T17:34:58Z', 'labels': []}
+{'issuenumber': 372, 'title': 'Cant install node bcrypt', 'state': 'closed', 'created_at': '2015-11-09T14:17:18Z', 'closed_at': '2015-11-09T20:07:05Z', 'labels': []}
+{'issuenumber': 370, 'title': 'bcrypt install fails on openshift platform', 'state': 'closed', 'created_at': '2015-11-05T08:14:11Z', 'closed_at': '2015-11-05T16:19:49Z', 'labels': []}
+{'issuenumber': 369, 'title': 'Consider XOR instead of equals for the comparator', 'state': 'closed', 'created_at': '2015-11-04T04:40:26Z', 'closed_at': '2015-11-09T01:35:43Z', 'labels': []}
+{'issuenumber': 368, 'title': 'Issues installing on Docker Image: 4.2.1-wheezy', 'state': 'closed', 'created_at': '2015-11-03T11:59:02Z', 'closed_at': '2015-11-03T15:34:38Z', 'labels': []}
+{'issuenumber': 367, 'title': 'node-gyp rebuild fails on OS X 10.10.5', 'state': 'closed', 'created_at': '2015-11-02T23:12:01Z', 'closed_at': '2015-11-03T18:42:57Z', 'labels': []}
+{'issuenumber': 366, 'title': 'npm install error on travis', 'state': 'closed', 'created_at': '2015-11-01T23:45:37Z', 'closed_at': '2015-11-02T00:05:01Z', 'labels': []}
+{'issuenumber': 365, 'title': 'ValidateSalt rejects valid salts', 'state': 'closed', 'created_at': '2015-10-31T16:53:43Z', 'closed_at': '2016-03-28T07:09:01Z', 'labels': []}
+{'issuenumber': 364, 'title': "upgrade node.js to v4.2.1, the 0.8.3 is can't be compiled", 'state': 'closed', 'created_at': '2015-10-28T03:04:24Z', 'closed_at': '2015-10-28T05:21:07Z', 'labels': []}
+{'issuenumber': 362, 'title': 'npm install bcrypt fails on Node 4.0  RH 6 with gcc 4.8.5  ', 'state': 'closed', 'created_at': '2015-10-21T03:24:04Z', 'closed_at': '2015-10-21T03:27:28Z', 'labels': []}
+{'issuenumber': 361, 'title': 'npm install bcrypt fails on windows 32', 'state': 'closed', 'created_at': '2015-10-20T17:33:00Z', 'closed_at': '2015-10-20T17:47:37Z', 'labels': []}
+{'issuenumber': 360, 'title': 'npm install bcrypt failing', 'state': 'closed', 'created_at': '2015-10-17T19:22:25Z', 'closed_at': '2015-10-18T17:49:02Z', 'labels': []}
+{'issuenumber': 357, 'title': 'Failed install with node 4.latest', 'state': 'closed', 'created_at': '2015-10-12T19:21:22Z', 'closed_at': '2015-10-12T19:44:19Z', 'labels': []}
+{'issuenumber': 356, 'title': 'Build error with Node v4.0.0', 'state': 'closed', 'created_at': '2015-10-04T21:45:50Z', 'closed_at': '2015-10-05T01:13:02Z', 'labels': []}
+{'issuenumber': 355, 'title': 'bcrypt at node 4.0 is error', 'state': 'closed', 'created_at': '2015-10-01T14:51:13Z', 'closed_at': '2015-10-01T16:35:20Z', 'labels': []}
+{'issuenumber': 354, 'title': 'Cannot get bcrypt to install node 4.1.1 npm 3.3.4', 'state': 'closed', 'created_at': '2015-09-30T06:23:05Z', 'closed_at': '2015-09-30T16:14:53Z', 'labels': []}
+{'issuenumber': 353, 'title': 'Getting a `make` error', 'state': 'closed', 'created_at': '2015-09-28T18:38:35Z', 'closed_at': '2015-09-28T23:09:00Z', 'labels': []}
+{'issuenumber': 352, 'title': 'Document travis build requirements under 4.x', 'state': 'closed', 'created_at': '2015-09-25T21:28:35Z', 'closed_at': '2015-09-26T00:15:18Z', 'labels': []}
+{'issuenumber': 351, 'title': 'npm install bcrypt fails in install: node-gyp rebuild', 'state': 'closed', 'created_at': '2015-09-25T00:34:08Z', 'closed_at': '2015-09-26T06:56:15Z', 'labels': []}
+{'issuenumber': 350, 'title': 'Keep getting same issues', 'state': 'closed', 'created_at': '2015-09-24T22:46:44Z', 'closed_at': '2015-09-30T00:40:10Z', 'labels': []}
+{'issuenumber': 349, 'title': 'when attempting to specify a salt with $2b$ bcrypt throws an error', 'state': 'closed', 'created_at': '2015-09-23T14:08:02Z', 'closed_at': '2015-09-23T15:56:53Z', 'labels': []}
+{'issuenumber': 348, 'title': 'Cannot Install BCrypt', 'state': 'closed', 'created_at': '2015-09-23T04:36:00Z', 'closed_at': '2015-09-23T04:38:29Z', 'labels': []}
+{'issuenumber': 347, 'title': 'Error: Module version mismatch. Expected 46, got 14. in nodejs v4.1.0', 'state': 'closed', 'created_at': '2015-09-22T18:24:56Z', 'closed_at': '2015-09-22T18:26:50Z', 'labels': []}
+{'issuenumber': 346, 'title': 'Build Failing on node v4.1.0', 'state': 'closed', 'created_at': '2015-09-21T21:35:05Z', 'closed_at': '2015-09-21T22:10:57Z', 'labels': []}
+{'issuenumber': 345, 'title': 'Builds fail to compile with node > 3 on travis', 'state': 'closed', 'created_at': '2015-09-20T21:37:17Z', 'closed_at': '2015-09-20T22:16:08Z', 'labels': []}
+{'issuenumber': 344, 'title': 'Node v.4.1.0 with Bcrypt 0.8.5 results in build failing at node-gyp on CircleCI', 'state': 'closed', 'created_at': '2015-09-20T18:09:48Z', 'closed_at': '2015-09-20T20:52:05Z', 'labels': []}
+{'issuenumber': 343, 'title': 'error installing on OSX Yosemite', 'state': 'closed', 'created_at': '2015-09-18T12:32:08Z', 'closed_at': '2015-09-18T18:17:04Z', 'labels': []}
+{'issuenumber': 342, 'title': 'Update nan version', 'state': 'closed', 'created_at': '2015-09-14T13:12:58Z', 'closed_at': '2015-09-14T18:54:20Z', 'labels': []}
+{'issuenumber': 341, 'title': 'bcrypt + node4.0 + windows', 'state': 'closed', 'created_at': '2015-09-13T23:32:04Z', 'closed_at': '2015-09-14T00:22:32Z', 'labels': []}
+{'issuenumber': 340, 'title': 'Error to execute `npm install bcrypt` with NodeJS 4.0.0 in Windows 10', 'state': 'closed', 'created_at': '2015-09-13T20:51:25Z', 'closed_at': '2015-09-13T21:18:45Z', 'labels': []}
+{'issuenumber': 339, 'title': 'node 4.0 support', 'state': 'closed', 'created_at': '2015-09-12T14:06:31Z', 'closed_at': '2015-09-12T14:09:39Z', 'labels': []}
+{'issuenumber': 338, 'title': 'Failing to build with node v4.0.0', 'state': 'closed', 'created_at': '2015-09-11T21:46:31Z', 'closed_at': '2015-09-11T22:48:38Z', 'labels': []}
+{'issuenumber': 337, 'title': 'Not compatable with Node v4.0.0', 'state': 'closed', 'created_at': '2015-09-11T18:38:29Z', 'closed_at': '2015-09-11T19:00:31Z', 'labels': []}
+{'issuenumber': 336, 'title': 'Cannot install on my system', 'state': 'closed', 'created_at': '2015-09-11T12:46:14Z', 'closed_at': '2015-09-11T14:53:39Z', 'labels': []}
+{'issuenumber': 334, 'title': 'Node 4.0 support', 'state': 'closed', 'created_at': '2015-09-08T21:08:28Z', 'closed_at': '2015-09-09T01:03:50Z', 'labels': []}
+{'issuenumber': 333, 'title': 'bcrypt 0.8.5 fails with "gyp_main.py: error: no such option: --no-parallel"', 'state': 'closed', 'created_at': '2015-09-04T16:24:47Z', 'closed_at': '2015-09-04T16:26:35Z', 'labels': []}
+{'issuenumber': 332, 'title': 'bcrypt - node_modules/bcrypt/node_modules/bindings/bindings.js:83 not working', 'state': 'closed', 'created_at': '2015-09-03T03:51:54Z', 'closed_at': '2015-09-03T04:26:50Z', 'labels': []}
+{'issuenumber': 331, 'title': 'node-gyp rebuild fails on beanstalk', 'state': 'closed', 'created_at': '2015-09-02T15:52:22Z', 'closed_at': '2015-09-02T17:37:26Z', 'labels': []}
+{'issuenumber': 330, 'title': "Failed at the bcrypt@0.8.5 install script 'node-gyp rebuild'", 'state': 'closed', 'created_at': '2015-08-25T03:12:00Z', 'closed_at': '2015-08-27T07:04:25Z', 'labels': []}
+{'issuenumber': 329, 'title': 'Failed compiling on Travis iojs 3.0.0', 'state': 'closed', 'created_at': '2015-08-24T20:42:06Z', 'closed_at': '2015-08-24T23:32:48Z', 'labels': []}
+{'issuenumber': 328, 'title': '404 during installation', 'state': 'closed', 'created_at': '2015-08-18T16:12:49Z', 'closed_at': '2015-08-18T17:01:26Z', 'labels': []}
+{'issuenumber': 326, 'title': "CentOS 6.6 can't compile 0.8.5", 'state': 'closed', 'created_at': '2015-08-15T01:44:29Z', 'closed_at': '2015-08-15T16:33:48Z', 'labels': []}
+{'issuenumber': 325, 'title': 'Consider adding warning for long strings', 'state': 'closed', 'created_at': '2015-08-14T12:54:50Z', 'closed_at': '2015-08-17T15:16:09Z', 'labels': []}
+{'issuenumber': 323, 'title': 'Failed to compile bcrypt for Node 2.3.1 (Electron run-time environment)', 'state': 'closed', 'created_at': '2015-08-09T05:12:17Z', 'closed_at': '2015-08-11T18:14:42Z', 'labels': []}
+{'issuenumber': 322, 'title': 'Support iojs 3.0.0', 'state': 'closed', 'created_at': '2015-08-05T08:37:00Z', 'closed_at': '2015-08-12T22:12:12Z', 'labels': []}
+{'issuenumber': 321, 'title': 'bcrypt 0.8.4 not working on Ubuntu', 'state': 'closed', 'created_at': '2015-07-29T16:35:34Z', 'closed_at': '2015-07-30T05:04:01Z', 'labels': []}
+{'issuenumber': 320, 'title': 'bcrypt installation on openshift gear error - help plz!', 'state': 'closed', 'created_at': '2015-07-17T09:48:36Z', 'closed_at': '2015-07-17T17:35:59Z', 'labels': []}
+{'issuenumber': 319, 'title': 'NOt able to install bcrypt on window', 'state': 'closed', 'created_at': '2015-07-13T08:43:03Z', 'closed_at': '2015-07-30T04:51:16Z', 'labels': []}
+{'issuenumber': 318, 'title': 'npm install bcrypt failing and its showing errors ', 'state': 'closed', 'created_at': '2015-06-26T07:13:04Z', 'closed_at': '2015-07-07T02:23:10Z', 'labels': []}
+{'issuenumber': 317, 'title': "bcrypt compare function don't work", 'state': 'closed', 'created_at': '2015-06-18T01:48:41Z', 'closed_at': '2015-06-18T02:06:46Z', 'labels': []}
+{'issuenumber': 316, 'title': "npm ERR! Failed at the bcrypt@0.8.3 install script 'node-gyp rebuild'.", 'state': 'closed', 'created_at': '2015-06-13T09:46:15Z', 'closed_at': '2015-06-18T02:07:11Z', 'labels': []}
+{'issuenumber': 315, 'title': 'Is there a function to compare two hash values from one original password? ', 'state': 'closed', 'created_at': '2015-06-11T04:20:31Z', 'closed_at': '2015-06-18T02:08:30Z', 'labels': []}
+{'issuenumber': 312, 'title': 'Unable to install bcrypt using npm in Windows 8.1', 'state': 'closed', 'created_at': '2015-05-21T02:03:27Z', 'closed_at': '2015-05-25T17:10:01Z', 'labels': []}
+{'issuenumber': 311, 'title': 'Unable to install bcrypt', 'state': 'closed', 'created_at': '2015-05-20T14:20:44Z', 'closed_at': '2015-05-20T16:14:24Z', 'labels': []}
+{'issuenumber': 309, 'title': 'Unexpected Match', 'state': 'closed', 'created_at': '2015-05-18T04:22:51Z', 'closed_at': '2015-05-18T05:23:29Z', 'labels': []}
+{'issuenumber': 308, 'title': 'NVM, node-gyp and bcrypt with Node v0.12.3', 'state': 'closed', 'created_at': '2015-05-16T10:18:03Z', 'closed_at': '2015-06-05T15:29:29Z', 'labels': []}
+{'issuenumber': 307, 'title': "error Failed at the bcrypt@0.8.3 install script 'node-gyp rebuild'", 'state': 'closed', 'created_at': '2015-05-15T03:55:12Z', 'closed_at': '2015-06-05T15:29:37Z', 'labels': []}
+{'issuenumber': 306, 'title': 'Deprecation warning installing with iojs 2.0.1', 'state': 'closed', 'created_at': '2015-05-13T17:45:04Z', 'closed_at': '2015-06-05T15:29:50Z', 'labels': []}
+{'issuenumber': 305, 'title': 'Segmentation Fault 11', 'state': 'closed', 'created_at': '2015-05-10T06:21:49Z', 'closed_at': '2015-05-10T15:33:23Z', 'labels': []}
+{'issuenumber': 304, 'title': 'Error to install bcrypt via npm', 'state': 'closed', 'created_at': '2015-05-09T22:48:37Z', 'closed_at': '2015-05-12T03:31:51Z', 'labels': []}
+{'issuenumber': 303, 'title': "Why is async 'recommended'?", 'state': 'closed', 'created_at': '2015-05-07T05:01:14Z', 'closed_at': '2015-05-07T06:21:32Z', 'labels': []}
+{'issuenumber': 302, 'title': 'iojs 2.0.0 cant build', 'state': 'closed', 'created_at': '2015-05-07T01:18:42Z', 'closed_at': '2015-05-07T06:21:55Z', 'labels': []}
+{'issuenumber': 301, 'title': 'bcrypt windows installation error spawn NOENT', 'state': 'closed', 'created_at': '2015-05-06T08:06:08Z', 'closed_at': '2015-05-06T09:54:33Z', 'labels': []}
+{'issuenumber': 298, 'title': 'Bcrypt fails to build on io.js 2.0.0', 'state': 'closed', 'created_at': '2015-05-05T06:48:37Z', 'closed_at': '2015-05-06T19:03:58Z', 'labels': []}
+{'issuenumber': 297, 'title': "Can't build via npm: gyp failed with exit code 1", 'state': 'closed', 'created_at': '2015-05-04T06:43:37Z', 'closed_at': '2015-06-05T15:30:26Z', 'labels': []}
+{'issuenumber': 296, 'title': 'npm install --save bcrypt fails', 'state': 'closed', 'created_at': '2015-04-27T09:16:38Z', 'closed_at': '2015-04-27T09:47:17Z', 'labels': []}
+{'issuenumber': 295, 'title': 'Add salt argument to compare/compareSync', 'state': 'closed', 'created_at': '2015-04-22T14:57:17Z', 'closed_at': '2015-05-06T19:09:12Z', 'labels': []}
+{'issuenumber': 294, 'title': "Can't build / can't install bcrypt on Windows", 'state': 'closed', 'created_at': '2015-04-17T02:47:01Z', 'closed_at': '2015-04-17T19:39:56Z', 'labels': []}
+{'issuenumber': 293, 'title': "Can't install on Mac OS X 10.10.2", 'state': 'closed', 'created_at': '2015-04-16T17:59:58Z', 'closed_at': '2015-05-01T04:04:18Z', 'labels': []}
+{'issuenumber': 291, 'title': 'node-gyp error in bcrypt package', 'state': 'closed', 'created_at': '2015-04-15T09:26:54Z', 'closed_at': '2015-04-15T15:47:57Z', 'labels': []}
+{'issuenumber': 290, 'title': 'What is the maximum rounds for getSaltSync ? ', 'state': 'closed', 'created_at': '2015-04-10T09:24:18Z', 'closed_at': '2015-04-10T09:32:38Z', 'labels': []}
+{'issuenumber': 289, 'title': 'bcrypt error', 'state': 'closed', 'created_at': '2015-04-07T07:01:14Z', 'closed_at': '2015-05-06T19:09:58Z', 'labels': []}
+{'issuenumber': 288, 'title': 'Worker will die w/ malloc error when using package with out of date bcrypt', 'state': 'closed', 'created_at': '2015-04-03T17:17:02Z', 'closed_at': '2015-06-18T02:08:40Z', 'labels': []}
+{'issuenumber': 287, 'title': '404 status code downloading tarball', 'state': 'closed', 'created_at': '2015-03-31T14:45:42Z', 'closed_at': '2015-03-31T14:49:51Z', 'labels': []}
+{'issuenumber': 284, 'title': 'How to compare with a specific salt?', 'state': 'closed', 'created_at': '2015-03-25T17:10:32Z', 'closed_at': '2015-03-26T12:06:36Z', 'labels': []}
+{'issuenumber': 283, 'title': 'Package Installation failed', 'state': 'closed', 'created_at': '2015-03-18T09:32:01Z', 'closed_at': '2015-03-30T13:37:17Z', 'labels': []}
+{'issuenumber': 282, 'title': 'Unable to node-gyp rebuild bcrypt with npm install', 'state': 'closed', 'created_at': '2015-03-17T17:26:10Z', 'closed_at': '2015-03-30T13:38:08Z', 'labels': []}
+{'issuenumber': 281, 'title': 'Error: Module did not self-register.', 'state': 'closed', 'created_at': '2015-03-16T03:05:42Z', 'closed_at': '2015-03-16T06:27:00Z', 'labels': []}
+{'issuenumber': 280, 'title': 'bcrypt bindings problem...? (node v 0.12.0', 'state': 'closed', 'created_at': '2015-03-15T04:55:31Z', 'closed_at': '2015-03-30T13:39:35Z', 'labels': []}
+{'issuenumber': 279, 'title': 'release node 0.12 supporting version', 'state': 'closed', 'created_at': '2015-03-10T22:12:43Z', 'closed_at': '2015-03-12T04:28:43Z', 'labels': []}
+{'issuenumber': 277, 'title': 'Node-gyp / Node 0.12 error', 'state': 'closed', 'created_at': '2015-02-22T20:13:26Z', 'closed_at': '2015-02-24T18:20:16Z', 'labels': []}
+{'issuenumber': 276, 'title': 'Node.JS Grunt Error', 'state': 'closed', 'created_at': '2015-02-19T03:22:31Z', 'closed_at': '2015-02-24T18:19:40Z', 'labels': []}
+{'issuenumber': 274, 'title': 'Error in io.js', 'state': 'closed', 'created_at': '2015-02-11T22:41:58Z', 'closed_at': '2015-03-05T22:00:40Z', 'labels': []}
+{'issuenumber': 273, 'title': 'Add testing for 0.12', 'state': 'closed', 'created_at': '2015-02-09T11:55:43Z', 'closed_at': '2015-02-18T21:11:51Z', 'labels': []}
+{'issuenumber': 272, 'title': 'IOjs v1.0.3 not able to load bcrypt module (Windows)', 'state': 'closed', 'created_at': '2015-01-23T17:38:16Z', 'closed_at': '2015-02-09T19:53:40Z', 'labels': []}
+{'issuenumber': 271, 'title': 'Build failing with node 0.11', 'state': 'closed', 'created_at': '2015-01-21T20:54:12Z', 'closed_at': '2015-01-22T08:07:52Z', 'labels': []}
+{'issuenumber': 270, 'title': 'Build fails on FreeBSD / Clang', 'state': 'closed', 'created_at': '2015-01-18T11:57:36Z', 'closed_at': '2015-01-18T16:32:34Z', 'labels': []}
+{'issuenumber': 268, 'title': 'Does not installl on iojs (OSX)', 'state': 'closed', 'created_at': '2015-01-14T08:05:46Z', 'closed_at': '2015-01-19T02:48:55Z', 'labels': []}
+{'issuenumber': 267, 'title': 'Tag 1.0? ', 'state': 'closed', 'created_at': '2015-01-10T02:55:21Z', 'closed_at': '2015-01-10T05:47:21Z', 'labels': []}
+{'issuenumber': 266, 'title': 'Statistical report for constant time compare tests?', 'state': 'closed', 'created_at': '2015-01-05T20:04:12Z', 'closed_at': '2015-01-05T21:58:09Z', 'labels': []}
+{'issuenumber': 265, 'title': 'gyp build error', 'state': 'closed', 'created_at': '2014-12-25T03:54:44Z', 'closed_at': '2014-12-25T05:21:34Z', 'labels': []}
+{'issuenumber': 263, 'title': 'Error in README???', 'state': 'closed', 'created_at': '2014-12-17T09:49:38Z', 'closed_at': '2014-12-17T18:55:50Z', 'labels': []}
+{'issuenumber': 262, 'title': "Salt cost doesn't seem to make a difference?", 'state': 'closed', 'created_at': '2014-12-10T20:23:00Z', 'closed_at': '2014-12-10T20:37:14Z', 'labels': []}
+{'issuenumber': 260, 'title': 'Cannot install bcrypt on windows', 'state': 'closed', 'created_at': '2014-11-20T05:26:08Z', 'closed_at': '2014-12-03T20:19:32Z', 'labels': []}
+{'issuenumber': 259, 'title': 'Windows 7 Build Issue with node-gyp rebuild', 'state': 'closed', 'created_at': '2014-11-18T23:24:31Z', 'closed_at': '2015-01-10T05:47:35Z', 'labels': []}
+{'issuenumber': 258, 'title': 'Npm package not install on OSX', 'state': 'closed', 'created_at': '2014-11-07T18:51:28Z', 'closed_at': '2014-11-19T00:54:00Z', 'labels': []}
+{'issuenumber': 257, 'title': 'Errors installing bcrypt on Windows 7', 'state': 'closed', 'created_at': '2014-11-02T16:16:35Z', 'closed_at': '2014-11-07T21:44:48Z', 'labels': []}
+{'issuenumber': 256, 'title': 'check `cb` before first call', 'state': 'closed', 'created_at': '2014-10-31T08:00:18Z', 'closed_at': '2015-01-15T07:20:40Z', 'labels': []}
+{'issuenumber': 255, 'title': 'bcrypt is not installed in windows8', 'state': 'closed', 'created_at': '2014-10-27T14:18:45Z', 'closed_at': '2014-11-13T18:21:59Z', 'labels': []}
+{'issuenumber': 254, 'title': 'Cannot build on windows x64', 'state': 'closed', 'created_at': '2014-10-09T23:27:00Z', 'closed_at': '2014-10-09T23:36:55Z', 'labels': []}
+{'issuenumber': 253, 'title': 'Installing bcrypt on an ubuntu machine', 'state': 'closed', 'created_at': '2014-10-05T21:40:24Z', 'closed_at': '2014-10-05T22:12:01Z', 'labels': []}
+{'issuenumber': 252, 'title': 'Questions about rounds and the interface', 'state': 'closed', 'created_at': '2014-10-03T19:57:49Z', 'closed_at': '2014-10-03T20:24:48Z', 'labels': []}
+{'issuenumber': 251, 'title': 'license for https://github.com/ncb000gt/node.bcrypt.js/blob/master/src/bcrypt_node.cc#L2 still BSD?@', 'state': 'closed', 'created_at': '2014-09-25T20:38:58Z', 'closed_at': '2014-09-25T20:46:25Z', 'labels': []}
+{'issuenumber': 250, 'title': "node-gyp can't compile", 'state': 'closed', 'created_at': '2014-09-17T09:23:45Z', 'closed_at': '2014-09-17T15:58:56Z', 'labels': []}
+{'issuenumber': 249, 'title': 'Why 14 rounds seems a magic number?', 'state': 'closed', 'created_at': '2014-08-26T19:26:04Z', 'closed_at': '2014-08-26T20:33:02Z', 'labels': []}
+{'issuenumber': 248, 'title': 'Error: `make` failed with exit code: 2', 'state': 'closed', 'created_at': '2014-08-26T04:33:50Z', 'closed_at': '2014-08-26T12:07:49Z', 'labels': []}
+{'issuenumber': 247, 'title': 'Install sintax error', 'state': 'closed', 'created_at': '2014-08-18T16:26:32Z', 'closed_at': '2014-08-20T16:23:34Z', 'labels': []}
+{'issuenumber': 242, 'title': 'Requires C++ compilation - could it use node\'s "crypto" module without loss of security/performance?', 'state': 'closed', 'created_at': '2014-07-17T12:27:37Z', 'closed_at': '2014-07-17T13:33:09Z', 'labels': []}
+{'issuenumber': 241, 'title': 'bcrypt installation fails', 'state': 'closed', 'created_at': '2014-06-18T13:22:28Z', 'closed_at': '2014-06-18T13:42:18Z', 'labels': []}
+{'issuenumber': 240, 'title': 'Error Compiling for node 11.13', 'state': 'closed', 'created_at': '2014-06-13T14:40:25Z', 'closed_at': '2014-06-20T19:51:19Z', 'labels': []}
+{'issuenumber': 239, 'title': 'Any plan to support promises of node 0.11', 'state': 'closed', 'created_at': '2014-06-12T17:13:04Z', 'closed_at': '2014-06-20T19:23:11Z', 'labels': []}
+{'issuenumber': 238, 'title': 'Error installing bcrypt.js on windows 8', 'state': 'closed', 'created_at': '2014-05-26T19:28:06Z', 'closed_at': '2014-05-27T02:12:16Z', 'labels': []}
+{'issuenumber': 237, 'title': "Can't install with npm on OS X Mavericks", 'state': 'closed', 'created_at': '2014-05-19T20:47:26Z', 'closed_at': '2014-05-19T20:51:17Z', 'labels': []}
+{'issuenumber': 235, 'title': "Domains can't catch errors inside bcrypt callbacks", 'state': 'closed', 'created_at': '2014-05-04T06:57:12Z', 'closed_at': '2017-01-20T16:22:58Z', 'labels': []}
+{'issuenumber': 234, 'title': 'npm install error', 'state': 'closed', 'created_at': '2014-04-27T23:39:04Z', 'closed_at': '2014-04-27T23:56:31Z', 'labels': []}
+{'issuenumber': 232, 'title': 'Failed at the bcrypt@0.7.7 install script.', 'state': 'closed', 'created_at': '2014-04-25T10:02:30Z', 'closed_at': '2014-04-25T10:08:07Z', 'labels': []}
+{'issuenumber': 230, 'title': "bcrypt won't build", 'state': 'closed', 'created_at': '2014-04-21T21:47:21Z', 'closed_at': '2014-04-21T22:57:07Z', 'labels': []}
+{'issuenumber': 226, 'title': "Won't install on Ubuntu", 'state': 'closed', 'created_at': '2014-04-09T21:49:20Z', 'closed_at': '2014-04-09T21:52:36Z', 'labels': []}
+{'issuenumber': 224, 'title': 'Error Installing on Fedora 20', 'state': 'closed', 'created_at': '2014-04-03T11:20:13Z', 'closed_at': '2014-04-03T11:29:52Z', 'labels': []}
+{'issuenumber': 223, 'title': "can't build over windows", 'state': 'closed', 'created_at': '2014-04-02T15:38:03Z', 'closed_at': '2014-04-02T15:40:20Z', 'labels': []}
+{'issuenumber': 221, 'title': 'bcrypt not working ', 'state': 'closed', 'created_at': '2014-03-26T00:32:13Z', 'closed_at': '2014-03-26T00:33:59Z', 'labels': []}
+{'issuenumber': 220, 'title': 'cannot install on redhat using node js 11.12 and npm version1.4.3', 'state': 'closed', 'created_at': '2014-03-19T15:47:06Z', 'closed_at': '2014-03-19T15:47:58Z', 'labels': []}
+{'issuenumber': 219, 'title': "Can't install bcrypt on windows 8.1", 'state': 'closed', 'created_at': '2014-03-19T08:50:49Z', 'closed_at': '2014-03-19T15:08:47Z', 'labels': []}
+{'issuenumber': 217, 'title': "Won't install on OS X with gcc (node-gyp rebuild error)", 'state': 'closed', 'created_at': '2014-03-16T22:06:31Z', 'closed_at': '2014-04-09T23:15:56Z', 'labels': []}
+{'issuenumber': 216, 'title': 'Upload bcrypt', 'state': 'closed', 'created_at': '2014-03-08T16:21:35Z', 'closed_at': '2014-03-08T16:22:18Z', 'labels': []}
+{'issuenumber': 214, 'title': 'node v0.11.* build', 'state': 'closed', 'created_at': '2014-02-26T16:00:53Z', 'closed_at': '2014-02-26T16:03:06Z', 'labels': []}
+{'issuenumber': 213, 'title': "can't verify hash", 'state': 'closed', 'created_at': '2014-02-26T14:36:16Z', 'closed_at': '2014-02-26T14:43:47Z', 'labels': []}
+{'issuenumber': 212, 'title': 'Win 8.1 build fail', 'state': 'closed', 'created_at': '2014-02-21T08:44:09Z', 'closed_at': '2014-02-21T16:03:41Z', 'labels': []}
+{'issuenumber': 211, 'title': 'Will not install if python binary points to python3', 'state': 'closed', 'created_at': '2014-02-19T03:38:24Z', 'closed_at': '2014-02-19T15:08:04Z', 'labels': []}
+{'issuenumber': 210, 'title': 'rounds argument name misleading', 'state': 'closed', 'created_at': '2014-02-18T04:54:10Z', 'closed_at': '2014-07-03T13:12:56Z', 'labels': []}
+{'issuenumber': 209, 'title': 'error installing bcrypt in Amazon linux ', 'state': 'closed', 'created_at': '2014-02-12T19:58:30Z', 'closed_at': '2014-02-12T20:01:46Z', 'labels': []}
+{'issuenumber': 208, 'title': 'Fails to install', 'state': 'closed', 'created_at': '2014-02-09T08:06:42Z', 'closed_at': '2014-02-09T16:35:20Z', 'labels': []}
+{'issuenumber': 207, 'title': 'building w/ visual studio 2013', 'state': 'closed', 'created_at': '2014-01-29T22:59:21Z', 'closed_at': '2014-01-30T01:20:29Z', 'labels': []}
+{'issuenumber': 206, 'title': 'Broken on 0.11?', 'state': 'closed', 'created_at': '2014-01-28T18:33:09Z', 'closed_at': '2014-01-28T18:59:58Z', 'labels': []}
+{'issuenumber': 205, 'title': 'Installation on Heroku is failing (Error: Could not load the bindings file.)', 'state': 'closed', 'created_at': '2014-01-27T05:53:27Z', 'closed_at': '2014-01-30T01:20:44Z', 'labels': []}
+{'issuenumber': 204, 'title': 'Segmentation fault in genSaltSync', 'state': 'closed', 'created_at': '2014-01-21T16:56:00Z', 'closed_at': '2014-01-22T15:57:56Z', 'labels': []}
+{'issuenumber': 203, 'title': 'Problem with Installation 2', 'state': 'closed', 'created_at': '2014-01-10T03:41:18Z', 'closed_at': '2014-01-10T05:48:49Z', 'labels': []}
+{'issuenumber': 202, 'title': 'Problem in installation ', 'state': 'closed', 'created_at': '2013-12-31T12:13:33Z', 'closed_at': '2014-01-30T01:20:58Z', 'labels': []}
+{'issuenumber': 201, 'title': 'Remove deprecated methods', 'state': 'closed', 'created_at': '2013-12-18T19:40:41Z', 'closed_at': '2013-12-18T19:50:34Z', 'labels': []}
+{'issuenumber': 200, 'title': 'Unable to compile under node 0.10.23', 'state': 'closed', 'created_at': '2013-12-18T19:27:24Z', 'closed_at': '2013-12-18T19:37:01Z', 'labels': []}
+{'issuenumber': 199, 'title': 'unable to install with npm nor build from source', 'state': 'closed', 'created_at': '2013-12-16T06:01:38Z', 'closed_at': '2013-12-16T06:10:51Z', 'labels': []}
+{'issuenumber': 198, 'title': "Errors on build (such as: error: unknown type name 'uv_work_t')", 'state': 'closed', 'created_at': '2013-12-11T16:23:49Z', 'closed_at': '2013-12-11T16:25:57Z', 'labels': []}
+{'issuenumber': 197, 'title': 'Installation fails because of missing v8.h file', 'state': 'closed', 'created_at': '2013-12-10T23:27:05Z', 'closed_at': '2013-12-11T00:42:00Z', 'labels': []}
+{'issuenumber': 196, 'title': 'bcrypt install script fails in Windows 8', 'state': 'closed', 'created_at': '2013-12-06T22:37:34Z', 'closed_at': '2013-12-06T22:39:29Z', 'labels': []}
+{'issuenumber': 195, 'title': 'bcrypt install script fails in Windows 8', 'state': 'closed', 'created_at': '2013-12-06T20:25:58Z', 'closed_at': '2013-12-06T20:26:56Z', 'labels': []}
+{'issuenumber': 193, 'title': 'npm install fails, npm install bcrypt works', 'state': 'closed', 'created_at': '2013-11-27T08:54:53Z', 'closed_at': '2013-12-07T02:59:34Z', 'labels': []}
+{'issuenumber': 192, 'title': 'Strange behavior when hashing + comparing passwords longer than 72 characters', 'state': 'closed', 'created_at': '2013-11-25T06:16:47Z', 'closed_at': '2013-11-25T14:56:03Z', 'labels': []}
+{'issuenumber': 191, 'title': 'Installation of bcrypt 0.7.7 fails because of space in path "c:\\Documents.obj" ', 'state': 'closed', 'created_at': '2013-11-20T21:16:05Z', 'closed_at': '2014-02-26T16:03:32Z', 'labels': []}
+{'issuenumber': 190, 'title': 'Installation issue in win xp', 'state': 'closed', 'created_at': '2013-11-20T13:55:12Z', 'closed_at': '2013-11-20T13:56:20Z', 'labels': []}
+{'issuenumber': 189, 'title': "Can't install on node 0.8.26 / OSX 10.9 / xcode 5.0.2", 'state': 'closed', 'created_at': '2013-11-18T17:56:14Z', 'closed_at': '2013-11-18T18:09:33Z', 'labels': []}
+{'issuenumber': 188, 'title': "Remove '/' from salt?", 'state': 'closed', 'created_at': '2013-11-13T02:13:46Z', 'closed_at': '2013-11-13T02:14:28Z', 'labels': []}
+{'issuenumber': 187, 'title': 'node 0.10.3 install issue ', 'state': 'closed', 'created_at': '2013-10-21T08:48:48Z', 'closed_at': '2013-10-21T11:50:14Z', 'labels': []}
+{'issuenumber': 186, 'title': 'precompiled binaries?', 'state': 'closed', 'created_at': '2013-10-08T23:29:28Z', 'closed_at': '2013-10-22T19:53:46Z', 'labels': []}
+{'issuenumber': 185, 'title': 'Installation problem on Windows 8', 'state': 'closed', 'created_at': '2013-10-08T13:47:13Z', 'closed_at': '2013-10-08T13:49:51Z', 'labels': []}
+{'issuenumber': 183, 'title': 'Comparing empty strings returns false?', 'state': 'closed', 'created_at': '2013-08-19T19:42:38Z', 'closed_at': '2013-08-19T19:44:43Z', 'labels': []}
+{'issuenumber': 182, 'title': 'Can not install in Mac', 'state': 'closed', 'created_at': '2013-08-17T16:56:49Z', 'closed_at': '2013-08-22T20:21:04Z', 'labels': []}
+{'issuenumber': 181, 'title': 'Cannot install bcrypt on nodejs 0.10.15', 'state': 'closed', 'created_at': '2013-08-14T15:05:59Z', 'closed_at': '2013-08-14T15:59:41Z', 'labels': []}
+{'issuenumber': 180, 'title': "Can't install on a mac", 'state': 'closed', 'created_at': '2013-08-12T16:58:47Z', 'closed_at': '2013-08-12T17:39:31Z', 'labels': []}
+{'issuenumber': 179, 'title': 'Build fails with Unicode characters in <AdditionalIncludeDirectories>', 'state': 'closed', 'created_at': '2013-08-06T20:47:00Z', 'closed_at': '2013-08-06T21:06:29Z', 'labels': []}
+{'issuenumber': 178, 'title': 'Node > .11.4 Support', 'state': 'closed', 'created_at': '2013-08-01T16:36:07Z', 'closed_at': '2013-12-07T02:59:54Z', 'labels': []}
+{'issuenumber': 177, 'title': 'strange behavior for compare async after compareSync on windows for invalid hash strings', 'state': 'closed', 'created_at': '2013-07-25T07:38:35Z', 'closed_at': '2013-08-14T22:24:06Z', 'labels': []}
+{'issuenumber': 176, 'title': 'Unable to install on Windows 7 64 bit: Specified platform toolset (v110)  not installed or invalid', 'state': 'closed', 'created_at': '2013-07-17T21:29:12Z', 'closed_at': '2013-07-17T23:17:35Z', 'labels': []}
+{'issuenumber': 175, 'title': 'Add support for $2y blowfish fix', 'state': 'closed', 'created_at': '2013-07-15T19:06:59Z', 'closed_at': '2013-12-07T03:01:34Z', 'labels': []}
+{'issuenumber': 174, 'title': 'Can a more friendly error message be provided?', 'state': 'closed', 'created_at': '2013-07-11T02:10:15Z', 'closed_at': '2013-07-11T02:30:21Z', 'labels': []}
+{'issuenumber': 173, 'title': 'Module Version Mismatch error on CentOS', 'state': 'closed', 'created_at': '2013-07-09T13:31:08Z', 'closed_at': '2013-07-09T14:14:46Z', 'labels': []}
+{'issuenumber': 172, 'title': 'Problem with Node v.10.12', 'state': 'closed', 'created_at': '2013-07-03T04:35:29Z', 'closed_at': '2013-07-03T04:38:14Z', 'labels': []}
+{'issuenumber': 171, 'title': 'Error loading bindings file, sometimes', 'state': 'closed', 'created_at': '2013-06-28T18:22:55Z', 'closed_at': '2013-06-28T18:26:18Z', 'labels': []}
+{'issuenumber': 169, 'title': 'Linux x64 install issue', 'state': 'closed', 'created_at': '2013-05-26T22:16:03Z', 'closed_at': '2013-05-27T19:36:38Z', 'labels': []}
+{'issuenumber': 167, 'title': 'Errors should not be raised on asynchronous functions', 'state': 'closed', 'created_at': '2013-05-26T08:42:44Z', 'closed_at': '2013-05-26T09:22:45Z', 'labels': []}
+{'issuenumber': 166, 'title': 'Not installing on travis, node-gyp is never called', 'state': 'closed', 'created_at': '2013-05-24T21:52:04Z', 'closed_at': '2013-05-26T09:23:59Z', 'labels': []}
+{'issuenumber': 165, 'title': 'Install errors', 'state': 'closed', 'created_at': '2013-05-20T14:09:57Z', 'closed_at': '2013-05-20T20:12:37Z', 'labels': []}
+{'issuenumber': 164, 'title': 'install node.js bcrypt error', 'state': 'closed', 'created_at': '2013-05-17T04:32:20Z', 'closed_at': '2013-05-17T04:34:42Z', 'labels': []}
+{'issuenumber': 161, 'title': 'npm install bcrypt fails, node version 0.11.2-pre, npm version 1.2.18', 'state': 'closed', 'created_at': '2013-04-23T23:32:11Z', 'closed_at': '2013-04-24T00:01:03Z', 'labels': []}
+{'issuenumber': 160, 'title': 'function hash(data, salt, PROGRESS; callback) breaks compatibility', 'state': 'closed', 'created_at': '2013-04-19T15:59:37Z', 'closed_at': '2013-04-19T16:03:26Z', 'labels': []}
+{'issuenumber': 159, 'title': 'Problem when trying to install ldapauth on npm', 'state': 'closed', 'created_at': '2013-04-12T18:29:28Z', 'closed_at': '2013-04-12T18:33:23Z', 'labels': []}
+{'issuenumber': 158, 'title': 'Cannot get to compile on Nodejitsu', 'state': 'closed', 'created_at': '2013-04-08T04:56:01Z', 'closed_at': '2013-04-13T15:24:27Z', 'labels': []}
+{'issuenumber': 157, 'title': 'Wrong ELF Class:  ELFCLASS32', 'state': 'closed', 'created_at': '2013-04-03T02:52:08Z', 'closed_at': '2013-04-03T05:10:56Z', 'labels': []}
+{'issuenumber': 156, 'title': 'bcrypt package error in Node 0.10.1', 'state': 'closed', 'created_at': '2013-03-25T01:09:12Z', 'closed_at': '2013-04-01T15:54:36Z', 'labels': []}
+{'issuenumber': 155, 'title': 'bcrypt installation issue on windows 7', 'state': 'closed', 'created_at': '2013-03-21T17:43:01Z', 'closed_at': '2013-03-22T03:14:35Z', 'labels': []}
+{'issuenumber': 154, 'title': 'Error using nodejs 0.10.0', 'state': 'closed', 'created_at': '2013-03-21T14:28:17Z', 'closed_at': '2013-03-27T17:22:18Z', 'labels': []}
+{'issuenumber': 153, 'title': ' node-gyp: Permission denied', 'state': 'closed', 'created_at': '2013-03-20T21:20:19Z', 'closed_at': '2013-03-20T21:22:07Z', 'labels': []}
+{'issuenumber': 152, 'title': 'Windows issue with Node 0.10.0', 'state': 'closed', 'created_at': '2013-03-18T19:58:01Z', 'closed_at': '2013-03-18T20:00:43Z', 'labels': []}
+{'issuenumber': 151, 'title': 'node 0.10.0 compat via install over npm', 'state': 'closed', 'created_at': '2013-03-16T14:29:50Z', 'closed_at': '2013-03-16T15:14:18Z', 'labels': []}
+{'issuenumber': 150, 'title': 'System Windows_NT 6.1.7601 rebuild error', 'state': 'closed', 'created_at': '2013-03-14T01:09:17Z', 'closed_at': '2013-03-14T01:12:31Z', 'labels': []}
+{'issuenumber': 149, 'title': 'System Windows_NT 6.1.7601 rebuild error', 'state': 'closed', 'created_at': '2013-03-13T04:41:27Z', 'closed_at': '2013-03-13T04:42:28Z', 'labels': []}
+{'issuenumber': 148, 'title': 'Does not build', 'state': 'closed', 'created_at': '2013-03-12T17:32:39Z', 'closed_at': '2013-03-12T17:33:50Z', 'labels': []}
+{'issuenumber': 147, 'title': 'node-gyp error in bcrypt package', 'state': 'closed', 'created_at': '2013-03-12T16:31:33Z', 'closed_at': '2013-03-12T16:42:28Z', 'labels': []}
+{'issuenumber': 146, 'title': "Compare evaluates a pw of ':' and hash of 'envy1362987212538' to true.", 'state': 'closed', 'created_at': '2013-03-12T02:58:03Z', 'closed_at': '2013-03-12T02:58:08Z', 'labels': []}
+{'issuenumber': 145, 'title': 'Error installing node-gyp rebuild', 'state': 'closed', 'created_at': '2013-03-02T01:09:43Z', 'closed_at': '2013-03-02T01:10:50Z', 'labels': []}
+{'issuenumber': 144, 'title': '`sh "-c" "node-gyp rebuild"` failed with 1', 'state': 'closed', 'created_at': '2013-03-01T22:49:17Z', 'closed_at': '2013-03-02T00:46:23Z', 'labels': []}
+{'issuenumber': 143, 'title': 'Error: no error  (Windows 8)', 'state': 'closed', 'created_at': '2013-03-01T14:42:44Z', 'closed_at': '2013-04-20T18:35:06Z', 'labels': []}
+{'issuenumber': 142, 'title': 'Yet another compile issue', 'state': 'closed', 'created_at': '2013-02-25T06:24:12Z', 'closed_at': '2013-02-26T02:43:32Z', 'labels': []}
+{'issuenumber': 141, 'title': 'bcrypt_lib.node: failed to map segment from shared object: Operation not permitted', 'state': 'closed', 'created_at': '2013-02-11T02:02:28Z', 'closed_at': '2013-02-11T02:06:21Z', 'labels': []}
+{'issuenumber': 140, 'title': 'Passphrase length', 'state': 'closed', 'created_at': '2013-02-01T11:48:46Z', 'closed_at': '2013-02-11T03:34:26Z', 'labels': []}
+{'issuenumber': 139, 'title': 'nodejs', 'state': 'closed', 'created_at': '2013-02-01T10:32:55Z', 'closed_at': '2013-02-01T16:06:55Z', 'labels': []}
+{'issuenumber': 138, 'title': 'Adding salt to compare hash', 'state': 'closed', 'created_at': '2013-01-31T19:18:52Z', 'closed_at': '2013-01-31T19:23:57Z', 'labels': []}
+{'issuenumber': 137, 'title': "OSX 10.8.2 Can't Install BCRYPT", 'state': 'closed', 'created_at': '2013-01-21T00:38:33Z', 'closed_at': '2013-01-21T13:01:52Z', 'labels': []}
+{'issuenumber': 136, 'title': 'Bcrypt installation issue on Mac 10.7.5', 'state': 'closed', 'created_at': '2013-01-18T20:39:58Z', 'closed_at': '2013-01-18T20:41:28Z', 'labels': []}
+{'issuenumber': 135, 'title': 'Build fails on OSX Mountain Lion, Node-0.9.5, Python-2.7.2 ( with Xcode + Command Line tools installed)', 'state': 'closed', 'created_at': '2013-01-17T19:03:16Z', 'closed_at': '2013-01-17T19:17:17Z', 'labels': []}
+{'issuenumber': 134, 'title': "Can't build on Win8", 'state': 'closed', 'created_at': '2013-01-08T00:22:35Z', 'closed_at': '2013-01-26T15:48:47Z', 'labels': []}
+{'issuenumber': 133, 'title': 'Bcrypt install fails!', 'state': 'closed', 'created_at': '2013-01-06T16:05:15Z', 'closed_at': '2013-01-06T17:30:41Z', 'labels': []}
+{'issuenumber': 132, 'title': "Can't build on win8", 'state': 'closed', 'created_at': '2012-12-29T04:49:06Z', 'closed_at': '2012-12-29T04:50:17Z', 'labels': []}
+{'issuenumber': 131, 'title': 'Installation fails on Linux64', 'state': 'closed', 'created_at': '2012-12-15T23:41:16Z', 'closed_at': '2012-12-16T01:07:27Z', 'labels': []}
+{'issuenumber': 130, 'title': 'Installation on heroku slug occasionally fails', 'state': 'closed', 'created_at': '2012-12-13T18:39:22Z', 'closed_at': '2012-12-13T19:14:59Z', 'labels': []}
+{'issuenumber': 129, 'title': 'npm install bcrypt is not working (node.js 0.8.15 bcrypt 0.7.3).', 'state': 'closed', 'created_at': '2012-12-10T14:05:23Z', 'closed_at': '2012-12-11T09:36:57Z', 'labels': []}
+{'issuenumber': 128, 'title': 'Break in pattern for long password.', 'state': 'closed', 'created_at': '2012-11-29T19:20:43Z', 'closed_at': '2012-11-30T07:31:58Z', 'labels': []}
+{'issuenumber': 127, 'title': 'Build fails on Mac OSX Lion 10.7', 'state': 'closed', 'created_at': '2012-11-29T17:06:55Z', 'closed_at': '2012-11-30T07:32:36Z', 'labels': []}
+{'issuenumber': 126, 'title': 'bcrypt 0.7.3 fails to build on openSUSE 12.2', 'state': 'closed', 'created_at': '2012-11-25T14:32:25Z', 'closed_at': '2012-11-25T15:28:23Z', 'labels': []}
+{'issuenumber': 125, 'title': "Difference with 'reference' implementation", 'state': 'closed', 'created_at': '2012-11-23T20:57:03Z', 'closed_at': '2012-11-23T21:51:12Z', 'labels': []}
+{'issuenumber': 124, 'title': "Can't install on Joyent", 'state': 'closed', 'created_at': '2012-11-16T06:17:48Z', 'closed_at': '2012-11-19T15:29:18Z', 'labels': []}
+{'issuenumber': 123, 'title': 'publish version 0.7.3', 'state': 'closed', 'created_at': '2012-11-04T03:54:33Z', 'closed_at': '2012-11-04T04:13:00Z', 'labels': []}
+{'issuenumber': 122, 'title': 'bcrypt fails on win7 64', 'state': 'closed', 'created_at': '2012-10-18T23:16:51Z', 'closed_at': '2012-11-04T03:26:48Z', 'labels': []}
+{'issuenumber': 121, 'title': "Install fails when there's a space in .node-gyp path", 'state': 'closed', 'created_at': '2012-10-15T12:43:17Z', 'closed_at': '2012-11-04T03:27:09Z', 'labels': []}
+{'issuenumber': 120, 'title': 'Issues installing with NPM on Fedora (node-gyp)', 'state': 'closed', 'created_at': '2012-10-13T22:05:10Z', 'closed_at': '2012-10-13T22:06:28Z', 'labels': []}
+{'issuenumber': 119, 'title': "npm won't install bcrypt", 'state': 'closed', 'created_at': '2012-10-12T10:17:45Z', 'closed_at': '2012-10-12T12:43:12Z', 'labels': []}
+{'issuenumber': 118, 'title': '(sometimes) build erros on travis / ubuntu', 'state': 'closed', 'created_at': '2012-10-09T09:47:46Z', 'closed_at': '2012-10-09T13:35:26Z', 'labels': []}
+{'issuenumber': 117, 'title': 'Can not install on Ubuntu 12.04', 'state': 'closed', 'created_at': '2012-10-07T04:26:32Z', 'closed_at': '2012-10-07T14:37:47Z', 'labels': []}
+{'issuenumber': 115, 'title': 'Build failure on Ubuntu12', 'state': 'closed', 'created_at': '2012-09-29T19:44:11Z', 'closed_at': '2012-09-30T16:19:18Z', 'labels': []}
+{'issuenumber': 114, 'title': "bcrypt module installed but can't find", 'state': 'closed', 'created_at': '2012-09-29T11:00:57Z', 'closed_at': '2012-09-30T08:06:54Z', 'labels': []}
+{'issuenumber': 113, 'title': 'error LNK2001: unresolved external symbol ', 'state': 'closed', 'created_at': '2012-09-28T19:58:18Z', 'closed_at': '2012-09-28T20:19:35Z', 'labels': {'name': 'windows'}}
+{'issuenumber': 112, 'title': "fatal error LNK1181: cannot open input file 'kernel32.lib'", 'state': 'closed', 'created_at': '2012-09-25T19:39:06Z', 'closed_at': '2012-09-28T19:56:39Z', 'labels': []}
+{'issuenumber': 111, 'title': 'unable to install on win 7 32 environment', 'state': 'closed', 'created_at': '2012-09-24T17:20:15Z', 'closed_at': '2012-09-24T17:27:53Z', 'labels': []}
+{'issuenumber': 110, 'title': 'Issue trying to get components', 'state': 'closed', 'created_at': '2012-09-23T16:48:46Z', 'closed_at': '2012-09-23T18:31:39Z', 'labels': []}
+{'issuenumber': 109, 'title': 'node-gyp configure error while configuring bcrypt.js GIT bash on windows 7 32bit', 'state': 'closed', 'created_at': '2012-09-23T06:09:38Z', 'closed_at': '2012-09-23T14:15:57Z', 'labels': []}
+{'issuenumber': 107, 'title': 'should add this to docs', 'state': 'closed', 'created_at': '2012-09-22T21:43:46Z', 'closed_at': '2012-09-22T21:45:49Z', 'labels': []}
+{'issuenumber': 106, 'title': 'issue error to compile bcrypt??', 'state': 'closed', 'created_at': '2012-09-13T08:28:18Z', 'closed_at': '2012-09-13T09:03:57Z', 'labels': []}
+{'issuenumber': 105, 'title': 'issue error to compile bcrypt??', 'state': 'closed', 'created_at': '2012-09-13T08:27:57Z', 'closed_at': '2012-09-13T08:31:45Z', 'labels': []}
+{'issuenumber': 104, 'title': 'Install fails on OSX without xcode-select tool', 'state': 'closed', 'created_at': '2012-09-10T18:38:21Z', 'closed_at': '2012-10-21T03:42:02Z', 'labels': []}
+{'issuenumber': 103, 'title': 'bcrypt binaries for windows 32/64 should be included node_module to ease use/adoption', 'state': 'closed', 'created_at': '2012-09-10T15:36:07Z', 'closed_at': '2012-09-10T15:38:48Z', 'labels': []}
+{'issuenumber': 102, 'title': 'bcrypt struggles to install on W7 64bit', 'state': 'closed', 'created_at': '2012-09-03T23:25:27Z', 'closed_at': '2012-11-04T03:28:04Z', 'labels': {'name': 'windows'}}
+{'issuenumber': 101, 'title': 'This shit be broken, dog', 'state': 'closed', 'created_at': '2012-08-28T08:30:13Z', 'closed_at': '2012-09-03T03:12:17Z', 'labels': []}
+{'issuenumber': 100, 'title': 'Exception: Error 2 running xcode-select. Already have xcode command line tools installed', 'state': 'closed', 'created_at': '2012-08-22T10:33:53Z', 'closed_at': '2012-08-22T10:35:03Z', 'labels': []}
+{'issuenumber': 99, 'title': 'Fails to install on Fedora 17', 'state': 'closed', 'created_at': '2012-08-15T18:41:37Z', 'closed_at': '2012-08-18T01:54:51Z', 'labels': []}
+{'issuenumber': 98, 'title': 'npm install bcrypt fails on Windows 7 with node.js 64bit', 'state': 'closed', 'created_at': '2012-08-14T00:29:41Z', 'closed_at': '2012-08-14T00:31:00Z', 'labels': []}
+{'issuenumber': 97, 'title': 'bcrypt.compare does not return on node 0.8.6', 'state': 'closed', 'created_at': '2012-08-11T16:28:08Z', 'closed_at': '2012-08-11T19:06:25Z', 'labels': []}
+{'issuenumber': 95, 'title': 'update dependency listing in readme.md for Windows', 'state': 'closed', 'created_at': '2012-08-10T02:42:29Z', 'closed_at': '2012-08-11T10:46:12Z', 'labels': []}
+{'issuenumber': 94, 'title': 'NPM fails on msbuild.exe with exit code 1', 'state': 'closed', 'created_at': '2012-08-06T21:52:12Z', 'closed_at': '2012-10-08T01:30:33Z', 'labels': {'name': 'windows'}}
+{'issuenumber': 93, 'title': 'CXX issue on Mac OS X Mountain Lion', 'state': 'closed', 'created_at': '2012-07-27T22:44:53Z', 'closed_at': '2012-07-27T23:01:40Z', 'labels': []}
+{'issuenumber': 90, 'title': '`npm install bcrypt` fails in install: `node-gyp rebuild`', 'state': 'closed', 'created_at': '2012-07-07T19:01:32Z', 'closed_at': '2012-07-19T11:05:24Z', 'labels': []}
+{'issuenumber': 88, 'title': "Error: Cannot find module './build/Release/bcrypt_lib' ", 'state': 'closed', 'created_at': '2012-06-30T20:07:45Z', 'closed_at': '2012-07-04T17:32:36Z', 'labels': []}
+{'issuenumber': 87, 'title': 'Colon in path name - Solaris issue', 'state': 'closed', 'created_at': '2012-06-29T18:15:42Z', 'closed_at': '2012-07-01T16:40:19Z', 'labels': []}
+{'issuenumber': 86, 'title': '0.8 bug', 'state': 'closed', 'created_at': '2012-06-27T18:23:59Z', 'closed_at': '2012-06-27T21:23:58Z', 'labels': []}
+{'issuenumber': 85, 'title': 'WAF to GYP', 'state': 'closed', 'created_at': '2012-06-26T15:29:25Z', 'closed_at': '2012-06-26T15:40:58Z', 'labels': []}
+{'issuenumber': 84, 'title': "Node 0.8.0, OSX, bcrypt installs but won't load, wrong architecture", 'state': 'closed', 'created_at': '2012-06-26T00:34:18Z', 'closed_at': '2012-06-26T18:49:40Z', 'labels': []}
+{'issuenumber': 83, 'title': "npm package won't build", 'state': 'closed', 'created_at': '2012-06-20T00:08:21Z', 'closed_at': '2012-07-04T17:33:48Z', 'labels': []}
+{'issuenumber': 82, 'title': 'Consider auto-generating salt if none given?', 'state': 'closed', 'created_at': '2012-06-15T20:41:12Z', 'closed_at': '2012-06-27T15:30:05Z', 'labels': []}
+{'issuenumber': 81, 'title': 'build fails npm install osx', 'state': 'closed', 'created_at': '2012-05-13T20:05:07Z', 'closed_at': '2012-06-16T19:23:49Z', 'labels': []}
+{'issuenumber': 80, 'title': 'build fails when using npm install', 'state': 'closed', 'created_at': '2012-05-13T10:01:59Z', 'closed_at': '2012-05-13T10:31:23Z', 'labels': []}
+{'issuenumber': 79, 'title': 'install fails on debian 6 64bit', 'state': 'closed', 'created_at': '2012-05-04T23:02:33Z', 'closed_at': '2012-05-13T03:42:02Z', 'labels': []}
+{'issuenumber': 78, 'title': 'bcrypt.js failed to download and build on Centos 6.2 via npm', 'state': 'closed', 'created_at': '2012-04-30T06:20:18Z', 'closed_at': '2012-05-10T23:18:46Z', 'labels': []}
+{'issuenumber': 77, 'title': 'node-gyp build not working on Windows', 'state': 'closed', 'created_at': '2012-04-24T11:11:20Z', 'closed_at': '2012-08-03T19:25:31Z', 'labels': []}
+{'issuenumber': 76, 'title': 'Install fails on Centos 5.3', 'state': 'closed', 'created_at': '2012-04-18T12:55:51Z', 'closed_at': '2012-04-18T14:08:16Z', 'labels': []}
+{'issuenumber': 75, 'title': 'Problem using compare when hashed password comes from database', 'state': 'closed', 'created_at': '2012-04-12T00:13:56Z', 'closed_at': '2012-04-12T01:32:19Z', 'labels': []}
+{'issuenumber': 74, 'title': 'README wrong function names', 'state': 'closed', 'created_at': '2012-04-11T23:33:14Z', 'closed_at': '2012-04-12T00:07:52Z', 'labels': []}
+{'issuenumber': 73, 'title': '[Windows 7(64bit) & Node 6.14] Error in building `bcrypt` gem', 'state': 'closed', 'created_at': '2012-04-03T01:20:26Z', 'closed_at': '2012-04-03T01:28:05Z', 'labels': []}
+{'issuenumber': 72, 'title': 'Install failing on OS X', 'state': 'closed', 'created_at': '2012-04-01T12:38:09Z', 'closed_at': '2012-05-10T23:19:57Z', 'labels': []}
+{'issuenumber': 71, 'title': 'Windows without cygwin', 'state': 'closed', 'created_at': '2012-03-29T03:53:16Z', 'closed_at': '2012-08-03T19:25:02Z', 'labels': []}
+{'issuenumber': 70, 'title': 'Fairly slow performance, nature of bcrypt or fixable?', 'state': 'closed', 'created_at': '2012-03-17T15:45:16Z', 'closed_at': '2012-03-17T16:05:46Z', 'labels': []}
+{'issuenumber': 68, 'title': 'Install Failed on AWS AMI', 'state': 'closed', 'created_at': '2012-03-07T20:13:51Z', 'closed_at': '2012-03-07T22:21:20Z', 'labels': []}
+{'issuenumber': 65, 'title': 'lar', 'state': 'closed', 'created_at': '2012-02-23T18:56:32Z', 'closed_at': '2012-02-23T20:13:13Z', 'labels': []}
+{'issuenumber': 64, 'title': 'Node 0.6.11', 'state': 'closed', 'created_at': '2012-02-21T15:28:56Z', 'closed_at': '2012-02-23T11:10:31Z', 'labels': []}
+{'issuenumber': 63, 'title': 'installing on OSX', 'state': 'closed', 'created_at': '2012-02-20T22:14:33Z', 'closed_at': '2012-04-01T14:34:12Z', 'labels': []}
+{'issuenumber': 62, 'title': 'bcrypt installation', 'state': 'closed', 'created_at': '2012-02-20T16:24:20Z', 'closed_at': '2012-02-20T16:38:47Z', 'labels': []}
+{'issuenumber': 61, 'title': 'Version 0.5.0: npm install fails on MacOS', 'state': 'closed', 'created_at': '2012-02-19T17:19:22Z', 'closed_at': '2012-03-02T23:01:51Z', 'labels': []}
+{'issuenumber': 60, 'title': 'undefined symbol: _ZN2v811HandleScopeC1Ev', 'state': 'closed', 'created_at': '2012-02-17T19:42:28Z', 'closed_at': '2012-02-21T13:10:04Z', 'labels': []}
+{'issuenumber': 59, 'title': 'Build Issues on CentOS 6.2', 'state': 'closed', 'created_at': '2012-01-29T08:24:55Z', 'closed_at': '2012-01-29T08:33:03Z', 'labels': []}
+{'issuenumber': 58, 'title': 'Introductions are broken', 'state': 'closed', 'created_at': '2012-01-17T17:05:09Z', 'closed_at': '2012-01-17T18:17:29Z', 'labels': []}
+{'issuenumber': 56, 'title': 'npm install fails on make build command (too few arguments to function)', 'state': 'closed', 'created_at': '2012-01-08T04:23:04Z', 'closed_at': '2012-01-09T05:07:42Z', 'labels': []}
+{'issuenumber': 55, 'title': 'Symbol not found: _ev_default_loop_ptr', 'state': 'closed', 'created_at': '2011-12-30T19:37:21Z', 'closed_at': '2012-01-08T18:34:21Z', 'labels': []}
+{'issuenumber': 53, 'title': 'compare_sync with an empty string throws an error', 'state': 'closed', 'created_at': '2011-12-20T09:44:06Z', 'closed_at': '2012-01-08T18:33:53Z', 'labels': []}
+{'issuenumber': 52, 'title': 'Segfault with node v0.6.6', 'state': 'closed', 'created_at': '2011-12-19T08:35:57Z', 'closed_at': '2011-12-19T08:37:02Z', 'labels': []}
+{'issuenumber': 51, 'title': 'Encrypt API is misleading', 'state': 'closed', 'created_at': '2011-12-13T15:43:03Z', 'closed_at': '2012-01-08T18:05:17Z', 'labels': {'name': 'cleanup'}}
+{'issuenumber': 50, 'title': 'Can bcrypt.js be used in windows?', 'state': 'closed', 'created_at': '2011-12-11T08:43:36Z', 'closed_at': '2011-12-12T04:03:57Z', 'labels': []}
+{'issuenumber': 49, 'title': 'Install fails under OSX Lion', 'state': 'closed', 'created_at': '2011-12-06T16:41:30Z', 'closed_at': '2011-12-08T11:10:05Z', 'labels': []}
+{'issuenumber': 47, 'title': "Valgrind isn't clean.", 'state': 'closed', 'created_at': '2011-11-25T21:45:21Z', 'closed_at': '2012-11-04T03:52:43Z', 'labels': {'name': 'cleanup'}}
+{'issuenumber': 46, 'title': 'Segfault in async encrypt', 'state': 'closed', 'created_at': '2011-11-24T04:38:37Z', 'closed_at': '2011-11-24T05:26:26Z', 'labels': []}
+{'issuenumber': 45, 'title': 'undefined symbol: ev_default_loop_ptr', 'state': 'closed', 'created_at': '2011-11-20T03:20:23Z', 'closed_at': '2011-11-20T14:18:31Z', 'labels': []}
+{'issuenumber': 43, 'title': "npm WARN bcrypt@0.4.0 package.json: bugs['web'] should probably be bugs['url']", 'state': 'closed', 'created_at': '2011-11-09T08:40:10Z', 'closed_at': '2011-11-09T20:25:37Z', 'labels': []}
+{'issuenumber': 42, 'title': 'CHANGELOG out of date', 'state': 'closed', 'created_at': '2011-11-06T23:38:17Z', 'closed_at': '2011-11-07T13:38:22Z', 'labels': []}
+{'issuenumber': 41, 'title': 'SegFault with bcrypt.compare in node 5.10', 'state': 'closed', 'created_at': '2011-10-27T18:31:16Z', 'closed_at': '2011-11-01T18:02:44Z', 'labels': []}
+{'issuenumber': 40, 'title': 'NPM install script issues?', 'state': 'closed', 'created_at': '2011-10-08T17:50:43Z', 'closed_at': '2012-04-01T14:34:55Z', 'labels': []}
+{'issuenumber': 38, 'title': 'need an API call to determine current work factor, so one can update it', 'state': 'closed', 'created_at': '2011-09-28T17:11:10Z', 'closed_at': '2011-10-04T21:59:51Z', 'labels': []}
+{'issuenumber': 36, 'title': 'README.md example incorrect', 'state': 'closed', 'created_at': '2011-09-26T05:37:24Z', 'closed_at': '2011-09-26T05:40:09Z', 'labels': []}
+{'issuenumber': 35, 'title': 'Error: No callback supplied', 'state': 'closed', 'created_at': '2011-09-19T21:53:38Z', 'closed_at': '2011-09-26T23:53:25Z', 'labels': []}
+{'issuenumber': 34, 'title': 'Error installing bcrypt in Linux Mint', 'state': 'closed', 'created_at': '2011-09-03T16:58:21Z', 'closed_at': '2011-09-04T11:21:23Z', 'labels': []}
+{'issuenumber': 33, 'title': 'bcrypt v0.3.0 fails to build for me (0.2.4 is fine, however)', 'state': 'closed', 'created_at': '2011-09-02T16:42:58Z', 'closed_at': '2011-09-02T22:29:30Z', 'labels': []}
+{'issuenumber': 32, 'title': 'Segfault related to OpenSSL', 'state': 'closed', 'created_at': '2011-09-02T03:52:08Z', 'closed_at': '2011-11-18T13:43:17Z', 'labels': []}
+{'issuenumber': 29, 'title': 'Random invalid salt', 'state': 'closed', 'created_at': '2011-08-23T11:01:33Z', 'closed_at': '2011-09-02T03:37:13Z', 'labels': []}
+{'issuenumber': 27, 'title': 'Add support for node.js 0.5.x (undefined symbol: ev_rt_now)', 'state': 'closed', 'created_at': '2011-08-02T05:01:51Z', 'closed_at': '2011-08-10T23:22:01Z', 'labels': []}
+{'issuenumber': 26, 'title': 'concurrency issue with async compare', 'state': 'closed', 'created_at': '2011-08-01T22:58:26Z', 'closed_at': '2011-08-03T18:19:48Z', 'labels': []}
+{'issuenumber': 25, 'title': 'Install problem on OSX Lion - Could not configure a cxx compiler', 'state': 'closed', 'created_at': '2011-07-25T11:38:36Z', 'closed_at': '2011-07-25T19:14:34Z', 'labels': []}
+{'issuenumber': 24, 'title': 'Issues installing on OS X 10.7', 'state': 'closed', 'created_at': '2011-07-21T23:11:11Z', 'closed_at': '2011-07-22T07:40:04Z', 'labels': []}
+{'issuenumber': 23, 'title': 'Deployment Issue (invalid ELF header)', 'state': 'closed', 'created_at': '2011-07-21T13:12:38Z', 'closed_at': '2011-07-22T03:02:59Z', 'labels': []}
+{'issuenumber': 21, 'title': 'support cygwin', 'state': 'closed', 'created_at': '2011-06-27T16:45:05Z', 'closed_at': '2011-06-28T12:26:30Z', 'labels': []}
+{'issuenumber': 20, 'title': 'Async issue?', 'state': 'closed', 'created_at': '2011-06-24T11:18:12Z', 'closed_at': '2011-07-22T12:22:21Z', 'labels': []}
+{'issuenumber': 19, 'title': 'Different issue installing', 'state': 'closed', 'created_at': '2011-06-09T13:59:22Z', 'closed_at': '2011-06-09T16:18:41Z', 'labels': []}
+{'issuenumber': 18, 'title': 'Issue installing bcrypt', 'state': 'closed', 'created_at': '2011-06-03T03:57:54Z', 'closed_at': '2011-06-28T12:24:00Z', 'labels': []}
+{'issuenumber': 17, 'title': 'Issue installing bcrypt', 'state': 'closed', 'created_at': '2011-06-01T06:43:43Z', 'closed_at': '2011-06-02T13:31:21Z', 'labels': []}
+{'issuenumber': 16, 'title': 'dyld: lazy symbol binding failed: Symbol not found', 'state': 'closed', 'created_at': '2011-04-29T10:36:20Z', 'closed_at': '2011-04-29T10:54:52Z', 'labels': []}
+{'issuenumber': 15, 'title': 'issue with node 0.4.7', 'state': 'closed', 'created_at': '2011-04-23T21:41:26Z', 'closed_at': '2011-04-24T19:35:33Z', 'labels': []}
+{'issuenumber': 14, 'title': 'compile error v0.2.1 on Mac OS X', 'state': 'closed', 'created_at': '2011-04-13T01:57:02Z', 'closed_at': '2011-04-13T02:04:26Z', 'labels': []}
+{'issuenumber': 13, 'title': 'Comparator possibly vulnerable to timing attacks.', 'state': 'closed', 'created_at': '2011-04-12T04:41:33Z', 'closed_at': '2011-04-12T05:11:26Z', 'labels': []}
+{'issuenumber': 12, 'title': 'Make functions async.', 'state': 'closed', 'created_at': '2011-03-26T02:23:57Z', 'closed_at': '2011-03-28T05:55:39Z', 'labels': []}
+{'issuenumber': 11, 'title': 'Change to openssl randoming.', 'state': 'closed', 'created_at': '2011-03-26T02:22:50Z', 'closed_at': '2011-03-26T20:48:03Z', 'labels': []}
+{'issuenumber': 10, 'title': 'Characters that appear in hashed passwords', 'state': 'closed', 'created_at': '2011-02-28T17:59:14Z', 'closed_at': '2011-02-28T18:19:30Z', 'labels': []}
+{'issuenumber': 8, 'title': 'npm error: package.json', 'state': 'closed', 'created_at': '2011-02-20T07:12:05Z', 'closed_at': '2011-02-22T03:10:30Z', 'labels': []}
+{'issuenumber': 7, 'title': 'Version 1.2.0 takes significantly longer to generate a hash', 'state': 'closed', 'created_at': '2011-02-06T20:09:39Z', 'closed_at': '2011-02-07T04:15:28Z', 'labels': []}
+{'issuenumber': 5, 'title': 'npm not ok', 'state': 'closed', 'created_at': '2011-02-03T12:12:34Z', 'closed_at': '2011-02-04T14:45:39Z', 'labels': []}
+{'issuenumber': 4, 'title': 'bcrypt.gen_salt(rounds): Rounds ignored?', 'state': 'closed', 'created_at': '2011-02-02T08:13:10Z', 'closed_at': '2011-02-03T00:29:21Z', 'labels': []}
+{'issuenumber': 3, 'title': 'bsd/random.h error while installing via NPM on Webfaction hosting', 'state': 'closed', 'created_at': '2011-01-30T20:00:21Z', 'closed_at': '2011-03-28T05:56:20Z', 'labels': []}
+{'issuenumber': 2, 'title': 'Error installing via npm', 'state': 'closed', 'created_at': '2010-12-05T04:05:16Z', 'closed_at': '2011-01-30T20:52:32Z', 'labels': []}
