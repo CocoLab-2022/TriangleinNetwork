@@ -8,7 +8,7 @@ from network_extraction_from_issue_comment import newoutputfile, get_ower_repo_l
 
 from get_issue_lastnumber import get_issue_lastnumber
 
-Auth_token = os.getenv('GITHUB_TOKEN', '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')
+Auth_token = os.getenv('GITHUB_TOKEN', '')
 IR = Github(Auth_token)
 
 

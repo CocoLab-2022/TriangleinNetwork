@@ -12,10 +12,8 @@ from github import Github
 
 from python.network_extraction_from_issue_comment import get_ower_repo_list, newoutputfile
 
-# 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
-# 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
-# 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
-Auth_token = os.getenv('GITHUB_TOKEN', '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')
+
+Auth_token = os.getenv('GITHUB_TOKEN', '')
 IR = Github(Auth_token)
 
 GITHUB_TIME_FORMAT = "%Y-%m-%dT%H:%M:%SZ"
