@@ -9,30 +9,32 @@ from network_extraction_from_issue_comment import get_ower_repo_list, newoutputf
 
 GITHUB_TIME_FORMAT = "%Y-%m-%dT%H:%M:%SZ"
 
-# get a repo's min create time and max closed time to get open time of a repo
-def get_min_and_max_month(repo):
-    issue_quality = []
-    path = "../data/issue_to_quality/" + repo + "_issue"
+def get_min_month(repo, file, filename, dataindex):
+    lists = []
+    path = "../data/"+ file + "/" + repo + filename
     with open(path, 'r+', encoding='utf-8') as f:
         for line in f:
-            issue_quality_list = ast.literal_eval(line)
-            issue_quality.append(issue_quality_list)
-    min = dt.strptime(issue_quality[0]["created_at"], GITHUB_TIME_FORMAT)
-    max = dt.strptime(issue_quality[0]["closed_at"], GITHUB_TIME_FORMAT)
-    for i in range(0, len(issue_quality)):
-        if issue_quality[i]["closed_at"]:
-            created_at = dt.strptime(issue_quality[i]["created_at"], GITHUB_TIME_FORMAT)
-            closed_at = dt.strptime(issue_quality[i]["closed_at"], GITHUB_TIME_FORMAT)
-            if max < closed_at:
-                max = closed_at
+            list = ast.literal_eval(line)
+            lists.append(list)
+    if dataindex == "issue":
+        min = dt.strptime(lists[0]["created_at"], GITHUB_TIME_FORMAT)
+        for i in range(0, len(lists)):
+            created_at = dt.strptime(lists[i]["created_at"], GITHUB_TIME_FORMAT)
             if min > created_at:
                 min = created_at
-    # temp = dt.strptime(temp, "%Y%m%dT%H:%M:%SZ")
-    min_and_max = [min, max]
-    # print(min)
-    # print(max)
-    # print(max-min)
-    return min_and_max
+    elif dataindex == "comment":
+        min = dt.strptime(lists[0][4], GITHUB_TIME_FORMAT)
+        for i in range(0, len(lists)):
+            created_at = dt.strptime(lists[i][4], GITHUB_TIME_FORMAT)
+            if min > created_at:
+                min = created_at
+    elif dataindex == "commit":
+        min = dt.strptime(lists[0]['commit']['committer']['date'], GITHUB_TIME_FORMAT)
+        for i in range(0, len(lists)):
+            created_at = dt.strptime(lists[i]['commit']['committer']['date'], GITHUB_TIME_FORMAT)
+            if min > created_at:
+                min = created_at
+    return min
 
 # %Y-%m-%dT%H:%M:%SZ -> YM
 # 2015-10-01 11:51:24 -> 201510
@@ -60,33 +62,42 @@ def get_month(end_time, start_date):
     print(interval)
     return interval
 
+def add_one_month(start_time):
+    v_month = dt.strptime(start_time, '%Y^m').month
+
 # get month's count of a repo's building time
 # we can gain every repo's monthes[month_count]
-def get_repos_monthes(repo):
-    min_and_max = get_min_and_max_month(repo)
-    min_time = change_date_to_YYMM(min_and_max[0])
-    max_time = change_date_to_YYMM(min_and_max[1])
-    month_count = get_month(max_time, min_time)
-    monthes = [''] * month_count
-    for i in range(month_count):
-        index = min_and_max[0] + relativedelta(months=+i+1)
+def get_repo_monthes(repo):
+    issue_quality = []
+    monthes =[]
+    min_time = get_min_month(repo, "_issuedata_36monthes", "_issues_36monthes", "issue")
+    print(min_time)
+    for i in range(0,36):
+        index = min_time + relativedelta(months=+i)
         temp = change_date_to_YYMM(index)
-        # print(temp)
-        monthes[i] = temp
+        monthes.append(temp)
+    print(monthes)
+    print(len(monthes))
+
+    # path = "../data/" + "_issuedata_36monthes" + "/" + repo + "_issues_36monthes"
+    # with open(path, 'r+', encoding='utf-8') as f:
+    #     for line in f:
+    #         issue_quality_list = ast.literal_eval(line)
+    #         issue_quality.append(issue_quality_list)
+    #         monthes.append(change_date_to_YYMM(issue_quality_list["created_at"]))
+    # monthes = set(monthes)
+    # monthes = sorted(monthes)
+    # print(repo, monthes)
+    # print(len(monthes))
     outputfilename = "repo_monthes"
-    outputfile = newoutputfile(outputfilename, "qualitydata")
+    outputfile = newoutputfile(outputfilename, "_qualitydata")
     with open(outputfile, 'a+', encoding='utf-8') as f:
         f.write("%s\n" % monthes)
-    print(monthes)
 
-# get_repos_monthes(get_min_and_max_month("chi"))
-# get_min_and_max_month("chi")
-
-change_date_to_YYMM(get_min_and_max_month("chi")[0])
 if __name__ == "__main__":
     repos = get_ower_repo_list("repos")
     # print(owers)
     # print(repos)
-    print(repos[0])
-    for i in range(0, 200):
-        get_repos_monthes(repos[i])
+    # print(repos[0])
+    for i in range(0, 197):
+        get_repo_monthes(repos[i])
