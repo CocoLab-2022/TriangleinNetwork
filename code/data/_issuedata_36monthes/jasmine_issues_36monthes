@@ -1,0 +1,248 @@
+{'issuenumber': 457, 'title': 'Documentation of available matchers is missing', 'state': 'closed', 'created_at': '2013-10-30T07:42:22Z', 'closed_at': '2013-10-30T14:03:31Z', 'labels': []}
+{'issuenumber': 456, 'title': 'Support matchers in waitsFor()', 'state': 'closed', 'created_at': '2013-10-28T20:08:10Z', 'closed_at': '2013-10-28T21:46:34Z', 'labels': []}
+{'issuenumber': 454, 'title': '1.3.1 is missing from standalone downloads', 'state': 'closed', 'created_at': '2013-10-22T15:19:14Z', 'closed_at': '2013-10-22T16:17:59Z', 'labels': []}
+{'issuenumber': 453, 'title': '1.3.1 is missing from standalone downloads', 'state': 'closed', 'created_at': '2013-10-22T15:16:48Z', 'closed_at': '2013-10-22T16:33:44Z', 'labels': []}
+{'issuenumber': 452, 'title': "Repoters don't mention ignored tests", 'state': 'closed', 'created_at': '2013-10-22T07:37:37Z', 'closed_at': '2013-10-22T16:45:20Z', 'labels': []}
+{'issuenumber': 451, 'title': 'Change the order of nested tests displayed by the trivial reporter', 'state': 'closed', 'created_at': '2013-10-18T08:54:03Z', 'closed_at': '2014-04-17T23:49:58Z', 'labels': []}
+{'issuenumber': 449, 'title': 'Broken link on the wiki page for "A simple project"', 'state': 'closed', 'created_at': '2013-10-17T04:47:25Z', 'closed_at': '2013-10-17T05:07:14Z', 'labels': []}
+{'issuenumber': 448, 'title': 'Save context of spy calls', 'state': 'closed', 'created_at': '2013-10-16T10:51:09Z', 'closed_at': '2013-10-16T14:36:52Z', 'labels': []}
+{'issuenumber': 447, 'title': 'Feature Request: Add (official) mechanism for intercepting matcher results', 'state': 'closed', 'created_at': '2013-10-15T17:55:25Z', 'closed_at': '2014-08-26T20:16:25Z', 'labels': []}
+{'issuenumber': 446, 'title': 'andReturnPromise() ?', 'state': 'closed', 'created_at': '2013-10-11T17:32:06Z', 'closed_at': '2013-11-10T06:22:17Z', 'labels': []}
+{'issuenumber': 445, 'title': 'toBeDefined always passes?', 'state': 'closed', 'created_at': '2013-10-09T17:12:51Z', 'closed_at': '2013-10-09T17:29:01Z', 'labels': []}
+{'issuenumber': 444, 'title': 'Spies save call arguments by reference ', 'state': 'closed', 'created_at': '2013-10-09T15:19:07Z', 'closed_at': '2016-09-27T19:28:33Z', 'labels': []}
+{'issuenumber': 442, 'title': '1.3.1 standalone no longer available', 'state': 'closed', 'created_at': '2013-10-07T13:19:11Z', 'closed_at': '2013-10-07T14:25:21Z', 'labels': []}
+{'issuenumber': 441, 'title': 'Expose object equality comparator', 'state': 'closed', 'created_at': '2013-10-07T08:49:35Z', 'closed_at': '2013-12-07T23:53:53Z', 'labels': []}
+{'issuenumber': 436, 'title': 'Jasmine causes exception in Firefox and Chrome', 'state': 'closed', 'created_at': '2013-09-30T18:39:36Z', 'closed_at': '2013-09-30T22:09:15Z', 'labels': []}
+{'issuenumber': 435, 'title': 'jasmine forcing to use .live instead of .on', 'state': 'closed', 'created_at': '2013-09-27T09:48:24Z', 'closed_at': '2013-10-02T19:27:43Z', 'labels': []}
+{'issuenumber': 433, 'title': 'Test runner crashes when testing toHaveBeenCalledWith with complex parameters', 'state': 'closed', 'created_at': '2013-09-26T20:25:08Z', 'closed_at': '2013-09-26T22:51:46Z', 'labels': []}
+{'issuenumber': 431, 'title': 'What about version 2.0?', 'state': 'closed', 'created_at': '2013-09-13T18:02:30Z', 'closed_at': '2013-09-13T18:16:04Z', 'labels': []}
+{'issuenumber': 430, 'title': 'How to use ConsoleReporter with 1.3.1 Jasmine version from a zip download?', 'state': 'closed', 'created_at': '2013-09-13T07:42:13Z', 'closed_at': '2013-09-13T21:14:00Z', 'labels': []}
+{'issuenumber': 429, 'title': "jasmine-core gem doesn't install with RubyGems 2.1.x", 'state': 'closed', 'created_at': '2013-09-12T18:39:45Z', 'closed_at': '2013-09-15T17:48:34Z', 'labels': []}
+{'issuenumber': 427, 'title': 'Remove the trailing dot at the end of the failing spec', 'state': 'closed', 'created_at': '2013-09-08T19:31:47Z', 'closed_at': '2013-10-01T23:31:15Z', 'labels': []}
+{'issuenumber': 425, 'title': "Add 'jasmine.objectContaining' to the documentation", 'state': 'closed', 'created_at': '2013-09-05T14:20:48Z', 'closed_at': '2013-10-03T22:35:31Z', 'labels': []}
+{'issuenumber': 424, 'title': 'Comparing complex Object to toEqual(jasmine.any(Array)) cause Browser to hang', 'state': 'closed', 'created_at': '2013-08-30T20:30:17Z', 'closed_at': '2016-09-29T00:35:56Z', 'labels': {'name': '1.3.x'}}
+{'issuenumber': 423, 'title': 'Async test "done" callbacks should take an optional error in Jasmine 2.0', 'state': 'closed', 'created_at': '2013-08-28T18:15:43Z', 'closed_at': '2013-08-29T05:22:44Z', 'labels': []}
+{'issuenumber': 422, 'title': "Async tests shouldn't have a hardcoded 10-second timeout in Jasmine 2.0", 'state': 'closed', 'created_at': '2013-08-28T16:45:49Z', 'closed_at': '2013-08-28T17:36:14Z', 'labels': []}
+{'issuenumber': 421, 'title': 'innerHTML error on The Runner and Reporter section', 'state': 'closed', 'created_at': '2013-08-28T14:31:15Z', 'closed_at': '2014-01-18T06:03:33Z', 'labels': []}
+{'issuenumber': 419, 'title': 'Async test specs can have an undefined "this" context in Jasmine 2.0', 'state': 'closed', 'created_at': '2013-08-28T05:25:02Z', 'closed_at': '2013-08-29T05:13:13Z', 'labels': []}
+{'issuenumber': 418, 'title': 'RangeError: Maximum call stack size exceeded', 'state': 'closed', 'created_at': '2013-08-27T19:11:57Z', 'closed_at': '2013-08-27T20:07:42Z', 'labels': []}
+{'issuenumber': 417, 'title': 'Jasmine 2.0.0 RC2 (head) on IE8', 'state': 'closed', 'created_at': '2013-08-21T14:39:36Z', 'closed_at': '2013-08-22T18:35:21Z', 'labels': []}
+{'issuenumber': 416, 'title': 'expect({}).toBe({}) Fails.', 'state': 'closed', 'created_at': '2013-08-20T23:22:11Z', 'closed_at': '2013-08-21T02:26:47Z', 'labels': []}
+{'issuenumber': 415, 'title': 'Improve readability of printed javascript objects by formatting output', 'state': 'closed', 'created_at': '2013-08-16T18:33:07Z', 'closed_at': '2014-06-23T04:17:05Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 414, 'title': 'Bail on first failure', 'state': 'closed', 'created_at': '2013-08-15T23:24:14Z', 'closed_at': '2018-02-07T18:04:32Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 412, 'title': 'Dynamically created tests based on Async result ..', 'state': 'closed', 'created_at': '2013-08-06T10:41:52Z', 'closed_at': '2013-08-06T19:07:48Z', 'labels': []}
+{'issuenumber': 411, 'title': 'Dynamically created tests based on Async result ..', 'state': 'closed', 'created_at': '2013-08-05T14:06:53Z', 'closed_at': '2013-08-05T16:13:55Z', 'labels': []}
+{'issuenumber': 409, 'title': 'toThrow fails in FF 23 (modifying native Exception)', 'state': 'closed', 'created_at': '2013-07-30T09:52:43Z', 'closed_at': '2013-08-03T19:01:40Z', 'labels': []}
+{'issuenumber': 406, 'title': 'toContain should work with DOMTokenList', 'state': 'closed', 'created_at': '2013-07-24T22:44:28Z', 'closed_at': '2013-10-02T21:08:42Z', 'labels': []}
+{'issuenumber': 405, 'title': 'RM crash when running jasmine rake task when binding_of_caller is installed', 'state': 'closed', 'created_at': '2013-07-22T21:54:29Z', 'closed_at': '2013-10-02T19:19:53Z', 'labels': []}
+{'issuenumber': 403, 'title': 'Update documentation to remove reference to runs, waitsFor / add documentation for using done()', 'state': 'closed', 'created_at': '2013-07-17T18:16:19Z', 'closed_at': '2013-10-03T22:38:06Z', 'labels': []}
+{'issuenumber': 402, 'title': 'Spies should save the return value of method calls when using andCallThrough()', 'state': 'closed', 'created_at': '2013-07-10T18:50:25Z', 'closed_at': '2013-07-21T14:33:24Z', 'labels': []}
+{'issuenumber': 399, 'title': "Recent changes cause Jasmine to hang when using the 'raise exception' button", 'state': 'closed', 'created_at': '2013-07-05T04:32:05Z', 'closed_at': '2013-07-11T04:00:26Z', 'labels': []}
+{'issuenumber': 396, 'title': 'Explain the current development process', 'state': 'closed', 'created_at': '2013-07-01T06:32:42Z', 'closed_at': '2013-07-21T15:27:34Z', 'labels': []}
+{'issuenumber': 395, 'title': "Show 'pending' examples", 'state': 'closed', 'created_at': '2013-06-26T08:24:53Z', 'closed_at': '2013-07-05T18:11:41Z', 'labels': []}
+{'issuenumber': 389, 'title': 'test', 'state': 'closed', 'created_at': '2013-06-20T10:37:35Z', 'closed_at': '2013-07-21T14:27:00Z', 'labels': []}
+{'issuenumber': 387, 'title': ".andReturn(...) strips properties starting with '$' from the object to be returned", 'state': 'closed', 'created_at': '2013-06-14T20:05:44Z', 'closed_at': '2013-06-14T20:23:55Z', 'labels': []}
+{'issuenumber': 386, 'title': 'new "words" to test events', 'state': 'closed', 'created_at': '2013-06-12T19:37:22Z', 'closed_at': '2013-10-03T22:49:07Z', 'labels': []}
+{'issuenumber': 385, 'title': 'andReturn() value not clearing after .reset()', 'state': 'closed', 'created_at': '2013-06-11T22:54:12Z', 'closed_at': '2013-06-11T23:12:01Z', 'labels': []}
+{'issuenumber': 382, 'title': 'JS some native objects equality acting strangely', 'state': 'closed', 'created_at': '2013-06-07T14:27:06Z', 'closed_at': '2013-06-07T16:02:31Z', 'labels': []}
+{'issuenumber': 380, 'title': 'Wrong message string at ObjectContaining matcher', 'state': 'closed', 'created_at': '2013-06-07T09:03:45Z', 'closed_at': '2013-07-28T06:39:23Z', 'labels': []}
+{'issuenumber': 376, 'title': 'Spy calls - keep the timetoo', 'state': 'closed', 'created_at': '2013-06-02T15:23:14Z', 'closed_at': '2013-10-02T21:28:20Z', 'labels': []}
+{'issuenumber': 375, 'title': 'toEqual is failing tests that should pass', 'state': 'closed', 'created_at': '2013-05-31T18:25:54Z', 'closed_at': '2013-05-31T18:34:01Z', 'labels': []}
+{'issuenumber': 373, 'title': 'Jasmine runs into infinite loop trying to stringify complex objects', 'state': 'closed', 'created_at': '2013-05-31T15:53:23Z', 'closed_at': '2013-05-31T22:13:02Z', 'labels': []}
+{'issuenumber': 372, 'title': 'Spy.andThrow should throw default error', 'state': 'closed', 'created_at': '2013-05-27T11:50:52Z', 'closed_at': '2013-05-27T15:26:15Z', 'labels': []}
+{'issuenumber': 371, 'title': 'toThrow does not catch falsy exceptions', 'state': 'closed', 'created_at': '2013-05-27T11:46:30Z', 'closed_at': '2013-05-27T17:34:11Z', 'labels': {'name': 'has Tracker story'}}
+{'issuenumber': 368, 'title': '[Feature Request] UI to select which specs to run', 'state': 'closed', 'created_at': '2013-05-22T02:40:52Z', 'closed_at': '2013-05-23T03:39:43Z', 'labels': []}
+{'issuenumber': 367, 'title': 'expect( [] ).toEqual( {} ) passes: it should fail', 'state': 'closed', 'created_at': '2013-05-16T01:03:26Z', 'closed_at': '2013-05-27T19:04:59Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 366, 'title': 'Move maximumSpecCallbackDepth as a constant on top', 'state': 'closed', 'created_at': '2013-05-15T07:32:18Z', 'closed_at': '2016-10-14T16:38:48Z', 'labels': []}
+{'issuenumber': 365, 'title': 'Have HtmlRunner support more ways to filter tests (e.g. by regular expression)', 'state': 'closed', 'created_at': '2013-05-14T17:26:26Z', 'closed_at': '2014-06-23T04:10:30Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 364, 'title': 'The markup in SpecRunner.html does not get torn down / redone between each test run', 'state': 'closed', 'created_at': '2013-05-13T11:20:28Z', 'closed_at': '2013-05-15T16:23:25Z', 'labels': []}
+{'issuenumber': 362, 'title': 'Closure compilation error', 'state': 'closed', 'created_at': '2013-05-10T03:28:37Z', 'closed_at': '2013-10-02T18:50:09Z', 'labels': {'name': 'waiting'}}
+{'issuenumber': 361, 'title': "jasmine.Clock.useMock doesn't mock Date", 'state': 'closed', 'created_at': '2013-05-09T23:15:14Z', 'closed_at': '2014-02-27T19:58:18Z', 'labels': []}
+{'issuenumber': 360, 'title': 'Spying on javascript internals', 'state': 'closed', 'created_at': '2013-05-06T17:26:47Z', 'closed_at': '2013-05-06T17:44:27Z', 'labels': []}
+{'issuenumber': 359, 'title': 'Jasmine tests auto-restart if an exception is thrown', 'state': 'closed', 'created_at': '2013-05-01T16:27:41Z', 'closed_at': '2013-05-27T19:05:32Z', 'labels': []}
+{'issuenumber': 355, 'title': 'Spy on classes', 'state': 'closed', 'created_at': '2013-04-27T06:58:14Z', 'closed_at': '2013-05-29T20:08:36Z', 'labels': {'name': 'waiting'}}
+{'issuenumber': 354, 'title': "Add new spy matcher that checks this it's been called with, together with arguments", 'state': 'closed', 'created_at': '2013-04-26T14:35:50Z', 'closed_at': '2013-05-30T09:47:11Z', 'labels': {'name': 'waiting'}}
+{'issuenumber': 352, 'title': 'Install - phpstorm + windows 7', 'state': 'closed', 'created_at': '2013-04-22T23:28:35Z', 'closed_at': '2013-04-23T05:27:58Z', 'labels': []}
+{'issuenumber': 348, 'title': 'Why in Jasmine, we cannot put the expect in an outside function?', 'state': 'closed', 'created_at': '2013-04-09T04:26:31Z', 'closed_at': '2013-07-25T05:15:02Z', 'labels': []}
+{'issuenumber': 346, 'title': 'Reference full path not working in specs', 'state': 'closed', 'created_at': '2013-03-27T07:25:13Z', 'closed_at': '2013-03-28T17:38:45Z', 'labels': []}
+{'issuenumber': 344, 'title': 'Using Matchers inside Custom Matchers', 'state': 'closed', 'created_at': '2013-03-18T21:58:17Z', 'closed_at': '2013-05-26T15:05:28Z', 'labels': []}
+{'issuenumber': 343, 'title': 'Allow toThrow() matcher to match a regular expression', 'state': 'closed', 'created_at': '2013-03-16T17:26:36Z', 'closed_at': '2013-05-27T17:37:51Z', 'labels': []}
+{'issuenumber': 341, 'title': 'New jasmine-html.js documentation please?', 'state': 'closed', 'created_at': '2013-03-15T03:53:32Z', 'closed_at': '2013-03-17T19:44:07Z', 'labels': []}
+{'issuenumber': 339, 'title': 'Spy discard original arguments count', 'state': 'closed', 'created_at': '2013-03-12T03:43:41Z', 'closed_at': '2013-05-27T19:45:02Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 338, 'title': 'Docs link pointing to 404', 'state': 'closed', 'created_at': '2013-03-11T10:25:35Z', 'closed_at': '2013-03-27T06:11:31Z', 'labels': []}
+{'issuenumber': 337, 'title': 'toHaveBeenCalled fails when method is called from inside', 'state': 'closed', 'created_at': '2013-03-08T14:08:30Z', 'closed_at': '2013-03-09T07:07:35Z', 'labels': []}
+{'issuenumber': 335, 'title': "Typo in jasmine.util.inherit's documentation", 'state': 'closed', 'created_at': '2013-03-01T10:22:51Z', 'closed_at': '2013-03-04T05:12:07Z', 'labels': []}
+{'issuenumber': 334, 'title': 'RangeError: Maximum call stack size exceeded when adding bootstrap.js', 'state': 'closed', 'created_at': '2013-02-27T21:54:55Z', 'closed_at': '2013-02-28T15:53:45Z', 'labels': []}
+{'issuenumber': 330, 'title': 'gh-pages `jasmine` symlink can cause build fail', 'state': 'closed', 'created_at': '2013-02-26T01:16:35Z', 'closed_at': '2013-05-27T18:37:33Z', 'labels': []}
+{'issuenumber': 328, 'title': 'Throw an error if user tries to register spec after execution', 'state': 'closed', 'created_at': '2013-02-11T18:34:22Z', 'closed_at': '2013-05-27T19:11:05Z', 'labels': []}
+{'issuenumber': 327, 'title': 'Browser / Jenkins CI / TestSwarm / Code coverage support', 'state': 'closed', 'created_at': '2013-02-08T05:56:11Z', 'closed_at': '2013-10-02T22:58:19Z', 'labels': []}
+{'issuenumber': 326, 'title': 'Force Jasmine run to fail if any uncaught errors occur', 'state': 'closed', 'created_at': '2013-02-06T11:15:13Z', 'closed_at': '2014-06-23T03:09:55Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 325, 'title': 'favicon not found', 'state': 'closed', 'created_at': '2013-01-30T18:24:50Z', 'closed_at': '2013-03-04T05:17:12Z', 'labels': []}
+{'issuenumber': 322, 'title': 'extra properties in arrays are compared but not displayed', 'state': 'closed', 'created_at': '2013-01-24T20:55:24Z', 'closed_at': '2013-05-27T19:36:45Z', 'labels': []}
+{'issuenumber': 320, 'title': "HtmlReporter: getting error in RequireJS environment: Cannot read property 'suites' of undefined", 'state': 'closed', 'created_at': '2013-01-23T12:51:25Z', 'closed_at': '2013-01-23T13:20:27Z', 'labels': []}
+{'issuenumber': 315, 'title': 'Compiled Assets not compiling unless body=false', 'state': 'closed', 'created_at': '2013-01-09T20:38:58Z', 'closed_at': '2013-10-02T21:05:05Z', 'labels': []}
+{'issuenumber': 314, 'title': 'The error message is the wrong way around', 'state': 'closed', 'created_at': '2013-01-08T12:13:13Z', 'closed_at': '2013-01-08T15:24:51Z', 'labels': []}
+{'issuenumber': 311, 'title': 'With Squire.js Tests Run Always Positive No Matter What. ', 'state': 'closed', 'created_at': '2012-12-20T02:12:39Z', 'closed_at': '2012-12-20T12:37:05Z', 'labels': []}
+{'issuenumber': 310, 'title': 'Global leak detection support', 'state': 'closed', 'created_at': '2012-12-13T17:33:55Z', 'closed_at': '2012-12-13T21:47:00Z', 'labels': []}
+{'issuenumber': 308, 'title': 'jasmine 1.3.1 crashes - uninitialized constant Jasmine::Config', 'state': 'closed', 'created_at': '2012-12-05T00:02:55Z', 'closed_at': '2012-12-05T00:12:12Z', 'labels': []}
+{'issuenumber': 306, 'title': 'introduction.js typo', 'state': 'closed', 'created_at': '2012-12-03T22:24:44Z', 'closed_at': '2013-03-26T21:01:37Z', 'labels': []}
+{'issuenumber': 304, 'title': 'Chinese Support Issue on Jasmine / PhantomJS', 'state': 'closed', 'created_at': '2012-12-02T03:03:16Z', 'closed_at': '2013-03-04T06:22:47Z', 'labels': []}
+{'issuenumber': 303, 'title': '1.3.0 Nothing in IE7/8', 'state': 'closed', 'created_at': '2012-11-29T00:57:12Z', 'closed_at': '2012-12-03T18:06:21Z', 'labels': []}
+{'issuenumber': 302, 'title': 'getLocation error when redirecting trivialReporter output', 'state': 'closed', 'created_at': '2012-11-26T11:56:27Z', 'closed_at': '2013-03-04T05:43:39Z', 'labels': []}
+{'issuenumber': 300, 'title': 'Release notes are out of date', 'state': 'closed', 'created_at': '2012-11-22T12:50:53Z', 'closed_at': '2013-05-27T18:56:57Z', 'labels': []}
+{'issuenumber': 299, 'title': "Can't spyOn sessionStorage or localStorage methods in Firefox", 'state': 'closed', 'created_at': '2012-11-22T12:05:00Z', 'closed_at': '2012-11-22T20:59:07Z', 'labels': []}
+{'issuenumber': 297, 'title': "Testrunner should not show 'success' if no specs have been executed", 'state': 'closed', 'created_at': '2012-11-15T09:42:38Z', 'closed_at': '2013-10-02T22:52:53Z', 'labels': []}
+{'issuenumber': 296, 'title': 'Whitespace should be preserved in test output', 'state': 'closed', 'created_at': '2012-11-13T17:19:03Z', 'closed_at': '2013-03-04T06:27:57Z', 'labels': []}
+{'issuenumber': 294, 'title': 'An error occurs if all `if`s are `xif`s.', 'state': 'closed', 'created_at': '2012-11-05T15:16:53Z', 'closed_at': '2013-05-27T17:21:56Z', 'labels': []}
+{'issuenumber': 293, 'title': 'waitsFor does not support an optional timeout value of 0', 'state': 'closed', 'created_at': '2012-11-05T15:15:46Z', 'closed_at': '2013-05-27T17:20:10Z', 'labels': []}
+{'issuenumber': 289, 'title': 'jasmine.Clock.tick( 0 ) should not greedily call callbacks that get added while processing the call', 'state': 'closed', 'created_at': '2012-10-21T20:39:26Z', 'closed_at': '2012-10-22T19:34:21Z', 'labels': []}
+{'issuenumber': 287, 'title': 'Hard to copy the title of a failing spec', 'state': 'closed', 'created_at': '2012-10-11T12:29:36Z', 'closed_at': '2013-05-27T17:27:07Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 286, 'title': 'The report bar displays nested describe blocks in the wrong order', 'state': 'closed', 'created_at': '2012-10-11T09:17:27Z', 'closed_at': '2013-10-02T23:14:18Z', 'labels': {'name': 'waiting'}}
+{'issuenumber': 285, 'title': 'Ability to differentiate between errors and failures', 'state': 'closed', 'created_at': '2012-10-04T16:49:16Z', 'closed_at': '2012-10-06T00:07:57Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 284, 'title': 'Unit tests are failing in IE8', 'state': 'closed', 'created_at': '2012-10-03T13:10:08Z', 'closed_at': '2012-10-03T15:53:55Z', 'labels': []}
+{'issuenumber': 282, 'title': 'CSS error exposed by htmlunit', 'state': 'closed', 'created_at': '2012-10-01T16:13:15Z', 'closed_at': '2012-10-06T00:10:22Z', 'labels': []}
+{'issuenumber': 279, 'title': 'Allow spies to be easily-extended, w/o modifying Jasmine code, like Matchers do', 'state': 'closed', 'created_at': '2012-09-10T12:45:14Z', 'closed_at': '2012-10-06T00:15:22Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 278, 'title': 'Renaming the "it" function', 'state': 'closed', 'created_at': '2012-09-04T16:36:53Z', 'closed_at': '2012-09-06T06:00:08Z', 'labels': []}
+{'issuenumber': 277, 'title': 'Weird failures in linux', 'state': 'closed', 'created_at': '2012-09-01T21:52:04Z', 'closed_at': '2013-03-06T17:26:27Z', 'labels': {'name': 'waiting'}}
+{'issuenumber': 276, 'title': 'Standalone release: wrong order of the comments in SpecRunner.html', 'state': 'closed', 'created_at': '2012-08-30T11:24:28Z', 'closed_at': '2013-03-06T06:59:37Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 275, 'title': 'Infinitive loop', 'state': 'closed', 'created_at': '2012-08-28T08:34:09Z', 'closed_at': '2012-12-07T17:04:43Z', 'labels': []}
+{'issuenumber': 274, 'title': 'Include skipped specs in report?', 'state': 'closed', 'created_at': '2012-08-24T16:02:43Z', 'closed_at': '2013-03-27T06:08:59Z', 'labels': {'name': 'has Tracker story'}}
+{'issuenumber': 273, 'title': 'toThrow assertion is too limited, system exception are not equals between browsers', 'state': 'closed', 'created_at': '2012-08-24T15:12:12Z', 'closed_at': '2012-09-03T00:33:26Z', 'labels': []}
+{'issuenumber': 271, 'title': 'Jasmine runs again and again', 'state': 'closed', 'created_at': '2012-08-15T20:17:05Z', 'closed_at': '2012-08-16T14:36:23Z', 'labels': []}
+{'issuenumber': 268, 'title': 'Usage of reserved word, `for`', 'state': 'closed', 'created_at': '2012-08-14T22:42:33Z', 'closed_at': '2012-08-15T21:28:45Z', 'labels': []}
+{'issuenumber': 267, 'title': 'Jasmine does not reset spy after each test suite', 'state': 'closed', 'created_at': '2012-08-10T09:02:07Z', 'closed_at': '2012-08-14T20:35:55Z', 'labels': []}
+{'issuenumber': 266, 'title': 'Object comparison is broken for wrapped native and frozen objects', 'state': 'closed', 'created_at': '2012-08-09T19:30:26Z', 'closed_at': '2013-05-29T19:40:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 265, 'title': 'More Clarity in Tests', 'state': 'closed', 'created_at': '2012-08-09T06:36:14Z', 'closed_at': '2013-05-27T16:49:47Z', 'labels': []}
+{'issuenumber': 263, 'title': 'Incorrect handling of empty pages/suites', 'state': 'closed', 'created_at': '2012-07-29T08:25:15Z', 'closed_at': '2013-10-02T22:35:24Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 262, 'title': 'jquery 1.7.1 and 1.7.2 breaks jasmine tests', 'state': 'closed', 'created_at': '2012-07-27T03:28:32Z', 'closed_at': '2012-08-10T20:09:15Z', 'labels': []}
+{'issuenumber': 261, 'title': 'Accidental delete on wiki', 'state': 'closed', 'created_at': '2012-07-25T18:36:54Z', 'closed_at': '2012-08-12T16:32:03Z', 'labels': []}
+{'issuenumber': 259, 'title': 'toEqual returns wrong results for RegExps', 'state': 'closed', 'created_at': '2012-07-21T22:03:45Z', 'closed_at': '2013-05-26T19:27:10Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 256, 'title': 'waits() missing in documentation on http://pivotal.github.com/jasmine/', 'state': 'closed', 'created_at': '2012-07-17T13:45:14Z', 'closed_at': '2012-07-17T14:24:56Z', 'labels': []}
+{'issuenumber': 255, 'title': 'update jsdoc for jasmine.Spy.html', 'state': 'closed', 'created_at': '2012-07-16T18:35:45Z', 'closed_at': '2013-05-27T16:45:28Z', 'labels': []}
+{'issuenumber': 252, 'title': 'Uncaught exception in beforeEach allows test block to run', 'state': 'closed', 'created_at': '2012-07-11T18:16:30Z', 'closed_at': '2012-07-11T19:10:45Z', 'labels': []}
+{'issuenumber': 250, 'title': 'Jasmine:ci rake target broken with rspec 2.11.0', 'state': 'closed', 'created_at': '2012-07-08T12:57:26Z', 'closed_at': '2012-08-14T20:31:56Z', 'labels': []}
+{'issuenumber': 248, 'title': 'WinJS support', 'state': 'closed', 'created_at': '2012-07-05T19:49:53Z', 'closed_at': '2012-07-07T17:47:57Z', 'labels': []}
+{'issuenumber': 247, 'title': 'Jasmine goes into infinite loop if loaded twice', 'state': 'closed', 'created_at': '2012-07-05T17:14:09Z', 'closed_at': '2012-10-30T19:58:39Z', 'labels': []}
+{'issuenumber': 245, 'title': "Jasmine.Clock doesn't work when passing strings to setTimeout", 'state': 'closed', 'created_at': '2012-06-23T15:07:56Z', 'closed_at': '2013-05-27T16:41:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 244, 'title': 'Match dom elements from full list with related dom element in failing list', 'state': 'closed', 'created_at': '2012-06-21T04:13:48Z', 'closed_at': '2013-05-27T16:39:37Z', 'labels': []}
+{'issuenumber': 243, 'title': 'Compare string parameter with toHaveBeenCalledWith(regexp)', 'state': 'closed', 'created_at': '2012-06-18T08:27:42Z', 'closed_at': '2013-10-02T21:44:26Z', 'labels': []}
+{'issuenumber': 240, 'title': 'Diff-ing objects that fail to match', 'state': 'closed', 'created_at': '2012-06-13T10:11:44Z', 'closed_at': '2013-05-27T16:28:23Z', 'labels': []}
+{'issuenumber': 239, 'title': 'Homepage typo, #included_Matchers', 'state': 'closed', 'created_at': '2012-06-11T10:45:09Z', 'closed_at': '2012-07-07T17:48:42Z', 'labels': []}
+{'issuenumber': 238, 'title': 'The link to BDD is broken', 'state': 'closed', 'created_at': '2012-06-07T12:04:56Z', 'closed_at': '2012-07-07T17:50:40Z', 'labels': []}
+{'issuenumber': 236, 'title': 'Spy Restore()', 'state': 'closed', 'created_at': '2012-06-06T18:38:26Z', 'closed_at': '2015-02-27T22:41:18Z', 'labels': {'name': 'waiting'}}
+{'issuenumber': 235, 'title': 'runs inside describe issues with IE9', 'state': 'closed', 'created_at': '2012-06-06T13:35:11Z', 'closed_at': '2013-05-27T16:25:04Z', 'labels': []}
+{'issuenumber': 233, 'title': 'Spying constructor and calling "class level" functions', 'state': 'closed', 'created_at': '2012-05-29T16:07:41Z', 'closed_at': '2012-07-07T17:56:56Z', 'labels': []}
+{'issuenumber': 232, 'title': "Typos: Project site's main page (introduction.js)", 'state': 'closed', 'created_at': '2012-05-26T08:15:13Z', 'closed_at': '2012-05-27T16:43:13Z', 'labels': []}
+{'issuenumber': 231, 'title': 'Destructor', 'state': 'closed', 'created_at': '2012-05-24T00:59:46Z', 'closed_at': '2012-07-07T17:54:01Z', 'labels': []}
+{'issuenumber': 230, 'title': 'Asset caching', 'state': 'closed', 'created_at': '2012-05-22T14:18:50Z', 'closed_at': '2013-10-02T21:06:40Z', 'labels': []}
+{'issuenumber': 229, 'title': 'AMD, define problem in nodejs', 'state': 'closed', 'created_at': '2012-05-21T08:31:11Z', 'closed_at': '2013-03-06T07:11:37Z', 'labels': []}
+{'issuenumber': 228, 'title': 'toHaveBeenCalledWith works not with multiple calls', 'state': 'closed', 'created_at': '2012-05-16T16:12:21Z', 'closed_at': '2012-05-16T17:00:42Z', 'labels': []}
+{'issuenumber': 227, 'title': 'toThrow ignores error type', 'state': 'closed', 'created_at': '2012-05-13T22:50:49Z', 'closed_at': '2013-05-27T16:13:05Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 226, 'title': 'beforeEach and afterEach not called in nested suites', 'state': 'closed', 'created_at': '2012-05-11T16:02:21Z', 'closed_at': '2012-05-16T15:54:27Z', 'labels': []}
+{'issuenumber': 224, 'title': 'Feature request: support test includes', 'state': 'closed', 'created_at': '2012-04-23T06:59:02Z', 'closed_at': '2012-05-02T16:51:50Z', 'labels': []}
+{'issuenumber': 223, 'title': 'Implement a Subject Test spec in Jasmine', 'state': 'closed', 'created_at': '2012-04-21T09:55:55Z', 'closed_at': '2012-04-21T22:10:53Z', 'labels': []}
+{'issuenumber': 222, 'title': 'toContain causes a stack overflow with circular references', 'state': 'closed', 'created_at': '2012-04-18T12:06:50Z', 'closed_at': '2013-05-27T16:11:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 219, 'title': 'ConsoleReporter not showing stack trace on failed result', 'state': 'closed', 'created_at': '2012-04-13T18:47:20Z', 'closed_at': '2013-05-27T01:28:58Z', 'labels': []}
+{'issuenumber': 216, 'title': 'Bogus SyntaxError centered around the JavaScript eval() method.', 'state': 'closed', 'created_at': '2012-04-11T04:07:22Z', 'closed_at': '2013-05-27T16:19:28Z', 'labels': {'name': 'waiting'}}
+{'issuenumber': 215, 'title': 'Startup reports "Address already in use - bind(2)" on Ubuntu', 'state': 'closed', 'created_at': '2012-04-10T23:58:33Z', 'closed_at': '2013-07-21T17:38:44Z', 'labels': {'name': 'waiting'}}
+{'issuenumber': 213, 'title': 'roadmap for spying on jQuery deferred/when/done', 'state': 'closed', 'created_at': '2012-04-09T08:44:13Z', 'closed_at': '2012-04-09T23:23:24Z', 'labels': []}
+{'issuenumber': 212, 'title': 'When calling a function that wraps a describe, this.views is undefined', 'state': 'closed', 'created_at': '2012-04-06T20:22:12Z', 'closed_at': '2013-05-27T15:56:29Z', 'labels': []}
+{'issuenumber': 211, 'title': 'waitsFor timeout error throws inscrutable TypeError', 'state': 'closed', 'created_at': '2012-04-03T16:43:10Z', 'closed_at': '2013-05-27T15:54:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 206, 'title': 'Packaging for custom matchers?', 'state': 'closed', 'created_at': '2012-03-24T23:46:40Z', 'closed_at': '2013-05-27T01:27:05Z', 'labels': []}
+{'issuenumber': 204, 'title': 'Compatibility with jQuery Mobile', 'state': 'closed', 'created_at': '2012-03-20T10:26:01Z', 'closed_at': '2013-10-02T22:30:29Z', 'labels': {'name': 'waiting'}}
+{'issuenumber': 200, 'title': 'How about async events testing?', 'state': 'closed', 'created_at': '2012-03-09T22:25:23Z', 'closed_at': '2013-05-27T15:27:37Z', 'labels': []}
+{'issuenumber': 199, 'title': 'Problem with toContain and regular expressions', 'state': 'closed', 'created_at': '2012-03-06T21:24:41Z', 'closed_at': '2012-10-30T19:57:38Z', 'labels': []}
+{'issuenumber': 192, 'title': 's', 'state': 'closed', 'created_at': '2012-02-28T12:35:56Z', 'closed_at': '2012-02-29T05:59:58Z', 'labels': []}
+{'issuenumber': 191, 'title': 'sync. for more than one suits', 'state': 'closed', 'created_at': '2012-02-28T11:11:57Z', 'closed_at': '2013-05-27T01:17:52Z', 'labels': []}
+{'issuenumber': 188, 'title': 'add evergreen and coffeescript tmbundle to "Related Projects"', 'state': 'closed', 'created_at': '2012-02-22T09:51:19Z', 'closed_at': '2012-02-24T21:23:16Z', 'labels': []}
+{'issuenumber': 187, 'title': 'PrettyPrinter emits very long string', 'state': 'closed', 'created_at': '2012-02-21T15:05:17Z', 'closed_at': '2012-05-15T09:23:09Z', 'labels': []}
+{'issuenumber': 185, 'title': 'Jasmine raise_if_conflicts with ruby 1.9.3', 'state': 'closed', 'created_at': '2012-02-10T19:33:36Z', 'closed_at': '2012-02-27T14:40:09Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 184, 'title': "Jasmine Clock mocking and JQuery effect 'complete' function does not go along well", 'state': 'closed', 'created_at': '2012-02-05T08:07:24Z', 'closed_at': '2012-02-11T06:49:00Z', 'labels': []}
+{'issuenumber': 183, 'title': 'lib/jasmine-core /example/SpecRunner.html still uses TrivialReporter', 'state': 'closed', 'created_at': '2012-01-24T10:29:20Z', 'closed_at': '2012-04-01T17:53:14Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 182, 'title': 'Tests on extended ascii charsets fail with jasmin-maven-plugin', 'state': 'closed', 'created_at': '2012-01-23T14:12:19Z', 'closed_at': '2012-01-24T11:27:29Z', 'labels': []}
+{'issuenumber': 180, 'title': 'setTimeout, setInterval, clearTimeout, clearInterval functions does not work with JavaScriptCore framework in iPhone', 'state': 'closed', 'created_at': '2012-01-23T05:23:57Z', 'closed_at': '2013-05-27T00:54:24Z', 'labels': []}
+{'issuenumber': 178, 'title': 'API Suggestion: Use an explicit callback argument for completion of async specs', 'state': 'closed', 'created_at': '2012-01-16T23:03:13Z', 'closed_at': '2013-05-06T14:43:21Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 176, 'title': 'Add an onComplete event to the test runner', 'state': 'closed', 'created_at': '2012-01-11T13:02:40Z', 'closed_at': '2013-05-27T00:50:00Z', 'labels': []}
+{'issuenumber': 175, 'title': 'Can you use multiple expect() calls within one test?', 'state': 'closed', 'created_at': '2012-01-11T01:04:06Z', 'closed_at': '2012-02-11T06:57:00Z', 'labels': []}
+{'issuenumber': 174, 'title': 'Valid unit tests always fail when run through phantomjs on Ubuntu or Debian', 'state': 'closed', 'created_at': '2012-01-08T07:44:21Z', 'closed_at': '2013-05-27T00:45:49Z', 'labels': []}
+{'issuenumber': 173, 'title': 'Make adding new matchers easy', 'state': 'closed', 'created_at': '2012-01-07T17:40:21Z', 'closed_at': '2013-05-27T00:41:52Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 171, 'title': 'Add support for running specs in a random order', 'state': 'closed', 'created_at': '2012-01-04T23:54:37Z', 'closed_at': '2013-05-27T00:36:30Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 167, 'title': 'Creating a matcher for equals-method', 'state': 'closed', 'created_at': '2011-12-29T17:47:05Z', 'closed_at': '2013-05-27T00:30:22Z', 'labels': []}
+{'issuenumber': 164, 'title': 'Spies should collect return values', 'state': 'closed', 'created_at': '2011-11-29T08:33:02Z', 'closed_at': '2011-11-29T21:58:04Z', 'labels': []}
+{'issuenumber': 162, 'title': 'Support remote assets', 'state': 'closed', 'created_at': '2011-11-25T19:01:43Z', 'closed_at': '2013-05-27T00:23:56Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 161, 'title': 'Quick start documentation out of date', 'state': 'closed', 'created_at': '2011-11-21T21:03:14Z', 'closed_at': '2012-02-14T21:30:21Z', 'labels': []}
+{'issuenumber': 160, 'title': 'Allow spies to be overriden', 'state': 'closed', 'created_at': '2011-11-18T19:23:49Z', 'closed_at': '2011-12-05T23:14:34Z', 'labels': []}
+{'issuenumber': 155, 'title': "'jasmine' npm package name now available", 'state': 'closed', 'created_at': '2011-11-10T22:25:08Z', 'closed_at': '2013-05-27T00:22:22Z', 'labels': []}
+{'issuenumber': 154, 'title': 'Combine matchers', 'state': 'closed', 'created_at': '2011-11-01T11:40:36Z', 'closed_at': '2011-11-03T14:53:58Z', 'labels': []}
+{'issuenumber': 153, 'title': 'Implement aroundEach', 'state': 'closed', 'created_at': '2011-10-28T12:46:30Z', 'closed_at': '2013-05-27T00:21:08Z', 'labels': []}
+{'issuenumber': 151, 'title': 'Getting Sprockets::CircularDependencyError in 1.2.0.rc1', 'state': 'closed', 'created_at': '2011-10-25T09:01:27Z', 'closed_at': '2011-12-10T04:25:43Z', 'labels': []}
+{'issuenumber': 150, 'title': 'Coverage tools', 'state': 'closed', 'created_at': '2011-10-24T18:42:28Z', 'closed_at': '2013-05-27T00:20:24Z', 'labels': []}
+{'issuenumber': 147, 'title': 'Jasmine 1.1.1 breaks Rails (3.1.1)', 'state': 'closed', 'created_at': '2011-10-18T08:11:07Z', 'closed_at': '2013-05-27T00:12:03Z', 'labels': []}
+{'issuenumber': 145, 'title': 'UI (jasmine-html.js?) issues/annoyences', 'state': 'closed', 'created_at': '2011-10-13T00:47:07Z', 'closed_at': '2013-05-27T00:10:46Z', 'labels': []}
+{'issuenumber': 144, 'title': 'How am I supposed to debug my code if all exceptions and errors are caught by Jasmine??', 'state': 'closed', 'created_at': '2011-10-13T00:30:20Z', 'closed_at': '2013-05-26T20:29:05Z', 'labels': []}
+{'issuenumber': 143, 'title': 'Jasmine requires Rails?', 'state': 'closed', 'created_at': '2011-10-12T00:11:33Z', 'closed_at': '2011-10-17T20:50:31Z', 'labels': []}
+{'issuenumber': 141, 'title': "spyOn doesn't see functions being called", 'state': 'closed', 'created_at': '2011-10-03T22:27:18Z', 'closed_at': '2011-10-18T03:36:43Z', 'labels': []}
+{'issuenumber': 140, 'title': 'Problem in rspec2? method', 'state': 'closed', 'created_at': '2011-10-03T19:15:04Z', 'closed_at': '2011-10-03T19:17:18Z', 'labels': []}
+{'issuenumber': 139, 'title': 'waitsFor() should work if you pass it a spy (and optional timeout)', 'state': 'closed', 'created_at': '2011-10-03T05:57:25Z', 'closed_at': '2013-05-26T20:26:04Z', 'labels': []}
+{'issuenumber': 134, 'title': 'Standalone Jasmine 1.1.0 only contains lib/ folder ', 'state': 'closed', 'created_at': '2011-09-26T18:10:59Z', 'closed_at': '2013-10-04T19:36:02Z', 'labels': []}
+{'issuenumber': 133, 'title': 'jasmine.ExpectationResult should not keep a reference to "expected" and "actual"', 'state': 'closed', 'created_at': '2011-09-25T19:04:05Z', 'closed_at': '2013-05-26T20:09:29Z', 'labels': []}
+{'issuenumber': 132, 'title': 'Alternative asynchronous matching with "eventually" ', 'state': 'closed', 'created_at': '2011-09-21T10:27:52Z', 'closed_at': '2013-05-26T20:03:44Z', 'labels': []}
+{'issuenumber': 131, 'title': '1.1.0 not working with bundle exec rake jasmine, 1.0.2.0 fine', 'state': 'closed', 'created_at': '2011-09-13T06:43:38Z', 'closed_at': '2013-05-26T20:00:47Z', 'labels': []}
+{'issuenumber': 130, 'title': "Can't run standalone jasmine in Node", 'state': 'closed', 'created_at': '2011-09-08T23:34:37Z', 'closed_at': '2011-09-10T00:31:05Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 129, 'title': 'Support for .toHaveBeenCalled().exactly(x).times() assertions on spies', 'state': 'closed', 'created_at': '2011-09-07T19:02:37Z', 'closed_at': '2013-10-02T21:20:07Z', 'labels': []}
+{'issuenumber': 128, 'title': 'support for .with() modifier for spies', 'state': 'closed', 'created_at': '2011-09-07T18:57:52Z', 'closed_at': '2013-05-29T17:06:46Z', 'labels': []}
+{'issuenumber': 127, 'title': 'TAP output for Jasmine?', 'state': 'closed', 'created_at': '2011-09-01T18:36:27Z', 'closed_at': '2011-09-10T00:33:01Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 126, 'title': 'jasmine_tags extension', 'state': 'closed', 'created_at': '2011-08-25T20:41:39Z', 'closed_at': '2011-09-10T00:35:30Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 125, 'title': 'Jasmine server calls String#each - not available in Ruby 1.9', 'state': 'closed', 'created_at': '2011-08-25T18:56:30Z', 'closed_at': '2011-08-25T19:42:17Z', 'labels': []}
+{'issuenumber': 124, 'title': "`rake jasmine` doesn't work with 1.9", 'state': 'closed', 'created_at': '2011-08-25T18:04:20Z', 'closed_at': '2011-08-25T19:42:30Z', 'labels': []}
+{'issuenumber': 122, 'title': 'global functions reference 404ing', 'state': 'closed', 'created_at': '2011-08-21T20:42:19Z', 'closed_at': '2011-08-22T01:32:21Z', 'labels': []}
+{'issuenumber': 121, 'title': 'Is it feasible for tests to run in a blank context?', 'state': 'closed', 'created_at': '2011-08-19T21:31:44Z', 'closed_at': '2011-08-19T22:12:06Z', 'labels': []}
+{'issuenumber': 119, 'title': 'Allow toThrow to take an exception class', 'state': 'closed', 'created_at': '2011-08-17T05:56:44Z', 'closed_at': '2011-08-17T06:12:47Z', 'labels': []}
+{'issuenumber': 118, 'title': 'Bug when no tests run', 'state': 'closed', 'created_at': '2011-08-09T10:56:03Z', 'closed_at': '2013-07-21T17:41:10Z', 'labels': []}
+{'issuenumber': 116, 'title': 'jasmine-gem raise conflicts', 'state': 'closed', 'created_at': '2011-08-03T11:45:16Z', 'closed_at': '2011-08-03T11:52:16Z', 'labels': []}
+{'issuenumber': 115, 'title': 'Jasmine cannot handle scripts with a canvas', 'state': 'closed', 'created_at': '2011-07-29T20:55:12Z', 'closed_at': '2013-03-06T06:05:00Z', 'labels': []}
+{'issuenumber': 114, 'title': 'Type matching array/object bug', 'state': 'closed', 'created_at': '2011-07-26T23:02:36Z', 'closed_at': '2013-05-26T19:57:32Z', 'labels': []}
+{'issuenumber': 113, 'title': 'Feature: init() and destroy()', 'state': 'closed', 'created_at': '2011-07-26T10:02:41Z', 'closed_at': '2012-01-30T21:24:36Z', 'labels': []}
+{'issuenumber': 110, 'title': 'Jasmine ruby gem uses deprecated Gem.available?', 'state': 'closed', 'created_at': '2011-07-20T12:57:32Z', 'closed_at': '2011-07-20T13:11:38Z', 'labels': []}
+{'issuenumber': 109, 'title': 'empty ul in the README', 'state': 'closed', 'created_at': '2011-07-18T04:06:57Z', 'closed_at': '2013-03-06T06:02:57Z', 'labels': []}
+{'issuenumber': 108, 'title': 'Jasmine and rails 3.1 asset pipeline', 'state': 'closed', 'created_at': '2011-07-16T16:54:49Z', 'closed_at': '2011-07-16T17:00:35Z', 'labels': []}
+{'issuenumber': 107, 'title': 'Code Coverage', 'state': 'closed', 'created_at': '2011-07-15T17:37:40Z', 'closed_at': '2013-03-06T06:11:46Z', 'labels': []}
+{'issuenumber': 106, 'title': 'toHaveBeenCalledWith feature', 'state': 'closed', 'created_at': '2011-07-14T18:44:18Z', 'closed_at': '2011-07-23T20:11:06Z', 'labels': []}
+{'issuenumber': 105, 'title': 'Node.js compatibility', 'state': 'closed', 'created_at': '2011-07-07T06:58:25Z', 'closed_at': '2011-07-08T02:25:17Z', 'labels': []}
+{'issuenumber': 103, 'title': 'Missed test results when using "wait" and "runs"', 'state': 'closed', 'created_at': '2011-06-23T07:58:40Z', 'closed_at': '2013-03-06T06:02:04Z', 'labels': []}
+{'issuenumber': 99, 'title': "Online API docs' _global_ section link broken", 'state': 'closed', 'created_at': '2011-06-15T12:31:12Z', 'closed_at': '2013-03-27T06:11:32Z', 'labels': []}
+{'issuenumber': 97, 'title': 'Jasmine website bugs', 'state': 'closed', 'created_at': '2011-05-28T03:47:31Z', 'closed_at': '2011-06-19T03:21:14Z', 'labels': []}
+{'issuenumber': 95, 'title': 'createSpyObj should not require a list of spys', 'state': 'closed', 'created_at': '2011-05-15T17:02:53Z', 'closed_at': '2011-05-15T17:35:38Z', 'labels': []}
+{'issuenumber': 94, 'title': 'spyOn(obj, "method").withArgs("a", "b").andReturn("c")', 'state': 'closed', 'created_at': '2011-05-15T16:45:16Z', 'closed_at': '2011-06-19T04:06:57Z', 'labels': []}
+{'issuenumber': 92, 'title': 'Allow disabling of error catching (useful for bad stacktrace browsers)', 'state': 'closed', 'created_at': '2011-04-27T19:27:47Z', 'closed_at': '2011-06-19T15:29:07Z', 'labels': []}
+{'issuenumber': 91, 'title': 'Documentation bug', 'state': 'closed', 'created_at': '2011-04-27T16:47:43Z', 'closed_at': '2011-06-19T04:04:14Z', 'labels': []}
+{'issuenumber': 89, 'title': 'Add the function properties to the spy object', 'state': 'closed', 'created_at': '2011-04-20T22:34:33Z', 'closed_at': '2011-06-19T04:02:43Z', 'labels': []}
+{'issuenumber': 88, 'title': 'Spy.andCallThrough should be default behaviour', 'state': 'closed', 'created_at': '2011-04-20T19:37:04Z', 'closed_at': '2013-03-06T05:51:35Z', 'labels': []}
+{'issuenumber': 87, 'title': 'waitsFor argument order ', 'state': 'closed', 'created_at': '2011-04-18T04:43:20Z', 'closed_at': '2011-06-19T03:59:15Z', 'labels': []}
+{'issuenumber': 86, 'title': 'CoffeeScript and Rails integration (possibly with Barista)', 'state': 'closed', 'created_at': '2011-04-17T11:05:30Z', 'closed_at': '2011-04-17T14:11:55Z', 'labels': []}
+{'issuenumber': 85, 'title': 'CruiseControl build is broken but passing', 'state': 'closed', 'created_at': '2011-04-15T09:52:55Z', 'closed_at': '2011-04-15T12:09:31Z', 'labels': []}
+{'issuenumber': 84, 'title': 'Incorrect Rails dependency', 'state': 'closed', 'created_at': '2011-04-12T00:30:44Z', 'closed_at': '2011-04-15T12:09:59Z', 'labels': []}
+{'issuenumber': 80, 'title': 'Misleading error message for string expectation', 'state': 'closed', 'created_at': '2011-03-24T18:47:06Z', 'closed_at': '2011-06-19T03:56:21Z', 'labels': []}
+{'issuenumber': 79, 'title': 'specify a message when a custom matcher fails', 'state': 'closed', 'created_at': '2011-03-24T11:00:02Z', 'closed_at': '2011-03-24T11:31:52Z', 'labels': []}
+{'issuenumber': 77, 'title': 'Stackoverflow  error', 'state': 'closed', 'created_at': '2011-03-18T18:52:55Z', 'closed_at': '2013-03-06T05:49:57Z', 'labels': []}
+{'issuenumber': 65, 'title': 'Conditionals for describe or it', 'state': 'closed', 'created_at': '2011-02-28T13:29:10Z', 'closed_at': '2011-02-28T22:25:50Z', 'labels': []}
+{'issuenumber': 61, 'title': 'declarationError is lost; instead I get the error "jasmine.Suite() required"', 'state': 'closed', 'created_at': '2011-02-23T18:41:29Z', 'closed_at': '2013-05-26T19:35:15Z', 'labels': []}
+{'issuenumber': 60, 'title': "expect({ f: function(){} }).toEqual({ f: function(){} }) fails and it shouldn't", 'state': 'closed', 'created_at': '2011-02-20T23:28:24Z', 'closed_at': '2011-02-21T13:52:11Z', 'labels': []}
+{'issuenumber': 59, 'title': '"jasmine init" deleted my code', 'state': 'closed', 'created_at': '2011-02-19T17:49:23Z', 'closed_at': '2011-02-19T17:51:45Z', 'labels': []}
+{'issuenumber': 58, 'title': '"jasmine init" deleted my code', 'state': 'closed', 'created_at': '2011-02-19T17:43:01Z', 'closed_at': '2011-02-20T01:46:50Z', 'labels': []}
+{'issuenumber': 53, 'title': 'Reporter resultsForSpecs reports specs as passed even when skipped', 'state': 'closed', 'created_at': '2011-02-06T21:39:06Z', 'closed_at': '2013-03-06T05:38:07Z', 'labels': []}
+{'issuenumber': 52, 'title': 'json test fails under 1.9.2', 'state': 'closed', 'created_at': '2011-02-06T04:07:31Z', 'closed_at': '2011-06-19T16:31:08Z', 'labels': []}
+{'issuenumber': 51, 'title': 'Jasmine does not clear scheduledFunctions between mock clock invocations', 'state': 'closed', 'created_at': '2011-02-04T16:57:39Z', 'closed_at': '2011-02-04T21:13:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 50, 'title': 'Generated rake-Tasks should ignore missing Jasmine', 'state': 'closed', 'created_at': '2011-02-01T11:54:37Z', 'closed_at': '2011-06-25T19:20:52Z', 'labels': []}
+{'issuenumber': 49, 'title': 'Code Coverage', 'state': 'closed', 'created_at': '2011-01-31T11:02:25Z', 'closed_at': '2011-01-31T17:02:26Z', 'labels': []}
+{'issuenumber': 48, 'title': 'afterEach is called twice before an async test is run', 'state': 'closed', 'created_at': '2011-01-30T17:00:07Z', 'closed_at': '2011-06-19T03:26:43Z', 'labels': []}
+{'issuenumber': 47, 'title': 'jasmine init "sinatra app"', 'state': 'closed', 'created_at': '2011-01-29T04:39:59Z', 'closed_at': '2011-01-29T07:03:19Z', 'labels': []}
+{'issuenumber': 45, 'title': 'toHaveBeenCalledWith does not succeed on correct response (or error is incorrect)', 'state': 'closed', 'created_at': '2011-01-19T16:58:18Z', 'closed_at': '2013-10-02T00:41:12Z', 'labels': []}
+{'issuenumber': 40, 'title': 'global spyOn does not accept / honor ignoreMethodDoesntExist', 'state': 'closed', 'created_at': '2010-12-28T17:41:23Z', 'closed_at': '2011-01-28T05:59:47Z', 'labels': []}
+{'issuenumber': 37, 'title': 'Add instance mocks', 'state': 'closed', 'created_at': '2010-12-15T21:06:05Z', 'closed_at': '2011-01-28T05:42:12Z', 'labels': []}
+{'issuenumber': 36, 'title': 'Blank page after running tests.', 'state': 'closed', 'created_at': '2010-12-15T01:20:24Z', 'closed_at': '2010-12-15T12:34:34Z', 'labels': []}
+{'issuenumber': 35, 'title': 'toHaveBeenCalledWith fails with multiple arguments', 'state': 'closed', 'created_at': '2010-12-14T23:48:12Z', 'closed_at': '2010-12-14T23:56:39Z', 'labels': []}
+{'issuenumber': 33, 'title': 'Test window jumps when I hit "command"', 'state': 'closed', 'created_at': '2010-12-03T22:48:18Z', 'closed_at': '2011-06-19T03:36:01Z', 'labels': []}
+{'issuenumber': 32, 'title': 'Ability to spy on functions multiple times.', 'state': 'closed', 'created_at': '2010-11-23T01:41:26Z', 'closed_at': '2010-11-23T21:16:39Z', 'labels': []}
+{'issuenumber': 31, 'title': 'Private repo URL for submodule "pages"', 'state': 'closed', 'created_at': '2010-11-20T02:07:31Z', 'closed_at': '2011-01-28T13:51:36Z', 'labels': []}
+{'issuenumber': 30, 'title': 'Request: JsApiReporter: Add execution time elapsed', 'state': 'closed', 'created_at': '2010-11-18T21:56:14Z', 'closed_at': '2013-05-26T19:11:35Z', 'labels': {'name': 'feature request'}}

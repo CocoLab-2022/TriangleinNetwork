@@ -1,0 +1,470 @@
+{'issuenumber': 918, 'title': 'Logger middleware, middleware composer, and router', 'state': 'closed', 'created_at': '2020-01-31T14:40:27Z', 'closed_at': '2020-02-06T02:19:22Z', 'labels': []}
+{'issuenumber': 917, 'title': 'Website: Minor niggles.', 'state': 'closed', 'created_at': '2020-01-31T11:15:38Z', 'closed_at': '2020-07-17T17:01:06Z', 'labels': []}
+{'issuenumber': 916, 'title': 'Website is broken now', 'state': 'closed', 'created_at': '2020-01-30T04:17:30Z', 'closed_at': '2020-01-31T12:58:30Z', 'labels': []}
+{'issuenumber': 912, 'title': 'Merge docs and web directory', 'state': 'closed', 'created_at': '2020-01-29T06:20:11Z', 'closed_at': '2020-01-31T12:58:37Z', 'labels': []}
+{'issuenumber': 911, 'title': 'Remove .png files from docs directory', 'state': 'closed', 'created_at': '2020-01-29T06:19:12Z', 'closed_at': '2020-01-31T12:59:01Z', 'labels': []}
+{'issuenumber': 905, 'title': "Lazy view doesn't work as expected", 'state': 'closed', 'created_at': '2019-12-22T23:07:39Z', 'closed_at': '2020-01-14T11:46:28Z', 'labels': []}
+{'issuenumber': 903, 'title': 'using shared nodes in the function view can induce wrong display.', 'state': 'closed', 'created_at': '2019-12-21T07:43:32Z', 'closed_at': '2020-03-12T15:29:11Z', 'labels': []}
+{'issuenumber': 902, 'title': 'V2 Router support', 'state': 'closed', 'created_at': '2019-12-13T15:43:44Z', 'closed_at': '2021-01-26T18:17:26Z', 'labels': []}
+{'issuenumber': 897, 'title': "<select value={state.selectedId}> does not update select component's selected item.", 'state': 'closed', 'created_at': '2019-11-01T11:49:59Z', 'closed_at': '2019-11-01T12:52:19Z', 'labels': {'name': 'outdated'}}
+{'issuenumber': 896, 'title': 'Modules in V2', 'state': 'closed', 'created_at': '2019-10-29T08:04:35Z', 'closed_at': '2021-01-29T10:51:01Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 895, 'title': '2.0.3 hyperapp bundle not rendering on dom', 'state': 'closed', 'created_at': '2019-10-28T04:27:14Z', 'closed_at': '2019-10-28T06:46:41Z', 'labels': []}
+{'issuenumber': 887, 'title': '2.0.2 "is" is undefined', 'state': 'closed', 'created_at': '2019-10-12T19:10:01Z', 'closed_at': '2019-10-13T05:56:42Z', 'labels': []}
+{'issuenumber': 886, 'title': 'debug log remains in index.js (v2.0.2)', 'state': 'closed', 'created_at': '2019-10-12T03:42:27Z', 'closed_at': '2019-10-12T06:43:39Z', 'labels': []}
+{'issuenumber': 884, 'title': 'Adding Lazy during application execution causes JS error: Uncaught TypeError', 'state': 'closed', 'created_at': '2019-10-07T17:07:23Z', 'closed_at': '2020-01-14T12:44:14Z', 'labels': {'name': 'website'}}
+{'issuenumber': 878, 'title': 'Ensure effects have names', 'state': 'closed', 'created_at': '2019-09-08T19:18:30Z', 'closed_at': '2019-09-10T01:00:36Z', 'labels': []}
+{'issuenumber': 877, 'title': 'API for fetch-effect', 'state': 'closed', 'created_at': '2019-08-26T20:12:10Z', 'closed_at': '2021-02-02T12:35:50Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 876, 'title': 'Proposal: Move TypeScript declaration file (.d.ts) to @types/hyperapp ', 'state': 'closed', 'created_at': '2019-08-20T23:44:38Z', 'closed_at': '2019-08-24T02:45:20Z', 'labels': []}
+{'issuenumber': 875, 'title': 'Renraku', 'state': 'closed', 'created_at': '2019-08-20T17:59:53Z', 'closed_at': '2019-08-20T18:00:16Z', 'labels': []}
+{'issuenumber': 874, 'title': 'Subscriptions/effects signature', 'state': 'closed', 'created_at': '2019-08-16T16:41:00Z', 'closed_at': '2019-08-17T00:22:30Z', 'labels': []}
+{'issuenumber': 871, 'title': 'Example for custom elements', 'state': 'closed', 'created_at': '2019-08-10T04:29:56Z', 'closed_at': '2019-08-10T11:02:18Z', 'labels': []}
+{'issuenumber': 868, 'title': "onAnimationFrame subscription can't be stopped", 'state': 'closed', 'created_at': '2019-08-04T18:38:11Z', 'closed_at': '2019-08-05T03:47:22Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 865, 'title': 'Performance + SEO for starter example', 'state': 'closed', 'created_at': '2019-07-29T20:32:06Z', 'closed_at': '2019-07-30T04:46:14Z', 'labels': []}
+{'issuenumber': 863, 'title': 'app returning state or destroy(kill) func?', 'state': 'closed', 'created_at': '2019-07-27T13:46:31Z', 'closed_at': '2019-07-29T18:30:10Z', 'labels': []}
+{'issuenumber': 861, 'title': 'Hyper does not render', 'state': 'closed', 'created_at': '2019-07-24T09:56:16Z', 'closed_at': '2019-07-24T10:54:33Z', 'labels': []}
+{'issuenumber': 860, 'title': "The requested module 'https://unpkg.com/hyperapp' does not provide an export named 'h'", 'state': 'closed', 'created_at': '2019-07-24T09:32:59Z', 'closed_at': '2019-07-25T06:11:53Z', 'labels': []}
+{'issuenumber': 859, 'title': 'Subscription is restarted when in a dynamic array', 'state': 'closed', 'created_at': '2019-07-04T13:19:41Z', 'closed_at': '2021-01-27T13:26:54Z', 'labels': []}
+{'issuenumber': 857, 'title': 'Infinite loop when subscription immediately dispatches', 'state': 'closed', 'created_at': '2019-07-03T19:50:34Z', 'closed_at': '2019-07-04T08:05:06Z', 'labels': []}
+{'issuenumber': 854, 'title': 'Hyperapp#2 effects signature', 'state': 'closed', 'created_at': '2019-06-28T23:30:01Z', 'closed_at': '2019-06-29T09:26:44Z', 'labels': []}
+{'issuenumber': 851, 'title': 'V2 docs give examples with V1 link', 'state': 'closed', 'created_at': '2019-06-14T18:27:53Z', 'closed_at': '2019-06-15T08:41:27Z', 'labels': []}
+{'issuenumber': 847, 'title': 'Just a doubt regarding the inner workings of setState function', 'state': 'closed', 'created_at': '2019-06-05T03:26:27Z', 'closed_at': '2019-06-05T04:59:36Z', 'labels': []}
+{'issuenumber': 846, 'title': '[Feature] hooks will comming?', 'state': 'closed', 'created_at': '2019-06-02T14:23:35Z', 'closed_at': '2019-06-02T14:39:57Z', 'labels': []}
+{'issuenumber': 845, 'title': 'Typeahead PoC', 'state': 'closed', 'created_at': '2019-05-31T17:18:14Z', 'closed_at': '2021-01-29T16:57:39Z', 'labels': {'name': 'question'}}
+{'issuenumber': 844, 'title': 'Hyperapp#2 deferred render issue ', 'state': 'closed', 'created_at': '2019-05-30T11:00:38Z', 'closed_at': '2019-06-04T18:35:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 843, 'title': 'Update babel details in V2 docs', 'state': 'closed', 'created_at': '2019-05-26T18:12:46Z', 'closed_at': '2019-05-27T16:12:01Z', 'labels': []}
+{'issuenumber': 842, 'title': 'bug for custom elements with children', 'state': 'closed', 'created_at': '2019-05-20T22:20:10Z', 'closed_at': '2019-05-21T09:28:17Z', 'labels': []}
+{'issuenumber': 840, 'title': 'v2: automatically calling functions in component trees ', 'state': 'closed', 'created_at': '2019-05-16T21:03:59Z', 'closed_at': '2019-05-17T05:31:21Z', 'labels': []}
+{'issuenumber': 838, 'title': '[Request] Port Vuepress or Next.js to Hyperapp to show truly how it works', 'state': 'closed', 'created_at': '2019-05-09T14:30:47Z', 'closed_at': '2019-05-09T14:45:55Z', 'labels': []}
+{'issuenumber': 836, 'title': 'Jest failing to import Hyperapp 2.0.0-beta2+', 'state': 'closed', 'created_at': '2019-05-06T02:23:05Z', 'closed_at': '2019-05-07T05:23:42Z', 'labels': []}
+{'issuenumber': 835, 'title': 'Travis build failing', 'state': 'closed', 'created_at': '2019-05-04T15:29:27Z', 'closed_at': '2019-05-06T02:20:09Z', 'labels': []}
+{'issuenumber': 833, 'title': 'Slack Channel', 'state': 'closed', 'created_at': '2019-05-01T16:10:49Z', 'closed_at': '2019-05-01T16:16:21Z', 'labels': []}
+{'issuenumber': 832, 'title': 'How To Reference An Element in V2', 'state': 'closed', 'created_at': '2019-04-30T10:02:51Z', 'closed_at': '2019-04-30T15:31:01Z', 'labels': []}
+{'issuenumber': 830, 'title': 'Consolidate default and custom payload into one payload', 'state': 'closed', 'created_at': '2019-04-23T20:54:10Z', 'closed_at': '2019-05-03T14:48:23Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 829, 'title': 'Direct DOM maniulation', 'state': 'closed', 'created_at': '2019-04-21T03:31:03Z', 'closed_at': '2019-04-21T04:45:29Z', 'labels': []}
+{'issuenumber': 828, 'title': 'Found error when running any hyperapp', 'state': 'closed', 'created_at': '2019-04-19T06:05:09Z', 'closed_at': '2019-04-19T16:13:25Z', 'labels': []}
+{'issuenumber': 827, 'title': '`onupdate` cause infinity rerendering ', 'state': 'closed', 'created_at': '2019-04-19T05:45:46Z', 'closed_at': '2019-04-19T07:10:20Z', 'labels': {'name': 'outdated'}}
+{'issuenumber': 826, 'title': 'Support IE8+', 'state': 'closed', 'created_at': '2019-04-18T09:23:47Z', 'closed_at': '2019-04-18T11:12:35Z', 'labels': []}
+{'issuenumber': 825, 'title': 'Merge subsequent text nodes into one', 'state': 'closed', 'created_at': '2019-04-13T14:40:54Z', 'closed_at': '2019-05-03T15:18:43Z', 'labels': []}
+{'issuenumber': 824, 'title': '[Release] Styled-Components for Hyperapp is here (2.1kb gzipped)', 'state': 'closed', 'created_at': '2019-04-10T14:08:40Z', 'closed_at': '2019-04-24T15:53:21Z', 'labels': []}
+{'issuenumber': 823, 'title': 'TypeScript Parameterized Views', 'state': 'closed', 'created_at': '2019-04-07T08:47:46Z', 'closed_at': '2019-04-07T08:58:02Z', 'labels': []}
+{'issuenumber': 821, 'title': "Wouldn't work with plugins code in documentation -> corrected below", 'state': 'closed', 'created_at': '2019-04-01T10:54:03Z', 'closed_at': '2019-04-01T12:27:09Z', 'labels': []}
+{'issuenumber': 819, 'title': 'js.org Source Annotations Website', 'state': 'closed', 'created_at': '2019-03-24T17:56:43Z', 'closed_at': '2019-07-29T06:41:48Z', 'labels': []}
+{'issuenumber': 817, 'title': 'Hyperapp#v2 Synthetic Events', 'state': 'closed', 'created_at': '2019-03-16T19:47:35Z', 'closed_at': '2019-03-17T03:11:34Z', 'labels': []}
+{'issuenumber': 816, 'title': 'Checkbox broken in v2 alpha', 'state': 'closed', 'created_at': '2019-03-12T19:01:24Z', 'closed_at': '2019-03-12T20:14:32Z', 'labels': []}
+{'issuenumber': 815, 'title': "what's this line of code meaning?", 'state': 'closed', 'created_at': '2019-03-09T12:37:10Z', 'closed_at': '2019-03-09T12:45:30Z', 'labels': []}
+{'issuenumber': 808, 'title': 'Using reactive streaming library', 'state': 'closed', 'created_at': '2019-02-20T18:14:46Z', 'closed_at': '2019-04-24T15:51:33Z', 'labels': []}
+{'issuenumber': 804, 'title': 'oncreate broken in V2?', 'state': 'closed', 'created_at': '2019-02-17T23:31:07Z', 'closed_at': '2019-02-18T00:07:08Z', 'labels': []}
+{'issuenumber': 797, 'title': 'Defining CSS classes inside Hyperapp Components - V2?', 'state': 'closed', 'created_at': '2019-02-09T03:52:28Z', 'closed_at': '2019-02-10T20:01:57Z', 'labels': []}
+{'issuenumber': 796, 'title': "Uncaught TypeError: Cannot read property 'childNodes' of undefined", 'state': 'closed', 'created_at': '2019-01-19T10:22:38Z', 'closed_at': '2019-05-03T15:11:23Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 794, 'title': 'what is it? isSvg = isSvg', 'state': 'closed', 'created_at': '2019-01-13T19:51:52Z', 'closed_at': '2019-01-14T00:48:57Z', 'labels': {'name': 'question'}}
+{'issuenumber': 793, 'title': 'Exporting createElement', 'state': 'closed', 'created_at': '2019-01-12T15:39:13Z', 'closed_at': '2019-03-20T01:51:32Z', 'labels': []}
+{'issuenumber': 792, 'title': 'Question: How can I use React for the view layer in V2?', 'state': 'closed', 'created_at': '2019-01-07T19:45:23Z', 'closed_at': '2019-04-24T15:47:57Z', 'labels': {'name': 'question'}}
+{'issuenumber': 791, 'title': 'How is the v2 progress?', 'state': 'closed', 'created_at': '2019-01-02T02:08:07Z', 'closed_at': '2019-04-24T15:35:23Z', 'labels': {'name': 'question'}}
+{'issuenumber': 790, 'title': 'Example not working', 'state': 'closed', 'created_at': '2018-12-19T11:52:12Z', 'closed_at': '2018-12-19T12:12:51Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 789, 'title': 'Add support to destroy app instance bound to DOM.', 'state': 'closed', 'created_at': '2018-12-15T08:27:40Z', 'closed_at': '2019-07-29T06:41:20Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 788, 'title': 'Sample code could not build with TypeScript 3.2.2.', 'state': 'closed', 'created_at': '2018-12-12T13:48:28Z', 'closed_at': '2019-05-03T15:08:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 785, 'title': 'Components and Fragments?', 'state': 'closed', 'created_at': '2018-12-03T03:04:48Z', 'closed_at': '2019-04-24T15:33:02Z', 'labels': {'name': 'question'}}
+{'issuenumber': 783, 'title': 'How to render different components conditionally?', 'state': 'closed', 'created_at': '2018-11-22T12:16:05Z', 'closed_at': '2018-11-22T13:42:08Z', 'labels': {'name': 'question'}}
+{'issuenumber': 782, 'title': 'Submit type declarations to @types', 'state': 'closed', 'created_at': '2018-11-22T10:44:04Z', 'closed_at': '2018-11-22T12:14:45Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 781, 'title': 'V1 to V2 migration effort ', 'state': 'closed', 'created_at': '2018-11-15T15:14:20Z', 'closed_at': '2018-11-16T03:19:16Z', 'labels': {'name': 'question'}}
+{'issuenumber': 780, 'title': 'Using document as the app container', 'state': 'closed', 'created_at': '2018-11-14T06:37:54Z', 'closed_at': '2019-05-03T14:48:55Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 779, 'title': 'Performance: Pure Vanilla JS VS Hyperapp', 'state': 'closed', 'created_at': '2018-11-12T10:12:19Z', 'closed_at': '2018-11-12T13:30:15Z', 'labels': {'name': 'website'}}
+{'issuenumber': 778, 'title': 'How to handle shared objects?', 'state': 'closed', 'created_at': '2018-11-10T14:58:10Z', 'closed_at': '2019-05-04T05:54:31Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 773, 'title': 'V2 possible modules approach', 'state': 'closed', 'created_at': '2018-10-28T16:10:10Z', 'closed_at': '2019-07-29T06:43:52Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 771, 'title': 'How to pass the state to multiple components?', 'state': 'closed', 'created_at': '2018-10-18T08:25:09Z', 'closed_at': '2018-10-18T13:51:32Z', 'labels': {'name': 'question'}}
+{'issuenumber': 770, 'title': 'Conditional side effects in v2', 'state': 'closed', 'created_at': '2018-10-18T00:23:59Z', 'closed_at': '2019-04-24T15:46:16Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 769, 'title': 'V2 not working well for checkbox', 'state': 'closed', 'created_at': '2018-10-16T08:38:44Z', 'closed_at': '2018-10-17T12:34:10Z', 'labels': {'name': 'question'}}
+{'issuenumber': 768, 'title': 'Async Action does not update', 'state': 'closed', 'created_at': '2018-10-15T13:22:26Z', 'closed_at': '2018-10-15T13:26:53Z', 'labels': []}
+{'issuenumber': 767, 'title': 'Using arrays in state object (Question)', 'state': 'closed', 'created_at': '2018-10-13T17:39:31Z', 'closed_at': '2018-10-14T01:40:28Z', 'labels': {'name': 'question'}}
+{'issuenumber': 766, 'title': 'DOM rendering as a subscription?', 'state': 'closed', 'created_at': '2018-10-09T14:59:33Z', 'closed_at': '2019-05-03T15:01:42Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 765, 'title': 'V2 What if?', 'state': 'closed', 'created_at': '2018-10-03T02:49:52Z', 'closed_at': '2019-04-24T15:42:21Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 763, 'title': 'Calling action in event handler leads to infinite loop', 'state': 'closed', 'created_at': '2018-10-01T16:08:52Z', 'closed_at': '2018-10-02T02:01:49Z', 'labels': {'name': 'outdated'}}
+{'issuenumber': 761, 'title': '"Real World" example implementation?', 'state': 'closed', 'created_at': '2018-09-20T13:41:03Z', 'closed_at': '2018-09-20T13:59:27Z', 'labels': []}
+{'issuenumber': 759, 'title': 'Hyperapp on Best of JavaScript / Move from hyperapp org', 'state': 'closed', 'created_at': '2018-09-15T07:20:42Z', 'closed_at': '2018-09-15T07:39:32Z', 'labels': {'name': 'meta'}}
+{'issuenumber': 756, 'title': 'Support both object and string as value for style attribute.', 'state': 'closed', 'created_at': '2018-09-04T21:59:58Z', 'closed_at': '2018-09-07T13:24:53Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 754, 'title': 'V2 class/className attribute API', 'state': 'closed', 'created_at': '2018-09-01T01:27:29Z', 'closed_at': '2019-05-03T15:06:44Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 753, 'title': 'V2 Middleware API', 'state': 'closed', 'created_at': '2018-08-31T13:33:08Z', 'closed_at': '2019-05-03T15:33:42Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 752, 'title': 'V2 Subscriptions', 'state': 'closed', 'created_at': '2018-08-30T12:09:30Z', 'closed_at': '2019-05-03T15:56:00Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 751, 'title': 'Parameterization of actions in V2', 'state': 'closed', 'created_at': '2018-08-28T23:50:48Z', 'closed_at': '2018-09-07T07:41:54Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 750, 'title': 'V2 Effects', 'state': 'closed', 'created_at': '2018-08-28T14:18:38Z', 'closed_at': '2019-05-03T15:56:20Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 749, 'title': 'V2 Actions', 'state': 'closed', 'created_at': '2018-08-27T08:27:01Z', 'closed_at': '2019-05-03T18:41:13Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 748, 'title': 'V2: Props not passed to effect function', 'state': 'closed', 'created_at': '2018-08-25T00:49:02Z', 'closed_at': '2018-08-27T00:47:45Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 747, 'title': 'State not updated', 'state': 'closed', 'created_at': '2018-08-24T12:57:24Z', 'closed_at': '2018-08-24T18:14:39Z', 'labels': {'name': 'question'}}
+{'issuenumber': 746, 'title': "why the document saying it does't support className while it does ?", 'state': 'closed', 'created_at': '2018-08-23T08:11:00Z', 'closed_at': '2018-08-23T08:51:24Z', 'labels': {'name': 'question'}}
+{'issuenumber': 745, 'title': ' Doubt with the disabled attribute', 'state': 'closed', 'created_at': '2018-08-21T05:02:04Z', 'closed_at': '2018-08-21T14:09:02Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 744, 'title': 'Bug when switching nodes of different types in V2', 'state': 'closed', 'created_at': '2018-08-20T07:17:37Z', 'closed_at': '2018-08-24T16:18:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 743, 'title': "The system emoji picker on OSX (control+cmd+space) doesn't work in hyper", 'state': 'closed', 'created_at': '2018-08-11T15:15:59Z', 'closed_at': '2018-08-11T15:19:59Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 741, 'title': 'Images CDN URL lost on state hydration (on Netlify)', 'state': 'closed', 'created_at': '2018-08-06T14:33:11Z', 'closed_at': '2018-08-27T00:56:51Z', 'labels': []}
+{'issuenumber': 740, 'title': 'What is the best approach to save state for offline usage?', 'state': 'closed', 'created_at': '2018-08-03T13:23:14Z', 'closed_at': '2019-05-03T16:20:50Z', 'labels': {'name': 'question'}}
+{'issuenumber': 738, 'title': 'Typescript questions', 'state': 'closed', 'created_at': '2018-07-31T17:20:08Z', 'closed_at': '2018-08-01T23:13:59Z', 'labels': {'name': 'question'}}
+{'issuenumber': 737, 'title': "Port Superfine's VDOM to Hyperapp V1", 'state': 'closed', 'created_at': '2018-07-31T10:07:18Z', 'closed_at': '2019-04-24T15:41:07Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 736, 'title': 'Lifecycle events in V2', 'state': 'closed', 'created_at': '2018-07-30T11:17:04Z', 'closed_at': '2018-07-31T00:06:09Z', 'labels': {'name': 'question'}}
+{'issuenumber': 735, 'title': 'Export internal dispatch function.', 'state': 'closed', 'created_at': '2018-07-21T12:08:41Z', 'closed_at': '2018-07-22T09:06:24Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 734, 'title': 'V2 docs and examples', 'state': 'closed', 'created_at': '2018-07-19T09:23:30Z', 'closed_at': '2018-08-27T00:58:40Z', 'labels': {'name': 'meta'}}
+{'issuenumber': 733, 'title': 'Add Hyperapp to Custom Elements Everywhere', 'state': 'closed', 'created_at': '2018-07-16T18:57:40Z', 'closed_at': '2018-09-09T13:39:30Z', 'labels': {'name': 'meta'}}
+{'issuenumber': 732, 'title': 'JS universal library (widget, component) based on hyperapp (v1 or v2)', 'state': 'closed', 'created_at': '2018-07-15T18:23:19Z', 'closed_at': '2018-09-09T12:47:05Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 731, 'title': 'There is a pattern that `oncreate` does not work.', 'state': 'closed', 'created_at': '2018-07-15T04:55:27Z', 'closed_at': '2018-07-15T08:31:03Z', 'labels': {'name': 'question'}}
+{'issuenumber': 730, 'title': 'V2 using recursion in the source code', 'state': 'closed', 'created_at': '2018-07-14T16:06:36Z', 'closed_at': '2018-07-14T16:23:16Z', 'labels': {'name': 'question'}}
+{'issuenumber': 729, 'title': 'Click, fetch link and open new', 'state': 'closed', 'created_at': '2018-07-11T16:36:37Z', 'closed_at': '2018-07-12T09:24:57Z', 'labels': {'name': 'question'}}
+{'issuenumber': 728, 'title': 'What is the right way to call something after an action call?', 'state': 'closed', 'created_at': '2018-07-10T12:13:07Z', 'closed_at': '2018-07-12T14:29:31Z', 'labels': {'name': 'question'}}
+{'issuenumber': 724, 'title': 'V2 Component Wishlist', 'state': 'closed', 'created_at': '2018-07-06T12:19:28Z', 'closed_at': '2019-05-03T15:05:20Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 723, 'title': 'IOError thrown by fast `stdout` prints', 'state': 'closed', 'created_at': '2018-07-05T11:54:45Z', 'closed_at': '2018-07-05T11:55:30Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 722, 'title': 'Cycle reverse-i-search in bash shortcut collision', 'state': 'closed', 'created_at': '2018-07-05T11:28:59Z', 'closed_at': '2018-07-05T11:32:02Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 721, 'title': 'V2 Lazy lists/components', 'state': 'closed', 'created_at': '2018-07-03T02:58:43Z', 'closed_at': '2019-05-04T05:49:23Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 720, 'title': 'Built-in animation support?', 'state': 'closed', 'created_at': '2018-07-03T02:29:38Z', 'closed_at': '2018-08-31T13:54:34Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 717, 'title': 'Lifecycle Events. Should they stay or should they go?', 'state': 'closed', 'created_at': '2018-07-02T09:28:40Z', 'closed_at': '2018-08-01T02:32:21Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 714, 'title': 'Type checking for props', 'state': 'closed', 'created_at': '2018-07-01T16:05:06Z', 'closed_at': '2018-07-11T02:06:16Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 713, 'title': 'How To Render View Function Using Router?', 'state': 'closed', 'created_at': '2018-07-01T15:39:14Z', 'closed_at': '2018-07-01T15:39:55Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 712, 'title': 'Full state from the nested action (question)', 'state': 'closed', 'created_at': '2018-06-28T16:47:08Z', 'closed_at': '2018-06-29T04:14:19Z', 'labels': {'name': 'question'}}
+{'issuenumber': 710, 'title': 'Transitions broken in 1.2.6', 'state': 'closed', 'created_at': '2018-06-27T09:26:50Z', 'closed_at': '2019-05-03T14:56:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 709, 'title': 'typescript typings conflict', 'state': 'closed', 'created_at': '2018-06-26T20:25:06Z', 'closed_at': '2018-08-31T13:59:00Z', 'labels': {'name': 'types'}}
+{'issuenumber': 708, 'title': 'Is there a reason why `var` is used instead of `const` in the whole project?', 'state': 'closed', 'created_at': '2018-06-14T13:58:52Z', 'closed_at': '2018-06-14T14:03:41Z', 'labels': {'name': 'question'}}
+{'issuenumber': 707, 'title': 'Standard folder structure/code organisation guidelines for hyper apps', 'state': 'closed', 'created_at': '2018-06-14T07:36:06Z', 'closed_at': '2019-07-29T06:40:37Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 706, 'title': 'how to Create state and properties local to a Components', 'state': 'closed', 'created_at': '2018-06-10T11:11:23Z', 'closed_at': '2018-06-11T00:11:39Z', 'labels': {'name': 'question'}}
+{'issuenumber': 705, 'title': 'HMR with parcel in 1.2.6', 'state': 'closed', 'created_at': '2018-06-09T11:12:05Z', 'closed_at': '2018-06-21T23:53:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 704, 'title': 'Who is using Hyperapp?', 'state': 'closed', 'created_at': '2018-06-04T15:33:46Z', 'closed_at': '2021-01-29T12:58:26Z', 'labels': {'name': 'meta'}}
+{'issuenumber': 703, 'title': 'V2 Middleware API', 'state': 'closed', 'created_at': '2018-05-30T03:53:47Z', 'closed_at': '2018-08-27T12:07:39Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 702, 'title': 'Component libraries?', 'state': 'closed', 'created_at': '2018-05-30T00:58:40Z', 'closed_at': '2019-05-04T06:01:03Z', 'labels': {'name': 'meta'}}
+{'issuenumber': 701, 'title': "Can't update state manually when get data from server", 'state': 'closed', 'created_at': '2018-05-28T15:36:07Z', 'closed_at': '2018-05-29T01:04:55Z', 'labels': {'name': 'question'}}
+{'issuenumber': 696, 'title': 'Roadmap to V2', 'state': 'closed', 'created_at': '2018-05-24T01:53:17Z', 'closed_at': '2018-08-31T14:14:56Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 695, 'title': 'Lazy components cannot return arrays', 'state': 'closed', 'created_at': '2018-05-24T01:08:48Z', 'closed_at': '2018-05-24T02:05:06Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 694, 'title': 'LOGO', 'state': 'closed', 'created_at': '2018-05-23T19:11:44Z', 'closed_at': '2019-04-24T15:55:41Z', 'labels': {'name': 'meta'}}
+{'issuenumber': 692, 'title': 'Info in app.js not rendering in browser', 'state': 'closed', 'created_at': '2018-05-21T16:34:29Z', 'closed_at': '2018-05-24T12:00:00Z', 'labels': {'name': 'question'}}
+{'issuenumber': 691, 'title': "Textarea doesn't update it's value", 'state': 'closed', 'created_at': '2018-05-20T14:06:17Z', 'closed_at': '2018-05-20T15:46:04Z', 'labels': {'name': 'question'}}
+{'issuenumber': 687, 'title': 'undefined element', 'state': 'closed', 'created_at': '2018-05-02T03:52:20Z', 'closed_at': '2018-05-02T05:07:00Z', 'labels': {'name': 'question'}}
+{'issuenumber': 682, 'title': 'Async rendering?', 'state': 'closed', 'created_at': '2018-04-24T05:24:22Z', 'closed_at': '2019-04-20T06:03:44Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 681, 'title': 'Remove onremove event.', 'state': 'closed', 'created_at': '2018-04-23T07:32:14Z', 'closed_at': '2018-04-25T02:21:53Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 680, 'title': 'IE 9: cannot set the SVG requiredFeatures attribute to an empty string or remove the requiredFeatures attribute', 'state': 'closed', 'created_at': '2018-04-22T10:16:18Z', 'closed_at': '2018-06-23T15:43:02Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 678, 'title': 'Does Hyperapp support custom XML namespaces?', 'state': 'closed', 'created_at': '2018-04-08T00:44:07Z', 'closed_at': '2018-06-23T15:51:23Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 677, 'title': 'Defining lifecycle methods when defining a component', 'state': 'closed', 'created_at': '2018-04-07T08:21:52Z', 'closed_at': '2018-08-31T14:38:50Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 673, 'title': 'Has anyone successfully used with Parcel bundler and TSX?', 'state': 'closed', 'created_at': '2018-04-01T15:39:12Z', 'closed_at': '2018-04-02T14:49:46Z', 'labels': []}
+{'issuenumber': 672, 'title': 'RFC: Hyperapp 2.0', 'state': 'closed', 'created_at': '2018-04-01T06:00:37Z', 'closed_at': '2018-07-09T05:29:56Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 665, 'title': 'Building hyperapp as minified es6 module', 'state': 'closed', 'created_at': '2018-03-26T06:27:15Z', 'closed_at': '2018-06-23T15:46:15Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 661, 'title': 'Is it possible to share states between multiple roots?', 'state': 'closed', 'created_at': '2018-03-23T21:51:47Z', 'closed_at': '2018-03-24T03:27:10Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 660, 'title': 'Keyed <input> loses focus when earlier sibling is removed', 'state': 'closed', 'created_at': '2018-03-23T20:54:35Z', 'closed_at': '2018-04-06T14:17:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 658, 'title': 'The problem about patch', 'state': 'closed', 'created_at': '2018-03-23T04:23:29Z', 'closed_at': '2018-03-23T04:24:20Z', 'labels': {'name': 'question'}}
+{'issuenumber': 657, 'title': 'Parcel HMR doubles up event handlers.', 'state': 'closed', 'created_at': '2018-03-22T20:00:36Z', 'closed_at': '2018-03-24T04:58:22Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 656, 'title': 'How to get content for Component?', 'state': 'closed', 'created_at': '2018-03-20T17:20:50Z', 'closed_at': '2018-03-20T17:29:22Z', 'labels': {'name': 'question'}}
+{'issuenumber': 655, 'title': 'Make Components inherit all attributes?', 'state': 'closed', 'created_at': '2018-03-20T15:40:43Z', 'closed_at': '2018-03-20T15:46:58Z', 'labels': {'name': 'question'}}
+{'issuenumber': 654, 'title': "Equivalent to react's setState callback?", 'state': 'closed', 'created_at': '2018-03-19T17:46:09Z', 'closed_at': '2018-03-19T21:38:24Z', 'labels': {'name': 'question'}}
+{'issuenumber': 650, 'title': 'How to structure a simple page from components?', 'state': 'closed', 'created_at': '2018-03-14T10:58:18Z', 'closed_at': '2018-05-20T15:49:48Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 649, 'title': 'Release schedule and docs', 'state': 'closed', 'created_at': '2018-03-14T04:30:48Z', 'closed_at': '2018-03-19T03:49:32Z', 'labels': {'name': 'question'}}
+{'issuenumber': 648, 'title': 'Command+ Tab does not open new tab', 'state': 'closed', 'created_at': '2018-03-13T03:14:30Z', 'closed_at': '2018-03-13T03:15:38Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 645, 'title': 'Support xlink:ref attribute! (#211)', 'state': 'closed', 'created_at': '2018-03-09T09:56:44Z', 'closed_at': '2019-05-03T15:03:56Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 641, 'title': 'Use superfine as a dependency?', 'state': 'closed', 'created_at': '2018-03-06T19:33:46Z', 'closed_at': '2018-05-30T15:09:50Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 637, 'title': 'Is there React Portal concept?', 'state': 'closed', 'created_at': '2018-03-05T16:02:57Z', 'closed_at': '2018-04-03T06:12:29Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 634, 'title': 'Height attribute on img element not working', 'state': 'closed', 'created_at': '2018-03-03T01:45:09Z', 'closed_at': '2019-04-24T15:29:08Z', 'labels': []}
+{'issuenumber': 632, 'title': 'Rename h to createNode.', 'state': 'closed', 'created_at': '2018-03-02T14:46:59Z', 'closed_at': '2018-03-06T19:59:31Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 631, 'title': 'Idiomatic ?', 'state': 'closed', 'created_at': '2018-03-01T20:50:19Z', 'closed_at': '2018-03-02T08:26:44Z', 'labels': {'name': 'question'}}
+{'issuenumber': 630, 'title': 'Sanitization', 'state': 'closed', 'created_at': '2018-03-01T14:18:24Z', 'closed_at': '2018-03-07T15:35:49Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 628, 'title': 'Certain attributes behave differently given the same value', 'state': 'closed', 'created_at': '2018-02-28T20:49:53Z', 'closed_at': '2018-07-18T10:17:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 627, 'title': 'Make container required without exceptions!', 'state': 'closed', 'created_at': '2018-02-28T04:41:53Z', 'closed_at': '2018-02-28T15:42:50Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 622, 'title': 'Assigning to input list property broke again', 'state': 'closed', 'created_at': '2018-02-25T02:56:02Z', 'closed_at': '2018-02-28T10:16:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 617, 'title': 'About supporting string type style', 'state': 'closed', 'created_at': '2018-02-22T07:23:21Z', 'closed_at': '2018-02-22T08:10:44Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 615, 'title': 'Global access to state/actions in actions/components', 'state': 'closed', 'created_at': '2018-02-21T18:00:43Z', 'closed_at': '2018-02-25T09:59:42Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 610, 'title': 'Hyperapp Community Projects', 'state': 'closed', 'created_at': '2018-02-20T17:48:04Z', 'closed_at': '2018-02-23T18:57:35Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 602, 'title': 'How to use routing?', 'state': 'closed', 'created_at': '2018-02-17T10:13:41Z', 'closed_at': '2018-02-17T10:58:00Z', 'labels': {'name': 'question'}}
+{'issuenumber': 601, 'title': 'How to call an action in a different slice from a nested asynchronous action', 'state': 'closed', 'created_at': '2018-02-16T09:13:41Z', 'closed_at': '2018-02-25T16:00:13Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 600, 'title': 'Problematic behavior when trying to implement a Form', 'state': 'closed', 'created_at': '2018-02-15T17:51:47Z', 'closed_at': '2018-02-16T02:42:05Z', 'labels': {'name': 'question'}}
+{'issuenumber': 593, 'title': 'Feature: keeping <head>/<title> up-to-date', 'state': 'closed', 'created_at': '2018-02-13T22:21:54Z', 'closed_at': '2018-02-15T12:19:36Z', 'labels': {'name': 'meta'}}
+{'issuenumber': 588, 'title': 'Hyperapp do not call oncreate handler when view mounted to document.body', 'state': 'closed', 'created_at': '2018-02-12T07:26:31Z', 'closed_at': '2018-02-15T12:58:46Z', 'labels': []}
+{'issuenumber': 587, 'title': 'Possible to mount and unit test individual component?', 'state': 'closed', 'created_at': '2018-02-11T08:24:01Z', 'closed_at': '2018-02-23T19:37:14Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 586, 'title': 'typescript compile error (nested-actions)', 'state': 'closed', 'created_at': '2018-02-11T02:30:58Z', 'closed_at': '2018-02-11T02:37:58Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 585, 'title': 'Examples/Documentation for replacing component local state?', 'state': 'closed', 'created_at': '2018-02-10T21:26:41Z', 'closed_at': '2018-02-15T12:16:21Z', 'labels': {'name': 'question'}}
+{'issuenumber': 584, 'title': "Looks like patch is trying to remove an element that doesn't exist", 'state': 'closed', 'created_at': '2018-02-10T03:39:48Z', 'closed_at': '2018-02-10T07:06:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 581, 'title': 'Keep actions pure by adding controller', 'state': 'closed', 'created_at': '2018-02-02T06:07:23Z', 'closed_at': '2018-02-03T01:19:03Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 578, 'title': 'Change internal VNode data structure.', 'state': 'closed', 'created_at': '2018-01-29T17:22:43Z', 'closed_at': '2018-02-07T15:33:22Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 576, 'title': 'Change action signature from (state, actions) to ({ state, actions })', 'state': 'closed', 'created_at': '2018-01-28T14:10:43Z', 'closed_at': '2018-02-01T12:02:51Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 575, 'title': 'Side effects over-write state changes', 'state': 'closed', 'created_at': '2018-01-27T20:05:44Z', 'closed_at': '2018-01-28T00:04:08Z', 'labels': {'name': 'question'}}
+{'issuenumber': 573, 'title': 'Unify the difficulty of the sample source code', 'state': 'closed', 'created_at': '2018-01-27T06:08:38Z', 'closed_at': '2018-02-01T11:56:28Z', 'labels': {'name': 'question'}}
+{'issuenumber': 572, 'title': 'Some small ideas for the documentation', 'state': 'closed', 'created_at': '2018-01-26T05:25:42Z', 'closed_at': '2018-02-01T11:04:49Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 569, 'title': 'Change component signature from (props, children) to (props) and props.children', 'state': 'closed', 'created_at': '2018-01-23T06:13:10Z', 'closed_at': '2018-06-05T05:09:53Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 567, 'title': 'how to render children elements', 'state': 'closed', 'created_at': '2018-01-23T04:21:47Z', 'closed_at': '2018-01-23T04:31:38Z', 'labels': {'name': 'question'}}
+{'issuenumber': 566, 'title': 'Animations, Transitions & Experiential Sites', 'state': 'closed', 'created_at': '2018-01-22T19:47:17Z', 'closed_at': '2018-06-02T06:14:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 565, 'title': 'Lists', 'state': 'closed', 'created_at': '2018-01-22T12:00:11Z', 'closed_at': '2018-01-22T12:03:54Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 564, 'title': 'Compile JSX right into virtual node objects avoiding `h` function', 'state': 'closed', 'created_at': '2018-01-22T09:31:54Z', 'closed_at': '2018-02-05T04:05:12Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 563, 'title': '@hyperapp namespace for the main library?', 'state': 'closed', 'created_at': '2018-01-21T19:42:11Z', 'closed_at': '2018-01-22T01:40:21Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 561, 'title': 'oncreate not firing and actions not updating state with dynamic views', 'state': 'closed', 'created_at': '2018-01-20T01:11:22Z', 'closed_at': '2018-01-22T15:31:27Z', 'labels': {'name': 'question'}}
+{'issuenumber': 560, 'title': 'No documentation for actions?', 'state': 'closed', 'created_at': '2018-01-17T13:25:00Z', 'closed_at': '2018-01-17T13:29:22Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 557, 'title': 'eslint jsx no-unused-vars', 'state': 'closed', 'created_at': '2018-01-12T10:00:50Z', 'closed_at': '2018-01-12T10:19:53Z', 'labels': {'name': 'question'}}
+{'issuenumber': 555, 'title': "Can't use keys on custom components.", 'state': 'closed', 'created_at': '2018-01-11T07:27:04Z', 'closed_at': '2018-02-08T07:55:25Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 553, 'title': 'Diffing algo. forces re-render with respect to no dependency on state', 'state': 'closed', 'created_at': '2018-01-09T23:58:52Z', 'closed_at': '2018-01-10T11:11:07Z', 'labels': {'name': 'question'}}
+{'issuenumber': 549, 'title': 'problem with asynchronous action', 'state': 'closed', 'created_at': '2018-01-07T20:41:49Z', 'closed_at': '2018-01-08T19:15:09Z', 'labels': []}
+{'issuenumber': 546, 'title': 'Best way to integrate with Material Design Components?', 'state': 'closed', 'created_at': '2018-01-06T17:17:11Z', 'closed_at': '2018-01-08T01:32:57Z', 'labels': {'name': 'question'}}
+{'issuenumber': 545, 'title': 'Broken link in "Docs/Introduction/Hello-World.md" to "virtual node".', 'state': 'closed', 'created_at': '2018-01-06T16:25:48Z', 'closed_at': '2018-01-12T14:41:05Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 544, 'title': 'Calling actions from within an action', 'state': 'closed', 'created_at': '2018-01-06T15:52:08Z', 'closed_at': '2018-01-08T14:45:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 541, 'title': 'Effort for lit-html', 'state': 'closed', 'created_at': '2018-01-05T19:24:42Z', 'closed_at': '2018-01-07T03:11:41Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 540, 'title': 'how to prevent "no state change view render func"     execute', 'state': 'closed', 'created_at': '2018-01-05T06:16:33Z', 'closed_at': '2018-01-05T07:19:34Z', 'labels': {'name': 'question'}}
+{'issuenumber': 539, 'title': 'A fully available project demo', 'state': 'closed', 'created_at': '2018-01-05T02:36:07Z', 'closed_at': '2018-01-05T02:37:19Z', 'labels': {'name': 'question'}}
+{'issuenumber': 538, 'title': 'Using requestAnimationFrame to improve performance on rendering', 'state': 'closed', 'created_at': '2018-01-04T07:55:55Z', 'closed_at': '2018-01-04T08:08:06Z', 'labels': {'name': 'question'}}
+{'issuenumber': 537, 'title': "Don't overwrite old styles when updating nodes with inline styles.", 'state': 'closed', 'created_at': '2018-01-03T15:41:14Z', 'closed_at': '2018-01-04T00:39:59Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 536, 'title': 'conceptual similarity with emotion-js', 'state': 'closed', 'created_at': '2018-01-03T15:12:13Z', 'closed_at': '2018-01-03T15:15:38Z', 'labels': {'name': 'question'}}
+{'issuenumber': 533, 'title': 'Dynamic actions: How to add new actions at runtime?', 'state': 'closed', 'created_at': '2018-01-03T01:47:32Z', 'closed_at': '2018-09-01T06:57:48Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 532, 'title': 'Allow a custom merge method', 'state': 'closed', 'created_at': '2018-01-02T13:32:31Z', 'closed_at': '2018-01-04T23:30:37Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 531, 'title': 'What documentation would you like to see here?', 'state': 'closed', 'created_at': '2018-01-02T11:48:27Z', 'closed_at': '2018-02-01T07:49:14Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 530, 'title': 'Fragment node type to support <></> JSX syntax?', 'state': 'closed', 'created_at': '2018-01-02T10:38:29Z', 'closed_at': '2019-04-24T15:22:55Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 528, 'title': 'Travis is currently having issues with their containers building', 'state': 'closed', 'created_at': '2018-01-01T22:29:59Z', 'closed_at': '2018-01-08T11:33:16Z', 'labels': []}
+{'issuenumber': 524, 'title': '[Question] How to setup Rollup config?', 'state': 'closed', 'created_at': '2017-12-31T22:34:20Z', 'closed_at': '2018-01-01T06:03:56Z', 'labels': {'name': 'question'}}
+{'issuenumber': 523, 'title': 'Preformance benchmarking', 'state': 'closed', 'created_at': '2017-12-31T20:35:22Z', 'closed_at': '2018-01-03T01:41:13Z', 'labels': {'name': 'website'}}
+{'issuenumber': 518, 'title': 'Is there another way to distribute typings.d.ts?', 'state': 'closed', 'created_at': '2017-12-30T07:17:28Z', 'closed_at': '2018-01-03T01:39:55Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 515, 'title': 'Removal of item re-renders the whole list instead of removing a particular node', 'state': 'closed', 'created_at': '2017-12-29T04:23:36Z', 'closed_at': '2017-12-29T04:36:05Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 514, 'title': 'Putting the content of the docs at more logical places.', 'state': 'closed', 'created_at': '2017-12-28T21:07:05Z', 'closed_at': '2017-12-29T00:21:07Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 509, 'title': "svg props don't render", 'state': 'closed', 'created_at': '2017-12-28T09:18:00Z', 'closed_at': '2017-12-28T13:05:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 508, 'title': 'More than one action breaks actions!', 'state': 'closed', 'created_at': '2017-12-27T20:12:42Z', 'closed_at': '2017-12-28T03:06:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 506, 'title': 'I have problem while using parceljs', 'state': 'closed', 'created_at': '2017-12-25T11:13:05Z', 'closed_at': '2017-12-25T12:10:46Z', 'labels': {'name': 'question'}}
+{'issuenumber': 505, 'title': 'Monorepo?', 'state': 'closed', 'created_at': '2017-12-24T04:10:28Z', 'closed_at': '2017-12-30T00:09:58Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 504, 'title': 'oncreate and conditionals', 'state': 'closed', 'created_at': '2017-12-22T08:00:05Z', 'closed_at': '2017-12-22T09:21:28Z', 'labels': {'name': 'question'}}
+{'issuenumber': 503, 'title': 'JSX tag with className attribute render a dom node with both class and className attribute', 'state': 'closed', 'created_at': '2017-12-21T23:05:52Z', 'closed_at': '2017-12-28T15:51:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 501, 'title': 'Add immutability docs', 'state': 'closed', 'created_at': '2017-12-18T20:43:40Z', 'closed_at': '2017-12-28T15:56:51Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 500, 'title': 'Async access to current state, outside actions', 'state': 'closed', 'created_at': '2017-12-18T19:49:13Z', 'closed_at': '2018-01-03T01:40:23Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 499, 'title': 'Rewrite patch algo / improve diffing performance', 'state': 'closed', 'created_at': '2017-12-17T02:05:24Z', 'closed_at': '2018-08-31T14:40:28Z', 'labels': {'name': 'website'}}
+{'issuenumber': 496, 'title': 'Remove ability to defer node removal inside onremove', 'state': 'closed', 'created_at': '2017-12-16T11:54:12Z', 'closed_at': '2017-12-16T17:11:36Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 495, 'title': 'Object.assign and browser support: IE11 y/n?', 'state': 'closed', 'created_at': '2017-12-16T03:28:15Z', 'closed_at': '2017-12-17T02:24:15Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 494, 'title': 'Rewrite in Typescript?', 'state': 'closed', 'created_at': '2017-12-15T03:53:08Z', 'closed_at': '2017-12-18T11:09:16Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 492, 'title': 'Is Hyperapp a library or a framework?', 'state': 'closed', 'created_at': '2017-12-14T08:52:40Z', 'closed_at': '2017-12-27T07:45:39Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 491, 'title': 'Hydration using a HOA or plugin / remove from core! 🥤 ', 'state': 'closed', 'created_at': '2017-12-14T03:41:18Z', 'closed_at': '2017-12-16T17:20:27Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 489, 'title': 'Reduce boilerplate', 'state': 'closed', 'created_at': '2017-12-12T16:45:12Z', 'closed_at': '2017-12-14T19:29:57Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 488, 'title': "What's wrong with this code? 😉", 'state': 'closed', 'created_at': '2017-12-12T04:18:10Z', 'closed_at': '2017-12-13T16:26:17Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 486, 'title': 'What about using ES6 features?', 'state': 'closed', 'created_at': '2017-12-10T11:22:17Z', 'closed_at': '2017-12-10T11:39:00Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 485, 'title': 'The events property was removed?', 'state': 'closed', 'created_at': '2017-12-10T06:24:55Z', 'closed_at': '2017-12-10T09:37:39Z', 'labels': {'name': 'question'}}
+{'issuenumber': 483, 'title': 'Can we export h from app?', 'state': 'closed', 'created_at': '2017-12-09T05:42:16Z', 'closed_at': '2017-12-09T13:54:10Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 481, 'title': 'Change vnode type', 'state': 'closed', 'created_at': '2017-12-09T03:41:20Z', 'closed_at': '2017-12-17T02:46:54Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 479, 'title': 'Introduce models?', 'state': 'closed', 'created_at': '2017-12-08T10:01:29Z', 'closed_at': '2017-12-09T11:34:51Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 477, 'title': 'Combine the concept of state and actions into models 🤯', 'state': 'closed', 'created_at': '2017-12-07T15:37:08Z', 'closed_at': '2017-12-13T16:26:03Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 473, 'title': 'Unsupported Node.js version for CI', 'state': 'closed', 'created_at': '2017-12-02T17:34:48Z', 'closed_at': '2017-12-04T14:19:29Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 472, 'title': 'Should Slices support Array type?', 'state': 'closed', 'created_at': '2017-12-01T08:55:44Z', 'closed_at': '2017-12-09T12:08:34Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 471, 'title': 'How is hyperapp related to picodom?', 'state': 'closed', 'created_at': '2017-11-30T22:12:51Z', 'closed_at': '2017-12-01T01:15:29Z', 'labels': {'name': 'question'}}
+{'issuenumber': 468, 'title': "onremove won't fire for children elements", 'state': 'closed', 'created_at': '2017-11-29T08:34:21Z', 'closed_at': '2017-12-13T09:38:06Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 466, 'title': 'IE 10 Support: Bugs & Fixes', 'state': 'closed', 'created_at': '2017-11-28T07:35:53Z', 'closed_at': '2018-01-12T14:41:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 465, 'title': 'Hyperapp in Typescript?', 'state': 'closed', 'created_at': '2017-11-25T15:37:23Z', 'closed_at': '2017-11-30T13:15:53Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 463, 'title': '`let` over `var`?', 'state': 'closed', 'created_at': '2017-11-23T17:43:09Z', 'closed_at': '2017-11-24T01:10:18Z', 'labels': {'name': 'question'}}
+{'issuenumber': 462, 'title': 'RFC: Should we drop JSX support? 🤪🤯', 'state': 'closed', 'created_at': '2017-11-23T09:35:38Z', 'closed_at': '2017-12-12T13:51:57Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 461, 'title': 'Documentation is out of sync with released version', 'state': 'closed', 'created_at': '2017-11-20T12:35:51Z', 'closed_at': '2017-11-30T13:09:02Z', 'labels': []}
+{'issuenumber': 460, 'title': 'Inaccurate description', 'state': 'closed', 'created_at': '2017-11-18T19:18:06Z', 'closed_at': '2017-11-19T02:25:40Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 452, 'title': 'Generate "nice" documentation from current markdown files', 'state': 'closed', 'created_at': '2017-11-09T11:10:48Z', 'closed_at': '2018-01-03T01:37:13Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 451, 'title': 'Promise reference in core?', 'state': 'closed', 'created_at': '2017-11-09T04:56:57Z', 'closed_at': '2017-11-09T14:31:16Z', 'labels': {'name': 'question'}}
+{'issuenumber': 448, 'title': "0.16.0: Uncaught TypeError: Cannot read property 'preventDefault' of undefined", 'state': 'closed', 'created_at': '2017-11-05T19:25:27Z', 'closed_at': '2017-11-05T20:04:18Z', 'labels': {'name': 'question'}}
+{'issuenumber': 447, 'title': 'Merge actions, state, view and modules', 'state': 'closed', 'created_at': '2017-11-05T15:37:14Z', 'closed_at': '2017-11-05T22:12:06Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 444, 'title': 'Nested actions and sliced state', 'state': 'closed', 'created_at': '2017-11-03T08:37:59Z', 'closed_at': '2017-11-03T08:50:26Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 442, 'title': 'Typings are broken with Typescript 2.6.X', 'state': 'closed', 'created_at': '2017-11-01T18:42:19Z', 'closed_at': '2017-11-09T14:30:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 439, 'title': 'Need to dynamic actions in order to support code splitting', 'state': 'closed', 'created_at': '2017-10-27T20:55:44Z', 'closed_at': '2018-01-03T01:47:38Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 438, 'title': "Fragment state doesn't work when there is a module of the same name", 'state': 'closed', 'created_at': '2017-10-26T23:07:11Z', 'closed_at': '2017-11-04T19:24:26Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 437, 'title': "Updating a module's state using a global action breaks module actions", 'state': 'closed', 'created_at': '2017-10-26T23:01:26Z', 'closed_at': '2017-11-04T18:39:22Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 436, 'title': 'Only implement state slices for modules?', 'state': 'closed', 'created_at': '2017-10-26T17:03:33Z', 'closed_at': '2017-11-03T17:36:01Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 435, 'title': 'Make view easier to use in modules?', 'state': 'closed', 'created_at': '2017-10-26T08:20:55Z', 'closed_at': '2017-11-05T05:08:02Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 434, 'title': 'Best way to store instance specific state for widgets?', 'state': 'closed', 'created_at': '2017-10-25T23:05:36Z', 'closed_at': '2017-11-05T04:03:16Z', 'labels': {'name': 'question'}}
+{'issuenumber': 433, 'title': 'Drop actions and just have update & thunks.', 'state': 'closed', 'created_at': '2017-10-25T11:54:49Z', 'closed_at': '2017-10-25T14:49:17Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 432, 'title': 'Remove update & thunks.', 'state': 'closed', 'created_at': '2017-10-25T11:42:00Z', 'closed_at': '2017-11-04T16:39:21Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 431, 'title': 'Support to dynamically initialize actions inside other actions', 'state': 'closed', 'created_at': '2017-10-25T09:32:19Z', 'closed_at': '2017-11-13T17:27:33Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 430, 'title': 'Tests with ES modules using .mjs without babel.', 'state': 'closed', 'created_at': '2017-10-25T06:29:22Z', 'closed_at': '2017-11-04T20:02:58Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 428, 'title': "Don't perform the same comparison twice", 'state': 'closed', 'created_at': '2017-10-23T22:05:23Z', 'closed_at': '2017-10-24T07:32:45Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 427, 'title': 'Change `update` to `getState`', 'state': 'closed', 'created_at': '2017-10-23T05:49:59Z', 'closed_at': '2017-10-23T06:01:38Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 425, 'title': 'The state should be immutable', 'state': 'closed', 'created_at': '2017-10-21T08:58:54Z', 'closed_at': '2017-11-04T16:39:21Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 423, 'title': 'app(props, container) VS props.container', 'state': 'closed', 'created_at': '2017-10-20T16:57:31Z', 'closed_at': '2017-11-17T02:58:47Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 422, 'title': "Don't lock render before calling view function.", 'state': 'closed', 'created_at': '2017-10-20T01:52:03Z', 'closed_at': '2017-11-04T16:39:21Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 421, 'title': 'Minified UMD source maps broken', 'state': 'closed', 'created_at': '2017-10-18T14:26:51Z', 'closed_at': '2017-11-04T16:41:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 420, 'title': 'Hyperapp throws "length of undefined" when the child component returns an array', 'state': 'closed', 'created_at': '2017-10-18T11:06:04Z', 'closed_at': '2017-11-04T18:35:59Z', 'labels': []}
+{'issuenumber': 419, 'title': 'Updating children props dynamically ignores "0"', 'state': 'closed', 'created_at': '2017-10-18T04:39:09Z', 'closed_at': '2017-11-04T21:00:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 418, 'title': 'Issue with actions re-using the state', 'state': 'closed', 'created_at': '2017-10-14T19:47:54Z', 'closed_at': '2017-10-15T07:07:44Z', 'labels': {'name': 'question'}}
+{'issuenumber': 417, 'title': 'Development build of Hyperapp', 'state': 'closed', 'created_at': '2017-10-12T16:56:30Z', 'closed_at': '2018-09-06T16:00:38Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 416, 'title': 'Cursor location calculations messed up for the past couple of days ', 'state': 'closed', 'created_at': '2017-10-12T12:44:17Z', 'closed_at': '2017-10-12T12:47:10Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 413, 'title': 'Built-in support for HOA: Should it stay or should it go? 🎶', 'state': 'closed', 'created_at': '2017-10-10T05:05:58Z', 'closed_at': '2017-10-10T16:33:37Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 410, 'title': 'Pass root in second argument to app().', 'state': 'closed', 'created_at': '2017-10-08T15:14:28Z', 'closed_at': '2017-10-10T03:19:24Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 409, 'title': 'Enhance typescript definitions', 'state': 'closed', 'created_at': '2017-10-08T11:24:48Z', 'closed_at': '2017-11-04T18:35:12Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 407, 'title': 'Props null when calling components with Jsx', 'state': 'closed', 'created_at': '2017-10-08T10:59:06Z', 'closed_at': '2017-10-08T11:40:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 406, 'title': 'Introduce init and modules.', 'state': 'closed', 'created_at': '2017-10-07T21:11:38Z', 'closed_at': '2017-10-10T10:35:22Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 404, 'title': "Uncaught TypeError: Cannot read property 'key' of undefined", 'state': 'closed', 'created_at': '2017-10-07T12:42:54Z', 'closed_at': '2017-10-10T10:41:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 402, 'title': '0.14.0 breaks the use of CSS Modules?', 'state': 'closed', 'created_at': '2017-10-07T08:03:26Z', 'closed_at': '2017-10-07T08:43:26Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 399, 'title': 'Allow the use of another rendering than DOM', 'state': 'closed', 'created_at': '2017-10-05T12:37:27Z', 'closed_at': '2017-10-07T17:00:18Z', 'labels': []}
+{'issuenumber': 398, 'title': 'Transclusion / Passing Mixings', 'state': 'closed', 'created_at': '2017-10-03T23:09:40Z', 'closed_at': '2017-10-06T04:43:00Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 397, 'title': 'Support for i18n', 'state': 'closed', 'created_at': '2017-10-02T22:00:31Z', 'closed_at': '2017-10-07T10:15:31Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 396, 'title': 'could you show rollup config file?', 'state': 'closed', 'created_at': '2017-10-02T14:19:47Z', 'closed_at': '2017-10-02T14:23:43Z', 'labels': {'name': 'question'}}
+{'issuenumber': 395, 'title': '"h" function breaks if the 1st parameter is an object or a number or null (via flowtype)', 'state': 'closed', 'created_at': '2017-09-29T17:41:47Z', 'closed_at': '2017-09-29T17:55:47Z', 'labels': {'name': 'question'}}
+{'issuenumber': 393, 'title': 'What if a certain element gets changed when the component that generates it changes, but the oncreate callback does not get called?', 'state': 'closed', 'created_at': '2017-09-29T01:40:40Z', 'closed_at': '2017-09-30T04:59:19Z', 'labels': {'name': 'question'}}
+{'issuenumber': 392, 'title': 'HOA — Higher Order Apps', 'state': 'closed', 'created_at': '2017-09-26T13:04:48Z', 'closed_at': '2017-10-06T14:08:26Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 388, 'title': 'Error Handling', 'state': 'closed', 'created_at': '2017-09-24T17:44:43Z', 'closed_at': '2018-02-28T17:05:47Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 387, 'title': 'Rendered view is appended to the `root` element instead of replacing its contents', 'state': 'closed', 'created_at': '2017-09-23T23:19:59Z', 'closed_at': '2017-10-05T19:22:59Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 383, 'title': "Selection doesn't set properly on newly created <select> element.", 'state': 'closed', 'created_at': '2017-09-21T02:27:19Z', 'closed_at': '2017-09-21T07:10:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 382, 'title': 'Allow mixins to export a view and remove render event.', 'state': 'closed', 'created_at': '2017-09-21T01:27:03Z', 'closed_at': '2017-09-22T19:09:25Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 380, 'title': '[RFC] What if hyperapp was just a bit less magical and a bit more transparent?', 'state': 'closed', 'created_at': '2017-09-20T08:49:30Z', 'closed_at': '2017-09-24T17:52:27Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 379, 'title': 'Support Lazy Loading (Dynamic Import)', 'state': 'closed', 'created_at': '2017-09-20T05:51:52Z', 'closed_at': '2017-11-05T16:09:19Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 375, 'title': 'Improve Performance', 'state': 'closed', 'created_at': '2017-09-18T16:23:00Z', 'closed_at': '2017-12-17T02:05:34Z', 'labels': {'name': 'website'}}
+{'issuenumber': 374, 'title': 'Improve Mixins doc', 'state': 'closed', 'created_at': '2017-09-18T09:36:28Z', 'closed_at': '2017-09-25T14:05:31Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 373, 'title': 'How to implement shouldComponentUpdate to increase Performance of complex components?', 'state': 'closed', 'created_at': '2017-09-18T05:47:54Z', 'closed_at': '2017-11-15T20:46:39Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 370, 'title': 'Provide a list of example apps to help build community', 'state': 'closed', 'created_at': '2017-09-17T03:25:56Z', 'closed_at': '2018-02-19T04:12:56Z', 'labels': {'name': 'meta'}}
+{'issuenumber': 369, 'title': 'Add it to microjs', 'state': 'closed', 'created_at': '2017-09-17T02:27:42Z', 'closed_at': '2017-09-25T14:14:48Z', 'labels': {'name': 'meta'}}
+{'issuenumber': 368, 'title': 'Make events.action More Functional', 'state': 'closed', 'created_at': '2017-09-16T18:58:02Z', 'closed_at': '2017-09-25T14:05:31Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 367, 'title': 'Async actions appear to be out of order', 'state': 'closed', 'created_at': '2017-09-15T18:55:24Z', 'closed_at': '2017-09-16T01:35:49Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 365, 'title': '[RFC] Components & Mixin Guidelines', 'state': 'closed', 'created_at': '2017-09-15T05:17:32Z', 'closed_at': '2017-09-26T15:02:11Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 364, 'title': 'Where has SSR support gone?', 'state': 'closed', 'created_at': '2017-09-13T08:57:30Z', 'closed_at': '2017-09-14T03:40:25Z', 'labels': {'name': 'question'}}
+{'issuenumber': 363, 'title': 'Support for components that return Promises', 'state': 'closed', 'created_at': '2017-09-13T07:20:03Z', 'closed_at': '2017-09-15T06:23:39Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 362, 'title': 'Support for components that return arrays', 'state': 'closed', 'created_at': '2017-09-12T08:19:50Z', 'closed_at': '2017-09-28T08:07:50Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 360, 'title': 'No Protections Against XSS Attacks Using innerHTML', 'state': 'closed', 'created_at': '2017-09-10T19:51:05Z', 'closed_at': '2017-09-16T04:37:50Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 359, 'title': 'Travis CI not being triggered properly?', 'state': 'closed', 'created_at': '2017-09-10T11:42:38Z', 'closed_at': '2017-09-11T00:20:34Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 357, 'title': 'onremove() should return a promise for actually removing the element', 'state': 'closed', 'created_at': '2017-09-09T03:12:09Z', 'closed_at': '2017-10-05T19:22:59Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 356, 'title': 'to render the app with custom root, that element MUST have at least a child', 'state': 'closed', 'created_at': '2017-09-08T13:47:49Z', 'closed_at': '2017-09-08T15:14:50Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 354, 'title': 'Seems that we should use both `prepublish` and `prepare` for npm5 and npm3', 'state': 'closed', 'created_at': '2017-09-08T13:40:43Z', 'closed_at': '2017-09-08T15:00:54Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 353, 'title': 'Rename exported global from `hyperapp` to `Hyperapp`.', 'state': 'closed', 'created_at': '2017-09-04T16:08:07Z', 'closed_at': '2017-09-05T18:19:00Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 352, 'title': 'Naming conventions for hyperapp module authors.', 'state': 'closed', 'created_at': '2017-09-04T16:06:06Z', 'closed_at': '2017-09-05T18:18:07Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 351, 'title': 'Can i use it with just node.js?', 'state': 'closed', 'created_at': '2017-09-03T09:57:50Z', 'closed_at': '2017-09-03T15:39:22Z', 'labels': {'name': 'question'}}
+{'issuenumber': 350, 'title': '"Try it online" codepen link in the docs is down', 'state': 'closed', 'created_at': '2017-09-02T17:55:31Z', 'closed_at': '2017-09-02T18:03:00Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 349, 'title': 'Pass emit to events and make mixins either a function or object.', 'state': 'closed', 'created_at': '2017-09-02T09:28:23Z', 'closed_at': '2017-09-03T15:40:17Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 346, 'title': 'Forbid lazy state return.', 'state': 'closed', 'created_at': '2017-08-31T14:55:27Z', 'closed_at': '2017-09-02T16:22:20Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 344, 'title': 'How does actions change the state?', 'state': 'closed', 'created_at': '2017-08-29T23:19:09Z', 'closed_at': '2017-08-31T15:14:54Z', 'labels': {'name': 'question'}}
+{'issuenumber': 341, 'title': 'Source Code Comments Anyone?', 'state': 'closed', 'created_at': '2017-08-27T09:50:49Z', 'closed_at': '2018-01-09T17:10:59Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 340, 'title': 'API adjustments needed', 'state': 'closed', 'created_at': '2017-08-27T08:30:41Z', 'closed_at': '2017-08-27T23:47:57Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 334, 'title': 'allow for namespacing or nesting of events', 'state': 'closed', 'created_at': '2017-08-19T06:52:10Z', 'closed_at': '2017-08-21T03:07:41Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 333, 'title': '[question] deep state, destructuring & action verbosity/DRY', 'state': 'closed', 'created_at': '2017-08-18T17:50:33Z', 'closed_at': '2017-09-25T14:05:30Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 331, 'title': 'How do you communicate between multiple components?', 'state': 'closed', 'created_at': '2017-08-17T14:19:37Z', 'closed_at': '2017-08-18T00:53:06Z', 'labels': {'name': 'question'}}
+{'issuenumber': 329, 'title': 'Invert mixin initialization order.', 'state': 'closed', 'created_at': '2017-08-16T17:21:39Z', 'closed_at': '2017-08-18T02:57:17Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 324, 'title': 'load or loaded', 'state': 'closed', 'created_at': '2017-08-11T20:12:53Z', 'closed_at': '2017-08-12T18:53:53Z', 'labels': []}
+{'issuenumber': 322, 'title': 'Add some notes about keys', 'state': 'closed', 'created_at': '2017-08-08T18:20:59Z', 'closed_at': '2017-08-12T18:54:39Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 320, 'title': '[question] how to use third party libraries that modify the DOM', 'state': 'closed', 'created_at': '2017-07-30T14:55:10Z', 'closed_at': '2017-07-30T15:32:47Z', 'labels': {'name': 'question'}}
+{'issuenumber': 319, 'title': 'Re-purpose / reuse root for SSR hydration / prerendering.', 'state': 'closed', 'created_at': '2017-07-30T13:25:03Z', 'closed_at': '2017-08-09T10:54:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 318, 'title': 'Crashes Without View', 'state': 'closed', 'created_at': '2017-07-30T11:23:44Z', 'closed_at': '2017-08-09T10:54:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 310, 'title': 'Removing Elements/Nodes Asynchronously(?)', 'state': 'closed', 'created_at': '2017-07-21T18:21:30Z', 'closed_at': '2017-07-24T15:23:28Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 306, 'title': 'Drawing on canvas or Refs and the DOM', 'state': 'closed', 'created_at': '2017-07-19T07:59:45Z', 'closed_at': '2017-07-19T11:09:43Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 303, 'title': 'Question: Do you support immutable.js for the state?', 'state': 'closed', 'created_at': '2017-07-16T16:02:52Z', 'closed_at': '2017-07-16T16:25:11Z', 'labels': {'name': 'question'}}
+{'issuenumber': 302, 'title': 'More docs for mixins', 'state': 'closed', 'created_at': '2017-07-15T13:07:20Z', 'closed_at': '2017-07-16T14:32:12Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 301, 'title': 'Undefined element after initial patch', 'state': 'closed', 'created_at': '2017-07-14T23:54:24Z', 'closed_at': '2017-07-15T02:22:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 300, 'title': 'Keyed benchmark comparison', 'state': 'closed', 'created_at': '2017-07-14T15:28:28Z', 'closed_at': '2017-07-16T15:04:38Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 299, 'title': 'Namespacing wrong when adding children to SVG tag', 'state': 'closed', 'created_at': '2017-07-14T15:25:05Z', 'closed_at': '2017-07-16T14:28:22Z', 'labels': []}
+{'issuenumber': 298, 'title': 'A problem with the TodoMVC demo', 'state': 'closed', 'created_at': '2017-07-14T01:00:26Z', 'closed_at': '2017-07-14T01:46:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 296, 'title': 'Algernon 1.5 specifically supports HyperApp', 'state': 'closed', 'created_at': '2017-07-13T17:25:58Z', 'closed_at': '2017-07-16T14:22:24Z', 'labels': {'name': 'meta'}}
+{'issuenumber': 295, 'title': 'Idea for hyperapp router', 'state': 'closed', 'created_at': '2017-07-13T08:40:49Z', 'closed_at': '2017-08-16T16:31:07Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 294, 'title': 'Containers? Yay/nay?', 'state': 'closed', 'created_at': '2017-07-12T08:35:42Z', 'closed_at': '2017-07-15T23:51:17Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 293, 'title': '[Examples] Cool project, but the FX+SUBS example is potentially dangerous...', 'state': 'closed', 'created_at': '2017-07-12T08:02:32Z', 'closed_at': '2017-07-12T14:01:43Z', 'labels': {'name': 'meta'}}
+{'issuenumber': 291, 'title': 'Array as state is cast to Object', 'state': 'closed', 'created_at': '2017-07-11T07:55:32Z', 'closed_at': '2017-07-16T14:42:31Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 287, 'title': "Make emit's return behavior official", 'state': 'closed', 'created_at': '2017-07-06T13:11:57Z', 'closed_at': '2017-07-06T13:25:39Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 285, 'title': 'app(...) does not return emit', 'state': 'closed', 'created_at': '2017-07-05T21:45:24Z', 'closed_at': '2017-07-07T12:57:32Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 284, 'title': '"ready" event not firing ', 'state': 'closed', 'created_at': '2017-07-05T20:29:26Z', 'closed_at': '2017-07-05T21:02:35Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 278, 'title': 'Rename appOptions.events to appOptions.on', 'state': 'closed', 'created_at': '2017-07-04T10:45:33Z', 'closed_at': '2017-07-04T13:59:45Z', 'labels': []}
+{'issuenumber': 277, 'title': 'Revamp events/emit API.', 'state': 'closed', 'created_at': '2017-07-04T07:12:25Z', 'closed_at': '2017-07-04T10:59:53Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 272, 'title': '⚡️ Ideas for useful mixins', 'state': 'closed', 'created_at': '2017-07-03T02:44:43Z', 'closed_at': '2017-07-15T23:59:10Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 271, 'title': 'Rename custom tags to Components', 'state': 'closed', 'created_at': '2017-07-03T01:01:24Z', 'closed_at': '2017-07-05T13:44:21Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 270, 'title': 'Animation or setState', 'state': 'closed', 'created_at': '2017-07-02T20:06:29Z', 'closed_at': '2017-07-03T06:56:51Z', 'labels': {'name': 'question'}}
+{'issuenumber': 269, 'title': 'Scope mixins', 'state': 'closed', 'created_at': '2017-07-02T17:03:51Z', 'closed_at': '2017-07-03T11:38:44Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 268, 'title': 'Extend components', 'state': 'closed', 'created_at': '2017-07-02T06:45:47Z', 'closed_at': '2017-07-02T07:42:58Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 265, 'title': 'Add CONTRIBUTING', 'state': 'closed', 'created_at': '2017-06-30T15:39:02Z', 'closed_at': '2017-07-16T15:03:36Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 264, 'title': 'How to build an electron app using HyperApp?', 'state': 'closed', 'created_at': '2017-06-30T15:04:09Z', 'closed_at': '2017-07-06T03:08:42Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 258, 'title': 'Suggestion add default units for style props', 'state': 'closed', 'created_at': '2017-06-29T08:03:12Z', 'closed_at': '2017-07-05T15:37:00Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 257, 'title': 'SSR', 'state': 'closed', 'created_at': '2017-06-29T03:30:46Z', 'closed_at': '2017-07-09T17:10:06Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 254, 'title': 'Using hyperapp without JSX?', 'state': 'closed', 'created_at': '2017-06-28T17:23:19Z', 'closed_at': '2017-06-29T03:58:59Z', 'labels': []}
+{'issuenumber': 252, 'title': 'Reduce file size by 666 bytes', 'state': 'closed', 'created_at': '2017-06-27T19:48:17Z', 'closed_at': '2017-06-28T01:08:35Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 251, 'title': 'How to test an hyperapp ?', 'state': 'closed', 'created_at': '2017-06-27T14:52:24Z', 'closed_at': '2017-06-29T07:30:28Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 250, 'title': 'Async Routing', 'state': 'closed', 'created_at': '2017-06-27T01:10:06Z', 'closed_at': '2017-07-01T17:14:58Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 249, 'title': 'HMR', 'state': 'closed', 'created_at': '2017-06-27T00:21:34Z', 'closed_at': '2017-07-09T20:07:00Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 248, 'title': 'Small issue with the doc', 'state': 'closed', 'created_at': '2017-06-26T09:06:32Z', 'closed_at': '2017-06-27T00:10:53Z', 'labels': []}
+{'issuenumber': 246, 'title': 'hyperapp-hmr and hyperapp-webpack-hmr', 'state': 'closed', 'created_at': '2017-06-26T06:12:28Z', 'closed_at': '2017-06-27T00:54:59Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 244, 'title': 'Road to 1.0', 'state': 'closed', 'created_at': '2017-06-25T04:25:05Z', 'closed_at': '2017-12-26T15:24:46Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 242, 'title': 'Access current state in onremove?', 'state': 'closed', 'created_at': '2017-06-22T11:10:17Z', 'closed_at': '2017-06-24T23:20:18Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 240, 'title': 'Integrated size and perf tests ', 'state': 'closed', 'created_at': '2017-06-21T18:34:22Z', 'closed_at': '2017-07-05T19:37:06Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 238, 'title': 'Components', 'state': 'closed', 'created_at': '2017-06-21T03:56:02Z', 'closed_at': '2017-07-01T21:07:20Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 235, 'title': 'components', 'state': 'closed', 'created_at': '2017-06-16T18:38:34Z', 'closed_at': '2017-06-18T03:11:05Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 232, 'title': 'Unicode Char', 'state': 'closed', 'created_at': '2017-06-14T19:27:15Z', 'closed_at': '2017-06-14T20:12:16Z', 'labels': []}
+{'issuenumber': 228, 'title': "Router's replace action", 'state': 'closed', 'created_at': '2017-06-06T08:18:21Z', 'closed_at': '2017-07-01T17:14:15Z', 'labels': []}
+{'issuenumber': 227, 'title': "Maybe it's good to thanks `Picodom` while `picodom` uses MIT License", 'state': 'closed', 'created_at': '2017-06-06T04:12:48Z', 'closed_at': '2017-06-06T05:19:17Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 225, 'title': 'HyperApp vs Mithril', 'state': 'closed', 'created_at': '2017-06-05T13:20:40Z', 'closed_at': '2017-06-25T04:21:30Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 221, 'title': 'Examples on Github ?', 'state': 'closed', 'created_at': '2017-05-31T16:22:36Z', 'closed_at': '2017-07-02T20:41:41Z', 'labels': []}
+{'issuenumber': 219, 'title': 'Fragmented State', 'state': 'closed', 'created_at': '2017-05-28T06:03:27Z', 'closed_at': '2017-06-25T04:18:51Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 218, 'title': "Updating the state inside an element's oncreate event fails.", 'state': 'closed', 'created_at': '2017-05-26T01:59:46Z', 'closed_at': '2017-07-05T14:36:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 216, 'title': 'Appending rows to a large table.', 'state': 'closed', 'created_at': '2017-05-25T02:53:42Z', 'closed_at': '2017-07-09T17:22:10Z', 'labels': {'name': 'website'}}
+{'issuenumber': 215, 'title': 'Router Error when using lifecycle onupdate', 'state': 'closed', 'created_at': '2017-05-21T15:44:23Z', 'closed_at': '2017-06-04T08:30:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 210, 'title': 'Managing Complex State', 'state': 'closed', 'created_at': '2017-05-13T22:43:07Z', 'closed_at': '2017-06-21T12:54:36Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 209, 'title': 'Support for xlink:href', 'state': 'closed', 'created_at': '2017-05-11T21:51:22Z', 'closed_at': '2017-05-21T11:06:21Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 208, 'title': 'oncreate appears to be broken', 'state': 'closed', 'created_at': '2017-05-09T22:12:16Z', 'closed_at': '2017-05-26T02:00:03Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 196, 'title': 'commit workflow', 'state': 'closed', 'created_at': '2017-04-26T15:26:09Z', 'closed_at': '2017-04-26T15:51:13Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 194, 'title': 'Rename plugins to mixins.', 'state': 'closed', 'created_at': '2017-04-24T10:16:20Z', 'closed_at': '2017-06-16T13:53:36Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 192, 'title': 'Make emit an action instead of a wandering function.', 'state': 'closed', 'created_at': '2017-04-20T08:53:46Z', 'closed_at': '2017-04-20T08:57:13Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 190, 'title': 'Normalize actions/events signatures.', 'state': 'closed', 'created_at': '2017-04-19T09:25:08Z', 'closed_at': '2017-04-29T10:09:59Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 189, 'title': 'Rename plugins', 'state': 'closed', 'created_at': '2017-04-18T19:16:21Z', 'closed_at': '2017-04-24T06:34:53Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 185, 'title': "Don't process nested children", 'state': 'closed', 'created_at': '2017-04-14T19:10:24Z', 'closed_at': '2017-04-15T16:04:56Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 183, 'title': 'Optimizing h', 'state': 'closed', 'created_at': '2017-04-14T17:11:26Z', 'closed_at': '2017-08-09T10:53:41Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 182, 'title': 'Performance facility', 'state': 'closed', 'created_at': '2017-04-14T09:50:43Z', 'closed_at': '2017-04-15T15:58:40Z', 'labels': []}
+{'issuenumber': 180, 'title': 'Add onChange ', 'state': 'closed', 'created_at': '2017-04-12T07:00:48Z', 'closed_at': '2017-04-12T07:50:46Z', 'labels': []}
+{'issuenumber': 179, 'title': 'input readonly list-attribute ', 'state': 'closed', 'created_at': '2017-04-07T17:29:07Z', 'closed_at': '2017-04-15T12:46:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 176, 'title': 'Remove Router from core?', 'state': 'closed', 'created_at': '2017-04-02T19:07:37Z', 'closed_at': '2017-07-01T19:01:22Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 175, 'title': "element.setAttribute('onclick', ...) ???", 'state': 'closed', 'created_at': '2017-04-01T14:51:05Z', 'closed_at': '2017-04-03T08:15:31Z', 'labels': []}
+{'issuenumber': 174, 'title': 'Merge hooks and subscriptions into "events".', 'state': 'closed', 'created_at': '2017-03-30T14:16:46Z', 'closed_at': '2017-04-15T12:16:10Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 173, 'title': 'Rename model to state.', 'state': 'closed', 'created_at': '2017-03-30T11:00:08Z', 'closed_at': '2017-04-13T04:37:27Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 171, 'title': 'Remove deferring of lifecycle events', 'state': 'closed', 'created_at': '2017-03-25T06:05:44Z', 'closed_at': '2017-04-16T03:01:49Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 170, 'title': 'dangerouslySetInnerHTML?', 'state': 'closed', 'created_at': '2017-03-21T18:07:08Z', 'closed_at': '2017-03-25T03:40:23Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 169, 'title': 'Can you use the Class to define the Action layer ？', 'state': 'closed', 'created_at': '2017-03-21T04:56:47Z', 'closed_at': '2017-03-21T06:50:30Z', 'labels': []}
+{'issuenumber': 168, 'title': 'React native', 'state': 'closed', 'created_at': '2017-03-19T07:21:06Z', 'closed_at': '2017-05-13T11:50:17Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 167, 'title': "Using the object's hashcode avoid duplication of rendering", 'state': 'closed', 'created_at': '2017-03-18T09:36:48Z', 'closed_at': '2017-04-16T03:20:48Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 166, 'title': 'Add linting script', 'state': 'closed', 'created_at': '2017-03-17T20:45:51Z', 'closed_at': '2017-04-19T14:14:08Z', 'labels': []}
+{'issuenumber': 165, 'title': 'Move docs to repo.', 'state': 'closed', 'created_at': '2017-03-16T01:57:38Z', 'closed_at': '2017-03-19T02:57:23Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 164, 'title': 'Lifecycle Methods - Integration Example', 'state': 'closed', 'created_at': '2017-03-15T21:06:14Z', 'closed_at': '2017-03-22T20:27:23Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 163, 'title': 'Why are you converting inline events to event listeners?', 'state': 'closed', 'created_at': '2017-03-15T08:31:06Z', 'closed_at': '2017-03-16T04:05:51Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 162, 'title': 'Rework Actions', 'state': 'closed', 'created_at': '2017-03-15T02:00:29Z', 'closed_at': '2017-04-16T03:28:08Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 161, 'title': 'onclick firing on wrong elements', 'state': 'closed', 'created_at': '2017-03-15T01:31:03Z', 'closed_at': '2017-03-15T21:07:11Z', 'labels': []}
+{'issuenumber': 160, 'title': "Events Don't Get Removed When Re-Using An Element", 'state': 'closed', 'created_at': '2017-03-13T00:05:56Z', 'closed_at': '2017-03-16T04:07:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 159, 'title': 'What about setState?', 'state': 'closed', 'created_at': '2017-03-12T22:50:59Z', 'closed_at': '2017-03-15T02:06:56Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 158, 'title': 'Actions break when returning null', 'state': 'closed', 'created_at': '2017-03-12T14:55:00Z', 'closed_at': '2017-03-16T04:05:51Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 157, 'title': '"Cleaning" after replaceChild', 'state': 'closed', 'created_at': '2017-03-12T14:44:04Z', 'closed_at': '2017-05-10T15:35:45Z', 'labels': []}
+{'issuenumber': 156, 'title': 'Is onUpdate correct?', 'state': 'closed', 'created_at': '2017-03-11T15:21:51Z', 'closed_at': '2017-07-16T14:28:59Z', 'labels': []}
+{'issuenumber': 155, 'title': 'Refactor SVG out h and into app', 'state': 'closed', 'created_at': '2017-03-11T06:25:19Z', 'closed_at': '2017-03-11T09:03:59Z', 'labels': []}
+{'issuenumber': 154, 'title': "user guide of hyperapp in the gitbook can't access (404)", 'state': 'closed', 'created_at': '2017-03-11T02:31:22Z', 'closed_at': '2017-03-11T02:58:36Z', 'labels': []}
+{'issuenumber': 153, 'title': 'Create a new tagged template string vnode factory function: Codename: hypertag', 'state': 'closed', 'created_at': '2017-03-11T02:23:31Z', 'closed_at': '2017-06-04T05:57:12Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 152, 'title': 'Enable npm install of forked hyperapp versions', 'state': 'closed', 'created_at': '2017-03-10T15:22:45Z', 'closed_at': '2017-03-13T19:31:29Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 149, 'title': 'Declare browser support ', 'state': 'closed', 'created_at': '2017-03-09T15:19:39Z', 'closed_at': '2017-05-10T15:37:29Z', 'labels': []}
+{'issuenumber': 148, 'title': 'Make app composable', 'state': 'closed', 'created_at': '2017-03-09T15:15:12Z', 'closed_at': '2017-05-10T15:39:30Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 147, 'title': 'local state for a select box', 'state': 'closed', 'created_at': '2017-03-09T14:16:20Z', 'closed_at': '2017-07-09T17:29:54Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 146, 'title': 'Website? ⚡️', 'state': 'closed', 'created_at': '2017-03-09T13:46:29Z', 'closed_at': '2017-07-16T14:38:43Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 145, 'title': 'optimize hyperapp h() calls ', 'state': 'closed', 'created_at': '2017-03-08T23:21:24Z', 'closed_at': '2017-03-09T04:30:30Z', 'labels': []}
+{'issuenumber': 144, 'title': 'Add hook to router', 'state': 'closed', 'created_at': '2017-03-08T22:17:30Z', 'closed_at': '2017-04-15T16:26:18Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 143, 'title': 'Should plugins allow extending view and plugins?', 'state': 'closed', 'created_at': '2017-03-08T16:34:28Z', 'closed_at': '2017-03-08T20:38:06Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 138, 'title': 'Router does not accept dashed in dynamic path segments', 'state': 'closed', 'created_at': '2017-03-07T07:15:11Z', 'closed_at': '2017-03-09T04:44:55Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 136, 'title': 'Router with hyperx', 'state': 'closed', 'created_at': '2017-03-06T17:05:30Z', 'closed_at': '2017-03-07T15:33:29Z', 'labels': []}
+{'issuenumber': 132, 'title': "does hyperapp's virtual dom support keyed children?", 'state': 'closed', 'created_at': '2017-03-06T10:18:44Z', 'closed_at': '2017-03-08T06:03:35Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 129, 'title': 'Standalone vdom from hyperapp', 'state': 'closed', 'created_at': '2017-03-05T18:28:19Z', 'closed_at': '2017-03-07T15:16:44Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 128, 'title': 'Children appended to script element when using root: document.body', 'state': 'closed', 'created_at': '2017-03-05T18:06:21Z', 'closed_at': '2017-03-07T15:40:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 126, 'title': 'What if it was only actions?', 'state': 'closed', 'created_at': '2017-03-04T06:12:53Z', 'closed_at': '2017-03-05T05:13:24Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 125, 'title': 'Using yo-yo elements (or other native DOM) in a Hyperapp view', 'state': 'closed', 'created_at': '2017-03-03T18:14:44Z', 'closed_at': '2017-03-07T15:37:31Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 123, 'title': 'Why handle className?', 'state': 'closed', 'created_at': '2017-03-02T12:17:14Z', 'closed_at': '2017-03-02T12:26:37Z', 'labels': []}
+{'issuenumber': 121, 'title': 'onRoute hooks?', 'state': 'closed', 'created_at': '2017-03-01T05:52:03Z', 'closed_at': '2017-03-20T19:02:20Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 120, 'title': 'Middleware/Plugin API', 'state': 'closed', 'created_at': '2017-02-28T12:15:26Z', 'closed_at': '2017-03-07T08:02:37Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 117, 'title': 'prevent images and iframes reloading on patch?', 'state': 'closed', 'created_at': '2017-02-27T12:42:18Z', 'closed_at': '2017-04-15T16:31:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 116, 'title': 'Question about jsx and props.children', 'state': 'closed', 'created_at': '2017-02-27T08:42:52Z', 'closed_at': '2017-02-28T03:40:15Z', 'labels': []}
+{'issuenumber': 114, 'title': 'Nested model reducer question', 'state': 'closed', 'created_at': '2017-02-27T01:47:49Z', 'closed_at': '2017-02-27T19:27:29Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 112, 'title': 'Question about onremove', 'state': 'closed', 'created_at': '2017-02-26T00:58:44Z', 'closed_at': '2017-08-09T10:54:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 111, 'title': 'effects are magically part of reducers', 'state': 'closed', 'created_at': '2017-02-25T19:30:12Z', 'closed_at': '2017-02-25T19:47:29Z', 'labels': []}
+{'issuenumber': 110, 'title': 'Logo', 'state': 'closed', 'created_at': '2017-02-24T14:34:00Z', 'closed_at': '2017-03-07T06:40:08Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 109, 'title': 'Router catch all? handling 404s.', 'state': 'closed', 'created_at': '2017-02-24T09:36:56Z', 'closed_at': '2017-03-04T18:07:28Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 108, 'title': 'Allow h to receive children as the second argument.', 'state': 'closed', 'created_at': '2017-02-23T14:58:37Z', 'closed_at': '2017-03-03T11:10:38Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 107, 'title': 'Consider adding a code of conduct.', 'state': 'closed', 'created_at': '2017-02-22T14:32:27Z', 'closed_at': '2017-03-07T15:35:48Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 106, 'title': 'Let effects return the `actions` object', 'state': 'closed', 'created_at': '2017-02-22T11:02:59Z', 'closed_at': '2017-03-03T11:11:19Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 105, 'title': "If there's only one subscription, let subscriptions be either a function or an array", 'state': 'closed', 'created_at': '2017-02-22T09:00:37Z', 'closed_at': '2017-02-26T07:11:24Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 104, 'title': 'Router - what code do I need on the server?', 'state': 'closed', 'created_at': '2017-02-22T02:40:00Z', 'closed_at': '2017-02-22T13:37:04Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 103, 'title': 'Mobx support?', 'state': 'closed', 'created_at': '2017-02-21T20:08:59Z', 'closed_at': '2017-03-07T15:22:08Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 102, 'title': 'Gestures for Hyperapp', 'state': 'closed', 'created_at': '2017-02-21T19:20:21Z', 'closed_at': '2017-03-07T15:20:06Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 101, 'title': 'How to implement constraints for reducers, etc.', 'state': 'closed', 'created_at': '2017-02-21T16:10:37Z', 'closed_at': '2017-02-21T19:03:27Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 100, 'title': 'Handle null nodes', 'state': 'closed', 'created_at': '2017-02-20T19:10:16Z', 'closed_at': '2017-02-21T13:16:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 99, 'title': '&& -> TypeError: replaceChild', 'state': 'closed', 'created_at': '2017-02-20T18:31:42Z', 'closed_at': '2017-02-21T13:16:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 98, 'title': "Uncaught TypeError: Cannot read property 'replaceChild' of undefined", 'state': 'closed', 'created_at': '2017-02-20T10:20:12Z', 'closed_at': '2017-02-21T16:07:09Z', 'labels': []}
+{'issuenumber': 95, 'title': 'Undefined Parameter Causes Crash', 'state': 'closed', 'created_at': '2017-02-16T14:26:53Z', 'closed_at': '2017-02-17T10:36:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 94, 'title': "onCreate doesn't work, but onClick does", 'state': 'closed', 'created_at': '2017-02-15T19:43:50Z', 'closed_at': '2017-11-13T09:18:45Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 93, 'title': '{...props} causes TypeError', 'state': 'closed', 'created_at': '2017-02-15T19:14:14Z', 'closed_at': '2017-02-18T06:13:10Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 92, 'title': 'TypeError when using &&', 'state': 'closed', 'created_at': '2017-02-15T19:01:14Z', 'closed_at': '2017-02-17T10:37:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 91, 'title': 'Change update to reducers', 'state': 'closed', 'created_at': '2017-02-15T17:54:31Z', 'closed_at': '2017-02-17T10:37:07Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 90, 'title': 'Should we care about requestAnimationFrame?', 'state': 'closed', 'created_at': '2017-02-15T09:05:37Z', 'closed_at': '2017-07-06T21:34:01Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 88, 'title': 'Can I use hyperapp with trueadm/t7 template function (rel. hyperx)', 'state': 'closed', 'created_at': '2017-02-14T18:04:27Z', 'closed_at': '2017-07-01T18:10:42Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 87, 'title': 'Add typings', 'state': 'closed', 'created_at': '2017-02-14T16:35:23Z', 'closed_at': '2017-07-16T14:39:55Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 86, 'title': 'Use ES6 module export/import ', 'state': 'closed', 'created_at': '2017-02-14T03:09:28Z', 'closed_at': '2017-02-14T21:27:31Z', 'labels': []}
+{'issuenumber': 85, 'title': 'Both className and class attributes created.', 'state': 'closed', 'created_at': '2017-02-12T22:08:53Z', 'closed_at': '2017-03-05T05:58:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 83, 'title': 'Extract Hyperx from core', 'state': 'closed', 'created_at': '2017-02-12T17:24:18Z', 'closed_at': '2017-02-13T02:48:17Z', 'labels': []}
+{'issuenumber': 82, 'title': 'How to use function for composition', 'state': 'closed', 'created_at': '2017-02-12T01:09:08Z', 'closed_at': '2017-02-17T10:43:30Z', 'labels': []}
+{'issuenumber': 81, 'title': 'Push new release', 'state': 'closed', 'created_at': '2017-02-11T17:18:59Z', 'closed_at': '2017-02-12T12:22:30Z', 'labels': []}
+{'issuenumber': 78, 'title': "Don't distribute hyperapp.hx.js", 'state': 'closed', 'created_at': '2017-02-11T05:29:14Z', 'closed_at': '2017-02-11T12:35:30Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 76, 'title': 'OnBeforeCreate lifecycle event ... or something?', 'state': 'closed', 'created_at': '2017-02-09T23:25:42Z', 'closed_at': '2017-02-10T10:15:39Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 75, 'title': 'Performance and Laziness', 'state': 'closed', 'created_at': '2017-02-09T17:29:59Z', 'closed_at': '2017-04-15T16:31:02Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 73, 'title': 'Nested Update/Effects', 'state': 'closed', 'created_at': '2017-02-09T14:02:40Z', 'closed_at': '2017-02-27T20:13:38Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 72, 'title': 'Why msg?', 'state': 'closed', 'created_at': '2017-02-09T13:41:15Z', 'closed_at': '2017-02-11T12:38:57Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 70, 'title': '0.0.12 failed to import { html }', 'state': 'closed', 'created_at': '2017-02-09T09:59:27Z', 'closed_at': '2017-02-09T10:59:48Z', 'labels': []}
+{'issuenumber': 69, 'title': 'Should HyperApp Wait For The DOM Before Rendering?', 'state': 'closed', 'created_at': '2017-02-09T07:26:31Z', 'closed_at': '2017-02-17T10:38:49Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 68, 'title': 'The spinoffs: Hyperapp 🎢 ', 'state': 'closed', 'created_at': '2017-02-09T01:34:47Z', 'closed_at': '2017-03-07T15:18:05Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 67, 'title': 'Pass parameters to effects functions?', 'state': 'closed', 'created_at': '2017-02-08T22:18:30Z', 'closed_at': '2017-02-10T10:01:24Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 66, 'title': 'Error function in effects "is not a function"', 'state': 'closed', 'created_at': '2017-02-08T22:01:01Z', 'closed_at': '2017-02-09T02:48:18Z', 'labels': []}
+{'issuenumber': 65, 'title': 'The Elm Architecture 🍵', 'state': 'closed', 'created_at': '2017-02-08T20:19:42Z', 'closed_at': '2017-02-17T11:47:59Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 63, 'title': 'Badges not loading on README', 'state': 'closed', 'created_at': '2017-02-08T15:07:36Z', 'closed_at': '2017-02-12T05:42:32Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 62, 'title': 'Subscriptions are ignored when running app via <head> tag', 'state': 'closed', 'created_at': '2017-02-08T12:41:23Z', 'closed_at': '2017-02-09T07:19:51Z', 'labels': {'name': 'bug'}}

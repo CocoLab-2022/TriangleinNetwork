@@ -1,0 +1,695 @@
+{'issuenumber': 971, 'title': "Error: Module not found: Error: Can't resolve '@babel/runtime/helpers/builtin/extends'", 'state': 'closed', 'created_at': '2018-08-31T10:02:12Z', 'closed_at': '2018-09-22T14:41:45Z', 'labels': []}
+{'issuenumber': 970, 'title': 'Modify the content of the event', 'state': 'closed', 'created_at': '2018-08-28T11:10:10Z', 'closed_at': '2018-11-19T15:47:19Z', 'labels': []}
+{'issuenumber': 969, 'title': 'Next release?', 'state': 'closed', 'created_at': '2018-08-25T15:59:32Z', 'closed_at': '2018-08-25T17:35:51Z', 'labels': []}
+{'issuenumber': 968, 'title': 'Element ref was specified as a string (inner) but no owner was set. This could happen for one of the following reasons:', 'state': 'closed', 'created_at': '2018-08-24T15:05:00Z', 'closed_at': '2018-08-24T15:15:23Z', 'labels': []}
+{'issuenumber': 967, 'title': 'Week starting from saturday when moment timezone and browser timezones are different', 'state': 'closed', 'created_at': '2018-08-24T03:58:32Z', 'closed_at': '2018-11-19T15:47:19Z', 'labels': []}
+{'issuenumber': 966, 'title': 'Can we route months? url/sept/etc', 'state': 'closed', 'created_at': '2018-08-23T22:35:56Z', 'closed_at': '2018-08-25T00:17:35Z', 'labels': []}
+{'issuenumber': 964, 'title': "Selecting event doesn't work with react-modal", 'state': 'closed', 'created_at': '2018-08-23T18:13:21Z', 'closed_at': '2019-05-30T16:46:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 963, 'title': 'Calendar is not accessible', 'state': 'closed', 'created_at': '2018-08-23T14:40:54Z', 'closed_at': '2019-05-30T16:45:58Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 962, 'title': 'Greater control/override of `utils/dates.js`', 'state': 'closed', 'created_at': '2018-08-22T19:05:43Z', 'closed_at': '2018-11-19T15:47:18Z', 'labels': []}
+{'issuenumber': 961, 'title': "Cannot Render Basic Calendar; Stating It's Undefined", 'state': 'closed', 'created_at': '2018-08-21T20:25:36Z', 'closed_at': '2018-11-19T15:47:18Z', 'labels': []}
+{'issuenumber': 960, 'title': 'Get date of day slot when dragging an event over it.', 'state': 'closed', 'created_at': '2018-08-21T05:01:33Z', 'closed_at': '2018-11-19T15:47:18Z', 'labels': []}
+{'issuenumber': 958, 'title': 'how translate toolbar', 'state': 'closed', 'created_at': '2018-08-18T21:21:32Z', 'closed_at': '2018-08-19T23:55:36Z', 'labels': []}
+{'issuenumber': 957, 'title': 'change background-color event by events array', 'state': 'closed', 'created_at': '2018-08-18T14:24:17Z', 'closed_at': '2018-08-18T15:37:53Z', 'labels': []}
+{'issuenumber': 953, 'title': 'Calendar will freeze when finger drag quickly in Tablet', 'state': 'closed', 'created_at': '2018-08-17T06:08:20Z', 'closed_at': '2019-05-30T16:46:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 948, 'title': 'Expand the day slot to fit all events', 'state': 'closed', 'created_at': '2018-08-14T11:01:19Z', 'closed_at': '2018-08-14T11:33:40Z', 'labels': []}
+{'issuenumber': 947, 'title': 'Terrible docs', 'state': 'closed', 'created_at': '2018-08-13T13:24:01Z', 'closed_at': '2018-08-13T13:59:00Z', 'labels': []}
+{'issuenumber': 946, 'title': 'Edit an existing Event', 'state': 'closed', 'created_at': '2018-08-13T10:29:22Z', 'closed_at': '2018-08-31T22:01:56Z', 'labels': []}
+{'issuenumber': 943, 'title': 'CSS broken when show time', 'state': 'closed', 'created_at': '2018-08-10T12:51:28Z', 'closed_at': '2019-05-30T16:46:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 942, 'title': 'Feature request: access to styles of month view cell', 'state': 'closed', 'created_at': '2018-08-10T06:36:27Z', 'closed_at': '2018-09-01T04:25:36Z', 'labels': []}
+{'issuenumber': 941, 'title': 'Feature request: Keep selected slots in calendar', 'state': 'closed', 'created_at': '2018-08-10T06:01:37Z', 'closed_at': '2018-11-19T15:47:17Z', 'labels': []}
+{'issuenumber': 940, 'title': 'Where in the code are event widths calculated?', 'state': 'closed', 'created_at': '2018-08-09T19:21:15Z', 'closed_at': '2018-11-19T15:47:17Z', 'labels': []}
+{'issuenumber': 939, 'title': 'Support taller events in the month view', 'state': 'closed', 'created_at': '2018-08-07T20:15:01Z', 'closed_at': '2018-11-19T15:47:17Z', 'labels': []}
+{'issuenumber': 937, 'title': 'toolbar should be more customizable without the need to completely write a new component', 'state': 'closed', 'created_at': '2018-08-05T00:56:37Z', 'closed_at': '2019-05-30T16:45:57Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 935, 'title': 'Change language to “+2 more”', 'state': 'closed', 'created_at': '2018-08-02T20:35:20Z', 'closed_at': '2018-08-02T21:25:36Z', 'labels': []}
+{'issuenumber': 934, 'title': '"Next" button stops working in Agenda view with length values < 1', 'state': 'closed', 'created_at': '2018-08-02T15:29:10Z', 'closed_at': '2018-11-19T15:47:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 933, 'title': 'Month and day does not work preview', 'state': 'closed', 'created_at': '2018-08-01T16:42:06Z', 'closed_at': '2018-08-01T23:56:29Z', 'labels': []}
+{'issuenumber': 932, 'title': "css class 'rbc-current' gets added to the same date of every month", 'state': 'closed', 'created_at': '2018-08-01T11:04:51Z', 'closed_at': '2018-09-01T04:33:32Z', 'labels': []}
+{'issuenumber': 931, 'title': 'List of event missing in Agenda View', 'state': 'closed', 'created_at': '2018-08-01T05:47:34Z', 'closed_at': '2019-09-12T10:37:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 929, 'title': 'Set a defaultDate', 'state': 'closed', 'created_at': '2018-07-30T19:39:24Z', 'closed_at': '2018-07-30T19:49:54Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 927, 'title': 'How to initiate rbc withDragAndDrop within existing react-dnd context?', 'state': 'closed', 'created_at': '2018-07-30T07:52:28Z', 'closed_at': '2018-07-30T07:54:30Z', 'labels': []}
+{'issuenumber': 924, 'title': 'components.header undocumented', 'state': 'closed', 'created_at': '2018-07-28T15:03:15Z', 'closed_at': '2018-07-30T18:28:44Z', 'labels': []}
+{'issuenumber': 922, 'title': 'Show a message rather than an header-only table on Agenda view with no events.', 'state': 'closed', 'created_at': '2018-07-27T12:39:53Z', 'closed_at': '2019-05-24T08:25:53Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 920, 'title': '7 Day calendar week only', 'state': 'closed', 'created_at': '2018-07-26T11:21:08Z', 'closed_at': '2018-11-19T15:47:16Z', 'labels': []}
+{'issuenumber': 918, 'title': 'Inconistent date format when using showMultiDayTimes', 'state': 'closed', 'created_at': '2018-07-25T05:52:17Z', 'closed_at': '2018-07-25T14:31:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 914, 'title': 'Not resizable calendar shows resize graphics for events.', 'state': 'closed', 'created_at': '2018-07-24T10:33:22Z', 'closed_at': '2018-07-30T19:54:55Z', 'labels': []}
+{'issuenumber': 913, 'title': 'Change date range of agenda', 'state': 'closed', 'created_at': '2018-07-24T06:56:02Z', 'closed_at': '2018-07-24T11:47:51Z', 'labels': []}
+{'issuenumber': 909, 'title': 'Bug on events width when changing the step or timeslots argument', 'state': 'closed', 'created_at': '2018-07-20T14:48:40Z', 'closed_at': '2018-07-30T19:58:14Z', 'labels': []}
+{'issuenumber': 908, 'title': 'Improve Resize Experience', 'state': 'closed', 'created_at': '2018-07-20T13:51:03Z', 'closed_at': '2018-07-30T15:29:54Z', 'labels': []}
+{'issuenumber': 905, 'title': 'Pass an existing backend to withDragAndDrop - a practical example', 'state': 'closed', 'created_at': '2018-07-16T08:47:53Z', 'closed_at': '2018-07-30T14:50:51Z', 'labels': []}
+{'issuenumber': 904, 'title': 'how to render a custom popup', 'state': 'closed', 'created_at': '2018-07-16T02:19:07Z', 'closed_at': '2018-07-30T15:37:32Z', 'labels': []}
+{'issuenumber': 903, 'title': 'Be able to drag events so they recur on multiple days at certain time', 'state': 'closed', 'created_at': '2018-07-13T16:39:21Z', 'closed_at': '2018-09-01T04:40:51Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 902, 'title': 'Show labels on available timeslots', 'state': 'closed', 'created_at': '2018-07-13T10:32:30Z', 'closed_at': '2019-05-30T16:45:47Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 901, 'title': 'Mobile Tab Menu is too large', 'state': 'closed', 'created_at': '2018-07-11T06:10:57Z', 'closed_at': '2018-07-11T06:13:25Z', 'labels': []}
+{'issuenumber': 899, 'title': 'Day layout covering up entire events for certain sets of times', 'state': 'closed', 'created_at': '2018-07-09T20:27:09Z', 'closed_at': '2019-05-30T16:45:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 898, 'title': 'Import localizer module on demand', 'state': 'closed', 'created_at': '2018-07-09T12:53:50Z', 'closed_at': '2018-07-30T15:43:21Z', 'labels': []}
+{'issuenumber': 895, 'title': 'Element ref was specified as a string (inner) but no owner was set. ', 'state': 'closed', 'created_at': '2018-07-05T10:10:49Z', 'closed_at': '2018-07-05T14:19:46Z', 'labels': []}
+{'issuenumber': 894, 'title': 'Is it possible to use resources for just a specific view? (e.g just the Day view)', 'state': 'closed', 'created_at': '2018-07-04T21:38:29Z', 'closed_at': '2018-07-05T14:23:15Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 893, 'title': 'Feature request: selectedSlot prop', 'state': 'closed', 'created_at': '2018-07-04T17:39:00Z', 'closed_at': '2018-07-18T10:38:30Z', 'labels': []}
+{'issuenumber': 892, 'title': 'Make `showMultiDayTimes` inclusive of the final day', 'state': 'closed', 'created_at': '2018-07-04T10:51:11Z', 'closed_at': '2018-07-04T10:58:49Z', 'labels': []}
+{'issuenumber': 891, 'title': 'Feature request: improved D&D', 'state': 'closed', 'created_at': '2018-07-03T16:14:54Z', 'closed_at': '2018-07-25T21:16:02Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 890, 'title': 'ToolTip - Show time in Month View', 'state': 'closed', 'created_at': '2018-06-27T20:29:53Z', 'closed_at': '2019-05-30T16:45:51Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 888, 'title': 'Calendar is converting Google Dates to Today Dates', 'state': 'closed', 'created_at': '2018-06-27T02:40:07Z', 'closed_at': '2018-06-28T20:32:44Z', 'labels': []}
+{'issuenumber': 887, 'title': 'Drag and drop an event from one month to another', 'state': 'closed', 'created_at': '2018-06-26T19:37:38Z', 'closed_at': '2019-05-30T17:45:47Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 886, 'title': 'Horizontal event alignment', 'state': 'closed', 'created_at': '2018-06-26T10:15:30Z', 'closed_at': '2018-07-30T19:53:15Z', 'labels': []}
+{'issuenumber': 885, 'title': 'Error when using globalize@1.3.0', 'state': 'closed', 'created_at': '2018-06-25T09:40:34Z', 'closed_at': '2018-07-05T09:06:58Z', 'labels': []}
+{'issuenumber': 882, 'title': 'have added timezone picker  to 3 fields in react component . it takes at least 5 to 10 seconds for component to load, if i use reacttimezonepicker  on only 1 field  then it is  loading quickly . Please help me out on this.', 'state': 'closed', 'created_at': '2018-06-21T08:30:02Z', 'closed_at': '2018-07-30T15:50:54Z', 'labels': []}
+{'issuenumber': 881, 'title': "Why don't I have the '+n more' btn?", 'state': 'closed', 'created_at': '2018-06-19T12:33:52Z', 'closed_at': '2018-07-30T15:53:53Z', 'labels': []}
+{'issuenumber': 879, 'title': 'Tooltip prepended by unwanted time range in week and day view despite tooltipAccessor updates', 'state': 'closed', 'created_at': '2018-06-14T22:47:26Z', 'closed_at': '2019-05-30T17:45:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 878, 'title': 'Background events', 'state': 'closed', 'created_at': '2018-06-14T09:34:59Z', 'closed_at': '2018-07-30T20:24:15Z', 'labels': []}
+{'issuenumber': 872, 'title': 'Feature request: Customizable Content while selecting/creating new event', 'state': 'closed', 'created_at': '2018-06-12T08:03:03Z', 'closed_at': '2018-09-01T04:36:34Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 871, 'title': 'Rendering a custom popover ', 'state': 'closed', 'created_at': '2018-06-11T22:45:00Z', 'closed_at': '2018-07-30T15:49:25Z', 'labels': []}
+{'issuenumber': 870, 'title': 'RangeError: Invalid array length on line var groups = new Array(numGroups)', 'state': 'closed', 'created_at': '2018-06-11T16:14:49Z', 'closed_at': '2018-07-30T19:27:31Z', 'labels': []}
+{'issuenumber': 869, 'title': 'Event label display customization', 'state': 'closed', 'created_at': '2018-06-10T16:39:43Z', 'closed_at': '2018-08-01T12:12:24Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 868, 'title': 'ERROR in ./node_modules/react-big-calendar/lib/css/react-big-calendar.css  Module build failed: TypeError: Cannot convert undefined or null to object ', 'state': 'closed', 'created_at': '2018-06-10T10:30:09Z', 'closed_at': '2018-06-27T07:31:50Z', 'labels': []}
+{'issuenumber': 867, 'title': 'onSelectEvent not called in Day and Week views', 'state': 'closed', 'created_at': '2018-06-10T05:59:22Z', 'closed_at': '2019-05-30T16:45:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 864, 'title': 'onClick event on single days', 'state': 'closed', 'created_at': '2018-06-07T10:27:52Z', 'closed_at': '2018-07-30T20:14:58Z', 'labels': []}
+{'issuenumber': 863, 'title': 'Background image for a tile ', 'state': 'closed', 'created_at': '2018-06-07T09:21:33Z', 'closed_at': '2018-08-01T12:11:33Z', 'labels': []}
+{'issuenumber': 862, 'title': "decorateHandler.js:80 Cannot read property 'object' of undefined", 'state': 'closed', 'created_at': '2018-06-07T07:46:53Z', 'closed_at': '2018-07-30T20:04:33Z', 'labels': []}
+{'issuenumber': 861, 'title': 'Capitalize Tabs Titles ', 'state': 'closed', 'created_at': '2018-06-06T15:13:27Z', 'closed_at': '2018-06-08T16:00:04Z', 'labels': []}
+{'issuenumber': 860, 'title': "Upgrade lib so it doesn't require react-dnd-html5-backend", 'state': 'closed', 'created_at': '2018-06-06T13:45:29Z', 'closed_at': '2018-07-30T15:56:15Z', 'labels': []}
+{'issuenumber': 859, 'title': 'Agenda View Empty (Month View showing)', 'state': 'closed', 'created_at': '2018-06-04T23:46:34Z', 'closed_at': '2018-06-07T07:30:52Z', 'labels': []}
+{'issuenumber': 858, 'title': "When defining onSelecting, the same slot can't be dragged over using a mouse or long pressed using touch events multiple times in a row.", 'state': 'closed', 'created_at': '2018-06-04T16:03:33Z', 'closed_at': '2019-05-30T13:46:10Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 857, 'title': 'react-dnd compatability issue', 'state': 'closed', 'created_at': '2018-06-04T15:47:38Z', 'closed_at': '2018-07-30T15:32:30Z', 'labels': []}
+{'issuenumber': 856, 'title': 'Error: Cannot find module "react"', 'state': 'closed', 'created_at': '2018-06-04T12:08:04Z', 'closed_at': '2018-06-04T12:23:25Z', 'labels': []}
+{'issuenumber': 853, 'title': 'Specify rbc-time-header-gutter content', 'state': 'closed', 'created_at': '2018-05-25T08:00:28Z', 'closed_at': '2018-07-03T17:17:14Z', 'labels': []}
+{'issuenumber': 851, 'title': 'Polymer 3 compatibility', 'state': 'closed', 'created_at': '2018-05-23T12:58:31Z', 'closed_at': '2018-05-23T14:22:58Z', 'labels': []}
+{'issuenumber': 849, 'title': "Calendar removes all cells because date prop isn't set", 'state': 'closed', 'created_at': '2018-05-20T19:44:27Z', 'closed_at': '2018-07-30T19:50:47Z', 'labels': []}
+{'issuenumber': 848, 'title': 'Add a prop for custom resize html in DraggableEventWrapper', 'state': 'closed', 'created_at': '2018-05-19T20:52:16Z', 'closed_at': '2019-05-30T16:45:53Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 846, 'title': 'Add support for custom properties in resource header', 'state': 'closed', 'created_at': '2018-05-18T07:52:43Z', 'closed_at': '2019-05-30T14:45:44Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 845, 'title': 'onSelectSlot in Firefox', 'state': 'closed', 'created_at': '2018-05-17T09:20:13Z', 'closed_at': '2018-06-25T12:58:51Z', 'labels': []}
+{'issuenumber': 842, 'title': 'How can i add my custom styles?', 'state': 'closed', 'created_at': '2018-05-14T09:45:27Z', 'closed_at': '2018-05-14T13:09:55Z', 'labels': []}
+{'issuenumber': 841, 'title': 'Applying styles should be easier', 'state': 'closed', 'created_at': '2018-05-14T04:31:32Z', 'closed_at': '2018-05-14T13:08:34Z', 'labels': []}
+{'issuenumber': 839, 'title': '[Feature Request] Add support for repeated events', 'state': 'closed', 'created_at': '2018-05-10T21:32:01Z', 'closed_at': '2018-05-10T21:42:29Z', 'labels': []}
+{'issuenumber': 838, 'title': 'Provide the ability to specify a custom sort algorithm for events that show on the exact same time slot', 'state': 'closed', 'created_at': '2018-05-09T13:05:11Z', 'closed_at': '2018-07-30T19:14:30Z', 'labels': []}
+{'issuenumber': 836, 'title': 'rbc-current-time-indicator not displaying well', 'state': 'closed', 'created_at': '2018-05-08T08:09:20Z', 'closed_at': '2018-10-01T12:44:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 835, 'title': 'Custom show more value and path', 'state': 'closed', 'created_at': '2018-05-08T00:11:45Z', 'closed_at': '2019-05-30T13:46:24Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 834, 'title': "Cannot read property '0' of undefined", 'state': 'closed', 'created_at': '2018-05-07T09:01:40Z', 'closed_at': '2018-05-07T13:27:45Z', 'labels': []}
+{'issuenumber': 832, 'title': 'DnD drop not allowed for events in same row on different days', 'state': 'closed', 'created_at': '2018-05-06T19:01:11Z', 'closed_at': '2019-05-30T16:45:56Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 831, 'title': 'In BackgroundCells.js RTL is undefined', 'state': 'closed', 'created_at': '2018-05-06T09:07:12Z', 'closed_at': '2019-05-30T17:45:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 828, 'title': 'Recalculate the need of `more`', 'state': 'closed', 'created_at': '2018-05-04T08:23:39Z', 'closed_at': '2019-05-30T16:46:01Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 827, 'title': 'When is the next release', 'state': 'closed', 'created_at': '2018-05-02T19:15:56Z', 'closed_at': '2018-05-02T21:23:46Z', 'labels': []}
+{'issuenumber': 826, 'title': 'Weekdays as events?', 'state': 'closed', 'created_at': '2018-05-01T11:25:16Z', 'closed_at': '2018-05-08T21:54:11Z', 'labels': []}
+{'issuenumber': 825, 'title': 'Strict time ordering events', 'state': 'closed', 'created_at': '2018-04-27T17:13:34Z', 'closed_at': '2018-04-29T18:08:46Z', 'labels': []}
+{'issuenumber': 824, 'title': 'Layout is mess up', 'state': 'closed', 'created_at': '2018-04-27T08:38:23Z', 'closed_at': '2018-04-27T09:31:42Z', 'labels': []}
+{'issuenumber': 822, 'title': 'Agenda headers misaligned in Chrome on initial agenda load', 'state': 'closed', 'created_at': '2018-04-26T18:25:29Z', 'closed_at': '2019-05-30T14:46:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 821, 'title': 'Better mobile experience requested.', 'state': 'closed', 'created_at': '2018-04-23T21:50:44Z', 'closed_at': '2019-05-30T16:46:07Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 818, 'title': 'custom toolbar', 'state': 'closed', 'created_at': '2018-04-23T00:24:10Z', 'closed_at': '2018-04-23T12:59:03Z', 'labels': []}
+{'issuenumber': 817, 'title': 'agenda view on v19 now displaying well', 'state': 'closed', 'created_at': '2018-04-22T15:26:41Z', 'closed_at': '2019-05-30T16:45:49Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 816, 'title': 'Moment.js alternatives (date-fns)', 'state': 'closed', 'created_at': '2018-04-20T15:13:50Z', 'closed_at': '2019-06-01T16:53:28Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 815, 'title': 'Issues showing past events in calendar', 'state': 'closed', 'created_at': '2018-04-20T12:25:29Z', 'closed_at': '2018-07-30T20:45:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 814, 'title': 'Ability to avoid adjacent events overlapping in day view', 'state': 'closed', 'created_at': '2018-04-20T07:41:19Z', 'closed_at': '2018-04-20T11:41:19Z', 'labels': []}
+{'issuenumber': 811, 'title': 'possible to disable show more?', 'state': 'closed', 'created_at': '2018-04-18T16:17:21Z', 'closed_at': '2018-04-18T19:16:00Z', 'labels': []}
+{'issuenumber': 809, 'title': 'Timezone problems. Moves everything over a day', 'state': 'closed', 'created_at': '2018-04-17T16:27:19Z', 'closed_at': '2019-05-30T16:46:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 807, 'title': "Can't use the next resourceId when item is dropped", 'state': 'closed', 'created_at': '2018-04-17T01:22:58Z', 'closed_at': '2018-05-19T16:30:16Z', 'labels': []}
+{'issuenumber': 806, 'title': "Month View doesn't render", 'state': 'closed', 'created_at': '2018-04-16T21:16:07Z', 'closed_at': '2018-04-16T22:44:46Z', 'labels': []}
+{'issuenumber': 805, 'title': 'Enable support per-event dragability/sizability', 'state': 'closed', 'created_at': '2018-04-16T09:35:00Z', 'closed_at': '2018-04-20T16:18:04Z', 'labels': []}
+{'issuenumber': 804, 'title': 'Drag and Drop demo does not have resizing', 'state': 'closed', 'created_at': '2018-04-15T20:12:29Z', 'closed_at': '2018-07-30T16:24:22Z', 'labels': []}
+{'issuenumber': 803, 'title': 'Provide API to open/close a popup?', 'state': 'closed', 'created_at': '2018-04-13T14:38:23Z', 'closed_at': '2019-05-30T16:45:59Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 802, 'title': 'Css link "+X more"', 'state': 'closed', 'created_at': '2018-04-13T11:16:51Z', 'closed_at': '2018-11-19T15:48:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 801, 'title': 'ResourceID not passed in onSelectSlot', 'state': 'closed', 'created_at': '2018-04-12T03:41:41Z', 'closed_at': '2018-06-18T13:38:57Z', 'labels': []}
+{'issuenumber': 800, 'title': 'Please release new version', 'state': 'closed', 'created_at': '2018-04-11T17:53:41Z', 'closed_at': '2018-04-20T16:10:05Z', 'labels': []}
+{'issuenumber': 799, 'title': 'How to change start day in month view', 'state': 'closed', 'created_at': '2018-04-10T13:38:51Z', 'closed_at': '2018-04-12T21:07:57Z', 'labels': []}
+{'issuenumber': 797, 'title': 'Is `eventPropGetter` supposed to be called when the `state.events` changes?', 'state': 'closed', 'created_at': '2018-04-05T01:05:08Z', 'closed_at': '2018-04-05T01:08:59Z', 'labels': []}
+{'issuenumber': 796, 'title': 'change background color of selected date', 'state': 'closed', 'created_at': '2018-04-05T00:07:11Z', 'closed_at': '2018-04-19T19:51:39Z', 'labels': []}
+{'issuenumber': 795, 'title': "Disable 'select' action onSelectSlot", 'state': 'closed', 'created_at': '2018-04-04T14:06:15Z', 'closed_at': '2018-04-04T14:08:45Z', 'labels': []}
+{'issuenumber': 794, 'title': '"Uncaught TypeError: _onDoubleClick is not a function" when trying to double click event from popup', 'state': 'closed', 'created_at': '2018-04-02T08:10:04Z', 'closed_at': '2018-04-23T00:47:10Z', 'labels': []}
+{'issuenumber': 793, 'title': "V0.19 don't have 'all day' label in the row and have duplicate 12:00 AM 1:00 AM", 'state': 'closed', 'created_at': '2018-04-01T06:28:34Z', 'closed_at': '2018-11-19T15:48:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 792, 'title': 'v0.19 has layout bug', 'state': 'closed', 'created_at': '2018-03-31T03:38:18Z', 'closed_at': '2018-04-10T13:58:39Z', 'labels': []}
+{'issuenumber': 790, 'title': "Show more doesn't work as expected", 'state': 'closed', 'created_at': '2018-03-30T16:28:37Z', 'closed_at': '2018-04-12T09:20:45Z', 'labels': []}
+{'issuenumber': 788, 'title': 'Event sorting inside of a day', 'state': 'closed', 'created_at': '2018-03-29T21:52:15Z', 'closed_at': '2018-04-12T09:21:11Z', 'labels': []}
+{'issuenumber': 787, 'title': 'Add resource id to drag and drop event', 'state': 'closed', 'created_at': '2018-03-29T18:30:24Z', 'closed_at': '2018-07-30T16:11:54Z', 'labels': []}
+{'issuenumber': 785, 'title': 'Touch event selection broken with css property zoom', 'state': 'closed', 'created_at': '2018-03-29T15:52:31Z', 'closed_at': '2018-07-12T14:22:43Z', 'labels': []}
+{'issuenumber': 783, 'title': 'Feature request: Business Hours', 'state': 'closed', 'created_at': '2018-03-29T10:44:52Z', 'closed_at': '2019-01-14T14:50:33Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 782, 'title': 'Include a dayWrapper prop inside the month props.', 'state': 'closed', 'created_at': '2018-03-29T08:05:39Z', 'closed_at': '2018-07-30T20:20:28Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 781, 'title': '.17 -> .18 initialization', 'state': 'closed', 'created_at': '2018-03-28T14:34:25Z', 'closed_at': '2018-11-19T15:48:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 780, 'title': 'Improve docs', 'state': 'closed', 'created_at': '2018-03-28T07:20:15Z', 'closed_at': '2018-11-19T15:48:31Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 779, 'title': 'getSlotMetrics throws RangeError in IE11', 'state': 'closed', 'created_at': '2018-03-26T10:48:56Z', 'closed_at': '2018-03-26T15:54:22Z', 'labels': []}
+{'issuenumber': 777, 'title': 'Changelog ', 'state': 'closed', 'created_at': '2018-03-25T09:49:37Z', 'closed_at': '2018-03-25T11:52:16Z', 'labels': []}
+{'issuenumber': 776, 'title': 'Add only days in week view.', 'state': 'closed', 'created_at': '2018-03-23T16:22:24Z', 'closed_at': '2018-03-25T17:01:50Z', 'labels': []}
+{'issuenumber': 775, 'title': 'Custom rendering popup?', 'state': 'closed', 'created_at': '2018-03-23T09:14:52Z', 'closed_at': '2018-07-30T16:01:07Z', 'labels': []}
+{'issuenumber': 774, 'title': 'Passed events displaying on Day view', 'state': 'closed', 'created_at': '2018-03-22T14:37:49Z', 'closed_at': '2018-11-19T15:48:31Z', 'labels': []}
+{'issuenumber': 773, 'title': 'Add loading state', 'state': 'closed', 'created_at': '2018-03-22T14:21:46Z', 'closed_at': '2018-03-22T14:55:54Z', 'labels': []}
+{'issuenumber': 772, 'title': 'Centering time text', 'state': 'closed', 'created_at': '2018-03-22T13:37:30Z', 'closed_at': '2018-04-12T09:39:07Z', 'labels': []}
+{'issuenumber': 770, 'title': 'Incorrect selection on DST change day. ', 'state': 'closed', 'created_at': '2018-03-20T07:43:46Z', 'closed_at': '2019-05-30T17:45:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 768, 'title': 'Next/Prev give "Invalid Date"', 'state': 'closed', 'created_at': '2018-03-19T16:28:54Z', 'closed_at': '2018-04-20T16:03:57Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 766, 'title': 'Pass "isPopup" to eventWrapper component', 'state': 'closed', 'created_at': '2018-03-15T09:37:41Z', 'closed_at': '2019-05-30T16:45:51Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 765, 'title': 'All day events in Day and Week View', 'state': 'closed', 'created_at': '2018-03-15T09:02:42Z', 'closed_at': '2018-03-15T13:08:01Z', 'labels': []}
+{'issuenumber': 764, 'title': 'Disable weekends', 'state': 'closed', 'created_at': '2018-03-15T08:28:50Z', 'closed_at': '2018-03-15T13:05:57Z', 'labels': []}
+{'issuenumber': 763, 'title': 'Two events for the same date/time', 'state': 'closed', 'created_at': '2018-03-14T21:48:48Z', 'closed_at': '2018-07-30T20:08:53Z', 'labels': []}
+{'issuenumber': 761, 'title': 'Feature request: Set height and width of calendar using css (not .less files)', 'state': 'closed', 'created_at': '2018-03-12T22:42:41Z', 'closed_at': '2018-03-12T23:11:14Z', 'labels': []}
+{'issuenumber': 760, 'title': 'Setting min and max when changing timezone messes with time slots + displays', 'state': 'closed', 'created_at': '2018-03-12T19:43:08Z', 'closed_at': '2018-03-15T13:10:15Z', 'labels': []}
+{'issuenumber': 759, 'title': 'Styling cells in month view', 'state': 'closed', 'created_at': '2018-03-08T09:20:42Z', 'closed_at': '2018-03-15T13:08:12Z', 'labels': []}
+{'issuenumber': 758, 'title': 'When set resizable , the custom event component not work.', 'state': 'closed', 'created_at': '2018-03-07T06:55:24Z', 'closed_at': '2018-03-07T12:57:08Z', 'labels': []}
+{'issuenumber': 757, 'title': "Unable to resolve module 'react-big-calendar/lib/css/react-big-calendar.css", 'state': 'closed', 'created_at': '2018-03-07T06:26:38Z', 'closed_at': '2018-04-20T16:00:40Z', 'labels': []}
+{'issuenumber': 756, 'title': "Supplying min/max props breaks 'week' view in Safari", 'state': 'closed', 'created_at': '2018-03-06T23:47:32Z', 'closed_at': '2019-05-30T16:45:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 755, 'title': 'Agenda going forward or back daily and not monthly', 'state': 'closed', 'created_at': '2018-03-05T22:54:27Z', 'closed_at': '2018-04-02T12:09:00Z', 'labels': []}
+{'issuenumber': 752, 'title': 'Hide / show specific events', 'state': 'closed', 'created_at': '2018-03-03T23:12:34Z', 'closed_at': '2018-03-14T21:59:01Z', 'labels': []}
+{'issuenumber': 751, 'title': 'Question: can we auto expand the date slots to show all content?', 'state': 'closed', 'created_at': '2018-03-03T14:44:03Z', 'closed_at': '2018-03-03T14:51:20Z', 'labels': []}
+{'issuenumber': 750, 'title': 'If not enable removal of all-day-row, at least add a special class name', 'state': 'closed', 'created_at': '2018-03-02T14:50:25Z', 'closed_at': '2018-03-15T13:11:40Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 749, 'title': 'Events are somewhat misplaced if min/max prop is used with odd number of hours', 'state': 'closed', 'created_at': '2018-03-02T14:19:07Z', 'closed_at': '2018-11-19T15:48:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 748, 'title': 'Month View not appearing', 'state': 'closed', 'created_at': '2018-03-02T01:57:09Z', 'closed_at': '2018-03-02T03:42:22Z', 'labels': []}
+{'issuenumber': 747, 'title': 'styling problem with allDay event header?', 'state': 'closed', 'created_at': '2018-03-01T21:56:44Z', 'closed_at': '2018-07-30T15:58:57Z', 'labels': []}
+{'issuenumber': 746, 'title': 'How to color that line that displays the time?', 'state': 'closed', 'created_at': '2018-03-01T15:14:49Z', 'closed_at': '2018-03-01T15:17:28Z', 'labels': []}
+{'issuenumber': 745, 'title': "react-big-calendar/lib/css/react-big-calendar.css doesn't exist", 'state': 'closed', 'created_at': '2018-03-01T03:31:02Z', 'closed_at': '2018-03-01T03:57:35Z', 'labels': []}
+{'issuenumber': 744, 'title': 'Agenda not updating on event changes', 'state': 'closed', 'created_at': '2018-02-28T01:58:04Z', 'closed_at': '2018-03-15T13:09:08Z', 'labels': []}
+{'issuenumber': 743, 'title': 'Selecting event in agenda view should call `onSelectEvent` ', 'state': 'closed', 'created_at': '2018-02-27T22:19:42Z', 'closed_at': '2019-05-30T16:45:54Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 742, 'title': 'Show labels on available timeslots', 'state': 'closed', 'created_at': '2018-02-27T15:53:06Z', 'closed_at': '2018-03-15T13:10:54Z', 'labels': []}
+{'issuenumber': 741, 'title': 'Internatinalisation with react-intl', 'state': 'closed', 'created_at': '2018-02-26T17:26:40Z', 'closed_at': '2018-02-26T18:22:11Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 740, 'title': 'Month view is empty', 'state': 'closed', 'created_at': '2018-02-26T12:33:55Z', 'closed_at': '2018-02-26T12:52:26Z', 'labels': []}
+{'issuenumber': 739, 'title': 'Start a channel on Slack, Gitter, or Discord', 'state': 'closed', 'created_at': '2018-02-23T20:55:09Z', 'closed_at': '2018-03-17T00:58:27Z', 'labels': {'name': 'question'}}
+{'issuenumber': 738, 'title': 'Is there an example using resizable events?', 'state': 'closed', 'created_at': '2018-02-23T20:43:34Z', 'closed_at': '2018-03-02T09:40:21Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 737, 'title': 'Visual customization', 'state': 'closed', 'created_at': '2018-02-23T17:49:39Z', 'closed_at': '2018-03-15T13:12:59Z', 'labels': []}
+{'issuenumber': 736, 'title': 'Feature request: allow adding UI elements to day cells', 'state': 'closed', 'created_at': '2018-02-23T12:00:40Z', 'closed_at': '2019-05-30T14:45:56Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 735, 'title': 'Work week example?', 'state': 'closed', 'created_at': '2018-02-22T22:25:58Z', 'closed_at': '2018-02-22T22:48:15Z', 'labels': []}
+{'issuenumber': 732, 'title': 'onView event - should set date along with the view name', 'state': 'closed', 'created_at': '2018-02-19T13:48:10Z', 'closed_at': '2018-02-19T15:11:43Z', 'labels': []}
+{'issuenumber': 731, 'title': 'Event height is incorrect for 15 minute slots', 'state': 'closed', 'created_at': '2018-02-17T01:16:07Z', 'closed_at': '2019-05-30T16:45:50Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 730, 'title': 'All day event : Date and time is same ', 'state': 'closed', 'created_at': '2018-02-16T07:39:46Z', 'closed_at': '2018-02-16T12:34:22Z', 'labels': []}
+{'issuenumber': 729, 'title': 'Where does the inline styling of the rbc-event div get generated?', 'state': 'closed', 'created_at': '2018-02-15T18:15:35Z', 'closed_at': '2018-02-15T19:05:11Z', 'labels': []}
+{'issuenumber': 728, 'title': 'eventPropGetter / slotPropGetter should accept more props', 'state': 'closed', 'created_at': '2018-02-14T14:21:50Z', 'closed_at': '2019-05-30T16:45:52Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 727, 'title': 'Issue with all day events when using Resources', 'state': 'closed', 'created_at': '2018-02-14T09:40:21Z', 'closed_at': '2018-07-30T16:10:50Z', 'labels': []}
+{'issuenumber': 726, 'title': 'Start Date Undefined on Resize', 'state': 'closed', 'created_at': '2018-02-13T16:42:20Z', 'closed_at': '2018-03-17T01:06:45Z', 'labels': []}
+{'issuenumber': 725, 'title': 'Error on component resize when view prop has changed', 'state': 'closed', 'created_at': '2018-02-13T11:41:37Z', 'closed_at': '2018-03-17T00:46:47Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 723, 'title': 'BigCalendar.length', 'state': 'closed', 'created_at': '2018-02-12T09:40:56Z', 'closed_at': '2018-03-08T09:51:56Z', 'labels': []}
+{'issuenumber': 722, 'title': 'Back and Next buttons crash calendar', 'state': 'closed', 'created_at': '2018-02-11T23:57:41Z', 'closed_at': '2018-03-15T13:13:10Z', 'labels': []}
+{'issuenumber': 721, 'title': 'Events are sorted incorrectly', 'state': 'closed', 'created_at': '2018-02-09T09:49:20Z', 'closed_at': '2018-02-10T06:14:09Z', 'labels': []}
+{'issuenumber': 720, 'title': 'Multi day not displayed properly as per strat and end time', 'state': 'closed', 'created_at': '2018-02-08T11:56:01Z', 'closed_at': '2018-03-15T13:13:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 719, 'title': "Length to '+ show more' different", 'state': 'closed', 'created_at': '2018-02-07T10:37:24Z', 'closed_at': '2018-02-07T10:49:17Z', 'labels': {'name': 'question'}}
+{'issuenumber': 718, 'title': 'Passing a dateHeader component breaks month view when navigating', 'state': 'closed', 'created_at': '2018-02-06T22:38:53Z', 'closed_at': '2018-06-27T12:25:22Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 712, 'title': "Drag'n Drop external components", 'state': 'closed', 'created_at': '2018-02-05T13:27:02Z', 'closed_at': '2018-02-05T13:51:45Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 711, 'title': 'Feature request / Issue - Resources not working', 'state': 'closed', 'created_at': '2018-02-02T22:09:22Z', 'closed_at': '2018-02-05T13:53:22Z', 'labels': []}
+{'issuenumber': 710, 'title': 'dayPropGetter not documented, is it working ?', 'state': 'closed', 'created_at': '2018-02-01T16:12:16Z', 'closed_at': '2018-02-01T16:17:58Z', 'labels': []}
+{'issuenumber': 709, 'title': 'Passing props to custom components', 'state': 'closed', 'created_at': '2018-01-31T22:12:53Z', 'closed_at': '2018-01-31T22:57:14Z', 'labels': []}
+{'issuenumber': 708, 'title': 'Feature Request: make Month rowLimit configurable via props', 'state': 'closed', 'created_at': '2018-01-30T17:25:37Z', 'closed_at': '2018-01-30T17:33:42Z', 'labels': []}
+{'issuenumber': 706, 'title': 'Disable allday event on calendar', 'state': 'closed', 'created_at': '2018-01-29T07:02:04Z', 'closed_at': '2018-01-29T13:06:18Z', 'labels': []}
+{'issuenumber': 704, 'title': 'feature request: nowAccessor (or equiv)', 'state': 'closed', 'created_at': '2018-01-24T21:53:23Z', 'closed_at': '2018-02-06T19:41:33Z', 'labels': []}
+{'issuenumber': 702, 'title': 'it is possible to modify the popup component?', 'state': 'closed', 'created_at': '2018-01-23T21:00:46Z', 'closed_at': '2018-02-05T14:04:46Z', 'labels': []}
+{'issuenumber': 700, 'title': 'popupOffset is not working', 'state': 'closed', 'created_at': '2018-01-22T17:07:18Z', 'closed_at': '2018-02-05T13:54:38Z', 'labels': []}
+{'issuenumber': 699, 'title': 'Multiple users in day view?', 'state': 'closed', 'created_at': '2018-01-22T12:52:50Z', 'closed_at': '2018-02-05T13:52:25Z', 'labels': []}
+{'issuenumber': 698, 'title': 'How to use 24 hours to display time in Day view ?', 'state': 'closed', 'created_at': '2018-01-22T08:32:03Z', 'closed_at': '2018-01-22T10:01:25Z', 'labels': []}
+{'issuenumber': 697, 'title': 'How can i change language of days in a week?', 'state': 'closed', 'created_at': '2018-01-19T09:46:24Z', 'closed_at': '2018-01-19T10:04:32Z', 'labels': []}
+{'issuenumber': 696, 'title': 'Issue with scrollToTime', 'state': 'closed', 'created_at': '2018-01-18T18:47:26Z', 'closed_at': '2018-02-06T18:10:05Z', 'labels': []}
+{'issuenumber': 695, 'title': 'How to get all the events of one day', 'state': 'closed', 'created_at': '2018-01-17T21:03:08Z', 'closed_at': '2018-02-05T13:54:12Z', 'labels': []}
+{'issuenumber': 694, 'title': '"Uncaught TypeError: _onDoubleClick is not a function" when trying to double click event from popup', 'state': 'closed', 'created_at': '2018-01-17T19:57:53Z', 'closed_at': '2018-02-06T18:10:05Z', 'labels': []}
+{'issuenumber': 693, 'title': 'Return first and last visible dates with onNavigate and onView functions', 'state': 'closed', 'created_at': '2018-01-17T15:36:04Z', 'closed_at': '2018-01-17T15:38:13Z', 'labels': []}
+{'issuenumber': 692, 'title': 'Rendering issue with react big calendar on Ipad Safari v10.3', 'state': 'closed', 'created_at': '2018-01-17T10:34:06Z', 'closed_at': '2019-05-23T12:29:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 691, 'title': 'initiate scroll', 'state': 'closed', 'created_at': '2018-01-15T11:50:52Z', 'closed_at': '2018-02-05T14:06:21Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 689, 'title': 'Add development branch', 'state': 'closed', 'created_at': '2018-01-12T22:18:05Z', 'closed_at': '2018-02-06T17:20:04Z', 'labels': []}
+{'issuenumber': 688, 'title': 'Day & Week views are broken on first render', 'state': 'closed', 'created_at': '2018-01-10T21:51:41Z', 'closed_at': '2018-02-05T14:50:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 687, 'title': "Question about timeslots' height?", 'state': 'closed', 'created_at': '2018-01-10T20:32:08Z', 'closed_at': '2018-01-11T06:20:33Z', 'labels': []}
+{'issuenumber': 686, 'title': 'Sticky Time Sidebar', 'state': 'closed', 'created_at': '2018-01-10T15:57:27Z', 'closed_at': '2018-02-05T14:09:44Z', 'labels': []}
+{'issuenumber': 682, 'title': 'Horizontal Scrolling: Too many resources will make the columns too small', 'state': 'closed', 'created_at': '2018-01-09T02:41:00Z', 'closed_at': '2018-12-07T12:04:24Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 680, 'title': 'Bug: date ranges are not presnted consistently (e.g. 2 day events sometimes show as 1 and etc).', 'state': 'closed', 'created_at': '2018-01-08T15:51:42Z', 'closed_at': '2018-02-13T13:37:08Z', 'labels': []}
+{'issuenumber': 679, 'title': 'Create Custom Views based on existing ones (change rowLimit in Month view)', 'state': 'closed', 'created_at': '2018-01-08T02:17:12Z', 'closed_at': '2018-01-10T18:31:11Z', 'labels': {'name': 'question'}}
+{'issuenumber': 675, 'title': 'Events not showing up in react-big-calendar', 'state': 'closed', 'created_at': '2018-01-07T15:15:20Z', 'closed_at': '2018-01-07T15:49:01Z', 'labels': []}
+{'issuenumber': 672, 'title': 'Changing view from month to week or day or agenda crashes the app', 'state': 'closed', 'created_at': '2018-01-05T16:50:39Z', 'closed_at': '2018-01-15T13:54:59Z', 'labels': []}
+{'issuenumber': 670, 'title': 'Step and slot selection', 'state': 'closed', 'created_at': '2018-01-04T14:49:39Z', 'closed_at': '2018-01-04T15:11:19Z', 'labels': []}
+{'issuenumber': 667, 'title': 'Create sample of JSFiddle', 'state': 'closed', 'created_at': '2018-01-03T09:49:34Z', 'closed_at': '2018-01-03T22:32:10Z', 'labels': []}
+{'issuenumber': 666, 'title': 'Release a new version with changes since 0.17 ?', 'state': 'closed', 'created_at': '2018-01-02T21:19:33Z', 'closed_at': '2018-01-03T19:25:44Z', 'labels': []}
+{'issuenumber': 665, 'title': 'In month view, if the "+more" not show,how can i get the detail of schedule in day view? ', 'state': 'closed', 'created_at': '2018-01-02T07:12:24Z', 'closed_at': '2018-01-02T12:19:12Z', 'labels': []}
+{'issuenumber': 664, 'title': 'In month view，how can I get total count of', 'state': 'closed', 'created_at': '2018-01-02T07:01:43Z', 'closed_at': '2018-02-05T14:10:13Z', 'labels': []}
+{'issuenumber': 662, 'title': 'Toolbar Too Wide', 'state': 'closed', 'created_at': '2017-12-29T22:54:37Z', 'closed_at': '2018-02-05T14:09:51Z', 'labels': []}
+{'issuenumber': 661, 'title': 'onCanvasClick doesnt work correctly', 'state': 'closed', 'created_at': '2017-12-29T17:03:32Z', 'closed_at': '2017-12-29T17:09:58Z', 'labels': []}
+{'issuenumber': 660, 'title': "how can i realize locales of  'more' in   month view ", 'state': 'closed', 'created_at': '2017-12-28T06:15:02Z', 'closed_at': '2017-12-28T15:33:02Z', 'labels': []}
+{'issuenumber': 659, 'title': 'the style of week view that contain today is error ', 'state': 'closed', 'created_at': '2017-12-28T05:44:38Z', 'closed_at': '2018-02-05T14:10:05Z', 'labels': []}
+{'issuenumber': 657, 'title': 'i18n on selectable Time and Views ', 'state': 'closed', 'created_at': '2017-12-27T17:54:30Z', 'closed_at': '2017-12-28T13:31:51Z', 'labels': []}
+{'issuenumber': 656, 'title': 'Droping over itself, does not fire trigger onDrop. ', 'state': 'closed', 'created_at': '2017-12-27T13:46:06Z', 'closed_at': '2018-03-17T01:04:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 655, 'title': "couldn't able to see border for table.", 'state': 'closed', 'created_at': '2017-12-26T07:37:34Z', 'closed_at': '2018-02-05T14:17:35Z', 'labels': []}
+{'issuenumber': 654, 'title': "in 'Month' view, how to customize events order within each day ?", 'state': 'closed', 'created_at': '2017-12-21T12:44:18Z', 'closed_at': '2018-02-05T16:45:10Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 653, 'title': 'Select time throught multiple days', 'state': 'closed', 'created_at': '2017-12-19T14:24:04Z', 'closed_at': '2017-12-19T15:28:58Z', 'labels': []}
+{'issuenumber': 651, 'title': 'Timezone behavior problems -shifting days', 'state': 'closed', 'created_at': '2017-12-18T14:09:44Z', 'closed_at': '2017-12-19T11:00:24Z', 'labels': []}
+{'issuenumber': 650, 'title': 'How to custom View different have header title not format is date and have multiple header title ???', 'state': 'closed', 'created_at': '2017-12-18T08:40:35Z', 'closed_at': '2018-01-03T22:59:11Z', 'labels': []}
+{'issuenumber': 649, 'title': 'Multiple events at the same time', 'state': 'closed', 'created_at': '2017-12-18T02:26:59Z', 'closed_at': '2018-02-05T14:18:09Z', 'labels': []}
+{'issuenumber': 648, 'title': "showMultiDayTimes rendering wrong - top and height aren't set", 'state': 'closed', 'created_at': '2017-12-16T01:15:27Z', 'closed_at': '2018-04-23T12:48:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 647, 'title': 'Display day view with horizontal time scale?', 'state': 'closed', 'created_at': '2017-12-15T20:52:32Z', 'closed_at': '2018-11-19T15:48:30Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 645, 'title': 'Customize the Hour range', 'state': 'closed', 'created_at': '2017-12-15T07:34:55Z', 'closed_at': '2017-12-15T12:46:01Z', 'labels': []}
+{'issuenumber': 644, 'title': 'Customize day item in month view', 'state': 'closed', 'created_at': '2017-12-14T09:57:10Z', 'closed_at': '2018-01-04T00:37:30Z', 'labels': []}
+{'issuenumber': 643, 'title': 'React big calendar weekly view not working correctly', 'state': 'closed', 'created_at': '2017-12-12T13:52:05Z', 'closed_at': '2017-12-12T14:14:11Z', 'labels': []}
+{'issuenumber': 640, 'title': 'Next release', 'state': 'closed', 'created_at': '2017-12-11T14:17:31Z', 'closed_at': '2017-12-11T16:58:39Z', 'labels': []}
+{'issuenumber': 639, 'title': "Events don't load on server side rendering", 'state': 'closed', 'created_at': '2017-12-08T15:43:16Z', 'closed_at': '2018-02-05T16:49:55Z', 'labels': []}
+{'issuenumber': 636, 'title': 'Current timeslot indicator does not update if page is left open', 'state': 'closed', 'created_at': '2017-12-05T20:35:21Z', 'closed_at': '2018-02-05T16:49:43Z', 'labels': []}
+{'issuenumber': 633, 'title': 'Custom Agenda View Header', 'state': 'closed', 'created_at': '2017-12-05T11:31:46Z', 'closed_at': '2018-01-05T01:08:00Z', 'labels': []}
+{'issuenumber': 632, 'title': 'Event is set to all day, when it happens between 2 days', 'state': 'closed', 'created_at': '2017-12-05T10:15:22Z', 'closed_at': '2017-12-05T12:58:59Z', 'labels': []}
+{'issuenumber': 631, 'title': 'Some border alignment issues', 'state': 'closed', 'created_at': '2017-12-01T18:58:50Z', 'closed_at': '2018-01-04T17:22:26Z', 'labels': []}
+{'issuenumber': 630, 'title': 'Bug with selecting events in Chrome', 'state': 'closed', 'created_at': '2017-12-01T13:51:20Z', 'closed_at': '2018-02-05T16:49:11Z', 'labels': []}
+{'issuenumber': 629, 'title': 'Drag & Drop Calendar dateCellWrapper', 'state': 'closed', 'created_at': '2017-11-29T20:05:25Z', 'closed_at': '2018-07-30T15:57:06Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 627, 'title': 'Question - Is it possible to use the week view as timetable only?', 'state': 'closed', 'created_at': '2017-11-23T11:46:54Z', 'closed_at': '2018-01-04T00:47:56Z', 'labels': []}
+{'issuenumber': 626, 'title': 'Question - is it possible to add a new day (holidays) on week view?', 'state': 'closed', 'created_at': '2017-11-21T18:32:57Z', 'closed_at': '2017-11-21T18:49:03Z', 'labels': []}
+{'issuenumber': 625, 'title': 'I need to get each timeslots as a components', 'state': 'closed', 'created_at': '2017-11-21T04:58:58Z', 'closed_at': '2018-03-17T01:08:22Z', 'labels': {'name': 'question'}}
+{'issuenumber': 623, 'title': 'Passing state and methods to custom components', 'state': 'closed', 'created_at': '2017-11-17T10:04:15Z', 'closed_at': '2017-11-18T05:30:02Z', 'labels': []}
+{'issuenumber': 622, 'title': 'allDayAccessor is not enough to stop rendering events in all day section', 'state': 'closed', 'created_at': '2017-11-16T11:56:00Z', 'closed_at': '2017-11-16T12:57:32Z', 'labels': []}
+{'issuenumber': 621, 'title': 'Rerender the calendar when events has changed', 'state': 'closed', 'created_at': '2017-11-16T02:26:49Z', 'closed_at': '2017-11-16T12:59:59Z', 'labels': []}
+{'issuenumber': 620, 'title': 'Custom view component connected to redux', 'state': 'closed', 'created_at': '2017-11-15T09:08:09Z', 'closed_at': '2018-02-06T19:24:25Z', 'labels': []}
+{'issuenumber': 619, 'title': 'First day column in month view has extra timeslots', 'state': 'closed', 'created_at': '2017-11-10T23:52:55Z', 'closed_at': '2019-05-23T12:29:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 618, 'title': 'need dom event object for onSelectSlot', 'state': 'closed', 'created_at': '2017-11-10T03:11:56Z', 'closed_at': '2018-11-19T15:48:30Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 617, 'title': 'Hiding Time', 'state': 'closed', 'created_at': '2017-11-09T19:27:36Z', 'closed_at': '2018-11-19T15:48:30Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 616, 'title': 'Bug with DST', 'state': 'closed', 'created_at': '2017-11-09T09:50:04Z', 'closed_at': '2018-11-02T19:51:22Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 614, 'title': 'onSelectSlot callback is called instead of onSelectEvent (sometimes)', 'state': 'closed', 'created_at': '2017-11-08T18:40:29Z', 'closed_at': '2018-02-05T16:49:23Z', 'labels': []}
+{'issuenumber': 613, 'title': 'Exposing view type to eventStyleGetter', 'state': 'closed', 'created_at': '2017-11-08T07:22:51Z', 'closed_at': '2018-01-04T03:26:14Z', 'labels': []}
+{'issuenumber': 612, 'title': 'work week ', 'state': 'closed', 'created_at': '2017-11-08T01:47:46Z', 'closed_at': '2018-01-04T00:52:24Z', 'labels': []}
+{'issuenumber': 609, 'title': 'Add optional onDrillDown to the Calendar', 'state': 'closed', 'created_at': '2017-11-06T15:56:02Z', 'closed_at': '2017-11-06T16:16:09Z', 'labels': []}
+{'issuenumber': 608, 'title': 'How to style events in week/month view', 'state': 'closed', 'created_at': '2017-11-06T10:11:23Z', 'closed_at': '2017-11-06T12:12:29Z', 'labels': []}
+{'issuenumber': 607, 'title': 'TypeError: evts.filter is not a function error when rendering calendar', 'state': 'closed', 'created_at': '2017-11-03T08:22:08Z', 'closed_at': '2018-01-04T00:59:38Z', 'labels': []}
+{'issuenumber': 605, 'title': 'Issue in displaying event in Week view and Day View', 'state': 'closed', 'created_at': '2017-11-02T12:45:07Z', 'closed_at': '2018-02-06T19:27:48Z', 'labels': []}
+{'issuenumber': 604, 'title': 'Display a rolling month.', 'state': 'closed', 'created_at': '2017-11-02T09:07:36Z', 'closed_at': '2019-05-23T12:29:27Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 603, 'title': 'Month view not show calendar.', 'state': 'closed', 'created_at': '2017-11-01T21:25:59Z', 'closed_at': '2017-11-01T21:35:30Z', 'labels': []}
+{'issuenumber': 602, 'title': 'cant get any display??', 'state': 'closed', 'created_at': '2017-10-30T16:01:09Z', 'closed_at': '2017-10-30T17:07:07Z', 'labels': []}
+{'issuenumber': 601, 'title': 'Week view customization', 'state': 'closed', 'created_at': '2017-10-30T06:00:30Z', 'closed_at': '2017-11-02T14:52:58Z', 'labels': []}
+{'issuenumber': 597, 'title': 'Request: Mini-month view', 'state': 'closed', 'created_at': '2017-10-27T13:01:02Z', 'closed_at': '2017-11-02T14:59:08Z', 'labels': []}
+{'issuenumber': 596, 'title': 'Having more than 3 elements in month view', 'state': 'closed', 'created_at': '2017-10-23T21:50:41Z', 'closed_at': '2017-10-24T00:29:50Z', 'labels': []}
+{'issuenumber': 595, 'title': 'minDate and maxDate not exist', 'state': 'closed', 'created_at': '2017-10-23T11:56:29Z', 'closed_at': '2017-11-02T14:53:41Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 594, 'title': 'Allow selectable to take ignoreEvents', 'state': 'closed', 'created_at': '2017-10-20T16:25:34Z', 'closed_at': '2017-10-27T14:06:54Z', 'labels': []}
+{'issuenumber': 592, 'title': 'Last row of events in month view not rendered correctly', 'state': 'closed', 'created_at': '2017-10-20T00:13:14Z', 'closed_at': '2018-02-06T19:44:05Z', 'labels': []}
+{'issuenumber': 591, 'title': 'Current time line is hidden', 'state': 'closed', 'created_at': '2017-10-19T14:52:42Z', 'closed_at': '2017-11-02T15:18:32Z', 'labels': []}
+{'issuenumber': 588, 'title': 'October issue', 'state': 'closed', 'created_at': '2017-10-17T20:38:19Z', 'closed_at': '2018-03-15T13:14:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 587, 'title': 'Drag-and-drop issuse', 'state': 'closed', 'created_at': '2017-10-17T13:43:55Z', 'closed_at': '2017-11-02T14:55:08Z', 'labels': []}
+{'issuenumber': 586, 'title': 'Scroll into view not working', 'state': 'closed', 'created_at': '2017-10-12T19:49:03Z', 'closed_at': '2017-11-02T15:18:32Z', 'labels': []}
+{'issuenumber': 585, 'title': 'slotPropGetter not called for TimeGrid', 'state': 'closed', 'created_at': '2017-10-12T08:56:31Z', 'closed_at': '2018-01-05T01:15:41Z', 'labels': []}
+{'issuenumber': 584, 'title': 'double click is not published on npm', 'state': 'closed', 'created_at': '2017-10-12T05:06:40Z', 'closed_at': '2017-11-02T15:18:32Z', 'labels': []}
+{'issuenumber': 583, 'title': 'Current time indicator', 'state': 'closed', 'created_at': '2017-10-10T15:02:10Z', 'closed_at': '2017-10-11T08:42:17Z', 'labels': []}
+{'issuenumber': 582, 'title': 'Actually over-write titleAccessor behavior', 'state': 'closed', 'created_at': '2017-10-08T19:58:06Z', 'closed_at': '2017-11-02T15:18:32Z', 'labels': []}
+{'issuenumber': 581, 'title': 'How can i get Drag Source object in Dnd calendar?', 'state': 'closed', 'created_at': '2017-10-08T09:05:05Z', 'closed_at': '2017-11-03T15:22:32Z', 'labels': []}
+{'issuenumber': 580, 'title': 'How do I copy events on certain days - showing demo of what I want to do', 'state': 'closed', 'created_at': '2017-10-08T05:01:46Z', 'closed_at': '2017-10-09T12:32:57Z', 'labels': []}
+{'issuenumber': 579, 'title': 'IE 11 missing polyfill', 'state': 'closed', 'created_at': '2017-10-06T22:42:16Z', 'closed_at': '2017-11-02T15:18:32Z', 'labels': []}
+{'issuenumber': 576, 'title': 'Render custom component as Event', 'state': 'closed', 'created_at': '2017-10-05T12:16:16Z', 'closed_at': '2018-02-06T20:00:51Z', 'labels': []}
+{'issuenumber': 573, 'title': 'Upgrade peer dependencies to allow for React v16', 'state': 'closed', 'created_at': '2017-10-03T17:40:49Z', 'closed_at': '2017-10-27T15:25:34Z', 'labels': []}
+{'issuenumber': 572, 'title': 'PropGetter for slot background', 'state': 'closed', 'created_at': '2017-10-03T17:30:24Z', 'closed_at': '2017-11-02T14:57:51Z', 'labels': []}
+{'issuenumber': 571, 'title': 'Remove popup icon and display all events by increasing cell height accordingly', 'state': 'closed', 'created_at': '2017-10-03T11:00:36Z', 'closed_at': '2017-10-03T12:46:44Z', 'labels': []}
+{'issuenumber': 569, 'title': 'Question: Does this react component support Timeline feature (premium feature) of the FullCalendar?', 'state': 'closed', 'created_at': '2017-10-02T13:08:30Z', 'closed_at': '2017-11-14T19:12:41Z', 'labels': []}
+{'issuenumber': 568, 'title': 'How to set time zone correctly the way examples do', 'state': 'closed', 'created_at': '2017-10-02T06:22:05Z', 'closed_at': '2017-11-02T14:56:09Z', 'labels': []}
+{'issuenumber': 566, 'title': 'Question - Can you customize number of events per day?', 'state': 'closed', 'created_at': '2017-09-29T20:59:20Z', 'closed_at': '2017-10-01T00:36:15Z', 'labels': []}
+{'issuenumber': 565, 'title': 'Removing View.range() broke my code', 'state': 'closed', 'created_at': '2017-09-29T19:37:23Z', 'closed_at': '2017-11-02T15:18:09Z', 'labels': []}
+{'issuenumber': 564, 'title': 'Update Event by DnD Either Ends of the Event', 'state': 'closed', 'created_at': '2017-09-28T21:05:12Z', 'closed_at': '2017-09-29T17:58:05Z', 'labels': []}
+{'issuenumber': 563, 'title': 'Add double click handler', 'state': 'closed', 'created_at': '2017-09-28T15:43:58Z', 'closed_at': '2017-09-29T13:38:13Z', 'labels': []}
+{'issuenumber': 562, 'title': 'Step property does not work', 'state': 'closed', 'created_at': '2017-09-28T07:52:07Z', 'closed_at': '2017-09-29T13:27:36Z', 'labels': []}
+{'issuenumber': 561, 'title': 'Calendar Events height rendering at 5000%', 'state': 'closed', 'created_at': '2017-09-25T23:14:12Z', 'closed_at': '2017-09-26T09:35:56Z', 'labels': []}
+{'issuenumber': 559, 'title': 'Add day to AgendaTime component props', 'state': 'closed', 'created_at': '2017-09-25T23:09:18Z', 'closed_at': '2017-09-25T23:57:45Z', 'labels': []}
+{'issuenumber': 558, 'title': 'Show more button is hidden on custom event with line-height property', 'state': 'closed', 'created_at': '2017-09-21T12:58:36Z', 'closed_at': '2018-02-06T20:01:23Z', 'labels': []}
+{'issuenumber': 557, 'title': 'Styling rbc-row-segment div with rbc-off-range CSS', 'state': 'closed', 'created_at': '2017-09-20T23:30:32Z', 'closed_at': '2017-09-29T15:23:44Z', 'labels': []}
+{'issuenumber': 556, 'title': 'Navigate to specific date from custom toolbar', 'state': 'closed', 'created_at': '2017-09-20T14:26:10Z', 'closed_at': '2017-09-29T13:32:05Z', 'labels': []}
+{'issuenumber': 555, 'title': 'Getting very slow', 'state': 'closed', 'created_at': '2017-09-19T19:51:55Z', 'closed_at': '2017-09-29T13:29:32Z', 'labels': []}
+{'issuenumber': 554, 'title': 'Compatibility with redux-i18n?', 'state': 'closed', 'created_at': '2017-09-19T15:29:16Z', 'closed_at': '2017-09-29T13:29:26Z', 'labels': []}
+{'issuenumber': 553, 'title': 'Changing color of clicked day slot?', 'state': 'closed', 'created_at': '2017-09-19T13:06:21Z', 'closed_at': '2017-09-29T13:38:56Z', 'labels': []}
+{'issuenumber': 552, 'title': 'Turn off dragging for some events', 'state': 'closed', 'created_at': '2017-09-19T08:29:17Z', 'closed_at': '2017-09-29T13:33:44Z', 'labels': []}
+{'issuenumber': 551, 'title': "SSR / Isomorphic issues - server generated markup missing columns and showing events that don't exist", 'state': 'closed', 'created_at': '2017-09-19T02:32:31Z', 'closed_at': '2017-11-19T00:40:28Z', 'labels': []}
+{'issuenumber': 550, 'title': 'Min and max time props not being respected', 'state': 'closed', 'created_at': '2017-09-18T23:52:15Z', 'closed_at': '2017-09-19T07:15:29Z', 'labels': []}
+{'issuenumber': 549, 'title': 'is there a way to change the format of the column titles?', 'state': 'closed', 'created_at': '2017-09-18T17:26:54Z', 'closed_at': '2017-09-18T18:00:25Z', 'labels': []}
+{'issuenumber': 547, 'title': "events from 11:30 am to 12:30m appearing at 'all day' row", 'state': 'closed', 'created_at': '2017-09-12T22:40:54Z', 'closed_at': '2017-09-15T15:25:58Z', 'labels': []}
+{'issuenumber': 545, 'title': 'Request', 'state': 'closed', 'created_at': '2017-09-12T19:17:06Z', 'closed_at': '2017-09-29T13:35:51Z', 'labels': []}
+{'issuenumber': 544, 'title': 'Hosting with IIS', 'state': 'closed', 'created_at': '2017-09-11T23:25:54Z', 'closed_at': '2017-09-29T13:35:58Z', 'labels': []}
+{'issuenumber': 543, 'title': 'Events greater than half hour that are set to 11:30pm go to All Day', 'state': 'closed', 'created_at': '2017-09-11T15:57:28Z', 'closed_at': '2017-09-11T16:13:35Z', 'labels': []}
+{'issuenumber': 539, 'title': 'Lack of test coverage', 'state': 'closed', 'created_at': '2017-09-08T18:27:54Z', 'closed_at': '2017-11-02T15:18:31Z', 'labels': []}
+{'issuenumber': 538, 'title': 'Mouseover event', 'state': 'closed', 'created_at': '2017-09-08T12:17:03Z', 'closed_at': '2017-09-29T13:38:21Z', 'labels': []}
+{'issuenumber': 537, 'title': 'Custom views break title formatting', 'state': 'closed', 'created_at': '2017-09-07T01:25:20Z', 'closed_at': '2017-09-29T15:24:46Z', 'labels': []}
+{'issuenumber': 536, 'title': "color property not valid if used 'stage-0',", 'state': 'closed', 'created_at': '2017-09-06T19:34:04Z', 'closed_at': '2017-09-06T20:06:56Z', 'labels': []}
+{'issuenumber': 535, 'title': 'Change default colors for events and selected event', 'state': 'closed', 'created_at': '2017-09-06T17:13:26Z', 'closed_at': '2017-09-06T17:35:41Z', 'labels': []}
+{'issuenumber': 534, 'title': 'Layout ugly with bootstrap 4.0 alpha', 'state': 'closed', 'created_at': '2017-09-03T06:03:10Z', 'closed_at': '2017-09-03T06:18:31Z', 'labels': []}
+{'issuenumber': 533, 'title': 'Unable to display calendar for the whole day', 'state': 'closed', 'created_at': '2017-09-01T15:52:20Z', 'closed_at': '2017-09-05T08:47:07Z', 'labels': []}
+{'issuenumber': 532, 'title': 'Additional empty timeline', 'state': 'closed', 'created_at': '2017-09-01T12:19:28Z', 'closed_at': '2017-09-29T13:37:51Z', 'labels': []}
+{'issuenumber': 531, 'title': 'Question - is it possible to render a 5 day (Mon-Fri) month view?', 'state': 'closed', 'created_at': '2017-08-31T15:55:38Z', 'closed_at': '2018-02-06T20:04:25Z', 'labels': {'name': 'question'}}
+{'issuenumber': 528, 'title': "Clicking on cell day number in month view adds 'rbc-current' class", 'state': 'closed', 'created_at': '2017-08-30T19:37:05Z', 'closed_at': '2017-08-30T21:26:39Z', 'labels': []}
+{'issuenumber': 527, 'title': 'Uncaught ReferenceError: require is not defined', 'state': 'closed', 'created_at': '2017-08-30T09:40:01Z', 'closed_at': '2017-08-30T12:40:45Z', 'labels': []}
+{'issuenumber': 525, 'title': 'How can I change the number of days displayed in week view of the calendar, like a four day or a three day week view ?', 'state': 'closed', 'created_at': '2017-08-29T06:19:43Z', 'closed_at': '2017-08-29T11:28:06Z', 'labels': []}
+{'issuenumber': 524, 'title': 'styles included in eventPropGetter can be overwrite at template definition ', 'state': 'closed', 'created_at': '2017-08-29T03:53:30Z', 'closed_at': '2017-11-02T15:02:36Z', 'labels': []}
+{'issuenumber': 522, 'title': "reading format 'YYYY-MM-DD hh:mm:ss'", 'state': 'closed', 'created_at': '2017-08-28T19:40:34Z', 'closed_at': '2017-08-29T01:22:13Z', 'labels': []}
+{'issuenumber': 521, 'title': 'How can I disable Time slots in day view and week view? ', 'state': 'closed', 'created_at': '2017-08-26T20:59:25Z', 'closed_at': '2017-08-29T11:31:44Z', 'labels': []}
+{'issuenumber': 520, 'title': 'Use Case: All Day events only, HELP!', 'state': 'closed', 'created_at': '2017-08-25T10:58:22Z', 'closed_at': '2017-09-05T11:02:54Z', 'labels': []}
+{'issuenumber': 515, 'title': 'Thoughts on adding dragging feature that updates event end time', 'state': 'closed', 'created_at': '2017-08-18T15:36:37Z', 'closed_at': '2017-08-18T16:26:05Z', 'labels': []}
+{'issuenumber': 514, 'title': 'create custom button (i.e. "Staff View") near day, month, week ', 'state': 'closed', 'created_at': '2017-08-18T06:59:40Z', 'closed_at': '2017-08-23T12:25:56Z', 'labels': []}
+{'issuenumber': 513, 'title': 'Localized Agenda Header Text', 'state': 'closed', 'created_at': '2017-08-18T06:59:39Z', 'closed_at': '2017-09-29T13:32:11Z', 'labels': []}
+{'issuenumber': 512, 'title': 'Event shown on top of another Event (hiding the one below)', 'state': 'closed', 'created_at': '2017-08-17T21:33:58Z', 'closed_at': '2018-01-11T13:13:58Z', 'labels': []}
+{'issuenumber': 511, 'title': 'Change What Day Today Goes To', 'state': 'closed', 'created_at': '2017-08-17T21:12:12Z', 'closed_at': '2017-08-23T21:03:06Z', 'labels': []}
+{'issuenumber': 509, 'title': 'Google Calendar integration', 'state': 'closed', 'created_at': '2017-08-17T14:31:50Z', 'closed_at': '2017-10-10T20:32:46Z', 'labels': []}
+{'issuenumber': 508, 'title': 'Update docs', 'state': 'closed', 'created_at': '2017-08-17T14:29:23Z', 'closed_at': '2017-09-29T15:24:15Z', 'labels': []}
+{'issuenumber': 507, 'title': 'EventCell needs key props to prevent rendering bug on event component', 'state': 'closed', 'created_at': '2017-08-17T09:29:11Z', 'closed_at': '2019-05-23T12:29:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 506, 'title': 'What does an event object consist of?', 'state': 'closed', 'created_at': '2017-08-16T23:08:31Z', 'closed_at': '2017-08-17T19:16:45Z', 'labels': []}
+{'issuenumber': 504, 'title': 'Calendar rendering events outside of the defined hours', 'state': 'closed', 'created_at': '2017-08-16T10:37:56Z', 'closed_at': '2019-05-23T12:29:26Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 503, 'title': 'Make onDrillDown a prop of Calendar', 'state': 'closed', 'created_at': '2017-08-15T21:05:35Z', 'closed_at': '2017-09-29T13:32:28Z', 'labels': []}
+{'issuenumber': 502, 'title': 'Cannot run', 'state': 'closed', 'created_at': '2017-08-15T05:19:07Z', 'closed_at': '2017-09-29T15:23:19Z', 'labels': []}
+{'issuenumber': 501, 'title': 'Option to fix calendar headers to allow visibility during scrolling. ', 'state': 'closed', 'created_at': '2017-08-11T20:15:28Z', 'closed_at': '2017-09-29T13:40:16Z', 'labels': []}
+{'issuenumber': 497, 'title': 'Missing `rbc-now` class', 'state': 'closed', 'created_at': '2017-08-09T14:39:33Z', 'closed_at': '2018-02-06T22:45:32Z', 'labels': []}
+{'issuenumber': 495, 'title': 'eventPropGetter for each view', 'state': 'closed', 'created_at': '2017-08-05T00:12:05Z', 'closed_at': '2018-02-06T21:50:32Z', 'labels': {'name': 'question'}}
+{'issuenumber': 494, 'title': 'Events are not displayed', 'state': 'closed', 'created_at': '2017-08-04T23:21:07Z', 'closed_at': '2017-08-04T23:51:20Z', 'labels': []}
+{'issuenumber': 493, 'title': "Week view doesn't work in Safari with no events", 'state': 'closed', 'created_at': '2017-08-04T15:31:04Z', 'closed_at': '2017-08-14T15:06:52Z', 'labels': []}
+{'issuenumber': 492, 'title': 'Different height calculation', 'state': 'closed', 'created_at': '2017-08-04T11:24:14Z', 'closed_at': '2017-09-29T13:39:17Z', 'labels': []}
+{'issuenumber': 491, 'title': 'Drag & drop or resize events inside React Big calendar', 'state': 'closed', 'created_at': '2017-08-02T04:54:59Z', 'closed_at': '2017-08-04T13:37:35Z', 'labels': []}
+{'issuenumber': 490, 'title': 'Events that span longer than 1 day with specific hours it starts and ends at show as all day events', 'state': 'closed', 'created_at': '2017-08-01T21:03:15Z', 'closed_at': '2017-08-04T17:56:02Z', 'labels': []}
+{'issuenumber': 489, 'title': 'Agenda view showing wrong date range', 'state': 'closed', 'created_at': '2017-07-31T19:39:33Z', 'closed_at': '2017-09-29T15:23:58Z', 'labels': []}
+{'issuenumber': 488, 'title': 'defaultView missing from api docs', 'state': 'closed', 'created_at': '2017-07-31T05:56:25Z', 'closed_at': '2017-09-29T13:37:42Z', 'labels': []}
+{'issuenumber': 487, 'title': 'Click in the entire box', 'state': 'closed', 'created_at': '2017-07-28T16:02:17Z', 'closed_at': '2017-08-29T17:27:41Z', 'labels': []}
+{'issuenumber': 486, 'title': 'Background color when selecting', 'state': 'closed', 'created_at': '2017-07-28T14:31:11Z', 'closed_at': '2017-08-02T14:16:01Z', 'labels': []}
+{'issuenumber': 484, 'title': 'Different Background Colors for Different Events? ', 'state': 'closed', 'created_at': '2017-07-26T21:21:24Z', 'closed_at': '2017-07-26T21:32:19Z', 'labels': []}
+{'issuenumber': 483, 'title': 'Changing header for various views?', 'state': 'closed', 'created_at': '2017-07-25T20:27:47Z', 'closed_at': '2017-09-29T13:39:10Z', 'labels': []}
+{'issuenumber': 482, 'title': 'Customize the ceil background ', 'state': 'closed', 'created_at': '2017-07-25T15:52:25Z', 'closed_at': '2017-07-27T12:40:46Z', 'labels': []}
+{'issuenumber': 481, 'title': 'How to hide all day row', 'state': 'closed', 'created_at': '2017-07-24T09:15:36Z', 'closed_at': '2017-07-24T12:45:34Z', 'labels': []}
+{'issuenumber': 480, 'title': 'Update Get Started', 'state': 'closed', 'created_at': '2017-07-23T02:04:48Z', 'closed_at': '2017-07-23T11:49:29Z', 'labels': []}
+{'issuenumber': 479, 'title': 'Support for AMD module loader', 'state': 'closed', 'created_at': '2017-07-21T11:07:05Z', 'closed_at': '2017-07-21T13:24:59Z', 'labels': []}
+{'issuenumber': 477, 'title': '"+X More" causing routing problems', 'state': 'closed', 'created_at': '2017-07-20T20:13:21Z', 'closed_at': '2017-07-20T22:26:18Z', 'labels': []}
+{'issuenumber': 474, 'title': 'Calendar does not render on safari', 'state': 'closed', 'created_at': '2017-07-20T03:29:43Z', 'closed_at': '2018-02-06T21:51:35Z', 'labels': []}
+{'issuenumber': 473, 'title': 'Warning : isMounted is deprecated !', 'state': 'closed', 'created_at': '2017-07-18T05:07:49Z', 'closed_at': '2017-09-29T13:39:04Z', 'labels': []}
+{'issuenumber': 471, 'title': 'components.Slot - customizing slot rendering', 'state': 'closed', 'created_at': '2017-07-13T19:50:28Z', 'closed_at': '2018-02-06T22:24:02Z', 'labels': []}
+{'issuenumber': 470, 'title': 'Change event-cell hoover behavior', 'state': 'closed', 'created_at': '2017-07-13T14:50:52Z', 'closed_at': '2017-12-02T04:06:12Z', 'labels': []}
+{'issuenumber': 469, 'title': 'Vertical Resource View', 'state': 'closed', 'created_at': '2017-07-12T11:51:35Z', 'closed_at': '2018-11-19T15:48:30Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 468, 'title': 'IE10 flexbox layout not working properly', 'state': 'closed', 'created_at': '2017-07-12T11:05:56Z', 'closed_at': '2018-11-19T15:47:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 467, 'title': 'Broken in IE11 due to missing Object.assign', 'state': 'closed', 'created_at': '2017-07-11T15:17:45Z', 'closed_at': '2018-02-06T22:52:32Z', 'labels': []}
+{'issuenumber': 466, 'title': 'Time column shrinks when modifying events on IE 11', 'state': 'closed', 'created_at': '2017-07-11T08:23:06Z', 'closed_at': '2018-03-15T13:14:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 465, 'title': 'Display events in cells', 'state': 'closed', 'created_at': '2017-07-10T15:50:25Z', 'closed_at': '2017-07-16T15:30:43Z', 'labels': []}
+{'issuenumber': 464, 'title': 'src/utils/eventLevels.js : findIndex is not supported on ie11', 'state': 'closed', 'created_at': '2017-07-10T08:54:37Z', 'closed_at': '2018-02-06T23:00:20Z', 'labels': []}
+{'issuenumber': 463, 'title': 'Im using it with typescript and Im getting errors', 'state': 'closed', 'created_at': '2017-07-07T17:09:07Z', 'closed_at': '2018-01-19T17:02:47Z', 'labels': []}
+{'issuenumber': 462, 'title': 'Not able to Run examples on local', 'state': 'closed', 'created_at': '2017-07-07T06:56:51Z', 'closed_at': '2017-07-07T13:21:25Z', 'labels': []}
+{'issuenumber': 461, 'title': "Overnight event doesn't render on second day", 'state': 'closed', 'created_at': '2017-07-07T03:48:04Z', 'closed_at': '2017-11-02T15:19:27Z', 'labels': []}
+{'issuenumber': 460, 'title': 'Uncaught Error: Cannot have two HTML5 backends at the same time.', 'state': 'closed', 'created_at': '2017-07-06T12:42:45Z', 'closed_at': '2017-07-06T13:17:45Z', 'labels': []}
+{'issuenumber': 459, 'title': " 'need to set an explicit height'", 'state': 'closed', 'created_at': '2017-07-06T03:34:58Z', 'closed_at': '2017-07-06T13:15:58Z', 'labels': []}
+{'issuenumber': 458, 'title': "month button click doesn't show all the data ( different in different browser) ", 'state': 'closed', 'created_at': '2017-07-05T07:04:36Z', 'closed_at': '2017-07-05T13:18:02Z', 'labels': []}
+{'issuenumber': 456, 'title': 'add popover when event is clicked?', 'state': 'closed', 'created_at': '2017-07-03T02:25:21Z', 'closed_at': '2017-11-02T15:19:27Z', 'labels': []}
+{'issuenumber': 455, 'title': 'Spread operator const {...props} = this.props', 'state': 'closed', 'created_at': '2017-07-02T23:50:22Z', 'closed_at': '2017-07-03T12:21:53Z', 'labels': []}
+{'issuenumber': 454, 'title': 'min, max props in Internet Explorer', 'state': 'closed', 'created_at': '2017-06-28T13:49:29Z', 'closed_at': '2017-07-05T13:44:01Z', 'labels': []}
+{'issuenumber': 453, 'title': 'Css Issues', 'state': 'closed', 'created_at': '2017-06-28T12:03:14Z', 'closed_at': '2017-06-28T12:05:10Z', 'labels': []}
+{'issuenumber': 452, 'title': 'scrollToTime prop is unintuitive', 'state': 'closed', 'created_at': '2017-06-28T10:26:02Z', 'closed_at': '2017-11-02T15:19:27Z', 'labels': []}
+{'issuenumber': 449, 'title': 'agendaHeaderFormat date (start, end) return undefined', 'state': 'closed', 'created_at': '2017-06-26T13:31:30Z', 'closed_at': '2017-07-07T13:22:32Z', 'labels': []}
+{'issuenumber': 448, 'title': 'rbc-event-continues-after class calculation incorrect', 'state': 'closed', 'created_at': '2017-06-26T12:56:04Z', 'closed_at': '2017-07-07T13:22:52Z', 'labels': []}
+{'issuenumber': 447, 'title': 'Multiple html5 backends issue', 'state': 'closed', 'created_at': '2017-06-26T10:18:23Z', 'closed_at': '2017-06-26T11:45:44Z', 'labels': []}
+{'issuenumber': 445, 'title': "'true' responsive design/customize calendar theme", 'state': 'closed', 'created_at': '2017-06-23T17:21:39Z', 'closed_at': '2017-11-02T15:19:27Z', 'labels': []}
+{'issuenumber': 444, 'title': 'release 0.14.1 expects webpack 2.2', 'state': 'closed', 'created_at': '2017-06-23T07:05:39Z', 'closed_at': '2017-06-23T13:56:40Z', 'labels': []}
+{'issuenumber': 443, 'title': 'TypeError: body is null', 'state': 'closed', 'created_at': '2017-06-22T14:08:38Z', 'closed_at': '2017-07-07T13:23:28Z', 'labels': []}
+{'issuenumber': 441, 'title': "'Now' class no longer added to current date", 'state': 'closed', 'created_at': '2017-06-21T06:33:23Z', 'closed_at': '2017-07-05T13:43:48Z', 'labels': []}
+{'issuenumber': 440, 'title': 'Default DateHeader prop "drillDownView" casing (v0.14.2)', 'state': 'closed', 'created_at': '2017-06-21T05:12:15Z', 'closed_at': '2017-06-21T14:22:26Z', 'labels': []}
+{'issuenumber': 439, 'title': 'Broken viewLabel for Agenda in v0.14.2', 'state': 'closed', 'created_at': '2017-06-21T00:15:00Z', 'closed_at': '2017-07-07T13:23:37Z', 'labels': []}
+{'issuenumber': 438, 'title': 'When will be available new rerelease?', 'state': 'closed', 'created_at': '2017-06-19T07:55:42Z', 'closed_at': '2017-06-19T15:41:51Z', 'labels': []}
+{'issuenumber': 437, 'title': 'Event overlap example', 'state': 'closed', 'created_at': '2017-06-15T16:58:57Z', 'closed_at': '2017-06-16T11:42:09Z', 'labels': []}
+{'issuenumber': 436, 'title': "I can't see month view in basic react-big-calendar", 'state': 'closed', 'created_at': '2017-06-14T07:40:13Z', 'closed_at': '2017-06-14T15:02:03Z', 'labels': []}
+{'issuenumber': 434, 'title': 'Landscape orientation and range for week view ', 'state': 'closed', 'created_at': '2017-06-09T09:51:47Z', 'closed_at': '2017-06-19T15:39:27Z', 'labels': []}
+{'issuenumber': 433, 'title': 'Paginate faster in agenda view', 'state': 'closed', 'created_at': '2017-06-08T16:42:25Z', 'closed_at': '2017-07-07T13:24:31Z', 'labels': []}
+{'issuenumber': 432, 'title': 'SyntheticEvent in onSelectSlot', 'state': 'closed', 'created_at': '2017-06-08T14:57:23Z', 'closed_at': '2017-07-07T13:25:24Z', 'labels': []}
+{'issuenumber': 431, 'title': 'Localization Issue', 'state': 'closed', 'created_at': '2017-06-07T20:47:14Z', 'closed_at': '2017-06-19T15:42:55Z', 'labels': []}
+{'issuenumber': 430, 'title': 'When can we be able to use Work Week component via npm?', 'state': 'closed', 'created_at': '2017-06-07T17:26:28Z', 'closed_at': '2017-11-02T15:19:27Z', 'labels': []}
+{'issuenumber': 429, 'title': 'TimeIndicator "now" value is always `new Date()`', 'state': 'closed', 'created_at': '2017-06-07T01:59:12Z', 'closed_at': '2017-11-02T15:19:26Z', 'labels': []}
+{'issuenumber': 428, 'title': 'Change language to french', 'state': 'closed', 'created_at': '2017-06-06T11:52:58Z', 'closed_at': '2017-06-06T13:22:29Z', 'labels': []}
+{'issuenumber': 427, 'title': 'React.createClass is deprecated on V15.5.4', 'state': 'closed', 'created_at': '2017-06-05T23:45:54Z', 'closed_at': '2017-06-06T00:39:56Z', 'labels': []}
+{'issuenumber': 426, 'title': 'Get data from the server dinamically', 'state': 'closed', 'created_at': '2017-06-05T16:45:46Z', 'closed_at': '2017-06-19T15:48:26Z', 'labels': []}
+{'issuenumber': 425, 'title': 'Warning: Portal: React.createClass is deprecated', 'state': 'closed', 'created_at': '2017-06-04T14:31:52Z', 'closed_at': '2017-06-19T15:43:06Z', 'labels': []}
+{'issuenumber': 422, 'title': "'month' can not display,why is it?", 'state': 'closed', 'created_at': '2017-06-02T09:54:28Z', 'closed_at': '2017-06-02T10:36:23Z', 'labels': []}
+{'issuenumber': 421, 'title': 'The style of the last event is wrong', 'state': 'closed', 'created_at': '2017-06-02T03:17:21Z', 'closed_at': '2017-11-02T15:19:26Z', 'labels': []}
+{'issuenumber': 420, 'title': 'plan to make class names local-scoped, instead of global scoped?', 'state': 'closed', 'created_at': '2017-05-31T15:56:19Z', 'closed_at': '2017-07-07T13:28:12Z', 'labels': []}
+{'issuenumber': 419, 'title': 'Start week from Monday instead of Sunday? (localizer not working)', 'state': 'closed', 'created_at': '2017-05-30T08:54:03Z', 'closed_at': '2017-06-05T15:24:50Z', 'labels': []}
+{'issuenumber': 418, 'title': "Can not read property 'matches' of null", 'state': 'closed', 'created_at': '2017-05-26T08:50:00Z', 'closed_at': '2017-06-19T15:43:11Z', 'labels': []}
+{'issuenumber': 416, 'title': 'Define custom eventWrapper', 'state': 'closed', 'created_at': '2017-05-24T16:20:47Z', 'closed_at': '2017-05-24T16:50:25Z', 'labels': []}
+{'issuenumber': 415, 'title': 'Disable week-end in month view', 'state': 'closed', 'created_at': '2017-05-24T16:07:10Z', 'closed_at': '2017-05-24T16:52:25Z', 'labels': []}
+{'issuenumber': 414, 'title': 'License', 'state': 'closed', 'created_at': '2017-05-24T15:43:15Z', 'closed_at': '2017-05-24T16:46:45Z', 'labels': []}
+{'issuenumber': 412, 'title': 'Translations on agenda view', 'state': 'closed', 'created_at': '2017-05-23T12:34:45Z', 'closed_at': '2017-05-23T14:05:45Z', 'labels': []}
+{'issuenumber': 409, 'title': 'Any example for fetching events from remote api?', 'state': 'closed', 'created_at': '2017-05-22T08:04:39Z', 'closed_at': '2017-05-22T12:35:41Z', 'labels': []}
+{'issuenumber': 408, 'title': 'dnd is broken if using eventPropGetter function', 'state': 'closed', 'created_at': '2017-05-22T02:57:49Z', 'closed_at': '2017-06-19T15:44:29Z', 'labels': {'name': 'addons'}}
+{'issuenumber': 407, 'title': 'Anchor hrefs hard coded to # ', 'state': 'closed', 'created_at': '2017-05-22T02:25:18Z', 'closed_at': '2017-06-19T15:44:57Z', 'labels': []}
+{'issuenumber': 405, 'title': 'Toolbar too wide', 'state': 'closed', 'created_at': '2017-05-21T11:54:51Z', 'closed_at': '2017-05-21T11:56:53Z', 'labels': []}
+{'issuenumber': 404, 'title': 'Events: Siblings, Overlapping (width and z-index)', 'state': 'closed', 'created_at': '2017-05-21T06:40:37Z', 'closed_at': '2017-11-02T15:19:26Z', 'labels': []}
+{'issuenumber': 401, 'title': "Month tab and Calendar tab doesn't show any event", 'state': 'closed', 'created_at': '2017-05-19T16:58:25Z', 'closed_at': '2017-05-19T20:01:28Z', 'labels': []}
+{'issuenumber': 398, 'title': 'Warning when creating event Form in week or day view', 'state': 'closed', 'created_at': '2017-05-17T09:52:05Z', 'closed_at': '2017-11-02T15:19:26Z', 'labels': []}
+{'issuenumber': 397, 'title': 'onSelectEvent issue', 'state': 'closed', 'created_at': '2017-05-16T09:22:47Z', 'closed_at': '2017-05-16T11:13:05Z', 'labels': []}
+{'issuenumber': 394, 'title': 'findComponentRoot unable to find element', 'state': 'closed', 'created_at': '2017-05-15T15:39:18Z', 'closed_at': '2017-05-15T17:57:23Z', 'labels': []}
+{'issuenumber': 392, 'title': 'Publish new version on NPM', 'state': 'closed', 'created_at': '2017-05-12T12:27:54Z', 'closed_at': '2017-05-12T12:47:18Z', 'labels': []}
+{'issuenumber': 390, 'title': 'write specific commands in README', 'state': 'closed', 'created_at': '2017-05-12T11:31:55Z', 'closed_at': '2017-05-12T11:34:28Z', 'labels': []}
+{'issuenumber': 389, 'title': 'Feature request?: Change day color by function', 'state': 'closed', 'created_at': '2017-05-12T11:30:51Z', 'closed_at': '2017-05-12T11:36:01Z', 'labels': []}
+{'issuenumber': 388, 'title': 'Event width 100%', 'state': 'closed', 'created_at': '2017-05-12T10:00:21Z', 'closed_at': '2017-07-01T16:41:03Z', 'labels': []}
+{'issuenumber': 387, 'title': 'issue with week view', 'state': 'closed', 'created_at': '2017-05-12T09:53:20Z', 'closed_at': '2017-05-13T05:49:53Z', 'labels': []}
+{'issuenumber': 386, 'title': 'Open specific date', 'state': 'closed', 'created_at': '2017-05-10T11:57:04Z', 'closed_at': '2017-05-11T08:52:39Z', 'labels': []}
+{'issuenumber': 385, 'title': 'Programmatic Event Selection', 'state': 'closed', 'created_at': '2017-05-08T19:49:29Z', 'closed_at': '2017-05-08T20:40:56Z', 'labels': []}
+{'issuenumber': 384, 'title': 'Warning on Event Click', 'state': 'closed', 'created_at': '2017-05-08T19:39:04Z', 'closed_at': '2017-05-22T12:37:30Z', 'labels': []}
+{'issuenumber': 382, 'title': 'Feature request: resize events', 'state': 'closed', 'created_at': '2017-05-07T14:28:34Z', 'closed_at': '2017-11-02T15:19:26Z', 'labels': []}
+{'issuenumber': 378, 'title': 'About event accuracy and overlap', 'state': 'closed', 'created_at': '2017-05-04T03:00:48Z', 'closed_at': '2017-11-02T15:19:26Z', 'labels': []}
+{'issuenumber': 377, 'title': 'cannot specify EventWrapper if withDragAndDrop is used', 'state': 'closed', 'created_at': '2017-05-03T07:52:08Z', 'closed_at': '2017-05-03T11:46:10Z', 'labels': []}
+{'issuenumber': 375, 'title': 'Uncaught TypeError: moment is not a function', 'state': 'closed', 'created_at': '2017-05-02T16:17:07Z', 'closed_at': '2017-05-03T11:42:15Z', 'labels': []}
+{'issuenumber': 372, 'title': 'Disable week-end in week view', 'state': 'closed', 'created_at': '2017-05-01T16:39:10Z', 'closed_at': '2017-11-02T15:19:25Z', 'labels': []}
+{'issuenumber': 370, 'title': 'Drag-to-select not aligned right with larger `step` values', 'state': 'closed', 'created_at': '2017-04-28T21:48:05Z', 'closed_at': '2017-11-02T15:19:25Z', 'labels': []}
+{'issuenumber': 368, 'title': 'Drag and Drop: Dropping on a slot with a pre-existing event', 'state': 'closed', 'created_at': '2017-04-26T17:19:11Z', 'closed_at': '2017-05-01T20:57:16Z', 'labels': []}
+{'issuenumber': 367, 'title': 'Improve documentation', 'state': 'closed', 'created_at': '2017-04-25T16:10:50Z', 'closed_at': '2017-04-25T16:16:11Z', 'labels': []}
+{'issuenumber': 366, 'title': 'titleAcessor new line for event contet', 'state': 'closed', 'created_at': '2017-04-24T21:22:36Z', 'closed_at': '2017-04-25T16:17:19Z', 'labels': []}
+{'issuenumber': 364, 'title': '"onSelectSlot" does not work on iPad', 'state': 'closed', 'created_at': '2017-04-23T13:56:58Z', 'closed_at': '2017-05-02T13:22:51Z', 'labels': []}
+{'issuenumber': 363, 'title': 'Events show as "all day" when they end 00:00:00 the next day', 'state': 'closed', 'created_at': '2017-04-23T00:10:16Z', 'closed_at': '2017-04-26T19:32:23Z', 'labels': []}
+{'issuenumber': 362, 'title': 'TypeError: date[("get" + method)] is not a function', 'state': 'closed', 'created_at': '2017-04-19T21:46:56Z', 'closed_at': '2017-04-19T22:19:45Z', 'labels': []}
+{'issuenumber': 360, 'title': "Use 'prop-types' package instead of React.PropTypes", 'state': 'closed', 'created_at': '2017-04-16T12:30:24Z', 'closed_at': '2017-05-02T13:33:42Z', 'labels': []}
+{'issuenumber': 359, 'title': 'Pass class to events', 'state': 'closed', 'created_at': '2017-04-15T22:42:09Z', 'closed_at': '2017-07-07T13:28:23Z', 'labels': []}
+{'issuenumber': 358, 'title': 'How to run and change Calendar', 'state': 'closed', 'created_at': '2017-04-14T15:19:06Z', 'closed_at': '2017-04-14T16:39:45Z', 'labels': []}
+{'issuenumber': 357, 'title': 'events in month view do not display correctly', 'state': 'closed', 'created_at': '2017-04-14T05:56:50Z', 'closed_at': '2017-06-02T12:28:35Z', 'labels': []}
+{'issuenumber': 356, 'title': "Use 'create-react-class' package instead of React.createClass", 'state': 'closed', 'created_at': '2017-04-12T22:51:26Z', 'closed_at': '2017-05-02T13:33:56Z', 'labels': []}
+{'issuenumber': 355, 'title': 'Feature proposal: recurrent events', 'state': 'closed', 'created_at': '2017-04-12T15:52:52Z', 'closed_at': '2017-06-19T15:48:16Z', 'labels': []}
+{'issuenumber': 354, 'title': '`min` & `max` to offset full 24 hour days', 'state': 'closed', 'created_at': '2017-04-11T21:45:34Z', 'closed_at': '2017-11-02T15:19:25Z', 'labels': []}
+{'issuenumber': 353, 'title': 'How do I set date format??', 'state': 'closed', 'created_at': '2017-04-10T09:03:36Z', 'closed_at': '2017-06-19T15:46:00Z', 'labels': []}
+{'issuenumber': 351, 'title': 'Way to customize overlapping events left offset?', 'state': 'closed', 'created_at': '2017-04-06T11:45:00Z', 'closed_at': '2017-04-06T12:02:28Z', 'labels': []}
+{'issuenumber': 350, 'title': 'Two HTML5 Drag and drop backends', 'state': 'closed', 'created_at': '2017-04-06T06:50:36Z', 'closed_at': '2017-04-06T11:58:21Z', 'labels': []}
+{'issuenumber': 349, 'title': 'The problem about allday and agenda.', 'state': 'closed', 'created_at': '2017-04-06T02:58:48Z', 'closed_at': '2017-04-06T11:59:44Z', 'labels': []}
+{'issuenumber': 348, 'title': 'Drag Drop issue If the event is dropped in a "Day" cell', 'state': 'closed', 'created_at': '2017-04-04T18:04:45Z', 'closed_at': '2018-01-03T19:28:15Z', 'labels': []}
+{'issuenumber': 346, 'title': 'Displaying not correct dates.', 'state': 'closed', 'created_at': '2017-04-04T15:03:11Z', 'closed_at': '2017-04-04T15:11:18Z', 'labels': []}
+{'issuenumber': 345, 'title': "Doesn't work on node 6?", 'state': 'closed', 'created_at': '2017-04-03T16:09:52Z', 'closed_at': '2017-04-03T16:35:24Z', 'labels': []}
+{'issuenumber': 344, 'title': 'Custom  (year) view', 'state': 'closed', 'created_at': '2017-04-03T11:19:35Z', 'closed_at': '2017-06-19T15:45:52Z', 'labels': []}
+{'issuenumber': 343, 'title': 'Is React big calendar free to use ?', 'state': 'closed', 'created_at': '2017-04-01T11:50:45Z', 'closed_at': '2017-04-01T12:53:43Z', 'labels': []}
+{'issuenumber': 342, 'title': 'How to get visible date range?', 'state': 'closed', 'created_at': '2017-03-29T18:16:09Z', 'closed_at': '2017-04-12T19:50:34Z', 'labels': []}
+{'issuenumber': 339, 'title': 'No render events when navigate on week view', 'state': 'closed', 'created_at': '2017-03-28T17:31:44Z', 'closed_at': '2017-03-28T22:41:57Z', 'labels': []}
+{'issuenumber': 338, 'title': 'Restrict between hours of a day', 'state': 'closed', 'created_at': '2017-03-28T14:16:45Z', 'closed_at': '2017-03-28T14:19:40Z', 'labels': []}
+{'issuenumber': 336, 'title': 'Use datefns instead', 'state': 'closed', 'created_at': '2017-03-28T10:31:03Z', 'closed_at': '2017-03-28T11:34:08Z', 'labels': []}
+{'issuenumber': 335, 'title': 'Missing declaration module for react-big-calendar/lib/addons/dragAndDrop', 'state': 'closed', 'created_at': '2017-03-27T12:05:43Z', 'closed_at': '2017-03-27T13:41:24Z', 'labels': []}
+{'issuenumber': 334, 'title': 'missing 2:00 am during the Daylight saving time switcing day', 'state': 'closed', 'created_at': '2017-03-26T19:37:39Z', 'closed_at': '2017-06-19T15:45:34Z', 'labels': []}
+{'issuenumber': 333, 'title': 'multiple columns per day view', 'state': 'closed', 'created_at': '2017-03-24T15:29:23Z', 'closed_at': '2017-06-19T15:45:43Z', 'labels': []}
+{'issuenumber': 331, 'title': "Disable 'all day events' header panel.", 'state': 'closed', 'created_at': '2017-03-24T15:24:14Z', 'closed_at': '2017-03-24T15:24:39Z', 'labels': []}
+{'issuenumber': 330, 'title': 'Day/Week view bug on 3/12/2017 & 3/11/2018', 'state': 'closed', 'created_at': '2017-03-24T01:49:19Z', 'closed_at': '2017-03-24T15:33:45Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 329, 'title': 'Week and Day Renders', 'state': 'closed', 'created_at': '2017-03-23T20:14:51Z', 'closed_at': '2017-03-23T20:21:08Z', 'labels': []}
+{'issuenumber': 326, 'title': 'Week view: unnecessary left margin of events', 'state': 'closed', 'created_at': '2017-03-22T14:54:28Z', 'closed_at': '2017-03-22T15:10:44Z', 'labels': []}
+{'issuenumber': 325, 'title': 'Week Grid render', 'state': 'closed', 'created_at': '2017-03-22T14:50:31Z', 'closed_at': '2017-06-19T15:45:20Z', 'labels': []}
+{'issuenumber': 323, 'title': 'onSelectSlot firing when clicking on the calendar', 'state': 'closed', 'created_at': '2017-03-20T16:57:46Z', 'closed_at': '2017-03-23T14:25:24Z', 'labels': []}
+{'issuenumber': 322, 'title': 'How To Get A Click Event To Show A Bootstrap Popover', 'state': 'closed', 'created_at': '2017-03-17T22:24:36Z', 'closed_at': '2017-05-21T11:57:38Z', 'labels': []}
+{'issuenumber': 321, 'title': 'Week view: Events with start/end in different days not working', 'state': 'closed', 'created_at': '2017-03-17T00:39:39Z', 'closed_at': '2017-08-28T18:38:42Z', 'labels': []}
+{'issuenumber': 320, 'title': 'Event Hover informations', 'state': 'closed', 'created_at': '2017-03-16T20:22:38Z', 'closed_at': '2017-03-18T16:16:05Z', 'labels': []}
+{'issuenumber': 318, 'title': 'Drag And Drop outside the calendar [SOLVED]', 'state': 'closed', 'created_at': '2017-03-14T11:10:48Z', 'closed_at': '2017-03-17T10:11:32Z', 'labels': []}
+{'issuenumber': 317, 'title': 'Release', 'state': 'closed', 'created_at': '2017-03-10T08:36:04Z', 'closed_at': '2017-03-18T16:16:33Z', 'labels': []}
+{'issuenumber': 316, 'title': 'changing timeGutterFormat -> props validation errors for TimeColumn and TimeSlotGroup', 'state': 'closed', 'created_at': '2017-03-06T19:47:56Z', 'closed_at': '2017-03-18T17:11:58Z', 'labels': []}
+{'issuenumber': 315, 'title': 'All day events wrapping only at end of week', 'state': 'closed', 'created_at': '2017-03-05T03:58:31Z', 'closed_at': '2017-05-23T04:14:55Z', 'labels': []}
+{'issuenumber': 314, 'title': 'Month and Agenda Views Empty', 'state': 'closed', 'created_at': '2017-03-03T22:57:42Z', 'closed_at': '2017-03-04T00:41:54Z', 'labels': []}
+{'issuenumber': 313, 'title': 'Week And Daily View, Day of DST Change Bug', 'state': 'closed', 'created_at': '2017-03-02T21:58:34Z', 'closed_at': '2018-11-19T15:47:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 312, 'title': 'How to add new event by dragging the slots?', 'state': 'closed', 'created_at': '2017-03-02T07:17:09Z', 'closed_at': '2017-03-18T16:17:35Z', 'labels': []}
+{'issuenumber': 307, 'title': 'End date confusion', 'state': 'closed', 'created_at': '2017-02-22T17:55:55Z', 'closed_at': '2017-02-22T18:09:57Z', 'labels': []}
+{'issuenumber': 306, 'title': 'Event width is not 100%', 'state': 'closed', 'created_at': '2017-02-22T06:37:40Z', 'closed_at': '2017-02-22T12:54:05Z', 'labels': []}
+{'issuenumber': 305, 'title': '100% customizable event', 'state': 'closed', 'created_at': '2017-02-21T17:18:56Z', 'closed_at': '2017-02-21T18:33:55Z', 'labels': []}
+{'issuenumber': 304, 'title': 'Adjusting time indicator position horizontally?', 'state': 'closed', 'created_at': '2017-02-21T13:40:09Z', 'closed_at': '2017-03-24T15:33:11Z', 'labels': []}
+{'issuenumber': 303, 'title': 'Add hover for details of event', 'state': 'closed', 'created_at': '2017-02-21T09:15:07Z', 'closed_at': '2017-03-24T15:33:57Z', 'labels': []}
+{'issuenumber': 302, 'title': 'Replace text toolbar', 'state': 'closed', 'created_at': '2017-02-17T08:45:47Z', 'closed_at': '2017-02-17T12:36:24Z', 'labels': []}
+{'issuenumber': 300, 'title': 'Changing background color of events per basis', 'state': 'closed', 'created_at': '2017-02-15T18:11:27Z', 'closed_at': '2017-02-15T18:27:47Z', 'labels': []}
+{'issuenumber': 299, 'title': 'daywrapper component not accepted', 'state': 'closed', 'created_at': '2017-02-15T15:28:05Z', 'closed_at': '2017-04-06T12:00:40Z', 'labels': []}
+{'issuenumber': 298, 'title': 'possible to add class for "now" day?', 'state': 'closed', 'created_at': '2017-02-13T20:14:02Z', 'closed_at': '2017-05-02T13:24:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 297, 'title': 'How to setup default time in Big Calendar', 'state': 'closed', 'created_at': '2017-02-13T15:05:22Z', 'closed_at': '2017-02-13T15:10:48Z', 'labels': []}
+{'issuenumber': 296, 'title': 'Formatting the calendar header', 'state': 'closed', 'created_at': '2017-02-11T13:53:05Z', 'closed_at': '2017-02-13T14:35:59Z', 'labels': []}
+{'issuenumber': 294, 'title': '"+ X more" doesn\'t appear ', 'state': 'closed', 'created_at': '2017-02-10T11:44:55Z', 'closed_at': '2017-02-17T13:27:09Z', 'labels': []}
+{'issuenumber': 293, 'title': 'View rendering inconsistently on mobile and desktop', 'state': 'closed', 'created_at': '2017-02-10T08:57:35Z', 'closed_at': '2017-02-10T09:21:28Z', 'labels': []}
+{'issuenumber': 292, 'title': 'Date Picker when clicking month at top', 'state': 'closed', 'created_at': '2017-02-09T15:56:35Z', 'closed_at': '2017-02-09T16:04:20Z', 'labels': []}
+{'issuenumber': 291, 'title': 'react-big-calendar navigate to specific day / month', 'state': 'closed', 'created_at': '2017-02-08T17:25:13Z', 'closed_at': '2017-02-08T17:39:06Z', 'labels': []}
+{'issuenumber': 290, 'title': 'How to handle multi column day ?', 'state': 'closed', 'created_at': '2017-02-07T15:59:39Z', 'closed_at': '2017-02-13T14:34:46Z', 'labels': []}
+{'issuenumber': 289, 'title': 'issue while using dnd and popup together', 'state': 'closed', 'created_at': '2017-01-31T16:26:18Z', 'closed_at': '2017-02-10T19:20:58Z', 'labels': []}
+{'issuenumber': 288, 'title': 'Previous & Next Callback', 'state': 'closed', 'created_at': '2017-01-31T13:58:33Z', 'closed_at': '2017-01-31T14:25:51Z', 'labels': []}
+{'issuenumber': 285, 'title': 'Drag and Drop Events to Next Month', 'state': 'closed', 'created_at': '2017-01-30T21:18:35Z', 'closed_at': '2017-02-10T19:21:38Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 284, 'title': 'Missing lib/addons/dragAndDrop/styles.less', 'state': 'closed', 'created_at': '2017-01-30T15:38:47Z', 'closed_at': '2017-03-24T15:32:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 283, 'title': "Uncaught TypeError: Cannot read property 'matches' of null", 'state': 'closed', 'created_at': '2017-01-27T17:02:01Z', 'closed_at': '2017-02-10T19:18:11Z', 'labels': []}
+{'issuenumber': 282, 'title': 'Vertical scheduler view', 'state': 'closed', 'created_at': '2017-01-26T13:11:23Z', 'closed_at': '2017-01-26T16:59:30Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 281, 'title': "Big calendar doesn't show events", 'state': 'closed', 'created_at': '2017-01-25T11:01:28Z', 'closed_at': '2017-01-25T11:25:40Z', 'labels': []}
+{'issuenumber': 280, 'title': 'Surfacing events from agenda view', 'state': 'closed', 'created_at': '2017-01-24T21:02:29Z', 'closed_at': '2017-01-24T21:03:25Z', 'labels': []}
+{'issuenumber': 279, 'title': 'React warning when using custom view', 'state': 'closed', 'created_at': '2017-01-22T06:25:42Z', 'closed_at': '2017-03-24T15:48:41Z', 'labels': []}
+{'issuenumber': 278, 'title': 'Setting defaultView/view to "week" sets day view with an empty heading', 'state': 'closed', 'created_at': '2017-01-20T10:48:49Z', 'closed_at': '2017-07-07T13:29:54Z', 'labels': []}
+{'issuenumber': 277, 'title': 'Custom ranges for views', 'state': 'closed', 'created_at': '2017-01-20T02:23:39Z', 'closed_at': '2017-02-13T14:37:18Z', 'labels': []}
+{'issuenumber': 276, 'title': 'Adjusting how event cells are placed in the calendar day view.', 'state': 'closed', 'created_at': '2017-01-19T17:33:28Z', 'closed_at': '2017-01-19T17:54:50Z', 'labels': []}
+{'issuenumber': 274, 'title': 'showMore message dont work', 'state': 'closed', 'created_at': '2017-01-19T09:23:43Z', 'closed_at': '2017-01-19T14:25:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 273, 'title': 'Monthly Calendar Grid Visible Behind Modal', 'state': 'closed', 'created_at': '2017-01-19T03:04:25Z', 'closed_at': '2017-01-19T04:05:01Z', 'labels': []}
+{'issuenumber': 272, 'title': 'Disable, or at least add custom class, to dates in the past (month view)', 'state': 'closed', 'created_at': '2017-01-17T14:53:46Z', 'closed_at': '2017-02-13T14:37:32Z', 'labels': []}
+{'issuenumber': 271, 'title': 'Feature request: weekNumber', 'state': 'closed', 'created_at': '2017-01-17T13:48:14Z', 'closed_at': '2017-03-24T15:34:12Z', 'labels': []}
+{'issuenumber': 270, 'title': 'Feature request: year view', 'state': 'closed', 'created_at': '2017-01-17T12:39:02Z', 'closed_at': '2018-11-19T15:47:38Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 268, 'title': 'Events overflow on week view', 'state': 'closed', 'created_at': '2017-01-16T13:07:45Z', 'closed_at': '2017-01-16T13:53:02Z', 'labels': []}
+{'issuenumber': 267, 'title': 'culture is not passed to TimeSlotGroup', 'state': 'closed', 'created_at': '2017-01-14T18:13:27Z', 'closed_at': '2017-01-14T19:01:29Z', 'labels': []}
+{'issuenumber': 264, 'title': 'Highlighting a slot over an event? (Week and Day view)', 'state': 'closed', 'created_at': '2017-01-12T08:19:31Z', 'closed_at': '2017-01-16T14:21:04Z', 'labels': []}
+{'issuenumber': 263, 'title': 'Improve day view layout', 'state': 'closed', 'created_at': '2017-01-11T12:58:19Z', 'closed_at': '2017-01-18T20:59:39Z', 'labels': []}
+{'issuenumber': 261, 'title': 'Version 0.12.0 does not support custom component for events in month-view anymore?', 'state': 'closed', 'created_at': '2017-01-10T11:00:37Z', 'closed_at': '2017-01-11T12:14:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 260, 'title': "Can't create a All Day event today's date?", 'state': 'closed', 'created_at': '2017-01-09T03:12:48Z', 'closed_at': '2017-01-17T22:05:30Z', 'labels': []}
+{'issuenumber': 259, 'title': 'Disable to select cells under All Day in week or day view', 'state': 'closed', 'created_at': '2017-01-06T04:19:20Z', 'closed_at': '2017-01-06T19:37:43Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 257, 'title': 'Expose constants for navigation', 'state': 'closed', 'created_at': '2017-01-05T14:30:08Z', 'closed_at': '2017-01-05T17:04:27Z', 'labels': []}
+{'issuenumber': 256, 'title': 'All day selection in Day and Week view', 'state': 'closed', 'created_at': '2017-01-05T10:36:14Z', 'closed_at': '2017-01-07T21:24:07Z', 'labels': []}
+{'issuenumber': 255, 'title': 'Calendar not displaying properly', 'state': 'closed', 'created_at': '2017-01-05T06:46:16Z', 'closed_at': '2017-01-05T12:37:06Z', 'labels': []}
+{'issuenumber': 254, 'title': 'Using AllDay should default to inclusive ranges', 'state': 'closed', 'created_at': '2017-01-04T08:48:08Z', 'closed_at': '2017-11-02T15:19:50Z', 'labels': []}
+{'issuenumber': 253, 'title': 'Min Max time limit Safari render problem', 'state': 'closed', 'created_at': '2017-01-03T14:28:06Z', 'closed_at': '2017-01-03T20:16:30Z', 'labels': []}
+{'issuenumber': 251, 'title': 'Filter events in Agenda', 'state': 'closed', 'created_at': '2017-01-03T09:32:57Z', 'closed_at': '2017-01-03T10:34:07Z', 'labels': []}
+{'issuenumber': 249, 'title': 'Events outside of the min/max times are rendering in random slots.', 'state': 'closed', 'created_at': '2016-12-30T14:48:30Z', 'closed_at': '2017-01-07T21:24:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 247, 'title': 'BigCalendar is referenced from examples and readme', 'state': 'closed', 'created_at': '2016-12-30T07:00:33Z', 'closed_at': '2016-12-30T07:07:18Z', 'labels': []}
+{'issuenumber': 245, 'title': "Uncaught TypeError: Cannot read property 'apply' of undefined", 'state': 'closed', 'created_at': '2016-12-29T01:23:22Z', 'closed_at': '2017-01-06T17:29:12Z', 'labels': []}
+{'issuenumber': 244, 'title': "BackgroundCells.jsx `selectable` PropTypes should include 'ignoreEvents' string", 'state': 'closed', 'created_at': '2016-12-28T21:31:11Z', 'closed_at': '2016-12-29T16:25:45Z', 'labels': []}
+{'issuenumber': 243, 'title': "npm install from github doesn't seem to work?", 'state': 'closed', 'created_at': '2016-12-28T17:30:46Z', 'closed_at': '2016-12-28T17:32:58Z', 'labels': []}
+{'issuenumber': 242, 'title': 'release a new version', 'state': 'closed', 'created_at': '2016-12-27T15:40:02Z', 'closed_at': '2016-12-27T17:03:49Z', 'labels': []}
+{'issuenumber': 240, 'title': 'Custom Agenda date range?', 'state': 'closed', 'created_at': '2016-12-24T17:02:13Z', 'closed_at': '2016-12-24T17:30:59Z', 'labels': []}
+{'issuenumber': 239, 'title': 'Starting time too early', 'state': 'closed', 'created_at': '2016-12-24T10:44:58Z', 'closed_at': '2016-12-24T17:28:39Z', 'labels': []}
+{'issuenumber': 238, 'title': 'Event Categories', 'state': 'closed', 'created_at': '2016-12-23T00:07:15Z', 'closed_at': '2017-01-06T03:17:47Z', 'labels': []}
+{'issuenumber': 237, 'title': 'Examples in production', 'state': 'closed', 'created_at': '2016-12-22T21:02:56Z', 'closed_at': '2017-01-06T17:29:12Z', 'labels': []}
+{'issuenumber': 235, 'title': "Error: Cannot find module 'react-big-calendar/utils/constants", 'state': 'closed', 'created_at': '2016-12-20T17:47:30Z', 'closed_at': '2016-12-20T18:10:31Z', 'labels': []}
+{'issuenumber': 234, 'title': 'Loading react-big-calendar.css example', 'state': 'closed', 'created_at': '2016-12-20T00:16:09Z', 'closed_at': '2017-01-04T16:20:30Z', 'labels': []}
+{'issuenumber': 233, 'title': 'Selection fails when calling this.setState() inside onSelectEvent function.', 'state': 'closed', 'created_at': '2016-12-15T21:45:07Z', 'closed_at': '2016-12-16T14:40:11Z', 'labels': []}
+{'issuenumber': 229, 'title': "Warning for propType validation on 'date'", 'state': 'closed', 'created_at': '2016-12-12T11:17:43Z', 'closed_at': '2017-01-06T17:59:10Z', 'labels': []}
+{'issuenumber': 228, 'title': 'allDay event for Sunday only - not visible on the calendar', 'state': 'closed', 'created_at': '2016-12-09T15:34:34Z', 'closed_at': '2017-01-07T21:24:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 227, 'title': 'Disable to select cells under an event', 'state': 'closed', 'created_at': '2016-12-09T14:13:21Z', 'closed_at': '2017-01-07T21:22:51Z', 'labels': []}
+{'issuenumber': 226, 'title': 'Event title tooltip should stringify', 'state': 'closed', 'created_at': '2016-12-09T12:11:17Z', 'closed_at': '2018-02-05T16:53:05Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 225, 'title': 'Disable click to create event?', 'state': 'closed', 'created_at': '2016-12-06T20:40:02Z', 'closed_at': '2017-01-06T17:56:31Z', 'labels': []}
+{'issuenumber': 224, 'title': 'Render icon beside date (number)', 'state': 'closed', 'created_at': '2016-12-06T00:18:04Z', 'closed_at': '2017-01-06T17:55:04Z', 'labels': []}
+{'issuenumber': 223, 'title': 'React warning when selecting day or week time range', 'state': 'closed', 'created_at': '2016-11-29T14:41:29Z', 'closed_at': '2017-02-10T19:17:59Z', 'labels': []}
+{'issuenumber': 222, 'title': 'Day View - All Day Event', 'state': 'closed', 'created_at': '2016-11-28T03:39:09Z', 'closed_at': '2017-01-07T21:24:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 221, 'title': 'Week and Daily View, Daylight Savings Display Issue', 'state': 'closed', 'created_at': '2016-11-23T17:50:32Z', 'closed_at': '2017-11-02T15:19:50Z', 'labels': []}
+{'issuenumber': 220, 'title': 'Any plans of a React Native equivalent?', 'state': 'closed', 'created_at': '2016-11-16T15:13:14Z', 'closed_at': '2016-11-21T11:56:32Z', 'labels': []}
+{'issuenumber': 219, 'title': 'Customize event color', 'state': 'closed', 'created_at': '2016-11-16T11:24:16Z', 'closed_at': '2016-11-16T13:38:18Z', 'labels': []}
+{'issuenumber': 218, 'title': 'Running integration tests with enzyme', 'state': 'closed', 'created_at': '2016-11-14T22:15:12Z', 'closed_at': '2016-11-15T08:56:27Z', 'labels': []}
+{'issuenumber': 215, 'title': 'Bubble SyntheticEvent up the chain', 'state': 'closed', 'created_at': '2016-11-10T07:29:48Z', 'closed_at': '2016-11-16T21:08:10Z', 'labels': []}
+{'issuenumber': 213, 'title': '"Show more" navigate ', 'state': 'closed', 'created_at': '2016-11-08T16:51:21Z', 'closed_at': '2017-01-07T20:55:02Z', 'labels': []}
+{'issuenumber': 212, 'title': 'Allow to have calendar in landscape mode I mean to swap days row with time column in week view', 'state': 'closed', 'created_at': '2016-11-08T13:42:21Z', 'closed_at': '2017-02-13T14:36:19Z', 'labels': []}
+{'issuenumber': 211, 'title': 'Bug of cell', 'state': 'closed', 'created_at': '2016-11-07T10:56:01Z', 'closed_at': '2016-11-08T12:19:29Z', 'labels': []}
+{'issuenumber': 209, 'title': 'Adjusting a views .navigate function', 'state': 'closed', 'created_at': '2016-11-05T16:06:44Z', 'closed_at': '2017-01-09T03:46:14Z', 'labels': []}
+{'issuenumber': 208, 'title': "Setting `defaultView` to 'week' or 'day' seems to trigger a stack overflow", 'state': 'closed', 'created_at': '2016-11-03T22:45:57Z', 'closed_at': '2017-01-07T21:22:26Z', 'labels': []}
+{'issuenumber': 206, 'title': 'React error : react 15.3.1', 'state': 'closed', 'created_at': '2016-10-31T12:36:20Z', 'closed_at': '2016-10-31T12:39:41Z', 'labels': []}
+{'issuenumber': 205, 'title': 'Edit event title', 'state': 'closed', 'created_at': '2016-10-29T14:22:35Z', 'closed_at': '2017-01-07T20:59:35Z', 'labels': []}
+{'issuenumber': 204, 'title': 'No Calendar for Month View', 'state': 'closed', 'created_at': '2016-10-28T13:33:22Z', 'closed_at': '2016-10-28T13:41:01Z', 'labels': []}
+{'issuenumber': 203, 'title': 'disable "All day"  row', 'state': 'closed', 'created_at': '2016-10-27T15:46:52Z', 'closed_at': '2016-11-02T17:22:53Z', 'labels': []}
+{'issuenumber': 202, 'title': 'Clicking "show more" link without popup doesn\'t always open day view', 'state': 'closed', 'created_at': '2016-10-27T08:08:12Z', 'closed_at': '2017-01-16T18:35:41Z', 'labels': []}
+{'issuenumber': 201, 'title': 'Warning: You are manually calling a React.PropTypes validation function for the `view` prop ', 'state': 'closed', 'created_at': '2016-10-26T22:09:55Z', 'closed_at': '2016-12-09T15:50:42Z', 'labels': []}
+{'issuenumber': 200, 'title': 'Error timeslots', 'state': 'closed', 'created_at': '2016-10-25T13:48:27Z', 'closed_at': '2016-10-26T22:07:26Z', 'labels': []}
+{'issuenumber': 199, 'title': 'Display same time events side by side. ', 'state': 'closed', 'created_at': '2016-10-23T17:04:49Z', 'closed_at': '2016-10-23T17:26:36Z', 'labels': []}
+{'issuenumber': 198, 'title': 'Customize order of time in Week view', 'state': 'closed', 'created_at': '2016-10-20T19:53:40Z', 'closed_at': '2017-01-07T21:22:45Z', 'labels': []}
+{'issuenumber': 197, 'title': 'Rotate the calendar', 'state': 'closed', 'created_at': '2016-10-20T14:35:18Z', 'closed_at': '2016-10-20T19:49:03Z', 'labels': []}
+{'issuenumber': 195, 'title': 'Draggable pop up event', 'state': 'closed', 'created_at': '2016-10-18T02:40:20Z', 'closed_at': '2017-01-06T17:51:51Z', 'labels': []}
+{'issuenumber': 194, 'title': 'Allow `formats` to return a renderable instead of a string', 'state': 'closed', 'created_at': '2016-10-17T13:14:06Z', 'closed_at': '2017-01-06T17:51:51Z', 'labels': []}
+{'issuenumber': 192, 'title': 'Change the current day', 'state': 'closed', 'created_at': '2016-10-15T17:47:59Z', 'closed_at': '2017-01-06T17:51:51Z', 'labels': []}
+{'issuenumber': 191, 'title': 'Demo for custom toolbar', 'state': 'closed', 'created_at': '2016-10-15T11:04:42Z', 'closed_at': '2017-11-02T15:19:50Z', 'labels': []}
+{'issuenumber': 190, 'title': 'Change language from buttons', 'state': 'closed', 'created_at': '2016-10-14T12:15:55Z', 'closed_at': '2016-10-15T17:25:50Z', 'labels': []}
+{'issuenumber': 189, 'title': 'Renaming views', 'state': 'closed', 'created_at': '2016-10-14T05:59:12Z', 'closed_at': '2016-10-17T05:06:44Z', 'labels': []}
+{'issuenumber': 188, 'title': 'formats.eventTimeRangeFormat not documented', 'state': 'closed', 'created_at': '2016-10-11T00:22:49Z', 'closed_at': '2017-01-06T17:51:51Z', 'labels': []}
+{'issuenumber': 187, 'title': 'what is segment and slot?', 'state': 'closed', 'created_at': '2016-10-10T12:28:59Z', 'closed_at': '2017-01-07T20:55:08Z', 'labels': []}
+{'issuenumber': 186, 'title': 'disable specific days && time slots available  ', 'state': 'closed', 'created_at': '2016-10-07T18:39:19Z', 'closed_at': '2016-11-16T13:38:49Z', 'labels': []}
+{'issuenumber': 185, 'title': 'Styling the current day/time indicator', 'state': 'closed', 'created_at': '2016-10-07T15:46:29Z', 'closed_at': '2017-01-07T21:00:27Z', 'labels': []}
+{'issuenumber': 183, 'title': 'Custom toolbar', 'state': 'closed', 'created_at': '2016-09-30T06:20:13Z', 'closed_at': '2016-10-03T20:04:51Z', 'labels': []}
+{'issuenumber': 182, 'title': 'Change the background color of off range date', 'state': 'closed', 'created_at': '2016-09-30T05:33:02Z', 'closed_at': '2016-10-03T20:19:17Z', 'labels': []}
+{'issuenumber': 181, 'title': 'Week View', 'state': 'closed', 'created_at': '2016-09-28T06:03:06Z', 'closed_at': '2016-09-28T12:23:31Z', 'labels': []}
+{'issuenumber': 180, 'title': 'Existing Feature for Day View?', 'state': 'closed', 'created_at': '2016-09-26T06:14:09Z', 'closed_at': '2016-10-03T20:00:17Z', 'labels': []}
+{'issuenumber': 179, 'title': 'Incorrect Date Label for Agenda Tab', 'state': 'closed', 'created_at': '2016-09-26T00:50:05Z', 'closed_at': '2016-10-03T20:01:38Z', 'labels': []}
+{'issuenumber': 178, 'title': "require('./demos/basic') vs import Basic from './demos/basic'", 'state': 'closed', 'created_at': '2016-09-23T01:33:44Z', 'closed_at': '2016-10-03T20:00:51Z', 'labels': []}
+{'issuenumber': 177, 'title': 'How do I use this library in my project?', 'state': 'closed', 'created_at': '2016-09-22T13:04:24Z', 'closed_at': '2016-10-03T20:02:31Z', 'labels': []}
+{'issuenumber': 176, 'title': 'Events not displaying correctly', 'state': 'closed', 'created_at': '2016-09-22T02:29:09Z', 'closed_at': '2016-09-22T05:23:09Z', 'labels': []}
+{'issuenumber': 175, 'title': 'No Calendar for Month View', 'state': 'closed', 'created_at': '2016-09-21T06:16:30Z', 'closed_at': '2016-09-21T11:39:30Z', 'labels': []}
+{'issuenumber': 174, 'title': 'MWD Tabs floating outside of container. ', 'state': 'closed', 'created_at': '2016-09-19T19:25:27Z', 'closed_at': '2016-10-08T20:14:22Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 173, 'title': 'No rows from a simple example, including your examples', 'state': 'closed', 'created_at': '2016-09-18T21:48:40Z', 'closed_at': '2016-09-18T21:56:18Z', 'labels': []}
+{'issuenumber': 170, 'title': '[Styling] Vertical cells have different widths in time view', 'state': 'closed', 'created_at': '2016-09-08T11:08:41Z', 'closed_at': '2016-09-08T13:24:11Z', 'labels': []}
+{'issuenumber': 168, 'title': 'Display the days of the week from Sunday to Saturday in Month View', 'state': 'closed', 'created_at': '2016-08-31T18:29:15Z', 'closed_at': '2016-10-03T20:03:33Z', 'labels': []}
+{'issuenumber': 167, 'title': 'step', 'state': 'closed', 'created_at': '2016-08-29T20:45:16Z', 'closed_at': '2016-08-29T20:54:31Z', 'labels': []}
+{'issuenumber': 166, 'title': 'Unknown props warnings on div since React 15.X', 'state': 'closed', 'created_at': '2016-08-29T08:36:01Z', 'closed_at': '2016-10-03T20:03:39Z', 'labels': []}
+{'issuenumber': 165, 'title': 'Impossible to hide the "month" the view ', 'state': 'closed', 'created_at': '2016-08-27T17:50:28Z', 'closed_at': '2016-08-27T18:00:09Z', 'labels': []}
+{'issuenumber': 164, 'title': 'Problem when running the examples', 'state': 'closed', 'created_at': '2016-08-27T17:40:33Z', 'closed_at': '2016-10-03T20:05:05Z', 'labels': []}
+{'issuenumber': 163, 'title': 'date[("get" + method)] is not a function', 'state': 'closed', 'created_at': '2016-08-25T19:24:38Z', 'closed_at': '2016-08-25T20:11:20Z', 'labels': []}
+{'issuenumber': 162, 'title': 'Events/Dates not showing up?', 'state': 'closed', 'created_at': '2016-08-19T01:00:24Z', 'closed_at': '2016-08-19T01:15:05Z', 'labels': []}
+{'issuenumber': 161, 'title': 'Calendar not selectable in new window', 'state': 'closed', 'created_at': '2016-08-16T20:16:17Z', 'closed_at': '2016-08-19T08:18:04Z', 'labels': []}
+{'issuenumber': 160, 'title': 'Can never get calendar grid to display: Unknown props', 'state': 'closed', 'created_at': '2016-08-16T19:18:51Z', 'closed_at': '2016-08-16T19:45:48Z', 'labels': []}
+{'issuenumber': 159, 'title': 'Event not rendering on week start date', 'state': 'closed', 'created_at': '2016-08-16T13:48:34Z', 'closed_at': '2016-09-05T20:04:58Z', 'labels': []}
+{'issuenumber': 158, 'title': "How to change the popup's title format?", 'state': 'closed', 'created_at': '2016-08-15T08:29:32Z', 'closed_at': '2016-08-15T08:51:41Z', 'labels': []}
+{'issuenumber': 157, 'title': 'react-big-calendar does not display anything but grid', 'state': 'closed', 'created_at': '2016-08-13T17:46:21Z', 'closed_at': '2016-10-03T20:01:08Z', 'labels': []}
+{'issuenumber': 154, 'title': 'Using the date prop for a variable. ', 'state': 'closed', 'created_at': '2016-08-05T19:44:41Z', 'closed_at': '2016-10-03T20:11:49Z', 'labels': []}
+{'issuenumber': 152, 'title': 'Update doc format', 'state': 'closed', 'created_at': '2016-08-03T12:45:58Z', 'closed_at': '2017-01-07T20:55:23Z', 'labels': []}
+{'issuenumber': 149, 'title': "how to customized some days's style in the month view?", 'state': 'closed', 'created_at': '2016-08-01T07:10:48Z', 'closed_at': '2016-10-03T20:05:19Z', 'labels': []}
+{'issuenumber': 147, 'title': 'Disable truncating events in month view', 'state': 'closed', 'created_at': '2016-07-28T08:15:20Z', 'closed_at': '2017-11-02T15:19:50Z', 'labels': []}
+{'issuenumber': 146, 'title': 'Unknown Props error', 'state': 'closed', 'created_at': '2016-07-25T10:34:34Z', 'closed_at': '2016-07-25T11:50:41Z', 'labels': []}
+{'issuenumber': 145, 'title': 'onSelectEvent, how to get a time slot?', 'state': 'closed', 'created_at': '2016-07-25T06:29:56Z', 'closed_at': '2016-10-03T20:09:28Z', 'labels': []}
+{'issuenumber': 144, 'title': 'How to show full event description', 'state': 'closed', 'created_at': '2016-07-24T15:20:47Z', 'closed_at': '2016-10-03T20:09:23Z', 'labels': []}
+{'issuenumber': 143, 'title': 'npm run examples is broken', 'state': 'closed', 'created_at': '2016-07-18T20:23:15Z', 'closed_at': '2016-07-25T17:43:14Z', 'labels': []}
+{'issuenumber': 142, 'title': 'React warnings', 'state': 'closed', 'created_at': '2016-07-18T20:19:41Z', 'closed_at': '2016-08-11T13:56:51Z', 'labels': []}
+{'issuenumber': 140, 'title': 'appointment time label', 'state': 'closed', 'created_at': '2016-07-15T19:44:52Z', 'closed_at': '2016-10-03T20:05:31Z', 'labels': []}
+{'issuenumber': 139, 'title': "show more popup won't dismiss on iPad", 'state': 'closed', 'created_at': '2016-07-15T19:05:46Z', 'closed_at': '2017-11-02T15:19:49Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 138, 'title': 'Week and Day views misaligned in Firefox', 'state': 'closed', 'created_at': '2016-07-15T05:57:09Z', 'closed_at': '2016-07-19T20:20:25Z', 'labels': []}
+{'issuenumber': 137, 'title': "Any plans to add support for FullCalendar's Scheduler?", 'state': 'closed', 'created_at': '2016-07-14T18:54:23Z', 'closed_at': '2016-10-03T20:07:09Z', 'labels': []}
+{'issuenumber': 136, 'title': 'IE9 Support', 'state': 'closed', 'created_at': '2016-07-08T02:09:19Z', 'closed_at': '2016-07-11T02:16:35Z', 'labels': []}
+{'issuenumber': 135, 'title': 'Possible to create custom view', 'state': 'closed', 'created_at': '2016-07-05T20:51:42Z', 'closed_at': '2016-10-03T20:11:11Z', 'labels': []}
+{'issuenumber': 134, 'title': 'Week view mode, half hour rows', 'state': 'closed', 'created_at': '2016-07-04T20:15:31Z', 'closed_at': '2016-10-03T20:11:04Z', 'labels': []}
+{'issuenumber': 133, 'title': 'Expose more functionality when extending components', 'state': 'closed', 'created_at': '2016-07-03T01:59:06Z', 'closed_at': '2016-10-03T20:10:53Z', 'labels': []}
+{'issuenumber': 131, 'title': 'Event style: no overlap', 'state': 'closed', 'created_at': '2016-07-01T16:39:36Z', 'closed_at': '2016-09-26T12:30:12Z', 'labels': []}
+{'issuenumber': 130, 'title': 'Add prop to show/hide weekend day columns', 'state': 'closed', 'created_at': '2016-07-01T15:03:40Z', 'closed_at': '2016-10-03T20:10:42Z', 'labels': []}
+{'issuenumber': 129, 'title': 'Add way to identify weekend day columns', 'state': 'closed', 'created_at': '2016-07-01T15:03:08Z', 'closed_at': '2016-10-03T20:09:55Z', 'labels': []}
+{'issuenumber': 128, 'title': 'TimeColumn takes all the screen space', 'state': 'closed', 'created_at': '2016-07-01T03:40:17Z', 'closed_at': '2017-11-02T15:19:49Z', 'labels': []}
+{'issuenumber': 125, 'title': "Add ability to remove link in the month day's date number", 'state': 'closed', 'created_at': '2016-06-28T15:41:25Z', 'closed_at': '2016-10-03T20:10:22Z', 'labels': []}
+{'issuenumber': 124, 'title': "Browserify: Error: Cannot find module 'react-big-calendar' from 'C:\\Users\\ernest\\PhpstormProjects\\reactcalendar'", 'state': 'closed', 'created_at': '2016-06-28T08:05:23Z', 'closed_at': '2016-06-29T07:21:07Z', 'labels': []}
+{'issuenumber': 123, 'title': 'Does not show Events on EI ', 'state': 'closed', 'created_at': '2016-06-28T00:40:07Z', 'closed_at': '2016-07-04T15:39:16Z', 'labels': []}
+{'issuenumber': 119, 'title': "Can't select slots on allDay", 'state': 'closed', 'created_at': '2016-06-14T20:18:03Z', 'closed_at': '2016-10-08T20:26:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 118, 'title': 'Timezone support', 'state': 'closed', 'created_at': '2016-06-11T03:35:12Z', 'closed_at': '2019-12-20T21:38:48Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 117, 'title': 'Create tests', 'state': 'closed', 'created_at': '2016-06-10T03:10:16Z', 'closed_at': '2016-10-03T20:10:05Z', 'labels': []}
+{'issuenumber': 115, 'title': 'Support background events', 'state': 'closed', 'created_at': '2016-06-09T19:02:03Z', 'closed_at': '2017-11-02T15:18:43Z', 'labels': []}
+{'issuenumber': 113, 'title': 'ERROR in ./~/react-big-calendar/lib/TimeColumn.js', 'state': 'closed', 'created_at': '2016-06-09T17:15:20Z', 'closed_at': '2016-06-09T18:38:33Z', 'labels': []}
+{'issuenumber': 109, 'title': 'format for moment localizer day view title appears wrong?', 'state': 'closed', 'created_at': '2016-06-06T17:02:21Z', 'closed_at': '2016-06-06T19:06:59Z', 'labels': []}
+{'issuenumber': 106, 'title': 'rbc-time-content doesn\'t display. Wrong label and allDay event doesn\'t show up in "day" view', 'state': 'closed', 'created_at': '2016-06-01T03:30:59Z', 'closed_at': '2016-10-03T20:13:21Z', 'labels': []}
+{'issuenumber': 105, 'title': "calendar doesn't display on webpage", 'state': 'closed', 'created_at': '2016-06-01T03:30:09Z', 'closed_at': '2016-10-03T20:12:10Z', 'labels': []}
+{'issuenumber': 104, 'title': 'When I imort styles of: react-big-calendar/lib/css/react-big-calendar.css, it can not work?', 'state': 'closed', 'created_at': '2016-05-31T07:02:57Z', 'closed_at': '2016-05-31T12:31:23Z', 'labels': []}
+{'issuenumber': 101, 'title': "Styling appointments in the 'show more' popover", 'state': 'closed', 'created_at': '2016-05-25T20:24:27Z', 'closed_at': '2016-10-03T20:12:59Z', 'labels': []}
+{'issuenumber': 100, 'title': 'Style of day in Month view. ', 'state': 'closed', 'created_at': '2016-05-25T08:06:48Z', 'closed_at': '2017-01-07T21:23:18Z', 'labels': []}
+{'issuenumber': 97, 'title': 'Show only work days for "week" view ?', 'state': 'closed', 'created_at': '2016-05-19T17:01:21Z', 'closed_at': '2016-06-02T13:58:51Z', 'labels': []}
+{'issuenumber': 96, 'title': 'Missing some documentation', 'state': 'closed', 'created_at': '2016-05-17T18:10:21Z', 'closed_at': '2016-10-03T20:16:02Z', 'labels': []}
+{'issuenumber': 95, 'title': 'Simplify codebase ideas', 'state': 'closed', 'created_at': '2016-05-17T15:44:32Z', 'closed_at': '2016-06-04T14:35:09Z', 'labels': []}
+{'issuenumber': 92, 'title': 'Show more calculation seems to be off', 'state': 'closed', 'created_at': '2016-05-16T01:01:17Z', 'closed_at': '2016-05-16T02:45:51Z', 'labels': []}
+{'issuenumber': 90, 'title': 'Feature request: additional buttons for toolbar (as renderable)', 'state': 'closed', 'created_at': '2016-05-12T16:09:25Z', 'closed_at': '2016-10-03T20:13:11Z', 'labels': []}
+{'issuenumber': 89, 'title': 'Click inside event should disable the select slot event', 'state': 'closed', 'created_at': '2016-05-11T18:14:12Z', 'closed_at': '2016-10-03T20:15:06Z', 'labels': []}
+{'issuenumber': 88, 'title': 'weekHeaderFormat has no effect', 'state': 'closed', 'created_at': '2016-05-09T13:08:08Z', 'closed_at': '2017-01-07T21:04:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 87, 'title': 'Request: Pass DOM element to onSelectSlot', 'state': 'closed', 'created_at': '2016-05-06T16:09:07Z', 'closed_at': '2016-05-12T14:12:57Z', 'labels': []}
+{'issuenumber': 86, 'title': 'Failed at the react-big-calendar@0.9.11 examples script \'npm run clean:examples && babel-node ./examples/server.js "3000"', 'state': 'closed', 'created_at': '2016-04-26T14:10:37Z', 'closed_at': '2016-04-27T14:48:06Z', 'labels': []}
+{'issuenumber': 85, 'title': 'online doc is not up-to-date', 'state': 'closed', 'created_at': '2016-04-21T22:48:41Z', 'closed_at': '2016-10-03T20:16:56Z', 'labels': []}
+{'issuenumber': 80, 'title': 'List of items for the month view is only 1', 'state': 'closed', 'created_at': '2016-04-11T06:28:08Z', 'closed_at': '2016-04-11T07:32:12Z', 'labels': []}
+{'issuenumber': 79, 'title': 'There is no month view', 'state': 'closed', 'created_at': '2016-04-11T03:58:33Z', 'closed_at': '2016-04-11T06:21:33Z', 'labels': []}
+{'issuenumber': 78, 'title': 'Calendar first day of week changed to Saturday without provocation', 'state': 'closed', 'created_at': '2016-04-10T19:13:39Z', 'closed_at': '2016-04-13T02:05:40Z', 'labels': []}
+{'issuenumber': 77, 'title': 'Add support to React Native', 'state': 'closed', 'created_at': '2016-04-09T13:46:49Z', 'closed_at': '2016-04-09T14:05:18Z', 'labels': []}
+{'issuenumber': 75, 'title': 'min shift', 'state': 'closed', 'created_at': '2016-04-07T14:19:19Z', 'closed_at': '2016-10-03T20:15:31Z', 'labels': []}
+{'issuenumber': 74, 'title': 'moment localizer ignores culture setting on time ranges', 'state': 'closed', 'created_at': '2016-04-05T09:17:09Z', 'closed_at': '2017-01-17T22:05:51Z', 'labels': []}
+{'issuenumber': 71, 'title': 'eventPropGetter ignored in allDay row in week/day views', 'state': 'closed', 'created_at': '2016-04-04T18:56:18Z', 'closed_at': '2016-04-04T20:36:46Z', 'labels': []}
+{'issuenumber': 69, 'title': 'Left menu in examples not visible on small screens', 'state': 'closed', 'created_at': '2016-04-04T15:31:04Z', 'closed_at': '2016-04-04T18:47:29Z', 'labels': []}
+{'issuenumber': 68, 'title': 'Month view performance hit when having many events', 'state': 'closed', 'created_at': '2016-04-03T16:54:47Z', 'closed_at': '2017-01-07T20:56:05Z', 'labels': []}
+{'issuenumber': 66, 'title': 'End Date', 'state': 'closed', 'created_at': '2016-03-27T18:28:12Z', 'closed_at': '2016-04-03T12:52:27Z', 'labels': []}
+{'issuenumber': 64, 'title': 'Changing the background color of `EventCell`', 'state': 'closed', 'created_at': '2016-03-24T17:17:47Z', 'closed_at': '2016-03-24T17:53:37Z', 'labels': []}
+{'issuenumber': 63, 'title': 'Month / Agenda View not working when copying demo from example', 'state': 'closed', 'created_at': '2016-03-24T16:46:25Z', 'closed_at': '2016-03-24T17:03:48Z', 'labels': []}
+{'issuenumber': 62, 'title': 'Events from 27 to 31 of march', 'state': 'closed', 'created_at': '2016-03-24T10:31:05Z', 'closed_at': '2016-04-03T14:10:28Z', 'labels': []}
+{'issuenumber': 61, 'title': 'Show events in UTC', 'state': 'closed', 'created_at': '2016-03-18T13:25:01Z', 'closed_at': '2016-03-18T13:33:48Z', 'labels': []}
+{'issuenumber': 60, 'title': 'Chrome, flexbox causes month, to not be shown', 'state': 'closed', 'created_at': '2016-03-17T20:52:33Z', 'closed_at': '2016-03-18T13:33:56Z', 'labels': []}
+{'issuenumber': 59, 'title': 'Highlight the day header ', 'state': 'closed', 'created_at': '2016-03-17T16:27:06Z', 'closed_at': '2016-10-03T20:17:02Z', 'labels': []}
+{'issuenumber': 58, 'title': 'popup example not working on your example website', 'state': 'closed', 'created_at': '2016-03-17T12:34:54Z', 'closed_at': '2016-03-24T17:52:06Z', 'labels': []}
+{'issuenumber': 56, 'title': 'Daylight Savings problem - 2am time slot missing', 'state': 'closed', 'created_at': '2016-03-13T14:30:40Z', 'closed_at': '2016-10-03T20:16:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 55, 'title': 'when calendar was embed in a long form or an popup, system will select wrong timeslot when users click on a timeslot to select it ', 'state': 'closed', 'created_at': '2016-03-05T17:13:54Z', 'closed_at': '2016-03-18T14:57:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 53, 'title': 'Provide format for time labels in day view?', 'state': 'closed', 'created_at': '2016-02-25T22:00:43Z', 'closed_at': '2016-02-25T22:33:45Z', 'labels': []}
+{'issuenumber': 51, 'title': 'Recurring Events', 'state': 'closed', 'created_at': '2016-02-24T22:14:33Z', 'closed_at': '2016-02-24T22:25:16Z', 'labels': []}
+{'issuenumber': 49, 'title': "I want to add the 'id' to EventCell", 'state': 'closed', 'created_at': '2016-02-24T18:59:21Z', 'closed_at': '2016-02-25T01:45:06Z', 'labels': []}
+{'issuenumber': 48, 'title': 'How to use this module in a non-node environment', 'state': 'closed', 'created_at': '2016-02-23T12:13:42Z', 'closed_at': '2016-03-01T23:17:46Z', 'labels': []}
+{'issuenumber': 47, 'title': 'Support popup in week and day view', 'state': 'closed', 'created_at': '2016-02-22T21:11:24Z', 'closed_at': '2016-03-18T13:49:05Z', 'labels': []}
+{'issuenumber': 46, 'title': 'add setting to allow / prevent overlapping slots', 'state': 'closed', 'created_at': '2016-02-20T21:47:12Z', 'closed_at': '2016-03-18T14:57:35Z', 'labels': []}
+{'issuenumber': 45, 'title': 'Add possibility to remove "All Day" row in month and day view.', 'state': 'closed', 'created_at': '2016-02-20T12:35:38Z', 'closed_at': '2017-01-07T20:56:26Z', 'labels': []}
+{'issuenumber': 44, 'title': 'Could you do an update to lodash 4.5?', 'state': 'closed', 'created_at': '2016-02-17T16:00:16Z', 'closed_at': '2016-03-01T23:17:35Z', 'labels': []}
+{'issuenumber': 43, 'title': 'How to hide Outside month Date ?', 'state': 'closed', 'created_at': '2016-02-17T05:29:45Z', 'closed_at': '2016-02-17T13:41:19Z', 'labels': []}
+{'issuenumber': 41, 'title': 'Improper handling of daylight saving time in *month* view', 'state': 'closed', 'created_at': '2016-02-12T14:27:52Z', 'closed_at': '2016-04-03T14:10:28Z', 'labels': []}
+{'issuenumber': 39, 'title': 'Label for Day Calendar', 'state': 'closed', 'created_at': '2016-02-08T05:48:37Z', 'closed_at': '2016-02-08T07:19:05Z', 'labels': []}
+{'issuenumber': 38, 'title': 'Touch enabled?', 'state': 'closed', 'created_at': '2016-02-05T19:05:31Z', 'closed_at': '2017-09-11T16:12:22Z', 'labels': []}
+{'issuenumber': 37, 'title': 'constants.directions', 'state': 'closed', 'created_at': '2016-02-05T15:46:05Z', 'closed_at': '2016-02-05T18:04:23Z', 'labels': []}
+{'issuenumber': 36, 'title': 'Rendering bug in week and month views', 'state': 'closed', 'created_at': '2016-02-04T19:37:28Z', 'closed_at': '2016-04-03T14:10:28Z', 'labels': []}
+{'issuenumber': 35, 'title': 'Week view height issues on Chrome and Firefox', 'state': 'closed', 'created_at': '2016-02-04T13:49:08Z', 'closed_at': '2016-02-04T14:29:57Z', 'labels': []}
+{'issuenumber': 34, 'title': 'How to get whole year view ?', 'state': 'closed', 'created_at': '2016-02-01T13:31:43Z', 'closed_at': '2016-02-04T14:09:35Z', 'labels': []}
+{'issuenumber': 33, 'title': 'Question on Altering Layout', 'state': 'closed', 'created_at': '2016-01-28T17:45:42Z', 'closed_at': '2016-02-08T07:19:51Z', 'labels': []}
+{'issuenumber': 32, 'title': 'First row behaviour in month view', 'state': 'closed', 'created_at': '2016-01-28T14:21:02Z', 'closed_at': '2016-04-03T14:10:28Z', 'labels': []}
+{'issuenumber': 31, 'title': 'css file error', 'state': 'closed', 'created_at': '2016-01-26T01:47:36Z', 'closed_at': '2016-10-03T20:16:12Z', 'labels': []}
+{'issuenumber': 30, 'title': 'Question: Disable week and agenda views?', 'state': 'closed', 'created_at': '2016-01-19T16:59:09Z', 'closed_at': '2016-01-19T17:22:37Z', 'labels': []}
+{'issuenumber': 29, 'title': 'Add all day click listener on week view ', 'state': 'closed', 'created_at': '2016-01-19T05:49:04Z', 'closed_at': '2016-10-03T20:16:30Z', 'labels': []}
+{'issuenumber': 28, 'title': 'Can the week start on Monday instead of Sunday?', 'state': 'closed', 'created_at': '2016-01-15T05:23:14Z', 'closed_at': '2016-01-19T03:42:02Z', 'labels': []}
+{'issuenumber': 27, 'title': 'Month view displays collapsed unless an explicit height is set', 'state': 'closed', 'created_at': '2016-01-14T17:12:03Z', 'closed_at': '2016-01-14T19:14:31Z', 'labels': []}
+{'issuenumber': 26, 'title': 'External API to navigate to a specific date', 'state': 'closed', 'created_at': '2016-01-14T03:46:31Z', 'closed_at': '2016-01-14T13:55:56Z', 'labels': []}
+{'issuenumber': 24, 'title': 'Calendar table is displayed wrong', 'state': 'closed', 'created_at': '2016-01-04T08:46:06Z', 'closed_at': '2016-01-14T18:37:17Z', 'labels': []}
+{'issuenumber': 23, 'title': "Examples don't work out of the box", 'state': 'closed', 'created_at': '2015-12-29T12:28:09Z', 'closed_at': '2015-12-29T15:43:11Z', 'labels': []}
+{'issuenumber': 22, 'title': 'Support others date format in events', 'state': 'closed', 'created_at': '2015-12-18T08:16:57Z', 'closed_at': '2015-12-18T13:07:06Z', 'labels': []}
+{'issuenumber': 20, 'title': 'Month View: No "Selected Date" available', 'state': 'closed', 'created_at': '2015-12-17T21:06:05Z', 'closed_at': '2016-10-03T20:16:24Z', 'labels': []}
+{'issuenumber': 19, 'title': 'Wrong date in selection on week view', 'state': 'closed', 'created_at': '2015-12-15T11:49:10Z', 'closed_at': '2015-12-15T20:21:52Z', 'labels': []}
+{'issuenumber': 18, 'title': '[BUG] Date selection issue with min/max props on calendar', 'state': 'closed', 'created_at': '2015-12-13T20:31:32Z', 'closed_at': '2015-12-13T21:38:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 17, 'title': '[BUG] Selecting a Timeslot gives wrong dates (at least Week and Day view)', 'state': 'closed', 'created_at': '2015-12-13T20:26:33Z', 'closed_at': '2015-12-13T21:38:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 16, 'title': 'Unable to resize gutter width on day/time view', 'state': 'closed', 'created_at': '2015-12-12T02:38:52Z', 'closed_at': '2016-01-14T18:37:17Z', 'labels': []}
+{'issuenumber': 15, 'title': 'Drag & drop or resize events inside calendar ', 'state': 'closed', 'created_at': '2015-12-07T15:51:38Z', 'closed_at': '2017-01-11T20:49:11Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 14, 'title': 'drop and drag support ?', 'state': 'closed', 'created_at': '2015-12-04T00:51:37Z', 'closed_at': '2015-12-04T01:03:52Z', 'labels': []}
+{'issuenumber': 13, 'title': 'Resource view, feature request', 'state': 'closed', 'created_at': '2015-12-03T22:22:14Z', 'closed_at': '2017-11-02T15:18:43Z', 'labels': []}
+{'issuenumber': 12, 'title': '0.9.4 broken? Validation checks for the firstOfWeek in localizer', 'state': 'closed', 'created_at': '2015-12-02T03:20:28Z', 'closed_at': '2015-12-02T15:29:11Z', 'labels': []}
+{'issuenumber': 9, 'title': 'Timeslot range change leads to selection bug?', 'state': 'closed', 'created_at': '2015-11-19T17:43:40Z', 'closed_at': '2015-11-29T00:01:59Z', 'labels': []}
+{'issuenumber': 8, 'title': 'Toolbar Labels not passed down in props', 'state': 'closed', 'created_at': '2015-11-19T10:27:39Z', 'closed_at': '2015-11-20T13:37:00Z', 'labels': []}
+{'issuenumber': 7, 'title': 'EventPropGetter and All days event', 'state': 'closed', 'created_at': '2015-11-10T09:55:59Z', 'closed_at': '2016-10-03T20:15:40Z', 'labels': []}
+{'issuenumber': 5, 'title': 'Suggestion to evaluate click as a smallest selection', 'state': 'closed', 'created_at': '2015-11-04T17:37:34Z', 'closed_at': '2015-11-12T14:52:48Z', 'labels': []}
+{'issuenumber': 3, 'title': 'Uncaught Error: Invariant Violation: Uncontrolled(Calendar).render():', 'state': 'closed', 'created_at': '2015-10-08T13:27:10Z', 'closed_at': '2015-11-12T14:51:56Z', 'labels': []}
+{'issuenumber': 2, 'title': 'Is it possible to use react-big-calendar with React.js 0.13?', 'state': 'closed', 'created_at': '2015-10-04T09:04:53Z', 'closed_at': '2015-10-08T13:52:49Z', 'labels': []}
+{'issuenumber': 1, 'title': 'Usage in RoR', 'state': 'closed', 'created_at': '2015-09-21T08:13:51Z', 'closed_at': '2015-10-08T13:52:39Z', 'labels': []}

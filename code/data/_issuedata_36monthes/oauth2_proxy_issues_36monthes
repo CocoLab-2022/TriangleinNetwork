@@ -1,0 +1,72 @@
+{'issuenumber': 221, 'title': 'Binaries built using Go 1.5.3 to address TLS security issue', 'state': 'closed', 'created_at': '2016-02-25T14:49:42Z', 'closed_at': '2016-02-25T14:52:44Z', 'labels': []}
+{'issuenumber': 215, 'title': 'Suffix ignored after path when proxifying?', 'state': 'closed', 'created_at': '2016-02-17T11:10:51Z', 'closed_at': '2016-02-23T21:35:13Z', 'labels': []}
+{'issuenumber': 209, 'title': 'New Release?', 'state': 'closed', 'created_at': '2016-02-12T20:21:33Z', 'closed_at': '2016-02-23T21:59:16Z', 'labels': []}
+{'issuenumber': 205, 'title': 'X-Forwarded-User should be configurable independent of -pass-basic-auth option', 'state': 'closed', 'created_at': '2016-02-08T15:34:27Z', 'closed_at': '2017-03-29T01:42:29Z', 'labels': []}
+{'issuenumber': 203, 'title': 'Can upstream be a remote server? - Debug request', 'state': 'closed', 'created_at': '2016-02-04T20:32:52Z', 'closed_at': '2016-02-05T21:16:27Z', 'labels': []}
+{'issuenumber': 200, 'title': 'support for gitlab provider ?', 'state': 'closed', 'created_at': '2016-01-28T11:25:55Z', 'closed_at': '2016-02-17T14:04:07Z', 'labels': []}
+{'issuenumber': 198, 'title': 'X-Forwarded-User is not getting forwarded to upstream', 'state': 'closed', 'created_at': '2016-01-23T01:19:36Z', 'closed_at': '2016-02-02T19:17:05Z', 'labels': []}
+{'issuenumber': 196, 'title': 'Crash when token refresh fails because access was revoked', 'state': 'closed', 'created_at': '2016-01-21T18:00:33Z', 'closed_at': '2016-01-21T20:51:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 192, 'title': 'Support split-horizon DNS for an arbitrary number of upstreams', 'state': 'closed', 'created_at': '2016-01-11T03:49:43Z', 'closed_at': '2016-01-13T14:47:59Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 191, 'title': '"Everything" is in the main package', 'state': 'closed', 'created_at': '2016-01-07T09:45:37Z', 'closed_at': '2016-08-08T10:48:28Z', 'labels': []}
+{'issuenumber': 189, 'title': 'Why redirect via state parameter ?', 'state': 'closed', 'created_at': '2016-01-04T12:21:04Z', 'closed_at': '2016-01-20T05:32:40Z', 'labels': {'name': 'question'}}
+{'issuenumber': 188, 'title': "Fragments for static serving don't work", 'state': 'closed', 'created_at': '2015-12-28T18:03:34Z', 'closed_at': '2015-12-29T11:56:46Z', 'labels': []}
+{'issuenumber': 187, 'title': 'Unsupported protocol scheme "file"', 'state': 'closed', 'created_at': '2015-12-28T18:00:48Z', 'closed_at': '2015-12-29T11:56:54Z', 'labels': []}
+{'issuenumber': 186, 'title': '404 error on auth request in 2.0.1 release build', 'state': 'closed', 'created_at': '2015-12-26T20:29:50Z', 'closed_at': '2015-12-26T20:34:54Z', 'labels': []}
+{'issuenumber': 185, 'title': 'Remap username against Ldap', 'state': 'closed', 'created_at': '2015-12-23T14:40:35Z', 'closed_at': '2016-01-20T05:25:06Z', 'labels': []}
+{'issuenumber': 180, 'title': 'Use email in X-Forwarded-User', 'state': 'closed', 'created_at': '2015-12-14T21:24:53Z', 'closed_at': '2015-12-17T01:21:31Z', 'labels': {'name': 'question'}}
+{'issuenumber': 176, 'title': 'google authentication: syntax error: sequence truncated', 'state': 'closed', 'created_at': '2015-11-27T10:31:29Z', 'closed_at': '2015-12-09T12:16:26Z', 'labels': {'name': 'needs-more-information'}}
+{'issuenumber': 169, 'title': 'Use with the Nginx auth_request directive', 'state': 'closed', 'created_at': '2015-11-15T01:00:52Z', 'closed_at': '2015-11-15T10:37:55Z', 'labels': []}
+{'issuenumber': 166, 'title': 'option to hide version number', 'state': 'closed', 'created_at': '2015-11-09T14:46:02Z', 'closed_at': '2016-06-19T03:55:10Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 162, 'title': 'Setup behind reverse proxy (nginx)', 'state': 'closed', 'created_at': '2015-11-08T01:00:21Z', 'closed_at': '2016-01-20T05:26:36Z', 'labels': []}
+{'issuenumber': 157, 'title': 'Not getting redirected to Upstream location.', 'state': 'closed', 'created_at': '2015-10-22T14:40:39Z', 'closed_at': '2015-10-22T15:05:48Z', 'labels': {'name': 'needs-more-information'}}
+{'issuenumber': 156, 'title': 'argument to turn on debug logging', 'state': 'closed', 'created_at': '2015-10-14T22:17:41Z', 'closed_at': '2015-10-15T14:25:12Z', 'labels': []}
+{'issuenumber': 155, 'title': 'Adding a new provider', 'state': 'closed', 'created_at': '2015-10-13T12:53:29Z', 'closed_at': '2016-01-20T05:26:54Z', 'labels': {'name': 'question'}}
+{'issuenumber': 152, 'title': "An /auth endpoint to support Nginx's auth_request", 'state': 'closed', 'created_at': '2015-10-08T13:00:38Z', 'closed_at': '2015-11-09T16:12:16Z', 'labels': []}
+{'issuenumber': 146, 'title': 'Securing authentication across the public internet', 'state': 'closed', 'created_at': '2015-09-28T16:08:18Z', 'closed_at': '2016-01-20T05:27:59Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 144, 'title': 'Custom github url not supported', 'state': 'closed', 'created_at': '2015-09-26T13:26:20Z', 'closed_at': '2016-06-20T12:17:20Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 143, 'title': 'Protecting Multiple Domains', 'state': 'closed', 'created_at': '2015-09-26T00:08:41Z', 'closed_at': '2015-10-16T15:37:47Z', 'labels': []}
+{'issuenumber': 141, 'title': 'Static file serving', 'state': 'closed', 'created_at': '2015-09-23T09:10:17Z', 'closed_at': '2015-09-24T13:48:31Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 140, 'title': 'Google Offline Access Requested', 'state': 'closed', 'created_at': '2015-08-27T03:52:35Z', 'closed_at': '2015-09-24T13:52:55Z', 'labels': []}
+{'issuenumber': 138, 'title': 'Different authorized email list per upstream', 'state': 'closed', 'created_at': '2015-08-26T02:12:33Z', 'closed_at': '2015-08-26T03:14:09Z', 'labels': []}
+{'issuenumber': 136, 'title': 'Always being routed to the same upstream, Host header being lost?', 'state': 'closed', 'created_at': '2015-08-18T10:17:11Z', 'closed_at': '2015-08-18T12:51:27Z', 'labels': {'name': 'needs-more-information'}}
+{'issuenumber': 135, 'title': 'Issues with oauth_proxy behind two proxies', 'state': 'closed', 'created_at': '2015-08-18T06:20:16Z', 'closed_at': '2015-08-18T11:37:20Z', 'labels': []}
+{'issuenumber': 125, 'title': 'Multiple instances, different authorized email addresses', 'state': 'closed', 'created_at': '2015-07-13T21:51:36Z', 'closed_at': '2015-07-14T16:05:05Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 124, 'title': 'Question about upstreams', 'state': 'closed', 'created_at': '2015-07-13T10:09:54Z', 'closed_at': '2015-07-15T15:54:14Z', 'labels': {'name': 'question'}}
+{'issuenumber': 123, 'title': '403 Permission Denied Invalid Account', 'state': 'closed', 'created_at': '2015-07-06T10:37:51Z', 'closed_at': '2015-07-07T02:13:46Z', 'labels': []}
+{'issuenumber': 121, 'title': 'Use S3 as a backend', 'state': 'closed', 'created_at': '2015-07-01T15:36:06Z', 'closed_at': '2015-07-23T13:21:51Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 118, 'title': 'OAuth Proxy not accepting external traffic', 'state': 'closed', 'created_at': '2015-06-25T20:17:53Z', 'closed_at': '2015-07-03T03:23:38Z', 'labels': {'name': 'question'}}
+{'issuenumber': 113, 'title': "upstream doesn't work for me correctly", 'state': 'closed', 'created_at': '2015-06-12T15:37:45Z', 'closed_at': '2015-06-15T14:02:22Z', 'labels': {'name': 'question'}}
+{'issuenumber': 112, 'title': 'Error 500: https://accounts.google.com/o/oauth2/token: x509: certificate has expired or is not yet valid', 'state': 'closed', 'created_at': '2015-06-12T10:35:53Z', 'closed_at': '2015-06-12T14:41:49Z', 'labels': {'name': 'question'}}
+{'issuenumber': 105, 'title': 'validator.go:24: undefined: WatchForUpdates', 'state': 'closed', 'created_at': '2015-05-30T16:35:52Z', 'closed_at': '2015-05-31T00:05:40Z', 'labels': []}
+{'issuenumber': 103, 'title': 'authenticated-emails-file not properly checked with google apps domain', 'state': 'closed', 'created_at': '2015-05-28T22:16:00Z', 'closed_at': '2015-05-29T02:13:31Z', 'labels': {'name': 'question'}}
+{'issuenumber': 101, 'title': 'Distribute cookies?', 'state': 'closed', 'created_at': '2015-05-22T16:02:46Z', 'closed_at': '2015-05-22T17:14:47Z', 'labels': {'name': 'question'}}
+{'issuenumber': 100, 'title': 'Empty path parts not being preserved ', 'state': 'closed', 'created_at': '2015-05-21T13:56:04Z', 'closed_at': '2015-05-21T18:44:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 97, 'title': 'Why not use the Request.BasicAuth() in the basic auth handler?', 'state': 'closed', 'created_at': '2015-05-19T00:10:57Z', 'closed_at': '2016-01-20T05:28:26Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 96, 'title': 'Google auth requires offline access acceptance', 'state': 'closed', 'created_at': '2015-05-16T16:42:35Z', 'closed_at': '2015-05-16T18:32:12Z', 'labels': []}
+{'issuenumber': 95, 'title': 'Proxying Gate One', 'state': 'closed', 'created_at': '2015-05-15T17:10:24Z', 'closed_at': '2015-05-15T17:20:55Z', 'labels': {'name': 'question'}}
+{'issuenumber': 94, 'title': 'proxying transmission web', 'state': 'closed', 'created_at': '2015-05-15T16:51:34Z', 'closed_at': '2015-05-21T13:22:28Z', 'labels': {'name': 'question'}}
+{'issuenumber': 75, 'title': 'Retrieve logged in users email', 'state': 'closed', 'created_at': '2015-03-26T16:16:07Z', 'closed_at': '2015-03-26T19:35:48Z', 'labels': []}
+{'issuenumber': 67, 'title': 'Issues running in front of Jenkins', 'state': 'closed', 'created_at': '2015-03-16T19:46:46Z', 'closed_at': '2015-04-17T15:50:44Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 65, 'title': 'Adaptation to other OAuth2 services: Pull requests or forks?', 'state': 'closed', 'created_at': '2015-03-16T18:42:25Z', 'closed_at': '2015-03-19T14:39:24Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 62, 'title': 'Issues with ELK behind Google Auth Proxy (double reverse proxies)', 'state': 'closed', 'created_at': '2015-02-11T02:27:58Z', 'closed_at': '2015-05-06T01:03:41Z', 'labels': {'name': 'question'}}
+{'issuenumber': 57, 'title': 'Option to disable HttpOnly on cookie?', 'state': 'closed', 'created_at': '2015-01-19T15:37:16Z', 'closed_at': '2015-01-19T19:33:32Z', 'labels': []}
+{'issuenumber': 53, 'title': 'Expiring session', 'state': 'closed', 'created_at': '2014-12-28T18:26:54Z', 'closed_at': '2014-12-29T12:53:11Z', 'labels': {'name': 'question'}}
+{'issuenumber': 52, 'title': 'Keep getting Cookie is invalid', 'state': 'closed', 'created_at': '2014-12-23T11:55:28Z', 'closed_at': '2014-12-23T15:33:05Z', 'labels': []}
+{'issuenumber': 48, 'title': 'Skip authentication for health check urls', 'state': 'closed', 'created_at': '2014-12-19T04:14:14Z', 'closed_at': '2014-12-24T02:42:31Z', 'labels': []}
+{'issuenumber': 47, 'title': 'Assistance using with Django', 'state': 'closed', 'created_at': '2014-12-12T19:22:52Z', 'closed_at': '2015-05-19T00:31:18Z', 'labels': {'name': 'question'}}
+{'issuenumber': 44, 'title': 'tcp connections in CLOSE_WAIT status', 'state': 'closed', 'created_at': '2014-11-28T16:31:46Z', 'closed_at': '2015-05-21T13:23:44Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 43, 'title': 'Forward upstream Host header to upstream rather than that of the original request', 'state': 'closed', 'created_at': '2014-11-19T07:15:01Z', 'closed_at': '2015-04-03T13:34:12Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 41, 'title': 'Allow for dynamic updates of email authorization file', 'state': 'closed', 'created_at': '2014-11-16T14:17:51Z', 'closed_at': '2015-05-12T15:08:38Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 33, 'title': 'Problems with args when calling google_auth_proxy from shell script', 'state': 'closed', 'created_at': '2014-10-30T23:17:36Z', 'closed_at': '2014-10-31T23:37:52Z', 'labels': []}
+{'issuenumber': 31, 'title': 'Deployment question', 'state': 'closed', 'created_at': '2014-10-25T14:30:01Z', 'closed_at': '2014-10-25T17:14:48Z', 'labels': {'name': 'question'}}
+{'issuenumber': 29, 'title': 'Docker Support?', 'state': 'closed', 'created_at': '2014-09-25T16:43:46Z', 'closed_at': '2014-12-22T15:17:13Z', 'labels': []}
+{'issuenumber': 28, 'title': 'group-based authentication', 'state': 'closed', 'created_at': '2014-08-21T23:32:11Z', 'closed_at': '2015-09-09T11:20:06Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 27, 'title': 'Proxy omits custom port number upon redirect', 'state': 'closed', 'created_at': '2014-08-21T08:37:28Z', 'closed_at': '2014-11-08T19:38:39Z', 'labels': {'name': 'question'}}
+{'issuenumber': 26, 'title': 'cookie-secret key missing', 'state': 'closed', 'created_at': '2014-08-08T13:00:01Z', 'closed_at': '2014-10-25T17:15:37Z', 'labels': []}
+{'issuenumber': 13, 'title': 'Not Able to Get authenticated-emails-file to be referenced', 'state': 'closed', 'created_at': '2014-03-26T17:54:41Z', 'closed_at': '2014-03-26T21:43:17Z', 'labels': {'name': 'question'}}
+{'issuenumber': 12, 'title': 'Documenation for multiple upstreams?', 'state': 'closed', 'created_at': '2014-03-18T13:11:50Z', 'closed_at': '2015-09-24T13:51:52Z', 'labels': {'name': 'question'}}
+{'issuenumber': 11, 'title': 'Allow custom login and error template', 'state': 'closed', 'created_at': '2014-03-07T12:25:53Z', 'closed_at': '2014-11-10T02:19:37Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 10, 'title': "google_auth_proxy doesn't connect to upstream endpoint", 'state': 'closed', 'created_at': '2014-02-21T03:19:12Z', 'closed_at': '2014-02-21T03:32:50Z', 'labels': []}
+{'issuenumber': 9, 'title': 'Deployment question', 'state': 'closed', 'created_at': '2014-01-15T18:32:07Z', 'closed_at': '2014-01-15T20:28:51Z', 'labels': []}
+{'issuenumber': 8, 'title': "It's not possible to build debian packages with underscores in the name", 'state': 'closed', 'created_at': '2013-12-04T22:41:27Z', 'closed_at': '2014-01-15T20:27:39Z', 'labels': []}
+{'issuenumber': 3, 'title': 'Provide LICENSE', 'state': 'closed', 'created_at': '2013-03-29T18:47:01Z', 'closed_at': '2014-06-30T16:14:41Z', 'labels': []}

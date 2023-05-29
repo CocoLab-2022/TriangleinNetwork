@@ -1,0 +1,310 @@
+{'issuenumber': 471, 'title': 'elasticsearch-js angular compression "Accept-Encoding"', 'state': 'closed', 'created_at': '2016-11-29T20:26:45Z', 'closed_at': '2016-11-30T22:05:02Z', 'labels': []}
+{'issuenumber': 470, 'title': 'ElasticSearch JS Browser Angular NGINX Scoll Issue', 'state': 'closed', 'created_at': '2016-11-29T01:46:21Z', 'closed_at': '2016-11-29T18:00:52Z', 'labels': []}
+{'issuenumber': 469, 'title': 'percolate 5.x', 'state': 'closed', 'created_at': '2016-11-28T03:56:58Z', 'closed_at': '2019-03-14T13:25:54Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 468, 'title': '_update endpoint incorrectly throws illegal_argument_exception error', 'state': 'closed', 'created_at': '2016-11-17T08:23:10Z', 'closed_at': '2016-11-17T23:56:19Z', 'labels': []}
+{'issuenumber': 467, 'title': 'JSAPI scroll documentation is inconsistent', 'state': 'closed', 'created_at': '2016-11-16T00:51:36Z', 'closed_at': '2016-11-21T22:05:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 466, 'title': 'Potential issue with query syntax differences between curl and JS client', 'state': 'closed', 'created_at': '2016-11-09T16:52:45Z', 'closed_at': '2016-11-11T14:55:41Z', 'labels': []}
+{'issuenumber': 465, 'title': 'getting "mapper_parsing_exception', 'state': 'closed', 'created_at': '2016-11-09T15:47:10Z', 'closed_at': '2017-04-07T16:46:35Z', 'labels': []}
+{'issuenumber': 464, 'title': 'an id must be provided if version type or value are set;', 'state': 'closed', 'created_at': '2016-11-06T09:43:17Z', 'closed_at': '2016-11-10T16:39:27Z', 'labels': []}
+{'issuenumber': 463, 'title': 'get() not returning storedFields', 'state': 'closed', 'created_at': '2016-11-04T00:14:10Z', 'closed_at': '2016-12-02T06:58:46Z', 'labels': []}
+{'issuenumber': 462, 'title': 'Integration tests failure (YamlDoc)', 'state': 'closed', 'created_at': '2016-11-03T12:39:40Z', 'closed_at': '2019-05-06T07:09:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 461, 'title': 'unknown setting [index.similarity]', 'state': 'closed', 'created_at': '2016-11-03T03:54:22Z', 'closed_at': '2017-04-07T16:47:38Z', 'labels': {'name': 'support'}}
+{'issuenumber': 460, 'title': 'Replace scan example with sort by _doc', 'state': 'closed', 'created_at': '2016-10-31T18:44:19Z', 'closed_at': '2018-09-03T10:01:40Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 459, 'title': 'RangeError: Invalid string length', 'state': 'closed', 'created_at': '2016-10-31T17:08:51Z', 'closed_at': '2016-11-22T17:35:00Z', 'labels': []}
+{'issuenumber': 458, 'title': 'Changelog was really hard to find', 'state': 'closed', 'created_at': '2016-10-28T21:37:07Z', 'closed_at': '2016-11-01T02:42:35Z', 'labels': []}
+{'issuenumber': 457, 'title': 'Fields of client.search not returned', 'state': 'closed', 'created_at': '2016-10-28T09:34:58Z', 'closed_at': '2016-12-02T16:44:52Z', 'labels': []}
+{'issuenumber': 456, 'title': "indices.create is using method 'POST' instead of 'PUT'", 'state': 'closed', 'created_at': '2016-10-26T12:59:55Z', 'closed_at': '2017-04-07T16:50:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 455, 'title': 'How to listen for elasticsearch errors using javascript client?', 'state': 'closed', 'created_at': '2016-10-18T21:18:02Z', 'closed_at': '2017-04-07T16:52:21Z', 'labels': {'name': 'support'}}
+{'issuenumber': 454, 'title': '400 Bad Request', 'state': 'closed', 'created_at': '2016-10-17T08:52:38Z', 'closed_at': '2016-10-17T18:40:54Z', 'labels': []}
+{'issuenumber': 453, 'title': 'Client.create error on elastic:5.0.0-rc1', 'state': 'closed', 'created_at': '2016-10-13T15:06:37Z', 'closed_at': '2016-10-17T18:41:16Z', 'labels': []}
+{'issuenumber': 452, 'title': 'Angular 2 Support?', 'state': 'closed', 'created_at': '2016-10-09T15:17:47Z', 'closed_at': '2018-09-03T10:18:04Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 451, 'title': 'Release v12 plan/schedule?', 'state': 'closed', 'created_at': '2016-10-05T12:54:20Z', 'closed_at': '2017-04-07T16:53:40Z', 'labels': []}
+{'issuenumber': 450, 'title': 'Watchers management', 'state': 'closed', 'created_at': '2016-10-03T15:48:03Z', 'closed_at': '2019-03-14T13:26:58Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 449, 'title': 'EXCEPTION: Promise is not a constructor in v12.0.0-rc5', 'state': 'closed', 'created_at': '2016-10-02T13:42:07Z', 'closed_at': '2016-12-14T20:00:35Z', 'labels': []}
+{'issuenumber': 447, 'title': 'Client throws weird error when passing immutable config', 'state': 'closed', 'created_at': '2016-09-18T11:55:27Z', 'closed_at': '2016-11-01T12:56:27Z', 'labels': []}
+{'issuenumber': 446, 'title': 'Memory leaks in .get() and .mget()', 'state': 'closed', 'created_at': '2016-09-18T10:54:59Z', 'closed_at': '2017-04-24T19:06:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 445, 'title': 'Generic errors on standard request errors', 'state': 'closed', 'created_at': '2016-09-14T11:27:07Z', 'closed_at': '2019-03-14T13:26:19Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 443, 'title': 'Not using template while indexing data', 'state': 'closed', 'created_at': '2016-09-09T10:18:52Z', 'closed_at': '2016-09-09T18:22:12Z', 'labels': []}
+{'issuenumber': 442, 'title': 'Issue while using putMapping for the first time', 'state': 'closed', 'created_at': '2016-09-08T20:36:03Z', 'closed_at': '2016-09-09T18:22:36Z', 'labels': []}
+{'issuenumber': 441, 'title': "client.suggest() causes: xcontent-type can't be guessed", 'state': 'closed', 'created_at': '2016-08-26T07:28:15Z', 'closed_at': '2016-08-26T07:31:08Z', 'labels': []}
+{'issuenumber': 438, 'title': 'Frequently young gc: is memory leak in elastic 2.3.0? ', 'state': 'closed', 'created_at': '2016-08-18T07:15:39Z', 'closed_at': '2017-04-24T19:06:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 436, 'title': 'ikeuenfftiecbdekeieccckudlicgrjutgbhdeujjujffvhkihhgvl', 'state': 'closed', 'created_at': '2016-08-13T01:29:37Z', 'closed_at': '2016-08-13T15:12:51Z', 'labels': []}
+{'issuenumber': 435, 'title': 'Create index: [parse_exception]  unit is missing or unrecognized', 'state': 'closed', 'created_at': '2016-08-12T10:14:54Z', 'closed_at': '2017-04-07T16:57:44Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 434, 'title': 'Using create returns 409 for deleted document - but undeletes the document.', 'state': 'closed', 'created_at': '2016-08-09T14:50:09Z', 'closed_at': '2017-04-07T17:02:05Z', 'labels': {'name': 'support'}}
+{'issuenumber': 433, 'title': 'Strange sniffing behavior', 'state': 'closed', 'created_at': '2016-08-08T03:59:51Z', 'closed_at': '2019-03-14T13:25:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 432, 'title': 'index type source field value big number lose precision', 'state': 'closed', 'created_at': '2016-08-05T10:29:38Z', 'closed_at': '2017-04-07T17:05:04Z', 'labels': []}
+{'issuenumber': 431, 'title': 'Bluebird integration without using `defer`', 'state': 'closed', 'created_at': '2016-08-02T14:10:22Z', 'closed_at': '2017-04-07T17:07:18Z', 'labels': []}
+{'issuenumber': 430, 'title': 'Node.js search method not working.', 'state': 'closed', 'created_at': '2016-07-26T20:07:07Z', 'closed_at': '2016-07-28T20:10:23Z', 'labels': []}
+{'issuenumber': 429, 'title': 'Promise support in 11.0.2: then(...).done is not a function', 'state': 'closed', 'created_at': '2016-07-21T13:02:51Z', 'closed_at': '2016-07-21T15:58:52Z', 'labels': []}
+{'issuenumber': 427, 'title': 'How to use aggregation in angularjs?', 'state': 'closed', 'created_at': '2016-07-15T13:45:42Z', 'closed_at': '2016-07-15T21:12:01Z', 'labels': []}
+{'issuenumber': 426, 'title': 'Huge degradation in search performance btw elasticsearchjs and REST endpoint', 'state': 'closed', 'created_at': '2016-07-14T19:23:45Z', 'closed_at': '2016-07-14T22:22:43Z', 'labels': []}
+{'issuenumber': 425, 'title': 'Full update of document', 'state': 'closed', 'created_at': '2016-07-13T09:55:16Z', 'closed_at': '2016-07-14T22:33:28Z', 'labels': []}
+{'issuenumber': 424, 'title': 'How to setup Basic Auth on cross domain with AngularJS ?', 'state': 'closed', 'created_at': '2016-07-13T08:18:28Z', 'closed_at': '2016-08-08T07:36:33Z', 'labels': []}
+{'issuenumber': 423, 'title': 'Not compatible with continuation-local-storage', 'state': 'closed', 'created_at': '2016-07-08T01:43:38Z', 'closed_at': '2018-09-03T10:17:36Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 421, 'title': 'How is update_all_types param on putMapping supposed to be passed?', 'state': 'closed', 'created_at': '2016-07-05T14:47:45Z', 'closed_at': '2017-04-07T17:10:03Z', 'labels': {'name': 'support'}}
+{'issuenumber': 420, 'title': 'How to update documents', 'state': 'closed', 'created_at': '2016-07-01T06:10:03Z', 'closed_at': '2016-07-01T20:58:20Z', 'labels': []}
+{'issuenumber': 419, 'title': 'query @timestamp field', 'state': 'closed', 'created_at': '2016-06-30T15:35:24Z', 'closed_at': '2016-07-01T21:00:27Z', 'labels': []}
+{'issuenumber': 417, 'title': 'client.search() returns wrong response', 'state': 'closed', 'created_at': '2016-06-23T19:10:07Z', 'closed_at': '2016-06-24T05:44:37Z', 'labels': []}
+{'issuenumber': 415, 'title': 'How to filter a specific field and how to filter on a wildcard field such as `/cars/*`?', 'state': 'closed', 'created_at': '2016-06-15T19:16:11Z', 'closed_at': '2016-06-20T22:31:19Z', 'labels': []}
+{'issuenumber': 414, 'title': 'Querying multiple indices?', 'state': 'closed', 'created_at': '2016-06-14T15:51:50Z', 'closed_at': '2016-06-15T19:07:18Z', 'labels': []}
+{'issuenumber': 413, 'title': 'How to push  data to elasticsearch using NodeJS', 'state': 'closed', 'created_at': '2016-06-06T12:45:17Z', 'closed_at': '2016-06-06T17:02:06Z', 'labels': []}
+{'issuenumber': 412, 'title': 'esFactory is not sending Content-Type header on Firefox', 'state': 'closed', 'created_at': '2016-06-02T17:47:40Z', 'closed_at': '2016-06-09T01:38:38Z', 'labels': []}
+{'issuenumber': 410, 'title': 'Uncaught error  require is not defined in elasticsearch.js client ', 'state': 'closed', 'created_at': '2016-05-24T08:00:52Z', 'closed_at': '2016-05-24T08:01:03Z', 'labels': []}
+{'issuenumber': 407, 'title': 'Running new elasticsearch.Client(...) on the client', 'state': 'closed', 'created_at': '2016-05-19T10:03:32Z', 'closed_at': '2016-05-19T12:33:40Z', 'labels': []}
+{'issuenumber': 406, 'title': 'Rx / observable support for elasticsearch-js', 'state': 'closed', 'created_at': '2016-05-19T08:54:38Z', 'closed_at': '2018-08-27T16:36:42Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 405, 'title': "Referencing file where new es.Client causes 'module not found' error.", 'state': 'closed', 'created_at': '2016-05-18T16:22:12Z', 'closed_at': '2016-05-21T20:52:04Z', 'labels': []}
+{'issuenumber': 402, 'title': 'Not working with Proxy - should not add a leading slash to path (host.js)', 'state': 'closed', 'created_at': '2016-05-17T06:14:09Z', 'closed_at': '2017-04-07T17:12:21Z', 'labels': []}
+{'issuenumber': 401, 'title': 'Easy way to bulk index a JSON Document?', 'state': 'closed', 'created_at': '2016-05-10T03:38:26Z', 'closed_at': '2016-05-10T04:28:49Z', 'labels': []}
+{'issuenumber': 398, 'title': 'clearScroll should support passing scrollId in request body', 'state': 'closed', 'created_at': '2016-05-02T07:09:39Z', 'closed_at': '2017-04-07T17:12:43Z', 'labels': []}
+{'issuenumber': 397, 'title': 'How to index to 1 shard', 'state': 'closed', 'created_at': '2016-04-27T17:34:31Z', 'closed_at': '2016-04-27T21:33:07Z', 'labels': []}
+{'issuenumber': 395, 'title': 'Override request method for search', 'state': 'closed', 'created_at': '2016-04-22T19:13:13Z', 'closed_at': '2016-04-24T18:34:10Z', 'labels': []}
+{'issuenumber': 393, 'title': 'Support retrying after a requestTimeout', 'state': 'closed', 'created_at': '2016-04-21T21:43:48Z', 'closed_at': '2016-04-22T21:41:14Z', 'labels': []}
+{'issuenumber': 392, 'title': 'Client-side: Logger is not a constructor', 'state': 'closed', 'created_at': '2016-04-19T20:57:23Z', 'closed_at': '2016-05-02T18:15:29Z', 'labels': []}
+{'issuenumber': 391, 'title': 'Using POST body for search', 'state': 'closed', 'created_at': '2016-04-11T11:14:54Z', 'closed_at': '2016-04-12T07:52:59Z', 'labels': []}
+{'issuenumber': 390, 'title': 'How to use the JavaScript Elasticsearch client errors?', 'state': 'closed', 'created_at': '2016-04-11T07:40:53Z', 'closed_at': '2018-08-27T16:31:54Z', 'labels': []}
+{'issuenumber': 389, 'title': "Don't include all API versions with very npm version", 'state': 'closed', 'created_at': '2016-04-08T23:54:00Z', 'closed_at': '2018-08-27T16:30:24Z', 'labels': []}
+{'issuenumber': 388, 'title': 'No way to put and overwrite existing document', 'state': 'closed', 'created_at': '2016-04-08T19:18:30Z', 'closed_at': '2016-04-11T08:08:04Z', 'labels': []}
+{'issuenumber': 383, 'title': 'Get total bucket count per aggregation', 'state': 'closed', 'created_at': '2016-04-05T11:28:08Z', 'closed_at': '2016-04-05T15:38:14Z', 'labels': []}
+{'issuenumber': 382, 'title': 'how do i mention multiple url in host', 'state': 'closed', 'created_at': '2016-04-05T07:40:35Z', 'closed_at': '2016-04-05T15:34:49Z', 'labels': []}
+{'issuenumber': 380, 'title': "Browser build doesn't work", 'state': 'closed', 'created_at': '2016-04-04T09:14:37Z', 'closed_at': '2017-06-02T11:44:07Z', 'labels': []}
+{'issuenumber': 379, 'title': 'TypeError when creating new document', 'state': 'closed', 'created_at': '2016-04-01T22:47:28Z', 'closed_at': '2016-04-01T23:16:18Z', 'labels': []}
+{'issuenumber': 378, 'title': 'Cannot Suppress Log Output with Stream Logger', 'state': 'closed', 'created_at': '2016-04-01T22:27:00Z', 'closed_at': '2018-08-27T16:29:38Z', 'labels': []}
+{'issuenumber': 377, 'title': 'filter_path parameter', 'state': 'closed', 'created_at': '2016-04-01T17:18:54Z', 'closed_at': '2016-05-20T21:08:09Z', 'labels': []}
+{'issuenumber': 376, 'title': 'update: unset a key', 'state': 'closed', 'created_at': '2016-04-01T05:23:41Z', 'closed_at': '2016-04-06T09:21:28Z', 'labels': []}
+{'issuenumber': 372, 'title': 'Can you change the default method?', 'state': 'closed', 'created_at': '2016-03-22T23:54:42Z', 'closed_at': '2016-03-23T00:06:30Z', 'labels': []}
+{'issuenumber': 370, 'title': 'Can not set cookie for Cross-site HTTP request', 'state': 'closed', 'created_at': '2016-03-10T11:27:17Z', 'closed_at': '2016-03-11T16:28:29Z', 'labels': []}
+{'issuenumber': 369, 'title': "ncaught Error: Cannot find module '_process'", 'state': 'closed', 'created_at': '2016-03-10T04:51:14Z', 'closed_at': '2018-08-27T16:32:07Z', 'labels': []}
+{'issuenumber': 368, 'title': 'Elasticsearch create/index/exists will cause the application hang after 2~3 minutes', 'state': 'closed', 'created_at': '2016-03-09T12:05:51Z', 'closed_at': '2016-03-10T02:45:50Z', 'labels': []}
+{'issuenumber': 367, 'title': 'Default nodesToHosts callback should ignore master only nodes', 'state': 'closed', 'created_at': '2016-02-21T21:29:50Z', 'closed_at': '2019-03-15T07:57:35Z', 'labels': {'name': 'legacy'}}
+{'issuenumber': 359, 'title': "Delete index get error: 'Not found'", 'state': 'closed', 'created_at': '2016-02-08T07:33:51Z', 'closed_at': '2016-02-12T15:50:28Z', 'labels': []}
+{'issuenumber': 357, 'title': 'Separated spelling error', 'state': 'closed', 'created_at': '2016-02-06T07:20:18Z', 'closed_at': '2016-02-12T15:51:22Z', 'labels': []}
+{'issuenumber': 356, 'title': 'Babel ES6 Import?', 'state': 'closed', 'created_at': '2016-02-05T18:43:24Z', 'closed_at': '2016-02-05T20:26:17Z', 'labels': []}
+{'issuenumber': 355, 'title': 'Client does not .close() with dead connections.', 'state': 'closed', 'created_at': '2016-02-04T19:51:58Z', 'closed_at': '2016-02-04T20:26:24Z', 'labels': []}
+{'issuenumber': 354, 'title': 'Using bulk() method writing to es and sometimes get error response', 'state': 'closed', 'created_at': '2016-02-03T08:11:48Z', 'closed_at': '2016-02-04T18:34:59Z', 'labels': []}
+{'issuenumber': 353, 'title': "client.search.body isn't documented.", 'state': 'closed', 'created_at': '2016-02-01T14:31:31Z', 'closed_at': '2016-02-01T14:56:23Z', 'labels': []}
+{'issuenumber': 349, 'title': 'Release descriptions', 'state': 'closed', 'created_at': '2016-01-27T05:25:08Z', 'closed_at': '2018-08-22T09:10:46Z', 'labels': []}
+{'issuenumber': 348, 'title': 'Cannot have a field starting with an underscore in version 2.1', 'state': 'closed', 'created_at': '2016-01-22T22:50:20Z', 'closed_at': '2016-01-23T00:16:30Z', 'labels': []}
+{'issuenumber': 347, 'title': 'Wrong score and results ', 'state': 'closed', 'created_at': '2016-01-22T22:32:21Z', 'closed_at': '2016-01-22T22:41:38Z', 'labels': []}
+{'issuenumber': 345, 'title': 'dependence promise-js conflict with core-js', 'state': 'closed', 'created_at': '2016-01-20T03:20:09Z', 'closed_at': '2016-03-25T17:00:01Z', 'labels': []}
+{'issuenumber': 344, 'title': 'elasticsearch.js with AWS elasticsearch sends query string parameters for search_type, resulting in error', 'state': 'closed', 'created_at': '2016-01-19T23:57:45Z', 'closed_at': '2018-08-22T09:10:31Z', 'labels': []}
+{'issuenumber': 343, 'title': 'References to browserify in latest browser builds for elasticsearch.js - unable to upgrade', 'state': 'closed', 'created_at': '2016-01-19T21:29:02Z', 'closed_at': '2016-01-19T23:26:30Z', 'labels': []}
+{'issuenumber': 342, 'title': 'Question about bulk() method return value?', 'state': 'closed', 'created_at': '2016-01-18T11:44:23Z', 'closed_at': '2016-01-21T02:03:57Z', 'labels': []}
+{'issuenumber': 340, 'title': 'Why I cannot create child document?', 'state': 'closed', 'created_at': '2016-01-14T17:24:14Z', 'closed_at': '2016-01-14T21:10:51Z', 'labels': []}
+{'issuenumber': 339, 'title': 'get method returns `error` object on document not found', 'state': 'closed', 'created_at': '2016-01-13T23:21:15Z', 'closed_at': '2016-01-14T21:05:26Z', 'labels': []}
+{'issuenumber': 338, 'title': 'update() method calls the callback before the actual index is done', 'state': 'closed', 'created_at': '2016-01-12T08:07:23Z', 'closed_at': '2016-01-12T21:00:08Z', 'labels': []}
+{'issuenumber': 337, 'title': 'Use extended promises code', 'state': 'closed', 'created_at': '2016-01-11T07:14:21Z', 'closed_at': '2016-01-11T09:56:35Z', 'labels': []}
+{'issuenumber': 333, 'title': 'Error: Request error, retrying -- connect ECONNREFUSED 127.0.0.1:9200', 'state': 'closed', 'created_at': '2016-01-07T21:34:58Z', 'closed_at': '2016-01-11T01:11:37Z', 'labels': []}
+{'issuenumber': 331, 'title': 'Remove `index` and `name` from indices.getAliases API', 'state': 'closed', 'created_at': '2016-01-07T10:12:28Z', 'closed_at': '2016-01-07T16:55:44Z', 'labels': []}
+{'issuenumber': 327, 'title': 'set http.agent to false', 'state': 'closed', 'created_at': '2016-01-04T17:34:40Z', 'closed_at': '2016-01-07T16:14:54Z', 'labels': []}
+{'issuenumber': 325, 'title': 'Error status not always an integer, sometimes a string', 'state': 'closed', 'created_at': '2015-12-31T16:47:25Z', 'closed_at': '2016-01-05T21:25:44Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 324, 'title': 'Re-configure client host dynamically', 'state': 'closed', 'created_at': '2015-12-25T09:14:41Z', 'closed_at': '2016-02-04T19:17:17Z', 'labels': []}
+{'issuenumber': 323, 'title': 'Using elasticsearch-js with Angular 2', 'state': 'closed', 'created_at': '2015-12-22T11:32:40Z', 'closed_at': '2016-01-15T05:59:33Z', 'labels': []}
+{'issuenumber': 322, 'title': 'Typo in transport reference', 'state': 'closed', 'created_at': '2015-12-21T15:02:43Z', 'closed_at': '2016-01-15T18:57:35Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 321, 'title': 'No apparent way to use Angular module securely', 'state': 'closed', 'created_at': '2015-12-16T02:26:13Z', 'closed_at': '2018-08-22T09:11:25Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 320, 'title': 'term / terms not working', 'state': 'closed', 'created_at': '2015-12-15T15:21:52Z', 'closed_at': '2015-12-15T15:47:15Z', 'labels': []}
+{'issuenumber': 319, 'title': 'chalk color is hardcoded enabled', 'state': 'closed', 'created_at': '2015-12-13T22:30:52Z', 'closed_at': '2019-04-01T07:40:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 318, 'title': 'Sniff not working properly ', 'state': 'closed', 'created_at': '2015-12-13T05:24:40Z', 'closed_at': '2016-01-10T23:31:59Z', 'labels': []}
+{'issuenumber': 316, 'title': 'broken link on github page', 'state': 'closed', 'created_at': '2015-12-10T16:07:57Z', 'closed_at': '2015-12-10T22:30:59Z', 'labels': []}
+{'issuenumber': 315, 'title': 'Error/response undefined when pinging', 'state': 'closed', 'created_at': '2015-12-07T08:32:55Z', 'closed_at': '2015-12-17T08:51:13Z', 'labels': []}
+{'issuenumber': 314, 'title': 'bulk: Inconsistency action error handling (deleting/update).', 'state': 'closed', 'created_at': '2015-12-05T15:39:58Z', 'closed_at': '2015-12-08T20:57:33Z', 'labels': []}
+{'issuenumber': 313, 'title': 'RangeError: Invalid string length', 'state': 'closed', 'created_at': '2015-12-05T15:13:07Z', 'closed_at': '2015-12-05T15:27:02Z', 'labels': []}
+{'issuenumber': 312, 'title': 'When creating an index, `settings`, `mappings`, and `aliases` are ignored', 'state': 'closed', 'created_at': '2015-11-29T21:49:08Z', 'closed_at': '2015-12-01T06:35:43Z', 'labels': []}
+{'issuenumber': 311, 'title': 'clearScroll Unhandled rejection Error: Not Found', 'state': 'closed', 'created_at': '2015-11-26T09:08:57Z', 'closed_at': '2015-11-29T09:42:13Z', 'labels': []}
+{'issuenumber': 310, 'title': 'Memory usage', 'state': 'closed', 'created_at': '2015-11-25T09:06:08Z', 'closed_at': '2019-04-01T07:40:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 308, 'title': "grunt-esvm should not be in package.json's dependencies", 'state': 'closed', 'created_at': '2015-11-21T13:36:52Z', 'closed_at': '2015-11-21T22:12:48Z', 'labels': []}
+{'issuenumber': 307, 'title': "Can't inherit es.Client", 'state': 'closed', 'created_at': '2015-11-20T06:48:44Z', 'closed_at': '2015-11-25T17:27:28Z', 'labels': []}
+{'issuenumber': 306, 'title': 'searchType vs search_type', 'state': 'closed', 'created_at': '2015-11-19T09:01:26Z', 'closed_at': '2015-11-20T12:28:08Z', 'labels': []}
+{'issuenumber': 305, 'title': 'The term suggester doesn’t take the query into account that is part of request.', 'state': 'closed', 'created_at': '2015-11-18T17:25:28Z', 'closed_at': '2018-08-22T09:10:18Z', 'labels': []}
+{'issuenumber': 297, 'title': 'Has client.indices.deleteMapping been deprecated in v2.0?', 'state': 'closed', 'created_at': '2015-11-16T10:19:03Z', 'closed_at': '2015-11-16T19:05:47Z', 'labels': []}
+{'issuenumber': 296, 'title': '_msearch sends invalid JSON, with content-type: application/json', 'state': 'closed', 'created_at': '2015-11-11T18:46:05Z', 'closed_at': '2017-02-02T20:32:48Z', 'labels': []}
+{'issuenumber': 295, 'title': 'Allow `doc` parameter for termvector method', 'state': 'closed', 'created_at': '2015-11-11T11:24:36Z', 'closed_at': '2015-11-11T17:04:41Z', 'labels': []}
+{'issuenumber': 294, 'title': 'TypeScript Definition ', 'state': 'closed', 'created_at': '2015-11-09T15:08:43Z', 'closed_at': '2015-11-09T15:09:11Z', 'labels': []}
+{'issuenumber': 292, 'title': 'Better version checking in log.js', 'state': 'closed', 'created_at': '2015-11-07T19:16:26Z', 'closed_at': '2015-11-16T21:43:48Z', 'labels': []}
+{'issuenumber': 291, 'title': 'Does not work with latest node.', 'state': 'closed', 'created_at': '2015-11-07T18:53:07Z', 'closed_at': '2015-11-07T19:05:53Z', 'labels': []}
+{'issuenumber': 288, 'title': 'Error constructors object is missing "Forbidden"', 'state': 'closed', 'created_at': '2015-10-30T21:58:03Z', 'closed_at': '2015-10-30T23:27:06Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 287, 'title': 'Update docs for support version in browser build', 'state': 'closed', 'created_at': '2015-10-29T19:29:57Z', 'closed_at': '2015-10-30T23:27:54Z', 'labels': []}
+{'issuenumber': 286, 'title': 'js client could not connect to elasticsearch behind nginx', 'state': 'closed', 'created_at': '2015-10-29T06:43:15Z', 'closed_at': '2015-10-29T17:51:55Z', 'labels': []}
+{'issuenumber': 285, 'title': 'client.deleteByQuery in undefined in v1.7+', 'state': 'closed', 'created_at': '2015-10-25T10:36:58Z', 'closed_at': '2015-10-26T18:40:05Z', 'labels': []}
+{'issuenumber': 283, 'title': 'Proposal: Add scrollToEnd method', 'state': 'closed', 'created_at': '2015-10-21T22:57:28Z', 'closed_at': '2015-10-21T23:00:29Z', 'labels': []}
+{'issuenumber': 282, 'title': "maxSockets doesn't work", 'state': 'closed', 'created_at': '2015-10-20T10:07:56Z', 'closed_at': '2018-07-03T21:42:54Z', 'labels': []}
+{'issuenumber': 281, 'title': "Sniff doesn't work on getting nodes_to_host - in EL 2.0rc1 : http_address changed ", 'state': 'closed', 'created_at': '2015-10-20T09:52:30Z', 'closed_at': '2015-11-20T18:59:49Z', 'labels': []}
+{'issuenumber': 280, 'title': 'Self-sign certificate problem after node upgrade.', 'state': 'closed', 'created_at': '2015-10-19T15:12:58Z', 'closed_at': '2018-08-22T09:09:08Z', 'labels': []}
+{'issuenumber': 279, 'title': 'no partial_fields support for search API call', 'state': 'closed', 'created_at': '2015-10-14T13:19:43Z', 'closed_at': '2015-10-19T14:04:06Z', 'labels': []}
+{'issuenumber': 278, 'title': 'EventEmitter.listenerCount is deprecated. Causing a "Maximum call stack size exceeded" error', 'state': 'closed', 'created_at': '2015-10-12T13:01:09Z', 'closed_at': '2015-12-17T08:58:30Z', 'labels': []}
+{'issuenumber': 277, 'title': 'Add response headers ', 'state': 'closed', 'created_at': '2015-10-08T00:06:52Z', 'closed_at': '2015-10-30T23:29:11Z', 'labels': []}
+{'issuenumber': 274, 'title': 'Connection handler for Amazon ES', 'state': 'closed', 'created_at': '2015-10-04T10:48:54Z', 'closed_at': '2015-10-19T15:05:55Z', 'labels': []}
+{'issuenumber': 273, 'title': 'ignoreUnavailable param ignored by client.indices.close', 'state': 'closed', 'created_at': '2015-09-24T15:30:15Z', 'closed_at': '2019-04-01T07:42:26Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 272, 'title': 'Website missing docs for 1.5 API', 'state': 'closed', 'created_at': '2015-09-16T23:47:23Z', 'closed_at': '2015-09-17T17:12:24Z', 'labels': []}
+{'issuenumber': 271, 'title': 'what does the index promise actually promises?', 'state': 'closed', 'created_at': '2015-09-16T07:41:09Z', 'closed_at': '2015-09-16T13:50:51Z', 'labels': []}
+{'issuenumber': 269, 'title': 'Stable version of node (v4.0.0) failure to create client', 'state': 'closed', 'created_at': '2015-09-11T09:26:47Z', 'closed_at': '2015-09-11T19:06:19Z', 'labels': []}
+{'issuenumber': 265, 'title': 'Maximum stack size exceeded on >= iojs-3.3.0', 'state': 'closed', 'created_at': '2015-09-09T08:14:39Z', 'closed_at': '2015-09-10T05:34:37Z', 'labels': []}
+{'issuenumber': 264, 'title': 'Sniffing broken with shield/https', 'state': 'closed', 'created_at': '2015-09-09T04:27:07Z', 'closed_at': '2015-09-12T19:55:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 263, 'title': "TypeErrors in transport.js don't have defer defined.", 'state': 'closed', 'created_at': '2015-09-09T03:24:06Z', 'closed_at': '2015-09-10T22:25:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 261, 'title': 'Problems getting Infinity values', 'state': 'closed', 'created_at': '2015-09-08T16:43:54Z', 'closed_at': '2015-11-11T10:33:15Z', 'labels': []}
+{'issuenumber': 260, 'title': 'When logging a host, credentials should not be included', 'state': 'closed', 'created_at': '2015-09-04T20:38:43Z', 'closed_at': '2019-04-01T07:39:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 258, 'title': 'Infinite loop in log.js', 'state': 'closed', 'created_at': '2015-08-25T15:54:46Z', 'closed_at': '2015-08-25T18:50:23Z', 'labels': []}
+{'issuenumber': 257, 'title': 'Util Method For Lucene Escape', 'state': 'closed', 'created_at': '2015-08-24T15:37:26Z', 'closed_at': '2015-08-25T20:17:40Z', 'labels': []}
+{'issuenumber': 256, 'title': 'creating couchdb indices with elasticsearch client in nodejs', 'state': 'closed', 'created_at': '2015-08-19T15:56:18Z', 'closed_at': '2018-08-22T09:08:42Z', 'labels': []}
+{'issuenumber': 254, 'title': 'Intermittent 400: Bad request error in angularjs service code', 'state': 'closed', 'created_at': '2015-08-11T16:36:48Z', 'closed_at': '2015-08-11T19:49:18Z', 'labels': []}
+{'issuenumber': 253, 'title': 'javascript API: client.msearch document reference is incorrect', 'state': 'closed', 'created_at': '2015-08-10T18:50:00Z', 'closed_at': '2016-01-26T16:29:53Z', 'labels': []}
+{'issuenumber': 250, 'title': 'Spelling is incorrect: "Upcomming"', 'state': 'closed', 'created_at': '2015-08-05T19:38:50Z', 'closed_at': '2015-08-05T20:09:35Z', 'labels': []}
+{'issuenumber': 247, 'title': 'Cant get aggregates to return any results ', 'state': 'closed', 'created_at': '2015-08-04T08:32:04Z', 'closed_at': '2015-08-04T10:34:57Z', 'labels': []}
+{'issuenumber': 246, 'title': 'Add withCredentials option', 'state': 'closed', 'created_at': '2015-07-30T17:05:35Z', 'closed_at': '2018-08-21T09:26:32Z', 'labels': []}
+{'issuenumber': 245, 'title': 'Bulk request with empty body throws unhelpful error', 'state': 'closed', 'created_at': '2015-07-29T15:44:45Z', 'closed_at': '2016-01-21T00:20:40Z', 'labels': []}
+{'issuenumber': 244, 'title': 'Silent fail if document has mapping mismatch for a field', 'state': 'closed', 'created_at': '2015-07-27T14:25:03Z', 'closed_at': '2018-08-21T09:26:25Z', 'labels': []}
+{'issuenumber': 243, 'title': "Looks like latest elasticsearch-js in npm hasn't supported 1.7 yet", 'state': 'closed', 'created_at': '2015-07-27T05:01:03Z', 'closed_at': '2015-08-04T12:46:40Z', 'labels': []}
+{'issuenumber': 241, 'title': '413 (request entity too large) error not handled/"unknown error" not informative enough.', 'state': 'closed', 'created_at': '2015-07-21T11:25:29Z', 'closed_at': '2018-09-14T17:25:28Z', 'labels': []}
+{'issuenumber': 240, 'title': 'Adding JSON objects from XML parsing stream using create', 'state': 'closed', 'created_at': '2015-07-17T21:39:32Z', 'closed_at': '2018-08-21T09:25:36Z', 'labels': []}
+{'issuenumber': 239, 'title': 'Allow Urls of the form:  example.com:9200/customPath', 'state': 'closed', 'created_at': '2015-07-17T18:37:14Z', 'closed_at': '2018-08-21T09:25:21Z', 'labels': []}
+{'issuenumber': 238, 'title': 'Port being added to end of Url', 'state': 'closed', 'created_at': '2015-07-14T20:43:51Z', 'closed_at': '2015-08-04T17:42:03Z', 'labels': []}
+{'issuenumber': 233, 'title': "require('elasticsearch') fails with undefined is not a function error", 'state': 'closed', 'created_at': '2015-06-29T22:26:25Z', 'closed_at': '2018-08-21T09:25:07Z', 'labels': []}
+{'issuenumber': 232, 'title': '429 error coming from ES rest api not handled', 'state': 'closed', 'created_at': '2015-06-29T13:33:05Z', 'closed_at': '2015-08-06T23:59:11Z', 'labels': []}
+{'issuenumber': 231, 'title': 'Document not found immediately after it is saved', 'state': 'closed', 'created_at': '2015-06-28T23:21:19Z', 'closed_at': '2015-07-05T00:31:42Z', 'labels': []}
+{'issuenumber': 230, 'title': 'Request Timeout Error after multiple search hits', 'state': 'closed', 'created_at': '2015-06-26T16:19:10Z', 'closed_at': '2018-08-27T16:40:42Z', 'labels': []}
+{'issuenumber': 229, 'title': 'nodejs require() not working ', 'state': 'closed', 'created_at': '2015-06-25T22:24:52Z', 'closed_at': '2015-06-29T18:29:25Z', 'labels': []}
+{'issuenumber': 228, 'title': 'Documentation on geospatial queries', 'state': 'closed', 'created_at': '2015-06-15T23:19:38Z', 'closed_at': '2015-06-24T10:28:18Z', 'labels': []}
+{'issuenumber': 227, 'title': 'bulk api helper', 'state': 'closed', 'created_at': '2015-06-13T20:23:24Z', 'closed_at': '2020-03-23T16:43:11Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 226, 'title': 'Showing hostname in log messages?', 'state': 'closed', 'created_at': '2015-06-13T14:23:45Z', 'closed_at': '2016-01-10T21:29:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 225, 'title': 'Release notes for version 5.0', 'state': 'closed', 'created_at': '2015-06-11T16:08:00Z', 'closed_at': '2015-06-11T21:10:52Z', 'labels': []}
+{'issuenumber': 224, 'title': 'Which promise library is elasticsearch-js using? ', 'state': 'closed', 'created_at': '2015-06-09T18:35:57Z', 'closed_at': '2015-06-09T18:44:32Z', 'labels': []}
+{'issuenumber': 221, 'title': 'Indexing performance', 'state': 'closed', 'created_at': '2015-05-23T15:01:02Z', 'closed_at': '2018-08-21T09:26:51Z', 'labels': []}
+{'issuenumber': 220, 'title': 'Scroll Id too long', 'state': 'closed', 'created_at': '2015-05-22T19:49:22Z', 'closed_at': '2018-08-21T09:24:26Z', 'labels': []}
+{'issuenumber': 218, 'title': '"Error: Unable to parse/serialize body" caused by automatic sniffing with a load balancer', 'state': 'closed', 'created_at': '2015-05-20T06:00:26Z', 'closed_at': '2019-09-04T14:20:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 217, 'title': 'Elasticsearch.js client behaviour when attaching to dedicated query/master/data nodes.', 'state': 'closed', 'created_at': '2015-05-19T15:06:06Z', 'closed_at': '2018-08-21T09:26:16Z', 'labels': []}
+{'issuenumber': 211, 'title': 'Requirejs with Elasticsearch Angular app throwing "lib/connectors/angular" has not been loaded yet for context: _. Use require([])', 'state': 'closed', 'created_at': '2015-05-04T09:21:56Z', 'closed_at': '2015-05-20T14:55:46Z', 'labels': []}
+{'issuenumber': 209, 'title': 'Is it possible to migrate from elastic.js?', 'state': 'closed', 'created_at': '2015-04-14T23:36:56Z', 'closed_at': '2015-04-15T08:25:01Z', 'labels': []}
+{'issuenumber': 208, 'title': 'Get all results if query filed is null or empty?', 'state': 'closed', 'created_at': '2015-04-13T11:04:26Z', 'closed_at': '2015-04-14T17:00:17Z', 'labels': []}
+{'issuenumber': 207, 'title': 'RangeError: Maximum call stack size exceeded', 'state': 'closed', 'created_at': '2015-04-09T22:46:14Z', 'closed_at': '2015-10-19T14:01:05Z', 'labels': []}
+{'issuenumber': 205, 'title': 'Browser clients do not use host-specified auth', 'state': 'closed', 'created_at': '2015-04-08T18:34:23Z', 'closed_at': '2015-04-15T18:43:15Z', 'labels': []}
+{'issuenumber': 204, 'title': '[Node.js 0.12] _writableState.buffer is deprecated. Use _writableState.getBuffer() instead', 'state': 'closed', 'created_at': '2015-04-03T21:52:05Z', 'closed_at': '2015-04-03T23:46:57Z', 'labels': []}
+{'issuenumber': 203, 'title': "Can't get stream logger to work", 'state': 'closed', 'created_at': '2015-03-29T02:00:40Z', 'closed_at': '2015-03-30T02:10:18Z', 'labels': []}
+{'issuenumber': 202, 'title': 'API does not support updating a whole document', 'state': 'closed', 'created_at': '2015-03-25T15:21:47Z', 'closed_at': '2015-03-25T17:35:29Z', 'labels': []}
+{'issuenumber': 201, 'title': "Latest stables node version (0.12) getting 'No living connections'", 'state': 'closed', 'created_at': '2015-03-23T19:59:22Z', 'closed_at': '2018-08-22T09:09:21Z', 'labels': []}
+{'issuenumber': 199, 'title': '[Feature request] Add Gitter room', 'state': 'closed', 'created_at': '2015-03-12T09:14:43Z', 'closed_at': '2015-03-17T23:00:59Z', 'labels': []}
+{'issuenumber': 198, 'title': 'Client how dyanmic setting max_clause_count', 'state': 'closed', 'created_at': '2015-03-12T03:43:26Z', 'closed_at': '2015-03-13T02:33:28Z', 'labels': []}
+{'issuenumber': 197, 'title': 'CamelCase variable Issue?', 'state': 'closed', 'created_at': '2015-03-10T07:29:48Z', 'closed_at': '2015-03-17T23:10:24Z', 'labels': []}
+{'issuenumber': 196, 'title': 'Elasticsearch - No Living Connections', 'state': 'closed', 'created_at': '2015-03-04T08:47:52Z', 'closed_at': '2019-03-22T07:10:11Z', 'labels': []}
+{'issuenumber': 194, 'title': 'Update dependencies', 'state': 'closed', 'created_at': '2015-03-03T13:46:19Z', 'closed_at': '2015-03-04T06:11:30Z', 'labels': []}
+{'issuenumber': 193, 'title': 'problem about the version of elasticsearch.js and node.js', 'state': 'closed', 'created_at': '2015-02-26T03:11:25Z', 'closed_at': '2015-06-10T16:04:10Z', 'labels': []}
+{'issuenumber': 190, 'title': 'unknown error', 'state': 'closed', 'created_at': '2015-02-23T20:59:24Z', 'closed_at': '2018-08-21T09:24:53Z', 'labels': []}
+{'issuenumber': 189, 'title': 'Unable to download the browser build', 'state': 'closed', 'created_at': '2015-02-23T14:29:13Z', 'closed_at': '2015-02-23T15:41:07Z', 'labels': []}
+{'issuenumber': 187, 'title': 'Update cookie parameter in curl command', 'state': 'closed', 'created_at': '2015-02-18T07:10:54Z', 'closed_at': '2018-08-20T13:46:04Z', 'labels': []}
+{'issuenumber': 186, 'title': "node.js client  search timeout doesn't work (for me)", 'state': 'closed', 'created_at': '2015-02-12T11:16:56Z', 'closed_at': '2018-08-27T16:31:35Z', 'labels': []}
+{'issuenumber': 185, 'title': 'Default ping timeout needs to be configurable.', 'state': 'closed', 'created_at': '2015-02-09T17:56:57Z', 'closed_at': '2015-06-02T21:20:06Z', 'labels': []}
+{'issuenumber': 184, 'title': 'I recommend the development of a compatible Mongoose populate feature', 'state': 'closed', 'created_at': '2015-02-05T16:52:47Z', 'closed_at': '2015-10-11T03:06:16Z', 'labels': []}
+{'issuenumber': 183, 'title': 'Need ability to test connection without producing a backtrace', 'state': 'closed', 'created_at': '2015-01-26T16:38:23Z', 'closed_at': '2018-08-20T13:45:37Z', 'labels': []}
+{'issuenumber': 180, 'title': 'Commas are escaped to %252C in index placeholder', 'state': 'closed', 'created_at': '2015-01-16T02:43:24Z', 'closed_at': '2018-08-20T13:45:18Z', 'labels': []}
+{'issuenumber': 179, 'title': 'search result for callback for nodejs', 'state': 'closed', 'created_at': '2015-01-13T07:23:14Z', 'closed_at': '2018-08-20T13:46:35Z', 'labels': []}
+{'issuenumber': 177, 'title': 'Creating an index does not return despite promise getting processed', 'state': 'closed', 'created_at': '2015-01-09T14:22:38Z', 'closed_at': '2015-01-10T01:18:37Z', 'labels': []}
+{'issuenumber': 174, 'title': 'Scroll with ElasticSearch 1.4.2', 'state': 'closed', 'created_at': '2015-01-06T16:03:51Z', 'closed_at': '2015-01-07T12:52:49Z', 'labels': []}
+{'issuenumber': 173, 'title': 'Ability to set custom headers on client request', 'state': 'closed', 'created_at': '2015-01-05T18:02:03Z', 'closed_at': '2015-01-05T20:00:34Z', 'labels': []}
+{'issuenumber': 171, 'title': 'Highest supported Elasticsearch version', 'state': 'closed', 'created_at': '2014-12-18T01:22:31Z', 'closed_at': '2015-01-07T12:52:57Z', 'labels': []}
+{'issuenumber': 170, 'title': 'snapshot.create is not working', 'state': 'closed', 'created_at': '2014-12-11T17:10:53Z', 'closed_at': '2014-12-13T00:13:15Z', 'labels': []}
+{'issuenumber': 169, 'title': 'Error trapping within callbacks', 'state': 'closed', 'created_at': '2014-12-09T16:52:30Z', 'closed_at': '2014-12-11T17:11:05Z', 'labels': []}
+{'issuenumber': 167, 'title': 'unable to load npm module (Browserify + Angular)', 'state': 'closed', 'created_at': '2014-12-07T01:30:40Z', 'closed_at': '2016-06-18T19:12:35Z', 'labels': []}
+{'issuenumber': 166, 'title': 'geo_point mapping is never created despite ElasticSearch TRACE saying otherwise.', 'state': 'closed', 'created_at': '2014-12-03T20:36:19Z', 'closed_at': '2014-12-04T21:19:12Z', 'labels': []}
+{'issuenumber': 165, 'title': 'Improve documentation about persistent connections and client.close()', 'state': 'closed', 'created_at': '2014-12-02T20:20:47Z', 'closed_at': '2018-08-20T13:46:23Z', 'labels': []}
+{'issuenumber': 164, 'title': 'Never exits after query', 'state': 'closed', 'created_at': '2014-12-02T14:06:55Z', 'closed_at': '2014-12-02T18:17:28Z', 'labels': []}
+{'issuenumber': 163, 'title': 'Changelog for 3.0.0', 'state': 'closed', 'created_at': '2014-11-27T09:44:19Z', 'closed_at': '2014-12-03T01:04:11Z', 'labels': []}
+{'issuenumber': 162, 'title': 'elasticsearch.js call to index/create hangs at 277 documents', 'state': 'closed', 'created_at': '2014-11-26T07:38:17Z', 'closed_at': '2014-12-02T20:21:19Z', 'labels': []}
+{'issuenumber': 161, 'title': 'Separate angular js version of elasticsearch  in bower package', 'state': 'closed', 'created_at': '2014-11-25T17:57:45Z', 'closed_at': '2018-08-22T09:09:59Z', 'labels': []}
+{'issuenumber': 159, 'title': 'Update Dependencies & devDependencies ?', 'state': 'closed', 'created_at': '2014-11-18T00:25:04Z', 'closed_at': '2017-02-06T10:38:23Z', 'labels': []}
+{'issuenumber': 158, 'title': 'Unable to run the tests on master branch', 'state': 'closed', 'created_at': '2014-11-16T15:23:40Z', 'closed_at': '2018-08-20T13:44:39Z', 'labels': []}
+{'issuenumber': 157, 'title': 'can Client be shared between parallel requests? ', 'state': 'closed', 'created_at': '2014-11-14T14:46:37Z', 'closed_at': '2014-11-15T05:07:34Z', 'labels': []}
+{'issuenumber': 156, 'title': 'Err is "undefined" when using bulk() method while data.errors = true', 'state': 'closed', 'created_at': '2014-11-13T17:27:01Z', 'closed_at': '2014-11-13T18:50:18Z', 'labels': []}
+{'issuenumber': 155, 'title': 'Error for search with scroll', 'state': 'closed', 'created_at': '2014-11-07T21:25:10Z', 'closed_at': '2014-11-07T23:58:51Z', 'labels': []}
+{'issuenumber': 154, 'title': 'Why are GET requests with a body not allowed?', 'state': 'closed', 'created_at': '2014-11-06T10:54:49Z', 'closed_at': '2014-11-07T10:49:44Z', 'labels': []}
+{'issuenumber': 153, 'title': 'is elasticsearch 1.4 (currently in beta) supported by this library', 'state': 'closed', 'created_at': '2014-11-03T16:02:41Z', 'closed_at': '2014-11-04T11:15:36Z', 'labels': []}
+{'issuenumber': 152, 'title': 'Mailing list for elasticsearch-js users?', 'state': 'closed', 'created_at': '2014-10-23T02:20:11Z', 'closed_at': '2018-08-20T13:44:17Z', 'labels': []}
+{'issuenumber': 151, 'title': 'Error when connection with https (self signed certificate)', 'state': 'closed', 'created_at': '2014-10-21T19:57:28Z', 'closed_at': '2014-10-27T07:06:16Z', 'labels': []}
+{'issuenumber': 148, 'title': 'Sort is broken ', 'state': 'closed', 'created_at': '2014-09-19T03:43:51Z', 'closed_at': '2014-09-19T06:02:40Z', 'labels': []}
+{'issuenumber': 147, 'title': 'Deleted documents show up in completion suggester', 'state': 'closed', 'created_at': '2014-09-16T13:47:32Z', 'closed_at': '2014-09-17T06:32:51Z', 'labels': []}
+{'issuenumber': 146, 'title': '[Angular] The library should not modify the default header', 'state': 'closed', 'created_at': '2014-09-15T19:07:33Z', 'closed_at': '2014-09-25T01:10:00Z', 'labels': []}
+{'issuenumber': 144, 'title': 'Handle Response', 'state': 'closed', 'created_at': '2014-09-12T19:20:46Z', 'closed_at': '2014-09-13T01:43:18Z', 'labels': []}
+{'issuenumber': 143, 'title': 'Specifying number of shards and replicas during index creation', 'state': 'closed', 'created_at': '2014-09-11T12:15:20Z', 'closed_at': '2014-09-11T15:31:32Z', 'labels': []}
+{'issuenumber': 142, 'title': 'Unable to revive connection', 'state': 'closed', 'created_at': '2014-09-09T08:18:41Z', 'closed_at': '2019-04-10T22:31:17Z', 'labels': {'name': 'stale'}}
+{'issuenumber': 140, 'title': 'Setting settings?', 'state': 'closed', 'created_at': '2014-09-08T19:00:28Z', 'closed_at': '2014-09-08T19:15:09Z', 'labels': []}
+{'issuenumber': 137, 'title': 'Re-configure client host dynamically', 'state': 'closed', 'created_at': '2014-09-01T18:34:26Z', 'closed_at': '2014-09-04T01:25:00Z', 'labels': []}
+{'issuenumber': 135, 'title': 'Bug in connection_pool.js', 'state': 'closed', 'created_at': '2014-08-23T10:49:58Z', 'closed_at': '2014-08-23T19:51:17Z', 'labels': []}
+{'issuenumber': 133, 'title': 'jQuery build always uses GET method', 'state': 'closed', 'created_at': '2014-08-22T18:09:36Z', 'closed_at': '2014-09-08T17:59:13Z', 'labels': []}
+{'issuenumber': 132, 'title': 'API version 0.90 is unsupported in v2.4.0', 'state': 'closed', 'created_at': '2014-08-22T17:25:14Z', 'closed_at': '2018-08-20T13:43:25Z', 'labels': []}
+{'issuenumber': 131, 'title': 'release 2.4 version', 'state': 'closed', 'created_at': '2014-08-20T16:42:49Z', 'closed_at': '2014-08-21T01:53:09Z', 'labels': []}
+{'issuenumber': 126, 'title': 'Update documents in multiple types with wildcard', 'state': 'closed', 'created_at': '2014-07-24T18:37:44Z', 'closed_at': '2014-07-24T23:32:30Z', 'labels': []}
+{'issuenumber': 125, 'title': 'Error: connect ECONNREFUSED coming from mongoosastic - believe it is an es-js problem', 'state': 'closed', 'created_at': '2014-07-20T19:09:10Z', 'closed_at': '2014-07-21T18:22:54Z', 'labels': []}
+{'issuenumber': 121, 'title': "Lower the logging level of 'Request complete'", 'state': 'closed', 'created_at': '2014-07-17T15:50:49Z', 'closed_at': '2014-07-17T20:52:03Z', 'labels': []}
+{'issuenumber': 118, 'title': 'Valid search or bug?', 'state': 'closed', 'created_at': '2014-07-12T00:49:22Z', 'closed_at': '2018-08-20T13:43:56Z', 'labels': []}
+{'issuenumber': 117, 'title': 'Deleted documents show up in completion suggester', 'state': 'closed', 'created_at': '2014-07-07T19:29:34Z', 'closed_at': '2014-07-07T23:03:52Z', 'labels': []}
+{'issuenumber': 116, 'title': 'connect ECONNREFUSED', 'state': 'closed', 'created_at': '2014-07-07T18:26:26Z', 'closed_at': '2014-07-08T14:55:37Z', 'labels': []}
+{'issuenumber': 115, 'title': 'Support `ignore_unmapped` in `sort` when searching', 'state': 'closed', 'created_at': '2014-06-26T09:15:39Z', 'closed_at': '2014-07-09T01:27:26Z', 'labels': []}
+{'issuenumber': 113, 'title': "Scroll search request doesn't allow passing scroll id via body", 'state': 'closed', 'created_at': '2014-06-16T09:52:57Z', 'closed_at': '2014-07-07T08:55:24Z', 'labels': []}
+{'issuenumber': 111, 'title': 'Passing in a query for known documents, getting zero hits', 'state': 'closed', 'created_at': '2014-06-11T22:00:51Z', 'closed_at': '2018-08-20T13:42:41Z', 'labels': []}
+{'issuenumber': 109, 'title': 'Documentation on how to extend the api', 'state': 'closed', 'created_at': '2014-06-03T15:18:51Z', 'closed_at': '2014-07-09T19:02:02Z', 'labels': []}
+{'issuenumber': 107, 'title': 'Problem with keepAlive', 'state': 'closed', 'created_at': '2014-05-30T21:00:06Z', 'closed_at': '2018-08-22T09:11:07Z', 'labels': []}
+{'issuenumber': 106, 'title': 'Http requests fail in node.js v0.11', 'state': 'closed', 'created_at': '2014-05-19T20:11:00Z', 'closed_at': '2014-05-19T20:38:12Z', 'labels': []}
+{'issuenumber': 103, 'title': 'bug(elasticsearch.angular): esFactory ignores config protocol', 'state': 'closed', 'created_at': '2014-05-19T10:05:20Z', 'closed_at': '2014-05-19T18:44:47Z', 'labels': []}
+{'issuenumber': 102, 'title': 'PutMapping api url is incorrect', 'state': 'closed', 'created_at': '2014-05-14T16:58:09Z', 'closed_at': '2014-05-19T17:58:56Z', 'labels': []}
+{'issuenumber': 101, 'title': 'Access Through Proxy', 'state': 'closed', 'created_at': '2014-05-13T20:44:54Z', 'closed_at': '2019-03-14T13:24:04Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 98, 'title': 'Client should send appropriate content headers', 'state': 'closed', 'created_at': '2014-05-06T11:34:50Z', 'closed_at': '2017-04-07T16:22:46Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 97, 'title': 'Code does not terminate without explicitly calling close()', 'state': 'closed', 'created_at': '2014-05-05T08:09:51Z', 'closed_at': '2014-05-05T20:28:01Z', 'labels': []}
+{'issuenumber': 96, 'title': 'IE9 - No Living Connections', 'state': 'closed', 'created_at': '2014-05-01T17:31:21Z', 'closed_at': '2014-05-19T18:44:56Z', 'labels': []}
+{'issuenumber': 95, 'title': "Can't find any documentation on facet queries with elasticsearch-js", 'state': 'closed', 'created_at': '2014-04-30T09:44:36Z', 'closed_at': '2014-04-30T17:18:48Z', 'labels': []}
+{'issuenumber': 94, 'title': 'returned fields in hits, always array?', 'state': 'closed', 'created_at': '2014-04-30T04:11:52Z', 'closed_at': '2014-04-30T06:55:31Z', 'labels': []}
+{'issuenumber': 93, 'title': 'bluebird module not found - because of 1.2.1 version not existed', 'state': 'closed', 'created_at': '2014-04-29T14:27:24Z', 'closed_at': '2014-04-29T16:14:38Z', 'labels': []}
+{'issuenumber': 91, 'title': 'Question:Do any api methods pass back errors in the response?', 'state': 'closed', 'created_at': '2014-04-25T01:54:15Z', 'closed_at': '2014-04-25T23:09:25Z', 'labels': []}
+{'issuenumber': 90, 'title': 'no living connections', 'state': 'closed', 'created_at': '2014-04-24T03:18:12Z', 'closed_at': '2014-05-08T05:19:58Z', 'labels': []}
+{'issuenumber': 88, 'title': 'Unable to make it work as angularjs service', 'state': 'closed', 'created_at': '2014-04-22T14:44:25Z', 'closed_at': '2014-04-24T03:36:12Z', 'labels': []}
+{'issuenumber': 87, 'title': 'Node keeps running after successful query', 'state': 'closed', 'created_at': '2014-04-22T11:57:24Z', 'closed_at': '2014-04-22T15:32:35Z', 'labels': []}
+{'issuenumber': 85, 'title': 'Unable to revive connection: http://xxx.xxx.xx.x:9200 on EC2 Amazon Linux', 'state': 'closed', 'created_at': '2014-04-16T19:35:46Z', 'closed_at': '2014-04-18T20:11:01Z', 'labels': []}
+{'issuenumber': 81, 'title': 'more_like_this', 'state': 'closed', 'created_at': '2014-04-04T18:55:02Z', 'closed_at': '2014-04-04T18:57:29Z', 'labels': []}
+{'issuenumber': 79, 'title': 'Nested documents not working as expected', 'state': 'closed', 'created_at': '2014-04-01T12:57:17Z', 'closed_at': '2014-04-01T13:09:13Z', 'labels': []}
+{'issuenumber': 78, 'title': "don't throw error when an optional param is set to undefined", 'state': 'closed', 'created_at': '2014-03-31T12:18:36Z', 'closed_at': '2014-04-02T20:45:29Z', 'labels': []}
+{'issuenumber': 77, 'title': 'npm install elasticsearch not working', 'state': 'closed', 'created_at': '2014-03-31T07:12:40Z', 'closed_at': '2014-03-31T18:34:45Z', 'labels': []}
+{'issuenumber': 76, 'title': 'Allow the client to be initialized with a path prefix', 'state': 'closed', 'created_at': '2014-03-29T14:02:18Z', 'closed_at': '2014-03-29T21:45:38Z', 'labels': []}
+{'issuenumber': 74, 'title': 'Unable to get client to reconnect after lost network connectivity', 'state': 'closed', 'created_at': '2014-03-28T22:06:00Z', 'closed_at': '2014-05-08T05:20:27Z', 'labels': []}
+{'issuenumber': 73, 'title': 'Client mutates config parameter', 'state': 'closed', 'created_at': '2014-03-27T15:14:09Z', 'closed_at': '2014-03-27T16:56:01Z', 'labels': []}
+{'issuenumber': 72, 'title': 'Basic Authentication works with search but not update', 'state': 'closed', 'created_at': '2014-03-27T02:30:35Z', 'closed_at': '2014-03-27T03:56:22Z', 'labels': []}
+{'issuenumber': 71, 'title': 'Memory leak with sniffInterval', 'state': 'closed', 'created_at': '2014-03-26T22:00:19Z', 'closed_at': '2018-08-22T09:09:44Z', 'labels': []}
+{'issuenumber': 70, 'title': 'makeAgent in Custom Connection Class never gets called', 'state': 'closed', 'created_at': '2014-03-20T17:49:14Z', 'closed_at': '2014-03-20T17:52:27Z', 'labels': []}
+{'issuenumber': 69, 'title': 'Unable to revive connection: http://localhost:9200/', 'state': 'closed', 'created_at': '2014-03-19T07:56:22Z', 'closed_at': '2014-05-08T05:17:43Z', 'labels': []}
+{'issuenumber': 67, 'title': 'v1.5.13 download link is broken', 'state': 'closed', 'created_at': '2014-03-18T06:23:11Z', 'closed_at': '2014-03-19T19:23:37Z', 'labels': []}
+{'issuenumber': 66, 'title': "TypeError: Cannot read property '1' of null", 'state': 'closed', 'created_at': '2014-03-18T02:14:41Z', 'closed_at': '2014-03-18T19:47:42Z', 'labels': []}
+{'issuenumber': 63, 'title': 'Support rejectUnauthorized: true in HTTP for Self-Signed Certs', 'state': 'closed', 'created_at': '2014-03-14T17:15:21Z', 'closed_at': '2014-03-14T17:16:21Z', 'labels': []}
+{'issuenumber': 61, 'title': 'document routing', 'state': 'closed', 'created_at': '2014-03-11T06:18:59Z', 'closed_at': '2014-03-11T15:51:55Z', 'labels': []}
+{'issuenumber': 59, 'title': 'Provide TypeScript type definitions for ElasticSearch', 'state': 'closed', 'created_at': '2014-03-04T01:43:13Z', 'closed_at': '2019-03-28T08:40:46Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 57, 'title': 'How to update mapping', 'state': 'closed', 'created_at': '2014-02-28T05:32:39Z', 'closed_at': '2014-02-28T16:12:53Z', 'labels': []}
+{'issuenumber': 55, 'title': 'Documentation issue: broken link to API', 'state': 'closed', 'created_at': '2014-02-26T17:21:28Z', 'closed_at': '2014-04-02T20:46:54Z', 'labels': []}
+{'issuenumber': 54, 'title': 'Get EADDRNOTAVAIL after creating ~16.000 docs', 'state': 'closed', 'created_at': '2014-02-26T16:32:05Z', 'closed_at': '2014-03-14T18:10:33Z', 'labels': []}
+{'issuenumber': 49, 'title': 'Breaking in node 0.11.10', 'state': 'closed', 'created_at': '2014-02-16T06:27:12Z', 'closed_at': '2014-03-07T17:43:58Z', 'labels': []}
+{'issuenumber': 48, 'title': 'Issue with program not terminating, probably related to client.close', 'state': 'closed', 'created_at': '2014-02-15T01:37:38Z', 'closed_at': '2014-02-18T19:36:45Z', 'labels': []}
+{'issuenumber': 47, 'title': 'URL format for indices.getMapping with index and type is incorrect in 1.0 API', 'state': 'closed', 'created_at': '2014-02-15T00:14:22Z', 'closed_at': '2014-02-17T23:48:51Z', 'labels': []}
+{'issuenumber': 46, 'title': 'Connection Issues', 'state': 'closed', 'created_at': '2014-02-14T15:17:08Z', 'closed_at': '2014-03-07T17:44:10Z', 'labels': []}
+{'issuenumber': 44, 'title': 'Connection pool does not look for other hosts in the config when a connection goes down', 'state': 'closed', 'created_at': '2014-02-11T05:10:11Z', 'closed_at': '2014-02-16T05:36:01Z', 'labels': []}
+{'issuenumber': 43, 'title': 'buffer_ieee754 module not found', 'state': 'closed', 'created_at': '2014-02-08T23:30:22Z', 'closed_at': '2014-02-10T05:13:14Z', 'labels': []}
+{'issuenumber': 40, 'title': 'client.close() does not release elasticsearch connection until maxKeepAliveTime elapses', 'state': 'closed', 'created_at': '2014-02-06T00:58:38Z', 'closed_at': '2014-02-07T05:52:49Z', 'labels': []}
+{'issuenumber': 38, 'title': 'Rivers and elasticsearch-js', 'state': 'closed', 'created_at': '2014-01-29T23:37:33Z', 'closed_at': '2014-02-06T15:43:13Z', 'labels': []}
+{'issuenumber': 37, 'title': 'ping() function broken in 1.3.0 but works in 1.1.0', 'state': 'closed', 'created_at': '2014-01-29T18:34:58Z', 'closed_at': '2014-02-17T18:06:08Z', 'labels': []}
+{'issuenumber': 35, 'title': 'wrong hostname while tracing logs.', 'state': 'closed', 'created_at': '2014-01-28T01:22:32Z', 'closed_at': '2014-01-29T00:09:14Z', 'labels': []}
+{'issuenumber': 34, 'title': 'Push 1.2.0 and 1.3.0 tags and release latest build', 'state': 'closed', 'created_at': '2014-01-27T15:17:02Z', 'closed_at': '2014-02-04T06:12:35Z', 'labels': []}
+{'issuenumber': 33, 'title': 'Client modifies configuration object such that it cannot be used again', 'state': 'closed', 'created_at': '2014-01-24T16:33:49Z', 'closed_at': '2014-01-26T05:45:22Z', 'labels': []}
+{'issuenumber': 32, 'title': 'crash connection_pool', 'state': 'closed', 'created_at': '2014-01-23T23:34:34Z', 'closed_at': '2014-01-27T15:33:39Z', 'labels': []}
+{'issuenumber': 28, 'title': 'Allow Relative Path Urls', 'state': 'closed', 'created_at': '2014-01-16T02:33:50Z', 'closed_at': '2014-01-16T21:20:47Z', 'labels': []}
+{'issuenumber': 26, 'title': 'elasticsearch.angular.js uses require, but its not included as a dependency?', 'state': 'closed', 'created_at': '2014-01-14T21:47:54Z', 'closed_at': '2014-01-14T21:56:57Z', 'labels': []}
+{'issuenumber': 24, 'title': 'ES Angular not working consistently on AWS cluster -anybody tried that?', 'state': 'closed', 'created_at': '2014-01-12T20:37:27Z', 'closed_at': '2014-01-13T17:05:40Z', 'labels': []}
+{'issuenumber': 23, 'title': '404 errors being passed as ConnectionFault errors in browser api', 'state': 'closed', 'created_at': '2014-01-10T10:16:41Z', 'closed_at': '2014-01-14T18:08:22Z', 'labels': []}
+{'issuenumber': 22, 'title': "Search call fails with message: 'Unable to parse/serialize body'", 'state': 'closed', 'created_at': '2014-01-08T18:50:47Z', 'closed_at': '2014-01-09T22:35:34Z', 'labels': []}
+{'issuenumber': 21, 'title': 'Any plans for a javascript query dsl?', 'state': 'closed', 'created_at': '2014-01-06T17:08:13Z', 'closed_at': '2014-01-06T18:53:12Z', 'labels': []}
+{'issuenumber': 20, 'title': 'getSource() include and exclude params are ignored', 'state': 'closed', 'created_at': '2014-01-05T06:43:03Z', 'closed_at': '2014-01-06T22:10:40Z', 'labels': []}
+{'issuenumber': 19, 'title': 'Documentation enhancement: creation of a client with elasticsearch.angular.js', 'state': 'closed', 'created_at': '2014-01-01T18:18:13Z', 'closed_at': '2014-07-09T19:01:39Z', 'labels': []}
+{'issuenumber': 18, 'title': 'Running elastic.update with an non-string id fails with no error message', 'state': 'closed', 'created_at': '2013-12-30T07:33:51Z', 'closed_at': '2013-12-30T11:04:45Z', 'labels': []}
+{'issuenumber': 16, 'title': 'document connection pool.', 'state': 'closed', 'created_at': '2013-12-25T08:03:15Z', 'closed_at': '2018-08-27T16:35:04Z', 'labels': []}
+{'issuenumber': 15, 'title': 'Download links broken', 'state': 'closed', 'created_at': '2013-12-22T04:07:01Z', 'closed_at': '2013-12-22T05:10:00Z', 'labels': []}
+{'issuenumber': 14, 'title': 'elasticsearch-js.zip 1.0.3 not available', 'state': 'closed', 'created_at': '2013-12-21T17:44:53Z', 'closed_at': '2013-12-22T01:15:07Z', 'labels': []}
+{'issuenumber': 13, 'title': 'Document promise response format.', 'state': 'closed', 'created_at': '2013-12-21T02:18:44Z', 'closed_at': '2013-12-21T07:57:33Z', 'labels': []}
+{'issuenumber': 12, 'title': 'Publish old versions to npm', 'state': 'closed', 'created_at': '2013-12-20T20:17:45Z', 'closed_at': '2013-12-20T22:50:57Z', 'labels': []}
+{'issuenumber': 11, 'title': 'Sample JSON data described in bulk API section seems to have incorrect format', 'state': 'closed', 'created_at': '2013-12-20T14:40:48Z', 'closed_at': '2013-12-20T16:34:57Z', 'labels': []}
+{'issuenumber': 10, 'title': '[BUG]  jquery.es.Client enters recursive loop to self', 'state': 'closed', 'created_at': '2013-12-20T03:21:45Z', 'closed_at': '2013-12-20T04:06:27Z', 'labels': []}
+{'issuenumber': 9, 'title': 'API logging section seems to have an outdated bunyan example ', 'state': 'closed', 'created_at': '2013-12-19T11:39:48Z', 'closed_at': '2013-12-20T04:08:06Z', 'labels': []}
+{'issuenumber': 8, 'title': 'Add examples.', 'state': 'closed', 'created_at': '2013-12-19T10:11:25Z', 'closed_at': '2013-12-20T23:16:40Z', 'labels': []}
+{'issuenumber': 6, 'title': 'Bower support for Browser Builds', 'state': 'closed', 'created_at': '2013-12-18T15:32:08Z', 'closed_at': '2014-02-04T06:12:35Z', 'labels': []}
+{'issuenumber': 5, 'title': "AngularConnector has no method '$http'", 'state': 'closed', 'created_at': '2013-12-18T14:43:22Z', 'closed_at': '2013-12-18T15:21:50Z', 'labels': []}
+{'issuenumber': 4, 'title': 'Bower package support', 'state': 'closed', 'created_at': '2013-12-18T13:06:42Z', 'closed_at': '2013-12-18T15:44:34Z', 'labels': []}

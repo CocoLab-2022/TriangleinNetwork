@@ -195,7 +195,7 @@ def build_network(participants, repo):
         edge_count = edges.count(item)
         network_weightedge.append([item, edge_count])
     outputfilename = repo + "_network_weightedge"
-    outpufile = newoutputfile(outputfilename, "networkdata")
+    outpufile = newoutputfile(outputfilename, "_networkdata")
     with open(outpufile, 'a+', encoding='utf-8') as f:
         for item in network_weightedge:
             f.write("%s\n" % item)

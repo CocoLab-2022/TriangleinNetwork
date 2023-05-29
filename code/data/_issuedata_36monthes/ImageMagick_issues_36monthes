@@ -1,0 +1,1010 @@
+{'issuenumber': 1161, 'title': '7.0.7 Testsuite returns 2 fails - Ubuntu 18.04', 'state': 'closed', 'created_at': '2018-05-31T16:45:58Z', 'closed_at': '2018-07-08T14:59:40Z', 'labels': []}
+{'issuenumber': 1160, 'title': 'cannot ignore the warning', 'state': 'closed', 'created_at': '2018-05-31T07:15:16Z', 'closed_at': '2018-06-01T03:20:20Z', 'labels': []}
+{'issuenumber': 1159, 'title': 'How to compare two images using imageMagick,JAVA & selenium', 'state': 'closed', 'created_at': '2018-05-31T06:57:26Z', 'closed_at': '2018-07-08T15:02:32Z', 'labels': []}
+{'issuenumber': 1158, 'title': 'Error when installing: cannot compute sizeof (float_t)', 'state': 'closed', 'created_at': '2018-05-30T14:51:23Z', 'closed_at': '2018-05-31T00:17:17Z', 'labels': []}
+{'issuenumber': 1157, 'title': 'Clear composition method in ImageMagick 7', 'state': 'closed', 'created_at': '2018-05-30T08:17:03Z', 'closed_at': '2018-07-08T16:04:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1156, 'title': 'heap-buffer-overflow in MagickCore', 'state': 'closed', 'created_at': '2018-05-30T07:36:02Z', 'closed_at': '2018-07-08T16:06:23Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1155, 'title': 'Missing tags for 6.x', 'state': 'closed', 'created_at': '2018-05-30T07:02:27Z', 'closed_at': '2018-05-30T07:04:59Z', 'labels': []}
+{'issuenumber': 1154, 'title': 'New segfault in 6.9.9-47', 'state': 'closed', 'created_at': '2018-05-30T06:43:41Z', 'closed_at': '2018-05-30T07:07:37Z', 'labels': []}
+{'issuenumber': 1153, 'title': 'heap-buffer-overflow in ReadPNGImage', 'state': 'closed', 'created_at': '2018-05-30T05:51:07Z', 'closed_at': '2018-07-08T16:18:06Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 1151, 'title': 'boundary values of -gamma in ImageMagick 7', 'state': 'closed', 'created_at': '2018-05-29T09:06:41Z', 'closed_at': '2018-06-01T08:34:58Z', 'labels': []}
+{'issuenumber': 1150, 'title': 'Please bump version when soname change', 'state': 'closed', 'created_at': '2018-05-29T08:41:14Z', 'closed_at': '2018-07-08T16:19:07Z', 'labels': []}
+{'issuenumber': 1149, 'title': 'heap-use-after-free', 'state': 'closed', 'created_at': '2018-05-29T08:23:54Z', 'closed_at': '2018-06-01T02:23:29Z', 'labels': []}
+{'issuenumber': 1148, 'title': '[7.0.7-35] test suite fails on 32-bit', 'state': 'closed', 'created_at': '2018-05-29T07:38:18Z', 'closed_at': '2018-06-25T13:09:27Z', 'labels': []}
+{'issuenumber': 1147, 'title': '[7.0.7-35] test suite fails with libpng 1.6.31', 'state': 'closed', 'created_at': '2018-05-29T07:28:28Z', 'closed_at': '2018-06-13T13:49:45Z', 'labels': []}
+{'issuenumber': 1146, 'title': 'confused if condition', 'state': 'closed', 'created_at': '2018-05-29T07:09:36Z', 'closed_at': '2018-05-31T07:00:40Z', 'labels': []}
+{'issuenumber': 1145, 'title': 'OpenEXR: Build host has missing dependacy', 'state': 'closed', 'created_at': '2018-05-28T13:46:20Z', 'closed_at': '2018-06-01T12:56:38Z', 'labels': []}
+{'issuenumber': 1144, 'title': 'Feature request: customization of TIFF compression predictor setting', 'state': 'closed', 'created_at': '2018-05-27T20:42:47Z', 'closed_at': '2018-05-30T01:17:54Z', 'labels': []}
+{'issuenumber': 1141, 'title': 'Unable to create thumbnail  on Heroku. ', 'state': 'closed', 'created_at': '2018-05-24T06:38:30Z', 'closed_at': '2018-07-08T16:24:18Z', 'labels': []}
+{'issuenumber': 1140, 'title': 'heic unsupported codec', 'state': 'closed', 'created_at': '2018-05-23T12:28:08Z', 'closed_at': '2018-05-26T10:45:14Z', 'labels': {'name': 'upstream'}}
+{'issuenumber': 1139, 'title': 'Redundant MngInfoFreeStruct()', 'state': 'closed', 'created_at': '2018-05-23T11:05:47Z', 'closed_at': '2018-05-26T10:11:49Z', 'labels': []}
+{'issuenumber': 1138, 'title': 'convert format', 'state': 'closed', 'created_at': '2018-05-22T12:34:32Z', 'closed_at': '2018-07-08T16:24:32Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1136, 'title': 'compilation error in make file', 'state': 'closed', 'created_at': '2018-05-21T12:10:57Z', 'closed_at': '2018-05-21T13:17:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1135, 'title': 'heic support ', 'state': 'closed', 'created_at': '2018-05-21T07:35:22Z', 'closed_at': '2018-05-21T14:39:45Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1134, 'title': 'convert/ mogrify aborts (SIGABRT or segfault) when resizing an image.', 'state': 'closed', 'created_at': '2018-05-19T15:06:03Z', 'closed_at': '2018-06-13T07:38:06Z', 'labels': []}
+{'issuenumber': 1133, 'title': 'convert fails to allocate memory when opening a gimp 2.10 xcf image', 'state': 'closed', 'created_at': '2018-05-18T00:14:53Z', 'closed_at': '2018-11-13T16:44:04Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1132, 'title': 'question on -level behaviour', 'state': 'closed', 'created_at': '2018-05-16T14:51:49Z', 'closed_at': '2018-05-21T08:42:40Z', 'labels': []}
+{'issuenumber': 1131, 'title': "magick++ image.read() method doesn't support multi-thread safe heic decode", 'state': 'closed', 'created_at': '2018-05-16T08:50:00Z', 'closed_at': '2018-08-12T19:42:35Z', 'labels': {'name': 'upstream'}}
+{'issuenumber': 1128, 'title': 'Resizing image increase image size', 'state': 'closed', 'created_at': '2018-05-09T15:26:59Z', 'closed_at': '2018-07-08T16:34:36Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1127, 'title': 'tiff decoder does not check nominal dimensions', 'state': 'closed', 'created_at': '2018-05-09T12:43:33Z', 'closed_at': '2018-05-11T08:02:33Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1126, 'title': 'Drawing API completely broken IM6', 'state': 'closed', 'created_at': '2018-05-09T09:56:25Z', 'closed_at': '2018-07-08T16:34:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1125, 'title': "non-conforming drawing primitive definition `rectangle' @ error/draw.c/DrawImage/4073", 'state': 'closed', 'created_at': '2018-05-09T08:52:54Z', 'closed_at': '2018-05-12T18:12:13Z', 'labels': []}
+{'issuenumber': 1124, 'title': 'Stop removing old release and tag', 'state': 'closed', 'created_at': '2018-05-08T12:06:43Z', 'closed_at': '2018-05-08T12:31:59Z', 'labels': []}
+{'issuenumber': 1123, 'title': 'OpenMP crash ', 'state': 'closed', 'created_at': '2018-05-07T03:58:02Z', 'closed_at': '2018-07-08T16:35:03Z', 'labels': []}
+{'issuenumber': 1122, 'title': 'convert(1) exit code not properly documented', 'state': 'closed', 'created_at': '2018-05-04T18:00:02Z', 'closed_at': '2018-05-26T13:52:01Z', 'labels': []}
+{'issuenumber': 1121, 'title': 'in Magick++ Magick::TypeMetric lacks some accessors to attributes of MagickCore TypeMetric', 'state': 'closed', 'created_at': '2018-05-04T15:35:37Z', 'closed_at': '2018-05-04T22:50:36Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1120, 'title': '7.0.7-29: t/filter.t fails', 'state': 'closed', 'created_at': '2018-05-02T11:30:42Z', 'closed_at': '2018-05-02T12:31:49Z', 'labels': []}
+{'issuenumber': 1119, 'title': 'WriteBlob assertion failed', 'state': 'closed', 'created_at': '2018-05-01T22:12:58Z', 'closed_at': '2018-05-03T16:41:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1118, 'title': 'formatIPTCfromBuffer memory leak', 'state': 'closed', 'created_at': '2018-05-01T22:09:49Z', 'closed_at': '2018-05-03T16:41:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1117, 'title': 'FcPatternDestroy / FcPatternEqualSubset memory leak', 'state': 'closed', 'created_at': '2018-05-01T22:06:32Z', 'closed_at': '2018-07-08T16:35:34Z', 'labels': {'name': 'upstream'}}
+{'issuenumber': 1116, 'title': 'Segmentation fault on Termux', 'state': 'closed', 'created_at': '2018-04-30T15:59:52Z', 'closed_at': '2018-07-08T16:35:50Z', 'labels': []}
+{'issuenumber': 1113, 'title': 'Imagemagick breaks image when downsizing colorspace', 'state': 'closed', 'created_at': '2018-04-26T23:17:05Z', 'closed_at': '2018-07-08T16:37:43Z', 'labels': []}
+{'issuenumber': 1112, 'title': 'JSON output of "magick" can contain "nan" values which is not valid JSON', 'state': 'closed', 'created_at': '2018-04-26T16:19:32Z', 'closed_at': '2018-07-08T16:36:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1111, 'title': 'Unable to convert animate gif to animate webp', 'state': 'closed', 'created_at': '2018-04-25T12:04:06Z', 'closed_at': '2020-12-28T16:49:45Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1110, 'title': "-layers composite doesn't respect compose:outside-overlay", 'state': 'closed', 'created_at': '2018-04-24T19:32:06Z', 'closed_at': '2018-07-08T16:37:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1109, 'title': 'Undesired color inversion after manipulating an image', 'state': 'closed', 'created_at': '2018-04-23T23:03:01Z', 'closed_at': '2018-04-24T21:25:49Z', 'labels': []}
+{'issuenumber': 1108, 'title': 'Incorrect colors after manipulating an image', 'state': 'closed', 'created_at': '2018-04-23T20:35:15Z', 'closed_at': '2018-07-08T16:37:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1105, 'title': 'only base_offset_size=0 and index_size=0 are supported', 'state': 'closed', 'created_at': '2018-04-23T11:46:24Z', 'closed_at': '2018-04-23T12:24:56Z', 'labels': []}
+{'issuenumber': 1104, 'title': '-sparse-color in version 7 works differently compared to version 6 of ImageMagick', 'state': 'closed', 'created_at': '2018-04-23T08:04:29Z', 'closed_at': '2018-05-07T05:37:38Z', 'labels': []}
+{'issuenumber': 1101, 'title': 'Request to restore "6.9.9-34" tag', 'state': 'closed', 'created_at': '2018-04-21T02:24:31Z', 'closed_at': '2018-04-21T08:45:37Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1100, 'title': 'Error "improper image header" on .xcf file with a layer larger than canvas', 'state': 'closed', 'created_at': '2018-04-20T00:19:42Z', 'closed_at': '2018-04-20T11:17:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1098, 'title': 'memory allocate failure in AcquireQuantumMemory', 'state': 'closed', 'created_at': '2018-04-17T08:04:55Z', 'closed_at': '2018-04-19T23:25:27Z', 'labels': []}
+{'issuenumber': 1097, 'title': 'ReadPNMImage memory leak', 'state': 'closed', 'created_at': '2018-04-17T04:57:51Z', 'closed_at': '2018-04-19T23:25:39Z', 'labels': []}
+{'issuenumber': 1096, 'title': 'ReadPCXImage memory leak', 'state': 'closed', 'created_at': '2018-04-17T04:56:29Z', 'closed_at': '2018-04-19T23:25:49Z', 'labels': []}
+{'issuenumber': 1095, 'title': 'Infinite loop in ReadOneMNGImage (src/coders/png.c)', 'state': 'closed', 'created_at': '2018-04-16T22:11:54Z', 'closed_at': '2018-04-17T19:30:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1093, 'title': 'assertion failure in ReplaceImageInList (cont.)', 'state': 'closed', 'created_at': '2018-04-13T14:38:19Z', 'closed_at': '2018-04-13T23:51:56Z', 'labels': []}
+{'issuenumber': 1092, 'title': 'Incompatible type for "RichTIFFIPTC"; tag ignored. `TIFFFetchNormalTag\' @ warning/tiff.c/TIFFWarnings/912', 'state': 'closed', 'created_at': '2018-04-12T12:03:53Z', 'closed_at': '2018-07-08T16:38:17Z', 'labels': []}
+{'issuenumber': 1091, 'title': 'TIF image to JPG conversion error', 'state': 'closed', 'created_at': '2018-04-11T21:54:27Z', 'closed_at': '2018-04-12T23:04:43Z', 'labels': []}
+{'issuenumber': 1090, 'title': 'null pointer dereference in CompileOpenCLKernels', 'state': 'closed', 'created_at': '2018-04-11T07:26:57Z', 'closed_at': '2018-04-14T00:02:51Z', 'labels': []}
+{'issuenumber': 1089, 'title': 'svg.c: missing EOF checking', 'state': 'closed', 'created_at': '2018-04-10T16:41:12Z', 'closed_at': '2018-07-08T16:38:45Z', 'labels': []}
+{'issuenumber': 1088, 'title': 'Latest pull no longer compiles on cygwin', 'state': 'closed', 'created_at': '2018-04-09T18:44:10Z', 'closed_at': '2018-04-14T00:03:08Z', 'labels': []}
+{'issuenumber': 1085, 'title': 'Memory leak in ReadJP2Image.', 'state': 'closed', 'created_at': '2018-04-05T03:34:09Z', 'closed_at': '2018-04-05T18:24:06Z', 'labels': []}
+{'issuenumber': 1084, 'title': 'Compiling standalone static ImageMagick 7.0.7 on macOS High Sierra still results in dynamic libraries.', 'state': 'closed', 'created_at': '2018-04-04T01:06:34Z', 'closed_at': '2018-04-14T00:04:11Z', 'labels': []}
+{'issuenumber': 1083, 'title': '"Magick" tool cannot be used with the ImageMagickObject COM+ component', 'state': 'closed', 'created_at': '2018-04-02T19:10:27Z', 'closed_at': '2018-04-14T00:04:40Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1082, 'title': 'Color of image getting changed while converting svg to png', 'state': 'closed', 'created_at': '2018-04-02T14:47:05Z', 'closed_at': '2018-04-02T16:27:38Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 1080, 'title': '"man 1 ImageMagick.1" mentions non-existent quantize(5) and miff(4) manual pages', 'state': 'closed', 'created_at': '2018-04-01T23:09:16Z', 'closed_at': '2018-04-14T00:04:25Z', 'labels': []}
+{'issuenumber': 1074, 'title': 'Resize makes the computer crash', 'state': 'closed', 'created_at': '2018-03-31T02:06:02Z', 'closed_at': '2018-03-31T23:05:23Z', 'labels': []}
+{'issuenumber': 1073, 'title': 'OpenMP support configured but not available on macOS with LibOMP', 'state': 'closed', 'created_at': '2018-03-30T15:15:33Z', 'closed_at': '2018-11-27T22:33:17Z', 'labels': []}
+{'issuenumber': 1072, 'title': 'Excessive iteration in DecodeLabImage and EncodeLabImage (src/coders/tiff.c)', 'state': 'closed', 'created_at': '2018-03-29T21:02:01Z', 'closed_at': '2018-03-29T21:17:04Z', 'labels': []}
+{'issuenumber': 1071, 'title': 'Convert PDF to TIFF compress Group 4 causes TIFF result with Black Background', 'state': 'closed', 'created_at': '2018-03-29T20:15:33Z', 'closed_at': '2018-03-29T20:54:44Z', 'labels': []}
+{'issuenumber': 1070, 'title': '"Catastrophic failure" when using the ".Composite" tool of the ImageMagickObject COM+ component with latest IM 6.9.9.40 DLL', 'state': 'closed', 'created_at': '2018-03-29T18:54:18Z', 'closed_at': '2018-11-27T22:21:47Z', 'labels': []}
+{'issuenumber': 1069, 'title': 'Drawing roundrectangle at the right side of an image fails; too many bezier coordinates', 'state': 'closed', 'created_at': '2018-03-29T11:47:29Z', 'closed_at': '2018-04-14T00:04:59Z', 'labels': []}
+{'issuenumber': 1068, 'title': 'MAGICK_MAP_LIMIT MAGICK_MEMORY_LIMIT ignored by mogrify', 'state': 'closed', 'created_at': '2018-03-28T15:55:55Z', 'closed_at': '2018-04-14T00:05:54Z', 'labels': []}
+{'issuenumber': 1067, 'title': 'Several more "Long Form Attribute Percent Escapes" do not work.', 'state': 'closed', 'created_at': '2018-03-28T10:01:50Z', 'closed_at': '2018-04-14T00:05:18Z', 'labels': []}
+{'issuenumber': 1066, 'title': "Single letter percent escape '%Z' does not work", 'state': 'closed', 'created_at': '2018-03-28T09:26:48Z', 'closed_at': '2018-04-14T00:05:28Z', 'labels': []}
+{'issuenumber': 1065, 'title': 'ConvertRGBToHSL creates black output sometimes if red, green, or blue is > 1.0', 'state': 'closed', 'created_at': '2018-03-27T20:11:35Z', 'closed_at': '2018-04-30T19:13:17Z', 'labels': []}
+{'issuenumber': 1064, 'title': "Long form percent escape '%[compression]' does not work", 'state': 'closed', 'created_at': '2018-03-27T17:49:14Z', 'closed_at': '2018-07-08T21:54:22Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1063, 'title': "Producing PDF output inserts weird 'Producer' metadata ", 'state': 'closed', 'created_at': '2018-03-27T12:52:12Z', 'closed_at': '2018-04-14T00:05:39Z', 'labels': []}
+{'issuenumber': 1061, 'title': 'Extracting layers with negative canvas offsets from PSD translates offsets to large positive values', 'state': 'closed', 'created_at': '2018-03-26T09:12:17Z', 'closed_at': '2018-07-08T21:41:42Z', 'labels': []}
+{'issuenumber': 1060, 'title': 'Converting PSD => PSD doesn\'t preserve layer property "compose"', 'state': 'closed', 'created_at': '2018-03-26T08:46:57Z', 'closed_at': '2018-03-26T20:53:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1059, 'title': 'montage.t fails completely for i586', 'state': 'closed', 'created_at': '2018-03-26T08:45:01Z', 'closed_at': '2018-07-08T21:41:58Z', 'labels': []}
+{'issuenumber': 1058, 'title': 'testsuite fails', 'state': 'closed', 'created_at': '2018-03-26T08:09:45Z', 'closed_at': '2018-07-08T21:42:12Z', 'labels': []}
+{'issuenumber': 1055, 'title': 'Problem installing from source with lzma support', 'state': 'closed', 'created_at': '2018-03-25T06:46:42Z', 'closed_at': '2018-03-26T04:08:25Z', 'labels': []}
+{'issuenumber': 1054, 'title': 'Memory leak in ReadYCBCRImage', 'state': 'closed', 'created_at': '2018-03-24T16:33:23Z', 'closed_at': '2018-03-24T17:00:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1053, 'title': 'Memory leak in WriteTIFFImage ', 'state': 'closed', 'created_at': '2018-03-24T16:33:01Z', 'closed_at': '2018-03-24T17:00:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1052, 'title': 'Memory leak in WriteSGIImage ', 'state': 'closed', 'created_at': '2018-03-24T16:32:42Z', 'closed_at': '2018-03-24T17:01:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1051, 'title': 'Memory leak in ReadRGBImage ', 'state': 'closed', 'created_at': '2018-03-24T16:32:17Z', 'closed_at': '2018-03-24T16:59:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1050, 'title': 'Memory leak in WritePDBImage ', 'state': 'closed', 'created_at': '2018-03-24T16:31:46Z', 'closed_at': '2018-03-24T17:01:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1049, 'title': 'Memory leak in WritePCXImage ', 'state': 'closed', 'created_at': '2018-03-24T16:31:24Z', 'closed_at': '2018-03-24T17:01:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1048, 'title': 'Memory leak in WriteMIFFImage ', 'state': 'closed', 'created_at': '2018-03-24T16:31:01Z', 'closed_at': '2018-03-24T17:02:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1047, 'title': 'Memory leak in ReadMATImage ', 'state': 'closed', 'created_at': '2018-03-24T16:30:35Z', 'closed_at': '2018-03-24T17:02:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1046, 'title': 'Memory leak in ReadGRAYImage ', 'state': 'closed', 'created_at': '2018-03-24T16:30:10Z', 'closed_at': '2018-03-24T16:59:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1045, 'title': 'Memory leak in WriteFITSImage ', 'state': 'closed', 'created_at': '2018-03-24T16:29:48Z', 'closed_at': '2018-03-24T17:02:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1044, 'title': 'Memory leak in ReadCMYKImage ', 'state': 'closed', 'created_at': '2018-03-24T16:29:06Z', 'closed_at': '2018-03-24T16:59:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1043, 'title': 'Memory leak in ReadBGRImage ', 'state': 'closed', 'created_at': '2018-03-24T16:28:44Z', 'closed_at': '2018-03-24T16:58:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1042, 'title': 'Memory leak in ReadARTImage ', 'state': 'closed', 'created_at': '2018-03-24T16:27:43Z', 'closed_at': '2018-03-24T17:02:10Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1041, 'title': 'memory leak in ReadBGRImage', 'state': 'closed', 'created_at': '2018-03-24T12:15:50Z', 'closed_at': '2018-03-24T16:53:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1040, 'title': 'memory leak in ReadBGRImage', 'state': 'closed', 'created_at': '2018-03-24T12:14:50Z', 'closed_at': '2018-03-24T16:55:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1039, 'title': 'memory leak in WriteARTImage', 'state': 'closed', 'created_at': '2018-03-24T12:13:50Z', 'closed_at': '2018-03-24T17:00:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1038, 'title': 'null pointer dereference in ParseIpcoAtom', 'state': 'closed', 'created_at': '2018-03-24T12:12:14Z', 'closed_at': '2018-03-24T16:59:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1037, 'title': 'null pointer dereference in RecordProfileData', 'state': 'closed', 'created_at': '2018-03-24T12:10:57Z', 'closed_at': '2018-03-24T16:57:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1036, 'title': 'null pointer dereference in ProcessMSLScript', 'state': 'closed', 'created_at': '2018-03-24T12:08:12Z', 'closed_at': '2018-03-24T16:57:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1035, 'title': 'Convert command error if target image parent directory ends with dot', 'state': 'closed', 'created_at': '2018-03-22T15:06:11Z', 'closed_at': '2018-07-08T21:42:25Z', 'labels': []}
+{'issuenumber': 1034, 'title': 'FTBFS: i386 (maybe due to coprocessor and double extension)', 'state': 'closed', 'created_at': '2018-03-22T14:03:38Z', 'closed_at': '2018-11-28T11:35:21Z', 'labels': []}
+{'issuenumber': 1032, 'title': '#1025 not completely fixed', 'state': 'closed', 'created_at': '2018-03-21T11:09:16Z', 'closed_at': '2018-03-24T16:55:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1031, 'title': '[patch] FTBFS s390', 'state': 'closed', 'created_at': '2018-03-20T12:01:53Z', 'closed_at': '2018-03-22T20:30:21Z', 'labels': []}
+{'issuenumber': 1030, 'title': 'ImageMagick SVG Memory Leak Vulnerability', 'state': 'closed', 'created_at': '2018-03-19T20:38:10Z', 'closed_at': '2018-03-25T18:02:23Z', 'labels': []}
+{'issuenumber': 1029, 'title': '"improper image header" for XBM tests in tests/validate-formats-disk', 'state': 'closed', 'created_at': '2018-03-19T12:35:35Z', 'closed_at': '2018-07-08T21:54:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1028, 'title': 'convert -v', 'state': 'closed', 'created_at': '2018-03-16T11:59:43Z', 'closed_at': '2018-03-16T12:01:23Z', 'labels': []}
+{'issuenumber': 1027, 'title': '"Too many open files @ error/cache.c/ReadPixelCachePixels/4436" when converting large PDF to images', 'state': 'closed', 'created_at': '2018-03-15T15:18:25Z', 'closed_at': '2018-03-17T17:23:15Z', 'labels': []}
+{'issuenumber': 1026, 'title': 'HEIC delegate configured but not showing', 'state': 'closed', 'created_at': '2018-03-15T13:12:24Z', 'closed_at': '2018-03-16T10:16:38Z', 'labels': []}
+{'issuenumber': 1025, 'title': 'double-free', 'state': 'closed', 'created_at': '2018-03-15T05:43:27Z', 'closed_at': '2018-03-17T00:20:33Z', 'labels': []}
+{'issuenumber': 1024, 'title': 'ImageMagick6: opencl.c: NULL pointer dereference not fixed completely', 'state': 'closed', 'created_at': '2018-03-14T14:34:22Z', 'closed_at': '2018-03-16T09:53:44Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1023, 'title': 'same code works on `ImageMagick 6.9.9-34`, but exception on `ImageMagick 6.9.9-37`', 'state': 'closed', 'created_at': '2018-03-13T14:56:17Z', 'closed_at': '2018-07-08T21:43:01Z', 'labels': []}
+{'issuenumber': 1022, 'title': 'when i use command line to gen psd file, but i cant control a position of per image', 'state': 'closed', 'created_at': '2018-03-13T14:54:03Z', 'closed_at': '2018-11-27T22:19:20Z', 'labels': []}
+{'issuenumber': 1021, 'title': 'Since upgrading from 6.9.9.34 to 6.9.9.36 a bug regarding drawing with opacity has been introduced', 'state': 'closed', 'created_at': '2018-03-13T09:20:08Z', 'closed_at': '2018-04-14T00:08:47Z', 'labels': []}
+{'issuenumber': 1020, 'title': 'heap-buffer-overflow in 7.0.7-26', 'state': 'closed', 'created_at': '2018-03-13T08:25:23Z', 'closed_at': '2018-03-17T01:08:45Z', 'labels': []}
+{'issuenumber': 1019, 'title': '[7.0.7-26] FAIL: Magick++/tests/tests.tap 2 on 32-bit', 'state': 'closed', 'created_at': '2018-03-12T15:48:46Z', 'closed_at': '2018-11-27T22:18:53Z', 'labels': []}
+{'issuenumber': 1018, 'title': 'IM 7.0.7-26: perlmagick fails to build with quantum depth 32', 'state': 'closed', 'created_at': '2018-03-12T15:29:52Z', 'closed_at': '2018-03-17T14:40:57Z', 'labels': []}
+{'issuenumber': 1017, 'title': 'Mis-spelling on front page.', 'state': 'closed', 'created_at': '2018-03-11T14:51:46Z', 'closed_at': '2018-03-11T15:32:45Z', 'labels': []}
+{'issuenumber': 1016, 'title': 'Errors in heic.c/ParseIpmaAtom when reading conformance files', 'state': 'closed', 'created_at': '2018-03-08T12:56:16Z', 'closed_at': '2018-07-08T16:39:34Z', 'labels': []}
+{'issuenumber': 1015, 'title': "identify: insufficient image data in file `./image.pcx' @ error/pcx.c/ReadPCXImage/405.", 'state': 'closed', 'created_at': '2018-03-07T05:19:51Z', 'closed_at': '2018-04-14T00:09:06Z', 'labels': []}
+{'issuenumber': 1014, 'title': 'floodfill broken in both IM6 and IM7', 'state': 'closed', 'created_at': '2018-03-06T15:53:35Z', 'closed_at': '2018-03-18T18:42:22Z', 'labels': []}
+{'issuenumber': 1013, 'title': 'memory leak in ReadJNGImage() (png.c)', 'state': 'closed', 'created_at': '2018-03-06T13:37:35Z', 'closed_at': '2018-03-06T13:47:50Z', 'labels': []}
+{'issuenumber': 1012, 'title': 'compare always return 1 for two identical images', 'state': 'closed', 'created_at': '2018-03-06T09:32:57Z', 'closed_at': '2018-03-12T05:32:10Z', 'labels': []}
+{'issuenumber': 1011, 'title': 'Use x265 or openHEVC to replace libde265', 'state': 'closed', 'created_at': '2018-03-06T01:28:52Z', 'closed_at': '2018-07-08T16:39:50Z', 'labels': []}
+{'issuenumber': 1010, 'title': 'Unable to add png, gif and tif delegate to the convert binary', 'state': 'closed', 'created_at': '2018-03-05T12:15:53Z', 'closed_at': '2018-11-27T22:18:06Z', 'labels': []}
+{'issuenumber': 1009, 'title': 'heap-buffer-overflow ', 'state': 'closed', 'created_at': '2018-03-02T06:16:43Z', 'closed_at': '2018-04-17T23:39:53Z', 'labels': []}
+{'issuenumber': 1008, 'title': '+447938 660430', 'state': 'closed', 'created_at': '2018-03-01T23:33:06Z', 'closed_at': '2018-03-02T06:13:00Z', 'labels': []}
+{'issuenumber': 1007, 'title': 'Conversion 12x slower on 7.0 and 6.9 compared to 6.8', 'state': 'closed', 'created_at': '2018-03-01T22:53:58Z', 'closed_at': '2018-07-08T16:40:07Z', 'labels': []}
+{'issuenumber': 1006, 'title': 'Regression in 336bb3 when reading from fd0 pseudonym', 'state': 'closed', 'created_at': '2018-02-28T22:28:54Z', 'closed_at': '2018-03-17T17:47:00Z', 'labels': []}
+{'issuenumber': 1005, 'title': 'Assertion fails in CopyMagickCLCacheInfo', 'state': 'closed', 'created_at': '2018-02-27T20:50:56Z', 'closed_at': '2018-07-08T16:40:19Z', 'labels': []}
+{'issuenumber': 1004, 'title': 'Round grey circles on screen', 'state': 'closed', 'created_at': '2018-02-26T07:29:52Z', 'closed_at': '2018-07-08T21:44:13Z', 'labels': []}
+{'issuenumber': 1003, 'title': 'Weird blue artifact on -evaluate-sequence median', 'state': 'closed', 'created_at': '2018-02-25T17:05:33Z', 'closed_at': '2018-07-08T21:44:23Z', 'labels': []}
+{'issuenumber': 1001, 'title': 'SEGV  in putCMYKseparate8bittile from tif_getimage.c:1628 ', 'state': 'closed', 'created_at': '2018-02-24T03:15:27Z', 'closed_at': '2018-02-24T12:47:28Z', 'labels': {'name': 'upstream'}}
+{'issuenumber': 1000, 'title': 'Heap out of bounds read in ReadTIFFImage()', 'state': 'closed', 'created_at': '2018-02-23T10:58:25Z', 'closed_at': '2018-04-14T00:09:20Z', 'labels': []}
+{'issuenumber': 999, 'title': 'Dos: (failed to allocate)', 'state': 'closed', 'created_at': '2018-02-23T07:40:53Z', 'closed_at': '2018-02-24T12:48:26Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 998, 'title': 'Wrong pointer access', 'state': 'closed', 'created_at': '2018-02-23T05:36:01Z', 'closed_at': '2018-02-24T12:47:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 997, 'title': 'encode to HEIF', 'state': 'closed', 'created_at': '2018-02-22T15:16:20Z', 'closed_at': '2018-05-26T12:10:58Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 996, 'title': 'Drawing broken in IM6', 'state': 'closed', 'created_at': '2018-02-20T21:45:53Z', 'closed_at': '2018-02-21T13:54:37Z', 'labels': []}
+{'issuenumber': 995, 'title': 'Regression: delegates gone in 7.0.7-23', 'state': 'closed', 'created_at': '2018-02-20T10:10:06Z', 'closed_at': '2018-02-24T19:37:22Z', 'labels': []}
+{'issuenumber': 994, 'title': 'PICT test of write.t does not pass', 'state': 'closed', 'created_at': '2018-02-20T09:28:33Z', 'closed_at': '2018-02-23T08:43:17Z', 'labels': []}
+{'issuenumber': 992, 'title': 'montage.t fails completely (19/19)', 'state': 'closed', 'created_at': '2018-02-19T17:00:48Z', 'closed_at': '2018-02-20T09:10:24Z', 'labels': []}
+{'issuenumber': 991, 'title': '6.9.9-35 breaks C++ api when compiled "--without-modules"', 'state': 'closed', 'created_at': '2018-02-19T13:08:02Z', 'closed_at': '2018-02-24T19:37:36Z', 'labels': []}
+{'issuenumber': 985, 'title': 'MagickAffineTransformImage is broken', 'state': 'closed', 'created_at': '2018-02-15T06:05:23Z', 'closed_at': '2018-02-21T03:24:10Z', 'labels': []}
+{'issuenumber': 982, 'title': 'Irregular channel geometry not supported for JP2 file', 'state': 'closed', 'created_at': '2018-02-12T23:54:15Z', 'closed_at': '2018-02-24T19:38:47Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 979, 'title': 'Bad JSON near `originGeometry` key', 'state': 'closed', 'created_at': '2018-02-09T19:30:22Z', 'closed_at': '2018-02-09T19:54:11Z', 'labels': []}
+{'issuenumber': 978, 'title': 'dcm.c: stream_info->offsets check for NULL', 'state': 'closed', 'created_at': '2018-02-09T08:03:42Z', 'closed_at': '2018-02-09T08:13:01Z', 'labels': {'name': 'question'}}
+{'issuenumber': 977, 'title': 'SanitizeString() method added separator chars back ending in code execution', 'state': 'closed', 'created_at': '2018-02-08T12:41:38Z', 'closed_at': '2018-02-22T14:45:40Z', 'labels': []}
+{'issuenumber': 976, 'title': ' fail @ tests/validate.c/ValidateImageFormatsInMemory/1653.', 'state': 'closed', 'created_at': '2018-02-08T08:38:59Z', 'closed_at': '2018-07-08T21:44:39Z', 'labels': []}
+{'issuenumber': 975, 'title': 'DoS:(Loop malloc huge memory consumption)@error: failed to allocate 0x3b93e000 (999546880) bytes of LargeMmapAllocator', 'state': 'closed', 'created_at': '2018-02-08T05:27:22Z', 'closed_at': '2018-02-08T17:19:57Z', 'labels': {'name': 'upstream'}}
+{'issuenumber': 974, 'title': "identify: non-conforming drawing primitive definition `path' @ error/draw.c/DrawImage/3284.", 'state': 'closed', 'created_at': '2018-02-07T21:35:27Z', 'closed_at': '2018-07-08T16:41:52Z', 'labels': []}
+{'issuenumber': 973, 'title': 'stack-buffer-underflow', 'state': 'closed', 'created_at': '2018-02-07T08:38:19Z', 'closed_at': '2018-02-24T19:41:20Z', 'labels': []}
+{'issuenumber': 972, 'title': 'MagickCore/cache.c goes to long loop and disk bloat.', 'state': 'closed', 'created_at': '2018-02-07T07:05:08Z', 'closed_at': '2018-02-13T04:35:20Z', 'labels': []}
+{'issuenumber': 971, 'title': 'Dos: memory-private.h!AcquireExceptionInfo function  Infinitely repeated execution ', 'state': 'closed', 'created_at': '2018-02-01T06:42:02Z', 'closed_at': '2018-02-08T08:21:03Z', 'labels': []}
+{'issuenumber': 970, 'title': 'PICT file unreadable despite being seemingly valid', 'state': 'closed', 'created_at': '2018-01-31T22:35:29Z', 'closed_at': '2018-07-08T21:44:54Z', 'labels': []}
+{'issuenumber': 968, 'title': 'coders/sixel.c goes to infinite loop.', 'state': 'closed', 'created_at': '2018-01-31T07:53:35Z', 'closed_at': '2018-02-13T04:35:35Z', 'labels': []}
+{'issuenumber': 967, 'title': 'Stack over-read in MagickCore/accelerate.c due to type mismatch', 'state': 'closed', 'created_at': '2018-01-31T05:55:36Z', 'closed_at': '2018-02-13T20:08:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 966, 'title': 'newlines in file names break montage html image map index_map.shtml', 'state': 'closed', 'created_at': '2018-01-30T23:47:50Z', 'closed_at': '2018-07-08T16:42:30Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 964, 'title': 'coders/dcm.c Memory Leak', 'state': 'closed', 'created_at': '2018-01-30T04:23:18Z', 'closed_at': '2018-01-30T06:19:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 962, 'title': "Figure out why some encoders/decoders aren't making progress in OSS-Fuzz", 'state': 'closed', 'created_at': '2018-01-27T01:11:21Z', 'closed_at': '2018-11-27T22:17:51Z', 'labels': []}
+{'issuenumber': 961, 'title': 'Convert svg to png memory corruption', 'state': 'closed', 'created_at': '2018-01-26T14:02:41Z', 'closed_at': '2018-07-06T09:31:04Z', 'labels': []}
+{'issuenumber': 960, 'title': 'SEGV in IsBlobSeekable from MagickCore/blob.c +2724', 'state': 'closed', 'created_at': '2018-01-24T14:41:59Z', 'closed_at': '2018-02-08T17:16:07Z', 'labels': []}
+{'issuenumber': 958, 'title': "segfault on netcup's logo", 'state': 'closed', 'created_at': '2018-01-24T08:08:03Z', 'closed_at': '2018-07-08T21:45:07Z', 'labels': []}
+{'issuenumber': 957, 'title': 'null pointer reference ', 'state': 'closed', 'created_at': '2018-01-24T02:18:41Z', 'closed_at': '2018-07-08T21:45:37Z', 'labels': []}
+{'issuenumber': 956, 'title': 'heap-buffer-overflow in SetGrayscaleImage', 'state': 'closed', 'created_at': '2018-01-24T02:10:17Z', 'closed_at': '2018-02-09T05:31:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 955, 'title': 'assertion error in RelinquishMagickResource', 'state': 'closed', 'created_at': '2018-01-23T08:24:04Z', 'closed_at': '2018-02-09T05:30:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 954, 'title': 'The option -strip interferes with metadata-writing options on PNG', 'state': 'closed', 'created_at': '2018-01-23T07:45:06Z', 'closed_at': '2018-07-08T16:42:46Z', 'labels': []}
+{'issuenumber': 953, 'title': 'Import Error: MagickWand shared library not found', 'state': 'closed', 'created_at': '2018-01-22T19:48:33Z', 'closed_at': '2018-07-12T18:28:09Z', 'labels': {'name': 'question'}}
+{'issuenumber': 952, 'title': 'Fails to detect libpng on Darwin', 'state': 'closed', 'created_at': '2018-01-20T00:29:01Z', 'closed_at': '2018-01-21T17:12:36Z', 'labels': []}
+{'issuenumber': 950, 'title': 'Make dependency failure due to wrong file times in tarball', 'state': 'closed', 'created_at': '2018-01-19T04:22:41Z', 'closed_at': '2018-01-20T02:29:40Z', 'labels': []}
+{'issuenumber': 949, 'title': 'Detect White Spaces and Drag Photos', 'state': 'closed', 'created_at': '2018-01-18T05:17:46Z', 'closed_at': '2018-01-21T17:13:04Z', 'labels': []}
+{'issuenumber': 948, 'title': 'Unit tests failing for 6.9.9-33 in Fedora Rawhide (28)', 'state': 'closed', 'created_at': '2018-01-16T14:31:24Z', 'closed_at': '2018-03-09T16:54:24Z', 'labels': {'name': 'upstream'}}
+{'issuenumber': 947, 'title': 'composite Difference to same file yields a difference!=0', 'state': 'closed', 'created_at': '2018-01-15T16:51:30Z', 'closed_at': '2018-01-21T17:13:28Z', 'labels': []}
+{'issuenumber': 945, 'title': 'Latest Imagick 6.x version cannot "read" correctly from external streams in PHP.', 'state': 'closed', 'created_at': '2018-01-15T10:26:39Z', 'closed_at': '2018-01-15T13:33:09Z', 'labels': []}
+{'issuenumber': 944, 'title': 'master compilation error (to_string not declared)', 'state': 'closed', 'created_at': '2018-01-14T21:28:08Z', 'closed_at': '2018-01-14T21:58:51Z', 'labels': []}
+{'issuenumber': 942, 'title': 'Fuzzers not compiling', 'state': 'closed', 'created_at': '2018-01-11T12:52:07Z', 'closed_at': '2018-01-11T18:56:34Z', 'labels': []}
+{'issuenumber': 941, 'title': 'memory leaks', 'state': 'closed', 'created_at': '2018-01-11T02:55:39Z', 'closed_at': '2018-01-11T12:12:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 939, 'title': 'memory leaks', 'state': 'closed', 'created_at': '2018-01-11T02:01:40Z', 'closed_at': '2018-01-11T12:12:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 937, 'title': 'Identify Format Properties Reverted?', 'state': 'closed', 'created_at': '2018-01-10T21:55:34Z', 'closed_at': '2018-01-10T23:13:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 935, 'title': 'oss-fuzz build_fuzzers failed', 'state': 'closed', 'created_at': '2018-01-10T08:38:25Z', 'closed_at': '2018-01-10T13:35:35Z', 'labels': []}
+{'issuenumber': 933, 'title': 'Migrate fuzzers from oss-fuzz to upstream!', 'state': 'closed', 'created_at': '2018-01-08T18:03:43Z', 'closed_at': '2018-01-18T16:18:50Z', 'labels': []}
+{'issuenumber': 932, 'title': 'memory leaks in ReadXCFImage', 'state': 'closed', 'created_at': '2018-01-04T09:22:12Z', 'closed_at': '2018-01-04T12:15:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 931, 'title': 'memory leaks in ReadDCMImage', 'state': 'closed', 'created_at': '2018-01-04T07:55:45Z', 'closed_at': '2018-01-04T12:07:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 930, 'title': 'memory leaks in WriteCALSImage', 'state': 'closed', 'created_at': '2018-01-04T07:51:35Z', 'closed_at': '2018-01-04T12:15:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 929, 'title': 'memory leaks', 'state': 'closed', 'created_at': '2018-01-04T01:33:05Z', 'closed_at': '2018-01-04T12:08:30Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 928, 'title': 'memory leaks', 'state': 'closed', 'created_at': '2018-01-04T01:30:39Z', 'closed_at': '2018-01-04T12:08:14Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 927, 'title': 'heap-buffer-overflow in sixel_decode', 'state': 'closed', 'created_at': '2018-01-04T01:25:57Z', 'closed_at': '2018-01-04T14:18:23Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 926, 'title': 'Segmentation fault with a corrupted GIF image', 'state': 'closed', 'created_at': '2018-01-01T11:46:17Z', 'closed_at': '2018-02-17T19:55:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 925, 'title': 'multi frame tiff files', 'state': 'closed', 'created_at': '2017-12-30T21:45:47Z', 'closed_at': '2017-12-31T11:37:45Z', 'labels': []}
+{'issuenumber': 924, 'title': 'OOB read in PushLongPixel', 'state': 'closed', 'created_at': '2017-12-29T18:52:45Z', 'closed_at': '2017-12-29T21:31:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 923, 'title': 'OOB read in PushQuantumPixel', 'state': 'closed', 'created_at': '2017-12-29T13:52:24Z', 'closed_at': '2017-12-29T16:42:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 922, 'title': 'export MagickImageSubRange in MagickWand', 'state': 'closed', 'created_at': '2017-12-28T10:00:27Z', 'closed_at': '2017-12-29T01:58:33Z', 'labels': []}
+{'issuenumber': 921, 'title': 'memory leaks in ReadPWPImage', 'state': 'closed', 'created_at': '2017-12-27T01:42:51Z', 'closed_at': '2017-12-28T18:36:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 920, 'title': 'memory leaks in MSLPushImage', 'state': 'closed', 'created_at': '2017-12-26T07:56:41Z', 'closed_at': '2017-12-26T17:40:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 919, 'title': 'ImageMagick CLI ignores Disk limit and creates temporary files', 'state': 'closed', 'created_at': '2017-12-26T05:37:19Z', 'closed_at': '2017-12-28T18:25:39Z', 'labels': []}
+{'issuenumber': 918, 'title': 'heap-use-after-free in MngInfoDiscardObject', 'state': 'closed', 'created_at': '2017-12-26T01:16:50Z', 'closed_at': '2017-12-26T14:39:14Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 917, 'title': 'memory leaks in ReadMATImage', 'state': 'closed', 'created_at': '2017-12-25T02:07:46Z', 'closed_at': '2017-12-25T14:23:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 916, 'title': 'memory leaks in ReadRLEImage', 'state': 'closed', 'created_at': '2017-12-25T01:59:17Z', 'closed_at': '2017-12-25T14:23:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 915, 'title': 'memory leaks in ReadOneMNGImage', 'state': 'closed', 'created_at': '2017-12-22T08:51:48Z', 'closed_at': '2017-12-22T14:29:22Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 914, 'title': 'memory leaks in ReadMATImage', 'state': 'closed', 'created_at': '2017-12-22T08:39:05Z', 'closed_at': '2017-12-22T14:29:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 913, 'title': 'getImageBlob() segfault after using annotateImage() with WebP & imagemagick >= 7.0.7-12 ', 'state': 'closed', 'created_at': '2017-12-22T08:36:25Z', 'closed_at': '2017-12-27T09:01:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 912, 'title': 'memory leaks in ReadMIFFImage', 'state': 'closed', 'created_at': '2017-12-22T08:29:39Z', 'closed_at': '2017-12-22T14:29:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 911, 'title': 'CPU exhaustion in ReadMIFFImage', 'state': 'closed', 'created_at': '2017-12-22T05:36:06Z', 'closed_at': '2017-12-22T14:30:07Z', 'labels': []}
+{'issuenumber': 910, 'title': 'cpu exhaustion in GetImageIndexInList', 'state': 'closed', 'created_at': '2017-12-22T02:51:14Z', 'closed_at': '2017-12-22T14:30:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 909, 'title': 'double-free', 'state': 'closed', 'created_at': '2017-12-22T02:22:16Z', 'closed_at': '2017-12-22T12:37:53Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 908, 'title': 'CPU and Memory exhaustion', 'state': 'closed', 'created_at': '2017-12-22T02:21:06Z', 'closed_at': '2017-12-22T14:30:37Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 907, 'title': 'stack-buffer-overflow in SetImageProgress', 'state': 'closed', 'created_at': '2017-12-21T08:52:20Z', 'closed_at': '2017-12-21T12:33:47Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 906, 'title': 'heap-buffer-overflow in ReadOneMNGImage', 'state': 'closed', 'created_at': '2017-12-21T07:57:04Z', 'closed_at': '2017-12-21T11:27:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 905, 'title': '[Magick++] fontTypeMetrics does not scale with density setting', 'state': 'closed', 'created_at': '2017-12-20T06:37:32Z', 'closed_at': '2017-12-27T06:12:13Z', 'labels': []}
+{'issuenumber': 904, 'title': 'memory leaks', 'state': 'closed', 'created_at': '2017-12-20T06:01:03Z', 'closed_at': '2017-12-20T17:05:05Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 903, 'title': 'memory leaks in ReadOneMNGImage', 'state': 'closed', 'created_at': '2017-12-19T07:29:18Z', 'closed_at': '2017-12-20T08:30:05Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 902, 'title': 'memory leaks in WriteOnePNGImage', 'state': 'closed', 'created_at': '2017-12-19T07:22:34Z', 'closed_at': '2017-12-20T08:29:47Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 901, 'title': 'Error reading multi-layer XCF (gimp) file.', 'state': 'closed', 'created_at': '2017-12-19T05:17:15Z', 'closed_at': '2017-12-21T11:26:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 899, 'title': 'The height, width and color for the transformed eps to jpg image', 'state': 'closed', 'created_at': '2017-12-15T09:35:46Z', 'closed_at': '2017-12-28T18:36:32Z', 'labels': []}
+{'issuenumber': 898, 'title': 'svg format can not be read', 'state': 'closed', 'created_at': '2017-12-14T06:53:11Z', 'closed_at': '2018-01-21T17:15:12Z', 'labels': []}
+{'issuenumber': 897, 'title': 'errors in ImageMagick installation', 'state': 'closed', 'created_at': '2017-12-12T14:52:55Z', 'closed_at': '2018-01-21T17:15:25Z', 'labels': []}
+{'issuenumber': 896, 'title': 'how to use OptimizeImageLayers', 'state': 'closed', 'created_at': '2017-12-11T04:09:46Z', 'closed_at': '2018-01-04T10:38:22Z', 'labels': []}
+{'issuenumber': 894, 'title': "[Feature Request] Output of `magick -list list` should enumerate 'PercentEscapes'", 'state': 'closed', 'created_at': '2017-12-09T00:04:15Z', 'closed_at': '2017-12-09T13:34:54Z', 'labels': []}
+{'issuenumber': 893, 'title': "[Feature Request] Output of `magick -list list` should enumerate 'OperatorTypes'", 'state': 'closed', 'created_at': '2017-12-08T23:50:09Z', 'closed_at': '2017-12-09T13:34:06Z', 'labels': []}
+{'issuenumber': 892, 'title': "[Feature Request] Output of `magick -list list` should enumerate 'SubCommands'", 'state': 'closed', 'created_at': '2017-12-08T23:30:12Z', 'closed_at': '2017-12-09T08:00:54Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 891, 'title': 'Installation error', 'state': 'closed', 'created_at': '2017-12-07T06:52:39Z', 'closed_at': '2018-01-21T17:15:35Z', 'labels': []}
+{'issuenumber': 890, 'title': 'Build failure in IM 6.9.9-25 for --without-modules', 'state': 'closed', 'created_at': '2017-12-01T09:35:48Z', 'closed_at': '2017-12-09T13:35:32Z', 'labels': []}
+{'issuenumber': 889, 'title': '[Magick++] Hardcoded addNoise density', 'state': 'closed', 'created_at': '2017-12-01T08:10:48Z', 'closed_at': '2017-12-02T18:15:31Z', 'labels': []}
+{'issuenumber': 888, 'title': '[6.9.9-24 and 7.0.7-12] Build failure with libraw 0.14.8', 'state': 'closed', 'created_at': '2017-11-30T07:45:29Z', 'closed_at': '2017-11-30T15:23:48Z', 'labels': []}
+{'issuenumber': 887, 'title': 'Comparing two different images results in a error with blank output', 'state': 'closed', 'created_at': '2017-11-28T23:25:11Z', 'closed_at': '2017-11-29T13:47:10Z', 'labels': []}
+{'issuenumber': 886, 'title': 'Invalid delete when processing images', 'state': 'closed', 'created_at': '2017-11-27T11:25:11Z', 'closed_at': '2017-12-09T13:36:21Z', 'labels': []}
+{'issuenumber': 885, 'title': 'Utility function for converting fuzz percentage to double', 'state': 'closed', 'created_at': '2017-11-25T19:41:21Z', 'closed_at': '2018-07-08T16:43:07Z', 'labels': []}
+{'issuenumber': 884, 'title': 'Error reading grayscale png', 'state': 'closed', 'created_at': '2017-11-25T18:20:42Z', 'closed_at': '2018-01-21T17:16:50Z', 'labels': []}
+{'issuenumber': 883, 'title': 'Jmagick Compatability', 'state': 'closed', 'created_at': '2017-11-24T16:33:01Z', 'closed_at': '2017-12-31T19:09:36Z', 'labels': []}
+{'issuenumber': 882, 'title': 'how to covert jbig85 to png ', 'state': 'closed', 'created_at': '2017-11-24T10:27:49Z', 'closed_at': '2018-01-21T17:17:04Z', 'labels': []}
+{'issuenumber': 881, 'title': 'When I used ImageMagick 6.78-9 to cut the image, the cropped image was larger than the original one. Is there a problem with my configuration？', 'state': 'closed', 'created_at': '2017-11-24T09:00:04Z', 'closed_at': '2018-11-27T22:17:39Z', 'labels': []}
+{'issuenumber': 880, 'title': 'memory leaks in NewSplayTree', 'state': 'closed', 'created_at': '2017-11-24T06:17:05Z', 'closed_at': '2017-11-24T22:21:10Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 879, 'title': 'memory leaks in ReadPICTImage', 'state': 'closed', 'created_at': '2017-11-24T06:05:28Z', 'closed_at': '2017-11-24T22:21:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 878, 'title': 'memory leaks in ReadMATImage', 'state': 'closed', 'created_at': '2017-11-24T05:58:35Z', 'closed_at': '2017-11-24T22:21:51Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 877, 'title': 'memory leaks in ReadPGXImage', 'state': 'closed', 'created_at': '2017-11-24T05:49:54Z', 'closed_at': '2017-11-24T22:21:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 876, 'title': 'Possible memory limit regression', 'state': 'closed', 'created_at': '2017-11-23T22:50:24Z', 'closed_at': '2017-11-27T00:27:30Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 875, 'title': 'Return value of cairo_image_surface_create_for_data() is checked incorrectly', 'state': 'closed', 'created_at': '2017-11-23T21:36:40Z', 'closed_at': '2017-11-23T22:32:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 874, 'title': 'memory leaks in ReadPSDChannelZip', 'state': 'closed', 'created_at': '2017-11-23T01:41:28Z', 'closed_at': '2017-11-23T14:28:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 873, 'title': 'memory leak in ReadXPMImage', 'state': 'closed', 'created_at': '2017-11-22T08:24:45Z', 'closed_at': '2017-11-22T15:12:06Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 872, 'title': 'heap-buffer-overflow in Magick_png_read_raw_profile', 'state': 'closed', 'created_at': '2017-11-21T05:39:48Z', 'closed_at': '2017-11-23T01:42:30Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 871, 'title': './configure --with-method-prefix is broken', 'state': 'closed', 'created_at': '2017-11-20T09:55:32Z', 'closed_at': '2017-11-20T18:10:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 870, 'title': 'cpu exhaustion in ReadWPGImage', 'state': 'closed', 'created_at': '2017-11-20T02:37:26Z', 'closed_at': '2017-11-20T18:08:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 869, 'title': 'CPU exhaustion in ReadPSDChannelZip', 'state': 'closed', 'created_at': '2017-11-20T02:12:03Z', 'closed_at': '2017-11-20T13:27:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 868, 'title': 'Memory corruption triggered by supplying malformed PCX image', 'state': 'closed', 'created_at': '2017-11-18T11:41:33Z', 'closed_at': '2017-11-19T01:39:24Z', 'labels': []}
+{'issuenumber': 867, 'title': 'CPU exhaustion in SeekBlob', 'state': 'closed', 'created_at': '2017-11-17T03:36:06Z', 'closed_at': '2017-11-18T14:08:22Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 865, 'title': 'CPU exhaustion in InvokePDFDelegate', 'state': 'closed', 'created_at': '2017-11-17T02:50:49Z', 'closed_at': '2017-11-17T14:32:11Z', 'labels': []}
+{'issuenumber': 864, 'title': 'CPU exhaustion in ReadPSDChannelZip', 'state': 'closed', 'created_at': '2017-11-16T09:20:28Z', 'closed_at': '2017-11-17T02:57:45Z', 'labels': []}
+{'issuenumber': 863, 'title': 'CPU exhaustion in ReadPixelCacheRegion', 'state': 'closed', 'created_at': '2017-11-16T08:25:09Z', 'closed_at': '2017-11-17T02:57:30Z', 'labels': []}
+{'issuenumber': 862, 'title': 'convert: eXIf: CRC error and convert: eXIf: incorrect byte-order specifier', 'state': 'closed', 'created_at': '2017-11-15T16:25:40Z', 'closed_at': '2017-11-25T23:13:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 861, 'title': "convert  -brightness-contrast leads to alpha channels that don't work in efl / Qt / Browsers", 'state': 'closed', 'created_at': '2017-11-13T02:51:56Z', 'closed_at': '2018-11-27T22:43:11Z', 'labels': []}
+{'issuenumber': 860, 'title': 'Combination of -resize and -layers optimize corrupts the first frame', 'state': 'closed', 'created_at': '2017-11-12T12:57:00Z', 'closed_at': '2018-07-08T21:56:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 859, 'title': '"convert -layers OptimizeFrame" on IM7 won\'t erase pixels correctly', 'state': 'closed', 'created_at': '2017-11-11T15:56:21Z', 'closed_at': '2018-11-27T22:12:51Z', 'labels': []}
+{'issuenumber': 857, 'title': 'Rubygem tests fail after IM6 -19 to -22 update', 'state': 'closed', 'created_at': '2017-11-09T18:29:45Z', 'closed_at': '2018-11-27T22:12:31Z', 'labels': []}
+{'issuenumber': 856, 'title': 'Alpine Linux make test fails with v7.0.7.10', 'state': 'closed', 'created_at': '2017-11-09T02:19:52Z', 'closed_at': '2017-11-09T19:58:04Z', 'labels': []}
+{'issuenumber': 855, 'title': 'How to convert EMF files to PNG format on linux?', 'state': 'closed', 'created_at': '2017-11-07T18:45:35Z', 'closed_at': '2018-07-12T18:27:31Z', 'labels': {'name': 'question'}}
+{'issuenumber': 854, 'title': '[Package Request] Please provide Linux binary packages in AppImage format', 'state': 'closed', 'created_at': '2017-11-05T22:15:12Z', 'closed_at': '2017-11-12T18:11:46Z', 'labels': []}
+{'issuenumber': 853, 'title': 'OpenCL: enable, make and install not working well', 'state': 'closed', 'created_at': '2017-11-05T20:16:16Z', 'closed_at': '2018-07-12T18:27:08Z', 'labels': []}
+{'issuenumber': 852, 'title': 'make check reports two fails', 'state': 'closed', 'created_at': '2017-11-05T18:08:29Z', 'closed_at': '2018-07-08T21:55:52Z', 'labels': []}
+{'issuenumber': 851, 'title': 'Heap Allocation errors, uninitialized integers used to allocate memory as well as conditional jumps depending on uninitialized values, while feeding a malformed WPG File', 'state': 'closed', 'created_at': '2017-11-04T06:27:48Z', 'closed_at': '2017-11-04T15:35:30Z', 'labels': []}
+{'issuenumber': 850, 'title': 'Parsing comments in pnm fails', 'state': 'closed', 'created_at': '2017-11-04T02:50:33Z', 'closed_at': '2017-11-04T15:36:05Z', 'labels': []}
+{'issuenumber': 849, 'title': 'avs signature changed', 'state': 'closed', 'created_at': '2017-11-01T14:56:35Z', 'closed_at': '2017-11-04T09:11:27Z', 'labels': {'name': 'question'}}
+{'issuenumber': 848, 'title': 'Downstream A JSON::ParserError occurred while parsing broken JSON (UTF-8)', 'state': 'closed', 'created_at': '2017-10-29T02:29:26Z', 'closed_at': '2017-10-29T14:59:03Z', 'labels': []}
+{'issuenumber': 846, 'title': 'Colorprofile is kept on WIN OS, but not on LINUX OS', 'state': 'closed', 'created_at': '2017-10-26T13:11:34Z', 'closed_at': '2018-07-12T18:29:22Z', 'labels': []}
+{'issuenumber': 845, 'title': 'Add support for reading mipmaps in dds files.', 'state': 'closed', 'created_at': '2017-10-23T17:33:01Z', 'closed_at': '2017-10-27T12:41:16Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 844, 'title': 'Memory-Leak in WriteMAGICKImage coders/magick.c:13275', 'state': 'closed', 'created_at': '2017-10-17T02:37:05Z', 'closed_at': '2017-10-17T11:07:38Z', 'labels': []}
+{'issuenumber': 843, 'title': 'What does "..." mean in commit messages?', 'state': 'closed', 'created_at': '2017-10-16T11:45:18Z', 'closed_at': '2017-10-16T14:18:35Z', 'labels': {'name': 'question'}}
+{'issuenumber': 842, 'title': 'Memory-Leak in  WritePCDImage coders/pcd.c:1110', 'state': 'closed', 'created_at': '2017-10-16T08:15:49Z', 'closed_at': '2017-10-16T22:27:05Z', 'labels': []}
+{'issuenumber': 841, 'title': 'ImageMagick is becoming nauseating, perverse, obnoxious and even repulsive', 'state': 'closed', 'created_at': '2017-10-16T07:02:09Z', 'closed_at': '2017-11-05T12:56:10Z', 'labels': []}
+{'issuenumber': 840, 'title': 'imagemagick studio library and utility programs has stopped working by using magick command to convert a svg to png', 'state': 'closed', 'created_at': '2017-10-15T14:04:43Z', 'closed_at': '2017-11-04T09:13:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 839, 'title': 'Misuse of Macro `ThrowWriterException` in WriteOnePNGImage would cause Null Pointer Dereference', 'state': 'closed', 'created_at': '2017-10-13T09:49:08Z', 'closed_at': '2017-10-14T14:10:35Z', 'labels': []}
+{'issuenumber': 838, 'title': 'Animated gif frames overlapping after running Convert with LZW command', 'state': 'closed', 'created_at': '2017-10-12T22:24:53Z', 'closed_at': '2018-07-08T21:55:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 837, 'title': 'Missing comma after delay in json for gif files', 'state': 'closed', 'created_at': '2017-10-12T15:27:09Z', 'closed_at': '2017-10-13T00:03:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 835, 'title': 'Use of uninitialized data reading BMP files using ImageMagick-6.9.9-19', 'state': 'closed', 'created_at': '2017-10-12T13:27:10Z', 'closed_at': '2017-10-14T14:10:49Z', 'labels': []}
+{'issuenumber': 834, 'title': 'Targa identification', 'state': 'closed', 'created_at': '2017-10-12T09:44:31Z', 'closed_at': '2017-10-14T14:11:17Z', 'labels': []}
+{'issuenumber': 833, 'title': 'Imagemagick generated image has black color background', 'state': 'closed', 'created_at': '2017-10-11T10:12:18Z', 'closed_at': '2017-10-14T14:11:32Z', 'labels': []}
+{'issuenumber': 832, 'title': 'Conditional Statement depends on uninitialized value', 'state': 'closed', 'created_at': '2017-10-09T14:26:17Z', 'closed_at': '2017-10-14T14:12:14Z', 'labels': []}
+{'issuenumber': 831, 'title': 'IM GIF decoder detects new frame where there is none', 'state': 'closed', 'created_at': '2017-10-05T19:54:36Z', 'closed_at': '2017-10-06T20:35:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 830, 'title': '7.0.7-5 failed tests with ghostscript-9.21 ', 'state': 'closed', 'created_at': '2017-10-05T11:48:31Z', 'closed_at': '2017-10-14T14:11:58Z', 'labels': []}
+{'issuenumber': 829, 'title': 'Bessel filter option works for v6.9.9-17 but not in v7.0.7-5', 'state': 'closed', 'created_at': '2017-10-05T00:50:17Z', 'closed_at': '2017-10-05T03:03:41Z', 'labels': []}
+{'issuenumber': 828, 'title': 'Original sRGB profile is not correctly recognised as such by IM/libpng', 'state': 'closed', 'created_at': '2017-10-04T14:25:27Z', 'closed_at': '2018-11-27T22:42:29Z', 'labels': []}
+{'issuenumber': 825, 'title': 'Regression: "extra check" causes existing code to fail', 'state': 'closed', 'created_at': '2017-10-02T15:54:47Z', 'closed_at': '2017-10-03T18:22:46Z', 'labels': []}
+{'issuenumber': 824, 'title': 'BUG? OpenMP threads not created when using Magick++ for resize operation ', 'state': 'closed', 'created_at': '2017-10-01T20:02:14Z', 'closed_at': '2017-10-02T09:31:19Z', 'labels': []}
+{'issuenumber': 823, 'title': "6.9.9.16 doesn't build", 'state': 'closed', 'created_at': '2017-10-01T19:30:15Z', 'closed_at': '2017-10-01T20:02:23Z', 'labels': []}
+{'issuenumber': 821, 'title': 'memory leak in XDitherImage', 'state': 'closed', 'created_at': '2017-09-30T08:21:23Z', 'closed_at': '2017-10-01T06:43:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 820, 'title': 'memory leak in ScaleImage', 'state': 'closed', 'created_at': '2017-09-30T08:19:56Z', 'closed_at': '2017-10-01T06:43:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 819, 'title': 'memory leak in MontageImageList', 'state': 'closed', 'created_at': '2017-09-30T08:18:37Z', 'closed_at': '2017-10-01T06:43:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 818, 'title': 'memory leak in RotationalBlurImage', 'state': 'closed', 'created_at': '2017-09-30T08:16:43Z', 'closed_at': '2017-10-01T06:53:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 817, 'title': 'assertion failure in DrawPolygonPrimitive', 'state': 'closed', 'created_at': '2017-09-30T08:15:03Z', 'closed_at': '2017-09-30T08:32:44Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 816, 'title': 'memory leak in TraceStrokePolygon', 'state': 'closed', 'created_at': '2017-09-30T08:09:55Z', 'closed_at': '2017-10-01T06:53:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 815, 'title': 'memory leak in HuffmanDecodeImage', 'state': 'closed', 'created_at': '2017-09-30T08:08:27Z', 'closed_at': '2017-10-01T06:53:44Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 814, 'title': 'memory leak in sRGBTransformImage', 'state': 'closed', 'created_at': '2017-09-30T08:07:17Z', 'closed_at': '2017-10-01T06:53:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 813, 'title': 'memory leak in WriteTIFFImage', 'state': 'closed', 'created_at': '2017-09-30T08:06:09Z', 'closed_at': '2017-10-01T06:55:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 812, 'title': 'memory leak in ReadOneMNGImage', 'state': 'closed', 'created_at': '2017-09-30T07:32:35Z', 'closed_at': '2017-10-01T06:55:58Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 811, 'title': 'memory leak in DecodeImage ', 'state': 'closed', 'created_at': '2017-09-30T07:29:42Z', 'closed_at': '2017-10-01T06:56:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 810, 'title': 'memory leak in WritePDBImage', 'state': 'closed', 'created_at': '2017-09-30T07:27:59Z', 'closed_at': '2017-10-01T07:04:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 809, 'title': 'memory leak in ReadPCDImage', 'state': 'closed', 'created_at': '2017-09-30T07:26:22Z', 'closed_at': '2017-10-01T07:04:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 808, 'title': 'memory leak in WriteGIFImage', 'state': 'closed', 'created_at': '2017-09-30T07:24:57Z', 'closed_at': '2017-10-01T07:05:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 807, 'title': 'null pointer dereference in GetOpenCLCacheDirectory', 'state': 'closed', 'created_at': '2017-09-30T07:21:07Z', 'closed_at': '2017-10-01T07:05:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 806, 'title': 'null pointer dereference in NTOpenDirectory', 'state': 'closed', 'created_at': '2017-09-30T07:19:36Z', 'closed_at': '2017-10-01T07:05:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 805, 'title': 'assertion failure in ReplaceImageInList', 'state': 'closed', 'created_at': '2017-09-30T07:16:42Z', 'closed_at': '2017-10-01T06:45:08Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 804, 'title': 'assertion failure in ReplaceImageInList', 'state': 'closed', 'created_at': '2017-09-30T07:16:10Z', 'closed_at': '2017-10-01T06:45:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 803, 'title': 'assertion failure in ReplaceImageInList', 'state': 'closed', 'created_at': '2017-09-30T07:15:33Z', 'closed_at': '2017-10-01T06:44:36Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 802, 'title': 'assertion failure in ReplaceImageInList', 'state': 'closed', 'created_at': '2017-09-30T07:15:01Z', 'closed_at': '2017-10-01T06:44:44Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 801, 'title': 'null pointer dereference in XGetWindowInfo', 'state': 'closed', 'created_at': '2017-09-30T07:13:18Z', 'closed_at': '2017-10-01T07:05:44Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 800, 'title': 'null pointer dereference in InitializeIntervalTree', 'state': 'closed', 'created_at': '2017-09-30T07:12:38Z', 'closed_at': '2017-10-01T07:05:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 799, 'title': 'null pointer dereference in InitializeIntervalTree', 'state': 'closed', 'created_at': '2017-09-30T07:12:08Z', 'closed_at': '2017-10-01T07:06:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 798, 'title': 'null pointer dereference in InitializeIntervalTree', 'state': 'closed', 'created_at': '2017-09-30T07:11:29Z', 'closed_at': '2017-10-01T07:06:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 797, 'title': 'null pointer dereference in LoadOpenCLDevices', 'state': 'closed', 'created_at': '2017-09-30T07:10:52Z', 'closed_at': '2017-10-01T07:07:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 796, 'title': 'null pointer dereference in LoadOpenCLDevices', 'state': 'closed', 'created_at': '2017-09-30T07:10:23Z', 'closed_at': '2017-10-01T07:07:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 795, 'title': 'null pointer dereference in LoadOpenCLDevices', 'state': 'closed', 'created_at': '2017-09-30T07:09:09Z', 'closed_at': '2017-10-01T07:07:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 794, 'title': 'null pointer dereference in LoadOpenCLDevices', 'state': 'closed', 'created_at': '2017-09-30T07:08:32Z', 'closed_at': '2017-10-01T07:14:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 793, 'title': 'null pointer dereference in LogOpenCLBuildFailure', 'state': 'closed', 'created_at': '2017-09-30T07:07:50Z', 'closed_at': '2017-10-01T07:14:22Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 792, 'title': 'null pointer dereference in CacheOpenCLKernel', 'state': 'closed', 'created_at': '2017-09-30T07:07:14Z', 'closed_at': '2017-10-01T07:14:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 791, 'title': 'null pointer dereference in BenchmarkOpenCLDevices', 'state': 'closed', 'created_at': '2017-09-30T07:06:03Z', 'closed_at': '2017-10-01T07:15:06Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 790, 'title': 'null pointer dereference in GetOpenCLCacheDirectory', 'state': 'closed', 'created_at': '2017-09-30T07:04:44Z', 'closed_at': '2017-10-01T06:42:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 789, 'title': "coders/txt.c:198: ReadTEXTImage: Assertion `exception->signature == 0xabacadabUL' failed.", 'state': 'closed', 'created_at': '2017-09-29T20:17:34Z', 'closed_at': '2017-10-14T14:12:29Z', 'labels': []}
+{'issuenumber': 786, 'title': 'stack-overflow in WriteICONImage coders/icon.c:1002', 'state': 'closed', 'created_at': '2017-09-28T10:40:12Z', 'closed_at': '2017-09-28T14:10:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 785, 'title': 'codecs/uil.c matte handling is buggy, only uses last pixel for matte', 'state': 'closed', 'created_at': '2017-09-28T09:57:12Z', 'closed_at': '2017-09-28T14:11:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 783, 'title': 'Exhausted CPU and disk resources due to infinite loop in ClonePixelCacheRepository', 'state': 'closed', 'created_at': '2017-09-27T08:32:38Z', 'closed_at': '2017-09-28T07:53:46Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 782, 'title': '[Tests] wandtest and some demos are failing', 'state': 'closed', 'created_at': '2017-09-26T14:28:36Z', 'closed_at': '2017-10-14T14:12:59Z', 'labels': []}
+{'issuenumber': 781, 'title': 'heap use after free in RenderFreetype', 'state': 'closed', 'created_at': '2017-09-25T10:57:05Z', 'closed_at': '2017-10-03T18:47:22Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 780, 'title': 'Null Pointer Dereference at DistortImage of MagickCore/distort.c', 'state': 'closed', 'created_at': '2017-09-25T08:25:56Z', 'closed_at': '2017-09-25T08:48:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 779, 'title': 'Linked images in SVGs are resolved against cwd instead of the file path', 'state': 'closed', 'created_at': '2017-09-25T07:05:21Z', 'closed_at': '2017-09-25T08:39:25Z', 'labels': []}
+{'issuenumber': 778, 'title': 'GCC can not link code against *.libs from Windows binary distribution package.', 'state': 'closed', 'created_at': '2017-09-24T19:59:01Z', 'closed_at': '2017-09-25T08:07:18Z', 'labels': {'name': 'question'}}
+{'issuenumber': 777, 'title': '[bug] MAGICK_DIR location becomes full, creating Magick::Image object SIGBUS', 'state': 'closed', 'created_at': '2017-09-22T17:55:04Z', 'closed_at': '2017-09-30T08:31:57Z', 'labels': []}
+{'issuenumber': 776, 'title': 'Heap buffer overflow in PushShortPixel', 'state': 'closed', 'created_at': '2017-09-22T13:55:49Z', 'closed_at': '2017-10-14T14:13:15Z', 'labels': []}
+{'issuenumber': 775, 'title': 'Null Pointer Dereference at SketchImage of MagickCore/fx.c', 'state': 'closed', 'created_at': '2017-09-22T12:48:49Z', 'closed_at': '2017-09-22T19:49:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 774, 'title': 'Null Pointer Dereference at ExpandRotateKernelInfo of MagickCore/morphology.c', 'state': 'closed', 'created_at': '2017-09-22T12:22:40Z', 'closed_at': '2017-09-30T08:32:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 773, 'title': 'Abort on specific JNG file', 'state': 'closed', 'created_at': '2017-09-22T12:11:28Z', 'closed_at': '2017-09-22T13:49:57Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 772, 'title': 'buffer overflow when process tiff image', 'state': 'closed', 'created_at': '2017-09-22T07:37:48Z', 'closed_at': '2017-10-03T18:49:33Z', 'labels': {'name': 'upstream'}}
+{'issuenumber': 771, 'title': 'endless loop in ReadCAPTIONImage', 'state': 'closed', 'created_at': '2017-09-21T09:07:05Z', 'closed_at': '2017-09-21T11:24:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 770, 'title': 'memory leak in ResizeMagickMemory MagickCore/memory.c:1225', 'state': 'closed', 'created_at': '2017-09-21T09:06:39Z', 'closed_at': '2017-09-21T11:21:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 768, 'title': 'Fishy value with Valgrind', 'state': 'closed', 'created_at': '2017-09-19T14:00:12Z', 'closed_at': '2017-09-20T18:06:47Z', 'labels': []}
+{'issuenumber': 767, 'title': 'Conditional jump with Valgrind on GIF file', 'state': 'closed', 'created_at': '2017-09-19T13:40:05Z', 'closed_at': '2017-09-20T18:10:52Z', 'labels': []}
+{'issuenumber': 766, 'title': 'Conditional jump with Valgrind on TIFF file', 'state': 'closed', 'created_at': '2017-09-19T13:23:26Z', 'closed_at': '2017-09-20T18:05:32Z', 'labels': []}
+{'issuenumber': 765, 'title': 'Heap buffer over read in ReadTIFFImage(coders/tiff.c:2011)', 'state': 'closed', 'created_at': '2017-09-19T09:55:55Z', 'closed_at': '2017-09-19T11:59:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 764, 'title': 'Ligatures are not displayed for Arabic text on image', 'state': 'closed', 'created_at': '2017-09-15T10:12:17Z', 'closed_at': '2018-07-08T21:45:50Z', 'labels': []}
+{'issuenumber': 761, 'title': 'a typo went into coders/tiff.c', 'state': 'closed', 'created_at': '2017-09-15T06:43:34Z', 'closed_at': '2017-09-15T09:25:02Z', 'labels': []}
+{'issuenumber': 760, 'title': 'memory leak in ReadOneJNGImage', 'state': 'closed', 'created_at': '2017-09-15T05:55:48Z', 'closed_at': '2017-09-22T08:56:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 759, 'title': 'memory leak in ReadSGIImage', 'state': 'closed', 'created_at': '2017-09-14T23:41:46Z', 'closed_at': '2017-09-17T17:39:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 758, 'title': 'Failed tests in validation suite, no decode delegate messages for various formats', 'state': 'closed', 'created_at': '2017-09-14T16:41:26Z', 'closed_at': '2017-09-14T23:15:11Z', 'labels': []}
+{'issuenumber': 753, 'title': 'Units option is unrecognized in a fresh OS X installation', 'state': 'closed', 'created_at': '2017-09-13T16:15:14Z', 'closed_at': '2017-09-13T16:28:38Z', 'labels': []}
+{'issuenumber': 748, 'title': 'DoS issue (huge memory consumption) at ReadPNMImage(), coders/pnm.c:944', 'state': 'closed', 'created_at': '2017-09-12T03:39:28Z', 'closed_at': '2017-09-12T07:53:14Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 747, 'title': 'Image is failing to read because IDAT: chunk data is too large', 'state': 'closed', 'created_at': '2017-09-11T12:42:50Z', 'closed_at': '2017-09-11T12:50:37Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 746, 'title': 'Null Pointer Dereference in GetVirtualPixels MagickCore/cache.c:3185', 'state': 'closed', 'created_at': '2017-09-11T09:38:24Z', 'closed_at': '2017-09-12T18:36:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 745, 'title': 'Invalid loop condition at ReadMATImageV4() in coders/mat.c:635', 'state': 'closed', 'created_at': '2017-09-11T07:25:14Z', 'closed_at': '2017-09-12T18:36:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 744, 'title': 'memory exhausted in WriteTIFFImage', 'state': 'closed', 'created_at': '2017-09-11T01:51:13Z', 'closed_at': '2017-09-12T18:37:16Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 743, 'title': 'CMake support', 'state': 'closed', 'created_at': '2017-09-08T13:47:18Z', 'closed_at': '2019-03-27T14:59:12Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 742, 'title': 'test failures on big endian systems due different signatures', 'state': 'closed', 'created_at': '2017-09-08T09:50:57Z', 'closed_at': '2017-09-18T13:00:57Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 741, 'title': 'memory leak in ReadMPCImage coders/mpc.c:203', 'state': 'closed', 'created_at': '2017-09-08T09:44:18Z', 'closed_at': '2017-09-08T16:21:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 740, 'title': 'memory leak in ReadMATImage coders/mat.c:962', 'state': 'closed', 'created_at': '2017-09-08T09:44:12Z', 'closed_at': '2017-09-12T15:55:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 739, 'title': 'memory leak in ReadMPCImage coders/mpc.c:228', 'state': 'closed', 'created_at': '2017-09-08T09:44:06Z', 'closed_at': '2017-09-12T15:55:44Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 738, 'title': 'Edge detection gives very different output on IM6 vs IM7', 'state': 'closed', 'created_at': '2017-09-07T15:05:40Z', 'closed_at': '2017-09-18T13:01:16Z', 'labels': []}
+{'issuenumber': 737, 'title': 'memory exhaustion in ReadTIFFImage coders/tiff.c:1176', 'state': 'closed', 'created_at': '2017-09-07T06:48:16Z', 'closed_at': '2017-09-12T20:24:17Z', 'labels': {'name': 'upstream'}}
+{'issuenumber': 736, 'title': 'memory exhaustion in ReadTIFFImage', 'state': 'closed', 'created_at': '2017-09-07T06:44:11Z', 'closed_at': '2017-09-07T11:20:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 735, 'title': 'SEGV in MagickCore/cache.c:5519', 'state': 'closed', 'created_at': '2017-09-07T05:43:17Z', 'closed_at': '2017-09-07T13:12:10Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 734, 'title': 'memory leak in ReadMATImage', 'state': 'closed', 'created_at': '2017-09-06T14:58:42Z', 'closed_at': '2017-09-06T18:56:23Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 733, 'title': 'Heap buffer overflow in WritePCXImage', 'state': 'closed', 'created_at': '2017-09-06T02:18:32Z', 'closed_at': '2017-09-06T14:40:23Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 731, 'title': 'memory exhaustion in ReadPNMImage in pnm.c:1251', 'state': 'closed', 'created_at': '2017-09-05T07:12:18Z', 'closed_at': '2017-09-06T19:45:01Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 730, 'title': '[IM7] charcoal effect broken', 'state': 'closed', 'created_at': '2017-09-04T09:11:40Z', 'closed_at': '2017-09-04T18:52:59Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 729, 'title': '[IM7] image.negate() broken', 'state': 'closed', 'created_at': '2017-09-04T09:01:27Z', 'closed_at': '2017-09-07T14:58:50Z', 'labels': {'name': 'question'}}
+{'issuenumber': 728, 'title': 'memory exhausted in ReadDIBImage', 'state': 'closed', 'created_at': '2017-09-04T07:51:12Z', 'closed_at': '2017-09-06T19:45:47Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 727, 'title': 'memory exhausted in ReadPNMImage', 'state': 'closed', 'created_at': '2017-09-04T07:46:41Z', 'closed_at': '2017-09-06T19:45:57Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 726, 'title': 'memory exhausted in ReadPCXImage', 'state': 'closed', 'created_at': '2017-09-04T07:39:41Z', 'closed_at': '2017-09-06T19:44:42Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 725, 'title': 'Null Pointer Dereference in ReadEnhMetaFile', 'state': 'closed', 'created_at': '2017-09-03T15:06:02Z', 'closed_at': '2017-09-03T20:31:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 724, 'title': 'Null Pointer Dereference in PDFDelegateMessage', 'state': 'closed', 'created_at': '2017-09-03T15:05:49Z', 'closed_at': '2017-09-03T20:28:21Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 723, 'title': 'Null Pointer Dereference in ReadOneMNGImage', 'state': 'closed', 'created_at': '2017-09-03T15:05:37Z', 'closed_at': '2017-09-03T20:28:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 722, 'title': 'Null Pointer Dereference in PostscriptDelegateMessage', 'state': 'closed', 'created_at': '2017-09-03T15:05:21Z', 'closed_at': '2017-09-03T20:27:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 721, 'title': 'Null Pointer Dereference in sixel_decode and sixel_output_create', 'state': 'closed', 'created_at': '2017-09-03T15:05:00Z', 'closed_at': '2017-09-03T16:06:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 720, 'title': 'Null Pointer Dereference in sixel_decode', 'state': 'closed', 'created_at': '2017-09-03T15:03:51Z', 'closed_at': '2017-09-03T16:05:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 719, 'title': 'Null Pointer Dereference in TIFFIgnoreTags', 'state': 'closed', 'created_at': '2017-09-03T15:03:33Z', 'closed_at': '2017-09-03T15:57:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 718, 'title': 'memory exhausted in ReadSUNImage', 'state': 'closed', 'created_at': '2017-09-02T17:23:58Z', 'closed_at': '2017-09-03T13:14:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 717, 'title': 'Heap-buffer-overflow in function SampleImage() in  resize.c', 'state': 'closed', 'created_at': '2017-09-01T04:37:53Z', 'closed_at': '2017-09-01T13:06:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 716, 'title': 'Null Pointer Dereference triggered by malformed Image File', 'state': 'closed', 'created_at': '2017-08-31T17:47:48Z', 'closed_at': '2017-08-31T20:38:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 715, 'title': 'CVE-2017-14172: denial of service (DoS) issue in ReadPSImage():664 in coders/ps.c', 'state': 'closed', 'created_at': '2017-08-31T14:37:10Z', 'closed_at': '2017-08-31T15:13:10Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 714, 'title': 'CVE-2017-14174: denial of service (DoS) issue in ReadPSDLayersInternal():1707 in coders/psd.c', 'state': 'closed', 'created_at': '2017-08-31T14:06:02Z', 'closed_at': '2017-09-01T13:44:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 713, 'title': 'CVE-2017-14173: An infinite loop in ReadTXTImage():449, coders/txt.c', 'state': 'closed', 'created_at': '2017-08-31T12:43:45Z', 'closed_at': '2017-09-01T13:53:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 712, 'title': 'CVE-2017-14175: denial of service (DoS) issue in ReadXBMImage():345 in coders/xbm.c', 'state': 'closed', 'created_at': '2017-08-31T12:18:01Z', 'closed_at': '2017-08-31T13:41:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 711, 'title': 'Support more UTF-8 symbols by default with Label creation', 'state': 'closed', 'created_at': '2017-08-31T09:52:04Z', 'closed_at': '2018-07-08T21:46:11Z', 'labels': []}
+{'issuenumber': 710, 'title': 'Null Pointer Dereference vulnerability triggered by malformed image files', 'state': 'closed', 'created_at': '2017-08-31T07:54:41Z', 'closed_at': '2017-08-31T13:37:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 709, 'title': 'Buffer Overflow resulting from malformed XML input', 'state': 'closed', 'created_at': '2017-08-31T07:23:28Z', 'closed_at': '2017-09-04T04:59:39Z', 'labels': []}
+{'issuenumber': 708, 'title': 'Division by zero in MagickCore/cache.c', 'state': 'closed', 'created_at': '2017-08-31T03:50:27Z', 'closed_at': '2017-09-03T17:03:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 707, 'title': 'ABI problem with gcc-7 on Debian', 'state': 'closed', 'created_at': '2017-08-30T14:38:51Z', 'closed_at': '2017-08-30T14:48:26Z', 'labels': {'name': 'upstream'}}
+{'issuenumber': 706, 'title': 'Null Pointer Dereference in the IdentifyImage function within ImageMagick/MagickCore/identify.c', 'state': 'closed', 'created_at': '2017-08-29T10:37:35Z', 'closed_at': '2017-08-29T11:17:14Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 705, 'title': 'Array Index Out of Bounds and Potential Buffer-Overflow due to user-controlled value being used as Array Index', 'state': 'closed', 'created_at': '2017-08-29T09:51:25Z', 'closed_at': '2017-08-29T21:28:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 704, 'title': "Imagemagick 6.9.9-10 crashes with iOS Icon png but older and newer versions don't", 'state': 'closed', 'created_at': '2017-08-29T08:07:18Z', 'closed_at': '2017-08-29T21:28:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 703, 'title': 'missing delegate error', 'state': 'closed', 'created_at': '2017-08-28T18:48:49Z', 'closed_at': '2017-09-03T18:02:02Z', 'labels': []}
+{'issuenumber': 702, 'title': 'PNG Grayscale Bug with quantum-depth=8', 'state': 'closed', 'created_at': '2017-08-28T14:24:32Z', 'closed_at': '2017-08-30T08:45:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 701, 'title': 'Add contribution template', 'state': 'closed', 'created_at': '2017-08-28T11:11:01Z', 'closed_at': '2017-09-06T19:47:45Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 698, 'title': 'imagemagick.org is not the same site as www.imagemagick.org', 'state': 'closed', 'created_at': '2017-08-24T18:33:57Z', 'closed_at': '2017-09-06T19:47:56Z', 'labels': []}
+{'issuenumber': 697, 'title': 'Error "memory allocation failed" when converting a XCF file', 'state': 'closed', 'created_at': '2017-08-24T12:39:25Z', 'closed_at': '2017-09-12T20:23:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 696, 'title': '[magick++] How to set antialias when rendering pdf', 'state': 'closed', 'created_at': '2017-08-24T10:15:47Z', 'closed_at': '2018-07-08T21:46:21Z', 'labels': []}
+{'issuenumber': 695, 'title': 'heap-buffer-overflow in GetPixelAlpha', 'state': 'closed', 'created_at': '2017-08-24T08:33:02Z', 'closed_at': '2017-10-14T14:13:40Z', 'labels': []}
+{'issuenumber': 694, 'title': 'Heap-buffer-overflow in ReadPixelCachePixels ', 'state': 'closed', 'created_at': '2017-08-24T08:22:48Z', 'closed_at': '2017-10-14T14:14:17Z', 'labels': []}
+{'issuenumber': 693, 'title': '[magick++] compare with visual diff', 'state': 'closed', 'created_at': '2017-08-24T08:22:47Z', 'closed_at': '2017-08-24T09:51:53Z', 'labels': []}
+{'issuenumber': 692, 'title': 'Error (segfault/width or height exceeds limit) when resizing PSD image from version >= 6.9.x', 'state': 'closed', 'created_at': '2017-08-22T17:06:29Z', 'closed_at': '2017-10-14T14:14:50Z', 'labels': []}
+{'issuenumber': 691, 'title': 'memory leak in ReadMATImage', 'state': 'closed', 'created_at': '2017-08-22T16:03:42Z', 'closed_at': '2017-09-18T13:02:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 690, 'title': 'Cropping images converts them to 8-bit depth unexpectedly', 'state': 'closed', 'created_at': '2017-08-21T12:44:37Z', 'closed_at': '2018-07-08T21:46:32Z', 'labels': []}
+{'issuenumber': 689, 'title': 'memory exhausted in ReadOnePNGImage', 'state': 'closed', 'created_at': '2017-08-21T06:56:35Z', 'closed_at': '2017-09-18T13:02:25Z', 'labels': []}
+{'issuenumber': 688, 'title': 'memory leak in WritePNGImage', 'state': 'closed', 'created_at': '2017-08-21T05:45:41Z', 'closed_at': '2017-10-22T19:09:22Z', 'labels': []}
+{'issuenumber': 687, 'title': 'Latest build is stopped by Windows 10 SmartScreen but all previous releases have been fine', 'state': 'closed', 'created_at': '2017-08-20T20:35:40Z', 'closed_at': '2017-11-04T09:26:09Z', 'labels': {'name': 'question'}}
+{'issuenumber': 685, 'title': '"Ignoring invalid time value" error is not solved', 'state': 'closed', 'created_at': '2017-08-19T12:38:18Z', 'closed_at': '2017-11-04T09:35:33Z', 'labels': []}
+{'issuenumber': 684, 'title': "ImageMagick-7.0.6-7/MagickCore/xml-tree.c:2735]: (style) Array index 'offset' is used before limits check.", 'state': 'closed', 'created_at': '2017-08-19T11:03:28Z', 'closed_at': '2018-01-04T14:20:07Z', 'labels': []}
+{'issuenumber': 683, 'title': 'identify gives incorrect/inconsistent color depth for some ICO files', 'state': 'closed', 'created_at': '2017-08-18T23:26:43Z', 'closed_at': '2017-08-22T18:13:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 682, 'title': 'Heap buffer overflow in ReadSFWImage', 'state': 'closed', 'created_at': '2017-08-18T08:55:11Z', 'closed_at': '2017-08-18T14:02:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 680, 'title': 'memory exhaustion in OpenPixelCache', 'state': 'closed', 'created_at': '2017-08-17T10:16:53Z', 'closed_at': '2017-08-18T14:01:53Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 679, 'title': 'memory exhaustion in load_tile', 'state': 'closed', 'created_at': '2017-08-16T16:11:37Z', 'closed_at': '2017-08-18T14:02:06Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 678, 'title': 'Documentation error wrt modulate scaling', 'state': 'closed', 'created_at': '2017-08-15T12:59:22Z', 'closed_at': '2017-08-18T14:04:32Z', 'labels': []}
+{'issuenumber': 677, 'title': 'cpu exhaustion in ClonePixelCacheRepository ', 'state': 'closed', 'created_at': '2017-08-15T12:45:17Z', 'closed_at': '2017-08-15T13:09:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 676, 'title': 'memory leak in NewLinkedList', 'state': 'closed', 'created_at': '2017-08-15T08:32:02Z', 'closed_at': '2017-08-15T11:56:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 675, 'title': 'Can not convert png:"convert: no decode delegate for this image format `PNG\' @ error/constitute.c/ReadImage/509."', 'state': 'closed', 'created_at': '2017-08-15T05:19:06Z', 'closed_at': '2017-10-25T15:28:05Z', 'labels': []}
+{'issuenumber': 674, 'title': 'assertion failure in WriteBlobStream', 'state': 'closed', 'created_at': '2017-08-14T16:25:20Z', 'closed_at': '2017-08-18T14:02:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 673, 'title': '[question] choosing correct library', 'state': 'closed', 'created_at': '2017-08-14T16:23:00Z', 'closed_at': '2017-08-15T05:45:23Z', 'labels': []}
+{'issuenumber': 672, 'title': 'Conditional jump with Valgrind', 'state': 'closed', 'created_at': '2017-08-13T22:15:56Z', 'closed_at': '2017-08-14T09:29:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 671, 'title': 'assertion failure in DestroyImage', 'state': 'closed', 'created_at': '2017-08-13T07:35:35Z', 'closed_at': '2017-08-18T14:44:13Z', 'labels': []}
+{'issuenumber': 670, 'title': 'heap buffer overflow in SFWScan', 'state': 'closed', 'created_at': '2017-08-12T05:12:16Z', 'closed_at': '2017-08-12T08:46:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 669, 'title': 'memory leak in WriteMETAImage', 'state': 'closed', 'created_at': '2017-08-11T02:50:43Z', 'closed_at': '2017-08-11T08:49:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 668, 'title': 'memory leak in WriteMETAImage', 'state': 'closed', 'created_at': '2017-08-11T02:50:00Z', 'closed_at': '2017-08-11T09:24:07Z', 'labels': []}
+{'issuenumber': 667, 'title': 'memory leak in WriteJNGImage', 'state': 'closed', 'created_at': '2017-08-10T16:10:04Z', 'closed_at': '2017-08-18T14:08:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 666, 'title': 'memory leak in WritePCXImage', 'state': 'closed', 'created_at': '2017-08-10T16:09:37Z', 'closed_at': '2017-08-18T14:09:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 665, 'title': 'heap buffer overflow in WriteTIFFImage', 'state': 'closed', 'created_at': '2017-08-10T12:38:21Z', 'closed_at': '2017-08-18T14:44:23Z', 'labels': []}
+{'issuenumber': 664, 'title': 'memory exhaustion in ReadTIFFImage', 'state': 'closed', 'created_at': '2017-08-10T05:00:53Z', 'closed_at': '2017-08-10T11:22:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 663, 'title': 'heap overflow in .omp_outlined..32 (enhance.c)', 'state': 'closed', 'created_at': '2017-08-09T11:02:00Z', 'closed_at': '2017-08-09T14:08:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 662, 'title': 'use after free in DestroyImage', 'state': 'closed', 'created_at': '2017-08-09T08:19:50Z', 'closed_at': '2017-08-09T14:14:57Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 661, 'title': 'Add conda support for ImageMagick', 'state': 'closed', 'created_at': '2017-08-08T05:57:15Z', 'closed_at': '2021-05-27T05:34:24Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 660, 'title': 'memory exhaustion in format8BIM', 'state': 'closed', 'created_at': '2017-08-08T03:28:18Z', 'closed_at': '2017-08-09T04:35:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 659, 'title': 'cpu exhaustion in WritePixelCachePixels', 'state': 'closed', 'created_at': '2017-08-08T01:53:32Z', 'closed_at': '2017-08-09T04:34:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 658, 'title': 'open gif hangs with 100% CPU', 'state': 'closed', 'created_at': '2017-08-07T18:09:50Z', 'closed_at': '2017-08-07T18:16:25Z', 'labels': []}
+{'issuenumber': 657, 'title': 'cpu exhaustion in ReadDXT1', 'state': 'closed', 'created_at': '2017-08-07T06:14:40Z', 'closed_at': '2017-08-07T20:30:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 656, 'title': 'memory exhaustion in  ReadOneLayer', 'state': 'closed', 'created_at': '2017-08-07T01:40:35Z', 'closed_at': '2017-08-07T20:29:51Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 655, 'title': 'convert aborts since 7.0.6-4 with specific options', 'state': 'closed', 'created_at': '2017-08-06T16:22:46Z', 'closed_at': '2017-08-14T17:04:08Z', 'labels': []}
+{'issuenumber': 654, 'title': 'cpu exhaustion in ReadWPGImage', 'state': 'closed', 'created_at': '2017-08-06T13:51:09Z', 'closed_at': '2017-08-07T20:28:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 653, 'title': 'memory exhaustion in ReadVIFFImage', 'state': 'closed', 'created_at': '2017-08-06T06:10:56Z', 'closed_at': '2017-08-07T20:28:05Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 652, 'title': 'memory exhaustion in ReadBMPImage in bmp.c:945', 'state': 'closed', 'created_at': '2017-08-06T05:40:03Z', 'closed_at': '2017-08-07T20:27:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 651, 'title': 'memory exhaustion in ReadBMPImage in bmp.c:932', 'state': 'closed', 'created_at': '2017-08-06T05:38:03Z', 'closed_at': '2017-08-07T20:27:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 650, 'title': 'memory exhaustion in ReadWPGImage', 'state': 'closed', 'created_at': '2017-08-05T17:16:36Z', 'closed_at': '2017-08-07T20:27:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 649, 'title': 'memory leak in ReadXCFImage', 'state': 'closed', 'created_at': '2017-08-05T15:09:44Z', 'closed_at': '2017-08-07T20:26:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 648, 'title': 'memory leak in ReadMATImage', 'state': 'closed', 'created_at': '2017-08-05T14:49:37Z', 'closed_at': '2017-08-07T20:25:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 647, 'title': '[Magick++] border problems', 'state': 'closed', 'created_at': '2017-08-05T10:31:51Z', 'closed_at': '2017-08-15T20:14:43Z', 'labels': []}
+{'issuenumber': 646, 'title': '[magick++] Using RoundCap breaks LineJoins', 'state': 'closed', 'created_at': '2017-08-05T10:09:21Z', 'closed_at': '2017-08-15T20:15:41Z', 'labels': []}
+{'issuenumber': 645, 'title': 'memory exhaustion in ReadPSDImage', 'state': 'closed', 'created_at': '2017-08-04T08:54:55Z', 'closed_at': '2017-08-04T11:42:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 644, 'title': 'memory leak in ReadMATImage', 'state': 'closed', 'created_at': '2017-08-04T08:54:02Z', 'closed_at': '2017-08-04T11:41:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 643, 'title': 'Memory leak in WriteImage', 'state': 'closed', 'created_at': '2017-08-02T12:50:16Z', 'closed_at': '2017-08-02T14:47:49Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 642, 'title': 'Text by path not working', 'state': 'closed', 'created_at': '2017-08-02T06:05:01Z', 'closed_at': '2017-11-04T09:36:23Z', 'labels': {'name': 'upstream'}}
+{'issuenumber': 641, 'title': 'memory exhausted  in ReadWEBPImage', 'state': 'closed', 'created_at': '2017-08-02T05:01:54Z', 'closed_at': '2017-08-02T11:55:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 640, 'title': 'Backport problem', 'state': 'closed', 'created_at': '2017-08-01T20:23:40Z', 'closed_at': '2017-12-31T19:10:09Z', 'labels': []}
+{'issuenumber': 639, 'title': 'memory leak in ReadWEBPImage', 'state': 'closed', 'created_at': '2017-08-01T14:48:29Z', 'closed_at': '2017-08-07T20:24:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 638, 'title': 'Imagemagick.org slow/nonresponsive', 'state': 'closed', 'created_at': '2017-08-01T06:33:19Z', 'closed_at': '2017-08-07T20:24:16Z', 'labels': []}
+{'issuenumber': 637, 'title': 'heap buffer overflow in ResetMagickMemory', 'state': 'closed', 'created_at': '2017-07-31T16:05:17Z', 'closed_at': '2017-08-06T08:50:49Z', 'labels': []}
+{'issuenumber': 636, 'title': 'Memory leaks in WriteMSLImage', 'state': 'closed', 'created_at': '2017-07-31T12:54:49Z', 'closed_at': '2017-08-02T14:48:23Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 634, 'title': 'Memory-Leak  in AcquireSemaphoreMemory MagickCore/semaphore.c:154', 'state': 'closed', 'created_at': '2017-07-30T11:17:53Z', 'closed_at': '2017-08-02T14:49:07Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 633, 'title': 'Memory-Leak in AcquireAlignedMemory MagickCore/memory.c:262', 'state': 'closed', 'created_at': '2017-07-30T11:13:07Z', 'closed_at': '2017-08-02T14:49:27Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 632, 'title': 'Null pointer Dereference in DestroyJNG()', 'state': 'closed', 'created_at': '2017-07-30T07:34:09Z', 'closed_at': '2017-07-30T09:33:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 631, 'title': 'Memory Leak in AcquireImage()', 'state': 'closed', 'created_at': '2017-07-30T07:13:53Z', 'closed_at': '2017-07-30T11:09:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 630, 'title': 'Wrong precision of the Gamma value when converting', 'state': 'closed', 'created_at': '2017-07-29T17:18:38Z', 'closed_at': '2017-07-29T18:21:37Z', 'labels': []}
+{'issuenumber': 629, 'title': 'Heap-buffer-overflow READ in GetImageDepth._omp_fn.2 MagickCore/attribute.c:491', 'state': 'closed', 'created_at': '2017-07-29T12:09:40Z', 'closed_at': '2017-08-07T20:15:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 628, 'title': 'Memory-Leak in in AcquireMagickMemory MagickCore/memory.c:464', 'state': 'closed', 'created_at': '2017-07-29T11:29:45Z', 'closed_at': '2017-07-29T15:38:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 626, 'title': 'Convert frame [n] from YCbCr 4:2:0 to png fails with "Aborted"', 'state': 'closed', 'created_at': '2017-07-28T08:00:08Z', 'closed_at': '2018-11-27T22:06:32Z', 'labels': []}
+{'issuenumber': 625, 'title': "'invalid colormap index' error occurring on opening many animated gifs", 'state': 'closed', 'created_at': '2017-07-27T23:48:37Z', 'closed_at': '2017-07-28T10:15:52Z', 'labels': []}
+{'issuenumber': 624, 'title': 'Memory-Leak in libMagickCore-6.Q16.so.5', 'state': 'closed', 'created_at': '2017-07-27T15:07:41Z', 'closed_at': '2017-07-27T17:30:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 621, 'title': 'bad free in RelinquishMagickMemory', 'state': 'closed', 'created_at': '2017-07-25T11:36:32Z', 'closed_at': '2017-07-25T13:07:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 620, 'title': 'memory leak in ReadPICTImage', 'state': 'closed', 'created_at': '2017-07-25T11:13:37Z', 'closed_at': '2017-07-25T12:18:21Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 619, 'title': 'memory leak in ReadOneMNGImage', 'state': 'closed', 'created_at': '2017-07-25T11:12:37Z', 'closed_at': '2017-07-25T12:19:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 618, 'title': 'memory leak in ReadOneJNGImage', 'state': 'closed', 'created_at': '2017-07-25T11:06:12Z', 'closed_at': '2017-07-25T12:19:30Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 617, 'title': 'memory leak in ReadMATImage', 'state': 'closed', 'created_at': '2017-07-25T11:05:14Z', 'closed_at': '2017-07-25T12:32:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 616, 'title': 'memory leak in ReadImage', 'state': 'closed', 'created_at': '2017-07-25T11:03:39Z', 'closed_at': '2017-07-25T12:50:05Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 615, 'title': 'memory leak in CloneImage', 'state': 'closed', 'created_at': '2017-07-25T11:01:45Z', 'closed_at': '2017-07-25T13:52:00Z', 'labels': []}
+{'issuenumber': 614, 'title': 'memory leak in CloneDrawInfo', 'state': 'closed', 'created_at': '2017-07-25T11:00:21Z', 'closed_at': '2017-10-14T14:15:05Z', 'labels': []}
+{'issuenumber': 613, 'title': 'heap use after free in ReadMATImage', 'state': 'closed', 'created_at': '2017-07-25T10:59:22Z', 'closed_at': '2017-10-14T14:15:22Z', 'labels': []}
+{'issuenumber': 612, 'title': 'YCbCr support for 4:2:0 no longer correct?', 'state': 'closed', 'created_at': '2017-07-25T09:35:19Z', 'closed_at': '2017-07-25T13:08:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 611, 'title': 'vbgbg', 'state': 'closed', 'created_at': '2017-07-24T12:48:12Z', 'closed_at': '2017-07-24T12:58:21Z', 'labels': []}
+{'issuenumber': 610, 'title': 'assertion failed in DestroyImage', 'state': 'closed', 'created_at': '2017-07-24T12:28:48Z', 'closed_at': '2017-07-25T12:19:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 609, 'title': 'cpu exhaustion in deal with svg', 'state': 'closed', 'created_at': '2017-07-24T09:03:26Z', 'closed_at': '2017-07-25T13:08:41Z', 'labels': []}
+{'issuenumber': 608, 'title': 'DrawablePopClipPath() broken for recent IM', 'state': 'closed', 'created_at': '2017-07-24T09:01:11Z', 'closed_at': '2017-07-24T10:51:27Z', 'labels': []}
+{'issuenumber': 606, 'title': 'memory leak during process psd file', 'state': 'closed', 'created_at': '2017-07-24T04:37:34Z', 'closed_at': '2017-07-27T07:42:31Z', 'labels': {'name': 'question'}}
+{'issuenumber': 604, 'title': 'CPU exhaustion in ReadPDBImage', 'state': 'closed', 'created_at': '2017-07-23T15:22:16Z', 'closed_at': '2017-07-23T16:10:49Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 603, 'title': 'memory leak in ReadSVGImage', 'state': 'closed', 'created_at': '2017-07-23T14:04:38Z', 'closed_at': '2017-07-23T16:15:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 602, 'title': 'memory leak in ReadOneJNGImage', 'state': 'closed', 'created_at': '2017-07-23T14:03:16Z', 'closed_at': '2017-07-23T16:11:13Z', 'labels': []}
+{'issuenumber': 601, 'title': 'memory leak in ReadMATImage', 'state': 'closed', 'created_at': '2017-07-23T14:01:17Z', 'closed_at': '2017-07-23T16:14:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 600, 'title': 'memory leak in ReadOnePNGImage', 'state': 'closed', 'created_at': '2017-07-23T13:59:51Z', 'closed_at': '2017-10-14T14:15:45Z', 'labels': []}
+{'issuenumber': 599, 'title': 'memory exhaustion in ReadPSDImage', 'state': 'closed', 'created_at': '2017-07-23T13:57:14Z', 'closed_at': '2017-07-23T16:12:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 598, 'title': 'assertion failed in DestroyImageInfo', 'state': 'closed', 'created_at': '2017-07-23T13:55:02Z', 'closed_at': '2017-07-23T16:14:03Z', 'labels': []}
+{'issuenumber': 597, 'title': 'composite -dissolve does not work', 'state': 'closed', 'created_at': '2017-07-22T01:12:47Z', 'closed_at': '2017-07-22T20:26:14Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 596, 'title': 'Stuck in LockSemaphoreInfo after reading a png with width==MAGICK_WIDTH_LIMIT', 'state': 'closed', 'created_at': '2017-07-21T17:02:55Z', 'closed_at': '2017-07-22T12:33:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 595, 'title': 'Please use talloc lib for avoiding memory leak', 'state': 'closed', 'created_at': '2017-07-21T15:50:48Z', 'closed_at': '2018-07-08T21:47:29Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 594, 'title': 'The "-monochrome" parameter loses all the visible information and gets a full black picture', 'state': 'closed', 'created_at': '2017-07-21T12:51:33Z', 'closed_at': '2017-07-21T14:01:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 593, 'title': 'Installation of imageMagick on AIX (Unix) machine shows error', 'state': 'closed', 'created_at': '2017-07-21T08:45:24Z', 'closed_at': '2018-07-08T21:47:44Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 592, 'title': 'uninitialized image palette in coders/gif.c', 'state': 'closed', 'created_at': '2017-07-21T04:34:43Z', 'closed_at': '2017-07-21T14:15:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 591, 'title': 'endless loop in ReadTXTImage', 'state': 'closed', 'created_at': '2017-07-19T15:25:18Z', 'closed_at': '2017-07-27T07:42:51Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 590, 'title': '"convert -colors 2" gives a single color image', 'state': 'closed', 'created_at': '2017-07-19T12:58:03Z', 'closed_at': '2018-07-08T21:53:55Z', 'labels': []}
+{'issuenumber': 589, 'title': 'ImageMagick-6.9.9-0 hardcodes the pkg-config command in the wrapper scripts', 'state': 'closed', 'created_at': '2017-07-19T10:51:09Z', 'closed_at': '2017-07-19T11:35:47Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 588, 'title': 'Heap-Overflow in GetPixelLuma() MagickCore/pixel-accessor.h', 'state': 'closed', 'created_at': '2017-07-19T02:30:29Z', 'closed_at': '2017-08-22T18:29:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 587, 'title': 'Memory-Leak in ReadMATImage() coders/mat.c', 'state': 'closed', 'created_at': '2017-07-18T18:33:59Z', 'closed_at': '2017-07-19T05:22:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 586, 'title': 'Null-Point reference in WriteOnePNGImage', 'state': 'closed', 'created_at': '2017-07-18T18:31:46Z', 'closed_at': '2017-07-25T12:32:23Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 585, 'title': 'ImageMagick-6.9.9-0 automagic on libraw', 'state': 'closed', 'created_at': '2017-07-18T17:43:34Z', 'closed_at': '2017-07-25T12:20:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 584, 'title': 'Address Access Except in WritePTIFImage() coders/tiff.c', 'state': 'closed', 'created_at': '2017-07-18T16:43:37Z', 'closed_at': '2017-07-18T18:15:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 583, 'title': "Can't get decode delegate when using C++ Api with ImageMagick installed from brew", 'state': 'closed', 'created_at': '2017-07-18T15:52:40Z', 'closed_at': '2018-07-12T18:30:16Z', 'labels': []}
+{'issuenumber': 582, 'title': 'Memory-Leak in ReadOnePNGImage() coders/png.c', 'state': 'closed', 'created_at': '2017-07-18T04:52:17Z', 'closed_at': '2017-07-28T13:09:21Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 581, 'title': 'Heap-Overflow in GetPixelIndex() MagickCore/pixel-accessor.h', 'state': 'closed', 'created_at': '2017-07-18T04:41:54Z', 'closed_at': '2017-07-18T12:27:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 580, 'title': 'Geometry yOff Undefined Symbol', 'state': 'closed', 'created_at': '2017-07-17T21:10:16Z', 'closed_at': '2017-07-17T21:36:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 579, 'title': 'Error: Improper Image header', 'state': 'closed', 'created_at': '2017-07-17T06:52:59Z', 'closed_at': '2017-09-17T11:10:13Z', 'labels': {'name': 'upstream'}}
+{'issuenumber': 578, 'title': 'memory leak in WriteMSLImage', 'state': 'closed', 'created_at': '2017-07-17T04:58:46Z', 'closed_at': '2017-07-18T18:15:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 577, 'title': 'memory leak in WritePICTImage', 'state': 'closed', 'created_at': '2017-07-17T01:38:06Z', 'closed_at': '2017-07-18T05:07:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 576, 'title': 'memory leak in WritePDFImage', 'state': 'closed', 'created_at': '2017-07-17T01:34:17Z', 'closed_at': '2017-07-18T05:08:06Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 575, 'title': 'memory leak in WritePCXImage ', 'state': 'closed', 'created_at': '2017-07-17T01:29:33Z', 'closed_at': '2017-07-18T05:07:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 574, 'title': 'memory leak in WritePALMImage', 'state': 'closed', 'created_at': '2017-07-17T01:25:28Z', 'closed_at': '2017-07-17T20:15:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 573, 'title': 'memory leak in WriteMAPImage', 'state': 'closed', 'created_at': '2017-07-17T01:21:03Z', 'closed_at': '2017-07-17T20:16:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 572, 'title': 'memory leak in WriteINLINEImage', 'state': 'closed', 'created_at': '2017-07-17T00:39:44Z', 'closed_at': '2017-07-17T20:16:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 571, 'title': 'memory leak in WriteCALSImage', 'state': 'closed', 'created_at': '2017-07-17T00:25:46Z', 'closed_at': '2017-07-17T20:15:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 570, 'title': 'Memory-Leak in WriteXImage() coders/x.c:', 'state': 'closed', 'created_at': '2017-07-16T18:43:06Z', 'closed_at': '2017-07-17T02:13:48Z', 'labels': []}
+{'issuenumber': 569, 'title': 'Memory-Leak in WriteOnePNGImage() coders/png.c', 'state': 'closed', 'created_at': '2017-07-16T18:42:01Z', 'closed_at': '2017-07-16T23:35:14Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 568, 'title': 'Memory-Leak in ReadPWPImage() coders/pwp.c', 'state': 'closed', 'created_at': '2017-07-16T18:40:43Z', 'closed_at': '2017-07-18T18:16:10Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 567, 'title': 'Memory-Leak in WriteJP2Image() coders/jp2.c', 'state': 'closed', 'created_at': '2017-07-16T18:37:29Z', 'closed_at': '2017-07-16T23:34:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 566, 'title': 'Memory-Leak in WriteHISTOGRAMImage() coders/histogram.c', 'state': 'closed', 'created_at': '2017-07-16T18:36:27Z', 'closed_at': '2017-07-17T10:05:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 565, 'title': 'Memory-Leak in ReadTTFImage() coders/ttf.c', 'state': 'closed', 'created_at': '2017-07-16T18:33:34Z', 'closed_at': '2017-07-17T02:14:00Z', 'labels': []}
+{'issuenumber': 564, 'title': 'Memory-Leak in lite_font_map() coders/wmf.c', 'state': 'closed', 'created_at': '2017-07-16T18:31:52Z', 'closed_at': '2017-07-16T23:36:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 563, 'title': 'Memory Leak in WriteMPCImage()', 'state': 'closed', 'created_at': '2017-07-16T15:36:17Z', 'closed_at': '2017-07-24T05:17:23Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 562, 'title': 'heap-overflow in WriteUILImage()', 'state': 'closed', 'created_at': '2017-07-16T13:53:44Z', 'closed_at': '2017-07-16T23:35:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 561, 'title': 'heap-overflow in GetPixelAlpha()', 'state': 'closed', 'created_at': '2017-07-16T13:52:32Z', 'closed_at': '2017-07-16T23:35:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 560, 'title': 'Crash in ImageMagick write palm format image', 'state': 'closed', 'created_at': '2017-07-16T13:49:58Z', 'closed_at': '2017-07-16T18:03:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 559, 'title': 'Regression with DICOM handling', 'state': 'closed', 'created_at': '2017-07-14T18:27:12Z', 'closed_at': '2017-07-17T20:17:02Z', 'labels': {'name': 'question'}}
+{'issuenumber': 558, 'title': 'dds:mipmaps is slow', 'state': 'closed', 'created_at': '2017-07-11T18:25:29Z', 'closed_at': '2017-08-11T14:34:40Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 557, 'title': 'MP3s with Album Thumbnail are Treated as PNM ', 'state': 'closed', 'created_at': '2017-07-10T15:27:40Z', 'closed_at': '2017-07-11T05:18:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 556, 'title': 'Comment about commit https://github.com/ImageMagick/ImageMagick/commit/1737ac82b335e53376382c07b9a500d73dd2aa11', 'state': 'closed', 'created_at': '2017-07-09T21:57:23Z', 'closed_at': '2017-07-11T19:39:36Z', 'labels': {'name': 'question'}}
+{'issuenumber': 555, 'title': 'use after free in ReadWMFImage', 'state': 'closed', 'created_at': '2017-07-09T10:38:14Z', 'closed_at': '2017-07-09T13:35:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 554, 'title': 'memory exhaustion in ReadTIFFImage', 'state': 'closed', 'created_at': '2017-07-09T05:03:13Z', 'closed_at': '2017-09-15T19:31:08Z', 'labels': {'name': 'upstream'}}
+{'issuenumber': 553, 'title': 'memory leak in ReadMATImage', 'state': 'closed', 'created_at': '2017-07-09T01:50:39Z', 'closed_at': '2017-07-09T12:43:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 552, 'title': 'memory leak in ReadMPCImage ', 'state': 'closed', 'created_at': '2017-07-09T01:39:20Z', 'closed_at': '2017-07-09T12:45:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 551, 'title': 'memory leak in ReadDCMImage', 'state': 'closed', 'created_at': '2017-07-09T01:35:51Z', 'closed_at': '2017-07-09T12:44:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 550, 'title': 'memory leak in ReadOneJNGImage', 'state': 'closed', 'created_at': '2017-07-08T13:35:29Z', 'closed_at': '2017-07-09T07:08:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 549, 'title': 'memory exhaustion in ReadOneJNGImage in png.c', 'state': 'closed', 'created_at': '2017-07-08T09:08:24Z', 'closed_at': '2017-07-08T13:39:14Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 548, 'title': 'memory leak in ResizeMagickMemory', 'state': 'closed', 'created_at': '2017-07-07T08:25:15Z', 'closed_at': '2017-07-07T11:30:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 547, 'title': 'assertion failed in DestroyImageInfo', 'state': 'closed', 'created_at': '2017-07-06T11:50:17Z', 'closed_at': '2017-07-06T12:18:06Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 546, 'title': 'memory exhaustion in ReadMPCImage', 'state': 'closed', 'created_at': '2017-07-06T08:47:57Z', 'closed_at': '2017-07-06T12:18:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 545, 'title': 'memory exhaustion in ReadMIFFImage', 'state': 'closed', 'created_at': '2017-07-06T08:25:31Z', 'closed_at': '2017-07-06T12:19:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 544, 'title': 'memory leak in CloneDrawInfo', 'state': 'closed', 'created_at': '2017-07-06T05:33:05Z', 'closed_at': '2017-07-06T12:22:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 543, 'title': 'memory exhaustion in ReadSUNImage', 'state': 'closed', 'created_at': '2017-07-05T16:49:29Z', 'closed_at': '2017-07-05T20:45:05Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 542, 'title': 'heap buffer overflow in ReadOneMNGImage', 'state': 'closed', 'created_at': '2017-07-05T02:32:19Z', 'closed_at': '2017-07-07T05:09:58Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 541, 'title': 'heap-buffer-overflow of identify&convert', 'state': 'closed', 'created_at': '2017-07-04T16:39:41Z', 'closed_at': '2017-07-06T17:36:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 540, 'title': 'heap buffer overflow of identify& convert', 'state': 'closed', 'created_at': '2017-07-04T16:36:21Z', 'closed_at': '2017-07-06T17:36:21Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 539, 'title': 'Heap-buffer-overflow of identify&convert', 'state': 'closed', 'created_at': '2017-07-04T16:34:09Z', 'closed_at': '2017-07-05T04:56:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 538, 'title': 'imagemagick identify&convert heap-buffer-overflow ', 'state': 'closed', 'created_at': '2017-07-04T16:32:12Z', 'closed_at': '2017-07-06T16:31:30Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 537, 'title': 'endless loop in ReadPESImage', 'state': 'closed', 'created_at': '2017-07-04T15:25:07Z', 'closed_at': '2017-07-04T18:46:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 536, 'title': 'memory exhaustion in ReadPCXImage', 'state': 'closed', 'created_at': '2017-07-04T14:29:43Z', 'closed_at': '2017-07-04T18:09:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 535, 'title': 'large loop  in ReadPWPImage with no meaning', 'state': 'closed', 'created_at': '2017-07-04T13:45:58Z', 'closed_at': '2017-07-04T15:55:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 534, 'title': 'Does "gitversion" exist as an executable command for a UNIX shell interpreter?', 'state': 'closed', 'created_at': '2017-07-03T20:20:52Z', 'closed_at': '2017-07-06T17:36:58Z', 'labels': []}
+{'issuenumber': 533, 'title': 'memory exhaustion in ReadDCMImage', 'state': 'closed', 'created_at': '2017-06-29T14:36:38Z', 'closed_at': '2017-06-29T18:22:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 532, 'title': '+clip should remove mask from WritePixelMask and not ReadPixelMask ?', 'state': 'closed', 'created_at': '2017-06-28T11:19:06Z', 'closed_at': '2017-07-02T16:35:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 531, 'title': 'PNG: convert fails with "invalid chunk type"', 'state': 'closed', 'created_at': '2017-06-28T10:57:02Z', 'closed_at': '2017-07-02T16:41:46Z', 'labels': []}
+{'issuenumber': 530, 'title': 'In Memory Processing', 'state': 'closed', 'created_at': '2017-06-27T19:35:39Z', 'closed_at': '2017-07-01T23:53:46Z', 'labels': {'name': 'question'}}
+{'issuenumber': 529, 'title': 'Resource files in static libraries on Windows lead to LNK1241 error', 'state': 'closed', 'created_at': '2017-06-27T12:09:33Z', 'closed_at': '2017-07-10T11:59:21Z', 'labels': []}
+{'issuenumber': 528, 'title': 'CPU exhaustion in ReadOneDJVUImage', 'state': 'closed', 'created_at': '2017-06-24T15:03:00Z', 'closed_at': '2017-07-02T16:32:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 527, 'title': 'CPU exhaustion in ReadOneMNGImage', 'state': 'closed', 'created_at': '2017-06-24T14:55:35Z', 'closed_at': '2017-07-02T16:32:30Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 526, 'title': 'CPU exhaustion in ReadOneJNGImage', 'state': 'closed', 'created_at': '2017-06-24T14:52:00Z', 'closed_at': '2017-07-02T16:32:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 525, 'title': 'memory leak in ReadMATImage in mat.c', 'state': 'closed', 'created_at': '2017-06-24T14:17:50Z', 'closed_at': '2017-06-24T15:46:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 524, 'title': 'memory exhaustion in ReadEPTImage in ept.c', 'state': 'closed', 'created_at': '2017-06-24T09:13:22Z', 'closed_at': '2017-06-24T15:46:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 523, 'title': 'memory exhaustion in ReadDPXImage in dpx.c', 'state': 'closed', 'created_at': '2017-06-24T08:40:41Z', 'closed_at': '2017-06-24T15:45:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 522, 'title': 'memory leak in ReadDIBImage in dib.c', 'state': 'closed', 'created_at': '2017-06-24T07:54:37Z', 'closed_at': '2017-06-24T15:43:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 520, 'title': 'Downscale (with FILTER_CUBIC) looks worse in 7.0.5-4 than in 6.9.4-0', 'state': 'closed', 'created_at': '2017-06-23T17:00:38Z', 'closed_at': '2017-06-26T15:54:14Z', 'labels': {'name': 'question'}}
+{'issuenumber': 519, 'title': 'memory exhaustion in ReadCINImage', 'state': 'closed', 'created_at': '2017-06-23T11:55:45Z', 'closed_at': '2017-06-23T21:25:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 518, 'title': 'CPU exhaustion in ReadRLEImage', 'state': 'closed', 'created_at': '2017-06-22T15:26:04Z', 'closed_at': '2017-06-23T21:27:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 517, 'title': 'memory leak in  read_user_chunk_callback in png.c', 'state': 'closed', 'created_at': '2017-06-22T03:21:28Z', 'closed_at': '2017-06-24T15:44:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 515, 'title': 'ImageMagick from source on macOS 10.12 Sierra FAIL', 'state': 'closed', 'created_at': '2017-06-20T09:01:02Z', 'closed_at': '2017-06-23T21:26:45Z', 'labels': []}
+{'issuenumber': 514, 'title': "Caught exception: Magick: UnableToOpenFile 'C:/Users/ubaid/AppData/Local/Temp/ma gick-50688gZyU9cXTX7MK': No such file or directory @ error/constitute.c/ReadImag e/549", 'state': 'closed', 'created_at': '2017-06-14T18:42:24Z', 'closed_at': '2017-09-15T20:03:40Z', 'labels': []}
+{'issuenumber': 513, 'title': '[Windows, VisualMagick] Please add /source-charset:utf-8 to compiler options', 'state': 'closed', 'created_at': '2017-06-14T10:26:43Z', 'closed_at': '2017-06-15T09:30:37Z', 'labels': []}
+{'issuenumber': 512, 'title': 'Crash in Imf_2_2::OpaqueAttribute::readValueFrom()', 'state': 'closed', 'created_at': '2017-06-13T11:52:28Z', 'closed_at': '2017-07-05T16:44:12Z', 'labels': []}
+{'issuenumber': 511, 'title': 'Different behaviour between PNG24 and PNG32 when using transparency mask', 'state': 'closed', 'created_at': '2017-06-13T06:51:06Z', 'closed_at': '2017-06-14T15:17:05Z', 'labels': {'name': 'question'}}
+{'issuenumber': 510, 'title': 'API/ABI problem', 'state': 'closed', 'created_at': '2017-06-12T10:40:10Z', 'closed_at': '2017-08-02T14:40:28Z', 'labels': []}
+{'issuenumber': 509, 'title': 'CPU exhaustion in ReadDPXImage', 'state': 'closed', 'created_at': '2017-06-08T12:27:43Z', 'closed_at': '2017-06-08T13:22:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 508, 'title': 'not modified alpha', 'state': 'closed', 'created_at': '2017-06-07T13:50:36Z', 'closed_at': '2017-06-08T11:28:16Z', 'labels': {'name': 'question'}}
+{'issuenumber': 507, 'title': 'Support for HEIF', 'state': 'closed', 'created_at': '2017-06-06T09:09:00Z', 'closed_at': '2018-02-17T13:42:14Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 506, 'title': 'assertion failed in WriteBlob', 'state': 'closed', 'created_at': '2017-06-04T10:19:05Z', 'closed_at': '2017-07-02T16:36:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 505, 'title': 'logical conditions always false ', 'state': 'closed', 'created_at': '2017-06-01T16:11:10Z', 'closed_at': '2017-07-02T16:37:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 504, 'title': '-draw in alpha', 'state': 'closed', 'created_at': '2017-05-31T13:32:20Z', 'closed_at': '2017-07-02T16:36:07Z', 'labels': {'name': 'question'}}
+{'issuenumber': 503, 'title': '-region not working', 'state': 'closed', 'created_at': '2017-05-31T08:53:40Z', 'closed_at': '2017-09-15T19:30:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 502, 'title': 'rle.c: operand/opcode variables copy & paste confusion in latest commit', 'state': 'closed', 'created_at': '2017-05-31T08:24:16Z', 'closed_at': '2017-07-02T16:37:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 501, 'title': 'Failed tests with 6.9.8-7 and 7.0.5-8 (openjpeg2)', 'state': 'closed', 'created_at': '2017-05-28T06:09:07Z', 'closed_at': '2017-05-28T18:33:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 500, 'title': 'assertion failed in ResetImageProfileIterator', 'state': 'closed', 'created_at': '2017-05-23T17:06:00Z', 'closed_at': '2017-05-24T21:22:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 499, 'title': 'allocation failed in AcquireMagickMemory', 'state': 'closed', 'created_at': '2017-05-23T17:04:58Z', 'closed_at': '2017-05-31T05:20:50Z', 'labels': []}
+{'issuenumber': 498, 'title': 'allocation failed in AcquireAlignedMemory', 'state': 'closed', 'created_at': '2017-05-23T17:03:35Z', 'closed_at': '2017-06-04T10:01:48Z', 'labels': []}
+{'issuenumber': 497, 'title': 'Imagick segfault on Alpine Linux (--without-threads)', 'state': 'closed', 'created_at': '2017-05-22T10:14:53Z', 'closed_at': '2017-05-24T21:27:51Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 496, 'title': 'Divide_by_zero in CORE_RL_openjpeg_!opj_write_tile+0x29fb', 'state': 'closed', 'created_at': '2017-05-20T12:03:50Z', 'closed_at': '2017-05-24T21:27:31Z', 'labels': []}
+{'issuenumber': 495, 'title': 'Null_pointer_deference in IM_MOD_RL_jp2_.dll', 'state': 'closed', 'created_at': '2017-05-20T11:44:57Z', 'closed_at': '2017-05-24T21:26:09Z', 'labels': []}
+{'issuenumber': 494, 'title': 'Installation of png delegate on Redhat 6.5 (Santiago) 64bit.', 'state': 'closed', 'created_at': '2017-05-17T21:43:15Z', 'closed_at': '2017-05-20T12:40:31Z', 'labels': []}
+{'issuenumber': 493, 'title': 'Sometimes float_t is long double, causes linking error', 'state': 'closed', 'created_at': '2017-05-16T14:37:38Z', 'closed_at': '2017-07-28T21:48:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 492, 'title': 'assertion failed in SetPixelChannelAttributes', 'state': 'closed', 'created_at': '2017-05-15T18:14:47Z', 'closed_at': '2017-05-15T20:23:44Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 491, 'title': 'assertion failed in LockSemaphoreInfo', 'state': 'closed', 'created_at': '2017-05-15T18:14:07Z', 'closed_at': '2017-05-15T20:23:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 490, 'title': 'assertion failed in WriteBlob', 'state': 'closed', 'created_at': '2017-05-15T18:12:54Z', 'closed_at': '2017-05-15T20:23:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 489, 'title': 'assertion failed in ResetImageProfileIterator', 'state': 'closed', 'created_at': '2017-05-15T18:11:32Z', 'closed_at': '2017-05-15T20:23:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 488, 'title': 'Leaving directory', 'state': 'closed', 'created_at': '2017-05-15T05:33:28Z', 'closed_at': '2017-09-15T19:30:31Z', 'labels': []}
+{'issuenumber': 487, 'title': 'I Want Use ImageMagick  like image codec for my program ', 'state': 'closed', 'created_at': '2017-05-14T20:07:58Z', 'closed_at': '2018-07-08T21:47:55Z', 'labels': []}
+{'issuenumber': 482, 'title': 'Windows 10 saying ImageMagick contains a virus', 'state': 'closed', 'created_at': '2017-05-09T09:30:12Z', 'closed_at': '2017-10-14T14:16:20Z', 'labels': []}
+{'issuenumber': 481, 'title': 'Hard work to build library for mac app ', 'state': 'closed', 'created_at': '2017-05-08T09:10:43Z', 'closed_at': '2017-09-15T19:27:18Z', 'labels': []}
+{'issuenumber': 479, 'title': 'Incorrect result when converting multiple jpg files to a single pdf', 'state': 'closed', 'created_at': '2017-05-07T13:46:08Z', 'closed_at': '2017-05-08T20:40:34Z', 'labels': []}
+{'issuenumber': 478, 'title': 'DrawSetTextInterwordSpacing bogus code', 'state': 'closed', 'created_at': '2017-05-07T12:49:56Z', 'closed_at': '2017-05-07T14:30:30Z', 'labels': []}
+{'issuenumber': 476, 'title': 'memory leak in ReadMNGImage', 'state': 'closed', 'created_at': '2017-05-06T07:37:11Z', 'closed_at': '2017-05-07T10:46:42Z', 'labels': []}
+{'issuenumber': 475, 'title': 'memory leak in ReadJNGImage', 'state': 'closed', 'created_at': '2017-05-06T07:35:38Z', 'closed_at': '2017-05-07T10:17:57Z', 'labels': []}
+{'issuenumber': 474, 'title': 'memory leak in ReadMATImage ', 'state': 'closed', 'created_at': '2017-05-06T07:33:53Z', 'closed_at': '2017-07-06T16:05:52Z', 'labels': []}
+{'issuenumber': 473, 'title': 'memory leak in ReadMATImage', 'state': 'closed', 'created_at': '2017-05-06T07:32:11Z', 'closed_at': '2017-07-06T16:05:23Z', 'labels': []}
+{'issuenumber': 472, 'title': 'memory exhaustion in ReadTGAImage', 'state': 'closed', 'created_at': '2017-05-04T06:35:56Z', 'closed_at': '2017-05-08T07:04:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 471, 'title': 'memory exhaustion in ReadXWDImage', 'state': 'closed', 'created_at': '2017-05-04T03:37:12Z', 'closed_at': '2017-05-07T09:14:00Z', 'labels': []}
+{'issuenumber': 470, 'title': 'memory exhaustion in ReadVIFFImage ', 'state': 'closed', 'created_at': '2017-05-04T03:34:45Z', 'closed_at': '2017-05-04T05:24:06Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 469, 'title': 'memory exhaustion in ReadMATImage', 'state': 'closed', 'created_at': '2017-05-04T03:33:33Z', 'closed_at': '2017-05-07T09:13:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 468, 'title': 'memory exhaustion in ReadBMPImage', 'state': 'closed', 'created_at': '2017-05-04T03:30:34Z', 'closed_at': '2017-05-04T05:20:53Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 467, 'title': 'memory leak in ReadBMPImage', 'state': 'closed', 'created_at': '2017-05-03T10:52:09Z', 'closed_at': '2017-05-07T09:23:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 466, 'title': 'memory exhaustion in ReadICONImage', 'state': 'closed', 'created_at': '2017-05-03T08:36:29Z', 'closed_at': '2017-05-07T08:59:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 465, 'title': 'Recursive calls are too deep to cause stack overflow in WriteMPEGImage', 'state': 'closed', 'created_at': '2017-05-03T05:08:08Z', 'closed_at': '2017-09-15T19:26:31Z', 'labels': []}
+{'issuenumber': 464, 'title': "-fuzz doesn't seem to do anything for a gif", 'state': 'closed', 'created_at': '2017-04-29T05:09:23Z', 'closed_at': '2017-04-29T16:48:55Z', 'labels': []}
+{'issuenumber': 463, 'title': 'Converting a jpeg through png to pdf produces a broken pdf. `PDF14 device push/pop out of sync`', 'state': 'closed', 'created_at': '2017-04-28T09:17:27Z', 'closed_at': '2017-05-08T20:33:25Z', 'labels': []}
+{'issuenumber': 462, 'title': 'memory leak in ReadPSDChannel ', 'state': 'closed', 'created_at': '2017-04-28T04:10:28Z', 'closed_at': '2017-05-07T07:56:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 461, 'title': 'memory leak in ReadOnePNGImage ', 'state': 'closed', 'created_at': '2017-04-28T04:03:29Z', 'closed_at': '2017-09-18T09:55:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 460, 'title': 'memory leak in ReadPDBImage ', 'state': 'closed', 'created_at': '2017-04-28T04:02:49Z', 'closed_at': '2017-05-07T07:56:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 459, 'title': 'memory leak in ReadPALMImage ', 'state': 'closed', 'created_at': '2017-04-28T04:02:12Z', 'closed_at': '2017-05-07T08:04:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 458, 'title': 'memory leak in ReadMPCImage ', 'state': 'closed', 'created_at': '2017-04-28T04:01:21Z', 'closed_at': '2017-05-07T08:04:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 457, 'title': 'memory leak in ReadICONImage', 'state': 'closed', 'created_at': '2017-04-28T04:00:47Z', 'closed_at': '2017-05-07T08:04:37Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 456, 'title': 'memory leak in ReadARTImage ', 'state': 'closed', 'created_at': '2017-04-28T03:59:26Z', 'closed_at': '2017-05-07T08:04:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 455, 'title': '32 bit per channel PSD files', 'state': 'closed', 'created_at': '2017-04-27T14:08:15Z', 'closed_at': '2020-06-21T08:47:44Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 454, 'title': 'memory leak in ReadPICTImage', 'state': 'closed', 'created_at': '2017-04-26T16:51:22Z', 'closed_at': '2017-05-07T08:03:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 453, 'title': 'memory leak in ReadEPTImage', 'state': 'closed', 'created_at': '2017-04-26T16:50:06Z', 'closed_at': '2017-05-07T08:03:22Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 452, 'title': 'memory leak in ReadXWDImage', 'state': 'closed', 'created_at': '2017-04-26T16:49:26Z', 'closed_at': '2017-05-07T07:57:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 451, 'title': 'memory leak in ReadBMPImage', 'state': 'closed', 'created_at': '2017-04-26T16:48:51Z', 'closed_at': '2017-05-07T07:57:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 450, 'title': 'memory leak in ReadMTVImage', 'state': 'closed', 'created_at': '2017-04-26T16:47:58Z', 'closed_at': '2017-05-07T07:57:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 449, 'title': 'memory leak in ReadSUNImage', 'state': 'closed', 'created_at': '2017-04-26T16:47:10Z', 'closed_at': '2017-05-07T07:57:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 448, 'title': 'memory leak in ReadPCDImage', 'state': 'closed', 'created_at': '2017-04-26T16:46:15Z', 'closed_at': '2017-05-07T07:57:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 447, 'title': 'memory leak in ReadJNGImage', 'state': 'closed', 'created_at': '2017-04-26T16:45:21Z', 'closed_at': '2017-05-07T07:57:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 446, 'title': 'memory leak in ReadPCXImage', 'state': 'closed', 'created_at': '2017-04-26T16:44:19Z', 'closed_at': '2017-05-07T08:03:14Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 445, 'title': 'memory leak in ReadMATImage', 'state': 'closed', 'created_at': '2017-04-26T16:43:24Z', 'closed_at': '2017-05-07T07:58:49Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 444, 'title': 'memory leak in ReadAAIImage', 'state': 'closed', 'created_at': '2017-04-26T16:41:24Z', 'closed_at': '2017-05-07T07:58:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 443, 'title': 'memory leak in ReadSFWImage', 'state': 'closed', 'created_at': '2017-04-26T16:40:36Z', 'closed_at': '2017-05-07T07:58:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 442, 'title': 'memory leak in ReadMNGImage', 'state': 'closed', 'created_at': '2017-04-26T16:39:50Z', 'closed_at': '2017-05-07T07:58:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 441, 'title': 'memory leak in ReadEXRImage', 'state': 'closed', 'created_at': '2017-04-26T16:39:00Z', 'closed_at': '2017-05-07T07:58:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 440, 'title': 'memory leak in ReadDCMImage', 'state': 'closed', 'created_at': '2017-04-26T16:37:18Z', 'closed_at': '2017-05-07T07:56:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 439, 'title': '7.0.5-5 testsuite fails here', 'state': 'closed', 'created_at': '2017-04-26T14:37:09Z', 'closed_at': '2017-05-10T08:31:02Z', 'labels': []}
+{'issuenumber': 438, 'title': 'Converting to Grayscale behaves differently based on OS', 'state': 'closed', 'created_at': '2017-04-20T11:09:00Z', 'closed_at': '2017-04-24T04:50:10Z', 'labels': []}
+{'issuenumber': 437, 'title': 'Mac Os ImageMagick 7.0.5-3 Q16 font list broken', 'state': 'closed', 'created_at': '2017-04-20T08:19:05Z', 'closed_at': '2018-11-27T22:05:29Z', 'labels': []}
+{'issuenumber': 435, 'title': 'No such file or directory @ error/constitute.c/ReadImage/583', 'state': 'closed', 'created_at': '2017-04-19T14:43:04Z', 'closed_at': '2017-09-16T08:19:38Z', 'labels': []}
+{'issuenumber': 434, 'title': 'About memory and CPU', 'state': 'closed', 'created_at': '2017-04-19T10:31:13Z', 'closed_at': '2017-07-02T16:42:05Z', 'labels': {'name': 'question'}}
+{'issuenumber': 433, 'title': '  Software no response', 'state': 'closed', 'created_at': '2017-04-19T02:40:36Z', 'closed_at': '2017-04-19T10:29:13Z', 'labels': []}
+{'issuenumber': 432, 'title': 'Height dimension sometimes smaller than width, when cropping to square', 'state': 'closed', 'created_at': '2017-04-18T22:16:23Z', 'closed_at': '2017-04-20T20:03:47Z', 'labels': []}
+{'issuenumber': 431, 'title': 'identify does not recognize Color Spaces properly ', 'state': 'closed', 'created_at': '2017-04-17T16:08:32Z', 'closed_at': '2018-11-28T06:59:39Z', 'labels': []}
+{'issuenumber': 430, 'title': 'Missing images on forum discussions', 'state': 'closed', 'created_at': '2017-04-17T15:52:49Z', 'closed_at': '2017-09-15T19:24:30Z', 'labels': []}
+{'issuenumber': 429, 'title': 'memory leak in avs', 'state': 'closed', 'created_at': '2017-04-17T15:34:50Z', 'closed_at': '2017-04-22T16:44:00Z', 'labels': []}
+{'issuenumber': 428, 'title': 'memory leak in sgi', 'state': 'closed', 'created_at': '2017-04-17T15:34:24Z', 'closed_at': '2017-04-22T16:43:36Z', 'labels': []}
+{'issuenumber': 427, 'title': 'memory leak in svg', 'state': 'closed', 'created_at': '2017-04-17T15:33:26Z', 'closed_at': '2017-04-22T16:44:14Z', 'labels': []}
+{'issuenumber': 426, 'title': 'Convert colorspace back to original, color preservation', 'state': 'closed', 'created_at': '2017-04-15T12:46:16Z', 'closed_at': '2017-09-15T20:07:43Z', 'labels': []}
+{'issuenumber': 424, 'title': '84/86 Testsuite', 'state': 'closed', 'created_at': '2017-04-14T10:43:13Z', 'closed_at': '2017-09-15T19:20:17Z', 'labels': []}
+{'issuenumber': 423, 'title': 'problem in installing ImageMagick', 'state': 'closed', 'created_at': '2017-04-11T07:50:56Z', 'closed_at': '2017-09-15T19:20:12Z', 'labels': []}
+{'issuenumber': 422, 'title': 'move ffmpeg out of the Windows path', 'state': 'closed', 'created_at': '2017-04-10T02:04:23Z', 'closed_at': '2017-05-10T21:30:25Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 421, 'title': 'Assertion failed: (!scaled_font->cache_frozen), function _cairo_scaled_glyph_page_destroy, file cairo-scaled-font.c, line 459.', 'state': 'closed', 'created_at': '2017-04-08T13:47:57Z', 'closed_at': '2017-10-08T16:09:18Z', 'labels': []}
+{'issuenumber': 419, 'title': 'how to support cocoa app ???', 'state': 'closed', 'created_at': '2017-04-04T23:50:48Z', 'closed_at': '2017-09-15T19:19:21Z', 'labels': []}
+{'issuenumber': 418, 'title': '`coders/yuv.c` compilation produces a `-Wfor-loop-analysis` warning.', 'state': 'closed', 'created_at': '2017-04-03T16:16:21Z', 'closed_at': '2017-04-04T16:21:34Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 417, 'title': 'PDF converted from an icc-profiled raster images should use `/ColorSpace /ICCBased`', 'state': 'closed', 'created_at': '2017-04-02T10:45:06Z', 'closed_at': '2017-04-04T16:25:05Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 415, 'title': 'undefined behavior in coders/rle.c:274', 'state': 'closed', 'created_at': '2017-03-31T16:36:36Z', 'closed_at': '2017-05-08T20:58:24Z', 'labels': []}
+{'issuenumber': 414, 'title': 'Compare CLI tool no longer works', 'state': 'closed', 'created_at': '2017-03-29T18:21:53Z', 'closed_at': '2017-03-29T18:28:27Z', 'labels': []}
+{'issuenumber': 412, 'title': "black-and-white picture couldn't convert. ( picture just goes blank.)", 'state': 'closed', 'created_at': '2017-03-29T15:30:22Z', 'closed_at': '2018-07-08T21:50:15Z', 'labels': []}
+{'issuenumber': 411, 'title': 'How to create optimised and progressive Images (JPG, PNG)', 'state': 'closed', 'created_at': '2017-03-28T13:00:13Z', 'closed_at': '2017-03-31T21:55:29Z', 'labels': []}
+{'issuenumber': 410, 'title': 'Cannot clone official Git repository', 'state': 'closed', 'created_at': '2017-03-27T22:22:24Z', 'closed_at': '2017-03-27T22:47:47Z', 'labels': []}
+{'issuenumber': 409, 'title': 'compare reports large differences between equivalent ISO/IEC 15444-4 reference images', 'state': 'closed', 'created_at': '2017-03-24T14:31:59Z', 'closed_at': '2018-07-08T14:32:27Z', 'labels': []}
+{'issuenumber': 407, 'title': 'enable-zero-configuration and policy.xml', 'state': 'closed', 'created_at': '2017-03-21T11:33:05Z', 'closed_at': '2017-06-12T10:49:08Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 406, 'title': 'PHP imagesMagick not work with Unicode characters', 'state': 'closed', 'created_at': '2017-03-19T17:27:45Z', 'closed_at': '2017-04-07T09:27:39Z', 'labels': []}
+{'issuenumber': 405, 'title': 'No Lossless, Custom Lossy WebP Support in ImageMagick 7.0.x on macOS', 'state': 'closed', 'created_at': '2017-03-17T22:04:44Z', 'closed_at': '2018-04-25T09:59:22Z', 'labels': {'name': 'upstream'}}
+{'issuenumber': 404, 'title': "PDFDelegateFailed with some PDF's", 'state': 'closed', 'created_at': '2017-03-17T14:54:35Z', 'closed_at': '2017-03-17T15:21:45Z', 'labels': []}
+{'issuenumber': 403, 'title': 'Implement Guetzli lossy compression for JPEG?', 'state': 'closed', 'created_at': '2017-03-17T04:07:44Z', 'closed_at': '2017-03-20T01:58:32Z', 'labels': []}
+{'issuenumber': 402, 'title': 'median filter is very slow (175 times slower than OpenCV for 3357\u2006×\u20063000 image)', 'state': 'closed', 'created_at': '2017-03-15T14:46:00Z', 'closed_at': '2017-09-15T19:13:34Z', 'labels': []}
+{'issuenumber': 401, 'title': 'cHRM-to-profile is not implemented', 'state': 'closed', 'created_at': '2017-03-13T10:32:46Z', 'closed_at': '2017-12-31T19:23:07Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 400, 'title': 'How should I deal with SIGBUS', 'state': 'closed', 'created_at': '2017-03-10T15:39:45Z', 'closed_at': '2017-10-02T10:32:09Z', 'labels': []}
+{'issuenumber': 399, 'title': 'Changing temp folder used by imagemagick?', 'state': 'closed', 'created_at': '2017-03-10T10:53:14Z', 'closed_at': '2017-09-18T09:55:37Z', 'labels': {'name': 'question'}}
+{'issuenumber': 398, 'title': 'Issue/Question: Command failed: convert.im6: delegate failed html2ps + no image defined', 'state': 'closed', 'created_at': '2017-03-10T10:40:08Z', 'closed_at': '2017-09-18T09:55:49Z', 'labels': []}
+{'issuenumber': 397, 'title': 'CacheFatalError.This error will make my process crash', 'state': 'closed', 'created_at': '2017-03-10T06:48:57Z', 'closed_at': '2018-07-08T14:32:00Z', 'labels': []}
+{'issuenumber': 396, 'title': 'Memory issues', 'state': 'closed', 'created_at': '2017-03-08T11:26:37Z', 'closed_at': '2017-03-16T09:51:57Z', 'labels': []}
+{'issuenumber': 395, 'title': 'ImageMagick creates huge temporary files', 'state': 'closed', 'created_at': '2017-03-07T15:53:00Z', 'closed_at': '2017-09-15T19:02:33Z', 'labels': []}
+{'issuenumber': 394, 'title': 'Policy.xml - Reordering of policies causes aberrant behaviour', 'state': 'closed', 'created_at': '2017-03-03T10:12:02Z', 'closed_at': '2017-09-15T19:01:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 393, 'title': "CPU Throttle value doesn't change", 'state': 'closed', 'created_at': '2017-03-03T07:35:09Z', 'closed_at': '2017-09-15T19:01:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 392, 'title': 'How to disable DPC feature?', 'state': 'closed', 'created_at': '2017-03-03T06:21:24Z', 'closed_at': '2017-09-15T18:59:43Z', 'labels': []}
+{'issuenumber': 391, 'title': 'Heap out-of-bounds read in tiff.c (CVE-2017-6335)', 'state': 'closed', 'created_at': '2017-03-02T00:40:41Z', 'closed_at': '2017-12-31T19:25:11Z', 'labels': []}
+{'issuenumber': 389, 'title': "[Bug] Don't delete old values of PATH after Chocolatey upgrade", 'state': 'closed', 'created_at': '2017-02-26T05:52:54Z', 'closed_at': '2017-09-17T10:33:49Z', 'labels': []}
+{'issuenumber': 388, 'title': 'MagickCLI', 'state': 'closed', 'created_at': '2017-02-24T18:26:54Z', 'closed_at': '2017-02-24T19:13:55Z', 'labels': []}
+{'issuenumber': 387, 'title': 'Bug: Strange image degradation when using imagick module', 'state': 'closed', 'created_at': '2017-02-22T12:51:54Z', 'closed_at': '2017-02-22T14:49:59Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 386, 'title': 'Build issues on Julia and Home-brew: hanging on pouring', 'state': 'closed', 'created_at': '2017-02-21T17:16:59Z', 'closed_at': '2018-07-08T14:31:44Z', 'labels': []}
+{'issuenumber': 385, 'title': 'Statistics output of grayscale image changed since 7.0.4-7', 'state': 'closed', 'created_at': '2017-02-20T11:11:27Z', 'closed_at': '2017-02-22T14:53:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 384, 'title': 'I get some errors when using ImageMagick', 'state': 'closed', 'created_at': '2017-02-20T10:50:32Z', 'closed_at': '2017-03-13T06:27:40Z', 'labels': []}
+{'issuenumber': 383, 'title': 'magick make check has test failures ', 'state': 'closed', 'created_at': '2017-02-19T04:07:49Z', 'closed_at': '2017-02-21T06:32:18Z', 'labels': []}
+{'issuenumber': 381, 'title': 'Density change gets ignored by some files', 'state': 'closed', 'created_at': '2017-02-17T09:05:08Z', 'closed_at': '2018-07-08T14:31:24Z', 'labels': []}
+{'issuenumber': 380, 'title': 'tests/wandtest.c main 5321 non-conforming drawing primitive definition', 'state': 'closed', 'created_at': '2017-02-16T02:28:14Z', 'closed_at': '2018-07-08T14:31:05Z', 'labels': []}
+{'issuenumber': 379, 'title': 'floating windows of display are not properly sized in i3', 'state': 'closed', 'created_at': '2017-02-15T06:30:43Z', 'closed_at': '2017-12-31T19:09:01Z', 'labels': []}
+{'issuenumber': 378, 'title': 'convert from ps file shifts and crops the content per page', 'state': 'closed', 'created_at': '2017-02-13T14:53:49Z', 'closed_at': '2019-08-31T12:43:35Z', 'labels': []}
+{'issuenumber': 377, 'title': 'Behavior of policy changed from 6.9.7-7', 'state': 'closed', 'created_at': '2017-02-09T13:47:46Z', 'closed_at': '2017-03-01T12:27:50Z', 'labels': []}
+{'issuenumber': 376, 'title': 'out-of-bounds read in coders/sun.c:536:64', 'state': 'closed', 'created_at': '2017-02-08T15:32:18Z', 'closed_at': '2017-03-13T06:25:02Z', 'labels': []}
+{'issuenumber': 375, 'title': 'out-of-bounds read in coders/sun.c:582:57', 'state': 'closed', 'created_at': '2017-02-08T15:29:18Z', 'closed_at': '2017-03-13T06:24:51Z', 'labels': []}
+{'issuenumber': 374, 'title': 'make check failure installing ImageMagick-7.0.4-7 on ubuntu 16.04', 'state': 'closed', 'created_at': '2017-02-07T00:42:23Z', 'closed_at': '2017-02-14T13:22:57Z', 'labels': {'name': 'question'}}
+{'issuenumber': 372, 'title': 'assertion failed error occur in policy read 6.9.7-7 version', 'state': 'closed', 'created_at': '2017-02-06T12:22:52Z', 'closed_at': '2017-02-14T12:24:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 371, 'title': "non-conforming drawing primitive definition `text'", 'state': 'closed', 'created_at': '2017-02-05T00:03:43Z', 'closed_at': '2017-02-12T21:52:39Z', 'labels': []}
+{'issuenumber': 370, 'title': 'julia 0.4.7 on windows10 ,when Pkg.build("ImageMagick"),throw error', 'state': 'closed', 'created_at': '2017-02-04T03:52:23Z', 'closed_at': '2017-02-04T11:28:49Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 369, 'title': "make && make check failure on mac OSX 10.12.3.Still can't install rmagick gem on rails  ", 'state': 'closed', 'created_at': '2017-01-31T16:11:13Z', 'closed_at': '2018-07-08T14:30:29Z', 'labels': []}
+{'issuenumber': 368, 'title': 'Corruption of MIFF files created from sources with curly braces in comment metadata', 'state': 'closed', 'created_at': '2017-01-30T21:06:45Z', 'closed_at': '2017-03-13T15:03:59Z', 'labels': []}
+{'issuenumber': 367, 'title': 'Outputting JP2 over STDOUT fails', 'state': 'closed', 'created_at': '2017-01-30T20:01:05Z', 'closed_at': '2017-03-13T15:03:40Z', 'labels': []}
+{'issuenumber': 366, 'title': 'Outputting TIFF over STDOUT fails', 'state': 'closed', 'created_at': '2017-01-30T19:59:56Z', 'closed_at': '2017-03-13T15:03:17Z', 'labels': []}
+{'issuenumber': 365, 'title': '"-extent" doesn\'t work with "-background transparent"', 'state': 'closed', 'created_at': '2017-01-30T19:27:30Z', 'closed_at': '2017-01-30T19:57:14Z', 'labels': []}
+{'issuenumber': 364, 'title': 'github mirror seems stalled', 'state': 'closed', 'created_at': '2017-01-28T16:58:25Z', 'closed_at': '2017-01-28T19:37:04Z', 'labels': []}
+{'issuenumber': 363, 'title': '7.0.4-6 Failed test on 32bits build', 'state': 'closed', 'created_at': '2017-01-28T15:02:14Z', 'closed_at': '2017-01-30T12:31:24Z', 'labels': []}
+{'issuenumber': 362, 'title': 'use of uninitialized data in ImageMagick/coders/mat.c:407', 'state': 'closed', 'created_at': '2017-01-26T15:31:47Z', 'closed_at': '2017-01-27T22:35:07Z', 'labels': []}
+{'issuenumber': 361, 'title': 'Failure make check on debian wheezy', 'state': 'closed', 'created_at': '2017-01-23T09:02:17Z', 'closed_at': '2017-10-14T14:18:51Z', 'labels': []}
+{'issuenumber': 360, 'title': 'Wand 0.4.4 ', 'state': 'closed', 'created_at': '2017-01-20T14:56:05Z', 'closed_at': '2017-03-13T06:19:20Z', 'labels': []}
+{'issuenumber': 357, 'title': 'MagickGetSize on new image has zero width and height', 'state': 'closed', 'created_at': '2017-01-18T02:00:29Z', 'closed_at': '2017-01-18T13:28:31Z', 'labels': []}
+{'issuenumber': 356, 'title': 'you break ABI', 'state': 'closed', 'created_at': '2017-01-14T13:48:20Z', 'closed_at': '2017-01-15T13:31:13Z', 'labels': []}
+{'issuenumber': 355, 'title': 'Webp conversion is broken in 7.0.4-3 version', 'state': 'closed', 'created_at': '2017-01-13T11:04:56Z', 'closed_at': '2017-02-15T07:01:26Z', 'labels': []}
+{'issuenumber': 354, 'title': 'Double free memory corruption', 'state': 'closed', 'created_at': '2017-01-12T16:59:40Z', 'closed_at': '2017-01-27T22:35:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 353, 'title': 'ImageMagick 7.x / php56-imagick breaking change', 'state': 'closed', 'created_at': '2017-01-12T08:22:06Z', 'closed_at': '2017-01-18T01:29:29Z', 'labels': []}
+{'issuenumber': 352, 'title': 'From 196 not solved, security', 'state': 'closed', 'created_at': '2017-01-11T11:17:06Z', 'closed_at': '2017-01-27T22:35:59Z', 'labels': []}
+{'issuenumber': 351, 'title': 'convert -resample not working because of Exif data', 'state': 'closed', 'created_at': '2017-01-10T15:26:52Z', 'closed_at': '2017-01-27T22:36:23Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 350, 'title': ' memory corruption -Out of bound write ', 'state': 'closed', 'created_at': '2017-01-10T11:40:37Z', 'closed_at': '2017-01-28T09:02:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 349, 'title': 'Load more cpu', 'state': 'closed', 'created_at': '2017-01-10T02:45:21Z', 'closed_at': '2017-01-27T22:36:34Z', 'labels': []}
+{'issuenumber': 348, 'title': 'Memory corruption via a PSB file', 'state': 'closed', 'created_at': '2017-01-07T18:26:54Z', 'closed_at': '2017-01-27T22:36:51Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 347, 'title': 'Memory corruption via PSB file', 'state': 'closed', 'created_at': '2017-01-07T13:58:27Z', 'closed_at': '2017-01-07T15:58:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 346, 'title': 'Abort in ./convert', 'state': 'closed', 'created_at': '2017-01-06T20:49:09Z', 'closed_at': '2017-01-07T16:07:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 345, 'title': 'Regression in JP2 support', 'state': 'closed', 'created_at': '2017-01-06T18:23:54Z', 'closed_at': '2017-02-01T19:32:20Z', 'labels': []}
+{'issuenumber': 344, 'title': 'Add support for extra media subtypes to the BMP encoder.', 'state': 'closed', 'created_at': '2017-01-05T10:01:56Z', 'closed_at': '2017-01-14T18:39:56Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 343, 'title': 'fx:standard_deviation (and maybe others) are computed incorrectly starting with ImageMagick 7.0.1-0', 'state': 'closed', 'created_at': '2017-01-04T16:47:05Z', 'closed_at': '2017-01-04T19:51:48Z', 'labels': []}
+{'issuenumber': 342, 'title': '"make check" failure on mac OSX 10.11.6', 'state': 'closed', 'created_at': '2017-01-04T01:24:09Z', 'closed_at': '2018-01-04T14:19:47Z', 'labels': []}
+{'issuenumber': 341, 'title': 'identify -quiet does not suppress warnings', 'state': 'closed', 'created_at': '2017-01-03T12:14:46Z', 'closed_at': '2017-01-29T10:55:34Z', 'labels': []}
+{'issuenumber': 340, 'title': '6.9.7-1 / 7.0.4-1 failed tests', 'state': 'closed', 'created_at': '2017-01-02T18:56:57Z', 'closed_at': '2017-01-05T06:51:14Z', 'labels': []}
+{'issuenumber': 337, 'title': 'TMP variables are not honored', 'state': 'closed', 'created_at': '2016-12-28T16:43:56Z', 'closed_at': '2017-01-27T22:37:21Z', 'labels': []}
+{'issuenumber': 336, 'title': 'regression  display -loop option not working/missing', 'state': 'closed', 'created_at': '2016-12-28T16:37:11Z', 'closed_at': '2017-01-27T22:37:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 335, 'title': 'imagemagick: Nested <SVG> tag: wrong rendering - wrong positioning', 'state': 'closed', 'created_at': '2016-12-28T16:32:28Z', 'closed_at': '2017-09-10T06:42:01Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 334, 'title': 'Font integer overflow', 'state': 'closed', 'created_at': '2016-12-28T16:27:31Z', 'closed_at': '2017-12-31T19:02:21Z', 'labels': []}
+{'issuenumber': 333, 'title': 'convert fails to interpret STDIN data', 'state': 'closed', 'created_at': '2016-12-28T16:19:59Z', 'closed_at': '2017-01-27T22:39:08Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 332, 'title': 'imagemagick-6.q16: convert generates monochrome images with inverted colors (black and white)', 'state': 'closed', 'created_at': '2016-12-28T16:14:50Z', 'closed_at': '2017-03-13T06:16:34Z', 'labels': []}
+{'issuenumber': 331, 'title': 'display > /dev/null < /dev/null does not work', 'state': 'closed', 'created_at': '2016-12-28T16:11:18Z', 'closed_at': '2017-08-03T20:41:43Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 330, 'title': '-draw "image over..." doesn\'t work', 'state': 'closed', 'created_at': '2016-12-26T12:26:36Z', 'closed_at': '2017-09-05T05:05:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 329, 'title': 'Help needed with apveyor', 'state': 'closed', 'created_at': '2016-12-23T11:54:31Z', 'closed_at': '2016-12-24T11:15:29Z', 'labels': {'name': 'question'}}
+{'issuenumber': 328, 'title': 'How to disable SetImageGray?', 'state': 'closed', 'created_at': '2016-12-22T04:41:15Z', 'closed_at': '2016-12-24T00:20:44Z', 'labels': {'name': 'question'}}
+{'issuenumber': 327, 'title': 'Always killed ?', 'state': 'closed', 'created_at': '2016-12-21T07:53:20Z', 'closed_at': '2016-12-22T05:00:53Z', 'labels': []}
+{'issuenumber': 326, 'title': 'convert: "-page" behaviour with "+append"ed gif frame', 'state': 'closed', 'created_at': '2016-12-19T09:45:04Z', 'closed_at': '2017-01-28T11:54:41Z', 'labels': []}
+{'issuenumber': 325, 'title': 'How can I write multi-images to file buf?', 'state': 'closed', 'created_at': '2016-12-17T15:58:25Z', 'closed_at': '2016-12-20T11:41:50Z', 'labels': []}
+{'issuenumber': 324, 'title': 'Raspberry Pi 1 B - armhf - compiled', 'state': 'closed', 'created_at': '2016-12-17T13:18:20Z', 'closed_at': '2017-09-22T08:53:36Z', 'labels': []}
+{'issuenumber': 323, 'title': 'So bump need minor version bump', 'state': 'closed', 'created_at': '2016-12-15T11:49:08Z', 'closed_at': '2016-12-24T12:33:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 322, 'title': 'Idea: trigger Imagick tests on Travis build', 'state': 'closed', 'created_at': '2016-12-15T01:19:45Z', 'closed_at': '2017-09-16T11:25:36Z', 'labels': []}
+{'issuenumber': 321, 'title': 'CVE-2016-9830', 'state': 'closed', 'created_at': '2016-12-14T19:22:04Z', 'closed_at': '2016-12-24T00:21:16Z', 'labels': {'name': 'question'}}
+{'issuenumber': 320, 'title': 'Breaking ABI', 'state': 'closed', 'created_at': '2016-12-09T21:34:52Z', 'closed_at': '2016-12-11T20:30:25Z', 'labels': []}
+{'issuenumber': 319, 'title': 'Cannot process video from stdin', 'state': 'closed', 'created_at': '2016-12-08T10:44:19Z', 'closed_at': '2016-12-15T07:28:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 318, 'title': '"label:@<filename>" breaks on 6.9.6-6', 'state': 'closed', 'created_at': '2016-12-08T08:51:09Z', 'closed_at': '2016-12-08T09:32:40Z', 'labels': []}
+{'issuenumber': 317, 'title': 'Checking if exceptions occurred', 'state': 'closed', 'created_at': '2016-12-05T23:37:07Z', 'closed_at': '2016-12-05T23:55:44Z', 'labels': []}
+{'issuenumber': 316, 'title': 'ImageMagick-6.9.6-6 exact gradient colors', 'state': 'closed', 'created_at': '2016-12-05T22:57:14Z', 'closed_at': '2016-12-14T23:57:15Z', 'labels': []}
+{'issuenumber': 313, 'title': 'Magick++ is not compliant to C++1z', 'state': 'closed', 'created_at': '2016-12-02T10:45:21Z', 'closed_at': '2016-12-03T22:12:45Z', 'labels': []}
+{'issuenumber': 312, 'title': 'heap-buffer-overflow in IsPixelGray (UNFIXED #301)', 'state': 'closed', 'created_at': '2016-12-01T12:04:34Z', 'closed_at': '2017-03-13T06:14:00Z', 'labels': []}
+{'issuenumber': 310, 'title': "IM-7.0.3-8 tests don't like Apple's Helvetica", 'state': 'closed', 'created_at': '2016-11-27T12:08:40Z', 'closed_at': '2017-09-10T12:50:26Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 309, 'title': 'Missing "Single Colour Compression" mode in DXT compressor?', 'state': 'closed', 'created_at': '2016-11-25T12:35:32Z', 'closed_at': '2016-12-09T09:12:48Z', 'labels': []}
+{'issuenumber': 308, 'title': "Memory allocation failed `No such file or directory' @ fatal/tiff.c/UnregisterTIFFImage/2382.", 'state': 'closed', 'created_at': '2016-11-24T10:13:15Z', 'closed_at': '2017-03-13T06:13:29Z', 'labels': []}
+{'issuenumber': 307, 'title': 'Testsuite for ImageMagick 7.0.3', 'state': 'closed', 'created_at': '2016-11-24T00:53:46Z', 'closed_at': '2017-03-13T06:13:13Z', 'labels': []}
+{'issuenumber': 306, 'title': 'Missing libs', 'state': 'closed', 'created_at': '2016-11-22T11:03:51Z', 'closed_at': '2016-12-24T00:21:34Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 305, 'title': 'Autoconf modernize', 'state': 'closed', 'created_at': '2016-11-22T10:54:50Z', 'closed_at': '2017-01-28T09:03:09Z', 'labels': []}
+{'issuenumber': 304, 'title': 'Documentation fix', 'state': 'closed', 'created_at': '2016-11-22T10:30:09Z', 'closed_at': '2017-03-13T06:12:27Z', 'labels': []}
+{'issuenumber': 303, 'title': 'ImageMagick-7, wrong normalize in convert', 'state': 'closed', 'created_at': '2016-11-21T19:29:52Z', 'closed_at': '2017-09-05T05:10:47Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 302, 'title': 'Wrong conversion of dicom-files', 'state': 'closed', 'created_at': '2016-11-18T14:59:53Z', 'closed_at': '2016-12-24T12:33:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 301, 'title': 'heap-buffer-overflow in IsPixelGray', 'state': 'closed', 'created_at': '2016-11-16T22:57:17Z', 'closed_at': '2016-12-01T12:01:37Z', 'labels': []}
+{'issuenumber': 300, 'title': 'V6 label-option default-font regression ', 'state': 'closed', 'created_at': '2016-11-14T16:30:42Z', 'closed_at': '2017-03-13T06:11:55Z', 'labels': []}
+{'issuenumber': 299, 'title': '`convert -sharpen` on a CMYK image causes weird visual artifacts to appear (black horizontal stripes or black color being mostly missing)', 'state': 'closed', 'created_at': '2016-11-12T11:26:09Z', 'closed_at': '2016-11-17T15:32:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 298, 'title': 'null pointer passed as argument 2, which is declared to never be null (tiff.c)', 'state': 'closed', 'created_at': '2016-11-09T16:36:07Z', 'closed_at': '2017-03-13T06:11:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 297, 'title': "value -nan is outside the range of representable values of type 'unsigned char' (quantum.h)", 'state': 'closed', 'created_at': '2016-11-09T16:33:06Z', 'closed_at': '2017-09-04T20:50:47Z', 'labels': []}
+{'issuenumber': 296, 'title': 'crash', 'state': 'closed', 'created_at': '2016-10-31T22:18:46Z', 'closed_at': '2017-03-13T06:10:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 295, 'title': 'Perl spurious lib', 'state': 'closed', 'created_at': '2016-10-31T21:47:03Z', 'closed_at': '2017-03-13T11:02:48Z', 'labels': []}
+{'issuenumber': 294, 'title': "converting to PBM (P1) - rows of characters don't match lines of pixels", 'state': 'closed', 'created_at': '2016-10-31T20:20:04Z', 'closed_at': '2017-09-04T20:50:01Z', 'labels': []}
+{'issuenumber': 293, 'title': 'XPM regression', 'state': 'closed', 'created_at': '2016-10-30T23:10:53Z', 'closed_at': '2017-03-13T05:49:46Z', 'labels': []}
+{'issuenumber': 292, 'title': 'whats the alternative for setImageOpacity when using image magick 7 ?', 'state': 'closed', 'created_at': '2016-10-24T10:29:24Z', 'closed_at': '2016-10-24T10:30:04Z', 'labels': []}
+{'issuenumber': 291, 'title': 'Add support for Extended File Format to the WebP coder.', 'state': 'closed', 'created_at': '2016-10-17T20:16:53Z', 'closed_at': '2017-12-31T18:58:22Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 290, 'title': 'Empty images when combining "background none" and "flatten"', 'state': 'closed', 'created_at': '2016-10-17T07:58:55Z', 'closed_at': '2016-10-17T10:23:33Z', 'labels': {'name': 'question'}}
+{'issuenumber': 289, 'title': 'display not working', 'state': 'closed', 'created_at': '2016-10-15T09:13:49Z', 'closed_at': '2017-09-04T20:49:04Z', 'labels': []}
+{'issuenumber': 288, 'title': 'Feature request: SVG groups read modifier', 'state': 'closed', 'created_at': '2016-10-14T02:59:12Z', 'closed_at': '2016-10-16T10:51:53Z', 'labels': {'name': 'question'}}
+{'issuenumber': 287, 'title': 'Relative paths needed instead of absolute paths', 'state': 'closed', 'created_at': '2016-10-13T07:59:17Z', 'closed_at': '2016-12-24T17:15:26Z', 'labels': {'name': 'question'}}
+{'issuenumber': 286, 'title': 'heap-buffer-overflow in GetPixelAlpha (pixel-accessor.h)', 'state': 'closed', 'created_at': '2016-10-11T13:53:07Z', 'closed_at': '2017-09-06T12:01:10Z', 'labels': []}
+{'issuenumber': 285, 'title': 'Unexpected end-of-file when identifying .ico file ', 'state': 'closed', 'created_at': '2016-10-09T20:44:30Z', 'closed_at': '2016-10-10T07:21:52Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 284, 'title': '[7.0.3-3] Failed tests', 'state': 'closed', 'created_at': '2016-10-09T16:45:39Z', 'closed_at': '2016-10-16T10:37:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 283, 'title': 'unicode file paths', 'state': 'closed', 'created_at': '2016-10-01T11:23:49Z', 'closed_at': '2017-03-13T13:14:55Z', 'labels': []}
+{'issuenumber': 282, 'title': 'XWD? file format version mismatch when converting .ico file', 'state': 'closed', 'created_at': '2016-09-30T16:53:41Z', 'closed_at': '2016-10-01T22:10:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 281, 'title': 'imagemagick mogrify heap use after free', 'state': 'closed', 'created_at': '2016-09-30T10:20:54Z', 'closed_at': '2016-10-01T22:10:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 280, 'title': 'imagemagick mogrify global buffer overflow', 'state': 'closed', 'created_at': '2016-09-30T10:18:19Z', 'closed_at': '2016-10-03T05:17:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 279, 'title': 'imagemagick identify heap overflow', 'state': 'closed', 'created_at': '2016-09-30T10:15:39Z', 'closed_at': '2016-09-30T11:38:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 278, 'title': '.', 'state': 'closed', 'created_at': '2016-09-29T19:39:50Z', 'closed_at': '2016-09-29T20:02:45Z', 'labels': []}
+{'issuenumber': 277, 'title': 'Converting 1-bpp PNG into TIFF does not preserve depth', 'state': 'closed', 'created_at': '2016-09-29T14:15:59Z', 'closed_at': '2017-12-31T18:56:19Z', 'labels': []}
+{'issuenumber': 276, 'title': 'Range based filename references + delay bug', 'state': 'closed', 'created_at': '2016-09-27T23:06:39Z', 'closed_at': '2017-09-22T08:53:07Z', 'labels': []}
+{'issuenumber': 275, 'title': 'identify "d:" hangs', 'state': 'closed', 'created_at': '2016-09-23T19:59:24Z', 'closed_at': '2017-08-22T19:20:35Z', 'labels': []}
+{'issuenumber': 274, 'title': '"improper image header"', 'state': 'closed', 'created_at': '2016-09-17T13:04:20Z', 'closed_at': '2016-09-19T20:43:32Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 273, 'title': 'memory leak caused by crafted image', 'state': 'closed', 'created_at': '2016-09-14T14:04:09Z', 'closed_at': '2016-10-01T20:39:51Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 272, 'title': 'heap-based buffer overflow in IsPixelMonochrome (pixel-accessor.h)', 'state': 'closed', 'created_at': '2016-09-14T13:56:59Z', 'closed_at': '2016-11-22T22:56:49Z', 'labels': []}
+{'issuenumber': 271, 'title': 'memory allocation failure in AcquireMagickMemory (memory.c) different from #267', 'state': 'closed', 'created_at': '2016-09-14T13:55:47Z', 'closed_at': '2017-09-06T12:02:43Z', 'labels': []}
+{'issuenumber': 270, 'title': 'memory allocation failure (ReadWMFImage?)', 'state': 'closed', 'created_at': '2016-09-14T13:54:05Z', 'closed_at': '2016-10-10T09:32:10Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 269, 'title': 'memory allocation failure in _TIFFCheckRealloc (tif_aux.c)', 'state': 'closed', 'created_at': '2016-09-14T13:45:28Z', 'closed_at': '2016-10-10T09:35:06Z', 'labels': {'name': 'upstream'}}
+{'issuenumber': 268, 'title': 'memory allocation failure in AcquireQuantumPixels (quantum.c)', 'state': 'closed', 'created_at': '2016-09-14T13:44:14Z', 'closed_at': '2016-10-16T12:10:49Z', 'labels': []}
+{'issuenumber': 267, 'title': 'memory allocation failure in AcquireAlignedMemory ( memory.c)', 'state': 'closed', 'created_at': '2016-09-14T13:41:44Z', 'closed_at': '2016-09-15T09:00:39Z', 'labels': []}
+{'issuenumber': 265, 'title': 'GIF Processing Memory Leak breaking entire site (App Crashed Error on Heroku) ', 'state': 'closed', 'created_at': '2016-09-13T09:35:03Z', 'closed_at': '2017-12-31T18:56:07Z', 'labels': []}
+{'issuenumber': 264, 'title': 'FAIL: tests/wandtest', 'state': 'closed', 'created_at': '2016-09-08T07:38:38Z', 'closed_at': '2017-03-13T05:43:02Z', 'labels': []}
+{'issuenumber': 263, 'title': 'GIF looping bug?', 'state': 'closed', 'created_at': '2016-09-08T00:24:01Z', 'closed_at': '2016-09-09T10:26:44Z', 'labels': []}
+{'issuenumber': 262, 'title': 'tiff:rows-per-strip not honored in some cases', 'state': 'closed', 'created_at': '2016-09-04T12:50:52Z', 'closed_at': '2016-09-06T23:41:47Z', 'labels': []}
+{'issuenumber': 261, 'title': 'VisualMagick folder missing', 'state': 'closed', 'created_at': '2016-09-01T07:06:18Z', 'closed_at': '2016-09-01T09:15:23Z', 'labels': []}
+{'issuenumber': 259, 'title': 'Static linking on mingw-w64 fails for -std=gnu++11', 'state': 'closed', 'created_at': '2016-08-29T14:42:47Z', 'closed_at': '2017-12-31T18:55:51Z', 'labels': []}
+{'issuenumber': 258, 'title': '"convert -density" is not attribute-only modification, as documentation claims.', 'state': 'closed', 'created_at': '2016-08-27T23:16:57Z', 'closed_at': '2016-12-24T12:32:23Z', 'labels': {'name': 'question'}}
+{'issuenumber': 257, 'title': 'This ImageMagick command no longer works (threshold) on png images after ImageTragick patch', 'state': 'closed', 'created_at': '2016-08-26T18:46:17Z', 'closed_at': '2017-09-04T20:16:13Z', 'labels': []}
+{'issuenumber': 256, 'title': 'Effects broken in IM7', 'state': 'closed', 'created_at': '2016-08-25T15:43:18Z', 'closed_at': '2017-09-04T18:54:46Z', 'labels': []}
+{'issuenumber': 255, 'title': 'Getting two cases failed... in installing centos7', 'state': 'closed', 'created_at': '2016-08-25T12:51:43Z', 'closed_at': '2017-03-13T05:42:10Z', 'labels': []}
+{'issuenumber': 254, 'title': 'ordered dither in v7.0.2', 'state': 'closed', 'created_at': '2016-08-23T09:04:55Z', 'closed_at': '2016-10-10T10:37:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 252, 'title': 'MSVG regression between 6.8.9-9 and upstream', 'state': 'closed', 'created_at': '2016-08-19T12:00:39Z', 'closed_at': '2016-09-10T11:39:28Z', 'labels': []}
+{'issuenumber': 251, 'title': 'SVG regression between  6.8.9-9 and upstream', 'state': 'closed', 'created_at': '2016-08-19T11:05:44Z', 'closed_at': '2016-10-10T09:12:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 250, 'title': 'Alpha channel lost when using -combine', 'state': 'closed', 'created_at': '2016-08-12T10:15:56Z', 'closed_at': '2016-08-15T04:00:05Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 249, 'title': "register' storage class specifier is deprecated", 'state': 'closed', 'created_at': '2016-08-12T07:24:49Z', 'closed_at': '2016-12-24T12:31:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 248, 'title': 'Magick::densityImage broken in IMv7', 'state': 'closed', 'created_at': '2016-08-11T18:54:46Z', 'closed_at': '2016-08-11T20:52:23Z', 'labels': {'name': 'question'}}
+{'issuenumber': 247, 'title': 'Default policy.xml', 'state': 'closed', 'created_at': '2016-08-09T16:35:28Z', 'closed_at': '2016-09-09T22:47:57Z', 'labels': {'name': 'question'}}
+{'issuenumber': 246, 'title': 'Build only libraries', 'state': 'closed', 'created_at': '2016-08-09T08:21:20Z', 'closed_at': '2020-04-27T13:38:15Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 245, 'title': '[6.9.5-5] build failure', 'state': 'closed', 'created_at': '2016-08-08T07:47:48Z', 'closed_at': '2016-08-08T09:30:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 244, 'title': 'Error installing ImageMagick on Raspberry Pi 3', 'state': 'closed', 'created_at': '2016-08-06T23:14:58Z', 'closed_at': '2017-10-14T14:17:18Z', 'labels': []}
+{'issuenumber': 243, 'title': 'Error during linux installation', 'state': 'closed', 'created_at': '2016-08-02T05:50:11Z', 'closed_at': '2016-12-24T12:31:29Z', 'labels': []}
+{'issuenumber': 242, 'title': "unknown attribute '__alloc_size__'", 'state': 'closed', 'created_at': '2016-07-30T08:20:02Z', 'closed_at': '2017-08-22T18:32:39Z', 'labels': {'name': 'question'}}
+{'issuenumber': 241, 'title': 'hint at format for readImages(blob)', 'state': 'closed', 'created_at': '2016-07-28T10:40:39Z', 'closed_at': '2016-12-24T12:32:44Z', 'labels': {'name': 'question'}}
+{'issuenumber': 240, 'title': 'Freetype does not work on OS-X without fontconfig', 'state': 'closed', 'created_at': '2016-07-24T21:32:46Z', 'closed_at': '2017-09-04T08:46:50Z', 'labels': []}
+{'issuenumber': 239, 'title': 'Linking on mingw-w64', 'state': 'closed', 'created_at': '2016-07-24T19:50:08Z', 'closed_at': '2017-09-04T08:47:07Z', 'labels': []}
+{'issuenumber': 236, 'title': 'API changes in Magick++7', 'state': 'closed', 'created_at': '2016-07-18T10:07:59Z', 'closed_at': '2017-09-03T16:51:47Z', 'labels': []}
+{'issuenumber': 235, 'title': 'Magick::annotateImage declared private ?', 'state': 'closed', 'created_at': '2016-07-18T09:06:46Z', 'closed_at': '2016-07-18T18:38:00Z', 'labels': []}
+{'issuenumber': 234, 'title': 'DisplayImages and animateImages broken in Magick++ 7', 'state': 'closed', 'created_at': '2016-07-17T18:55:40Z', 'closed_at': '2016-07-18T18:13:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 233, 'title': 'writeImages segfaults for length 0', 'state': 'closed', 'created_at': '2016-07-17T10:37:56Z', 'closed_at': '2016-07-24T19:53:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 232, 'title': 'Disable config xml files (on Mac/Windows)', 'state': 'closed', 'created_at': '2016-07-16T20:47:26Z', 'closed_at': '2017-08-22T18:26:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 230, 'title': 'delegate failed `"curl" -s -k -o "%o" "https:%F"\' @ error/delegate.c/InvokeDelegate/1065', 'state': 'closed', 'created_at': '2016-07-14T11:02:02Z', 'closed_at': '2017-08-22T18:24:42Z', 'labels': []}
+{'issuenumber': 229, 'title': "stroke-opacity works only when it's specified after stroke", 'state': 'closed', 'created_at': '2016-07-13T15:51:27Z', 'closed_at': '2016-09-09T23:05:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 228, 'title': 'Density sets density_unit to 0', 'state': 'closed', 'created_at': '2016-06-30T07:27:08Z', 'closed_at': '2016-07-17T20:49:02Z', 'labels': {'name': 'question'}}
+{'issuenumber': 227, 'title': 'Semi-transparent stroke linecaps appear mirrored using stroke-linecap round', 'state': 'closed', 'created_at': '2016-06-24T13:41:46Z', 'closed_at': '2016-07-13T15:51:45Z', 'labels': {'name': 'up for grabs'}}
+{'issuenumber': 226, 'title': 'convert with rgb psd with alpha or transparency', 'state': 'closed', 'created_at': '2016-06-23T15:01:50Z', 'closed_at': '2016-09-09T22:47:43Z', 'labels': {'name': 'usage'}}
+{'issuenumber': 225, 'title': 'strokeLineCap not work with strokePattern', 'state': 'closed', 'created_at': '2016-06-22T08:10:22Z', 'closed_at': '2017-08-22T18:25:33Z', 'labels': []}
+{'issuenumber': 224, 'title': 'Converting specific resolutions from ico files is broken', 'state': 'closed', 'created_at': '2016-06-21T07:25:39Z', 'closed_at': '2016-06-21T15:43:57Z', 'labels': []}
+{'issuenumber': 222, 'title': 'Bounding box of zero for MagickQueryMultilineFontMetrics ', 'state': 'closed', 'created_at': '2016-06-18T12:37:17Z', 'closed_at': '2016-07-17T20:53:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 221, 'title': 'Uninitialized variable after reading CMYK pdf.', 'state': 'closed', 'created_at': '2016-06-14T21:27:02Z', 'closed_at': '2016-08-21T09:41:20Z', 'labels': []}
+{'issuenumber': 220, 'title': 'convert with background and transparent CMYK PDF', 'state': 'closed', 'created_at': '2016-06-14T17:46:56Z', 'closed_at': '2017-09-16T11:26:30Z', 'labels': []}
+{'issuenumber': 218, 'title': 'Drawing glitch/artifacts with stroke widths larger than 2', 'state': 'closed', 'created_at': '2016-06-10T16:43:33Z', 'closed_at': '2016-07-13T15:39:40Z', 'labels': []}
+{'issuenumber': 217, 'title': "Lot of Operation canceled' @ fatal/cache.c/GetImagePixelCache/1885", 'state': 'closed', 'created_at': '2016-06-10T07:42:53Z', 'closed_at': '2016-06-24T20:06:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 216, 'title': 'PSD format: CompressionNotSupported exception on ReadPSDChannel', 'state': 'closed', 'created_at': '2016-06-09T15:23:35Z', 'closed_at': '2016-06-14T20:02:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 215, 'title': "linecap doesn't always work and has odd behaviour", 'state': 'closed', 'created_at': '2016-06-08T16:31:47Z', 'closed_at': '2016-06-13T16:49:09Z', 'labels': []}
+{'issuenumber': 214, 'title': "Identify can't open file with frame notation", 'state': 'closed', 'created_at': '2016-06-05T21:07:54Z', 'closed_at': '2016-06-07T05:18:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 213, 'title': 'SEGV in coders/pes.c:639:35', 'state': 'closed', 'created_at': '2016-06-05T04:47:06Z', 'closed_at': '2016-06-26T04:25:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 212, 'title': 'SEGV in coders/rle.c:435:15', 'state': 'closed', 'created_at': '2016-06-05T04:46:52Z', 'closed_at': '2016-06-26T04:22:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 211, 'title': 'SEGV in coders/rle.c:405:15', 'state': 'closed', 'created_at': '2016-06-05T04:46:26Z', 'closed_at': '2016-06-26T04:21:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 210, 'title': '6.9.4-6 and 7.0.1-8 - 3 failed tests', 'state': 'closed', 'created_at': '2016-06-03T05:01:07Z', 'closed_at': '2016-06-03T18:12:20Z', 'labels': []}
+{'issuenumber': 209, 'title': 'Magick++ gravity misaligns text over stroked text', 'state': 'closed', 'created_at': '2016-06-02T17:22:29Z', 'closed_at': '2016-06-08T12:22:36Z', 'labels': []}
+{'issuenumber': 208, 'title': 'pls improve security:ImageMagick popen() shell vulnerability via filename', 'state': 'closed', 'created_at': '2016-06-01T02:36:08Z', 'closed_at': '2016-06-02T20:52:35Z', 'labels': []}
+{'issuenumber': 207, 'title': 'ImageMagick 6.9.4-3  -  cannot convert doc file to pdf/jpg', 'state': 'closed', 'created_at': '2016-05-31T13:34:11Z', 'closed_at': '2016-06-01T09:15:16Z', 'labels': []}
+{'issuenumber': 206, 'title': 'Convert: memory allocation failed ', 'state': 'closed', 'created_at': '2016-05-27T14:01:57Z', 'closed_at': '2016-06-25T06:12:31Z', 'labels': []}
+{'issuenumber': 205, 'title': 'FAIL: tests/wandtest.tap 1', 'state': 'closed', 'created_at': '2016-05-24T15:52:34Z', 'closed_at': '2016-06-04T05:01:08Z', 'labels': []}
+{'issuenumber': 204, 'title': 'Test fails after installing ImageMagics', 'state': 'closed', 'created_at': '2016-05-23T11:07:26Z', 'closed_at': '2016-07-17T20:51:18Z', 'labels': []}
+{'issuenumber': 203, 'title': "Magick++ 6.9.4 can't work with jpg", 'state': 'closed', 'created_at': '2016-05-23T07:16:26Z', 'closed_at': '2016-07-17T20:51:10Z', 'labels': []}
+{'issuenumber': 202, 'title': '6.9.4-2 failed test validate-formats-disk.tap', 'state': 'closed', 'created_at': '2016-05-18T07:31:24Z', 'closed_at': '2016-05-18T19:55:26Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 201, 'title': 'convert from PDF to EMF when running in a non-Windows environment?', 'state': 'closed', 'created_at': '2016-05-18T05:04:59Z', 'closed_at': '2016-05-18T22:54:16Z', 'labels': {'name': 'question'}}
+{'issuenumber': 198, 'title': 'ImageMagick 6.9.3-7 => 6.9.3-9 or 7.x Exif regression (FreeBSD)', 'state': 'closed', 'created_at': '2016-05-12T22:36:05Z', 'closed_at': '2016-05-13T17:16:16Z', 'labels': []}
+{'issuenumber': 197, 'title': 'Converting with -auto-orient -flatten cut off image', 'state': 'closed', 'created_at': '2016-05-10T15:49:31Z', 'closed_at': '2016-06-26T03:07:33Z', 'labels': []}
+{'issuenumber': 196, 'title': 'Completion of error handling', 'state': 'closed', 'created_at': '2016-05-06T18:04:21Z', 'closed_at': '2016-06-04T05:33:39Z', 'labels': []}
+{'issuenumber': 195, 'title': 'Fix signal handler', 'state': 'closed', 'created_at': '2016-05-06T13:02:44Z', 'closed_at': '2016-05-12T22:45:42Z', 'labels': []}
+{'issuenumber': 194, 'title': 'reserved identifier violation', 'state': 'closed', 'created_at': '2016-05-06T12:38:30Z', 'closed_at': '2016-06-04T05:35:58Z', 'labels': []}
+{'issuenumber': 193, 'title': 'Use of angle brackets around file names for include statements', 'state': 'closed', 'created_at': '2016-05-06T12:23:30Z', 'closed_at': '2016-05-14T14:11:55Z', 'labels': []}
+{'issuenumber': 192, 'title': 'ImageMagick 7.0.1 failed to identify/convert jpg', 'state': 'closed', 'created_at': '2016-05-06T10:53:21Z', 'closed_at': '2016-05-09T04:30:18Z', 'labels': []}
+{'issuenumber': 191, 'title': 'ImageMagick-6.9.1-5 broke build on Solarish systems', 'state': 'closed', 'created_at': '2016-05-06T09:04:26Z', 'closed_at': '2016-05-12T16:49:33Z', 'labels': []}
+{'issuenumber': 190, 'title': '7.0.1 vulnerable to move, delete, and read exploits', 'state': 'closed', 'created_at': '2016-05-05T18:24:46Z', 'closed_at': '2016-06-03T21:21:34Z', 'labels': []}
+{'issuenumber': 189, 'title': 'Does ImageMagick Vulnerability occur in Portable Windows version?', 'state': 'closed', 'created_at': '2016-05-05T00:00:45Z', 'closed_at': '2016-07-17T20:51:00Z', 'labels': []}
+{'issuenumber': 188, 'title': "Please don't include any headers inside your C++ namespaces", 'state': 'closed', 'created_at': '2016-05-04T15:18:03Z', 'closed_at': '2016-06-17T19:25:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 186, 'title': 'Error while installing imagemagick on os x 10.11.4', 'state': 'closed', 'created_at': '2016-05-03T19:56:49Z', 'closed_at': '2016-07-17T20:50:47Z', 'labels': []}
+{'issuenumber': 185, 'title': 'Not possible to pick the Compose option from identify -format on psd files', 'state': 'closed', 'created_at': '2016-05-03T11:21:23Z', 'closed_at': '2017-12-27T16:56:01Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 184, 'title': 'Please document DrawSetDensity', 'state': 'closed', 'created_at': '2016-05-02T22:04:44Z', 'closed_at': '2016-07-17T20:50:36Z', 'labels': {'name': 'question'}}
+{'issuenumber': 183, 'title': 'configure.ac:3159 comment needs to be commented out', 'state': 'closed', 'created_at': '2016-05-01T20:12:47Z', 'closed_at': '2016-06-03T21:21:12Z', 'labels': []}
+{'issuenumber': 182, 'title': 'DrawGetStrokeOpacity not header for IM7.0.1', 'state': 'closed', 'created_at': '2016-05-01T18:52:58Z', 'closed_at': '2016-06-03T21:20:08Z', 'labels': []}
+{'issuenumber': 181, 'title': 'MagickGetImageInterpolateMethod not in header file IM7.0.1', 'state': 'closed', 'created_at': '2016-05-01T17:40:54Z', 'closed_at': '2016-06-03T21:19:32Z', 'labels': []}
+{'issuenumber': 180, 'title': '"cache resources exhausted" with IM7.0.1', 'state': 'closed', 'created_at': '2016-05-01T15:38:11Z', 'closed_at': '2016-05-02T18:23:09Z', 'labels': []}
+{'issuenumber': 179, 'title': 'MagickSetResourceLimit bad behaviour in 7.0.1', 'state': 'closed', 'created_at': '2016-05-01T15:35:38Z', 'closed_at': '2016-05-02T10:49:47Z', 'labels': []}
+{'issuenumber': 178, 'title': 'Resource limits not accepting set in IM7.0.1', 'state': 'closed', 'created_at': '2016-05-01T15:12:30Z', 'closed_at': '2016-05-02T21:04:06Z', 'labels': []}
+{'issuenumber': 177, 'title': 'identify -format %n prints number of frames multiple times', 'state': 'closed', 'created_at': '2016-04-25T18:13:44Z', 'closed_at': '2016-09-09T22:49:57Z', 'labels': []}
+{'issuenumber': 176, 'title': 'C compiler missing ', 'state': 'closed', 'created_at': '2016-04-22T08:09:34Z', 'closed_at': '2016-04-29T07:05:16Z', 'labels': []}
+{'issuenumber': 173, 'title': 'bad arguments lead to segfault', 'state': 'closed', 'created_at': '2016-04-20T19:59:50Z', 'closed_at': '2016-05-02T21:04:33Z', 'labels': []}
+{'issuenumber': 172, 'title': 'cannot convert doc file to pdf', 'state': 'closed', 'created_at': '2016-04-19T08:37:39Z', 'closed_at': '2016-04-27T09:20:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 171, 'title': 'question about Magick++', 'state': 'closed', 'created_at': '2016-04-18T08:55:15Z', 'closed_at': '2016-05-29T08:44:08Z', 'labels': {'name': 'question'}}
+{'issuenumber': 170, 'title': 'how do i get the data of Image?', 'state': 'closed', 'created_at': '2016-04-18T03:24:05Z', 'closed_at': '2016-06-24T18:49:27Z', 'labels': {'name': 'question'}}
+{'issuenumber': 169, 'title': "AIX  -  recipe for target 'test-suite.log' failed", 'state': 'closed', 'created_at': '2016-04-12T23:41:56Z', 'closed_at': '2016-05-29T20:06:59Z', 'labels': []}
+{'issuenumber': 167, 'title': 'Fails to handle translucency when converting SVG to PNG', 'state': 'closed', 'created_at': '2016-04-11T07:22:07Z', 'closed_at': '2019-04-20T22:52:16Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 166, 'title': 'SEGV @ NULL in GetNextValueInSplayTree', 'state': 'closed', 'created_at': '2016-04-07T21:07:43Z', 'closed_at': '2016-04-07T21:32:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 165, 'title': 'Invalid free', 'state': 'closed', 'created_at': '2016-04-07T21:02:29Z', 'closed_at': '2016-04-07T21:30:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 164, 'title': 'Load more Memory & Cpu Usage', 'state': 'closed', 'created_at': '2016-04-07T12:06:52Z', 'closed_at': '2016-04-26T21:12:57Z', 'labels': {'name': 'question'}}
+{'issuenumber': 163, 'title': "ImageMagick 6.9.3-7 on OS X 10.11.3 creates, but doesn't install, type-apple.xml", 'state': 'closed', 'created_at': '2016-04-05T11:03:17Z', 'closed_at': '2016-06-24T19:41:10Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 162, 'title': 'Issues with convert -type option: Does nothing for PNG, fails to force TrueColor for grayscale BMP', 'state': 'closed', 'created_at': '2016-04-04T07:51:15Z', 'closed_at': '2016-06-03T21:18:32Z', 'labels': []}
+{'issuenumber': 161, 'title': 'Multiple instances of use of uninitialised value', 'state': 'closed', 'created_at': '2016-04-02T18:06:17Z', 'closed_at': '2016-06-03T21:18:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 160, 'title': 'Where did PreserveCorruptImage go?', 'state': 'closed', 'created_at': '2016-03-31T06:52:24Z', 'closed_at': '2016-03-31T16:47:16Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 159, 'title': 'Image/Blob may  leak the memory？', 'state': 'closed', 'created_at': '2016-03-30T11:57:28Z', 'closed_at': '2016-05-29T08:44:48Z', 'labels': {'name': 'question'}}
+{'issuenumber': 158, 'title': "Don't add white background (bKGD) PNG chunk, and for indexed-color images, extra palette entry", 'state': 'closed', 'created_at': '2016-03-29T08:25:27Z', 'closed_at': '2016-08-13T23:36:31Z', 'labels': []}
+{'issuenumber': 157, 'title': 'Cosmetic issues in Information text during Windows setup', 'state': 'closed', 'created_at': '2016-03-29T07:11:36Z', 'closed_at': '2016-04-03T17:21:47Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 156, 'title': 'ImageMagick -strip option fails to strip some ancillary PNG chunks', 'state': 'closed', 'created_at': '2016-03-29T03:06:32Z', 'closed_at': '2016-07-17T20:50:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 155, 'title': 'Compiling from source fail on Ubuntu Trusty', 'state': 'closed', 'created_at': '2016-03-27T14:25:47Z', 'closed_at': '2016-06-24T18:45:31Z', 'labels': []}
+{'issuenumber': 154, 'title': "ImageMagick can't read Photoshop color profile in PNG", 'state': 'closed', 'created_at': '2016-03-27T02:10:54Z', 'closed_at': '2016-04-26T21:16:48Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 153, 'title': 'how to add watermark with Magick++? ', 'state': 'closed', 'created_at': '2016-03-17T12:30:51Z', 'closed_at': '2016-04-18T03:22:42Z', 'labels': {'name': 'question'}}
+{'issuenumber': 152, 'title': 'The previews of some png files are low res or chunky around the edges and have phantom image ', 'state': 'closed', 'created_at': '2016-03-17T11:43:54Z', 'closed_at': '2016-05-18T16:34:29Z', 'labels': []}
+{'issuenumber': 151, 'title': 'Default density is different than the documented value', 'state': 'closed', 'created_at': '2016-03-15T07:50:20Z', 'closed_at': '2016-04-02T21:03:59Z', 'labels': []}
+{'issuenumber': 149, 'title': 'Incorrect  json output with image having a clipping path embedded', 'state': 'closed', 'created_at': '2016-03-12T10:42:04Z', 'closed_at': '2017-09-21T19:20:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 148, 'title': 'out-of-bounds write in MagickCore/memory.c:723:10 ', 'state': 'closed', 'created_at': '2016-03-11T20:48:22Z', 'closed_at': '2016-06-05T04:58:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 147, 'title': 'DrawGetOpacity not returning expected value.', 'state': 'closed', 'created_at': '2016-03-06T18:23:26Z', 'closed_at': '2016-03-06T21:49:43Z', 'labels': []}
+{'issuenumber': 146, 'title': 'convert.im6: segment stack overflow ', 'state': 'closed', 'created_at': '2016-03-05T08:51:47Z', 'closed_at': '2016-06-24T18:46:26Z', 'labels': []}
+{'issuenumber': 145, 'title': 'ImageMagick 7 converts alpha to black', 'state': 'closed', 'created_at': '2016-03-05T05:31:57Z', 'closed_at': '2016-03-24T00:33:12Z', 'labels': []}
+{'issuenumber': 144, 'title': 'out-of-bounds read in MagickCore/memory.c:719', 'state': 'closed', 'created_at': '2016-03-04T21:30:36Z', 'closed_at': '2016-06-03T00:53:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 143, 'title': 'out-of-bounds read in MagickCore/memory.c:708', 'state': 'closed', 'created_at': '2016-03-04T21:29:58Z', 'closed_at': '2016-04-03T01:53:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 142, 'title': 'ImageMagick generating improper output image colors', 'state': 'closed', 'created_at': '2016-03-01T06:29:54Z', 'closed_at': '2016-03-17T06:30:34Z', 'labels': []}
+{'issuenumber': 141, 'title': 'Bugs in conversion of PSD', 'state': 'closed', 'created_at': '2016-02-26T01:07:57Z', 'closed_at': '2016-02-26T09:23:09Z', 'labels': []}
+{'issuenumber': 139, 'title': 'ImageMagick leaves temp files on disk after a crash', 'state': 'closed', 'created_at': '2016-02-24T01:09:05Z', 'closed_at': '2016-05-31T19:13:13Z', 'labels': []}
+{'issuenumber': 138, 'title': 'SEGV in MagickCore/locale.c:1417', 'state': 'closed', 'created_at': '2016-02-24T00:34:58Z', 'closed_at': '2016-06-03T00:52:05Z', 'labels': []}
+{'issuenumber': 136, 'title': 'Test failures in 6.9.3-5', 'state': 'closed', 'created_at': '2016-02-20T20:38:28Z', 'closed_at': '2016-04-02T21:03:35Z', 'labels': []}
+{'issuenumber': 135, 'title': 'out-of-bounds read in MagickCore/xml-tree.c:1394', 'state': 'closed', 'created_at': '2016-02-19T03:48:47Z', 'closed_at': '2016-02-24T00:41:42Z', 'labels': []}
+{'issuenumber': 134, 'title': 'Conditional resizing creates new image even if condition is unsatisfied', 'state': 'closed', 'created_at': '2016-02-18T21:09:56Z', 'closed_at': '2016-03-05T11:24:31Z', 'labels': []}
+{'issuenumber': 133, 'title': 'PSD layer export not working with PHP API', 'state': 'closed', 'created_at': '2016-02-17T13:24:52Z', 'closed_at': '2016-02-26T17:10:11Z', 'labels': []}
+{'issuenumber': 132, 'title': 'Canvas bounds are not properly set when changed and saved in raw formats', 'state': 'closed', 'created_at': '2016-02-15T20:52:53Z', 'closed_at': '2016-03-05T11:24:49Z', 'labels': []}
+{'issuenumber': 131, 'title': 'out-of-bounds read in ImageMagick/coders/mat.c:406', 'state': 'closed', 'created_at': '2016-02-14T01:24:39Z', 'closed_at': '2016-02-15T04:37:02Z', 'labels': []}
+{'issuenumber': 130, 'title': 'SEGV in ImageMagick/MagickCore/locale.c:1517', 'state': 'closed', 'created_at': '2016-02-14T01:24:01Z', 'closed_at': '2016-02-15T04:39:27Z', 'labels': []}
+{'issuenumber': 129, 'title': 'out-of-bounds read in coders/viff.c:692:35', 'state': 'closed', 'created_at': '2016-02-12T22:31:09Z', 'closed_at': '2016-02-15T04:35:11Z', 'labels': []}
+{'issuenumber': 128, 'title': 'out-of-bounds write in coders/psd.c:2225', 'state': 'closed', 'created_at': '2016-02-12T22:30:21Z', 'closed_at': '2016-02-15T04:43:04Z', 'labels': []}
+{'issuenumber': 127, 'title': '[Text -> Image] Inconsistent width of a monospace font.', 'state': 'closed', 'created_at': '2016-02-08T18:16:10Z', 'closed_at': '2016-06-24T18:46:07Z', 'labels': []}
+{'issuenumber': 126, 'title': 'out-of-bounds write in ./MagickCore/pixel-accessor.h:839', 'state': 'closed', 'created_at': '2016-02-07T05:52:38Z', 'closed_at': '2016-02-24T00:43:12Z', 'labels': []}
+{'issuenumber': 125, 'title': 'setImageBias has no effect', 'state': 'closed', 'created_at': '2016-02-05T20:01:10Z', 'closed_at': '2016-04-26T21:14:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 124, 'title': 'Suggestion: Test crashing input files in make check', 'state': 'closed', 'created_at': '2016-02-05T04:59:59Z', 'closed_at': '2018-03-25T18:10:48Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 123, 'title': 'SEGV in MagickCore/memory.c:974', 'state': 'closed', 'created_at': '2016-02-05T01:57:13Z', 'closed_at': '2016-06-03T00:54:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 122, 'title': 'out-of-bounds read in MagickCore/memory.c:707:23', 'state': 'closed', 'created_at': '2016-02-05T00:53:51Z', 'closed_at': '2016-02-07T04:42:50Z', 'labels': []}
+{'issuenumber': 121, 'title': 'out-of-bounds write in coders/pdb.c:697', 'state': 'closed', 'created_at': '2016-02-05T00:52:21Z', 'closed_at': '2016-02-07T04:44:00Z', 'labels': []}
+{'issuenumber': 120, 'title': 'out-of-bounds read in coders/wpg.c:342:19', 'state': 'closed', 'created_at': '2016-02-05T00:51:56Z', 'closed_at': '2016-02-07T04:44:53Z', 'labels': []}
+{'issuenumber': 119, 'title': 'out-of-bounds write in MagickCore/memory.c:711', 'state': 'closed', 'created_at': '2016-02-05T00:46:12Z', 'closed_at': '2016-02-24T00:44:31Z', 'labels': []}
+{'issuenumber': 118, 'title': 'out-of-bounds read in coders/pcx.c:536', 'state': 'closed', 'created_at': '2016-02-05T00:44:21Z', 'closed_at': '2016-06-03T00:50:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 117, 'title': 'out-of-bounds write in coders/pdb.c:691', 'state': 'closed', 'created_at': '2016-02-05T00:39:48Z', 'closed_at': '2016-02-24T00:46:22Z', 'labels': []}
+{'issuenumber': 113, 'title': 'Long running programs and time resource limit.', 'state': 'closed', 'created_at': '2016-01-30T15:53:38Z', 'closed_at': '2016-01-31T21:18:20Z', 'labels': []}
+{'issuenumber': 112, 'title': 'Weird white noise when converting .eps file (with php7 Imagick)', 'state': 'closed', 'created_at': '2016-01-28T22:01:53Z', 'closed_at': '2016-04-27T06:40:47Z', 'labels': []}
+{'issuenumber': 111, 'title': 'Convert: Maxing out CPU on hardened kernel', 'state': 'closed', 'created_at': '2016-01-28T20:58:54Z', 'closed_at': '2016-03-28T22:23:25Z', 'labels': []}
+{'issuenumber': 110, 'title': 'SIGFPE, Arithmetic exception in MagickCore/quantum.c:687', 'state': 'closed', 'created_at': '2016-01-28T12:57:17Z', 'closed_at': '2016-02-05T01:12:25Z', 'labels': []}
+{'issuenumber': 109, 'title': 'out-of-bounds read in MagickCore/memory.c:718:10', 'state': 'closed', 'created_at': '2016-01-28T12:57:05Z', 'closed_at': '2016-02-05T01:13:54Z', 'labels': []}
+{'issuenumber': 108, 'title': 'out-of-bounds read in MagickCore/memory.c:707:23', 'state': 'closed', 'created_at': '2016-01-28T12:56:56Z', 'closed_at': '2016-02-05T01:15:03Z', 'labels': []}
+{'issuenumber': 107, 'title': 'out-of-bounds write in MagickCore/memory.c:707:23', 'state': 'closed', 'created_at': '2016-01-28T12:56:46Z', 'closed_at': '2016-02-07T04:47:45Z', 'labels': []}
+{'issuenumber': 106, 'title': ' out-of-bounds read in MagickCore/memory.c:707:23', 'state': 'closed', 'created_at': '2016-01-28T12:56:35Z', 'closed_at': '2016-02-05T01:19:08Z', 'labels': []}
+{'issuenumber': 105, 'title': 'out-of-bounds write in ./MagickCore/quantum-private.h:178', 'state': 'closed', 'created_at': '2016-01-28T12:56:26Z', 'closed_at': '2016-02-05T01:20:40Z', 'labels': []}
+{'issuenumber': 104, 'title': 'out-of-bounds read in coders/xcf.c:369:35', 'state': 'closed', 'created_at': '2016-01-28T12:56:13Z', 'closed_at': '2016-02-05T01:23:31Z', 'labels': []}
+{'issuenumber': 103, 'title': 'out-of-bounds read in coders/xcf.c:381:36', 'state': 'closed', 'created_at': '2016-01-28T12:56:03Z', 'closed_at': '2016-02-14T12:03:16Z', 'labels': []}
+{'issuenumber': 102, 'title': 'out-of-bounds write in ./MagickCore/pixel-accessor.h:766', 'state': 'closed', 'created_at': '2016-01-28T12:55:52Z', 'closed_at': '2016-02-07T04:48:37Z', 'labels': []}
+{'issuenumber': 101, 'title': "master and ImageMagick-6 branch should be aware of clang's use of libomp", 'state': 'closed', 'created_at': '2016-01-28T06:14:22Z', 'closed_at': '2016-01-28T12:46:10Z', 'labels': []}
+{'issuenumber': 100, 'title': 'ImageMagick-6 branch test suite fails on x86_64 darwin when built with clang/libomp 3.8', 'state': 'closed', 'created_at': '2016-01-27T14:53:43Z', 'closed_at': '2016-01-28T12:18:43Z', 'labels': []}
+{'issuenumber': 99, 'title': 'SEGV in coders/viff.c:692:35', 'state': 'closed', 'created_at': '2016-01-24T01:29:58Z', 'closed_at': '2016-02-05T01:25:02Z', 'labels': []}
+{'issuenumber': 98, 'title': 'heap-buffer-overflow in ./MagickCore/quantum-private.h:266', 'state': 'closed', 'created_at': '2016-01-24T01:29:49Z', 'closed_at': '2016-02-07T04:49:28Z', 'labels': []}
+{'issuenumber': 97, 'title': 'heap-buffer-overflow in ./MagickCore/pixel-accessor.h:234', 'state': 'closed', 'created_at': '2016-01-24T01:29:40Z', 'closed_at': '2016-02-05T01:27:37Z', 'labels': []}
+{'issuenumber': 96, 'title': 'heap-buffer-overflow in coders/meta.c:465', 'state': 'closed', 'created_at': '2016-01-24T01:29:30Z', 'closed_at': '2016-02-05T01:28:37Z', 'labels': []}
+{'issuenumber': 95, 'title': 'heap-buffer-overflow in coders/sun.c:175', 'state': 'closed', 'created_at': '2016-01-24T01:29:20Z', 'closed_at': '2016-02-05T01:55:49Z', 'labels': []}
+{'issuenumber': 94, 'title': 'heap-buffer-overflow in coders/meta.c:496', 'state': 'closed', 'created_at': '2016-01-24T01:29:08Z', 'closed_at': '2016-01-25T00:23:15Z', 'labels': []}
+{'issuenumber': 93, 'title': 'heap-buffer-overflow in MagickCore/locale.c:1517', 'state': 'closed', 'created_at': '2016-01-24T01:28:55Z', 'closed_at': '2016-02-05T01:35:51Z', 'labels': []}
+{'issuenumber': 92, 'title': 'heap-buffer-overflow in coders/psd.c:524', 'state': 'closed', 'created_at': '2016-01-24T01:28:42Z', 'closed_at': '2016-02-05T01:37:23Z', 'labels': []}
+{'issuenumber': 91, 'title': 'heap-buffer-overflow in coders/sun.c:173', 'state': 'closed', 'created_at': '2016-01-24T01:28:28Z', 'closed_at': '2016-02-05T01:54:11Z', 'labels': []}
+{'issuenumber': 90, 'title': 'heap-buffer-overflow in coders/hdr.c:622', 'state': 'closed', 'created_at': '2016-01-22T21:50:37Z', 'closed_at': '2016-02-07T04:40:23Z', 'labels': []}
+{'issuenumber': 89, 'title': "unable to open image `/tmp/magick-17483dH3bBD3MdnV2.pam': No such file or directory", 'state': 'closed', 'created_at': '2016-01-21T21:40:41Z', 'closed_at': '2016-02-02T04:33:05Z', 'labels': []}
+{'issuenumber': 84, 'title': 'Add support for writing RLE/ZIP compressed layers in the PSD writer.', 'state': 'closed', 'created_at': '2016-01-17T13:47:28Z', 'closed_at': '2016-10-16T10:36:47Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 83, 'title': 'out-of-bounds read in coders/psd.c:797 ReadPSDChannelPixels', 'state': 'closed', 'created_at': '2016-01-13T11:40:06Z', 'closed_at': '2016-01-17T08:11:36Z', 'labels': []}
+{'issuenumber': 82, 'title': 'out-of-bounds read in coders/rle.c:590 ReadRLEImage', 'state': 'closed', 'created_at': '2016-01-13T03:15:41Z', 'closed_at': '2016-01-15T15:22:15Z', 'labels': []}
+{'issuenumber': 81, 'title': 'out-of-bounds read in coders/sun.c:499 ReadSUNImage', 'state': 'closed', 'created_at': '2016-01-13T03:15:26Z', 'closed_at': '2016-01-15T15:22:35Z', 'labels': []}
+{'issuenumber': 80, 'title': 'out-of-bounds read in coders/pict.c:633 EncodeImage', 'state': 'closed', 'created_at': '2016-01-13T03:15:09Z', 'closed_at': '2016-01-15T15:22:45Z', 'labels': []}
+{'issuenumber': 79, 'title': ' heap-buffer-overflow in coders/psd.c:2240 PSDPackbitsEncodeImage', 'state': 'closed', 'created_at': '2016-01-13T03:14:37Z', 'closed_at': '2016-01-15T15:23:15Z', 'labels': []}
+{'issuenumber': 78, 'title': 'out-of-bounds read in MagickCore/pixel-accessor.h:778 SetPixelViaPixelInfo', 'state': 'closed', 'created_at': '2016-01-13T03:14:23Z', 'closed_at': '2016-01-15T15:22:57Z', 'labels': []}
+{'issuenumber': 77, 'title': 'out-of-bounds read in coders/viff.c:445 ReadVIFFImage', 'state': 'closed', 'created_at': '2016-01-13T03:14:08Z', 'closed_at': '2016-01-15T15:23:07Z', 'labels': []}
+{'issuenumber': 76, 'title': 'Problem converting PSD[0] to TIFF with transparency handling', 'state': 'closed', 'created_at': '2016-01-11T11:32:17Z', 'closed_at': '2016-01-13T20:41:10Z', 'labels': []}
+{'issuenumber': 74, 'title': 'Add RTL support to ImageMagick', 'state': 'closed', 'created_at': '2016-01-06T09:09:03Z', 'closed_at': '2016-01-07T11:12:59Z', 'labels': []}
+{'issuenumber': 71, 'title': 'MagickSimilarityImage finds match at wrong location.', 'state': 'closed', 'created_at': '2015-12-28T17:05:59Z', 'closed_at': '2015-12-30T00:47:49Z', 'labels': []}
+{'issuenumber': 68, 'title': 'Setting the color depth on TIFF files written using the Wand API.', 'state': 'closed', 'created_at': '2015-12-17T14:41:58Z', 'closed_at': '2015-12-30T16:24:40Z', 'labels': []}
+{'issuenumber': 67, 'title': 'SegFault through shear image', 'state': 'closed', 'created_at': '2015-12-12T03:44:47Z', 'closed_at': '2015-12-21T21:22:49Z', 'labels': []}
+{'issuenumber': 66, 'title': 'Preserving image properties on write', 'state': 'closed', 'created_at': '2015-12-11T15:58:24Z', 'closed_at': '2015-12-30T16:35:47Z', 'labels': []}
+{'issuenumber': 65, 'title': 'Modulate Image - Make it work like GIMP', 'state': 'closed', 'created_at': '2015-12-10T06:41:48Z', 'closed_at': '2015-12-10T16:32:35Z', 'labels': []}
+{'issuenumber': 64, 'title': 'RGB -> HSL -> RGB different result.', 'state': 'closed', 'created_at': '2015-12-09T15:35:09Z', 'closed_at': '2015-12-29T21:10:16Z', 'labels': []}
+{'issuenumber': 63, 'title': "SVG Density / Resolution doesn't work in MagickWand", 'state': 'closed', 'created_at': '2015-12-07T08:20:22Z', 'closed_at': '2015-12-31T13:57:59Z', 'labels': []}
+{'issuenumber': 62, 'title': 'Uninitialized variable in DistortImage.', 'state': 'closed', 'created_at': '2015-12-06T23:19:15Z', 'closed_at': '2015-12-31T13:58:11Z', 'labels': []}
+{'issuenumber': 61, 'title': 'changing the path for ImageMagick', 'state': 'closed', 'created_at': '2015-12-06T19:12:57Z', 'closed_at': '2015-12-31T09:30:09Z', 'labels': []}
+{'issuenumber': 60, 'title': 'TintImage values', 'state': 'closed', 'created_at': '2015-12-04T21:20:27Z', 'closed_at': '2015-12-05T13:11:43Z', 'labels': []}
+{'issuenumber': 59, 'title': 'No such file or directory (Windows 10 & Visual Studio 2015)', 'state': 'closed', 'created_at': '2015-11-24T00:55:25Z', 'closed_at': '2015-11-29T14:03:30Z', 'labels': []}
+{'issuenumber': 58, 'title': 'Documentation error for -composite', 'state': 'closed', 'created_at': '2015-11-21T16:59:49Z', 'closed_at': '2015-11-23T20:11:48Z', 'labels': []}
+{'issuenumber': 57, 'title': 'Gray artifacts in large gif when using -layers optimize', 'state': 'closed', 'created_at': '2015-11-20T12:31:11Z', 'closed_at': '2015-12-07T22:23:22Z', 'labels': []}
+{'issuenumber': 55, 'title': 'MagickSetImageProperty Persisting values', 'state': 'closed', 'created_at': '2015-11-16T16:25:08Z', 'closed_at': '2015-11-17T14:11:15Z', 'labels': []}
+{'issuenumber': 54, 'title': 'PixelColor off by one on i386', 'state': 'closed', 'created_at': '2015-11-08T16:03:20Z', 'closed_at': '2015-11-11T01:46:57Z', 'labels': []}
+{'issuenumber': 53, 'title': "'UnregisterDOTImage' should check whether 'graphic_context' is NULL", 'state': 'closed', 'created_at': '2015-11-06T18:03:12Z', 'closed_at': '2015-11-07T21:36:18Z', 'labels': []}
+{'issuenumber': 52, 'title': 'Python 3.5 support for pymagick', 'state': 'closed', 'created_at': '2015-11-03T20:16:20Z', 'closed_at': '2015-12-31T13:58:26Z', 'labels': []}
+{'issuenumber': 51, 'title': "convert file.png file.jpg doesn't seem to output a jpg", 'state': 'closed', 'created_at': '2015-10-29T12:54:52Z', 'closed_at': '2015-10-29T17:41:34Z', 'labels': []}
+{'issuenumber': 48, 'title': 'convert: pixel cache allocation failed when getting layers from psd', 'state': 'closed', 'created_at': '2015-10-20T10:33:14Z', 'closed_at': '2015-10-20T14:14:22Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 47, 'title': 'inkskape: prefix should not fall back to other methods', 'state': 'closed', 'created_at': '2015-09-30T06:11:49Z', 'closed_at': '2015-10-02T23:00:45Z', 'labels': []}
+{'issuenumber': 46, 'title': 'MSVG rendering should report errors instead of failing silently', 'state': 'closed', 'created_at': '2015-09-30T06:02:22Z', 'closed_at': '2015-10-03T12:26:52Z', 'labels': []}
+{'issuenumber': 45, 'title': 'Link to binary releases in README is dead', 'state': 'closed', 'created_at': '2015-09-29T14:40:38Z', 'closed_at': '2015-09-29T15:01:06Z', 'labels': []}
+{'issuenumber': 44, 'title': 'IM hardcodes `$HOME/.config`', 'state': 'closed', 'created_at': '2015-09-28T17:40:32Z', 'closed_at': '2015-10-02T23:01:09Z', 'labels': []}
+{'issuenumber': 43, 'title': "caption '%t' for filenames with @ character segfaults imagemagick", 'state': 'closed', 'created_at': '2015-09-28T14:51:51Z', 'closed_at': '2015-10-02T23:00:11Z', 'labels': []}
+{'issuenumber': 41, 'title': 'Data truncation in commit 6b6fd6', 'state': 'closed', 'created_at': '2015-09-26T20:10:56Z', 'closed_at': '2015-09-27T01:48:40Z', 'labels': []}
+{'issuenumber': 40, 'title': 'MagickSetImageAlphaChannel can lead to corrupted images 6.9.2-0', 'state': 'closed', 'created_at': '2015-09-25T23:15:53Z', 'closed_at': '2015-09-30T11:25:30Z', 'labels': []}
+{'issuenumber': 38, 'title': 'MagickSparseColorImage on ImageMagick7', 'state': 'closed', 'created_at': '2015-09-25T10:41:34Z', 'closed_at': '2015-10-02T23:05:34Z', 'labels': []}
+{'issuenumber': 35, 'title': 'IM6 -> IM7 MagickSimilarityImage', 'state': 'closed', 'created_at': '2015-09-24T13:48:17Z', 'closed_at': '2015-12-28T17:00:44Z', 'labels': []}
+{'issuenumber': 33, 'title': 'Segfault on ubuntu since 6.9.1-5', 'state': 'closed', 'created_at': '2015-09-21T21:03:53Z', 'closed_at': '2015-09-24T13:17:19Z', 'labels': []}
+{'issuenumber': 32, 'title': 'Segfault in ReadRLEImage (coders/rle.c:334)', 'state': 'closed', 'created_at': '2015-09-17T01:00:46Z', 'closed_at': '2015-09-17T20:51:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 31, 'title': 'Access violation at MagickCore/string.c:1647', 'state': 'closed', 'created_at': '2015-09-17T00:36:52Z', 'closed_at': '2015-09-17T13:07:47Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 30, 'title': 'Infinite loop in ClonePixelCacheRepository (MagickCore/cache.c:3266)', 'state': 'closed', 'created_at': '2015-09-17T00:27:44Z', 'closed_at': '2015-09-17T10:55:10Z', 'labels': []}
+{'issuenumber': 29, 'title': 'Image compression not working on some png images.', 'state': 'closed', 'created_at': '2015-09-16T12:01:52Z', 'closed_at': '2015-09-28T06:43:53Z', 'labels': []}
+{'issuenumber': 28, 'title': "Identify can't identify jpeg2000 without filename extension", 'state': 'closed', 'created_at': '2015-09-09T17:31:03Z', 'closed_at': '2015-09-10T11:07:51Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 27, 'title': ' Practically-infinite loop in MagickCore/image.c - SetImageBackgroundColor', 'state': 'closed', 'created_at': '2015-09-07T04:15:32Z', 'closed_at': '2015-09-07T12:28:46Z', 'labels': []}
+{'issuenumber': 26, 'title': 'Failed assertion in blob.c:500', 'state': 'closed', 'created_at': '2015-09-07T03:58:16Z', 'closed_at': '2015-09-27T09:27:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 25, 'title': 'Null dereference coders/png.c:5134', 'state': 'closed', 'created_at': '2015-09-07T03:49:18Z', 'closed_at': '2015-09-17T10:39:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 24, 'title': "ImageMagick can't detect animated PNG", 'state': 'closed', 'created_at': '2015-08-31T11:39:56Z', 'closed_at': '2015-09-03T13:32:16Z', 'labels': {'name': 'upstream'}}
+{'issuenumber': 23, 'title': 'NOT converting image from RGB colorspace to CMYK colorspace', 'state': 'closed', 'created_at': '2015-08-31T09:44:56Z', 'closed_at': '2015-09-03T13:32:43Z', 'labels': []}
+{'issuenumber': 22, 'title': 'convert failed when reading animated WEBP', 'state': 'closed', 'created_at': '2015-08-31T09:03:30Z', 'closed_at': '2015-08-31T11:55:41Z', 'labels': []}
+{'issuenumber': 19, 'title': 'Resource limit for area not respected', 'state': 'closed', 'created_at': '2015-07-22T11:08:57Z', 'closed_at': '2015-07-22T13:44:45Z', 'labels': []}
+{'issuenumber': 18, 'title': 'Error when chop after trim', 'state': 'closed', 'created_at': '2015-07-22T05:39:58Z', 'closed_at': '2015-07-22T12:58:17Z', 'labels': {'name': 'usage'}}
+{'issuenumber': 16, 'title': 'sendfile(2) used in MagickCore/cache.c is not portable.', 'state': 'closed', 'created_at': '2015-07-11T19:50:57Z', 'closed_at': '2015-07-11T23:34:13Z', 'labels': []}
+{'issuenumber': 15, 'title': "*FLAG 'sanitization' breaks some variants of user-provided flags", 'state': 'closed', 'created_at': '2015-07-07T05:17:52Z', 'closed_at': '2015-07-07T23:11:08Z', 'labels': []}
+{'issuenumber': 13, 'title': 'MagickWand Gravity + composite', 'state': 'closed', 'created_at': '2015-06-24T08:42:11Z', 'closed_at': '2015-06-28T15:53:22Z', 'labels': []}
+{'issuenumber': 12, 'title': "Convert doesn't properly escape JSON output", 'state': 'closed', 'created_at': '2015-06-23T03:45:33Z', 'closed_at': '2015-06-27T15:57:11Z', 'labels': []}
+{'issuenumber': 11, 'title': 'validate-formats-* tests fail when built with openjpeg2 support on big endian arches', 'state': 'closed', 'created_at': '2015-06-17T12:30:24Z', 'closed_at': '2015-06-23T19:51:54Z', 'labels': []}
+{'issuenumber': 10, 'title': 'libwmf.pc only exists in RedHat based distributions', 'state': 'closed', 'created_at': '2015-06-16T01:18:34Z', 'closed_at': '2015-06-16T10:37:15Z', 'labels': []}
+{'issuenumber': 7, 'title': 'ImageMagick generates improper output images', 'state': 'closed', 'created_at': '2015-06-09T09:41:20Z', 'closed_at': '2015-06-09T12:40:18Z', 'labels': []}
+{'issuenumber': 6, 'title': 'ImageMagick generates improper output images', 'state': 'closed', 'created_at': '2015-06-09T07:52:22Z', 'closed_at': '2015-06-09T09:24:13Z', 'labels': []}
+{'issuenumber': 5, 'title': 'IM7 upgrade notes for changed functions', 'state': 'closed', 'created_at': '2015-06-08T23:15:18Z', 'closed_at': '2015-06-11T16:41:13Z', 'labels': []}
+{'issuenumber': 4, 'title': 'IM 7 Channel Maps/Masks', 'state': 'closed', 'created_at': '2015-06-07T13:26:26Z', 'closed_at': '2015-06-07T16:23:06Z', 'labels': []}
+{'issuenumber': 3, 'title': 'convert foo.odt foo.pdf fails (delegates do not support shell commands)', 'state': 'closed', 'created_at': '2015-06-06T13:01:22Z', 'closed_at': '2015-06-06T15:27:12Z', 'labels': []}

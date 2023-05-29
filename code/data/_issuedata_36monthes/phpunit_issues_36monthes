@@ -1,0 +1,658 @@
+{'issuenumber': 950, 'title': '@runClassInSeparateProcess', 'state': 'closed', 'created_at': '2013-06-27T12:49:35Z', 'closed_at': '2015-10-02T04:15:20Z', 'labels': []}
+{'issuenumber': 949, 'title': 'Mismatching posix chars when using colors', 'state': 'closed', 'created_at': '2013-06-27T10:08:56Z', 'closed_at': '2013-07-02T08:35:14Z', 'labels': []}
+{'issuenumber': 946, 'title': 'Get rid of ctype dependency', 'state': 'closed', 'created_at': '2013-06-26T05:46:22Z', 'closed_at': '2013-10-12T07:35:20Z', 'labels': []}
+{'issuenumber': 945, 'title': 'Dependency on inherited test', 'state': 'closed', 'created_at': '2013-06-25T13:42:54Z', 'closed_at': '2015-10-02T04:15:27Z', 'labels': []}
+{'issuenumber': 944, 'title': 'Cannot stub exceptions', 'state': 'closed', 'created_at': '2013-06-24T20:18:13Z', 'closed_at': '2013-06-24T20:31:42Z', 'labels': []}
+{'issuenumber': 943, 'title': 'Memory leak and performance problems with many test methods', 'state': 'closed', 'created_at': '2013-06-24T19:37:21Z', 'closed_at': '2013-06-24T21:51:04Z', 'labels': []}
+{'issuenumber': 942, 'title': 'Fatal error occurs when PHP_Invoker is unavailable (PHPUnit 3.7.21)', 'state': 'closed', 'created_at': '2013-06-20T12:06:26Z', 'closed_at': '2013-06-20T16:31:48Z', 'labels': []}
+{'issuenumber': 941, 'title': 'assertAttributeEquals() uses getStaticAttribute() when Object name is string', 'state': 'closed', 'created_at': '2013-06-20T11:47:55Z', 'closed_at': '2013-06-20T14:50:32Z', 'labels': []}
+{'issuenumber': 940, 'title': 'Add command line option to use custom php.ini', 'state': 'closed', 'created_at': '2013-06-19T14:25:29Z', 'closed_at': '2014-07-06T18:06:47Z', 'labels': []}
+{'issuenumber': 939, 'title': 'Proposal: setExpectedExceptionMessage method', 'state': 'closed', 'created_at': '2013-06-19T08:05:39Z', 'closed_at': '2013-06-19T08:09:16Z', 'labels': []}
+{'issuenumber': 937, 'title': 'Authoritative source for coding standards', 'state': 'closed', 'created_at': '2013-06-15T08:25:05Z', 'closed_at': '2013-06-15T08:51:34Z', 'labels': []}
+{'issuenumber': 936, 'title': 'Improved docs for installation', 'state': 'closed', 'created_at': '2013-06-13T06:49:28Z', 'closed_at': '2013-06-13T07:01:41Z', 'labels': []}
+{'issuenumber': 935, 'title': "assertEquals('1', '01'); PASS!", 'state': 'closed', 'created_at': '2013-06-11T20:00:23Z', 'closed_at': '2013-06-11T20:40:12Z', 'labels': []}
+{'issuenumber': 934, 'title': 'Classes with __toString() should be tested like strings when appropriate', 'state': 'closed', 'created_at': '2013-06-04T19:49:28Z', 'closed_at': '2013-10-12T11:00:23Z', 'labels': []}
+{'issuenumber': 933, 'title': 'Unable to mock Symfony/Yaml in a phpunit test', 'state': 'closed', 'created_at': '2013-06-03T20:37:08Z', 'closed_at': '2013-06-03T20:59:50Z', 'labels': []}
+{'issuenumber': 931, 'title': 'Neither PEAR nor Composer can install PHPUnit', 'state': 'closed', 'created_at': '2013-05-29T19:58:20Z', 'closed_at': '2013-05-29T20:15:55Z', 'labels': []}
+{'issuenumber': 930, 'title': ' Setting the auto_prepend_file option with the "-d" option', 'state': 'closed', 'created_at': '2013-05-29T13:38:31Z', 'closed_at': '2013-05-29T19:42:56Z', 'labels': []}
+{'issuenumber': 929, 'title': 'Configuration XML breaks with 3.7.21 when generating code coverage...?', 'state': 'closed', 'created_at': '2013-05-28T20:12:25Z', 'closed_at': '2013-05-29T04:03:32Z', 'labels': []}
+{'issuenumber': 928, 'title': '<exclude> behaves relative sometimes', 'state': 'closed', 'created_at': '2013-05-27T11:58:55Z', 'closed_at': '2013-05-29T04:53:33Z', 'labels': []}
+{'issuenumber': 927, 'title': 'Call to undefined function trait_exists()', 'state': 'closed', 'created_at': '2013-05-27T10:43:33Z', 'closed_at': '2013-05-27T10:56:45Z', 'labels': []}
+{'issuenumber': 926, 'title': "uncaught exception 'Exception' with message 'Serialization of 'SimpleXMLElement' is not allowed' on codeigniter", 'state': 'closed', 'created_at': '2013-05-27T02:08:28Z', 'closed_at': '2013-05-27T04:52:31Z', 'labels': []}
+{'issuenumber': 925, 'title': 'Change to Generator coming with 3.7.21 breaks mocking of internal PHP classes', 'state': 'closed', 'created_at': '2013-05-24T20:09:29Z', 'closed_at': '2013-05-24T21:46:16Z', 'labels': []}
+{'issuenumber': 924, 'title': 'PHPUnit depends on packages that broke backwards compatability', 'state': 'closed', 'created_at': '2013-05-23T03:30:41Z', 'closed_at': '2013-05-23T19:12:14Z', 'labels': []}
+{'issuenumber': 923, 'title': 'Expose backupGlobal blacklist via CLI and XML configuration file', 'state': 'closed', 'created_at': '2013-05-22T22:23:46Z', 'closed_at': '2015-10-02T04:15:36Z', 'labels': []}
+{'issuenumber': 920, 'title': '--no-coverage option to ovewrite config file', 'state': 'closed', 'created_at': '2013-05-21T17:01:56Z', 'closed_at': '2013-05-21T19:21:45Z', 'labels': []}
+{'issuenumber': 919, 'title': 'setUpOnce() tearDownOnce() is this possible?', 'state': 'closed', 'created_at': '2013-05-21T14:09:05Z', 'closed_at': '2013-05-21T15:37:49Z', 'labels': []}
+{'issuenumber': 917, 'title': 'Allow specifying custom code coverage driver', 'state': 'closed', 'created_at': '2013-05-20T20:15:59Z', 'closed_at': '2013-07-29T13:10:37Z', 'labels': []}
+{'issuenumber': 916, 'title': 'branch/tags for 3.8.x versions?', 'state': 'closed', 'created_at': '2013-05-20T10:05:13Z', 'closed_at': '2013-05-20T10:08:42Z', 'labels': []}
+{'issuenumber': 915, 'title': 'interface error load', 'state': 'closed', 'created_at': '2013-05-19T19:57:20Z', 'closed_at': '2013-05-19T20:58:36Z', 'labels': []}
+{'issuenumber': 914, 'title': 'Granular configuration of strict mode', 'state': 'closed', 'created_at': '2013-05-19T07:43:07Z', 'closed_at': '2014-01-05T11:04:16Z', 'labels': {'name': 'type/enhancement'}}
+{'issuenumber': 913, 'title': 'Refactor how the configuration is handled', 'state': 'closed', 'created_at': '2013-05-18T07:40:21Z', 'closed_at': '2015-10-02T04:15:52Z', 'labels': {'name': 'type/refactoring'}}
+{'issuenumber': 912, 'title': 'phpunit.xml.dist referencing a non-existing XSD', 'state': 'closed', 'created_at': '2013-05-15T10:51:41Z', 'closed_at': '2013-05-16T07:13:56Z', 'labels': []}
+{'issuenumber': 911, 'title': 'Loading test decorators - Feature request', 'state': 'closed', 'created_at': '2013-05-13T13:22:31Z', 'closed_at': '2015-10-02T04:15:58Z', 'labels': []}
+{'issuenumber': 910, 'title': 'Static Analysis Results', 'state': 'closed', 'created_at': '2013-05-13T05:47:25Z', 'closed_at': '2013-05-15T05:54:32Z', 'labels': []}
+{'issuenumber': 909, 'title': ' process isolation could use fork()', 'state': 'closed', 'created_at': '2013-05-08T23:59:12Z', 'closed_at': '2013-05-14T09:00:01Z', 'labels': []}
+{'issuenumber': 908, 'title': "require_once's in Util/ErrorHandler making PHPUnit go bang when used with Composer", 'state': 'closed', 'created_at': '2013-05-08T11:32:43Z', 'closed_at': '2013-05-12T06:47:02Z', 'labels': []}
+{'issuenumber': 907, 'title': 'Converting errors to exceptions option overrides notice / warning conversions', 'state': 'closed', 'created_at': '2013-05-08T00:43:25Z', 'closed_at': '2013-05-08T03:32:18Z', 'labels': []}
+{'issuenumber': 906, 'title': 'Support namespaces or package annotations in @covers', 'state': 'closed', 'created_at': '2013-05-07T11:31:17Z', 'closed_at': '2013-05-14T22:56:08Z', 'labels': []}
+{'issuenumber': 905, 'title': 'IsAnything constraint is counted as an expectation', 'state': 'closed', 'created_at': '2013-05-07T10:51:26Z', 'closed_at': '2013-05-07T12:05:16Z', 'labels': {'name': 'type/bug'}}
+{'issuenumber': 904, 'title': 'Fatal error is occured when AssertionFailedError is thrown and method covers invalid class', 'state': 'closed', 'created_at': '2013-05-03T15:35:25Z', 'closed_at': '2013-05-03T15:53:52Z', 'labels': []}
+{'issuenumber': 903, 'title': 'Selenium 2 - setDesiredCapabilities not having any effect', 'state': 'closed', 'created_at': '2013-05-03T14:21:42Z', 'closed_at': '2013-05-03T14:24:27Z', 'labels': []}
+{'issuenumber': 900, 'title': 'broken redirection from phpunit.de to www.phpunit.de', 'state': 'closed', 'created_at': '2013-04-30T06:54:50Z', 'closed_at': '2013-04-30T06:57:24Z', 'labels': []}
+{'issuenumber': 899, 'title': '@dataprovider for another @dataprovider is this should working? ', 'state': 'closed', 'created_at': '2013-04-26T14:54:05Z', 'closed_at': '2013-04-28T09:08:37Z', 'labels': []}
+{'issuenumber': 896, 'title': 'error in PHPUnit_Framework_TestFailure, method toString() ', 'state': 'closed', 'created_at': '2013-04-23T09:44:37Z', 'closed_at': '2013-04-23T21:21:23Z', 'labels': []}
+{'issuenumber': 895, 'title': 'Idea: add annotations to control which tests run', 'state': 'closed', 'created_at': '2013-04-22T16:23:53Z', 'closed_at': '2013-04-22T22:34:03Z', 'labels': []}
+{'issuenumber': 894, 'title': 'Error when using @runInSeparateProcess with markTestSkipped()', 'state': 'closed', 'created_at': '2013-04-19T13:59:59Z', 'closed_at': '2013-04-24T05:55:03Z', 'labels': []}
+{'issuenumber': 892, 'title': 'No way to skip TestSuite called from command line', 'state': 'closed', 'created_at': '2013-04-18T00:37:50Z', 'closed_at': '2013-04-18T01:11:47Z', 'labels': []}
+{'issuenumber': 891, 'title': 'assertJsonStringEqualsJsonString error is glued to assert message', 'state': 'closed', 'created_at': '2013-04-17T05:15:47Z', 'closed_at': '2013-05-04T11:24:04Z', 'labels': []}
+{'issuenumber': 889, 'title': 'Consider changes in searching path for composer install algorithm', 'state': 'closed', 'created_at': '2013-04-14T21:18:51Z', 'closed_at': '2013-05-04T11:24:04Z', 'labels': []}
+{'issuenumber': 888, 'title': 'Allow to add dynamic functionality to all testcases', 'state': 'closed', 'created_at': '2013-04-12T10:31:37Z', 'closed_at': '2015-10-02T04:16:07Z', 'labels': []}
+{'issuenumber': 887, 'title': 'Enable Logging at testsuite scope', 'state': 'closed', 'created_at': '2013-04-11T18:40:28Z', 'closed_at': '2015-10-02T04:16:15Z', 'labels': []}
+{'issuenumber': 886, 'title': '@depends syntax...', 'state': 'closed', 'created_at': '2013-04-09T22:34:26Z', 'closed_at': '2013-04-09T23:24:26Z', 'labels': []}
+{'issuenumber': 885, 'title': '@ignore is ignored for @medium tests', 'state': 'closed', 'created_at': '2013-04-09T16:08:02Z', 'closed_at': '2013-04-09T16:19:22Z', 'labels': []}
+{'issuenumber': 881, 'title': 'Trait constructor not invoked by getObjectForTrait().', 'state': 'closed', 'created_at': '2013-04-03T21:27:42Z', 'closed_at': '2015-10-02T04:16:25Z', 'labels': []}
+{'issuenumber': 880, 'title': "PHPUnit isn't loading a php.ini, somehow overrides every attempt to set include_path", 'state': 'closed', 'created_at': '2013-04-02T22:55:45Z', 'closed_at': '2013-04-03T02:49:34Z', 'labels': []}
+{'issuenumber': 879, 'title': 'Multi-core support', 'state': 'closed', 'created_at': '2013-04-02T21:11:35Z', 'closed_at': '2013-04-03T04:16:13Z', 'labels': []}
+{'issuenumber': 878, 'title': "`PHPUnit_Util_XML::findNodes()` doesn't handle ambiguity properly", 'state': 'closed', 'created_at': '2013-04-01T10:30:47Z', 'closed_at': '2014-06-16T04:20:10Z', 'labels': []}
+{'issuenumber': 875, 'title': 'Add method skipped Exception', 'state': 'closed', 'created_at': '2013-03-29T14:46:47Z', 'closed_at': '2013-03-31T23:09:45Z', 'labels': []}
+{'issuenumber': 874, 'title': 'Add method skipped Condition', 'state': 'closed', 'created_at': '2013-03-29T14:27:42Z', 'closed_at': '2013-03-31T23:00:33Z', 'labels': []}
+{'issuenumber': 873, 'title': 'PHPUnit suppresses exceptions thrown outside of test case function', 'state': 'closed', 'created_at': '2013-03-28T17:57:20Z', 'closed_at': '2013-03-29T07:02:54Z', 'labels': []}
+{'issuenumber': 872, 'title': '--repeat breaks \\PHPUnit_Framework_MockObject_Matcher_InvokedCount', 'state': 'closed', 'created_at': '2013-03-28T15:13:34Z', 'closed_at': '2015-10-02T04:16:33Z', 'labels': []}
+{'issuenumber': 871, 'title': 'Add Comparator for DateTime objects', 'state': 'closed', 'created_at': '2013-03-28T14:11:28Z', 'closed_at': '2013-03-29T08:56:13Z', 'labels': {'name': 'type/enhancement'}}
+{'issuenumber': 870, 'title': 'CLI option -vc acts strangely', 'state': 'closed', 'created_at': '2013-03-28T03:54:39Z', 'closed_at': '2013-04-03T04:49:36Z', 'labels': []}
+{'issuenumber': 869, 'title': 'assertSelectCount fails with plus selector', 'state': 'closed', 'created_at': '2013-03-27T15:00:10Z', 'closed_at': '2013-04-01T10:04:07Z', 'labels': []}
+{'issuenumber': 868, 'title': 'Test Failures', 'state': 'closed', 'created_at': '2013-03-26T19:28:51Z', 'closed_at': '2013-03-26T19:36:04Z', 'labels': []}
+{'issuenumber': 867, 'title': 'Feature Request: Notify when getMock() class does not Exist', 'state': 'closed', 'created_at': '2013-03-22T17:22:47Z', 'closed_at': '2013-03-23T21:26:35Z', 'labels': []}
+{'issuenumber': 866, 'title': '"Declaration of MOCK::METHOD() must be compatible with INTERFACE::METHOD(TYPE-HINTING $ARG)"', 'state': 'closed', 'created_at': '2013-03-21T07:13:50Z', 'closed_at': '2013-03-21T07:34:46Z', 'labels': []}
+{'issuenumber': 865, 'title': 'Attempts to include_once directories when given empty suffix', 'state': 'closed', 'created_at': '2013-03-20T20:38:00Z', 'closed_at': '2015-10-02T04:16:41Z', 'labels': []}
+{'issuenumber': 864, 'title': 'PEAR installer does not install command-line test runner', 'state': 'closed', 'created_at': '2013-03-20T15:34:31Z', 'closed_at': '2013-03-21T12:49:59Z', 'labels': []}
+{'issuenumber': 863, 'title': 'Number of tests to run calculated incorrectly when --repeat is used', 'state': 'closed', 'created_at': '2013-03-17T15:31:34Z', 'closed_at': '2013-03-18T01:30:09Z', 'labels': {'name': 'type/bug'}}
+{'issuenumber': 860, 'title': 'Replace symfony/yaml', 'state': 'closed', 'created_at': '2013-03-13T22:11:42Z', 'closed_at': '2013-03-19T08:14:44Z', 'labels': []}
+{'issuenumber': 858, 'title': 'Problem testing Symfony 2.0 project', 'state': 'closed', 'created_at': '2013-03-13T13:48:44Z', 'closed_at': '2013-03-14T03:57:21Z', 'labels': []}
+{'issuenumber': 856, 'title': 'define() + runInSeparateProcess =  Constant already defined', 'state': 'closed', 'created_at': '2013-03-13T05:31:14Z', 'closed_at': '2013-03-13T07:14:52Z', 'labels': []}
+{'issuenumber': 855, 'title': 'Class attribute name validity check', 'state': 'closed', 'created_at': '2013-03-11T14:23:08Z', 'closed_at': '2013-03-14T03:54:34Z', 'labels': []}
+{'issuenumber': 854, 'title': 'strict mode causes problems with xdebug breakpoints', 'state': 'closed', 'created_at': '2013-03-09T16:25:04Z', 'closed_at': '2013-03-09T20:12:51Z', 'labels': []}
+{'issuenumber': 852, 'title': 'PHPUnit 3.7.* dev releases create confusion in composer.json', 'state': 'closed', 'created_at': '2013-03-08T08:11:13Z', 'closed_at': '2013-03-08T09:11:29Z', 'labels': []}
+{'issuenumber': 851, 'title': 'phpunit documentation (404 on specified URL)', 'state': 'closed', 'created_at': '2013-03-07T23:09:50Z', 'closed_at': '2013-03-07T23:32:53Z', 'labels': []}
+{'issuenumber': 849, 'title': 'Selenium Server creates cookies on localhost domain only', 'state': 'closed', 'created_at': '2013-03-07T02:00:14Z', 'closed_at': '2013-03-07T04:09:28Z', 'labels': []}
+{'issuenumber': 848, 'title': 'PHPUnit/Autoload.php requires a non-existant Symfony/Component/Yaml/autoloader.php', 'state': 'closed', 'created_at': '2013-03-07T01:24:02Z', 'closed_at': '2013-03-07T02:51:01Z', 'labels': []}
+{'issuenumber': 847, 'title': '--self-update switch for phpunit.phar', 'state': 'closed', 'created_at': '2013-03-04T12:28:22Z', 'closed_at': '2013-08-26T11:54:44Z', 'labels': []}
+{'issuenumber': 846, 'title': 'PEAR installation - problems with autoloading  (v. 3.7.15)', 'state': 'closed', 'created_at': '2013-03-02T18:56:16Z', 'closed_at': '2013-03-04T20:37:55Z', 'labels': []}
+{'issuenumber': 845, 'title': 'Travis build failing for 3.7', 'state': 'closed', 'created_at': '2013-03-02T01:03:41Z', 'closed_at': '2013-03-02T11:46:19Z', 'labels': []}
+{'issuenumber': 843, 'title': 'Output is incorrect when skipping depended upon tests?', 'state': 'closed', 'created_at': '2013-03-01T18:04:59Z', 'closed_at': '2015-10-02T04:16:47Z', 'labels': []}
+{'issuenumber': 842, 'title': 'HTML Code Coverage "zend_mm_heap corrupted"', 'state': 'closed', 'created_at': '2013-03-01T10:43:01Z', 'closed_at': '2013-03-01T10:54:21Z', 'labels': []}
+{'issuenumber': 840, 'title': 'No stacktrace (location info) about test failure for TAP format', 'state': 'closed', 'created_at': '2013-02-27T14:13:50Z', 'closed_at': '2015-10-02T04:16:56Z', 'labels': []}
+{'issuenumber': 839, 'title': "Bug with mock's with() instruction", 'state': 'closed', 'created_at': '2013-02-27T10:20:47Z', 'closed_at': '2013-02-28T10:18:55Z', 'labels': []}
+{'issuenumber': 837, 'title': "Skeleton generator doesn't import exceptions", 'state': 'closed', 'created_at': '2013-02-24T10:51:16Z', 'closed_at': '2013-02-24T11:58:29Z', 'labels': []}
+{'issuenumber': 836, 'title': 'Data Providers get executed before setupBeforeClass', 'state': 'closed', 'created_at': '2013-02-21T15:38:11Z', 'closed_at': '2013-02-21T18:50:09Z', 'labels': []}
+{'issuenumber': 835, 'title': 'Printers that extend `PHPUnit_TextUI_ResultPrinter` should have similar construction', 'state': 'closed', 'created_at': '2013-02-21T01:18:35Z', 'closed_at': '2013-02-24T21:03:08Z', 'labels': {'name': 'type/enhancement'}}
+{'issuenumber': 834, 'title': '@requires os', 'state': 'closed', 'created_at': '2013-02-20T09:19:23Z', 'closed_at': '2013-02-21T06:01:47Z', 'labels': []}
+{'issuenumber': 833, 'title': 'Mocking of a function with parameter of an object passed by reference', 'state': 'closed', 'created_at': '2013-02-20T01:23:21Z', 'closed_at': '2013-02-20T06:19:11Z', 'labels': []}
+{'issuenumber': 830, 'title': 'PHP Notice:  Undefined offset 1 in XML.php when running phpunit', 'state': 'closed', 'created_at': '2013-02-19T10:15:39Z', 'closed_at': '2013-02-20T06:26:06Z', 'labels': []}
+{'issuenumber': 827, 'title': 'assert fails randomly', 'state': 'closed', 'created_at': '2013-02-18T19:10:42Z', 'closed_at': '2013-02-18T20:50:12Z', 'labels': []}
+{'issuenumber': 823, 'title': 'Process isolation not working on windows if there are spaces in path to php.exe', 'state': 'closed', 'created_at': '2013-02-17T13:36:29Z', 'closed_at': '2013-02-18T05:30:50Z', 'labels': []}
+{'issuenumber': 820, 'title': 'Regression: NAN testing fails since 3.7.14', 'state': 'closed', 'created_at': '2013-02-14T13:24:00Z', 'closed_at': '2013-03-11T07:18:57Z', 'labels': []}
+{'issuenumber': 819, 'title': "After mocking class with getMock(), mock isn't destroyed when it should be", 'state': 'closed', 'created_at': '2013-02-14T11:43:37Z', 'closed_at': '2015-06-21T08:22:38Z', 'labels': []}
+{'issuenumber': 818, 'title': 'phpunit 3.7.x installed using composer fails because of cleanup in php-timer', 'state': 'closed', 'created_at': '2013-02-13T13:58:21Z', 'closed_at': '2013-02-20T14:02:06Z', 'labels': []}
+{'issuenumber': 816, 'title': 'phpunit 3.7 - Dependencies not compatible with PHP 5.3', 'state': 'closed', 'created_at': '2013-02-11T15:37:01Z', 'closed_at': '2013-02-11T15:43:53Z', 'labels': []}
+{'issuenumber': 815, 'title': 'Fix symfony/yaml requirement', 'state': 'closed', 'created_at': '2013-02-11T10:12:46Z', 'closed_at': '2013-02-11T10:14:36Z', 'labels': []}
+{'issuenumber': 814, 'title': 'Shipping a base test listener', 'state': 'closed', 'created_at': '2013-02-09T11:30:41Z', 'closed_at': '2013-03-10T17:24:35Z', 'labels': []}
+{'issuenumber': 813, 'title': '@before and @after annotations', 'state': 'closed', 'created_at': '2013-02-09T11:03:42Z', 'closed_at': '2013-05-04T08:03:58Z', 'labels': []}
+{'issuenumber': 810, 'title': 'failed to open dir: Too many open files in /usr/lib/php/pear/File/Iterator/Factory.php', 'state': 'closed', 'created_at': '2013-02-08T09:02:46Z', 'closed_at': '2013-02-08T11:06:22Z', 'labels': []}
+{'issuenumber': 806, 'title': 'PHPUnit_Util_Type does not handle array references properly', 'state': 'closed', 'created_at': '2013-02-05T01:06:22Z', 'closed_at': '2013-02-05T06:34:26Z', 'labels': []}
+{'issuenumber': 805, 'title': "PHPUnit 3.7.13 + Hiphop-php = Class '' could not be found in '/home/somedir/phpunit/phpunit'.", 'state': 'closed', 'created_at': '2013-02-04T07:58:28Z', 'closed_at': '2013-05-13T08:13:43Z', 'labels': []}
+{'issuenumber': 802, 'title': "Trying to instantiate ReflectionClass object w/ path that doesn't exist", 'state': 'closed', 'created_at': '2013-01-30T20:49:19Z', 'closed_at': '2013-01-30T22:00:13Z', 'labels': []}
+{'issuenumber': 796, 'title': 'Mocking a method with a reference to an object will make argument matches fail', 'state': 'closed', 'created_at': '2013-01-29T20:13:31Z', 'closed_at': '2013-02-05T08:02:06Z', 'labels': []}
+{'issuenumber': 795, 'title': 'require_once triggers error when phpunit installed through composer.', 'state': 'closed', 'created_at': '2013-01-29T04:46:12Z', 'closed_at': '2013-02-05T09:01:38Z', 'labels': []}
+{'issuenumber': 794, 'title': 'Test stops after asserting exception is thrown', 'state': 'closed', 'created_at': '2013-01-28T13:11:57Z', 'closed_at': '2013-01-28T17:44:50Z', 'labels': []}
+{'issuenumber': 791, 'title': 'Assume a single argument of an xml file means -c', 'state': 'closed', 'created_at': '2013-01-24T12:48:43Z', 'closed_at': '2013-07-29T13:12:54Z', 'labels': []}
+{'issuenumber': 790, 'title': 'PHPUnit fails loading external classes', 'state': 'closed', 'created_at': '2013-01-23T15:33:53Z', 'closed_at': '2013-01-28T15:46:56Z', 'labels': []}
+{'issuenumber': 789, 'title': 'PHP INI settings would not be passed to child processes while "processIsolation" is on.', 'state': 'closed', 'created_at': '2013-01-22T03:52:01Z', 'closed_at': '2013-01-26T03:44:15Z', 'labels': []}
+{'issuenumber': 788, 'title': 'PHP ReflectionException:  Method suite does not exist in /usr/share/php/PHPUnit/Runner/BaseTestRunner.php', 'state': 'closed', 'created_at': '2013-01-22T03:16:19Z', 'closed_at': '2013-01-22T03:44:17Z', 'labels': []}
+{'issuenumber': 786, 'title': 'Failed to open Autoload.php', 'state': 'closed', 'created_at': '2013-01-20T06:32:38Z', 'closed_at': '2013-01-28T18:30:09Z', 'labels': []}
+{'issuenumber': 785, 'title': 'Symfony/Component/Yaml/Inline.php and Symfony/Component/Yaml/Escaper.php not found on test failure when using TAP output', 'state': 'closed', 'created_at': '2013-01-18T21:41:41Z', 'closed_at': '2013-03-01T15:55:47Z', 'labels': []}
+{'issuenumber': 784, 'title': 'dataProviders silence mock expectation failures', 'state': 'closed', 'created_at': '2013-01-18T20:29:44Z', 'closed_at': '2013-03-09T05:39:26Z', 'labels': []}
+{'issuenumber': 783, 'title': 'PHPUnit not "covering" files included in tests when a whitelist is defined.', 'state': 'closed', 'created_at': '2013-01-17T06:37:10Z', 'closed_at': '2013-01-26T04:01:55Z', 'labels': []}
+{'issuenumber': 775, 'title': 'Missing php-text-template in phpunit.phar (3.7.12)', 'state': 'closed', 'created_at': '2013-01-10T15:36:15Z', 'closed_at': '2013-01-10T15:57:32Z', 'labels': []}
+{'issuenumber': 767, 'title': 'Mock Objects Don\'t "use" their Traits', 'state': 'closed', 'created_at': '2013-01-05T16:42:12Z', 'closed_at': '2013-01-06T00:09:19Z', 'labels': []}
+{'issuenumber': 766, 'title': "Traits with Abstract Methods Aren't Testable", 'state': 'closed', 'created_at': '2013-01-05T16:34:57Z', 'closed_at': '2013-01-13T18:01:43Z', 'labels': []}
+{'issuenumber': 765, 'title': 'Fatal error triggered in PHPUnit when exception is thrown in data provider of a test with a dependency', 'state': 'closed', 'created_at': '2013-01-04T20:41:55Z', 'closed_at': '2013-01-07T05:32:51Z', 'labels': []}
+{'issuenumber': 764, 'title': '"Not" constraints generate a confusing error message', 'state': 'closed', 'created_at': '2013-01-03T01:00:45Z', 'closed_at': '2015-10-02T04:17:04Z', 'labels': {'name': 'type/bug'}}
+{'issuenumber': 763, 'title': 'assertTag - content - isHTML -failed', 'state': 'closed', 'created_at': '2012-12-31T00:16:49Z', 'closed_at': '2013-03-11T07:10:35Z', 'labels': []}
+{'issuenumber': 762, 'title': 'allCompletlyImplemented misspelled in the code', 'state': 'closed', 'created_at': '2012-12-27T11:07:17Z', 'closed_at': '2012-12-27T11:30:49Z', 'labels': []}
+{'issuenumber': 761, 'title': 'CDATA in assertXmlStringEqualsXmlString', 'state': 'closed', 'created_at': '2012-12-26T12:16:56Z', 'closed_at': '2013-01-04T01:40:49Z', 'labels': []}
+{'issuenumber': 756, 'title': 'PHPUnit 3.7 does not parse embedded PHP contained within YML files', 'state': 'closed', 'created_at': '2012-12-19T21:42:08Z', 'closed_at': '2012-12-19T22:18:41Z', 'labels': []}
+{'issuenumber': 755, 'title': 'When I want to run a certain test that are contained in a folder with an underscore', 'state': 'closed', 'created_at': '2012-12-19T20:27:47Z', 'closed_at': '2012-12-19T20:39:43Z', 'labels': []}
+{'issuenumber': 753, 'title': 'Local $tableNames variable not initialized in getTableNames method of Sqlite metadata implementation', 'state': 'closed', 'created_at': '2012-12-17T13:55:40Z', 'closed_at': '2012-12-17T16:33:31Z', 'labels': []}
+{'issuenumber': 750, 'title': 'assertSame does not work for NAN', 'state': 'closed', 'created_at': '2012-12-13T18:20:37Z', 'closed_at': '2013-02-06T06:39:49Z', 'labels': []}
+{'issuenumber': 749, 'title': 'callback() assert seems to be called incorrectly', 'state': 'closed', 'created_at': '2012-12-13T16:41:22Z', 'closed_at': '2014-07-06T08:53:49Z', 'labels': {'name': 'type/bug'}}
+{'issuenumber': 748, 'title': 'When using markTestSkipped in setUpBeforeClass, JSON TestListener will cause a fatal error', 'state': 'closed', 'created_at': '2012-12-13T11:33:25Z', 'closed_at': '2013-11-05T21:05:40Z', 'labels': []}
+{'issuenumber': 745, 'title': 'assertContains is not type-safe for (non-object) primitive types', 'state': 'closed', 'created_at': '2012-12-11T16:34:21Z', 'closed_at': '2013-03-16T04:03:24Z', 'labels': []}
+{'issuenumber': 744, 'title': 'TextUI/command not found', 'state': 'closed', 'created_at': '2012-12-10T06:57:58Z', 'closed_at': '2012-12-18T08:24:45Z', 'labels': []}
+{'issuenumber': 742, 'title': '"Segmentation fault: 11" when generating HTML code coverage report', 'state': 'closed', 'created_at': '2012-12-07T17:43:18Z', 'closed_at': '2012-12-10T20:30:17Z', 'labels': []}
+{'issuenumber': 741, 'title': 'Documentation omits support for mocking static methods', 'state': 'closed', 'created_at': '2012-12-06T18:48:05Z', 'closed_at': '2012-12-19T20:26:57Z', 'labels': []}
+{'issuenumber': 740, 'title': 'Zero methods / functions in code coverage reports', 'state': 'closed', 'created_at': '2012-12-06T15:50:51Z', 'closed_at': '2012-12-19T19:41:31Z', 'labels': []}
+{'issuenumber': 738, 'title': 'Odd characters that seem to be related to formatting are outputted', 'state': 'closed', 'created_at': '2012-12-06T08:59:20Z', 'closed_at': '2012-12-19T20:25:47Z', 'labels': []}
+{'issuenumber': 737, 'title': 'PHP/CodeCoverage/Filter.php not found; using composer on Windows', 'state': 'closed', 'created_at': '2012-12-03T20:17:18Z', 'closed_at': '2012-12-10T20:09:26Z', 'labels': []}
+{'issuenumber': 736, 'title': 'Binary strings in assertion messages', 'state': 'closed', 'created_at': '2012-12-02T18:02:18Z', 'closed_at': '2015-10-02T04:17:12Z', 'labels': []}
+{'issuenumber': 734, 'title': 'phpunit.phar cannot be executed if it is renamed', 'state': 'closed', 'created_at': '2012-11-30T00:06:39Z', 'closed_at': '2012-12-02T12:37:47Z', 'labels': []}
+{'issuenumber': 733, 'title': 'Allow <php> block inside <testsuite> in phpunit.xml', 'state': 'closed', 'created_at': '2012-11-29T22:04:04Z', 'closed_at': '2015-10-02T04:17:19Z', 'labels': []}
+{'issuenumber': 732, 'title': 'Nothing in Tests/ for Mock Objects.', 'state': 'closed', 'created_at': '2012-11-26T15:44:50Z', 'closed_at': '2012-11-26T15:49:28Z', 'labels': []}
+{'issuenumber': 731, 'title': 'PHPUnit returns invalid class name in the "No tests found in class ..." message.', 'state': 'closed', 'created_at': '2012-11-25T01:04:35Z', 'closed_at': '2012-11-25T12:59:52Z', 'labels': []}
+{'issuenumber': 730, 'title': 'Support "use" imports', 'state': 'closed', 'created_at': '2012-11-22T16:54:39Z', 'closed_at': '2012-11-22T17:08:40Z', 'labels': []}
+{'issuenumber': 729, 'title': 'Constraint_MethodExists and assertMethodExists', 'state': 'closed', 'created_at': '2012-11-22T10:51:41Z', 'closed_at': '2012-11-25T08:57:48Z', 'labels': []}
+{'issuenumber': 728, 'title': "No warning when class to be mocked doesn't exist", 'state': 'closed', 'created_at': '2012-11-22T10:08:09Z', 'closed_at': '2012-11-24T14:27:04Z', 'labels': []}
+{'issuenumber': 727, 'title': 'No output from command line', 'state': 'closed', 'created_at': '2012-11-21T17:59:26Z', 'closed_at': '2012-11-21T18:00:35Z', 'labels': []}
+{'issuenumber': 725, 'title': 'Phpunit Pear package repository and documentation website are down', 'state': 'closed', 'created_at': '2012-11-21T08:49:03Z', 'closed_at': '2012-11-21T08:54:18Z', 'labels': []}
+{'issuenumber': 724, 'title': 'Comparing Mocks fails since 3.7.2', 'state': 'closed', 'created_at': '2012-11-20T14:21:20Z', 'closed_at': '2012-11-26T19:39:05Z', 'labels': []}
+{'issuenumber': 721, 'title': 'getMock being called statically on incompatible context', 'state': 'closed', 'created_at': '2012-11-15T12:36:41Z', 'closed_at': '2012-11-15T12:39:12Z', 'labels': []}
+{'issuenumber': 720, 'title': 'Cannot modify header information - headers already sent by ...', 'state': 'closed', 'created_at': '2012-11-15T01:30:05Z', 'closed_at': '2012-11-15T07:27:21Z', 'labels': []}
+{'issuenumber': 719, 'title': '--debug flag has no effect when using --stderr', 'state': 'closed', 'created_at': '2012-11-15T01:13:36Z', 'closed_at': '2012-11-24T13:25:11Z', 'labels': []}
+{'issuenumber': 718, 'title': 'Mock method signature incompatible when "self" used in parent\'s method signature', 'state': 'closed', 'created_at': '2012-11-14T21:55:01Z', 'closed_at': '2012-11-15T07:07:41Z', 'labels': []}
+{'issuenumber': 716, 'title': 'Constraint_ClassExists and assertClassExists', 'state': 'closed', 'created_at': '2012-11-12T18:08:40Z', 'closed_at': '2012-11-25T08:57:56Z', 'labels': []}
+{'issuenumber': 712, 'title': 'When a dependency fails and the test has a dataprovider it triggers a fatal error in phpUnit', 'state': 'closed', 'created_at': '2012-11-09T15:42:00Z', 'closed_at': '2012-11-09T15:45:47Z', 'labels': []}
+{'issuenumber': 710, 'title': 'process-isolation causes Notice', 'state': 'closed', 'created_at': '2012-11-08T11:26:27Z', 'closed_at': '2013-01-13T08:51:35Z', 'labels': []}
+{'issuenumber': 709, 'title': 'assertJsonStringEqualsJsonFile fails on simple JSON encoded array', 'state': 'closed', 'created_at': '2012-11-07T02:36:17Z', 'closed_at': '2012-11-10T16:30:51Z', 'labels': []}
+{'issuenumber': 708, 'title': 'JsonMatches missing in pear package', 'state': 'closed', 'created_at': '2012-11-06T19:29:00Z', 'closed_at': '2012-11-06T19:51:51Z', 'labels': []}
+{'issuenumber': 707, 'title': 'PEAR + Composer = Fatal error: Cannot redeclare class PHPUnit_Framework_TestCase ...', 'state': 'closed', 'created_at': '2012-11-04T03:49:44Z', 'closed_at': '2012-11-10T16:06:40Z', 'labels': []}
+{'issuenumber': 706, 'title': 'Consider Displaying Previous Exception', 'state': 'closed', 'created_at': '2012-11-02T18:27:05Z', 'closed_at': '2012-11-19T17:26:12Z', 'labels': []}
+{'issuenumber': 705, 'title': 'Notice: Undefined index: _SERVER in PHPUnit/Util/Filter.php on line 69', 'state': 'closed', 'created_at': '2012-11-02T12:52:18Z', 'closed_at': '2012-11-14T15:27:13Z', 'labels': []}
+{'issuenumber': 704, 'title': 'Consider Adding "Resume" Functionality', 'state': 'closed', 'created_at': '2012-10-30T18:31:00Z', 'closed_at': '2015-10-02T04:17:26Z', 'labels': []}
+{'issuenumber': 703, 'title': 'PHPUnit_Extensions_Database_DB_MetaData_Oci', 'state': 'closed', 'created_at': '2012-10-30T08:20:20Z', 'closed_at': '2012-11-03T11:36:11Z', 'labels': []}
+{'issuenumber': 702, 'title': "@coversNothing doesn't affect coverage information", 'state': 'closed', 'created_at': '2012-10-29T10:55:41Z', 'closed_at': '2012-10-29T22:08:30Z', 'labels': []}
+{'issuenumber': 700, 'title': 'Upgrade 3.6.11 to 3.7.8 with SplObjectStorage: Failed asserting that two objects are equal.', 'state': 'closed', 'created_at': '2012-10-25T16:29:17Z', 'closed_at': '2012-10-29T10:58:23Z', 'labels': []}
+{'issuenumber': 698, 'title': 'Util/Printer causes PHP warnings when given an incorrect path', 'state': 'closed', 'created_at': '2012-10-20T09:56:05Z', 'closed_at': '2015-10-02T04:17:32Z', 'labels': []}
+{'issuenumber': 695, 'title': 'returnCallback() gets executed before assertions in with() are checked', 'state': 'closed', 'created_at': '2012-10-18T15:22:36Z', 'closed_at': '2015-06-21T08:17:03Z', 'labels': []}
+{'issuenumber': 691, 'title': 'PHP/Token/OPEN/TAG.php not founded', 'state': 'closed', 'created_at': '2012-10-16T10:25:49Z', 'closed_at': '2012-11-25T08:56:51Z', 'labels': []}
+{'issuenumber': 690, 'title': 'Wrong stack trace when mbstring.func_overload is true', 'state': 'closed', 'created_at': '2012-10-16T09:20:14Z', 'closed_at': '2012-11-24T13:33:20Z', 'labels': []}
+{'issuenumber': 689, 'title': 'E_NOTICE thrown when generating coverage report', 'state': 'closed', 'created_at': '2012-10-14T16:15:48Z', 'closed_at': '2012-10-14T16:33:38Z', 'labels': []}
+{'issuenumber': 688, 'title': 'Symfony/Component/Yaml/Dumper.php not found if symfony/symfony is installed', 'state': 'closed', 'created_at': '2012-10-13T23:52:17Z', 'closed_at': '2012-10-14T07:39:53Z', 'labels': []}
+{'issuenumber': 687, 'title': 'PHPUnit Fatal Errors for PHP 5.2.17', 'state': 'closed', 'created_at': '2012-10-11T18:07:33Z', 'closed_at': '2012-10-13T08:42:18Z', 'labels': []}
+{'issuenumber': 686, 'title': 'Error: 31773 segmentation fault (core dumped) phpunit .', 'state': 'closed', 'created_at': '2012-10-11T15:23:33Z', 'closed_at': '2012-10-11T15:30:00Z', 'labels': []}
+{'issuenumber': 684, 'title': 'Getting fatal error when using PHPUnit 3.7.6 and Symfony 1.3.11', 'state': 'closed', 'created_at': '2012-10-08T15:02:46Z', 'closed_at': '2012-10-08T15:34:20Z', 'labels': []}
+{'issuenumber': 683, 'title': 'PHP Fatal error: Call to undefined function phpunit_mockobject_autoload()', 'state': 'closed', 'created_at': '2012-10-06T18:55:33Z', 'closed_at': '2012-10-06T22:33:41Z', 'labels': []}
+{'issuenumber': 682, 'title': 'PHPUnit shows weird message and number of lines', 'state': 'closed', 'created_at': '2012-10-05T22:57:52Z', 'closed_at': '2012-10-06T23:10:07Z', 'labels': []}
+{'issuenumber': 678, 'title': 'getMock should always use munged name by default', 'state': 'closed', 'created_at': '2012-10-04T07:01:15Z', 'closed_at': '2012-10-04T08:22:22Z', 'labels': []}
+{'issuenumber': 675, 'title': 'codeCoverage fails if a <filter> <whitelist> is set', 'state': 'closed', 'created_at': '2012-10-02T08:46:02Z', 'closed_at': '2012-10-07T05:49:17Z', 'labels': []}
+{'issuenumber': 674, 'title': '$this->at($index); bug?', 'state': 'closed', 'created_at': '2012-09-29T22:17:19Z', 'closed_at': '2012-09-30T11:20:32Z', 'labels': []}
+{'issuenumber': 671, 'title': 'no version output when installed with composer', 'state': 'closed', 'created_at': '2012-09-25T16:06:00Z', 'closed_at': '2012-09-25T16:08:12Z', 'labels': []}
+{'issuenumber': 670, 'title': 'Process isolation causes duplicate require/include of Symfony dependencies?', 'state': 'closed', 'created_at': '2012-09-25T15:04:05Z', 'closed_at': '2012-09-27T11:15:41Z', 'labels': []}
+{'issuenumber': 669, 'title': 'Shortening arrays, objects and strings in console output', 'state': 'closed', 'created_at': '2012-09-25T12:05:12Z', 'closed_at': '2015-10-02T04:17:42Z', 'labels': []}
+{'issuenumber': 667, 'title': 'PHP_CodeCoverage 1.2.2 fails if files without tests are whitelisted', 'state': 'closed', 'created_at': '2012-09-24T15:41:01Z', 'closed_at': '2012-10-07T06:03:58Z', 'labels': []}
+{'issuenumber': 666, 'title': '__phpunit_id breaks equal assert (phpunit 3.7)', 'state': 'closed', 'created_at': '2012-09-24T11:03:45Z', 'closed_at': '2012-09-24T13:41:17Z', 'labels': []}
+{'issuenumber': 665, 'title': 'ability to choose php.ini ?', 'state': 'closed', 'created_at': '2012-09-24T06:06:39Z', 'closed_at': '2012-09-24T06:18:18Z', 'labels': []}
+{'issuenumber': 664, 'title': 'Do not rely on autoloader class map to populate blacklist', 'state': 'closed', 'created_at': '2012-09-24T05:13:39Z', 'closed_at': '2012-10-03T07:00:41Z', 'labels': {'name': 'type/refactoring'}}
+{'issuenumber': 663, 'title': 'Wrong num tests when using group filter', 'state': 'closed', 'created_at': '2012-09-24T03:28:53Z', 'closed_at': '2013-06-06T06:38:07Z', 'labels': []}
+{'issuenumber': 661, 'title': 'Composer-installed PHPUnit does not show version information', 'state': 'closed', 'created_at': '2012-09-23T18:50:05Z', 'closed_at': '2012-09-24T05:20:29Z', 'labels': {'name': 'type/bug'}}
+{'issuenumber': 660, 'title': 'Running PHPUnit when using the composer autoloader fails ', 'state': 'closed', 'created_at': '2012-09-23T08:17:58Z', 'closed_at': '2012-10-05T19:09:09Z', 'labels': []}
+{'issuenumber': 659, 'title': 'PHPUnit_MockObject 1.2.0 adds properties to mocks that make assertEquals fail', 'state': 'closed', 'created_at': '2012-09-21T15:00:30Z', 'closed_at': '2012-09-21T15:24:52Z', 'labels': []}
+{'issuenumber': 658, 'title': 'PHPUnit won\'t download by composer if minimum-stability is "stable"', 'state': 'closed', 'created_at': '2012-09-21T10:01:47Z', 'closed_at': '2012-09-23T18:46:11Z', 'labels': []}
+{'issuenumber': 657, 'title': "xml configuration doesn't support stderr option", 'state': 'closed', 'created_at': '2012-09-20T09:36:37Z', 'closed_at': '2014-04-18T14:08:56Z', 'labels': []}
+{'issuenumber': 656, 'title': 'Memory efficency: Clean up mock objects on non successful tests', 'state': 'closed', 'created_at': '2012-09-19T21:53:59Z', 'closed_at': '2012-09-20T06:38:26Z', 'labels': {'name': 'type/enhancement'}}
+{'issuenumber': 655, 'title': "'More than two positional arguments provided.' breaks backward compatibility", 'state': 'closed', 'created_at': '2012-09-19T10:19:09Z', 'closed_at': '2012-09-24T15:38:30Z', 'labels': []}
+{'issuenumber': 652, 'title': 'Typed parameters mocked validation', 'state': 'closed', 'created_at': '2012-09-18T18:31:28Z', 'closed_at': '2012-09-18T20:24:33Z', 'labels': []}
+{'issuenumber': 651, 'title': 'Implementing HTML test log', 'state': 'closed', 'created_at': '2012-09-18T13:34:18Z', 'closed_at': '2012-09-18T13:55:35Z', 'labels': []}
+{'issuenumber': 650, 'title': '虽然不明白这是什么，但是感觉很厉害的样子', 'state': 'closed', 'created_at': '2012-09-18T13:06:49Z', 'closed_at': '2012-09-18T13:21:27Z', 'labels': []}
+{'issuenumber': 644, 'title': 'Relative paths to files in XML-config file does not work as expected', 'state': 'closed', 'created_at': '2012-09-11T14:38:16Z', 'closed_at': '2012-09-12T15:32:39Z', 'labels': []}
+{'issuenumber': 641, 'title': 'Documentation bug related to writing custom assertions', 'state': 'closed', 'created_at': '2012-09-10T15:59:39Z', 'closed_at': '2012-09-10T17:48:10Z', 'labels': []}
+{'issuenumber': 640, 'title': 'Fatal error: Access to undeclared static property when use __destruct', 'state': 'closed', 'created_at': '2012-09-09T15:12:39Z', 'closed_at': '2012-10-01T20:37:48Z', 'labels': []}
+{'issuenumber': 639, 'title': 'Cannot run PHPT tests using the extensions', 'state': 'closed', 'created_at': '2012-09-06T18:13:22Z', 'closed_at': '2015-06-21T08:21:21Z', 'labels': []}
+{'issuenumber': 638, 'title': 'Broken ubuntu package ?', 'state': 'closed', 'created_at': '2012-09-06T16:52:22Z', 'closed_at': '2012-09-06T17:18:02Z', 'labels': []}
+{'issuenumber': 637, 'title': 'BC issue with 3.7 whitelist <exclude> directory and glob expansion', 'state': 'closed', 'created_at': '2012-09-06T11:31:05Z', 'closed_at': '2012-09-07T10:55:20Z', 'labels': []}
+{'issuenumber': 634, 'title': 'Allow custom CLI options', 'state': 'closed', 'created_at': '2012-09-03T15:57:31Z', 'closed_at': '2015-10-02T04:17:49Z', 'labels': []}
+{'issuenumber': 633, 'title': 'Cli option to skip coverage tasks set in XML conf', 'state': 'closed', 'created_at': '2012-09-03T14:06:07Z', 'closed_at': '2012-09-04T06:10:41Z', 'labels': []}
+{'issuenumber': 631, 'title': 'A bug of using class autoloader for selenium browser test', 'state': 'closed', 'created_at': '2012-09-02T22:07:06Z', 'closed_at': '2012-09-07T13:58:15Z', 'labels': []}
+{'issuenumber': 630, 'title': 'Memory consumption issue on windows', 'state': 'closed', 'created_at': '2012-08-31T11:27:44Z', 'closed_at': '2012-08-31T11:50:55Z', 'labels': []}
+{'issuenumber': 629, 'title': 'Unserialize ErrorException', 'state': 'closed', 'created_at': '2012-08-31T08:21:44Z', 'closed_at': '2012-08-31T09:37:11Z', 'labels': []}
+{'issuenumber': 627, 'title': 'IsEqual constraint overrides evaluate() but not matches()', 'state': 'closed', 'created_at': '2012-08-27T06:57:27Z', 'closed_at': '2013-03-09T07:32:26Z', 'labels': []}
+{'issuenumber': 625, 'title': 'Enable setup "logIncompleteSkipped" from command line interface', 'state': 'closed', 'created_at': '2012-08-23T07:56:59Z', 'closed_at': '2012-08-23T07:58:44Z', 'labels': []}
+{'issuenumber': 624, 'title': 'Tests execution log does not contain skipped or incomplete tests', 'state': 'closed', 'created_at': '2012-08-21T08:35:05Z', 'closed_at': '2012-08-22T06:03:41Z', 'labels': []}
+{'issuenumber': 623, 'title': 'returnCallback mutation of object arguments is broken', 'state': 'closed', 'created_at': '2012-08-18T22:10:49Z', 'closed_at': '2012-09-06T10:34:16Z', 'labels': []}
+{'issuenumber': 622, 'title': 'Add support for --filter <name>#<dataset>', 'state': 'closed', 'created_at': '2012-08-18T13:16:09Z', 'closed_at': '2013-09-01T13:20:57Z', 'labels': []}
+{'issuenumber': 621, 'title': 'Constructor in subclass of PHPUnit_Framework_TestCase causes @dataProvider to break', 'state': 'closed', 'created_at': '2012-08-09T15:21:12Z', 'closed_at': '2012-08-09T17:03:13Z', 'labels': []}
+{'issuenumber': 620, 'title': '0% code coverage when including from PHAR', 'state': 'closed', 'created_at': '2012-08-08T07:25:05Z', 'closed_at': '2012-08-08T08:14:16Z', 'labels': []}
+{'issuenumber': 619, 'title': 'Extra DIRECTORY_SEPARATOR in phpunit and phpunit-skelgen file', 'state': 'closed', 'created_at': '2012-08-06T12:07:48Z', 'closed_at': '2012-10-07T06:34:11Z', 'labels': []}
+{'issuenumber': 617, 'title': 'Feature request: Add assertArrayHasValue', 'state': 'closed', 'created_at': '2012-08-05T14:53:47Z', 'closed_at': '2012-08-05T15:17:16Z', 'labels': []}
+{'issuenumber': 615, 'title': 'Docs: can custom asserts use PHPUnit_Util_Filter::addFileToFilter?', 'state': 'closed', 'created_at': '2012-08-02T02:15:12Z', 'closed_at': '2012-09-24T16:49:15Z', 'labels': []}
+{'issuenumber': 614, 'title': 'Serialization problem when using test isolation', 'state': 'closed', 'created_at': '2012-08-01T07:55:08Z', 'closed_at': '2012-08-03T09:27:11Z', 'labels': []}
+{'issuenumber': 613, 'title': 'CSV dataset - check that parameters passing to function array_combine have equal number of elements', 'state': 'closed', 'created_at': '2012-07-31T14:30:15Z', 'closed_at': '2012-11-25T08:58:41Z', 'labels': []}
+{'issuenumber': 612, 'title': 'phpunit setup through github', 'state': 'closed', 'created_at': '2012-07-26T18:50:31Z', 'closed_at': '2012-09-06T17:19:42Z', 'labels': []}
+{'issuenumber': 611, 'title': 'Dependencies on functions which use data providers passed NULL parameter values', 'state': 'closed', 'created_at': '2012-07-24T13:10:19Z', 'closed_at': '2012-07-28T11:58:30Z', 'labels': []}
+{'issuenumber': 610, 'title': 'Feature request: Add start() and end() methods to the TestListener interface', 'state': 'closed', 'created_at': '2012-07-21T10:32:27Z', 'closed_at': '2015-10-02T04:17:56Z', 'labels': []}
+{'issuenumber': 609, 'title': 'Arrays containing Closure object(s) still attempted serialized with @backupStaticAttributes enabled', 'state': 'closed', 'created_at': '2012-07-19T16:00:00Z', 'closed_at': '2013-03-11T09:22:05Z', 'labels': []}
+{'issuenumber': 608, 'title': 'The diff generated by assertEquals() failures is too precise', 'state': 'closed', 'created_at': '2012-07-19T08:37:36Z', 'closed_at': '2012-07-27T13:44:25Z', 'labels': []}
+{'issuenumber': 604, 'title': 'Support Traversable interfaces in mock objects', 'state': 'closed', 'created_at': '2012-07-13T17:27:40Z', 'closed_at': '2012-10-07T19:43:54Z', 'labels': []}
+{'issuenumber': 603, 'title': 'Support creation of Master XML Configuration File', 'state': 'closed', 'created_at': '2012-07-13T14:31:40Z', 'closed_at': '2012-07-27T13:38:51Z', 'labels': []}
+{'issuenumber': 602, 'title': "Don't work assertTag with RegEx", 'state': 'closed', 'created_at': '2012-07-13T12:23:07Z', 'closed_at': '2012-09-24T16:49:47Z', 'labels': []}
+{'issuenumber': 600, 'title': 'Please make the default implementation of __toString delegate to toString', 'state': 'closed', 'created_at': '2012-06-30T20:46:59Z', 'closed_at': '2015-10-02T04:18:02Z', 'labels': []}
+{'issuenumber': 599, 'title': 'fsockopen(): unable to connect to localhost:4444', 'state': 'closed', 'created_at': '2012-06-28T23:05:41Z', 'closed_at': '2012-09-24T16:54:51Z', 'labels': []}
+{'issuenumber': 598, 'title': 'Diff fails when comparing DomDocuments', 'state': 'closed', 'created_at': '2012-06-26T07:59:24Z', 'closed_at': '2012-10-07T06:31:51Z', 'labels': {'name': 'type/bug'}}
+{'issuenumber': 597, 'title': 'Memory size exhaust when generating code coverage report', 'state': 'closed', 'created_at': '2012-06-25T13:10:37Z', 'closed_at': '2012-06-25T13:49:05Z', 'labels': []}
+{'issuenumber': 593, 'title': 'assertNotContains fails when an array with boolean values is checked against a string', 'state': 'closed', 'created_at': '2012-06-20T12:01:00Z', 'closed_at': '2013-03-09T20:56:59Z', 'labels': []}
+{'issuenumber': 590, 'title': 'Unhelpful error messages for DataProvider in strict mode', 'state': 'closed', 'created_at': '2012-06-17T06:35:02Z', 'closed_at': '2013-03-09T21:16:35Z', 'labels': []}
+{'issuenumber': 589, 'title': 'PEAR channel broken', 'state': 'closed', 'created_at': '2012-06-15T09:02:25Z', 'closed_at': '2012-06-15T10:57:37Z', 'labels': []}
+{'issuenumber': 587, 'title': "If setUpBeforeClass() fails, test failures are hidden in PHPUnit's JUnit XML output", 'state': 'closed', 'created_at': '2012-06-11T02:25:22Z', 'closed_at': '2015-10-02T04:18:10Z', 'labels': []}
+{'issuenumber': 585, 'title': 'return*() method for mocks allowing to specify call to parent method', 'state': 'closed', 'created_at': '2012-06-08T00:51:19Z', 'closed_at': '2015-06-21T08:18:53Z', 'labels': []}
+{'issuenumber': 584, 'title': 'bug with mock object expects call at(..)', 'state': 'closed', 'created_at': '2012-06-05T03:22:43Z', 'closed_at': '2012-06-05T21:16:41Z', 'labels': []}
+{'issuenumber': 583, 'title': 'Test on classes with static members get stuck. Incompatible with HTTP_Request2', 'state': 'closed', 'created_at': '2012-06-04T21:20:35Z', 'closed_at': '2012-10-07T06:38:59Z', 'labels': []}
+{'issuenumber': 582, 'title': '"printerFile" relative paths behavior causing some problems', 'state': 'closed', 'created_at': '2012-06-04T19:28:19Z', 'closed_at': '2013-05-30T02:54:39Z', 'labels': []}
+{'issuenumber': 581, 'title': 'PHPUnit_Util_Type::export adds extra newlines in Windows', 'state': 'closed', 'created_at': '2012-06-03T18:25:05Z', 'closed_at': '2012-09-06T14:52:25Z', 'labels': []}
+{'issuenumber': 580, 'title': 'Class variables not available in tearDown() in PHP 5.3 with PHPUnit 3.6.11', 'state': 'closed', 'created_at': '2012-06-02T23:29:07Z', 'closed_at': '2012-06-06T15:33:41Z', 'labels': []}
+{'issuenumber': 579, 'title': 'Please lift ban on expecting \\Exception as soon as possible', 'state': 'closed', 'created_at': '2012-05-31T09:39:50Z', 'closed_at': '2012-05-31T09:41:30Z', 'labels': []}
+{'issuenumber': 578, 'title': 'Question about the memory output message', 'state': 'closed', 'created_at': '2012-05-25T16:36:39Z', 'closed_at': '2012-05-25T17:18:10Z', 'labels': []}
+{'issuenumber': 577, 'title': "Output isn't swallowed, if with @outputBuffering", 'state': 'closed', 'created_at': '2012-05-24T09:35:27Z', 'closed_at': '2012-05-26T15:45:46Z', 'labels': []}
+{'issuenumber': 576, 'title': 'README.markdown have a problem', 'state': 'closed', 'created_at': '2012-05-24T04:32:06Z', 'closed_at': '2012-09-24T20:54:07Z', 'labels': []}
+{'issuenumber': 575, 'title': 'Testing annotations', 'state': 'closed', 'created_at': '2012-05-21T07:55:33Z', 'closed_at': '2012-05-21T08:03:22Z', 'labels': []}
+{'issuenumber': 574, 'title': 'Util/Class.php getMethodParameters(): no type hinting for not yet loaded classes', 'state': 'closed', 'created_at': '2012-05-21T04:16:22Z', 'closed_at': '2012-10-07T06:41:33Z', 'labels': []}
+{'issuenumber': 569, 'title': 'setUpBeforeClass()', 'state': 'closed', 'created_at': '2012-05-18T10:35:10Z', 'closed_at': '2012-05-20T16:29:10Z', 'labels': []}
+{'issuenumber': 567, 'title': 'Need getCurrentBrowser method', 'state': 'closed', 'created_at': '2012-05-15T07:32:05Z', 'closed_at': '2012-05-15T07:33:43Z', 'labels': []}
+{'issuenumber': 566, 'title': 'markTestSkipped() & markTestIncomplete()', 'state': 'closed', 'created_at': '2012-05-14T12:22:19Z', 'closed_at': '2012-05-15T17:10:22Z', 'labels': []}
+{'issuenumber': 565, 'title': 'Fatal error: Cannot redeclare phpunit_autoload()', 'state': 'closed', 'created_at': '2012-05-13T20:03:51Z', 'closed_at': '2012-05-15T17:07:25Z', 'labels': []}
+{'issuenumber': 564, 'title': 'assertTag default failure message meaningless', 'state': 'closed', 'created_at': '2012-05-11T15:11:24Z', 'closed_at': '2012-11-24T14:52:15Z', 'labels': []}
+{'issuenumber': 558, 'title': 'Late static binding in MyTestCase::suite() is not properly resolved', 'state': 'closed', 'created_at': '2012-04-30T23:35:09Z', 'closed_at': '2012-06-05T20:35:36Z', 'labels': []}
+{'issuenumber': 556, 'title': 'When using both <file> and <directory> tags in a test suite, precedence is not maintained. (Followup to #553)', 'state': 'closed', 'created_at': '2012-04-23T16:17:54Z', 'closed_at': '2013-10-18T22:23:21Z', 'labels': []}
+{'issuenumber': 554, 'title': 'Constants Persist When using --process-isolation and --no-globals-backup', 'state': 'closed', 'created_at': '2012-04-20T21:34:07Z', 'closed_at': '2012-04-21T09:21:24Z', 'labels': []}
+{'issuenumber': 553, 'title': 'When using both <file> and <directory> tags in a test suite, precedence is not maintained.', 'state': 'closed', 'created_at': '2012-04-20T21:20:08Z', 'closed_at': '2012-04-21T09:29:50Z', 'labels': []}
+{'issuenumber': 552, 'title': 'File Relativity does not behave as expected', 'state': 'closed', 'created_at': '2012-04-20T21:09:21Z', 'closed_at': '2013-05-30T02:54:39Z', 'labels': []}
+{'issuenumber': 551, 'title': 'Error in documentatin: Chapter 19. Extending PHPUnit', 'state': 'closed', 'created_at': '2012-04-20T14:16:17Z', 'closed_at': '2012-09-24T20:52:32Z', 'labels': []}
+{'issuenumber': 550, 'title': '[rfc] getStub method', 'state': 'closed', 'created_at': '2012-04-20T12:10:31Z', 'closed_at': '2015-06-21T08:20:15Z', 'labels': []}
+{'issuenumber': 549, 'title': 'assertSameSize and assertNotSameSize of Assert doctype bug', 'state': 'closed', 'created_at': '2012-04-18T12:39:13Z', 'closed_at': '2012-04-18T12:44:57Z', 'labels': []}
+{'issuenumber': 548, 'title': 'Mocking command line tools', 'state': 'closed', 'created_at': '2012-04-15T06:17:40Z', 'closed_at': '2012-04-17T21:55:40Z', 'labels': []}
+{'issuenumber': 547, 'title': "@depends doesn't work when @expectedException is used on dependend method", 'state': 'closed', 'created_at': '2012-04-12T12:52:53Z', 'closed_at': '2015-03-27T20:41:06Z', 'labels': []}
+{'issuenumber': 545, 'title': 'Move loading of test files to child process...', 'state': 'closed', 'created_at': '2012-04-11T19:23:45Z', 'closed_at': '2012-10-07T06:42:39Z', 'labels': []}
+{'issuenumber': 542, 'title': 'Proper way of writing Selenium tests that depends on Database?', 'state': 'closed', 'created_at': '2012-04-09T23:54:38Z', 'closed_at': '2012-04-10T16:58:20Z', 'labels': []}
+{'issuenumber': 541, 'title': 'Excluded groups still count in total', 'state': 'closed', 'created_at': '2012-04-09T19:17:39Z', 'closed_at': '2013-01-26T11:42:23Z', 'labels': []}
+{'issuenumber': 540, 'title': 'Surprising behavior when running TestTest.php', 'state': 'closed', 'created_at': '2012-04-09T05:47:42Z', 'closed_at': '2012-04-10T16:54:03Z', 'labels': []}
+{'issuenumber': 539, 'title': 'Coverage text and HTML returning differing results on abstract classes', 'state': 'closed', 'created_at': '2012-04-08T16:13:14Z', 'closed_at': '2012-04-08T16:15:15Z', 'labels': []}
+{'issuenumber': 538, 'title': 'Weird behavior in expects', 'state': 'closed', 'created_at': '2012-04-08T12:33:47Z', 'closed_at': '2012-04-11T08:07:29Z', 'labels': []}
+{'issuenumber': 537, 'title': 'use of runkit_function_redefine() leads to warning at generation of code coverage', 'state': 'closed', 'created_at': '2012-04-07T21:08:43Z', 'closed_at': '2012-04-08T06:46:15Z', 'labels': []}
+{'issuenumber': 535, 'title': 'Multiple @depends', 'state': 'closed', 'created_at': '2012-04-04T15:27:06Z', 'closed_at': '2012-04-18T16:34:52Z', 'labels': []}
+{'issuenumber': 534, 'title': 'Pear-less install', 'state': 'closed', 'created_at': '2012-04-04T09:05:08Z', 'closed_at': '2012-04-04T09:13:34Z', 'labels': []}
+{'issuenumber': 532, 'title': 'String is not equal to string?', 'state': 'closed', 'created_at': '2012-03-29T11:39:55Z', 'closed_at': '2012-03-29T14:41:57Z', 'labels': []}
+{'issuenumber': 530, 'title': 'PHPUnit own tests are not finished as expected', 'state': 'closed', 'created_at': '2012-03-26T23:19:33Z', 'closed_at': '2012-03-27T05:13:02Z', 'labels': []}
+{'issuenumber': 529, 'title': 'Tests Missed in Execution When Another Test Extends From It', 'state': 'closed', 'created_at': '2012-03-26T18:14:33Z', 'closed_at': '2014-07-29T13:14:46Z', 'labels': []}
+{'issuenumber': 528, 'title': 'Outsource PHPUnit_Selenium XML definitions', 'state': 'closed', 'created_at': '2012-03-23T10:39:06Z', 'closed_at': '2015-06-20T14:18:12Z', 'labels': []}
+{'issuenumber': 525, 'title': 'phpunit.xml listeners configuration did not accept nested array elements', 'state': 'closed', 'created_at': '2012-03-19T15:00:42Z', 'closed_at': '2014-11-20T08:49:23Z', 'labels': []}
+{'issuenumber': 523, 'title': 'assertAttributeEquals does not work with classes extending ArrayIterator', 'state': 'closed', 'created_at': '2012-03-15T15:24:43Z', 'closed_at': '2012-05-06T03:06:55Z', 'labels': []}
+{'issuenumber': 522, 'title': 'Composer-like installation procedure, composer.json', 'state': 'closed', 'created_at': '2012-03-13T12:05:01Z', 'closed_at': '2012-03-13T12:06:24Z', 'labels': []}
+{'issuenumber': 521, 'title': 'PHPDoc for PHPUnit_Framework_ComparisonFailure::__construct is incomplete', 'state': 'closed', 'created_at': '2012-03-09T18:12:49Z', 'closed_at': '2012-03-24T12:01:40Z', 'labels': []}
+{'issuenumber': 518, 'title': 'RFC: php-test-helpers support', 'state': 'closed', 'created_at': '2012-03-08T17:30:03Z', 'closed_at': '2012-03-24T12:04:29Z', 'labels': []}
+{'issuenumber': 517, 'title': 'Undefined index, uncaught exception with --coverage-html argument', 'state': 'closed', 'created_at': '2012-03-06T11:58:19Z', 'closed_at': '2012-03-06T12:00:10Z', 'labels': []}
+{'issuenumber': 516, 'title': 'Turn off colors on command line', 'state': 'closed', 'created_at': '2012-03-02T16:17:20Z', 'closed_at': '2012-03-02T16:19:24Z', 'labels': []}
+{'issuenumber': 514, 'title': 'assertStringMatchesFormat failures show too many diffs', 'state': 'closed', 'created_at': '2012-02-28T14:28:55Z', 'closed_at': '2012-04-14T14:26:15Z', 'labels': []}
+{'issuenumber': 513, 'title': 'Enable Selenium test developers to provide meaningful timeout error messages', 'state': 'closed', 'created_at': '2012-02-28T12:20:12Z', 'closed_at': '2012-02-28T12:26:32Z', 'labels': []}
+{'issuenumber': 510, 'title': 'PHP5.4 callable typehint raises E_NOTICE when object is mocked', 'state': 'closed', 'created_at': '2012-02-26T21:40:55Z', 'closed_at': '2012-02-27T01:07:00Z', 'labels': []}
+{'issuenumber': 509, 'title': 'Document setMethods(null)', 'state': 'closed', 'created_at': '2012-02-23T15:03:06Z', 'closed_at': '2012-02-23T15:16:05Z', 'labels': []}
+{'issuenumber': 507, 'title': 'Selenium::Should setUp() method open new browser window for each test?', 'state': 'closed', 'created_at': '2012-02-21T17:32:08Z', 'closed_at': '2012-02-21T17:33:52Z', 'labels': []}
+{'issuenumber': 506, 'title': 'exception in test listeners should be catchable', 'state': 'closed', 'created_at': '2012-02-21T11:39:14Z', 'closed_at': '2012-02-21T23:51:22Z', 'labels': []}
+{'issuenumber': 505, 'title': 'SeleniumTestCase does not exists', 'state': 'closed', 'created_at': '2012-02-20T10:52:59Z', 'closed_at': '2012-02-20T14:53:36Z', 'labels': []}
+{'issuenumber': 504, 'title': 'Impement @requires function|extension name', 'state': 'closed', 'created_at': '2012-02-18T12:03:15Z', 'closed_at': '2012-02-18T23:13:26Z', 'labels': {'name': 'type/enhancement'}}
+{'issuenumber': 503, 'title': 'assertEquals() Line Ending Differences Are Obscure', 'state': 'closed', 'created_at': '2012-02-15T17:20:52Z', 'closed_at': '2012-03-26T18:23:41Z', 'labels': []}
+{'issuenumber': 502, 'title': 'Installation on Windows 7 has Issues', 'state': 'closed', 'created_at': '2012-02-14T18:56:12Z', 'closed_at': '2012-02-14T19:14:20Z', 'labels': []}
+{'issuenumber': 501, 'title': 'line/statement coverage in PHPUnitCodeCoverage reporting incorrectly in html report', 'state': 'closed', 'created_at': '2012-02-14T17:16:17Z', 'closed_at': '2012-02-14T17:23:45Z', 'labels': []}
+{'issuenumber': 500, 'title': 'getMockFromWsdl does not handle namespaced class names', 'state': 'closed', 'created_at': '2012-02-14T15:25:13Z', 'closed_at': '2012-02-14T15:33:16Z', 'labels': []}
+{'issuenumber': 499, 'title': 'getMockFromWsdl can not be used twice', 'state': 'closed', 'created_at': '2012-02-14T15:13:22Z', 'closed_at': '2012-02-14T15:33:13Z', 'labels': []}
+{'issuenumber': 498, 'title': "The test methods won't be run if a dataProvider throws Exception and --group is added in command line", 'state': 'closed', 'created_at': '2012-02-13T21:18:48Z', 'closed_at': '2013-01-07T08:49:58Z', 'labels': []}
+{'issuenumber': 497, 'title': '@codeCoverageIgnore for interfaces does not ignore', 'state': 'closed', 'created_at': '2012-02-12T19:36:42Z', 'closed_at': '2012-02-13T09:28:22Z', 'labels': []}
+{'issuenumber': 490, 'title': 'Ensure that a test can only be one of @small, @medium, or @large', 'state': 'closed', 'created_at': '2012-02-07T10:52:24Z', 'closed_at': '2015-06-19T09:05:35Z', 'labels': {'name': 'type/bug'}}
+{'issuenumber': 489, 'title': 'PHPUnit_Extensions_Database_TestCase::assertTableRowCount uses $this in object context', 'state': 'closed', 'created_at': '2012-02-07T07:21:44Z', 'closed_at': '2012-02-07T07:27:27Z', 'labels': []}
+{'issuenumber': 487, 'title': 'PHPUnit_Util_ErrorHandler on __toString()', 'state': 'closed', 'created_at': '2012-02-05T19:27:41Z', 'closed_at': '2012-03-24T22:56:40Z', 'labels': []}
+{'issuenumber': 486, 'title': 'DTD for phpunit.xml configuration file', 'state': 'closed', 'created_at': '2012-02-05T17:51:40Z', 'closed_at': '2012-02-05T17:58:26Z', 'labels': []}
+{'issuenumber': 485, 'title': 'Test runner being "Killed" during post-test summary', 'state': 'closed', 'created_at': '2012-02-05T03:51:04Z', 'closed_at': '2012-02-13T20:30:29Z', 'labels': []}
+{'issuenumber': 482, 'title': 'Abstract class with abstract constructor wont work with getMockForAbstractClass', 'state': 'closed', 'created_at': '2012-02-04T01:16:51Z', 'closed_at': '2012-02-04T07:38:27Z', 'labels': []}
+{'issuenumber': 480, 'title': 'How to test private method?', 'state': 'closed', 'created_at': '2012-02-02T13:45:05Z', 'closed_at': '2012-02-02T13:48:56Z', 'labels': []}
+{'issuenumber': 479, 'title': 'Support for installing through composer', 'state': 'closed', 'created_at': '2012-02-02T09:27:24Z', 'closed_at': '2012-02-02T09:28:55Z', 'labels': []}
+{'issuenumber': 478, 'title': 'Code coverage discrepancy using getObjectForTrait', 'state': 'closed', 'created_at': '2012-02-01T18:25:07Z', 'closed_at': '2012-09-24T21:36:04Z', 'labels': []}
+{'issuenumber': 475, 'title': 'Process Isolation Causes Garbage Output', 'state': 'closed', 'created_at': '2012-01-31T15:19:14Z', 'closed_at': '2012-02-01T14:20:46Z', 'labels': []}
+{'issuenumber': 474, 'title': 'Diff view does not render type differences properly', 'state': 'closed', 'created_at': '2012-01-31T07:52:31Z', 'closed_at': '2012-01-31T08:51:55Z', 'labels': []}
+{'issuenumber': 473, 'title': 'PHPUnit_Util_Type::toString() ', 'state': 'closed', 'created_at': '2012-01-27T14:10:17Z', 'closed_at': '2012-01-27T14:16:47Z', 'labels': []}
+{'issuenumber': 472, 'title': 'changes in PHPUnit_Util_Filter::getFilteredStacktrace', 'state': 'closed', 'created_at': '2012-01-27T13:28:12Z', 'closed_at': '2012-01-27T13:29:19Z', 'labels': []}
+{'issuenumber': 471, 'title': 'bug in PHPUnit_Framework_Error', 'state': 'closed', 'created_at': '2012-01-27T13:11:09Z', 'closed_at': '2012-03-28T12:10:57Z', 'labels': []}
+{'issuenumber': 470, 'title': 'on the removal of the customMessage property from PHPUnit_Framework_ExpectationFailedException', 'state': 'closed', 'created_at': '2012-01-27T12:38:51Z', 'closed_at': '2012-03-28T12:11:05Z', 'labels': []}
+{'issuenumber': 469, 'title': 'PHPUnit_Extensions_SeleniumTestCase verifyTrue() verifyFalse()', 'state': 'closed', 'created_at': '2012-01-26T13:26:35Z', 'closed_at': '2012-01-27T10:36:07Z', 'labels': []}
+{'issuenumber': 468, 'title': 'Add ability to expect a specific exception without subclasses', 'state': 'closed', 'created_at': '2012-01-25T18:30:04Z', 'closed_at': '2012-01-25T21:25:43Z', 'labels': []}
+{'issuenumber': 467, 'title': 'Trait coverage not reported using --coverage-text', 'state': 'closed', 'created_at': '2012-01-24T21:58:37Z', 'closed_at': '2012-09-24T21:58:00Z', 'labels': []}
+{'issuenumber': 466, 'title': '"Undefined offset: 0 in /usr/local/zend/share/pear/PHPUnit/Util/Configuration.php on line 860"', 'state': 'closed', 'created_at': '2012-01-23T18:03:55Z', 'closed_at': '2012-01-27T10:37:24Z', 'labels': []}
+{'issuenumber': 465, 'title': 'running each suite as process', 'state': 'closed', 'created_at': '2012-01-23T17:05:30Z', 'closed_at': '2012-01-23T17:53:19Z', 'labels': []}
+{'issuenumber': 464, 'title': 'all of sudden --filter filters data providers, not only tests', 'state': 'closed', 'created_at': '2012-01-21T11:17:22Z', 'closed_at': '2012-11-24T13:20:41Z', 'labels': []}
+{'issuenumber': 463, 'title': 'PHPUnit_Framework_TestCase::testRequirements collides with actual test methods', 'state': 'closed', 'created_at': '2012-01-19T17:39:24Z', 'closed_at': '2012-01-19T22:06:09Z', 'labels': []}
+{'issuenumber': 462, 'title': 'Unhelpful error message for empty test classes in --strict mode ', 'state': 'closed', 'created_at': '2012-01-16T12:47:46Z', 'closed_at': '2012-10-01T20:34:32Z', 'labels': []}
+{'issuenumber': 461, 'title': 'PHP 5.4.0RC5 callable typehints breaking code-coverage reports', 'state': 'closed', 'created_at': '2012-01-16T07:18:35Z', 'closed_at': '2012-01-16T07:40:56Z', 'labels': []}
+{'issuenumber': 459, 'title': 'spaces in path name breaks phpt CLEAN and POST', 'state': 'closed', 'created_at': '2012-01-12T22:24:53Z', 'closed_at': '2012-01-12T22:24:59Z', 'labels': []}
+{'issuenumber': 457, 'title': 'Building html reports directly from the coverage.xml file', 'state': 'closed', 'created_at': '2012-01-11T14:53:32Z', 'closed_at': '2012-01-11T17:17:30Z', 'labels': []}
+{'issuenumber': 456, 'title': 'Problem setting memory_limit', 'state': 'closed', 'created_at': '2012-01-10T22:14:30Z', 'closed_at': '2012-01-10T22:25:06Z', 'labels': []}
+{'issuenumber': 454, 'title': 'PHPunit not expect generic exception?', 'state': 'closed', 'created_at': '2012-01-06T04:12:04Z', 'closed_at': '2012-01-06T06:29:48Z', 'labels': []}
+{'issuenumber': 452, 'title': 'PHPUnit 3.6.6 prints header footer twice', 'state': 'closed', 'created_at': '2012-01-03T09:44:06Z', 'closed_at': '2012-01-03T10:00:23Z', 'labels': []}
+{'issuenumber': 451, 'title': "Serialization of 'Closure' is not allowed", 'state': 'closed', 'created_at': '2012-01-02T17:46:22Z', 'closed_at': '2015-06-21T08:24:07Z', 'labels': {'name': 'type/bug'}}
+{'issuenumber': 450, 'title': 'typo in chapter 8', 'state': 'closed', 'created_at': '2012-01-02T14:17:38Z', 'closed_at': '2012-01-02T14:32:39Z', 'labels': []}
+{'issuenumber': 449, 'title': 'Limited types of Expected Output Assertions', 'state': 'closed', 'created_at': '2011-12-28T00:49:07Z', 'closed_at': '2012-09-06T14:25:15Z', 'labels': []}
+{'issuenumber': 448, 'title': 'Double comparison default delta makes tests fail', 'state': 'closed', 'created_at': '2011-12-24T00:59:06Z', 'closed_at': '2015-10-02T04:18:16Z', 'labels': []}
+{'issuenumber': 447, 'title': 'PHPUnit output is incorrect in array comparison', 'state': 'closed', 'created_at': '2011-12-22T16:24:55Z', 'closed_at': '2011-12-22T17:14:43Z', 'labels': []}
+{'issuenumber': 445, 'title': 'expectOutputString() in strict mode not working in 3.6.5', 'state': 'closed', 'created_at': '2011-12-20T09:03:47Z', 'closed_at': '2011-12-20T13:33:22Z', 'labels': []}
+{'issuenumber': 443, 'title': 'Output buffering is swallowed in JSON log', 'state': 'closed', 'created_at': '2011-12-17T01:50:32Z', 'closed_at': '2011-12-20T12:11:19Z', 'labels': []}
+{'issuenumber': 442, 'title': 'phpunit usage info is missing description of --debug flag', 'state': 'closed', 'created_at': '2011-12-16T09:25:21Z', 'closed_at': '2011-12-16T10:04:21Z', 'labels': []}
+{'issuenumber': 439, 'title': 'Using setUp() with Database TestCases requires parent::setUp();', 'state': 'closed', 'created_at': '2011-12-13T16:53:34Z', 'closed_at': '2011-12-14T08:59:28Z', 'labels': []}
+{'issuenumber': 438, 'title': 'phpunit.de seems down?', 'state': 'closed', 'created_at': '2011-12-11T18:10:02Z', 'closed_at': '2011-12-11T18:34:50Z', 'labels': []}
+{'issuenumber': 436, 'title': 'PHP API to deal with code coverage filter', 'state': 'closed', 'created_at': '2011-12-08T06:23:24Z', 'closed_at': '2015-10-02T04:18:27Z', 'labels': []}
+{'issuenumber': 435, 'title': "add 'debug' to xml configuration options", 'state': 'closed', 'created_at': '2011-12-07T22:48:14Z', 'closed_at': '2011-12-07T23:14:03Z', 'labels': []}
+{'issuenumber': 434, 'title': 'phpunit.xml with filters tag not generate coverage', 'state': 'closed', 'created_at': '2011-12-07T17:34:24Z', 'closed_at': '2011-12-09T16:04:15Z', 'labels': []}
+{'issuenumber': 433, 'title': 'expectOutputString not completely working as expected', 'state': 'closed', 'created_at': '2011-12-06T15:58:49Z', 'closed_at': '2011-12-13T12:12:08Z', 'labels': []}
+{'issuenumber': 432, 'title': 'Possible issue: Process isolation fails with latest Jenkins CI with Jenkins running as daemon on Ubuntu', 'state': 'closed', 'created_at': '2011-12-05T03:38:54Z', 'closed_at': '2011-12-12T11:24:21Z', 'labels': []}
+{'issuenumber': 431, 'title': 'Bug in documentation - Extending PHPUnit example', 'state': 'closed', 'created_at': '2011-12-03T02:05:07Z', 'closed_at': '2011-12-03T02:09:30Z', 'labels': []}
+{'issuenumber': 430, 'title': 'The deprecated PHPUnit_Extensions_OutputTestCase does not return test results', 'state': 'closed', 'created_at': '2011-12-01T23:34:12Z', 'closed_at': '2011-12-09T12:53:53Z', 'labels': []}
+{'issuenumber': 429, 'title': 'PHPUnit should raise a notice when color switch is enabled on Windows', 'state': 'closed', 'created_at': '2011-12-01T17:16:22Z', 'closed_at': '2014-07-22T21:09:20Z', 'labels': []}
+{'issuenumber': 428, 'title': 'Unexpected JSON Results when using @depends', 'state': 'closed', 'created_at': '2011-11-30T22:46:08Z', 'closed_at': '2015-10-02T04:18:35Z', 'labels': []}
+{'issuenumber': 427, 'title': 'Incorrect behaviour of PHPUnit_Framework_Testcase::expects in some cases', 'state': 'closed', 'created_at': '2011-11-29T15:05:18Z', 'closed_at': '2015-06-21T08:17:46Z', 'labels': []}
+{'issuenumber': 426, 'title': 'mock object require', 'state': 'closed', 'created_at': '2011-11-29T13:18:37Z', 'closed_at': '2011-11-29T13:22:06Z', 'labels': []}
+{'issuenumber': 425, 'title': 'assertEquals regression in phpunit 3.6', 'state': 'closed', 'created_at': '2011-11-28T17:38:25Z', 'closed_at': '2011-11-28T22:17:12Z', 'labels': []}
+{'issuenumber': 422, 'title': 'PHPUnit_Util_Test::getSize might trigger an unwanted classloader run', 'state': 'closed', 'created_at': '2011-11-26T22:40:08Z', 'closed_at': '2011-12-21T19:03:18Z', 'labels': []}
+{'issuenumber': 420, 'title': 'Promlems with testing output', 'state': 'closed', 'created_at': '2011-11-26T09:06:45Z', 'closed_at': '2011-12-15T09:35:52Z', 'labels': []}
+{'issuenumber': 419, 'title': 'Out of memory when assertNull() or assertSame() fail when $actual is a really, really big object.', 'state': 'closed', 'created_at': '2011-11-25T18:15:45Z', 'closed_at': '2013-03-06T04:58:07Z', 'labels': []}
+{'issuenumber': 417, 'title': 'Selenium tests cannot generate code coverage for their current process', 'state': 'closed', 'created_at': '2011-11-22T16:59:54Z', 'closed_at': '2015-06-20T14:19:15Z', 'labels': []}
+{'issuenumber': 416, 'title': 'PHPUnit is not usable from a git working copy', 'state': 'closed', 'created_at': '2011-11-22T16:47:53Z', 'closed_at': '2011-11-22T19:10:56Z', 'labels': []}
+{'issuenumber': 415, 'title': 'Pass exception to tearDown()', 'state': 'closed', 'created_at': '2011-11-20T19:28:42Z', 'closed_at': '2015-10-02T04:18:46Z', 'labels': []}
+{'issuenumber': 413, 'title': '.phpt test failures display double diffs', 'state': 'closed', 'created_at': '2011-11-17T15:09:52Z', 'closed_at': '2011-11-25T13:48:42Z', 'labels': []}
+{'issuenumber': 412, 'title': 'assertEquals gives false result when fed an object with an empty __toString() in 3.6.3', 'state': 'closed', 'created_at': '2011-11-17T14:19:08Z', 'closed_at': '2011-11-17T14:59:51Z', 'labels': []}
+{'issuenumber': 411, 'title': 'Remove output buffering', 'state': 'closed', 'created_at': '2011-11-17T07:58:56Z', 'closed_at': '2011-11-17T08:26:06Z', 'labels': []}
+{'issuenumber': 410, 'title': '"strict" option corrupts xdebug breakpoints', 'state': 'closed', 'created_at': '2011-11-16T09:49:38Z', 'closed_at': '2011-12-15T18:10:17Z', 'labels': []}
+{'issuenumber': 409, 'title': 'PHPUnit_Selenium 1.1.0 requires PHP extension "curl"', 'state': 'closed', 'created_at': '2011-11-14T18:34:52Z', 'closed_at': '2011-11-14T18:39:48Z', 'labels': []}
+{'issuenumber': 408, 'title': 'option --coverage-text syntax issue', 'state': 'closed', 'created_at': '2011-11-13T14:57:52Z', 'closed_at': '2011-11-15T13:09:40Z', 'labels': []}
+{'issuenumber': 406, 'title': 'Useless failure description for assertStringMatchesFormat*()', 'state': 'closed', 'created_at': '2011-11-12T08:41:20Z', 'closed_at': '2011-12-15T18:22:23Z', 'labels': {'name': 'type/bug'}}
+{'issuenumber': 405, 'title': 'Implement chunk range information in Diff Util', 'state': 'closed', 'created_at': '2011-11-11T14:07:21Z', 'closed_at': '2012-10-01T20:35:56Z', 'labels': {'name': 'type/enhancement'}}
+{'issuenumber': 404, 'title': 'returnValueMap only works with at least 3 input parameters', 'state': 'closed', 'created_at': '2011-11-11T13:00:19Z', 'closed_at': '2011-11-11T13:20:34Z', 'labels': []}
+{'issuenumber': 403, 'title': 'PHP 5.4 and -INF comparisons with assertSame() / assertNotSame()', 'state': 'closed', 'created_at': '2011-11-11T10:00:25Z', 'closed_at': '2011-11-11T10:18:09Z', 'labels': []}
+{'issuenumber': 402, 'title': 'Problem with memory_limit', 'state': 'closed', 'created_at': '2011-11-11T09:20:05Z', 'closed_at': '2011-11-11T10:17:57Z', 'labels': []}
+{'issuenumber': 400, 'title': 'Testing Exceptions', 'state': 'closed', 'created_at': '2011-11-07T15:55:04Z', 'closed_at': '2011-11-07T15:57:25Z', 'labels': []}
+{'issuenumber': 399, 'title': 'Failed Selenium Testcases throw a Fatal error', 'state': 'closed', 'created_at': '2011-11-07T14:26:57Z', 'closed_at': '2011-11-07T14:53:06Z', 'labels': []}
+{'issuenumber': 398, 'title': 'Testing for (regular) Exceptions', 'state': 'closed', 'created_at': '2011-11-07T14:03:12Z', 'closed_at': '2011-11-07T14:52:25Z', 'labels': []}
+{'issuenumber': 397, 'title': 'Getting undefined offset when generate coverage report', 'state': 'closed', 'created_at': '2011-11-05T21:08:15Z', 'closed_at': '2011-11-09T10:14:05Z', 'labels': []}
+{'issuenumber': 396, 'title': 'unknown channel "pear.phpunit.de"', 'state': 'closed', 'created_at': '2011-11-04T15:50:27Z', 'closed_at': '2011-11-04T15:53:46Z', 'labels': []}
+{'issuenumber': 395, 'title': 'PHPUnit 3.6.x rem', 'state': 'closed', 'created_at': '2011-11-03T08:19:32Z', 'closed_at': '2011-11-03T08:49:46Z', 'labels': {'name': 'type/enhancement'}}
+{'issuenumber': 393, 'title': 'Could TestDox detect common initialisms?', 'state': 'closed', 'created_at': '2011-11-02T13:11:17Z', 'closed_at': '2011-11-02T13:20:50Z', 'labels': []}
+{'issuenumber': 392, 'title': 'Mock of interface that extends another interface cannot mock inherited method', 'state': 'closed', 'created_at': '2011-11-02T12:25:02Z', 'closed_at': '2011-11-02T12:45:38Z', 'labels': []}
+{'issuenumber': 391, 'title': 'PHPUnit 3.6.0: Undefined index: addUncoveredFilesFromWhitelist in /usr/share/php/PHPUnit/TextUI/TestRunner.php on line 254', 'state': 'closed', 'created_at': '2011-11-02T09:51:26Z', 'closed_at': '2011-11-03T16:21:43Z', 'labels': []}
+{'issuenumber': 390, 'title': 'ErrorException: Notice: ob_end_clean(): failed to delete buffer.', 'state': 'closed', 'created_at': '2011-11-01T10:42:14Z', 'closed_at': '2011-11-03T08:58:53Z', 'labels': []}
+{'issuenumber': 389, 'title': 'ReflectionException with code coverage and $seleneseDirectory.', 'state': 'closed', 'created_at': '2011-10-30T13:21:30Z', 'closed_at': '2011-11-03T09:11:20Z', 'labels': []}
+{'issuenumber': 387, 'title': 'PHPUnit/Selenium: captureScreenshotOnFailure does not capture screenshots on errors', 'state': 'closed', 'created_at': '2011-10-27T18:11:34Z', 'closed_at': '2011-10-27T18:34:22Z', 'labels': []}
+{'issuenumber': 386, 'title': '<php> <env> does not call putenv', 'state': 'closed', 'created_at': '2011-10-27T14:09:22Z', 'closed_at': '2011-11-08T09:27:08Z', 'labels': []}
+{'issuenumber': 385, 'title': 'TestSuite inheritance', 'state': 'closed', 'created_at': '2011-10-26T23:36:09Z', 'closed_at': '2011-10-31T07:24:28Z', 'labels': []}
+{'issuenumber': 384, 'title': 'TRUNCATE statement fails due to FK constraints (MySQL 5.5+)', 'state': 'closed', 'created_at': '2011-10-26T15:52:48Z', 'closed_at': '2011-11-02T15:20:33Z', 'labels': []}
+{'issuenumber': 383, 'title': 'DBUnit and Selenium extensions are required', 'state': 'closed', 'created_at': '2011-10-24T16:43:10Z', 'closed_at': '2011-10-24T19:52:00Z', 'labels': []}
+{'issuenumber': 381, 'title': 'assertNotEquals not type-safe', 'state': 'closed', 'created_at': '2011-10-17T21:05:30Z', 'closed_at': '2011-11-10T09:12:42Z', 'labels': []}
+{'issuenumber': 380, 'title': 'problem with selenese / external file', 'state': 'closed', 'created_at': '2011-10-17T18:32:20Z', 'closed_at': '2011-11-10T11:00:44Z', 'labels': []}
+{'issuenumber': 378, 'title': '--list-groups option listing authors too', 'state': 'closed', 'created_at': '2011-10-17T08:59:10Z', 'closed_at': '2011-10-18T13:06:55Z', 'labels': []}
+{'issuenumber': 377, 'title': 'JSON listener ignores status message', 'state': 'closed', 'created_at': '2011-10-15T12:18:19Z', 'closed_at': '2011-11-10T10:51:48Z', 'labels': []}
+{'issuenumber': 376, 'title': 'Test suites starting with "PHPUnit_" result in misleading error message', 'state': 'closed', 'created_at': '2011-10-13T08:54:53Z', 'closed_at': '2012-04-01T11:56:02Z', 'labels': []}
+{'issuenumber': 375, 'title': 'Selenium: HTTP timeout not read from the XML configuration file', 'state': 'closed', 'created_at': '2011-10-13T08:33:34Z', 'closed_at': '2011-12-15T15:43:16Z', 'labels': []}
+{'issuenumber': 373, 'title': 'Closures show up oddly in code coverage reports', 'state': 'closed', 'created_at': '2011-10-10T14:55:03Z', 'closed_at': '2011-10-10T16:13:01Z', 'labels': []}
+{'issuenumber': 372, 'title': 'Misleading error message if no test files found', 'state': 'closed', 'created_at': '2011-10-09T07:45:01Z', 'closed_at': '2013-03-06T05:09:14Z', 'labels': {'name': 'type/enhancement'}}
+{'issuenumber': 371, 'title': "expectOutputString() isn't working in 3.6.0RC4", 'state': 'closed', 'created_at': '2011-10-07T06:07:36Z', 'closed_at': '2011-10-07T06:48:08Z', 'labels': []}
+{'issuenumber': 368, 'title': 'Log incomplete and skipped from the command line', 'state': 'closed', 'created_at': '2011-10-04T18:29:38Z', 'closed_at': '2011-10-04T18:31:31Z', 'labels': []}
+{'issuenumber': 367, 'title': 'ReflectionException: Class PHPUnit_Extensions_Database_TestCase does not exist in /usr/share/php/PHPUnit/Util/Test.php on line 417', 'state': 'closed', 'created_at': '2011-10-04T16:31:38Z', 'closed_at': '2011-10-04T17:27:56Z', 'labels': []}
+{'issuenumber': 366, 'title': 'The requirement of having one test class per source file is not properly enforced', 'state': 'closed', 'created_at': '2011-10-04T11:45:45Z', 'closed_at': '2015-10-02T04:18:52Z', 'labels': []}
+{'issuenumber': 365, 'title': 'PHPUnit messages are truncated when string values contain a null byte.', 'state': 'closed', 'created_at': '2011-10-04T10:29:46Z', 'closed_at': '2011-11-09T10:44:01Z', 'labels': []}
+{'issuenumber': 364, 'title': "phpUnit won't see some classes with tests", 'state': 'closed', 'created_at': '2011-10-04T09:39:56Z', 'closed_at': '2011-10-04T09:46:37Z', 'labels': []}
+{'issuenumber': 363, 'title': 'Running phpunit results in segmentation fault', 'state': 'closed', 'created_at': '2011-10-03T22:14:08Z', 'closed_at': '2011-11-10T11:03:20Z', 'labels': []}
+{'issuenumber': 362, 'title': 'Invalid UTF-8 data in data provider triggers PHP warnings in JSON logger', 'state': 'closed', 'created_at': '2011-10-02T23:44:22Z', 'closed_at': '2011-10-04T09:19:39Z', 'labels': []}
+{'issuenumber': 359, 'title': 'Fatal Error when generating HTML coverage report.', 'state': 'closed', 'created_at': '2011-09-29T20:38:00Z', 'closed_at': '2011-09-29T20:51:58Z', 'labels': []}
+{'issuenumber': 358, 'title': 'Group exclusions are ignored on folder level', 'state': 'closed', 'created_at': '2011-09-28T19:17:30Z', 'closed_at': '2011-11-17T09:51:36Z', 'labels': []}
+{'issuenumber': 356, 'title': 'captureNetworkTraffic option?', 'state': 'closed', 'created_at': '2011-09-28T02:29:20Z', 'closed_at': '2011-09-28T09:36:15Z', 'labels': []}
+{'issuenumber': 354, 'title': 'Return code from PHPUnit not zero for successful test', 'state': 'closed', 'created_at': '2011-09-26T10:28:51Z', 'closed_at': '2011-11-11T13:07:30Z', 'labels': []}
+{'issuenumber': 353, 'title': "Code coverage problem: Fatal error: Class 'PHP_Token_Stream' not found", 'state': 'closed', 'created_at': '2011-09-26T09:42:29Z', 'closed_at': '2011-09-30T08:46:25Z', 'labels': []}
+{'issuenumber': 351, 'title': 'DBUnit dependency', 'state': 'closed', 'created_at': '2011-09-24T03:32:16Z', 'closed_at': '2011-09-24T06:39:59Z', 'labels': []}
+{'issuenumber': 350, 'title': 'assertEquals(3, acos(8)) returns true', 'state': 'closed', 'created_at': '2011-09-23T21:51:58Z', 'closed_at': '2011-09-26T08:03:15Z', 'labels': []}
+{'issuenumber': 349, 'title': "Running zetacomponent's Template tests with code coverage enabled doesn't work", 'state': 'closed', 'created_at': '2011-09-22T19:43:14Z', 'closed_at': '2011-09-24T16:11:28Z', 'labels': []}
+{'issuenumber': 348, 'title': 'phpunit stops executing with xdebug.coverage_enable=0 even when code coverage is not enabled', 'state': 'closed', 'created_at': '2011-09-22T19:42:07Z', 'closed_at': '2011-09-24T06:52:57Z', 'labels': []}
+{'issuenumber': 347, 'title': 'Update manual to reflect output swallowing', 'state': 'closed', 'created_at': '2011-09-21T00:41:44Z', 'closed_at': '2011-11-14T11:34:05Z', 'labels': []}
+{'issuenumber': 346, 'title': 'How to get more debugging information when I get an error?', 'state': 'closed', 'created_at': '2011-09-20T08:13:55Z', 'closed_at': '2011-11-10T12:32:49Z', 'labels': []}
+{'issuenumber': 345, 'title': 'phpunit fails silently', 'state': 'closed', 'created_at': '2011-09-19T22:05:43Z', 'closed_at': '2011-09-19T22:39:31Z', 'labels': []}
+{'issuenumber': 344, 'title': 'Using @depends and arguments for a function', 'state': 'closed', 'created_at': '2011-09-19T19:27:19Z', 'closed_at': '2011-09-19T19:37:59Z', 'labels': []}
+{'issuenumber': 343, 'title': '--strict can throw away code coverage data for included files', 'state': 'closed', 'created_at': '2011-09-16T21:42:56Z', 'closed_at': '2011-09-17T06:47:28Z', 'labels': []}
+{'issuenumber': 341, 'title': 'ResultPrinter cannot show details and cause errors', 'state': 'closed', 'created_at': '2011-09-14T15:31:02Z', 'closed_at': '2011-11-11T17:40:06Z', 'labels': []}
+{'issuenumber': 340, 'title': 'Code coverage stats do not include code not executed in tests', 'state': 'closed', 'created_at': '2011-09-12T11:13:59Z', 'closed_at': '2011-09-12T11:17:13Z', 'labels': []}
+{'issuenumber': 339, 'title': 'Method with() does not work properly when constraint is the testing object', 'state': 'closed', 'created_at': '2011-09-09T09:54:26Z', 'closed_at': '2011-09-12T07:57:28Z', 'labels': []}
+{'issuenumber': 338, 'title': 'getMockForAbstractClass throws error', 'state': 'closed', 'created_at': '2011-09-08T07:35:13Z', 'closed_at': '2011-09-08T08:10:47Z', 'labels': []}
+{'issuenumber': 335, 'title': 'Replace PHPUnit_Util_File::getClassesInFile() with PHP_Token_Stream::getClasses()', 'state': 'closed', 'created_at': '2011-09-04T08:48:36Z', 'closed_at': '2013-03-09T14:28:02Z', 'labels': {'name': 'type/refactoring'}}
+{'issuenumber': 331, 'title': "Possibility to override 'colors' parameter with negative value in command line", 'state': 'closed', 'created_at': '2011-08-30T11:36:07Z', 'closed_at': '2011-09-04T13:24:15Z', 'labels': []}
+{'issuenumber': 330, 'title': 'CodeCoverage throwing exception: cannot redeclare class...', 'state': 'closed', 'created_at': '2011-08-27T13:24:58Z', 'closed_at': '2011-08-27T14:09:20Z', 'labels': []}
+{'issuenumber': 329, 'title': 'Change access level of methods/properties to public', 'state': 'closed', 'created_at': '2011-08-26T21:54:03Z', 'closed_at': '2011-08-26T21:57:46Z', 'labels': []}
+{'issuenumber': 328, 'title': 'comment end taken as part of annotation', 'state': 'closed', 'created_at': '2011-08-24T14:49:18Z', 'closed_at': '2011-11-10T14:18:47Z', 'labels': []}
+{'issuenumber': 326, 'title': 'database testing', 'state': 'closed', 'created_at': '2011-08-20T11:56:57Z', 'closed_at': '2011-08-24T15:27:24Z', 'labels': []}
+{'issuenumber': 325, 'title': 'Problem with global variables on bootstrap file', 'state': 'closed', 'created_at': '2011-08-19T23:14:17Z', 'closed_at': '2011-11-10T12:50:26Z', 'labels': []}
+{'issuenumber': 324, 'title': "PHP Fatal error when an exception can't be serialized in __phpunit_run_isolated_test", 'state': 'closed', 'created_at': '2011-08-18T14:18:32Z', 'closed_at': '2011-11-11T15:17:38Z', 'labels': []}
+{'issuenumber': 322, 'title': '--group commandline option should override group/exclude setting in phpunit.xml', 'state': 'closed', 'created_at': '2011-08-18T10:26:48Z', 'closed_at': '2011-11-10T14:23:38Z', 'labels': {'name': 'type/bug'}}
+{'issuenumber': 320, 'title': 'TextUI runner command line options should override configuration file', 'state': 'closed', 'created_at': '2011-08-17T03:45:09Z', 'closed_at': '2012-07-27T13:25:50Z', 'labels': []}
+{'issuenumber': 318, 'title': 'Bootstrap file not loading', 'state': 'closed', 'created_at': '2011-08-16T13:35:31Z', 'closed_at': '2011-11-10T14:26:10Z', 'labels': []}
+{'issuenumber': 317, 'title': 'Reopen: Issue #194', 'state': 'closed', 'created_at': '2011-08-15T13:06:35Z', 'closed_at': '2011-08-15T15:34:58Z', 'labels': []}
+{'issuenumber': 316, 'title': 'Generating skeleton test class: error about the parent class.', 'state': 'closed', 'created_at': '2011-08-12T17:10:05Z', 'closed_at': '2011-11-10T14:27:50Z', 'labels': []}
+{'issuenumber': 315, 'title': 'assertNestedContains()', 'state': 'closed', 'created_at': '2011-08-11T16:48:51Z', 'closed_at': '2015-10-02T04:18:59Z', 'labels': {'name': 'type/enhancement'}}
+{'issuenumber': 314, 'title': 'processIsolation weirdness with constants in the bootstrap', 'state': 'closed', 'created_at': '2011-08-11T14:12:53Z', 'closed_at': '2015-10-02T04:19:07Z', 'labels': []}
+{'issuenumber': 313, 'title': 'move @method from method-level-docblock to class-level-docblock', 'state': 'closed', 'created_at': '2011-08-10T08:53:17Z', 'closed_at': '2011-08-24T15:28:28Z', 'labels': []}
+{'issuenumber': 311, 'title': '@dataProvider Test may be executing before CsvDataSet is complete with import', 'state': 'closed', 'created_at': '2011-08-07T15:21:04Z', 'closed_at': '2011-08-24T15:29:03Z', 'labels': []}
+{'issuenumber': 310, 'title': 'Clover coverage report counts ignored methods', 'state': 'closed', 'created_at': '2011-08-04T23:59:50Z', 'closed_at': '2011-08-05T00:13:50Z', 'labels': []}
+{'issuenumber': 308, 'title': 'PhpUnit: How to reset my database after test with Mysql', 'state': 'closed', 'created_at': '2011-07-31T13:50:49Z', 'closed_at': '2011-08-02T17:41:55Z', 'labels': []}
+{'issuenumber': 307, 'title': 'Syntax Check in Windows', 'state': 'closed', 'created_at': '2011-07-27T05:27:58Z', 'closed_at': '2011-07-27T15:46:57Z', 'labels': []}
+{'issuenumber': 306, 'title': 'Assertion With Binary Data Causes Problems', 'state': 'closed', 'created_at': '2011-07-26T21:39:07Z', 'closed_at': '2011-11-10T17:25:58Z', 'labels': []}
+{'issuenumber': 304, 'title': 'Help Suddenly Not Working', 'state': 'closed', 'created_at': '2011-07-19T18:53:13Z', 'closed_at': '2011-07-25T16:09:25Z', 'labels': []}
+{'issuenumber': 302, 'title': 'empty dataProvider causes test to be in-excludable', 'state': 'closed', 'created_at': '2011-07-18T14:35:49Z', 'closed_at': '2013-03-09T13:52:01Z', 'labels': []}
+{'issuenumber': 301, 'title': 'Test with empty dataProvider does not fail when alone', 'state': 'closed', 'created_at': '2011-07-18T14:25:34Z', 'closed_at': '2013-03-09T13:49:20Z', 'labels': []}
+{'issuenumber': 300, 'title': 'Memcached vs Memcache Problem!', 'state': 'closed', 'created_at': '2011-07-18T13:40:29Z', 'closed_at': '2011-08-24T15:30:37Z', 'labels': []}
+{'issuenumber': 299, 'title': 'Oracle error when PHPUnit read the metadatas of a table prefixed by a schema', 'state': 'closed', 'created_at': '2011-07-16T09:24:20Z', 'closed_at': '2011-07-16T17:16:14Z', 'labels': []}
+{'issuenumber': 298, 'title': 'Problem with Mocking an Object where a property is defined through a setter  in the constructor', 'state': 'closed', 'created_at': '2011-07-15T23:30:34Z', 'closed_at': '2011-07-16T13:57:07Z', 'labels': []}
+{'issuenumber': 297, 'title': 'assertAttributeNotContains not working correctly', 'state': 'closed', 'created_at': '2011-07-14T02:23:57Z', 'closed_at': '2011-07-14T05:13:09Z', 'labels': []}
+{'issuenumber': 296, 'title': 'assertSame( array, object ) => segmentationFault', 'state': 'closed', 'created_at': '2011-07-11T15:43:19Z', 'closed_at': '2011-08-24T15:31:16Z', 'labels': []}
+{'issuenumber': 295, 'title': 'Support ArrayObject with assertArrayHasKey assertion', 'state': 'closed', 'created_at': '2011-07-11T14:39:25Z', 'closed_at': '2012-03-31T14:46:15Z', 'labels': []}
+{'issuenumber': 294, 'title': 'Timeout despite php setup', 'state': 'closed', 'created_at': '2011-07-08T23:31:13Z', 'closed_at': '2011-08-24T15:30:02Z', 'labels': []}
+{'issuenumber': 293, 'title': 'show coverage included files with --debug', 'state': 'closed', 'created_at': '2011-07-08T06:52:56Z', 'closed_at': '2011-08-24T15:32:02Z', 'labels': []}
+{'issuenumber': 292, 'title': 'CodeCoverage with Selenium not setting PHPUNIT_SELENIUM_TEST_ID Session Variable', 'state': 'closed', 'created_at': '2011-07-08T01:08:02Z', 'closed_at': '2011-07-13T01:10:33Z', 'labels': []}
+{'issuenumber': 289, 'title': 'TesCase class instantiation for every test method', 'state': 'closed', 'created_at': '2011-07-04T14:41:53Z', 'closed_at': '2011-07-05T07:33:48Z', 'labels': []}
+{'issuenumber': 288, 'title': 'Constraints for Offer: PHP Lint, Last Error Message, XML String DTD validation', 'state': 'closed', 'created_at': '2011-07-04T14:00:44Z', 'closed_at': '2011-08-24T15:32:29Z', 'labels': []}
+{'issuenumber': 287, 'title': 'Code-Coverage with phpt tests using namespaces does not work', 'state': 'closed', 'created_at': '2011-07-04T07:40:28Z', 'closed_at': '2011-07-04T07:49:44Z', 'labels': []}
+{'issuenumber': 285, 'title': 'missing doc: setUp not run before @dataProvider is executed', 'state': 'closed', 'created_at': '2011-07-01T08:55:17Z', 'closed_at': '2011-07-01T08:56:17Z', 'labels': []}
+{'issuenumber': 284, 'title': 'no error when @dataProvider method is missing and --filter is used', 'state': 'closed', 'created_at': '2011-07-01T08:43:47Z', 'closed_at': '2015-10-02T04:19:14Z', 'labels': []}
+{'issuenumber': 283, 'title': 'Tear down is not called in case of fatal error', 'state': 'closed', 'created_at': '2011-06-29T16:20:09Z', 'closed_at': '2011-06-29T16:42:55Z', 'labels': []}
+{'issuenumber': 282, 'title': 'Separate Process Will crash if backtrace contains unserialisable object.', 'state': 'closed', 'created_at': '2011-06-29T15:35:23Z', 'closed_at': '2011-11-11T15:26:58Z', 'labels': []}
+{'issuenumber': 281, 'title': 'stack traces miss class, function and parameter information', 'state': 'closed', 'created_at': '2011-06-29T12:09:11Z', 'closed_at': '2015-10-02T04:19:21Z', 'labels': {'name': 'type/enhancement'}}
+{'issuenumber': 280, 'title': 'Bug: command line option --repeat value > 1 in test with @depends annotation in test does not update the return value after the first test-run', 'state': 'closed', 'created_at': '2011-06-29T10:55:35Z', 'closed_at': '2011-12-16T13:51:35Z', 'labels': []}
+{'issuenumber': 279, 'title': 'Testcase does not open, throws \' Cannot open file "mytest.php" \'', 'state': 'closed', 'created_at': '2011-06-23T22:05:34Z', 'closed_at': '2011-11-10T15:29:15Z', 'labels': []}
+{'issuenumber': 278, 'title': 'Code Coverage under isolated processes causes fatal errors', 'state': 'closed', 'created_at': '2011-06-21T18:27:30Z', 'closed_at': '2011-11-10T15:32:06Z', 'labels': []}
+{'issuenumber': 277, 'title': 'bootstrap does not contain env options defined in phpunit.xml', 'state': 'closed', 'created_at': '2011-06-20T12:32:53Z', 'closed_at': '2013-05-17T03:50:22Z', 'labels': []}
+{'issuenumber': 276, 'title': 'stop() invoked from both SeleniumTestCase.php and Driver.php, results in ERROR: No sessionId provided', 'state': 'closed', 'created_at': '2011-06-17T13:46:39Z', 'closed_at': '2011-12-16T13:48:33Z', 'labels': []}
+{'issuenumber': 275, 'title': 'PHPUnit isnt working from PEAR install', 'state': 'closed', 'created_at': '2011-06-16T13:10:45Z', 'closed_at': '2011-06-16T13:12:23Z', 'labels': []}
+{'issuenumber': 270, 'title': "When a mocked method is not invoked during test spurious 'Mocked method does not exist.' error is reported", 'state': 'closed', 'created_at': '2011-06-11T22:28:02Z', 'closed_at': '2011-12-28T11:04:58Z', 'labels': []}
+{'issuenumber': 269, 'title': 'PHPUnit_Framework_TestCase::getMock() does not mock properly without explicitly setting methods to mock.', 'state': 'closed', 'created_at': '2011-06-11T22:21:48Z', 'closed_at': '2011-11-10T15:32:54Z', 'labels': []}
+{'issuenumber': 268, 'title': 'Discrepancy in statistics (number of tests) when some tests are excluded.', 'state': 'closed', 'created_at': '2011-06-11T14:06:05Z', 'closed_at': '2011-11-17T09:37:14Z', 'labels': []}
+{'issuenumber': 267, 'title': 'PHPUnit_Utils_Type::toString() for non print_r friendly objects', 'state': 'closed', 'created_at': '2011-06-09T14:17:05Z', 'closed_at': '2011-06-09T14:19:57Z', 'labels': []}
+{'issuenumber': 266, 'title': "curl isn't an optional dependency", 'state': 'closed', 'created_at': '2011-06-08T18:52:49Z', 'closed_at': '2011-06-09T07:37:03Z', 'labels': []}
+{'issuenumber': 264, 'title': 'phpunit.xml inconsistency', 'state': 'closed', 'created_at': '2011-06-08T16:15:21Z', 'closed_at': '2011-11-11T16:25:18Z', 'labels': {'name': 'type/bug'}}
+{'issuenumber': 262, 'title': 'Japanese PDF manual corrupted', 'state': 'closed', 'created_at': '2011-06-02T09:18:37Z', 'closed_at': '2011-11-10T16:29:18Z', 'labels': []}
+{'issuenumber': 261, 'title': 'setUp and setUpBeforeClass run before filters/groups applied', 'state': 'closed', 'created_at': '2011-05-31T19:12:48Z', 'closed_at': '2013-01-26T11:42:24Z', 'labels': []}
+{'issuenumber': 260, 'title': 'assertEqualXmlStructure() emits PHP Notice', 'state': 'closed', 'created_at': '2011-05-30T18:59:55Z', 'closed_at': '2011-06-09T07:43:04Z', 'labels': []}
+{'issuenumber': 259, 'title': "Specific method name 'test_Timezone()' gives Fatal error", 'state': 'closed', 'created_at': '2011-05-27T13:05:01Z', 'closed_at': '2011-05-27T13:06:22Z', 'labels': []}
+{'issuenumber': 258, 'title': 'setUpBeforeClass is not calling when test is a subclass of PHPUnit_Extensions_SeleniumTestCase', 'state': 'closed', 'created_at': '2011-05-25T15:57:27Z', 'closed_at': '2013-03-09T13:29:49Z', 'labels': []}
+{'issuenumber': 257, 'title': '@covers MyLib\\Exception reports inaccurate 100% code coverage', 'state': 'closed', 'created_at': '2011-05-23T16:41:15Z', 'closed_at': '2011-07-19T03:25:55Z', 'labels': []}
+{'issuenumber': 254, 'title': "Uncaught exception 'Exception' with message 'Serialization of 'SimpleXMLElement'", 'state': 'closed', 'created_at': '2011-05-20T02:33:01Z', 'closed_at': '2013-12-16T09:28:35Z', 'labels': []}
+{'issuenumber': 253, 'title': 'PHPUnit does not mark expected and actual lines when asserting boolean array values against integer values', 'state': 'closed', 'created_at': '2011-05-19T19:51:46Z', 'closed_at': '2011-05-24T06:26:47Z', 'labels': []}
+{'issuenumber': 251, 'title': 'No releases for package "phpunit/PHP_TokenStream" exist ', 'state': 'closed', 'created_at': '2011-05-16T08:04:44Z', 'closed_at': '2011-05-16T08:29:09Z', 'labels': []}
+{'issuenumber': 250, 'title': "--verbose / --debug don't show which deprecated feature is used", 'state': 'closed', 'created_at': '2011-05-12T09:59:50Z', 'closed_at': '2011-05-16T07:16:15Z', 'labels': []}
+{'issuenumber': 249, 'title': "assertType() reports float scalar type as 'double'", 'state': 'closed', 'created_at': '2011-05-12T09:52:09Z', 'closed_at': '2011-05-13T15:21:27Z', 'labels': []}
+{'issuenumber': 248, 'title': "@covers annotation can't cover global functions", 'state': 'closed', 'created_at': '2011-05-10T23:03:19Z', 'closed_at': '2012-04-01T11:44:32Z', 'labels': []}
+{'issuenumber': 247, 'title': 'Strange behaviour of expectedException', 'state': 'closed', 'created_at': '2011-05-09T16:24:28Z', 'closed_at': '2011-05-16T16:30:39Z', 'labels': []}
+{'issuenumber': 245, 'title': 'Documentation for TestSuite class missing in 3.5 docs', 'state': 'closed', 'created_at': '2011-05-08T12:57:23Z', 'closed_at': '2011-05-16T16:26:33Z', 'labels': []}
+{'issuenumber': 244, 'title': 'Expected Exception should support string codes', 'state': 'closed', 'created_at': '2011-05-08T01:36:50Z', 'closed_at': '2011-11-10T18:58:26Z', 'labels': []}
+{'issuenumber': 242, 'title': 'Class not found when using spl_autoload_register and a static call in the same file', 'state': 'closed', 'created_at': '2011-05-05T09:26:54Z', 'closed_at': '2011-05-18T06:04:21Z', 'labels': []}
+{'issuenumber': 241, 'title': 'No output for coverage-html & coverage-clover with config file', 'state': 'closed', 'created_at': '2011-05-04T19:23:53Z', 'closed_at': '2011-05-09T21:00:37Z', 'labels': []}
+{'issuenumber': 239, 'title': 'assertType in Framework/Assert/Functions.php should be @deprecated in 3.5', 'state': 'closed', 'created_at': '2011-05-03T14:14:29Z', 'closed_at': '2011-05-18T06:30:38Z', 'labels': []}
+{'issuenumber': 238, 'title': 'Example 4.11 in PHPUnit 3.6 English, typo', 'state': 'closed', 'created_at': '2011-04-27T12:47:48Z', 'closed_at': '2011-05-15T08:49:08Z', 'labels': []}
+{'issuenumber': 237, 'title': 'JUnit XML file incorrect', 'state': 'closed', 'created_at': '2011-04-27T09:48:09Z', 'closed_at': '2011-04-29T19:58:31Z', 'labels': []}
+{'issuenumber': 234, 'title': 'phpunit should not use color when output is not a terminal', 'state': 'closed', 'created_at': '2011-04-23T23:41:27Z', 'closed_at': '2011-05-18T10:59:56Z', 'labels': []}
+{'issuenumber': 231, 'title': "The <listener>'s file attribute can not point to a file in the include_path", 'state': 'closed', 'created_at': '2011-04-20T21:22:32Z', 'closed_at': '2011-05-23T13:59:36Z', 'labels': []}
+{'issuenumber': 228, 'title': 'Microsoft, PDO, Sql Server ', 'state': 'closed', 'created_at': '2011-04-14T21:46:48Z', 'closed_at': '2011-04-14T21:48:18Z', 'labels': []}
+{'issuenumber': 226, 'title': 'Missing code in Example 4.18 in PHPUnit v3.5', 'state': 'closed', 'created_at': '2011-04-14T06:53:38Z', 'closed_at': '2011-05-19T07:41:10Z', 'labels': []}
+{'issuenumber': 224, 'title': 'Testdox ignores numbers at the end of testnames', 'state': 'closed', 'created_at': '2011-04-13T08:33:27Z', 'closed_at': '2011-05-07T06:57:48Z', 'labels': []}
+{'issuenumber': 223, 'title': 'Process isolation breaks when using closures', 'state': 'closed', 'created_at': '2011-04-11T10:14:02Z', 'closed_at': '2011-08-24T15:34:00Z', 'labels': []}
+{'issuenumber': 222, 'title': 'assertAttribute*() is too strict', 'state': 'closed', 'created_at': '2011-04-06T13:06:00Z', 'closed_at': '2011-04-12T20:26:47Z', 'labels': {'name': 'type/bug'}}
+{'issuenumber': 221, 'title': 'PHPUnit disables xdebug', 'state': 'closed', 'created_at': '2011-04-04T11:07:26Z', 'closed_at': '2011-08-24T15:33:52Z', 'labels': []}
+{'issuenumber': 219, 'title': 'PDF Version of PHPUnit Book Missing Commands from All Example Listings', 'state': 'closed', 'created_at': '2011-04-02T15:41:53Z', 'closed_at': '2011-04-05T08:12:26Z', 'labels': []}
+{'issuenumber': 217, 'title': "Test scan doesn't follow symlink", 'state': 'closed', 'created_at': '2011-03-25T15:24:27Z', 'closed_at': '2011-11-10T17:03:49Z', 'labels': []}
+{'issuenumber': 216, 'title': 'add getStub()', 'state': 'closed', 'created_at': '2011-03-25T13:46:40Z', 'closed_at': '2013-03-09T21:45:35Z', 'labels': []}
+{'issuenumber': 215, 'title': 'add getParametrizedMock(array $parameters) method', 'state': 'closed', 'created_at': '2011-03-25T13:43:40Z', 'closed_at': '2011-11-10T17:06:22Z', 'labels': []}
+{'issuenumber': 214, 'title': 'DirectoryIterator in bootstrap -> crash.', 'state': 'closed', 'created_at': '2011-03-25T11:28:33Z', 'closed_at': '2011-05-18T10:56:04Z', 'labels': []}
+{'issuenumber': 213, 'title': "'addUncoveredFilesFromWhitelist' is ignored when 'forceCoversAnnotation' is active", 'state': 'closed', 'created_at': '2011-03-22T21:24:45Z', 'closed_at': '2011-03-23T06:14:14Z', 'labels': []}
+{'issuenumber': 212, 'title': 'assertEquals can fail with an infinite loop.', 'state': 'closed', 'created_at': '2011-03-22T20:40:39Z', 'closed_at': '2011-08-24T15:34:07Z', 'labels': []}
+{'issuenumber': 209, 'title': 'Allow injection of an external created mock.', 'state': 'closed', 'created_at': '2011-03-18T10:01:13Z', 'closed_at': '2011-03-18T10:09:04Z', 'labels': []}
+{'issuenumber': 207, 'title': 'Problems with Coverage Reports and chdir() ', 'state': 'closed', 'created_at': '2011-03-17T10:50:58Z', 'closed_at': '2011-11-11T11:33:30Z', 'labels': []}
+{'issuenumber': 205, 'title': 'Test cases custom filter configuration?', 'state': 'closed', 'created_at': '2011-03-16T22:01:03Z', 'closed_at': '2012-03-27T12:06:28Z', 'labels': []}
+{'issuenumber': 204, 'title': 'Test bootstrap should be loaded before trying to load testSuiteLoaderClass', 'state': 'closed', 'created_at': '2011-03-16T21:44:40Z', 'closed_at': '2011-11-26T15:59:00Z', 'labels': []}
+{'issuenumber': 203, 'title': 'Phpunit does not work with a directory as argument on windows', 'state': 'closed', 'created_at': '2011-03-16T21:05:38Z', 'closed_at': '2012-03-31T19:57:04Z', 'labels': []}
+{'issuenumber': 202, 'title': '<logging> in XML config use absolute path for coverage-html.', 'state': 'closed', 'created_at': '2011-03-16T01:21:37Z', 'closed_at': '2011-11-10T17:13:34Z', 'labels': []}
+{'issuenumber': 201, 'title': '@codeCoverageIgnore, since what version ?', 'state': 'closed', 'created_at': '2011-03-16T01:17:01Z', 'closed_at': '2011-11-09T08:53:57Z', 'labels': []}
+{'issuenumber': 198, 'title': 'PHP_Token_Stream error on clover-coverage', 'state': 'closed', 'created_at': '2011-03-14T17:53:41Z', 'closed_at': '2011-03-15T23:54:28Z', 'labels': []}
+{'issuenumber': 195, 'title': 'Disallowing output from tests in strict mode, allowing in debug mode', 'state': 'closed', 'created_at': '2011-03-11T16:20:51Z', 'closed_at': '2011-11-10T22:34:11Z', 'labels': []}
+{'issuenumber': 194, 'title': 'consider replacing @package_version@', 'state': 'closed', 'created_at': '2011-03-11T12:11:20Z', 'closed_at': '2011-03-11T20:15:23Z', 'labels': []}
+{'issuenumber': 192, 'title': 'getMock, second parameter: null should result in same behavior as an emtpy array', 'state': 'closed', 'created_at': '2011-03-10T14:40:43Z', 'closed_at': '2011-11-10T22:43:24Z', 'labels': []}
+{'issuenumber': 191, 'title': 'Allow delayed mock object registration', 'state': 'closed', 'created_at': '2011-03-10T09:26:17Z', 'closed_at': '2015-10-02T04:19:28Z', 'labels': []}
+{'issuenumber': 189, 'title': 'Add `@requires` annotation', 'state': 'closed', 'created_at': '2011-03-09T16:40:48Z', 'closed_at': '2011-11-09T08:37:52Z', 'labels': {'name': 'type/enhancement'}}
+{'issuenumber': 188, 'title': 'assertContains is not type-safe', 'state': 'closed', 'created_at': '2011-03-09T10:41:32Z', 'closed_at': '2012-04-14T12:01:06Z', 'labels': []}
+{'issuenumber': 187, 'title': 'phpunit.xml - test suite name vs. class name clash', 'state': 'closed', 'created_at': '2011-03-08T22:50:35Z', 'closed_at': '2011-11-17T10:01:16Z', 'labels': []}
+{'issuenumber': 184, 'title': 'Clarify docs for skeleton generator using namespaced code', 'state': 'closed', 'created_at': '2011-03-01T20:00:08Z', 'closed_at': '2011-04-05T11:42:37Z', 'labels': []}
+{'issuenumber': 183, 'title': "Can't pass a parameter with @dataProvider + @depends", 'state': 'closed', 'created_at': '2011-02-26T21:53:40Z', 'closed_at': '2011-02-28T19:39:53Z', 'labels': []}
+{'issuenumber': 182, 'title': 'Too many Files open when running large test suite', 'state': 'closed', 'created_at': '2011-02-25T18:12:25Z', 'closed_at': '2011-02-26T14:35:15Z', 'labels': []}
+{'issuenumber': 181, 'title': 'Bad code coverage with "if" without bracket', 'state': 'closed', 'created_at': '2011-02-25T16:26:43Z', 'closed_at': '2011-02-26T14:34:54Z', 'labels': []}
+{'issuenumber': 180, 'title': 'PHPUnit_Framework_Warning errors swallowed by Util/Log/JUnit.php', 'state': 'closed', 'created_at': '2011-02-23T18:53:56Z', 'closed_at': '2011-11-17T11:06:04Z', 'labels': []}
+{'issuenumber': 179, 'title': 'Add assertDirectoryExists() method/assertion', 'state': 'closed', 'created_at': '2011-02-23T18:51:14Z', 'closed_at': '2011-02-24T17:17:31Z', 'labels': []}
+{'issuenumber': 178, 'title': 'TDD: test if method parameters are defined with type hinting', 'state': 'closed', 'created_at': '2011-02-23T14:21:52Z', 'closed_at': '2011-02-24T00:26:08Z', 'labels': []}
+{'issuenumber': 177, 'title': 'Cannot display verbose output', 'state': 'closed', 'created_at': '2011-02-18T14:31:30Z', 'closed_at': '2011-02-18T23:32:46Z', 'labels': []}
+{'issuenumber': 175, 'title': 'Trying to define a test suite in an xml configuration breaks when having an autoloader registered using spl_autoload_register', 'state': 'closed', 'created_at': '2011-02-18T09:38:03Z', 'closed_at': '2011-11-10T22:54:29Z', 'labels': []}
+{'issuenumber': 174, 'title': '"hidden" xdebug dependency for clover tests', 'state': 'closed', 'created_at': '2011-02-16T11:10:27Z', 'closed_at': '2011-03-08T00:22:35Z', 'labels': []}
+{'issuenumber': 173, 'title': 'Wierd behavior with PHP defined tests suites with filename == class name', 'state': 'closed', 'created_at': '2011-02-16T08:09:41Z', 'closed_at': '2011-11-09T08:49:13Z', 'labels': []}
+{'issuenumber': 171, 'title': 'Untitled', 'state': 'closed', 'created_at': '2011-02-15T19:26:58Z', 'closed_at': '2011-02-15T19:37:09Z', 'labels': []}
+{'issuenumber': 170, 'title': 'Error when depending on a test that uses dataProvider', 'state': 'closed', 'created_at': '2011-02-15T11:11:24Z', 'closed_at': '2011-02-16T09:51:37Z', 'labels': []}
+{'issuenumber': 167, 'title': 'Add merge option to phpunit.xml configuration', 'state': 'closed', 'created_at': '2011-02-12T19:28:52Z', 'closed_at': '2015-10-02T04:19:35Z', 'labels': []}
+{'issuenumber': 163, 'title': 'TicketListener fails when encountering DataProvider test', 'state': 'closed', 'created_at': '2011-02-11T21:07:00Z', 'closed_at': '2011-02-12T06:48:36Z', 'labels': []}
+{'issuenumber': 161, 'title': 'Add assert which compares structures of two directories', 'state': 'closed', 'created_at': '2011-02-11T16:18:53Z', 'closed_at': '2011-11-10T22:58:41Z', 'labels': []}
+{'issuenumber': 160, 'title': 'assertSame fails, but diff does not show any difference (boolean vs. int)', 'state': 'closed', 'created_at': '2011-02-11T10:39:17Z', 'closed_at': '2011-06-16T18:41:41Z', 'labels': []}
+{'issuenumber': 159, 'title': 'PHPUnit code coverage does not generate the clover.xml file (3.5.10/1.0.3) - 2', 'state': 'closed', 'created_at': '2011-02-11T08:36:19Z', 'closed_at': '2011-11-09T08:51:36Z', 'labels': []}
+{'issuenumber': 157, 'title': 'PHPUnit code coverage does not generate the clover.xml file (3.5.10/1.0.3)', 'state': 'closed', 'created_at': '2011-02-10T17:58:50Z', 'closed_at': '2011-02-11T16:20:14Z', 'labels': []}
+{'issuenumber': 156, 'title': 'verbose switch not working', 'state': 'closed', 'created_at': '2011-02-10T09:43:01Z', 'closed_at': '2011-02-10T12:25:50Z', 'labels': []}
+{'issuenumber': 154, 'title': 'order of testexecuting differs from user to user', 'state': 'closed', 'created_at': '2011-02-09T17:13:24Z', 'closed_at': '2011-02-10T16:42:43Z', 'labels': []}
+{'issuenumber': 152, 'title': 'missing coverage report for testsuite', 'state': 'closed', 'created_at': '2011-02-09T08:56:26Z', 'closed_at': '2011-02-16T11:04:25Z', 'labels': []}
+{'issuenumber': 151, 'title': 'Verbose not working', 'state': 'closed', 'created_at': '2011-02-08T16:27:14Z', 'closed_at': '2011-02-09T00:53:57Z', 'labels': []}
+{'issuenumber': 150, 'title': 'Problems with filtering', 'state': 'closed', 'created_at': '2011-02-07T19:49:37Z', 'closed_at': '2011-02-08T04:00:01Z', 'labels': []}
+{'issuenumber': 148, 'title': 'wishlist: "phpunit foo/" automatically looks for foo/phpunit.xml', 'state': 'closed', 'created_at': '2011-02-06T19:07:54Z', 'closed_at': '2011-08-24T15:34:42Z', 'labels': []}
+{'issuenumber': 147, 'title': 'Parse Error when using processIsolation on windows', 'state': 'closed', 'created_at': '2011-02-06T17:19:13Z', 'closed_at': '2011-02-20T06:58:28Z', 'labels': {'name': 'platform/windows'}}
+{'issuenumber': 146, 'title': 'HTML code coverage reports broken with processIsolation="true"', 'state': 'closed', 'created_at': '2011-02-03T18:13:39Z', 'closed_at': '2011-11-10T22:59:30Z', 'labels': []}
+{'issuenumber': 145, 'title': 'Add option to disable the PHP_Token_Stream cache that is used by PHP_CodeCoverage', 'state': 'closed', 'created_at': '2011-02-03T07:39:37Z', 'closed_at': '2011-02-03T10:14:15Z', 'labels': {'name': 'type/enhancement'}}
+{'issuenumber': 144, 'title': 'Cannot assert "same" on mock method invocation', 'state': 'closed', 'created_at': '2011-02-02T20:54:25Z', 'closed_at': '2011-11-10T23:11:11Z', 'labels': []}
+{'issuenumber': 143, 'title': "PHPUnit doesn't log valid JSON", 'state': 'closed', 'created_at': '2011-02-02T05:12:49Z', 'closed_at': '2011-02-02T06:12:09Z', 'labels': []}
+{'issuenumber': 142, 'title': 'Incorrect JSON output', 'state': 'closed', 'created_at': '2011-02-01T12:21:28Z', 'closed_at': '2011-02-01T12:28:34Z', 'labels': []}
+{'issuenumber': 141, 'title': 'Cannot mock methods that return a reference', 'state': 'closed', 'created_at': '2011-01-31T18:39:11Z', 'closed_at': '2011-01-31T18:49:19Z', 'labels': []}
+{'issuenumber': 140, 'title': 'Document how to use an Iterator object with @dataProvider', 'state': 'closed', 'created_at': '2011-01-28T01:35:45Z', 'closed_at': '2011-01-28T08:09:53Z', 'labels': []}
+{'issuenumber': 139, 'title': 'Smart Assert Messages', 'state': 'closed', 'created_at': '2011-01-27T16:08:52Z', 'closed_at': '2011-11-10T23:13:05Z', 'labels': []}
+{'issuenumber': 138, 'title': 'Manual: PHPUnit2 class names in image', 'state': 'closed', 'created_at': '2011-01-27T14:01:20Z', 'closed_at': '2011-01-27T14:48:47Z', 'labels': []}
+{'issuenumber': 137, 'title': 'Different number of test per line', 'state': 'closed', 'created_at': '2011-01-26T09:49:49Z', 'closed_at': '2014-10-22T06:43:02Z', 'labels': []}
+{'issuenumber': 136, 'title': 'Fatal Error when stubbing non existing class with namespaces', 'state': 'closed', 'created_at': '2011-01-25T09:52:02Z', 'closed_at': '2011-01-25T10:11:06Z', 'labels': []}
+{'issuenumber': 135, 'title': 'Unable to generate coverage-xml report.', 'state': 'closed', 'created_at': '2011-01-25T07:58:39Z', 'closed_at': '2011-01-25T16:01:23Z', 'labels': []}
+{'issuenumber': 133, 'title': "Document the 'forceCoversAnnotation' option", 'state': 'closed', 'created_at': '2011-01-21T20:10:30Z', 'closed_at': '2011-01-22T06:02:43Z', 'labels': []}
+{'issuenumber': 132, 'title': 'DBUnit YamlDataSet does not respect empty tables', 'state': 'closed', 'created_at': '2011-01-21T18:39:48Z', 'closed_at': '2011-01-22T06:37:09Z', 'labels': []}
+{'issuenumber': 130, 'title': 'Enable test parallelization?', 'state': 'closed', 'created_at': '2011-01-21T00:30:50Z', 'closed_at': '2011-01-21T07:09:10Z', 'labels': []}
+{'issuenumber': 129, 'title': 'Upgrading to 3.5.10 has broken function of "autoload"', 'state': 'closed', 'created_at': '2011-01-20T22:07:45Z', 'closed_at': '2011-01-21T15:07:37Z', 'labels': []}
+{'issuenumber': 127, 'title': 'PHPUnit does not report errors in XML configuration files', 'state': 'closed', 'created_at': '2011-01-19T21:54:27Z', 'closed_at': '2011-01-21T15:27:34Z', 'labels': {'name': 'type/bug'}}
+{'issuenumber': 126, 'title': 'Show used configuration file', 'state': 'closed', 'created_at': '2011-01-19T18:44:19Z', 'closed_at': '2011-01-20T10:00:39Z', 'labels': {'name': 'type/enhancement'}}
+{'issuenumber': 125, 'title': "Class 'PHPUnit_Framework_Error_Notice' not found", 'state': 'closed', 'created_at': '2011-01-19T13:40:08Z', 'closed_at': '2011-01-19T17:01:31Z', 'labels': {'name': 'type/bug'}}
+{'issuenumber': 124, 'title': 'Warnings reported during setup and teardown', 'state': 'closed', 'created_at': '2011-01-18T14:17:27Z', 'closed_at': '2011-01-19T06:56:14Z', 'labels': []}
+{'issuenumber': 123, 'title': 'eption', 'state': 'closed', 'created_at': '2011-01-18T13:30:25Z', 'closed_at': '2011-01-18T13:52:40Z', 'labels': []}
+{'issuenumber': 120, 'title': 'Printer class does not handle "file does not exists"-problems correctly', 'state': 'closed', 'created_at': '2011-01-17T12:04:06Z', 'closed_at': '2011-01-17T20:27:01Z', 'labels': {'name': 'type/bug'}}
+{'issuenumber': 119, 'title': 'Clever object dump diffing', 'state': 'closed', 'created_at': '2011-01-16T17:59:02Z', 'closed_at': '2011-01-19T07:37:59Z', 'labels': []}
+{'issuenumber': 117, 'title': 'Undefined Property $name errors since upgrading to PHPUnit 3.5.8 from 3.5.6', 'state': 'closed', 'created_at': '2011-01-14T18:01:07Z', 'closed_at': '2011-01-15T02:24:23Z', 'labels': []}
+{'issuenumber': 116, 'title': 'assertContains() and assertContainsOnly() have different behavior for similar use', 'state': 'closed', 'created_at': '2011-01-13T21:50:43Z', 'closed_at': '2011-01-14T06:42:55Z', 'labels': []}
+{'issuenumber': 115, 'title': 'Fatal Error with assertType() deprecation message', 'state': 'closed', 'created_at': '2011-01-13T20:13:39Z', 'closed_at': '2011-01-14T20:36:59Z', 'labels': []}
+{'issuenumber': 113, 'title': 'Ensure an exact amount of arguments are passed to a mocked function.', 'state': 'closed', 'created_at': '2011-01-13T11:05:44Z', 'closed_at': '2011-01-13T11:19:59Z', 'labels': []}
+{'issuenumber': 112, 'title': 'Bug - database schema not working as expected', 'state': 'closed', 'created_at': '2011-01-12T20:34:59Z', 'closed_at': '2011-01-12T20:52:50Z', 'labels': []}
+{'issuenumber': 111, 'title': '--verbose flag broken with 3.5.7?', 'state': 'closed', 'created_at': '2011-01-12T01:48:16Z', 'closed_at': '2011-01-12T13:17:25Z', 'labels': []}
+{'issuenumber': 109, 'title': 'Running testsuites defined in PHPUnit.xml', 'state': 'closed', 'created_at': '2011-01-11T14:58:24Z', 'closed_at': '2011-01-11T23:20:55Z', 'labels': []}
+{'issuenumber': 108, 'title': "Pear Install : Warning require once 'Structures/Graph/Node.php'", 'state': 'closed', 'created_at': '2011-01-11T14:19:33Z', 'closed_at': '2011-01-11T14:36:08Z', 'labels': []}
+{'issuenumber': 107, 'title': 'Support for testing traits', 'state': 'closed', 'created_at': '2011-01-11T09:02:59Z', 'closed_at': '2011-01-15T10:20:32Z', 'labels': {'name': 'type/enhancement'}}
+{'issuenumber': 104, 'title': 'Bootstrap must be relative to the current directory.', 'state': 'closed', 'created_at': '2011-01-05T09:34:41Z', 'closed_at': '2011-01-16T13:24:42Z', 'labels': {'name': 'type/bug'}}
+{'issuenumber': 102, 'title': 'setExpectedException behaves as setExpectedExceptionInstance would', 'state': 'closed', 'created_at': '2011-01-04T13:33:03Z', 'closed_at': '2011-01-04T22:41:27Z', 'labels': []}
+{'issuenumber': 101, 'title': 'Why deprecate assertType', 'state': 'closed', 'created_at': '2011-01-04T13:22:14Z', 'closed_at': '2011-01-04T21:26:14Z', 'labels': []}
+{'issuenumber': 100, 'title': "assertSame doesn't give useful output on misordered arrays", 'state': 'closed', 'created_at': '2011-01-04T12:03:17Z', 'closed_at': '2011-01-04T20:50:23Z', 'labels': {'name': 'type/bug'}}
+{'issuenumber': 99, 'title': "setExpectedException doesn't allow 100% code coverage in some cases", 'state': 'closed', 'created_at': '2011-01-03T15:19:28Z', 'closed_at': '2011-01-15T10:25:20Z', 'labels': []}
+{'issuenumber': 98, 'title': 'assert(Not)Equals ignores comment nodes when comparing DOMDocuments', 'state': 'closed', 'created_at': '2010-12-29T15:41:47Z', 'closed_at': '2011-01-16T08:17:36Z', 'labels': []}
+{'issuenumber': 97, 'title': 'phpunit falls dowm silently', 'state': 'closed', 'created_at': '2010-12-28T11:49:15Z', 'closed_at': '2010-12-28T19:50:36Z', 'labels': []}
+{'issuenumber': 96, 'title': 'Add callback function support to assertTag', 'state': 'closed', 'created_at': '2010-12-27T13:04:42Z', 'closed_at': '2011-01-15T10:22:08Z', 'labels': []}
+{'issuenumber': 95, 'title': 'pear install broken', 'state': 'closed', 'created_at': '2010-12-22T20:37:00Z', 'closed_at': '2010-12-23T04:56:46Z', 'labels': []}
+{'issuenumber': 94, 'title': 'Missing file and line number on deprecated message', 'state': 'closed', 'created_at': '2010-12-18T12:39:41Z', 'closed_at': '2010-12-19T00:47:47Z', 'labels': []}
+{'issuenumber': 93, 'title': 'Untitled', 'state': 'closed', 'created_at': '2010-12-18T10:29:52Z', 'closed_at': '2011-01-15T10:12:23Z', 'labels': []}
+{'issuenumber': 92, 'title': 'require_once is missed in PHPUnit/Framework/MockObject/Matcher/InvokedAtLeastOnce.php', 'state': 'closed', 'created_at': '2010-12-16T20:11:11Z', 'closed_at': '2010-12-17T04:35:19Z', 'labels': []}
+{'issuenumber': 91, 'title': 'Mock with multiple tests', 'state': 'closed', 'created_at': '2010-12-15T16:44:37Z', 'closed_at': '2010-12-15T17:08:08Z', 'labels': []}
+{'issuenumber': 90, 'title': 'PDO Rollback in class destructor makes phpunit accept failed asserts', 'state': 'closed', 'created_at': '2010-12-14T19:19:04Z', 'closed_at': '2011-01-15T10:35:48Z', 'labels': []}
+{'issuenumber': 89, 'title': 'static method mocking', 'state': 'closed', 'created_at': '2010-12-14T13:38:38Z', 'closed_at': '2010-12-14T14:39:30Z', 'labels': []}
+{'issuenumber': 85, 'title': 'Not Getting Links', 'state': 'closed', 'created_at': '2010-12-08T11:59:25Z', 'closed_at': '2010-12-09T06:17:36Z', 'labels': []}
+{'issuenumber': 82, 'title': 'Test Skeleton Generator should create @covers annotations', 'state': 'closed', 'created_at': '2010-12-04T22:00:25Z', 'closed_at': '2010-12-04T22:10:28Z', 'labels': {'name': 'type/enhancement'}}
+{'issuenumber': 81, 'title': 'DatabaseTest', 'state': 'closed', 'created_at': '2010-12-01T10:00:46Z', 'closed_at': '2011-01-15T10:09:44Z', 'labels': []}
+{'issuenumber': 80, 'title': 'Add a JUnit like Rules feature', 'state': 'closed', 'created_at': '2010-11-30T10:20:04Z', 'closed_at': '2015-10-02T04:19:56Z', 'labels': {'name': 'type/enhancement'}}
+{'issuenumber': 79, 'title': 'TestDox listener should optionally ignore incomplete/skipped tests', 'state': 'closed', 'created_at': '2010-11-30T09:42:29Z', 'closed_at': '2015-10-02T04:20:04Z', 'labels': {'name': 'type/enhancement'}}
+{'issuenumber': 78, 'title': 'Autoload not called', 'state': 'closed', 'created_at': '2010-11-29T16:04:41Z', 'closed_at': '2010-11-30T07:09:43Z', 'labels': []}
+{'issuenumber': 77, 'title': 'assertType() invoking autoloader for scalar types', 'state': 'closed', 'created_at': '2010-11-23T13:18:40Z', 'closed_at': '2010-11-23T21:25:07Z', 'labels': []}
+{'issuenumber': 76, 'title': 'Typo in /PHPUnit/Framework/Assert.php', 'state': 'closed', 'created_at': '2010-11-23T13:10:15Z', 'closed_at': '2010-11-23T13:24:28Z', 'labels': []}
+{'issuenumber': 75, 'title': 'Command line argument to ignore deprecated message', 'state': 'closed', 'created_at': '2010-11-19T09:24:02Z', 'closed_at': '2010-11-19T11:47:37Z', 'labels': []}
+{'issuenumber': 74, 'title': 'catchable fatal error in 3.5', 'state': 'closed', 'created_at': '2010-11-16T17:35:23Z', 'closed_at': '2011-05-23T06:08:04Z', 'labels': []}
+{'issuenumber': 72, 'title': 'PHP_Timer issue if $_SERVER overwritten in unit tests', 'state': 'closed', 'created_at': '2010-11-16T10:30:08Z', 'closed_at': '2011-01-16T10:11:29Z', 'labels': []}
+{'issuenumber': 71, 'title': 'addTestFile() in PHPUnit_Framework_TestSuite has problems identifying the correct test suite', 'state': 'closed', 'created_at': '2010-11-15T05:13:48Z', 'closed_at': '2011-01-19T07:04:53Z', 'labels': {'name': 'type/bug'}}
+{'issuenumber': 70, 'title': 'Add note about code coverage corner cases in documentation', 'state': 'closed', 'created_at': '2010-11-12T11:55:41Z', 'closed_at': '2011-11-15T17:20:24Z', 'labels': []}
+{'issuenumber': 69, 'title': "Don't call PHP_CodeCoverage_Filter::addDirectoryToBlacklist and File when code coverage is not invoked", 'state': 'closed', 'created_at': '2010-11-12T11:49:21Z', 'closed_at': '2011-11-16T10:48:56Z', 'labels': {'name': 'type/enhancement'}}
+{'issuenumber': 66, 'title': 'Support for E_USER_... error types', 'state': 'closed', 'created_at': '2010-11-11T04:59:01Z', 'closed_at': '2010-11-11T05:15:33Z', 'labels': []}
+{'issuenumber': 65, 'title': 'Skeleton templates', 'state': 'closed', 'created_at': '2010-11-09T14:33:30Z', 'closed_at': '2010-11-10T00:32:58Z', 'labels': []}
+{'issuenumber': 64, 'title': './ added to path to test when using phpunit on windows terminal', 'state': 'closed', 'created_at': '2010-11-09T10:22:44Z', 'closed_at': '2011-01-16T13:24:45Z', 'labels': {'name': 'type/bug'}}
+{'issuenumber': 63, 'title': 'Invalid @covers annotations should produce a test error (E) instead of aborting phpunit', 'state': 'closed', 'created_at': '2010-11-05T00:29:14Z', 'closed_at': '2011-01-19T07:53:26Z', 'labels': {'name': 'type/enhancement'}}
+{'issuenumber': 62, 'title': '@covers in other annotations (e.g. @author) trip up code coverage', 'state': 'closed', 'created_at': '2010-11-05T00:22:51Z', 'closed_at': '2010-11-05T07:30:52Z', 'labels': []}
+{'issuenumber': 61, 'title': 'expectedExceptionMessage Annotation does not work as expected', 'state': 'closed', 'created_at': '2010-11-04T18:49:57Z', 'closed_at': '2010-11-05T04:31:49Z', 'labels': []}
+{'issuenumber': 60, 'title': 'Trac Ticket Listener', 'state': 'closed', 'created_at': '2010-11-02T21:41:22Z', 'closed_at': '2011-01-15T10:12:06Z', 'labels': []}
+{'issuenumber': 59, 'title': 'Minor docs issue', 'state': 'closed', 'created_at': '2010-11-01T23:15:38Z', 'closed_at': '2010-11-02T12:37:35Z', 'labels': []}
+{'issuenumber': 58, 'title': 'Categorization of Tests as Small, Medium, or Large', 'state': 'closed', 'created_at': '2010-10-30T06:14:19Z', 'closed_at': '2015-06-19T08:25:21Z', 'labels': {'name': 'type/enhancement'}}
+{'issuenumber': 57, 'title': 'Make explicit in documentation that by default test files must end with Test.php to be picked up by the testrunner', 'state': 'closed', 'created_at': '2010-10-28T21:46:41Z', 'closed_at': '2010-10-29T03:52:57Z', 'labels': []}
+{'issuenumber': 56, 'title': '@depends for PHPUnit_Extensions_SeleniumTestCase', 'state': 'closed', 'created_at': '2010-10-28T20:14:09Z', 'closed_at': '2011-01-15T18:05:24Z', 'labels': []}
+{'issuenumber': 55, 'title': 'Improvement to PHPUnit Windows Setup', 'state': 'closed', 'created_at': '2010-10-27T16:40:50Z', 'closed_at': '2011-01-15T10:27:19Z', 'labels': []}
+{'issuenumber': 54, 'title': 'code coverage does not respect __halt_compiler', 'state': 'closed', 'created_at': '2010-10-26T09:44:55Z', 'closed_at': '2010-10-26T10:19:56Z', 'labels': []}
+{'issuenumber': 53, 'title': "Can't test 404 pages using Selenium extension", 'state': 'closed', 'created_at': '2010-10-21T17:28:06Z', 'closed_at': '2011-01-15T10:04:16Z', 'labels': []}
+{'issuenumber': 47, 'title': 'Failure message ignored in assertSelectCount', 'state': 'closed', 'created_at': '2010-10-15T09:10:43Z', 'closed_at': '2010-10-16T20:22:28Z', 'labels': []}
+{'issuenumber': 46, 'title': 'Implement "previous failures first" mode', 'state': 'closed', 'created_at': '2010-10-14T15:28:46Z', 'closed_at': '2018-09-07T16:18:12Z', 'labels': {'name': 'type/enhancement'}}
+{'issuenumber': 45, 'title': 'getMockForAbstractClass fails when abstract class contains no abstract methods', 'state': 'closed', 'created_at': '2010-10-14T13:27:17Z', 'closed_at': '2011-01-15T10:03:52Z', 'labels': []}
+{'issuenumber': 43, 'title': "Autoloader wants to load 'string.php' for assertType('string' since 3.5", 'state': 'closed', 'created_at': '2010-10-11T14:27:56Z', 'closed_at': '2010-10-12T03:26:55Z', 'labels': []}
+{'issuenumber': 42, 'title': 'Add support for conditional inclusion of test files based on PHP version', 'state': 'closed', 'created_at': '2010-10-10T21:02:52Z', 'closed_at': '2011-01-17T09:16:08Z', 'labels': {'name': 'type/enhancement'}}
+{'issuenumber': 40, 'title': 'Allow TestCase to assess if STDERR buffer is a real error when running in process isolation', 'state': 'closed', 'created_at': '2010-10-06T04:21:23Z', 'closed_at': '2011-01-19T06:48:00Z', 'labels': []}
+{'issuenumber': 39, 'title': 'first command parameter not recognized', 'state': 'closed', 'created_at': '2010-10-05T17:16:17Z', 'closed_at': '2010-10-06T18:36:50Z', 'labels': []}
+{'issuenumber': 38, 'title': 'PHPUnit_Util_Type::isType() in combination with autloader raises error', 'state': 'closed', 'created_at': '2010-10-05T12:36:33Z', 'closed_at': '2010-10-05T19:56:11Z', 'labels': []}
+{'issuenumber': 35, 'title': 'Html Coverage report too optimistic', 'state': 'closed', 'created_at': '2010-10-04T08:23:12Z', 'closed_at': '2011-01-15T10:01:57Z', 'labels': []}
+{'issuenumber': 34, 'title': 'Bogus bootstrap file raises cryptic error', 'state': 'closed', 'created_at': '2010-09-30T08:58:21Z', 'closed_at': '2010-10-17T05:30:12Z', 'labels': []}
+{'issuenumber': 33, 'title': "pear install doesn't seem to work correct phpunit 3.5", 'state': 'closed', 'created_at': '2010-09-29T09:37:17Z', 'closed_at': '2010-10-06T11:37:19Z', 'labels': []}
+{'issuenumber': 32, 'title': 'Maximum Execution Time problems in the DBUnit component', 'state': 'closed', 'created_at': '2010-09-29T00:17:32Z', 'closed_at': '2010-09-29T01:46:42Z', 'labels': []}
+{'issuenumber': 31, 'title': "Fatal error: Class 'PHPUnit_TextUI_TestRunner' not found in /usr/share/php/PHPUnit/TextUI/Command.php on line 140", 'state': 'closed', 'created_at': '2010-09-28T21:53:54Z', 'closed_at': '2010-09-29T17:42:30Z', 'labels': []}
+{'issuenumber': 30, 'title': '--repeat option does not work in 3.5.0', 'state': 'closed', 'created_at': '2010-09-28T12:52:55Z', 'closed_at': '2010-09-28T21:49:52Z', 'labels': []}
+{'issuenumber': 29, 'title': 'BDD missing from docs for version 3.5', 'state': 'closed', 'created_at': '2010-09-26T16:50:20Z', 'closed_at': '2010-09-27T02:14:40Z', 'labels': []}
+{'issuenumber': 28, 'title': 'test success output formatting', 'state': 'closed', 'created_at': '2010-09-24T23:48:06Z', 'closed_at': '2011-01-15T10:10:58Z', 'labels': []}
+{'issuenumber': 27, 'title': 'process isolation does not work on Windows 7 x64?', 'state': 'closed', 'created_at': '2010-09-21T22:20:26Z', 'closed_at': '2010-10-08T14:59:30Z', 'labels': []}
+{'issuenumber': 26, 'title': "Mock expectations shouldn't be allowed on not existent methods", 'state': 'closed', 'created_at': '2010-09-21T13:12:32Z', 'closed_at': '2010-10-06T11:38:26Z', 'labels': []}
+{'issuenumber': 25, 'title': 'Unable to run phpunit in eclipse', 'state': 'closed', 'created_at': '2010-09-21T07:01:04Z', 'closed_at': '2010-10-06T18:39:22Z', 'labels': []}
+{'issuenumber': 24, 'title': 'PHPUnit_Framework_MockObject_Generator missing?', 'state': 'closed', 'created_at': '2010-09-20T13:09:54Z', 'closed_at': '2010-09-20T20:24:15Z', 'labels': []}
+{'issuenumber': 22, 'title': 'Database setup seems to be timing-dependent', 'state': 'closed', 'created_at': '2010-09-13T07:02:14Z', 'closed_at': '2010-10-06T11:40:14Z', 'labels': []}
+{'issuenumber': 20, 'title': 'PHPUnit_Util_XML::cssSelect() does not populate $isHtml correctly', 'state': 'closed', 'created_at': '2010-09-11T05:48:01Z', 'closed_at': '2010-09-13T12:21:40Z', 'labels': []}
+{'issuenumber': 19, 'title': 'Segmentation fault', 'state': 'closed', 'created_at': '2010-09-10T15:13:02Z', 'closed_at': '2010-09-11T03:39:25Z', 'labels': []}
+{'issuenumber': 17, 'title': 'Process isolation breaks for global objects that implement the Serializable interface', 'state': 'closed', 'created_at': '2010-09-06T09:34:41Z', 'closed_at': '2011-01-15T18:19:44Z', 'labels': {'name': 'type/bug'}}
+{'issuenumber': 16, 'title': 'Make the "XML Configuration File" win against command line options', 'state': 'closed', 'created_at': '2010-09-05T09:26:44Z', 'closed_at': '2010-10-27T15:28:37Z', 'labels': []}
+{'issuenumber': 14, 'title': 'Weird RuntimeException when running test suite with --process-isolation', 'state': 'closed', 'created_at': '2010-08-29T16:18:30Z', 'closed_at': '2010-10-23T08:32:43Z', 'labels': []}
+{'issuenumber': 13, 'title': "Result XML inconsistent on '@dataProvider returns empty array' or 'is not existing'", 'state': 'closed', 'created_at': '2010-08-23T14:39:41Z', 'closed_at': '2010-10-24T06:56:58Z', 'labels': []}
+{'issuenumber': 12, 'title': 'Circular dependency of PHPUnit, DbUnit, PHPUnit_MockObject, and PHPUnit_Selenium', 'state': 'closed', 'created_at': '2010-08-20T20:49:53Z', 'closed_at': '2010-10-06T11:38:49Z', 'labels': []}
+{'issuenumber': 11, 'title': 'Add policy support for Test Dependency based Fixture Reuse', 'state': 'closed', 'created_at': '2010-08-20T06:09:35Z', 'closed_at': '2015-10-02T04:20:13Z', 'labels': {'name': 'type/enhancement'}}
+{'issuenumber': 10, 'title': 'Refactor how tests are run', 'state': 'closed', 'created_at': '2010-08-20T06:01:24Z', 'closed_at': '2018-07-16T08:15:55Z', 'labels': {'name': 'type/refactoring'}}
+{'issuenumber': 9, 'title': 'Unexpected @depends behaviour', 'state': 'closed', 'created_at': '2010-08-19T16:54:37Z', 'closed_at': '2010-08-20T13:07:10Z', 'labels': []}
+{'issuenumber': 8, 'title': 'Running with --process-isolation breaks semantics of setUpBeforeClass()', 'state': 'closed', 'created_at': '2010-08-19T09:14:27Z', 'closed_at': '2010-08-19T16:30:01Z', 'labels': []}
+{'issuenumber': 7, 'title': 'Code paths that create a PHPUnit_Framework_Warning end up serializing/unserializing globals unconditionally', 'state': 'closed', 'created_at': '2010-08-16T23:27:46Z', 'closed_at': '2010-08-17T04:10:16Z', 'labels': []}
+{'issuenumber': 6, 'title': 'junit xml log for phpt tests does not appear to work', 'state': 'closed', 'created_at': '2010-08-16T09:52:06Z', 'closed_at': '2010-08-16T09:59:34Z', 'labels': []}
+{'issuenumber': 5, 'title': '$this->setExpectedException(): stacktrace is missing when no exception was not raised', 'state': 'closed', 'created_at': '2010-08-13T09:53:22Z', 'closed_at': '2010-08-16T13:25:20Z', 'labels': []}
+{'issuenumber': 4, 'title': "phpunit.bat on 3.5.0RC1 doesn't work", 'state': 'closed', 'created_at': '2010-08-10T15:46:30Z', 'closed_at': '2010-08-12T11:39:03Z', 'labels': []}
+{'issuenumber': 3, 'title': 'Mocking class Imagick of pecl/imagick 3.0.0 fails with PHPUnit 3.4.2 and 3.5 beta1', 'state': 'closed', 'created_at': '2010-08-07T16:54:09Z', 'closed_at': '2010-08-08T07:51:49Z', 'labels': []}
+{'issuenumber': 2, 'title': 'Running with --process-isolation yields parse error on global data with single quotes', 'state': 'closed', 'created_at': '2010-08-02T18:51:51Z', 'closed_at': '2010-08-14T08:27:49Z', 'labels': []}
+{'issuenumber': 1, 'title': 'When backupStaticAttributes is enable, static data from a first test case leaks to the subsequent tests cases', 'state': 'closed', 'created_at': '2010-07-31T04:59:06Z', 'closed_at': '2010-08-14T08:28:16Z', 'labels': []}

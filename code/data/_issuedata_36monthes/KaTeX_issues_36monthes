@@ -1,0 +1,298 @@
+{'issuenumber': 496, 'title': 'mfrac is very long in PDF renderer', 'state': 'closed', 'created_at': '2016-06-23T18:39:06Z', 'closed_at': '2018-01-31T02:33:46Z', 'labels': []}
+{'issuenumber': 495, 'title': 'Remove symbols from functions.js', 'state': 'closed', 'created_at': '2016-06-21T21:34:39Z', 'closed_at': '2018-08-21T07:37:08Z', 'labels': {'name': 'code cleanup'}}
+{'issuenumber': 488, 'title': 'Subscripts and superscripts inside franctions are centered; should be left-aligned', 'state': 'closed', 'created_at': '2016-05-31T13:29:52Z', 'closed_at': '2016-06-01T22:10:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 487, 'title': 'Mathjax parity', 'state': 'closed', 'created_at': '2016-05-30T04:29:42Z', 'closed_at': '2016-05-30T04:30:39Z', 'labels': []}
+{'issuenumber': 486, 'title': 'Style changes breaks spacing', 'state': 'closed', 'created_at': '2016-05-30T00:50:46Z', 'closed_at': '2016-06-04T02:16:02Z', 'labels': []}
+{'issuenumber': 484, 'title': '\\overset and \\underset not working, probably others', 'state': 'closed', 'created_at': '2016-05-27T16:03:20Z', 'closed_at': '2017-04-16T00:39:02Z', 'labels': []}
+{'issuenumber': 483, 'title': 'An ParseError is thrown when entering Chinese characters', 'state': 'closed', 'created_at': '2016-05-27T11:12:17Z', 'closed_at': '2016-05-27T15:45:34Z', 'labels': []}
+{'issuenumber': 482, 'title': 'Implement <math atom> commands', 'state': 'closed', 'created_at': '2016-05-26T20:04:06Z', 'closed_at': '2016-12-05T21:56:02Z', 'labels': []}
+{'issuenumber': 476, 'title': 'Support Arabic/Persian (UTF-8) and other unicode Characters', 'state': 'closed', 'created_at': '2016-05-18T14:54:54Z', 'closed_at': '2016-05-18T18:09:00Z', 'labels': []}
+{'issuenumber': 475, 'title': 'throwOnError confusing', 'state': 'closed', 'created_at': '2016-05-17T09:09:40Z', 'closed_at': '2018-05-09T13:32:05Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 474, 'title': 'Certain chars inside `\\text` crash KaTeX: `#$%^&{}_`', 'state': 'closed', 'created_at': '2016-05-11T16:50:56Z', 'closed_at': '2016-12-08T01:00:29Z', 'labels': []}
+{'issuenumber': 470, 'title': 'Fonts dont always load during automated screenshot chrome test', 'state': 'closed', 'created_at': '2016-05-04T20:35:24Z', 'closed_at': '2018-01-29T01:28:26Z', 'labels': []}
+{'issuenumber': 468, 'title': '\\stackrel support', 'state': 'closed', 'created_at': '2016-05-03T18:47:18Z', 'closed_at': '2016-12-08T01:00:45Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 467, 'title': "Collision with bpgdec8a.js of Fabrice Bellard's BPG decoder.", 'state': 'closed', 'created_at': '2016-05-02T19:23:40Z', 'closed_at': '2016-05-02T19:27:09Z', 'labels': []}
+{'issuenumber': 466, 'title': 'How to show vector?', 'state': 'closed', 'created_at': '2016-05-01T10:46:22Z', 'closed_at': '2016-05-01T16:21:16Z', 'labels': []}
+{'issuenumber': 464, 'title': 'Line breaks within container', 'state': 'closed', 'created_at': '2016-04-27T07:19:21Z', 'closed_at': '2016-04-28T04:26:10Z', 'labels': []}
+{'issuenumber': 463, 'title': 'Is it possible to display \\LaTeX as in proper LaTeX?', 'state': 'closed', 'created_at': '2016-04-26T22:23:21Z', 'closed_at': '2016-04-26T22:25:13Z', 'labels': []}
+{'issuenumber': 462, 'title': 'Is there any versioning of KaTeX?', 'state': 'closed', 'created_at': '2016-04-16T18:54:40Z', 'closed_at': '2016-04-16T18:59:57Z', 'labels': []}
+{'issuenumber': 460, 'title': 'CJK Characters cause parse error', 'state': 'closed', 'created_at': '2016-04-13T20:51:32Z', 'closed_at': '2016-04-13T20:58:45Z', 'labels': []}
+{'issuenumber': 459, 'title': "Sample code doesn't work?", 'state': 'closed', 'created_at': '2016-04-13T03:18:09Z', 'closed_at': '2016-04-13T03:30:03Z', 'labels': []}
+{'issuenumber': 458, 'title': 'ETA for a new release?', 'state': 'closed', 'created_at': '2016-04-12T03:53:46Z', 'closed_at': '2016-04-16T01:54:04Z', 'labels': []}
+{'issuenumber': 455, 'title': 'Is katex responsive ?', 'state': 'closed', 'created_at': '2016-04-01T14:31:28Z', 'closed_at': '2016-04-01T18:34:54Z', 'labels': []}
+{'issuenumber': 453, 'title': 'Add support for \\not ', 'state': 'closed', 'created_at': '2016-03-24T19:12:41Z', 'closed_at': '2016-03-24T19:34:09Z', 'labels': []}
+{'issuenumber': 452, 'title': 'How to define \\pmod?', 'state': 'closed', 'created_at': '2016-03-24T17:42:23Z', 'closed_at': '2016-03-24T19:08:38Z', 'labels': []}
+{'issuenumber': 451, 'title': 'Empty katex.min.js after build', 'state': 'closed', 'created_at': '2016-03-24T17:25:19Z', 'closed_at': '2016-03-24T17:49:01Z', 'labels': []}
+{'issuenumber': 450, 'title': 'Add optional pre-process callback to the auto-renderer', 'state': 'closed', 'created_at': '2016-03-21T20:00:53Z', 'closed_at': '2018-12-23T23:30:00Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 449, 'title': "Inline mode isn't actually inline", 'state': 'closed', 'created_at': '2016-03-05T19:17:12Z', 'closed_at': '2016-03-06T18:42:52Z', 'labels': []}
+{'issuenumber': 447, 'title': 'Position error when superscript is used with a long subscript', 'state': 'closed', 'created_at': '2016-03-05T11:58:17Z', 'closed_at': '2016-03-07T08:07:25Z', 'labels': []}
+{'issuenumber': 446, 'title': 'Customize formule style', 'state': 'closed', 'created_at': '2016-03-04T00:49:28Z', 'closed_at': '2016-03-04T17:01:58Z', 'labels': []}
+{'issuenumber': 445, 'title': 'Support for "equation" environment', 'state': 'closed', 'created_at': '2016-03-03T11:12:41Z', 'closed_at': '2020-08-04T01:56:18Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 443, 'title': '\\Bbbk should render a "k" using Fraktur', 'state': 'closed', 'created_at': '2016-02-26T18:59:07Z', 'closed_at': '2017-08-12T01:32:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 442, 'title': 'Issue parsing (-1*12*a) @0.5.1', 'state': 'closed', 'created_at': '2016-02-25T19:32:55Z', 'closed_at': '2016-02-25T19:36:44Z', 'labels': []}
+{'issuenumber': 441, 'title': 'Add support for \\bm', 'state': 'closed', 'created_at': '2016-02-18T08:42:27Z', 'closed_at': '2016-02-18T22:27:19Z', 'labels': []}
+{'issuenumber': 440, 'title': 'UTF-8 TeX or XeTeX', 'state': 'closed', 'created_at': '2016-02-15T19:17:16Z', 'closed_at': '2018-05-19T23:26:57Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 439, 'title': 'Widehat', 'state': 'closed', 'created_at': '2016-02-14T00:36:47Z', 'closed_at': '2016-02-14T01:54:27Z', 'labels': []}
+{'issuenumber': 438, 'title': 'Add support for \\pmod \\underline', 'state': 'closed', 'created_at': '2016-02-13T07:02:17Z', 'closed_at': '2016-02-14T01:53:38Z', 'labels': []}
+{'issuenumber': 435, 'title': 'Fractions do not descend far enough when rendered through wkhtmltopdf', 'state': 'closed', 'created_at': '2016-02-04T23:06:19Z', 'closed_at': '2016-02-05T00:27:40Z', 'labels': []}
+{'issuenumber': 434, 'title': 'Accessing From Filesystem Fails', 'state': 'closed', 'created_at': '2016-02-04T01:47:56Z', 'closed_at': '2016-02-04T01:56:51Z', 'labels': []}
+{'issuenumber': 433, 'title': 'Parsing --1 fails', 'state': 'closed', 'created_at': '2016-02-03T19:36:08Z', 'closed_at': '2017-08-12T01:34:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 432, 'title': 'Underscore support in \\text', 'state': 'closed', 'created_at': '2016-02-01T14:16:21Z', 'closed_at': '2016-12-08T01:01:54Z', 'labels': []}
+{'issuenumber': 430, 'title': 'Greater than and Less than??', 'state': 'closed', 'created_at': '2016-01-29T19:02:00Z', 'closed_at': '2016-01-29T19:10:53Z', 'labels': []}
+{'issuenumber': 429, 'title': 'Overlapping symbols in some math expressions', 'state': 'closed', 'created_at': '2016-01-24T20:23:52Z', 'closed_at': '2016-01-25T01:41:07Z', 'labels': []}
+{'issuenumber': 427, 'title': "_\\vec{r} doesn't work ", 'state': 'closed', 'created_at': '2016-01-14T18:12:40Z', 'closed_at': '2016-01-14T18:37:09Z', 'labels': []}
+{'issuenumber': 426, 'title': 'How to add degree sign?', 'state': 'closed', 'created_at': '2016-01-06T09:08:45Z', 'closed_at': '2016-01-06T18:36:35Z', 'labels': []}
+{'issuenumber': 425, 'title': 'Expose KaTeX rendering options through auto-render interface', 'state': 'closed', 'created_at': '2016-01-03T15:12:33Z', 'closed_at': '2018-08-21T07:29:31Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 424, 'title': 'incorrect spacing of operators when combining fonts and sub-/sup-scripts', 'state': 'closed', 'created_at': '2015-12-31T11:09:12Z', 'closed_at': '2016-12-08T01:02:05Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 422, 'title': 'Add support for \\kern', 'state': 'closed', 'created_at': '2015-12-29T21:43:20Z', 'closed_at': '2016-09-27T12:27:45Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 421, 'title': '\\centerdot displays as a low dot', 'state': 'closed', 'created_at': '2015-12-29T16:33:39Z', 'closed_at': '2015-12-29T18:02:35Z', 'labels': []}
+{'issuenumber': 420, 'title': "Speed test doesn't work", 'state': 'closed', 'created_at': '2015-12-22T11:18:44Z', 'closed_at': '2017-09-17T15:58:28Z', 'labels': []}
+{'issuenumber': 419, 'title': 'Add support for official npm package', 'state': 'closed', 'created_at': '2015-12-21T19:53:23Z', 'closed_at': '2015-12-21T21:20:07Z', 'labels': []}
+{'issuenumber': 418, 'title': 'How can convert katex html to katex formula ?', 'state': 'closed', 'created_at': '2015-12-18T03:52:01Z', 'closed_at': '2015-12-18T16:53:56Z', 'labels': []}
+{'issuenumber': 417, 'title': 'How to get variables from expression by KaTeX', 'state': 'closed', 'created_at': '2015-12-17T11:36:12Z', 'closed_at': '2015-12-17T16:50:55Z', 'labels': []}
+{'issuenumber': 416, 'title': 'The \\\\ syntax for a new line in block mode throws an error.', 'state': 'closed', 'created_at': '2015-12-16T17:18:49Z', 'closed_at': '2015-12-17T01:38:34Z', 'labels': []}
+{'issuenumber': 415, 'title': 'React native', 'state': 'closed', 'created_at': '2015-12-15T10:07:12Z', 'closed_at': '2015-12-15T16:43:45Z', 'labels': []}
+{'issuenumber': 414, 'title': 'Allow \\\\ to take an optional parameter inside matrix environments', 'state': 'closed', 'created_at': '2015-12-14T22:06:01Z', 'closed_at': '2015-12-31T01:14:33Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 413, 'title': "Cross-product doesn't render", 'state': 'closed', 'created_at': '2015-12-13T02:56:13Z', 'closed_at': '2015-12-14T22:04:12Z', 'labels': []}
+{'issuenumber': 412, 'title': "Lorenz equations don't seem to work", 'state': 'closed', 'created_at': '2015-12-13T02:54:57Z', 'closed_at': '2015-12-23T01:20:36Z', 'labels': []}
+{'issuenumber': 411, 'title': "Maxwell's equations don't seem to work", 'state': 'closed', 'created_at': '2015-12-13T02:51:16Z', 'closed_at': '2015-12-13T07:06:10Z', 'labels': []}
+{'issuenumber': 408, 'title': 'Superscript in the denominator of a fraction partially covered by line', 'state': 'closed', 'created_at': '2015-12-02T13:13:30Z', 'closed_at': '2017-09-15T04:02:26Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 407, 'title': 'Support \\widehat', 'state': 'closed', 'created_at': '2015-12-01T16:21:12Z', 'closed_at': '2017-08-12T01:35:39Z', 'labels': []}
+{'issuenumber': 404, 'title': 'add support for \\textbf, \\textit, and \\textrm', 'state': 'closed', 'created_at': '2015-11-30T18:06:41Z', 'closed_at': '2016-12-08T01:03:04Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 403, 'title': 'How to render katex to input or textare tags', 'state': 'closed', 'created_at': '2015-11-30T02:38:36Z', 'closed_at': '2015-12-01T02:02:14Z', 'labels': []}
+{'issuenumber': 402, 'title': 'new command overrightarrow', 'state': 'closed', 'created_at': '2015-11-27T22:07:06Z', 'closed_at': '2017-08-12T01:35:35Z', 'labels': []}
+{'issuenumber': 401, 'title': 'Webview rendering problem in cordova(ios).', 'state': 'closed', 'created_at': '2015-11-27T03:58:10Z', 'closed_at': '2015-12-02T15:27:31Z', 'labels': []}
+{'issuenumber': 400, 'title': 'Is it possible to use  Katex with React Native?', 'state': 'closed', 'created_at': '2015-11-25T15:55:27Z', 'closed_at': '2015-11-25T18:32:13Z', 'labels': []}
+{'issuenumber': 397, 'title': "Can't render to element is input type text", 'state': 'closed', 'created_at': '2015-11-23T07:22:18Z', 'closed_at': '2015-11-23T15:45:01Z', 'labels': []}
+{'issuenumber': 396, 'title': 'Can I know customtag list used in katex??', 'state': 'closed', 'created_at': '2015-11-22T13:42:23Z', 'closed_at': '2015-11-22T17:59:14Z', 'labels': []}
+{'issuenumber': 393, 'title': 'Support for \\mod, \\bmod, \\pmod, and \\pod', 'state': 'closed', 'created_at': '2015-11-19T06:19:57Z', 'closed_at': '2017-01-10T22:31:51Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 392, 'title': 'Support for \\oiint', 'state': 'closed', 'created_at': '2015-11-17T14:49:53Z', 'closed_at': '2018-06-19T13:41:01Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 391, 'title': '\\mathcal crashes KaTeX', 'state': 'closed', 'created_at': '2015-11-16T19:28:33Z', 'closed_at': '2015-11-21T21:12:31Z', 'labels': []}
+{'issuenumber': 390, 'title': 'Subscripts wrong baseline', 'state': 'closed', 'created_at': '2015-11-14T23:03:35Z', 'closed_at': '2016-09-18T00:22:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 384, 'title': "Can't parse latex comments?", 'state': 'closed', 'created_at': '2015-11-09T12:41:31Z', 'closed_at': '2015-11-09T16:24:09Z', 'labels': []}
+{'issuenumber': 383, 'title': 'Possible to write KaTeX w/different languages?', 'state': 'closed', 'created_at': '2015-11-06T17:10:06Z', 'closed_at': '2015-11-06T23:38:49Z', 'labels': []}
+{'issuenumber': 382, 'title': "Question: What's difference between LaTeX/KaTeX?", 'state': 'closed', 'created_at': '2015-11-06T17:03:34Z', 'closed_at': '2015-11-06T19:05:18Z', 'labels': []}
+{'issuenumber': 380, 'title': "Don't generate an exception when an arbitrary symbol is used inside a formula", 'state': 'closed', 'created_at': '2015-11-05T16:31:58Z', 'closed_at': '2018-05-17T15:33:02Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 379, 'title': 'Chinese text in formula causes ParseError', 'state': 'closed', 'created_at': '2015-11-01T20:33:47Z', 'closed_at': '2015-11-06T23:38:05Z', 'labels': []}
+{'issuenumber': 378, 'title': 'Explain how to process a document element in the README.md ', 'state': 'closed', 'created_at': '2015-11-01T20:23:22Z', 'closed_at': '2018-07-29T16:26:42Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 377, 'title': "Deprecate IE8 support, based on Microsoft's January 2016 hard deadline.", 'state': 'closed', 'created_at': '2015-11-01T20:12:34Z', 'closed_at': '2017-06-25T21:51:14Z', 'labels': []}
+{'issuenumber': 374, 'title': "No character metrics for '■' in style 'Main-Regular'", 'state': 'closed', 'created_at': '2015-10-25T12:23:59Z', 'closed_at': '2017-01-16T00:45:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 370, 'title': 'Dead link in CONTRIBUTING.md', 'state': 'closed', 'created_at': '2015-10-16T06:41:47Z', 'closed_at': '2015-10-19T17:29:39Z', 'labels': []}
+{'issuenumber': 368, 'title': 'Rendering problems in a long post', 'state': 'closed', 'created_at': '2015-10-16T04:13:03Z', 'closed_at': '2018-01-31T02:32:40Z', 'labels': []}
+{'issuenumber': 367, 'title': 'Add support for \\xrightarrow', 'state': 'closed', 'created_at': '2015-10-13T05:42:42Z', 'closed_at': '2017-08-12T01:49:24Z', 'labels': []}
+{'issuenumber': 365, 'title': 'Add support for overbrace / underbrace', 'state': 'closed', 'created_at': '2015-10-03T07:56:53Z', 'closed_at': '2017-08-12T01:49:36Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 357, 'title': 'Which part of `LaTeX` does it support?', 'state': 'closed', 'created_at': '2015-09-19T00:31:24Z', 'closed_at': '2015-09-19T17:45:17Z', 'labels': []}
+{'issuenumber': 355, 'title': 'Spacing of `10 \\times` is incorrect.', 'state': 'closed', 'created_at': '2015-09-13T19:17:56Z', 'closed_at': '2015-09-13T19:19:28Z', 'labels': []}
+{'issuenumber': 354, 'title': 'incorrect spacing around dotless i (and j)', 'state': 'closed', 'created_at': '2015-09-11T05:23:44Z', 'closed_at': '2020-07-11T18:54:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 353, 'title': "fonts for accents don't match base font", 'state': 'closed', 'created_at': '2015-09-11T05:23:20Z', 'closed_at': '2019-08-20T13:40:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 351, 'title': "Vertical separators don't show up at small font sizes", 'state': 'closed', 'created_at': '2015-09-10T21:41:11Z', 'closed_at': '2018-05-19T23:20:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 350, 'title': 'Equation numbering', 'state': 'closed', 'created_at': '2015-09-10T20:58:27Z', 'closed_at': '2020-08-04T01:59:17Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 344, 'title': 'Parser error with mathbf in superscript', 'state': 'closed', 'created_at': '2015-09-09T07:28:16Z', 'closed_at': '2017-08-12T01:30:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 339, 'title': 'Clarify font license', 'state': 'closed', 'created_at': '2015-08-27T05:11:47Z', 'closed_at': '2015-08-27T18:39:33Z', 'labels': []}
+{'issuenumber': 338, 'title': 'Simple expression breaks KaTeX', 'state': 'closed', 'created_at': '2015-08-26T06:52:55Z', 'closed_at': '2015-08-26T12:51:46Z', 'labels': []}
+{'issuenumber': 337, 'title': "array and matrix environments don't ignore trailing newlines", 'state': 'closed', 'created_at': '2015-08-24T16:09:02Z', 'closed_at': '2017-09-17T00:44:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 336, 'title': '. vs ,', 'state': 'closed', 'created_at': '2015-08-24T13:12:14Z', 'closed_at': '2015-08-25T18:33:48Z', 'labels': []}
+{'issuenumber': 335, 'title': 'gitter vs freenode', 'state': 'closed', 'created_at': '2015-08-22T03:24:10Z', 'closed_at': '2015-09-25T21:36:46Z', 'labels': []}
+{'issuenumber': 332, 'title': 'fraction bar too high in tonicdev integration', 'state': 'closed', 'created_at': '2015-08-22T00:35:36Z', 'closed_at': '2015-08-28T22:00:43Z', 'labels': []}
+{'issuenumber': 331, 'title': 'Vertical spacing between fractions in {matrix} environments is too tight', 'state': 'closed', 'created_at': '2015-08-20T05:08:43Z', 'closed_at': '2015-08-28T19:45:23Z', 'labels': []}
+{'issuenumber': 327, 'title': 'Break/wrap formula if too wide', 'state': 'closed', 'created_at': '2015-08-10T15:08:08Z', 'closed_at': '2018-05-11T19:10:19Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 325, 'title': 'Chrome screenshots have diverged from a recent commit', 'state': 'closed', 'created_at': '2015-08-08T03:11:19Z', 'closed_at': '2015-08-30T01:02:24Z', 'labels': []}
+{'issuenumber': 322, 'title': 'When building katex using webpack an additional loader is needed for json.', 'state': 'closed', 'created_at': '2015-08-05T17:18:37Z', 'closed_at': '2015-08-07T07:29:21Z', 'labels': []}
+{'issuenumber': 321, 'title': 'Feature Request: \\class directive to inject HTML/CSS', 'state': 'closed', 'created_at': '2015-08-04T03:02:34Z', 'closed_at': '2015-08-04T15:48:31Z', 'labels': []}
+{'issuenumber': 320, 'title': "`\\dag` shouldn't be smaller in script/scriptscriptstyle.", 'state': 'closed', 'created_at': '2015-07-29T18:41:36Z', 'closed_at': '2018-03-16T14:02:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 318, 'title': "`\\int\\limits` in textstyle doesn't correctly produce limits", 'state': 'closed', 'created_at': '2015-07-27T18:32:48Z', 'closed_at': '2015-08-20T04:01:40Z', 'labels': []}
+{'issuenumber': 316, 'title': 'KaTex on KhanAcademy', 'state': 'closed', 'created_at': '2015-07-24T21:40:22Z', 'closed_at': '2015-09-01T23:31:32Z', 'labels': []}
+{'issuenumber': 315, 'title': 'allow commands to be marked as `non-standard` and provide an option to enabled them', 'state': 'closed', 'created_at': '2015-07-22T16:23:17Z', 'closed_at': '2018-05-19T23:11:22Z', 'labels': []}
+{'issuenumber': 311, 'title': 'Avoid mutating the prototype', 'state': 'closed', 'created_at': '2015-07-16T11:42:54Z', 'closed_at': '2017-09-15T03:48:59Z', 'labels': []}
+{'issuenumber': 307, 'title': 'Implement \\colon as amsmath does', 'state': 'closed', 'created_at': '2015-07-14T14:49:26Z', 'closed_at': '2018-06-07T13:45:17Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 305, 'title': '"Built with KaTeX" page', 'state': 'closed', 'created_at': '2015-07-10T12:03:05Z', 'closed_at': '2018-08-17T07:37:56Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 304, 'title': 'Update dependencies', 'state': 'closed', 'created_at': '2015-07-09T16:29:14Z', 'closed_at': '2015-07-14T19:28:13Z', 'labels': []}
+{'issuenumber': 302, 'title': 'Unit test code in /metrics', 'state': 'closed', 'created_at': '2015-07-09T14:42:59Z', 'closed_at': '2015-07-09T15:10:28Z', 'labels': []}
+{'issuenumber': 301, 'title': 'Split fontMetrics in manually edited part and auto-generated part', 'state': 'closed', 'created_at': '2015-07-09T10:18:43Z', 'closed_at': '2015-07-10T15:46:22Z', 'labels': []}
+{'issuenumber': 300, 'title': 'Automate screenshotter on travis-ci', 'state': 'closed', 'created_at': '2015-07-09T05:30:24Z', 'closed_at': '2015-11-07T19:04:24Z', 'labels': {'name': 'infrastructure'}}
+{'issuenumber': 297, 'title': 'Systematic testing of error messages', 'state': 'closed', 'created_at': '2015-07-07T23:17:39Z', 'closed_at': '2015-11-21T16:54:50Z', 'labels': []}
+{'issuenumber': 296, 'title': 'How to deal with absolute dimensions', 'state': 'closed', 'created_at': '2015-07-07T09:41:56Z', 'closed_at': '2017-09-15T03:39:34Z', 'labels': []}
+{'issuenumber': 289, 'title': 'Support accents in all fonts that have them', 'state': 'closed', 'created_at': '2015-07-03T22:07:51Z', 'closed_at': '2016-09-17T22:17:15Z', 'labels': []}
+{'issuenumber': 288, 'title': 'replace fontforge with freetype-py or fonttools', 'state': 'closed', 'created_at': '2015-07-03T18:46:45Z', 'closed_at': '2015-07-10T15:07:59Z', 'labels': {'name': 'infrastructure'}}
+{'issuenumber': 287, 'title': 'is npm update to 0.4.3?', 'state': 'closed', 'created_at': '2015-07-03T10:07:51Z', 'closed_at': '2015-07-09T05:18:01Z', 'labels': []}
+{'issuenumber': 281, 'title': 'Spaces have zero-width in HTML generated from text mode', 'state': 'closed', 'created_at': '2015-07-01T09:14:22Z', 'closed_at': '2015-07-01T10:05:15Z', 'labels': []}
+{'issuenumber': 278, 'title': 'Add support for the cases environment', 'state': 'closed', 'created_at': '2015-06-29T21:55:01Z', 'closed_at': '2015-07-01T06:12:58Z', 'labels': []}
+{'issuenumber': 277, 'title': 'parse error in subscripts', 'state': 'closed', 'created_at': '2015-06-28T23:16:13Z', 'closed_at': '2015-06-29T00:09:47Z', 'labels': []}
+{'issuenumber': 276, 'title': 'add a support matrix to the README.md?', 'state': 'closed', 'created_at': '2015-06-28T16:30:55Z', 'closed_at': '2018-08-02T18:11:28Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 275, 'title': 'Update docs to include try/catch in examples', 'state': 'closed', 'created_at': '2015-06-28T16:03:46Z', 'closed_at': '2018-08-11T00:21:36Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 274, 'title': 'List supported browsers and versions', 'state': 'closed', 'created_at': '2015-06-28T14:09:37Z', 'closed_at': '2015-06-28T18:32:52Z', 'labels': []}
+{'issuenumber': 273, 'title': 'render unsupported commands and symbols as red source text', 'state': 'closed', 'created_at': '2015-06-27T05:59:16Z', 'closed_at': '2015-07-29T17:55:51Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 272, 'title': 'katex package for LaTeX', 'state': 'closed', 'created_at': '2015-06-25T11:02:30Z', 'closed_at': '2019-08-08T16:06:54Z', 'labels': {'name': 'infrastructure'}}
+{'issuenumber': 271, 'title': 'Interaction between accents and superscripts', 'state': 'closed', 'created_at': '2015-06-25T10:04:48Z', 'closed_at': '2018-08-21T07:20:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 270, 'title': '\\llap and \\rlap should render their content in text mode', 'state': 'closed', 'created_at': '2015-06-25T09:59:32Z', 'closed_at': '2017-09-15T03:37:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 267, 'title': 'Add horizontal and vertical line support in environments', 'state': 'closed', 'created_at': '2015-06-23T22:22:39Z', 'closed_at': '2018-05-12T17:51:15Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 266, 'title': 'More internal state for parser', 'state': 'closed', 'created_at': '2015-06-23T15:45:03Z', 'closed_at': '2015-12-23T17:53:19Z', 'labels': []}
+{'issuenumber': 263, 'title': 'Snapshot alternatives', 'state': 'closed', 'created_at': '2015-06-21T21:18:02Z', 'closed_at': '2015-12-23T02:02:50Z', 'labels': []}
+{'issuenumber': 260, 'title': 'Accept unicode from mathematical alphabets on input', 'state': 'closed', 'created_at': '2015-06-20T15:43:39Z', 'closed_at': '2018-05-20T02:17:14Z', 'labels': {'name': 'Unicode'}}
+{'issuenumber': 259, 'title': 'Support bold fonts', 'state': 'closed', 'created_at': '2015-06-20T15:42:07Z', 'closed_at': '2015-08-05T11:18:39Z', 'labels': []}
+{'issuenumber': 257, 'title': 'Completely sans-serif math', 'state': 'closed', 'created_at': '2015-06-19T07:55:11Z', 'closed_at': '2015-06-19T07:59:05Z', 'labels': []}
+{'issuenumber': 256, 'title': 'Break up array of function declarations', 'state': 'closed', 'created_at': '2015-06-18T21:07:07Z', 'closed_at': '2015-11-25T16:46:34Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 255, 'title': 'Function argument restructuring', 'state': 'closed', 'created_at': '2015-06-18T21:06:39Z', 'closed_at': '2015-10-12T06:09:53Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 254, 'title': 'need support for euro symbol', 'state': 'closed', 'created_at': '2015-06-18T20:05:56Z', 'closed_at': '2018-01-28T03:01:11Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 253, 'title': 'vertical space above fraction line is too small for \\frac', 'state': 'closed', 'created_at': '2015-06-18T18:57:21Z', 'closed_at': '2015-06-18T19:15:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 252, 'title': 'I use \\rm{} but it doesn t work', 'state': 'closed', 'created_at': '2015-06-18T07:34:04Z', 'closed_at': '2017-04-07T21:06:24Z', 'labels': []}
+{'issuenumber': 250, 'title': 'add support for macros via \\def and \\newcommand', 'state': 'closed', 'created_at': '2015-06-18T01:22:51Z', 'closed_at': '2018-06-07T11:39:40Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 249, 'title': 'spacing around fractions is incorrect', 'state': 'closed', 'created_at': '2015-06-17T18:55:50Z', 'closed_at': '2018-08-21T07:13:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 248, 'title': 'Font anti-aliasing for = looks bad in Chrome', 'state': 'closed', 'created_at': '2015-06-13T18:49:36Z', 'closed_at': '2015-07-16T19:24:44Z', 'labels': []}
+{'issuenumber': 247, 'title': "log_\\sqrt{3}9 should work, but doesn't", 'state': 'closed', 'created_at': '2015-06-13T10:24:04Z', 'closed_at': '2015-06-15T23:46:04Z', 'labels': []}
+{'issuenumber': 244, 'title': 'hi  I want use sqrt [] but it still not support, I found other issue about this but do not work? ', 'state': 'closed', 'created_at': '2015-06-10T08:38:21Z', 'closed_at': '2015-06-10T17:31:22Z', 'labels': []}
+{'issuenumber': 243, 'title': 'Symbol unicode replacement doesn’t work', 'state': 'closed', 'created_at': '2015-06-09T09:09:03Z', 'closed_at': '2018-02-01T01:03:16Z', 'labels': {'name': 'Unicode'}}
+{'issuenumber': 241, 'title': "Readme it's not up to date.", 'state': 'closed', 'created_at': '2015-06-05T08:57:01Z', 'closed_at': '2015-06-05T09:00:52Z', 'labels': []}
+{'issuenumber': 240, 'title': 'Impossible to use katex bower dependency without build', 'state': 'closed', 'created_at': '2015-06-05T08:55:19Z', 'closed_at': '2015-06-05T08:55:50Z', 'labels': []}
+{'issuenumber': 239, 'title': 'A CDN pointing to the latest "release"', 'state': 'closed', 'created_at': '2015-06-02T20:32:50Z', 'closed_at': '2015-06-02T20:35:41Z', 'labels': []}
+{'issuenumber': 238, 'title': 'Differential ', 'state': 'closed', 'created_at': '2015-05-27T07:18:50Z', 'closed_at': '2015-05-27T15:07:22Z', 'labels': []}
+{'issuenumber': 237, 'title': 'Add support for \\S', 'state': 'closed', 'created_at': '2015-05-20T13:54:21Z', 'closed_at': '2018-01-31T02:29:12Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 236, 'title': 'Add support for \\hspace', 'state': 'closed', 'created_at': '2015-05-20T13:38:16Z', 'closed_at': '2015-06-29T01:03:41Z', 'labels': []}
+{'issuenumber': 235, 'title': 'Font question', 'state': 'closed', 'created_at': '2015-05-19T16:22:54Z', 'closed_at': '2015-05-19T18:09:37Z', 'labels': []}
+{'issuenumber': 234, 'title': '0.3.0 not on npm', 'state': 'closed', 'created_at': '2015-05-19T16:10:34Z', 'closed_at': '2015-05-19T16:15:42Z', 'labels': []}
+{'issuenumber': 233, 'title': 'Support multiple fonts', 'state': 'closed', 'created_at': '2015-05-19T12:03:01Z', 'closed_at': '2015-05-20T19:46:25Z', 'labels': []}
+{'issuenumber': 231, 'title': 'Can use without special fonts?', 'state': 'closed', 'created_at': '2015-05-12T05:40:53Z', 'closed_at': '2015-06-28T15:39:42Z', 'labels': []}
+{'issuenumber': 230, 'title': 'Can render LaTex?', 'state': 'closed', 'created_at': '2015-05-12T05:38:38Z', 'closed_at': '2015-05-12T18:58:17Z', 'labels': []}
+{'issuenumber': 229, 'title': 'Add support for \\cancel', 'state': 'closed', 'created_at': '2015-05-11T11:02:11Z', 'closed_at': '2017-08-12T01:26:19Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 226, 'title': 'Minor kerning issue?', 'state': 'closed', 'created_at': '2015-05-04T12:08:28Z', 'closed_at': '2015-05-04T15:27:53Z', 'labels': []}
+{'issuenumber': 224, 'title': '\\LaTeX not rendered', 'state': 'closed', 'created_at': '2015-04-29T20:50:58Z', 'closed_at': '2017-11-28T00:04:04Z', 'labels': []}
+{'issuenumber': 223, 'title': 'The auto-render script should not stop rendering because one expression fails', 'state': 'closed', 'created_at': '2015-04-20T19:11:10Z', 'closed_at': '2015-04-27T00:04:14Z', 'labels': []}
+{'issuenumber': 222, 'title': 'ReferenceError: require is not defined', 'state': 'closed', 'created_at': '2015-04-20T05:47:13Z', 'closed_at': '2015-05-11T12:09:03Z', 'labels': []}
+{'issuenumber': 221, 'title': 'Equivalent of DeclareMathOperator?', 'state': 'closed', 'created_at': '2015-04-14T19:59:05Z', 'closed_at': '2015-04-20T19:15:01Z', 'labels': []}
+{'issuenumber': 220, 'title': 'Render issue when formule is inside { and }', 'state': 'closed', 'created_at': '2015-04-14T14:08:00Z', 'closed_at': '2015-04-14T15:19:49Z', 'labels': []}
+{'issuenumber': 217, 'title': 'Protect from text-indent', 'state': 'closed', 'created_at': '2015-04-08T02:37:02Z', 'closed_at': '2015-04-09T00:14:33Z', 'labels': []}
+{'issuenumber': 216, 'title': 'Support for ESSTIX font', 'state': 'closed', 'created_at': '2015-03-31T15:50:12Z', 'closed_at': '2015-03-31T16:35:32Z', 'labels': []}
+{'issuenumber': 211, 'title': 'Support MathML input', 'state': 'closed', 'created_at': '2015-03-26T20:17:00Z', 'closed_at': '2015-03-26T20:30:39Z', 'labels': []}
+{'issuenumber': 210, 'title': 'Trimming off the first and the last 2 characters', 'state': 'closed', 'created_at': '2015-03-25T22:26:10Z', 'closed_at': '2015-03-25T22:36:39Z', 'labels': []}
+{'issuenumber': 209, 'title': '\\overline is present but not \\underline', 'state': 'closed', 'created_at': '2015-03-25T20:42:14Z', 'closed_at': '2016-04-11T03:32:24Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 208, 'title': 'Rendering multi-line equations in KaTex?', 'state': 'closed', 'created_at': '2015-03-24T08:26:47Z', 'closed_at': '2015-03-24T17:59:11Z', 'labels': []}
+{'issuenumber': 207, 'title': "katex.min.css in the KaTeX distribution refers to fonts that aren't also found in the zip.", 'state': 'closed', 'created_at': '2015-03-19T05:39:16Z', 'closed_at': '2015-03-20T02:35:36Z', 'labels': []}
+{'issuenumber': 206, 'title': 'Add support for \\begin \\end environments', 'state': 'closed', 'created_at': '2015-03-16T21:27:13Z', 'closed_at': '2015-06-18T22:23:28Z', 'labels': []}
+{'issuenumber': 205, 'title': 'No support for the \\nabla character', 'state': 'closed', 'created_at': '2015-03-13T22:09:43Z', 'closed_at': '2015-03-13T22:10:33Z', 'labels': []}
+{'issuenumber': 204, 'title': "MathML for primes (') is wrong", 'state': 'closed', 'created_at': '2015-03-13T04:43:31Z', 'closed_at': '2017-08-14T13:27:49Z', 'labels': {'name': 'MathML'}}
+{'issuenumber': 203, 'title': 'MathML for multi-digit numbers is wrong', 'state': 'closed', 'created_at': '2015-03-13T04:24:26Z', 'closed_at': '2018-05-22T02:56:36Z', 'labels': {'name': 'MathML'}}
+{'issuenumber': 202, 'title': 'MathML for trig functions and other functions should be <mi> not <mo>', 'state': 'closed', 'created_at': '2015-03-13T04:11:11Z', 'closed_at': '2015-03-13T15:11:01Z', 'labels': {'name': 'MathML'}}
+{'issuenumber': 200, 'title': "KaTeX doen't render (Chrome)", 'state': 'closed', 'created_at': '2015-03-12T16:44:51Z', 'closed_at': '2015-06-23T22:39:12Z', 'labels': []}
+{'issuenumber': 199, 'title': 'contenteditable integration', 'state': 'closed', 'created_at': '2015-03-08T10:52:42Z', 'closed_at': '2015-03-09T00:01:11Z', 'labels': []}
+{'issuenumber': 198, 'title': 'KaTeX MathML should use munderover for scripted large operators', 'state': 'closed', 'created_at': '2015-03-08T09:46:08Z', 'closed_at': '2017-08-14T13:43:33Z', 'labels': {'name': 'MathML'}}
+{'issuenumber': 197, 'title': 'rules in .katex-mathml should not be !important', 'state': 'closed', 'created_at': '2015-03-08T09:39:39Z', 'closed_at': '2015-03-10T15:35:44Z', 'labels': []}
+{'issuenumber': 195, 'title': "What's the support for matrices?", 'state': 'closed', 'created_at': '2015-03-05T16:45:07Z', 'closed_at': '2015-03-05T22:19:58Z', 'labels': []}
+{'issuenumber': 194, 'title': 'Demo to use this library on Android.', 'state': 'closed', 'created_at': '2015-03-05T10:11:44Z', 'closed_at': '2015-03-07T02:10:24Z', 'labels': {'name': 'android'}}
+{'issuenumber': 193, 'title': 'Support for \\limits', 'state': 'closed', 'created_at': '2015-03-03T18:13:07Z', 'closed_at': '2015-03-03T19:59:59Z', 'labels': []}
+{'issuenumber': 192, 'title': 'MathJax not defined', 'state': 'closed', 'created_at': '2015-03-02T14:49:41Z', 'closed_at': '2015-03-02T18:15:18Z', 'labels': []}
+{'issuenumber': 191, 'title': 'Add support for \\imath and \\jmath', 'state': 'closed', 'created_at': '2015-03-02T02:21:21Z', 'closed_at': '2015-10-12T06:07:56Z', 'labels': []}
+{'issuenumber': 190, 'title': 'Add support for \\implies and \\iff', 'state': 'closed', 'created_at': '2015-03-02T02:18:10Z', 'closed_at': '2017-05-17T00:02:40Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 188, 'title': 'katex.render fails in Firefox', 'state': 'closed', 'created_at': '2015-02-22T09:28:29Z', 'closed_at': '2015-02-22T16:38:44Z', 'labels': []}
+{'issuenumber': 187, 'title': 'I can use the matrix notation', 'state': 'closed', 'created_at': '2015-02-16T14:16:49Z', 'closed_at': '2015-02-16T16:57:36Z', 'labels': []}
+{'issuenumber': 186, 'title': 'adding a `supported` function', 'state': 'closed', 'created_at': '2015-02-16T07:57:18Z', 'closed_at': '2015-02-16T23:56:15Z', 'labels': []}
+{'issuenumber': 185, 'title': 'lots more symbols', 'state': 'closed', 'created_at': '2015-02-11T16:25:04Z', 'closed_at': '2015-03-02T01:34:42Z', 'labels': []}
+{'issuenumber': 183, 'title': 'Superscript rendered as subscript', 'state': 'closed', 'created_at': '2015-02-05T12:07:20Z', 'closed_at': '2015-06-23T22:42:40Z', 'labels': []}
+{'issuenumber': 182, 'title': '\\begin{aligned} not supported', 'state': 'closed', 'created_at': '2015-02-04T03:28:11Z', 'closed_at': '2015-02-04T23:07:01Z', 'labels': []}
+{'issuenumber': 181, 'title': 'bower errors', 'state': 'closed', 'created_at': '2015-01-29T17:00:14Z', 'closed_at': '2015-06-20T17:16:22Z', 'labels': []}
+{'issuenumber': 180, 'title': 'Speed test does not run', 'state': 'closed', 'created_at': '2015-01-22T11:17:05Z', 'closed_at': '2015-01-22T19:21:42Z', 'labels': []}
+{'issuenumber': 179, 'title': "Uncaught TypeError: Cannot read property 'slice' of undefined", 'state': 'closed', 'created_at': '2015-01-17T20:30:19Z', 'closed_at': '2015-01-17T20:54:56Z', 'labels': []}
+{'issuenumber': 177, 'title': 'border-spacing breaks sqrt-line placement', 'state': 'closed', 'created_at': '2014-12-23T14:31:32Z', 'closed_at': '2015-12-23T01:54:47Z', 'labels': []}
+{'issuenumber': 175, 'title': 'Better insulate KaTeX from external CSS rules', 'state': 'closed', 'created_at': '2014-12-23T03:44:11Z', 'closed_at': '2020-07-30T19:16:55Z', 'labels': []}
+{'issuenumber': 173, 'title': 'issue rendering tables', 'state': 'closed', 'created_at': '2014-12-17T20:47:01Z', 'closed_at': '2014-12-17T20:52:08Z', 'labels': []}
+{'issuenumber': 172, 'title': 'Possible to avoid using position: fixed and position:absolute?', 'state': 'closed', 'created_at': '2014-12-08T07:17:47Z', 'closed_at': '2014-12-10T05:26:57Z', 'labels': []}
+{'issuenumber': 171, 'title': 'Add support for line breaks', 'state': 'closed', 'created_at': '2014-11-30T12:19:45Z', 'closed_at': '2018-05-13T13:58:25Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 169, 'title': "Math inside list doesn't work properly", 'state': 'closed', 'created_at': '2014-11-16T05:03:55Z', 'closed_at': '2014-11-18T00:02:56Z', 'labels': []}
+{'issuenumber': 167, 'title': 'Misplaced lower bound in {\\int}_0^\\infty', 'state': 'closed', 'created_at': '2014-11-07T10:02:26Z', 'closed_at': '2014-11-14T00:09:30Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 166, 'title': 'How to use inline equation with KaTex', 'state': 'closed', 'created_at': '2014-11-05T14:02:51Z', 'closed_at': '2014-12-10T01:19:24Z', 'labels': []}
+{'issuenumber': 165, 'title': '\\bigtriangledown and friends should be bin, not ord', 'state': 'closed', 'created_at': '2014-11-04T10:08:36Z', 'closed_at': '2015-03-10T15:37:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 164, 'title': 'Horizontal spacing commands: \\>, \\hfill', 'state': 'closed', 'created_at': '2014-11-03T23:15:15Z', 'closed_at': '2018-10-25T02:05:42Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 163, 'title': '`\\#` should produce a hash', 'state': 'closed', 'created_at': '2014-11-03T23:14:31Z', 'closed_at': '2015-04-04T03:46:43Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 162, 'title': 'Missing eot, ttf or woff files referenced by fonts.less', 'state': 'closed', 'created_at': '2014-10-30T10:29:52Z', 'closed_at': '2015-03-31T16:35:09Z', 'labels': []}
+{'issuenumber': 160, 'title': 'wrong display of equal sign with 0.1.1', 'state': 'closed', 'created_at': '2014-10-28T15:18:47Z', 'closed_at': '2015-06-19T06:22:20Z', 'labels': []}
+{'issuenumber': 159, 'title': 'CDN JS has fonts missing in v0.1.1', 'state': 'closed', 'created_at': '2014-10-23T05:58:56Z', 'closed_at': '2014-10-23T06:20:13Z', 'labels': []}
+{'issuenumber': 158, 'title': 'Chaining \\sqrt can be used to break sites', 'state': 'closed', 'created_at': '2014-10-16T21:59:05Z', 'closed_at': '2018-03-16T13:31:57Z', 'labels': []}
+{'issuenumber': 157, 'title': 'Some common math symbols not working', 'state': 'closed', 'created_at': '2014-10-16T09:35:59Z', 'closed_at': '2014-10-17T20:55:06Z', 'labels': []}
+{'issuenumber': 155, 'title': 'How to do that x² ?', 'state': 'closed', 'created_at': '2014-10-10T18:39:27Z', 'closed_at': '2014-10-11T07:00:15Z', 'labels': []}
+{'issuenumber': 153, 'title': 'Support more arrows', 'state': 'closed', 'created_at': '2014-10-09T22:33:48Z', 'closed_at': '2015-07-01T14:27:25Z', 'labels': []}
+{'issuenumber': 152, 'title': 'Support for ties (~)', 'state': 'closed', 'created_at': '2014-10-07T19:42:15Z', 'closed_at': '2015-07-01T14:20:09Z', 'labels': []}
+{'issuenumber': 150, 'title': "If no meta charset is set in html, katex doesn't render under some locals", 'state': 'closed', 'created_at': '2014-10-05T00:54:05Z', 'closed_at': '2014-10-05T00:55:14Z', 'labels': []}
+{'issuenumber': 148, 'title': 'CSS files not published to npm', 'state': 'closed', 'created_at': '2014-10-04T17:10:07Z', 'closed_at': '2017-09-15T03:33:59Z', 'labels': []}
+{'issuenumber': 145, 'title': 'Support \\operatorname', 'state': 'closed', 'created_at': '2014-10-01T21:15:03Z', 'closed_at': '2017-09-11T03:33:53Z', 'labels': {'name': 'macro'}}
+{'issuenumber': 143, 'title': 'How do I know if the Huxley tests passed?', 'state': 'closed', 'created_at': '2014-10-01T15:34:49Z', 'closed_at': '2015-06-19T06:24:14Z', 'labels': []}
+{'issuenumber': 139, 'title': 'Turing completeness', 'state': 'closed', 'created_at': '2014-10-01T00:10:45Z', 'closed_at': '2014-10-01T00:37:13Z', 'labels': []}
+{'issuenumber': 138, 'title': 'Error on converting from text to HTML on server', 'state': 'closed', 'created_at': '2014-09-30T04:33:01Z', 'closed_at': '2015-04-04T03:42:57Z', 'labels': []}
+{'issuenumber': 130, 'title': 'Made up LaTeX2e/AMS Mathjax aliases/symbols', 'state': 'closed', 'created_at': '2014-09-27T02:59:02Z', 'closed_at': '2018-01-19T07:00:22Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 129, 'title': 'Google group for KaTeX?', 'state': 'closed', 'created_at': '2014-09-27T02:19:56Z', 'closed_at': '2015-04-04T03:44:00Z', 'labels': []}
+{'issuenumber': 128, 'title': "Symbols – delimiter 'duplicates' in Mathjax", 'state': 'closed', 'created_at': '2014-09-26T00:30:36Z', 'closed_at': '2017-09-17T16:41:24Z', 'labels': []}
+{'issuenumber': 125, 'title': 'Hanging indent causes problems', 'state': 'closed', 'created_at': '2014-09-25T13:00:13Z', 'closed_at': '2018-03-17T03:28:20Z', 'labels': []}
+{'issuenumber': 124, 'title': 'Will n-th roots (such as \\sqrt[3]{2}) be supported?', 'state': 'closed', 'created_at': '2014-09-25T11:54:24Z', 'closed_at': '2014-10-02T19:18:48Z', 'labels': []}
+{'issuenumber': 122, 'title': 'Symbol aliases', 'state': 'closed', 'created_at': '2014-09-25T01:20:50Z', 'closed_at': '2017-09-16T19:29:18Z', 'labels': {'name': 'macro'}}
+{'issuenumber': 121, 'title': 'Support $...$ inside \\text', 'state': 'closed', 'created_at': '2014-09-24T20:24:14Z', 'closed_at': '2014-09-24T22:08:59Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 120, 'title': 'Support for \\partial', 'state': 'closed', 'created_at': '2014-09-24T15:29:32Z', 'closed_at': '2014-09-27T21:40:09Z', 'labels': []}
+{'issuenumber': 118, 'title': 'Spec runner for running the tests in the browser', 'state': 'closed', 'created_at': '2014-09-24T03:24:15Z', 'closed_at': '2014-09-24T06:08:07Z', 'labels': []}
+{'issuenumber': 116, 'title': 'Add linting to the build step', 'state': 'closed', 'created_at': '2014-09-24T01:55:06Z', 'closed_at': '2014-10-02T02:00:17Z', 'labels': []}
+{'issuenumber': 114, 'title': 'Include built files in the repository', 'state': 'closed', 'created_at': '2014-09-23T22:23:20Z', 'closed_at': '2016-02-19T19:23:35Z', 'labels': []}
+{'issuenumber': 111, 'title': '\\limsup, etc should have a small space in the middle', 'state': 'closed', 'created_at': '2014-09-23T21:39:00Z', 'closed_at': '2017-12-27T00:11:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 109, 'title': 'safe mode (user input mode)', 'state': 'closed', 'created_at': '2014-09-23T17:35:13Z', 'closed_at': '2017-08-31T10:39:29Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 108, 'title': 'Add support for \\cup and \\cap', 'state': 'closed', 'created_at': '2014-09-23T16:08:03Z', 'closed_at': '2014-09-23T21:08:21Z', 'labels': []}
+{'issuenumber': 103, 'title': 'Auto generate supported function list', 'state': 'closed', 'created_at': '2014-09-22T06:31:25Z', 'closed_at': '2018-08-02T18:11:28Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 100, 'title': 'Automatic Rendering', 'state': 'closed', 'created_at': '2014-09-22T00:36:15Z', 'closed_at': '2014-09-24T22:31:21Z', 'labels': []}
+{'issuenumber': 98, 'title': '\\sqrt[3]{x} should throw', 'state': 'closed', 'created_at': '2014-09-21T19:52:30Z', 'closed_at': '2014-10-01T21:21:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 95, 'title': 'Expressions like a^b^c not parsed correctly', 'state': 'closed', 'created_at': '2014-09-21T18:32:42Z', 'closed_at': '2014-09-21T18:34:07Z', 'labels': []}
+{'issuenumber': 90, 'title': 'Support for non-standard macros \\class and \\cssId', 'state': 'closed', 'created_at': '2014-09-19T20:47:58Z', 'closed_at': '2019-12-01T22:49:29Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 88, 'title': 'mr.b', 'state': 'closed', 'created_at': '2014-09-19T15:37:49Z', 'closed_at': '2014-09-19T15:38:00Z', 'labels': []}
+{'issuenumber': 86, 'title': 'Support for the \\partial symbol', 'state': 'closed', 'created_at': '2014-09-19T09:29:45Z', 'closed_at': '2014-09-19T21:04:24Z', 'labels': []}
+{'issuenumber': 85, 'title': 'Add support for \\cfrac', 'state': 'closed', 'created_at': '2014-09-19T09:22:20Z', 'closed_at': '2018-06-03T20:38:20Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 84, 'title': 'Add support for \\binom', 'state': 'closed', 'created_at': '2014-09-19T09:15:35Z', 'closed_at': '2014-09-24T17:13:30Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 78, 'title': 'Add support for automatic rendering of tags', 'state': 'closed', 'created_at': '2014-09-19T00:47:45Z', 'closed_at': '2015-06-28T15:12:24Z', 'labels': []}
+{'issuenumber': 76, 'title': 'add a position property to Error', 'state': 'closed', 'created_at': '2014-09-18T00:27:28Z', 'closed_at': '2014-09-23T21:08:34Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 74, 'title': 'Add support for \\over', 'state': 'closed', 'created_at': '2014-09-17T22:33:57Z', 'closed_at': '2014-09-27T08:33:09Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 69, 'title': 'Error with same formula (probably encoding)', 'state': 'closed', 'created_at': '2014-09-17T09:09:35Z', 'closed_at': '2014-09-17T09:17:43Z', 'labels': []}
+{'issuenumber': 68, 'title': 'Integral symbol is chopped off when output is larger than draw area', 'state': 'closed', 'created_at': '2014-09-17T04:57:39Z', 'closed_at': '2018-01-29T01:43:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 66, 'title': 'Integral symbol too small, interval values seem too big/placed incorrectly', 'state': 'closed', 'created_at': '2014-09-17T04:04:25Z', 'closed_at': '2015-06-28T15:23:44Z', 'labels': []}
+{'issuenumber': 65, 'title': 'problems with unicode', 'state': 'closed', 'created_at': '2014-09-17T03:40:57Z', 'closed_at': '2018-01-16T02:05:47Z', 'labels': {'name': 'Unicode'}}
+{'issuenumber': 64, 'title': 'using render(...).success(...).error(...) format rather than throwing?', 'state': 'closed', 'created_at': '2014-09-17T03:11:31Z', 'closed_at': '2015-06-28T16:01:47Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 62, 'title': 'Add support for \\forall, \\exists, \\subset, and logical symbols.', 'state': 'closed', 'created_at': '2014-09-16T23:52:04Z', 'closed_at': '2014-10-02T19:18:23Z', 'labels': []}
+{'issuenumber': 61, 'title': 'feature request: align / align* support', 'state': 'closed', 'created_at': '2014-09-16T23:46:14Z', 'closed_at': '2017-06-28T17:39:54Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 60, 'title': 'Square root line position is inconsistent (depending on its contents)', 'state': 'closed', 'created_at': '2014-09-16T22:41:06Z', 'closed_at': '2017-08-23T01:48:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 56, 'title': "double and triple integrals don't work ", 'state': 'closed', 'created_at': '2014-09-16T16:34:08Z', 'closed_at': '2014-09-16T23:20:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 55, 'title': 'KaTeX should totally have a CLI', 'state': 'closed', 'created_at': '2014-09-16T15:34:56Z', 'closed_at': '2014-09-19T18:51:06Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 53, 'title': 'add support for \\ell', 'state': 'closed', 'created_at': '2014-09-16T11:50:09Z', 'closed_at': '2014-09-21T20:37:42Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 52, 'title': '\\cap & \\cup', 'state': 'closed', 'created_at': '2014-09-16T10:11:12Z', 'closed_at': '2014-09-19T05:06:33Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 51, 'title': '\\mathbb unicode to LaTeX mapping', 'state': 'closed', 'created_at': '2014-09-16T09:19:35Z', 'closed_at': '2014-09-19T15:25:31Z', 'labels': []}
+{'issuenumber': 50, 'title': 'mhchem extension support', 'state': 'closed', 'created_at': '2014-09-16T08:17:37Z', 'closed_at': '2019-02-24T23:23:38Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 49, 'title': 'Incorporate existing symbol mappings', 'state': 'closed', 'created_at': '2014-09-16T08:15:27Z', 'closed_at': '2018-01-31T05:14:09Z', 'labels': {'name': 'Unicode'}}
+{'issuenumber': 48, 'title': 'Cubic (and others) roots are not supported', 'state': 'closed', 'created_at': '2014-09-16T07:50:11Z', 'closed_at': '2015-04-22T22:25:17Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 47, 'title': 'Array (or Tabular)  support is missing', 'state': 'closed', 'created_at': '2014-09-16T07:41:30Z', 'closed_at': '2015-06-23T22:21:33Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 46, 'title': 'Indicate errors instead of showing an empty box', 'state': 'closed', 'created_at': '2014-09-16T06:37:08Z', 'closed_at': '2015-06-28T16:10:04Z', 'labels': []}
+{'issuenumber': 45, 'title': 'Some characters have higher baseline than others', 'state': 'closed', 'created_at': '2014-09-16T04:04:11Z', 'closed_at': '2018-08-21T07:11:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 43, 'title': 'add support for matrices', 'state': 'closed', 'created_at': '2014-09-15T21:01:19Z', 'closed_at': '2015-06-18T21:31:15Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 42, 'title': 'Add support for alternative math fonts', 'state': 'closed', 'created_at': '2014-09-15T20:56:18Z', 'closed_at': '2015-04-01T05:00:22Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 40, 'title': 'Square root overbar is position below top of radical symbol "leg"', 'state': 'closed', 'created_at': '2014-09-15T20:08:40Z', 'closed_at': '2017-07-03T03:55:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 38, 'title': 'Make KaTeX accessible', 'state': 'closed', 'created_at': '2014-09-15T19:10:30Z', 'closed_at': '2015-03-02T20:05:57Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 36, 'title': "partial derivatives don't render in the website:", 'state': 'closed', 'created_at': '2014-09-15T18:53:22Z', 'closed_at': '2014-09-27T21:40:42Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 35, 'title': 'Add \\limits and \\nolimits', 'state': 'closed', 'created_at': '2014-09-12T00:21:50Z', 'closed_at': '2015-07-25T01:53:55Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 34, 'title': 'Make KaTeX non-doctype-dependent', 'state': 'closed', 'created_at': '2014-09-11T05:58:17Z', 'closed_at': '2014-09-11T06:00:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 33, 'title': 'Make things look better at small font sizes', 'state': 'closed', 'created_at': '2014-09-10T22:09:08Z', 'closed_at': '2014-09-10T23:31:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 32, 'title': 'Make sure fonts work on windows', 'state': 'closed', 'created_at': '2014-09-10T03:28:53Z', 'closed_at': '2014-09-12T23:44:51Z', 'labels': []}
+{'issuenumber': 30, 'title': 'Fix spacing of implicit groups', 'state': 'closed', 'created_at': '2014-09-08T07:20:38Z', 'closed_at': '2016-12-08T01:03:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 29, 'title': 'Add \\not', 'state': 'closed', 'created_at': '2014-09-07T07:35:37Z', 'closed_at': '2017-09-15T03:30:25Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 27, 'title': 'Fix metrics', 'state': 'closed', 'created_at': '2014-09-04T03:15:08Z', 'closed_at': '2014-09-04T03:15:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 26, 'title': 'Ability to typeset all math on a page', 'state': 'closed', 'created_at': '2014-09-03T21:14:17Z', 'closed_at': '2015-04-01T22:57:16Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 25, 'title': 'Italic correction should apply only to superscripts (not subscripts)', 'state': 'closed', 'created_at': '2014-09-03T07:19:24Z', 'closed_at': '2014-09-17T03:58:57Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 24, 'title': 'Add manual style changes (e.g. \\displaystyle)', 'state': 'closed', 'created_at': '2014-09-02T22:46:32Z', 'closed_at': '2014-09-11T00:10:39Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 23, 'title': '\\cdots, \\ldots', 'state': 'closed', 'created_at': '2014-09-02T09:40:25Z', 'closed_at': '2014-09-12T22:02:46Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 22, 'title': 'reference the TeXbook in js comments', 'state': 'closed', 'created_at': '2014-09-02T04:21:07Z', 'closed_at': '2014-09-15T02:23:42Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 20, 'title': 'Add support for % comments', 'state': 'closed', 'created_at': '2014-08-30T07:56:48Z', 'closed_at': '2017-09-26T03:50:31Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 19, 'title': 'Add font styles like \\mathrm, \\mathcal, etc.', 'state': 'closed', 'created_at': '2014-08-30T07:35:23Z', 'closed_at': '2015-09-01T15:05:17Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 18, 'title': 'Make other kinds of overlines work', 'state': 'closed', 'created_at': '2014-08-30T07:35:08Z', 'closed_at': '2017-08-12T01:24:46Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 17, 'title': 'Fix font license metadata', 'state': 'closed', 'created_at': '2014-08-30T07:33:50Z', 'closed_at': '2014-09-05T22:21:51Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 16, 'title': 'Handle unicode symbols', 'state': 'closed', 'created_at': '2014-08-30T07:31:11Z', 'closed_at': '2015-06-20T23:18:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 15, 'title': 'Support unicode in text', 'state': 'closed', 'created_at': '2014-08-30T07:30:22Z', 'closed_at': '2017-12-29T16:41:26Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 14, 'title': 'Add \\sqrt', 'state': 'closed', 'created_at': '2014-08-30T07:00:15Z', 'closed_at': '2014-09-06T22:20:05Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 13, 'title': "Superscript placement doesn't work", 'state': 'closed', 'created_at': '2014-08-30T00:13:55Z', 'closed_at': '2014-09-12T08:24:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 12, 'title': 'Multiple primes are not supported', 'state': 'closed', 'created_at': '2014-08-29T23:55:08Z', 'closed_at': '2014-09-10T06:18:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 10, 'title': 'Fix general parsing strategy', 'state': 'closed', 'created_at': '2014-08-29T21:14:10Z', 'closed_at': '2014-09-10T06:18:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 9, 'title': '\\binom', 'state': 'closed', 'created_at': '2014-08-29T07:49:19Z', 'closed_at': '2014-11-03T23:20:20Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 8, 'title': '\\sum, \\int, \\lim, etc', 'state': 'closed', 'created_at': '2014-08-29T07:36:59Z', 'closed_at': '2014-09-12T21:59:01Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 7, 'title': 'accent support', 'state': 'closed', 'created_at': '2014-08-29T07:35:40Z', 'closed_at': '2014-09-14T04:30:38Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 6, 'title': 'superscripts and subscripts are missing some amount of right padding', 'state': 'closed', 'created_at': '2014-08-29T07:31:28Z', 'closed_at': '2014-08-29T19:29:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 5, 'title': 'Embedding $...$ in \\text', 'state': 'closed', 'created_at': '2014-08-29T07:25:02Z', 'closed_at': '2017-08-12T01:24:11Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 4, 'title': 'Convert Bin + Rel/Close/Punct to Ord + Rel/Close/Punct', 'state': 'closed', 'created_at': '2014-08-29T07:23:40Z', 'closed_at': '2016-12-05T21:56:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 3, 'title': 'LaTeX to HTML6', 'state': 'closed', 'created_at': '2013-10-16T02:49:01Z', 'closed_at': '2013-10-16T03:15:56Z', 'labels': []}
+{'issuenumber': 1, 'title': 'You need a README.', 'state': 'closed', 'created_at': '2013-07-10T20:38:15Z', 'closed_at': '2014-09-15T09:42:02Z', 'labels': {'name': 'enhancement'}}

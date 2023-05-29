@@ -1,0 +1,56 @@
+{'issuenumber': 98, 'title': 'Nested objects with arrays ', 'state': 'closed', 'created_at': '2014-09-07T10:26:50Z', 'closed_at': '2015-04-24T18:06:21Z', 'labels': []}
+{'issuenumber': 94, 'title': 'Is it possible to add my own validator, which would return a Promise?', 'state': 'closed', 'created_at': '2014-08-15T15:35:02Z', 'closed_at': '2015-08-27T14:44:02Z', 'labels': {'name': 'i: question'}}
+{'issuenumber': 93, 'title': 'Allow optional fields', 'state': 'closed', 'created_at': '2014-07-10T16:33:21Z', 'closed_at': '2014-09-16T17:33:07Z', 'labels': []}
+{'issuenumber': 92, 'title': 'Missing License', 'state': 'closed', 'created_at': '2014-06-05T15:28:00Z', 'closed_at': '2014-06-06T14:28:31Z', 'labels': []}
+{'issuenumber': 90, 'title': 'validating multipart/form-data?', 'state': 'closed', 'created_at': '2014-05-02T02:56:18Z', 'closed_at': '2015-04-24T16:19:34Z', 'labels': []}
+{'issuenumber': 88, 'title': 'Fails strict mode', 'state': 'closed', 'created_at': '2014-04-25T12:23:49Z', 'closed_at': '2015-04-27T15:16:56Z', 'labels': []}
+{'issuenumber': 87, 'title': 'Sanitize nested input data', 'state': 'closed', 'created_at': '2014-04-25T09:22:40Z', 'closed_at': '2014-07-12T16:05:25Z', 'labels': []}
+{'issuenumber': 85, 'title': 'checkHeader() failing', 'state': 'closed', 'created_at': '2014-04-09T19:39:46Z', 'closed_at': '2014-04-09T20:12:09Z', 'labels': []}
+{'issuenumber': 83, 'title': 'req.sanitize() should return sanitized value like validator.js', 'state': 'closed', 'created_at': '2014-04-08T20:45:04Z', 'closed_at': '2014-06-03T13:32:58Z', 'labels': []}
+{'issuenumber': 81, 'title': ".matches() doesn't work", 'state': 'closed', 'created_at': '2014-03-24T14:30:37Z', 'closed_at': '2015-04-24T15:42:45Z', 'labels': []}
+{'issuenumber': 80, 'title': 'checkHeaders() - use of this', 'state': 'closed', 'created_at': '2014-03-21T04:16:49Z', 'closed_at': '2014-12-19T14:21:48Z', 'labels': []}
+{'issuenumber': 77, 'title': 'matches not found', 'state': 'closed', 'created_at': '2014-03-03T23:26:21Z', 'closed_at': '2014-03-10T09:21:40Z', 'labels': []}
+{'issuenumber': 76, 'title': 'Support for whitelist/blacklist sanitize methods', 'state': 'closed', 'created_at': '2014-02-20T15:01:51Z', 'closed_at': '2014-03-17T15:45:11Z', 'labels': []}
+{'issuenumber': 75, 'title': 'Publish v2.0.0 on npmjs', 'state': 'closed', 'created_at': '2014-02-16T13:48:46Z', 'closed_at': '2014-03-10T08:35:35Z', 'labels': []}
+{'issuenumber': 73, 'title': 'bodyParser deprecated', 'state': 'closed', 'created_at': '2014-02-11T17:26:18Z', 'closed_at': '2014-09-23T17:55:06Z', 'labels': []}
+{'issuenumber': 72, 'title': 'Error when trying to validate a POST parameter with a coma in it', 'state': 'closed', 'created_at': '2014-01-30T02:33:42Z', 'closed_at': '2014-01-30T02:41:25Z', 'labels': []}
+{'issuenumber': 69, 'title': 'Update validator to 3.x?', 'state': 'closed', 'created_at': '2014-01-13T18:09:42Z', 'closed_at': '2014-02-06T11:17:21Z', 'labels': []}
+{'issuenumber': 67, 'title': 'Validate array of objects?', 'state': 'closed', 'created_at': '2013-12-27T21:54:06Z', 'closed_at': '2015-04-24T16:21:42Z', 'labels': []}
+{'issuenumber': 66, 'title': 'Multiple parameters in sanitize', 'state': 'closed', 'created_at': '2013-12-22T06:52:39Z', 'closed_at': '2017-09-27T03:25:20Z', 'labels': {'name': 'i: enhancement'}}
+{'issuenumber': 64, 'title': "TypeError: Object #<IncomingMessage> has no method 'checkBody'", 'state': 'closed', 'created_at': '2013-12-02T18:47:50Z', 'closed_at': '2013-12-06T08:18:17Z', 'labels': []}
+{'issuenumber': 62, 'title': 'v1.0.0 Through NPM does not include recent changes', 'state': 'closed', 'created_at': '2013-11-23T00:02:49Z', 'closed_at': '2013-11-25T16:41:11Z', 'labels': []}
+{'issuenumber': 61, 'title': 'IsEmail function not working', 'state': 'closed', 'created_at': '2013-11-13T10:16:39Z', 'closed_at': '2013-11-13T10:31:51Z', 'labels': []}
+{'issuenumber': 59, 'title': "TypeError: Cannot call method 'assert' of undefined", 'state': 'closed', 'created_at': '2013-10-31T07:19:42Z', 'closed_at': '2015-04-24T15:46:16Z', 'labels': []}
+{'issuenumber': 58, 'title': 'Sanitize nested data', 'state': 'closed', 'created_at': '2013-10-15T08:26:49Z', 'closed_at': '2015-06-16T14:15:06Z', 'labels': {'name': 'i: enhancement'}}
+{'issuenumber': 56, 'title': 'Assert Defaults?', 'state': 'closed', 'created_at': '2013-10-10T12:15:11Z', 'closed_at': '2015-04-24T15:50:05Z', 'labels': []}
+{'issuenumber': 55, 'title': 'How to include newer validator dependency which is now 1.5.1?', 'state': 'closed', 'created_at': '2013-10-09T15:25:12Z', 'closed_at': '2015-04-24T15:38:25Z', 'labels': []}
+{'issuenumber': 52, 'title': 'Add JSON rendering of error messages', 'state': 'closed', 'created_at': '2013-09-17T22:56:07Z', 'closed_at': '2013-09-17T23:32:01Z', 'labels': []}
+{'issuenumber': 50, 'title': 'Expose node-validator instance for easier customization', 'state': 'closed', 'created_at': '2013-09-04T19:13:13Z', 'closed_at': '2015-04-27T13:44:03Z', 'labels': []}
+{'issuenumber': 49, 'title': 'Is there any AND, OR logic assert?', 'state': 'closed', 'created_at': '2013-08-29T11:43:31Z', 'closed_at': '2013-08-29T21:11:35Z', 'labels': []}
+{'issuenumber': 47, 'title': 'bundled version of validator (1.2.1) has buggy implementations of isUUIDv3 and isUUIDv4', 'state': 'closed', 'created_at': '2013-08-21T20:35:15Z', 'closed_at': '2013-08-22T07:36:56Z', 'labels': []}
+{'issuenumber': 45, 'title': 'checkHeader causes exception on validation failure', 'state': 'closed', 'created_at': '2013-08-09T16:11:04Z', 'closed_at': '2015-04-24T16:11:49Z', 'labels': []}
+{'issuenumber': 43, 'title': 'Multiple Validation in parallel', 'state': 'closed', 'created_at': '2013-07-12T18:51:23Z', 'closed_at': '2013-07-19T13:10:22Z', 'labels': []}
+{'issuenumber': 41, 'title': 'POST params xss', 'state': 'closed', 'created_at': '2013-07-01T07:17:36Z', 'closed_at': '2013-07-11T22:23:12Z', 'labels': []}
+{'issuenumber': 36, 'title': 'How to make validation asynchronously?', 'state': 'closed', 'created_at': '2013-06-19T13:30:25Z', 'closed_at': '2013-06-24T18:45:22Z', 'labels': []}
+{'issuenumber': 35, 'title': 'All requests hanging', 'state': 'closed', 'created_at': '2013-06-17T05:27:06Z', 'closed_at': '2013-06-17T07:40:38Z', 'labels': []}
+{'issuenumber': 34, 'title': "validation doesn't work in a particular situation", 'state': 'closed', 'created_at': '2013-06-10T03:36:59Z', 'closed_at': '2015-06-25T19:44:17Z', 'labels': {'name': 'i: question'}}
+{'issuenumber': 31, 'title': 'How to customize the structure of result after validation does?', 'state': 'closed', 'created_at': '2013-05-23T11:05:18Z', 'closed_at': '2013-06-14T14:06:07Z', 'labels': []}
+{'issuenumber': 30, 'title': 'Chaining check causes duplicated errors', 'state': 'closed', 'created_at': '2013-05-07T15:19:02Z', 'closed_at': '2016-11-24T15:59:49Z', 'labels': {'name': 'i: enhancement'}}
+{'issuenumber': 29, 'title': 'express-validator passing assert function into req object for testing', 'state': 'closed', 'created_at': '2013-05-04T21:58:02Z', 'closed_at': '2015-04-24T16:28:07Z', 'labels': []}
+{'issuenumber': 28, 'title': 'Validating uploaded files (Size, Extensions...)', 'state': 'closed', 'created_at': '2013-04-22T01:35:47Z', 'closed_at': '2015-04-27T14:11:27Z', 'labels': []}
+{'issuenumber': 26, 'title': 'Add a method to manually add errors', 'state': 'closed', 'created_at': '2013-03-27T18:44:45Z', 'closed_at': '2013-04-08T15:01:55Z', 'labels': []}
+{'issuenumber': 25, 'title': 'sanitize().escape() method is absent', 'state': 'closed', 'created_at': '2013-02-21T11:24:18Z', 'closed_at': '2013-02-27T11:43:52Z', 'labels': []}
+{'issuenumber': 24, 'title': 'error output', 'state': 'closed', 'created_at': '2013-01-15T16:47:38Z', 'closed_at': '2013-01-15T19:42:03Z', 'labels': []}
+{'issuenumber': 22, 'title': 'sanitize unset params', 'state': 'closed', 'created_at': '2012-11-04T19:21:36Z', 'closed_at': '2013-06-06T07:34:47Z', 'labels': []}
+{'issuenumber': 21, 'title': "TypeError: Object #<IncomingMessage> has no method 'assert'", 'state': 'closed', 'created_at': '2012-10-18T18:05:34Z', 'closed_at': '2012-10-18T18:44:47Z', 'labels': []}
+{'issuenumber': 20, 'title': 'validating req.params.foo', 'state': 'closed', 'created_at': '2012-10-03T06:52:49Z', 'closed_at': '2013-06-06T07:25:52Z', 'labels': []}
+{'issuenumber': 19, 'title': 'validate a password?', 'state': 'closed', 'created_at': '2012-09-22T22:35:23Z', 'closed_at': '2012-09-25T07:22:19Z', 'labels': []}
+{'issuenumber': 18, 'title': "i don't understand require statement", 'state': 'closed', 'created_at': '2012-09-22T04:54:48Z', 'closed_at': '2012-09-22T09:06:55Z', 'labels': []}
+{'issuenumber': 17, 'title': 'Oh... I found small bug', 'state': 'closed', 'created_at': '2012-08-19T00:03:55Z', 'closed_at': '2015-04-27T14:09:56Z', 'labels': []}
+{'issuenumber': 15, 'title': 'updated node, and express', 'state': 'closed', 'created_at': '2012-08-10T08:48:28Z', 'closed_at': '2012-08-10T08:50:46Z', 'labels': []}
+{'issuenumber': 11, 'title': '[Idea] Nested fields for sanitize() too', 'state': 'closed', 'created_at': '2012-05-24T22:43:18Z', 'closed_at': '2013-06-06T07:17:55Z', 'labels': []}
+{'issuenumber': 10, 'title': '[Idea] Validation message per validator', 'state': 'closed', 'created_at': '2012-05-20T13:04:47Z', 'closed_at': '2013-06-14T16:09:40Z', 'labels': []}
+{'issuenumber': 5, 'title': 'how to validate form element names grouped as array?', 'state': 'closed', 'created_at': '2012-02-02T04:52:53Z', 'closed_at': '2012-10-30T16:10:26Z', 'labels': []}
+{'issuenumber': 3, 'title': "Doesn't Seem To Differentiate Post vs Get vs URL", 'state': 'closed', 'created_at': '2011-12-07T01:52:54Z', 'closed_at': '2013-06-06T07:29:32Z', 'labels': []}
+{'issuenumber': 2, 'title': 'Chaining asserts', 'state': 'closed', 'created_at': '2011-11-22T17:13:07Z', 'closed_at': '2011-11-22T17:53:34Z', 'labels': []}
+{'issuenumber': 1, 'title': 'Remove mixinParams function and replace with req.param(...)', 'state': 'closed', 'created_at': '2011-10-20T12:41:06Z', 'closed_at': '2011-10-20T17:05:08Z', 'labels': []}

@@ -1,0 +1,668 @@
+{'issuenumber': 1145, 'title': 'message decorator is never getting default values from wrapped functions', 'state': 'closed', 'created_at': '2018-06-26T22:47:08Z', 'closed_at': '2019-02-13T21:12:35Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 1143, 'title': 'Show conflicting bot id in error when bot token is used multiple times', 'state': 'closed', 'created_at': '2018-06-22T08:25:59Z', 'closed_at': '2018-10-29T21:08:53Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1142, 'title': 'support colors in HTML parser ', 'state': 'closed', 'created_at': '2018-06-18T03:54:38Z', 'closed_at': '2018-06-21T19:05:00Z', 'labels': []}
+{'issuenumber': 1141, 'title': 'example to retrieve user contact phone number from replykeyboard', 'state': 'closed', 'created_at': '2018-06-17T13:47:48Z', 'closed_at': '2018-06-26T19:24:53Z', 'labels': []}
+{'issuenumber': 1140, 'title': 'ImportError: cannot import name escape', 'state': 'closed', 'created_at': '2018-06-17T05:16:53Z', 'closed_at': '2018-06-24T06:45:11Z', 'labels': []}
+{'issuenumber': 1139, 'title': 'Solution for those who receives "cannot import \'TelegramError\'" while using IPython', 'state': 'closed', 'created_at': '2018-06-16T01:17:00Z', 'closed_at': '2018-06-26T19:26:11Z', 'labels': []}
+{'issuenumber': 1138, 'title': 'Keyboard response', 'state': 'closed', 'created_at': '2018-06-15T19:03:02Z', 'closed_at': '2018-06-26T19:26:35Z', 'labels': []}
+{'issuenumber': 1137, 'title': 'Proxy not working and I fixed it.', 'state': 'closed', 'created_at': '2018-06-15T12:12:35Z', 'closed_at': '2018-06-26T19:37:00Z', 'labels': []}
+{'issuenumber': 1136, 'title': 'Add conversation timeout handler/  How to know last state?', 'state': 'closed', 'created_at': '2018-06-13T10:34:46Z', 'closed_at': '2018-07-24T07:56:24Z', 'labels': []}
+{'issuenumber': 1135, 'title': 'Issues with Markdown', 'state': 'closed', 'created_at': '2018-06-10T15:01:14Z', 'closed_at': '2018-06-10T15:05:05Z', 'labels': []}
+{'issuenumber': 1134, 'title': 'Extend parameter passing to callback functions', 'state': 'closed', 'created_at': '2018-06-08T16:41:12Z', 'closed_at': '2018-06-10T15:08:53Z', 'labels': []}
+{'issuenumber': 1133, 'title': 'Bot does not run more than one MessageHandler', 'state': 'closed', 'created_at': '2018-06-08T01:54:07Z', 'closed_at': '2018-06-10T15:19:06Z', 'labels': []}
+{'issuenumber': 1132, 'title': "AttributeError: module 'telegram' has no attribute 'ParseMode'    how to solve this error?", 'state': 'closed', 'created_at': '2018-06-07T10:42:09Z', 'closed_at': '2018-06-07T10:48:05Z', 'labels': []}
+{'issuenumber': 1130, 'title': 'Using Tor as socks proxy not working', 'state': 'closed', 'created_at': '2018-06-04T09:47:43Z', 'closed_at': '2018-06-26T19:38:23Z', 'labels': []}
+{'issuenumber': 1128, 'title': "AttributeError: 'Bot' object has no attribute 'message'", 'state': 'closed', 'created_at': '2018-05-29T11:53:13Z', 'closed_at': '2018-06-10T15:15:00Z', 'labels': []}
+{'issuenumber': 1125, 'title': 'test_subprocess_pipe fails with ProcessLookupError', 'state': 'closed', 'created_at': '2018-05-29T10:58:49Z', 'closed_at': '2018-06-01T20:29:52Z', 'labels': []}
+{'issuenumber': 1124, 'title': 'Add retrying to requests', 'state': 'closed', 'created_at': '2018-05-29T10:01:27Z', 'closed_at': '2020-02-18T13:23:42Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1123, 'title': 'NetworkError: urllib3 HTTPError [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:777)', 'state': 'closed', 'created_at': '2018-05-26T15:08:50Z', 'closed_at': '2018-05-27T09:13:40Z', 'labels': []}
+{'issuenumber': 1122, 'title': 'job timeout', 'state': 'closed', 'created_at': '2018-05-26T13:01:29Z', 'closed_at': '2018-05-26T21:08:04Z', 'labels': []}
+{'issuenumber': 1121, 'title': ' File "/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/telegram/update.py", line 59, in de_json     data[\'message\'] = Message.de_json(data[\'message\']) KeyError: \'message\'', 'state': 'closed', 'created_at': '2018-05-26T03:51:19Z', 'closed_at': '2018-05-26T07:59:52Z', 'labels': []}
+{'issuenumber': 1120, 'title': 'Logs turn off after using CallbackQueryHandler.', 'state': 'closed', 'created_at': '2018-05-25T15:59:54Z', 'closed_at': '2018-05-28T06:29:24Z', 'labels': []}
+{'issuenumber': 1118, 'title': 'PTB on Serverless Architectures', 'state': 'closed', 'created_at': '2018-05-23T17:23:18Z', 'closed_at': '2019-05-31T15:39:46Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1116, 'title': "from telegram import Updater ImportError: cannot import name 'Updater'", 'state': 'closed', 'created_at': '2018-05-22T19:15:26Z', 'closed_at': '2018-05-22T19:27:12Z', 'labels': []}
+{'issuenumber': 1115, 'title': 'Filters.regex fails on non-text messages', 'state': 'closed', 'created_at': '2018-05-21T17:08:40Z', 'closed_at': '2018-08-26T18:39:02Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 1113, 'title': 'Is there a way to open links in other app?', 'state': 'closed', 'created_at': '2018-05-18T12:00:29Z', 'closed_at': '2018-05-18T12:26:15Z', 'labels': []}
+{'issuenumber': 1111, 'title': 'Webhook with flask', 'state': 'closed', 'created_at': '2018-05-17T14:42:19Z', 'closed_at': '2018-05-17T15:32:03Z', 'labels': []}
+{'issuenumber': 1110, 'title': 'how to process contact number after request_contact?', 'state': 'closed', 'created_at': '2018-05-10T15:04:07Z', 'closed_at': '2018-05-10T20:39:38Z', 'labels': []}
+{'issuenumber': 1109, 'title': 'Add __slots__ to library objects', 'state': 'closed', 'created_at': '2018-05-10T11:28:35Z', 'closed_at': '2021-05-29T14:18:16Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1108, 'title': 'Tests missing for `User.mention_markdown` and `User.mention_html`', 'state': 'closed', 'created_at': '2018-05-09T09:22:03Z', 'closed_at': '2018-05-28T20:51:40Z', 'labels': {'name': 'good first issue'}}
+{'issuenumber': 1107, 'title': 'How to get data from ConversationHandler', 'state': 'closed', 'created_at': '2018-05-08T16:30:58Z', 'closed_at': '2018-05-08T18:57:02Z', 'labels': []}
+{'issuenumber': 1105, 'title': 'Webhook and Apache', 'state': 'closed', 'created_at': '2018-05-07T13:42:10Z', 'closed_at': '2018-05-07T22:24:57Z', 'labels': []}
+{'issuenumber': 1103, 'title': 'Sorry to put it here', 'state': 'closed', 'created_at': '2018-05-05T12:06:52Z', 'closed_at': '2018-05-05T12:19:29Z', 'labels': []}
+{'issuenumber': 1102, 'title': 'How can i retrieve users last message and store it in a variable?', 'state': 'closed', 'created_at': '2018-05-05T12:01:03Z', 'closed_at': '2018-05-05T12:02:25Z', 'labels': []}
+{'issuenumber': 1101, 'title': 'here telegram is filtered so i have to use proxy to test my bot', 'state': 'closed', 'created_at': '2018-05-04T19:44:25Z', 'closed_at': '2018-05-04T20:40:16Z', 'labels': []}
+{'issuenumber': 1098, 'title': 'Send message to channel every hour,', 'state': 'closed', 'created_at': '2018-05-02T13:59:52Z', 'closed_at': '2018-05-03T08:17:03Z', 'labels': []}
+{'issuenumber': 1097, 'title': 'Error forwarding stickers and voice messages', 'state': 'closed', 'created_at': '2018-04-30T12:07:29Z', 'closed_at': '2018-04-30T15:22:30Z', 'labels': []}
+{'issuenumber': 1095, 'title': '502 Bad Gateway , telegram.error.TimedOut: Timed out', 'state': 'closed', 'created_at': '2018-04-29T10:48:08Z', 'closed_at': '2018-04-29T18:20:29Z', 'labels': []}
+{'issuenumber': 1094, 'title': 'I have trouble working with Google place and Python bot telegram', 'state': 'closed', 'created_at': '2018-04-28T07:58:26Z', 'closed_at': '2018-04-28T14:50:19Z', 'labels': []}
+{'issuenumber': 1093, 'title': 'need to get the chat id having the @username', 'state': 'closed', 'created_at': '2018-04-27T17:51:52Z', 'closed_at': '2018-04-27T18:06:21Z', 'labels': []}
+{'issuenumber': 1091, 'title': 'can not handle callback_data when url is present in InlineKeyboardButton', 'state': 'closed', 'created_at': '2018-04-27T07:18:22Z', 'closed_at': '2018-04-27T18:08:51Z', 'labels': []}
+{'issuenumber': 1090, 'title': 'Some messages a not delivered to handler', 'state': 'closed', 'created_at': '2018-04-26T08:07:03Z', 'closed_at': '2018-04-26T08:27:32Z', 'labels': []}
+{'issuenumber': 1087, 'title': 'SOCKS proxy connection does not use passed username/password', 'state': 'closed', 'created_at': '2018-04-25T20:40:04Z', 'closed_at': '2018-09-08T12:02:49Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 1084, 'title': 'Bot reply normal text in a group', 'state': 'closed', 'created_at': '2018-04-24T13:32:31Z', 'closed_at': '2018-04-24T15:14:16Z', 'labels': []}
+{'issuenumber': 1083, 'title': "send_photo file from disk doesn't seem to work on python2", 'state': 'closed', 'created_at': '2018-04-24T07:10:28Z', 'closed_at': '2018-04-25T20:13:01Z', 'labels': []}
+{'issuenumber': 1082, 'title': 'Timeout Connection Error, frequently appears on received Thread', 'state': 'closed', 'created_at': '2018-04-23T23:54:45Z', 'closed_at': '2018-04-25T19:52:04Z', 'labels': []}
+{'issuenumber': 1080, 'title': 'Integrating chat_data and user_data with respective Objects', 'state': 'closed', 'created_at': '2018-04-22T19:57:49Z', 'closed_at': '2018-05-04T14:32:42Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1077, 'title': 'Socks proxy error', 'state': 'closed', 'created_at': '2018-04-18T09:28:19Z', 'closed_at': '2018-04-25T18:23:48Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 1075, 'title': 'Login Widget', 'state': 'closed', 'created_at': '2018-04-14T18:38:45Z', 'closed_at': '2018-04-19T13:40:14Z', 'labels': []}
+{'issuenumber': 1073, 'title': 'CommandHandler should not check filters if not listening to the command', 'state': 'closed', 'created_at': '2018-04-13T22:29:10Z', 'closed_at': '2018-04-17T04:37:34Z', 'labels': []}
+{'issuenumber': 1070, 'title': "UnboundLocalError: local variable 'resp' referenced before assignment", 'state': 'closed', 'created_at': '2018-04-12T09:32:13Z', 'closed_at': '2018-04-19T21:09:28Z', 'labels': []}
+{'issuenumber': 1069, 'title': 'buttons handler invokes several times', 'state': 'closed', 'created_at': '2018-04-09T07:19:35Z', 'closed_at': '2018-04-18T04:12:39Z', 'labels': []}
+{'issuenumber': 1066, 'title': 'Parallelism in API', 'state': 'closed', 'created_at': '2018-04-04T21:22:13Z', 'closed_at': '2018-04-28T14:57:27Z', 'labels': []}
+{'issuenumber': 1065, 'title': '"cannot import name signal" on GAE', 'state': 'closed', 'created_at': '2018-04-03T17:49:30Z', 'closed_at': '2020-07-18T12:57:35Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 1064, 'title': 'CommandHandler wildcard', 'state': 'closed', 'created_at': '2018-04-03T15:27:51Z', 'closed_at': '2018-04-03T16:07:38Z', 'labels': []}
+{'issuenumber': 1062, 'title': 'read messages in supergroup', 'state': 'closed', 'created_at': '2018-03-31T09:50:03Z', 'closed_at': '2018-04-01T20:53:57Z', 'labels': []}
+{'issuenumber': 1060, 'title': 'How to receive supergroup messages?', 'state': 'closed', 'created_at': '2018-03-30T09:46:40Z', 'closed_at': '2018-04-01T20:54:13Z', 'labels': []}
+{'issuenumber': 1058, 'title': 'How i can find organization near me?', 'state': 'closed', 'created_at': '2018-03-28T12:45:03Z', 'closed_at': '2018-03-28T12:52:09Z', 'labels': []}
+{'issuenumber': 1057, 'title': 'parse_entity use an odd offset', 'state': 'closed', 'created_at': '2018-03-26T10:57:21Z', 'closed_at': '2018-03-26T12:17:27Z', 'labels': []}
+{'issuenumber': 1056, 'title': 'Feature request: ConversationHandler, acquaintance of its own in a conversation', 'state': 'closed', 'created_at': '2018-03-24T03:37:36Z', 'closed_at': '2018-03-24T10:15:45Z', 'labels': []}
+{'issuenumber': 1055, 'title': 'Allow subprocess.Popen.stdout as file input', 'state': 'closed', 'created_at': '2018-03-23T09:23:17Z', 'closed_at': '2018-05-02T21:17:55Z', 'labels': []}
+{'issuenumber': 1054, 'title': 'urllib3 HTTPError [SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] ', 'state': 'closed', 'created_at': '2018-03-23T07:25:04Z', 'closed_at': '2018-03-23T07:33:12Z', 'labels': []}
+{'issuenumber': 1053, 'title': "CallbackQueryHandler doesn't work", 'state': 'closed', 'created_at': '2018-03-19T12:49:02Z', 'closed_at': '2018-03-19T15:21:01Z', 'labels': []}
+{'issuenumber': 1052, 'title': 'Telegram forgets users', 'state': 'closed', 'created_at': '2018-03-17T15:26:12Z', 'closed_at': '2018-03-17T16:09:10Z', 'labels': []}
+{'issuenumber': 1051, 'title': 'Delete inline message', 'state': 'closed', 'created_at': '2018-03-17T05:30:27Z', 'closed_at': '2018-03-17T16:41:03Z', 'labels': []}
+{'issuenumber': 1048, 'title': 'Consider making chat_id a positional argument in chat.send_message and similar to avoid error messages when not using kwargs', 'state': 'closed', 'created_at': '2018-03-16T20:08:38Z', 'closed_at': '2018-03-16T23:24:32Z', 'labels': []}
+{'issuenumber': 1047, 'title': 'DelayQueue not working at all, messages are sent right away', 'state': 'closed', 'created_at': '2018-03-16T02:26:49Z', 'closed_at': '2018-03-16T19:28:20Z', 'labels': []}
+{'issuenumber': 1045, 'title': 'bot.send_message() raises TimedOut exception for some messages over quota, but still delivers them', 'state': 'closed', 'created_at': '2018-03-14T17:42:30Z', 'closed_at': '2018-07-11T20:49:07Z', 'labels': []}
+{'issuenumber': 1044, 'title': 'Media caption is not formatted', 'state': 'closed', 'created_at': '2018-03-14T12:16:51Z', 'closed_at': '2018-03-14T12:21:57Z', 'labels': []}
+{'issuenumber': 1043, 'title': "User.full_name doesn't handle non-ASCII (in Python 2?)", 'state': 'closed', 'created_at': '2018-03-13T03:48:23Z', 'closed_at': '2018-04-16T08:37:42Z', 'labels': []}
+{'issuenumber': 1041, 'title': 'file.download() should return the created file path', 'state': 'closed', 'created_at': '2018-03-10T23:23:21Z', 'closed_at': '2018-03-10T23:26:51Z', 'labels': []}
+{'issuenumber': 1040, 'title': "sendDocument doesn't accept emojis or unicode chars in caption", 'state': 'closed', 'created_at': '2018-03-10T20:55:40Z', 'closed_at': '2018-03-14T07:46:41Z', 'labels': []}
+{'issuenumber': 1039, 'title': 'Keyboard not working!', 'state': 'closed', 'created_at': '2018-03-10T07:51:51Z', 'closed_at': '2018-03-14T07:47:55Z', 'labels': []}
+{'issuenumber': 1038, 'title': 'filter for telescope handler ', 'state': 'closed', 'created_at': '2018-03-08T14:28:37Z', 'closed_at': '2018-04-01T20:59:12Z', 'labels': []}
+{'issuenumber': 1037, 'title': 'Object Oriented code', 'state': 'closed', 'created_at': '2018-03-07T10:25:09Z', 'closed_at': '2018-03-14T07:48:26Z', 'labels': []}
+{'issuenumber': 1036, 'title': 'Reply to group messages', 'state': 'closed', 'created_at': '2018-03-06T21:02:30Z', 'closed_at': '2018-03-06T21:11:20Z', 'labels': []}
+{'issuenumber': 1035, 'title': 'Removing bot from group!', 'state': 'closed', 'created_at': '2018-03-06T10:39:42Z', 'closed_at': '2018-03-06T10:47:05Z', 'labels': []}
+{'issuenumber': 1034, 'title': 'Why the jobqueue with each server reload sends one more message to the user? ', 'state': 'closed', 'created_at': '2018-03-06T09:28:48Z', 'closed_at': '2018-03-06T10:18:04Z', 'labels': []}
+{'issuenumber': 1033, 'title': 'Updates containing pictures from channels get missed', 'state': 'closed', 'created_at': '2018-03-05T17:16:17Z', 'closed_at': '2018-03-14T07:49:35Z', 'labels': []}
+{'issuenumber': 1031, 'title': 'Repeating job AttributeError', 'state': 'closed', 'created_at': '2018-03-03T19:05:12Z', 'closed_at': '2018-03-05T11:18:41Z', 'labels': []}
+{'issuenumber': 1030, 'title': 'Modify InputMediaPhoto, InputMediaVideo and send_media_group to work with new files', 'state': 'closed', 'created_at': '2018-03-03T13:05:04Z', 'closed_at': '2018-09-20T13:51:17Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1029, 'title': 'ConversationHandler is not thread safe', 'state': 'closed', 'created_at': '2018-03-03T13:00:38Z', 'closed_at': '2020-03-30T15:37:38Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 1027, 'title': 'Change all links to t.me', 'state': 'closed', 'created_at': '2018-03-03T10:25:32Z', 'closed_at': '2018-03-03T10:39:47Z', 'labels': []}
+{'issuenumber': 1026, 'title': 'Handler callback revamp', 'state': 'closed', 'created_at': '2018-03-01T08:33:24Z', 'closed_at': '2018-05-22T13:57:23Z', 'labels': []}
+{'issuenumber': 1025, 'title': 'Bot does NOT have a means to check if URL preview is on', 'state': 'closed', 'created_at': '2018-03-01T07:06:40Z', 'closed_at': '2018-03-01T07:16:34Z', 'labels': []}
+{'issuenumber': 1024, 'title': 'API set_chat_photo is unusable due to JSON serialization error', 'state': 'closed', 'created_at': '2018-02-28T21:37:24Z', 'closed_at': '2018-03-03T12:24:57Z', 'labels': []}
+{'issuenumber': 1023, 'title': 'dp.add_handler(CallbackQueryHandler...', 'state': 'closed', 'created_at': '2018-02-28T20:21:34Z', 'closed_at': '2018-03-02T20:54:14Z', 'labels': []}
+{'issuenumber': 1022, 'title': "ptb_urllib3.urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out", 'state': 'closed', 'created_at': '2018-02-27T01:28:50Z', 'closed_at': '2018-02-27T10:47:00Z', 'labels': []}
+{'issuenumber': 1016, 'title': 'LoadBalancingUpdater - Possibility to have multiple Bots using the same Dispatcher', 'state': 'closed', 'created_at': '2018-02-22T00:11:47Z', 'closed_at': '2021-03-02T17:34:32Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1010, 'title': '[FeatureRequest] Bot API 3.6: caption_html and caption_markdown', 'state': 'closed', 'created_at': '2018-02-16T15:23:01Z', 'closed_at': '2018-02-22T15:38:55Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1009, 'title': 'Error after running for several hours. Invalid Server Response', 'state': 'closed', 'created_at': '2018-02-16T01:31:21Z', 'closed_at': '2018-02-18T15:17:26Z', 'labels': []}
+{'issuenumber': 1005, 'title': 'Bot API 3.6 features', 'state': 'closed', 'created_at': '2018-02-14T12:54:51Z', 'closed_at': '2018-02-18T15:11:07Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 1004, 'title': 'getchatmemberscount', 'state': 'closed', 'created_at': '2018-02-13T03:08:58Z', 'closed_at': '2018-02-13T03:09:19Z', 'labels': []}
+{'issuenumber': 1003, 'title': 'exit when error accrue   ', 'state': 'closed', 'created_at': '2018-02-12T12:43:03Z', 'closed_at': '2018-02-12T12:45:12Z', 'labels': []}
+{'issuenumber': 1002, 'title': 'Suggest adding a pass-custom-variable argument to callback function of a Handler', 'state': 'closed', 'created_at': '2018-02-11T21:30:11Z', 'closed_at': '2018-02-12T06:56:07Z', 'labels': []}
+{'issuenumber': 1001, 'title': 'Possible to talk to botfather?', 'state': 'closed', 'created_at': '2018-02-09T10:00:52Z', 'closed_at': '2018-02-09T10:50:49Z', 'labels': []}
+{'issuenumber': 1000, 'title': 'how to reply with HTML?', 'state': 'closed', 'created_at': '2018-02-08T10:38:57Z', 'closed_at': '2018-02-08T11:18:16Z', 'labels': []}
+{'issuenumber': 999, 'title': 'get start parameters in link t.me', 'state': 'closed', 'created_at': '2018-02-08T09:45:31Z', 'closed_at': '2018-02-08T10:01:59Z', 'labels': []}
+{'issuenumber': 998, 'title': 'cant send image to channel', 'state': 'closed', 'created_at': '2018-02-08T07:52:39Z', 'closed_at': '2018-02-08T07:54:48Z', 'labels': []}
+{'issuenumber': 997, 'title': 'White spaces in message sent by send_message() function.', 'state': 'closed', 'created_at': '2018-02-05T17:04:44Z', 'closed_at': '2018-02-05T17:37:23Z', 'labels': []}
+{'issuenumber': 996, 'title': 'SSL routines:ssl3_get_record:wrong version number) with nginx', 'state': 'closed', 'created_at': '2018-02-05T05:52:35Z', 'closed_at': '2018-02-08T06:30:53Z', 'labels': []}
+{'issuenumber': 993, 'title': 'Custom reply keyboard (ReplyKeyboardMarkup) not shown in Telegram X for iOS', 'state': 'closed', 'created_at': '2018-02-01T17:52:39Z', 'closed_at': '2018-02-15T11:31:41Z', 'labels': []}
+{'issuenumber': 992, 'title': "smtp's module `send_messages` method does not acquire lock", 'state': 'closed', 'created_at': '2018-02-01T10:26:56Z', 'closed_at': '2018-02-01T12:10:52Z', 'labels': []}
+{'issuenumber': 991, 'title': '[admins locking me out of my own thread?] getChatMembersCount method missing in this wrapper ', 'state': 'closed', 'created_at': '2018-01-29T18:42:52Z', 'closed_at': '2018-01-29T19:16:02Z', 'labels': []}
+{'issuenumber': 990, 'title': 'getChatMembersCount method missing in this wrapper', 'state': 'closed', 'created_at': '2018-01-29T16:42:45Z', 'closed_at': '2018-01-29T16:45:14Z', 'labels': []}
+{'issuenumber': 989, 'title': 'SSL routines:ssl3_get_record:wrong version number)', 'state': 'closed', 'created_at': '2018-01-28T14:04:51Z', 'closed_at': '2018-02-01T17:17:58Z', 'labels': []}
+{'issuenumber': 988, 'title': 'python-telegram-bot can not use in China as urllib3 is stupid', 'state': 'closed', 'created_at': '2018-01-28T04:15:21Z', 'closed_at': '2018-01-28T05:21:10Z', 'labels': []}
+{'issuenumber': 987, 'title': 'SSL routines:ssl3_get_record:wrong version number)', 'state': 'closed', 'created_at': '2018-01-25T14:46:54Z', 'closed_at': '2018-01-26T16:06:41Z', 'labels': []}
+{'issuenumber': 984, 'title': 'sendMessage freeze if I try send more than 20 message / per minute for different users', 'state': 'closed', 'created_at': '2018-01-23T19:09:40Z', 'closed_at': '2018-01-24T07:00:59Z', 'labels': []}
+{'issuenumber': 982, 'title': "ImportError: No module named 'future'", 'state': 'closed', 'created_at': '2018-01-23T00:32:33Z', 'closed_at': '2018-01-23T04:18:16Z', 'labels': []}
+{'issuenumber': 981, 'title': 'getting channel post', 'state': 'closed', 'created_at': '2018-01-21T11:03:29Z', 'closed_at': '2018-01-21T11:30:51Z', 'labels': []}
+{'issuenumber': 978, 'title': 'telegram.MessageEntity user property is always None', 'state': 'closed', 'created_at': '2018-01-20T12:29:29Z', 'closed_at': '2018-01-20T12:41:15Z', 'labels': []}
+{'issuenumber': 976, 'title': 'pip install from github', 'state': 'closed', 'created_at': '2018-01-17T01:19:19Z', 'closed_at': '2018-01-17T06:51:02Z', 'labels': []}
+{'issuenumber': 974, 'title': 'Hi everybody, how to save job_queue after restart bot?', 'state': 'closed', 'created_at': '2018-01-15T14:36:43Z', 'closed_at': '2018-01-17T06:56:38Z', 'labels': []}
+{'issuenumber': 973, 'title': 'File download freezes', 'state': 'closed', 'created_at': '2018-01-15T13:43:57Z', 'closed_at': '2018-01-20T13:33:32Z', 'labels': []}
+{'issuenumber': 972, 'title': 'Encapsulated HTML tags results in error', 'state': 'closed', 'created_at': '2018-01-12T11:54:40Z', 'closed_at': '2018-01-12T12:30:39Z', 'labels': []}
+{'issuenumber': 971, 'title': 'Start bot without command start', 'state': 'closed', 'created_at': '2018-01-10T19:00:51Z', 'closed_at': '2018-01-12T12:30:57Z', 'labels': []}
+{'issuenumber': 970, 'title': 'Webhook Broken Pipe after connection reset, kills dispatcher', 'state': 'closed', 'created_at': '2018-01-10T03:35:17Z', 'closed_at': '2018-01-25T08:42:48Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 969, 'title': 'Webhook broken pipe results in dispatcher stopping', 'state': 'closed', 'created_at': '2018-01-09T20:19:59Z', 'closed_at': '2018-01-09T20:29:32Z', 'labels': []}
+{'issuenumber': 968, 'title': 'JobQueue.jobs() is not thread safe', 'state': 'closed', 'created_at': '2018-01-09T16:31:53Z', 'closed_at': '2018-01-20T13:27:02Z', 'labels': []}
+{'issuenumber': 966, 'title': 'JobQueue jobs not running', 'state': 'closed', 'created_at': '2018-01-07T01:28:56Z', 'closed_at': '2018-02-01T21:05:16Z', 'labels': []}
+{'issuenumber': 965, 'title': 'No possibility to add flags to RegexHandler', 'state': 'closed', 'created_at': '2018-01-04T22:50:14Z', 'closed_at': '2018-01-04T23:49:08Z', 'labels': []}
+{'issuenumber': 961, 'title': 'Exception loop ', 'state': 'closed', 'created_at': '2018-01-03T07:20:36Z', 'closed_at': '2018-01-03T11:26:06Z', 'labels': []}
+{'issuenumber': 960, 'title': 'Seeing the username of people who have connected ', 'state': 'closed', 'created_at': '2018-01-02T03:55:36Z', 'closed_at': '2018-01-02T21:30:53Z', 'labels': {'name': 'misc'}}
+{'issuenumber': 958, 'title': 'How to use messageQueue', 'state': 'closed', 'created_at': '2017-12-31T18:17:24Z', 'closed_at': '2018-01-18T14:22:00Z', 'labels': []}
+{'issuenumber': 957, 'title': 'In test_jobqueue.py (maybe others), wait longer (but explicitly) for expected jobs to run', 'state': 'closed', 'created_at': '2017-12-31T01:42:30Z', 'closed_at': '2020-05-01T06:52:39Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 955, 'title': 'More instance methods?', 'state': 'closed', 'created_at': '2017-12-30T11:21:17Z', 'closed_at': '2018-02-18T15:49:53Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 954, 'title': 'Ban spammers', 'state': 'closed', 'created_at': '2017-12-30T01:32:43Z', 'closed_at': '2017-12-30T11:14:33Z', 'labels': []}
+{'issuenumber': 950, 'title': 'HTTPError', 'state': 'closed', 'created_at': '2017-12-24T21:18:58Z', 'closed_at': '2017-12-24T21:21:31Z', 'labels': []}
+{'issuenumber': 948, 'title': "from telegram.ext import Updater ImportError: No module named 'telegram.ext'", 'state': 'closed', 'created_at': '2017-12-23T20:11:39Z', 'closed_at': '2017-12-23T23:36:56Z', 'labels': []}
+{'issuenumber': 947, 'title': 'Sending media fails - connection timeout - even though other methods work fine', 'state': 'closed', 'created_at': '2017-12-23T02:10:29Z', 'closed_at': '2017-12-23T12:19:51Z', 'labels': []}
+{'issuenumber': 946, 'title': 'Log an INFO-level message when SIGINT received', 'state': 'closed', 'created_at': '2017-12-23T00:41:12Z', 'closed_at': '2018-01-09T15:54:08Z', 'labels': []}
+{'issuenumber': 945, 'title': 'test.py executed in working directory', 'state': 'closed', 'created_at': '2017-12-22T17:07:02Z', 'closed_at': '2017-12-23T11:17:40Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 944, 'title': 'get_file_stream support', 'state': 'closed', 'created_at': '2017-12-21T12:52:10Z', 'closed_at': '2018-03-01T08:10:05Z', 'labels': []}
+{'issuenumber': 943, 'title': 'Add full name for user as a convenience method', 'state': 'closed', 'created_at': '2017-12-20T17:23:03Z', 'closed_at': '2017-12-30T13:13:08Z', 'labels': []}
+{'issuenumber': 941, 'title': 'bot.setWebhook not setting allowed_updates', 'state': 'closed', 'created_at': '2017-12-20T14:29:12Z', 'closed_at': '2018-01-20T14:08:55Z', 'labels': {'name': 'API'}}
+{'issuenumber': 940, 'title': 'documentation about webhooks are not clear.', 'state': 'closed', 'created_at': '2017-12-20T11:42:42Z', 'closed_at': '2017-12-20T12:23:49Z', 'labels': []}
+{'issuenumber': 939, 'title': 'telegram.error.RetryAfter: Flood control exceeded. Retry in { } seconds', 'state': 'closed', 'created_at': '2017-12-20T04:51:18Z', 'closed_at': '2017-12-20T07:33:52Z', 'labels': []}
+{'issuenumber': 938, 'title': 'How to know if a user is admin or not when using bot in a group?', 'state': 'closed', 'created_at': '2017-12-20T02:00:16Z', 'closed_at': '2017-12-20T05:48:29Z', 'labels': []}
+{'issuenumber': 937, 'title': 'pre_checkout_query does not store bot.', 'state': 'closed', 'created_at': '2017-12-19T15:55:15Z', 'closed_at': '2017-12-30T12:48:39Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 936, 'title': 'Message.reply_media_group', 'state': 'closed', 'created_at': '2017-12-15T20:07:26Z', 'closed_at': '2018-02-12T13:51:18Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 935, 'title': 'Pickle Bot State', 'state': 'closed', 'created_at': '2017-12-15T16:48:27Z', 'closed_at': '2017-12-15T22:22:05Z', 'labels': []}
+{'issuenumber': 933, 'title': 'Deleted Filter?', 'state': 'closed', 'created_at': '2017-12-13T14:05:36Z', 'closed_at': '2017-12-14T07:18:13Z', 'labels': []}
+{'issuenumber': 932, 'title': 'Receiving bot messages', 'state': 'closed', 'created_at': '2017-12-11T09:57:21Z', 'closed_at': '2017-12-11T10:06:08Z', 'labels': []}
+{'issuenumber': 931, 'title': 'Problem with getting updates', 'state': 'closed', 'created_at': '2017-12-07T12:56:37Z', 'closed_at': '2017-12-14T13:37:05Z', 'labels': []}
+{'issuenumber': 928, 'title': 'Read other channels and broadcast in mine', 'state': 'closed', 'created_at': '2017-12-03T20:07:05Z', 'closed_at': '2017-12-03T20:07:32Z', 'labels': []}
+{'issuenumber': 927, 'title': 'Payment is not working if written AFTER a conversation handler', 'state': 'closed', 'created_at': '2017-12-02T17:38:42Z', 'closed_at': '2018-02-12T14:09:52Z', 'labels': []}
+{'issuenumber': 926, 'title': 'Newbie troubles: Token and Authorization', 'state': 'closed', 'created_at': '2017-12-01T06:00:01Z', 'closed_at': '2017-12-01T12:59:42Z', 'labels': []}
+{'issuenumber': 925, 'title': 'chat_data usage?', 'state': 'closed', 'created_at': '2017-11-30T16:35:33Z', 'closed_at': '2017-12-01T13:00:41Z', 'labels': []}
+{'issuenumber': 924, 'title': "webhook heroku example don't work so this code is below", 'state': 'closed', 'created_at': '2017-11-30T15:34:01Z', 'closed_at': '2017-12-01T13:02:59Z', 'labels': []}
+{'issuenumber': 922, 'title': 'ReplyKeyboardMarkup with set ', 'state': 'closed', 'created_at': '2017-11-23T05:43:15Z', 'closed_at': '2017-11-23T07:43:47Z', 'labels': []}
+{'issuenumber': 921, 'title': 'telegram.ext.updater - 2017-11-22 18:00:15,979 - ERROR - Error while getting Updates: Timed out', 'state': 'closed', 'created_at': '2017-11-22T18:07:24Z', 'closed_at': '2017-11-22T21:55:13Z', 'labels': []}
+{'issuenumber': 918, 'title': 'New API changes without changelog', 'state': 'closed', 'created_at': '2017-11-19T11:49:16Z', 'closed_at': '2017-12-08T21:39:00Z', 'labels': []}
+{'issuenumber': 917, 'title': "TypeError: can't pickle _thread.RLock objects", 'state': 'closed', 'created_at': '2017-11-18T08:05:19Z', 'closed_at': '2018-02-15T11:56:49Z', 'labels': []}
+{'issuenumber': 916, 'title': 'How watch group messages?', 'state': 'closed', 'created_at': '2017-11-16T21:24:41Z', 'closed_at': '2017-11-16T21:27:55Z', 'labels': []}
+{'issuenumber': 915, 'title': 'Conversation Handler with multiple entry points', 'state': 'closed', 'created_at': '2017-11-14T20:31:50Z', 'closed_at': '2017-12-06T11:17:32Z', 'labels': []}
+{'issuenumber': 914, 'title': 'Conflict with requests (RequestsDependencyWarning)', 'state': 'closed', 'created_at': '2017-11-14T11:04:31Z', 'closed_at': '2018-02-15T12:04:34Z', 'labels': []}
+{'issuenumber': 913, 'title': 'get contact (phone number)', 'state': 'closed', 'created_at': '2017-11-13T11:21:58Z', 'closed_at': '2017-11-13T11:25:57Z', 'labels': {'name': 'misc'}}
+{'issuenumber': 911, 'title': "Can't run bot.py using threading or multiprocessing", 'state': 'closed', 'created_at': '2017-11-11T18:05:31Z', 'closed_at': '2017-11-11T18:20:43Z', 'labels': []}
+{'issuenumber': 910, 'title': 'i want to make a multi user telegram bot and message handler does not work correctly, because state of an user will be change by other user starting. thank you', 'state': 'closed', 'created_at': '2017-11-11T07:41:09Z', 'closed_at': '2017-11-11T09:27:26Z', 'labels': []}
+{'issuenumber': 909, 'title': 'links are ignored in tg scheme with markdown format', 'state': 'closed', 'created_at': '2017-11-09T20:58:31Z', 'closed_at': '2017-11-09T21:12:49Z', 'labels': []}
+{'issuenumber': 908, 'title': 'error at "python3 setup.py install" when "Searching for certifi""unknown url type: https"', 'state': 'closed', 'created_at': '2017-11-08T17:44:49Z', 'closed_at': '2017-12-20T07:38:21Z', 'labels': []}
+{'issuenumber': 907, 'title': "Put on update queue doesn't trigger any handler", 'state': 'closed', 'created_at': '2017-11-08T13:27:24Z', 'closed_at': '2017-11-09T11:39:45Z', 'labels': []}
+{'issuenumber': 906, 'title': 'all files have error exec permission', 'state': 'closed', 'created_at': '2017-11-08T06:39:50Z', 'closed_at': '2017-11-08T12:58:41Z', 'labels': []}
+{'issuenumber': 905, 'title': 'SSLError: _ssl.c:495 handshake Error - How to fix?', 'state': 'closed', 'created_at': '2017-11-08T05:29:36Z', 'closed_at': '2017-11-08T20:42:35Z', 'labels': []}
+{'issuenumber': 904, 'title': 'Is there any handler for addition of new user? Want to restrict permission for every new user added to the group.', 'state': 'closed', 'created_at': '2017-11-06T17:12:46Z', 'closed_at': '2017-11-06T17:43:41Z', 'labels': []}
+{'issuenumber': 903, 'title': 'RuntimeError: Dispatcher not initialized or multiple instances exist', 'state': 'closed', 'created_at': '2017-11-06T01:41:01Z', 'closed_at': '2017-11-08T21:28:37Z', 'labels': []}
+{'issuenumber': 902, 'title': 'Reply message without passing bot and update parameter.', 'state': 'closed', 'created_at': '2017-11-05T15:00:17Z', 'closed_at': '2017-11-05T15:01:06Z', 'labels': []}
+{'issuenumber': 901, 'title': 'Question - Wait for user input/message', 'state': 'closed', 'created_at': '2017-11-04T14:07:41Z', 'closed_at': '2017-11-04T14:26:07Z', 'labels': []}
+{'issuenumber': 900, 'title': 'Android telegram client scroll down after callback', 'state': 'closed', 'created_at': '2017-11-03T10:09:05Z', 'closed_at': '2017-11-03T10:10:41Z', 'labels': []}
+{'issuenumber': 899, 'title': 'Add decorators for routing definitions', 'state': 'closed', 'created_at': '2017-11-02T02:21:57Z', 'closed_at': '2020-09-14T06:55:54Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 898, 'title': 'LIST_OF_ADMINS for @restricted should be replaced by a callable', 'state': 'closed', 'created_at': '2017-11-01T23:42:15Z', 'closed_at': '2017-11-02T01:05:45Z', 'labels': []}
+{'issuenumber': 894, 'title': 'Using existing webhook server for custom entry points', 'state': 'closed', 'created_at': '2017-10-28T17:29:26Z', 'closed_at': '2017-12-20T07:38:49Z', 'labels': []}
+{'issuenumber': 891, 'title': 'after send many file  coule not send file over 10M success', 'state': 'closed', 'created_at': '2017-10-24T03:55:56Z', 'closed_at': '2017-10-31T05:39:30Z', 'labels': []}
+{'issuenumber': 890, 'title': 'Update " " caused error "Timed out"', 'state': 'closed', 'created_at': '2017-10-23T11:48:01Z', 'closed_at': '2017-11-02T09:11:46Z', 'labels': []}
+{'issuenumber': 888, 'title': 'edit message?', 'state': 'closed', 'created_at': '2017-10-21T14:25:55Z', 'closed_at': '2017-10-27T20:33:13Z', 'labels': {'name': 'pending reply'}}
+{'issuenumber': 886, 'title': 'error during retrieve of update.channel_post.from_user.first_name', 'state': 'closed', 'created_at': '2017-10-20T16:05:57Z', 'closed_at': '2017-10-20T16:19:37Z', 'labels': []}
+{'issuenumber': 885, 'title': 'Is https://t.me/pythontelegrambotgroup working?', 'state': 'closed', 'created_at': '2017-10-20T11:36:57Z', 'closed_at': '2017-10-20T16:38:51Z', 'labels': []}
+{'issuenumber': 882, 'title': 'New Example of Inline keyboard bot with multiple callback query handlers.', 'state': 'closed', 'created_at': '2017-10-19T10:58:47Z', 'closed_at': '2017-10-19T11:05:34Z', 'labels': []}
+{'issuenumber': 881, 'title': 'Race condition in Dispatcher.start/stop()', 'state': 'closed', 'created_at': '2017-10-18T22:03:01Z', 'closed_at': '2017-10-21T11:40:25Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 879, 'title': 'CallbackGame misses attribute?', 'state': 'closed', 'created_at': '2017-10-18T19:49:14Z', 'closed_at': '2020-05-12T06:25:05Z', 'labels': {'name': 'API'}}
+{'issuenumber': 877, 'title': 'Is python-telegram-bot suitable for async job?', 'state': 'closed', 'created_at': '2017-10-18T03:10:50Z', 'closed_at': '2017-10-20T09:01:03Z', 'labels': []}
+{'issuenumber': 876, 'title': 'Question: Can a bot get the user phone number as part of the POST body', 'state': 'closed', 'created_at': '2017-10-17T15:08:48Z', 'closed_at': '2017-10-17T16:10:00Z', 'labels': []}
+{'issuenumber': 875, 'title': 'Add Filters.gif', 'state': 'closed', 'created_at': '2017-10-16T21:51:29Z', 'closed_at': '2018-03-14T23:30:52Z', 'labels': []}
+{'issuenumber': 872, 'title': 'parse_entities returns an empty object with captions', 'state': 'closed', 'created_at': '2017-10-15T01:27:25Z', 'closed_at': '2017-10-15T15:20:49Z', 'labels': []}
+{'issuenumber': 871, 'title': 'commandhandler error after updated the library to the 8.1.0', 'state': 'closed', 'created_at': '2017-10-15T00:31:17Z', 'closed_at': '2017-10-15T14:59:10Z', 'labels': []}
+{'issuenumber': 868, 'title': "Commands and \\n after aren't processed by CommandHandler", 'state': 'closed', 'created_at': '2017-10-12T18:43:28Z', 'closed_at': '2017-10-14T18:04:03Z', 'labels': []}
+{'issuenumber': 867, 'title': 'Will telegram bot give me entire user who play and score in my game  which was set through setGameScore function ', 'state': 'closed', 'created_at': '2017-10-12T11:37:29Z', 'closed_at': '2017-10-12T11:38:56Z', 'labels': []}
+{'issuenumber': 864, 'title': 'October 11 update', 'state': 'closed', 'created_at': '2017-10-11T09:49:24Z', 'closed_at': '2017-10-15T16:02:58Z', 'labels': {'name': 'API'}}
+{'issuenumber': 863, 'title': 'setGameScore and getGameHighScores is not working ', 'state': 'closed', 'created_at': '2017-10-10T13:19:12Z', 'closed_at': '2017-10-10T13:23:04Z', 'labels': []}
+{'issuenumber': 862, 'title': 'InlineQueryResultGif breaks after 3 elements', 'state': 'closed', 'created_at': '2017-10-09T16:57:26Z', 'closed_at': '2017-10-09T17:18:39Z', 'labels': []}
+{'issuenumber': 860, 'title': 'Result_id_duplicate confusion', 'state': 'closed', 'created_at': '2017-10-09T11:43:18Z', 'closed_at': '2017-10-09T12:49:34Z', 'labels': []}
+{'issuenumber': 858, 'title': 'I used Update.callback_query after which i used Update.message in same function its not working', 'state': 'closed', 'created_at': '2017-10-06T12:07:07Z', 'closed_at': '2017-10-07T10:11:13Z', 'labels': []}
+{'issuenumber': 857, 'title': 'using switch_inline_query i made to pop up the contacts and by selecting it should send game via bot but it is normal private user works in Gamee bot', 'state': 'closed', 'created_at': '2017-10-04T12:13:02Z', 'closed_at': '2017-10-10T08:14:45Z', 'labels': []}
+{'issuenumber': 855, 'title': 'Handle Errors', 'state': 'closed', 'created_at': '2017-10-02T12:04:08Z', 'closed_at': '2017-10-02T20:00:01Z', 'labels': []}
+{'issuenumber': 853, 'title': 'Group link', 'state': 'closed', 'created_at': '2017-10-01T15:32:06Z', 'closed_at': '2017-10-10T11:05:54Z', 'labels': []}
+{'issuenumber': 852, 'title': 'Message handlers and filtera', 'state': 'closed', 'created_at': '2017-10-01T15:09:54Z', 'closed_at': '2017-10-01T15:29:08Z', 'labels': []}
+{'issuenumber': 851, 'title': 'Delete or edit reply_text with InlineKeyboardMarkup when no answer provided', 'state': 'closed', 'created_at': '2017-09-30T09:31:30Z', 'closed_at': '2017-09-30T09:32:37Z', 'labels': []}
+{'issuenumber': 850, 'title': 'Send image on reply in conversation', 'state': 'closed', 'created_at': '2017-09-29T07:03:51Z', 'closed_at': '2017-09-29T11:59:41Z', 'labels': []}
+{'issuenumber': 849, 'title': 'User authentication', 'state': 'closed', 'created_at': '2017-09-27T15:20:52Z', 'closed_at': '2017-09-28T06:42:51Z', 'labels': []}
+{'issuenumber': 848, 'title': 'How to use two command for one function?', 'state': 'closed', 'created_at': '2017-09-26T09:13:06Z', 'closed_at': '2017-09-26T09:15:47Z', 'labels': []}
+{'issuenumber': 847, 'title': '"Wrong persistent file_id specified: wrong string length" when send PhotoSize to user', 'state': 'closed', 'created_at': '2017-09-25T15:03:47Z', 'closed_at': '2017-09-26T03:46:41Z', 'labels': []}
+{'issuenumber': 844, 'title': 'How to use send argument for cmd', 'state': 'closed', 'created_at': '2017-09-25T03:37:05Z', 'closed_at': '2017-09-25T03:44:49Z', 'labels': []}
+{'issuenumber': 842, 'title': 'bot not seeing other bots messages', 'state': 'closed', 'created_at': '2017-09-23T02:43:16Z', 'closed_at': '2017-09-23T04:50:36Z', 'labels': []}
+{'issuenumber': 841, 'title': 'sending bigger file than 50mb', 'state': 'closed', 'created_at': '2017-09-20T12:26:33Z', 'closed_at': '2017-09-20T12:37:11Z', 'labels': []}
+{'issuenumber': 840, 'title': 'Its not sending 5MB mp3 file', 'state': 'closed', 'created_at': '2017-09-20T03:30:59Z', 'closed_at': '2017-09-20T06:29:06Z', 'labels': []}
+{'issuenumber': 839, 'title': 'Its not sending big mp', 'state': 'closed', 'created_at': '2017-09-20T03:30:23Z', 'closed_at': '2017-09-20T06:28:50Z', 'labels': []}
+{'issuenumber': 837, 'title': 'how to get chat_id and message_id for group', 'state': 'closed', 'created_at': '2017-09-18T12:01:46Z', 'closed_at': '2017-09-18T12:53:23Z', 'labels': []}
+{'issuenumber': 836, 'title': 'need help to set webhook', 'state': 'closed', 'created_at': '2017-09-18T10:50:22Z', 'closed_at': '2017-10-02T13:23:54Z', 'labels': []}
+{'issuenumber': 835, 'title': 'Expand Filters and remove unwanted parameters from Handlers', 'state': 'closed', 'created_at': '2017-09-16T14:31:30Z', 'closed_at': '2019-08-30T06:50:20Z', 'labels': []}
+{'issuenumber': 831, 'title': 'Support for CommandHandler in Channels', 'state': 'closed', 'created_at': '2017-09-15T15:34:53Z', 'closed_at': '2018-02-01T17:06:45Z', 'labels': []}
+{'issuenumber': 825, 'title': 'Cannot change ConversationHandler state in CallbackQueryHandler', 'state': 'closed', 'created_at': '2017-09-11T09:14:40Z', 'closed_at': '2017-09-11T10:06:37Z', 'labels': {'name': 'pending reply'}}
+{'issuenumber': 824, 'title': 'return the type of a message', 'state': 'closed', 'created_at': '2017-09-10T23:34:26Z', 'closed_at': '2017-10-07T10:13:54Z', 'labels': []}
+{'issuenumber': 821, 'title': 'webhookInfo error message', 'state': 'closed', 'created_at': '2017-09-10T00:34:30Z', 'closed_at': '2017-09-16T01:29:08Z', 'labels': []}
+{'issuenumber': 817, 'title': 'Attribute error when initiating Bot object', 'state': 'closed', 'created_at': '2017-09-09T10:56:19Z', 'closed_at': '2017-09-12T07:16:32Z', 'labels': {'name': 'pending reply'}}
+{'issuenumber': 816, 'title': 'Updater raise Error while trying to use set_webhook method!', 'state': 'closed', 'created_at': '2017-09-08T11:48:09Z', 'closed_at': '2017-09-08T13:05:33Z', 'labels': []}
+{'issuenumber': 814, 'title': "Reply doesn't quote the original message", 'state': 'closed', 'created_at': '2017-09-05T12:49:27Z', 'closed_at': '2017-09-05T13:21:05Z', 'labels': []}
+{'issuenumber': 813, 'title': 'chat history ', 'state': 'closed', 'created_at': '2017-09-01T05:37:31Z', 'closed_at': '2017-09-01T06:11:47Z', 'labels': []}
+{'issuenumber': 812, 'title': "Is inlineQuery's answers paging working?", 'state': 'closed', 'created_at': '2017-08-28T01:53:58Z', 'closed_at': '2017-08-28T16:39:28Z', 'labels': []}
+{'issuenumber': 811, 'title': 'Bot does not respond after running for some time or deleting conversation', 'state': 'closed', 'created_at': '2017-08-27T10:07:18Z', 'closed_at': '2017-08-28T05:56:41Z', 'labels': []}
+{'issuenumber': 805, 'title': 'Passing dispatcher to MessageHandler', 'state': 'closed', 'created_at': '2017-08-22T11:45:44Z', 'closed_at': '2017-08-22T11:56:13Z', 'labels': []}
+{'issuenumber': 804, 'title': 'de_json() error "__init__() takes at least 2 arguments (10 given)"', 'state': 'closed', 'created_at': '2017-08-21T12:39:24Z', 'closed_at': '2017-08-24T09:48:01Z', 'labels': {'name': 'pending reply'}}
+{'issuenumber': 803, 'title': 'Pass a variable between states of a conversation.', 'state': 'closed', 'created_at': '2017-08-17T05:55:06Z', 'closed_at': '2017-08-17T14:19:29Z', 'labels': []}
+{'issuenumber': 802, 'title': 'TimedOut on get_updates', 'state': 'closed', 'created_at': '2017-08-16T11:21:49Z', 'closed_at': '2018-02-18T14:03:21Z', 'labels': {'name': 'pending reply'}}
+{'issuenumber': 801, 'title': 'Question: How to shutdown properly?', 'state': 'closed', 'created_at': '2017-08-15T21:02:31Z', 'closed_at': '2017-08-21T20:42:25Z', 'labels': []}
+{'issuenumber': 800, 'title': 'RegexHandler with Emoji', 'state': 'closed', 'created_at': '2017-08-15T10:27:30Z', 'closed_at': '2017-08-19T08:17:59Z', 'labels': []}
+{'issuenumber': 799, 'title': 'Missing telegram.utils.Request', 'state': 'closed', 'created_at': '2017-08-14T17:09:30Z', 'closed_at': '2017-09-07T19:55:09Z', 'labels': []}
+{'issuenumber': 795, 'title': 'Remove deprecated Message.new_chat_member', 'state': 'closed', 'created_at': '2017-08-12T13:12:13Z', 'closed_at': '2018-02-22T12:17:07Z', 'labels': []}
+{'issuenumber': 794, 'title': 'Remove deprecated MessageHandler.allow_edited', 'state': 'closed', 'created_at': '2017-08-12T12:47:19Z', 'closed_at': '2018-02-19T12:19:07Z', 'labels': []}
+{'issuenumber': 791, 'title': 'Heroku & Bot', 'state': 'closed', 'created_at': '2017-08-12T11:09:04Z', 'closed_at': '2017-08-12T11:10:27Z', 'labels': []}
+{'issuenumber': 787, 'title': 'urllib + MessageQueue = Connection pool is full warning', 'state': 'closed', 'created_at': '2017-08-11T10:14:59Z', 'closed_at': '2017-08-12T13:45:39Z', 'labels': []}
+{'issuenumber': 783, 'title': 'Flood control exceeded (in ConversationHandler with run_async)', 'state': 'closed', 'created_at': '2017-08-09T10:14:12Z', 'closed_at': '2017-08-10T16:34:00Z', 'labels': []}
+{'issuenumber': 782, 'title': 'ASCII encoding error when sending ZIP files', 'state': 'closed', 'created_at': '2017-08-08T14:47:52Z', 'closed_at': '2017-08-08T15:34:47Z', 'labels': []}
+{'issuenumber': 781, 'title': 'number of joiners', 'state': 'closed', 'created_at': '2017-08-08T11:03:37Z', 'closed_at': '2017-08-08T11:25:50Z', 'labels': {'name': 'misc'}}
+{'issuenumber': 780, 'title': 'How to send message without conversation/chat flow?', 'state': 'closed', 'created_at': '2017-08-08T08:19:05Z', 'closed_at': '2017-08-08T13:41:48Z', 'labels': {'name': 'question'}}
+{'issuenumber': 779, 'title': 'ProxyError occurred', 'state': 'closed', 'created_at': '2017-08-08T07:27:42Z', 'closed_at': '2017-08-08T07:31:40Z', 'labels': []}
+{'issuenumber': 778, 'title': 'Remove de_json from object that never use them', 'state': 'closed', 'created_at': '2017-08-07T12:20:18Z', 'closed_at': '2017-09-01T06:45:23Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 773, 'title': 'message.text_* returns link as hyperlink.', 'state': 'closed', 'created_at': '2017-08-05T22:09:49Z', 'closed_at': '2017-08-07T21:10:49Z', 'labels': []}
+{'issuenumber': 772, 'title': 'nested loop for inlinekeyboardbottom', 'state': 'closed', 'created_at': '2017-08-04T19:32:08Z', 'closed_at': '2017-08-04T19:36:18Z', 'labels': []}
+{'issuenumber': 770, 'title': 'Bad Request: failed to get HTTP URL content', 'state': 'closed', 'created_at': '2017-08-04T10:39:25Z', 'closed_at': '2017-08-04T11:35:09Z', 'labels': []}
+{'issuenumber': 769, 'title': 'Unable to use promoteChatMember', 'state': 'closed', 'created_at': '2017-08-03T21:18:07Z', 'closed_at': '2017-08-05T16:18:16Z', 'labels': []}
+{'issuenumber': 768, 'title': '[FeatureRequest] Split too long messages', 'state': 'closed', 'created_at': '2017-08-03T08:24:02Z', 'closed_at': '2020-02-17T15:13:07Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 762, 'title': 'Python Telegram Bot Group not working!', 'state': 'closed', 'created_at': '2017-07-31T08:51:28Z', 'closed_at': '2017-07-31T20:34:47Z', 'labels': []}
+{'issuenumber': 760, 'title': 'Remove botan from our library', 'state': 'closed', 'created_at': '2017-07-30T20:43:35Z', 'closed_at': '2017-09-01T06:45:02Z', 'labels': {'name': 'pending merge'}}
+{'issuenumber': 756, 'title': 'Nose is deprecated, move to pytest', 'state': 'closed', 'created_at': '2017-07-29T16:46:46Z', 'closed_at': '2017-08-12T01:57:02Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 753, 'title': 'What Can I Use For Listening & Auth', 'state': 'closed', 'created_at': '2017-07-27T04:32:26Z', 'closed_at': '2017-07-27T08:41:31Z', 'labels': []}
+{'issuenumber': 752, 'title': '@message decorator in Bot', 'state': 'closed', 'created_at': '2017-07-26T20:47:30Z', 'closed_at': '2017-10-11T20:38:00Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 750, 'title': 'RegexHandler error with stickers, voices, images...', 'state': 'closed', 'created_at': '2017-07-26T12:11:38Z', 'closed_at': '2017-07-28T17:47:44Z', 'labels': []}
+{'issuenumber': 746, 'title': 'add effective_attachment to telegram.Message', 'state': 'closed', 'created_at': '2017-07-25T08:22:51Z', 'closed_at': '2017-08-07T21:25:21Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 743, 'title': 'No documentation for jobqueue run_repeating etc', 'state': 'closed', 'created_at': '2017-07-24T18:07:59Z', 'closed_at': '2017-07-24T20:53:56Z', 'labels': []}
+{'issuenumber': 740, 'title': "The 'latest' version of the readthedocs is empty.", 'state': 'closed', 'created_at': '2017-07-23T20:27:50Z', 'closed_at': '2017-07-23T20:28:13Z', 'labels': []}
+{'issuenumber': 739, 'title': 'Send PIL photo in Python', 'state': 'closed', 'created_at': '2017-07-23T15:49:26Z', 'closed_at': '2017-07-23T18:19:47Z', 'labels': []}
+{'issuenumber': 736, 'title': "Bot API doesn't support tag <br>", 'state': 'closed', 'created_at': '2017-07-22T23:30:32Z', 'closed_at': '2017-07-23T08:15:22Z', 'labels': []}
+{'issuenumber': 734, 'title': 'TelegramObject.de_json should be @classmethod', 'state': 'closed', 'created_at': '2017-07-22T13:32:42Z', 'closed_at': '2017-07-23T19:14:40Z', 'labels': []}
+{'issuenumber': 733, 'title': 'Make sure Bot methods properly use kwargs for future compatability', 'state': 'closed', 'created_at': '2017-07-22T11:28:43Z', 'closed_at': '2017-07-24T22:19:09Z', 'labels': []}
+{'issuenumber': 731, 'title': 'Convenient send methods', 'state': 'closed', 'created_at': '2017-07-21T17:30:27Z', 'closed_at': '2017-07-24T22:35:24Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 730, 'title': 'Add sticker management', 'state': 'closed', 'created_at': '2017-07-21T14:13:16Z', 'closed_at': '2017-07-22T11:34:52Z', 'labels': {'name': 'API'}}
+{'issuenumber': 722, 'title': '[Question] Why does the error handler use logger.warning()?', 'state': 'closed', 'created_at': '2017-07-14T21:22:00Z', 'closed_at': '2017-07-14T21:33:22Z', 'labels': []}
+{'issuenumber': 721, 'title': 'get contact number without key press', 'state': 'closed', 'created_at': '2017-07-14T19:49:46Z', 'closed_at': '2017-07-14T21:29:41Z', 'labels': []}
+{'issuenumber': 720, 'title': 'Cannot connect to telegram api on ipv6-only hosts', 'state': 'closed', 'created_at': '2017-07-14T11:47:11Z', 'closed_at': '2017-07-23T20:05:17Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 719, 'title': '[Best Practice] How to create a workflow based on InlineKeyboardMarkup?', 'state': 'closed', 'created_at': '2017-07-13T20:45:42Z', 'closed_at': '2017-07-14T06:29:08Z', 'labels': []}
+{'issuenumber': 718, 'title': 'Is there a possibility to send a message from my python script without sending a request to my Telegram bot?', 'state': 'closed', 'created_at': '2017-07-13T01:13:42Z', 'closed_at': '2017-07-17T14:43:02Z', 'labels': []}
+{'issuenumber': 717, 'title': 'sending photo to channel by job_queue', 'state': 'closed', 'created_at': '2017-07-12T10:05:58Z', 'closed_at': '2017-07-29T16:42:30Z', 'labels': {'name': 'pending reply'}}
+{'issuenumber': 716, 'title': 'sending photo to channel', 'state': 'closed', 'created_at': '2017-07-12T09:58:30Z', 'closed_at': '2017-07-12T10:00:15Z', 'labels': []}
+{'issuenumber': 715, 'title': 'MainThread ERROR: Traceback ', 'state': 'closed', 'created_at': '2017-07-11T13:49:09Z', 'closed_at': '2017-07-28T22:51:52Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 714, 'title': 'Editing two messages simultaneously causes TimeoutError', 'state': 'closed', 'created_at': '2017-07-11T10:19:46Z', 'closed_at': '2017-07-28T21:42:38Z', 'labels': []}
+{'issuenumber': 712, 'title': 'My questions', 'state': 'closed', 'created_at': '2017-07-09T18:46:56Z', 'closed_at': '2017-07-09T18:50:29Z', 'labels': []}
+{'issuenumber': 711, 'title': 'Bot raises NetworkError on first update after a while of being unused.', 'state': 'closed', 'created_at': '2017-07-07T11:28:41Z', 'closed_at': '2018-02-15T12:08:35Z', 'labels': []}
+{'issuenumber': 710, 'title': 'Allow multiple strings for CommandHandler via tuple', 'state': 'closed', 'created_at': '2017-07-06T23:36:23Z', 'closed_at': '2017-07-10T22:34:13Z', 'labels': {'name': 'pending reply'}}
+{'issuenumber': 709, 'title': 'make callbackquery safe', 'state': 'closed', 'created_at': '2017-07-05T15:33:57Z', 'closed_at': '2021-06-06T09:48:48Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 708, 'title': 'maximum length of a query', 'state': 'closed', 'created_at': '2017-07-04T18:45:56Z', 'closed_at': '2017-07-14T21:34:19Z', 'labels': []}
+{'issuenumber': 707, 'title': 'No parameter "entities" for bot.send_message()', 'state': 'closed', 'created_at': '2017-07-03T13:23:59Z', 'closed_at': '2017-07-03T13:34:40Z', 'labels': {'name': 'misc'}}
+{'issuenumber': 706, 'title': 'how to ignore other bots', 'state': 'closed', 'created_at': '2017-07-03T04:07:29Z', 'closed_at': '2017-07-03T19:04:31Z', 'labels': []}
+{'issuenumber': 704, 'title': 'Having troubles with running my bot with crontab', 'state': 'closed', 'created_at': '2017-07-02T14:22:53Z', 'closed_at': '2017-07-05T18:29:27Z', 'labels': []}
+{'issuenumber': 702, 'title': '2017-07-01 23:46:15,169 - ERROR - Error while getting Updates: Conflict: terminated by other long poll or webhook (409)', 'state': 'closed', 'created_at': '2017-07-01T19:46:16Z', 'closed_at': '2017-07-02T19:42:49Z', 'labels': []}
+{'issuenumber': 701, 'title': 'TG Error within error Handler clogs the main thread', 'state': 'closed', 'created_at': '2017-07-01T19:37:04Z', 'closed_at': '2017-10-11T20:58:51Z', 'labels': []}
+{'issuenumber': 700, 'title': "What's job.context?", 'state': 'closed', 'created_at': '2017-07-01T03:45:38Z', 'closed_at': '2017-07-05T18:32:01Z', 'labels': {'name': 'question'}}
+{'issuenumber': 697, 'title': 'API changes - v3.1 - June 30, 2017', 'state': 'closed', 'created_at': '2017-06-30T15:18:38Z', 'closed_at': '2017-07-01T15:08:46Z', 'labels': []}
+{'issuenumber': 696, 'title': 'Handling command with regex', 'state': 'closed', 'created_at': '2017-06-30T11:37:24Z', 'closed_at': '2017-06-30T13:39:15Z', 'labels': []}
+{'issuenumber': 695, 'title': 'Bot tries to assign user id to anonymous channel post', 'state': 'closed', 'created_at': '2017-06-29T11:56:13Z', 'closed_at': '2017-07-23T19:29:53Z', 'labels': []}
+{'issuenumber': 691, 'title': 'Is html parse mode not working when answering inline queries?', 'state': 'closed', 'created_at': '2017-06-28T13:20:01Z', 'closed_at': '2017-06-28T13:58:26Z', 'labels': []}
+{'issuenumber': 690, 'title': 'KeyError:0 when using ReplyKeyboardMarkup', 'state': 'closed', 'created_at': '2017-06-24T13:12:47Z', 'closed_at': '2017-06-24T14:51:17Z', 'labels': []}
+{'issuenumber': 682, 'title': 'Error handlers not working with @run_async', 'state': 'closed', 'created_at': '2017-06-20T20:42:12Z', 'closed_at': '2020-10-04T15:20:34Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 680, 'title': 'No return from function in ConversationHandler', 'state': 'closed', 'created_at': '2017-06-20T19:46:11Z', 'closed_at': '2017-10-11T20:49:22Z', 'labels': []}
+{'issuenumber': 678, 'title': 'guess bot', 'state': 'closed', 'created_at': '2017-06-19T21:29:58Z', 'closed_at': '2017-06-20T18:32:57Z', 'labels': {'name': 'question'}}
+{'issuenumber': 676, 'title': '[Feature] Add global timeout argument for all network methods', 'state': 'closed', 'created_at': '2017-06-19T05:10:00Z', 'closed_at': '2017-10-11T21:39:10Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 672, 'title': 'pipy python-telegram-bot version is greater than the master branch version', 'state': 'closed', 'created_at': '2017-06-16T01:53:22Z', 'closed_at': '2017-06-17T10:28:29Z', 'labels': []}
+{'issuenumber': 670, 'title': 'Return entities in captions', 'state': 'closed', 'created_at': '2017-06-15T13:04:44Z', 'closed_at': '2017-06-17T10:29:09Z', 'labels': []}
+{'issuenumber': 669, 'title': 'RegexHandler with Wildcards left and right', 'state': 'closed', 'created_at': '2017-06-14T21:16:06Z', 'closed_at': '2017-06-18T11:15:49Z', 'labels': []}
+{'issuenumber': 666, 'title': 'Add stop propagation logic', 'state': 'closed', 'created_at': '2017-06-13T07:52:43Z', 'closed_at': '2017-07-29T17:15:45Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 665, 'title': 'Payment method not working', 'state': 'closed', 'created_at': '2017-06-13T07:30:17Z', 'closed_at': '2017-06-16T15:25:22Z', 'labels': []}
+{'issuenumber': 651, 'title': 'import requests gives error ', 'state': 'closed', 'created_at': '2017-06-08T15:55:32Z', 'closed_at': '2017-06-09T09:24:27Z', 'labels': []}
+{'issuenumber': 650, 'title': 'Encode error when downloading files with non-ASCII filenames.', 'state': 'closed', 'created_at': '2017-06-08T13:09:37Z', 'closed_at': '2017-06-24T08:10:44Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 648, 'title': 'how to set conversation no-operation timeout', 'state': 'closed', 'created_at': '2017-06-06T13:45:45Z', 'closed_at': '2018-03-01T09:34:48Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 646, 'title': 'forward_from_message_id & forward_from_chat missing', 'state': 'closed', 'created_at': '2017-06-02T02:45:16Z', 'closed_at': '2017-06-02T06:00:03Z', 'labels': []}
+{'issuenumber': 645, 'title': 'Removing Jobs based on name', 'state': 'closed', 'created_at': '2017-06-01T17:11:10Z', 'closed_at': '2018-03-03T08:09:39Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 640, 'title': 'ImportError: No module named ptb_urllib3.urllib3', 'state': 'closed', 'created_at': '2017-05-28T12:20:36Z', 'closed_at': '2017-05-28T17:59:56Z', 'labels': {'name': 'misc'}}
+{'issuenumber': 638, 'title': 'Add Persistence', 'state': 'closed', 'created_at': '2017-05-26T20:14:11Z', 'closed_at': '2018-10-29T20:31:52Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 637, 'title': 'Message.from is not mandatory due to channels', 'state': 'closed', 'created_at': '2017-05-26T17:13:19Z', 'closed_at': '2017-07-23T19:29:53Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 635, 'title': 'Build via setuptools fails', 'state': 'closed', 'created_at': '2017-05-24T14:02:58Z', 'closed_at': '2017-05-26T16:28:00Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 632, 'title': "AttributeError: module 'requests.packages.urllib3.contrib' has no attribute 'appengine'", 'state': 'closed', 'created_at': '2017-05-22T12:45:30Z', 'closed_at': '2017-06-01T18:09:55Z', 'labels': []}
+{'issuenumber': 629, 'title': 'Should release file include urllib3 submodule ?', 'state': 'closed', 'created_at': '2017-05-22T11:48:37Z', 'closed_at': '2017-06-01T18:12:25Z', 'labels': []}
+{'issuenumber': 627, 'title': 'Weirdness with Bot._message_wrapper', 'state': 'closed', 'created_at': '2017-05-21T12:03:26Z', 'closed_at': '2017-06-18T10:14:25Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 626, 'title': 'Not receiving any group messages via MessageHandler', 'state': 'closed', 'created_at': '2017-05-20T20:46:43Z', 'closed_at': '2017-05-20T22:07:48Z', 'labels': []}
+{'issuenumber': 620, 'title': 'update.message.from?!?!?!', 'state': 'closed', 'created_at': '2017-05-19T15:46:36Z', 'closed_at': '2017-05-19T15:47:15Z', 'labels': []}
+{'issuenumber': 619, 'title': 'Split internal code for better maintainability', 'state': 'closed', 'created_at': '2017-05-19T15:22:39Z', 'closed_at': '2017-06-22T18:26:47Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 617, 'title': 'May 18 changes', 'state': 'closed', 'created_at': '2017-05-18T19:38:21Z', 'closed_at': '2017-06-02T08:48:11Z', 'labels': {'name': 'API'}}
+{'issuenumber': 616, 'title': "Docs: Wrong member name 'user name'", 'state': 'closed', 'created_at': '2017-05-18T08:23:16Z', 'closed_at': '2017-05-18T10:42:24Z', 'labels': {'name': 'misc'}}
+{'issuenumber': 615, 'title': 'echobot2.py CommandHandler not working anymore', 'state': 'closed', 'created_at': '2017-05-17T19:32:19Z', 'closed_at': '2017-05-19T13:18:18Z', 'labels': []}
+{'issuenumber': 612, 'title': 'If Ctrl-c is pressed, add a way to wait for any current updates to be completed before of stopping ', 'state': 'closed', 'created_at': '2017-05-16T11:49:55Z', 'closed_at': '2017-05-16T14:21:13Z', 'labels': []}
+{'issuenumber': 611, 'title': 'problem with html chars in message.text using update.message.text_html', 'state': 'closed', 'created_at': '2017-05-16T10:13:27Z', 'closed_at': '2017-05-19T18:29:24Z', 'labels': []}
+{'issuenumber': 609, 'title': 'install from source code found error', 'state': 'closed', 'created_at': '2017-05-16T03:33:47Z', 'closed_at': '2017-05-16T07:32:36Z', 'labels': []}
+{'issuenumber': 607, 'title': 'add ability to handle only edited messages updates', 'state': 'closed', 'created_at': '2017-05-15T18:34:38Z', 'closed_at': '2017-05-19T18:26:11Z', 'labels': []}
+{'issuenumber': 605, 'title': 'During updater bootstrap phase, retry on network errors', 'state': 'closed', 'created_at': '2017-05-13T22:40:50Z', 'closed_at': '2018-03-02T21:11:17Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 601, 'title': "Exception in 'commandhandler' when catching edited messages", 'state': 'closed', 'created_at': '2017-05-12T00:08:27Z', 'closed_at': '2017-05-12T15:45:04Z', 'labels': []}
+{'issuenumber': 596, 'title': "Bug. Function disable_web_page_preview doesn't work.", 'state': 'closed', 'created_at': '2017-05-10T11:27:29Z', 'closed_at': '2017-05-12T14:19:16Z', 'labels': []}
+{'issuenumber': 595, 'title': 'Tests for video failing', 'state': 'closed', 'created_at': '2017-05-09T22:30:16Z', 'closed_at': '2017-05-12T15:56:49Z', 'labels': []}
+{'issuenumber': 593, 'title': 'editMessageText  and editMessageReplyMarkup with reply_markup is not working', 'state': 'closed', 'created_at': '2017-05-09T19:36:11Z', 'closed_at': '2017-05-09T20:02:26Z', 'labels': []}
+{'issuenumber': 591, 'title': 'Run tests on Windows', 'state': 'closed', 'created_at': '2017-05-06T15:25:52Z', 'closed_at': '2017-10-07T16:36:34Z', 'labels': {'name': 'windows'}}
+{'issuenumber': 590, 'title': 'Putting jobs with datetime.timedelta delay', 'state': 'closed', 'created_at': '2017-05-05T16:58:08Z', 'closed_at': '2018-02-18T15:55:17Z', 'labels': []}
+{'issuenumber': 589, 'title': 'Problem parsing image', 'state': 'closed', 'created_at': '2017-05-05T13:09:18Z', 'closed_at': '2017-05-08T16:02:57Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 588, 'title': 'Edited & normal message updates simultaneously', 'state': 'closed', 'created_at': '2017-05-03T07:22:44Z', 'closed_at': '2017-05-10T08:20:19Z', 'labels': {'name': 'pending reply'}}
+{'issuenumber': 587, 'title': 'Equal objects (e. g. `User`) are not recognized as equal', 'state': 'closed', 'created_at': '2017-04-29T20:33:40Z', 'closed_at': '2017-05-14T21:29:32Z', 'labels': []}
+{'issuenumber': 585, 'title': "MessageHandler filters don't work: object() takes no parameters", 'state': 'closed', 'created_at': '2017-04-28T13:48:14Z', 'closed_at': '2017-05-09T19:50:24Z', 'labels': []}
+{'issuenumber': 584, 'title': 'Validation function', 'state': 'closed', 'created_at': '2017-04-27T16:19:45Z', 'closed_at': '2019-09-27T16:57:05Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 582, 'title': '"terminated by other long poll or webhook (409)"', 'state': 'closed', 'created_at': '2017-04-25T16:23:33Z', 'closed_at': '2017-04-29T13:37:50Z', 'labels': []}
+{'issuenumber': 581, 'title': 'url lib 1.21', 'state': 'closed', 'created_at': '2017-04-25T15:50:29Z', 'closed_at': '2017-04-29T13:44:05Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 579, 'title': 'urllib3 problems!', 'state': 'closed', 'created_at': '2017-04-25T13:47:57Z', 'closed_at': '2017-04-25T15:04:27Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 578, 'title': 'Could not creat Updater with a proxy', 'state': 'closed', 'created_at': '2017-04-25T03:12:37Z', 'closed_at': '2017-04-25T03:15:44Z', 'labels': []}
+{'issuenumber': 572, 'title': 'How do I acknowledge that message has been received', 'state': 'closed', 'created_at': '2017-04-23T10:25:57Z', 'closed_at': '2017-04-23T10:29:29Z', 'labels': []}
+{'issuenumber': 571, 'title': 'Bot crashes, when user clicks on inline button of an inline query result', 'state': 'closed', 'created_at': '2017-04-22T15:28:01Z', 'closed_at': '2017-05-19T23:13:44Z', 'labels': []}
+{'issuenumber': 569, 'title': "AttributeError: 'JobQueue' object has no attribute 'run_repeating'", 'state': 'closed', 'created_at': '2017-04-20T12:55:32Z', 'closed_at': '2017-05-09T19:54:16Z', 'labels': []}
+{'issuenumber': 568, 'title': "Command Handler - don't split() the args, shlex.split() them", 'state': 'closed', 'created_at': '2017-04-18T07:31:19Z', 'closed_at': '2017-09-12T06:10:11Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 566, 'title': 'CommandHandler - Check if update meant to be sent to the bot - Case-sensitivity', 'state': 'closed', 'created_at': '2017-04-16T16:56:30Z', 'closed_at': '2017-04-25T08:37:06Z', 'labels': []}
+{'issuenumber': 565, 'title': 'python-telegram-bot callable WSGI', 'state': 'closed', 'created_at': '2017-04-16T14:17:27Z', 'closed_at': '2017-04-25T15:17:13Z', 'labels': []}
+{'issuenumber': 563, 'title': "Broken Wiki link for 'Where to host Telegram Bots'", 'state': 'closed', 'created_at': '2017-04-14T04:31:11Z', 'closed_at': '2017-04-15T13:10:56Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 562, 'title': 'Bot stops responding after a while', 'state': 'closed', 'created_at': '2017-04-13T00:34:58Z', 'closed_at': '2017-04-22T01:53:13Z', 'labels': []}
+{'issuenumber': 560, 'title': 'Conversation Handler responds to messages from channels', 'state': 'closed', 'created_at': '2017-04-11T08:07:25Z', 'closed_at': '2017-04-13T10:39:53Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 559, 'title': 'Possibility to stop to run any other code for that update', 'state': 'closed', 'created_at': '2017-04-06T17:29:57Z', 'closed_at': '2017-09-11T07:07:34Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 558, 'title': 'add reasons description when an Unauthorized exceptions occurs', 'state': 'closed', 'created_at': '2017-04-06T17:21:33Z', 'closed_at': '2017-05-12T15:38:37Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 557, 'title': "'NoneType' object has no attribute 'id'", 'state': 'closed', 'created_at': '2017-04-03T14:59:19Z', 'closed_at': '2017-04-03T15:06:52Z', 'labels': []}
+{'issuenumber': 556, 'title': "ValueError: If 'per_message=False', 'CallbackQueryHandler' doesn't work", 'state': 'closed', 'created_at': '2017-04-03T14:16:37Z', 'closed_at': '2017-04-29T13:57:31Z', 'labels': []}
+{'issuenumber': 555, 'title': 'Error when trying to use the timerbot example', 'state': 'closed', 'created_at': '2017-04-01T10:41:30Z', 'closed_at': '2017-04-04T13:48:48Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 554, 'title': 'getting time zone data', 'state': 'closed', 'created_at': '2017-03-31T08:48:05Z', 'closed_at': '2017-04-01T10:49:40Z', 'labels': []}
+{'issuenumber': 551, 'title': 'Any way to send a Photo (not share the link)', 'state': 'closed', 'created_at': '2017-03-25T16:24:51Z', 'closed_at': '2017-03-25T16:29:56Z', 'labels': {'name': 'question'}}
+{'issuenumber': 548, 'title': 'Missing "allowed_updates" in start_polling() and start_webhook()', 'state': 'closed', 'created_at': '2017-03-24T08:06:42Z', 'closed_at': '2017-04-29T13:57:47Z', 'labels': []}
+{'issuenumber': 547, 'title': 'Job runs 2 times', 'state': 'closed', 'created_at': '2017-03-20T13:08:19Z', 'closed_at': '2017-03-21T12:04:28Z', 'labels': []}
+{'issuenumber': 546, 'title': 'Callback fails when bot removed from chat', 'state': 'closed', 'created_at': '2017-03-20T09:25:56Z', 'closed_at': '2017-04-25T15:12:45Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 544, 'title': 'python-telegram', 'state': 'closed', 'created_at': '2017-03-16T21:55:04Z', 'closed_at': '2017-03-16T22:03:01Z', 'labels': {'name': 'misc'}}
+{'issuenumber': 543, 'title': 'About send  file size ', 'state': 'closed', 'created_at': '2017-03-14T02:03:26Z', 'closed_at': '2017-04-06T07:07:25Z', 'labels': []}
+{'issuenumber': 541, 'title': 'Cannot remove handler', 'state': 'closed', 'created_at': '2017-03-08T19:37:45Z', 'closed_at': '2017-03-09T09:22:24Z', 'labels': []}
+{'issuenumber': 540, 'title': 'Default Command?', 'state': 'closed', 'created_at': '2017-03-08T04:21:18Z', 'closed_at': '2017-03-08T15:50:12Z', 'labels': []}
+{'issuenumber': 539, 'title': 'Second bot not responding when sending a slash command', 'state': 'closed', 'created_at': '2017-03-07T22:41:52Z', 'closed_at': '2017-03-09T09:22:34Z', 'labels': []}
+{'issuenumber': 538, 'title': 'Send message to private channels', 'state': 'closed', 'created_at': '2017-03-02T13:15:08Z', 'closed_at': '2017-04-01T10:50:35Z', 'labels': {'name': 'question'}}
+{'issuenumber': 535, 'title': 'Bot stops responding ', 'state': 'closed', 'created_at': '2017-02-28T09:12:09Z', 'closed_at': '2017-07-29T11:30:27Z', 'labels': []}
+{'issuenumber': 534, 'title': 'AWS Lambda', 'state': 'closed', 'created_at': '2017-02-27T23:37:52Z', 'closed_at': '2017-02-28T09:28:54Z', 'labels': []}
+{'issuenumber': 533, 'title': 'Fix timeouts when sending large files', 'state': 'closed', 'created_at': '2017-02-27T21:04:01Z', 'closed_at': '2017-10-11T21:09:37Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 528, 'title': 'callback_data and json.dumps results in Bad Request: BUTTON_DATA_INVALID', 'state': 'closed', 'created_at': '2017-02-26T04:24:36Z', 'closed_at': '2017-02-27T17:08:35Z', 'labels': []}
+{'issuenumber': 526, 'title': 'Issue with cert', 'state': 'closed', 'created_at': '2017-02-23T23:44:16Z', 'closed_at': '2017-02-27T17:01:25Z', 'labels': []}
+{'issuenumber': 525, 'title': 'How to set a proxy for this module?', 'state': 'closed', 'created_at': '2017-02-19T13:48:59Z', 'closed_at': '2017-03-09T09:31:24Z', 'labels': []}
+{'issuenumber': 524, 'title': 'Problem with InlineQueryResultGame', 'state': 'closed', 'created_at': '2017-02-14T19:43:09Z', 'closed_at': '2017-02-15T12:53:46Z', 'labels': []}
+{'issuenumber': 522, 'title': 'Idle and Threading, using Blender to run Telegram Bot', 'state': 'closed', 'created_at': '2017-02-10T11:18:59Z', 'closed_at': '2017-02-11T08:53:27Z', 'labels': []}
+{'issuenumber': 520, 'title': 'BUG: all_members_are_administrators fails', 'state': 'closed', 'created_at': '2017-02-07T22:03:36Z', 'closed_at': '2017-02-27T13:27:06Z', 'labels': []}
+{'issuenumber': 519, 'title': 'ImportError: No module named connection', 'state': 'closed', 'created_at': '2017-02-06T23:57:40Z', 'closed_at': '2017-02-08T10:48:47Z', 'labels': {'name': 'misc'}}
+{'issuenumber': 517, 'title': 'support socks5 proxy.', 'state': 'closed', 'created_at': '2017-02-06T03:26:04Z', 'closed_at': '2017-02-25T18:47:57Z', 'labels': []}
+{'issuenumber': 511, 'title': 'Telegram bot does not work for all people', 'state': 'closed', 'created_at': '2017-01-30T13:14:47Z', 'closed_at': '2017-02-05T19:45:39Z', 'labels': {'name': 'misc'}}
+{'issuenumber': 510, 'title': 'Bot stops responding after network fluctuation', 'state': 'closed', 'created_at': '2017-01-29T15:02:06Z', 'closed_at': '2017-06-22T21:56:32Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 509, 'title': 'Updater.idle() not working correct in Thread', 'state': 'closed', 'created_at': '2017-01-25T19:44:14Z', 'closed_at': '2017-01-25T19:52:26Z', 'labels': []}
+{'issuenumber': 508, 'title': 'How to konw if a group link of telegram is broken or not with this wrapper ?', 'state': 'closed', 'created_at': '2017-01-19T02:55:54Z', 'closed_at': '2017-01-20T17:30:51Z', 'labels': {'name': 'question'}}
+{'issuenumber': 506, 'title': '[Feature Request] distributed/storage-backed JobQueue', 'state': 'closed', 'created_at': '2017-01-17T22:26:50Z', 'closed_at': '2017-09-11T07:04:37Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 505, 'title': 'Problem with deploy on heroku', 'state': 'closed', 'created_at': '2017-01-17T19:22:16Z', 'closed_at': '2017-01-18T19:52:25Z', 'labels': []}
+{'issuenumber': 504, 'title': 'switch_inline_query_current_chat', 'state': 'closed', 'created_at': '2017-01-15T13:07:00Z', 'closed_at': '2017-02-27T16:53:28Z', 'labels': {'name': 'question'}}
+{'issuenumber': 503, 'title': 'ImportError: No module named telegram.ext', 'state': 'closed', 'created_at': '2017-01-15T12:52:45Z', 'closed_at': '2017-02-25T21:00:09Z', 'labels': {'name': 'question'}}
+{'issuenumber': 502, 'title': "InlineQueryHandler inside ConversationHandler's states", 'state': 'closed', 'created_at': '2017-01-13T22:00:08Z', 'closed_at': '2017-09-11T07:03:35Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 501, 'title': 'ConversationHandler asynchronously', 'state': 'closed', 'created_at': '2017-01-11T05:16:10Z', 'closed_at': '2017-01-11T05:18:34Z', 'labels': []}
+{'issuenumber': 498, 'title': 'MySQLdb Problem', 'state': 'closed', 'created_at': '2017-01-05T00:52:25Z', 'closed_at': '2017-01-05T20:46:38Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 497, 'title': 'problem with bot.getUpdates()', 'state': 'closed', 'created_at': '2017-01-03T13:37:57Z', 'closed_at': '2017-01-03T14:04:29Z', 'labels': []}
+{'issuenumber': 496, 'title': 'Conversation Not Working', 'state': 'closed', 'created_at': '2017-01-02T17:50:30Z', 'closed_at': '2017-01-02T18:38:35Z', 'labels': []}
+{'issuenumber': 495, 'title': 'Telegram Bot stops processing updates after awhile', 'state': 'closed', 'created_at': '2016-12-31T19:38:44Z', 'closed_at': '2017-01-07T18:16:05Z', 'labels': []}
+{'issuenumber': 493, 'title': 'cannot import name ReplyKeyboardRemove', 'state': 'closed', 'created_at': '2016-12-30T09:04:05Z', 'closed_at': '2016-12-30T13:38:37Z', 'labels': {'name': 'misc'}}
+{'issuenumber': 492, 'title': 'Kick By Username', 'state': 'closed', 'created_at': '2016-12-27T21:00:30Z', 'closed_at': '2016-12-28T02:09:36Z', 'labels': []}
+{'issuenumber': 491, 'title': "[Question] How to get user's Id", 'state': 'closed', 'created_at': '2016-12-25T20:38:48Z', 'closed_at': '2016-12-27T17:00:38Z', 'labels': []}
+{'issuenumber': 490, 'title': 'ImportError: No module named telegram.error ?', 'state': 'closed', 'created_at': '2016-12-25T20:20:48Z', 'closed_at': '2017-01-07T18:17:35Z', 'labels': {'name': 'misc'}}
+{'issuenumber': 489, 'title': "AttributeError: 'int' object has no attribute 'rfind'` when filename is not provided for sending document", 'state': 'closed', 'created_at': '2016-12-25T07:42:58Z', 'closed_at': '2017-01-07T18:22:52Z', 'labels': []}
+{'issuenumber': 488, 'title': "RegexHandler(r'^ب$', modikar)  //Problem with Persian Chars", 'state': 'closed', 'created_at': '2016-12-23T17:33:18Z', 'closed_at': '2016-12-23T22:46:20Z', 'labels': {'name': 'pending reply'}}
+{'issuenumber': 485, 'title': "Long polling doesn't work inside a thread", 'state': 'closed', 'created_at': '2016-12-17T13:15:55Z', 'closed_at': '2016-12-17T15:19:53Z', 'labels': []}
+{'issuenumber': 481, 'title': "TypeError: urlopen() got multiple values for keyword argument 'body'", 'state': 'closed', 'created_at': '2016-12-11T21:10:52Z', 'closed_at': '2016-12-11T21:27:48Z', 'labels': []}
+{'issuenumber': 480, 'title': 'How to delete a sent photo', 'state': 'closed', 'created_at': '2016-12-10T18:21:45Z', 'closed_at': '2016-12-11T21:50:32Z', 'labels': []}
+{'issuenumber': 479, 'title': 'Channels and Messages', 'state': 'closed', 'created_at': '2016-12-08T11:22:37Z', 'closed_at': '2016-12-08T11:59:52Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 478, 'title': 'MessageHandler does not work correctly', 'state': 'closed', 'created_at': '2016-12-07T19:36:00Z', 'closed_at': '2016-12-07T21:29:06Z', 'labels': []}
+{'issuenumber': 477, 'title': 'Group Does Not Exist', 'state': 'closed', 'created_at': '2016-12-06T02:30:56Z', 'closed_at': '2016-12-06T16:26:32Z', 'labels': {'name': 'misc'}}
+{'issuenumber': 476, 'title': 'Getting Username', 'state': 'closed', 'created_at': '2016-12-06T02:28:18Z', 'closed_at': '2016-12-07T22:22:56Z', 'labels': []}
+{'issuenumber': 475, 'title': 'switch_inline_query_current_chat raises BadRequest error.', 'state': 'closed', 'created_at': '2016-12-05T21:14:31Z', 'closed_at': '2017-01-08T13:12:27Z', 'labels': []}
+{'issuenumber': 474, 'title': 'Is there any way to serve multiple robots by same process?', 'state': 'closed', 'created_at': '2016-12-05T00:42:55Z', 'closed_at': '2016-12-11T21:29:29Z', 'labels': []}
+{'issuenumber': 472, 'title': 'edit_reply_markup is calling edit_message_caption', 'state': 'closed', 'created_at': '2016-12-02T07:02:44Z', 'closed_at': '2016-12-08T12:23:51Z', 'labels': []}
+{'issuenumber': 470, 'title': 'BadRequest message has wrong format (u"Bad Request: ...")', 'state': 'closed', 'created_at': '2016-11-29T23:59:15Z', 'closed_at': '2017-02-25T20:40:51Z', 'labels': []}
+{'issuenumber': 469, 'title': 'Usage of update.message without checking for None in case of edits.', 'state': 'closed', 'created_at': '2016-11-26T15:24:41Z', 'closed_at': '2016-12-28T19:06:05Z', 'labels': []}
+{'issuenumber': 468, 'title': 'botapi 2.3', 'state': 'closed', 'created_at': '2016-11-21T20:43:40Z', 'closed_at': '2016-12-11T21:44:52Z', 'labels': []}
+{'issuenumber': 466, 'title': 'Feedback to the user select button InlineKeyboardButton without hiding?', 'state': 'closed', 'created_at': '2016-11-20T15:05:09Z', 'closed_at': '2016-11-22T20:18:24Z', 'labels': []}
+{'issuenumber': 464, 'title': 'Command import from JSON file functionality', 'state': 'closed', 'created_at': '2016-11-19T14:30:10Z', 'closed_at': '2016-12-08T12:09:43Z', 'labels': []}
+{'issuenumber': 463, 'title': "TypeError: 'MessageHandler' object is not iterable when using fallbacks", 'state': 'closed', 'created_at': '2016-11-14T17:39:35Z', 'closed_at': '2016-11-14T17:41:24Z', 'labels': []}
+{'issuenumber': 462, 'title': 'KeyboardInline is realy BAD!!', 'state': 'closed', 'created_at': '2016-11-13T18:40:00Z', 'closed_at': '2016-11-29T22:42:48Z', 'labels': []}
+{'issuenumber': 460, 'title': "User.to_dict() returns absent fields with empty strings '' values", 'state': 'closed', 'created_at': '2016-11-07T10:56:58Z', 'closed_at': '2017-02-27T13:40:23Z', 'labels': []}
+{'issuenumber': 457, 'title': 'Bad Request: Type of file to send mismatch', 'state': 'closed', 'created_at': '2016-11-06T10:53:07Z', 'closed_at': '2016-12-19T20:53:28Z', 'labels': []}
+{'issuenumber': 453, 'title': 'Get users first name and use on message.reply_text()', 'state': 'closed', 'created_at': '2016-11-02T20:37:14Z', 'closed_at': '2016-11-02T20:45:56Z', 'labels': {'name': 'question'}}
+{'issuenumber': 450, 'title': 'contacts.importContacts', 'state': 'closed', 'created_at': '2016-11-01T13:46:01Z', 'closed_at': '2016-11-01T13:59:15Z', 'labels': {'name': 'question'}}
+{'issuenumber': 448, 'title': 'telegram.error.Unauthorized: Unauthorized only on ec2', 'state': 'closed', 'created_at': '2016-11-01T05:23:20Z', 'closed_at': '2016-12-19T20:58:50Z', 'labels': []}
+{'issuenumber': 447, 'title': "Couldn't download pdf readbook", 'state': 'closed', 'created_at': '2016-11-01T03:47:56Z', 'closed_at': '2016-11-01T05:53:51Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 446, 'title': 'Create group add bot and users by id', 'state': 'closed', 'created_at': '2016-10-24T09:26:27Z', 'closed_at': '2016-10-27T14:08:25Z', 'labels': []}
+{'issuenumber': 441, 'title': "Inlinebot example doesn't work", 'state': 'closed', 'created_at': '2016-10-16T05:14:16Z', 'closed_at': '2016-10-16T15:48:07Z', 'labels': {'name': 'misc'}}
+{'issuenumber': 438, 'title': 'Message.reply_x methods are not present in pythonhosted docs', 'state': 'closed', 'created_at': '2016-10-11T23:29:58Z', 'closed_at': '2016-10-27T14:08:40Z', 'labels': []}
+{'issuenumber': 434, 'title': 'Pypy not working with webhooks', 'state': 'closed', 'created_at': '2016-10-09T09:40:44Z', 'closed_at': '2016-10-09T13:46:16Z', 'labels': {'name': 'misc'}}
+{'issuenumber': 432, 'title': 'Filtering and discarding messages in a RegexHandler', 'state': 'closed', 'created_at': '2016-10-03T21:18:26Z', 'closed_at': '2016-10-04T18:34:07Z', 'labels': []}
+{'issuenumber': 430, 'title': 'Strange delay on iOS (iPhone/iPad) clients displaying new messages after a call to editMessage()', 'state': 'closed', 'created_at': '2016-10-03T09:54:36Z', 'closed_at': '2016-10-04T18:51:02Z', 'labels': []}
+{'issuenumber': 429, 'title': 'Add October 3 changes', 'state': 'closed', 'created_at': '2016-10-03T09:53:18Z', 'closed_at': '2016-10-03T13:27:03Z', 'labels': []}
+{'issuenumber': 428, 'title': 'InlineKeyboardButtons keep the loading circle turning on Android...', 'state': 'closed', 'created_at': '2016-10-02T14:39:16Z', 'closed_at': '2016-10-04T18:35:08Z', 'labels': []}
+{'issuenumber': 427, 'title': 'Very Slow API response', 'state': 'closed', 'created_at': '2016-09-27T17:35:06Z', 'closed_at': '2016-09-27T22:53:28Z', 'labels': []}
+{'issuenumber': 424, 'title': 'Use explicit keyword arguments', 'state': 'closed', 'created_at': '2016-09-25T19:36:49Z', 'closed_at': '2016-10-19T09:36:19Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 422, 'title': 'Too Many Requests error when start_polling(clean=True)', 'state': 'closed', 'created_at': '2016-09-24T18:11:29Z', 'closed_at': '2016-10-27T14:09:52Z', 'labels': []}
+{'issuenumber': 418, 'title': 'PyPI out of date | echobot2 example not working with PyPI version', 'state': 'closed', 'created_at': '2016-09-23T14:59:58Z', 'closed_at': '2016-09-24T13:34:03Z', 'labels': []}
+{'issuenumber': 417, 'title': 'Help Conversation Handler', 'state': 'closed', 'created_at': '2016-09-22T21:59:41Z', 'closed_at': '2016-09-23T18:54:54Z', 'labels': {'name': 'question'}}
+{'issuenumber': 416, 'title': "Error handler doesn't handle", 'state': 'closed', 'created_at': '2016-09-22T08:04:05Z', 'closed_at': '2016-09-23T15:18:51Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 413, 'title': 'Webhook for deep linking: is it necessary?', 'state': 'closed', 'created_at': '2016-09-15T21:20:34Z', 'closed_at': '2016-09-15T23:42:08Z', 'labels': {'name': 'question'}}
+{'issuenumber': 412, 'title': 'Webhook problem: 403 Request forbidden', 'state': 'closed', 'created_at': '2016-09-15T20:54:34Z', 'closed_at': '2016-09-15T23:32:46Z', 'labels': {'name': 'question'}}
+{'issuenumber': 410, 'title': 'Issue with Updates. "A TelegramError was raised while processing the Update."', 'state': 'closed', 'created_at': '2016-09-13T20:23:36Z', 'closed_at': '2016-09-14T20:25:09Z', 'labels': {'name': 'question'}}
+{'issuenumber': 408, 'title': 'Remove deprecated code', 'state': 'closed', 'created_at': '2016-09-13T17:46:41Z', 'closed_at': '2017-07-23T19:58:21Z', 'labels': {'name': 'good first issue'}}
+{'issuenumber': 407, 'title': "on raspberry pi3 i receive urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'ReadTimeoutError(HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out.", 'state': 'closed', 'created_at': '2016-09-13T16:46:24Z', 'closed_at': '2016-09-13T16:51:11Z', 'labels': {'name': 'misc'}}
+{'issuenumber': 406, 'title': 'ChosenInlineResultHandler not working', 'state': 'closed', 'created_at': '2016-09-10T14:36:58Z', 'closed_at': '2016-09-10T14:58:54Z', 'labels': {'name': 'question'}}
+{'issuenumber': 405, 'title': 'Cannot use a ConversationHandler as part of another ConversationHandler', 'state': 'closed', 'created_at': '2016-09-04T08:03:55Z', 'closed_at': '2017-10-11T21:19:20Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 403, 'title': 'How to use bot.editMessageText to edit a message sent through an inline query', 'state': 'closed', 'created_at': '2016-09-02T13:07:50Z', 'closed_at': '2016-09-02T13:16:22Z', 'labels': {'name': 'question'}}
+{'issuenumber': 401, 'title': "raise RuntimeError('Connection Pool already initialized') after restarting update instances", 'state': 'closed', 'created_at': '2016-08-31T08:48:31Z', 'closed_at': '2016-09-06T13:38:07Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 400, 'title': 'Handling of MessageEntity length and offset', 'state': 'closed', 'created_at': '2016-08-30T20:14:13Z', 'closed_at': '2016-09-07T06:49:11Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 399, 'title': 'Edited Filter', 'state': 'closed', 'created_at': '2016-08-30T16:01:37Z', 'closed_at': '2016-08-30T16:49:01Z', 'labels': {'name': 'question'}}
+{'issuenumber': 398, 'title': 'ImportError: No module named urllib.request', 'state': 'closed', 'created_at': '2016-08-28T11:24:24Z', 'closed_at': '2016-08-30T12:47:23Z', 'labels': {'name': 'question'}}
+{'issuenumber': 397, 'title': 'No warnings/exceptions in command handler', 'state': 'closed', 'created_at': '2016-08-27T15:35:06Z', 'closed_at': '2016-08-27T16:17:14Z', 'labels': {'name': 'question'}}
+{'issuenumber': 395, 'title': 'ImportError: cannot import name TelegramError', 'state': 'closed', 'created_at': '2016-08-24T11:36:59Z', 'closed_at': '2016-08-26T13:41:02Z', 'labels': {'name': 'question'}}
+{'issuenumber': 394, 'title': "TypeError: ulropen() got multiple values for keyboard argument 'body'", 'state': 'closed', 'created_at': '2016-08-24T10:49:26Z', 'closed_at': '2016-08-25T20:00:08Z', 'labels': []}
+{'issuenumber': 393, 'title': 'Bug on received Array Data Telegram', 'state': 'closed', 'created_at': '2016-08-23T22:24:30Z', 'closed_at': '2016-08-25T20:03:11Z', 'labels': []}
+{'issuenumber': 391, 'title': 'Send image from URL', 'state': 'closed', 'created_at': '2016-08-23T09:29:56Z', 'closed_at': '2016-08-25T10:57:58Z', 'labels': []}
+{'issuenumber': 390, 'title': 'Issue with process incoming messages', 'state': 'closed', 'created_at': '2016-08-22T18:12:08Z', 'closed_at': '2016-08-30T14:28:55Z', 'labels': {'name': 'question'}}
+{'issuenumber': 387, 'title': 'Flag emoji', 'state': 'closed', 'created_at': '2016-08-20T13:30:42Z', 'closed_at': '2016-08-20T13:31:09Z', 'labels': []}
+{'issuenumber': 385, 'title': 'Feature Request: Persist data between responses in ConversationHandler', 'state': 'closed', 'created_at': '2016-08-18T16:51:59Z', 'closed_at': '2016-10-27T14:10:05Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 382, 'title': '504 gateway error nginx', 'state': 'closed', 'created_at': '2016-08-16T09:19:05Z', 'closed_at': '2016-08-16T11:44:42Z', 'labels': []}
+{'issuenumber': 381, 'title': 'Immediately affect of code change', 'state': 'closed', 'created_at': '2016-08-16T05:25:51Z', 'closed_at': '2016-08-17T11:46:20Z', 'labels': {'name': 'question'}}
+{'issuenumber': 380, 'title': 'Question about downloading videos', 'state': 'closed', 'created_at': '2016-08-12T21:02:12Z', 'closed_at': '2016-08-12T21:05:39Z', 'labels': []}
+{'issuenumber': 376, 'title': 'Execfile does not exist in py3k', 'state': 'closed', 'created_at': '2016-08-10T18:32:26Z', 'closed_at': '2016-08-11T12:58:25Z', 'labels': []}
+{'issuenumber': 374, 'title': 'dispatcher threads not terminated', 'state': 'closed', 'created_at': '2016-08-10T12:45:36Z', 'closed_at': '2016-08-11T12:13:55Z', 'labels': {'name': 'question'}}
+{'issuenumber': 373, 'title': 'Weird KeyError with ConversationHandler and CallbackQueryHandler', 'state': 'closed', 'created_at': '2016-08-10T09:38:27Z', 'closed_at': '2016-09-20T03:07:56Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 371, 'title': '[QUESTION] How to push something to bot', 'state': 'closed', 'created_at': '2016-08-09T11:25:57Z', 'closed_at': '2016-08-10T19:28:02Z', 'labels': []}
+{'issuenumber': 370, 'title': "telegram.error.BadRequest: u'Bad Request: chat not found'", 'state': 'closed', 'created_at': '2016-08-07T21:53:04Z', 'closed_at': '2016-08-10T10:22:58Z', 'labels': {'name': 'question'}}
+{'issuenumber': 366, 'title': 'RegexHandler: error with unicode strings (2.7)', 'state': 'closed', 'created_at': '2016-08-04T20:04:51Z', 'closed_at': '2016-09-02T23:18:52Z', 'labels': {'name': 'pending reply'}}
+{'issuenumber': 365, 'title': 'MessageEntity: text_mention', 'state': 'closed', 'created_at': '2016-08-04T12:07:10Z', 'closed_at': '2016-08-04T12:12:46Z', 'labels': {'name': 'question'}}
+{'issuenumber': 364, 'title': 'Read Timeout Error', 'state': 'closed', 'created_at': '2016-08-03T09:47:25Z', 'closed_at': '2017-01-07T18:16:35Z', 'labels': {'name': 'question'}}
+{'issuenumber': 363, 'title': 'Allow to add a certificate on the setwebhook', 'state': 'closed', 'created_at': '2016-07-31T16:52:32Z', 'closed_at': '2016-07-31T16:55:18Z', 'labels': {'name': 'question'}}
+{'issuenumber': 360, 'title': 'Installation error with buildout', 'state': 'closed', 'created_at': '2016-07-29T09:07:18Z', 'closed_at': '2016-08-06T00:55:06Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 359, 'title': 'urllib3 HTTPError [Errno 1] _ssl.c:1415: error:1408F119:SSL routines:SSL3_GET_RECORD:decryption failed or bad record mac', 'state': 'closed', 'created_at': '2016-07-26T22:33:19Z', 'closed_at': '2017-02-25T20:59:04Z', 'labels': {'name': 'pending reply'}}
+{'issuenumber': 358, 'title': "TypeError: __init__() got an unexpected keyword argument 'pass_job_queue'", 'state': 'closed', 'created_at': '2016-07-23T08:39:34Z', 'closed_at': '2016-08-06T00:55:17Z', 'labels': {'name': 'pending reply'}}
+{'issuenumber': 357, 'title': 'de_json() method messes with request', 'state': 'closed', 'created_at': '2016-07-22T12:58:09Z', 'closed_at': '2016-12-19T22:07:36Z', 'labels': []}
+{'issuenumber': 356, 'title': 'problem with ext submodule', 'state': 'closed', 'created_at': '2016-07-22T08:58:40Z', 'closed_at': '2016-07-25T10:35:07Z', 'labels': {'name': 'misc'}}
+{'issuenumber': 352, 'title': 'Update messages with a photo', 'state': 'closed', 'created_at': '2016-07-17T19:57:00Z', 'closed_at': '2016-07-18T16:19:53Z', 'labels': {'name': 'question'}}
+{'issuenumber': 351, 'title': 'Flask and webhoos', 'state': 'closed', 'created_at': '2016-07-16T10:40:20Z', 'closed_at': '2016-09-13T18:56:13Z', 'labels': {'name': 'question'}}
+{'issuenumber': 349, 'title': 'unitests for urllib3 behind proxy are required', 'state': 'closed', 'created_at': '2016-07-12T20:43:34Z', 'closed_at': '2017-10-11T21:11:00Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 347, 'title': 'Change in-message string formatting for log-string-formatting due to performance', 'state': 'closed', 'created_at': '2016-07-12T13:00:59Z', 'closed_at': '2016-07-12T14:09:17Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 346, 'title': 'SNIMissingWarning, InsecurePlatformWarning on urllib3 when using < Python 2.7.9', 'state': 'closed', 'created_at': '2016-07-12T12:56:15Z', 'closed_at': '2016-09-12T19:23:33Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 345, 'title': 'Drop Python 2.7 ', 'state': 'closed', 'created_at': '2016-07-11T22:47:55Z', 'closed_at': '2016-07-13T21:07:22Z', 'labels': {'name': 'misc'}}
+{'issuenumber': 343, 'title': 'No connect behind a proxy with authentication', 'state': 'closed', 'created_at': '2016-07-10T11:03:18Z', 'closed_at': '2016-07-13T13:09:38Z', 'labels': []}
+{'issuenumber': 341, 'title': 'urllib3: Connection pool is full, discarding connection: api.telegram.org', 'state': 'closed', 'created_at': '2016-07-09T04:50:41Z', 'closed_at': '2016-07-17T04:17:44Z', 'labels': {'name': 'question'}}
+{'issuenumber': 338, 'title': "Documentation doesn't build.", 'state': 'closed', 'created_at': '2016-07-07T19:22:19Z', 'closed_at': '2017-07-28T21:30:56Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 336, 'title': 'since 4.3 can´t connect behind proxy', 'state': 'closed', 'created_at': '2016-07-07T11:13:50Z', 'closed_at': '2016-07-08T20:53:57Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 335, 'title': 'User timezone', 'state': 'closed', 'created_at': '2016-07-04T04:35:26Z', 'closed_at': '2016-07-04T04:36:03Z', 'labels': {'name': 'misc'}}
+{'issuenumber': 334, 'title': 'Compatibility with GAE', 'state': 'closed', 'created_at': '2016-07-03T11:55:20Z', 'closed_at': '2017-04-29T09:29:51Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 333, 'title': 'set/change size of InlineKeyboardMarkup buttons like ReplyKeyboardMarkup', 'state': 'closed', 'created_at': '2016-07-02T21:20:42Z', 'closed_at': '2016-09-20T03:42:42Z', 'labels': {'name': 'question'}}
+{'issuenumber': 332, 'title': 'Initialization in Python 3 failing', 'state': 'closed', 'created_at': '2016-06-29T11:33:49Z', 'closed_at': '2016-06-29T14:09:05Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 330, 'title': 'IncompleteRead exception', 'state': 'closed', 'created_at': '2016-06-22T18:43:23Z', 'closed_at': '2017-02-25T20:50:10Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 328, 'title': 'Refactor InputFile to use urllib3', 'state': 'closed', 'created_at': '2016-06-20T03:36:11Z', 'closed_at': '2017-10-11T21:11:45Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 326, 'title': 'UnicodeDecodeError in bot.sendPhoto', 'state': 'closed', 'created_at': '2016-06-15T15:41:53Z', 'closed_at': '2016-06-16T15:43:27Z', 'labels': {'name': 'question'}}
+{'issuenumber': 324, 'title': "bot.sendPhoto doesn't work anymore", 'state': 'closed', 'created_at': '2016-06-12T09:59:04Z', 'closed_at': '2016-06-13T13:37:08Z', 'labels': {'name': 'misc'}}
+{'issuenumber': 323, 'title': 'Copy message from other channel', 'state': 'closed', 'created_at': '2016-06-10T06:28:01Z', 'closed_at': '2016-06-10T09:28:45Z', 'labels': []}
+{'issuenumber': 322, 'title': '[/] Button with list of commands is empty', 'state': 'closed', 'created_at': '2016-06-09T22:29:14Z', 'closed_at': '2016-06-09T22:59:36Z', 'labels': []}
+{'issuenumber': 320, 'title': 'editMessageText results in exception when inline_message_id parameter is used', 'state': 'closed', 'created_at': '2016-06-03T08:12:16Z', 'closed_at': '2016-06-04T09:20:04Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 319, 'title': 'Bot is responding to commands for other bots in group chats when privacy option is turned off', 'state': 'closed', 'created_at': '2016-06-01T10:35:32Z', 'closed_at': '2017-05-19T23:14:32Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 318, 'title': 'sendPhoto', 'state': 'closed', 'created_at': '2016-05-31T17:06:12Z', 'closed_at': '2016-06-02T18:28:08Z', 'labels': {'name': 'question'}}
+{'issuenumber': 316, 'title': 'CallbackQuery to_dict', 'state': 'closed', 'created_at': '2016-05-30T13:56:12Z', 'closed_at': '2016-05-30T14:36:24Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 313, 'title': '__main__ - WARNING - Update "None" caused error "Conflict: terminated by other long poll or webhook (409)', 'state': 'closed', 'created_at': '2016-05-28T17:51:55Z', 'closed_at': '2016-05-28T18:08:34Z', 'labels': {'name': 'question'}}
+{'issuenumber': 311, 'title': 'Getting chat_id from old, anwsered messages', 'state': 'closed', 'created_at': '2016-05-27T15:27:31Z', 'closed_at': '2016-05-27T22:55:16Z', 'labels': {'name': 'question'}}
+{'issuenumber': 309, 'title': 'Network is unreachable', 'state': 'closed', 'created_at': '2016-05-26T08:13:22Z', 'closed_at': '2016-05-28T18:14:54Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 302, 'title': 'Bot API 2.1', 'state': 'closed', 'created_at': '2016-05-22T15:08:24Z', 'closed_at': '2016-05-28T18:15:33Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 301, 'title': "__init__() got an unexpected keyword argument 'user'", 'state': 'closed', 'created_at': '2016-05-22T10:45:32Z', 'closed_at': '2016-05-22T11:09:36Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 298, 'title': 'Create an issue template', 'state': 'closed', 'created_at': '2016-05-19T15:27:15Z', 'closed_at': '2016-05-24T00:47:21Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 297, 'title': 'Intallation issue:  IndexError: list index out of range', 'state': 'closed', 'created_at': '2016-05-19T14:45:13Z', 'closed_at': '2016-05-19T15:01:47Z', 'labels': {'name': 'misc'}}
+{'issuenumber': 296, 'title': 'After update python-telegram-bot api doesnt work handlers', 'state': 'closed', 'created_at': '2016-05-18T16:24:52Z', 'closed_at': '2016-05-18T16:44:36Z', 'labels': {'name': 'misc'}}
+{'issuenumber': 295, 'title': 'user info', 'state': 'closed', 'created_at': '2016-05-17T10:04:54Z', 'closed_at': '2016-05-17T11:05:34Z', 'labels': []}
+{'issuenumber': 293, 'title': 'PyPi download stats have stopped', 'state': 'closed', 'created_at': '2016-05-14T13:27:39Z', 'closed_at': '2017-07-23T19:32:15Z', 'labels': {'name': 'misc'}}
+{'issuenumber': 292, 'title': 'unknown command handle example', 'state': 'closed', 'created_at': '2016-05-12T12:08:29Z', 'closed_at': '2016-05-12T12:14:55Z', 'labels': []}
+{'issuenumber': 290, 'title': 'Make Updater compatible with GAE', 'state': 'closed', 'created_at': '2016-05-11T19:46:33Z', 'closed_at': '2016-09-20T03:48:41Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 289, 'title': 'networkError when entering first update', 'state': 'closed', 'created_at': '2016-05-11T14:45:41Z', 'closed_at': '2016-05-11T14:51:15Z', 'labels': []}
+{'issuenumber': 288, 'title': '[Question] Is there any way to handle requests in multiple threads?', 'state': 'closed', 'created_at': '2016-05-10T11:59:46Z', 'closed_at': '2016-05-10T16:18:10Z', 'labels': {'name': 'question'}}
+{'issuenumber': 287, 'title': 'Add option to set args[0] in CommandHandler to command name', 'state': 'closed', 'created_at': '2016-05-09T08:43:00Z', 'closed_at': '2016-09-20T03:31:49Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 286, 'title': '[Question] How to get group chat id?', 'state': 'closed', 'created_at': '2016-05-09T08:40:09Z', 'closed_at': '2016-05-10T22:22:47Z', 'labels': {'name': 'question'}}
+{'issuenumber': 285, 'title': 'In the last two days, a timeout message appeared, never seen before', 'state': 'closed', 'created_at': '2016-05-09T05:33:01Z', 'closed_at': '2016-05-09T07:29:34Z', 'labels': []}
+{'issuenumber': 284, 'title': 'Recent changes in API', 'state': 'closed', 'created_at': '2016-05-08T15:31:49Z', 'closed_at': '2016-05-14T11:52:02Z', 'labels': {'name': 'API'}}
+{'issuenumber': 283, 'title': 'telegram.error.NetworkError: URLError: [Errno 101] Network is unreachable', 'state': 'closed', 'created_at': '2016-05-07T18:58:40Z', 'closed_at': '2016-05-07T21:45:02Z', 'labels': []}
+{'issuenumber': 281, 'title': 'data field in a job', 'state': 'closed', 'created_at': '2016-05-06T15:48:03Z', 'closed_at': '2016-06-29T14:21:57Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 280, 'title': 'unable to access job_queue list', 'state': 'closed', 'created_at': '2016-05-06T15:45:15Z', 'closed_at': '2016-06-29T14:22:29Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 279, 'title': 'Double response in examples and test code', 'state': 'closed', 'created_at': '2016-05-05T16:45:28Z', 'closed_at': '2016-05-05T17:08:57Z', 'labels': {'name': 'misc'}}
+{'issuenumber': 277, 'title': 'InlineKeyboardMarkup does not accepts InlineKeyboardButton', 'state': 'closed', 'created_at': '2016-05-02T11:55:24Z', 'closed_at': '2016-05-02T12:20:10Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 275, 'title': 'timeout when start_polling with clean=True', 'state': 'closed', 'created_at': '2016-05-02T06:14:58Z', 'closed_at': '2016-05-13T12:47:18Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 272, 'title': 'Inline query location', 'state': 'closed', 'created_at': '2016-05-01T16:27:46Z', 'closed_at': '2016-05-01T19:29:48Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 270, 'title': 'example program timerbot.py bug', 'state': 'closed', 'created_at': '2016-04-29T15:49:49Z', 'closed_at': '2016-04-30T08:21:13Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 268, 'title': "replykeyboardmarkup doesn't work with string keyboard buttons", 'state': 'closed', 'created_at': '2016-04-29T10:58:30Z', 'closed_at': '2016-04-30T08:21:51Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 267, 'title': 'invalid filter', 'state': 'closed', 'created_at': '2016-04-28T20:43:27Z', 'closed_at': '2016-04-28T20:56:33Z', 'labels': []}
+{'issuenumber': 266, 'title': 'Reduce some spam?', 'state': 'closed', 'created_at': '2016-04-28T15:52:15Z', 'closed_at': '2016-07-09T14:26:16Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 264, 'title': 'Update Class - Can only get 256 characters from an Inline query', 'state': 'closed', 'created_at': '2016-04-28T00:30:11Z', 'closed_at': '2016-04-28T00:53:09Z', 'labels': {'name': 'question'}}
+{'issuenumber': 262, 'title': "replace Bot's @message decorators with explicit context creation/modification", 'state': 'closed', 'created_at': '2016-04-27T22:18:11Z', 'closed_at': '2017-07-28T21:56:44Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 260, 'title': 'required: unitests for all MessageHandler filters', 'state': 'closed', 'created_at': '2016-04-25T15:27:42Z', 'closed_at': '2016-04-27T00:25:00Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 259, 'title': 'PEP8 and YAPF autoformatter', 'state': 'closed', 'created_at': '2016-04-25T13:38:33Z', 'closed_at': '2016-05-15T22:31:55Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 256, 'title': 'Get chat_id by username method', 'state': 'closed', 'created_at': '2016-04-25T03:07:52Z', 'closed_at': '2016-04-25T10:42:27Z', 'labels': {'name': 'question'}}
+{'issuenumber': 255, 'title': 'PEP8 issue: Methods should be snake case', 'state': 'closed', 'created_at': '2016-04-25T02:56:31Z', 'closed_at': '2016-05-14T13:56:24Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 250, 'title': "update_id attribute reference for class 'Message'", 'state': 'closed', 'created_at': '2016-04-24T00:22:20Z', 'closed_at': '2016-04-24T00:23:38Z', 'labels': []}
+{'issuenumber': 249, 'title': "Can't import InlineQueryHandler and other stuff", 'state': 'closed', 'created_at': '2016-04-23T16:49:27Z', 'closed_at': '2016-04-23T17:18:00Z', 'labels': []}
+{'issuenumber': 246, 'title': 'Error in inlinekeyboard_example.py', 'state': 'closed', 'created_at': '2016-04-22T22:40:17Z', 'closed_at': '2016-04-23T13:22:42Z', 'labels': {'name': 'question'}}
+{'issuenumber': 245, 'title': 'Drop Python 2.6', 'state': 'closed', 'created_at': '2016-04-21T16:57:33Z', 'closed_at': '2016-08-20T20:01:08Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 244, 'title': 'Weird network problems', 'state': 'closed', 'created_at': '2016-04-21T11:48:03Z', 'closed_at': '2016-05-14T13:36:34Z', 'labels': {'name': 'question'}}
+{'issuenumber': 243, 'title': 'Problem with decorated message handler functions', 'state': 'closed', 'created_at': '2016-04-20T17:52:02Z', 'closed_at': '2016-04-20T17:56:50Z', 'labels': []}
+{'issuenumber': 242, 'title': 'erro in replykeyboardmarkup.py', 'state': 'closed', 'created_at': '2016-04-20T07:53:06Z', 'closed_at': '2016-04-20T19:24:54Z', 'labels': []}
+{'issuenumber': 239, 'title': 'Issue on sendPhoto', 'state': 'closed', 'created_at': '2016-04-18T13:53:32Z', 'closed_at': '2016-05-23T22:28:21Z', 'labels': {'name': 'question'}}
+{'issuenumber': 238, 'title': 'Input of Make Test', 'state': 'closed', 'created_at': '2016-04-16T19:49:04Z', 'closed_at': '2016-04-16T20:21:42Z', 'labels': []}
+{'issuenumber': 236, 'title': 'Bot stopps working after reconnect of system', 'state': 'closed', 'created_at': '2016-04-16T14:22:35Z', 'closed_at': '2016-04-16T16:49:21Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 234, 'title': 'Change some classes due to consistency ', 'state': 'closed', 'created_at': '2016-04-15T11:10:23Z', 'closed_at': '2016-04-15T14:23:55Z', 'labels': []}
+{'issuenumber': 232, 'title': 'Bot API 2.0', 'state': 'closed', 'created_at': '2016-04-12T03:23:11Z', 'closed_at': '2016-04-22T14:37:27Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 231, 'title': 'Can I dynamically change the description field of the bot? Thanks', 'state': 'closed', 'created_at': '2016-04-11T21:55:57Z', 'closed_at': '2016-04-12T03:14:22Z', 'labels': {'name': 'question'}}
+{'issuenumber': 229, 'title': 'SSL handshake errror', 'state': 'closed', 'created_at': '2016-04-04T06:07:48Z', 'closed_at': '2016-04-23T00:25:37Z', 'labels': {'name': 'question'}}
+{'issuenumber': 228, 'title': 'Reply message when using telegram.ext.Updater', 'state': 'closed', 'created_at': '2016-04-03T17:31:28Z', 'closed_at': '2016-04-14T08:06:47Z', 'labels': {'name': 'question'}}
+{'issuenumber': 227, 'title': 'document exception handling', 'state': 'closed', 'created_at': '2016-04-03T12:43:13Z', 'closed_at': '2016-07-09T13:35:13Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 225, 'title': 'How to handle 400, 403 errors', 'state': 'closed', 'created_at': '2016-04-02T00:12:47Z', 'closed_at': '2016-04-03T12:41:32Z', 'labels': []}
+{'issuenumber': 224, 'title': "Pressing Ctrl-C several times in a row doesn't stop the bot gracefully", 'state': 'closed', 'created_at': '2016-03-31T18:38:47Z', 'closed_at': '2016-05-14T13:45:43Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 223, 'title': 'using webhook in google app engine', 'state': 'closed', 'created_at': '2016-03-27T21:54:48Z', 'closed_at': '2016-03-29T16:59:06Z', 'labels': {'name': 'question'}}
+{'issuenumber': 222, 'title': 'Strange database issue', 'state': 'closed', 'created_at': '2016-03-27T15:38:44Z', 'closed_at': '2016-03-28T12:29:55Z', 'labels': []}
+{'issuenumber': 221, 'title': '"run tests" procedure described in "python-telegram-bot#getting-the-code" does not work', 'state': 'closed', 'created_at': '2016-03-26T18:55:12Z', 'closed_at': '2016-03-31T18:39:03Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 216, 'title': 'Max timeout for start_polling is 50 sec', 'state': 'closed', 'created_at': '2016-03-23T05:47:04Z', 'closed_at': '2016-03-23T20:57:14Z', 'labels': []}
+{'issuenumber': 215, 'title': 'Using of start_webhook', 'state': 'closed', 'created_at': '2016-03-23T05:01:14Z', 'closed_at': '2016-03-28T12:11:05Z', 'labels': {'name': 'question'}}
+{'issuenumber': 214, 'title': 'Deprecated using in v3.4', 'state': 'closed', 'created_at': '2016-03-23T04:49:06Z', 'closed_at': '2016-03-23T08:28:01Z', 'labels': []}
+{'issuenumber': 212, 'title': 'How to create interaction longer than one message?', 'state': 'closed', 'created_at': '2016-03-21T14:38:26Z', 'closed_at': '2016-03-22T02:20:14Z', 'labels': {'name': 'question'}}
+{'issuenumber': 210, 'title': 'Bot hangs when calling `username` on update', 'state': 'closed', 'created_at': '2016-03-19T09:46:17Z', 'closed_at': '2016-03-20T22:34:48Z', 'labels': []}
+{'issuenumber': 209, 'title': 'start_polling(), no clean way to exit? (etc)', 'state': 'closed', 'created_at': '2016-03-19T00:14:00Z', 'closed_at': '2016-03-22T02:18:13Z', 'labels': {'name': 'question'}}
+{'issuenumber': 207, 'title': 'Issue with telegram webhook + changing DNS ', 'state': 'closed', 'created_at': '2016-03-17T16:08:33Z', 'closed_at': '2016-03-19T00:09:44Z', 'labels': []}
+{'issuenumber': 205, 'title': 'Updater class documentation', 'state': 'closed', 'created_at': '2016-03-15T12:37:42Z', 'closed_at': '2016-03-17T19:55:53Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 203, 'title': "jobQueue isn't able to send messages to every user", 'state': 'closed', 'created_at': '2016-03-14T15:52:05Z', 'closed_at': '2016-03-14T17:13:59Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 200, 'title': 'Dispatсher process command with no-break space like unknow command.', 'state': 'closed', 'created_at': '2016-03-13T00:36:11Z', 'closed_at': '2016-03-13T15:26:41Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 196, 'title': 'Invalid server response in request.py', 'state': 'closed', 'created_at': '2016-03-10T17:15:57Z', 'closed_at': '2016-03-17T12:06:25Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 194, 'title': 'pythonanywhere problem', 'state': 'closed', 'created_at': '2016-03-03T13:05:26Z', 'closed_at': '2016-03-11T19:48:42Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 193, 'title': 'Change debug level of telegram.bot', 'state': 'closed', 'created_at': '2016-03-03T12:13:24Z', 'closed_at': '2016-03-15T14:35:40Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 192, 'title': 'ImportError: cannot import name Updater', 'state': 'closed', 'created_at': '2016-03-02T11:15:35Z', 'closed_at': '2016-03-02T11:40:48Z', 'labels': []}
+{'issuenumber': 188, 'title': 'Missing unit test for answerInlineQuery and InlineQuery*', 'state': 'closed', 'created_at': '2016-02-28T10:34:08Z', 'closed_at': '2016-04-27T00:24:53Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 186, 'title': 'Adding internal information module', 'state': 'closed', 'created_at': '2016-02-25T20:51:48Z', 'closed_at': '2016-03-01T20:08:55Z', 'labels': []}
+{'issuenumber': 185, 'title': 'Better filtering for message handlers', 'state': 'closed', 'created_at': '2016-02-22T22:06:11Z', 'closed_at': '2016-04-23T01:31:50Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 184, 'title': 'Overextending the API', 'state': 'closed', 'created_at': '2016-02-22T21:17:29Z', 'closed_at': '2016-03-14T20:01:43Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 181, 'title': 'Using src as running code', 'state': 'closed', 'created_at': '2016-02-16T12:15:24Z', 'closed_at': '2016-03-01T20:40:32Z', 'labels': []}
+{'issuenumber': 180, 'title': 'Custom keyboard with the updater class', 'state': 'closed', 'created_at': '2016-02-12T11:06:31Z', 'closed_at': '2016-02-13T11:08:41Z', 'labels': []}
+{'issuenumber': 179, 'title': 'telegram.bot logging', 'state': 'closed', 'created_at': '2016-02-12T04:09:55Z', 'closed_at': '2016-02-12T07:05:02Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 178, 'title': 'Link to the group in `README.md` is invalid.', 'state': 'closed', 'created_at': '2016-02-11T04:07:25Z', 'closed_at': '2016-02-11T09:49:41Z', 'labels': []}
+{'issuenumber': 175, 'title': 'updater.py modification', 'state': 'closed', 'created_at': '2016-02-09T14:20:13Z', 'closed_at': '2016-02-20T10:56:47Z', 'labels': []}
+{'issuenumber': 173, 'title': 'Missing error reports', 'state': 'closed', 'created_at': '2016-02-07T21:05:10Z', 'closed_at': '2016-02-07T21:16:38Z', 'labels': {'name': 'question'}}
+{'issuenumber': 172, 'title': 'Question on "old" versus "new"', 'state': 'closed', 'created_at': '2016-02-07T15:59:33Z', 'closed_at': '2016-03-01T19:59:22Z', 'labels': {'name': 'question'}}
+{'issuenumber': 170, 'title': 'Inline Query', 'state': 'closed', 'created_at': '2016-02-04T18:23:47Z', 'closed_at': '2016-02-10T09:29:03Z', 'labels': []}
+{'issuenumber': 168, 'title': 'ParseMode HTML', 'state': 'closed', 'created_at': '2016-02-01T12:11:19Z', 'closed_at': '2016-02-04T22:05:47Z', 'labels': []}
+{'issuenumber': 167, 'title': 'switching off "No updates found" log messages', 'state': 'closed', 'created_at': '2016-01-29T14:53:41Z', 'closed_at': '2016-01-31T09:33:06Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 166, 'title': 'Handlers combinations', 'state': 'closed', 'created_at': '2016-01-28T12:56:28Z', 'closed_at': '2016-04-23T01:29:53Z', 'labels': {'name': 'question'}}
+{'issuenumber': 165, 'title': 'Use this wrapper to connect to whatsapp too!', 'state': 'closed', 'created_at': '2016-01-27T21:51:53Z', 'closed_at': '2016-01-27T22:50:20Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 160, 'title': 'How to use new Updater with webhook and flask', 'state': 'closed', 'created_at': '2016-01-23T13:12:05Z', 'closed_at': '2016-01-23T15:06:39Z', 'labels': []}
+{'issuenumber': 158, 'title': 'Implement HTML parse mode', 'state': 'closed', 'created_at': '2016-01-21T10:59:51Z', 'closed_at': '2016-01-21T11:14:31Z', 'labels': []}
+{'issuenumber': 156, 'title': 'Dispatcher.processUpdate update with context', 'state': 'closed', 'created_at': '2016-01-20T10:05:11Z', 'closed_at': '2016-01-25T16:50:12Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 154, 'title': 'multipart/form-data', 'state': 'closed', 'created_at': '2016-01-18T20:53:54Z', 'closed_at': '2016-01-20T13:29:27Z', 'labels': []}
+{'issuenumber': 153, 'title': 'httplib exceptions', 'state': 'closed', 'created_at': '2016-01-16T22:21:22Z', 'closed_at': '2016-01-22T01:48:11Z', 'labels': []}
+{'issuenumber': 150, 'title': 'Google App Engine Compatibility', 'state': 'closed', 'created_at': '2016-01-10T13:54:35Z', 'closed_at': '2016-03-11T20:20:08Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 147, 'title': "'Updater' object has no attribute 'job_queue'", 'state': 'closed', 'created_at': '2016-01-05T13:29:19Z', 'closed_at': '2016-01-06T14:13:45Z', 'labels': []}
+{'issuenumber': 146, 'title': 'Implement inline bots', 'state': 'closed', 'created_at': '2016-01-04T02:19:26Z', 'closed_at': '2016-02-28T01:10:47Z', 'labels': {'name': 'API'}}
+{'issuenumber': 144, 'title': 'Check against ChatID', 'state': 'closed', 'created_at': '2016-01-01T23:02:20Z', 'closed_at': '2016-01-03T22:02:32Z', 'labels': []}
+{'issuenumber': 143, 'title': 'Command handler works on commands to others bots', 'state': 'closed', 'created_at': '2016-01-01T20:26:19Z', 'closed_at': '2016-01-01T20:32:34Z', 'labels': []}
+{'issuenumber': 140, 'title': 'Send content to channel using bot', 'state': 'closed', 'created_at': '2015-12-30T18:34:12Z', 'closed_at': '2016-01-03T22:02:50Z', 'labels': []}
+{'issuenumber': 139, 'title': 'Send automatic messages', 'state': 'closed', 'created_at': '2015-12-27T21:45:12Z', 'closed_at': '2016-01-06T15:14:20Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 137, 'title': 'How to make a question inside a function?', 'state': 'closed', 'created_at': '2015-12-26T20:10:53Z', 'closed_at': '2015-12-27T01:19:48Z', 'labels': []}
+{'issuenumber': 135, 'title': 'all exceptions should be TelegramError', 'state': 'closed', 'created_at': '2015-12-25T19:37:22Z', 'closed_at': '2016-02-08T21:18:41Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 134, 'title': 'Bot.getMe() raises inconsistent exceptions', 'state': 'closed', 'created_at': '2015-12-25T19:28:47Z', 'closed_at': '2016-01-03T22:58:14Z', 'labels': []}
+{'issuenumber': 132, 'title': 'relicense examples to CC0?', 'state': 'closed', 'created_at': '2015-12-24T09:19:19Z', 'closed_at': '2015-12-26T09:23:18Z', 'labels': []}
+{'issuenumber': 131, 'title': "Getting `Bad Request: can't parse message text` exception", 'state': 'closed', 'created_at': '2015-12-23T17:48:47Z', 'closed_at': '2015-12-24T07:19:20Z', 'labels': []}
+{'issuenumber': 130, 'title': 'Telegram API for getFile function', 'state': 'closed', 'created_at': '2015-12-23T06:08:27Z', 'closed_at': '2015-12-24T10:28:05Z', 'labels': []}
+{'issuenumber': 129, 'title': 'reply_to_message_id not available in bot.py functions eventhough described in docstring', 'state': 'closed', 'created_at': '2015-12-21T21:05:27Z', 'closed_at': '2015-12-21T21:26:40Z', 'labels': {'name': 'question'}}
+{'issuenumber': 128, 'title': 'TelegramError: HTTP Error 502: Bad Gateway', 'state': 'closed', 'created_at': '2015-12-18T10:26:16Z', 'closed_at': '2015-12-21T10:45:30Z', 'labels': []}
+{'issuenumber': 126, 'title': 'send image from file', 'state': 'closed', 'created_at': '2015-12-12T22:22:46Z', 'closed_at': '2015-12-12T22:39:05Z', 'labels': []}
+{'issuenumber': 125, 'title': 'telegram.error.TelegramError: [Error]: Bad webhook: [Error]: Failed to set custom cert file', 'state': 'closed', 'created_at': '2015-12-09T12:09:59Z', 'closed_at': '2015-12-12T13:42:58Z', 'labels': []}
+{'issuenumber': 124, 'title': "TypeError: <_io.BufferedWriter name='webhook_cert.pem'> is not JSON serializable", 'state': 'closed', 'created_at': '2015-12-09T11:41:57Z', 'closed_at': '2015-12-09T12:01:02Z', 'labels': []}
+{'issuenumber': 123, 'title': '@run_async decorator with functions with a third argument ?', 'state': 'closed', 'created_at': '2015-12-07T23:03:56Z', 'closed_at': '2015-12-21T18:47:13Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 122, 'title': 'Updater not available ', 'state': 'closed', 'created_at': '2015-12-07T22:27:57Z', 'closed_at': '2015-12-07T23:19:14Z', 'labels': []}
+{'issuenumber': 121, 'title': 'No update is recieved', 'state': 'closed', 'created_at': '2015-12-07T20:40:14Z', 'closed_at': '2015-12-12T13:42:32Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 120, 'title': 'TelegramError: <urlopen error [Errno -2] Name or service not known>', 'state': 'closed', 'created_at': '2015-12-07T19:24:10Z', 'closed_at': '2015-12-12T13:41:23Z', 'labels': {'name': 'question'}}
+{'issuenumber': 119, 'title': 'Sending images from bytes.', 'state': 'closed', 'created_at': '2015-12-07T11:40:16Z', 'closed_at': '2016-04-23T12:38:14Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 118, 'title': "ImportError: cannot import name 'Updater'", 'state': 'closed', 'created_at': '2015-12-05T11:35:51Z', 'closed_at': '2015-12-05T13:04:39Z', 'labels': []}
+{'issuenumber': 117, 'title': 'Cannot import name Updater', 'state': 'closed', 'created_at': '2015-12-04T12:47:45Z', 'closed_at': '2015-12-04T14:24:06Z', 'labels': []}
+{'issuenumber': 116, 'title': 'Proposed refactoring of Bot, Updater and Dispatcher', 'state': 'closed', 'created_at': '2015-12-02T14:37:33Z', 'closed_at': '2015-12-31T14:51:24Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 115, 'title': 'Clarification of dispatcher.py::processUpdate()', 'state': 'closed', 'created_at': '2015-12-02T13:33:40Z', 'closed_at': '2015-12-02T13:53:02Z', 'labels': []}
+{'issuenumber': 112, 'title': 'webhook', 'state': 'closed', 'created_at': '2015-11-30T20:45:09Z', 'closed_at': '2015-11-30T22:04:07Z', 'labels': []}
+{'issuenumber': 111, 'title': 'Cant send Photo', 'state': 'closed', 'created_at': '2015-11-25T16:53:44Z', 'closed_at': '2015-11-30T10:23:56Z', 'labels': {'name': 'question'}}
+{'issuenumber': 108, 'title': 'lots of urllib and ssl exceptions', 'state': 'closed', 'created_at': '2015-11-24T18:00:14Z', 'closed_at': '2015-11-30T11:01:56Z', 'labels': {'name': 'question'}}
+{'issuenumber': 107, 'title': 'TelegramError: HTTP Error 403: Forbidden', 'state': 'closed', 'created_at': '2015-11-24T15:40:36Z', 'closed_at': '2015-11-25T04:34:49Z', 'labels': []}
+{'issuenumber': 106, 'title': 'Not able to create instance of telegram.Bot', 'state': 'closed', 'created_at': '2015-11-24T05:34:32Z', 'closed_at': '2015-11-24T14:16:41Z', 'labels': []}
+{'issuenumber': 103, 'title': "Now using your lybrary, can't send message to private user without exception", 'state': 'closed', 'created_at': '2015-11-17T08:41:03Z', 'closed_at': '2015-11-20T15:25:03Z', 'labels': {'name': 'question'}}
+{'issuenumber': 101, 'title': "Can't send_Message to myself!", 'state': 'closed', 'created_at': '2015-11-17T00:14:31Z', 'closed_at': '2015-11-17T00:20:12Z', 'labels': []}
+{'issuenumber': 100, 'title': 'Error in testing credentials, would you please guide me', 'state': 'closed', 'created_at': '2015-11-15T09:53:18Z', 'closed_at': '2015-11-15T12:17:51Z', 'labels': []}
+{'issuenumber': 98, 'title': 'installation error', 'state': 'closed', 'created_at': '2015-11-11T10:44:33Z', 'closed_at': '2015-11-11T13:38:33Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 94, 'title': 'long time to telegram.bot - DEBUG - Entering: sendMessage', 'state': 'closed', 'created_at': '2015-11-09T12:12:42Z', 'closed_at': '2016-05-18T22:15:55Z', 'labels': {'name': 'question'}}
+{'issuenumber': 93, 'title': 'Custom Keyboard', 'state': 'closed', 'created_at': '2015-11-05T17:26:06Z', 'closed_at': '2015-11-05T18:43:45Z', 'labels': []}
+{'issuenumber': 89, 'title': 'Pending update process without error (after network crash)', 'state': 'closed', 'created_at': '2015-11-01T20:41:07Z', 'closed_at': '2015-11-10T04:36:49Z', 'labels': []}
+{'issuenumber': 86, 'title': '@ character', 'state': 'closed', 'created_at': '2015-10-23T12:13:49Z', 'closed_at': '2015-11-10T03:58:21Z', 'labels': []}
+{'issuenumber': 84, 'title': 'Issue with API update: 8th Oct, 2015 - message.from should be optional', 'state': 'closed', 'created_at': '2015-10-21T15:11:44Z', 'closed_at': '2015-11-10T14:35:51Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 83, 'title': 'Pyton does not define a variable .bot', 'state': 'closed', 'created_at': '2015-10-19T12:41:53Z', 'closed_at': '2015-10-23T10:27:42Z', 'labels': {'name': 'question'}}
+{'issuenumber': 82, 'title': 'Adding a python Bot to a Group Chat', 'state': 'closed', 'created_at': '2015-10-15T19:18:43Z', 'closed_at': '2015-11-11T00:58:05Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 81, 'title': 'Example is hiding a no-ack issue', 'state': 'closed', 'created_at': '2015-10-15T06:27:34Z', 'closed_at': '2015-11-10T19:39:29Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 80, 'title': 'JSON error when trying to send Emoji on Python 3.4', 'state': 'closed', 'created_at': '2015-10-15T04:27:03Z', 'closed_at': '2015-11-10T14:36:38Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 79, 'title': 'Exception while parsing HTTPError in request.py post method', 'state': 'closed', 'created_at': '2015-10-11T12:38:15Z', 'closed_at': '2015-11-12T18:17:02Z', 'labels': {'name': 'API'}}
+{'issuenumber': 78, 'title': 'Logging exception', 'state': 'closed', 'created_at': '2015-10-10T08:12:08Z', 'closed_at': '2015-10-23T08:06:48Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 77, 'title': 'API updates: 8th Oct, 2015', 'state': 'closed', 'created_at': '2015-10-08T21:05:57Z', 'closed_at': '2015-12-16T16:21:11Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 76, 'title': 'video.py to_dict', 'state': 'closed', 'created_at': '2015-10-08T14:25:49Z', 'closed_at': '2015-11-11T13:55:50Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 75, 'title': 'Get phone number', 'state': 'closed', 'created_at': '2015-10-07T12:52:55Z', 'closed_at': '2015-10-07T12:57:37Z', 'labels': {'name': 'question'}}
+{'issuenumber': 72, 'title': 'echobot example crashes because of byte encoded strings (python3) ', 'state': 'closed', 'created_at': '2015-09-22T14:24:21Z', 'closed_at': '2015-11-11T14:00:24Z', 'labels': {'name': 'question'}}
+{'issuenumber': 69, 'title': 'API update: getFile method', 'state': 'closed', 'created_at': '2015-09-18T18:01:33Z', 'closed_at': '2015-09-20T16:09:58Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 66, 'title': 'getting music?', 'state': 'closed', 'created_at': '2015-09-14T15:37:56Z', 'closed_at': '2015-09-20T16:09:36Z', 'labels': {'name': 'question'}}
+{'issuenumber': 65, 'title': 'Audio regression: UnicodeDecodeError when decoding performer/title', 'state': 'closed', 'created_at': '2015-09-14T15:04:38Z', 'closed_at': '2015-09-24T12:35:17Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 64, 'title': 'Problem ssl Violation Protocol', 'state': 'closed', 'created_at': '2015-09-14T14:41:41Z', 'closed_at': '2015-09-14T23:49:54Z', 'labels': {'name': 'question'}}
+{'issuenumber': 63, 'title': 'ValueError: No JSON object could be decoded', 'state': 'closed', 'created_at': '2015-09-11T17:35:10Z', 'closed_at': '2015-09-24T12:35:30Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 61, 'title': 'Use requests library if available', 'state': 'closed', 'created_at': '2015-09-10T17:25:36Z', 'closed_at': '2016-01-04T03:56:27Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 58, 'title': 'Markdown support for sendMessage', 'state': 'closed', 'created_at': '2015-09-09T11:55:50Z', 'closed_at': '2015-09-10T19:21:59Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 56, 'title': 'ability to use custom filename in sendDocument etc.', 'state': 'closed', 'created_at': '2015-09-08T16:19:12Z', 'closed_at': '2015-09-10T11:57:23Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 53, 'title': 'New webhook support', 'state': 'closed', 'created_at': '2015-09-03T12:38:58Z', 'closed_at': '2015-09-04T21:25:32Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 52, 'title': 'command handler pull requests #47 and #51', 'state': 'closed', 'created_at': '2015-09-02T23:55:26Z', 'closed_at': '2016-01-04T03:52:05Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 49, 'title': 'sendDocument does file_content.encode()?', 'state': 'closed', 'created_at': '2015-08-31T01:34:31Z', 'closed_at': '2015-09-02T12:02:42Z', 'labels': []}
+{'issuenumber': 48, 'title': 'Better documentation for Asynchronous Implementation', 'state': 'closed', 'created_at': '2015-08-30T13:17:08Z', 'closed_at': '2015-08-31T17:07:58Z', 'labels': []}
+{'issuenumber': 44, 'title': "sendVideo by file_id doesn't return file_size", 'state': 'closed', 'created_at': '2015-08-22T01:54:37Z', 'closed_at': '2015-09-10T11:58:09Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 42, 'title': "Can't serialize replied Message object", 'state': 'closed', 'created_at': '2015-08-19T15:53:08Z', 'closed_at': '2015-08-19T19:19:51Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 41, 'title': 'Use bot.getUpdates() in asyncio-eventloop', 'state': 'closed', 'created_at': '2015-08-18T18:48:11Z', 'closed_at': '2015-11-30T22:14:51Z', 'labels': {'name': 'question'}}
+{'issuenumber': 40, 'title': 'Error HTTP 502 in long polling (bot.getUpdates)', 'state': 'closed', 'created_at': '2015-08-18T17:56:18Z', 'closed_at': '2015-08-20T09:11:55Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 39, 'title': 'New object Voice and sendVoice method', 'state': 'closed', 'created_at': '2015-08-17T12:55:02Z', 'closed_at': '2015-08-17T16:11:47Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 38, 'title': 'Unable to JSON serialize forwarded messages', 'state': 'closed', 'created_at': '2015-08-17T03:16:22Z', 'closed_at': '2015-08-17T12:59:31Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 37, 'title': 'InputFile fails to parse JPG header on Python 2.7.3', 'state': 'closed', 'created_at': '2015-08-15T17:58:11Z', 'closed_at': '2015-08-15T18:00:39Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 36, 'title': 'Better documentation of best practices for error handling', 'state': 'closed', 'created_at': '2015-08-13T01:21:22Z', 'closed_at': '2016-01-04T04:02:01Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 35, 'title': 'Datefy message.date', 'state': 'closed', 'created_at': '2015-08-13T00:25:20Z', 'closed_at': '2015-08-14T18:50:01Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 34, 'title': 'Give contributors credit in AUTHORS file', 'state': 'closed', 'created_at': '2015-08-12T21:38:09Z', 'closed_at': '2015-08-13T00:24:33Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 33, 'title': 'Avoid calling getMe() to validate token when unplicking Bot object', 'state': 'closed', 'created_at': '2015-08-12T21:32:46Z', 'closed_at': '2015-08-14T19:29:40Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 32, 'title': 'Telegram Bot API changes (July 2015)', 'state': 'closed', 'created_at': '2015-08-11T20:12:18Z', 'closed_at': '2015-08-11T20:46:50Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 31, 'title': "can't pickle lock objects", 'state': 'closed', 'created_at': '2015-08-11T14:32:59Z', 'closed_at': '2015-08-12T02:53:25Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 30, 'title': 'Force close if client send Sticker to bot', 'state': 'closed', 'created_at': '2015-08-11T11:16:58Z', 'closed_at': '2015-08-11T13:49:33Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 29, 'title': 'Access to audio file object', 'state': 'closed', 'created_at': '2015-08-11T07:53:38Z', 'closed_at': '2015-08-11T13:49:53Z', 'labels': {'name': 'question'}}
+{'issuenumber': 28, 'title': 'How to get username and first_name?', 'state': 'closed', 'created_at': '2015-08-10T16:34:20Z', 'closed_at': '2015-08-11T01:04:48Z', 'labels': {'name': 'question'}}
+{'issuenumber': 27, 'title': 'Unicode compatibility issue', 'state': 'closed', 'created_at': '2015-08-10T02:38:30Z', 'closed_at': '2015-09-10T19:21:09Z', 'labels': {'name': 'question'}}
+{'issuenumber': 26, 'title': 'How to get last unread message, bot.getUpdates()[-1].update_id - return last received message', 'state': 'closed', 'created_at': '2015-08-09T07:54:03Z', 'closed_at': '2015-08-10T13:52:42Z', 'labels': {'name': 'question'}}
+{'issuenumber': 25, 'title': 'error when trying get first_name or other data from update.message.from', 'state': 'closed', 'created_at': '2015-08-08T10:18:30Z', 'closed_at': '2015-08-08T21:59:26Z', 'labels': {'name': 'question'}}
+{'issuenumber': 21, 'title': 'Disable logging', 'state': 'closed', 'created_at': '2015-07-29T20:38:34Z', 'closed_at': '2015-08-09T12:42:16Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 20, 'title': 'http proxy support', 'state': 'closed', 'created_at': '2015-07-29T19:25:18Z', 'closed_at': '2015-10-28T23:41:56Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 17, 'title': 'Ensure encoding consistence', 'state': 'closed', 'created_at': '2015-07-20T02:42:52Z', 'closed_at': '2015-08-08T22:37:36Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 16, 'title': 'Make tests more generic', 'state': 'closed', 'created_at': '2015-07-20T00:57:24Z', 'closed_at': '2016-04-23T00:32:28Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 15, 'title': 'Enable logging', 'state': 'closed', 'created_at': '2015-07-20T00:54:28Z', 'closed_at': '2015-07-25T23:59:21Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 14, 'title': 'sendDocument seems to damage the file', 'state': 'closed', 'created_at': '2015-07-19T08:55:46Z', 'closed_at': '2015-08-08T23:23:27Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 13, 'title': "Photos can't be printed", 'state': 'closed', 'created_at': '2015-07-17T22:33:30Z', 'closed_at': '2015-07-20T02:26:39Z', 'labels': {'name': 'bug :bug:'}}
+{'issuenumber': 12, 'title': "Printing an update isn't too pretty", 'state': 'closed', 'created_at': '2015-07-17T22:31:35Z', 'closed_at': '2015-07-20T02:10:08Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 10, 'title': 'getitem method for User objects', 'state': 'closed', 'created_at': '2015-07-16T04:14:06Z', 'closed_at': '2015-07-17T17:57:00Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 8, 'title': 'echobot.py gives IndexError: list index out of range', 'state': 'closed', 'created_at': '2015-07-14T12:52:08Z', 'closed_at': '2015-07-15T10:48:44Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 7, 'title': 'Uncaught exception', 'state': 'closed', 'created_at': '2015-07-13T13:58:30Z', 'closed_at': '2015-07-15T10:44:55Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 6, 'title': 'Update_ID', 'state': 'closed', 'created_at': '2015-07-12T10:43:12Z', 'closed_at': '2015-07-12T13:46:15Z', 'labels': {'name': 'question'}}
+{'issuenumber': 5, 'title': 'Use decorators for sendAudio, sendVideo, sendDocument and sendPhotos methods', 'state': 'closed', 'created_at': '2015-07-11T13:52:15Z', 'closed_at': '2015-07-11T22:28:25Z', 'labels': {'name': 'enhancement'}}

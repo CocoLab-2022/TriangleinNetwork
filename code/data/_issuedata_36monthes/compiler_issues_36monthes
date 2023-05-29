@@ -1,0 +1,561 @@
+{'issuenumber': 920, 'title': 'Confusion with dependencies', 'state': 'closed', 'created_at': '2015-04-27T16:32:31Z', 'closed_at': '2015-08-06T01:53:02Z', 'labels': []}
+{'issuenumber': 919, 'title': 'Signal.merge Behavior for First Element', 'state': 'closed', 'created_at': '2015-04-26T07:00:35Z', 'closed_at': '2015-04-29T13:06:21Z', 'labels': []}
+{'issuenumber': 917, 'title': 'No kind checking - subrecords can be non-records', 'state': 'closed', 'created_at': '2015-04-24T19:48:43Z', 'closed_at': '2015-10-19T02:18:36Z', 'labels': []}
+{'issuenumber': 916, 'title': 'Cannot compile Elm 0.15', 'state': 'closed', 'created_at': '2015-04-23T08:37:44Z', 'closed_at': '2015-08-29T03:11:00Z', 'labels': []}
+{'issuenumber': 915, 'title': 'elm-doc should error on non-exported name in @docs', 'state': 'closed', 'created_at': '2015-04-21T03:03:33Z', 'closed_at': '2015-05-10T00:21:23Z', 'labels': []}
+{'issuenumber': 914, 'title': 'Specifying Source Character Encoding', 'state': 'closed', 'created_at': '2015-04-20T17:07:33Z', 'closed_at': '2015-06-13T00:39:14Z', 'labels': []}
+{'issuenumber': 913, 'title': 'List of known runtime errors', 'state': 'closed', 'created_at': '2015-04-12T17:53:57Z', 'closed_at': '2015-08-29T21:00:52Z', 'labels': []}
+{'issuenumber': 912, 'title': 'Runtime error with mutually recursive records', 'state': 'closed', 'created_at': '2015-04-12T17:34:38Z', 'closed_at': '2015-08-06T02:49:31Z', 'labels': []}
+{'issuenumber': 911, 'title': 'Listing of Difficult-to-understand Compiler Errors', 'state': 'closed', 'created_at': '2015-04-12T05:31:03Z', 'closed_at': '2015-05-07T23:35:18Z', 'labels': []}
+{'issuenumber': 910, 'title': '"input is undefined" runtime error when using WebSockets', 'state': 'closed', 'created_at': '2015-04-09T13:23:35Z', 'closed_at': '2015-04-10T00:23:44Z', 'labels': []}
+{'issuenumber': 909, 'title': 'Got "the notify function has been called synchronously" error', 'state': 'closed', 'created_at': '2015-04-07T15:40:01Z', 'closed_at': '2015-10-24T02:07:19Z', 'labels': []}
+{'issuenumber': 908, 'title': 'Proposal: special syntax for tasks', 'state': 'closed', 'created_at': '2015-04-03T21:41:52Z', 'closed_at': '2016-05-12T23:34:35Z', 'labels': []}
+{'issuenumber': 906, 'title': 'Issue with Array.append', 'state': 'closed', 'created_at': '2015-04-02T00:36:50Z', 'closed_at': '2015-04-02T00:40:55Z', 'labels': []}
+{'issuenumber': 905, 'title': 'Proposal: String Interpolation', 'state': 'closed', 'created_at': '2015-03-30T16:06:45Z', 'closed_at': '2018-03-06T23:15:31Z', 'labels': []}
+{'issuenumber': 904, 'title': "record updates don't work with module names", 'state': 'closed', 'created_at': '2015-03-30T04:18:45Z', 'closed_at': '2015-08-29T03:16:19Z', 'labels': []}
+{'issuenumber': 903, 'title': 'Constant is not sent to JS through port', 'state': 'closed', 'created_at': '2015-03-25T14:22:52Z', 'closed_at': '2015-08-06T02:57:32Z', 'labels': []}
+{'issuenumber': 901, 'title': 'Proposal: require spaces between numbers and variables', 'state': 'closed', 'created_at': '2015-03-19T11:04:10Z', 'closed_at': '2016-05-12T23:49:20Z', 'labels': {'name': 'parsing'}}
+{'issuenumber': 900, 'title': 'Removing Signals', 'state': 'closed', 'created_at': '2015-03-12T05:02:34Z', 'closed_at': '2015-03-12T05:54:19Z', 'labels': []}
+{'issuenumber': 899, 'title': "Shouldn't we tell which is the expected and which is the actual type on error messages.", 'state': 'closed', 'created_at': '2015-03-12T04:25:47Z', 'closed_at': '2015-05-07T23:45:59Z', 'labels': []}
+{'issuenumber': 898, 'title': 'Unable to pass tuple through port into Elm', 'state': 'closed', 'created_at': '2015-03-12T00:54:01Z', 'closed_at': '2016-07-15T21:20:52Z', 'labels': {'name': 'ports'}}
+{'issuenumber': 897, 'title': 'Runtime error with record extension', 'state': 'closed', 'created_at': '2015-02-28T22:31:09Z', 'closed_at': '2015-08-06T04:37:45Z', 'labels': []}
+{'issuenumber': 896, 'title': 'Poor error message on parsing incorrect record update syntax', 'state': 'closed', 'created_at': '2015-02-26T15:49:47Z', 'closed_at': '2015-05-08T00:23:06Z', 'labels': []}
+{'issuenumber': 895, 'title': 'build script link broken', 'state': 'closed', 'created_at': '2015-02-20T05:27:59Z', 'closed_at': '2015-05-07T23:37:32Z', 'labels': []}
+{'issuenumber': 894, 'title': 'characters --|> are not coonsidered a comment and they are interpreted as a variable', 'state': 'closed', 'created_at': '2015-02-14T21:26:35Z', 'closed_at': '2015-10-23T10:01:23Z', 'labels': []}
+{'issuenumber': 893, 'title': 'Unicode Error with (U+00A0)', 'state': 'closed', 'created_at': '2015-02-13T02:11:45Z', 'closed_at': '2015-08-05T23:41:36Z', 'labels': []}
+{'issuenumber': 891, 'title': 'why use : for type annotation? use :: for list construction ?', 'state': 'closed', 'created_at': '2015-02-09T01:17:31Z', 'closed_at': '2015-02-09T04:44:08Z', 'labels': []}
+{'issuenumber': 890, 'title': "HTML buttons can't be clicked inside of elements", 'state': 'closed', 'created_at': '2015-02-08T14:47:57Z', 'closed_at': '2015-08-06T01:09:29Z', 'labels': []}
+{'issuenumber': 889, 'title': 'Inconsistency/unsoundness in type system due to channels', 'state': 'closed', 'created_at': '2015-02-05T14:50:13Z', 'closed_at': '2016-05-12T23:23:33Z', 'labels': []}
+{'issuenumber': 888, 'title': 'Memoize module make functions in the embedded scenario', 'state': 'closed', 'created_at': '2015-01-27T11:41:25Z', 'closed_at': '2016-05-12T18:05:27Z', 'labels': []}
+{'issuenumber': 887, 'title': 'elm-doc expects docs before imports', 'state': 'closed', 'created_at': '2015-01-27T00:53:48Z', 'closed_at': '2015-05-10T00:21:38Z', 'labels': []}
+{'issuenumber': 886, 'title': 'elm-doc fails when not given a filename', 'state': 'closed', 'created_at': '2015-01-27T00:48:26Z', 'closed_at': '2015-03-01T20:19:58Z', 'labels': []}
+{'issuenumber': 885, 'title': 'Setting field causes compiler stackoverflow', 'state': 'closed', 'created_at': '2015-01-25T00:17:40Z', 'closed_at': '2015-08-29T01:55:18Z', 'labels': []}
+{'issuenumber': 884, 'title': 'You can export the same symbol multiple times', 'state': 'closed', 'created_at': '2015-01-21T22:43:45Z', 'closed_at': '2015-08-19T03:33:36Z', 'labels': []}
+{'issuenumber': 883, 'title': "Main doesn't handle aliased types", 'state': 'closed', 'created_at': '2015-01-21T15:26:38Z', 'closed_at': '2015-03-01T17:59:39Z', 'labels': []}
+{'issuenumber': 882, 'title': 'Confusing compiler error distant from actual error', 'state': 'closed', 'created_at': '2015-01-21T01:09:51Z', 'closed_at': '2015-08-05T23:45:53Z', 'labels': []}
+{'issuenumber': 881, 'title': 'Abstract types omitted from elm-doc output', 'state': 'closed', 'created_at': '2015-01-20T23:52:17Z', 'closed_at': '2015-05-10T00:23:07Z', 'labels': []}
+{'issuenumber': 880, 'title': 'Unifying comparable and appendable fails', 'state': 'closed', 'created_at': '2015-01-11T21:55:28Z', 'closed_at': '2015-10-13T23:50:14Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 878, 'title': 'Flooring division (//) incorrect for big numbers', 'state': 'closed', 'created_at': '2015-01-11T00:43:54Z', 'closed_at': '2015-01-11T01:06:34Z', 'labels': []}
+{'issuenumber': 875, 'title': "Apostrophes in record types don't get quoted correctly in javascript", 'state': 'closed', 'created_at': '2015-01-06T18:58:06Z', 'closed_at': '2015-01-08T01:02:22Z', 'labels': []}
+{'issuenumber': 874, 'title': 'Multiple imports are not additive', 'state': 'closed', 'created_at': '2015-01-06T01:14:52Z', 'closed_at': '2015-04-29T13:16:55Z', 'labels': []}
+{'issuenumber': 873, 'title': 'Invalid recursive values should be a compiler error, not a runtime exception', 'state': 'closed', 'created_at': '2015-01-05T08:52:45Z', 'closed_at': '2016-10-11T17:27:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 872, 'title': 'Name collision is not detected', 'state': 'closed', 'created_at': '2015-01-04T20:28:22Z', 'closed_at': '2015-01-05T08:53:15Z', 'labels': []}
+{'issuenumber': 871, 'title': 'Weird errors with qualified names and record update syntax.', 'state': 'closed', 'created_at': '2014-12-31T21:10:17Z', 'closed_at': '2015-01-09T18:02:13Z', 'labels': []}
+{'issuenumber': 870, 'title': 'Fix broken compiler tests', 'state': 'closed', 'created_at': '2014-12-31T19:13:08Z', 'closed_at': '2015-03-02T16:21:35Z', 'labels': []}
+{'issuenumber': 868, 'title': 'repeated variable in pattern matching has weird result', 'state': 'closed', 'created_at': '2014-12-31T08:33:10Z', 'closed_at': '2015-09-28T23:44:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 867, 'title': 'rendering problem in firefox with input fields and flow right inside of flow down', 'state': 'closed', 'created_at': '2014-12-30T11:18:59Z', 'closed_at': '2015-08-29T21:34:41Z', 'labels': []}
+{'issuenumber': 866, 'title': "Error while editing code loaded in debugger (invalid 'in' operand debuggedModule.main)", 'state': 'closed', 'created_at': '2014-12-29T20:48:44Z', 'closed_at': '2015-01-08T08:53:13Z', 'labels': []}
+{'issuenumber': 865, 'title': 'Omitting type signature causes stack overflow, other errors', 'state': 'closed', 'created_at': '2014-12-29T20:23:02Z', 'closed_at': '2018-03-07T00:05:06Z', 'labels': {'name': 'no sscce'}}
+{'issuenumber': 864, 'title': 'Removing unused Text import breaks compiled elm.js', 'state': 'closed', 'created_at': '2014-12-23T01:37:39Z', 'closed_at': '2015-08-05T23:49:32Z', 'labels': []}
+{'issuenumber': 863, 'title': "Type errors don't display instantiated type variables", 'state': 'closed', 'created_at': '2014-12-22T22:02:40Z', 'closed_at': '2015-05-07T18:04:17Z', 'labels': []}
+{'issuenumber': 862, 'title': 'Wrong HTML element disappears in state transition', 'state': 'closed', 'created_at': '2014-12-21T19:35:54Z', 'closed_at': '2015-01-06T06:42:48Z', 'labels': []}
+{'issuenumber': 860, 'title': 'Ports add quotations when parsing strings', 'state': 'closed', 'created_at': '2014-12-19T20:24:54Z', 'closed_at': '2014-12-20T03:03:22Z', 'labels': []}
+{'issuenumber': 859, 'title': 'Example of "The notify function has been called synchronously! This can lead to frames being dropped."', 'state': 'closed', 'created_at': '2014-12-18T10:54:24Z', 'closed_at': '2015-01-05T11:54:59Z', 'labels': []}
+{'issuenumber': 858, 'title': 'Unicode character literal causes parse error', 'state': 'closed', 'created_at': '2014-12-16T19:17:04Z', 'closed_at': '2014-12-16T20:03:36Z', 'labels': []}
+{'issuenumber': 857, 'title': 'Update elm version on hackage to 0.14', 'state': 'closed', 'created_at': '2014-12-16T14:41:47Z', 'closed_at': '2014-12-16T23:17:41Z', 'labels': []}
+{'issuenumber': 856, 'title': 'Elm.worker expects document to be available', 'state': 'closed', 'created_at': '2014-12-15T20:57:08Z', 'closed_at': '2015-08-05T23:51:09Z', 'labels': []}
+{'issuenumber': 855, 'title': 'Canvas elements are blurry on high DPI (Retina) display', 'state': 'closed', 'created_at': '2014-12-14T22:07:42Z', 'closed_at': '2015-08-05T23:53:17Z', 'labels': []}
+{'issuenumber': 854, 'title': '(==) : eq -> eq -> Bool', 'state': 'closed', 'created_at': '2014-12-14T20:53:36Z', 'closed_at': '2014-12-15T23:15:54Z', 'labels': []}
+{'issuenumber': 853, 'title': 'File being compiled is not shown when there is an error on the "module ..." line', 'state': 'closed', 'created_at': '2014-12-14T02:21:47Z', 'closed_at': '2015-05-10T00:29:14Z', 'labels': []}
+{'issuenumber': 852, 'title': '0.14 - implicit Int to Float conversion no longer occurring for named values', 'state': 'closed', 'created_at': '2014-12-13T22:41:31Z', 'closed_at': '2014-12-13T23:33:14Z', 'labels': []}
+{'issuenumber': 851, 'title': '0.14 cannot unify type variables a and comparable', 'state': 'closed', 'created_at': '2014-12-13T21:38:04Z', 'closed_at': '2014-12-14T03:31:12Z', 'labels': []}
+{'issuenumber': 850, 'title': '"Maximum Call Stack Size Exceeded" when drawing randomly generated grid', 'state': 'closed', 'created_at': '2014-12-13T00:28:52Z', 'closed_at': '2015-08-06T01:12:26Z', 'labels': []}
+{'issuenumber': 849, 'title': 'Crashing with Partial Applications and Partial Functions', 'state': 'closed', 'created_at': '2014-12-12T05:23:21Z', 'closed_at': '2016-05-13T00:00:54Z', 'labels': []}
+{'issuenumber': 848, 'title': 'type errors for pattern match left-hand-sides lack line/column numbers', 'state': 'closed', 'created_at': '2014-12-11T20:36:08Z', 'closed_at': '2015-05-07T17:40:05Z', 'labels': []}
+{'issuenumber': 847, 'title': "shadowing an imported name doesn't error", 'state': 'closed', 'created_at': '2014-12-11T17:31:55Z', 'closed_at': '2014-12-11T23:13:56Z', 'labels': []}
+{'issuenumber': 846, 'title': 'Overunification', 'state': 'closed', 'created_at': '2014-12-11T03:42:09Z', 'closed_at': '2014-12-11T04:18:38Z', 'labels': []}
+{'issuenumber': 845, 'title': 'feature request: "map" function for Handle, (b -> a) -> Handle a -> Handle b', 'state': 'closed', 'created_at': '2014-12-07T14:10:24Z', 'closed_at': '2014-12-08T00:12:36Z', 'labels': []}
+{'issuenumber': 844, 'title': "Compiler's state gets corrupted: Could not find type constructor '...' while checking types.", 'state': 'closed', 'created_at': '2014-12-07T08:28:43Z', 'closed_at': '2015-01-26T05:18:20Z', 'labels': []}
+{'issuenumber': 843, 'title': 'Fixity declaration on shadowed operator causes parsing error', 'state': 'closed', 'created_at': '2014-12-07T05:25:23Z', 'closed_at': '2015-05-08T01:35:55Z', 'labels': []}
+{'issuenumber': 842, 'title': 'Proposal: let } appear in column 0', 'state': 'closed', 'created_at': '2014-12-07T03:31:44Z', 'closed_at': '2015-08-06T02:08:20Z', 'labels': []}
+{'issuenumber': 841, 'title': "should elm-doc fail when @docs tags don't exist?", 'state': 'closed', 'created_at': '2014-12-05T21:15:29Z', 'closed_at': '2015-05-10T00:21:07Z', 'labels': []}
+{'issuenumber': 840, 'title': 'elm-doc appears to cause package.elm-lang.org to fail', 'state': 'closed', 'created_at': '2014-12-04T14:31:25Z', 'closed_at': '2015-08-05T23:56:24Z', 'labels': []}
+{'issuenumber': 839, 'title': '--build-dir= does not translate symbol ~.', 'state': 'closed', 'created_at': '2014-11-29T15:47:07Z', 'closed_at': '2014-11-29T21:48:31Z', 'labels': []}
+{'issuenumber': 838, 'title': "Travis isn't Running Tests", 'state': 'closed', 'created_at': '2014-11-29T04:53:58Z', 'closed_at': '2014-11-29T06:39:31Z', 'labels': []}
+{'issuenumber': 836, 'title': 'Cannot call "Not equal" operator (/=) in infix way.', 'state': 'closed', 'created_at': '2014-11-28T09:04:07Z', 'closed_at': '2014-11-29T07:20:11Z', 'labels': []}
+{'issuenumber': 835, 'title': 'real time search swallows typed characters', 'state': 'closed', 'created_at': '2014-11-26T07:02:11Z', 'closed_at': '2015-08-06T00:42:35Z', 'labels': []}
+{'issuenumber': 834, 'title': 'Compiler Warnings', 'state': 'closed', 'created_at': '2014-11-26T02:06:19Z', 'closed_at': '2015-08-19T01:56:49Z', 'labels': {'name': 'request'}}
+{'issuenumber': 832, 'title': 'Infinite types can cause stack overflow', 'state': 'closed', 'created_at': '2014-11-24T02:10:28Z', 'closed_at': '2015-10-28T10:20:36Z', 'labels': []}
+{'issuenumber': 831, 'title': 'Cannot access JSON value', 'state': 'closed', 'created_at': '2014-11-21T04:30:02Z', 'closed_at': '2014-11-21T06:08:31Z', 'labels': []}
+{'issuenumber': 829, 'title': 'Let bindings overriding parameters', 'state': 'closed', 'created_at': '2014-11-19T15:25:11Z', 'closed_at': '2014-11-26T02:00:44Z', 'labels': []}
+{'issuenumber': 828, 'title': 'Better error message when trying to use a module that has not been imported', 'state': 'closed', 'created_at': '2014-11-14T00:52:03Z', 'closed_at': '2015-05-08T01:32:14Z', 'labels': []}
+{'issuenumber': 827, 'title': 'Make ports modular', 'state': 'closed', 'created_at': '2014-11-11T22:35:53Z', 'closed_at': '2015-08-06T00:28:36Z', 'labels': []}
+{'issuenumber': 826, 'title': 'Module name collision in generated code', 'state': 'closed', 'created_at': '2014-11-11T02:57:56Z', 'closed_at': '2016-05-12T18:06:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 825, 'title': 'Misleading type error message when updating an invalid record field', 'state': 'closed', 'created_at': '2014-11-08T01:15:47Z', 'closed_at': '2014-11-20T05:56:46Z', 'labels': []}
+{'issuenumber': 824, 'title': 'Problems with old Android versions (2.3.7) and WebView', 'state': 'closed', 'created_at': '2014-11-04T13:48:13Z', 'closed_at': '2015-08-06T00:33:19Z', 'labels': []}
+{'issuenumber': 823, 'title': 'elm-repl is easy to die with `length list =`', 'state': 'closed', 'created_at': '2014-11-02T16:06:58Z', 'closed_at': '2015-05-17T13:01:25Z', 'labels': []}
+{'issuenumber': 822, 'title': '</script> in strings', 'state': 'closed', 'created_at': '2014-10-31T19:03:20Z', 'closed_at': '2015-08-06T00:54:10Z', 'labels': []}
+{'issuenumber': 821, 'title': 'problem generating human-readable names for "comparable" types', 'state': 'closed', 'created_at': '2014-10-29T00:06:37Z', 'closed_at': '2015-10-23T01:56:56Z', 'labels': []}
+{'issuenumber': 820, 'title': '0.13 Compiler stack overflow when missing type alias to extensible record.', 'state': 'closed', 'created_at': '2014-10-26T08:32:01Z', 'closed_at': '2015-08-06T01:25:21Z', 'labels': []}
+{'issuenumber': 819, 'title': 'Allow partial application of types', 'state': 'closed', 'created_at': '2014-10-24T15:39:18Z', 'closed_at': '2017-12-20T20:01:10Z', 'labels': {'name': 'request'}}
+{'issuenumber': 818, 'title': "'elm.exe: out of memory' with crazy composition operator defined in another module", 'state': 'closed', 'created_at': '2014-10-21T07:11:52Z', 'closed_at': '2015-05-08T01:12:50Z', 'labels': []}
+{'issuenumber': 816, 'title': 'Non-exhaustive pattern match is not caught at compile time', 'state': 'closed', 'created_at': '2014-10-18T07:22:38Z', 'closed_at': '2014-11-26T03:18:50Z', 'labels': {'name': 'request'}}
+{'issuenumber': 815, 'title': 'Unchecked range in Array.slice results in undefined value', 'state': 'closed', 'created_at': '2014-10-17T13:20:24Z', 'closed_at': '2015-08-06T00:16:30Z', 'labels': []}
+{'issuenumber': 814, 'title': '"Intro to Lists and Records" is missing explanation', 'state': 'closed', 'created_at': '2014-10-13T22:01:48Z', 'closed_at': '2014-10-17T22:17:09Z', 'labels': []}
+{'issuenumber': 812, 'title': 'notify called synchronously', 'state': 'closed', 'created_at': '2014-10-13T00:15:41Z', 'closed_at': '2014-11-26T04:31:22Z', 'labels': []}
+{'issuenumber': 811, 'title': 'JSON.stringify on Ports error messages', 'state': 'closed', 'created_at': '2014-10-12T20:52:02Z', 'closed_at': '2014-11-26T03:51:18Z', 'labels': []}
+{'issuenumber': 809, 'title': 'Detect repeat argument names at compile time', 'state': 'closed', 'created_at': '2014-10-09T03:05:43Z', 'closed_at': '2016-04-28T03:50:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 807, 'title': '0.13 -- strange behaviour when importing type constructors.', 'state': 'closed', 'created_at': '2014-10-08T16:35:01Z', 'closed_at': '2014-10-08T16:56:19Z', 'labels': []}
+{'issuenumber': 806, 'title': "Array.append 'Cannot read property 'length' of undefined' at/near max table size (32)", 'state': 'closed', 'created_at': '2014-10-07T17:11:11Z', 'closed_at': '2014-10-13T22:42:59Z', 'labels': []}
+{'issuenumber': 805, 'title': 'Graphics.Input.Field.email - fails to update input signal', 'state': 'closed', 'created_at': '2014-10-06T14:58:38Z', 'closed_at': '2015-08-06T00:37:02Z', 'labels': []}
+{'issuenumber': 804, 'title': "Http.send's output Signal sends duplicate events ", 'state': 'closed', 'created_at': '2014-10-06T02:22:16Z', 'closed_at': '2015-08-06T00:17:12Z', 'labels': []}
+{'issuenumber': 803, 'title': 'Markdown does not understand attributes without values', 'state': 'closed', 'created_at': '2014-10-05T19:05:23Z', 'closed_at': '2015-08-06T00:33:50Z', 'labels': []}
+{'issuenumber': 801, 'title': 'WebSocket (Signal String) yields nonstring when receiving Binary data', 'state': 'closed', 'created_at': '2014-09-30T09:04:27Z', 'closed_at': '2014-11-27T10:44:19Z', 'labels': []}
+{'issuenumber': 800, 'title': 'Input fields in container are not centered correctly', 'state': 'closed', 'created_at': '2014-09-29T19:58:44Z', 'closed_at': '2015-08-06T01:00:37Z', 'labels': []}
+{'issuenumber': 799, 'title': 'Defining same named `type` and `data` generates invalid js', 'state': 'closed', 'created_at': '2014-09-29T17:53:22Z', 'closed_at': '2014-11-17T20:17:03Z', 'labels': []}
+{'issuenumber': 797, 'title': 'Text fields lose white background', 'state': 'closed', 'created_at': '2014-09-29T15:07:44Z', 'closed_at': '2014-10-01T07:33:29Z', 'labels': []}
+{'issuenumber': 796, 'title': 'Incorrect type inference issue (Float vs Int)', 'state': 'closed', 'created_at': '2014-09-29T14:09:30Z', 'closed_at': '2014-09-29T20:41:54Z', 'labels': []}
+{'issuenumber': 794, 'title': 'Elm website page and iPad', 'state': 'closed', 'created_at': '2014-09-25T16:04:21Z', 'closed_at': '2015-08-06T00:29:39Z', 'labels': []}
+{'issuenumber': 793, 'title': 'Type alias with Maybe in ports', 'state': 'closed', 'created_at': '2014-09-25T07:00:34Z', 'closed_at': '2014-12-01T06:29:07Z', 'labels': []}
+{'issuenumber': 789, 'title': 'Optimize self tailcalls', 'state': 'closed', 'created_at': '2014-09-16T15:45:16Z', 'closed_at': '2015-08-06T00:30:18Z', 'labels': []}
+{'issuenumber': 788, 'title': 'Not possible to remove the underline from links in Elm 0.13', 'state': 'closed', 'created_at': '2014-09-15T23:05:32Z', 'closed_at': '2015-08-06T00:31:17Z', 'labels': []}
+{'issuenumber': 787, 'title': 'Incorrect handling of local path pointing to the elm runtime in firefox', 'state': 'closed', 'created_at': '2014-09-14T15:39:13Z', 'closed_at': '2014-11-26T03:53:05Z', 'labels': []}
+{'issuenumber': 785, 'title': 'Markdown links not working in Elm 0.13', 'state': 'closed', 'created_at': '2014-09-13T21:01:52Z', 'closed_at': '2014-09-15T00:02:38Z', 'labels': []}
+{'issuenumber': 784, 'title': 'Prepending to arrays', 'state': 'closed', 'created_at': '2014-09-13T17:21:42Z', 'closed_at': '2015-08-06T00:20:31Z', 'labels': []}
+{'issuenumber': 783, 'title': 'Name scope bug gives runtime error', 'state': 'closed', 'created_at': '2014-09-13T10:39:22Z', 'closed_at': '2014-09-13T18:42:37Z', 'labels': []}
+{'issuenumber': 782, 'title': 'Array documentation error', 'state': 'closed', 'created_at': '2014-09-13T09:27:23Z', 'closed_at': '2014-09-13T22:11:17Z', 'labels': []}
+{'issuenumber': 781, 'title': 'Input functionality of elements being lost', 'state': 'closed', 'created_at': '2014-09-11T20:41:48Z', 'closed_at': '2014-09-11T23:53:28Z', 'labels': []}
+{'issuenumber': 780, 'title': 'Keyboard.lastPressed broken in Elm 0.13?', 'state': 'closed', 'created_at': '2014-09-07T03:59:44Z', 'closed_at': '2014-09-09T11:06:08Z', 'labels': []}
+{'issuenumber': 778, 'title': 'Runtime error when module contains a data constructor that collides with an imported module', 'state': 'closed', 'created_at': '2014-09-02T15:41:09Z', 'closed_at': '2014-11-26T03:54:05Z', 'labels': []}
+{'issuenumber': 777, 'title': 'Time complexity for `append` and `push` on `Array` is undocumented, but appears to be quadratic!', 'state': 'closed', 'created_at': '2014-08-28T16:44:07Z', 'closed_at': '2014-11-26T03:55:13Z', 'labels': []}
+{'issuenumber': 776, 'title': 'Elm Homebrew formula', 'state': 'closed', 'created_at': '2014-08-28T08:24:45Z', 'closed_at': '2015-08-06T00:18:54Z', 'labels': []}
+{'issuenumber': 775, 'title': "Graphics.Input.clickable does not work with 'layers'", 'state': 'closed', 'created_at': '2014-08-27T23:03:12Z', 'closed_at': '2015-08-06T00:38:02Z', 'labels': []}
+{'issuenumber': 774, 'title': 'User-defined data types (and records) not comparable', 'state': 'closed', 'created_at': '2014-08-27T21:27:58Z', 'closed_at': '2015-08-05T03:29:30Z', 'labels': {'name': 'request'}}
+{'issuenumber': 773, 'title': 'Centering of elements with odd pixel width / height looks off', 'state': 'closed', 'created_at': '2014-08-27T20:21:39Z', 'closed_at': '2015-08-06T00:39:08Z', 'labels': []}
+{'issuenumber': 772, 'title': 'Unterminated string literal regression in 0.13', 'state': 'closed', 'created_at': '2014-08-27T09:26:54Z', 'closed_at': '2014-08-27T23:23:51Z', 'labels': []}
+{'issuenumber': 770, 'title': 'Bad Error Message for qualified Operators', 'state': 'closed', 'created_at': '2014-08-26T20:52:03Z', 'closed_at': '2016-05-13T00:18:16Z', 'labels': []}
+{'issuenumber': 769, 'title': "Absolute value doesn't work in 0.13", 'state': 'closed', 'created_at': '2014-08-26T18:14:57Z', 'closed_at': '2014-09-11T14:38:35Z', 'labels': []}
+{'issuenumber': 766, 'title': "compile can't detect error with the module which exports a ADT type name and the same Data constructor name", 'state': 'closed', 'created_at': '2014-08-23T21:23:40Z', 'closed_at': '2014-08-23T22:55:14Z', 'labels': []}
+{'issuenumber': 764, 'title': 'Only Reports one "Could not find variable" Error at a Time', 'state': 'closed', 'created_at': '2014-08-22T19:28:10Z', 'closed_at': '2015-05-08T01:15:12Z', 'labels': []}
+{'issuenumber': 760, 'title': '"undefined is not a function" error when running result HTML', 'state': 'closed', 'created_at': '2014-08-21T10:47:44Z', 'closed_at': '2015-08-06T00:13:23Z', 'labels': []}
+{'issuenumber': 757, 'title': 'Latest Debugger Updates Break elm-repl', 'state': 'closed', 'created_at': '2014-08-20T18:22:33Z', 'closed_at': '2014-08-21T14:22:31Z', 'labels': []}
+{'issuenumber': 754, 'title': 'Firefox rerenders canvas even though nothing is modified in collage', 'state': 'closed', 'created_at': '2014-08-18T04:55:57Z', 'closed_at': '2015-08-06T00:12:46Z', 'labels': []}
+{'issuenumber': 753, 'title': "Runtime errors with extending records that shouldn't compile", 'state': 'closed', 'created_at': '2014-08-17T16:10:33Z', 'closed_at': '2015-01-24T19:55:22Z', 'labels': []}
+{'issuenumber': 752, 'title': 'takeWhile and dropWhile are Missing', 'state': 'closed', 'created_at': '2014-08-16T21:46:11Z', 'closed_at': '2015-05-08T01:00:33Z', 'labels': []}
+{'issuenumber': 750, 'title': 'asText applied to records shows phantom fields', 'state': 'closed', 'created_at': '2014-08-16T11:27:23Z', 'closed_at': '2014-08-17T17:24:21Z', 'labels': []}
+{'issuenumber': 749, 'title': 'Error messages on imported name conflicts (e.g., Set.map/List.map)', 'state': 'closed', 'created_at': '2014-08-15T08:02:34Z', 'closed_at': '2014-08-15T09:58:26Z', 'labels': []}
+{'issuenumber': 748, 'title': 'Zombie touches when using mouse', 'state': 'closed', 'created_at': '2014-08-14T15:30:47Z', 'closed_at': '2014-08-18T11:02:15Z', 'labels': []}
+{'issuenumber': 747, 'title': 'bug with input events from within collage?', 'state': 'closed', 'created_at': '2014-08-14T13:41:05Z', 'closed_at': '2015-08-06T00:39:47Z', 'labels': []}
+{'issuenumber': 743, 'title': 'documentation for "link" is wrong - compiler gives bad type info as error', 'state': 'closed', 'created_at': '2014-08-13T08:51:06Z', 'closed_at': '2015-08-06T00:48:08Z', 'labels': []}
+{'issuenumber': 734, 'title': 'Open import competes with Prelude', 'state': 'closed', 'created_at': '2014-08-08T13:35:07Z', 'closed_at': '2014-08-14T15:22:39Z', 'labels': []}
+{'issuenumber': 732, 'title': 'Markdown not documented', 'state': 'closed', 'created_at': '2014-08-07T13:49:53Z', 'closed_at': '2014-12-15T21:46:05Z', 'labels': []}
+{'issuenumber': 728, 'title': 'Add 0xHEX literals', 'state': 'closed', 'created_at': '2014-08-05T02:58:36Z', 'closed_at': '2014-11-27T10:38:34Z', 'labels': []}
+{'issuenumber': 727, 'title': "Events outpacing elm's handler (Losing keystrokes on input field)", 'state': 'closed', 'created_at': '2014-08-04T22:00:29Z', 'closed_at': '2015-08-06T01:01:32Z', 'labels': []}
+{'issuenumber': 725, 'title': 'Wrong behavior with Array.slice', 'state': 'closed', 'created_at': '2014-08-04T04:43:17Z', 'closed_at': '2014-08-10T08:50:40Z', 'labels': []}
+{'issuenumber': 724, 'title': 'Browser/Tab becomes unresponsive with multiple textured signal-dependent objects', 'state': 'closed', 'created_at': '2014-08-02T00:15:12Z', 'closed_at': '2015-08-06T01:16:57Z', 'labels': []}
+{'issuenumber': 722, 'title': 'Debugger allows text entry while paused', 'state': 'closed', 'created_at': '2014-07-30T14:46:38Z', 'closed_at': '2014-11-26T03:57:51Z', 'labels': []}
+{'issuenumber': 718, 'title': 'Inconsistent time while debugging.', 'state': 'closed', 'created_at': '2014-07-30T08:08:07Z', 'closed_at': '2014-07-31T14:39:39Z', 'labels': []}
+{'issuenumber': 717, 'title': 'Second argument to Graphics.Input.dropDown being ignored?', 'state': 'closed', 'created_at': '2014-07-30T02:41:46Z', 'closed_at': '2014-07-30T20:47:56Z', 'labels': []}
+{'issuenumber': 710, 'title': 'Elm allows invalid JavaScript identifier names; runtime failure', 'state': 'closed', 'created_at': '2014-07-26T22:09:25Z', 'closed_at': '2016-05-12T23:59:54Z', 'labels': []}
+{'issuenumber': 708, 'title': 'Close WebSocket on onbeforeunload', 'state': 'closed', 'created_at': '2014-07-25T19:38:27Z', 'closed_at': '2015-05-08T01:01:53Z', 'labels': []}
+{'issuenumber': 707, 'title': 'Infinite type not detected', 'state': 'closed', 'created_at': '2014-07-25T16:04:51Z', 'closed_at': '2015-08-03T19:04:35Z', 'labels': []}
+{'issuenumber': 703, 'title': 'Debugger traces slow cause elm to slow down', 'state': 'closed', 'created_at': '2014-07-24T13:03:51Z', 'closed_at': '2014-07-24T15:59:19Z', 'labels': []}
+{'issuenumber': 702, 'title': 'Problem calling debugModule more than once', 'state': 'closed', 'created_at': '2014-07-24T12:54:14Z', 'closed_at': '2015-08-06T00:45:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 695, 'title': 'unable so set background-color of a <div>', 'state': 'closed', 'created_at': '2014-07-22T13:16:49Z', 'closed_at': '2014-07-24T09:23:20Z', 'labels': []}
+{'issuenumber': 694, 'title': 'Problem printing types, using duplicate type variables', 'state': 'closed', 'created_at': '2014-07-22T02:33:27Z', 'closed_at': '2015-03-24T07:18:14Z', 'labels': []}
+{'issuenumber': 693, 'title': "Can't Reexport Values", 'state': 'closed', 'created_at': '2014-07-18T19:24:06Z', 'closed_at': '2015-05-08T00:35:25Z', 'labels': {'name': 'request'}}
+{'issuenumber': 687, 'title': 'cabal install fails for elm for backjump limit on pandoc', 'state': 'closed', 'created_at': '2014-07-16T09:18:41Z', 'closed_at': '2014-11-17T20:12:23Z', 'labels': []}
+{'issuenumber': 683, 'title': 'Collage extension to use quadraticCurveTo()', 'state': 'closed', 'created_at': '2014-07-15T02:47:12Z', 'closed_at': '2015-08-06T00:51:00Z', 'labels': []}
+{'issuenumber': 681, 'title': "'undefined is not a function' when trying to reference a variable", 'state': 'closed', 'created_at': '2014-07-12T16:31:08Z', 'closed_at': '2015-08-06T00:59:17Z', 'labels': []}
+{'issuenumber': 680, 'title': 'A box with round corners or just roundCorners function applied to a box?', 'state': 'closed', 'created_at': '2014-07-08T02:10:39Z', 'closed_at': '2015-08-06T00:51:49Z', 'labels': []}
+{'issuenumber': 679, 'title': 'Path/shape shadow function', 'state': 'closed', 'created_at': '2014-07-08T02:06:18Z', 'closed_at': '2015-08-06T00:26:16Z', 'labels': []}
+{'issuenumber': 678, 'title': 'Browser-specific keysDown misbehavior', 'state': 'closed', 'created_at': '2014-07-07T20:37:43Z', 'closed_at': '2014-07-24T13:36:23Z', 'labels': []}
+{'issuenumber': 677, 'title': 'Program compiles but gives a runtime error', 'state': 'closed', 'created_at': '2014-07-07T19:55:21Z', 'closed_at': '2014-07-24T09:35:25Z', 'labels': []}
+{'issuenumber': 676, 'title': 'Elm breaks in surf browser', 'state': 'closed', 'created_at': '2014-07-06T21:48:14Z', 'closed_at': '2015-05-08T01:04:36Z', 'labels': []}
+{'issuenumber': 675, 'title': 'Use of non-exported function in another module not picked up by compiler', 'state': 'closed', 'created_at': '2014-07-05T02:04:30Z', 'closed_at': '2014-07-24T09:31:38Z', 'labels': []}
+{'issuenumber': 673, 'title': 'two elm main functions in different html layers: only one is updated visually', 'state': 'closed', 'created_at': '2014-07-03T06:22:25Z', 'closed_at': '2014-07-24T14:20:28Z', 'labels': []}
+{'issuenumber': 672, 'title': 'changing the number of elements in making up a customButton results in runtime error "TypeError: node.parentNode is undefined"', 'state': 'closed', 'created_at': '2014-07-03T06:17:54Z', 'closed_at': '2014-07-24T23:59:40Z', 'labels': []}
+{'issuenumber': 671, 'title': 'changing the url of a link results in runtime error "TypeError: node.lastNode is undefined"', 'state': 'closed', 'created_at': '2014-07-02T18:19:30Z', 'closed_at': '2014-07-24T23:57:48Z', 'labels': []}
+{'issuenumber': 670, 'title': 'dropDown does not update when changing its options', 'state': 'closed', 'created_at': '2014-07-02T11:13:47Z', 'closed_at': '2014-07-25T00:44:57Z', 'labels': []}
+{'issuenumber': 668, 'title': 'customBotton sends wrong value to click handler', 'state': 'closed', 'created_at': '2014-06-30T08:19:40Z', 'closed_at': '2014-07-24T23:57:48Z', 'labels': []}
+{'issuenumber': 667, 'title': 'Can provide arguments for closed records', 'state': 'closed', 'created_at': '2014-06-18T21:08:57Z', 'closed_at': '2015-09-26T15:08:29Z', 'labels': []}
+{'issuenumber': 665, 'title': 'Rotating forms created from shapes over time does not work.', 'state': 'closed', 'created_at': '2014-06-17T16:21:16Z', 'closed_at': '2015-08-06T00:52:19Z', 'labels': []}
+{'issuenumber': 664, 'title': 'Rendering dropdown layout', 'state': 'closed', 'created_at': '2014-06-16T21:55:59Z', 'closed_at': '2014-07-24T10:25:27Z', 'labels': []}
+{'issuenumber': 663, 'title': 'Infinite type not detected, causes stack overflow', 'state': 'closed', 'created_at': '2014-06-16T14:44:25Z', 'closed_at': '2015-05-07T17:42:49Z', 'labels': []}
+{'issuenumber': 662, 'title': 'Error reading a valid type from serialized string', 'state': 'closed', 'created_at': '2014-06-16T09:17:21Z', 'closed_at': '2014-06-16T10:27:26Z', 'labels': []}
+{'issuenumber': 661, 'title': 'namespace collision', 'state': 'closed', 'created_at': '2014-06-16T07:17:51Z', 'closed_at': '2014-11-26T03:59:11Z', 'labels': []}
+{'issuenumber': 660, 'title': 'JS TypeError on primitives in REPL', 'state': 'closed', 'created_at': '2014-06-15T21:13:39Z', 'closed_at': '2014-07-19T04:25:48Z', 'labels': []}
+{'issuenumber': 659, 'title': 'Cannot use type alias Properties without conflicting with Graphics.Element.Properties', 'state': 'closed', 'created_at': '2014-06-15T19:27:03Z', 'closed_at': '2014-06-17T17:08:31Z', 'labels': []}
+{'issuenumber': 657, 'title': 'Type-checking error on Text.height', 'state': 'closed', 'created_at': '2014-06-12T13:21:55Z', 'closed_at': '2014-06-12T13:34:02Z', 'labels': []}
+{'issuenumber': 656, 'title': 'Unsound type inference for extensible records', 'state': 'closed', 'created_at': '2014-06-11T21:26:20Z', 'closed_at': '2015-10-23T02:16:15Z', 'labels': []}
+{'issuenumber': 655, 'title': 'Color.hsl', 'state': 'closed', 'created_at': '2014-06-11T15:47:42Z', 'closed_at': '2014-07-25T01:19:58Z', 'labels': []}
+{'issuenumber': 654, 'title': 'Why can Elm not infer the following record type automatically?', 'state': 'closed', 'created_at': '2014-06-11T14:41:29Z', 'closed_at': '2015-10-23T05:35:59Z', 'labels': []}
+{'issuenumber': 653, 'title': 'Canonicalize Branch: Infinite Loop', 'state': 'closed', 'created_at': '2014-06-10T18:07:57Z', 'closed_at': '2014-06-11T09:34:56Z', 'labels': []}
+{'issuenumber': 652, 'title': 'Hoverable detection in stacked customButtons still does not work', 'state': 'closed', 'created_at': '2014-06-10T10:03:10Z', 'closed_at': '2014-07-25T01:39:49Z', 'labels': []}
+{'issuenumber': 648, 'title': 'folds incorrect for Arrays bigger than 32', 'state': 'closed', 'created_at': '2014-06-08T23:58:20Z', 'closed_at': '2014-06-09T17:07:06Z', 'labels': []}
+{'issuenumber': 647, 'title': 'Array append bugs', 'state': 'closed', 'created_at': '2014-06-08T19:01:50Z', 'closed_at': '2014-08-09T10:20:51Z', 'labels': []}
+{'issuenumber': 646, 'title': 'No Array.remove', 'state': 'closed', 'created_at': '2014-06-08T18:26:08Z', 'closed_at': '2015-08-06T00:53:24Z', 'labels': []}
+{'issuenumber': 645, 'title': 'Compiler hangs', 'state': 'closed', 'created_at': '2014-06-07T17:00:26Z', 'closed_at': '2014-06-12T19:52:08Z', 'labels': []}
+{'issuenumber': 643, 'title': 'Duplicate signals when using WebSocket library', 'state': 'closed', 'created_at': '2014-06-05T18:34:22Z', 'closed_at': '2015-05-08T01:06:01Z', 'labels': []}
+{'issuenumber': 640, 'title': 'Bad Type for sqrt', 'state': 'closed', 'created_at': '2014-06-03T22:55:47Z', 'closed_at': '2014-06-13T10:32:29Z', 'labels': []}
+{'issuenumber': 639, 'title': 'bad code gen for recursive, higher order functions', 'state': 'closed', 'created_at': '2014-06-01T23:24:54Z', 'closed_at': '2015-05-08T01:26:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 638, 'title': 'Hot swap not working for image dimensions', 'state': 'closed', 'created_at': '2014-06-01T12:27:58Z', 'closed_at': '2015-08-06T00:55:58Z', 'labels': []}
+{'issuenumber': 635, 'title': "Can't use Module name prefix in record syntax.", 'state': 'closed', 'created_at': '2014-05-29T11:29:44Z', 'closed_at': '2015-08-06T02:08:59Z', 'labels': []}
+{'issuenumber': 632, 'title': '"Unknown flag: --runtime" when running elm-server', 'state': 'closed', 'created_at': '2014-05-20T16:04:53Z', 'closed_at': '2014-05-20T16:49:00Z', 'labels': []}
+{'issuenumber': 630, 'title': 'Parsing error when using "as" keyword in case statement', 'state': 'closed', 'created_at': '2014-05-14T02:42:39Z', 'closed_at': '2014-07-25T14:50:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 628, 'title': 'Travis CI build erroring', 'state': 'closed', 'created_at': '2014-05-12T04:16:50Z', 'closed_at': '2014-05-12T23:48:33Z', 'labels': []}
+{'issuenumber': 627, 'title': 'String.words ["a "] should be ["a"], not ["a", " "]', 'state': 'closed', 'created_at': '2014-05-07T14:29:41Z', 'closed_at': '2014-05-07T16:21:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 625, 'title': 'Detect and report mutually-recursive type aliases', 'state': 'closed', 'created_at': '2014-05-07T02:54:06Z', 'closed_at': '2014-07-24T09:47:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 624, 'title': 'No compiler error redefining types', 'state': 'closed', 'created_at': '2014-05-07T01:38:33Z', 'closed_at': '2014-11-17T20:13:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 623, 'title': 'Allow mutually recursive types', 'state': 'closed', 'created_at': '2014-05-07T00:05:11Z', 'closed_at': '2014-05-07T02:55:04Z', 'labels': []}
+{'issuenumber': 621, 'title': "Feature: 'where' expressions", 'state': 'closed', 'created_at': '2014-05-06T20:59:25Z', 'closed_at': '2015-05-08T01:07:46Z', 'labels': []}
+{'issuenumber': 620, 'title': 'Bug in indexedMap', 'state': 'closed', 'created_at': '2014-05-06T18:13:50Z', 'closed_at': '2014-05-06T22:37:20Z', 'labels': []}
+{'issuenumber': 618, 'title': "--src-dir Flag Doesn't Put Generated files in build/ and cache/", 'state': 'closed', 'created_at': '2014-05-06T15:23:35Z', 'closed_at': '2014-07-31T01:12:52Z', 'labels': []}
+{'issuenumber': 617, 'title': '(==) fails on object vs. non-object comparison', 'state': 'closed', 'created_at': '2014-05-06T12:11:56Z', 'closed_at': '2014-05-06T19:16:16Z', 'labels': []}
+{'issuenumber': 616, 'title': 'Dict.getOrFail results in "undefined is not a function"', 'state': 'closed', 'created_at': '2014-05-06T09:43:55Z', 'closed_at': '2014-07-25T01:24:16Z', 'labels': []}
+{'issuenumber': 615, 'title': 'bug - webgl not properly updating changing attribute buffers', 'state': 'closed', 'created_at': '2014-05-06T04:24:45Z', 'closed_at': '2015-08-06T00:56:34Z', 'labels': []}
+{'issuenumber': 614, 'title': 'Elm-webgl branch example Box.elm, compiled HTML problem "Uncaught ReferenceError: Triangle is not defined - elm-runtime.js:10416"', 'state': 'closed', 'created_at': '2014-05-05T23:17:02Z', 'closed_at': '2014-05-07T04:11:07Z', 'labels': []}
+{'issuenumber': 612, 'title': 'Incorrect comparison in Dict with Char keys', 'state': 'closed', 'created_at': '2014-05-03T19:33:18Z', 'closed_at': '2014-05-06T20:45:08Z', 'labels': []}
+{'issuenumber': 609, 'title': 'Bad code gen for pattern in let expression', 'state': 'closed', 'created_at': '2014-05-02T02:46:25Z', 'closed_at': '2014-06-12T19:20:21Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 608, 'title': 'bug with updating flow left/up', 'state': 'closed', 'created_at': '2014-05-01T22:38:59Z', 'closed_at': '2014-05-02T05:42:13Z', 'labels': []}
+{'issuenumber': 604, 'title': 'Improve list port generated code', 'state': 'closed', 'created_at': '2014-05-01T01:03:59Z', 'closed_at': '2014-05-01T18:50:15Z', 'labels': {'name': 'request'}}
+{'issuenumber': 600, 'title': 'Import causes Javascript SyntaxError', 'state': 'closed', 'created_at': '2014-04-29T11:16:54Z', 'closed_at': '2014-07-25T14:56:11Z', 'labels': []}
+{'issuenumber': 597, 'title': 'Allow arrays to pass through ports', 'state': 'closed', 'created_at': '2014-04-25T21:03:26Z', 'closed_at': '2014-05-01T19:33:16Z', 'labels': []}
+{'issuenumber': 596, 'title': 'Poor Haddocks Coverage', 'state': 'closed', 'created_at': '2014-04-25T18:44:47Z', 'closed_at': '2015-05-08T00:58:44Z', 'labels': []}
+{'issuenumber': 594, 'title': "List Documentation Doesn't Describe Performance", 'state': 'closed', 'created_at': '2014-04-24T21:45:09Z', 'closed_at': '2015-08-06T00:41:30Z', 'labels': []}
+{'issuenumber': 592, 'title': '0.12: Decrementing `Touch.Touch` IDs', 'state': 'closed', 'created_at': '2014-04-22T02:08:17Z', 'closed_at': '2014-07-25T15:08:19Z', 'labels': []}
+{'issuenumber': 590, 'title': 'Hovering over top button in a flow down triggers mouseover event for bottom button', 'state': 'closed', 'created_at': '2014-04-19T21:40:20Z', 'closed_at': '2014-04-23T16:15:37Z', 'labels': []}
+{'issuenumber': 589, 'title': 'Module and constructor names can clash', 'state': 'closed', 'created_at': '2014-04-18T14:58:38Z', 'closed_at': '2014-06-12T19:22:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 587, 'title': 'Unclear error messages when Library test fails', 'state': 'closed', 'created_at': '2014-04-16T23:22:36Z', 'closed_at': '2014-04-18T21:30:18Z', 'labels': []}
+{'issuenumber': 583, 'title': 'automaton and IO subprojects become dirty?', 'state': 'closed', 'created_at': '2014-04-15T05:46:14Z', 'closed_at': '2014-04-15T21:12:30Z', 'labels': []}
+{'issuenumber': 582, 'title': "'module is undefined' with clashing types & data constructors", 'state': 'closed', 'created_at': '2014-04-15T00:17:24Z', 'closed_at': '2014-11-19T22:53:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 580, 'title': 'releases on hackage do not include standard libraries', 'state': 'closed', 'created_at': '2014-04-09T08:04:30Z', 'closed_at': '2014-07-25T01:28:02Z', 'labels': []}
+{'issuenumber': 576, 'title': 'Conflicting Array (and other?) module name with compiler JS code', 'state': 'closed', 'created_at': '2014-04-06T23:15:28Z', 'closed_at': '2014-04-15T22:53:04Z', 'labels': []}
+{'issuenumber': 575, 'title': "Signals used in ports aren't sampled by non-port uses sometimes", 'state': 'closed', 'created_at': '2014-04-06T08:38:47Z', 'closed_at': '2014-07-25T15:06:02Z', 'labels': []}
+{'issuenumber': 574, 'title': 'Update CONTRIBUTING to reflect master-as-dev', 'state': 'closed', 'created_at': '2014-04-06T04:04:58Z', 'closed_at': '2014-04-08T17:00:07Z', 'labels': []}
+{'issuenumber': 571, 'title': 'decodeOrFail - more like fail', 'state': 'closed', 'created_at': '2014-04-05T13:12:28Z', 'closed_at': '2014-04-05T15:59:02Z', 'labels': []}
+{'issuenumber': 570, 'title': 'Feature Request: better compiler error message/disambiguity', 'state': 'closed', 'created_at': '2014-04-05T06:49:18Z', 'closed_at': '2014-07-25T15:12:54Z', 'labels': []}
+{'issuenumber': 569, 'title': 'Typography issue', 'state': 'closed', 'created_at': '2014-04-05T06:45:49Z', 'closed_at': '2015-08-06T00:57:22Z', 'labels': []}
+{'issuenumber': 568, 'title': 'Text.style seems undefined', 'state': 'closed', 'created_at': '2014-04-05T06:37:49Z', 'closed_at': '2014-04-05T17:04:18Z', 'labels': []}
+{'issuenumber': 567, 'title': 'Add tests for Array library', 'state': 'closed', 'created_at': '2014-04-04T18:15:19Z', 'closed_at': '2014-04-29T18:37:09Z', 'labels': []}
+{'issuenumber': 566, 'title': 'Char.fromCode should fail on non-character codes', 'state': 'closed', 'created_at': '2014-04-04T12:57:23Z', 'closed_at': '2015-08-06T01:08:19Z', 'labels': []}
+{'issuenumber': 565, 'title': 'Feature request: Add signal with keyboard characters, not keycodes', 'state': 'closed', 'created_at': '2014-04-04T12:46:53Z', 'closed_at': '2015-08-06T01:17:40Z', 'labels': []}
+{'issuenumber': 563, 'title': 'Cannot change cursor position using mouse in Graphics.Input.Field', 'state': 'closed', 'created_at': '2014-04-03T19:36:51Z', 'closed_at': '2014-04-04T07:36:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 558, 'title': 'Error creating large Arrays', 'state': 'closed', 'created_at': '2014-04-03T07:40:01Z', 'closed_at': '2014-04-04T18:11:14Z', 'labels': []}
+{'issuenumber': 557, 'title': 'Char Comparison is Incorrect', 'state': 'closed', 'created_at': '2014-04-03T02:57:17Z', 'closed_at': '2014-04-03T03:37:40Z', 'labels': []}
+{'issuenumber': 556, 'title': 'Nested Clickables', 'state': 'closed', 'created_at': '2014-04-02T20:54:21Z', 'closed_at': '2014-07-25T01:30:12Z', 'labels': []}
+{'issuenumber': 555, 'title': 'Add error on ambiguous variables', 'state': 'closed', 'created_at': '2014-04-01T23:50:12Z', 'closed_at': '2014-06-12T19:25:42Z', 'labels': []}
+{'issuenumber': 554, 'title': 'Importing hidden identifiers not reported as error', 'state': 'closed', 'created_at': '2014-04-01T18:44:16Z', 'closed_at': '2014-04-01T21:15:13Z', 'labels': []}
+{'issuenumber': 553, 'title': 'Uncaught Type Error in nested signals', 'state': 'closed', 'created_at': '2014-04-01T18:28:26Z', 'closed_at': '2014-07-25T15:49:00Z', 'labels': []}
+{'issuenumber': 550, 'title': 'keepWhen/dropWhen documentation not updated to new behaviour', 'state': 'closed', 'created_at': '2014-04-01T09:43:08Z', 'closed_at': '2014-04-01T17:09:54Z', 'labels': []}
+{'issuenumber': 549, 'title': "Text.style results in “Cannot read property 'arity'” error", 'state': 'closed', 'created_at': '2014-04-01T07:55:12Z', 'closed_at': '2014-04-01T17:05:36Z', 'labels': []}
+{'issuenumber': 545, 'title': 'Cannot install on Debian Wheezy, BIS.', 'state': 'closed', 'created_at': '2014-03-31T21:36:06Z', 'closed_at': '2014-11-26T04:02:47Z', 'labels': []}
+{'issuenumber': 544, 'title': 'Cannot install on Debian Wheezy', 'state': 'closed', 'created_at': '2014-03-31T21:25:46Z', 'closed_at': '2014-03-31T21:31:05Z', 'labels': []}
+{'issuenumber': 543, 'title': 'Nested Destructuring is Broken', 'state': 'closed', 'created_at': '2014-03-31T14:43:50Z', 'closed_at': '2014-03-31T18:49:44Z', 'labels': []}
+{'issuenumber': 541, 'title': 'Flow right is flowing down in Firefox with new Fields', 'state': 'closed', 'created_at': '2014-03-31T13:13:57Z', 'closed_at': '2015-08-06T00:02:35Z', 'labels': []}
+{'issuenumber': 540, 'title': 'Compiler failure: "user error" on type inference', 'state': 'closed', 'created_at': '2014-03-29T15:35:33Z', 'closed_at': '2014-07-25T16:00:03Z', 'labels': []}
+{'issuenumber': 539, 'title': 'No "mzero" value for String', 'state': 'closed', 'created_at': '2014-03-29T00:32:41Z', 'closed_at': '2014-11-26T04:04:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 538, 'title': 'Incorrect error message for appendable', 'state': 'closed', 'created_at': '2014-03-29T00:28:47Z', 'closed_at': '2014-04-29T18:18:36Z', 'labels': []}
+{'issuenumber': 537, 'title': "Can't use expression as record to update", 'state': 'closed', 'created_at': '2014-03-28T06:49:47Z', 'closed_at': '2015-08-06T02:09:09Z', 'labels': []}
+{'issuenumber': 536, 'title': 'ADT type constructor masking', 'state': 'closed', 'created_at': '2014-03-28T00:05:15Z', 'closed_at': '2014-04-01T23:26:02Z', 'labels': []}
+{'issuenumber': 535, 'title': "catalog doesn't document native types", 'state': 'closed', 'created_at': '2014-03-27T04:54:51Z', 'closed_at': '2014-11-26T04:08:09Z', 'labels': []}
+{'issuenumber': 533, 'title': 'Feature request: local coordinates for input within an element', 'state': 'closed', 'created_at': '2014-03-25T05:56:50Z', 'closed_at': '2015-08-06T00:58:16Z', 'labels': []}
+{'issuenumber': 532, 'title': 'Graphics.Input.clickable not working with plainText elements', 'state': 'closed', 'created_at': '2014-03-23T19:09:56Z', 'closed_at': '2014-03-23T22:27:53Z', 'labels': []}
+{'issuenumber': 530, 'title': 'Travis CI build failing', 'state': 'closed', 'created_at': '2014-03-22T02:35:30Z', 'closed_at': '2014-03-22T21:43:18Z', 'labels': []}
+{'issuenumber': 524, 'title': 'Regex matching seems to have side-effects ', 'state': 'closed', 'created_at': '2014-03-16T07:32:22Z', 'closed_at': '2014-03-21T22:30:05Z', 'labels': []}
+{'issuenumber': 523, 'title': 'Loss of focus in text field with new input API', 'state': 'closed', 'created_at': '2014-03-16T07:22:51Z', 'closed_at': '2015-08-29T03:21:49Z', 'labels': []}
+{'issuenumber': 522, 'title': 'Cross-Module Type Inference Failure', 'state': 'closed', 'created_at': '2014-03-14T02:34:11Z', 'closed_at': '2015-03-24T07:56:55Z', 'labels': []}
+{'issuenumber': 521, 'title': 'Incorrect record update causes stack overflow instead of compilation error', 'state': 'closed', 'created_at': '2014-03-13T15:22:27Z', 'closed_at': '2015-08-29T02:30:38Z', 'labels': []}
+{'issuenumber': 520, 'title': 'cannot access field of qualified record (Graphics.Collage.defaultLine.color)', 'state': 'closed', 'created_at': '2014-03-12T22:24:15Z', 'closed_at': '2016-05-13T00:32:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 519, 'title': 'No List Index Function', 'state': 'closed', 'created_at': '2014-03-12T20:14:34Z', 'closed_at': '2015-05-08T00:52:00Z', 'labels': []}
+{'issuenumber': 517, 'title': 'Exposing the render loop', 'state': 'closed', 'created_at': '2014-03-11T07:15:11Z', 'closed_at': '2014-03-11T12:20:53Z', 'labels': []}
+{'issuenumber': 515, 'title': 'Server-side rendering', 'state': 'closed', 'created_at': '2014-03-10T20:03:05Z', 'closed_at': '2014-03-31T14:39:23Z', 'labels': []}
+{'issuenumber': 514, 'title': "Cannot use `in' as function name", 'state': 'closed', 'created_at': '2014-03-10T09:41:00Z', 'closed_at': '2014-03-22T00:20:03Z', 'labels': []}
+{'issuenumber': 513, 'title': 'Clearer Errors on Keyword Use', 'state': 'closed', 'created_at': '2014-03-10T03:40:24Z', 'closed_at': '2015-08-06T00:04:28Z', 'labels': {'name': 'request'}}
+{'issuenumber': 512, 'title': 'Resize bug with fields', 'state': 'closed', 'created_at': '2014-03-09T12:11:47Z', 'closed_at': '2014-03-21T22:30:04Z', 'labels': []}
+{'issuenumber': 511, 'title': 'Cannot type in fields in Firefox with new input API', 'state': 'closed', 'created_at': '2014-03-09T09:40:23Z', 'closed_at': '2014-03-09T21:49:21Z', 'labels': []}
+{'issuenumber': 506, 'title': 'Feature Request: some way to detect mouse input on Collages', 'state': 'closed', 'created_at': '2014-02-23T21:30:36Z', 'closed_at': '2015-08-06T01:19:46Z', 'labels': []}
+{'issuenumber': 501, 'title': 'Improper parsing of infixed functions with unusual characters', 'state': 'closed', 'created_at': '2014-02-16T03:17:54Z', 'closed_at': '2015-10-23T09:43:51Z', 'labels': []}
+{'issuenumber': 498, 'title': "JSObject Serialization Doesn't Work", 'state': 'closed', 'created_at': '2014-02-13T16:04:41Z', 'closed_at': '2014-04-08T20:56:46Z', 'labels': []}
+{'issuenumber': 497, 'title': 'Remove documentation requirement from elm-doc', 'state': 'closed', 'created_at': '2014-02-13T02:23:55Z', 'closed_at': '2014-07-25T14:54:15Z', 'labels': []}
+{'issuenumber': 494, 'title': 'Please review new AST before I merge into dev', 'state': 'closed', 'created_at': '2014-02-10T10:46:32Z', 'closed_at': '2014-02-10T20:35:20Z', 'labels': []}
+{'issuenumber': 493, 'title': 'Feature Request: Type Aliases in Port Signatures', 'state': 'closed', 'created_at': '2014-02-07T03:22:50Z', 'closed_at': '2014-06-13T13:44:26Z', 'labels': {'name': 'request'}}
+{'issuenumber': 492, 'title': 'Feature Request: Programmatic Access to `elm-runtime.js`', 'state': 'closed', 'created_at': '2014-02-07T00:01:23Z', 'closed_at': '2014-05-13T05:44:36Z', 'labels': {'name': 'request'}}
+{'issuenumber': 491, 'title': 'Record Fields Serialized when using Ports', 'state': 'closed', 'created_at': '2014-02-06T03:24:14Z', 'closed_at': '2014-02-10T20:40:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 490, 'title': 'Feature Request: Arbitrary (First-order) Datatypes in Ports', 'state': 'closed', 'created_at': '2014-02-05T23:51:34Z', 'closed_at': '2015-08-06T02:20:21Z', 'labels': {'name': 'request'}}
+{'issuenumber': 488, 'title': 'Error installing due to http-client-tls (?)', 'state': 'closed', 'created_at': '2014-02-04T21:19:20Z', 'closed_at': '2014-03-23T21:19:01Z', 'labels': []}
+{'issuenumber': 487, 'title': 'Markdown Compilation Adds Extra Surrounding Divs', 'state': 'closed', 'created_at': '2014-02-02T07:58:03Z', 'closed_at': '2015-05-08T00:56:57Z', 'labels': []}
+{'issuenumber': 483, 'title': 'No error on assigning to literals', 'state': 'closed', 'created_at': '2014-01-31T04:11:55Z', 'closed_at': '2015-10-23T09:53:58Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 482, 'title': "There's no way to instruct Elm to override the default handling of the backspace key", 'state': 'closed', 'created_at': '2014-01-31T00:43:47Z', 'closed_at': '2015-08-06T01:03:30Z', 'labels': []}
+{'issuenumber': 481, 'title': 'No Style Guide', 'state': 'closed', 'created_at': '2014-01-29T15:28:04Z', 'closed_at': '2014-11-26T04:13:00Z', 'labels': []}
+{'issuenumber': 479, 'title': 'File Not Found Error not Descriptive', 'state': 'closed', 'created_at': '2014-01-26T22:37:58Z', 'closed_at': '2014-01-30T18:41:30Z', 'labels': []}
+{'issuenumber': 478, 'title': 'Record getters', 'state': 'closed', 'created_at': '2014-01-25T15:48:03Z', 'closed_at': '2014-01-28T22:42:25Z', 'labels': []}
+{'issuenumber': 475, 'title': "Built-in Ports aren't TypeChecked", 'state': 'closed', 'created_at': '2014-01-23T03:23:23Z', 'closed_at': '2015-08-06T02:21:04Z', 'labels': []}
+{'issuenumber': 474, 'title': 'Dev behind Master', 'state': 'closed', 'created_at': '2014-01-23T02:13:58Z', 'closed_at': '2014-01-23T17:47:17Z', 'labels': []}
+{'issuenumber': 472, 'title': 'Using word "port" as key for record triggers parse error', 'state': 'closed', 'created_at': '2014-01-21T22:57:56Z', 'closed_at': '2014-03-22T00:20:40Z', 'labels': []}
+{'issuenumber': 471, 'title': 'Elm 0.11 on Ubuntu 12.04.2 installation problems', 'state': 'closed', 'created_at': '2014-01-21T22:33:41Z', 'closed_at': '2014-03-22T01:32:53Z', 'labels': []}
+{'issuenumber': 470, 'title': 'Elm builds with blaze-markup=0.5.2.1', 'state': 'closed', 'created_at': '2014-01-21T20:39:05Z', 'closed_at': '2014-11-26T04:09:53Z', 'labels': []}
+{'issuenumber': 468, 'title': 'Please add type signatures to the examples.', 'state': 'closed', 'created_at': '2014-01-21T18:28:12Z', 'closed_at': '2014-01-22T01:57:15Z', 'labels': []}
+{'issuenumber': 467, 'title': 'Weird parse error on improperly indented code', 'state': 'closed', 'created_at': '2014-01-21T14:32:50Z', 'closed_at': '2016-10-11T17:30:41Z', 'labels': []}
+{'issuenumber': 466, 'title': 'changelog is Inaccurate ', 'state': 'closed', 'created_at': '2014-01-20T23:38:54Z', 'closed_at': '2014-03-22T00:21:25Z', 'labels': []}
+{'issuenumber': 465, 'title': 'LICENSE out of date', 'state': 'closed', 'created_at': '2014-01-20T23:28:39Z', 'closed_at': '2014-03-22T00:22:29Z', 'labels': []}
+{'issuenumber': 459, 'title': 'Random.float causes JS error', 'state': 'closed', 'created_at': '2014-01-19T17:02:07Z', 'closed_at': '2014-03-02T18:49:44Z', 'labels': []}
+{'issuenumber': 455, 'title': 'Type arguments not printed for some errors involving list and tuples.', 'state': 'closed', 'created_at': '2014-01-18T19:34:00Z', 'closed_at': '2015-08-06T01:04:50Z', 'labels': []}
+{'issuenumber': 454, 'title': 'Invalid JS generated with no warning on infinite self-reference', 'state': 'closed', 'created_at': '2014-01-18T08:29:39Z', 'closed_at': '2015-08-06T00:06:37Z', 'labels': []}
+{'issuenumber': 453, 'title': 'Haskell error compiling the following example', 'state': 'closed', 'created_at': '2014-01-17T23:24:38Z', 'closed_at': '2015-06-08T22:21:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 451, 'title': 'eightyCharLines breaks (parse . print === id)', 'state': 'closed', 'created_at': '2014-01-15T03:14:24Z', 'closed_at': '2014-01-15T06:45:41Z', 'labels': []}
+{'issuenumber': 450, 'title': "AST allows building of record update which doesn't parse", 'state': 'closed', 'created_at': '2014-01-15T01:52:49Z', 'closed_at': '2015-05-08T00:53:48Z', 'labels': []}
+{'issuenumber': 449, 'title': "Custom elements: don't set width, height, etc", 'state': 'closed', 'created_at': '2014-01-11T15:01:55Z', 'closed_at': '2014-01-12T02:51:24Z', 'labels': []}
+{'issuenumber': 447, 'title': '`number` in record type declarations not recognized as a special type variable', 'state': 'closed', 'created_at': '2014-01-10T01:34:31Z', 'closed_at': '2014-01-29T18:06:20Z', 'labels': []}
+{'issuenumber': 444, 'title': 'Exhausting pattern after Dict updates', 'state': 'closed', 'created_at': '2014-01-07T23:46:55Z', 'closed_at': '2014-01-15T14:27:44Z', 'labels': []}
+{'issuenumber': 442, 'title': 'Ports Parser Tests', 'state': 'closed', 'created_at': '2014-01-06T20:57:16Z', 'closed_at': '2014-06-13T14:47:56Z', 'labels': []}
+{'issuenumber': 440, 'title': 'Flattening Signals?', 'state': 'closed', 'created_at': '2014-01-05T22:27:32Z', 'closed_at': '2014-03-22T00:46:50Z', 'labels': []}
+{'issuenumber': 438, 'title': "Can't Control Export of Types/Constructors", 'state': 'closed', 'created_at': '2014-01-03T04:12:00Z', 'closed_at': '2014-07-05T15:46:12Z', 'labels': []}
+{'issuenumber': 434, 'title': 'Slow Markdown Compilation?', 'state': 'closed', 'created_at': '2014-01-02T10:40:06Z', 'closed_at': '2014-01-30T17:24:03Z', 'labels': []}
+{'issuenumber': 433, 'title': 'String.fromList Breaking in Local Install', 'state': 'closed', 'created_at': '2014-01-02T02:10:00Z', 'closed_at': '2014-01-02T03:16:19Z', 'labels': []}
+{'issuenumber': 432, 'title': 'fromRecord Not Parsing Strings Correctly', 'state': 'closed', 'created_at': '2014-01-01T20:47:59Z', 'closed_at': '2014-01-25T03:13:19Z', 'labels': []}
+{'issuenumber': 431, 'title': 'Runtime error for recursive definition of a record field', 'state': 'closed', 'created_at': '2014-01-01T10:25:48Z', 'closed_at': '2014-06-02T09:55:58Z', 'labels': []}
+{'issuenumber': 430, 'title': '"Try Elm" compiler fails (no response from server) when a Type is used as a value', 'state': 'closed', 'created_at': '2013-12-31T22:24:03Z', 'closed_at': '2014-10-09T03:49:29Z', 'labels': []}
+{'issuenumber': 428, 'title': 'Access local file system', 'state': 'closed', 'created_at': '2013-12-30T23:41:33Z', 'closed_at': '2013-12-30T23:46:08Z', 'labels': []}
+{'issuenumber': 426, 'title': 'custom http post request with headers', 'state': 'closed', 'created_at': '2013-12-30T23:33:13Z', 'closed_at': '2014-01-08T23:42:40Z', 'labels': []}
+{'issuenumber': 423, 'title': '(Design Issue) Loosely Typed `Type`s', 'state': 'closed', 'created_at': '2013-12-30T05:58:41Z', 'closed_at': '2014-01-19T01:06:30Z', 'labels': []}
+{'issuenumber': 422, 'title': 'Confusing types with constructors causes crash', 'state': 'closed', 'created_at': '2013-12-30T00:03:11Z', 'closed_at': '2014-11-26T04:16:14Z', 'labels': []}
+{'issuenumber': 420, 'title': 'String Escaping Issue', 'state': 'closed', 'created_at': '2013-12-29T22:46:31Z', 'closed_at': '2014-01-20T21:31:10Z', 'labels': []}
+{'issuenumber': 419, 'title': "Can't Have Qualified Import Infix Operators/Infix Record Fields", 'state': 'closed', 'created_at': '2013-12-28T19:37:02Z', 'closed_at': '2016-05-12T23:29:34Z', 'labels': []}
+{'issuenumber': 418, 'title': 'Runtime Error On Circular Signal Reference', 'state': 'closed', 'created_at': '2013-12-28T16:37:23Z', 'closed_at': '2015-05-08T01:25:46Z', 'labels': []}
+{'issuenumber': 417, 'title': 'Runtime error unpacking from list', 'state': 'closed', 'created_at': '2013-12-27T23:36:14Z', 'closed_at': '2014-09-25T15:36:54Z', 'labels': []}
+{'issuenumber': 415, 'title': "elm-server doesn't work with new module structure", 'state': 'closed', 'created_at': '2013-12-27T19:45:07Z', 'closed_at': '2013-12-31T11:00:10Z', 'labels': []}
+{'issuenumber': 413, 'title': 'Signal as a Monad', 'state': 'closed', 'created_at': '2013-12-24T06:29:39Z', 'closed_at': '2013-12-24T18:16:00Z', 'labels': []}
+{'issuenumber': 410, 'title': 'documentation of Signal.keepIf and friends is wrong', 'state': 'closed', 'created_at': '2013-12-23T07:29:50Z', 'closed_at': '2014-01-20T18:23:31Z', 'labels': []}
+{'issuenumber': 406, 'title': 'foreign import/export implementation brittle as best. Redesign probably necessary', 'state': 'closed', 'created_at': '2013-12-21T16:31:22Z', 'closed_at': '2014-03-22T00:49:25Z', 'labels': []}
+{'issuenumber': 405, 'title': 'Dynamic Input Signals not properly Updating', 'state': 'closed', 'created_at': '2013-12-21T06:57:49Z', 'closed_at': '2014-07-25T23:31:46Z', 'labels': []}
+{'issuenumber': 403, 'title': 'Unwanted side effects', 'state': 'closed', 'created_at': '2013-12-20T22:42:45Z', 'closed_at': '2013-12-21T08:57:32Z', 'labels': []}
+{'issuenumber': 402, 'title': 'OnClick Event Signal?', 'state': 'closed', 'created_at': '2013-12-20T22:20:04Z', 'closed_at': '2014-03-22T00:52:14Z', 'labels': []}
+{'issuenumber': 397, 'title': 'Cannot include the substring {- in string literals', 'state': 'closed', 'created_at': '2013-12-19T18:16:02Z', 'closed_at': '2013-12-19T20:02:21Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 396, 'title': 'Higher-Kinded types Not Expressible', 'state': 'closed', 'created_at': '2013-12-19T05:38:05Z', 'closed_at': '2015-08-06T00:10:02Z', 'labels': {'name': 'request'}}
+{'issuenumber': 395, 'title': 'elm --make Is Broken', 'state': 'closed', 'created_at': '2013-12-19T05:14:11Z', 'closed_at': '2014-01-20T21:28:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 394, 'title': 'Unexported Identifier Not Caught at Compile Time', 'state': 'closed', 'created_at': '2013-12-19T04:46:42Z', 'closed_at': '2014-06-12T19:31:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 392, 'title': 'Char Compare is Broken', 'state': 'closed', 'created_at': '2013-12-19T00:52:36Z', 'closed_at': '2013-12-20T03:51:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 389, 'title': 'documentation of Time.timestamp somewhat misleading', 'state': 'closed', 'created_at': '2013-12-17T14:34:02Z', 'closed_at': '2014-01-20T18:50:27Z', 'labels': []}
+{'issuenumber': 388, 'title': 'behaviour of Mouse.clicks and Mouse.isClicked contradicts their documentation', 'state': 'closed', 'created_at': '2013-12-17T13:44:10Z', 'closed_at': '2014-01-28T18:07:49Z', 'labels': []}
+{'issuenumber': 387, 'title': 'Identifiers Named `elm` Break Runtime', 'state': 'closed', 'created_at': '2013-12-15T23:30:51Z', 'closed_at': '2014-01-10T21:29:49Z', 'labels': []}
+{'issuenumber': 385, 'title': 'Indentation sensitivity for multi-way ifs', 'state': 'closed', 'created_at': '2013-12-14T01:18:12Z', 'closed_at': '2015-08-29T01:48:16Z', 'labels': {'name': 'request'}}
+{'issuenumber': 384, 'title': '0.10.0.2 build failing : `Setup: libraries: does not exist`', 'state': 'closed', 'created_at': '2013-12-14T00:41:21Z', 'closed_at': '2013-12-15T00:20:34Z', 'labels': []}
+{'issuenumber': 380, 'title': 'Duplicate type and data constructors are silently resolved at use sites in order of appearance', 'state': 'closed', 'created_at': '2013-12-10T21:20:40Z', 'closed_at': '2013-12-11T01:49:32Z', 'labels': []}
+{'issuenumber': 376, 'title': 'Nested lambdas and tuples: shadowing bug', 'state': 'closed', 'created_at': '2013-12-04T00:12:07Z', 'closed_at': '2013-12-04T13:44:02Z', 'labels': []}
+{'issuenumber': 375, 'title': '--print-types shows wrong type for nested records.', 'state': 'closed', 'created_at': '2013-12-02T19:50:32Z', 'closed_at': '2014-11-26T04:19:11Z', 'labels': []}
+{'issuenumber': 373, 'title': 'Keyboard.lastPressed does not generate signal for repeating presses', 'state': 'closed', 'created_at': '2013-11-30T17:00:41Z', 'closed_at': '2013-12-14T00:48:39Z', 'labels': []}
+{'issuenumber': 372, 'title': "Nested markdown interpolation doesn't work within flow", 'state': 'closed', 'created_at': '2013-11-29T00:09:40Z', 'closed_at': '2014-11-26T04:19:43Z', 'labels': []}
+{'issuenumber': 371, 'title': 'Markdown crops <iframe>', 'state': 'closed', 'created_at': '2013-11-27T13:52:18Z', 'closed_at': '2015-05-08T00:47:24Z', 'labels': []}
+{'issuenumber': 370, 'title': 'Feature Request: Allow Underscores In Record Field Pattern Matches', 'state': 'closed', 'created_at': '2013-11-27T07:15:05Z', 'closed_at': '2013-11-27T07:33:36Z', 'labels': []}
+{'issuenumber': 369, 'title': 'Feature Request: Multiple Type Signatures per Line', 'state': 'closed', 'created_at': '2013-11-27T07:07:45Z', 'closed_at': '2013-12-14T00:53:41Z', 'labels': []}
+{'issuenumber': 368, 'title': 'Does String.fromList have the wrong type?', 'state': 'closed', 'created_at': '2013-11-27T07:01:31Z', 'closed_at': '2013-11-27T07:18:47Z', 'labels': []}
+{'issuenumber': 367, 'title': 'Nested "Multi-way if-expressions" Runtime Error', 'state': 'closed', 'created_at': '2013-11-27T06:44:11Z', 'closed_at': '2013-12-14T01:16:38Z', 'labels': {'name': 'request'}}
+{'issuenumber': 366, 'title': 'Pattern Matching Identically Named Record Fields', 'state': 'closed', 'created_at': '2013-11-27T06:31:36Z', 'closed_at': '2015-08-06T01:34:25Z', 'labels': []}
+{'issuenumber': 364, 'title': 'Cyclical module dependencies should be allowed', 'state': 'closed', 'created_at': '2013-11-24T20:16:15Z', 'closed_at': '2014-03-22T01:02:04Z', 'labels': {'name': 'request'}}
+{'issuenumber': 360, 'title': 'Pattern matching in let expressions not working', 'state': 'closed', 'created_at': '2013-11-23T11:41:27Z', 'closed_at': '2015-08-06T00:24:30Z', 'labels': []}
+{'issuenumber': 354, 'title': 'Http.post with an empty string URL returns current page', 'state': 'closed', 'created_at': '2013-11-20T17:41:10Z', 'closed_at': '2013-11-20T17:42:07Z', 'labels': []}
+{'issuenumber': 353, 'title': 'Http.post with an empty string URL returns current page', 'state': 'closed', 'created_at': '2013-11-20T17:40:35Z', 'closed_at': '2015-05-08T00:46:21Z', 'labels': []}
+{'issuenumber': 349, 'title': 'stack overflow during type checking of badly typed function', 'state': 'closed', 'created_at': '2013-11-17T10:20:22Z', 'closed_at': '2015-05-07T17:50:14Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 348, 'title': 'Stack overflow on recursive record type', 'state': 'closed', 'created_at': '2013-11-16T22:06:04Z', 'closed_at': '2014-03-22T01:04:24Z', 'labels': []}
+{'issuenumber': 347, 'title': 'scoping bug in pure code', 'state': 'closed', 'created_at': '2013-11-16T13:54:07Z', 'closed_at': '2014-01-20T07:09:03Z', 'labels': []}
+{'issuenumber': 346, 'title': 'foldl seems to be defined incorrectly', 'state': 'closed', 'created_at': '2013-11-16T03:22:39Z', 'closed_at': '2013-11-18T22:32:13Z', 'labels': []}
+{'issuenumber': 343, 'title': 'JSON.Boolean constructor wrong?', 'state': 'closed', 'created_at': '2013-11-15T12:00:18Z', 'closed_at': '2013-11-18T16:14:15Z', 'labels': []}
+{'issuenumber': 339, 'title': 'Elm signal graph piles up events and leaks memory', 'state': 'closed', 'created_at': '2013-11-13T09:59:10Z', 'closed_at': '2013-11-24T19:27:00Z', 'labels': []}
+{'issuenumber': 337, 'title': 'elm-server bus error new installation', 'state': 'closed', 'created_at': '2013-11-10T22:47:23Z', 'closed_at': '2013-11-11T01:51:42Z', 'labels': []}
+{'issuenumber': 336, 'title': 'Bad link to compiler code', 'state': 'closed', 'created_at': '2013-11-10T03:44:42Z', 'closed_at': '2014-03-22T01:04:56Z', 'labels': []}
+{'issuenumber': 335, 'title': 'Pong tutorial error', 'state': 'closed', 'created_at': '2013-11-08T22:58:37Z', 'closed_at': '2014-03-22T01:06:35Z', 'labels': []}
+{'issuenumber': 334, 'title': 'tail [] should return empty list.', 'state': 'closed', 'created_at': '2013-11-08T06:20:42Z', 'closed_at': '2014-03-22T01:08:29Z', 'labels': []}
+{'issuenumber': 333, 'title': 'Slow performance in example games', 'state': 'closed', 'created_at': '2013-11-07T22:18:48Z', 'closed_at': '2014-03-22T01:17:19Z', 'labels': []}
+{'issuenumber': 328, 'title': 'misleading name for the stateful automaton creator', 'state': 'closed', 'created_at': '2013-11-07T04:15:42Z', 'closed_at': '2014-03-22T01:15:12Z', 'labels': []}
+{'issuenumber': 327, 'title': 'Invalid Map created for Metadata.Prelude.interfaces', 'state': 'closed', 'created_at': '2013-11-06T21:28:13Z', 'closed_at': '2013-11-07T18:51:50Z', 'labels': []}
+{'issuenumber': 326, 'title': 'Graphics.Input.fields does not update "ghost text"', 'state': 'closed', 'created_at': '2013-11-06T16:20:43Z', 'closed_at': '2014-03-22T01:12:57Z', 'labels': []}
+{'issuenumber': 325, 'title': 'Elm defaults to using the installed interfaces.data file even when running a locally-built (but not installed) elm', 'state': 'closed', 'created_at': '2013-11-05T17:06:00Z', 'closed_at': '2013-11-06T16:37:31Z', 'labels': []}
+{'issuenumber': 318, 'title': 'Inner pattern match overshadows outer pattern match', 'state': 'closed', 'created_at': '2013-10-31T23:45:33Z', 'closed_at': '2013-11-04T10:46:55Z', 'labels': []}
+{'issuenumber': 313, 'title': 'Automatically invalidate .elmi files created with incompatible compiler versions', 'state': 'closed', 'created_at': '2013-10-29T14:58:17Z', 'closed_at': '2013-11-05T01:44:42Z', 'labels': {'name': 'request'}}
+{'issuenumber': 310, 'title': "Sets aren't comparable", 'state': 'closed', 'created_at': '2013-10-27T09:36:50Z', 'closed_at': '2015-08-05T03:30:13Z', 'labels': {'name': 'request'}}
+{'issuenumber': 309, 'title': "JavaScript error: 'request is not defined' when setting headers in Http.request", 'state': 'closed', 'created_at': '2013-10-24T13:20:35Z', 'closed_at': '2013-10-24T16:43:05Z', 'labels': []}
+{'issuenumber': 308, 'title': 'Compiler fails with "too few bytes" on OS X', 'state': 'closed', 'created_at': '2013-10-22T14:02:22Z', 'closed_at': '2013-10-22T14:40:08Z', 'labels': []}
+{'issuenumber': 305, 'title': 'Can no longer instantiate record extension of concrete empty record.', 'state': 'closed', 'created_at': '2013-10-19T23:41:03Z', 'closed_at': '2013-10-22T06:42:08Z', 'labels': []}
+{'issuenumber': 304, 'title': 'Print program even when elmi files are present', 'state': 'closed', 'created_at': '2013-10-19T20:55:24Z', 'closed_at': '2013-10-30T20:50:10Z', 'labels': []}
+{'issuenumber': 302, 'title': 'Non-type arguments to datatype value constructors', 'state': 'closed', 'created_at': '2013-10-18T20:49:14Z', 'closed_at': '2013-10-19T14:39:25Z', 'labels': []}
+{'issuenumber': 301, 'title': 'Type aliasing fails for records vs. record', 'state': 'closed', 'created_at': '2013-10-18T05:32:30Z', 'closed_at': '2014-10-07T00:06:06Z', 'labels': []}
+{'issuenumber': 299, 'title': '--print-types flag only works with freshly changed .elm files', 'state': 'closed', 'created_at': '2013-10-17T17:52:44Z', 'closed_at': '2014-03-22T01:13:34Z', 'labels': []}
+{'issuenumber': 296, 'title': 'Uncaught ReferenceError: Order is not defined ', 'state': 'closed', 'created_at': '2013-10-15T14:30:03Z', 'closed_at': '2013-10-15T15:41:55Z', 'labels': []}
+{'issuenumber': 295, 'title': 'Recursive values are not caught by the compiler but generate faulty code', 'state': 'closed', 'created_at': '2013-10-15T13:16:41Z', 'closed_at': '2015-05-08T01:25:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 294, 'title': 'Infinite types cause the type checker to overflow the stack', 'state': 'closed', 'created_at': '2013-10-14T22:19:27Z', 'closed_at': '2013-11-20T06:31:47Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 293, 'title': '--print-types realiases from global context', 'state': 'closed', 'created_at': '2013-10-14T21:21:47Z', 'closed_at': '2015-05-08T00:45:47Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 292, 'title': 'bug in field function produced by Graphics.Input.fields', 'state': 'closed', 'created_at': '2013-10-14T06:22:46Z', 'closed_at': '2014-03-22T01:18:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 291, 'title': 'Mouse.position reports incorrect values in embedded widget', 'state': 'closed', 'created_at': '2013-10-13T20:18:56Z', 'closed_at': '2013-10-14T02:56:54Z', 'labels': []}
+{'issuenumber': 289, 'title': 'asText split string', 'state': 'closed', 'created_at': '2013-10-10T01:14:59Z', 'closed_at': '2013-10-12T15:17:59Z', 'labels': []}
+{'issuenumber': 287, 'title': 'Typechecking tuples of lists of Floats', 'state': 'closed', 'created_at': '2013-10-09T02:41:42Z', 'closed_at': '2013-10-14T21:23:30Z', 'labels': []}
+{'issuenumber': 286, 'title': 'Pattern matching on empty list', 'state': 'closed', 'created_at': '2013-10-07T23:17:34Z', 'closed_at': '2013-10-09T03:13:04Z', 'labels': []}
+{'issuenumber': 285, 'title': 'Add Elm Todo FRP to http://todomvc.com/', 'state': 'closed', 'created_at': '2013-10-07T19:10:05Z', 'closed_at': '2013-10-14T21:25:22Z', 'labels': []}
+{'issuenumber': 284, 'title': 'elm-doc: better error messages on ill-formatted documentation', 'state': 'closed', 'created_at': '2013-10-07T18:05:13Z', 'closed_at': '2015-05-10T00:24:20Z', 'labels': {'name': 'request'}}
+{'issuenumber': 283, 'title': 'Collage makes covered input elements unreachable', 'state': 'closed', 'created_at': '2013-10-07T14:27:50Z', 'closed_at': '2015-05-08T00:45:23Z', 'labels': []}
+{'issuenumber': 282, 'title': "hoverables doesn't dynamically update handlers correctly.", 'state': 'closed', 'created_at': '2013-10-07T13:39:07Z', 'closed_at': '2014-03-22T01:24:51Z', 'labels': []}
+{'issuenumber': 280, 'title': 'Compiler overflows stack', 'state': 'closed', 'created_at': '2013-10-06T13:47:35Z', 'closed_at': '2013-10-14T21:39:00Z', 'labels': []}
+{'issuenumber': 279, 'title': 'Pattern matching negative numbers in case statements', 'state': 'closed', 'created_at': '2013-10-06T00:22:36Z', 'closed_at': '2013-10-14T22:06:50Z', 'labels': {'name': 'request'}}
+{'issuenumber': 278, 'title': 'module exports do not filter values during type checking', 'state': 'closed', 'created_at': '2013-10-04T20:18:45Z', 'closed_at': '2014-06-12T19:33:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 277, 'title': 'add syntax for module reexport', 'state': 'closed', 'created_at': '2013-10-04T20:08:07Z', 'closed_at': '2015-05-08T00:39:33Z', 'labels': {'name': 'request'}}
+{'issuenumber': 274, 'title': 'Better error when failure in unifying rigid type variables', 'state': 'closed', 'created_at': '2013-10-01T12:41:45Z', 'closed_at': '2015-08-06T01:05:49Z', 'labels': {'name': 'request'}}
+{'issuenumber': 271, 'title': 'Weird behaviour of customButtons', 'state': 'closed', 'created_at': '2013-09-28T06:11:53Z', 'closed_at': '2014-04-02T18:25:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 270, 'title': 'Installing Elm on Haskell Platform 2013.2.0.0', 'state': 'closed', 'created_at': '2013-09-27T19:12:40Z', 'closed_at': '2013-09-28T14:18:52Z', 'labels': []}
+{'issuenumber': 269, 'title': 'collage of forms as hyperlink does not always work', 'state': 'closed', 'created_at': '2013-09-25T20:53:37Z', 'closed_at': '2013-10-14T22:12:00Z', 'labels': []}
+{'issuenumber': 267, 'title': 'Signal processing in the wrong order?', 'state': 'closed', 'created_at': '2013-09-23T19:14:37Z', 'closed_at': '2016-05-12T18:07:19Z', 'labels': []}
+{'issuenumber': 265, 'title': 'elm and elm-server have incompatible dependencies', 'state': 'closed', 'created_at': '2013-09-20T02:16:35Z', 'closed_at': '2013-10-14T21:10:26Z', 'labels': []}
+{'issuenumber': 264, 'title': 'Numerical computations error with large numbers', 'state': 'closed', 'created_at': '2013-09-19T22:22:16Z', 'closed_at': '2015-08-29T03:19:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 263, 'title': 'No location reported for type error in patterns', 'state': 'closed', 'created_at': '2013-09-19T16:38:50Z', 'closed_at': '2015-05-08T00:43:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 262, 'title': 'Modulo 0 Causes Infinite Recursion', 'state': 'closed', 'created_at': '2013-09-19T07:31:13Z', 'closed_at': '2013-09-22T14:47:51Z', 'labels': []}
+{'issuenumber': 260, 'title': ' TypeError: curr is undefined @ http://localhost:3000/Static/elm-runtime.js:6027', 'state': 'closed', 'created_at': '2013-09-19T04:55:36Z', 'closed_at': '2013-10-14T22:13:23Z', 'labels': []}
+{'issuenumber': 258, 'title': "Can't Write a Function of >=10 Arguments", 'state': 'closed', 'created_at': '2013-09-17T05:59:56Z', 'closed_at': '2013-09-17T23:36:03Z', 'labels': []}
+{'issuenumber': 257, 'title': 'Weird bug with Set', 'state': 'closed', 'created_at': '2013-09-14T18:31:37Z', 'closed_at': '2013-09-22T20:00:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 256, 'title': 'Stack overflow on case match with recursion', 'state': 'closed', 'created_at': '2013-09-13T11:08:21Z', 'closed_at': '2013-10-14T22:21:01Z', 'labels': []}
+{'issuenumber': 255, 'title': 'Cookie in elm?', 'state': 'closed', 'created_at': '2013-09-11T01:12:12Z', 'closed_at': '2014-11-26T04:22:27Z', 'labels': []}
+{'issuenumber': 242, 'title': 'unsafePerformSignal', 'state': 'closed', 'created_at': '2013-09-08T18:27:46Z', 'closed_at': '2013-09-22T15:07:45Z', 'labels': []}
+{'issuenumber': 241, 'title': "Qualified or specified import doesn't work.", 'state': 'closed', 'created_at': '2013-09-08T18:05:08Z', 'closed_at': '2013-09-08T20:03:22Z', 'labels': []}
+{'issuenumber': 238, 'title': 'Rank N Polymorphism / unification issue', 'state': 'closed', 'created_at': '2013-09-04T05:27:29Z', 'closed_at': '2015-08-29T04:20:47Z', 'labels': {'name': 'request'}}
+{'issuenumber': 237, 'title': 'JS Syntax Error when using Case statement', 'state': 'closed', 'created_at': '2013-09-01T15:53:02Z', 'closed_at': '2013-10-14T19:06:52Z', 'labels': []}
+{'issuenumber': 234, 'title': 'midTop getting reset to middle following midBottom', 'state': 'closed', 'created_at': '2013-09-01T04:20:16Z', 'closed_at': '2013-09-02T08:20:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 231, 'title': 'Make record syntax more lenient', 'state': 'closed', 'created_at': '2013-08-28T12:44:09Z', 'closed_at': '2015-08-29T02:12:13Z', 'labels': {'name': 'request'}}
+{'issuenumber': 230, 'title': 'midBottom element is being drawn at the top of the window while arrow key is held down', 'state': 'closed', 'created_at': '2013-08-28T04:28:54Z', 'closed_at': '2013-09-02T08:18:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 229, 'title': 'flow up changes element positions on signal change', 'state': 'closed', 'created_at': '2013-08-28T03:09:37Z', 'closed_at': '2015-08-06T00:00:47Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 228, 'title': 'Elements in a flow down are jumping around when updated', 'state': 'closed', 'created_at': '2013-08-27T04:10:35Z', 'closed_at': '2015-08-06T00:01:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 226, 'title': 'Javascript keywords as variable names results in faulty generated code', 'state': 'closed', 'created_at': '2013-08-24T12:03:00Z', 'closed_at': '2013-08-24T21:14:38Z', 'labels': []}
+{'issuenumber': 225, 'title': "--print-types doesn't work when compiler compiled successfully before", 'state': 'closed', 'created_at': '2013-08-24T09:47:46Z', 'closed_at': '2013-08-24T21:18:35Z', 'labels': []}
+{'issuenumber': 224, 'title': 'PlainText fields not updating in elm 0.9', 'state': 'closed', 'created_at': '2013-08-22T21:04:14Z', 'closed_at': '2013-11-24T20:11:49Z', 'labels': []}
+{'issuenumber': 223, 'title': 'Implcit synonym record constructors not imported?', 'state': 'closed', 'created_at': '2013-08-22T05:08:16Z', 'closed_at': '2013-08-22T19:22:12Z', 'labels': []}
+{'issuenumber': 222, 'title': 'rotate 90, 180 and 270 degress does not work', 'state': 'closed', 'created_at': '2013-08-21T20:09:19Z', 'closed_at': '2013-09-01T04:35:04Z', 'labels': []}
+{'issuenumber': 221, 'title': 'Error in let..in expression when returning a tagged record type', 'state': 'closed', 'created_at': '2013-08-18T09:35:44Z', 'closed_at': '2013-08-18T20:16:09Z', 'labels': []}
+{'issuenumber': 219, 'title': 'type of main unchecked', 'state': 'closed', 'created_at': '2013-08-17T13:32:19Z', 'closed_at': '2013-08-22T02:54:35Z', 'labels': []}
+{'issuenumber': 217, 'title': 'Multiple Keyboard inputs seem to interfere, disabling each other', 'state': 'closed', 'created_at': '2013-08-15T01:40:16Z', 'closed_at': '2013-08-22T03:05:11Z', 'labels': []}
+{'issuenumber': 216, 'title': 'Expected type and actual type switched in type error messages.', 'state': 'closed', 'created_at': '2013-08-14T10:53:16Z', 'closed_at': '2013-11-24T20:12:02Z', 'labels': {'name': 'request'}}
+{'issuenumber': 215, 'title': 'Compiler stack overflow when defining strange recursive function', 'state': 'closed', 'created_at': '2013-08-14T08:25:48Z', 'closed_at': '2013-10-14T22:23:38Z', 'labels': []}
+{'issuenumber': 214, 'title': 'Using JavaScript Reserved Identifiers Crashes at Runtime', 'state': 'closed', 'created_at': '2013-08-14T05:52:20Z', 'closed_at': '2013-08-26T03:27:49Z', 'labels': []}
+{'issuenumber': 213, 'title': 'Improve the compile error for syntax error when instantiating tagged record type', 'state': 'closed', 'created_at': '2013-08-14T05:25:13Z', 'closed_at': '2013-08-22T03:00:47Z', 'labels': []}
+{'issuenumber': 212, 'title': 'Unable to construct tagged record type', 'state': 'closed', 'created_at': '2013-08-14T01:21:40Z', 'closed_at': '2013-08-14T03:19:19Z', 'labels': []}
+{'issuenumber': 211, 'title': 'type constructor for tuples missing; type checks but runtime fail', 'state': 'closed', 'created_at': '2013-08-13T23:36:39Z', 'closed_at': '2014-11-26T04:24:41Z', 'labels': {'name': 'request'}}
+{'issuenumber': 210, 'title': 'button suddenly gets style background: transparent', 'state': 'closed', 'created_at': '2013-08-13T12:09:31Z', 'closed_at': '2014-10-08T06:41:21Z', 'labels': []}
+{'issuenumber': 209, 'title': 'Runtime error with automaton', 'state': 'closed', 'created_at': '2013-08-13T11:31:52Z', 'closed_at': '2013-08-14T01:10:29Z', 'labels': []}
+{'issuenumber': 208, 'title': "elm-server doesn't build because Language.Elm.toHtml is no longer exported", 'state': 'closed', 'created_at': '2013-08-10T06:51:35Z', 'closed_at': '2013-08-22T03:01:29Z', 'labels': []}
+{'issuenumber': 207, 'title': 'compiler flag --print-types only works once', 'state': 'closed', 'created_at': '2013-08-08T18:50:06Z', 'closed_at': '2013-10-29T15:11:01Z', 'labels': []}
+{'issuenumber': 205, 'title': 'multi-line strings + windows line endings in source = javascript syntax error', 'state': 'closed', 'created_at': '2013-08-07T13:39:33Z', 'closed_at': '2013-08-08T18:11:29Z', 'labels': []}
+{'issuenumber': 203, 'title': 'Extended records not unifying with their "concrete instantiations"', 'state': 'closed', 'created_at': '2013-08-07T01:37:58Z', 'closed_at': '2013-08-08T23:17:30Z', 'labels': []}
+{'issuenumber': 202, 'title': 'Error when creating collage with group and checkbox', 'state': 'closed', 'created_at': '2013-08-06T13:05:52Z', 'closed_at': '2013-08-07T11:13:12Z', 'labels': []}
+{'issuenumber': 201, 'title': 'Wrong layout in collage with groups', 'state': 'closed', 'created_at': '2013-08-06T12:49:27Z', 'closed_at': '2013-08-07T09:03:37Z', 'labels': []}
+{'issuenumber': 200, 'title': 'Compiler fails in Windows 7', 'state': 'closed', 'created_at': '2013-08-05T17:45:55Z', 'closed_at': '2013-08-06T12:20:22Z', 'labels': []}
+{'issuenumber': 199, 'title': 'Name of ADT constructor differs in JS object and JS case statement', 'state': 'closed', 'created_at': '2013-08-01T02:55:45Z', 'closed_at': '2013-08-07T03:44:35Z', 'labels': []}
+{'issuenumber': 198, 'title': 'If WebSocket connection gets interrupted, it stays interrupted', 'state': 'closed', 'created_at': '2013-07-29T11:15:09Z', 'closed_at': '2015-08-05T23:58:07Z', 'labels': []}
+{'issuenumber': 197, 'title': "Name of constructor isn't checked", 'state': 'closed', 'created_at': '2013-07-20T22:50:01Z', 'closed_at': '2013-08-08T22:49:59Z', 'labels': []}
+{'issuenumber': 196, 'title': 'Type checker fails', 'state': 'closed', 'created_at': '2013-07-18T20:15:15Z', 'closed_at': '2013-08-08T22:52:06Z', 'labels': []}
+{'issuenumber': 195, 'title': "Elm still compiles if I don't include the module name before a module function", 'state': 'closed', 'created_at': '2013-07-17T18:26:39Z', 'closed_at': '2013-08-08T22:53:04Z', 'labels': []}
+{'issuenumber': 193, 'title': 'y axis flipped for some forms', 'state': 'closed', 'created_at': '2013-07-13T10:31:16Z', 'closed_at': '2013-08-12T20:12:41Z', 'labels': []}
+{'issuenumber': 192, 'title': "Can't define record types with more than 9 fields", 'state': 'closed', 'created_at': '2013-07-11T10:34:27Z', 'closed_at': '2013-08-08T23:05:16Z', 'labels': []}
+{'issuenumber': 191, 'title': 'Zombie touches if "Alt" key pressed during dragging using mouse (MacOSX 10.8.4, Firefox 22)', 'state': 'closed', 'created_at': '2013-07-09T01:47:11Z', 'closed_at': '2015-08-06T00:01:43Z', 'labels': []}
+{'issuenumber': 189, 'title': 'Using Mouse.isDown with Input.dropBox gives wrong results', 'state': 'closed', 'created_at': '2013-07-08T02:52:23Z', 'closed_at': '2013-07-08T04:53:55Z', 'labels': []}
+{'issuenumber': 188, 'title': 'Maximum call stack size exceeded when using `fromJSObject`', 'state': 'closed', 'created_at': '2013-07-07T15:15:30Z', 'closed_at': '2014-11-26T04:26:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 187, 'title': "Keyboard.lastPressed doesn't report arrow keys being pressed on some browsers", 'state': 'closed', 'created_at': '2013-07-02T04:33:53Z', 'closed_at': '2013-08-28T10:04:34Z', 'labels': []}
+{'issuenumber': 185, 'title': 'Invalid code on case with lists', 'state': 'closed', 'created_at': '2013-06-30T22:13:02Z', 'closed_at': '2013-08-16T19:41:42Z', 'labels': []}
+{'issuenumber': 183, 'title': 'Bug: Order of imports affects operator definitions', 'state': 'closed', 'created_at': '2013-06-29T22:56:20Z', 'closed_at': '2013-08-08T23:23:37Z', 'labels': []}
+{'issuenumber': 179, 'title': 'Automaton library bugs + fixes', 'state': 'closed', 'created_at': '2013-06-23T14:32:48Z', 'closed_at': '2013-06-23T14:39:42Z', 'labels': []}
+{'issuenumber': 178, 'title': 'windows bug, compiling from source with cabal', 'state': 'closed', 'created_at': '2013-06-23T14:20:40Z', 'closed_at': '2013-08-16T10:06:07Z', 'labels': []}
+{'issuenumber': 177, 'title': 'Cannot specify file paths for the compiler', 'state': 'closed', 'created_at': '2013-06-22T22:07:31Z', 'closed_at': '2013-08-16T20:05:50Z', 'labels': []}
+{'issuenumber': 176, 'title': 'Nil data constructor bug', 'state': 'closed', 'created_at': '2013-06-20T04:21:06Z', 'closed_at': '2013-08-08T23:11:26Z', 'labels': []}
+{'issuenumber': 174, 'title': 'poor performance parsing JSON', 'state': 'closed', 'created_at': '2013-06-15T16:11:56Z', 'closed_at': '2013-06-15T18:30:52Z', 'labels': []}
+{'issuenumber': 173, 'title': "Bug: Elm.Native.Http never 'Waiting'", 'state': 'closed', 'created_at': '2013-06-10T15:37:41Z', 'closed_at': '2015-05-08T00:40:33Z', 'labels': []}
+{'issuenumber': 172, 'title': 'build failure with current master (776ef7c)', 'state': 'closed', 'created_at': '2013-06-10T05:32:10Z', 'closed_at': '2013-06-10T12:35:24Z', 'labels': []}
+{'issuenumber': 169, 'title': 'Multiline strings and Markdown function', 'state': 'closed', 'created_at': '2013-06-08T22:19:22Z', 'closed_at': '2013-08-16T19:28:57Z', 'labels': []}
+{'issuenumber': 168, 'title': 'Javascript error on invalid Elm code', 'state': 'closed', 'created_at': '2013-06-07T20:23:35Z', 'closed_at': '2013-08-16T19:27:06Z', 'labels': []}
+{'issuenumber': 162, 'title': 'Let declaration order messed up. Result: "Uncaught TypeError: undefined is not a function"', 'state': 'closed', 'created_at': '2013-05-26T17:22:23Z', 'closed_at': '2013-05-28T14:03:51Z', 'labels': []}
+{'issuenumber': 161, 'title': 'More module system bugs', 'state': 'closed', 'created_at': '2013-05-22T11:54:22Z', 'closed_at': '2015-05-08T00:35:55Z', 'labels': {'name': 'request'}}
+{'issuenumber': 160, 'title': 'Bug in Dict/Set library', 'state': 'closed', 'created_at': '2013-05-21T21:03:08Z', 'closed_at': '2013-09-22T15:11:41Z', 'labels': []}
+{'issuenumber': 159, 'title': "Dev branch: docs.json isn't being built when running cabal install on Windows XP", 'state': 'closed', 'created_at': '2013-05-16T04:53:17Z', 'closed_at': '2013-08-16T19:26:01Z', 'labels': []}
+{'issuenumber': 150, 'title': 'Elm install woes with Cabal -- language-javascript-0.5.7 dependency', 'state': 'closed', 'created_at': '2013-05-10T04:51:16Z', 'closed_at': '2013-05-10T18:28:53Z', 'labels': []}
+{'issuenumber': 149, 'title': "Default Elm runtime doesn't link correctly on Windows", 'state': 'closed', 'created_at': '2013-05-06T15:59:26Z', 'closed_at': '2014-11-26T04:26:44Z', 'labels': []}
+{'issuenumber': 148, 'title': 'Int/Float is not part of Number supertype', 'state': 'closed', 'created_at': '2013-05-06T03:18:55Z', 'closed_at': '2013-05-21T21:04:46Z', 'labels': []}
+{'issuenumber': 147, 'title': 'Request: add list comprehensions', 'state': 'closed', 'created_at': '2013-05-04T18:49:44Z', 'closed_at': '2013-05-05T00:30:31Z', 'labels': {'name': 'request'}}
+{'issuenumber': 146, 'title': 'Definitions should be order agnostic', 'state': 'closed', 'created_at': '2013-05-04T18:43:03Z', 'closed_at': '2013-08-08T23:12:44Z', 'labels': {'name': 'request'}}
+{'issuenumber': 145, 'title': 'Unhelpful error message', 'state': 'closed', 'created_at': '2013-05-03T06:38:36Z', 'closed_at': '2013-05-03T22:40:08Z', 'labels': []}
+{'issuenumber': 144, 'title': 'Order of definitions matters for signals. Is this intended?', 'state': 'closed', 'created_at': '2013-05-03T06:31:09Z', 'closed_at': '2013-05-04T02:55:18Z', 'labels': {'name': 'request'}}
+{'issuenumber': 143, 'title': 'HTML helpers', 'state': 'closed', 'created_at': '2013-05-02T15:14:32Z', 'closed_at': '2015-05-08T00:29:44Z', 'labels': {'name': 'request'}}
+{'issuenumber': 141, 'title': 'Pong game broken', 'state': 'closed', 'created_at': '2013-04-23T01:05:16Z', 'closed_at': '2013-05-04T03:01:09Z', 'labels': []}
+{'issuenumber': 139, 'title': 'switchers', 'state': 'closed', 'created_at': '2013-04-15T16:10:00Z', 'closed_at': '2013-05-03T22:34:00Z', 'labels': []}
+{'issuenumber': 138, 'title': 'strange error with let expression', 'state': 'closed', 'created_at': '2013-04-11T18:20:40Z', 'closed_at': '2013-05-21T21:08:40Z', 'labels': []}
+{'issuenumber': 137, 'title': '`elm -s --output-directory` generates incorrect relative script src link in html', 'state': 'closed', 'created_at': '2013-04-11T01:17:16Z', 'closed_at': '2013-08-17T19:54:06Z', 'labels': []}
+{'issuenumber': 136, 'title': "Runtime says that a pattern match is non-exhaustive: that's not possible.", 'state': 'closed', 'created_at': '2013-04-03T22:31:49Z', 'closed_at': '2013-08-16T19:20:36Z', 'labels': []}
+{'issuenumber': 126, 'title': 'Compile to single file', 'state': 'closed', 'created_at': '2013-03-23T14:59:31Z', 'closed_at': '2013-03-24T04:16:34Z', 'labels': []}
+{'issuenumber': 123, 'title': 'RTS List.elm:  sum = L.foldl (+) 0 fails', 'state': 'closed', 'created_at': '2013-03-21T21:37:59Z', 'closed_at': '2013-05-21T21:10:26Z', 'labels': []}
+{'issuenumber': 121, 'title': 'Default html generates absolute path to elm runtime.', 'state': 'closed', 'created_at': '2013-03-19T01:45:47Z', 'closed_at': '2013-08-07T03:44:54Z', 'labels': []}
+{'issuenumber': 120, 'title': 'Clean install is looking for docs.json', 'state': 'closed', 'created_at': '2013-03-19T01:42:50Z', 'closed_at': '2013-05-21T21:10:50Z', 'labels': []}
+{'issuenumber': 114, 'title': 'Record pattern in case-of pattern results in compiler runtime error', 'state': 'closed', 'created_at': '2013-03-11T17:44:40Z', 'closed_at': '2013-05-21T21:30:30Z', 'labels': []}
+{'issuenumber': 111, 'title': 'Compiler error "String is not equal to String" in record instantiation', 'state': 'closed', 'created_at': '2013-03-07T10:05:03Z', 'closed_at': '2013-03-08T01:05:59Z', 'labels': []}
+{'issuenumber': 109, 'title': 'On Ubuntu 12.04 (32-bit) on AWS EC2 (after fresh install of haskell-platform and yesod-platform): "cabal install elm-yesod" gives error at Language/Elm/Yesod.hs:(65,1)-(73,46)', 'state': 'closed', 'created_at': '2013-03-01T16:25:07Z', 'closed_at': '2013-08-16T19:51:45Z', 'labels': []}
+{'issuenumber': 108, 'title': 'On Win7 64-bit: (1) "compile.bat" gives error: Could not find module \'Happstack.Server.Compression\'; (2) "cabal install elm-yesod" gives error: unable to load package \'regex-pcre-builtin-0.94.4.5.8.31\'', 'state': 'closed', 'created_at': '2013-03-01T14:34:11Z', 'closed_at': '2013-08-16T19:18:20Z', 'labels': []}
+{'issuenumber': 107, 'title': "arrows is a record that can't be printed", 'state': 'closed', 'created_at': '2013-02-21T20:58:05Z', 'closed_at': '2013-02-21T22:21:26Z', 'labels': []}
+{'issuenumber': 106, 'title': 'No exponentiation operator (**) or method', 'state': 'closed', 'created_at': '2013-02-14T10:07:31Z', 'closed_at': '2013-02-14T10:14:11Z', 'labels': []}
+{'issuenumber': 105, 'title': 'flow down flows to the right sometimes', 'state': 'closed', 'created_at': '2013-02-12T18:19:38Z', 'closed_at': '2015-08-05T23:59:53Z', 'labels': []}
+{'issuenumber': 104, 'title': 'Version Control Sanity for Contributors', 'state': 'closed', 'created_at': '2013-02-12T05:06:44Z', 'closed_at': '2013-03-15T01:48:25Z', 'labels': []}
+{'issuenumber': 103, 'title': 'pong.elm paddles: up is down', 'state': 'closed', 'created_at': '2013-02-12T04:59:00Z', 'closed_at': '2013-03-11T08:00:18Z', 'labels': []}
+{'issuenumber': 102, 'title': 'Form transformations are communitive (bad)', 'state': 'closed', 'created_at': '2013-02-12T04:34:29Z', 'closed_at': '2013-02-12T04:42:27Z', 'labels': []}
+{'issuenumber': 101, 'title': 'record update zeroing a field?', 'state': 'closed', 'created_at': '2013-02-11T20:36:39Z', 'closed_at': '2013-08-16T19:14:34Z', 'labels': []}
+{'issuenumber': 100, 'title': 'no compiler error when assign undefined symbols to main', 'state': 'closed', 'created_at': '2013-02-11T16:49:10Z', 'closed_at': '2013-08-15T18:44:50Z', 'labels': []}
+{'issuenumber': 99, 'title': "ELM.exe doesn't set ERRORLEVEL on failure on Windows", 'state': 'closed', 'created_at': '2013-02-11T15:01:04Z', 'closed_at': '2013-05-21T21:29:08Z', 'labels': []}
+{'issuenumber': 98, 'title': 'Importing Record Type Synonyms', 'state': 'closed', 'created_at': '2013-02-10T22:13:43Z', 'closed_at': '2013-08-07T03:45:50Z', 'labels': {'name': 'request'}}
+{'issuenumber': 97, 'title': 'A new (i.e. wrong?) compile error on previously working Elm code', 'state': 'closed', 'created_at': '2013-02-09T20:00:56Z', 'closed_at': '2013-02-09T21:04:42Z', 'labels': []}
+{'issuenumber': 96, 'title': 'type Either defined as a Maybe', 'state': 'closed', 'created_at': '2013-02-09T09:22:21Z', 'closed_at': '2013-02-09T18:46:47Z', 'labels': []}
+{'issuenumber': 94, 'title': 'elm-happstack example is outdated (i.e. index.elm fails to load/compile)', 'state': 'closed', 'created_at': '2013-02-07T18:54:32Z', 'closed_at': '2013-02-09T19:20:26Z', 'labels': []}
+{'issuenumber': 93, 'title': "builtInModules doesn't have Either", 'state': 'closed', 'created_at': '2013-02-07T17:25:51Z', 'closed_at': '2013-02-07T18:56:08Z', 'labels': []}
+{'issuenumber': 91, 'title': 'Set.remove bug', 'state': 'closed', 'created_at': '2013-02-07T01:38:33Z', 'closed_at': '2013-05-03T22:36:42Z', 'labels': []}
+{'issuenumber': 90, 'title': 'isClickedOn', 'state': 'closed', 'created_at': '2013-02-05T00:50:32Z', 'closed_at': '2013-02-05T23:10:20Z', 'labels': []}
+{'issuenumber': 88, 'title': 'Add String split to Prelude/JavaScript', 'state': 'closed', 'created_at': '2013-02-02T05:28:09Z', 'closed_at': '2013-05-21T21:19:37Z', 'labels': []}
+{'issuenumber': 87, 'title': 'JSON fromString does not handle invalid input', 'state': 'closed', 'created_at': '2013-02-02T05:21:16Z', 'closed_at': '2013-02-03T09:44:30Z', 'labels': []}
+{'issuenumber': 86, 'title': 'JSON not working as expected', 'state': 'closed', 'created_at': '2013-02-02T05:03:52Z', 'closed_at': '2014-11-26T04:28:23Z', 'labels': []}
+{'issuenumber': 85, 'title': 'Add SVG support', 'state': 'closed', 'created_at': '2013-02-01T14:00:10Z', 'closed_at': '2013-02-02T11:53:00Z', 'labels': []}
+{'issuenumber': 83, 'title': 'core-elm does not always compile', 'state': 'closed', 'created_at': '2013-01-30T02:49:55Z', 'closed_at': '2013-03-15T01:48:59Z', 'labels': []}
+{'issuenumber': 80, 'title': "Installing Elm fails on Ubuntu (Not in scope: `Pan.defaultParserState')", 'state': 'closed', 'created_at': '2013-01-21T14:19:51Z', 'closed_at': '2013-01-25T18:44:38Z', 'labels': []}
+{'issuenumber': 79, 'title': 'Would be nice to have classical TODO list example', 'state': 'closed', 'created_at': '2013-01-18T21:51:05Z', 'closed_at': '2014-03-22T01:29:30Z', 'labels': {'name': 'request'}}
+{'issuenumber': 77, 'title': 'Embedded quote syntax for JS FFI', 'state': 'closed', 'created_at': '2013-01-10T10:54:05Z', 'closed_at': '2013-08-16T19:12:56Z', 'labels': {'name': 'request'}}
+{'issuenumber': 76, 'title': 'Idiom brackets', 'state': 'closed', 'created_at': '2013-01-10T10:45:29Z', 'closed_at': '2013-05-21T21:20:31Z', 'labels': {'name': 'request'}}
+{'issuenumber': 75, 'title': 'Two similar programs, Elm 0.7 compiles one of them and not the other one', 'state': 'closed', 'created_at': '2013-01-04T14:41:12Z', 'closed_at': '2013-01-25T18:45:06Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 74, 'title': 'http://elm-lang.org/Try.html gives error || http://elm-lang.org/Try.elm gives nothing but message in the middle of the page', 'state': 'closed', 'created_at': '2013-01-04T13:31:24Z', 'closed_at': '2013-01-06T00:29:12Z', 'labels': []}
+{'issuenumber': 73, 'title': 'Easily Constructing Records', 'state': 'closed', 'created_at': '2013-01-02T07:25:42Z', 'closed_at': '2013-08-16T19:09:07Z', 'labels': {'name': 'request'}}
+{'issuenumber': 72, 'title': 'Random numbers', 'state': 'closed', 'created_at': '2013-01-02T01:20:15Z', 'closed_at': '2013-01-05T21:26:40Z', 'labels': []}
+{'issuenumber': 70, 'title': 'Linking pandoc makes Elm "effectively" GPL', 'state': 'closed', 'created_at': '2012-12-19T19:33:25Z', 'closed_at': '2013-05-03T22:36:05Z', 'labels': []}
+{'issuenumber': 67, 'title': 'Dict fromList seems to be broken.', 'state': 'closed', 'created_at': '2012-12-11T22:32:17Z', 'closed_at': '2012-12-18T14:31:29Z', 'labels': []}
+{'issuenumber': 66, 'title': 'Tuples are still incomparable.', 'state': 'closed', 'created_at': '2012-12-11T22:15:14Z', 'closed_at': '2013-08-15T18:43:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 65, 'title': 'Installing Elm on Fedora 17', 'state': 'closed', 'created_at': '2012-12-11T22:08:59Z', 'closed_at': '2013-02-03T09:36:21Z', 'labels': []}
+{'issuenumber': 64, 'title': 'Elm 0.6.0.1 shipping with 0.6 runtime', 'state': 'closed', 'created_at': '2012-12-11T07:49:45Z', 'closed_at': '2012-12-12T05:59:12Z', 'labels': []}
+{'issuenumber': 63, 'title': 'License Type?', 'state': 'closed', 'created_at': '2012-12-11T06:07:09Z', 'closed_at': '2013-01-06T00:30:58Z', 'labels': []}
+{'issuenumber': 62, 'title': 'Hello world example having an error with IE7', 'state': 'closed', 'created_at': '2012-12-11T04:26:51Z', 'closed_at': '2013-01-06T00:31:31Z', 'labels': []}
+{'issuenumber': 61, 'title': 'readInt and readFloat broken in Elm 0.6', 'state': 'closed', 'created_at': '2012-12-10T09:05:30Z', 'closed_at': '2012-12-11T05:47:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 60, 'title': 'http://elm-lang.org/misc/Pong.html gives a Server error: public//misc/Pong.html: openFile: does not exist (No such file or directory)', 'state': 'closed', 'created_at': '2012-12-09T07:32:57Z', 'closed_at': '2012-12-09T20:20:14Z', 'labels': []}
+{'issuenumber': 59, 'title': 'Parse error with unary (-) operator.', 'state': 'closed', 'created_at': '2012-12-05T22:14:26Z', 'closed_at': '2013-08-15T18:43:29Z', 'labels': {'name': 'request'}}
+{'issuenumber': 58, 'title': 'Where is the online compiler/REPL', 'state': 'closed', 'created_at': '2012-12-05T18:02:19Z', 'closed_at': '2012-12-08T03:34:32Z', 'labels': []}
+{'issuenumber': 57, 'title': 'Parse error with function composition operator.', 'state': 'closed', 'created_at': '2012-12-04T18:41:56Z', 'closed_at': '2012-12-11T21:16:11Z', 'labels': {'name': 'request'}}
+{'issuenumber': 56, 'title': 'bug with texFields ', 'state': 'closed', 'created_at': '2012-12-02T09:12:37Z', 'closed_at': '2013-05-21T21:25:56Z', 'labels': []}
+{'issuenumber': 55, 'title': '[cabal hell] Elm is incompatible with current Yesod version', 'state': 'closed', 'created_at': '2012-12-01T20:54:31Z', 'closed_at': '2012-12-09T00:14:03Z', 'labels': []}
+{'issuenumber': 54, 'title': 'toForm is not documented (and a bit illogical I think)', 'state': 'closed', 'created_at': '2012-12-01T14:16:18Z', 'closed_at': '2012-12-02T03:58:40Z', 'labels': []}
+{'issuenumber': 53, 'title': '[markdown|test|] is different thant plainText "test" (a newline in the former before content)', 'state': 'closed', 'created_at': '2012-12-01T14:00:46Z', 'closed_at': '2012-12-02T04:00:43Z', 'labels': []}
+{'issuenumber': 52, 'title': 'main = plainText "Vid\\éos"       bug', 'state': 'closed', 'created_at': '2012-12-01T13:56:28Z', 'closed_at': '2012-12-02T04:02:24Z', 'labels': []}
+{'issuenumber': 51, 'title': "combo box don't fit their inner contents on some browers", 'state': 'closed', 'created_at': '2012-11-27T06:16:27Z', 'closed_at': '2013-08-16T19:07:47Z', 'labels': []}
+{'issuenumber': 50, 'title': 'elm fails to compile Pong', 'state': 'closed', 'created_at': '2012-11-26T20:49:45Z', 'closed_at': '2012-11-28T07:05:09Z', 'labels': []}
+{'issuenumber': 48, 'title': 'request: automaton improvements', 'state': 'closed', 'created_at': '2012-11-24T13:39:11Z', 'closed_at': '2012-11-24T20:50:52Z', 'labels': []}
+{'issuenumber': 47, 'title': '"import Automaton (init\')" breaks', 'state': 'closed', 'created_at': '2012-11-23T13:23:33Z', 'closed_at': '2012-12-09T00:14:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 46, 'title': 'arbitrary element to become a buttons (that can trigger signals)', 'state': 'closed', 'created_at': '2012-11-18T22:34:59Z', 'closed_at': '2012-11-18T23:01:58Z', 'labels': []}
+{'issuenumber': 45, 'title': 'background properties of elements, beside color', 'state': 'closed', 'created_at': '2012-11-18T22:25:22Z', 'closed_at': '2013-08-16T19:06:28Z', 'labels': {'name': 'request'}}
+{'issuenumber': 44, 'title': 'hover signals / position signals', 'state': 'closed', 'created_at': '2012-11-18T22:05:41Z', 'closed_at': '2013-08-16T19:48:21Z', 'labels': {'name': 'request'}}
+{'issuenumber': 43, 'title': 'some unclear documentation stuff', 'state': 'closed', 'created_at': '2012-11-18T21:19:21Z', 'closed_at': '2012-12-02T04:26:37Z', 'labels': []}
+{'issuenumber': 42, 'title': "make a new  'elementLink' function that makes a link from an element", 'state': 'closed', 'created_at': '2012-11-18T21:08:36Z', 'closed_at': '2012-11-18T21:29:28Z', 'labels': []}
+{'issuenumber': 41, 'title': 'could you add a function addClass  :: Element -> String -> Element', 'state': 'closed', 'created_at': '2012-11-18T20:58:21Z', 'closed_at': '2012-11-20T18:03:16Z', 'labels': []}
+{'issuenumber': 40, 'title': 'middleAt is not working', 'state': 'closed', 'created_at': '2012-11-18T20:55:35Z', 'closed_at': '2012-12-09T00:14:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 39, 'title': 'elm-lang.org shows a blank page on IE8 and IE9', 'state': 'closed', 'created_at': '2012-11-14T13:34:46Z', 'closed_at': '2012-12-02T04:27:10Z', 'labels': []}
+{'issuenumber': 38, 'title': 'Support type classes', 'state': 'closed', 'created_at': '2012-11-12T10:03:21Z', 'closed_at': '2015-08-29T02:07:08Z', 'labels': {'name': 'request'}}
+{'issuenumber': 37, 'title': 'elm compiler option to embed runtime in html file?', 'state': 'closed', 'created_at': '2012-11-04T21:46:29Z', 'closed_at': '2014-09-25T15:37:26Z', 'labels': {'name': 'request'}}
+{'issuenumber': 36, 'title': 'implementation of fittedImage prevents animated gifs from working', 'state': 'closed', 'created_at': '2012-11-04T21:06:55Z', 'closed_at': '2012-11-05T02:19:31Z', 'labels': []}
+{'issuenumber': 35, 'title': "[JsonObject JsonValue] doesn't act like a list in all instances", 'state': 'closed', 'created_at': '2012-11-04T20:56:27Z', 'closed_at': '2012-11-04T21:59:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 34, 'title': 'cabal refuses to install elm package', 'state': 'closed', 'created_at': '2012-11-03T01:27:11Z', 'closed_at': '2013-08-16T19:00:02Z', 'labels': []}
+{'issuenumber': 33, 'title': 'String.fromCharCode is missing in Elm.Char.fromCode', 'state': 'closed', 'created_at': '2012-10-30T06:59:49Z', 'closed_at': '2012-10-31T07:58:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 32, 'title': 'The zip code example does not compile.', 'state': 'closed', 'created_at': '2012-10-12T16:14:50Z', 'closed_at': '2012-10-25T08:49:36Z', 'labels': []}
+{'issuenumber': 31, 'title': 'Support custom line thickness', 'state': 'closed', 'created_at': '2012-10-04T23:43:58Z', 'closed_at': '2013-08-15T18:42:26Z', 'labels': {'name': 'request'}}
+{'issuenumber': 30, 'title': 'Elm lacks String -> Number (and Number -> String) functions', 'state': 'closed', 'created_at': '2012-10-02T01:47:13Z', 'closed_at': '2012-10-25T08:50:27Z', 'labels': []}
+{'issuenumber': 28, 'title': 'Module system bugs when using elm --make', 'state': 'closed', 'created_at': '2012-09-26T02:48:59Z', 'closed_at': '2013-08-16T19:44:26Z', 'labels': {'name': 'request'}}
+{'issuenumber': 27, 'title': 'elm-lang.org brought down by infinite loop in compiler', 'state': 'closed', 'created_at': '2012-09-22T07:22:07Z', 'closed_at': '2012-10-25T08:51:26Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 26, 'title': 'shakespeare dependency needs minimum version', 'state': 'closed', 'created_at': '2012-09-17T05:12:36Z', 'closed_at': '2012-09-18T15:38:09Z', 'labels': []}
+{'issuenumber': 25, 'title': 'elm-server', 'state': 'closed', 'created_at': '2012-09-06T12:10:56Z', 'closed_at': '2012-10-01T22:42:24Z', 'labels': []}
+{'issuenumber': 24, 'title': 'Quicksort explanation', 'state': 'closed', 'created_at': '2012-07-05T02:45:24Z', 'closed_at': '2012-08-16T18:11:51Z', 'labels': {'name': 'request'}}
+{'issuenumber': 23, 'title': 'Decimal values error', 'state': 'closed', 'created_at': '2012-07-04T04:59:03Z', 'closed_at': '2012-08-16T18:39:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 22, 'title': 'foldr1 uses the wrong item for the base case', 'state': 'closed', 'created_at': '2012-07-03T20:30:41Z', 'closed_at': '2012-08-16T18:39:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 21, 'title': 'elm-lang.org does not work in conkeror', 'state': 'closed', 'created_at': '2012-06-04T17:54:51Z', 'closed_at': '2013-01-06T00:32:07Z', 'labels': []}
+{'issuenumber': 8, 'title': 'collage filled to Window.dimensions falls short', 'state': 'closed', 'created_at': '2012-05-25T05:01:05Z', 'closed_at': '2012-05-29T18:52:23Z', 'labels': []}
+{'issuenumber': 7, 'title': 'elm-lang.org is down', 'state': 'closed', 'created_at': '2012-05-19T07:27:33Z', 'closed_at': '2012-05-19T20:07:57Z', 'labels': []}
+{'issuenumber': 6, 'title': 'Installation on Mac OSX (update docs)', 'state': 'closed', 'created_at': '2012-05-18T21:22:49Z', 'closed_at': '2012-05-21T13:54:55Z', 'labels': []}

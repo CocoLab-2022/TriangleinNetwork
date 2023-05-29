@@ -1,0 +1,393 @@
+{'issuenumber': 802, 'title': 'Warning while compiling with -pedantic', 'state': 'closed', 'created_at': '2016-10-29T16:32:49Z', 'closed_at': '2021-12-20T02:33:52Z', 'labels': []}
+{'issuenumber': 795, 'title': 'AArch64: type of direct branch operands is treated as immediate', 'state': 'closed', 'created_at': '2016-10-19T20:02:49Z', 'closed_at': '2021-12-20T02:33:47Z', 'labels': []}
+{'issuenumber': 790, 'title': 'X86_INS_RET bug', 'state': 'closed', 'created_at': '2016-10-12T06:02:06Z', 'closed_at': '2016-10-14T04:45:29Z', 'labels': []}
+{'issuenumber': 789, 'title': '[x86] ATT MOV size dressing does not match operand size for segment register', 'state': 'closed', 'created_at': '2016-10-10T12:39:35Z', 'closed_at': '2016-11-16T00:46:36Z', 'labels': []}
+{'issuenumber': 786, 'title': '[Aarch64] Cannot decode some instances of INS instruction', 'state': 'closed', 'created_at': '2016-10-04T18:45:28Z', 'closed_at': '2017-04-11T15:51:29Z', 'labels': []}
+{'issuenumber': 785, 'title': '[Aarch64] Cannot decode some instances of dup instruction', 'state': 'closed', 'created_at': '2016-10-04T18:25:21Z', 'closed_at': '2017-04-11T15:51:07Z', 'labels': []}
+{'issuenumber': 784, 'title': 'SIGSEGV in X86GenAsmWriter1.inc', 'state': 'closed', 'created_at': '2016-10-03T12:59:55Z', 'closed_at': '2021-12-20T02:33:42Z', 'labels': []}
+{'issuenumber': 782, 'title': 'arm64 Decode [0x8b 0x51 0x82 0x12] error?', 'state': 'closed', 'created_at': '2016-09-29T03:46:36Z', 'closed_at': '2021-12-20T02:33:35Z', 'labels': []}
+{'issuenumber': 780, 'title': "If it's possible to make  `PC+X` more readable when disasm arm?", 'state': 'closed', 'created_at': '2016-09-28T06:47:57Z', 'closed_at': '2021-03-17T03:19:53Z', 'labels': []}
+{'issuenumber': 776, 'title': 'x86 Incorrect operand size in 64bit CALL / JMP when x66 prefix in use', 'state': 'closed', 'created_at': '2016-09-20T09:09:39Z', 'closed_at': '2021-12-20T02:33:28Z', 'labels': []}
+{'issuenumber': 775, 'title': 'x86 XSAVES instructions missing', 'state': 'closed', 'created_at': '2016-09-20T06:26:27Z', 'closed_at': '2016-09-20T08:32:19Z', 'labels': []}
+{'issuenumber': 772, 'title': 'Empty list with regs_read and regs_write', 'state': 'closed', 'created_at': '2016-09-08T17:53:47Z', 'closed_at': '2016-09-09T08:46:59Z', 'labels': []}
+{'issuenumber': 768, 'title': 'cygwin build for cygwin trys to install to //usr/lib', 'state': 'closed', 'created_at': '2016-09-05T19:19:22Z', 'closed_at': '2021-12-20T02:32:36Z', 'labels': []}
+{'issuenumber': 767, 'title': 'ARM: Incorrect register access information for ldmia.w', 'state': 'closed', 'created_at': '2016-09-05T13:02:15Z', 'closed_at': '2016-09-08T16:00:28Z', 'labels': []}
+{'issuenumber': 760, 'title': 'ARM: Incorrect register access information for pop', 'state': 'closed', 'created_at': '2016-09-01T16:05:04Z', 'closed_at': '2016-09-02T09:27:53Z', 'labels': []}
+{'issuenumber': 758, 'title': 'ARM RRX shift operand value should be 1', 'state': 'closed', 'created_at': '2016-08-30T15:57:37Z', 'closed_at': '2021-12-20T02:32:29Z', 'labels': []}
+{'issuenumber': 757, 'title': 'push fixes for frida', 'state': 'closed', 'created_at': '2016-08-27T02:53:37Z', 'closed_at': '2021-12-20T02:31:59Z', 'labels': []}
+{'issuenumber': 756, 'title': 'Very simple example run out of memory(Python)', 'state': 'closed', 'created_at': '2016-08-26T21:21:13Z', 'closed_at': '2016-08-27T18:16:50Z', 'labels': []}
+{'issuenumber': 755, 'title': 'Patch for crash in X86_insn_reg_intel() in capstone-next', 'state': 'closed', 'created_at': '2016-08-25T12:52:16Z', 'closed_at': '2016-08-27T11:58:31Z', 'labels': []}
+{'issuenumber': 754, 'title': 'MIPS Missing Instructions for R3000A', 'state': 'closed', 'created_at': '2016-08-25T05:22:03Z', 'closed_at': '2021-12-20T02:31:30Z', 'labels': []}
+{'issuenumber': 752, 'title': 'ARM64 NEGS instruction insn_name() error', 'state': 'closed', 'created_at': '2016-08-22T11:58:00Z', 'closed_at': '2021-12-20T02:31:13Z', 'labels': []}
+{'issuenumber': 751, 'title': 'PyPi Package Capstone-Engine is not registered', 'state': 'closed', 'created_at': '2016-08-17T18:21:59Z', 'closed_at': '2016-08-19T13:56:11Z', 'labels': []}
+{'issuenumber': 750, 'title': 'ARM: Incorrect register access information for stmdb', 'state': 'closed', 'created_at': '2016-08-16T13:16:06Z', 'closed_at': '2016-08-18T08:53:27Z', 'labels': []}
+{'issuenumber': 748, 'title': 'winkernel: NonPagedPoolNx is unsupported on Windows 7 and older', 'state': 'closed', 'created_at': '2016-08-16T11:34:54Z', 'closed_at': '2016-08-17T00:24:47Z', 'labels': []}
+{'issuenumber': 747, 'title': 'ARM: Incorrect register access information for ldmia', 'state': 'closed', 'created_at': '2016-08-15T13:55:01Z', 'closed_at': '2016-08-18T08:53:51Z', 'labels': []}
+{'issuenumber': 746, 'title': 'ARM: Incorrect register access information for push', 'state': 'closed', 'created_at': '2016-08-15T10:53:00Z', 'closed_at': '2016-08-15T12:16:39Z', 'labels': []}
+{'issuenumber': 744, 'title': 'ARM: Discrepancy in read registers between ARM and Thumb encoding of pop', 'state': 'closed', 'created_at': '2016-08-12T15:48:39Z', 'closed_at': '2016-08-15T12:03:11Z', 'labels': []}
+{'issuenumber': 743, 'title': 'ARM LSR incorrect insn_name()', 'state': 'closed', 'created_at': '2016-08-11T22:38:37Z', 'closed_at': '2021-12-07T11:30:34Z', 'labels': []}
+{'issuenumber': 741, 'title': 'printOperand not sign extend imm operand for CMP32ri8, PUSH32ri8, etc.', 'state': 'closed', 'created_at': '2016-08-02T06:16:29Z', 'closed_at': '2016-08-05T16:25:28Z', 'labels': []}
+{'issuenumber': 740, 'title': 'ARM LDR incorrect writeback', 'state': 'closed', 'created_at': '2016-07-28T21:25:24Z', 'closed_at': '2021-12-07T11:30:29Z', 'labels': []}
+{'issuenumber': 739, 'title': 'mov dr1, edi', 'state': 'closed', 'created_at': '2016-07-26T13:49:25Z', 'closed_at': '2016-07-27T10:25:45Z', 'labels': []}
+{'issuenumber': 736, 'title': 'ARM64 BLR instruction has no group labels', 'state': 'closed', 'created_at': '2016-07-19T23:16:55Z', 'closed_at': '2016-08-01T20:21:02Z', 'labels': []}
+{'issuenumber': 735, 'title': 'How to DUMP the full hexa of each function extracted by analysis of binary file?', 'state': 'closed', 'created_at': '2016-07-19T16:02:19Z', 'closed_at': '2016-08-11T18:05:14Z', 'labels': []}
+{'issuenumber': 733, 'title': "I used a script python from radare2-bindings to write a code analysing a binary file, i extracted the name , the start address and the size of each function , but i can't dump the hexa of each function , i am asking if there is a methode or python script in radare2 or another tool (capstone , miasm ...) to solve this problem . ", 'state': 'closed', 'created_at': '2016-07-19T15:40:38Z', 'closed_at': '2016-07-19T16:00:48Z', 'labels': []}
+{'issuenumber': 732, 'title': 'Registers read/written empty', 'state': 'closed', 'created_at': '2016-07-19T14:07:36Z', 'closed_at': '2021-12-07T11:30:25Z', 'labels': []}
+{'issuenumber': 731, 'title': 'using registers read and written by instructions', 'state': 'closed', 'created_at': '2016-07-18T14:33:22Z', 'closed_at': '2016-07-21T13:36:41Z', 'labels': []}
+{'issuenumber': 730, 'title': 'MemorySanitizer: use-of-uninitialized-value arch/AArch64/AArch64GenDisassemblerTables.inc:12742:1 in decodeInstruction', 'state': 'closed', 'created_at': '2016-07-10T13:33:23Z', 'closed_at': '2021-12-07T11:30:18Z', 'labels': []}
+{'issuenumber': 729, 'title': ' MemorySanitizer: use-of-uninitialized-value arch/X86/X86DisassemblerDecoder.c:491:8 in readPrefixes', 'state': 'closed', 'created_at': '2016-07-10T13:30:59Z', 'closed_at': '2021-12-07T11:30:14Z', 'labels': []}
+{'issuenumber': 726, 'title': 'vsnprintf the only API preventing XP use, and CMake build failing', 'state': 'closed', 'created_at': '2016-07-02T10:51:20Z', 'closed_at': '2021-12-07T11:29:46Z', 'labels': []}
+{'issuenumber': 721, 'title': 'capstone tests on travis are failing but the badge is green', 'state': 'closed', 'created_at': '2016-06-27T18:30:51Z', 'closed_at': '2016-06-29T22:18:01Z', 'labels': []}
+{'issuenumber': 719, 'title': 'X86_insn_reg_intel is incredibly slow', 'state': 'closed', 'created_at': '2016-06-27T04:05:11Z', 'closed_at': '2016-08-27T13:10:17Z', 'labels': []}
+{'issuenumber': 718, 'title': 'mov eax, dword ptr ds:[0x1000]', 'state': 'closed', 'created_at': '2016-06-26T14:59:14Z', 'closed_at': '2016-07-20T15:02:21Z', 'labels': []}
+{'issuenumber': 717, 'title': 'movq disasm problem in at&t mode output', 'state': 'closed', 'created_at': '2016-06-25T16:28:44Z', 'closed_at': '2016-06-25T18:17:33Z', 'labels': []}
+{'issuenumber': 716, 'title': 'Add ability to disable negative numbers in mnemonics', 'state': 'closed', 'created_at': '2016-06-25T14:27:25Z', 'closed_at': '2021-12-07T11:29:40Z', 'labels': []}
+{'issuenumber': 714, 'title': 'no intel itanium support', 'state': 'closed', 'created_at': '2016-06-23T03:37:04Z', 'closed_at': '2021-12-07T11:29:36Z', 'labels': []}
+{'issuenumber': 713, 'title': 'incorrect LEA x86', 'state': 'closed', 'created_at': '2016-06-23T02:08:35Z', 'closed_at': '2016-06-23T15:36:35Z', 'labels': []}
+{'issuenumber': 711, 'title': 'unexcepted op_access.', 'state': 'closed', 'created_at': '2016-06-20T09:04:38Z', 'closed_at': '2016-06-26T04:58:33Z', 'labels': []}
+{'issuenumber': 710, 'title': 'scale is set incorrectly for strh (ARMv7)', 'state': 'closed', 'created_at': '2016-06-18T17:04:29Z', 'closed_at': '2021-12-07T11:29:32Z', 'labels': []}
+{'issuenumber': 709, 'title': 'Implicit Memory R/W', 'state': 'closed', 'created_at': '2016-06-18T12:07:56Z', 'closed_at': '2021-12-07T11:29:28Z', 'labels': []}
+{'issuenumber': 707, 'title': 'Condition code missing from x86', 'state': 'closed', 'created_at': '2016-06-17T05:16:16Z', 'closed_at': '2021-12-07T11:29:24Z', 'labels': []}
+{'issuenumber': 706, 'title': 'Unable to disassemble 80 00 00  and 82 10 00', 'state': 'closed', 'created_at': '2016-06-17T04:46:55Z', 'closed_at': '2021-12-07T11:29:20Z', 'labels': []}
+{'issuenumber': 704, 'title': 'EFLAGS R/W Information', 'state': 'closed', 'created_at': '2016-06-15T10:17:13Z', 'closed_at': '2021-12-07T11:29:15Z', 'labels': []}
+{'issuenumber': 702, 'title': 'test eax, ecx', 'state': 'closed', 'created_at': '2016-06-15T01:17:37Z', 'closed_at': '2017-01-03T14:30:11Z', 'labels': []}
+{'issuenumber': 701, 'title': 'comiss xmm1, xmmword ptr [rip + 0x1ca5681]', 'state': 'closed', 'created_at': '2016-06-15T01:17:03Z', 'closed_at': '2021-12-07T11:29:11Z', 'labels': []}
+{'issuenumber': 698, 'title': 'Can not open X86 with CS_MODE_BIG_ENDIAN', 'state': 'closed', 'created_at': '2016-06-10T21:28:20Z', 'closed_at': '2016-06-11T09:09:55Z', 'labels': []}
+{'issuenumber': 695, 'title': "'subtracted' flag is set incorrectly", 'state': 'closed', 'created_at': '2016-06-07T13:24:53Z', 'closed_at': '2021-12-07T11:29:01Z', 'labels': []}
+{'issuenumber': 693, 'title': 'movss dword ptr [rax + 0x10], xmm0 has no memory write operands', 'state': 'closed', 'created_at': '2016-06-02T20:43:27Z', 'closed_at': '2021-12-07T11:28:57Z', 'labels': []}
+{'issuenumber': 691, 'title': 'x86 ud2b', 'state': 'closed', 'created_at': '2016-05-29T15:49:25Z', 'closed_at': '2021-12-07T11:28:20Z', 'labels': []}
+{'issuenumber': 690, 'title': 'LSR is decoded as MOV in ARMv7', 'state': 'closed', 'created_at': '2016-05-27T11:16:08Z', 'closed_at': '2021-12-07T11:28:14Z', 'labels': []}
+{'issuenumber': 689, 'title': 'Carry is not taken into account in ARM instructions', 'state': 'closed', 'created_at': '2016-05-27T11:09:31Z', 'closed_at': '2021-12-07T11:28:09Z', 'labels': []}
+{'issuenumber': 686, 'title': 'document: docs/README should probably refer to contrib/cs_driver for Windows driver', 'state': 'closed', 'created_at': '2016-05-17T15:47:42Z', 'closed_at': '2016-05-27T01:08:49Z', 'labels': []}
+{'issuenumber': 685, 'title': 'error: ‘all_insn’ was not declared in this scope', 'state': 'closed', 'created_at': '2016-05-16T19:57:08Z', 'closed_at': '2016-05-17T13:51:30Z', 'labels': []}
+{'issuenumber': 681, 'title': 'winkernel: could fail formatting string when float point is used on the Windows kernel', 'state': 'closed', 'created_at': '2016-05-13T01:14:12Z', 'closed_at': '2016-05-16T16:40:10Z', 'labels': []}
+{'issuenumber': 679, 'title': 'Infinite recursion due to missing "_detail" attr on md.disasm object', 'state': 'closed', 'created_at': '2016-05-10T20:26:16Z', 'closed_at': '2021-12-07T11:28:04Z', 'labels': []}
+{'issuenumber': 676, 'title': '`m68k` header very unorthogonal', 'state': 'closed', 'created_at': '2016-05-08T10:39:57Z', 'closed_at': '2016-05-12T17:22:43Z', 'labels': []}
+{'issuenumber': 674, 'title': 'pushal/popal mnemonics are inconsistent with all other instructions and not understood by most assemblers', 'state': 'closed', 'created_at': '2016-05-06T14:30:48Z', 'closed_at': '2021-12-07T11:27:57Z', 'labels': []}
+{'issuenumber': 673, 'title': 'test_winkernel produces wrong results with MIPS-32 (Big-endian) related tests', 'state': 'closed', 'created_at': '2016-05-05T14:32:17Z', 'closed_at': '2016-05-07T00:43:16Z', 'labels': []}
+{'issuenumber': 672, 'title': 'Extend detailed api to hook between IR and TR', 'state': 'closed', 'created_at': '2016-05-05T11:09:18Z', 'closed_at': '2021-12-07T11:27:51Z', 'labels': []}
+{'issuenumber': 670, 'title': 'A question: on ARM mem.disp field reused for alignment', 'state': 'closed', 'created_at': '2016-05-04T12:44:11Z', 'closed_at': '2021-12-07T11:27:45Z', 'labels': []}
+{'issuenumber': 666, 'title': 'Implicitly read and changed registers not reported on ARM', 'state': 'closed', 'created_at': '2016-05-03T08:22:15Z', 'closed_at': '2021-12-07T11:27:33Z', 'labels': []}
+{'issuenumber': 665, 'title': 'arm thumb wrong disasm?', 'state': 'closed', 'created_at': '2016-05-02T21:17:41Z', 'closed_at': '2016-06-29T20:48:58Z', 'labels': []}
+{'issuenumber': 664, 'title': "REP RET doesn't have REP prefix listed", 'state': 'closed', 'created_at': '2016-05-01T18:31:05Z', 'closed_at': '2021-12-07T11:27:07Z', 'labels': []}
+{'issuenumber': 660, 'title': 'MOVABS: Issue about operands number', 'state': 'closed', 'created_at': '2016-04-30T08:46:20Z', 'closed_at': '2016-04-30T09:30:35Z', 'labels': []}
+{'issuenumber': 659, 'title': 'ImportError: ERROR: fail to load the dynamic library', 'state': 'closed', 'created_at': '2016-04-29T20:39:31Z', 'closed_at': '2016-04-29T20:39:39Z', 'labels': []}
+{'issuenumber': 656, 'title': 'X86 16-bit mode uninitialized displacement', 'state': 'closed', 'created_at': '2016-04-29T02:49:12Z', 'closed_at': '2016-07-18T15:27:03Z', 'labels': []}
+{'issuenumber': 655, 'title': 'Not sure if this is an issue in capstone-m68k or in the way im using the api', 'state': 'closed', 'created_at': '2016-04-28T13:43:45Z', 'closed_at': '2021-12-02T09:38:32Z', 'labels': []}
+{'issuenumber': 653, 'title': 'Different disasm output in sparc comparing with binutils', 'state': 'closed', 'created_at': '2016-04-26T13:21:46Z', 'closed_at': '2021-12-02T09:38:18Z', 'labels': []}
+{'issuenumber': 652, 'title': 'endianness ignored in sparc', 'state': 'closed', 'created_at': '2016-04-26T13:16:59Z', 'closed_at': '2021-12-02T09:38:06Z', 'labels': []}
+{'issuenumber': 651, 'title': 'Legacy SIMD prefixes F2 and F3 are not listed in the list of prefixes', 'state': 'closed', 'created_at': '2016-04-24T17:05:57Z', 'closed_at': '2021-12-02T09:38:02Z', 'labels': []}
+{'issuenumber': 648, 'title': 'When is cs_x86_op::fp used?', 'state': 'closed', 'created_at': '2016-04-23T10:10:53Z', 'closed_at': '2016-04-23T17:16:08Z', 'labels': []}
+{'issuenumber': 647, 'title': 'Only VEX prefix present in opcode bytes, but not actual opcode', 'state': 'closed', 'created_at': '2016-04-21T18:36:04Z', 'closed_at': '2021-12-02T09:37:57Z', 'labels': []}
+{'issuenumber': 646, 'title': 'Missing RFLAGS for X86 architecture', 'state': 'closed', 'created_at': '2016-04-21T18:29:58Z', 'closed_at': '2021-12-02T09:37:55Z', 'labels': []}
+{'issuenumber': 645, 'title': 'Extra space after register name when no opmask is specified but EVEX is used', 'state': 'closed', 'created_at': '2016-04-20T07:48:21Z', 'closed_at': '2021-12-02T09:37:48Z', 'labels': []}
+{'issuenumber': 644, 'title': 'Some cases of AVX instructions fail to be disassembled', 'state': 'closed', 'created_at': '2016-04-20T06:19:27Z', 'closed_at': '2021-12-02T09:37:28Z', 'labels': []}
+{'issuenumber': 643, 'title': 'incorrect ARM IT-block disassemble', 'state': 'closed', 'created_at': '2016-04-20T06:14:17Z', 'closed_at': '2016-04-28T09:37:35Z', 'labels': []}
+{'issuenumber': 642, 'title': 'Wrong AVX rounding mode reported for an instruction', 'state': 'closed', 'created_at': '2016-04-19T21:22:49Z', 'closed_at': '2021-12-02T09:37:22Z', 'labels': []}
+{'issuenumber': 641, 'title': 'Extra byte taken into instruction size', 'state': 'closed', 'created_at': '2016-04-19T21:20:40Z', 'closed_at': '2021-12-02T09:37:18Z', 'labels': []}
+{'issuenumber': 640, 'title': 'No way of knowing where opcode ends', 'state': 'closed', 'created_at': '2016-04-19T10:10:57Z', 'closed_at': '2021-12-02T09:37:14Z', 'labels': []}
+{'issuenumber': 639, 'title': 'VRCPSS has empty list of groups', 'state': 'closed', 'created_at': '2016-04-19T06:13:28Z', 'closed_at': '2021-12-02T09:37:10Z', 'labels': []}
+{'issuenumber': 637, 'title': 'Missing disassembly when ending with 0x00', 'state': 'closed', 'created_at': '2016-04-18T03:31:47Z', 'closed_at': '2016-04-19T09:41:15Z', 'labels': []}
+{'issuenumber': 635, 'title': 'Comparing capstone x86 output to another disassembler', 'state': 'closed', 'created_at': '2016-04-15T17:12:48Z', 'closed_at': '2021-12-02T09:37:02Z', 'labels': []}
+{'issuenumber': 634, 'title': 'The __getattr__ function of CsInsn returns None instead of raising an AttributeError exception when an attribute does not exist', 'state': 'closed', 'created_at': '2016-04-15T05:28:00Z', 'closed_at': '2021-12-02T09:36:56Z', 'labels': []}
+{'issuenumber': 633, 'title': 'disasm blx thumb', 'state': 'closed', 'created_at': '2016-04-13T09:57:06Z', 'closed_at': '2016-04-13T18:37:21Z', 'labels': []}
+{'issuenumber': 632, 'title': "Can't disassemble a certain instruction", 'state': 'closed', 'created_at': '2016-04-12T17:30:14Z', 'closed_at': '2016-04-20T01:26:14Z', 'labels': []}
+{'issuenumber': 621, 'title': 'wrong dissasembler on code with data reservation (DD, DB...)', 'state': 'closed', 'created_at': '2016-04-04T11:05:02Z', 'closed_at': '2021-12-02T09:36:28Z', 'labels': {'name': 'question'}}
+{'issuenumber': 619, 'title': 'Announcing Haskell bindings and a small question on type choice', 'state': 'closed', 'created_at': '2016-04-03T21:21:28Z', 'closed_at': '2016-04-10T18:16:03Z', 'labels': []}
+{'issuenumber': 616, 'title': 'How do I install Core Engine on Windows?', 'state': 'closed', 'created_at': '2016-04-03T14:51:05Z', 'closed_at': '2021-12-02T09:36:17Z', 'labels': {'name': 'question'}}
+{'issuenumber': 614, 'title': 'wrong disassembly of cmp with sign-extension (intel x86 32bit)', 'state': 'closed', 'created_at': '2016-04-01T16:46:47Z', 'closed_at': '2021-12-02T09:36:06Z', 'labels': {'name': 'question'}}
+{'issuenumber': 613, 'title': 'FLDENV/FNSTENV reported as having dword arguments', 'state': 'closed', 'created_at': '2016-04-01T15:39:59Z', 'closed_at': '2016-04-09T05:22:57Z', 'labels': []}
+{'issuenumber': 612, 'title': 'libcapstone.so location: pathname contains duplicated components', 'state': 'closed', 'created_at': '2016-03-28T22:58:14Z', 'closed_at': '2016-03-28T23:09:12Z', 'labels': []}
+{'issuenumber': 606, 'title': '[Enhancement] Add additional instruction groups', 'state': 'closed', 'created_at': '2016-03-22T19:43:24Z', 'closed_at': '2021-12-02T09:35:55Z', 'labels': []}
+{'issuenumber': 605, 'title': 'Missing distribution via Maven Central Repository', 'state': 'closed', 'created_at': '2016-03-21T12:17:23Z', 'closed_at': '2021-12-02T09:35:42Z', 'labels': []}
+{'issuenumber': 603, 'title': 'Design Decisions and their impact on Haskell bindings', 'state': 'closed', 'created_at': '2016-03-17T22:28:27Z', 'closed_at': '2016-04-27T03:23:34Z', 'labels': []}
+{'issuenumber': 602, 'title': 'Shift is shown on the wrong operand on ARM', 'state': 'closed', 'created_at': '2016-03-17T09:53:57Z', 'closed_at': '2021-12-02T09:34:24Z', 'labels': []}
+{'issuenumber': 600, 'title': 'oob write in set_mem_access arch/AArch64/AArch64InstPrinter.c:73', 'state': 'closed', 'created_at': '2016-03-06T22:58:06Z', 'closed_at': '2016-03-07T00:23:17Z', 'labels': []}
+{'issuenumber': 596, 'title': 'Cannot disassemble mrs in Thumb', 'state': 'closed', 'created_at': '2016-03-03T23:54:23Z', 'closed_at': '2016-03-07T12:03:05Z', 'labels': []}
+{'issuenumber': 591, 'title': 'No --soname of mingw', 'state': 'closed', 'created_at': '2016-02-16T16:42:34Z', 'closed_at': '2021-12-02T09:34:12Z', 'labels': []}
+{'issuenumber': 588, 'title': 'Capstone-window pypi package is broken', 'state': 'closed', 'created_at': '2016-02-11T11:23:06Z', 'closed_at': '2016-02-15T14:32:18Z', 'labels': []}
+{'issuenumber': 587, 'title': 'Inconsistent output from Java vs. Python bindings', 'state': 'closed', 'created_at': '2016-02-08T18:41:17Z', 'closed_at': '2016-03-10T19:20:33Z', 'labels': []}
+{'issuenumber': 586, 'title': 'Missing semantic information.', 'state': 'closed', 'created_at': '2016-02-04T15:35:48Z', 'closed_at': '2016-02-04T20:25:01Z', 'labels': []}
+{'issuenumber': 585, 'title': 'Negative hex values. Is there a fix?', 'state': 'closed', 'created_at': '2016-02-02T09:15:45Z', 'closed_at': '2021-12-02T09:33:50Z', 'labels': []}
+{'issuenumber': 583, 'title': 'Setup script exited with error: SandboxViolation', 'state': 'closed', 'created_at': '2016-01-29T18:57:06Z', 'closed_at': '2021-12-02T09:32:01Z', 'labels': []}
+{'issuenumber': 582, 'title': 'lack of proper release tarball', 'state': 'closed', 'created_at': '2016-01-29T16:04:39Z', 'closed_at': '2021-12-07T11:25:48Z', 'labels': []}
+{'issuenumber': 580, 'title': 'incorrect thumb2 BLX imm value in unligned, high address', 'state': 'closed', 'created_at': '2016-01-17T01:22:07Z', 'closed_at': '2021-12-01T11:10:09Z', 'labels': []}
+{'issuenumber': 579, 'title': 'hexagon support', 'state': 'closed', 'created_at': '2016-01-14T17:29:19Z', 'closed_at': '2021-12-01T11:10:09Z', 'labels': []}
+{'issuenumber': 578, 'title': 'CBZ & CBNZ decoded as unconditional jumps', 'state': 'closed', 'created_at': '2016-01-07T11:31:41Z', 'closed_at': '2021-12-01T11:10:08Z', 'labels': []}
+{'issuenumber': 577, 'title': 'segfault in getRegisterName', 'state': 'closed', 'created_at': '2016-01-07T06:58:24Z', 'closed_at': '2021-12-01T11:10:08Z', 'labels': []}
+{'issuenumber': 576, 'title': "ARM LDR instruction doesn't sets mem.lshift in the detailed struct", 'state': 'closed', 'created_at': '2016-01-05T00:23:36Z', 'closed_at': '2016-02-16T16:16:26Z', 'labels': []}
+{'issuenumber': 575, 'title': 'capstone.__version__ is missing', 'state': 'closed', 'created_at': '2015-12-22T20:25:37Z', 'closed_at': '2016-03-06T13:29:54Z', 'labels': []}
+{'issuenumber': 570, 'title': 'Build fails on Mac OS X 10.6.8 via macports', 'state': 'closed', 'created_at': '2015-12-15T04:43:31Z', 'closed_at': '2021-12-01T11:10:08Z', 'labels': []}
+{'issuenumber': 566, 'title': 'Broken cs_detail in Java Bindings', 'state': 'closed', 'created_at': '2015-12-08T20:55:39Z', 'closed_at': '2021-12-01T11:10:08Z', 'labels': []}
+{'issuenumber': 564, 'title': 'Error handling in disasm() method.', 'state': 'closed', 'created_at': '2015-12-04T15:49:29Z', 'closed_at': '2021-12-01T11:10:07Z', 'labels': []}
+{'issuenumber': 563, 'title': 'z/Architecture (SystemZ) missing instructions', 'state': 'closed', 'created_at': '2015-12-03T23:27:40Z', 'closed_at': '2021-12-01T11:10:07Z', 'labels': []}
+{'issuenumber': 562, 'title': 'pslldq, pinsrw, pextrw not available in 16 bits', 'state': 'closed', 'created_at': '2015-12-03T16:31:44Z', 'closed_at': '2021-12-01T11:10:06Z', 'labels': []}
+{'issuenumber': 560, 'title': 'PPC VLE support please', 'state': 'closed', 'created_at': '2015-12-01T07:58:36Z', 'closed_at': '2021-12-01T11:10:06Z', 'labels': []}
+{'issuenumber': 557, 'title': 'Python 3 support: Bind `str` to `c_wchar_p` instead of `c_char_p`', 'state': 'closed', 'created_at': '2015-12-01T02:03:56Z', 'closed_at': '2015-12-02T05:20:52Z', 'labels': []}
+{'issuenumber': 555, 'title': 'ARM unpredictable behavior indicator?', 'state': 'closed', 'created_at': '2015-11-26T03:17:13Z', 'closed_at': '2021-12-01T11:10:06Z', 'labels': []}
+{'issuenumber': 554, 'title': 'Negative values in out/in', 'state': 'closed', 'created_at': '2015-11-25T23:37:23Z', 'closed_at': '2015-11-28T11:05:14Z', 'labels': []}
+{'issuenumber': 551, 'title': 'Check union type-punning usage', 'state': 'closed', 'created_at': '2015-11-24T04:00:08Z', 'closed_at': '2021-12-01T11:10:06Z', 'labels': []}
+{'issuenumber': 550, 'title': 'Impement r2\'s "asm.relsub" natively in capstone', 'state': 'closed', 'created_at': '2015-11-19T22:15:20Z', 'closed_at': '2021-12-01T11:10:05Z', 'labels': []}
+{'issuenumber': 547, 'title': 'Crash: Invalid read in printOperand(…)', 'state': 'closed', 'created_at': '2015-11-17T22:50:28Z', 'closed_at': '2021-12-01T11:10:05Z', 'labels': []}
+{'issuenumber': 546, 'title': 'Tons of valgrind warnings in capstone-next', 'state': 'closed', 'created_at': '2015-11-17T12:43:01Z', 'closed_at': '2021-12-01T11:10:05Z', 'labels': []}
+{'issuenumber': 545, 'title': 'xchg reg1, reg2', 'state': 'closed', 'created_at': '2015-11-16T09:54:30Z', 'closed_at': '2015-11-18T18:28:34Z', 'labels': []}
+{'issuenumber': 544, 'title': 'fbld/fbstp are disassembled as taking 32-bit argument', 'state': 'closed', 'created_at': '2015-11-14T10:15:01Z', 'closed_at': '2016-01-11T06:26:11Z', 'labels': []}
+{'issuenumber': 543, 'title': 'PPC static branch prediction hint information unavailable', 'state': 'closed', 'created_at': '2015-11-13T23:14:05Z', 'closed_at': '2021-12-01T11:10:05Z', 'labels': []}
+{'issuenumber': 542, 'title': 'Give Capstone a star on Github!', 'state': 'closed', 'created_at': '2015-11-13T17:56:03Z', 'closed_at': '2018-12-19T01:12:23Z', 'labels': []}
+{'issuenumber': 541, 'title': 'movabs rax, -0x78000000000 instead of mov rax, 0xfffff88000000000', 'state': 'closed', 'created_at': '2015-11-13T17:47:22Z', 'closed_at': '2015-11-18T18:28:50Z', 'labels': []}
+{'issuenumber': 534, 'title': 'PPC ins.opstr flaw for displacement of 0', 'state': 'closed', 'created_at': '2015-11-10T14:14:48Z', 'closed_at': '2021-12-01T11:10:04Z', 'labels': []}
+{'issuenumber': 533, 'title': 'Adding: F0 0F C7 C8 -> lock cmpxchg8b [eax] ', 'state': 'closed', 'created_at': '2015-11-09T17:06:50Z', 'closed_at': '2017-05-06T14:38:17Z', 'labels': []}
+{'issuenumber': 531, 'title': 'Android ARM no disasm', 'state': 'closed', 'created_at': '2015-11-07T19:26:05Z', 'closed_at': '2015-11-08T03:36:39Z', 'labels': []}
+{'issuenumber': 529, 'title': '[Bug] Regression with 83e4f0 : and esp, 0xfffffff0 -> and esp, 0xf0', 'state': 'closed', 'created_at': '2015-11-05T18:27:25Z', 'closed_at': '2015-11-18T18:29:14Z', 'labels': []}
+{'issuenumber': 526, 'title': 'xnu dynamic memory support', 'state': 'closed', 'created_at': '2015-11-03T22:38:21Z', 'closed_at': '2015-11-05T17:13:33Z', 'labels': []}
+{'issuenumber': 525, 'title': 'x86 relative call/jcc immediate operand', 'state': 'closed', 'created_at': '2015-11-02T20:18:16Z', 'closed_at': '2021-12-01T11:10:04Z', 'labels': []}
+{'issuenumber': 523, 'title': 'Simple mechanism to disable Python binding using bundled Capstone sources', 'state': 'closed', 'created_at': '2015-10-24T12:21:00Z', 'closed_at': '2021-12-01T11:10:04Z', 'labels': []}
+{'issuenumber': 521, 'title': '[bug]readOperands wrong behavior', 'state': 'closed', 'created_at': '2015-10-22T08:48:36Z', 'closed_at': '2017-05-06T03:24:52Z', 'labels': []}
+{'issuenumber': 519, 'title': 'Support for mcrfs instruction in PowerPc', 'state': 'closed', 'created_at': '2015-10-19T02:46:25Z', 'closed_at': '2021-12-01T11:10:04Z', 'labels': []}
+{'issuenumber': 514, 'title': 'Wrong SPARC disassemble for CALLs', 'state': 'closed', 'created_at': '2015-10-12T11:43:37Z', 'closed_at': '2021-12-01T11:10:03Z', 'labels': []}
+{'issuenumber': 512, 'title': 'How to disassemble to ARM UAL?', 'state': 'closed', 'created_at': '2015-10-11T19:49:59Z', 'closed_at': '2021-12-01T11:10:03Z', 'labels': []}
+{'issuenumber': 509, 'title': '[Featrue Request]Expose displacementOffset and immediateOffset', 'state': 'closed', 'created_at': '2015-10-08T14:57:44Z', 'closed_at': '2021-12-01T11:10:03Z', 'labels': []}
+{'issuenumber': 508, 'title': 'Expose supported architectures in defines', 'state': 'closed', 'created_at': '2015-10-08T09:05:20Z', 'closed_at': '2021-12-01T11:10:02Z', 'labels': []}
+{'issuenumber': 499, 'title': '48b800000000 => movabs rax, -0x8000000000000000 ', 'state': 'closed', 'created_at': '2015-10-04T20:51:02Z', 'closed_at': '2015-10-28T12:55:48Z', 'labels': []}
+{'issuenumber': 497, 'title': 'Uninitialized memory reads in X86 Disassembler', 'state': 'closed', 'created_at': '2015-10-04T15:17:27Z', 'closed_at': '2015-10-07T14:15:07Z', 'labels': []}
+{'issuenumber': 494, 'title': 'issues of M68k', 'state': 'closed', 'created_at': '2015-10-04T06:47:29Z', 'closed_at': '2016-04-13T06:53:35Z', 'labels': []}
+{'issuenumber': 492, 'title': 'LJMP doesn\'t show "what" PTR the argument is, but does show "PTR"', 'state': 'closed', 'created_at': '2015-10-03T15:59:38Z', 'closed_at': '2016-04-25T07:46:11Z', 'labels': []}
+{'issuenumber': 486, 'title': "Some MIPS FPU instructions doesn't map to the functions", 'state': 'closed', 'created_at': '2015-10-01T02:56:03Z', 'closed_at': '2021-12-01T11:09:05Z', 'labels': []}
+{'issuenumber': 485, 'title': '32-bit prefix byte sticking on subsequent instructions for 16-bit?', 'state': 'closed', 'created_at': '2015-09-28T16:17:13Z', 'closed_at': '2021-12-01T11:09:04Z', 'labels': []}
+{'issuenumber': 483, 'title': 'Suggestion:performance optimization', 'state': 'closed', 'created_at': '2015-09-28T01:21:10Z', 'closed_at': '2021-12-01T11:09:04Z', 'labels': []}
+{'issuenumber': 482, 'title': 'ocaml bindings with _oasis', 'state': 'closed', 'created_at': '2015-09-24T16:12:33Z', 'closed_at': '2021-12-01T11:09:04Z', 'labels': []}
+{'issuenumber': 481, 'title': 'Capstone is 5x slower than udis86 analysing x86-64 code in r2', 'state': 'closed', 'created_at': '2015-09-23T15:00:08Z', 'closed_at': '2015-09-24T01:06:18Z', 'labels': []}
+{'issuenumber': 479, 'title': "MIPS_INS_BNEZ does not map to 'bnez'", 'state': 'closed', 'created_at': '2015-09-18T15:32:11Z', 'closed_at': '2021-12-01T11:09:04Z', 'labels': []}
+{'issuenumber': 477, 'title': 'capstone fails to build on cygwin', 'state': 'closed', 'created_at': '2015-09-17T09:22:55Z', 'closed_at': '2015-09-29T02:36:54Z', 'labels': []}
+{'issuenumber': 475, 'title': "MUL maps to MUL.D and not to the real integer 'MUL' on MIPS.", 'state': 'closed', 'created_at': '2015-09-15T00:05:08Z', 'closed_at': '2021-12-01T11:09:03Z', 'labels': []}
+{'issuenumber': 474, 'title': 'How to handle disasm error?', 'state': 'closed', 'created_at': '2015-09-13T00:36:42Z', 'closed_at': '2015-09-13T23:08:48Z', 'labels': []}
+{'issuenumber': 473, 'title': "x86 memory operand don't present default segment register", 'state': 'closed', 'created_at': '2015-09-09T15:38:47Z', 'closed_at': '2021-12-01T11:09:03Z', 'labels': []}
+{'issuenumber': 471, 'title': 'SGDT and SIDT arguments are reported to have wrong sizes', 'state': 'closed', 'created_at': '2015-09-06T08:35:00Z', 'closed_at': '2015-09-08T14:55:44Z', 'labels': []}
+{'issuenumber': 470, 'title': 'SGDT and SIDT format arguments strangely', 'state': 'closed', 'created_at': '2015-09-06T06:01:47Z', 'closed_at': '2015-09-08T14:55:54Z', 'labels': []}
+{'issuenumber': 469, 'title': 'fail to load the dynamic library', 'state': 'closed', 'created_at': '2015-09-02T14:53:01Z', 'closed_at': '2015-09-02T15:10:50Z', 'labels': []}
+{'issuenumber': 468, 'title': 'Support Intel MPX instructions', 'state': 'closed', 'created_at': '2015-08-31T14:28:06Z', 'closed_at': '2021-12-01T11:09:03Z', 'labels': []}
+{'issuenumber': 467, 'title': 'x86 64bit vnext not handling 0xc4', 'state': 'closed', 'created_at': '2015-08-29T22:21:46Z', 'closed_at': '2015-08-29T23:24:31Z', 'labels': []}
+{'issuenumber': 466, 'title': 'ARM: UDF vs TRAP', 'state': 'closed', 'created_at': '2015-08-28T17:50:15Z', 'closed_at': '2021-12-01T11:09:03Z', 'labels': []}
+{'issuenumber': 465, 'title': 'Is there any reason to consider 66 EB 00 the same as EB 00 in 32 bit mode?', 'state': 'closed', 'created_at': '2015-08-23T18:24:37Z', 'closed_at': '2015-08-25T05:18:07Z', 'labels': []}
+{'issuenumber': 463, 'title': 'SIGSEGV in X86GenAsmWriter1', 'state': 'closed', 'created_at': '2015-08-20T20:09:11Z', 'closed_at': '2021-12-01T11:09:02Z', 'labels': []}
+{'issuenumber': 462, 'title': 'ARM32 opcode 0xE7695081 disassembles incorrectly', 'state': 'closed', 'created_at': '2015-08-19T09:18:45Z', 'closed_at': '2015-08-19T09:47:51Z', 'labels': []}
+{'issuenumber': 461, 'title': 'When is a MOV instruction named MOVABS?', 'state': 'closed', 'created_at': '2015-08-17T16:40:26Z', 'closed_at': '2015-09-12T12:26:27Z', 'labels': []}
+{'issuenumber': 460, 'title': '`VADDPS` AVX512F instruction fails to be disassembled', 'state': 'closed', 'created_at': '2015-08-15T17:04:05Z', 'closed_at': '2021-12-01T11:09:02Z', 'labels': []}
+{'issuenumber': 459, 'title': 'ARM32 Opcodes 0xE19120D3 and 0xE11120D3 Disassemble Incorrectly', 'state': 'closed', 'created_at': '2015-08-15T05:58:27Z', 'closed_at': '2015-08-21T08:47:45Z', 'labels': []}
+{'issuenumber': 458, 'title': 'A1 opcode of MOV *AX, MOFFS instruction is presented with one operand', 'state': 'closed', 'created_at': '2015-08-14T19:23:22Z', 'closed_at': '2015-08-16T10:22:50Z', 'labels': []}
+{'issuenumber': 457, 'title': 'Is there a way to format particular operand, not all operands?', 'state': 'closed', 'created_at': '2015-08-14T17:01:33Z', 'closed_at': '2015-08-14T17:28:25Z', 'labels': {'name': 'question'}}
+{'issuenumber': 456, 'title': 'CALL and JMP with rel16 argument must mask RIP with 0xffff', 'state': 'closed', 'created_at': '2015-08-14T13:05:29Z', 'closed_at': '2015-08-21T08:48:01Z', 'labels': []}
+{'issuenumber': 455, 'title': 'add al,8 instruction appears to have 3 operands when using AT&T syntax', 'state': 'closed', 'created_at': '2015-08-14T10:41:57Z', 'closed_at': '2015-08-14T14:18:50Z', 'labels': []}
+{'issuenumber': 454, 'title': "INS, OUTS, LODS instructions' REPNE prefix isn't detected", 'state': 'closed', 'created_at': '2015-08-14T10:12:11Z', 'closed_at': '2015-08-14T14:18:38Z', 'labels': []}
+{'issuenumber': 453, 'title': 'String instructions with REP* prefix are not reported to read and write *CX', 'state': 'closed', 'created_at': '2015-08-14T05:51:13Z', 'closed_at': '2015-08-14T10:42:50Z', 'labels': []}
+{'issuenumber': 452, 'title': 'REPNE STOSW instruction is disassembled as REPNE STOSD in 16 bit mode', 'state': 'closed', 'created_at': '2015-08-14T05:37:43Z', 'closed_at': '2017-05-07T09:24:16Z', 'labels': []}
+{'issuenumber': 451, 'title': "LOOPE and LOOPNE read flags, but Capstone doesn't report this", 'state': 'closed', 'created_at': '2015-08-13T19:19:38Z', 'closed_at': '2015-08-14T04:50:28Z', 'labels': []}
+{'issuenumber': 450, 'title': 'JMP m16:32 reports wrong operand size', 'state': 'closed', 'created_at': '2015-08-13T13:09:19Z', 'closed_at': '2015-08-14T04:50:22Z', 'labels': []}
+{'issuenumber': 449, 'title': "Loop instruction implicitly uses *cx register, but Capstone doesn't tell", 'state': 'closed', 'created_at': '2015-08-13T12:47:55Z', 'closed_at': '2015-08-14T00:59:04Z', 'labels': []}
+{'issuenumber': 448, 'title': 'Far jump selector is given as signed and has wrong size', 'state': 'closed', 'created_at': '2015-08-13T12:45:03Z', 'closed_at': '2015-08-14T00:59:18Z', 'labels': []}
+{'issuenumber': 447, 'title': '[Enhancement] Add version info', 'state': 'closed', 'created_at': '2015-08-11T22:30:05Z', 'closed_at': '2021-12-01T11:09:02Z', 'labels': []}
+{'issuenumber': 446, 'title': 'ARM instruction encoding E1F322D1 seems to be incorrectly disassembled', 'state': 'closed', 'created_at': '2015-08-11T18:58:25Z', 'closed_at': '2015-08-23T20:47:30Z', 'labels': []}
+{'issuenumber': 445, 'title': 'pip install in virtualenv installs lib to wrong directory', 'state': 'closed', 'created_at': '2015-08-10T11:25:04Z', 'closed_at': '2021-12-01T11:09:02Z', 'labels': []}
+{'issuenumber': 443, 'title': 'Expose Relative Instruction API', 'state': 'closed', 'created_at': '2015-08-06T23:57:56Z', 'closed_at': '2021-12-01T11:09:01Z', 'labels': []}
+{'issuenumber': 439, 'title': 'const_generator x86 EFlags', 'state': 'closed', 'created_at': '2015-08-02T13:12:08Z', 'closed_at': '2015-08-12T20:56:48Z', 'labels': []}
+{'issuenumber': 437, 'title': 'How to get the value of ds:esi ?', 'state': 'closed', 'created_at': '2015-08-01T02:50:28Z', 'closed_at': '2021-12-01T11:09:00Z', 'labels': []}
+{'issuenumber': 432, 'title': 'Missing MIPS instruction WSBW mappping etc.', 'state': 'closed', 'created_at': '2015-07-29T00:03:16Z', 'closed_at': '2021-12-01T11:09:00Z', 'labels': []}
+{'issuenumber': 428, 'title': 'FreeBSD/pkgsrc and DragonflyBSD/pkgsrc builds fail', 'state': 'closed', 'created_at': '2015-07-26T23:49:57Z', 'closed_at': '2015-07-29T07:05:23Z', 'labels': []}
+{'issuenumber': 427, 'title': 'Missing MIPS32 ISA MAD / MADU instruction mappings.', 'state': 'closed', 'created_at': '2015-07-26T13:44:10Z', 'closed_at': '2021-12-01T11:08:59Z', 'labels': []}
+{'issuenumber': 426, 'title': 'sparcv9 radare2/capstone', 'state': 'closed', 'created_at': '2015-07-26T10:57:25Z', 'closed_at': '2015-08-14T02:19:00Z', 'labels': []}
+{'issuenumber': 425, 'title': 'Capstone crash when disassembly iOS 9 WebCore framework (Using iPhone 5c).', 'state': 'closed', 'created_at': '2015-07-23T08:49:58Z', 'closed_at': '2015-08-12T20:57:14Z', 'labels': []}
+{'issuenumber': 424, 'title': 'Implement scale for MIPS like it is done in ARMInstPrinter.c', 'state': 'closed', 'created_at': '2015-07-20T18:46:31Z', 'closed_at': '2015-07-20T18:58:18Z', 'labels': []}
+{'issuenumber': 423, 'title': 'Suggestion: Docs in github wiki', 'state': 'closed', 'created_at': '2015-07-17T21:59:04Z', 'closed_at': '2021-12-01T11:08:59Z', 'labels': []}
+{'issuenumber': 422, 'title': 'Wrong instruction compare with otool in terminal', 'state': 'closed', 'created_at': '2015-07-17T01:30:40Z', 'closed_at': '2015-07-29T07:06:25Z', 'labels': []}
+{'issuenumber': 420, 'title': 'MIPS Lexra support...', 'state': 'closed', 'created_at': '2015-07-15T18:53:06Z', 'closed_at': '2015-07-20T17:00:03Z', 'labels': []}
+{'issuenumber': 419, 'title': 'Website typos at beyond_llvm', 'state': 'closed', 'created_at': '2015-07-14T18:26:16Z', 'closed_at': '2015-07-15T05:27:43Z', 'labels': []}
+{'issuenumber': 415, 'title': 'Missing "repz" in mnemonic of "repz js"', 'state': 'closed', 'created_at': '2015-07-09T05:05:41Z', 'closed_at': '2015-07-09T20:28:00Z', 'labels': []}
+{'issuenumber': 414, 'title': 'Missing API / defines for MIPS float ISA.', 'state': 'closed', 'created_at': '2015-07-07T17:55:46Z', 'closed_at': '2021-12-01T11:08:59Z', 'labels': []}
+{'issuenumber': 413, 'title': 'Fail to load the dynamic library', 'state': 'closed', 'created_at': '2015-07-02T19:11:16Z', 'closed_at': '2015-07-24T12:14:53Z', 'labels': []}
+{'issuenumber': 412, 'title': 'Wrong operand length for many instructions', 'state': 'closed', 'created_at': '2015-07-02T04:25:19Z', 'closed_at': '2015-07-02T21:41:24Z', 'labels': []}
+{'issuenumber': 411, 'title': 'invalid x86 disassembly', 'state': 'closed', 'created_at': '2015-06-30T10:05:03Z', 'closed_at': '2015-07-05T01:14:44Z', 'labels': []}
+{'issuenumber': 410, 'title': 'longest x86 instruction', 'state': 'closed', 'created_at': '2015-06-27T01:48:39Z', 'closed_at': '2015-08-12T20:57:52Z', 'labels': []}
+{'issuenumber': 409, 'title': 'MIPS: SUBU wrong id', 'state': 'closed', 'created_at': '2015-06-21T14:08:18Z', 'closed_at': '2015-06-22T09:21:42Z', 'labels': []}
+{'issuenumber': 403, 'title': 'x86 Missing regs_read for X86_CALL16/32/64r and X86_JUMP 16/32/64r', 'state': 'closed', 'created_at': '2015-06-19T15:18:59Z', 'closed_at': '2015-06-19T15:37:04Z', 'labels': []}
+{'issuenumber': 402, 'title': '__ctype_tolower_loc is undefined in arm64', 'state': 'closed', 'created_at': '2015-06-17T22:18:42Z', 'closed_at': '2015-06-18T18:16:47Z', 'labels': []}
+{'issuenumber': 400, 'title': 'Broken Android cross compilation on OSX', 'state': 'closed', 'created_at': '2015-06-17T16:38:07Z', 'closed_at': '2015-06-18T13:35:54Z', 'labels': []}
+{'issuenumber': 398, 'title': 'Python binding no deep copy of detail pointer', 'state': 'closed', 'created_at': '2015-06-17T14:48:21Z', 'closed_at': '2015-06-18T13:55:42Z', 'labels': []}
+{'issuenumber': 396, 'title': 'Python3.3.2 ctypes.ArgumentError on disasm methode', 'state': 'closed', 'created_at': '2015-06-15T21:28:07Z', 'closed_at': '2015-06-16T15:25:07Z', 'labels': []}
+{'issuenumber': 395, 'title': 'SEGV at PPCDisassembler.c:341 (decodeCRBitMOperand)', 'state': 'closed', 'created_at': '2015-06-15T13:04:47Z', 'closed_at': '2015-06-17T01:11:17Z', 'labels': []}
+{'issuenumber': 394, 'title': 'OOB read size 4 in MipsDisassembler.c:1715', 'state': 'closed', 'created_at': '2015-06-15T12:37:52Z', 'closed_at': '2015-06-17T01:11:27Z', 'labels': []}
+{'issuenumber': 393, 'title': 'NPD at X86IntelInstPrinter.c:302', 'state': 'closed', 'created_at': '2015-06-15T12:26:15Z', 'closed_at': '2015-06-17T01:11:35Z', 'labels': []}
+{'issuenumber': 392, 'title': 'Disassembly of imul', 'state': 'closed', 'created_at': '2015-06-12T18:52:05Z', 'closed_at': '2021-12-01T11:08:59Z', 'labels': []}
+{'issuenumber': 390, 'title': 'Please check instr decode.', 'state': 'closed', 'created_at': '2015-06-08T13:36:06Z', 'closed_at': '2021-12-01T11:08:59Z', 'labels': []}
+{'issuenumber': 389, 'title': 'OOB write size 4 in XCoreInstPrinter.c:173', 'state': 'closed', 'created_at': '2015-06-05T09:01:35Z', 'closed_at': '2015-06-08T07:52:38Z', 'labels': []}
+{'issuenumber': 388, 'title': 'OOB read size 1 in PPCInstPrinter.c:187', 'state': 'closed', 'created_at': '2015-06-05T08:57:55Z', 'closed_at': '2015-06-10T02:51:31Z', 'labels': []}
+{'issuenumber': 387, 'title': 'Python exception after sys.exit', 'state': 'closed', 'created_at': '2015-06-03T18:17:45Z', 'closed_at': '2015-06-06T09:09:34Z', 'labels': []}
+{'issuenumber': 385, 'title': 'Thumb disassembler memory corruption with IT sequence', 'state': 'closed', 'created_at': '2015-06-03T08:19:03Z', 'closed_at': '2015-06-04T13:55:25Z', 'labels': []}
+{'issuenumber': 383, 'title': 'commit e1bde17b6b756d6b85dff4f783fbc6d634dd370c', 'state': 'closed', 'created_at': '2015-06-01T21:57:22Z', 'closed_at': '2015-06-04T13:56:08Z', 'labels': []}
+{'issuenumber': 382, 'title': 'HADDPD x86 inst not recognized.', 'state': 'closed', 'created_at': '2015-06-01T18:03:37Z', 'closed_at': '2015-06-01T18:20:36Z', 'labels': []}
+{'issuenumber': 380, 'title': 'capstone install fails with `pip install --user capstone`', 'state': 'closed', 'created_at': '2015-05-29T04:33:29Z', 'closed_at': '2015-06-04T13:57:08Z', 'labels': []}
+{'issuenumber': 379, 'title': 'Bug in capstone for windows', 'state': 'closed', 'created_at': '2015-05-28T17:53:37Z', 'closed_at': '2015-06-04T13:50:24Z', 'labels': []}
+{'issuenumber': 377, 'title': "Capstone's next branch does not build with MSVC 2010", 'state': 'closed', 'created_at': '2015-05-24T12:50:01Z', 'closed_at': '2015-06-04T13:55:08Z', 'labels': []}
+{'issuenumber': 376, 'title': 'Adding test build target, fixing a CMake warning', 'state': 'closed', 'created_at': '2015-05-24T12:47:10Z', 'closed_at': '2015-06-04T13:57:23Z', 'labels': []}
+{'issuenumber': 375, 'title': 'Warnings when building master with MSVC', 'state': 'closed', 'created_at': '2015-05-24T12:40:42Z', 'closed_at': '2015-06-04T13:51:01Z', 'labels': []}
+{'issuenumber': 374, 'title': 'struct InternalInstruction, need fields : immediateOffset and displacementOffset', 'state': 'closed', 'created_at': '2015-05-23T09:35:12Z', 'closed_at': '2015-06-04T13:50:46Z', 'labels': []}
+{'issuenumber': 373, 'title': 'ARM64: stub wrong memory reference', 'state': 'closed', 'created_at': '2015-05-20T23:38:51Z', 'closed_at': '2015-06-04T13:57:46Z', 'labels': []}
+{'issuenumber': 372, 'title': 'Wrong arm64 instruction disassembly', 'state': 'closed', 'created_at': '2015-05-20T22:57:38Z', 'closed_at': '2021-12-01T11:08:58Z', 'labels': []}
+{'issuenumber': 371, 'title': 'call / jump x86 for 32-bits and 64-bits mode.', 'state': 'closed', 'created_at': '2015-05-20T13:54:11Z', 'closed_at': '2021-12-01T11:08:58Z', 'labels': []}
+{'issuenumber': 370, 'title': 'MIPS Groups incorrect for JALR, BLTZAL', 'state': 'closed', 'created_at': '2015-05-19T17:55:48Z', 'closed_at': '2021-12-01T11:06:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 369, 'title': 'amd64 pcmpeqb decoding regression', 'state': 'closed', 'created_at': '2015-05-19T12:04:22Z', 'closed_at': '2015-05-19T13:20:37Z', 'labels': []}
+{'issuenumber': 368, 'title': 'Incorrect ARM Condition Codes for CBNZ', 'state': 'closed', 'created_at': '2015-05-17T13:42:21Z', 'closed_at': '2021-12-01T11:06:29Z', 'labels': []}
+{'issuenumber': 367, 'title': 'No CS_ constant to check registers against common values', 'state': 'closed', 'created_at': '2015-05-17T08:33:15Z', 'closed_at': '2021-12-01T11:06:28Z', 'labels': []}
+{'issuenumber': 365, 'title': 'Regression in x86-16 addressing', 'state': 'closed', 'created_at': '2015-05-14T01:38:37Z', 'closed_at': '2015-05-14T08:15:09Z', 'labels': []}
+{'issuenumber': 364, 'title': '64 bit PowerPC support (imm is int32_t)', 'state': 'closed', 'created_at': '2015-05-13T22:03:24Z', 'closed_at': '2015-05-16T01:49:01Z', 'labels': []}
+{'issuenumber': 363, 'title': 'ARM Disassembler broken for ldrdge', 'state': 'closed', 'created_at': '2015-05-12T04:17:43Z', 'closed_at': '2021-12-01T11:06:28Z', 'labels': []}
+{'issuenumber': 362, 'title': 'Regression in immediate sign', 'state': 'closed', 'created_at': '2015-05-12T00:12:36Z', 'closed_at': '2015-05-13T21:27:00Z', 'labels': []}
+{'issuenumber': 358, 'title': 'x86_64: Details for call instruction list $sp in regs_read', 'state': 'closed', 'created_at': '2015-05-10T01:17:42Z', 'closed_at': '2015-05-18T21:07:42Z', 'labels': []}
+{'issuenumber': 356, 'title': 'movsw is decoded as movsd in next branch - need to get it fixed urgently', 'state': 'closed', 'created_at': '2015-05-06T08:57:31Z', 'closed_at': '2021-12-01T11:06:28Z', 'labels': []}
+{'issuenumber': 353, 'title': 'capstone does not decode immediate operand correctly for in and out instruction because of sign extension it does for immediate operand ', 'state': 'closed', 'created_at': '2015-05-05T13:20:56Z', 'closed_at': '2015-06-05T15:37:39Z', 'labels': []}
+{'issuenumber': 352, 'title': 'Wrong disassembly of 16-bit relative call', 'state': 'closed', 'created_at': '2015-05-03T10:14:48Z', 'closed_at': '2021-12-01T11:06:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 351, 'title': 'x86: instruction int takes a byte', 'state': 'closed', 'created_at': '2015-05-02T09:36:28Z', 'closed_at': '2015-05-03T11:13:45Z', 'labels': []}
+{'issuenumber': 348, 'title': 'ARM: lsr id != ARM_INS_LSR', 'state': 'closed', 'created_at': '2015-05-01T17:19:30Z', 'closed_at': '2015-05-02T12:39:55Z', 'labels': []}
+{'issuenumber': 347, 'title': 'jump/call/rip-relative displacement wrong?', 'state': 'closed', 'created_at': '2015-04-30T22:53:23Z', 'closed_at': '2015-05-01T00:20:21Z', 'labels': []}
+{'issuenumber': 346, 'title': 'for "rcl %edx, $1 (D1 D2), capstone does not recognize constant immediate operand.', 'state': 'closed', 'created_at': '2015-04-30T18:04:41Z', 'closed_at': '2015-06-04T13:54:47Z', 'labels': []}
+{'issuenumber': 343, 'title': "Makefile:180: recipe for target 'capstone-build' failed", 'state': 'closed', 'created_at': '2015-04-29T12:26:04Z', 'closed_at': '2015-05-01T17:12:58Z', 'labels': []}
+{'issuenumber': 342, 'title': 'JZ != JE', 'state': 'closed', 'created_at': '2015-04-29T10:28:38Z', 'closed_at': '2021-12-01T11:06:27Z', 'labels': []}
+{'issuenumber': 335, 'title': '(SOLVED) Capstone compile issues on Dev c++(Mingw) Windows 7(64) and XP.', 'state': 'closed', 'created_at': '2015-04-24T07:36:06Z', 'closed_at': '2015-07-29T07:07:07Z', 'labels': []}
+{'issuenumber': 334, 'title': 'Target register not in implicit register for JMP and CALL on x86/AMD64', 'state': 'closed', 'created_at': '2015-04-24T06:56:21Z', 'closed_at': '2015-04-24T07:16:22Z', 'labels': []}
+{'issuenumber': 333, 'title': 'vaguely documented instruction id', 'state': 'closed', 'created_at': '2015-04-23T23:44:14Z', 'closed_at': '2015-04-26T15:09:01Z', 'labels': []}
+{'issuenumber': 325, 'title': 'branch and indirect_branch', 'state': 'closed', 'created_at': '2015-04-22T10:06:37Z', 'closed_at': '2021-12-01T11:06:27Z', 'labels': []}
+{'issuenumber': 323, 'title': "warning C4309: 'initializing' : truncation of constant value", 'state': 'closed', 'created_at': '2015-04-21T17:14:07Z', 'closed_at': '2015-04-22T10:21:54Z', 'labels': []}
+{'issuenumber': 322, 'title': '[Python Binding] CsInsn objects cannot be serialized using pickle', 'state': 'closed', 'created_at': '2015-04-21T12:23:12Z', 'closed_at': '2021-12-01T11:06:26Z', 'labels': []}
+{'issuenumber': 321, 'title': 'LR not in ARM regs_write for BLX', 'state': 'closed', 'created_at': '2015-04-21T01:29:29Z', 'closed_at': '2021-12-01T11:06:26Z', 'labels': []}
+{'issuenumber': 320, 'title': ':)', 'state': 'closed', 'created_at': '2015-04-21T01:21:41Z', 'closed_at': '2015-04-21T01:25:52Z', 'labels': []}
+{'issuenumber': 314, 'title': 'Build files', 'state': 'closed', 'created_at': '2015-04-14T13:43:04Z', 'closed_at': '2021-12-01T11:06:26Z', 'labels': []}
+{'issuenumber': 312, 'title': 'Use of uninitialized variable in the ARM disassembler', 'state': 'closed', 'created_at': '2015-04-12T10:04:51Z', 'closed_at': '2015-04-23T13:44:11Z', 'labels': []}
+{'issuenumber': 308, 'title': 'undefined symbol: cs_reg_access', 'state': 'closed', 'created_at': '2015-04-07T15:23:06Z', 'closed_at': '2015-04-07T15:25:11Z', 'labels': []}
+{'issuenumber': 306, 'title': 'LEA EAX, DWORD [EAX] ->  LEA EAX,  [EAX]', 'state': 'closed', 'created_at': '2015-04-04T13:51:03Z', 'closed_at': '2015-04-04T16:36:19Z', 'labels': []}
+{'issuenumber': 305, 'title': 'negative byte value is expanded', 'state': 'closed', 'created_at': '2015-04-04T00:53:03Z', 'closed_at': '2015-04-09T16:43:44Z', 'labels': []}
+{'issuenumber': 304, 'title': 'MIPS disassemble bug(?)', 'state': 'closed', 'created_at': '2015-04-03T14:26:37Z', 'closed_at': '2021-12-01T11:06:26Z', 'labels': []}
+{'issuenumber': 301, 'title': "LEA instruction shouldn't have READ flag set.", 'state': 'closed', 'created_at': '2015-03-29T16:12:44Z', 'closed_at': '2015-03-30T00:14:45Z', 'labels': []}
+{'issuenumber': 299, 'title': 'Java bindings on Windows', 'state': 'closed', 'created_at': '2015-03-26T18:58:16Z', 'closed_at': '2021-12-01T11:06:25Z', 'labels': []}
+{'issuenumber': 298, 'title': 'Regressions on an x86 opcode disassembly', 'state': 'closed', 'created_at': '2015-03-25T18:16:12Z', 'closed_at': '2015-04-03T14:24:30Z', 'labels': []}
+{'issuenumber': 297, 'title': 'Some ARM memory ops improperly decoded by capstone', 'state': 'closed', 'created_at': '2015-03-25T12:20:07Z', 'closed_at': '2015-04-09T16:44:09Z', 'labels': []}
+{'issuenumber': 296, 'title': '[x86] Wrong Operand Size (shl esi, 8)', 'state': 'closed', 'created_at': '2015-03-24T20:43:09Z', 'closed_at': '2015-07-03T11:30:34Z', 'labels': []}
+{'issuenumber': 294, 'title': 'Latest capstone-next disassembles negative interrupts', 'state': 'closed', 'created_at': '2015-03-20T12:20:37Z', 'closed_at': '2015-03-20T14:47:46Z', 'labels': []}
+{'issuenumber': 291, 'title': 'undefined vs unpredictible instructions', 'state': 'closed', 'created_at': '2015-03-17T19:25:56Z', 'closed_at': '2021-12-01T11:06:25Z', 'labels': []}
+{'issuenumber': 289, 'title': 'Installing capstone for Python fails on Cygwin64 with PIP installer', 'state': 'closed', 'created_at': '2015-03-16T23:46:52Z', 'closed_at': '2015-03-18T00:42:54Z', 'labels': []}
+{'issuenumber': 288, 'title': 'Support conditional privileged instructions', 'state': 'closed', 'created_at': '2015-03-16T18:40:55Z', 'closed_at': '2021-12-01T11:06:25Z', 'labels': []}
+{'issuenumber': 286, 'title': "MIPS pseudoinstruction 'la'", 'state': 'closed', 'created_at': '2015-03-15T19:25:53Z', 'closed_at': '2021-12-01T11:06:25Z', 'labels': []}
+{'issuenumber': 285, 'title': 'cmp al, XX : bad operand size for XX', 'state': 'closed', 'created_at': '2015-03-13T19:43:29Z', 'closed_at': '2015-03-14T10:14:18Z', 'labels': []}
+{'issuenumber': 283, 'title': 'Use README in markdown', 'state': 'closed', 'created_at': '2015-03-11T10:28:04Z', 'closed_at': '2021-12-01T11:06:24Z', 'labels': []}
+{'issuenumber': 282, 'title': 'Use clang-format to indent all source files', 'state': 'closed', 'created_at': '2015-03-11T00:04:32Z', 'closed_at': '2021-12-01T11:06:24Z', 'labels': []}
+{'issuenumber': 280, 'title': 'Sparc instruction set misses lot of instructions', 'state': 'closed', 'created_at': '2015-03-10T23:36:17Z', 'closed_at': '2021-12-01T11:06:24Z', 'labels': []}
+{'issuenumber': 277, 'title': 'enum cs_mode seems quirky', 'state': 'closed', 'created_at': '2015-03-07T11:32:52Z', 'closed_at': '2015-03-07T18:57:58Z', 'labels': []}
+{'issuenumber': 268, 'title': 'ARMInstPrinter.c scale and subtracted problem', 'state': 'closed', 'created_at': '2015-02-15T09:09:37Z', 'closed_at': '2021-12-01T11:06:24Z', 'labels': []}
+{'issuenumber': 265, 'title': 'ARM T2 encoding lsl #imm bug', 'state': 'closed', 'created_at': '2015-02-14T15:09:16Z', 'closed_at': '2015-02-15T01:57:11Z', 'labels': []}
+{'issuenumber': 264, 'title': 'ARM IT-block bug', 'state': 'closed', 'created_at': '2015-02-14T14:23:26Z', 'closed_at': '2015-02-15T05:26:08Z', 'labels': []}
+{'issuenumber': 263, 'title': 'Build with DIET and X86_REDUCE fails', 'state': 'closed', 'created_at': '2015-02-12T00:44:03Z', 'closed_at': '2015-02-12T23:01:50Z', 'labels': []}
+{'issuenumber': 260, 'title': 'Python Bindings Binary Distribution', 'state': 'closed', 'created_at': '2015-02-05T07:00:03Z', 'closed_at': '2015-04-24T05:25:53Z', 'labels': []}
+{'issuenumber': 258, 'title': 'PPC 0x000EAEB0 callthru special instruction missing', 'state': 'closed', 'created_at': '2015-01-31T14:13:47Z', 'closed_at': '2021-12-01T11:06:23Z', 'labels': []}
+{'issuenumber': 253, 'title': 'ARM LDR wrong writeback', 'state': 'closed', 'created_at': '2015-01-20T22:23:39Z', 'closed_at': '2015-01-21T12:02:03Z', 'labels': []}
+{'issuenumber': 251, 'title': 'Error in cs_disasm_quick due to missing attr on _dummy_cs', 'state': 'closed', 'created_at': '2015-01-20T01:53:11Z', 'closed_at': '2015-01-20T22:46:33Z', 'labels': []}
+{'issuenumber': 248, 'title': 'Memory not freed on .close() of generator', 'state': 'closed', 'created_at': '2015-01-15T16:42:58Z', 'closed_at': '2015-01-20T22:49:16Z', 'labels': []}
+{'issuenumber': 247, 'title': 'ARM SBC and ADC update_flags always true', 'state': 'closed', 'created_at': '2015-01-13T12:24:26Z', 'closed_at': '2015-01-13T14:52:38Z', 'labels': []}
+{'issuenumber': 246, 'title': 'Trouble with ARM Operand-Shift', 'state': 'closed', 'created_at': '2015-01-09T17:57:51Z', 'closed_at': '2015-01-13T13:00:52Z', 'labels': []}
+{'issuenumber': 244, 'title': 'Latest commit breaks some valid instructions with lock', 'state': 'closed', 'created_at': '2015-01-06T00:04:59Z', 'closed_at': '2015-01-09T15:33:27Z', 'labels': []}
+{'issuenumber': 243, 'title': 'Null Byte Truncation in Cython bindings', 'state': 'closed', 'created_at': '2015-01-02T03:34:23Z', 'closed_at': '2015-01-08T15:17:12Z', 'labels': []}
+{'issuenumber': 241, 'title': 'Support for MIPS16 ASE opcodes in MIPS32 binaries not working?', 'state': 'closed', 'created_at': '2014-12-30T12:55:46Z', 'closed_at': '2021-12-01T11:06:23Z', 'labels': []}
+{'issuenumber': 239, 'title': 'Python binding md.detail and md.skipdata', 'state': 'closed', 'created_at': '2014-12-29T14:33:23Z', 'closed_at': '2014-12-31T04:19:34Z', 'labels': []}
+{'issuenumber': 238, 'title': "wrong decoding of 'sub' opcode for x86 32bit", 'state': 'closed', 'created_at': '2014-12-28T23:35:27Z', 'closed_at': '2015-01-05T19:27:22Z', 'labels': []}
+{'issuenumber': 237, 'title': 'ARM v8 Aarch64 ADR instruction prints the incorrect immediate value', 'state': 'closed', 'created_at': '2014-12-23T07:18:26Z', 'closed_at': '2014-12-23T07:50:52Z', 'labels': []}
+{'issuenumber': 236, 'title': 'Can capstone disassemble x86 instructions like ADCX? ', 'state': 'closed', 'created_at': '2014-12-19T11:36:17Z', 'closed_at': '2014-12-23T21:39:50Z', 'labels': []}
+{'issuenumber': 235, 'title': 'Trouble with "msr" instruction (ARM, Capstone 3.0)', 'state': 'closed', 'created_at': '2014-12-15T14:01:15Z', 'closed_at': '2014-12-16T11:53:40Z', 'labels': []}
+{'issuenumber': 233, 'title': 'ARM64 wrong disassembly for relative addressing instructions', 'state': 'closed', 'created_at': '2014-12-12T13:17:08Z', 'closed_at': '2014-12-12T14:45:20Z', 'labels': []}
+{'issuenumber': 232, 'title': 'X86 mov into segment reg from mem', 'state': 'closed', 'created_at': '2014-12-11T21:24:47Z', 'closed_at': '2014-12-12T04:59:44Z', 'labels': []}
+{'issuenumber': 231, 'title': 'X86 imul operands are sometimes reversed', 'state': 'closed', 'created_at': '2014-12-11T20:59:42Z', 'closed_at': '2014-12-12T04:59:54Z', 'labels': []}
+{'issuenumber': 230, 'title': 'X86 in and out instructions may have wrong op_count', 'state': 'closed', 'created_at': '2014-12-11T20:41:18Z', 'closed_at': '2014-12-12T05:00:08Z', 'labels': []}
+{'issuenumber': 229, 'title': 'push and pop segment register has op_count of 0', 'state': 'closed', 'created_at': '2014-12-11T19:53:32Z', 'closed_at': '2014-12-12T05:00:05Z', 'labels': []}
+{'issuenumber': 228, 'title': 'Capstone ignored prefix env', 'state': 'closed', 'created_at': '2014-12-02T15:00:12Z', 'closed_at': '2017-05-06T04:13:21Z', 'labels': []}
+{'issuenumber': 227, 'title': 'ARM disassembler (vs binutils)', 'state': 'closed', 'created_at': '2014-11-24T14:39:25Z', 'closed_at': '2021-12-01T11:06:23Z', 'labels': []}
+{'issuenumber': 225, 'title': 'PPC_printInst does not add SH operand to slwi/srwi instruction details.', 'state': 'closed', 'created_at': '2014-11-22T19:40:42Z', 'closed_at': '2014-12-12T05:49:41Z', 'labels': []}
+{'issuenumber': 223, 'title': 'Compiler warnings for integer comparison', 'state': 'closed', 'created_at': '2014-11-20T11:43:08Z', 'closed_at': '2014-11-20T12:20:40Z', 'labels': []}
+{'issuenumber': 222, 'title': 'Missing SubtargetFeature.h in next branch', 'state': 'closed', 'created_at': '2014-11-17T18:17:35Z', 'closed_at': '2014-11-18T02:57:24Z', 'labels': []}
+{'issuenumber': 220, 'title': 'ARM v8 Aarch64 ADRP instruction prints the incorrect immediate value', 'state': 'closed', 'created_at': '2014-11-13T21:01:15Z', 'closed_at': '2014-12-12T05:50:27Z', 'labels': []}
+{'issuenumber': 219, 'title': 'Mips32R6 is independent from CS_MODE_32?', 'state': 'closed', 'created_at': '2014-11-12T10:39:57Z', 'closed_at': '2014-11-19T13:52:45Z', 'labels': []}
+{'issuenumber': 216, 'title': 'PowerPC wrong analysis (reg inmediate)', 'state': 'closed', 'created_at': '2014-11-10T16:11:29Z', 'closed_at': '2014-11-10T23:51:35Z', 'labels': []}
+{'issuenumber': 215, 'title': 'PowerPC capstone dot disasm', 'state': 'closed', 'created_at': '2014-11-10T15:53:56Z', 'closed_at': '2014-11-12T12:46:39Z', 'labels': []}
+{'issuenumber': 214, 'title': 'sparc disassemble wrong offsets', 'state': 'closed', 'created_at': '2014-11-10T13:42:59Z', 'closed_at': '2014-11-10T23:51:05Z', 'labels': []}
+{'issuenumber': 213, 'title': '16bit disassembly using wrong syntax', 'state': 'closed', 'created_at': '2014-11-10T12:31:44Z', 'closed_at': '2014-11-10T13:22:37Z', 'labels': []}
+{'issuenumber': 212, 'title': 'Invalid opcode disassembly.', 'state': 'closed', 'created_at': '2014-11-09T22:49:33Z', 'closed_at': '2014-11-10T00:11:21Z', 'labels': []}
+{'issuenumber': 211, 'title': 'ARM condition codes', 'state': 'closed', 'created_at': '2014-11-09T22:46:41Z', 'closed_at': '2014-11-09T22:53:25Z', 'labels': []}
+{'issuenumber': 210, 'title': 'mips32r6 instruction decoding does not work', 'state': 'closed', 'created_at': '2014-11-08T20:23:35Z', 'closed_at': '2014-11-09T06:21:57Z', 'labels': []}
+{'issuenumber': 209, 'title': 'mips32r2 bugs', 'state': 'closed', 'created_at': '2014-11-06T12:07:01Z', 'closed_at': '2021-12-01T11:06:22Z', 'labels': []}
+{'issuenumber': 208, 'title': 'ImportError in the Python package', 'state': 'closed', 'created_at': '2014-11-05T15:20:55Z', 'closed_at': '2015-02-03T22:57:48Z', 'labels': []}
+{'issuenumber': 207, 'title': 'Possible disassembly errors ( LLVM test suite )', 'state': 'closed', 'created_at': '2014-11-05T01:14:08Z', 'closed_at': '2014-11-21T20:57:59Z', 'labels': []}
+{'issuenumber': 206, 'title': 'Wrong spacings in x86', 'state': 'closed', 'created_at': '2014-11-03T01:34:27Z', 'closed_at': '2014-11-03T02:57:30Z', 'labels': []}
+{'issuenumber': 201, 'title': 'instruction prefix can be tricked to perform wrong disassembly', 'state': 'closed', 'created_at': '2014-10-17T12:52:23Z', 'closed_at': '2014-12-19T16:09:03Z', 'labels': []}
+{'issuenumber': 200, 'title': 'No user constants for x86 prefixes', 'state': 'closed', 'created_at': '2014-10-17T12:49:39Z', 'closed_at': '2014-10-21T09:25:52Z', 'labels': []}
+{'issuenumber': 195, 'title': 'Generic analysis is hard because of arch-dependent group IDs and operand types', 'state': 'closed', 'created_at': '2014-10-07T00:44:29Z', 'closed_at': '2014-11-08T01:39:11Z', 'labels': []}
+{'issuenumber': 193, 'title': 'New APIs for better performance - by pre-allocting memory', 'state': 'closed', 'created_at': '2014-10-03T03:00:27Z', 'closed_at': '2014-11-02T16:15:49Z', 'labels': []}
+{'issuenumber': 191, 'title': 'crash - capstone memory corruption', 'state': 'closed', 'created_at': '2014-10-02T11:18:33Z', 'closed_at': '2014-10-02T12:10:45Z', 'labels': []}
+{'issuenumber': 180, 'title': 'Adding headers to SOURCES in CMakeLists.txt', 'state': 'closed', 'created_at': '2014-09-21T15:50:56Z', 'closed_at': '2015-04-22T01:49:26Z', 'labels': []}
+{'issuenumber': 176, 'title': 'Addresses printed as ints instead of unsigned ints', 'state': 'closed', 'created_at': '2014-09-17T02:01:10Z', 'closed_at': '2014-09-23T10:02:29Z', 'labels': []}
+{'issuenumber': 174, 'title': 'PowerPC branch instructions', 'state': 'closed', 'created_at': '2014-09-12T13:12:32Z', 'closed_at': '2014-10-21T12:57:36Z', 'labels': []}
+{'issuenumber': 173, 'title': 'Single Instruction Disassembly', 'state': 'closed', 'created_at': '2014-09-05T16:23:55Z', 'closed_at': '2014-11-02T16:16:40Z', 'labels': []}
+{'issuenumber': 167, 'title': 'Several MIPS instructions differ from GNU disasm', 'state': 'closed', 'created_at': '2014-08-17T23:42:05Z', 'closed_at': '2021-12-01T11:03:37Z', 'labels': []}
+{'issuenumber': 166, 'title': "Provide sources for TableGen'erated files", 'state': 'closed', 'created_at': '2014-08-17T20:23:41Z', 'closed_at': '2014-09-29T23:23:36Z', 'labels': []}
+{'issuenumber': 163, 'title': 'unable to build with multilib-strict', 'state': 'closed', 'created_at': '2014-07-25T00:12:15Z', 'closed_at': '2014-07-25T02:37:52Z', 'labels': []}
+{'issuenumber': 162, 'title': '"into" is 32bit-only instruction', 'state': 'closed', 'created_at': '2014-07-21T14:52:09Z', 'closed_at': '2014-07-22T07:46:05Z', 'labels': []}
+{'issuenumber': 161, 'title': 'x86 mov eax, [addr] failure', 'state': 'closed', 'created_at': '2014-07-20T14:01:07Z', 'closed_at': '2014-07-20T14:18:01Z', 'labels': []}
+{'issuenumber': 160, 'title': 'Does capstone ignores segment prefixes when outputs disassembly', 'state': 'closed', 'created_at': '2014-07-19T10:30:16Z', 'closed_at': '2014-07-22T07:44:46Z', 'labels': []}
+{'issuenumber': 159, 'title': 'please release a stable version', 'state': 'closed', 'created_at': '2014-07-16T14:46:39Z', 'closed_at': '2014-11-19T13:53:45Z', 'labels': []}
+{'issuenumber': 156, 'title': 'MIPS disassembler problems', 'state': 'closed', 'created_at': '2014-07-11T23:57:45Z', 'closed_at': '2021-12-01T11:03:14Z', 'labels': []}
+{'issuenumber': 151, 'title': 'x86-64: instructions involving RIP are not decoded as they should be', 'state': 'closed', 'created_at': '2014-06-29T13:26:58Z', 'closed_at': '2014-06-30T02:45:23Z', 'labels': []}
+{'issuenumber': 148, 'title': 'building capstone inside radare2 on cygwin - error', 'state': 'closed', 'created_at': '2014-06-25T14:38:32Z', 'closed_at': '2014-07-16T03:20:03Z', 'labels': []}
+{'issuenumber': 147, 'title': 'www.capstone-engine.org erroneously states VFPU is supported for architecture MIPS', 'state': 'closed', 'created_at': '2014-06-22T12:14:30Z', 'closed_at': '2021-12-01T11:02:53Z', 'labels': []}
+{'issuenumber': 146, 'title': 'MIPS pseudo-instructions', 'state': 'closed', 'created_at': '2014-06-19T15:17:45Z', 'closed_at': '2021-12-01T11:01:41Z', 'labels': []}
+{'issuenumber': 143, 'title': 'GCC MIPS: Default macro issue', 'state': 'closed', 'created_at': '2014-06-06T09:44:19Z', 'closed_at': '2014-06-06T16:51:34Z', 'labels': []}
+{'issuenumber': 140, 'title': 'x86 AT&T instruction printer does not print "zmmword ptr"', 'state': 'closed', 'created_at': '2014-06-03T06:04:00Z', 'closed_at': '2014-06-04T06:24:25Z', 'labels': []}
+{'issuenumber': 138, 'title': 'next : regs_read returning incorrect registers for "\\x55" (pushl %ebp)', 'state': 'closed', 'created_at': '2014-06-03T00:24:10Z', 'closed_at': '2014-06-03T16:24:34Z', 'labels': []}
+{'issuenumber': 137, 'title': 'next : cmake win32 exports directory', 'state': 'closed', 'created_at': '2014-06-03T00:07:57Z', 'closed_at': '2014-06-15T15:00:43Z', 'labels': []}
+{'issuenumber': 134, 'title': 'Shift seems to be attached to wrong ARM operand', 'state': 'closed', 'created_at': '2014-06-01T04:18:20Z', 'closed_at': '2014-06-01T04:51:00Z', 'labels': []}
+{'issuenumber': 133, 'title': 'PC operand missing for vldr', 'state': 'closed', 'created_at': '2014-06-01T03:39:31Z', 'closed_at': '2014-06-01T04:25:21Z', 'labels': []}
+{'issuenumber': 132, 'title': 'Missing operand for Thumb     4919      \tldr\tr1, [pc, #100]\t', 'state': 'closed', 'created_at': '2014-06-01T02:49:30Z', 'closed_at': '2014-06-01T03:53:30Z', 'labels': []}
+{'issuenumber': 131, 'title': 'Incorrect condition code for bx instruction', 'state': 'closed', 'created_at': '2014-06-01T01:43:32Z', 'closed_at': '2014-06-30T02:46:11Z', 'labels': []}
+{'issuenumber': 130, 'title': 'Bad disassembly of MOV pc, lr', 'state': 'closed', 'created_at': '2014-06-01T01:21:41Z', 'closed_at': '2014-06-01T03:53:21Z', 'labels': []}
+{'issuenumber': 129, 'title': 'Use instruction groups for classification of instruction operations', 'state': 'closed', 'created_at': '2014-05-26T22:32:02Z', 'closed_at': '2014-06-15T15:00:29Z', 'labels': []}
+{'issuenumber': 128, 'title': '`groups` is unexpectedly empty for many x86 instructions', 'state': 'closed', 'created_at': '2014-05-26T22:19:00Z', 'closed_at': '2021-12-01T11:01:24Z', 'labels': []}
+{'issuenumber': 126, 'title': 'Sparc: CC_SPARC_INVALID and CC_SPARC_ICC_N share the same value', 'state': 'closed', 'created_at': '2014-05-25T03:47:30Z', 'closed_at': '2014-05-25T06:30:53Z', 'labels': []}
+{'issuenumber': 124, 'title': 'arm.h: Incorrect data type for `imm`?', 'state': 'closed', 'created_at': '2014-05-23T08:18:03Z', 'closed_at': '2014-05-25T01:55:48Z', 'labels': []}
+{'issuenumber': 120, 'title': 'Small issues in web doc lang_python.html', 'state': 'closed', 'created_at': '2014-05-15T21:14:40Z', 'closed_at': '2014-05-20T02:31:58Z', 'labels': []}
+{'issuenumber': 111, 'title': '16bit segment bounds error', 'state': 'closed', 'created_at': '2014-05-10T01:34:29Z', 'closed_at': '2021-12-01T11:01:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 106, 'title': 'New bytes appearing when disassembling', 'state': 'closed', 'created_at': '2014-05-07T14:19:55Z', 'closed_at': '2014-05-08T14:41:35Z', 'labels': []}
+{'issuenumber': 105, 'title': 'Muliple segmentations fault with CS_OPT_SKIPDATA', 'state': 'closed', 'created_at': '2014-05-07T11:16:35Z', 'closed_at': '2014-05-07T15:33:58Z', 'labels': []}
+{'issuenumber': 104, 'title': 'ARM_GRP_JUMP is empty', 'state': 'closed', 'created_at': '2014-05-06T23:07:30Z', 'closed_at': '2014-11-02T16:14:24Z', 'labels': []}
+{'issuenumber': 103, 'title': 'Wrong ARM32 BL decoding', 'state': 'closed', 'created_at': '2014-05-06T15:23:43Z', 'closed_at': '2014-05-09T20:31:15Z', 'labels': []}
+{'issuenumber': 93, 'title': 'Python 3 and capstone', 'state': 'closed', 'created_at': '2014-04-10T23:07:12Z', 'closed_at': '2014-05-08T14:40:57Z', 'labels': []}
+{'issuenumber': 92, 'title': 'Segmentation fault (2.1.2)', 'state': 'closed', 'created_at': '2014-04-10T03:55:45Z', 'closed_at': '2014-05-14T07:35:00Z', 'labels': []}
+{'issuenumber': 90, 'title': 'Error on Fedora Linux 20, Capstone 2.1.2 while searching for libcapstone.so library', 'state': 'closed', 'created_at': '2014-04-05T13:22:57Z', 'closed_at': '2014-05-08T14:39:01Z', 'labels': []}
+{'issuenumber': 85, 'title': 'Incorrect offset in ARM64 LDP/STP', 'state': 'closed', 'created_at': '2014-03-25T10:31:33Z', 'closed_at': '2014-03-25T15:34:03Z', 'labels': []}
+{'issuenumber': 82, 'title': 'X86 Prefix ordering', 'state': 'closed', 'created_at': '2014-03-18T16:32:20Z', 'closed_at': '2014-05-08T14:46:55Z', 'labels': []}
+{'issuenumber': 76, 'title': 'OSX pkgconfig file locations', 'state': 'closed', 'created_at': '2014-02-24T01:24:21Z', 'closed_at': '2014-05-08T14:40:33Z', 'labels': []}
+{'issuenumber': 74, 'title': 'libcapstone.dylib is placed in the wrong location, causes errors with the python binding', 'state': 'closed', 'created_at': '2014-02-18T05:34:53Z', 'closed_at': '2014-02-18T06:43:58Z', 'labels': []}
+{'issuenumber': 71, 'title': 'install_cython: capstone/capstone.h: No such file or directory', 'state': 'closed', 'created_at': '2014-01-26T02:35:54Z', 'closed_at': '2014-01-26T10:36:48Z', 'labels': []}
+{'issuenumber': 70, 'title': 'unable to install cython binding', 'state': 'closed', 'created_at': '2014-01-26T01:10:52Z', 'closed_at': '2014-01-26T02:30:08Z', 'labels': []}
+{'issuenumber': 60, 'title': 'Crash in arrch64 when detail is false', 'state': 'closed', 'created_at': '2014-01-04T02:19:59Z', 'closed_at': '2014-01-25T07:58:28Z', 'labels': []}
+{'issuenumber': 57, 'title': 'Files built without respecting LDFLAGS have been detected', 'state': 'closed', 'created_at': '2014-01-01T03:18:09Z', 'closed_at': '2014-01-03T04:39:21Z', 'labels': []}
+{'issuenumber': 54, 'title': 'Missing operands for "xchg eax, ebx"', 'state': 'closed', 'created_at': '2013-12-23T23:13:40Z', 'closed_at': '2014-01-02T05:06:04Z', 'labels': []}
+{'issuenumber': 53, 'title': 'Undocumented dependency on Cs object in python API ', 'state': 'closed', 'created_at': '2013-12-22T20:49:23Z', 'closed_at': '2013-12-23T22:39:45Z', 'labels': []}
+{'issuenumber': 52, 'title': ' Addition of a build system generator', 'state': 'closed', 'created_at': '2013-12-22T11:27:20Z', 'closed_at': '2014-06-01T03:54:09Z', 'labels': []}
+{'issuenumber': 51, 'title': 'hard-coded /usr/lib path', 'state': 'closed', 'created_at': '2013-12-22T02:20:15Z', 'closed_at': '2014-01-01T14:06:33Z', 'labels': []}
+{'issuenumber': 50, 'title': 'lack of SONAME', 'state': 'closed', 'created_at': '2013-12-22T02:11:51Z', 'closed_at': '2014-01-01T03:15:23Z', 'labels': []}
+{'issuenumber': 43, 'title': 'MIPS register naming in operand string', 'state': 'closed', 'created_at': '2013-12-18T15:50:20Z', 'closed_at': '2013-12-23T13:49:40Z', 'labels': []}
+{'issuenumber': 42, 'title': 'Completion of error handling', 'state': 'closed', 'created_at': '2013-12-18T14:51:20Z', 'closed_at': '2021-12-20T02:38:58Z', 'labels': []}
+{'issuenumber': 41, 'title': 'reserved identifier violation', 'state': 'closed', 'created_at': '2013-12-18T14:35:21Z', 'closed_at': '2014-01-02T05:16:52Z', 'labels': []}
+{'issuenumber': 36, 'title': 'jz vs je', 'state': 'closed', 'created_at': '2013-12-12T00:29:37Z', 'closed_at': '2021-12-01T10:50:45Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 35, 'title': '64 addresses on 16bit disassembly', 'state': 'closed', 'created_at': '2013-12-12T00:12:20Z', 'closed_at': '2014-05-14T23:49:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 34, 'title': 'Wrong x86-16 disassembly', 'state': 'closed', 'created_at': '2013-12-12T00:04:53Z', 'closed_at': '2013-12-14T22:35:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 32, 'title': 'Invalid decomposition of MIPS instruction', 'state': 'closed', 'created_at': '2013-12-11T02:51:38Z', 'closed_at': '2013-12-11T16:52:34Z', 'labels': []}
+{'issuenumber': 31, 'title': 'Remove unused defines and update version script in Makefile', 'state': 'closed', 'created_at': '2013-12-11T02:22:59Z', 'closed_at': '2013-12-16T10:29:38Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 30, 'title': 'Optimize MIPS disassembler', 'state': 'closed', 'created_at': '2013-12-11T02:22:07Z', 'closed_at': '2014-05-08T14:40:00Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 29, 'title': 'Segfault in AArch64', 'state': 'closed', 'created_at': '2013-12-11T02:14:07Z', 'closed_at': '2013-12-11T17:02:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 27, 'title': 'Remove tabs', 'state': 'closed', 'created_at': '2013-12-06T03:29:12Z', 'closed_at': '2013-12-11T02:14:42Z', 'labels': []}
+{'issuenumber': 26, 'title': 'MIPS disassembler segfault', 'state': 'closed', 'created_at': '2013-12-06T02:42:29Z', 'closed_at': '2013-12-11T11:19:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 8, 'title': 'Segfault in x86 disassembler', 'state': 'closed', 'created_at': '2013-11-28T04:40:57Z', 'closed_at': '2013-11-28T08:55:46Z', 'labels': []}

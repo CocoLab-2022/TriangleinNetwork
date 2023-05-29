@@ -1,0 +1,1012 @@
+{'issuenumber': 1399, 'title': 'regarding make lottie library', 'state': 'closed', 'created_at': '2019-09-30T12:57:14Z', 'closed_at': '2019-09-30T18:26:06Z', 'labels': []}
+{'issuenumber': 1398, 'title': 'Does Lottie support play voice ?', 'state': 'closed', 'created_at': '2019-09-29T01:51:59Z', 'closed_at': '2019-09-30T18:27:03Z', 'labels': {'name': 'New feature'}}
+{'issuenumber': 1396, 'title': "TextLayers don't combine unicode combining characters", 'state': 'closed', 'created_at': '2019-09-27T13:58:54Z', 'closed_at': '2022-01-17T04:54:43Z', 'labels': {'name': 'Rendering bug'}}
+{'issuenumber': 1395, 'title': 'Add LottieView.setMinAndMaxFrame(startMarkerName: String, endMarkerName: String)', 'state': 'closed', 'created_at': '2019-09-27T00:20:55Z', 'closed_at': '2019-11-30T21:10:02Z', 'labels': {'name': 'New feature'}}
+{'issuenumber': 1394, 'title': 'SDK=28', 'state': 'closed', 'created_at': '2019-09-25T10:17:24Z', 'closed_at': '2019-09-30T18:27:41Z', 'labels': {'name': 'New feature'}}
+{'issuenumber': 1393, 'title': 'Multi Animation Repeated Play', 'state': 'closed', 'created_at': '2019-09-25T05:35:30Z', 'closed_at': '2019-09-30T18:28:30Z', 'labels': {'name': 'New feature'}}
+{'issuenumber': 1392, 'title': 'no translation animation', 'state': 'closed', 'created_at': '2019-09-24T10:27:21Z', 'closed_at': '2019-09-26T09:50:45Z', 'labels': {'name': 'Non-Rendering Bug'}}
+{'issuenumber': 1391, 'title': 'Lottie animation not working for Android 10 on Version 3.0.7', 'state': 'closed', 'created_at': '2019-09-18T10:12:22Z', 'closed_at': '2019-10-10T04:07:45Z', 'labels': {'name': 'Rendering bug'}}
+{'issuenumber': 1390, 'title': 'how to load net zip file, have a demo reference?', 'state': 'closed', 'created_at': '2019-09-17T03:43:15Z', 'closed_at': '2019-09-24T19:59:14Z', 'labels': []}
+{'issuenumber': 1389, 'title': 'how', 'state': 'closed', 'created_at': '2019-09-17T03:40:00Z', 'closed_at': '2019-09-17T03:40:13Z', 'labels': []}
+{'issuenumber': 1388, 'title': 'com.airbnb.lottie.LottieAnimationView$2.onResult(LottieAnimationView.java:75)', 'state': 'closed', 'created_at': '2019-09-12T12:06:48Z', 'closed_at': '2019-09-12T21:33:51Z', 'labels': {'name': 'New feature'}}
+{'issuenumber': 1387, 'title': 'Crash: java.lang.IllegalStateException Unable to create layer for LottieAnimationView, size 1088x-448 max size 8192 color type 4 has context 1 ', 'state': 'closed', 'created_at': '2019-09-12T02:41:29Z', 'closed_at': '2021-12-10T19:38:52Z', 'labels': {'name': 'Non-Rendering Bug'}}
+{'issuenumber': 1386, 'title': 'Animator scale off in developer settings no longer calls end listener (snapshot)', 'state': 'closed', 'created_at': '2019-09-11T19:10:49Z', 'closed_at': '2019-09-16T15:29:07Z', 'labels': {'name': 'Non-Rendering Bug'}}
+{'issuenumber': 1384, 'title': 'Lottie scale types', 'state': 'closed', 'created_at': '2019-09-09T08:35:02Z', 'closed_at': '2019-09-12T21:35:54Z', 'labels': {'name': 'Non-Rendering Bug'}}
+{'issuenumber': 1383, 'title': 'Hardwareacceleration looks like not working in Huawei Honor 9. (use 2.7.0)', 'state': 'closed', 'created_at': '2019-09-06T03:24:50Z', 'closed_at': '2019-09-06T15:12:49Z', 'labels': {'name': 'Rendering bug'}}
+{'issuenumber': 1382, 'title': 'Rotating shape with gradient stroke rotates shape but not gradient', 'state': 'closed', 'created_at': '2019-09-05T20:34:34Z', 'closed_at': '2019-11-30T22:08:33Z', 'labels': []}
+{'issuenumber': 1381, 'title': 'Rendering animations using Graphics2D in java/swing apps', 'state': 'closed', 'created_at': '2019-09-03T14:16:44Z', 'closed_at': '2019-09-15T01:59:16Z', 'labels': {'name': 'New feature'}}
+{'issuenumber': 1380, 'title': 'Unused value', 'state': 'closed', 'created_at': '2019-09-02T10:24:27Z', 'closed_at': '2019-09-16T17:26:09Z', 'labels': []}
+{'issuenumber': 1379, 'title': 'Unused value', 'state': 'closed', 'created_at': '2019-09-02T10:20:26Z', 'closed_at': '2019-09-02T10:23:33Z', 'labels': {'name': 'New feature'}}
+{'issuenumber': 1378, 'title': 'I add Lottie animation view on splash with match_parent but it is not match_parent. Center crop is not good solution it crops all of the important content in splash animation that I have.', 'state': 'closed', 'created_at': '2019-09-01T21:33:08Z', 'closed_at': '2019-09-02T06:05:08Z', 'labels': {'name': 'Rendering bug'}}
+{'issuenumber': 1376, 'title': 'Cropped lottie animation', 'state': 'closed', 'created_at': '2019-08-30T09:20:57Z', 'closed_at': '2019-09-01T02:29:16Z', 'labels': {'name': 'Rendering bug'}}
+{'issuenumber': 1375, 'title': 'java.io.FileNotFoundException when try to load animation from sd card', 'state': 'closed', 'created_at': '2019-08-29T12:59:23Z', 'closed_at': '2019-08-29T13:56:53Z', 'labels': {'name': 'Rendering bug'}}
+{'issuenumber': 1374, 'title': 'Extreme lag in 3.0.0+ and higher, smooth in 2.8.0 ', 'state': 'closed', 'created_at': '2019-08-29T08:54:02Z', 'closed_at': '2019-09-01T17:21:41Z', 'labels': {'name': 'Non-Rendering Bug'}}
+{'issuenumber': 1373, 'title': 'How to load local lottie file for lottie?', 'state': 'closed', 'created_at': '2019-08-29T08:20:22Z', 'closed_at': '2019-08-29T13:58:54Z', 'labels': {'name': 'New feature'}}
+{'issuenumber': 1371, 'title': "Playing animation is normal, but the setProgress can't reach 100%.", 'state': 'closed', 'created_at': '2019-08-29T04:50:59Z', 'closed_at': '2019-08-29T05:57:12Z', 'labels': {'name': 'Rendering bug'}}
+{'issuenumber': 1370, 'title': 'Animation Works perfect on the Web but when in Xamarin Forms its looks weird', 'state': 'closed', 'created_at': '2019-08-28T14:54:37Z', 'closed_at': '2020-02-16T18:14:06Z', 'labels': {'name': 'Rendering bug'}}
+{'issuenumber': 1369, 'title': 'NullPointerException occurs when using old format json', 'state': 'closed', 'created_at': '2019-08-28T10:32:50Z', 'closed_at': '2019-08-29T02:59:24Z', 'labels': {'name': 'Rendering bug'}}
+{'issuenumber': 1367, 'title': 'How to konw play fail status?', 'state': 'closed', 'created_at': '2019-08-26T09:56:17Z', 'closed_at': '2019-08-29T03:01:08Z', 'labels': {'name': 'New feature'}}
+{'issuenumber': 1366, 'title': "引用报错 implementation 'com.airbnb.android:lottie:3.0.7'", 'state': 'closed', 'created_at': '2019-08-26T07:02:58Z', 'closed_at': '2019-08-29T02:59:48Z', 'labels': {'name': 'Non-Rendering Bug'}}
+{'issuenumber': 1365, 'title': 'Update Glide', 'state': 'closed', 'created_at': '2019-08-23T09:48:37Z', 'closed_at': '2019-08-23T19:51:05Z', 'labels': {'name': 'New feature'}}
+{'issuenumber': 1364, 'title': 'Memory Leak', 'state': 'closed', 'created_at': '2019-08-23T09:28:37Z', 'closed_at': '2019-08-23T10:24:02Z', 'labels': []}
+{'issuenumber': 1363, 'title': 'lottie animation-NullPointerException-crash,why?', 'state': 'closed', 'created_at': '2019-08-23T02:44:49Z', 'closed_at': '2019-08-23T19:51:14Z', 'labels': {'name': 'Non-Rendering Bug'}}
+{'issuenumber': 1360, 'title': 'RectangleContent.getPath() Null Pointer Exception', 'state': 'closed', 'created_at': '2019-08-19T04:24:35Z', 'closed_at': '2019-08-19T21:25:57Z', 'labels': {'name': 'Non-Rendering Bug'}}
+{'issuenumber': 1359, 'title': 'Android Q requires non-SDK interface blacklists and graylists. Is there such a call involved in Lottie?', 'state': 'closed', 'created_at': '2019-08-16T08:52:22Z', 'closed_at': '2019-08-17T21:42:38Z', 'labels': {'name': 'New feature'}}
+{'issuenumber': 1358, 'title': 'Very slow animation from version 3.0.0', 'state': 'closed', 'created_at': '2019-08-13T11:17:45Z', 'closed_at': '2019-08-29T17:37:47Z', 'labels': {'name': 'Rendering bug'}}
+{'issuenumber': 1357, 'title': 'FloatKeyframeAnimation.java line 29 com.airbnb.lottie.animation.keyframe.FloatKeyframeAnimation.getValue', 'state': 'closed', 'created_at': '2019-08-12T05:26:32Z', 'closed_at': '2019-08-12T16:52:11Z', 'labels': {'name': 'Non-Rendering Bug'}}
+{'issuenumber': 1356, 'title': 'BaseLottieAnimator.java line 87', 'state': 'closed', 'created_at': '2019-08-12T04:37:08Z', 'closed_at': '2019-08-12T16:52:27Z', 'labels': {'name': 'Non-Rendering Bug'}}
+{'issuenumber': 1347, 'title': 'Animation became blurred after update the lottie version.', 'state': 'closed', 'created_at': '2019-08-09T06:30:55Z', 'closed_at': '2019-08-10T19:59:36Z', 'labels': {'name': 'Rendering bug'}}
+{'issuenumber': 1346, 'title': 'Is that support inbuilt animation of After effect on Text or Shape ? Help Wanted', 'state': 'closed', 'created_at': '2019-08-09T03:46:27Z', 'closed_at': '2019-08-10T23:09:43Z', 'labels': {'name': 'Non-Rendering Bug'}}
+{'issuenumber': 1345, 'title': 'View.unscheduleDrawable is not working for LottieDrawable.', 'state': 'closed', 'created_at': '2019-08-09T02:53:39Z', 'closed_at': '2020-12-25T21:40:36Z', 'labels': {'name': 'Help wanted'}}
+{'issuenumber': 1344, 'title': 'Shift in Animation Frames and Slow Rendering', 'state': 'closed', 'created_at': '2019-08-07T07:44:57Z', 'closed_at': '2019-08-10T22:38:46Z', 'labels': {'name': 'Rendering bug'}}
+{'issuenumber': 1343, 'title': 'how to clear LottieCompositionCache', 'state': 'closed', 'created_at': '2019-08-06T08:06:07Z', 'closed_at': '2019-08-06T23:50:37Z', 'labels': {'name': 'New feature'}}
+{'issuenumber': 1342, 'title': "Dynamic Text doesn't change color using a ValueCallback", 'state': 'closed', 'created_at': '2019-08-02T21:48:45Z', 'closed_at': '2019-08-11T02:26:28Z', 'labels': {'name': 'Rendering bug'}}
+{'issuenumber': 1341, 'title': 'java.lang.VerifyError', 'state': 'closed', 'created_at': '2019-08-02T12:39:38Z', 'closed_at': '2019-08-05T01:29:26Z', 'labels': {'name': 'Non-Rendering Bug'}}
+{'issuenumber': 1339, 'title': 'ANR with match_parent in some lotties', 'state': 'closed', 'created_at': '2019-08-01T10:18:26Z', 'closed_at': '2019-11-30T19:57:25Z', 'labels': {'name': 'Non-Rendering Bug'}}
+{'issuenumber': 1338, 'title': "React native lottie not animating images which are parented to a shape layer's contents.", 'state': 'closed', 'created_at': '2019-07-27T09:16:54Z', 'closed_at': '2019-07-31T23:53:01Z', 'labels': {'name': 'Rendering bug'}}
+{'issuenumber': 1337, 'title': 'LottieAnimationView.removeAllUpdateListeners removes internal listeners, breaking core behavior.', 'state': 'closed', 'created_at': '2019-07-26T10:46:52Z', 'closed_at': '2019-08-11T00:58:38Z', 'labels': {'name': 'Non-Rendering Bug'}}
+{'issuenumber': 1336, 'title': 'The attached resource no longer renders as expected since 3.0.0', 'state': 'closed', 'created_at': '2019-07-25T13:54:48Z', 'closed_at': '2019-07-25T16:05:19Z', 'labels': {'name': 'Rendering bug'}}
+{'issuenumber': 1335, 'title': 'lottie on android is not consistent ', 'state': 'closed', 'created_at': '2019-07-24T15:27:41Z', 'closed_at': '2019-07-31T23:54:06Z', 'labels': {'name': 'Rendering bug'}}
+{'issuenumber': 1334, 'title': 'Lottie webplayer is showing something completely different on android', 'state': 'closed', 'created_at': '2019-07-24T00:09:59Z', 'closed_at': '2019-08-11T00:53:15Z', 'labels': {'name': 'Rendering bug'}}
+{'issuenumber': 1331, 'title': 'Crash on android start. Problem with keyframe animations.', 'state': 'closed', 'created_at': '2019-07-20T17:30:01Z', 'closed_at': '2019-07-20T17:36:46Z', 'labels': {'name': 'Rendering bug'}}
+{'issuenumber': 1330, 'title': 'Add Nullaway Support', 'state': 'closed', 'created_at': '2019-07-19T19:39:33Z', 'closed_at': '2019-08-11T02:25:58Z', 'labels': {'name': 'Good first issue'}}
+{'issuenumber': 1326, 'title': "json export with bodymovin doesn't work on Android device", 'state': 'closed', 'created_at': '2019-07-18T14:22:13Z', 'closed_at': '2019-08-10T23:50:40Z', 'labels': []}
+{'issuenumber': 1325, 'title': 'Gradients seem to not be rendered correctly', 'state': 'closed', 'created_at': '2019-07-18T09:46:58Z', 'closed_at': '2019-08-07T00:01:34Z', 'labels': []}
+{'issuenumber': 1324, 'title': "RecycleView, wasAnimatingWhenDetached isn't set to false when view is attached", 'state': 'closed', 'created_at': '2019-07-16T21:52:34Z', 'closed_at': '2019-08-10T20:50:32Z', 'labels': {'name': 'Help wanted'}}
+{'issuenumber': 1323, 'title': 'Use json animation to report an error', 'state': 'closed', 'created_at': '2019-07-16T10:54:00Z', 'closed_at': '2019-07-19T02:50:36Z', 'labels': []}
+{'issuenumber': 1322, 'title': 'Recyclerview, animating when detached', 'state': 'closed', 'created_at': '2019-07-16T09:58:47Z', 'closed_at': '2019-07-20T03:44:48Z', 'labels': []}
+{'issuenumber': 1319, 'title': 'MemoryLeak in LottieDrawable', 'state': 'closed', 'created_at': '2019-07-16T03:47:18Z', 'closed_at': '2019-08-10T22:40:07Z', 'labels': []}
+{'issuenumber': 1318, 'title': 'From 3.0.6 animation froze instead of looping on activity startup', 'state': 'closed', 'created_at': '2019-07-15T13:18:57Z', 'closed_at': '2019-08-10T22:37:17Z', 'labels': []}
+{'issuenumber': 1317, 'title': 'buildDrawingCache null pointer exception', 'state': 'closed', 'created_at': '2019-07-15T07:50:42Z', 'closed_at': '2019-08-10T23:16:43Z', 'labels': []}
+{'issuenumber': 1316, 'title': "No .git directory found!But I didn't install git,How to solve the problem", 'state': 'closed', 'created_at': '2019-07-13T06:42:00Z', 'closed_at': '2019-07-16T05:25:07Z', 'labels': []}
+{'issuenumber': 1315, 'title': 'cpu', 'state': 'closed', 'created_at': '2019-07-13T03:10:03Z', 'closed_at': '2019-07-16T05:24:20Z', 'labels': []}
+{'issuenumber': 1314, 'title': 'Lottie is cutting animation from the right side', 'state': 'closed', 'created_at': '2019-07-12T05:11:59Z', 'closed_at': '2019-07-20T03:45:57Z', 'labels': []}
+{'issuenumber': 1313, 'title': 'Lottie adds wrong shadows on small dpi devices ', 'state': 'closed', 'created_at': '2019-07-11T11:53:55Z', 'closed_at': '2019-07-15T17:58:49Z', 'labels': []}
+{'issuenumber': 1312, 'title': 'Lottie Animation has lag when new Activity starts', 'state': 'closed', 'created_at': '2019-07-11T10:16:41Z', 'closed_at': '2019-07-16T05:26:01Z', 'labels': []}
+{'issuenumber': 1311, 'title': 'LottieDrawable with images convert to Video, Images not display', 'state': 'closed', 'created_at': '2019-07-11T09:20:53Z', 'closed_at': '2019-07-19T20:05:10Z', 'labels': []}
+{'issuenumber': 1310, 'title': 'Using Text Delegate and scaletype then the textfield wont position correctly', 'state': 'closed', 'created_at': '2019-07-10T14:28:16Z', 'closed_at': '2020-10-02T02:24:03Z', 'labels': {'name': 'Text'}}
+{'issuenumber': 1309, 'title': 'json files cannot play correctly on android', 'state': 'closed', 'created_at': '2019-07-10T01:50:27Z', 'closed_at': '2019-08-11T00:24:38Z', 'labels': []}
+{'issuenumber': 1308, 'title': 'I want to manually cancel animaitio when LottieAnimationView wrapper is GONE...', 'state': 'closed', 'created_at': '2019-07-09T23:05:10Z', 'closed_at': '2019-07-10T21:38:53Z', 'labels': []}
+{'issuenumber': 1307, 'title': 'Is it possible to detect when the animation has started ?', 'state': 'closed', 'created_at': '2019-07-09T08:56:31Z', 'closed_at': '2019-07-10T21:06:58Z', 'labels': []}
+{'issuenumber': 1306, 'title': 'Animation begins Obviously not smooth at the first load', 'state': 'closed', 'created_at': '2019-07-09T08:43:33Z', 'closed_at': '2019-07-10T21:09:02Z', 'labels': []}
+{'issuenumber': 1305, 'title': 'How to work in Android Q dark theme', 'state': 'closed', 'created_at': '2019-07-09T08:06:45Z', 'closed_at': '2019-08-11T01:02:07Z', 'labels': []}
+{'issuenumber': 1303, 'title': 'Lottie Animation Drawable is Behaving Different on Different Device', 'state': 'closed', 'created_at': '2019-07-06T12:51:51Z', 'closed_at': '2019-07-25T16:27:51Z', 'labels': []}
+{'issuenumber': 1302, 'title': 'java.net.SocketException: Network is unreachable', 'state': 'closed', 'created_at': '2019-07-03T14:56:16Z', 'closed_at': '2019-07-19T19:44:23Z', 'labels': []}
+{'issuenumber': 1301, 'title': 'Animation procceed exception', 'state': 'closed', 'created_at': '2019-07-02T10:07:10Z', 'closed_at': '2019-07-02T12:59:01Z', 'labels': []}
+{'issuenumber': 1298, 'title': 'Error: java.lang.StackOverflowError: stack size 8MB', 'state': 'closed', 'created_at': '2019-07-02T03:08:25Z', 'closed_at': '2019-07-22T21:57:00Z', 'labels': []}
+{'issuenumber': 1297, 'title': 'update to 3.0.1 ,cause dependencies error', 'state': 'closed', 'created_at': '2019-07-01T09:10:00Z', 'closed_at': '2019-07-01T15:45:11Z', 'labels': []}
+{'issuenumber': 1296, 'title': 'Add lottie_startDelay tag attribute', 'state': 'closed', 'created_at': '2019-07-01T06:13:01Z', 'closed_at': '2019-07-19T19:45:25Z', 'labels': []}
+{'issuenumber': 1295, 'title': 'Change Text on Animation', 'state': 'closed', 'created_at': '2019-06-29T17:38:31Z', 'closed_at': '2019-07-01T16:04:15Z', 'labels': []}
+{'issuenumber': 1294, 'title': 'How to change the tint of glyphs programmically?', 'state': 'closed', 'created_at': '2019-06-28T19:37:38Z', 'closed_at': '2019-07-07T20:59:28Z', 'labels': []}
+{'issuenumber': 1293, 'title': 'When i use TextDelegate it change alignment of text ', 'state': 'closed', 'created_at': '2019-06-28T05:29:51Z', 'closed_at': '2019-08-11T00:02:37Z', 'labels': []}
+{'issuenumber': 1292, 'title': 'android.view.ViewRootImpl$CalledFromWrongThreadException: Only the original thread that created a view hierarchy can touch its views.', 'state': 'closed', 'created_at': '2019-06-27T14:10:53Z', 'closed_at': '2019-06-28T02:46:23Z', 'labels': []}
+{'issuenumber': 1291, 'title': 'PerformanceTracker says all frames took 0ms to render', 'state': 'closed', 'created_at': '2019-06-27T09:56:48Z', 'closed_at': '2019-07-16T05:28:57Z', 'labels': []}
+{'issuenumber': 1290, 'title': 'setAnimationFromUrl not working', 'state': 'closed', 'created_at': '2019-06-27T04:39:20Z', 'closed_at': '2019-06-27T06:57:30Z', 'labels': []}
+{'issuenumber': 1289, 'title': 'Add cache strategy feature', 'state': 'closed', 'created_at': '2019-06-26T20:54:44Z', 'closed_at': '2020-02-16T03:49:03Z', 'labels': []}
+{'issuenumber': 1288, 'title': 'NetworkFetcher handles content-type wrongly', 'state': 'closed', 'created_at': '2019-06-26T05:07:55Z', 'closed_at': '2019-07-16T15:54:30Z', 'labels': []}
+{'issuenumber': 1287, 'title': 'Animation not displyed correctly on API26 starting from version 3.0.0', 'state': 'closed', 'created_at': '2019-06-25T10:36:34Z', 'closed_at': '2019-07-16T05:15:27Z', 'labels': []}
+{'issuenumber': 1286, 'title': "Animation doesn't work with latest (3.0.7) version", 'state': 'closed', 'created_at': '2019-06-24T22:08:23Z', 'closed_at': '2019-06-26T01:04:55Z', 'labels': []}
+{'issuenumber': 1285, 'title': 'Readme Documentation is Extremely Sparse', 'state': 'closed', 'created_at': '2019-06-24T18:45:04Z', 'closed_at': '2019-06-25T20:39:52Z', 'labels': []}
+{'issuenumber': 1284, 'title': "Animating item changes in RecyclerView doesn't work", 'state': 'closed', 'created_at': '2019-06-24T10:39:23Z', 'closed_at': '2019-07-31T23:52:09Z', 'labels': {'name': 'Help wanted'}}
+{'issuenumber': 1283, 'title': 'Stroke dash offset not animating on Android', 'state': 'closed', 'created_at': '2019-06-23T20:12:40Z', 'closed_at': '2019-07-09T01:50:06Z', 'labels': []}
+{'issuenumber': 1282, 'title': 'Crash on android-19', 'state': 'closed', 'created_at': '2019-06-23T12:16:07Z', 'closed_at': '2019-06-24T17:37:05Z', 'labels': []}
+{'issuenumber': 1280, 'title': 'Add Content-Length and Content-MD5 checks to NetworkFetcher', 'state': 'closed', 'created_at': '2019-06-23T03:36:59Z', 'closed_at': '2019-07-23T21:40:13Z', 'labels': []}
+{'issuenumber': 1277, 'title': ' NetworkCache isTemp usage error', 'state': 'closed', 'created_at': '2019-06-21T10:29:26Z', 'closed_at': '2019-06-23T02:54:39Z', 'labels': []}
+{'issuenumber': 1276, 'title': '2.7.0.', 'state': 'closed', 'created_at': '2019-06-21T02:46:51Z', 'closed_at': '2019-06-21T04:02:44Z', 'labels': []}
+{'issuenumber': 1275, 'title': 'Lottie 3.0.7 not on Maven Central', 'state': 'closed', 'created_at': '2019-06-20T18:14:34Z', 'closed_at': '2019-06-20T19:48:06Z', 'labels': []}
+{'issuenumber': 1273, 'title': 'How to save Lottie Animation as Video (.mp4) and GIF (.gif) in Android ? ', 'state': 'closed', 'created_at': '2019-06-19T08:56:58Z', 'closed_at': '2019-06-20T04:28:25Z', 'labels': []}
+{'issuenumber': 1272, 'title': 'Is that any way to change Text Color in Json ?', 'state': 'closed', 'created_at': '2019-06-17T10:56:20Z', 'closed_at': '2019-06-17T16:58:23Z', 'labels': []}
+{'issuenumber': 1271, 'title': 'how to set Dynamic Text in Json ? ', 'state': 'closed', 'created_at': '2019-06-17T05:16:42Z', 'closed_at': '2019-06-17T10:56:58Z', 'labels': []}
+{'issuenumber': 1270, 'title': 'How to use with JsonReader?', 'state': 'closed', 'created_at': '2019-06-16T09:21:25Z', 'closed_at': '2019-06-23T04:12:32Z', 'labels': []}
+{'issuenumber': 1269, 'title': 'ANR held mutexes= "mutator lock"(shared held)', 'state': 'closed', 'created_at': '2019-06-14T07:28:46Z', 'closed_at': '2019-06-20T05:18:52Z', 'labels': []}
+{'issuenumber': 1268, 'title': 'held lock', 'state': 'closed', 'created_at': '2019-06-14T07:26:29Z', 'closed_at': '2019-06-14T07:26:36Z', 'labels': []}
+{'issuenumber': 1267, 'title': 'Why is the setting mode to loop and still allocate memory?', 'state': 'closed', 'created_at': '2019-06-14T07:21:48Z', 'closed_at': '2019-06-23T02:55:06Z', 'labels': []}
+{'issuenumber': 1262, 'title': 'ConcurrentModificationException in the newest version (3.0.1)', 'state': 'closed', 'created_at': '2019-06-13T01:57:23Z', 'closed_at': '2019-06-13T10:02:54Z', 'labels': []}
+{'issuenumber': 1260, 'title': '> You can use `android:scaleType="centerInside"`', 'state': 'closed', 'created_at': '2019-06-12T09:37:11Z', 'closed_at': '2019-08-10T23:09:19Z', 'labels': []}
+{'issuenumber': 1259, 'title': 'This simple mask made with ae, but on android, it shows an error', 'state': 'closed', 'created_at': '2019-06-12T02:44:37Z', 'closed_at': '2019-08-11T00:23:09Z', 'labels': []}
+{'issuenumber': 1258, 'title': 'OutOfMemoryError', 'state': 'closed', 'created_at': '2019-06-12T02:28:29Z', 'closed_at': '2019-06-12T04:17:24Z', 'labels': []}
+{'issuenumber': 1257, 'title': '指定LottieAnimationView的宽高不能自动适配json的尺寸', 'state': 'closed', 'created_at': '2019-06-10T07:36:06Z', 'closed_at': '2019-06-10T15:58:50Z', 'labels': []}
+{'issuenumber': 1256, 'title': 'crash in Lottie on Nougat for Lenovo devices', 'state': 'closed', 'created_at': '2019-06-10T07:05:50Z', 'closed_at': '2019-06-10T15:59:31Z', 'labels': []}
+{'issuenumber': 1255, 'title': 'Why does memory grow every time you play Gif?', 'state': 'closed', 'created_at': '2019-06-09T07:27:27Z', 'closed_at': '2019-06-10T16:00:06Z', 'labels': []}
+{'issuenumber': 1254, 'title': 'a json file cannot animate right in android 4.4', 'state': 'closed', 'created_at': '2019-06-07T11:36:56Z', 'closed_at': '2019-06-10T16:00:48Z', 'labels': []}
+{'issuenumber': 1253, 'title': 'Cropped LottieAnimationView', 'state': 'closed', 'created_at': '2019-06-07T09:01:45Z', 'closed_at': '2019-12-01T22:18:14Z', 'labels': []}
+{'issuenumber': 1252, 'title': "com.airbnb.lottie.model.content.ShapeData.getInitialPoint()' on a null object reference", 'state': 'closed', 'created_at': '2019-06-06T12:22:49Z', 'closed_at': '2019-06-13T17:13:33Z', 'labels': []}
+{'issuenumber': 1251, 'title': 'please support PorterDuff ADD  MULTIPLY and so on', 'state': 'closed', 'created_at': '2019-06-05T09:40:59Z', 'closed_at': '2022-01-17T04:41:22Z', 'labels': []}
+{'issuenumber': 1250, 'title': 'setProgress does not interpolate between frames', 'state': 'closed', 'created_at': '2019-06-03T15:03:58Z', 'closed_at': '2019-06-13T21:23:06Z', 'labels': []}
+{'issuenumber': 1248, 'title': "setProgress(1f) didn't work", 'state': 'closed', 'created_at': '2019-05-31T11:37:00Z', 'closed_at': '2019-06-03T02:09:45Z', 'labels': []}
+{'issuenumber': 1247, 'title': "When I turn off the screen and light up again. It doesn't work in list.", 'state': 'closed', 'created_at': '2019-05-31T10:26:34Z', 'closed_at': '2019-06-24T08:52:13Z', 'labels': []}
+{'issuenumber': 1243, 'title': 'Regression: Animation does not play when playAnimation() called in RecyclerView onBindViewHolder', 'state': 'closed', 'created_at': '2019-05-30T16:00:40Z', 'closed_at': '2019-05-30T20:20:13Z', 'labels': []}
+{'issuenumber': 1242, 'title': 'Bug: PerfomanceTracker#removeFrameListener not works', 'state': 'closed', 'created_at': '2019-05-30T10:36:12Z', 'closed_at': '2019-05-30T20:20:23Z', 'labels': []}
+{'issuenumber': 1241, 'title': 'Abnormal stop of lottie animation', 'state': 'closed', 'created_at': '2019-05-30T04:01:31Z', 'closed_at': '2019-05-30T21:35:55Z', 'labels': []}
+{'issuenumber': 1240, 'title': 'Reload LottieComposition will flash (3.0.3)', 'state': 'closed', 'created_at': '2019-05-29T01:23:58Z', 'closed_at': '2019-06-01T02:17:04Z', 'labels': []}
+{'issuenumber': 1239, 'title': 'Android Studio Color shift', 'state': 'closed', 'created_at': '2019-05-28T23:30:23Z', 'closed_at': '2019-06-23T03:37:27Z', 'labels': []}
+{'issuenumber': 1238, 'title': 'text alignment issue', 'state': 'closed', 'created_at': '2019-05-28T13:51:32Z', 'closed_at': '2019-08-11T00:14:45Z', 'labels': {'name': 'Text'}}
+{'issuenumber': 1237, 'title': 'Animations are blurry in 3.0+', 'state': 'closed', 'created_at': '2019-05-28T13:50:42Z', 'closed_at': '2019-05-29T08:34:37Z', 'labels': []}
+{'issuenumber': 1236, 'title': "Android 9 playAnimation() doesn't trigger animation", 'state': 'closed', 'created_at': '2019-05-27T05:40:38Z', 'closed_at': '2019-05-29T09:45:50Z', 'labels': []}
+{'issuenumber': 1235, 'title': 'How to solve OOM problem?', 'state': 'closed', 'created_at': '2019-05-27T02:50:51Z', 'closed_at': '2019-05-27T06:58:50Z', 'labels': []}
+{'issuenumber': 1233, 'title': 'setFontAssetDelegate not working after animation is loaded', 'state': 'closed', 'created_at': '2019-05-26T20:04:36Z', 'closed_at': '2022-01-17T05:23:31Z', 'labels': []}
+{'issuenumber': 1231, 'title': 'Problem with color filter', 'state': 'closed', 'created_at': '2019-05-24T11:43:10Z', 'closed_at': '2019-07-08T23:48:57Z', 'labels': []}
+{'issuenumber': 1228, 'title': 'lottie cant play animation', 'state': 'closed', 'created_at': '2019-05-21T11:55:32Z', 'closed_at': '2019-05-21T16:10:52Z', 'labels': []}
+{'issuenumber': 1226, 'title': 'Having issue with run lottie animation on android, with source text trying to change numbers, it just invisible, thanks for attention, ', 'state': 'closed', 'created_at': '2019-05-20T16:03:11Z', 'closed_at': '2019-05-21T01:33:00Z', 'labels': []}
+{'issuenumber': 1224, 'title': "Android 7.0 can't render 2 add masks on the same layer with hardware acceleration", 'state': 'closed', 'created_at': '2019-05-20T01:11:15Z', 'closed_at': '2020-10-02T03:30:17Z', 'labels': []}
+{'issuenumber': 1220, 'title': '3.0.3 - NullPointerException @ Samsung SM-G930f (Android 7.0，API 24)', 'state': 'closed', 'created_at': '2019-05-17T08:55:32Z', 'closed_at': '2019-05-22T13:44:38Z', 'labels': []}
+{'issuenumber': 1219, 'title': 'java.net.SocketException: Socket is closed', 'state': 'closed', 'created_at': '2019-05-17T06:04:52Z', 'closed_at': '2019-05-19T23:34:17Z', 'labels': []}
+{'issuenumber': 1218, 'title': ' The last part of the white screen, no animated pictures ', 'state': 'closed', 'created_at': '2019-05-16T03:26:14Z', 'closed_at': '2019-05-18T23:51:28Z', 'labels': []}
+{'issuenumber': 1216, 'title': 'Animation is still played when attached even pause() is called.', 'state': 'closed', 'created_at': '2019-05-15T20:18:54Z', 'closed_at': '2019-06-03T10:35:31Z', 'labels': []}
+{'issuenumber': 1214, 'title': 'Lottie 3.0.1 is incompatible with Robolectric test', 'state': 'closed', 'created_at': '2019-05-15T19:47:35Z', 'closed_at': '2019-05-15T21:24:03Z', 'labels': []}
+{'issuenumber': 1213, 'title': 'NetworkFetcher:121 NullPointerException', 'state': 'closed', 'created_at': '2019-05-15T11:43:20Z', 'closed_at': '2019-05-20T04:02:42Z', 'labels': []}
+{'issuenumber': 1212, 'title': 'NullPointerException ', 'state': 'closed', 'created_at': '2019-05-15T03:03:01Z', 'closed_at': '2019-05-19T23:14:17Z', 'labels': []}
+{'issuenumber': 1211, 'title': 'LottieDrawable.setAlpha does not invalidateSelf', 'state': 'closed', 'created_at': '2019-05-13T20:22:59Z', 'closed_at': '2019-05-19T22:58:07Z', 'labels': []}
+{'issuenumber': 1209, 'title': 'Android Gradle plugin supports only Kotlin Gradle plugin version 1.3.10 and higher.', 'state': 'closed', 'created_at': '2019-05-09T10:11:12Z', 'closed_at': '2019-05-10T02:04:01Z', 'labels': []}
+{'issuenumber': 1208, 'title': 'TextDelegate is not rendering properly on below android pie devices', 'state': 'closed', 'created_at': '2019-05-08T19:32:17Z', 'closed_at': '2019-08-18T09:58:56Z', 'labels': []}
+{'issuenumber': 1207, 'title': 'Frame is not at min frame when backward animation ends', 'state': 'closed', 'created_at': '2019-05-08T01:31:13Z', 'closed_at': '2019-05-19T23:34:46Z', 'labels': []}
+{'issuenumber': 1206, 'title': "Mulltiple LottieAnimationView with different image folder can't work at same time", 'state': 'closed', 'created_at': '2019-05-07T06:53:12Z', 'closed_at': '2019-05-10T02:01:38Z', 'labels': []}
+{'issuenumber': 1205, 'title': 'How to extend the blur effect that makes lottie support ae', 'state': 'closed', 'created_at': '2019-05-07T05:23:45Z', 'closed_at': '2021-08-01T20:53:13Z', 'labels': []}
+{'issuenumber': 1204, 'title': 'LottieView located wrong position when using setX,setY API', 'state': 'closed', 'created_at': '2019-05-07T05:02:01Z', 'closed_at': '2019-05-08T13:06:02Z', 'labels': []}
+{'issuenumber': 1203, 'title': 'Why not apply for opengles rendering, hope later support', 'state': 'closed', 'created_at': '2019-05-07T03:26:58Z', 'closed_at': '2019-05-07T04:46:44Z', 'labels': []}
+{'issuenumber': 1202, 'title': 'App crash on android 6.0.1', 'state': 'closed', 'created_at': '2019-05-05T08:35:32Z', 'closed_at': '2019-05-19T23:14:42Z', 'labels': []}
+{'issuenumber': 1201, 'title': 'Possible impact on app startup time?', 'state': 'closed', 'created_at': '2019-05-03T18:51:23Z', 'closed_at': '2019-05-10T16:06:30Z', 'labels': []}
+{'issuenumber': 1200, 'title': 'Image asset size ignored, no scaling', 'state': 'closed', 'created_at': '2019-05-03T12:01:12Z', 'closed_at': '2019-05-20T04:03:34Z', 'labels': []}
+{'issuenumber': 1199, 'title': 'SIGSEGV on Android 7.0 with Lottie 3.0.1', 'state': 'closed', 'created_at': '2019-04-30T00:47:45Z', 'closed_at': '2019-05-31T00:19:56Z', 'labels': []}
+{'issuenumber': 1197, 'title': 'How do I get the position and size within the specified frame range?', 'state': 'closed', 'created_at': '2019-04-29T02:51:27Z', 'closed_at': '2019-04-30T18:20:24Z', 'labels': []}
+{'issuenumber': 1196, 'title': 'Using animation in dynamic position programmatically', 'state': 'closed', 'created_at': '2019-04-27T10:38:07Z', 'closed_at': '2019-04-30T18:21:33Z', 'labels': []}
+{'issuenumber': 1195, 'title': "why lottie exception doesn't point to my own code that invoked lottie anim?", 'state': 'closed', 'created_at': '2019-04-27T08:55:48Z', 'closed_at': '2019-05-08T12:56:48Z', 'labels': []}
+{'issuenumber': 1194, 'title': 'How to use LottieDrawable with View or Canvas?', 'state': 'closed', 'created_at': '2019-04-26T08:30:06Z', 'closed_at': '2019-04-26T15:30:04Z', 'labels': []}
+{'issuenumber': 1193, 'title': 'LottieAnimationView setProgress not working  for Lottie 2.7.0', 'state': 'closed', 'created_at': '2019-04-25T12:35:49Z', 'closed_at': '2019-04-25T15:52:48Z', 'labels': []}
+{'issuenumber': 1192, 'title': 'Can version3.0.0 work with android library?', 'state': 'closed', 'created_at': '2019-04-25T07:32:41Z', 'closed_at': '2019-04-25T15:52:07Z', 'labels': []}
+{'issuenumber': 1191, 'title': 'Repeated stripe on LottieAnimationView when it is full screen', 'state': 'closed', 'created_at': '2019-04-24T12:34:37Z', 'closed_at': '2019-05-15T15:26:10Z', 'labels': []}
+{'issuenumber': 1189, 'title': 'Application is Not Responding (ANR)', 'state': 'closed', 'created_at': '2019-04-23T02:13:06Z', 'closed_at': '2019-04-24T06:47:47Z', 'labels': []}
+{'issuenumber': 1188, 'title': 'Animation Is Different On Android vs Web', 'state': 'closed', 'created_at': '2019-04-18T12:56:03Z', 'closed_at': '2019-07-22T16:20:29Z', 'labels': []}
+{'issuenumber': 1186, 'title': 'Is there any demo for loading from NetWork  by using com.airbnb.lottie.LottieCompositionFactory#fromZipStreamSync or com.airbnb.lottie.LottieCompositionFactory#fromZipStream', 'state': 'closed', 'created_at': '2019-04-17T03:06:13Z', 'closed_at': '2019-04-17T20:16:26Z', 'labels': []}
+{'issuenumber': 1185, 'title': 'Cant control lottie animations via onChangeListeners through fragments of a slide-intro', 'state': 'closed', 'created_at': '2019-04-15T15:33:51Z', 'closed_at': '2019-04-17T20:17:56Z', 'labels': []}
+{'issuenumber': 1184, 'title': 'playAnimation() is not working when called from onAnimationEnd callback??? ', 'state': 'closed', 'created_at': '2019-04-12T09:22:35Z', 'closed_at': '2019-05-24T03:57:19Z', 'labels': []}
+{'issuenumber': 1183, 'title': 'TextLayer uses incorrect textLineWidth to draw', 'state': 'closed', 'created_at': '2019-04-12T08:57:34Z', 'closed_at': '2020-10-02T02:24:03Z', 'labels': {'name': 'Text'}}
+{'issuenumber': 1182, 'title': 'Text renders right aligned', 'state': 'closed', 'created_at': '2019-04-11T16:16:37Z', 'closed_at': '2019-04-13T10:32:53Z', 'labels': []}
+{'issuenumber': 1181, 'title': 'Support For Character Animator animations', 'state': 'closed', 'created_at': '2019-04-11T13:26:50Z', 'closed_at': '2019-04-12T08:37:36Z', 'labels': []}
+{'issuenumber': 1180, 'title': 'Lottie Animation Drawable Renders Incorrectly Inside a Floating Action Button on Android 5', 'state': 'closed', 'created_at': '2019-04-11T12:44:12Z', 'closed_at': '2019-08-10T23:00:23Z', 'labels': []}
+{'issuenumber': 1179, 'title': 'Lottie JSON Animation Crashing', 'state': 'closed', 'created_at': '2019-04-10T18:36:46Z', 'closed_at': '2019-04-11T12:33:14Z', 'labels': []}
+{'issuenumber': 1178, 'title': 'inflate exception when using databinding in recyclerview', 'state': 'closed', 'created_at': '2019-04-10T08:48:54Z', 'closed_at': '2019-04-10T10:28:22Z', 'labels': []}
+{'issuenumber': 1177, 'title': 'Missing values for keyframe', 'state': 'closed', 'created_at': '2019-04-09T22:30:39Z', 'closed_at': '2019-04-10T10:30:09Z', 'labels': []}
+{'issuenumber': 1175, 'title': 'Animation canceling  inside recyclerView', 'state': 'closed', 'created_at': '2019-04-08T23:35:03Z', 'closed_at': '2019-04-10T10:25:22Z', 'labels': []}
+{'issuenumber': 1173, 'title': 'Animation plays with set to gone and autoPlay is set to true', 'state': 'closed', 'created_at': '2019-04-05T15:30:17Z', 'closed_at': '2019-04-10T10:27:48Z', 'labels': []}
+{'issuenumber': 1172, 'title': 'Create thumbnails for lottie composition.', 'state': 'closed', 'created_at': '2019-04-04T07:43:43Z', 'closed_at': '2019-04-05T16:26:31Z', 'labels': []}
+{'issuenumber': 1171, 'title': 'Version 3.0.0 NullPointerException on some Device', 'state': 'closed', 'created_at': '2019-03-29T04:10:32Z', 'closed_at': '2019-04-12T08:38:08Z', 'labels': []}
+{'issuenumber': 1170, 'title': 'Using Deer animation looks bad', 'state': 'closed', 'created_at': '2019-03-27T11:21:18Z', 'closed_at': '2019-03-27T15:34:16Z', 'labels': []}
+{'issuenumber': 1169, 'title': 'Use json animation to report an error', 'state': 'closed', 'created_at': '2019-03-27T07:26:38Z', 'closed_at': '2019-03-28T15:23:56Z', 'labels': []}
+{'issuenumber': 1168, 'title': 'onAnimationUpdate run even if the view is invisble when set autoPlay=true', 'state': 'closed', 'created_at': '2019-03-25T13:00:20Z', 'closed_at': '2019-03-26T15:55:31Z', 'labels': []}
+{'issuenumber': 1167, 'title': 'cancelAnimation not working when trying to cancel one animation and starting a new animation on the same LottieAnimationView', 'state': 'closed', 'created_at': '2019-03-22T06:02:40Z', 'closed_at': '2019-03-22T07:03:15Z', 'labels': []}
+{'issuenumber': 1166, 'title': 'Pausing an animation that was playing when hidden will play again on resume', 'state': 'closed', 'created_at': '2019-03-21T14:43:07Z', 'closed_at': '2019-03-22T11:59:13Z', 'labels': []}
+{'issuenumber': 1165, 'title': 'Feature request: add static image preview when in edit mode.', 'state': 'closed', 'created_at': '2019-03-18T22:31:01Z', 'closed_at': '2019-03-19T00:14:30Z', 'labels': []}
+{'issuenumber': 1163, 'title': 'Add trim \\r at the end of marker names.', 'state': 'closed', 'created_at': '2019-03-15T17:49:24Z', 'closed_at': '2019-03-18T20:27:03Z', 'labels': []}
+{'issuenumber': 1161, 'title': 'Animation works on the web but does not work on the phone', 'state': 'closed', 'created_at': '2019-03-15T13:40:03Z', 'closed_at': '2019-03-15T18:14:01Z', 'labels': []}
+{'issuenumber': 1160, 'title': 'change img color', 'state': 'closed', 'created_at': '2019-03-14T10:15:31Z', 'closed_at': '2019-03-15T18:22:48Z', 'labels': []}
+{'issuenumber': 1159, 'title': 'Strange shape appears in the last frame of line animation', 'state': 'closed', 'created_at': '2019-03-13T22:17:58Z', 'closed_at': '2019-03-15T18:28:15Z', 'labels': []}
+{'issuenumber': 1158, 'title': "Animations don't work with Lottie Forms 2.7.0", 'state': 'closed', 'created_at': '2019-03-13T07:42:27Z', 'closed_at': '2019-03-15T18:28:44Z', 'labels': []}
+{'issuenumber': 1157, 'title': 'setFrame not work properly when ListView scrolls', 'state': 'closed', 'created_at': '2019-03-11T20:48:59Z', 'closed_at': '2019-03-12T15:29:01Z', 'labels': []}
+{'issuenumber': 1156, 'title': 'how to add lottie animation programmable', 'state': 'closed', 'created_at': '2019-03-11T19:29:13Z', 'closed_at': '2019-03-11T20:28:06Z', 'labels': []}
+{'issuenumber': 1154, 'title': 'Add getFrame for marker API', 'state': 'closed', 'created_at': '2019-03-11T15:33:48Z', 'closed_at': '2019-03-18T05:46:22Z', 'labels': []}
+{'issuenumber': 1147, 'title': 'Stroke circle showing a solid fill inside', 'state': 'closed', 'created_at': '2019-03-10T02:04:11Z', 'closed_at': '2019-03-10T03:07:50Z', 'labels': []}
+{'issuenumber': 1144, 'title': 'how to get bitmap from one frame of lottieAnimationView', 'state': 'closed', 'created_at': '2019-03-06T14:10:27Z', 'closed_at': '2019-03-08T19:20:36Z', 'labels': []}
+{'issuenumber': 1143, 'title': 'NullPointerException on android 4.3', 'state': 'closed', 'created_at': '2019-03-05T10:00:07Z', 'closed_at': '2019-03-10T17:13:12Z', 'labels': []}
+{'issuenumber': 1142, 'title': 'Android animation show extra black line compare with Ios', 'state': 'closed', 'created_at': '2019-03-04T19:31:48Z', 'closed_at': '2019-03-10T19:53:30Z', 'labels': []}
+{'issuenumber': 1141, 'title': 'Android memory growth when loop="true" - expected behavior?', 'state': 'closed', 'created_at': '2019-03-04T19:06:50Z', 'closed_at': '2019-03-05T03:21:12Z', 'labels': []}
+{'issuenumber': 1140, 'title': 'IllegalStateException: Unable to parse composition', 'state': 'closed', 'created_at': '2019-03-04T09:02:02Z', 'closed_at': '2019-05-16T15:12:13Z', 'labels': []}
+{'issuenumber': 1139, 'title': "Process 'command 'E:\\AndroidStudio\\jre\\bin\\java.exe'' finished with non-zero exit value 1", 'state': 'closed', 'created_at': '2019-03-04T04:46:56Z', 'closed_at': '2019-03-05T02:33:37Z', 'labels': []}
+{'issuenumber': 1134, 'title': "Dynamic coloring doesn't work with alpha", 'state': 'closed', 'created_at': '2019-02-25T01:06:21Z', 'closed_at': '2019-02-25T03:35:21Z', 'labels': []}
+{'issuenumber': 1132, 'title': 'how can i change text lottie json file dynamically ', 'state': 'closed', 'created_at': '2019-02-22T16:45:42Z', 'closed_at': '2019-02-23T02:01:31Z', 'labels': []}
+{'issuenumber': 1131, 'title': 'App crashes on android API 21 and 22', 'state': 'closed', 'created_at': '2019-02-22T09:25:09Z', 'closed_at': '2019-02-23T02:02:07Z', 'labels': []}
+{'issuenumber': 1130, 'title': 'animation not smooth & direction is incorrect', 'state': 'closed', 'created_at': '2019-02-22T08:02:15Z', 'closed_at': '2019-03-03T05:30:19Z', 'labels': []}
+{'issuenumber': 1129, 'title': 'Animations run when system animations are disabled', 'state': 'closed', 'created_at': '2019-02-21T14:19:54Z', 'closed_at': '2019-04-17T18:56:11Z', 'labels': []}
+{'issuenumber': 1128, 'title': 'There is such a problem that needs help', 'state': 'closed', 'created_at': '2019-02-21T11:11:34Z', 'closed_at': '2019-03-03T05:32:51Z', 'labels': []}
+{'issuenumber': 1127, 'title': ' java.lang.RuntimeException: An error occured while executing doInBackground()', 'state': 'closed', 'created_at': '2019-02-19T03:52:38Z', 'closed_at': '2019-02-19T18:52:15Z', 'labels': []}
+{'issuenumber': 1123, 'title': "Loader doesn't animate when switching to lottiefiles fragment", 'state': 'closed', 'created_at': '2019-02-17T21:56:12Z', 'closed_at': '2019-02-18T02:35:55Z', 'labels': []}
+{'issuenumber': 1121, 'title': 'Make all transform properties nullable', 'state': 'closed', 'created_at': '2019-02-16T22:40:26Z', 'closed_at': '2019-03-04T02:55:41Z', 'labels': []}
+{'issuenumber': 1116, 'title': " Caused by: java.lang.NullPointerException: Attempt to invoke virtual method 'void com.airbnb.lottie.LottieDrawable.recycleBitmaps()' on a null object reference", 'state': 'closed', 'created_at': '2019-02-15T08:17:26Z', 'closed_at': '2019-02-18T02:16:24Z', 'labels': []}
+{'issuenumber': 1114, 'title': 'cache not enabled', 'state': 'closed', 'created_at': '2019-02-15T01:07:43Z', 'closed_at': '2019-02-15T01:30:58Z', 'labels': []}
+{'issuenumber': 1113, 'title': 'Listview item will flicker when update to 2.7.0', 'state': 'closed', 'created_at': '2019-02-14T03:56:47Z', 'closed_at': '2019-02-15T03:42:45Z', 'labels': []}
+{'issuenumber': 1112, 'title': 'LottieCompositionFactory.java have security issue', 'state': 'closed', 'created_at': '2019-02-13T05:31:50Z', 'closed_at': '2019-02-15T01:31:11Z', 'labels': []}
+{'issuenumber': 1111, 'title': 'Round-able LottieAnimationView request', 'state': 'closed', 'created_at': '2019-02-12T09:57:47Z', 'closed_at': '2019-02-13T06:02:35Z', 'labels': []}
+{'issuenumber': 1109, 'title': 'LottieSample crash', 'state': 'closed', 'created_at': '2019-02-11T01:02:52Z', 'closed_at': '2019-02-11T05:24:00Z', 'labels': []}
+{'issuenumber': 1108, 'title': 'Problem with drawing lotties with raster images on locked canvas.', 'state': 'closed', 'created_at': '2019-02-08T15:31:14Z', 'closed_at': '2019-02-11T08:24:57Z', 'labels': []}
+{'issuenumber': 1107, 'title': 'W/LOTTIE: Unable to open asset.', 'state': 'closed', 'created_at': '2019-02-08T10:56:59Z', 'closed_at': '2019-02-18T02:05:06Z', 'labels': []}
+{'issuenumber': 1106, 'title': 'Load multiple images simultaneously at run time', 'state': 'closed', 'created_at': '2019-02-07T14:46:47Z', 'closed_at': '2019-02-16T18:16:25Z', 'labels': []}
+{'issuenumber': 1102, 'title': 'white line appears in the middle of objects in lottie animation', 'state': 'closed', 'created_at': '2019-02-05T11:51:05Z', 'closed_at': '2019-05-20T01:11:44Z', 'labels': {'name': 'Needs more info'}}
+{'issuenumber': 1096, 'title': 'Larger Animation w/ Merge Paths does not start/play', 'state': 'closed', 'created_at': '2019-01-30T21:16:47Z', 'closed_at': '2020-02-16T18:13:29Z', 'labels': []}
+{'issuenumber': 1095, 'title': 'Animation takes a long time to appear', 'state': 'closed', 'created_at': '2019-01-30T19:12:56Z', 'closed_at': '2019-02-16T18:25:24Z', 'labels': []}
+{'issuenumber': 1094, 'title': 'Harden Zip Downloading', 'state': 'closed', 'created_at': '2019-01-29T19:30:27Z', 'closed_at': '2019-02-16T03:25:03Z', 'labels': []}
+{'issuenumber': 1093, 'title': 'enableMergePathsForKitKatAndAbove not working', 'state': 'closed', 'created_at': '2019-01-28T18:15:45Z', 'closed_at': '2019-05-16T15:10:12Z', 'labels': {'name': 'Needs more info'}}
+{'issuenumber': 1092, 'title': 'Multiple successive calls to LottieCompositionFactory.cache() with a null cacheKey return the same LottieTask', 'state': 'closed', 'created_at': '2019-01-25T23:29:35Z', 'closed_at': '2019-02-03T00:02:30Z', 'labels': []}
+{'issuenumber': 1091, 'title': 'Large animation occasionally does not play ', 'state': 'closed', 'created_at': '2019-01-23T19:29:00Z', 'closed_at': '2019-01-28T01:05:36Z', 'labels': []}
+{'issuenumber': 1090, 'title': 'Support polystar direction', 'state': 'closed', 'created_at': '2019-01-22T20:30:16Z', 'closed_at': '2020-01-06T03:34:41Z', 'labels': []}
+{'issuenumber': 1089, 'title': 'JsonRead  java.lang.AssertionError', 'state': 'closed', 'created_at': '2019-01-21T04:03:07Z', 'closed_at': '2019-02-16T18:41:41Z', 'labels': []}
+{'issuenumber': 1088, 'title': 'Play animation back and forward continuosly', 'state': 'closed', 'created_at': '2019-01-20T21:21:32Z', 'closed_at': '2019-01-22T17:18:28Z', 'labels': []}
+{'issuenumber': 1087, 'title': 'Android lottie renders different with json file', 'state': 'closed', 'created_at': '2019-01-18T04:41:15Z', 'closed_at': '2019-02-16T21:14:01Z', 'labels': []}
+{'issuenumber': 1086, 'title': 'Lottie Animation in Styles.xml file', 'state': 'closed', 'created_at': '2019-01-17T15:44:43Z', 'closed_at': '2019-01-22T17:18:39Z', 'labels': []}
+{'issuenumber': 1085, 'title': "How to restart the animation.I want to start the animation when i click a button and when i click it again i need to restore the animation to first state. I have set the progress is 0 and paused but i doesn't work for me", 'state': 'closed', 'created_at': '2019-01-16T07:09:13Z', 'closed_at': '2019-01-17T19:42:04Z', 'labels': []}
+{'issuenumber': 1082, 'title': 'play animation to slowly (Feature request)', 'state': 'closed', 'created_at': '2019-01-10T10:25:03Z', 'closed_at': '2019-01-10T17:10:36Z', 'labels': []}
+{'issuenumber': 1081, 'title': 'C++ rewrite', 'state': 'closed', 'created_at': '2019-01-10T09:16:46Z', 'closed_at': '2019-01-10T17:11:56Z', 'labels': []}
+{'issuenumber': 1080, 'title': 'Unable to parse composition', 'state': 'closed', 'created_at': '2019-01-09T06:39:33Z', 'closed_at': '2019-02-21T16:30:30Z', 'labels': []}
+{'issuenumber': 1079, 'title': 'LottieDrawable set bounds not working', 'state': 'closed', 'created_at': '2019-01-08T06:44:55Z', 'closed_at': '2019-02-03T00:17:46Z', 'labels': []}
+{'issuenumber': 1078, 'title': 'Sample app crashes ', 'state': 'closed', 'created_at': '2019-01-06T18:42:24Z', 'closed_at': '2019-02-02T23:13:12Z', 'labels': []}
+{'issuenumber': 1077, 'title': 'Mistake with LruCache', 'state': 'closed', 'created_at': '2019-01-04T08:38:25Z', 'closed_at': '2019-02-03T06:43:35Z', 'labels': []}
+{'issuenumber': 1076, 'title': "Can't get lottie animation to play programmatically - fine in XML", 'state': 'closed', 'created_at': '2019-01-03T16:33:41Z', 'closed_at': '2019-01-30T01:48:19Z', 'labels': []}
+{'issuenumber': 1075, 'title': 'bug: setProgress() not work somecase', 'state': 'closed', 'created_at': '2018-12-29T15:02:05Z', 'closed_at': '2019-02-03T00:30:34Z', 'labels': []}
+{'issuenumber': 1074, 'title': 'How to draw each frame of lottie onto the canvas?', 'state': 'closed', 'created_at': '2018-12-28T06:13:21Z', 'closed_at': '2018-12-31T22:58:21Z', 'labels': []}
+{'issuenumber': 1073, 'title': 'rippledrawable is not supported because of LAYER_TYPE_SOFTWARE', 'state': 'closed', 'created_at': '2018-12-27T09:50:28Z', 'closed_at': '2018-12-31T22:56:41Z', 'labels': []}
+{'issuenumber': 1071, 'title': 'more restores than saves', 'state': 'closed', 'created_at': '2018-12-26T04:19:31Z', 'closed_at': '2019-02-07T16:15:19Z', 'labels': []}
+{'issuenumber': 1070, 'title': 'Unable to parse composition, Caused by: java.lang.IllegalArgumentException: Shape data was missing information.', 'state': 'closed', 'created_at': '2018-12-23T15:29:37Z', 'closed_at': '2018-12-24T04:19:31Z', 'labels': []}
+{'issuenumber': 1069, 'title': 'Animation works fine on ios. but not works well on android.', 'state': 'closed', 'created_at': '2018-12-22T10:33:45Z', 'closed_at': '2019-01-04T08:33:33Z', 'labels': []}
+{'issuenumber': 1068, 'title': 'LottieAnimationView.setAnimation leaks jsonReader not closed', 'state': 'closed', 'created_at': '2018-12-21T06:51:31Z', 'closed_at': '2019-02-03T06:53:30Z', 'labels': []}
+{'issuenumber': 1063, 'title': 'setProgress crash', 'state': 'closed', 'created_at': '2018-12-19T09:30:35Z', 'closed_at': '2018-12-19T22:09:56Z', 'labels': []}
+{'issuenumber': 1062, 'title': 'setProgress crash', 'state': 'closed', 'created_at': '2018-12-19T09:30:00Z', 'closed_at': '2018-12-19T09:38:25Z', 'labels': []}
+{'issuenumber': 1060, 'title': 'error while running this demo project', 'state': 'closed', 'created_at': '2018-12-18T06:46:47Z', 'closed_at': '2018-12-18T21:00:20Z', 'labels': []}
+{'issuenumber': 1059, 'title': 'Drinks animation broken in sample app', 'state': 'closed', 'created_at': '2018-12-18T03:19:14Z', 'closed_at': '2018-12-18T21:31:59Z', 'labels': []}
+{'issuenumber': 1058, 'title': 'Investigate hardware acceleration performance on older devices', 'state': 'closed', 'created_at': '2018-12-17T23:43:33Z', 'closed_at': '2019-05-16T15:10:48Z', 'labels': []}
+{'issuenumber': 1044, 'title': 'Add optimizations for default transformation and static animations', 'state': 'closed', 'created_at': '2018-12-15T21:40:54Z', 'closed_at': '2018-12-16T01:15:00Z', 'labels': []}
+{'issuenumber': 1041, 'title': 'addAnimatorUpdateListener called with a null animatedValue', 'state': 'closed', 'created_at': '2018-12-14T16:17:02Z', 'closed_at': '2019-03-04T03:01:19Z', 'labels': []}
+{'issuenumber': 1039, 'title': 'NullPointerException in LottieDrawable.recycleBitmaps() when set the property "android:src" for LottieAnimationView ', 'state': 'closed', 'created_at': '2018-12-13T18:53:57Z', 'closed_at': '2018-12-14T01:32:46Z', 'labels': []}
+{'issuenumber': 1038, 'title': 'Android Animation Crashing', 'state': 'closed', 'created_at': '2018-12-13T14:50:55Z', 'closed_at': '2018-12-16T02:01:35Z', 'labels': []}
+{'issuenumber': 1036, 'title': 'Gradients Highlight Angle', 'state': 'closed', 'created_at': '2018-12-13T11:45:36Z', 'closed_at': '2019-02-18T19:43:22Z', 'labels': []}
+{'issuenumber': 1034, 'title': "Animation doesn't play completely", 'state': 'closed', 'created_at': '2018-12-12T14:51:05Z', 'closed_at': '2019-02-19T06:17:44Z', 'labels': []}
+{'issuenumber': 1032, 'title': 'Crash in test', 'state': 'closed', 'created_at': '2018-12-12T03:14:56Z', 'closed_at': '2018-12-15T21:05:32Z', 'labels': []}
+{'issuenumber': 1030, 'title': 'animationView.loop(true); deprecated, what is the replacement method for it?', 'state': 'closed', 'created_at': '2018-12-11T15:26:03Z', 'closed_at': '2018-12-11T16:27:29Z', 'labels': []}
+{'issuenumber': 1029, 'title': 'Clean up recycleBitmaps docs', 'state': 'closed', 'created_at': '2018-12-10T22:29:08Z', 'closed_at': '2018-12-15T21:41:10Z', 'labels': []}
+{'issuenumber': 1028, 'title': 'How does the anim width fill the screen？', 'state': 'closed', 'created_at': '2018-12-10T19:23:41Z', 'closed_at': '2018-12-10T22:25:14Z', 'labels': []}
+{'issuenumber': 1025, 'title': 'Lottiefiles animation crashes', 'state': 'closed', 'created_at': '2018-12-09T18:23:52Z', 'closed_at': '2018-12-09T22:08:42Z', 'labels': []}
+{'issuenumber': 1022, 'title': 'Is there any plan to apply to flutter?', 'state': 'closed', 'created_at': '2018-12-08T07:12:51Z', 'closed_at': '2018-12-09T00:26:16Z', 'labels': []}
+{'issuenumber': 1021, 'title': 'io stream close is incorrect', 'state': 'closed', 'created_at': '2018-12-06T09:46:14Z', 'closed_at': '2018-12-16T01:38:43Z', 'labels': []}
+{'issuenumber': 1019, 'title': "Animation's images not showing second time it is displayed (inside fragment)", 'state': 'closed', 'created_at': '2018-12-05T03:48:26Z', 'closed_at': '2018-12-05T14:46:54Z', 'labels': []}
+{'issuenumber': 1018, 'title': 'java.lang.IncompatibleClassChangeError', 'state': 'closed', 'created_at': '2018-12-04T02:10:37Z', 'closed_at': '2018-12-14T23:00:48Z', 'labels': []}
+{'issuenumber': 1017, 'title': 'java.lang.ClassCastException', 'state': 'closed', 'created_at': '2018-12-04T02:05:58Z', 'closed_at': '2018-12-14T23:00:51Z', 'labels': []}
+{'issuenumber': 1016, 'title': 'java.lang.IllegalStateException', 'state': 'closed', 'created_at': '2018-12-03T06:53:20Z', 'closed_at': '2018-12-05T00:48:44Z', 'labels': []}
+{'issuenumber': 1015, 'title': 'Can not open https://editor.lottiefiles.com/', 'state': 'closed', 'created_at': '2018-12-02T06:05:16Z', 'closed_at': '2018-12-09T00:28:25Z', 'labels': []}
+{'issuenumber': 1014, 'title': 'Lottie support change color and add new shape from json ?', 'state': 'closed', 'created_at': '2018-11-27T19:02:59Z', 'closed_at': '2018-12-05T00:51:07Z', 'labels': []}
+{'issuenumber': 1011, 'title': 'Animation not working as expected', 'state': 'closed', 'created_at': '2018-11-27T14:00:12Z', 'closed_at': '2018-11-27T14:54:04Z', 'labels': []}
+{'issuenumber': 1010, 'title': 'Animation not working correctly on android studio', 'state': 'closed', 'created_at': '2018-11-27T13:52:53Z', 'closed_at': '2018-11-27T13:53:04Z', 'labels': []}
+{'issuenumber': 1009, 'title': 'Loading cached .zip animation with images fails (and crashes app)', 'state': 'closed', 'created_at': '2018-11-26T22:11:52Z', 'closed_at': '2018-11-27T14:53:48Z', 'labels': []}
+{'issuenumber': 1008, 'title': 'OOM use in recyclerView', 'state': 'closed', 'created_at': '2018-11-23T07:17:24Z', 'closed_at': '2018-11-26T04:34:26Z', 'labels': []}
+{'issuenumber': 1007, 'title': 'Lottie restores state when lottie view is dynamically added to layout', 'state': 'closed', 'created_at': '2018-11-21T12:10:50Z', 'closed_at': '2018-11-22T17:40:13Z', 'labels': []}
+{'issuenumber': 1006, 'title': 'java.lang.RuntimeException: An error occured while executing doInBackground()', 'state': 'closed', 'created_at': '2018-11-20T03:02:56Z', 'closed_at': '2018-11-22T17:40:45Z', 'labels': []}
+{'issuenumber': 1005, 'title': 'Invalid Region.Op - only INTERSECT and DIFFERENCE are allowed  com.airbnb.lottie.CompositionLayer.drawLayer(CompositionLayer.java:91)', 'state': 'closed', 'created_at': '2018-11-19T07:32:05Z', 'closed_at': '2018-11-22T17:40:57Z', 'labels': []}
+{'issuenumber': 1004, 'title': 'Support hidden ("hd")', 'state': 'closed', 'created_at': '2018-11-18T00:15:51Z', 'closed_at': '2018-12-09T21:22:06Z', 'labels': []}
+{'issuenumber': 1002, 'title': 'Remove bitmap recycling', 'state': 'closed', 'created_at': '2018-11-15T23:50:02Z', 'closed_at': '2018-12-02T03:26:57Z', 'labels': []}
+{'issuenumber': 1001, 'title': 'Animation not working correctly on android studio', 'state': 'closed', 'created_at': '2018-11-15T05:21:34Z', 'closed_at': '2018-12-16T21:33:18Z', 'labels': []}
+{'issuenumber': 1000, 'title': 'Crash on Android 5.1.1 (API 22)', 'state': 'closed', 'created_at': '2018-11-14T13:15:09Z', 'closed_at': '2020-01-02T22:09:38Z', 'labels': {'name': 'Help wanted'}}
+{'issuenumber': 999, 'title': 'Unable to catch exception due to parsing errors in json', 'state': 'closed', 'created_at': '2018-11-14T11:26:36Z', 'closed_at': '2018-11-15T23:49:40Z', 'labels': []}
+{'issuenumber': 998, 'title': 'Need Help when to call cancelAnimation() and recycleBitmaps() in RecyclerView', 'state': 'closed', 'created_at': '2018-11-14T10:16:28Z', 'closed_at': '2018-12-09T21:55:40Z', 'labels': []}
+{'issuenumber': 997, 'title': 'Click RecyclerView different item, onAnimationEnd is called many times？', 'state': 'closed', 'created_at': '2018-11-14T03:42:15Z', 'closed_at': '2018-11-15T23:50:58Z', 'labels': []}
+{'issuenumber': 996, 'title': 'Animation disappears  when app background and resume', 'state': 'closed', 'created_at': '2018-11-13T11:36:09Z', 'closed_at': '2018-11-15T23:52:28Z', 'labels': []}
+{'issuenumber': 995, 'title': 'The Image does not switch to the image of set language when OS language is changed', 'state': 'closed', 'created_at': '2018-11-13T00:51:24Z', 'closed_at': '2018-11-27T15:15:03Z', 'labels': []}
+{'issuenumber': 994, 'title': 'Series of Issues with the version 2.8.0', 'state': 'closed', 'created_at': '2018-11-11T09:43:50Z', 'closed_at': '2018-11-12T01:51:39Z', 'labels': []}
+{'issuenumber': 993, 'title': 'Fatal Exception: java.lang.RuntimeException: An error occured while executing doInBackground() Caused by java.io.EOFException: End of input', 'state': 'closed', 'created_at': '2018-11-09T09:14:20Z', 'closed_at': '2018-12-10T08:31:50Z', 'labels': []}
+{'issuenumber': 991, 'title': 'Animations on top of Camera - Very Laggy', 'state': 'closed', 'created_at': '2018-11-05T12:06:01Z', 'closed_at': '2018-11-06T17:05:05Z', 'labels': []}
+{'issuenumber': 990, 'title': "Lottie doesn't support layer effects", 'state': 'closed', 'created_at': '2018-11-05T07:12:54Z', 'closed_at': '2018-11-06T17:05:22Z', 'labels': []}
+{'issuenumber': 989, 'title': 'NullPointException caused by setAnimation()', 'state': 'closed', 'created_at': '2018-11-05T03:32:54Z', 'closed_at': '2019-06-11T11:25:04Z', 'labels': {'name': 'Needs more info'}}
+{'issuenumber': 988, 'title': 'Exporting red (#ff000) into xml file.', 'state': 'closed', 'created_at': '2018-11-01T01:56:23Z', 'closed_at': '2018-12-16T01:40:27Z', 'labels': []}
+{'issuenumber': 987, 'title': 'Looping animations continue when LottieAnimationView is invisible', 'state': 'closed', 'created_at': '2018-10-31T13:40:37Z', 'closed_at': '2019-02-03T00:37:37Z', 'labels': []}
+{'issuenumber': 985, 'title': "Can't change animation at runtime in the LottieAnimationView", 'state': 'closed', 'created_at': '2018-10-29T14:55:36Z', 'closed_at': '2018-11-01T09:43:54Z', 'labels': []}
+{'issuenumber': 984, 'title': "Don't set Speed from Xml", 'state': 'closed', 'created_at': '2018-10-29T06:36:55Z', 'closed_at': '2018-11-27T15:56:45Z', 'labels': []}
+{'issuenumber': 981, 'title': 'setProgress issue in v2.7.0', 'state': 'closed', 'created_at': '2018-10-23T14:04:43Z', 'closed_at': '2018-10-23T21:22:14Z', 'labels': []}
+{'issuenumber': 980, 'title': 'Lottie animation not work in RecyclerView item', 'state': 'closed', 'created_at': '2018-10-22T08:30:26Z', 'closed_at': '2018-10-22T11:19:37Z', 'labels': []}
+{'issuenumber': 979, 'title': 'LottieDrawable invalidateSelf much times', 'state': 'closed', 'created_at': '2018-10-19T07:28:19Z', 'closed_at': '2018-12-15T23:31:14Z', 'labels': []}
+{'issuenumber': 978, 'title': 'LottieCompositionFactory.fromUrl  has no  Memory cache of  composition ', 'state': 'closed', 'created_at': '2018-10-19T02:27:11Z', 'closed_at': '2018-12-14T23:01:06Z', 'labels': []}
+{'issuenumber': 977, 'title': 'What caused the lottie animation caton?', 'state': 'closed', 'created_at': '2018-10-16T03:44:33Z', 'closed_at': '2018-10-16T07:40:13Z', 'labels': []}
+{'issuenumber': 976, 'title': 'NullPointerException in LottieDrawable.recycleBitmaps() when set the property  "android:src" for  LottieAnimationView in layout.xml', 'state': 'closed', 'created_at': '2018-10-12T08:52:11Z', 'closed_at': '2018-11-13T03:45:53Z', 'labels': []}
+{'issuenumber': 975, 'title': 'Setting progress on restored state LottieAnimationView with async composition does not work', 'state': 'closed', 'created_at': '2018-10-11T19:07:13Z', 'closed_at': '2019-02-18T19:14:16Z', 'labels': []}
+{'issuenumber': 974, 'title': '"lottie resolve key path process" can\'t find matte layer', 'state': 'closed', 'created_at': '2018-10-11T10:20:19Z', 'closed_at': '2020-12-27T07:12:36Z', 'labels': {'name': 'Help wanted'}}
+{'issuenumber': 973, 'title': 'Animation on android looks inconsistence with web', 'state': 'closed', 'created_at': '2018-10-10T03:04:43Z', 'closed_at': '2018-11-22T17:47:53Z', 'labels': []}
+{'issuenumber': 972, 'title': 'Possible to animate single layers?', 'state': 'closed', 'created_at': '2018-10-09T09:25:55Z', 'closed_at': '2018-10-29T07:24:07Z', 'labels': []}
+{'issuenumber': 970, 'title': 'lottie show weird color', 'state': 'closed', 'created_at': '2018-10-06T03:30:35Z', 'closed_at': '2018-12-09T22:41:57Z', 'labels': []}
+{'issuenumber': 968, 'title': 'Developer is facing lag in loop animation', 'state': 'closed', 'created_at': '2018-10-04T11:20:44Z', 'closed_at': '2018-11-22T17:44:11Z', 'labels': []}
+{'issuenumber': 967, 'title': "Bug: can't use v2.8.0, while 2.7.0 builds just fine", 'state': 'closed', 'created_at': '2018-10-02T08:49:26Z', 'closed_at': '2018-10-02T13:46:16Z', 'labels': []}
+{'issuenumber': 966, 'title': 'can lottie support video?', 'state': 'closed', 'created_at': '2018-09-28T07:44:46Z', 'closed_at': '2018-09-30T18:05:12Z', 'labels': []}
+{'issuenumber': 965, 'title': 'use lottie in kotlin, i got a error : Failed to process resources,', 'state': 'closed', 'created_at': '2018-09-27T07:31:19Z', 'closed_at': '2018-10-02T16:49:27Z', 'labels': []}
+{'issuenumber': 964, 'title': '2.8.0 POM file on Maven is wrong', 'state': 'closed', 'created_at': '2018-09-27T02:08:45Z', 'closed_at': '2018-10-01T05:47:25Z', 'labels': []}
+{'issuenumber': 963, 'title': 'Animation is janky on first display in Android', 'state': 'closed', 'created_at': '2018-09-25T14:13:10Z', 'closed_at': '2018-09-25T16:09:36Z', 'labels': []}
+{'issuenumber': 961, 'title': 'Broken link for documentation', 'state': 'closed', 'created_at': '2018-09-24T17:01:10Z', 'closed_at': '2018-09-25T04:20:20Z', 'labels': []}
+{'issuenumber': 958, 'title': 'RawRes caching uses two different key names', 'state': 'closed', 'created_at': '2018-09-21T11:22:18Z', 'closed_at': '2018-09-24T05:30:12Z', 'labels': []}
+{'issuenumber': 957, 'title': 'Image referenced in JSON loads sometimes', 'state': 'closed', 'created_at': '2018-09-20T18:50:39Z', 'closed_at': '2018-12-11T16:29:13Z', 'labels': {'name': 'Needs more info'}}
+{'issuenumber': 956, 'title': 'Unable to parse composition', 'state': 'closed', 'created_at': '2018-09-20T15:35:37Z', 'closed_at': '2018-09-24T04:28:51Z', 'labels': []}
+{'issuenumber': 955, 'title': "Expression 'marquee' of type 'Int' cannot be invoked as a function. The function 'invoke()' is not found", 'state': 'closed', 'created_at': '2018-09-20T06:42:09Z', 'closed_at': '2018-09-24T04:32:18Z', 'labels': []}
+{'issuenumber': 954, 'title': 'Error inflating class com.airbnb.lottie.LottieAnimationView - Xamarin.Android ', 'state': 'closed', 'created_at': '2018-09-19T16:02:38Z', 'closed_at': '2018-09-24T04:52:24Z', 'labels': []}
+{'issuenumber': 953, 'title': 'why lottie textLayer do not use the spannable and Layout to draw Text?', 'state': 'closed', 'created_at': '2018-09-19T06:14:24Z', 'closed_at': '2018-09-24T04:53:46Z', 'labels': []}
+{'issuenumber': 952, 'title': 'Why is it that when i make the lottie animation larger performance suffers?', 'state': 'closed', 'created_at': '2018-09-19T06:05:18Z', 'closed_at': '2018-09-24T04:55:18Z', 'labels': []}
+{'issuenumber': 951, 'title': 'layerName can be NULL', 'state': 'closed', 'created_at': '2018-09-18T09:44:50Z', 'closed_at': '2018-09-24T06:17:36Z', 'labels': []}
+{'issuenumber': 950, 'title': '"Could not get unknown property \'lottieVersion\'"', 'state': 'closed', 'created_at': '2018-09-16T13:24:44Z', 'closed_at': '2018-09-18T21:30:13Z', 'labels': []}
+{'issuenumber': 949, 'title': 'Red dot issue', 'state': 'closed', 'created_at': '2018-09-15T17:28:02Z', 'closed_at': '2018-09-24T06:33:01Z', 'labels': []}
+{'issuenumber': 948, 'title': 'Have Androix Support ?', 'state': 'closed', 'created_at': '2018-09-14T14:45:16Z', 'closed_at': '2018-09-18T21:30:28Z', 'labels': []}
+{'issuenumber': 947, 'title': 'Lottie animation still plays and wastes cpu when the view becomes invisible', 'state': 'closed', 'created_at': '2018-09-14T05:20:25Z', 'closed_at': '2018-09-15T20:08:22Z', 'labels': []}
+{'issuenumber': 945, 'title': 'Updating Textview during animation?', 'state': 'closed', 'created_at': '2018-09-13T15:01:32Z', 'closed_at': '2018-09-18T21:31:38Z', 'labels': []}
+{'issuenumber': 944, 'title': 'Distortion only on Android', 'state': 'closed', 'created_at': '2018-09-13T07:21:01Z', 'closed_at': '2018-09-24T05:26:55Z', 'labels': []}
+{'issuenumber': 943, 'title': "LottieTask.EXECUTOR isn't static", 'state': 'closed', 'created_at': '2018-09-12T17:50:50Z', 'closed_at': '2018-09-24T05:34:58Z', 'labels': []}
+{'issuenumber': 942, 'title': "setFontAssetDelegate didn't work", 'state': 'closed', 'created_at': '2018-09-11T07:07:27Z', 'closed_at': '2018-09-11T07:16:03Z', 'labels': []}
+{'issuenumber': 941, 'title': 'Lottie and Android battery saver mode', 'state': 'closed', 'created_at': '2018-09-10T20:50:33Z', 'closed_at': '2018-09-24T05:34:06Z', 'labels': []}
+{'issuenumber': 939, 'title': "Lottie can't fill the screen", 'state': 'closed', 'created_at': '2018-09-08T10:04:30Z', 'closed_at': '2018-09-09T15:21:49Z', 'labels': []}
+{'issuenumber': 937, 'title': 'IllegalStateException("A task may only be set once.")', 'state': 'closed', 'created_at': '2018-09-06T13:57:23Z', 'closed_at': '2018-09-06T16:33:01Z', 'labels': []}
+{'issuenumber': 936, 'title': 'Aapt2Exception in android 3.2.0 with lottie:2.6.0', 'state': 'closed', 'created_at': '2018-09-06T13:23:36Z', 'closed_at': '2018-09-06T14:22:34Z', 'labels': []}
+{'issuenumber': 932, 'title': "airbnb:lottie:2.6.0 doesn't work for android", 'state': 'closed', 'created_at': '2018-09-05T23:02:17Z', 'closed_at': '2018-09-06T18:05:01Z', 'labels': []}
+{'issuenumber': 931, 'title': 'DialogFragment crash when we reopen the view ', 'state': 'closed', 'created_at': '2018-09-05T21:25:36Z', 'closed_at': '2018-09-06T00:26:00Z', 'labels': []}
+{'issuenumber': 930, 'title': 'Threading issue in LottieTask', 'state': 'closed', 'created_at': '2018-09-05T18:15:25Z', 'closed_at': '2018-09-06T16:32:35Z', 'labels': []}
+{'issuenumber': 929, 'title': 'Mistakes in documentation for Dynamic', 'state': 'closed', 'created_at': '2018-09-05T14:21:40Z', 'closed_at': '2018-09-05T15:19:44Z', 'labels': []}
+{'issuenumber': 927, 'title': 'can lottie support for identifying text line breaks', 'state': 'closed', 'created_at': '2018-09-05T12:29:37Z', 'closed_at': '2019-02-17T00:35:16Z', 'labels': {'name': 'Text'}}
+{'issuenumber': 925, 'title': 'CompositionLayer is using Canvas#clipRect with invalid Region.Op on Android Pie', 'state': 'closed', 'created_at': '2018-09-04T16:43:04Z', 'closed_at': '2018-09-24T05:19:20Z', 'labels': []}
+{'issuenumber': 922, 'title': 'Influency in recyclerView', 'state': 'closed', 'created_at': '2018-09-04T07:20:29Z', 'closed_at': '2018-09-05T02:00:50Z', 'labels': []}
+{'issuenumber': 918, 'title': 'lottie replace the image in animation', 'state': 'closed', 'created_at': '2018-09-03T08:33:44Z', 'closed_at': '2018-09-03T23:53:53Z', 'labels': []}
+{'issuenumber': 914, 'title': 'modify TextAnimation anchor point.', 'state': 'closed', 'created_at': '2018-08-31T05:53:23Z', 'closed_at': '2018-09-03T08:24:02Z', 'labels': []}
+{'issuenumber': 913, 'title': ' java.lang.AssertionError', 'state': 'closed', 'created_at': '2018-08-31T05:48:24Z', 'closed_at': '2018-09-03T23:53:58Z', 'labels': []}
+{'issuenumber': 911, 'title': 'About text animation rotation problem', 'state': 'closed', 'created_at': '2018-08-29T13:19:55Z', 'closed_at': '2018-08-29T15:21:43Z', 'labels': []}
+{'issuenumber': 910, 'title': 'unicode support', 'state': 'closed', 'created_at': '2018-08-27T19:11:33Z', 'closed_at': '2019-03-10T03:54:16Z', 'labels': {'name': 'Text'}}
+{'issuenumber': 909, 'title': 'Extract resource loading/caching logic out of LottieAnimationView', 'state': 'closed', 'created_at': '2018-08-24T17:48:08Z', 'closed_at': '2018-08-29T14:31:57Z', 'labels': []}
+{'issuenumber': 908, 'title': 'Textfield not shown right in Android', 'state': 'closed', 'created_at': '2018-08-24T11:49:31Z', 'closed_at': '2018-08-29T15:21:04Z', 'labels': []}
+{'issuenumber': 907, 'title': "The LottieTask EXECUTOR is final and can't be changed", 'state': 'closed', 'created_at': '2018-08-24T00:27:01Z', 'closed_at': '2018-09-02T23:50:28Z', 'labels': []}
+{'issuenumber': 906, 'title': 'Error when using > 50kb json file. ', 'state': 'closed', 'created_at': '2018-08-23T14:09:31Z', 'closed_at': '2018-09-02T17:22:08Z', 'labels': []}
+{'issuenumber': 905, 'title': 'Dynamic Propperties for Gradient Strokes', 'state': 'closed', 'created_at': '2018-08-23T11:20:35Z', 'closed_at': '2019-06-23T03:38:15Z', 'labels': []}
+{'issuenumber': 904, 'title': "java.lang.NullPointerException: Attempt to invoke virtual method 'void android.graphics.Bitmap.recycle()' on a null object reference", 'state': 'closed', 'created_at': '2018-08-23T00:58:51Z', 'closed_at': '2018-08-24T17:16:57Z', 'labels': []}
+{'issuenumber': 903, 'title': 'Regression from version 2.5.5 to 2.5.6: Wrong animation for KitKat devices', 'state': 'closed', 'created_at': '2018-08-21T15:06:08Z', 'closed_at': '2018-08-21T15:08:32Z', 'labels': []}
+{'issuenumber': 902, 'title': 'Animations with transparency transitions are rendered differently in Android', 'state': 'closed', 'created_at': '2018-08-21T15:06:04Z', 'closed_at': '2018-08-21T17:27:33Z', 'labels': []}
+{'issuenumber': 901, 'title': '3D Layers and trim paths not exporting ', 'state': 'closed', 'created_at': '2018-08-20T23:22:13Z', 'closed_at': '2018-08-29T15:20:10Z', 'labels': []}
+{'issuenumber': 900, 'title': '[Bug, fixed]When application closed, open again will crash', 'state': 'closed', 'created_at': '2018-08-17T08:46:17Z', 'closed_at': '2018-08-20T02:21:24Z', 'labels': []}
+{'issuenumber': 899, 'title': 'Question: is it possible to show Lottie animation in live wallpaper?', 'state': 'closed', 'created_at': '2018-08-15T11:40:58Z', 'closed_at': '2018-08-16T16:55:43Z', 'labels': []}
+{'issuenumber': 898, 'title': 'is it possible to use lottie with androidx support library ?', 'state': 'closed', 'created_at': '2018-08-15T08:28:35Z', 'closed_at': '2018-09-25T06:19:48Z', 'labels': []}
+{'issuenumber': 897, 'title': 'Animation stays in final state in Android, works fine on iOS and web', 'state': 'closed', 'created_at': '2018-08-14T21:05:43Z', 'closed_at': '2018-09-24T06:03:25Z', 'labels': []}
+{'issuenumber': 896, 'title': 'text deformation in bitmap', 'state': 'closed', 'created_at': '2018-08-14T12:40:02Z', 'closed_at': '2018-09-24T06:28:51Z', 'labels': []}
+{'issuenumber': 895, 'title': 'I want to display only 1 frame.', 'state': 'closed', 'created_at': '2018-08-14T01:00:07Z', 'closed_at': '2018-08-14T01:57:29Z', 'labels': []}
+{'issuenumber': 894, 'title': 'Add value callbacks for RectangleContent', 'state': 'closed', 'created_at': '2018-08-13T17:02:40Z', 'closed_at': '2019-03-10T19:55:04Z', 'labels': []}
+{'issuenumber': 893, 'title': '[Feature Request] Support sub dirs in assets', 'state': 'closed', 'created_at': '2018-08-13T09:45:16Z', 'closed_at': '2018-08-13T12:27:52Z', 'labels': []}
+{'issuenumber': 892, 'title': 'Text Layer can not use dynamic properties?', 'state': 'closed', 'created_at': '2018-08-13T06:58:20Z', 'closed_at': '2018-08-13T17:00:43Z', 'labels': []}
+{'issuenumber': 891, 'title': 'Is there a ways to insert data into animations made by lottie. ', 'state': 'closed', 'created_at': '2018-08-13T03:57:53Z', 'closed_at': '2018-08-13T17:02:26Z', 'labels': []}
+{'issuenumber': 890, 'title': '  Fixed the width and height of the LottieAnimationView. The animation display is incomplete.', 'state': 'closed', 'created_at': '2018-08-13T02:10:19Z', 'closed_at': '2018-08-13T03:04:03Z', 'labels': []}
+{'issuenumber': 889, 'title': 'Make cache size configurable', 'state': 'closed', 'created_at': '2018-08-13T01:07:39Z', 'closed_at': '2018-09-24T05:35:27Z', 'labels': []}
+{'issuenumber': 888, 'title': 'Expose url APIs to LottieDrawable and LottieAnimationView', 'state': 'closed', 'created_at': '2018-08-13T00:37:35Z', 'closed_at': '2018-08-14T00:59:19Z', 'labels': []}
+{'issuenumber': 886, 'title': 'Android 9 Crash', 'state': 'closed', 'created_at': '2018-08-11T10:49:00Z', 'closed_at': '2018-08-11T10:53:36Z', 'labels': []}
+{'issuenumber': 885, 'title': '动画图片资源如何实现根据不同分辨率加载不同的资源文件', 'state': 'closed', 'created_at': '2018-08-10T11:07:50Z', 'closed_at': '2018-08-11T19:38:28Z', 'labels': []}
+{'issuenumber': 884, 'title': 'How to animate adaptive control size and default display animated images', 'state': 'closed', 'created_at': '2018-08-10T11:04:35Z', 'closed_at': '2018-08-11T19:38:38Z', 'labels': []}
+{'issuenumber': 883, 'title': 'How to intercept each frame of the animation', 'state': 'closed', 'created_at': '2018-08-10T09:06:09Z', 'closed_at': '2018-08-11T20:58:00Z', 'labels': []}
+{'issuenumber': 882, 'title': 'Stuck with a bad Lottie version', 'state': 'closed', 'created_at': '2018-08-09T17:43:36Z', 'closed_at': '2018-08-13T03:04:17Z', 'labels': []}
+{'issuenumber': 880, 'title': 'How can the animation itself in its whole be a button or a part of it', 'state': 'closed', 'created_at': '2018-08-08T18:02:43Z', 'closed_at': '2018-08-11T19:34:09Z', 'labels': []}
+{'issuenumber': 879, 'title': 'Listen to layer (object) position', 'state': 'closed', 'created_at': '2018-08-08T13:28:01Z', 'closed_at': '2018-09-24T06:17:50Z', 'labels': []}
+{'issuenumber': 878, 'title': 'text animation add textview', 'state': 'closed', 'created_at': '2018-08-08T08:32:37Z', 'closed_at': '2018-08-08T14:55:01Z', 'labels': []}
+{'issuenumber': 876, 'title': 'How do I create an animated button in lottie?', 'state': 'closed', 'created_at': '2018-08-08T06:01:50Z', 'closed_at': '2018-08-08T14:56:18Z', 'labels': []}
+{'issuenumber': 875, 'title': 'How do we interact with animations in lottie?', 'state': 'closed', 'created_at': '2018-08-08T04:36:20Z', 'closed_at': '2018-08-08T05:46:57Z', 'labels': []}
+{'issuenumber': 874, 'title': 'LottieToggleView implementation ?', 'state': 'closed', 'created_at': '2018-08-07T20:24:32Z', 'closed_at': '2018-08-07T21:22:42Z', 'labels': []}
+{'issuenumber': 873, 'title': 'this method should be protected or public to be overridden in subclass', 'state': 'closed', 'created_at': '2018-08-07T14:18:13Z', 'closed_at': '2018-08-08T14:58:59Z', 'labels': []}
+{'issuenumber': 872, 'title': "setMinAndMaxFrame isn't working 2.5.5", 'state': 'closed', 'created_at': '2018-08-07T11:18:34Z', 'closed_at': '2018-08-13T00:37:07Z', 'labels': []}
+{'issuenumber': 871, 'title': 'Lottie2.5.5  cannot display animation in viewpager fragment.', 'state': 'closed', 'created_at': '2018-08-07T05:59:29Z', 'closed_at': '2018-08-07T21:22:56Z', 'labels': []}
+{'issuenumber': 870, 'title': "Animation doesn't work when positioned above enabled Button", 'state': 'closed', 'created_at': '2018-08-07T01:54:44Z', 'closed_at': '2018-08-11T19:34:58Z', 'labels': []}
+{'issuenumber': 869, 'title': 'Bug: in docs, it says the SDK can "Download animations from the network"', 'state': 'closed', 'created_at': '2018-08-06T07:44:36Z', 'closed_at': '2018-08-06T17:08:03Z', 'labels': []}
+{'issuenumber': 867, 'title': 'java.lang.IllegalStateException: Cannot invoke setValue on a background thread', 'state': 'closed', 'created_at': '2018-08-04T22:18:48Z', 'closed_at': '2018-08-04T23:06:27Z', 'labels': []}
+{'issuenumber': 864, 'title': 'Expo XDE where is Assets Folders? ', 'state': 'closed', 'created_at': '2018-08-04T16:32:32Z', 'closed_at': '2018-08-04T17:16:55Z', 'labels': []}
+{'issuenumber': 863, 'title': 'How to empty the animation effect？', 'state': 'closed', 'created_at': '2018-08-03T09:04:57Z', 'closed_at': '2018-08-04T17:17:28Z', 'labels': []}
+{'issuenumber': 862, 'title': 'How to download and apply multiple images?', 'state': 'closed', 'created_at': '2018-07-31T07:35:31Z', 'closed_at': '2018-08-04T17:18:06Z', 'labels': []}
+{'issuenumber': 860, 'title': 'Question: lottie_autoPlay not available at runtime?', 'state': 'closed', 'created_at': '2018-07-26T14:33:34Z', 'closed_at': '2018-07-26T16:57:57Z', 'labels': []}
+{'issuenumber': 858, 'title': 'Flicker on animation change in an LottieAnimationView', 'state': 'closed', 'created_at': '2018-07-26T11:21:59Z', 'closed_at': '2018-07-26T16:59:01Z', 'labels': []}
+{'issuenumber': 857, 'title': 'Android frame drop 2.2.0 to 2.5.5', 'state': 'closed', 'created_at': '2018-07-26T08:41:07Z', 'closed_at': '2018-08-04T17:32:32Z', 'labels': []}
+{'issuenumber': 856, 'title': 'Animation Crashes', 'state': 'closed', 'created_at': '2018-07-26T05:40:41Z', 'closed_at': '2018-08-04T20:23:32Z', 'labels': []}
+{'issuenumber': 853, 'title': 'Android frame drop after updating from 2.3.0 to 2.5.5', 'state': 'closed', 'created_at': '2018-07-25T15:12:49Z', 'closed_at': '2018-08-04T18:01:13Z', 'labels': []}
+{'issuenumber': 852, 'title': 'Request: add Android-Studio plugin, to preview Lottie Json files', 'state': 'closed', 'created_at': '2018-07-25T14:38:04Z', 'closed_at': '2018-07-26T02:00:00Z', 'labels': []}
+{'issuenumber': 851, 'title': 'java.lang.NullPointerException when opening file for preview', 'state': 'closed', 'created_at': '2018-07-25T01:15:54Z', 'closed_at': '2018-07-26T16:07:21Z', 'labels': {'name': 'Needs more info'}}
+{'issuenumber': 850, 'title': 'Lottie2.6.0 not found', 'state': 'closed', 'created_at': '2018-07-24T23:43:45Z', 'closed_at': '2018-07-26T02:50:32Z', 'labels': []}
+{'issuenumber': 849, 'title': 'Provide an API to warm the composition cache', 'state': 'closed', 'created_at': '2018-07-24T19:11:37Z', 'closed_at': '2018-08-04T20:23:58Z', 'labels': []}
+{'issuenumber': 848, 'title': 'Getting this issue for several times in production release (Caused by java.util.concurrent.RejectedExecutionException)', 'state': 'closed', 'created_at': '2018-07-23T14:16:08Z', 'closed_at': '2018-07-24T19:11:16Z', 'labels': []}
+{'issuenumber': 847, 'title': 'Animation lags in android but runs perfectly on ios', 'state': 'closed', 'created_at': '2018-07-23T12:33:43Z', 'closed_at': '2018-07-24T19:08:54Z', 'labels': []}
+{'issuenumber': 845, 'title': 'Failed to resolve: com.airbnb.android:lottie:2.5.5', 'state': 'closed', 'created_at': '2018-07-20T06:41:05Z', 'closed_at': '2018-07-20T06:50:58Z', 'labels': []}
+{'issuenumber': 844, 'title': 'Render Graph vs. Android GPU rendering profiler', 'state': 'closed', 'created_at': '2018-07-18T20:01:53Z', 'closed_at': '2018-07-20T00:44:08Z', 'labels': []}
+{'issuenumber': 843, 'title': 'Inconsistent/out of date android versions in documentation', 'state': 'closed', 'created_at': '2018-07-18T15:56:28Z', 'closed_at': '2018-08-04T20:24:12Z', 'labels': []}
+{'issuenumber': 838, 'title': 'Add a cacheKey option to LottieCompositionFactory', 'state': 'closed', 'created_at': '2018-07-15T21:57:48Z', 'closed_at': '2018-07-27T00:34:30Z', 'labels': []}
+{'issuenumber': 837, 'title': "External image won't load", 'state': 'closed', 'created_at': '2018-07-13T20:22:21Z', 'closed_at': '2018-08-04T20:30:26Z', 'labels': {'name': 'Needs more info'}}
+{'issuenumber': 836, 'title': 'Manifest merger failed', 'state': 'closed', 'created_at': '2018-07-12T11:51:04Z', 'closed_at': '2018-07-13T04:10:16Z', 'labels': []}
+{'issuenumber': 835, 'title': 'Release 2.5.7 not on Maven', 'state': 'closed', 'created_at': '2018-07-12T09:42:30Z', 'closed_at': '2018-07-13T04:08:49Z', 'labels': []}
+{'issuenumber': 834, 'title': 'There is lagging on scrolling page when lottie is showing animation', 'state': 'closed', 'created_at': '2018-07-11T09:22:54Z', 'closed_at': '2018-07-12T06:55:31Z', 'labels': []}
+{'issuenumber': 833, 'title': 'Gradient and transparency', 'state': 'closed', 'created_at': '2018-07-10T23:33:58Z', 'closed_at': '2019-02-18T19:42:55Z', 'labels': []}
+{'issuenumber': 832, 'title': 'Documentation error - # Play animation segments (methods)', 'state': 'closed', 'created_at': '2018-07-10T07:44:52Z', 'closed_at': '2018-07-13T04:10:24Z', 'labels': []}
+{'issuenumber': 831, 'title': 'I want to stay in first frame with no animation', 'state': 'closed', 'created_at': '2018-07-09T07:52:08Z', 'closed_at': '2018-07-09T16:12:38Z', 'labels': []}
+{'issuenumber': 829, 'title': 'Question: Does Lottie-android library support all Lottie files?', 'state': 'closed', 'created_at': '2018-07-08T13:10:29Z', 'closed_at': '2018-07-09T04:50:13Z', 'labels': []}
+{'issuenumber': 826, 'title': 'Lottie not showing onActivityResult', 'state': 'closed', 'created_at': '2018-07-05T07:06:37Z', 'closed_at': '2018-07-07T07:00:47Z', 'labels': []}
+{'issuenumber': 825, 'title': 'Add Mask not rendering in Android/iOS', 'state': 'closed', 'created_at': '2018-07-03T21:20:44Z', 'closed_at': '2018-07-16T06:44:40Z', 'labels': []}
+{'issuenumber': 822, 'title': 'Java 8 compilation error version 2.5.6', 'state': 'closed', 'created_at': '2018-07-01T01:34:10Z', 'closed_at': '2018-07-16T06:46:26Z', 'labels': []}
+{'issuenumber': 821, 'title': 'Some images in same image asset folder is not rendering - Native android', 'state': 'closed', 'created_at': '2018-06-27T06:00:07Z', 'closed_at': '2018-06-27T16:37:12Z', 'labels': []}
+{'issuenumber': 819, 'title': "it doesn't look right", 'state': 'closed', 'created_at': '2018-06-26T10:17:27Z', 'closed_at': '2018-07-09T04:51:50Z', 'labels': []}
+{'issuenumber': 818, 'title': 'TargetSdk was upgraded to 28 and crashed on android 9.0 mobile', 'state': 'closed', 'created_at': '2018-06-25T12:58:29Z', 'closed_at': '2018-06-25T16:19:07Z', 'labels': []}
+{'issuenumber': 817, 'title': 'spring-android-rest-template + lottie', 'state': 'closed', 'created_at': '2018-06-23T05:19:52Z', 'closed_at': '2018-06-23T18:57:15Z', 'labels': []}
+{'issuenumber': 816, 'title': 'NullPointerException occurs on devices which android version < 5', 'state': 'closed', 'created_at': '2018-06-22T09:34:56Z', 'closed_at': '2018-06-22T16:26:54Z', 'labels': []}
+{'issuenumber': 813, 'title': 'trimpath + multiple gradient strokes issues', 'state': 'closed', 'created_at': '2018-06-20T22:01:27Z', 'closed_at': '2020-12-25T23:11:26Z', 'labels': []}
+{'issuenumber': 812, 'title': 'display different on Android and iOS when screen orientation is landscape', 'state': 'closed', 'created_at': '2018-06-19T05:57:00Z', 'closed_at': '2018-07-16T06:07:51Z', 'labels': []}
+{'issuenumber': 811, 'title': 'Error on show from url', 'state': 'closed', 'created_at': '2018-06-19T05:39:12Z', 'closed_at': '2018-06-21T01:47:20Z', 'labels': []}
+{'issuenumber': 810, 'title': 'Error: Program type already present: android.support.v4.os.ResultReceiver', 'state': 'closed', 'created_at': '2018-06-19T03:29:53Z', 'closed_at': '2018-07-09T04:51:41Z', 'labels': []}
+{'issuenumber': 807, 'title': 'exporting dynamic text with custom font', 'state': 'closed', 'created_at': '2018-06-14T16:03:40Z', 'closed_at': '2018-06-18T17:08:18Z', 'labels': []}
+{'issuenumber': 806, 'title': 'Lottie animation flashes white', 'state': 'closed', 'created_at': '2018-06-14T08:59:52Z', 'closed_at': '2018-06-14T16:03:41Z', 'labels': []}
+{'issuenumber': 805, 'title': 'Suggestion: remove "buildToolsVersion" from sample', 'state': 'closed', 'created_at': '2018-06-14T08:31:06Z', 'closed_at': '2018-07-09T05:38:47Z', 'labels': []}
+{'issuenumber': 804, 'title': 'Activity transition shared element', 'state': 'closed', 'created_at': '2018-06-11T16:40:45Z', 'closed_at': '2018-06-12T17:59:47Z', 'labels': []}
+{'issuenumber': 802, 'title': 'Bug: Weird crash when showing a Lottie animation : "Invalid Layer Save Flag"', 'state': 'closed', 'created_at': '2018-06-11T08:59:40Z', 'closed_at': '2018-06-14T16:02:48Z', 'labels': []}
+{'issuenumber': 801, 'title': 'scale issue with fitXY scale type ', 'state': 'closed', 'created_at': '2018-06-09T06:18:01Z', 'closed_at': '2018-06-12T18:00:28Z', 'labels': []}
+{'issuenumber': 800, 'title': 'Developers having issue playing Lottie animation correctly', 'state': 'closed', 'created_at': '2018-06-08T08:56:27Z', 'closed_at': '2018-06-25T02:21:41Z', 'labels': []}
+{'issuenumber': 799, 'title': 'LottieDrawable always draw on top-left ', 'state': 'closed', 'created_at': '2018-06-08T04:38:22Z', 'closed_at': '2018-06-12T18:30:17Z', 'labels': []}
+{'issuenumber': 798, 'title': 'Dashes with offsets are rendered at wrong positions', 'state': 'closed', 'created_at': '2018-06-07T11:31:00Z', 'closed_at': '2019-06-23T04:11:57Z', 'labels': []}
+{'issuenumber': 797, 'title': 'Line miter limit is not rendered correctly', 'state': 'closed', 'created_at': '2018-06-07T09:23:06Z', 'closed_at': '2018-07-16T06:18:33Z', 'labels': []}
+{'issuenumber': 796, 'title': " java.lang.NullPointerException: Attempt to read from field 'int android.graphics.Path$FillType.nativeInt' on a null object reference", 'state': 'closed', 'created_at': '2018-06-07T06:33:55Z', 'closed_at': '2018-06-07T22:46:06Z', 'labels': []}
+{'issuenumber': 795, 'title': 'Adding subviews at runtime', 'state': 'closed', 'created_at': '2018-06-07T02:59:16Z', 'closed_at': '2018-06-07T22:47:01Z', 'labels': []}
+{'issuenumber': 794, 'title': 'Failed to resolve: com.airbnb.android:lottie:2.5.1', 'state': 'closed', 'created_at': '2018-06-06T08:54:07Z', 'closed_at': '2018-06-07T22:44:44Z', 'labels': []}
+{'issuenumber': 793, 'title': 'App crash- font not found in asset folder', 'state': 'closed', 'created_at': '2018-06-06T08:27:04Z', 'closed_at': '2018-06-06T08:43:39Z', 'labels': []}
+{'issuenumber': 792, 'title': '  Hello, when I use Lottie, I want to display a click animation. It is manual control of animation play, before loading a static picture, but the new version will not show anything, how to solve it.', 'state': 'closed', 'created_at': '2018-06-06T03:14:55Z', 'closed_at': '2018-06-07T22:45:04Z', 'labels': []}
+{'issuenumber': 791, 'title': '进入之后 动画不播放的情况 图片也会显示  旧版没有问题 新版有问题 怎么解决', 'state': 'closed', 'created_at': '2018-06-06T02:24:34Z', 'closed_at': '2018-06-07T22:44:03Z', 'labels': []}
+{'issuenumber': 789, 'title': '第一次进入App时，动画不能显示。', 'state': 'closed', 'created_at': '2018-06-01T10:19:56Z', 'closed_at': '2018-06-07T22:43:30Z', 'labels': []}
+{'issuenumber': 788, 'title': 'Issue for android devices', 'state': 'closed', 'created_at': '2018-05-30T08:12:43Z', 'closed_at': '2018-06-12T18:31:16Z', 'labels': []}
+{'issuenumber': 787, 'title': 'reverse animation stops at some point', 'state': 'closed', 'created_at': '2018-05-30T00:04:25Z', 'closed_at': '2018-07-09T04:51:58Z', 'labels': []}
+{'issuenumber': 786, 'title': 'Proguard question for lottie', 'state': 'closed', 'created_at': '2018-05-29T13:38:32Z', 'closed_at': '2018-06-07T22:44:20Z', 'labels': []}
+{'issuenumber': 785, 'title': 'Animation looks correct on android 5 & 6, but incorrect on android 7 & 8', 'state': 'closed', 'created_at': '2018-05-24T11:32:47Z', 'closed_at': '2019-03-03T20:26:39Z', 'labels': []}
+{'issuenumber': 784, 'title': 'It\'s said "Animation contains intersect masks", which does not exist (android)', 'state': 'closed', 'created_at': '2018-05-24T06:10:40Z', 'closed_at': '2018-07-16T06:45:03Z', 'labels': []}
+{'issuenumber': 783, 'title': 'gradle build failed with error "No resource found that matches the given name"', 'state': 'closed', 'created_at': '2018-05-24T05:53:06Z', 'closed_at': '2018-06-07T22:51:34Z', 'labels': []}
+{'issuenumber': 782, 'title': 'Android---Rest the image asset but lottie still use the resource  image assert before.', 'state': 'closed', 'created_at': '2018-05-23T06:53:47Z', 'closed_at': '2018-06-07T22:52:14Z', 'labels': []}
+{'issuenumber': 781, 'title': 'The application crashes on the trim feature', 'state': 'closed', 'created_at': '2018-05-22T20:18:44Z', 'closed_at': '2018-07-09T06:08:16Z', 'labels': []}
+{'issuenumber': 780, 'title': 'Animated text and Dynamic text not compleat', 'state': 'closed', 'created_at': '2018-05-22T04:42:43Z', 'closed_at': '2018-07-16T06:23:50Z', 'labels': []}
+{'issuenumber': 779, 'title': 'Crash App, If display "Featured Lottiefiles" in "Recent menu" in scroll down', 'state': 'closed', 'created_at': '2018-05-19T16:28:23Z', 'closed_at': '2018-05-22T03:18:44Z', 'labels': []}
+{'issuenumber': 778, 'title': 'Lottie Animation background', 'state': 'closed', 'created_at': '2018-05-17T16:04:53Z', 'closed_at': '2018-05-18T01:16:02Z', 'labels': []}
+{'issuenumber': 777, 'title': 'Animation is running in iOS but causing jerks in Android', 'state': 'closed', 'created_at': '2018-05-17T12:46:51Z', 'closed_at': '2018-05-18T08:21:10Z', 'labels': []}
+{'issuenumber': 776, 'title': "please help me what's hapen", 'state': 'closed', 'created_at': '2018-05-16T02:26:31Z', 'closed_at': '2018-05-18T08:22:30Z', 'labels': {'name': 'Needs more info'}}
+{'issuenumber': 774, 'title': 'Json File is incorrectly rendered, but perfect in web', 'state': 'closed', 'created_at': '2018-05-15T04:17:22Z', 'closed_at': '2018-12-09T22:06:04Z', 'labels': {'name': 'Text'}}
+{'issuenumber': 773, 'title': '编译出错', 'state': 'closed', 'created_at': '2018-05-15T03:39:11Z', 'closed_at': '2018-05-15T08:08:29Z', 'labels': []}
+{'issuenumber': 772, 'title': 'java.lang.NullPointerException when i load full screen animation', 'state': 'closed', 'created_at': '2018-05-15T02:33:04Z', 'closed_at': '2018-07-12T06:56:13Z', 'labels': {'name': 'Needs more info'}}
+{'issuenumber': 771, 'title': 'Unable to open asset.  java.io.FileNotFoundException: open/img_0.png', 'state': 'closed', 'created_at': '2018-05-14T15:23:08Z', 'closed_at': '2018-05-14T21:24:11Z', 'labels': []}
+{'issuenumber': 770, 'title': 'The last frame is never reached', 'state': 'closed', 'created_at': '2018-05-14T11:55:17Z', 'closed_at': '2018-05-15T22:03:19Z', 'labels': []}
+{'issuenumber': 769, 'title': 'Crash Samsung Galaxy J7', 'state': 'closed', 'created_at': '2018-05-14T10:57:10Z', 'closed_at': '2018-05-14T21:25:11Z', 'labels': []}
+{'issuenumber': 768, 'title': 'Lottie crash in Android P Preview', 'state': 'closed', 'created_at': '2018-05-14T09:53:53Z', 'closed_at': '2018-05-14T21:25:23Z', 'labels': []}
+{'issuenumber': 767, 'title': 'Use new .androidx package from Android Jetpack instead of android.support', 'state': 'closed', 'created_at': '2018-05-13T10:29:55Z', 'closed_at': '2018-05-13T20:50:05Z', 'labels': []}
+{'issuenumber': 763, 'title': 'setMinAndMaxProgress uses a different method of calculating frame than setMinProgress and setMaxProgress', 'state': 'closed', 'created_at': '2018-05-11T22:50:28Z', 'closed_at': '2018-05-12T00:08:18Z', 'labels': []}
+{'issuenumber': 762, 'title': 'Autoplay LottieAnimationViews animate even when not attached to window', 'state': 'closed', 'created_at': '2018-05-11T21:35:05Z', 'closed_at': '2018-05-12T01:45:47Z', 'labels': []}
+{'issuenumber': 761, 'title': 'ArrayIndexOutOfBounds exception Lottie Layer Parser', 'state': 'closed', 'created_at': '2018-05-10T06:17:58Z', 'closed_at': '2018-07-09T06:13:12Z', 'labels': []}
+{'issuenumber': 759, 'title': 'Crash in Lottie with NPE in BaseStrokeContent', 'state': 'closed', 'created_at': '2018-05-09T13:05:33Z', 'closed_at': '2018-09-24T06:04:37Z', 'labels': []}
+{'issuenumber': 758, 'title': 'Migrating from the old addColorFilter API clarification', 'state': 'closed', 'created_at': '2018-05-08T11:23:15Z', 'closed_at': '2018-09-24T06:11:36Z', 'labels': []}
+{'issuenumber': 757, 'title': 'KeyPath constructor warning', 'state': 'closed', 'created_at': '2018-05-08T11:13:19Z', 'closed_at': '2018-05-08T22:27:30Z', 'labels': []}
+{'issuenumber': 755, 'title': 'Lottie file in a Dialog Android', 'state': 'closed', 'created_at': '2018-05-07T18:12:36Z', 'closed_at': '2018-05-08T22:29:36Z', 'labels': []}
+{'issuenumber': 751, 'title': ' blue', 'state': 'closed', 'created_at': '2018-05-07T06:11:28Z', 'closed_at': '2018-05-07T11:22:49Z', 'labels': []}
+{'issuenumber': 750, 'title': 'Repeat animation take the shortest time', 'state': 'closed', 'created_at': '2018-05-06T06:30:28Z', 'closed_at': '2018-05-07T16:38:51Z', 'labels': []}
+{'issuenumber': 747, 'title': 'Migrate from deprecated Canvas.saveLayer', 'state': 'closed', 'created_at': '2018-05-04T14:14:20Z', 'closed_at': '2018-07-09T06:08:22Z', 'labels': []}
+{'issuenumber': 746, 'title': 'Memory growth', 'state': 'closed', 'created_at': '2018-05-04T07:49:58Z', 'closed_at': '2018-05-07T16:44:59Z', 'labels': []}
+{'issuenumber': 745, 'title': '[request] Combining animations', 'state': 'closed', 'created_at': '2018-05-03T09:35:29Z', 'closed_at': '2018-05-04T00:26:35Z', 'labels': []}
+{'issuenumber': 744, 'title': 'Example4.gif in README.md contains an error', 'state': 'closed', 'created_at': '2018-05-03T00:02:28Z', 'closed_at': '2018-05-04T00:26:46Z', 'labels': []}
+{'issuenumber': 743, 'title': 'No .git directory found!', 'state': 'closed', 'created_at': '2018-05-02T01:07:11Z', 'closed_at': '2018-05-02T07:13:27Z', 'labels': []}
+{'issuenumber': 742, 'title': 'Log print frequent', 'state': 'closed', 'created_at': '2018-04-30T09:06:03Z', 'closed_at': '2018-05-07T16:15:15Z', 'labels': []}
+{'issuenumber': 741, 'title': 'Cache not working concurrent', 'state': 'closed', 'created_at': '2018-04-26T15:08:16Z', 'closed_at': '2018-04-30T03:51:23Z', 'labels': []}
+{'issuenumber': 740, 'title': 'Change text in any lottie text animation ?', 'state': 'closed', 'created_at': '2018-04-25T17:38:26Z', 'closed_at': '2018-04-30T03:49:13Z', 'labels': []}
+{'issuenumber': 739, 'title': 'Progress set by setMinProgress() is ignored when playing animation', 'state': 'closed', 'created_at': '2018-04-25T14:07:30Z', 'closed_at': '2018-05-09T17:45:26Z', 'labels': []}
+{'issuenumber': 738, 'title': 'NullPointerException when I upgrade from 2.3.1 to 2.5.4', 'state': 'closed', 'created_at': '2018-04-25T09:22:40Z', 'closed_at': '2018-05-07T16:17:41Z', 'labels': []}
+{'issuenumber': 737, 'title': "2.5.4 Setting LottieAnimationView Visibility doesn't work", 'state': 'closed', 'created_at': '2018-04-24T20:54:22Z', 'closed_at': '2018-05-07T14:33:20Z', 'labels': []}
+{'issuenumber': 736, 'title': 'There is Frame Skip using v2.5.4 (the same Lottie file)', 'state': 'closed', 'created_at': '2018-04-24T02:57:09Z', 'closed_at': '2018-05-07T16:16:03Z', 'labels': []}
+{'issuenumber': 735, 'title': 'ConcurrentModificationException in RecyclerView', 'state': 'closed', 'created_at': '2018-04-20T10:14:37Z', 'closed_at': '2018-07-09T06:09:36Z', 'labels': []}
+{'issuenumber': 734, 'title': 'Invalid setting height', 'state': 'closed', 'created_at': '2018-04-20T08:11:39Z', 'closed_at': '2018-04-20T15:56:31Z', 'labels': []}
+{'issuenumber': 733, 'title': 'java.lang.IllegalArgumentException: The Path must start at (0,0) and end at (1,1)', 'state': 'closed', 'created_at': '2018-04-18T06:44:40Z', 'closed_at': '2019-02-17T00:34:16Z', 'labels': {'name': 'Needs more info'}}
+{'issuenumber': 731, 'title': 'feature request: gif/mp4 output', 'state': 'closed', 'created_at': '2018-04-16T07:14:05Z', 'closed_at': '2018-04-17T04:52:40Z', 'labels': []}
+{'issuenumber': 730, 'title': 'is there is any way to get the image of the animation?', 'state': 'closed', 'created_at': '2018-04-14T20:08:12Z', 'closed_at': '2018-04-15T14:54:18Z', 'labels': []}
+{'issuenumber': 728, 'title': '2.5.3: KeyPath Constructor can only be called from within the same library', 'state': 'closed', 'created_at': '2018-04-12T21:55:38Z', 'closed_at': '2018-05-07T16:19:57Z', 'labels': []}
+{'issuenumber': 727, 'title': 'NumberFormatException on latest master', 'state': 'closed', 'created_at': '2018-04-12T14:03:58Z', 'closed_at': '2018-05-07T16:10:27Z', 'labels': []}
+{'issuenumber': 726, 'title': 'Add the option to use assets in a Drawable outside of a View', 'state': 'closed', 'created_at': '2018-04-12T13:42:28Z', 'closed_at': '2018-05-07T14:04:00Z', 'labels': []}
+{'issuenumber': 725, 'title': 'cache', 'state': 'closed', 'created_at': '2018-04-12T09:43:43Z', 'closed_at': '2018-04-14T15:28:31Z', 'labels': []}
+{'issuenumber': 724, 'title': 'LottieAnimationView holding reference to animation file name even after calling lottieAnimationView.cancel(), clear() and invalidate(). ', 'state': 'closed', 'created_at': '2018-04-11T23:16:25Z', 'closed_at': '2018-07-16T06:22:25Z', 'labels': {'name': 'Needs more info'}}
+{'issuenumber': 723, 'title': 'editing text in the json file', 'state': 'closed', 'created_at': '2018-04-11T23:05:37Z', 'closed_at': '2018-04-14T15:27:27Z', 'labels': []}
+{'issuenumber': 721, 'title': 'Request: in sample app, allow to see time instead of frames', 'state': 'closed', 'created_at': '2018-04-09T12:38:27Z', 'closed_at': '2018-06-28T19:42:45Z', 'labels': []}
+{'issuenumber': 720, 'title': 'Json animation not working when masks applied', 'state': 'closed', 'created_at': '2018-04-09T09:08:48Z', 'closed_at': '2018-05-07T13:55:58Z', 'labels': []}
+{'issuenumber': 719, 'title': 'Request: allow to view a single animation frame in layout editor', 'state': 'closed', 'created_at': '2018-04-09T08:40:37Z', 'closed_at': '2018-07-16T05:06:05Z', 'labels': {'name': 'Good first issue'}}
+{'issuenumber': 718, 'title': 'Suggestion: set hardware acceleration turned on by default, starting from certain API', 'state': 'closed', 'created_at': '2018-04-08T16:23:47Z', 'closed_at': '2018-04-09T16:27:05Z', 'labels': []}
+{'issuenumber': 716, 'title': 'Crash occurs when trying to increase "Max frame" in Showcase - Trim tab', 'state': 'closed', 'created_at': '2018-04-07T17:26:32Z', 'closed_at': '2018-04-08T00:10:02Z', 'labels': []}
+{'issuenumber': 715, 'title': 'Cant Get animation to display on simulator', 'state': 'closed', 'created_at': '2018-04-04T19:13:22Z', 'closed_at': '2018-04-07T23:52:21Z', 'labels': []}
+{'issuenumber': 714, 'title': 'Fatal Exception: android.os.BadParcelableException ClassNotFoundException when unmarshalling: com.airbnb.lottie.LottieAnimationView$SavedState', 'state': 'closed', 'created_at': '2018-04-04T10:18:37Z', 'closed_at': '2018-04-05T14:37:07Z', 'labels': []}
+{'issuenumber': 713, 'title': 'Android having lag issues', 'state': 'closed', 'created_at': '2018-04-02T23:12:55Z', 'closed_at': '2018-04-04T15:13:20Z', 'labels': []}
+{'issuenumber': 712, 'title': 'App suddenly stopped While Loading a URL. ', 'state': 'closed', 'created_at': '2018-03-31T13:13:52Z', 'closed_at': '2018-04-08T00:10:51Z', 'labels': []}
+{'issuenumber': 711, 'title': "'com.airbnb.android:lottie:2.5.2' not compiling", 'state': 'closed', 'created_at': '2018-03-30T09:14:37Z', 'closed_at': '2018-04-02T22:54:23Z', 'labels': []}
+{'issuenumber': 710, 'title': 'App Crashes when choosing a file for Preview', 'state': 'closed', 'created_at': '2018-03-28T21:54:11Z', 'closed_at': '2018-07-16T06:21:50Z', 'labels': []}
+{'issuenumber': 709, 'title': 'App Crashes when trying to search at the Lottiefiles Activity', 'state': 'closed', 'created_at': '2018-03-27T23:24:02Z', 'closed_at': '2018-04-08T00:10:02Z', 'labels': []}
+{'issuenumber': 708, 'title': 'Animation working on the web but not on mobile', 'state': 'closed', 'created_at': '2018-03-27T13:02:07Z', 'closed_at': '2018-04-08T00:18:02Z', 'labels': []}
+{'issuenumber': 707, 'title': 'Bug: sample app doesn\'t handle correct direction of text, in "Animated text" ', 'state': 'closed', 'created_at': '2018-03-26T17:32:51Z', 'closed_at': '2019-08-11T01:03:12Z', 'labels': {'name': 'Text'}}
+{'issuenumber': 706, 'title': 'Bug: sample app "bullseye" doesn\'t have its moving point going to the precise location', 'state': 'closed', 'created_at': '2018-03-26T17:31:54Z', 'closed_at': '2018-03-27T01:49:33Z', 'labels': []}
+{'issuenumber': 705, 'title': 'New animation segment is sometimes played backwards', 'state': 'closed', 'created_at': '2018-03-26T13:52:54Z', 'closed_at': '2018-04-08T01:17:55Z', 'labels': []}
+{'issuenumber': 704, 'title': 'Min and Max Frame on View not Respected on initial load.', 'state': 'closed', 'created_at': '2018-03-26T13:34:38Z', 'closed_at': '2018-04-08T00:43:41Z', 'labels': []}
+{'issuenumber': 703, 'title': "Setting min and max progress doesn't respect start frame and crashes", 'state': 'closed', 'created_at': '2018-03-26T09:45:30Z', 'closed_at': '2018-04-09T16:25:22Z', 'labels': []}
+{'issuenumber': 702, 'title': 'Lottie App Crashes at the Lottiefiles Activity-Recent tab', 'state': 'closed', 'created_at': '2018-03-24T19:19:13Z', 'closed_at': '2018-03-26T01:53:16Z', 'labels': []}
+{'issuenumber': 701, 'title': 'Push 2.5.2 to Maven centeral', 'state': 'closed', 'created_at': '2018-03-23T19:49:19Z', 'closed_at': '2018-03-24T17:37:29Z', 'labels': []}
+{'issuenumber': 700, 'title': 'turn on the hardware acceleration,animation will be very stuck', 'state': 'closed', 'created_at': '2018-03-21T10:29:34Z', 'closed_at': '2018-03-23T06:20:43Z', 'labels': []}
+{'issuenumber': 699, 'title': "2.5.2 isn't available yet", 'state': 'closed', 'created_at': '2018-03-20T11:18:28Z', 'closed_at': '2018-03-21T01:36:53Z', 'labels': []}
+{'issuenumber': 698, 'title': 'Request: in Showcase section, show how to use a progress-like animation that ends with a result', 'state': 'closed', 'created_at': '2018-03-20T11:16:23Z', 'closed_at': '2018-03-21T01:38:06Z', 'labels': []}
+{'issuenumber': 697, 'title': 'exported json show perfect in ios but not in android', 'state': 'closed', 'created_at': '2018-03-20T10:10:01Z', 'closed_at': '2018-05-07T13:51:32Z', 'labels': {'name': 'Needs more info'}}
+{'issuenumber': 696, 'title': "can't debug in my android project", 'state': 'closed', 'created_at': '2018-03-20T01:48:33Z', 'closed_at': '2018-03-21T01:42:28Z', 'labels': []}
+{'issuenumber': 695, 'title': 'Templates of animation JSON for android.', 'state': 'closed', 'created_at': '2018-03-19T17:18:10Z', 'closed_at': '2018-03-23T06:21:19Z', 'labels': []}
+{'issuenumber': 693, 'title': "Lottie animation works fine on the demo and player but on my phone it's still.", 'state': 'closed', 'created_at': '2018-03-19T10:29:03Z', 'closed_at': '2018-03-21T01:54:28Z', 'labels': []}
+{'issuenumber': 692, 'title': 'Animation flashes in middle of animation (when morphing shape)', 'state': 'closed', 'created_at': '2018-03-19T09:42:32Z', 'closed_at': '2018-05-07T13:51:19Z', 'labels': []}
+{'issuenumber': 690, 'title': 'colorFilterAnimation progress are never updated.', 'state': 'closed', 'created_at': '2018-03-16T07:17:49Z', 'closed_at': '2018-05-07T17:03:36Z', 'labels': []}
+{'issuenumber': 689, 'title': "Two models have the same ID. ID's must be unique!", 'state': 'closed', 'created_at': '2018-03-15T11:54:19Z', 'closed_at': '2018-03-15T12:03:32Z', 'labels': []}
+{'issuenumber': 686, 'title': 'the key path and anchor point means ，i want to find  a position of icon of  one frame， how can i get it？', 'state': 'closed', 'created_at': '2018-03-15T02:22:52Z', 'closed_at': '2018-03-15T05:05:58Z', 'labels': []}
+{'issuenumber': 685, 'title': 'conflict problem from 26 to 27 sdk version', 'state': 'closed', 'created_at': '2018-03-15T00:58:13Z', 'closed_at': '2018-03-15T05:22:42Z', 'labels': []}
+{'issuenumber': 684, 'title': 'id collision in your showcase data. Sample app crashes', 'state': 'closed', 'created_at': '2018-03-14T20:19:09Z', 'closed_at': '2018-03-14T22:49:45Z', 'labels': []}
+{'issuenumber': 683, 'title': 'Resurfacing issue: anti clockwise rendering instead of clockwise', 'state': 'closed', 'created_at': '2018-03-14T17:03:08Z', 'closed_at': '2018-03-16T01:35:36Z', 'labels': []}
+{'issuenumber': 682, 'title': 'Is there a safe version to enable hardware acceleration ? ', 'state': 'closed', 'created_at': '2018-03-14T10:29:22Z', 'closed_at': '2018-03-14T17:08:06Z', 'labels': []}
+{'issuenumber': 681, 'title': "can't import", 'state': 'closed', 'created_at': '2018-03-14T08:50:30Z', 'closed_at': '2018-03-15T08:29:51Z', 'labels': []}
+{'issuenumber': 680, 'title': 'compile error happens when compileSdkVersion<26,because the code in BaseLottieAnimator.java "Build.VERSION.SDK_INT >= Build.VERSION_CODES.O"', 'state': 'closed', 'created_at': '2018-03-14T08:32:24Z', 'closed_at': '2018-03-15T05:23:13Z', 'labels': []}
+{'issuenumber': 679, 'title': 'Errors on Android: Unexpected gradient length', 'state': 'closed', 'created_at': '2018-03-13T23:10:07Z', 'closed_at': '2018-04-08T00:05:17Z', 'labels': []}
+{'issuenumber': 678, 'title': '2.5.1: More visibility issues', 'state': 'closed', 'created_at': '2018-03-12T15:46:27Z', 'closed_at': '2018-04-02T22:54:45Z', 'labels': []}
+{'issuenumber': 677, 'title': 'android.content.res.Resources$NotFoundException ic_player_pause.xml', 'state': 'closed', 'created_at': '2018-03-11T23:20:19Z', 'closed_at': '2018-03-12T00:42:43Z', 'labels': []}
+{'issuenumber': 672, 'title': 'recyclerview  onBindViewHolder  lottie reanim bug', 'state': 'closed', 'created_at': '2018-03-10T08:28:10Z', 'closed_at': '2018-03-10T23:36:10Z', 'labels': []}
+{'issuenumber': 670, 'title': "NPE - FontFragment aren't binded. ", 'state': 'closed', 'created_at': '2018-03-09T07:29:22Z', 'closed_at': '2018-03-11T05:39:07Z', 'labels': []}
+{'issuenumber': 669, 'title': 'progress', 'state': 'closed', 'created_at': '2018-03-09T03:10:43Z', 'closed_at': '2018-03-09T03:18:13Z', 'labels': []}
+{'issuenumber': 668, 'title': 'Scale best practice', 'state': 'closed', 'created_at': '2018-03-08T20:38:28Z', 'closed_at': '2018-03-09T21:45:16Z', 'labels': []}
+{'issuenumber': 667, 'title': 'JSON Reader AssertionError when doInBackground (Android 7, 8)', 'state': 'closed', 'created_at': '2018-03-08T15:38:53Z', 'closed_at': '2019-05-30T20:57:21Z', 'labels': []}
+{'issuenumber': 666, 'title': 'first build of lottie-android', 'state': 'closed', 'created_at': '2018-03-08T11:57:55Z', 'closed_at': '2018-03-09T21:46:34Z', 'labels': []}
+{'issuenumber': 665, 'title': 'MergePaths bug for LottieFiles:motorcycle.json', 'state': 'closed', 'created_at': '2018-03-07T16:57:43Z', 'closed_at': '2018-03-11T05:46:30Z', 'labels': []}
+{'issuenumber': 664, 'title': "setScale doesn't work", 'state': 'closed', 'created_at': '2018-03-04T22:29:58Z', 'closed_at': '2018-03-05T04:39:40Z', 'labels': []}
+{'issuenumber': 663, 'title': 'setting new values for setMinAndMaxProgress in onAnimationEnd, new animation segment is not starting', 'state': 'closed', 'created_at': '2018-03-02T10:49:36Z', 'closed_at': '2018-04-09T16:25:22Z', 'labels': []}
+{'issuenumber': 662, 'title': "Second time enabling visibility it's not showing animation", 'state': 'closed', 'created_at': '2018-03-02T10:31:04Z', 'closed_at': '2018-03-11T05:49:36Z', 'labels': []}
+{'issuenumber': 661, 'title': "LottieAnimationView setMaxProgress without setMinProgress doesn't stop at max", 'state': 'closed', 'created_at': '2018-03-01T20:42:51Z', 'closed_at': '2018-03-11T07:35:37Z', 'labels': []}
+{'issuenumber': 660, 'title': "setProgress on LottieAnimationView doesn't always reflect without playAnimation", 'state': 'closed', 'created_at': '2018-03-01T20:38:19Z', 'closed_at': '2018-03-11T05:48:17Z', 'labels': []}
+{'issuenumber': 659, 'title': '组件未能正确适应大小', 'state': 'closed', 'created_at': '2018-03-01T09:47:27Z', 'closed_at': '2018-03-01T18:00:49Z', 'labels': []}
+{'issuenumber': 658, 'title': 'Update documentation to demonstrate resource access', 'state': 'closed', 'created_at': '2018-03-01T02:00:15Z', 'closed_at': '2018-03-12T00:43:08Z', 'labels': []}
+{'issuenumber': 656, 'title': "LottieValueAnimator doesn't respect startFrame on LottieComposition", 'state': 'closed', 'created_at': '2018-02-28T08:57:35Z', 'closed_at': '2018-03-05T00:11:57Z', 'labels': []}
+{'issuenumber': 655, 'title': 'Fatal Exception: java.lang.OutOfMemoryError', 'state': 'closed', 'created_at': '2018-02-27T18:06:13Z', 'closed_at': '2018-02-28T06:41:06Z', 'labels': []}
+{'issuenumber': 654, 'title': "Lottie isn't rendering stars correctly", 'state': 'closed', 'created_at': '2018-02-27T14:56:22Z', 'closed_at': '2018-03-02T04:40:25Z', 'labels': []}
+{'issuenumber': 653, 'title': 'Android LottieAnimationView setAnimation crash', 'state': 'closed', 'created_at': '2018-02-27T03:51:59Z', 'closed_at': '2018-02-28T06:42:10Z', 'labels': []}
+{'issuenumber': 652, 'title': 'Animation not same on iOs and Android. Animation reversed. Rotated 180', 'state': 'closed', 'created_at': '2018-02-26T14:17:19Z', 'closed_at': '2018-03-11T06:10:59Z', 'labels': []}
+{'issuenumber': 651, 'title': 'minSDK still seems to be 16', 'state': 'closed', 'created_at': '2018-02-26T03:08:03Z', 'closed_at': '2018-02-27T00:35:21Z', 'labels': []}
+{'issuenumber': 650, 'title': 'compileSdkVersion', 'state': 'closed', 'created_at': '2018-02-25T08:50:43Z', 'closed_at': '2018-02-26T02:54:45Z', 'labels': []}
+{'issuenumber': 649, 'title': 'Stuck with weird speed bouncing animation behaviors on different devices. more info inside', 'state': 'closed', 'created_at': '2018-02-24T14:57:23Z', 'closed_at': '2018-03-02T04:13:41Z', 'labels': []}
+{'issuenumber': 648, 'title': 'setAnimation not working after another drawable was set', 'state': 'closed', 'created_at': '2018-02-24T03:45:47Z', 'closed_at': '2018-03-11T21:59:22Z', 'labels': []}
+{'issuenumber': 647, 'title': 'Frame Drop', 'state': 'closed', 'created_at': '2018-02-22T22:45:17Z', 'closed_at': '2018-03-10T23:26:17Z', 'labels': []}
+{'issuenumber': 646, 'title': 'Support new json format', 'state': 'closed', 'created_at': '2018-02-22T03:12:08Z', 'closed_at': '2019-02-17T00:34:40Z', 'labels': []}
+{'issuenumber': 645, 'title': 'How to convert .aep to .json', 'state': 'closed', 'created_at': '2018-02-21T15:15:56Z', 'closed_at': '2018-02-22T07:32:16Z', 'labels': []}
+{'issuenumber': 643, 'title': 'Rotate animation element independently', 'state': 'closed', 'created_at': '2018-02-20T14:11:16Z', 'closed_at': '2018-02-22T07:35:27Z', 'labels': []}
+{'issuenumber': 641, 'title': 'onStop() of previous activity is called only after 10 seconds', 'state': 'closed', 'created_at': '2018-02-19T14:38:23Z', 'closed_at': '2018-03-11T06:56:53Z', 'labels': []}
+{'issuenumber': 640, 'title': 'Updating value does not work', 'state': 'closed', 'created_at': '2018-02-19T14:02:56Z', 'closed_at': '2018-03-11T07:41:11Z', 'labels': []}
+{'issuenumber': 639, 'title': 'ConcurrentModificationException in BaseLottieAnimator since 2.5.0', 'state': 'closed', 'created_at': '2018-02-19T13:22:29Z', 'closed_at': '2018-02-20T17:24:31Z', 'labels': []}
+{'issuenumber': 638, 'title': "Can't remove a color filter.", 'state': 'closed', 'created_at': '2018-02-19T10:53:18Z', 'closed_at': '2018-03-11T08:45:15Z', 'labels': []}
+{'issuenumber': 636, 'title': '2.5.0: Visibility issues', 'state': 'closed', 'created_at': '2018-02-19T10:30:17Z', 'closed_at': '2018-02-19T23:00:57Z', 'labels': []}
+{'issuenumber': 630, 'title': 'Can\'t get control progress in "Lottie Animation" to work', 'state': 'closed', 'created_at': '2018-02-17T19:28:20Z', 'closed_at': '2018-02-18T01:27:37Z', 'labels': []}
+{'issuenumber': 628, 'title': 'setProgress going to wrong frame when startFrame > 0', 'state': 'closed', 'created_at': '2018-02-16T02:07:09Z', 'closed_at': '2018-02-18T01:40:28Z', 'labels': []}
+{'issuenumber': 626, 'title': 'Change animation success to fail ?', 'state': 'closed', 'created_at': '2018-02-14T23:18:10Z', 'closed_at': '2018-03-11T07:34:08Z', 'labels': []}
+{'issuenumber': 623, 'title': 'after effect animation to lottie for android not working', 'state': 'closed', 'created_at': '2018-02-10T21:28:35Z', 'closed_at': '2018-02-10T22:04:52Z', 'labels': []}
+{'issuenumber': 622, 'title': 'IndexOutOfBoundsException in interpolateBetween()', 'state': 'closed', 'created_at': '2018-02-09T13:05:16Z', 'closed_at': '2018-02-12T07:40:49Z', 'labels': []}
+{'issuenumber': 621, 'title': 'Scrolling Jank when a full screen animation is in a RecyclerView', 'state': 'closed', 'created_at': '2018-02-08T21:41:46Z', 'closed_at': '2018-02-14T07:09:07Z', 'labels': []}
+{'issuenumber': 620, 'title': 'LlottieAnimationView addColorFilterToLayer removed in version 2.5.0-rc1', 'state': 'closed', 'created_at': '2018-02-08T16:12:20Z', 'closed_at': '2018-02-10T22:05:14Z', 'labels': []}
+{'issuenumber': 618, 'title': 'Animation on click works only after the first try?', 'state': 'closed', 'created_at': '2018-02-08T00:26:30Z', 'closed_at': '2018-02-10T22:32:50Z', 'labels': []}
+{'issuenumber': 617, 'title': 'Newton2 Plugin and bodymovin', 'state': 'closed', 'created_at': '2018-02-07T08:34:40Z', 'closed_at': '2018-02-07T23:04:06Z', 'labels': []}
+{'issuenumber': 616, 'title': "lottie animation doesn't show up in react native android build .", 'state': 'closed', 'created_at': '2018-02-07T07:48:11Z', 'closed_at': '2018-02-07T08:28:11Z', 'labels': []}
+{'issuenumber': 615, 'title': 'Appintro Animation start progress is not the same on different devices', 'state': 'closed', 'created_at': '2018-02-07T02:51:47Z', 'closed_at': '2018-02-14T06:17:35Z', 'labels': []}
+{'issuenumber': 614, 'title': 'app:lottie_imageAssetsFolder not work?', 'state': 'closed', 'created_at': '2018-02-05T22:58:01Z', 'closed_at': '2018-02-06T17:30:48Z', 'labels': []}
+{'issuenumber': 613, 'title': 'Crash when loading json on upgrade from 2.3.1 to 2.5.0-rc1  | Calling .createAnimation() on null ', 'state': 'closed', 'created_at': '2018-02-03T02:07:24Z', 'closed_at': '2018-02-10T22:30:39Z', 'labels': []}
+{'issuenumber': 612, 'title': 'add back LottieComposition.Factory.fromJsonSync (regression from prev release?)', 'state': 'closed', 'created_at': '2018-02-02T16:40:27Z', 'closed_at': '2018-02-10T22:33:37Z', 'labels': []}
+{'issuenumber': 611, 'title': '.svg shows borders on animation previews', 'state': 'closed', 'created_at': '2018-02-02T06:50:02Z', 'closed_at': '2018-02-10T22:48:26Z', 'labels': []}
+{'issuenumber': 610, 'title': 'setMinAndMaxFrame may be off by one frame for the min value', 'state': 'closed', 'created_at': '2018-02-01T09:52:11Z', 'closed_at': '2018-02-14T06:17:35Z', 'labels': []}
+{'issuenumber': 609, 'title': "compile 'com.airbnb.android:lottie:2.5.0-rc1' Failed", 'state': 'closed', 'created_at': '2018-01-31T09:06:13Z', 'closed_at': '2018-02-01T16:02:44Z', 'labels': []}
+{'issuenumber': 606, 'title': 'Overlapping shapes with opacity keyframe fades have an artifact where overlapped', 'state': 'closed', 'created_at': '2018-01-29T02:56:35Z', 'closed_at': '2018-01-30T07:32:26Z', 'labels': []}
+{'issuenumber': 604, 'title': 'Bug of AnimatorListener .', 'state': 'closed', 'created_at': '2018-01-25T16:10:13Z', 'closed_at': '2018-01-25T17:10:49Z', 'labels': []}
+{'issuenumber': 603, 'title': 'performance problem', 'state': 'closed', 'created_at': '2018-01-24T08:22:23Z', 'closed_at': '2018-01-30T16:44:34Z', 'labels': []}
+{'issuenumber': 602, 'title': 'why use com.android.support:appcompat-v7:27.0.2?', 'state': 'closed', 'created_at': '2018-01-24T07:22:40Z', 'closed_at': '2018-01-24T07:26:45Z', 'labels': []}
+{'issuenumber': 601, 'title': 'Animations glitchy on Android', 'state': 'closed', 'created_at': '2018-01-22T23:22:26Z', 'closed_at': '2018-01-30T18:00:38Z', 'labels': []}
+{'issuenumber': 600, 'title': 'LottieAnimationView height not respecting wrap_content', 'state': 'closed', 'created_at': '2018-01-19T11:09:14Z', 'closed_at': '2018-01-30T19:11:01Z', 'labels': []}
+{'issuenumber': 599, 'title': '。git diretory found!', 'state': 'closed', 'created_at': '2018-01-17T02:45:32Z', 'closed_at': '2018-01-17T18:50:28Z', 'labels': []}
+{'issuenumber': 595, 'title': 'Interact with elements from animation', 'state': 'closed', 'created_at': '2018-01-15T16:06:59Z', 'closed_at': '2018-02-12T07:34:52Z', 'labels': {'name': 'New feature'}}
+{'issuenumber': 594, 'title': "Real time rendering graph doesn't show up on black in the animation viewer", 'state': 'closed', 'created_at': '2018-01-13T17:09:32Z', 'closed_at': '2018-02-22T07:34:57Z', 'labels': {'name': 'Good first issue'}}
+{'issuenumber': 592, 'title': 'Animation looks good in web but it was distorted in movil Andriod ', 'state': 'closed', 'created_at': '2018-01-11T12:07:34Z', 'closed_at': '2018-01-16T00:27:16Z', 'labels': []}
+{'issuenumber': 591, 'title': 'setFrame and getFrame off by one', 'state': 'closed', 'created_at': '2018-01-10T22:56:05Z', 'closed_at': '2018-01-12T23:30:03Z', 'labels': []}
+{'issuenumber': 590, 'title': '2.5.0-beta2 Crashing Android', 'state': 'closed', 'created_at': '2018-01-10T16:30:21Z', 'closed_at': '2018-01-30T17:27:00Z', 'labels': []}
+{'issuenumber': 587, 'title': 'Animation works on iOS but looks strange on Android', 'state': 'closed', 'created_at': '2018-01-09T18:04:34Z', 'closed_at': '2018-01-16T00:50:22Z', 'labels': {'name': 'Rendering bug'}}
+{'issuenumber': 586, 'title': 'recycleBitmaps throw NullPointerException while onDestroy after LottieAnimationView updateBitmap with a null bitmap', 'state': 'closed', 'created_at': '2018-01-09T09:08:19Z', 'closed_at': '2018-08-30T16:35:49Z', 'labels': []}
+{'issuenumber': 585, 'title': 'addColorFilter doesnt work with lottie:2.5.0-beta1', 'state': 'closed', 'created_at': '2018-01-06T15:39:07Z', 'closed_at': '2018-01-10T02:36:11Z', 'labels': []}
+{'issuenumber': 584, 'title': 'Optimization ideas for PathKeyframeAnimation', 'state': 'closed', 'created_at': '2018-01-06T04:21:09Z', 'closed_at': '2018-01-30T19:13:52Z', 'labels': {'name': 'New feature'}}
+{'issuenumber': 583, 'title': 'Help Android: Y axis rotation not workin, iOS: Ellipse repeater animation not working.', 'state': 'closed', 'created_at': '2018-01-04T12:34:58Z', 'closed_at': '2018-02-13T07:04:43Z', 'labels': {'name': 'Needs more info'}}
+{'issuenumber': 582, 'title': 'Text Alignment properties from After Effects are being ignored issue', 'state': 'closed', 'created_at': '2018-01-03T22:30:19Z', 'closed_at': '2018-01-16T07:02:46Z', 'labels': {'name': 'Text'}}
+{'issuenumber': 579, 'title': 'Make LottieDrawable implement the Animatable interface', 'state': 'closed', 'created_at': '2018-01-02T20:42:02Z', 'closed_at': '2018-01-06T04:01:11Z', 'labels': []}
+{'issuenumber': 578, 'title': 'Wishlist: Please add support for expressions ;-) I spent an entire day setting up an animation with a lot of moving parts only to find out the hard way expressions were not supported.  Thx, for an awesome program though! ', 'state': 'closed', 'created_at': '2017-12-30T20:47:35Z', 'closed_at': '2017-12-30T23:27:34Z', 'labels': []}
+{'issuenumber': 577, 'title': 'Request: in the sample, allow to go to previous/next animation', 'state': 'closed', 'created_at': '2017-12-27T10:41:09Z', 'closed_at': '2018-01-03T00:30:31Z', 'labels': []}
+{'issuenumber': 576, 'title': 'represent PNGs with base64 encoding', 'state': 'closed', 'created_at': '2017-12-26T12:13:02Z', 'closed_at': '2017-12-29T22:52:51Z', 'labels': []}
+{'issuenumber': 575, 'title': "When first shown, it can't play animation", 'state': 'closed', 'created_at': '2017-12-26T10:06:25Z', 'closed_at': '2018-01-09T22:16:24Z', 'labels': []}
+{'issuenumber': 574, 'title': 'Partial animation showing on Android', 'state': 'closed', 'created_at': '2017-12-24T14:15:26Z', 'closed_at': '2017-12-24T14:53:09Z', 'labels': []}
+{'issuenumber': 571, 'title': 'Terrible error when setScaleX!!!!!!!!!!!Help!!!!!!!!!!!!!!!!!!!!!! ', 'state': 'closed', 'created_at': '2017-12-18T07:09:09Z', 'closed_at': '2017-12-18T16:16:43Z', 'labels': []}
+{'issuenumber': 569, 'title': 'Can only enable/disable trace between frame draws.', 'state': 'closed', 'created_at': '2017-12-15T18:51:36Z', 'closed_at': '2017-12-18T05:55:09Z', 'labels': []}
+{'issuenumber': 559, 'title': 'NumberFormatException: Invalid int: "4.10.1"', 'state': 'closed', 'created_at': '2017-12-11T19:39:28Z', 'closed_at': '2017-12-12T03:38:39Z', 'labels': []}
+{'issuenumber': 558, 'title': 'Animation on android glitchy in comparison with web sample', 'state': 'closed', 'created_at': '2017-12-11T13:44:36Z', 'closed_at': '2017-12-12T03:45:33Z', 'labels': []}
+{'issuenumber': 557, 'title': 'why the shapes does not show correct on json file ?', 'state': 'closed', 'created_at': '2017-12-10T09:54:01Z', 'closed_at': '2017-12-12T03:15:18Z', 'labels': []}
+{'issuenumber': 556, 'title': 'Animation not playing in Android', 'state': 'closed', 'created_at': '2017-12-09T08:16:44Z', 'closed_at': '2017-12-12T03:12:00Z', 'labels': []}
+{'issuenumber': 555, 'title': 'Setting setMinAndMaxProgress for a second time does nothing on versions below 8.0', 'state': 'closed', 'created_at': '2017-12-08T09:38:56Z', 'closed_at': '2018-01-30T19:35:20Z', 'labels': {'name': 'Needs more info'}}
+{'issuenumber': 554, 'title': "When I used the version of 2.2.5.I couldn't get the com.android.support:appcompat-v7:26.1.0?", 'state': 'closed', 'created_at': '2017-12-08T09:16:50Z', 'closed_at': '2017-12-12T03:08:50Z', 'labels': []}
+{'issuenumber': 553, 'title': 'Nice libraries, but I need to be compatible with a low version of what I should do ?', 'state': 'closed', 'created_at': '2017-12-08T03:48:29Z', 'closed_at': '2017-12-08T09:09:10Z', 'labels': []}
+{'issuenumber': 552, 'title': 'Animation Not same as iOS and web.', 'state': 'closed', 'created_at': '2017-12-07T06:53:27Z', 'closed_at': '2018-05-07T17:17:31Z', 'labels': {'name': 'Needs more info'}}
+{'issuenumber': 551, 'title': 'OutOfMemoryError', 'state': 'closed', 'created_at': '2017-12-07T06:46:45Z', 'closed_at': '2017-12-08T02:09:39Z', 'labels': []}
+{'issuenumber': 550, 'title': 'setScaleType() method not work', 'state': 'closed', 'created_at': '2017-12-07T01:50:28Z', 'closed_at': '2017-12-14T20:00:50Z', 'labels': []}
+{'issuenumber': 548, 'title': 'Rotation working on iOS and lottiefiles, but not on Android', 'state': 'closed', 'created_at': '2017-12-05T15:16:58Z', 'closed_at': '2017-12-05T23:00:53Z', 'labels': []}
+{'issuenumber': 547, 'title': 'Gradients with transparency', 'state': 'closed', 'created_at': '2017-12-05T15:09:30Z', 'closed_at': '2017-12-05T23:07:20Z', 'labels': []}
+{'issuenumber': 546, 'title': 'how can i release graphics memory in lottie ', 'state': 'closed', 'created_at': '2017-12-01T14:16:51Z', 'closed_at': '2017-12-14T19:53:49Z', 'labels': []}
+{'issuenumber': 545, 'title': 'Animations are buggy', 'state': 'closed', 'created_at': '2017-11-30T11:09:29Z', 'closed_at': '2017-12-05T23:12:39Z', 'labels': []}
+{'issuenumber': 544, 'title': 'Null pointer exception', 'state': 'closed', 'created_at': '2017-11-29T21:10:46Z', 'closed_at': '2017-12-05T01:45:13Z', 'labels': []}
+{'issuenumber': 542, 'title': 'how to  adding views to an Animation at runtime like IOS version?', 'state': 'closed', 'created_at': '2017-11-28T09:00:15Z', 'closed_at': '2017-11-28T18:53:12Z', 'labels': []}
+{'issuenumber': 541, 'title': 'NullPointerException--phone model:Micromax A120,lottie version 2.3.0', 'state': 'closed', 'created_at': '2017-11-28T06:53:52Z', 'closed_at': '2017-11-28T22:17:35Z', 'labels': []}
+{'issuenumber': 540, 'title': 'Bug: while call LottieAnimationView.setMinAndMaxProgress in version 3.0.0 ', 'state': 'closed', 'created_at': '2017-11-27T08:36:11Z', 'closed_at': '2017-11-28T22:17:05Z', 'labels': []}
+{'issuenumber': 539, 'title': "A beginner's help", 'state': 'closed', 'created_at': '2017-11-27T08:19:31Z', 'closed_at': '2017-11-28T18:57:23Z', 'labels': []}
+{'issuenumber': 538, 'title': 'problem', 'state': 'closed', 'created_at': '2017-11-27T05:58:32Z', 'closed_at': '2017-12-05T23:14:35Z', 'labels': []}
+{'issuenumber': 537, 'title': 'How can i rewind an animation?', 'state': 'closed', 'created_at': '2017-11-25T19:30:57Z', 'closed_at': '2017-11-25T19:36:50Z', 'labels': []}
+{'issuenumber': 536, 'title': "Can't animate images from assets with setImageAssetsFolder", 'state': 'closed', 'created_at': '2017-11-24T09:31:25Z', 'closed_at': '2017-11-27T05:55:57Z', 'labels': []}
+{'issuenumber': 535, 'title': 'Animation component not placed correctly', 'state': 'closed', 'created_at': '2017-11-22T14:19:12Z', 'closed_at': '2017-11-24T21:56:56Z', 'labels': []}
+{'issuenumber': 534, 'title': 'why android sdk scale the size of  Animation by density?', 'state': 'closed', 'created_at': '2017-11-22T03:23:01Z', 'closed_at': '2017-11-22T06:00:13Z', 'labels': []}
+{'issuenumber': 533, 'title': '`setMinAndMaxFrame` raise exception with correct values', 'state': 'closed', 'created_at': '2017-11-21T14:58:40Z', 'closed_at': '2017-11-24T05:36:13Z', 'labels': []}
+{'issuenumber': 531, 'title': 'Feature Request Pull To Refresh', 'state': 'closed', 'created_at': '2017-11-19T23:35:10Z', 'closed_at': '2017-11-20T02:46:23Z', 'labels': []}
+{'issuenumber': 530, 'title': 'setMinAndMaxProgress() not working as expected', 'state': 'closed', 'created_at': '2017-11-17T10:43:15Z', 'closed_at': '2017-11-20T03:19:30Z', 'labels': []}
+{'issuenumber': 529, 'title': 'stroke dash animates fine on web, not on ios/android', 'state': 'closed', 'created_at': '2017-11-17T07:27:46Z', 'closed_at': '2017-12-05T23:38:21Z', 'labels': []}
+{'issuenumber': 528, 'title': 'I found that v1.5.0 is a little bit different than the higher version', 'state': 'closed', 'created_at': '2017-11-17T01:54:58Z', 'closed_at': '2017-11-21T01:17:38Z', 'labels': []}
+{'issuenumber': 527, 'title': 'Missing company name and year from LICENSE file', 'state': 'closed', 'created_at': '2017-11-16T13:10:51Z', 'closed_at': '2021-06-25T11:24:57Z', 'labels': []}
+{'issuenumber': 526, 'title': '2.2.5bug ,setImageAssetDelegate not work good', 'state': 'closed', 'created_at': '2017-11-16T08:00:58Z', 'closed_at': '2017-12-05T22:49:19Z', 'labels': []}
+{'issuenumber': 524, 'title': 'NPE on CompositionLayer', 'state': 'closed', 'created_at': '2017-11-15T16:55:09Z', 'closed_at': '2018-01-30T19:24:14Z', 'labels': []}
+{'issuenumber': 523, 'title': 'playAnimation(startFrame, endFrame) briefly shows endFrame at beginning, causing flicker', 'state': 'closed', 'created_at': '2017-11-14T10:23:26Z', 'closed_at': '2017-11-17T02:23:31Z', 'labels': []}
+{'issuenumber': 522, 'title': 'New method boolean isInReverseMode()', 'state': 'closed', 'created_at': '2017-11-13T17:45:16Z', 'closed_at': '2017-11-15T23:03:19Z', 'labels': []}
+{'issuenumber': 521, 'title': 'OutOfMemoryError when loading  JSON animation on  OZZY phone', 'state': 'closed', 'created_at': '2017-11-13T09:41:31Z', 'closed_at': '2017-11-16T02:06:03Z', 'labels': []}
+{'issuenumber': 520, 'title': 'bitmap handle', 'state': 'closed', 'created_at': '2017-11-13T03:06:15Z', 'closed_at': '2017-12-14T20:02:46Z', 'labels': {'name': 'Needs more info'}}
+{'issuenumber': 519, 'title': 'LottieAnimationView can not show within ScrollView on Android devices', 'state': 'closed', 'created_at': '2017-11-13T02:00:45Z', 'closed_at': '2017-11-16T01:58:26Z', 'labels': []}
+{'issuenumber': 518, 'title': 'Why does my project not work?', 'state': 'closed', 'created_at': '2017-11-11T03:24:05Z', 'closed_at': '2017-11-11T04:25:05Z', 'labels': []}
+{'issuenumber': 517, 'title': 'LottieAnimationView not displayed because it is too large to fit into a software layer (or drawing cache), needs 8644320 bytes, only 8294400 available', 'state': 'closed', 'created_at': '2017-11-10T10:20:37Z', 'closed_at': '2017-11-10T17:41:22Z', 'labels': []}
+{'issuenumber': 516, 'title': 'Lottie play animation does not work in android 7.0 (26.0.1)', 'state': 'closed', 'created_at': '2017-11-07T17:53:06Z', 'closed_at': '2017-11-10T17:41:30Z', 'labels': []}
+{'issuenumber': 515, 'title': 'LottieComposition#fromAssetFileName() method should throw exception', 'state': 'closed', 'created_at': '2017-11-07T14:45:16Z', 'closed_at': '2017-11-08T22:42:35Z', 'labels': []}
+{'issuenumber': 514, 'title': 'Can LottieAnimationView use compressed json in assets?', 'state': 'closed', 'created_at': '2017-11-07T10:56:23Z', 'closed_at': '2017-11-08T22:43:13Z', 'labels': []}
+{'issuenumber': 513, 'title': 'LottieAnimationView can not show within ScrollView on Android devices', 'state': 'closed', 'created_at': '2017-11-07T10:22:45Z', 'closed_at': '2017-11-08T22:46:08Z', 'labels': []}
+{'issuenumber': 512, 'title': 'Can I give animation to lottie view with it content playing animation?', 'state': 'closed', 'created_at': '2017-11-06T10:12:06Z', 'closed_at': '2017-11-06T18:21:20Z', 'labels': []}
+{'issuenumber': 511, 'title': 'API changes report for the latest snapshot of Lottie', 'state': 'closed', 'created_at': '2017-11-05T04:19:42Z', 'closed_at': '2017-11-05T18:59:59Z', 'labels': []}
+{'issuenumber': 509, 'title': 'Where i can finde appcompat-v7-26.1.0.jar??', 'state': 'closed', 'created_at': '2017-11-04T14:25:38Z', 'closed_at': '2017-11-04T22:29:02Z', 'labels': []}
+{'issuenumber': 507, 'title': 'ArrayIndexOutOfBoundsException: length=0; index=0', 'state': 'closed', 'created_at': '2017-11-01T02:59:56Z', 'closed_at': '2017-11-04T23:41:02Z', 'labels': []}
+{'issuenumber': 506, 'title': 'Request for getFrame/setFrame on the LottieAnimationView', 'state': 'closed', 'created_at': '2017-10-31T19:12:52Z', 'closed_at': '2017-11-04T23:39:07Z', 'labels': []}
+{'issuenumber': 505, 'title': 'removeAnimatorListener is not called?', 'state': 'closed', 'created_at': '2017-10-30T03:03:58Z', 'closed_at': '2017-10-31T04:09:17Z', 'labels': []}
+{'issuenumber': 504, 'title': 'Change Colors in JSON FILES', 'state': 'closed', 'created_at': '2017-10-24T18:13:48Z', 'closed_at': '2017-10-25T18:10:40Z', 'labels': []}
+{'issuenumber': 503, 'title': 'Lottie Transition in Android ', 'state': 'closed', 'created_at': '2017-10-23T13:43:28Z', 'closed_at': '2017-11-04T22:29:40Z', 'labels': []}
+{'issuenumber': 501, 'title': ' lottie-android support  animation type? why not run', 'state': 'closed', 'created_at': '2017-10-20T09:37:56Z', 'closed_at': '2017-10-22T12:17:49Z', 'labels': []}
+{'issuenumber': 500, 'title': 'Anti-Clockwise animation on android vs. Clockwise animation on iOS', 'state': 'closed', 'created_at': '2017-10-19T18:05:04Z', 'closed_at': '2017-11-05T00:18:33Z', 'labels': []}
+{'issuenumber': 497, 'title': 'ArrayIndexOutOfBoundsException', 'state': 'closed', 'created_at': '2017-10-12T07:16:06Z', 'closed_at': '2017-10-18T04:08:28Z', 'labels': []}
+{'issuenumber': 495, 'title': "Mask doesn't work only in Android (iOS and Web are perfect)", 'state': 'closed', 'created_at': '2017-10-11T13:12:10Z', 'closed_at': '2017-10-18T03:54:35Z', 'labels': []}
+{'issuenumber': 494, 'title': 'Android playback animation bug', 'state': 'closed', 'created_at': '2017-10-11T09:01:21Z', 'closed_at': '2017-11-05T00:04:45Z', 'labels': []}
+{'issuenumber': 493, 'title': 'NullPointerException', 'state': 'closed', 'created_at': '2017-10-11T07:55:40Z', 'closed_at': '2017-10-12T01:54:03Z', 'labels': []}
+{'issuenumber': 492, 'title': 'LottieValueAnimator#playAnimation(float, float) should queue a lazy composition task', 'state': 'closed', 'created_at': '2017-10-10T23:42:16Z', 'closed_at': '2017-10-16T08:06:29Z', 'labels': []}
+{'issuenumber': 491, 'title': 'playAnimation(int, int) yields wrong start and end progress', 'state': 'closed', 'created_at': '2017-10-10T19:48:11Z', 'closed_at': '2018-02-14T06:17:35Z', 'labels': []}
+{'issuenumber': 490, 'title': 'The elements of the animation change their position when I am running the animation on an Android device', 'state': 'closed', 'created_at': '2017-10-10T15:25:16Z', 'closed_at': '2017-11-05T00:25:32Z', 'labels': []}
+{'issuenumber': 489, 'title': 'Memory  occupation too large', 'state': 'closed', 'created_at': '2017-10-10T10:19:32Z', 'closed_at': '2017-11-28T22:18:21Z', 'labels': []}
+{'issuenumber': 488, 'title': 'NumberFormatException: Invalid int: "4.7.0"', 'state': 'closed', 'created_at': '2017-10-09T04:00:04Z', 'closed_at': '2017-12-13T01:21:39Z', 'labels': []}
+{'issuenumber': 487, 'title': 'Some kind of Layer Marker support available?', 'state': 'closed', 'created_at': '2017-10-06T22:03:34Z', 'closed_at': '2019-02-11T05:27:02Z', 'labels': {'name': 'New feature'}}
+{'issuenumber': 486, 'title': "Non-glyphed text support doesn't work", 'state': 'closed', 'created_at': '2017-10-06T14:59:43Z', 'closed_at': '2017-10-10T14:28:55Z', 'labels': []}
+{'issuenumber': 484, 'title': "In 2.2.5 resumeReverseAnimation() doesn't start from current progress", 'state': 'closed', 'created_at': '2017-10-05T04:58:38Z', 'closed_at': '2017-10-18T04:09:41Z', 'labels': []}
+{'issuenumber': 483, 'title': 'Animation not being chained properly since 2.2.2', 'state': 'closed', 'created_at': '2017-10-04T15:41:57Z', 'closed_at': '2017-10-16T08:06:29Z', 'labels': []}
+{'issuenumber': 482, 'title': 'Animation is not playing properly neither ios nor android ', 'state': 'closed', 'created_at': '2017-09-29T07:28:01Z', 'closed_at': '2017-09-29T09:36:18Z', 'labels': []}
+{'issuenumber': 481, 'title': 'Text Layer is not positioning correctly on Android', 'state': 'closed', 'created_at': '2017-09-28T19:26:01Z', 'closed_at': '2018-12-09T22:06:29Z', 'labels': {'name': 'Text'}}
+{'issuenumber': 480, 'title': 'com.airbnb.lottie.value missing', 'state': 'closed', 'created_at': '2017-09-28T14:43:18Z', 'closed_at': '2017-09-28T14:46:29Z', 'labels': []}
+{'issuenumber': 479, 'title': "How to control the animation view's Size", 'state': 'closed', 'created_at': '2017-09-27T06:53:50Z', 'closed_at': '2017-09-27T13:37:40Z', 'labels': []}
+{'issuenumber': 478, 'title': 'Animation is rendered incorrectly on Android', 'state': 'closed', 'created_at': '2017-09-26T10:13:16Z', 'closed_at': '2017-11-05T00:25:53Z', 'labels': []}
+{'issuenumber': 477, 'title': 'java.lang.UnsupportedOperationException: Use addColorFilter instead. in Android 4.0.4 @ lottie-android2.2.5', 'state': 'closed', 'created_at': '2017-09-26T10:03:30Z', 'closed_at': '2017-11-16T02:56:08Z', 'labels': []}
+{'issuenumber': 476, 'title': 'animation stay in the first frame  and  can’t play', 'state': 'closed', 'created_at': '2017-09-26T07:36:21Z', 'closed_at': '2017-10-18T04:10:08Z', 'labels': []}
+{'issuenumber': 475, 'title': 'animation splash a shot in the end. ', 'state': 'closed', 'created_at': '2017-09-25T03:12:27Z', 'closed_at': '2017-12-14T20:05:01Z', 'labels': []}
+{'issuenumber': 474, 'title': 'Crash when using animation', 'state': 'closed', 'created_at': '2017-09-23T23:32:55Z', 'closed_at': '2017-11-28T22:28:57Z', 'labels': []}
+{'issuenumber': 473, 'title': 'Different version of android support library', 'state': 'closed', 'created_at': '2017-09-20T09:13:51Z', 'closed_at': '2017-09-20T17:08:18Z', 'labels': []}
+{'issuenumber': 472, 'title': 'java.lang.ArrayIndexOutOfBoundsException in 2.2.3', 'state': 'closed', 'created_at': '2017-09-20T06:22:39Z', 'closed_at': '2017-09-20T07:01:03Z', 'labels': []}
+{'issuenumber': 471, 'title': 'Android version some image size problem', 'state': 'closed', 'created_at': '2017-09-20T03:18:37Z', 'closed_at': '2017-09-20T11:20:45Z', 'labels': []}
+{'issuenumber': 469, 'title': 'LottieValueAnimator$2.onAnimationUpdate(LottieValueAnimator.java:39)', 'state': 'closed', 'created_at': '2017-09-18T02:54:13Z', 'closed_at': '2017-09-18T21:38:45Z', 'labels': []}
+{'issuenumber': 468, 'title': 'LottieValueAnimator.setProgress-->StackOverflowError: stack size 8MB', 'state': 'closed', 'created_at': '2017-09-18T02:50:59Z', 'closed_at': '2017-09-18T21:37:50Z', 'labels': []}
+{'issuenumber': 467, 'title': 'Can the animation be displayed in the first or last frame?', 'state': 'closed', 'created_at': '2017-09-15T10:03:14Z', 'closed_at': '2017-09-15T15:38:33Z', 'labels': []}
+{'issuenumber': 466, 'title': 'Animation do start at IOS without Android.', 'state': 'closed', 'created_at': '2017-09-14T08:31:37Z', 'closed_at': '2017-09-15T15:44:10Z', 'labels': []}
+{'issuenumber': 465, 'title': 'Hello, I was using Lottie2.2.0 in my project on the emergence of this error, V7 package version is 25.0.0', 'state': 'closed', 'created_at': '2017-09-13T05:35:55Z', 'closed_at': '2017-09-13T06:43:23Z', 'labels': []}
+{'issuenumber': 464, 'title': 'NullPointerException', 'state': 'closed', 'created_at': '2017-09-13T02:06:56Z', 'closed_at': '2017-09-14T01:51:47Z', 'labels': []}
+{'issuenumber': 462, 'title': 'Lint NewApi error (bug in lint?) for using LottieValueAnimator#resume ', 'state': 'closed', 'created_at': '2017-09-12T02:56:05Z', 'closed_at': '2017-09-20T00:06:27Z', 'labels': []}
+{'issuenumber': 460, 'title': 'Support Video Embedding？', 'state': 'closed', 'created_at': '2017-09-11T08:02:45Z', 'closed_at': '2017-09-11T16:19:45Z', 'labels': []}
+{'issuenumber': 459, 'title': 'LottieDrawable setComposition() doing too much on main thread', 'state': 'closed', 'created_at': '2017-09-08T20:04:31Z', 'closed_at': '2017-12-14T20:06:24Z', 'labels': []}
+{'issuenumber': 458, 'title': "Animation doesn't load when doing LottieDrawable#setComposition() in fromAssetFileName()", 'state': 'closed', 'created_at': '2017-09-08T19:47:13Z', 'closed_at': '2017-12-05T23:13:15Z', 'labels': []}
+{'issuenumber': 457, 'title': 'Lottie animation not rendered properly on Android O on my Nexus 6P', 'state': 'closed', 'created_at': '2017-09-06T12:30:52Z', 'closed_at': '2017-09-20T01:49:54Z', 'labels': []}
+{'issuenumber': 456, 'title': 'Static images not working within the Android Lottie app', 'state': 'closed', 'created_at': '2017-09-06T04:25:59Z', 'closed_at': '2017-09-10T18:31:36Z', 'labels': []}
+{'issuenumber': 455, 'title': 'enableMergePathsForKitKatAndAbove ConcurrentModificationException', 'state': 'closed', 'created_at': '2017-09-06T02:40:46Z', 'closed_at': '2017-09-10T18:35:26Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 454, 'title': 'Using ImageAssetDelagate and setImageAssetsFolder together', 'state': 'closed', 'created_at': '2017-09-05T21:28:43Z', 'closed_at': '2017-09-05T21:33:35Z', 'labels': []}
+{'issuenumber': 453, 'title': 'Text Layer opacity changes not reflecting on Android app', 'state': 'closed', 'created_at': '2017-09-05T16:39:33Z', 'closed_at': '2017-09-05T21:32:26Z', 'labels': []}
+{'issuenumber': 452, 'title': 'ArrayIndexOutOfBoundsException', 'state': 'closed', 'created_at': '2017-09-04T08:30:28Z', 'closed_at': '2017-09-20T01:56:25Z', 'labels': []}
+{'issuenumber': 451, 'title': 'Text layer position issue', 'state': 'closed', 'created_at': '2017-09-01T17:22:26Z', 'closed_at': '2017-09-05T21:36:58Z', 'labels': []}
+{'issuenumber': 450, 'title': 'wrap_content ignored; LottieAnimationView centered and fills entire container', 'state': 'closed', 'created_at': '2017-09-01T16:17:30Z', 'closed_at': '2017-09-01T16:22:52Z', 'labels': []}
+{'issuenumber': 449, 'title': 'Exception found in version 2.2.0', 'state': 'closed', 'created_at': '2017-08-31T02:40:41Z', 'closed_at': '2017-09-05T16:31:36Z', 'labels': []}
+{'issuenumber': 448, 'title': '(BUG)After execute animButton.setMinAndMaxProgress() animaction will resume from wrong progress', 'state': 'closed', 'created_at': '2017-08-30T12:37:03Z', 'closed_at': '2017-09-05T21:27:11Z', 'labels': []}
+{'issuenumber': 446, 'title': "Can't pause animation when 'loop=true'", 'state': 'closed', 'created_at': '2017-08-28T10:46:52Z', 'closed_at': '2017-09-05T21:36:26Z', 'labels': []}
+{'issuenumber': 445, 'title': 'Crash with custom font and \\r', 'state': 'closed', 'created_at': '2017-08-25T14:23:37Z', 'closed_at': '2017-09-05T16:37:34Z', 'labels': []}
+{'issuenumber': 444, 'title': 'Add touchable support', 'state': 'closed', 'created_at': '2017-08-24T19:49:01Z', 'closed_at': '2018-12-12T07:50:02Z', 'labels': {'name': 'New feature'}}
+{'issuenumber': 443, 'title': 'Add arbitrary keypath + keyframe updating support', 'state': 'closed', 'created_at': '2017-08-24T19:48:53Z', 'closed_at': '2017-12-14T20:11:32Z', 'labels': []}
+{'issuenumber': 442, 'title': 'Add View layer', 'state': 'closed', 'created_at': '2017-08-24T19:48:38Z', 'closed_at': '2018-08-04T20:24:26Z', 'labels': []}
+{'issuenumber': 441, 'title': 'Add log keypath method', 'state': 'closed', 'created_at': '2017-08-24T19:48:25Z', 'closed_at': '2017-12-14T20:06:48Z', 'labels': []}
+{'issuenumber': 439, 'title': 'v2.1.0 >> NullPointer in LottieDrawable$animator', 'state': 'closed', 'created_at': '2017-08-18T10:10:12Z', 'closed_at': '2017-09-10T18:36:39Z', 'labels': []}
+{'issuenumber': 438, 'title': 'java.lang.IllegalStateException: Unable to load JSON.', 'state': 'closed', 'created_at': '2017-08-18T08:37:08Z', 'closed_at': '2017-08-18T10:19:26Z', 'labels': []}
+{'issuenumber': 437, 'title': 'My Lottie file is not rendered properly on Android.', 'state': 'closed', 'created_at': '2017-08-18T07:38:03Z', 'closed_at': '2017-09-20T01:56:39Z', 'labels': []}
+{'issuenumber': 436, 'title': 'Performance issue', 'state': 'closed', 'created_at': '2017-08-17T09:53:15Z', 'closed_at': '2017-08-24T17:57:12Z', 'labels': []}
+{'issuenumber': 435, 'title': 'How import the LottieSample dir to a AS project', 'state': 'closed', 'created_at': '2017-08-17T08:33:45Z', 'closed_at': '2017-08-17T20:57:04Z', 'labels': []}
+{'issuenumber': 434, 'title': 'scale question', 'state': 'closed', 'created_at': '2017-08-17T03:36:23Z', 'closed_at': '2017-08-18T08:28:01Z', 'labels': []}
+{'issuenumber': 432, 'title': "java.lang.NullPointerException:Attempt to invoke virtual method 'java.lang.Object java.lang.ref.WeakReference.get()' on a null object reference", 'state': 'closed', 'created_at': '2017-08-15T01:55:25Z', 'closed_at': '2017-08-15T22:32:56Z', 'labels': []}
+{'issuenumber': 431, 'title': 'SetScale not working', 'state': 'closed', 'created_at': '2017-08-11T07:49:43Z', 'closed_at': '2017-09-20T00:06:00Z', 'labels': []}
+{'issuenumber': 429, 'title': 'Native typeface cannot be made', 'state': 'closed', 'created_at': '2017-08-10T11:14:17Z', 'closed_at': '2017-08-13T01:26:55Z', 'labels': []}
+{'issuenumber': 428, 'title': 'Unable to play json plays in sequence or animation jumps', 'state': 'closed', 'created_at': '2017-08-10T00:14:32Z', 'closed_at': '2017-09-10T18:47:37Z', 'labels': []}
+{'issuenumber': 427, 'title': 'Android menu list item lottie ', 'state': 'closed', 'created_at': '2017-08-09T21:15:31Z', 'closed_at': '2017-08-10T18:23:15Z', 'labels': []}
+{'issuenumber': 426, 'title': 'Menu Android with lottie ', 'state': 'closed', 'created_at': '2017-08-09T21:13:40Z', 'closed_at': '2017-08-10T00:45:20Z', 'labels': []}
+{'issuenumber': 425, 'title': 'Play once then loop from frame to frame', 'state': 'closed', 'created_at': '2017-08-08T22:36:49Z', 'closed_at': '2017-08-10T00:47:43Z', 'labels': []}
+{'issuenumber': 424, 'title': 'iOS - Animation Play method completion block not called when app is sent to background and get to foreground during animation.', 'state': 'closed', 'created_at': '2017-08-08T20:53:10Z', 'closed_at': '2017-08-08T20:56:57Z', 'labels': []}
+{'issuenumber': 423, 'title': 'Unable to play Lottie animation when the animation comes from a Remote URL', 'state': 'closed', 'created_at': '2017-08-07T07:05:00Z', 'closed_at': '2017-08-07T07:07:57Z', 'labels': []}
+{'issuenumber': 422, 'title': 'NumberFormatException in LottieComposition.fromJsonSync() ', 'state': 'closed', 'created_at': '2017-08-05T05:25:38Z', 'closed_at': '2017-08-08T09:48:58Z', 'labels': []}
+{'issuenumber': 421, 'title': "Subtract doesn't work, why?", 'state': 'closed', 'created_at': '2017-08-04T16:20:03Z', 'closed_at': '2017-11-28T22:19:27Z', 'labels': []}
+{'issuenumber': 419, 'title': 'LottieDrawable.setAlpha does not make effect', 'state': 'closed', 'created_at': '2017-08-04T06:37:32Z', 'closed_at': '2017-09-15T16:26:16Z', 'labels': []}
+{'issuenumber': 418, 'title': 'setAnimation again error', 'state': 'closed', 'created_at': '2017-08-03T12:08:03Z', 'closed_at': '2017-08-07T01:52:03Z', 'labels': []}
+{'issuenumber': 417, 'title': 'Lottie animation is not working when close Animation in developer options', 'state': 'closed', 'created_at': '2017-08-02T09:46:51Z', 'closed_at': '2017-08-02T16:15:39Z', 'labels': []}
+{'issuenumber': 416, 'title': 'Scaling Issues with Matte Layer', 'state': 'closed', 'created_at': '2017-08-02T07:12:41Z', 'closed_at': '2017-09-20T01:40:29Z', 'labels': []}
+{'issuenumber': 415, 'title': 'Add playAnimation(fromFrame, toFrame)', 'state': 'closed', 'created_at': '2017-08-01T19:00:49Z', 'closed_at': '2017-08-15T22:26:51Z', 'labels': []}
+{'issuenumber': 414, 'title': 'add playToProgress and playToFrame', 'state': 'closed', 'created_at': '2017-08-01T18:59:50Z', 'closed_at': '2017-08-13T02:56:33Z', 'labels': []}
+{'issuenumber': 413, 'title': 'Animation error with Android', 'state': 'closed', 'created_at': '2017-08-01T11:25:39Z', 'closed_at': '2017-08-02T16:34:13Z', 'labels': []}
+{'issuenumber': 412, 'title': 'Unable to clear animation from memory', 'state': 'closed', 'created_at': '2017-07-31T12:02:33Z', 'closed_at': '2017-08-14T08:58:21Z', 'labels': []}
+{'issuenumber': 411, 'title': 'After effects size of composition in android', 'state': 'closed', 'created_at': '2017-07-29T14:15:22Z', 'closed_at': '2017-07-31T17:09:18Z', 'labels': []}
+{'issuenumber': 410, 'title': 'Repeater issue', 'state': 'closed', 'created_at': '2017-07-28T15:38:23Z', 'closed_at': '2017-07-28T16:48:40Z', 'labels': []}
+{'issuenumber': 409, 'title': 'Add support for Skew', 'state': 'closed', 'created_at': '2017-07-27T12:43:55Z', 'closed_at': '2019-02-16T20:34:37Z', 'labels': []}
+{'issuenumber': 407, 'title': 'Gradient Fill Issue', 'state': 'closed', 'created_at': '2017-07-27T01:19:35Z', 'closed_at': '2017-08-01T19:04:54Z', 'labels': []}
+{'issuenumber': 405, 'title': 'Unable to clear animation', 'state': 'closed', 'created_at': '2017-07-26T15:40:28Z', 'closed_at': '2017-08-13T04:20:35Z', 'labels': []}
+{'issuenumber': 404, 'title': 'Animation borders wrong when size is set fixed', 'state': 'closed', 'created_at': '2017-07-26T15:13:13Z', 'closed_at': '2017-07-27T02:11:40Z', 'labels': []}
+{'issuenumber': 403, 'title': 'Are there any detailed API documentations of Lottie?', 'state': 'closed', 'created_at': '2017-07-26T11:59:38Z', 'closed_at': '2017-07-27T01:39:51Z', 'labels': []}
+{'issuenumber': 402, 'title': 'Image asset with alpha matte will be broken.', 'state': 'closed', 'created_at': '2017-07-26T03:32:28Z', 'closed_at': '2018-01-30T19:33:58Z', 'labels': []}
+{'issuenumber': 401, 'title': 'Add support for multiline text', 'state': 'closed', 'created_at': '2017-07-26T01:31:19Z', 'closed_at': '2019-03-05T17:47:10Z', 'labels': {'name': 'Text'}}
+{'issuenumber': 400, 'title': 'Text with newlines crashes Lottie', 'state': 'closed', 'created_at': '2017-07-25T08:33:55Z', 'closed_at': '2017-07-26T01:31:33Z', 'labels': []}
+{'issuenumber': 399, 'title': 'Paragraph Text is not supported', 'state': 'closed', 'created_at': '2017-07-25T08:32:29Z', 'closed_at': '2017-07-26T01:31:30Z', 'labels': []}
+{'issuenumber': 398, 'title': 'Padding(Space) in Android Studio', 'state': 'closed', 'created_at': '2017-07-25T04:15:54Z', 'closed_at': '2017-07-26T01:29:57Z', 'labels': []}
+{'issuenumber': 396, 'title': 'crash: Unable to find file hello-world.json', 'state': 'closed', 'created_at': '2017-07-24T12:33:13Z', 'closed_at': '2017-08-13T02:57:10Z', 'labels': []}
+{'issuenumber': 395, 'title': 'Scale breaks layers', 'state': 'closed', 'created_at': '2017-07-24T08:07:52Z', 'closed_at': '2017-07-26T01:43:03Z', 'labels': []}
+{'issuenumber': 394, 'title': 'Do a 0 check in hashCode for path interpolator cache', 'state': 'closed', 'created_at': '2017-07-20T19:10:42Z', 'closed_at': '2017-07-21T03:19:00Z', 'labels': []}
+{'issuenumber': 393, 'title': 'Animation containing vector image is cut off because of the height of the container view', 'state': 'closed', 'created_at': '2017-07-20T12:59:37Z', 'closed_at': '2017-07-20T14:53:49Z', 'labels': []}
+{'issuenumber': 392, 'title': 'No anime finish callback in Android version', 'state': 'closed', 'created_at': '2017-07-19T02:49:45Z', 'closed_at': '2017-07-26T01:55:13Z', 'labels': []}
+{'issuenumber': 391, 'title': 'Unable to subtract multiple masks from one shape layer', 'state': 'closed', 'created_at': '2017-07-18T17:09:32Z', 'closed_at': '2017-07-25T14:47:05Z', 'labels': []}
+{'issuenumber': 390, 'title': 'Bug with shape layers', 'state': 'closed', 'created_at': '2017-07-18T10:42:37Z', 'closed_at': '2017-07-20T02:11:17Z', 'labels': []}
+{'issuenumber': 389, 'title': 'ArraySet NoClassDefFoundError on v2.1.0', 'state': 'closed', 'created_at': '2017-07-18T09:24:08Z', 'closed_at': '2017-07-20T02:08:01Z', 'labels': []}
+{'issuenumber': 388, 'title': 'Support centered text', 'state': 'closed', 'created_at': '2017-07-17T18:34:18Z', 'closed_at': '2018-12-26T18:50:32Z', 'labels': {'name': 'Text'}}
+{'issuenumber': 387, 'title': 'How best to implement the sequence of animations?', 'state': 'closed', 'created_at': '2017-07-17T06:55:46Z', 'closed_at': '2017-07-17T13:22:16Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 386, 'title': 'Set composition with cache strategy.', 'state': 'closed', 'created_at': '2017-07-14T08:51:19Z', 'closed_at': '2017-07-14T16:40:38Z', 'labels': []}
+{'issuenumber': 385, 'title': ' Continuous insertion of multiple animation scenes is a live gift animation muti Out of memory on a 6484-byte', 'state': 'closed', 'created_at': '2017-07-14T03:32:55Z', 'closed_at': '2017-08-09T01:25:23Z', 'labels': []}
+{'issuenumber': 384, 'title': 'X-/Y-Axis Problems with 3D Layers', 'state': 'closed', 'created_at': '2017-07-13T13:01:17Z', 'closed_at': '2017-11-28T21:51:31Z', 'labels': []}
+{'issuenumber': 383, 'title': 'useExperimentalHardwareAcceleration has a bug', 'state': 'closed', 'created_at': '2017-07-13T10:50:17Z', 'closed_at': '2017-07-26T01:53:33Z', 'labels': []}
+{'issuenumber': 382, 'title': 'Crash in Lottie ', 'state': 'closed', 'created_at': '2017-07-13T08:41:04Z', 'closed_at': '2017-08-27T20:44:32Z', 'labels': []}
+{'issuenumber': 381, 'title': 'Hardware automatic recognition', 'state': 'closed', 'created_at': '2017-07-13T03:55:52Z', 'closed_at': '2018-12-16T01:39:15Z', 'labels': {'name': 'New feature'}}
+{'issuenumber': 380, 'title': 'The Size is 2 times larger for wrap_content', 'state': 'closed', 'created_at': '2017-07-13T03:11:23Z', 'closed_at': '2017-09-20T00:05:54Z', 'labels': []}
+{'issuenumber': 379, 'title': 'LottieBoundsTest_01.json fullscreen crash', 'state': 'closed', 'created_at': '2017-07-12T06:47:46Z', 'closed_at': '2017-07-13T01:10:08Z', 'labels': []}
+{'issuenumber': 378, 'title': 'CompositionLoaded has been called, but the animation did not immediately show', 'state': 'closed', 'created_at': '2017-07-12T02:48:10Z', 'closed_at': '2017-07-13T01:06:10Z', 'labels': []}
+{'issuenumber': 377, 'title': 'How to play multiple animations at the same time', 'state': 'closed', 'created_at': '2017-07-12T02:21:47Z', 'closed_at': '2017-07-12T22:17:16Z', 'labels': []}
+{'issuenumber': 376, 'title': 'Animation not stop when LottieAnimationView become Invisible or Gone', 'state': 'closed', 'created_at': '2017-07-11T07:35:38Z', 'closed_at': '2019-07-21T21:52:44Z', 'labels': []}
+{'issuenumber': 375, 'title': 'Show wrong, how do i use it correctly?', 'state': 'closed', 'created_at': '2017-07-11T07:11:51Z', 'closed_at': '2017-07-20T02:32:47Z', 'labels': []}
+{'issuenumber': 374, 'title': '2.1 Release tag is missing', 'state': 'closed', 'created_at': '2017-07-09T10:47:44Z', 'closed_at': '2017-07-09T16:54:24Z', 'labels': []}
+{'issuenumber': 373, 'title': 'Lottie Android - Using Lottie Android with vector image (xml) or svg image?', 'state': 'closed', 'created_at': '2017-07-06T08:43:43Z', 'closed_at': '2017-07-10T14:19:19Z', 'labels': []}
+{'issuenumber': 371, 'title': 'Lottie animation not playing on android as previewed in lottie files.', 'state': 'closed', 'created_at': '2017-07-05T06:32:30Z', 'closed_at': '2017-07-27T02:09:03Z', 'labels': []}
+{'issuenumber': 370, 'title': ' W/LOTTIE: Unable to open asset.  java.io.FileNotFoundException: lottie/img_0.png', 'state': 'closed', 'created_at': '2017-07-05T06:25:45Z', 'closed_at': '2017-07-05T18:29:25Z', 'labels': []}
+{'issuenumber': 369, 'title': 'why addAnimatorUpdateListener not work', 'state': 'closed', 'created_at': '2017-07-04T14:53:36Z', 'closed_at': '2017-11-28T22:16:02Z', 'labels': []}
+{'issuenumber': 368, 'title': "Can't animate images from assets with setImageAssetsFolder", 'state': 'closed', 'created_at': '2017-07-03T12:49:26Z', 'closed_at': '2017-07-31T23:01:32Z', 'labels': []}
+{'issuenumber': 367, 'title': "Can't subtract paths/masks for iOS", 'state': 'closed', 'created_at': '2017-07-03T11:58:00Z', 'closed_at': '2017-07-05T18:31:55Z', 'labels': []}
+{'issuenumber': 365, 'title': 'Animation renders differently on Galaxy S8', 'state': 'closed', 'created_at': '2017-07-01T19:17:44Z', 'closed_at': '2017-12-14T20:13:18Z', 'labels': []}
+{'issuenumber': 363, 'title': 'Exception: IncompatibleClassChangeError', 'state': 'closed', 'created_at': '2017-06-30T03:25:02Z', 'closed_at': '2017-06-30T22:15:16Z', 'labels': []}
+{'issuenumber': 359, 'title': 'Masks not sequencing on android ', 'state': 'closed', 'created_at': '2017-06-29T15:54:31Z', 'closed_at': '2017-06-29T18:51:42Z', 'labels': []}
+{'issuenumber': 357, 'title': 'Unbalanced log.', 'state': 'closed', 'created_at': '2017-06-29T00:50:49Z', 'closed_at': '2017-06-29T02:34:44Z', 'labels': []}
+{'issuenumber': 356, 'title': 'Chinese version of the AE to do the animation, transparent background showing gray?', 'state': 'closed', 'created_at': '2017-06-28T12:38:54Z', 'closed_at': '2017-07-05T18:32:02Z', 'labels': []}
+{'issuenumber': 355, 'title': 'High GPU usage (enable GPU profiling)', 'state': 'closed', 'created_at': '2017-06-28T07:25:11Z', 'closed_at': '2017-06-29T02:36:52Z', 'labels': []}
+{'issuenumber': 354, 'title': 'LottieBoundsTest_01.json not exist', 'state': 'closed', 'created_at': '2017-06-27T07:27:59Z', 'closed_at': '2017-06-28T00:28:13Z', 'labels': []}
+{'issuenumber': 352, 'title': 'Improve the keyframe value caching', 'state': 'closed', 'created_at': '2017-06-27T04:17:32Z', 'closed_at': '2017-06-29T02:37:16Z', 'labels': []}
+{'issuenumber': 350, 'title': 'Add support for dynamic text', 'state': 'closed', 'created_at': '2017-06-26T17:10:30Z', 'closed_at': '2017-06-28T01:34:48Z', 'labels': []}
+{'issuenumber': 349, 'title': 'Add support for rendering from font assets rather then glyphs', 'state': 'closed', 'created_at': '2017-06-26T17:10:21Z', 'closed_at': '2017-06-28T01:34:48Z', 'labels': []}
+{'issuenumber': 348, 'title': 'Add support for render caching', 'state': 'closed', 'created_at': '2017-06-26T16:46:06Z', 'closed_at': '2018-07-09T06:12:44Z', 'labels': []}
+{'issuenumber': 345, 'title': 'BadParcelableException', 'state': 'closed', 'created_at': '2017-06-22T09:19:38Z', 'closed_at': '2017-06-29T06:56:57Z', 'labels': []}
+{'issuenumber': 344, 'title': "Gradient fill doesn't work in Lotti application", 'state': 'closed', 'created_at': '2017-06-22T08:52:13Z', 'closed_at': '2017-06-26T06:45:53Z', 'labels': []}
+{'issuenumber': 342, 'title': 'OutOfMemoryError', 'state': 'closed', 'created_at': '2017-06-16T18:58:17Z', 'closed_at': '2017-06-29T06:59:57Z', 'labels': []}
+{'issuenumber': 341, 'title': 'Performance with multiple AnimationViews in ViewPager', 'state': 'closed', 'created_at': '2017-06-15T09:49:33Z', 'closed_at': '2017-06-29T02:37:34Z', 'labels': []}
+{'issuenumber': 340, 'title': 'Change Animation Text Dynamically [Android/iOS]', 'state': 'closed', 'created_at': '2017-06-15T08:23:23Z', 'closed_at': '2017-06-20T16:23:30Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 339, 'title': 'Can we play the animation in intervals?', 'state': 'closed', 'created_at': '2017-06-15T08:21:10Z', 'closed_at': '2017-06-21T19:53:01Z', 'labels': []}
+{'issuenumber': 338, 'title': '[Feature request] initialize a LottieAnimationView with a remote url directly', 'state': 'closed', 'created_at': '2017-06-14T00:31:55Z', 'closed_at': '2017-06-14T18:19:30Z', 'labels': []}
+{'issuenumber': 337, 'title': 'Lagging with Android Animations using Lottie Json at same time', 'state': 'closed', 'created_at': '2017-06-12T19:44:14Z', 'closed_at': '2017-06-29T02:41:04Z', 'labels': []}
+{'issuenumber': 336, 'title': "The animation doesn't look smooth", 'state': 'closed', 'created_at': '2017-06-12T08:47:39Z', 'closed_at': '2017-06-14T18:19:44Z', 'labels': []}
+{'issuenumber': 335, 'title': 'Exception when trying to load composition from input stream', 'state': 'closed', 'created_at': '2017-06-11T16:22:30Z', 'closed_at': '2017-06-11T19:59:12Z', 'labels': []}
+{'issuenumber': 334, 'title': 'change color of pin ', 'state': 'closed', 'created_at': '2017-06-10T07:09:32Z', 'closed_at': '2017-06-10T17:45:49Z', 'labels': []}
+{'issuenumber': 332, 'title': "how can i apply LottieDrawable to textview's topdrawable?", 'state': 'closed', 'created_at': '2017-06-09T04:00:17Z', 'closed_at': '2017-06-09T07:29:11Z', 'labels': []}
+{'issuenumber': 331, 'title': 'You must set an images folder before loading an image.IllegalStateException', 'state': 'closed', 'created_at': '2017-06-08T10:30:52Z', 'closed_at': '2017-06-08T16:15:16Z', 'labels': []}
+{'issuenumber': 330, 'title': 'Add support for time remapping', 'state': 'closed', 'created_at': '2017-06-08T09:36:23Z', 'closed_at': '2017-06-29T22:58:09Z', 'labels': []}
+{'issuenumber': 329, 'title': 'About FPS fluency problem', 'state': 'closed', 'created_at': '2017-06-08T09:05:51Z', 'closed_at': '2017-06-12T23:58:15Z', 'labels': []}
+{'issuenumber': 328, 'title': 'play Animation lag bug', 'state': 'closed', 'created_at': '2017-06-07T07:16:31Z', 'closed_at': '2017-06-07T18:43:49Z', 'labels': []}
+{'issuenumber': 327, 'title': 'Memory Leak', 'state': 'closed', 'created_at': '2017-06-06T01:43:47Z', 'closed_at': '2017-06-29T06:25:19Z', 'labels': []}
+{'issuenumber': 326, 'title': 'Animation is cut off when LottieAnimationView is not big enough', 'state': 'closed', 'created_at': '2017-06-05T17:10:22Z', 'closed_at': '2017-06-30T05:37:59Z', 'labels': []}
+{'issuenumber': 325, 'title': 'A little delay when change json file', 'state': 'closed', 'created_at': '2017-06-05T08:20:01Z', 'closed_at': '2017-06-06T17:22:33Z', 'labels': []}
+{'issuenumber': 324, 'title': 'The last few frames are missing for file https://www.lottiefiles.com/296-react-logo', 'state': 'closed', 'created_at': '2017-06-04T17:47:31Z', 'closed_at': '2017-06-08T01:41:12Z', 'labels': []}
+{'issuenumber': 323, 'title': 'Animation timing drifts for a long animation (233s or more)', 'state': 'closed', 'created_at': '2017-06-02T16:33:25Z', 'closed_at': '2017-06-29T07:00:15Z', 'labels': []}
+{'issuenumber': 322, 'title': 'Animation freeze during reyclerview.notifyDataSetChanged();', 'state': 'closed', 'created_at': '2017-06-01T15:52:59Z', 'closed_at': '2017-06-02T17:19:11Z', 'labels': []}
+{'issuenumber': 321, 'title': 'UNMEET PEER DEPENCY react@15.3.2', 'state': 'closed', 'created_at': '2017-06-01T10:08:46Z', 'closed_at': '2017-06-01T20:11:56Z', 'labels': []}
+{'issuenumber': 319, 'title': 'JUnit asserts in production classes', 'state': 'closed', 'created_at': '2017-05-31T14:26:21Z', 'closed_at': '2017-06-08T01:45:04Z', 'labels': []}
+{'issuenumber': 318, 'title': "onAnimationEnd don't called", 'state': 'closed', 'created_at': '2017-05-31T13:15:10Z', 'closed_at': '2017-06-08T01:49:22Z', 'labels': []}
+{'issuenumber': 317, 'title': 'leaked', 'state': 'closed', 'created_at': '2017-05-31T08:45:54Z', 'closed_at': '2017-06-01T02:25:11Z', 'labels': []}
+{'issuenumber': 316, 'title': 'contrast', 'state': 'closed', 'created_at': '2017-05-31T06:05:47Z', 'closed_at': '2017-05-31T16:29:57Z', 'labels': []}
+{'issuenumber': 315, 'title': 'Animation size', 'state': 'closed', 'created_at': '2017-05-30T13:46:06Z', 'closed_at': '2017-06-29T06:59:33Z', 'labels': []}
+{'issuenumber': 314, 'title': 'How to reset a lottie a animtion ', 'state': 'closed', 'created_at': '2017-05-27T02:35:20Z', 'closed_at': '2017-05-29T18:56:53Z', 'labels': []}
+{'issuenumber': 313, 'title': 'Animation chains in Lottie', 'state': 'closed', 'created_at': '2017-05-26T18:15:42Z', 'closed_at': '2017-05-27T02:10:21Z', 'labels': []}
+{'issuenumber': 312, 'title': 'How to restore animation to first frame', 'state': 'closed', 'created_at': '2017-05-26T10:46:31Z', 'closed_at': '2017-05-27T02:07:38Z', 'labels': []}
+{'issuenumber': 311, 'title': 'Bug while rendering shape layers ', 'state': 'closed', 'created_at': '2017-05-25T10:46:58Z', 'closed_at': '2017-05-27T09:35:23Z', 'labels': []}
+{'issuenumber': 310, 'title': 'Pause/Resume restarts the animation on Samsung Galaxy S4/Note 3 5.0.1', 'state': 'closed', 'created_at': '2017-05-25T10:17:26Z', 'closed_at': '2017-09-10T18:30:26Z', 'labels': []}
+{'issuenumber': 309, 'title': 'needs >= 2 number of colors', 'state': 'closed', 'created_at': '2017-05-25T06:24:09Z', 'closed_at': '2017-07-20T02:07:41Z', 'labels': []}
+{'issuenumber': 308, 'title': 'BUG: Inaccurate custom ease', 'state': 'closed', 'created_at': '2017-05-24T18:13:35Z', 'closed_at': '2017-06-25T15:50:56Z', 'labels': []}
+{'issuenumber': 306, 'title': 'Add an option to ignore clip bounds', 'state': 'closed', 'created_at': '2017-05-22T22:49:18Z', 'closed_at': '2017-05-26T15:22:38Z', 'labels': []}
+{'issuenumber': 305, 'title': 'Lottie Drawable Scale is overridden with new composition', 'state': 'closed', 'created_at': '2017-05-18T23:23:27Z', 'closed_at': '2017-05-29T04:03:37Z', 'labels': []}
+{'issuenumber': 304, 'title': 'Inconsistent source and result animations', 'state': 'closed', 'created_at': '2017-05-18T08:14:31Z', 'closed_at': '2017-05-27T02:20:55Z', 'labels': []}
+{'issuenumber': 303, 'title': 'Android crash with Lottie', 'state': 'closed', 'created_at': '2017-05-17T12:08:53Z', 'closed_at': '2017-05-17T12:16:18Z', 'labels': []}
+{'issuenumber': 302, 'title': 'Native Android crashes with Lottie :/', 'state': 'closed', 'created_at': '2017-05-17T12:07:52Z', 'closed_at': '2017-05-17T12:10:30Z', 'labels': []}
+{'issuenumber': 301, 'title': 'It show error page when I use Lottie.', 'state': 'closed', 'created_at': '2017-05-17T03:06:38Z', 'closed_at': '2017-05-27T02:08:15Z', 'labels': []}
+{'issuenumber': 300, 'title': 'No animation on HTC m8', 'state': 'closed', 'created_at': '2017-05-15T22:35:16Z', 'closed_at': '2017-05-31T16:27:55Z', 'labels': []}
+{'issuenumber': 299, 'title': 'scale on api 16-17', 'state': 'closed', 'created_at': '2017-05-15T11:19:50Z', 'closed_at': '2017-05-29T18:56:22Z', 'labels': []}
+{'issuenumber': 298, 'title': 'does lottie support 3-d ae animation', 'state': 'closed', 'created_at': '2017-05-15T10:53:22Z', 'closed_at': '2017-05-20T21:12:24Z', 'labels': []}
+{'issuenumber': 296, 'title': 'app:lottie_cacheStrategy="strong" not working', 'state': 'closed', 'created_at': '2017-05-12T15:19:14Z', 'closed_at': '2017-05-29T19:09:31Z', 'labels': []}
+{'issuenumber': 295, 'title': 'Problem with Lottie and Glide: Listener not called nor image displayed when using Lottie in the same layout', 'state': 'closed', 'created_at': '2017-05-11T13:49:43Z', 'closed_at': '2017-05-29T18:49:28Z', 'labels': []}
+{'issuenumber': 294, 'title': 'Open image loading and cache module access permissions', 'state': 'closed', 'created_at': '2017-05-11T12:09:03Z', 'closed_at': '2017-05-29T19:18:56Z', 'labels': []}
+{'issuenumber': 292, 'title': 'Sample app - Option to paste Lottie Json Animation from Clipboard', 'state': 'closed', 'created_at': '2017-05-10T13:31:09Z', 'closed_at': '2017-05-29T18:10:13Z', 'labels': []}
+{'issuenumber': 291, 'title': 'Create a Scene/AnimationSet to sequence/loop sets of animations.', 'state': 'closed', 'created_at': '2017-05-09T19:49:57Z', 'closed_at': '2017-12-14T20:19:01Z', 'labels': []}
+{'issuenumber': 290, 'title': 'How do i use a json that refers to images without having them in the assets folder', 'state': 'closed', 'created_at': '2017-05-09T15:54:19Z', 'closed_at': '2017-05-09T19:10:36Z', 'labels': []}
+{'issuenumber': 288, 'title': 'Issue : The Path cannot loop back on itself', 'state': 'closed', 'created_at': '2017-05-09T08:29:31Z', 'closed_at': '2017-05-09T15:17:41Z', 'labels': []}
+{'issuenumber': 287, 'title': 'Is executing animation with fail', 'state': 'closed', 'created_at': '2017-05-08T13:49:28Z', 'closed_at': '2017-05-09T19:49:06Z', 'labels': []}
+{'issuenumber': 285, 'title': 'LottieAnimationView.onRestoreInstanceState(Parcelable state)  not call  setImageAssetsFolder()', 'state': 'closed', 'created_at': '2017-05-07T03:59:16Z', 'closed_at': '2017-05-07T20:50:33Z', 'labels': []}
+{'issuenumber': 284, 'title': 'Animation takes a long time to "show"', 'state': 'closed', 'created_at': '2017-05-06T02:46:19Z', 'closed_at': '2017-05-07T20:43:25Z', 'labels': []}
+{'issuenumber': 283, 'title': 'BaseKeyframeAnimation#addUpdateListener is called often', 'state': 'closed', 'created_at': '2017-05-04T23:46:04Z', 'closed_at': '2017-05-29T19:38:21Z', 'labels': []}
+{'issuenumber': 282, 'title': 'Expose synchronous file loading methods', 'state': 'closed', 'created_at': '2017-05-04T23:36:26Z', 'closed_at': '2017-05-07T20:51:43Z', 'labels': []}
+{'issuenumber': 281, 'title': 'Masking and Effect / Presets', 'state': 'closed', 'created_at': '2017-05-04T17:17:00Z', 'closed_at': '2017-05-09T17:33:08Z', 'labels': []}
+{'issuenumber': 280, 'title': 'When i use this to ListView, I have some problems;', 'state': 'closed', 'created_at': '2017-05-04T08:08:07Z', 'closed_at': '2017-05-08T03:36:09Z', 'labels': []}
+{'issuenumber': 279, 'title': 'Bad JSON opt calls', 'state': 'closed', 'created_at': '2017-05-03T20:25:20Z', 'closed_at': '2017-05-10T01:03:01Z', 'labels': []}
+{'issuenumber': 278, 'title': 'API-specific animation bug', 'state': 'closed', 'created_at': '2017-05-03T10:23:49Z', 'closed_at': '2017-05-15T18:51:34Z', 'labels': []}
+{'issuenumber': 277, 'title': '!Major. Animation is not played on HTC A9 6.0', 'state': 'closed', 'created_at': '2017-05-03T07:13:06Z', 'closed_at': '2017-05-03T07:36:09Z', 'labels': []}
+{'issuenumber': 276, 'title': 'Wicht is the proper way to trigger other events when animation gets to a certain point/progress', 'state': 'closed', 'created_at': '2017-05-03T06:40:31Z', 'closed_at': '2017-05-05T15:21:35Z', 'labels': []}
+{'issuenumber': 275, 'title': 'The Octopus animation looks like something is wrong', 'state': 'closed', 'created_at': '2017-05-03T02:50:43Z', 'closed_at': '2017-12-14T20:14:09Z', 'labels': []}
+{'issuenumber': 273, 'title': '2 Bugs and resolve methods about views with mask and margin and linearGradient with tranform ', 'state': 'closed', 'created_at': '2017-05-02T12:08:40Z', 'closed_at': '2017-05-09T15:54:38Z', 'labels': []}
+{'issuenumber': 272, 'title': 'Can we add touch listeners separately for every object in a json file?', 'state': 'closed', 'created_at': '2017-05-02T10:02:18Z', 'closed_at': '2017-05-03T17:38:21Z', 'labels': []}
+{'issuenumber': 271, 'title': 'Does Lotte Framework support svg files?', 'state': 'closed', 'created_at': '2017-05-02T09:58:29Z', 'closed_at': '2017-05-03T17:38:37Z', 'labels': []}
+{'issuenumber': 270, 'title': 'Unknown Crop! ', 'state': 'closed', 'created_at': '2017-04-28T15:45:56Z', 'closed_at': '2017-04-30T16:23:09Z', 'labels': []}
+{'issuenumber': 269, 'title': 'interaction issue', 'state': 'closed', 'created_at': '2017-04-27T14:48:49Z', 'closed_at': '2017-04-28T23:30:44Z', 'labels': []}
+{'issuenumber': 268, 'title': 'Proguard question', 'state': 'closed', 'created_at': '2017-04-27T11:06:36Z', 'closed_at': '2017-04-27T12:00:46Z', 'labels': []}
+{'issuenumber': 267, 'title': 'Add color filter sample code', 'state': 'closed', 'created_at': '2017-04-26T16:38:38Z', 'closed_at': '2017-05-01T23:44:00Z', 'labels': []}
+{'issuenumber': 266, 'title': 'When will v2.0 be released?', 'state': 'closed', 'created_at': '2017-04-26T01:54:44Z', 'closed_at': '2017-05-01T23:44:35Z', 'labels': []}
+{'issuenumber': 263, 'title': 'File not working when exported to .json Body Movin', 'state': 'closed', 'created_at': '2017-04-24T04:10:05Z', 'closed_at': '2017-04-24T20:23:32Z', 'labels': []}
+{'issuenumber': 262, 'title': 'GradientFillContent does not consider the transforms on gradient shader ', 'state': 'closed', 'created_at': '2017-04-23T16:32:41Z', 'closed_at': '2017-04-25T17:59:35Z', 'labels': []}
+{'issuenumber': 261, 'title': "ColorFilter doesn't work for layers used in secondary compositions", 'state': 'closed', 'created_at': '2017-04-21T13:32:53Z', 'closed_at': '2017-05-08T04:44:18Z', 'labels': []}
+{'issuenumber': 260, 'title': 'Rendering issue', 'state': 'closed', 'created_at': '2017-04-20T16:08:37Z', 'closed_at': '2017-05-07T23:10:44Z', 'labels': []}
+{'issuenumber': 259, 'title': 'White screen when play .json animation', 'state': 'closed', 'created_at': '2017-04-20T05:25:28Z', 'closed_at': '2017-04-24T11:42:55Z', 'labels': []}
+{'issuenumber': 255, 'title': '2.0beta setLayerType(LAYER_TYPE_HARDWARE) may cause gpu-memory leak', 'state': 'closed', 'created_at': '2017-04-18T06:10:54Z', 'closed_at': '2017-04-20T20:53:53Z', 'labels': []}
+{'issuenumber': 253, 'title': 'Allow adding color filter to the whole animation in XML', 'state': 'closed', 'created_at': '2017-04-13T19:51:14Z', 'closed_at': '2017-04-25T17:58:46Z', 'labels': []}
+{'issuenumber': 252, 'title': 'Wrong indexer in an inner loop', 'state': 'closed', 'created_at': '2017-04-12T14:27:47Z', 'closed_at': '2017-04-19T16:44:48Z', 'labels': []}
+{'issuenumber': 251, 'title': 'PathKeyframe "to" and "ti" calculation error.', 'state': 'closed', 'created_at': '2017-04-12T07:34:20Z', 'closed_at': '2017-04-19T16:44:48Z', 'labels': []}
+{'issuenumber': 250, 'title': 'Switch source in animator listener: animation freezes', 'state': 'closed', 'created_at': '2017-04-12T01:34:29Z', 'closed_at': '2017-04-22T20:23:35Z', 'labels': []}
+{'issuenumber': 249, 'title': 'Apply scale to trim path offset', 'state': 'closed', 'created_at': '2017-04-08T06:55:45Z', 'closed_at': '2017-12-14T20:18:37Z', 'labels': []}
+{'issuenumber': 247, 'title': 'No log message when json file not found. ', 'state': 'closed', 'created_at': '2017-04-07T18:23:44Z', 'closed_at': '2017-04-08T09:49:52Z', 'labels': []}
+{'issuenumber': 245, 'title': 'Compatibility problem', 'state': 'closed', 'created_at': '2017-04-07T03:56:27Z', 'closed_at': '2017-04-07T07:11:31Z', 'labels': []}
+{'issuenumber': 244, 'title': "cann't install the app", 'state': 'closed', 'created_at': '2017-04-07T03:22:58Z', 'closed_at': '2017-04-07T05:34:02Z', 'labels': []}
+{'issuenumber': 242, 'title': 'Strange lines on rounded rectangle shape', 'state': 'closed', 'created_at': '2017-04-06T13:38:28Z', 'closed_at': '2017-04-08T07:06:14Z', 'labels': []}
+{'issuenumber': 240, 'title': 'Add possibility to apply scale', 'state': 'closed', 'created_at': '2017-04-04T13:40:50Z', 'closed_at': '2017-04-05T05:16:34Z', 'labels': []}
+{'issuenumber': 239, 'title': 'Adding Color Filter crashed', 'state': 'closed', 'created_at': '2017-04-03T15:14:00Z', 'closed_at': '2017-04-05T05:13:13Z', 'labels': []}
+{'issuenumber': 238, 'title': 'Which is the most stable version for now', 'state': 'closed', 'created_at': '2017-04-01T16:22:21Z', 'closed_at': '2017-04-02T20:56:32Z', 'labels': []}
+{'issuenumber': 237, 'title': 'File working in demo - excluding features in JSON file', 'state': 'closed', 'created_at': '2017-03-31T00:59:27Z', 'closed_at': '2017-05-01T23:44:57Z', 'labels': []}
+{'issuenumber': 236, 'title': 'Particular animation crashes 2.0.0', 'state': 'closed', 'created_at': '2017-03-30T15:32:30Z', 'closed_at': '2017-04-05T06:31:42Z', 'labels': []}
+{'issuenumber': 235, 'title': "There's a Exception to load json file, I provide the json", 'state': 'closed', 'created_at': '2017-03-30T02:42:40Z', 'closed_at': '2017-03-30T05:40:30Z', 'labels': []}
+{'issuenumber': 233, 'title': 'Major issue with trim paths in 1.5.3. Has this been fixed already?', 'state': 'closed', 'created_at': '2017-03-28T20:31:53Z', 'closed_at': '2017-03-28T20:41:03Z', 'labels': []}
+{'issuenumber': 232, 'title': 'Rendering problem', 'state': 'closed', 'created_at': '2017-03-28T15:44:53Z', 'closed_at': '2017-04-20T20:43:45Z', 'labels': []}
+{'issuenumber': 230, 'title': 'Issue on S7 edge', 'state': 'closed', 'created_at': '2017-03-28T12:28:00Z', 'closed_at': '2017-04-19T11:57:23Z', 'labels': []}
+{'issuenumber': 229, 'title': 'After converting to json format, the animation is not displayed in the android project！', 'state': 'closed', 'created_at': '2017-03-28T08:53:38Z', 'closed_at': '2017-03-30T05:41:14Z', 'labels': []}
+{'issuenumber': 227, 'title': 'Something strange on Api 16', 'state': 'closed', 'created_at': '2017-03-27T14:32:13Z', 'closed_at': '2017-03-30T05:38:46Z', 'labels': []}
+{'issuenumber': 226, 'title': "Animation working on iOS doesn't work as expected on Android", 'state': 'closed', 'created_at': '2017-03-27T14:04:22Z', 'closed_at': '2017-04-08T06:55:53Z', 'labels': []}
+{'issuenumber': 225, 'title': 'LottieAnimationView setProgress() not working as expected', 'state': 'closed', 'created_at': '2017-03-27T10:46:15Z', 'closed_at': '2017-03-28T00:34:45Z', 'labels': []}
+{'issuenumber': 224, 'title': 'Failed to load json file', 'state': 'closed', 'created_at': '2017-03-27T02:48:53Z', 'closed_at': '2017-03-30T06:35:34Z', 'labels': []}
+{'issuenumber': 223, 'title': 'Opacity applied to individual elements', 'state': 'closed', 'created_at': '2017-03-26T16:25:11Z', 'closed_at': '2017-09-04T00:53:03Z', 'labels': []}
+{'issuenumber': 222, 'title': 'lottieAnimationView.cancelAnimation() is cancelling the animation with distorted image.', 'state': 'closed', 'created_at': '2017-03-26T08:46:28Z', 'closed_at': '2017-04-05T05:11:29Z', 'labels': []}
+{'issuenumber': 221, 'title': 'There are some white dots twinkling when the width/height of AnimationView is small.', 'state': 'closed', 'created_at': '2017-03-25T14:18:38Z', 'closed_at': '2017-04-09T15:20:58Z', 'labels': []}
+{'issuenumber': 220, 'title': 'Is there a FOSS collection of animation files that can be used with this?', 'state': 'closed', 'created_at': '2017-03-25T12:15:52Z', 'closed_at': '2017-03-25T15:02:02Z', 'labels': []}
+{'issuenumber': 218, 'title': 'Text support in animation', 'state': 'closed', 'created_at': '2017-03-23T14:06:20Z', 'closed_at': '2017-03-23T14:19:50Z', 'labels': []}
+{'issuenumber': 217, 'title': 'After Effects file for making custom viewController transitions ', 'state': 'closed', 'created_at': '2017-03-23T12:08:10Z', 'closed_at': '2017-03-23T12:27:26Z', 'labels': []}
+{'issuenumber': 216, 'title': 'add support for puppet tool', 'state': 'closed', 'created_at': '2017-03-23T07:00:01Z', 'closed_at': '2017-03-23T12:28:55Z', 'labels': []}
+{'issuenumber': 215, 'title': 'Animation speed/duration/velocity', 'state': 'closed', 'created_at': '2017-03-22T14:49:59Z', 'closed_at': '2017-03-24T18:15:03Z', 'labels': []}
+{'issuenumber': 213, 'title': 'Masks and strokes', 'state': 'closed', 'created_at': '2017-03-21T21:25:16Z', 'closed_at': '2017-03-22T07:07:03Z', 'labels': []}
+{'issuenumber': 211, 'title': 'use generic on Float cause too many auto-boxing/auto-unboxing', 'state': 'closed', 'created_at': '2017-03-21T03:37:11Z', 'closed_at': '2017-12-14T20:15:09Z', 'labels': []}
+{'issuenumber': 210, 'title': 'NullPointerException: pathGroups can contain null entry', 'state': 'closed', 'created_at': '2017-03-20T15:58:50Z', 'closed_at': '2017-03-24T19:05:32Z', 'labels': []}
+{'issuenumber': 208, 'title': "The mask doesn't work. Does Lottie support mask? Thanks ", 'state': 'closed', 'created_at': '2017-03-20T06:38:36Z', 'closed_at': '2017-03-24T22:16:39Z', 'labels': []}
+{'issuenumber': 203, 'title': 'How to make  any random name  json animation like Lottie name.', 'state': 'closed', 'created_at': '2017-03-18T23:05:25Z', 'closed_at': '2017-03-19T17:57:38Z', 'labels': []}
+{'issuenumber': 202, 'title': 'Using LottieAnimationView in listview', 'state': 'closed', 'created_at': '2017-03-18T05:48:50Z', 'closed_at': '2017-03-19T21:58:55Z', 'labels': []}
+{'issuenumber': 200, 'title': 'Compound paths rendering as solid rectangles in Lottie animation', 'state': 'closed', 'created_at': '2017-03-16T15:22:14Z', 'closed_at': '2017-03-16T20:28:04Z', 'labels': []}
+{'issuenumber': 198, 'title': 'isAnimating() still true when pausing animation', 'state': 'closed', 'created_at': '2017-03-15T16:42:47Z', 'closed_at': '2017-03-15T19:37:48Z', 'labels': []}
+{'issuenumber': 197, 'title': 'Crash: Curves must have the same number of control points', 'state': 'closed', 'created_at': '2017-03-15T13:13:49Z', 'closed_at': '2017-03-16T15:54:53Z', 'labels': []}
+{'issuenumber': 196, 'title': 'Why cant I open .json in Phone ? FileNotFoundException ', 'state': 'closed', 'created_at': '2017-03-15T08:25:08Z', 'closed_at': '2017-03-27T01:20:06Z', 'labels': []}
+{'issuenumber': 195, 'title': 'Support Gradient Stroke', 'state': 'closed', 'created_at': '2017-03-15T03:28:46Z', 'closed_at': '2017-03-20T05:30:58Z', 'labels': []}
+{'issuenumber': 194, 'title': 'add support for repeaters', 'state': 'closed', 'created_at': '2017-03-14T05:23:27Z', 'closed_at': '2017-07-01T18:52:01Z', 'labels': []}
+{'issuenumber': 193, 'title': 'LottieAnimationView with autoplay and loop=true consume memory when activity destroyed', 'state': 'closed', 'created_at': '2017-03-13T17:18:10Z', 'closed_at': '2017-03-15T19:22:20Z', 'labels': []}
+{'issuenumber': 192, 'title': 'support of full screen animation?', 'state': 'closed', 'created_at': '2017-03-13T07:44:29Z', 'closed_at': '2017-03-15T19:24:01Z', 'labels': []}
+{'issuenumber': 191, 'title': 'Possible bug while loading via Java code', 'state': 'closed', 'created_at': '2017-03-12T16:09:59Z', 'closed_at': '2017-03-12T16:21:20Z', 'labels': []}
+{'issuenumber': 187, 'title': 'Animation does not load', 'state': 'closed', 'created_at': '2017-03-10T10:54:44Z', 'closed_at': '2017-03-10T17:07:25Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 186, 'title': 'When insert my json file in LottieAnimationView a “error null object reference” occurred (Android)', 'state': 'closed', 'created_at': '2017-03-10T10:54:11Z', 'closed_at': '2017-03-16T20:28:29Z', 'labels': []}
+{'issuenumber': 185, 'title': 'Inconsistent behaviour between iOS and Android for the same animation  ', 'state': 'closed', 'created_at': '2017-03-10T10:17:32Z', 'closed_at': '2017-03-12T05:53:58Z', 'labels': []}
+{'issuenumber': 183, 'title': "Android lottie player doesn't allow you to refresh Drive from within the app", 'state': 'closed', 'created_at': '2017-03-07T22:24:02Z', 'closed_at': '2017-03-08T07:30:31Z', 'labels': []}
+{'issuenumber': 182, 'title': 'Artifacting when using strokes on bezier paths in a shape layer in AE', 'state': 'closed', 'created_at': '2017-03-07T21:51:27Z', 'closed_at': '2017-03-15T19:01:30Z', 'labels': []}
+{'issuenumber': 180, 'title': 'LottieDrawable needs public access for APIs', 'state': 'closed', 'created_at': '2017-03-06T19:59:56Z', 'closed_at': '2017-03-12T05:54:14Z', 'labels': []}
+{'issuenumber': 177, 'title': 'Support Image from sdcard instead of assets', 'state': 'closed', 'created_at': '2017-03-06T04:00:48Z', 'closed_at': '2017-03-06T05:13:01Z', 'labels': []}
+{'issuenumber': 174, 'title': 'playAnimation() does nothing on 2nd call in Android', 'state': 'closed', 'created_at': '2017-03-02T17:39:45Z', 'closed_at': '2017-03-02T23:13:11Z', 'labels': []}
+{'issuenumber': 173, 'title': 'Add support for text', 'state': 'closed', 'created_at': '2017-03-02T11:13:51Z', 'closed_at': '2017-06-26T16:51:19Z', 'labels': []}
+{'issuenumber': 172, 'title': 'Some prombles with alpha anim during animtion which has images', 'state': 'closed', 'created_at': '2017-03-02T10:50:03Z', 'closed_at': '2017-03-02T22:47:13Z', 'labels': []}
+{'issuenumber': 171, 'title': 'Animated Typography - bug', 'state': 'closed', 'created_at': '2017-03-01T17:34:41Z', 'closed_at': '2017-03-06T05:10:41Z', 'labels': []}
+{'issuenumber': 170, 'title': 'Make LottieDrawable stateful', 'state': 'closed', 'created_at': '2017-02-28T07:47:12Z', 'closed_at': '2017-03-12T05:55:13Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 168, 'title': "addAnimatorListener Doens't give call backs on 2G networks", 'state': 'closed', 'created_at': '2017-02-28T03:10:23Z', 'closed_at': '2017-02-28T03:20:15Z', 'labels': []}
+{'issuenumber': 167, 'title': 'Improve the performance of mattes and masks', 'state': 'closed', 'created_at': '2017-02-28T00:17:18Z', 'closed_at': '2017-03-19T21:21:13Z', 'labels': []}
+{'issuenumber': 165, 'title': 'Significant rendering performance issue in v1.5.x as compared to v1.0.x', 'state': 'closed', 'created_at': '2017-02-25T21:30:42Z', 'closed_at': '2017-02-27T21:58:03Z', 'labels': []}
+{'issuenumber': 163, 'title': 'Min SDK version', 'state': 'closed', 'created_at': '2017-02-24T07:58:10Z', 'closed_at': '2017-02-24T08:10:36Z', 'labels': []}
+{'issuenumber': 162, 'title': 'please tell me how to realize the last function in"Example3.gif ",thanks', 'state': 'closed', 'created_at': '2017-02-24T06:52:22Z', 'closed_at': '2017-02-24T07:16:39Z', 'labels': []}
+{'issuenumber': 161, 'title': 'Animation gets clipped when view has a fixed size', 'state': 'closed', 'created_at': '2017-02-24T05:16:18Z', 'closed_at': '2017-02-28T03:20:32Z', 'labels': []}
+{'issuenumber': 159, 'title': 'Make LottieAnimationView drop-in replacement of ImageView', 'state': 'closed', 'created_at': '2017-02-24T02:20:37Z', 'closed_at': '2017-03-06T06:40:25Z', 'labels': []}
+{'issuenumber': 158, 'title': 'Add support for fill rules', 'state': 'closed', 'created_at': '2017-02-23T21:47:41Z', 'closed_at': '2017-03-10T08:23:02Z', 'labels': []}
+{'issuenumber': 156, 'title': 'Allow setting cache strategy in xml', 'state': 'closed', 'created_at': '2017-02-23T16:05:07Z', 'closed_at': '2017-02-24T02:04:12Z', 'labels': []}
+{'issuenumber': 154, 'title': 'animation balls not reaching below their starting point', 'state': 'closed', 'created_at': '2017-02-23T12:23:44Z', 'closed_at': '2017-02-24T02:12:52Z', 'labels': []}
+{'issuenumber': 153, 'title': 'ConcurrentModificationException', 'state': 'closed', 'created_at': '2017-02-23T09:21:51Z', 'closed_at': '2017-02-23T22:34:16Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 151, 'title': 'how to support hardware acceleration', 'state': 'closed', 'created_at': '2017-02-23T08:42:30Z', 'closed_at': '2017-03-19T22:15:40Z', 'labels': []}
+{'issuenumber': 149, 'title': 'Add a `==` check in setComposition', 'state': 'closed', 'created_at': '2017-02-22T21:27:23Z', 'closed_at': '2017-02-24T03:51:05Z', 'labels': []}
+{'issuenumber': 148, 'title': 'ConcurrentModificationException', 'state': 'closed', 'created_at': '2017-02-22T18:23:52Z', 'closed_at': '2017-02-24T00:00:31Z', 'labels': []}
+{'issuenumber': 147, 'title': 'Assets question', 'state': 'closed', 'created_at': '2017-02-22T08:40:49Z', 'closed_at': '2017-02-24T02:15:20Z', 'labels': []}
+{'issuenumber': 143, 'title': 'LottieAnimationView and image assets folder', 'state': 'closed', 'created_at': '2017-02-21T12:50:55Z', 'closed_at': '2017-02-21T21:47:51Z', 'labels': []}
+{'issuenumber': 142, 'title': 'Want to support random algorithm', 'state': 'closed', 'created_at': '2017-02-21T11:51:58Z', 'closed_at': '2017-02-21T21:48:44Z', 'labels': []}
+{'issuenumber': 141, 'title': 'Add copyright to source code ', 'state': 'closed', 'created_at': '2017-02-21T11:30:05Z', 'closed_at': '2017-02-21T17:50:44Z', 'labels': []}
+{'issuenumber': 138, 'title': 'Investigate dynamic coloring', 'state': 'closed', 'created_at': '2017-02-21T03:08:29Z', 'closed_at': '2017-03-24T18:48:56Z', 'labels': []}
+{'issuenumber': 135, 'title': 'Add a null check around getCallback()', 'state': 'closed', 'created_at': '2017-02-20T20:56:35Z', 'closed_at': '2017-02-20T22:49:27Z', 'labels': []}
+{'issuenumber': 133, 'title': 'Make LottieComposition properties getters public', 'state': 'closed', 'created_at': '2017-02-20T15:42:45Z', 'closed_at': '2017-02-20T20:04:18Z', 'labels': []}
+{'issuenumber': 129, 'title': 'about json file define', 'state': 'closed', 'created_at': '2017-02-20T01:48:51Z', 'closed_at': '2017-02-20T03:14:41Z', 'labels': []}
+{'issuenumber': 123, 'title': 'Lot of unnecessary try/catch blocks in parsing code', 'state': 'closed', 'created_at': '2017-02-17T22:06:42Z', 'closed_at': '2017-02-19T04:40:42Z', 'labels': []}
+{'issuenumber': 122, 'title': 'Unnecessary memory allocations in NumberKeyframeAnimation', 'state': 'closed', 'created_at': '2017-02-17T21:59:09Z', 'closed_at': '2017-02-20T09:05:15Z', 'labels': []}
+{'issuenumber': 120, 'title': 'Add support for trim path,track mattes', 'state': 'closed', 'created_at': '2017-02-17T07:22:03Z', 'closed_at': '2017-02-18T01:51:47Z', 'labels': []}
+{'issuenumber': 119, 'title': 'Just for telling you.', 'state': 'closed', 'created_at': '2017-02-17T07:14:30Z', 'closed_at': '2017-02-18T02:58:37Z', 'labels': []}
+{'issuenumber': 116, 'title': 'High CPU usage', 'state': 'closed', 'created_at': '2017-02-17T02:24:29Z', 'closed_at': '2017-02-17T02:59:50Z', 'labels': []}
+{'issuenumber': 113, 'title': 'Add support for mask expansion', 'state': 'closed', 'created_at': '2017-02-16T21:10:15Z', 'closed_at': '2020-12-28T07:10:16Z', 'labels': {'name': 'New feature'}}
+{'issuenumber': 112, 'title': 'Animation max size', 'state': 'closed', 'created_at': '2017-02-16T16:35:16Z', 'closed_at': '2017-02-24T03:57:07Z', 'labels': []}
+{'issuenumber': 109, 'title': 'AnimatableIntegerValue on a null object reference', 'state': 'closed', 'created_at': '2017-02-16T03:40:49Z', 'closed_at': '2017-02-16T07:03:37Z', 'labels': []}
+{'issuenumber': 108, 'title': 'test animate typography  error', 'state': 'closed', 'created_at': '2017-02-16T03:33:17Z', 'closed_at': '2017-02-16T05:47:23Z', 'labels': []}
+{'issuenumber': 107, 'title': 'Rectangle size animation bugs', 'state': 'closed', 'created_at': '2017-02-14T05:31:31Z', 'closed_at': '2020-12-27T09:18:14Z', 'labels': []}
+{'issuenumber': 106, 'title': 'Support rounded corners outside of a rectangle properties.', 'state': 'closed', 'created_at': '2017-02-14T05:02:38Z', 'closed_at': '2021-12-17T13:30:45Z', 'labels': []}
+{'issuenumber': 105, 'title': 'Use GammaEvaluator instead of ArgbEvaluator', 'state': 'closed', 'created_at': '2017-02-14T02:25:00Z', 'closed_at': '2017-02-16T08:22:27Z', 'labels': []}
+{'issuenumber': 103, 'title': 'getProgress retrun awlays zero.', 'state': 'closed', 'created_at': '2017-02-14T01:12:38Z', 'closed_at': '2017-02-14T19:06:18Z', 'labels': []}
+{'issuenumber': 102, 'title': 'Add support for alpha inverted masks', 'state': 'closed', 'created_at': '2017-02-13T21:59:20Z', 'closed_at': '2017-02-20T09:09:19Z', 'labels': []}
+{'issuenumber': 101, 'title': 'Add support for merge paths', 'state': 'closed', 'created_at': '2017-02-13T21:59:07Z', 'closed_at': '2017-03-16T20:24:19Z', 'labels': []}
+{'issuenumber': 100, 'title': 'Animation not working on mobile', 'state': 'closed', 'created_at': '2017-02-13T20:04:21Z', 'closed_at': '2017-02-13T23:14:14Z', 'labels': []}
+{'issuenumber': 99, 'title': "I can't play Annimation from the sample app", 'state': 'closed', 'created_at': '2017-02-13T15:11:30Z', 'closed_at': '2017-02-13T18:25:33Z', 'labels': []}
+{'issuenumber': 98, 'title': 'Add support for Polystars', 'state': 'closed', 'created_at': '2017-02-13T12:08:04Z', 'closed_at': '2017-02-18T23:17:37Z', 'labels': []}
+{'issuenumber': 97, 'title': 'Does lottie support assets image?', 'state': 'closed', 'created_at': '2017-02-13T06:46:41Z', 'closed_at': '2017-02-13T06:48:06Z', 'labels': []}
+{'issuenumber': 96, 'title': 'Subtitle text in example GIF is wrong', 'state': 'closed', 'created_at': '2017-02-13T05:16:23Z', 'closed_at': '2017-02-15T19:52:49Z', 'labels': []}
+{'issuenumber': 94, 'title': 'MAXIS', 'state': 'closed', 'created_at': '2017-02-12T20:19:38Z', 'closed_at': '2017-02-13T08:01:42Z', 'labels': []}
+{'issuenumber': 93, 'title': 'LottieDrawable is package visible in v1.0.2', 'state': 'closed', 'created_at': '2017-02-12T13:16:33Z', 'closed_at': '2017-02-20T08:49:15Z', 'labels': []}
+{'issuenumber': 92, 'title': 'how to reverse animation?', 'state': 'closed', 'created_at': '2017-02-12T09:00:55Z', 'closed_at': '2017-02-13T07:59:59Z', 'labels': []}
+{'issuenumber': 91, 'title': 'HOTLI', 'state': 'closed', 'created_at': '2017-02-12T02:54:37Z', 'closed_at': '2017-02-12T15:42:02Z', 'labels': []}
+{'issuenumber': 90, 'title': 'MAXIS', 'state': 'closed', 'created_at': '2017-02-12T02:51:20Z', 'closed_at': '2017-02-12T15:42:13Z', 'labels': []}
+{'issuenumber': 89, 'title': 'Execute CompositionLoader classes with the Thread Pool Executor', 'state': 'closed', 'created_at': '2017-02-10T19:26:49Z', 'closed_at': '2017-02-22T05:11:03Z', 'labels': []}
+{'issuenumber': 86, 'title': 'About licencing issues', 'state': 'closed', 'created_at': '2017-02-10T05:51:17Z', 'closed_at': '2017-02-13T08:01:48Z', 'labels': []}
+{'issuenumber': 85, 'title': 'Apply stroke trim path to fill as well', 'state': 'closed', 'created_at': '2017-02-09T22:40:20Z', 'closed_at': '2017-02-13T08:16:24Z', 'labels': []}
+{'issuenumber': 84, 'title': 'Support trim paths on rectangles', 'state': 'closed', 'created_at': '2017-02-09T20:59:19Z', 'closed_at': '2017-02-15T19:49:15Z', 'labels': []}
+{'issuenumber': 80, 'title': 'Support trim path offset', 'state': 'closed', 'created_at': '2017-02-08T18:00:03Z', 'closed_at': '2017-02-13T08:02:04Z', 'labels': []}
+{'issuenumber': 79, 'title': 'Set progress to 1 if the user has animations turned off', 'state': 'closed', 'created_at': '2017-02-08T07:21:53Z', 'closed_at': '2017-02-09T06:46:06Z', 'labels': []}
+{'issuenumber': 78, 'title': 'gradle error for instant run', 'state': 'closed', 'created_at': '2017-02-08T07:14:23Z', 'closed_at': '2017-02-08T07:17:31Z', 'labels': []}
+{'issuenumber': 77, 'title': 'Reduce support library version', 'state': 'closed', 'created_at': '2017-02-08T06:10:40Z', 'closed_at': '2017-02-08T20:31:35Z', 'labels': []}
+{'issuenumber': 75, 'title': 'Support animating trim paths on multiple shapes individually', 'state': 'closed', 'created_at': '2017-02-07T00:58:44Z', 'closed_at': '2017-03-20T01:58:27Z', 'labels': []}
+{'issuenumber': 74, 'title': 'Hope you can make Lottie supports Ice Cream Sandwich(API 14) ,that will be very nice^o^', 'state': 'closed', 'created_at': '2017-02-07T00:42:11Z', 'closed_at': '2017-02-07T20:57:46Z', 'labels': []}
+{'issuenumber': 73, 'title': 'After Effects Samples', 'state': 'closed', 'created_at': '2017-02-06T17:58:58Z', 'closed_at': '2017-02-06T20:55:29Z', 'labels': []}
+{'issuenumber': 72, 'title': 'Crash on master with my animation', 'state': 'closed', 'created_at': '2017-02-06T08:28:33Z', 'closed_at': '2017-02-09T06:32:01Z', 'labels': []}
+{'issuenumber': 71, 'title': 'Add image support', 'state': 'closed', 'created_at': '2017-02-06T06:06:53Z', 'closed_at': '2017-02-23T23:58:06Z', 'labels': []}
+{'issuenumber': 70, 'title': 'Create HoldAnimator for hold keyframes', 'state': 'closed', 'created_at': '2017-02-06T05:01:45Z', 'closed_at': '2017-02-16T08:22:52Z', 'labels': []}
+{'issuenumber': 69, 'title': 'Minimum supported Gradle version is 3.3. Current version is 2.14.1', 'state': 'closed', 'created_at': '2017-02-06T03:00:02Z', 'closed_at': '2017-02-06T03:50:42Z', 'labels': []}
+{'issuenumber': 66, 'title': 'Big', 'state': 'closed', 'created_at': '2017-02-05T03:20:25Z', 'closed_at': '2017-02-05T05:56:25Z', 'labels': []}
+{'issuenumber': 65, 'title': '[Bug] Lottie is not releasing memory even after activity/fragment is destroyed.', 'state': 'closed', 'created_at': '2017-02-04T19:05:54Z', 'closed_at': '2017-02-08T07:16:14Z', 'labels': []}
+{'issuenumber': 64, 'title': 'Change minSdkVersion', 'state': 'closed', 'created_at': '2017-02-04T10:03:22Z', 'closed_at': '2017-02-09T06:58:28Z', 'labels': []}
+{'issuenumber': 63, 'title': 'Crash in Animated Typography Sample', 'state': 'closed', 'created_at': '2017-02-04T03:46:39Z', 'closed_at': '2017-02-04T03:54:11Z', 'labels': []}
+{'issuenumber': 62, 'title': 'Adding templates for issues and Pull Requests', 'state': 'closed', 'created_at': '2017-02-04T00:26:11Z', 'closed_at': '2017-02-04T03:39:16Z', 'labels': []}
+{'issuenumber': 61, 'title': 'Pre-composition support', 'state': 'closed', 'created_at': '2017-02-03T23:25:05Z', 'closed_at': '2017-02-23T21:48:09Z', 'labels': []}
+{'issuenumber': 60, 'title': 'Included sample graphics rights', 'state': 'closed', 'created_at': '2017-02-03T22:43:15Z', 'closed_at': '2017-02-16T23:28:39Z', 'labels': []}
+{'issuenumber': 59, 'title': 'Unsynchronized cache construction', 'state': 'closed', 'created_at': '2017-02-03T20:53:27Z', 'closed_at': '2017-02-09T07:12:19Z', 'labels': []}
+{'issuenumber': 58, 'title': 'Provide script to strip unused bodymovin features', 'state': 'closed', 'created_at': '2017-02-03T20:49:46Z', 'closed_at': '2017-02-06T03:42:46Z', 'labels': []}
+{'issuenumber': 57, 'title': "Doesn't work in AE CS6?", 'state': 'closed', 'created_at': '2017-02-03T16:41:05Z', 'closed_at': '2017-02-04T02:47:25Z', 'labels': []}
+{'issuenumber': 56, 'title': 'regarding dos attck detection  program in java', 'state': 'closed', 'created_at': '2017-02-03T16:24:24Z', 'closed_at': '2017-02-03T17:03:10Z', 'labels': []}
+{'issuenumber': 55, 'title': 'Problems in Sample Code', 'state': 'closed', 'created_at': '2017-02-03T12:00:33Z', 'closed_at': '2017-02-03T17:10:18Z', 'labels': []}
+{'issuenumber': 51, 'title': 'Letters disappears on changing the screen orientation in FontActivity of Sample App', 'state': 'closed', 'created_at': '2017-02-03T00:02:42Z', 'closed_at': '2017-02-04T02:42:46Z', 'labels': []}
+{'issuenumber': 47, 'title': 'Support Gradient fills', 'state': 'closed', 'created_at': '2017-02-02T21:36:10Z', 'closed_at': '2017-05-09T15:54:38Z', 'labels': []}
+{'issuenumber': 46, 'title': 'Support stroke width on ellipses', 'state': 'closed', 'created_at': '2017-02-02T19:25:53Z', 'closed_at': '2017-02-02T21:58:43Z', 'labels': []}
+{'issuenumber': 45, 'title': 'Not building on Ubuntu 16.04, Studio 2.2', 'state': 'closed', 'created_at': '2017-02-02T19:12:06Z', 'closed_at': '2017-02-03T00:31:36Z', 'labels': []}
+{'issuenumber': 44, 'title': 'Add mention of NativeScript plugin', 'state': 'closed', 'created_at': '2017-02-02T19:00:19Z', 'closed_at': '2017-02-02T22:53:09Z', 'labels': []}
+{'issuenumber': 43, 'title': 'Lottie android Renders differently ', 'state': 'closed', 'created_at': '2017-02-02T18:05:28Z', 'closed_at': '2017-02-09T21:44:58Z', 'labels': []}
+{'issuenumber': 41, 'title': 'NullPointerException at AnimatableIntegerValue', 'state': 'closed', 'created_at': '2017-02-02T15:43:29Z', 'closed_at': '2017-02-02T23:05:14Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 40, 'title': 'Flatbuffers instead of JSON; Would reduce memory overhead', 'state': 'closed', 'created_at': '2017-02-02T15:31:30Z', 'closed_at': '2017-02-02T18:21:39Z', 'labels': []}
+{'issuenumber': 39, 'title': 'OutOfMemoryError when loading a ludicrously huge JSON animation on a Galaxy S3', 'state': 'closed', 'created_at': '2017-02-02T15:30:32Z', 'closed_at': '2018-01-09T20:45:01Z', 'labels': []}
+{'issuenumber': 37, 'title': "Trying to use LottieDrawable: animation doesn't start", 'state': 'closed', 'created_at': '2017-02-02T13:28:29Z', 'closed_at': '2017-02-02T22:41:54Z', 'labels': []}
+{'issuenumber': 36, 'title': 'Support separated x and y values for points', 'state': 'closed', 'created_at': '2017-02-02T13:06:21Z', 'closed_at': '2017-02-04T02:49:30Z', 'labels': []}
+{'issuenumber': 35, 'title': 'Cannot select json file stored locally', 'state': 'closed', 'created_at': '2017-02-02T08:20:40Z', 'closed_at': '2017-02-03T01:02:20Z', 'labels': []}
+{'issuenumber': 34, 'title': ' com.airbnb.lottie.LottieAnimationView crashes', 'state': 'closed', 'created_at': '2017-02-02T07:05:25Z', 'closed_at': '2017-02-09T07:07:19Z', 'labels': []}
+{'issuenumber': 33, 'title': 'Whether can Lottie run in Xamarin ?', 'state': 'closed', 'created_at': '2017-02-02T05:18:32Z', 'closed_at': '2017-02-02T22:47:46Z', 'labels': []}
+{'issuenumber': 31, 'title': 'Pressing "DONE" in the AppintroActivity of Sample App does nothing', 'state': 'closed', 'created_at': '2017-02-02T05:04:10Z', 'closed_at': '2017-02-02T19:12:46Z', 'labels': []}
+{'issuenumber': 28, 'title': 'Is this a Facebook Keyframes clone?', 'state': 'closed', 'created_at': '2017-02-01T21:41:06Z', 'closed_at': '2017-02-01T21:46:04Z', 'labels': []}
+{'issuenumber': 27, 'title': 'Reformat java source code to match Airbnb code style', 'state': 'closed', 'created_at': '2017-02-01T21:28:52Z', 'closed_at': '2017-02-03T17:08:23Z', 'labels': []}
+{'issuenumber': 17, 'title': 'Use bounds when drawing bitmaps', 'state': 'closed', 'created_at': '2016-12-03T23:17:34Z', 'closed_at': '2017-03-14T05:47:42Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 16, 'title': "Don't draw bitmaps for null layers", 'state': 'closed', 'created_at': '2016-12-03T23:17:19Z', 'closed_at': '2017-02-01T21:47:03Z', 'labels': []}
+{'issuenumber': 6, 'title': 'Try using clipPath for masks', 'state': 'closed', 'created_at': '2016-10-18T17:20:04Z', 'closed_at': '2016-10-31T05:38:27Z', 'labels': []}
+{'issuenumber': 4, 'title': 'Figure out how to get Lottie hardware accelerated', 'state': 'closed', 'created_at': '2016-10-12T17:11:16Z', 'closed_at': '2016-10-18T17:19:50Z', 'labels': []}
+{'issuenumber': 3, 'title': 'Create a pluggable JSON parsing module', 'state': 'closed', 'created_at': '2016-10-11T02:58:07Z', 'closed_at': '2017-03-15T19:24:26Z', 'labels': []}

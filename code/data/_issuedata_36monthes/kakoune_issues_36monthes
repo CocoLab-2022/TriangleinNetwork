@@ -1,0 +1,537 @@
+{'issuenumber': 945, 'title': 'Session freeze when flooding keys in normal mode', 'state': 'closed', 'created_at': '2016-11-30T11:59:32Z', 'closed_at': '2016-12-02T14:00:13Z', 'labels': []}
+{'issuenumber': 944, 'title': 'Modifying the selection during initialization with -e does not work', 'state': 'closed', 'created_at': '2016-11-29T11:27:38Z', 'closed_at': '2016-12-02T14:00:13Z', 'labels': []}
+{'issuenumber': 940, 'title': 'Allow mouse scrolling/clicking while in insert mode', 'state': 'closed', 'created_at': '2016-11-25T14:47:01Z', 'closed_at': '2016-11-28T14:01:13Z', 'labels': []}
+{'issuenumber': 939, 'title': 'Build fails on macOS Sierra (a2x, xsltproc)', 'state': 'closed', 'created_at': '2016-11-24T19:54:08Z', 'closed_at': '2016-11-28T20:03:08Z', 'labels': []}
+{'issuenumber': 938, 'title': ':prompt and :onkey should restore the register after running the command', 'state': 'closed', 'created_at': '2016-11-24T15:26:40Z', 'closed_at': '2016-11-27T23:44:04Z', 'labels': []}
+{'issuenumber': 937, 'title': '$kak_client empty', 'state': 'closed', 'created_at': '2016-11-24T09:45:41Z', 'closed_at': '2016-11-24T13:36:30Z', 'labels': []}
+{'issuenumber': 935, 'title': 'Crash after write-all', 'state': 'closed', 'created_at': '2016-11-22T14:01:47Z', 'closed_at': '2016-11-23T23:53:38Z', 'labels': []}
+{'issuenumber': 931, 'title': 'Improve insert completion', 'state': 'closed', 'created_at': '2016-11-18T17:00:42Z', 'closed_at': '2016-12-02T10:58:26Z', 'labels': []}
+{'issuenumber': 929, 'title': 'Handle "hidden" directories when using the file completion in prompts', 'state': 'closed', 'created_at': '2016-11-16T14:38:19Z', 'closed_at': '2016-11-18T09:50:32Z', 'labels': []}
+{'issuenumber': 928, 'title': 'tag issues', 'state': 'closed', 'created_at': '2016-11-16T13:34:26Z', 'closed_at': '2016-11-17T13:06:26Z', 'labels': []}
+{'issuenumber': 925, 'title': 'Custom regex objects', 'state': 'closed', 'created_at': '2016-11-11T10:42:02Z', 'closed_at': '2017-12-03T11:02:44Z', 'labels': []}
+{'issuenumber': 922, 'title': 'Several unit tests are empty', 'state': 'closed', 'created_at': '2016-11-09T13:20:16Z', 'closed_at': '2017-03-07T16:21:41Z', 'labels': []}
+{'issuenumber': 921, 'title': 'Different regex behaviour', 'state': 'closed', 'created_at': '2016-11-08T21:07:35Z', 'closed_at': '2016-11-28T21:12:49Z', 'labels': []}
+{'issuenumber': 920, 'title': "can't build on gentoo", 'state': 'closed', 'created_at': '2016-11-08T12:41:10Z', 'closed_at': '2016-11-11T10:53:28Z', 'labels': []}
+{'issuenumber': 918, 'title': 'Asterisk added as new bullet when used for pointer in c-family files.', 'state': 'closed', 'created_at': '2016-11-07T23:26:21Z', 'closed_at': '2016-11-14T21:13:22Z', 'labels': []}
+{'issuenumber': 917, 'title': "SIGSEGV with non-ascii characters and 's' or 'S'", 'state': 'closed', 'created_at': '2016-11-07T14:49:04Z', 'closed_at': '2016-11-07T15:35:15Z', 'labels': []}
+{'issuenumber': 914, 'title': 'Terminal palette gets clobbered', 'state': 'closed', 'created_at': '2016-11-03T23:08:20Z', 'closed_at': '2016-11-06T22:58:13Z', 'labels': []}
+{'issuenumber': 913, 'title': '`WinDisplay` hook not triggered for buffers passed as arguments', 'state': 'closed', 'created_at': '2016-11-03T13:52:13Z', 'closed_at': '2016-11-03T21:57:28Z', 'labels': []}
+{'issuenumber': 912, 'title': 'Hook on buffer changes (timestamp?)', 'state': 'closed', 'created_at': '2016-11-03T13:51:13Z', 'closed_at': '2017-11-05T04:24:16Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 911, 'title': 'Incorrect Formatting: Insert space after Asterisk ', 'state': 'closed', 'created_at': '2016-11-03T13:46:37Z', 'closed_at': '2020-09-01T10:48:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 909, 'title': '[Questions] Terminal and bindings limitations', 'state': 'closed', 'created_at': '2016-11-03T10:58:20Z', 'closed_at': '2016-11-03T15:13:37Z', 'labels': []}
+{'issuenumber': 905, 'title': 'Have a `lint-prev` command, rename the already existing commands', 'state': 'closed', 'created_at': '2016-11-02T08:59:36Z', 'closed_at': '2016-11-02T23:06:41Z', 'labels': []}
+{'issuenumber': 901, 'title': 'Incompatibility with the `mdocml` man implementation', 'state': 'closed', 'created_at': '2016-10-29T08:15:27Z', 'closed_at': '2020-05-29T03:48:41Z', 'labels': []}
+{'issuenumber': 896, 'title': 'Allow counts to be used with maps', 'state': 'closed', 'created_at': '2016-10-26T10:10:27Z', 'closed_at': '2016-11-02T23:13:40Z', 'labels': []}
+{'issuenumber': 895, 'title': 'Expand `count` in shell scopes', 'state': 'closed', 'created_at': '2016-10-26T08:38:12Z', 'closed_at': '2016-10-26T22:24:49Z', 'labels': []}
+{'issuenumber': 893, 'title': '`modeline.kak` is not POSIX compliant', 'state': 'closed', 'created_at': '2016-10-25T08:02:25Z', 'closed_at': '2017-02-27T20:41:15Z', 'labels': {'name': 'portability'}}
+{'issuenumber': 890, 'title': 'Have access to counts from `onkey` callbacks', 'state': 'closed', 'created_at': '2016-10-22T06:37:43Z', 'closed_at': '2016-10-24T12:53:21Z', 'labels': []}
+{'issuenumber': 887, 'title': 'Calling `lint-enable` several times prints errors', 'state': 'closed', 'created_at': '2016-10-21T06:41:57Z', 'closed_at': '2016-10-22T06:36:41Z', 'labels': []}
+{'issuenumber': 886, 'title': '`BufWrite` hooks take `buffile` for parameter, and not `bufname`', 'state': 'closed', 'created_at': '2016-10-21T06:32:17Z', 'closed_at': '2016-10-23T17:21:22Z', 'labels': []}
+{'issuenumber': 885, 'title': 'Exception "Format string parameter index too big" on startup, Cygwin (release builds only)', 'state': 'closed', 'created_at': '2016-10-21T05:41:04Z', 'closed_at': '2018-11-17T11:19:48Z', 'labels': []}
+{'issuenumber': 884, 'title': 'Shell variable not updated when using pipe based commands', 'state': 'closed', 'created_at': '2016-10-20T12:08:03Z', 'closed_at': '2016-10-23T18:56:16Z', 'labels': []}
+{'issuenumber': 882, 'title': 'Replacing `run` with a regular unit testing framework', 'state': 'closed', 'created_at': '2016-10-20T09:58:11Z', 'closed_at': '2016-10-29T10:28:54Z', 'labels': []}
+{'issuenumber': 881, 'title': "Undo doesn't work when piping into kakoune", 'state': 'closed', 'created_at': '2016-10-19T00:07:14Z', 'closed_at': '2016-10-23T17:33:39Z', 'labels': []}
+{'issuenumber': 880, 'title': 'Question: possibility of implementing GDB plugin.', 'state': 'closed', 'created_at': '2016-10-18T18:23:03Z', 'closed_at': '2016-11-11T10:54:30Z', 'labels': []}
+{'issuenumber': 879, 'title': 'Allow hook name to be completable when declared in the prompt', 'state': 'closed', 'created_at': '2016-10-18T13:51:46Z', 'closed_at': '2016-11-20T11:20:56Z', 'labels': []}
+{'issuenumber': 877, 'title': "'\\n' hook gets executed with the wrong selection when creating line above the first", 'state': 'closed', 'created_at': '2016-10-18T13:17:19Z', 'closed_at': '2016-10-23T18:56:16Z', 'labels': []}
+{'issuenumber': 875, 'title': 'Special characters in the commenting options allow injections', 'state': 'closed', 'created_at': '2016-10-17T15:39:55Z', 'closed_at': '2017-11-25T05:21:47Z', 'labels': []}
+{'issuenumber': 874, 'title': "Autorestore won't work on mac os", 'state': 'closed', 'created_at': '2016-10-17T12:54:54Z', 'closed_at': '2016-10-18T11:07:32Z', 'labels': []}
+{'issuenumber': 873, 'title': 'Counts with newline commands', 'state': 'closed', 'created_at': '2016-10-16T15:35:52Z', 'closed_at': '2016-10-24T19:46:44Z', 'labels': []}
+{'issuenumber': 872, 'title': 'Identation misbehavior in a C++ header code', 'state': 'closed', 'created_at': '2016-10-15T21:28:46Z', 'closed_at': '2016-10-17T06:29:59Z', 'labels': []}
+{'issuenumber': 869, 'title': 'Kakoune freezing when deleting character in normal mode', 'state': 'closed', 'created_at': '2016-10-14T14:27:16Z', 'closed_at': '2016-10-23T17:24:41Z', 'labels': []}
+{'issuenumber': 868, 'title': 'Wrong search pattern after selection', 'state': 'closed', 'created_at': '2016-10-14T08:58:55Z', 'closed_at': '2016-10-23T20:03:56Z', 'labels': []}
+{'issuenumber': 866, 'title': 'Kakoune freezes when trying to connect to a suspended session', 'state': 'closed', 'created_at': '2016-10-13T07:49:31Z', 'closed_at': '2016-10-14T05:29:12Z', 'labels': []}
+{'issuenumber': 864, 'title': 'Incoherence with the `range-faces` descriptor end column index', 'state': 'closed', 'created_at': '2016-10-12T12:40:28Z', 'closed_at': '2016-10-26T22:24:50Z', 'labels': []}
+{'issuenumber': 860, 'title': 'Incorrect commenting of new line', 'state': 'closed', 'created_at': '2016-10-10T15:55:16Z', 'closed_at': '2016-10-13T22:14:55Z', 'labels': []}
+{'issuenumber': 859, 'title': 'Add hook to notify that a register has been modified', 'state': 'closed', 'created_at': '2016-10-10T14:58:43Z', 'closed_at': '2020-07-19T22:46:31Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 857, 'title': "Replace operations modify the parent scope's selection even when in a draft", 'state': 'closed', 'created_at': '2016-10-10T13:41:46Z', 'closed_at': '2017-01-31T22:45:16Z', 'labels': []}
+{'issuenumber': 855, 'title': "Don't expand the `~` character in buffers when completing file names", 'state': 'closed', 'created_at': '2016-10-10T13:02:39Z', 'closed_at': '2016-10-13T22:14:55Z', 'labels': []}
+{'issuenumber': 854, 'title': "focus command doesn't work for iTerm clients", 'state': 'closed', 'created_at': '2016-10-10T11:00:11Z', 'closed_at': '2018-07-05T12:35:01Z', 'labels': []}
+{'issuenumber': 853, 'title': "Env var 'kak_reg_<r>' is not exported for some values of <r>", 'state': 'closed', 'created_at': '2016-10-09T18:03:31Z', 'closed_at': '2016-10-09T22:30:40Z', 'labels': []}
+{'issuenumber': 852, 'title': '*scratch* buffer is not necessary when running Kakoune with redirected stdin', 'state': 'closed', 'created_at': '2016-10-09T13:44:32Z', 'closed_at': '2016-10-10T23:46:02Z', 'labels': []}
+{'issuenumber': 850, 'title': 'create / regenerate *scratch* buffer when deleting last buffer', 'state': 'closed', 'created_at': '2016-10-09T10:50:42Z', 'closed_at': '2016-10-13T22:14:56Z', 'labels': []}
+{'issuenumber': 849, 'title': 'add default value to `edit -scratch` command', 'state': 'closed', 'created_at': '2016-10-08T21:06:25Z', 'closed_at': '2019-04-08T12:19:52Z', 'labels': []}
+{'issuenumber': 847, 'title': 'Double free when deleting a buffer in its own `BufNew` hook', 'state': 'closed', 'created_at': '2016-10-08T06:50:39Z', 'closed_at': '2016-10-13T20:44:13Z', 'labels': []}
+{'issuenumber': 845, 'title': ':doc issue', 'state': 'closed', 'created_at': '2016-10-06T11:34:14Z', 'closed_at': '2016-10-06T12:39:24Z', 'labels': []}
+{'issuenumber': 844, 'title': 'Wrong selection at start of file', 'state': 'closed', 'created_at': '2016-10-05T19:50:30Z', 'closed_at': '2016-10-05T22:44:13Z', 'labels': []}
+{'issuenumber': 843, 'title': 'Mouse right click to extend selection', 'state': 'closed', 'created_at': '2016-10-05T11:42:42Z', 'closed_at': '2018-12-22T19:45:17Z', 'labels': []}
+{'issuenumber': 842, 'title': 'Wrong selection of \\n when using the mouse', 'state': 'closed', 'created_at': '2016-10-04T16:44:10Z', 'closed_at': '2016-10-04T19:13:49Z', 'labels': []}
+{'issuenumber': 838, 'title': 'Easy multiple selections', 'state': 'closed', 'created_at': '2016-09-30T18:51:31Z', 'closed_at': '2016-10-13T22:14:56Z', 'labels': []}
+{'issuenumber': 837, 'title': 'Region highlighters: add -match-captures', 'state': 'closed', 'created_at': '2016-09-30T09:50:11Z', 'closed_at': '2017-02-06T23:02:57Z', 'labels': []}
+{'issuenumber': 836, 'title': 'Apply the `+n` parameter in a smarter way to the positional buffer names', 'state': 'closed', 'created_at': '2016-09-29T07:18:13Z', 'closed_at': '2016-10-17T17:36:01Z', 'labels': []}
+{'issuenumber': 835, 'title': 'Shell arguments lost across an `eval` scope', 'state': 'closed', 'created_at': '2016-09-28T08:29:51Z', 'closed_at': '2016-10-06T22:23:24Z', 'labels': []}
+{'issuenumber': 833, 'title': 'Crash when closing a terminal with a suspended client', 'state': 'closed', 'created_at': '2016-09-27T18:14:45Z', 'closed_at': '2016-11-14T21:13:22Z', 'labels': []}
+{'issuenumber': 832, 'title': 'More descriptive prompt name for alternative search/reverse search', 'state': 'closed', 'created_at': '2016-09-27T15:01:07Z', 'closed_at': '2016-10-04T19:13:48Z', 'labels': []}
+{'issuenumber': 829, 'title': 'Yanking Multiple Selections to Different Buffer', 'state': 'closed', 'created_at': '2016-09-26T17:05:32Z', 'closed_at': '2016-09-26T17:16:42Z', 'labels': []}
+{'issuenumber': 828, 'title': 'make check causes stack smashes on ppc64 and s390x systems', 'state': 'closed', 'created_at': '2016-09-26T10:23:41Z', 'closed_at': '2016-09-28T20:35:01Z', 'labels': []}
+{'issuenumber': 824, 'title': 'Kakoune state not available through environment variable when it contains dashes in its name', 'state': 'closed', 'created_at': '2016-09-24T11:53:05Z', 'closed_at': '2016-09-27T08:55:25Z', 'labels': []}
+{'issuenumber': 823, 'title': '`-no-hooks` flag uneffective', 'state': 'closed', 'created_at': '2016-09-24T10:34:50Z', 'closed_at': '2016-10-01T23:03:12Z', 'labels': []}
+{'issuenumber': 818, 'title': "Keep 'no hooks' till back to normal mode", 'state': 'closed', 'created_at': '2016-09-22T14:42:03Z', 'closed_at': '2016-11-14T21:13:22Z', 'labels': []}
+{'issuenumber': 817, 'title': 'display a single candidate for command and their aliases', 'state': 'closed', 'created_at': '2016-09-22T09:45:21Z', 'closed_at': '2016-11-14T21:13:22Z', 'labels': []}
+{'issuenumber': 816, 'title': 'Recursive regex search fails in medium sized source files.', 'state': 'closed', 'created_at': '2016-09-22T07:56:29Z', 'closed_at': '2016-09-26T22:00:19Z', 'labels': []}
+{'issuenumber': 814, 'title': 'Move all highlighters to event groups `<lang>-highlight`', 'state': 'closed', 'created_at': '2016-09-21T11:26:49Z', 'closed_at': '2016-10-03T12:27:31Z', 'labels': []}
+{'issuenumber': 813, 'title': 'Linux (non-debug) binary size is 33MB - but can be 2MB using strip', 'state': 'closed', 'created_at': '2016-09-20T07:48:35Z', 'closed_at': '2016-09-26T21:13:21Z', 'labels': []}
+{'issuenumber': 812, 'title': 'Startup commands are executed before parsing kakrc', 'state': 'closed', 'created_at': '2016-09-19T18:44:08Z', 'closed_at': '2016-09-20T07:00:17Z', 'labels': []}
+{'issuenumber': 811, 'title': 'Wrong cursor movement around CJK characters', 'state': 'closed', 'created_at': '2016-09-19T16:02:03Z', 'closed_at': '2016-10-01T12:47:48Z', 'labels': []}
+{'issuenumber': 810, 'title': 'Wrap it', 'state': 'closed', 'created_at': '2016-09-19T08:33:32Z', 'closed_at': '2018-07-08T21:41:54Z', 'labels': []}
+{'issuenumber': 809, 'title': 'Alt f/t not working when going back to the very first character of the file', 'state': 'closed', 'created_at': '2016-09-18T13:21:54Z', 'closed_at': '2016-09-19T08:27:54Z', 'labels': []}
+{'issuenumber': 808, 'title': 'Markdown code sections missing languages.', 'state': 'closed', 'created_at': '2016-09-18T05:23:35Z', 'closed_at': '2016-09-27T08:43:34Z', 'labels': []}
+{'issuenumber': 806, 'title': 'Buffer Delete vs Delete Buffer', 'state': 'closed', 'created_at': '2016-09-15T17:45:45Z', 'closed_at': '2016-11-20T20:56:13Z', 'labels': []}
+{'issuenumber': 805, 'title': 'Autosave Question', 'state': 'closed', 'created_at': '2016-09-15T16:52:04Z', 'closed_at': '2016-09-16T19:04:42Z', 'labels': []}
+{'issuenumber': 803, 'title': 'Random freeze when creating a pane in tmux', 'state': 'closed', 'created_at': '2016-09-13T10:06:52Z', 'closed_at': '2016-12-10T05:13:51Z', 'labels': []}
+{'issuenumber': 797, 'title': 'Allow Ctrl+C to quit command line mode', 'state': 'closed', 'created_at': '2016-09-08T15:13:53Z', 'closed_at': '2016-10-06T22:24:41Z', 'labels': []}
+{'issuenumber': 796, 'title': 'Allow arrows + h,l and maybe backspace to wrap around newlines', 'state': 'closed', 'created_at': '2016-09-08T15:09:13Z', 'closed_at': '2018-03-03T23:58:35Z', 'labels': []}
+{'issuenumber': 794, 'title': '"Repeat last movement and extend selection" key', 'state': 'closed', 'created_at': '2016-09-08T13:50:33Z', 'closed_at': '2016-12-09T13:39:26Z', 'labels': []}
+{'issuenumber': 793, 'title': 'Incorrect j/k movements', 'state': 'closed', 'created_at': '2016-09-08T08:23:32Z', 'closed_at': '2016-09-26T22:25:33Z', 'labels': []}
+{'issuenumber': 792, 'title': "Count <alt-p> doesn't respect the count", 'state': 'closed', 'created_at': '2016-09-07T20:17:20Z', 'closed_at': '2016-09-26T22:02:58Z', 'labels': []}
+{'issuenumber': 789, 'title': 'Fast keystrokes missed', 'state': 'closed', 'created_at': '2016-09-07T12:48:24Z', 'closed_at': '2016-09-07T21:12:08Z', 'labels': []}
+{'issuenumber': 788, 'title': 'Support true color escapes', 'state': 'closed', 'created_at': '2016-09-04T08:35:36Z', 'closed_at': '2018-04-16T21:16:28Z', 'labels': []}
+{'issuenumber': 787, 'title': 'Crash after S', 'state': 'closed', 'created_at': '2016-09-03T20:28:28Z', 'closed_at': '2016-09-04T10:17:52Z', 'labels': []}
+{'issuenumber': 786, 'title': 'Assign <ret> to something useful', 'state': 'closed', 'created_at': '2016-09-02T10:38:10Z', 'closed_at': '2016-09-26T22:06:26Z', 'labels': []}
+{'issuenumber': 785, 'title': 'Enable persisting history', 'state': 'closed', 'created_at': '2016-09-02T10:12:16Z', 'closed_at': '2019-06-23T08:15:31Z', 'labels': []}
+{'issuenumber': 784, 'title': 'Allow comments containing delimiters in % tokens', 'state': 'closed', 'created_at': '2016-09-01T13:11:02Z', 'closed_at': '2016-09-26T22:03:39Z', 'labels': []}
+{'issuenumber': 778, 'title': 'Shift+C is undocumented', 'state': 'closed', 'created_at': '2016-08-29T19:37:20Z', 'closed_at': '2016-08-29T19:42:13Z', 'labels': []}
+{'issuenumber': 775, 'title': 'How does bold work?', 'state': 'closed', 'created_at': '2016-08-27T13:59:42Z', 'closed_at': '2016-09-05T12:26:50Z', 'labels': []}
+{'issuenumber': 773, 'title': 'Allow merging of all horizontally adjascent selections', 'state': 'closed', 'created_at': '2016-08-26T08:20:53Z', 'closed_at': '2016-08-28T17:51:37Z', 'labels': []}
+{'issuenumber': 772, 'title': 'Add an `underline` face to the themes', 'state': 'closed', 'created_at': '2016-08-26T07:53:25Z', 'closed_at': '2016-08-26T08:13:51Z', 'labels': []}
+{'issuenumber': 771, 'title': 'Document the timestamp field in face ranges', 'state': 'closed', 'created_at': '2016-08-26T07:05:46Z', 'closed_at': '2016-08-28T17:51:37Z', 'labels': []}
+{'issuenumber': 770, 'title': 'Display the commands parameter when in a prompt', 'state': 'closed', 'created_at': '2016-08-26T06:12:07Z', 'closed_at': '2016-08-28T17:51:37Z', 'labels': []}
+{'issuenumber': 769, 'title': 'Forward jump not working', 'state': 'closed', 'created_at': '2016-08-24T09:19:15Z', 'closed_at': '2016-08-28T17:51:37Z', 'labels': []}
+{'issuenumber': 767, 'title': 'Regex commands prefixed by space don’t go in history', 'state': 'closed', 'created_at': '2016-08-22T14:23:23Z', 'closed_at': '2016-08-22T19:37:42Z', 'labels': []}
+{'issuenumber': 766, 'title': "The 'n' object selector shouldn't select anything when not on a number", 'state': 'closed', 'created_at': '2016-08-22T09:54:20Z', 'closed_at': '2016-08-22T12:54:42Z', 'labels': []}
+{'issuenumber': 765, 'title': 'Segmentation Fault when using the `n` object selector', 'state': 'closed', 'created_at': '2016-08-22T09:31:44Z', 'closed_at': '2016-08-22T12:54:42Z', 'labels': []}
+{'issuenumber': 764, 'title': 'mingw build', 'state': 'closed', 'created_at': '2016-08-21T17:34:03Z', 'closed_at': '2016-09-26T22:25:10Z', 'labels': []}
+{'issuenumber': 763, 'title': 'View port issues', 'state': 'closed', 'created_at': '2016-08-19T13:54:23Z', 'closed_at': '2016-09-26T22:07:06Z', 'labels': []}
+{'issuenumber': 762, 'title': 'True Color support lost in Tmux', 'state': 'closed', 'created_at': '2016-08-17T21:27:53Z', 'closed_at': '2016-09-26T22:11:18Z', 'labels': []}
+{'issuenumber': 760, 'title': 'How to set value to a completions option?', 'state': 'closed', 'created_at': '2016-08-17T12:05:25Z', 'closed_at': '2016-08-18T10:28:55Z', 'labels': []}
+{'issuenumber': 759, 'title': 'Using kakoune as a pager?', 'state': 'closed', 'created_at': '2016-08-17T09:29:27Z', 'closed_at': '2018-11-27T17:51:59Z', 'labels': []}
+{'issuenumber': 758, 'title': 'Buffer-local definition of words', 'state': 'closed', 'created_at': '2016-08-13T13:58:04Z', 'closed_at': '2016-08-27T09:33:21Z', 'labels': []}
+{'issuenumber': 757, 'title': 'Random crash when creating a tmux horizontal pane', 'state': 'closed', 'created_at': '2016-08-01T07:10:04Z', 'closed_at': '2017-01-31T22:49:28Z', 'labels': []}
+{'issuenumber': 756, 'title': 'Crash while writing from two different clients', 'state': 'closed', 'created_at': '2016-07-31T19:26:40Z', 'closed_at': '2016-10-06T22:27:03Z', 'labels': []}
+{'issuenumber': 755, 'title': 'Selection behaviour with single chars', 'state': 'closed', 'created_at': '2016-07-31T13:17:25Z', 'closed_at': '2016-07-31T15:13:35Z', 'labels': []}
+{'issuenumber': 754, 'title': 'Crash', 'state': 'closed', 'created_at': '2016-07-29T23:59:28Z', 'closed_at': '2016-07-30T15:03:07Z', 'labels': []}
+{'issuenumber': 753, 'title': 'Selection undo issues', 'state': 'closed', 'created_at': '2016-07-29T12:29:22Z', 'closed_at': '2016-08-24T14:41:56Z', 'labels': []}
+{'issuenumber': 752, 'title': 'w, b and e selection inconsistencies', 'state': 'closed', 'created_at': '2016-07-28T09:37:02Z', 'closed_at': '2016-08-27T10:24:49Z', 'labels': []}
+{'issuenumber': 751, 'title': 'Wrong selection after undo', 'state': 'closed', 'created_at': '2016-07-27T15:19:22Z', 'closed_at': '2016-07-27T22:53:47Z', 'labels': []}
+{'issuenumber': 750, 'title': ':doc command should show autocompletion immediately when command is typed', 'state': 'closed', 'created_at': '2016-07-27T11:08:14Z', 'closed_at': '2016-08-30T21:42:16Z', 'labels': []}
+{'issuenumber': 749, 'title': '`<c-d>` scrolls up when `scrolloff` is set', 'state': 'closed', 'created_at': '2016-07-27T10:27:07Z', 'closed_at': '2016-07-28T08:52:54Z', 'labels': []}
+{'issuenumber': 745, 'title': 'Have an interface for the history tree, document it', 'state': 'closed', 'created_at': '2016-07-26T03:39:21Z', 'closed_at': '2020-01-02T11:39:15Z', 'labels': []}
+{'issuenumber': 743, 'title': 'Crash after R then u', 'state': 'closed', 'created_at': '2016-07-25T08:46:50Z', 'closed_at': '2016-07-26T23:25:27Z', 'labels': []}
+{'issuenumber': 742, 'title': 'Selection reset when the server is converted into a client', 'state': 'closed', 'created_at': '2016-07-21T08:55:30Z', 'closed_at': '2016-08-05T08:45:17Z', 'labels': []}
+{'issuenumber': 741, 'title': 'Investigate weird tmux issue', 'state': 'closed', 'created_at': '2016-07-21T08:30:57Z', 'closed_at': '2016-09-05T12:28:38Z', 'labels': []}
+{'issuenumber': 739, 'title': 'Handle tmux focus capacities', 'state': 'closed', 'created_at': '2016-07-19T13:04:29Z', 'closed_at': '2016-10-06T22:50:53Z', 'labels': []}
+{'issuenumber': 738, 'title': 'Allow some commands not to be inserted in the history', 'state': 'closed', 'created_at': '2016-07-19T12:10:27Z', 'closed_at': '2016-07-20T06:10:27Z', 'labels': []}
+{'issuenumber': 737, 'title': 'Uncaught Exception: Ran out of stack space trying to match the regular expression.', 'state': 'closed', 'created_at': '2016-07-18T14:44:12Z', 'closed_at': '2016-07-19T09:00:53Z', 'labels': []}
+{'issuenumber': 736, 'title': 'Allow getting the value of a face', 'state': 'closed', 'created_at': '2016-07-18T11:29:19Z', 'closed_at': '2017-02-26T07:28:35Z', 'labels': []}
+{'issuenumber': 733, 'title': 'Random crash on selection manipulation', 'state': 'closed', 'created_at': '2016-07-13T15:49:44Z', 'closed_at': '2016-07-13T18:26:22Z', 'labels': []}
+{'issuenumber': 729, 'title': 'Unable to drop a selection with `<a-space>` in selections iterated over with `exec`/`eval`', 'state': 'closed', 'created_at': '2016-07-08T10:53:12Z', 'closed_at': '2016-07-11T07:57:36Z', 'labels': []}
+{'issuenumber': 727, 'title': "The `-itersel` flag doesn't modify selections with `eval`/`exec`", 'state': 'closed', 'created_at': '2016-07-07T12:59:44Z', 'closed_at': '2016-07-08T08:53:11Z', 'labels': []}
+{'issuenumber': 725, 'title': 'Bug reminder', 'state': 'closed', 'created_at': '2016-07-04T23:57:26Z', 'closed_at': '2016-07-10T11:00:10Z', 'labels': []}
+{'issuenumber': 724, 'title': 'Contributor agreement / License', 'state': 'closed', 'created_at': '2016-07-04T21:02:22Z', 'closed_at': '2016-07-15T13:38:22Z', 'labels': []}
+{'issuenumber': 723, 'title': 'clang format', 'state': 'closed', 'created_at': '2016-07-03T17:00:55Z', 'closed_at': '2016-07-06T07:04:42Z', 'labels': []}
+{'issuenumber': 722, 'title': 'keybindings with capital letters, symbols', 'state': 'closed', 'created_at': '2016-07-03T15:55:54Z', 'closed_at': '2016-07-05T19:37:18Z', 'labels': []}
+{'issuenumber': 720, 'title': '[JSON-RPC] `bad_alloc` exception', 'state': 'closed', 'created_at': '2016-06-30T05:24:10Z', 'closed_at': '2016-07-04T18:49:34Z', 'labels': []}
+{'issuenumber': 719, 'title': '[JSON-RPC] Add new methods', 'state': 'closed', 'created_at': '2016-06-30T05:12:29Z', 'closed_at': '2016-06-30T18:33:09Z', 'labels': []}
+{'issuenumber': 718, 'title': '[JSON-RPC] Wrong atom face sent', 'state': 'closed', 'created_at': '2016-06-30T05:10:42Z', 'closed_at': '2016-07-01T05:22:10Z', 'labels': []}
+{'issuenumber': 717, 'title': '[JSON-RPC] Document the guaranteed integrity of server objects when followed by a newline character', 'state': 'closed', 'created_at': '2016-06-30T05:08:40Z', 'closed_at': '2016-07-04T18:49:34Z', 'labels': []}
+{'issuenumber': 716, 'title': '[JSON-RPC] Add an `id` field to the server replies', 'state': 'closed', 'created_at': '2016-06-30T05:07:35Z', 'closed_at': '2016-07-05T18:10:51Z', 'labels': []}
+{'issuenumber': 715, 'title': '[JSON-RPC] Crash when x in resize is greater or equal than 17', 'state': 'closed', 'created_at': '2016-06-29T23:33:32Z', 'closed_at': '2016-06-30T22:36:47Z', 'labels': []}
+{'issuenumber': 714, 'title': '[RPC-JSON] Bad function call exception on consecutive requests', 'state': 'closed', 'created_at': '2016-06-27T12:11:01Z', 'closed_at': '2016-06-30T05:14:18Z', 'labels': []}
+{'issuenumber': 709, 'title': 'Crash on ctags-enable-autoinfo', 'state': 'closed', 'created_at': '2016-06-25T07:45:56Z', 'closed_at': '2016-06-27T20:07:24Z', 'labels': []}
+{'issuenumber': 707, 'title': 'Set relevant side effects on `exec`/`eval` depending on the flags passed', 'state': 'closed', 'created_at': '2016-06-23T08:18:09Z', 'closed_at': '2018-08-31T13:52:24Z', 'labels': []}
+{'issuenumber': 706, 'title': 'Allow using `-itersel` with `-draft`', 'state': 'closed', 'created_at': '2016-06-22T12:44:16Z', 'closed_at': '2016-06-24T23:09:24Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 705, 'title': 'git-tools.kak uses non POSIX awk -e', 'state': 'closed', 'created_at': '2016-06-21T11:41:17Z', 'closed_at': '2016-06-21T22:51:31Z', 'labels': []}
+{'issuenumber': 704, 'title': 'Crash when using a hook on `NormalBegin` and `NormalEnd`', 'state': 'closed', 'created_at': '2016-06-21T07:50:24Z', 'closed_at': '2016-07-11T18:56:04Z', 'labels': []}
+{'issuenumber': 703, 'title': 'First line appears as %p1%d;%p2%dr when ncurses_enable_mouse=false in kakrc', 'state': 'closed', 'created_at': '2016-06-20T18:35:04Z', 'closed_at': '2016-06-20T22:45:39Z', 'labels': []}
+{'issuenumber': 702, 'title': 'Window-level indentwidth option ignored', 'state': 'closed', 'created_at': '2016-06-20T17:54:33Z', 'closed_at': '2016-06-20T19:44:10Z', 'labels': []}
+{'issuenumber': 700, 'title': 'Only save registers in `exec`/`eval` when the `-draft` flag is used', 'state': 'closed', 'created_at': '2016-06-20T10:35:49Z', 'closed_at': '2016-06-20T19:44:10Z', 'labels': []}
+{'issuenumber': 699, 'title': "`<a-l>` on a line's newline selects the previous character", 'state': 'closed', 'created_at': '2016-06-20T08:28:45Z', 'closed_at': '2016-06-22T21:03:06Z', 'labels': []}
+{'issuenumber': 698, 'title': 'Remove trailing newlines in the expansion of a shell scope', 'state': 'closed', 'created_at': '2016-06-17T05:17:05Z', 'closed_at': '2016-06-20T19:44:10Z', 'labels': []}
+{'issuenumber': 697, 'title': 'Command looses focus when externally commanding kak', 'state': 'closed', 'created_at': '2016-06-16T10:28:53Z', 'closed_at': '2016-06-16T18:37:23Z', 'labels': []}
+{'issuenumber': 695, 'title': 'libtinfo linking error in gentoo', 'state': 'closed', 'created_at': '2016-06-10T16:52:49Z', 'closed_at': '2016-06-22T21:47:36Z', 'labels': []}
+{'issuenumber': 694, 'title': 'json_ui crash', 'state': 'closed', 'created_at': '2016-06-10T13:12:57Z', 'closed_at': '2016-06-11T12:43:50Z', 'labels': []}
+{'issuenumber': 690, 'title': 'Crash when passing an empty string to `select`', 'state': 'closed', 'created_at': '2016-06-06T15:11:00Z', 'closed_at': '2016-06-06T16:18:53Z', 'labels': []}
+{'issuenumber': 689, 'title': 'Cleaning up dead kakoune sessions?', 'state': 'closed', 'created_at': '2016-06-01T23:25:19Z', 'closed_at': '2016-06-06T18:30:28Z', 'labels': []}
+{'issuenumber': 688, 'title': 'Cursors disappear after undoing align', 'state': 'closed', 'created_at': '2016-06-01T18:47:03Z', 'closed_at': '2016-06-06T18:31:11Z', 'labels': []}
+{'issuenumber': 686, 'title': '`git commit -v` results in diff being put in commit message', 'state': 'closed', 'created_at': '2016-05-26T16:49:34Z', 'closed_at': '2016-06-28T19:47:57Z', 'labels': []}
+{'issuenumber': 685, 'title': 'Readonly mode', 'state': 'closed', 'created_at': '2016-05-25T11:58:04Z', 'closed_at': '2016-07-24T21:56:12Z', 'labels': []}
+{'issuenumber': 683, 'title': 'Highlighting multiple language within one file', 'state': 'closed', 'created_at': '2016-05-25T10:07:39Z', 'closed_at': '2016-05-25T10:27:02Z', 'labels': []}
+{'issuenumber': 680, 'title': 'Unable to `cd` from an %sh scope', 'state': 'closed', 'created_at': '2016-05-24T07:56:42Z', 'closed_at': '2016-05-24T21:49:12Z', 'labels': []}
+{'issuenumber': 679, 'title': 'Crash on an arbitrary operation', 'state': 'closed', 'created_at': '2016-05-20T14:46:02Z', 'closed_at': '2016-05-20T17:43:01Z', 'labels': []}
+{'issuenumber': 678, 'title': 'Have `cd` do something when called without any arguments', 'state': 'closed', 'created_at': '2016-05-20T04:57:19Z', 'closed_at': '2016-05-20T08:46:32Z', 'labels': []}
+{'issuenumber': 677, 'title': 'Structural regular expression support', 'state': 'closed', 'created_at': '2016-05-17T19:09:48Z', 'closed_at': '2016-06-29T19:32:41Z', 'labels': []}
+{'issuenumber': 676, 'title': 'Interfacing with node.js', 'state': 'closed', 'created_at': '2016-05-15T19:44:44Z', 'closed_at': '2016-05-21T18:03:35Z', 'labels': []}
+{'issuenumber': 675, 'title': 'Expose information about the actually usable buffer space in scripts', 'state': 'closed', 'created_at': '2016-05-14T16:49:04Z', 'closed_at': '2019-12-04T10:22:06Z', 'labels': []}
+{'issuenumber': 674, 'title': "Don't overwrite a previously saved macro with an empty one when 'Q' is used", 'state': 'closed', 'created_at': '2016-05-13T11:38:25Z', 'closed_at': '2016-05-20T08:46:32Z', 'labels': []}
+{'issuenumber': 672, 'title': 'Several crashes when trying to execute the `man` command in a `WinResize` hook', 'state': 'closed', 'created_at': '2016-05-11T19:46:07Z', 'closed_at': '2016-05-14T12:26:29Z', 'labels': []}
+{'issuenumber': 667, 'title': 'Crash when using the `dummy` UI', 'state': 'closed', 'created_at': '2016-05-08T10:49:09Z', 'closed_at': '2016-05-09T12:56:52Z', 'labels': []}
+{'issuenumber': 663, 'title': 'Send the current selection to the left/right most side of the window', 'state': 'closed', 'created_at': '2016-04-25T12:54:31Z', 'closed_at': '2016-09-05T14:26:55Z', 'labels': []}
+{'issuenumber': 662, 'title': "The `tag` command doesn't take the path of the current tags file into account", 'state': 'closed', 'created_at': '2016-04-25T11:31:04Z', 'closed_at': '2016-05-24T21:49:12Z', 'labels': []}
+{'issuenumber': 661, 'title': 'Expose a WINCH hook to allow regenerating size-dependent content', 'state': 'closed', 'created_at': '2016-04-18T08:56:09Z', 'closed_at': '2016-05-04T22:27:40Z', 'labels': []}
+{'issuenumber': 660, 'title': 'Handle external reads on stdin (sudo etc)', 'state': 'closed', 'created_at': '2016-04-17T19:41:02Z', 'closed_at': '2016-04-19T08:53:17Z', 'labels': []}
+{'issuenumber': 659, 'title': 'Expandable values are not completable upon when using `%val{`', 'state': 'closed', 'created_at': '2016-04-17T08:34:05Z', 'closed_at': '2016-04-17T18:22:53Z', 'labels': []}
+{'issuenumber': 658, 'title': 'Optimize the RankedMatch comparison operator', 'state': 'closed', 'created_at': '2016-04-16T07:43:45Z', 'closed_at': '2016-07-28T16:41:43Z', 'labels': []}
+{'issuenumber': 657, 'title': 'User interface lags when using a `modelinefmt` that takes a while to return info', 'state': 'closed', 'created_at': '2016-04-14T16:25:40Z', 'closed_at': '2016-04-15T10:26:48Z', 'labels': []}
+{'issuenumber': 656, 'title': "Prompts don't work in `eval` drafts", 'state': 'closed', 'created_at': '2016-04-14T10:03:31Z', 'closed_at': '2016-04-14T10:11:23Z', 'labels': []}
+{'issuenumber': 655, 'title': 'Fast file finder?', 'state': 'closed', 'created_at': '2016-04-13T23:15:26Z', 'closed_at': '2016-08-27T10:27:21Z', 'labels': []}
+{'issuenumber': 654, 'title': 'Crash on undo', 'state': 'closed', 'created_at': '2016-04-13T19:26:45Z', 'closed_at': '2016-04-13T22:34:10Z', 'labels': []}
+{'issuenumber': 646, 'title': 'Only return directory names as completion candidates for the `cd` command', 'state': 'closed', 'created_at': '2016-04-07T13:18:58Z', 'closed_at': '2016-04-07T22:35:32Z', 'labels': []}
+{'issuenumber': 643, 'title': 'Crash on <a-@> in a specially crafted buffer', 'state': 'closed', 'created_at': '2016-03-30T17:28:58Z', 'closed_at': '2016-03-30T18:29:13Z', 'labels': []}
+{'issuenumber': 640, 'title': 'Crash on `:` in normal mode', 'state': 'closed', 'created_at': '2016-03-25T17:04:54Z', 'closed_at': '2016-03-25T23:02:11Z', 'labels': []}
+{'issuenumber': 638, 'title': 'Highlighting codepoints within a bracket range messes up rendering', 'state': 'closed', 'created_at': '2016-03-19T09:36:03Z', 'closed_at': '2016-05-10T08:39:16Z', 'labels': []}
+{'issuenumber': 633, 'title': 'The `-f` option arbitrarily adds newlines in CLI mode', 'state': 'closed', 'created_at': '2016-03-15T19:07:22Z', 'closed_at': '2016-03-19T11:43:38Z', 'labels': []}
+{'issuenumber': 629, 'title': 'User commands broken?', 'state': 'closed', 'created_at': '2016-03-13T18:45:36Z', 'closed_at': '2016-03-14T21:00:42Z', 'labels': []}
+{'issuenumber': 627, 'title': 'Kakoune suddenly slow', 'state': 'closed', 'created_at': '2016-03-12T15:12:25Z', 'closed_at': '2016-03-13T18:38:16Z', 'labels': []}
+{'issuenumber': 625, 'title': 'Allow non options sources for flag_lines highlighter', 'state': 'closed', 'created_at': '2016-03-10T16:14:37Z', 'closed_at': '2017-01-15T12:34:47Z', 'labels': []}
+{'issuenumber': 621, 'title': 'Add a way to define text objects on the fly', 'state': 'closed', 'created_at': '2016-03-10T12:55:46Z', 'closed_at': '2016-09-05T12:31:45Z', 'labels': []}
+{'issuenumber': 618, 'title': 'Add a way to cancel completion', 'state': 'closed', 'created_at': '2016-03-07T11:58:07Z', 'closed_at': '2016-03-24T13:46:29Z', 'labels': []}
+{'issuenumber': 617, 'title': 'Select portion of completed command instead of just expanding', 'state': 'closed', 'created_at': '2016-03-07T09:22:00Z', 'closed_at': '2016-03-10T20:10:09Z', 'labels': []}
+{'issuenumber': 615, 'title': "tmux-send-text doesn't work over a remote connection", 'state': 'closed', 'created_at': '2016-03-05T13:48:57Z', 'closed_at': '2016-06-24T23:09:24Z', 'labels': []}
+{'issuenumber': 613, 'title': 'Server API documentation to build alternative interfaces', 'state': 'closed', 'created_at': '2016-03-02T19:13:22Z', 'closed_at': '2016-03-10T20:11:21Z', 'labels': []}
+{'issuenumber': 612, 'title': 'Assertion with NormalBegin hook', 'state': 'closed', 'created_at': '2016-03-02T09:22:59Z', 'closed_at': '2016-03-02T13:54:29Z', 'labels': []}
+{'issuenumber': 611, 'title': 'add BufChange hook', 'state': 'closed', 'created_at': '2016-03-01T11:18:02Z', 'closed_at': '2016-03-10T20:15:14Z', 'labels': []}
+{'issuenumber': 610, 'title': 'Mouse chording', 'state': 'closed', 'created_at': '2016-02-29T22:20:11Z', 'closed_at': '2017-01-15T12:36:44Z', 'labels': []}
+{'issuenumber': 609, 'title': 'Relative filename completion', 'state': 'closed', 'created_at': '2016-02-29T22:15:34Z', 'closed_at': '2016-02-29T22:45:03Z', 'labels': []}
+{'issuenumber': 608, 'title': 'Better mouse support on OS X', 'state': 'closed', 'created_at': '2016-02-29T22:14:00Z', 'closed_at': '2016-03-10T19:43:51Z', 'labels': []}
+{'issuenumber': 607, 'title': 'Make `:e` without any arguments open the `*scratch*` buffer', 'state': 'closed', 'created_at': '2016-02-29T11:43:38Z', 'closed_at': '2016-03-23T13:56:58Z', 'labels': []}
+{'issuenumber': 606, 'title': 'Scroll half a window up or down', 'state': 'closed', 'created_at': '2016-02-29T07:57:52Z', 'closed_at': '2016-02-29T14:00:59Z', 'labels': []}
+{'issuenumber': 603, 'title': 'Prompts in `eval` calls', 'state': 'closed', 'created_at': '2016-02-28T14:22:31Z', 'closed_at': '2016-03-15T13:59:47Z', 'labels': []}
+{'issuenumber': 599, 'title': 'Abstract buffer shows part of the original buffer', 'state': 'closed', 'created_at': '2016-02-23T13:52:45Z', 'closed_at': '2016-02-24T09:42:59Z', 'labels': []}
+{'issuenumber': 598, 'title': 'Remap colon', 'state': 'closed', 'created_at': '2016-02-21T22:38:42Z', 'closed_at': '2016-02-23T12:16:38Z', 'labels': []}
+{'issuenumber': 595, 'title': 'Smart search does not work with certain codepoints.', 'state': 'closed', 'created_at': '2016-02-17T20:50:08Z', 'closed_at': '2016-05-10T21:06:56Z', 'labels': []}
+{'issuenumber': 590, 'title': 'EditorConfig support', 'state': 'closed', 'created_at': '2016-02-11T23:57:45Z', 'closed_at': '2016-02-12T09:32:13Z', 'labels': []}
+{'issuenumber': 584, 'title': 'More precise titles in assistant', 'state': 'closed', 'created_at': '2016-02-08T21:17:02Z', 'closed_at': '2016-02-13T13:11:56Z', 'labels': []}
+{'issuenumber': 583, 'title': 'Setting tabstop to 0 will cause crash', 'state': 'closed', 'created_at': '2016-02-08T18:39:19Z', 'closed_at': '2016-02-11T22:11:29Z', 'labels': []}
+{'issuenumber': 579, 'title': 'Issue installing through Homebrew on Mac OS X', 'state': 'closed', 'created_at': '2016-02-04T11:30:54Z', 'closed_at': '2016-02-11T22:11:51Z', 'labels': []}
+{'issuenumber': 569, 'title': "Miss redraw on 'x' press", 'state': 'closed', 'created_at': '2016-02-01T21:50:32Z', 'closed_at': '2016-02-04T09:30:43Z', 'labels': []}
+{'issuenumber': 568, 'title': '`%sh{}` scopes have issues parsing the `}` character properly', 'state': 'closed', 'created_at': '2016-02-01T11:52:49Z', 'closed_at': '2016-02-02T06:24:24Z', 'labels': []}
+{'issuenumber': 560, 'title': 'The `itersel` flag will only make exec/eval iterate over the main selection', 'state': 'closed', 'created_at': '2016-01-20T16:53:17Z', 'closed_at': '2016-01-26T08:03:00Z', 'labels': []}
+{'issuenumber': 558, 'title': 'Support for snippets, auto-completion?', 'state': 'closed', 'created_at': '2016-01-15T13:28:27Z', 'closed_at': '2016-08-25T15:50:41Z', 'labels': []}
+{'issuenumber': 556, 'title': "Allow scripts to declare 'enum' or 'flags' variables", 'state': 'closed', 'created_at': '2016-01-15T10:09:40Z', 'closed_at': '2017-02-28T12:36:52Z', 'labels': []}
+{'issuenumber': 554, 'title': 'autoload clarification', 'state': 'closed', 'created_at': '2016-01-11T11:21:21Z', 'closed_at': '2016-01-13T10:42:11Z', 'labels': []}
+{'issuenumber': 553, 'title': 'Cannot remove dynregex highlighters', 'state': 'closed', 'created_at': '2016-01-07T18:50:23Z', 'closed_at': '2016-02-13T13:11:56Z', 'labels': []}
+{'issuenumber': 552, 'title': 'Dynamic highlighters should be updated while searching to handle search highlighting', 'state': 'closed', 'created_at': '2016-01-07T18:46:12Z', 'closed_at': '2017-06-14T17:11:02Z', 'labels': []}
+{'issuenumber': 551, 'title': ':exec does not work with <a-;> insert command', 'state': 'closed', 'created_at': '2016-01-07T18:26:01Z', 'closed_at': '2016-03-23T13:41:20Z', 'labels': []}
+{'issuenumber': 550, 'title': 'Add <a-S> to split selections on boundaries', 'state': 'closed', 'created_at': '2016-01-07T18:23:24Z', 'closed_at': '2017-11-14T04:42:20Z', 'labels': []}
+{'issuenumber': 548, 'title': 'colorscheme command, "Bad sustitution" on complete', 'state': 'closed', 'created_at': '2016-01-04T20:29:27Z', 'closed_at': '2016-01-06T11:31:54Z', 'labels': []}
+{'issuenumber': 547, 'title': "document that ';' needs escaping when mapped", 'state': 'closed', 'created_at': '2016-01-03T13:33:55Z', 'closed_at': '2016-01-06T11:30:58Z', 'labels': []}
+{'issuenumber': 546, 'title': 'nothing', 'state': 'closed', 'created_at': '2016-01-03T10:24:41Z', 'closed_at': '2016-01-03T10:33:08Z', 'labels': []}
+{'issuenumber': 545, 'title': "cant map '-' (minus) key", 'state': 'closed', 'created_at': '2016-01-02T14:07:53Z', 'closed_at': '2016-01-03T10:33:40Z', 'labels': []}
+{'issuenumber': 544, 'title': 'ui responsiveness  of   [n] and [alt-n] feels inconsistent ', 'state': 'closed', 'created_at': '2016-01-02T12:23:38Z', 'closed_at': '2017-11-26T13:55:07Z', 'labels': []}
+{'issuenumber': 543, 'title': 'Allow to delete word in command line (and maybe insert mode)', 'state': 'closed', 'created_at': '2015-12-30T22:36:09Z', 'closed_at': '2017-04-17T20:12:03Z', 'labels': []}
+{'issuenumber': 541, 'title': 'build without boost-regex', 'state': 'closed', 'created_at': '2015-12-28T12:55:53Z', 'closed_at': '2017-11-17T10:00:18Z', 'labels': []}
+{'issuenumber': 539, 'title': 'command doc dialog looks odd (terminal issue)', 'state': 'closed', 'created_at': '2015-12-25T19:24:01Z', 'closed_at': '2015-12-26T23:18:14Z', 'labels': []}
+{'issuenumber': 536, 'title': 'Issues with anchors in regex search', 'state': 'closed', 'created_at': '2015-12-17T16:12:58Z', 'closed_at': '2015-12-23T22:25:21Z', 'labels': []}
+{'issuenumber': 535, 'title': "Jumping back from a symbol's definition is broken", 'state': 'closed', 'created_at': '2015-12-17T11:00:26Z', 'closed_at': '2015-12-23T03:04:03Z', 'labels': []}
+{'issuenumber': 533, 'title': 'More error tests', 'state': 'closed', 'created_at': '2015-12-15T08:21:31Z', 'closed_at': '2016-07-07T12:34:42Z', 'labels': []}
+{'issuenumber': 531, 'title': "Doesn't properly detect escaped strings in JavaScript", 'state': 'closed', 'created_at': '2015-12-15T03:45:41Z', 'closed_at': '2015-12-15T04:38:59Z', 'labels': []}
+{'issuenumber': 530, 'title': 'Cannot select newline character in normal mode', 'state': 'closed', 'created_at': '2015-12-14T19:59:55Z', 'closed_at': '2016-09-05T12:38:42Z', 'labels': []}
+{'issuenumber': 529, 'title': 'Uncaught exception when using `quit` in a hook', 'state': 'closed', 'created_at': '2015-12-14T12:16:34Z', 'closed_at': '2015-12-14T19:07:10Z', 'labels': []}
+{'issuenumber': 528, 'title': 'Crash on InsertChar hook execution', 'state': 'closed', 'created_at': '2015-12-12T22:46:05Z', 'closed_at': '2015-12-12T23:52:44Z', 'labels': []}
+{'issuenumber': 523, 'title': 'Weird highlighters artifacts when searching after setting scrolloff', 'state': 'closed', 'created_at': '2015-12-10T14:13:36Z', 'closed_at': '2016-07-05T18:14:48Z', 'labels': []}
+{'issuenumber': 520, 'title': 'Visible whitespaces', 'state': 'closed', 'created_at': '2015-12-09T14:21:40Z', 'closed_at': '2015-12-15T12:59:38Z', 'labels': []}
+{'issuenumber': 519, 'title': 'Crash on kak -f', 'state': 'closed', 'created_at': '2015-12-07T23:45:48Z', 'closed_at': '2015-12-08T00:13:44Z', 'labels': []}
+{'issuenumber': 516, 'title': 'Decide on what scripts should be auto-loaded by default', 'state': 'closed', 'created_at': '2015-12-07T12:03:05Z', 'closed_at': '2016-01-27T08:49:42Z', 'labels': []}
+{'issuenumber': 515, 'title': 'Center view when performing big jumps', 'state': 'closed', 'created_at': '2015-12-07T03:02:55Z', 'closed_at': '2017-04-15T20:45:39Z', 'labels': []}
+{'issuenumber': 503, 'title': 'Have a man page for the project', 'state': 'closed', 'created_at': '2015-12-02T09:11:12Z', 'closed_at': '2016-02-06T11:56:46Z', 'labels': []}
+{'issuenumber': 501, 'title': 'bufname is not updated after a cd', 'state': 'closed', 'created_at': '2015-12-01T11:15:07Z', 'closed_at': '2015-12-01T22:53:35Z', 'labels': []}
+{'issuenumber': 498, 'title': "Doesn't compile on cygwin", 'state': 'closed', 'created_at': '2015-11-26T20:29:54Z', 'closed_at': '2015-11-26T23:52:15Z', 'labels': []}
+{'issuenumber': 497, 'title': "Add '_' black hole register", 'state': 'closed', 'created_at': '2015-11-25T17:50:22Z', 'closed_at': '2015-11-25T21:49:04Z', 'labels': []}
+{'issuenumber': 496, 'title': 'Move view with big selection', 'state': 'closed', 'created_at': '2015-11-25T16:26:48Z', 'closed_at': '2017-06-26T10:12:41Z', 'labels': []}
+{'issuenumber': 495, 'title': "'.' command does not honor last insert mode change when executed with no-hooks", 'state': 'closed', 'created_at': '2015-11-25T12:10:59Z', 'closed_at': '2015-11-26T23:52:15Z', 'labels': []}
+{'issuenumber': 494, 'title': 'Include the page number in the completion suggestions of man pages', 'state': 'closed', 'created_at': '2015-11-25T11:51:47Z', 'closed_at': '2015-12-02T09:44:00Z', 'labels': []}
+{'issuenumber': 493, 'title': 'SIGSEGV when using certain registers', 'state': 'closed', 'created_at': '2015-11-25T09:19:00Z', 'closed_at': '2015-11-25T21:49:04Z', 'labels': []}
+{'issuenumber': 492, 'title': 'Fix the jump list when using the `tag` command', 'state': 'closed', 'created_at': '2015-11-25T07:39:53Z', 'closed_at': '2015-11-30T13:42:00Z', 'labels': []}
+{'issuenumber': 491, 'title': 'Hardcoded yellow face', 'state': 'closed', 'created_at': '2015-11-23T21:04:01Z', 'closed_at': '2015-11-24T14:04:09Z', 'labels': []}
+{'issuenumber': 490, 'title': 'help formating %sh{} wanted', 'state': 'closed', 'created_at': '2015-11-22T22:08:39Z', 'closed_at': '2015-11-28T11:35:10Z', 'labels': []}
+{'issuenumber': 489, 'title': 'Support the `-file-completion` switch in the `prompt` command', 'state': 'closed', 'created_at': '2015-11-22T11:59:48Z', 'closed_at': '2015-11-23T13:58:20Z', 'labels': []}
+{'issuenumber': 485, 'title': 'Opening file not working with `-c`', 'state': 'closed', 'created_at': '2015-11-18T08:09:38Z', 'closed_at': '2015-11-23T13:58:20Z', 'labels': []}
+{'issuenumber': 484, 'title': 'Missing feature: soft wrap', 'state': 'closed', 'created_at': '2015-11-17T18:00:04Z', 'closed_at': '2017-05-08T10:34:15Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 483, 'title': 'Client switch when resuming a client "converted to client mode only"', 'state': 'closed', 'created_at': '2015-11-16T11:08:06Z', 'closed_at': '2015-11-16T13:56:40Z', 'labels': []}
+{'issuenumber': 481, 'title': 'Wrong mimetype', 'state': 'closed', 'created_at': '2015-11-14T05:17:13Z', 'closed_at': '2015-11-15T16:20:04Z', 'labels': []}
+{'issuenumber': 477, 'title': 'Commands starting with horizontal whitespace will not be saved in the command history is not easily discoverable', 'state': 'closed', 'created_at': '2015-11-10T17:56:10Z', 'closed_at': '2015-11-12T13:58:05Z', 'labels': []}
+{'issuenumber': 476, 'title': 'Disable history in :map', 'state': 'closed', 'created_at': '2015-11-10T17:32:18Z', 'closed_at': '2015-11-11T19:15:42Z', 'labels': []}
+{'issuenumber': 475, 'title': 'json.kak giving errors', 'state': 'closed', 'created_at': '2015-11-09T22:05:24Z', 'closed_at': '2015-11-10T13:53:52Z', 'labels': []}
+{'issuenumber': 474, 'title': 'Make each client maintain its own buffer history', 'state': 'closed', 'created_at': '2015-11-06T14:39:03Z', 'closed_at': '2015-11-07T18:30:58Z', 'labels': []}
+{'issuenumber': 473, 'title': "Closed server instances don't recover the names of the previously named clients", 'state': 'closed', 'created_at': '2015-11-06T14:21:08Z', 'closed_at': '2015-11-08T10:52:31Z', 'labels': []}
+{'issuenumber': 469, 'title': 'Buffer improperly redrawn in a client', 'state': 'closed', 'created_at': '2015-11-05T14:34:29Z', 'closed_at': '2015-12-02T08:02:55Z', 'labels': []}
+{'issuenumber': 464, 'title': 'Replace boost with a simpler regex lib ', 'state': 'closed', 'created_at': '2015-11-03T22:02:38Z', 'closed_at': '2015-11-04T20:53:50Z', 'labels': []}
+{'issuenumber': 463, 'title': "`:new` doesn't work in `tmux` on OS X", 'state': 'closed', 'created_at': '2015-11-03T21:59:03Z', 'closed_at': '2015-11-17T22:30:48Z', 'labels': []}
+{'issuenumber': 462, 'title': 'kakoune hangs when using multiple selection on big files', 'state': 'closed', 'created_at': '2015-11-03T21:29:08Z', 'closed_at': '2015-11-04T01:02:41Z', 'labels': []}
+{'issuenumber': 461, 'title': 'Improve tmux support', 'state': 'closed', 'created_at': '2015-11-03T12:01:14Z', 'closed_at': '2015-11-18T07:43:42Z', 'labels': []}
+{'issuenumber': 455, 'title': 'Autocomplete function parameters?', 'state': 'closed', 'created_at': '2015-11-02T00:43:52Z', 'closed_at': '2015-12-02T01:14:56Z', 'labels': []}
+{'issuenumber': 454, 'title': 'Query: source of the name', 'state': 'closed', 'created_at': '2015-11-01T22:22:54Z', 'closed_at': '2015-11-03T09:23:35Z', 'labels': []}
+{'issuenumber': 451, 'title': 'Copyright waiver', 'state': 'closed', 'created_at': '2015-10-31T06:46:37Z', 'closed_at': '2015-11-02T11:43:06Z', 'labels': []}
+{'issuenumber': 449, 'title': 'Make the object selection feature smarter', 'state': 'closed', 'created_at': '2015-10-28T07:15:37Z', 'closed_at': '2017-03-07T16:04:06Z', 'labels': []}
+{'issuenumber': 448, 'title': 'Mouse wheel scroll of by one', 'state': 'closed', 'created_at': '2015-10-27T22:47:05Z', 'closed_at': '2015-10-28T00:06:50Z', 'labels': []}
+{'issuenumber': 442, 'title': 'Add support for horizontal view manipulations', 'state': 'closed', 'created_at': '2015-10-19T07:30:36Z', 'closed_at': '2015-11-02T20:22:54Z', 'labels': []}
+{'issuenumber': 440, 'title': 'Highlighting problems on scrolling (markdown)', 'state': 'closed', 'created_at': '2015-10-16T17:16:59Z', 'closed_at': '2015-10-18T11:15:25Z', 'labels': []}
+{'issuenumber': 439, 'title': 'Cannot scroll down with MBUTTON anymore', 'state': 'closed', 'created_at': '2015-10-16T09:30:13Z', 'closed_at': '2015-10-22T12:33:12Z', 'labels': []}
+{'issuenumber': 438, 'title': 'Link Website URL in Repository description', 'state': 'closed', 'created_at': '2015-10-15T08:57:01Z', 'closed_at': '2015-10-18T11:45:34Z', 'labels': []}
+{'issuenumber': 437, 'title': 'What does the status line print, and can it be modified?', 'state': 'closed', 'created_at': '2015-10-14T21:42:36Z', 'closed_at': '2015-10-15T10:51:22Z', 'labels': []}
+{'issuenumber': 436, 'title': 'Alt-Commands conflict with special character insertion.', 'state': 'closed', 'created_at': '2015-10-14T13:19:00Z', 'closed_at': '2015-11-03T09:24:51Z', 'labels': []}
+{'issuenumber': 435, 'title': 'Uncaught exception when typing into the command prompt after resuming the process', 'state': 'closed', 'created_at': '2015-10-13T11:44:21Z', 'closed_at': '2015-10-13T12:40:48Z', 'labels': []}
+{'issuenumber': 434, 'title': 'Use Asciinema for demos', 'state': 'closed', 'created_at': '2015-10-11T18:57:36Z', 'closed_at': '2015-10-12T07:31:10Z', 'labels': []}
+{'issuenumber': 430, 'title': 'Automatically pick the only completion suggestion of a command/argument', 'state': 'closed', 'created_at': '2015-10-11T08:59:06Z', 'closed_at': '2015-10-14T07:02:20Z', 'labels': []}
+{'issuenumber': 429, 'title': 'Redrawing is sometimes done improperly when the process is resumed after a pause', 'state': 'closed', 'created_at': '2015-10-11T08:45:30Z', 'closed_at': '2015-11-18T13:45:28Z', 'labels': []}
+{'issuenumber': 428, 'title': "Alias command not working with alias names containing '-' signs", 'state': 'closed', 'created_at': '2015-10-11T07:28:20Z', 'closed_at': '2015-10-19T22:02:42Z', 'labels': []}
+{'issuenumber': 427, 'title': 'Command parameters are not passed to %sh scopes within a %try', 'state': 'closed', 'created_at': '2015-10-10T18:05:48Z', 'closed_at': '2015-10-22T13:01:12Z', 'labels': []}
+{'issuenumber': 425, 'title': 'Buffer reload popup not drawn automatically when continuing kak', 'state': 'closed', 'created_at': '2015-10-09T14:52:04Z', 'closed_at': '2015-10-13T18:32:42Z', 'labels': []}
+{'issuenumber': 424, 'title': "'stdout is not a tty' assert fail", 'state': 'closed', 'created_at': '2015-10-08T11:30:21Z', 'closed_at': '2016-04-09T09:20:46Z', 'labels': []}
+{'issuenumber': 423, 'title': 'Multiple redrawing issues when the window is resized on i3', 'state': 'closed', 'created_at': '2015-10-08T07:21:06Z', 'closed_at': '2015-10-08T12:44:50Z', 'labels': []}
+{'issuenumber': 422, 'title': 'Allow users to build a statically linked binary', 'state': 'closed', 'created_at': '2015-10-07T12:38:25Z', 'closed_at': '2017-02-04T06:26:25Z', 'labels': []}
+{'issuenumber': 419, 'title': 'Noob questions', 'state': 'closed', 'created_at': '2015-10-03T12:22:11Z', 'closed_at': '2015-10-08T12:47:11Z', 'labels': []}
+{'issuenumber': 417, 'title': 'Using `kak` as $EDITOR causes errors with sudoedit/crontab', 'state': 'closed', 'created_at': '2015-09-26T16:57:39Z', 'closed_at': '2015-09-27T13:25:14Z', 'labels': []}
+{'issuenumber': 410, 'title': 'Add support for pure C to c-family & clang', 'state': 'closed', 'created_at': '2015-09-19T02:09:36Z', 'closed_at': '2015-09-22T18:17:40Z', 'labels': []}
+{'issuenumber': 408, 'title': 'Uncaught exception (N7Kakoune13runtime_errorE)', 'state': 'closed', 'created_at': '2015-09-16T13:49:04Z', 'closed_at': '2015-09-17T12:57:46Z', 'labels': []}
+{'issuenumber': 407, 'title': 'Add select-to-first-non-whitespace', 'state': 'closed', 'created_at': '2015-09-12T19:09:53Z', 'closed_at': '2017-01-22T23:55:05Z', 'labels': []}
+{'issuenumber': 406, 'title': 'Wrong anchor for backward search', 'state': 'closed', 'created_at': '2015-09-12T18:44:00Z', 'closed_at': '2015-09-14T13:32:21Z', 'labels': []}
+{'issuenumber': 405, 'title': 'Select-to-matching-char inconsistent selection extension', 'state': 'closed', 'created_at': '2015-09-12T17:17:11Z', 'closed_at': '2015-11-03T09:25:26Z', 'labels': []}
+{'issuenumber': 396, 'title': 'Segmentation Fault on window resize', 'state': 'closed', 'created_at': '2015-09-06T12:59:20Z', 'closed_at': '2015-09-10T12:06:44Z', 'labels': []}
+{'issuenumber': 393, 'title': 'Mac Install error', 'state': 'closed', 'created_at': '2015-09-02T17:26:53Z', 'closed_at': '2015-09-03T04:38:00Z', 'labels': []}
+{'issuenumber': 384, 'title': '[not an issue] a bit of fun', 'state': 'closed', 'created_at': '2015-08-23T18:51:06Z', 'closed_at': '2015-09-07T12:43:24Z', 'labels': []}
+{'issuenumber': 383, 'title': 'kakoune and fzf', 'state': 'closed', 'created_at': '2015-08-23T13:22:43Z', 'closed_at': '2016-04-12T12:52:06Z', 'labels': []}
+{'issuenumber': 382, 'title': 'crash when defining a face inside a hook', 'state': 'closed', 'created_at': '2015-08-22T21:58:10Z', 'closed_at': '2015-08-23T12:32:30Z', 'labels': []}
+{'issuenumber': 381, 'title': 'Add command for listing all sessions', 'state': 'closed', 'created_at': '2015-08-21T14:06:56Z', 'closed_at': '2015-08-23T14:23:50Z', 'labels': []}
+{'issuenumber': 380, 'title': 'SIGSEGV on jump backwards', 'state': 'closed', 'created_at': '2015-08-19T22:06:50Z', 'closed_at': '2015-08-30T23:04:01Z', 'labels': []}
+{'issuenumber': 378, 'title': 'replace_with_char fails when char to replace is a linefeed', 'state': 'closed', 'created_at': '2015-08-15T15:52:55Z', 'closed_at': '2015-08-18T08:45:22Z', 'labels': []}
+{'issuenumber': 374, 'title': ":face doesn't detect circular dependencies", 'state': 'closed', 'created_at': '2015-08-12T16:01:23Z', 'closed_at': '2015-08-12T20:50:52Z', 'labels': []}
+{'issuenumber': 371, 'title': "Failed assertion when trying to alias a command that doesn't exit", 'state': 'closed', 'created_at': '2015-08-11T08:26:36Z', 'closed_at': '2015-08-11T19:37:52Z', 'labels': []}
+{'issuenumber': 365, 'title': 'Some special keys insert surrogate codepoints in insert mode', 'state': 'closed', 'created_at': '2015-08-05T13:34:21Z', 'closed_at': '2015-08-18T08:45:22Z', 'labels': []}
+{'issuenumber': 361, 'title': 'assert failed "buffer->flags() & Buffer::Flags::Fifo" at buffer_utils.cc:107', 'state': 'closed', 'created_at': '2015-08-04T09:20:22Z', 'closed_at': '2015-08-04T22:05:36Z', 'labels': []}
+{'issuenumber': 357, 'title': 'Uncaught exception when opening a specially crafted file containing unicode', 'state': 'closed', 'created_at': '2015-08-03T17:45:27Z', 'closed_at': '2015-09-23T21:14:18Z', 'labels': []}
+{'issuenumber': 355, 'title': 'File reloading fails with a "buf == &buffer" invalid assert', 'state': 'closed', 'created_at': '2015-08-03T06:18:24Z', 'closed_at': '2015-09-06T12:55:16Z', 'labels': []}
+{'issuenumber': 350, 'title': 'uncaught exception', 'state': 'closed', 'created_at': '2015-08-02T01:37:21Z', 'closed_at': '2015-08-14T12:16:42Z', 'labels': []}
+{'issuenumber': 347, 'title': "Uncaught exception thrown when using the '%' character in the command prompt", 'state': 'closed', 'created_at': '2015-07-29T14:59:14Z', 'closed_at': '2015-07-30T08:46:30Z', 'labels': []}
+{'issuenumber': 345, 'title': "Add an 'x' (and a 'b' ?) flag to the selectors to handle hexadecimal values", 'state': 'closed', 'created_at': '2015-07-29T07:38:54Z', 'closed_at': '2017-04-14T14:48:39Z', 'labels': []}
+{'issuenumber': 343, 'title': 'Moving view continuously when holding keys', 'state': 'closed', 'created_at': '2015-07-28T08:47:57Z', 'closed_at': '2015-11-05T13:52:15Z', 'labels': []}
+{'issuenumber': 338, 'title': 'Failed assertions on <a-X>', 'state': 'closed', 'created_at': '2015-07-23T11:45:05Z', 'closed_at': '2015-07-23T12:53:10Z', 'labels': []}
+{'issuenumber': 337, 'title': 'Mouse scroll support', 'state': 'closed', 'created_at': '2015-07-23T08:20:30Z', 'closed_at': '2015-09-07T12:43:37Z', 'labels': []}
+{'issuenumber': 336, 'title': 'Add support for +number on the command line', 'state': 'closed', 'created_at': '2015-07-22T23:00:24Z', 'closed_at': '2015-12-23T22:57:19Z', 'labels': []}
+{'issuenumber': 335, 'title': "Can't build on raspbian, make error", 'state': 'closed', 'created_at': '2015-07-22T17:07:23Z', 'closed_at': '2015-07-22T22:34:51Z', 'labels': []}
+{'issuenumber': 334, 'title': 'ctrl+u and ctrl+w insert mode shortcuts', 'state': 'closed', 'created_at': '2015-07-22T14:53:03Z', 'closed_at': '2017-04-16T14:31:21Z', 'labels': []}
+{'issuenumber': 331, 'title': 'Killing headless sessions by name', 'state': 'closed', 'created_at': '2015-07-21T20:16:24Z', 'closed_at': '2015-08-26T20:54:36Z', 'labels': []}
+{'issuenumber': 329, 'title': 'Random segmentation fault', 'state': 'closed', 'created_at': '2015-07-20T15:35:14Z', 'closed_at': '2015-08-25T18:26:14Z', 'labels': []}
+{'issuenumber': 327, 'title': 'On exit colors are not restored', 'state': 'closed', 'created_at': '2015-07-19T22:35:40Z', 'closed_at': '2015-09-12T09:55:12Z', 'labels': []}
+{'issuenumber': 323, 'title': 'default color scheme', 'state': 'closed', 'created_at': '2015-07-17T13:04:48Z', 'closed_at': '2015-07-20T12:17:59Z', 'labels': []}
+{'issuenumber': 320, 'title': "Highlight 'FIXME', 'TODO' or 'XXX' comments in source code files", 'state': 'closed', 'created_at': '2015-07-15T09:09:31Z', 'closed_at': '2015-07-21T06:56:26Z', 'labels': []}
+{'issuenumber': 318, 'title': 'Crash when declaring a hook with a filtering regexp that does not make sense', 'state': 'closed', 'created_at': '2015-07-14T17:49:42Z', 'closed_at': '2015-07-14T21:04:09Z', 'labels': []}
+{'issuenumber': 316, 'title': "Mark system takes ESC as '^B' key instead of cancel", 'state': 'closed', 'created_at': '2015-07-14T11:36:00Z', 'closed_at': '2015-07-14T12:49:51Z', 'labels': []}
+{'issuenumber': 315, 'title': 'Versioning for kakoune', 'state': 'closed', 'created_at': '2015-07-13T07:11:20Z', 'closed_at': '2018-04-20T00:45:39Z', 'labels': []}
+{'issuenumber': 314, 'title': '-draft misbehaves on end of selection', 'state': 'closed', 'created_at': '2015-07-08T21:35:35Z', 'closed_at': '2015-08-25T18:24:46Z', 'labels': []}
+{'issuenumber': 313, 'title': 'Let the user teach words that the completion engine must know when editing certain buffers', 'state': 'closed', 'created_at': '2015-07-08T17:02:22Z', 'closed_at': '2015-12-27T08:54:21Z', 'labels': []}
+{'issuenumber': 312, 'title': 'Rework pipe to be smarter', 'state': 'closed', 'created_at': '2015-07-08T14:55:38Z', 'closed_at': '2017-07-14T07:18:16Z', 'labels': []}
+{'issuenumber': 311, 'title': 'coredump on exec inside InsertEnd', 'state': 'closed', 'created_at': '2015-07-07T20:46:29Z', 'closed_at': '2015-07-08T12:54:03Z', 'labels': []}
+{'issuenumber': 310, 'title': 'coredump on inproper invocation', 'state': 'closed', 'created_at': '2015-07-07T20:27:44Z', 'closed_at': '2015-07-08T12:44:31Z', 'labels': []}
+{'issuenumber': 309, 'title': 'Highlight special characters', 'state': 'closed', 'created_at': '2015-07-06T13:22:37Z', 'closed_at': '2015-07-08T12:44:48Z', 'labels': []}
+{'issuenumber': 308, 'title': "Missing '\\n' in error for failed session connect", 'state': 'closed', 'created_at': '2015-07-05T08:54:03Z', 'closed_at': '2015-07-05T12:39:37Z', 'labels': []}
+{'issuenumber': 304, 'title': 'Write Cheatsheet', 'state': 'closed', 'created_at': '2015-07-01T14:07:50Z', 'closed_at': '2015-08-25T18:24:23Z', 'labels': []}
+{'issuenumber': 303, 'title': 'Can not build on Ubuntu', 'state': 'closed', 'created_at': '2015-06-30T14:44:31Z', 'closed_at': '2015-07-01T13:46:50Z', 'labels': []}
+{'issuenumber': 299, 'title': 'How to rebind "?', 'state': 'closed', 'created_at': '2015-06-27T17:29:40Z', 'closed_at': '2015-06-27T19:38:05Z', 'labels': []}
+{'issuenumber': 298, 'title': 'Crash when multiselect deletes blank lines', 'state': 'closed', 'created_at': '2015-06-26T22:01:00Z', 'closed_at': '2015-06-28T10:08:43Z', 'labels': []}
+{'issuenumber': 295, 'title': 'Allow customization of the number_lines format', 'state': 'closed', 'created_at': '2015-06-26T09:13:48Z', 'closed_at': '2015-09-25T12:49:16Z', 'labels': []}
+{'issuenumber': 294, 'title': 'Improper buffer redraw on word search', 'state': 'closed', 'created_at': '2015-06-26T08:45:04Z', 'closed_at': '2015-06-30T09:53:57Z', 'labels': []}
+{'issuenumber': 286, 'title': 'Homebrew build fails to make install', 'state': 'closed', 'created_at': '2015-06-23T19:10:20Z', 'closed_at': '2015-06-27T10:03:23Z', 'labels': []}
+{'issuenumber': 284, 'title': 'Mark system similar to vim', 'state': 'closed', 'created_at': '2015-06-13T08:57:13Z', 'closed_at': '2015-07-11T10:40:03Z', 'labels': []}
+{'issuenumber': 281, 'title': 'Be more verbose when a kakrc parsing error occurs', 'state': 'closed', 'created_at': '2015-06-11T13:52:04Z', 'closed_at': '2015-06-12T12:56:50Z', 'labels': []}
+{'issuenumber': 279, 'title': 'Implement hidden register for commands like onkey', 'state': 'closed', 'created_at': '2015-06-09T06:55:54Z', 'closed_at': '2015-11-25T23:43:46Z', 'labels': []}
+{'issuenumber': 278, 'title': 'Search selection with * could show the search pattern being saved', 'state': 'closed', 'created_at': '2015-06-09T06:55:24Z', 'closed_at': '2015-06-12T12:56:50Z', 'labels': []}
+{'issuenumber': 272, 'title': 'Add register contents to word base completion', 'state': 'closed', 'created_at': '2015-05-16T10:28:50Z', 'closed_at': '2016-04-07T12:44:08Z', 'labels': []}
+{'issuenumber': 271, 'title': 'Cancelling search should restore previous window position', 'state': 'closed', 'created_at': '2015-05-15T11:17:00Z', 'closed_at': '2015-05-18T12:57:24Z', 'labels': []}
+{'issuenumber': 269, 'title': 'Mouse support is bugged on Termite (VTE)', 'state': 'closed', 'created_at': '2015-05-08T17:32:46Z', 'closed_at': '2016-07-05T18:13:16Z', 'labels': []}
+{'issuenumber': 268, 'title': 'Buggy column highlighter', 'state': 'closed', 'created_at': '2015-05-06T12:33:36Z', 'closed_at': '2015-07-23T13:00:02Z', 'labels': []}
+{'issuenumber': 267, 'title': 'Support writing buffer to FIFO', 'state': 'closed', 'created_at': '2015-04-23T11:24:47Z', 'closed_at': '2015-04-29T12:47:25Z', 'labels': []}
+{'issuenumber': 266, 'title': 'Improve buffer list handling', 'state': 'closed', 'created_at': '2015-04-22T13:53:22Z', 'closed_at': '2015-11-07T18:31:56Z', 'labels': []}
+{'issuenumber': 263, 'title': 'Some typo in README', 'state': 'closed', 'created_at': '2015-04-08T19:58:18Z', 'closed_at': '2015-04-13T11:14:40Z', 'labels': []}
+{'issuenumber': 260, 'title': 'Home and End buttons not working correctly', 'state': 'closed', 'created_at': '2015-03-27T11:32:53Z', 'closed_at': '2015-03-27T13:47:21Z', 'labels': []}
+{'issuenumber': 259, 'title': 'Abbreviate name differently?', 'state': 'closed', 'created_at': '2015-03-26T12:47:07Z', 'closed_at': '2015-08-25T18:26:32Z', 'labels': []}
+{'issuenumber': 256, 'title': 'Modeline parsing script', 'state': 'closed', 'created_at': '2015-03-24T13:59:59Z', 'closed_at': '2016-04-07T12:44:18Z', 'labels': []}
+{'issuenumber': 254, 'title': 'compilation warnings  and «error in compiling notice [debian stable + clang official repositories]', 'state': 'closed', 'created_at': '2015-03-11T20:15:10Z', 'closed_at': '2015-04-21T12:51:18Z', 'labels': []}
+{'issuenumber': 250, 'title': '2 separate kak instances should cooperate when editing the same file(s)', 'state': 'closed', 'created_at': '2015-02-13T12:12:10Z', 'closed_at': '2018-07-12T07:11:50Z', 'labels': []}
+{'issuenumber': 249, 'title': 'Advertise Kakoune', 'state': 'closed', 'created_at': '2015-02-10T14:03:34Z', 'closed_at': '2016-12-28T06:04:29Z', 'labels': []}
+{'issuenumber': 246, 'title': '[fix] } sould not extend selection', 'state': 'closed', 'created_at': '2015-02-06T08:25:13Z', 'closed_at': '2015-02-06T20:50:14Z', 'labels': []}
+{'issuenumber': 242, 'title': 'c-family.kak InsertEnd hook is *too smart* to be enabled by default for c++', 'state': 'closed', 'created_at': '2014-12-17T00:17:02Z', 'closed_at': '2014-12-17T14:00:01Z', 'labels': []}
+{'issuenumber': 241, 'title': 'assert failed "not buffer.is_end(sel.anchor())" at selection.cc:383', 'state': 'closed', 'created_at': '2014-12-16T22:30:01Z', 'closed_at': '2014-12-17T14:00:01Z', 'labels': []}
+{'issuenumber': 239, 'title': 'Newlines are not preserved when using %sh and $kak_selection', 'state': 'closed', 'created_at': '2014-11-27T14:27:26Z', 'closed_at': '2014-11-27T15:57:58Z', 'labels': []}
+{'issuenumber': 237, 'title': "Multiple selections still don't work as expected when one selection ends where another begins", 'state': 'closed', 'created_at': '2014-11-22T17:06:04Z', 'closed_at': '2014-11-22T21:20:59Z', 'labels': []}
+{'issuenumber': 236, 'title': 'kakoune blocks UI while processing', 'state': 'closed', 'created_at': '2014-11-21T06:20:18Z', 'closed_at': '2014-11-26T13:52:05Z', 'labels': []}
+{'issuenumber': 235, 'title': 'Enhancement: allow statusline/cmdline being at the top', 'state': 'closed', 'created_at': '2014-11-08T15:44:23Z', 'closed_at': '2014-11-10T23:39:21Z', 'labels': []}
+{'issuenumber': 234, 'title': 'wrong shebang in the test/run bash script', 'state': 'closed', 'created_at': '2014-10-27T08:36:07Z', 'closed_at': '2014-10-27T13:23:07Z', 'labels': []}
+{'issuenumber': 232, 'title': 'small issue with "make install" on cygwin', 'state': 'closed', 'created_at': '2014-10-08T10:56:42Z', 'closed_at': '2014-10-08T20:26:09Z', 'labels': []}
+{'issuenumber': 231, 'title': 'Candidate completions should not be quoted', 'state': 'closed', 'created_at': '2014-08-18T14:31:57Z', 'closed_at': '2014-08-18T22:31:57Z', 'labels': []}
+{'issuenumber': 230, 'title': '[CODE] Highlight significant digits in non-decimal literals, etc', 'state': 'closed', 'created_at': '2014-08-04T19:09:57Z', 'closed_at': '2018-09-18T04:48:17Z', 'labels': []}
+{'issuenumber': 229, 'title': 'Completers (minor enhancements)', 'state': 'closed', 'created_at': '2014-08-03T21:27:08Z', 'closed_at': '2014-08-23T12:59:20Z', 'labels': []}
+{'issuenumber': 228, 'title': '[SOLVED] Is this intended behaviour? (i to enter insert mode moves cursor to start of selection)', 'state': 'closed', 'created_at': '2014-08-03T16:55:53Z', 'closed_at': '2014-08-03T17:05:34Z', 'labels': []}
+{'issuenumber': 227, 'title': 'Internationalization support', 'state': 'closed', 'created_at': '2014-07-30T10:01:20Z', 'closed_at': '2017-01-15T12:41:31Z', 'labels': []}
+{'issuenumber': 226, 'title': 'Completers', 'state': 'closed', 'created_at': '2014-07-29T13:13:42Z', 'closed_at': '2014-07-29T17:56:53Z', 'labels': []}
+{'issuenumber': 225, 'title': 'Colour Column 80', 'state': 'closed', 'created_at': '2014-07-29T13:05:13Z', 'closed_at': '2015-05-05T19:28:24Z', 'labels': []}
+{'issuenumber': 222, 'title': '[SOLVED][meta]Question about git commits and pull requests', 'state': 'closed', 'created_at': '2014-07-28T16:27:57Z', 'closed_at': '2014-07-28T18:19:14Z', 'labels': []}
+{'issuenumber': 221, 'title': 'Control-c (or Escape) in normal mode to stop macro recording?', 'state': 'closed', 'created_at': '2014-07-27T17:45:56Z', 'closed_at': '2014-07-30T00:13:23Z', 'labels': []}
+{'issuenumber': 220, 'title': 'Some platforms have wide "ncurses.h" not "ncursesw/ncurses.h"', 'state': 'closed', 'created_at': '2014-07-27T14:24:32Z', 'closed_at': '2014-07-29T12:44:39Z', 'labels': []}
+{'issuenumber': 219, 'title': '[SOLVED]Unable to build with clang 3.4.2 (linker errors)', 'state': 'closed', 'created_at': '2014-07-27T14:17:56Z', 'closed_at': '2014-07-28T13:54:28Z', 'labels': []}
+{'issuenumber': 217, 'title': '[BUG][FIXED]: hook uses user-customised keymap; therefore autoload/*.kak hook lines break with custom keymaps.', 'state': 'closed', 'created_at': '2014-07-27T09:32:10Z', 'closed_at': '2014-07-27T19:14:18Z', 'labels': []}
+{'issuenumber': 215, 'title': 'notify when wrapping search', 'state': 'closed', 'created_at': '2014-07-25T19:59:46Z', 'closed_at': '2016-02-29T13:53:16Z', 'labels': []}
+{'issuenumber': 214, 'title': 'Function to map two keys to each other for every combination of modifiers applied', 'state': 'closed', 'created_at': '2014-07-25T16:00:26Z', 'closed_at': '2014-07-25T16:43:47Z', 'labels': []}
+{'issuenumber': 213, 'title': 'Add support for using Kakoune as filter', 'state': 'closed', 'created_at': '2014-07-24T20:11:58Z', 'closed_at': '2014-08-17T17:22:36Z', 'labels': []}
+{'issuenumber': 212, 'title': 'Add support for using Kakoune with no UI', 'state': 'closed', 'created_at': '2014-07-24T20:03:32Z', 'closed_at': '2014-08-17T17:21:33Z', 'labels': []}
+{'issuenumber': 203, 'title': 'clear status line before each command', 'state': 'closed', 'created_at': '2014-07-15T15:09:56Z', 'closed_at': '2014-07-23T21:23:41Z', 'labels': []}
+{'issuenumber': 177, 'title': 'Add an option to disable clippy', 'state': 'closed', 'created_at': '2014-07-01T21:25:42Z', 'closed_at': '2015-04-30T12:55:51Z', 'labels': []}
+{'issuenumber': 174, 'title': '^c should unselect selected buffer', 'state': 'closed', 'created_at': '2014-06-29T20:56:15Z', 'closed_at': '2014-07-01T19:33:06Z', 'labels': []}
+{'issuenumber': 173, 'title': 'Add ^F and ^B to scroll to next/prev page', 'state': 'closed', 'created_at': '2014-06-29T20:50:46Z', 'closed_at': '2015-01-27T23:34:55Z', 'labels': []}
+{'issuenumber': 171, 'title': 'alt+J doesnt works (on OSX at least)', 'state': 'closed', 'created_at': '2014-06-29T20:48:53Z', 'closed_at': '2015-06-25T18:09:04Z', 'labels': []}
+{'issuenumber': 170, 'title': "Add support to search next/prev ocurrence of current word ('#' vim key)", 'state': 'closed', 'created_at': '2014-06-29T20:46:20Z', 'closed_at': '2014-06-30T08:53:19Z', 'labels': []}
+{'issuenumber': 169, 'title': 'Add support for tabs', 'state': 'closed', 'created_at': '2014-06-29T20:36:41Z', 'closed_at': '2014-06-30T08:50:24Z', 'labels': []}
+{'issuenumber': 168, 'title': "^w doesn't works in ':' prompt", 'state': 'closed', 'created_at': '2014-06-29T20:30:48Z', 'closed_at': '2014-08-13T23:33:19Z', 'labels': []}
+{'issuenumber': 167, 'title': "Add '⍽' to show non-breaking space in show_whitespaces highlighter", 'state': 'closed', 'created_at': '2014-06-16T06:16:36Z', 'closed_at': '2016-12-02T14:00:13Z', 'labels': []}
+{'issuenumber': 165, 'title': 'Add scrollbar', 'state': 'closed', 'created_at': '2014-06-16T06:11:36Z', 'closed_at': '2016-04-09T08:15:30Z', 'labels': []}
+{'issuenumber': 163, 'title': "Multiple selections don't work as expected when one selection ends where another begins", 'state': 'closed', 'created_at': '2014-06-08T12:21:19Z', 'closed_at': '2014-06-16T00:03:37Z', 'labels': []}
+{'issuenumber': 162, 'title': "Unicode characters are not expanded when highlighting them with '.'", 'state': 'closed', 'created_at': '2014-06-07T08:10:19Z', 'closed_at': '2016-05-10T08:39:16Z', 'labels': []}
+{'issuenumber': 161, 'title': 'add concat paste command', 'state': 'closed', 'created_at': '2014-06-06T09:54:51Z', 'closed_at': '2014-07-05T11:27:31Z', 'labels': []}
+{'issuenumber': 160, 'title': 'preserve previous search register value when cancelling a regex prompt', 'state': 'closed', 'created_at': '2014-06-06T09:44:01Z', 'closed_at': '2014-07-30T18:54:13Z', 'labels': []}
+{'issuenumber': 159, 'title': 'clippy is truncated when window size too small !', 'state': 'closed', 'created_at': '2014-06-02T23:04:36Z', 'closed_at': '2015-04-30T12:50:06Z', 'labels': []}
+{'issuenumber': 158, 'title': 'Multiple matches on a group with regex highlights', 'state': 'closed', 'created_at': '2014-06-02T21:12:25Z', 'closed_at': '2016-10-01T13:00:38Z', 'labels': []}
+{'issuenumber': 157, 'title': 'history is lost when reloading buffer which modified externally', 'state': 'closed', 'created_at': '2014-05-31T23:59:18Z', 'closed_at': '2014-10-25T10:23:31Z', 'labels': []}
+{'issuenumber': 156, 'title': "'d' to load unified formated diff in buffer when modified externally", 'state': 'closed', 'created_at': '2014-05-31T23:51:02Z', 'closed_at': '2015-11-17T23:26:31Z', 'labels': []}
+{'issuenumber': 155, 'title': 'Add argument expansion', 'state': 'closed', 'created_at': '2014-05-31T21:04:27Z', 'closed_at': '2014-06-02T09:15:45Z', 'labels': []}
+{'issuenumber': 154, 'title': "investigate 'kakmerge'", 'state': 'closed', 'created_at': '2014-05-28T21:53:35Z', 'closed_at': '2017-04-16T14:29:41Z', 'labels': []}
+{'issuenumber': 152, 'title': 'Add ‹ side scroll offset › option', 'state': 'closed', 'created_at': '2014-05-28T19:58:36Z', 'closed_at': '2014-10-07T18:54:11Z', 'labels': []}
+{'issuenumber': 151, 'title': 'Add (HJKL) view commands to scroll N% of the size of the window', 'state': 'closed', 'created_at': '2014-05-27T19:09:16Z', 'closed_at': '2018-01-18T23:15:01Z', 'labels': []}
+{'issuenumber': 150, 'title': 'Kakoune crashes when it dies ungracefully', 'state': 'closed', 'created_at': '2014-05-27T19:00:40Z', 'closed_at': '2015-02-03T00:13:41Z', 'labels': []}
+{'issuenumber': 149, 'title': 'resolve file path for token being completed in edit command', 'state': 'closed', 'created_at': '2014-05-26T08:54:19Z', 'closed_at': '2016-03-24T13:43:29Z', 'labels': []}
+{'issuenumber': 148, 'title': 'Automatically select candidate completion in command-line', 'state': 'closed', 'created_at': '2014-05-26T08:24:37Z', 'closed_at': '2014-09-09T23:10:58Z', 'labels': []}
+{'issuenumber': 147, 'title': 'Add shift-arrow commands to extend the selections', 'state': 'closed', 'created_at': '2014-05-23T17:24:06Z', 'closed_at': '2018-01-19T02:30:11Z', 'labels': []}
+{'issuenumber': 146, 'title': 'Add <del> key name', 'state': 'closed', 'created_at': '2014-05-23T10:48:08Z', 'closed_at': '2014-05-25T16:40:52Z', 'labels': []}
+{'issuenumber': 145, 'title': 'Rename Key::Erase → Key::Delete', 'state': 'closed', 'created_at': '2014-05-23T10:42:15Z', 'closed_at': '2014-05-25T16:40:52Z', 'labels': []}
+{'issuenumber': 144, 'title': 'Expose line:column+length selection through kak_selection(s)_desc environment variable', 'state': 'closed', 'created_at': '2014-05-23T00:27:27Z', 'closed_at': '2014-05-25T18:52:39Z', 'labels': []}
+{'issuenumber': 143, 'title': 'Spell checking support', 'state': 'closed', 'created_at': '2014-05-22T23:25:57Z', 'closed_at': '2016-03-10T20:19:15Z', 'labels': []}
+{'issuenumber': 142, 'title': 'Show Unicode character name and its code under primary cursor in the status line', 'state': 'closed', 'created_at': '2014-05-22T13:45:20Z', 'closed_at': '2017-09-12T04:52:58Z', 'labels': []}
+{'issuenumber': 141, 'title': 'Add ctrl-u command to insert Unicode character', 'state': 'closed', 'created_at': '2014-05-22T13:42:13Z', 'closed_at': '2014-05-31T12:44:51Z', 'labels': []}
+{'issuenumber': 140, 'title': 'Indent object does not play well with empty lines around the selections', 'state': 'closed', 'created_at': '2014-05-22T12:56:50Z', 'closed_at': '2014-05-26T23:32:09Z', 'labels': []}
+{'issuenumber': 139, 'title': 'Unicode characters are skipped when passing them to input handler', 'state': 'closed', 'created_at': '2014-05-22T12:26:34Z', 'closed_at': '2014-06-05T18:39:04Z', 'labels': []}
+{'issuenumber': 137, 'title': 'Add alt-S command to split the current selections on line boundaries, but excluding empty lines', 'state': 'closed', 'created_at': '2014-05-20T02:04:40Z', 'closed_at': '2014-06-21T10:29:33Z', 'labels': []}
+{'issuenumber': 136, 'title': 'Expand the arguments in shell wrapping helpers', 'state': 'closed', 'created_at': '2014-05-20T01:56:39Z', 'closed_at': '2014-06-05T12:02:31Z', 'labels': []}
+{'issuenumber': 135, 'title': 'Repeat last insert and insert completion don’t work well together', 'state': 'closed', 'created_at': '2014-05-19T22:57:26Z', 'closed_at': '2015-03-19T00:32:00Z', 'labels': []}
+{'issuenumber': 134, 'title': 'hook to indent on new line should be in every file type', 'state': 'closed', 'created_at': '2014-05-19T22:03:56Z', 'closed_at': '2014-11-11T21:59:21Z', 'labels': []}
+{'issuenumber': 133, 'title': 'alt-j command discussion', 'state': 'closed', 'created_at': '2014-05-19T16:06:18Z', 'closed_at': '2014-09-25T23:51:47Z', 'labels': []}
+{'issuenumber': 132, 'title': 'add whitespaces object', 'state': 'closed', 'created_at': '2014-05-19T15:59:30Z', 'closed_at': '2014-06-11T20:30:18Z', 'labels': []}
+{'issuenumber': 131, 'title': 'command argument are not self documented', 'state': 'closed', 'created_at': '2014-05-19T07:27:52Z', 'closed_at': '2015-03-02T13:05:30Z', 'labels': []}
+{'issuenumber': 130, 'title': 'color of flagged lines is not configurable in git-tools', 'state': 'closed', 'created_at': '2014-05-19T00:26:16Z', 'closed_at': '2015-08-23T12:32:30Z', 'labels': []}
+{'issuenumber': 129, 'title': 'git show-diff flags modified lines as deleted lines', 'state': 'closed', 'created_at': '2014-05-19T00:18:55Z', 'closed_at': '2018-07-02T11:06:19Z', 'labels': []}
+{'issuenumber': 128, 'title': 'missing completion for git wrapping helper command', 'state': 'closed', 'created_at': '2014-05-19T00:05:21Z', 'closed_at': '2014-12-11T13:19:59Z', 'labels': []}
+{'issuenumber': 127, 'title': "Add 'wrap' highlighter to display lines longer than the width of the window", 'state': 'closed', 'created_at': '2014-05-18T14:59:50Z', 'closed_at': '2017-05-08T10:34:43Z', 'labels': []}
+{'issuenumber': 126, 'title': 'How cancel expanded candidate completion ?', 'state': 'closed', 'created_at': '2014-05-14T11:07:17Z', 'closed_at': '2015-11-17T23:28:22Z', 'labels': []}
+{'issuenumber': 125, 'title': 'back space to edit count before the command', 'state': 'closed', 'created_at': '2014-05-14T10:53:16Z', 'closed_at': '2014-05-25T18:52:39Z', 'labels': []}
+{'issuenumber': 124, 'title': 'shift-tab does not cancel completion on empty token', 'state': 'closed', 'created_at': '2014-05-14T10:30:12Z', 'closed_at': '2016-03-24T13:45:32Z', 'labels': []}
+{'issuenumber': 123, 'title': 'menu completion should not be truncated', 'state': 'closed', 'created_at': '2014-05-13T23:39:41Z', 'closed_at': '2016-03-24T13:20:35Z', 'labels': []}
+{'issuenumber': 122, 'title': 'search highlighter should not take a color parameter, but use Search color alias instead', 'state': 'closed', 'created_at': '2014-05-13T08:11:25Z', 'closed_at': '2014-05-13T18:47:02Z', 'labels': []}
+{'issuenumber': 121, 'title': 'Hook on external changes makes Kakoune crashes when cannot find file', 'state': 'closed', 'created_at': '2014-05-13T08:04:09Z', 'closed_at': '2014-06-22T11:04:25Z', 'labels': []}
+{'issuenumber': 120, 'title': 'show_matching highlighter to show matching (opener|closer) character while typing', 'state': 'closed', 'created_at': '2014-05-13T07:59:14Z', 'closed_at': '2018-01-19T02:30:34Z', 'labels': []}
+{'issuenumber': 119, 'title': 'show_matching highlighter does not work on closing character when opening one is at begin of buffer', 'state': 'closed', 'created_at': '2014-05-13T07:52:21Z', 'closed_at': '2014-05-13T18:47:02Z', 'labels': []}
+{'issuenumber': 118, 'title': '(search|show_matching…) highlighters are not visible on text which is already highlighted', 'state': 'closed', 'created_at': '2014-05-13T00:28:18Z', 'closed_at': '2014-06-21T10:33:23Z', 'labels': []}
+{'issuenumber': 117, 'title': 'register access should use the main selection register value rather than the first register value', 'state': 'closed', 'created_at': '2014-05-12T13:48:56Z', 'closed_at': '2014-06-21T10:39:57Z', 'labels': []}
+{'issuenumber': 116, 'title': ':delbuf[!] command does not force buffer deletion', 'state': 'closed', 'created_at': '2014-05-12T10:42:58Z', 'closed_at': '2014-05-13T18:47:02Z', 'labels': []}
+{'issuenumber': 115, 'title': 'Include distance in ranking algorithm for buffer completion', 'state': 'closed', 'created_at': '2014-05-10T20:21:56Z', 'closed_at': '2015-11-17T23:35:11Z', 'labels': []}
+{'issuenumber': 114, 'title': 'Fuzzy matching completion', 'state': 'closed', 'created_at': '2014-05-10T20:09:22Z', 'closed_at': '2014-09-09T23:07:07Z', 'labels': []}
+{'issuenumber': 113, 'title': 'Enter / Escape to reload / not reload buffer when modified externally', 'state': 'closed', 'created_at': '2014-05-09T11:54:26Z', 'closed_at': '2015-02-11T20:46:31Z', 'labels': []}
+{'issuenumber': 112, 'title': "Add '\\' command to disable hooks for an interactive command", 'state': 'closed', 'created_at': '2014-05-09T11:28:05Z', 'closed_at': '2014-06-22T11:04:25Z', 'labels': []}
+{'issuenumber': 111, 'title': 'Add switch to :menu command to auto-execute a menu item when it’s typed fully', 'state': 'closed', 'created_at': '2014-05-07T13:24:58Z', 'closed_at': '2015-11-17T23:36:09Z', 'labels': []}
+{'issuenumber': 110, 'title': 'Use notifications instead of xmessage to report errors, in assert.cc', 'state': 'closed', 'created_at': '2014-05-07T12:58:08Z', 'closed_at': '2014-05-07T18:02:49Z', 'labels': []}
+{'issuenumber': 109, 'title': "Repeat last 'i' insert mode change at end of line", 'state': 'closed', 'created_at': '2014-05-07T12:31:07Z', 'closed_at': '2014-12-11T13:19:03Z', 'labels': []}
+{'issuenumber': 108, 'title': 'Add hook to auto-mkdir when saving buffer to file', 'state': 'closed', 'created_at': '2014-05-02T23:35:30Z', 'closed_at': '2014-05-03T17:39:59Z', 'labels': []}
+{'issuenumber': 107, 'title': 'Add <F1> command to show contextual help', 'state': 'closed', 'created_at': '2014-05-02T21:19:15Z', 'closed_at': '2017-02-06T23:56:53Z', 'labels': []}
+{'issuenumber': 106, 'title': 'Add :doc command', 'state': 'closed', 'created_at': '2014-05-02T20:49:16Z', 'closed_at': '2016-02-07T17:23:09Z', 'labels': []}
+{'issuenumber': 105, 'title': 'Add -docstring switch to :map command', 'state': 'closed', 'created_at': '2014-05-02T20:38:23Z', 'closed_at': '2017-03-03T21:18:32Z', 'labels': []}
+{'issuenumber': 104, 'title': 'minor mode support for key mapping', 'state': 'closed', 'created_at': '2014-05-02T19:40:00Z', 'closed_at': '2014-05-07T18:01:02Z', 'labels': []}
+{'issuenumber': 103, 'title': "'gf' command should work with secondary selections", 'state': 'closed', 'created_at': '2014-05-02T18:29:47Z', 'closed_at': '2016-02-25T13:46:07Z', 'labels': []}
+{'issuenumber': 102, 'title': 'allow colalias to reference another colalias', 'state': 'closed', 'created_at': '2014-05-02T18:26:25Z', 'closed_at': '2014-08-19T22:16:54Z', 'labels': []}
+{'issuenumber': 101, 'title': 'Document alias commands', 'state': 'closed', 'created_at': '2014-05-02T18:25:09Z', 'closed_at': '2014-05-03T17:44:05Z', 'labels': []}
+{'issuenumber': 100, 'title': 'Add -alias switch to :def command', 'state': 'closed', 'created_at': '2014-05-02T18:24:49Z', 'closed_at': '2014-05-03T17:44:05Z', 'labels': []}
+{'issuenumber': 99, 'title': 'contextual help in insert mode', 'state': 'closed', 'created_at': '2014-04-27T16:30:05Z', 'closed_at': '2014-11-11T22:00:49Z', 'labels': []}
+{'issuenumber': 98, 'title': 'hook to synchronize the main selection with system register', 'state': 'closed', 'created_at': '2014-04-27T08:51:26Z', 'closed_at': '2016-11-11T10:55:30Z', 'labels': []}
+{'issuenumber': 97, 'title': 'add -init switch to :prompt to set the initial text', 'state': 'closed', 'created_at': '2014-04-26T18:37:38Z', 'closed_at': '2014-04-27T11:34:04Z', 'labels': []}
+{'issuenumber': 96, 'title': "Set 'Kakoune — BUFFER_NAME' as the window title", 'state': 'closed', 'created_at': '2014-04-26T18:36:58Z', 'closed_at': '2014-05-05T11:53:36Z', 'labels': []}
+{'issuenumber': 95, 'title': 'segfault when launching new client', 'state': 'closed', 'created_at': '2014-04-23T11:58:22Z', 'closed_at': '2014-04-23T21:18:01Z', 'labels': []}
+{'issuenumber': 94, 'title': 'to(lower|upper) commands not working with wide characters', 'state': 'closed', 'created_at': '2014-04-18T11:57:42Z', 'closed_at': '2015-11-11T19:15:42Z', 'labels': []}
+{'issuenumber': 92, 'title': 'Odd behavior with comments', 'state': 'closed', 'created_at': '2014-04-10T13:14:32Z', 'closed_at': '2014-04-10T19:11:35Z', 'labels': []}
+{'issuenumber': 90, 'title': 'Segfault when typing m/ in insert mode', 'state': 'closed', 'created_at': '2014-04-05T19:01:41Z', 'closed_at': '2014-04-06T01:58:09Z', 'labels': []}
+{'issuenumber': 89, 'title': 'Begin versioning/releasing kakoune?', 'state': 'closed', 'created_at': '2014-04-05T18:48:19Z', 'closed_at': '2018-04-20T00:45:32Z', 'labels': []}
+{'issuenumber': 85, 'title': 'Regex matching whitespace at the end of the line matches nonexistent char at the end of the file', 'state': 'closed', 'created_at': '2014-03-23T16:02:30Z', 'closed_at': '2014-03-23T19:16:08Z', 'labels': []}
+{'issuenumber': 84, 'title': "Smart case matching for '*'", 'state': 'closed', 'created_at': '2014-03-04T00:19:59Z', 'closed_at': '2016-09-28T18:08:44Z', 'labels': []}
+{'issuenumber': 83, 'title': 'Caching strategy for highlighting', 'state': 'closed', 'created_at': '2014-03-03T23:55:08Z', 'closed_at': '2014-03-21T09:44:46Z', 'labels': []}
+{'issuenumber': 82, 'title': 'Complete using words in all buffers', 'state': 'closed', 'created_at': '2014-03-03T18:30:31Z', 'closed_at': '2014-03-03T21:33:06Z', 'labels': []}
+{'issuenumber': 81, 'title': 'needs a dependency diet', 'state': 'closed', 'created_at': '2014-02-28T23:08:41Z', 'closed_at': '2014-03-28T23:20:23Z', 'labels': []}
+{'issuenumber': 80, 'title': 'multiple parameters support for normal mode commands', 'state': 'closed', 'created_at': '2014-02-27T14:36:48Z', 'closed_at': '2017-03-03T21:39:31Z', 'labels': []}
+{'issuenumber': 79, 'title': 'Tree based undo', 'state': 'closed', 'created_at': '2014-02-27T14:33:14Z', 'closed_at': '2016-09-05T12:58:15Z', 'labels': []}
+{'issuenumber': 78, 'title': 'Kakoune automagically merges selections', 'state': 'closed', 'created_at': '2014-02-27T14:23:35Z', 'closed_at': '2014-02-27T20:56:40Z', 'labels': []}
+{'issuenumber': 77, 'title': 'Distinguish insert type completions', 'state': 'closed', 'created_at': '2014-02-27T14:10:42Z', 'closed_at': '2014-04-27T18:12:16Z', 'labels': []}
+{'issuenumber': 76, 'title': ':grep current buffer when no buffer name is passed', 'state': 'closed', 'created_at': '2014-02-27T13:57:34Z', 'closed_at': '2014-03-29T09:01:45Z', 'labels': []}
+{'issuenumber': 75, 'title': ':grep ability to grep buffer', 'state': 'closed', 'created_at': '2014-02-27T13:56:51Z', 'closed_at': '2014-03-29T09:01:12Z', 'labels': []}
+{'issuenumber': 74, 'title': 'Session recovery support after quitting', 'state': 'closed', 'created_at': '2014-02-27T13:48:34Z', 'closed_at': '2020-05-29T03:42:58Z', 'labels': []}
+{'issuenumber': 73, 'title': 'Spelling support', 'state': 'closed', 'created_at': '2014-02-27T13:46:13Z', 'closed_at': '2016-02-25T13:44:23Z', 'labels': []}
+{'issuenumber': 72, 'title': 'User defined text objects', 'state': 'closed', 'created_at': '2014-02-27T13:41:37Z', 'closed_at': '2016-02-25T13:40:07Z', 'labels': []}
+{'issuenumber': 71, 'title': 'configurable evaluated (%sh{…}) strings', 'state': 'closed', 'created_at': '2014-02-27T13:38:13Z', 'closed_at': '2016-03-31T07:59:58Z', 'labels': []}
+{'issuenumber': 70, 'title': '#Kakoune direct link for people who don’t have an IRC client', 'state': 'closed', 'created_at': '2014-02-24T14:15:41Z', 'closed_at': '2014-02-25T02:47:14Z', 'labels': []}
+{'issuenumber': 69, 'title': 'build and test Kakoune on Travis CI', 'state': 'closed', 'created_at': '2014-02-24T12:50:33Z', 'closed_at': '2014-11-21T14:02:18Z', 'labels': []}
+{'issuenumber': 68, 'title': "no such id: sh' pid: 7309", 'state': 'closed', 'created_at': '2014-02-24T01:12:06Z', 'closed_at': '2014-02-25T00:17:41Z', 'labels': []}
+{'issuenumber': 66, 'title': 'Handle command-lines larger than window', 'state': 'closed', 'created_at': '2014-02-18T23:19:50Z', 'closed_at': '2014-02-20T11:08:15Z', 'labels': []}
+{'issuenumber': 65, 'title': 'Enhancement: Add template for base16-builder', 'state': 'closed', 'created_at': '2014-02-12T19:16:59Z', 'closed_at': '2017-04-15T16:27:16Z', 'labels': []}
+{'issuenumber': 64, 'title': 'Add possibility to keep the cursor column index when moving up/down', 'state': 'closed', 'created_at': '2014-02-09T18:48:09Z', 'closed_at': '2014-09-10T20:18:31Z', 'labels': []}
+{'issuenumber': 63, 'title': "'n' command selects next match to the main selection", 'state': 'closed', 'created_at': '2014-02-09T00:55:25Z', 'closed_at': '2014-07-30T18:57:26Z', 'labels': []}
+{'issuenumber': 62, 'title': 'Incrementally add object selections', 'state': 'closed', 'created_at': '2014-02-08T18:36:07Z', 'closed_at': '2014-03-30T10:14:57Z', 'labels': []}
+{'issuenumber': 61, 'title': 'Remove the last multi-selection', 'state': 'closed', 'created_at': '2014-02-08T18:19:30Z', 'closed_at': '2014-02-15T00:58:39Z', 'labels': []}
+{'issuenumber': 60, 'title': '* does not work', 'state': 'closed', 'created_at': '2014-02-08T16:03:51Z', 'closed_at': '2014-02-10T03:33:04Z', 'labels': []}
+{'issuenumber': 59, 'title': 'Hot reload of kak commands', 'state': 'closed', 'created_at': '2014-02-08T15:59:53Z', 'closed_at': '2017-04-16T14:29:10Z', 'labels': []}
+{'issuenumber': 58, 'title': 'Project statement and coding conventions', 'state': 'closed', 'created_at': '2014-02-08T15:06:22Z', 'closed_at': '2014-10-07T18:54:11Z', 'labels': []}
+{'issuenumber': 56, 'title': 'More style highlighting', 'state': 'closed', 'created_at': '2014-02-05T14:35:33Z', 'closed_at': '2014-02-05T22:39:11Z', 'labels': []}
+{'issuenumber': 55, 'title': 'read from stdin in scratch buffer', 'state': 'closed', 'created_at': '2014-02-05T10:32:25Z', 'closed_at': '2014-05-05T11:30:00Z', 'labels': []}
+{'issuenumber': 54, 'title': 'Build fail with g++-4.8.1 and clang-3.5', 'state': 'closed', 'created_at': '2014-02-04T21:58:49Z', 'closed_at': '2014-02-07T13:53:59Z', 'labels': []}
+{'issuenumber': 53, 'title': 'add ` text object', 'state': 'closed', 'created_at': '2014-02-04T17:30:38Z', 'closed_at': '2014-02-15T00:34:10Z', 'labels': []}
+{'issuenumber': 52, 'title': 'Should Kakoune know about syntax objects?', 'state': 'closed', 'created_at': '2014-02-04T10:01:25Z', 'closed_at': '2014-02-15T00:18:57Z', 'labels': []}
+{'issuenumber': 51, 'title': 'remove kakrc file next to the kak binary', 'state': 'closed', 'created_at': '2014-02-04T01:49:41Z', 'closed_at': '2014-02-05T22:36:20Z', 'labels': []}
+{'issuenumber': 50, 'title': 'Should Kakoune have a parser?', 'state': 'closed', 'created_at': '2014-02-04T00:26:22Z', 'closed_at': '2014-02-06T05:43:47Z', 'labels': []}
+{'issuenumber': 49, 'title': 'Try Kakoune', 'state': 'closed', 'created_at': '2014-02-03T11:33:50Z', 'closed_at': '2014-07-07T23:34:50Z', 'labels': []}
+{'issuenumber': 48, 'title': "'.' does not repeat last group action", 'state': 'closed', 'created_at': '2014-02-03T11:07:06Z', 'closed_at': '2014-02-06T05:46:19Z', 'labels': []}
+{'issuenumber': 47, 'title': 'editing multiple buffers', 'state': 'closed', 'created_at': '2014-01-28T23:24:30Z', 'closed_at': '2014-03-02T01:32:17Z', 'labels': []}
+{'issuenumber': 46, 'title': 'being slow when editing very long lines', 'state': 'closed', 'created_at': '2014-01-28T23:16:15Z', 'closed_at': '2014-07-30T00:10:55Z', 'labels': []}
+{'issuenumber': 45, 'title': 'acceding capturing group inside hook', 'state': 'closed', 'created_at': '2014-01-24T23:36:46Z', 'closed_at': '2014-07-30T18:55:39Z', 'labels': []}
+{'issuenumber': 44, 'title': 'no :hook completion', 'state': 'closed', 'created_at': '2014-01-24T23:24:58Z', 'closed_at': '2014-01-27T20:03:20Z', 'labels': []}
+{'issuenumber': 43, 'title': "move 'n' command in 'm'", 'state': 'closed', 'created_at': '2014-01-24T17:14:41Z', 'closed_at': '2014-02-15T00:28:23Z', 'labels': []}
+{'issuenumber': 42, 'title': 'repeat last normal command', 'state': 'closed', 'created_at': '2014-01-24T10:26:23Z', 'closed_at': '2014-01-26T16:14:44Z', 'labels': []}
+{'issuenumber': 41, 'title': 'support negative counts', 'state': 'closed', 'created_at': '2014-01-24T10:20:25Z', 'closed_at': '2017-07-19T15:49:46Z', 'labels': []}
+{'issuenumber': 39, 'title': "add 'a' object alias for <> (angle)", 'state': 'closed', 'created_at': '2014-01-22T16:45:33Z', 'closed_at': '2014-01-27T20:03:20Z', 'labels': []}
+{'issuenumber': 38, 'title': 'add cursor_(line|column) highlighters', 'state': 'closed', 'created_at': '2014-01-22T11:01:51Z', 'closed_at': '2015-05-05T19:24:40Z', 'labels': []}
+{'issuenumber': 37, 'title': 'continuously result in (select|split|keep) commands as you type', 'state': 'closed', 'created_at': '2014-01-22T10:41:59Z', 'closed_at': '2014-01-27T20:03:20Z', 'labels': []}
+{'issuenumber': 36, 'title': 'keep only the selections that success shell command', 'state': 'closed', 'created_at': '2014-01-21T22:07:59Z', 'closed_at': '2014-05-05T17:05:02Z', 'labels': []}
+{'issuenumber': 35, 'title': 'register expansion in command-line (prompt) does not fit well with multiple selections', 'state': 'closed', 'created_at': '2014-01-21T22:01:44Z', 'closed_at': '2016-03-23T14:00:46Z', 'labels': []}
+{'issuenumber': 34, 'title': 'ANSI escape code handling', 'state': 'closed', 'created_at': '2014-01-18T20:22:31Z', 'closed_at': '2016-02-25T13:41:42Z', 'labels': []}
+{'issuenumber': 33, 'title': 'support multiple character names for macros', 'state': 'closed', 'created_at': '2014-01-13T19:49:13Z', 'closed_at': '2015-04-30T12:49:31Z', 'labels': []}
+{'issuenumber': 32, 'title': 'complete option value using current value', 'state': 'closed', 'created_at': '2014-01-09T17:38:43Z', 'closed_at': '2014-05-05T12:11:28Z', 'labels': []}
+{'issuenumber': 31, 'title': 'Honor previous selection orientation in alt-|', 'state': 'closed', 'created_at': '2014-01-07T12:12:38Z', 'closed_at': '2014-10-12T18:00:26Z', 'labels': []}
+{'issuenumber': 30, 'title': 'Kakoune holds in ctrl-s', 'state': 'closed', 'created_at': '2014-01-07T11:59:35Z', 'closed_at': '2014-09-20T18:39:40Z', 'labels': []}
+{'issuenumber': 29, 'title': 'Honor previous selection orientation in alt-s', 'state': 'closed', 'created_at': '2014-01-05T16:37:33Z', 'closed_at': '2014-09-20T18:39:10Z', 'labels': []}
+{'issuenumber': 28, 'title': 'auto show history completion when pressing <up> or <down> in command-line', 'state': 'closed', 'created_at': '2014-01-05T13:51:11Z', 'closed_at': '2020-09-01T07:20:39Z', 'labels': []}
+{'issuenumber': 27, 'title': 'Readline commands in (insert|command-line|prompt) mode', 'state': 'closed', 'created_at': '2014-01-04T19:24:01Z', 'closed_at': '2014-09-09T22:54:32Z', 'labels': []}
+{'issuenumber': 26, 'title': 'how to not trigger hook on <key> insertion ?', 'state': 'closed', 'created_at': '2014-01-04T14:25:18Z', 'closed_at': '2014-07-30T00:12:03Z', 'labels': []}
+{'issuenumber': 25, 'title': 'add indent based string syntax', 'state': 'closed', 'created_at': '2014-01-04T12:36:37Z', 'closed_at': '2014-01-04T17:06:38Z', 'labels': []}
+{'issuenumber': 24, 'title': 'add named string syntax block', 'state': 'closed', 'created_at': '2014-01-04T11:40:53Z', 'closed_at': '2014-01-04T11:57:18Z', 'labels': []}
+{'issuenumber': 23, 'title': 'search register is not accessible in %sh{…}', 'state': 'closed', 'created_at': '2014-01-04T11:12:25Z', 'closed_at': '2014-06-05T23:46:23Z', 'labels': []}
+{'issuenumber': 22, 'title': "add 'tags' option in ctags.kak", 'state': 'closed', 'created_at': '2014-01-04T00:59:37Z', 'closed_at': '2014-10-12T18:00:26Z', 'labels': []}
+{'issuenumber': 21, 'title': 'completion not working when chaining shell commands', 'state': 'closed', 'created_at': '2014-01-03T21:26:06Z', 'closed_at': '2014-01-03T22:36:19Z', 'labels': []}
+{'issuenumber': 19, 'title': 'completion not working when chaining commands', 'state': 'closed', 'created_at': '2014-01-03T13:44:06Z', 'closed_at': '2014-01-03T20:16:28Z', 'labels': []}
+{'issuenumber': 18, 'title': 'actual supported insert mode commands', 'state': 'closed', 'created_at': '2014-01-03T03:45:30Z', 'closed_at': '2014-01-04T18:28:18Z', 'labels': []}
+{'issuenumber': 17, 'title': 'change <count><space> to be relative to the main selection', 'state': 'closed', 'created_at': '2014-01-03T03:41:28Z', 'closed_at': '2014-02-15T00:58:31Z', 'labels': []}
+{'issuenumber': 16, 'title': "remove 'f' and 't' motions", 'state': 'closed', 'created_at': '2014-01-03T02:59:27Z', 'closed_at': '2014-01-26T16:17:23Z', 'labels': []}
+{'issuenumber': 15, 'title': 'no equivalent to opposite direction', 'state': 'closed', 'created_at': '2014-01-03T02:58:33Z', 'closed_at': '2014-07-07T23:36:30Z', 'labels': []}
+{'issuenumber': 14, 'title': ':exec -draft -itersel |external_filter does not group changes in undo history', 'state': 'closed', 'created_at': '2014-01-03T02:22:13Z', 'closed_at': '2014-01-06T20:11:47Z', 'labels': []}
+{'issuenumber': 13, 'title': 'What are the acceptable tools dependencies in kak scripts', 'state': 'closed', 'created_at': '2014-01-03T01:24:33Z', 'closed_at': '2014-01-03T19:04:48Z', 'labels': []}
+{'issuenumber': 12, 'title': 'add alt-| to evaluate shell command in (insert|command-line|prompt) mode', 'state': 'closed', 'created_at': '2014-01-03T00:45:53Z', 'closed_at': '2014-05-05T11:31:48Z', 'labels': []}
+{'issuenumber': 11, 'title': "'gf' on absolute path not working", 'state': 'closed', 'created_at': '2014-01-02T23:45:29Z', 'closed_at': '2014-01-03T20:16:28Z', 'labels': []}
+{'issuenumber': 10, 'title': 'add kak_count', 'state': 'closed', 'created_at': '2014-01-02T23:28:10Z', 'closed_at': '2015-11-18T13:45:28Z', 'labels': []}
+{'issuenumber': 8, 'title': 'move composed editing commands to edit.kak', 'state': 'closed', 'created_at': '2014-01-02T23:05:59Z', 'closed_at': '2014-03-26T09:23:18Z', 'labels': []}
+{'issuenumber': 7, 'title': 'force completion when token is not valid', 'state': 'closed', 'created_at': '2014-01-02T22:46:56Z', 'closed_at': '2014-02-19T03:23:53Z', 'labels': []}
+{'issuenumber': 6, 'title': 'auto show buffer word completion when prompting for regex', 'state': 'closed', 'created_at': '2014-01-02T22:24:21Z', 'closed_at': '2016-07-05T18:11:40Z', 'labels': []}
+{'issuenumber': 5, 'title': 'push aborted commands in history', 'state': 'closed', 'created_at': '2014-01-02T19:43:23Z', 'closed_at': '2014-03-25T07:48:39Z', 'labels': []}
+{'issuenumber': 4, 'title': 'no subsequence completion for option names', 'state': 'closed', 'created_at': '2014-01-02T19:33:57Z', 'closed_at': '2014-01-03T20:16:28Z', 'labels': []}
+{'issuenumber': 3, 'title': 'gl on empty line selects to next line end', 'state': 'closed', 'created_at': '2014-01-02T18:55:09Z', 'closed_at': '2014-01-03T20:16:28Z', 'labels': []}
+{'issuenumber': 2, 'title': 'move TODO and discussions to issue tracker', 'state': 'closed', 'created_at': '2014-01-02T18:15:13Z', 'closed_at': '2014-03-26T09:21:16Z', 'labels': []}
+{'issuenumber': 1, 'title': 'syntax highlighting', 'state': 'closed', 'created_at': '2013-12-23T18:43:34Z', 'closed_at': '2013-12-23T20:47:09Z', 'labels': []}
