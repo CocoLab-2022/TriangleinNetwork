@@ -1,0 +1,1027 @@
+{'issuenumber': 1127, 'title': 'No smooth transitions', 'state': 'closed', 'created_at': '2015-02-27T08:27:15Z', 'closed_at': '2015-03-06T19:10:23Z', 'labels': []}
+{'issuenumber': 1126, 'title': 'Different amount of slidesPerView on css breakpoitns?', 'state': 'closed', 'created_at': '2015-02-26T19:39:01Z', 'closed_at': '2015-03-06T19:10:29Z', 'labels': []}
+{'issuenumber': 1124, 'title': 'Support for older Versions of Internet Explorer', 'state': 'closed', 'created_at': '2015-02-26T13:47:10Z', 'closed_at': '2015-02-26T13:48:32Z', 'labels': []}
+{'issuenumber': 1122, 'title': 'Mousewheel problem', 'state': 'closed', 'created_at': '2015-02-25T23:03:28Z', 'closed_at': '2015-02-26T16:17:36Z', 'labels': []}
+{'issuenumber': 1121, 'title': 'two swipers per page', 'state': 'closed', 'created_at': '2015-02-24T21:35:59Z', 'closed_at': '2015-02-25T11:31:20Z', 'labels': []}
+{'issuenumber': 1120, 'title': 'Hash Navigation doesnt seem to fire effects or callbacks', 'state': 'closed', 'created_at': '2015-02-24T10:58:17Z', 'closed_at': '2015-03-06T19:10:49Z', 'labels': []}
+{'issuenumber': 1119, 'title': 'New Site Has No Documentation on Hash Navigation', 'state': 'closed', 'created_at': '2015-02-24T07:29:25Z', 'closed_at': '2015-03-06T19:11:08Z', 'labels': []}
+{'issuenumber': 1118, 'title': 'Width bug in Chrome developer tool device mode.', 'state': 'closed', 'created_at': '2015-02-23T19:49:13Z', 'closed_at': '2015-02-24T14:52:13Z', 'labels': []}
+{'issuenumber': 1117, 'title': "Swiper's instace's isBegining and isEnd parameter provides invalid value when you only have one slide", 'state': 'closed', 'created_at': '2015-02-23T18:53:56Z', 'closed_at': '2015-02-25T19:14:50Z', 'labels': []}
+{'issuenumber': 1116, 'title': 'Nested swiper activeIndex would reset after silde back from the outter swiper', 'state': 'closed', 'created_at': '2015-02-23T06:52:42Z', 'closed_at': '2015-02-23T13:00:08Z', 'labels': []}
+{'issuenumber': 1115, 'title': 'Tap and Click', 'state': 'closed', 'created_at': '2015-02-23T00:41:41Z', 'closed_at': '2015-03-15T19:01:03Z', 'labels': []}
+{'issuenumber': 1114, 'title': 'Slide change in slide-nav div in movie app?', 'state': 'closed', 'created_at': '2015-02-22T09:24:53Z', 'closed_at': '2015-03-22T17:36:19Z', 'labels': []}
+{'issuenumber': 1113, 'title': "resistance: false seems doesn't work !", 'state': 'closed', 'created_at': '2015-02-21T22:18:42Z', 'closed_at': '2015-02-21T23:44:35Z', 'labels': []}
+{'issuenumber': 1112, 'title': 'Event values are undefined in the default browser on Android 4.4.4', 'state': 'closed', 'created_at': '2015-02-21T20:16:26Z', 'closed_at': '2015-02-21T20:50:25Z', 'labels': []}
+{'issuenumber': 1111, 'title': '[Question] about Caption ', 'state': 'closed', 'created_at': '2015-02-20T16:14:21Z', 'closed_at': '2015-02-24T20:02:58Z', 'labels': []}
+{'issuenumber': 1110, 'title': 'Cannot drag scrollbar thumb', 'state': 'closed', 'created_at': '2015-02-20T05:23:41Z', 'closed_at': '2015-09-28T19:30:38Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 1108, 'title': "RTL doesn't work with freeMode if freeModeMomentum === true", 'state': 'closed', 'created_at': '2015-02-19T19:19:39Z', 'closed_at': '2015-02-19T21:56:22Z', 'labels': []}
+{'issuenumber': 1107, 'title': 'vertical fade swiper', 'state': 'closed', 'created_at': '2015-02-19T13:22:33Z', 'closed_at': '2015-02-25T19:14:50Z', 'labels': []}
+{'issuenumber': 1106, 'title': 'How can I remove a slide in Swiper 3?', 'state': 'closed', 'created_at': '2015-02-18T20:31:58Z', 'closed_at': '2015-02-22T11:38:43Z', 'labels': []}
+{'issuenumber': 1105, 'title': 'onInit and onFirstInit callbacks?', 'state': 'closed', 'created_at': '2015-02-18T13:36:23Z', 'closed_at': '2015-02-18T23:06:15Z', 'labels': []}
+{'issuenumber': 1104, 'title': 'ie8 SlideClick - loop mode', 'state': 'closed', 'created_at': '2015-02-16T22:39:56Z', 'closed_at': '2015-02-17T10:17:54Z', 'labels': []}
+{'issuenumber': 1103, 'title': 'Keyboard events not cleaned up with Swiper.destroy', 'state': 'closed', 'created_at': '2015-02-16T17:04:19Z', 'closed_at': '2015-02-17T17:05:40Z', 'labels': []}
+{'issuenumber': 1102, 'title': 'Can not use swiper in chrome and IE', 'state': 'closed', 'created_at': '2015-02-16T09:35:52Z', 'closed_at': '2015-03-22T17:36:46Z', 'labels': []}
+{'issuenumber': 1101, 'title': "In Swiper 3, is there any alternative for swiper.touches['start'] and swiper.touches['current'];", 'state': 'closed', 'created_at': '2015-02-15T05:29:14Z', 'closed_at': '2015-02-15T14:18:35Z', 'labels': []}
+{'issuenumber': 1100, 'title': 'Cannot use Vertical Direction', 'state': 'closed', 'created_at': '2015-02-15T01:23:38Z', 'closed_at': '2015-03-07T12:55:32Z', 'labels': []}
+{'issuenumber': 1099, 'title': 'Can not swipe for initial slide in chrome', 'state': 'closed', 'created_at': '2015-02-13T22:56:06Z', 'closed_at': '2015-03-07T12:55:44Z', 'labels': []}
+{'issuenumber': 1098, 'title': 'fade effect does not fade out inactive slides', 'state': 'closed', 'created_at': '2015-02-13T17:32:12Z', 'closed_at': '2015-02-13T19:59:25Z', 'labels': []}
+{'issuenumber': 1097, 'title': 'Missing .js-reference in "main" in package.json', 'state': 'closed', 'created_at': '2015-02-13T10:46:48Z', 'closed_at': '2015-02-13T15:27:50Z', 'labels': []}
+{'issuenumber': 1096, 'title': 'Integrate mouseleave event to have proper cancel-animation on Desktop', 'state': 'closed', 'created_at': '2015-02-12T23:50:56Z', 'closed_at': '2017-11-13T10:29:42Z', 'labels': []}
+{'issuenumber': 1093, 'title': 'Update README', 'state': 'closed', 'created_at': '2015-02-11T23:12:58Z', 'closed_at': '2015-02-13T15:26:14Z', 'labels': []}
+{'issuenumber': 1092, 'title': 'Attention! All issues are closed with release of new Swiper 3!', 'state': 'closed', 'created_at': '2015-02-11T20:33:41Z', 'closed_at': '2017-11-13T10:16:50Z', 'labels': []}
+{'issuenumber': 1090, 'title': 'Responsive view problem ', 'state': 'closed', 'created_at': '2015-02-11T14:49:53Z', 'closed_at': '2015-02-11T20:22:04Z', 'labels': []}
+{'issuenumber': 1089, 'title': 'how can I make text selectable? ', 'state': 'closed', 'created_at': '2015-02-10T19:19:13Z', 'closed_at': '2015-02-11T20:23:11Z', 'labels': []}
+{'issuenumber': 1088, 'title': 'Any idea when Swiper3 will become alive ?', 'state': 'closed', 'created_at': '2015-02-09T19:47:01Z', 'closed_at': '2015-02-10T00:53:07Z', 'labels': []}
+{'issuenumber': 1087, 'title': 'Is there any way to prevent the extra white space', 'state': 'closed', 'created_at': '2015-02-08T02:36:41Z', 'closed_at': '2015-02-11T20:26:15Z', 'labels': []}
+{'issuenumber': 1086, 'title': 'onSlideChangeEnd is not firing when sliding fast and over the slides', 'state': 'closed', 'created_at': '2015-02-07T14:56:59Z', 'closed_at': '2015-02-11T20:25:06Z', 'labels': []}
+{'issuenumber': 1085, 'title': 'swipeTo, clickedSlideIndex indexes base', 'state': 'closed', 'created_at': '2015-02-07T10:15:36Z', 'closed_at': '2015-02-11T20:28:04Z', 'labels': []}
+{'issuenumber': 1084, 'title': 'Is it possible to build a horizontal nested Swiper inside another?', 'state': 'closed', 'created_at': '2015-02-05T18:58:24Z', 'closed_at': '2015-02-11T20:28:04Z', 'labels': []}
+{'issuenumber': 1083, 'title': 'Is it possible to Hide the swiper-container, then show when button onclick?', 'state': 'closed', 'created_at': '2015-02-05T09:26:01Z', 'closed_at': '2015-02-11T20:28:04Z', 'labels': []}
+{'issuenumber': 1082, 'title': 'Swipe more than one slide per once when clicking arrows', 'state': 'closed', 'created_at': '2015-02-03T17:41:35Z', 'closed_at': '2015-02-11T20:27:00Z', 'labels': []}
+{'issuenumber': 1081, 'title': 'Make Areas in an imagemap dragable', 'state': 'closed', 'created_at': '2015-02-02T19:23:57Z', 'closed_at': '2015-02-02T20:02:09Z', 'labels': []}
+{'issuenumber': 1080, 'title': 'onSetWrapperTransform not returning transform values on release', 'state': 'closed', 'created_at': '2015-02-02T00:40:58Z', 'closed_at': '2015-02-02T19:28:17Z', 'labels': []}
+{'issuenumber': 1079, 'title': 'Swiper slide size', 'state': 'closed', 'created_at': '2015-01-31T11:02:18Z', 'closed_at': '2015-02-11T20:28:04Z', 'labels': []}
+{'issuenumber': 1078, 'title': 'setWrapperTranslate does not check for looped slides ', 'state': 'closed', 'created_at': '2015-01-31T01:51:03Z', 'closed_at': '2015-02-02T19:29:43Z', 'labels': []}
+{'issuenumber': 1077, 'title': 'Using `reInit()` to change mode (horizontal / vertical) on the fly', 'state': 'closed', 'created_at': '2015-01-30T12:06:37Z', 'closed_at': '2015-02-11T20:28:04Z', 'labels': []}
+{'issuenumber': 1076, 'title': 'Last slide is breaking to next line', 'state': 'closed', 'created_at': '2015-01-29T19:57:03Z', 'closed_at': '2015-02-03T17:35:12Z', 'labels': []}
+{'issuenumber': 1075, 'title': 'onSlideNext and SlidePrev firing twice', 'state': 'closed', 'created_at': '2015-01-29T10:25:37Z', 'closed_at': '2015-02-11T20:28:04Z', 'labels': []}
+{'issuenumber': 1072, 'title': 'Swiper is undefined', 'state': 'closed', 'created_at': '2015-01-28T16:13:50Z', 'closed_at': '2015-01-30T21:30:52Z', 'labels': []}
+{'issuenumber': 1071, 'title': 'change speed for autoplay and pagination but NOT for touch', 'state': 'closed', 'created_at': '2015-01-28T12:13:38Z', 'closed_at': '2015-01-30T21:39:10Z', 'labels': []}
+{'issuenumber': 1070, 'title': "Horizontal sliding doesn't work in portrait mode", 'state': 'closed', 'created_at': '2015-01-27T22:56:34Z', 'closed_at': '2015-01-30T21:41:03Z', 'labels': []}
+{'issuenumber': 1069, 'title': 'Document onAutoplayStop/onAutoplayStart', 'state': 'closed', 'created_at': '2015-01-27T02:52:26Z', 'closed_at': '2015-01-30T21:50:08Z', 'labels': []}
+{'issuenumber': 1068, 'title': 'Swiper randomly stops working on tablet', 'state': 'closed', 'created_at': '2015-01-26T13:56:36Z', 'closed_at': '2015-02-11T20:28:04Z', 'labels': []}
+{'issuenumber': 1067, 'title': 'onSlideChangeEnd not called when speed 0', 'state': 'closed', 'created_at': '2015-01-23T20:10:19Z', 'closed_at': '2015-01-26T15:54:32Z', 'labels': []}
+{'issuenumber': 1066, 'title': 'Is it possible to add event like pinch and spread ? ', 'state': 'closed', 'created_at': '2015-01-23T08:18:21Z', 'closed_at': '2015-02-11T20:28:04Z', 'labels': []}
+{'issuenumber': 1065, 'title': 'reinit and resizefix are not working in mobile but work in browser.', 'state': 'closed', 'created_at': '2015-01-23T08:12:42Z', 'closed_at': '2015-02-11T20:28:04Z', 'labels': []}
+{'issuenumber': 1063, 'title': 'Responsive scroll container with only one slide', 'state': 'closed', 'created_at': '2015-01-22T09:23:00Z', 'closed_at': '2015-02-11T20:28:04Z', 'labels': []}
+{'issuenumber': 1062, 'title': "Swiper doesn't take box-sizing into account", 'state': 'closed', 'created_at': '2015-01-22T06:33:03Z', 'closed_at': '2015-01-25T19:27:53Z', 'labels': []}
+{'issuenumber': 1061, 'title': 'Callback for showing last slide', 'state': 'closed', 'created_at': '2015-01-21T08:43:03Z', 'closed_at': '2015-01-29T10:06:29Z', 'labels': []}
+{'issuenumber': 1060, 'title': 'Set container height to that of visible slide only', 'state': 'closed', 'created_at': '2015-01-21T07:50:57Z', 'closed_at': '2015-02-11T20:28:03Z', 'labels': []}
+{'issuenumber': 1059, 'title': 'innerhtml not working when setting loop:true', 'state': 'closed', 'created_at': '2015-01-20T10:27:34Z', 'closed_at': '2015-01-22T03:06:04Z', 'labels': []}
+{'issuenumber': 1058, 'title': "Sometimes doesn't swipe: check for scrolling seems broken", 'state': 'closed', 'created_at': '2015-01-19T15:16:17Z', 'closed_at': '2015-02-11T20:28:03Z', 'labels': []}
+{'issuenumber': 1056, 'title': 'Hash functionality not working well.', 'state': 'closed', 'created_at': '2015-01-18T20:19:18Z', 'closed_at': '2015-01-18T21:47:49Z', 'labels': []}
+{'issuenumber': 1054, 'title': "set shortSwipes false,and then onSlideChangeEnd doesn't work.", 'state': 'closed', 'created_at': '2015-01-14T08:54:40Z', 'closed_at': '2015-02-11T20:28:03Z', 'labels': []}
+{'issuenumber': 1053, 'title': 'swiper not working after ajax load .', 'state': 'closed', 'created_at': '2015-01-14T07:26:30Z', 'closed_at': '2015-01-16T04:18:07Z', 'labels': []}
+{'issuenumber': 1052, 'title': 'No Swiping', 'state': 'closed', 'created_at': '2015-01-14T00:14:35Z', 'closed_at': '2015-01-14T17:47:00Z', 'labels': []}
+{'issuenumber': 1051, 'title': 'Bug on iPhone', 'state': 'closed', 'created_at': '2015-01-13T07:31:56Z', 'closed_at': '2015-01-20T17:15:06Z', 'labels': []}
+{'issuenumber': 1050, 'title': 'How fully initialized Swiper ( all attributes )', 'state': 'closed', 'created_at': '2015-01-12T11:52:30Z', 'closed_at': '2015-02-11T20:28:03Z', 'labels': []}
+{'issuenumber': 1049, 'title': ' the swiper height is not correctly calculated, mobile orientation change', 'state': 'closed', 'created_at': '2015-01-11T20:39:37Z', 'closed_at': '2015-02-11T20:28:03Z', 'labels': []}
+{'issuenumber': 1048, 'title': 'bug on chrome', 'state': 'closed', 'created_at': '2015-01-09T03:14:18Z', 'closed_at': '2015-02-11T20:28:03Z', 'labels': []}
+{'issuenumber': 1047, 'title': 'Prevent swiping from first to last, but leave the loop option (allow last to first)', 'state': 'closed', 'created_at': '2015-01-08T14:51:39Z', 'closed_at': '2015-02-11T20:28:03Z', 'labels': []}
+{'issuenumber': 1046, 'title': ' How to reduce the memory footprint', 'state': 'closed', 'created_at': '2015-01-07T08:06:20Z', 'closed_at': '2015-02-11T20:28:03Z', 'labels': []}
+{'issuenumber': 1045, 'title': 'demo-apps Swiper', 'state': 'closed', 'created_at': '2015-01-07T07:13:59Z', 'closed_at': '2015-01-07T14:01:47Z', 'labels': []}
+{'issuenumber': 1044, 'title': 'Direction issue', 'state': 'closed', 'created_at': '2015-01-06T16:55:50Z', 'closed_at': '2015-01-08T16:33:24Z', 'labels': []}
+{'issuenumber': 1043, 'title': 'Using onSlideChangeEnd...', 'state': 'closed', 'created_at': '2015-01-05T21:39:41Z', 'closed_at': '2015-01-05T23:28:36Z', 'labels': []}
+{'issuenumber': 1042, 'title': 'onSlideChangeEnd could not work', 'state': 'closed', 'created_at': '2015-01-04T08:15:13Z', 'closed_at': '2015-02-11T20:28:03Z', 'labels': []}
+{'issuenumber': 1041, 'title': "Slides per view 'auto', but force slider to show full width image on small screens", 'state': 'closed', 'created_at': '2014-12-31T05:10:57Z', 'closed_at': '2015-01-04T16:15:37Z', 'labels': []}
+{'issuenumber': 1039, 'title': 'Swiper pages have extremely long scrollbars without visible div content ', 'state': 'closed', 'created_at': '2014-12-30T05:15:33Z', 'closed_at': '2015-01-17T12:38:03Z', 'labels': []}
+{'issuenumber': 1038, 'title': '[ IOS]gif paused when the containing slide is out of view', 'state': 'closed', 'created_at': '2014-12-29T11:19:16Z', 'closed_at': '2015-01-04T16:09:11Z', 'labels': []}
+{'issuenumber': 1037, 'title': 'I am facing issue content already loaded in all slides, can anyone help', 'state': 'closed', 'created_at': '2014-12-26T18:10:58Z', 'closed_at': '2015-02-11T20:28:03Z', 'labels': []}
+{'issuenumber': 1036, 'title': 'Is the swiper api lastest in the official website?', 'state': 'closed', 'created_at': '2014-12-25T03:41:21Z', 'closed_at': '2015-01-04T16:08:01Z', 'labels': []}
+{'issuenumber': 1035, 'title': 'I am facing the span active class issue in pagination', 'state': 'closed', 'created_at': '2014-12-23T09:44:03Z', 'closed_at': '2015-01-04T16:03:01Z', 'labels': []}
+{'issuenumber': 1034, 'title': "[IOS]   {prependSlide} It's  move to  the slide.     It's Bug ?   {appendSlide}  It's not move! ", 'state': 'closed', 'created_at': '2014-12-23T03:20:04Z', 'closed_at': '2015-01-04T16:07:13Z', 'labels': []}
+{'issuenumber': 1033, 'title': 'How to set up a one-way slide ？', 'state': 'closed', 'created_at': '2014-12-22T08:25:15Z', 'closed_at': '2014-12-22T08:31:21Z', 'labels': []}
+{'issuenumber': 1032, 'title': 'Issues with scroll bar in Safari', 'state': 'closed', 'created_at': '2014-12-19T22:26:15Z', 'closed_at': '2015-02-11T20:28:03Z', 'labels': []}
+{'issuenumber': 1031, 'title': 'Vertical scroll bad behavior', 'state': 'closed', 'created_at': '2014-12-18T09:21:27Z', 'closed_at': '2015-02-11T20:28:03Z', 'labels': []}
+{'issuenumber': 1030, 'title': 'swiper-no-swiping and followFinger', 'state': 'closed', 'created_at': '2014-12-18T00:17:07Z', 'closed_at': '2015-02-11T20:28:03Z', 'labels': []}
+{'issuenumber': 1028, 'title': 'distribute and publish on npm', 'state': 'closed', 'created_at': '2014-12-14T20:27:50Z', 'closed_at': '2015-01-04T16:06:26Z', 'labels': []}
+{'issuenumber': 1027, 'title': 'Error with document.element.blur() on Windows Phone', 'state': 'closed', 'created_at': '2014-12-12T19:32:28Z', 'closed_at': '2015-01-04T16:13:07Z', 'labels': []}
+{'issuenumber': 1026, 'title': 'problem with iOS 8 when compile', 'state': 'closed', 'created_at': '2014-12-12T12:45:49Z', 'closed_at': '2015-02-11T20:28:03Z', 'labels': []}
+{'issuenumber': 1025, 'title': 'Slider Wrapper gets wrong width on iPhone', 'state': 'closed', 'created_at': '2014-12-11T09:47:40Z', 'closed_at': '2015-02-11T20:28:03Z', 'labels': []}
+{'issuenumber': 1024, 'title': 'slidesPerView causes slides height resize while vertical mode', 'state': 'closed', 'created_at': '2014-12-10T09:51:51Z', 'closed_at': '2015-02-11T20:28:22Z', 'labels': []}
+{'issuenumber': 1023, 'title': 'issue deleted', 'state': 'closed', 'created_at': '2014-12-10T07:16:36Z', 'closed_at': '2014-12-10T09:24:08Z', 'labels': []}
+{'issuenumber': 1022, 'title': 'Next and Previous controls not working - Safari Windows', 'state': 'closed', 'created_at': '2014-12-08T10:59:42Z', 'closed_at': '2015-02-11T20:28:22Z', 'labels': []}
+{'issuenumber': 1020, 'title': 'Active Slide incorrect when using Tabs with Loop Mode:True', 'state': 'closed', 'created_at': '2014-12-08T03:06:26Z', 'closed_at': '2015-02-11T20:28:21Z', 'labels': []}
+{'issuenumber': 1019, 'title': "Slider with more than 1 slide visible on swipeTo doesn't add cloned sliders with autoplay off", 'state': 'closed', 'created_at': '2014-12-05T07:12:41Z', 'closed_at': '2014-12-08T15:33:22Z', 'labels': []}
+{'issuenumber': 1018, 'title': 'Elements are in place all markup is rendered but everything is blank?', 'state': 'closed', 'created_at': '2014-12-05T01:01:29Z', 'closed_at': '2015-02-11T20:28:21Z', 'labels': []}
+{'issuenumber': 1017, 'title': 'Slide direction option', 'state': 'closed', 'created_at': '2014-12-03T17:42:56Z', 'closed_at': '2015-02-11T20:28:21Z', 'labels': []}
+{'issuenumber': 1016, 'title': 'Target Swiper by ID?', 'state': 'closed', 'created_at': '2014-12-02T21:39:40Z', 'closed_at': '2014-12-03T17:36:55Z', 'labels': []}
+{'issuenumber': 1015, 'title': 'Pagination not working with jquery mobile 1.4.4', 'state': 'closed', 'created_at': '2014-12-02T16:32:51Z', 'closed_at': '2015-02-11T20:28:21Z', 'labels': []}
+{'issuenumber': 1014, 'title': 'auto windows reajustement from height', 'state': 'closed', 'created_at': '2014-12-02T13:09:17Z', 'closed_at': '2015-02-11T20:28:21Z', 'labels': []}
+{'issuenumber': 1013, 'title': 'Making pinch out/two finger tap gesture sometimes leaves swiper on position between slides', 'state': 'closed', 'created_at': '2014-12-01T09:45:11Z', 'closed_at': '2015-02-11T20:28:21Z', 'labels': []}
+{'issuenumber': 1012, 'title': 'Possible bug for initial translate3d values on Chrome', 'state': 'closed', 'created_at': '2014-12-01T08:04:32Z', 'closed_at': '2014-12-05T07:00:12Z', 'labels': []}
+{'issuenumber': 1011, 'title': 'callback on scrollbar when it stops from momentum', 'state': 'closed', 'created_at': '2014-11-26T20:55:00Z', 'closed_at': '2015-02-11T20:28:21Z', 'labels': []}
+{'issuenumber': 1010, 'title': 'Misspelling', 'state': 'closed', 'created_at': '2014-11-26T15:13:54Z', 'closed_at': '2014-12-10T12:38:41Z', 'labels': []}
+{'issuenumber': 1009, 'title': 'callback on vertical swiper when it reaches the top or the bottom', 'state': 'closed', 'created_at': '2014-11-25T17:05:35Z', 'closed_at': '2015-02-11T20:28:21Z', 'labels': []}
+{'issuenumber': 1008, 'title': 'IE: browser loses focus', 'state': 'closed', 'created_at': '2014-11-25T16:08:06Z', 'closed_at': '2014-11-30T15:10:16Z', 'labels': []}
+{'issuenumber': 1007, 'title': 'Nested Pagination with Up AND Down slide directions', 'state': 'closed', 'created_at': '2014-11-24T20:41:11Z', 'closed_at': '2015-02-11T20:28:21Z', 'labels': []}
+{'issuenumber': 1005, 'title': 'noSwiping throws error if SVG is in hierarchy', 'state': 'closed', 'created_at': '2014-11-23T17:12:07Z', 'closed_at': '2014-11-30T15:10:16Z', 'labels': []}
+{'issuenumber': 1004, 'title': 'How to prepend a slide but still show current slide?', 'state': 'closed', 'created_at': '2014-11-21T08:33:03Z', 'closed_at': '2015-02-11T20:28:21Z', 'labels': []}
+{'issuenumber': 1003, 'title': "TypeError: 'null' is not an object (evaluating '_this.fireCallback') on line #1988", 'state': 'closed', 'created_at': '2014-11-20T16:27:02Z', 'closed_at': '2015-02-11T20:28:21Z', 'labels': []}
+{'issuenumber': 1002, 'title': "How can I disable bounce effect while swiping from screen's left and right side?", 'state': 'closed', 'created_at': '2014-11-20T12:30:53Z', 'closed_at': '2014-11-20T12:37:50Z', 'labels': []}
+{'issuenumber': 1001, 'title': 'Dynamic height on mobile', 'state': 'closed', 'created_at': '2014-11-19T09:00:46Z', 'closed_at': '2015-02-11T20:28:21Z', 'labels': []}
+{'issuenumber': 1000, 'title': 'Input block touch move slide ', 'state': 'closed', 'created_at': '2014-11-19T02:17:23Z', 'closed_at': '2015-02-11T20:28:21Z', 'labels': []}
+{'issuenumber': 999, 'title': 'Bug - Scrolling vertically on wrapperTranslated Swiper,  cause a slide change ', 'state': 'closed', 'created_at': '2014-11-18T16:52:23Z', 'closed_at': '2015-02-11T20:28:21Z', 'labels': []}
+{'issuenumber': 998, 'title': 'The emergence of the splash screen in ios7 ,when set div "-webkit-overflow-scrolling: touch;', 'state': 'closed', 'created_at': '2014-11-18T03:27:57Z', 'closed_at': '2015-02-11T20:28:21Z', 'labels': []}
+{'issuenumber': 997, 'title': "Trying to use scrollContainer get Uncaught TypeError: Cannot read property 'getWidth' of undefined ", 'state': 'closed', 'created_at': '2014-11-17T23:00:21Z', 'closed_at': '2015-02-11T20:28:21Z', 'labels': []}
+{'issuenumber': 996, 'title': 'publish swiper on npmjs', 'state': 'closed', 'created_at': '2014-11-17T15:07:14Z', 'closed_at': '2014-12-10T14:37:05Z', 'labels': []}
+{'issuenumber': 995, 'title': 'Internet Explorer Minimizes Suddenly When I Click', 'state': 'closed', 'created_at': '2014-11-17T08:44:41Z', 'closed_at': '2015-02-11T20:28:21Z', 'labels': []}
+{'issuenumber': 994, 'title': 'How to use swiper with meteor 1.0?', 'state': 'closed', 'created_at': '2014-11-17T04:13:37Z', 'closed_at': '2015-01-21T15:50:22Z', 'labels': []}
+{'issuenumber': 993, 'title': "autoResize doesn't trigger on orientation change", 'state': 'closed', 'created_at': '2014-11-14T18:51:59Z', 'closed_at': '2015-02-11T20:28:21Z', 'labels': []}
+{'issuenumber': 992, 'title': 'Question: Why is setting height important?', 'state': 'closed', 'created_at': '2014-11-14T13:29:02Z', 'closed_at': '2014-11-14T13:30:50Z', 'labels': []}
+{'issuenumber': 991, 'title': "Pagination doesn't work anymore", 'state': 'closed', 'created_at': '2014-11-14T10:20:54Z', 'closed_at': '2014-11-19T08:37:59Z', 'labels': []}
+{'issuenumber': 990, 'title': 'SlideChangeStart is called many times even if there no more slides', 'state': 'closed', 'created_at': '2014-11-14T00:04:43Z', 'closed_at': '2015-02-11T20:28:21Z', 'labels': []}
+{'issuenumber': 989, 'title': "Uncaught TypeError: Cannot read property 'toFixed' of undefined.", 'state': 'closed', 'created_at': '2014-11-13T22:41:03Z', 'closed_at': '2015-02-11T20:28:21Z', 'labels': []}
+{'issuenumber': 988, 'title': 'Auto play not working', 'state': 'closed', 'created_at': '2014-11-13T19:51:53Z', 'closed_at': '2015-02-11T20:28:21Z', 'labels': []}
+{'issuenumber': 987, 'title': 'Tabs demo broken in firefox', 'state': 'closed', 'created_at': '2014-11-13T19:04:50Z', 'closed_at': '2015-02-11T20:28:21Z', 'labels': []}
+{'issuenumber': 986, 'title': 'Keyboard navigation with nested sliders bug', 'state': 'closed', 'created_at': '2014-11-13T10:30:47Z', 'closed_at': '2015-02-11T20:28:21Z', 'labels': []}
+{'issuenumber': 985, 'title': 'Varying width of images in centerMode', 'state': 'closed', 'created_at': '2014-11-12T10:25:48Z', 'closed_at': '2014-11-12T15:21:34Z', 'labels': []}
+{'issuenumber': 984, 'title': 'verticall scrolling not working 100% of the time', 'state': 'closed', 'created_at': '2014-11-07T14:41:42Z', 'closed_at': '2014-11-07T15:53:18Z', 'labels': []}
+{'issuenumber': 983, 'title': 'When zooming screen in iPhone,it sometimes slide to next image', 'state': 'closed', 'created_at': '2014-11-06T01:55:59Z', 'closed_at': '2015-02-11T20:28:29Z', 'labels': []}
+{'issuenumber': 982, 'title': 'IE9 issue ', 'state': 'closed', 'created_at': '2014-11-04T09:47:19Z', 'closed_at': '2014-11-07T14:46:07Z', 'labels': []}
+{'issuenumber': 981, 'title': 'Responsive breaks with centered slides.', 'state': 'closed', 'created_at': '2014-11-03T23:31:35Z', 'closed_at': '2015-02-11T20:28:29Z', 'labels': []}
+{'issuenumber': 980, 'title': 'Is it possible to embed a swiper(Gallery) into a normal Swiper(default)? ', 'state': 'closed', 'created_at': '2014-11-03T21:49:26Z', 'closed_at': '2015-02-11T20:28:29Z', 'labels': []}
+{'issuenumber': 979, 'title': 'swipeTo sometimes fails on slow webkits', 'state': 'closed', 'created_at': '2014-11-02T05:45:06Z', 'closed_at': '2014-11-03T19:01:49Z', 'labels': []}
+{'issuenumber': 978, 'title': 'Проблема с примером №16', 'state': 'closed', 'created_at': '2014-10-31T10:54:17Z', 'closed_at': '2014-11-02T07:30:16Z', 'labels': []}
+{'issuenumber': 977, 'title': 'Spacing between slides + Alignment with container', 'state': 'closed', 'created_at': '2014-10-29T06:16:59Z', 'closed_at': '2014-11-03T19:04:46Z', 'labels': []}
+{'issuenumber': 975, 'title': 'Clicking Links in a slide', 'state': 'closed', 'created_at': '2014-10-24T20:49:35Z', 'closed_at': '2014-10-24T22:05:15Z', 'labels': []}
+{'issuenumber': 974, 'title': 'slider shifts one slide left when the far right slide is clicked', 'state': 'closed', 'created_at': '2014-10-20T23:34:05Z', 'closed_at': '2014-10-28T13:39:30Z', 'labels': []}
+{'issuenumber': 973, 'title': 'Input focus active: keyboard control is not deactivated', 'state': 'closed', 'created_at': '2014-10-20T20:42:26Z', 'closed_at': '2015-02-11T20:28:29Z', 'labels': []}
+{'issuenumber': 972, 'title': 'offsetPxAfter and offsetPxBefore causes last slide gets down to a nee line', 'state': 'closed', 'created_at': '2014-10-20T15:36:20Z', 'closed_at': '2014-11-04T06:59:53Z', 'labels': []}
+{'issuenumber': 971, 'title': 'onSlideClick is not triggered when loop mode is on', 'state': 'closed', 'created_at': '2014-10-20T12:19:56Z', 'closed_at': '2014-11-11T11:05:43Z', 'labels': []}
+{'issuenumber': 970, 'title': 'nested swipe is not run exactly ', 'state': 'closed', 'created_at': '2014-10-17T07:06:09Z', 'closed_at': '2015-02-11T20:28:29Z', 'labels': []}
+{'issuenumber': 969, 'title': 'orientation change problem', 'state': 'closed', 'created_at': '2014-10-16T13:21:42Z', 'closed_at': '2015-02-11T20:28:29Z', 'labels': []}
+{'issuenumber': 967, 'title': 'Swiper carousel loop display wrong', 'state': 'closed', 'created_at': '2014-10-16T10:24:25Z', 'closed_at': '2014-11-10T01:50:23Z', 'labels': []}
+{'issuenumber': 966, 'title': 'Selectbox not working on Mobilesafari in Swiper', 'state': 'closed', 'created_at': '2014-10-16T09:42:16Z', 'closed_at': '2014-10-16T09:49:59Z', 'labels': []}
+{'issuenumber': 965, 'title': 'How to make a few li as a group', 'state': 'closed', 'created_at': '2014-10-15T08:03:10Z', 'closed_at': '2015-02-11T20:28:29Z', 'labels': []}
+{'issuenumber': 964, 'title': 'Crashing on iPad', 'state': 'closed', 'created_at': '2014-10-14T18:12:43Z', 'closed_at': '2014-10-20T17:26:00Z', 'labels': []}
+{'issuenumber': 963, 'title': '2 row swiper', 'state': 'closed', 'created_at': '2014-10-14T17:08:09Z', 'closed_at': '2015-02-11T20:28:29Z', 'labels': []}
+{'issuenumber': 962, 'title': 'Fit smaller slides into view', 'state': 'closed', 'created_at': '2014-10-14T06:47:41Z', 'closed_at': '2015-02-11T20:28:29Z', 'labels': []}
+{'issuenumber': 961, 'title': 'how to move two slides at a time', 'state': 'closed', 'created_at': '2014-10-13T18:31:04Z', 'closed_at': '2015-02-11T20:28:29Z', 'labels': []}
+{'issuenumber': 960, 'title': 'mousewheelControlForceToAxis not working', 'state': 'closed', 'created_at': '2014-10-13T14:29:25Z', 'closed_at': '2015-02-11T20:28:29Z', 'labels': []}
+{'issuenumber': 959, 'title': 'Active index goes to the duplicate slides.', 'state': 'closed', 'created_at': '2014-10-10T13:01:32Z', 'closed_at': '2015-02-11T20:28:29Z', 'labels': []}
+{'issuenumber': 958, 'title': 'Dynamic content not displayed', 'state': 'closed', 'created_at': '2014-10-09T22:51:44Z', 'closed_at': '2015-02-11T20:28:29Z', 'labels': []}
+{'issuenumber': 957, 'title': 'How can I reposition slider after a filtering function and get back to normal state?', 'state': 'closed', 'created_at': '2014-10-09T21:27:54Z', 'closed_at': '2015-02-11T20:28:29Z', 'labels': []}
+{'issuenumber': 956, 'title': ' Second image flashes below initial as page loads (was issue#953)', 'state': 'closed', 'created_at': '2014-10-09T18:32:07Z', 'closed_at': '2014-10-13T08:37:26Z', 'labels': []}
+{'issuenumber': 955, 'title': 'Prevent upper swipe', 'state': 'closed', 'created_at': '2014-10-07T22:13:59Z', 'closed_at': '2014-10-12T17:24:41Z', 'labels': []}
+{'issuenumber': 954, 'title': 'swipeToPrev not working as expected', 'state': 'closed', 'created_at': '2014-10-04T14:11:05Z', 'closed_at': '2015-02-11T20:28:29Z', 'labels': []}
+{'issuenumber': 953, 'title': 'Second image flashes below initial as page loads', 'state': 'closed', 'created_at': '2014-10-02T15:26:41Z', 'closed_at': '2014-10-03T13:38:48Z', 'labels': []}
+{'issuenumber': 952, 'title': 'Missing context param for pagination', 'state': 'closed', 'created_at': '2014-09-30T15:06:20Z', 'closed_at': '2015-02-11T20:28:29Z', 'labels': []}
+{'issuenumber': 951, 'title': 'gradually vertical scroll', 'state': 'closed', 'created_at': '2014-09-30T14:07:56Z', 'closed_at': '2015-02-11T20:28:29Z', 'labels': []}
+{'issuenumber': 950, 'title': 'Issue with Modal not firing inside of swiper-wrapper', 'state': 'closed', 'created_at': '2014-09-30T02:23:06Z', 'closed_at': '2014-10-01T19:52:10Z', 'labels': []}
+{'issuenumber': 949, 'title': 'addCallback:SlideChangeStart issue', 'state': 'closed', 'created_at': '2014-09-26T10:07:05Z', 'closed_at': '2015-02-11T20:28:29Z', 'labels': []}
+{'issuenumber': 948, 'title': 'Keyboard navigation and right click problem', 'state': 'closed', 'created_at': '2014-09-25T13:24:29Z', 'closed_at': '2015-02-11T20:28:29Z', 'labels': []}
+{'issuenumber': 947, 'title': '200+ slides, crash on iPad and loading problem on Safari (win8)', 'state': 'closed', 'created_at': '2014-09-24T17:07:36Z', 'closed_at': '2015-02-11T20:28:29Z', 'labels': []}
+{'issuenumber': 946, 'title': 'Vertical drag', 'state': 'closed', 'created_at': '2014-09-24T16:06:27Z', 'closed_at': '2014-09-30T13:51:42Z', 'labels': []}
+{'issuenumber': 945, 'title': 'swipeToPrev not working in v2.7.0', 'state': 'closed', 'created_at': '2014-09-24T11:42:02Z', 'closed_at': '2014-09-29T17:54:35Z', 'labels': []}
+{'issuenumber': 944, 'title': 'How to make it smoother when resizing if changing rotation', 'state': 'closed', 'created_at': '2014-09-23T07:05:27Z', 'closed_at': '2014-09-28T21:09:54Z', 'labels': []}
+{'issuenumber': 943, 'title': 'How do i get index of currently appended slide', 'state': 'closed', 'created_at': '2014-09-22T21:19:35Z', 'closed_at': '2015-02-11T20:28:29Z', 'labels': []}
+{'issuenumber': 942, 'title': 'slider making 2 get request', 'state': 'closed', 'created_at': '2014-09-22T17:55:42Z', 'closed_at': '2014-09-22T18:07:49Z', 'labels': []}
+{'issuenumber': 941, 'title': "implementing a 'loading' spinner / icon", 'state': 'closed', 'created_at': '2014-09-22T13:27:56Z', 'closed_at': '2014-09-22T18:10:31Z', 'labels': []}
+{'issuenumber': 940, 'title': 'Can  i remore the jquery.min.js?', 'state': 'closed', 'created_at': '2014-09-22T08:00:58Z', 'closed_at': '2014-09-22T08:12:51Z', 'labels': []}
+{'issuenumber': 939, 'title': 'White stripe ghost', 'state': 'closed', 'created_at': '2014-09-22T05:03:38Z', 'closed_at': '2015-02-11T20:28:29Z', 'labels': []}
+{'issuenumber': 938, 'title': 'Controlling intervals in autoPlay', 'state': 'closed', 'created_at': '2014-09-20T10:23:25Z', 'closed_at': '2014-09-22T18:03:59Z', 'labels': []}
+{'issuenumber': 937, 'title': 'Centralised continuous scroll', 'state': 'closed', 'created_at': '2014-09-19T15:10:34Z', 'closed_at': '2014-09-29T17:54:49Z', 'labels': []}
+{'issuenumber': 935, 'title': 'Height calculating when it should', 'state': 'closed', 'created_at': '2014-09-17T22:28:47Z', 'closed_at': '2014-09-19T18:30:42Z', 'labels': []}
+{'issuenumber': 934, 'title': 'Go to a slide without seeing the slides in-between', 'state': 'closed', 'created_at': '2014-09-17T16:35:29Z', 'closed_at': '2014-09-29T17:55:49Z', 'labels': []}
+{'issuenumber': 933, 'title': 'Continuous looping in a dynamic swiper.', 'state': 'closed', 'created_at': '2014-09-17T12:54:34Z', 'closed_at': '2015-02-11T20:28:29Z', 'labels': []}
+{'issuenumber': 932, 'title': 'Is it possible to disable / delete the slideshow', 'state': 'closed', 'created_at': '2014-09-17T08:32:13Z', 'closed_at': '2014-09-19T19:13:07Z', 'labels': []}
+{'issuenumber': 931, 'title': '<Select> element brakes down on devices with both touch and mouse support', 'state': 'closed', 'created_at': '2014-09-16T10:50:49Z', 'closed_at': '2014-09-19T18:52:51Z', 'labels': []}
+{'issuenumber': 930, 'title': 'Pagination question.', 'state': 'closed', 'created_at': '2014-09-16T08:18:36Z', 'closed_at': '2014-09-18T12:52:05Z', 'labels': []}
+{'issuenumber': 928, 'title': 'Right-clicking a slide moves it', 'state': 'closed', 'created_at': '2014-09-12T10:37:45Z', 'closed_at': '2014-09-19T18:24:45Z', 'labels': []}
+{'issuenumber': 927, 'title': 'Autoplay start only on visible slide', 'state': 'closed', 'created_at': '2014-09-12T05:10:17Z', 'closed_at': '2014-09-19T18:35:12Z', 'labels': []}
+{'issuenumber': 925, 'title': 'degrees of freedom for swiping like "slideIntent" in snap.js', 'state': 'closed', 'created_at': '2014-09-11T13:17:41Z', 'closed_at': '2015-02-11T20:28:28Z', 'labels': []}
+{'issuenumber': 924, 'title': 'Conflict with jQuery Spotlight', 'state': 'closed', 'created_at': '2014-09-11T11:48:19Z', 'closed_at': '2014-09-15T08:29:46Z', 'labels': []}
+{'issuenumber': 923, 'title': 'Swiper instance problems', 'state': 'closed', 'created_at': '2014-09-11T06:32:28Z', 'closed_at': '2014-09-19T18:18:19Z', 'labels': []}
+{'issuenumber': 922, 'title': 'Paginate through slides by clicking on previous or next slide', 'state': 'closed', 'created_at': '2014-09-11T03:39:01Z', 'closed_at': '2014-10-09T16:48:27Z', 'labels': []}
+{'issuenumber': 921, 'title': 'Connected swipers', 'state': 'closed', 'created_at': '2014-09-09T20:23:41Z', 'closed_at': '2014-09-29T17:59:23Z', 'labels': []}
+{'issuenumber': 920, 'title': 'website sidebar with accordian menu and swiper', 'state': 'closed', 'created_at': '2014-09-09T19:15:26Z', 'closed_at': '2015-02-11T20:28:28Z', 'labels': []}
+{'issuenumber': 919, 'title': 'accordian menu used in swiper', 'state': 'closed', 'created_at': '2014-09-09T18:54:33Z', 'closed_at': '2015-02-11T20:28:35Z', 'labels': []}
+{'issuenumber': 917, 'title': 'removeAllSlides() doesnt reset the transform positioning', 'state': 'closed', 'created_at': '2014-09-06T20:15:35Z', 'closed_at': '2014-09-19T18:40:09Z', 'labels': []}
+{'issuenumber': 916, 'title': 'One swipe', 'state': 'closed', 'created_at': '2014-09-04T18:05:29Z', 'closed_at': '2014-09-29T18:01:51Z', 'labels': []}
+{'issuenumber': 915, 'title': 'Auto play in the opposite direction.', 'state': 'closed', 'created_at': '2014-09-03T09:13:43Z', 'closed_at': '2014-09-03T10:12:00Z', 'labels': []}
+{'issuenumber': 914, 'title': 'Smooth scrolling effect.', 'state': 'closed', 'created_at': '2014-09-02T10:50:42Z', 'closed_at': '2015-02-11T20:28:35Z', 'labels': []}
+{'issuenumber': 913, 'title': 'Swiper does not function when not in viewport on initial page load (iPad, -webkit-overflow-scrolling: touch)', 'state': 'closed', 'created_at': '2014-08-29T15:29:55Z', 'closed_at': '2014-09-29T18:02:21Z', 'labels': []}
+{'issuenumber': 912, 'title': "help! can't scroll down vertical slides in jquery mobile  ", 'state': 'closed', 'created_at': '2014-08-29T09:58:49Z', 'closed_at': '2014-08-31T02:34:54Z', 'labels': []}
+{'issuenumber': 911, 'title': 'Two sliders, one controller', 'state': 'closed', 'created_at': '2014-08-28T13:27:07Z', 'closed_at': '2014-08-30T16:23:46Z', 'labels': []}
+{'issuenumber': 910, 'title': 'Partial Slide Display', 'state': 'closed', 'created_at': '2014-08-28T10:55:04Z', 'closed_at': '2014-09-29T18:02:38Z', 'labels': []}
+{'issuenumber': 909, 'title': 'Slides offset between?', 'state': 'closed', 'created_at': '2014-08-26T13:05:25Z', 'closed_at': '2014-08-30T16:21:19Z', 'labels': []}
+{'issuenumber': 908, 'title': 'show left/right arrows only on specific slides', 'state': 'closed', 'created_at': '2014-08-26T12:44:17Z', 'closed_at': '2014-08-30T16:20:11Z', 'labels': []}
+{'issuenumber': 907, 'title': 'Does not work with a canvas element inside the slide', 'state': 'closed', 'created_at': '2014-08-25T17:09:39Z', 'closed_at': '2014-08-30T16:18:33Z', 'labels': []}
+{'issuenumber': 906, 'title': '.swipeNext() not working in Chrome with 110% zoom', 'state': 'closed', 'created_at': '2014-08-25T09:55:50Z', 'closed_at': '2015-02-11T20:28:35Z', 'labels': []}
+{'issuenumber': 905, 'title': 'swipePrev() not working with the slide before last slide', 'state': 'closed', 'created_at': '2014-08-25T09:17:39Z', 'closed_at': '2014-09-29T18:03:13Z', 'labels': []}
+{'issuenumber': 904, 'title': 'iSwiper and AngularJS - not working when swiper placed in <ng-view> template.', 'state': 'closed', 'created_at': '2014-08-20T12:01:36Z', 'closed_at': '2014-08-21T06:42:11Z', 'labels': []}
+{'issuenumber': 903, 'title': 'stopAutoplay() not working.', 'state': 'closed', 'created_at': '2014-08-20T08:42:24Z', 'closed_at': '2014-09-29T18:03:55Z', 'labels': []}
+{'issuenumber': 902, 'title': 'atciveSlide is always undefined', 'state': 'closed', 'created_at': '2014-08-19T08:05:37Z', 'closed_at': '2014-09-29T18:04:09Z', 'labels': []}
+{'issuenumber': 901, 'title': 'Callback functions "onSlideChangeEnd/Start" bug: direction is undefined', 'state': 'closed', 'created_at': '2014-08-18T17:37:22Z', 'closed_at': '2014-08-24T17:48:33Z', 'labels': []}
+{'issuenumber': 900, 'title': 'slide panel change,how to scale out, normal in ?', 'state': 'closed', 'created_at': '2014-08-18T09:08:35Z', 'closed_at': '2014-09-01T15:16:41Z', 'labels': []}
+{'issuenumber': 899, 'title': 'Unable to swipe to last elements', 'state': 'closed', 'created_at': '2014-08-18T08:02:46Z', 'closed_at': '2014-08-18T15:25:10Z', 'labels': []}
+{'issuenumber': 898, 'title': 'cant use swiper on safari with jQuery?!', 'state': 'closed', 'created_at': '2014-08-15T12:16:57Z', 'closed_at': '2014-08-18T15:16:27Z', 'labels': []}
+{'issuenumber': 897, 'title': "Can't swipe to a slide in loop mode", 'state': 'closed', 'created_at': '2014-08-14T15:34:56Z', 'closed_at': '2014-08-20T08:23:26Z', 'labels': []}
+{'issuenumber': 896, 'title': 'width and height using percentage', 'state': 'closed', 'created_at': '2014-08-14T14:13:53Z', 'closed_at': '2014-09-29T18:04:22Z', 'labels': []}
+{'issuenumber': 895, 'title': 'Dynamic height', 'state': 'closed', 'created_at': '2014-08-14T02:02:15Z', 'closed_at': '2014-08-18T15:14:46Z', 'labels': []}
+{'issuenumber': 894, 'title': 'autoplayDisableOnInteraction not working', 'state': 'closed', 'created_at': '2014-08-14T01:40:32Z', 'closed_at': '2014-08-18T15:49:32Z', 'labels': []}
+{'issuenumber': 893, 'title': 'Randomize slides order', 'state': 'closed', 'created_at': '2014-08-14T01:23:30Z', 'closed_at': '2014-08-14T17:16:46Z', 'labels': []}
+{'issuenumber': 891, 'title': 'Variable Width / Height Slides in a Multi-Slide View', 'state': 'closed', 'created_at': '2014-08-12T13:29:47Z', 'closed_at': '2014-08-13T13:30:29Z', 'labels': []}
+{'issuenumber': 890, 'title': '% Height/Width + jQuery Mobile + Form Element = Break Swiper. Need Help!', 'state': 'closed', 'created_at': '2014-08-12T12:04:28Z', 'closed_at': '2015-02-11T20:28:35Z', 'labels': []}
+{'issuenumber': 889, 'title': 'Mysterious / Ghost Content - Weird Behaviour ', 'state': 'closed', 'created_at': '2014-08-12T10:03:19Z', 'closed_at': '2014-09-29T18:06:18Z', 'labels': []}
+{'issuenumber': 888, 'title': 'Browser resize Issue with Html5 File API dynamic content.', 'state': 'closed', 'created_at': '2014-08-09T18:50:28Z', 'closed_at': '2014-09-29T18:06:36Z', 'labels': []}
+{'issuenumber': 887, 'title': 'initialslide and swipeto not working on chrome for ios', 'state': 'closed', 'created_at': '2014-08-09T16:00:20Z', 'closed_at': '2014-09-29T18:06:46Z', 'labels': []}
+{'issuenumber': 886, 'title': 'First slide not centered', 'state': 'closed', 'created_at': '2014-08-09T14:45:52Z', 'closed_at': '2015-02-11T20:28:35Z', 'labels': []}
+{'issuenumber': 885, 'title': 'offsetSlidesAfter does not have an effect', 'state': 'closed', 'created_at': '2014-08-08T08:49:35Z', 'closed_at': '2014-08-08T09:08:43Z', 'labels': []}
+{'issuenumber': 883, 'title': 'Add runCallbacks boolean to swipePrev() and swipeNext()', 'state': 'closed', 'created_at': '2014-08-07T21:34:39Z', 'closed_at': '2014-09-19T19:03:35Z', 'labels': []}
+{'issuenumber': 882, 'title': 'Specify direction for swipeTo()', 'state': 'closed', 'created_at': '2014-08-07T21:32:23Z', 'closed_at': '2015-02-11T20:28:35Z', 'labels': []}
+{'issuenumber': 881, 'title': 'Dynamically add slide', 'state': 'closed', 'created_at': '2014-08-07T15:11:25Z', 'closed_at': '2014-08-08T07:57:53Z', 'labels': []}
+{'issuenumber': 880, 'title': 'Multiple sliders in same page not working', 'state': 'closed', 'created_at': '2014-08-06T18:34:04Z', 'closed_at': '2015-02-11T20:28:35Z', 'labels': []}
+{'issuenumber': 879, 'title': 'Updating Swiper Properties', 'state': 'closed', 'created_at': '2014-08-06T11:35:52Z', 'closed_at': '2014-08-06T13:09:15Z', 'labels': []}
+{'issuenumber': 878, 'title': "swipeTo(index)  doesn't work when I set ' loop : true' in some case !!!", 'state': 'closed', 'created_at': '2014-08-06T07:16:15Z', 'closed_at': '2015-02-11T20:28:35Z', 'labels': []}
+{'issuenumber': 877, 'title': '.swiper-wrapper width calculation cuts off last images on mobile', 'state': 'closed', 'created_at': '2014-08-05T19:53:52Z', 'closed_at': '2014-08-05T20:09:54Z', 'labels': []}
+{'issuenumber': 876, 'title': 'Add scrollbar dynamically ', 'state': 'closed', 'created_at': '2014-08-05T18:36:20Z', 'closed_at': '2015-02-11T20:28:35Z', 'labels': []}
+{'issuenumber': 875, 'title': 'Resize the window and go back to swiper page error', 'state': 'closed', 'created_at': '2014-08-05T09:04:47Z', 'closed_at': '2014-08-05T12:08:17Z', 'labels': []}
+{'issuenumber': 874, 'title': 'loop: true destroys all data and eventHandlers', 'state': 'closed', 'created_at': '2014-08-02T00:21:36Z', 'closed_at': '2015-02-11T20:28:35Z', 'labels': []}
+{'issuenumber': 873, 'title': 'responsive: width in %', 'state': 'closed', 'created_at': '2014-07-31T14:31:43Z', 'closed_at': '2014-08-02T17:41:48Z', 'labels': []}
+{'issuenumber': 872, 'title': 'Slide flips are not working expected when adding more slides', 'state': 'closed', 'created_at': '2014-07-31T13:57:59Z', 'closed_at': '2014-07-31T14:36:08Z', 'labels': []}
+{'issuenumber': 871, 'title': 'Need to access the slides from external links', 'state': 'closed', 'created_at': '2014-07-31T11:49:56Z', 'closed_at': '2014-07-31T11:54:52Z', 'labels': []}
+{'issuenumber': 869, 'title': 'possible to swipeTo($index) with simple animation', 'state': 'closed', 'created_at': '2014-07-29T13:28:39Z', 'closed_at': '2015-02-11T20:28:35Z', 'labels': []}
+{'issuenumber': 868, 'title': 'full documation on modes', 'state': 'closed', 'created_at': '2014-07-28T20:57:34Z', 'closed_at': '2015-02-11T20:28:35Z', 'labels': []}
+{'issuenumber': 867, 'title': 'slidesPerView with calculateHeight', 'state': 'closed', 'created_at': '2014-07-28T13:40:45Z', 'closed_at': '2014-07-29T10:47:22Z', 'labels': []}
+{'issuenumber': 866, 'title': 'Chrome 36.0.1985.125 breaks Swiper', 'state': 'closed', 'created_at': '2014-07-28T10:52:45Z', 'closed_at': '2014-07-28T17:30:29Z', 'labels': []}
+{'issuenumber': 865, 'title': 'loop: true, clones slides', 'state': 'closed', 'created_at': '2014-07-28T06:03:05Z', 'closed_at': '2014-07-29T06:37:42Z', 'labels': []}
+{'issuenumber': 863, 'title': 'Swiper move with right click on desktop', 'state': 'closed', 'created_at': '2014-07-26T21:38:56Z', 'closed_at': '2014-07-28T16:57:23Z', 'labels': []}
+{'issuenumber': 862, 'title': "Swipe with dynamic slides using 3d plugin produces Uncaught TypeError: Cannot read property 'style' of null  if shadows is true", 'state': 'closed', 'created_at': '2014-07-26T19:29:29Z', 'closed_at': '2014-07-26T20:40:55Z', 'labels': []}
+{'issuenumber': 861, 'title': 'How provide smooth move effect when we call setWrapperTranslate(x,y,z)?', 'state': 'closed', 'created_at': '2014-07-25T09:32:58Z', 'closed_at': '2014-07-31T05:47:58Z', 'labels': []}
+{'issuenumber': 859, 'title': 'Prevent touch events during swiping', 'state': 'closed', 'created_at': '2014-07-23T17:46:12Z', 'closed_at': '2015-02-11T20:28:35Z', 'labels': []}
+{'issuenumber': 858, 'title': 'Object and Embed elements is not active', 'state': 'closed', 'created_at': '2014-07-23T11:54:45Z', 'closed_at': '2015-02-11T20:28:35Z', 'labels': []}
+{'issuenumber': 857, 'title': 'onImagesReady does not fire', 'state': 'closed', 'created_at': '2014-07-23T10:36:05Z', 'closed_at': '2014-07-23T11:18:39Z', 'labels': []}
+{'issuenumber': 856, 'title': "overflow scroll within swiper doesn't work on mobile", 'state': 'closed', 'created_at': '2014-07-19T21:04:40Z', 'closed_at': '2015-02-11T20:28:35Z', 'labels': []}
+{'issuenumber': 855, 'title': '.swiper-slide needs box-sizing: content-box declared', 'state': 'closed', 'created_at': '2014-07-19T01:33:40Z', 'closed_at': '2014-07-19T11:19:29Z', 'labels': []}
+{'issuenumber': 854, 'title': "noSwiping doesn't work on smooth progress plugin", 'state': 'closed', 'created_at': '2014-07-18T06:34:06Z', 'closed_at': '2015-02-11T20:28:35Z', 'labels': []}
+{'issuenumber': 853, 'title': 'Problem with the slider width', 'state': 'closed', 'created_at': '2014-07-16T13:00:27Z', 'closed_at': '2015-02-11T20:28:35Z', 'labels': []}
+{'issuenumber': 852, 'title': 'How to make "mySwiper.swipePrev()" & "mySwiper.swipeNext()" to goto slide which is not visible?', 'state': 'closed', 'created_at': '2014-07-15T05:47:05Z', 'closed_at': '2014-07-25T08:56:33Z', 'labels': []}
+{'issuenumber': 851, 'title': "Using for loop to create child swipers doesn't work when parent swiper loop = true", 'state': 'closed', 'created_at': '2014-07-13T19:32:54Z', 'closed_at': '2014-07-19T11:20:43Z', 'labels': []}
+{'issuenumber': 850, 'title': 'Multiple galleries', 'state': 'closed', 'created_at': '2014-07-11T12:16:43Z', 'closed_at': '2014-07-16T00:47:15Z', 'labels': []}
+{'issuenumber': 849, 'title': 'Multiple iDangero.us Swipers on a page with synced scrolling', 'state': 'closed', 'created_at': '2014-07-10T13:35:48Z', 'closed_at': '2015-02-11T20:28:35Z', 'labels': []}
+{'issuenumber': 848, 'title': 'How can I make "swiper-slide" width to be according to its content width?', 'state': 'closed', 'created_at': '2014-07-09T13:31:31Z', 'closed_at': '2014-07-15T10:01:32Z', 'labels': []}
+{'issuenumber': 847, 'title': 'How can I make "swiper-slide" width to be according to its content width?', 'state': 'closed', 'created_at': '2014-07-09T13:30:45Z', 'closed_at': '2014-07-10T05:00:20Z', 'labels': []}
+{'issuenumber': 846, 'title': 'iPhone and iPad issue loading 200+ slides with 3d flow', 'state': 'closed', 'created_at': '2014-07-09T07:46:33Z', 'closed_at': '2014-08-04T06:03:27Z', 'labels': []}
+{'issuenumber': 845, 'title': 'How to put wrapper visibility above container?', 'state': 'closed', 'created_at': '2014-07-07T15:08:10Z', 'closed_at': '2014-07-15T10:03:59Z', 'labels': []}
+{'issuenumber': 844, 'title': "slides per view 'auto' & loop mode", 'state': 'closed', 'created_at': '2014-07-06T04:54:30Z', 'closed_at': '2015-02-11T20:28:35Z', 'labels': []}
+{'issuenumber': 843, 'title': 'Clicking a link that fires mySwiper.destroy() causes error', 'state': 'closed', 'created_at': '2014-07-05T21:03:55Z', 'closed_at': '2014-08-30T17:08:05Z', 'labels': []}
+{'issuenumber': 842, 'title': 'Something wrong with onSlideNext during transition', 'state': 'closed', 'created_at': '2014-07-03T17:48:28Z', 'closed_at': '2015-02-11T20:28:35Z', 'labels': []}
+{'issuenumber': 841, 'title': 'Visibility API with loop is broken', 'state': 'closed', 'created_at': '2014-07-02T14:47:54Z', 'closed_at': '2015-02-11T20:28:35Z', 'labels': []}
+{'issuenumber': 840, 'title': 'Multiple sliders', 'state': 'closed', 'created_at': '2014-06-30T09:59:56Z', 'closed_at': '2015-02-11T20:28:34Z', 'labels': []}
+{'issuenumber': 839, 'title': 'Incorrect timing for onSlideChangeEnd event', 'state': 'closed', 'created_at': '2014-06-29T07:49:59Z', 'closed_at': '2014-08-30T17:08:05Z', 'labels': []}
+{'issuenumber': 838, 'title': 'This works on Chrome, FF, Android, iPad but not on IE11', 'state': 'closed', 'created_at': '2014-06-27T13:14:47Z', 'closed_at': '2015-02-11T20:28:34Z', 'labels': []}
+{'issuenumber': 836, 'title': "JS Error: Cannot read property 'imagesLoaded'", 'state': 'closed', 'created_at': '2014-06-25T01:17:59Z', 'closed_at': '2014-08-30T17:08:05Z', 'labels': []}
+{'issuenumber': 835, 'title': 'demo-apps/gallery with different image dimensions', 'state': 'closed', 'created_at': '2014-06-24T12:50:21Z', 'closed_at': '2014-07-03T07:34:47Z', 'labels': []}
+{'issuenumber': 834, 'title': 'Possible memory leak caused by outerHTML polyfill', 'state': 'closed', 'created_at': '2014-06-24T07:37:34Z', 'closed_at': '2014-08-30T17:08:05Z', 'labels': []}
+{'issuenumber': 833, 'title': 'onSlideChangeEnd broken in ie10, FF?', 'state': 'closed', 'created_at': '2014-06-23T20:08:31Z', 'closed_at': '2014-06-24T15:11:11Z', 'labels': []}
+{'issuenumber': 832, 'title': 'Input field requires two taps to get focus', 'state': 'closed', 'created_at': '2014-06-23T13:45:34Z', 'closed_at': '2014-08-30T17:08:05Z', 'labels': []}
+{'issuenumber': 831, 'title': 'swipeTo', 'state': 'closed', 'created_at': '2014-06-22T14:05:53Z', 'closed_at': '2014-07-26T19:52:56Z', 'labels': []}
+{'issuenumber': 830, 'title': 'Multiple Swiper instances and navigation', 'state': 'closed', 'created_at': '2014-06-21T08:11:01Z', 'closed_at': '2014-06-21T19:48:16Z', 'labels': []}
+{'issuenumber': 829, 'title': 'autoplay & pagination', 'state': 'closed', 'created_at': '2014-06-20T18:10:05Z', 'closed_at': '2014-08-30T17:08:05Z', 'labels': []}
+{'issuenumber': 827, 'title': 'Center clicked slide', 'state': 'closed', 'created_at': '2014-06-19T08:04:35Z', 'closed_at': '2014-06-25T12:56:50Z', 'labels': []}
+{'issuenumber': 826, 'title': 'initialSlide not functioning properly when passing new parameters on window resize', 'state': 'closed', 'created_at': '2014-06-18T19:09:02Z', 'closed_at': '2014-06-20T23:03:18Z', 'labels': []}
+{'issuenumber': 825, 'title': 'weird scroll-bug in Chrome on Windows', 'state': 'closed', 'created_at': '2014-06-17T15:24:04Z', 'closed_at': '2015-02-11T20:28:34Z', 'labels': []}
+{'issuenumber': 824, 'title': 'Lagging movement while swiping/dragging on Android', 'state': 'closed', 'created_at': '2014-06-15T11:43:51Z', 'closed_at': '2015-02-11T20:28:34Z', 'labels': []}
+{'issuenumber': 822, 'title': 'Crashes when trying to prepend multiple items', 'state': 'closed', 'created_at': '2014-06-14T01:01:47Z', 'closed_at': '2014-06-16T23:40:39Z', 'labels': []}
+{'issuenumber': 821, 'title': 'issue on scrollbar with slidesPerView auto', 'state': 'closed', 'created_at': '2014-06-13T03:48:05Z', 'closed_at': '2014-06-20T19:19:43Z', 'labels': []}
+{'issuenumber': 820, 'title': 'Scrollbar plugin hide option', 'state': 'closed', 'created_at': '2014-06-12T20:48:27Z', 'closed_at': '2014-08-30T17:08:05Z', 'labels': []}
+{'issuenumber': 819, 'title': 'How do I stop the sliding animation when jumping from last to first slide etc', 'state': 'closed', 'created_at': '2014-06-12T02:18:44Z', 'closed_at': '2015-02-11T20:28:42Z', 'labels': []}
+{'issuenumber': 818, 'title': 'onSlideClick issue with slide groups and view limit transition bug', 'state': 'closed', 'created_at': '2014-06-11T16:29:35Z', 'closed_at': '2014-08-30T17:08:05Z', 'labels': []}
+{'issuenumber': 817, 'title': 'Implementation swiper slider in bootstrap tabs, resizeFix, reInit()', 'state': 'closed', 'created_at': '2014-06-10T15:24:11Z', 'closed_at': '2014-06-13T21:37:49Z', 'labels': []}
+{'issuenumber': 815, 'title': 'Avoiding issue with bootstrap * { box-sizing: border-box; }', 'state': 'closed', 'created_at': '2014-06-08T12:57:15Z', 'closed_at': '2014-06-09T14:13:29Z', 'labels': []}
+{'issuenumber': 814, 'title': 'Back to slide one on resize.', 'state': 'closed', 'created_at': '2014-06-06T15:23:51Z', 'closed_at': '2015-02-11T20:28:42Z', 'labels': []}
+{'issuenumber': 813, 'title': 'images are not resized proper on smaller resolutions ', 'state': 'closed', 'created_at': '2014-06-04T16:15:03Z', 'closed_at': '2014-06-10T16:08:22Z', 'labels': []}
+{'issuenumber': 812, 'title': "IE9: 'direction'-parameter in 'onSlideChangeEnd' is undefined", 'state': 'closed', 'created_at': '2014-06-04T14:56:28Z', 'closed_at': '2014-08-30T17:08:05Z', 'labels': []}
+{'issuenumber': 811, 'title': 'UX: bounce back when no slider left', 'state': 'closed', 'created_at': '2014-06-04T13:59:33Z', 'closed_at': '2015-02-11T20:28:42Z', 'labels': []}
+{'issuenumber': 810, 'title': 'Swiper.js with Rangeslider.js - Conflicting Swipe Events', 'state': 'closed', 'created_at': '2014-06-04T09:34:03Z', 'closed_at': '2015-02-11T20:28:42Z', 'labels': []}
+{'issuenumber': 809, 'title': '"Ultra lightweight. Only 3.2 KB minified and gzipped"', 'state': 'closed', 'created_at': '2014-06-04T08:33:04Z', 'closed_at': '2015-02-11T20:28:42Z', 'labels': []}
+{'issuenumber': 808, 'title': 'Link to a nested slide', 'state': 'closed', 'created_at': '2014-06-03T15:52:37Z', 'closed_at': '2014-06-19T20:42:38Z', 'labels': []}
+{'issuenumber': 807, 'title': 'Pages break when $(window).load is used', 'state': 'closed', 'created_at': '2014-06-03T06:33:18Z', 'closed_at': '2015-02-11T20:28:42Z', 'labels': []}
+{'issuenumber': 806, 'title': '"cssWidthAndHeight: true" doesn\'t work', 'state': 'closed', 'created_at': '2014-06-03T01:45:35Z', 'closed_at': '2014-07-08T17:36:50Z', 'labels': []}
+{'issuenumber': 805, 'title': 'Small issue dragging horizontally to the right (dev version)', 'state': 'closed', 'created_at': '2014-06-02T14:38:26Z', 'closed_at': '2014-08-30T17:08:05Z', 'labels': []}
+{'issuenumber': 804, 'title': 'Remove header when wrapper has been scrolled down', 'state': 'closed', 'created_at': '2014-05-31T10:59:17Z', 'closed_at': '2014-06-19T20:42:11Z', 'labels': []}
+{'issuenumber': 803, 'title': 'Issue with scrolltotop and content position in loop mode', 'state': 'closed', 'created_at': '2014-05-30T22:40:30Z', 'closed_at': '2015-02-11T20:28:42Z', 'labels': []}
+{'issuenumber': 802, 'title': 'autoplayDisableOnInteraction with nested slides', 'state': 'closed', 'created_at': '2014-05-30T16:15:56Z', 'closed_at': '2014-05-31T14:05:56Z', 'labels': []}
+{'issuenumber': 801, 'title': 'Retrieve event target within onTouchStart, onTouchMove and onTouchEnd callbacks', 'state': 'closed', 'created_at': '2014-05-29T15:46:07Z', 'closed_at': '2014-05-29T15:49:15Z', 'labels': []}
+{'issuenumber': 799, 'title': "swipeTo and slidesPerView: 'auto'", 'state': 'closed', 'created_at': '2014-05-29T12:26:54Z', 'closed_at': '2015-02-11T20:28:42Z', 'labels': []}
+{'issuenumber': 798, 'title': 'scrollContainer on Firefox — 1px per wheel turn', 'state': 'closed', 'created_at': '2014-05-29T11:08:01Z', 'closed_at': '2015-02-11T20:28:41Z', 'labels': []}
+{'issuenumber': 797, 'title': 'Miscalculation of slides count when in loop mode', 'state': 'closed', 'created_at': '2014-05-28T09:07:24Z', 'closed_at': '2015-02-11T20:28:41Z', 'labels': []}
+{'issuenumber': 796, 'title': 'Problem with Canvas in Slider', 'state': 'closed', 'created_at': '2014-05-27T09:04:47Z', 'closed_at': '2015-02-11T20:28:41Z', 'labels': []}
+{'issuenumber': 795, 'title': 'too big is it?', 'state': 'closed', 'created_at': '2014-05-26T15:51:33Z', 'closed_at': '2014-05-27T09:57:52Z', 'labels': []}
+{'issuenumber': 794, 'title': 'Phonegap 2.9.1 and swiper', 'state': 'closed', 'created_at': '2014-05-26T14:14:50Z', 'closed_at': '2015-02-11T20:28:41Z', 'labels': []}
+{'issuenumber': 793, 'title': 'Disable swiper in children', 'state': 'closed', 'created_at': '2014-05-23T17:52:40Z', 'closed_at': '2015-02-11T20:28:41Z', 'labels': []}
+{'issuenumber': 792, 'title': 'Slide disappear when using loop and centeredSlides', 'state': 'closed', 'created_at': '2014-05-23T17:36:22Z', 'closed_at': '2015-02-11T20:28:41Z', 'labels': []}
+{'issuenumber': 791, 'title': 'Jquerymobile Ajax load from tumblr API', 'state': 'closed', 'created_at': '2014-05-23T11:54:01Z', 'closed_at': '2014-05-25T23:15:31Z', 'labels': []}
+{'issuenumber': 790, 'title': "onSlideChangeEnd sometimes doesn't trigger when swiping backwards", 'state': 'closed', 'created_at': '2014-05-23T10:10:43Z', 'closed_at': '2014-05-26T08:49:18Z', 'labels': []}
+{'issuenumber': 789, 'title': 'Loop issue on end IE11', 'state': 'closed', 'created_at': '2014-05-22T18:38:06Z', 'closed_at': '2015-02-11T20:28:41Z', 'labels': []}
+{'issuenumber': 788, 'title': 'No swipping in Chrome', 'state': 'closed', 'created_at': '2014-05-20T14:23:05Z', 'closed_at': '2015-02-11T20:28:41Z', 'labels': []}
+{'issuenumber': 787, 'title': "I want to always swipe 'back' to the top slide of a nested vertical stack, how can this be done?", 'state': 'closed', 'created_at': '2014-05-20T11:22:36Z', 'closed_at': '2014-05-20T15:28:07Z', 'labels': []}
+{'issuenumber': 786, 'title': 'How to implement scrolling block inside scroller?', 'state': 'closed', 'created_at': '2014-05-20T09:16:43Z', 'closed_at': '2015-02-11T20:28:41Z', 'labels': []}
+{'issuenumber': 785, 'title': 'Inconsistent value for "activeIndex"', 'state': 'closed', 'created_at': '2014-05-19T20:16:45Z', 'closed_at': '2014-05-23T00:37:59Z', 'labels': []}
+{'issuenumber': 784, 'title': '"swiper-slide-active" class doesn\'t update', 'state': 'closed', 'created_at': '2014-05-19T18:41:08Z', 'closed_at': '2014-05-20T04:52:02Z', 'labels': []}
+{'issuenumber': 783, 'title': 'Remain in same slide after removing a slide or appending a slide.', 'state': 'closed', 'created_at': '2014-05-19T17:27:08Z', 'closed_at': '2015-02-11T20:28:41Z', 'labels': []}
+{'issuenumber': 782, 'title': 'progress plugin + window resize', 'state': 'closed', 'created_at': '2014-05-17T21:26:11Z', 'closed_at': '2015-02-11T20:28:41Z', 'labels': []}
+{'issuenumber': 781, 'title': 'grouping sliders', 'state': 'closed', 'created_at': '2014-05-17T13:35:44Z', 'closed_at': '2015-02-11T20:28:41Z', 'labels': []}
+{'issuenumber': 780, 'title': "Can't append 2 slides one after anoter.", 'state': 'closed', 'created_at': '2014-05-17T12:37:24Z', 'closed_at': '2015-02-11T20:28:41Z', 'labels': []}
+{'issuenumber': 779, 'title': 'One way swipes', 'state': 'closed', 'created_at': '2014-05-15T02:01:12Z', 'closed_at': '2014-08-30T17:08:05Z', 'labels': []}
+{'issuenumber': 778, 'title': 'calculateHeight miscalculating', 'state': 'closed', 'created_at': '2014-05-14T23:45:05Z', 'closed_at': '2014-05-16T20:44:52Z', 'labels': []}
+{'issuenumber': 777, 'title': 'IE 11 loop bug', 'state': 'closed', 'created_at': '2014-05-14T19:09:18Z', 'closed_at': '2014-05-14T19:55:08Z', 'labels': []}
+{'issuenumber': 776, 'title': '2.6.1: Autoplay and useCSS3Transforms:false sequence prob after resizing window', 'state': 'closed', 'created_at': '2014-05-14T13:07:48Z', 'closed_at': '2015-02-11T20:28:41Z', 'labels': []}
+{'issuenumber': 775, 'title': 'do not trigger autoplay on click last slide', 'state': 'closed', 'created_at': '2014-05-13T16:42:10Z', 'closed_at': '2014-08-30T17:08:05Z', 'labels': []}
+{'issuenumber': 774, 'title': 'Swhip not working in mobile opera mini browser', 'state': 'closed', 'created_at': '2014-05-13T12:26:59Z', 'closed_at': '2014-05-13T12:28:23Z', 'labels': []}
+{'issuenumber': 773, 'title': 'Swhip not working in mobile opera mini browser', 'state': 'closed', 'created_at': '2014-05-13T12:25:22Z', 'closed_at': '2014-05-13T12:28:53Z', 'labels': []}
+{'issuenumber': 772, 'title': 'Why I could not able to swipe inside the frame', 'state': 'closed', 'created_at': '2014-05-13T12:22:06Z', 'closed_at': '2014-05-15T13:47:45Z', 'labels': []}
+{'issuenumber': 771, 'title': 'Swipe not working in mobile opera mini browser', 'state': 'closed', 'created_at': '2014-05-13T12:20:54Z', 'closed_at': '2015-02-11T20:28:41Z', 'labels': []}
+{'issuenumber': 770, 'title': 'Autoplay?', 'state': 'closed', 'created_at': '2014-05-12T13:47:13Z', 'closed_at': '2014-07-08T17:53:13Z', 'labels': []}
+{'issuenumber': 769, 'title': 'background-size: cover;', 'state': 'closed', 'created_at': '2014-05-12T08:30:55Z', 'closed_at': '2015-02-11T20:28:41Z', 'labels': []}
+{'issuenumber': 768, 'title': 'onTouchMove triggered when returning to browser window', 'state': 'closed', 'created_at': '2014-05-09T23:16:08Z', 'closed_at': '2014-05-15T07:09:29Z', 'labels': []}
+{'issuenumber': 766, 'title': 'How to avoid crash using "Appstore" example', 'state': 'closed', 'created_at': '2014-05-09T11:00:43Z', 'closed_at': '2015-02-11T20:28:41Z', 'labels': []}
+{'issuenumber': 765, 'title': 'Swiper loop loopAdditionalSlides:40', 'state': 'closed', 'created_at': '2014-05-09T09:20:53Z', 'closed_at': '2014-05-12T10:17:07Z', 'labels': []}
+{'issuenumber': 764, 'title': 'Progress plugin should update progress on resize/orientation change', 'state': 'closed', 'created_at': '2014-05-09T00:20:23Z', 'closed_at': '2015-02-11T20:28:46Z', 'labels': []}
+{'issuenumber': 763, 'title': 'Spacing between slide', 'state': 'closed', 'created_at': '2014-05-08T04:19:30Z', 'closed_at': '2015-02-11T20:28:46Z', 'labels': []}
+{'issuenumber': 762, 'title': 'Input inside slide loosing focus mobile safari', 'state': 'closed', 'created_at': '2014-05-07T15:08:02Z', 'closed_at': '2014-08-30T17:08:05Z', 'labels': []}
+{'issuenumber': 761, 'title': 'multiple,same classname', 'state': 'closed', 'created_at': '2014-05-06T05:49:24Z', 'closed_at': '2014-05-07T03:12:38Z', 'labels': []}
+{'issuenumber': 760, 'title': 'Click event is triggered twice', 'state': 'closed', 'created_at': '2014-05-05T18:44:45Z', 'closed_at': '2014-05-06T11:32:45Z', 'labels': []}
+{'issuenumber': 759, 'title': 'Keyboard bug', 'state': 'closed', 'created_at': '2014-05-05T17:52:40Z', 'closed_at': '2014-05-06T13:12:24Z', 'labels': []}
+{'issuenumber': 758, 'title': 'onSlideChangeEnd not triggered when dragging past first or last slide', 'state': 'closed', 'created_at': '2014-05-05T14:09:35Z', 'closed_at': '2014-05-05T16:43:05Z', 'labels': []}
+{'issuenumber': 757, 'title': 'Critical Bug in fireCallback (external invocation of callback) ', 'state': 'closed', 'created_at': '2014-05-05T13:42:32Z', 'closed_at': '2014-05-06T17:10:18Z', 'labels': []}
+{'issuenumber': 756, 'title': 'swipeNext() in Loop mode not working in FF', 'state': 'closed', 'created_at': '2014-05-05T13:26:52Z', 'closed_at': '2015-02-11T20:28:46Z', 'labels': []}
+{'issuenumber': 755, 'title': 'Swiper with HandlebarJs : Scrollbar issue', 'state': 'closed', 'created_at': '2014-05-05T05:21:05Z', 'closed_at': '2015-02-11T20:28:46Z', 'labels': []}
+{'issuenumber': 754, 'title': 'Internet Explorer getComputedStyle wrong value (possible overflow)', 'state': 'closed', 'created_at': '2014-05-04T22:13:25Z', 'closed_at': '2014-05-09T20:37:57Z', 'labels': []}
+{'issuenumber': 753, 'title': 'Solution for IE11 problems with v2.6', 'state': 'closed', 'created_at': '2014-05-04T08:08:15Z', 'closed_at': '2015-02-11T20:28:46Z', 'labels': []}
+{'issuenumber': 752, 'title': "Nested swiper doesn't show pagination in Chrome", 'state': 'closed', 'created_at': '2014-05-01T20:51:15Z', 'closed_at': '2014-05-01T21:04:05Z', 'labels': []}
+{'issuenumber': 751, 'title': 'Calculating height issues?', 'state': 'closed', 'created_at': '2014-05-01T10:44:38Z', 'closed_at': '2015-02-11T20:28:46Z', 'labels': []}
+{'issuenumber': 750, 'title': 'Swiper with images height issue', 'state': 'closed', 'created_at': '2014-05-01T09:00:20Z', 'closed_at': '2014-05-01T21:02:26Z', 'labels': []}
+{'issuenumber': 749, 'title': 'Slider does not resize properly on orientation change.', 'state': 'closed', 'created_at': '2014-04-30T22:56:21Z', 'closed_at': '2014-04-30T23:38:42Z', 'labels': []}
+{'issuenumber': 748, 'title': 'Freemode swipeNext does not move to the next index.', 'state': 'closed', 'created_at': '2014-04-30T06:54:39Z', 'closed_at': '2014-05-01T10:22:40Z', 'labels': []}
+{'issuenumber': 747, 'title': 'Change from vertical mode to horizontal mode on orientation change', 'state': 'closed', 'created_at': '2014-04-30T02:55:05Z', 'closed_at': '2014-04-30T10:36:15Z', 'labels': []}
+{'issuenumber': 746, 'title': 'anim() runs infinitely in swipeToPosition', 'state': 'closed', 'created_at': '2014-04-29T21:46:16Z', 'closed_at': '2015-02-11T20:28:46Z', 'labels': []}
+{'issuenumber': 745, 'title': "Swiper doesn't swipe on Surface 2 Windows RT Internet Explorer 11", 'state': 'closed', 'created_at': '2014-04-29T18:59:08Z', 'closed_at': '2015-02-11T20:28:46Z', 'labels': []}
+{'issuenumber': 744, 'title': 'unwanted slideActiveClass reload on loop', 'state': 'closed', 'created_at': '2014-04-27T14:34:52Z', 'closed_at': '2014-04-30T15:01:03Z', 'labels': []}
+{'issuenumber': 743, 'title': 'Vertical pagination not visible', 'state': 'closed', 'created_at': '2014-04-23T18:02:22Z', 'closed_at': '2014-04-24T11:48:34Z', 'labels': []}
+{'issuenumber': 742, 'title': 'how to stop swiper change the width of the swiper-slide?', 'state': 'closed', 'created_at': '2014-04-23T10:37:42Z', 'closed_at': '2015-02-11T20:28:46Z', 'labels': []}
+{'issuenumber': 741, 'title': 'Cant set swiper start with the FIRST page', 'state': 'closed', 'created_at': '2014-04-23T08:42:05Z', 'closed_at': '2015-02-11T20:28:46Z', 'labels': []}
+{'issuenumber': 740, 'title': 'a page, there are many of the same effects', 'state': 'closed', 'created_at': '2014-04-23T07:12:46Z', 'closed_at': '2014-04-24T09:22:28Z', 'labels': []}
+{'issuenumber': 738, 'title': 'Nested pagination', 'state': 'closed', 'created_at': '2014-04-22T12:29:13Z', 'closed_at': '2014-04-23T18:01:06Z', 'labels': []}
+{'issuenumber': 737, 'title': 'feature variable names', 'state': 'closed', 'created_at': '2014-04-19T09:06:26Z', 'closed_at': '2014-04-19T20:18:02Z', 'labels': []}
+{'issuenumber': 736, 'title': 'DIV Rendering jQM', 'state': 'closed', 'created_at': '2014-04-18T06:47:08Z', 'closed_at': '2014-04-19T17:39:43Z', 'labels': []}
+{'issuenumber': 735, 'title': 'autoplayDisableOnInteraction Pagination click not disabling', 'state': 'closed', 'created_at': '2014-04-17T03:23:39Z', 'closed_at': '2014-08-30T17:08:05Z', 'labels': []}
+{'issuenumber': 734, 'title': 'Loop Swiper slide is removed after loop', 'state': 'closed', 'created_at': '2014-04-16T18:03:42Z', 'closed_at': '2014-04-24T09:22:51Z', 'labels': []}
+{'issuenumber': 733, 'title': 'Image lazy load on mobile', 'state': 'closed', 'created_at': '2014-04-16T08:38:13Z', 'closed_at': '2014-04-16T08:41:17Z', 'labels': []}
+{'issuenumber': 732, 'title': 'onSlideChangeEnd Callback not triggering on swiper.swipePrev() or swiper.swipeNext()', 'state': 'closed', 'created_at': '2014-04-16T04:52:59Z', 'closed_at': '2014-04-17T01:06:20Z', 'labels': []}
+{'issuenumber': 731, 'title': "Multiple instance, Pager isn't working ", 'state': 'closed', 'created_at': '2014-04-13T07:30:53Z', 'closed_at': '2014-05-03T17:36:48Z', 'labels': []}
+{'issuenumber': 730, 'title': 'Redraw swiper when active slide not the first', 'state': 'closed', 'created_at': '2014-04-12T19:21:46Z', 'closed_at': '2014-04-12T19:33:55Z', 'labels': []}
+{'issuenumber': 729, 'title': 'Skip slides with swipeTo()', 'state': 'closed', 'created_at': '2014-04-11T14:49:32Z', 'closed_at': '2015-02-11T20:28:46Z', 'labels': []}
+{'issuenumber': 728, 'title': 'swipeNext with autoplay IE8 bug', 'state': 'closed', 'created_at': '2014-04-09T11:57:56Z', 'closed_at': '2015-02-11T20:28:46Z', 'labels': []}
+{'issuenumber': 727, 'title': 'Vertical slider (sample: Nested Swipers. Vertical Swiper inside of horizontal) does not works on the platform Windpws RT. ', 'state': 'closed', 'created_at': '2014-04-09T05:02:03Z', 'closed_at': '2015-02-11T20:28:46Z', 'labels': []}
+{'issuenumber': 726, 'title': 'Use of media queries', 'state': 'closed', 'created_at': '2014-04-08T12:09:35Z', 'closed_at': '2014-04-08T19:54:30Z', 'labels': []}
+{'issuenumber': 725, 'title': 'Vertical free mode  causing slides to go off screen', 'state': 'closed', 'created_at': '2014-04-08T04:24:26Z', 'closed_at': '2014-04-08T07:56:22Z', 'labels': []}
+{'issuenumber': 724, 'title': 'Swiper content returns to the original position', 'state': 'closed', 'created_at': '2014-04-07T19:43:02Z', 'closed_at': '2015-02-11T20:28:46Z', 'labels': []}
+{'issuenumber': 723, 'title': 'Loading images in swiper', 'state': 'closed', 'created_at': '2014-04-07T10:44:05Z', 'closed_at': '2015-02-11T20:28:46Z', 'labels': []}
+{'issuenumber': 722, 'title': 'How to set autoplay time  12 sec for first slide and 6 sec for remaining slide using idangerous swiper', 'state': 'closed', 'created_at': '2014-04-07T05:45:25Z', 'closed_at': '2015-02-11T20:28:46Z', 'labels': []}
+{'issuenumber': 721, 'title': 'calculateHeight on a responsive swiper.', 'state': 'closed', 'created_at': '2014-04-05T16:53:43Z', 'closed_at': '2014-04-05T18:57:13Z', 'labels': []}
+{'issuenumber': 720, 'title': 'Cannot set slide to occupy entire screen width and height with Jquery Mobile', 'state': 'closed', 'created_at': '2014-04-05T13:50:34Z', 'closed_at': '2014-04-07T02:38:27Z', 'labels': []}
+{'issuenumber': 719, 'title': 'Still pagination and cursor after destroy', 'state': 'closed', 'created_at': '2014-04-04T20:27:04Z', 'closed_at': '2015-02-11T20:28:46Z', 'labels': []}
+{'issuenumber': 717, 'title': 'Destroying a Slide', 'state': 'closed', 'created_at': '2014-04-03T15:20:07Z', 'closed_at': '2014-04-04T15:16:39Z', 'labels': []}
+{'issuenumber': 716, 'title': '-', 'state': 'closed', 'created_at': '2014-04-03T15:06:25Z', 'closed_at': '2014-04-03T15:57:03Z', 'labels': []}
+{'issuenumber': 715, 'title': 'Swiper.js Adding buttons to the slides', 'state': 'closed', 'created_at': '2014-04-03T14:54:22Z', 'closed_at': '2015-02-11T20:28:46Z', 'labels': []}
+{'issuenumber': 714, 'title': 'Next/Previous arrows - correct usage', 'state': 'closed', 'created_at': '2014-04-03T01:18:04Z', 'closed_at': '2014-04-03T20:22:19Z', 'labels': []}
+{'issuenumber': 713, 'title': 'Next/Prev arrow functionality', 'state': 'closed', 'created_at': '2014-04-02T16:42:35Z', 'closed_at': '2014-04-04T15:58:45Z', 'labels': []}
+{'issuenumber': 712, 'title': 'IE8 Undefined is null or not an object', 'state': 'closed', 'created_at': '2014-04-02T05:27:34Z', 'closed_at': '2015-02-11T20:28:46Z', 'labels': []}
+{'issuenumber': 711, 'title': 'iOS 7.1 release of meta viewport minimal-ui', 'state': 'closed', 'created_at': '2014-04-02T00:16:09Z', 'closed_at': '2014-04-02T15:31:18Z', 'labels': []}
+{'issuenumber': 709, 'title': 'size slides in loop', 'state': 'closed', 'created_at': '2014-03-31T13:42:02Z', 'closed_at': '2014-03-31T14:40:37Z', 'labels': []}
+{'issuenumber': 708, 'title': 'Swiper too high', 'state': 'closed', 'created_at': '2014-03-31T03:37:16Z', 'closed_at': '2015-02-11T20:28:46Z', 'labels': []}
+{'issuenumber': 707, 'title': 'nested swipers merge snapGrids', 'state': 'closed', 'created_at': '2014-03-30T20:33:09Z', 'closed_at': '2015-02-11T20:28:46Z', 'labels': []}
+{'issuenumber': 705, 'title': 'onTouchMove is triggere even if the resistant bounds are disabled!', 'state': 'closed', 'created_at': '2014-03-29T11:53:31Z', 'closed_at': '2014-03-31T16:45:52Z', 'labels': []}
+{'issuenumber': 704, 'title': 'Resistance parametor not working!', 'state': 'closed', 'created_at': '2014-03-29T11:50:31Z', 'closed_at': '2014-07-08T18:11:14Z', 'labels': []}
+{'issuenumber': 703, 'title': 'Swiper - hard to scroll from laptop using IE', 'state': 'closed', 'created_at': '2014-03-28T19:01:36Z', 'closed_at': '2015-02-11T20:28:46Z', 'labels': []}
+{'issuenumber': 702, 'title': 'horizontal swiper with variable slide heights possible?', 'state': 'closed', 'created_at': '2014-03-27T12:14:29Z', 'closed_at': '2014-04-08T08:43:07Z', 'labels': []}
+{'issuenumber': 701, 'title': 'Textlink to swipe to layer', 'state': 'closed', 'created_at': '2014-03-26T11:48:25Z', 'closed_at': '2014-03-26T15:00:06Z', 'labels': []}
+{'issuenumber': 700, 'title': 'Feature request: enhanced keyboard navigation', 'state': 'closed', 'created_at': '2014-03-26T11:08:22Z', 'closed_at': '2014-03-27T14:25:58Z', 'labels': []}
+{'issuenumber': 699, 'title': 'Bug when using the TAB key on sliders with forms', 'state': 'closed', 'created_at': '2014-03-26T10:26:57Z', 'closed_at': '2014-03-27T09:38:58Z', 'labels': []}
+{'issuenumber': 697, 'title': 'Nested horizontal swiper-no-swiping', 'state': 'closed', 'created_at': '2014-03-24T18:31:10Z', 'closed_at': '2014-03-26T15:32:47Z', 'labels': []}
+{'issuenumber': 696, 'title': 'vertical browser scroll broken on horizontal swiper touch?', 'state': 'closed', 'created_at': '2014-03-24T11:22:06Z', 'closed_at': '2015-02-11T20:28:46Z', 'labels': []}
+{'issuenumber': 695, 'title': 'Broken virtual keyboard on Kindle Fire under Silk and Opera', 'state': 'closed', 'created_at': '2014-03-23T16:37:09Z', 'closed_at': '2015-02-11T20:28:46Z', 'labels': []}
+{'issuenumber': 694, 'title': 'Weird behaviour in IE11', 'state': 'closed', 'created_at': '2014-03-21T14:47:15Z', 'closed_at': '2015-02-11T20:28:46Z', 'labels': []}
+{'issuenumber': 693, 'title': 'Multi-touch capability', 'state': 'closed', 'created_at': '2014-03-21T11:29:20Z', 'closed_at': '2014-06-18T08:46:16Z', 'labels': []}
+{'issuenumber': 692, 'title': 'thumb nav center selector ', 'state': 'closed', 'created_at': '2014-03-20T07:12:57Z', 'closed_at': '2015-02-11T20:28:58Z', 'labels': []}
+{'issuenumber': 691, 'title': 'Responsive issues in IE', 'state': 'closed', 'created_at': '2014-03-19T18:49:33Z', 'closed_at': '2015-02-11T20:28:58Z', 'labels': []}
+{'issuenumber': 690, 'title': 'By default, pagination is not shown', 'state': 'closed', 'created_at': '2014-03-19T09:21:21Z', 'closed_at': '2014-03-19T17:18:27Z', 'labels': []}
+{'issuenumber': 689, 'title': 'Idangerous swiper scrollbar is not working with swiper', 'state': 'closed', 'created_at': '2014-03-19T07:05:17Z', 'closed_at': '2014-05-03T17:38:20Z', 'labels': []}
+{'issuenumber': 688, 'title': 'Tap event on activeslide???', 'state': 'closed', 'created_at': '2014-03-19T01:52:17Z', 'closed_at': '2015-02-11T20:28:58Z', 'labels': []}
+{'issuenumber': 687, 'title': 'If nested slider is last slide in a looped slider then nested slides will not work.', 'state': 'closed', 'created_at': '2014-03-18T14:44:22Z', 'closed_at': '2014-03-20T16:49:14Z', 'labels': []}
+{'issuenumber': 686, 'title': "When a <li> inside the slide has negative text-indent, swiping doesn't work on Chrome for Android.", 'state': 'closed', 'created_at': '2014-03-18T09:57:53Z', 'closed_at': '2015-02-11T20:28:58Z', 'labels': []}
+{'issuenumber': 685, 'title': 'Jquery mobile swiper not working for multiple pages', 'state': 'closed', 'created_at': '2014-03-18T01:34:28Z', 'closed_at': '2015-02-11T20:28:58Z', 'labels': []}
+{'issuenumber': 684, 'title': '"overflow-y: scroll;" inside vertical swiper', 'state': 'closed', 'created_at': '2014-03-17T20:43:07Z', 'closed_at': '2015-02-11T20:28:58Z', 'labels': []}
+{'issuenumber': 683, 'title': '2.5.x broke mouse wheel in Safari ', 'state': 'closed', 'created_at': '2014-03-17T07:42:55Z', 'closed_at': '2014-03-23T11:42:49Z', 'labels': []}
+{'issuenumber': 682, 'title': 'Swiper not swiping when getWrapperTranslate() returns floating point number', 'state': 'closed', 'created_at': '2014-03-16T23:16:48Z', 'closed_at': '2014-03-17T09:33:58Z', 'labels': []}
+{'issuenumber': 680, 'title': 'Link to Layer from other HTML doc.', 'state': 'closed', 'created_at': '2014-03-14T08:32:55Z', 'closed_at': '2014-03-14T08:46:55Z', 'labels': []}
+{'issuenumber': 679, 'title': 'Clear Queue for Swiper', 'state': 'closed', 'created_at': '2014-03-13T20:05:34Z', 'closed_at': '2015-02-11T20:28:58Z', 'labels': []}
+{'issuenumber': 678, 'title': 'Update nav position when clicked', 'state': 'closed', 'created_at': '2014-03-12T19:03:58Z', 'closed_at': '2014-03-13T17:10:53Z', 'labels': []}
+{'issuenumber': 677, 'title': 'Swiper 5.0 and Simple App, Will not vertical scroll on Ipad', 'state': 'closed', 'created_at': '2014-03-11T19:38:33Z', 'closed_at': '2015-02-11T20:28:58Z', 'labels': []}
+{'issuenumber': 674, 'title': 'DOMAnimation Not Working correctly.', 'state': 'closed', 'created_at': '2014-03-11T03:10:29Z', 'closed_at': '2015-02-11T20:28:57Z', 'labels': []}
+{'issuenumber': 673, 'title': 'Resize container due progress', 'state': 'closed', 'created_at': '2014-03-11T01:46:34Z', 'closed_at': '2014-11-23T02:23:30Z', 'labels': []}
+{'issuenumber': 672, 'title': 'movie app vertical scrolling, horizontal swiping ', 'state': 'closed', 'created_at': '2014-03-11T00:22:04Z', 'closed_at': '2015-02-11T20:28:57Z', 'labels': []}
+{'issuenumber': 671, 'title': 'destroy() not working', 'state': 'closed', 'created_at': '2014-03-10T14:01:51Z', 'closed_at': '2014-03-13T17:29:22Z', 'labels': []}
+{'issuenumber': 670, 'title': 'Swiper with not defined height is not initialized', 'state': 'closed', 'created_at': '2014-03-10T13:46:02Z', 'closed_at': '2014-03-13T15:36:46Z', 'labels': []}
+{'issuenumber': 669, 'title': 'Hide siblings swiper-slides to increase paint performance and smoothness', 'state': 'closed', 'created_at': '2014-03-10T00:41:09Z', 'closed_at': '2015-02-11T20:28:57Z', 'labels': []}
+{'issuenumber': 668, 'title': 'Nested swiper arrows', 'state': 'closed', 'created_at': '2014-03-09T18:16:57Z', 'closed_at': '2014-03-12T14:41:01Z', 'labels': []}
+{'issuenumber': 666, 'title': 'Input element text selection DOES NOT work on windows phone 8', 'state': 'closed', 'created_at': '2014-03-07T21:44:38Z', 'closed_at': '2014-08-30T17:08:05Z', 'labels': []}
+{'issuenumber': 665, 'title': 'calculateHeight getting wrong height when you have images wrapped on an overflowed element', 'state': 'closed', 'created_at': '2014-03-07T17:48:46Z', 'closed_at': '2014-03-18T09:04:47Z', 'labels': []}
+{'issuenumber': 664, 'title': 'Trigger Scroll Event with freemode ', 'state': 'closed', 'created_at': '2014-03-06T13:24:10Z', 'closed_at': '2015-02-11T20:28:57Z', 'labels': []}
+{'issuenumber': 663, 'title': 'Background-color', 'state': 'closed', 'created_at': '2014-03-06T11:52:04Z', 'closed_at': '2014-03-06T16:08:49Z', 'labels': []}
+{'issuenumber': 662, 'title': 'Loop all slides X number of times', 'state': 'closed', 'created_at': '2014-03-05T14:47:51Z', 'closed_at': '2014-03-05T16:31:32Z', 'labels': []}
+{'issuenumber': 658, 'title': 'IE8/IE9 onSlideChangeEnd', 'state': 'closed', 'created_at': '2014-02-27T09:27:43Z', 'closed_at': '2014-03-06T18:19:50Z', 'labels': []}
+{'issuenumber': 655, 'title': 'SwipeToPosition() fails on certain snapGrid steps', 'state': 'closed', 'created_at': '2014-02-25T14:53:21Z', 'closed_at': '2015-02-11T20:28:57Z', 'labels': []}
+{'issuenumber': 654, 'title': "Dynamically adding slides with data-index not setting '0' value", 'state': 'closed', 'created_at': '2014-02-24T17:29:19Z', 'closed_at': '2014-02-24T18:15:05Z', 'labels': []}
+{'issuenumber': 653, 'title': 'Problematic width calculation causes Firefox27 on MAC to incorrectly size container', 'state': 'closed', 'created_at': '2014-02-24T10:43:07Z', 'closed_at': '2015-02-11T20:28:57Z', 'labels': []}
+{'issuenumber': 652, 'title': 'Loop not working with multiple slidesPerView & slidesPerGroup', 'state': 'closed', 'created_at': '2014-02-24T03:30:39Z', 'closed_at': '2014-03-03T16:42:00Z', 'labels': []}
+{'issuenumber': 651, 'title': 'loop + autoplay + pagination = breaks when appending 3 slides dynamically', 'state': 'closed', 'created_at': '2014-02-21T21:55:17Z', 'closed_at': '2014-02-23T19:43:28Z', 'labels': []}
+{'issuenumber': 649, 'title': '"Tabs with feedback"  calculateHeight : true', 'state': 'closed', 'created_at': '2014-02-21T12:27:34Z', 'closed_at': '2014-04-30T10:22:04Z', 'labels': []}
+{'issuenumber': 648, 'title': 'keyboardControl breaks Alt + Left / Right browser navigation', 'state': 'closed', 'created_at': '2014-02-20T13:18:49Z', 'closed_at': '2014-02-24T18:14:43Z', 'labels': []}
+{'issuenumber': 647, 'title': 'onInit & onSwiperCreated Problem', 'state': 'closed', 'created_at': '2014-02-20T13:12:53Z', 'closed_at': '2014-03-13T16:25:59Z', 'labels': []}
+{'issuenumber': 645, 'title': 'Strange behavior with shortSwipes', 'state': 'closed', 'created_at': '2014-02-19T08:41:24Z', 'closed_at': '2014-02-19T10:17:22Z', 'labels': []}
+{'issuenumber': 644, 'title': 'CenterSlide issue', 'state': 'closed', 'created_at': '2014-02-19T03:06:20Z', 'closed_at': '2015-02-11T20:28:57Z', 'labels': []}
+{'issuenumber': 643, 'title': 'Dynamic pagination', 'state': 'closed', 'created_at': '2014-02-18T17:03:11Z', 'closed_at': '2015-02-11T20:28:57Z', 'labels': []}
+{'issuenumber': 642, 'title': 'autoplay loop issue', 'state': 'closed', 'created_at': '2014-02-18T07:41:03Z', 'closed_at': '2015-02-11T20:28:57Z', 'labels': []}
+{'issuenumber': 641, 'title': 'Swiper conflict with KnockoutJS', 'state': 'closed', 'created_at': '2014-02-14T18:56:28Z', 'closed_at': '2015-02-11T20:28:57Z', 'labels': []}
+{'issuenumber': 640, 'title': 'IE width problem and Chrom/Firefox', 'state': 'closed', 'created_at': '2014-02-13T21:06:31Z', 'closed_at': '2014-03-06T16:02:32Z', 'labels': []}
+{'issuenumber': 638, 'title': 'classList not supported by IE9 and lower', 'state': 'closed', 'created_at': '2014-02-13T09:55:05Z', 'closed_at': '2014-02-14T14:08:46Z', 'labels': []}
+{'issuenumber': 637, 'title': 'unable to get imagesLoaded of undefined', 'state': 'closed', 'created_at': '2014-02-12T13:29:01Z', 'closed_at': '2014-03-06T16:14:31Z', 'labels': []}
+{'issuenumber': 634, 'title': 'Scroll bug on key press', 'state': 'closed', 'created_at': '2014-02-10T19:29:54Z', 'closed_at': '2014-03-06T18:17:33Z', 'labels': []}
+{'issuenumber': 633, 'title': 'Is there a way to open a slide with ajax in it?', 'state': 'closed', 'created_at': '2014-02-10T17:33:04Z', 'closed_at': '2015-02-11T20:28:57Z', 'labels': []}
+{'issuenumber': 632, 'title': 'Vote for my new framework for building iOS 7 apps!', 'state': 'closed', 'created_at': '2014-02-10T14:07:44Z', 'closed_at': '2014-02-23T17:19:59Z', 'labels': []}
+{'issuenumber': 631, 'title': 'Multiple slides, arrows work on only one slider', 'state': 'closed', 'created_at': '2014-02-10T09:33:04Z', 'closed_at': '2015-02-11T20:28:57Z', 'labels': []}
+{'issuenumber': 630, 'title': 'noSwiping split between next and previous', 'state': 'closed', 'created_at': '2014-02-10T08:40:16Z', 'closed_at': '2014-08-30T17:08:05Z', 'labels': []}
+{'issuenumber': 628, 'title': 'autoplayDisableOnInteraction with paginationClickable', 'state': 'closed', 'created_at': '2014-02-06T23:00:00Z', 'closed_at': '2014-08-30T17:08:04Z', 'labels': []}
+{'issuenumber': 627, 'title': 'Non-looped slides issue with swipeTo', 'state': 'closed', 'created_at': '2014-02-06T17:07:45Z', 'closed_at': '2014-02-24T20:04:40Z', 'labels': []}
+{'issuenumber': 626, 'title': 'Any plausible solution for Lazy Loading?', 'state': 'closed', 'created_at': '2014-02-06T10:30:04Z', 'closed_at': '2015-02-11T20:28:57Z', 'labels': []}
+{'issuenumber': 625, 'title': 'mousewheelControlForceToAxis is not working', 'state': 'closed', 'created_at': '2014-02-05T12:41:24Z', 'closed_at': '2014-03-06T18:17:54Z', 'labels': []}
+{'issuenumber': 624, 'title': 'Inconsistent behavior across browsers', 'state': 'closed', 'created_at': '2014-02-04T20:37:23Z', 'closed_at': '2015-02-11T20:28:57Z', 'labels': []}
+{'issuenumber': 623, 'title': 'wrapperTransitionEnd in IE7, IE8, IE9', 'state': 'closed', 'created_at': '2014-02-04T15:13:17Z', 'closed_at': '2014-02-05T17:21:14Z', 'labels': []}
+{'issuenumber': 621, 'title': 'Swiper slide does not work inside iFrame iOS devices', 'state': 'closed', 'created_at': '2014-02-03T12:09:49Z', 'closed_at': '2014-02-04T16:03:26Z', 'labels': []}
+{'issuenumber': 620, 'title': 'SnapGrid to current page only', 'state': 'closed', 'created_at': '2014-02-02T21:14:53Z', 'closed_at': '2014-03-06T18:19:05Z', 'labels': []}
+{'issuenumber': 619, 'title': 'Swiper not compatible with Android 2.3: contents shown at top of page', 'state': 'closed', 'created_at': '2014-02-02T10:40:13Z', 'closed_at': '2014-02-02T11:01:52Z', 'labels': []}
+{'issuenumber': 618, 'title': 'Link inside the last slide to jump to first slide?', 'state': 'closed', 'created_at': '2014-02-02T09:23:31Z', 'closed_at': '2014-02-10T16:46:11Z', 'labels': []}
+{'issuenumber': 617, 'title': 'Reinitialise swiper instance with new settings on window.resize', 'state': 'closed', 'created_at': '2014-01-31T17:23:04Z', 'closed_at': '2015-02-11T20:28:57Z', 'labels': []}
+{'issuenumber': 616, 'title': 'Issue with swiper 2.4.3 & swiper scrollbar 2.4+ ', 'state': 'closed', 'created_at': '2014-01-31T15:43:47Z', 'closed_at': '2014-02-11T19:08:50Z', 'labels': []}
+{'issuenumber': 615, 'title': 'How to run callbacks when speed is set to 0?', 'state': 'closed', 'created_at': '2014-01-30T19:46:37Z', 'closed_at': '2014-03-06T18:18:20Z', 'labels': []}
+{'issuenumber': 614, 'title': "Swiper won't swipe when number of slides < slidesPerView", 'state': 'closed', 'created_at': '2014-01-30T19:21:32Z', 'closed_at': '2014-03-06T16:14:31Z', 'labels': []}
+{'issuenumber': 613, 'title': 'Pagination with variable number of swiper containers', 'state': 'closed', 'created_at': '2014-01-29T21:04:33Z', 'closed_at': '2015-02-11T20:28:57Z', 'labels': []}
+{'issuenumber': 610, 'title': 'Swiper (with no jQueryMoble code) linked from jQuery Mobile page needs refresh to look correct', 'state': 'closed', 'created_at': '2014-01-29T00:52:37Z', 'closed_at': '2014-03-06T18:18:37Z', 'labels': []}
+{'issuenumber': 609, 'title': "cssWidthAndHeight only applies to 'Usual slides'", 'state': 'closed', 'created_at': '2014-01-28T08:53:35Z', 'closed_at': '2015-02-11T20:28:57Z', 'labels': []}
+{'issuenumber': 606, 'title': 'A few very small problems/questions', 'state': 'closed', 'created_at': '2014-01-26T21:09:10Z', 'closed_at': '2014-02-05T19:41:01Z', 'labels': []}
+{'issuenumber': 605, 'title': 'Is it possible to align slides to the right?', 'state': 'closed', 'created_at': '2014-01-26T15:03:00Z', 'closed_at': '2014-01-30T15:44:29Z', 'labels': []}
+{'issuenumber': 604, 'title': 'In the "Different Widths" example the last slide will never be activated', 'state': 'closed', 'created_at': '2014-01-26T13:24:21Z', 'closed_at': '2015-02-11T20:29:06Z', 'labels': []}
+{'issuenumber': 603, 'title': 'Solution: Using Swiper with Magnific Popup to prevent popup on mouse drag', 'state': 'closed', 'created_at': '2014-01-24T15:33:00Z', 'closed_at': '2015-02-11T20:29:06Z', 'labels': []}
+{'issuenumber': 602, 'title': 'updateActiveSlide does not work', 'state': 'closed', 'created_at': '2014-01-24T10:57:10Z', 'closed_at': '2014-01-26T08:06:20Z', 'labels': []}
+{'issuenumber': 601, 'title': 'Navigation Arrows doesn´t work on multiple sliders', 'state': 'closed', 'created_at': '2014-01-23T21:05:08Z', 'closed_at': '2014-03-06T18:10:12Z', 'labels': []}
+{'issuenumber': 600, 'title': 'Navigation Arros doesn', 'state': 'closed', 'created_at': '2014-01-23T21:03:00Z', 'closed_at': '2014-01-23T21:38:08Z', 'labels': []}
+{'issuenumber': 599, 'title': 'Swiper not working if the slide contains youtube embeded video', 'state': 'closed', 'created_at': '2014-01-23T17:36:49Z', 'closed_at': '2014-01-26T08:09:05Z', 'labels': []}
+{'issuenumber': 598, 'title': 'Swiper onSlideChangeEnd callback function', 'state': 'closed', 'created_at': '2014-01-23T15:06:55Z', 'closed_at': '2014-02-20T17:32:17Z', 'labels': []}
+{'issuenumber': 597, 'title': 'Can I implement this with multi row of product?', 'state': 'closed', 'created_at': '2014-01-23T09:40:06Z', 'closed_at': '2015-02-11T20:29:06Z', 'labels': []}
+{'issuenumber': 596, 'title': 'Tabbing through links in swiper shifts scrollbar out of view', 'state': 'closed', 'created_at': '2014-01-22T20:24:36Z', 'closed_at': '2014-03-06T18:10:27Z', 'labels': []}
+{'issuenumber': 595, 'title': 'Problem with links in progress plugin', 'state': 'closed', 'created_at': '2014-01-22T18:56:34Z', 'closed_at': '2014-01-27T17:48:59Z', 'labels': []}
+{'issuenumber': 594, 'title': 'had to add event.stopPropagation() in  function onTouchStart(event) to make nested slider work in responsive slider parent', 'state': 'closed', 'created_at': '2014-01-22T17:39:04Z', 'closed_at': '2015-02-11T20:29:06Z', 'labels': []}
+{'issuenumber': 593, 'title': 'Cross-Browser Problem!', 'state': 'closed', 'created_at': '2014-01-22T17:15:07Z', 'closed_at': '2014-01-26T08:18:17Z', 'labels': []}
+{'issuenumber': 592, 'title': 'keyboardControl and mousewheelControl work with scrollbars?', 'state': 'closed', 'created_at': '2014-01-22T16:09:28Z', 'closed_at': '2014-01-26T08:18:25Z', 'labels': []}
+{'issuenumber': 591, 'title': 'swiper.positions.start is not updated when using mouseWheel to advance to next slide', 'state': 'closed', 'created_at': '2014-01-22T10:07:52Z', 'closed_at': '2014-03-06T18:10:56Z', 'labels': []}
+{'issuenumber': 589, 'title': 'demo-apps/simple/ broken Android 4.2.1', 'state': 'closed', 'created_at': '2014-01-20T23:01:10Z', 'closed_at': '2015-02-11T20:29:06Z', 'labels': []}
+{'issuenumber': 587, 'title': 'Not working on ie8', 'state': 'closed', 'created_at': '2014-01-20T18:30:37Z', 'closed_at': '2014-01-23T21:02:43Z', 'labels': []}
+{'issuenumber': 586, 'title': 'slidesPerView and centeredSlides with loop mode', 'state': 'closed', 'created_at': '2014-01-19T23:21:28Z', 'closed_at': '2015-02-11T20:29:06Z', 'labels': []}
+{'issuenumber': 585, 'title': 'Autoplay do not continues if scrollbar appear in window', 'state': 'closed', 'created_at': '2014-01-19T23:17:01Z', 'closed_at': '2015-02-11T20:29:06Z', 'labels': []}
+{'issuenumber': 584, 'title': 'onAutoplayStop,onAutoplayStart not fires', 'state': 'closed', 'created_at': '2014-01-19T22:49:58Z', 'closed_at': '2014-03-13T15:36:46Z', 'labels': []}
+{'issuenumber': 583, 'title': 'Params mousewheelControl not working', 'state': 'closed', 'created_at': '2014-01-19T13:11:18Z', 'closed_at': '2014-03-06T18:11:33Z', 'labels': []}
+{'issuenumber': 582, 'title': 'Is autoplay & loop inter-related?', 'state': 'closed', 'created_at': '2014-01-19T10:14:06Z', 'closed_at': '2014-01-26T08:21:46Z', 'labels': []}
+{'issuenumber': 581, 'title': 'outerHTML + Google Polymer', 'state': 'closed', 'created_at': '2014-01-19T07:58:53Z', 'closed_at': '2014-01-23T10:26:48Z', 'labels': []}
+{'issuenumber': 580, 'title': 'Loop off = Last slide blank content', 'state': 'closed', 'created_at': '2014-01-17T16:56:37Z', 'closed_at': '2015-02-11T20:29:06Z', 'labels': []}
+{'issuenumber': 579, 'title': 'Non-Linear Swiper', 'state': 'closed', 'created_at': '2014-01-16T19:59:58Z', 'closed_at': '2014-01-19T12:01:21Z', 'labels': []}
+{'issuenumber': 578, 'title': 'Swipe Threshold?', 'state': 'closed', 'created_at': '2014-01-16T15:04:09Z', 'closed_at': '2014-01-20T06:29:47Z', 'labels': []}
+{'issuenumber': 577, 'title': 'Multiple Sliders / Swipers', 'state': 'closed', 'created_at': '2014-01-16T12:50:45Z', 'closed_at': '2014-01-19T12:06:47Z', 'labels': []}
+{'issuenumber': 576, 'title': 'how to disable onclickslide', 'state': 'closed', 'created_at': '2014-01-16T06:49:12Z', 'closed_at': '2014-01-16T06:50:44Z', 'labels': []}
+{'issuenumber': 575, 'title': 'Progress Plugin events in Additive callback API', 'state': 'closed', 'created_at': '2014-01-15T22:12:06Z', 'closed_at': '2014-01-26T08:22:00Z', 'labels': []}
+{'issuenumber': 574, 'title': 'Autoplay and resizing browser while sliding stops play?', 'state': 'closed', 'created_at': '2014-01-15T17:26:35Z', 'closed_at': '2014-01-20T11:07:50Z', 'labels': []}
+{'issuenumber': 573, 'title': 'Setting/how to fit slide entirely within view?', 'state': 'closed', 'created_at': '2014-01-15T16:05:12Z', 'closed_at': '2014-01-15T16:56:57Z', 'labels': []}
+{'issuenumber': 572, 'title': 'Items appear when I inspect element', 'state': 'closed', 'created_at': '2014-01-13T22:38:54Z', 'closed_at': '2014-01-23T21:38:23Z', 'labels': []}
+{'issuenumber': 571, 'title': 'Question : What is my problem here?', 'state': 'closed', 'created_at': '2014-01-13T05:23:22Z', 'closed_at': '2014-01-19T12:34:39Z', 'labels': []}
+{'issuenumber': 570, 'title': 'BUG: When having different slides height with vertical slider and calculateHeight:true, slider does not position the slide corectly', 'state': 'closed', 'created_at': '2014-01-11T18:31:26Z', 'closed_at': '2014-01-19T12:30:32Z', 'labels': []}
+{'issuenumber': 569, 'title': 'Would you consider adding stopPropagation to the preventClick method?', 'state': 'closed', 'created_at': '2014-01-10T17:16:25Z', 'closed_at': '2014-01-26T08:22:42Z', 'labels': []}
+{'issuenumber': 568, 'title': 'hide next or prev when on first or last slide', 'state': 'closed', 'created_at': '2014-01-10T11:32:10Z', 'closed_at': '2014-01-13T13:04:23Z', 'labels': []}
+{'issuenumber': 567, 'title': 'onSlideChangeStart does not get fired on a specific condition', 'state': 'closed', 'created_at': '2014-01-10T10:51:49Z', 'closed_at': '2014-01-26T08:45:07Z', 'labels': []}
+{'issuenumber': 566, 'title': 'Prepend function automatically showing first slide ', 'state': 'closed', 'created_at': '2014-01-10T08:48:32Z', 'closed_at': '2015-02-11T20:29:06Z', 'labels': []}
+{'issuenumber': 565, 'title': 'change start slide according to id #', 'state': 'closed', 'created_at': '2014-01-09T18:27:36Z', 'closed_at': '2014-03-08T08:54:53Z', 'labels': []}
+{'issuenumber': 564, 'title': 'Question - Observed Delay when i use base64 images.', 'state': 'closed', 'created_at': '2014-01-09T06:04:40Z', 'closed_at': '2014-01-15T06:13:05Z', 'labels': []}
+{'issuenumber': 563, 'title': 'Multiple swipers not working on the same page', 'state': 'closed', 'created_at': '2014-01-08T17:34:05Z', 'closed_at': '2014-01-26T08:53:16Z', 'labels': []}
+{'issuenumber': 562, 'title': "Issue #560 hasn't been fixed", 'state': 'closed', 'created_at': '2014-01-08T17:18:04Z', 'closed_at': '2014-01-08T17:46:38Z', 'labels': []}
+{'issuenumber': 561, 'title': 'auto play only scroll once in IE(7,8,9) of version 2.4/2.4.1', 'state': 'closed', 'created_at': '2014-01-08T12:47:28Z', 'closed_at': '2014-01-08T15:22:36Z', 'labels': []}
+{'issuenumber': 560, 'title': 'Error when appending slides after ajax request: activeLoopIndex == -1 (2.4.0 and 2.4.1 version)', 'state': 'closed', 'created_at': '2014-01-06T21:29:50Z', 'closed_at': '2015-02-11T20:29:06Z', 'labels': []}
+{'issuenumber': 559, 'title': 'improvement: ability to exclude unused functionality', 'state': 'closed', 'created_at': '2014-01-06T15:18:18Z', 'closed_at': '2015-02-11T20:29:06Z', 'labels': []}
+{'issuenumber': 558, 'title': "onSlideChangeStart doesn't get triggered when swipe fast.", 'state': 'closed', 'created_at': '2014-01-06T10:38:08Z', 'closed_at': '2014-01-08T15:26:27Z', 'labels': []}
+{'issuenumber': 557, 'title': 'Where is ths source of swipe.js', 'state': 'closed', 'created_at': '2014-01-06T08:07:15Z', 'closed_at': '2014-01-19T12:34:48Z', 'labels': []}
+{'issuenumber': 556, 'title': 'Smooth Progress Plugin not recalculating with responsive width', 'state': 'closed', 'created_at': '2014-01-06T00:10:37Z', 'closed_at': '2014-01-26T08:54:22Z', 'labels': []}
+{'issuenumber': 555, 'title': 'Question: How to disable "onSlideChangeEnd" callback when user swipes fast?', 'state': 'closed', 'created_at': '2014-01-03T13:37:55Z', 'closed_at': '2014-01-26T08:57:54Z', 'labels': []}
+{'issuenumber': 554, 'title': 'autoplayDisableOnInteraction + autoplay + loop not working properly after interaction.', 'state': 'closed', 'created_at': '2014-01-03T10:07:29Z', 'closed_at': '2014-01-08T15:36:40Z', 'labels': []}
+{'issuenumber': 552, 'title': 'Swiper increases width of the main wrapper while reInit() after adding dynamic content slide', 'state': 'closed', 'created_at': '2014-01-01T09:28:01Z', 'closed_at': '2014-01-03T05:35:57Z', 'labels': []}
+{'issuenumber': 550, 'title': 'IE10 throws error when appending slides', 'state': 'closed', 'created_at': '2013-12-30T20:55:24Z', 'closed_at': '2014-01-08T14:35:55Z', 'labels': []}
+{'issuenumber': 549, 'title': 'Fail to continue slide on odd columns number', 'state': 'closed', 'created_at': '2013-12-29T19:41:55Z', 'closed_at': '2014-01-26T08:58:23Z', 'labels': []}
+{'issuenumber': 548, 'title': 'Question : removeSlide(1) problem?', 'state': 'closed', 'created_at': '2013-12-27T09:34:20Z', 'closed_at': '2014-01-06T04:31:01Z', 'labels': []}
+{'issuenumber': 547, 'title': 'Clicking link on page right after swiping breaks the swiper.', 'state': 'closed', 'created_at': '2013-12-26T21:12:55Z', 'closed_at': '2014-01-19T12:35:46Z', 'labels': []}
+{'issuenumber': 546, 'title': 'When calculateHeight: true, wp8 swipe behavior changes.', 'state': 'closed', 'created_at': '2013-12-26T20:48:49Z', 'closed_at': '2015-02-11T20:29:06Z', 'labels': []}
+{'issuenumber': 545, 'title': 'Problem with slidesPerGroup on touch devices', 'state': 'closed', 'created_at': '2013-12-26T09:56:20Z', 'closed_at': '2014-01-08T18:59:36Z', 'labels': []}
+{'issuenumber': 544, 'title': 'Loop problem', 'state': 'closed', 'created_at': '2013-12-26T05:59:51Z', 'closed_at': '2014-01-26T08:58:29Z', 'labels': []}
+{'issuenumber': 542, 'title': 'Blinking on Safari / Ipad in centered active slide mode', 'state': 'closed', 'created_at': '2013-12-23T15:05:51Z', 'closed_at': '2013-12-26T13:25:08Z', 'labels': []}
+{'issuenumber': 541, 'title': 'Conditional Swiper based on viewport size', 'state': 'closed', 'created_at': '2013-12-23T10:51:22Z', 'closed_at': '2013-12-24T10:51:05Z', 'labels': []}
+{'issuenumber': 540, 'title': 'Table as container not working if there is a tbody element', 'state': 'closed', 'created_at': '2013-12-23T08:31:56Z', 'closed_at': '2014-01-02T17:26:19Z', 'labels': []}
+{'issuenumber': 539, 'title': 'Swiper does not play well with table-cell', 'state': 'closed', 'created_at': '2013-12-22T15:58:02Z', 'closed_at': '2014-01-08T16:35:55Z', 'labels': []}
+{'issuenumber': 538, 'title': 'percentage based Partial Slide Display for responsive design', 'state': 'closed', 'created_at': '2013-12-20T11:16:27Z', 'closed_at': '2014-01-26T08:58:54Z', 'labels': []}
+{'issuenumber': 537, 'title': 'Browser touch support detection', 'state': 'closed', 'created_at': '2013-12-20T05:22:44Z', 'closed_at': '2015-02-11T20:29:06Z', 'labels': []}
+{'issuenumber': 536, 'title': 'what removeResizeEvent does in mySwiper.destroy(removeResizeEvent)', 'state': 'closed', 'created_at': '2013-12-19T21:29:38Z', 'closed_at': '2013-12-22T13:52:49Z', 'labels': []}
+{'issuenumber': 535, 'title': 'Dynamically Adding Slides not working as expected', 'state': 'closed', 'created_at': '2013-12-19T21:17:38Z', 'closed_at': '2013-12-30T21:07:21Z', 'labels': []}
+{'issuenumber': 534, 'title': "swiper doesn't add 'active' class when there's no need to scroll the container anymore", 'state': 'closed', 'created_at': '2013-12-19T16:45:06Z', 'closed_at': '2015-02-11T20:29:06Z', 'labels': []}
+{'issuenumber': 532, 'title': 'Swiper - disable the first slide', 'state': 'closed', 'created_at': '2013-12-19T09:29:24Z', 'closed_at': '2015-02-11T20:29:06Z', 'labels': []}
+{'issuenumber': 531, 'title': 'fixed tabs causing transparent issues', 'state': 'closed', 'created_at': '2013-12-19T05:55:08Z', 'closed_at': '2013-12-25T07:19:15Z', 'labels': []}
+{'issuenumber': 530, 'title': 'Is it possible to use 2 scrollbar using scrollbar plugin in swiper ?', 'state': 'closed', 'created_at': '2013-12-18T11:02:17Z', 'closed_at': '2015-02-11T20:29:06Z', 'labels': []}
+{'issuenumber': 529, 'title': 'Feature: Drag Element - Swipable Region', 'state': 'closed', 'created_at': '2013-12-18T02:33:59Z', 'closed_at': '2015-02-11T20:29:06Z', 'labels': []}
+{'issuenumber': 527, 'title': 'Safari Mobile sub pixel rendering issues', 'state': 'closed', 'created_at': '2013-12-17T20:54:54Z', 'closed_at': '2015-02-11T20:29:06Z', 'labels': []}
+{'issuenumber': 526, 'title': 'autoplayDisableOnInteraction', 'state': 'closed', 'created_at': '2013-12-16T22:56:27Z', 'closed_at': '2013-12-22T13:51:17Z', 'labels': []}
+{'issuenumber': 525, 'title': "_this.callPlugins('onSlideChangeEnd') is missing", 'state': 'closed', 'created_at': '2013-12-16T20:56:25Z', 'closed_at': '2014-03-06T18:16:08Z', 'labels': []}
+{'issuenumber': 524, 'title': 'Wrong callback: params.onSlideChangeStart is being called on onSlideChangeEnd', 'state': 'closed', 'created_at': '2013-12-16T20:55:33Z', 'closed_at': '2013-12-22T13:51:28Z', 'labels': []}
+{'issuenumber': 523, 'title': 'Fade effect', 'state': 'closed', 'created_at': '2013-12-16T19:57:10Z', 'closed_at': '2015-02-11T20:29:06Z', 'labels': []}
+{'issuenumber': 522, 'title': "Desktop : Click triggered on 'mouseup'", 'state': 'closed', 'created_at': '2013-12-16T18:09:46Z', 'closed_at': '2014-02-22T09:18:11Z', 'labels': []}
+{'issuenumber': 521, 'title': 'Question：when the conten increase in the swiper-slide in movie swiper, the scrollbar cannot drag', 'state': 'closed', 'created_at': '2013-12-16T03:44:07Z', 'closed_at': '2015-02-11T20:29:06Z', 'labels': []}
+{'issuenumber': 520, 'title': 'New feature: continuous very smooth scroll', 'state': 'closed', 'created_at': '2013-12-15T17:53:39Z', 'closed_at': '2015-02-11T20:29:06Z', 'labels': []}
+{'issuenumber': 519, 'title': 'Vertical loop with freeMode scroll issue (bottom -> up)', 'state': 'closed', 'created_at': '2013-12-15T17:48:02Z', 'closed_at': '2015-02-11T20:29:06Z', 'labels': []}
+{'issuenumber': 518, 'title': 'Scroll container set position', 'state': 'closed', 'created_at': '2013-12-14T19:38:44Z', 'closed_at': '2013-12-15T19:10:35Z', 'labels': []}
+{'issuenumber': 517, 'title': 'mutiple tab swiper issue', 'state': 'closed', 'created_at': '2013-12-14T05:18:51Z', 'closed_at': '2013-12-20T07:05:11Z', 'labels': []}
+{'issuenumber': 516, 'title': 'Loop, translate3d and transition glitch.', 'state': 'closed', 'created_at': '2013-12-13T07:40:47Z', 'closed_at': '2015-02-11T20:29:06Z', 'labels': []}
+{'issuenumber': 515, 'title': 'Slow swiping not firing events', 'state': 'closed', 'created_at': '2013-12-12T20:23:27Z', 'closed_at': '2013-12-16T18:36:32Z', 'labels': []}
+{'issuenumber': 514, 'title': "Slide Width + Height calculation don't include borders", 'state': 'closed', 'created_at': '2013-12-12T18:08:11Z', 'closed_at': '2015-02-11T20:29:06Z', 'labels': []}
+{'issuenumber': 513, 'title': 'Preloading with lots of pages on ipad', 'state': 'closed', 'created_at': '2013-12-12T16:45:31Z', 'closed_at': '2015-02-11T20:29:06Z', 'labels': []}
+{'issuenumber': 512, 'title': 'Allow settings like Loop:true to be turned toggles after initialization', 'state': 'closed', 'created_at': '2013-12-12T15:15:48Z', 'closed_at': '2015-02-11T20:29:12Z', 'labels': []}
+{'issuenumber': 511, 'title': 'Starting Slide : any other than the first one', 'state': 'closed', 'created_at': '2013-12-12T14:25:32Z', 'closed_at': '2013-12-15T11:55:01Z', 'labels': []}
+{'issuenumber': 510, 'title': 'Scrollbar plugin // Continus scrolling', 'state': 'closed', 'created_at': '2013-12-12T08:30:06Z', 'closed_at': '2014-01-19T22:34:19Z', 'labels': []}
+{'issuenumber': 509, 'title': 'Nested Vertical Broken on Windows Surface', 'state': 'closed', 'created_at': '2013-12-12T04:26:52Z', 'closed_at': '2015-02-11T20:29:12Z', 'labels': []}
+{'issuenumber': 508, 'title': 'Vertical scrolling Issue', 'state': 'closed', 'created_at': '2013-12-11T21:30:09Z', 'closed_at': '2015-02-11T20:29:12Z', 'labels': []}
+{'issuenumber': 507, 'title': 'Mousewheel does not work if only one axis.', 'state': 'closed', 'created_at': '2013-12-11T14:22:46Z', 'closed_at': '2013-12-15T13:05:27Z', 'labels': []}
+{'issuenumber': 505, 'title': 'Version 2.4 : Crash if window is sized to a minimum. ', 'state': 'closed', 'created_at': '2013-12-11T09:23:34Z', 'closed_at': '2013-12-11T13:33:45Z', 'labels': []}
+{'issuenumber': 504, 'title': 'Extara slide automatically gets added', 'state': 'closed', 'created_at': '2013-12-09T13:58:40Z', 'closed_at': '2013-12-09T16:28:02Z', 'labels': []}
+{'issuenumber': 503, 'title': 'Tag for version 2.4.0', 'state': 'closed', 'created_at': '2013-12-09T13:03:37Z', 'closed_at': '2013-12-15T12:32:01Z', 'labels': []}
+{'issuenumber': 502, 'title': 'Swiper :: How to destroy/ReInitialize with 0 slides', 'state': 'closed', 'created_at': '2013-12-09T11:58:04Z', 'closed_at': '2015-02-11T20:29:12Z', 'labels': []}
+{'issuenumber': 501, 'title': 'Please add new Callback function onAnimationEnd', 'state': 'closed', 'created_at': '2013-12-09T11:51:26Z', 'closed_at': '2013-12-09T17:43:57Z', 'labels': []}
+{'issuenumber': 500, 'title': 'How to disable pagination from GrabImage and pagination from mouse swipe', 'state': 'closed', 'created_at': '2013-12-09T09:16:55Z', 'closed_at': '2013-12-10T05:29:07Z', 'labels': []}
+{'issuenumber': 499, 'title': 'muti tab with feedback sliker in one html', 'state': 'closed', 'created_at': '2013-12-08T21:55:56Z', 'closed_at': '2013-12-15T12:41:27Z', 'labels': []}
+{'issuenumber': 498, 'title': "slidesPerView set to auto doesn't resize images (fluid)", 'state': 'closed', 'created_at': '2013-12-06T21:56:31Z', 'closed_at': '2013-12-09T21:14:11Z', 'labels': []}
+{'issuenumber': 497, 'title': 'Vertical slides with nested Vertical slides possible?', 'state': 'closed', 'created_at': '2013-12-06T12:21:52Z', 'closed_at': '2015-02-11T20:29:12Z', 'labels': []}
+{'issuenumber': 496, 'title': 'Easing on transitions', 'state': 'closed', 'created_at': '2013-12-06T07:43:20Z', 'closed_at': '2015-02-11T20:29:12Z', 'labels': []}
+{'issuenumber': 494, 'title': 'ie8: negative width breaks plugin', 'state': 'closed', 'created_at': '2013-12-05T18:14:37Z', 'closed_at': '2013-12-06T11:38:53Z', 'labels': []}
+{'issuenumber': 493, 'title': 'Swiper wont scroll (and autoplay) in IE 8,9,10', 'state': 'closed', 'created_at': '2013-12-05T14:02:49Z', 'closed_at': '2015-02-11T20:29:12Z', 'labels': []}
+{'issuenumber': 492, 'title': 'Check if swiper swipes to next or previous slide?', 'state': 'closed', 'created_at': '2013-12-05T12:41:28Z', 'closed_at': '2013-12-06T08:29:04Z', 'labels': []}
+{'issuenumber': 491, 'title': 'onSlideClick only works the first time', 'state': 'closed', 'created_at': '2013-12-04T17:05:39Z', 'closed_at': '2013-12-09T17:15:16Z', 'labels': []}
+{'issuenumber': 490, 'title': 'Slight Flash on Swipe using an iPad', 'state': 'closed', 'created_at': '2013-12-03T11:08:59Z', 'closed_at': '2015-02-11T20:29:12Z', 'labels': []}
+{'issuenumber': 488, 'title': 'Swiper does not support flexible width and height', 'state': 'closed', 'created_at': '2013-11-30T12:35:22Z', 'closed_at': '2015-02-11T20:29:12Z', 'labels': []}
+{'issuenumber': 487, 'title': 'Question: go to any slide in loader', 'state': 'closed', 'created_at': '2013-11-30T10:19:37Z', 'closed_at': '2015-02-11T20:29:11Z', 'labels': []}
+{'issuenumber': 486, 'title': 'Question: Can Swiper do "3 switching master pages" ?', 'state': 'closed', 'created_at': '2013-11-29T17:59:33Z', 'closed_at': '2015-02-11T20:29:11Z', 'labels': []}
+{'issuenumber': 485, 'title': "When triggered on last slide, slide doesn't snap to first slide", 'state': 'closed', 'created_at': '2013-11-28T10:11:32Z', 'closed_at': '2013-12-09T07:57:52Z', 'labels': []}
+{'issuenumber': 483, 'title': 'Autoplay and loop', 'state': 'closed', 'created_at': '2013-11-26T15:58:59Z', 'closed_at': '2013-12-06T11:40:32Z', 'labels': []}
+{'issuenumber': 482, 'title': 'Wrong container width and resizeReInit problem', 'state': 'closed', 'created_at': '2013-11-26T15:47:36Z', 'closed_at': '2013-12-10T13:05:07Z', 'labels': []}
+{'issuenumber': 481, 'title': 'fix custom div width', 'state': 'closed', 'created_at': '2013-11-25T14:46:02Z', 'closed_at': '2013-11-26T15:38:25Z', 'labels': []}
+{'issuenumber': 480, 'title': "All offset parameters don't play well with box-sizing: border-box;", 'state': 'closed', 'created_at': '2013-11-24T20:20:59Z', 'closed_at': '2013-11-25T02:13:28Z', 'labels': []}
+{'issuenumber': 479, 'title': "Menu creation and reseting nested Swiper's slides ", 'state': 'closed', 'created_at': '2013-11-24T15:57:29Z', 'closed_at': '2015-02-11T20:29:11Z', 'labels': []}
+{'issuenumber': 478, 'title': 'Question : How to destroy swiper if is created using $(this)?', 'state': 'closed', 'created_at': '2013-11-22T12:58:16Z', 'closed_at': '2013-12-09T04:51:23Z', 'labels': []}
+{'issuenumber': 477, 'title': 'Nested swiper problem?', 'state': 'closed', 'created_at': '2013-11-22T06:42:24Z', 'closed_at': '2013-12-09T04:55:26Z', 'labels': []}
+{'issuenumber': 476, 'title': 'autoplay stops on swipePrev()', 'state': 'closed', 'created_at': '2013-11-21T16:01:19Z', 'closed_at': '2013-12-06T11:41:17Z', 'labels': []}
+{'issuenumber': 475, 'title': 'Android 3.2 and Galaxy Tab 10.1', 'state': 'closed', 'created_at': '2013-11-21T13:50:53Z', 'closed_at': '2015-02-11T20:29:11Z', 'labels': []}
+{'issuenumber': 474, 'title': 'Touchend lags on Android devices', 'state': 'closed', 'created_at': '2013-11-21T08:31:46Z', 'closed_at': '2015-02-11T20:29:11Z', 'labels': []}
+{'issuenumber': 473, 'title': 'Turn off animation/slide in', 'state': 'closed', 'created_at': '2013-11-20T19:18:37Z', 'closed_at': '2013-12-04T10:58:25Z', 'labels': []}
+{'issuenumber': 472, 'title': 'Issue with Scrollbar & Modernizer', 'state': 'closed', 'created_at': '2013-11-20T15:40:12Z', 'closed_at': '2015-02-11T20:29:11Z', 'labels': []}
+{'issuenumber': 471, 'title': 'lightbox on slide image, prevent link clicking on mouse dragging', 'state': 'closed', 'created_at': '2013-11-19T20:48:32Z', 'closed_at': '2015-02-11T20:29:11Z', 'labels': []}
+{'issuenumber': 470, 'title': 'Swipe-to-top + Deeplink', 'state': 'closed', 'created_at': '2013-11-19T11:35:22Z', 'closed_at': '2015-02-11T20:29:11Z', 'labels': []}
+{'issuenumber': 469, 'title': 'mySwiper.swipeNext() stops working after a few clicks (firefox, IE)', 'state': 'closed', 'created_at': '2013-11-19T09:35:05Z', 'closed_at': '2015-02-11T20:29:11Z', 'labels': []}
+{'issuenumber': 468, 'title': 'Trackpad swiping not working: horizontal/vertical ', 'state': 'closed', 'created_at': '2013-11-19T08:13:44Z', 'closed_at': '2015-02-11T20:29:11Z', 'labels': []}
+{'issuenumber': 467, 'title': 'How to handle resize event with idangerous.swiper.scrollbar-2.0.js?', 'state': 'closed', 'created_at': '2013-11-19T08:00:53Z', 'closed_at': '2013-11-25T09:15:29Z', 'labels': []}
+{'issuenumber': 465, 'title': 'responsive slider not working with trackpad/magicmouse', 'state': 'closed', 'created_at': '2013-11-18T14:02:37Z', 'closed_at': '2015-02-11T20:29:11Z', 'labels': []}
+{'issuenumber': 464, 'title': 'Dynamically Changing Slide Index', 'state': 'closed', 'created_at': '2013-11-17T00:06:52Z', 'closed_at': '2015-02-11T20:29:11Z', 'labels': []}
+{'issuenumber': 463, 'title': 'How do you add Previous/Next arrows to the gallery-app?', 'state': 'closed', 'created_at': '2013-11-16T03:48:11Z', 'closed_at': '2013-11-18T08:42:48Z', 'labels': []}
+{'issuenumber': 462, 'title': 'Swipper wrapper bug on Firefox with centeredSlides: true', 'state': 'closed', 'created_at': '2013-11-14T15:21:40Z', 'closed_at': '2013-11-14T15:45:18Z', 'labels': []}
+{'issuenumber': 461, 'title': 'Plugin documentation for hashNav typo', 'state': 'closed', 'created_at': '2013-11-14T15:09:24Z', 'closed_at': '2013-11-14T15:42:53Z', 'labels': []}
+{'issuenumber': 460, 'title': "onSwiperCreated doesn't receive swiper instance", 'state': 'closed', 'created_at': '2013-11-14T14:50:00Z', 'closed_at': '2013-11-14T15:40:45Z', 'labels': []}
+{'issuenumber': 459, 'title': 'Blurry elements', 'state': 'closed', 'created_at': '2013-11-14T13:22:26Z', 'closed_at': '2013-12-04T09:41:35Z', 'labels': []}
+{'issuenumber': 458, 'title': '-webkit-tap-highlight-color is not working on links in the swiper-slide div', 'state': 'closed', 'created_at': '2013-11-14T09:19:07Z', 'closed_at': '2015-02-11T20:29:11Z', 'labels': []}
+{'issuenumber': 456, 'title': 'Slide count problem', 'state': 'closed', 'created_at': '2013-11-13T22:09:21Z', 'closed_at': '2015-02-11T20:29:11Z', 'labels': []}
+{'issuenumber': 455, 'title': 'Transition compatible problem', 'state': 'closed', 'created_at': '2013-11-13T11:30:03Z', 'closed_at': '2013-12-06T11:42:07Z', 'labels': []}
+{'issuenumber': 454, 'title': 'IE8 and IE9 problem', 'state': 'closed', 'created_at': '2013-11-12T22:22:56Z', 'closed_at': '2015-02-11T20:29:11Z', 'labels': []}
+{'issuenumber': 453, 'title': 'Playing youtube videos through swiper', 'state': 'closed', 'created_at': '2013-11-09T16:53:07Z', 'closed_at': '2013-11-18T08:54:10Z', 'labels': []}
+{'issuenumber': 452, 'title': 'Creating a dynamic swiper using json', 'state': 'closed', 'created_at': '2013-11-09T16:30:40Z', 'closed_at': '2013-11-18T08:56:03Z', 'labels': []}
+{'issuenumber': 451, 'title': 'Autoplay and loop will only advance slide once', 'state': 'closed', 'created_at': '2013-11-08T10:46:03Z', 'closed_at': '2013-12-06T11:42:22Z', 'labels': []}
+{'issuenumber': 450, 'title': 'Pinch to Zoom Phonegap Android ', 'state': 'closed', 'created_at': '2013-11-07T23:00:22Z', 'closed_at': '2015-02-11T20:29:11Z', 'labels': []}
+{'issuenumber': 449, 'title': 'on resize increase/decrease number of visible slides', 'state': 'closed', 'created_at': '2013-11-07T21:51:27Z', 'closed_at': '2015-02-11T20:29:20Z', 'labels': []}
+{'issuenumber': 448, 'title': 'when parent swipe is looped, child swipe not work', 'state': 'closed', 'created_at': '2013-11-07T13:57:49Z', 'closed_at': '2015-02-11T20:29:20Z', 'labels': []}
+{'issuenumber': 447, 'title': 'How to define swiper-slide height?', 'state': 'closed', 'created_at': '2013-11-07T10:53:17Z', 'closed_at': '2013-11-12T09:40:20Z', 'labels': []}
+{'issuenumber': 446, 'title': 'resizeReInit :true, on destroyed swiper?', 'state': 'closed', 'created_at': '2013-11-07T09:53:48Z', 'closed_at': '2013-11-19T07:07:48Z', 'labels': []}
+{'issuenumber': 445, 'title': 'Mobile Swiper', 'state': 'closed', 'created_at': '2013-11-06T20:58:48Z', 'closed_at': '2013-11-06T21:48:04Z', 'labels': []}
+{'issuenumber': 444, 'title': 'mousewheelControl not working properly in firefox', 'state': 'closed', 'created_at': '2013-11-06T20:23:53Z', 'closed_at': '2015-02-11T20:29:20Z', 'labels': []}
+{'issuenumber': 443, 'title': 'Best way to use another animation instead of the slide one?', 'state': 'closed', 'created_at': '2013-11-06T17:15:17Z', 'closed_at': '2014-05-07T18:41:58Z', 'labels': []}
+{'issuenumber': 442, 'title': 'Problem setting space between slides', 'state': 'closed', 'created_at': '2013-11-06T16:52:03Z', 'closed_at': '2013-11-06T21:17:33Z', 'labels': []}
+{'issuenumber': 441, 'title': 'nested swiper not moving with parent element', 'state': 'closed', 'created_at': '2013-11-06T15:34:47Z', 'closed_at': '2015-02-11T20:29:20Z', 'labels': []}
+{'issuenumber': 440, 'title': 'scrollbar track is not correct when using centeredSlides (fix included)', 'state': 'closed', 'created_at': '2013-11-06T14:23:52Z', 'closed_at': '2013-12-06T11:42:40Z', 'labels': []}
+{'issuenumber': 439, 'title': 'noSwiping class not working', 'state': 'closed', 'created_at': '2013-11-06T13:44:59Z', 'closed_at': '2013-12-06T11:42:46Z', 'labels': []}
+{'issuenumber': 438, 'title': 'Show/Hide Pre and Next Arrow by Last/First Slide ', 'state': 'closed', 'created_at': '2013-11-05T10:16:41Z', 'closed_at': '2013-11-05T12:49:51Z', 'labels': []}
+{'issuenumber': 437, 'title': 'Swiper scroller issue?', 'state': 'closed', 'created_at': '2013-11-05T09:14:33Z', 'closed_at': '2013-11-25T09:16:50Z', 'labels': []}
+{'issuenumber': 436, 'title': 'Question: swiper height problem?', 'state': 'closed', 'created_at': '2013-11-05T05:30:42Z', 'closed_at': '2013-11-12T09:39:58Z', 'labels': []}
+{'issuenumber': 435, 'title': 'IE8 - scrollbars break', 'state': 'closed', 'created_at': '2013-11-04T11:56:19Z', 'closed_at': '2014-03-06T17:55:06Z', 'labels': []}
+{'issuenumber': 434, 'title': 'Resistance effect on mouse scroll', 'state': 'closed', 'created_at': '2013-11-04T11:50:05Z', 'closed_at': '2014-03-06T17:55:48Z', 'labels': []}
+{'issuenumber': 432, 'title': 'Scroll Container and width?', 'state': 'closed', 'created_at': '2013-11-01T17:38:05Z', 'closed_at': '2013-12-04T09:23:14Z', 'labels': []}
+{'issuenumber': 431, 'title': 'Disable swiping one direction', 'state': 'closed', 'created_at': '2013-11-01T17:19:59Z', 'closed_at': '2014-08-30T17:08:04Z', 'labels': []}
+{'issuenumber': 430, 'title': 'Whole pixel values for translate3d', 'state': 'closed', 'created_at': '2013-11-01T16:16:26Z', 'closed_at': '2013-12-04T09:40:36Z', 'labels': []}
+{'issuenumber': 429, 'title': 'Slide width does not include margins', 'state': 'closed', 'created_at': '2013-10-31T23:01:52Z', 'closed_at': '2014-03-06T17:57:11Z', 'labels': []}
+{'issuenumber': 428, 'title': 'updateActiveSlide: cannot replace undefined', 'state': 'closed', 'created_at': '2013-10-31T11:50:33Z', 'closed_at': '2013-12-04T09:46:42Z', 'labels': []}
+{'issuenumber': 427, 'title': 'IE9-10, WP7.8-WP8: Illegal Argument error on appending new slides', 'state': 'closed', 'created_at': '2013-10-30T16:07:36Z', 'closed_at': '2014-03-06T17:57:38Z', 'labels': []}
+{'issuenumber': 426, 'title': 'Swiper on IE11 overlays slides', 'state': 'closed', 'created_at': '2013-10-30T15:46:18Z', 'closed_at': '2013-12-22T14:01:32Z', 'labels': []}
+{'issuenumber': 425, 'title': 'tracking a scrollContainer position', 'state': 'closed', 'created_at': '2013-10-30T14:51:08Z', 'closed_at': '2013-10-30T19:12:28Z', 'labels': []}
+{'issuenumber': 424, 'title': 'Is there any dependency with URl hash change?', 'state': 'closed', 'created_at': '2013-10-30T12:27:57Z', 'closed_at': '2013-11-05T05:19:51Z', 'labels': []}
+{'issuenumber': 423, 'title': "Is it possible to use 'class-name' intead of index number?", 'state': 'closed', 'created_at': '2013-10-30T08:51:54Z', 'closed_at': '2013-11-05T05:21:04Z', 'labels': []}
+{'issuenumber': 422, 'title': 'Responsive, vertical w/ prev & next buttons not working?', 'state': 'closed', 'created_at': '2013-10-29T15:30:56Z', 'closed_at': '2013-10-30T16:27:43Z', 'labels': []}
+{'issuenumber': 421, 'title': 'How to provide single slide swipe effect?', 'state': 'closed', 'created_at': '2013-10-29T06:52:30Z', 'closed_at': '2013-10-30T16:21:34Z', 'labels': []}
+{'issuenumber': 420, 'title': 'Swiper works but only after reloading the page when using jQuery Mobile 1.4.0 RC1', 'state': 'closed', 'created_at': '2013-10-29T04:47:16Z', 'closed_at': '2014-03-06T17:57:52Z', 'labels': []}
+{'issuenumber': 419, 'title': 'scrollbar position is off when set in looped mode', 'state': 'closed', 'created_at': '2013-10-28T23:21:42Z', 'closed_at': '2013-11-02T09:06:40Z', 'labels': []}
+{'issuenumber': 418, 'title': 'When scroll up/down slides become out of alignment ', 'state': 'closed', 'created_at': '2013-10-28T18:47:30Z', 'closed_at': '2014-03-06T17:58:03Z', 'labels': []}
+{'issuenumber': 417, 'title': 'All select boxes stop working on Android when Swiper slideshow added on the page', 'state': 'closed', 'created_at': '2013-10-28T16:04:10Z', 'closed_at': '2014-01-08T14:35:55Z', 'labels': []}
+{'issuenumber': 416, 'title': ' (plunker included) Flickering spaces on slide move', 'state': 'closed', 'created_at': '2013-10-27T23:12:38Z', 'closed_at': '2013-11-05T19:41:07Z', 'labels': []}
+{'issuenumber': 415, 'title': 'Responsive slide with fixed width slide', 'state': 'closed', 'created_at': '2013-10-27T20:37:29Z', 'closed_at': '2013-11-05T19:40:46Z', 'labels': []}
+{'issuenumber': 414, 'title': 'Swiper add extra slides?', 'state': 'closed', 'created_at': '2013-10-25T09:11:54Z', 'closed_at': '2013-10-27T21:54:37Z', 'labels': []}
+{'issuenumber': 413, 'title': "IE8 Error - 'getPropertyValue(...)' is null or not an object", 'state': 'closed', 'created_at': '2013-10-25T01:52:29Z', 'closed_at': '2013-10-29T01:09:33Z', 'labels': []}
+{'issuenumber': 412, 'title': 'Autoplay not working if slide is last one.', 'state': 'closed', 'created_at': '2013-10-24T19:04:29Z', 'closed_at': '2014-03-06T17:58:59Z', 'labels': []}
+{'issuenumber': 411, 'title': 'IE8 & IE9 swipeTo() not working on onSlideChangeEnd', 'state': 'closed', 'created_at': '2013-10-24T16:27:46Z', 'closed_at': '2015-02-11T20:29:20Z', 'labels': []}
+{'issuenumber': 410, 'title': 'border-radius on swiper-container', 'state': 'closed', 'created_at': '2013-10-24T15:15:10Z', 'closed_at': '2013-10-24T19:37:27Z', 'labels': []}
+{'issuenumber': 409, 'title': 'Issue with cursor following input field in slide', 'state': 'closed', 'created_at': '2013-10-24T02:37:20Z', 'closed_at': '2014-03-06T18:00:03Z', 'labels': []}
+{'issuenumber': 408, 'title': 'Found and fixed a bug (I think)', 'state': 'closed', 'created_at': '2013-10-24T01:17:30Z', 'closed_at': '2013-11-05T19:39:42Z', 'labels': []}
+{'issuenumber': 407, 'title': 'Scrollbar question/request', 'state': 'closed', 'created_at': '2013-10-23T19:47:51Z', 'closed_at': '2013-11-05T19:39:21Z', 'labels': []}
+{'issuenumber': 406, 'title': 'A swipe should reset the autoplay timeout', 'state': 'closed', 'created_at': '2013-10-23T16:22:59Z', 'closed_at': '2014-03-06T18:00:28Z', 'labels': []}
+{'issuenumber': 405, 'title': 'Calculate dynamic height for each slide', 'state': 'closed', 'created_at': '2013-10-23T15:44:42Z', 'closed_at': '2014-03-02T18:39:24Z', 'labels': []}
+{'issuenumber': 404, 'title': 'How to move the second swiper?', 'state': 'closed', 'created_at': '2013-10-23T14:42:03Z', 'closed_at': '2013-11-05T19:38:50Z', 'labels': []}
+{'issuenumber': 403, 'title': 'Orientation change ', 'state': 'closed', 'created_at': '2013-10-22T18:19:05Z', 'closed_at': '2013-12-04T09:37:13Z', 'labels': []}
+{'issuenumber': 402, 'title': 'Items invisible during loop', 'state': 'closed', 'created_at': '2013-10-22T16:38:56Z', 'closed_at': '2013-12-04T09:37:55Z', 'labels': []}
+{'issuenumber': 401, 'title': 'is there a way to add some easing ?', 'state': 'closed', 'created_at': '2013-10-22T07:25:03Z', 'closed_at': '2013-11-02T09:24:48Z', 'labels': []}
+{'issuenumber': 400, 'title': 'previousIndex: null with IE9 & IE8', 'state': 'closed', 'created_at': '2013-10-22T07:10:43Z', 'closed_at': '2013-10-30T13:52:33Z', 'labels': []}
+{'issuenumber': 399, 'title': 'intializing two instances on same page', 'state': 'closed', 'created_at': '2013-10-21T15:27:02Z', 'closed_at': '2013-10-22T14:53:42Z', 'labels': []}
+{'issuenumber': 398, 'title': 'Problem with Imgae carousel (downloading  twice)', 'state': 'closed', 'created_at': '2013-10-21T11:13:17Z', 'closed_at': '2013-11-05T19:38:28Z', 'labels': []}
+{'issuenumber': 397, 'title': 'url change when page is swiped', 'state': 'closed', 'created_at': '2013-10-20T09:17:04Z', 'closed_at': '2013-11-05T19:34:51Z', 'labels': []}
+{'issuenumber': 396, 'title': 'io7 resizing after change orientation problem', 'state': 'closed', 'created_at': '2013-10-19T13:11:15Z', 'closed_at': '2014-03-06T18:00:36Z', 'labels': []}
+{'issuenumber': 395, 'title': 'scrolling divs eventually break', 'state': 'closed', 'created_at': '2013-10-18T16:10:29Z', 'closed_at': '2013-10-25T21:26:19Z', 'labels': []}
+{'issuenumber': 394, 'title': '.reInit() or Init fuction only when .swiper-container is invisible? (out of the screen)', 'state': 'closed', 'created_at': '2013-10-18T14:12:18Z', 'closed_at': '2013-11-05T19:33:10Z', 'labels': []}
+{'issuenumber': 393, 'title': 'Video Player', 'state': 'closed', 'created_at': '2013-10-16T23:59:22Z', 'closed_at': '2013-11-05T19:30:29Z', 'labels': []}
+{'issuenumber': 392, 'title': 'Stack Slider: Slide above previous slides?', 'state': 'closed', 'created_at': '2013-10-16T08:12:34Z', 'closed_at': '2014-03-06T18:00:49Z', 'labels': []}
+{'issuenumber': 391, 'title': 'The last item in the pagination never becomes "active" in some situations.', 'state': 'closed', 'created_at': '2013-10-16T01:02:20Z', 'closed_at': '2013-12-04T09:35:59Z', 'labels': []}
+{'issuenumber': 390, 'title': 'Pagination issues with multiple swipers', 'state': 'closed', 'created_at': '2013-10-15T08:35:12Z', 'closed_at': '2013-10-17T17:50:33Z', 'labels': []}
+{'issuenumber': 389, 'title': 'Swipe event on arrows (instead of click)', 'state': 'closed', 'created_at': '2013-10-14T09:41:17Z', 'closed_at': '2013-11-05T19:54:56Z', 'labels': []}
+{'issuenumber': 388, 'title': 'DOMAnimation method in IE8 causing inconsistent timing', 'state': 'closed', 'created_at': '2013-10-10T22:41:50Z', 'closed_at': '2014-03-06T18:01:05Z', 'labels': []}
+{'issuenumber': 387, 'title': 'On appendSlide', 'state': 'closed', 'created_at': '2013-10-10T20:15:56Z', 'closed_at': '2013-11-05T19:54:06Z', 'labels': []}
+{'issuenumber': 386, 'title': 'onSlideClick not working in jquery mobile web app', 'state': 'closed', 'created_at': '2013-10-10T12:37:54Z', 'closed_at': '2014-03-06T18:01:21Z', 'labels': []}
+{'issuenumber': 385, 'title': 'Is there a way of hiding the left/right arrows if not required?', 'state': 'closed', 'created_at': '2013-10-10T08:56:14Z', 'closed_at': '2013-11-05T12:50:30Z', 'labels': []}
+{'issuenumber': 384, 'title': 'Swiper New Slide', 'state': 'closed', 'created_at': '2013-10-10T01:12:01Z', 'closed_at': '2013-10-17T18:14:19Z', 'labels': []}
+{'issuenumber': 383, 'title': 'Links within looped slides not working', 'state': 'closed', 'created_at': '2013-10-09T17:55:58Z', 'closed_at': '2013-11-05T19:53:35Z', 'labels': []}
+{'issuenumber': 382, 'title': 'Different callbacks according to the slide direction', 'state': 'closed', 'created_at': '2013-10-09T08:18:08Z', 'closed_at': '2013-10-14T07:20:53Z', 'labels': []}
+{'issuenumber': 381, 'title': "Creating a swiper at on('click')", 'state': 'closed', 'created_at': '2013-10-09T05:06:17Z', 'closed_at': '2014-03-06T18:01:29Z', 'labels': []}
+{'issuenumber': 380, 'title': 'paginationAsRange inaccurate', 'state': 'closed', 'created_at': '2013-10-08T13:53:08Z', 'closed_at': '2013-10-08T15:15:33Z', 'labels': []}
+{'issuenumber': 379, 'title': 'runCallbacks are not followed on IE8 and 9 when calling swipeTo', 'state': 'closed', 'created_at': '2013-10-08T12:12:58Z', 'closed_at': '2014-03-06T18:05:49Z', 'labels': []}
+{'issuenumber': 378, 'title': 'Please use semver git tags', 'state': 'closed', 'created_at': '2013-10-07T14:48:35Z', 'closed_at': '2013-11-05T19:53:14Z', 'labels': []}
+{'issuenumber': 377, 'title': "Form elements don't work in Android WebView (in emulator)", 'state': 'closed', 'created_at': '2013-10-05T07:04:09Z', 'closed_at': '2013-10-08T14:46:37Z', 'labels': []}
+{'issuenumber': 376, 'title': 'onScrollbarDrag does not fire when scrollbar is clicked not dragged', 'state': 'closed', 'created_at': '2013-10-04T20:37:03Z', 'closed_at': '2013-10-05T17:51:26Z', 'labels': []}
+{'issuenumber': 375, 'title': 'How use two horisontal swiper scrollbar for one swiper slider???', 'state': 'closed', 'created_at': '2013-10-03T18:32:02Z', 'closed_at': '2014-03-06T18:06:20Z', 'labels': []}
+{'issuenumber': 374, 'title': 'pagination click vs auto rotate cycle', 'state': 'closed', 'created_at': '2013-10-03T14:00:34Z', 'closed_at': '2014-03-06T18:06:29Z', 'labels': []}
+{'issuenumber': 373, 'title': 'lost use of scrollbar', 'state': 'closed', 'created_at': '2013-10-03T13:56:48Z', 'closed_at': '2013-11-05T19:52:39Z', 'labels': []}
+{'issuenumber': 372, 'title': 'Killing slider', 'state': 'closed', 'created_at': '2013-10-02T17:22:24Z', 'closed_at': '2013-11-05T19:52:26Z', 'labels': []}
+{'issuenumber': 371, 'title': 'Too many input fields causes slow response on ipad', 'state': 'closed', 'created_at': '2013-10-02T00:08:37Z', 'closed_at': '2013-12-06T11:44:41Z', 'labels': []}
+{'issuenumber': 370, 'title': 'Loop mode for "Centered Active Slide" layout. ', 'state': 'closed', 'created_at': '2013-10-01T20:51:15Z', 'closed_at': '2013-11-05T19:52:12Z', 'labels': []}
+{'issuenumber': 368, 'title': 'Not the current slide, but the first slide', 'state': 'closed', 'created_at': '2013-09-30T09:03:02Z', 'closed_at': '2013-11-05T19:51:26Z', 'labels': []}
+{'issuenumber': 367, 'title': 'Vertical scrollbar, how do I create a link that scrolls the page to the top?', 'state': 'closed', 'created_at': '2013-09-27T04:14:22Z', 'closed_at': '2014-03-06T18:07:00Z', 'labels': []}
+{'issuenumber': 366, 'title': 'Use 1 scrollbar for multiple wrappers', 'state': 'closed', 'created_at': '2013-09-25T06:08:27Z', 'closed_at': '2013-11-05T19:49:04Z', 'labels': []}
+{'issuenumber': 365, 'title': 'Using Swiper with jQuery UI Draggable/Droppable', 'state': 'closed', 'created_at': '2013-09-24T21:46:58Z', 'closed_at': '2014-03-06T18:07:12Z', 'labels': []}
+{'issuenumber': 364, 'title': 'Expose events', 'state': 'closed', 'created_at': '2013-09-24T14:35:33Z', 'closed_at': '2013-10-05T17:51:26Z', 'labels': []}
+{'issuenumber': 363, 'title': "doesn't work in Windows Phone 7.5", 'state': 'closed', 'created_at': '2013-09-24T10:22:21Z', 'closed_at': '2013-11-05T19:48:41Z', 'labels': []}
+{'issuenumber': 362, 'title': 'Can not swipe through Video iframe Area.', 'state': 'closed', 'created_at': '2013-09-24T00:02:43Z', 'closed_at': '2014-03-06T18:07:46Z', 'labels': []}
+{'issuenumber': 361, 'title': 'Component.json: incorrect version number', 'state': 'closed', 'created_at': '2013-09-23T10:47:54Z', 'closed_at': '2013-10-05T17:51:26Z', 'labels': []}
+{'issuenumber': 360, 'title': 'preventLinks not working', 'state': 'closed', 'created_at': '2013-09-22T17:34:54Z', 'closed_at': '2013-11-05T19:47:11Z', 'labels': []}
+{'issuenumber': 359, 'title': 'Firefox 3dflow Flickering', 'state': 'closed', 'created_at': '2013-09-20T17:46:15Z', 'closed_at': '2013-11-05T19:46:20Z', 'labels': []}
+{'issuenumber': 358, 'title': 'Next button "hanging" on Firefox 16.0.2', 'state': 'closed', 'created_at': '2013-09-18T08:41:14Z', 'closed_at': '2013-11-05T19:45:53Z', 'labels': []}
+{'issuenumber': 357, 'title': 'swipeNext() is broken (v2.2.0)', 'state': 'closed', 'created_at': '2013-09-17T09:07:30Z', 'closed_at': '2013-11-05T19:45:30Z', 'labels': []}
+{'issuenumber': 355, 'title': 'Custom (or pre-generated) Pagination', 'state': 'closed', 'created_at': '2013-09-16T19:15:44Z', 'closed_at': '2013-11-05T19:44:39Z', 'labels': []}
+{'issuenumber': 354, 'title': 'cycle2 + swiper', 'state': 'closed', 'created_at': '2013-09-16T10:01:20Z', 'closed_at': '2014-03-06T18:07:54Z', 'labels': []}
+{'issuenumber': 353, 'title': 'Is it possible? width 100% and Margin', 'state': 'closed', 'created_at': '2013-09-16T07:22:47Z', 'closed_at': '2013-09-17T10:25:34Z', 'labels': []}
+{'issuenumber': 352, 'title': 'add git tag for versioning', 'state': 'closed', 'created_at': '2013-09-12T17:25:01Z', 'closed_at': '2013-11-03T15:08:16Z', 'labels': []}
+{'issuenumber': 350, 'title': 'Is there a way to set sensitivity on determining if the user is swiping vertically or horizontally?', 'state': 'closed', 'created_at': '2013-09-12T07:15:17Z', 'closed_at': '2014-03-06T18:08:58Z', 'labels': []}
+{'issuenumber': 349, 'title': 'ie9 bug', 'state': 'closed', 'created_at': '2013-09-09T17:24:44Z', 'closed_at': '2014-03-06T18:09:07Z', 'labels': []}
+{'issuenumber': 348, 'title': 'Youtube video in firefox', 'state': 'closed', 'created_at': '2013-09-07T13:54:22Z', 'closed_at': '2013-09-08T13:43:25Z', 'labels': []}
+{'issuenumber': 347, 'title': 'Swiper.activeIndex and SwiperScrollbar', 'state': 'closed', 'created_at': '2013-09-06T12:03:44Z', 'closed_at': '2013-09-08T13:48:29Z', 'labels': []}
+{'issuenumber': 346, 'title': 'Frame Drop', 'state': 'closed', 'created_at': '2013-09-06T09:00:21Z', 'closed_at': '2015-02-11T20:29:20Z', 'labels': []}
+{'issuenumber': 345, 'title': 'slider great plugin but a problem?', 'state': 'closed', 'created_at': '2013-09-05T16:25:05Z', 'closed_at': '2013-12-06T11:44:33Z', 'labels': []}
+{'issuenumber': 344, 'title': 'onSlideChangeStart Scroll to not working', 'state': 'closed', 'created_at': '2013-09-05T13:07:32Z', 'closed_at': '2014-03-06T18:09:32Z', 'labels': []}
+{'issuenumber': 342, 'title': 'Margin problems', 'state': 'closed', 'created_at': '2013-09-03T20:45:49Z', 'closed_at': '2014-03-06T17:39:39Z', 'labels': []}
+{'issuenumber': 341, 'title': 'I need to zoom in slide, help!', 'state': 'closed', 'created_at': '2013-09-03T18:56:50Z', 'closed_at': '2015-02-11T20:29:20Z', 'labels': []}
+{'issuenumber': 339, 'title': 'Controlling repeated instances of mySwiper.swipeNext() & mySwiper.swipePrev()', 'state': 'closed', 'created_at': '2013-09-03T13:01:18Z', 'closed_at': '2014-03-06T17:52:43Z', 'labels': []}
+{'issuenumber': 338, 'title': "slidesPerView: 'auto' with slidesPerGroup", 'state': 'closed', 'created_at': '2013-09-02T05:17:01Z', 'closed_at': '2014-04-26T12:16:29Z', 'labels': []}
+{'issuenumber': 337, 'title': 'Using full page responsive slide - Initialslide doesnt start at the first slide', 'state': 'closed', 'created_at': '2013-08-31T21:40:12Z', 'closed_at': '2014-03-06T17:40:26Z', 'labels': []}
+{'issuenumber': 336, 'title': 'Scroll on wp8 with cordova', 'state': 'closed', 'created_at': '2013-08-31T09:35:04Z', 'closed_at': '2014-03-06T17:40:59Z', 'labels': []}
+{'issuenumber': 335, 'title': 'IE8: swiper-pagination not updating properly', 'state': 'closed', 'created_at': '2013-08-30T08:15:36Z', 'closed_at': '2014-03-06T17:41:06Z', 'labels': []}
+{'issuenumber': 334, 'title': 'Links in last slide are not clickable when loop option is true', 'state': 'closed', 'created_at': '2013-08-29T18:16:50Z', 'closed_at': '2013-09-15T14:54:54Z', 'labels': []}
+{'issuenumber': 332, 'title': 'Possibility to swap slides', 'state': 'closed', 'created_at': '2013-08-26T11:08:09Z', 'closed_at': '2013-08-29T08:43:05Z', 'labels': []}
+{'issuenumber': 331, 'title': 'new onScrollbarDrag not working', 'state': 'closed', 'created_at': '2013-08-26T10:27:00Z', 'closed_at': '2013-08-28T17:19:49Z', 'labels': []}
+{'issuenumber': 330, 'title': 'swiper 2.1 + IE8: Syntax Error', 'state': 'closed', 'created_at': '2013-08-26T09:03:09Z', 'closed_at': '2014-03-06T17:41:13Z', 'labels': []}
+{'issuenumber': 327, 'title': 'Add Swiper to npm registry', 'state': 'closed', 'created_at': '2013-08-23T12:15:20Z', 'closed_at': '2014-03-06T17:41:44Z', 'labels': []}
+{'issuenumber': 326, 'title': 'calculateHeight - preventing last slide from positioning', 'state': 'closed', 'created_at': '2013-08-22T16:34:43Z', 'closed_at': '2013-08-24T14:52:25Z', 'labels': []}
+{'issuenumber': 325, 'title': 'change param after init ', 'state': 'closed', 'created_at': '2013-08-22T10:37:20Z', 'closed_at': '2014-03-06T17:41:56Z', 'labels': []}
+{'issuenumber': 324, 'title': 'jquery mobile 1.3.2 & swiper 2.0', 'state': 'closed', 'created_at': '2013-08-22T00:15:09Z', 'closed_at': '2014-03-06T17:42:12Z', 'labels': []}
+{'issuenumber': 323, 'title': 'div inside a slide (innerHTML construction) makes the content of the slide to disappear', 'state': 'closed', 'created_at': '2013-08-21T11:05:32Z', 'closed_at': '2014-03-06T17:42:33Z', 'labels': []}
+{'issuenumber': 322, 'title': 'Scrollbar too wide on page load.', 'state': 'closed', 'created_at': '2013-08-20T23:45:32Z', 'closed_at': '2014-03-06T17:43:00Z', 'labels': []}
+{'issuenumber': 321, 'title': 'Prevent click on slide', 'state': 'closed', 'created_at': '2013-08-19T23:39:20Z', 'closed_at': '2014-03-06T17:43:46Z', 'labels': []}
+{'issuenumber': 320, 'title': "mousewheelControl doesn't change ActiveIndex? ", 'state': 'closed', 'created_at': '2013-08-19T18:03:05Z', 'closed_at': '2013-08-24T14:52:25Z', 'labels': []}
+{'issuenumber': 319, 'title': 'Dont work tabs on responsive multislider', 'state': 'closed', 'created_at': '2013-08-19T16:17:15Z', 'closed_at': '2013-08-24T10:13:27Z', 'labels': []}
+{'issuenumber': 318, 'title': 'Hyperlinks fail when using swipePrev() and loop: true', 'state': 'closed', 'created_at': '2013-08-18T06:44:13Z', 'closed_at': '2013-09-15T14:54:54Z', 'labels': []}
+{'issuenumber': 317, 'title': 'Tag releases so Bower can use them', 'state': 'closed', 'created_at': '2013-08-16T20:12:22Z', 'closed_at': '2013-10-06T08:16:57Z', 'labels': []}
+{'issuenumber': 312, 'title': '.swiper-wrapper Width is way too wide.', 'state': 'closed', 'created_at': '2013-08-15T20:42:15Z', 'closed_at': '2013-08-20T23:43:20Z', 'labels': []}
+{'issuenumber': 311, 'title': 'IE8 & IE7 clickedSlide does not work', 'state': 'closed', 'created_at': '2013-08-15T20:32:10Z', 'closed_at': '2013-08-24T14:52:25Z', 'labels': []}
+{'issuenumber': 310, 'title': 'Box-sizing: border-box and centeredSlides', 'state': 'closed', 'created_at': '2013-08-13T16:42:36Z', 'closed_at': '2014-02-26T08:54:29Z', 'labels': []}
+{'issuenumber': 309, 'title': 'Vertical Swiper with min-height:100% slides', 'state': 'closed', 'created_at': '2013-08-13T15:45:34Z', 'closed_at': '2013-08-19T15:23:57Z', 'labels': []}
+{'issuenumber': 308, 'title': 'Change mode (horizontal/vertical) on the fly', 'state': 'closed', 'created_at': '2013-08-13T12:08:14Z', 'closed_at': '2013-08-16T16:00:40Z', 'labels': []}
+{'issuenumber': 307, 'title': 'Responsive header with Swiper', 'state': 'closed', 'created_at': '2013-08-13T07:28:07Z', 'closed_at': '2014-03-06T17:44:01Z', 'labels': []}
+{'issuenumber': 306, 'title': 'Scrollbar not scrolling', 'state': 'closed', 'created_at': '2013-08-11T13:10:12Z', 'closed_at': '2013-09-01T14:41:01Z', 'labels': []}
+{'issuenumber': 305, 'title': 'Jquery Phonegap: Swiper not appearing, only text. "Object has no method "reInit" Error', 'state': 'closed', 'created_at': '2013-08-11T05:15:14Z', 'closed_at': '2014-03-06T17:44:12Z', 'labels': []}
+{'issuenumber': 304, 'title': 'iPad 1 : Laggy Swipe with lots of thumbnails', 'state': 'closed', 'created_at': '2013-08-11T02:26:48Z', 'closed_at': '2014-03-06T17:44:24Z', 'labels': []}
+{'issuenumber': 302, 'title': 'HTML5 video controls dead in ie10 with Swiper', 'state': 'closed', 'created_at': '2013-08-10T12:13:25Z', 'closed_at': '2013-08-10T15:20:30Z', 'labels': []}
+{'issuenumber': 301, 'title': 'Swiper with lazyload', 'state': 'closed', 'created_at': '2013-08-09T19:46:52Z', 'closed_at': '2013-08-12T14:05:42Z', 'labels': []}
+{'issuenumber': 300, 'title': 'swiper (horizontal) with in Horizontal swiper', 'state': 'closed', 'created_at': '2013-08-09T18:12:19Z', 'closed_at': '2013-08-24T10:16:32Z', 'labels': []}
+{'issuenumber': 299, 'title': 'Bower package', 'state': 'closed', 'created_at': '2013-08-08T18:13:00Z', 'closed_at': '2013-08-08T18:31:04Z', 'labels': []}
+{'issuenumber': 298, 'title': 'swiper with auto slide widths crashing on mobile chrome', 'state': 'closed', 'created_at': '2013-08-08T14:53:56Z', 'closed_at': '2014-03-06T17:45:33Z', 'labels': []}
+{'issuenumber': 297, 'title': 'Select box fails to respond on Android (all versions) when placed within a slide', 'state': 'closed', 'created_at': '2013-08-07T13:43:48Z', 'closed_at': '2013-08-24T14:52:25Z', 'labels': []}
+{'issuenumber': 296, 'title': 'onAfterInit', 'state': 'closed', 'created_at': '2013-08-06T20:08:14Z', 'closed_at': '2013-08-06T20:17:16Z', 'labels': []}
+{'issuenumber': 295, 'title': 'bower support', 'state': 'closed', 'created_at': '2013-08-06T08:12:16Z', 'closed_at': '2013-08-06T14:42:58Z', 'labels': []}
+{'issuenumber': 294, 'title': 'Mouse dragging not always working', 'state': 'closed', 'created_at': '2013-08-05T15:43:07Z', 'closed_at': '2014-03-06T17:46:06Z', 'labels': []}
+{'issuenumber': 293, 'title': 'Responsive Carousel', 'state': 'closed', 'created_at': '2013-08-05T06:21:17Z', 'closed_at': '2013-08-06T18:51:17Z', 'labels': []}
+{'issuenumber': 292, 'title': '.wrapperTransitionEnd bug in IE8', 'state': 'closed', 'created_at': '2013-08-02T14:11:00Z', 'closed_at': '2013-08-24T14:52:25Z', 'labels': []}
+{'issuenumber': 291, 'title': 'Changing focus does not update translate', 'state': 'closed', 'created_at': '2013-08-01T18:59:01Z', 'closed_at': '2015-02-11T20:29:19Z', 'labels': []}
+{'issuenumber': 290, 'title': 'Keyboard navigation (tab or alt-tab) into elements in slide corrupts the swiper', 'state': 'closed', 'created_at': '2013-08-01T09:06:23Z', 'closed_at': '2014-03-06T17:46:33Z', 'labels': []}
+{'issuenumber': 289, 'title': 'clickedSlideIndex not being calculated properly in IE8', 'state': 'closed', 'created_at': '2013-07-31T15:58:37Z', 'closed_at': '2013-07-31T17:55:44Z', 'labels': []}
+{'issuenumber': 288, 'title': "can't active autoplay ", 'state': 'closed', 'created_at': '2013-07-30T14:37:06Z', 'closed_at': '2013-07-30T23:08:21Z', 'labels': []}
+{'issuenumber': 287, 'title': 'disable touch start on a certain slide', 'state': 'closed', 'created_at': '2013-07-30T08:04:42Z', 'closed_at': '2013-07-30T09:08:05Z', 'labels': []}
+{'issuenumber': 286, 'title': 'onTouchMove not called when interacting with scrollbar', 'state': 'closed', 'created_at': '2013-07-29T14:13:20Z', 'closed_at': '2013-08-24T14:52:25Z', 'labels': []}
+{'issuenumber': 284, 'title': 'swiper 2.0 bug at line 1918', 'state': 'closed', 'created_at': '2013-07-26T04:04:12Z', 'closed_at': '2013-07-29T17:49:10Z', 'labels': []}
+{'issuenumber': 283, 'title': 'calculateHeight Causes Slide Position Issues', 'state': 'closed', 'created_at': '2013-07-25T21:17:49Z', 'closed_at': '2013-07-26T15:53:55Z', 'labels': []}
+{'issuenumber': 282, 'title': 'jQuery Swiper 2.0 init error', 'state': 'closed', 'created_at': '2013-07-25T15:08:42Z', 'closed_at': '2013-07-29T17:50:08Z', 'labels': []}
+{'issuenumber': 281, 'title': 'Viewport resize increases height of Swiper', 'state': 'closed', 'created_at': '2013-07-25T14:37:24Z', 'closed_at': '2014-03-06T17:47:16Z', 'labels': []}
+{'issuenumber': 280, 'title': 'Touch Causes Transitions To Stop Permenantly', 'state': 'closed', 'created_at': '2013-07-24T18:18:54Z', 'closed_at': '2013-08-24T14:52:25Z', 'labels': []}
+{'issuenumber': 278, 'title': "Can't get .startAutoplay() .stopAutoplay to work!", 'state': 'closed', 'created_at': '2013-07-23T07:36:53Z', 'closed_at': '2013-07-24T07:08:08Z', 'labels': []}
+{'issuenumber': 277, 'title': 'Responsive layout', 'state': 'closed', 'created_at': '2013-07-20T20:57:59Z', 'closed_at': '2014-03-06T17:47:50Z', 'labels': []}
+{'issuenumber': 276, 'title': 'Can I prepend a slide without changing the visible slide?', 'state': 'closed', 'created_at': '2013-07-19T19:48:37Z', 'closed_at': '2014-03-06T17:47:57Z', 'labels': []}
+{'issuenumber': 275, 'title': 'Layout messed up on page reload (f5)', 'state': 'closed', 'created_at': '2013-07-19T16:40:20Z', 'closed_at': '2014-03-06T17:48:11Z', 'labels': []}
+{'issuenumber': 274, 'title': 'Swiper & $(document).mouseup() in IE10 ', 'state': 'closed', 'created_at': '2013-07-19T11:48:31Z', 'closed_at': '2013-08-24T10:21:26Z', 'labels': []}
+{'issuenumber': 273, 'title': 'Multiple Instances of Swiper on Same page?', 'state': 'closed', 'created_at': '2013-07-19T10:55:46Z', 'closed_at': '2013-07-20T11:23:41Z', 'labels': []}
+{'issuenumber': 272, 'title': 'Swiper is not working in IE7 & IE8', 'state': 'closed', 'created_at': '2013-07-18T17:30:06Z', 'closed_at': '2013-08-12T15:49:16Z', 'labels': []}
+{'issuenumber': 271, 'title': "Check for a blank slide and don't include", 'state': 'closed', 'created_at': '2013-07-18T15:34:48Z', 'closed_at': '2014-03-06T17:48:51Z', 'labels': []}
+{'issuenumber': 270, 'title': 'slidesPerSlide & slidesPerView set to two or more causes an error in ie8', 'state': 'closed', 'created_at': '2013-07-18T12:57:20Z', 'closed_at': '2013-08-24T11:45:35Z', 'labels': []}
+{'issuenumber': 269, 'title': 'e.paginationContainer is undefined', 'state': 'closed', 'created_at': '2013-07-18T08:56:23Z', 'closed_at': '2013-07-22T10:02:33Z', 'labels': []}
+{'issuenumber': 268, 'title': "Doesn't slide on Android 4.0 tablet and phone", 'state': 'closed', 'created_at': '2013-07-18T08:19:10Z', 'closed_at': '2014-03-06T17:50:00Z', 'labels': []}
+{'issuenumber': 267, 'title': 'swiper scrollbar plugin chrome 28 windows 8 not working', 'state': 'closed', 'created_at': '2013-07-17T22:14:10Z', 'closed_at': '2014-03-06T17:50:38Z', 'labels': []}
+{'issuenumber': 266, 'title': 'iPad 1 ios 5.1.1 crash/memory leak on orientation change', 'state': 'closed', 'created_at': '2013-07-17T18:31:46Z', 'closed_at': '2015-02-11T20:29:19Z', 'labels': []}
+{'issuenumber': 265, 'title': 'Slides disappear on 3D carousel', 'state': 'closed', 'created_at': '2013-07-16T14:34:26Z', 'closed_at': '2013-07-17T14:22:16Z', 'labels': []}
+{'issuenumber': 264, 'title': 'Limit to 1 slide per swipe', 'state': 'closed', 'created_at': '2013-07-16T11:18:31Z', 'closed_at': '2015-02-11T20:29:19Z', 'labels': []}
+{'issuenumber': 263, 'title': 'Disable scrollbars when no overflow?', 'state': 'closed', 'created_at': '2013-07-16T09:35:25Z', 'closed_at': '2013-08-24T10:22:47Z', 'labels': []}
+{'issuenumber': 262, 'title': 'Run swipeToPosition on first init if initialSlide is not equal to activeIndex', 'state': 'closed', 'created_at': '2013-07-15T10:19:53Z', 'closed_at': '2014-03-06T17:36:02Z', 'labels': []}
+{'issuenumber': 261, 'title': "Scrollbar plug-in can't handle multiples on same page", 'state': 'closed', 'created_at': '2013-07-14T11:26:59Z', 'closed_at': '2013-07-16T09:26:51Z', 'labels': []}
+{'issuenumber': 260, 'title': 'Show edge of next and previous slide', 'state': 'closed', 'created_at': '2013-07-12T03:22:35Z', 'closed_at': '2013-07-16T04:16:01Z', 'labels': []}
+{'issuenumber': 259, 'title': 'Events::BeforeSlideChange & OnSlideLanded', 'state': 'closed', 'created_at': '2013-07-11T21:51:06Z', 'closed_at': '2013-08-24T10:23:38Z', 'labels': []}
+{'issuenumber': 258, 'title': 'calculateHeight:true', 'state': 'closed', 'created_at': '2013-07-11T21:13:33Z', 'closed_at': '2014-03-06T17:35:49Z', 'labels': []}
+{'issuenumber': 256, 'title': 'Android browser input control issue', 'state': 'closed', 'created_at': '2013-07-11T18:06:18Z', 'closed_at': '2013-12-09T18:05:10Z', 'labels': []}
+{'issuenumber': 255, 'title': 'Expose swipeToPosition', 'state': 'closed', 'created_at': '2013-07-11T17:55:10Z', 'closed_at': '2015-02-11T20:29:19Z', 'labels': []}
+{'issuenumber': 254, 'title': 'calculateHeight, not align last slide in center.', 'state': 'closed', 'created_at': '2013-07-11T14:07:26Z', 'closed_at': '2015-02-11T20:29:19Z', 'labels': []}
+{'issuenumber': 253, 'title': 'Loop starts with last slide', 'state': 'closed', 'created_at': '2013-07-11T14:02:42Z', 'closed_at': '2015-02-11T20:29:19Z', 'labels': []}
+{'issuenumber': 252, 'title': 'Link to others slides not working from initial slide only', 'state': 'closed', 'created_at': '2013-07-11T10:33:48Z', 'closed_at': '2013-09-15T14:54:54Z', 'labels': []}
+{'issuenumber': 251, 'title': 'getTranslate error if FF', 'state': 'closed', 'created_at': '2013-07-10T16:46:00Z', 'closed_at': '2013-08-24T14:52:25Z', 'labels': []}
+{'issuenumber': 250, 'title': "Links doesn't work on multiple loop slides.", 'state': 'closed', 'created_at': '2013-07-10T14:57:16Z', 'closed_at': '2013-09-15T14:54:54Z', 'labels': []}
+{'issuenumber': 249, 'title': '[2.0] Grab cursor should not be visible when there is only one slide', 'state': 'closed', 'created_at': '2013-07-09T14:44:51Z', 'closed_at': '2014-03-06T17:35:14Z', 'labels': []}
+{'issuenumber': 248, 'title': 'Pull to Refresh', 'state': 'closed', 'created_at': '2013-07-09T07:54:09Z', 'closed_at': '2013-08-24T14:52:25Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 247, 'title': 'Deep Linking', 'state': 'closed', 'created_at': '2013-07-08T00:10:52Z', 'closed_at': '2014-02-10T17:16:09Z', 'labels': []}
+{'issuenumber': 246, 'title': 'Input Focus only after double tap', 'state': 'closed', 'created_at': '2013-07-07T23:29:55Z', 'closed_at': '2013-07-09T10:12:01Z', 'labels': []}
+{'issuenumber': 245, 'title': '3D plugin not scrolling or rendering properly on any Android version, and not degrading to non-3D slider', 'state': 'closed', 'created_at': '2013-07-03T18:28:10Z', 'closed_at': '2015-02-11T20:29:19Z', 'labels': []}
+{'issuenumber': 244, 'title': 'Add css class to next/previous slide', 'state': 'closed', 'created_at': '2013-07-03T12:38:03Z', 'closed_at': '2014-03-06T17:35:01Z', 'labels': []}
+{'issuenumber': 243, 'title': 'Keyboard and mouse wheel control questions', 'state': 'closed', 'created_at': '2013-07-02T19:15:25Z', 'closed_at': '2014-03-06T17:34:27Z', 'labels': []}
+{'issuenumber': 242, 'title': '[2.0] issue when adding/remove slide dynamically', 'state': 'closed', 'created_at': '2013-07-02T07:15:01Z', 'closed_at': '2013-08-24T14:52:25Z', 'labels': []}
+{'issuenumber': 241, 'title': 'Reverse autoplay functionality', 'state': 'closed', 'created_at': '2013-06-28T07:40:03Z', 'closed_at': '2015-02-11T20:29:19Z', 'labels': []}
+{'issuenumber': 240, 'title': 'Pagination not working properly', 'state': 'closed', 'created_at': '2013-06-27T15:32:42Z', 'closed_at': '2013-06-30T03:00:39Z', 'labels': []}
+{'issuenumber': 239, 'title': 'Cannot get slides to float left', 'state': 'closed', 'created_at': '2013-06-27T13:27:44Z', 'closed_at': '2013-07-11T15:13:47Z', 'labels': []}
+{'issuenumber': 238, 'title': "slidesPerView:'auto' combined with loop 2", 'state': 'closed', 'created_at': '2013-06-27T07:20:53Z', 'closed_at': '2013-06-27T07:58:45Z', 'labels': []}
+{'issuenumber': 237, 'title': 'Autoplay glide', 'state': 'closed', 'created_at': '2013-06-26T17:33:53Z', 'closed_at': '2015-02-11T20:29:19Z', 'labels': []}
+{'issuenumber': 236, 'title': 'IE 8 slideClick event fail', 'state': 'closed', 'created_at': '2013-06-26T07:31:14Z', 'closed_at': '2013-08-24T14:52:25Z', 'labels': []}
+{'issuenumber': 235, 'title': 'Autoplay does not reset when clicking the pagination', 'state': 'closed', 'created_at': '2013-06-26T06:27:53Z', 'closed_at': '2013-12-22T13:56:37Z', 'labels': []}
+{'issuenumber': 234, 'title': 'Display:none swiper', 'state': 'closed', 'created_at': '2013-06-25T20:47:19Z', 'closed_at': '2014-03-06T17:34:07Z', 'labels': []}
+{'issuenumber': 233, 'title': 'LightCMS integration', 'state': 'closed', 'created_at': '2013-06-25T20:32:48Z', 'closed_at': '2015-02-11T20:29:19Z', 'labels': []}
+{'issuenumber': 232, 'title': 'No support untill July 8', 'state': 'closed', 'created_at': '2013-06-25T18:27:35Z', 'closed_at': '2013-07-11T14:49:44Z', 'labels': []}
+{'issuenumber': 231, 'title': 'Please add a "onResistanceAfter finished" callback', 'state': 'closed', 'created_at': '2013-06-25T16:18:04Z', 'closed_at': '2013-08-24T14:52:26Z', 'labels': []}
+{'issuenumber': 230, 'title': 'iPad Crash + Add and remove slides dynamically', 'state': 'closed', 'created_at': '2013-06-25T14:04:32Z', 'closed_at': '2015-02-11T20:29:19Z', 'labels': []}
+{'issuenumber': 228, 'title': 'autoplayStart/Stop not working when in loop-mode', 'state': 'closed', 'created_at': '2013-06-25T11:40:10Z', 'closed_at': '2013-06-25T18:30:15Z', 'labels': []}
+{'issuenumber': 227, 'title': 'Does it need anything else in order to work with wordpress?', 'state': 'closed', 'created_at': '2013-06-24T21:26:12Z', 'closed_at': '2014-02-10T17:15:13Z', 'labels': []}
+{'issuenumber': 226, 'title': 'How do I start from the last slide ?', 'state': 'closed', 'created_at': '2013-06-24T03:42:33Z', 'closed_at': '2013-06-25T10:09:28Z', 'labels': []}
+{'issuenumber': 225, 'title': 'Vertical Slider Overlay (possible Bug)', 'state': 'closed', 'created_at': '2013-06-23T13:41:21Z', 'closed_at': '2014-02-10T17:14:50Z', 'labels': []}
+{'issuenumber': 224, 'title': 'scrollContainer + loop mode breaks swiper', 'state': 'closed', 'created_at': '2013-06-20T16:44:56Z', 'closed_at': '2014-03-06T17:33:50Z', 'labels': []}
+{'issuenumber': 223, 'title': 'Last Slide not slide correct', 'state': 'closed', 'created_at': '2013-06-20T11:48:28Z', 'closed_at': '2013-07-11T15:13:03Z', 'labels': []}
+{'issuenumber': 222, 'title': "Uncaught TypeError: Cannot set property 'innerHTML' of undefined", 'state': 'closed', 'created_at': '2013-06-19T15:17:40Z', 'closed_at': '2013-06-19T15:23:32Z', 'labels': []}
+{'issuenumber': 221, 'title': " slidesPerView:'auto' combined with loop", 'state': 'closed', 'created_at': '2013-06-19T09:13:04Z', 'closed_at': '2014-03-06T17:33:35Z', 'labels': []}
+{'issuenumber': 220, 'title': 'NoSwiping with Html content', 'state': 'closed', 'created_at': '2013-06-19T07:28:20Z', 'closed_at': '2013-08-24T14:52:26Z', 'labels': []}
+{'issuenumber': 219, 'title': 'Auto return to slide 1', 'state': 'closed', 'created_at': '2013-06-18T23:51:08Z', 'closed_at': '2015-02-11T20:29:19Z', 'labels': []}
+{'issuenumber': 218, 'title': 'Load Slides via AJAX', 'state': 'closed', 'created_at': '2013-06-18T09:49:58Z', 'closed_at': '2015-02-11T20:29:19Z', 'labels': []}
+{'issuenumber': 217, 'title': 'Swiper demo vertical mode not working in mobile', 'state': 'closed', 'created_at': '2013-06-18T07:52:53Z', 'closed_at': '2013-06-18T11:09:06Z', 'labels': []}
+{'issuenumber': 216, 'title': 'PreventLinks not work when using Slides API to append new slide', 'state': 'closed', 'created_at': '2013-06-17T04:02:00Z', 'closed_at': '2013-06-22T18:57:53Z', 'labels': []}
+{'issuenumber': 215, 'title': 'realIndex in swiper RC2 ?', 'state': 'closed', 'created_at': '2013-06-15T07:24:39Z', 'closed_at': '2013-06-22T18:57:59Z', 'labels': []}
+{'issuenumber': 214, 'title': 'Leaked Swiper instances after destroy()', 'state': 'closed', 'created_at': '2013-06-15T03:47:19Z', 'closed_at': '2013-08-24T14:52:25Z', 'labels': []}
+{'issuenumber': 213, 'title': 'Adding padding/margin between slides', 'state': 'closed', 'created_at': '2013-06-14T19:54:15Z', 'closed_at': '2013-06-22T18:58:06Z', 'labels': []}
+{'issuenumber': 212, 'title': 'event with 3D swiper', 'state': 'closed', 'created_at': '2013-06-13T10:39:10Z', 'closed_at': '2013-06-13T10:43:04Z', 'labels': []}
+{'issuenumber': 211, 'title': 'Swiper 2 RC 100% width for the most devices.', 'state': 'closed', 'created_at': '2013-06-12T21:15:06Z', 'closed_at': '2013-06-22T19:04:32Z', 'labels': []}
+{'issuenumber': 210, 'title': 'pagination in multiple slideshow using one element class', 'state': 'closed', 'created_at': '2013-06-12T01:14:23Z', 'closed_at': '2013-06-22T18:58:33Z', 'labels': []}
+{'issuenumber': 209, 'title': 'Can I nest multiple Swipers into 1 main Swiper?', 'state': 'closed', 'created_at': '2013-06-11T18:13:28Z', 'closed_at': '2013-06-22T18:58:48Z', 'labels': []}
+{'issuenumber': 208, 'title': 'Pagination navigation not working', 'state': 'closed', 'created_at': '2013-06-11T14:49:37Z', 'closed_at': '2013-06-22T18:58:56Z', 'labels': []}
+{'issuenumber': 207, 'title': 'Disable Swiper (back to normal) on click', 'state': 'closed', 'created_at': '2013-06-11T09:44:22Z', 'closed_at': '2013-06-12T16:16:56Z', 'labels': []}
+{'issuenumber': 206, 'title': 'rc 2 runs only with modified css.', 'state': 'closed', 'created_at': '2013-06-10T07:37:26Z', 'closed_at': '2013-06-11T08:47:27Z', 'labels': []}
+{'issuenumber': 205, 'title': 'scrollBar plugin not working on android devices with scrollContainer mode.', 'state': 'closed', 'created_at': '2013-06-09T13:53:35Z', 'closed_at': '2013-09-08T13:48:28Z', 'labels': []}
+{'issuenumber': 204, 'title': 'Swiper2 currentSlide', 'state': 'closed', 'created_at': '2013-06-09T08:37:59Z', 'closed_at': '2013-06-09T10:34:29Z', 'labels': []}
+{'issuenumber': 203, 'title': 'select can not use ', 'state': 'closed', 'created_at': '2013-06-08T03:55:17Z', 'closed_at': '2013-06-09T10:34:40Z', 'labels': []}
+{'issuenumber': 201, 'title': 'Added slides to loop = true messing up my loading function', 'state': 'closed', 'created_at': '2013-06-07T00:17:39Z', 'closed_at': '2013-06-07T00:41:29Z', 'labels': []}
+{'issuenumber': 199, 'title': 'nested swiper', 'state': 'closed', 'created_at': '2013-06-06T11:28:58Z', 'closed_at': '2013-06-06T15:46:02Z', 'labels': []}
+{'issuenumber': 198, 'title': 'AutoPlay with tabs', 'state': 'closed', 'created_at': '2013-06-05T14:50:44Z', 'closed_at': '2013-06-12T17:45:28Z', 'labels': []}
+{'issuenumber': 197, 'title': "Slides's float in RC 2", 'state': 'closed', 'created_at': '2013-06-04T11:31:20Z', 'closed_at': '2013-06-06T20:50:52Z', 'labels': []}
+{'issuenumber': 196, 'title': 'Jquery mobile phonegap 100% width', 'state': 'closed', 'created_at': '2013-06-03T10:53:54Z', 'closed_at': '2014-03-06T17:31:53Z', 'labels': []}
+{'issuenumber': 195, 'title': 'Swiper 2 Bugs', 'state': 'closed', 'created_at': '2013-06-02T12:57:58Z', 'closed_at': '2013-06-07T11:18:42Z', 'labels': []}
+{'issuenumber': 194, 'title': 'Scrollbar plugin not working properly on FF v21', 'state': 'closed', 'created_at': '2013-05-31T14:15:36Z', 'closed_at': '2013-06-22T18:59:02Z', 'labels': []}
+{'issuenumber': 193, 'title': 'Unable to change slidesPerSlide from a numbered value to "auto"', 'state': 'closed', 'created_at': '2013-05-30T17:36:10Z', 'closed_at': '2013-05-30T22:24:00Z', 'labels': []}
+{'issuenumber': 192, 'title': 'Chrome ios error', 'state': 'closed', 'created_at': '2013-05-30T09:48:03Z', 'closed_at': '2013-06-22T18:59:24Z', 'labels': []}
+{'issuenumber': 191, 'title': 'Stop autoplay while hovering', 'state': 'closed', 'created_at': '2013-05-30T08:36:51Z', 'closed_at': '2013-07-14T13:02:42Z', 'labels': []}
+{'issuenumber': 190, 'title': 'Add or change swiper options afterwards', 'state': 'closed', 'created_at': '2013-05-30T08:29:17Z', 'closed_at': '2013-05-30T14:25:35Z', 'labels': []}
+{'issuenumber': 189, 'title': 'Swiper 2 RC', 'state': 'closed', 'created_at': '2013-05-29T16:36:46Z', 'closed_at': '2013-06-22T18:59:42Z', 'labels': []}
+{'issuenumber': 188, 'title': 'Two swipers, pagination outside of swiper container. How?', 'state': 'closed', 'created_at': '2013-05-29T11:11:44Z', 'closed_at': '2013-05-30T14:23:40Z', 'labels': []}
+{'issuenumber': 187, 'title': "Form controls don't function?", 'state': 'closed', 'created_at': '2013-05-27T19:25:23Z', 'closed_at': '2013-05-28T08:27:02Z', 'labels': []}
+{'issuenumber': 186, 'title': 'Firefox incorrectly displays iframe youtube video', 'state': 'closed', 'created_at': '2013-05-27T19:19:21Z', 'closed_at': '2013-05-28T08:23:24Z', 'labels': []}
+{'issuenumber': 184, 'title': 'Android PhoneGap Environment', 'state': 'closed', 'created_at': '2013-05-25T17:18:54Z', 'closed_at': '2014-03-06T17:31:21Z', 'labels': []}
+{'issuenumber': 183, 'title': '100% width container', 'state': 'closed', 'created_at': '2013-05-24T17:41:39Z', 'closed_at': '2013-05-26T10:06:50Z', 'labels': []}
+{'issuenumber': 182, 'title': 'Ipad 3 ipad4 bug', 'state': 'closed', 'created_at': '2013-05-24T12:45:40Z', 'closed_at': '2014-03-06T17:30:57Z', 'labels': []}
+{'issuenumber': 181, 'title': 'The "NoSwiping" Class with nested slider', 'state': 'closed', 'created_at': '2013-05-24T10:42:20Z', 'closed_at': '2015-02-11T20:29:19Z', 'labels': []}
+{'issuenumber': 180, 'title': 'Unable to get NoSwiping to work', 'state': 'closed', 'created_at': '2013-05-23T16:41:37Z', 'closed_at': '2013-06-22T19:00:01Z', 'labels': []}
+{'issuenumber': 179, 'title': 'Responsive Slider', 'state': 'closed', 'created_at': '2013-05-23T16:21:57Z', 'closed_at': '2015-02-11T20:29:19Z', 'labels': []}
+{'issuenumber': 178, 'title': 'IE8: Prevent Click Issue Fix', 'state': 'closed', 'created_at': '2013-05-23T03:15:07Z', 'closed_at': '2013-05-23T14:29:53Z', 'labels': []}
+{'issuenumber': 177, 'title': 'No API for disabling swiping.', 'state': 'closed', 'created_at': '2013-05-22T11:40:33Z', 'closed_at': '2013-05-22T16:53:20Z', 'labels': []}
+{'issuenumber': 176, 'title': 'Any experience with swiper and Adobe digital publishing suite?', 'state': 'closed', 'created_at': '2013-05-20T19:57:39Z', 'closed_at': '2013-06-22T19:00:19Z', 'labels': []}
+{'issuenumber': 175, 'title': 'Stress Test', 'state': 'closed', 'created_at': '2013-05-20T19:49:51Z', 'closed_at': '2015-02-11T20:29:19Z', 'labels': []}
+{'issuenumber': 174, 'title': 'Need seperated slider demos', 'state': 'closed', 'created_at': '2013-05-20T16:32:23Z', 'closed_at': '2013-06-22T19:00:53Z', 'labels': []}
+{'issuenumber': 173, 'title': 'Request: Pass element though for pagination', 'state': 'closed', 'created_at': '2013-05-20T13:03:05Z', 'closed_at': '2013-06-22T19:01:05Z', 'labels': []}
+{'issuenumber': 172, 'title': 'Very Slow Scroll on slides with Jquery Mobile', 'state': 'closed', 'created_at': '2013-05-20T10:08:41Z', 'closed_at': '2014-03-06T17:29:50Z', 'labels': []}
+{'issuenumber': 171, 'title': 'Widths and Heights not being recalculated onorientationchange', 'state': 'closed', 'created_at': '2013-05-20T06:22:32Z', 'closed_at': '2013-06-22T19:02:12Z', 'labels': []}
+{'issuenumber': 170, 'title': "Cannot get 'scrollContainer' to work under any circumstance", 'state': 'closed', 'created_at': '2013-05-19T20:04:16Z', 'closed_at': '2013-05-25T16:37:56Z', 'labels': []}
+{'issuenumber': 169, 'title': 'Thumbnail Navigation', 'state': 'closed', 'created_at': '2013-05-18T06:11:32Z', 'closed_at': '2013-06-22T19:02:38Z', 'labels': []}
+{'issuenumber': 168, 'title': 'Problem in IE10 on Windows Mobile 8', 'state': 'closed', 'created_at': '2013-05-17T13:09:15Z', 'closed_at': '2013-05-20T19:51:50Z', 'labels': []}
+{'issuenumber': 167, 'title': 'Desktop Swipes', 'state': 'closed', 'created_at': '2013-05-16T15:32:48Z', 'closed_at': '2015-02-11T20:29:19Z', 'labels': []}
+{'issuenumber': 166, 'title': 'Vertical Swiper inside of horizontal', 'state': 'closed', 'created_at': '2013-05-16T03:58:09Z', 'closed_at': '2013-05-17T10:14:10Z', 'labels': []}
+{'issuenumber': 165, 'title': 'How to make this plugin Direction RTL?', 'state': 'closed', 'created_at': '2013-05-15T08:00:24Z', 'closed_at': '2015-02-11T20:29:18Z', 'labels': []}
+{'issuenumber': 164, 'title': 'Img width and height on safari mobile very different than other browsers', 'state': 'closed', 'created_at': '2013-05-13T21:19:56Z', 'closed_at': '2013-06-22T19:03:00Z', 'labels': []}
+{'issuenumber': 163, 'title': 'Double-firing of onSlideChangeEnd on first slide event', 'state': 'closed', 'created_at': '2013-05-13T20:52:46Z', 'closed_at': '2013-06-22T19:03:05Z', 'labels': []}
+{'issuenumber': 162, 'title': 'auto detect height', 'state': 'closed', 'created_at': '2013-05-13T12:25:28Z', 'closed_at': '2013-06-22T19:03:18Z', 'labels': []}
+{'issuenumber': 161, 'title': 'onSlideChangeEnd() not firing on fast swiping', 'state': 'closed', 'created_at': '2013-05-13T09:51:46Z', 'closed_at': '2013-05-17T15:28:01Z', 'labels': []}
+{'issuenumber': 160, 'title': 'mousewheelControl problem in version 1.9.3', 'state': 'closed', 'created_at': '2013-05-11T19:49:54Z', 'closed_at': '2013-05-23T14:29:53Z', 'labels': []}
+{'issuenumber': 159, 'title': 'Multiple slideshow using one element class', 'state': 'closed', 'created_at': '2013-05-11T18:19:20Z', 'closed_at': '2013-05-12T13:37:26Z', 'labels': []}
+{'issuenumber': 158, 'title': 'Swiper causes select list not to work on Phonegap/Android', 'state': 'closed', 'created_at': '2013-05-11T12:07:39Z', 'closed_at': '2013-05-28T08:26:48Z', 'labels': []}
+{'issuenumber': 157, 'title': 'Calling currentSlide() within onSlideChangeEnd', 'state': 'closed', 'created_at': '2013-05-10T11:45:08Z', 'closed_at': '2013-06-22T19:03:33Z', 'labels': []}
+{'issuenumber': 156, 'title': 'Removing a slide without losing current position', 'state': 'closed', 'created_at': '2013-05-09T18:35:25Z', 'closed_at': '2014-03-06T17:28:44Z', 'labels': []}
+{'issuenumber': 155, 'title': 'onSlideChangeStart not firing consistenly', 'state': 'closed', 'created_at': '2013-05-08T22:49:21Z', 'closed_at': '2013-05-23T14:29:53Z', 'labels': []}
+{'issuenumber': 153, 'title': '100% height vertical swiper (re)size issue', 'state': 'closed', 'created_at': '2013-05-07T19:24:22Z', 'closed_at': '2013-07-02T19:49:48Z', 'labels': []}
+{'issuenumber': 152, 'title': 'No way to add new slides before current without flicker on iOS', 'state': 'closed', 'created_at': '2013-05-06T21:45:28Z', 'closed_at': '2013-05-08T19:33:42Z', 'labels': []}
+{'issuenumber': 151, 'title': 'question about multiple swiper', 'state': 'closed', 'created_at': '2013-05-05T14:11:51Z', 'closed_at': '2013-05-05T17:09:17Z', 'labels': []}
+{'issuenumber': 150, 'title': 'Question - Swiper Jquery Mobile', 'state': 'closed', 'created_at': '2013-05-04T16:36:28Z', 'closed_at': '2013-05-08T07:36:46Z', 'labels': []}
+{'issuenumber': 149, 'title': 'Autoplay and no loop', 'state': 'closed', 'created_at': '2013-05-03T13:50:21Z', 'closed_at': '2013-05-23T14:29:53Z', 'labels': []}
+{'issuenumber': 148, 'title': 'Android 2.2 compability', 'state': 'closed', 'created_at': '2013-05-02T12:51:00Z', 'closed_at': '2014-03-06T17:28:30Z', 'labels': []}
+{'issuenumber': 147, 'title': 'Slide 2 returns to original position', 'state': 'closed', 'created_at': '2013-05-02T12:50:22Z', 'closed_at': '2013-06-22T19:03:49Z', 'labels': []}
+{'issuenumber': 146, 'title': 'Workaround to execute onSlideChangeEnd on browsers that do not have transition support', 'state': 'closed', 'created_at': '2013-04-30T15:30:41Z', 'closed_at': '2013-04-30T17:30:06Z', 'labels': []}
+{'issuenumber': 144, 'title': "Scrollbar doesn't work on IE8", 'state': 'closed', 'created_at': '2013-04-29T16:54:41Z', 'closed_at': '2013-04-30T17:30:07Z', 'labels': []}
+{'issuenumber': 143, 'title': "Click is hijacked when it shouldn't be", 'state': 'closed', 'created_at': '2013-04-29T09:09:59Z', 'closed_at': '2013-04-30T17:30:07Z', 'labels': []}
+{'issuenumber': 142, 'title': 'Hide Slides API', 'state': 'closed', 'created_at': '2013-04-26T15:16:14Z', 'closed_at': '2014-03-06T17:25:38Z', 'labels': []}
+{'issuenumber': 141, 'title': 'IE8 Issue with freeMode', 'state': 'closed', 'created_at': '2013-04-24T22:44:00Z', 'closed_at': '2013-04-30T17:30:07Z', 'labels': []}
+{'issuenumber': 140, 'title': 'IE8 + Swiper + Mootools = Bug', 'state': 'closed', 'created_at': '2013-04-23T09:41:28Z', 'closed_at': '2013-06-22T19:06:24Z', 'labels': []}
+{'issuenumber': 139, 'title': 'Reinitializing multiple sliders', 'state': 'closed', 'created_at': '2013-04-19T22:29:26Z', 'closed_at': '2013-04-22T14:50:50Z', 'labels': []}
+{'issuenumber': 138, 'title': 'Correct Slide width only after resize Window ...', 'state': 'closed', 'created_at': '2013-04-19T11:13:21Z', 'closed_at': '2013-04-19T17:12:02Z', 'labels': []}
+{'issuenumber': 137, 'title': 'Request: Add slidingTo paramter to onSlideChangeStart-event ', 'state': 'closed', 'created_at': '2013-04-15T21:02:17Z', 'closed_at': '2013-06-22T19:06:31Z', 'labels': []}
+{'issuenumber': 136, 'title': 'Omitting runCallbacks when calling swiper.swipeTo(index, speed, runCallbacks) results in errors on subsequent swipes', 'state': 'closed', 'created_at': '2013-04-15T20:20:45Z', 'closed_at': '2013-04-19T17:45:01Z', 'labels': []}
+{'issuenumber': 135, 'title': 'IE9 calculating incorrectly slide size in certain cases (container with percentage)', 'state': 'closed', 'created_at': '2013-04-15T15:02:19Z', 'closed_at': '2013-04-16T18:09:48Z', 'labels': []}
+{'issuenumber': 134, 'title': 'Change Swiper properties at runtime', 'state': 'closed', 'created_at': '2013-04-13T22:50:18Z', 'closed_at': '2013-04-14T22:00:54Z', 'labels': []}
+{'issuenumber': 131, 'title': 'moveStartThreshold "too jumpy", not smooth', 'state': 'closed', 'created_at': '2013-04-09T14:33:12Z', 'closed_at': '2014-02-10T17:13:56Z', 'labels': []}
+{'issuenumber': 130, 'title': 'get visible(s) panel(s) element ref when in loop mode ?', 'state': 'closed', 'created_at': '2013-04-09T14:21:57Z', 'closed_at': '2013-04-22T09:23:36Z', 'labels': []}
+{'issuenumber': 129, 'title': '.previousSlide returns the same as .realIndex and not the value of the previous slide', 'state': 'closed', 'created_at': '2013-04-09T11:45:55Z', 'closed_at': '2013-04-10T21:28:32Z', 'labels': []}
+{'issuenumber': 128, 'title': 'Issues when changing content dynamically', 'state': 'closed', 'created_at': '2013-04-08T23:12:19Z', 'closed_at': '2014-03-06T17:25:11Z', 'labels': []}
+{'issuenumber': 127, 'title': 'Bug with new CSS', 'state': 'closed', 'created_at': '2013-04-08T21:55:51Z', 'closed_at': '2013-04-09T17:44:46Z', 'labels': []}
+{'issuenumber': 126, 'title': 'Multiple Vertical sliders with keyboardControl', 'state': 'closed', 'created_at': '2013-04-04T12:06:38Z', 'closed_at': '2013-04-04T12:08:50Z', 'labels': []}
+{'issuenumber': 125, 'title': 'Nested Vertical slider not working in horizontal slider? ', 'state': 'closed', 'created_at': '2013-04-04T09:56:32Z', 'closed_at': '2013-06-22T19:06:45Z', 'labels': []}
+{'issuenumber': 124, 'title': '"swiper-active-switch" class adds blank and more blank spaces', 'state': 'closed', 'created_at': '2013-04-03T22:53:12Z', 'closed_at': '2013-04-04T20:55:07Z', 'labels': []}
+{'issuenumber': 123, 'title': 'Jump to top after swipe? ', 'state': 'closed', 'created_at': '2013-04-03T12:29:51Z', 'closed_at': '2013-04-04T12:09:52Z', 'labels': []}
+{'issuenumber': 122, 'title': 'simulateTouch : false does not work in 1.9', 'state': 'closed', 'created_at': '2013-04-02T15:27:13Z', 'closed_at': '2013-04-02T15:41:41Z', 'labels': []}
+{'issuenumber': 121, 'title': 'Sliding using margin instead of transform creates ', 'state': 'closed', 'created_at': '2013-04-02T15:26:32Z', 'closed_at': '2013-04-06T12:14:07Z', 'labels': []}
+{'issuenumber': 120, 'title': 'How to change slide, within a slide, via Javascript? ', 'state': 'closed', 'created_at': '2013-04-02T13:34:58Z', 'closed_at': '2013-04-03T09:00:49Z', 'labels': []}
+{'issuenumber': 119, 'title': 'How to pass an array as slides in Swiper', 'state': 'closed', 'created_at': '2013-03-30T07:39:00Z', 'closed_at': '2015-02-11T20:29:28Z', 'labels': []}
+{'issuenumber': 118, 'title': 'keyboardControl affecting all slides of same orientation', 'state': 'closed', 'created_at': '2013-03-28T01:45:24Z', 'closed_at': '2013-06-22T19:05:41Z', 'labels': []}
+{'issuenumber': 117, 'title': 'Way to control swipe sensitivity?', 'state': 'closed', 'created_at': '2013-03-26T02:07:59Z', 'closed_at': '2013-04-02T15:41:41Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 116, 'title': "Multiple paginated swiper -> Uncaught TypeError: Cannot set property 'className' of null ", 'state': 'closed', 'created_at': '2013-03-25T16:07:35Z', 'closed_at': '2013-06-22T19:06:15Z', 'labels': []}
+{'issuenumber': 115, 'title': 'put getTranslate in Api documentation', 'state': 'closed', 'created_at': '2013-03-25T15:13:33Z', 'closed_at': '2013-04-06T12:27:48Z', 'labels': []}
+{'issuenumber': 114, 'title': 'Partial Slide Display', 'state': 'closed', 'created_at': '2013-03-25T11:08:58Z', 'closed_at': '2013-06-22T19:07:40Z', 'labels': []}
+{'issuenumber': 113, 'title': 'Last element of loop does not respond to events', 'state': 'closed', 'created_at': '2013-03-23T18:44:47Z', 'closed_at': '2013-09-15T14:54:54Z', 'labels': []}
+{'issuenumber': 112, 'title': 'Auto play only fires once. (fix)', 'state': 'closed', 'created_at': '2013-03-21T03:27:35Z', 'closed_at': '2013-03-21T15:32:42Z', 'labels': []}
+{'issuenumber': 111, 'title': 'Center last coverflow slide', 'state': 'closed', 'created_at': '2013-03-19T23:25:32Z', 'closed_at': '2013-06-22T19:07:53Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 110, 'title': 'Slides Are Stacked on top of each other ERROR', 'state': 'closed', 'created_at': '2013-03-18T05:08:59Z', 'closed_at': '2013-04-06T12:28:42Z', 'labels': []}
+{'issuenumber': 109, 'title': 'Swiper miscalculates width and height when using percentages', 'state': 'closed', 'created_at': '2013-03-17T17:29:01Z', 'closed_at': '2013-06-22T19:08:19Z', 'labels': []}
+{'issuenumber': 108, 'title': 'Swiper Ajax - Share your thoughts!', 'state': 'closed', 'created_at': '2013-03-14T19:38:36Z', 'closed_at': '2015-02-11T20:29:28Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 107, 'title': 'Windows 8 slate with mouse connected (IE 10) registers touch but not mouse events', 'state': 'closed', 'created_at': '2013-03-14T19:11:58Z', 'closed_at': '2013-03-16T17:42:13Z', 'labels': []}
+{'issuenumber': 106, 'title': 'Individual click handlers on grouped slides', 'state': 'closed', 'created_at': '2013-03-12T16:35:10Z', 'closed_at': '2013-03-12T16:57:00Z', 'labels': []}
+{'issuenumber': 105, 'title': 'Problems setting slide widths', 'state': 'closed', 'created_at': '2013-03-12T12:38:21Z', 'closed_at': '2013-03-16T17:47:01Z', 'labels': []}
+{'issuenumber': 104, 'title': 'clickedSlide not working with loop = true', 'state': 'closed', 'created_at': '2013-03-07T11:54:48Z', 'closed_at': '2013-03-16T17:43:44Z', 'labels': []}
+{'issuenumber': 103, 'title': "clikedSlideIndex returns always 'undefined'", 'state': 'closed', 'created_at': '2013-03-07T11:53:26Z', 'closed_at': '2013-03-07T16:24:47Z', 'labels': []}
+{'issuenumber': 102, 'title': 'Resize after scrolling down in a scroll-container fails', 'state': 'closed', 'created_at': '2013-03-07T10:45:16Z', 'closed_at': '2013-03-14T19:35:13Z', 'labels': []}
+{'issuenumber': 101, 'title': 'Slider Height Issue.', 'state': 'closed', 'created_at': '2013-03-07T07:18:16Z', 'closed_at': '2013-06-22T19:08:35Z', 'labels': []}
+{'issuenumber': 99, 'title': 'Responsive Movies App', 'state': 'closed', 'created_at': '2013-03-06T11:36:31Z', 'closed_at': '2013-03-16T17:47:18Z', 'labels': []}
+{'issuenumber': 98, 'title': 'Sliding can get stuck in between slides when tapped.', 'state': 'closed', 'created_at': '2013-03-06T05:16:05Z', 'closed_at': '2013-03-16T17:44:53Z', 'labels': []}
+{'issuenumber': 97, 'title': 'Bullets usable also for navigation?', 'state': 'closed', 'created_at': '2013-03-05T08:28:26Z', 'closed_at': '2013-03-05T18:09:59Z', 'labels': []}
+{'issuenumber': 96, 'title': 'Prepend without switching page', 'state': 'closed', 'created_at': '2013-03-04T15:51:46Z', 'closed_at': '2013-04-06T12:30:15Z', 'labels': []}
+{'issuenumber': 95, 'title': 'mousewheelControl : Not Working', 'state': 'closed', 'created_at': '2013-03-03T18:40:57Z', 'closed_at': '2013-03-03T18:51:37Z', 'labels': []}
+{'issuenumber': 94, 'title': 'ie8 standards locks slide', 'state': 'closed', 'created_at': '2013-03-02T20:56:55Z', 'closed_at': '2015-02-11T20:29:28Z', 'labels': []}
+{'issuenumber': 93, 'title': 'Using different wrappers and slides based on screen size', 'state': 'closed', 'created_at': '2013-03-01T18:48:41Z', 'closed_at': '2013-04-06T12:30:26Z', 'labels': []}
+{'issuenumber': 92, 'title': 'Transition on MobileDevice causes text blurring', 'state': 'closed', 'created_at': '2013-03-01T15:53:29Z', 'closed_at': '2013-03-05T10:21:09Z', 'labels': []}
+{'issuenumber': 91, 'title': 'Use grab cursor', 'state': 'closed', 'created_at': '2013-03-01T12:23:22Z', 'closed_at': '2013-03-01T12:28:41Z', 'labels': []}
+{'issuenumber': 90, 'title': 'Scrollbar snap functionality', 'state': 'closed', 'created_at': '2013-03-01T12:19:42Z', 'closed_at': '2013-03-04T17:39:50Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 89, 'title': 'Multiple Swiper on one page', 'state': 'closed', 'created_at': '2013-02-28T06:06:11Z', 'closed_at': '2013-03-16T17:46:10Z', 'labels': []}
+{'issuenumber': 88, 'title': 'Missing cursors to denote  swipe/drag ability', 'state': 'closed', 'created_at': '2013-02-26T18:05:59Z', 'closed_at': '2013-03-04T17:36:14Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 87, 'title': 'Issue: Using CurrentSlide', 'state': 'closed', 'created_at': '2013-02-26T17:10:47Z', 'closed_at': '2013-02-26T17:49:31Z', 'labels': []}
+{'issuenumber': 86, 'title': 'Slider does not resize properly', 'state': 'closed', 'created_at': '2013-02-26T13:36:19Z', 'closed_at': '2013-03-16T17:48:30Z', 'labels': {'name': 'probably bug'}}
+{'issuenumber': 85, 'title': 'Custom paginationActiveClass not removed', 'state': 'closed', 'created_at': '2013-02-26T10:38:25Z', 'closed_at': '2013-02-26T18:34:30Z', 'labels': []}
+{'issuenumber': 84, 'title': "Uncaught TypeError: Cannot set property 'className' of null", 'state': 'closed', 'created_at': '2013-02-25T14:47:47Z', 'closed_at': '2013-02-25T15:28:40Z', 'labels': []}
+{'issuenumber': 83, 'title': "slidesPerSlide: 'auto' problem", 'state': 'closed', 'created_at': '2013-02-25T09:17:07Z', 'closed_at': '2013-03-04T17:40:59Z', 'labels': []}
+{'issuenumber': 82, 'title': 'Group Sliding', 'state': 'closed', 'created_at': '2013-02-24T19:50:32Z', 'closed_at': '2013-03-16T17:44:31Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 81, 'title': 'Callbacks for swipe direction', 'state': 'closed', 'created_at': '2013-02-23T00:59:31Z', 'closed_at': '2013-03-01T15:38:46Z', 'labels': []}
+{'issuenumber': 80, 'title': 'click and drag impuls sensitivity', 'state': 'closed', 'created_at': '2013-02-22T22:42:08Z', 'closed_at': '2015-02-11T20:29:28Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 79, 'title': 'onSlideClick Callback with coordinates', 'state': 'closed', 'created_at': '2013-02-22T16:23:40Z', 'closed_at': '2013-02-27T07:52:38Z', 'labels': []}
+{'issuenumber': 78, 'title': 'offset for the mySwiper.activeSlide', 'state': 'closed', 'created_at': '2013-02-22T16:00:14Z', 'closed_at': '2013-06-22T19:08:44Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 77, 'title': 'pagination with active slide class', 'state': 'closed', 'created_at': '2013-02-22T15:31:40Z', 'closed_at': '2013-02-23T15:18:04Z', 'labels': []}
+{'issuenumber': 76, 'title': 'Disable Slide', 'state': 'closed', 'created_at': '2013-02-20T15:11:41Z', 'closed_at': '2013-10-27T21:52:34Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 75, 'title': 'Custom Navigation with Pagination', 'state': 'closed', 'created_at': '2013-02-19T20:14:16Z', 'closed_at': '2013-02-20T16:41:22Z', 'labels': []}
+{'issuenumber': 74, 'title': 'Custom Navigation with Pagination', 'state': 'closed', 'created_at': '2013-02-19T20:12:22Z', 'closed_at': '2013-02-20T08:36:37Z', 'labels': []}
+{'issuenumber': 73, 'title': 'How to implement something like Groupon', 'state': 'closed', 'created_at': '2013-02-19T16:49:09Z', 'closed_at': '2013-03-01T15:48:08Z', 'labels': []}
+{'issuenumber': 72, 'title': 'Inner swiper of nested same-direction swipers does not swipe', 'state': 'closed', 'created_at': '2013-02-18T11:53:42Z', 'closed_at': '2013-02-22T14:37:28Z', 'labels': []}
+{'issuenumber': 71, 'title': 'Usage of the slider with percentage width', 'state': 'closed', 'created_at': '2013-02-18T08:28:30Z', 'closed_at': '2013-02-19T08:43:27Z', 'labels': []}
+{'issuenumber': 70, 'title': 'Update pagination on init() or reInit()', 'state': 'closed', 'created_at': '2013-02-17T17:52:50Z', 'closed_at': '2013-02-23T11:39:33Z', 'labels': []}
+{'issuenumber': 69, 'title': 'lazy loading 100+ slides', 'state': 'closed', 'created_at': '2013-02-16T17:31:28Z', 'closed_at': '2013-02-22T17:53:51Z', 'labels': []}
+{'issuenumber': 68, 'title': 'Image positioning outside of container when page scrolled on Android Sim.', 'state': 'closed', 'created_at': '2013-02-14T17:29:41Z', 'closed_at': '2013-03-01T15:26:25Z', 'labels': []}
+{'issuenumber': 67, 'title': 'activeSlide not being updated when used with touchevents.', 'state': 'closed', 'created_at': '2013-02-14T17:18:04Z', 'closed_at': '2013-02-14T21:07:38Z', 'labels': []}
+{'issuenumber': 66, 'title': 'Calling prev or next twice times results in no callback fired', 'state': 'closed', 'created_at': '2013-02-13T20:27:55Z', 'closed_at': '2013-02-14T12:49:58Z', 'labels': []}
+{'issuenumber': 65, 'title': 'on screen orientation layout issue', 'state': 'closed', 'created_at': '2013-02-12T23:34:19Z', 'closed_at': '2013-02-13T01:01:39Z', 'labels': []}
+{'issuenumber': 64, 'title': 'loop : true make initialisation bug in IE8', 'state': 'closed', 'created_at': '2013-02-11T16:09:40Z', 'closed_at': '2013-06-22T19:09:01Z', 'labels': {'name': 'probably bug'}}
+{'issuenumber': 63, 'title': 'Fluid container with fixed-width carousel slides', 'state': 'closed', 'created_at': '2013-02-11T14:24:28Z', 'closed_at': '2013-02-23T15:19:28Z', 'labels': []}
+{'issuenumber': 62, 'title': 'Window resize issue when using initialSlide', 'state': 'closed', 'created_at': '2013-02-11T13:48:16Z', 'closed_at': '2013-02-23T15:19:13Z', 'labels': []}
+{'issuenumber': 61, 'title': '<a> links not working', 'state': 'closed', 'created_at': '2013-02-08T09:17:04Z', 'closed_at': '2013-02-15T07:04:48Z', 'labels': []}
+{'issuenumber': 60, 'title': 'Slider Height Resizing ', 'state': 'closed', 'created_at': '2013-02-08T02:22:19Z', 'closed_at': '2013-02-18T08:51:05Z', 'labels': []}
+{'issuenumber': 59, 'title': 'clicking on textarea in slide body', 'state': 'closed', 'created_at': '2013-02-07T06:00:13Z', 'closed_at': '2013-02-15T07:05:01Z', 'labels': []}
+{'issuenumber': 58, 'title': 'Infinite looping with video elements (iOS)', 'state': 'closed', 'created_at': '2013-02-06T05:41:10Z', 'closed_at': '2013-02-08T08:03:41Z', 'labels': []}
+{'issuenumber': 57, 'title': '.swiper-container, .swiper-slide 100% height problem', 'state': 'closed', 'created_at': '2013-02-06T05:39:19Z', 'closed_at': '2013-02-15T07:05:50Z', 'labels': []}
+{'issuenumber': 56, 'title': 'AutoPlay, resume after touch', 'state': 'closed', 'created_at': '2013-02-05T23:16:03Z', 'closed_at': '2013-02-19T07:59:54Z', 'labels': []}
+{'issuenumber': 55, 'title': 'Carousel', 'state': 'closed', 'created_at': '2013-02-05T10:13:55Z', 'closed_at': '2013-02-06T13:21:52Z', 'labels': []}
+{'issuenumber': 54, 'title': 'doesnt work when page direction is RTL...', 'state': 'closed', 'created_at': '2013-02-05T09:05:34Z', 'closed_at': '2015-02-11T20:29:28Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 53, 'title': 'IE 8 problems on 1.8 version, 1.6 was ok', 'state': 'closed', 'created_at': '2013-02-04T19:26:06Z', 'closed_at': '2013-02-05T15:40:19Z', 'labels': []}
+{'issuenumber': 52, 'title': 'Scrolling behaviour incorect when slides appended', 'state': 'closed', 'created_at': '2013-02-04T14:54:58Z', 'closed_at': '2013-02-05T11:03:29Z', 'labels': []}
+{'issuenumber': 51, 'title': 'Swiper : mySwiper.activeSlide states after removeSlide', 'state': 'closed', 'created_at': '2013-02-04T05:23:27Z', 'closed_at': '2013-02-05T07:05:22Z', 'labels': []}
+{'issuenumber': 50, 'title': 'Multiple swipers on one page', 'state': 'closed', 'created_at': '2013-02-01T13:32:36Z', 'closed_at': '2013-02-01T14:19:45Z', 'labels': []}
+{'issuenumber': 49, 'title': 'mySwiper.params.simulateTouch = false;  ', 'state': 'closed', 'created_at': '2013-02-01T11:17:44Z', 'closed_at': '2013-02-03T17:01:09Z', 'labels': []}
+{'issuenumber': 48, 'title': 'Slider Height not flexible', 'state': 'closed', 'created_at': '2013-01-26T05:56:00Z', 'closed_at': '2013-02-05T16:13:51Z', 'labels': []}
+{'issuenumber': 47, 'title': 'Fluid height', 'state': 'closed', 'created_at': '2013-01-25T10:46:25Z', 'closed_at': '2013-01-25T11:33:02Z', 'labels': []}
+{'issuenumber': 46, 'title': "After using swipeTo / swipeNext I can't swipe back", 'state': 'closed', 'created_at': '2013-01-23T09:12:10Z', 'closed_at': '2013-01-23T13:25:57Z', 'labels': []}
+{'issuenumber': 45, 'title': 'Blurry text with "-webkit-transform: translate3d (0,0,0)"', 'state': 'closed', 'created_at': '2013-01-22T15:55:06Z', 'closed_at': '2013-01-23T12:40:29Z', 'labels': []}
+{'issuenumber': 44, 'title': 'Add support for keyboard (left - right - up-down)', 'state': 'closed', 'created_at': '2013-01-21T17:50:42Z', 'closed_at': '2013-02-05T17:15:39Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 43, 'title': 'Destory issue..', 'state': 'closed', 'created_at': '2013-01-21T10:18:51Z', 'closed_at': '2013-01-21T18:46:36Z', 'labels': []}
+{'issuenumber': 42, 'title': 'initialSlide parameter with 3D Flow plugin?', 'state': 'closed', 'created_at': '2013-01-17T17:17:34Z', 'closed_at': '2013-01-23T12:49:06Z', 'labels': []}
+{'issuenumber': 41, 'title': 'Current Slide Index or Class?', 'state': 'closed', 'created_at': '2013-01-17T04:32:25Z', 'closed_at': '2013-01-17T18:10:21Z', 'labels': []}
+{'issuenumber': 40, 'title': 'feature', 'state': 'closed', 'created_at': '2013-01-15T07:09:03Z', 'closed_at': '2013-01-18T15:30:29Z', 'labels': []}
+{'issuenumber': 39, 'title': 'Problem with Android', 'state': 'closed', 'created_at': '2013-01-09T17:14:17Z', 'closed_at': '2013-02-05T17:16:52Z', 'labels': {'name': 'probably bug'}}
+{'issuenumber': 38, 'title': 'Both vertical and horizontal infinite sliding', 'state': 'closed', 'created_at': '2013-01-09T11:41:32Z', 'closed_at': '2014-03-06T17:23:58Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 37, 'title': "Dynamically add new slides to the slider, can't slide to them unless I resize window..", 'state': 'closed', 'created_at': '2013-01-05T00:40:50Z', 'closed_at': '2013-01-10T15:13:50Z', 'labels': []}
+{'issuenumber': 36, 'title': 'Destroy', 'state': 'closed', 'created_at': '2013-01-02T20:29:12Z', 'closed_at': '2013-01-10T15:13:31Z', 'labels': []}
+{'issuenumber': 35, 'title': 'navigation bullets ?', 'state': 'closed', 'created_at': '2012-12-28T13:51:22Z', 'closed_at': '2012-12-29T16:57:20Z', 'labels': []}
+{'issuenumber': 33, 'title': 'How to create some elements?', 'state': 'closed', 'created_at': '2012-12-24T16:37:47Z', 'closed_at': '2012-12-28T11:53:17Z', 'labels': []}
+{'issuenumber': 32, 'title': 'determine the height', 'state': 'closed', 'created_at': '2012-12-22T13:21:58Z', 'closed_at': '2012-12-22T18:46:04Z', 'labels': []}
+{'issuenumber': 31, 'title': 'Full screen on click', 'state': 'closed', 'created_at': '2012-12-21T23:11:33Z', 'closed_at': '2012-12-28T11:53:25Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 30, 'title': 'turn right', 'state': 'closed', 'created_at': '2012-12-19T21:56:24Z', 'closed_at': '2012-12-21T17:36:24Z', 'labels': []}
+{'issuenumber': 29, 'title': 'unable to scroll if slider is unfocused', 'state': 'closed', 'created_at': '2012-12-18T09:21:12Z', 'closed_at': '2013-04-19T17:45:01Z', 'labels': {'name': 'probably bug'}}
+{'issuenumber': 28, 'title': 'With Auto-play and Looping both on, it is skipping slides', 'state': 'closed', 'created_at': '2012-12-10T22:43:19Z', 'closed_at': '2012-12-11T18:41:06Z', 'labels': []}
+{'issuenumber': 27, 'title': 'Auto Slide Initialization', 'state': 'closed', 'created_at': '2012-12-10T19:56:13Z', 'closed_at': '2013-01-10T15:13:19Z', 'labels': []}
+{'issuenumber': 26, 'title': 'onSlideChangeEnd not firing on IE 9', 'state': 'closed', 'created_at': '2012-12-10T19:13:17Z', 'closed_at': '2012-12-11T18:41:16Z', 'labels': []}
+{'issuenumber': 25, 'title': 'Prevent default on hrefs inside the slider', 'state': 'closed', 'created_at': '2012-12-07T17:33:22Z', 'closed_at': '2012-12-10T20:09:55Z', 'labels': []}
+{'issuenumber': 24, 'title': 'Include touch support, does not respond to touch on Windows 8', 'state': 'closed', 'created_at': '2012-11-30T11:57:41Z', 'closed_at': '2012-12-18T17:30:35Z', 'labels': []}
+{'issuenumber': 23, 'title': 'Styling troubles', 'state': 'closed', 'created_at': '2012-11-27T00:38:54Z', 'closed_at': '2012-12-11T18:43:13Z', 'labels': []}
+{'issuenumber': 22, 'title': 'nested horizontal swiper into vertical', 'state': 'closed', 'created_at': '2012-11-24T22:35:01Z', 'closed_at': '2012-12-11T18:41:45Z', 'labels': []}
+{'issuenumber': 21, 'title': 'bind jquery click/tap', 'state': 'closed', 'created_at': '2012-11-13T11:19:16Z', 'closed_at': '2012-12-11T18:43:44Z', 'labels': []}
+{'issuenumber': 20, 'title': 'imageSlider.slideTo() in loop mode.', 'state': 'closed', 'created_at': '2012-10-22T21:11:29Z', 'closed_at': '2012-12-11T18:42:27Z', 'labels': []}
+{'issuenumber': 19, 'title': 'slide position not the same if script loaded in portrait or landscape', 'state': 'closed', 'created_at': '2012-10-21T00:46:14Z', 'closed_at': '2012-12-11T18:43:01Z', 'labels': []}
+{'issuenumber': 18, 'title': 'Swiper with loop not working correctly with canvas element', 'state': 'closed', 'created_at': '2012-10-19T14:36:10Z', 'closed_at': '2012-12-11T18:44:07Z', 'labels': []}
+{'issuenumber': 17, 'title': 'fixes for ie8 & firefox', 'state': 'closed', 'created_at': '2012-10-10T03:38:40Z', 'closed_at': '2012-10-20T11:36:28Z', 'labels': []}
+{'issuenumber': 16, 'title': 'Navigation with pagination.', 'state': 'closed', 'created_at': '2012-10-09T00:12:24Z', 'closed_at': '2012-10-10T23:48:30Z', 'labels': []}
+{'issuenumber': 15, 'title': 'no direction detection on swipeTo method', 'state': 'closed', 'created_at': '2012-10-01T01:31:09Z', 'closed_at': '2012-10-05T17:19:20Z', 'labels': []}
+{'issuenumber': 14, 'title': 'Why prototype is used for checking the touch and 3D capabilities ?', 'state': 'closed', 'created_at': '2012-09-07T16:08:35Z', 'closed_at': '2012-09-30T14:30:56Z', 'labels': []}
+{'issuenumber': 13, 'title': "Version 1.3 doesn't work on PhoneGap", 'state': 'closed', 'created_at': '2012-09-06T14:55:02Z', 'closed_at': '2012-12-20T11:56:09Z', 'labels': []}
+{'issuenumber': 11, 'title': 'need to use image slider inside the horizontal slider', 'state': 'closed', 'created_at': '2012-07-16T05:32:44Z', 'closed_at': '2012-10-05T17:19:56Z', 'labels': []}
+{'issuenumber': 10, 'title': 'Pull request continued', 'state': 'closed', 'created_at': '2012-07-13T13:44:34Z', 'closed_at': '2012-10-05T17:18:12Z', 'labels': []}
+{'issuenumber': 9, 'title': 'Swiper Class', 'state': 'closed', 'created_at': '2012-07-11T15:26:12Z', 'closed_at': '2012-09-30T14:32:57Z', 'labels': []}
+{'issuenumber': 8, 'title': 'Carousel', 'state': 'closed', 'created_at': '2012-06-28T11:30:49Z', 'closed_at': '2012-10-05T17:18:53Z', 'labels': []}
+{'issuenumber': 6, 'title': 'swipeTo function', 'state': 'closed', 'created_at': '2012-06-25T09:40:28Z', 'closed_at': '2012-06-25T09:49:56Z', 'labels': []}
+{'issuenumber': 5, 'title': 'Disable automatic resizing', 'state': 'closed', 'created_at': '2012-06-15T10:35:41Z', 'closed_at': '2012-10-05T17:17:54Z', 'labels': []}
+{'issuenumber': 3, 'title': 'IE9 support', 'state': 'closed', 'created_at': '2012-04-03T16:00:27Z', 'closed_at': '2012-04-09T07:41:49Z', 'labels': []}
+{'issuenumber': 2, 'title': 'Lack of a destroy() function [Events attached not being released]', 'state': 'closed', 'created_at': '2012-03-31T18:27:56Z', 'closed_at': '2012-04-03T11:11:18Z', 'labels': []}
+{'issuenumber': 1, 'title': 'Missing document mouseout handlers', 'state': 'closed', 'created_at': '2012-03-30T22:22:57Z', 'closed_at': '2012-03-31T19:02:50Z', 'labels': []}

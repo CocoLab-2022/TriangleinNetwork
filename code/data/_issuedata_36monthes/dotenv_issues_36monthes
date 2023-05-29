@@ -1,0 +1,92 @@
+{'issuenumber': 256, 'title': "Values don't work exactly as if given on command line", 'state': 'closed', 'created_at': '2016-06-29T19:35:36Z', 'closed_at': '2017-03-15T18:31:16Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 254, 'title': 'Add section about using in production', 'state': 'closed', 'created_at': '2016-06-05T21:53:41Z', 'closed_at': '2017-05-13T16:26:35Z', 'labels': []}
+{'issuenumber': 250, 'title': 'README: detail how to commit the .env but have a different one in local', 'state': 'closed', 'created_at': '2016-03-22T12:06:19Z', 'closed_at': '2016-06-17T17:52:56Z', 'labels': []}
+{'issuenumber': 248, 'title': 'Unsage in production', 'state': 'closed', 'created_at': '2016-03-10T17:47:52Z', 'closed_at': '2016-03-11T17:33:51Z', 'labels': []}
+{'issuenumber': 247, 'title': 'Provide the ability to unset env variable', 'state': 'closed', 'created_at': '2016-03-10T03:01:13Z', 'closed_at': '2016-04-12T16:36:39Z', 'labels': []}
+{'issuenumber': 245, 'title': 'How could I export multiple env files into one env file', 'state': 'closed', 'created_at': '2016-03-04T01:49:41Z', 'closed_at': '2016-03-04T01:50:31Z', 'labels': []}
+{'issuenumber': 244, 'title': '.env.local not loaded with foreman', 'state': 'closed', 'created_at': '2016-03-03T15:52:30Z', 'closed_at': '2016-03-03T16:49:18Z', 'labels': []}
+{'issuenumber': 243, 'title': "multiline doesn't work with double-quotes", 'state': 'closed', 'created_at': '2016-02-26T20:17:47Z', 'closed_at': '2016-02-27T16:57:33Z', 'labels': []}
+{'issuenumber': 236, 'title': 'Load multiline file', 'state': 'closed', 'created_at': '2016-02-16T14:20:45Z', 'closed_at': '2016-02-23T15:27:42Z', 'labels': []}
+{'issuenumber': 235, 'title': 'Loading environment variables from env files in custom location', 'state': 'closed', 'created_at': '2016-02-15T03:07:43Z', 'closed_at': '2016-02-23T15:00:45Z', 'labels': []}
+{'issuenumber': 234, 'title': '`heroku local` makes it impossible to override settings from `.env.<environment>`', 'state': 'closed', 'created_at': '2016-01-26T04:14:14Z', 'closed_at': '2016-01-27T05:18:57Z', 'labels': []}
+{'issuenumber': 233, 'title': 'Encoding::ConverterNotFoundError: code converter not found (UTF-8 to UTF-8)', 'state': 'closed', 'created_at': '2016-01-19T17:46:55Z', 'closed_at': '2017-04-01T16:35:27Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 231, 'title': 'API for reading without side effects?', 'state': 'closed', 'created_at': '2015-12-24T23:15:37Z', 'closed_at': '2016-01-14T00:38:31Z', 'labels': []}
+{'issuenumber': 227, 'title': 'Default support for `.ruby-env`? (via rvm)', 'state': 'closed', 'created_at': '2015-12-11T16:47:46Z', 'closed_at': '2016-01-14T00:48:39Z', 'labels': []}
+{'issuenumber': 224, 'title': '"\\xEF\\xBB\\xBF" error (on Windows)', 'state': 'closed', 'created_at': '2015-11-24T16:37:35Z', 'closed_at': '2016-01-14T00:53:14Z', 'labels': []}
+{'issuenumber': 221, 'title': "Rails 4.1.13 and dotenv 2.0.2 `require': cannot load such file -- dotenv/rails-now issue", 'state': 'closed', 'created_at': '2015-11-20T10:25:49Z', 'closed_at': '2015-11-20T10:30:36Z', 'labels': []}
+{'issuenumber': 220, 'title': 'Add .env.#{Rails.env}.local', 'state': 'closed', 'created_at': '2015-11-08T09:48:09Z', 'closed_at': '2016-02-26T15:28:21Z', 'labels': []}
+{'issuenumber': 219, 'title': 'Rake tasks in Rails always initialized in "development"', 'state': 'closed', 'created_at': '2015-10-29T23:27:39Z', 'closed_at': '2017-01-25T14:28:43Z', 'labels': []}
+{'issuenumber': 218, 'title': 'Variables not being interpolated when using Procfile', 'state': 'closed', 'created_at': '2015-10-08T05:34:22Z', 'closed_at': '2015-10-08T06:23:16Z', 'labels': []}
+{'issuenumber': 214, 'title': 'How should I store values with dollar signs ($)...(escaped, quoted)?', 'state': 'closed', 'created_at': '2015-09-29T18:41:24Z', 'closed_at': '2015-09-29T20:23:14Z', 'labels': []}
+{'issuenumber': 207, 'title': "Some escaped '$' characters are not unescaped", 'state': 'closed', 'created_at': '2015-08-21T20:14:52Z', 'closed_at': '2016-01-14T01:26:37Z', 'labels': []}
+{'issuenumber': 206, 'title': '.env.test not being loaded', 'state': 'closed', 'created_at': '2015-08-21T17:03:17Z', 'closed_at': '2015-09-01T21:18:18Z', 'labels': []}
+{'issuenumber': 205, 'title': 'require_keys method as figaro have', 'state': 'closed', 'created_at': '2015-08-20T05:27:16Z', 'closed_at': '2015-08-21T20:09:28Z', 'labels': []}
+{'issuenumber': 200, 'title': 'Not respecting env variables set out of .env', 'state': 'closed', 'created_at': '2015-07-15T18:30:33Z', 'closed_at': '2017-06-08T22:31:51Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 199, 'title': 'Variables from .env not being loaded', 'state': 'closed', 'created_at': '2015-07-08T00:38:31Z', 'closed_at': '2015-07-18T04:06:17Z', 'labels': []}
+{'issuenumber': 197, 'title': 'How to nest lines', 'state': 'closed', 'created_at': '2015-06-20T13:22:16Z', 'closed_at': '2015-06-25T20:13:44Z', 'labels': []}
+{'issuenumber': 195, 'title': 'ENV vars not passing into YML', 'state': 'closed', 'created_at': '2015-06-19T08:09:05Z', 'closed_at': '2015-06-20T10:42:39Z', 'labels': []}
+{'issuenumber': 192, 'title': "readme's advice to put gem at top of Gemfile is counterproductive", 'state': 'closed', 'created_at': '2015-06-04T20:54:13Z', 'closed_at': '2015-06-05T16:48:25Z', 'labels': []}
+{'issuenumber': 191, 'title': 'Unable to resolve ENV vars with rails 4.2 and dotenv 2.0.1', 'state': 'closed', 'created_at': '2015-06-04T14:58:53Z', 'closed_at': '2017-04-01T16:35:24Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 190, 'title': 'Not loading .env.staging', 'state': 'closed', 'created_at': '2015-06-03T15:00:55Z', 'closed_at': '2015-06-03T15:05:57Z', 'labels': []}
+{'issuenumber': 187, 'title': 'Generate a dotenv file ?', 'state': 'closed', 'created_at': '2015-05-28T21:41:32Z', 'closed_at': '2015-05-29T15:52:50Z', 'labels': []}
+{'issuenumber': 186, 'title': '.env is overriding .env.test', 'state': 'closed', 'created_at': '2015-05-20T03:59:57Z', 'closed_at': '2015-06-19T15:13:43Z', 'labels': []}
+{'issuenumber': 185, 'title': 'Dotenv.load/overload defaults to only .env', 'state': 'closed', 'created_at': '2015-04-29T06:49:09Z', 'closed_at': '2015-04-29T13:22:26Z', 'labels': []}
+{'issuenumber': 180, 'title': '[deleted]', 'state': 'closed', 'created_at': '2015-03-27T18:43:16Z', 'closed_at': '2015-03-27T18:48:50Z', 'labels': []}
+{'issuenumber': 179, 'title': 'variables not overridden since .env loaded after .env.{environment} and .env.local', 'state': 'closed', 'created_at': '2015-03-27T09:24:07Z', 'closed_at': '2015-03-29T19:37:01Z', 'labels': []}
+{'issuenumber': 178, 'title': 'dotenv-rails not loaded early enough', 'state': 'closed', 'created_at': '2015-03-19T17:27:59Z', 'closed_at': '2015-03-20T15:28:25Z', 'labels': []}
+{'issuenumber': 177, 'title': 'odd loading issue with Spree + Deface, Rails 4.2', 'state': 'closed', 'created_at': '2015-03-18T07:28:47Z', 'closed_at': '2015-03-23T12:59:09Z', 'labels': []}
+{'issuenumber': 176, 'title': 'reload without restart server', 'state': 'closed', 'created_at': '2015-03-14T09:28:04Z', 'closed_at': '2015-03-16T16:47:16Z', 'labels': []}
+{'issuenumber': 175, 'title': 'Is it possible to use dotenv with ansible?', 'state': 'closed', 'created_at': '2015-03-11T08:52:27Z', 'closed_at': '2015-04-22T19:52:01Z', 'labels': []}
+{'issuenumber': 172, 'title': "Environment variables aren't loading in Rails 4.1.8 (possibly 4.2)", 'state': 'closed', 'created_at': '2015-03-03T12:53:32Z', 'closed_at': '2015-03-05T20:03:10Z', 'labels': []}
+{'issuenumber': 171, 'title': 'is restart needed update in production', 'state': 'closed', 'created_at': '2015-03-03T10:55:29Z', 'closed_at': '2015-03-04T03:56:54Z', 'labels': []}
+{'issuenumber': 170, 'title': 'Only unescapes env-vars if their value is quoted and differs from regular env vars behavior', 'state': 'closed', 'created_at': '2015-02-25T18:04:52Z', 'closed_at': '2017-04-01T16:35:26Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 168, 'title': 'jRuby java.lang.ArrayIndexOutOfBoundsException', 'state': 'closed', 'created_at': '2015-02-11T11:28:21Z', 'closed_at': '2015-02-23T19:37:52Z', 'labels': []}
+{'issuenumber': 155, 'title': "undefined method 'join' for nil:NilClass - Rails", 'state': 'closed', 'created_at': '2014-12-17T16:06:42Z', 'closed_at': '2015-01-22T01:24:16Z', 'labels': []}
+{'issuenumber': 154, 'title': 'Required keys', 'state': 'closed', 'created_at': '2014-12-16T14:50:23Z', 'closed_at': '2014-12-18T14:52:18Z', 'labels': []}
+{'issuenumber': 151, 'title': "Undefined local variable or method `instance' in Rails 3.0.20.2", 'state': 'closed', 'created_at': '2014-11-24T16:44:05Z', 'closed_at': '2015-01-22T03:34:09Z', 'labels': []}
+{'issuenumber': 150, 'title': 'Allow rails apps to error out whenever .env file is missing via Dotenv::Railtie.load!', 'state': 'closed', 'created_at': '2014-11-14T03:55:22Z', 'closed_at': '2014-11-26T18:49:17Z', 'labels': []}
+{'issuenumber': 144, 'title': "Environment variables aren't loading in Rails 4.2", 'state': 'closed', 'created_at': '2014-10-16T06:18:01Z', 'closed_at': '2015-01-22T01:26:01Z', 'labels': []}
+{'issuenumber': 141, 'title': 'Need to manually load ENV when upgrade to 1.0.', 'state': 'closed', 'created_at': '2014-10-06T17:28:10Z', 'closed_at': '2014-10-14T13:58:48Z', 'labels': []}
+{'issuenumber': 140, 'title': 'Spring support not working when running rails server', 'state': 'closed', 'created_at': '2014-10-04T13:56:35Z', 'closed_at': '2014-10-04T23:26:09Z', 'labels': []}
+{'issuenumber': 135, 'title': 'New gem release with Spring reloading support?', 'state': 'closed', 'created_at': '2014-09-26T17:52:48Z', 'closed_at': '2014-10-04T23:34:15Z', 'labels': []}
+{'issuenumber': 134, 'title': 'Sidekiq not loading .env', 'state': 'closed', 'created_at': '2014-09-21T11:04:39Z', 'closed_at': '2017-04-16T03:10:55Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 129, 'title': 'Unnecessary duplicated spec for Dotenv::Environment#apply', 'state': 'closed', 'created_at': '2014-07-31T11:10:26Z', 'closed_at': '2014-08-05T21:03:49Z', 'labels': []}
+{'issuenumber': 128, 'title': '.env values dont load to Pry', 'state': 'closed', 'created_at': '2014-07-26T22:04:18Z', 'closed_at': '2014-07-30T11:31:37Z', 'labels': []}
+{'issuenumber': 125, 'title': 'Dependency issue for the package on rubygems.org', 'state': 'closed', 'created_at': '2014-07-16T06:56:57Z', 'closed_at': '2014-07-28T15:24:39Z', 'labels': []}
+{'issuenumber': 123, 'title': 'Parsing variables in single quoted strings.', 'state': 'closed', 'created_at': '2014-07-11T18:12:13Z', 'closed_at': '2014-07-29T14:55:01Z', 'labels': []}
+{'issuenumber': 117, 'title': '.env not reloaded by Spring in Rails 4.1.0', 'state': 'closed', 'created_at': '2014-06-06T22:31:44Z', 'closed_at': '2014-06-16T12:32:24Z', 'labels': []}
+{'issuenumber': 115, 'title': 'Empty ENV vars get turned into empty string, which is truthy in Ruby.', 'state': 'closed', 'created_at': '2014-05-20T06:24:55Z', 'closed_at': '2014-06-02T21:05:54Z', 'labels': []}
+{'issuenumber': 114, 'title': 'Working with foreman.', 'state': 'closed', 'created_at': '2014-05-07T14:32:26Z', 'closed_at': '2014-06-02T21:02:47Z', 'labels': []}
+{'issuenumber': 112, 'title': 'Variable expansion prefers `.env` values to existing values, even if they will not be overridden', 'state': 'closed', 'created_at': '2014-04-30T20:50:38Z', 'closed_at': '2017-04-01T16:35:25Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 111, 'title': 'Consider keeping support for .env.#{Rails.env}, but only for development & testing', 'state': 'closed', 'created_at': '2014-04-30T20:37:14Z', 'closed_at': '2015-01-22T03:05:43Z', 'labels': []}
+{'issuenumber': 110, 'title': 'Whitespace around = in .env file?', 'state': 'closed', 'created_at': '2014-04-29T17:35:06Z', 'closed_at': '2014-06-02T21:12:04Z', 'labels': []}
+{'issuenumber': 109, 'title': 'best practices for test environment?', 'state': 'closed', 'created_at': '2014-04-27T04:37:29Z', 'closed_at': '2015-01-22T03:05:43Z', 'labels': []}
+{'issuenumber': 107, 'title': 'Latest release broken', 'state': 'closed', 'created_at': '2014-04-22T19:20:01Z', 'closed_at': '2014-04-23T17:08:38Z', 'labels': []}
+{'issuenumber': 105, 'title': 'ENV vars not overriding in rake task', 'state': 'closed', 'created_at': '2014-04-18T16:40:02Z', 'closed_at': '2014-04-18T19:46:45Z', 'labels': []}
+{'issuenumber': 104, 'title': 'Why :groups => [:development, :test]?', 'state': 'closed', 'created_at': '2014-04-12T10:43:39Z', 'closed_at': '2014-04-22T02:49:24Z', 'labels': []}
+{'issuenumber': 103, 'title': 'ENV Variables Not Available When Deploying', 'state': 'closed', 'created_at': '2014-04-07T13:36:58Z', 'closed_at': '2014-04-26T18:22:35Z', 'labels': []}
+{'issuenumber': 101, 'title': 'not setting ENV variables for .erb files', 'state': 'closed', 'created_at': '2014-03-25T20:34:33Z', 'closed_at': '2014-03-25T20:54:08Z', 'labels': []}
+{'issuenumber': 99, 'title': 'Auto load .env at Rails startup', 'state': 'closed', 'created_at': '2014-03-10T07:48:20Z', 'closed_at': '2014-03-10T18:19:07Z', 'labels': []}
+{'issuenumber': 98, 'title': 'ENV values including a "+"', 'state': 'closed', 'created_at': '2014-03-08T01:49:13Z', 'closed_at': '2014-03-08T01:53:46Z', 'labels': []}
+{'issuenumber': 87, 'title': '[Request] Support For Using Dotenv In Production (Without Capestrano)', 'state': 'closed', 'created_at': '2014-01-23T16:55:38Z', 'closed_at': '2014-01-25T05:23:58Z', 'labels': []}
+{'issuenumber': 82, 'title': "Doesn't seem to work for files in app_root/bin", 'state': 'closed', 'created_at': '2013-12-12T22:10:30Z', 'closed_at': '2014-10-14T14:10:44Z', 'labels': []}
+{'issuenumber': 80, 'title': 'Confusing documentation', 'state': 'closed', 'created_at': '2013-12-12T10:20:04Z', 'closed_at': '2013-12-17T16:47:37Z', 'labels': []}
+{'issuenumber': 76, 'title': 'Multiple .env files', 'state': 'closed', 'created_at': '2013-11-28T10:20:00Z', 'closed_at': '2014-04-26T13:23:14Z', 'labels': []}
+{'issuenumber': 74, 'title': 'env values not used by "rails dbconsole"', 'state': 'closed', 'created_at': '2013-11-18T15:47:15Z', 'closed_at': '2017-04-01T16:35:28Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 72, 'title': 'uninitialized constant Rails::Railtie in Rails 2 app', 'state': 'closed', 'created_at': '2013-11-08T18:07:46Z', 'closed_at': '2013-11-11T17:18:35Z', 'labels': []}
+{'issuenumber': 71, 'title': 'Create gems to encapsulate non-core dotenv features', 'state': 'closed', 'created_at': '2013-11-06T06:33:11Z', 'closed_at': '2014-04-22T02:58:11Z', 'labels': []}
+{'issuenumber': 68, 'title': '[request] Clarify Behavior When Using Environment Specific .env Alongside a Generic .env in README', 'state': 'closed', 'created_at': '2013-10-30T10:40:54Z', 'closed_at': '2014-03-12T14:48:15Z', 'labels': []}
+{'issuenumber': 67, 'title': 'Encouraging the committing of .env is a violation of twelve-factor', 'state': 'closed', 'created_at': '2013-10-24T16:08:14Z', 'closed_at': '2015-02-23T19:41:57Z', 'labels': []}
+{'issuenumber': 64, 'title': 'Capistrano 3.0+ compatibility issues', 'state': 'closed', 'created_at': '2013-10-20T14:43:10Z', 'closed_at': '2013-11-02T00:42:25Z', 'labels': []}
+{'issuenumber': 60, 'title': 'Possible conflict with Foreman', 'state': 'closed', 'created_at': '2013-09-25T10:28:09Z', 'closed_at': '2013-10-02T11:14:27Z', 'labels': []}
+{'issuenumber': 59, 'title': '[request] A task like figaro:heroku', 'state': 'closed', 'created_at': '2013-09-10T16:54:36Z', 'closed_at': '2014-06-16T14:07:40Z', 'labels': []}
+{'issuenumber': 57, 'title': 'DotEnv + Unicorn zero downtime = fail', 'state': 'closed', 'created_at': '2013-09-04T12:02:05Z', 'closed_at': '2013-09-04T14:12:30Z', 'labels': []}
+{'issuenumber': 56, 'title': 'License missing from gemspec', 'state': 'closed', 'created_at': '2013-09-04T00:13:58Z', 'closed_at': '2013-09-04T01:56:34Z', 'labels': []}
+{'issuenumber': 55, 'title': 'make an 0.9.0 release', 'state': 'closed', 'created_at': '2013-08-28T23:45:45Z', 'closed_at': '2013-08-29T22:37:50Z', 'labels': []}
+{'issuenumber': 54, 'title': 'Using dotenv to set RAILS_ENV?', 'state': 'closed', 'created_at': '2013-08-24T00:33:32Z', 'closed_at': '2013-08-26T15:14:44Z', 'labels': []}
+{'issuenumber': 53, 'title': 'Shell command interpolation?', 'state': 'closed', 'created_at': '2013-08-23T14:14:17Z', 'closed_at': '2014-06-16T14:08:26Z', 'labels': []}
+{'issuenumber': 51, 'title': 'Gemfury KEY in the gemfile', 'state': 'closed', 'created_at': '2013-08-05T21:33:23Z', 'closed_at': '2013-08-07T12:47:45Z', 'labels': []}
+{'issuenumber': 50, 'title': 'dotenv capistrano integration failure', 'state': 'closed', 'created_at': '2013-07-26T15:53:50Z', 'closed_at': '2013-08-07T17:30:58Z', 'labels': []}
+{'issuenumber': 47, 'title': "undefined method `desc' for Dotenv::Railtie:Class", 'state': 'closed', 'created_at': '2013-07-17T01:23:06Z', 'closed_at': '2014-06-16T14:04:25Z', 'labels': []}
+{'issuenumber': 46, 'title': 'Allow empty assignments in .env', 'state': 'closed', 'created_at': '2013-07-12T22:43:18Z', 'closed_at': '2013-08-03T06:39:01Z', 'labels': []}
+{'issuenumber': 45, 'title': 'Rake tasks in Rails always initialized in "development"', 'state': 'closed', 'created_at': '2013-07-12T14:44:29Z', 'closed_at': '2015-01-22T03:05:43Z', 'labels': {'name': 'bug'}}

@@ -1,0 +1,866 @@
+{'issuenumber': 1179, 'title': 'Catch connection to not existing namespace', 'state': 'closed', 'created_at': '2013-02-28T17:12:10Z', 'closed_at': '2014-08-19T00:34:57Z', 'labels': []}
+{'issuenumber': 1177, 'title': 'Socket.io memory leak when used with HTTPS/TLS server and Node 0.8.x', 'state': 'closed', 'created_at': '2013-02-27T15:49:29Z', 'closed_at': '2013-03-29T21:16:34Z', 'labels': []}
+{'issuenumber': 1176, 'title': 'Feature request: Tell client reason of disconnect', 'state': 'closed', 'created_at': '2013-02-27T04:20:13Z', 'closed_at': '2014-08-19T00:34:57Z', 'labels': []}
+{'issuenumber': 1175, 'title': 'WebSockets lag behind when sending bursts of image frames', 'state': 'closed', 'created_at': '2013-02-27T01:24:56Z', 'closed_at': '2014-08-19T00:34:56Z', 'labels': []}
+{'issuenumber': 1174, 'title': 'warn: websocket connection invalid from pyeck library on 4g ATT network', 'state': 'closed', 'created_at': '2013-02-25T17:19:17Z', 'closed_at': '2013-02-25T21:53:23Z', 'labels': []}
+{'issuenumber': 1173, 'title': 'Enhancement', 'state': 'closed', 'created_at': '2013-02-25T02:44:42Z', 'closed_at': '2014-08-19T00:34:56Z', 'labels': []}
+{'issuenumber': 1172, 'title': 'Server-to-client acknowledgement callback with otherwise empty arg list not processed by client', 'state': 'closed', 'created_at': '2013-02-24T02:48:54Z', 'closed_at': '2014-08-19T00:34:56Z', 'labels': []}
+{'issuenumber': 1171, 'title': 'Clients unable to connect to server', 'state': 'closed', 'created_at': '2013-02-23T17:40:05Z', 'closed_at': '2014-08-19T00:34:56Z', 'labels': []}
+{'issuenumber': 1170, 'title': 'Server Hang Up', 'state': 'closed', 'created_at': '2013-02-23T10:26:13Z', 'closed_at': '2014-08-19T00:34:56Z', 'labels': []}
+{'issuenumber': 1169, 'title': '0.9 RedisStore UNIX Domain Sockets (using Redis 0.8.2)', 'state': 'closed', 'created_at': '2013-02-22T18:05:54Z', 'closed_at': '2013-02-22T19:33:09Z', 'labels': []}
+{'issuenumber': 1168, 'title': 'namespace disconnect issue', 'state': 'closed', 'created_at': '2013-02-21T20:53:13Z', 'closed_at': '2014-08-19T00:34:56Z', 'labels': []}
+{'issuenumber': 1167, 'title': 'RedisStore - loadlevel grows permanently', 'state': 'closed', 'created_at': '2013-02-21T09:21:00Z', 'closed_at': '2013-03-26T08:08:08Z', 'labels': []}
+{'issuenumber': 1166, 'title': 'A lot of problems with IE8 IE9', 'state': 'closed', 'created_at': '2013-02-19T15:34:44Z', 'closed_at': '2013-02-20T09:20:20Z', 'labels': []}
+{'issuenumber': 1165, 'title': 'socket io client v.0.9 uri parsing values seem incorrect.', 'state': 'closed', 'created_at': '2013-02-19T03:12:53Z', 'closed_at': '2013-04-10T22:01:56Z', 'labels': []}
+{'issuenumber': 1162, 'title': 'Clients can crash any servers that rely on an acknowledgement callbacks', 'state': 'closed', 'created_at': '2013-02-16T20:21:08Z', 'closed_at': '2014-08-19T00:34:56Z', 'labels': []}
+{'issuenumber': 1161, 'title': 'Reconnect instead of connect after browser refresh/reload', 'state': 'closed', 'created_at': '2013-02-16T05:37:44Z', 'closed_at': '2014-08-19T00:34:56Z', 'labels': []}
+{'issuenumber': 1160, 'title': 'timers.js:103', 'state': 'closed', 'created_at': '2013-02-15T20:38:46Z', 'closed_at': '2014-08-19T00:34:56Z', 'labels': []}
+{'issuenumber': 1159, 'title': 'Heartbeat still sent after disconnect', 'state': 'closed', 'created_at': '2013-02-14T00:53:04Z', 'closed_at': '2014-08-19T00:34:56Z', 'labels': []}
+{'issuenumber': 1158, 'title': 'last user to join room is not getting updates', 'state': 'closed', 'created_at': '2013-02-11T19:49:50Z', 'closed_at': '2013-03-01T22:33:10Z', 'labels': []}
+{'issuenumber': 1157, 'title': 'The insanity of unbounded exponential backoff', 'state': 'closed', 'created_at': '2013-02-11T15:40:57Z', 'closed_at': '2014-08-19T00:34:56Z', 'labels': []}
+{'issuenumber': 1156, 'title': 'SSL routines:SSL3_GET_RECORD:decryption failed or bad record mac:s3_pkt.c:482', 'state': 'closed', 'created_at': '2013-02-10T19:40:35Z', 'closed_at': '2013-02-12T03:41:02Z', 'labels': []}
+{'issuenumber': 1155, 'title': "require('socket.io')(server)", 'state': 'closed', 'created_at': '2013-02-10T08:20:35Z', 'closed_at': '2013-02-10T09:16:15Z', 'labels': []}
+{'issuenumber': 1154, 'title': 'Parameter to do slightly more silent build?', 'state': 'closed', 'created_at': '2013-02-10T03:44:38Z', 'closed_at': '2013-04-18T20:13:52Z', 'labels': []}
+{'issuenumber': 1153, 'title': 'Functions in event', 'state': 'closed', 'created_at': '2013-02-09T00:31:25Z', 'closed_at': '2014-08-19T00:34:56Z', 'labels': []}
+{'issuenumber': 1152, 'title': '[RedisStore] New socket servers should acquire the list of rooms and clients connected to existing servers in a cluster', 'state': 'closed', 'created_at': '2013-02-06T07:23:18Z', 'closed_at': '2014-08-19T00:34:56Z', 'labels': []}
+{'issuenumber': 1151, 'title': "can't install socket.io on windows 7", 'state': 'closed', 'created_at': '2013-02-03T06:05:30Z', 'closed_at': '2014-08-19T00:34:56Z', 'labels': []}
+{'issuenumber': 1150, 'title': 'cannot connect with latest chrome using websocket', 'state': 'closed', 'created_at': '2013-01-31T09:12:16Z', 'closed_at': '2014-08-19T00:34:56Z', 'labels': []}
+{'issuenumber': 1149, 'title': 'Sending data from one namespace to another', 'state': 'closed', 'created_at': '2013-01-30T19:30:57Z', 'closed_at': '2014-08-19T00:34:56Z', 'labels': []}
+{'issuenumber': 1148, 'title': 'Add support for the per-frame DEFLATE extension', 'state': 'closed', 'created_at': '2013-01-29T22:18:24Z', 'closed_at': '2015-01-22T21:38:11Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1147, 'title': 'Safari over windows client use xhr-polling instead of websocket - performance are severely harm ', 'state': 'closed', 'created_at': '2013-01-29T16:12:25Z', 'closed_at': '2014-08-19T00:27:07Z', 'labels': []}
+{'issuenumber': 1146, 'title': 'IE9 + flashsocket failing if using jquery ui 1.10 ( Unknown error 8070000c )', 'state': 'closed', 'created_at': '2013-01-29T15:55:09Z', 'closed_at': '2014-08-19T00:27:07Z', 'labels': []}
+{'issuenumber': 1145, 'title': 'xhr-polling hangs after the five first connected clients', 'state': 'closed', 'created_at': '2013-01-26T02:41:43Z', 'closed_at': '2013-01-28T09:32:48Z', 'labels': []}
+{'issuenumber': 1144, 'title': 'is it possible to use flash sockets and websockets simultaneously with socket io?', 'state': 'closed', 'created_at': '2013-01-25T20:05:27Z', 'closed_at': '2013-01-26T17:22:47Z', 'labels': []}
+{'issuenumber': 1142, 'title': 'Mistake in wiki about configuring socket.io?', 'state': 'closed', 'created_at': '2013-01-24T02:58:37Z', 'closed_at': '2013-01-28T14:36:18Z', 'labels': []}
+{'issuenumber': 1141, 'title': 'Authorization callback disappear when passing parameters on the GET socket.io request ', 'state': 'closed', 'created_at': '2013-01-23T12:54:40Z', 'closed_at': '2014-08-19T00:27:07Z', 'labels': []}
+{'issuenumber': 1140, 'title': 'JSONP-Polling not working on some devices', 'state': 'closed', 'created_at': '2013-01-18T16:12:58Z', 'closed_at': '2014-08-19T00:27:07Z', 'labels': []}
+{'issuenumber': 1139, 'title': 'Example crashes', 'state': 'closed', 'created_at': '2013-01-18T15:56:04Z', 'closed_at': '2013-01-28T14:37:46Z', 'labels': []}
+{'issuenumber': 1138, 'title': 'Is default.js WebSocket.prototype.onSocketConnect() still in use?', 'state': 'closed', 'created_at': '2013-01-17T00:42:08Z', 'closed_at': '2014-08-19T00:27:07Z', 'labels': []}
+{'issuenumber': 1137, 'title': 'intermittent responses with node.js/ socket.io after authorization handshake', 'state': 'closed', 'created_at': '2013-01-16T12:03:32Z', 'closed_at': '2014-08-19T00:27:07Z', 'labels': []}
+{'issuenumber': 1136, 'title': 'Windows Azure Website with htmlfile transport prevents socket.emit on client from reaching server in IE 10', 'state': 'closed', 'created_at': '2013-01-16T02:42:03Z', 'closed_at': '2014-08-19T00:27:07Z', 'labels': []}
+{'issuenumber': 1135, 'title': 'Error using msgpack with redis (store)', 'state': 'closed', 'created_at': '2013-01-15T18:37:02Z', 'closed_at': '2014-08-19T00:27:07Z', 'labels': []}
+{'issuenumber': 1134, 'title': 'how to avoid disconnection on page refressh', 'state': 'closed', 'created_at': '2013-01-15T15:46:43Z', 'closed_at': '2013-01-28T14:38:57Z', 'labels': []}
+{'issuenumber': 1132, 'title': 'How to use socket rooms', 'state': 'closed', 'created_at': '2013-01-14T18:22:05Z', 'closed_at': '2013-01-28T14:40:11Z', 'labels': []}
+{'issuenumber': 1131, 'title': 'Socket.IO scaling issue', 'state': 'closed', 'created_at': '2013-01-14T17:20:01Z', 'closed_at': '2013-06-12T17:22:47Z', 'labels': []}
+{'issuenumber': 1130, 'title': 'Performance degradation and complete failure when using Redis store with moderate number of connections', 'state': 'closed', 'created_at': '2013-01-14T04:09:48Z', 'closed_at': '2014-08-19T00:27:07Z', 'labels': []}
+{'issuenumber': 1129, 'title': 'fatal: CRLF would be replaced by LF', 'state': 'closed', 'created_at': '2013-01-10T16:26:22Z', 'closed_at': '2014-08-19T00:27:07Z', 'labels': []}
+{'issuenumber': 1128, 'title': 'Compatibility with Aloha Editor 0.22.6 standard build', 'state': 'closed', 'created_at': '2013-01-07T19:28:48Z', 'closed_at': '2014-08-19T00:27:07Z', 'labels': []}
+{'issuenumber': 1127, 'title': 'Socket.io not working on port 80 with Trend Micro', 'state': 'closed', 'created_at': '2013-01-07T12:54:03Z', 'closed_at': '2014-08-19T00:27:07Z', 'labels': []}
+{'issuenumber': 1126, 'title': '(node-gyp rebuild 2> builderror.log) || (exit 0)', 'state': 'closed', 'created_at': '2013-01-04T04:36:25Z', 'closed_at': '2013-01-28T14:35:07Z', 'labels': []}
+{'issuenumber': 1125, 'title': 'Error: not opened at WebSocket.send when using socket.io with cluster...', 'state': 'closed', 'created_at': '2013-01-04T01:24:42Z', 'closed_at': '2014-08-19T00:27:07Z', 'labels': []}
+{'issuenumber': 1124, 'title': 'Pending (101) on some windows machine', 'state': 'closed', 'created_at': '2013-01-03T14:15:26Z', 'closed_at': '2014-08-19T00:27:07Z', 'labels': []}
+{'issuenumber': 1123, 'title': 'websocket interrupted while page was loading in Fireox and Chrome', 'state': 'closed', 'created_at': '2013-01-03T13:52:35Z', 'closed_at': '2014-08-19T00:27:07Z', 'labels': []}
+{'issuenumber': 1122, 'title': 'memory leak ?? ', 'state': 'closed', 'created_at': '2013-01-01T06:20:42Z', 'closed_at': '2014-08-19T00:27:07Z', 'labels': []}
+{'issuenumber': 1119, 'title': "about  ie8 socket.io ipv6  can't connect  and  chrome is ok !!   ", 'state': 'closed', 'created_at': '2012-12-28T15:05:42Z', 'closed_at': '2014-08-19T00:27:07Z', 'labels': []}
+{'issuenumber': 1118, 'title': 'mobile socket.io', 'state': 'closed', 'created_at': '2012-12-28T09:03:54Z', 'closed_at': '2014-08-19T00:27:07Z', 'labels': []}
+{'issuenumber': 1117, 'title': 'Error installing sockets.io using npm windows 7', 'state': 'closed', 'created_at': '2012-12-27T06:10:45Z', 'closed_at': '2014-08-19T00:27:07Z', 'labels': []}
+{'issuenumber': 1115, 'title': 'Socket.io Redis Error', 'state': 'closed', 'created_at': '2012-12-21T02:13:17Z', 'closed_at': '2014-08-19T00:27:07Z', 'labels': []}
+{'issuenumber': 1114, 'title': 'Dynamic URL', 'state': 'closed', 'created_at': '2012-12-19T20:04:56Z', 'closed_at': '2014-08-19T00:27:07Z', 'labels': []}
+{'issuenumber': 1113, 'title': '/socket.io/socket.io.js 404 Error', 'state': 'closed', 'created_at': '2012-12-18T18:04:42Z', 'closed_at': '2014-08-19T00:27:07Z', 'labels': []}
+{'issuenumber': 1112, 'title': "Cannot find 'ws' package", 'state': 'closed', 'created_at': '2012-12-18T00:48:13Z', 'closed_at': '2013-01-28T15:42:30Z', 'labels': []}
+{'issuenumber': 1111, 'title': 'callback returning empty object when using Error object', 'state': 'closed', 'created_at': '2012-12-17T23:50:11Z', 'closed_at': '2014-08-19T00:27:07Z', 'labels': []}
+{'issuenumber': 1110, 'title': 'Socket.io 0.9.12 is broken', 'state': 'closed', 'created_at': '2012-12-13T18:05:07Z', 'closed_at': '2012-12-13T18:15:45Z', 'labels': []}
+{'issuenumber': 1109, 'title': 'Does socket.io works in phonegap+ android', 'state': 'closed', 'created_at': '2012-12-13T15:35:55Z', 'closed_at': '2014-08-19T00:27:07Z', 'labels': []}
+{'issuenumber': 1104, 'title': 'android connect socket.io', 'state': 'closed', 'created_at': '2012-12-07T09:34:10Z', 'closed_at': '2014-08-19T00:26:57Z', 'labels': []}
+{'issuenumber': 1103, 'title': 'What happened to 0.9.11? master is at 0.9.10', 'state': 'closed', 'created_at': '2012-12-05T22:59:43Z', 'closed_at': '2013-01-28T14:42:03Z', 'labels': []}
+{'issuenumber': 1102, 'title': 'Emit callback lets client crash the server', 'state': 'closed', 'created_at': '2012-12-04T19:25:50Z', 'closed_at': '2014-08-19T00:26:57Z', 'labels': []}
+{'issuenumber': 1101, 'title': 'Uncaught TypeError: Converting circular structure to JSON', 'state': 'closed', 'created_at': '2012-12-04T15:27:29Z', 'closed_at': '2013-01-28T14:42:39Z', 'labels': []}
+{'issuenumber': 1100, 'title': 'trouble socket.io.min.js', 'state': 'closed', 'created_at': '2012-12-04T08:34:06Z', 'closed_at': '2012-12-05T10:23:20Z', 'labels': []}
+{'issuenumber': 1097, 'title': 'Should JSONP Polling work with redis store out of the box?', 'state': 'closed', 'created_at': '2012-12-03T05:57:42Z', 'closed_at': '2014-08-19T00:26:57Z', 'labels': []}
+{'issuenumber': 1095, 'title': '"Memory leak" when using HTML File', 'state': 'closed', 'created_at': '2012-11-30T13:06:56Z', 'closed_at': '2014-08-19T00:26:57Z', 'labels': []}
+{'issuenumber': 1093, 'title': 'Memory leak ', 'state': 'closed', 'created_at': '2012-11-30T08:03:29Z', 'closed_at': '2014-08-19T00:26:57Z', 'labels': []}
+{'issuenumber': 1091, 'title': 'Improper log message', 'state': 'closed', 'created_at': '2012-11-27T17:21:51Z', 'closed_at': '2012-12-11T15:20:45Z', 'labels': []}
+{'issuenumber': 1090, 'title': 'RedisStore leaks Pub/Sub channels (with test case)', 'state': 'closed', 'created_at': '2012-11-26T17:22:49Z', 'closed_at': '2014-08-19T00:26:57Z', 'labels': []}
+{'issuenumber': 1089, 'title': 'Compressed bit must be 0 if no negotiated deflate-frame extension', 'state': 'closed', 'created_at': '2012-11-25T15:55:48Z', 'closed_at': '2014-08-19T00:26:57Z', 'labels': []}
+{'issuenumber': 1088, 'title': 'RedisStore creates clients itself even if redisPub, redisSub, redisClient are supplied', 'state': 'closed', 'created_at': '2012-11-22T11:44:19Z', 'closed_at': '2014-08-19T00:26:57Z', 'labels': []}
+{'issuenumber': 1087, 'title': "after first time,my xhr-polling haven't result", 'state': 'closed', 'created_at': '2012-11-21T08:24:33Z', 'closed_at': '2014-08-19T00:26:57Z', 'labels': []}
+{'issuenumber': 1085, 'title': 'SocketIO on message event blocks process.send', 'state': 'closed', 'created_at': '2012-11-19T07:08:24Z', 'closed_at': '2014-08-19T00:26:57Z', 'labels': []}
+{'issuenumber': 1084, 'title': 'socket.io.js and "destroying non-socket.io upgrade"', 'state': 'closed', 'created_at': '2012-11-13T23:56:49Z', 'closed_at': '2012-11-19T12:46:33Z', 'labels': []}
+{'issuenumber': 1083, 'title': "TypeError: Object #<WebSocket> has no method 'payload'", 'state': 'closed', 'created_at': '2012-11-13T20:39:14Z', 'closed_at': '2014-08-19T00:26:57Z', 'labels': []}
+{'issuenumber': 1081, 'title': 'Cluster memory stores leaking message:id and disconnect:id channel subscriptions', 'state': 'closed', 'created_at': '2012-11-11T12:10:51Z', 'closed_at': '2012-11-15T01:16:46Z', 'labels': []}
+{'issuenumber': 1079, 'title': 'HELP warn: error raised: Error: accept EMFILE', 'state': 'closed', 'created_at': '2012-11-10T19:33:59Z', 'closed_at': '2013-01-28T14:43:33Z', 'labels': []}
+{'issuenumber': 1077, 'title': 'WebSocket upgrade failure results in exception', 'state': 'closed', 'created_at': '2012-11-09T09:09:57Z', 'closed_at': '2014-08-19T00:26:57Z', 'labels': []}
+{'issuenumber': 1076, 'title': 'Add documentation for which JS file to use in the browser', 'state': 'closed', 'created_at': '2012-11-07T23:50:45Z', 'closed_at': '2014-08-19T00:26:57Z', 'labels': []}
+{'issuenumber': 1075, 'title': 'Add an ability to listen for any message coming in', 'state': 'closed', 'created_at': '2012-11-07T16:17:27Z', 'closed_at': '2013-04-30T21:00:01Z', 'labels': []}
+{'issuenumber': 1074, 'title': '0.9.11 release, package.json, History.md', 'state': 'closed', 'created_at': '2012-11-06T20:01:08Z', 'closed_at': '2014-08-19T00:26:57Z', 'labels': []}
+{'issuenumber': 1073, 'title': 'HTTP server and socket.io connection', 'state': 'closed', 'created_at': '2012-11-05T10:57:20Z', 'closed_at': '2014-08-19T00:26:57Z', 'labels': []}
+{'issuenumber': 1072, 'title': 'npm install socket.io fails on Node 0.8.14(x64) + Windows 7. Please help!', 'state': 'closed', 'created_at': '2012-11-04T23:41:53Z', 'closed_at': '2012-11-07T02:06:33Z', 'labels': []}
+{'issuenumber': 1071, 'title': 'Logging with context', 'state': 'closed', 'created_at': '2012-11-02T23:30:35Z', 'closed_at': '2014-08-19T00:26:57Z', 'labels': []}
+{'issuenumber': 1070, 'title': 'reconnect fail ! ', 'state': 'closed', 'created_at': '2012-11-02T06:45:18Z', 'closed_at': '2014-08-19T00:26:57Z', 'labels': []}
+{'issuenumber': 1069, 'title': 'Add a way to destroy Namespaces', 'state': 'closed', 'created_at': '2012-11-02T02:13:16Z', 'closed_at': '2014-08-19T00:26:57Z', 'labels': []}
+{'issuenumber': 1066, 'title': 'secret cookie cannot be parsed  because of unescape character[:]', 'state': 'closed', 'created_at': '2012-10-31T09:42:40Z', 'closed_at': '2012-10-31T09:45:10Z', 'labels': []}
+{'issuenumber': 1063, 'title': 'typo in faq page', 'state': 'closed', 'created_at': '2012-10-29T19:59:48Z', 'closed_at': '2014-08-19T00:26:57Z', 'labels': []}
+{'issuenumber': 1062, 'title': 'Multiple socket writes under io.configure', 'state': 'closed', 'created_at': '2012-10-29T07:31:12Z', 'closed_at': '2014-08-19T00:26:57Z', 'labels': []}
+{'issuenumber': 1060, 'title': 'socket.io started by 3rd party process does not listen to the port if output is redirected', 'state': 'closed', 'created_at': '2012-10-27T19:35:42Z', 'closed_at': '2014-08-19T00:26:57Z', 'labels': []}
+{'issuenumber': 1059, 'title': 'Make front-page example work as regular user, on port >= 1024', 'state': 'closed', 'created_at': '2012-10-26T15:06:48Z', 'closed_at': '2014-08-19T00:26:57Z', 'labels': []}
+{'issuenumber': 1058, 'title': 'WebSocketConnectionClosedException in socketIO_client', 'state': 'closed', 'created_at': '2012-10-24T19:26:49Z', 'closed_at': '2014-08-19T00:26:57Z', 'labels': []}
+{'issuenumber': 1057, 'title': 'Moved', 'state': 'closed', 'created_at': '2012-10-23T22:57:43Z', 'closed_at': '2014-08-19T00:26:57Z', 'labels': []}
+{'issuenumber': 1056, 'title': 'websockets fail after 25 seconds, reconnects after 90 seconds', 'state': 'closed', 'created_at': '2012-10-23T16:57:03Z', 'closed_at': '2014-08-19T00:26:57Z', 'labels': []}
+{'issuenumber': 1055, 'title': 'cant get client to connect to node server', 'state': 'closed', 'created_at': '2012-10-19T23:30:41Z', 'closed_at': '2012-10-21T09:59:03Z', 'labels': []}
+{'issuenumber': 1054, 'title': 'Limit number of connections per IP address - Security', 'state': 'closed', 'created_at': '2012-10-19T01:38:06Z', 'closed_at': '2012-10-20T03:53:04Z', 'labels': []}
+{'issuenumber': 1052, 'title': 'Chain room filters on "clients" and "in" method', 'state': 'closed', 'created_at': '2012-10-15T16:22:58Z', 'closed_at': '2014-08-19T00:26:40Z', 'labels': []}
+{'issuenumber': 1051, 'title': 'Enhancement to customize the HTTP error code upon authorization failure', 'state': 'closed', 'created_at': '2012-10-15T08:11:14Z', 'closed_at': '2014-08-19T00:26:40Z', 'labels': []}
+{'issuenumber': 1050, 'title': 'logging says authorized upon unauthorized error', 'state': 'closed', 'created_at': '2012-10-15T07:52:46Z', 'closed_at': '2014-08-19T00:26:40Z', 'labels': []}
+{'issuenumber': 1049, 'title': 'Example code of socket.io trough ssl connection', 'state': 'closed', 'created_at': '2012-10-11T13:11:53Z', 'closed_at': '2014-08-19T00:26:40Z', 'labels': []}
+{'issuenumber': 1048, 'title': '`npm rebuild` fails on Windows if socket.io installed on Mac', 'state': 'closed', 'created_at': '2012-10-10T17:16:11Z', 'closed_at': '2012-10-10T18:28:24Z', 'labels': []}
+{'issuenumber': 1047, 'title': 'websocket.js:33', 'state': 'closed', 'created_at': '2012-10-08T09:47:58Z', 'closed_at': '2014-08-19T00:26:40Z', 'labels': []}
+{'issuenumber': 1046, 'title': 'Crossdomain - Handshake but "XMLHttpRequest cannot load"', 'state': 'closed', 'created_at': '2012-10-07T16:25:38Z', 'closed_at': '2014-08-19T00:26:40Z', 'labels': []}
+{'issuenumber': 1045, 'title': 'Flash Socket over SSL seems to incorrectly handle large amounts of data', 'state': 'closed', 'created_at': '2012-10-06T05:40:36Z', 'closed_at': '2014-08-19T00:26:40Z', 'labels': []}
+{'issuenumber': 1044, 'title': 'TypeError: options.uid should be a number(on armv61 raspBerry Pi)', 'state': 'closed', 'created_at': '2012-10-04T11:32:33Z', 'closed_at': '2014-08-19T00:26:40Z', 'labels': []}
+{'issuenumber': 1043, 'title': 'timers.js:103', 'state': 'closed', 'created_at': '2012-10-03T11:05:48Z', 'closed_at': '2014-08-19T00:26:40Z', 'labels': []}
+{'issuenumber': 1042, 'title': 'the connection.handshake.address object is sometimes undefined', 'state': 'closed', 'created_at': '2012-10-01T22:57:36Z', 'closed_at': '2014-08-19T00:26:40Z', 'labels': []}
+{'issuenumber': 1041, 'title': "TypeError: Cannot call method 'writeHead' of undefined", 'state': 'closed', 'created_at': '2012-09-28T01:21:26Z', 'closed_at': '2014-08-19T00:26:40Z', 'labels': []}
+{'issuenumber': 1040, 'title': 'Many stale connections in state CLOSE_WAIT and FIN_WAIT2', 'state': 'closed', 'created_at': '2012-09-27T08:39:57Z', 'closed_at': '2014-08-19T00:26:40Z', 'labels': []}
+{'issuenumber': 1038, 'title': 'webRTC support', 'state': 'closed', 'created_at': '2012-09-22T14:02:59Z', 'closed_at': '2012-09-22T17:41:49Z', 'labels': []}
+{'issuenumber': 1036, 'title': 'Error in socket.io', 'state': 'closed', 'created_at': '2012-09-19T10:39:09Z', 'closed_at': '2014-08-19T00:26:40Z', 'labels': []}
+{'issuenumber': 1035, 'title': 'Problems connecting with second transport after first fails.', 'state': 'closed', 'created_at': '2012-09-19T06:39:45Z', 'closed_at': '2014-08-19T00:26:40Z', 'labels': []}
+{'issuenumber': 1034, 'title': 'XHR-Fallback if port is blocked?', 'state': 'closed', 'created_at': '2012-09-16T11:38:37Z', 'closed_at': '2012-09-17T15:25:47Z', 'labels': []}
+{'issuenumber': 1033, 'title': 'Python Dependency?', 'state': 'closed', 'created_at': '2012-09-16T05:42:07Z', 'closed_at': '2012-09-16T06:02:59Z', 'labels': []}
+{'issuenumber': 1032, 'title': "when service  reopen  the client's events called more than once.", 'state': 'closed', 'created_at': '2012-09-15T02:57:01Z', 'closed_at': '2014-08-19T00:26:40Z', 'labels': []}
+{'issuenumber': 1030, 'title': 'Update redis to 0.8.1', 'state': 'closed', 'created_at': '2012-09-13T08:25:15Z', 'closed_at': '2014-08-19T00:26:40Z', 'labels': []}
+{'issuenumber': 1029, 'title': 'Redis dependency and unit tests', 'state': 'closed', 'created_at': '2012-09-13T05:04:46Z', 'closed_at': '2014-08-19T00:26:40Z', 'labels': []}
+{'issuenumber': 1028, 'title': "Server can't send any message to Client although websocket seems connected", 'state': 'closed', 'created_at': '2012-09-12T06:33:37Z', 'closed_at': '2012-09-13T03:10:48Z', 'labels': []}
+{'issuenumber': 1027, 'title': 'Socket.io connection refresh the problems brought on the page', 'state': 'closed', 'created_at': '2012-09-12T02:08:44Z', 'closed_at': '2014-08-19T00:26:40Z', 'labels': []}
+{'issuenumber': 1025, 'title': 'xhr-polling doesnt work on embedded webviews (phonegap, cordova)', 'state': 'closed', 'created_at': '2012-09-09T02:41:08Z', 'closed_at': '2012-09-09T03:56:00Z', 'labels': []}
+{'issuenumber': 1024, 'title': "android browser doesn't connect over https/wss", 'state': 'closed', 'created_at': '2012-09-09T00:38:07Z', 'closed_at': '2012-09-09T00:38:19Z', 'labels': []}
+{'issuenumber': 1021, 'title': 'socket.io Chat rooms has some problem ', 'state': 'closed', 'created_at': '2012-09-07T11:53:46Z', 'closed_at': '2014-08-19T00:26:40Z', 'labels': []}
+{'issuenumber': 1020, 'title': 'IE cannot call reconnect a second time', 'state': 'closed', 'created_at': '2012-09-06T22:35:57Z', 'closed_at': '2014-08-19T00:26:40Z', 'labels': []}
+{'issuenumber': 1019, 'title': 'Master: req.wsclient looks null occasionally', 'state': 'closed', 'created_at': '2012-09-06T19:00:22Z', 'closed_at': '2014-08-19T00:26:40Z', 'labels': []}
+{'issuenumber': 1018, 'title': 'cross-domain quote socket.io.js in IE can not get handshakeDate.headers.cookie', 'state': 'closed', 'created_at': '2012-09-06T02:31:59Z', 'closed_at': '2014-08-19T00:26:40Z', 'labels': []}
+{'issuenumber': 1017, 'title': 'Code example in Documentation Namespaces containes bug', 'state': 'closed', 'created_at': '2012-09-05T12:42:52Z', 'closed_at': '2014-08-19T00:26:40Z', 'labels': []}
+{'issuenumber': 1015, 'title': 'memory leak', 'state': 'closed', 'created_at': '2012-09-04T14:36:44Z', 'closed_at': '2014-08-19T00:26:40Z', 'labels': []}
+{'issuenumber': 1014, 'title': "Cannot set property 'XHR' of undefined", 'state': 'closed', 'created_at': '2012-09-03T19:50:36Z', 'closed_at': '2013-01-05T10:08:17Z', 'labels': []}
+{'issuenumber': 1013, 'title': 'Internal work', 'state': 'closed', 'created_at': '2012-09-02T11:33:31Z', 'closed_at': '2014-08-19T00:26:40Z', 'labels': []}
+{'issuenumber': 1011, 'title': 'Alternate Flash Policy Port  - needs documenting', 'state': 'closed', 'created_at': '2012-08-30T23:09:28Z', 'closed_at': '2014-08-19T00:26:47Z', 'labels': []}
+{'issuenumber': 1010, 'title': 'Exception when using non-SSL WebSocket from from HTTPS', 'state': 'closed', 'created_at': '2012-08-30T11:57:17Z', 'closed_at': '2014-08-19T00:26:47Z', 'labels': []}
+{'issuenumber': 1009, 'title': "'connect' event is not triggered on Firefox and Chrome", 'state': 'closed', 'created_at': '2012-08-29T08:33:27Z', 'closed_at': '2012-08-30T05:22:13Z', 'labels': []}
+{'issuenumber': 1007, 'title': 'io.sockets.emit not always received', 'state': 'closed', 'created_at': '2012-08-27T18:43:32Z', 'closed_at': '2014-08-19T00:26:47Z', 'labels': []}
+{'issuenumber': 1006, 'title': 'Installation problems in Max OSX 10.6.8', 'state': 'closed', 'created_at': '2012-08-26T15:04:40Z', 'closed_at': '2012-08-26T15:05:31Z', 'labels': []}
+{'issuenumber': 1005, 'title': 'Installation problems in Max OSX 10.6.8', 'state': 'closed', 'created_at': '2012-08-26T15:03:13Z', 'closed_at': '2014-08-19T00:26:47Z', 'labels': []}
+{'issuenumber': 1004, 'title': 'setting up of this --allow-file-access-from-files', 'state': 'closed', 'created_at': '2012-08-25T22:15:46Z', 'closed_at': '2014-08-19T00:26:47Z', 'labels': []}
+{'issuenumber': 1003, 'title': 'Move redis to devDependencies?', 'state': 'closed', 'created_at': '2012-08-24T02:42:57Z', 'closed_at': '2014-08-19T00:26:47Z', 'labels': []}
+{'issuenumber': 1002, 'title': 'Initial client library request takes >2s', 'state': 'closed', 'created_at': '2012-08-23T09:34:57Z', 'closed_at': '2014-08-19T00:26:47Z', 'labels': []}
+{'issuenumber': 1000, 'title': 'socket.io similar obstruction in IE6', 'state': 'closed', 'created_at': '2012-08-22T09:18:34Z', 'closed_at': '2014-08-19T00:26:47Z', 'labels': []}
+{'issuenumber': 999, 'title': 'Push duplicated', 'state': 'closed', 'created_at': '2012-08-21T20:26:11Z', 'closed_at': '2014-08-19T00:26:47Z', 'labels': []}
+{'issuenumber': 998, 'title': 'Transport problem when client on Windows 7 x64', 'state': 'closed', 'created_at': '2012-08-19T00:48:40Z', 'closed_at': '2014-08-19T00:26:47Z', 'labels': []}
+{'issuenumber': 997, 'title': 'Duplicate events', 'state': 'closed', 'created_at': '2012-08-17T10:47:54Z', 'closed_at': '2014-08-19T00:26:46Z', 'labels': []}
+{'issuenumber': 996, 'title': 'warn: client not handshaken client should reconnect', 'state': 'closed', 'created_at': '2012-08-17T07:08:40Z', 'closed_at': '2014-08-19T00:26:46Z', 'labels': []}
+{'issuenumber': 995, 'title': 'Question', 'state': 'closed', 'created_at': '2012-08-16T13:41:27Z', 'closed_at': '2012-08-16T14:43:04Z', 'labels': []}
+{'issuenumber': 994, 'title': 'Remove "AJAX multipart streaming" from website', 'state': 'closed', 'created_at': '2012-08-16T04:22:33Z', 'closed_at': '2014-08-19T00:26:46Z', 'labels': []}
+{'issuenumber': 993, 'title': '"handshake error" detection on reconnect', 'state': 'closed', 'created_at': '2012-08-13T14:09:05Z', 'closed_at': '2014-08-19T00:26:46Z', 'labels': []}
+{'issuenumber': 992, 'title': "socket.io not support IPv6 bug (online waiting for administrator's reply)", 'state': 'closed', 'created_at': '2012-08-13T09:24:16Z', 'closed_at': '2012-08-14T18:11:14Z', 'labels': []}
+{'issuenumber': 991, 'title': 'why does socket.io uses websocket connection and xhr polling parallel?', 'state': 'closed', 'created_at': '2012-08-12T18:01:37Z', 'closed_at': '2014-07-16T21:05:30Z', 'labels': []}
+{'issuenumber': 990, 'title': "can't install socket.io in OS X 10.8", 'state': 'closed', 'created_at': '2012-08-12T09:27:43Z', 'closed_at': '2012-08-14T01:15:54Z', 'labels': []}
+{'issuenumber': 989, 'title': 'npm install socket.io failed on windows xp', 'state': 'closed', 'created_at': '2012-08-12T08:43:29Z', 'closed_at': '2012-08-12T17:33:07Z', 'labels': []}
+{'issuenumber': 988, 'title': "Ignore 'origins' settings on disconnect", 'state': 'closed', 'created_at': '2012-08-11T06:19:15Z', 'closed_at': '2014-08-19T00:26:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 987, 'title': 'Can not serve socket.io.js when listening on port. (node 0.9.1-pre, socket.io 0.9.9)', 'state': 'closed', 'created_at': '2012-08-09T21:18:04Z', 'closed_at': '2013-06-04T22:56:54Z', 'labels': []}
+{'issuenumber': 986, 'title': 'Disconnect response has no allow-origin', 'state': 'closed', 'created_at': '2012-08-09T10:52:07Z', 'closed_at': '2012-08-22T09:15:37Z', 'labels': []}
+{'issuenumber': 984, 'title': 'browser unable to load file /socket.io/socket.io.js right after Node server starts', 'state': 'closed', 'created_at': '2012-08-07T11:30:23Z', 'closed_at': '2014-08-19T00:26:46Z', 'labels': []}
+{'issuenumber': 978, 'title': 'hiredis requirement causes build issues on Windows', 'state': 'closed', 'created_at': '2012-08-05T23:45:17Z', 'closed_at': '2012-09-03T14:24:51Z', 'labels': []}
+{'issuenumber': 977, 'title': "'browser client handler' not working", 'state': 'closed', 'created_at': '2012-08-04T17:27:38Z', 'closed_at': '2014-08-19T00:26:46Z', 'labels': []}
+{'issuenumber': 976, 'title': 'socket.io crashes Mobile Safari on iOS', 'state': 'closed', 'created_at': '2012-07-31T18:23:49Z', 'closed_at': '2014-08-19T00:26:46Z', 'labels': []}
+{'issuenumber': 973, 'title': 'volatile messages for htmlfile will never be discarded, as long as connection is open', 'state': 'closed', 'created_at': '2012-07-31T01:17:00Z', 'closed_at': '2014-08-19T00:26:46Z', 'labels': []}
+{'issuenumber': 969, 'title': "'test that connection close does not mean disconnect' fails", 'state': 'closed', 'created_at': '2012-07-30T10:49:44Z', 'closed_at': '2014-08-19T00:26:46Z', 'labels': []}
+{'issuenumber': 968, 'title': 'Tests on fresh git clone fail', 'state': 'closed', 'created_at': '2012-07-30T09:54:19Z', 'closed_at': '2012-07-30T10:33:29Z', 'labels': []}
+{'issuenumber': 967, 'title': 'JSONP polling writeHead Error (version 0.9.2) ', 'state': 'closed', 'created_at': '2012-07-30T08:38:46Z', 'closed_at': '2014-08-19T00:26:46Z', 'labels': []}
+{'issuenumber': 965, 'title': 'Codebase needs a license file', 'state': 'closed', 'created_at': '2012-07-29T03:02:34Z', 'closed_at': '2014-08-19T00:26:46Z', 'labels': []}
+{'issuenumber': 962, 'title': "JSONP Polling doesn't clean up after itself", 'state': 'closed', 'created_at': '2012-07-25T16:47:42Z', 'closed_at': '2014-08-19T00:26:46Z', 'labels': []}
+{'issuenumber': 961, 'title': '0.9.8 causes error on sessionID generation', 'state': 'closed', 'created_at': '2012-07-25T11:12:53Z', 'closed_at': '2012-08-01T22:16:03Z', 'labels': []}
+{'issuenumber': 960, 'title': "IE8 can't   get a sessionid", 'state': 'closed', 'created_at': '2012-07-25T02:27:46Z', 'closed_at': '2014-08-19T00:26:46Z', 'labels': []}
+{'issuenumber': 959, 'title': 'Could not handshake with socket server', 'state': 'closed', 'created_at': '2012-07-23T02:14:53Z', 'closed_at': '2014-08-19T00:26:46Z', 'labels': []}
+{'issuenumber': 956, 'title': 'Flashsockets over HTTPS', 'state': 'closed', 'created_at': '2012-07-20T00:36:49Z', 'closed_at': '2014-08-19T00:26:29Z', 'labels': []}
+{'issuenumber': 955, 'title': 'The minimal number of bytes MUST be used to encode the length', 'state': 'closed', 'created_at': '2012-07-16T15:56:35Z', 'closed_at': '2014-08-19T00:26:29Z', 'labels': []}
+{'issuenumber': 954, 'title': 'room 0', 'state': 'closed', 'created_at': '2012-07-15T16:04:40Z', 'closed_at': '2014-08-19T00:26:29Z', 'labels': []}
+{'issuenumber': 953, 'title': 'Console logs "Booting Client" around 100 times, then crashes.', 'state': 'closed', 'created_at': '2012-07-12T10:49:59Z', 'closed_at': '2012-07-12T14:30:20Z', 'labels': []}
+{'issuenumber': 952, 'title': 'handshake propagation issue when using cluster', 'state': 'closed', 'created_at': '2012-07-11T09:10:41Z', 'closed_at': '2014-08-19T00:26:29Z', 'labels': []}
+{'issuenumber': 951, 'title': '[tutorial] return the reason to client that why reject the connection', 'state': 'closed', 'created_at': '2012-07-10T18:29:19Z', 'closed_at': '2014-08-19T00:26:29Z', 'labels': []}
+{'issuenumber': 950, 'title': 'Socket.io and Redis Store issues when redis restarts', 'state': 'closed', 'created_at': '2012-07-09T04:20:44Z', 'closed_at': '2012-07-16T02:02:14Z', 'labels': []}
+{'issuenumber': 949, 'title': 'Chrome bug?', 'state': 'closed', 'created_at': '2012-07-06T07:20:33Z', 'closed_at': '2012-07-06T10:40:03Z', 'labels': []}
+{'issuenumber': 948, 'title': 'Transport fallback not working with a reverse proxy', 'state': 'closed', 'created_at': '2012-07-05T13:36:32Z', 'closed_at': '2014-08-19T00:26:29Z', 'labels': []}
+{'issuenumber': 947, 'title': 'big bug?', 'state': 'closed', 'created_at': '2012-07-05T11:07:23Z', 'closed_at': '2012-07-05T11:45:54Z', 'labels': []}
+{'issuenumber': 946, 'title': 'An message have been sent many times in IE8', 'state': 'closed', 'created_at': '2012-07-05T02:29:52Z', 'closed_at': '2012-08-21T00:59:28Z', 'labels': []}
+{'issuenumber': 945, 'title': 'client.js  line  26   disconect ?', 'state': 'closed', 'created_at': '2012-07-04T17:25:37Z', 'closed_at': '2014-08-19T00:26:29Z', 'labels': []}
+{'issuenumber': 944, 'title': 'Cannot load socket.io.js on client', 'state': 'closed', 'created_at': '2012-07-04T16:11:25Z', 'closed_at': '2012-07-06T07:03:53Z', 'labels': []}
+{'issuenumber': 943, 'title': 'Increasing memory usage with socket.io, node.js x64 on windows server 2008', 'state': 'closed', 'created_at': '2012-07-04T13:31:06Z', 'closed_at': '2014-08-19T00:26:29Z', 'labels': []}
+{'issuenumber': 941, 'title': 'using node v0.8.1 http://socket.io/#how-to-use express example is failing ', 'state': 'closed', 'created_at': '2012-07-04T03:50:57Z', 'closed_at': '2014-08-19T00:26:29Z', 'labels': []}
+{'issuenumber': 940, 'title': 'WebSocket network error: OSStatus Error -9812: valid cert chain, untrusted root ', 'state': 'closed', 'created_at': '2012-07-03T15:19:35Z', 'closed_at': '2014-08-19T00:26:29Z', 'labels': []}
+{'issuenumber': 939, 'title': 'balancer without sticky sessions and more than 1 process', 'state': 'closed', 'created_at': '2012-07-03T13:35:26Z', 'closed_at': '2014-08-19T00:26:29Z', 'labels': []}
+{'issuenumber': 937, 'title': 'websocket connection invalid', 'state': 'closed', 'created_at': '2012-07-02T04:25:08Z', 'closed_at': '2012-07-30T01:23:36Z', 'labels': []}
+{'issuenumber': 936, 'title': 'Client socket.io.js not found 404', 'state': 'closed', 'created_at': '2012-06-30T21:13:54Z', 'closed_at': '2012-06-30T21:17:34Z', 'labels': []}
+{'issuenumber': 935, 'title': 'could not install socket.io with nodejs v 8.1', 'state': 'closed', 'created_at': '2012-06-30T13:10:27Z', 'closed_at': '2014-08-19T00:26:29Z', 'labels': []}
+{'issuenumber': 934, 'title': 'Blocking call to crypto.randomBytes', 'state': 'closed', 'created_at': '2012-06-29T11:48:41Z', 'closed_at': '2014-08-19T00:26:29Z', 'labels': []}
+{'issuenumber': 933, 'title': '[flashsocket] info - transport end (undefined)', 'state': 'closed', 'created_at': '2012-06-29T11:12:31Z', 'closed_at': '2014-08-19T00:26:29Z', 'labels': []}
+{'issuenumber': 932, 'title': 'Problem serving client on Node 0.8', 'state': 'closed', 'created_at': '2012-06-28T13:08:09Z', 'closed_at': '2014-08-19T00:26:29Z', 'labels': []}
+{'issuenumber': 931, 'title': 'Node 0.8.x support', 'state': 'closed', 'created_at': '2012-06-26T21:03:01Z', 'closed_at': '2014-08-19T00:26:29Z', 'labels': []}
+{'issuenumber': 930, 'title': 'Node 0.8.0 support', 'state': 'closed', 'created_at': '2012-06-26T19:15:38Z', 'closed_at': '2012-06-26T19:22:39Z', 'labels': []}
+{'issuenumber': 927, 'title': 'Namespacing JSONP requests', 'state': 'closed', 'created_at': '2012-06-23T16:35:12Z', 'closed_at': '2014-08-19T00:26:29Z', 'labels': []}
+{'issuenumber': 925, 'title': 'Mitigate XSS in JSONP-Polling', 'state': 'closed', 'created_at': '2012-06-18T10:35:15Z', 'closed_at': '2012-06-21T17:40:28Z', 'labels': []}
+{'issuenumber': 924, 'title': 'ENOENT issue while installing', 'state': 'closed', 'created_at': '2012-06-18T07:32:59Z', 'closed_at': '2014-08-19T00:26:29Z', 'labels': []}
+{'issuenumber': 923, 'title': 'How to install socket.io without native compiler and python', 'state': 'closed', 'created_at': '2012-06-18T02:24:46Z', 'closed_at': '2012-06-18T03:32:33Z', 'labels': []}
+{'issuenumber': 921, 'title': 'some chinese characters corrupted when using xhr + http chunk', 'state': 'closed', 'created_at': '2012-06-15T12:36:33Z', 'closed_at': '2014-08-19T00:26:29Z', 'labels': []}
+{'issuenumber': 920, 'title': 'Unhandled error event from event.js on a very simple application', 'state': 'closed', 'created_at': '2012-06-14T09:10:50Z', 'closed_at': '2012-06-14T14:30:32Z', 'labels': []}
+{'issuenumber': 919, 'title': 'Delayed WebSocket close, disconnects XHR transport when using Squid forward proxy', 'state': 'closed', 'created_at': '2012-06-12T19:28:27Z', 'closed_at': '2014-08-19T00:26:29Z', 'labels': []}
+{'issuenumber': 918, 'title': 'Benchmark socket.io', 'state': 'closed', 'created_at': '2012-06-11T09:00:08Z', 'closed_at': '2014-08-19T00:26:29Z', 'labels': []}
+{'issuenumber': 917, 'title': 'xhr-polling & redis -> callback not fired', 'state': 'closed', 'created_at': '2012-06-10T18:53:25Z', 'closed_at': '2012-07-25T19:47:06Z', 'labels': []}
+{'issuenumber': 916, 'title': 'Socket.io with a stingray load balancer', 'state': 'closed', 'created_at': '2012-06-10T04:35:16Z', 'closed_at': '2014-08-19T00:26:29Z', 'labels': []}
+{'issuenumber': 915, 'title': '3G connection', 'state': 'closed', 'created_at': '2012-06-09T11:14:50Z', 'closed_at': '2014-08-19T00:26:29Z', 'labels': []}
+{'issuenumber': 914, 'title': 'Create a 0.9.6 git tag', 'state': 'closed', 'created_at': '2012-06-09T08:35:23Z', 'closed_at': '2014-08-19T00:26:29Z', 'labels': []}
+{'issuenumber': 913, 'title': 'Windows phone support', 'state': 'closed', 'created_at': '2012-06-07T07:08:58Z', 'closed_at': '2014-08-19T00:26:29Z', 'labels': []}
+{'issuenumber': 912, 'title': 'Socket.io Reconnect Error if server stops / crashes / stops responding.', 'state': 'closed', 'created_at': '2012-06-07T06:36:50Z', 'closed_at': '2014-08-19T00:26:17Z', 'labels': []}
+{'issuenumber': 911, 'title': 'Uncaught Error: INVALID_STATE_ERR: DOM Exception 11', 'state': 'closed', 'created_at': '2012-06-07T06:29:36Z', 'closed_at': '2014-08-19T00:26:17Z', 'labels': []}
+{'issuenumber': 910, 'title': "Error: ERR wrong number of arguments for 'hset' command", 'state': 'closed', 'created_at': '2012-06-07T02:44:26Z', 'closed_at': '2014-08-19T00:26:17Z', 'labels': []}
+{'issuenumber': 908, 'title': 'Make socket.io sharing session with express automatically', 'state': 'closed', 'created_at': '2012-06-06T21:39:23Z', 'closed_at': '2014-08-19T00:26:17Z', 'labels': []}
+{'issuenumber': 907, 'title': 'create an io object before calling listen', 'state': 'closed', 'created_at': '2012-06-04T04:47:38Z', 'closed_at': '2014-08-19T00:26:17Z', 'labels': []}
+{'issuenumber': 906, 'title': 'Stack overflow error with socket.io when used with node.js', 'state': 'closed', 'created_at': '2012-06-02T12:34:46Z', 'closed_at': '2012-06-02T17:35:06Z', 'labels': []}
+{'issuenumber': 905, 'title': 'ReferenceError: Websocket is not defined ... on Android 3.x, 4.x/Firefox', 'state': 'closed', 'created_at': '2012-06-01T00:31:59Z', 'closed_at': '2014-08-19T00:26:17Z', 'labels': []}
+{'issuenumber': 904, 'title': 'Problem with clients behind proxy', 'state': 'closed', 'created_at': '2012-05-31T14:40:43Z', 'closed_at': '2014-08-19T00:26:17Z', 'labels': []}
+{'issuenumber': 903, 'title': 'Client library is sent without cache headers', 'state': 'closed', 'created_at': '2012-05-30T21:30:15Z', 'closed_at': '2012-05-31T09:08:30Z', 'labels': []}
+{'issuenumber': 902, 'title': "/jsonp-polling.js:88 TypeError: Cannot call method 'writeHead' of undefined", 'state': 'closed', 'created_at': '2012-05-30T01:10:50Z', 'closed_at': '2014-08-19T00:26:17Z', 'labels': []}
+{'issuenumber': 901, 'title': 'RedisStore causes "wrong # of arguments for hset" error', 'state': 'closed', 'created_at': '2012-05-28T15:12:36Z', 'closed_at': '2014-08-19T00:26:17Z', 'labels': []}
+{'issuenumber': 900, 'title': 'htmlfile transport only emits the first message', 'state': 'closed', 'created_at': '2012-05-28T11:37:44Z', 'closed_at': '2014-08-19T00:26:17Z', 'labels': []}
+{'issuenumber': 899, 'title': 'how can i set the max size that socket.io can recieve?', 'state': 'closed', 'created_at': '2012-05-25T10:18:36Z', 'closed_at': '2014-08-19T00:26:17Z', 'labels': []}
+{'issuenumber': 898, 'title': "Error: has no method 'handleDisconnect'. Please help.", 'state': 'closed', 'created_at': '2012-05-24T22:36:34Z', 'closed_at': '2012-05-25T19:40:39Z', 'labels': []}
+{'issuenumber': 897, 'title': "Can't the client send an ack to the server?", 'state': 'closed', 'created_at': '2012-05-23T18:41:24Z', 'closed_at': '2014-08-19T00:26:17Z', 'labels': []}
+{'issuenumber': 896, 'title': 'IE has not even sent the "connect" request.', 'state': 'closed', 'created_at': '2012-05-22T07:57:31Z', 'closed_at': '2014-08-19T00:26:17Z', 'labels': []}
+{'issuenumber': 895, 'title': 'Add Support for WebRTC-Data', 'state': 'closed', 'created_at': '2012-05-21T18:44:40Z', 'closed_at': '2014-08-19T00:26:17Z', 'labels': []}
+{'issuenumber': 894, 'title': 'allow client to reconnect after disconnect', 'state': 'closed', 'created_at': '2012-05-21T14:15:42Z', 'closed_at': '2014-08-19T00:26:17Z', 'labels': []}
+{'issuenumber': 893, 'title': 'Sending two consecutive emits is not registered by the client', 'state': 'closed', 'created_at': '2012-05-21T06:44:02Z', 'closed_at': '2012-05-23T07:12:07Z', 'labels': []}
+{'issuenumber': 892, 'title': 'Binary buffer encoding deprecated in Node >=0.7', 'state': 'closed', 'created_at': '2012-05-20T14:09:57Z', 'closed_at': '2014-08-19T00:26:17Z', 'labels': []}
+{'issuenumber': 890, 'title': 'disconnect a namespace', 'state': 'closed', 'created_at': '2012-05-18T10:49:26Z', 'closed_at': '2014-08-19T00:26:17Z', 'labels': []}
+{'issuenumber': 889, 'title': 'socket.get returning null on disconnect after client reconnect to restarted server', 'state': 'closed', 'created_at': '2012-05-17T09:28:06Z', 'closed_at': '2014-08-19T00:26:17Z', 'labels': []}
+{'issuenumber': 886, 'title': "Apply 'destroy buffer size' to websockets transport", 'state': 'closed', 'created_at': '2012-05-15T19:02:48Z', 'closed_at': '2014-08-19T00:26:17Z', 'labels': []}
+{'issuenumber': 885, 'title': 'Uncaught exception on writing in jsonp-polling', 'state': 'closed', 'created_at': '2012-05-15T07:36:41Z', 'closed_at': '2014-08-19T00:26:17Z', 'labels': []}
+{'issuenumber': 881, 'title': "Socket.IO doesn't work with Node's Cluster", 'state': 'closed', 'created_at': '2012-05-11T03:02:49Z', 'closed_at': '2012-05-21T04:15:38Z', 'labels': []}
+{'issuenumber': 880, 'title': 'Websocket Memory Leak', 'state': 'closed', 'created_at': '2012-05-10T23:34:03Z', 'closed_at': '2014-08-19T00:26:17Z', 'labels': []}
+{'issuenumber': 879, 'title': "Websocket transport doesn't connect in chrome", 'state': 'closed', 'created_at': '2012-05-10T15:01:09Z', 'closed_at': '2012-05-22T22:08:38Z', 'labels': []}
+{'issuenumber': 878, 'title': 'Is it safe to manually call $emit ?', 'state': 'closed', 'created_at': '2012-05-10T08:42:32Z', 'closed_at': '2014-08-19T00:26:17Z', 'labels': []}
+{'issuenumber': 874, 'title': 'Disconnect on user Idle', 'state': 'closed', 'created_at': '2012-05-07T22:15:14Z', 'closed_at': '2014-08-19T00:26:17Z', 'labels': []}
+{'issuenumber': 873, 'title': 'Getting exception  Disconnected[CONNECT_FAILED]: Web Socket closed unexpectedly...', 'state': 'closed', 'created_at': '2012-05-07T13:26:56Z', 'closed_at': '2014-08-19T00:26:17Z', 'labels': []}
+{'issuenumber': 872, 'title': 'strange heartbeat issue', 'state': 'closed', 'created_at': '2012-05-06T15:17:12Z', 'closed_at': '2014-08-19T00:26:17Z', 'labels': []}
+{'issuenumber': 871, 'title': 'Hang until setting new heartbeat interval', 'state': 'closed', 'created_at': '2012-05-06T13:22:20Z', 'closed_at': '2012-05-08T22:43:21Z', 'labels': []}
+{'issuenumber': 867, 'title': 'IE client not connecting with Socket.io java server', 'state': 'closed', 'created_at': '2012-05-02T12:54:42Z', 'closed_at': '2014-08-19T00:26:05Z', 'labels': []}
+{'issuenumber': 866, 'title': 'No v0.9.6 tag', 'state': 'closed', 'created_at': '2012-05-01T10:28:34Z', 'closed_at': '2014-08-19T00:26:05Z', 'labels': []}
+{'issuenumber': 864, 'title': 'Jsonp polling is not async in Opera?', 'state': 'closed', 'created_at': '2012-04-30T07:42:35Z', 'closed_at': '2014-08-19T00:26:05Z', 'labels': []}
+{'issuenumber': 863, 'title': 'Very Slow on consecutive and large messages', 'state': 'closed', 'created_at': '2012-04-29T19:54:17Z', 'closed_at': '2014-08-19T00:26:05Z', 'labels': []}
+{'issuenumber': 862, 'title': 'CPU 100% with Redis Store', 'state': 'closed', 'created_at': '2012-04-28T10:32:37Z', 'closed_at': '2014-08-19T00:26:05Z', 'labels': []}
+{'issuenumber': 860, 'title': 'Error in config documentation', 'state': 'closed', 'created_at': '2012-04-27T11:35:15Z', 'closed_at': '2014-08-19T00:26:05Z', 'labels': []}
+{'issuenumber': 859, 'title': 'Server-side protocol specification?', 'state': 'closed', 'created_at': '2012-04-27T07:08:55Z', 'closed_at': '2012-04-27T07:16:17Z', 'labels': []}
+{'issuenumber': 856, 'title': 'ID generation vulnerability', 'state': 'closed', 'created_at': '2012-04-26T21:19:43Z', 'closed_at': '2014-08-19T00:26:05Z', 'labels': []}
+{'issuenumber': 854, 'title': 'ECONNABORTED on Windows with TLS websockets', 'state': 'closed', 'created_at': '2012-04-26T17:27:50Z', 'closed_at': '2014-08-19T00:26:05Z', 'labels': []}
+{'issuenumber': 853, 'title': 'Flash socket policy error in Opera 11.62', 'state': 'closed', 'created_at': '2012-04-26T13:54:18Z', 'closed_at': '2012-04-28T09:31:59Z', 'labels': []}
+{'issuenumber': 850, 'title': 'Fixes debug error after handshake authorization', 'state': 'closed', 'created_at': '2012-04-24T07:02:16Z', 'closed_at': '2012-04-24T07:05:44Z', 'labels': []}
+{'issuenumber': 849, 'title': '"jsonppolling closed due to exceeded duration"', 'state': 'closed', 'created_at': '2012-04-24T00:56:34Z', 'closed_at': '2014-08-19T00:26:05Z', 'labels': []}
+{'issuenumber': 847, 'title': "flashsocket doesn't work over varnish", 'state': 'closed', 'created_at': '2012-04-23T19:12:03Z', 'closed_at': '2014-08-19T00:26:05Z', 'labels': []}
+{'issuenumber': 845, 'title': 'Implement a noConflict() equivalent, and allow for JSONP configuration of the callback.', 'state': 'closed', 'created_at': '2012-04-21T19:35:26Z', 'closed_at': '2014-08-19T00:26:05Z', 'labels': []}
+{'issuenumber': 844, 'title': 'Socket.io v0.9.6 keeps discarding established transport on Firefox 11.0 and Chrome 18.0', 'state': 'closed', 'created_at': '2012-04-20T14:18:56Z', 'closed_at': '2014-08-19T00:26:05Z', 'labels': []}
+{'issuenumber': 843, 'title': 'Not supporting with Express 3.0', 'state': 'closed', 'created_at': '2012-04-20T09:57:04Z', 'closed_at': '2012-08-29T17:02:15Z', 'labels': []}
+{'issuenumber': 842, 'title': 'error: Failed dependencies: \tperl(namespace) is needed by instance-stats-1.0.5-1.x86_64 ', 'state': 'closed', 'created_at': '2012-04-19T20:38:05Z', 'closed_at': '2014-08-19T00:26:05Z', 'labels': []}
+{'issuenumber': 840, 'title': 'Odd edge case with using bouncy + domain sockets + cluster + socket.io', 'state': 'closed', 'created_at': '2012-04-19T18:39:33Z', 'closed_at': '2014-08-19T00:26:05Z', 'labels': []}
+{'issuenumber': 839, 'title': 'Additional listener on refresh', 'state': 'closed', 'created_at': '2012-04-19T12:34:36Z', 'closed_at': '2014-08-19T00:26:05Z', 'labels': []}
+{'issuenumber': 838, 'title': 'Uncaught Error: INVALID_STATE_ERR: DOM Exception 11', 'state': 'closed', 'created_at': '2012-04-19T07:12:18Z', 'closed_at': '2014-08-19T00:26:05Z', 'labels': []}
+{'issuenumber': 837, 'title': "Can't got 'connect' event when using namespace in Internet Explore 6+ on client side", 'state': 'closed', 'created_at': '2012-04-19T06:43:44Z', 'closed_at': '2014-08-19T00:26:05Z', 'labels': []}
+{'issuenumber': 836, 'title': 'socket.io requires multiple refreshes for android browser to connect on WIFI', 'state': 'closed', 'created_at': '2012-04-19T00:04:09Z', 'closed_at': '2014-08-19T00:26:05Z', 'labels': []}
+{'issuenumber': 835, 'title': 'server can\'t receive "disconnect" event immediately for IE9', 'state': 'closed', 'created_at': '2012-04-18T15:41:08Z', 'closed_at': '2014-08-19T00:26:05Z', 'labels': []}
+{'issuenumber': 834, 'title': 'Socket Room feature needs callback', 'state': 'closed', 'created_at': '2012-04-18T02:48:16Z', 'closed_at': '2014-08-19T00:26:05Z', 'labels': []}
+{'issuenumber': 833, 'title': 'no messages after refresh', 'state': 'closed', 'created_at': '2012-04-16T20:49:29Z', 'closed_at': '2012-04-16T23:49:36Z', 'labels': []}
+{'issuenumber': 832, 'title': 'io.connect failed on ie6', 'state': 'closed', 'created_at': '2012-04-15T19:00:21Z', 'closed_at': '2014-08-19T00:26:05Z', 'labels': []}
+{'issuenumber': 831, 'title': 'Room leaving not synced with the cluster on disconnect.', 'state': 'closed', 'created_at': '2012-04-13T09:57:33Z', 'closed_at': '2014-08-19T00:26:05Z', 'labels': []}
+{'issuenumber': 830, 'title': 'does anyone have any example of how to use redisstore?', 'state': 'closed', 'created_at': '2012-04-13T01:32:46Z', 'closed_at': '2014-08-19T00:26:05Z', 'labels': []}
+{'issuenumber': 829, 'title': 'transport.js is adding listeners to the socket that nothing emits on', 'state': 'closed', 'created_at': '2012-04-12T10:43:49Z', 'closed_at': '2012-04-12T10:47:46Z', 'labels': []}
+{'issuenumber': 828, 'title': 'Best way to handle timeouts on acknowledgements', 'state': 'closed', 'created_at': '2012-04-11T22:08:19Z', 'closed_at': '2014-08-19T00:26:05Z', 'labels': []}
+{'issuenumber': 824, 'title': 'Your website makes it look like a google.inc project', 'state': 'closed', 'created_at': '2012-04-10T23:23:31Z', 'closed_at': '2014-08-19T00:26:05Z', 'labels': []}
+{'issuenumber': 823, 'title': '0.95 Socket Server double connections -  io.sockets.manager.server.connections', 'state': 'closed', 'created_at': '2012-04-10T22:27:35Z', 'closed_at': '2014-08-19T00:25:54Z', 'labels': []}
+{'issuenumber': 822, 'title': "Demo breaks Qt's web widget due to missing Content-Type", 'state': 'closed', 'created_at': '2012-04-10T15:59:56Z', 'closed_at': '2014-08-19T00:25:54Z', 'labels': []}
+{'issuenumber': 821, 'title': 'The "sys" module is now called "util". It should have a similar interface.', 'state': 'closed', 'created_at': '2012-04-10T03:13:48Z', 'closed_at': '2014-08-19T00:25:53Z', 'labels': []}
+{'issuenumber': 820, 'title': 'RangeError: Maximum call stack size exceeded in manager.js', 'state': 'closed', 'created_at': '2012-04-09T14:15:07Z', 'closed_at': '2014-08-19T00:25:53Z', 'labels': []}
+{'issuenumber': 819, 'title': 'Chrome and Firefox Unable to send message to server', 'state': 'closed', 'created_at': '2012-04-09T00:04:48Z', 'closed_at': '2014-08-19T00:25:53Z', 'labels': []}
+{'issuenumber': 818, 'title': 'Custom Server-Server Transport', 'state': 'closed', 'created_at': '2012-04-06T15:45:39Z', 'closed_at': '2012-04-06T16:21:54Z', 'labels': []}
+{'issuenumber': 817, 'title': 'Heartbeat interval / timeout wrong way around according to wiki', 'state': 'closed', 'created_at': '2012-04-06T14:34:29Z', 'closed_at': '2014-08-19T00:25:53Z', 'labels': []}
+{'issuenumber': 816, 'title': '(0.9.5)XHR polling - multiple/simultaneous requests cause data corruption and "transport discarded" event', 'state': 'closed', 'created_at': '2012-04-06T14:10:46Z', 'closed_at': '2012-04-26T07:44:42Z', 'labels': []}
+{'issuenumber': 815, 'title': 'Get users from the room', 'state': 'closed', 'created_at': '2012-04-01T12:19:25Z', 'closed_at': '2014-08-19T00:25:53Z', 'labels': []}
+{'issuenumber': 814, 'title': 'minimal example crashes (socket.io@0.9.3, node@0.7.7)', 'state': 'closed', 'created_at': '2012-03-31T09:37:55Z', 'closed_at': '2012-03-31T12:37:49Z', 'labels': []}
+{'issuenumber': 813, 'title': "flashsocket doesn't seem to work", 'state': 'closed', 'created_at': '2012-03-29T18:24:10Z', 'closed_at': '2014-08-19T00:25:53Z', 'labels': []}
+{'issuenumber': 812, 'title': 'Zeparse 8mb', 'state': 'closed', 'created_at': '2012-03-29T02:45:03Z', 'closed_at': '2014-08-19T00:25:53Z', 'labels': []}
+{'issuenumber': 808, 'title': 'Problem in connection to RedisStorage', 'state': 'closed', 'created_at': '2012-03-28T12:29:08Z', 'closed_at': '2014-08-19T00:25:53Z', 'labels': []}
+{'issuenumber': 807, 'title': 'Add ability to specify port on io.connect', 'state': 'closed', 'created_at': '2012-03-28T01:29:13Z', 'closed_at': '2012-03-28T04:02:38Z', 'labels': []}
+{'issuenumber': 805, 'title': 'Proper documentation', 'state': 'closed', 'created_at': '2012-03-26T08:15:42Z', 'closed_at': '2014-08-19T00:25:53Z', 'labels': []}
+{'issuenumber': 803, 'title': 'When emitting in room, clients in room are sent multiple copies of the same message', 'state': 'closed', 'created_at': '2012-03-22T19:36:03Z', 'closed_at': '2012-03-22T23:01:52Z', 'labels': []}
+{'issuenumber': 802, 'title': 'Decoration of the handshake request with arbitrary connect-style middleware', 'state': 'closed', 'created_at': '2012-03-22T15:41:01Z', 'closed_at': '2014-08-19T00:25:53Z', 'labels': []}
+{'issuenumber': 801, 'title': 'Chrome/ium: XHR Origin null is not allowed by Access-Control-Allow-Origin.', 'state': 'closed', 'created_at': '2012-03-22T02:18:00Z', 'closed_at': '2012-03-22T05:50:53Z', 'labels': []}
+{'issuenumber': 800, 'title': 'Make socket.io to be able to accept a logger instance of winston', 'state': 'closed', 'created_at': '2012-03-21T16:08:01Z', 'closed_at': '2012-03-21T16:31:19Z', 'labels': []}
+{'issuenumber': 799, 'title': 'argument order in auth callback', 'state': 'closed', 'created_at': '2012-03-21T08:51:14Z', 'closed_at': '2012-03-21T22:07:29Z', 'labels': []}
+{'issuenumber': 798, 'title': 'WebSocket is closed before the connection is established.', 'state': 'closed', 'created_at': '2012-03-19T23:39:04Z', 'closed_at': '2014-08-19T00:25:53Z', 'labels': []}
+{'issuenumber': 797, 'title': 'Namespaces colliding with rooms', 'state': 'closed', 'created_at': '2012-03-18T21:22:17Z', 'closed_at': '2014-08-19T00:25:53Z', 'labels': []}
+{'issuenumber': 796, 'title': 'Disconnecting from namespace should unjoin rooms', 'state': 'closed', 'created_at': '2012-03-18T21:16:28Z', 'closed_at': '2014-08-19T00:25:53Z', 'labels': []}
+{'issuenumber': 795, 'title': 'Server-side namespaced disconnect', 'state': 'closed', 'created_at': '2012-03-18T19:27:13Z', 'closed_at': '2014-08-19T00:25:53Z', 'labels': []}
+{'issuenumber': 794, 'title': "'in' is a reserved keyword.", 'state': 'closed', 'created_at': '2012-03-16T23:43:05Z', 'closed_at': '2014-08-19T00:25:53Z', 'labels': []}
+{'issuenumber': 793, 'title': 'If using match origin protocol, occasionally origin is undefined', 'state': 'closed', 'created_at': '2012-03-16T18:17:59Z', 'closed_at': '2014-08-19T00:25:53Z', 'labels': []}
+{'issuenumber': 790, 'title': 'Namespace error on CentOS5.5', 'state': 'closed', 'created_at': '2012-03-12T20:57:27Z', 'closed_at': '2014-08-19T00:25:53Z', 'labels': []}
+{'issuenumber': 789, 'title': 'Firefox falls back to XHR, but after a minute uses web sockets', 'state': 'closed', 'created_at': '2012-03-12T18:06:22Z', 'closed_at': '2014-08-19T00:25:53Z', 'labels': []}
+{'issuenumber': 788, 'title': 'firefox 3.6 xhr-polling syntax error ', 'state': 'closed', 'created_at': '2012-03-11T15:12:49Z', 'closed_at': '2012-03-28T00:03:58Z', 'labels': []}
+{'issuenumber': 786, 'title': 'Flashsocket transport only still falls back to Websocket in FF', 'state': 'closed', 'created_at': '2012-03-08T15:58:11Z', 'closed_at': '2014-08-19T00:25:53Z', 'labels': []}
+{'issuenumber': 785, 'title': "Socket.io doesn't work with connect 2.0.x", 'state': 'closed', 'created_at': '2012-03-06T20:46:00Z', 'closed_at': '2014-08-19T00:25:53Z', 'labels': []}
+{'issuenumber': 784, 'title': 'jsonp polling + IE7 + fast repetition of events', 'state': 'closed', 'created_at': '2012-03-06T18:00:22Z', 'closed_at': '2014-08-19T00:25:53Z', 'labels': []}
+{'issuenumber': 782, 'title': 'Sends duplicate message or drops messages when used under nginx proxy (w/ more than 1 instance + Redis Store)', 'state': 'closed', 'created_at': '2012-03-06T04:33:47Z', 'closed_at': '2014-08-19T00:25:53Z', 'labels': []}
+{'issuenumber': 781, 'title': 'Why no error parameter in emit/send acknowledge mechanism?', 'state': 'closed', 'created_at': '2012-03-05T17:39:03Z', 'closed_at': '2014-08-19T00:25:53Z', 'labels': []}
+{'issuenumber': 780, 'title': 'Client disconnects + reconnects every 35 seconds with different ID', 'state': 'closed', 'created_at': '2012-03-05T12:26:56Z', 'closed_at': '2014-08-19T00:25:42Z', 'labels': []}
+{'issuenumber': 779, 'title': 'Is it possible to log the transport method used?', 'state': 'closed', 'created_at': '2012-03-03T23:13:05Z', 'closed_at': '2012-03-04T10:34:52Z', 'labels': []}
+{'issuenumber': 778, 'title': 'Client library download hangs after upgrading node.js and socket.io ', 'state': 'closed', 'created_at': '2012-03-03T03:54:12Z', 'closed_at': '2014-08-19T00:25:42Z', 'labels': []}
+{'issuenumber': 777, 'title': "unexplained disconnect 'transport end' after upgrading", 'state': 'closed', 'created_at': '2012-03-03T03:21:39Z', 'closed_at': '2021-02-17T08:45:19Z', 'labels': []}
+{'issuenumber': 776, 'title': 'Google Chrome 16: XMLHttpRequest cannot load http://localhost:8000/socket.io/1/?t=1330690238048. Origin null is not allowed by Access-Control-Allow-Origin.', 'state': 'closed', 'created_at': '2012-03-02T12:12:10Z', 'closed_at': '2014-08-19T00:25:42Z', 'labels': []}
+{'issuenumber': 775, 'title': 'XMLHttpRequest cannot load http in google chrome browser', 'state': 'closed', 'created_at': '2012-03-02T02:35:41Z', 'closed_at': '2012-03-05T07:53:02Z', 'labels': []}
+{'issuenumber': 773, 'title': 'NPM Install - Dependency issue - socket.io -> socket.io-client -> ws -> node-waf', 'state': 'closed', 'created_at': '2012-02-29T19:56:12Z', 'closed_at': '2014-08-19T00:25:42Z', 'labels': []}
+{'issuenumber': 772, 'title': "Can't Install 0.9.0 On Node 0.6.11 and npm 1.1.2", 'state': 'closed', 'created_at': '2012-02-29T16:48:11Z', 'closed_at': '2012-03-01T11:22:53Z', 'labels': []}
+{'issuenumber': 770, 'title': "Callbacks don't work if broadcasted.", 'state': 'closed', 'created_at': '2012-02-29T08:04:43Z', 'closed_at': '2014-08-19T00:25:42Z', 'labels': []}
+{'issuenumber': 769, 'title': 'Please remove the C dependency', 'state': 'closed', 'created_at': '2012-02-27T18:51:43Z', 'closed_at': '2014-08-19T00:25:42Z', 'labels': []}
+{'issuenumber': 768, 'title': 'Uncaught SyntaxError: Unexpected token module', 'state': 'closed', 'created_at': '2012-02-27T12:47:34Z', 'closed_at': '2012-02-27T13:28:25Z', 'labels': []}
+{'issuenumber': 767, 'title': 'IE9 jsonp-polling with HTTPS fails to subscribe ', 'state': 'closed', 'created_at': '2012-02-25T17:38:25Z', 'closed_at': '2012-02-26T04:27:19Z', 'labels': []}
+{'issuenumber': 766, 'title': 'Support broadcasting raw blobs', 'state': 'closed', 'created_at': '2012-02-25T16:37:18Z', 'closed_at': '2014-08-19T00:25:42Z', 'labels': []}
+{'issuenumber': 765, 'title': 'Objective-C', 'state': 'closed', 'created_at': '2012-02-24T14:03:42Z', 'closed_at': '2014-08-19T00:25:42Z', 'labels': []}
+{'issuenumber': 764, 'title': 'Authentication fails - CORS', 'state': 'closed', 'created_at': '2012-02-24T13:19:24Z', 'closed_at': '2012-02-29T09:23:18Z', 'labels': []}
+{'issuenumber': 763, 'title': 'Cross domain socket.io connection fails', 'state': 'closed', 'created_at': '2012-02-24T07:46:09Z', 'closed_at': '2012-02-24T10:50:09Z', 'labels': []}
+{'issuenumber': 762, 'title': 'Cross domain socket.io connection fails', 'state': 'closed', 'created_at': '2012-02-24T07:42:12Z', 'closed_at': '2012-02-24T10:50:31Z', 'labels': []}
+{'issuenumber': 761, 'title': 'running socket.io from a subfolder', 'state': 'closed', 'created_at': '2012-02-23T09:38:38Z', 'closed_at': '2012-02-23T09:41:54Z', 'labels': []}
+{'issuenumber': 760, 'title': 'installation of 0.8.7 fails', 'state': 'closed', 'created_at': '2012-02-23T08:14:12Z', 'closed_at': '2014-08-19T00:25:42Z', 'labels': []}
+{'issuenumber': 758, 'title': 'duplicate events after disconnect / connect', 'state': 'closed', 'created_at': '2012-02-21T13:54:28Z', 'closed_at': '2012-02-22T10:53:44Z', 'labels': []}
+{'issuenumber': 757, 'title': 'client side disconnect()', 'state': 'closed', 'created_at': '2012-02-20T21:29:41Z', 'closed_at': '2012-03-11T15:33:42Z', 'labels': []}
+{'issuenumber': 756, 'title': 'Server-to-server connection?', 'state': 'closed', 'created_at': '2012-02-18T11:21:16Z', 'closed_at': '2014-08-19T00:25:42Z', 'labels': []}
+{'issuenumber': 755, 'title': '`message` event not firing any more', 'state': 'closed', 'created_at': '2012-02-17T19:17:50Z', 'closed_at': '2012-02-18T06:03:53Z', 'labels': []}
+{'issuenumber': 754, 'title': 'no way to handle peer certificates?', 'state': 'closed', 'created_at': '2012-02-17T05:29:51Z', 'closed_at': '2014-08-19T00:25:42Z', 'labels': []}
+{'issuenumber': 753, 'title': '"enable this when node 0.5 is stable"', 'state': 'closed', 'created_at': '2012-02-16T06:09:58Z', 'closed_at': '2014-08-19T00:25:42Z', 'labels': []}
+{'issuenumber': 752, 'title': 'Using deprecated redis module causes socket.io not to run on 0.7.3', 'state': 'closed', 'created_at': '2012-02-15T13:23:08Z', 'closed_at': '2012-09-07T13:37:01Z', 'labels': []}
+{'issuenumber': 751, 'title': 'Error in documentation', 'state': 'closed', 'created_at': '2012-02-15T11:42:18Z', 'closed_at': '2014-08-19T00:25:42Z', 'labels': []}
+{'issuenumber': 750, 'title': 'Round Robin load balancing fails for non-shared store', 'state': 'closed', 'created_at': '2012-02-14T23:32:38Z', 'closed_at': '2014-08-19T00:25:42Z', 'labels': []}
+{'issuenumber': 749, 'title': 'npm installation failure: uglify-js', 'state': 'closed', 'created_at': '2012-02-13T23:40:54Z', 'closed_at': '2012-02-13T23:45:41Z', 'labels': []}
+{'issuenumber': 748, 'title': 'client: errors', 'state': 'closed', 'created_at': '2012-02-13T22:19:28Z', 'closed_at': '2012-02-14T08:05:30Z', 'labels': []}
+{'issuenumber': 747, 'title': 'io.sockets is undefined', 'state': 'closed', 'created_at': '2012-02-13T22:14:23Z', 'closed_at': '2012-02-14T08:06:30Z', 'labels': []}
+{'issuenumber': 746, 'title': 'How to install without npm?', 'state': 'closed', 'created_at': '2012-02-13T20:53:38Z', 'closed_at': '2012-02-18T05:26:45Z', 'labels': []}
+{'issuenumber': 745, 'title': "socket.io doesn't work on WP7 mango", 'state': 'closed', 'created_at': '2012-02-13T20:07:00Z', 'closed_at': '2014-08-19T00:25:42Z', 'labels': []}
+{'issuenumber': 743, 'title': 'MongoDB Instead of Redis?', 'state': 'closed', 'created_at': '2012-02-09T15:45:08Z', 'closed_at': '2012-06-27T19:51:56Z', 'labels': []}
+{'issuenumber': 742, 'title': 'Reconnect evnent on Client Disconnect', 'state': 'closed', 'created_at': '2012-02-09T15:38:40Z', 'closed_at': '2014-08-19T00:25:42Z', 'labels': []}
+{'issuenumber': 741, 'title': 'SSL Memory Leak', 'state': 'closed', 'created_at': '2012-02-08T04:23:07Z', 'closed_at': '2014-08-19T00:25:42Z', 'labels': []}
+{'issuenumber': 740, 'title': '/', 'state': 'closed', 'created_at': '2012-02-06T14:43:24Z', 'closed_at': '2012-02-07T09:46:40Z', 'labels': []}
+{'issuenumber': 739, 'title': 'A really EASIST question:how to build a client page?', 'state': 'closed', 'created_at': '2012-02-06T13:26:06Z', 'closed_at': '2012-02-08T02:35:35Z', 'labels': []}
+{'issuenumber': 738, 'title': 'FlashSocket not working in webkit browsers', 'state': 'closed', 'created_at': '2012-02-06T01:00:19Z', 'closed_at': '2012-02-06T01:49:53Z', 'labels': []}
+{'issuenumber': 736, 'title': "endpoint-flag not set on 'connection'-event", 'state': 'closed', 'created_at': '2012-02-03T07:27:53Z', 'closed_at': '2014-08-19T00:25:42Z', 'labels': []}
+{'issuenumber': 735, 'title': 'event middleware', 'state': 'closed', 'created_at': '2012-01-31T17:32:25Z', 'closed_at': '2014-08-19T00:25:42Z', 'labels': []}
+{'issuenumber': 734, 'title': 'Scaling Socket.IO and broadcast to scaled clients on different server', 'state': 'closed', 'created_at': '2012-01-31T06:04:05Z', 'closed_at': '2014-08-19T00:25:42Z', 'labels': []}
+{'issuenumber': 733, 'title': 'server not parsing to JSON', 'state': 'closed', 'created_at': '2012-01-29T23:03:19Z', 'closed_at': '2014-08-19T00:25:41Z', 'labels': []}
+{'issuenumber': 731, 'title': 'hybi-07-12.js onSocketConnect incorrectly emits a socket "connection" event', 'state': 'closed', 'created_at': '2012-01-27T14:54:55Z', 'closed_at': '2014-08-19T00:25:41Z', 'labels': []}
+{'issuenumber': 730, 'title': 'Server-Sent Events transport', 'state': 'closed', 'created_at': '2012-01-27T10:49:10Z', 'closed_at': '2012-01-28T02:37:57Z', 'labels': []}
+{'issuenumber': 727, 'title': 'client-side: unable to reconnect after disconnect', 'state': 'closed', 'created_at': '2012-01-22T19:40:09Z', 'closed_at': '2012-02-03T23:55:19Z', 'labels': []}
+{'issuenumber': 724, 'title': 'master branch is unable to use xhr-polling', 'state': 'closed', 'created_at': '2012-01-19T03:57:17Z', 'closed_at': '2014-08-19T00:25:41Z', 'labels': []}
+{'issuenumber': 723, 'title': 'Redis+Cluster clients count not in sync', 'state': 'closed', 'created_at': '2012-01-18T23:08:00Z', 'closed_at': '2014-08-19T00:25:41Z', 'labels': []}
+{'issuenumber': 722, 'title': 'Update redis version (dependencies)', 'state': 'closed', 'created_at': '2012-01-18T21:22:14Z', 'closed_at': '2014-08-19T00:25:32Z', 'labels': []}
+{'issuenumber': 721, 'title': 'Secure=undefined after secure handshake.', 'state': 'closed', 'created_at': '2012-01-18T17:16:50Z', 'closed_at': '2014-08-19T00:25:32Z', 'labels': []}
+{'issuenumber': 720, 'title': 'Socket.io lags on start time', 'state': 'closed', 'created_at': '2012-01-12T08:15:07Z', 'closed_at': '2012-01-12T16:46:04Z', 'labels': []}
+{'issuenumber': 719, 'title': 'MongoStore plans?', 'state': 'closed', 'created_at': '2012-01-12T05:29:24Z', 'closed_at': '2012-01-30T04:02:49Z', 'labels': []}
+{'issuenumber': 718, 'title': 'memory leak?', 'state': 'closed', 'created_at': '2012-01-12T01:25:37Z', 'closed_at': '2014-08-19T00:25:32Z', 'labels': []}
+{'issuenumber': 716, 'title': 'Reconnect on error', 'state': 'closed', 'created_at': '2012-01-11T04:20:45Z', 'closed_at': '2014-08-19T00:25:31Z', 'labels': []}
+{'issuenumber': 715, 'title': 'targetStart out of bounds in websocket', 'state': 'closed', 'created_at': '2012-01-10T22:04:13Z', 'closed_at': '2014-08-19T00:25:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 714, 'title': "on('disconnect') not fired from a namespace.", 'state': 'closed', 'created_at': '2012-01-10T01:22:11Z', 'closed_at': '2014-08-19T00:25:31Z', 'labels': []}
+{'issuenumber': 713, 'title': "Listening to 'connection' event with io.on not working", 'state': 'closed', 'created_at': '2012-01-10T00:34:44Z', 'closed_at': '2012-02-09T22:33:47Z', 'labels': []}
+{'issuenumber': 712, 'title': "Sockets stay open long after 'close' is called.", 'state': 'closed', 'created_at': '2012-01-06T04:03:52Z', 'closed_at': '2014-08-19T00:25:31Z', 'labels': []}
+{'issuenumber': 711, 'title': 'Array.prototype.indexOf on page kills socket.io client', 'state': 'closed', 'created_at': '2012-01-06T04:01:03Z', 'closed_at': '2014-08-19T00:25:31Z', 'labels': []}
+{'issuenumber': 710, 'title': "packet.ack = lastArg.length ? 'data' : true;   in socket.js", 'state': 'closed', 'created_at': '2012-01-06T01:21:02Z', 'closed_at': '2014-08-19T00:25:31Z', 'labels': []}
+{'issuenumber': 709, 'title': 'Memory leak? [Node 0.6.6]', 'state': 'closed', 'created_at': '2012-01-05T22:45:25Z', 'closed_at': '2012-01-23T16:55:31Z', 'labels': []}
+{'issuenumber': 708, 'title': 'Not working on Port 80', 'state': 'closed', 'created_at': '2012-01-05T17:08:51Z', 'closed_at': '2014-08-19T00:25:31Z', 'labels': []}
+{'issuenumber': 707, 'title': 'Have callback method', 'state': 'closed', 'created_at': '2012-01-05T00:08:10Z', 'closed_at': '2014-08-19T00:25:31Z', 'labels': []}
+{'issuenumber': 705, 'title': 'SlowBuffer issue', 'state': 'closed', 'created_at': '2012-01-02T18:50:33Z', 'closed_at': '2014-08-19T00:25:31Z', 'labels': []}
+{'issuenumber': 704, 'title': 'Cannot get client working', 'state': 'closed', 'created_at': '2011-12-29T19:49:25Z', 'closed_at': '2011-12-29T20:00:21Z', 'labels': []}
+{'issuenumber': 703, 'title': 'Cannot get client working', 'state': 'closed', 'created_at': '2011-12-29T18:27:04Z', 'closed_at': '2011-12-29T18:58:35Z', 'labels': []}
+{'issuenumber': 702, 'title': 'Feature request: Cross process communication', 'state': 'closed', 'created_at': '2011-12-27T14:34:35Z', 'closed_at': '2011-12-29T18:59:31Z', 'labels': []}
+{'issuenumber': 701, 'title': '"Unspecified error" with Flashsocket over HTTPS', 'state': 'closed', 'created_at': '2011-12-27T14:16:55Z', 'closed_at': '2014-08-19T00:25:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 700, 'title': 'ECONNRESET, Connection reset by peer', 'state': 'closed', 'created_at': '2011-12-27T06:58:12Z', 'closed_at': '2014-08-19T00:25:31Z', 'labels': []}
+{'issuenumber': 699, 'title': 'Unicode issue with iOS Emoji', 'state': 'closed', 'created_at': '2011-12-26T00:08:04Z', 'closed_at': '2014-08-19T00:25:31Z', 'labels': []}
+{'issuenumber': 698, 'title': 'Custom Handler for unhandled socket.io requests', 'state': 'closed', 'created_at': '2011-12-24T04:18:15Z', 'closed_at': '2014-08-19T00:25:31Z', 'labels': []}
+{'issuenumber': 697, 'title': 'Express vhosts falls back to xhr', 'state': 'closed', 'created_at': '2011-12-21T03:27:13Z', 'closed_at': '2014-08-19T00:25:31Z', 'labels': []}
+{'issuenumber': 696, 'title': 'Configuring Nginx and Socket.IO', 'state': 'closed', 'created_at': '2011-12-21T03:07:12Z', 'closed_at': '2011-12-29T19:15:12Z', 'labels': []}
+{'issuenumber': 695, 'title': 'how to stop server debugging mode ', 'state': 'closed', 'created_at': '2011-12-20T06:04:20Z', 'closed_at': '2011-12-29T19:16:15Z', 'labels': []}
+{'issuenumber': 694, 'title': 'why this error is coming ', 'state': 'closed', 'created_at': '2011-12-19T07:25:30Z', 'closed_at': '2011-12-29T19:16:59Z', 'labels': []}
+{'issuenumber': 693, 'title': 'Can i use socket.io client version 0.6.1 with Socket.io Server Version ', 'state': 'closed', 'created_at': '2011-12-19T05:38:47Z', 'closed_at': '2011-12-29T19:18:16Z', 'labels': []}
+{'issuenumber': 692, 'title': 'Segmentation Fault ', 'state': 'closed', 'created_at': '2011-12-18T11:52:48Z', 'closed_at': '2011-12-29T19:21:04Z', 'labels': []}
+{'issuenumber': 691, 'title': "Losing connection/reconnect issue in WP7 using 'htmlfile' transport", 'state': 'closed', 'created_at': '2011-12-17T23:52:58Z', 'closed_at': '2014-08-19T00:25:31Z', 'labels': []}
+{'issuenumber': 690, 'title': 'Socket.io reconnects occur hardly often on node 0.6.x', 'state': 'closed', 'created_at': '2011-12-17T23:21:17Z', 'closed_at': '2011-12-24T00:36:49Z', 'labels': []}
+{'issuenumber': 687, 'title': "Wiki typo in 'Configuring Socket.io'", 'state': 'closed', 'created_at': '2011-12-16T03:54:34Z', 'closed_at': '2011-12-16T04:16:45Z', 'labels': []}
+{'issuenumber': 686, 'title': 'issues scaling across processes with the Redis store', 'state': 'closed', 'created_at': '2011-12-15T20:13:45Z', 'closed_at': '2014-08-19T00:25:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 685, 'title': '"Storing data associated to a client" example incorrect', 'state': 'closed', 'created_at': '2011-12-15T16:27:53Z', 'closed_at': '2014-08-19T00:25:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 682, 'title': 'Horizontal Scaling', 'state': 'closed', 'created_at': '2011-12-12T11:49:25Z', 'closed_at': '2011-12-29T19:31:12Z', 'labels': []}
+{'issuenumber': 681, 'title': 'RedisStore Auth', 'state': 'closed', 'created_at': '2011-12-11T11:48:11Z', 'closed_at': '2011-12-12T06:29:21Z', 'labels': []}
+{'issuenumber': 680, 'title': 'Support binary framing and transport', 'state': 'closed', 'created_at': '2011-12-09T06:31:19Z', 'closed_at': '2014-08-19T00:25:31Z', 'labels': []}
+{'issuenumber': 679, 'title': 'FATAL ERROR: JS Allocation failed', 'state': 'closed', 'created_at': '2011-12-07T12:08:21Z', 'closed_at': '2011-12-29T19:32:55Z', 'labels': []}
+{'issuenumber': 678, 'title': 'socket.io not working with uncaughtException', 'state': 'closed', 'created_at': '2011-12-05T09:04:06Z', 'closed_at': '2011-12-08T06:34:07Z', 'labels': []}
+{'issuenumber': 677, 'title': 'socket.io is crash-happy', 'state': 'closed', 'created_at': '2011-12-04T12:00:55Z', 'closed_at': '2011-12-29T19:33:22Z', 'labels': []}
+{'issuenumber': 676, 'title': 'Cookie not recive from Firefox 8 in handshakeData.headers', 'state': 'closed', 'created_at': '2011-12-03T20:12:12Z', 'closed_at': '2012-02-24T13:21:00Z', 'labels': []}
+{'issuenumber': 675, 'title': 'Allow me to specify port AND hostname on .listen()', 'state': 'closed', 'created_at': '2011-12-02T11:22:29Z', 'closed_at': '2014-08-19T00:25:31Z', 'labels': []}
+{'issuenumber': 674, 'title': 'socket keep alive', 'state': 'closed', 'created_at': '2011-12-01T17:40:26Z', 'closed_at': '2014-08-19T00:25:31Z', 'labels': []}
+{'issuenumber': 673, 'title': 'io.sockets.emit not working with namespaces', 'state': 'closed', 'created_at': '2011-12-01T03:38:38Z', 'closed_at': '2014-08-19T00:25:31Z', 'labels': []}
+{'issuenumber': 672, 'title': 'i wanna detailed installation method for socket.io! please help!', 'state': 'closed', 'created_at': '2011-11-30T16:29:20Z', 'closed_at': '2014-08-19T00:25:31Z', 'labels': []}
+{'issuenumber': 671, 'title': 'bug xhr-polling in firefox 8, win XP', 'state': 'closed', 'created_at': '2011-11-30T00:40:12Z', 'closed_at': '2012-02-14T20:13:07Z', 'labels': []}
+{'issuenumber': 670, 'title': 'Firefox 3.6', 'state': 'closed', 'created_at': '2011-11-29T23:38:10Z', 'closed_at': '2014-08-19T00:25:21Z', 'labels': []}
+{'issuenumber': 669, 'title': 'Socket.IO merges unicode combining accent marks during transport', 'state': 'closed', 'created_at': '2011-11-29T19:41:32Z', 'closed_at': '2014-08-19T00:25:21Z', 'labels': []}
+{'issuenumber': 668, 'title': 'node v0.6.3 can not install', 'state': 'closed', 'created_at': '2011-11-29T12:22:58Z', 'closed_at': '2014-08-19T00:25:21Z', 'labels': []}
+{'issuenumber': 666, 'title': 'Send packet to client in a particular room', 'state': 'closed', 'created_at': '2011-11-25T19:05:08Z', 'closed_at': '2011-11-28T10:56:01Z', 'labels': []}
+{'issuenumber': 664, 'title': "TypeError: Cannot call method 'on' of undefined", 'state': 'closed', 'created_at': '2011-11-24T17:09:43Z', 'closed_at': '2011-11-24T18:07:10Z', 'labels': []}
+{'issuenumber': 663, 'title': 'socket.io redis store leaks channels', 'state': 'closed', 'created_at': '2011-11-23T21:51:24Z', 'closed_at': '2011-12-07T18:18:38Z', 'labels': []}
+{'issuenumber': 658, 'title': "'document.body' is null or not an object (line 3044) (socket.io.js)", 'state': 'closed', 'created_at': '2011-11-22T13:58:11Z', 'closed_at': '2014-08-19T00:25:21Z', 'labels': []}
+{'issuenumber': 657, 'title': 'Opera problem with cross domain / port requests', 'state': 'closed', 'created_at': '2011-11-21T23:32:28Z', 'closed_at': '2014-08-19T00:25:21Z', 'labels': []}
+{'issuenumber': 656, 'title': 'High amount of items in socket.manager.closed', 'state': 'closed', 'created_at': '2011-11-21T22:13:34Z', 'closed_at': '2014-08-19T00:25:21Z', 'labels': []}
+{'issuenumber': 654, 'title': 'API documentation for io.sockets.clients', 'state': 'closed', 'created_at': '2011-11-21T15:06:41Z', 'closed_at': '2014-08-19T00:25:21Z', 'labels': []}
+{'issuenumber': 652, 'title': 'reconnect_failed gets never fired', 'state': 'closed', 'created_at': '2011-11-19T21:37:42Z', 'closed_at': '2014-08-19T00:25:21Z', 'labels': []}
+{'issuenumber': 651, 'title': 'Android XHR longpoll "reconnects" each time', 'state': 'closed', 'created_at': '2011-11-19T13:03:06Z', 'closed_at': '2014-08-19T00:25:21Z', 'labels': []}
+{'issuenumber': 650, 'title': 'Socket.io client page only works at /', 'state': 'closed', 'created_at': '2011-11-18T14:37:28Z', 'closed_at': '2014-08-19T00:25:21Z', 'labels': []}
+{'issuenumber': 649, 'title': 'Strange bugs with RedisStore, messages being dropped silently?', 'state': 'closed', 'created_at': '2011-11-18T03:58:39Z', 'closed_at': '2014-08-19T00:25:21Z', 'labels': []}
+{'issuenumber': 648, 'title': "Takes very long for android devices to receive a 'disconnect' event after terminating the server process", 'state': 'closed', 'created_at': '2011-11-18T02:12:23Z', 'closed_at': '2014-08-19T00:25:21Z', 'labels': []}
+{'issuenumber': 647, 'title': 'I cannot use it: random disconnects', 'state': 'closed', 'created_at': '2011-11-17T15:58:13Z', 'closed_at': '2014-08-19T00:25:21Z', 'labels': []}
+{'issuenumber': 645, 'title': "socket.send() callbacks don't work", 'state': 'closed', 'created_at': '2011-11-15T14:47:35Z', 'closed_at': '2014-08-19T00:25:21Z', 'labels': []}
+{'issuenumber': 644, 'title': 'Crash Socket.io when 2 connections at the same moment', 'state': 'closed', 'created_at': '2011-11-15T11:08:31Z', 'closed_at': '2011-11-15T12:21:09Z', 'labels': []}
+{'issuenumber': 642, 'title': 'NPM is unable to install latest socket.io (node 0.6.1)', 'state': 'closed', 'created_at': '2011-11-14T14:52:26Z', 'closed_at': '2011-11-14T15:04:41Z', 'labels': []}
+{'issuenumber': 641, 'title': "events.js:48 throw arguments[1]; // Unhandled 'error' event", 'state': 'closed', 'created_at': '2011-11-14T13:25:31Z', 'closed_at': '2011-11-14T13:31:44Z', 'labels': []}
+{'issuenumber': 640, 'title': 'Reconnection Authorization Error', 'state': 'closed', 'created_at': '2011-11-14T11:36:36Z', 'closed_at': '2011-12-02T11:54:28Z', 'labels': []}
+{'issuenumber': 638, 'title': 'Origins with Port 80', 'state': 'closed', 'created_at': '2011-11-14T07:20:50Z', 'closed_at': '2011-11-14T10:16:07Z', 'labels': []}
+{'issuenumber': 637, 'title': 'No connection at all', 'state': 'closed', 'created_at': '2011-11-12T18:34:22Z', 'closed_at': '2011-11-12T23:49:00Z', 'labels': []}
+{'issuenumber': 636, 'title': '"io is not defined" with nodejs06 Windows', 'state': 'closed', 'created_at': '2011-11-11T13:15:54Z', 'closed_at': '2011-11-12T17:01:16Z', 'labels': []}
+{'issuenumber': 635, 'title': 'client-side disconnect is not detected', 'state': 'closed', 'created_at': '2011-11-11T08:08:32Z', 'closed_at': '2017-04-07T06:20:34Z', 'labels': []}
+{'issuenumber': 632, 'title': 'Authorization in Socket IO', 'state': 'closed', 'created_at': '2011-11-09T06:23:48Z', 'closed_at': '2011-11-09T07:23:11Z', 'labels': []}
+{'issuenumber': 631, 'title': 'Authorization in Socket IO', 'state': 'closed', 'created_at': '2011-11-09T06:23:02Z', 'closed_at': '2011-11-14T10:17:03Z', 'labels': []}
+{'issuenumber': 629, 'title': 'Cannot connect using websockets in Chrome 15.0.874.106', 'state': 'closed', 'created_at': '2011-11-08T22:56:00Z', 'closed_at': '2011-11-09T18:37:42Z', 'labels': []}
+{'issuenumber': 628, 'title': 'NodeJS v0.6.0 (current Homebrew head revision) breaks socket.io-0.8.7 (npm head revision)', 'state': 'closed', 'created_at': '2011-11-08T19:14:23Z', 'closed_at': '2014-08-19T00:25:21Z', 'labels': []}
+{'issuenumber': 627, 'title': 'FlashSockets crash IE9 in high latency environment', 'state': 'closed', 'created_at': '2011-11-08T15:39:21Z', 'closed_at': '2014-08-19T00:25:21Z', 'labels': []}
+{'issuenumber': 626, 'title': 'Error unpacking socket.io', 'state': 'closed', 'created_at': '2011-11-08T00:08:17Z', 'closed_at': '2011-11-08T00:46:35Z', 'labels': []}
+{'issuenumber': 625, 'title': '[Regression error] Missing cookie in authorization function', 'state': 'closed', 'created_at': '2011-11-07T11:38:46Z', 'closed_at': '2014-08-19T00:25:21Z', 'labels': []}
+{'issuenumber': 623, 'title': "Cannot call method 'writeHead' of undefined", 'state': 'closed', 'created_at': '2011-11-04T09:26:43Z', 'closed_at': '2011-11-04T09:30:56Z', 'labels': []}
+{'issuenumber': 620, 'title': 'TypeError at WebSocket.onSocketConnect crashes app on Heroku. Locally, app runs fine', 'state': 'closed', 'created_at': '2011-11-02T20:44:25Z', 'closed_at': '2014-08-19T00:25:21Z', 'labels': []}
+{'issuenumber': 619, 'title': "warming 'websocket connection invalid'  in new version chrome 15.0.8 74.106", 'state': 'closed', 'created_at': '2011-11-02T10:06:05Z', 'closed_at': '2014-08-19T00:25:21Z', 'labels': []}
+{'issuenumber': 618, 'title': 'Clients don', 'state': 'closed', 'created_at': '2011-11-02T10:00:11Z', 'closed_at': '2011-11-02T10:06:18Z', 'labels': []}
+{'issuenumber': 615, 'title': "TypeError: Cannot call method 'writeHead' of undefined | JSONPPolling.doWrite()", 'state': 'closed', 'created_at': '2011-11-01T18:30:56Z', 'closed_at': '2011-11-02T00:19:22Z', 'labels': []}
+{'issuenumber': 614, 'title': "Transport may be undefined: Cannot read property 'name' of undefined  ", 'state': 'closed', 'created_at': '2011-11-01T16:26:46Z', 'closed_at': '2014-08-19T00:25:21Z', 'labels': []}
+{'issuenumber': 613, 'title': 'Opera: spinning loading indicator', 'state': 'closed', 'created_at': '2011-11-01T12:20:29Z', 'closed_at': '2014-08-19T00:25:21Z', 'labels': []}
+{'issuenumber': 612, 'title': "Serious memory leaks: Internal objects don't clean up", 'state': 'closed', 'created_at': '2011-11-01T11:27:21Z', 'closed_at': '2014-08-19T00:25:21Z', 'labels': []}
+{'issuenumber': 611, 'title': 'Duplicate JSONP Poll setting and clearing!!', 'state': 'closed', 'created_at': '2011-11-01T11:16:44Z', 'closed_at': '2011-11-25T09:22:38Z', 'labels': []}
+{'issuenumber': 610, 'title': '40ms round-trip time on ubuntu', 'state': 'closed', 'created_at': '2011-11-01T08:23:39Z', 'closed_at': '2014-08-19T00:25:20Z', 'labels': []}
+{'issuenumber': 609, 'title': "Cannot call method 'writeHead' of undefined", 'state': 'closed', 'created_at': '2011-11-01T05:55:16Z', 'closed_at': '2014-08-19T00:25:20Z', 'labels': []}
+{'issuenumber': 608, 'title': 'Memory leak in namespaces', 'state': 'closed', 'created_at': '2011-10-31T19:21:08Z', 'closed_at': '2014-08-19T00:25:07Z', 'labels': []}
+{'issuenumber': 607, 'title': 'random disconnect of client in socket.io (even with v0.8.6)', 'state': 'closed', 'created_at': '2011-10-31T12:50:08Z', 'closed_at': '2014-08-19T00:25:07Z', 'labels': []}
+{'issuenumber': 606, 'title': 'websocket error in https (websocket network error)', 'state': 'closed', 'created_at': '2011-10-31T09:09:16Z', 'closed_at': '2014-08-19T00:25:07Z', 'labels': []}
+{'issuenumber': 605, 'title': 'Socket interrupted in v0.8.6 and Firefox 7.0.1', 'state': 'closed', 'created_at': '2011-10-30T20:16:07Z', 'closed_at': '2011-11-01T04:52:10Z', 'labels': []}
+{'issuenumber': 604, 'title': 'Documentation for cross-host persistence w/ Redis or other NoSQL DB', 'state': 'closed', 'created_at': '2011-10-29T22:09:57Z', 'closed_at': '2014-08-19T00:25:07Z', 'labels': []}
+{'issuenumber': 603, 'title': 'Remove Redis as Dep?', 'state': 'closed', 'created_at': '2011-10-28T20:20:44Z', 'closed_at': '2011-10-28T23:14:55Z', 'labels': []}
+{'issuenumber': 602, 'title': 'this.req.headers.upgrade is undefined when trying to call toLowerCase()', 'state': 'closed', 'created_at': '2011-10-28T11:18:38Z', 'closed_at': '2011-11-12T12:26:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 601, 'title': 'Multiplexing connection and client disconnect', 'state': 'closed', 'created_at': '2011-10-28T10:41:29Z', 'closed_at': '2011-10-28T10:56:16Z', 'labels': []}
+{'issuenumber': 600, 'title': 'Performance dropped-down in 4-5x times after upgrade to sio v0.8.5 from 0.8.4', 'state': 'closed', 'created_at': '2011-10-28T00:48:55Z', 'closed_at': '2014-08-19T00:25:07Z', 'labels': []}
+{'issuenumber': 597, 'title': ' share the same socket.io channel among browser tabs', 'state': 'closed', 'created_at': '2011-10-25T20:49:17Z', 'closed_at': '2014-08-19T00:25:07Z', 'labels': []}
+{'issuenumber': 595, 'title': 'HEAD Request - node warning', 'state': 'closed', 'created_at': '2011-10-25T17:15:21Z', 'closed_at': '2014-08-19T00:25:07Z', 'labels': []}
+{'issuenumber': 594, 'title': "Ubuntu 11.04 +Node 0.4.12 can't work", 'state': 'closed', 'created_at': '2011-10-25T05:07:18Z', 'closed_at': '2011-10-25T06:50:35Z', 'labels': []}
+{'issuenumber': 592, 'title': 'socket.io example not compatible with v0.5.10', 'state': 'closed', 'created_at': '2011-10-24T20:32:47Z', 'closed_at': '2014-08-19T00:25:07Z', 'labels': []}
+{'issuenumber': 589, 'title': 'Problems with Squid 2.7 and Socket.IO - 502 Bad gateway.  No transports work.', 'state': 'closed', 'created_at': '2011-10-21T07:44:00Z', 'closed_at': '2014-08-19T00:25:07Z', 'labels': []}
+{'issuenumber': 587, 'title': 'share the same socket.io channel among browser tabs', 'state': 'closed', 'created_at': '2011-10-20T02:14:01Z', 'closed_at': '2014-08-19T00:25:07Z', 'labels': []}
+{'issuenumber': 586, 'title': 'Session update', 'state': 'closed', 'created_at': '2011-10-19T17:56:58Z', 'closed_at': '2011-10-19T18:30:09Z', 'labels': []}
+{'issuenumber': 585, 'title': 'hybi-17 Unsupported', 'state': 'closed', 'created_at': '2011-10-19T14:11:39Z', 'closed_at': '2011-10-19T14:23:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 584, 'title': 'Run APP.JS exception', 'state': 'closed', 'created_at': '2011-10-19T12:42:38Z', 'closed_at': '2011-10-19T13:58:43Z', 'labels': []}
+{'issuenumber': 583, 'title': '"websocket connection invalid" on Chromium nightlies', 'state': 'closed', 'created_at': '2011-10-17T21:13:48Z', 'closed_at': '2011-10-17T21:27:37Z', 'labels': []}
+{'issuenumber': 579, 'title': "Socket.IO websocket transport doesn't work with 0.5.x", 'state': 'closed', 'created_at': '2011-10-14T01:32:35Z', 'closed_at': '2011-10-14T07:21:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 577, 'title': "manager.js:466: TypeError: Cannot read property '' of undefined", 'state': 'closed', 'created_at': '2011-10-13T09:12:07Z', 'closed_at': '2011-10-13T09:37:24Z', 'labels': []}
+{'issuenumber': 575, 'title': 'TypeError: Converting circular structure to JSON - when using RedisStore', 'state': 'closed', 'created_at': '2011-10-13T00:33:37Z', 'closed_at': '2011-10-13T08:41:18Z', 'labels': []}
+{'issuenumber': 574, 'title': 'Client with number of connections to same server causes transports to error', 'state': 'closed', 'created_at': '2011-10-12T20:13:50Z', 'closed_at': '2014-08-19T00:25:07Z', 'labels': []}
+{'issuenumber': 572, 'title': 'Unicode send issue (make server disconnect clients)', 'state': 'closed', 'created_at': '2011-10-12T15:37:09Z', 'closed_at': '2011-11-09T12:11:30Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 571, 'title': 'Unicode Parsing Issue', 'state': 'closed', 'created_at': '2011-10-12T15:28:29Z', 'closed_at': '2014-08-19T00:25:07Z', 'labels': []}
+{'issuenumber': 568, 'title': 'Impossible to get socket.io from a Express route', 'state': 'closed', 'created_at': '2011-10-11T06:32:14Z', 'closed_at': '2011-10-11T07:10:24Z', 'labels': []}
+{'issuenumber': 567, 'title': 'Impossible to get socket.io from a Express route', 'state': 'closed', 'created_at': '2011-10-11T06:32:00Z', 'closed_at': '2011-10-11T07:11:17Z', 'labels': []}
+{'issuenumber': 566, 'title': 'Impossible to get socket.io from a Express route', 'state': 'closed', 'created_at': '2011-10-11T06:30:52Z', 'closed_at': '2011-10-11T07:11:17Z', 'labels': []}
+{'issuenumber': 565, 'title': "Can't disable flash policy server", 'state': 'closed', 'created_at': '2011-10-11T06:03:54Z', 'closed_at': '2014-08-19T00:25:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 560, 'title': 'Authorization error messages', 'state': 'closed', 'created_at': '2011-10-07T12:06:08Z', 'closed_at': '2011-10-11T07:13:58Z', 'labels': []}
+{'issuenumber': 559, 'title': " Object #<WebSocket> has no method 'payload'", 'state': 'closed', 'created_at': '2011-10-05T11:05:06Z', 'closed_at': '2011-10-05T11:13:04Z', 'labels': []}
+{'issuenumber': 558, 'title': 'client js version number in request... expires headers returned', 'state': 'closed', 'created_at': '2011-10-05T02:07:00Z', 'closed_at': '2011-10-10T18:20:39Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 557, 'title': 'Error serving static files when a head request is made', 'state': 'closed', 'created_at': '2011-10-04T18:23:56Z', 'closed_at': '2011-10-10T19:04:37Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 556, 'title': 'Blocking behavior when using polling', 'state': 'closed', 'created_at': '2011-10-04T16:10:24Z', 'closed_at': '2014-08-19T00:25:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 555, 'title': "throw new Error('Socket is not writable');", 'state': 'closed', 'created_at': '2011-10-02T15:55:00Z', 'closed_at': '2011-10-27T04:51:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 553, 'title': "Origin isn't checked for websocket connects after initial handshake", 'state': 'closed', 'created_at': '2011-10-02T14:32:45Z', 'closed_at': '2011-10-02T17:59:42Z', 'labels': []}
+{'issuenumber': 552, 'title': "events.js:48 throw arguments[1]; // Unhandled 'error' event", 'state': 'closed', 'created_at': '2011-10-01T21:27:00Z', 'closed_at': '2011-11-14T13:30:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 549, 'title': "node crash: node: src/uv-common.c:92: uv_err_name: Assertion `0' failed.", 'state': 'closed', 'created_at': '2011-10-01T02:38:20Z', 'closed_at': '2011-10-01T07:12:07Z', 'labels': []}
+{'issuenumber': 548, 'title': 'Socket.io appears not to be working in Firefox 8 on Linux', 'state': 'closed', 'created_at': '2011-09-30T23:34:17Z', 'closed_at': '2012-05-22T09:31:07Z', 'labels': []}
+{'issuenumber': 547, 'title': 'Origin is not allowed by Access-Control-Allow-Origin.', 'state': 'closed', 'created_at': '2011-09-30T19:44:07Z', 'closed_at': '2014-08-19T00:25:07Z', 'labels': []}
+{'issuenumber': 546, 'title': 'disconnect callback not call for disconnect()', 'state': 'closed', 'created_at': '2011-09-30T15:30:36Z', 'closed_at': '2011-10-25T09:04:23Z', 'labels': []}
+{'issuenumber': 545, 'title': 'Authorization and handshake errors', 'state': 'closed', 'created_at': '2011-09-30T10:27:15Z', 'closed_at': '2014-08-19T00:25:07Z', 'labels': []}
+{'issuenumber': 544, 'title': "TypeError: Object #<WebSocket> has no method 'payload'", 'state': 'closed', 'created_at': '2011-09-30T03:05:57Z', 'closed_at': '2011-10-07T09:45:49Z', 'labels': []}
+{'issuenumber': 543, 'title': 'Socket.io and non-domain-level Proxies', 'state': 'closed', 'created_at': '2011-09-29T17:30:29Z', 'closed_at': '2014-08-19T00:25:07Z', 'labels': []}
+{'issuenumber': 542, 'title': 'Upcoming Chrome Websocket Spec Change', 'state': 'closed', 'created_at': '2011-09-29T05:48:27Z', 'closed_at': '2011-10-01T21:05:01Z', 'labels': []}
+{'issuenumber': 540, 'title': 'Setting log: false breaks socket.io in manager.js', 'state': 'closed', 'created_at': '2011-09-28T00:12:38Z', 'closed_at': '2014-08-19T00:25:07Z', 'labels': []}
+{'issuenumber': 538, 'title': 'Why is the SocketNamespace#emit api private?', 'state': 'closed', 'created_at': '2011-09-25T19:37:58Z', 'closed_at': '2011-10-10T20:23:53Z', 'labels': []}
+{'issuenumber': 537, 'title': "TypeError: Object #<WebSocket> has no method 'payload'", 'state': 'closed', 'created_at': '2011-09-25T07:46:35Z', 'closed_at': '2011-09-25T09:11:30Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 536, 'title': 'http-polling timeout question', 'state': 'closed', 'created_at': '2011-09-23T21:38:54Z', 'closed_at': '2011-09-23T22:33:43Z', 'labels': []}
+{'issuenumber': 535, 'title': '"websocket connection invalid" happens nondeterministically ', 'state': 'closed', 'created_at': '2011-09-23T15:11:22Z', 'closed_at': '2011-10-11T07:19:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 534, 'title': 'Calling socket.disconnect() when using xhr-polling caused an infinite loop on IE8', 'state': 'closed', 'created_at': '2011-09-22T13:41:31Z', 'closed_at': '2014-08-19T00:25:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 533, 'title': 'Connect to websocket.org echo service', 'state': 'closed', 'created_at': '2011-09-22T03:38:43Z', 'closed_at': '2011-10-10T19:54:18Z', 'labels': []}
+{'issuenumber': 531, 'title': 'Fails on IE8/9 Cross domain.', 'state': 'closed', 'created_at': '2011-09-20T06:34:34Z', 'closed_at': '2014-08-19T00:25:07Z', 'labels': []}
+{'issuenumber': 530, 'title': "that's dev server with 3 connections, logs over 2-3seconds", 'state': 'closed', 'created_at': '2011-09-19T07:57:51Z', 'closed_at': '2011-09-20T10:43:12Z', 'labels': []}
+{'issuenumber': 528, 'title': 'how to statically set socket.io.js on the client side?', 'state': 'closed', 'created_at': '2011-09-19T04:45:57Z', 'closed_at': '2011-09-19T22:10:37Z', 'labels': []}
+{'issuenumber': 527, 'title': 'last version is unstable', 'state': 'closed', 'created_at': '2011-09-18T20:47:55Z', 'closed_at': '2011-10-10T19:57:02Z', 'labels': []}
+{'issuenumber': 526, 'title': 'Why a socket is needed for each namespaces?', 'state': 'closed', 'created_at': '2011-09-16T07:46:54Z', 'closed_at': '2014-08-19T00:25:07Z', 'labels': []}
+{'issuenumber': 525, 'title': 'xhr-polling and jsonp-polling fail reliably after 135 seconds', 'state': 'closed', 'created_at': '2011-09-15T22:21:13Z', 'closed_at': '2014-08-19T00:25:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 524, 'title': "Failed namespace authorization should fire 'connect_failed', not 'error' event", 'state': 'closed', 'created_at': '2011-09-15T19:10:35Z', 'closed_at': '2014-08-19T00:25:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 523, 'title': "TypeError: Object #<WebSocket> has no method 'payload'", 'state': 'closed', 'created_at': '2011-09-13T11:53:53Z', 'closed_at': '2011-09-20T17:03:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 522, 'title': 'SSL/TLS related socket errors', 'state': 'closed', 'created_at': '2011-09-13T03:07:20Z', 'closed_at': '2011-09-19T22:13:11Z', 'labels': []}
+{'issuenumber': 521, 'title': 'socket.io client not receiving', 'state': 'closed', 'created_at': '2011-09-12T11:16:54Z', 'closed_at': '2011-09-13T06:08:47Z', 'labels': []}
+{'issuenumber': 520, 'title': 'Possible Memory Leak: SocketIO + RedisStore', 'state': 'closed', 'created_at': '2011-09-12T01:44:44Z', 'closed_at': '2011-10-15T18:47:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 519, 'title': "Tests doesn't pass and exit with a timeout exception", 'state': 'closed', 'created_at': '2011-09-12T01:27:51Z', 'closed_at': '2014-08-19T00:25:07Z', 'labels': []}
+{'issuenumber': 517, 'title': 'Websockets failing to connect in v 0.8.4', 'state': 'closed', 'created_at': '2011-09-10T20:31:34Z', 'closed_at': '2011-09-20T17:06:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 516, 'title': 'Memory leak', 'state': 'closed', 'created_at': '2011-09-10T09:53:07Z', 'closed_at': '2014-08-19T00:25:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 514, 'title': 'Link socket.io-client more clearly on the website', 'state': 'closed', 'created_at': '2011-09-08T09:17:45Z', 'closed_at': '2014-08-19T00:24:53Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 513, 'title': 'Forced Disconnect - Client Side Issue', 'state': 'closed', 'created_at': '2011-09-08T02:21:32Z', 'closed_at': '2014-08-19T00:24:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 512, 'title': 'Socket is not writable ', 'state': 'closed', 'created_at': '2011-09-07T20:26:24Z', 'closed_at': '2011-11-25T19:24:06Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 511, 'title': 'Support Hybi10 binaryType', 'state': 'closed', 'created_at': '2011-09-07T16:41:40Z', 'closed_at': '2014-08-19T00:24:53Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 510, 'title': "TypeError: Cannot read property '0' of undefined ", 'state': 'closed', 'created_at': '2011-09-07T10:06:11Z', 'closed_at': '2011-09-07T15:32:54Z', 'labels': []}
+{'issuenumber': 509, 'title': 'AVG internet security 2012 blocks webscocket and flash socket', 'state': 'closed', 'created_at': '2011-09-06T20:59:25Z', 'closed_at': '2011-09-06T21:01:09Z', 'labels': []}
+{'issuenumber': 507, 'title': 'Memory Problem', 'state': 'closed', 'created_at': '2011-09-04T15:25:11Z', 'closed_at': '2014-08-19T00:24:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 506, 'title': 'Static Content-Type Bug', 'state': 'closed', 'created_at': '2011-09-04T04:54:47Z', 'closed_at': '2011-09-07T16:47:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 505, 'title': 'Problem installing/updating', 'state': 'closed', 'created_at': '2011-09-03T16:20:39Z', 'closed_at': '2011-09-03T17:14:55Z', 'labels': []}
+{'issuenumber': 504, 'title': 'npm packge.jason needs to be updated!', 'state': 'closed', 'created_at': '2011-09-03T15:47:47Z', 'closed_at': '2011-09-03T17:19:21Z', 'labels': []}
+{'issuenumber': 503, 'title': 'Properly getting a socket by ID', 'state': 'closed', 'created_at': '2011-09-02T08:00:50Z', 'closed_at': '2011-09-02T08:38:01Z', 'labels': []}
+{'issuenumber': 500, 'title': 'Clarification of reconnect semantics', 'state': 'closed', 'created_at': '2011-08-31T08:41:05Z', 'closed_at': '2011-09-03T17:23:34Z', 'labels': []}
+{'issuenumber': 499, 'title': 'Redis store connection settings', 'state': 'closed', 'created_at': '2011-08-31T02:35:13Z', 'closed_at': '2011-08-31T06:06:18Z', 'labels': []}
+{'issuenumber': 497, 'title': 'Allow clients to specify a sessionid when connecting.', 'state': 'closed', 'created_at': '2011-08-30T17:44:30Z', 'closed_at': '2014-08-19T00:24:53Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 496, 'title': 'Can we create socket instance by using socket = new io.Socket', 'state': 'closed', 'created_at': '2011-08-30T06:56:06Z', 'closed_at': '2011-09-03T17:26:03Z', 'labels': []}
+{'issuenumber': 495, 'title': 'Closing a server does not disconnect clients', 'state': 'closed', 'created_at': '2011-08-30T06:06:47Z', 'closed_at': '2014-08-19T00:24:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 494, 'title': 'Closing a server takes 25 seconds to clean up', 'state': 'closed', 'created_at': '2011-08-30T06:03:12Z', 'closed_at': '2014-08-19T00:24:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 493, 'title': 'Honor maximum websocket frame length', 'state': 'closed', 'created_at': '2011-08-29T23:27:59Z', 'closed_at': '2014-08-19T00:24:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 492, 'title': 'transport-name wrong for flashsocket connections', 'state': 'closed', 'created_at': '2011-08-29T22:21:25Z', 'closed_at': '2011-09-20T17:04:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 491, 'title': 'setting Socket.IO to log: false causes total failure in Manager.js', 'state': 'closed', 'created_at': '2011-08-29T22:12:03Z', 'closed_at': '2011-09-03T17:30:14Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 490, 'title': 'Flashsocket fallback fails since 0.8.0', 'state': 'closed', 'created_at': '2011-08-29T17:06:59Z', 'closed_at': '2011-08-29T22:18:11Z', 'labels': []}
+{'issuenumber': 489, 'title': "Object doesn't support property or method 'packet' ", 'state': 'closed', 'created_at': '2011-08-29T15:37:37Z', 'closed_at': '2011-08-29T18:26:54Z', 'labels': []}
+{'issuenumber': 488, 'title': 'Problems with unicode messages and Fx 6 / Chrome beta Websockets', 'state': 'closed', 'created_at': '2011-08-29T08:17:55Z', 'closed_at': '2011-08-29T08:56:57Z', 'labels': []}
+{'issuenumber': 487, 'title': "TypeError: 'c' is not a constructor in Opera", 'state': 'closed', 'created_at': '2011-08-29T07:51:31Z', 'closed_at': '2011-08-29T08:11:13Z', 'labels': []}
+{'issuenumber': 485, 'title': 'Session Affinity/Sticky Sessions for HTTP-based transports', 'state': 'closed', 'created_at': '2011-08-29T01:56:28Z', 'closed_at': '2014-08-19T00:24:53Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 483, 'title': 'socket Error: EPIPE, Broken pipe when closing many clients at once', 'state': 'closed', 'created_at': '2011-08-28T20:07:06Z', 'closed_at': '2011-08-28T20:48:28Z', 'labels': []}
+{'issuenumber': 482, 'title': 'socket.io fails if node is running on high port', 'state': 'closed', 'created_at': '2011-08-28T01:24:40Z', 'closed_at': '2011-09-03T17:27:06Z', 'labels': []}
+{'issuenumber': 480, 'title': 'Socket.IO appears to stop responding.', 'state': 'closed', 'created_at': '2011-08-26T05:52:27Z', 'closed_at': '2011-09-19T22:30:56Z', 'labels': []}
+{'issuenumber': 479, 'title': "Socket.IO issue with control chars and/or '\\n'", 'state': 'closed', 'created_at': '2011-08-25T18:41:31Z', 'closed_at': '2011-09-03T19:26:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 478, 'title': '/socket.io/1/?t=1314188598869 404 not found', 'state': 'closed', 'created_at': '2011-08-24T12:40:18Z', 'closed_at': '2011-08-24T13:13:26Z', 'labels': []}
+{'issuenumber': 477, 'title': 'Add checklist based input to guide the user through what to fill out for daily report.', 'state': 'closed', 'created_at': '2011-08-23T18:03:41Z', 'closed_at': '2011-08-23T18:04:52Z', 'labels': []}
+{'issuenumber': 476, 'title': "Uncaught, unspecified 'error' event.", 'state': 'closed', 'created_at': '2011-08-23T15:14:36Z', 'closed_at': '2011-09-03T17:49:30Z', 'labels': []}
+{'issuenumber': 475, 'title': 'Handshake query string: some characters are not re-encoded', 'state': 'closed', 'created_at': '2011-08-23T09:09:44Z', 'closed_at': '2014-08-19T00:24:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 474, 'title': 'Double connect', 'state': 'closed', 'created_at': '2011-08-23T08:59:59Z', 'closed_at': '2014-08-19T00:24:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 473, 'title': 'No initial error on when connecting to down server', 'state': 'closed', 'created_at': '2011-08-22T15:29:49Z', 'closed_at': '2014-08-19T00:24:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 472, 'title': 'Prevent heartbeat disconnection when browser is blocking (alert, Flash File Browser, etc.)', 'state': 'closed', 'created_at': '2011-08-22T12:04:58Z', 'closed_at': '2011-09-09T09:26:26Z', 'labels': []}
+{'issuenumber': 471, 'title': 'socket io crash', 'state': 'closed', 'created_at': '2011-08-20T01:39:52Z', 'closed_at': '2011-09-19T22:32:30Z', 'labels': {'name': 'unable to reproduce'}}
+{'issuenumber': 470, 'title': 'Compatibility with nginx and large request bodies', 'state': 'closed', 'created_at': '2011-08-19T11:51:44Z', 'closed_at': '2011-08-20T11:24:49Z', 'labels': []}
+{'issuenumber': 469, 'title': 'How to close server debug partten?', 'state': 'closed', 'created_at': '2011-08-19T04:06:02Z', 'closed_at': '2011-09-19T22:33:14Z', 'labels': []}
+{'issuenumber': 468, 'title': 'How to close server debug partten?', 'state': 'closed', 'created_at': '2011-08-19T04:05:38Z', 'closed_at': '2011-09-19T22:33:24Z', 'labels': []}
+{'issuenumber': 467, 'title': 'Store get/set should stringify objects', 'state': 'closed', 'created_at': '2011-08-17T06:52:40Z', 'closed_at': '2014-07-22T23:33:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 465, 'title': 'Custom error handling?', 'state': 'closed', 'created_at': '2011-08-15T19:43:13Z', 'closed_at': '2011-09-19T22:38:40Z', 'labels': []}
+{'issuenumber': 464, 'title': 'ack function is null when emit in room', 'state': 'closed', 'created_at': '2011-08-15T04:09:50Z', 'closed_at': '2014-08-19T00:24:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 463, 'title': 'Count of connected clients/sockets', 'state': 'closed', 'created_at': '2011-08-14T16:48:22Z', 'closed_at': '2014-08-19T00:24:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 462, 'title': 'isXDomain() reports wrong result for HTTPS pages', 'state': 'closed', 'created_at': '2011-08-14T11:02:58Z', 'closed_at': '2011-09-03T21:31:42Z', 'labels': []}
+{'issuenumber': 461, 'title': 'xhr.abort on disconnect not sending connection close to server on beforeunload event', 'state': 'closed', 'created_at': '2011-08-12T18:04:47Z', 'closed_at': '2012-08-01T22:15:30Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 460, 'title': 'Not working with XHTML documents', 'state': 'closed', 'created_at': '2011-08-11T19:03:40Z', 'closed_at': '2011-09-03T17:58:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 459, 'title': 'Fix RedisStore configuration', 'state': 'closed', 'created_at': '2011-08-11T03:30:12Z', 'closed_at': '2011-09-19T22:07:55Z', 'labels': []}
+{'issuenumber': 458, 'title': 'Fix for IE8 "Stack Overflow" Error.', 'state': 'closed', 'created_at': '2011-08-10T22:45:53Z', 'closed_at': '2011-09-03T18:01:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 456, 'title': 'Socket.io npm install failed', 'state': 'closed', 'created_at': '2011-08-10T09:48:23Z', 'closed_at': '2011-09-03T19:43:53Z', 'labels': []}
+{'issuenumber': 453, 'title': 'Socket.IO.js build:0.7.5 at line 2547', 'state': 'closed', 'created_at': '2011-08-09T08:01:08Z', 'closed_at': '2011-09-03T21:13:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 452, 'title': 'Can i simulate a browser client on node server', 'state': 'closed', 'created_at': '2011-08-09T07:27:05Z', 'closed_at': '2011-08-09T07:35:39Z', 'labels': []}
+{'issuenumber': 451, 'title': 'Unicode Parsing Issue', 'state': 'closed', 'created_at': '2011-08-08T15:33:09Z', 'closed_at': '2011-09-03T21:11:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 450, 'title': 'From NPM, error installing socket.io@0.7.8', 'state': 'closed', 'created_at': '2011-08-08T15:29:13Z', 'closed_at': '2011-08-08T19:38:39Z', 'labels': []}
+{'issuenumber': 449, 'title': 'no method io.sockets.on', 'state': 'closed', 'created_at': '2011-08-05T17:23:01Z', 'closed_at': '2011-08-05T17:49:25Z', 'labels': []}
+{'issuenumber': 448, 'title': 'inline flash policy request broken', 'state': 'closed', 'created_at': '2011-08-05T11:26:44Z', 'closed_at': '2014-08-19T00:24:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 447, 'title': "'flash policy port' option broken", 'state': 'closed', 'created_at': '2011-08-05T11:20:48Z', 'closed_at': '2014-08-19T00:24:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 444, 'title': 'Node.js/Socket.io not returning results in IE, using a secure connection', 'state': 'closed', 'created_at': '2011-08-04T06:11:43Z', 'closed_at': '2011-09-05T07:03:57Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 443, 'title': 'Fails to connect on Android 2.1', 'state': 'closed', 'created_at': '2011-08-04T04:26:19Z', 'closed_at': '2014-08-19T00:24:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 442, 'title': "Can't install socket.io using npm: chunk Host not found/bad json Host not found", 'state': 'closed', 'created_at': '2011-08-03T21:52:05Z', 'closed_at': '2011-08-03T22:27:09Z', 'labels': []}
+{'issuenumber': 441, 'title': 'In the chat example: require.paths is removed', 'state': 'closed', 'created_at': '2011-08-02T15:37:03Z', 'closed_at': '2014-08-19T00:24:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 439, 'title': 'Chrome Dev (14.0.835.8): "WebSocket is closed before the connection is established."', 'state': 'closed', 'created_at': '2011-08-01T17:24:17Z', 'closed_at': '2011-08-29T22:16:10Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 438, 'title': 'High rate of "client not handshaken should reconnect"', 'state': 'closed', 'created_at': '2011-08-01T10:15:22Z', 'closed_at': '2014-08-19T00:24:23Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 437, 'title': 'Safari 5.1 Type Error Undefined Function Line 2', 'state': 'closed', 'created_at': '2011-07-30T19:20:43Z', 'closed_at': '2011-09-09T20:06:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 436, 'title': 'Safari 5.1 Type Error Undefined Function Line 2', 'state': 'closed', 'created_at': '2011-07-30T19:14:50Z', 'closed_at': '2011-07-30T19:17:47Z', 'labels': []}
+{'issuenumber': 434, 'title': 'Add wildcard support for events', 'state': 'closed', 'created_at': '2011-07-29T11:13:49Z', 'closed_at': '2013-05-20T00:55:02Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 433, 'title': 'Please fix this comment!', 'state': 'closed', 'created_at': '2011-07-29T02:10:23Z', 'closed_at': '2011-09-03T21:33:21Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 432, 'title': " TypeError: Cannot read property '' of undefined", 'state': 'closed', 'created_at': '2011-07-28T15:11:53Z', 'closed_at': '2014-08-19T00:24:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 431, 'title': 'disconnect problems', 'state': 'closed', 'created_at': '2011-07-28T13:37:47Z', 'closed_at': '2011-07-28T13:40:55Z', 'labels': []}
+{'issuenumber': 430, 'title': 'Multiple sockets open after reconnect', 'state': 'closed', 'created_at': '2011-07-28T07:19:29Z', 'closed_at': '2014-08-19T00:24:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 429, 'title': 'hybi10 incompatibility', 'state': 'closed', 'created_at': '2011-07-28T06:55:31Z', 'closed_at': '2011-08-29T22:15:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 427, 'title': 'Dinamic rooms', 'state': 'closed', 'created_at': '2011-07-27T16:33:56Z', 'closed_at': '2014-08-19T00:24:53Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 426, 'title': 'jsonp-polling fails with multiplexing', 'state': 'closed', 'created_at': '2011-07-27T10:41:29Z', 'closed_at': '2011-07-27T19:37:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 425, 'title': 'Multiple (and continuous) disconnection events fired', 'state': 'closed', 'created_at': '2011-07-26T15:41:14Z', 'closed_at': '2014-08-19T00:24:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 424, 'title': 'Load swfobject only if needed', 'state': 'closed', 'created_at': '2011-07-26T14:35:55Z', 'closed_at': '2011-09-07T16:49:15Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 422, 'title': 'Browser Client Minification breaks Payload encoding/decoding', 'state': 'closed', 'created_at': '2011-07-26T00:54:06Z', 'closed_at': '2011-08-03T19:54:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 420, 'title': 'Events for room join&leave', 'state': 'closed', 'created_at': '2011-07-25T13:34:20Z', 'closed_at': '2014-08-19T00:24:53Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 419, 'title': 'Arguments of storing data associated to a client', 'state': 'closed', 'created_at': '2011-07-25T03:21:57Z', 'closed_at': '2011-07-27T10:41:06Z', 'labels': []}
+{'issuenumber': 418, 'title': 'Lagged client disconnect on server terminate', 'state': 'closed', 'created_at': '2011-07-24T18:52:56Z', 'closed_at': '2014-07-22T23:44:05Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 417, 'title': 'Using socket.io in an xulrunner app', 'state': 'closed', 'created_at': '2011-07-24T16:05:53Z', 'closed_at': '2011-07-24T19:38:18Z', 'labels': []}
+{'issuenumber': 414, 'title': 'Public room list APIs', 'state': 'closed', 'created_at': '2011-07-24T04:36:25Z', 'closed_at': '2014-08-19T00:24:53Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 412, 'title': 'Chrome on windows with NOD32 and maybe other antivirus', 'state': 'closed', 'created_at': '2011-07-23T08:50:40Z', 'closed_at': '2014-08-19T00:24:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 411, 'title': 'Struggling with basic setup...', 'state': 'closed', 'created_at': '2011-07-23T04:25:36Z', 'closed_at': '2011-07-29T01:15:17Z', 'labels': []}
+{'issuenumber': 407, 'title': 'Memory leak: Disconnected socket stays in memory', 'state': 'closed', 'created_at': '2011-07-22T18:06:24Z', 'closed_at': '2011-08-08T19:06:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 406, 'title': 'Check for connection:close', 'state': 'closed', 'created_at': '2011-07-22T15:47:14Z', 'closed_at': '2012-11-02T00:14:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 405, 'title': '(node) warning: possible EventEmitter memory leak detected. ', 'state': 'closed', 'created_at': '2011-07-21T22:25:31Z', 'closed_at': '2011-08-20T20:12:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 404, 'title': 'Socket.IO not falling back on "long-polling" on Heroku instance?', 'state': 'closed', 'created_at': '2011-07-21T21:43:15Z', 'closed_at': '2011-07-27T19:17:35Z', 'labels': []}
+{'issuenumber': 403, 'title': "TypeError: Cannot read property '0' of undefined", 'state': 'closed', 'created_at': '2011-07-21T18:04:59Z', 'closed_at': '2011-07-21T18:16:56Z', 'labels': []}
+{'issuenumber': 402, 'title': 'websocket connections are reset/fin-ed on certain (malicious) 3rd party connections', 'state': 'closed', 'created_at': '2011-07-21T10:33:15Z', 'closed_at': '2012-03-03T09:05:43Z', 'labels': []}
+{'issuenumber': 400, 'title': "Setting 'log' to false breaks socket.io", 'state': 'closed', 'created_at': '2011-07-20T16:07:57Z', 'closed_at': '2011-07-20T16:44:01Z', 'labels': []}
+{'issuenumber': 399, 'title': 'WebSocket protocol handshake fails with cluster', 'state': 'closed', 'created_at': '2011-07-20T06:00:13Z', 'closed_at': '2011-07-27T11:06:15Z', 'labels': []}
+{'issuenumber': 398, 'title': 'json-p throbber in opera', 'state': 'closed', 'created_at': '2011-07-19T23:24:20Z', 'closed_at': '2011-07-21T19:26:47Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 394, 'title': "TypeError: Cannot read property '0' of undefined", 'state': 'closed', 'created_at': '2011-07-18T15:49:52Z', 'closed_at': '2014-08-19T00:24:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 393, 'title': 'Invalid flashsocket key', 'state': 'closed', 'created_at': '2011-07-18T14:06:55Z', 'closed_at': '2014-08-19T00:24:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 392, 'title': '.js / .as + java / node', 'state': 'closed', 'created_at': '2011-07-18T01:53:02Z', 'closed_at': '2011-07-18T02:36:41Z', 'labels': []}
+{'issuenumber': 390, 'title': 'Supress logging, before listen()', 'state': 'closed', 'created_at': '2011-07-17T21:18:06Z', 'closed_at': '2011-07-17T21:31:44Z', 'labels': []}
+{'issuenumber': 389, 'title': 'Newbie issue: broadcast method not available in socket.io 0.7.7', 'state': 'closed', 'created_at': '2011-07-17T18:47:42Z', 'closed_at': '2011-07-17T18:51:22Z', 'labels': []}
+{'issuenumber': 388, 'title': 'disconnect event triggered after client reconnects with websocket', 'state': 'closed', 'created_at': '2011-07-17T06:27:27Z', 'closed_at': '2014-08-19T00:24:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 387, 'title': 'Public API to get clients by id', 'state': 'closed', 'created_at': '2011-07-16T22:17:15Z', 'closed_at': '2011-08-08T19:24:01Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 386, 'title': 'Server-side `connection` event does not fire on client reconnect', 'state': 'closed', 'created_at': '2011-07-16T21:01:56Z', 'closed_at': '2011-08-09T07:37:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 385, 'title': '0.7.7 Causes a "Stack Overflow" in IE8 when using xhr-polling', 'state': 'closed', 'created_at': '2011-07-16T18:11:00Z', 'closed_at': '2014-08-19T00:24:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 384, 'title': 'JSON polling disconnections on iOS 3', 'state': 'closed', 'created_at': '2011-07-15T14:42:16Z', 'closed_at': '2014-08-19T00:24:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 379, 'title': 'Duplicate message sending when socket is in multilple rooms.', 'state': 'closed', 'created_at': '2011-07-14T01:01:01Z', 'closed_at': '2011-07-15T00:33:25Z', 'labels': []}
+{'issuenumber': 378, 'title': 'indexOf on an undefined object', 'state': 'closed', 'created_at': '2011-07-13T13:46:39Z', 'closed_at': '2011-07-13T21:32:47Z', 'labels': []}
+{'issuenumber': 377, 'title': 'socket.io does not work on Firefox 6 beta', 'state': 'closed', 'created_at': '2011-07-13T10:53:03Z', 'closed_at': '2011-08-29T22:16:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 376, 'title': 'Possibility of deleting other clients,  on Manager#onLeave', 'state': 'closed', 'created_at': '2011-07-13T08:59:05Z', 'closed_at': '2011-07-18T21:13:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 374, 'title': 'Cleanup done before disconnect event', 'state': 'closed', 'created_at': '2011-07-12T17:24:36Z', 'closed_at': '2011-07-24T10:14:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 373, 'title': 'Sockets will not be removed from rooms when disconnected.', 'state': 'closed', 'created_at': '2011-07-12T15:00:38Z', 'closed_at': '2011-07-12T17:23:29Z', 'labels': []}
+{'issuenumber': 372, 'title': 'Anytime IE8 connects through JSONP-polling, it pops the XSS warning bar?', 'state': 'closed', 'created_at': '2011-07-12T08:32:24Z', 'closed_at': '2011-08-08T19:06:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 371, 'title': 'Client disconnects over SSL crash the server', 'state': 'closed', 'created_at': '2011-07-11T22:37:17Z', 'closed_at': '2011-07-12T06:38:17Z', 'labels': []}
+{'issuenumber': 367, 'title': 'Redis Store not attaching the init subscriptions on configuration set', 'state': 'closed', 'created_at': '2011-07-11T07:12:44Z', 'closed_at': '2011-09-19T22:08:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 366, 'title': 'socket.io 0.7+ installation issues', 'state': 'closed', 'created_at': '2011-07-11T03:29:07Z', 'closed_at': '2011-07-11T06:50:01Z', 'labels': []}
+{'issuenumber': 365, 'title': 'log level 0 not working', 'state': 'closed', 'created_at': '2011-07-10T21:21:24Z', 'closed_at': '2011-07-11T18:52:44Z', 'labels': []}
+{'issuenumber': 362, 'title': 'WebSocket transport relies only on req.encrypted to determine ws/wss', 'state': 'closed', 'created_at': '2011-07-10T12:26:30Z', 'closed_at': '2011-09-03T21:20:58Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 361, 'title': 'Duplication of socket.id in rooms array', 'state': 'closed', 'created_at': '2011-07-09T23:33:01Z', 'closed_at': '2011-07-18T20:10:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 359, 'title': 'Documentation for joining and leaving rooms', 'state': 'closed', 'created_at': '2011-07-08T20:12:10Z', 'closed_at': '2011-07-18T03:50:48Z', 'labels': []}
+{'issuenumber': 358, 'title': 'Low level access to transports and/or memory/requests security options', 'state': 'closed', 'created_at': '2011-07-08T14:11:30Z', 'closed_at': '2014-08-19T00:24:40Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 357, 'title': 'Address on secure socket', 'state': 'closed', 'created_at': '2011-07-08T14:09:02Z', 'closed_at': '2011-07-09T21:13:44Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 356, 'title': 'XHR/JSONP/htmlfile in IE6/7: Cannot have more than one concurrent XHR connection to same domain (among all tabs)', 'state': 'closed', 'created_at': '2011-07-07T19:39:26Z', 'closed_at': '2014-08-19T00:24:40Z', 'labels': []}
+{'issuenumber': 355, 'title': 'JSONP on IE 6/7/8/9: Multiple `emit`s from server buffered into one message fail to be read by client side', 'state': 'closed', 'created_at': '2011-07-07T18:49:18Z', 'closed_at': '2011-07-09T22:51:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 354, 'title': 'Server disconnect event triggered twice when client calls disconnect()', 'state': 'closed', 'created_at': '2011-07-07T12:45:18Z', 'closed_at': '2011-07-12T18:36:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 353, 'title': '0.7.6 does not work well with Opera', 'state': 'closed', 'created_at': '2011-07-07T10:39:06Z', 'closed_at': '2011-07-18T19:16:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 352, 'title': 'how to access broadcast message', 'state': 'closed', 'created_at': '2011-07-07T09:24:16Z', 'closed_at': '2011-07-07T09:34:28Z', 'labels': []}
+{'issuenumber': 351, 'title': 'Socket.IO and Windows Chrome Stuck', 'state': 'closed', 'created_at': '2011-07-07T03:53:13Z', 'closed_at': '2014-08-19T00:24:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 350, 'title': "Why on('connection', ...) gets called twice (client side)?", 'state': 'closed', 'created_at': '2011-07-06T16:58:23Z', 'closed_at': '2011-07-10T15:25:54Z', 'labels': []}
+{'issuenumber': 349, 'title': 'How long is a disconnected client kept in io.sockets.clients()', 'state': 'closed', 'created_at': '2011-07-06T11:37:59Z', 'closed_at': '2014-08-19T00:24:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 348, 'title': 'One room emit sends two messages in xhr-polling writing', 'state': 'closed', 'created_at': '2011-07-05T22:22:49Z', 'closed_at': '2011-07-12T07:40:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 345, 'title': "Is the 'resource' config option still supported?", 'state': 'closed', 'created_at': '2011-07-05T17:59:08Z', 'closed_at': '2011-07-24T09:49:46Z', 'labels': []}
+{'issuenumber': 343, 'title': 'Weird behaviour in IE8', 'state': 'closed', 'created_at': '2011-07-05T10:42:03Z', 'closed_at': '2011-07-05T10:46:15Z', 'labels': []}
+{'issuenumber': 341, 'title': 'Redis store failing with "Object #<Redis> has no method \'removeEvent\'"', 'state': 'closed', 'created_at': '2011-07-05T09:44:23Z', 'closed_at': '2011-09-19T22:08:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 336, 'title': 'Namespace undefined', 'state': 'closed', 'created_at': '2011-07-04T11:34:31Z', 'closed_at': '2011-07-04T14:43:23Z', 'labels': []}
+{'issuenumber': 335, 'title': "Can't use socket.io.js client as a module", 'state': 'closed', 'created_at': '2011-07-04T09:53:49Z', 'closed_at': '2011-07-04T09:59:52Z', 'labels': []}
+{'issuenumber': 334, 'title': 'Add a way to add headers on handshake (Feature)', 'state': 'closed', 'created_at': '2011-07-04T07:16:32Z', 'closed_at': '2011-08-08T19:13:12Z', 'labels': []}
+{'issuenumber': 333, 'title': 'Since 0.7... using socketIO *without* using npm / redis no longer possible?', 'state': 'closed', 'created_at': '2011-07-03T20:06:54Z', 'closed_at': '2011-08-03T19:57:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 332, 'title': 'Performance issues - Socket.io ', 'state': 'closed', 'created_at': '2011-07-03T12:54:19Z', 'closed_at': '2011-08-08T19:12:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 331, 'title': 'configure authorization error message does not bubble up to client', 'state': 'closed', 'created_at': '2011-07-03T11:23:10Z', 'closed_at': '2014-08-19T00:24:40Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 330, 'title': '[ Flashsocket ] SSL connection socket.io on a non-SSL page', 'state': 'closed', 'created_at': '2011-07-02T21:40:03Z', 'closed_at': '2011-07-02T21:50:31Z', 'labels': []}
+{'issuenumber': 327, 'title': 'operation time out', 'state': 'closed', 'created_at': '2011-07-02T13:35:20Z', 'closed_at': '2011-07-09T21:07:02Z', 'labels': []}
+{'issuenumber': 324, 'title': 'Bad file descriptor argument', 'state': 'closed', 'created_at': '2011-07-01T16:55:53Z', 'closed_at': '2011-07-09T21:33:05Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 322, 'title': "What's about the client-side reconnect system and xhr-multipart transport?", 'state': 'closed', 'created_at': '2011-07-01T02:01:54Z', 'closed_at': '2014-08-19T00:24:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 321, 'title': 'JSON flag reset', 'state': 'closed', 'created_at': '2011-06-30T19:27:02Z', 'closed_at': '2011-07-04T21:00:16Z', 'labels': []}
+{'issuenumber': 320, 'title': 'Base path or custom path for socket.io static files?', 'state': 'closed', 'created_at': '2011-06-30T15:02:26Z', 'closed_at': '2011-07-01T07:36:30Z', 'labels': []}
+{'issuenumber': 319, 'title': 'Recursion issue with socket.broadcast.emit', 'state': 'closed', 'created_at': '2011-06-30T14:09:10Z', 'closed_at': '2011-07-12T07:39:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 317, 'title': 'Chrome Browser TypeError on Load', 'state': 'closed', 'created_at': '2011-06-30T08:06:42Z', 'closed_at': '2011-06-30T20:13:20Z', 'labels': []}
+{'issuenumber': 316, 'title': "namespace doesn't work properly", 'state': 'closed', 'created_at': '2011-06-30T07:17:01Z', 'closed_at': '2011-08-11T10:22:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 313, 'title': "TypeError: Object #<CleartextStream> has no method 'address'", 'state': 'closed', 'created_at': '2011-06-29T16:16:17Z', 'closed_at': '2011-06-29T17:53:39Z', 'labels': []}
+{'issuenumber': 312, 'title': 'Passing SSL options throws an error on addListener with the https server', 'state': 'closed', 'created_at': '2011-06-29T15:35:30Z', 'closed_at': '2011-06-29T15:59:48Z', 'labels': []}
+{'issuenumber': 311, 'title': "Cannot read property '' of undefined", 'state': 'closed', 'created_at': '2011-06-29T15:05:49Z', 'closed_at': '2011-07-09T21:32:04Z', 'labels': []}
+{'issuenumber': 308, 'title': 'fix namespaced example in README', 'state': 'closed', 'created_at': '2011-06-29T08:17:52Z', 'closed_at': '2011-06-29T11:18:31Z', 'labels': []}
+{'issuenumber': 301, 'title': "0.7 doesn't work on Dotcloud, but 0.6.18 does.", 'state': 'closed', 'created_at': '2011-06-28T18:40:08Z', 'closed_at': '2014-08-19T00:24:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 299, 'title': 'Memory Leak with Broadcast', 'state': 'closed', 'created_at': '2011-06-28T09:45:57Z', 'closed_at': '2014-07-23T05:58:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 296, 'title': 'Obtain socket settings upon disconnect', 'state': 'closed', 'created_at': '2011-06-28T02:02:57Z', 'closed_at': '2011-07-12T19:02:30Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 295, 'title': ' Argument must be a string', 'state': 'closed', 'created_at': '2011-06-27T15:31:20Z', 'closed_at': '2011-06-29T10:59:40Z', 'labels': []}
+{'issuenumber': 294, 'title': "Cannot set property 'transport' of undefined", 'state': 'closed', 'created_at': '2011-06-27T15:17:47Z', 'closed_at': '2011-06-28T18:24:56Z', 'labels': []}
+{'issuenumber': 293, 'title': "io.sockets.to('room').emit() needed", 'state': 'closed', 'created_at': '2011-06-26T18:22:10Z', 'closed_at': '2011-06-26T19:00:27Z', 'labels': []}
+{'issuenumber': 292, 'title': 'Safari is unable to connect to a socket.io (0.7.2) listener over SSL after a refresh', 'state': 'closed', 'created_at': '2011-06-26T04:41:08Z', 'closed_at': '2011-07-14T15:17:20Z', 'labels': []}
+{'issuenumber': 291, 'title': "broadcast doesn't work in namespace", 'state': 'closed', 'created_at': '2011-06-25T11:56:03Z', 'closed_at': '2011-07-12T07:57:58Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 290, 'title': 'Sessions', 'state': 'closed', 'created_at': '2011-06-25T10:18:53Z', 'closed_at': '2011-06-25T21:32:17Z', 'labels': []}
+{'issuenumber': 288, 'title': 'Storing data associated to a client - ( nickname is null )', 'state': 'closed', 'created_at': '2011-06-25T00:38:25Z', 'closed_at': '2011-06-25T18:51:39Z', 'labels': []}
+{'issuenumber': 287, 'title': 'Socket is not writable (socket.io 0.7 , Node 0.4.8) ', 'state': 'closed', 'created_at': '2011-06-24T18:16:17Z', 'closed_at': '2011-06-28T19:05:01Z', 'labels': []}
+{'issuenumber': 285, 'title': "emitting to a room doesn't work for namespaced clients", 'state': 'closed', 'created_at': '2011-06-23T11:31:04Z', 'closed_at': '2011-07-12T07:58:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 284, 'title': 'is there anyway to access socket.id from the client side?', 'state': 'closed', 'created_at': '2011-06-23T10:03:54Z', 'closed_at': '2011-06-24T07:07:14Z', 'labels': []}
+{'issuenumber': 283, 'title': 'socket.io v0.7.2 How to disable debug message?', 'state': 'closed', 'created_at': '2011-06-23T09:14:25Z', 'closed_at': '2011-06-24T07:06:57Z', 'labels': []}
+{'issuenumber': 280, 'title': "Clients don't leave rooms when disconnected", 'state': 'closed', 'created_at': '2011-06-22T17:57:50Z', 'closed_at': '2011-06-28T19:47:42Z', 'labels': []}
+{'issuenumber': 279, 'title': 'info  - unhandled socket.io url problem when running Socket.IO on Amazon EC2', 'state': 'closed', 'created_at': '2011-06-22T17:49:53Z', 'closed_at': '2011-06-23T08:04:51Z', 'labels': []}
+{'issuenumber': 277, 'title': "Thousands of 404's from /socket.io/jsonp-polling/", 'state': 'closed', 'created_at': '2011-06-22T13:22:48Z', 'closed_at': '2011-06-22T22:51:08Z', 'labels': []}
+{'issuenumber': 276, 'title': "Doesn't work in cloud9 IDE", 'state': 'closed', 'created_at': '2011-06-22T12:07:06Z', 'closed_at': '2011-06-22T16:10:26Z', 'labels': []}
+{'issuenumber': 275, 'title': '0.7.2: Socket reconnects despite call to disconnect', 'state': 'closed', 'created_at': '2011-06-22T11:33:58Z', 'closed_at': '2011-07-23T18:23:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 274, 'title': "TypeError: Cannot convert 'document.body' to object", 'state': 'closed', 'created_at': '2011-06-22T08:36:44Z', 'closed_at': '2011-07-20T20:41:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 272, 'title': "Cannot set property 'http://localhost/' of undefined", 'state': 'closed', 'created_at': '2011-06-22T07:29:49Z', 'closed_at': '2011-06-22T07:32:49Z', 'labels': []}
+{'issuenumber': 271, 'title': 'Cross Domain XHR-Polling in FireFox, Socket 0.7', 'state': 'closed', 'created_at': '2011-06-21T22:59:25Z', 'closed_at': '2011-06-22T07:19:27Z', 'labels': []}
+{'issuenumber': 270, 'title': 'error 404 on socket 0.7 connection', 'state': 'closed', 'created_at': '2011-06-21T20:46:42Z', 'closed_at': '2011-06-22T08:22:29Z', 'labels': []}
+{'issuenumber': 269, 'title': 'custom client script', 'state': 'closed', 'created_at': '2011-06-21T12:02:19Z', 'closed_at': '2011-06-22T08:22:29Z', 'labels': []}
+{'issuenumber': 268, 'title': 'arity of callback', 'state': 'closed', 'created_at': '2011-06-21T09:46:35Z', 'closed_at': '2011-06-22T08:22:29Z', 'labels': []}
+{'issuenumber': 267, 'title': 'socket connect should be connection ? ', 'state': 'closed', 'created_at': '2011-06-21T08:25:47Z', 'closed_at': '2011-06-22T08:22:29Z', 'labels': []}
+{'issuenumber': 266, 'title': 'how to get client info from socket object ?', 'state': 'closed', 'created_at': '2011-06-21T08:07:07Z', 'closed_at': '2011-06-22T08:22:29Z', 'labels': []}
+{'issuenumber': 264, 'title': 'Pending message buffers', 'state': 'closed', 'created_at': '2011-06-21T01:20:09Z', 'closed_at': '2011-06-22T08:22:29Z', 'labels': []}
+{'issuenumber': 263, 'title': 'http://socket.io/api.html does not exist', 'state': 'closed', 'created_at': '2011-06-20T03:15:34Z', 'closed_at': '2011-06-22T08:22:29Z', 'labels': []}
+{'issuenumber': 262, 'title': 'Websocket not working with Firefox Nightly', 'state': 'closed', 'created_at': '2011-06-19T13:02:20Z', 'closed_at': '2011-06-22T08:22:28Z', 'labels': []}
+{'issuenumber': 261, 'title': 'Problem with the port number', 'state': 'closed', 'created_at': '2011-06-19T12:10:34Z', 'closed_at': '2011-06-19T12:30:50Z', 'labels': []}
+{'issuenumber': 252, 'title': 'HTTPS + Socket.IO blowing up randomly', 'state': 'closed', 'created_at': '2011-06-15T22:00:03Z', 'closed_at': '2011-06-22T08:22:28Z', 'labels': []}
+{'issuenumber': 250, 'title': 'never allow session id collision', 'state': 'closed', 'created_at': '2011-06-15T16:43:43Z', 'closed_at': '2011-06-22T08:22:28Z', 'labels': []}
+{'issuenumber': 249, 'title': 'Infinite LOOP: NodeJS "message" event looping', 'state': 'closed', 'created_at': '2011-06-15T08:36:41Z', 'closed_at': '2011-06-19T12:17:06Z', 'labels': []}
+{'issuenumber': 248, 'title': 'Not working with TooTallNate / Java-WebSocket', 'state': 'closed', 'created_at': '2011-06-14T23:26:55Z', 'closed_at': '2011-06-22T08:23:39Z', 'labels': []}
+{'issuenumber': 247, 'title': 'Client adds :80 to server url by default', 'state': 'closed', 'created_at': '2011-06-12T09:31:52Z', 'closed_at': '2011-06-22T08:22:27Z', 'labels': []}
+{'issuenumber': 244, 'title': 'memory leak warning when client use xhr-polling', 'state': 'closed', 'created_at': '2011-06-09T14:40:20Z', 'closed_at': '2011-06-22T08:22:27Z', 'labels': []}
+{'issuenumber': 243, 'title': '"Error calling method on NPObject!"', 'state': 'closed', 'created_at': '2011-06-09T09:39:31Z', 'closed_at': '2011-06-22T08:22:27Z', 'labels': []}
+{'issuenumber': 241, 'title': 'Transport jsonp-polling socket.io v0.6.17', 'state': 'closed', 'created_at': '2011-06-04T06:03:14Z', 'closed_at': '2011-06-22T08:22:27Z', 'labels': []}
+{'issuenumber': 239, 'title': 'Authentication with xhr-polling?', 'state': 'closed', 'created_at': '2011-06-03T19:46:49Z', 'closed_at': '2011-06-22T08:22:27Z', 'labels': []}
+{'issuenumber': 238, 'title': 'Malaysian user cannot connect through websockets?', 'state': 'closed', 'created_at': '2011-06-03T19:42:26Z', 'closed_at': '2011-06-22T08:22:27Z', 'labels': []}
+{'issuenumber': 233, 'title': 'handshake using xhr-polling and nginx', 'state': 'closed', 'created_at': '2011-06-01T20:44:52Z', 'closed_at': '2011-06-22T08:20:43Z', 'labels': []}
+{'issuenumber': 232, 'title': 'Firefox 6 beta websockets broken', 'state': 'closed', 'created_at': '2011-06-01T14:46:16Z', 'closed_at': '2011-06-16T21:04:47Z', 'labels': []}
+{'issuenumber': 231, 'title': 'Assertion fail (still), Websocket and Chrome 11.0.696.71', 'state': 'closed', 'created_at': '2011-05-31T21:23:11Z', 'closed_at': '2011-05-31T22:07:41Z', 'labels': []}
+{'issuenumber': 229, 'title': 'Problems passing associative arrays when sending messages', 'state': 'closed', 'created_at': '2011-05-30T23:09:39Z', 'closed_at': '2011-06-01T01:59:10Z', 'labels': []}
+{'issuenumber': 228, 'title': 'npm update broken', 'state': 'closed', 'created_at': '2011-05-30T04:35:48Z', 'closed_at': '2011-06-22T08:20:43Z', 'labels': []}
+{'issuenumber': 227, 'title': 'Is there any way to send volatile messages in v6?', 'state': 'closed', 'created_at': '2011-05-28T03:37:11Z', 'closed_at': '2011-05-28T10:48:19Z', 'labels': []}
+{'issuenumber': 225, 'title': 'Use with C++ websocket client?', 'state': 'closed', 'created_at': '2011-05-25T15:49:04Z', 'closed_at': '2011-06-22T08:20:43Z', 'labels': []}
+{'issuenumber': 224, 'title': 'Client disconnects+reconnects repeatedly every 15 seconds', 'state': 'closed', 'created_at': '2011-05-24T15:01:32Z', 'closed_at': '2011-06-22T08:20:42Z', 'labels': []}
+{'issuenumber': 222, 'title': 'IE9 Problems', 'state': 'closed', 'created_at': '2011-05-22T10:06:31Z', 'closed_at': '2011-06-22T08:20:42Z', 'labels': []}
+{'issuenumber': 221, 'title': "Sending JS strings (some char codes) doesn't work (any protocols)", 'state': 'closed', 'created_at': '2011-05-20T15:47:08Z', 'closed_at': '2011-06-22T08:20:42Z', 'labels': []}
+{'issuenumber': 220, 'title': 'feature request: allow client to provide session token to socket.connect()', 'state': 'closed', 'created_at': '2011-05-19T15:04:45Z', 'closed_at': '2011-06-22T08:20:42Z', 'labels': []}
+{'issuenumber': 219, 'title': 'wss/ws determined by server socket encryption only (proxy problem)', 'state': 'closed', 'created_at': '2011-05-19T05:21:19Z', 'closed_at': '2011-06-22T08:20:42Z', 'labels': []}
+{'issuenumber': 218, 'title': 'Missing 0.6.18 tag', 'state': 'closed', 'created_at': '2011-05-18T17:17:32Z', 'closed_at': '2011-06-22T08:20:42Z', 'labels': []}
+{'issuenumber': 217, 'title': '0.6.18 Huge Memory Leaks', 'state': 'closed', 'created_at': '2011-05-18T15:24:36Z', 'closed_at': '2011-05-20T13:09:22Z', 'labels': []}
+{'issuenumber': 215, 'title': "URL path regex is fragile with respect to multiple /'s", 'state': 'closed', 'created_at': '2011-05-17T23:41:29Z', 'closed_at': '2011-05-18T00:32:23Z', 'labels': []}
+{'issuenumber': 214, 'title': "git clone ... --recursive doesn't check out socket.io client", 'state': 'closed', 'created_at': '2011-05-17T23:36:38Z', 'closed_at': '2011-05-17T23:38:23Z', 'labels': []}
+{'issuenumber': 212, 'title': 'Flashsocket not loading over SSL', 'state': 'closed', 'created_at': '2011-05-17T21:10:39Z', 'closed_at': '2011-06-22T08:20:42Z', 'labels': []}
+{'issuenumber': 211, 'title': 'please add a wiki to this project (eom)', 'state': 'closed', 'created_at': '2011-05-17T14:49:56Z', 'closed_at': '2011-05-17T15:18:54Z', 'labels': []}
+{'issuenumber': 210, 'title': ' npm install socket.io-node', 'state': 'closed', 'created_at': '2011-05-15T06:21:53Z', 'closed_at': '2011-05-15T16:09:27Z', 'labels': []}
+{'issuenumber': 209, 'title': 'Cannot install via npm', 'state': 'closed', 'created_at': '2011-05-14T17:22:08Z', 'closed_at': '2011-06-22T08:20:41Z', 'labels': []}
+{'issuenumber': 208, 'title': 'Socket.io 0.6.17 unable to use FlashSocket with cross port madness', 'state': 'closed', 'created_at': '2011-05-13T10:48:28Z', 'closed_at': '2011-05-13T21:10:25Z', 'labels': []}
+{'issuenumber': 207, 'title': 'Assertion failed in node.cc', 'state': 'closed', 'created_at': '2011-05-12T17:19:08Z', 'closed_at': '2011-05-12T19:01:40Z', 'labels': []}
+{'issuenumber': 206, 'title': 'Multiple session stores (feature request)', 'state': 'closed', 'created_at': '2011-05-11T22:47:09Z', 'closed_at': '2011-06-22T08:20:41Z', 'labels': []}
+{'issuenumber': 205, 'title': 'Git submodules broken', 'state': 'closed', 'created_at': '2011-05-11T14:18:11Z', 'closed_at': '2011-05-11T16:03:26Z', 'labels': []}
+{'issuenumber': 204, 'title': 'safari does not establish connection ', 'state': 'closed', 'created_at': '2011-05-11T11:50:11Z', 'closed_at': '2011-05-11T18:05:11Z', 'labels': []}
+{'issuenumber': 201, 'title': '.gitmodules', 'state': 'closed', 'created_at': '2011-05-07T05:18:05Z', 'closed_at': '2011-06-22T08:20:41Z', 'labels': []}
+{'issuenumber': 200, 'title': 'socket.io crashes node', 'state': 'closed', 'created_at': '2011-05-06T00:05:12Z', 'closed_at': '2011-05-06T23:44:55Z', 'labels': []}
+{'issuenumber': 199, 'title': 'package.json is not compatible with latest npm', 'state': 'closed', 'created_at': '2011-05-05T19:19:56Z', 'closed_at': '2011-05-06T23:47:30Z', 'labels': []}
+{'issuenumber': 198, 'title': 'introduce another wire format', 'state': 'closed', 'created_at': '2011-05-05T16:57:16Z', 'closed_at': '2011-06-22T08:20:41Z', 'labels': []}
+{'issuenumber': 197, 'title': 'Problems accessing server from within certain networks', 'state': 'closed', 'created_at': '2011-05-03T15:12:04Z', 'closed_at': '2011-06-22T08:20:41Z', 'labels': []}
+{'issuenumber': 196, 'title': "Can't listen for multiple resources", 'state': 'closed', 'created_at': '2011-05-02T19:42:24Z', 'closed_at': '2011-05-07T03:20:42Z', 'labels': []}
+{'issuenumber': 195, 'title': 'Cross-domain secure websockets fails (protocol mismatch)', 'state': 'closed', 'created_at': '2011-05-01T02:58:26Z', 'closed_at': '2011-05-01T06:49:12Z', 'labels': []}
+{'issuenumber': 193, 'title': 'Safari (Mac Only) crashes when using websocket', 'state': 'closed', 'created_at': '2011-04-23T06:46:14Z', 'closed_at': '2011-04-23T07:21:03Z', 'labels': []}
+{'issuenumber': 192, 'title': 'npm install not working?', 'state': 'closed', 'created_at': '2011-04-22T21:29:31Z', 'closed_at': '2011-04-22T23:05:56Z', 'labels': []}
+{'issuenumber': 191, 'title': 'Graceful shutdown (feature request)', 'state': 'closed', 'created_at': '2011-04-19T11:08:53Z', 'closed_at': '2014-08-19T00:24:40Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 190, 'title': 'Exception brings server down', 'state': 'closed', 'created_at': '2011-04-18T12:38:11Z', 'closed_at': '2011-06-22T08:20:41Z', 'labels': []}
+{'issuenumber': 189, 'title': 'exception in xhr-multipart.js (in 0.6.17) when client.send() is called', 'state': 'closed', 'created_at': '2011-04-14T16:47:34Z', 'closed_at': '2011-06-22T08:18:23Z', 'labels': []}
+{'issuenumber': 187, 'title': 'broadcasting to client not working onclientconnect event handler', 'state': 'closed', 'created_at': '2011-04-10T13:13:52Z', 'closed_at': '2011-06-22T08:17:55Z', 'labels': []}
+{'issuenumber': 186, 'title': 'Logs are flooded with \'Couldnt find client with session id "..." \'', 'state': 'closed', 'created_at': '2011-04-08T09:50:03Z', 'closed_at': '2011-06-22T08:17:45Z', 'labels': []}
+{'issuenumber': 185, 'title': 'Heartbeat Timing Management Not Adhered', 'state': 'closed', 'created_at': '2011-04-07T14:53:21Z', 'closed_at': '2011-06-22T08:07:22Z', 'labels': []}
+{'issuenumber': 184, 'title': 'JSONP-Polling fails trough Squid', 'state': 'closed', 'created_at': '2011-04-06T13:52:13Z', 'closed_at': '2011-06-22T20:42:57Z', 'labels': []}
+{'issuenumber': 182, 'title': 'Benchmark tool????', 'state': 'closed', 'created_at': '2011-04-01T21:00:19Z', 'closed_at': '2011-06-22T08:09:01Z', 'labels': []}
+{'issuenumber': 181, 'title': 'Memory problem in Socket.IO', 'state': 'closed', 'created_at': '2011-03-31T17:01:56Z', 'closed_at': '2011-03-31T19:04:51Z', 'labels': []}
+{'issuenumber': 177, 'title': 'Client transport getter', 'state': 'closed', 'created_at': '2011-03-28T17:30:42Z', 'closed_at': '2011-06-25T21:31:55Z', 'labels': []}
+{'issuenumber': 175, 'title': "socket.io currently break node's built in debugging abilities (namely, printing variables)", 'state': 'closed', 'created_at': '2011-03-25T21:15:45Z', 'closed_at': '2011-06-22T08:16:41Z', 'labels': []}
+{'issuenumber': 173, 'title': 'WebSocket "Upgrade" header isn\'t case insensitive', 'state': 'closed', 'created_at': '2011-03-22T15:47:49Z', 'closed_at': '2011-06-22T08:17:13Z', 'labels': []}
+{'issuenumber': 172, 'title': 'Connection problem via Avast (flashsocket)', 'state': 'closed', 'created_at': '2011-03-22T13:32:46Z', 'closed_at': '2011-06-22T08:15:12Z', 'labels': []}
+{'issuenumber': 171, 'title': 'Node.JS client?', 'state': 'closed', 'created_at': '2011-03-20T16:32:02Z', 'closed_at': '2011-06-22T08:14:52Z', 'labels': []}
+{'issuenumber': 170, 'title': 'socket.io.js with xsrf headers ?', 'state': 'closed', 'created_at': '2011-03-19T18:49:39Z', 'closed_at': '2011-06-22T08:14:26Z', 'labels': []}
+{'issuenumber': 169, 'title': "use 'wss' connection from page served over http", 'state': 'closed', 'created_at': '2011-03-18T08:39:43Z', 'closed_at': '2011-05-07T02:06:22Z', 'labels': []}
+{'issuenumber': 168, 'title': 'Remote host IP address', 'state': 'closed', 'created_at': '2011-03-17T11:30:52Z', 'closed_at': '2011-03-17T14:23:16Z', 'labels': []}
+{'issuenumber': 165, 'title': 'firewall / antivirus problem', 'state': 'closed', 'created_at': '2011-03-14T23:12:06Z', 'closed_at': '2011-06-22T08:13:24Z', 'labels': []}
+{'issuenumber': 164, 'title': 'possible EventEmitter memory leak detected: use emitter.setMaxListeners() to increase limit', 'state': 'closed', 'created_at': '2011-03-09T10:16:03Z', 'closed_at': '2011-06-22T08:12:18Z', 'labels': []}
+{'issuenumber': 162, 'title': 'socketio cookie', 'state': 'closed', 'created_at': '2011-03-04T11:26:58Z', 'closed_at': '2011-03-06T16:38:40Z', 'labels': []}
+{'issuenumber': 160, 'title': 'client.sync proposal', 'state': 'closed', 'created_at': '2011-03-03T13:06:07Z', 'closed_at': '2011-03-06T16:39:36Z', 'labels': []}
+{'issuenumber': 159, 'title': 'static files', 'state': 'closed', 'created_at': '2011-03-02T18:39:40Z', 'closed_at': '2011-06-22T08:11:36Z', 'labels': []}
+{'issuenumber': 156, 'title': 'Socket is not writeable', 'state': 'closed', 'created_at': '2011-02-27T21:35:13Z', 'closed_at': '2011-06-22T08:10:57Z', 'labels': []}
+{'issuenumber': 154, 'title': 'server-ssl example hangs requests after hard refreshes', 'state': 'closed', 'created_at': '2011-02-25T01:49:11Z', 'closed_at': '2011-02-25T17:06:35Z', 'labels': []}
+{'issuenumber': 153, 'title': 'Callbacks for Send function', 'state': 'closed', 'created_at': '2011-02-24T00:39:52Z', 'closed_at': '2011-03-06T08:43:27Z', 'labels': []}
+{'issuenumber': 150, 'title': 'triggered exception error via chat error / websockets', 'state': 'closed', 'created_at': '2011-02-19T08:21:08Z', 'closed_at': '2011-06-22T08:10:40Z', 'labels': []}
+{'issuenumber': 149, 'title': 'ReferenceError: listener is not defined', 'state': 'closed', 'created_at': '2011-02-18T22:43:09Z', 'closed_at': '2011-06-22T08:10:35Z', 'labels': []}
+{'issuenumber': 148, 'title': 'update socket.io through npm?', 'state': 'closed', 'created_at': '2011-02-18T20:59:33Z', 'closed_at': '2011-02-18T22:41:35Z', 'labels': []}
+{'issuenumber': 143, 'title': 'Allow to server flashsocket securtity policy on port other than 843', 'state': 'closed', 'created_at': '2011-02-14T11:28:55Z', 'closed_at': '2011-03-06T16:40:10Z', 'labels': []}
+{'issuenumber': 142, 'title': 'crash error in 0.6.9 with flashsocket', 'state': 'closed', 'created_at': '2011-02-14T10:25:44Z', 'closed_at': '2011-03-06T08:43:23Z', 'labels': []}
+{'issuenumber': 141, 'title': 'broadcast apparently not working', 'state': 'closed', 'created_at': '2011-02-13T22:20:29Z', 'closed_at': '2011-03-06T08:43:18Z', 'labels': []}
+{'issuenumber': 140, 'title': 'Firefox (Win) 3.6.13 + socket.io 0.6.10 using XHR Polling + node 0.4.0  = broken', 'state': 'closed', 'created_at': '2011-02-13T19:23:05Z', 'closed_at': '2011-06-22T08:05:56Z', 'labels': []}
+{'issuenumber': 139, 'title': 'IE Issue using flashsocket', 'state': 'closed', 'created_at': '2011-02-13T16:38:33Z', 'closed_at': '2011-03-06T08:44:12Z', 'labels': []}
+{'issuenumber': 138, 'title': 'JSON Polling: form.action not updated after disconnect/connect (so msg are sent with a dead sessionId)', 'state': 'closed', 'created_at': '2011-02-13T16:37:46Z', 'closed_at': '2011-06-22T08:06:13Z', 'labels': []}
+{'issuenumber': 136, 'title': 'flash socket in firefox causes slowness', 'state': 'closed', 'created_at': '2011-02-10T17:13:08Z', 'closed_at': '2011-03-06T08:45:12Z', 'labels': []}
+{'issuenumber': 135, 'title': 'WebSocket stopped working in chrome. Chrome was updated a day or two ago.', 'state': 'closed', 'created_at': '2011-02-04T10:53:16Z', 'closed_at': '2011-02-04T23:57:15Z', 'labels': []}
+{'issuenumber': 134, 'title': 'warning: possible EventEmitter memory leak detected...', 'state': 'closed', 'created_at': '2011-01-31T18:10:53Z', 'closed_at': '2011-06-22T08:01:00Z', 'labels': []}
+{'issuenumber': 133, 'title': 'problem with finding socet.io on Mac', 'state': 'closed', 'created_at': '2011-01-27T22:10:08Z', 'closed_at': '2011-06-22T08:00:55Z', 'labels': []}
+{'issuenumber': 130, 'title': 'Multiple origins in options', 'state': 'closed', 'created_at': '2011-01-24T05:56:11Z', 'closed_at': '2011-06-22T07:59:58Z', 'labels': []}
+{'issuenumber': 128, 'title': 'Evil memory leak when using websockets', 'state': 'closed', 'created_at': '2011-01-19T09:47:21Z', 'closed_at': '2011-02-23T21:38:18Z', 'labels': []}
+{'issuenumber': 127, 'title': 'Opera 11 not using websockets', 'state': 'closed', 'created_at': '2011-01-16T16:28:34Z', 'closed_at': '2011-03-06T08:41:50Z', 'labels': []}
+{'issuenumber': 126, 'title': 'XSS hole', 'state': 'closed', 'created_at': '2011-01-15T19:59:14Z', 'closed_at': '2011-03-06T08:38:06Z', 'labels': []}
+{'issuenumber': 125, 'title': 'npm update', 'state': 'closed', 'created_at': '2011-01-10T17:05:51Z', 'closed_at': '2011-03-06T08:41:41Z', 'labels': []}
+{'issuenumber': 122, 'title': 'JSONP-Polling: Client "disconnects" after 8 seconds', 'state': 'closed', 'created_at': '2011-01-09T16:52:17Z', 'closed_at': '2011-01-10T01:02:39Z', 'labels': []}
+{'issuenumber': 119, 'title': 'xhr-polling returns truncated/corrupted messages', 'state': 'closed', 'created_at': '2011-01-05T12:23:05Z', 'closed_at': '2011-01-10T01:02:39Z', 'labels': []}
+{'issuenumber': 117, 'title': 'WebSocket Stream write lock', 'state': 'closed', 'created_at': '2011-01-02T20:33:24Z', 'closed_at': '2011-06-22T07:57:56Z', 'labels': []}
+{'issuenumber': 116, 'title': 'xhr-multipart errors when decoding JSON messages', 'state': 'closed', 'created_at': '2010-12-31T21:02:49Z', 'closed_at': '2011-01-10T01:02:39Z', 'labels': []}
+{'issuenumber': 114, 'title': 'EINVAL at Stream.setNoDelay', 'state': 'closed', 'created_at': '2010-12-28T09:21:31Z', 'closed_at': '2011-06-22T07:57:35Z', 'labels': []}
+{'issuenumber': 111, 'title': 'Insructions incorrect when using Express', 'state': 'closed', 'created_at': '2010-12-06T08:01:19Z', 'closed_at': '2011-01-10T01:13:13Z', 'labels': []}
+{'issuenumber': 109, 'title': 'Massive number of connects/disconnects/reconnects', 'state': 'closed', 'created_at': '2010-12-02T19:22:40Z', 'closed_at': '2011-01-10T01:11:30Z', 'labels': []}
+{'issuenumber': 107, 'title': "Localhost doesn't work", 'state': 'closed', 'created_at': '2010-11-30T21:02:35Z', 'closed_at': '2011-06-22T07:57:23Z', 'labels': []}
+{'issuenumber': 106, 'title': 'Occasional Node.js assertion error', 'state': 'closed', 'created_at': '2010-11-26T09:18:11Z', 'closed_at': '2011-03-06T08:44:40Z', 'labels': []}
+{'issuenumber': 104, 'title': 'Crash Report (null request in XHR polling transport)', 'state': 'closed', 'created_at': '2010-11-23T18:35:17Z', 'closed_at': '2011-01-10T01:03:38Z', 'labels': []}
+{'issuenumber': 103, 'title': 'Data incorrectly framed by UA. Dropping connection', 'state': 'closed', 'created_at': '2010-11-23T00:04:27Z', 'closed_at': '2011-03-06T08:40:57Z', 'labels': []}
+{'issuenumber': 101, 'title': 'Getting cookies in flashsocket protocol', 'state': 'closed', 'created_at': '2010-11-21T17:48:14Z', 'closed_at': '2011-03-06T08:36:22Z', 'labels': []}
+{'issuenumber': 100, 'title': "Repeated `couldnt find client with session id' messages on restart", 'state': 'closed', 'created_at': '2010-11-18T03:32:46Z', 'closed_at': '2011-01-10T01:14:01Z', 'labels': []}
+{'issuenumber': 99, 'title': 'flashsocket fallback to xhr-multipart or xhr-polling broken?', 'state': 'closed', 'created_at': '2010-11-13T08:29:38Z', 'closed_at': '2011-01-10T01:14:56Z', 'labels': []}
+{'issuenumber': 96, 'title': 'Node breaks with last developer version of Chorme', 'state': 'closed', 'created_at': '2010-11-11T16:14:56Z', 'closed_at': '2011-03-06T08:36:11Z', 'labels': []}
+{'issuenumber': 92, 'title': 'Make Flashsocket port configurable', 'state': 'closed', 'created_at': '2010-11-05T14:04:25Z', 'closed_at': '2010-11-06T02:27:23Z', 'labels': []}
+{'issuenumber': 91, 'title': "The 'flashsocket' transport seems to be broken on Chrome/Firefox", 'state': 'closed', 'created_at': '2010-11-04T12:18:37Z', 'closed_at': '2011-01-10T01:06:37Z', 'labels': []}
+{'issuenumber': 90, 'title': 'Agressive client connection opening', 'state': 'closed', 'created_at': '2010-11-04T10:49:20Z', 'closed_at': '2011-03-06T08:36:04Z', 'labels': []}
+{'issuenumber': 89, 'title': '"Data incorrectly framed by UA" error in FF 4', 'state': 'closed', 'created_at': '2010-11-03T13:29:13Z', 'closed_at': '2011-06-22T07:48:47Z', 'labels': []}
+{'issuenumber': 88, 'title': 'IE7&8 on XP does not work with the chat example', 'state': 'closed', 'created_at': '2010-10-31T07:22:30Z', 'closed_at': '2010-10-31T23:17:19Z', 'labels': []}
+{'issuenumber': 84, 'title': "Incompatibe w/ current git Node.js because 'sys' is renamed to 'util'", 'state': 'closed', 'created_at': '2010-10-23T02:34:57Z', 'closed_at': '2011-01-10T01:06:27Z', 'labels': []}
+{'issuenumber': 83, 'title': 'WebSocket CLOSE_WAIT on disconnect', 'state': 'closed', 'created_at': '2010-10-22T23:18:49Z', 'closed_at': '2011-03-06T08:35:57Z', 'labels': []}
+{'issuenumber': 81, 'title': "client.connection.end() doesn't works when transport is xhr-polling", 'state': 'closed', 'created_at': '2010-10-22T02:24:21Z', 'closed_at': '2011-01-10T09:14:18Z', 'labels': []}
+{'issuenumber': 79, 'title': 'Double connections, weird behavior', 'state': 'closed', 'created_at': '2010-10-20T17:24:16Z', 'closed_at': '2011-01-10T01:04:36Z', 'labels': []}
+{'issuenumber': 78, 'title': 'Documentation for transportOptions', 'state': 'closed', 'created_at': '2010-10-18T20:33:46Z', 'closed_at': '2011-03-06T08:35:40Z', 'labels': []}
+{'issuenumber': 75, 'title': 'Sessions and socket.io?', 'state': 'closed', 'created_at': '2010-10-11T14:18:39Z', 'closed_at': '2010-10-12T00:31:11Z', 'labels': []}
+{'issuenumber': 73, 'title': 'Chat room', 'state': 'closed', 'created_at': '2010-10-10T15:58:54Z', 'closed_at': '2011-01-10T01:04:28Z', 'labels': []}
+{'issuenumber': 72, 'title': 'pathname is null. indexOf fails', 'state': 'closed', 'created_at': '2010-10-10T10:38:05Z', 'closed_at': '2010-10-10T18:40:39Z', 'labels': []}
+{'issuenumber': 71, 'title': 'socket.io on 6sync VPS', 'state': 'closed', 'created_at': '2010-10-10T07:46:11Z', 'closed_at': '2010-10-10T14:59:48Z', 'labels': []}
+{'issuenumber': 70, 'title': 'Location MisMatch on Secure WebSockets', 'state': 'closed', 'created_at': '2010-10-09T12:47:38Z', 'closed_at': '2010-12-16T00:29:36Z', 'labels': []}
+{'issuenumber': 68, 'title': 'Problem with IE 8', 'state': 'closed', 'created_at': '2010-10-04T22:45:47Z', 'closed_at': '2010-10-05T18:34:20Z', 'labels': []}
+{'issuenumber': 66, 'title': 'Socket.IO does not intercept first client file request', 'state': 'closed', 'created_at': '2010-10-04T04:30:27Z', 'closed_at': '2011-06-22T07:43:13Z', 'labels': []}
+{'issuenumber': 65, 'title': 'Streamline setup+use', 'state': 'closed', 'created_at': '2010-10-02T18:02:06Z', 'closed_at': '2010-10-02T18:47:21Z', 'labels': []}
+{'issuenumber': 63, 'title': 'Firefox support', 'state': 'closed', 'created_at': '2010-10-02T06:55:37Z', 'closed_at': '2011-01-10T01:15:33Z', 'labels': []}
+{'issuenumber': 62, 'title': 'Try to end connection when already ended', 'state': 'closed', 'created_at': '2010-10-01T21:28:13Z', 'closed_at': '2011-01-10T01:03:56Z', 'labels': []}
+{'issuenumber': 61, 'title': 'Illegal transport "jsonp-polling"', 'state': 'closed', 'created_at': '2010-10-01T11:54:45Z', 'closed_at': '2011-01-10T01:03:48Z', 'labels': []}
+{'issuenumber': 59, 'title': ' Illegal transport "socket.io.js"', 'state': 'closed', 'created_at': '2010-09-28T22:27:52Z', 'closed_at': '2011-01-10T01:03:50Z', 'labels': []}
+{'issuenumber': 58, 'title': 'Bad headers in jsonp-polling, xhr-polling', 'state': 'closed', 'created_at': '2010-09-28T10:36:02Z', 'closed_at': '2011-01-10T01:16:45Z', 'labels': []}
+{'issuenumber': 57, 'title': "don't require() transports that are not in use?", 'state': 'closed', 'created_at': '2010-09-25T22:44:06Z', 'closed_at': '2011-01-10T01:03:44Z', 'labels': []}
+{'issuenumber': 56, 'title': 'README: please mention server.listen()', 'state': 'closed', 'created_at': '2010-09-25T02:35:38Z', 'closed_at': '2010-09-25T10:56:47Z', 'labels': []}
+{'issuenumber': 54, 'title': 'Opera 10.62 seems to be unsupported', 'state': 'closed', 'created_at': '2010-09-20T09:19:59Z', 'closed_at': '2011-03-06T08:35:19Z', 'labels': []}
+{'issuenumber': 51, 'title': 'websocket problems with standard 80 port', 'state': 'closed', 'created_at': '2010-09-16T07:18:33Z', 'closed_at': '2010-09-20T06:01:38Z', 'labels': []}
+{'issuenumber': 50, 'title': 'Server restart - "Couldnt find client with session id" flood', 'state': 'closed', 'created_at': '2010-09-15T01:25:08Z', 'closed_at': '2010-09-15T17:53:00Z', 'labels': []}
+{'issuenumber': 49, 'title': 'none', 'state': 'closed', 'created_at': '2010-09-14T10:58:36Z', 'closed_at': '2010-09-14T17:59:02Z', 'labels': []}
+{'issuenumber': 48, 'title': 'Errors on starting server.js on with node 0.2.0', 'state': 'closed', 'created_at': '2010-09-12T17:50:07Z', 'closed_at': '2010-09-12T18:54:52Z', 'labels': []}
+{'issuenumber': 47, 'title': 'Client.disconnect() to force a client to disconnect', 'state': 'closed', 'created_at': '2010-09-08T06:53:36Z', 'closed_at': '2010-09-09T01:33:39Z', 'labels': []}
+{'issuenumber': 45, 'title': 'example not working in firefox 3.6.8', 'state': 'closed', 'created_at': '2010-09-05T01:28:49Z', 'closed_at': '2010-09-05T01:31:21Z', 'labels': []}
+{'issuenumber': 44, 'title': 'Socket.io dies (uncatchable) on faulty web socket connection', 'state': 'closed', 'created_at': '2010-09-03T12:31:45Z', 'closed_at': '2010-09-04T01:30:00Z', 'labels': []}
+{'issuenumber': 43, 'title': 'Better logging', 'state': 'closed', 'created_at': '2010-09-01T22:14:19Z', 'closed_at': '2011-06-22T07:19:50Z', 'labels': []}
+{'issuenumber': 42, 'title': 'Error during WebSocket handshake: location mismatch', 'state': 'closed', 'created_at': '2010-08-31T10:39:30Z', 'closed_at': '2010-08-31T22:27:20Z', 'labels': []}
+{'issuenumber': 41, 'title': 'Better public .connected property', 'state': 'closed', 'created_at': '2010-08-30T23:51:23Z', 'closed_at': '2010-09-05T23:50:07Z', 'labels': []}
+{'issuenumber': 40, 'title': 'Sec-WebSocket-Location hardcoded to ws://', 'state': 'closed', 'created_at': '2010-08-25T15:59:28Z', 'closed_at': '2010-08-31T02:02:41Z', 'labels': []}
+{'issuenumber': 39, 'title': "client.broadcast doesn't respect second argument (ignores)", 'state': 'closed', 'created_at': '2010-08-24T23:54:01Z', 'closed_at': '2010-08-31T01:18:32Z', 'labels': []}
+{'issuenumber': 38, 'title': 'no socket.io.js in lib', 'state': 'closed', 'created_at': '2010-08-20T11:12:07Z', 'closed_at': '2010-08-25T07:19:36Z', 'labels': []}
+{'issuenumber': 37, 'title': 'require socket.io.js?', 'state': 'closed', 'created_at': '2010-08-20T08:53:54Z', 'closed_at': '2010-08-26T10:01:00Z', 'labels': []}
+{'issuenumber': 36, 'title': 'Cannot connect for the example', 'state': 'closed', 'created_at': '2010-08-08T02:30:07Z', 'closed_at': '2010-08-11T06:46:29Z', 'labels': []}
+{'issuenumber': 35, 'title': 'Use binary statemachine to parse websocket frames', 'state': 'closed', 'created_at': '2010-08-07T23:33:22Z', 'closed_at': '2010-09-05T21:05:44Z', 'labels': []}
+{'issuenumber': 34, 'title': 'The example chat cant connect to the server in Firefox 3.6.8', 'state': 'closed', 'created_at': '2010-07-30T18:34:20Z', 'closed_at': '2010-08-02T03:15:02Z', 'labels': []}
+{'issuenumber': 33, 'title': 'IE 6.0 fallback without Flash', 'state': 'closed', 'created_at': '2010-07-28T00:59:19Z', 'closed_at': '2010-08-25T00:22:49Z', 'labels': []}
+{'issuenumber': 32, 'title': 'DOS Attack', 'state': 'closed', 'created_at': '2010-07-12T22:27:37Z', 'closed_at': '2010-08-30T23:53:44Z', 'labels': []}
+{'issuenumber': 31, 'title': "Chat doesn't work in demo example, works only in google chrome (using websocket)", 'state': 'closed', 'created_at': '2010-07-08T07:27:43Z', 'closed_at': '2010-07-21T10:00:21Z', 'labels': []}
+{'issuenumber': 30, 'title': "TypeError: Cannot call method 'listeners' of undefined", 'state': 'closed', 'created_at': '2010-06-30T02:19:23Z', 'closed_at': '2010-07-02T07:00:54Z', 'labels': []}
+{'issuenumber': 29, 'title': "race-condition? chrome websocket 'aw-snap'", 'state': 'closed', 'created_at': '2010-06-27T06:14:17Z', 'closed_at': '2010-08-25T00:22:32Z', 'labels': []}
+{'issuenumber': 28, 'title': 'Periodically clean client list', 'state': 'closed', 'created_at': '2010-06-21T12:25:46Z', 'closed_at': '2010-08-31T21:28:03Z', 'labels': []}
+{'issuenumber': 27, 'title': 'Custom Flash Services Port', 'state': 'closed', 'created_at': '2010-06-20T19:50:16Z', 'closed_at': '2010-06-21T22:09:35Z', 'labels': []}
+{'issuenumber': 26, 'title': "Can't specify transportOptions", 'state': 'closed', 'created_at': '2010-06-17T15:15:55Z', 'closed_at': '2010-06-21T15:10:42Z', 'labels': []}
+{'issuenumber': 25, 'title': 'Apache proxy sensitivity', 'state': 'closed', 'created_at': '2010-06-14T10:21:52Z', 'closed_at': '2010-07-29T04:02:24Z', 'labels': []}
+{'issuenumber': 24, 'title': "0.3.6 doesn't come with the required oo.js", 'state': 'closed', 'created_at': '2010-06-09T05:24:00Z', 'closed_at': '2010-06-21T22:10:15Z', 'labels': []}
+{'issuenumber': 23, 'title': "xhr-polling doesn't seem to work (ff,chrome,mobilesafari)", 'state': 'closed', 'created_at': '2010-06-03T15:13:34Z', 'closed_at': '2010-08-31T01:14:37Z', 'labels': []}
+{'issuenumber': 22, 'title': 'sec-websocket-origin header missing', 'state': 'closed', 'created_at': '2010-06-01T19:39:00Z', 'closed_at': '2010-06-01T19:41:04Z', 'labels': []}
+{'issuenumber': 21, 'title': 'Handshake Failure - no websocket connection made', 'state': 'closed', 'created_at': '2010-06-01T19:03:18Z', 'closed_at': '2010-06-02T02:05:30Z', 'labels': []}
+{'issuenumber': 20, 'title': 'Channels in socket.io', 'state': 'closed', 'created_at': '2010-05-26T14:49:11Z', 'closed_at': '2010-05-26T22:44:16Z', 'labels': []}
+{'issuenumber': 19, 'title': 'Implement  WebSocket handshake Sec-* headers', 'state': 'closed', 'created_at': '2010-05-23T22:44:55Z', 'closed_at': '2010-05-25T22:51:09Z', 'labels': []}
+{'issuenumber': 18, 'title': 'Dynamics requires', 'state': 'closed', 'created_at': '2010-05-22T03:43:01Z', 'closed_at': '2010-07-29T04:01:54Z', 'labels': []}
+{'issuenumber': 17, 'title': 'Object not defined', 'state': 'closed', 'created_at': '2010-05-22T03:11:42Z', 'closed_at': '2010-06-21T15:09:57Z', 'labels': []}
+{'issuenumber': 16, 'title': 'Allow multiple listeners to be bound to a server', 'state': 'closed', 'created_at': '2010-05-17T20:35:38Z', 'closed_at': '2010-05-17T20:38:04Z', 'labels': []}
+{'issuenumber': 15, 'title': 'server fails to start with a regular user', 'state': 'closed', 'created_at': '2010-05-15T07:32:18Z', 'closed_at': '2010-05-15T16:28:19Z', 'labels': []}
+{'issuenumber': 14, 'title': 'test crashes', 'state': 'closed', 'created_at': '2010-05-12T23:46:07Z', 'closed_at': '2010-05-12T23:47:47Z', 'labels': []}
+{'issuenumber': 13, 'title': 'Websockets transport broken in Chrome', 'state': 'closed', 'created_at': '2010-05-12T08:46:53Z', 'closed_at': '2010-05-12T10:12:48Z', 'labels': []}
+{'issuenumber': 12, 'title': 'xhr-* transports do not handle cross-domain requests', 'state': 'closed', 'created_at': '2010-05-05T05:40:50Z', 'closed_at': '2010-07-29T11:01:46Z', 'labels': []}
+{'issuenumber': 11, 'title': "TypeError: Cannot set property 'use_chunked_encoding_by_default' of null", 'state': 'closed', 'created_at': '2010-04-29T03:14:51Z', 'closed_at': '2010-04-29T03:27:24Z', 'labels': []}
+{'issuenumber': 10, 'title': 'Chat test application breaks on io.util.JSON.decode', 'state': 'closed', 'created_at': '2010-04-21T10:20:09Z', 'closed_at': '2010-05-12T11:23:33Z', 'labels': []}
+{'issuenumber': 9, 'title': 'patch node.js 0.1.91', 'state': 'closed', 'created_at': '2010-04-20T15:02:09Z', 'closed_at': '2010-05-12T11:23:27Z', 'labels': []}
+{'issuenumber': 8, 'title': 'Potential Run-Time Bug in lib/socket.io/listener.js', 'state': 'closed', 'created_at': '2010-04-17T21:36:23Z', 'closed_at': '2010-04-17T21:47:12Z', 'labels': []}
+{'issuenumber': 7, 'title': "Ubuntu VM + Demo: cannot call method 'write' error", 'state': 'closed', 'created_at': '2010-04-17T17:53:49Z', 'closed_at': '2010-05-12T11:23:15Z', 'labels': []}
+{'issuenumber': 6, 'title': 'Replace js-oo with class.js', 'state': 'closed', 'created_at': '2010-04-02T21:51:59Z', 'closed_at': '2010-07-29T04:01:33Z', 'labels': []}
+{'issuenumber': 5, 'title': 'Write Specs/Tests', 'state': 'closed', 'created_at': '2010-04-02T21:50:00Z', 'closed_at': '2010-07-29T11:01:31Z', 'labels': []}
+{'issuenumber': 4, 'title': 'Handle disconnection timeouts better', 'state': 'closed', 'created_at': '2010-04-02T21:49:14Z', 'closed_at': '2010-07-29T04:01:28Z', 'labels': []}
+{'issuenumber': 3, 'title': 'Sending invalid JSON kills the server', 'state': 'closed', 'created_at': '2010-04-02T00:29:07Z', 'closed_at': '2010-04-02T00:45:30Z', 'labels': []}
+{'issuenumber': 2, 'title': 'Add session storage adaptors', 'state': 'closed', 'created_at': '2010-03-30T00:34:00Z', 'closed_at': '2010-09-01T02:18:57Z', 'labels': []}
+{'issuenumber': 1, 'title': 'Cannot start server', 'state': 'closed', 'created_at': '2010-03-18T03:37:04Z', 'closed_at': '2010-03-18T11:09:08Z', 'labels': []}

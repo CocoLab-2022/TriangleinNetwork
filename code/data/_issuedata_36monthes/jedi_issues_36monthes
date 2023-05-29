@@ -1,0 +1,391 @@
+{'issuenumber': 620, 'title': 'issue on completion when importing scipy', 'state': 'closed', 'created_at': '2015-08-21T22:54:31Z', 'closed_at': '2016-07-20T22:21:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 619, 'title': 'import jedi failed', 'state': 'closed', 'created_at': '2015-08-20T12:37:13Z', 'closed_at': '2015-08-21T15:44:11Z', 'labels': []}
+{'issuenumber': 615, 'title': "can't complete c++ classes exposed via boost.python", 'state': 'closed', 'created_at': '2015-08-11T12:28:58Z', 'closed_at': '2016-07-30T12:52:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 614, 'title': "Module names completion doesn't work in IPython", 'state': 'closed', 'created_at': '2015-08-11T07:52:01Z', 'closed_at': '2016-07-17T22:00:21Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 613, 'title': '__call__ autocomplete does not work.', 'state': 'closed', 'created_at': '2015-07-30T03:18:00Z', 'closed_at': '2016-07-31T19:37:19Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 611, 'title': 'How can I get all locations of a element with jedi ?', 'state': 'closed', 'created_at': '2015-07-27T10:22:24Z', 'closed_at': '2016-07-17T11:00:48Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 610, 'title': 'Infinite recursion when a global variable is not defined globally', 'state': 'closed', 'created_at': '2015-07-15T08:33:47Z', 'closed_at': '2016-07-20T21:19:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 609, 'title': 'Jedi does not work with C extension packages', 'state': 'closed', 'created_at': '2015-07-12T08:13:45Z', 'closed_at': '2016-07-30T12:48:31Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 608, 'title': 'No completion for logger when name is used with logging.getLogger', 'state': 'closed', 'created_at': '2015-07-08T15:13:18Z', 'closed_at': '2015-07-12T15:38:18Z', 'labels': []}
+{'issuenumber': 607, 'title': 'No completion for subprocess with inner method before import', 'state': 'closed', 'created_at': '2015-07-07T10:06:55Z', 'closed_at': '2017-01-09T09:16:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 606, 'title': "jedi doesn't show documentation", 'state': 'closed', 'created_at': '2015-07-01T13:30:23Z', 'closed_at': '2015-07-01T13:55:09Z', 'labels': []}
+{'issuenumber': 605, 'title': 'Documentation issue', 'state': 'closed', 'created_at': '2015-07-01T13:26:57Z', 'closed_at': '2015-07-01T13:46:36Z', 'labels': []}
+{'issuenumber': 604, 'title': '"auto-goto" does not resolve pony-orm\'s decorators (e.g. with generate_mapping)', 'state': 'closed', 'created_at': '2015-07-01T11:36:03Z', 'closed_at': '2019-08-02T15:42:54Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 603, 'title': '"Tips for how to use jedi efficiently"', 'state': 'closed', 'created_at': '2015-06-22T19:04:50Z', 'closed_at': '2015-08-27T08:46:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 601, 'title': 'KeyError: <Name: deprecate@244,11>', 'state': 'closed', 'created_at': '2015-06-21T10:18:03Z', 'closed_at': '2016-07-20T22:02:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 600, 'title': 'Support linter hints', 'state': 'closed', 'created_at': '2015-06-16T12:53:41Z', 'closed_at': '2019-12-13T15:45:23Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 598, 'title': 'Crash when iterating though signature params.', 'state': 'closed', 'created_at': '2015-06-09T16:50:11Z', 'closed_at': '2016-07-17T11:10:14Z', 'labels': []}
+{'issuenumber': 597, 'title': 'bracket_start is wrong with str assignment', 'state': 'closed', 'created_at': '2015-06-08T07:14:05Z', 'closed_at': '2016-07-09T00:57:23Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 596, 'title': 'Exception when trying to display documentation for a Python C extension', 'state': 'closed', 'created_at': '2015-06-04T13:31:56Z', 'closed_at': '2016-07-17T09:43:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 595, 'title': 'Errors when editing a file whose path contains a non-ascii character', 'state': 'closed', 'created_at': '2015-06-02T22:06:25Z', 'closed_at': '2015-06-04T23:09:45Z', 'labels': []}
+{'issuenumber': 594, 'title': 'KeyError during creation of jedi.Interpreter', 'state': 'closed', 'created_at': '2015-05-27T14:21:06Z', 'closed_at': '2016-07-07T17:16:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 593, 'title': "'NoneType' object has no attribute 'names_dicts'", 'state': 'closed', 'created_at': '2015-05-22T17:31:44Z', 'closed_at': '2016-07-13T07:17:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 592, 'title': "AttributeError: 'ListComprehension' object has no attribute 'parent'", 'state': 'closed', 'created_at': '2015-05-22T07:47:38Z', 'closed_at': '2016-07-12T21:42:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 591, 'title': 'Performance degradation over time', 'state': 'closed', 'created_at': '2015-05-20T09:45:33Z', 'closed_at': '2016-07-31T13:04:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 590, 'title': "KeyError: 'pytest'", 'state': 'closed', 'created_at': '2015-05-19T14:44:16Z', 'closed_at': '2016-07-08T23:12:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 589, 'title': "AttributeError: 'MergedNamesDict' object has no attribute 'get'", 'state': 'closed', 'created_at': '2015-05-19T11:46:00Z', 'closed_at': '2016-06-05T12:44:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 588, 'title': 'Jedi not autocompleting when *args or **kwargs are present in function definition', 'state': 'closed', 'created_at': '2015-05-14T21:53:49Z', 'closed_at': '2015-05-18T17:35:05Z', 'labels': []}
+{'issuenumber': 587, 'title': 'Jedi crashes on superscript', 'state': 'closed', 'created_at': '2015-05-11T15:52:37Z', 'closed_at': '2016-07-13T07:16:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 585, 'title': 'Completion of method definition', 'state': 'closed', 'created_at': '2015-05-08T08:50:21Z', 'closed_at': '2016-07-17T10:44:51Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 583, 'title': 'Autocompletion for tkinter module unavailable', 'state': 'closed', 'created_at': '2015-05-07T11:45:14Z', 'closed_at': '2015-08-28T13:39:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 582, 'title': 'classmethod: no completion on instance of cls', 'state': 'closed', 'created_at': '2015-05-06T13:03:44Z', 'closed_at': '2016-07-20T08:21:37Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 580, 'title': 'Semantic keyword completion', 'state': 'closed', 'created_at': '2015-05-05T22:17:23Z', 'closed_at': '2015-05-18T09:27:05Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 579, 'title': 'KeyError for lambda expressions with re-used arguments', 'state': 'closed', 'created_at': '2015-05-04T08:35:56Z', 'closed_at': '2016-07-07T17:18:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 577, 'title': 'Error when no path is given to Script', 'state': 'closed', 'created_at': '2015-05-03T17:41:38Z', 'closed_at': '2016-07-10T10:14:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 576, 'title': "Python 3.3: 'NoneType' object has no attribute 'type'", 'state': 'closed', 'created_at': '2015-05-03T17:39:33Z', 'closed_at': '2016-07-09T13:22:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 575, 'title': "Python 3.3: 'NoneType' object has no attribute 'names_dicts'", 'state': 'closed', 'created_at': '2015-05-03T17:36:11Z', 'closed_at': '2016-07-10T10:18:06Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 574, 'title': 'Failure with completion for read() on ZipFile: "RuntimeError: maximum recursion depth exceeded"', 'state': 'closed', 'created_at': '2015-05-03T00:04:31Z', 'closed_at': '2018-03-12T19:53:58Z', 'labels': {'name': 'performance'}}
+{'issuenumber': 573, 'title': "AttributeError: 'Operator' object has no attribute 'get_definition'", 'state': 'closed', 'created_at': '2015-05-02T19:06:40Z', 'closed_at': '2016-07-09T01:04:23Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 572, 'title': "KeyError: u'map' on lambda expression", 'state': 'closed', 'created_at': '2015-05-02T15:21:00Z', 'closed_at': '2016-07-09T01:00:57Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 571, 'title': 'goto assignement regression?', 'state': 'closed', 'created_at': '2015-04-29T10:11:05Z', 'closed_at': '2016-07-13T22:22:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 570, 'title': 'jedi-vim: "Builtin modules cannot be displayed" error with assignment and goto_definitions()', 'state': 'closed', 'created_at': '2015-04-29T07:35:22Z', 'closed_at': '2015-07-01T12:06:53Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 569, 'title': 'NotImplementedError with the linter', 'state': 'closed', 'created_at': '2015-04-28T17:20:35Z', 'closed_at': '2016-07-17T10:35:24Z', 'labels': []}
+{'issuenumber': 568, 'title': 'goto_definitions on pyqtSlot signal causes AttributeError', 'state': 'closed', 'created_at': '2015-04-10T21:11:18Z', 'closed_at': '2016-07-17T10:36:45Z', 'labels': []}
+{'issuenumber': 566, 'title': 'Jedi 0.9.0 release', 'state': 'closed', 'created_at': '2015-04-08T11:25:17Z', 'closed_at': '2015-04-28T17:05:50Z', 'labels': []}
+{'issuenumber': 563, 'title': 'Atom support of jedi is getting stable.', 'state': 'closed', 'created_at': '2015-04-08T00:16:01Z', 'closed_at': '2015-04-08T08:16:08Z', 'labels': []}
+{'issuenumber': 561, 'title': 'low priority feature request', 'state': 'closed', 'created_at': '2015-04-04T15:48:11Z', 'closed_at': '2015-04-07T12:11:53Z', 'labels': []}
+{'issuenumber': 560, 'title': 'Add support for arbitrary sys.path', 'state': 'closed', 'created_at': '2015-03-26T17:06:05Z', 'closed_at': '2015-10-27T18:47:32Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 559, 'title': "Jedi doesn't like python2-style octal", 'state': 'closed', 'created_at': '2015-03-25T12:47:47Z', 'closed_at': '2016-07-17T20:36:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 558, 'title': "Jedi doesn't show available methods for instances", 'state': 'closed', 'created_at': '2015-03-23T09:34:29Z', 'closed_at': '2015-03-24T10:08:24Z', 'labels': []}
+{'issuenumber': 557, 'title': 'print(value, ...)', 'state': 'closed', 'created_at': '2015-03-18T21:01:48Z', 'closed_at': '2015-03-22T12:18:08Z', 'labels': []}
+{'issuenumber': 555, 'title': 'Attribute errors', 'state': 'closed', 'created_at': '2015-03-13T10:49:27Z', 'closed_at': '2015-03-23T15:32:38Z', 'labels': []}
+{'issuenumber': 554, 'title': "Jedi doesn't understand `enumerate`", 'state': 'closed', 'created_at': '2015-03-11T05:02:26Z', 'closed_at': '2015-05-04T16:46:47Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 553, 'title': 'Writing a function with colon', 'state': 'closed', 'created_at': '2015-03-08T21:33:10Z', 'closed_at': '2015-06-30T16:01:58Z', 'labels': []}
+{'issuenumber': 551, 'title': 'jedi autocompletion breaks with networkx', 'state': 'closed', 'created_at': '2015-03-05T22:06:07Z', 'closed_at': '2016-07-17T10:38:59Z', 'labels': []}
+{'issuenumber': 548, 'title': "KeyError: u'u' in tokenize.generate_tokens", 'state': 'closed', 'created_at': '2015-02-18T16:21:16Z', 'closed_at': '2015-02-19T10:20:07Z', 'labels': []}
+{'issuenumber': 547, 'title': "Current version on PyPI doesn't play well with latest setuptools (PEP 440)", 'state': 'closed', 'created_at': '2015-02-13T17:30:46Z', 'closed_at': '2015-02-13T19:34:36Z', 'labels': []}
+{'issuenumber': 545, 'title': 'max recursion limit with new parser code and buildout project', 'state': 'closed', 'created_at': '2015-02-09T20:35:25Z', 'closed_at': '2015-04-20T19:57:09Z', 'labels': []}
+{'issuenumber': 544, 'title': 'Inconsistent handling of script directory', 'state': 'closed', 'created_at': '2015-02-08T09:16:39Z', 'closed_at': '2018-03-13T08:22:20Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 543, 'title': 'Support for Factory Boy / DjangoModelFactory', 'state': 'closed', 'created_at': '2015-02-04T18:52:42Z', 'closed_at': '2019-08-02T15:25:15Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 542, 'title': 'Inline type hinting', 'state': 'closed', 'created_at': '2015-02-04T18:41:27Z', 'closed_at': '2016-02-15T23:09:30Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 541, 'title': "'UnboundLocalError: local variable 'path' referenced before assignment' still occurs in master and pip version", 'state': 'closed', 'created_at': '2015-01-31T02:40:45Z', 'closed_at': '2015-01-31T17:25:04Z', 'labels': []}
+{'issuenumber': 540, 'title': '>2 second lag in some cases using python 3', 'state': 'closed', 'created_at': '2015-01-28T00:19:50Z', 'closed_at': '2016-07-30T12:44:54Z', 'labels': {'name': 'performance'}}
+{'issuenumber': 538, 'title': '[parser] ValueError from Django not caught for many-to-many relationship', 'state': 'closed', 'created_at': '2015-01-25T23:48:44Z', 'closed_at': '2015-03-24T14:26:14Z', 'labels': []}
+{'issuenumber': 537, 'title': 'wheel package format', 'state': 'closed', 'created_at': '2015-01-24T22:39:57Z', 'closed_at': '2015-04-28T17:15:13Z', 'labels': {'name': 'release-discussion'}}
+{'issuenumber': 536, 'title': 'Relative star imports (old: Is this a bug?)', 'state': 'closed', 'created_at': '2015-01-24T15:27:59Z', 'closed_at': '2015-04-27T15:03:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 535, 'title': "API to adjust jedi's internal sys.path", 'state': 'closed', 'created_at': '2015-01-24T09:03:06Z', 'closed_at': '2015-10-27T18:48:08Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 533, 'title': '[parser] AttributeError: "... Don\'t touch this (py__mro__)!" with Django\'s model Manager', 'state': 'closed', 'created_at': '2015-01-19T16:32:23Z', 'closed_at': '2015-03-31T00:14:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 531, 'title': 'GTK+ 3 (GObject introspection)', 'state': 'closed', 'created_at': '2015-01-19T14:54:17Z', 'closed_at': '2018-07-02T22:59:03Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 529, 'title': 'Unguarded __getattr__ causes exception', 'state': 'closed', 'created_at': '2015-01-16T11:19:15Z', 'closed_at': '2015-04-12T15:18:42Z', 'labels': []}
+{'issuenumber': 526, 'title': 'Issue when filtering completion candidates with East-Asian characters', 'state': 'closed', 'created_at': '2015-01-15T12:48:38Z', 'closed_at': '2015-03-06T14:04:02Z', 'labels': []}
+{'issuenumber': 525, 'title': 'Point to readthedocs instead of jedidjah', 'state': 'closed', 'created_at': '2015-01-09T08:53:56Z', 'closed_at': '2015-02-23T10:50:08Z', 'labels': {'name': 'release-discussion'}}
+{'issuenumber': 524, 'title': 'Melpa installs 0.7.0 - old versioned jedi', 'state': 'closed', 'created_at': '2015-01-06T04:38:49Z', 'closed_at': '2015-01-06T10:13:03Z', 'labels': []}
+{'issuenumber': 523, 'title': 'Emacs - Jedi not recognising dist-packages libraries', 'state': 'closed', 'created_at': '2015-01-04T07:39:10Z', 'closed_at': '2015-01-16T05:38:31Z', 'labels': []}
+{'issuenumber': 521, 'title': 'UserWarning: version is not PEP440 compatible.', 'state': 'closed', 'created_at': '2014-12-19T07:02:11Z', 'closed_at': '2015-01-05T12:15:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 520, 'title': 'Slow pandas completion', 'state': 'closed', 'created_at': '2014-12-14T15:59:26Z', 'closed_at': '2020-01-05T01:40:56Z', 'labels': {'name': 'performance'}}
+{'issuenumber': 519, 'title': 'full_name of sub modules does not list parent package', 'state': 'closed', 'created_at': '2014-12-09T16:03:12Z', 'closed_at': '2015-04-23T02:12:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 518, 'title': 'Access source code line in definiton.', 'state': 'closed', 'created_at': '2014-12-04T07:08:50Z', 'closed_at': '2016-07-31T18:38:51Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 517, 'title': 'Typehinting: Collection element types?', 'state': 'closed', 'created_at': '2014-12-04T04:44:51Z', 'closed_at': '2016-07-17T10:29:14Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 516, 'title': 'Support for dynamically created classes', 'state': 'closed', 'created_at': '2014-12-01T18:02:12Z', 'closed_at': '2020-01-05T01:58:47Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 515, 'title': "call_signatures: can't distiguish beween class and instance calls on builtins", 'state': 'closed', 'created_at': '2014-12-01T13:35:00Z', 'closed_at': '2015-04-10T11:45:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 514, 'title': 'IndexError when creating jedi.Interpreter.', 'state': 'closed', 'created_at': '2014-11-29T17:52:29Z', 'closed_at': '2015-03-24T16:32:51Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 513, 'title': "AttributeError: 'generator' object has no attribute '__objclass__'", 'state': 'closed', 'created_at': '2014-11-28T12:04:18Z', 'closed_at': '2015-03-24T16:38:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 512, 'title': 'call_signatures improvements', 'state': 'closed', 'created_at': '2014-11-27T13:31:03Z', 'closed_at': '2016-07-31T10:52:29Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 511, 'title': "Interpreter: completions from namespaces all have type=='module'", 'state': 'closed', 'created_at': '2014-11-27T12:29:03Z', 'closed_at': '2015-03-24T14:28:57Z', 'labels': []}
+{'issuenumber': 510, 'title': 'call_signatures does not work on chained calls', 'state': 'closed', 'created_at': '2014-11-26T10:42:24Z', 'closed_at': '2015-04-10T00:17:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 509, 'title': 'Completion on imported submodules does not work', 'state': 'closed', 'created_at': '2014-11-25T13:56:15Z', 'closed_at': '2014-11-25T14:42:17Z', 'labels': []}
+{'issuenumber': 508, 'title': 'Attribute error when getting completions for "yield " as inputstring.', 'state': 'closed', 'created_at': '2014-11-19T09:30:01Z', 'closed_at': '2015-03-25T10:29:47Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 507, 'title': 'Type hinting for imported types', 'state': 'closed', 'created_at': '2014-11-14T17:36:19Z', 'closed_at': '2016-07-31T10:19:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 506, 'title': 'continuation line cannot be placed to avoid error', 'state': 'closed', 'created_at': '2014-11-14T15:07:24Z', 'closed_at': '2014-11-14T15:12:34Z', 'labels': []}
+{'issuenumber': 504, 'title': 'Support for NumPy and Google-style Sphinx docstrings', 'state': 'closed', 'created_at': '2014-11-02T12:06:01Z', 'closed_at': '2016-07-17T10:15:14Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 503, 'title': 'functools.wraps should preserve decorated function signature', 'state': 'closed', 'created_at': '2014-11-02T03:00:03Z', 'closed_at': '2019-07-28T22:37:29Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 501, 'title': "Call signatures not displayed after 'return'", 'state': 'closed', 'created_at': '2014-10-26T23:53:57Z', 'closed_at': '2015-03-05T22:23:39Z', 'labels': []}
+{'issuenumber': 500, 'title': '"RuntimeError: dictionary changed size during iteration" when calling completions()', 'state': 'closed', 'created_at': '2014-10-26T19:33:53Z', 'closed_at': '2015-03-05T22:25:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 499, 'title': 'Jedi cannot be installed (and totally borks SublimePythonIDE)', 'state': 'closed', 'created_at': '2014-10-24T18:57:57Z', 'closed_at': '2015-03-24T14:28:03Z', 'labels': []}
+{'issuenumber': 498, 'title': 'Not showing function signatures for class methods', 'state': 'closed', 'created_at': '2014-10-19T06:23:35Z', 'closed_at': '2019-07-24T10:58:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 497, 'title': 'fast_parent_copy extremely slow (>1 minute)', 'state': 'closed', 'created_at': '2014-10-18T00:26:43Z', 'closed_at': '2015-03-25T12:08:44Z', 'labels': {'name': 'performance'}}
+{'issuenumber': 496, 'title': 'jedi ignores current virtualenv?', 'state': 'closed', 'created_at': '2014-10-17T09:21:28Z', 'closed_at': '2014-10-17T09:40:21Z', 'labels': []}
+{'issuenumber': 495, 'title': 'UnicodeDecodeError on OpenBSD.', 'state': 'closed', 'created_at': '2014-10-10T16:15:28Z', 'closed_at': '2018-03-12T19:37:16Z', 'labels': {'name': 'low-prio'}}
+{'issuenumber': 494, 'title': 'goto_definitions and contextmanagers', 'state': 'closed', 'created_at': '2014-10-10T14:52:23Z', 'closed_at': '2015-03-05T22:46:28Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 493, 'title': 'Feature Request: System File Path Completion', 'state': 'closed', 'created_at': '2014-10-07T10:14:42Z', 'closed_at': '2019-08-05T23:10:36Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 492, 'title': '__import__() argument 1 must be string, not None', 'state': 'closed', 'created_at': '2014-10-03T20:17:43Z', 'closed_at': '2015-03-25T10:30:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 491, 'title': 'ValueError: __loader__ is None', 'state': 'closed', 'created_at': '2014-10-03T19:37:15Z', 'closed_at': '2015-04-13T13:13:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 490, 'title': 'IndexError when calling full_name of signature.', 'state': 'closed', 'created_at': '2014-10-03T19:34:04Z', 'closed_at': '2015-03-25T10:32:57Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 489, 'title': 'Jedi allocates memory but never frees it.', 'state': 'closed', 'created_at': '2014-10-01T18:46:14Z', 'closed_at': '2014-10-06T15:57:00Z', 'labels': []}
+{'issuenumber': 488, 'title': 'Support for characteristic', 'state': 'closed', 'created_at': '2014-10-01T11:59:09Z', 'closed_at': '2016-09-24T11:05:50Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 487, 'title': "AttributeError: 'LazyName' object has no attribute '_parent' in ``get_completions``.", 'state': 'closed', 'created_at': '2014-09-30T20:51:07Z', 'closed_at': '2015-03-25T10:24:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 486, 'title': "UnboundLocalError: local variable 'path' referenced before assignment", 'state': 'closed', 'created_at': '2014-09-20T18:40:50Z', 'closed_at': '2014-09-20T20:16:22Z', 'labels': []}
+{'issuenumber': 485, 'title': 'ValueError: invalid \\x escape', 'state': 'closed', 'created_at': '2014-09-14T15:44:58Z', 'closed_at': '2015-03-27T18:35:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 482, 'title': 'UnicodeEncodeError with unicode in strings', 'state': 'closed', 'created_at': '2014-09-13T09:41:00Z', 'closed_at': '2015-03-25T10:41:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 481, 'title': 'Inconsitent usage results', 'state': 'closed', 'created_at': '2014-09-11T02:50:28Z', 'closed_at': '2015-04-09T14:36:01Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 480, 'title': 'A New Parser', 'state': 'closed', 'created_at': '2014-09-09T09:38:23Z', 'closed_at': '2015-02-09T13:39:23Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 479, 'title': 'Function Arguments', 'state': 'closed', 'created_at': '2014-09-09T06:17:50Z', 'closed_at': '2014-09-09T13:46:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 478, 'title': 'Completion for imports after module name (`import os.`)', 'state': 'closed', 'created_at': '2014-09-04T05:01:47Z', 'closed_at': '2015-04-10T00:36:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 477, 'title': 'Listing alll names of a file/project. [API-Design]', 'state': 'closed', 'created_at': '2014-09-03T09:45:22Z', 'closed_at': '2016-07-17T10:08:27Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 476, 'title': 'Completion hangs', 'state': 'closed', 'created_at': '2014-09-02T13:32:48Z', 'closed_at': '2016-07-18T21:34:28Z', 'labels': {'name': 'performance'}}
+{'issuenumber': 475, 'title': 'False positive:  unsupported operand type(s) for +', 'state': 'closed', 'created_at': '2014-08-29T12:28:24Z', 'closed_at': '2019-08-02T14:29:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 474, 'title': 'AttributeError in python2 unicode.isinstance', 'state': 'closed', 'created_at': '2014-08-29T12:23:10Z', 'closed_at': '2019-08-02T14:22:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 473, 'title': 'usages() finds wrong uses in assignments', 'state': 'closed', 'created_at': '2014-08-28T09:42:37Z', 'closed_at': '2017-10-01T11:42:12Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 472, 'title': 'jedi fails when pkg.__init__ is an extension module', 'state': 'closed', 'created_at': '2014-08-27T13:22:46Z', 'closed_at': '2015-04-08T00:55:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 471, 'title': 'ImportError during call_signatures', 'state': 'closed', 'created_at': '2014-08-27T07:51:02Z', 'closed_at': '2015-03-06T10:30:23Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 470, 'title': 'Issue in send key element for Firefox - python 3.4.1', 'state': 'closed', 'created_at': '2014-08-27T06:20:06Z', 'closed_at': '2015-03-05T22:40:31Z', 'labels': []}
+{'issuenumber': 468, 'title': 'linter crashes on module that import `socket`', 'state': 'closed', 'created_at': '2014-08-20T07:11:47Z', 'closed_at': '2015-04-10T00:38:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 466, 'title': 'SyntaxError: EOL while scanning string literal', 'state': 'closed', 'created_at': '2014-08-17T08:31:46Z', 'closed_at': '2015-03-06T12:20:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 465, 'title': 'SyntaxError: encoding declaration in Unicode string', 'state': 'closed', 'created_at': '2014-08-17T08:24:48Z', 'closed_at': '2015-03-05T22:49:18Z', 'labels': []}
+{'issuenumber': 464, 'title': "`jedi:setup-keys' is an obsolete variable", 'state': 'closed', 'created_at': '2014-08-11T06:21:24Z', 'closed_at': '2014-08-11T08:59:44Z', 'labels': []}
+{'issuenumber': 463, 'title': 'Completion suggests deleted attributes in the os module', 'state': 'closed', 'created_at': '2014-08-10T11:56:43Z', 'closed_at': '2014-08-10T12:07:55Z', 'labels': []}
+{'issuenumber': 462, 'title': 'linter crashes on PEP 3132 Extended Iterable Unpacking', 'state': 'closed', 'created_at': '2014-08-05T22:10:20Z', 'closed_at': '2016-07-30T01:10:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 461, 'title': 'linter thinks bound methods are plain functions', 'state': 'closed', 'created_at': '2014-08-04T19:33:40Z', 'closed_at': '2016-07-31T21:43:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 460, 'title': "linter doesn't honor isinstance() if it's part of a longer expression", 'state': 'closed', 'created_at': '2014-08-04T18:46:51Z', 'closed_at': '2016-07-17T10:05:05Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 459, 'title': 'About Funcation', 'state': 'closed', 'created_at': '2014-08-02T17:21:14Z', 'closed_at': '2015-03-06T13:57:09Z', 'labels': []}
+{'issuenumber': 458, 'title': 'Autocomplete inherited methods when overriding in child class', 'state': 'closed', 'created_at': '2014-08-01T18:14:23Z', 'closed_at': '2016-07-31T21:10:04Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 457, 'title': 'Linter crash', 'state': 'closed', 'created_at': '2014-07-30T11:21:18Z', 'closed_at': '2015-02-24T07:49:10Z', 'labels': []}
+{'issuenumber': 455, 'title': "linter doesn't recognize self as an implicit first argument", 'state': 'closed', 'created_at': '2014-07-27T17:13:03Z', 'closed_at': '2019-12-13T16:05:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 454, 'title': 'PicklingError with linter', 'state': 'closed', 'created_at': '2014-07-27T17:02:54Z', 'closed_at': '2014-07-28T06:59:24Z', 'labels': []}
+{'issuenumber': 452, 'title': 'Support arbitrary import hooks', 'state': 'closed', 'created_at': '2014-07-27T12:49:58Z', 'closed_at': '2016-07-17T10:03:10Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 449, 'title': 'Completion breaks everywhere', 'state': 'closed', 'created_at': '2014-07-27T08:23:44Z', 'closed_at': '2014-08-04T14:48:22Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 447, 'title': 'Incorrect "has no attribute" linter errors when using CFFI modules', 'state': 'closed', 'created_at': '2014-07-26T18:01:03Z', 'closed_at': '2016-07-30T13:08:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 446, 'title': 'Incorrect linter error', 'state': 'closed', 'created_at': '2014-07-26T17:53:18Z', 'closed_at': '2019-08-02T14:28:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 443, 'title': '.pth status', 'state': 'closed', 'created_at': '2014-07-26T14:01:06Z', 'closed_at': '2015-10-27T18:48:51Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 442, 'title': 'RFC: Get list of possible exceptions', 'state': 'closed', 'created_at': '2014-07-26T14:00:42Z', 'closed_at': '2020-01-05T02:05:36Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 438, 'title': 'Inconsistent git tag with 0.8.1 (vs. v0.8.1)', 'state': 'closed', 'created_at': '2014-07-24T22:34:42Z', 'closed_at': '2014-07-25T00:15:49Z', 'labels': []}
+{'issuenumber': 436, 'title': 'Jedi linter exits with an error', 'state': 'closed', 'created_at': '2014-07-24T16:44:51Z', 'closed_at': '2014-07-27T13:59:36Z', 'labels': []}
+{'issuenumber': 432, 'title': 'multiprocessing autocompletion fails with Python 3.4.1 [old: functions named arguments fail...]', 'state': 'closed', 'created_at': '2014-07-09T11:42:15Z', 'closed_at': '2016-07-17T09:56:13Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 431, 'title': "'NoneType' object has no attribute 'end_pos'", 'state': 'closed', 'created_at': '2014-07-07T17:38:40Z', 'closed_at': '2014-07-18T13:15:21Z', 'labels': []}
+{'issuenumber': 429, 'title': 'IndexError: list index out of range in completions', 'state': 'closed', 'created_at': '2014-07-06T16:37:54Z', 'closed_at': '2015-02-09T13:42:33Z', 'labels': []}
+{'issuenumber': 428, 'title': 'Jedi not working with Numpy on Windows 7', 'state': 'closed', 'created_at': '2014-07-06T15:22:58Z', 'closed_at': '2014-07-22T01:14:09Z', 'labels': []}
+{'issuenumber': 427, 'title': 'Decoding error in DocstringMixin.raw_doc', 'state': 'closed', 'created_at': '2014-06-26T13:30:19Z', 'closed_at': '2014-07-18T15:45:47Z', 'labels': []}
+{'issuenumber': 424, 'title': 'Form feed characters confuse Jedi', 'state': 'closed', 'created_at': '2014-06-19T14:50:21Z', 'closed_at': '2014-07-18T15:00:15Z', 'labels': []}
+{'issuenumber': 421, 'title': 'Call to parent class via `super` gets not resolved for completion', 'state': 'closed', 'created_at': '2014-06-08T18:58:45Z', 'closed_at': '2014-07-30T09:35:19Z', 'labels': []}
+{'issuenumber': 420, 'title': "AttributeError: 'Token' object has no attribute 'name'", 'state': 'closed', 'created_at': '2014-06-03T21:17:26Z', 'closed_at': '2014-07-22T22:48:22Z', 'labels': []}
+{'issuenumber': 419, 'title': "AttributeError: Instance <eInstance of <eClass of <Class: ResultMerger@25-27>> (var_args: 2)>: Don't touch this (expression_list)!", 'state': 'closed', 'created_at': '2014-06-03T21:06:12Z', 'closed_at': '2015-03-24T14:07:51Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 418, 'title': 'Matplotlib top-level completion not working', 'state': 'closed', 'created_at': '2014-06-01T22:00:43Z', 'closed_at': '2014-07-18T13:10:49Z', 'labels': []}
+{'issuenumber': 417, 'title': '"TypeError: no dicts allowed" in call_signatures()', 'state': 'closed', 'created_at': '2014-05-28T21:33:03Z', 'closed_at': '2014-07-18T13:37:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 416, 'title': "local variable 'old_stmt' referenced before assignment", 'state': 'closed', 'created_at': '2014-05-28T08:42:45Z', 'closed_at': '2014-07-18T11:08:14Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 414, 'title': 'Type hinting for WebDriver from Selenium (using dotted path)', 'state': 'closed', 'created_at': '2014-05-22T13:58:53Z', 'closed_at': '2014-08-04T14:56:31Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 413, 'title': 'Handle module subpackage imports correctly', 'state': 'closed', 'created_at': '2014-05-20T15:56:41Z', 'closed_at': '2014-07-22T22:48:22Z', 'labels': []}
+{'issuenumber': 412, 'title': 'Jedi + Python3 unable to complete in open file context', 'state': 'closed', 'created_at': '2014-05-18T15:52:53Z', 'closed_at': '2015-04-08T23:44:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 409, 'title': 'Completion sometimes not launched by . when with python', 'state': 'closed', 'created_at': '2014-05-15T17:15:51Z', 'closed_at': '2014-07-28T10:38:15Z', 'labels': []}
+{'issuenumber': 408, 'title': 'What are your most typical mistakes that you would like a static analysis tool pick up?', 'state': 'closed', 'created_at': '2014-05-12T10:03:37Z', 'closed_at': '2016-07-17T09:46:27Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 405, 'title': 'REPL completion seems broken', 'state': 'closed', 'created_at': '2014-05-06T06:08:09Z', 'closed_at': '2015-03-25T10:37:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 402, 'title': 'Cannot get completions for jedi.Script', 'state': 'closed', 'created_at': '2014-04-28T13:34:32Z', 'closed_at': '2014-05-04T00:42:06Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 401, 'title': "'Token' object has no attribute 'set_next'", 'state': 'closed', 'created_at': '2014-04-28T07:58:24Z', 'closed_at': '2014-05-03T18:46:49Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 400, 'title': 'Support parentheses in params syntax', 'state': 'closed', 'created_at': '2014-04-25T13:40:01Z', 'closed_at': '2014-08-04T08:28:12Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 398, 'title': 'charmap error when using Jedi in python 3.4', 'state': 'closed', 'created_at': '2014-04-22T19:57:17Z', 'closed_at': '2014-04-27T19:11:58Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 397, 'title': 'ModuleNotFound when getting completion type', 'state': 'closed', 'created_at': '2014-04-22T07:34:27Z', 'closed_at': '2014-05-01T08:48:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 396, 'title': 'Calltips: strange behaviour', 'state': 'closed', 'created_at': '2014-04-22T06:47:02Z', 'closed_at': '2014-05-04T14:40:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 395, 'title': 'Release 0.8.0', 'state': 'closed', 'created_at': '2014-04-16T08:27:07Z', 'closed_at': '2014-05-04T22:21:34Z', 'labels': {'name': 'next_release'}}
+{'issuenumber': 394, 'title': 'error in process filter: Error from RPC: "[Errno 2] No such file or directory: \'setuptools/__init__.py\'"', 'state': 'closed', 'created_at': '2014-04-03T04:54:36Z', 'closed_at': '2015-04-09T14:29:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 393, 'title': 'Call signatures: backward incompatiblity', 'state': 'closed', 'created_at': '2014-03-28T09:33:21Z', 'closed_at': '2014-04-02T12:00:18Z', 'labels': []}
+{'issuenumber': 392, 'title': 'Adding `Script.documentation`.', 'state': 'closed', 'created_at': '2014-03-25T11:37:55Z', 'closed_at': '2019-12-22T01:36:18Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 391, 'title': 'Completion problems about the object of numpy, matplotlib in windows 7', 'state': 'closed', 'created_at': '2014-03-23T09:30:51Z', 'closed_at': '2014-03-23T11:51:16Z', 'labels': []}
+{'issuenumber': 390, 'title': 'Script with source_path arg returns wrong call_signature', 'state': 'closed', 'created_at': '2014-03-21T15:41:45Z', 'closed_at': '2014-04-09T10:32:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 389, 'title': "Can't get completions for module installed with pip", 'state': 'closed', 'created_at': '2014-03-20T19:29:39Z', 'closed_at': '2014-04-27T19:13:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 386, 'title': 'check_virtual_env function fail to detect evironments with other python version', 'state': 'closed', 'created_at': '2014-03-18T19:02:08Z', 'closed_at': '2014-03-21T20:50:47Z', 'labels': []}
+{'issuenumber': 385, 'title': 'Discussion: Jedi wrapper module using server-client architecture to deal with multiprocessing, async interface, multiple Python version, cache lock, etc.', 'state': 'closed', 'created_at': '2014-03-18T17:00:09Z', 'closed_at': '2019-12-13T19:35:43Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 384, 'title': 'Suggestion: keep sys.path per Evaluator instance', 'state': 'closed', 'created_at': '2014-03-17T18:06:56Z', 'closed_at': '2015-10-27T18:48:44Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 383, 'title': 'Letting Jedi understand swig generated libs', 'state': 'closed', 'created_at': '2014-03-14T11:47:30Z', 'closed_at': '2019-07-21T23:11:17Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 382, 'title': 'Reconsidering goto_definitions. Add goto_assignments(follow_assignments=True) and/or goto_types?', 'state': 'closed', 'created_at': '2014-03-14T02:12:29Z', 'closed_at': '2016-08-06T10:51:41Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 381, 'title': 'Possible cache issue', 'state': 'closed', 'created_at': '2014-03-12T12:55:35Z', 'closed_at': '2014-03-12T14:23:39Z', 'labels': []}
+{'issuenumber': 380, 'title': 'Issue with inheritance from compiled class', 'state': 'closed', 'created_at': '2014-03-10T17:13:16Z', 'closed_at': '2014-03-11T11:45:59Z', 'labels': []}
+{'issuenumber': 379, 'title': 'Completing in constructor with lambda as default argument', 'state': 'closed', 'created_at': '2014-02-27T18:00:47Z', 'closed_at': '2014-03-11T11:29:12Z', 'labels': []}
+{'issuenumber': 377, 'title': 'Another docstring issue - maybe found what is causing it', 'state': 'closed', 'created_at': '2014-02-20T12:58:57Z', 'closed_at': '2014-03-26T12:07:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 376, 'title': "'CompiledName' object has no attribute 'docstr'", 'state': 'closed', 'created_at': '2014-02-17T08:18:19Z', 'closed_at': '2014-03-10T09:03:05Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 373, 'title': "'CompiledObject' object has no attribute 'params'", 'state': 'closed', 'created_at': '2014-01-27T08:01:41Z', 'closed_at': '2014-02-26T15:18:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 372, 'title': 'No completions of the functions of SciPy, NumPy, Matplotlib, and PyLab', 'state': 'closed', 'created_at': '2014-01-24T04:06:01Z', 'closed_at': '2018-03-13T23:53:47Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 371, 'title': 'Extend Script class with virtualenv param.', 'state': 'closed', 'created_at': '2014-01-22T05:35:13Z', 'closed_at': '2014-03-17T19:34:42Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 370, 'title': 'Type hinting not working for user-defined classes', 'state': 'closed', 'created_at': '2014-01-20T10:33:18Z', 'closed_at': '2014-03-28T00:44:27Z', 'labels': []}
+{'issuenumber': 369, 'title': '0.8.0-alpha1 weird version string', 'state': 'closed', 'created_at': '2014-01-15T20:09:56Z', 'closed_at': '2014-01-15T23:43:52Z', 'labels': []}
+{'issuenumber': 364, 'title': 'Cannot import Jedi from Python Prompt on Windows', 'state': 'closed', 'created_at': '2014-01-12T03:38:31Z', 'closed_at': '2014-01-12T14:08:49Z', 'labels': []}
+{'issuenumber': 361, 'title': 'Support for Flask custom import of extensions', 'state': 'closed', 'created_at': '2014-01-01T12:28:53Z', 'closed_at': '2016-07-17T09:47:27Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 357, 'title': 'Jedi crashing when importing from PyQt', 'state': 'closed', 'created_at': '2013-12-19T00:10:41Z', 'closed_at': '2013-12-19T09:14:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 356, 'title': "Jedi doesn't list bultiins as candidates with YouCompleteMe ", 'state': 'closed', 'created_at': '2013-12-18T13:32:31Z', 'closed_at': '2013-12-19T15:02:29Z', 'labels': []}
+{'issuenumber': 355, 'title': 'Deferred error with VTK library', 'state': 'closed', 'created_at': '2013-12-10T16:59:18Z', 'closed_at': '2014-03-11T11:50:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 352, 'title': 'Compiled file auto-completion', 'state': 'closed', 'created_at': '2013-12-05T14:29:32Z', 'closed_at': '2014-02-19T18:10:44Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 351, 'title': 'Deffered errors with unicode docstring', 'state': 'closed', 'created_at': '2013-12-05T05:30:53Z', 'closed_at': '2014-04-04T13:32:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 350, 'title': 'Why is jedi.__version__ a tuple?', 'state': 'closed', 'created_at': '2013-12-04T00:31:53Z', 'closed_at': '2014-01-13T23:27:50Z', 'labels': []}
+{'issuenumber': 349, 'title': 'Can\'t complete "urllib.parse."', 'state': 'closed', 'created_at': '2013-11-29T17:52:18Z', 'closed_at': '2014-02-19T18:42:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 348, 'title': 'cStringIO not supported', 'state': 'closed', 'created_at': '2013-11-23T20:48:31Z', 'closed_at': '2014-04-02T20:24:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 347, 'title': 'Memory and CPU usage in 0.7.0 with simple completions', 'state': 'closed', 'created_at': '2013-11-22T19:17:35Z', 'closed_at': '2013-12-02T18:09:51Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 346, 'title': 'get_code() fidelity', 'state': 'closed', 'created_at': '2013-11-22T15:03:15Z', 'closed_at': '2015-02-10T13:34:12Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 344, 'title': 'Support for Symbol Browsing', 'state': 'closed', 'created_at': '2013-11-20T14:29:26Z', 'closed_at': '2014-04-02T11:49:23Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 343, 'title': 'jedi does not works on z3', 'state': 'closed', 'created_at': '2013-11-17T17:19:22Z', 'closed_at': '2014-03-11T10:34:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 342, 'title': 'Error when completing os.path in python 3.1.3', 'state': 'closed', 'created_at': '2013-11-07T19:09:06Z', 'closed_at': '2014-03-11T11:47:26Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 341, 'title': 'Performance on Big (Extension) Modules', 'state': 'closed', 'created_at': '2013-11-04T02:51:32Z', 'closed_at': '2014-01-15T23:30:55Z', 'labels': {'name': 'performance'}}
+{'issuenumber': 340, 'title': 'Missing Doc Strings for Classes and Modules', 'state': 'closed', 'created_at': '2013-11-03T02:57:37Z', 'closed_at': '2014-03-25T11:48:06Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 339, 'title': "Jedi doesn't support inheritance, does it?", 'state': 'closed', 'created_at': '2013-10-31T17:25:21Z', 'closed_at': '2014-01-14T00:08:57Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 337, 'title': 'Get "fake" source for extension module?', 'state': 'closed', 'created_at': '2013-10-31T10:12:47Z', 'closed_at': '2014-01-13T20:48:00Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 336, 'title': 'ImportError when completing python 3 extension modules', 'state': 'closed', 'created_at': '2013-10-30T20:15:01Z', 'closed_at': '2014-02-19T17:58:30Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 335, 'title': 'Normal memory usage?', 'state': 'closed', 'created_at': '2013-10-30T17:58:38Z', 'closed_at': '2016-07-17T09:54:12Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 334, 'title': 'Add a mailing list or google group', 'state': 'closed', 'created_at': '2013-10-29T14:15:47Z', 'closed_at': '2014-01-13T23:30:29Z', 'labels': []}
+{'issuenumber': 332, 'title': 'Expose the REPL completer object for external use', 'state': 'closed', 'created_at': '2013-10-25T02:27:27Z', 'closed_at': '2013-10-25T03:08:04Z', 'labels': []}
+{'issuenumber': 331, 'title': 'Error completing PyQt', 'state': 'closed', 'created_at': '2013-10-22T03:21:32Z', 'closed_at': '2014-02-19T18:10:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 330, 'title': 'Path coding issues', 'state': 'closed', 'created_at': '2013-10-19T19:27:55Z', 'closed_at': '2014-01-19T14:19:58Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 329, 'title': 'question: how to tell jedi to use a local Python environment?', 'state': 'closed', 'created_at': '2013-10-18T11:58:35Z', 'closed_at': '2014-01-14T07:59:30Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 328, 'title': 'call_signature include self with Type Hinting', 'state': 'closed', 'created_at': '2013-10-17T14:14:54Z', 'closed_at': '2014-04-02T20:30:47Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 327, 'title': 'jedi should not complete attributes for int literals after dot', 'state': 'closed', 'created_at': '2013-10-11T05:51:01Z', 'closed_at': '2014-04-07T13:54:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 326, 'title': "Can't find declaration of string.ascii_letters", 'state': 'closed', 'created_at': '2013-10-09T13:39:07Z', 'closed_at': '2014-03-12T09:41:17Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 325, 'title': 'Cleaner way to find a parent of a function', 'state': 'closed', 'created_at': '2013-10-06T21:25:55Z', 'closed_at': '2014-04-02T13:47:50Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 324, 'title': 'Provide Base Class Info in goto_definitions', 'state': 'closed', 'created_at': '2013-10-06T11:42:36Z', 'closed_at': '2015-05-06T09:26:35Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 322, 'title': 'Kate supports Jedi', 'state': 'closed', 'created_at': '2013-10-04T08:30:47Z', 'closed_at': '2014-03-12T09:39:56Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 320, 'title': 'Sometime not work self unittest completions', 'state': 'closed', 'created_at': '2013-09-27T12:59:25Z', 'closed_at': '2013-09-27T18:18:36Z', 'labels': []}
+{'issuenumber': 319, 'title': 'Not right func-hint for decorator', 'state': 'closed', 'created_at': '2013-09-14T12:55:43Z', 'closed_at': '2014-03-13T22:00:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 318, 'title': "AttributeError: 'Class' object has no attribute 'get_subscope_by_name'", 'state': 'closed', 'created_at': '2013-09-13T03:40:37Z', 'closed_at': '2014-04-09T10:32:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 317, 'title': 'Web example: deprecated', 'state': 'closed', 'created_at': '2013-09-12T11:08:45Z', 'closed_at': '2014-03-11T13:02:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 315, 'title': 'goto definitions/assignments wrong for keyword arguments', 'state': 'closed', 'created_at': '2013-09-07T02:35:36Z', 'closed_at': '2014-03-29T15:53:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 314, 'title': 'Why show "mro"?', 'state': 'closed', 'created_at': '2013-09-01T17:17:34Z', 'closed_at': '2013-09-14T18:58:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 313, 'title': 'Jedi doesn\'t support `del` (old: Why "c" is in complete list)', 'state': 'closed', 'created_at': '2013-09-01T15:18:33Z', 'closed_at': '2020-01-26T19:08:08Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 312, 'title': "Can't complete c.description.", 'state': 'closed', 'created_at': '2013-08-31T20:56:14Z', 'closed_at': '2013-09-14T18:58:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 311, 'title': 'How to get CallDef of completions?', 'state': 'closed', 'created_at': '2013-08-31T20:20:09Z', 'closed_at': '2013-09-01T04:11:57Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 310, 'title': 'Doc about call_signatures', 'state': 'closed', 'created_at': '2013-08-31T20:18:30Z', 'closed_at': '2013-09-14T18:58:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 309, 'title': 'Can\'t complete "for s in f"', 'state': 'closed', 'created_at': '2013-08-31T19:07:24Z', 'closed_at': '2013-09-14T18:58:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 308, 'title': "Can't find declaration of str", 'state': 'closed', 'created_at': '2013-08-31T14:22:01Z', 'closed_at': '2013-08-31T14:40:15Z', 'labels': []}
+{'issuenumber': 307, 'title': 'How to use additional search dirs?', 'state': 'closed', 'created_at': '2013-08-31T12:27:10Z', 'closed_at': '2014-01-13T23:38:11Z', 'labels': []}
+{'issuenumber': 306, 'title': 'Can;t find doc about module_path', 'state': 'closed', 'created_at': '2013-08-31T12:17:44Z', 'closed_at': '2013-09-14T18:58:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 305, 'title': "Can't find declaration of class var", 'state': 'closed', 'created_at': '2013-08-31T10:51:04Z', 'closed_at': '2013-09-14T18:58:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 304, 'title': 'Get call-tips for a function?', 'state': 'closed', 'created_at': '2013-08-30T16:47:14Z', 'closed_at': '2014-03-14T00:41:39Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 303, 'title': 'Get full path of modulle with id declaration?', 'state': 'closed', 'created_at': '2013-08-30T15:06:40Z', 'closed_at': '2013-08-31T03:36:10Z', 'labels': []}
+{'issuenumber': 302, 'title': 'Call few times: different descriptions of "os.path.is...."', 'state': 'closed', 'created_at': '2013-08-30T00:22:30Z', 'closed_at': '2014-03-12T15:42:44Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 301, 'title': 'Cannot see attribs of class when defined dinamically', 'state': 'closed', 'created_at': '2013-08-29T23:50:52Z', 'closed_at': '2016-07-30T13:11:00Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 300, 'title': 'Description "module" or "import"', 'state': 'closed', 'created_at': '2013-08-29T22:22:33Z', 'closed_at': '2013-08-30T14:35:42Z', 'labels': []}
+{'issuenumber': 299, 'title': 'Simple test crashes (modules.py)', 'state': 'closed', 'created_at': '2013-08-29T21:19:48Z', 'closed_at': '2013-08-31T11:13:21Z', 'labels': []}
+{'issuenumber': 298, 'title': 'UnboundLocalError with cython extension', 'state': 'closed', 'created_at': '2013-08-26T13:04:07Z', 'closed_at': '2013-08-28T16:14:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 297, 'title': 'Python REPL does not seem to work properly', 'state': 'closed', 'created_at': '2013-08-22T20:47:20Z', 'closed_at': '2014-04-07T14:18:05Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 295, 'title': 'REPL completion just shows dots', 'state': 'closed', 'created_at': '2013-08-18T03:03:08Z', 'closed_at': '2014-04-02T13:56:00Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 294, 'title': 'Uniting `builtin.py` and `interpret.py`?', 'state': 'closed', 'created_at': '2013-08-16T06:18:59Z', 'closed_at': '2014-01-13T23:21:30Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 293, 'title': 'REPL completion deletes the line sometimes', 'state': 'closed', 'created_at': '2013-08-15T22:46:43Z', 'closed_at': '2013-08-17T18:45:41Z', 'labels': []}
+{'issuenumber': 292, 'title': "REPL completion doesn't complete keyword arguments", 'state': 'closed', 'created_at': '2013-08-15T22:44:09Z', 'closed_at': '2018-03-13T23:15:55Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 291, 'title': 'REPL completion should be smarter about from something <TAB>', 'state': 'closed', 'created_at': '2013-08-15T22:42:25Z', 'closed_at': '2014-04-02T16:22:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 288, 'title': 'Jedi completes hashlib ...incompletely', 'state': 'closed', 'created_at': '2013-08-09T14:10:39Z', 'closed_at': '2013-08-09T19:02:57Z', 'labels': []}
+{'issuenumber': 285, 'title': 'IndexError in jedi/api.py', 'state': 'closed', 'created_at': '2013-08-09T11:22:38Z', 'closed_at': '2013-08-17T18:45:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 283, 'title': "Goto definition doesn't work for some for loops", 'state': 'closed', 'created_at': '2013-08-08T17:34:33Z', 'closed_at': '2013-08-17T18:45:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 282, 'title': "Jedi doesn't autocomplete openpyxl", 'state': 'closed', 'created_at': '2013-08-07T17:15:45Z', 'closed_at': '2013-08-17T18:58:15Z', 'labels': {'name': 'resolved'}}
+{'issuenumber': 279, 'title': 'Look at doctests', 'state': 'closed', 'created_at': '2013-07-28T22:36:15Z', 'closed_at': '2016-07-30T12:23:49Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 275, 'title': "AttributeError: 'Import' object has no attribute 'names'", 'state': 'closed', 'created_at': '2013-07-26T00:48:17Z', 'closed_at': '2013-08-06T03:51:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 274, 'title': "AttributeError: 'NoneType' object has no attribute 'generate_call_path'", 'state': 'closed', 'created_at': '2013-07-25T23:53:18Z', 'closed_at': '2013-08-17T18:45:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 272, 'title': 'DecoratorNotFound in oauth2client', 'state': 'closed', 'created_at': '2013-07-25T23:30:50Z', 'closed_at': '2013-08-17T18:45:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 271, 'title': 'PuDB integration in sith.py is broken', 'state': 'closed', 'created_at': '2013-07-25T23:23:09Z', 'closed_at': '2013-08-17T18:56:59Z', 'labels': {'name': 'resolved'}}
+{'issuenumber': 269, 'title': "Don't require distribute", 'state': 'closed', 'created_at': '2013-07-24T19:08:16Z', 'closed_at': '2013-08-17T18:45:39Z', 'labels': {'name': 'resolved'}}
+{'issuenumber': 262, 'title': 'Use logging instead of jedi.set_debug_function', 'state': 'closed', 'created_at': '2013-07-14T19:41:37Z', 'closed_at': '2013-08-11T10:09:55Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 261, 'title': 'Completions for pyglet.gl are extremely slow', 'state': 'closed', 'created_at': '2013-07-14T09:27:12Z', 'closed_at': '2013-07-15T21:29:38Z', 'labels': []}
+{'issuenumber': 259, 'title': 'Docstring standard?', 'state': 'closed', 'created_at': '2013-07-10T12:25:35Z', 'closed_at': '2013-08-11T10:11:16Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 257, 'title': 'Complete pytest', 'state': 'closed', 'created_at': '2013-07-09T18:26:46Z', 'closed_at': '2013-07-10T06:23:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 256, 'title': 'pypi tarballs are missing files', 'state': 'closed', 'created_at': '2013-07-08T17:46:53Z', 'closed_at': '2013-07-26T13:21:55Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 254, 'title': 'Can Jedi provide location-based context information?', 'state': 'closed', 'created_at': '2013-06-25T22:41:32Z', 'closed_at': '2013-06-25T22:42:37Z', 'labels': []}
+{'issuenumber': 253, 'title': 'Can Jedi provide location-based context information?', 'state': 'closed', 'created_at': '2013-06-25T21:52:58Z', 'closed_at': '2019-12-22T16:39:33Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 251, 'title': "UnicodeEncodeError: 'ascii' codec can't encode character", 'state': 'closed', 'created_at': '2013-06-21T07:33:21Z', 'closed_at': '2013-07-19T08:45:31Z', 'labels': []}
+{'issuenumber': 249, 'title': 'Refactoring: get rid of manual filtering __getattr__.  @safeproperty vs customized __getattribute__ vs ...?', 'state': 'closed', 'created_at': '2013-06-19T15:27:54Z', 'closed_at': '2014-01-15T14:17:58Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 248, 'title': 'Keywords show documentation for __builtin__', 'state': 'closed', 'created_at': '2013-06-18T19:08:58Z', 'closed_at': '2013-08-17T18:45:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 247, 'title': "AttributeError: Instance <eInstance of <eClass of <Class: partial@5-9>> (var_args: 2)>: Don't touch this (is_generator)! ", 'state': 'closed', 'created_at': '2013-06-18T17:30:54Z', 'closed_at': '2013-08-17T18:45:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 246, 'title': "UncaughtAttributeError: 'unicode' object has no attribute 'name'", 'state': 'closed', 'created_at': '2013-06-18T06:00:57Z', 'closed_at': '2013-08-17T18:45:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 245, 'title': 'Handle JSON decode error', 'state': 'closed', 'created_at': '2013-06-16T11:10:38Z', 'closed_at': '2013-08-17T18:45:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 244, 'title': 'Fix cache_directory documentation for Mac OSX', 'state': 'closed', 'created_at': '2013-06-15T22:44:04Z', 'closed_at': '2013-06-19T13:38:48Z', 'labels': []}
+{'issuenumber': 243, 'title': 'Error when the position is between quotes', 'state': 'closed', 'created_at': '2013-06-10T16:56:31Z', 'closed_at': '2013-08-11T10:31:15Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 241, 'title': "isinstance dosen't help inside class function.", 'state': 'closed', 'created_at': '2013-06-05T00:08:16Z', 'closed_at': '2014-08-04T00:11:48Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 240, 'title': 'AttributeError on gettting call sugnature in numpy.multiarray', 'state': 'closed', 'created_at': '2013-06-04T14:43:59Z', 'closed_at': '2013-08-17T18:45:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 239, 'title': 'RecursionError when getting completions', 'state': 'closed', 'created_at': '2013-06-02T10:56:27Z', 'closed_at': '2013-07-17T14:16:49Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 238, 'title': 'api to get all properties of an object and all methods with signatures efficiently', 'state': 'closed', 'created_at': '2013-06-01T20:23:52Z', 'closed_at': '2014-04-02T09:43:33Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 237, 'title': 'IndexError: list index out of range', 'state': 'closed', 'created_at': '2013-05-30T19:38:58Z', 'closed_at': '2013-05-30T19:45:39Z', 'labels': []}
+{'issuenumber': 236, 'title': 'Suggestion: automated type checking at debug/test time (Also: Improve documentation about debugging Jedi)', 'state': 'closed', 'created_at': '2013-05-25T21:22:58Z', 'closed_at': '2016-07-17T09:52:22Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 235, 'title': 'kwargs.<COMPLETE> does not work', 'state': 'closed', 'created_at': '2013-05-25T20:33:10Z', 'closed_at': '2013-08-17T18:45:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 229, 'title': 'Jedi does not complete "import OpenGL.GLUT as g; g."', 'state': 'closed', 'created_at': '2013-05-21T14:49:32Z', 'closed_at': '2013-08-17T18:56:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 227, 'title': 'Top-level `__init__.py` in the repository?', 'state': 'closed', 'created_at': '2013-05-21T01:36:12Z', 'closed_at': '2013-05-21T07:30:41Z', 'labels': []}
+{'issuenumber': 226, 'title': 'Version number in dev branch', 'state': 'closed', 'created_at': '2013-05-19T17:38:02Z', 'closed_at': '2013-08-19T09:51:33Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 225, 'title': 'Request: Add `name` optional argument to Script.goto_definitions/assignments', 'state': 'closed', 'created_at': '2013-05-19T10:16:00Z', 'closed_at': '2020-03-10T07:41:58Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 224, 'title': 'Rename Parser.scope to Parser._scope', 'state': 'closed', 'created_at': '2013-05-19T05:11:39Z', 'closed_at': '2013-08-17T18:45:39Z', 'labels': {'name': 'resolved'}}
+{'issuenumber': 221, 'title': 'Line number is defined for native (.so) module?', 'state': 'closed', 'created_at': '2013-05-18T21:23:27Z', 'closed_at': '2013-08-17T18:45:41Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 220, 'title': 'Failed test run_goto_definitions', 'state': 'closed', 'created_at': '2013-05-17T17:48:24Z', 'closed_at': '2013-08-17T18:45:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 218, 'title': 'Definition().definition removed?', 'state': 'closed', 'created_at': '2013-05-15T12:48:42Z', 'closed_at': '2013-05-18T19:28:39Z', 'labels': []}
+{'issuenumber': 216, 'title': 'ini files for testing jedi are missing in release version 0.6.0', 'state': 'closed', 'created_at': '2013-05-15T07:14:48Z', 'closed_at': '2013-05-15T10:30:48Z', 'labels': []}
+{'issuenumber': 213, 'title': 'Jedi cannot find definition for `from os.path import join`', 'state': 'closed', 'created_at': '2013-05-11T22:57:49Z', 'closed_at': '2013-08-17T18:45:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 212, 'title': 'Split Plugin API doc', 'state': 'closed', 'created_at': '2013-05-11T09:45:15Z', 'closed_at': '2013-09-14T18:58:16Z', 'labels': {'name': 'next_release'}}
+{'issuenumber': 211, 'title': 'Jumpt to definition only gives results from system python when working on python itself.', 'state': 'closed', 'created_at': '2013-05-07T06:11:13Z', 'closed_at': '2013-05-15T06:33:50Z', 'labels': []}
+{'issuenumber': 210, 'title': 'Completion failure with a docstring in front of method', 'state': 'closed', 'created_at': '2013-05-03T18:51:20Z', 'closed_at': '2013-05-04T20:03:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 209, 'title': 'New Release: 0.6', 'state': 'closed', 'created_at': '2013-05-03T17:34:16Z', 'closed_at': '2013-05-14T19:31:21Z', 'labels': []}
+{'issuenumber': 207, 'title': 'Problem with math module on Py3.2', 'state': 'closed', 'created_at': '2013-04-27T13:49:21Z', 'closed_at': '2013-05-07T16:39:24Z', 'labels': {'name': 'resolved'}}
+{'issuenumber': 206, 'title': 'Drop support for Py2.5', 'state': 'closed', 'created_at': '2013-04-27T13:16:34Z', 'closed_at': '2013-04-27T14:48:16Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 205, 'title': 'Pyflakes errors reported on Jedi codebase', 'state': 'closed', 'created_at': '2013-04-27T04:57:10Z', 'closed_at': '2013-04-27T13:45:26Z', 'labels': []}
+{'issuenumber': 201, 'title': 'trying to complete on sys module raises TypeError', 'state': 'closed', 'created_at': '2013-04-16T15:59:41Z', 'closed_at': '2013-04-17T04:24:28Z', 'labels': []}
+{'issuenumber': 200, 'title': 'Error with running test.sh script', 'state': 'closed', 'created_at': '2013-04-16T12:19:47Z', 'closed_at': '2013-05-14T19:35:29Z', 'labels': {'name': 'release-discussion'}}
+{'issuenumber': 199, 'title': 'Some tests cases failing', 'state': 'closed', 'created_at': '2013-04-11T12:42:50Z', 'closed_at': '2013-04-16T20:48:12Z', 'labels': []}
+{'issuenumber': 196, 'title': 'coveralls', 'state': 'closed', 'created_at': '2013-04-10T06:40:45Z', 'closed_at': '2013-05-14T19:00:44Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 195, 'title': "Jedi don't see the __init__.py module", 'state': 'closed', 'created_at': '2013-04-05T09:52:25Z', 'closed_at': '2013-04-05T11:13:19Z', 'labels': []}
+{'issuenumber': 194, 'title': 'If you support Python 3, tell it in the setup.py', 'state': 'closed', 'created_at': '2013-04-05T08:03:27Z', 'closed_at': '2013-04-05T09:19:32Z', 'labels': []}
+{'issuenumber': 193, 'title': 'Example on frontpage does not work (Vim 7.3, Debian GNU/Linux 7.0)', 'state': 'closed', 'created_at': '2013-04-03T23:20:59Z', 'closed_at': '2013-07-30T05:57:25Z', 'labels': {'name': 'resolved'}}
+{'issuenumber': 192, 'title': 'Does not complete mpylayer', 'state': 'closed', 'created_at': '2013-04-02T21:03:41Z', 'closed_at': '2013-05-03T09:57:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 191, 'title': 'UncaughtAttributeError on completion', 'state': 'closed', 'created_at': '2013-03-28T17:00:04Z', 'closed_at': '2013-05-07T16:39:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 190, 'title': 'Completion failure in some 3d party libs', 'state': 'closed', 'created_at': '2013-03-28T16:51:10Z', 'closed_at': '2013-05-03T15:23:26Z', 'labels': []}
+{'issuenumber': 189, 'title': 'Failing code example on dev', 'state': 'closed', 'created_at': '2013-03-27T11:04:06Z', 'closed_at': '2013-05-03T10:03:38Z', 'labels': []}
+{'issuenumber': 188, 'title': 'How about joining up for Python code completion?', 'state': 'closed', 'created_at': '2013-03-25T18:00:20Z', 'closed_at': '2013-03-25T18:03:00Z', 'labels': []}
+{'issuenumber': 184, 'title': 'An idea to get rid of the circular import problem: jedi.evaluate.Evaluator class', 'state': 'closed', 'created_at': '2013-03-18T11:02:19Z', 'closed_at': '2013-12-27T01:52:20Z', 'labels': {'name': 'next_release'}}
+{'issuenumber': 183, 'title': 'Failing test case: if flow at class level', 'state': 'closed', 'created_at': '2013-03-17T05:23:25Z', 'closed_at': '2013-05-07T16:39:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 181, 'title': 'Split test_regression.py', 'state': 'closed', 'created_at': '2013-03-16T21:03:30Z', 'closed_at': '2013-08-17T18:45:40Z', 'labels': {'name': 'next_release'}}
+{'issuenumber': 170, 'title': 'Use function annotations', 'state': 'closed', 'created_at': '2013-03-14T17:40:04Z', 'closed_at': '2016-07-17T09:49:10Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 169, 'title': 'More detailed BaseDefinition.type', 'state': 'closed', 'created_at': '2013-03-14T15:30:40Z', 'closed_at': '2013-05-07T16:39:24Z', 'labels': {'name': 'resolved'}}
+{'issuenumber': 163, 'title': 'Get rid of MultiLevel Error stuff', 'state': 'closed', 'created_at': '2013-03-13T20:29:18Z', 'closed_at': '2013-03-13T23:38:51Z', 'labels': []}
+{'issuenumber': 162, 'title': 'A failing test case', 'state': 'closed', 'created_at': '2013-03-13T20:23:45Z', 'closed_at': '2013-05-07T16:39:24Z', 'labels': {'name': 'resolved'}}
+{'issuenumber': 160, 'title': 'Jedi imports all submodules as actually top-level modules in Python 3', 'state': 'closed', 'created_at': '2013-03-13T14:15:16Z', 'closed_at': '2013-12-27T01:53:11Z', 'labels': {'name': 'next_release'}}
+{'issuenumber': 151, 'title': 'Mixing old python omni-completion and jedi', 'state': 'closed', 'created_at': '2013-03-10T12:02:55Z', 'closed_at': '2014-07-22T22:48:22Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 150, 'title': 'Statement._parse_statement does not set appropriate Array.end_pos for array containing spaces', 'state': 'closed', 'created_at': '2013-03-10T04:32:16Z', 'closed_at': '2013-05-09T08:43:58Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 147, 'title': 'FYI: vbench is a nice tool to track code execution time over revisions', 'state': 'closed', 'created_at': '2013-02-28T20:37:41Z', 'closed_at': '2013-05-03T10:07:08Z', 'labels': []}
+{'issuenumber': 138, 'title': 'Non-__doc__ document support', 'state': 'closed', 'created_at': '2013-02-23T16:39:10Z', 'closed_at': '2019-12-22T01:36:18Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 137, 'title': 'goto and get_definition do not find definition when the cursor is at the first character of the symbol', 'state': 'closed', 'created_at': '2013-02-22T22:28:02Z', 'closed_at': '2013-05-09T08:43:58Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 133, 'title': 'type hinting', 'state': 'closed', 'created_at': '2013-02-15T17:04:10Z', 'closed_at': '2013-02-16T05:58:06Z', 'labels': []}
+{'issuenumber': 132, 'title': 'VIM segfault on completing django.db.connection.', 'state': 'closed', 'created_at': '2013-02-14T19:01:13Z', 'closed_at': '2013-02-14T19:13:17Z', 'labels': []}
+{'issuenumber': 131, 'title': 'Request: make get_definition work in function parenthesis', 'state': 'closed', 'created_at': '2013-02-13T19:30:31Z', 'closed_at': '2013-05-07T16:39:23Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 129, 'title': 'get_definition within function parenthesis causes error', 'state': 'closed', 'created_at': '2013-02-13T12:10:35Z', 'closed_at': '2013-02-13T19:15:08Z', 'labels': []}
+{'issuenumber': 127, 'title': 'StopIteration error when parsing incomplete function definition', 'state': 'closed', 'created_at': '2013-02-12T20:19:22Z', 'closed_at': '2013-05-03T15:10:43Z', 'labels': {'name': 'resolved'}}
+{'issuenumber': 126, 'title': 'Nested module completion in a builtin module does not work', 'state': 'closed', 'created_at': '2013-02-10T18:13:13Z', 'closed_at': '2013-05-09T08:43:58Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 123, 'title': 'Trying to run Jedi on Python version 3.3 ', 'state': 'closed', 'created_at': '2013-02-08T00:37:16Z', 'closed_at': '2013-03-27T18:27:16Z', 'labels': []}
+{'issuenumber': 122, 'title': 'Namespace packages are not supported', 'state': 'closed', 'created_at': '2013-02-06T15:21:34Z', 'closed_at': '2018-03-05T00:03:42Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 121, 'title': "AttributeError: 'module' object has no attribute 'PyFuzzyParser'", 'state': 'closed', 'created_at': '2013-02-05T12:39:36Z', 'closed_at': '2013-05-03T17:14:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 117, 'title': 'Decorators that change docstrings are not accounted for', 'state': 'closed', 'created_at': '2013-01-28T01:51:49Z', 'closed_at': '2019-07-21T23:13:56Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 116, 'title': 'Using getattr() can confuse jedi', 'state': 'closed', 'created_at': '2013-01-27T16:12:15Z', 'closed_at': '2013-05-07T16:39:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 114, 'title': 'Install instruction for Arch Linux?', 'state': 'closed', 'created_at': '2013-01-17T08:03:17Z', 'closed_at': '2013-05-07T16:39:23Z', 'labels': {'name': 'release-discussion'}}
+{'issuenumber': 113, 'title': 'Very slow completion with module containing namedtuples', 'state': 'closed', 'created_at': '2013-01-14T20:14:22Z', 'closed_at': '2013-05-07T17:31:03Z', 'labels': {'name': 'performance'}}
+{'issuenumber': 111, 'title': 'jedi does not autocomplete with "from package import class" syntax, or so it seems.', 'state': 'closed', 'created_at': '2013-01-13T18:24:48Z', 'closed_at': '2013-03-12T21:32:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 107, 'title': 'Support namedtuples', 'state': 'closed', 'created_at': '2013-01-06T01:30:25Z', 'closed_at': '2014-07-27T09:19:37Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 103, 'title': 'Introducing Refactoring', 'state': 'closed', 'created_at': '2012-12-30T22:09:18Z', 'closed_at': '2015-12-28T22:06:04Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 102, 'title': 'Request: Instructions for Installing Hooks for Large Packages', 'state': 'closed', 'created_at': '2012-12-30T16:39:03Z', 'closed_at': '2014-02-02T22:14:25Z', 'labels': {'name': 'release-discussion'}}
+{'issuenumber': 101, 'title': 'Complete gobject', 'state': 'closed', 'created_at': '2012-12-30T12:37:34Z', 'closed_at': '2012-12-31T00:07:40Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 99, 'title': "Idea: Use Sphinx's objects.inv", 'state': 'closed', 'created_at': '2012-12-28T16:00:54Z', 'closed_at': '2012-12-29T20:50:38Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 98, 'title': 'Logo / Mascot', 'state': 'closed', 'created_at': '2012-12-28T15:19:37Z', 'closed_at': '2013-08-11T10:05:01Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 94, 'title': '"IndexError: list index out of range" when calling full_name', 'state': 'closed', 'created_at': '2012-12-27T17:54:12Z', 'closed_at': '2013-01-05T17:47:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 92, 'title': 'Filter duplicates from completion', 'state': 'closed', 'created_at': '2012-12-27T16:31:07Z', 'closed_at': '2012-12-29T19:10:37Z', 'labels': []}
+{'issuenumber': 84, 'title': 'sqlite3 connection has no autocompletions', 'state': 'closed', 'created_at': '2012-12-19T12:37:05Z', 'closed_at': '2012-12-19T22:14:07Z', 'labels': []}
+{'issuenumber': 83, 'title': 'Type inference gets confused by item assignment', 'state': 'closed', 'created_at': '2012-12-13T09:10:31Z', 'closed_at': '2012-12-19T22:14:07Z', 'labels': []}
+{'issuenumber': 80, 'title': 'Infer types that use similar names (via Reddit)', 'state': 'closed', 'created_at': '2012-12-11T17:28:34Z', 'closed_at': '2014-03-14T11:19:30Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 79, 'title': 'Error during pip install', 'state': 'closed', 'created_at': '2012-12-11T06:24:51Z', 'closed_at': '2012-12-12T17:11:58Z', 'labels': []}
+{'issuenumber': 78, 'title': 'Private module members are list first in completion', 'state': 'closed', 'created_at': '2012-12-11T05:43:45Z', 'closed_at': '2012-12-11T16:53:44Z', 'labels': []}
+{'issuenumber': 77, 'title': 'Error in jedi#goto', 'state': 'closed', 'created_at': '2012-12-04T16:35:22Z', 'closed_at': '2012-12-09T21:45:28Z', 'labels': []}
+{'issuenumber': 76, 'title': 'TypeError: slice indices must be integers or None or have an __index__ method', 'state': 'closed', 'created_at': '2012-12-04T13:41:31Z', 'closed_at': '2012-12-04T17:48:40Z', 'labels': []}
+{'issuenumber': 75, 'title': "'NoneType' object has no attribute 'rfind'", 'state': 'closed', 'created_at': '2012-12-04T13:40:12Z', 'closed_at': '2012-12-09T21:55:56Z', 'labels': []}
+{'issuenumber': 72, 'title': 'pydoc failure on windows', 'state': 'closed', 'created_at': '2012-11-30T05:29:20Z', 'closed_at': '2012-11-30T11:13:57Z', 'labels': []}
+{'issuenumber': 71, 'title': 'how to change mapping from <c-space>', 'state': 'closed', 'created_at': '2012-11-26T20:23:52Z', 'closed_at': '2012-12-02T22:41:28Z', 'labels': []}
+{'issuenumber': 68, 'title': 'Why re.compile() is interpreted as str?', 'state': 'closed', 'created_at': '2012-11-22T14:29:43Z', 'closed_at': '2012-11-24T01:57:47Z', 'labels': []}
+{'issuenumber': 64, 'title': 'No definition found for `from pygments.formatters import TerminalFormatter`', 'state': 'closed', 'created_at': '2012-11-18T22:13:29Z', 'closed_at': '2012-11-18T22:23:22Z', 'labels': []}
+{'issuenumber': 63, 'title': '"AttributeError: \'Flow\' object has no attribute \'name\'" at dev head', 'state': 'closed', 'created_at': '2012-11-15T20:26:33Z', 'closed_at': '2012-11-17T22:12:44Z', 'labels': []}
+{'issuenumber': 62, 'title': 'Completion for `threading.` fails in dev head', 'state': 'closed', 'created_at': '2012-11-14T21:38:17Z', 'closed_at': '2012-11-17T22:12:28Z', 'labels': []}
+{'issuenumber': 61, 'title': 'Request: Definition.fullname', 'state': 'closed', 'created_at': '2012-11-13T20:00:49Z', 'closed_at': '2012-11-18T22:27:45Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 60, 'title': 'script.get_definition error in dev head (6a98aaf)', 'state': 'closed', 'created_at': '2012-11-13T19:14:44Z', 'closed_at': '2012-11-14T16:09:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 59, 'title': 'Script.get_definition for gobject function fails', 'state': 'closed', 'created_at': '2012-11-11T10:00:57Z', 'closed_at': '2012-11-13T10:22:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 57, 'title': 'Shifted CallDef.index for keyword argument', 'state': 'closed', 'created_at': '2012-11-08T05:42:54Z', 'closed_at': '2012-11-11T01:49:57Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 56, 'title': 'Name mangling of private variables', 'state': 'closed', 'created_at': '2012-11-08T05:04:36Z', 'closed_at': '2012-11-22T23:25:28Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 54, 'title': 'Follow imports?', 'state': 'closed', 'created_at': '2012-11-03T23:27:01Z', 'closed_at': '2012-12-09T16:58:34Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 52, 'title': 'No completion returned when source is passed as an unicode object', 'state': 'closed', 'created_at': '2012-11-02T10:47:04Z', 'closed_at': '2012-11-02T15:08:51Z', 'labels': []}
+{'issuenumber': 51, 'title': 'error completing on numpy.array', 'state': 'closed', 'created_at': '2012-11-01T21:36:51Z', 'closed_at': '2012-11-02T17:45:06Z', 'labels': []}
+{'issuenumber': 50, 'title': 'python3 import failure', 'state': 'closed', 'created_at': '2012-11-01T16:12:25Z', 'closed_at': '2012-11-04T00:32:43Z', 'labels': []}
+{'issuenumber': 49, 'title': 'Default description is too long', 'state': 'closed', 'created_at': '2012-10-30T15:41:00Z', 'closed_at': '2012-11-07T23:48:41Z', 'labels': []}
+{'issuenumber': 48, 'title': 'solved, please close this issue.', 'state': 'closed', 'created_at': '2012-10-29T08:49:34Z', 'closed_at': '2012-10-31T13:13:15Z', 'labels': []}
+{'issuenumber': 47, 'title': 'Strange 10s delay on __getitem__', 'state': 'closed', 'created_at': '2012-10-28T17:25:36Z', 'closed_at': '2012-11-30T11:26:07Z', 'labels': {'name': 'performance'}}
+{'issuenumber': 46, 'title': 'Complete `self` in `for` loop', 'state': 'closed', 'created_at': '2012-10-28T16:24:29Z', 'closed_at': '2012-11-03T17:00:58Z', 'labels': []}
+{'issuenumber': 44, 'title': 'Complete requests', 'state': 'closed', 'created_at': '2012-10-26T11:51:12Z', 'closed_at': '2012-11-11T01:56:12Z', 'labels': []}
+{'issuenumber': 42, 'title': 'Request: explain why Script.goto/get_definition returns a list in docstring', 'state': 'closed', 'created_at': '2012-10-24T21:36:21Z', 'closed_at': '2012-11-07T17:33:48Z', 'labels': []}
+{'issuenumber': 40, 'title': 'Request: Use Sphinx docstring to infer type of function arguments', 'state': 'closed', 'created_at': '2012-10-23T09:04:42Z', 'closed_at': '2012-12-02T22:16:11Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 39, 'title': 'Use CLASS information after `if isinstance(object, CLASS)` block', 'state': 'closed', 'created_at': '2012-10-23T08:58:58Z', 'closed_at': '2012-10-23T13:52:24Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 38, 'title': 'Clarify how Jedi autocompletes', 'state': 'closed', 'created_at': '2012-10-21T23:36:46Z', 'closed_at': '2012-10-23T14:12:08Z', 'labels': []}
+{'issuenumber': 36, 'title': 'Jedi does not care what is in sys.path', 'state': 'closed', 'created_at': '2012-10-20T17:15:56Z', 'closed_at': '2012-11-18T01:34:43Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 34, 'title': 'slow in large files', 'state': 'closed', 'created_at': '2012-10-19T19:16:16Z', 'closed_at': '2013-05-09T10:14:28Z', 'labels': {'name': 'performance'}}
+{'issuenumber': 32, 'title': 'Request: Make the argument source_path for api.Script optional', 'state': 'closed', 'created_at': '2012-10-19T11:03:45Z', 'closed_at': '2012-10-20T11:57:23Z', 'labels': []}
+{'issuenumber': 31, 'title': 'Request: add jedi installation document.', 'state': 'closed', 'created_at': '2012-10-19T10:47:55Z', 'closed_at': '2012-10-19T19:27:14Z', 'labels': []}
+{'issuenumber': 30, 'title': 'Request: "Full name" for completion.', 'state': 'closed', 'created_at': '2012-10-16T20:38:07Z', 'closed_at': '2012-10-16T22:06:03Z', 'labels': []}
+{'issuenumber': 28, 'title': 'Request: docstrings and Sphinx documentation?', 'state': 'closed', 'created_at': '2012-10-16T20:31:26Z', 'closed_at': '2012-12-27T01:14:31Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 27, 'title': 'Jedi for Sublime Text (a start)', 'state': 'closed', 'created_at': '2012-10-16T08:32:16Z', 'closed_at': '2012-10-23T15:16:02Z', 'labels': []}
+{'issuenumber': 26, 'title': 'Nested list comprehensions cause parsing error', 'state': 'closed', 'created_at': '2012-10-16T08:10:14Z', 'closed_at': '2012-10-16T11:56:21Z', 'labels': []}
+{'issuenumber': 25, 'title': 'meta classes + if + array indexing + setattr completion', 'state': 'closed', 'created_at': '2012-10-02T22:58:09Z', 'closed_at': '2012-10-23T15:14:58Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 24, 'title': 'iterators + strings + getattr completion', 'state': 'closed', 'created_at': '2012-10-02T15:08:36Z', 'closed_at': '2014-03-12T15:52:25Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 23, 'title': 'imports + getattr completion', 'state': 'closed', 'created_at': '2012-10-02T15:03:29Z', 'closed_at': '2012-10-02T20:58:17Z', 'labels': []}
+{'issuenumber': 22, 'title': 'Add Django project root to PYTHONPATH', 'state': 'closed', 'created_at': '2012-10-02T14:47:37Z', 'closed_at': '2012-10-02T15:57:54Z', 'labels': []}
+{'issuenumber': 21, 'title': 'Show builtin exceptions after raise', 'state': 'closed', 'created_at': '2012-09-27T20:34:56Z', 'closed_at': '2012-09-28T12:16:50Z', 'labels': []}
+{'issuenumber': 20, 'title': 'Renaming bug', 'state': 'closed', 'created_at': '2012-09-18T18:55:27Z', 'closed_at': '2012-09-22T16:31:11Z', 'labels': []}
+{'issuenumber': 19, 'title': 'IndexError in jedi#goto', 'state': 'closed', 'created_at': '2012-09-18T17:17:33Z', 'closed_at': '2012-09-22T16:31:11Z', 'labels': []}

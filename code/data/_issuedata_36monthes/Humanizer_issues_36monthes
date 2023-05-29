@@ -1,0 +1,206 @@
+{'issuenumber': 578, 'title': '.Humanize() on "Arabic" letters returns empty string (or any other casing)', 'state': 'closed', 'created_at': '2016-07-30T10:39:22Z', 'closed_at': '2016-10-15T20:07:39Z', 'labels': []}
+{'issuenumber': 577, 'title': '.NET Core 1.0 Support?', 'state': 'closed', 'created_at': '2016-07-29T15:48:32Z', 'closed_at': '2016-10-15T20:02:43Z', 'labels': {'name': 'external'}}
+{'issuenumber': 575, 'title': 'not installable for projects that targets .NET client profile', 'state': 'closed', 'created_at': '2016-07-21T09:07:30Z', 'closed_at': '2016-07-21T14:17:40Z', 'labels': []}
+{'issuenumber': 574, 'title': 'Difference Dasherize and Hyphenate', 'state': 'closed', 'created_at': '2016-07-15T15:18:30Z', 'closed_at': '2017-02-06T12:50:06Z', 'labels': []}
+{'issuenumber': 573, 'title': 'Humanizer.Core 2.1.0 breaks compatibility with PCL Profile 259', 'state': 'closed', 'created_at': '2016-07-15T10:32:21Z', 'closed_at': '2016-10-17T14:18:26Z', 'labels': {'name': 'external'}}
+{'issuenumber': 572, 'title': 'Titleize is removing accented characters in Core.pt 2.0.1', 'state': 'closed', 'created_at': '2016-07-01T14:26:48Z', 'closed_at': '2016-07-03T22:37:05Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 568, 'title': 'Push MPL2 code', 'state': 'closed', 'created_at': '2016-06-27T01:11:17Z', 'closed_at': '2016-06-27T01:45:51Z', 'labels': []}
+{'issuenumber': 567, 'title': 'Ship Humanizer 2.1', 'state': 'closed', 'created_at': '2016-06-26T19:56:35Z', 'closed_at': '2016-07-04T01:13:22Z', 'labels': []}
+{'issuenumber': 563, 'title': 'LetterCasing truncates the frensh caracters "é,è..." of a string', 'state': 'closed', 'created_at': '2016-06-15T09:21:04Z', 'closed_at': '2016-07-03T22:39:08Z', 'labels': []}
+{'issuenumber': 560, 'title': 'de-DE `ToQuantity` Support', 'state': 'closed', 'created_at': '2016-06-06T09:36:52Z', 'closed_at': '2017-11-06T06:55:09Z', 'labels': []}
+{'issuenumber': 558, 'title': 'Add Esperanto support for NumberToWords', 'state': 'closed', 'created_at': '2016-05-28T11:30:56Z', 'closed_at': '2016-12-02T02:09:22Z', 'labels': []}
+{'issuenumber': 557, 'title': 'NumberToWords in French is wrong for a few numbers', 'state': 'closed', 'created_at': '2016-05-26T18:09:20Z', 'closed_at': '2016-05-29T13:32:58Z', 'labels': {'name': 'localisation'}}
+{'issuenumber': 555, 'title': 'CollectionHumanizeExtensions.Humanize causes NullReferenceException for null items', 'state': 'closed', 'created_at': '2016-05-19T18:47:52Z', 'closed_at': '2016-07-03T22:33:14Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 548, 'title': 'french NumberToWords does not take grammatical gender into account', 'state': 'closed', 'created_at': '2016-04-01T21:45:43Z', 'closed_at': '2016-05-29T13:41:32Z', 'labels': {'name': 'localisation'}}
+{'issuenumber': 546, 'title': 'Pluralize issues', 'state': 'closed', 'created_at': '2016-03-19T23:21:37Z', 'closed_at': '2016-05-28T14:26:43Z', 'labels': []}
+{'issuenumber': 545, 'title': 'Show "Today" instead of current date', 'state': 'closed', 'created_at': '2016-03-18T17:19:10Z', 'closed_at': '2016-05-28T14:26:45Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 543, 'title': 'Add "avant-hier" and "après-demain" to french', 'state': 'closed', 'created_at': '2016-03-17T05:07:40Z', 'closed_at': '2018-03-02T19:29:01Z', 'labels': []}
+{'issuenumber': 541, 'title': 'Swiss french support for NumberToWords and NumberToOrdinalWords', 'state': 'closed', 'created_at': '2016-03-16T11:17:35Z', 'closed_at': '2016-05-29T13:41:41Z', 'labels': {'name': 'localisation'}}
+{'issuenumber': 540, 'title': 'Update DNX project to .NET Core CLI tools', 'state': 'closed', 'created_at': '2016-03-16T00:22:24Z', 'closed_at': '2016-05-28T14:23:40Z', 'labels': []}
+{'issuenumber': 538, 'title': 'Belgian french support for NumberToWords and NumberToOrdinalWords', 'state': 'closed', 'created_at': '2016-03-15T14:36:08Z', 'closed_at': '2016-05-29T13:31:51Z', 'labels': {'name': 'localisation'}}
+{'issuenumber': 537, 'title': "Error: You must add a reference to assembly 'System.Runtime'", 'state': 'closed', 'created_at': '2016-03-10T20:51:02Z', 'closed_at': '2016-03-16T18:15:32Z', 'labels': []}
+{'issuenumber': 536, 'title': 'Errors when building a dnxcore50 project?', 'state': 'closed', 'created_at': '2016-02-29T18:35:44Z', 'closed_at': '2016-02-29T19:31:30Z', 'labels': []}
+{'issuenumber': 535, 'title': 'Keep assembly information/version up-to-date.', 'state': 'closed', 'created_at': '2016-02-25T22:23:48Z', 'closed_at': '2016-06-26T20:07:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 534, 'title': "Please don't install 25+ nuget packages by default", 'state': 'closed', 'created_at': '2016-02-25T21:56:00Z', 'closed_at': '2016-03-16T00:25:14Z', 'labels': []}
+{'issuenumber': 533, 'title': 'You must add a reference to assembly System.Globalization', 'state': 'closed', 'created_at': '2016-02-19T15:49:44Z', 'closed_at': '2016-03-16T18:15:14Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 532, 'title': 'Issues with German umlauts ', 'state': 'closed', 'created_at': '2016-02-19T09:16:18Z', 'closed_at': '2016-07-03T23:06:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 529, 'title': 'Humanizer Type Initializer error ', 'state': 'closed', 'created_at': '2016-02-18T07:19:50Z', 'closed_at': '2016-03-16T00:26:24Z', 'labels': []}
+{'issuenumber': 528, 'title': 'Installing NuGet package Humanizer.2.0.1. Errors after installation ', 'state': 'closed', 'created_at': '2016-02-17T16:12:51Z', 'closed_at': '2016-02-26T03:00:36Z', 'labels': []}
+{'issuenumber': 527, 'title': 'Humanizer causing failed Visual Studio Team Services Automated Builds', 'state': 'closed', 'created_at': '2016-02-11T18:39:44Z', 'closed_at': '2016-02-12T23:48:07Z', 'labels': []}
+{'issuenumber': 525, 'title': 'Truncator.FixedNumberOfCharacters [sometimes] counts only digits and letters', 'state': 'closed', 'created_at': '2016-02-09T13:51:44Z', 'closed_at': '2016-05-28T14:28:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 524, 'title': "Extension methods conflicting with 'fluent assertions' project", 'state': 'closed', 'created_at': '2016-02-09T10:56:51Z', 'closed_at': '2017-12-23T06:17:10Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 521, 'title': 'Humanizer locale satellite assemblies', 'state': 'closed', 'created_at': '2016-02-04T01:48:27Z', 'closed_at': '2016-02-04T05:00:05Z', 'labels': []}
+{'issuenumber': 520, 'title': 'Humanizer.Core package does not install on Xamarin', 'state': 'closed', 'created_at': '2016-02-01T18:18:48Z', 'closed_at': '2016-02-08T03:42:50Z', 'labels': []}
+{'issuenumber': 518, 'title': 'Number to number extensions', 'state': 'closed', 'created_at': '2016-01-30T23:03:18Z', 'closed_at': '2016-07-03T01:43:29Z', 'labels': {'name': 'jump in'}}
+{'issuenumber': 514, 'title': 'Humanizer 2.0 framework target', 'state': 'closed', 'created_at': '2016-01-20T17:10:14Z', 'closed_at': '2016-01-21T12:47:44Z', 'labels': []}
+{'issuenumber': 507, 'title': 'Remove obsolete members', 'state': 'closed', 'created_at': '2016-01-02T04:30:54Z', 'closed_at': '2016-01-30T16:11:15Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 506, 'title': 'Update gh-pages docs to reflect the latest ', 'state': 'closed', 'created_at': '2015-12-30T20:24:24Z', 'closed_at': '2016-01-30T17:00:43Z', 'labels': []}
+{'issuenumber': 505, 'title': "Can't find ToMetric", 'state': 'closed', 'created_at': '2015-12-22T13:34:51Z', 'closed_at': '2016-01-01T23:23:41Z', 'labels': []}
+{'issuenumber': 503, 'title': 'ToQuantity does not support long quantities', 'state': 'closed', 'created_at': '2015-12-19T17:32:27Z', 'closed_at': '2017-05-04T01:06:54Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 502, 'title': 'Documentation of package split into  Humanizer ,  Humanizer.Core  and  Humanizer.Core.<locale>  ', 'state': 'closed', 'created_at': '2015-12-18T13:03:59Z', 'closed_at': '2015-12-30T20:24:02Z', 'labels': []}
+{'issuenumber': 501, 'title': 'Ship Humanizer 2.0', 'state': 'closed', 'created_at': '2015-12-18T12:55:39Z', 'closed_at': '2016-01-30T19:58:20Z', 'labels': []}
+{'issuenumber': 497, 'title': 'Add option to customize list of time indicators of humanized timespans', 'state': 'closed', 'created_at': '2015-12-11T14:19:39Z', 'closed_at': '2016-01-19T12:32:48Z', 'labels': []}
+{'issuenumber': 496, 'title': 'Add option to convert numbers to different words depending on context', 'state': 'closed', 'created_at': '2015-12-11T01:17:48Z', 'closed_at': '2017-05-12T00:25:16Z', 'labels': {'name': 'localisation'}}
+{'issuenumber': 492, 'title': 'Default language resources missing for a few resources', 'state': 'closed', 'created_at': '2015-12-03T13:02:07Z', 'closed_at': '2015-12-08T13:15:16Z', 'labels': []}
+{'issuenumber': 490, 'title': 'Error loading shared test project on dev branch - MS Build issue', 'state': 'closed', 'created_at': '2015-11-30T10:47:14Z', 'closed_at': '2015-12-01T16:44:09Z', 'labels': []}
+{'issuenumber': 486, 'title': 'Create better MVC (ASPNet 4.6) Sample', 'state': 'closed', 'created_at': '2015-11-25T14:11:07Z', 'closed_at': '2019-03-13T13:26:31Z', 'labels': {'name': 'jump in'}}
+{'issuenumber': 481, 'title': '"Products".IsSingular() | "Products".IsPlural()', 'state': 'closed', 'created_at': '2015-11-12T19:56:07Z', 'closed_at': '2015-11-13T05:11:13Z', 'labels': []}
+{'issuenumber': 480, 'title': 'How-Do_I_HumanizeSomething_LikeThis-String', 'state': 'closed', 'created_at': '2015-11-12T19:53:52Z', 'closed_at': '2015-12-01T14:34:27Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 474, 'title': 'Failing Test: approve_public_api on dev branch, decimal separator issue', 'state': 'closed', 'created_at': '2015-11-03T14:21:24Z', 'closed_at': '2015-11-04T19:32:17Z', 'labels': []}
+{'issuenumber': 473, 'title': "letter casing incorrect when FlagsAttribute Enum with multiple OR'd items is humanized", 'state': 'closed', 'created_at': '2015-11-02T05:18:57Z', 'closed_at': '2015-11-16T14:12:04Z', 'labels': []}
+{'issuenumber': 470, 'title': 'Build warning VS2015', 'state': 'closed', 'created_at': '2015-11-01T16:01:00Z', 'closed_at': '2015-11-02T14:33:30Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 468, 'title': 'DateTime Humanizations: "never" threshold', 'state': 'closed', 'created_at': '2015-10-27T15:22:45Z', 'closed_at': '2015-12-04T15:57:33Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 467, 'title': 'Upgrade to xUnit 2.1', 'state': 'closed', 'created_at': '2015-10-19T12:25:03Z', 'closed_at': '2015-10-21T11:53:43Z', 'labels': []}
+{'issuenumber': 466, 'title': 'Remove tools from repo', 'state': 'closed', 'created_at': '2015-10-19T12:24:51Z', 'closed_at': '2015-10-21T11:54:11Z', 'labels': []}
+{'issuenumber': 465, 'title': '.NET 4 & Silverlight 5 Support', 'state': 'closed', 'created_at': '2015-10-19T11:52:33Z', 'closed_at': '2015-12-18T13:23:17Z', 'labels': []}
+{'issuenumber': 464, 'title': 'Strange error with ToQuantity', 'state': 'closed', 'created_at': '2015-10-09T07:44:53Z', 'closed_at': '2018-01-04T05:16:49Z', 'labels': {'name': 'jump in'}}
+{'issuenumber': 463, 'title': 'Ordinal suffixes as part of a sentence in Humanize() method', 'state': 'closed', 'created_at': '2015-10-08T10:23:13Z', 'closed_at': '2015-12-17T03:06:24Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 461, 'title': 'Missing Spanish cardinal feminine', 'state': 'closed', 'created_at': '2015-10-05T14:19:25Z', 'closed_at': '2015-10-26T12:12:46Z', 'labels': []}
+{'issuenumber': 460, 'title': 'Possible to change a single string value?', 'state': 'closed', 'created_at': '2015-09-24T01:18:20Z', 'closed_at': '2015-10-17T04:01:22Z', 'labels': []}
+{'issuenumber': 458, 'title': 'Can we build using VS2013?', 'state': 'closed', 'created_at': '2015-09-20T07:43:48Z', 'closed_at': '2015-10-25T21:03:44Z', 'labels': []}
+{'issuenumber': 457, 'title': 'Add unit support', 'state': 'closed', 'created_at': '2015-09-13T15:36:45Z', 'closed_at': '2015-09-19T13:45:45Z', 'labels': []}
+{'issuenumber': 456, 'title': 'Humanize Count', 'state': 'closed', 'created_at': '2015-09-10T23:10:29Z', 'closed_at': '2015-10-25T20:48:41Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 454, 'title': 'Remove Satellite Assemblies', 'state': 'closed', 'created_at': '2015-09-03T15:28:01Z', 'closed_at': '2015-09-03T23:02:51Z', 'labels': []}
+{'issuenumber': 452, 'title': 'Transform(To.TitleCase) is not working', 'state': 'closed', 'created_at': '2015-08-06T20:12:31Z', 'closed_at': '2015-08-13T07:17:46Z', 'labels': []}
+{'issuenumber': 451, 'title': 'Support dotnet TFM', 'state': 'closed', 'created_at': '2015-08-04T15:54:35Z', 'closed_at': '2015-10-24T18:46:28Z', 'labels': []}
+{'issuenumber': 450, 'title': 'ByteSize trims number with format string', 'state': 'closed', 'created_at': '2015-08-04T09:30:19Z', 'closed_at': '2015-08-23T10:56:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 448, 'title': 'Can we compile using VS2012?', 'state': 'closed', 'created_at': '2015-07-29T22:37:09Z', 'closed_at': '2015-07-31T11:38:33Z', 'labels': []}
+{'issuenumber': 445, 'title': 'Null Reference Exception - DateTime', 'state': 'closed', 'created_at': '2015-07-10T01:30:59Z', 'closed_at': '2015-07-25T12:24:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 444, 'title': 'Would adding tense to DateTime.At make sense', 'state': 'closed', 'created_at': '2015-07-09T20:13:15Z', 'closed_at': '2015-08-17T11:04:59Z', 'labels': []}
+{'issuenumber': 437, 'title': 'Humanizer inflection vocabulary threading problem', 'state': 'closed', 'created_at': '2015-06-30T15:40:06Z', 'closed_at': '2015-07-03T21:25:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 436, 'title': '(DateTime.UtcNow.AddMinutes(-5) - DateTime.UtcNow).Humanize() results in arguments out of range of valid values', 'state': 'closed', 'created_at': '2015-06-29T13:52:12Z', 'closed_at': '2015-07-02T18:00:16Z', 'labels': []}
+{'issuenumber': 434, 'title': 'TimeSpan.FromMinutes(50).Humanize(2, null, TimeUnit.Hour, TimeUnit.Minute) is "1 hour, 50 minutes"', 'state': 'closed', 'created_at': '2015-06-25T21:07:59Z', 'closed_at': '2015-07-04T22:39:44Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 430, 'title': 'Use xUnit Runner nuget package', 'state': 'closed', 'created_at': '2015-06-22T00:31:03Z', 'closed_at': '2015-06-28T07:51:59Z', 'labels': []}
+{'issuenumber': 427, 'title': 'Ignoring certain words?', 'state': 'closed', 'created_at': '2015-06-08T16:06:45Z', 'closed_at': '2015-06-15T09:53:15Z', 'labels': []}
+{'issuenumber': 426, 'title': 'comma separated bytesize format?', 'state': 'closed', 'created_at': '2015-06-05T18:50:47Z', 'closed_at': '2015-07-06T16:52:30Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 418, 'title': 'DateTime.Humanize is not taking Timezone information into account', 'state': 'closed', 'created_at': '2015-05-24T11:19:27Z', 'closed_at': '2015-05-24T12:13:51Z', 'labels': []}
+{'issuenumber': 412, 'title': 'Add option to humanize date and timespan in certain context', 'state': 'closed', 'created_at': '2015-05-03T06:47:36Z', 'closed_at': '2017-12-23T06:35:53Z', 'labels': {'name': 'jump in'}}
+{'issuenumber': 409, 'title': "int.ToWords() extension method is not using current thread's culture by default.", 'state': 'closed', 'created_at': '2015-04-20T16:16:35Z', 'closed_at': '2015-04-21T11:03:16Z', 'labels': []}
+{'issuenumber': 407, 'title': "CultureInfo doesn't work properly in DateTime Humanize", 'state': 'closed', 'created_at': '2015-04-18T09:57:50Z', 'closed_at': '2015-04-21T10:12:06Z', 'labels': []}
+{'issuenumber': 404, 'title': 'How to handle common abbreviations with a number such as 2D and 3D', 'state': 'closed', 'created_at': '2015-04-13T17:41:02Z', 'closed_at': '2015-04-17T06:29:22Z', 'labels': []}
+{'issuenumber': 402, 'title': 'Add support for excluding certain user-defined words from pluralization / singularization', 'state': 'closed', 'created_at': '2015-04-03T13:21:15Z', 'closed_at': '2015-05-24T03:20:29Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 398, 'title': 'Humanizing a string with PascalCase and _ in it', 'state': 'closed', 'created_at': '2015-03-27T10:35:51Z', 'closed_at': '2015-03-28T11:45:25Z', 'labels': []}
+{'issuenumber': 393, 'title': 'There was a conflict between "mscorlib, Version=4.0.0.0" and "mscorlib, Version=2.0.5.0"', 'state': 'closed', 'created_at': '2015-03-05T13:29:45Z', 'closed_at': '2015-03-11T11:30:06Z', 'labels': []}
+{'issuenumber': 392, 'title': 'A collection formatter for the current culture has not been implemented yet', 'state': 'closed', 'created_at': '2015-03-04T15:11:16Z', 'closed_at': '2015-04-12T23:26:32Z', 'labels': []}
+{'issuenumber': 389, 'title': 'Nuget package includes all source code', 'state': 'closed', 'created_at': '2015-03-03T15:29:16Z', 'closed_at': '2015-03-04T07:57:12Z', 'labels': []}
+{'issuenumber': 388, 'title': 'Feature Request: Allow MaxUnit and MinUnit for TimeSpan', 'state': 'closed', 'created_at': '2015-03-02T21:43:01Z', 'closed_at': '2015-05-24T02:32:51Z', 'labels': {'name': 'jump in'}}
+{'issuenumber': 383, 'title': 'Allow TimeSpanHumanizeExtensions.Humanize to take a maximum TimeUnit.', 'state': 'closed', 'created_at': '2015-02-21T05:54:10Z', 'closed_at': '2015-02-28T03:21:51Z', 'labels': []}
+{'issuenumber': 380, 'title': 'Localization Issue with DateTime and TimeSpan Humanizer', 'state': 'closed', 'created_at': '2015-02-10T10:01:54Z', 'closed_at': '2018-02-01T16:09:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 379, 'title': 'Support for DateTimeOffset', 'state': 'closed', 'created_at': '2015-02-05T09:36:15Z', 'closed_at': '2015-03-28T23:19:29Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 378, 'title': 'Dehumanize() leaves question mark intact', 'state': 'closed', 'created_at': '2015-02-04T09:05:38Z', 'closed_at': '2015-05-24T04:03:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 373, 'title': "The type initializer for 'Humanizer.Configuration.Configurator' threw an exception.", 'state': 'closed', 'created_at': '2015-01-22T05:48:56Z', 'closed_at': '2015-01-26T00:13:42Z', 'labels': []}
+{'issuenumber': 372, 'title': 'System.ArgumentNullException: Value cannot be null in Windows Phone 8 store app.', 'state': 'closed', 'created_at': '2015-01-09T19:21:10Z', 'closed_at': '2015-08-17T11:09:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 368, 'title': 'Link to http://humanizr.net/ in the repo description results in a 404 page', 'state': 'closed', 'created_at': '2014-12-26T11:48:41Z', 'closed_at': '2014-12-27T00:23:22Z', 'labels': []}
+{'issuenumber': 358, 'title': 'ByteSizeExtensions is missing methods operating with longs', 'state': 'closed', 'created_at': '2014-12-11T16:40:19Z', 'closed_at': '2014-12-23T05:24:21Z', 'labels': []}
+{'issuenumber': 353, 'title': 'Humanize extension reinstantiates Regex objects unnecessarily', 'state': 'closed', 'created_at': '2014-11-29T08:08:37Z', 'closed_at': '2014-12-11T07:57:15Z', 'labels': []}
+{'issuenumber': 349, 'title': 'CLR_EXCEPTION_System.Resources.MissingManifestResourceException in 8.1 Phone Store app', 'state': 'closed', 'created_at': '2014-11-19T05:22:14Z', 'closed_at': '2015-02-06T04:36:50Z', 'labels': []}
+{'issuenumber': 346, 'title': 'Get list of all enums to bind some dropdown', 'state': 'closed', 'created_at': '2014-10-28T16:15:43Z', 'closed_at': '2014-10-30T06:57:56Z', 'labels': []}
+{'issuenumber': 339, 'title': "TimeSpan humanization precision skips units after the largest one when they're zero until it finds a non-zero unit", 'state': 'closed', 'created_at': '2014-10-20T21:49:56Z', 'closed_at': '2014-11-07T22:29:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 337, 'title': 'Fix arithmetic operations and ToString() for non-english systems in ByteSize', 'state': 'closed', 'created_at': '2014-09-27T06:27:28Z', 'closed_at': '2014-12-15T08:19:13Z', 'labels': []}
+{'issuenumber': 336, 'title': 'dutch localization', 'state': 'closed', 'created_at': '2014-09-14T20:58:03Z', 'closed_at': '2014-11-07T22:40:30Z', 'labels': []}
+{'issuenumber': 331, 'title': "The plural of 'criterion' is 'criteria'", 'state': 'closed', 'created_at': '2014-08-28T01:02:53Z', 'closed_at': '2014-12-15T22:21:28Z', 'labels': {'name': 'jump in'}}
+{'issuenumber': 330, 'title': 'Warnings on Windows Phone 8 Project', 'state': 'closed', 'created_at': '2014-08-27T23:04:03Z', 'closed_at': '2014-09-27T06:22:25Z', 'labels': []}
+{'issuenumber': 328, 'title': 'Ordinal number suffixes', 'state': 'closed', 'created_at': '2014-08-20T10:27:39Z', 'closed_at': '2017-05-04T01:05:29Z', 'labels': []}
+{'issuenumber': 326, 'title': 'How to help with localisation?', 'state': 'closed', 'created_at': '2014-08-18T10:57:35Z', 'closed_at': '2014-08-19T23:06:12Z', 'labels': []}
+{'issuenumber': 325, 'title': 'More information about how to compile solution in the contribution guidelines', 'state': 'closed', 'created_at': '2014-08-14T08:46:09Z', 'closed_at': '2015-10-25T21:02:34Z', 'labels': []}
+{'issuenumber': 324, 'title': 'GetInitials feature', 'state': 'closed', 'created_at': '2014-08-07T16:28:13Z', 'closed_at': '2014-08-16T22:54:54Z', 'labels': []}
+{'issuenumber': 323, 'title': 'How to humanize enums from resource strings', 'state': 'closed', 'created_at': '2014-08-06T09:34:34Z', 'closed_at': '2014-08-07T03:46:57Z', 'labels': []}
+{'issuenumber': 321, 'title': 'WinXP-specific exception with multiple-word .ToQuantity()', 'state': 'closed', 'created_at': '2014-08-01T12:27:46Z', 'closed_at': '2014-08-05T22:33:18Z', 'labels': []}
+{'issuenumber': 319, 'title': 'Dehumanize() actually humanizes', 'state': 'closed', 'created_at': '2014-07-29T14:23:12Z', 'closed_at': '2014-08-01T11:19:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 318, 'title': 'Have to Humanize a string twice', 'state': 'closed', 'created_at': '2014-07-29T13:39:28Z', 'closed_at': '2014-10-29T10:58:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 317, 'title': 'MakePRI warning 0xdef01051 while compiling Windows 8.1 Store app', 'state': 'closed', 'created_at': '2014-07-11T18:55:18Z', 'closed_at': '2014-08-16T22:46:11Z', 'labels': []}
+{'issuenumber': 315, 'title': 'Ohloh listing', 'state': 'closed', 'created_at': '2014-07-07T22:14:42Z', 'closed_at': '2014-07-08T00:32:25Z', 'labels': []}
+{'issuenumber': 313, 'title': 'add documentation for Camelize', 'state': 'closed', 'created_at': '2014-07-03T12:45:59Z', 'closed_at': '2014-11-27T22:53:15Z', 'labels': {'name': 'jump in'}}
+{'issuenumber': 311, 'title': 'Add Support For Dehumanizing To camelCase', 'state': 'closed', 'created_at': '2014-07-02T08:46:33Z', 'closed_at': '2014-07-03T00:26:32Z', 'labels': []}
+{'issuenumber': 310, 'title': 'Add recurring holidays/event dates to fluent DateTime API', 'state': 'closed', 'created_at': '2014-07-02T07:28:13Z', 'closed_at': '2014-07-03T00:34:54Z', 'labels': []}
+{'issuenumber': 308, 'title': 'Non portable project', 'state': 'closed', 'created_at': '2014-06-30T17:19:22Z', 'closed_at': '2015-10-25T20:49:25Z', 'labels': []}
+{'issuenumber': 305, 'title': 'Humanize Booleans', 'state': 'closed', 'created_at': '2014-06-23T11:35:48Z', 'closed_at': '2014-06-24T11:45:20Z', 'labels': []}
+{'issuenumber': 303, 'title': 'Support all integer primitives on ByteSizeExtensions', 'state': 'closed', 'created_at': '2014-06-21T04:47:01Z', 'closed_at': '2014-06-27T11:51:19Z', 'labels': {'name': 'jump in'}}
+{'issuenumber': 302, 'title': 'Can not install Humanizer with nuget on VS2015 Beta', 'state': 'closed', 'created_at': '2014-06-19T22:27:45Z', 'closed_at': '2015-10-24T19:02:19Z', 'labels': []}
+{'issuenumber': 299, 'title': 'Installation failing against .NET framework 4 in Visual Studio 2010', 'state': 'closed', 'created_at': '2014-06-16T13:09:03Z', 'closed_at': '2014-06-18T08:41:34Z', 'labels': []}
+{'issuenumber': 297, 'title': 'Support all integer primitives on NumberToTimeSpanExtensions', 'state': 'closed', 'created_at': '2014-06-15T21:15:26Z', 'closed_at': '2014-06-17T11:43:04Z', 'labels': []}
+{'issuenumber': 296, 'title': 'Feature Proposal: Humanize ByteSize to rate ("1 KB/s")', 'state': 'closed', 'created_at': '2014-06-15T07:09:36Z', 'closed_at': '2014-08-07T21:08:55Z', 'labels': {'name': 'jump in'}}
+{'issuenumber': 295, 'title': 'NumberToWords - support for explicit culture', 'state': 'closed', 'created_at': '2014-06-15T06:09:15Z', 'closed_at': '2014-06-27T11:51:55Z', 'labels': []}
+{'issuenumber': 292, 'title': 'ByteSize should implement IComparable', 'state': 'closed', 'created_at': '2014-06-06T19:56:07Z', 'closed_at': '2014-06-12T11:40:37Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 291, 'title': 'Inconsistency in TimeSpanHumanize_Single* localisations', 'state': 'closed', 'created_at': '2014-06-05T22:25:55Z', 'closed_at': '2014-06-06T01:19:01Z', 'labels': []}
+{'issuenumber': 289, 'title': 'Add an overload to DateTime extension that accepts IDateTimeHumanizeStrategy as argument', 'state': 'closed', 'created_at': '2014-06-03T21:43:14Z', 'closed_at': '2014-06-04T13:44:10Z', 'labels': []}
+{'issuenumber': 287, 'title': 'Single word casing not working as expected', 'state': 'closed', 'created_at': '2014-05-29T11:19:59Z', 'closed_at': '2014-05-29T13:24:53Z', 'labels': []}
+{'issuenumber': 282, 'title': 'DateTime.Humanize, specify culture to use.', 'state': 'closed', 'created_at': '2014-05-26T14:15:53Z', 'closed_at': '2014-06-10T12:55:22Z', 'labels': []}
+{'issuenumber': 274, 'title': 'Create Specific String Convertion Rules', 'state': 'closed', 'created_at': '2014-05-22T10:44:50Z', 'closed_at': '2014-06-04T13:44:46Z', 'labels': []}
+{'issuenumber': 273, 'title': 'Change Title Casing of Words with Length bigger than 2', 'state': 'closed', 'created_at': '2014-05-22T10:28:38Z', 'closed_at': '2014-06-04T13:45:13Z', 'labels': []}
+{'issuenumber': 272, 'title': 'Humanize Custom Attribute', 'state': 'closed', 'created_at': '2014-05-22T10:26:59Z', 'closed_at': '2014-05-23T22:21:45Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 270, 'title': 'IFormatter.TimeSpanHumanize for TimeUnits larger than TimeUnit.Week', 'state': 'closed', 'created_at': '2014-05-20T19:36:26Z', 'closed_at': '2014-08-07T19:21:02Z', 'labels': []}
+{'issuenumber': 263, 'title': 'Humanize collections', 'state': 'closed', 'created_at': '2014-05-06T20:39:52Z', 'closed_at': '2014-05-21T02:23:38Z', 'labels': []}
+{'issuenumber': 262, 'title': '[Question] "a" vs "an"', 'state': 'closed', 'created_at': '2014-05-06T16:46:25Z', 'closed_at': '2014-05-06T19:05:32Z', 'labels': []}
+{'issuenumber': 256, 'title': 'Hunamizing TimeSpan is inconsistent when minute component is 1', 'state': 'closed', 'created_at': '2014-05-01T11:23:38Z', 'closed_at': '2014-06-13T23:51:04Z', 'labels': []}
+{'issuenumber': 254, 'title': 'Date Time Humanize should not use tomorrow unless it is actually tomorrow.', 'state': 'closed', 'created_at': '2014-04-29T06:58:18Z', 'closed_at': '2014-07-07T00:41:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 253, 'title': 'Drop strong naming', 'state': 'closed', 'created_at': '2014-04-28T16:22:31Z', 'closed_at': '2017-05-12T00:32:28Z', 'labels': []}
+{'issuenumber': 250, 'title': 'DateTime / TimeSpan ToWords', 'state': 'closed', 'created_at': '2014-04-27T02:33:20Z', 'closed_at': '2014-06-27T11:55:02Z', 'labels': []}
+{'issuenumber': 238, 'title': 'Change DefaultDateTimeHumanizeStrategy to turn 60 min to one hour not 45', 'state': 'closed', 'created_at': '2014-04-21T09:05:01Z', 'closed_at': '2014-06-13T23:49:47Z', 'labels': []}
+{'issuenumber': 234, 'title': 'Remove Plurality enum', 'state': 'closed', 'created_at': '2014-04-19T10:57:18Z', 'closed_at': '2014-06-27T11:57:12Z', 'labels': []}
+{'issuenumber': 223, 'title': 'Move Truncator to the root & rename to TruncateExtentions', 'state': 'closed', 'created_at': '2014-04-16T07:38:23Z', 'closed_at': '2014-06-13T23:48:32Z', 'labels': {'name': 'jump in'}}
+{'issuenumber': 218, 'title': 'Improve Factories', 'state': 'closed', 'created_at': '2014-04-15T09:14:52Z', 'closed_at': '2014-04-27T04:35:00Z', 'labels': []}
+{'issuenumber': 214, 'title': 'OrdinalizeExtensions should be localized', 'state': 'closed', 'created_at': '2014-04-14T10:58:47Z', 'closed_at': '2014-05-27T19:58:21Z', 'labels': {'name': 'localisation'}}
+{'issuenumber': 212, 'title': 'Ordinal Special Exceptions (Context/Plurality)', 'state': 'closed', 'created_at': '2014-04-14T07:32:31Z', 'closed_at': '2014-04-21T15:29:13Z', 'labels': []}
+{'issuenumber': 209, 'title': 'New NuGet Logo', 'state': 'closed', 'created_at': '2014-04-14T01:46:27Z', 'closed_at': '2014-04-21T14:46:07Z', 'labels': []}
+{'issuenumber': 206, 'title': 'Combine components under Localisation namespace by language rather than by component type', 'state': 'closed', 'created_at': '2014-04-13T21:59:09Z', 'closed_at': '2016-01-30T16:04:44Z', 'labels': {'name': 'jump in'}}
+{'issuenumber': 198, 'title': 'merging Plurality with GrammaticalNumber?', 'state': 'closed', 'created_at': '2014-04-12T18:25:40Z', 'closed_at': '2014-04-19T10:58:07Z', 'labels': []}
+{'issuenumber': 185, 'title': 'Add precision based DateHumanize strategy to readme', 'state': 'closed', 'created_at': '2014-04-11T17:18:24Z', 'closed_at': '2014-04-18T06:52:35Z', 'labels': []}
+{'issuenumber': 178, 'title': 'Turkish Chars and Localization', 'state': 'closed', 'created_at': '2014-04-11T07:40:55Z', 'closed_at': '2014-04-11T12:50:02Z', 'labels': []}
+{'issuenumber': 176, 'title': 'Truncate beginning of the string rather than the end', 'state': 'closed', 'created_at': '2014-04-11T06:32:21Z', 'closed_at': '2014-04-26T12:31:04Z', 'labels': []}
+{'issuenumber': 175, 'title': 'Add string formatting options to ToQuanity', 'state': 'closed', 'created_at': '2014-04-11T01:06:55Z', 'closed_at': '2014-04-19T11:22:15Z', 'labels': []}
+{'issuenumber': 169, 'title': 'Problems with T4 code generation', 'state': 'closed', 'created_at': '2014-04-10T16:44:20Z', 'closed_at': '2014-04-10T20:00:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 168, 'title': 'locales are limited to TwoLetterISOLanguageName', 'state': 'closed', 'created_at': '2014-04-10T13:56:54Z', 'closed_at': '2014-04-12T11:54:28Z', 'labels': []}
+{'issuenumber': 167, 'title': 'Locate localization implementation by reflection', 'state': 'closed', 'created_at': '2014-04-10T13:50:09Z', 'closed_at': '2014-04-10T15:54:56Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 164, 'title': 'Remove redundant test cases from localised DateHumanizeTests', 'state': 'closed', 'created_at': '2014-04-10T10:39:24Z', 'closed_at': '2014-05-24T02:20:41Z', 'labels': {'name': 'jump in'}}
+{'issuenumber': 163, 'title': 'Remove redundant test cases from DateHumanizeTests for `es` culture', 'state': 'closed', 'created_at': '2014-04-10T10:38:55Z', 'closed_at': '2014-04-10T11:06:07Z', 'labels': {'name': 'jump in'}}
+{'issuenumber': 161, 'title': 'Meaning of NoTime', 'state': 'closed', 'created_at': '2014-04-10T08:50:37Z', 'closed_at': '2014-04-19T11:11:46Z', 'labels': []}
+{'issuenumber': 157, 'title': 'Should add ToWords localisation process to readme', 'state': 'closed', 'created_at': '2014-04-10T07:37:33Z', 'closed_at': '2014-04-14T06:48:37Z', 'labels': []}
+{'issuenumber': 156, 'title': 'Introduce an interface for the clock', 'state': 'closed', 'created_at': '2014-04-10T05:47:12Z', 'closed_at': '2014-04-11T22:38:07Z', 'labels': []}
+{'issuenumber': 154, 'title': 'Add code attribution mandate to contribution guideline', 'state': 'closed', 'created_at': '2014-04-10T05:28:44Z', 'closed_at': '2014-04-11T15:22:26Z', 'labels': []}
+{'issuenumber': 153, 'title': 'Add code attribution to Roman feature', 'state': 'closed', 'created_at': '2014-04-10T05:26:49Z', 'closed_at': '2014-04-15T18:50:33Z', 'labels': []}
+{'issuenumber': 150, 'title': 'Make Configurator.FormatterFactories public', 'state': 'closed', 'created_at': '2014-04-09T22:49:55Z', 'closed_at': '2014-04-27T04:34:53Z', 'labels': []}
+{'issuenumber': 145, 'title': 'ToWords - Hebrew language', 'state': 'closed', 'created_at': '2014-04-09T20:57:52Z', 'closed_at': '2014-04-12T13:43:18Z', 'labels': []}
+{'issuenumber': 134, 'title': 'Licensing, Copyright', 'state': 'closed', 'created_at': '2014-04-09T05:48:54Z', 'closed_at': '2014-04-09T18:21:43Z', 'labels': []}
+{'issuenumber': 132, 'title': 'ToQuantity / Ordinalize / ToOrdinalWords / ToWords should do nothing for unsupported languages.', 'state': 'closed', 'created_at': '2014-04-07T04:24:55Z', 'closed_at': '2014-04-26T12:25:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 128, 'title': "Could not load 'System.Core, Version 2.0.5.0'", 'state': 'closed', 'created_at': '2014-04-04T06:20:29Z', 'closed_at': '2014-04-07T07:15:15Z', 'labels': []}
+{'issuenumber': 125, 'title': 'Make DateTimeHumanize tests consistent across all locales', 'state': 'closed', 'created_at': '2014-04-03T16:07:04Z', 'closed_at': '2014-04-06T09:30:34Z', 'labels': {'name': 'jump in'}}
+{'issuenumber': 123, 'title': 'One-off error in unit tests', 'state': 'closed', 'created_at': '2014-04-03T13:13:46Z', 'closed_at': '2014-04-06T09:26:42Z', 'labels': []}
+{'issuenumber': 122, 'title': 'Is Nuget package dead?', 'state': 'closed', 'created_at': '2014-04-02T11:27:25Z', 'closed_at': '2014-04-02T11:27:38Z', 'labels': []}
+{'issuenumber': 118, 'title': 'Idea to imporove localization from Unicode?', 'state': 'closed', 'created_at': '2014-03-30T11:43:35Z', 'closed_at': '2014-04-05T15:10:51Z', 'labels': []}
+{'issuenumber': 112, 'title': 'Dehumanize DateTime with reference date?', 'state': 'closed', 'created_at': '2014-03-27T16:32:34Z', 'closed_at': '2014-06-27T11:59:25Z', 'labels': []}
+{'issuenumber': 105, 'title': 'Some suggestions to humanizer', 'state': 'closed', 'created_at': '2014-03-18T11:27:19Z', 'closed_at': '2014-04-03T17:24:15Z', 'labels': []}
+{'issuenumber': 102, 'title': 'Refactor formatters (if possible)', 'state': 'closed', 'created_at': '2014-03-14T07:54:37Z', 'closed_at': '2014-03-23T09:40:57Z', 'labels': []}
+{'issuenumber': 101, 'title': 'Add precision to DateTime.Humanize ', 'state': 'closed', 'created_at': '2014-03-13T22:06:08Z', 'closed_at': '2014-04-10T22:51:43Z', 'labels': []}
+{'issuenumber': 97, 'title': "EnumHumanizeExtensions.GetCustomDescription doesn't retrieve descendants of DescriptionAttribute", 'state': 'closed', 'created_at': '2014-03-04T11:10:28Z', 'closed_at': '2014-03-26T18:24:16Z', 'labels': []}
+{'issuenumber': 96, 'title': 'Percentage extensions', 'state': 'closed', 'created_at': '2014-03-03T16:19:24Z', 'closed_at': '2014-03-03T16:36:53Z', 'labels': []}
+{'issuenumber': 94, 'title': 'What about filesize?', 'state': 'closed', 'created_at': '2014-02-17T16:19:46Z', 'closed_at': '2014-03-17T17:24:04Z', 'labels': {'name': 'jump in'}}
+{'issuenumber': 92, 'title': 'Add non-generic EnumDehumanizeExtensions.DehumanizeTo', 'state': 'closed', 'created_at': '2014-02-17T13:04:40Z', 'closed_at': '2014-03-02T15:10:35Z', 'labels': []}
+{'issuenumber': 91, 'title': 'ToQuantity ShowQuantityAs.Words fails on Arabic culture', 'state': 'closed', 'created_at': '2014-02-14T11:31:36Z', 'closed_at': '2014-04-07T05:27:16Z', 'labels': []}
+{'issuenumber': 90, 'title': 'humanizr.net is outdated', 'state': 'closed', 'created_at': '2014-02-13T18:58:18Z', 'closed_at': '2014-02-15T07:46:27Z', 'labels': []}
+{'issuenumber': 80, 'title': 'Humanizer can/should support truncating a string to a certain length whilst adding ellipsis', 'state': 'closed', 'created_at': '2014-02-11T15:13:08Z', 'closed_at': '2014-03-28T16:09:53Z', 'labels': []}
+{'issuenumber': 75, 'title': 'Localisation failing in Windows Store apps', 'state': 'closed', 'created_at': '2014-02-04T22:37:58Z', 'closed_at': '2014-02-12T01:21:09Z', 'labels': []}
+{'issuenumber': 74, 'title': 'Create GrammaticalCase, GrammaticalGender and GrammaticalNumber as first class citizens', 'state': 'closed', 'created_at': '2014-02-04T13:42:50Z', 'closed_at': '2014-04-12T10:43:21Z', 'labels': []}
+{'issuenumber': 70, 'title': 'Should refactor DateTime.Humanize', 'state': 'closed', 'created_at': '2014-01-31T15:33:59Z', 'closed_at': '2014-04-03T17:15:22Z', 'labels': {'name': 'jump in'}}
+{'issuenumber': 67, 'title': 'Support future dates as "from now"', 'state': 'closed', 'created_at': '2014-01-24T19:48:21Z', 'closed_at': '2014-01-31T15:34:53Z', 'labels': []}
+{'issuenumber': 63, 'title': 'Add IndefiniteArticle option to API', 'state': 'closed', 'created_at': '2014-01-20T10:37:32Z', 'closed_at': '2014-04-10T20:32:45Z', 'labels': []}
+{'issuenumber': 61, 'title': 'ToQuantity without displaying the number', 'state': 'closed', 'created_at': '2014-01-17T12:35:01Z', 'closed_at': '2014-01-20T10:37:56Z', 'labels': []}
+{'issuenumber': 60, 'title': 'Change the return type of DehumanizeTo<TTargetEnum> to TTargetEnum', 'state': 'closed', 'created_at': '2014-01-16T09:41:42Z', 'closed_at': '2014-01-27T09:30:59Z', 'labels': {'name': 'jump in'}}
+{'issuenumber': 59, 'title': 'Getting only needed resources on nuget install', 'state': 'closed', 'created_at': '2014-01-14T14:18:13Z', 'closed_at': '2015-11-30T21:02:51Z', 'labels': []}
+{'issuenumber': 58, 'title': 'Ability to convert between simple tense, past tense and past participle?', 'state': 'closed', 'created_at': '2014-01-14T13:09:55Z', 'closed_at': '2014-04-03T17:13:57Z', 'labels': []}
+{'issuenumber': 57, 'title': 'Humanizer: the C# repository of the week in January, 2014', 'state': 'closed', 'created_at': '2014-01-09T14:22:27Z', 'closed_at': '2014-01-14T13:16:12Z', 'labels': {'name': 'Announcement'}}
+{'issuenumber': 56, 'title': 'Question: 11 days seems to output 1 week, is this the designed behaviour?', 'state': 'closed', 'created_at': '2014-01-08T02:29:05Z', 'closed_at': '2015-03-04T07:58:51Z', 'labels': {'name': 'jump in'}}
+{'issuenumber': 47, 'title': 'Add GitReleaseNotes ', 'state': 'closed', 'created_at': '2014-01-02T11:36:33Z', 'closed_at': '2014-01-02T12:11:49Z', 'labels': []}
+{'issuenumber': 45, 'title': 'Elevator pitch for the framework?', 'state': 'closed', 'created_at': '2014-01-01T06:55:13Z', 'closed_at': '2014-01-21T12:54:56Z', 'labels': []}
+{'issuenumber': 42, 'title': 'Add `Hyphenate` as an alternative to `Dasherize`', 'state': 'closed', 'created_at': '2013-12-31T06:32:30Z', 'closed_at': '2014-01-06T16:38:09Z', 'labels': {'name': 'jump in'}}
+{'issuenumber': 39, 'title': 'ToQuantity should work with plural and singular inputs', 'state': 'closed', 'created_at': '2013-12-30T12:39:18Z', 'closed_at': '2014-01-01T06:08:53Z', 'labels': {'name': 'jump in'}}
+{'issuenumber': 38, 'title': 'Should be able to call Singularize and Pluralize on singular and plural words respectively', 'state': 'closed', 'created_at': '2013-12-30T12:30:20Z', 'closed_at': '2014-01-01T06:08:53Z', 'labels': {'name': 'jump in'}}
+{'issuenumber': 32, 'title': 'Add `ToQuantity` extension method', 'state': 'closed', 'created_at': '2013-12-23T19:36:21Z', 'closed_at': '2013-12-31T06:59:42Z', 'labels': []}
+{'issuenumber': 31, 'title': 'Should Title casing leave UPPERCASE words alone?', 'state': 'closed', 'created_at': '2013-12-23T19:24:09Z', 'closed_at': '2013-12-24T06:35:41Z', 'labels': {'name': 'poll'}}
+{'issuenumber': 30, 'title': 'Broken markdown reference "in the code" in readme', 'state': 'closed', 'created_at': '2013-12-23T05:32:27Z', 'closed_at': '2013-12-23T18:59:01Z', 'labels': []}
+{'issuenumber': 29, 'title': "TimeSpan's should show the time breakdown", 'state': 'closed', 'created_at': '2013-12-17T04:14:44Z', 'closed_at': '2014-01-23T07:19:39Z', 'labels': {'name': 'jump in'}}
+{'issuenumber': 27, 'title': 'Change to Portable Class Library', 'state': 'closed', 'created_at': '2013-12-02T08:48:44Z', 'closed_at': '2013-12-24T20:41:56Z', 'labels': []}
+{'issuenumber': 20, 'title': 'Numbers to positions', 'state': 'closed', 'created_at': '2013-09-10T06:17:05Z', 'closed_at': '2013-10-16T12:50:10Z', 'labels': []}
+{'issuenumber': 15, 'title': '`ToWords` should be localised', 'state': 'closed', 'created_at': '2013-08-30T13:54:22Z', 'closed_at': '2014-04-11T14:14:52Z', 'labels': {'name': 'jump in'}}
+{'issuenumber': 8, 'title': '"One year ago" or "Last year"', 'state': 'closed', 'created_at': '2013-08-29T09:48:30Z', 'closed_at': '2013-08-30T13:37:03Z', 'labels': []}
+{'issuenumber': 2, 'title': 'DateTime Humanize', 'state': 'closed', 'created_at': '2013-08-15T11:00:45Z', 'closed_at': '2014-01-24T19:52:42Z', 'labels': {'name': 'jump in'}}

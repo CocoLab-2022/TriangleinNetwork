@@ -1,0 +1,408 @@
+{'issuenumber': 923, 'title': 'Stricter string parsing', 'state': 'closed', 'created_at': '2016-11-28T17:48:16Z', 'closed_at': '2017-04-14T00:51:01Z', 'labels': []}
+{'issuenumber': 919, 'title': '`postcss.vendor.unprefixed` outputted different from input value.', 'state': 'closed', 'created_at': '2016-11-22T08:01:58Z', 'closed_at': '2016-11-22T12:31:59Z', 'labels': []}
+{'issuenumber': 918, 'title': 'Missing semicolon if order of nodes is changed', 'state': 'closed', 'created_at': '2016-11-21T19:53:50Z', 'closed_at': '2016-11-21T20:14:37Z', 'labels': []}
+{'issuenumber': 916, 'title': "map.sourcesContent doesn't work together with map.from", 'state': 'closed', 'created_at': '2016-11-15T03:28:05Z', 'closed_at': '2017-04-14T00:38:23Z', 'labels': []}
+{'issuenumber': 914, 'title': 'Absolute sourceMap paths', 'state': 'closed', 'created_at': '2016-11-10T00:25:32Z', 'closed_at': '2016-11-15T02:35:40Z', 'labels': []}
+{'issuenumber': 913, 'title': 'PostCSS in the browser', 'state': 'closed', 'created_at': '2016-11-06T18:36:23Z', 'closed_at': '2016-11-06T18:44:49Z', 'labels': []}
+{'issuenumber': 907, 'title': 'postcss is injecting generated .css file into source list', 'state': 'closed', 'created_at': '2016-10-27T09:08:49Z', 'closed_at': '2017-04-14T03:35:08Z', 'labels': []}
+{'issuenumber': 906, 'title': 'Import Plugin', 'state': 'closed', 'created_at': '2016-10-26T14:53:34Z', 'closed_at': '2017-04-14T00:03:58Z', 'labels': []}
+{'issuenumber': 903, 'title': 'Postcss parser issue', 'state': 'closed', 'created_at': '2016-10-21T14:35:08Z', 'closed_at': '2016-10-21T14:43:47Z', 'labels': []}
+{'issuenumber': 902, 'title': 'Postcss parser issue', 'state': 'closed', 'created_at': '2016-10-21T13:02:08Z', 'closed_at': '2016-10-21T14:12:44Z', 'labels': []}
+{'issuenumber': 900, 'title': 'What about PostCSS on Ruby on Rails?', 'state': 'closed', 'created_at': '2016-10-17T17:32:46Z', 'closed_at': '2016-10-17T18:15:28Z', 'labels': []}
+{'issuenumber': 899, 'title': 'How to apply plugins only to certain files with webpack?', 'state': 'closed', 'created_at': '2016-10-04T18:23:26Z', 'closed_at': '2016-10-04T18:27:03Z', 'labels': []}
+{'issuenumber': 898, 'title': 'Babel for CSS', 'state': 'closed', 'created_at': '2016-10-03T11:00:13Z', 'closed_at': '2016-10-03T11:08:07Z', 'labels': []}
+{'issuenumber': 896, 'title': 'Extreme Webpack build times', 'state': 'closed', 'created_at': '2016-09-27T21:50:02Z', 'closed_at': '2016-09-27T23:30:43Z', 'labels': []}
+{'issuenumber': 895, 'title': 'Plugin integration', 'state': 'closed', 'created_at': '2016-09-26T16:40:49Z', 'closed_at': '2017-04-14T00:07:53Z', 'labels': []}
+{'issuenumber': 887, 'title': 'Blank lines are stripped from css.toString()', 'state': 'closed', 'created_at': '2016-09-13T13:15:45Z', 'closed_at': '2016-09-13T18:09:34Z', 'labels': []}
+{'issuenumber': 882, 'title': 'Incorrect position on minified css with sourcemaps', 'state': 'closed', 'created_at': '2016-09-09T16:11:24Z', 'closed_at': '2017-04-14T01:05:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 878, 'title': "Syntax error in API documentation for 'walkRules'", 'state': 'closed', 'created_at': '2016-09-04T10:47:38Z', 'closed_at': '2016-09-04T10:51:34Z', 'labels': []}
+{'issuenumber': 876, 'title': 'Attributes selectors with unquoted semicolon throw error', 'state': 'closed', 'created_at': '2016-09-01T22:57:39Z', 'closed_at': '2016-09-02T22:46:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 872, 'title': 'Ignored syntax error in :not pseudo class', 'state': 'closed', 'created_at': '2016-08-29T00:14:09Z', 'closed_at': '2016-08-29T00:16:10Z', 'labels': []}
+{'issuenumber': 871, 'title': "Processor instance doesn't include parser", 'state': 'closed', 'created_at': '2016-08-26T16:55:24Z', 'closed_at': '2016-09-04T21:39:00Z', 'labels': []}
+{'issuenumber': 870, 'title': 'Pass processor options to result', 'state': 'closed', 'created_at': '2016-08-26T16:44:52Z', 'closed_at': '2016-08-26T16:46:22Z', 'labels': []}
+{'issuenumber': 867, 'title': '[Help needed] Requiring a module to be executed with webpack loaders within plugin', 'state': 'closed', 'created_at': '2016-08-21T09:31:40Z', 'closed_at': '2016-08-22T16:32:05Z', 'labels': []}
+{'issuenumber': 866, 'title': "Using remove() in plugin isn't removing original rule", 'state': 'closed', 'created_at': '2016-08-20T20:54:48Z', 'closed_at': '2016-08-20T22:34:10Z', 'labels': []}
+{'issuenumber': 864, 'title': 'Давайте добавим в вебпак возможность передавать AST из PostCSS по цепочке лоадеров?', 'state': 'closed', 'created_at': '2016-08-07T16:48:25Z', 'closed_at': '2016-08-07T16:55:00Z', 'labels': []}
+{'issuenumber': 863, 'title': 'Non-existent pages in the API docs', 'state': 'closed', 'created_at': '2016-08-06T10:43:08Z', 'closed_at': '2016-08-06T13:19:09Z', 'labels': []}
+{'issuenumber': 861, 'title': 'Why we need PostCSS if we have Webpack o_O?', 'state': 'closed', 'created_at': '2016-08-04T17:07:21Z', 'closed_at': '2016-08-04T18:08:31Z', 'labels': []}
+{'issuenumber': 860, 'title': 'postcss 5.1 breaks postcss-import', 'state': 'closed', 'created_at': '2016-08-02T13:57:58Z', 'closed_at': '2016-08-26T12:07:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 859, 'title': 'result.warn discards // when calculating error index', 'state': 'closed', 'created_at': '2016-07-31T10:16:17Z', 'closed_at': '2016-07-31T11:46:42Z', 'labels': []}
+{'issuenumber': 857, 'title': 'glob pattern string required', 'state': 'closed', 'created_at': '2016-07-31T01:23:26Z', 'closed_at': '2016-07-31T08:07:57Z', 'labels': []}
+{'issuenumber': 856, 'title': 'Mention postcss-less and postcss-scss parsers in parse error', 'state': 'closed', 'created_at': '2016-07-30T14:13:07Z', 'closed_at': '2016-08-06T18:02:24Z', 'labels': []}
+{'issuenumber': 849, 'title': 'Best practices for easier theming', 'state': 'closed', 'created_at': '2016-07-22T00:00:21Z', 'closed_at': '2016-07-22T15:20:31Z', 'labels': []}
+{'issuenumber': 845, 'title': 'Comments within a value list are ignored', 'state': 'closed', 'created_at': '2016-07-13T06:48:53Z', 'closed_at': '2016-07-13T09:36:43Z', 'labels': []}
+{'issuenumber': 844, 'title': 'A whishlist for independent postcss tools?', 'state': 'closed', 'created_at': '2016-07-12T09:06:26Z', 'closed_at': '2016-07-12T10:39:53Z', 'labels': []}
+{'issuenumber': 843, 'title': '`raws` data is ignored when cloning a declaration', 'state': 'closed', 'created_at': '2016-07-12T07:15:33Z', 'closed_at': '2016-07-12T10:15:10Z', 'labels': []}
+{'issuenumber': 835, 'title': 'api.postcss.org/Container.html 404', 'state': 'closed', 'created_at': '2016-06-28T16:16:08Z', 'closed_at': '2016-07-10T20:06:56Z', 'labels': []}
+{'issuenumber': 830, 'title': 'Running postcss in the browser', 'state': 'closed', 'created_at': '2016-06-23T23:44:55Z', 'closed_at': '2016-06-23T23:47:24Z', 'labels': []}
+{'issuenumber': 829, 'title': 'modules not correctly resolved when using with babel and webpack', 'state': 'closed', 'created_at': '2016-06-23T09:59:26Z', 'closed_at': '2016-06-23T10:00:51Z', 'labels': []}
+{'issuenumber': 825, 'title': 'Yaspeller usage', 'state': 'closed', 'created_at': '2016-06-22T09:03:48Z', 'closed_at': '2016-06-26T23:45:15Z', 'labels': []}
+{'issuenumber': 816, 'title': 'Parsing issue with <![CDATA[ inside a CSS comment', 'state': 'closed', 'created_at': '2016-05-30T22:53:18Z', 'closed_at': '2016-05-30T22:57:17Z', 'labels': []}
+{'issuenumber': 814, 'title': 'Sourcemaps corruption (nested blocks?)', 'state': 'closed', 'created_at': '2016-05-25T21:29:13Z', 'closed_at': '2016-07-10T23:30:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 813, 'title': 'Request for Autoloading Plugins as a Core Functionality', 'state': 'closed', 'created_at': '2016-05-25T21:25:10Z', 'closed_at': '2020-03-28T22:59:47Z', 'labels': []}
+{'issuenumber': 804, 'title': "PostCSS always uses a custom parser after it's set once", 'state': 'closed', 'created_at': '2016-05-10T19:41:26Z', 'closed_at': '2016-05-10T20:16:53Z', 'labels': []}
+{'issuenumber': 803, 'title': 'walk and case sensitive', 'state': 'closed', 'created_at': '2016-05-05T10:49:08Z', 'closed_at': '2016-05-05T10:55:29Z', 'labels': []}
+{'issuenumber': 801, 'title': 'Plugin creation, variables type', 'state': 'closed', 'created_at': '2016-05-04T10:21:59Z', 'closed_at': '2016-05-04T11:08:49Z', 'labels': []}
+{'issuenumber': 800, 'title': 'potential mishandling of double colons', 'state': 'closed', 'created_at': '2016-05-03T00:00:31Z', 'closed_at': '2016-05-03T12:54:13Z', 'labels': []}
+{'issuenumber': 799, 'title': 'Error: Unsupported source map encoding charset=utf8;base64', 'state': 'closed', 'created_at': '2016-05-02T10:31:29Z', 'closed_at': '2016-05-03T12:53:58Z', 'labels': []}
+{'issuenumber': 796, 'title': 'Question: how to make a bundle from other plugins?', 'state': 'closed', 'created_at': '2016-04-27T09:14:40Z', 'closed_at': '2016-04-27T09:49:31Z', 'labels': []}
+{'issuenumber': 792, 'title': 'Source map support for declaration merging', 'state': 'closed', 'created_at': '2016-04-15T23:49:56Z', 'closed_at': '2016-04-16T02:15:38Z', 'labels': []}
+{'issuenumber': 790, 'title': 'Solution for plugin node cache', 'state': 'closed', 'created_at': '2016-04-13T06:59:46Z', 'closed_at': '2016-07-10T20:34:25Z', 'labels': []}
+{'issuenumber': 787, 'title': 'PostCSS import fails in TypeScript with node resolution', 'state': 'closed', 'created_at': '2016-04-11T18:14:22Z', 'closed_at': '2016-05-14T13:47:51Z', 'labels': []}
+{'issuenumber': 786, 'title': 'Proposal for performance improvement', 'state': 'closed', 'created_at': '2016-04-11T07:12:38Z', 'closed_at': '2016-04-11T07:24:02Z', 'labels': []}
+{'issuenumber': 783, 'title': 'import style from package.json', 'state': 'closed', 'created_at': '2016-04-07T13:55:28Z', 'closed_at': '2016-04-07T14:45:21Z', 'labels': []}
+{'issuenumber': 782, 'title': 'media query parse', 'state': 'closed', 'created_at': '2016-04-06T13:55:11Z', 'closed_at': '2016-04-08T19:10:59Z', 'labels': []}
+{'issuenumber': 779, 'title': 'Failed to decode downloaded font && OTS parsing error: invalid version tag', 'state': 'closed', 'created_at': '2016-03-25T02:12:29Z', 'closed_at': '2016-03-25T08:00:58Z', 'labels': []}
+{'issuenumber': 778, 'title': 'function like sass', 'state': 'closed', 'created_at': '2016-03-24T14:59:03Z', 'closed_at': '2016-03-24T17:11:33Z', 'labels': []}
+{'issuenumber': 775, 'title': 'Trailing whitespace inconsistency?', 'state': 'closed', 'created_at': '2016-03-22T01:41:00Z', 'closed_at': '2016-03-22T06:49:34Z', 'labels': []}
+{'issuenumber': 774, 'title': 'Plugin that only runs after a set of PostCSS processes', 'state': 'closed', 'created_at': '2016-03-22T01:40:23Z', 'closed_at': '2016-04-08T19:11:18Z', 'labels': []}
+{'issuenumber': 773, 'title': 'CssSyntaxError is not instanceof Error', 'state': 'closed', 'created_at': '2016-03-20T20:41:28Z', 'closed_at': '2016-03-21T06:12:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 772, 'title': 'Request: first and last enhancement', 'state': 'closed', 'created_at': '2016-03-20T03:52:24Z', 'closed_at': '2016-04-08T19:13:42Z', 'labels': []}
+{'issuenumber': 771, 'title': 'Two-factor authentication', 'state': 'closed', 'created_at': '2016-03-14T20:35:31Z', 'closed_at': '2016-04-08T15:11:46Z', 'labels': []}
+{'issuenumber': 770, 'title': 'Add PostCSS to Pretty Diff beautifier', 'state': 'closed', 'created_at': '2016-03-14T12:10:43Z', 'closed_at': '2016-03-18T05:07:27Z', 'labels': []}
+{'issuenumber': 768, 'title': 'Cannot use es2015 destructuring in plugin option', 'state': 'closed', 'created_at': '2016-03-14T07:05:42Z', 'closed_at': '2016-05-04T07:53:58Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 767, 'title': 'Plugin request: Remove unused styles from CSS', 'state': 'closed', 'created_at': '2016-03-11T14:33:33Z', 'closed_at': '2016-03-11T16:26:23Z', 'labels': []}
+{'issuenumber': 766, 'title': "TypeError: Cannot read property 'on' of undefined", 'state': 'closed', 'created_at': '2016-03-10T20:03:10Z', 'closed_at': '2016-03-10T22:36:07Z', 'labels': []}
+{'issuenumber': 764, 'title': 'Plugins order', 'state': 'closed', 'created_at': '2016-03-10T11:04:43Z', 'closed_at': '2016-03-10T11:07:16Z', 'labels': []}
+{'issuenumber': 763, 'title': 'CSSSyntaxError no longer instanceof Error', 'state': 'closed', 'created_at': '2016-03-09T13:51:48Z', 'closed_at': '2016-03-09T13:56:29Z', 'labels': []}
+{'issuenumber': 757, 'title': 'Enabling absolute urls in source maps', 'state': 'closed', 'created_at': '2016-03-07T11:46:52Z', 'closed_at': '2016-05-14T13:19:05Z', 'labels': []}
+{'issuenumber': 756, 'title': 'Sourcemap .append', 'state': 'closed', 'created_at': '2016-03-06T23:07:58Z', 'closed_at': '2016-03-08T23:22:15Z', 'labels': []}
+{'issuenumber': 754, 'title': 'Integrate value & selector parsing into PostCSS core.', 'state': 'closed', 'created_at': '2016-03-04T12:46:29Z', 'closed_at': '2018-07-16T17:55:34Z', 'labels': {'name': 'question'}}
+{'issuenumber': 753, 'title': 'File-specific plugins options', 'state': 'closed', 'created_at': '2016-02-28T12:50:47Z', 'closed_at': '2016-03-08T07:27:19Z', 'labels': []}
+{'issuenumber': 748, 'title': 'With Node v5.7.0 getting the error "Promise is not defined."', 'state': 'closed', 'created_at': '2016-02-25T23:11:21Z', 'closed_at': '2016-02-25T23:37:28Z', 'labels': []}
+{'issuenumber': 744, 'title': 'Result#files', 'state': 'closed', 'created_at': '2016-02-22T18:03:35Z', 'closed_at': '2020-03-28T22:58:26Z', 'labels': []}
+{'issuenumber': 737, 'title': 'Is documentation wrong for `input.origin()`?', 'state': 'closed', 'created_at': '2016-02-18T01:14:27Z', 'closed_at': '2016-02-18T10:26:13Z', 'labels': []}
+{'issuenumber': 736, 'title': 'Function Resolution', 'state': 'closed', 'created_at': '2016-02-14T20:44:38Z', 'closed_at': '2016-02-14T20:47:10Z', 'labels': []}
+{'issuenumber': 734, 'title': 'Changelog format', 'state': 'closed', 'created_at': '2016-02-12T08:55:14Z', 'closed_at': '2016-02-12T20:28:24Z', 'labels': {'name': 'question'}}
+{'issuenumber': 732, 'title': 'compare plugins of packs like cssnext, rucksack and precss', 'state': 'closed', 'created_at': '2016-02-11T12:16:02Z', 'closed_at': '2016-02-11T12:22:59Z', 'labels': []}
+{'issuenumber': 730, 'title': "Cannot read property 'constructor' of null", 'state': 'closed', 'created_at': '2016-02-10T22:25:06Z', 'closed_at': '2016-02-11T12:55:05Z', 'labels': []}
+{'issuenumber': 729, 'title': "TypeError: Cannot read property 'before' of undefined", 'state': 'closed', 'created_at': '2016-02-10T14:23:08Z', 'closed_at': '2016-02-13T21:15:08Z', 'labels': []}
+{'issuenumber': 727, 'title': 'CSS syntax error reporting wrong line/column position', 'state': 'closed', 'created_at': '2016-02-10T04:25:07Z', 'closed_at': '2016-02-13T21:06:18Z', 'labels': []}
+{'issuenumber': 725, 'title': 'Problem reporting positions when using SCSS parser and // comments', 'state': 'closed', 'created_at': '2016-02-09T03:53:31Z', 'closed_at': '2016-02-15T15:41:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 724, 'title': 'Client side postcss (browsers)', 'state': 'closed', 'created_at': '2016-02-08T20:51:53Z', 'closed_at': '2016-02-08T21:50:28Z', 'labels': []}
+{'issuenumber': 723, 'title': 'Postcss split custom values', 'state': 'closed', 'created_at': '2016-02-08T13:24:59Z', 'closed_at': '2016-02-08T13:49:06Z', 'labels': []}
+{'issuenumber': 715, 'title': 'Correct way to .append() and maintain code style?', 'state': 'closed', 'created_at': '2016-01-25T21:37:48Z', 'closed_at': '2016-01-25T22:24:50Z', 'labels': []}
+{'issuenumber': 708, 'title': 'ReferenceError: Promise is not defined - at LazyResult.async', 'state': 'closed', 'created_at': '2016-01-21T17:00:37Z', 'closed_at': '2016-01-21T17:03:15Z', 'labels': []}
+{'issuenumber': 700, 'title': 'Container Queries', 'state': 'closed', 'created_at': '2016-01-10T20:17:40Z', 'closed_at': '2016-01-11T06:33:10Z', 'labels': []}
+{'issuenumber': 698, 'title': 'use a stream for postcss.parse(css)', 'state': 'closed', 'created_at': '2016-01-07T12:10:26Z', 'closed_at': '2016-01-07T12:45:31Z', 'labels': []}
+{'issuenumber': 697, 'title': 'FYI: the babel register require hook is outdated in index.js', 'state': 'closed', 'created_at': '2016-01-06T12:23:13Z', 'closed_at': '2016-04-08T19:58:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 696, 'title': 'Adding Pseudo Classes', 'state': 'closed', 'created_at': '2016-01-05T17:05:16Z', 'closed_at': '2016-01-05T18:54:00Z', 'labels': []}
+{'issuenumber': 695, 'title': 'Plugin API Examples in AST Explorer', 'state': 'closed', 'created_at': '2016-01-05T16:13:56Z', 'closed_at': '2016-02-13T22:09:10Z', 'labels': {'name': 'question'}}
+{'issuenumber': 693, 'title': 'Generator to build plugins with components library', 'state': 'closed', 'created_at': '2016-01-04T20:35:35Z', 'closed_at': '2016-05-14T13:51:34Z', 'labels': {'name': 'plugins'}}
+{'issuenumber': 692, 'title': 'How to set up postcss with babel', 'state': 'closed', 'created_at': '2016-01-04T16:56:50Z', 'closed_at': '2016-01-04T17:04:37Z', 'labels': []}
+{'issuenumber': 691, 'title': 'Using Variables for Decl Values', 'state': 'closed', 'created_at': '2016-01-04T13:47:36Z', 'closed_at': '2016-01-04T14:11:09Z', 'labels': []}
+{'issuenumber': 684, 'title': 'Use ava as a test runner', 'state': 'closed', 'created_at': '2015-12-26T14:32:47Z', 'closed_at': '2015-12-26T14:36:06Z', 'labels': []}
+{'issuenumber': 678, 'title': 'PostCSS Seems to not run on webpack', 'state': 'closed', 'created_at': '2015-12-16T13:52:16Z', 'closed_at': '2015-12-16T13:53:33Z', 'labels': []}
+{'issuenumber': 672, 'title': 'Cache api', 'state': 'closed', 'created_at': '2015-12-12T21:53:50Z', 'closed_at': '2015-12-13T12:26:08Z', 'labels': []}
+{'issuenumber': 668, 'title': 'Node#replaceWith BUG', 'state': 'closed', 'created_at': '2015-12-08T16:13:46Z', 'closed_at': '2015-12-08T16:16:53Z', 'labels': []}
+{'issuenumber': 661, 'title': '`raws.before` and weird property name', 'state': 'closed', 'created_at': '2015-12-05T04:49:19Z', 'closed_at': '2016-04-08T19:13:58Z', 'labels': []}
+{'issuenumber': 656, 'title': 'New docs', 'state': 'closed', 'created_at': '2015-12-01T11:54:54Z', 'closed_at': '2016-02-12T09:00:47Z', 'labels': {'name': 'question'}}
+{'issuenumber': 655, 'title': 'postcss-clone', 'state': 'closed', 'created_at': '2015-11-30T20:35:46Z', 'closed_at': '2015-12-01T10:28:35Z', 'labels': {'name': 'plugins'}}
+{'issuenumber': 653, 'title': 'Replace repetitive word in decl', 'state': 'closed', 'created_at': '2015-11-30T14:11:47Z', 'closed_at': '2015-11-30T15:52:19Z', 'labels': []}
+{'issuenumber': 649, 'title': 'AST Vizualizer', 'state': 'closed', 'created_at': '2015-11-25T12:50:33Z', 'closed_at': '2015-11-30T20:32:13Z', 'labels': {'name': 'question'}}
+{'issuenumber': 646, 'title': 'Post-css z-index plugin', 'state': 'closed', 'created_at': '2015-11-23T08:55:27Z', 'closed_at': '2015-11-23T08:56:53Z', 'labels': []}
+{'issuenumber': 645, 'title': 'postcss-hacks', 'state': 'closed', 'created_at': '2015-11-21T12:50:31Z', 'closed_at': '2016-04-28T07:44:04Z', 'labels': {'name': 'plugins'}}
+{'issuenumber': 644, 'title': 'Q: Should plugins have PostCSS in dependencies?', 'state': 'closed', 'created_at': '2015-11-21T09:19:09Z', 'closed_at': '2015-11-21T09:41:49Z', 'labels': []}
+{'issuenumber': 643, 'title': 'Node v4.2.2 but Promise is not defined', 'state': 'closed', 'created_at': '2015-11-20T21:44:16Z', 'closed_at': '2015-11-21T00:50:39Z', 'labels': []}
+{'issuenumber': 639, 'title': 'Providing array, but getting `Please provide array of postcss processors!`', 'state': 'closed', 'created_at': '2015-11-18T12:47:42Z', 'closed_at': '2015-11-18T12:50:27Z', 'labels': []}
+{'issuenumber': 638, 'title': "Node 0.10 - Error: Cannot find module 'postcss/lib/stringifier'", 'state': 'closed', 'created_at': '2015-11-18T12:19:30Z', 'closed_at': '2015-11-18T12:26:44Z', 'labels': []}
+{'issuenumber': 635, 'title': 'How to add custom data in the return value', 'state': 'closed', 'created_at': '2015-11-12T19:25:02Z', 'closed_at': '2015-11-12T20:36:51Z', 'labels': []}
+{'issuenumber': 634, 'title': 'ReferenceError: Promise is not defined', 'state': 'closed', 'created_at': '2015-11-12T16:19:19Z', 'closed_at': '2015-11-12T16:24:30Z', 'labels': []}
+{'issuenumber': 630, 'title': 'Do not load classes from PostCSS by paths', 'state': 'closed', 'created_at': '2015-11-05T19:04:04Z', 'closed_at': '2016-03-13T09:07:09Z', 'labels': []}
+{'issuenumber': 624, 'title': 'Typo in Readme', 'state': 'closed', 'created_at': '2015-11-03T18:50:39Z', 'closed_at': '2015-11-03T18:51:23Z', 'labels': []}
+{'issuenumber': 623, 'title': 'Specify previous source map after parse', 'state': 'closed', 'created_at': '2015-11-03T09:29:06Z', 'closed_at': '2016-05-14T13:55:06Z', 'labels': []}
+{'issuenumber': 622, 'title': 'Add npm shrinkwrap', 'state': 'closed', 'created_at': '2015-11-03T03:38:50Z', 'closed_at': '2016-02-13T22:09:21Z', 'labels': {'name': 'question'}}
+{'issuenumber': 621, 'title': 'Use npm@3 postinstall to compile ES6 in GitHub usage', 'state': 'closed', 'created_at': '2015-11-02T13:15:12Z', 'closed_at': '2016-05-04T07:54:23Z', 'labels': []}
+{'issuenumber': 620, 'title': 'postcss silently failing if there is an invalid comment syntax on non last rule', 'state': 'closed', 'created_at': '2015-10-30T23:10:58Z', 'closed_at': '2015-11-06T15:33:46Z', 'labels': []}
+{'issuenumber': 617, 'title': 'Unknown Word: LESS Interpolated Variables', 'state': 'closed', 'created_at': '2015-10-29T15:50:45Z', 'closed_at': '2015-10-29T16:06:14Z', 'labels': []}
+{'issuenumber': 614, 'title': 'How to fix ie6 hack syntax.', 'state': 'closed', 'created_at': '2015-10-27T14:10:02Z', 'closed_at': '2015-10-27T14:14:20Z', 'labels': []}
+{'issuenumber': 611, 'title': 'Root#remove is deprecated. Use Root#removeChild', 'state': 'closed', 'created_at': '2015-10-24T17:19:02Z', 'closed_at': '2015-10-24T19:06:53Z', 'labels': []}
+{'issuenumber': 610, 'title': 'FixedCSS', 'state': 'closed', 'created_at': '2015-10-23T10:35:38Z', 'closed_at': '2015-10-28T00:47:01Z', 'labels': {'name': 'plugins'}}
+{'issuenumber': 609, 'title': 'Version of the source-map dependecy', 'state': 'closed', 'created_at': '2015-10-23T04:35:14Z', 'closed_at': '2015-10-23T06:18:20Z', 'labels': []}
+{'issuenumber': 605, 'title': 'Previous sourcemap', 'state': 'closed', 'created_at': '2015-10-22T09:51:56Z', 'closed_at': '2015-10-22T10:02:25Z', 'labels': []}
+{'issuenumber': 602, 'title': 'postcss-stylus syntax', 'state': 'closed', 'created_at': '2015-10-20T08:02:17Z', 'closed_at': '2015-10-20T08:05:59Z', 'labels': []}
+{'issuenumber': 600, 'title': 'Strange error at the css file loading.', 'state': 'closed', 'created_at': '2015-10-17T09:14:59Z', 'closed_at': '2015-10-17T23:58:02Z', 'labels': []}
+{'issuenumber': 599, 'title': 'API to parse values', 'state': 'closed', 'created_at': '2015-10-12T14:47:59Z', 'closed_at': '2015-10-12T15:00:25Z', 'labels': []}
+{'issuenumber': 598, 'title': 'decl. node raws.between boundaries', 'state': 'closed', 'created_at': '2015-10-11T20:10:10Z', 'closed_at': '2017-04-14T07:56:47Z', 'labels': []}
+{'issuenumber': 596, 'title': 'Process inline CSS in HTML using PostCSS', 'state': 'closed', 'created_at': '2015-10-11T13:52:29Z', 'closed_at': '2015-10-11T14:51:48Z', 'labels': []}
+{'issuenumber': 595, 'title': 'Run synchronously', 'state': 'closed', 'created_at': '2015-10-09T20:55:03Z', 'closed_at': '2015-10-09T20:55:38Z', 'labels': []}
+{'issuenumber': 592, 'title': 'Plugin to scan SCSS for features used?', 'state': 'closed', 'created_at': '2015-10-05T18:12:49Z', 'closed_at': '2016-04-08T19:11:51Z', 'labels': {'name': 'plugins'}}
+{'issuenumber': 583, 'title': 'Problem with source map detection in previous-map.es6', 'state': 'closed', 'created_at': '2015-09-25T16:19:30Z', 'closed_at': '2015-10-08T17:35:51Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 582, 'title': '"SyntaxError: Unexpected reserved word" in 5.0.7', 'state': 'closed', 'created_at': '2015-09-25T10:58:48Z', 'closed_at': '2015-09-25T11:16:41Z', 'labels': []}
+{'issuenumber': 580, 'title': 'site with plugins repository', 'state': 'closed', 'created_at': '2015-09-24T10:14:58Z', 'closed_at': '2015-09-24T10:19:26Z', 'labels': []}
+{'issuenumber': 579, 'title': 'Is there any flow to create Typescript type definitions ?', 'state': 'closed', 'created_at': '2015-09-24T07:07:48Z', 'closed_at': '2015-09-25T10:10:06Z', 'labels': []}
+{'issuenumber': 577, 'title': 'Javascript enhanced transforms.', 'state': 'closed', 'created_at': '2015-09-23T03:41:54Z', 'closed_at': '2015-09-23T11:03:30Z', 'labels': {'name': 'question'}}
+{'issuenumber': 576, 'title': 'Space handling regression in 5.0.6', 'state': 'closed', 'created_at': '2015-09-22T20:23:24Z', 'closed_at': '2015-10-07T14:04:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 575, 'title': '-webkit-mask-box-image should be parsed properly', 'state': 'closed', 'created_at': '2015-09-22T06:44:32Z', 'closed_at': '2015-09-22T07:43:02Z', 'labels': []}
+{'issuenumber': 566, 'title': 'not trimmed spaces in the end of decl.value', 'state': 'closed', 'created_at': '2015-09-18T08:50:40Z', 'closed_at': '2015-09-20T11:25:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 565, 'title': 'How to write a plugin', 'state': 'closed', 'created_at': '2015-09-17T13:59:29Z', 'closed_at': '2015-09-17T14:03:30Z', 'labels': []}
+{'issuenumber': 564, 'title': 'Не удаляются комментарии.', 'state': 'closed', 'created_at': '2015-09-17T13:17:00Z', 'closed_at': '2015-09-17T13:26:28Z', 'labels': []}
+{'issuenumber': 562, 'title': "stringifying cloned rule doesn't add semicolon to last at-rule", 'state': 'closed', 'created_at': '2015-09-16T04:01:35Z', 'closed_at': '2015-10-08T18:25:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 561, 'title': 'error on nested at-rule without semicolon', 'state': 'closed', 'created_at': '2015-09-15T03:01:27Z', 'closed_at': '2015-09-15T08:51:04Z', 'labels': []}
+{'issuenumber': 560, 'title': 'AtRule#params or AtRule#raws.params?', 'state': 'closed', 'created_at': '2015-09-14T22:36:52Z', 'closed_at': '2015-09-14T22:39:27Z', 'labels': []}
+{'issuenumber': 553, 'title': 'Write SVG in PostCSS', 'state': 'closed', 'created_at': '2015-09-10T13:56:02Z', 'closed_at': '2015-09-12T10:47:16Z', 'labels': {'name': 'plugins'}}
+{'issuenumber': 545, 'title': 'Rule constructor triggers derecation messages', 'state': 'closed', 'created_at': '2015-09-04T10:29:56Z', 'closed_at': '2015-09-04T10:31:15Z', 'labels': []}
+{'issuenumber': 543, 'title': 'Problem with postcss integrating with cssnext and precss im @import', 'state': 'closed', 'created_at': '2015-09-03T08:33:32Z', 'closed_at': '2015-09-03T14:09:48Z', 'labels': []}
+{'issuenumber': 535, 'title': 'Mixed line endings', 'state': 'closed', 'created_at': '2015-08-31T15:19:15Z', 'closed_at': '2015-09-01T17:15:20Z', 'labels': []}
+{'issuenumber': 533, 'title': 'Warnings on root node have line/column positions of 0', 'state': 'closed', 'created_at': '2015-08-29T21:47:50Z', 'closed_at': '2015-09-01T18:17:44Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 531, 'title': 'Incompatibility w/ PostCSS 5.0, Autoprefixer (Gulp)', 'state': 'closed', 'created_at': '2015-08-28T11:03:41Z', 'closed_at': '2015-08-28T11:38:06Z', 'labels': []}
+{'issuenumber': 530, 'title': 'How do i select CSS folder and Dist Folder?', 'state': 'closed', 'created_at': '2015-08-28T10:02:05Z', 'closed_at': '2015-08-28T10:04:45Z', 'labels': []}
+{'issuenumber': 529, 'title': 'Plugin initializer called twice', 'state': 'closed', 'created_at': '2015-08-28T09:19:40Z', 'closed_at': '2015-08-28T09:22:06Z', 'labels': []}
+{'issuenumber': 526, 'title': 'Unexpected error if result.warning() node is Root', 'state': 'closed', 'created_at': '2015-08-27T13:46:56Z', 'closed_at': '2015-08-28T21:16:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 525, 'title': 'Rule constructor missing `selector` property', 'state': 'closed', 'created_at': '2015-08-27T13:07:27Z', 'closed_at': '2015-08-28T21:24:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 522, 'title': 'Node#toString seems not to include `before` for any nodes', 'state': 'closed', 'created_at': '2015-08-27T01:27:02Z', 'closed_at': '2015-08-27T05:42:41Z', 'labels': []}
+{'issuenumber': 521, 'title': 'New syntax error seems inaccurate', 'state': 'closed', 'created_at': '2015-08-27T01:22:18Z', 'closed_at': '2015-08-28T21:32:51Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 510, 'title': 'Perfomance regression in 5.0', 'state': 'closed', 'created_at': '2015-08-23T23:15:23Z', 'closed_at': '2015-11-07T13:45:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 509, 'title': 'all: none polyfill', 'state': 'closed', 'created_at': '2015-08-23T20:43:51Z', 'closed_at': '2015-08-23T23:50:11Z', 'labels': {'name': 'plugins'}}
+{'issuenumber': 506, 'title': 'selectors with moz prefix first are removed when used with autoprefixer', 'state': 'closed', 'created_at': '2015-08-21T20:34:03Z', 'closed_at': '2015-08-22T13:26:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 505, 'title': 'CSS Syntax Errors with input[type="quoted-value"]', 'state': 'closed', 'created_at': '2015-08-21T20:24:11Z', 'closed_at': '2015-08-22T14:43:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 502, 'title': 'New way to create nodes', 'state': 'closed', 'created_at': '2015-08-20T20:07:05Z', 'closed_at': '2018-07-16T17:55:58Z', 'labels': []}
+{'issuenumber': 501, 'title': 'Code Coverage', 'state': 'closed', 'created_at': '2015-08-20T18:15:51Z', 'closed_at': '2015-08-22T10:25:32Z', 'labels': []}
+{'issuenumber': 495, 'title': 'SugarSS syntax', 'state': 'closed', 'created_at': '2015-08-17T16:15:33Z', 'closed_at': '2016-03-09T02:12:23Z', 'labels': {'name': 'question'}}
+{'issuenumber': 487, 'title': 'Rename recursive `each` methods to `walk` methods.', 'state': 'closed', 'created_at': '2015-08-14T21:40:15Z', 'closed_at': '2015-08-16T09:13:10Z', 'labels': []}
+{'issuenumber': 486, 'title': 'options: {map: false} delete previous sourcemap comment from css', 'state': 'closed', 'created_at': '2015-08-13T17:01:32Z', 'closed_at': '2015-08-14T13:38:41Z', 'labels': []}
+{'issuenumber': 485, 'title': 'ES6 iterators', 'state': 'closed', 'created_at': '2015-08-12T16:11:58Z', 'closed_at': '2018-07-16T17:58:22Z', 'labels': []}
+{'issuenumber': 480, 'title': 'JSDoc', 'state': 'closed', 'created_at': '2015-08-09T00:17:36Z', 'closed_at': '2016-07-02T17:44:34Z', 'labels': {'name': 'question'}}
+{'issuenumber': 477, 'title': 'Common configs', 'state': 'closed', 'created_at': '2015-08-05T20:29:44Z', 'closed_at': '2018-07-16T17:56:38Z', 'labels': {'name': 'question'}}
+{'issuenumber': 476, 'title': 'Outputting JavaScript from PostCSS', 'state': 'closed', 'created_at': '2015-08-05T09:26:23Z', 'closed_at': '2015-08-15T08:47:42Z', 'labels': {'name': 'question'}}
+{'issuenumber': 470, 'title': 'Autoreset plugin', 'state': 'closed', 'created_at': '2015-08-04T13:30:10Z', 'closed_at': '2015-08-28T23:07:01Z', 'labels': {'name': 'plugins'}}
+{'issuenumber': 467, 'title': 'Preparing for PostCSS 5.0', 'state': 'closed', 'created_at': '2015-08-03T19:06:40Z', 'closed_at': '2015-08-03T22:46:00Z', 'labels': []}
+{'issuenumber': 466, 'title': 'Better ES6 compiler for GitHub users', 'state': 'closed', 'created_at': '2015-08-03T00:29:18Z', 'closed_at': '2015-08-07T11:22:41Z', 'labels': {'name': 'question'}}
+{'issuenumber': 465, 'title': 'PostCSS birthday', 'state': 'closed', 'created_at': '2015-08-02T21:10:58Z', 'closed_at': '2015-09-07T14:23:18Z', 'labels': {'name': 'question'}}
+{'issuenumber': 462, 'title': 'dont remove sourcemap comments', 'state': 'closed', 'created_at': '2015-07-31T21:52:32Z', 'closed_at': '2015-08-01T17:29:58Z', 'labels': []}
+{'issuenumber': 452, 'title': 'TypeScript Source', 'state': 'closed', 'created_at': '2015-07-27T22:40:23Z', 'closed_at': '2015-07-28T00:01:54Z', 'labels': {'name': 'question'}}
+{'issuenumber': 449, 'title': 'PostCSS better highlighters', 'state': 'closed', 'created_at': '2015-07-27T15:05:47Z', 'closed_at': '2016-05-14T13:51:12Z', 'labels': {'name': 'question'}}
+{'issuenumber': 445, 'title': 'Tests fail on Windows', 'state': 'closed', 'created_at': '2015-07-24T19:53:37Z', 'closed_at': '2015-08-02T18:54:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 443, 'title': 'A Shout out for postHTML, postJS!', 'state': 'closed', 'created_at': '2015-07-23T16:09:13Z', 'closed_at': '2015-07-23T16:30:02Z', 'labels': {'name': 'question'}}
+{'issuenumber': 435, 'title': 'Clarification of some plugin guidelines', 'state': 'closed', 'created_at': '2015-07-22T01:40:56Z', 'closed_at': '2015-07-22T13:56:52Z', 'labels': {'name': 'question'}}
+{'issuenumber': 434, 'title': 'PostCSS solution for shared components', 'state': 'closed', 'created_at': '2015-07-21T20:42:22Z', 'closed_at': '2016-02-13T22:11:08Z', 'labels': {'name': 'question'}}
+{'issuenumber': 423, 'title': 'A postcss component that moves animation keyframes outside of media queries', 'state': 'closed', 'created_at': '2015-07-11T07:05:09Z', 'closed_at': '2015-07-22T20:40:32Z', 'labels': {'name': 'plugins'}}
+{'issuenumber': 415, 'title': 'Plugin initializer called before use', 'state': 'closed', 'created_at': '2015-07-08T21:20:41Z', 'closed_at': '2016-05-14T13:48:31Z', 'labels': {'name': 'question'}}
+{'issuenumber': 412, 'title': "'Use process(css).then(cb) to work with async plugins'", 'state': 'closed', 'created_at': '2015-07-07T18:06:37Z', 'closed_at': '2015-07-07T19:08:53Z', 'labels': []}
+{'issuenumber': 410, 'title': 'Type module', 'state': 'closed', 'created_at': '2015-07-07T02:40:50Z', 'closed_at': '2016-03-04T12:46:38Z', 'labels': {'name': 'question'}}
+{'issuenumber': 409, 'title': 'syntax highlightning', 'state': 'closed', 'created_at': '2015-07-06T13:35:16Z', 'closed_at': '2015-07-06T13:37:00Z', 'labels': []}
+{'issuenumber': 403, 'title': 'Rename some plugins to postcss-w3c-*', 'state': 'closed', 'created_at': '2015-07-03T10:00:08Z', 'closed_at': '2015-07-09T07:24:45Z', 'labels': []}
+{'issuenumber': 402, 'title': 'Should handle processors returned from plugins', 'state': 'closed', 'created_at': '2015-07-01T08:48:08Z', 'closed_at': '2015-07-04T10:42:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 401, 'title': 'Throw a error, when plugin returned other plugin', 'state': 'closed', 'created_at': '2015-07-01T08:34:41Z', 'closed_at': '2015-07-01T09:11:14Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 399, 'title': 'How to define multiple tasks?', 'state': 'closed', 'created_at': '2015-06-30T10:06:01Z', 'closed_at': '2015-06-30T10:13:32Z', 'labels': []}
+{'issuenumber': 392, 'title': 'Anyway to reuse existing sass frameworks with postcss?', 'state': 'closed', 'created_at': '2015-06-27T22:13:17Z', 'closed_at': '2015-06-28T04:52:52Z', 'labels': []}
+{'issuenumber': 391, 'title': 'PostCSS website', 'state': 'closed', 'created_at': '2015-06-26T02:25:22Z', 'closed_at': '2016-02-06T17:36:30Z', 'labels': {'name': 'question'}}
+{'issuenumber': 390, 'title': 'Migration Cheat Sheet', 'state': 'closed', 'created_at': '2015-06-25T19:36:42Z', 'closed_at': '2015-07-18T15:07:07Z', 'labels': {'name': 'question'}}
+{'issuenumber': 387, 'title': 'Plugin to beautify CSS?', 'state': 'closed', 'created_at': '2015-06-24T12:08:11Z', 'closed_at': '2015-07-17T23:08:41Z', 'labels': {'name': 'plugins'}}
+{'issuenumber': 383, 'title': 'PostCSS should support optional charset parameter in inline sourcemaps', 'state': 'closed', 'created_at': '2015-06-23T16:18:48Z', 'closed_at': '2015-06-23T22:42:22Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 378, 'title': 'Detect/remove browser hacks based on browserslist?', 'state': 'closed', 'created_at': '2015-06-19T22:13:54Z', 'closed_at': '2015-07-06T11:28:14Z', 'labels': {'name': 'plugins'}}
+{'issuenumber': 376, 'title': 'conic-gradient polyfill', 'state': 'closed', 'created_at': '2015-06-18T19:54:05Z', 'closed_at': '2015-06-23T14:35:34Z', 'labels': {'name': 'plugins'}}
+{'issuenumber': 371, 'title': 'Normalize.css and Autoprefixer', 'state': 'closed', 'created_at': '2015-06-16T10:07:33Z', 'closed_at': '2015-06-18T19:52:35Z', 'labels': []}
+{'issuenumber': 365, 'title': 'Fix or warn on flexbox errors', 'state': 'closed', 'created_at': '2015-06-09T23:43:46Z', 'closed_at': '2015-07-18T15:02:13Z', 'labels': {'name': 'plugins'}}
+{'issuenumber': 364, 'title': 'Cloning a node does not return an exact copy', 'state': 'closed', 'created_at': '2015-06-09T19:08:06Z', 'closed_at': '2017-04-15T05:26:03Z', 'labels': []}
+{'issuenumber': 362, 'title': 'plugin for removing "//"-comments?', 'state': 'closed', 'created_at': '2015-06-07T19:38:32Z', 'closed_at': '2015-06-08T09:38:59Z', 'labels': []}
+{'issuenumber': 361, 'title': 'es6-promise dependency', 'state': 'closed', 'created_at': '2015-06-07T10:29:48Z', 'closed_at': '2015-06-07T10:32:20Z', 'labels': []}
+{'issuenumber': 358, 'title': 'plugins via package.json file?', 'state': 'closed', 'created_at': '2015-06-04T07:12:23Z', 'closed_at': '2015-06-05T17:32:02Z', 'labels': []}
+{'issuenumber': 356, 'title': 'error : (node) warning: Recursive process.nextTick detected.', 'state': 'closed', 'created_at': '2015-06-02T19:22:58Z', 'closed_at': '2015-06-02T19:25:21Z', 'labels': []}
+{'issuenumber': 355, 'title': 'Performance issues compared to Stylus', 'state': 'closed', 'created_at': '2015-06-02T04:24:53Z', 'closed_at': '2015-06-02T17:19:30Z', 'labels': []}
+{'issuenumber': 353, 'title': 'PostCSS Runner Logic Re-Use for Ember-Component-CSS Addon', 'state': 'closed', 'created_at': '2015-05-31T10:40:19Z', 'closed_at': '2015-05-31T12:11:05Z', 'labels': []}
+{'issuenumber': 350, 'title': 'Postcss and node.js', 'state': 'closed', 'created_at': '2015-05-27T08:04:39Z', 'closed_at': '2015-05-27T10:05:58Z', 'labels': []}
+{'issuenumber': 348, 'title': 'Add options for granular positioning to warn and error functions', 'state': 'closed', 'created_at': '2015-05-27T02:51:54Z', 'closed_at': '2015-08-09T00:16:36Z', 'labels': []}
+{'issuenumber': 342, 'title': 'Example in the README is not working', 'state': 'closed', 'created_at': '2015-05-23T03:51:27Z', 'closed_at': '2015-05-23T06:14:54Z', 'labels': []}
+{'issuenumber': 341, 'title': 'real world example is 3 times slower than libsass', 'state': 'closed', 'created_at': '2015-05-22T15:31:08Z', 'closed_at': '2015-07-18T15:03:38Z', 'labels': {'name': 'question'}}
+{'issuenumber': 340, 'title': 'plugin request: graceful degradation flexbox', 'state': 'closed', 'created_at': '2015-05-19T20:10:09Z', 'closed_at': '2015-10-06T13:39:26Z', 'labels': {'name': 'plugins'}}
+{'issuenumber': 339, 'title': 'decl.value should be forced as string', 'state': 'closed', 'created_at': '2015-05-19T11:51:54Z', 'closed_at': '2018-07-16T17:56:56Z', 'labels': []}
+{'issuenumber': 337, 'title': 'Plugin#process shortcut', 'state': 'closed', 'created_at': '2015-05-18T10:50:25Z', 'closed_at': '2015-07-15T13:30:12Z', 'labels': []}
+{'issuenumber': 334, 'title': 'Pixrem is not a postcss plugin', 'state': 'closed', 'created_at': '2015-05-13T10:04:30Z', 'closed_at': '2015-05-13T10:19:51Z', 'labels': []}
+{'issuenumber': 333, 'title': 'PostCSS plugins website?', 'state': 'closed', 'created_at': '2015-05-11T12:06:01Z', 'closed_at': '2015-07-18T15:04:17Z', 'labels': {'name': 'question'}}
+{'issuenumber': 329, 'title': 'Smarter rule.selectors setter join', 'state': 'closed', 'created_at': '2015-05-07T21:29:20Z', 'closed_at': '2015-07-18T14:58:42Z', 'labels': []}
+{'issuenumber': 325, 'title': 'Do not add plugins twice from plugin packs', 'state': 'closed', 'created_at': '2015-05-05T15:31:45Z', 'closed_at': '2016-03-04T00:47:35Z', 'labels': {'name': 'question'}}
+{'issuenumber': 321, 'title': 'postcss-full-extend plugin?', 'state': 'closed', 'created_at': '2015-05-02T00:23:20Z', 'closed_at': '2015-07-28T14:01:39Z', 'labels': {'name': 'plugins'}}
+{'issuenumber': 320, 'title': 'Documentation is a little misleading', 'state': 'closed', 'created_at': '2015-05-01T20:08:54Z', 'closed_at': '2015-05-02T01:26:13Z', 'labels': {'name': 'question'}}
+{'issuenumber': 319, 'title': 'Plugin Guidelines discussion', 'state': 'closed', 'created_at': '2015-05-01T12:46:31Z', 'closed_at': '2015-05-07T11:14:28Z', 'labels': {'name': 'question'}}
+{'issuenumber': 318, 'title': 'Benchmark cannot be run with fresh checkout', 'state': 'closed', 'created_at': '2015-05-01T00:15:24Z', 'closed_at': '2015-05-16T07:52:57Z', 'labels': {'name': 'question'}}
+{'issuenumber': 317, 'title': 'Slow gulp task when used with sourcemaps', 'state': 'closed', 'created_at': '2015-04-30T05:56:45Z', 'closed_at': '2015-05-16T07:34:07Z', 'labels': {'name': 'question'}}
+{'issuenumber': 316, 'title': 'Context scoping', 'state': 'closed', 'created_at': '2015-04-29T11:30:43Z', 'closed_at': '2015-05-15T09:32:35Z', 'labels': {'name': 'question'}}
+{'issuenumber': 312, 'title': 'Stop using fixed version of dependencies', 'state': 'closed', 'created_at': '2015-04-27T04:27:46Z', 'closed_at': '2015-08-03T23:11:47Z', 'labels': []}
+{'issuenumber': 311, 'title': 'Remove node.js 0.10 support and Promise polyfill', 'state': 'closed', 'created_at': '2015-04-26T18:20:53Z', 'closed_at': '2015-08-07T11:31:14Z', 'labels': []}
+{'issuenumber': 309, 'title': 'Plugin request: Automatically insert a charset when file contains non ASCII characters', 'state': 'closed', 'created_at': '2015-04-25T15:17:09Z', 'closed_at': '2015-09-14T19:59:12Z', 'labels': {'name': 'plugins'}}
+{'issuenumber': 308, 'title': 'Sass + Autoprefixer + Sourcemaps', 'state': 'closed', 'created_at': '2015-04-24T12:48:00Z', 'closed_at': '2015-04-26T17:14:26Z', 'labels': []}
+{'issuenumber': 306, 'title': "at-rules don't work with Stylus", 'state': 'closed', 'created_at': '2015-04-22T05:05:00Z', 'closed_at': '2015-04-22T10:56:55Z', 'labels': []}
+{'issuenumber': 305, 'title': 'Parse error and Promise', 'state': 'closed', 'created_at': '2015-04-20T22:09:28Z', 'closed_at': '2015-04-26T17:15:49Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 301, 'title': 'simple for loop? Examples?', 'state': 'closed', 'created_at': '2015-04-17T21:28:23Z', 'closed_at': '2015-04-23T12:11:02Z', 'labels': {'name': 'plugins'}}
+{'issuenumber': 299, 'title': 'How can I add new selectors?', 'state': 'closed', 'created_at': '2015-04-14T08:21:27Z', 'closed_at': '2015-04-14T09:12:04Z', 'labels': {'name': 'question'}}
+{'issuenumber': 298, 'title': 'Error are silently ignored', 'state': 'closed', 'created_at': '2015-04-13T23:48:07Z', 'closed_at': '2015-04-14T00:11:12Z', 'labels': []}
+{'issuenumber': 297, 'title': 'Fails to parse property values with @', 'state': 'closed', 'created_at': '2015-04-13T21:20:24Z', 'closed_at': '2015-04-13T21:33:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 296, 'title': 'Event based API', 'state': 'closed', 'created_at': '2015-04-13T20:07:00Z', 'closed_at': '2020-07-09T00:54:00Z', 'labels': {'name': 'API'}}
+{'issuenumber': 293, 'title': "I'm sure there's a better way to do this", 'state': 'closed', 'created_at': '2015-04-11T02:39:24Z', 'closed_at': '2015-04-11T07:11:19Z', 'labels': {'name': 'question'}}
+{'issuenumber': 290, 'title': 'postcss 4.1 breaks postcss-import', 'state': 'closed', 'created_at': '2015-04-10T08:11:10Z', 'closed_at': '2015-04-10T08:20:53Z', 'labels': {'name': 'question'}}
+{'issuenumber': 289, 'title': 'Add warn() method on node directly', 'state': 'closed', 'created_at': '2015-04-08T05:32:50Z', 'closed_at': '2015-08-11T15:16:08Z', 'labels': []}
+{'issuenumber': 284, 'title': 'Is there a minify option for stringify?', 'state': 'closed', 'created_at': '2015-04-05T21:19:44Z', 'closed_at': '2015-04-05T21:24:15Z', 'labels': {'name': 'question'}}
+{'issuenumber': 282, 'title': 'Errors using Sass-style modules following example in Readme', 'state': 'closed', 'created_at': '2015-04-04T17:32:25Z', 'closed_at': '2015-04-05T15:07:39Z', 'labels': []}
+{'issuenumber': 280, 'title': 'Allow PostCSS to consume a module that only consumes other processors?', 'state': 'closed', 'created_at': '2015-04-04T14:34:30Z', 'closed_at': '2015-05-01T13:49:09Z', 'labels': []}
+{'issuenumber': 277, 'title': 'Make README shorter', 'state': 'closed', 'created_at': '2015-04-03T12:23:38Z', 'closed_at': '2015-04-27T21:43:02Z', 'labels': {'name': 'question'}}
+{'issuenumber': 272, 'title': 'Please show depreciations notice once per run', 'state': 'closed', 'created_at': '2015-04-02T06:13:16Z', 'closed_at': '2015-04-02T09:07:32Z', 'labels': {'name': 'question'}}
+{'issuenumber': 269, 'title': 'Wrong order of async plugins execution', 'state': 'closed', 'created_at': '2015-03-31T09:40:26Z', 'closed_at': '2015-04-01T00:07:05Z', 'labels': []}
+{'issuenumber': 265, 'title': 'converting linked css to inline css', 'state': 'closed', 'created_at': '2015-03-26T11:15:31Z', 'closed_at': '2015-03-26T14:31:55Z', 'labels': []}
+{'issuenumber': 261, 'title': 'Runner Guidelines discussion', 'state': 'closed', 'created_at': '2015-03-25T16:17:42Z', 'closed_at': '2015-03-28T15:48:39Z', 'labels': {'name': 'question'}}
+{'issuenumber': 254, 'title': 'Use supports-color to detect colors', 'state': 'closed', 'created_at': '2015-03-22T10:08:53Z', 'closed_at': '2015-07-18T12:59:43Z', 'labels': []}
+{'issuenumber': 253, 'title': "Doesn't parse excessive whitespace around !important as an important value", 'state': 'closed', 'created_at': '2015-03-19T14:58:14Z', 'closed_at': '2015-03-30T14:00:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 252, 'title': 'Parse comments in values?', 'state': 'closed', 'created_at': '2015-03-17T13:10:55Z', 'closed_at': '2015-03-17T14:34:00Z', 'labels': []}
+{'issuenumber': 244, 'title': 'Rename raw properties', 'state': 'closed', 'created_at': '2015-03-07T19:52:43Z', 'closed_at': '2015-08-03T23:23:15Z', 'labels': []}
+{'issuenumber': 242, 'title': 'Rename CssSyntaxError#highlight', 'state': 'closed', 'created_at': '2015-03-05T18:35:39Z', 'closed_at': '2015-03-13T09:11:59Z', 'labels': []}
+{'issuenumber': 241, 'title': 'Rename error.generated', 'state': 'closed', 'created_at': '2015-03-05T14:55:01Z', 'closed_at': '2015-08-12T13:20:52Z', 'labels': []}
+{'issuenumber': 240, 'title': 'sourceRoot option', 'state': 'closed', 'created_at': '2015-03-04T23:04:09Z', 'closed_at': '2016-05-14T13:00:04Z', 'labels': []}
+{'issuenumber': 239, 'title': 'Parsing error does not indicate the right line', 'state': 'closed', 'created_at': '2015-03-04T11:02:49Z', 'closed_at': '2015-03-28T15:47:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 237, 'title': 'Compare PostCSS with other Frontend tool', 'state': 'closed', 'created_at': '2015-03-03T18:09:24Z', 'closed_at': '2015-03-03T19:02:22Z', 'labels': {'name': 'question'}}
+{'issuenumber': 235, 'title': 'API to parse selectors', 'state': 'closed', 'created_at': '2015-03-01T23:45:22Z', 'closed_at': '2016-03-04T12:46:44Z', 'labels': []}
+{'issuenumber': 234, 'title': 'Resetting `rule.semicolon` and `rule.after` sometimes breaks source map', 'state': 'closed', 'created_at': '2015-03-01T21:20:22Z', 'closed_at': '2015-03-28T16:46:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 233, 'title': 'Read previous sourcemaps', 'state': 'closed', 'created_at': '2015-02-26T21:30:26Z', 'closed_at': '2015-02-26T21:46:14Z', 'labels': []}
+{'issuenumber': 232, 'title': 'postcss-messages plugin', 'state': 'closed', 'created_at': '2015-02-26T14:31:06Z', 'closed_at': '2015-03-29T20:15:42Z', 'labels': {'name': 'plugins'}}
+{'issuenumber': 231, 'title': 'Remove return Root support from plugin', 'state': 'closed', 'created_at': '2015-02-26T01:26:21Z', 'closed_at': '2015-08-03T23:27:49Z', 'labels': []}
+{'issuenumber': 229, 'title': 'Better error message on broken source map', 'state': 'closed', 'created_at': '2015-02-24T14:20:56Z', 'closed_at': '2015-03-28T15:32:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 224, 'title': 'Plugin to find overrides', 'state': 'closed', 'created_at': '2015-02-21T12:55:01Z', 'closed_at': '2015-07-18T15:18:47Z', 'labels': {'name': 'plugins'}}
+{'issuenumber': 223, 'title': 'String in insert methods', 'state': 'closed', 'created_at': '2015-02-20T13:14:16Z', 'closed_at': '2015-02-23T11:01:33Z', 'labels': []}
+{'issuenumber': 222, 'title': 'Dealing with previous sourcemaps', 'state': 'closed', 'created_at': '2015-02-20T00:11:37Z', 'closed_at': '2015-02-20T10:21:42Z', 'labels': []}
+{'issuenumber': 219, 'title': 'Beginner question on custom plugin definition/usage', 'state': 'closed', 'created_at': '2015-02-19T12:22:23Z', 'closed_at': '2015-02-19T16:46:20Z', 'labels': []}
+{'issuenumber': 218, 'title': 'Globbing import and data-structure loop example?', 'state': 'closed', 'created_at': '2015-02-18T17:14:34Z', 'closed_at': '2015-02-18T18:01:30Z', 'labels': []}
+{'issuenumber': 213, 'title': 'Node 12.0 randome CSS Syntax errors', 'state': 'closed', 'created_at': '2015-02-16T15:43:18Z', 'closed_at': '2015-02-23T11:05:44Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 209, 'title': 'Consider categorizing plugin list', 'state': 'closed', 'created_at': '2015-02-15T21:56:14Z', 'closed_at': '2015-02-15T21:57:12Z', 'labels': []}
+{'issuenumber': 208, 'title': 'Plugin categories', 'state': 'closed', 'created_at': '2015-02-15T21:49:54Z', 'closed_at': '2015-02-18T09:49:56Z', 'labels': {'name': 'question'}}
+{'issuenumber': 203, 'title': 'Arguments types to API.md', 'state': 'closed', 'created_at': '2015-02-15T16:03:09Z', 'closed_at': '2015-02-23T14:15:10Z', 'labels': {'name': 'question'}}
+{'issuenumber': 199, 'title': 'Code style properties refactoring', 'state': 'closed', 'created_at': '2015-02-14T10:03:16Z', 'closed_at': '2017-04-15T05:27:05Z', 'labels': []}
+{'issuenumber': 198, 'title': 'Does node.removeSelf() can affect .before on the next sibling ?', 'state': 'closed', 'created_at': '2015-02-13T17:46:29Z', 'closed_at': '2015-02-13T17:56:29Z', 'labels': {'name': 'question'}}
+{'issuenumber': 196, 'title': 'node.removeSelf() and reattaching it is not possible', 'state': 'closed', 'created_at': '2015-02-13T06:43:40Z', 'closed_at': '2015-02-14T10:07:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 194, 'title': 'Remove Root#prevMap', 'state': 'closed', 'created_at': '2015-02-12T05:41:50Z', 'closed_at': '2015-08-03T23:22:06Z', 'labels': []}
+{'issuenumber': 193, 'title': 'Insert methods should return new node', 'state': 'closed', 'created_at': '2015-02-11T17:00:55Z', 'closed_at': '2017-04-14T04:12:37Z', 'labels': []}
+{'issuenumber': 192, 'title': 'PostCSS API cleaning', 'state': 'closed', 'created_at': '2015-02-11T12:05:26Z', 'closed_at': '2015-08-16T08:59:25Z', 'labels': {'name': 'question'}}
+{'issuenumber': 191, 'title': 'Node#remove', 'state': 'closed', 'created_at': '2015-02-11T12:03:20Z', 'closed_at': '2015-08-10T17:55:26Z', 'labels': []}
+{'issuenumber': 190, 'title': 'postcss-transform-shortcut plugin', 'state': 'closed', 'created_at': '2015-02-11T08:25:47Z', 'closed_at': '2015-07-18T11:04:27Z', 'labels': {'name': 'plugins'}}
+{'issuenumber': 189, 'title': 'Insert before shortcut', 'state': 'closed', 'created_at': '2015-02-11T06:48:01Z', 'closed_at': '2017-04-14T04:11:53Z', 'labels': []}
+{'issuenumber': 188, 'title': 'Remove replaceWith or replace', 'state': 'closed', 'created_at': '2015-02-11T06:40:09Z', 'closed_at': '2015-08-10T16:17:41Z', 'labels': []}
+{'issuenumber': 187, 'title': 'Do not clone nodes in insert methods', 'state': 'closed', 'created_at': '2015-02-10T18:22:45Z', 'closed_at': '2017-04-15T05:15:36Z', 'labels': []}
+{'issuenumber': 186, 'title': 'Rename PostCSS class to Processor', 'state': 'closed', 'created_at': '2015-02-10T18:05:36Z', 'closed_at': '2015-02-23T10:38:28Z', 'labels': []}
+{'issuenumber': 185, 'title': 'Parse property with several tokens', 'state': 'closed', 'created_at': '2015-02-10T17:51:43Z', 'closed_at': '2015-09-12T10:47:28Z', 'labels': []}
+{'issuenumber': 184, 'title': 'postcss seems not to handle * hack', 'state': 'closed', 'created_at': '2015-02-10T16:33:25Z', 'closed_at': '2015-02-14T10:05:06Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 183, 'title': 'Rename postcss.atRule to postcss.atrule', 'state': 'closed', 'created_at': '2015-02-10T13:48:59Z', 'closed_at': '2015-08-09T11:34:17Z', 'labels': []}
+{'issuenumber': 182, 'title': 'postcss.list', 'state': 'closed', 'created_at': '2015-02-10T13:48:02Z', 'closed_at': '2015-02-23T10:48:22Z', 'labels': []}
+{'issuenumber': 181, 'title': 'New plugin API', 'state': 'closed', 'created_at': '2015-02-10T09:00:13Z', 'closed_at': '2015-02-23T14:36:48Z', 'labels': []}
+{'issuenumber': 179, 'title': 'Typo in repo description', 'state': 'closed', 'created_at': '2015-02-09T16:09:56Z', 'closed_at': '2015-02-09T16:22:31Z', 'labels': []}
+{'issuenumber': 178, 'title': 'API for functions', 'state': 'closed', 'created_at': '2015-02-06T06:31:50Z', 'closed_at': '2016-03-04T12:46:48Z', 'labels': []}
+{'issuenumber': 177, 'title': 'new API for plugin errors/warnings', 'state': 'closed', 'created_at': '2015-02-05T20:01:03Z', 'closed_at': '2015-03-06T12:55:12Z', 'labels': []}
+{'issuenumber': 176, 'title': 'Plugin Boilerplate', 'state': 'closed', 'created_at': '2015-02-05T06:02:10Z', 'closed_at': '2015-02-10T07:37:13Z', 'labels': {'name': 'question'}}
+{'issuenumber': 175, 'title': 'postcss-default-unit plugin', 'state': 'closed', 'created_at': '2015-02-04T04:12:38Z', 'closed_at': '2015-04-03T21:32:27Z', 'labels': {'name': 'plugins'}}
+{'issuenumber': 174, 'title': 'postcss-size plugin', 'state': 'closed', 'created_at': '2015-02-04T04:11:38Z', 'closed_at': '2015-02-05T05:37:30Z', 'labels': {'name': 'plugins'}}
+{'issuenumber': 173, 'title': 'postcss-black-white plugin', 'state': 'closed', 'created_at': '2015-02-04T02:24:05Z', 'closed_at': '2015-03-31T21:50:38Z', 'labels': {'name': 'plugins'}}
+{'issuenumber': 172, 'title': 'Bad error on double ::', 'state': 'closed', 'created_at': '2015-02-04T01:01:51Z', 'closed_at': '2015-02-23T13:21:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 171, 'title': 'insertBefore/insertAfter should be copyBefore/copyAfter', 'state': 'closed', 'created_at': '2015-01-26T06:38:44Z', 'closed_at': '2015-02-10T18:23:09Z', 'labels': {'name': 'question'}}
+{'issuenumber': 169, 'title': "TypeError: Cannot read property 'parent' of undefined", 'state': 'closed', 'created_at': '2015-01-23T18:51:38Z', 'closed_at': '2015-01-26T14:03:49Z', 'labels': []}
+{'issuenumber': 168, 'title': 'CSS Sprites plugin', 'state': 'closed', 'created_at': '2015-01-12T16:44:10Z', 'closed_at': '2015-01-13T08:24:59Z', 'labels': []}
+{'issuenumber': 165, 'title': 'White space normalization in v4.0.0', 'state': 'closed', 'created_at': '2015-01-10T07:46:34Z', 'closed_at': '2015-01-10T13:06:19Z', 'labels': {'name': 'question'}}
+{'issuenumber': 164, 'title': " Cannot read property '_autoprefixerDisabled' of undefined", 'state': 'closed', 'created_at': '2015-01-08T02:32:34Z', 'closed_at': '2015-01-08T12:40:52Z', 'labels': []}
+{'issuenumber': 163, 'title': 'Verify plugin version', 'state': 'closed', 'created_at': '2015-01-06T21:30:30Z', 'closed_at': '2015-02-23T15:45:48Z', 'labels': []}
+{'issuenumber': 162, 'title': 'Mixin plugins', 'state': 'closed', 'created_at': '2015-01-06T11:37:20Z', 'closed_at': '2015-02-01T08:15:57Z', 'labels': {'name': 'plugins'}}
+{'issuenumber': 161, 'title': 'CSS parser error for values containing double braces', 'state': 'closed', 'created_at': '2015-01-06T04:17:41Z', 'closed_at': '2015-01-06T11:13:51Z', 'labels': []}
+{'issuenumber': 157, 'title': 'Container#each', 'state': 'closed', 'created_at': '2014-12-28T08:04:54Z', 'closed_at': '2014-12-28T18:35:34Z', 'labels': []}
+{'issuenumber': 154, 'title': 'CLI API?', 'state': 'closed', 'created_at': '2014-12-16T07:33:12Z', 'closed_at': '2015-03-12T10:33:05Z', 'labels': []}
+{'issuenumber': 153, 'title': 'Uncaught <css input>:20200:1: Unclosed block', 'state': 'closed', 'created_at': '2014-12-15T19:21:09Z', 'closed_at': '2014-12-16T09:12:16Z', 'labels': []}
+{'issuenumber': 151, 'title': 'Children of @rules are parsed in the eachRules function', 'state': 'closed', 'created_at': '2014-12-09T12:09:38Z', 'closed_at': '2014-12-09T18:09:00Z', 'labels': {'name': 'question'}}
+{'issuenumber': 149, 'title': 'Plugins ecosytem, tasks runners', 'state': 'closed', 'created_at': '2014-12-05T14:10:35Z', 'closed_at': '2015-05-01T12:46:50Z', 'labels': {'name': 'question'}}
+{'issuenumber': 148, 'title': 'Safe mode do not parse decl', 'state': 'closed', 'created_at': '2014-12-04T18:55:14Z', 'closed_at': '2014-12-07T20:58:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 147, 'title': 'Better SVG logo', 'state': 'closed', 'created_at': '2014-12-04T18:54:22Z', 'closed_at': '2014-12-26T19:55:39Z', 'labels': {'name': 'question'}}
+{'issuenumber': 146, 'title': 'More consistance error stringify', 'state': 'closed', 'created_at': '2014-11-27T14:05:32Z', 'closed_at': '2014-12-28T19:31:23Z', 'labels': []}
+{'issuenumber': 144, 'title': 'Source-map: Extra source in sources array', 'state': 'closed', 'created_at': '2014-11-25T19:23:36Z', 'closed_at': '2014-11-26T11:14:47Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 142, 'title': 'Exceptions should have a stack trace', 'state': 'closed', 'created_at': '2014-11-25T16:04:23Z', 'closed_at': '2014-11-27T13:58:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 141, 'title': 'List processors', 'state': 'closed', 'created_at': '2014-11-25T09:33:47Z', 'closed_at': '2015-02-23T13:22:28Z', 'labels': []}
+{'issuenumber': 140, 'title': 'Custom parsers', 'state': 'closed', 'created_at': '2014-11-24T22:48:58Z', 'closed_at': '2015-08-16T20:21:50Z', 'labels': []}
+{'issuenumber': 139, 'title': 'Reference error in the parser', 'state': 'closed', 'created_at': '2014-11-21T22:42:05Z', 'closed_at': '2014-11-22T08:29:07Z', 'labels': []}
+{'issuenumber': 138, 'title': 'Slow down on 28621 lines', 'state': 'closed', 'created_at': '2014-11-20T22:28:33Z', 'closed_at': '2014-12-01T15:46:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 136, 'title': 'Last semicolon on comment', 'state': 'closed', 'created_at': '2014-11-19T01:52:27Z', 'closed_at': '2014-12-07T21:07:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 135, 'title': "TypeError: Cannot read property '1' of null at Parser", 'state': 'closed', 'created_at': '2014-11-18T10:03:26Z', 'closed_at': '2014-11-18T11:48:08Z', 'labels': []}
+{'issuenumber': 134, 'title': 'Parser failures', 'state': 'closed', 'created_at': '2014-11-15T10:31:51Z', 'closed_at': '2014-11-27T20:39:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 133, 'title': 'Rename `.childs` to `.children `', 'state': 'closed', 'created_at': '2014-11-14T15:25:46Z', 'closed_at': '2014-12-26T19:59:16Z', 'labels': {'name': 'question'}}
+{'issuenumber': 132, 'title': 'Can’t parse empty comment', 'state': 'closed', 'created_at': '2014-11-14T12:42:10Z', 'closed_at': '2014-11-14T13:27:14Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 131, 'title': 'Semicolon  and comments questions', 'state': 'closed', 'created_at': '2014-11-14T06:31:22Z', 'closed_at': '2014-11-14T12:41:22Z', 'labels': {'name': 'question'}}
+{'issuenumber': 128, 'title': '"Property rules wad deprecated and will be removed in 3.1. Use childs instead."', 'state': 'closed', 'created_at': '2014-11-12T13:52:43Z', 'closed_at': '2014-11-12T14:50:20Z', 'labels': []}
+{'issuenumber': 124, 'title': 'Postcss v3 comments like in `scss`', 'state': 'closed', 'created_at': '2014-11-02T20:38:08Z', 'closed_at': '2014-12-26T19:56:12Z', 'labels': {'name': 'question'}}
+{'issuenumber': 123, 'title': 'Better API for plugins', 'state': 'closed', 'created_at': '2014-11-01T17:11:14Z', 'closed_at': '2014-12-28T18:22:51Z', 'labels': []}
+{'issuenumber': 121, 'title': 'map-generator.js: proto$0.setSourcesContent attempts to access properties of undefined node.source', 'state': 'closed', 'created_at': '2014-10-29T19:53:07Z', 'closed_at': '2014-10-31T10:27:22Z', 'labels': []}
+{'issuenumber': 120, 'title': 'Use Chai.js instead of Should.js', 'state': 'closed', 'created_at': '2014-10-29T12:01:33Z', 'closed_at': '2014-12-22T20:56:57Z', 'labels': {'name': 'question'}}
+{'issuenumber': 117, 'title': 'When taking a previous sourcemap and the from has a directory, the directory is duplicated twice', 'state': 'closed', 'created_at': '2014-10-26T11:03:34Z', 'closed_at': '2014-11-05T17:05:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 116, 'title': 'SourcesContent by default', 'state': 'closed', 'created_at': '2014-10-25T21:20:10Z', 'closed_at': '2014-11-05T16:53:09Z', 'labels': []}
+{'issuenumber': 114, 'title': 'Async processors', 'state': 'closed', 'created_at': '2014-10-23T13:20:39Z', 'closed_at': '2015-02-26T12:43:46Z', 'labels': []}
+{'issuenumber': 113, 'title': '[Question] How can I create process methods inherited from postcss with es6 classes', 'state': 'closed', 'created_at': '2014-10-22T18:26:08Z', 'closed_at': '2014-10-22T18:27:23Z', 'labels': []}
+{'issuenumber': 111, 'title': 'PostCSS vs LESS.', 'state': 'closed', 'created_at': '2014-10-05T10:35:49Z', 'closed_at': '2014-10-05T14:19:36Z', 'labels': {'name': 'question'}}
+{'issuenumber': 108, 'title': 'API docs', 'state': 'closed', 'created_at': '2014-10-02T22:18:55Z', 'closed_at': '2015-02-14T09:59:28Z', 'labels': {'name': 'question'}}
+{'issuenumber': 107, 'title': 'PostCSS now able to get into the picture width and height of it?', 'state': 'closed', 'created_at': '2014-09-30T08:56:38Z', 'closed_at': '2014-09-30T09:30:50Z', 'labels': []}
+{'issuenumber': 106, 'title': 'double sourceMappingURL in output', 'state': 'closed', 'created_at': '2014-09-29T13:02:48Z', 'closed_at': '2014-09-29T14:27:24Z', 'labels': []}
+{'issuenumber': 105, 'title': "Can't parse correctly `@import` without white spaces", 'state': 'closed', 'created_at': '2014-09-29T10:09:08Z', 'closed_at': '2014-09-29T18:16:50Z', 'labels': []}
+{'issuenumber': 104, 'title': 'Using bootstrap unminified css for benchmarks', 'state': 'closed', 'created_at': '2014-09-28T23:01:32Z', 'closed_at': '2014-09-29T15:13:00Z', 'labels': []}
+{'issuenumber': 103, 'title': 'How to more easily access units and value?', 'state': 'closed', 'created_at': '2014-09-27T16:29:41Z', 'closed_at': '2014-11-01T17:14:45Z', 'labels': {'name': 'question'}}
+{'issuenumber': 102, 'title': 'justify-content: space-around should fallback to -webkit-box-pack: justify', 'state': 'closed', 'created_at': '2014-09-26T07:57:58Z', 'closed_at': '2014-09-26T10:54:15Z', 'labels': []}
+{'issuenumber': 100, 'title': 'How to delete a specific property?', 'state': 'closed', 'created_at': '2014-09-24T16:57:29Z', 'closed_at': '2014-11-01T17:14:20Z', 'labels': {'name': 'question'}}
+{'issuenumber': 99, 'title': "'Unexpected token' when previous source map is UTF-8 encoded.", 'state': 'closed', 'created_at': '2014-09-24T15:30:21Z', 'closed_at': '2014-09-24T20:07:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 98, 'title': "Shouldn't postcss call `.toJSON` on returned source maps ?", 'state': 'closed', 'created_at': '2014-09-23T01:49:58Z', 'closed_at': '2014-10-24T22:16:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 97, 'title': 'when no to option is specified the destination file specified in the output sourcemap is overwritten', 'state': 'closed', 'created_at': '2014-09-21T14:27:44Z', 'closed_at': '2014-09-24T12:41:55Z', 'labels': []}
+{'issuenumber': 96, 'title': 'when using a previous sourcemap, intermiedary source is included', 'state': 'closed', 'created_at': '2014-09-21T14:24:25Z', 'closed_at': '2014-09-24T12:41:28Z', 'labels': []}
+{'issuenumber': 95, 'title': 'Syntax like Sass', 'state': 'closed', 'created_at': '2014-09-21T14:18:58Z', 'closed_at': '2015-02-01T08:15:33Z', 'labels': {'name': 'plugins'}}
+{'issuenumber': 94, 'title': 'Show syntax error source by previous source map', 'state': 'closed', 'created_at': '2014-09-21T12:15:30Z', 'closed_at': '2014-10-25T23:14:38Z', 'labels': []}
+{'issuenumber': 93, 'title': 'Decls without ;', 'state': 'closed', 'created_at': '2014-09-21T12:11:26Z', 'closed_at': '2014-10-24T23:18:11Z', 'labels': []}
+{'issuenumber': 92, 'title': 'grunt plugin for postcss', 'state': 'closed', 'created_at': '2014-09-19T08:24:16Z', 'closed_at': '2014-09-19T08:33:55Z', 'labels': {'name': 'question'}}
+{'issuenumber': 89, 'title': 'Parser and Tokenizer', 'state': 'closed', 'created_at': '2014-09-15T10:16:29Z', 'closed_at': '2014-11-05T17:13:06Z', 'labels': {'name': 'question'}}
+{'issuenumber': 88, 'title': '`root.prepend()` throw an error if `root` is empty', 'state': 'closed', 'created_at': '2014-09-01T17:29:10Z', 'closed_at': '2014-09-01T17:41:59Z', 'labels': []}
+{'issuenumber': 86, 'title': 'Question about new `use()` via object', 'state': 'closed', 'created_at': '2014-08-27T22:34:37Z', 'closed_at': '2014-08-27T23:13:27Z', 'labels': []}
+{'issuenumber': 85, 'title': "Decl.clone doesn't clone between property", 'state': 'closed', 'created_at': '2014-08-27T09:39:57Z', 'closed_at': '2014-08-27T15:21:48Z', 'labels': []}
+{'issuenumber': 84, 'title': '`!important` and white spaces in front of it', 'state': 'closed', 'created_at': '2014-08-24T12:39:01Z', 'closed_at': '2014-09-22T00:42:12Z', 'labels': {'name': 'question'}}
+{'issuenumber': 83, 'title': 'Add postcss options as a second argument for plugins', 'state': 'closed', 'created_at': '2014-08-22T05:03:40Z', 'closed_at': '2014-08-22T10:44:35Z', 'labels': []}
+{'issuenumber': 82, 'title': '2.1.1 breaks lines between rules', 'state': 'closed', 'created_at': '2014-08-20T19:32:30Z', 'closed_at': '2014-11-05T13:06:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 81, 'title': 'Add url() helper to @import at-rule and css properties that supports it', 'state': 'closed', 'created_at': '2014-08-20T06:48:50Z', 'closed_at': '2014-08-22T10:44:03Z', 'labels': []}
+{'issuenumber': 80, 'title': 'cache parsing the AST', 'state': 'closed', 'created_at': '2014-08-19T23:18:46Z', 'closed_at': '2014-08-22T10:44:11Z', 'labels': []}
+{'issuenumber': 79, 'title': 'Unable to minify a declaration value', 'state': 'closed', 'created_at': '2014-08-19T06:51:22Z', 'closed_at': '2014-08-19T09:49:10Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 77, 'title': 'gulp-postcss', 'state': 'closed', 'created_at': '2014-08-17T11:01:09Z', 'closed_at': '2014-08-18T09:46:24Z', 'labels': []}
+{'issuenumber': 76, 'title': 'Add one source mapping for each selector in a rule', 'state': 'closed', 'created_at': '2014-08-16T17:51:10Z', 'closed_at': '2014-12-07T21:10:16Z', 'labels': []}
+{'issuenumber': 75, 'title': 'Allow to parse at-rule inside declarations', 'state': 'closed', 'created_at': '2014-08-14T09:27:17Z', 'closed_at': '2014-09-22T00:32:03Z', 'labels': []}
+{'issuenumber': 74, 'title': 'Change .use() signature to pass postcss itself as a parameter', 'state': 'closed', 'created_at': '2014-08-13T21:07:25Z', 'closed_at': '2014-10-24T11:59:32Z', 'labels': []}
+{'issuenumber': 73, 'title': 'GNU style error messages', 'state': 'closed', 'created_at': '2014-08-08T11:30:43Z', 'closed_at': '2014-08-12T11:29:11Z', 'labels': []}
+{'issuenumber': 72, 'title': 'rule.replace(newRule)', 'state': 'closed', 'created_at': '2014-08-07T22:54:28Z', 'closed_at': '2014-08-11T11:41:23Z', 'labels': []}
+{'issuenumber': 71, 'title': 'File shortcuts', 'state': 'closed', 'created_at': '2014-08-07T21:43:11Z', 'closed_at': '2014-08-08T09:35:25Z', 'labels': {'name': 'question'}}
+{'issuenumber': 70, 'title': 'Correct detect Container#before', 'state': 'closed', 'created_at': '2014-08-06T09:45:08Z', 'closed_at': '2014-11-05T13:06:06Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 67, 'title': 'Question: what is the expected result for the functions append() and prepend()?', 'state': 'closed', 'created_at': '2014-08-04T22:06:17Z', 'closed_at': '2014-08-05T21:30:16Z', 'labels': []}
+{'issuenumber': 65, 'title': "I've create an postcss org", 'state': 'closed', 'created_at': '2014-07-29T05:57:33Z', 'closed_at': '2014-08-19T21:36:11Z', 'labels': {'name': 'question'}}
+{'issuenumber': 64, 'title': 'Rework vs Postcss speed bench', 'state': 'closed', 'created_at': '2014-07-29T05:38:10Z', 'closed_at': '2014-10-04T09:44:41Z', 'labels': []}
+{'issuenumber': 63, 'title': 'Incorrect (?) behavior of sourcemap through .toResult()', 'state': 'closed', 'created_at': '2014-07-28T08:34:57Z', 'closed_at': '2014-07-28T12:42:09Z', 'labels': {'name': 'question'}}
+{'issuenumber': 62, 'title': 'require.extensions is deprecated', 'state': 'closed', 'created_at': '2014-07-25T14:00:00Z', 'closed_at': '2014-07-25T21:53:20Z', 'labels': []}
+{'issuenumber': 61, 'title': 'Uglify PostCSS ES6', 'state': 'closed', 'created_at': '2014-07-25T10:30:44Z', 'closed_at': '2014-07-25T12:44:55Z', 'labels': []}
+{'issuenumber': 60, 'title': 'root is not defined', 'state': 'closed', 'created_at': '2014-07-24T12:44:37Z', 'closed_at': '2014-07-24T19:06:51Z', 'labels': []}
+{'issuenumber': 59, 'title': 'pretty print errors', 'state': 'closed', 'created_at': '2014-07-23T21:03:07Z', 'closed_at': '2014-07-26T16:26:11Z', 'labels': []}
+{'issuenumber': 58, 'title': 'Object.defineProperty called on non-object', 'state': 'closed', 'created_at': '2014-07-23T10:06:24Z', 'closed_at': '2014-07-24T12:09:29Z', 'labels': []}
+{'issuenumber': 57, 'title': '$traceurRuntime is not defined', 'state': 'closed', 'created_at': '2014-07-09T12:54:27Z', 'closed_at': '2014-07-15T09:18:32Z', 'labels': []}
+{'issuenumber': 56, 'title': 'Wrong formatting', 'state': 'closed', 'created_at': '2014-06-24T12:52:46Z', 'closed_at': '2014-06-25T05:44:17Z', 'labels': []}
+{'issuenumber': 52, 'title': "Cannot depend on postcss' git repo", 'state': 'closed', 'created_at': '2014-06-18T06:54:24Z', 'closed_at': '2014-06-18T07:33:26Z', 'labels': []}
+{'issuenumber': 51, 'title': "Can't figure out how to work with multiple inputs and source maps", 'state': 'closed', 'created_at': '2014-06-17T07:16:20Z', 'closed_at': '2014-06-17T07:25:58Z', 'labels': []}
+{'issuenumber': 49, 'title': 'Improve source maps API', 'state': 'closed', 'created_at': '2014-06-01T10:30:04Z', 'closed_at': '2014-06-16T06:17:17Z', 'labels': []}
+{'issuenumber': 48, 'title': 'Allow to pass AST to process() and parse()', 'state': 'closed', 'created_at': '2014-05-28T20:42:27Z', 'closed_at': '2014-05-30T05:37:34Z', 'labels': []}
+{'issuenumber': 47, 'title': 'Problem parsing minified css file', 'state': 'closed', 'created_at': '2014-05-22T23:39:08Z', 'closed_at': '2014-05-30T05:44:45Z', 'labels': []}
+{'issuenumber': 46, 'title': 'Errors on byte order mark ASCII code 65279', 'state': 'closed', 'created_at': '2014-05-14T17:25:04Z', 'closed_at': '2014-05-14T18:38:59Z', 'labels': []}
+{'issuenumber': 45, 'title': 'Improve custom @-rule parsing', 'state': 'closed', 'created_at': '2014-04-11T02:07:10Z', 'closed_at': '2014-04-12T08:16:23Z', 'labels': []}
+{'issuenumber': 44, 'title': 'Why there is no comment.after?', 'state': 'closed', 'created_at': '2014-04-04T11:17:14Z', 'closed_at': '2014-05-30T05:45:08Z', 'labels': []}
+{'issuenumber': 43, 'title': 'Should not add empty files to sources[] array.', 'state': 'closed', 'created_at': '2014-04-01T23:34:24Z', 'closed_at': '2014-06-22T04:57:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 42, 'title': 'Incorrect (?) behavior when input starts with AtRule', 'state': 'closed', 'created_at': '2014-03-22T21:53:30Z', 'closed_at': '2014-03-27T08:11:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 41, 'title': 'Autodetect at-rule content type', 'state': 'closed', 'created_at': '2014-03-17T10:14:50Z', 'closed_at': '2014-08-17T14:35:16Z', 'labels': []}
+{'issuenumber': 40, 'title': 'mincer integration - unclear sourcemap content', 'state': 'closed', 'created_at': '2014-03-16T09:55:35Z', 'closed_at': '2014-03-22T06:20:15Z', 'labels': []}
+{'issuenumber': 38, 'title': 'Missed + operator in example of eachInclude', 'state': 'closed', 'created_at': '2014-03-14T12:27:03Z', 'closed_at': '2014-03-15T07:51:24Z', 'labels': []}
+{'issuenumber': 37, 'title': 'preserve whitespace between selectors', 'state': 'closed', 'created_at': '2014-03-12T04:26:25Z', 'closed_at': '2014-03-12T07:15:26Z', 'labels': []}
+{'issuenumber': 35, 'title': 'Parser error when input starts with AtRule', 'state': 'closed', 'created_at': '2014-03-02T23:28:06Z', 'closed_at': '2014-03-03T17:30:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 33, 'title': 'Character indexes as well as line/column numbers?', 'state': 'closed', 'created_at': '2014-02-27T00:27:14Z', 'closed_at': '2014-02-27T13:37:35Z', 'labels': []}
+{'issuenumber': 32, 'title': 'Empty "before" value when input file is UTF-8 encoded.', 'state': 'closed', 'created_at': '2014-02-26T22:26:24Z', 'closed_at': '2014-05-30T05:47:22Z', 'labels': []}
+{'issuenumber': 31, 'title': 'Inline source text along with map?', 'state': 'closed', 'created_at': '2014-02-25T22:28:36Z', 'closed_at': '2014-06-15T16:09:22Z', 'labels': []}
+{'issuenumber': 30, 'title': 'Support URI encoded inline source maps', 'state': 'closed', 'created_at': '2014-02-19T05:53:10Z', 'closed_at': '2014-02-19T10:46:49Z', 'labels': []}
+{'issuenumber': 27, 'title': 'Apply maps from several input files', 'state': 'closed', 'created_at': '2014-02-12T23:07:07Z', 'closed_at': '2014-06-15T16:08:35Z', 'labels': []}
+{'issuenumber': 25, 'title': 'Replace \\ to / on Windows', 'state': 'closed', 'created_at': '2014-01-26T08:04:17Z', 'closed_at': '2014-02-12T21:30:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 24, 'title': 'Computed values through cascading', 'state': 'closed', 'created_at': '2014-01-12T19:28:46Z', 'closed_at': '2014-05-30T05:47:36Z', 'labels': []}
+{'issuenumber': 23, 'title': 'Shorthand value expansion', 'state': 'closed', 'created_at': '2014-01-12T19:12:33Z', 'closed_at': '2014-05-30T05:46:10Z', 'labels': {'name': 'question'}}
+{'issuenumber': 22, 'title': 'Inline source map to annotation comment', 'state': 'closed', 'created_at': '2014-01-10T02:17:42Z', 'closed_at': '2014-02-03T00:57:15Z', 'labels': []}
+{'issuenumber': 21, 'title': 'Don’t add map annotation if previous map and no map annotation in CSS', 'state': 'closed', 'created_at': '2014-01-07T16:31:03Z', 'closed_at': '2014-01-10T21:38:43Z', 'labels': []}
+{'issuenumber': 20, 'title': 'Better representation of multiple selectors in AST', 'state': 'closed', 'created_at': '2014-01-04T01:06:26Z', 'closed_at': '2014-01-04T19:59:00Z', 'labels': []}
+{'issuenumber': 19, 'title': '`selector` is missing from the data', 'state': 'closed', 'created_at': '2014-01-04T01:04:47Z', 'closed_at': '2014-06-22T04:25:36Z', 'labels': {'name': 'question'}}
+{'issuenumber': 18, 'title': 'Read/write source map file to annotation comment with Data URI encoding', 'state': 'closed', 'created_at': '2014-01-01T12:58:43Z', 'closed_at': '2014-02-03T00:58:02Z', 'labels': []}
+{'issuenumber': 17, 'title': 'Read input source map from annotation comment', 'state': 'closed', 'created_at': '2014-01-01T12:57:30Z', 'closed_at': '2014-02-10T21:52:10Z', 'labels': []}
+{'issuenumber': 15, 'title': 'Add source map generation to integration tests', 'state': 'closed', 'created_at': '2013-12-26T02:17:27Z', 'closed_at': '2014-01-10T13:16:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 14, 'title': 'Rule#between and AtRule#between', 'state': 'closed', 'created_at': '2013-12-23T14:43:30Z', 'closed_at': '2013-12-26T01:14:01Z', 'labels': []}
+{'issuenumber': 13, 'title': "PostCSS doesn't update SourceMaps properly when an input file is in a subdirectory", 'state': 'closed', 'created_at': '2013-12-23T13:48:38Z', 'closed_at': '2014-02-13T13:54:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 12, 'title': 'Process several files', 'state': 'closed', 'created_at': '2013-12-21T13:11:28Z', 'closed_at': '2014-02-11T00:14:41Z', 'labels': []}
+{'issuenumber': 11, 'title': 'Comment node', 'state': 'closed', 'created_at': '2013-12-20T03:35:22Z', 'closed_at': '2013-12-23T01:03:32Z', 'labels': []}

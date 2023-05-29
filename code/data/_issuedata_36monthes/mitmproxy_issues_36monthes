@@ -1,0 +1,166 @@
+{'issuenumber': 267, 'title': "AttributeError: DummyReply instance has no attribute 'q'", 'state': 'closed', 'created_at': '2014-04-25T02:01:54Z', 'closed_at': '2014-05-15T12:16:12Z', 'labels': {'name': 'kind/bug'}}
+{'issuenumber': 266, 'title': 'Add dedicated log message if we suspect cert pinning.', 'state': 'closed', 'created_at': '2014-04-18T20:49:52Z', 'closed_at': '2014-05-25T14:36:52Z', 'labels': []}
+{'issuenumber': 265, 'title': 'https bug', 'state': 'closed', 'created_at': '2014-04-18T17:04:37Z', 'closed_at': '2014-04-25T09:43:31Z', 'labels': []}
+{'issuenumber': 264, 'title': 'Unable to connect with https', 'state': 'closed', 'created_at': '2014-04-17T19:40:43Z', 'closed_at': '2014-04-18T13:55:19Z', 'labels': []}
+{'issuenumber': 263, 'title': '400: SSL Handshake error', 'state': 'closed', 'created_at': '2014-04-17T13:38:24Z', 'closed_at': '2014-04-18T20:51:31Z', 'labels': []}
+{'issuenumber': 262, 'title': 'I get empty responses on some HTTPS urls', 'state': 'closed', 'created_at': '2014-04-14T23:21:41Z', 'closed_at': '2014-05-12T15:49:35Z', 'labels': []}
+{'issuenumber': 261, 'title': 'Installed mitmproxy OSX but cannot locate .mitproxy directory', 'state': 'closed', 'created_at': '2014-04-03T18:55:11Z', 'closed_at': '2014-04-12T19:06:42Z', 'labels': []}
+{'issuenumber': 260, 'title': 'Searching for an empty string crashes mitmproxy', 'state': 'closed', 'created_at': '2014-04-03T17:18:26Z', 'closed_at': '2014-04-07T12:40:40Z', 'labels': {'name': 'kind/bug'}}
+{'issuenumber': 258, 'title': 'Improve docs for proxy modes', 'state': 'closed', 'created_at': '2014-03-31T21:55:11Z', 'closed_at': '2014-10-23T00:04:59Z', 'labels': {'name': 'kind/docs'}}
+{'issuenumber': 257, 'title': 'mitmproxy not able to receive connections from Android on OS X', 'state': 'closed', 'created_at': '2014-03-31T21:36:35Z', 'closed_at': '2014-03-31T22:00:23Z', 'labels': []}
+{'issuenumber': 256, 'title': 'upstream proxy does not work for https requests', 'state': 'closed', 'created_at': '2014-03-31T15:56:47Z', 'closed_at': '2014-04-01T07:07:31Z', 'labels': []}
+{'issuenumber': 255, 'title': 'Improve docs for transparent proxying', 'state': 'closed', 'created_at': '2014-03-31T11:04:49Z', 'closed_at': '2014-09-08T16:35:54Z', 'labels': {'name': 'kind/docs'}}
+{'issuenumber': 254, 'title': 'Incorrect flag in docs', 'state': 'closed', 'created_at': '2014-03-30T22:40:08Z', 'closed_at': '2014-03-31T08:43:23Z', 'labels': []}
+{'issuenumber': 253, 'title': 'Update examples scripts to reflect refactoring changes', 'state': 'closed', 'created_at': '2014-03-28T15:28:17Z', 'closed_at': '2014-05-15T12:37:11Z', 'labels': {'name': 'kind/bug'}}
+{'issuenumber': 251, 'title': 'OCSP websites do not work with cert-forwarding', 'state': 'closed', 'created_at': '2014-03-25T14:55:21Z', 'closed_at': '2014-08-03T01:20:45Z', 'labels': {'name': 'kind/bug'}}
+{'issuenumber': 250, 'title': 'mitmproxy not working with https ', 'state': 'closed', 'created_at': '2014-03-21T10:55:25Z', 'closed_at': '2014-05-25T14:16:28Z', 'labels': []}
+{'issuenumber': 249, 'title': "'module' object has no attribute 'OP_NO_TICKET'", 'state': 'closed', 'created_at': '2014-03-20T12:53:19Z', 'closed_at': '2014-03-20T19:28:43Z', 'labels': []}
+{'issuenumber': 248, 'title': '`requests` dependency is missing in setup.py', 'state': 'closed', 'created_at': '2014-03-19T14:46:55Z', 'closed_at': '2014-03-19T16:25:39Z', 'labels': {'name': 'kind/bug'}}
+{'issuenumber': 247, 'title': 'Running latest mitmproxy - No module named config', 'state': 'closed', 'created_at': '2014-03-19T12:46:32Z', 'closed_at': '2014-03-20T09:00:52Z', 'labels': []}
+{'issuenumber': 246, 'title': 'Retrying failed upstream proxy request through different proxy', 'state': 'closed', 'created_at': '2014-03-18T21:00:41Z', 'closed_at': '2014-03-28T00:27:01Z', 'labels': []}
+{'issuenumber': 245, 'title': 'Attempting proxy rotation - ProxyServer reuses connection', 'state': 'closed', 'created_at': '2014-03-18T20:28:34Z', 'closed_at': '2014-03-28T00:26:55Z', 'labels': []}
+{'issuenumber': 244, 'title': '(Question) Saving entire packets / Reading saved flows', 'state': 'closed', 'created_at': '2014-03-18T17:27:42Z', 'closed_at': '2014-03-21T12:57:43Z', 'labels': []}
+{'issuenumber': 243, 'title': 'Forward to proxy that requires authorization.', 'state': 'closed', 'created_at': '2014-03-18T15:54:30Z', 'closed_at': '2014-03-18T18:38:16Z', 'labels': []}
+{'issuenumber': 242, 'title': 'Error in handle_sni', 'state': 'closed', 'created_at': '2014-03-18T15:40:04Z', 'closed_at': '2014-05-28T16:13:15Z', 'labels': []}
+{'issuenumber': 241, 'title': 'Long URLs prevent "going back" to flow list', 'state': 'closed', 'created_at': '2014-03-18T09:10:14Z', 'closed_at': '2015-04-07T13:45:32Z', 'labels': {'name': 'kind/bug'}}
+{'issuenumber': 240, 'title': 'Link to pathod outdated', 'state': 'closed', 'created_at': '2014-03-17T22:07:07Z', 'closed_at': '2014-03-17T23:44:41Z', 'labels': []}
+{'issuenumber': 237, 'title': 'is there any command to clear history', 'state': 'closed', 'created_at': '2014-03-12T08:28:06Z', 'closed_at': '2014-03-14T02:36:25Z', 'labels': []}
+{'issuenumber': 236, 'title': 'Cannot force use of TLS1.1/1.0', 'state': 'closed', 'created_at': '2014-03-11T20:39:16Z', 'closed_at': '2014-03-12T16:03:46Z', 'labels': []}
+{'issuenumber': 235, 'title': 'Cipher suite selection - "no shared cipher" error', 'state': 'closed', 'created_at': '2014-03-11T11:34:55Z', 'closed_at': '2014-03-11T20:41:21Z', 'labels': []}
+{'issuenumber': 229, 'title': 'No Google Play', 'state': 'closed', 'created_at': '2014-03-03T11:50:41Z', 'closed_at': '2014-03-12T00:35:17Z', 'labels': []}
+{'issuenumber': 228, 'title': '"Error connecting to user@domain.tld" with HTTP Basic Auth', 'state': 'closed', 'created_at': '2014-03-03T00:00:08Z', 'closed_at': '2016-07-23T19:42:53Z', 'labels': {'name': 'kind/bug'}}
+{'issuenumber': 227, 'title': "AttributeError: 'module' object has no attribute 'Address'", 'state': 'closed', 'created_at': '2014-02-27T20:38:47Z', 'closed_at': '2014-02-27T20:54:07Z', 'labels': []}
+{'issuenumber': 226, 'title': "AttributeError: HandleSNI instance has no attribute '__name__'", 'state': 'closed', 'created_at': '2014-02-26T12:07:51Z', 'closed_at': '2014-02-26T20:06:54Z', 'labels': {'name': 'kind/bug'}}
+{'issuenumber': 225, 'title': 'Issue with website - bug tracker not listed', 'state': 'closed', 'created_at': '2014-02-24T00:29:17Z', 'closed_at': '2014-02-25T22:19:33Z', 'labels': []}
+{'issuenumber': 224, 'title': 'Unable to proxy requests to Siri server with iOS7', 'state': 'closed', 'created_at': '2014-02-24T00:25:58Z', 'closed_at': '2014-03-28T00:27:14Z', 'labels': []}
+{'issuenumber': 222, 'title': 'Mitmproxy does not intercept HTTPS requests', 'state': 'closed', 'created_at': '2014-02-21T15:03:46Z', 'closed_at': '2014-03-08T14:17:47Z', 'labels': []}
+{'issuenumber': 221, 'title': 'Mitmproxy does not intercept HTTPS requests', 'state': 'closed', 'created_at': '2014-02-21T13:18:39Z', 'closed_at': '2014-02-21T14:57:08Z', 'labels': []}
+{'issuenumber': 220, 'title': 'pip install /path/to/mitmproxy failed', 'state': 'closed', 'created_at': '2014-02-20T08:46:43Z', 'closed_at': '2014-02-20T12:14:26Z', 'labels': []}
+{'issuenumber': 219, 'title': 'mitmproxy: Error starting proxy server: Address already in use', 'state': 'closed', 'created_at': '2014-02-19T08:42:59Z', 'closed_at': '2014-02-19T12:26:41Z', 'labels': []}
+{'issuenumber': 218, 'title': 'crash mitmproxy', 'state': 'closed', 'created_at': '2014-02-18T07:06:27Z', 'closed_at': '2014-02-18T12:26:14Z', 'labels': []}
+{'issuenumber': 217, 'title': 'can I save decoded request/response body?', 'state': 'closed', 'created_at': '2014-02-18T03:40:57Z', 'closed_at': '2014-02-18T09:41:29Z', 'labels': []}
+{'issuenumber': 216, 'title': 'Only rely on SNI instead of upstream cert sniffing', 'state': 'closed', 'created_at': '2014-02-18T00:04:54Z', 'closed_at': '2014-02-18T10:01:22Z', 'labels': []}
+{'issuenumber': 215, 'title': 'Check for mentions of flow.Response, ...', 'state': 'closed', 'created_at': '2014-02-17T18:03:26Z', 'closed_at': '2014-03-10T16:03:54Z', 'labels': {'name': 'kind/bug'}}
+{'issuenumber': 214, 'title': 'chunked-encoding in reverse proxy mode', 'state': 'closed', 'created_at': '2014-02-13T03:01:32Z', 'closed_at': '2014-02-20T12:14:44Z', 'labels': []}
+{'issuenumber': 213, 'title': 'SSL Handshake Error', 'state': 'closed', 'created_at': '2014-02-12T00:20:00Z', 'closed_at': '2014-02-14T16:38:53Z', 'labels': []}
+{'issuenumber': 212, 'title': 'issue 109 requires reopening', 'state': 'closed', 'created_at': '2014-02-11T02:24:07Z', 'closed_at': '2014-02-11T02:32:31Z', 'labels': []}
+{'issuenumber': 210, 'title': "mitmdump -S... raises `AttributeError: 'NoneType' object has no attribute '_assemble'`", 'state': 'closed', 'created_at': '2014-02-07T18:44:19Z', 'closed_at': '2014-02-08T04:22:54Z', 'labels': {'name': 'kind/bug'}}
+{'issuenumber': 206, 'title': 'Changing EDITOR env variable has no effect.', 'state': 'closed', 'created_at': '2014-02-04T10:29:54Z', 'closed_at': '2014-02-18T12:45:40Z', 'labels': []}
+{'issuenumber': 205, 'title': 'No Mouse Scrolling', 'state': 'closed', 'created_at': '2014-01-24T11:03:58Z', 'closed_at': '2015-06-04T01:35:29Z', 'labels': {'name': 'kind/feature'}}
+{'issuenumber': 204, 'title': 'certificate import in android 4.4.2 emulator', 'state': 'closed', 'created_at': '2014-01-20T20:59:40Z', 'closed_at': '2014-01-21T21:08:41Z', 'labels': []}
+{'issuenumber': 203, 'title': '[Error] 400 SSL Handshake Error', 'state': 'closed', 'created_at': '2014-01-20T14:47:55Z', 'closed_at': '2014-01-29T04:03:29Z', 'labels': []}
+{'issuenumber': 202, 'title': 'libmproxy example StickyMaster not working', 'state': 'closed', 'created_at': '2014-01-18T19:54:12Z', 'closed_at': '2014-01-18T20:23:21Z', 'labels': []}
+{'issuenumber': 201, 'title': 'transparent proxy via shared wifi failed', 'state': 'closed', 'created_at': '2014-01-17T08:16:14Z', 'closed_at': '2014-02-07T23:48:08Z', 'labels': []}
+{'issuenumber': 200, 'title': "Mitmproxy can't record traffic when time set with 1 hour ago.", 'state': 'closed', 'created_at': '2014-01-06T03:34:14Z', 'closed_at': '2014-01-08T01:49:05Z', 'labels': []}
+{'issuenumber': 195, 'title': 'Script not working in git, only searches for script by first character', 'state': 'closed', 'created_at': '2014-01-03T14:26:42Z', 'closed_at': '2014-01-03T22:35:26Z', 'labels': []}
+{'issuenumber': 194, 'title': 'mitmproxy 0.9 requires netlib>=0.9 but fails with netlib 0.9.2', 'state': 'closed', 'created_at': '2014-01-01T12:59:39Z', 'closed_at': '2014-01-01T15:24:02Z', 'labels': []}
+{'issuenumber': 188, 'title': 'Support for real/original SSL keys?', 'state': 'closed', 'created_at': '2013-12-09T22:27:59Z', 'closed_at': '2013-12-11T11:19:37Z', 'labels': []}
+{'issuenumber': 187, 'title': 'Store resolved IP addresses', 'state': 'closed', 'created_at': '2013-12-08T00:01:17Z', 'closed_at': '2013-12-12T01:11:26Z', 'labels': []}
+{'issuenumber': 186, 'title': '`Transfer-Encoding: Chunked` and empty responses', 'state': 'closed', 'created_at': '2013-12-03T21:28:00Z', 'closed_at': '2013-12-12T03:42:34Z', 'labels': []}
+{'issuenumber': 185, 'title': 'mitmproxy: page down does not work on Macbook Pro', 'state': 'closed', 'created_at': '2013-12-02T00:19:59Z', 'closed_at': '2014-01-18T23:57:15Z', 'labels': []}
+{'issuenumber': 183, 'title': 'Problem when filtering by host', 'state': 'closed', 'created_at': '2013-11-26T18:42:49Z', 'closed_at': '2014-01-08T01:57:40Z', 'labels': []}
+{'issuenumber': 182, 'title': 'mitmproxy how to work with expired certificates', 'state': 'closed', 'created_at': '2013-11-26T02:02:02Z', 'closed_at': '2013-11-26T02:09:14Z', 'labels': []}
+{'issuenumber': 181, 'title': 'Move stickyauth and stickycookie into own modules', 'state': 'closed', 'created_at': '2013-11-20T11:50:14Z', 'closed_at': '2014-01-08T02:00:52Z', 'labels': []}
+{'issuenumber': 179, 'title': 'Rewriting responses of https server', 'state': 'closed', 'created_at': '2013-11-14T16:58:29Z', 'closed_at': '2013-11-19T12:51:27Z', 'labels': []}
+{'issuenumber': 178, 'title': 'inline script when running mitmproxy in transparent mode', 'state': 'closed', 'created_at': '2013-11-13T21:38:26Z', 'closed_at': '2013-11-13T22:55:06Z', 'labels': []}
+{'issuenumber': 177, 'title': 'libmproxy set transparent_proxy', 'state': 'closed', 'created_at': '2013-11-07T22:20:29Z', 'closed_at': '2013-11-14T14:32:57Z', 'labels': []}
+{'issuenumber': 176, 'title': 'Add @concurrent decorator for scripts.', 'state': 'closed', 'created_at': '2013-10-31T10:05:06Z', 'closed_at': '2013-12-15T01:43:24Z', 'labels': []}
+{'issuenumber': 175, 'title': 'How to ignore one or more domain in MITMPROXY?', 'state': 'closed', 'created_at': '2013-10-30T09:49:14Z', 'closed_at': '2014-08-09T01:03:29Z', 'labels': {'name': 'kind/feature'}}
+{'issuenumber': 174, 'title': "Support for 'chained root' certificates", 'state': 'closed', 'created_at': '2013-10-28T22:09:25Z', 'closed_at': '2014-06-25T12:32:45Z', 'labels': {'name': 'kind/feature'}}
+{'issuenumber': 172, 'title': 'Bad cert issuer chain error with firefox when hitting twitter.com', 'state': 'closed', 'created_at': '2013-10-06T04:00:07Z', 'closed_at': '2013-12-10T03:46:32Z', 'labels': []}
+{'issuenumber': 171, 'title': 'Location for cert installation on Android 4.2.2 seems to be /sdcard', 'state': 'closed', 'created_at': '2013-09-29T16:40:03Z', 'closed_at': '2013-12-12T02:40:26Z', 'labels': []}
+{'issuenumber': 169, 'title': "AttributeError: 'NoneType' object has no attribute 'decode'", 'state': 'closed', 'created_at': '2013-09-17T18:33:08Z', 'closed_at': '2013-12-12T02:24:22Z', 'labels': []}
+{'issuenumber': 167, 'title': 'TypeError: __init__() takes exactly 1 argument (2 given)', 'state': 'closed', 'created_at': '2013-09-06T03:50:50Z', 'closed_at': '2013-09-06T04:06:51Z', 'labels': []}
+{'issuenumber': 165, 'title': "Server certificate doesn't match the URL", 'state': 'closed', 'created_at': '2013-08-26T14:39:01Z', 'closed_at': '2013-12-12T01:20:16Z', 'labels': []}
+{'issuenumber': 163, 'title': 'Interrupted System Call Exception', 'state': 'closed', 'created_at': '2013-08-24T22:08:23Z', 'closed_at': '2013-08-24T22:21:51Z', 'labels': []}
+{'issuenumber': 160, 'title': 'Tests: TestHTTPS test cases fail due to missing SSL cert.', 'state': 'closed', 'created_at': '2013-08-17T13:35:41Z', 'closed_at': '2013-12-09T02:27:05Z', 'labels': []}
+{'issuenumber': 158, 'title': 'SSL issue (basic auth?)', 'state': 'closed', 'created_at': '2013-08-13T18:02:51Z', 'closed_at': '2013-12-09T02:28:28Z', 'labels': []}
+{'issuenumber': 157, 'title': 'Use argparse Namespaces rather than Option classes', 'state': 'closed', 'created_at': '2013-08-13T13:57:58Z', 'closed_at': '2014-02-07T23:42:10Z', 'labels': []}
+{'issuenumber': 156, 'title': "can't import ~/.mitmproxy/mitmproxy-ca-cert.pem to firefox", 'state': 'closed', 'created_at': '2013-08-12T15:41:54Z', 'closed_at': '2013-08-13T06:16:59Z', 'labels': []}
+{'issuenumber': 155, 'title': 'support list of subject alternative names for certficate for transparent proxy support', 'state': 'closed', 'created_at': '2013-08-11T16:27:59Z', 'closed_at': '2013-08-12T12:42:25Z', 'labels': []}
+{'issuenumber': 154, 'title': "flow.FlowMaster.replay_request doesn't work as expected", 'state': 'closed', 'created_at': '2013-08-08T04:45:34Z', 'closed_at': '2015-02-07T15:40:10Z', 'labels': []}
+{'issuenumber': 153, 'title': 'Too many open files error', 'state': 'closed', 'created_at': '2013-07-26T15:42:27Z', 'closed_at': '2013-07-27T22:57:17Z', 'labels': []}
+{'issuenumber': 152, 'title': "Reverse proxy mode doesn't work with HTTPS", 'state': 'closed', 'created_at': '2013-07-21T15:18:02Z', 'closed_at': '2013-12-12T01:12:22Z', 'labels': []}
+{'issuenumber': 151, 'title': 'Connections automatically closed in transparent mode', 'state': 'closed', 'created_at': '2013-07-20T04:15:50Z', 'closed_at': '2014-01-17T03:50:22Z', 'labels': []}
+{'issuenumber': 150, 'title': 'mitmproxy is generating a cert with an invalid signature', 'state': 'closed', 'created_at': '2013-07-19T02:16:27Z', 'closed_at': '2013-07-20T23:54:09Z', 'labels': []}
+{'issuenumber': 149, 'title': "Why did i can't capture AppStore HTTPS traffic with mitmproxy?", 'state': 'closed', 'created_at': '2013-07-16T07:17:40Z', 'closed_at': '2013-07-16T08:47:26Z', 'labels': []}
+{'issuenumber': 147, 'title': 'Crashes on receiving a request (urwid encode error)', 'state': 'closed', 'created_at': '2013-07-14T18:03:48Z', 'closed_at': '2013-07-25T18:39:34Z', 'labels': []}
+{'issuenumber': 146, 'title': 'note about installing the mitmproxy CA in a java environment', 'state': 'closed', 'created_at': '2013-07-12T20:37:12Z', 'closed_at': '2014-01-27T23:55:29Z', 'labels': []}
+{'issuenumber': 145, 'title': 'tlsv1 alert unknown ca', 'state': 'closed', 'created_at': '2013-07-12T18:40:22Z', 'closed_at': '2013-12-08T00:00:10Z', 'labels': []}
+{'issuenumber': 144, 'title': "Error: [('PEM routines', 'PEM_read_bio', 'no start line'), ('SSL routines', 'SSL_CTX_use_certificate_file', 'PEM lib')]", 'state': 'closed', 'created_at': '2013-07-11T06:41:45Z', 'closed_at': '2013-12-12T01:24:43Z', 'labels': []}
+{'issuenumber': 141, 'title': 'Crash after deleting a duplicated stream', 'state': 'closed', 'created_at': '2013-07-07T19:23:24Z', 'closed_at': '2013-07-28T06:01:46Z', 'labels': []}
+{'issuenumber': 140, 'title': 'Custom resolver for remote transparent proxy', 'state': 'closed', 'created_at': '2013-07-01T17:56:15Z', 'closed_at': '2013-07-01T23:39:28Z', 'labels': []}
+{'issuenumber': 135, 'title': 'mitmdump: import console', 'state': 'closed', 'created_at': '2013-06-14T18:21:32Z', 'closed_at': '2014-01-19T00:33:48Z', 'labels': []}
+{'issuenumber': 133, 'title': '0.9 sudden failure', 'state': 'closed', 'created_at': '2013-06-08T12:28:05Z', 'closed_at': '2013-06-08T23:15:05Z', 'labels': []}
+{'issuenumber': 130, 'title': 'Third-party viewers', 'state': 'closed', 'created_at': '2013-05-22T06:04:10Z', 'closed_at': '2015-11-15T06:19:20Z', 'labels': {'name': 'kind/feature'}}
+{'issuenumber': 128, 'title': 'Content-Length header is being lowercased', 'state': 'closed', 'created_at': '2013-05-21T13:26:09Z', 'closed_at': '2013-06-08T23:16:23Z', 'labels': []}
+{'issuenumber': 127, 'title': 'https requests crash when running mitmproxy', 'state': 'closed', 'created_at': '2013-05-19T23:07:08Z', 'closed_at': '2013-05-20T02:39:33Z', 'labels': []}
+{'issuenumber': 126, 'title': 'Android Browser response crashes mitmproxy', 'state': 'closed', 'created_at': '2013-05-16T18:36:30Z', 'closed_at': '2013-07-23T21:46:13Z', 'labels': []}
+{'issuenumber': 125, 'title': 'mitmproxy should check LC_CTYPE before LANG when testing console environment', 'state': 'closed', 'created_at': '2013-05-16T04:57:24Z', 'closed_at': '2013-06-08T23:20:27Z', 'labels': []}
+{'issuenumber': 123, 'title': 'Crash with "UnicodeEncodeError: \'latin-1\' codec can\'t encode character..."', 'state': 'closed', 'created_at': '2013-05-10T01:51:06Z', 'closed_at': '2013-05-13T09:42:03Z', 'labels': []}
+{'issuenumber': 122, 'title': 'tnetstring exception while writing flow: ValueError, no encoding specified for unicode string', 'state': 'closed', 'created_at': '2013-04-25T16:59:51Z', 'closed_at': '2013-05-01T21:33:28Z', 'labels': []}
+{'issuenumber': 121, 'title': 'crash when trying to log -S error', 'state': 'closed', 'created_at': '2013-04-25T00:49:40Z', 'closed_at': '2013-05-01T21:32:41Z', 'labels': []}
+{'issuenumber': 120, 'title': 'crash when editing header of non-existent response', 'state': 'closed', 'created_at': '2013-04-24T21:46:50Z', 'closed_at': '2013-05-01T21:32:59Z', 'labels': []}
+{'issuenumber': 117, 'title': 'Crash with https sites in transparent proxy mode', 'state': 'closed', 'created_at': '2013-04-17T16:28:56Z', 'closed_at': '2013-04-17T21:21:38Z', 'labels': []}
+{'issuenumber': 115, 'title': 'EOF occurred in violation of protocol ', 'state': 'closed', 'created_at': '2013-04-16T16:22:02Z', 'closed_at': '2013-05-01T21:34:19Z', 'labels': []}
+{'issuenumber': 114, 'title': "UX: Errors in scripts don't get displayed", 'state': 'closed', 'created_at': '2013-04-08T23:53:22Z', 'closed_at': '2014-03-13T22:23:51Z', 'labels': {'name': 'kind/feature'}}
+{'issuenumber': 111, 'title': "Android doesn't like mitmproxy's generated certificates", 'state': 'closed', 'created_at': '2013-04-04T04:22:16Z', 'closed_at': '2013-05-13T09:43:57Z', 'labels': []}
+{'issuenumber': 110, 'title': 'flow.kill() master arg is required but not exposed "publicly"', 'state': 'closed', 'created_at': '2013-04-02T10:56:23Z', 'closed_at': '2015-02-07T15:38:16Z', 'labels': {'name': 'kind/feature'}}
+{'issuenumber': 109, 'title': 'Crash - raise IndexError, "no widget at position %s"', 'state': 'closed', 'created_at': '2013-04-01T22:12:41Z', 'closed_at': '2013-05-05T01:19:21Z', 'labels': []}
+{'issuenumber': 108, 'title': "Requests with NetlibError don't get recorded", 'state': 'closed', 'created_at': '2013-03-23T20:17:40Z', 'closed_at': '2016-05-20T21:01:44Z', 'labels': {'name': 'kind/feature'}}
+{'issuenumber': 105, 'title': 'TypeError when running "python setup.py install"', 'state': 'closed', 'created_at': '2013-03-10T20:00:37Z', 'closed_at': '2013-03-13T20:22:56Z', 'labels': []}
+{'issuenumber': 104, 'title': "mitmdump -r dumpfile -w cleaned [filter] doesn't work.", 'state': 'closed', 'created_at': '2013-03-03T19:50:42Z', 'closed_at': '2013-03-13T20:20:36Z', 'labels': []}
+{'issuenumber': 103, 'title': 'long hostname causes an ASN.1 "string too long" exception', 'state': 'closed', 'created_at': '2013-02-26T20:09:59Z', 'closed_at': '2013-03-02T23:28:48Z', 'labels': []}
+{'issuenumber': 102, 'title': 'iOS Rejects mitmproxy-ca-cert.pem?', 'state': 'closed', 'created_at': '2013-02-24T03:58:45Z', 'closed_at': '2013-02-24T04:49:41Z', 'labels': []}
+{'issuenumber': 97, 'title': 'Crash when receiving request in reverse proxy mode', 'state': 'closed', 'created_at': '2013-01-24T12:47:51Z', 'closed_at': '2013-05-05T01:23:53Z', 'labels': []}
+{'issuenumber': 96, 'title': 'weird issue I cant figure out', 'state': 'closed', 'created_at': '2013-01-23T22:54:19Z', 'closed_at': '2013-01-24T03:44:42Z', 'labels': []}
+{'issuenumber': 95, 'title': 'Just not working', 'state': 'closed', 'created_at': '2013-01-23T05:57:20Z', 'closed_at': '2013-01-23T22:51:05Z', 'labels': []}
+{'issuenumber': 90, 'title': 'Dictionary comprehensions are not supported in Python <2.7', 'state': 'closed', 'created_at': '2013-01-04T22:30:30Z', 'closed_at': '2013-01-04T23:15:33Z', 'labels': []}
+{'issuenumber': 89, 'title': 'Pretty-printing is not work?', 'state': 'closed', 'created_at': '2013-01-04T08:56:41Z', 'closed_at': '2013-01-04T09:08:19Z', 'labels': []}
+{'issuenumber': 88, 'title': '[Enhancement] stream response to client', 'state': 'closed', 'created_at': '2013-01-01T20:58:32Z', 'closed_at': '2014-07-31T20:12:26Z', 'labels': {'name': 'kind/feature'}}
+{'issuenumber': 87, 'title': 'Not working on OS X 10.8 - Symbol not found: _PyInt_Check', 'state': 'closed', 'created_at': '2013-01-01T18:25:36Z', 'closed_at': '2013-01-09T08:39:46Z', 'labels': []}
+{'issuenumber': 86, 'title': 'domain_match not found in python 2.7 cookielib, sticky cookie not working', 'state': 'closed', 'created_at': '2013-01-01T14:46:07Z', 'closed_at': '2013-03-02T23:29:51Z', 'labels': []}
+{'issuenumber': 84, 'title': 'Crash when saving edited flow', 'state': 'closed', 'created_at': '2012-12-31T07:22:10Z', 'closed_at': '2013-03-02T23:30:47Z', 'labels': []}
+{'issuenumber': 79, 'title': 'Crash when the PAGER is `less -R`', 'state': 'closed', 'created_at': '2012-12-17T22:21:09Z', 'closed_at': '2012-12-30T08:43:58Z', 'labels': []}
+{'issuenumber': 77, 'title': 'Host name in URL not shown for https requests', 'state': 'closed', 'created_at': '2012-12-12T21:02:56Z', 'closed_at': '2013-03-17T04:38:58Z', 'labels': []}
+{'issuenumber': 76, 'title': 'Multiple scripts and script arguments.', 'state': 'closed', 'created_at': '2012-12-11T12:05:59Z', 'closed_at': '2013-12-12T01:22:14Z', 'labels': []}
+{'issuenumber': 73, 'title': 'crash when editing the response to an intercepted request', 'state': 'closed', 'created_at': '2012-12-04T13:36:54Z', 'closed_at': '2012-12-30T09:06:45Z', 'labels': []}
+{'issuenumber': 72, 'title': 'Full-width bars are less than full-width under tmux/screen', 'state': 'closed', 'created_at': '2012-12-04T02:49:55Z', 'closed_at': '2014-02-07T23:38:07Z', 'labels': []}
+{'issuenumber': 71, 'title': 'AttributeError when trying to launch an editor with the "v" shortcut', 'state': 'closed', 'created_at': '2012-12-04T02:39:32Z', 'closed_at': '2013-01-02T00:08:00Z', 'labels': []}
+{'issuenumber': 70, 'title': 'Python 2.6 and argparse', 'state': 'closed', 'created_at': '2012-11-29T18:45:51Z', 'closed_at': '2012-11-29T19:18:27Z', 'labels': []}
+{'issuenumber': 68, 'title': "fatal error: 'libxml/xmlversion.h' file not found", 'state': 'closed', 'created_at': '2012-11-21T15:32:17Z', 'closed_at': '2013-01-02T00:08:55Z', 'labels': []}
+{'issuenumber': 67, 'title': 'Preview HTML using lynx', 'state': 'closed', 'created_at': '2012-11-08T20:09:11Z', 'closed_at': '2013-06-08T23:27:05Z', 'labels': []}
+{'issuenumber': 66, 'title': 'Crash on openSUSE 12.1', 'state': 'closed', 'created_at': '2012-10-27T06:11:40Z', 'closed_at': '2012-10-28T20:33:37Z', 'labels': []}
+{'issuenumber': 65, 'title': 'Replacement of entire file', 'state': 'closed', 'created_at': '2012-10-11T07:38:41Z', 'closed_at': '2013-03-02T23:35:55Z', 'labels': []}
+{'issuenumber': 64, 'title': 'HTTP CONNECT method (for ssl) not supported?', 'state': 'closed', 'created_at': '2012-10-10T00:18:02Z', 'closed_at': '2012-12-30T19:22:34Z', 'labels': []}
+{'issuenumber': 63, 'title': 'Editing dumped file then client-replay', 'state': 'closed', 'created_at': '2012-09-18T23:12:31Z', 'closed_at': '2012-09-21T01:55:36Z', 'labels': []}
+{'issuenumber': 58, 'title': 'Replace optparse with argparse', 'state': 'closed', 'created_at': '2012-08-14T14:12:36Z', 'closed_at': '2012-08-18T06:32:31Z', 'labels': []}
+{'issuenumber': 55, 'title': 'decoded decorator leads to content encoding failures.', 'state': 'closed', 'created_at': '2012-07-24T12:33:22Z', 'closed_at': '2014-02-08T20:38:13Z', 'labels': []}
+{'issuenumber': 50, 'title': 'support for upstream proxies', 'state': 'closed', 'created_at': '2012-07-09T03:28:26Z', 'closed_at': '2014-02-07T23:35:23Z', 'labels': []}
+{'issuenumber': 49, 'title': 'mitmproxy-0.8.tar.gz gzipped twice', 'state': 'closed', 'created_at': '2012-07-03T21:04:43Z', 'closed_at': '2013-05-16T21:19:36Z', 'labels': []}
+{'issuenumber': 47, 'title': 'exception throw on request', 'state': 'closed', 'created_at': '2012-06-30T03:31:49Z', 'closed_at': '2012-06-30T04:00:10Z', 'labels': []}
+{'issuenumber': 45, 'title': 'multipart post not supported?', 'state': 'closed', 'created_at': '2012-06-20T07:36:44Z', 'closed_at': '2012-06-20T08:00:52Z', 'labels': []}
+{'issuenumber': 44, 'title': 'Stick window focus to bottom when new requests are intercepted', 'state': 'closed', 'created_at': '2012-06-08T19:02:24Z', 'closed_at': '2012-08-03T01:06:39Z', 'labels': []}
+{'issuenumber': 40, 'title': 'Colors not suited for white terminal background', 'state': 'closed', 'created_at': '2012-05-11T12:23:16Z', 'closed_at': '2012-07-01T21:05:37Z', 'labels': []}
+{'issuenumber': 39, 'title': 'Problem with upstream-cert', 'state': 'closed', 'created_at': '2012-04-11T15:01:26Z', 'closed_at': '2012-04-12T17:18:44Z', 'labels': []}
+{'issuenumber': 38, 'title': 'requires PIL', 'state': 'closed', 'created_at': '2012-04-03T15:14:34Z', 'closed_at': '2012-04-03T21:58:30Z', 'labels': []}
+{'issuenumber': 37, 'title': 'Installing on Mac OS X 10.7.3', 'state': 'closed', 'created_at': '2012-03-19T22:22:04Z', 'closed_at': '2012-03-19T22:26:46Z', 'labels': []}
+{'issuenumber': 31, 'title': 'no dummy wildcard SSL certs', 'state': 'closed', 'created_at': '2012-02-24T19:06:45Z', 'closed_at': '2012-02-27T06:42:37Z', 'labels': []}
+{'issuenumber': 30, 'title': 'AssertionError in m.run() (looks to be urwid related)', 'state': 'closed', 'created_at': '2012-02-16T18:58:20Z', 'closed_at': '2012-02-17T07:27:14Z', 'labels': []}
+{'issuenumber': 28, 'title': 'Add to homebrew?', 'state': 'closed', 'created_at': '2012-02-15T14:35:30Z', 'closed_at': '2012-02-28T00:21:36Z', 'labels': []}
+{'issuenumber': 27, 'title': 'Allow JUNK HTTP method', 'state': 'closed', 'created_at': '2012-02-08T20:20:10Z', 'closed_at': '2012-02-08T20:39:21Z', 'labels': []}
+{'issuenumber': 26, 'title': 'Cannot “save request/response body” to file', 'state': 'closed', 'created_at': '2012-02-08T15:52:58Z', 'closed_at': '2012-02-08T19:16:03Z', 'labels': []}
+{'issuenumber': 25, 'title': 'Requires urwid', 'state': 'closed', 'created_at': '2012-02-08T14:14:18Z', 'closed_at': '2012-02-08T20:41:06Z', 'labels': []}
+{'issuenumber': 24, 'title': 'mitmproxy crashes when client connects', 'state': 'closed', 'created_at': '2012-02-08T11:17:22Z', 'closed_at': '2012-02-09T20:39:28Z', 'labels': []}
+{'issuenumber': 23, 'title': "AttributeError: 'NoneType' object has no attribute 'acked'", 'state': 'closed', 'created_at': '2012-02-08T09:58:01Z', 'closed_at': '2012-02-08T10:23:28Z', 'labels': []}
+{'issuenumber': 20, 'title': 'editing gzipped data', 'state': 'closed', 'created_at': '2011-12-08T22:54:21Z', 'closed_at': '2012-01-21T01:30:41Z', 'labels': []}
+{'issuenumber': 19, 'title': 'Service unavailable errors', 'state': 'closed', 'created_at': '2011-12-01T10:58:44Z', 'closed_at': '2012-01-21T01:31:30Z', 'labels': []}
+{'issuenumber': 18, 'title': 'Mac OSX install problems', 'state': 'closed', 'created_at': '2011-11-21T14:46:41Z', 'closed_at': '2012-01-21T01:32:54Z', 'labels': []}
+{'issuenumber': 17, 'title': 'Production', 'state': 'closed', 'created_at': '2011-11-09T10:07:04Z', 'closed_at': '2011-11-11T02:42:02Z', 'labels': []}
+{'issuenumber': 16, 'title': 'Add option to skip processing some responses', 'state': 'closed', 'created_at': '2011-10-09T17:15:29Z', 'closed_at': '2014-08-09T01:16:07Z', 'labels': {'name': 'kind/feature'}}
+{'issuenumber': 13, 'title': 'Problem to proxify a request on a large file', 'state': 'closed', 'created_at': '2011-08-17T13:08:09Z', 'closed_at': '2012-10-10T09:49:48Z', 'labels': []}
+{'issuenumber': 10, 'title': 'Crash upon viewing JSON response', 'state': 'closed', 'created_at': '2011-07-19T16:16:43Z', 'closed_at': '2011-07-19T21:13:36Z', 'labels': []}
+{'issuenumber': 6, 'title': 'transparent proxy redirect to https', 'state': 'closed', 'created_at': '2011-07-13T03:13:14Z', 'closed_at': '2011-07-13T04:27:51Z', 'labels': []}
+{'issuenumber': 5, 'title': 'mitmproxy alters headers in transit', 'state': 'closed', 'created_at': '2011-07-12T21:05:10Z', 'closed_at': '2011-07-14T04:05:27Z', 'labels': []}
+{'issuenumber': 3, 'title': 'proxy alters http requests to https also mangles https', 'state': 'closed', 'created_at': '2011-06-28T15:05:44Z', 'closed_at': '2011-06-28T20:08:07Z', 'labels': []}
+{'issuenumber': 1, 'title': 'mitmproxy ios certificate', 'state': 'closed', 'created_at': '2011-05-21T11:25:35Z', 'closed_at': '2011-07-22T06:57:35Z', 'labels': []}

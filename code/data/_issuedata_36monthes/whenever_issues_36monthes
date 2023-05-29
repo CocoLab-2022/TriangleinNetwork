@@ -1,0 +1,165 @@
+{'issuenumber': 218, 'title': "is it a good to trust all .rvmrc files? or trust Capstrano's rvmrc only?", 'state': 'closed', 'created_at': '2012-03-12T20:10:57Z', 'closed_at': '2012-03-12T22:59:48Z', 'labels': []}
+{'issuenumber': 216, 'title': 'please do not use login shell in cron', 'state': 'closed', 'created_at': '2012-02-28T23:26:10Z', 'closed_at': '2012-02-29T04:12:49Z', 'labels': []}
+{'issuenumber': 214, 'title': 'update-crontab not firing with Capistrano 2.11', 'state': 'closed', 'created_at': '2012-02-23T16:19:59Z', 'closed_at': '2012-02-23T16:25:44Z', 'labels': []}
+{'issuenumber': 212, 'title': 'Setting crontab for another user', 'state': 'closed', 'created_at': '2012-01-31T19:37:52Z', 'closed_at': '2012-01-31T21:07:34Z', 'labels': []}
+{'issuenumber': 210, 'title': 'Connection problems fetching whenever through git protocol', 'state': 'closed', 'created_at': '2012-01-15T13:19:27Z', 'closed_at': '2012-01-15T15:06:28Z', 'labels': []}
+{'issuenumber': 209, 'title': 'when defining a new job type, whenever drops output options', 'state': 'closed', 'created_at': '2012-01-12T11:53:44Z', 'closed_at': '2012-01-12T13:21:18Z', 'labels': []}
+{'issuenumber': 207, 'title': 'bash path', 'state': 'closed', 'created_at': '2012-01-05T13:12:02Z', 'closed_at': '2012-01-05T14:30:20Z', 'labels': []}
+{'issuenumber': 206, 'title': 'not using bundle exec for script/rails', 'state': 'closed', 'created_at': '2011-12-29T08:07:06Z', 'closed_at': '2011-12-29T09:36:25Z', 'labels': []}
+{'issuenumber': 205, 'title': 'Had to override :runner job_type to work on Ubuntu ', 'state': 'closed', 'created_at': '2011-12-28T22:27:06Z', 'closed_at': '2012-01-04T14:07:20Z', 'labels': []}
+{'issuenumber': 203, 'title': "Don't use current_path fot the whenever:clear_crontab rake task", 'state': 'closed', 'created_at': '2011-12-22T22:17:50Z', 'closed_at': '2011-12-23T04:35:23Z', 'labels': []}
+{'issuenumber': 201, 'title': "whenever doesn't understand @reboot cron syntax", 'state': 'closed', 'created_at': '2011-12-21T21:58:34Z', 'closed_at': '2011-12-22T22:16:47Z', 'labels': []}
+{'issuenumber': 198, 'title': 'Capistrano and whenever_environment problem', 'state': 'closed', 'created_at': '2011-12-16T14:29:32Z', 'closed_at': '2011-12-19T07:59:37Z', 'labels': []}
+{'issuenumber': 197, 'title': 'Update process_votes to use mongoid push or something similar', 'state': 'closed', 'created_at': '2011-12-05T01:01:07Z', 'closed_at': '2011-12-05T02:06:11Z', 'labels': []}
+{'issuenumber': 194, 'title': 'offset time for jobs (feature request)', 'state': 'closed', 'created_at': '2011-11-14T20:31:47Z', 'closed_at': '2011-12-19T13:28:18Z', 'labels': []}
+{'issuenumber': 193, 'title': 'Rails 3.1 rails runner  instead of script/rails', 'state': 'closed', 'created_at': '2011-11-02T03:06:05Z', 'closed_at': '2011-11-02T04:22:12Z', 'labels': []}
+{'issuenumber': 192, 'title': 'Whenever bundler issue?', 'state': 'closed', 'created_at': '2011-10-29T04:45:43Z', 'closed_at': '2011-10-29T05:32:12Z', 'labels': []}
+{'issuenumber': 190, 'title': "Ubuntu 11.04 rails3 runner don't works ", 'state': 'closed', 'created_at': '2011-10-25T09:42:38Z', 'closed_at': '2011-10-26T02:09:07Z', 'labels': []}
+{'issuenumber': 189, 'title': "Ubuntu rails 3 doesn't work", 'state': 'closed', 'created_at': '2011-10-21T22:35:35Z', 'closed_at': '2011-10-25T18:47:50Z', 'labels': []}
+{'issuenumber': 187, 'title': 'Support for writing multiple schedule.rb to the crontab', 'state': 'closed', 'created_at': '2011-10-06T01:48:00Z', 'closed_at': '2011-10-06T01:49:14Z', 'labels': []}
+{'issuenumber': 186, 'title': 'grandchild failed with exit status 127(when 2 jobs run together)', 'state': 'closed', 'created_at': '2011-10-05T13:53:56Z', 'closed_at': '2011-12-20T03:41:36Z', 'labels': []}
+{'issuenumber': 185, 'title': "Cron job isn't running under RVM", 'state': 'closed', 'created_at': '2011-10-04T02:56:52Z', 'closed_at': '2011-10-04T18:04:59Z', 'labels': []}
+{'issuenumber': 183, 'title': "command doesn't get written out to crontab", 'state': 'closed', 'created_at': '2011-09-23T14:56:30Z', 'closed_at': '2011-09-23T15:09:49Z', 'labels': []}
+{'issuenumber': 182, 'title': "Capistrano clear_crontab fails because release_path doesn't exist.", 'state': 'closed', 'created_at': '2011-09-22T21:35:47Z', 'closed_at': '2011-12-19T13:30:48Z', 'labels': []}
+{'issuenumber': 181, 'title': 'wheneverize: command not found', 'state': 'closed', 'created_at': '2011-09-17T09:57:12Z', 'closed_at': '2011-09-17T14:52:54Z', 'labels': []}
+{'issuenumber': 179, 'title': 'Creating cron jobs based upon the environment', 'state': 'closed', 'created_at': '2011-09-13T18:52:46Z', 'closed_at': '2011-09-13T19:17:17Z', 'labels': []}
+{'issuenumber': 177, 'title': 'weird quoting', 'state': 'closed', 'created_at': '2011-09-12T16:55:07Z', 'closed_at': '2011-09-12T18:07:06Z', 'labels': []}
+{'issuenumber': 176, 'title': 'Could not find chronic-0.6.4 in any of the sources', 'state': 'closed', 'created_at': '2011-09-09T20:22:24Z', 'closed_at': '2011-09-10T21:33:20Z', 'labels': []}
+{'issuenumber': 175, 'title': 'Rake tasks starts twice for >0.4.2 and rails 2.3.14', 'state': 'closed', 'created_at': '2011-09-05T12:25:54Z', 'closed_at': '2011-09-06T16:06:47Z', 'labels': []}
+{'issuenumber': 174, 'title': 'error while executing runner task', 'state': 'closed', 'created_at': '2011-08-27T07:42:36Z', 'closed_at': '2011-08-27T08:38:00Z', 'labels': []}
+{'issuenumber': 164, 'title': 'Grandchild #xxxx failed with exit status 127', 'state': 'closed', 'created_at': '2011-08-21T15:30:02Z', 'closed_at': '2011-09-11T02:52:20Z', 'labels': []}
+{'issuenumber': 162, 'title': 'How do you detect the current Rails environment?', 'state': 'closed', 'created_at': '2011-08-16T20:44:33Z', 'closed_at': '2011-08-17T04:26:59Z', 'labels': []}
+{'issuenumber': 160, 'title': 'Required dependency: i18n', 'state': 'closed', 'created_at': '2011-07-31T10:35:04Z', 'closed_at': '2011-07-31T19:00:07Z', 'labels': []}
+{'issuenumber': 157, 'title': 'Whenever is not running on Rails 3 error', 'state': 'closed', 'created_at': '2011-07-14T08:12:12Z', 'closed_at': '2011-07-31T19:00:24Z', 'labels': []}
+{'issuenumber': 156, 'title': 'RVM disabled when running cron jobs on Ubuntu', 'state': 'closed', 'created_at': '2011-07-11T14:15:47Z', 'closed_at': '2011-07-31T19:00:57Z', 'labels': []}
+{'issuenumber': 155, 'title': 'Whenever does not run - Error in cron.log', 'state': 'closed', 'created_at': '2011-07-11T11:38:20Z', 'closed_at': '2011-07-11T14:58:17Z', 'labels': []}
+{'issuenumber': 152, 'title': "undefined method 'table_name'", 'state': 'closed', 'created_at': '2011-06-29T10:15:16Z', 'closed_at': '2011-06-29T12:56:36Z', 'labels': []}
+{'issuenumber': 151, 'title': 'Support for Non-Rails projects?', 'state': 'closed', 'created_at': '2011-06-20T19:15:10Z', 'closed_at': '2011-06-20T19:16:41Z', 'labels': []}
+{'issuenumber': 149, 'title': 'Update the crontab with the /current/ path instead of the paths under /releases/*', 'state': 'closed', 'created_at': '2011-06-12T13:06:27Z', 'closed_at': '2011-06-12T15:22:23Z', 'labels': []}
+{'issuenumber': 147, 'title': 'Chronic 1.9.2 bug appears to be fixed.  Can whenever switch to mainline gem instead of aaronh fork?', 'state': 'closed', 'created_at': '2011-06-08T01:28:00Z', 'closed_at': '2011-06-08T13:45:58Z', 'labels': []}
+{'issuenumber': 146, 'title': 'Bundle exec', 'state': 'closed', 'created_at': '2011-06-07T19:44:56Z', 'closed_at': '2011-06-07T19:49:10Z', 'labels': []}
+{'issuenumber': 144, 'title': 'Capistrano/Bundler/Vendored Whenever - "Uninitialized Constant Whenever::JobList::Rails"', 'state': 'closed', 'created_at': '2011-05-31T16:20:04Z', 'closed_at': '2011-05-31T16:34:50Z', 'labels': []}
+{'issuenumber': 136, 'title': 'different crontabs on different servers with capistrano', 'state': 'closed', 'created_at': '2011-05-20T19:35:42Z', 'closed_at': '2011-05-24T02:27:25Z', 'labels': []}
+{'issuenumber': 135, 'title': "Do not output '[message]' when STDOUT is redirected to file or prefix with '#'", 'state': 'closed', 'created_at': '2011-05-09T09:59:37Z', 'closed_at': '2011-05-25T02:15:22Z', 'labels': []}
+{'issuenumber': 134, 'title': 'Support for Lockrun', 'state': 'closed', 'created_at': '2011-05-07T15:04:25Z', 'closed_at': '2011-05-25T02:18:20Z', 'labels': []}
+{'issuenumber': 133, 'title': 'no job control in this shell', 'state': 'closed', 'created_at': '2011-04-25T23:20:37Z', 'closed_at': '2011-05-02T02:37:20Z', 'labels': []}
+{'issuenumber': 132, 'title': 'Whenever breaks with Rubygems >= 1.6.0 and Rails < 2.3.11', 'state': 'closed', 'created_at': '2011-04-21T20:21:48Z', 'closed_at': '2011-05-25T02:15:42Z', 'labels': []}
+{'issuenumber': 130, 'title': 'using comma in raw cron syntax', 'state': 'closed', 'created_at': '2011-04-13T13:35:33Z', 'closed_at': '2011-05-25T02:16:01Z', 'labels': []}
+{'issuenumber': 129, 'title': ':day bug', 'state': 'closed', 'created_at': '2011-04-06T14:11:06Z', 'closed_at': '2011-05-25T02:16:19Z', 'labels': []}
+{'issuenumber': 127, 'title': 'help text for --set option', 'state': 'closed', 'created_at': '2011-03-24T22:10:21Z', 'closed_at': '2011-05-25T02:08:28Z', 'labels': []}
+{'issuenumber': 126, 'title': '"bundle exec whenever --clear-crontab" not working properly.', 'state': 'closed', 'created_at': '2011-03-23T10:40:24Z', 'closed_at': '2011-04-10T13:11:28Z', 'labels': []}
+{'issuenumber': 125, 'title': 'Model with namespace', 'state': 'closed', 'created_at': '2011-03-22T22:03:56Z', 'closed_at': '2011-05-24T02:20:42Z', 'labels': []}
+{'issuenumber': 124, 'title': 'Run Whenever on Windows machine', 'state': 'closed', 'created_at': '2011-03-22T16:22:11Z', 'closed_at': '2011-03-22T16:24:50Z', 'labels': []}
+{'issuenumber': 122, 'title': 'No link to GitHub from Rubygems', 'state': 'closed', 'created_at': '2011-03-09T17:10:20Z', 'closed_at': '2011-03-09T21:01:52Z', 'labels': []}
+{'issuenumber': 120, 'title': "Current whenever jobtemplate doesn't work with rvm system wide install", 'state': 'closed', 'created_at': '2011-03-09T05:06:40Z', 'closed_at': '2011-03-09T13:29:56Z', 'labels': []}
+{'issuenumber': 119, 'title': 'Bogus Unclosed identifier error in 0.6.5', 'state': 'closed', 'created_at': '2011-03-08T23:05:02Z', 'closed_at': '2011-03-09T01:49:20Z', 'labels': []}
+{'issuenumber': 118, 'title': 'Default job_template triggers "bash: no job control in this shell" errors', 'state': 'closed', 'created_at': '2011-03-08T22:51:51Z', 'closed_at': '2011-03-24T02:10:41Z', 'labels': []}
+{'issuenumber': 117, 'title': 'Get runner to execute from /current directory', 'state': 'closed', 'created_at': '2011-03-03T23:50:24Z', 'closed_at': '2011-03-06T21:03:35Z', 'labels': []}
+{'issuenumber': 115, 'title': 'Outdated version of Chronic', 'state': 'closed', 'created_at': '2011-02-28T09:17:56Z', 'closed_at': '2011-04-29T21:01:07Z', 'labels': []}
+{'issuenumber': 114, 'title': 'Not escaping spaces in path leads to unsuccessful cron jobs.', 'state': 'closed', 'created_at': '2011-02-24T08:13:03Z', 'closed_at': '2011-12-20T03:02:18Z', 'labels': []}
+{'issuenumber': 113, 'title': 'RVM + Whenever: rails/commands/runner.rb error', 'state': 'closed', 'created_at': '2011-02-24T02:00:10Z', 'closed_at': '2012-08-21T20:13:28Z', 'labels': []}
+{'issuenumber': 111, 'title': 'Pass-through cron syntax', 'state': 'closed', 'created_at': '2011-02-10T20:43:49Z', 'closed_at': '2011-03-08T19:33:06Z', 'labels': []}
+{'issuenumber': 110, 'title': 'Bash runner and rake jobs hang when using rvm', 'state': 'closed', 'created_at': '2011-01-26T19:59:41Z', 'closed_at': '2011-03-08T19:32:40Z', 'labels': []}
+{'issuenumber': 109, 'title': 'Whenever with multiple applications on same server overwrites entries', 'state': 'closed', 'created_at': '2011-01-13T15:56:04Z', 'closed_at': '2011-01-14T01:56:58Z', 'labels': []}
+{'issuenumber': 108, 'title': 'Quotes are not escaped', 'state': 'closed', 'created_at': '2010-12-16T08:33:12Z', 'closed_at': '2010-12-17T10:26:40Z', 'labels': []}
+{'issuenumber': 106, 'title': "Cron commands doesn't work in Ubuntu with 0.6.2 with rails3", 'state': 'closed', 'created_at': '2010-12-01T21:00:59Z', 'closed_at': '2011-03-08T19:36:25Z', 'labels': []}
+{'issuenumber': 105, 'title': 'Error while running whenever on deployment', 'state': 'closed', 'created_at': '2010-12-01T13:31:14Z', 'closed_at': '2010-12-01T21:35:36Z', 'labels': []}
+{'issuenumber': 104, 'title': '[suggestion] capistrano multi stage support', 'state': 'closed', 'created_at': '2010-11-16T02:21:46Z', 'closed_at': '2011-03-08T19:29:38Z', 'labels': []}
+{'issuenumber': 103, 'title': 'whenever with sudo rake script', 'state': 'closed', 'created_at': '2010-11-12T09:25:19Z', 'closed_at': '2010-11-16T09:20:23Z', 'labels': {'name': 'usage-question'}}
+{'issuenumber': 102, 'title': 'No way to specify exact date', 'state': 'closed', 'created_at': '2010-11-12T01:01:06Z', 'closed_at': '2010-12-01T01:56:25Z', 'labels': []}
+{'issuenumber': 101, 'title': 'escaping % character', 'state': 'closed', 'created_at': '2010-11-11T20:31:03Z', 'closed_at': '2011-05-25T02:10:58Z', 'labels': []}
+{'issuenumber': 100, 'title': 'fix for rvm, maybe should use rvm-shell', 'state': 'closed', 'created_at': '2010-11-09T17:57:29Z', 'closed_at': '2011-03-08T16:34:49Z', 'labels': []}
+{'issuenumber': 99, 'title': '1.month with :at has a flaw', 'state': 'closed', 'created_at': '2010-11-03T00:08:56Z', 'closed_at': '2011-12-20T03:38:40Z', 'labels': []}
+{'issuenumber': 97, 'title': 'whenever 0.6.2 and cron: config/boot.rb complaint', 'state': 'closed', 'created_at': '2010-10-30T01:29:36Z', 'closed_at': '2010-11-01T23:29:04Z', 'labels': []}
+{'issuenumber': 96, 'title': 'script/rails vs rails', 'state': 'closed', 'created_at': '2010-10-27T20:41:00Z', 'closed_at': '2010-10-28T06:19:43Z', 'labels': []}
+{'issuenumber': 95, 'title': 'whenever generates unusable (by some cron implementations) cron files by stripping whitespace', 'state': 'closed', 'created_at': '2010-10-26T21:35:05Z', 'closed_at': '2011-03-08T16:34:27Z', 'labels': []}
+{'issuenumber': 93, 'title': "cron jobs don't work", 'state': 'closed', 'created_at': '2010-10-21T09:19:25Z', 'closed_at': '2010-10-21T23:17:33Z', 'labels': []}
+{'issuenumber': 92, 'title': 'README link to Output-redirection is broken.', 'state': 'closed', 'created_at': '2010-10-21T01:47:30Z', 'closed_at': '2010-10-26T14:43:34Z', 'labels': []}
+{'issuenumber': 91, 'title': 'rvm and whenever fails to find the correct gemset', 'state': 'closed', 'created_at': '2010-10-18T16:16:15Z', 'closed_at': '2010-10-22T23:30:40Z', 'labels': []}
+{'issuenumber': 90, 'title': 'whenever error handling', 'state': 'closed', 'created_at': '2010-10-11T17:32:40Z', 'closed_at': '2010-10-19T20:34:43Z', 'labels': []}
+{'issuenumber': 89, 'title': '"whenever" after bundle install --deployment ?', 'state': 'closed', 'created_at': '2010-10-09T17:11:19Z', 'closed_at': '2010-10-10T06:55:11Z', 'labels': []}
+{'issuenumber': 88, 'title': 'Whenever generates wrong cron output for RVM', 'state': 'closed', 'created_at': '2010-10-08T06:42:02Z', 'closed_at': '2010-10-22T16:30:40Z', 'labels': []}
+{'issuenumber': 87, 'title': 'i am trying to figure out how to configure a cronjob that runs between certain times of the day..', 'state': 'closed', 'created_at': '2010-10-04T06:45:50Z', 'closed_at': '2010-10-04T14:34:03Z', 'labels': []}
+{'issuenumber': 86, 'title': 'i am trying to figure out how to configure a cronjob that runs between certain times of the day..', 'state': 'closed', 'created_at': '2010-10-04T06:45:46Z', 'closed_at': '2010-10-04T21:33:51Z', 'labels': []}
+{'issuenumber': 85, 'title': 'Recommended Capistrano Configuration breaks rollbacks', 'state': 'closed', 'created_at': '2010-10-02T14:27:34Z', 'closed_at': '2010-10-22T16:30:40Z', 'labels': []}
+{'issuenumber': 83, 'title': 'crontab file updated incorrectly', 'state': 'closed', 'created_at': '2010-09-30T07:50:25Z', 'closed_at': '2010-09-30T13:21:22Z', 'labels': []}
+{'issuenumber': 82, 'title': 'Escaping quotes in a Runner task', 'state': 'closed', 'created_at': '2010-09-23T15:56:47Z', 'closed_at': '2010-09-24T17:45:14Z', 'labels': []}
+{'issuenumber': 81, 'title': 'RAILS_ROOT not accessible by whenever', 'state': 'closed', 'created_at': '2010-09-20T16:43:50Z', 'closed_at': '2010-09-25T00:45:24Z', 'labels': []}
+{'issuenumber': 78, 'title': 'Crons jobs not running', 'state': 'closed', 'created_at': '2010-09-06T18:56:30Z', 'closed_at': '2010-09-10T02:22:38Z', 'labels': []}
+{'issuenumber': 77, 'title': 'getting error when running whenever from ruby console on heroku', 'state': 'closed', 'created_at': '2010-09-01T21:50:03Z', 'closed_at': '2010-09-10T02:19:26Z', 'labels': []}
+{'issuenumber': 76, 'title': 'Ruby-1.9.2 (p0) compatibility // chronicles does not work in ruby-1.9.2 (p0)', 'state': 'closed', 'created_at': '2010-08-31T19:15:26Z', 'closed_at': '2010-09-16T09:29:26Z', 'labels': []}
+{'issuenumber': 75, 'title': 'no path or rails_root', 'state': 'closed', 'created_at': '2010-08-31T07:56:47Z', 'closed_at': '2010-09-10T02:18:52Z', 'labels': []}
+{'issuenumber': 74, 'title': "trying to install gem and get a 'requires chronic' error....what should I do?  On windows...", 'state': 'closed', 'created_at': '2010-08-24T03:38:09Z', 'closed_at': '2010-09-10T02:22:33Z', 'labels': []}
+{'issuenumber': 73, 'title': 'anybody know this :path can change', 'state': 'closed', 'created_at': '2010-08-12T04:50:50Z', 'closed_at': '2010-09-10T02:18:59Z', 'labels': []}
+{'issuenumber': 72, 'title': 'Reset variables', 'state': 'closed', 'created_at': '2010-08-06T14:24:42Z', 'closed_at': '2010-10-20T21:52:34Z', 'labels': []}
+{'issuenumber': 71, 'title': 'Remove gemcutter dependency', 'state': 'closed', 'created_at': '2010-07-22T15:48:03Z', 'closed_at': '2010-09-10T02:18:42Z', 'labels': []}
+{'issuenumber': 70, 'title': 'Switch to clear the whenever tasks?', 'state': 'closed', 'created_at': '2010-07-16T02:51:20Z', 'closed_at': '2010-07-16T21:55:08Z', 'labels': []}
+{'issuenumber': 69, 'title': 'very important issue,multi whenever will confict', 'state': 'closed', 'created_at': '2010-07-14T03:20:38Z', 'closed_at': '2010-07-14T16:14:27Z', 'labels': []}
+{'issuenumber': 68, 'title': "[error] `rescue in const_missing': uninitialized constant Whenever::CommandLine::Tempfile (NameError)", 'state': 'closed', 'created_at': '2010-07-13T05:31:49Z', 'closed_at': '2010-07-13T14:50:17Z', 'labels': []}
+{'issuenumber': 67, 'title': 'hi,need help,i want to append gem path to crontab', 'state': 'closed', 'created_at': '2010-07-11T14:26:54Z', 'closed_at': '2010-07-12T02:02:18Z', 'labels': []}
+{'issuenumber': 66, 'title': 'output option to truncate (not append) output to standard log?', 'state': 'closed', 'created_at': '2010-07-07T19:50:41Z', 'closed_at': '2010-07-08T01:12:35Z', 'labels': []}
+{'issuenumber': 65, 'title': 'User parameter', 'state': 'closed', 'created_at': '2010-07-06T09:21:37Z', 'closed_at': '2010-09-10T02:19:37Z', 'labels': []}
+{'issuenumber': 64, 'title': '0.5.0 on rails 3 and runner', 'state': 'closed', 'created_at': '2010-07-04T18:42:41Z', 'closed_at': '2010-10-22T16:30:40Z', 'labels': []}
+{'issuenumber': 63, 'title': 'New option --clear-crontab leaves comments behind', 'state': 'closed', 'created_at': '2010-07-03T10:00:11Z', 'closed_at': '2010-10-26T21:43:49Z', 'labels': []}
+{'issuenumber': 62, 'title': ":output doesn't work when using a wrapper for RVM", 'state': 'closed', 'created_at': '2010-07-03T08:32:13Z', 'closed_at': '2010-10-22T16:30:40Z', 'labels': []}
+{'issuenumber': 61, 'title': 'Whenever gem broke rails runner', 'state': 'closed', 'created_at': '2010-06-16T09:33:21Z', 'closed_at': '2010-07-08T08:42:34Z', 'labels': []}
+{'issuenumber': 60, 'title': 'Feature request: allow me to set MAILTO, etc.', 'state': 'closed', 'created_at': '2010-06-04T23:46:09Z', 'closed_at': '2010-06-05T22:24:00Z', 'labels': []}
+{'issuenumber': 59, 'title': '! in any ruby code breaks everything', 'state': 'closed', 'created_at': '2010-06-04T23:29:20Z', 'closed_at': '2010-06-07T19:40:33Z', 'labels': []}
+{'issuenumber': 58, 'title': 'whenever command produces error', 'state': 'closed', 'created_at': '2010-05-25T17:44:56Z', 'closed_at': '2010-05-26T00:56:26Z', 'labels': []}
+{'issuenumber': 57, 'title': 'Generated crontabs do not work on grsec tpe setups', 'state': 'closed', 'created_at': '2010-05-24T10:23:56Z', 'closed_at': '2010-07-01T13:23:05Z', 'labels': []}
+{'issuenumber': 56, 'title': 'whenever 0.4.2 does not work with Rails 3 (beta 3)', 'state': 'closed', 'created_at': '2010-04-29T18:07:13Z', 'closed_at': '2010-08-03T19:45:58Z', 'labels': []}
+{'issuenumber': 55, 'title': "whenever 0.4.2 command doesn't print anything", 'state': 'closed', 'created_at': '2010-04-29T08:13:59Z', 'closed_at': '2010-06-30T07:27:48Z', 'labels': []}
+{'issuenumber': 54, 'title': 'tempfile requirement should be in command_line.rb not bin/whenever', 'state': 'closed', 'created_at': '2010-04-22T23:43:13Z', 'closed_at': '2010-04-26T16:31:51Z', 'labels': []}
+{'issuenumber': 53, 'title': 'whenever and rvm (Ruby Version Manager) do not play nice together.', 'state': 'closed', 'created_at': '2010-04-21T19:41:05Z', 'closed_at': '2010-06-28T20:51:56Z', 'labels': []}
+{'issuenumber': 52, 'title': "Fails with  `parse_time': undefined method `month'", 'state': 'closed', 'created_at': '2010-04-21T12:06:23Z', 'closed_at': '2010-04-26T16:31:39Z', 'labels': []}
+{'issuenumber': 51, 'title': "Whenever doesn't work outside of a Rails app", 'state': 'closed', 'created_at': '2010-04-21T03:16:00Z', 'closed_at': '2010-06-28T20:49:53Z', 'labels': []}
+{'issuenumber': 50, 'title': 'It would be nice to add a new job_type called rails_script or smth.', 'state': 'closed', 'created_at': '2010-04-13T11:23:38Z', 'closed_at': '2010-07-08T03:00:02Z', 'labels': []}
+{'issuenumber': 49, 'title': 'Wheneverize command not found on Dreamhost', 'state': 'closed', 'created_at': '2010-03-23T07:52:45Z', 'closed_at': '2010-04-27T20:31:00Z', 'labels': []}
+{'issuenumber': 48, 'title': 'Bundler::GemfileNotFound when ran from absolute path', 'state': 'closed', 'created_at': '2010-03-19T10:29:00Z', 'closed_at': '2010-04-26T16:33:43Z', 'labels': []}
+{'issuenumber': 47, 'title': '"To user Whenever you need the active_support gem:"', 'state': 'closed', 'created_at': '2010-03-05T03:17:43Z', 'closed_at': '2010-04-26T16:32:07Z', 'labels': []}
+{'issuenumber': 46, 'title': "'whenever' (no args) output is incorrect", 'state': 'closed', 'created_at': '2010-02-25T22:31:12Z', 'closed_at': '2010-02-27T19:16:49Z', 'labels': []}
+{'issuenumber': 45, 'title': 'application name prefix confuses update-crontab', 'state': 'closed', 'created_at': '2010-02-16T04:08:23Z', 'closed_at': '2010-09-25T00:45:40Z', 'labels': []}
+{'issuenumber': 44, 'title': 'Causing Rakefile tasks to run twice', 'state': 'closed', 'created_at': '2010-02-09T11:39:50Z', 'closed_at': '2010-02-16T15:47:42Z', 'labels': []}
+{'issuenumber': 43, 'title': '[Feature Request] support custom system environment variables on cron', 'state': 'closed', 'created_at': '2010-01-22T04:16:43Z', 'closed_at': '2010-02-15T19:45:30Z', 'labels': []}
+{'issuenumber': 42, 'title': 'Use whenever with bundler', 'state': 'closed', 'created_at': '2010-01-20T13:09:37Z', 'closed_at': '2010-04-27T20:33:59Z', 'labels': []}
+{'issuenumber': 41, 'title': 'Custom path for "ruby" and "rake" commands', 'state': 'closed', 'created_at': '2010-01-19T07:59:40Z', 'closed_at': '2010-06-28T20:52:12Z', 'labels': []}
+{'issuenumber': 40, 'title': "The option :output mentioned in the documentation doesn't work", 'state': 'closed', 'created_at': '2010-01-07T09:18:35Z', 'closed_at': '2010-06-28T20:52:19Z', 'labels': []}
+{'issuenumber': 39, 'title': 'Whenever and Capistrano incompatibility', 'state': 'closed', 'created_at': '2009-12-13T15:05:53Z', 'closed_at': '2009-12-17T00:12:42Z', 'labels': []}
+{'issuenumber': 38, 'title': 'Chronic dependency depends on Hoe', 'state': 'closed', 'created_at': '2009-12-09T15:34:07Z', 'closed_at': '2010-09-16T02:06:32Z', 'labels': []}
+{'issuenumber': 37, 'title': 'should support both active_support and activesupport', 'state': 'closed', 'created_at': '2009-11-27T10:03:38Z', 'closed_at': '2009-11-30T19:57:15Z', 'labels': []}
+{'issuenumber': 36, 'title': 'Crontab unexpected character found in line', 'state': 'closed', 'created_at': '2009-11-20T17:46:25Z', 'closed_at': '2010-01-14T23:23:12Z', 'labels': []}
+{'issuenumber': 35, 'title': 'set environment=development does not work', 'state': 'closed', 'created_at': '2009-11-19T16:35:43Z', 'closed_at': '2009-11-20T17:34:02Z', 'labels': []}
+{'issuenumber': 34, 'title': 'Conditional task execution depending on environment', 'state': 'closed', 'created_at': '2009-11-07T00:04:18Z', 'closed_at': '2009-11-12T01:54:17Z', 'labels': []}
+{'issuenumber': 33, 'title': "It doesn't convert with zones", 'state': 'closed', 'created_at': '2009-10-30T12:49:31Z', 'closed_at': '2009-10-30T18:09:22Z', 'labels': []}
+{'issuenumber': 32, 'title': 'comparison of Time with 0 failed', 'state': 'closed', 'created_at': '2009-10-29T01:52:18Z', 'closed_at': '2010-04-26T16:30:45Z', 'labels': []}
+{'issuenumber': 31, 'title': 'Support output silencing / redirection', 'state': 'closed', 'created_at': '2009-10-16T13:47:20Z', 'closed_at': '2009-10-20T20:17:21Z', 'labels': []}
+{'issuenumber': 30, 'title': 'How can I load different schedule.rb files for different environments?', 'state': 'closed', 'created_at': '2009-10-13T03:17:25Z', 'closed_at': '2009-10-28T22:11:06Z', 'labels': []}
+{'issuenumber': 29, 'title': 'Please host the gem on either RubyForge or (preferably) GemCutter', 'state': 'closed', 'created_at': '2009-10-07T17:14:57Z', 'closed_at': '2009-10-07T17:46:23Z', 'labels': []}
+{'issuenumber': 28, 'title': 'Unpacked gem not working', 'state': 'closed', 'created_at': '2009-10-04T13:48:44Z', 'closed_at': '2010-04-27T20:33:49Z', 'labels': []}
+{'issuenumber': 27, 'title': 'my Task model clashes with Rake::Task', 'state': 'closed', 'created_at': '2009-09-30T16:29:03Z', 'closed_at': '2009-11-05T18:24:10Z', 'labels': []}
+{'issuenumber': 26, 'title': '[Feature] Hour range for task execution', 'state': 'closed', 'created_at': '2009-09-25T03:01:09Z', 'closed_at': '2009-09-28T15:14:32Z', 'labels': []}
+{'issuenumber': 25, 'title': 'Sending email', 'state': 'closed', 'created_at': '2009-09-01T17:38:38Z', 'closed_at': '2009-10-21T19:36:28Z', 'labels': []}
+{'issuenumber': 24, 'title': 'Multiple environments overwrites crontab to last', 'state': 'closed', 'created_at': '2009-08-28T15:55:16Z', 'closed_at': '2009-08-28T17:15:23Z', 'labels': []}
+{'issuenumber': 23, 'title': "Should be able to set 'nice' priority for jobs", 'state': 'closed', 'created_at': '2009-08-11T00:50:21Z', 'closed_at': '2010-09-16T02:06:43Z', 'labels': []}
+{'issuenumber': 22, 'title': ":at parameter doesn't work with 1.month", 'state': 'closed', 'created_at': '2009-08-04T23:22:01Z', 'closed_at': '2009-08-05T00:10:14Z', 'labels': []}
+{'issuenumber': 21, 'title': '[feature request] start point for every X.minutes/hours', 'state': 'closed', 'created_at': '2009-07-30T15:38:44Z', 'closed_at': '2010-09-10T02:22:54Z', 'labels': []}
+{'issuenumber': 20, 'title': 'Smart-grouping code dying on mixed hourly/daily tasks', 'state': 'closed', 'created_at': '2009-07-28T20:17:41Z', 'closed_at': '2009-09-09T14:24:16Z', 'labels': []}
+{'issuenumber': 19, 'title': 'Every block should execute commands as one big command by default', 'state': 'closed', 'created_at': '2009-07-14T16:33:33Z', 'closed_at': '2009-10-26T18:04:53Z', 'labels': []}
+{'issuenumber': 18, 'title': 'whenever updates crontab with no newline before EOL/EOF ', 'state': 'closed', 'created_at': '2009-07-09T00:53:37Z', 'closed_at': '2009-07-14T02:32:57Z', 'labels': []}
+{'issuenumber': 17, 'title': 'Changing environments with whenever (--set is not working)', 'state': 'closed', 'created_at': '2009-07-01T16:31:27Z', 'closed_at': '2009-07-05T13:54:20Z', 'labels': []}
+{'issuenumber': 16, 'title': 'Whenever, Rake and Model name Conflict', 'state': 'closed', 'created_at': '2009-06-28T10:56:10Z', 'closed_at': '2009-07-14T21:29:15Z', 'labels': []}
+{'issuenumber': 15, 'title': 'Continuous crontab comment addition', 'state': 'closed', 'created_at': '2009-06-25T23:53:12Z', 'closed_at': '2009-07-05T13:54:06Z', 'labels': []}
+{'issuenumber': 14, 'title': "whenever command can't find my Rails gem version", 'state': 'closed', 'created_at': '2009-06-19T18:28:43Z', 'closed_at': '2009-06-26T01:56:18Z', 'labels': []}
+{'issuenumber': 13, 'title': 'Specify day on monthly jobs', 'state': 'closed', 'created_at': '2009-06-18T00:02:13Z', 'closed_at': '2009-06-18T02:20:22Z', 'labels': []}
+{'issuenumber': 12, 'title': 'Capistrano says crontab written, but crontab -l doesn’t indicate that it was', 'state': 'closed', 'created_at': '2009-06-17T17:31:16Z', 'closed_at': '2009-06-26T01:56:30Z', 'labels': []}
+{'issuenumber': 11, 'title': "Whenever just isn't working for me...here is what i have done", 'state': 'closed', 'created_at': '2009-06-16T23:20:26Z', 'closed_at': '2009-06-23T18:02:35Z', 'labels': []}
+{'issuenumber': 10, 'title': "Rake jobs don't run in some environments", 'state': 'closed', 'created_at': '2009-06-15T16:22:10Z', 'closed_at': '2009-06-27T03:49:41Z', 'labels': []}
+{'issuenumber': 9, 'title': "every :day, :at => '9am' fails on OS X", 'state': 'closed', 'created_at': '2009-06-10T19:19:32Z', 'closed_at': '2009-06-11T13:50:14Z', 'labels': []}
+{'issuenumber': 8, 'title': '"every :sunday" fails on Solaris', 'state': 'closed', 'created_at': '2009-06-07T11:07:58Z', 'closed_at': '2009-06-26T01:53:48Z', 'labels': []}
+{'issuenumber': 7, 'title': 'Problem with vendorised version', 'state': 'closed', 'created_at': '2009-06-05T07:47:22Z', 'closed_at': '2009-06-11T13:44:50Z', 'labels': []}
+{'issuenumber': 6, 'title': 'crontab defaults to production', 'state': 'closed', 'created_at': '2009-06-02T06:43:46Z', 'closed_at': '2009-06-02T21:17:13Z', 'labels': []}
+{'issuenumber': 5, 'title': 'wheneverize: command not found', 'state': 'closed', 'created_at': '2009-06-01T13:45:06Z', 'closed_at': '2009-07-02T21:32:01Z', 'labels': []}
+{'issuenumber': 4, 'title': 'Flushing logs for script/runner', 'state': 'closed', 'created_at': '2009-05-26T23:38:59Z', 'closed_at': '2010-06-29T20:31:32Z', 'labels': []}
+{'issuenumber': 3, 'title': '/usr/bin/env: rake: No such file or directory', 'state': 'closed', 'created_at': '2009-05-12T19:25:52Z', 'closed_at': '2009-05-18T09:26:01Z', 'labels': []}
+{'issuenumber': 2, 'title': ':at gets ignored when using shortcuts like :friday', 'state': 'closed', 'created_at': '2009-04-16T22:49:34Z', 'closed_at': '2009-05-01T01:31:43Z', 'labels': []}
+{'issuenumber': 1, 'title': 'Problem when two versions of the activesupport gem are installed', 'state': 'closed', 'created_at': '2009-04-16T22:48:42Z', 'closed_at': '2009-06-26T01:54:29Z', 'labels': []}

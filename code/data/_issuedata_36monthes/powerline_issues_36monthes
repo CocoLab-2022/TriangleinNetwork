@@ -1,0 +1,867 @@
+{'issuenumber': 1479, 'title': 'tries to install scripts to ${PYTHONHOME}/bin on OS X (outside of $PATH)', 'state': 'closed', 'created_at': '2015-10-29T22:39:16Z', 'closed_at': '2015-11-17T00:41:15Z', 'labels': {'name': 'e:macos'}}
+{'issuenumber': 1478, 'title': 'OSX El Capitan destroyed my powerline', 'state': 'closed', 'created_at': '2015-10-28T21:38:05Z', 'closed_at': '2015-10-30T18:13:48Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1477, 'title': 'Enable powerline.service by default?', 'state': 'closed', 'created_at': '2015-10-26T00:21:41Z', 'closed_at': '2015-10-26T01:03:48Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 1476, 'title': 'Powerline-daemon complain about usage in tmux.', 'state': 'closed', 'created_at': '2015-10-24T15:50:58Z', 'closed_at': '2015-10-24T16:19:26Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1475, 'title': 'icons not displaying locally but ok when ssh somewhere else', 'state': 'closed', 'created_at': '2015-10-22T19:02:42Z', 'closed_at': '2015-10-22T19:07:12Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1474, 'title': 'tmux error : "unsupported operand type(s) for -=: \'int\' and \'unicode\'"', 'state': 'closed', 'created_at': '2015-10-22T12:12:57Z', 'closed_at': '2015-10-23T07:04:07Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1473, 'title': "ERROR:tmux:powerline:Failed to render: 'int' object has no attribute 'lstrip'", 'state': 'closed', 'created_at': '2015-10-21T03:33:53Z', 'closed_at': '2015-10-21T07:18:39Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1470, 'title': "OS X- 'int' object has no attribute 'lstrip' in right statusbar.", 'state': 'closed', 'created_at': '2015-10-19T16:37:36Z', 'closed_at': '2015-10-19T20:34:12Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1468, 'title': 'Keep MPD Connection alive in now_playing segment', 'state': 'closed', 'created_at': '2015-10-09T10:17:43Z', 'closed_at': '2015-10-09T14:47:25Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1460, 'title': 'integer: command not found', 'state': 'closed', 'created_at': '2015-10-02T23:21:30Z', 'closed_at': '2015-10-13T11:13:56Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1459, 'title': 'instructions are either incomplete or do not work', 'state': 'closed', 'created_at': '2015-10-01T17:00:48Z', 'closed_at': '2015-10-01T17:06:15Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1458, 'title': 'Not worked with Linux Mint 17.2.', 'state': 'closed', 'created_at': '2015-09-30T19:01:30Z', 'closed_at': '2015-10-19T21:00:09Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1457, 'title': 'i3 lemonbar with workspace info', 'state': 'closed', 'created_at': '2015-09-29T17:58:18Z', 'closed_at': '2015-10-05T18:59:52Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 1455, 'title': 'Documentation: urxvt and patched fonts', 'state': 'closed', 'created_at': '2015-09-29T10:31:02Z', 'closed_at': '2015-09-29T11:18:48Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1454, 'title': 'Symbols not working on FreeBSD.', 'state': 'closed', 'created_at': '2015-09-28T21:33:21Z', 'closed_at': '2015-09-28T21:33:58Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1450, 'title': 'Not able to get VIM to use powerline installed via pip', 'state': 'closed', 'created_at': '2015-09-13T17:52:34Z', 'closed_at': '2015-09-13T18:33:16Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1447, 'title': 'Provide a systemd service for powerline-daemon', 'state': 'closed', 'created_at': '2015-09-12T13:13:58Z', 'closed_at': '2015-09-13T15:20:17Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1446, 'title': 'powerline vim status bar does not show unless Syntastic displays its error box', 'state': 'closed', 'created_at': '2015-09-11T18:31:57Z', 'closed_at': '2015-09-11T18:33:42Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1445, 'title': 'weather segment key error', 'state': 'closed', 'created_at': '2015-09-10T04:12:27Z', 'closed_at': '2015-09-10T05:05:51Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1444, 'title': 'Powerline extends to a second line when using Vim and iTerm2', 'state': 'closed', 'created_at': '2015-09-09T07:22:20Z', 'closed_at': '2015-09-09T15:30:36Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1442, 'title': 'Strange characters appearing instead of arrows', 'state': 'closed', 'created_at': '2015-09-02T17:31:29Z', 'closed_at': '2015-09-02T17:36:29Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1441, 'title': 'Using powerline inside of tmux causes the shell commands to overwrite itself', 'state': 'closed', 'created_at': '2015-08-31T05:20:28Z', 'closed_at': '2015-08-31T15:45:12Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1440, 'title': 'Bar / Lemonbar click support', 'state': 'closed', 'created_at': '2015-08-30T15:53:09Z', 'closed_at': '2015-08-30T15:59:03Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1438, 'title': 'username (i think) displaying twice', 'state': 'closed', 'created_at': '2015-08-27T11:49:07Z', 'closed_at': '2015-08-27T12:51:06Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1437, 'title': "Can't get MPD and cpu_load_percent status to work with tmux", 'state': 'closed', 'created_at': '2015-08-27T06:48:26Z', 'closed_at': '2015-08-30T11:12:18Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1435, 'title': "problem with tmux's network_load segment ", 'state': 'closed', 'created_at': '2015-08-26T07:34:45Z', 'closed_at': '2015-08-29T22:15:27Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1430, 'title': 'Rename bar (bar-aint-recursive) to lemonbar', 'state': 'closed', 'created_at': '2015-08-21T10:24:57Z', 'closed_at': '2017-08-15T19:02:55Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1429, 'title': 'bash prompt issues', 'state': 'closed', 'created_at': '2015-08-21T02:37:52Z', 'closed_at': '2015-08-21T16:23:17Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1428, 'title': 'How can I uninstall powerline?', 'state': 'closed', 'created_at': '2015-08-20T10:19:58Z', 'closed_at': '2015-08-20T14:08:26Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 1427, 'title': 'Spotify Segment list Index Out of range (Using OS X)', 'state': 'closed', 'created_at': '2015-08-13T09:41:27Z', 'closed_at': '2015-09-14T18:26:13Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1425, 'title': 'Powerline Truck Factor', 'state': 'closed', 'created_at': '2015-08-06T12:19:05Z', 'closed_at': '2015-08-06T15:31:31Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 1424, 'title': 'Powerline-config tmux exiting with status 127', 'state': 'closed', 'created_at': '2015-08-05T13:16:12Z', 'closed_at': '2015-08-05T14:37:52Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1423, 'title': 'env', 'state': 'closed', 'created_at': '2015-08-04T09:53:25Z', 'closed_at': '2015-08-04T09:53:41Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 1422, 'title': 'Enabling tabline (or equivalent) using Powerline in vim', 'state': 'closed', 'created_at': '2015-07-30T22:30:14Z', 'closed_at': '2015-07-31T04:37:46Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1421, 'title': 'powerline-daemon usage replaces the dynamic tmux Powerline status', 'state': 'closed', 'created_at': '2015-07-29T23:33:35Z', 'closed_at': '2015-08-07T22:55:46Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1420, 'title': 'Strip domain component from username?', 'state': 'closed', 'created_at': '2015-07-29T15:21:32Z', 'closed_at': '2015-10-19T21:03:41Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1419, 'title': 'vim start up Error detected while processing function Pl#Statusline', 'state': 'closed', 'created_at': '2015-07-25T16:41:33Z', 'closed_at': '2015-07-25T16:42:58Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1417, 'title': 'Vim plugin not displaying properly in tmux, okay otherwise', 'state': 'closed', 'created_at': '2015-07-24T00:47:31Z', 'closed_at': '2015-07-24T02:44:59Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1413, 'title': '401:ERROR:vim:powerline:Failed to create renderer: [Errno 28] Auf dem Gerät ist kein Speicherplatz mehr verfügbarYou may need to increase the inotify limits on your system, via /proc/sys/inotify/max_user_*', 'state': 'closed', 'created_at': '2015-07-18T12:23:30Z', 'closed_at': '2015-07-18T13:43:20Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1412, 'title': 'Tmux right side only visible for first 3 windows', 'state': 'closed', 'created_at': '2015-07-15T19:11:59Z', 'closed_at': '2015-07-19T19:05:25Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1411, 'title': 'tmux line "hovers" when full-screen in OS X', 'state': 'closed', 'created_at': '2015-07-13T22:56:07Z', 'closed_at': '2015-07-14T04:56:55Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1410, 'title': 'Spotify segment not working', 'state': 'closed', 'created_at': '2015-07-11T18:16:11Z', 'closed_at': '2015-07-11T22:44:51Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1406, 'title': 'Using MacPorts python', 'state': 'closed', 'created_at': '2015-07-07T22:19:06Z', 'closed_at': '2015-07-07T22:55:53Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1405, 'title': 'Powerline and »normal« statusbar of other plugins', 'state': 'closed', 'created_at': '2015-07-07T21:46:31Z', 'closed_at': '2015-07-08T04:20:57Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1403, 'title': 'Unused Right-hand Column', 'state': 'closed', 'created_at': '2015-07-06T10:52:07Z', 'closed_at': '2015-07-06T15:04:13Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1402, 'title': 'Issues with tmux from master.', 'state': 'closed', 'created_at': '2015-07-04T10:25:55Z', 'closed_at': '2015-07-04T21:37:42Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1401, 'title': 'powerline-config tmux fails on blank lines', 'state': 'closed', 'created_at': '2015-06-30T15:02:04Z', 'closed_at': '2015-06-30T16:04:47Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1399, 'title': '2.2 update stops supporting blank lines in zsh prompt', 'state': 'closed', 'created_at': '2015-06-29T01:31:49Z', 'closed_at': '2015-06-29T01:35:07Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1398, 'title': "VCS module in ZSH doesn't show git info anymore", 'state': 'closed', 'created_at': '2015-06-26T01:28:43Z', 'closed_at': '2015-06-26T14:14:05Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1397, 'title': 'workaround for strange characters in vim', 'state': 'closed', 'created_at': '2015-06-23T16:57:50Z', 'closed_at': '2015-06-23T20:59:31Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1396, 'title': 'time.cpython-34m.so: undefined symbol: PyExc_OSError', 'state': 'closed', 'created_at': '2015-06-16T13:13:07Z', 'closed_at': '2015-06-16T19:24:35Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1394, 'title': 'tmux displays config on first session startup..', 'state': 'closed', 'created_at': '2015-06-16T08:47:22Z', 'closed_at': '2015-06-16T19:30:28Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1392, 'title': 'powerline on ubuntu server (non-gui)', 'state': 'closed', 'created_at': '2015-06-14T22:07:32Z', 'closed_at': '2015-06-15T06:01:16Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1391, 'title': "ERROR:tmux:uptime:Exception while computing segment: 'module' object has no attribute 'BOOT_TIME'", 'state': 'closed', 'created_at': '2015-06-14T15:13:58Z', 'closed_at': '2015-06-14T22:36:04Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1390, 'title': 'Docs do not cover setup for vim', 'state': 'closed', 'created_at': '2015-06-05T17:23:25Z', 'closed_at': '2015-06-05T17:31:49Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1389, 'title': 'Gmail folder name for mail segment', 'state': 'closed', 'created_at': '2015-06-01T12:02:16Z', 'closed_at': '2015-06-01T15:39:58Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 1388, 'title': 'Manpage generation with python3', 'state': 'closed', 'created_at': '2015-05-31T07:18:44Z', 'closed_at': '2015-07-19T11:24:03Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1385, 'title': 'Homebrew Python 2.7.10 upgrade causing powerline to error', 'state': 'closed', 'created_at': '2015-05-29T15:33:40Z', 'closed_at': '2015-06-05T17:15:23Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1384, 'title': 'Homebrew upgrade to Python 2.7.10 breaks Powerline with ZSH', 'state': 'closed', 'created_at': '2015-05-29T00:07:40Z', 'closed_at': '2015-06-03T17:21:47Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1383, 'title': "Include configurable gradient in uptime, like it's in mail segment", 'state': 'closed', 'created_at': '2015-05-26T17:15:00Z', 'closed_at': '2015-05-26T17:23:18Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1382, 'title': "Can't use powerline-i3", 'state': 'closed', 'created_at': '2015-05-24T16:25:30Z', 'closed_at': '2015-05-30T01:35:24Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1380, 'title': 'Symbols not displaying when using launchd to start powerline-daemon', 'state': 'closed', 'created_at': '2015-05-22T18:56:00Z', 'closed_at': '2015-05-22T19:16:58Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1376, 'title': "[docs] Clear explanation of what's exactly {repository_root} in docs", 'state': 'closed', 'created_at': '2015-05-19T14:10:02Z', 'closed_at': '2015-05-30T12:32:55Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1368, 'title': '[Tmux-Solarized] Wrong background color statusbar - Solarized colorscheme for Tmux', 'state': 'closed', 'created_at': '2015-05-16T18:46:49Z', 'closed_at': '2015-05-17T09:49:23Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1367, 'title': 'Interval in segment does nothing', 'state': 'closed', 'created_at': '2015-05-15T01:00:29Z', 'closed_at': '2015-05-30T12:16:49Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1365, 'title': "Powerline doesn't work on RedHat 5.10 for vim", 'state': 'closed', 'created_at': '2015-05-14T07:36:30Z', 'closed_at': '2015-05-14T12:58:49Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1363, 'title': 'Fatal Python error: Py_Initialize', 'state': 'closed', 'created_at': '2015-05-13T07:13:31Z', 'closed_at': '2015-05-13T19:09:48Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1361, 'title': 'Powerline wont work on my .zshrc and .bashrc', 'state': 'closed', 'created_at': '2015-05-11T06:43:14Z', 'closed_at': '2015-05-14T16:57:28Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1359, 'title': "powerline tmux right results in AttributeError: 'list' object has no attribute 'starts with'", 'state': 'closed', 'created_at': '2015-05-10T18:54:46Z', 'closed_at': '2015-05-10T19:19:52Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1357, 'title': 'sourcing bash/powerline.sh fails', 'state': 'closed', 'created_at': '2015-05-10T17:47:16Z', 'closed_at': '2015-05-10T19:24:45Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1356, 'title': "Can't install tmux config in Fedora 21", 'state': 'closed', 'created_at': '2015-05-08T21:22:34Z', 'closed_at': '2015-05-09T21:38:20Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1354, 'title': 'Powerline broken with Tmux 2.0', 'state': 'closed', 'created_at': '2015-05-07T16:29:39Z', 'closed_at': '2015-05-10T13:45:54Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1353, 'title': 'Cannot click tabs in Vim', 'state': 'closed', 'created_at': '2015-05-04T21:35:30Z', 'closed_at': '2015-05-29T19:54:22Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1352, 'title': 'Custom segment not showing up with powerline-daemon', 'state': 'closed', 'created_at': '2015-05-02T21:34:26Z', 'closed_at': '2015-05-03T09:17:10Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1351, 'title': 'Email segment only works for SSL servers.', 'state': 'closed', 'created_at': '2015-04-23T10:30:39Z', 'closed_at': '2015-05-29T19:10:34Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1350, 'title': 'Email-Segment mail.py displays un and pw if pc has no network', 'state': 'closed', 'created_at': '2015-04-22T22:50:07Z', 'closed_at': '2015-05-10T14:46:22Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1349, 'title': 'More themes for vim', 'state': 'closed', 'created_at': '2015-04-22T04:00:24Z', 'closed_at': '2015-04-22T04:13:03Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 1347, 'title': 'Unicode comparison warining', 'state': 'closed', 'created_at': '2015-04-13T11:03:17Z', 'closed_at': '2015-04-17T20:21:25Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1346, 'title': 'Where are the fonts?', 'state': 'closed', 'created_at': '2015-04-10T17:22:23Z', 'closed_at': '2015-05-10T14:34:10Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1345, 'title': 'Glyphs not showing - depending on user?', 'state': 'closed', 'created_at': '2015-04-10T15:39:30Z', 'closed_at': '2015-04-10T21:19:36Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1341, 'title': 'Installation on Linux documentation AUR packages', 'state': 'closed', 'created_at': '2015-04-02T12:39:23Z', 'closed_at': '2015-04-04T12:36:21Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1340, 'title': 'Is this repo workable as a submodule?', 'state': 'closed', 'created_at': '2015-03-26T16:06:03Z', 'closed_at': '2015-03-26T18:46:00Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1339, 'title': 'Support tmux zoom status', 'state': 'closed', 'created_at': '2015-03-25T06:29:47Z', 'closed_at': '2015-09-21T19:38:30Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1338, 'title': 'Error while installing powerline via pip', 'state': 'closed', 'created_at': '2015-03-25T06:27:30Z', 'closed_at': '2015-03-25T18:50:09Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1336, 'title': 'How configure to show git branch ', 'state': 'closed', 'created_at': '2015-03-21T04:07:54Z', 'closed_at': '2015-03-21T09:24:49Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 1335, 'title': 'Every time I upgrade or touch anything on powerline everything breaks', 'state': 'closed', 'created_at': '2015-03-19T16:31:18Z', 'closed_at': '2015-03-19T16:36:10Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 1334, 'title': 'ERROR:shell:environment:Exception while computing segment: str expected, not bool', 'state': 'closed', 'created_at': '2015-03-15T08:11:39Z', 'closed_at': '2015-04-02T17:39:21Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1333, 'title': '"Void-variable left" with latest version (powerline-20150312.2049)', 'state': 'closed', 'created_at': '2015-03-13T10:38:06Z', 'closed_at': '2015-03-13T11:29:07Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1331, 'title': 'Linter does not work with encodings properly', 'state': 'closed', 'created_at': '2015-03-10T16:17:38Z', 'closed_at': '2015-03-11T19:53:24Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1330, 'title': "powerline in tmux - time won't update", 'state': 'closed', 'created_at': '2015-03-10T01:18:16Z', 'closed_at': '2015-03-10T17:25:49Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1329, 'title': 'Leaks build environment into documentation', 'state': 'closed', 'created_at': '2015-03-08T23:00:07Z', 'closed_at': '2015-03-11T19:45:50Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1328, 'title': 'Tmux line should hide stuff on the right instead of the window list', 'state': 'closed', 'created_at': '2015-03-03T11:48:08Z', 'closed_at': '2015-05-23T13:43:23Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1322, 'title': 'Handling "no visible segments" inside "above" declarations', 'state': 'closed', 'created_at': '2015-02-27T03:30:47Z', 'closed_at': '2015-03-01T14:41:52Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1321, 'title': 'Better Music Plugin', 'state': 'closed', 'created_at': '2015-02-26T18:19:50Z', 'closed_at': '2015-02-26T18:47:02Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1320, 'title': 'Mail segment not working in wm theme due to colorscheme problems', 'state': 'closed', 'created_at': '2015-02-26T10:12:57Z', 'closed_at': '2015-03-01T11:53:03Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1313, 'title': 'Qtile plugin crashes', 'state': 'closed', 'created_at': '2015-02-19T20:35:09Z', 'closed_at': '2015-02-20T19:08:44Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1310, 'title': 'PEP 440 install warnings for develop branch install', 'state': 'closed', 'created_at': '2015-02-14T15:26:36Z', 'closed_at': '2015-02-14T22:04:54Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1309, 'title': 'Powerline fish breaks when in cloned powerline directory', 'state': 'closed', 'created_at': '2015-02-14T12:45:30Z', 'closed_at': '2015-02-15T12:24:31Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1308, 'title': 'tmux fails to raise statusline (green bar instead) using master branch of tmux [solved]', 'state': 'closed', 'created_at': '2015-02-10T19:41:28Z', 'closed_at': '2015-02-10T21:32:09Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1307, 'title': 'Some segments smother every other segments output', 'state': 'closed', 'created_at': '2015-02-09T22:34:00Z', 'closed_at': '2015-02-20T19:09:35Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1306, 'title': 'powerline-daemon prints usage instead of shell powerline', 'state': 'closed', 'created_at': '2015-02-08T18:02:27Z', 'closed_at': '2015-02-09T05:43:42Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1304, 'title': 'Problem with creating custom color scheme for shell', 'state': 'closed', 'created_at': '2015-02-07T20:38:00Z', 'closed_at': '2015-02-07T21:04:23Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1303, 'title': 'Is multi-user powerline-daemon possible?', 'state': 'closed', 'created_at': '2015-02-07T14:28:56Z', 'closed_at': '2015-02-07T14:45:35Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1302, 'title': 'Is /themes/powerline.json override possible?', 'state': 'closed', 'created_at': '2015-02-07T14:20:33Z', 'closed_at': '2015-02-07T14:33:27Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1301, 'title': 'threaded.py interval', 'state': 'closed', 'created_at': '2015-02-07T10:52:51Z', 'closed_at': '2015-02-07T12:43:02Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1298, 'title': 'Right segments disappeared after update', 'state': 'closed', 'created_at': '2015-02-05T15:06:39Z', 'closed_at': '2015-02-05T16:29:11Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1296, 'title': "Can't see powerline docs", 'state': 'closed', 'created_at': '2015-02-04T12:27:57Z', 'closed_at': '2015-02-04T16:10:01Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1295, 'title': 'Tmux config printed out on start', 'state': 'closed', 'created_at': '2015-02-03T17:36:31Z', 'closed_at': '2015-02-03T18:17:59Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1294, 'title': 'Python error "AttributeError: \'NoneType\' object has no attribute \'startswith\'"', 'state': 'closed', 'created_at': '2015-02-02T09:41:57Z', 'closed_at': '2015-05-10T14:38:30Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1293, 'title': 'Question: Is it possible to colorize segments?', 'state': 'closed', 'created_at': '2015-02-01T18:01:06Z', 'closed_at': '2015-02-01T18:52:46Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 1292, 'title': 'fish: normal mode not displayed', 'state': 'closed', 'created_at': '2015-01-31T23:55:01Z', 'closed_at': '2015-02-01T18:44:19Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1291, 'title': 'Bash Prompt: readline insert/normal mode', 'state': 'closed', 'created_at': '2015-01-31T20:31:44Z', 'closed_at': '2015-01-31T20:33:00Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1288, 'title': "Battery segment doesn't work with dual-battery laptops.", 'state': 'closed', 'created_at': '2015-01-29T15:26:52Z', 'closed_at': '2016-02-20T23:19:29Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1286, 'title': 'Shell and VIM broken since update', 'state': 'closed', 'created_at': '2015-01-26T17:17:28Z', 'closed_at': '2015-01-26T17:40:08Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1282, 'title': 'vim broken after January  5th', 'state': 'closed', 'created_at': '2015-01-24T17:18:36Z', 'closed_at': '2015-01-24T21:49:36Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1281, 'title': 'Powerline causes flickering in vim.', 'state': 'closed', 'created_at': '2015-01-22T16:45:23Z', 'closed_at': '2015-11-15T03:30:14Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1280, 'title': 'Powerline is slow on OSX', 'state': 'closed', 'created_at': '2015-01-22T04:52:51Z', 'closed_at': '2015-02-12T19:07:54Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1279, 'title': 'Weather error in status bar ', 'state': 'closed', 'created_at': '2015-01-18T02:45:05Z', 'closed_at': '2015-05-10T14:39:51Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1278, 'title': 'Error when adding mail status bar on tmux.', 'state': 'closed', 'created_at': '2015-01-18T02:15:32Z', 'closed_at': '2015-01-18T02:26:47Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1276, 'title': 'Powerline not working when logging in over SSH', 'state': 'closed', 'created_at': '2015-01-16T22:50:47Z', 'closed_at': '2015-01-16T22:56:31Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1275, 'title': 'The sideways carrot symbol that splits segments of power line are lowered', 'state': 'closed', 'created_at': '2015-01-16T03:16:51Z', 'closed_at': '2015-01-16T05:12:35Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1274, 'title': 'Tmux statusline has incorrect spacing or characters on the left side in iTerm 2', 'state': 'closed', 'created_at': '2015-01-14T21:11:02Z', 'closed_at': '2015-02-19T08:19:42Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1273, 'title': 'powerline-config crash', 'state': 'closed', 'created_at': '2015-01-14T19:05:22Z', 'closed_at': '2015-01-14T20:05:42Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1272, 'title': 'Doc not working', 'state': 'closed', 'created_at': '2015-01-14T07:41:15Z', 'closed_at': '2015-01-14T14:14:44Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1269, 'title': 'Ubuntu oh-my-zsh permision denied', 'state': 'closed', 'created_at': '2015-01-11T15:06:51Z', 'closed_at': '2015-01-11T15:08:49Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1268, 'title': "KeyError: <type 'list'>", 'state': 'closed', 'created_at': '2015-01-11T15:03:22Z', 'closed_at': '2015-01-12T04:54:04Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1267, 'title': 'archlinux package not working out of the box', 'state': 'closed', 'created_at': '2015-01-11T12:23:53Z', 'closed_at': '2015-01-11T12:24:42Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1266, 'title': 'The online documentation is not up to date?', 'state': 'closed', 'created_at': '2015-01-10T23:23:07Z', 'closed_at': '2015-01-10T23:41:51Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1264, 'title': 'Missing color on tmux windows?', 'state': 'closed', 'created_at': '2015-01-10T13:28:58Z', 'closed_at': '2015-01-16T21:55:49Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1262, 'title': 'Terminal title changed to default profile', 'state': 'closed', 'created_at': '2015-01-09T13:33:57Z', 'closed_at': '2015-01-09T14:06:55Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1261, 'title': 'Error on vim', 'state': 'closed', 'created_at': '2015-01-08T23:00:47Z', 'closed_at': '2015-01-09T13:06:12Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1258, 'title': "'Namespace' object has no attribute 'config'", 'state': 'closed', 'created_at': '2015-01-08T05:07:37Z', 'closed_at': '2015-01-21T21:00:19Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1251, 'title': 'Update documentation to include listing on pypi as "powerline-status".', 'state': 'closed', 'created_at': '2015-01-06T23:50:13Z', 'closed_at': '2015-01-07T12:19:25Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1250, 'title': 'Did the codes change for fancy symbols?', 'state': 'closed', 'created_at': '2015-01-06T20:55:34Z', 'closed_at': '2015-01-06T21:03:14Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 1248, 'title': 'renaming attr to attrs missed at least one', 'state': 'closed', 'created_at': '2015-01-06T16:35:01Z', 'closed_at': '2015-01-06T21:17:07Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1244, 'title': 'Control-P bindings are completely inappropriate', 'state': 'closed', 'created_at': '2015-01-05T20:27:36Z', 'closed_at': '2015-01-06T11:55:32Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1243, 'title': 'U+231a Glyph', 'state': 'closed', 'created_at': '2015-01-03T22:37:14Z', 'closed_at': '2015-01-04T02:17:53Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 1242, 'title': "Dividers override doesn't work in vim", 'state': 'closed', 'created_at': '2014-12-31T00:32:37Z', 'closed_at': '2014-12-31T05:26:54Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1241, 'title': "Local colorscheme for tmux doesn't work", 'state': 'closed', 'created_at': '2014-12-28T06:00:22Z', 'closed_at': '2014-12-28T06:06:28Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1239, 'title': 'Remove unneded exports', 'state': 'closed', 'created_at': '2014-12-22T18:37:32Z', 'closed_at': '2015-01-07T17:14:47Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1238, 'title': 'Add support for app-shells/rc', 'state': 'closed', 'created_at': '2014-12-20T19:48:57Z', 'closed_at': '2015-01-08T01:31:06Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1237, 'title': 'Store segment state', 'state': 'closed', 'created_at': '2014-12-19T05:19:56Z', 'closed_at': '2014-12-20T14:08:41Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 1236, 'title': 'Not working with Tmux 1.9a', 'state': 'closed', 'created_at': '2014-12-17T12:34:58Z', 'closed_at': '2015-05-10T14:42:55Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1235, 'title': 'Allow --replace argument with --foreground argument', 'state': 'closed', 'created_at': '2014-12-13T21:11:23Z', 'closed_at': '2015-01-08T15:22:48Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1234, 'title': 'Tmux left segment broke', 'state': 'closed', 'created_at': '2014-12-12T22:34:14Z', 'closed_at': '2014-12-28T20:53:47Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1232, 'title': 'pyuv updateds breaks powerline vim', 'state': 'closed', 'created_at': '2014-12-11T14:21:11Z', 'closed_at': '2014-12-28T20:51:49Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1229, 'title': 'Battery segment with tmux', 'state': 'closed', 'created_at': '2014-12-09T15:19:36Z', 'closed_at': '2014-12-09T16:13:21Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1228, 'title': "powerline-config doesn't work", 'state': 'closed', 'created_at': '2014-12-09T09:14:20Z', 'closed_at': '2014-12-09T16:08:13Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1225, 'title': 'TypeError: only string keys are allowed', 'state': 'closed', 'created_at': '2014-12-09T06:46:11Z', 'closed_at': '2014-12-09T18:17:47Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1216, 'title': 'Make all identifiers consistent', 'state': 'closed', 'created_at': '2014-12-04T18:16:43Z', 'closed_at': '2015-01-06T13:43:24Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1214, 'title': 'Messed colors in tmux status line', 'state': 'closed', 'created_at': '2014-12-04T09:02:02Z', 'closed_at': '2015-05-10T14:26:36Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1213, 'title': 'Powerline incorrectly translates valid Unicode characters', 'state': 'closed', 'created_at': '2014-12-03T20:18:21Z', 'closed_at': '2014-12-05T20:46:40Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1212, 'title': "Installation via AUR now working out of the box (KeyError: 'function')", 'state': 'closed', 'created_at': '2014-12-03T10:44:19Z', 'closed_at': '2014-12-03T21:48:54Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1209, 'title': 'clementine segment fails through ssh', 'state': 'closed', 'created_at': '2014-12-02T23:51:22Z', 'closed_at': '2014-12-03T04:38:16Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1207, 'title': 'If clementine album is empty, segment does not display', 'state': 'closed', 'created_at': '2014-12-02T09:09:59Z', 'closed_at': '2014-12-03T05:26:40Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1205, 'title': 'Use “auto” value in internal_ip segment and not “detect”', 'state': 'closed', 'created_at': '2014-11-30T21:51:30Z', 'closed_at': '2015-01-06T13:43:24Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1201, 'title': 'Add overrides from environment variables', 'state': 'closed', 'created_at': '2014-11-29T17:41:13Z', 'closed_at': '2015-01-07T15:36:13Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1199, 'title': 'Rename some keys in JSON files', 'state': 'closed', 'created_at': '2014-11-29T09:19:41Z', 'closed_at': '2015-01-06T13:43:24Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1197, 'title': 'chdir fails with UnicodeDecodeError when dirname contains umlaut', 'state': 'closed', 'created_at': '2014-11-28T18:30:50Z', 'closed_at': '2014-11-28T20:17:26Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1196, 'title': 'tmux integration not displaying correctly', 'state': 'closed', 'created_at': '2014-11-28T16:28:38Z', 'closed_at': '2014-11-28T17:08:56Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1195, 'title': 'highlight groups field not being read properly', 'state': 'closed', 'created_at': '2014-11-28T11:04:27Z', 'closed_at': '2014-11-28T17:05:48Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1194, 'title': '[TMUX, SSH] Hostname segment not showing correctly', 'state': 'closed', 'created_at': '2014-11-28T00:38:44Z', 'closed_at': '2014-11-28T00:39:06Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1193, 'title': '[TMUX, SSH] Hostname segment not showing correctly', 'state': 'closed', 'created_at': '2014-11-28T00:36:20Z', 'closed_at': '2014-11-28T07:06:03Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1192, 'title': 'tmux: "Broken" Pane Title when Spawning New Shell', 'state': 'closed', 'created_at': '2014-11-27T10:04:49Z', 'closed_at': '2014-11-28T20:06:45Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1191, 'title': "it doesn't work after bundleInstall", 'state': 'closed', 'created_at': '2014-11-27T07:28:10Z', 'closed_at': '2014-11-27T07:33:40Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1190, 'title': 'Is this a corrupted symbol? ', 'state': 'closed', 'created_at': '2014-11-25T14:39:51Z', 'closed_at': '2014-11-25T16:23:14Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1189, 'title': '[osx, zsh] {...}/powerline/bindings/zsh/powerline.zsh:192: no such file or directory: {...}/scripts/powerline-config', 'state': 'closed', 'created_at': '2014-11-23T14:28:46Z', 'closed_at': '2014-11-28T17:49:59Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1187, 'title': 'Tmux powerline not aligned ', 'state': 'closed', 'created_at': '2014-11-21T10:33:41Z', 'closed_at': '2014-11-21T23:59:41Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1157, 'title': "Can't change base background color (vim & tmux)", 'state': 'closed', 'created_at': '2014-11-20T00:04:38Z', 'closed_at': '2014-11-20T20:12:46Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1156, 'title': 'Sideeffect of adding powerline in PYTHONPATH', 'state': 'closed', 'created_at': '2014-11-18T18:11:12Z', 'closed_at': '2014-11-18T20:36:54Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1155, 'title': 'Virtualenv segment too low', 'state': 'closed', 'created_at': '2014-11-17T17:27:44Z', 'closed_at': '2014-11-30T00:16:32Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1154, 'title': 'Quit working in Vim', 'state': 'closed', 'created_at': '2014-11-17T10:51:57Z', 'closed_at': '2014-11-18T20:28:00Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1153, 'title': 'Powerline has overlapping elements on the right.', 'state': 'closed', 'created_at': '2014-11-14T23:15:21Z', 'closed_at': '2014-11-15T00:06:03Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1150, 'title': 'Powerline contains .virtualenv segment', 'state': 'closed', 'created_at': '2014-11-11T22:31:03Z', 'closed_at': '2014-11-12T20:52:34Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1149, 'title': "Bash: Right segments don't show", 'state': 'closed', 'created_at': '2014-11-10T22:53:07Z', 'closed_at': '2014-11-11T04:48:55Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1146, 'title': 'Entering insert mode causes E700: Unknown function: CapsLockStatusline', 'state': 'closed', 'created_at': '2014-11-10T19:55:28Z', 'closed_at': '2014-11-10T22:15:28Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1145, 'title': 'Support setups with ZLE_RPROMPT_INDENT set', 'state': 'closed', 'created_at': '2014-11-10T05:30:18Z', 'closed_at': '2014-11-22T20:05:19Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1143, 'title': 'Gylphs detached from nearby boxes', 'state': 'closed', 'created_at': '2014-11-06T19:30:42Z', 'closed_at': '2014-11-06T22:32:39Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1141, 'title': 'Prompt not colorized in tmux', 'state': 'closed', 'created_at': '2014-11-04T23:26:22Z', 'closed_at': '2014-11-08T17:22:02Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1140, 'title': 'Powerline text in command bar', 'state': 'closed', 'created_at': '2014-11-04T10:29:25Z', 'closed_at': '2014-11-05T08:19:17Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1139, 'title': 'tmux: Failed to obtain renderer both on the right ant left side', 'state': 'closed', 'created_at': '2014-11-04T09:17:44Z', 'closed_at': '2014-11-04T23:18:38Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1138, 'title': 'Right hand segements in tmux 1.9a seem to be missing', 'state': 'closed', 'created_at': '2014-10-30T09:37:05Z', 'closed_at': '2014-11-20T20:10:45Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1137, 'title': 'tmux and vim seems to have problem with font', 'state': 'closed', 'created_at': '2014-10-28T10:07:09Z', 'closed_at': '2014-10-29T10:51:20Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1136, 'title': 'Missing highlight groups in solarized colorscheme for tmux (default)', 'state': 'closed', 'created_at': '2014-10-27T16:38:59Z', 'closed_at': '2015-01-31T12:36:46Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1135, 'title': 'sys.path mangling in powerline-config does not work with python3', 'state': 'closed', 'created_at': '2014-10-27T15:00:13Z', 'closed_at': '2014-10-27T20:39:43Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1131, 'title': 'Add manpages for powerline and powerline-* shell commands', 'state': 'closed', 'created_at': '2014-10-25T04:49:25Z', 'closed_at': '2014-10-25T18:41:05Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1129, 'title': 'Add reference to Debian package in documentation', 'state': 'closed', 'created_at': '2014-10-22T04:07:22Z', 'closed_at': '2014-10-25T18:56:13Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1128, 'title': 'Wired characters', 'state': 'closed', 'created_at': '2014-10-21T10:27:24Z', 'closed_at': '2014-10-22T06:53:52Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1127, 'title': 'ImportError: cannot import name get_preferred_output_encoding', 'state': 'closed', 'created_at': '2014-10-21T03:11:17Z', 'closed_at': '2014-10-21T04:23:25Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1126, 'title': 'Inconsistent override variants', 'state': 'closed', 'created_at': '2014-10-18T20:46:01Z', 'closed_at': '2015-01-07T15:36:13Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1125, 'title': 'Replace underscores with dashes in long options', 'state': 'closed', 'created_at': '2014-10-18T20:17:22Z', 'closed_at': '2015-01-06T13:43:24Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1124, 'title': 'Inconsistent usage of POWERLINE_CONFIG and POWERLINE_CONFIG_COMMAND', 'state': 'closed', 'created_at': '2014-10-18T20:14:07Z', 'closed_at': '2015-01-06T13:43:24Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1121, 'title': 'Tmux status bar not displaying segments on Yosemite', 'state': 'closed', 'created_at': '2014-10-18T06:56:02Z', 'closed_at': '2014-10-18T19:54:45Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1120, 'title': "powerline-config with no arguments fails on Python3: AttributeError: 'Namespace' object has no attribute 'function'", 'state': 'closed', 'created_at': '2014-10-17T00:41:32Z', 'closed_at': '2014-10-18T16:16:39Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1119, 'title': 'Weather segment sporadic errors.', 'state': 'closed', 'created_at': '2014-10-15T10:07:50Z', 'closed_at': '2015-05-10T14:41:38Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1118, 'title': 'Modified file flag (%m) more visible', 'state': 'closed', 'created_at': '2014-10-12T17:41:33Z', 'closed_at': '2014-10-12T18:10:06Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1117, 'title': 'Remove now_playing segment', 'state': 'closed', 'created_at': '2014-10-12T11:17:21Z', 'closed_at': '2015-01-06T17:34:41Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1115, 'title': 'pip uninstall does not work', 'state': 'closed', 'created_at': '2014-10-12T04:30:29Z', 'closed_at': '2014-10-12T09:27:45Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1112, 'title': 'Segment crashes on invalid input', 'state': 'closed', 'created_at': '2014-10-11T19:55:09Z', 'closed_at': '2014-10-18T17:38:06Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1108, 'title': 'Python errors with VCS segment in bash', 'state': 'closed', 'created_at': '2014-10-06T14:52:40Z', 'closed_at': '2014-10-12T13:04:48Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1107, 'title': 'Clean git repo being incorrectly reported as dirty by Powerline', 'state': 'closed', 'created_at': '2014-10-03T19:14:02Z', 'closed_at': '2014-10-03T19:44:05Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1106, 'title': 'Commands are echoed on tmux server start', 'state': 'closed', 'created_at': '2014-10-03T08:39:31Z', 'closed_at': '2014-10-03T09:14:14Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1105, 'title': 'NERDTree matcher', 'state': 'closed', 'created_at': '2014-10-01T21:33:33Z', 'closed_at': '2014-10-06T04:42:42Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1104, 'title': 'Multiple tests fail when building 1.1 package for Debian', 'state': 'closed', 'created_at': '2014-10-01T13:42:25Z', 'closed_at': '2014-10-19T15:53:00Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1103, 'title': "No previously-included files matching '*.pyc'", 'state': 'closed', 'created_at': '2014-10-01T00:59:56Z', 'closed_at': '2014-10-01T03:18:47Z', 'labels': []}
+{'issuenumber': 1102, 'title': 'powerline in console (after logging in to system without X auto start)', 'state': 'closed', 'created_at': '2014-09-30T05:29:52Z', 'closed_at': '2014-09-30T12:52:17Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1101, 'title': "KeyError: u'function' when running powerline", 'state': 'closed', 'created_at': '2014-09-29T09:09:16Z', 'closed_at': '2014-09-30T14:09:35Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1099, 'title': 'How to uninstall powerline', 'state': 'closed', 'created_at': '2014-09-26T22:42:49Z', 'closed_at': '2014-09-26T22:48:36Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1097, 'title': 'Segment tmux.attached_clients not working', 'state': 'closed', 'created_at': '2014-09-26T18:43:13Z', 'closed_at': '2014-09-27T14:05:52Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1095, 'title': 'Version Conflict certifi 14.05.14', 'state': 'closed', 'created_at': '2014-09-25T19:23:11Z', 'closed_at': '2014-09-25T19:41:21Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1092, 'title': 'Remove all segments from powerline.segments.common', 'state': 'closed', 'created_at': '2014-09-21T11:00:35Z', 'closed_at': '2015-01-06T17:34:41Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1087, 'title': 'In python-3* vim segment tests spam path joining errors', 'state': 'closed', 'created_at': '2014-09-19T20:54:04Z', 'closed_at': '2014-09-21T12:04:00Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1085, 'title': 'Even with powerline-daemon running, segments refresh too fast', 'state': 'closed', 'created_at': '2014-09-18T22:14:17Z', 'closed_at': '2014-10-07T19:45:06Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1084, 'title': 'Tmux doesn\'t find "powerline.conf"', 'state': 'closed', 'created_at': '2014-09-18T13:10:26Z', 'closed_at': '2014-09-18T18:49:36Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1083, 'title': 'Split powerline.segments.common module', 'state': 'closed', 'created_at': '2014-09-17T18:30:48Z', 'closed_at': '2014-09-21T10:58:39Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1082, 'title': 'powerline Upgrade Issues', 'state': 'closed', 'created_at': '2014-09-17T01:59:50Z', 'closed_at': '2014-09-17T04:39:07Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1081, 'title': 'Weather segment broken', 'state': 'closed', 'created_at': '2014-09-17T01:00:39Z', 'closed_at': '2014-09-20T10:11:51Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1078, 'title': 'Git Error in Latest Merge', 'state': 'closed', 'created_at': '2014-09-15T23:22:22Z', 'closed_at': '2014-09-17T04:12:50Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1076, 'title': '[Archlinux] building fails with Aura, pacaur etc.', 'state': 'closed', 'created_at': '2014-09-13T17:44:53Z', 'closed_at': '2014-09-13T18:35:21Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1074, 'title': "Add 'flags' argument to vim/plugin/tagbar", 'state': 'closed', 'created_at': '2014-09-12T13:04:15Z', 'closed_at': '2014-09-17T04:39:53Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1073, 'title': 'Please fix installation of bindings and config files', 'state': 'closed', 'created_at': '2014-09-12T06:32:55Z', 'closed_at': '2014-09-12T07:23:11Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1072, 'title': 'Non-unicode &encoding support in Vim is far from perfect', 'state': 'closed', 'created_at': '2014-09-09T17:56:57Z', 'closed_at': '2014-09-14T16:07:50Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1071, 'title': 'Invalid unicode filenames throw warnings from matchers', 'state': 'closed', 'created_at': '2014-09-09T17:42:55Z', 'closed_at': '2014-09-14T16:07:49Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1068, 'title': 'cwd segment breaks when re-entering a long directory', 'state': 'closed', 'created_at': '2014-09-08T11:58:58Z', 'closed_at': '2014-09-08T20:22:33Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1066, 'title': 'OSError when editing new file in git repository with vim', 'state': 'closed', 'created_at': '2014-09-07T17:31:04Z', 'closed_at': '2014-09-07T19:30:41Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1064, 'title': "zsh TypeError: Type str doesn't support the buffer API", 'state': 'closed', 'created_at': '2014-09-07T16:04:17Z', 'closed_at': '2014-09-07T17:09:49Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1063, 'title': 'Trying to run development branch with zsh', 'state': 'closed', 'created_at': '2014-09-06T15:41:39Z', 'closed_at': '2014-09-06T19:02:25Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1062, 'title': 'ReadTheDocs is not building release documentation', 'state': 'closed', 'created_at': '2014-09-05T19:01:30Z', 'closed_at': '2014-09-22T15:08:25Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1059, 'title': 'FreeBSD 10.0', 'state': 'closed', 'created_at': '2014-09-05T17:54:17Z', 'closed_at': '2014-09-05T18:16:39Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1057, 'title': 'Document powerline-status package', 'state': 'closed', 'created_at': '2014-09-04T14:15:45Z', 'closed_at': '2014-09-05T16:39:07Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1054, 'title': 'error: invalid expression', 'state': 'closed', 'created_at': '2014-09-03T01:02:55Z', 'closed_at': '2014-09-03T20:00:02Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1052, 'title': 'Error in default powerline config after update', 'state': 'closed', 'created_at': '2014-09-02T15:26:07Z', 'closed_at': '2014-09-02T18:22:44Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1050, 'title': 'import(?) error after update apearently sys.path problems', 'state': 'closed', 'created_at': '2014-09-01T16:16:30Z', 'closed_at': '2014-09-01T17:41:25Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1049, 'title': 'With large number of buffers E541 may be displayed in tabline', 'state': 'closed', 'created_at': '2014-09-01T05:01:11Z', 'closed_at': '2014-09-05T16:23:11Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1048, 'title': 'When there are lots of buffers current one is not displayed', 'state': 'closed', 'created_at': '2014-09-01T04:57:01Z', 'closed_at': '2014-09-05T16:23:11Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1047, 'title': 'Tabline renders vim unusable with a lot of buffers', 'state': 'closed', 'created_at': '2014-09-01T04:51:46Z', 'closed_at': '2014-09-05T16:24:05Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1046, 'title': 'Tabline is partially rehighlighted when entering insert mode', 'state': 'closed', 'created_at': '2014-09-01T04:45:32Z', 'closed_at': '2014-09-05T16:23:11Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1044, 'title': 'Allow specifying interface order for internal_ip', 'state': 'closed', 'created_at': '2014-08-30T19:10:00Z', 'closed_at': '2014-08-30T20:28:33Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1035, 'title': 'Add a way to extend top-level themes usable by third-party plugins', 'state': 'closed', 'created_at': '2014-08-29T06:58:53Z', 'closed_at': '2014-08-29T16:24:03Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1034, 'title': 'Remove default arguments specified in top-level themes from segments', 'state': 'closed', 'created_at': '2014-08-29T06:54:48Z', 'closed_at': '2014-08-29T16:56:39Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1033, 'title': 'Tabline has width of the current window', 'state': 'closed', 'created_at': '2014-08-29T06:26:07Z', 'closed_at': '2014-08-29T15:10:13Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1031, 'title': 'Refactor function segments', 'state': 'closed', 'created_at': '2014-08-28T04:21:20Z', 'closed_at': '2014-08-29T20:17:05Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 1029, 'title': 'tmux: gaps between sessions in status bar', 'state': 'closed', 'created_at': '2014-08-27T17:22:17Z', 'closed_at': '2015-05-10T14:44:36Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1028, 'title': 'Line break after single or double quotation creates strange prompt', 'state': 'closed', 'created_at': '2014-08-27T08:44:24Z', 'closed_at': '2014-08-27T16:00:09Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1027, 'title': 'NBSP is unconditionally used, even in ASCII theme', 'state': 'closed', 'created_at': '2014-08-26T17:32:18Z', 'closed_at': '2014-08-27T20:00:09Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1024, 'title': 'vim.bindeval(\'function("mode")\') error', 'state': 'closed', 'created_at': '2014-08-26T07:09:58Z', 'closed_at': '2014-08-26T16:19:08Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1023, 'title': "Some '?' in bash prompt when powerline-daemon running in background.", 'state': 'closed', 'created_at': '2014-08-26T05:46:29Z', 'closed_at': '2014-08-27T20:00:09Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1021, 'title': 'Disable powerline vim tabline', 'state': 'closed', 'created_at': '2014-08-25T22:53:41Z', 'closed_at': '2014-08-26T03:42:01Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1020, 'title': 'Easier way to override dividers for vim', 'state': 'closed', 'created_at': '2014-08-25T22:49:10Z', 'closed_at': '2014-08-26T03:40:13Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1017, 'title': 'Python-3.4 tests randomly throw errors when running __import__ in powerline-lint', 'state': 'closed', 'created_at': '2014-08-24T17:16:18Z', 'closed_at': '2014-08-27T04:13:43Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1015, 'title': 'Sometimes happening network problems when trying to install bazaar', 'state': 'closed', 'created_at': '2014-08-24T16:24:50Z', 'closed_at': '2014-08-28T20:50:27Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1008, 'title': "powerline-daemon: NameError: global name 'file' is not defined", 'state': 'closed', 'created_at': '2014-08-22T22:23:08Z', 'closed_at': '2014-08-23T12:30:59Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1003, 'title': 'include_modes for visual_range does not work', 'state': 'closed', 'created_at': '2014-08-21T05:58:43Z', 'closed_at': '2014-08-21T19:52:37Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 1002, 'title': "TypeError: float() argument must be a string or a number, not 'functools.partial'", 'state': 'closed', 'created_at': '2014-08-21T02:17:24Z', 'closed_at': '2014-08-25T15:41:56Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 997, 'title': 'Vim crash with SEGV at launch', 'state': 'closed', 'created_at': '2014-08-18T22:22:56Z', 'closed_at': '2014-08-20T17:38:58Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 995, 'title': 'After powerline update: ImportError: No module named plugin.tagbar', 'state': 'closed', 'created_at': '2014-08-18T06:34:05Z', 'closed_at': '2014-08-18T10:51:53Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 991, 'title': '4a8b81 broke prompt', 'state': 'closed', 'created_at': '2014-08-15T22:59:14Z', 'closed_at': '2014-08-16T07:55:21Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 990, 'title': 'Missing Powerline UTF-8 Symbols', 'state': 'closed', 'created_at': '2014-08-15T20:39:04Z', 'closed_at': '2014-08-16T11:27:35Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 989, 'title': 'Document listers creation', 'state': 'closed', 'created_at': '2014-08-15T17:42:01Z', 'closed_at': '2014-08-16T10:44:46Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 983, 'title': 'fish: No prompt until manually calling `powerline-setup`', 'state': 'closed', 'created_at': '2014-08-15T09:36:38Z', 'closed_at': '2014-08-15T14:28:51Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 981, 'title': 'Error launching tmux inside bash', 'state': 'closed', 'created_at': '2014-08-13T13:32:38Z', 'closed_at': '2014-08-13T14:48:44Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 980, 'title': 'Vim tabline', 'state': 'closed', 'created_at': '2014-08-13T07:35:32Z', 'closed_at': '2014-08-13T16:24:04Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 977, 'title': "Exception while computing segment: player_spotify_apple_script() got an unexpected keyword argument 'state_symbol'", 'state': 'closed', 'created_at': '2014-08-11T21:02:50Z', 'closed_at': '2014-08-12T04:10:38Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 976, 'title': '970', 'state': 'closed', 'created_at': '2014-08-10T21:35:12Z', 'closed_at': '2014-08-10T21:35:23Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 971, 'title': 'zsh plugin won\'t work with "./setup.py develop"', 'state': 'closed', 'created_at': '2014-08-08T20:36:02Z', 'closed_at': '2014-08-09T11:32:44Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 970, 'title': 'after the last pull I get this error', 'state': 'closed', 'created_at': '2014-08-08T20:34:28Z', 'closed_at': '2014-08-21T07:11:24Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 969, 'title': 'Make setting tabline optional', 'state': 'closed', 'created_at': '2014-08-08T14:22:26Z', 'closed_at': '2014-08-10T12:44:10Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 964, 'title': 'Installation on Linux fails due to ignored write() result', 'state': 'closed', 'created_at': '2014-08-06T17:18:32Z', 'closed_at': '2014-08-06T18:52:38Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 962, 'title': 'Weather segment persistence time', 'state': 'closed', 'created_at': '2014-08-06T10:46:42Z', 'closed_at': '2014-08-06T11:10:53Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 960, 'title': 'powerline-daemon usage is outputted repeatedly when using tmux', 'state': 'closed', 'created_at': '2014-08-05T23:57:42Z', 'closed_at': '2014-08-06T00:27:21Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 956, 'title': 'Odd error after recent upgrade', 'state': 'closed', 'created_at': '2014-08-05T02:34:54Z', 'closed_at': '2014-08-05T08:03:07Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 952, 'title': 'Is it possible to use different themes for bash and zsh?', 'state': 'closed', 'created_at': '2014-08-03T16:05:23Z', 'closed_at': '2014-08-03T17:44:56Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 949, 'title': 'Weather segment broken', 'state': 'closed', 'created_at': '2014-08-03T09:21:07Z', 'closed_at': '2014-08-05T22:17:22Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 946, 'title': 'powerline-render called twice', 'state': 'closed', 'created_at': '2014-08-02T23:40:30Z', 'closed_at': '2014-08-03T13:41:25Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 942, 'title': 'tmux window list colours are off', 'state': 'closed', 'created_at': '2014-07-31T01:44:19Z', 'closed_at': '2014-08-04T20:17:11Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 941, 'title': 'Error', 'state': 'closed', 'created_at': '2014-07-30T19:13:01Z', 'closed_at': '2014-07-30T20:39:24Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 940, 'title': 'Move powerline to the top of the window', 'state': 'closed', 'created_at': '2014-07-30T18:41:51Z', 'closed_at': '2014-07-30T18:57:09Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 939, 'title': 'Command segment', 'state': 'closed', 'created_at': '2014-07-29T21:52:51Z', 'closed_at': '2014-07-30T16:31:23Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 937, 'title': '[BUG] Import powerline in powerline.vim', 'state': 'closed', 'created_at': '2014-07-29T07:03:42Z', 'closed_at': '2014-07-29T12:14:38Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 935, 'title': "There's no fontpatcher.py", 'state': 'closed', 'created_at': '2014-07-27T22:20:03Z', 'closed_at': '2014-07-27T23:26:04Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 933, 'title': '"Some kind of error"', 'state': 'closed', 'created_at': '2014-07-25T20:09:24Z', 'closed_at': '2014-07-25T21:10:39Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 932, 'title': 'New colorscheme hierarchy raising unneeded exceptions', 'state': 'closed', 'created_at': '2014-07-24T20:31:52Z', 'closed_at': '2014-07-25T21:58:40Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 930, 'title': "Can't get status bar to display correctly (Image attached)", 'state': 'closed', 'created_at': '2014-07-22T06:56:57Z', 'closed_at': '2014-07-22T22:08:12Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 929, 'title': 'Powerline display issue', 'state': 'closed', 'created_at': '2014-07-20T08:17:18Z', 'closed_at': '2014-07-20T08:57:05Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 925, 'title': "Can't get powerline to work on 10.9.4/Weard symbols", 'state': 'closed', 'created_at': '2014-07-15T19:04:57Z', 'closed_at': '2014-07-15T20:07:58Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 924, 'title': '$COLUMNS not defined upon Cygwin startup', 'state': 'closed', 'created_at': '2014-07-14T02:53:08Z', 'closed_at': '2014-07-19T16:06:44Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 922, 'title': '[WIP] Configuration changes: TODO list', 'state': 'closed', 'created_at': '2014-07-12T10:41:26Z', 'closed_at': '2014-10-07T19:45:36Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 919, 'title': 'Build sometimes failes due to SEGV in pypy', 'state': 'closed', 'created_at': '2014-07-10T17:52:00Z', 'closed_at': '2014-11-29T21:37:40Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 918, 'title': 'Fonts have spacing issues', 'state': 'closed', 'created_at': '2014-07-10T17:45:37Z', 'closed_at': '2014-07-10T18:38:39Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 916, 'title': 'Pre-patched Anonymous Pro arrowheads are vertically misaligned on Retina with iTerm 2', 'state': 'closed', 'created_at': '2014-07-10T16:11:31Z', 'closed_at': '2014-08-25T04:04:17Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 911, 'title': 'No arrows in Gnome-terminal', 'state': 'closed', 'created_at': '2014-07-09T13:44:19Z', 'closed_at': '2014-07-12T10:49:29Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 910, 'title': 'Add possibility to revert a defined gradient', 'state': 'closed', 'created_at': '2014-07-07T10:16:02Z', 'closed_at': '2014-07-10T14:55:08Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 908, 'title': 'Colors on powerlinebetween buffers', 'state': 'closed', 'created_at': '2014-07-04T18:05:30Z', 'closed_at': '2014-07-04T21:13:12Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 907, 'title': 'Unable to modify to background of Powerline on tmux?', 'state': 'closed', 'created_at': '2014-06-29T14:50:15Z', 'closed_at': '2014-11-29T21:40:27Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 901, 'title': 'tmux status bar not rendering properly', 'state': 'closed', 'created_at': '2014-06-28T00:27:02Z', 'closed_at': '2014-06-28T13:37:25Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 900, 'title': "invalid choice: 'aboveleft'", 'state': 'closed', 'created_at': '2014-06-27T10:46:19Z', 'closed_at': '2014-06-30T16:51:13Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 895, 'title': "tmux: Segments don't seem to load", 'state': 'closed', 'created_at': '2014-06-25T00:04:56Z', 'closed_at': '2014-06-25T14:12:35Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 894, 'title': 'Disable special glyphs', 'state': 'closed', 'created_at': '2014-06-23T22:41:26Z', 'closed_at': '2014-06-24T03:32:52Z', 'labels': {'name': 's:duplicate'}}
+{'issuenumber': 892, 'title': 'Virtualenv information not displaying', 'state': 'closed', 'created_at': '2014-06-23T09:12:49Z', 'closed_at': '2014-06-24T18:59:36Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 891, 'title': 'Missing battery segment', 'state': 'closed', 'created_at': '2014-06-23T08:16:33Z', 'closed_at': '2014-07-01T08:55:00Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 889, 'title': "Some glyphs don't work, some are tiny... don't know what to do.", 'state': 'closed', 'created_at': '2014-06-03T20:52:27Z', 'closed_at': '2014-10-10T07:50:33Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 886, 'title': 'Git branch status coloring is inconsistent', 'state': 'closed', 'created_at': '2014-05-28T18:25:46Z', 'closed_at': '2015-05-10T14:34:59Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 883, 'title': 'Powerline crashes in zsh', 'state': 'closed', 'created_at': '2014-05-26T20:01:23Z', 'closed_at': '2014-05-27T01:41:49Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 881, 'title': 'change the installation doc', 'state': 'closed', 'created_at': '2014-05-25T08:40:15Z', 'closed_at': '2014-08-02T23:40:28Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 878, 'title': "Add fish shell's vi-mode support", 'state': 'closed', 'created_at': '2014-05-23T15:56:00Z', 'closed_at': '2014-08-24T13:22:14Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 877, 'title': '[RESOLVED] sections overlap with fontconfig or patched fonts', 'state': 'closed', 'created_at': '2014-05-20T04:27:47Z', 'closed_at': '2014-06-08T13:33:50Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 876, 'title': "GIT Submodule Branch Label Wrong -> Display's Folder Name ... w/ fix", 'state': 'closed', 'created_at': '2014-05-19T05:15:42Z', 'closed_at': '2014-06-28T18:20:40Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 875, 'title': 'tmux 1.9a hangs after installing powerline in virtualenv?', 'state': 'closed', 'created_at': '2014-05-19T03:44:20Z', 'closed_at': '2015-02-20T19:09:57Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 874, 'title': 'Heads up on git vcs segment performance improvement', 'state': 'closed', 'created_at': '2014-05-15T04:48:01Z', 'closed_at': '2014-06-25T17:28:10Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 869, 'title': 'tmux version compatibility', 'state': 'closed', 'created_at': '2014-05-04T00:01:07Z', 'closed_at': '2014-05-04T07:53:08Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 862, 'title': 'Readme lacks installation instructions', 'state': 'closed', 'created_at': '2014-04-28T16:43:09Z', 'closed_at': '2015-05-19T18:22:10Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 861, 'title': 'What is the font?', 'state': 'closed', 'created_at': '2014-04-26T11:24:33Z', 'closed_at': '2014-05-04T08:41:24Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 860, 'title': "The patched font didn't work on terminal", 'state': 'closed', 'created_at': '2014-04-22T10:26:42Z', 'closed_at': '2014-05-20T17:21:24Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 859, 'title': 'Using powerline with ipython 2 and 3', 'state': 'closed', 'created_at': '2014-04-14T08:40:58Z', 'closed_at': '2014-08-02T23:58:23Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 856, 'title': 'Allow background colors to be left unspecified', 'state': 'closed', 'created_at': '2014-04-04T14:16:52Z', 'closed_at': '2014-07-12T11:16:07Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 854, 'title': 'PL#Statusline raises errors in vim.', 'state': 'closed', 'created_at': '2014-04-01T15:44:19Z', 'closed_at': '2014-04-01T15:47:56Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 853, 'title': 'String index issue', 'state': 'closed', 'created_at': '2014-04-01T13:55:25Z', 'closed_at': '2014-08-02T23:53:45Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 852, 'title': 'Mutt status_format theme', 'state': 'closed', 'created_at': '2014-04-01T12:39:34Z', 'closed_at': '2014-08-22T19:32:50Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 850, 'title': 'powerline', 'state': 'closed', 'created_at': '2014-03-27T15:04:40Z', 'closed_at': '2014-03-28T11:26:31Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 849, 'title': 'Allow to disable for certain use cases', 'state': 'closed', 'created_at': '2014-03-27T09:39:04Z', 'closed_at': '2014-05-04T09:29:35Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 848, 'title': "Can't set cwd ellipsis in shell theme", 'state': 'closed', 'created_at': '2014-03-25T19:26:05Z', 'closed_at': '2014-09-26T04:24:10Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 847, 'title': 'tmux powerline breaking zsh powerline', 'state': 'closed', 'created_at': '2014-03-25T02:52:02Z', 'closed_at': '2014-08-02T23:40:28Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 846, 'title': "Oopen from Vim's explorer", 'state': 'closed', 'created_at': '2014-03-24T20:06:07Z', 'closed_at': '2014-03-31T09:08:46Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 845, 'title': 'Wrong cursor position with zsh after error', 'state': 'closed', 'created_at': '2014-03-18T02:51:20Z', 'closed_at': '2014-03-23T13:39:30Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 844, 'title': 'Issue with font patching', 'state': 'closed', 'created_at': '2014-03-17T04:05:20Z', 'closed_at': '2014-03-17T04:24:11Z', 'labels': []}
+{'issuenumber': 843, 'title': 'Powerline configured but does not appear (and does not throw error)', 'state': 'closed', 'created_at': '2014-03-17T03:16:43Z', 'closed_at': '2014-03-22T22:25:41Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 842, 'title': 'Powerline tries to run `site.py` if it exists in the `pwd`', 'state': 'closed', 'created_at': '2014-03-16T21:37:32Z', 'closed_at': '2014-03-17T19:20:57Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 839, 'title': 'virtualenv/virtualenvwrapper errors', 'state': 'closed', 'created_at': '2014-03-13T16:22:19Z', 'closed_at': '2014-03-13T16:31:40Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 837, 'title': 'SOLVED: Failed to load on Max OS X 10.8.5', 'state': 'closed', 'created_at': '2014-03-13T01:48:51Z', 'closed_at': '2014-03-13T10:41:16Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 835, 'title': 'powerline fails to render with newest psutil (v2)', 'state': 'closed', 'created_at': '2014-03-11T21:24:42Z', 'closed_at': '2014-03-13T16:32:40Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 834, 'title': 'double post please ignore', 'state': 'closed', 'created_at': '2014-03-11T21:24:27Z', 'closed_at': '2014-03-11T21:32:14Z', 'labels': []}
+{'issuenumber': 832, 'title': 'Updated powerline, now my command line is a mess', 'state': 'closed', 'created_at': '2014-03-10T21:14:34Z', 'closed_at': '2014-03-13T15:37:21Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 831, 'title': 'Glyph tables in help need patched font to display all glyphs', 'state': 'closed', 'created_at': '2014-03-04T20:37:48Z', 'closed_at': '2014-08-03T00:09:57Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 830, 'title': 'powerline-symbols.conf, droid sans fonts and family', 'state': 'closed', 'created_at': '2014-03-04T20:20:25Z', 'closed_at': '2014-03-17T15:27:20Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 829, 'title': 'unable to use powerline exception while computing segment', 'state': 'closed', 'created_at': '2014-03-03T18:44:10Z', 'closed_at': '2014-03-13T17:14:48Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 828, 'title': 'date segment: support day of week', 'state': 'closed', 'created_at': '2014-03-02T21:12:17Z', 'closed_at': '2014-03-02T21:15:26Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 827, 'title': 'cpu segment shows wrong values', 'state': 'closed', 'created_at': '2014-03-02T21:08:57Z', 'closed_at': '2014-08-02T18:37:06Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 826, 'title': 'internal ip segment', 'state': 'closed', 'created_at': '2014-03-02T21:07:03Z', 'closed_at': '2014-08-23T21:32:43Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 825, 'title': 'powerline and powerline-status in pip', 'state': 'closed', 'created_at': '2014-02-28T04:10:04Z', 'closed_at': '2014-02-28T07:11:50Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 824, 'title': "For and while loops terminate with KeyError: 'continuation'", 'state': 'closed', 'created_at': '2014-02-27T19:57:01Z', 'closed_at': '2014-03-03T17:11:26Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 823, 'title': 'Bad/partial powerline fonts in st and urxvt. No problem with gvim or lxterminal', 'state': 'closed', 'created_at': '2014-02-26T11:37:29Z', 'closed_at': '2014-04-30T09:04:31Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 821, 'title': 'Add non-linux filesystem watchers', 'state': 'closed', 'created_at': '2014-02-22T20:18:57Z', 'closed_at': '2014-08-30T12:01:08Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 820, 'title': 'Add support for battery on more systems', 'state': 'closed', 'created_at': '2014-02-22T11:10:43Z', 'closed_at': '2014-08-06T09:10:55Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 819, 'title': 'Some common segment issues', 'state': 'closed', 'created_at': '2014-02-22T11:05:48Z', 'closed_at': '2014-03-13T17:12:12Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 818, 'title': 'Missing attribute in VimPowerline class?', 'state': 'closed', 'created_at': '2014-02-22T07:07:52Z', 'closed_at': '2014-06-28T16:23:28Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 817, 'title': 'Tmux binding left dividers are not those from config.json', 'state': 'closed', 'created_at': '2014-02-22T01:30:20Z', 'closed_at': '2014-11-29T17:15:20Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 816, 'title': 'Split data-gathering functions into separate package?', 'state': 'closed', 'created_at': '2014-02-21T11:03:20Z', 'closed_at': '2014-11-29T22:04:39Z', 'labels': {'name': 't:question'}}
+{'issuenumber': 815, 'title': 'Add min_cursor_columns option', 'state': 'closed', 'created_at': '2014-02-21T04:20:54Z', 'closed_at': '2014-08-10T17:10:17Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 814, 'title': 'Add min_cursor_columns option', 'state': 'closed', 'created_at': '2014-02-20T17:52:52Z', 'closed_at': '2014-08-10T13:23:12Z', 'labels': {'name': 's:duplicate'}}
+{'issuenumber': 813, 'title': 'email_imap_alert runs too slow on non-first runs', 'state': 'closed', 'created_at': '2014-02-20T17:50:52Z', 'closed_at': '2014-02-26T04:28:45Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 811, 'title': 'Cursor positioning with fish bindings', 'state': 'closed', 'created_at': '2014-02-19T13:10:23Z', 'closed_at': '2014-02-19T21:27:06Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 808, 'title': 'Remove unrelated tips from documentation', 'state': 'closed', 'created_at': '2014-02-16T00:43:20Z', 'closed_at': '2014-08-02T23:40:28Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 804, 'title': 'imap checker credentials', 'state': 'closed', 'created_at': '2014-02-14T21:49:34Z', 'closed_at': '2014-02-15T18:02:44Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 803, 'title': 'not all symbols are working properly', 'state': 'closed', 'created_at': '2014-02-14T13:31:57Z', 'closed_at': '2014-02-15T11:13:57Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 801, 'title': 'TMUX reports "failed to connect to server: Permission denied" when switching user under Powerline/TMUX (w/ proposed fix)', 'state': 'closed', 'created_at': '2014-02-13T21:48:41Z', 'closed_at': '2014-02-15T17:05:43Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 800, 'title': 'bindkey: too many arguments', 'state': 'closed', 'created_at': '2014-02-11T16:59:19Z', 'closed_at': '2014-02-15T17:05:43Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 798, 'title': 'Keygen: Error-reporting: If the XUL is opened without a key object, the window should show an error message', 'state': 'closed', 'created_at': '2014-02-10T20:45:16Z', 'closed_at': '2014-02-11T03:00:44Z', 'labels': []}
+{'issuenumber': 797, 'title': 'Keygen: Only the main identity is in the key. All the other *selected* identities are discarded.', 'state': 'closed', 'created_at': '2014-02-10T20:44:58Z', 'closed_at': '2014-02-11T03:00:44Z', 'labels': []}
+{'issuenumber': 796, 'title': 'Keygen: Using the Comment Field for the new key leads to an error message', 'state': 'closed', 'created_at': '2014-02-10T20:44:48Z', 'closed_at': '2014-02-11T03:00:44Z', 'labels': []}
+{'issuenumber': 795, 'title': 'Keygen: When clicking on Abort, the key generation is not terminated but continues in the background', 'state': 'closed', 'created_at': '2014-02-10T20:44:19Z', 'closed_at': '2014-02-11T03:00:13Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 794, 'title': "'foggy' symbol in weather segment", 'state': 'closed', 'created_at': '2014-02-10T20:33:21Z', 'closed_at': '2014-09-26T18:26:47Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 793, 'title': 'solved: ZSH+CURSOR position shifts to the right w/ MASTER branch in GIT repository for ZSH.', 'state': 'closed', 'created_at': '2014-02-09T21:11:24Z', 'closed_at': '2014-02-12T05:01:32Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 788, 'title': 'cwd fails for non ASCII ', 'state': 'closed', 'created_at': '2014-02-08T17:06:17Z', 'closed_at': '2014-02-08T19:42:56Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 786, 'title': 'Anyway to make this work with sudoedit?', 'state': 'closed', 'created_at': '2014-02-06T16:48:07Z', 'closed_at': '2014-08-03T09:41:18Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 783, 'title': 'Revised themes', 'state': 'closed', 'created_at': '2014-02-04T18:14:42Z', 'closed_at': '2014-08-06T09:04:51Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 779, 'title': "Can't enable weather segment", 'state': 'closed', 'created_at': '2014-01-30T13:05:38Z', 'closed_at': '2014-01-30T13:44:56Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 776, 'title': 'Error at launch wiith gnome-terminal', 'state': 'closed', 'created_at': '2014-01-29T13:28:51Z', 'closed_at': '2014-02-03T17:59:09Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 775, 'title': 'Fontpatcher location', 'state': 'closed', 'created_at': '2014-01-29T08:43:17Z', 'closed_at': '2014-01-29T09:05:50Z', 'labels': []}
+{'issuenumber': 774, 'title': 'Powerline Vi-mode zsh issues', 'state': 'closed', 'created_at': '2014-01-29T06:36:52Z', 'closed_at': '2014-01-29T20:47:36Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 772, 'title': 'Builds sometimes fail due to race conflict in test_config_reload', 'state': 'closed', 'created_at': '2014-01-26T18:36:23Z', 'closed_at': '2014-08-15T17:39:08Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 771, 'title': 'Add support for prompts other then PS1', 'state': 'closed', 'created_at': '2014-01-26T17:14:26Z', 'closed_at': '2014-02-16T17:26:29Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 770, 'title': 'Revised colorschemes', 'state': 'closed', 'created_at': '2014-01-26T13:32:08Z', 'closed_at': '2014-07-12T10:35:50Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 769, 'title': 'Documentation structure', 'state': 'closed', 'created_at': '2014-01-25T14:36:36Z', 'closed_at': '2014-08-02T23:40:27Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 767, 'title': 'Troubleshooting is too hard to locate', 'state': 'closed', 'created_at': '2014-01-25T09:02:01Z', 'closed_at': '2014-08-03T09:42:06Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 766, 'title': 'Official mirrors', 'state': 'closed', 'created_at': '2014-01-24T14:37:12Z', 'closed_at': '2014-02-18T07:23:34Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 765, 'title': 'bash error messages.', 'state': 'closed', 'created_at': '2014-01-24T06:24:06Z', 'closed_at': '2014-01-24T06:41:20Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 763, 'title': 'Update documentation for VTE', 'state': 'closed', 'created_at': '2014-01-23T15:15:25Z', 'closed_at': '2014-08-02T23:40:27Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 762, 'title': 'Add tcsh support', 'state': 'closed', 'created_at': '2014-01-23T15:11:13Z', 'closed_at': '2014-01-26T20:24:48Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 760, 'title': 'different render between xterm and xfce terminal', 'state': 'closed', 'created_at': '2014-01-23T08:01:57Z', 'closed_at': '2014-01-23T08:11:55Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 758, 'title': 'bash broken with the latest git version', 'state': 'closed', 'created_at': '2014-01-22T20:31:33Z', 'closed_at': '2014-01-23T03:37:27Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 756, 'title': 'Changes to bash bindings do not work on Ubuntu 12.04', 'state': 'closed', 'created_at': '2014-01-21T13:47:55Z', 'closed_at': '2014-01-21T16:26:32Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 755, 'title': 'Clarification on custom / user config directory', 'state': 'closed', 'created_at': '2014-01-20T03:38:08Z', 'closed_at': '2014-01-20T08:03:28Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 752, 'title': 'When sourcing my .zshrc file Powerline disappears', 'state': 'closed', 'created_at': '2014-01-17T15:52:16Z', 'closed_at': '2014-01-26T12:59:43Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 749, 'title': "Recursion in bash when run under tmux, if user has 'z' package installed with default settings.", 'state': 'closed', 'created_at': '2014-01-14T22:39:02Z', 'closed_at': '2014-02-04T18:21:37Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 746, 'title': 'Not all glyphs are correctly showing in tmux', 'state': 'closed', 'created_at': '2014-01-11T16:39:03Z', 'closed_at': '2014-11-29T18:21:27Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 742, 'title': "zsh: Exception while computing segment: 'Args' object has no attribute 'jobnum'", 'state': 'closed', 'created_at': '2014-01-10T18:32:48Z', 'closed_at': '2014-01-10T19:00:58Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 740, 'title': 'network_load spacing', 'state': 'closed', 'created_at': '2014-01-01T11:20:01Z', 'closed_at': '2014-01-10T18:22:26Z', 'labels': []}
+{'issuenumber': 739, 'title': "'branch' segment reports user name when in non-vcs user directory.", 'state': 'closed', 'created_at': '2013-12-27T20:07:09Z', 'closed_at': '2014-01-17T17:43:07Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 738, 'title': "Doesn't work with tmux", 'state': 'closed', 'created_at': '2013-12-24T11:42:28Z', 'closed_at': '2014-06-25T18:00:06Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 736, 'title': 'Using with zsh.', 'state': 'closed', 'created_at': '2013-12-23T08:25:29Z', 'closed_at': '2014-01-10T18:23:46Z', 'labels': []}
+{'issuenumber': 733, 'title': 'the arrows appear strangely (with screenshot)', 'state': 'closed', 'created_at': '2013-12-18T12:53:11Z', 'closed_at': '2014-01-19T11:10:51Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 732, 'title': "Can't start bash", 'state': 'closed', 'created_at': '2013-12-18T00:56:11Z', 'closed_at': '2014-02-15T21:45:31Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 731, 'title': 'U+2B80 not displaying', 'state': 'closed', 'created_at': '2013-12-16T06:00:06Z', 'closed_at': '2014-01-17T20:58:10Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 730, 'title': "Patched font didn't works", 'state': 'closed', 'created_at': '2013-12-15T18:41:13Z', 'closed_at': '2014-08-16T15:35:14Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 728, 'title': 'Powerline creates .ropeproject folder even when g:pymode_rope is set to zero', 'state': 'closed', 'created_at': '2013-12-10T09:30:02Z', 'closed_at': '2014-01-30T22:38:38Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 727, 'title': 'shell: add window title segment to update window title', 'state': 'closed', 'created_at': '2013-12-05T17:44:30Z', 'closed_at': '2014-01-17T17:37:58Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 726, 'title': 'vim doesnot preserve the cursor column number when move across lines( using j/k).', 'state': 'closed', 'created_at': '2013-12-03T09:32:36Z', 'closed_at': '2014-03-13T17:27:49Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 723, 'title': 'Special characters (like NL) are not displayed properly', 'state': 'closed', 'created_at': '2013-12-01T10:38:44Z', 'closed_at': '2014-01-26T18:04:30Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 719, 'title': 'Gentoo overlay "raiagent" now provides powerline and friends', 'state': 'closed', 'created_at': '2013-11-24T03:33:50Z', 'closed_at': '2014-01-10T18:32:38Z', 'labels': []}
+{'issuenumber': 718, 'title': 'Powerline crashes when switching git branches for the first time', 'state': 'closed', 'created_at': '2013-11-23T07:53:02Z', 'closed_at': '2014-06-29T00:09:39Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 717, 'title': 'tmux - modification of left side; battery; date; LAN', 'state': 'closed', 'created_at': '2013-11-22T15:48:16Z', 'closed_at': '2014-11-29T17:15:20Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 713, 'title': 'Alignment issue on Terminator', 'state': 'closed', 'created_at': '2013-11-19T21:32:59Z', 'closed_at': '2014-11-29T22:00:28Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 711, 'title': 'Powerline randomly crashes', 'state': 'closed', 'created_at': '2013-11-18T12:49:08Z', 'closed_at': '2014-01-10T19:08:56Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 710, 'title': 'How to uninstall powerline from the system (or update it) ? ', 'state': 'closed', 'created_at': '2013-11-17T22:50:42Z', 'closed_at': '2013-11-18T11:09:21Z', 'labels': []}
+{'issuenumber': 702, 'title': "Can't load vim with last powerline's version", 'state': 'closed', 'created_at': '2013-11-13T15:54:41Z', 'closed_at': '2013-11-17T16:48:25Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 701, 'title': 'No glyphs in vim with st', 'state': 'closed', 'created_at': '2013-11-13T09:51:39Z', 'closed_at': '2014-11-29T23:01:18Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 700, 'title': 'Delayed execution of segments (à la CursorHold)', 'state': 'closed', 'created_at': '2013-11-13T02:38:35Z', 'closed_at': '2014-11-29T22:17:12Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 698, 'title': 'gvim shows glyph-missing-symbol instead of nbsp', 'state': 'closed', 'created_at': '2013-11-06T18:51:07Z', 'closed_at': '2015-03-11T19:54:55Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 692, 'title': 'Gentoo ebuild is unusable', 'state': 'closed', 'created_at': '2013-11-01T04:02:10Z', 'closed_at': '2014-01-17T18:02:22Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 691, 'title': "can't upgrade powerline", 'state': 'closed', 'created_at': '2013-10-31T14:04:28Z', 'closed_at': '2013-11-07T07:30:19Z', 'labels': []}
+{'issuenumber': 690, 'title': 'Vim: Powerline throws error about python object to vim value conversion', 'state': 'closed', 'created_at': '2013-10-30T21:52:48Z', 'closed_at': '2013-11-01T02:03:05Z', 'labels': []}
+{'issuenumber': 689, 'title': 'fontpatcher.py failure', 'state': 'closed', 'created_at': '2013-10-30T14:29:20Z', 'closed_at': '2014-07-27T23:12:11Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 688, 'title': 'powerline not working for tmux ', 'state': 'closed', 'created_at': '2013-10-30T11:50:39Z', 'closed_at': '2013-10-30T15:21:46Z', 'labels': []}
+{'issuenumber': 687, 'title': 'Issue loading Powerline within tmux on Mavericks', 'state': 'closed', 'created_at': '2013-10-29T14:18:28Z', 'closed_at': '2014-01-17T18:03:56Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 686, 'title': 'KeyboardInterrupt on very quick Ctrl-c Ctrl-c', 'state': 'closed', 'created_at': '2013-10-24T14:17:05Z', 'closed_at': '2014-01-17T18:05:28Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 685, 'title': 'OSX Mavericks: "bash: powerline: command not found"', 'state': 'closed', 'created_at': '2013-10-24T13:54:13Z', 'closed_at': '2013-11-14T17:37:19Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 684, 'title': '[Archlinux] No powerline symbols in urxvt with tmux', 'state': 'closed', 'created_at': '2013-10-21T18:01:01Z', 'closed_at': '2014-11-29T21:45:30Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 683, 'title': 'Flag issue as enhancement or merge branch?', 'state': 'closed', 'created_at': '2013-10-16T14:48:36Z', 'closed_at': '2013-10-17T11:20:19Z', 'labels': []}
+{'issuenumber': 681, 'title': 'Documentation could be clearer about pip naming issue', 'state': 'closed', 'created_at': '2013-10-15T23:40:16Z', 'closed_at': '2014-01-10T17:35:33Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 680, 'title': 'Virtualenv segment for Vim theme(s)', 'state': 'closed', 'created_at': '2013-10-15T14:49:50Z', 'closed_at': '2014-08-24T16:04:40Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 678, 'title': 'Infinite recursion in bash login shell children when PROMPT_COMMAND != _powerline_prompt', 'state': 'closed', 'created_at': '2013-10-15T10:18:58Z', 'closed_at': '2014-01-10T17:36:43Z', 'labels': []}
+{'issuenumber': 676, 'title': "highlighting issues with vim's substitute command", 'state': 'closed', 'created_at': '2013-10-14T18:21:59Z', 'closed_at': '2014-01-29T14:29:27Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 673, 'title': "E0A0 and E0B3 symbols don't show in urxvt", 'state': 'closed', 'created_at': '2013-10-12T12:22:59Z', 'closed_at': '2014-08-25T04:06:04Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 672, 'title': 'Git Branch in tmux statusline always shows master', 'state': 'closed', 'created_at': '2013-10-09T06:09:30Z', 'closed_at': '2014-01-17T18:13:18Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 670, 'title': 'Powerline not working with janus setup', 'state': 'closed', 'created_at': '2013-10-02T18:48:57Z', 'closed_at': '2014-02-15T22:22:52Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 669, 'title': 'Traceback on shutdown', 'state': 'closed', 'created_at': '2013-09-27T19:49:33Z', 'closed_at': '2014-01-17T18:17:56Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 668, 'title': 'The color of statusline losts when preview window is opened', 'state': 'closed', 'created_at': '2013-09-25T09:01:13Z', 'closed_at': '2014-01-26T14:25:45Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 665, 'title': 'font family option', 'state': 'closed', 'created_at': '2013-09-16T04:41:29Z', 'closed_at': '2013-09-16T12:21:53Z', 'labels': []}
+{'issuenumber': 664, 'title': 'when using with ipython, the out line is messy code', 'state': 'closed', 'created_at': '2013-09-12T12:39:22Z', 'closed_at': '2014-08-06T11:09:23Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 661, 'title': 'New Segment: Show Number of Attached Tmux Clients', 'state': 'closed', 'created_at': '2013-09-08T22:34:41Z', 'closed_at': '2014-08-24T17:19:04Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 659, 'title': 'Status_colors not working', 'state': 'closed', 'created_at': '2013-09-06T04:25:32Z', 'closed_at': '2014-01-26T14:23:40Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 657, 'title': 'read only indicator', 'state': 'closed', 'created_at': '2013-09-02T06:48:38Z', 'closed_at': '2014-01-17T18:26:41Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 656, 'title': 'Trying to use powerline with vim-nox on Ubuntu precise64', 'state': 'closed', 'created_at': '2013-08-28T04:59:38Z', 'closed_at': '2014-01-17T18:28:06Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 654, 'title': 'Latest AUR python 3 powerline package git submodule error', 'state': 'closed', 'created_at': '2013-08-27T20:37:17Z', 'closed_at': '2014-04-23T02:43:27Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 652, 'title': '"_powerline_prompt: command not found"', 'state': 'closed', 'created_at': '2013-08-26T12:50:14Z', 'closed_at': '2014-01-17T18:40:50Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 651, 'title': 'Docs not clear regarding Vundle Installation', 'state': 'closed', 'created_at': '2013-08-25T17:26:48Z', 'closed_at': '2014-01-17T18:39:31Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 649, 'title': 'issue when interacting with tools like fasd, and z', 'state': 'closed', 'created_at': '2013-08-22T20:48:54Z', 'closed_at': '2014-01-24T23:54:10Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 648, 'title': "'ascii' codec can't decode byte 0xc3 in position 16: ordinal not in range(128)", 'state': 'closed', 'created_at': '2013-08-22T17:51:10Z', 'closed_at': '2014-03-13T19:10:29Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 645, 'title': 'error message concatenation can fail on non-English locales', 'state': 'closed', 'created_at': '2013-08-20T17:56:55Z', 'closed_at': '2013-08-27T08:22:15Z', 'labels': []}
+{'issuenumber': 639, 'title': 'Syntastic error on sourcing .vimrc', 'state': 'closed', 'created_at': '2013-08-19T17:24:30Z', 'closed_at': '2013-08-20T11:18:49Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 638, 'title': 'inotify problem, running on btrfs', 'state': 'closed', 'created_at': '2013-08-19T13:21:42Z', 'closed_at': '2013-08-20T11:21:29Z', 'labels': []}
+{'issuenumber': 637, 'title': 'tmux, zsh, powerline - tmux statusline blinking', 'state': 'closed', 'created_at': '2013-08-18T12:45:45Z', 'closed_at': '2013-08-20T11:16:37Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 636, 'title': 'bash prompt seems to have invalid escape sequence', 'state': 'closed', 'created_at': '2013-08-18T01:27:55Z', 'closed_at': '2013-08-28T04:50:38Z', 'labels': []}
+{'issuenumber': 634, 'title': 'Git branch detection broken in repositories using a gitfile', 'state': 'closed', 'created_at': '2013-08-16T21:40:32Z', 'closed_at': '2013-08-20T14:51:24Z', 'labels': []}
+{'issuenumber': 633, 'title': "It makes 'Esc' command hang", 'state': 'closed', 'created_at': '2013-08-16T14:51:44Z', 'closed_at': '2013-08-20T15:30:35Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 631, 'title': 'Fails to install on Mac OS X 10.8.4 with Python 2.7.5', 'state': 'closed', 'created_at': '2013-08-15T16:49:22Z', 'closed_at': '2013-08-15T17:20:41Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 630, 'title': "Zsh's prompt displays tmux powerline's window name", 'state': 'closed', 'created_at': '2013-08-15T14:05:44Z', 'closed_at': '2013-10-11T20:44:46Z', 'labels': []}
+{'issuenumber': 629, 'title': 'Better segment documentation needed', 'state': 'closed', 'created_at': '2013-08-15T07:36:05Z', 'closed_at': '2014-08-15T07:10:01Z', 'labels': {'name': 's:duplicate'}}
+{'issuenumber': 627, 'title': 'Daemon usage instructions? Segmentation-fault with python2.7', 'state': 'closed', 'created_at': '2013-08-13T05:30:40Z', 'closed_at': '2014-01-17T19:35:02Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 625, 'title': 'VCS detection (incorrectly) crosses mount point boundaries', 'state': 'closed', 'created_at': '2013-08-08T12:29:14Z', 'closed_at': '2014-01-17T18:43:53Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 623, 'title': '`python2.7 setup.py bdist_rpm` fails with UnicodeDecodeError:', 'state': 'closed', 'created_at': '2013-08-08T07:01:24Z', 'closed_at': '2014-01-17T18:44:48Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 621, 'title': 'tmxu + zsh = no go', 'state': 'closed', 'created_at': '2013-08-06T21:56:54Z', 'closed_at': '2013-08-20T11:30:41Z', 'labels': []}
+{'issuenumber': 620, 'title': 'How add segment?', 'state': 'closed', 'created_at': '2013-08-05T18:51:02Z', 'closed_at': '2014-08-22T19:27:23Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 619, 'title': 'lib.powerline.vcs.tree_status does not return branch_dirty', 'state': 'closed', 'created_at': '2013-08-04T20:43:10Z', 'closed_at': '2014-09-02T17:48:10Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 618, 'title': "Powerline isn't shown", 'state': 'closed', 'created_at': '2013-08-03T10:33:36Z', 'closed_at': '2013-08-16T21:29:53Z', 'labels': []}
+{'issuenumber': 617, 'title': 'vim not showing git branch info', 'state': 'closed', 'created_at': '2013-08-03T08:23:40Z', 'closed_at': '2013-08-03T13:06:35Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 616, 'title': 'Init/teardown of Python is expensive', 'state': 'closed', 'created_at': '2013-08-02T16:18:07Z', 'closed_at': '2014-08-02T18:37:06Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 615, 'title': 'not showing git branch', 'state': 'closed', 'created_at': '2013-08-01T17:48:57Z', 'closed_at': '2014-01-17T18:51:18Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 614, 'title': 'bufferline integration', 'state': 'closed', 'created_at': '2013-08-01T01:59:06Z', 'closed_at': '2014-09-20T10:15:20Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 613, 'title': 'Proper mis-configuration handling', 'state': 'closed', 'created_at': '2013-07-31T01:41:41Z', 'closed_at': '2013-07-31T13:45:06Z', 'labels': []}
+{'issuenumber': 612, 'title': 'Sudo vim - Disk space error', 'state': 'closed', 'created_at': '2013-07-29T14:14:35Z', 'closed_at': '2014-02-15T22:56:51Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 611, 'title': 'Battery indicator', 'state': 'closed', 'created_at': '2013-07-28T04:01:08Z', 'closed_at': '2014-02-15T23:02:55Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 610, 'title': 'ssh hostname disappeared after sudo', 'state': 'closed', 'created_at': '2013-07-25T07:52:50Z', 'closed_at': '2014-01-17T18:57:42Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 609, 'title': 'vim: empty config.json causes powerline to freak out', 'state': 'closed', 'created_at': '2013-07-24T05:44:13Z', 'closed_at': '2013-07-31T05:56:20Z', 'labels': []}
+{'issuenumber': 608, 'title': 'Alternate branch symbol', 'state': 'closed', 'created_at': '2013-07-23T18:32:23Z', 'closed_at': '2014-08-15T06:33:53Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 607, 'title': "It seems doesn't work on my vim with OS X.", 'state': 'closed', 'created_at': '2013-07-23T16:18:01Z', 'closed_at': '2014-01-17T18:58:51Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 606, 'title': 'Problem with build', 'state': 'closed', 'created_at': '2013-07-21T06:01:04Z', 'closed_at': '2014-02-15T23:07:36Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 604, 'title': 'python-powerline-git not building', 'state': 'closed', 'created_at': '2013-07-18T09:35:17Z', 'closed_at': '2013-07-31T06:03:54Z', 'labels': []}
+{'issuenumber': 603, 'title': 'Installation Issues with Vundle', 'state': 'closed', 'created_at': '2013-07-17T03:28:15Z', 'closed_at': '2013-07-28T00:04:52Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 602, 'title': 'Error when installing in windows', 'state': 'closed', 'created_at': '2013-07-15T19:57:23Z', 'closed_at': '2014-02-15T21:24:57Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 601, 'title': 'Interval not working', 'state': 'closed', 'created_at': '2013-07-15T16:45:49Z', 'closed_at': '2014-03-14T21:31:00Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 600, 'title': 'Add powerline to Fedora repositories', 'state': 'closed', 'created_at': '2013-07-14T22:31:26Z', 'closed_at': '2014-08-15T17:22:42Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 598, 'title': 'Powerline looks weird when using vim with tmux', 'state': 'closed', 'created_at': '2013-07-14T04:15:21Z', 'closed_at': '2014-03-14T21:46:46Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 597, 'title': 'powerline-symbols sitting too high', 'state': 'closed', 'created_at': '2013-07-13T20:07:47Z', 'closed_at': '2013-07-31T06:17:24Z', 'labels': []}
+{'issuenumber': 595, 'title': 'Add segment for background jobs', 'state': 'closed', 'created_at': '2013-07-13T04:39:05Z', 'closed_at': '2014-01-17T19:02:33Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 594, 'title': 'Installation error for OSX, (--user flag)', 'state': 'closed', 'created_at': '2013-07-11T15:39:21Z', 'closed_at': '2013-07-16T16:05:51Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 593, 'title': 'Funny characters under Arch Linux terminal: Â timÂ î°Â ~Â î°Â ', 'state': 'closed', 'created_at': '2013-07-11T03:51:18Z', 'closed_at': '2013-07-31T06:22:19Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 592, 'title': 'vim freezes when closing horizontal split with powerline and nerd-tree/command-t', 'state': 'closed', 'created_at': '2013-07-10T17:19:42Z', 'closed_at': '2015-05-02T12:28:31Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 591, 'title': 'Selectively turn off divider between segment and next', 'state': 'closed', 'created_at': '2013-07-10T04:00:33Z', 'closed_at': '2013-07-31T06:19:49Z', 'labels': []}
+{'issuenumber': 590, 'title': 'New Segment Development Docs still lacking', 'state': 'closed', 'created_at': '2013-07-10T03:51:31Z', 'closed_at': '2014-08-29T06:46:47Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 589, 'title': 'Errors when running powerline.vim.setup()', 'state': 'closed', 'created_at': '2013-07-10T00:44:43Z', 'closed_at': '2014-03-14T21:36:43Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 588, 'title': 'Installation issues', 'state': 'closed', 'created_at': '2013-07-09T18:05:10Z', 'closed_at': '2014-01-26T14:14:24Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 586, 'title': "Can't import vim_getvar", 'state': 'closed', 'created_at': '2013-07-07T12:43:20Z', 'closed_at': '2013-07-07T22:17:30Z', 'labels': []}
+{'issuenumber': 585, 'title': 'Cannot display custom glyphs', 'state': 'closed', 'created_at': '2013-07-06T11:08:50Z', 'closed_at': '2013-07-08T21:14:15Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 584, 'title': "Mode segment doesn't respect exclude_modes / include_modes", 'state': 'closed', 'created_at': '2013-07-04T14:54:07Z', 'closed_at': '2014-01-17T19:19:26Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 583, 'title': 'Rendering problems with Inconsolata LGC font in gVim', 'state': 'closed', 'created_at': '2013-07-04T11:30:37Z', 'closed_at': '2014-08-25T03:59:56Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 582, 'title': 'Vim start up screen no longer shows with powerline sourced', 'state': 'closed', 'created_at': '2013-07-03T18:47:59Z', 'closed_at': '2014-01-17T22:30:01Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 578, 'title': 'libc is too old error from lib/tree_watcher.py', 'state': 'closed', 'created_at': '2013-07-02T02:21:15Z', 'closed_at': '2013-07-03T04:41:45Z', 'labels': []}
+{'issuenumber': 577, 'title': 'powerline doing unwanted net connections', 'state': 'closed', 'created_at': '2013-07-01T18:56:07Z', 'closed_at': '2014-01-17T19:14:37Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 576, 'title': 'Segments do not appear in tmux. `powerline tmux right` works', 'state': 'closed', 'created_at': '2013-07-01T15:27:51Z', 'closed_at': '2013-07-02T21:42:50Z', 'labels': []}
+{'issuenumber': 575, 'title': '[vim] - Disable powerline for particular buffer', 'state': 'closed', 'created_at': '2013-06-30T13:56:21Z', 'closed_at': '2014-01-17T19:15:02Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 574, 'title': 'Possibility for adding segment without redefining whole theme', 'state': 'closed', 'created_at': '2013-06-30T10:29:58Z', 'closed_at': '2014-09-20T10:58:26Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 570, 'title': 'Powerline looks strange when i split window.', 'state': 'closed', 'created_at': '2013-06-28T04:11:56Z', 'closed_at': '2013-06-28T12:19:10Z', 'labels': []}
+{'issuenumber': 568, 'title': '[VIM] Add light version of colorscheme solarized', 'state': 'closed', 'created_at': '2013-06-27T13:48:10Z', 'closed_at': '2014-01-17T19:15:52Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 567, 'title': 'detect file existence in file_size segment', 'state': 'closed', 'created_at': '2013-06-27T10:41:57Z', 'closed_at': '2013-06-28T11:41:17Z', 'labels': []}
+{'issuenumber': 566, 'title': 'zsh powerline displays prompt incorrectly when sshed in and inside a git repository', 'state': 'closed', 'created_at': '2013-06-27T00:47:01Z', 'closed_at': '2013-06-28T21:52:35Z', 'labels': []}
+{'issuenumber': 565, 'title': 'Modify Unicode Symbol Matrix in Docs', 'state': 'closed', 'created_at': '2013-06-26T23:24:27Z', 'closed_at': '2014-01-17T19:20:14Z', 'labels': {'name': 's:wontfix'}}
+{'issuenumber': 564, 'title': 'Add LilyTerm to Documentation Matrix', 'state': 'closed', 'created_at': '2013-06-26T21:59:30Z', 'closed_at': '2014-01-17T19:24:02Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 563, 'title': 'Dividers look bigger than status line', 'state': 'closed', 'created_at': '2013-06-26T16:28:47Z', 'closed_at': '2013-06-26T16:32:06Z', 'labels': []}
+{'issuenumber': 562, 'title': 'Segments do not appear in tmux. `powerline-tmux: command not found`', 'state': 'closed', 'created_at': '2013-06-24T16:37:08Z', 'closed_at': '2013-07-01T15:22:49Z', 'labels': []}
+{'issuenumber': 561, 'title': 'Install problem when try `python from ...`', 'state': 'closed', 'created_at': '2013-06-24T08:08:37Z', 'closed_at': '2014-01-17T19:24:22Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 560, 'title': 'Linux & Powerline & Fonts', 'state': 'closed', 'created_at': '2013-06-24T07:37:59Z', 'closed_at': '2013-06-28T12:24:52Z', 'labels': []}
+{'issuenumber': 557, 'title': 'strange issue when using powerline with tmux (Mac OSX)', 'state': 'closed', 'created_at': '2013-06-22T13:15:26Z', 'closed_at': '2014-01-17T19:24:45Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 556, 'title': 'display total lines', 'state': 'closed', 'created_at': '2013-06-21T02:10:11Z', 'closed_at': '2014-08-03T06:40:02Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 555, 'title': 'Problem with git repo branch segment not displaying colors properly', 'state': 'closed', 'created_at': '2013-06-20T08:43:09Z', 'closed_at': '2013-06-22T07:04:54Z', 'labels': []}
+{'issuenumber': 554, 'title': 'Conditional settings?', 'state': 'closed', 'created_at': '2013-06-20T05:38:08Z', 'closed_at': '2013-06-22T13:46:30Z', 'labels': []}
+{'issuenumber': 553, 'title': 'OSX, brew: Traceback, ImportError, Symbol not found: __PyInt_AsInt', 'state': 'closed', 'created_at': '2013-06-19T21:08:57Z', 'closed_at': '2013-06-19T22:32:43Z', 'labels': []}
+{'issuenumber': 552, 'title': 'Homebrew Python, Macvim: getting user scheme error (--user)', 'state': 'closed', 'created_at': '2013-06-19T00:21:12Z', 'closed_at': '2014-01-17T19:27:09Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 550, 'title': 'Vim hangs when a parent directory cannot be browsed', 'state': 'closed', 'created_at': '2013-06-18T21:54:27Z', 'closed_at': '2014-01-17T19:31:48Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 546, 'title': "Powerline doesn't load - MacVim v7.3 Patches: 1-1169", 'state': 'closed', 'created_at': '2013-06-12T21:20:51Z', 'closed_at': '2014-01-17T19:36:10Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 545, 'title': 'error opening help when in file explorer - AssertionError: Non-unique window ID', 'state': 'closed', 'created_at': '2013-06-12T20:04:21Z', 'closed_at': '2013-06-28T11:41:17Z', 'labels': []}
+{'issuenumber': 543, 'title': "Powerline hangs when there's a circular symbolic link inside a vc'd directory", 'state': 'closed', 'created_at': '2013-06-12T09:07:31Z', 'closed_at': '2013-06-28T11:54:18Z', 'labels': []}
+{'issuenumber': 542, 'title': 'Looking for an up-to-date fix for Powerline with MacVim', 'state': 'closed', 'created_at': '2013-06-11T19:54:52Z', 'closed_at': '2014-01-17T19:38:24Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 539, 'title': "Segment for displaying the current position of Vim's view in the file", 'state': 'closed', 'created_at': '2013-06-10T10:58:43Z', 'closed_at': '2014-01-23T11:52:00Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 538, 'title': 'tmux Powerline on OSX', 'state': 'closed', 'created_at': '2013-06-09T22:32:36Z', 'closed_at': '2013-06-22T16:22:26Z', 'labels': []}
+{'issuenumber': 537, 'title': 'Non-unique window ID tracebacks in vim', 'state': 'closed', 'created_at': '2013-06-07T14:12:07Z', 'closed_at': '2013-06-28T11:41:17Z', 'labels': []}
+{'issuenumber': 536, 'title': 'Broken in Vim from commit 9f20fb1f3f1881da0979778f6d83a613a5f3a3a3', 'state': 'closed', 'created_at': '2013-06-06T10:55:48Z', 'closed_at': '2013-06-23T19:08:27Z', 'labels': []}
+{'issuenumber': 535, 'title': 'Question: Passing data into powerline from another app', 'state': 'closed', 'created_at': '2013-06-03T21:54:36Z', 'closed_at': '2014-01-17T19:43:32Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 534, 'title': 'Error detected while processing /vim/bundle/powerline/powerline/bindings/vim/plugin/powerline.vim', 'state': 'closed', 'created_at': '2013-06-03T18:02:43Z', 'closed_at': '2014-01-17T19:44:21Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 533, 'title': 'Creating a 3rd party segment?', 'state': 'closed', 'created_at': '2013-06-03T16:29:04Z', 'closed_at': '2014-01-17T19:45:03Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 532, 'title': 'fish support', 'state': 'closed', 'created_at': '2013-06-03T15:24:10Z', 'closed_at': '2014-01-26T14:11:13Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 531, 'title': 'Exception while computing segment', 'state': 'closed', 'created_at': '2013-06-01T15:31:31Z', 'closed_at': '2014-09-20T10:48:59Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 527, 'title': 'Zsh and Bash should not require `powerline` to be in $PATH', 'state': 'closed', 'created_at': '2013-05-29T15:16:28Z', 'closed_at': '2014-01-10T17:58:17Z', 'labels': []}
+{'issuenumber': 526, 'title': 'now_playing segment enhancement request', 'state': 'closed', 'created_at': '2013-05-27T20:39:58Z', 'closed_at': '2014-01-17T19:53:21Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 525, 'title': 'vim: Unknown Function: Powerline', 'state': 'closed', 'created_at': '2013-05-27T15:36:17Z', 'closed_at': '2014-01-17T19:53:54Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 524, 'title': 'Should we include segments for common vim plugins?', 'state': 'closed', 'created_at': '2013-05-27T11:50:39Z', 'closed_at': '2014-06-28T13:45:46Z', 'labels': {'name': 't:question'}}
+{'issuenumber': 522, 'title': 'Trace when ipython exits.', 'state': 'closed', 'created_at': '2013-05-24T14:53:13Z', 'closed_at': '2014-01-17T19:54:54Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 521, 'title': 'vim powerline question', 'state': 'closed', 'created_at': '2013-05-24T04:22:41Z', 'closed_at': '2014-01-17T19:55:46Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 519, 'title': 'E859 error in gentoo', 'state': 'closed', 'created_at': '2013-05-24T01:10:44Z', 'closed_at': '2014-01-17T19:59:34Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 517, 'title': 'Broken in Vim since 07a130ab25edc41d83470c374ccdab6be4ccad84', 'state': 'closed', 'created_at': '2013-05-23T09:15:21Z', 'closed_at': '2013-07-02T16:32:52Z', 'labels': []}
+{'issuenumber': 516, 'title': 'Vim local overrides cause python exceptions', 'state': 'closed', 'created_at': '2013-05-23T06:19:00Z', 'closed_at': '2013-06-28T12:27:12Z', 'labels': []}
+{'issuenumber': 514, 'title': 'By default do not require a patched font', 'state': 'closed', 'created_at': '2013-05-22T08:30:28Z', 'closed_at': '2014-08-15T06:39:42Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 512, 'title': 'Fallback from fancy', 'state': 'closed', 'created_at': '2013-05-21T17:02:00Z', 'closed_at': '2013-05-21T17:04:41Z', 'labels': []}
+{'issuenumber': 511, 'title': 'Python Error on Startup', 'state': 'closed', 'created_at': '2013-05-21T16:07:51Z', 'closed_at': '2013-05-22T11:58:49Z', 'labels': []}
+{'issuenumber': 510, 'title': 'rxvt-unicode problems with virtualenv char (U+24D4)', 'state': 'closed', 'created_at': '2013-05-21T14:04:55Z', 'closed_at': '2014-08-25T03:52:53Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 509, 'title': 'Trap Ctrl+C in bash/zsh', 'state': 'closed', 'created_at': '2013-05-21T11:23:13Z', 'closed_at': '2014-01-17T20:02:43Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 508, 'title': 'ZSH vi-mode status segment', 'state': 'closed', 'created_at': '2013-05-20T20:01:53Z', 'closed_at': '2014-01-26T18:38:20Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 507, 'title': 'Problems loading solarized colorschemes for vim and shell', 'state': 'closed', 'created_at': '2013-05-20T18:37:06Z', 'closed_at': '2013-05-20T20:02:40Z', 'labels': []}
+{'issuenumber': 506, 'title': 'Powerline makes completion popup menu disappear.', 'state': 'closed', 'created_at': '2013-05-20T09:51:53Z', 'closed_at': '2013-11-03T12:41:02Z', 'labels': []}
+{'issuenumber': 504, 'title': 'Feature: New Segment for Remaining Battery Capacity', 'state': 'closed', 'created_at': '2013-05-20T02:48:39Z', 'closed_at': '2014-01-17T20:06:34Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 503, 'title': 'Inconsolata angle brackets extend too high', 'state': 'closed', 'created_at': '2013-05-19T21:12:01Z', 'closed_at': '2013-05-21T08:16:21Z', 'labels': []}
+{'issuenumber': 502, 'title': 'Powerline CWD segment should use %~ substitutions', 'state': 'closed', 'created_at': '2013-05-19T19:38:19Z', 'closed_at': '2014-08-24T16:08:21Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 501, 'title': 'Status bar blinking in tmux (But weather, ext ip and such are off)', 'state': 'closed', 'created_at': '2013-05-19T18:28:27Z', 'closed_at': '2014-01-17T20:07:25Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 499, 'title': 'Improved qtile widgets', 'state': 'closed', 'created_at': '2013-05-17T15:36:43Z', 'closed_at': '2014-01-17T20:08:56Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 498, 'title': 'Powerline + git + gVim on Windows 7', 'state': 'closed', 'created_at': '2013-05-15T13:31:34Z', 'closed_at': '2014-06-25T17:27:16Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 497, 'title': "ipython: AttributeError: 'ConfigurableIpythonPowerline' object has no attribute 'renderer'", 'state': 'closed', 'created_at': '2013-05-14T12:11:44Z', 'closed_at': '2013-05-17T15:39:44Z', 'labels': []}
+{'issuenumber': 495, 'title': 'Fails to adapt to terminal width inside SSH session', 'state': 'closed', 'created_at': '2013-05-13T15:27:41Z', 'closed_at': '2013-05-19T03:04:27Z', 'labels': []}
+{'issuenumber': 494, 'title': 'Lengthy error spew if .git directory is not readable', 'state': 'closed', 'created_at': '2013-05-13T12:54:48Z', 'closed_at': '2013-05-15T12:37:07Z', 'labels': []}
+{'issuenumber': 493, 'title': "Use with zpython: argument of type 'NoneType' is not iterable", 'state': 'closed', 'created_at': '2013-05-13T12:47:00Z', 'closed_at': '2013-05-21T08:13:58Z', 'labels': []}
+{'issuenumber': 491, 'title': 'Add Examples', 'state': 'closed', 'created_at': '2013-05-12T17:57:35Z', 'closed_at': '2014-02-15T23:13:02Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 490, 'title': 'VIM Errors on Quit', 'state': 'closed', 'created_at': '2013-05-12T12:15:08Z', 'closed_at': '2014-01-17T20:10:08Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 488, 'title': 'custom matchers', 'state': 'closed', 'created_at': '2013-05-10T17:32:25Z', 'closed_at': '2014-01-17T20:12:01Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 487, 'title': 'Can not load powerline successly', 'state': 'closed', 'created_at': '2013-05-10T03:53:11Z', 'closed_at': '2014-01-17T20:12:44Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 486, 'title': 'error when exiting file explorer', 'state': 'closed', 'created_at': '2013-05-09T01:32:27Z', 'closed_at': '2013-05-21T08:13:58Z', 'labels': []}
+{'issuenumber': 485, 'title': "Consolas font doesn't align", 'state': 'closed', 'created_at': '2013-05-08T18:17:50Z', 'closed_at': '2013-05-10T11:15:35Z', 'labels': {'name': 's:duplicate'}}
+{'issuenumber': 483, 'title': 'Option To Define Configuration Directory', 'state': 'closed', 'created_at': '2013-05-07T18:53:12Z', 'closed_at': '2013-05-10T11:10:54Z', 'labels': []}
+{'issuenumber': 482, 'title': 'Vim Fugitive + Git Status Symbols', 'state': 'closed', 'created_at': '2013-05-06T20:45:18Z', 'closed_at': '2014-01-17T20:13:48Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 481, 'title': 'svn does not show.', 'state': 'closed', 'created_at': '2013-05-03T20:19:01Z', 'closed_at': '2013-05-06T13:54:29Z', 'labels': []}
+{'issuenumber': 480, 'title': 'IndexError with grad_list via colorscheme.py', 'state': 'closed', 'created_at': '2013-05-03T14:05:09Z', 'closed_at': '2014-08-29T21:56:48Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 477, 'title': 'Feature: New Segment For Printing Arbitrary Environment Variables', 'state': 'closed', 'created_at': '2013-05-02T12:41:20Z', 'closed_at': '2013-07-10T12:23:29Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 475, 'title': 'very  slow with tagbar plugin ', 'state': 'closed', 'created_at': '2013-05-02T07:26:05Z', 'closed_at': '2013-05-02T07:54:43Z', 'labels': {'name': 's:wontfix'}}
+{'issuenumber': 472, 'title': 'Python Error at Vim Startup', 'state': 'closed', 'created_at': '2013-04-30T11:29:09Z', 'closed_at': '2014-08-16T15:51:46Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 471, 'title': 'Zpython and Powerline type error', 'state': 'closed', 'created_at': '2013-04-29T21:50:45Z', 'closed_at': '2013-05-06T15:20:23Z', 'labels': []}
+{'issuenumber': 469, 'title': 'Anyone knows how to make slight change of colortheme to a local theme (vim) ?', 'state': 'closed', 'created_at': '2013-04-27T18:22:49Z', 'closed_at': '2014-08-05T23:37:09Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 468, 'title': 'Clipping/alignment issue + Funny special character', 'state': 'closed', 'created_at': '2013-04-26T23:08:13Z', 'closed_at': '2014-08-25T03:54:23Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 467, 'title': 'cwd segment not working in tmux', 'state': 'closed', 'created_at': '2013-04-26T02:29:33Z', 'closed_at': '2014-06-25T16:42:53Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 466, 'title': 'Multiple issues with tmux over SSH', 'state': 'closed', 'created_at': '2013-04-24T15:13:15Z', 'closed_at': '2014-01-17T20:23:32Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 465, 'title': 'Vim: powerline is constantly collecting information (git-bisect result inside)', 'state': 'closed', 'created_at': '2013-04-24T12:36:51Z', 'closed_at': '2014-01-17T20:25:56Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 464, 'title': 'Vim: segments for buffer and window number', 'state': 'closed', 'created_at': '2013-04-24T12:23:53Z', 'closed_at': '2014-09-20T10:20:50Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 463, 'title': 'Error in atexit._run_exitfuncs', 'state': 'closed', 'created_at': '2013-04-24T08:50:22Z', 'closed_at': '2013-04-26T22:24:52Z', 'labels': []}
+{'issuenumber': 462, 'title': 'multi-line shell', 'state': 'closed', 'created_at': '2013-04-24T00:24:32Z', 'closed_at': '2014-06-24T19:50:04Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 461, 'title': 'Override vim_mode in segments/vim.py from JSON', 'state': 'closed', 'created_at': '2013-04-23T20:24:19Z', 'closed_at': '2013-04-24T17:37:32Z', 'labels': []}
+{'issuenumber': 459, 'title': 'Feature detection in powerline.', 'state': 'closed', 'created_at': '2013-04-23T09:48:12Z', 'closed_at': '2014-01-17T20:27:30Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 458, 'title': 'The :help powerline docs seem outdated.', 'state': 'closed', 'created_at': '2013-04-23T09:40:19Z', 'closed_at': '2013-05-06T13:57:04Z', 'labels': {'name': 's:wontfix'}}
+{'issuenumber': 457, 'title': 'Error detected while processing function Powerline', 'state': 'closed', 'created_at': '2013-04-23T06:57:14Z', 'closed_at': '2014-01-17T20:28:32Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 456, 'title': 'Weird Phantom Vim Processes', 'state': 'closed', 'created_at': '2013-04-22T23:20:21Z', 'closed_at': '2014-01-17T20:29:55Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 455, 'title': "powerline in vim doesn't work, in tmux half of it works", 'state': 'closed', 'created_at': '2013-04-22T22:04:59Z', 'closed_at': '2013-04-23T07:55:43Z', 'labels': []}
+{'issuenumber': 453, 'title': 'Still unable to see the >  and the < separators in my (terminal vim) and urxvt.', 'state': 'closed', 'created_at': '2013-04-22T17:44:04Z', 'closed_at': '2014-01-17T20:31:28Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 452, 'title': 'Powerline font rendering in PutTTY', 'state': 'closed', 'created_at': '2013-04-22T15:36:32Z', 'closed_at': '2014-08-25T04:01:45Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 450, 'title': "Vim modelines shouldn't include file encoding", 'state': 'closed', 'created_at': '2013-04-22T01:29:12Z', 'closed_at': '2013-04-22T10:13:55Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 449, 'title': 'problem with solarized colorscheme, virtcol indicator uses hard divider', 'state': 'closed', 'created_at': '2013-04-21T20:01:54Z', 'closed_at': '2014-02-15T22:52:47Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 447, 'title': 'Weird errors when starting vim on OS X 10.6 - Works fine nonetheless', 'state': 'closed', 'created_at': '2013-04-20T05:42:02Z', 'closed_at': '2014-01-26T14:05:08Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 446, 'title': 'Powerline rendering messed up in terminal and macvim', 'state': 'closed', 'created_at': '2013-04-19T03:47:08Z', 'closed_at': '2013-04-23T15:05:47Z', 'labels': []}
+{'issuenumber': 445, 'title': 'Enhance documentation on the now_playing segment', 'state': 'closed', 'created_at': '2013-04-18T13:57:05Z', 'closed_at': '2014-10-12T12:55:10Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 441, 'title': 'Bundle pygit2 for the git segment', 'state': 'closed', 'created_at': '2013-04-17T09:49:29Z', 'closed_at': '2013-04-29T10:47:16Z', 'labels': []}
+{'issuenumber': 437, 'title': 'Powerline seems to ignore my config.json', 'state': 'closed', 'created_at': '2013-04-16T20:18:02Z', 'closed_at': '2014-04-08T02:10:51Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 435, 'title': 'Incorrect file name', 'state': 'closed', 'created_at': '2013-04-15T17:29:19Z', 'closed_at': '2013-04-16T08:50:29Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 432, 'title': 'Vim compiled with Python 2.6+ or 3.2+', 'state': 'closed', 'created_at': '2013-04-13T11:01:44Z', 'closed_at': '2013-04-13T21:00:21Z', 'labels': []}
+{'issuenumber': 430, 'title': 'Special symbols not displaying', 'state': 'closed', 'created_at': '2013-04-13T06:35:04Z', 'closed_at': '2013-04-16T04:36:38Z', 'labels': []}
+{'issuenumber': 428, 'title': 'No Vim segments displaying', 'state': 'closed', 'created_at': '2013-04-12T21:40:17Z', 'closed_at': '2013-04-12T22:53:39Z', 'labels': []}
+{'issuenumber': 427, 'title': 'stuck when opening an already opened file', 'state': 'closed', 'created_at': '2013-04-12T19:37:28Z', 'closed_at': '2013-04-12T19:53:51Z', 'labels': []}
+{'issuenumber': 426, 'title': 'GVim on Windows flickers DOS window', 'state': 'closed', 'created_at': '2013-04-12T18:04:34Z', 'closed_at': '2013-04-12T18:15:01Z', 'labels': []}
+{'issuenumber': 425, 'title': 'GVim on Windows ', 'state': 'closed', 'created_at': '2013-04-12T18:04:34Z', 'closed_at': '2013-04-12T18:11:48Z', 'labels': []}
+{'issuenumber': 424, 'title': 'Where are some patched fonts?', 'state': 'closed', 'created_at': '2013-04-12T04:50:21Z', 'closed_at': '2013-04-12T14:02:56Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 422, 'title': 'Add support for clementine media player', 'state': 'closed', 'created_at': '2013-04-11T23:41:27Z', 'closed_at': '2014-08-24T14:07:17Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 421, 'title': 'Logging messages cause UnicodeDecodeError in Windows non-latin version', 'state': 'closed', 'created_at': '2013-04-11T14:29:31Z', 'closed_at': '2014-03-14T21:33:24Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 420, 'title': 'Not showing special chars', 'state': 'closed', 'created_at': '2013-04-11T12:33:16Z', 'closed_at': '2014-09-20T16:10:26Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 419, 'title': 'Statusline for Special Windows', 'state': 'closed', 'created_at': '2013-04-10T09:41:32Z', 'closed_at': '2013-04-11T09:53:28Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 418, 'title': 'Allow *merging* as opposed to *overwriting* of config [$15 awarded]', 'state': 'closed', 'created_at': '2013-04-10T08:21:08Z', 'closed_at': '2014-08-05T10:05:24Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 417, 'title': 'Mutable data structure shared between threads in network load segment', 'state': 'closed', 'created_at': '2013-04-10T07:57:14Z', 'closed_at': '2013-05-27T11:40:52Z', 'labels': []}
+{'issuenumber': 416, 'title': 'Installation Instructions for Windows/Pathogen', 'state': 'closed', 'created_at': '2013-04-09T17:57:19Z', 'closed_at': '2013-04-11T08:42:15Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 415, 'title': 'Powerline does not find the config.js', 'state': 'closed', 'created_at': '2013-04-09T11:05:42Z', 'closed_at': '2013-04-09T20:20:56Z', 'labels': []}
+{'issuenumber': 414, 'title': 'Installed with vundle, nothing happens.', 'state': 'closed', 'created_at': '2013-04-09T08:09:30Z', 'closed_at': '2013-04-09T08:35:37Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 413, 'title': "powerline can't find it self", 'state': 'closed', 'created_at': '2013-04-09T07:52:02Z', 'closed_at': '2014-02-15T21:22:44Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 411, 'title': 'Vim Error detected while processing ColorScheme Auto commands', 'state': 'closed', 'created_at': '2013-04-08T20:20:46Z', 'closed_at': '2013-04-09T08:30:08Z', 'labels': []}
+{'issuenumber': 409, 'title': "data['path'] in segment.get_function is empty?", 'state': 'closed', 'created_at': '2013-04-08T15:54:36Z', 'closed_at': '2013-04-09T09:43:33Z', 'labels': []}
+{'issuenumber': 406, 'title': 'Error on vim startup', 'state': 'closed', 'created_at': '2013-04-07T21:29:26Z', 'closed_at': '2013-04-08T19:42:35Z', 'labels': []}
+{'issuenumber': 405, 'title': 'Error on vim startup', 'state': 'closed', 'created_at': '2013-04-07T21:28:50Z', 'closed_at': '2013-04-07T21:30:41Z', 'labels': []}
+{'issuenumber': 404, 'title': 'optionally use separators', 'state': 'closed', 'created_at': '2013-04-07T21:25:16Z', 'closed_at': '2013-04-07T21:47:42Z', 'labels': []}
+{'issuenumber': 401, 'title': 'Traceback in vim every time line renders', 'state': 'closed', 'created_at': '2013-04-07T01:22:09Z', 'closed_at': '2013-04-07T05:00:21Z', 'labels': []}
+{'issuenumber': 399, 'title': 'Fontproblem with Gentoo ebuild', 'state': 'closed', 'created_at': '2013-04-06T21:47:26Z', 'closed_at': '2014-01-17T20:38:25Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 397, 'title': 'gvim hangs when run from shell', 'state': 'closed', 'created_at': '2013-04-05T20:50:57Z', 'closed_at': '2014-01-17T22:07:37Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 396, 'title': 'Higher CPU Load', 'state': 'closed', 'created_at': '2013-04-05T18:42:44Z', 'closed_at': '2013-05-06T13:33:58Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 395, 'title': 'Documentation: Make powerline easier to install and more portable', 'state': 'closed', 'created_at': '2013-04-04T19:39:32Z', 'closed_at': '2014-02-16T00:21:22Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 393, 'title': 'Issues on Windows', 'state': 'closed', 'created_at': '2013-04-03T19:19:51Z', 'closed_at': '2013-04-10T08:37:54Z', 'labels': []}
+{'issuenumber': 391, 'title': 'Branch and weather troubles.', 'state': 'closed', 'created_at': '2013-04-03T18:50:15Z', 'closed_at': '2014-02-16T11:37:37Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 390, 'title': 'Integration with oh-my-zsh (port as a theme)', 'state': 'closed', 'created_at': '2013-04-03T16:46:14Z', 'closed_at': '2014-01-17T20:41:46Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 389, 'title': 'zsh change directory without cd causes permission denied', 'state': 'closed', 'created_at': '2013-04-03T14:21:14Z', 'closed_at': '2013-05-10T11:14:03Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 388, 'title': 'Vim trailing whitespace segment', 'state': 'closed', 'created_at': '2013-04-03T04:14:27Z', 'closed_at': '2014-08-02T14:41:57Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 387, 'title': 'Current powerline fails in zsh/bash with no psutil installed', 'state': 'closed', 'created_at': '2013-04-03T04:00:04Z', 'closed_at': '2013-04-03T06:10:20Z', 'labels': []}
+{'issuenumber': 386, 'title': 'glyphs fonts error ?', 'state': 'closed', 'created_at': '2013-04-03T03:08:07Z', 'closed_at': '2014-11-29T21:53:03Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 385, 'title': 'Powerline causes gvim to hang when closing window', 'state': 'closed', 'created_at': '2013-04-02T23:53:13Z', 'closed_at': '2013-04-08T09:28:45Z', 'labels': []}
+{'issuenumber': 384, 'title': 'Newest commit of powerline makes vim unusable', 'state': 'closed', 'created_at': '2013-04-02T20:10:29Z', 'closed_at': '2013-04-12T17:01:14Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 383, 'title': 'Empty segment?', 'state': 'closed', 'created_at': '2013-04-02T20:08:14Z', 'closed_at': '2014-01-17T22:12:51Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 382, 'title': 'Vim plugin segments', 'state': 'closed', 'created_at': '2013-04-02T18:52:28Z', 'closed_at': '2013-04-03T05:56:31Z', 'labels': []}
+{'issuenumber': 379, 'title': 'Bug bash binding', 'state': 'closed', 'created_at': '2013-04-02T14:20:53Z', 'closed_at': '2013-04-02T14:50:30Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 378, 'title': "Documentation doesn't show Vundle configuration", 'state': 'closed', 'created_at': '2013-04-02T05:56:13Z', 'closed_at': '2014-08-02T23:40:28Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 377, 'title': 'Segment to display current tag in source file?', 'state': 'closed', 'created_at': '2013-04-01T21:46:29Z', 'closed_at': '2013-08-20T15:32:33Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 376, 'title': 'make powerline syntastic aware', 'state': 'closed', 'created_at': '2013-04-01T09:22:05Z', 'closed_at': '2013-04-12T08:09:22Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 372, 'title': 'powerline splits commands', 'state': 'closed', 'created_at': '2013-03-30T14:08:17Z', 'closed_at': '2014-01-17T20:44:30Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 371, 'title': 'Gvim hangs indefinitely on shutdown', 'state': 'closed', 'created_at': '2013-03-29T23:07:22Z', 'closed_at': '2014-08-16T15:49:00Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 370, 'title': 'Default theme right segment in tmux never show up', 'state': 'closed', 'created_at': '2013-03-29T00:04:15Z', 'closed_at': '2013-04-02T08:30:33Z', 'labels': []}
+{'issuenumber': 369, 'title': 'Install powerline with Hombrew', 'state': 'closed', 'created_at': '2013-03-27T22:44:34Z', 'closed_at': '2014-09-04T14:22:46Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 368, 'title': 'Vim becommes unresponsive at shutdown with powerline', 'state': 'closed', 'created_at': '2013-03-27T12:10:33Z', 'closed_at': '2013-04-02T09:31:56Z', 'labels': []}
+{'issuenumber': 367, 'title': 'develop branch completely broken with powerline-daemon', 'state': 'closed', 'created_at': '2013-03-26T08:48:38Z', 'closed_at': '2014-02-20T17:50:56Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 364, 'title': 'IPython exits immediately', 'state': 'closed', 'created_at': '2013-03-24T23:59:59Z', 'closed_at': '2014-01-26T13:57:22Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 361, 'title': 'Logging error in latest commit', 'state': 'closed', 'created_at': '2013-03-24T16:16:03Z', 'closed_at': '2013-03-24T18:08:16Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 360, 'title': 'AttributeError with zpython after 154fe12', 'state': 'closed', 'created_at': '2013-03-24T15:34:08Z', 'closed_at': '2013-03-24T15:51:01Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 359, 'title': 'Gap between background arrow and rectangle blocks (fontconfig mode, Konsole, Zsh)', 'state': 'closed', 'created_at': '2013-03-24T13:13:08Z', 'closed_at': '2014-11-29T21:58:37Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 356, 'title': 'Command "py import sys, vim" not available, "TypeError: must be str, not bytes", and "KeyError: b\'n\'"', 'state': 'closed', 'created_at': '2013-03-23T22:29:25Z', 'closed_at': '2013-03-24T15:19:23Z', 'labels': []}
+{'issuenumber': 353, 'title': 'Tmux solarized colorscheme', 'state': 'closed', 'created_at': '2013-03-23T07:49:30Z', 'closed_at': '2014-11-29T18:02:35Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 352, 'title': 'Vim does not start', 'state': 'closed', 'created_at': '2013-03-23T06:27:08Z', 'closed_at': '2014-01-17T20:47:41Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 351, 'title': 'Qtile plugin crashes on a clean install', 'state': 'closed', 'created_at': '2013-03-23T04:37:35Z', 'closed_at': '2015-05-17T08:50:02Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 350, 'title': 'Terminal Vim not showing symbols, Tmux Powerline and MacVim Powerline working.', 'state': 'closed', 'created_at': '2013-03-23T04:27:00Z', 'closed_at': '2013-03-23T10:00:51Z', 'labels': []}
+{'issuenumber': 347, 'title': 'urxvt powerline symbols fixed. ', 'state': 'closed', 'created_at': '2013-03-22T09:46:05Z', 'closed_at': '2014-02-16T00:33:00Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 346, 'title': 'Network Load Segment Error on OS X', 'state': 'closed', 'created_at': '2013-03-21T21:09:47Z', 'closed_at': '2014-01-17T20:50:21Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 344, 'title': 'Python path not set when vim plugin loads', 'state': 'closed', 'created_at': '2013-03-21T18:36:40Z', 'closed_at': '2013-03-24T16:12:31Z', 'labels': []}
+{'issuenumber': 342, 'title': "Doesn't work in zsh", 'state': 'closed', 'created_at': '2013-03-20T11:38:07Z', 'closed_at': '2013-03-21T16:26:45Z', 'labels': []}
+{'issuenumber': 341, 'title': 'common branch segment with coloring errors out very easily', 'state': 'closed', 'created_at': '2013-03-20T09:38:49Z', 'closed_at': '2014-08-24T14:02:50Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 340, 'title': 'Log errors instead of crashing', 'state': 'closed', 'created_at': '2013-03-19T20:58:52Z', 'closed_at': '2013-03-24T16:12:31Z', 'labels': []}
+{'issuenumber': 337, 'title': 'Request: Update instructions', 'state': 'closed', 'created_at': '2013-03-18T17:05:41Z', 'closed_at': '2014-08-24T13:36:43Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 335, 'title': 'Threaded version of various segments broken', 'state': 'closed', 'created_at': '2013-03-18T11:31:23Z', 'closed_at': '2013-03-19T08:52:44Z', 'labels': []}
+{'issuenumber': 332, 'title': 'system load segment returns non-normalized values', 'state': 'closed', 'created_at': '2013-03-16T06:39:24Z', 'closed_at': '2013-03-24T15:19:22Z', 'labels': []}
+{'issuenumber': 326, 'title': 'vcs branch coloring breaks if repo returns None from status', 'state': 'closed', 'created_at': '2013-03-14T13:22:41Z', 'closed_at': '2013-03-15T13:27:25Z', 'labels': []}
+{'issuenumber': 324, 'title': 'Vim is very slow on large bzr repository.', 'state': 'closed', 'created_at': '2013-03-13T09:11:54Z', 'closed_at': '2013-03-15T13:27:25Z', 'labels': []}
+{'issuenumber': 322, 'title': '[enhancement] Add file_directory Segment Option to Expand Working Directory', 'state': 'closed', 'created_at': '2013-03-12T18:51:22Z', 'closed_at': '2013-03-15T13:27:25Z', 'labels': []}
+{'issuenumber': 320, 'title': 'Arch Linux: Install fonts to OTF/ instead of TTF/', 'state': 'closed', 'created_at': '2013-03-12T11:39:20Z', 'closed_at': '2013-03-13T13:10:39Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 319, 'title': "fc-cache isn't adding patched font.", 'state': 'closed', 'created_at': '2013-03-12T00:45:35Z', 'closed_at': '2013-03-12T14:42:47Z', 'labels': []}
+{'issuenumber': 318, 'title': 'Git segment problems.', 'state': 'closed', 'created_at': '2013-03-11T21:58:19Z', 'closed_at': '2013-03-13T10:13:02Z', 'labels': []}
+{'issuenumber': 317, 'title': 'Divider symbols not appearing in urxvt', 'state': 'closed', 'created_at': '2013-03-11T20:53:09Z', 'closed_at': '2013-03-11T21:03:12Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 314, 'title': 'Modelines on top of every Python file?', 'state': 'closed', 'created_at': '2013-03-10T19:05:53Z', 'closed_at': '2013-03-11T07:22:35Z', 'labels': {'name': 't:question'}}
+{'issuenumber': 307, 'title': 'mode name  was truncated when editing unicode filename', 'state': 'closed', 'created_at': '2013-03-10T05:04:29Z', 'closed_at': '2013-03-12T12:13:32Z', 'labels': []}
+{'issuenumber': 303, 'title': 'Multiple problems getting powerline to work OSX 10.8.2', 'state': 'closed', 'created_at': '2013-03-08T17:30:12Z', 'closed_at': '2013-03-08T18:59:10Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 302, 'title': 'Move fontpatcher to powerline-fontpatcher repo', 'state': 'closed', 'created_at': '2013-03-08T17:11:27Z', 'closed_at': '2014-08-03T09:45:35Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 301, 'title': 'Make more segments use gradients', 'state': 'closed', 'created_at': '2013-03-08T16:41:01Z', 'closed_at': '2013-03-24T15:19:22Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 300, 'title': 'No fontpatcher on pip installed powerline on OSX', 'state': 'closed', 'created_at': '2013-03-08T16:16:27Z', 'closed_at': '2014-07-27T23:26:05Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 299, 'title': 'Add an Open Source license.', 'state': 'closed', 'created_at': '2013-03-08T13:44:05Z', 'closed_at': '2013-03-11T14:54:31Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 298, 'title': 'Unable to import powerline package on Arch', 'state': 'closed', 'created_at': '2013-03-08T12:50:12Z', 'closed_at': '2014-09-20T10:10:31Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 296, 'title': 'Compatibility problem with vim-gitgutter (de-colourizes)', 'state': 'closed', 'created_at': '2013-03-07T14:33:10Z', 'closed_at': '2013-03-07T14:55:31Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 295, 'title': 'Python3 tests partly fail due to None globals in multiprocessing', 'state': 'closed', 'created_at': '2013-03-05T16:53:01Z', 'closed_at': '2013-03-18T07:26:26Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 294, 'title': 'Breaks in vim when setting LC_ALL=C', 'state': 'closed', 'created_at': '2013-03-05T13:27:56Z', 'closed_at': '2013-03-05T15:33:44Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 292, 'title': "KeyError: 'spaces'", 'state': 'closed', 'created_at': '2013-03-05T08:16:29Z', 'closed_at': '2013-03-05T12:11:12Z', 'labels': {'name': 's:wontfix'}}
+{'issuenumber': 291, 'title': 'Fix Arch Linux PKGBUILDs', 'state': 'closed', 'created_at': '2013-03-04T15:37:28Z', 'closed_at': '2013-03-08T17:04:20Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 290, 'title': 'ebuild fails with "Package installs \'tests\' package, file collisions likely."', 'state': 'closed', 'created_at': '2013-03-04T15:29:18Z', 'closed_at': '2013-03-04T15:29:50Z', 'labels': {'name': 's:duplicate'}}
+{'issuenumber': 289, 'title': 'ebuild fails with "Package installs \'tests\' package, file collisions likely."', 'state': 'closed', 'created_at': '2013-03-04T15:29:02Z', 'closed_at': '2013-03-11T14:54:31Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 288, 'title': 'Mercurial tests fail sometimes', 'state': 'closed', 'created_at': '2013-03-04T13:48:43Z', 'closed_at': '2014-01-30T13:53:16Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 287, 'title': 'Note to contributors: Commit/PR guidelines', 'state': 'closed', 'created_at': '2013-03-03T20:36:53Z', 'closed_at': '2014-08-15T16:21:14Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 286, 'title': 'Incompatible with jedi-vim', 'state': 'closed', 'created_at': '2013-03-03T19:56:32Z', 'closed_at': '2014-06-28T17:16:55Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 281, 'title': 'Powerline does not work with non-utf filenames', 'state': 'closed', 'created_at': '2013-02-28T18:04:52Z', 'closed_at': '2014-01-26T18:04:33Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 280, 'title': 'Vim plugin not loading', 'state': 'closed', 'created_at': '2013-02-28T15:54:13Z', 'closed_at': '2013-02-28T21:19:39Z', 'labels': []}
+{'issuenumber': 279, 'title': 'u(): TypeError: coercing to Unicode: need string or buffer, int found', 'state': 'closed', 'created_at': '2013-02-28T10:17:42Z', 'closed_at': '2013-03-03T20:07:17Z', 'labels': []}
+{'issuenumber': 278, 'title': 'Add powerline-lint: configuration checker script', 'state': 'closed', 'created_at': '2013-02-27T03:38:39Z', 'closed_at': '2013-03-11T15:25:19Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 272, 'title': 'new error when launching vim', 'state': 'closed', 'created_at': '2013-02-26T19:33:47Z', 'closed_at': '2013-02-27T04:45:20Z', 'labels': []}
+{'issuenumber': 271, 'title': 'Powerline breaks with UTF-8 filenames in vim', 'state': 'closed', 'created_at': '2013-02-26T12:56:50Z', 'closed_at': '2013-02-26T20:16:47Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 270, 'title': "The 'last_status' segment is causing a KeyError to be raised when used", 'state': 'closed', 'created_at': '2013-02-26T12:45:37Z', 'closed_at': '2013-02-28T13:06:41Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 268, 'title': "Weird lookin' status bar in CLI vim on OS X", 'state': 'closed', 'created_at': '2013-02-26T01:26:19Z', 'closed_at': '2013-02-26T02:25:37Z', 'labels': []}
+{'issuenumber': 267, 'title': 'starting up the GUI from within vim terminal version', 'state': 'closed', 'created_at': '2013-02-25T20:12:30Z', 'closed_at': '2013-02-27T01:37:35Z', 'labels': []}
+{'issuenumber': 264, 'title': "add_divider_highlight_group doesn't work with list return values", 'state': 'closed', 'created_at': '2013-02-25T13:58:03Z', 'closed_at': '2013-02-25T15:11:26Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 263, 'title': 'Mouse scroll wheel crashes gvim with powerline on windows (problems with resize also)', 'state': 'closed', 'created_at': '2013-02-25T09:39:07Z', 'closed_at': '2014-01-17T22:24:55Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 261, 'title': 'Visual mode broken when using vim solarized color scheme', 'state': 'closed', 'created_at': '2013-02-25T06:42:26Z', 'closed_at': '2013-02-25T13:33:13Z', 'labels': []}
+{'issuenumber': 258, 'title': 'Indicating visual activity', 'state': 'closed', 'created_at': '2013-02-23T04:12:41Z', 'closed_at': '2013-02-24T22:20:20Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 257, 'title': 'Netrw colors like NERDTree', 'state': 'closed', 'created_at': '2013-02-22T15:29:18Z', 'closed_at': '2013-02-22T15:41:58Z', 'labels': []}
+{'issuenumber': 255, 'title': 'Powerline Symbols not showing up', 'state': 'closed', 'created_at': '2013-02-22T13:36:12Z', 'closed_at': '2013-02-22T20:27:06Z', 'labels': []}
+{'issuenumber': 254, 'title': 'Problem with MacVim', 'state': 'closed', 'created_at': '2013-02-22T10:30:38Z', 'closed_at': '2014-01-17T22:26:40Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 253, 'title': 'Missing vim segment for rvm', 'state': 'closed', 'created_at': '2013-02-22T05:31:02Z', 'closed_at': '2013-03-22T17:08:19Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 252, 'title': '1 advice and 2 issues', 'state': 'closed', 'created_at': '2013-02-22T05:13:49Z', 'closed_at': '2014-07-12T10:35:10Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 250, 'title': "powerline makes vim's inital start-up screen vanish", 'state': 'closed', 'created_at': '2013-02-21T23:04:51Z', 'closed_at': '2014-08-15T14:20:54Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 249, 'title': "powerline makes vim's inital start-up screen vanish", 'state': 'closed', 'created_at': '2013-02-21T23:04:28Z', 'closed_at': '2013-02-21T23:12:21Z', 'labels': []}
+{'issuenumber': 248, 'title': "Can't set options for ^V (visual block) vim mode in colorschemes", 'state': 'closed', 'created_at': '2013-02-21T22:47:58Z', 'closed_at': '2013-02-21T23:29:36Z', 'labels': {'name': 's:duplicate'}}
+{'issuenumber': 247, 'title': '50_pyeval', 'state': 'closed', 'created_at': '2013-02-21T18:04:10Z', 'closed_at': '2013-02-22T14:46:56Z', 'labels': []}
+{'issuenumber': 246, 'title': 'Strange behaviour with several splits open (some of them from shell)', 'state': 'closed', 'created_at': '2013-02-21T16:11:04Z', 'closed_at': '2013-02-21T16:19:04Z', 'labels': {'name': 's:duplicate'}}
+{'issuenumber': 245, 'title': 'error loading powerline in vim', 'state': 'closed', 'created_at': '2013-02-21T04:48:13Z', 'closed_at': '2013-02-21T06:54:11Z', 'labels': []}
+{'issuenumber': 244, 'title': 'Make powerline look like old powerline', 'state': 'closed', 'created_at': '2013-02-20T23:53:13Z', 'closed_at': '2013-02-21T00:00:39Z', 'labels': []}
+{'issuenumber': 242, 'title': 'Better PEP8 compliance', 'state': 'closed', 'created_at': '2013-02-20T11:41:19Z', 'closed_at': '2013-02-20T12:48:33Z', 'labels': []}
+{'issuenumber': 241, 'title': 'Vim: Powerline stays active in two windows', 'state': 'closed', 'created_at': '2013-02-20T10:08:02Z', 'closed_at': '2013-02-21T18:27:29Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 240, 'title': 'Vim: Issues with the quickfix window', 'state': 'closed', 'created_at': '2013-02-20T09:52:20Z', 'closed_at': '2013-02-21T18:39:27Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 237, 'title': 'Vim: Using :only crashes powerline', 'state': 'closed', 'created_at': '2013-02-19T18:59:31Z', 'closed_at': '2013-02-20T06:35:11Z', 'labels': []}
+{'issuenumber': 236, 'title': 'IndexError: no such window when using buffergator plugin', 'state': 'closed', 'created_at': '2013-02-19T13:59:50Z', 'closed_at': '2013-02-20T06:35:11Z', 'labels': {'name': 's:duplicate'}}
+{'issuenumber': 235, 'title': 'Still getting R6034 errors in Windows 8 64-bit', 'state': 'closed', 'created_at': '2013-02-18T22:13:17Z', 'closed_at': '2015-08-03T04:05:34Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 232, 'title': 'Bizarre Syntastic Error', 'state': 'closed', 'created_at': '2013-02-18T07:35:38Z', 'closed_at': '2013-02-20T06:35:11Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 231, 'title': 'Allow for separate dividers in MacVim and terminal vim', 'state': 'closed', 'created_at': '2013-02-17T20:50:43Z', 'closed_at': '2013-02-18T18:39:15Z', 'labels': []}
+{'issuenumber': 230, 'title': 'Powerline loses colors', 'state': 'closed', 'created_at': '2013-02-17T12:35:35Z', 'closed_at': '2014-08-02T23:40:28Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 229, 'title': 'Vim segfault at launch (since commit )', 'state': 'closed', 'created_at': '2013-02-16T12:47:27Z', 'closed_at': '2013-02-18T08:00:53Z', 'labels': []}
+{'issuenumber': 225, 'title': 'Is there a way to reduce the segment to just the arrow?', 'state': 'closed', 'created_at': '2013-02-15T21:10:54Z', 'closed_at': '2013-02-18T07:58:02Z', 'labels': []}
+{'issuenumber': 222, 'title': '"E858: Eval did not return a valid python object" when closing fugitive diff', 'state': 'closed', 'created_at': '2013-02-15T15:42:26Z', 'closed_at': '2013-02-20T06:35:11Z', 'labels': []}
+{'issuenumber': 221, 'title': 'Vim: include "repository_status" by default', 'state': 'closed', 'created_at': '2013-02-15T12:12:06Z', 'closed_at': '2014-08-24T13:32:28Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 219, 'title': '`before` key applies to all subsegments', 'state': 'closed', 'created_at': '2013-02-15T04:27:41Z', 'closed_at': '2013-02-15T12:05:58Z', 'labels': []}
+{'issuenumber': 217, 'title': 'file_vcs_status: forced space before it', 'state': 'closed', 'created_at': '2013-02-14T18:46:01Z', 'closed_at': '2013-02-15T12:14:19Z', 'labels': []}
+{'issuenumber': 216, 'title': "Weird issue when entering insert mode (can't reproduce, happens randomly)", 'state': 'closed', 'created_at': '2013-02-14T00:06:21Z', 'closed_at': '2013-02-14T15:22:50Z', 'labels': []}
+{'issuenumber': 215, 'title': 'Inconsistent handling of “highlight_group” key', 'state': 'closed', 'created_at': '2013-02-13T19:55:48Z', 'closed_at': '2013-02-24T21:24:53Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 214, 'title': 'Problem with patching Droid Sans Mono Slashed for Powerline', 'state': 'closed', 'created_at': '2013-02-13T19:17:39Z', 'closed_at': '2014-07-27T23:16:52Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 213, 'title': 'Powerline bar disappears when sourcing .vimrc and leaves me with a plain statusline', 'state': 'closed', 'created_at': '2013-02-13T11:57:51Z', 'closed_at': '2014-08-02T23:40:28Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 211, 'title': 'Powerline disappears when I source my .vimrc file within vim.', 'state': 'closed', 'created_at': '2013-02-13T01:25:27Z', 'closed_at': '2013-02-13T07:27:56Z', 'labels': []}
+{'issuenumber': 209, 'title': 'Split gentoo folder into separate repo & include as submodule. ', 'state': 'closed', 'created_at': '2013-02-12T12:27:12Z', 'closed_at': '2014-01-17T22:33:35Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 208, 'title': 'Poor interaction with fugitive', 'state': 'closed', 'created_at': '2013-02-12T12:24:46Z', 'closed_at': '2013-02-15T12:05:58Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 207, 'title': 'Feature suggestion: Retain uri elements when truncating filenames', 'state': 'closed', 'created_at': '2013-02-12T12:09:37Z', 'closed_at': '2014-08-03T20:12:22Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 204, 'title': 'MacVim: New colorscheme borks Powerline colors highlight', 'state': 'closed', 'created_at': '2013-02-11T17:17:26Z', 'closed_at': '2013-02-11T20:22:39Z', 'labels': []}
+{'issuenumber': 203, 'title': 'Weather condition icons are hard to understand and write', 'state': 'closed', 'created_at': '2013-02-11T15:44:38Z', 'closed_at': '2013-02-13T07:20:13Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 202, 'title': "Feature suggestion: use %M instead of literal '+' in non-selected vim windows", 'state': 'closed', 'created_at': '2013-02-11T12:35:45Z', 'closed_at': '2013-02-12T09:47:54Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 201, 'title': 'gVim (windows) loses focus, crashes', 'state': 'closed', 'created_at': '2013-02-11T11:35:02Z', 'closed_at': '2013-02-11T12:10:25Z', 'labels': {'name': 's:duplicate'}}
+{'issuenumber': 199, 'title': 'Add a way to override configuration options', 'state': 'closed', 'created_at': '2013-02-10T17:53:57Z', 'closed_at': '2013-02-11T06:16:16Z', 'labels': []}
+{'issuenumber': 196, 'title': 'Highlight groups disappear when switching colorschemes', 'state': 'closed', 'created_at': '2013-02-09T23:34:07Z', 'closed_at': '2013-02-10T12:56:32Z', 'labels': []}
+{'issuenumber': 195, 'title': 'Faster way to check if a git branch is dirty', 'state': 'closed', 'created_at': '2013-02-09T20:34:47Z', 'closed_at': '2014-01-17T22:36:27Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 194, 'title': 'Colors breaking when .vimrc is sourced.', 'state': 'closed', 'created_at': '2013-02-09T20:22:50Z', 'closed_at': '2013-02-10T12:56:33Z', 'labels': []}
+{'issuenumber': 190, 'title': 'Incorrect rendering of characters until e/enew', 'state': 'closed', 'created_at': '2013-02-09T16:45:05Z', 'closed_at': '2014-01-23T18:44:41Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 189, 'title': 'Buffer name behavior in vim', 'state': 'closed', 'created_at': '2013-02-07T21:28:52Z', 'closed_at': '2013-02-10T20:46:58Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 187, 'title': 'ZSH command not found: powerline', 'state': 'closed', 'created_at': '2013-02-07T15:29:50Z', 'closed_at': '2013-02-07T15:46:00Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 186, 'title': 'Bash Powerline not showing git branch info, but vi is working correctly.', 'state': 'closed', 'created_at': '2013-02-07T01:39:03Z', 'closed_at': '2013-02-07T10:25:48Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 185, 'title': 'Proper upgrading instructions?', 'state': 'closed', 'created_at': '2013-02-06T13:14:14Z', 'closed_at': '2013-02-08T13:48:18Z', 'labels': []}
+{'issuenumber': 184, 'title': 'Powerline conks out after opening the command-line-window in vim', 'state': 'closed', 'created_at': '2013-02-06T11:40:46Z', 'closed_at': '2013-02-06T12:26:14Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 183, 'title': '"Segment" or "widget"', 'state': 'closed', 'created_at': '2013-02-06T07:43:03Z', 'closed_at': '2013-02-06T17:51:42Z', 'labels': {'name': 't:question'}}
+{'issuenumber': 182, 'title': 'Create Tips & Tricks section in the docs', 'state': 'closed', 'created_at': '2013-02-06T07:38:34Z', 'closed_at': '2013-02-07T11:33:04Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 181, 'title': 'Create proper support for Vundle and Pathogen', 'state': 'closed', 'created_at': '2013-02-06T07:37:23Z', 'closed_at': '2013-02-07T11:14:55Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 180, 'title': 'MacVim, Python and Homebrew', 'state': 'closed', 'created_at': '2013-02-06T07:18:10Z', 'closed_at': '2013-02-22T14:32:12Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 175, 'title': "'tmux right' causes a ValueError", 'state': 'closed', 'created_at': '2013-02-05T20:23:33Z', 'closed_at': '2013-02-07T12:48:56Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 173, 'title': 'Dirty project indicator', 'state': 'closed', 'created_at': '2013-02-05T18:41:52Z', 'closed_at': '2013-02-08T15:22:18Z', 'labels': []}
+{'issuenumber': 171, 'title': 'Network load should use wlan', 'state': 'closed', 'created_at': '2013-02-05T14:05:04Z', 'closed_at': '2013-02-11T12:46:00Z', 'labels': []}
+{'issuenumber': 170, 'title': 'Weather info makes tmux blink', 'state': 'closed', 'created_at': '2013-02-05T13:44:00Z', 'closed_at': '2014-08-02T18:37:06Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 169, 'title': 'Make a possibility to define all special chars in config file', 'state': 'closed', 'created_at': '2013-02-05T12:26:54Z', 'closed_at': '2013-02-05T12:36:56Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 168, 'title': 'Multithreading support', 'state': 'closed', 'created_at': '2013-02-05T10:54:07Z', 'closed_at': '2014-08-15T07:13:13Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 167, 'title': 'Zsh does not know `powerline` command.', 'state': 'closed', 'created_at': '2013-02-04T18:56:52Z', 'closed_at': '2013-02-04T19:33:25Z', 'labels': []}
+{'issuenumber': 166, 'title': 'No Fancy Symbols, No Cool Colors.', 'state': 'closed', 'created_at': '2013-02-04T18:51:05Z', 'closed_at': '2013-02-06T10:44:23Z', 'labels': []}
+{'issuenumber': 165, 'title': "`KeyError: 'Highlighting groups not found in colorscheme: exit_fail'`", 'state': 'closed', 'created_at': '2013-02-04T18:45:31Z', 'closed_at': '2013-02-05T12:49:11Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 161, 'title': 'Allow truncation of long segments', 'state': 'closed', 'created_at': '2013-02-01T18:03:17Z', 'closed_at': '2014-08-30T14:29:28Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 160, 'title': 'E860: Eval did not return a valid python 3 object', 'state': 'closed', 'created_at': '2013-02-01T17:57:29Z', 'closed_at': '2013-02-13T07:29:01Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 159, 'title': 'Don’t hardcode cache persistence', 'state': 'closed', 'created_at': '2013-02-01T13:49:31Z', 'closed_at': '2014-02-16T00:48:16Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 158, 'title': 'Segment Issue on Diff Buffer Delete', 'state': 'closed', 'created_at': '2013-01-31T22:59:40Z', 'closed_at': '2013-02-04T12:04:41Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 157, 'title': 'Refactor complex segments into classes', 'state': 'closed', 'created_at': '2013-01-31T20:19:54Z', 'closed_at': '2013-08-20T15:36:31Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 156, 'title': 'Improve handling of missing/wrong Python dependencies', 'state': 'closed', 'created_at': '2013-01-31T15:50:21Z', 'closed_at': '2013-02-07T11:14:55Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 154, 'title': 'Create progress bar/bar graph segments', 'state': 'closed', 'created_at': '2013-01-31T07:28:52Z', 'closed_at': '2014-08-30T14:29:28Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 153, 'title': 'Alternating light and dark background in vim break powerline colors.', 'state': 'closed', 'created_at': '2013-01-31T03:39:52Z', 'closed_at': '2013-02-10T12:56:32Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 152, 'title': 'Maildir/Mbox support', 'state': 'closed', 'created_at': '2013-01-30T23:36:52Z', 'closed_at': '2015-12-17T16:19:57Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 151, 'title': 'Not work custom segment in ~/.config/powerline/segments/', 'state': 'closed', 'created_at': '2013-01-30T22:20:08Z', 'closed_at': '2013-02-05T11:17:25Z', 'labels': []}
+{'issuenumber': 150, 'title': 'tmux right side of powerline not showing up', 'state': 'closed', 'created_at': '2013-01-30T19:46:59Z', 'closed_at': '2014-11-29T18:07:12Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 149, 'title': 'Issues starting Powerline', 'state': 'closed', 'created_at': '2013-01-30T16:55:03Z', 'closed_at': '2013-01-30T16:58:36Z', 'labels': []}
+{'issuenumber': 148, 'title': 'powerline-tmux turns black after few keystrokes', 'state': 'closed', 'created_at': '2013-01-30T14:51:45Z', 'closed_at': '2013-01-30T16:14:14Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 147, 'title': 'VBlock Green instead of Orange', 'state': 'closed', 'created_at': '2013-01-29T22:17:02Z', 'closed_at': '2013-02-24T19:18:43Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 145, 'title': 'i3', 'state': 'closed', 'created_at': '2013-01-29T02:47:16Z', 'closed_at': '2014-02-16T00:48:56Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 144, 'title': 'Python 2.6 Support', 'state': 'closed', 'created_at': '2013-01-28T23:44:23Z', 'closed_at': '2013-01-29T11:09:43Z', 'labels': []}
+{'issuenumber': 142, 'title': 'Both powerlines (pre 0.11 and post 0.11) clear powerline prompts on <C-u>', 'state': 'closed', 'created_at': '2013-01-28T18:00:45Z', 'closed_at': '2013-02-10T12:56:32Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 141, 'title': 'Add support for other ipython prompts (in2, out, rewrite)', 'state': 'closed', 'created_at': '2013-01-28T17:52:58Z', 'closed_at': '2013-03-24T15:19:22Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 140, 'title': '"ImportError: No module named ext.vim" on Mac OS 10.6 with python 2.7', 'state': 'closed', 'created_at': '2013-01-28T15:33:22Z', 'closed_at': '2013-01-28T15:48:59Z', 'labels': []}
+{'issuenumber': 139, 'title': 'fonts not displaying correctly', 'state': 'closed', 'created_at': '2013-01-28T14:26:09Z', 'closed_at': '2013-01-28T14:28:44Z', 'labels': []}
+{'issuenumber': 138, 'title': 'right hand side of tmux not rendering', 'state': 'closed', 'created_at': '2013-01-27T05:27:43Z', 'closed_at': '2013-01-27T16:42:21Z', 'labels': []}
+{'issuenumber': 137, 'title': "Tmux doesn't automatically truncate", 'state': 'closed', 'created_at': '2013-01-26T16:55:13Z', 'closed_at': '2015-05-23T13:43:23Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 136, 'title': 'Make weather configurable in tmux', 'state': 'closed', 'created_at': '2013-01-26T16:50:59Z', 'closed_at': '2013-01-27T16:32:06Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 133, 'title': "install success, but in vim an gvim, there's something was wrong ~", 'state': 'closed', 'created_at': '2013-01-26T10:40:49Z', 'closed_at': '2013-01-28T05:59:37Z', 'labels': {'name': 'a:doc update'}}
+{'issuenumber': 132, 'title': 'Right-hand-side segments not showing in tmux', 'state': 'closed', 'created_at': '2013-01-25T21:34:55Z', 'closed_at': '2013-01-26T14:13:01Z', 'labels': []}
+{'issuenumber': 131, 'title': 'zsh virtualenv indicator is wrong after launching tmux', 'state': 'closed', 'created_at': '2013-01-25T21:06:27Z', 'closed_at': '2014-07-10T19:40:09Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 129, 'title': 'Create installation scripts', 'state': 'closed', 'created_at': '2013-01-25T16:39:16Z', 'closed_at': '2014-01-19T09:49:03Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 128, 'title': 'powerline-tmux right crash under ubuntu 12.10', 'state': 'closed', 'created_at': '2013-01-25T16:27:53Z', 'closed_at': '2013-01-25T16:31:56Z', 'labels': []}
+{'issuenumber': 125, 'title': 'error occurs when using guake in ubuntu 12.04', 'state': 'closed', 'created_at': '2013-01-25T07:16:10Z', 'closed_at': '2013-01-28T06:00:10Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 124, 'title': 'Porting solarized support', 'state': 'closed', 'created_at': '2013-01-24T20:52:40Z', 'closed_at': '2013-01-25T10:42:30Z', 'labels': {'name': 't:question'}}
+{'issuenumber': 122, 'title': 'Right part of powerline is not showing up in tmux and display is messed up in bash', 'state': 'closed', 'created_at': '2013-01-24T17:49:45Z', 'closed_at': '2013-02-06T19:32:43Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 121, 'title': 'Improve documentation on urxvt', 'state': 'closed', 'created_at': '2013-01-24T13:38:01Z', 'closed_at': '2013-01-24T16:37:04Z', 'labels': {'name': 'a:doc update'}}
+{'issuenumber': 120, 'title': 'error when installing on OSX', 'state': 'closed', 'created_at': '2013-01-24T13:00:09Z', 'closed_at': '2013-01-24T13:50:28Z', 'labels': {'name': 's:duplicate'}}
+{'issuenumber': 119, 'title': 'vim powerline error', 'state': 'closed', 'created_at': '2013-01-24T10:44:49Z', 'closed_at': '2013-01-24T11:18:08Z', 'labels': {'name': 's:duplicate'}}
+{'issuenumber': 117, 'title': 'file_directory broken when vim is opened without filename', 'state': 'closed', 'created_at': '2013-01-24T08:02:44Z', 'closed_at': '2013-01-24T11:18:08Z', 'labels': []}
+{'issuenumber': 116, 'title': 'How can i rewrite vim function to python in segments/vim.py', 'state': 'closed', 'created_at': '2013-01-23T23:32:37Z', 'closed_at': '2013-01-24T06:48:16Z', 'labels': {'name': 't:question'}}
+{'issuenumber': 114, 'title': 'tmux is using different colorscheme', 'state': 'closed', 'created_at': '2013-01-23T19:34:27Z', 'closed_at': '2013-01-23T20:41:21Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 112, 'title': "Can't show the arrow even if I use the patched DejaVu_Sans_Mono_for_Powerline.otf font.", 'state': 'closed', 'created_at': '2013-01-23T16:35:23Z', 'closed_at': '2013-01-24T06:51:23Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 111, 'title': "Powerline doesn't play well with vim ctrlp", 'state': 'closed', 'created_at': '2013-01-23T14:59:05Z', 'closed_at': '2013-01-24T06:49:30Z', 'labels': {'name': 's:duplicate'}}
+{'issuenumber': 110, 'title': 'Not showing anything in VIM', 'state': 'closed', 'created_at': '2013-01-23T06:25:19Z', 'closed_at': '2013-01-23T11:51:16Z', 'labels': []}
+{'issuenumber': 109, 'title': 'Powerline for tmux files', 'state': 'closed', 'created_at': '2013-01-23T06:00:36Z', 'closed_at': '2013-01-23T06:40:31Z', 'labels': []}
+{'issuenumber': 108, 'title': 'weather temperature not utf encoded', 'state': 'closed', 'created_at': '2013-01-23T05:42:06Z', 'closed_at': '2013-01-23T06:25:10Z', 'labels': []}
+{'issuenumber': 107, 'title': 'Double width symbols when using putty in windows', 'state': 'closed', 'created_at': '2013-01-23T04:57:59Z', 'closed_at': '2013-01-23T06:43:50Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 106, 'title': 'Create documentation how customize powerline segments', 'state': 'closed', 'created_at': '2013-01-23T00:52:01Z', 'closed_at': '2013-01-23T15:37:46Z', 'labels': {'name': 't:question'}}
+{'issuenumber': 105, 'title': 'Powerline delayed load in NERDTree and Tagbar?', 'state': 'closed', 'created_at': '2013-01-22T23:31:39Z', 'closed_at': '2013-01-23T06:41:19Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 104, 'title': 'Shell prompt has very notable delay', 'state': 'closed', 'created_at': '2013-01-22T20:06:19Z', 'closed_at': '2013-02-07T12:16:09Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 103, 'title': 'CtrlP Theme', 'state': 'closed', 'created_at': '2013-01-22T19:35:44Z', 'closed_at': '2013-01-22T20:42:07Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 102, 'title': "Follow the installation's document, but Nothing happened.", 'state': 'closed', 'created_at': '2013-01-22T19:09:01Z', 'closed_at': '2013-01-22T20:53:16Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 100, 'title': "Symbols not displayed when ssh'ing into Ubuntu12.04 from OSX10.8", 'state': 'closed', 'created_at': '2013-01-22T16:09:14Z', 'closed_at': '2013-01-22T16:11:31Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 98, 'title': 'Zsh prompt in Arch Linux Package', 'state': 'closed', 'created_at': '2013-01-22T16:03:16Z', 'closed_at': '2013-01-22T16:08:38Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 97, 'title': 'No module named ext.vim', 'state': 'closed', 'created_at': '2013-01-22T01:43:09Z', 'closed_at': '2013-01-22T07:14:54Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 96, 'title': 'no arrows in XTerm and Gvim', 'state': 'closed', 'created_at': '2013-01-22T01:01:22Z', 'closed_at': '2013-01-22T07:17:40Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 95, 'title': 'Error "ImportError: No module named bindings.vim" ', 'state': 'closed', 'created_at': '2013-01-21T23:58:17Z', 'closed_at': '2013-01-22T16:35:54Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 94, 'title': 'Ascii error? with zsh', 'state': 'closed', 'created_at': '2013-01-21T23:53:29Z', 'closed_at': '2013-01-22T07:05:57Z', 'labels': []}
+{'issuenumber': 93, 'title': 'Error when opening vim with no file as an argument', 'state': 'closed', 'created_at': '2013-01-21T20:34:24Z', 'closed_at': '2013-01-21T21:09:47Z', 'labels': []}
+{'issuenumber': 92, 'title': 'Write unit tests', 'state': 'closed', 'created_at': '2013-01-21T20:10:04Z', 'closed_at': '2013-08-20T15:35:29Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 91, 'title': 'Monofur and rxvt-unicode', 'state': 'closed', 'created_at': '2013-01-21T18:38:18Z', 'closed_at': '2013-01-21T18:39:50Z', 'labels': []}
+{'issuenumber': 90, 'title': 'Create bash/zsh files that can be sourced to enable the prompt', 'state': 'closed', 'created_at': '2013-01-21T16:42:36Z', 'closed_at': '2013-01-22T12:47:12Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 89, 'title': 'Allow soft segment divider color to be customized', 'state': 'closed', 'created_at': '2013-01-21T16:27:38Z', 'closed_at': '2013-01-22T10:27:35Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 88, 'title': 'Allow segment functions to return a list of segments', 'state': 'closed', 'created_at': '2013-01-21T16:21:26Z', 'closed_at': '2013-01-22T10:00:43Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 87, 'title': 'powerline doesnt work when non ASCII path or filename', 'state': 'closed', 'created_at': '2013-01-21T12:47:17Z', 'closed_at': '2013-01-21T16:55:30Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 86, 'title': 'font patching does not work', 'state': 'closed', 'created_at': '2013-01-21T10:58:19Z', 'closed_at': '2013-01-21T16:58:21Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 85, 'title': 'Resizing window error ', 'state': 'closed', 'created_at': '2013-01-20T21:10:03Z', 'closed_at': '2013-01-21T08:41:44Z', 'labels': []}
+{'issuenumber': 84, 'title': '"Terminal" or "shell"?', 'state': 'closed', 'created_at': '2013-01-20T18:59:18Z', 'closed_at': '2013-01-22T12:38:07Z', 'labels': {'name': 't:question'}}
+{'issuenumber': 83, 'title': 'Make decisions based on script arguments', 'state': 'closed', 'created_at': '2013-01-20T16:45:41Z', 'closed_at': '2013-01-22T12:34:18Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 82, 'title': 'Support zsh RPS1 prompt', 'state': 'closed', 'created_at': '2013-01-20T16:36:43Z', 'closed_at': '2013-01-22T12:34:18Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 81, 'title': 'Support 24-bit color in terminal', 'state': 'closed', 'created_at': '2013-01-20T16:21:29Z', 'closed_at': '2013-01-25T09:09:11Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 74, 'title': 'Restructure extension directories?', 'state': 'closed', 'created_at': '2013-01-19T16:32:09Z', 'closed_at': '2013-01-20T18:14:54Z', 'labels': {'name': 't:question'}}
+{'issuenumber': 73, 'title': "Can't see symbols in vim but present in tmux", 'state': 'closed', 'created_at': '2013-01-19T16:10:57Z', 'closed_at': '2013-01-19T18:01:42Z', 'labels': []}
+{'issuenumber': 72, 'title': 'An ASCII version?', 'state': 'closed', 'created_at': '2013-01-19T15:12:47Z', 'closed_at': '2013-01-22T13:28:10Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 68, 'title': 'IPv6 issue in weather segment in tmux extension', 'state': 'closed', 'created_at': '2013-01-19T06:22:48Z', 'closed_at': '2013-01-19T16:04:03Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 67, 'title': 'Git submodule branches not showing correctly', 'state': 'closed', 'created_at': '2013-01-19T04:23:38Z', 'closed_at': '2013-01-19T16:04:03Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 66, 'title': "Vim segfaults when I load powerline in my .vimrc - runs fine when it's commented out (gdb dump included)", 'state': 'closed', 'created_at': '2013-01-18T16:37:10Z', 'closed_at': '2013-01-19T02:15:40Z', 'labels': []}
+{'issuenumber': 65, 'title': 'Custom fonts are not supporting transparency on iTerm2', 'state': 'closed', 'created_at': '2013-01-18T10:31:04Z', 'closed_at': '2013-01-18T15:53:51Z', 'labels': []}
+{'issuenumber': 64, 'title': 'Font issues when increasing vertical spacing on iTerm2', 'state': 'closed', 'created_at': '2013-01-18T10:27:52Z', 'closed_at': '2013-01-18T10:31:15Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 63, 'title': 'symbols are and method names are missing', 'state': 'closed', 'created_at': '2013-01-18T09:29:40Z', 'closed_at': '2013-01-21T16:51:17Z', 'labels': []}
+{'issuenumber': 61, 'title': 'installation instructions using pip may need some updating', 'state': 'closed', 'created_at': '2013-01-18T03:52:50Z', 'closed_at': '2013-01-18T06:58:09Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 60, 'title': 'Request for feedback: Patched fonts may be unnecessary for many users', 'state': 'closed', 'created_at': '2013-01-17T20:44:21Z', 'closed_at': '2013-01-22T10:31:49Z', 'labels': {'name': 't:question'}}
+{'issuenumber': 59, 'title': 'Vim Startup Error R6034', 'state': 'closed', 'created_at': '2013-01-17T17:49:47Z', 'closed_at': '2013-01-17T17:51:41Z', 'labels': {'name': 's:duplicate'}}
+{'issuenumber': 58, 'title': 'Custom font not working for iTerm2', 'state': 'closed', 'created_at': '2013-01-17T16:19:12Z', 'closed_at': '2013-01-17T16:20:05Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 57, 'title': 'Color leak in ZSH', 'state': 'closed', 'created_at': '2013-01-17T16:15:26Z', 'closed_at': '2013-01-17T16:25:21Z', 'labels': []}
+{'issuenumber': 56, 'title': 'prompt not loading properly in zsh', 'state': 'closed', 'created_at': '2013-01-17T15:35:11Z', 'closed_at': '2013-01-17T16:07:43Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 55, 'title': 'turn off nag prompt?', 'state': 'closed', 'created_at': '2013-01-17T10:16:01Z', 'closed_at': '2013-01-17T10:28:49Z', 'labels': {'name': 's:wontfix'}}
+{'issuenumber': 54, 'title': 'Error when installed use vundle', 'state': 'closed', 'created_at': '2013-01-17T10:04:39Z', 'closed_at': '2013-01-21T16:50:10Z', 'labels': []}
+{'issuenumber': 53, 'title': 'Possibly better installation instruction for developers', 'state': 'closed', 'created_at': '2013-01-17T09:51:51Z', 'closed_at': '2013-01-22T13:25:41Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 51, 'title': 'Improve default tmux theme', 'state': 'closed', 'created_at': '2013-01-16T15:29:23Z', 'closed_at': '2013-01-22T15:39:56Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 50, 'title': 'vim - error during startup - "E858: Eval did not return a valid python object"', 'state': 'closed', 'created_at': '2013-01-15T18:20:58Z', 'closed_at': '2013-01-15T19:25:45Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 49, 'title': 'Patching Consolas font in OSX', 'state': 'closed', 'created_at': '2013-01-13T07:17:31Z', 'closed_at': '2013-01-21T16:47:57Z', 'labels': []}
+{'issuenumber': 47, 'title': 'Font patching happens in-place on OSX', 'state': 'closed', 'created_at': '2013-01-11T17:51:57Z', 'closed_at': '2013-01-21T16:49:00Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 46, 'title': 'OSX font patching brew docs out of date', 'state': 'closed', 'created_at': '2013-01-11T17:47:35Z', 'closed_at': '2013-01-17T09:04:45Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 45, 'title': 'Colorscheme namespacing', 'state': 'closed', 'created_at': '2013-01-11T11:29:31Z', 'closed_at': '2013-01-21T16:43:49Z', 'labels': {'name': 't:question'}}
+{'issuenumber': 42, 'title': 'guifont and guifontwide', 'state': 'closed', 'created_at': '2013-01-10T17:49:14Z', 'closed_at': '2013-01-11T07:50:09Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 40, 'title': 'when set ambiwidth=double', 'state': 'closed', 'created_at': '2013-01-10T17:39:26Z', 'closed_at': '2013-01-11T07:43:29Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 39, 'title': 'Mac OSX 10.8.2 (Fails to load properly)', 'state': 'closed', 'created_at': '2013-01-10T08:16:51Z', 'closed_at': '2013-01-17T09:04:45Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 37, 'title': 'Powerline errors out after recent commit', 'state': 'closed', 'created_at': '2013-01-09T23:17:10Z', 'closed_at': '2013-01-11T08:08:30Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 36, 'title': 'Powerline on Windows opens several cmd windows on git managed files', 'state': 'closed', 'created_at': '2013-01-08T19:04:14Z', 'closed_at': '2013-01-09T12:19:00Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 35, 'title': 'Merge configuration files', 'state': 'closed', 'created_at': '2013-01-08T14:06:32Z', 'closed_at': '2013-01-21T16:47:22Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 34, 'title': 'setup.py syntax error', 'state': 'closed', 'created_at': '2013-01-07T21:40:02Z', 'closed_at': '2013-01-07T23:21:51Z', 'labels': []}
+{'issuenumber': 33, 'title': 'Feature request: rbenv support', 'state': 'closed', 'created_at': '2013-01-06T01:27:28Z', 'closed_at': '2013-01-07T07:14:25Z', 'labels': []}
+{'issuenumber': 29, 'title': 'Memoization only work on per-session basis', 'state': 'closed', 'created_at': '2013-01-05T11:12:52Z', 'closed_at': '2013-01-07T07:22:28Z', 'labels': []}
+{'issuenumber': 27, 'title': 'Unable to Get Working on iTerm2 ', 'state': 'closed', 'created_at': '2013-01-03T23:03:51Z', 'closed_at': '2013-01-17T09:04:45Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 20, 'title': 'Is it possible to change chars used for separators?', 'state': 'closed', 'created_at': '2012-12-29T17:38:49Z', 'closed_at': '2012-12-29T22:35:48Z', 'labels': []}
+{'issuenumber': 18, 'title': 'a lot of errors whyle `rake update` with Vundle', 'state': 'closed', 'created_at': '2012-12-21T09:00:41Z', 'closed_at': '2012-12-21T09:04:04Z', 'labels': {'name': 's:invalid'}}
+{'issuenumber': 17, 'title': 'Documentation improvements', 'state': 'closed', 'created_at': '2012-12-20T14:57:16Z', 'closed_at': '2013-01-21T16:46:37Z', 'labels': {'name': 't:question'}}
+{'issuenumber': 16, 'title': 'fancy symbols are not aligned properly', 'state': 'closed', 'created_at': '2012-12-20T09:38:41Z', 'closed_at': '2012-12-20T11:04:08Z', 'labels': {'name': 's:duplicate'}}
+{'issuenumber': 14, 'title': 'Font patching causes misaligned glyphs', 'state': 'closed', 'created_at': '2012-12-18T20:04:25Z', 'closed_at': '2013-01-21T16:46:17Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 12, 'title': 'Non-current windows use the theme of the current window', 'state': 'closed', 'created_at': '2012-12-17T10:42:44Z', 'closed_at': '2012-12-17T12:28:02Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 11, 'title': 'vim: Non-current windows use wrong info after switching between split windows', 'state': 'closed', 'created_at': '2012-12-15T16:37:48Z', 'closed_at': '2012-12-17T10:32:31Z', 'labels': {'name': 't:bug'}}
+{'issuenumber': 8, 'title': 'Python 2, Python 3, or both?', 'state': 'closed', 'created_at': '2012-12-10T11:26:43Z', 'closed_at': '2013-01-21T19:45:41Z', 'labels': {'name': 't:question'}}
+{'issuenumber': 7, 'title': 'What about simplifying the core lib with oo?', 'state': 'closed', 'created_at': '2012-12-05T08:38:22Z', 'closed_at': '2013-01-04T14:08:05Z', 'labels': {'name': 't:question'}}
+{'issuenumber': 6, 'title': 'Current status', 'state': 'closed', 'created_at': '2012-12-04T22:04:14Z', 'closed_at': '2012-12-05T13:57:25Z', 'labels': {'name': 't:question'}}
+{'issuenumber': 5, 'title': 'Perform checks for common issues when plugin is loaded', 'state': 'closed', 'created_at': '2012-12-04T18:34:29Z', 'closed_at': '2013-01-22T13:32:12Z', 'labels': {'name': 't:enhancement'}}
+{'issuenumber': 4, 'title': 'Unicode code points and new glyphs', 'state': 'closed', 'created_at': '2012-11-28T07:13:39Z', 'closed_at': '2013-01-04T14:10:28Z', 'labels': {'name': 't:question'}}
+{'issuenumber': 2, 'title': 'Theme syntax', 'state': 'closed', 'created_at': '2012-11-23T17:45:15Z', 'closed_at': '2013-01-04T14:09:13Z', 'labels': {'name': 't:question'}}

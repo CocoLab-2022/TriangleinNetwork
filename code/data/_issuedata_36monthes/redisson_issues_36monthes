@@ -1,0 +1,598 @@
+{'issuenumber': 741, 'title': '3.2.1 regression "Could not initialize class org.redisson.misc.URLBuilder" @ Tomcat', 'state': 'closed', 'created_at': '2016-12-23T01:31:04Z', 'closed_at': '2016-12-23T07:39:44Z', 'labels': []}
+{'issuenumber': 740, 'title': '3.2.2 regression "Can\'t decode replay T"', 'state': 'closed', 'created_at': '2016-12-23T01:20:07Z', 'closed_at': '2017-01-12T11:27:00Z', 'labels': []}
+{'issuenumber': 739, 'title': 'Divide by zero error in RedissonBloomFilter contains() when bloom filter is empty', 'state': 'closed', 'created_at': '2016-12-22T19:43:37Z', 'closed_at': '2016-12-23T09:09:49Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 738, 'title': 'DistributedLock - Lock is getting acquired by multiple threads.', 'state': 'closed', 'created_at': '2016-12-21T23:38:17Z', 'closed_at': '2016-12-23T08:47:43Z', 'labels': []}
+{'issuenumber': 737, 'title': 'can not config with file in spring-boot', 'state': 'closed', 'created_at': '2016-12-21T07:31:39Z', 'closed_at': '2016-12-21T07:41:11Z', 'labels': []}
+{'issuenumber': 736, 'title': 'NoClassDefFoundError while trying to use FstCodec', 'state': 'closed', 'created_at': '2016-12-20T17:24:21Z', 'closed_at': '2017-01-01T15:20:12Z', 'labels': []}
+{'issuenumber': 735, 'title': 'connection timeout problem', 'state': 'closed', 'created_at': '2016-12-19T02:47:07Z', 'closed_at': '2016-12-20T05:50:29Z', 'labels': []}
+{'issuenumber': 734, 'title': 'URL.setURLStreamHandlerFactory(new URLStreamHandlerFactory()) causes throw new Error("factory already defined");', 'state': 'closed', 'created_at': '2016-12-18T16:11:51Z', 'closed_at': '2016-12-19T13:18:30Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 733, 'title': 'How to get redis information from RedissonClient.', 'state': 'closed', 'created_at': '2016-12-16T11:21:09Z', 'closed_at': '2016-12-16T13:58:34Z', 'labels': []}
+{'issuenumber': 732, 'title': 'Javadoc for org.redisson.api.RMapCache#putIfAbsent states that it replaces existing value', 'state': 'closed', 'created_at': '2016-12-14T08:42:29Z', 'closed_at': '2016-12-19T13:19:13Z', 'labels': []}
+{'issuenumber': 731, 'title': 'RTopic Superclass Listener', 'state': 'closed', 'created_at': '2016-12-13T22:57:48Z', 'closed_at': '2018-10-17T13:08:53Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 730, 'title': 'Add sync listeners support for JCache', 'state': 'closed', 'created_at': '2016-12-12T18:27:04Z', 'closed_at': '2016-12-13T08:55:04Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 728, 'title': 'Inconsistent Behavior in RListMultimap', 'state': 'closed', 'created_at': '2016-12-08T21:32:38Z', 'closed_at': '2017-01-11T14:37:55Z', 'labels': []}
+{'issuenumber': 726, 'title': 'IndexOutOfBoundsException when reading from RMapCache', 'state': 'closed', 'created_at': '2016-12-07T19:32:17Z', 'closed_at': '2016-12-09T08:04:49Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 725, 'title': 'Add timeout for subscribe operation', 'state': 'closed', 'created_at': '2016-12-07T08:31:15Z', 'closed_at': '2016-12-07T08:36:54Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 724, 'title': 'Possible PublishSubscribe race-condition', 'state': 'closed', 'created_at': '2016-12-06T10:41:00Z', 'closed_at': '2016-12-06T10:41:57Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 723, 'title': 'Exceptions during shutdown', 'state': 'closed', 'created_at': '2016-12-01T11:16:13Z', 'closed_at': '2016-12-01T12:11:47Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 722, 'title': 'Config can not handle underscore in host', 'state': 'closed', 'created_at': '2016-11-30T09:56:51Z', 'closed_at': '2016-12-14T11:10:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 721, 'title': 'Reduce default connection pool size to 70', 'state': 'closed', 'created_at': '2016-11-30T09:48:46Z', 'closed_at': '2016-12-06T11:06:00Z', 'labels': []}
+{'issuenumber': 720, 'title': 'Add number argument to RSet.removeRandom method', 'state': 'closed', 'created_at': '2016-11-29T14:18:37Z', 'closed_at': '2016-12-03T09:03:39Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 719, 'title': 'Implement RLocalCacheMapCache', 'state': 'closed', 'created_at': '2016-11-29T14:16:16Z', 'closed_at': '2017-07-20T12:23:50Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 718, 'title': "RedissonBaseIterator.hasNext() doesn't return false on Object based RedissonSet.", 'state': 'closed', 'created_at': '2016-11-29T09:24:20Z', 'closed_at': '2017-01-12T11:25:58Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 717, 'title': 'Executor Service cannot execute Task', 'state': 'closed', 'created_at': '2016-11-29T04:38:36Z', 'closed_at': '2016-11-30T05:55:44Z', 'labels': []}
+{'issuenumber': 716, 'title': 'Blocking queue/deque poll method blocks infinitely', 'state': 'closed', 'created_at': '2016-11-28T11:45:59Z', 'closed_at': '2016-11-28T11:47:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 715, 'title': 'Expires for RMapCache/RSetCache entries and restarting java', 'state': 'closed', 'created_at': '2016-11-23T17:35:01Z', 'closed_at': '2016-12-05T07:03:05Z', 'labels': []}
+{'issuenumber': 714, 'title': 'Refactor EvictionScheduler', 'state': 'closed', 'created_at': '2016-11-23T11:22:19Z', 'closed_at': '2017-02-03T11:26:22Z', 'labels': []}
+{'issuenumber': 713, 'title': 'Add timeout param to RBatch', 'state': 'closed', 'created_at': '2016-11-22T13:43:24Z', 'closed_at': '2017-04-05T08:35:54Z', 'labels': []}
+{'issuenumber': 712, 'title': "RMap.getAll doesn't not preserve the order of elements", 'state': 'closed', 'created_at': '2016-11-22T13:30:13Z', 'closed_at': '2016-11-22T13:31:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 710, 'title': 'Error retrieving a hash map that was created/written from PHP app', 'state': 'closed', 'created_at': '2016-11-18T15:25:57Z', 'closed_at': '2016-11-18T16:59:50Z', 'labels': []}
+{'issuenumber': 708, 'title': 'Test redisson error', 'state': 'closed', 'created_at': '2016-11-15T07:12:28Z', 'closed_at': '2016-11-15T11:01:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 707, 'title': 'Add RQueue.readAll method ', 'state': 'closed', 'created_at': '2016-11-14T11:58:38Z', 'closed_at': '2016-11-18T08:58:57Z', 'labels': []}
+{'issuenumber': 706, 'title': 'Add DelayedQueue object', 'state': 'closed', 'created_at': '2016-11-14T08:56:17Z', 'closed_at': '2016-11-14T08:57:10Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 704, 'title': 'Add TOUCH command support', 'state': 'closed', 'created_at': '2016-11-13T10:37:50Z', 'closed_at': '2017-03-20T15:33:05Z', 'labels': {'name': 'new command'}}
+{'issuenumber': 703, 'title': 'Add SORT command support', 'state': 'closed', 'created_at': '2016-11-13T10:37:37Z', 'closed_at': '2016-12-19T16:59:28Z', 'labels': {'name': 'new command'}}
+{'issuenumber': 701, 'title': 'Add RSortedSet.readAll method', 'state': 'closed', 'created_at': '2016-11-11T15:05:39Z', 'closed_at': '2016-11-18T09:07:10Z', 'labels': []}
+{'issuenumber': 700, 'title': 'Wrong parsing nodes in result of cluster info command', 'state': 'closed', 'created_at': '2016-11-11T12:11:57Z', 'closed_at': '2016-11-11T13:26:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 699, 'title': 'Add RMapCache.fastPutIfAbsent with ttl', 'state': 'closed', 'created_at': '2016-11-11T10:04:39Z', 'closed_at': '2017-04-14T08:36:04Z', 'labels': []}
+{'issuenumber': 695, 'title': 'Add BlockingFairQueue implementation', 'state': 'closed', 'created_at': '2016-11-10T07:58:11Z', 'closed_at': '2016-11-14T08:55:20Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 693, 'title': 'Redisson JUnit tests due leaks connections/clients/threads', 'state': 'closed', 'created_at': '2016-11-08T14:27:24Z', 'closed_at': '2018-03-16T10:34:51Z', 'labels': []}
+{'issuenumber': 692, 'title': 'NullPointerException in CommandDecoder.handleResult', 'state': 'closed', 'created_at': '2016-11-07T16:48:53Z', 'closed_at': '2016-11-08T14:12:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 691, 'title': 'Add `RKeys.isExists` method with multiple keys', 'state': 'closed', 'created_at': '2016-11-04T13:10:49Z', 'closed_at': '2016-11-07T09:23:10Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 690, 'title': 'redisson schedule job dependency', 'state': 'closed', 'created_at': '2016-11-02T07:40:04Z', 'closed_at': '2018-07-19T12:44:41Z', 'labels': []}
+{'issuenumber': 688, 'title': 'How to use Redisson to upload byte array?', 'state': 'closed', 'created_at': '2016-11-01T20:33:29Z', 'closed_at': '2016-11-02T10:29:22Z', 'labels': []}
+{'issuenumber': 686, 'title': 'Fix exception message', 'state': 'closed', 'created_at': '2016-10-31T14:39:23Z', 'closed_at': '2016-11-07T11:06:23Z', 'labels': []}
+{'issuenumber': 685, 'title': 'redisson scheduled job question', 'state': 'closed', 'created_at': '2016-10-31T05:59:29Z', 'closed_at': '2016-11-01T02:48:51Z', 'labels': []}
+{'issuenumber': 684, 'title': 'Always timeout when get/set objects from/to redis within onMessage handler.', 'state': 'closed', 'created_at': '2016-10-30T14:50:21Z', 'closed_at': '2016-11-07T10:58:44Z', 'labels': []}
+{'issuenumber': 683, 'title': 'CommandAsyncService blocks indefinitely ', 'state': 'closed', 'created_at': '2016-10-28T15:14:26Z', 'closed_at': '2016-11-15T17:55:48Z', 'labels': []}
+{'issuenumber': 682, 'title': "Don't log byte arrays in CommandDecoder", 'state': 'closed', 'created_at': '2016-10-27T16:50:00Z', 'closed_at': '2016-11-07T09:01:54Z', 'labels': []}
+{'issuenumber': 681, 'title': 'Check ElastiCache | Redis Cluster support', 'state': 'closed', 'created_at': '2016-10-27T07:35:33Z', 'closed_at': '2016-11-30T08:40:53Z', 'labels': []}
+{'issuenumber': 680, 'title': 'Remove `Connection pool exhausted` exception', 'state': 'closed', 'created_at': '2016-10-25T14:50:42Z', 'closed_at': '2016-10-25T18:25:02Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 679, 'title': '2 different NPEs under heavy load', 'state': 'closed', 'created_at': '2016-10-25T12:22:34Z', 'closed_at': '2016-10-25T13:30:10Z', 'labels': []}
+{'issuenumber': 678, 'title': "RMapCache.fastPutIfAbsentAsync doesn't take in account expiration", 'state': 'closed', 'created_at': '2016-10-24T13:28:16Z', 'closed_at': '2016-10-26T08:56:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 677, 'title': 'Configured Timeout in ElasticCacheServerConfig being ignored', 'state': 'closed', 'created_at': '2016-10-21T02:27:26Z', 'closed_at': '2016-10-28T04:36:27Z', 'labels': []}
+{'issuenumber': 676, 'title': 'Documentation: RBatch.executeSkipResult only available with Redis >= 3.2', 'state': 'closed', 'created_at': '2016-10-19T10:36:31Z', 'closed_at': '2016-11-07T08:59:19Z', 'labels': []}
+{'issuenumber': 675, 'title': 'redisson Sentinel error', 'state': 'closed', 'created_at': '2016-10-19T09:05:25Z', 'closed_at': '2016-10-21T09:38:20Z', 'labels': []}
+{'issuenumber': 674, 'title': 'performance slow, when multiple thread', 'state': 'closed', 'created_at': '2016-10-19T03:12:05Z', 'closed_at': '2016-10-20T15:20:24Z', 'labels': []}
+{'issuenumber': 671, 'title': 'ConnectionWatchdog throws NullPointerException when connection drops (Redisson 2.5.0)', 'state': 'closed', 'created_at': '2016-10-18T12:53:01Z', 'closed_at': '2016-10-18T17:13:26Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 670, 'title': 'redis lock subscribe', 'state': 'closed', 'created_at': '2016-10-18T10:46:11Z', 'closed_at': '2016-11-02T07:32:30Z', 'labels': []}
+{'issuenumber': 669, 'title': 'InputStream and OutputStream support', 'state': 'closed', 'created_at': '2016-10-17T20:43:32Z', 'closed_at': '2016-11-04T15:00:43Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 668, 'title': 'Runtime dependencies', 'state': 'closed', 'created_at': '2016-10-17T16:10:29Z', 'closed_at': '2016-10-18T07:37:22Z', 'labels': []}
+{'issuenumber': 667, 'title': 'NullPointerException in CommandDecoder', 'state': 'closed', 'created_at': '2016-10-16T00:54:46Z', 'closed_at': '2016-10-17T08:14:51Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 666, 'title': "RMapCache doesn't keep entries insertion order during iteration", 'state': 'closed', 'created_at': '2016-10-15T16:25:43Z', 'closed_at': '2016-10-15T16:27:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 664, 'title': 'Live Object: @RId is returned/overwritten by similarly named methods', 'state': 'closed', 'created_at': '2016-10-13T08:06:21Z', 'closed_at': '2016-10-13T09:44:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 663, 'title': 'MasterConnectionPool exhausted', 'state': 'closed', 'created_at': '2016-10-11T12:00:54Z', 'closed_at': '2016-10-15T10:00:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 662, 'title': 'Add COUNT and ASC/DESC support to RGeo.radius methods', 'state': 'closed', 'created_at': '2016-10-11T11:19:55Z', 'closed_at': '2016-12-14T17:14:10Z', 'labels': []}
+{'issuenumber': 659, 'title': "RPermitExpirableSemaphore.availablePermits doesn't return actual permits account under certain conditions", 'state': 'closed', 'created_at': '2016-10-10T17:13:14Z', 'closed_at': '2016-10-10T17:13:44Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 658, 'title': 'RLocalCacheMap.readAllValues and readAllEntrySet methods return wrong values', 'state': 'closed', 'created_at': '2016-10-10T17:09:32Z', 'closed_at': '2016-10-10T17:10:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 657, 'title': 'redis list operation throw exception', 'state': 'closed', 'created_at': '2016-10-10T08:31:07Z', 'closed_at': '2016-10-10T14:02:16Z', 'labels': []}
+{'issuenumber': 656, 'title': 'RedissonRedLock trylock success while another thread already hold the lock in specific conditions', 'state': 'closed', 'created_at': '2016-10-06T08:44:18Z', 'closed_at': '2016-10-08T08:50:23Z', 'labels': []}
+{'issuenumber': 655, 'title': 'Support setter/getter with protected visibility scope for LiveObject', 'state': 'closed', 'created_at': '2016-10-05T15:11:38Z', 'closed_at': '2016-10-05T15:11:57Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 654, 'title': 'Setter for collection field of LiveObject entity should rewrite collection content', 'state': 'closed', 'created_at': '2016-10-05T14:09:50Z', 'closed_at': '2016-10-05T14:11:23Z', 'labels': []}
+{'issuenumber': 651, 'title': 'Introduce RCascade annotation for LiveObject', 'state': 'closed', 'created_at': '2016-10-04T14:48:25Z', 'closed_at': '2016-10-04T14:49:44Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 650, 'title': 'Cascade delete object graph for LiveObjectService', 'state': 'closed', 'created_at': '2016-10-03T15:14:23Z', 'closed_at': '2016-10-03T15:16:35Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 649, 'title': 'Cascade LiveObjectService.merge whole object graph', 'state': 'closed', 'created_at': '2016-10-03T14:07:40Z', 'closed_at': '2016-10-03T14:17:29Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 648, 'title': 'Cascade LiveObjectService.persist whole object graph', 'state': 'closed', 'created_at': '2016-10-03T13:40:43Z', 'closed_at': '2016-10-03T14:06:25Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 647, 'title': 'LiveObjectService swallow exceptions during merge or persist operation', 'state': 'closed', 'created_at': '2016-10-03T12:33:44Z', 'closed_at': '2016-10-03T14:08:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 646, 'title': 'RedissonSetCache TTL not updated if element already present', 'state': 'closed', 'created_at': '2016-09-30T20:32:03Z', 'closed_at': '2016-10-04T14:53:51Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 645, 'title': "LiveObjectService doesn't support protected constructors", 'state': 'closed', 'created_at': '2016-09-30T15:26:15Z', 'closed_at': '2016-09-30T15:27:44Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 644, 'title': 'Replace fields with Redisson object in proxied object returned by LiveObjectService', 'state': 'closed', 'created_at': '2016-09-30T14:14:51Z', 'closed_at': '2016-10-01T19:20:27Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 643, 'title': 'RId generator should be empty by default', 'state': 'closed', 'created_at': '2016-09-30T13:47:48Z', 'closed_at': '2016-09-30T13:48:47Z', 'labels': []}
+{'issuenumber': 642, 'title': 'Cyclic dependencies during LiveObjectService.detach process lead to stackoverflow', 'state': 'closed', 'created_at': '2016-09-30T11:57:30Z', 'closed_at': '2016-09-30T11:57:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 641, 'title': 'Not persisted REntity object allowed to store automatically', 'state': 'closed', 'created_at': '2016-09-30T10:42:22Z', 'closed_at': '2016-09-30T10:42:51Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 640, 'title': "RLexSortedSet.addAll(Collection) doesn't work", 'state': 'closed', 'created_at': '2016-09-30T07:34:17Z', 'closed_at': '2016-09-30T09:14:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 639, 'title': 'Remove `create` and `getOrCreate` methods of RLiveObjectService', 'state': 'closed', 'created_at': '2016-09-29T15:34:45Z', 'closed_at': '2016-09-30T09:39:33Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 638, 'title': "LiveObjectService can't detach content of List object", 'state': 'closed', 'created_at': '2016-09-29T15:20:59Z', 'closed_at': '2016-09-29T15:33:21Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 637, 'title': "LiveObjectService doesn't create objects mapped to Redisson objects in runtime", 'state': 'closed', 'created_at': '2016-09-28T15:39:53Z', 'closed_at': '2016-09-28T15:41:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 636, 'title': "LiveObjectService doesn't work with id without setter", 'state': 'closed', 'created_at': '2016-09-28T14:15:10Z', 'closed_at': '2016-09-28T15:09:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 635, 'title': 'RGeo should extends RScoredSortedSet', 'state': 'closed', 'created_at': '2016-09-27T15:04:53Z', 'closed_at': '2016-09-27T15:08:32Z', 'labels': []}
+{'issuenumber': 634, 'title': 'Remain time calculation for RLock, RSemaphore and RCountDownLatch objects should take in account command time execution', 'state': 'closed', 'created_at': '2016-09-26T10:39:43Z', 'closed_at': '2016-09-26T10:40:33Z', 'labels': []}
+{'issuenumber': 633, 'title': 'Implement random wait time in RedissonRedLock & RedissonMultiLock lock method', 'state': 'closed', 'created_at': '2016-09-26T09:30:25Z', 'closed_at': '2016-09-26T09:31:05Z', 'labels': []}
+{'issuenumber': 632, 'title': 'ClassCastException error happen when use sentinel server mode', 'state': 'closed', 'created_at': '2016-09-26T06:50:26Z', 'closed_at': '2016-09-27T06:51:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 631, 'title': 'RedissonRedLock & RedissonMultiLock lock method stuck', 'state': 'closed', 'created_at': '2016-09-25T10:32:06Z', 'closed_at': '2016-09-25T10:33:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 630, 'title': 'Add RBucket.size method', 'state': 'closed', 'created_at': '2016-09-23T12:08:37Z', 'closed_at': '2016-09-23T12:11:17Z', 'labels': []}
+{'issuenumber': 629, 'title': 'why ScoredSortedSet not supports the redis command "ZREVRANGE"', 'state': 'closed', 'created_at': '2016-09-23T05:00:34Z', 'closed_at': '2016-09-23T11:00:42Z', 'labels': {'name': 'new command'}}
+{'issuenumber': 628, 'title': 'Usage samples', 'state': 'closed', 'created_at': '2016-09-22T20:16:44Z', 'closed_at': '2017-12-19T21:10:42Z', 'labels': []}
+{'issuenumber': 627, 'title': 'Allow to use Jackson mixins with ExecutorService', 'state': 'closed', 'created_at': '2016-09-22T13:55:56Z', 'closed_at': '2019-09-06T10:35:52Z', 'labels': []}
+{'issuenumber': 625, 'title': 'Keep RMap insertion ordering during iteration', 'state': 'closed', 'created_at': '2016-09-20T15:16:27Z', 'closed_at': '2016-09-20T15:20:07Z', 'labels': []}
+{'issuenumber': 624, 'title': 'Incorrect RedissonRedLock.tryLock behaviour', 'state': 'closed', 'created_at': '2016-09-20T14:09:32Z', 'closed_at': '2016-09-20T14:10:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 623, 'title': 'Docker support for Redisson Node', 'state': 'closed', 'created_at': '2016-09-19T11:06:22Z', 'closed_at': '2016-09-19T19:23:01Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 622, 'title': 'Kindly Implement CompletionService', 'state': 'closed', 'created_at': '2016-09-17T11:01:30Z', 'closed_at': '2016-09-18T12:24:25Z', 'labels': []}
+{'issuenumber': 621, 'title': 'Executor service execution', 'state': 'closed', 'created_at': '2016-09-17T05:41:10Z', 'closed_at': '2017-01-11T14:39:04Z', 'labels': []}
+{'issuenumber': 620, 'title': "org.redisson.client.RedisException: ERR unknown command 'EVAL'", 'state': 'closed', 'created_at': '2016-09-17T03:45:57Z', 'closed_at': '2016-09-17T04:54:33Z', 'labels': []}
+{'issuenumber': 619, 'title': 'Add `nettyThreads` and `executor` settings', 'state': 'closed', 'created_at': '2016-09-16T15:49:43Z', 'closed_at': '2016-09-16T15:50:41Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 618, 'title': "Channel shouldn't be closed on exceptionCaught", 'state': 'closed', 'created_at': '2016-09-15T09:28:22Z', 'closed_at': '2016-09-15T09:28:42Z', 'labels': []}
+{'issuenumber': 617, 'title': 'Log unexpected errors in netty handlers', 'state': 'closed', 'created_at': '2016-09-15T09:19:31Z', 'closed_at': '2016-09-15T09:20:18Z', 'labels': []}
+{'issuenumber': 615, 'title': 'MasterConnectionPool exhausted!  Hosts with fully busy connections', 'state': 'closed', 'created_at': '2016-09-13T13:54:10Z', 'closed_at': '2016-09-15T10:21:30Z', 'labels': []}
+{'issuenumber': 613, 'title': 'Update ProjectReactor dependency to 3.x', 'state': 'closed', 'created_at': '2016-09-12T12:03:39Z', 'closed_at': '2017-10-02T18:02:53Z', 'labels': []}
+{'issuenumber': 612, 'title': 'rlock error report', 'state': 'closed', 'created_at': '2016-09-11T06:08:37Z', 'closed_at': '2016-09-12T12:42:53Z', 'labels': []}
+{'issuenumber': 608, 'title': 'Sync commands usage in connectionListener leads to connection timeout exception', 'state': 'closed', 'created_at': '2016-09-08T17:15:25Z', 'closed_at': '2016-09-08T17:16:14Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 607, 'title': 'Need to be able to set expiry on a Live Object', 'state': 'closed', 'created_at': '2016-09-08T13:19:11Z', 'closed_at': '2016-09-09T07:23:26Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 606, 'title': 'Check Jackson 2.8.x compatibility', 'state': 'closed', 'created_at': '2016-09-07T15:21:47Z', 'closed_at': '2016-09-08T14:38:47Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 604, 'title': 'Implement PermitExpirableSemaphore', 'state': 'closed', 'created_at': '2016-09-06T10:27:08Z', 'closed_at': '2016-09-09T11:43:39Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 603, 'title': 'Implement Semaphore.reducePermits method', 'state': 'closed', 'created_at': '2016-09-05T17:40:45Z', 'closed_at': '2016-09-06T14:55:34Z', 'labels': []}
+{'issuenumber': 602, 'title': 'Issue with using Executor Service', 'state': 'closed', 'created_at': '2016-08-30T19:08:44Z', 'closed_at': '2016-09-02T08:54:52Z', 'labels': []}
+{'issuenumber': 601, 'title': 'Trouble with change from io.netty.util.concurrent.Future to org.redisson.api.RFuture', 'state': 'closed', 'created_at': '2016-08-29T17:05:01Z', 'closed_at': '2016-08-30T13:53:06Z', 'labels': []}
+{'issuenumber': 600, 'title': 'java.lang.NoClassDefFoundError: io/netty/channel/epoll/EpollEventLoopGroup', 'state': 'closed', 'created_at': '2016-08-29T16:07:35Z', 'closed_at': '2016-08-31T14:05:04Z', 'labels': []}
+{'issuenumber': 599, 'title': 'Getting memory leak warnings when gracefully shutting down tomcat', 'state': 'closed', 'created_at': '2016-08-29T08:25:39Z', 'closed_at': '2017-10-06T14:31:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 598, 'title': 'Could not initialize class org.redisson.codec.JsonJacksonCodec ', 'state': 'closed', 'created_at': '2016-08-28T16:15:29Z', 'closed_at': '2016-08-29T19:08:17Z', 'labels': []}
+{'issuenumber': 597, 'title': 'Check that RLock still belongs to owner during renewal expiration ', 'state': 'closed', 'created_at': '2016-08-26T18:27:42Z', 'closed_at': '2016-09-12T12:32:20Z', 'labels': []}
+{'issuenumber': 595, 'title': 'Add ZINTERSTORE and ZUNIONSTORE support', 'state': 'closed', 'created_at': '2016-08-26T11:19:43Z', 'closed_at': '2016-09-23T10:35:19Z', 'labels': {'name': 'new command'}}
+{'issuenumber': 594, 'title': 'Wrong object encoding during RedissonScoredSortedSet.addScore usage', 'state': 'closed', 'created_at': '2016-08-26T10:32:09Z', 'closed_at': '2016-08-26T10:33:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 593, 'title': "can't find slaves", 'state': 'closed', 'created_at': '2016-08-26T06:58:53Z', 'closed_at': '2016-08-31T14:47:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 592, 'title': 'Implement LocalCachedMap', 'state': 'closed', 'created_at': '2016-08-25T12:30:59Z', 'closed_at': '2016-09-02T13:12:48Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 591, 'title': 'possible memory leak due to unlimited io.netty.util.internal.MpscLinkedQueue size', 'state': 'closed', 'created_at': '2016-08-24T04:22:41Z', 'closed_at': '2016-08-26T04:52:43Z', 'labels': []}
+{'issuenumber': 590, 'title': 'Tomcat session manager', 'state': 'closed', 'created_at': '2016-08-23T17:21:09Z', 'closed_at': '2016-11-17T14:22:26Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 589, 'title': 'Duplicate objects in a set', 'state': 'closed', 'created_at': '2016-08-22T12:56:17Z', 'closed_at': '2016-08-31T14:28:56Z', 'labels': []}
+{'issuenumber': 588, 'title': 'Q: To use RedissonRedLock locking mechanism do we need to create multiple locks?', 'state': 'closed', 'created_at': '2016-08-22T05:33:30Z', 'closed_at': '2016-08-23T23:19:43Z', 'labels': []}
+{'issuenumber': 587, 'title': 'how to del expire key in hash？', 'state': 'closed', 'created_at': '2016-08-22T02:23:53Z', 'closed_at': '2016-08-24T14:33:08Z', 'labels': []}
+{'issuenumber': 586, 'title': 'redisson lock failure problem', 'state': 'closed', 'created_at': '2016-08-19T04:34:31Z', 'closed_at': '2016-08-23T10:38:26Z', 'labels': []}
+{'issuenumber': 585, 'title': 'Improve re-connection scheduling accuracy in ConnectionWatchdog', 'state': 'closed', 'created_at': '2016-08-18T14:45:45Z', 'closed_at': '2016-08-18T14:49:35Z', 'labels': []}
+{'issuenumber': 584, 'title': 'lock.unlock', 'state': 'closed', 'created_at': '2016-08-18T09:14:53Z', 'closed_at': '2016-08-25T15:16:20Z', 'labels': []}
+{'issuenumber': 582, 'title': 'java.lang.ArithmeticException: / by zero in WeightedRoundRobinBalancer if the connections to the only Slave are frozen', 'state': 'closed', 'created_at': '2016-08-17T06:22:39Z', 'closed_at': '2016-08-22T12:22:15Z', 'labels': []}
+{'issuenumber': 581, 'title': 'tryLock method throw Exception:attempt to unlock lock, not locked by current thread by node id: 157ddcf5-0cc2-445d-bdea-98160a459bd5 thread-id: 42', 'state': 'closed', 'created_at': '2016-08-17T06:10:40Z', 'closed_at': '2016-08-17T08:15:08Z', 'labels': []}
+{'issuenumber': 580, 'title': 'Cannot create Redisson Client if it cannot connect to the only Slave in SLAVE and MASTER_SLAVE read mode', 'state': 'closed', 'created_at': '2016-08-17T02:56:44Z', 'closed_at': '2018-07-19T12:41:42Z', 'labels': []}
+{'issuenumber': 579, 'title': 'diffrent topic subscribe to the same node', 'state': 'closed', 'created_at': '2016-08-15T06:57:50Z', 'closed_at': '2020-07-30T11:38:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 577, 'title': 'Replace Future interface to RFuture for async methods', 'state': 'closed', 'created_at': '2016-08-11T14:12:26Z', 'closed_at': '2016-08-11T14:15:20Z', 'labels': []}
+{'issuenumber': 576, 'title': '"Command execution timeout" for INFO replication', 'state': 'closed', 'created_at': '2016-08-11T09:56:52Z', 'closed_at': '2016-09-12T14:52:32Z', 'labels': []}
+{'issuenumber': 573, 'title': 'Connection pool exhausted', 'state': 'closed', 'created_at': '2016-08-05T08:37:59Z', 'closed_at': '2016-09-21T14:20:14Z', 'labels': []}
+{'issuenumber': 572, 'title': "redisson can't subscribe to the slot after fix Redis Cluster PubSub  Scalability Issues", 'state': 'closed', 'created_at': '2016-08-05T07:56:28Z', 'closed_at': '2016-08-05T10:02:53Z', 'labels': []}
+{'issuenumber': 571, 'title': 'Add Smile and Avro codecs', 'state': 'closed', 'created_at': '2016-08-03T14:12:13Z', 'closed_at': '2016-08-09T13:12:14Z', 'labels': []}
+{'issuenumber': 570, 'title': 'Unable to redefine RedisClient command execution timeout ', 'state': 'closed', 'created_at': '2016-08-03T08:35:48Z', 'closed_at': '2016-08-03T08:36:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 569, 'title': 'Limit Payload String on RedisTimeoutException', 'state': 'closed', 'created_at': '2016-08-03T00:15:13Z', 'closed_at': '2016-11-07T09:03:50Z', 'labels': []}
+{'issuenumber': 568, 'title': 'Exceptions handling in CommandEncoder', 'state': 'closed', 'created_at': '2016-08-02T17:13:02Z', 'closed_at': '2016-08-03T08:12:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 567, 'title': 'Exceptions handling in CommandDecoder. ', 'state': 'closed', 'created_at': '2016-08-02T14:50:40Z', 'closed_at': '2016-08-02T14:51:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 565, 'title': 'Improve BLPOP response timeout', 'state': 'closed', 'created_at': '2016-08-02T07:38:16Z', 'closed_at': '2016-08-02T07:56:28Z', 'labels': []}
+{'issuenumber': 564, 'title': 'Help needed with elastic cache configuration', 'state': 'closed', 'created_at': '2016-08-01T12:45:10Z', 'closed_at': '2016-08-05T06:39:21Z', 'labels': []}
+{'issuenumber': 563, 'title': 'Add ability to cancel remoteService task execution', 'state': 'closed', 'created_at': '2016-08-01T11:44:38Z', 'closed_at': '2016-08-01T11:44:52Z', 'labels': []}
+{'issuenumber': 562, 'title': 'attempt to unlock lock, not locked by current thread by node id', 'state': 'closed', 'created_at': '2016-08-01T10:27:09Z', 'closed_at': '2016-08-08T02:01:03Z', 'labels': []}
+{'issuenumber': 561, 'title': 'Redisson map get makes the thread waiting forever', 'state': 'closed', 'created_at': '2016-08-01T07:42:02Z', 'closed_at': '2016-08-03T17:32:34Z', 'labels': []}
+{'issuenumber': 560, 'title': 'Add Future.cancel method handling for remote method call', 'state': 'closed', 'created_at': '2016-07-29T15:36:33Z', 'closed_at': '2016-08-01T11:59:19Z', 'labels': []}
+{'issuenumber': 559, 'title': 'Ack object used to prevent race-condition during ack receiving should be created per request', 'state': 'closed', 'created_at': '2016-07-29T15:15:45Z', 'closed_at': '2016-07-29T15:15:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 558, 'title': 'loop lock blocked when master-slave failover', 'state': 'closed', 'created_at': '2016-07-27T04:21:54Z', 'closed_at': '2016-08-05T08:39:00Z', 'labels': []}
+{'issuenumber': 557, 'title': 'java.lang.UnsupportedOperationException during command batch usage with netty 4.0.38 and higher', 'state': 'closed', 'created_at': '2016-07-26T09:01:03Z', 'closed_at': '2016-07-26T09:02:21Z', 'labels': []}
+{'issuenumber': 556, 'title': 'Command execution timeout for command', 'state': 'closed', 'created_at': '2016-07-25T14:54:12Z', 'closed_at': '2016-07-26T15:31:50Z', 'labels': []}
+{'issuenumber': 554, 'title': 'why key never don,t expire? ', 'state': 'closed', 'created_at': '2016-07-18T11:33:47Z', 'closed_at': '2016-08-02T09:44:41Z', 'labels': []}
+{'issuenumber': 553, 'title': 'Consider consolidating tests on Travis CI', 'state': 'closed', 'created_at': '2016-07-16T00:29:51Z', 'closed_at': '2018-07-19T12:39:58Z', 'labels': []}
+{'issuenumber': 552, 'title': 'Redis server response timeout', 'state': 'closed', 'created_at': '2016-07-14T06:45:58Z', 'closed_at': '2016-07-27T18:03:32Z', 'labels': []}
+{'issuenumber': 551, 'title': 'Move classes from `org.redisson.core` to `org.redisson.api`', 'state': 'closed', 'created_at': '2016-07-13T12:05:48Z', 'closed_at': '2016-07-25T15:40:19Z', 'labels': []}
+{'issuenumber': 550, 'title': 'Connection pool exhausted', 'state': 'closed', 'created_at': '2016-07-13T07:24:09Z', 'closed_at': '2016-07-26T14:44:24Z', 'labels': []}
+{'issuenumber': 549, 'title': 'redisson org.redisson.client.RedisException: NOAUTH Authentication required. exception in 2.1.0', 'state': 'closed', 'created_at': '2016-07-09T14:00:54Z', 'closed_at': '2016-07-15T18:49:37Z', 'labels': []}
+{'issuenumber': 548, 'title': 'redisson creates non-daemon threads', 'state': 'closed', 'created_at': '2016-07-07T12:46:37Z', 'closed_at': '2020-01-15T08:28:44Z', 'labels': []}
+{'issuenumber': 547, 'title': 'ConnectionListener.onConnect()/onDisconnect() are not invoked when redis server becomes active/inactive.', 'state': 'closed', 'created_at': '2016-07-05T20:58:53Z', 'closed_at': '2016-07-12T14:42:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 545, 'title': "RedissonLock.isHeldByCurrentThread() doesn't check properly.", 'state': 'closed', 'created_at': '2016-07-04T07:33:42Z', 'closed_at': '2016-07-06T07:01:06Z', 'labels': []}
+{'issuenumber': 543, 'title': 'RLock trylock blocks forever', 'state': 'closed', 'created_at': '2016-06-30T18:26:56Z', 'closed_at': '2016-08-06T12:23:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 542, 'title': 'RedissonRedLock.unlock() is using forceUnlockAsync()', 'state': 'closed', 'created_at': '2016-06-30T09:57:28Z', 'closed_at': '2016-07-01T06:24:34Z', 'labels': []}
+{'issuenumber': 541, 'title': 'pub/sub timeout', 'state': 'closed', 'created_at': '2016-06-30T05:24:31Z', 'closed_at': '2016-07-26T14:45:13Z', 'labels': []}
+{'issuenumber': 540, 'title': 'RMapCache with timeout leaves redisson__idle__set__ behind', 'state': 'closed', 'created_at': '2016-06-24T12:10:56Z', 'closed_at': '2016-06-27T06:14:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 539, 'title': 'Scalability of Channels (Pub/Sub)', 'state': 'closed', 'created_at': '2016-06-24T01:09:51Z', 'closed_at': '2016-07-15T18:49:51Z', 'labels': []}
+{'issuenumber': 535, 'title': 'memory leak', 'state': 'closed', 'created_at': '2016-06-23T12:11:29Z', 'closed_at': '2016-06-28T11:23:19Z', 'labels': []}
+{'issuenumber': 534, 'title': 'Add SCAN command support to RedissonKeys.deleteByPattern', 'state': 'closed', 'created_at': '2016-06-23T09:53:59Z', 'closed_at': '2017-05-27T14:37:25Z', 'labels': []}
+{'issuenumber': 533, 'title': 'Exception in using RedissonMultiLock', 'state': 'closed', 'created_at': '2016-06-23T05:54:14Z', 'closed_at': '2016-06-29T07:21:37Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 532, 'title': 'A type based codec for json', 'state': 'closed', 'created_at': '2016-06-22T18:18:59Z', 'closed_at': '2016-07-05T18:49:42Z', 'labels': []}
+{'issuenumber': 531, 'title': 'Writing to Redis failed without any exception', 'state': 'closed', 'created_at': '2016-06-22T12:36:38Z', 'closed_at': '2016-07-15T14:44:09Z', 'labels': []}
+{'issuenumber': 530, 'title': 'Deadlock on lock() and not only.', 'state': 'closed', 'created_at': '2016-06-15T19:57:10Z', 'closed_at': '2016-06-24T10:35:57Z', 'labels': []}
+{'issuenumber': 529, 'title': 'Add TYPE command', 'state': 'closed', 'created_at': '2016-06-15T13:36:15Z', 'closed_at': '2016-06-22T11:08:08Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 526, 'title': 'Conflicting setter definitions for property "masterAddress', 'state': 'closed', 'created_at': '2016-06-09T13:46:50Z', 'closed_at': '2016-06-14T19:29:33Z', 'labels': []}
+{'issuenumber': 525, 'title': 'Add MultimapCache to RBatch object', 'state': 'closed', 'created_at': '2016-06-08T17:43:16Z', 'closed_at': '2016-06-09T10:46:34Z', 'labels': []}
+{'issuenumber': 524, 'title': 'Add Multimap to RBatch object', 'state': 'closed', 'created_at': '2016-06-08T17:42:08Z', 'closed_at': '2016-06-08T17:52:11Z', 'labels': []}
+{'issuenumber': 523, 'title': 'Add ability to define Codec for RemoteService', 'state': 'closed', 'created_at': '2016-06-08T17:40:30Z', 'closed_at': '2016-06-09T10:59:19Z', 'labels': []}
+{'issuenumber': 522, 'title': 'Add RGeo to RBatch object.', 'state': 'closed', 'created_at': '2016-06-08T17:40:01Z', 'closed_at': '2016-06-09T10:42:33Z', 'labels': []}
+{'issuenumber': 521, 'title': 'Storing simple key/value pairs in RMap vs. RBucket', 'state': 'closed', 'created_at': '2016-06-05T08:23:42Z', 'closed_at': '2016-06-08T10:42:37Z', 'labels': []}
+{'issuenumber': 519, 'title': 'Support for ssdb as a replacement of redis.', 'state': 'closed', 'created_at': '2016-06-01T14:03:15Z', 'closed_at': '2016-08-22T13:36:57Z', 'labels': []}
+{'issuenumber': 518, 'title': 'Redisson cannot recover from password protected rebooted redis server', 'state': 'closed', 'created_at': '2016-06-01T13:05:32Z', 'closed_at': '2016-06-03T10:45:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 517, 'title': 'redis master/slaver switch exception', 'state': 'closed', 'created_at': '2016-06-01T10:38:59Z', 'closed_at': '2016-06-02T09:48:29Z', 'labels': []}
+{'issuenumber': 515, 'title': 'RKeys.getKeysByPattern infinite scan when no keys are present', 'state': 'closed', 'created_at': '2016-05-30T09:54:38Z', 'closed_at': '2016-06-08T10:50:06Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 514, 'title': "RedissonSortedSet's order seems broken", 'state': 'closed', 'created_at': '2016-05-30T05:45:47Z', 'closed_at': '2016-06-03T10:40:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 513, 'title': 'Allow to execute interface methods used for RemoteService in asynchronous way', 'state': 'closed', 'created_at': '2016-05-27T15:14:16Z', 'closed_at': '2016-05-27T15:15:47Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 511, 'title': 'Add RedissonFairLock', 'state': 'closed', 'created_at': '2016-05-24T17:11:58Z', 'closed_at': '2016-05-25T18:49:16Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 507, 'title': 'Possible race-condition in RemoteService', 'state': 'closed', 'created_at': '2016-05-23T17:46:00Z', 'closed_at': '2016-05-23T18:09:30Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 506, 'title': 'Only `connect` Topic under Cluster mode Not Working in win7', 'state': 'closed', 'created_at': '2016-05-23T06:31:26Z', 'closed_at': '2018-12-30T05:41:12Z', 'labels': []}
+{'issuenumber': 505, 'title': 'FstCodec: FSTObjectOutput proper usage', 'state': 'closed', 'created_at': '2016-05-23T04:10:47Z', 'closed_at': '2016-05-23T10:11:27Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 504, 'title': 'Async Semaphore', 'state': 'closed', 'created_at': '2016-05-22T14:11:44Z', 'closed_at': '2016-05-24T14:35:01Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 503, 'title': 'Asynchronous lock release', 'state': 'closed', 'created_at': '2016-05-22T13:29:30Z', 'closed_at': '2016-05-22T18:57:20Z', 'labels': []}
+{'issuenumber': 500, 'title': 'Java 8 compatibility', 'state': 'closed', 'created_at': '2016-05-20T18:37:46Z', 'closed_at': '2016-06-10T10:19:36Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 494, 'title': 'RedissonRemoteService ideas', 'state': 'closed', 'created_at': '2016-05-19T16:01:08Z', 'closed_at': '2016-05-27T15:17:13Z', 'labels': []}
+{'issuenumber': 493, 'title': 'RedissonRemoteService: executorsAmount vs invokeMethod', 'state': 'closed', 'created_at': '2016-05-19T15:17:18Z', 'closed_at': '2016-05-19T18:50:26Z', 'labels': []}
+{'issuenumber': 492, 'title': 'Move all config classes to org.redisson.config package', 'state': 'closed', 'created_at': '2016-05-19T14:03:01Z', 'closed_at': '2016-07-26T08:46:23Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 491, 'title': 'Dead Locks Happen in lock() Process', 'state': 'closed', 'created_at': '2016-05-16T12:34:43Z', 'closed_at': '2016-06-11T07:34:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 490, 'title': 'expireAt(Date) use second instead of ms', 'state': 'closed', 'created_at': '2016-05-16T06:04:45Z', 'closed_at': '2016-05-16T16:58:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 487, 'title': 'getBlockingQueue throws IndexOutOfBoundsException', 'state': 'closed', 'created_at': '2016-05-12T15:40:43Z', 'closed_at': '2016-05-14T09:59:58Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 486, 'title': 'Rlock performance issue', 'state': 'closed', 'created_at': '2016-05-05T11:05:17Z', 'closed_at': '2016-06-11T07:34:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 481, 'title': 'RSetCache TTL doesnt readd after expiry via RSetCache.add', 'state': 'closed', 'created_at': '2016-04-26T15:29:44Z', 'closed_at': '2016-04-27T08:54:51Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 480, 'title': 'Rlock Exception in cluster mode', 'state': 'closed', 'created_at': '2016-04-26T12:04:59Z', 'closed_at': '2016-04-26T17:23:30Z', 'labels': []}
+{'issuenumber': 479, 'title': 'Connection pool exhausted! error in Redis Cluster', 'state': 'closed', 'created_at': '2016-04-24T09:07:04Z', 'closed_at': '2016-04-24T14:30:56Z', 'labels': []}
+{'issuenumber': 478, 'title': 'A bug about RScoredSortedSet#revRank method ', 'state': 'closed', 'created_at': '2016-04-21T06:44:25Z', 'closed_at': '2016-04-21T15:24:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 477, 'title': 'Error if first node is down in 3 node Master-Master cluster ', 'state': 'closed', 'created_at': '2016-04-20T14:55:17Z', 'closed_at': '2016-04-30T11:15:59Z', 'labels': []}
+{'issuenumber': 476, 'title': 'Redisson fails to recognize slave that become a master due to master down in Redis Cluster', 'state': 'closed', 'created_at': '2016-04-19T16:30:50Z', 'closed_at': '2016-04-21T13:48:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 475, 'title': 'Master change in cluster mode causes an unneccesary slots migration.', 'state': 'closed', 'created_at': '2016-04-18T10:14:45Z', 'closed_at': '2016-04-18T10:16:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 474, 'title': 'In Cluster when master goes down and his slave becomes a master, Redisson does not recognize the new master', 'state': 'closed', 'created_at': '2016-04-17T16:05:13Z', 'closed_at': '2016-04-19T07:05:32Z', 'labels': []}
+{'issuenumber': 473, 'title': 'Add RTopic.waitMessage method', 'state': 'closed', 'created_at': '2016-04-16T19:07:28Z', 'closed_at': '2018-07-19T12:38:08Z', 'labels': []}
+{'issuenumber': 471, 'title': 'RMapCache.values() fails', 'state': 'closed', 'created_at': '2016-04-15T12:51:03Z', 'closed_at': '2016-04-19T13:41:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 468, 'title': 'IllegalStateException while iterating over RMapCache using an iterator', 'state': 'closed', 'created_at': '2016-04-11T07:15:32Z', 'closed_at': '2016-04-12T17:20:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 467, 'title': 'Deadlock using RedissonMultiLock', 'state': 'closed', 'created_at': '2016-04-10T14:05:21Z', 'closed_at': '2016-04-15T18:39:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 466, 'title': 'RedisTimeoutException with "large" objects', 'state': 'closed', 'created_at': '2016-04-08T12:23:42Z', 'closed_at': '2016-04-26T15:35:49Z', 'labels': []}
+{'issuenumber': 465, 'title': 'Need suggestion for connection issue', 'state': 'closed', 'created_at': '2016-04-07T15:29:27Z', 'closed_at': '2016-04-13T21:17:12Z', 'labels': []}
+{'issuenumber': 464, 'title': 'Reconsider interface hierarchy used in RMultimap.get methods', 'state': 'closed', 'created_at': '2016-04-04T15:08:57Z', 'closed_at': '2016-09-09T12:01:12Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 463, 'title': 'wrong SCAN commands handling, affects Iterator objects', 'state': 'closed', 'created_at': '2016-04-01T15:30:23Z', 'closed_at': '2016-04-04T08:57:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 462, 'title': 'Exception occurred. org.redisson.client.RedisTimeoutException: Redis server response timeout for command: (HGET) with params:', 'state': 'closed', 'created_at': '2016-04-01T14:01:38Z', 'closed_at': '2016-04-08T05:50:18Z', 'labels': []}
+{'issuenumber': 460, 'title': 'Move all mass bucket methods to RBuckets object', 'state': 'closed', 'created_at': '2016-03-30T08:16:50Z', 'closed_at': '2016-04-01T11:12:29Z', 'labels': []}
+{'issuenumber': 459, 'title': 'remove "lex" workd from method names in RLexSortedSet', 'state': 'closed', 'created_at': '2016-03-30T07:59:07Z', 'closed_at': '2016-04-01T09:56:20Z', 'labels': []}
+{'issuenumber': 458, 'title': 'Add ZCOUNT command', 'state': 'closed', 'created_at': '2016-03-30T07:31:43Z', 'closed_at': '2016-05-19T12:21:24Z', 'labels': {'name': 'new command'}}
+{'issuenumber': 457, 'title': 'Add TIME command to Node object', 'state': 'closed', 'created_at': '2016-03-30T07:23:21Z', 'closed_at': '2016-09-23T12:03:18Z', 'labels': {'name': 'new command'}}
+{'issuenumber': 455, 'title': 'Long latency issue while call Redis.', 'state': 'closed', 'created_at': '2016-03-29T08:42:29Z', 'closed_at': '2016-06-11T07:34:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 454, 'title': 'RSetCache not checking expiration', 'state': 'closed', 'created_at': '2016-03-28T17:29:12Z', 'closed_at': '2016-03-29T10:49:23Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 453, 'title': 'Exception on  pub / subscribe and after whole system becomes unstable', 'state': 'closed', 'created_at': '2016-03-27T14:44:46Z', 'closed_at': '2016-03-29T09:31:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 452, 'title': 'Add Spring session integration', 'state': 'closed', 'created_at': '2016-03-27T10:14:10Z', 'closed_at': '2016-11-22T14:52:07Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 451, 'title': 'Is Redisson a good candidate for session manager?', 'state': 'closed', 'created_at': '2016-03-26T17:21:07Z', 'closed_at': '2016-03-27T11:45:58Z', 'labels': []}
+{'issuenumber': 450, 'title': '2.2.11', 'state': 'closed', 'created_at': '2016-03-25T12:32:07Z', 'closed_at': '2016-03-25T12:32:10Z', 'labels': []}
+{'issuenumber': 449, 'title': 'Long BlockingQueue\\Deque commands reattaching', 'state': 'closed', 'created_at': '2016-03-25T12:30:46Z', 'closed_at': '2016-03-25T12:33:42Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 448, 'title': 'MOVED, ASK handling in cluster mode using RBatch', 'state': 'closed', 'created_at': '2016-03-23T09:48:36Z', 'closed_at': '2016-03-23T10:04:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 447, 'title': 'Fix delete and expire Multimap methods', 'state': 'closed', 'created_at': '2016-03-23T07:29:23Z', 'closed_at': '2016-03-23T08:49:22Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 446, 'title': 'Ability to cancel BRPOP and BLPOP async command execution.', 'state': 'closed', 'created_at': '2016-03-22T10:52:43Z', 'closed_at': '2016-03-22T10:56:15Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 445, 'title': 'Add oneShotListener to RTopic', 'state': 'closed', 'created_at': '2016-03-22T08:20:13Z', 'closed_at': '2018-07-19T12:37:45Z', 'labels': []}
+{'issuenumber': 444, 'title': 'Optimization on interactions between Redis and Redission', 'state': 'closed', 'created_at': '2016-03-21T13:01:14Z', 'closed_at': '2016-03-21T13:06:03Z', 'labels': []}
+{'issuenumber': 440, 'title': 'Allow injecting custom ConnectionManager', 'state': 'closed', 'created_at': '2016-03-16T18:19:47Z', 'closed_at': '2017-03-20T15:34:20Z', 'labels': []}
+{'issuenumber': 438, 'title': 'Connection pool exhausted! All connections are busy', 'state': 'closed', 'created_at': '2016-03-16T08:10:38Z', 'closed_at': '2016-03-17T10:02:06Z', 'labels': []}
+{'issuenumber': 437, 'title': 'Connection pool exhausted! All connections are busy', 'state': 'closed', 'created_at': '2016-03-16T08:07:57Z', 'closed_at': '2016-03-16T08:14:19Z', 'labels': []}
+{'issuenumber': 436, 'title': 'Read Write lock cannot be correctly unlocked ', 'state': 'closed', 'created_at': '2016-03-16T02:04:03Z', 'closed_at': '2016-03-22T06:48:02Z', 'labels': []}
+{'issuenumber': 434, 'title': 'RemoteService', 'state': 'closed', 'created_at': '2016-03-15T11:25:02Z', 'closed_at': '2016-03-22T14:02:55Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 433, 'title': 'Please add RScoredSortedSet#revRank method', 'state': 'closed', 'created_at': '2016-03-15T07:57:59Z', 'closed_at': '2016-03-17T15:12:52Z', 'labels': []}
+{'issuenumber': 431, 'title': "RedisConnectionException: Can't init enough connections", 'state': 'closed', 'created_at': '2016-03-11T16:02:48Z', 'closed_at': '2016-03-21T12:26:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 430, 'title': 'Add MSETNX command support', 'state': 'closed', 'created_at': '2016-03-11T09:12:48Z', 'closed_at': '2016-04-01T11:12:38Z', 'labels': {'name': 'new command'}}
+{'issuenumber': 429, 'title': 'Add LINSERT operation to RList', 'state': 'closed', 'created_at': '2016-03-11T08:40:26Z', 'closed_at': '2016-05-19T12:40:16Z', 'labels': {'name': 'new command'}}
+{'issuenumber': 428, 'title': 'RSetMultimapCache and RListMultimapCache', 'state': 'closed', 'created_at': '2016-03-11T07:45:17Z', 'closed_at': '2016-03-21T12:03:47Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 426, 'title': 'RScoredSortedSet should be able to handle +/-inf as value range.', 'state': 'closed', 'created_at': '2016-03-10T21:28:48Z', 'closed_at': '2016-03-11T07:55:17Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 425, 'title': 'Missing entries in RMapAsync using single redis server and multiple web servers in servlet enviornment', 'state': 'closed', 'created_at': '2016-03-10T14:53:06Z', 'closed_at': '2016-03-11T07:49:51Z', 'labels': []}
+{'issuenumber': 424, 'title': 'Async version of RSetMultimap/RListMultimap', 'state': 'closed', 'created_at': '2016-03-10T12:32:41Z', 'closed_at': '2016-03-10T13:51:09Z', 'labels': []}
+{'issuenumber': 423, 'title': 'An exception was thrown by org.redisson.RedissonLock$8$1.operationComplete()- java.lang.NullPointerException', 'state': 'closed', 'created_at': '2016-03-10T09:05:01Z', 'closed_at': '2016-03-11T08:37:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 422, 'title': 'Version.logVersion() error', 'state': 'closed', 'created_at': '2016-03-09T07:49:54Z', 'closed_at': '2016-03-09T08:25:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 421, 'title': 'orphan netty threads on connection failure', 'state': 'closed', 'created_at': '2016-03-07T19:10:28Z', 'closed_at': '2016-03-08T07:34:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 420, 'title': 'Add INFO command', 'state': 'closed', 'created_at': '2016-03-07T13:44:55Z', 'closed_at': '2016-12-17T18:01:19Z', 'labels': {'name': 'new command'}}
+{'issuenumber': 419, 'title': 'Add HSTRLEN command', 'state': 'closed', 'created_at': '2016-03-07T13:37:11Z', 'closed_at': '2016-09-23T12:26:59Z', 'labels': {'name': 'new command'}}
+{'issuenumber': 417, 'title': 'Google App engine support', 'state': 'closed', 'created_at': '2016-03-06T21:51:22Z', 'closed_at': '2016-05-20T18:24:16Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 416, 'title': 'Add config option to reuse existing netty EventLoopGroup.', 'state': 'closed', 'created_at': '2016-03-06T09:35:19Z', 'closed_at': '2016-03-06T10:16:58Z', 'labels': []}
+{'issuenumber': 415, 'title': 'Add CLIENT REPLY command support', 'state': 'closed', 'created_at': '2016-03-05T06:49:24Z', 'closed_at': '2016-09-23T15:03:27Z', 'labels': {'name': 'new command'}}
+{'issuenumber': 414, 'title': 'New connection pool', 'state': 'closed', 'created_at': '2016-03-04T04:30:50Z', 'closed_at': '2016-05-16T20:30:09Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 413, 'title': 'Throw RedisOutOfMemoryException on OOM error from Redis', 'state': 'closed', 'created_at': '2016-03-03T08:00:35Z', 'closed_at': '2016-03-03T08:17:03Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 410, 'title': 'Add DynamicImport-Package to OSGi-instructions', 'state': 'closed', 'created_at': '2016-03-02T14:06:52Z', 'closed_at': '2016-03-02T15:20:43Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 409, 'title': 'ElasticacheCluster not working correctly with DistributedLocks', 'state': 'closed', 'created_at': '2016-02-23T20:47:06Z', 'closed_at': '2016-02-29T23:49:55Z', 'labels': []}
+{'issuenumber': 408, 'title': 'why not invoke FSTObjectInput.close() in FstCodec ?', 'state': 'closed', 'created_at': '2016-02-23T06:31:12Z', 'closed_at': '2016-02-23T06:43:22Z', 'labels': []}
+{'issuenumber': 407, 'title': 'redisson.shutdown()  time consuming 2s', 'state': 'closed', 'created_at': '2016-02-19T08:38:38Z', 'closed_at': '2016-02-29T04:44:54Z', 'labels': []}
+{'issuenumber': 406, 'title': 'Where is ZREVRANGEBYSCORE command', 'state': 'closed', 'created_at': '2016-02-19T06:22:09Z', 'closed_at': '2016-02-29T05:27:19Z', 'labels': []}
+{'issuenumber': 405, 'title': 'an exception of RedissonSpringCacheManager ', 'state': 'closed', 'created_at': '2016-02-16T03:42:01Z', 'closed_at': '2016-02-29T06:44:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 404, 'title': 'Multimap', 'state': 'closed', 'created_at': '2016-02-11T16:21:02Z', 'closed_at': '2016-03-03T06:55:43Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 403, 'title': 'Read all values of set', 'state': 'closed', 'created_at': '2016-02-11T09:20:14Z', 'closed_at': '2016-02-29T05:44:42Z', 'labels': []}
+{'issuenumber': 402, 'title': 'Redisson keep retry commands during shutdown', 'state': 'closed', 'created_at': '2016-02-10T08:18:41Z', 'closed_at': '2016-02-10T08:19:05Z', 'labels': []}
+{'issuenumber': 399, 'title': 'Add type to Node', 'state': 'closed', 'created_at': '2016-02-09T15:06:13Z', 'closed_at': '2016-03-01T04:59:19Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 398, 'title': 'Add sunion command to RSet', 'state': 'closed', 'created_at': '2016-02-08T15:15:35Z', 'closed_at': '2016-02-09T08:40:41Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 397, 'title': 'Lots of string allocations by exception', 'state': 'closed', 'created_at': '2016-02-06T15:58:56Z', 'closed_at': '2016-02-07T10:54:03Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 396, 'title': 'Log Level', 'state': 'closed', 'created_at': '2016-02-05T03:27:04Z', 'closed_at': '2016-02-05T04:07:34Z', 'labels': []}
+{'issuenumber': 394, 'title': 'Redisson', 'state': 'closed', 'created_at': '2016-02-04T05:31:35Z', 'closed_at': '2016-02-04T08:35:23Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 393, 'title': 'Sentinel "ERR unknown command \'AUTH\'" error after upgrade from 2.2.5 to 2.2.6,2.2.7', 'state': 'closed', 'created_at': '2016-02-03T17:04:26Z', 'closed_at': '2016-02-04T09:23:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 392, 'title': 'RKeys.deleteByPattern in cluster mode throws error', 'state': 'closed', 'created_at': '2016-01-30T10:50:54Z', 'closed_at': '2016-02-01T13:22:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 391, 'title': 'Sentinel error when no slaves', 'state': 'closed', 'created_at': '2016-01-29T18:02:40Z', 'closed_at': '2016-02-29T05:43:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 390, 'title': 'Add readAllKeySet, readAllValues, readAllEntry to RMapReactive', 'state': 'closed', 'created_at': '2016-01-29T14:03:59Z', 'closed_at': '2017-09-21T13:49:38Z', 'labels': []}
+{'issuenumber': 389, 'title': 'Restore RMap.keySet and RMap.values methods with eager fetch loading', 'state': 'closed', 'created_at': '2016-01-29T11:55:03Z', 'closed_at': '2016-01-29T14:04:05Z', 'labels': []}
+{'issuenumber': 388, 'title': 'RedissonCacheManager use custom Codec and must be more simply', 'state': 'closed', 'created_at': '2016-01-29T06:32:17Z', 'closed_at': '2016-01-29T15:30:24Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 387, 'title': 'An exception when upgrade from 2.2.5 to 2.2.6', 'state': 'closed', 'created_at': '2016-01-29T04:14:57Z', 'closed_at': '2016-01-29T09:37:44Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 386, 'title': 'Running out of connections', 'state': 'closed', 'created_at': '2016-01-28T17:22:49Z', 'closed_at': '2016-04-08T06:09:46Z', 'labels': []}
+{'issuenumber': 385, 'title': 'Add readAll method to RSetReactive and RListReactive', 'state': 'closed', 'created_at': '2016-01-28T14:10:41Z', 'closed_at': '2018-07-19T12:37:36Z', 'labels': []}
+{'issuenumber': 384, 'title': '"Can\'t connect to servers!" aways occured ', 'state': 'closed', 'created_at': '2016-01-28T08:09:24Z', 'closed_at': '2016-01-30T05:41:01Z', 'labels': []}
+{'issuenumber': 383, 'title': 'Implement vertx-redisson module', 'state': 'closed', 'created_at': '2016-01-27T14:08:23Z', 'closed_at': '2020-10-01T07:51:34Z', 'labels': []}
+{'issuenumber': 381, 'title': 'Healthcheck for Redisson', 'state': 'closed', 'created_at': '2016-01-25T05:12:35Z', 'closed_at': '2016-02-20T06:06:34Z', 'labels': []}
+{'issuenumber': 380, 'title': 'Add readFrom (SLAVE, MASTER, MASTER_SLAVE) option to all master slave connection modes', 'state': 'closed', 'created_at': '2016-01-24T08:20:57Z', 'closed_at': '2016-01-25T11:43:47Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 379, 'title': 'Question: Does redisson handle redis clusters with password?', 'state': 'closed', 'created_at': '2016-01-21T03:21:37Z', 'closed_at': '2016-01-21T12:10:26Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 378, 'title': 'How can I use mget/mset in redis cluster?', 'state': 'closed', 'created_at': '2016-01-20T03:20:58Z', 'closed_at': '2016-01-20T08:35:06Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 377, 'title': 'Connecting to localhost', 'state': 'closed', 'created_at': '2016-01-19T11:08:51Z', 'closed_at': '2016-01-20T08:21:43Z', 'labels': []}
+{'issuenumber': 376, 'title': 'Implement MultiLock object based on RLock objects collection', 'state': 'closed', 'created_at': '2016-01-18T19:20:08Z', 'closed_at': '2016-01-22T09:27:27Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 375, 'title': "Can't init enough connections amount", 'state': 'closed', 'created_at': '2016-01-15T06:05:06Z', 'closed_at': '2016-02-03T11:23:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 374, 'title': 'RSet add getAll(SMEMBERS)  method.', 'state': 'closed', 'created_at': '2016-01-14T15:15:35Z', 'closed_at': '2016-01-21T13:24:01Z', 'labels': []}
+{'issuenumber': 372, 'title': 'Add max-idle param to RMapCache ', 'state': 'closed', 'created_at': '2016-01-13T13:41:48Z', 'closed_at': '2016-01-14T11:45:30Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 371, 'title': "Can't init enough connections amount", 'state': 'closed', 'created_at': '2016-01-12T13:22:54Z', 'closed_at': '2016-01-12T14:12:40Z', 'labels': []}
+{'issuenumber': 370, 'title': 'A RMap error in 2.2.5', 'state': 'closed', 'created_at': '2016-01-11T03:27:01Z', 'closed_at': '2016-01-11T09:16:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 369, 'title': 'Add SINTERSTORE command support', 'state': 'closed', 'created_at': '2016-01-09T17:48:30Z', 'closed_at': '2016-04-30T10:35:06Z', 'labels': {'name': 'new command'}}
+{'issuenumber': 368, 'title': 'Add SUNIONSTORE command support', 'state': 'closed', 'created_at': '2016-01-09T17:46:41Z', 'closed_at': '2016-02-09T08:40:30Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 366, 'title': 'SMOVE command support', 'state': 'closed', 'created_at': '2016-01-09T10:40:15Z', 'closed_at': '2016-01-09T17:44:53Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 364, 'title': 'RedissonList add LTRIM Command', 'state': 'closed', 'created_at': '2016-01-08T08:08:19Z', 'closed_at': '2016-01-21T13:49:38Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 363, 'title': '2.2.6', 'state': 'closed', 'created_at': '2016-01-07T19:25:53Z', 'closed_at': '2016-01-07T19:26:02Z', 'labels': []}
+{'issuenumber': 362, 'title': 'Add RAtomicDoubleReactive', 'state': 'closed', 'created_at': '2016-01-07T10:42:25Z', 'closed_at': '2018-07-19T12:36:51Z', 'labels': []}
+{'issuenumber': 361, 'title': "this is a bug?I can't use RBatch。", 'state': 'closed', 'created_at': '2016-01-07T09:13:49Z', 'closed_at': '2016-01-07T19:22:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 360, 'title': 'Optimize RedissonAtomicLong.getAndSetAsync & RedissonAtomicLong.getAndAddAsync', 'state': 'closed', 'created_at': '2016-01-07T08:07:12Z', 'closed_at': '2016-01-07T08:31:14Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 359, 'title': 'Please add RedissonAtomicDouble implementation ', 'state': 'closed', 'created_at': '2016-01-07T05:39:21Z', 'closed_at': '2016-01-07T10:10:12Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 358, 'title': 'Add fastPutIfAbsent and fastPutIfAbsentAsync method.', 'state': 'closed', 'created_at': '2016-01-06T08:17:27Z', 'closed_at': '2016-01-06T09:49:20Z', 'labels': []}
+{'issuenumber': 357, 'title': 'I found a bug when using RMap! infinity loop!', 'state': 'closed', 'created_at': '2016-01-05T18:43:48Z', 'closed_at': '2016-01-07T10:18:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 356, 'title': 'hello i got a server error when i use redisson to connet AliyunRedis', 'state': 'closed', 'created_at': '2016-01-05T09:31:05Z', 'closed_at': '2016-01-05T09:46:12Z', 'labels': []}
+{'issuenumber': 355, 'title': 'RedisConnectionException in High Concurrence', 'state': 'closed', 'created_at': '2016-01-05T08:10:39Z', 'closed_at': '2016-01-22T14:03:23Z', 'labels': []}
+{'issuenumber': 354, 'title': 'Add RScoredSortedSet.addAll method ', 'state': 'closed', 'created_at': '2016-01-03T09:19:10Z', 'closed_at': '2016-01-05T07:46:13Z', 'labels': []}
+{'issuenumber': 353, 'title': 'Add ZADD command support with NX option', 'state': 'closed', 'created_at': '2016-01-03T09:12:57Z', 'closed_at': '2016-01-05T07:25:10Z', 'labels': []}
+{'issuenumber': 352, 'title': 'Add max-idle param to RSetCache and RMapCache', 'state': 'closed', 'created_at': '2016-01-01T17:25:15Z', 'closed_at': '2016-01-13T13:43:09Z', 'labels': []}
+{'issuenumber': 351, 'title': 'Add ability to read config from json', 'state': 'closed', 'created_at': '2016-01-01T10:47:42Z', 'closed_at': '2016-01-19T14:41:11Z', 'labels': []}
+{'issuenumber': 350, 'title': 'A problem', 'state': 'closed', 'created_at': '2015-12-31T01:57:25Z', 'closed_at': '2015-12-31T09:00:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 349, 'title': 'pollLastAndOfferFirstToAsync does not block properly', 'state': 'closed', 'created_at': '2015-12-30T18:22:24Z', 'closed_at': '2015-12-31T06:35:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 348, 'title': 'Implement AtomicReference', 'state': 'closed', 'created_at': '2015-12-30T07:09:07Z', 'closed_at': '2016-01-01T08:49:36Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 347, 'title': 'Bounded queue', 'state': 'closed', 'created_at': '2015-12-29T13:52:44Z', 'closed_at': '2016-08-09T11:33:38Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 346, 'title': 'Spring cache integration', 'state': 'closed', 'created_at': '2015-12-25T17:43:09Z', 'closed_at': '2016-01-22T14:06:01Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 345, 'title': 'Redisson cluster Read connections issue', 'state': 'closed', 'created_at': '2015-12-24T10:38:14Z', 'closed_at': '2016-01-05T06:46:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 344, 'title': 'Redisson MasterSlaveMode with weighted load', 'state': 'closed', 'created_at': '2015-12-23T13:40:02Z', 'closed_at': '2015-12-25T08:51:55Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 343, 'title': 'How to not throw an exception on connection error and retry infinitely', 'state': 'closed', 'created_at': '2015-12-23T02:49:02Z', 'closed_at': '2015-12-25T08:52:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 342, 'title': 'use StringCodec with config，RedissonLock.tryLock()  will occur ClassCastException', 'state': 'closed', 'created_at': '2015-12-22T09:11:06Z', 'closed_at': '2015-12-22T09:44:09Z', 'labels': []}
+{'issuenumber': 341, 'title': 'topic listener decode error', 'state': 'closed', 'created_at': '2015-12-21T15:10:28Z', 'closed_at': '2015-12-22T00:22:53Z', 'labels': []}
+{'issuenumber': 340, 'title': 'Aliyun redis use 2.8.19 and not support LUA script', 'state': 'closed', 'created_at': '2015-12-21T07:01:50Z', 'closed_at': '2016-01-01T08:54:12Z', 'labels': []}
+{'issuenumber': 339, 'title': 'Suspected Memory Leak under load', 'state': 'closed', 'created_at': '2015-12-19T01:22:53Z', 'closed_at': '2016-01-08T18:07:28Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 338, 'title': 'New version 2.1.4 or greater performance is low.', 'state': 'closed', 'created_at': '2015-12-17T13:23:43Z', 'closed_at': '2016-01-09T05:31:26Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 336, 'title': 'Add saveBuckets method to RedissonClient', 'state': 'closed', 'created_at': '2015-12-16T12:59:54Z', 'closed_at': '2015-12-28T13:09:49Z', 'labels': []}
+{'issuenumber': 335, 'title': 'Add RBlockingDequeReactive', 'state': 'closed', 'created_at': '2015-12-16T11:55:13Z', 'closed_at': '2018-07-19T15:02:47Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 334, 'title': 'Move flushdb and flushall methods to RKeys object', 'state': 'closed', 'created_at': '2015-12-16T09:50:31Z', 'closed_at': '2016-01-08T07:46:32Z', 'labels': []}
+{'issuenumber': 332, 'title': 'NoClassDefFoundError: Could not initialize class org.redisson.client.handler.CommandsQueue', 'state': 'closed', 'created_at': '2015-12-15T17:12:07Z', 'closed_at': '2016-01-01T08:59:06Z', 'labels': []}
+{'issuenumber': 331, 'title': 'Add size method to RKeys', 'state': 'closed', 'created_at': '2015-12-15T12:36:05Z', 'closed_at': '2015-12-28T07:33:34Z', 'labels': []}
+{'issuenumber': 330, 'title': 'Add MGET command support via loadBucketValues method', 'state': 'closed', 'created_at': '2015-12-15T12:27:19Z', 'closed_at': '2015-12-15T12:28:17Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 329, 'title': 'RLock did not work', 'state': 'closed', 'created_at': '2015-12-15T10:40:34Z', 'closed_at': '2015-12-15T16:03:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 328, 'title': 'an error in RedissonSortedSet ', 'state': 'closed', 'created_at': '2015-12-15T04:28:42Z', 'closed_at': '2015-12-15T10:52:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 327, 'title': 'BlockingQueue questions', 'state': 'closed', 'created_at': '2015-12-14T23:44:48Z', 'closed_at': '2015-12-15T19:22:04Z', 'labels': []}
+{'issuenumber': 326, 'title': 'Auto Deploy Redis Clusters function.', 'state': 'closed', 'created_at': '2015-12-14T17:19:41Z', 'closed_at': '2016-08-15T15:26:04Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 325, 'title': 'a error in RedissonExpirable 2.2.1', 'state': 'closed', 'created_at': '2015-12-14T09:20:12Z', 'closed_at': '2015-12-14T09:39:52Z', 'labels': []}
+{'issuenumber': 324, 'title': 'bug! expire expireAsync use toSeconds with PEXPIRE', 'state': 'closed', 'created_at': '2015-12-14T03:32:12Z', 'closed_at': '2015-12-14T07:34:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 323, 'title': 'RedissonClient `isShutdown` check', 'state': 'closed', 'created_at': '2015-12-12T21:43:34Z', 'closed_at': '2015-12-14T11:11:50Z', 'labels': []}
+{'issuenumber': 322, 'title': 'Add TransferQueue implementation', 'state': 'closed', 'created_at': '2015-12-11T15:17:36Z', 'closed_at': '2020-01-14T07:44:16Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 321, 'title': 'Add RSetCacheReactive', 'state': 'closed', 'created_at': '2015-12-10T14:25:26Z', 'closed_at': '2015-12-14T10:48:54Z', 'labels': []}
+{'issuenumber': 320, 'title': 'Add BlockingDeque implementation', 'state': 'closed', 'created_at': '2015-12-09T18:56:47Z', 'closed_at': '2015-12-16T11:53:12Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 319, 'title': 'Add RSetCache implementation', 'state': 'closed', 'created_at': '2015-12-09T14:17:43Z', 'closed_at': '2015-12-10T14:24:52Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 318, 'title': 'Add RCacheReactive implementation', 'state': 'closed', 'created_at': '2015-12-08T15:22:17Z', 'closed_at': '2015-12-09T14:04:12Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 317, 'title': 'Add WAIT command support', 'state': 'closed', 'created_at': '2015-12-08T11:22:59Z', 'closed_at': '2017-10-06T13:07:04Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 316, 'title': 'Add RObject.isExists', 'state': 'closed', 'created_at': '2015-12-07T13:19:57Z', 'closed_at': '2015-12-08T08:30:26Z', 'labels': []}
+{'issuenumber': 314, 'title': 'Add JCache API support', 'state': 'closed', 'created_at': '2015-12-06T17:14:03Z', 'closed_at': '2016-11-03T13:40:09Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 312, 'title': 'Map/Reduce implementation', 'state': 'closed', 'created_at': '2015-12-04T23:04:34Z', 'closed_at': '2017-03-30T12:02:47Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 311, 'title': 'Precache lua scripts in all Redisson objects', 'state': 'closed', 'created_at': '2015-12-04T12:44:24Z', 'closed_at': '2015-12-13T16:15:13Z', 'labels': []}
+{'issuenumber': 310, 'title': "Add 'pollFirst' and 'pollLast' methods to RScoredSortedSet", 'state': 'closed', 'created_at': '2015-12-04T08:50:33Z', 'closed_at': '2015-12-04T09:26:28Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 308, 'title': 'RScript.Mode.READ_ONLY... not read only?', 'state': 'closed', 'created_at': '2015-11-30T19:58:22Z', 'closed_at': '2019-06-20T13:02:47Z', 'labels': []}
+{'issuenumber': 307, 'title': 'Redisson shutdown hangs if redis server was down', 'state': 'closed', 'created_at': '2015-11-30T15:29:16Z', 'closed_at': '2015-12-04T22:51:01Z', 'labels': []}
+{'issuenumber': 306, 'title': 'Extract Async interface for RedissonCountDownLatch', 'state': 'closed', 'created_at': '2015-11-28T08:41:19Z', 'closed_at': '2016-01-17T09:32:12Z', 'labels': []}
+{'issuenumber': 305, 'title': 'Сheck lock existence in forceUnlockAsync method', 'state': 'closed', 'created_at': '2015-11-28T08:15:39Z', 'closed_at': '2015-12-03T14:16:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 304, 'title': 'Ping fails if requirePass is set', 'state': 'closed', 'created_at': '2015-11-27T20:46:53Z', 'closed_at': '2015-11-30T08:22:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 302, 'title': 'Add RMap.getAllAsync method', 'state': 'closed', 'created_at': '2015-11-27T14:07:45Z', 'closed_at': '2015-12-03T08:11:08Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 301, 'title': 'Add redissonlist equals', 'state': 'closed', 'created_at': '2015-11-27T12:33:12Z', 'closed_at': '2015-12-03T12:16:15Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 300, 'title': 'Duplicate values are returned with redisson.getSet', 'state': 'closed', 'created_at': '2015-11-26T10:43:44Z', 'closed_at': '2015-12-09T18:36:18Z', 'labels': []}
+{'issuenumber': 299, 'title': 'Add redis client state listeners', 'state': 'closed', 'created_at': '2015-11-23T17:05:04Z', 'closed_at': '2015-12-15T09:59:32Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 298, 'title': 'Rename config params', 'state': 'closed', 'created_at': '2015-11-23T13:37:17Z', 'closed_at': '2015-12-03T08:29:59Z', 'labels': []}
+{'issuenumber': 296, 'title': 'Revise return value for some methods', 'state': 'closed', 'created_at': '2015-11-23T12:23:41Z', 'closed_at': '2015-12-03T13:00:17Z', 'labels': []}
+{'issuenumber': 295, 'title': 'Add geo commands', 'state': 'closed', 'created_at': '2015-11-23T12:16:28Z', 'closed_at': '2016-03-31T17:36:11Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 294, 'title': 'connection-status  handling (question)', 'state': 'closed', 'created_at': '2015-11-22T13:45:15Z', 'closed_at': '2016-01-18T11:57:04Z', 'labels': []}
+{'issuenumber': 293, 'title': 'What does RBatch.execute() return?', 'state': 'closed', 'created_at': '2015-11-20T21:43:11Z', 'closed_at': '2015-11-23T13:24:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 292, 'title': 'BLPOP from multiple queues', 'state': 'closed', 'created_at': '2015-11-20T18:30:26Z', 'closed_at': '2015-11-23T11:23:43Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 290, 'title': 'Where is ZRANGEBYSCORE command ', 'state': 'closed', 'created_at': '2015-11-18T09:21:15Z', 'closed_at': '2015-11-24T15:00:54Z', 'labels': []}
+{'issuenumber': 289, 'title': 'KEYSLOT command support', 'state': 'closed', 'created_at': '2015-11-17T10:57:49Z', 'closed_at': '2015-11-17T11:03:53Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 288, 'title': 'Use PEXPIRE and PEXPIREAT instead of EXPIRE and EXPIREAT ', 'state': 'closed', 'created_at': '2015-11-17T08:35:13Z', 'closed_at': '2015-12-03T08:06:07Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 287, 'title': 'Add connectTimeout param', 'state': 'closed', 'created_at': '2015-11-16T13:43:05Z', 'closed_at': '2015-11-17T09:38:32Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 286, 'title': 'LOADING response handling', 'state': 'closed', 'created_at': '2015-11-16T08:17:45Z', 'closed_at': '2015-11-16T11:13:50Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 285, 'title': 'RLock.isLocked() get hung when I disable/enable my local network', 'state': 'closed', 'created_at': '2015-11-16T08:05:37Z', 'closed_at': '2015-12-02T17:13:54Z', 'labels': []}
+{'issuenumber': 281, 'title': 'Add RMap values, keys and entries iterator', 'state': 'closed', 'created_at': '2015-11-14T08:50:36Z', 'closed_at': '2015-11-14T10:31:28Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 280, 'title': 'RList add at index inserts data in different format causing an exception on read', 'state': 'closed', 'created_at': '2015-11-11T17:12:10Z', 'closed_at': '2015-11-11T18:35:14Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 279, 'title': 'I want a codec for msgpack', 'state': 'closed', 'created_at': '2015-11-11T13:20:28Z', 'closed_at': '2015-11-13T09:45:03Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 278, 'title': "Why RedissonLock.tryLockInner not call 'setnx' command?", 'state': 'closed', 'created_at': '2015-11-11T04:38:55Z', 'closed_at': '2015-11-16T17:02:51Z', 'labels': []}
+{'issuenumber': 277, 'title': "RedissonSet iterator in Sentinel mode doesn't seem to be sticking to one slave for the lifetime of the iterator", 'state': 'closed', 'created_at': '2015-11-09T13:43:39Z', 'closed_at': '2015-11-10T09:35:14Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 276, 'title': 'receiving multiplied PubSub messages', 'state': 'closed', 'created_at': '2015-11-07T15:44:33Z', 'closed_at': '2015-11-09T08:34:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 275, 'title': 'check Android compatibility', 'state': 'closed', 'created_at': '2015-11-05T07:45:48Z', 'closed_at': '2015-11-17T12:52:52Z', 'labels': []}
+{'issuenumber': 274, 'title': 'Async reconnection to channel', 'state': 'closed', 'created_at': '2015-11-04T10:49:55Z', 'closed_at': '2015-11-04T10:50:38Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 273, 'title': 'Handling MOVED response', 'state': 'closed', 'created_at': '2015-11-03T18:10:21Z', 'closed_at': '2015-11-11T17:48:06Z', 'labels': []}
+{'issuenumber': 272, 'title': 'Add readFromSlaves config param for cluster mode', 'state': 'closed', 'created_at': '2015-10-31T10:41:15Z', 'closed_at': '2015-11-03T17:38:49Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 271, 'title': 'Cluster slave servers info update', 'state': 'closed', 'created_at': '2015-10-30T14:30:24Z', 'closed_at': '2015-10-31T09:55:59Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 270, 'title': 'BitSet implementation', 'state': 'closed', 'created_at': '2015-10-28T21:57:52Z', 'closed_at': '2015-11-17T09:22:40Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 269, 'title': 'CROSSLOT handling', 'state': 'closed', 'created_at': '2015-10-26T18:43:27Z', 'closed_at': '2016-04-29T19:22:49Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 268, 'title': 'Implement realtime cluster nodes scan list ', 'state': 'closed', 'created_at': '2015-10-26T17:50:11Z', 'closed_at': '2015-10-30T18:17:05Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 267, 'title': 'LZ4 codec support', 'state': 'closed', 'created_at': '2015-10-25T11:50:51Z', 'closed_at': '2015-11-13T10:56:16Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 266, 'title': 'Handle Redis Cluster memory', 'state': 'closed', 'created_at': '2015-10-23T02:34:53Z', 'closed_at': '2021-01-11T08:39:03Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 265, 'title': 'RMap.putAll not working.', 'state': 'closed', 'created_at': '2015-10-22T12:17:08Z', 'closed_at': '2015-10-22T17:12:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 264, 'title': 'A serious mistake for redisson cluster!', 'state': 'closed', 'created_at': '2015-10-22T05:09:52Z', 'closed_at': '2015-10-30T14:28:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 263, 'title': 'Can i use redisson for the “mget/mset” multi-command?', 'state': 'closed', 'created_at': '2015-10-20T09:41:03Z', 'closed_at': '2015-10-23T07:04:34Z', 'labels': []}
+{'issuenumber': 262, 'title': 'AddSentinelAddress(...) non-running instance ClosedChannelException', 'state': 'closed', 'created_at': '2015-10-19T05:56:11Z', 'closed_at': '2015-12-09T00:17:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 260, 'title': 'Mocking Redisson', 'state': 'closed', 'created_at': '2015-10-16T06:02:37Z', 'closed_at': '2018-08-18T18:00:49Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 259, 'title': 'NPE in pub/sub', 'state': 'closed', 'created_at': '2015-10-14T12:29:45Z', 'closed_at': '2015-10-19T17:47:46Z', 'labels': []}
+{'issuenumber': 258, 'title': 'Codec key and value decoders are opposite', 'state': 'closed', 'created_at': '2015-10-12T16:00:06Z', 'closed_at': '2015-12-18T14:59:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 256, 'title': 'unknown command EVAL when call ', 'state': 'closed', 'created_at': '2015-10-02T16:51:35Z', 'closed_at': '2015-11-23T19:07:43Z', 'labels': []}
+{'issuenumber': 254, 'title': 'EOFException when I use RLock with SerializationCodec', 'state': 'closed', 'created_at': '2015-10-02T09:21:15Z', 'closed_at': '2015-10-02T18:00:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 253, 'title': 'NPE during load testing', 'state': 'closed', 'created_at': '2015-09-30T15:37:29Z', 'closed_at': '2015-10-22T11:17:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 252, 'title': 'ReplayingDecoder.callDecode() thows  NP Exception', 'state': 'closed', 'created_at': '2015-09-30T10:02:53Z', 'closed_at': '2015-09-30T10:20:11Z', 'labels': []}
+{'issuenumber': 251, 'title': 'Report possible race issues', 'state': 'closed', 'created_at': '2015-09-22T08:20:06Z', 'closed_at': '2015-09-28T17:43:38Z', 'labels': []}
+{'issuenumber': 250, 'title': 'Redis master change is not detected properly.', 'state': 'closed', 'created_at': '2015-09-21T18:32:11Z', 'closed_at': '2015-10-26T17:44:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 249, 'title': 'Ringbuffer structure', 'state': 'closed', 'created_at': '2015-09-18T15:02:45Z', 'closed_at': '2019-05-24T15:16:46Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 248, 'title': 'Resubscribe to topics when RedisPubSubConnection has been reconnected', 'state': 'closed', 'created_at': '2015-09-16T12:06:25Z', 'closed_at': '2015-09-16T15:02:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 247, 'title': 'Add serialization codec for java Number', 'state': 'closed', 'created_at': '2015-09-16T11:17:18Z', 'closed_at': '2015-09-21T18:26:21Z', 'labels': []}
+{'issuenumber': 246, 'title': 'Feature Request: Redisson backed ObjectCodec (Object-Hash Mapping)', 'state': 'closed', 'created_at': '2015-09-15T20:32:15Z', 'closed_at': '2016-07-25T15:40:11Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 245, 'title': 'Fst and snappy codecs', 'state': 'closed', 'created_at': '2015-09-15T19:25:56Z', 'closed_at': '2015-11-13T09:14:33Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 242, 'title': "reconnection functionality doesn't work with AUTH enabled on redis", 'state': 'closed', 'created_at': '2015-09-10T13:12:03Z', 'closed_at': '2015-09-10T15:01:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 241, 'title': 'Elasticache and failover; Redisson configuration question', 'state': 'closed', 'created_at': '2015-09-10T12:28:42Z', 'closed_at': '2015-09-14T18:16:39Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 240, 'title': 'Read split feature in Sentinel mode', 'state': 'closed', 'created_at': '2015-09-09T04:45:25Z', 'closed_at': '2015-10-16T05:55:35Z', 'labels': []}
+{'issuenumber': 239, 'title': 'Leak issues', 'state': 'closed', 'created_at': '2015-09-07T19:54:26Z', 'closed_at': '2015-09-16T07:21:31Z', 'labels': []}
+{'issuenumber': 237, 'title': 'Subscription connection leak in PubSubConnectionEntry::removeListener', 'state': 'closed', 'created_at': '2015-09-04T20:21:46Z', 'closed_at': '2015-09-05T09:00:10Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 235, 'title': 'bug? watchdog create new channel not attr connection obj', 'state': 'closed', 'created_at': '2015-09-04T07:08:19Z', 'closed_at': '2015-09-04T14:23:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 234, 'title': 'support max or min connectionPoolSize?', 'state': 'closed', 'created_at': '2015-09-04T02:55:08Z', 'closed_at': '2015-11-23T11:13:34Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 233, 'title': 'CommandBatchExecutor executeAsync method freezes', 'state': 'closed', 'created_at': '2015-09-02T18:56:39Z', 'closed_at': '2015-09-04T14:23:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 230, 'title': 'Major Issue: iterators that uses SCAN/SSCAN/HSCAN command are not using the same node ', 'state': 'closed', 'created_at': '2015-08-25T15:56:18Z', 'closed_at': '2015-09-04T14:22:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 229, 'title': 'RLock.tryLock() thows Exception', 'state': 'closed', 'created_at': '2015-08-25T15:33:54Z', 'closed_at': '2015-11-12T18:19:46Z', 'labels': []}
+{'issuenumber': 225, 'title': "RObject#delete returns false object doesn't exist", 'state': 'closed', 'created_at': '2015-08-20T19:25:09Z', 'closed_at': '2015-09-13T16:38:47Z', 'labels': []}
+{'issuenumber': 224, 'title': 'Expirable RCountDownLatch', 'state': 'closed', 'created_at': '2015-08-19T19:29:12Z', 'closed_at': '2015-11-02T23:02:45Z', 'labels': []}
+{'issuenumber': 223, 'title': 'Opening new connections in org.redisson.CommandExecutorService#async', 'state': 'closed', 'created_at': '2015-08-19T14:26:28Z', 'closed_at': '2015-10-10T10:00:33Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 222, 'title': 'Cluster mode "Too many open files" (java.net.SocketException)', 'state': 'closed', 'created_at': '2015-08-18T14:53:25Z', 'closed_at': '2015-08-19T14:21:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 221, 'title': 'Sentinel auto discovery', 'state': 'closed', 'created_at': '2015-08-14T06:54:30Z', 'closed_at': '2015-08-14T13:54:48Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 219, 'title': 'How can I do set and get operation in cluster mode', 'state': 'closed', 'created_at': '2015-08-13T11:55:45Z', 'closed_at': '2015-08-14T02:05:11Z', 'labels': []}
+{'issuenumber': 217, 'title': 'Is it possible to have RSortedSet as part of batch', 'state': 'closed', 'created_at': '2015-08-12T13:25:17Z', 'closed_at': '2015-09-13T16:39:36Z', 'labels': []}
+{'issuenumber': 216, 'title': 'Warnings about serialization exceptions being swallowed (using SerializationCodec with non-Serializable class)', 'state': 'closed', 'created_at': '2015-08-11T17:53:15Z', 'closed_at': '2015-08-12T06:54:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 215, 'title': 'Redis healthcheck using Redisson PING', 'state': 'closed', 'created_at': '2015-08-06T06:54:14Z', 'closed_at': '2015-08-11T15:07:46Z', 'labels': []}
+{'issuenumber': 214, 'title': 'Examples update', 'state': 'closed', 'created_at': '2015-08-05T17:55:28Z', 'closed_at': '2015-08-11T16:57:29Z', 'labels': []}
+{'issuenumber': 213, 'title': 'Scheduler support', 'state': 'closed', 'created_at': '2015-08-05T17:28:01Z', 'closed_at': '2016-08-22T12:12:49Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 212, 'title': 'extract drainToAsync ?', 'state': 'closed', 'created_at': '2015-08-05T17:15:44Z', 'closed_at': '2015-08-06T06:14:48Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 211, 'title': 'Empty slot error', 'state': 'closed', 'created_at': '2015-08-05T17:12:12Z', 'closed_at': '2015-08-12T15:14:59Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 210, 'title': 'Reactive Streams support', 'state': 'closed', 'created_at': '2015-08-05T06:35:11Z', 'closed_at': '2015-12-03T08:06:34Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 209, 'title': 'RANDOMKEY support', 'state': 'closed', 'created_at': '2015-08-04T17:45:31Z', 'closed_at': '2015-08-05T10:45:22Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 208, 'title': 'ExecutorService implementation', 'state': 'closed', 'created_at': '2015-08-04T17:32:47Z', 'closed_at': '2016-08-11T15:22:00Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 207, 'title': 'Semaphore implementation', 'state': 'closed', 'created_at': '2015-08-04T17:30:57Z', 'closed_at': '2015-12-17T11:33:38Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 206, 'title': 'ReentrantReadWriteLock implementation', 'state': 'closed', 'created_at': '2015-08-04T17:30:40Z', 'closed_at': '2015-12-09T11:13:24Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 205, 'title': 'Check connections at client startup', 'state': 'closed', 'created_at': '2015-08-04T13:45:59Z', 'closed_at': '2015-08-05T13:58:29Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 204, 'title': "can't deserialize object when JsonTypeInfo.As.PROPERTY was different to @class", 'state': 'closed', 'created_at': '2015-08-04T11:32:07Z', 'closed_at': '2015-09-13T16:42:37Z', 'labels': []}
+{'issuenumber': 203, 'title': 'SCAN command support', 'state': 'closed', 'created_at': '2015-08-03T13:19:09Z', 'closed_at': '2015-08-05T10:45:22Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 202, 'title': 'Infinispan redis integration', 'state': 'closed', 'created_at': '2015-07-31T09:16:44Z', 'closed_at': '2015-08-05T10:55:57Z', 'labels': {'name': 'question'}}
+{'issuenumber': 201, 'title': 'add RSet.removeRandom and RSet.removeRandomAsync methods', 'state': 'closed', 'created_at': '2015-07-31T06:31:25Z', 'closed_at': '2015-07-31T06:32:59Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 200, 'title': "RBatch NPE's", 'state': 'closed', 'created_at': '2015-07-29T07:50:11Z', 'closed_at': '2015-07-30T08:08:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 199, 'title': 'Concurrency Issues', 'state': 'closed', 'created_at': '2015-07-29T04:42:22Z', 'closed_at': '2015-08-03T08:17:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 198, 'title': 'Redisson calls do not time out and very long cache times depending on ttl setting', 'state': 'closed', 'created_at': '2015-07-29T01:53:03Z', 'closed_at': '2015-10-02T00:30:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 197, 'title': 'NullPointerException When Using Cluster Config', 'state': 'closed', 'created_at': '2015-07-27T19:48:32Z', 'closed_at': '2015-07-30T08:16:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 196, 'title': 'redisson client is connected', 'state': 'closed', 'created_at': '2015-07-24T09:20:15Z', 'closed_at': '2015-08-11T15:07:56Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 195, 'title': 'How to set up the expired time of different object in RMap？', 'state': 'closed', 'created_at': '2015-07-24T02:23:22Z', 'closed_at': '2015-12-08T08:04:05Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 194, 'title': 'how to  delete keys like redis  del keys in fuzzy matching', 'state': 'closed', 'created_at': '2015-07-23T11:03:03Z', 'closed_at': '2015-07-23T14:52:26Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 193, 'title': 'Compability with Guava (com.google.common.collect.ImmutableSet).', 'state': 'closed', 'created_at': '2015-07-22T09:37:56Z', 'closed_at': '2015-12-02T14:38:09Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 192, 'title': 'Compiled "java.util.regex.Pattern" gets corrupted ', 'state': 'closed', 'created_at': '2015-07-20T10:55:13Z', 'closed_at': '2015-09-13T16:40:08Z', 'labels': []}
+{'issuenumber': 191, 'title': "add some java doc about the codec's method", 'state': 'closed', 'created_at': '2015-07-20T08:12:09Z', 'closed_at': '2015-07-23T10:01:25Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 190, 'title': 'Bloom filter', 'state': 'closed', 'created_at': '2015-07-17T06:59:46Z', 'closed_at': '2015-12-30T11:25:22Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 188, 'title': 'Flushall support', 'state': 'closed', 'created_at': '2015-07-15T18:06:08Z', 'closed_at': '2015-07-22T16:52:22Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 187, 'title': 'Migrate and Move commands support', 'state': 'closed', 'created_at': '2015-07-15T18:02:43Z', 'closed_at': '2015-07-22T14:01:18Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 186, 'title': 'Extract async interfaces', 'state': 'closed', 'created_at': '2015-07-13T18:54:20Z', 'closed_at': '2015-07-17T12:51:48Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 185, 'title': "can't stop via shutdown", 'state': 'closed', 'created_at': '2015-07-10T08:15:19Z', 'closed_at': '2015-07-22T08:58:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 184, 'title': 'Are the recent Netty related features alerting Netty for other libraries?', 'state': 'closed', 'created_at': '2015-07-09T22:11:07Z', 'closed_at': '2015-07-22T11:47:12Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 183, 'title': 'New Redis client', 'state': 'closed', 'created_at': '2015-07-09T19:16:27Z', 'closed_at': '2015-07-16T11:55:13Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 182, 'title': 'How can i specify the redis database in Redisson?', 'state': 'closed', 'created_at': '2015-07-09T09:38:53Z', 'closed_at': '2015-07-09T11:23:22Z', 'labels': []}
+{'issuenumber': 181, 'title': 'NPE when call queue.poll', 'state': 'closed', 'created_at': '2015-07-07T12:52:57Z', 'closed_at': '2015-07-09T18:43:58Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 180, 'title': 'expose async operation to List Queue etc', 'state': 'closed', 'created_at': '2015-07-06T12:20:16Z', 'closed_at': '2015-07-17T12:57:44Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 178, 'title': 'org.redisson.RedissonLock.tryLockInner  throw  java.lang.NullPointerException', 'state': 'closed', 'created_at': '2015-07-03T10:53:06Z', 'closed_at': '2015-09-13T16:40:31Z', 'labels': []}
+{'issuenumber': 175, 'title': 'Reddison tries to connect to a slave which is down', 'state': 'closed', 'created_at': '2015-06-22T13:41:53Z', 'closed_at': '2015-06-22T17:24:47Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 174, 'title': 'Redisson and leap second', 'state': 'closed', 'created_at': '2015-06-19T09:31:14Z', 'closed_at': '2015-06-22T17:25:03Z', 'labels': []}
+{'issuenumber': 173, 'title': 'Unix Sockets ', 'state': 'closed', 'created_at': '2015-06-18T19:14:20Z', 'closed_at': '2015-06-22T17:30:28Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 172, 'title': 'Use Redis client to add a set , but in Redisson got a error', 'state': 'closed', 'created_at': '2015-06-12T03:40:25Z', 'closed_at': '2015-06-12T05:40:14Z', 'labels': []}
+{'issuenumber': 171, 'title': 'Issue in locking on key in concurrency', 'state': 'closed', 'created_at': '2015-06-08T15:42:40Z', 'closed_at': '2015-06-09T08:14:39Z', 'labels': []}
+{'issuenumber': 169, 'title': 'ConnectionManager call hangs forever if exception is thrown during Command processing', 'state': 'closed', 'created_at': '2015-05-31T22:00:50Z', 'closed_at': '2015-06-10T11:03:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 168, 'title': 'ClassCastException with StringCodec and RSet iterator', 'state': 'closed', 'created_at': '2015-05-29T12:05:35Z', 'closed_at': '2015-06-12T10:50:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 166, 'title': 'KryoCodec strange behaviour', 'state': 'closed', 'created_at': '2015-05-28T07:23:00Z', 'closed_at': '2015-06-12T10:43:27Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 165, 'title': 'RedisConnectionException when using Amazon ElastiCache', 'state': 'closed', 'created_at': '2015-05-26T13:49:41Z', 'closed_at': '2015-09-13T16:41:46Z', 'labels': []}
+{'issuenumber': 164, 'title': 'will redisson support ASKING when migrating slot ? ', 'state': 'closed', 'created_at': '2015-05-21T03:03:22Z', 'closed_at': '2015-06-10T11:04:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 163, 'title': 'Thread dead lock bug when using distributed lock on 1.2.1', 'state': 'closed', 'created_at': '2015-05-18T13:07:16Z', 'closed_at': '2015-12-02T17:13:21Z', 'labels': []}
+{'issuenumber': 162, 'title': '[BUG]Thread dead lock when using distributed lock on 1.2.1', 'state': 'closed', 'created_at': '2015-05-18T13:06:24Z', 'closed_at': '2015-09-14T13:04:42Z', 'labels': []}
+{'issuenumber': 161, 'title': 'NPE in RedissonExpirable', 'state': 'closed', 'created_at': '2015-05-18T12:35:41Z', 'closed_at': '2015-07-27T07:42:33Z', 'labels': []}
+{'issuenumber': 160, 'title': 'suggest  StringCodec as default Codec', 'state': 'closed', 'created_at': '2015-05-18T10:51:18Z', 'closed_at': '2015-05-22T10:19:00Z', 'labels': []}
+{'issuenumber': 159, 'title': 'No enum const class org.redisson.connection.ClusterNodeInfo$Flag.HANDSHAKE', 'state': 'closed', 'created_at': '2015-05-18T07:41:15Z', 'closed_at': '2015-05-22T10:18:37Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 158, 'title': '[Question] Using Redission how to achieve LRU ?', 'state': 'closed', 'created_at': '2015-05-15T14:42:36Z', 'closed_at': '2015-07-27T07:42:20Z', 'labels': []}
+{'issuenumber': 157, 'title': 'How to set the RMap put timeout', 'state': 'closed', 'created_at': '2015-05-15T07:59:50Z', 'closed_at': '2015-07-27T07:46:27Z', 'labels': []}
+{'issuenumber': 156, 'title': "lock.lock(2, TimeUnit.SECONDS) report error ERR wrong number of arguments for 'set' command", 'state': 'closed', 'created_at': '2015-05-13T09:54:00Z', 'closed_at': '2015-07-04T09:04:48Z', 'labels': []}
+{'issuenumber': 155, 'title': 'lock.lock(2, TimeUnit.SECONDS)', 'state': 'closed', 'created_at': '2015-05-13T09:49:45Z', 'closed_at': '2015-05-13T09:52:48Z', 'labels': []}
+{'issuenumber': 154, 'title': 'Calling Publish On Topic in the Listener of Another Topic', 'state': 'closed', 'created_at': '2015-05-09T22:27:37Z', 'closed_at': '2015-07-27T17:54:20Z', 'labels': []}
+{'issuenumber': 153, 'title': "[Question] What if I don't call Redission#shutdown()?", 'state': 'closed', 'created_at': '2015-05-07T11:28:51Z', 'closed_at': '2015-07-22T17:00:04Z', 'labels': {'name': 'question'}}
+{'issuenumber': 152, 'title': 'Old readme version', 'state': 'closed', 'created_at': '2015-05-05T09:27:33Z', 'closed_at': '2015-06-13T08:27:57Z', 'labels': []}
+{'issuenumber': 151, 'title': 'Naming connection', 'state': 'closed', 'created_at': '2015-05-04T17:48:51Z', 'closed_at': '2015-06-30T08:35:31Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 149, 'title': 'Get/Set strings', 'state': 'closed', 'created_at': '2015-04-26T11:01:27Z', 'closed_at': '2015-07-22T16:56:59Z', 'labels': {'name': 'question'}}
+{'issuenumber': 148, 'title': 'BRPOPLPUSH and RPOPLPUSH support', 'state': 'closed', 'created_at': '2015-04-21T09:06:53Z', 'closed_at': '2015-04-24T14:28:21Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 147, 'title': 'Use issues ----lock(long leaseTime, TimeUnit unit)', 'state': 'closed', 'created_at': '2015-04-20T11:51:59Z', 'closed_at': '2015-07-05T06:13:35Z', 'labels': []}
+{'issuenumber': 146, 'title': 'Long as Key in Hashs', 'state': 'closed', 'created_at': '2015-04-19T20:15:25Z', 'closed_at': '2015-09-15T15:10:03Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 145, 'title': 'Connection errors handling breaks redis watch/multi/exec semantics', 'state': 'closed', 'created_at': '2015-04-16T05:58:04Z', 'closed_at': '2015-07-03T19:03:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 143, 'title': 'SortedSet needed', 'state': 'closed', 'created_at': '2015-04-13T08:15:38Z', 'closed_at': '2015-09-14T18:21:45Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 142, 'title': 'Feature request', 'state': 'closed', 'created_at': '2015-04-09T19:10:11Z', 'closed_at': '2015-07-05T06:14:20Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 141, 'title': 'How to rename a key in Redisson?', 'state': 'closed', 'created_at': '2015-04-09T12:29:40Z', 'closed_at': '2015-04-11T10:45:47Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 140, 'title': 'Support for onSubscribe and onUnsubscribe events for PubSub', 'state': 'closed', 'created_at': '2015-04-06T17:08:33Z', 'closed_at': '2015-07-28T07:29:09Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 138, 'title': 'How to check if Redis Server is available ?', 'state': 'closed', 'created_at': '2015-03-25T11:56:57Z', 'closed_at': '2015-08-11T15:08:12Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 137, 'title': 'Add ability to specify codec per RTopic', 'state': 'closed', 'created_at': '2015-03-13T07:22:36Z', 'closed_at': '2015-07-19T16:06:58Z', 'labels': []}
+{'issuenumber': 136, 'title': 'Addings string to set stores the string with quotes', 'state': 'closed', 'created_at': '2015-03-12T09:58:40Z', 'closed_at': '2015-07-27T07:43:34Z', 'labels': []}
+{'issuenumber': 135, 'title': 'Autocomplete functions for redisson?', 'state': 'closed', 'created_at': '2015-03-07T15:12:22Z', 'closed_at': '2015-09-12T16:29:02Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 134, 'title': 'more than one decoder/encoder for redisson and auto Type detection.', 'state': 'closed', 'created_at': '2015-03-04T11:46:22Z', 'closed_at': '2015-09-15T15:10:16Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 132, 'title': 'Storing RBucket<Map<Integer,String>> returns RBucket<Map<String,String>>', 'state': 'closed', 'created_at': '2015-03-02T22:12:30Z', 'closed_at': '2015-07-26T17:54:28Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 131, 'title': 'Redisson sorted set creates list in redis server', 'state': 'closed', 'created_at': '2015-03-02T17:40:16Z', 'closed_at': '2015-03-04T14:54:26Z', 'labels': []}
+{'issuenumber': 130, 'title': 'Redisson and multiple like inserts', 'state': 'closed', 'created_at': '2015-03-02T15:38:31Z', 'closed_at': '2015-07-22T16:56:35Z', 'labels': {'name': 'question'}}
+{'issuenumber': 129, 'title': 'Java Redisson on single server', 'state': 'closed', 'created_at': '2015-03-01T23:09:52Z', 'closed_at': '2015-03-02T15:38:59Z', 'labels': []}
+{'issuenumber': 127, 'title': 'KryoCodec: do not encode / decode keys', 'state': 'closed', 'created_at': '2015-02-25T17:10:20Z', 'closed_at': '2015-02-26T06:57:36Z', 'labels': []}
+{'issuenumber': 125, 'title': 'Implement getBuckets(String pattern)', 'state': 'closed', 'created_at': '2015-02-25T15:32:05Z', 'closed_at': '2015-02-26T06:56:46Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 124, 'title': 'Connection timeout', 'state': 'closed', 'created_at': '2015-02-20T12:28:18Z', 'closed_at': '2015-02-20T12:34:16Z', 'labels': []}
+{'issuenumber': 123, 'title': 'Promise timeout (temporary) resource leak', 'state': 'closed', 'created_at': '2015-02-13T17:28:50Z', 'closed_at': '2015-02-20T17:39:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 122, 'title': 'ClusterConnectionManager sets nodesValues as null', 'state': 'closed', 'created_at': '2015-02-13T09:26:29Z', 'closed_at': '2015-02-13T13:26:13Z', 'labels': []}
+{'issuenumber': 121, 'title': 'IllegalArgumentException when hostname is the local loop back in IPv6 format "::1"', 'state': 'closed', 'created_at': '2015-02-10T14:29:59Z', 'closed_at': '2015-03-14T10:23:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 120, 'title': 'When using Redisson.getMap("mapName").addAndGet() setting data, Redisson.getMap("mapName").get() call will be blocked。', 'state': 'closed', 'created_at': '2015-02-09T08:51:13Z', 'closed_at': '2015-03-04T13:56:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 119, 'title': "SingleConnectionManager doesn't respect timeouts", 'state': 'closed', 'created_at': '2015-02-04T11:47:06Z', 'closed_at': '2015-02-10T15:04:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 118, 'title': 'java.lang.ClassCastException  java.lang.Integer cannot be cast to org.redisson.RedissonLock$LockValue', 'state': 'closed', 'created_at': '2015-02-04T03:43:15Z', 'closed_at': '2015-02-04T08:50:33Z', 'labels': []}
+{'issuenumber': 117, 'title': 'Does Redisson support BlockingQueue ? ', 'state': 'closed', 'created_at': '2015-01-30T13:09:48Z', 'closed_at': '2015-03-14T09:36:36Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 116, 'title': 'ClassCastException in RedissonCountDownLatch.trySetCount', 'state': 'closed', 'created_at': '2015-01-23T13:53:15Z', 'closed_at': '2015-01-25T12:57:30Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 114, 'title': 'LockInterruptibly ', 'state': 'closed', 'created_at': '2015-01-21T16:47:57Z', 'closed_at': '2015-02-11T14:35:15Z', 'labels': []}
+{'issuenumber': 113, 'title': 'weird null exception error', 'state': 'closed', 'created_at': '2015-01-19T23:58:27Z', 'closed_at': '2015-01-21T16:43:17Z', 'labels': []}
+{'issuenumber': 112, 'title': 'could redisson provide integration with netty5 snapshot ? ', 'state': 'closed', 'created_at': '2015-01-15T10:17:54Z', 'closed_at': '2016-05-04T17:27:05Z', 'labels': []}
+{'issuenumber': 109, 'title': "Can't get Redisson 1.1.7 to work in an OSGi container", 'state': 'closed', 'created_at': '2015-01-05T16:36:47Z', 'closed_at': '2015-01-07T08:01:39Z', 'labels': []}
+{'issuenumber': 107, 'title': 'How to config read data from slave servers?', 'state': 'closed', 'created_at': '2015-01-05T07:26:36Z', 'closed_at': '2015-01-06T06:48:38Z', 'labels': []}
+{'issuenumber': 106, 'title': "RedissonList's Iterator Race Conditions", 'state': 'closed', 'created_at': '2014-12-17T21:06:55Z', 'closed_at': '2014-12-18T18:49:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 105, 'title': 'use rmap class not have default consturctor throw exception', 'state': 'closed', 'created_at': '2014-12-17T19:18:25Z', 'closed_at': '2014-12-20T08:47:53Z', 'labels': []}
+{'issuenumber': 104, 'title': 'RedissonAtomicLong expiring during get causes NullPointerException', 'state': 'closed', 'created_at': '2014-12-05T15:08:41Z', 'closed_at': '2014-12-05T18:11:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 103, 'title': 'How can I get all the keys in Redisson?', 'state': 'closed', 'created_at': '2014-12-05T02:10:42Z', 'closed_at': '2015-08-05T10:44:42Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 102, 'title': 'SAdd in RedisAsyncConnection uses wrong AddValues ', 'state': 'closed', 'created_at': '2014-12-04T15:27:38Z', 'closed_at': '2014-12-15T17:36:10Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 101, 'title': 'when thread is interrupt...all Reference variables is locked!!', 'state': 'closed', 'created_at': '2014-12-02T05:27:35Z', 'closed_at': '2014-12-02T07:38:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 98, 'title': 'use treeMap putall  Rmap throw nullpoitn', 'state': 'closed', 'created_at': '2014-11-28T07:10:07Z', 'closed_at': '2014-11-28T11:03:50Z', 'labels': []}
+{'issuenumber': 96, 'title': 'README.md not up to date', 'state': 'closed', 'created_at': '2014-11-19T15:31:20Z', 'closed_at': '2014-11-19T18:12:04Z', 'labels': []}
+{'issuenumber': 91, 'title': 'list name has extra Quotation marks', 'state': 'closed', 'created_at': '2014-11-06T06:56:52Z', 'closed_at': '2014-11-12T13:42:00Z', 'labels': []}
+{'issuenumber': 90, 'title': 'Infinite loop on connection failure', 'state': 'closed', 'created_at': '2014-11-04T03:42:43Z', 'closed_at': '2014-12-15T17:36:23Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 89, 'title': 'RedissonLock locks up', 'state': 'closed', 'created_at': '2014-11-03T20:18:58Z', 'closed_at': '2014-11-18T17:15:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 87, 'title': 'Unhandled IllegalStateException in RedissonLock', 'state': 'closed', 'created_at': '2014-11-02T21:17:38Z', 'closed_at': '2014-11-08T13:11:30Z', 'labels': []}
+{'issuenumber': 86, 'title': 'How do I register a Module on the Jackson ObjectMapper instance Redisson is using under the covers so it can handle Java8 time types?', 'state': 'closed', 'created_at': '2014-11-01T04:28:21Z', 'closed_at': '2014-11-18T13:36:35Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 85, 'title': 'Topic subscription: not re-subscribing after slave down or master change', 'state': 'closed', 'created_at': '2014-10-20T05:01:16Z', 'closed_at': '2014-11-27T16:50:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 84, 'title': 'Lock reentrancy race', 'state': 'closed', 'created_at': '2014-10-18T06:21:50Z', 'closed_at': '2014-11-13T06:47:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 83, 'title': 'Deadlock while obtaining lock', 'state': 'closed', 'created_at': '2014-10-16T21:20:36Z', 'closed_at': '2014-11-18T13:39:14Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 80, 'title': 'Error while deserializing arrays with JsonJacksonCodec', 'state': 'closed', 'created_at': '2014-10-01T00:00:40Z', 'closed_at': '2014-11-24T08:50:58Z', 'labels': []}
+{'issuenumber': 79, 'title': 'Redisson keys should be objects', 'state': 'closed', 'created_at': '2014-09-30T22:08:17Z', 'closed_at': '2015-11-11T19:35:37Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 78, 'title': 'it reached at the tail of the pipelin', 'state': 'closed', 'created_at': '2014-09-23T06:56:56Z', 'closed_at': '2014-11-18T17:38:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 76, 'title': 'Add wildcard pubsub support (psubscribe/punsubscribe)', 'state': 'closed', 'created_at': '2014-09-19T04:01:27Z', 'closed_at': '2015-07-03T18:35:57Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 75, 'title': 'Guava RateLimiter Redisson implementation.', 'state': 'closed', 'created_at': '2014-09-15T08:42:55Z', 'closed_at': '2018-05-23T06:45:51Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 74, 'title': 'BSON support for compress ', 'state': 'closed', 'created_at': '2014-09-13T22:44:45Z', 'closed_at': '2015-07-09T19:05:46Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 73, 'title': 'Lua Script Evaluation Support', 'state': 'closed', 'created_at': '2014-08-29T19:02:51Z', 'closed_at': '2015-04-02T12:39:57Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 72, 'title': 'StackOverflowError ', 'state': 'closed', 'created_at': '2014-08-26T07:13:51Z', 'closed_at': '2014-12-15T14:32:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 71, 'title': 'Constructors for RBucket, RList, etc should be protected, not default.', 'state': 'closed', 'created_at': '2014-08-21T10:04:15Z', 'closed_at': '2014-11-18T17:37:07Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 70, 'title': 'Keys adding quotes when going to data store', 'state': 'closed', 'created_at': '2014-08-20T22:32:52Z', 'closed_at': '2014-11-12T14:58:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 69, 'title': '"Connection Leak" in RedissonBucket', 'state': 'closed', 'created_at': '2014-08-20T14:30:45Z', 'closed_at': '2014-11-18T16:55:19Z', 'labels': []}
+{'issuenumber': 67, 'title': 'RedissonList concurrency problem', 'state': 'closed', 'created_at': '2014-08-15T00:55:16Z', 'closed_at': '2016-01-14T18:24:10Z', 'labels': []}
+{'issuenumber': 66, 'title': 'Key exists', 'state': 'closed', 'created_at': '2014-08-14T19:46:24Z', 'closed_at': '2014-08-14T21:05:19Z', 'labels': []}
+{'issuenumber': 65, 'title': 'Failover in Redisson with Redis Cluster', 'state': 'closed', 'created_at': '2014-08-08T17:36:21Z', 'closed_at': '2015-01-07T08:26:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 62, 'title': 'Netty NPE', 'state': 'closed', 'created_at': '2014-08-04T04:12:17Z', 'closed_at': '2014-08-04T10:16:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 61, 'title': 'Why RTopic.removeListener unsubscribes underlying PubSub channel', 'state': 'closed', 'created_at': '2014-08-02T07:37:37Z', 'closed_at': '2014-08-06T12:42:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 60, 'title': 'RedissonList', 'state': 'closed', 'created_at': '2014-07-31T05:29:09Z', 'closed_at': '2016-01-16T12:38:41Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 59, 'title': 'Timeout and database', 'state': 'closed', 'created_at': '2014-07-29T22:55:19Z', 'closed_at': '2014-07-30T10:54:19Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 58, 'title': 'Sentinel event listeners', 'state': 'closed', 'created_at': '2014-07-29T11:48:50Z', 'closed_at': '2018-11-05T18:35:12Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 57, 'title': 'Add RMap.filterEntries', 'state': 'closed', 'created_at': '2014-07-20T15:25:00Z', 'closed_at': '2014-07-23T12:58:04Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 56, 'title': 'Add RMap.filterValues', 'state': 'closed', 'created_at': '2014-07-20T15:24:31Z', 'closed_at': '2014-07-23T08:55:17Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 55, 'title': 'Add RMap.filterKeys', 'state': 'closed', 'created_at': '2014-07-20T15:24:16Z', 'closed_at': '2014-07-23T08:53:03Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 54, 'title': 'Add RMap.getAll(Set<K> keys)', 'state': 'closed', 'created_at': '2014-07-20T15:09:07Z', 'closed_at': '2014-07-23T11:00:27Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 53, 'title': 'Local cache for Redission', 'state': 'closed', 'created_at': '2014-07-20T10:42:20Z', 'closed_at': '2016-09-02T13:12:59Z', 'labels': []}
+{'issuenumber': 52, 'title': 'Exceptions handling during deserialization', 'state': 'closed', 'created_at': '2014-07-20T09:09:48Z', 'closed_at': '2014-07-23T07:25:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 51, 'title': '1.3', 'state': 'closed', 'created_at': '2014-07-20T09:05:55Z', 'closed_at': '2014-07-20T09:06:04Z', 'labels': []}
+{'issuenumber': 49, 'title': 'Get Object From Distributed Map, Command timed out', 'state': 'closed', 'created_at': '2014-07-20T08:39:04Z', 'closed_at': '2014-07-20T08:48:21Z', 'labels': []}
+{'issuenumber': 47, 'title': 'Use interfaces to easy DI and Unit testing', 'state': 'closed', 'created_at': '2014-07-19T18:07:58Z', 'closed_at': '2014-07-29T05:10:54Z', 'labels': []}
+{'issuenumber': 46, 'title': 'Add RMap.fastRemove method ', 'state': 'closed', 'created_at': '2014-07-18T11:44:22Z', 'closed_at': '2014-07-18T14:47:07Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 45, 'title': 'Implement operation auto-retry', 'state': 'closed', 'created_at': '2014-07-17T17:33:03Z', 'closed_at': '2014-07-23T07:15:02Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 44, 'title': 'Add RMap.fastPut method', 'state': 'closed', 'created_at': '2014-07-17T17:26:54Z', 'closed_at': '2014-07-18T14:28:23Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 43, 'title': 'Transactions support', 'state': 'closed', 'created_at': '2014-07-17T17:24:19Z', 'closed_at': '2018-02-06T22:33:22Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 42, 'title': 'Batch/Pipeline operations support', 'state': 'closed', 'created_at': '2014-07-17T17:24:05Z', 'closed_at': '2015-07-22T08:48:32Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 41, 'title': 'Two serious issues', 'state': 'closed', 'created_at': '2014-07-11T08:40:31Z', 'closed_at': '2015-08-15T06:16:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 40, 'title': 'Lock TTL', 'state': 'closed', 'created_at': '2014-07-10T16:33:15Z', 'closed_at': '2014-07-16T06:23:54Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 39, 'title': 'Locking on Jersey', 'state': 'closed', 'created_at': '2014-07-10T10:43:30Z', 'closed_at': '2014-07-10T16:20:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 37, 'title': 'Cluster support', 'state': 'closed', 'created_at': '2014-07-03T12:58:29Z', 'closed_at': '2015-01-07T08:54:05Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 36, 'title': 'Wrong password error if auth fails', 'state': 'closed', 'created_at': '2014-07-01T07:04:16Z', 'closed_at': '2014-07-01T07:25:12Z', 'labels': []}
+{'issuenumber': 35, 'title': 'Several question about Redisson / Jedis', 'state': 'closed', 'created_at': '2014-06-19T16:14:41Z', 'closed_at': '2015-02-25T14:01:19Z', 'labels': []}
+{'issuenumber': 34, 'title': 'getBucket().get() returns null on Redisson 1.1.0', 'state': 'closed', 'created_at': '2014-06-09T22:18:01Z', 'closed_at': '2014-06-19T14:22:04Z', 'labels': []}
+{'issuenumber': 33, 'title': 'Warning in Redisson 1.1.0 - NullPointerException (An exceptionCaught() event was fired)', 'state': 'closed', 'created_at': '2014-06-09T22:06:24Z', 'closed_at': '2014-06-10T17:30:56Z', 'labels': []}
+{'issuenumber': 32, 'title': 'NPE On RedissonTopic.publish & RedisPubSubConnection.channelRead', 'state': 'closed', 'created_at': '2014-06-09T20:48:17Z', 'closed_at': '2014-06-10T14:12:49Z', 'labels': []}
+{'issuenumber': 31, 'title': 'Add removeAsync, addAsync methods to RSortedSet and RSet', 'state': 'closed', 'created_at': '2014-06-08T06:59:55Z', 'closed_at': '2014-07-01T07:00:43Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 30, 'title': 'Detecting any the elected master changes (using redis sentinels).... ', 'state': 'closed', 'created_at': '2014-06-07T07:28:06Z', 'closed_at': '2014-06-19T15:42:39Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 29, 'title': 'Auth Issue Only On Read', 'state': 'closed', 'created_at': '2014-06-06T22:52:56Z', 'closed_at': '2014-06-07T07:46:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 28, 'title': 'Sorted set scores collapsed to zeros ', 'state': 'closed', 'created_at': '2014-06-05T05:26:03Z', 'closed_at': '2014-06-07T15:17:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 27, 'title': 'Question: Does redisson handle redis clusters?', 'state': 'closed', 'created_at': '2014-06-04T15:07:38Z', 'closed_at': '2015-01-08T09:35:30Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 26, 'title': 'Thread-safety questions - access to Thread-safe connection', 'state': 'closed', 'created_at': '2014-06-03T18:31:08Z', 'closed_at': '2014-06-04T12:06:29Z', 'labels': []}
+{'issuenumber': 24, 'title': 'Support For Master Detection?', 'state': 'closed', 'created_at': '2014-06-02T00:13:10Z', 'closed_at': '2014-06-06T17:27:17Z', 'labels': []}
+{'issuenumber': 23, 'title': 'Make ConnectionManager accessible from Redisson', 'state': 'closed', 'created_at': '2014-05-27T13:20:53Z', 'closed_at': '2014-06-03T16:53:22Z', 'labels': []}
+{'issuenumber': 21, 'title': 'ConnectionWatchdog not works as expected', 'state': 'closed', 'created_at': '2014-05-26T05:11:55Z', 'closed_at': '2014-05-26T05:24:37Z', 'labels': []}
+{'issuenumber': 20, 'title': 'Question: Why do you have imported lettuce code into your project?', 'state': 'closed', 'created_at': '2014-05-25T10:34:09Z', 'closed_at': '2014-05-30T05:33:57Z', 'labels': []}
+{'issuenumber': 19, 'title': 'Android Support', 'state': 'closed', 'created_at': '2014-05-23T14:53:45Z', 'closed_at': '2014-05-28T17:05:37Z', 'labels': []}
+{'issuenumber': 18, 'title': 'Support for HLL', 'state': 'closed', 'created_at': '2014-05-21T23:42:18Z', 'closed_at': '2014-06-02T12:29:42Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 17, 'title': 'Publish message method should be moved out from RTopic', 'state': 'closed', 'created_at': '2014-05-14T03:00:15Z', 'closed_at': '2014-05-30T10:57:11Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 16, 'title': 'URGENT: java.lang.NoSuchFieldError: WRITE_BIGDECIMAL_AS_PLAIN', 'state': 'closed', 'created_at': '2014-05-08T17:46:52Z', 'closed_at': '2014-05-09T16:47:55Z', 'labels': []}
+{'issuenumber': 15, 'title': 'Add Kryo Encoder', 'state': 'closed', 'created_at': '2014-05-08T17:43:23Z', 'closed_at': '2014-05-09T07:02:00Z', 'labels': []}
+{'issuenumber': 14, 'title': 'Eval method does not work in RedisAsyncConnection', 'state': 'closed', 'created_at': '2014-05-07T06:16:19Z', 'closed_at': '2014-05-07T08:22:24Z', 'labels': []}
+{'issuenumber': 13, 'title': 'Provide access to the underlying connection manager', 'state': 'closed', 'created_at': '2014-05-07T06:13:07Z', 'closed_at': '2014-06-26T17:12:51Z', 'labels': []}
+{'issuenumber': 12, 'title': 'load balancer does not work as expected', 'state': 'closed', 'created_at': '2014-05-06T13:08:36Z', 'closed_at': '2014-06-08T06:52:53Z', 'labels': []}
+{'issuenumber': 11, 'title': 'this "synchronized " protect what?', 'state': 'closed', 'created_at': '2014-05-04T07:02:10Z', 'closed_at': '2014-05-07T06:11:06Z', 'labels': []}
+{'issuenumber': 9, 'title': 'WRITE_BIGDECIMAL_AS_PLAIN Error', 'state': 'closed', 'created_at': '2014-04-15T12:51:12Z', 'closed_at': '2014-04-16T18:13:04Z', 'labels': []}
+{'issuenumber': 8, 'title': 'Setting expiry', 'state': 'closed', 'created_at': '2014-03-14T14:56:28Z', 'closed_at': '2014-05-30T10:52:03Z', 'labels': []}
+{'issuenumber': 7, 'title': 'Is all methods of  collections redisson provide synchronized?', 'state': 'closed', 'created_at': '2014-03-13T15:43:16Z', 'closed_at': '2014-03-13T15:48:08Z', 'labels': []}
+{'issuenumber': 5, 'title': 'Promises vs Futures?', 'state': 'closed', 'created_at': '2014-02-14T09:02:05Z', 'closed_at': '2014-06-02T12:23:09Z', 'labels': []}
+{'issuenumber': 4, 'title': 'Add support for TIME command.', 'state': 'closed', 'created_at': '2014-02-12T09:58:37Z', 'closed_at': '2014-07-23T07:33:42Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 3, 'title': 'Rework connection management to use master/slave redis instances', 'state': 'closed', 'created_at': '2014-02-07T08:08:11Z', 'closed_at': '2014-06-26T17:11:15Z', 'labels': []}
+{'issuenumber': 2, 'title': 'SCAN or ZRANGE operations as Java Iterators?', 'state': 'closed', 'created_at': '2014-02-06T19:33:13Z', 'closed_at': '2014-06-30T11:54:15Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1, 'title': 'Implement RedissonSortedSet', 'state': 'closed', 'created_at': '2014-01-21T13:40:43Z', 'closed_at': '2014-02-05T16:25:17Z', 'labels': []}
