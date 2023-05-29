@@ -1,0 +1,169 @@
+{'issuenumber': 279, 'title': 'Clarify vendored code licenses', 'state': 'closed', 'created_at': '2016-09-27T22:16:15Z', 'closed_at': '2019-05-14T17:52:14Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 278, 'title': 'copy() does not preserve file/directory ownership', 'state': 'closed', 'created_at': '2016-09-23T11:22:05Z', 'closed_at': '2016-10-25T16:39:58Z', 'labels': []}
+{'issuenumber': 276, 'title': 'Cannot connect to Shared Folder', 'state': 'closed', 'created_at': '2016-09-14T02:47:42Z', 'closed_at': '2016-11-03T09:59:35Z', 'labels': []}
+{'issuenumber': 275, 'title': 'EMFILE, too many open files on Mac OS with JSON API', 'state': 'closed', 'created_at': '2016-09-13T09:23:52Z', 'closed_at': '2016-10-25T15:54:34Z', 'labels': []}
+{'issuenumber': 274, 'title': 'Use with memory-fs?', 'state': 'closed', 'created_at': '2016-09-11T19:33:27Z', 'closed_at': '2020-01-30T20:05:10Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 272, 'title': 'Copy clobber flag never err even when true', 'state': 'closed', 'created_at': '2016-09-10T00:13:37Z', 'closed_at': '2016-10-27T14:47:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 271, 'title': 'Unclosed file handle on futimes error', 'state': 'closed', 'created_at': '2016-09-09T22:09:01Z', 'closed_at': '2016-10-25T17:33:39Z', 'labels': []}
+{'issuenumber': 270, 'title': 'copy not working as desired on Windows', 'state': 'closed', 'created_at': '2016-09-06T21:32:08Z', 'closed_at': '2016-10-26T17:44:12Z', 'labels': {'name': 'feature-copy'}}
+{'issuenumber': 269, 'title': 'Copying with preserveTimeStamps: true is inaccurate using 32bit node', 'state': 'closed', 'created_at': '2016-09-01T09:54:35Z', 'closed_at': '2016-10-27T03:31:23Z', 'labels': {'name': 'feature-copy'}}
+{'issuenumber': 267, 'title': 'WARN deprecated wrench@1.5.9: wrench.js is deprecated!', 'state': 'closed', 'created_at': '2016-08-23T11:53:53Z', 'closed_at': '2016-08-24T07:29:00Z', 'labels': []}
+{'issuenumber': 266, 'title': 'fs-extra', 'state': 'closed', 'created_at': '2016-08-15T01:11:46Z', 'closed_at': '2016-10-25T16:58:42Z', 'labels': []}
+{'issuenumber': 265, 'title': 'Link the `fs.stat fs.exists` etc. methods for replace the `fs` module forever?', 'state': 'closed', 'created_at': '2016-08-10T08:51:42Z', 'closed_at': '2016-08-16T02:38:29Z', 'labels': []}
+{'issuenumber': 264, 'title': 'Renaming a folder using move fails when a file inside is open (at least on windows)', 'state': 'closed', 'created_at': '2016-08-06T19:20:14Z', 'closed_at': '2016-10-25T16:59:39Z', 'labels': {'name': 'future'}}
+{'issuenumber': 263, 'title': 'ENOSYS: function not implemented, link', 'state': 'closed', 'created_at': '2016-07-28T04:50:04Z', 'closed_at': '2017-02-18T16:19:13Z', 'labels': {'name': 'needs-confirmed'}}
+{'issuenumber': 262, 'title': 'Add .exists() and .existsSync()', 'state': 'closed', 'created_at': '2016-07-25T20:47:19Z', 'closed_at': '2016-07-25T21:23:33Z', 'labels': []}
+{'issuenumber': 261, 'title': "Cannot read property 'prototype' of undefined", 'state': 'closed', 'created_at': '2016-07-25T11:20:02Z', 'closed_at': '2016-10-04T04:21:48Z', 'labels': []}
+{'issuenumber': 259, 'title': 'Feature Request: isEmpty', 'state': 'closed', 'created_at': '2016-07-12T13:48:59Z', 'closed_at': '2016-10-25T17:04:41Z', 'labels': []}
+{'issuenumber': 258, 'title': 'copy files does not preserve file timestamp', 'state': 'closed', 'created_at': '2016-07-08T02:23:53Z', 'closed_at': '2016-07-08T03:15:03Z', 'labels': []}
+{'issuenumber': 257, 'title': 'Copying a file on windows fails', 'state': 'closed', 'created_at': '2016-07-02T04:26:57Z', 'closed_at': '2016-07-04T10:43:43Z', 'labels': []}
+{'issuenumber': 255, 'title': 'Update rimraf required version', 'state': 'closed', 'created_at': '2016-06-25T23:54:44Z', 'closed_at': '2016-10-25T17:07:32Z', 'labels': []}
+{'issuenumber': 254, 'title': 'request for readTree, readTreeSync, walkSync method', 'state': 'closed', 'created_at': '2016-06-18T21:34:56Z', 'closed_at': '2016-10-25T17:10:19Z', 'labels': []}
+{'issuenumber': 253, 'title': 'outputFile does not touch mtime when file exists', 'state': 'closed', 'created_at': '2016-06-17T16:53:10Z', 'closed_at': '2016-10-27T23:41:22Z', 'labels': []}
+{'issuenumber': 251, 'title': 'Just wanted to say thank you', 'state': 'closed', 'created_at': '2016-06-12T07:31:34Z', 'closed_at': '2016-06-12T07:31:37Z', 'labels': []}
+{'issuenumber': 250, 'title': '`fs.remove()` not removing files (works with `rm -rf`)', 'state': 'closed', 'created_at': '2016-06-10T17:40:25Z', 'closed_at': '2016-06-10T17:46:04Z', 'labels': []}
+{'issuenumber': 249, 'title': 'Just a Question ... Remove Servers', 'state': 'closed', 'created_at': '2016-06-08T14:00:56Z', 'closed_at': '2016-06-10T09:41:17Z', 'labels': []}
+{'issuenumber': 248, 'title': 'Allow option to not preserve permissions for copy', 'state': 'closed', 'created_at': '2016-05-17T23:17:30Z', 'closed_at': '2016-10-26T16:57:13Z', 'labels': []}
+{'issuenumber': 247, 'title': 'Add TypeScript typing directly in the fs-extra package', 'state': 'closed', 'created_at': '2016-05-17T11:55:26Z', 'closed_at': '2016-10-26T15:14:28Z', 'labels': []}
+{'issuenumber': 246, 'title': "fse.remove() && fse.removeSync() don't throw error on ENOENT file", 'state': 'closed', 'created_at': '2016-05-05T19:43:20Z', 'closed_at': '2016-10-26T15:11:55Z', 'labels': []}
+{'issuenumber': 245, 'title': 'filter for empty dir', 'state': 'closed', 'created_at': '2016-05-05T08:01:05Z', 'closed_at': '2016-10-26T17:47:59Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 244, 'title': "copySync doesn't apply the filter to directories", 'state': 'closed', 'created_at': '2016-05-04T13:14:06Z', 'closed_at': '2016-10-26T19:55:02Z', 'labels': []}
+{'issuenumber': 243, 'title': 'Can I request fs.walk() to be synchronous?', 'state': 'closed', 'created_at': '2016-05-04T02:19:46Z', 'closed_at': '2016-05-04T03:55:44Z', 'labels': []}
+{'issuenumber': 242, 'title': 'Accidentally truncates file names ending with $$', 'state': 'closed', 'created_at': '2016-04-29T18:31:53Z', 'closed_at': '2016-10-26T17:49:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 240, 'title': 'walkSync request', 'state': 'closed', 'created_at': '2016-04-22T10:02:37Z', 'closed_at': '2016-11-01T11:47:03Z', 'labels': []}
+{'issuenumber': 239, 'title': "Depreciate regular expressions for copy's filter", 'state': 'closed', 'created_at': '2016-04-21T15:48:34Z', 'closed_at': '2016-10-27T14:36:04Z', 'labels': {'name': 'feature-copy'}}
+{'issuenumber': 238, 'title': "Can't write to files while in a worker thread.", 'state': 'closed', 'created_at': '2016-04-18T05:07:25Z', 'closed_at': '2016-04-18T18:42:17Z', 'labels': []}
+{'issuenumber': 237, 'title': '.ensureDir(..) fails silently when passed an invalid path...', 'state': 'closed', 'created_at': '2016-04-17T22:49:30Z', 'closed_at': '2016-04-18T09:20:17Z', 'labels': []}
+{'issuenumber': 236, 'title': '[Removed] Filed under wrong repo', 'state': 'closed', 'created_at': '2016-04-15T19:51:01Z', 'closed_at': '2016-04-15T19:52:09Z', 'labels': []}
+{'issuenumber': 234, 'title': 'ensureDirSync fails silent when EACCES: permission denied on travis-ci', 'state': 'closed', 'created_at': '2016-04-06T18:28:24Z', 'closed_at': '2016-11-03T12:40:04Z', 'labels': {'name': 'awaiting-reply'}}
+{'issuenumber': 233, 'title': 'please make sure the first argument in callback is error object', 'state': 'closed', 'created_at': '2016-04-06T10:17:19Z', 'closed_at': '2016-10-27T14:47:03Z', 'labels': {'name': 'feature-copy'}}
+{'issuenumber': 232, 'title': 'Copy a folder content  to its child folder.  ', 'state': 'closed', 'created_at': '2016-03-18T07:55:21Z', 'closed_at': '2016-04-17T05:28:43Z', 'labels': []}
+{'issuenumber': 231, 'title': 'Adding read/write/output functions for YAML', 'state': 'closed', 'created_at': '2016-03-17T12:34:25Z', 'closed_at': '2016-03-17T13:21:30Z', 'labels': []}
+{'issuenumber': 227, 'title': 'Uncatchable errors when there are invalid arguments', 'state': 'closed', 'created_at': '2016-03-14T16:41:48Z', 'closed_at': '2016-10-26T17:22:07Z', 'labels': {'name': 'feature-move'}}
+{'issuenumber': 226, 'title': 'Moving to the current directory', 'state': 'closed', 'created_at': '2016-03-11T16:22:36Z', 'closed_at': '2016-11-26T15:03:16Z', 'labels': {'name': 'needs-confirmed'}}
+{'issuenumber': 225, 'title': 'EBUSY: resource busy or locked, unlink', 'state': 'closed', 'created_at': '2016-03-08T03:04:30Z', 'closed_at': '2016-10-26T17:24:34Z', 'labels': []}
+{'issuenumber': 224, 'title': 'fse.copy ENOENT error', 'state': 'closed', 'created_at': '2016-03-05T13:28:27Z', 'closed_at': '2016-10-26T17:51:51Z', 'labels': []}
+{'issuenumber': 213, 'title': 'Merge extfs with this repo', 'state': 'closed', 'created_at': '2016-01-20T16:02:39Z', 'closed_at': '2016-01-20T16:53:44Z', 'labels': []}
+{'issuenumber': 211, 'title': 'Not copying all files', 'state': 'closed', 'created_at': '2016-01-11T14:23:15Z', 'closed_at': '2016-01-11T18:35:49Z', 'labels': []}
+{'issuenumber': 210, 'title': 'copy/copySync behave differently when copying a symbolic file', 'state': 'closed', 'created_at': '2016-01-09T16:23:33Z', 'closed_at': '2016-04-17T06:15:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 209, 'title': 'In Windows invalid directory name causes infinite loop in ensureDir().', 'state': 'closed', 'created_at': '2016-01-07T13:59:10Z', 'closed_at': '2016-04-18T09:20:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 207, 'title': 'Add `compare` suite of functions', 'state': 'closed', 'created_at': '2016-01-04T01:09:37Z', 'closed_at': '2016-01-06T14:43:21Z', 'labels': []}
+{'issuenumber': 206, 'title': 'outputFileSync', 'state': 'closed', 'created_at': '2016-01-01T06:44:03Z', 'closed_at': '2016-10-26T17:28:51Z', 'labels': []}
+{'issuenumber': 205, 'title': 'fix documents about copy/copySync', 'state': 'closed', 'created_at': '2015-12-28T13:05:13Z', 'closed_at': '2016-10-26T18:22:39Z', 'labels': {'name': 'feature-copy'}}
+{'issuenumber': 203, 'title': "copy method's argument options couldn't be undefined", 'state': 'closed', 'created_at': '2015-12-14T08:35:55Z', 'closed_at': '2017-01-01T19:22:43Z', 'labels': {'name': 'feature-copy'}}
+{'issuenumber': 202, 'title': 'why there is not a walkSync method?', 'state': 'closed', 'created_at': '2015-12-14T08:23:24Z', 'closed_at': '2015-12-17T14:18:10Z', 'labels': []}
+{'issuenumber': 201, 'title': 'clobber for directories', 'state': 'closed', 'created_at': '2015-12-10T11:25:25Z', 'closed_at': '2015-12-17T14:19:13Z', 'labels': {'name': 'feature-copy'}}
+{'issuenumber': 200, 'title': "'copySync' doesn't work in sync", 'state': 'closed', 'created_at': '2015-12-10T02:51:40Z', 'closed_at': '2015-12-23T08:42:10Z', 'labels': []}
+{'issuenumber': 199, 'title': 'fs.copySync fails if user does not own file', 'state': 'closed', 'created_at': '2015-12-08T22:18:25Z', 'closed_at': '2016-10-28T03:54:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 198, 'title': 'handle copying between identical files', 'state': 'closed', 'created_at': '2015-12-07T08:32:55Z', 'closed_at': '2017-12-11T17:31:14Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 197, 'title': 'Missing documentation for `outputFile` `options` 3rd parameter', 'state': 'closed', 'created_at': '2015-11-20T17:07:55Z', 'closed_at': '2015-12-17T14:27:28Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 196, 'title': 'copy filter: async function and/or function called with `fs.stat` result', 'state': 'closed', 'created_at': '2015-11-20T16:00:49Z', 'closed_at': '2015-11-21T16:02:07Z', 'labels': []}
+{'issuenumber': 195, 'title': 'How to override with outputFile?', 'state': 'closed', 'created_at': '2015-11-20T15:08:41Z', 'closed_at': '2016-04-18T09:26:49Z', 'labels': []}
+{'issuenumber': 193, 'title': '`fs.copy` fails silently if source file is /dev/null', 'state': 'closed', 'created_at': '2015-11-18T17:30:37Z', 'closed_at': '2015-12-17T17:18:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 192, 'title': 'Remove fs.createOutputStream()', 'state': 'closed', 'created_at': '2015-11-11T03:32:39Z', 'closed_at': '2016-04-17T19:56:43Z', 'labels': []}
+{'issuenumber': 191, 'title': 'How to copy symlinks to target as normal folders', 'state': 'closed', 'created_at': '2015-11-03T14:51:37Z', 'closed_at': '2016-04-15T11:56:37Z', 'labels': {'name': 'feature-copy'}}
+{'issuenumber': 188, 'title': 'move.test failing on windows platform', 'state': 'closed', 'created_at': '2015-10-31T01:11:13Z', 'closed_at': '2015-10-31T01:54:26Z', 'labels': []}
+{'issuenumber': 187, 'title': 'Not filter each file, stops on first false', 'state': 'closed', 'created_at': '2015-10-29T21:39:18Z', 'closed_at': '2016-12-29T22:36:05Z', 'labels': {'name': 'feature-copy'}}
+{'issuenumber': 186, 'title': 'Do you need a .size() function in this module?', 'state': 'closed', 'created_at': '2015-10-24T11:46:52Z', 'closed_at': '2015-10-24T12:13:45Z', 'labels': {'name': 'future'}}
+{'issuenumber': 185, 'title': "Doesn't work on NodeJS v4.x", 'state': 'closed', 'created_at': '2015-10-21T09:57:28Z', 'closed_at': '2016-04-17T06:28:06Z', 'labels': []}
+{'issuenumber': 184, 'title': 'CLI equivalent for fs-extra', 'state': 'closed', 'created_at': '2015-10-16T11:17:21Z', 'closed_at': '2015-10-16T12:29:38Z', 'labels': []}
+{'issuenumber': 183, 'title': 'with clobber true, copy and copySync behave differently if destination file is read only', 'state': 'closed', 'created_at': '2015-10-13T02:11:07Z', 'closed_at': '2015-11-02T19:00:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 182, 'title': 'ensureDir(dir, callback) second callback parameter not specified', 'state': 'closed', 'created_at': '2015-10-09T08:30:59Z', 'closed_at': '2017-04-08T18:45:06Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 181, 'title': 'Add ability to remove file securely', 'state': 'closed', 'created_at': '2015-10-01T00:14:44Z', 'closed_at': '2015-10-13T18:03:30Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 180, 'title': "Filter option doesn't work the same way in copy and copySync", 'state': 'closed', 'created_at': '2015-09-25T15:45:43Z', 'closed_at': '2016-12-17T23:18:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 179, 'title': 'Include opendir', 'state': 'closed', 'created_at': '2015-09-25T07:59:09Z', 'closed_at': '2015-10-14T12:11:41Z', 'labels': []}
+{'issuenumber': 178, 'title': 'ENOTEMPTY is thrown on removeSync ', 'state': 'closed', 'created_at': '2015-09-15T07:14:02Z', 'closed_at': '2015-09-15T07:27:30Z', 'labels': []}
+{'issuenumber': 177, 'title': 'fix `remove()` & `move()` wildcards (introduced by rimraf)', 'state': 'closed', 'created_at': '2015-09-14T20:58:01Z', 'closed_at': '2016-11-07T15:59:58Z', 'labels': {'name': 'feature-move'}}
+{'issuenumber': 176, 'title': "createOutputStream doesn't emit 'end' event", 'state': 'closed', 'created_at': '2015-09-08T05:27:49Z', 'closed_at': '2015-10-14T12:13:47Z', 'labels': []}
+{'issuenumber': 175, 'title': '[Feature Request].moveSync support', 'state': 'closed', 'created_at': '2015-08-24T03:37:45Z', 'closed_at': '2015-10-25T12:14:35Z', 'labels': {'name': 'feature-move'}}
+{'issuenumber': 173, 'title': 'Feature Request: writeJson should mkdirs', 'state': 'closed', 'created_at': '2015-08-12T06:58:55Z', 'closed_at': '2015-10-15T12:56:08Z', 'labels': []}
+{'issuenumber': 172, 'title': 'rename `clobber` flags to `overwrite`', 'state': 'closed', 'created_at': '2015-08-11T01:05:23Z', 'closed_at': '2016-12-31T01:46:54Z', 'labels': []}
+{'issuenumber': 171, 'title': 'remove unnecessary aliases', 'state': 'closed', 'created_at': '2015-08-10T15:35:48Z', 'closed_at': '2018-02-20T23:56:23Z', 'labels': []}
+{'issuenumber': 164, 'title': 'Feature Request: ensureFile to take optional argument for file content', 'state': 'closed', 'created_at': '2015-08-04T19:51:40Z', 'closed_at': '2017-02-18T16:19:50Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 163, 'title': 'ouputJson not formatted out of the box', 'state': 'closed', 'created_at': '2015-08-04T19:47:28Z', 'closed_at': '2015-11-03T03:00:30Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 158, 'title': 'Feature Request: ensureLink and ensureSymlink methods', 'state': 'closed', 'created_at': '2015-07-30T04:23:42Z', 'closed_at': '2015-08-06T21:00:59Z', 'labels': []}
+{'issuenumber': 157, 'title': 'Issues using writeJson with Babel', 'state': 'closed', 'created_at': '2015-07-29T06:55:09Z', 'closed_at': '2016-10-27T02:51:39Z', 'labels': []}
+{'issuenumber': 156, 'title': "Promise.promisifyAll doesn't work for some methods", 'state': 'closed', 'created_at': '2015-07-28T22:11:43Z', 'closed_at': '2015-07-28T22:44:20Z', 'labels': []}
+{'issuenumber': 155, 'title': 'Readme', 'state': 'closed', 'created_at': '2015-07-24T01:17:23Z', 'closed_at': '2015-09-02T20:25:36Z', 'labels': []}
+{'issuenumber': 154, 'title': '/tmp/millis-test-sync', 'state': 'closed', 'created_at': '2015-07-21T04:29:03Z', 'closed_at': '2015-07-22T03:27:22Z', 'labels': []}
+{'issuenumber': 152, 'title': 'fs.copy fails for read-only files with preserveTimestamp=true', 'state': 'closed', 'created_at': '2015-07-19T12:22:32Z', 'closed_at': '2016-12-26T20:46:45Z', 'labels': {'name': 'feature-copy'}}
+{'issuenumber': 151, 'title': 'TOC does not work correctly on npm', 'state': 'closed', 'created_at': '2015-07-15T17:57:50Z', 'closed_at': '2016-10-27T12:44:35Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 150, 'title': 'Remove test file fixtures, create with code.', 'state': 'closed', 'created_at': '2015-07-13T10:10:35Z', 'closed_at': '2018-01-03T15:06:57Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 149, 'title': '/tmp/millis-test-sync', 'state': 'closed', 'created_at': '2015-07-09T14:12:40Z', 'closed_at': '2015-07-09T14:55:45Z', 'labels': []}
+{'issuenumber': 148, 'title': 'split out `Sync` methods in documentation', 'state': 'closed', 'created_at': '2015-07-09T11:04:52Z', 'closed_at': '2017-03-14T03:47:49Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 147, 'title': 'Adding rmdirIfEmpty', 'state': 'closed', 'created_at': '2015-07-06T20:33:58Z', 'closed_at': '2015-07-06T21:16:01Z', 'labels': []}
+{'issuenumber': 145, 'title': "Add `fs.exists` and `fs.existsSync` if it doesn't exist.", 'state': 'closed', 'created_at': '2015-07-02T16:45:52Z', 'closed_at': '2017-06-21T16:38:44Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 144, 'title': 'tests failing', 'state': 'closed', 'created_at': '2015-06-27T22:25:15Z', 'closed_at': '2015-07-03T18:38:47Z', 'labels': []}
+{'issuenumber': 143, 'title': 'update graceful-fs', 'state': 'closed', 'created_at': '2015-06-27T21:49:22Z', 'closed_at': '2015-06-28T15:46:31Z', 'labels': []}
+{'issuenumber': 142, 'title': 'PrependFile Feature', 'state': 'closed', 'created_at': '2015-06-24T07:18:53Z', 'closed_at': '2015-06-24T14:45:01Z', 'labels': []}
+{'issuenumber': 140, 'title': "Json file reading fails with 'utf8'", 'state': 'closed', 'created_at': '2015-06-22T10:51:57Z', 'closed_at': '2015-06-22T21:00:33Z', 'labels': []}
+{'issuenumber': 138, 'title': 'Preserve timestamps on copying files', 'state': 'closed', 'created_at': '2015-05-29T19:21:20Z', 'closed_at': '2015-06-26T14:17:00Z', 'labels': []}
+{'issuenumber': 137, 'title': 'outputFile/outputJson: Unexpected end of input', 'state': 'closed', 'created_at': '2015-05-24T17:04:40Z', 'closed_at': '2016-12-17T23:20:47Z', 'labels': {'name': 'needs-confirmed'}}
+{'issuenumber': 135, 'title': 'emptyDir throws Error if no callback is provided', 'state': 'closed', 'created_at': '2015-05-19T09:26:04Z', 'closed_at': '2016-11-05T13:17:21Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 131, 'title': 'copySync is not working iojs 1.8.4 on linux', 'state': 'closed', 'created_at': '2015-05-03T07:28:18Z', 'closed_at': '2016-04-17T18:34:09Z', 'labels': {'name': 'feature-copy'}}
+{'issuenumber': 128, 'title': 'fsExtra.move(filepath, newPath) broken;', 'state': 'closed', 'created_at': '2015-04-20T02:17:18Z', 'closed_at': '2015-04-20T02:26:47Z', 'labels': []}
+{'issuenumber': 127, 'title': 'consider using fs.access to remove deprecated warnings for fs.exists', 'state': 'closed', 'created_at': '2015-04-17T16:05:45Z', 'closed_at': '2016-12-26T20:46:06Z', 'labels': []}
+{'issuenumber': 126, 'title': " TypeError: Object #<Object> has no method 'access'", 'state': 'closed', 'created_at': '2015-04-14T01:22:31Z', 'closed_at': '2015-04-14T01:32:25Z', 'labels': []}
+{'issuenumber': 125, 'title': 'Question: What do the *Sync function do different from non-sync', 'state': 'closed', 'created_at': '2015-04-13T15:54:58Z', 'closed_at': '2015-04-13T19:59:57Z', 'labels': []}
+{'issuenumber': 124, 'title': "move with clobber option 'ENOTEMPTY'", 'state': 'closed', 'created_at': '2015-04-08T19:11:21Z', 'closed_at': '2015-06-21T15:12:20Z', 'labels': []}
+{'issuenumber': 123, 'title': 'Only copy the content of a directory', 'state': 'closed', 'created_at': '2015-04-04T13:39:17Z', 'closed_at': '2015-04-05T04:45:11Z', 'labels': []}
+{'issuenumber': 121, 'title': 'emptyDir is undefined', 'state': 'closed', 'created_at': '2015-04-01T04:25:48Z', 'closed_at': '2015-04-01T04:34:48Z', 'labels': []}
+{'issuenumber': 120, 'title': "usage bug caused by shallow cloning methods of 'graceful-fs'", 'state': 'closed', 'created_at': '2015-03-29T06:08:47Z', 'closed_at': '2015-04-17T16:04:32Z', 'labels': []}
+{'issuenumber': 119, 'title': 'mkdirs and ensureDir never invoke callback and consume CPU indefinitely if provided a path with invalid characters on Windows', 'state': 'closed', 'created_at': '2015-03-20T20:26:08Z', 'closed_at': '2016-04-18T09:24:38Z', 'labels': []}
+{'issuenumber': 116, 'title': 'copySync can only copy directories not files', 'state': 'closed', 'created_at': '2015-03-06T04:22:22Z', 'closed_at': '2015-12-17T14:55:28Z', 'labels': {'name': 'feature-copy'}}
+{'issuenumber': 115, 'title': '.Copy & .CopySync', 'state': 'closed', 'created_at': '2015-02-23T08:18:59Z', 'closed_at': '2016-10-27T03:12:43Z', 'labels': {'name': 'feature-copy'}}
+{'issuenumber': 114, 'title': 'Fails to move (rename) directory to non-empty directory even with clobber: true', 'state': 'closed', 'created_at': '2015-02-20T13:52:10Z', 'closed_at': '2015-03-08T17:11:44Z', 'labels': []}
+{'issuenumber': 113, 'title': 'fs.copy seems to callback early if the destination file already exists', 'state': 'closed', 'created_at': '2015-02-11T12:40:39Z', 'closed_at': '2015-03-08T20:28:04Z', 'labels': []}
+{'issuenumber': 109, 'title': 'fs.move across windows drives fails', 'state': 'closed', 'created_at': '2015-01-28T20:50:26Z', 'closed_at': '2015-05-20T01:11:43Z', 'labels': []}
+{'issuenumber': 108, 'title': "fse.move directories across multiple devices doesn't work", 'state': 'closed', 'created_at': '2015-01-27T19:50:07Z', 'closed_at': '2015-01-28T05:16:44Z', 'labels': []}
+{'issuenumber': 106, 'title': 'fse.copySync crashes while copying across devices D:', 'state': 'closed', 'created_at': '2015-01-25T08:13:23Z', 'closed_at': '2016-10-27T02:58:53Z', 'labels': {'name': 'feature-copy'}}
+{'issuenumber': 105, 'title': 'fs.copy hangs on iojs', 'state': 'closed', 'created_at': '2015-01-19T14:33:09Z', 'closed_at': '2015-01-21T11:29:16Z', 'labels': []}
+{'issuenumber': 104, 'title': 'fse.move deletes folders', 'state': 'closed', 'created_at': '2015-01-11T18:31:01Z', 'closed_at': '2015-01-27T19:46:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 103, 'title': 'Error: EMFILE with copy', 'state': 'closed', 'created_at': '2015-01-08T15:15:37Z', 'closed_at': '2015-01-21T11:31:23Z', 'labels': []}
+{'issuenumber': 102, 'title': 'touch / touchSync was removed ?', 'state': 'closed', 'created_at': '2015-01-05T14:15:38Z', 'closed_at': '2015-01-06T02:09:33Z', 'labels': []}
+{'issuenumber': 101, 'title': 'fs-extra promisified', 'state': 'closed', 'created_at': '2015-01-04T17:08:38Z', 'closed_at': '2015-01-05T21:33:43Z', 'labels': []}
+{'issuenumber': 99, 'title': 'ensureDir() modes', 'state': 'closed', 'created_at': '2014-12-28T21:50:11Z', 'closed_at': '2015-10-24T14:31:50Z', 'labels': {'name': 'future'}}
+{'issuenumber': 98, 'title': 'fs.copy() incorrect async behavior', 'state': 'closed', 'created_at': '2014-12-13T12:50:16Z', 'closed_at': '2015-01-28T08:16:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 96, 'title': 'destFolderExists in copySync is always undefined.', 'state': 'closed', 'created_at': '2014-11-28T14:38:48Z', 'closed_at': '2014-12-08T16:02:13Z', 'labels': []}
+{'issuenumber': 94, 'title': "Error: EEXIST, file already exists '../mkdirp/bin/cmd.js' on fs.copySync()", 'state': 'closed', 'created_at': '2014-11-25T21:41:24Z', 'closed_at': '2016-10-27T12:17:22Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 93, 'title': 'Confusing error if drive not mounted', 'state': 'closed', 'created_at': '2014-11-12T22:22:35Z', 'closed_at': '2016-04-18T08:52:28Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 92, 'title': 'Problems with Bluebird', 'state': 'closed', 'created_at': '2014-11-05T14:33:30Z', 'closed_at': '2014-11-07T06:13:31Z', 'labels': []}
+{'issuenumber': 91, 'title': "fs.copySync('/test', '/haha') is different with 'cp -r /test /haha'", 'state': 'closed', 'created_at': '2014-10-24T03:14:46Z', 'closed_at': '2015-06-21T15:11:44Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 90, 'title': 'Folder creation and file copy is Happening in 64 bit machine but not in 32 bit machine', 'state': 'closed', 'created_at': '2014-10-17T12:54:18Z', 'closed_at': '2015-04-15T20:31:10Z', 'labels': []}
+{'issuenumber': 89, 'title': "Error: EEXIST using fs-extra's fs.copy to copy a directory on Windows", 'state': 'closed', 'created_at': '2014-09-29T21:10:51Z', 'closed_at': '2015-06-07T13:27:34Z', 'labels': []}
+{'issuenumber': 88, 'title': 'Stacking those libraries', 'state': 'closed', 'created_at': '2014-09-25T20:06:39Z', 'closed_at': '2015-03-28T13:40:45Z', 'labels': []}
+{'issuenumber': 87, 'title': 'createWriteStream + outputFile = ?', 'state': 'closed', 'created_at': '2014-09-25T19:58:17Z', 'closed_at': '2015-03-28T13:37:49Z', 'labels': []}
+{'issuenumber': 86, 'title': 'no moveSync?', 'state': 'closed', 'created_at': '2014-09-23T17:42:17Z', 'closed_at': '2015-03-25T15:39:14Z', 'labels': []}
+{'issuenumber': 84, 'title': 'Push latest version to npm ?', 'state': 'closed', 'created_at': '2014-09-11T16:17:13Z', 'closed_at': '2014-09-12T07:49:00Z', 'labels': []}
+{'issuenumber': 83, 'title': 'Prevent copying a directory into itself', 'state': 'closed', 'created_at': '2014-09-09T04:05:57Z', 'closed_at': '2017-12-11T17:31:28Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 81, 'title': 'fd leak after fs.move', 'state': 'closed', 'created_at': '2014-08-28T02:57:45Z', 'closed_at': '2014-08-28T03:06:23Z', 'labels': []}
+{'issuenumber': 79, 'title': 'fs.copy only .html file empty', 'state': 'closed', 'created_at': '2014-08-27T06:53:00Z', 'closed_at': '2014-08-27T19:32:01Z', 'labels': []}
+{'issuenumber': 77, 'title': 'Create README reference to bluebird', 'state': 'closed', 'created_at': '2014-08-15T16:58:13Z', 'closed_at': '2014-09-22T14:14:43Z', 'labels': []}
+{'issuenumber': 76, 'title': 'Create README reference to typescript', 'state': 'closed', 'created_at': '2014-08-15T16:57:40Z', 'closed_at': '2014-09-22T14:14:43Z', 'labels': []}
+{'issuenumber': 75, 'title': 'add glob as a dep?', 'state': 'closed', 'created_at': '2014-08-08T20:23:05Z', 'closed_at': '2015-01-07T22:13:23Z', 'labels': {'name': 'question'}}
+{'issuenumber': 71, 'title': 'fse.copy not working on Windows 7 x64 OS, but, copySync does work', 'state': 'closed', 'created_at': '2014-07-11T15:56:59Z', 'closed_at': '2014-07-15T14:45:55Z', 'labels': []}
+{'issuenumber': 70, 'title': 'Not filter each file, stops on first false', 'state': 'closed', 'created_at': '2014-07-09T18:19:17Z', 'closed_at': '2015-04-19T09:32:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 69, 'title': 'How to check if folder exist and read the folder name', 'state': 'closed', 'created_at': '2014-07-09T17:04:19Z', 'closed_at': '2014-07-09T18:05:25Z', 'labels': []}
+{'issuenumber': 68, 'title': 'consider flag to readJsonSync (throw false)', 'state': 'closed', 'created_at': '2014-06-29T13:06:04Z', 'closed_at': '2014-08-15T17:03:06Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 67, 'title': 'docs for readJson incorrectly states that is accepts options', 'state': 'closed', 'created_at': '2014-06-29T12:14:21Z', 'closed_at': '2014-06-29T13:30:06Z', 'labels': []}
+{'issuenumber': 66, 'title': 'ENAMETOOLONG', 'state': 'closed', 'created_at': '2014-06-26T12:08:05Z', 'closed_at': '2014-06-26T17:05:13Z', 'labels': []}
+{'issuenumber': 65, 'title': 'exclude filter in fs.copy', 'state': 'closed', 'created_at': '2014-06-12T05:36:33Z', 'closed_at': '2014-06-12T19:58:59Z', 'labels': []}
+{'issuenumber': 64, 'title': 'Announce: mfs - monitor your fs-extra calls', 'state': 'closed', 'created_at': '2014-06-07T05:33:15Z', 'closed_at': '2014-09-22T14:15:44Z', 'labels': []}
+{'issuenumber': 63, 'title': 'Walk', 'state': 'closed', 'created_at': '2014-06-06T19:16:29Z', 'closed_at': '2015-10-24T22:04:11Z', 'labels': []}
+{'issuenumber': 62, 'title': "npm install fs-extra doesn't work", 'state': 'closed', 'created_at': '2014-05-30T20:47:34Z', 'closed_at': '2014-05-30T21:20:07Z', 'labels': []}
+{'issuenumber': 61, 'title': 'No longer supports node 0.8 due to use of `^` in package.json dependencies', 'state': 'closed', 'created_at': '2014-05-29T18:32:39Z', 'closed_at': '2014-05-29T18:43:29Z', 'labels': []}
+{'issuenumber': 60, 'title': 'chmod & chown for mkdirs', 'state': 'closed', 'created_at': '2014-05-27T16:41:36Z', 'closed_at': '2015-04-19T09:31:24Z', 'labels': []}
+{'issuenumber': 59, 'title': 'Consider including mkdirp and making fs-extra "--use_strict" safe', 'state': 'closed', 'created_at': '2014-05-18T22:55:55Z', 'closed_at': '2014-12-10T21:08:27Z', 'labels': {'name': 'question'}}
+{'issuenumber': 58, 'title': 'Stack trace not included in fs.copy error', 'state': 'closed', 'created_at': '2014-05-16T18:36:43Z', 'closed_at': '2014-05-22T23:29:26Z', 'labels': []}
+{'issuenumber': 57, 'title': 'Possible to include wildcards in delete?', 'state': 'closed', 'created_at': '2014-05-15T14:59:59Z', 'closed_at': '2015-03-25T15:42:07Z', 'labels': []}
+{'issuenumber': 56, 'title': 'Crash when have no access to write to destination file in copy ', 'state': 'closed', 'created_at': '2014-04-06T09:37:01Z', 'closed_at': '2015-04-18T09:03:17Z', 'labels': []}
+{'issuenumber': 55, 'title': 'Is it possible to have any console output similar to Grunt copy module?', 'state': 'closed', 'created_at': '2014-04-05T13:12:16Z', 'closed_at': '2015-04-10T08:58:16Z', 'labels': []}
+{'issuenumber': 54, 'title': '`copy` does not preserve file ownership and permissons', 'state': 'closed', 'created_at': '2014-03-29T02:20:46Z', 'closed_at': '2015-07-09T11:37:25Z', 'labels': []}
+{'issuenumber': 53, 'title': 'outputFile() - ability to write data in appending mode', 'state': 'closed', 'created_at': '2014-03-23T22:44:50Z', 'closed_at': '2014-08-15T17:01:09Z', 'labels': []}
+{'issuenumber': 50, 'title': 'Replace mechanism in createFile', 'state': 'closed', 'created_at': '2014-02-19T07:13:03Z', 'closed_at': '2014-02-19T18:49:41Z', 'labels': []}
+{'issuenumber': 48, 'title': 'fs.copy issue', 'state': 'closed', 'created_at': '2014-02-08T06:36:10Z', 'closed_at': '2015-03-08T20:24:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 47, 'title': 'Bug in copy - callback called on readStream "close" - Fixed in ncp 0.5.0', 'state': 'closed', 'created_at': '2014-02-05T15:01:53Z', 'closed_at': '2014-05-22T23:52:52Z', 'labels': []}
+{'issuenumber': 43, 'title': 'Better error reporting ', 'state': 'closed', 'created_at': '2013-12-28T20:50:51Z', 'closed_at': '2013-12-30T16:29:20Z', 'labels': []}
+{'issuenumber': 42, 'title': 'Performance issue?', 'state': 'closed', 'created_at': '2013-12-17T16:46:23Z', 'closed_at': '2015-04-10T08:55:20Z', 'labels': []}
+{'issuenumber': 40, 'title': 'fs.copy throw unexplained error ENOENT, utime ', 'state': 'closed', 'created_at': '2013-11-21T00:46:48Z', 'closed_at': '2014-09-22T18:56:50Z', 'labels': []}
+{'issuenumber': 37, 'title': 'Maybe include a line reader?', 'state': 'closed', 'created_at': '2013-10-15T01:55:48Z', 'closed_at': '2015-03-25T15:40:34Z', 'labels': {'name': 'enhancement'}}

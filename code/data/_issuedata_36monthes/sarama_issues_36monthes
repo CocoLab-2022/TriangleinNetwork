@@ -1,0 +1,240 @@
+{'issuenumber': 686, 'title': 'leveled logging needed or StdLogger interface only used for log error message', 'state': 'closed', 'created_at': '2016-06-23T08:50:05Z', 'closed_at': '2016-06-23T10:43:45Z', 'labels': []}
+{'issuenumber': 683, 'title': 'Expose metrics using go-metrics', 'state': 'closed', 'created_at': '2016-06-20T09:21:52Z', 'closed_at': '2016-11-22T19:28:25Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 680, 'title': 'Support and provide consumer message timestamps', 'state': 'closed', 'created_at': '2016-06-16T08:00:14Z', 'closed_at': '2016-06-20T21:20:02Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 675, 'title': 'Retrieving Topic/Partition Log Size', 'state': 'closed', 'created_at': '2016-06-09T18:57:46Z', 'closed_at': '2016-06-09T19:00:31Z', 'labels': []}
+{'issuenumber': 674, 'title': 'Support synchronous sending for batches of messages', 'state': 'closed', 'created_at': '2016-06-09T18:23:48Z', 'closed_at': '2016-06-10T19:01:15Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 667, 'title': 'Check the received message value in producer mocks', 'state': 'closed', 'created_at': '2016-06-09T09:24:10Z', 'closed_at': '2016-07-06T16:00:13Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 666, 'title': 'How to close the partitionConsumer.Messages() channel when no more messages are coming ?', 'state': 'closed', 'created_at': '2016-06-09T08:44:14Z', 'closed_at': '2016-06-09T13:07:38Z', 'labels': {'name': 'question'}}
+{'issuenumber': 665, 'title': 'Restarted brokers are kept with a broken connection (producer)', 'state': 'closed', 'created_at': '2016-06-01T16:02:34Z', 'closed_at': '2016-06-02T16:21:10Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 663, 'title': 'Error processing append operation on partition', 'state': 'closed', 'created_at': '2016-05-31T13:49:37Z', 'closed_at': '2016-05-31T14:00:34Z', 'labels': {'name': 'upstream'}}
+{'issuenumber': 662, 'title': 'How to commit offset to kafka in Broker', 'state': 'closed', 'created_at': '2016-05-23T08:04:23Z', 'closed_at': '2016-05-23T09:52:43Z', 'labels': []}
+{'issuenumber': 661, 'title': "Sarama completely hangs(doesn't send) somewhere when a broker goes down in case of using DNS url", 'state': 'closed', 'created_at': '2016-05-18T01:46:00Z', 'closed_at': '2016-06-09T14:09:23Z', 'labels': {'name': 'producer'}}
+{'issuenumber': 659, 'title': "should consumer.Close close it's underlying partitionConsumers?", 'state': 'closed', 'created_at': '2016-05-06T22:19:34Z', 'closed_at': '2020-03-23T00:04:29Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 656, 'title': 'OffsetManager.Close() race condition', 'state': 'closed', 'created_at': '2016-05-05T20:41:10Z', 'closed_at': '2016-05-10T17:56:35Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 653, 'title': 'Documentation does not describe how to get started', 'state': 'closed', 'created_at': '2016-05-02T16:45:52Z', 'closed_at': '2016-05-14T12:38:30Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 650, 'title': 'Consumer allocates a lot of memory when Consumer.Offsets.Retention has non-zero value', 'state': 'closed', 'created_at': '2016-04-29T10:36:54Z', 'closed_at': '2016-06-09T13:45:24Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 649, 'title': 'Does sarama support manual offset management in consumer?', 'state': 'closed', 'created_at': '2016-04-28T23:38:52Z', 'closed_at': '2016-04-29T13:08:51Z', 'labels': []}
+{'issuenumber': 647, 'title': 'Support dynamic Retention period on topic creation/producing', 'state': 'closed', 'created_at': '2016-04-27T15:35:41Z', 'closed_at': '2016-04-27T16:48:48Z', 'labels': []}
+{'issuenumber': 645, 'title': 'SyncProducer does not seem to respect partition field in SendMessage method', 'state': 'closed', 'created_at': '2016-04-25T16:57:02Z', 'closed_at': '2016-04-25T18:16:17Z', 'labels': []}
+{'issuenumber': 644, 'title': 'Sarama Offset Management', 'state': 'closed', 'created_at': '2016-04-21T04:42:20Z', 'closed_at': '2016-04-21T18:26:55Z', 'labels': []}
+{'issuenumber': 643, 'title': 'SSL support (Kafka 0.9+) revisit', 'state': 'closed', 'created_at': '2016-04-20T12:08:21Z', 'closed_at': '2016-05-09T06:23:50Z', 'labels': []}
+{'issuenumber': 642, 'title': 'Planned support for new Kafka 0.10 message format', 'state': 'closed', 'created_at': '2016-04-14T08:17:17Z', 'closed_at': '2016-06-10T19:02:39Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 640, 'title': 'How to delete a topic?', 'state': 'closed', 'created_at': '2016-04-13T02:38:26Z', 'closed_at': '2016-04-13T10:14:10Z', 'labels': []}
+{'issuenumber': 638, 'title': 'questions about ConsumePartition', 'state': 'closed', 'created_at': '2016-04-09T08:50:33Z', 'closed_at': '2016-04-09T11:35:19Z', 'labels': []}
+{'issuenumber': 637, 'title': 'Not all messages are being flushed out of Kafka.', 'state': 'closed', 'created_at': '2016-04-04T12:58:34Z', 'closed_at': '2016-04-09T11:33:52Z', 'labels': []}
+{'issuenumber': 636, 'title': 'Sarama Batch Size Configuration issue', 'state': 'closed', 'created_at': '2016-03-30T19:26:26Z', 'closed_at': '2016-06-09T13:47:48Z', 'labels': {'name': 'question'}}
+{'issuenumber': 635, 'title': 'fail to decode some gzip messages', 'state': 'closed', 'created_at': '2016-03-27T20:22:51Z', 'closed_at': '2016-03-27T20:40:00Z', 'labels': []}
+{'issuenumber': 634, 'title': 'Handle kafka "null messages" for deleting in a compacted topic', 'state': 'closed', 'created_at': '2016-03-26T16:40:04Z', 'closed_at': '2016-06-09T14:26:32Z', 'labels': []}
+{'issuenumber': 632, 'title': 'Check config string properties for invalid characters', 'state': 'closed', 'created_at': '2016-03-17T17:48:18Z', 'closed_at': '2016-03-17T21:28:13Z', 'labels': []}
+{'issuenumber': 631, 'title': 'Low Level Consumer Question', 'state': 'closed', 'created_at': '2016-03-17T08:28:15Z', 'closed_at': '2016-03-17T11:50:35Z', 'labels': []}
+{'issuenumber': 630, 'title': 'Unable to consumer new message after timeout error.', 'state': 'closed', 'created_at': '2016-03-17T07:06:38Z', 'closed_at': '2016-06-09T14:48:27Z', 'labels': {'name': 'question'}}
+{'issuenumber': 629, 'title': 'Question about consumer group when using sarama package', 'state': 'closed', 'created_at': '2016-03-15T12:41:55Z', 'closed_at': '2016-03-15T12:52:19Z', 'labels': []}
+{'issuenumber': 628, 'title': 'How to consume until the end?', 'state': 'closed', 'created_at': '2016-03-12T17:53:33Z', 'closed_at': '2016-03-14T12:34:27Z', 'labels': []}
+{'issuenumber': 626, 'title': 'package sarama imports testing', 'state': 'closed', 'created_at': '2016-03-10T21:06:55Z', 'closed_at': '2016-03-10T21:57:47Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 624, 'title': 'When to close the partitionconsumer', 'state': 'closed', 'created_at': '2016-03-10T06:23:33Z', 'closed_at': '2016-03-11T02:30:59Z', 'labels': {'name': 'consumer'}}
+{'issuenumber': 623, 'title': 'Create kafka topic if not exist', 'state': 'closed', 'created_at': '2016-03-09T06:16:19Z', 'closed_at': '2016-03-09T11:57:08Z', 'labels': []}
+{'issuenumber': 622, 'title': "it's helpful if the log is classified with debug,info,notice, etc.", 'state': 'closed', 'created_at': '2016-03-09T04:13:32Z', 'closed_at': '2016-03-10T15:01:50Z', 'labels': []}
+{'issuenumber': 620, 'title': 'ByteEncoder returning []unint8, should return []byte', 'state': 'closed', 'created_at': '2016-03-05T21:33:35Z', 'closed_at': '2016-03-06T09:51:49Z', 'labels': []}
+{'issuenumber': 619, 'title': 'Consumergroup Example', 'state': 'closed', 'created_at': '2016-03-05T18:21:49Z', 'closed_at': '2016-03-07T14:44:49Z', 'labels': {'name': 'question'}}
+{'issuenumber': 617, 'title': 'User-space multi-version support', 'state': 'closed', 'created_at': '2016-03-03T16:56:16Z', 'closed_at': '2016-06-09T20:06:18Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 615, 'title': 'snappy compression', 'state': 'closed', 'created_at': '2016-03-01T08:16:05Z', 'closed_at': '2016-03-01T15:05:50Z', 'labels': []}
+{'issuenumber': 614, 'title': 'Race in async producer', 'state': 'closed', 'created_at': '2016-02-29T11:46:34Z', 'closed_at': '2016-06-09T14:03:10Z', 'labels': {'name': 'needs-more-info'}}
+{'issuenumber': 613, 'title': 'AsyncProducer Consistency Question', 'state': 'closed', 'created_at': '2016-02-26T19:18:45Z', 'closed_at': '2016-02-26T22:30:25Z', 'labels': {'name': 'question'}}
+{'issuenumber': 612, 'title': 'compress messages?', 'state': 'closed', 'created_at': '2016-02-23T04:07:40Z', 'closed_at': '2016-02-23T12:56:14Z', 'labels': []}
+{'issuenumber': 609, 'title': "can't use MockBroker without setting MetadataRequest handler", 'state': 'closed', 'created_at': '2016-02-19T21:00:49Z', 'closed_at': '2016-02-19T22:19:10Z', 'labels': []}
+{'issuenumber': 607, 'title': 'Add issue and PR templates', 'state': 'closed', 'created_at': '2016-02-18T04:37:50Z', 'closed_at': '2016-06-09T14:45:38Z', 'labels': {'name': 'maintenance'}}
+{'issuenumber': 606, 'title': 'Is there a group consumer example?', 'state': 'closed', 'created_at': '2016-02-17T07:50:22Z', 'closed_at': '2016-02-17T15:49:15Z', 'labels': {'name': 'question'}}
+{'issuenumber': 603, 'title': 'Slow Producer', 'state': 'closed', 'created_at': '2016-02-11T15:19:18Z', 'closed_at': '2016-02-16T15:03:47Z', 'labels': []}
+{'issuenumber': 601, 'title': 'Slow Consumer', 'state': 'closed', 'created_at': '2016-02-08T16:29:22Z', 'closed_at': '2016-02-10T15:35:17Z', 'labels': {'name': 'consumer'}}
+{'issuenumber': 598, 'title': 'panic: close of closed channel (possibly via https://github.com/bsm/sarama-cluster) ', 'state': 'closed', 'created_at': '2016-01-22T18:35:05Z', 'closed_at': '2016-01-22T20:07:18Z', 'labels': []}
+{'issuenumber': 597, 'title': 'Consumer Groups/ Group Membership API in 0.9.x', 'state': 'closed', 'created_at': '2016-01-20T02:03:32Z', 'closed_at': '2019-03-10T13:11:45Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 596, 'title': 'Audit error code handling', 'state': 'closed', 'created_at': '2016-01-18T17:34:49Z', 'closed_at': '2016-03-28T13:55:27Z', 'labels': {'name': 'maintenance'}}
+{'issuenumber': 595, 'title': 'ErrNotLeaderForPartition error', 'state': 'closed', 'created_at': '2016-01-13T10:42:54Z', 'closed_at': '2016-01-13T12:01:29Z', 'labels': []}
+{'issuenumber': 594, 'title': 'panic: kafka: partitioner returned an invalid partition index on writing using NewManualPartitioner', 'state': 'closed', 'created_at': '2016-01-12T12:53:22Z', 'closed_at': '2016-01-12T13:52:47Z', 'labels': {'name': 'producer'}}
+{'issuenumber': 593, 'title': 'Sarama Snappy Compression', 'state': 'closed', 'created_at': '2016-01-12T01:13:51Z', 'closed_at': '2016-01-12T16:11:06Z', 'labels': {'name': 'question'}}
+{'issuenumber': 582, 'title': 'async_producer.go:624:syntax error: unexpected :, expecting semicolon or newline or }', 'state': 'closed', 'created_at': '2015-12-11T04:07:20Z', 'closed_at': '2015-12-21T14:18:55Z', 'labels': {'name': 'needs-more-info'}}
+{'issuenumber': 581, 'title': 'SSL support (Kafka 0.9+)', 'state': 'closed', 'created_at': '2015-12-09T21:01:00Z', 'closed_at': '2016-01-28T18:27:55Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 578, 'title': 'Question about consumer mem leak', 'state': 'closed', 'created_at': '2015-12-08T03:37:36Z', 'closed_at': '2015-12-09T04:52:31Z', 'labels': []}
+{'issuenumber': 576, 'title': 'does sarama provided code/utility to alter kafka partition in golang', 'state': 'closed', 'created_at': '2015-12-04T18:04:52Z', 'closed_at': '2015-12-04T18:08:20Z', 'labels': []}
+{'issuenumber': 574, 'title': 'Implement new kafka 0.9 protocols', 'state': 'closed', 'created_at': '2015-11-26T20:19:38Z', 'closed_at': '2016-01-20T14:40:59Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 573, 'title': 'Offset Manager broken with kafka 0.9', 'state': 'closed', 'created_at': '2015-11-26T20:18:44Z', 'closed_at': '2015-12-14T13:58:40Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 568, 'title': 'kafka tls', 'state': 'closed', 'created_at': '2015-11-13T05:14:31Z', 'closed_at': '2015-11-16T14:27:28Z', 'labels': {'name': 'protocol'}}
+{'issuenumber': 567, 'title': 'Performance of AsyncProducer', 'state': 'closed', 'created_at': '2015-11-12T16:02:55Z', 'closed_at': '2015-11-16T12:49:38Z', 'labels': {'name': 'question'}}
+{'issuenumber': 561, 'title': 'Examples of using AsyncProducer in documentation', 'state': 'closed', 'created_at': '2015-11-08T12:22:33Z', 'closed_at': '2015-11-08T12:41:00Z', 'labels': []}
+{'issuenumber': 560, 'title': 'Memory leak sometimes when restarting kafka partitions', 'state': 'closed', 'created_at': '2015-11-02T03:21:47Z', 'closed_at': '2015-11-16T14:59:46Z', 'labels': {'name': 'producer'}}
+{'issuenumber': 556, 'title': 'Option: Provide an example of consuming message', 'state': 'closed', 'created_at': '2015-10-28T06:28:22Z', 'closed_at': '2015-10-28T14:06:26Z', 'labels': {'name': 'consumer'}}
+{'issuenumber': 554, 'title': 'OffsetManager, ability to mark previous offset', 'state': 'closed', 'created_at': '2015-10-20T13:35:42Z', 'closed_at': '2017-09-12T14:35:25Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 553, 'title': 'Mock issues in Go 1.5', 'state': 'closed', 'created_at': '2015-10-16T22:35:49Z', 'closed_at': '2015-11-02T04:08:24Z', 'labels': []}
+{'issuenumber': 552, 'title': 'Can not use mocks package for testing', 'state': 'closed', 'created_at': '2015-10-15T14:15:45Z', 'closed_at': '2015-10-15T15:23:11Z', 'labels': []}
+{'issuenumber': 546, 'title': 'Timeout issue in consumer on broker death', 'state': 'closed', 'created_at': '2015-09-29T01:36:26Z', 'closed_at': '2015-10-01T14:02:04Z', 'labels': []}
+{'issuenumber': 541, 'title': 'Relation between consuming multiple topics && partitions with connection number?', 'state': 'closed', 'created_at': '2015-09-25T11:54:56Z', 'closed_at': '2015-09-25T12:25:13Z', 'labels': []}
+{'issuenumber': 540, 'title': 'Config struct commentlines too long', 'state': 'closed', 'created_at': '2015-09-25T03:37:20Z', 'closed_at': '2015-09-25T14:00:59Z', 'labels': []}
+{'issuenumber': 537, 'title': 'Line Breaks in Log Messages', 'state': 'closed', 'created_at': '2015-09-24T15:25:35Z', 'closed_at': '2015-10-14T18:28:58Z', 'labels': []}
+{'issuenumber': 536, 'title': 'The max producer message size ', 'state': 'closed', 'created_at': '2015-09-24T06:21:10Z', 'closed_at': '2015-09-24T15:51:41Z', 'labels': []}
+{'issuenumber': 535, 'title': 'Consumer group example', 'state': 'closed', 'created_at': '2015-09-09T17:44:38Z', 'closed_at': '2015-09-09T17:46:58Z', 'labels': []}
+{'issuenumber': 534, 'title': 'Find current offset of broker/topic', 'state': 'closed', 'created_at': '2015-09-09T11:23:40Z', 'closed_at': '2015-09-09T12:04:56Z', 'labels': []}
+{'issuenumber': 533, 'title': 'Support for consumer groups?', 'state': 'closed', 'created_at': '2015-09-05T14:00:05Z', 'closed_at': '2015-09-05T16:15:18Z', 'labels': []}
+{'issuenumber': 530, 'title': 'OffsetManager does not set timestamp right', 'state': 'closed', 'created_at': '2015-09-01T00:04:40Z', 'closed_at': '2015-09-01T09:27:38Z', 'labels': []}
+{'issuenumber': 516, 'title': 'Producer : AsyncProducer (Select) block port in OS', 'state': 'closed', 'created_at': '2015-08-17T20:24:45Z', 'closed_at': '2015-08-17T22:30:48Z', 'labels': []}
+{'issuenumber': 514, 'title': 'Assign valid partitions for messages with leaderless partitions', 'state': 'closed', 'created_at': '2015-08-14T14:24:51Z', 'closed_at': '2020-03-23T00:04:30Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 509, 'title': 'Issues with Producer.Retry.Max = 0', 'state': 'closed', 'created_at': '2015-08-13T09:21:37Z', 'closed_at': '2015-08-13T11:59:02Z', 'labels': []}
+{'issuenumber': 507, 'title': 'Provide replacement for kafka.admin.AdminUtils', 'state': 'closed', 'created_at': '2015-08-12T02:48:43Z', 'closed_at': '2015-08-12T12:15:15Z', 'labels': []}
+{'issuenumber': 505, 'title': 'How to comit the message and get the ACK', 'state': 'closed', 'created_at': '2015-08-09T06:25:51Z', 'closed_at': '2015-08-09T16:31:14Z', 'labels': {'name': 'question'}}
+{'issuenumber': 500, 'title': 'Split request/response code into subpackage', 'state': 'closed', 'created_at': '2015-08-05T23:52:56Z', 'closed_at': '2015-08-06T02:13:22Z', 'labels': []}
+{'issuenumber': 499, 'title': 'Single node failure prevents Sarama from using Kafka cluster', 'state': 'closed', 'created_at': '2015-08-05T14:14:24Z', 'closed_at': '2015-08-05T14:18:29Z', 'labels': []}
+{'issuenumber': 491, 'title': 'Document/add an example for Consumer groups', 'state': 'closed', 'created_at': '2015-07-22T05:29:04Z', 'closed_at': '2015-07-22T10:35:58Z', 'labels': {'name': 'question'}}
+{'issuenumber': 490, 'title': 'Snappy dependency moved again', 'state': 'closed', 'created_at': '2015-07-21T00:29:57Z', 'closed_at': '2015-07-21T13:27:38Z', 'labels': []}
+{'issuenumber': 489, 'title': 'number of unconsumed messages in a partition', 'state': 'closed', 'created_at': '2015-07-18T00:28:55Z', 'closed_at': '2015-07-20T13:32:41Z', 'labels': {'name': 'question'}}
+{'issuenumber': 488, 'title': 'Build is broken because of golang/snappy changes', 'state': 'closed', 'created_at': '2015-07-17T11:38:23Z', 'closed_at': '2015-07-17T11:40:33Z', 'labels': []}
+{'issuenumber': 480, 'title': 'How can I get the lastest offset of a partition?', 'state': 'closed', 'created_at': '2015-07-07T06:54:18Z', 'closed_at': '2015-07-07T13:18:09Z', 'labels': {'name': 'question'}}
+{'issuenumber': 479, 'title': "Coun't find example links", 'state': 'closed', 'created_at': '2015-07-04T11:45:48Z', 'closed_at': '2015-07-04T14:59:59Z', 'labels': []}
+{'issuenumber': 477, 'title': 'Consumer OffsetNewest/OffsetOldest', 'state': 'closed', 'created_at': '2015-06-22T19:19:17Z', 'closed_at': '2015-06-22T19:56:40Z', 'labels': []}
+{'issuenumber': 476, 'title': 'Consumer - continuous network usage', 'state': 'closed', 'created_at': '2015-06-19T06:13:56Z', 'closed_at': '2015-06-19T06:44:31Z', 'labels': []}
+{'issuenumber': 475, 'title': 'Potential race/deadlock between broker error and `AsyncClose`', 'state': 'closed', 'created_at': '2015-06-17T13:17:06Z', 'closed_at': '2015-07-27T13:43:51Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 474, 'title': 'How to handle a closed message channel?', 'state': 'closed', 'created_at': '2015-06-16T20:16:39Z', 'closed_at': '2015-06-17T13:10:10Z', 'labels': {'name': 'question'}}
+{'issuenumber': 472, 'title': 'Performance comparisons between v1 and v2 sarama APIs', 'state': 'closed', 'created_at': '2015-06-10T04:13:54Z', 'closed_at': '2015-06-10T17:05:54Z', 'labels': {'name': 'question'}}
+{'issuenumber': 471, 'title': 'Question about idiomaticness of "Codecs"', 'state': 'closed', 'created_at': '2015-06-10T04:11:31Z', 'closed_at': '2015-06-10T10:56:42Z', 'labels': {'name': 'question'}}
+{'issuenumber': 466, 'title': 'async producer not to circuit beak on partitioner errors', 'state': 'closed', 'created_at': '2015-06-08T20:24:13Z', 'closed_at': '2015-06-09T19:03:31Z', 'labels': {'name': 'producer'}}
+{'issuenumber': 465, 'title': 'Does the current version of the Sarama client support storing the Offsets in Kafka itself?', 'state': 'closed', 'created_at': '2015-06-04T21:25:29Z', 'closed_at': '2015-06-04T21:39:09Z', 'labels': {'name': 'question'}}
+{'issuenumber': 464, 'title': 'Sarama consumer dropping messages randomly', 'state': 'closed', 'created_at': '2015-06-04T06:41:16Z', 'closed_at': '2015-06-05T04:10:25Z', 'labels': {'name': 'question'}}
+{'issuenumber': 463, 'title': 'Installation Problem ', 'state': 'closed', 'created_at': '2015-06-03T21:09:36Z', 'closed_at': '2015-06-03T21:24:12Z', 'labels': []}
+{'issuenumber': 462, 'title': 'Snappy Library Has Moved To A New Location', 'state': 'closed', 'created_at': '2015-06-02T00:14:44Z', 'closed_at': '2015-06-02T00:48:52Z', 'labels': []}
+{'issuenumber': 460, 'title': "PartitionConsumer::HighWaterMarkOffset not refreshing client's metadata", 'state': 'closed', 'created_at': '2015-05-29T14:40:46Z', 'closed_at': '2015-05-29T14:46:20Z', 'labels': {'name': 'question'}}
+{'issuenumber': 458, 'title': 'Clarification on sarama.MaxResponseSize limit', 'state': 'closed', 'created_at': '2015-05-27T21:45:36Z', 'closed_at': '2015-05-29T13:06:41Z', 'labels': {'name': 'question'}}
+{'issuenumber': 456, 'title': 'update snappy import path to new repository location', 'state': 'closed', 'created_at': '2015-05-27T09:13:57Z', 'closed_at': '2015-05-27T11:44:33Z', 'labels': []}
+{'issuenumber': 452, 'title': 'kafka consumer group expired?', 'state': 'closed', 'created_at': '2015-05-20T07:58:37Z', 'closed_at': '2015-05-22T12:24:01Z', 'labels': {'name': 'consumer'}}
+{'issuenumber': 449, 'title': 'panic: sync: negative WaitGroup counter', 'state': 'closed', 'created_at': '2015-05-14T07:07:02Z', 'closed_at': '2015-09-25T14:37:58Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 448, 'title': 'what if "consumergroup" unexpected shut down?', 'state': 'closed', 'created_at': '2015-05-11T05:17:16Z', 'closed_at': '2015-05-11T10:38:01Z', 'labels': []}
+{'issuenumber': 445, 'title': 'multiple producers with same client', 'state': 'closed', 'created_at': '2015-05-07T01:20:59Z', 'closed_at': '2015-05-08T23:56:39Z', 'labels': {'name': 'question'}}
+{'issuenumber': 434, 'title': 'Kafka client panic: assignment to entry in nil map', 'state': 'closed', 'created_at': '2015-04-25T15:53:55Z', 'closed_at': '2015-04-28T13:21:53Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 433, 'title': 'Construct produce requests incrementally', 'state': 'closed', 'created_at': '2015-04-25T03:44:13Z', 'closed_at': '2015-10-16T14:07:20Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 422, 'title': 'Panic: assignment to entry in nil map', 'state': 'closed', 'created_at': '2015-04-15T18:06:46Z', 'closed_at': '2015-04-15T20:27:04Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 421, 'title': 'the Client.Topics() is always return empty and no err for kafka_2.9.2-0.8.1.1', 'state': 'closed', 'created_at': '2015-04-15T14:58:40Z', 'closed_at': '2015-04-15T15:44:14Z', 'labels': {'name': 'client'}}
+{'issuenumber': 419, 'title': 'Producer does not retry messages when shutting down', 'state': 'closed', 'created_at': '2015-04-13T13:49:38Z', 'closed_at': '2015-04-27T14:45:47Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 412, 'title': 'Is there any real benefit to using the AsyncProducer in Go?', 'state': 'closed', 'created_at': '2015-04-09T23:32:03Z', 'closed_at': '2015-04-09T23:42:02Z', 'labels': {'name': 'question'}}
+{'issuenumber': 410, 'title': 'Consumer Group Example', 'state': 'closed', 'created_at': '2015-04-08T17:12:39Z', 'closed_at': '2015-04-08T17:15:11Z', 'labels': {'name': 'question'}}
+{'issuenumber': 407, 'title': "adding tcp keepalive support for the broker's tcp connection", 'state': 'closed', 'created_at': '2015-04-03T17:08:23Z', 'closed_at': '2015-04-06T23:45:45Z', 'labels': []}
+{'issuenumber': 406, 'title': 'doesn`t the consumer fetch brokerlist from zookeeper?', 'state': 'closed', 'created_at': '2015-04-02T10:31:50Z', 'closed_at': '2015-04-02T11:34:33Z', 'labels': {'name': 'question'}}
+{'issuenumber': 399, 'title': 'Heisenbug', 'state': 'closed', 'created_at': '2015-03-26T16:13:48Z', 'closed_at': '2015-03-29T20:25:05Z', 'labels': {'name': 'maintenance'}}
+{'issuenumber': 397, 'title': 'Add wiki page to interpret stack traces', 'state': 'closed', 'created_at': '2015-03-26T13:47:39Z', 'closed_at': '2015-04-03T11:50:28Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 391, 'title': 'Async producer failed to deliver message', 'state': 'closed', 'created_at': '2015-03-24T14:50:26Z', 'closed_at': '2015-03-24T23:46:06Z', 'labels': []}
+{'issuenumber': 375, 'title': 'Don\'t log "not connected" when calling `Close()`', 'state': 'closed', 'created_at': '2015-03-20T15:36:28Z', 'closed_at': '2015-03-23T15:12:17Z', 'labels': {'name': 'client'}}
+{'issuenumber': 366, 'title': 'Add Consumer.ConsumeTopic(topic, offset)', 'state': 'closed', 'created_at': '2015-03-18T18:47:59Z', 'closed_at': '2015-04-20T19:40:50Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 352, 'title': 'Option: Consumer timeout', 'state': 'closed', 'created_at': '2015-03-16T17:23:21Z', 'closed_at': '2016-02-21T23:38:45Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 351, 'title': 'Async Producer: halt on error', 'state': 'closed', 'created_at': '2015-03-16T17:22:14Z', 'closed_at': '2016-02-21T23:38:01Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 342, 'title': 'API Changes?', 'state': 'closed', 'created_at': '2015-03-13T01:18:47Z', 'closed_at': '2015-03-17T17:58:16Z', 'labels': {'name': 'question'}}
+{'issuenumber': 334, 'title': 'Using sarama pulls test code into non-test binaries', 'state': 'closed', 'created_at': '2015-03-11T02:18:16Z', 'closed_at': '2015-03-11T14:13:15Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 332, 'title': 'Flush producer on demand', 'state': 'closed', 'created_at': '2015-03-10T16:12:42Z', 'closed_at': '2015-03-10T16:55:25Z', 'labels': {'name': 'question'}}
+{'issuenumber': 325, 'title': 'PartitionConsumer.Close() hangs frequently', 'state': 'closed', 'created_at': '2015-03-07T13:54:58Z', 'closed_at': '2015-04-29T20:57:44Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 323, 'title': 'Add examples to godocs.', 'state': 'closed', 'created_at': '2015-03-06T19:44:36Z', 'closed_at': '2015-03-17T17:55:13Z', 'labels': []}
+{'issuenumber': 319, 'title': 'RFC: Supported Kafka and Go Versions', 'state': 'closed', 'created_at': '2015-03-05T14:55:40Z', 'closed_at': '2015-03-06T16:57:54Z', 'labels': {'name': 'maintenance'}}
+{'issuenumber': 318, 'title': 'Error context', 'state': 'closed', 'created_at': '2015-03-05T14:42:18Z', 'closed_at': '2015-11-17T14:49:54Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 315, 'title': 'Tests misuse `time.Sleep()`', 'state': 'closed', 'created_at': '2015-03-04T19:27:20Z', 'closed_at': '2020-03-23T00:04:28Z', 'labels': {'name': 'producer'}}
+{'issuenumber': 312, 'title': 'Export MockBroker in a separate package', 'state': 'closed', 'created_at': '2015-03-04T03:40:47Z', 'closed_at': '2016-02-21T23:36:52Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 308, 'title': 'Single configuration type?', 'state': 'closed', 'created_at': '2015-02-26T02:34:31Z', 'closed_at': '2015-03-06T16:38:26Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 305, 'title': 'Unify ConsumerEvent and ProducerEvent', 'state': 'closed', 'created_at': '2015-02-24T19:24:25Z', 'closed_at': '2015-03-06T15:32:59Z', 'labels': {'name': 'producer'}}
+{'issuenumber': 302, 'title': 'Semantic Versioning', 'state': 'closed', 'created_at': '2015-02-24T14:52:01Z', 'closed_at': '2015-03-17T17:57:14Z', 'labels': {'name': 'maintenance'}}
+{'issuenumber': 301, 'title': 'Update wiki pages', 'state': 'closed', 'created_at': '2015-02-24T14:46:31Z', 'closed_at': '2015-03-09T23:39:33Z', 'labels': {'name': 'maintenance'}}
+{'issuenumber': 300, 'title': 'Split producer goroutines into sub-structs', 'state': 'closed', 'created_at': '2015-02-24T14:44:49Z', 'closed_at': '2015-08-13T19:16:11Z', 'labels': {'name': 'producer'}}
+{'issuenumber': 294, 'title': 'Producer hangs when `Retry.Max` is 0', 'state': 'closed', 'created_at': '2015-02-23T20:10:44Z', 'closed_at': '2019-02-20T15:26:33Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 286, 'title': 'More efficient cachedPartitions ideas', 'state': 'closed', 'created_at': '2015-02-20T22:13:38Z', 'closed_at': '2015-02-23T18:28:09Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 274, 'title': "Don't get metadata of all topics during startup?", 'state': 'closed', 'created_at': '2015-02-16T12:14:14Z', 'closed_at': '2015-11-17T14:46:24Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 272, 'title': 'Getting: In the middle of a leadership election, there is currently no leader for this partition and hence it is unavailable for writes.', 'state': 'closed', 'created_at': '2015-02-15T04:46:06Z', 'closed_at': '2015-02-16T04:03:57Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 271, 'title': 'Resiliency tests', 'state': 'closed', 'created_at': '2015-02-14T14:45:39Z', 'closed_at': '2016-02-21T23:35:10Z', 'labels': {'name': 'producer'}}
+{'issuenumber': 270, 'title': 'Document configuration equivalents', 'state': 'closed', 'created_at': '2015-02-13T19:54:27Z', 'closed_at': '2015-03-06T16:40:32Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 269, 'title': 'Merge MessageToSend and ConsumerEvent', 'state': 'closed', 'created_at': '2015-02-13T19:54:05Z', 'closed_at': '2015-03-04T03:34:52Z', 'labels': []}
+{'issuenumber': 263, 'title': 'IO while holding lock', 'state': 'closed', 'created_at': '2015-02-12T18:35:49Z', 'closed_at': '2015-02-17T20:06:43Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 261, 'title': 'Consumer can spin on misbehaving broker', 'state': 'closed', 'created_at': '2015-02-11T19:01:44Z', 'closed_at': '2016-02-21T23:13:49Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 259, 'title': 'valyala Error', 'state': 'closed', 'created_at': '2015-02-11T13:42:08Z', 'closed_at': '2015-02-12T03:57:34Z', 'labels': {'name': 'needs-more-info'}}
+{'issuenumber': 257, 'title': 'Split snappy encoding into own package', 'state': 'closed', 'created_at': '2015-02-10T16:56:06Z', 'closed_at': '2016-06-09T14:34:41Z', 'labels': {'name': 'protocol'}}
+{'issuenumber': 256, 'title': 'Support lz4 compression', 'state': 'closed', 'created_at': '2015-02-10T14:34:11Z', 'closed_at': '2016-11-24T15:14:16Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 255, 'title': 'hash/crc32.update is a major CPU hog', 'state': 'closed', 'created_at': '2015-02-06T13:49:52Z', 'closed_at': '2015-08-31T16:59:07Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 249, 'title': 'Thoughts on adding an interface{} field to MessageToSend struct', 'state': 'closed', 'created_at': '2015-01-26T21:57:58Z', 'closed_at': '2015-01-30T20:18:06Z', 'labels': {'name': 'producer'}}
+{'issuenumber': 247, 'title': 'Want to make sure I understand the update sarama client wrt Errors -> RefreshTopicMetadata', 'state': 'closed', 'created_at': '2015-01-22T21:23:51Z', 'closed_at': '2015-01-22T21:29:06Z', 'labels': {'name': 'question'}}
+{'issuenumber': 245, 'title': 'panic deep in fetchMessages() b/c c.broker is nil when kafka cluster stops', 'state': 'closed', 'created_at': '2015-01-19T20:57:48Z', 'closed_at': '2015-01-20T23:36:30Z', 'labels': []}
+{'issuenumber': 243, 'title': 'SimpleProducer safety', 'state': 'closed', 'created_at': '2015-01-02T19:29:55Z', 'closed_at': '2015-01-02T21:48:38Z', 'labels': []}
+{'issuenumber': 241, 'title': 'Shutting down asynchronous Producer', 'state': 'closed', 'created_at': '2014-12-30T16:39:33Z', 'closed_at': '2014-12-30T17:24:55Z', 'labels': {'name': 'question'}}
+{'issuenumber': 239, 'title': 'circuit breaker is open loops for ever during re-balance', 'state': 'closed', 'created_at': '2014-12-19T18:43:59Z', 'closed_at': '2015-03-05T19:49:56Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 238, 'title': 'implement zero copy for performance gains', 'state': 'closed', 'created_at': '2014-12-19T16:46:21Z', 'closed_at': '2016-06-09T14:05:37Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 237, 'title': 'Always getting kafka server: Request exceeded the user-specified time limit in the request', 'state': 'closed', 'created_at': '2014-12-19T09:35:06Z', 'closed_at': '2014-12-19T13:08:29Z', 'labels': []}
+{'issuenumber': 236, 'title': 'ProducerConfig flushCnt does not work', 'state': 'closed', 'created_at': '2014-12-18T21:01:38Z', 'closed_at': '2014-12-18T21:15:06Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 233, 'title': 'Does latest producer triggers kafka ISR SHRINK/EXPAND?', 'state': 'closed', 'created_at': '2014-12-18T17:37:18Z', 'closed_at': '2014-12-18T18:27:57Z', 'labels': {'name': 'producer'}}
+{'issuenumber': 232, 'title': 'Support multiple in-order retries', 'state': 'closed', 'created_at': '2014-12-18T16:15:44Z', 'closed_at': '2015-02-23T16:00:10Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 230, 'title': 'How to get cause of ProduceError?', 'state': 'closed', 'created_at': '2014-12-18T14:51:53Z', 'closed_at': '2014-12-18T16:01:32Z', 'labels': {'name': 'question'}}
+{'issuenumber': 229, 'title': 'Does sarama retry the messages if leadership for a partition changes. ', 'state': 'closed', 'created_at': '2014-12-17T17:47:48Z', 'closed_at': '2014-12-18T15:38:40Z', 'labels': {'name': 'producer'}}
+{'issuenumber': 228, 'title': 'NewConsumer blocking', 'state': 'closed', 'created_at': '2014-12-17T04:27:44Z', 'closed_at': '2014-12-18T14:44:45Z', 'labels': {'name': 'question'}}
+{'issuenumber': 227, 'title': 'FetchOffset/CommitOffset error handling', 'state': 'closed', 'created_at': '2014-12-16T21:25:58Z', 'closed_at': '2015-02-02T15:56:15Z', 'labels': {'name': 'question'}}
+{'issuenumber': 226, 'title': 'Uncommited offset error from Kafka server when sarama library is used. ', 'state': 'closed', 'created_at': '2014-12-16T19:28:16Z', 'closed_at': '2014-12-24T01:14:02Z', 'labels': {'name': 'needs-more-info'}}
+{'issuenumber': 225, 'title': 'Handling of compacted topics', 'state': 'closed', 'created_at': '2014-12-15T00:30:08Z', 'closed_at': '2015-02-14T03:37:57Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 221, 'title': 'I would like to add some sort of AdditionalInfo interface{} type to the MessageToSend struct', 'state': 'closed', 'created_at': '2014-12-08T05:54:03Z', 'closed_at': '2014-12-08T14:22:51Z', 'labels': {'name': 'question'}}
+{'issuenumber': 219, 'title': 'Cannot commit multiple offsets in one OffsetCommitRequest', 'state': 'closed', 'created_at': '2014-12-03T19:14:07Z', 'closed_at': '2014-12-04T15:35:21Z', 'labels': {'name': 'protocol'}}
+{'issuenumber': 216, 'title': 'Hardcoded small maxMessageSize', 'state': 'closed', 'created_at': '2014-12-02T19:13:28Z', 'closed_at': '2014-12-02T19:25:12Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 213, 'title': 'Problem with producing messages to topic with unavailable partitions', 'state': 'closed', 'created_at': '2014-11-27T14:26:23Z', 'closed_at': '2014-12-10T14:23:20Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 210, 'title': 'Producer should (be able to) ignore ReplicaNotAvailable error', 'state': 'closed', 'created_at': '2014-11-25T19:15:29Z', 'closed_at': '2014-12-08T16:00:13Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 207, 'title': 'new sarama design is much slower than older one when sending messages', 'state': 'closed', 'created_at': '2014-11-20T17:59:36Z', 'closed_at': '2014-11-20T21:17:50Z', 'labels': {'name': 'question'}}
+{'issuenumber': 206, 'title': 'Where should we put the recover() calls?', 'state': 'closed', 'created_at': '2014-11-20T14:29:11Z', 'closed_at': '2014-12-16T19:41:05Z', 'labels': {'name': 'question'}}
+{'issuenumber': 200, 'title': 'Consumer tests take forever', 'state': 'closed', 'created_at': '2014-11-17T22:19:25Z', 'closed_at': '2015-02-14T03:37:57Z', 'labels': {'name': 'consumer'}}
+{'issuenumber': 190, 'title': 'CI build steps', 'state': 'closed', 'created_at': '2014-11-16T14:24:27Z', 'closed_at': '2015-03-06T12:12:09Z', 'labels': {'name': 'maintenance'}}
+{'issuenumber': 187, 'title': 'Synchronous producer regressions', 'state': 'closed', 'created_at': '2014-11-16T04:46:08Z', 'closed_at': '2014-11-19T19:58:38Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 180, 'title': 'Results are 2x slower when AckSuccesses=0 is used w.r.t AckSuccesses=1 ', 'state': 'closed', 'created_at': '2014-11-14T18:50:48Z', 'closed_at': '2014-11-19T19:13:11Z', 'labels': {'name': 'producer'}}
+{'issuenumber': 179, 'title': 'Successes() channel returning &MessageToSend with flags:2 after requeue', 'state': 'closed', 'created_at': '2014-11-14T11:51:18Z', 'closed_at': '2014-11-19T18:02:06Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 178, 'title': 'new producer usage only shows 3384 messages', 'state': 'closed', 'created_at': '2014-11-14T06:22:39Z', 'closed_at': '2014-11-14T16:41:31Z', 'labels': {'name': 'question'}}
+{'issuenumber': 177, 'title': "why does Errors channel return nil's", 'state': 'closed', 'created_at': '2014-11-12T10:48:31Z', 'closed_at': '2014-11-13T14:11:25Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 175, 'title': 'sarama kafka benchmarking results', 'state': 'closed', 'created_at': '2014-11-11T17:36:12Z', 'closed_at': '2014-11-11T21:36:02Z', 'labels': {'name': 'question'}}
+{'issuenumber': 166, 'title': 'Consumer started with manual offset fails with compressed messages', 'state': 'closed', 'created_at': '2014-10-31T03:52:39Z', 'closed_at': '2014-11-07T02:04:52Z', 'labels': {'name': 'consumer'}}
+{'issuenumber': 164, 'title': 'Optimize client `Topics` and `Partitions`', 'state': 'closed', 'created_at': '2014-10-27T21:16:22Z', 'closed_at': '2014-10-28T14:07:50Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 163, 'title': 'Snappy functions public', 'state': 'closed', 'created_at': '2014-10-27T21:03:10Z', 'closed_at': '2014-11-13T14:16:14Z', 'labels': {'name': 'question'}}
+{'issuenumber': 158, 'title': 'Producer / Consumer: implement io.Reader/io.Writer and friends.', 'state': 'closed', 'created_at': '2014-10-14T17:32:16Z', 'closed_at': '2014-12-15T16:25:33Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 155, 'title': 'TODO error case in broker recieve', 'state': 'closed', 'created_at': '2014-10-09T19:35:21Z', 'closed_at': '2014-10-17T17:35:27Z', 'labels': {'name': 'question'}}
+{'issuenumber': 154, 'title': 'Support SSL for v0.8.3', 'state': 'closed', 'created_at': '2014-10-08T20:56:49Z', 'closed_at': '2015-08-06T16:21:12Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 153, 'title': 'The Consumer missing some message', 'state': 'closed', 'created_at': '2014-09-29T02:53:09Z', 'closed_at': '2014-09-29T13:41:59Z', 'labels': {'name': 'question'}}
+{'issuenumber': 151, 'title': 'panic: runtime error: send on closed channel', 'state': 'closed', 'created_at': '2014-09-23T16:58:51Z', 'closed_at': '2014-11-15T04:56:46Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 150, 'title': 'Message exceeds the maximum size when using Compression', 'state': 'closed', 'created_at': '2014-08-28T15:39:59Z', 'closed_at': '2014-11-13T14:13:54Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 148, 'title': 'Client reconnect on `kill -9 {kafkaProc}`', 'state': 'closed', 'created_at': '2014-08-21T23:54:05Z', 'closed_at': '2014-08-22T01:25:18Z', 'labels': []}
+{'issuenumber': 147, 'title': 'Apache Kafka Client mailing list group', 'state': 'closed', 'created_at': '2014-08-19T20:25:25Z', 'closed_at': '2014-08-25T17:14:26Z', 'labels': {'name': 'question'}}
+{'issuenumber': 145, 'title': 'Connection failure to Kafka cluster when some partitions have no leader', 'state': 'closed', 'created_at': '2014-08-07T15:34:37Z', 'closed_at': '2014-08-08T16:45:46Z', 'labels': []}
+{'issuenumber': 141, 'title': 'kafka: Dropped 5739 messages', 'state': 'closed', 'created_at': '2014-07-28T13:52:36Z', 'closed_at': '2014-07-28T13:57:35Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 140, 'title': 'MultiConsumer', 'state': 'closed', 'created_at': '2014-07-22T20:43:42Z', 'closed_at': '2015-02-14T03:37:56Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 139, 'title': 'If all the client id is same, what will happen?', 'state': 'closed', 'created_at': '2014-07-18T11:06:39Z', 'closed_at': '2014-07-18T15:02:26Z', 'labels': {'name': 'question'}}
+{'issuenumber': 135, 'title': 'kafka 0.8.2 support', 'state': 'closed', 'created_at': '2014-07-09T21:00:39Z', 'closed_at': '2014-07-10T02:32:43Z', 'labels': []}
+{'issuenumber': 133, 'title': 'sarama does not seem to re-connect approriately', 'state': 'closed', 'created_at': '2014-07-09T17:34:58Z', 'closed_at': '2014-07-09T18:00:36Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 131, 'title': 'Why not SendMessageBatch?', 'state': 'closed', 'created_at': '2014-07-08T14:38:03Z', 'closed_at': '2014-07-08T15:27:07Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 130, 'title': 'Producer: Add the ability to stream message body from an io.Reader', 'state': 'closed', 'created_at': '2014-07-07T16:28:40Z', 'closed_at': '2015-02-23T20:05:02Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 129, 'title': '"panic: invalid argument to Intn" when topic doesn\'t exist.', 'state': 'closed', 'created_at': '2014-07-07T15:13:11Z', 'closed_at': '2014-07-08T15:27:56Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 127, 'title': 'GetOffset function not working properly', 'state': 'closed', 'created_at': '2014-07-02T19:19:01Z', 'closed_at': '2014-07-02T19:43:45Z', 'labels': []}
+{'issuenumber': 123, 'title': 'Error getting current OffSet a combination topic/partition', 'state': 'closed', 'created_at': '2014-07-01T19:38:52Z', 'closed_at': '2014-07-02T14:53:53Z', 'labels': []}
+{'issuenumber': 122, 'title': 'Retry logic is broken in the producer', 'state': 'closed', 'created_at': '2014-07-01T00:25:28Z', 'closed_at': '2014-07-01T01:57:58Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 116, 'title': 'Super-simple sarama example dropping and mis-ordering messages.', 'state': 'closed', 'created_at': '2014-06-27T18:16:59Z', 'closed_at': '2014-06-27T19:09:01Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 111, 'title': 'how to set  Producer Configis the  most optimized !!', 'state': 'closed', 'created_at': '2014-06-25T12:16:49Z', 'closed_at': '2014-06-25T13:11:11Z', 'labels': {'name': 'question'}}
+{'issuenumber': 104, 'title': 'producer with queuemessage example', 'state': 'closed', 'created_at': '2014-06-24T02:55:00Z', 'closed_at': '2014-06-24T14:00:13Z', 'labels': {'name': 'question'}}
+{'issuenumber': 103, 'title': 'Installation problem', 'state': 'closed', 'created_at': '2014-06-23T18:14:58Z', 'closed_at': '2014-06-24T12:56:32Z', 'labels': []}
+{'issuenumber': 102, 'title': 'How to solve the producer Close very slow', 'state': 'closed', 'created_at': '2014-06-23T15:26:00Z', 'closed_at': '2014-06-25T13:47:07Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 99, 'title': 'Default ProducerConfig is invalid', 'state': 'closed', 'created_at': '2014-06-07T21:15:23Z', 'closed_at': '2014-06-24T13:24:57Z', 'labels': []}
+{'issuenumber': 97, 'title': 'Producer drop message and sometimes use lots of memory', 'state': 'closed', 'created_at': '2014-05-27T04:01:02Z', 'closed_at': '2014-11-13T14:14:13Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 95, 'title': 'Race condition within producer', 'state': 'closed', 'created_at': '2014-05-23T12:37:16Z', 'closed_at': '2014-06-26T17:19:51Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 89, 'title': 'Consumer: public the consumer getOffset function?', 'state': 'closed', 'created_at': '2014-05-21T02:28:09Z', 'closed_at': '2014-06-26T17:12:58Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 88, 'title': 'Producer: expose correlationId, send it in Nacks() / Acks() ?', 'state': 'closed', 'created_at': '2014-05-20T17:51:41Z', 'closed_at': '2014-11-13T14:15:03Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 87, 'title': 'setting MaxBufferTime=MaxBufferedBytes=0 produces ConfigurationError', 'state': 'closed', 'created_at': '2014-05-20T04:00:24Z', 'closed_at': '2014-06-24T13:24:57Z', 'labels': []}
+{'issuenumber': 79, 'title': 'producers become very slow when cluster has large number of topics', 'state': 'closed', 'created_at': '2014-04-15T20:27:07Z', 'closed_at': '2014-04-15T22:23:33Z', 'labels': []}
+{'issuenumber': 73, 'title': 'Producer.SendMessage hangs on leader election 0.8.1', 'state': 'closed', 'created_at': '2014-03-25T02:33:35Z', 'closed_at': '2014-06-24T13:24:31Z', 'labels': []}
+{'issuenumber': 72, 'title': 'any idea for producer/consumer reconnect?', 'state': 'closed', 'created_at': '2014-03-15T03:53:36Z', 'closed_at': '2014-07-31T19:18:00Z', 'labels': {'name': 'question'}}
+{'issuenumber': 71, 'title': 'sarama drops message when either gzip/snappy is used', 'state': 'closed', 'created_at': '2014-03-11T18:41:59Z', 'closed_at': '2014-11-13T14:14:20Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 70, 'title': 'a little help?', 'state': 'closed', 'created_at': '2014-03-10T00:37:57Z', 'closed_at': '2014-06-26T18:00:06Z', 'labels': {'name': 'question'}}
+{'issuenumber': 69, 'title': 'Create a mailing list for sarama', 'state': 'closed', 'created_at': '2014-03-04T21:26:55Z', 'closed_at': '2014-06-24T17:23:08Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 67, 'title': 'Panic on NewClient when not brokers available', 'state': 'closed', 'created_at': '2014-01-24T15:01:23Z', 'closed_at': '2014-06-26T17:53:26Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 66, 'title': 'mockbroker.go should not import testing ', 'state': 'closed', 'created_at': '2014-01-24T10:27:25Z', 'closed_at': '2014-06-26T17:22:55Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 65, 'title': 'Producer deadlock: overlimit=0', 'state': 'closed', 'created_at': '2014-01-21T05:35:38Z', 'closed_at': '2014-07-02T16:50:35Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 60, 'title': 'Consumer registration and rebalancing', 'state': 'closed', 'created_at': '2013-12-18T17:36:19Z', 'closed_at': '2015-03-07T13:48:31Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 52, 'title': 'Changing recovery function can cause panic', 'state': 'closed', 'created_at': '2013-11-12T21:50:50Z', 'closed_at': '2013-11-13T02:04:09Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 49, 'title': 'Possible panic in random partitioner', 'state': 'closed', 'created_at': '2013-11-11T20:02:26Z', 'closed_at': '2014-06-14T02:09:11Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 39, 'title': 'Safely consuming batch of messages', 'state': 'closed', 'created_at': '2013-10-22T10:21:46Z', 'closed_at': '2013-10-22T15:47:39Z', 'labels': []}
+{'issuenumber': 32, 'title': 'Is it a bug with Compression?', 'state': 'closed', 'created_at': '2013-09-02T12:25:01Z', 'closed_at': '2013-09-03T17:05:37Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 23, 'title': 'Expose consistent client method set', 'state': 'closed', 'created_at': '2013-08-22T18:51:41Z', 'closed_at': '2015-02-24T21:21:47Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 20, 'title': 'Compression codec flag set incorrectly', 'state': 'closed', 'created_at': '2013-08-21T22:17:24Z', 'closed_at': '2013-08-22T15:48:40Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 18, 'title': 'Async/Batched Producer', 'state': 'closed', 'created_at': '2013-08-21T14:50:16Z', 'closed_at': '2013-11-26T20:28:51Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 15, 'title': 'Better Broker Connection Management', 'state': 'closed', 'created_at': '2013-08-15T17:19:52Z', 'closed_at': '2015-03-17T18:46:41Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 9, 'title': 'Handling Unreachable Brokers', 'state': 'closed', 'created_at': '2013-08-13T20:01:48Z', 'closed_at': '2013-08-14T19:05:38Z', 'labels': {'name': 'bug :-('}}
+{'issuenumber': 7, 'title': 'Initializing Client with Multiple Brokers', 'state': 'closed', 'created_at': '2013-08-12T18:11:30Z', 'closed_at': '2013-08-15T16:59:22Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 4, 'title': 'Manual Consumer Offset Management', 'state': 'closed', 'created_at': '2013-08-07T13:26:55Z', 'closed_at': '2013-08-15T16:57:50Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 2, 'title': 'Offset Fetch/Commit Support', 'state': 'closed', 'created_at': '2013-07-19T13:24:43Z', 'closed_at': '2015-09-05T16:17:02Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1, 'title': 'Snappy Compression Support', 'state': 'closed', 'created_at': '2013-07-19T13:19:53Z', 'closed_at': '2013-08-08T18:00:10Z', 'labels': {'name': 'enhancement'}}

@@ -1,0 +1,177 @@
+{'issuenumber': 290, 'title': '`--contents` behavior is different depending on yarn or npm', 'state': 'closed', 'created_at': '2018-07-29T17:46:32Z', 'closed_at': '2019-04-10T14:37:28Z', 'labels': []}
+{'issuenumber': 288, 'title': 'Enable 2FA when publishing a new package', 'state': 'closed', 'created_at': '2018-07-25T06:08:44Z', 'closed_at': '2019-02-22T17:49:03Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 287, 'title': 'Include staged changes for changelog?', 'state': 'closed', 'created_at': '2018-07-24T18:56:24Z', 'closed_at': '2018-09-05T15:59:15Z', 'labels': []}
+{'issuenumber': 286, 'title': 'log.gauge.isEnabled is not a function', 'state': 'closed', 'created_at': '2018-07-13T09:04:26Z', 'closed_at': '2018-07-13T09:07:22Z', 'labels': []}
+{'issuenumber': 285, 'title': 'Possible to use new "npm ci" during release?', 'state': 'closed', 'created_at': '2018-07-12T14:55:19Z', 'closed_at': '2019-01-03T03:53:08Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 284, 'title': ' Check local working tree Unclean working tree. Commit or stash changes first.', 'state': 'closed', 'created_at': '2018-07-12T09:46:48Z', 'closed_at': '2018-07-13T10:52:37Z', 'labels': []}
+{'issuenumber': 283, 'title': 'Output link to comparison of all commits', 'state': 'closed', 'created_at': '2018-07-11T12:44:42Z', 'closed_at': '2018-11-29T17:44:19Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 281, 'title': 'GitLab Love', 'state': 'closed', 'created_at': '2018-06-28T18:11:00Z', 'closed_at': '2018-09-17T16:48:45Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 279, 'title': 'Add support for setting flags globally and as config in package.json', 'state': 'closed', 'created_at': '2018-06-18T08:18:31Z', 'closed_at': '2019-03-31T16:36:13Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 278, 'title': 'Support question - what is the --no-cleanup option about exactly?', 'state': 'closed', 'created_at': '2018-06-14T00:27:11Z', 'closed_at': '2018-06-14T05:38:25Z', 'labels': []}
+{'issuenumber': 277, 'title': 'Fails on first time start with git rev-list error', 'state': 'closed', 'created_at': '2018-06-06T15:38:25Z', 'closed_at': '2019-01-23T15:59:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 275, 'title': 'Missing `test` run script should not fail `np` when using Yarn', 'state': 'closed', 'created_at': '2018-06-04T06:24:50Z', 'closed_at': '2019-01-22T06:24:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 273, 'title': '3.0.1 fails when the repository is not hosted on github', 'state': 'closed', 'created_at': '2018-05-29T08:52:30Z', 'closed_at': '2018-06-03T15:42:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 270, 'title': 'Error exec(...).catch is not a function when using yarn', 'state': 'closed', 'created_at': '2018-05-28T00:57:55Z', 'closed_at': '2018-05-28T01:52:41Z', 'labels': []}
+{'issuenumber': 266, 'title': 'Problems after running cleanup', 'state': 'closed', 'created_at': '2018-05-21T19:17:32Z', 'closed_at': '2020-07-12T11:22:17Z', 'labels': {'name': 'more information needed'}}
+{'issuenumber': 265, 'title': 'Connection to npm registry failed', 'state': 'closed', 'created_at': '2018-05-17T15:58:10Z', 'closed_at': '2018-05-17T16:51:16Z', 'labels': []}
+{'issuenumber': 264, 'title': 'adding publish support for folder and tarball', 'state': 'closed', 'created_at': '2018-05-13T05:56:21Z', 'closed_at': '2018-05-26T09:00:59Z', 'labels': []}
+{'issuenumber': 261, 'title': 'Feature request - publishing to two different package names', 'state': 'closed', 'created_at': '2018-05-09T19:10:51Z', 'closed_at': '2018-05-09T19:29:00Z', 'labels': []}
+{'issuenumber': 260, 'title': 'Feature request - adding a step to the mix', 'state': 'closed', 'created_at': '2018-05-07T03:34:07Z', 'closed_at': '2018-09-05T12:35:59Z', 'labels': []}
+{'issuenumber': 259, 'title': 'Observable.merge is not a function', 'state': 'closed', 'created_at': '2018-04-23T14:23:46Z', 'closed_at': '2018-05-25T19:57:45Z', 'labels': []}
+{'issuenumber': 256, 'title': "Locally installed `np` dependency failed on 'Verify user is authenticated'", 'state': 'closed', 'created_at': '2018-04-09T01:49:34Z', 'closed_at': '2018-08-02T23:23:15Z', 'labels': []}
+{'issuenumber': 255, 'title': 'Version based on current head branch and commit', 'state': 'closed', 'created_at': '2018-03-22T13:54:17Z', 'closed_at': '2019-11-30T08:59:13Z', 'labels': []}
+{'issuenumber': 254, 'title': 'Clarification on npm hooks documentation', 'state': 'closed', 'created_at': '2018-03-19T16:22:12Z', 'closed_at': '2019-07-07T16:39:41Z', 'labels': []}
+{'issuenumber': 253, 'title': 'customuse git tag', 'state': 'closed', 'created_at': '2018-03-15T06:04:17Z', 'closed_at': '2020-01-26T06:04:47Z', 'labels': []}
+{'issuenumber': 252, 'title': 'Dependencies not installed properly with --no-yarn', 'state': 'closed', 'created_at': '2018-03-14T14:35:02Z', 'closed_at': '2018-03-23T13:56:29Z', 'labels': []}
+{'issuenumber': 251, 'title': 'Supporting pnpm', 'state': 'closed', 'created_at': '2018-03-08T20:21:57Z', 'closed_at': '2018-06-27T15:29:06Z', 'labels': []}
+{'issuenumber': 249, 'title': 'Option to disable the git commit', 'state': 'closed', 'created_at': '2018-02-27T09:40:42Z', 'closed_at': '2019-06-12T06:16:56Z', 'labels': []}
+{'issuenumber': 248, 'title': 'Yarn publish broken again 🙈', 'state': 'closed', 'created_at': '2018-02-21T11:07:59Z', 'closed_at': '2019-03-16T07:12:25Z', 'labels': []}
+{'issuenumber': 242, 'title': 'Command fails if no commits are found', 'state': 'closed', 'created_at': '2018-02-18T12:35:36Z', 'closed_at': '2018-02-22T18:50:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 239, 'title': 'Better error', 'state': 'closed', 'created_at': '2018-02-14T13:28:17Z', 'closed_at': '2018-09-05T10:04:44Z', 'labels': []}
+{'issuenumber': 238, 'title': 'Show list of commits before choosing version type', 'state': 'closed', 'created_at': '2018-02-13T05:05:49Z', 'closed_at': '2018-02-19T16:49:30Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 237, 'title': 'npm publish', 'state': 'closed', 'created_at': '2018-02-11T18:49:59Z', 'closed_at': '2018-02-17T16:44:00Z', 'labels': []}
+{'issuenumber': 236, 'title': 'No git tags and push when package.json in subdirectory', 'state': 'closed', 'created_at': '2018-02-09T17:04:59Z', 'closed_at': '2018-09-05T10:24:23Z', 'labels': []}
+{'issuenumber': 233, 'title': 'Linkify commits', 'state': 'closed', 'created_at': '2018-02-04T03:00:00Z', 'closed_at': '2018-02-13T05:06:15Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 232, 'title': "Fail early if pkg.main specified but doesn't exist", 'state': 'closed', 'created_at': '2018-01-30T17:05:27Z', 'closed_at': '2018-02-17T17:36:05Z', 'labels': []}
+{'issuenumber': 231, 'title': 'Handle publishing initial version of scoped package', 'state': 'closed', 'created_at': '2018-01-29T15:00:37Z', 'closed_at': '2018-11-29T18:27:06Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 228, 'title': 'Error on premajor version to custom registry', 'state': 'closed', 'created_at': '2018-01-12T20:27:01Z', 'closed_at': '2018-01-12T20:42:45Z', 'labels': []}
+{'issuenumber': 225, 'title': 'npm asking for OTP fails publish step', 'state': 'closed', 'created_at': '2018-01-09T14:29:39Z', 'closed_at': '2018-01-09T14:41:38Z', 'labels': []}
+{'issuenumber': 224, 'title': 'Ping time out', 'state': 'closed', 'created_at': '2018-01-09T11:35:59Z', 'closed_at': '2018-02-04T03:03:53Z', 'labels': []}
+{'issuenumber': 223, 'title': 'How did you record the terminal session?', 'state': 'closed', 'created_at': '2018-01-05T16:04:37Z', 'closed_at': '2018-01-21T03:07:25Z', 'labels': []}
+{'issuenumber': 221, 'title': 'np uses yarn even when not installed', 'state': 'closed', 'created_at': '2017-12-27T19:50:35Z', 'closed_at': '2017-12-27T21:01:37Z', 'labels': []}
+{'issuenumber': 219, 'title': 'Commit hooks on `npm version <input>` are failing', 'state': 'closed', 'created_at': '2017-12-22T17:58:45Z', 'closed_at': '2018-09-05T10:22:46Z', 'labels': []}
+{'issuenumber': 218, 'title': 'Recent change broke programmatic API', 'state': 'closed', 'created_at': '2017-12-20T15:09:37Z', 'closed_at': '2018-09-05T19:55:39Z', 'labels': []}
+{'issuenumber': 217, 'title': 'commit message defined in .npmrc is not used (with yarn)', 'state': 'closed', 'created_at': '2017-12-18T21:03:28Z', 'closed_at': '2017-12-18T21:16:52Z', 'labels': []}
+{'issuenumber': 216, 'title': 'np does not publish to npm, no error, no OTP code asked', 'state': 'closed', 'created_at': '2017-12-16T13:13:48Z', 'closed_at': '2020-07-12T11:24:07Z', 'labels': {'name': 'more information needed'}}
+{'issuenumber': 212, 'title': 'Is it possible to use np as a project devDependency?', 'state': 'closed', 'created_at': '2017-12-07T13:16:04Z', 'closed_at': '2017-12-27T16:37:56Z', 'labels': []}
+{'issuenumber': 211, 'title': 'NPM Used Regardless of yarn.lock', 'state': 'closed', 'created_at': '2017-12-05T21:45:25Z', 'closed_at': '2017-12-05T22:56:13Z', 'labels': []}
+{'issuenumber': 210, 'title': 'Ping fails on private repository', 'state': 'closed', 'created_at': '2017-12-05T18:07:36Z', 'closed_at': '2017-12-14T19:57:51Z', 'labels': []}
+{'issuenumber': 208, 'title': 'Version 2.18.0 seems broken', 'state': 'closed', 'created_at': '2017-12-04T20:22:38Z', 'closed_at': '2017-12-04T21:48:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 206, 'title': 'Run `yarn install` explicitly outside production mode', 'state': 'closed', 'created_at': '2017-12-01T11:49:32Z', 'closed_at': '2017-12-02T13:14:32Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 205, 'title': 'np otp always fail', 'state': 'closed', 'created_at': '2017-12-01T06:54:55Z', 'closed_at': '2018-02-04T02:39:27Z', 'labels': []}
+{'issuenumber': 203, 'title': 'Trying to publish an old version', 'state': 'closed', 'created_at': '2017-11-15T08:09:20Z', 'closed_at': '2018-07-03T07:58:01Z', 'labels': []}
+{'issuenumber': 202, 'title': 'Support NPM Two-Factor Authentication otp for auth-and-writes ', 'state': 'closed', 'created_at': '2017-11-13T03:01:30Z', 'closed_at': '2017-11-13T06:33:49Z', 'labels': []}
+{'issuenumber': 199, 'title': 'Bump version in lock-file', 'state': 'closed', 'created_at': '2017-11-08T22:28:09Z', 'closed_at': '2018-09-05T10:12:22Z', 'labels': []}
+{'issuenumber': 198, 'title': 'Cannot find module "rxjs"', 'state': 'closed', 'created_at': '2017-11-07T13:59:34Z', 'closed_at': '2017-11-08T06:39:12Z', 'labels': []}
+{'issuenumber': 197, 'title': 'Rollback git operations on np fail', 'state': 'closed', 'created_at': '2017-10-31T17:46:05Z', 'closed_at': '2019-03-31T16:21:24Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 196, 'title': 'Add network checks to prerequisite checks', 'state': 'closed', 'created_at': '2017-10-31T17:41:38Z', 'closed_at': '2017-12-02T13:12:11Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 194, 'title': 'Strange behaviour with npm organisations', 'state': 'closed', 'created_at': '2017-10-27T15:04:31Z', 'closed_at': '2021-12-10T15:59:30Z', 'labels': []}
+{'issuenumber': 193, 'title': 'No support for 2FA', 'state': 'closed', 'created_at': '2017-10-25T01:40:34Z', 'closed_at': '2017-10-26T18:33:11Z', 'labels': []}
+{'issuenumber': 192, 'title': 'Always fail when publish', 'state': 'closed', 'created_at': '2017-10-23T11:16:02Z', 'closed_at': '2017-11-03T20:05:22Z', 'labels': []}
+{'issuenumber': 191, 'title': "Can't Publish My Module", 'state': 'closed', 'created_at': '2017-10-22T15:01:53Z', 'closed_at': '2017-10-23T13:52:20Z', 'labels': []}
+{'issuenumber': 190, 'title': 'Package publishing partially fails when running tasks', 'state': 'closed', 'created_at': '2017-10-20T18:40:30Z', 'closed_at': '2020-10-09T06:50:05Z', 'labels': []}
+{'issuenumber': 184, 'title': 'Add support for npm two-factor authentication', 'state': 'closed', 'created_at': '2017-10-04T16:34:17Z', 'closed_at': '2017-11-15T04:41:25Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 183, 'title': 'Add Installation Instructions For Yarn', 'state': 'closed', 'created_at': '2017-09-27T15:23:24Z', 'closed_at': '2017-09-28T03:34:19Z', 'labels': []}
+{'issuenumber': 182, 'title': 'Prerequisite Check runs forever on ubuntu machine', 'state': 'closed', 'created_at': '2017-09-19T08:27:21Z', 'closed_at': '2017-09-29T18:31:22Z', 'labels': []}
+{'issuenumber': 181, 'title': 'Error with Yarn: unknown option `--frozen-lockfile`', 'state': 'closed', 'created_at': '2017-09-15T03:01:02Z', 'closed_at': '2018-09-05T10:12:33Z', 'labels': []}
+{'issuenumber': 180, 'title': 'A way to publish respecting the version in the package.json', 'state': 'closed', 'created_at': '2017-09-08T21:35:31Z', 'closed_at': '2017-09-11T15:16:55Z', 'labels': []}
+{'issuenumber': 179, 'title': "Can't publish the initial version as a prerelease", 'state': 'closed', 'created_at': '2017-08-29T08:03:57Z', 'closed_at': '2019-01-22T09:35:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 178, 'title': 'Publishing when master is protected', 'state': 'closed', 'created_at': '2017-08-14T12:23:46Z', 'closed_at': '2017-08-14T13:20:23Z', 'labels': []}
+{'issuenumber': 177, 'title': 'Duplicate console output', 'state': 'closed', 'created_at': '2017-08-13T05:03:05Z', 'closed_at': '2020-07-12T11:28:09Z', 'labels': {'name': 'more information needed'}}
+{'issuenumber': 176, 'title': 'Prerequisite check runs forever', 'state': 'closed', 'created_at': '2017-07-19T15:44:31Z', 'closed_at': '2017-07-22T07:46:50Z', 'labels': []}
+{'issuenumber': 175, 'title': 'Specifying Publish Folder/Directory', 'state': 'closed', 'created_at': '2017-07-14T18:42:36Z', 'closed_at': '2017-07-15T09:58:40Z', 'labels': []}
+{'issuenumber': 174, 'title': 'Pushing Tags not working', 'state': 'closed', 'created_at': '2017-07-13T23:14:06Z', 'closed_at': '2017-09-11T10:59:46Z', 'labels': []}
+{'issuenumber': 173, 'title': '"Bumping version using npm" stage takes 1-2 hours', 'state': 'closed', 'created_at': '2017-07-10T07:57:37Z', 'closed_at': '2017-07-10T10:58:32Z', 'labels': []}
+{'issuenumber': 167, 'title': 'Doesn\'t finish "Publishing package" step even though repo shows a successful publish.', 'state': 'closed', 'created_at': '2017-05-31T20:30:14Z', 'closed_at': '2017-06-01T18:09:20Z', 'labels': []}
+{'issuenumber': 166, 'title': 'Reinstall modules without generating `package-lock.json`', 'state': 'closed', 'created_at': '2017-05-31T18:06:08Z', 'closed_at': '2017-06-07T14:27:57Z', 'labels': []}
+{'issuenumber': 165, 'title': 'Add a verbose mode or a way to manually restart the command at a certain step', 'state': 'closed', 'created_at': '2017-05-30T13:31:49Z', 'closed_at': '2019-03-16T13:10:58Z', 'labels': []}
+{'issuenumber': 164, 'title': 'Not failing when Yarn lockfile is out of date', 'state': 'closed', 'created_at': '2017-05-25T00:26:14Z', 'closed_at': '2018-09-05T10:19:54Z', 'labels': []}
+{'issuenumber': 163, 'title': 'Check if logged in to npm as prerequisite', 'state': 'closed', 'created_at': '2017-05-22T07:14:08Z', 'closed_at': '2017-05-22T07:53:08Z', 'labels': []}
+{'issuenumber': 162, 'title': 'Add new version number to the distribution files', 'state': 'closed', 'created_at': '2017-05-16T03:59:24Z', 'closed_at': '2017-05-16T04:10:32Z', 'labels': []}
+{'issuenumber': 159, 'title': "Add step to (subtree) 'publish' to gh-pages or any other branch", 'state': 'closed', 'created_at': '2017-05-11T16:33:16Z', 'closed_at': '2017-05-12T19:06:17Z', 'labels': []}
+{'issuenumber': 158, 'title': "Sometimes it doesn't show the success message after publishing", 'state': 'closed', 'created_at': '2017-05-08T09:51:08Z', 'closed_at': '2017-11-15T04:26:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 157, 'title': 'np does not preserve npm link', 'state': 'closed', 'created_at': '2017-05-05T16:51:22Z', 'closed_at': '2017-05-06T17:08:36Z', 'labels': []}
+{'issuenumber': 156, 'title': 'version not bumped ', 'state': 'closed', 'created_at': '2017-05-04T15:23:42Z', 'closed_at': '2017-05-04T15:57:17Z', 'labels': []}
+{'issuenumber': 155, 'title': 'Add a real prepublish hook?', 'state': 'closed', 'created_at': '2017-05-03T20:50:29Z', 'closed_at': '2019-11-30T09:15:14Z', 'labels': []}
+{'issuenumber': 154, 'title': 'Is there a way to publish minor/patch release of old major version?', 'state': 'closed', 'created_at': '2017-05-02T13:24:28Z', 'closed_at': '2019-03-21T14:14:53Z', 'labels': []}
+{'issuenumber': 152, 'title': 'Yarn breaking version error', 'state': 'closed', 'created_at': '2017-05-01T21:28:19Z', 'closed_at': '2017-05-02T04:14:26Z', 'labels': []}
+{'issuenumber': 151, 'title': 'Weird install issue', 'state': 'closed', 'created_at': '2017-04-28T15:52:00Z', 'closed_at': '2017-04-28T16:23:19Z', 'labels': []}
+{'issuenumber': 148, 'title': '`npm version` errors on files generated during `npm test`', 'state': 'closed', 'created_at': '2017-04-26T12:13:25Z', 'closed_at': '2019-07-30T19:31:13Z', 'labels': []}
+{'issuenumber': 147, 'title': 'Upgrade semver to ^5.2.0', 'state': 'closed', 'created_at': '2017-04-24T12:31:13Z', 'closed_at': '2017-04-24T12:34:55Z', 'labels': []}
+{'issuenumber': 146, 'title': 'False negative yarn integrity check', 'state': 'closed', 'created_at': '2017-04-20T11:30:38Z', 'closed_at': '2017-04-20T12:42:24Z', 'labels': []}
+{'issuenumber': 144, 'title': 'Misleading `yarn` integrity check error message when node_modules out of date', 'state': 'closed', 'created_at': '2017-04-17T07:14:50Z', 'closed_at': '2017-05-01T12:47:27Z', 'labels': []}
+{'issuenumber': 143, 'title': '`need auth` error when calling `np` via npm script', 'state': 'closed', 'created_at': '2017-04-13T02:26:04Z', 'closed_at': '2020-07-12T11:26:14Z', 'labels': []}
+{'issuenumber': 141, 'title': 'how to support lerna', 'state': 'closed', 'created_at': '2017-04-04T21:24:41Z', 'closed_at': '2017-04-05T03:49:25Z', 'labels': []}
+{'issuenumber': 140, 'title': 'Disable dist-tag check when running with `--no-publish`', 'state': 'closed', 'created_at': '2017-04-03T09:20:52Z', 'closed_at': '2017-04-17T06:01:15Z', 'labels': []}
+{'issuenumber': 137, 'title': "Cannot find module 'internal/fs'", 'state': 'closed', 'created_at': '2017-03-28T22:08:18Z', 'closed_at': '2017-03-28T23:27:14Z', 'labels': []}
+{'issuenumber': 134, 'title': 'Yarn updates lockfile on dependency mismatch', 'state': 'closed', 'created_at': '2017-03-16T16:00:59Z', 'closed_at': '2017-03-25T08:10:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 133, 'title': 'Image of interactive UI in readme broken', 'state': 'closed', 'created_at': '2017-03-15T09:41:12Z', 'closed_at': '2017-03-15T09:50:53Z', 'labels': []}
+{'issuenumber': 132, 'title': 'Integrating a sensitive file checking mechanism', 'state': 'closed', 'created_at': '2017-02-08T12:35:41Z', 'closed_at': '2017-02-08T13:48:56Z', 'labels': []}
+{'issuenumber': 128, 'title': 'Meta: No readme on npmjs.com/np', 'state': 'closed', 'created_at': '2017-01-26T11:47:55Z', 'closed_at': '2017-01-26T17:25:29Z', 'labels': []}
+{'issuenumber': 126, 'title': 'Receiving `npm` error when publishing', 'state': 'closed', 'created_at': '2017-01-20T19:19:34Z', 'closed_at': '2017-01-21T18:38:31Z', 'labels': []}
+{'issuenumber': 125, 'title': 'Show a list of commits since the last version before publishing', 'state': 'closed', 'created_at': '2017-01-17T18:44:06Z', 'closed_at': '2017-12-02T13:25:25Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 124, 'title': 'Support scoped modules.', 'state': 'closed', 'created_at': '2017-01-11T03:49:26Z', 'closed_at': '2017-01-11T04:08:01Z', 'labels': []}
+{'issuenumber': 122, 'title': 'Error: semver.prerelease is not a function', 'state': 'closed', 'created_at': '2017-01-05T16:06:07Z', 'closed_at': '2017-01-17T18:42:08Z', 'labels': []}
+{'issuenumber': 121, 'title': 'Prerequisite runs forever without error', 'state': 'closed', 'created_at': '2016-12-28T10:06:21Z', 'closed_at': '2017-01-09T17:33:09Z', 'labels': []}
+{'issuenumber': 120, 'title': 'Allow --no-test to skip just the tests', 'state': 'closed', 'created_at': '2016-12-22T15:17:46Z', 'closed_at': '2016-12-22T15:18:39Z', 'labels': []}
+{'issuenumber': 119, 'title': 'np crashes during test phase', 'state': 'closed', 'created_at': '2016-12-19T20:43:56Z', 'closed_at': '2016-12-20T07:38:39Z', 'labels': []}
+{'issuenumber': 118, 'title': 'Notification when process finishes', 'state': 'closed', 'created_at': '2016-12-19T17:17:23Z', 'closed_at': '2017-01-07T17:42:24Z', 'labels': []}
+{'issuenumber': 117, 'title': 'npm login', 'state': 'closed', 'created_at': '2016-12-14T07:04:40Z', 'closed_at': '2016-12-14T08:06:54Z', 'labels': []}
+{'issuenumber': 116, 'title': 'Clarify the current version in the interactive UI', 'state': 'closed', 'created_at': '2016-12-13T23:34:06Z', 'closed_at': '2018-02-04T02:40:58Z', 'labels': []}
+{'issuenumber': 115, 'title': 'Option to review the package name upon first ever publish?', 'state': 'closed', 'created_at': '2016-12-12T02:29:14Z', 'closed_at': '2017-03-16T17:17:12Z', 'labels': []}
+{'issuenumber': 112, 'title': 'why it need Installing dependencies?', 'state': 'closed', 'created_at': '2016-12-08T02:37:09Z', 'closed_at': '2016-12-08T04:10:30Z', 'labels': []}
+{'issuenumber': 111, 'title': 'Semver prerelease format is invalid', 'state': 'closed', 'created_at': '2016-12-05T11:25:39Z', 'closed_at': '2019-11-30T09:18:52Z', 'labels': []}
+{'issuenumber': 110, 'title': 'ENEEDAUTH leaves repo in inconsistent state', 'state': 'closed', 'created_at': '2016-11-30T21:45:40Z', 'closed_at': '2017-12-15T10:26:12Z', 'labels': []}
+{'issuenumber': 109, 'title': 'Rename `--skip-cleanup` to `--no-cleanup`?', 'state': 'closed', 'created_at': '2016-11-30T08:30:55Z', 'closed_at': '2016-12-09T22:47:10Z', 'labels': {'name': 'question'}}
+{'issuenumber': 108, 'title': 'Add --no-publish flag', 'state': 'closed', 'created_at': '2016-11-29T09:50:01Z', 'closed_at': '2016-12-13T13:27:42Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 106, 'title': 'Better exception for wrong project folder', 'state': 'closed', 'created_at': '2016-11-27T14:53:46Z', 'closed_at': '2016-11-29T18:30:18Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 104, 'title': 'Add support for GitHub Releases?', 'state': 'closed', 'created_at': '2016-11-21T06:45:25Z', 'closed_at': '2017-01-07T17:45:12Z', 'labels': []}
+{'issuenumber': 103, 'title': 'Ensure no extraneous files get published', 'state': 'closed', 'created_at': '2016-11-18T01:12:54Z', 'closed_at': '2020-10-29T14:49:47Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 99, 'title': 'Improve handling of failed publish –\xa0retry or check npm permissions', 'state': 'closed', 'created_at': '2016-10-21T20:08:22Z', 'closed_at': '2018-09-05T10:10:50Z', 'labels': {'name': 'question'}}
+{'issuenumber': 98, 'title': 'Support reinstalling node_modules with yarn?', 'state': 'closed', 'created_at': '2016-10-12T23:53:36Z', 'closed_at': '2017-03-15T09:31:03Z', 'labels': []}
+{'issuenumber': 96, 'title': 'Allow commit message to be passed when publishing', 'state': 'closed', 'created_at': '2016-09-28T17:54:08Z', 'closed_at': '2016-09-28T19:58:06Z', 'labels': []}
+{'issuenumber': 95, 'title': 'Shows the wrong version in the success message', 'state': 'closed', 'created_at': '2016-09-21T06:10:02Z', 'closed_at': '2017-03-17T07:20:29Z', 'labels': []}
+{'issuenumber': 93, 'title': 'Feature request: allow skipping publish manually (when publish is expected to happen from CI)', 'state': 'closed', 'created_at': '2016-09-16T23:59:03Z', 'closed_at': '2016-12-22T18:01:07Z', 'labels': []}
+{'issuenumber': 92, 'title': 'Publish elsewhere', 'state': 'closed', 'created_at': '2016-09-13T14:59:25Z', 'closed_at': '2017-03-17T07:19:21Z', 'labels': []}
+{'issuenumber': 90, 'title': 'Gracefully handle branch not having an upstream', 'state': 'closed', 'created_at': '2016-09-09T06:12:51Z', 'closed_at': '2019-01-12T06:16:57Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 87, 'title': 'Option to set a `-pre` version for non-tagged commits', 'state': 'closed', 'created_at': '2016-08-25T10:16:42Z', 'closed_at': '2016-11-05T13:48:33Z', 'labels': []}
+{'issuenumber': 85, 'title': 'np Release notes', 'state': 'closed', 'created_at': '2016-08-24T08:48:37Z', 'closed_at': '2016-08-24T10:58:44Z', 'labels': []}
+{'issuenumber': 84, 'title': 'Enhancement: Option to disable branch tagging', 'state': 'closed', 'created_at': '2016-08-18T21:40:49Z', 'closed_at': '2016-10-22T23:30:30Z', 'labels': []}
+{'issuenumber': 83, 'title': 'Update GitHub repo description from package.json', 'state': 'closed', 'created_at': '2016-08-17T11:19:17Z', 'closed_at': '2017-01-26T12:55:34Z', 'labels': {'name': 'question'}}
+{'issuenumber': 80, 'title': "--tag option doesn't work", 'state': 'closed', 'created_at': '2016-08-15T01:56:35Z', 'closed_at': '2016-08-15T21:22:18Z', 'labels': []}
+{'issuenumber': 77, 'title': 'Throw a good error when the user tries to do a prerelease version without a dist tag', 'state': 'closed', 'created_at': '2016-08-07T14:27:35Z', 'closed_at': '2016-08-11T19:47:36Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 75, 'title': 'Skip dirty check on npm version step?', 'state': 'closed', 'created_at': '2016-08-02T02:02:42Z', 'closed_at': '2016-08-07T14:28:26Z', 'labels': []}
+{'issuenumber': 74, 'title': 'Publish without version bump', 'state': 'closed', 'created_at': '2016-08-01T11:09:08Z', 'closed_at': '2016-08-01T11:17:23Z', 'labels': []}
+{'issuenumber': 72, 'title': 'Hide git subtasks', 'state': 'closed', 'created_at': '2016-07-26T07:54:36Z', 'closed_at': '2016-07-26T11:53:38Z', 'labels': []}
+{'issuenumber': 70, 'title': 'Check if tag already exists before publishing', 'state': 'closed', 'created_at': '2016-07-22T20:47:05Z', 'closed_at': '2016-08-13T11:50:11Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 69, 'title': 'Use skip API when it lands in `Listr`', 'state': 'closed', 'created_at': '2016-07-22T16:58:11Z', 'closed_at': '2016-07-26T11:27:16Z', 'labels': []}
+{'issuenumber': 68, 'title': 'Error while publishing scoped package', 'state': 'closed', 'created_at': '2016-07-22T11:21:19Z', 'closed_at': '2016-08-02T22:53:36Z', 'labels': []}
+{'issuenumber': 67, 'title': 'cli repeating log', 'state': 'closed', 'created_at': '2016-07-22T11:19:50Z', 'closed_at': '2016-07-26T12:10:35Z', 'labels': []}
+{'issuenumber': 66, 'title': "says i'm on a different version of npm than i'm actually using", 'state': 'closed', 'created_at': '2016-07-20T18:05:09Z', 'closed_at': '2016-07-20T18:37:12Z', 'labels': []}
+{'issuenumber': 65, 'title': 'Skip the `npm publish` step', 'state': 'closed', 'created_at': '2016-07-20T09:12:21Z', 'closed_at': '2016-07-22T16:56:26Z', 'labels': []}
+{'issuenumber': 63, 'title': 'Support commit signing', 'state': 'closed', 'created_at': '2016-07-15T20:45:01Z', 'closed_at': '2016-07-15T20:47:59Z', 'labels': []}
+{'issuenumber': 62, 'title': 'version bump in manifest.json if present', 'state': 'closed', 'created_at': '2016-07-13T19:55:11Z', 'closed_at': '2016-07-13T20:20:22Z', 'labels': []}
+{'issuenumber': 61, 'title': 'optional CHANGELOG generation with conventional-changelog-angular format', 'state': 'closed', 'created_at': '2016-07-10T18:04:59Z', 'closed_at': '2019-07-07T16:53:13Z', 'labels': []}
+{'issuenumber': 57, 'title': 'Run `np` script if specified', 'state': 'closed', 'created_at': '2016-07-08T15:16:24Z', 'closed_at': '2017-03-17T07:20:20Z', 'labels': []}
+{'issuenumber': 55, 'title': 'A way to persist some default options in a config file', 'state': 'closed', 'created_at': '2016-07-08T06:26:41Z', 'closed_at': '2016-07-11T20:58:33Z', 'labels': []}
+{'issuenumber': 54, 'title': 'Integrate geopkg', 'state': 'closed', 'created_at': '2016-07-08T06:24:09Z', 'closed_at': '2016-07-08T10:01:41Z', 'labels': []}
+{'issuenumber': 52, 'title': 'Interactive UI', 'state': 'closed', 'created_at': '2016-07-07T22:21:45Z', 'closed_at': '2016-11-07T17:10:49Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 50, 'title': 'Warn of (and cleanup?) tags that are ahead of package.json version', 'state': 'closed', 'created_at': '2016-07-07T21:12:19Z', 'closed_at': '2016-07-07T22:58:35Z', 'labels': []}
+{'issuenumber': 49, 'title': "Don't have patch as default", 'state': 'closed', 'created_at': '2016-07-07T21:06:06Z', 'closed_at': '2016-07-07T23:03:14Z', 'labels': []}
+{'issuenumber': 47, 'title': 'prepublish hook?', 'state': 'closed', 'created_at': '2016-07-07T17:09:27Z', 'closed_at': '2016-07-07T22:38:52Z', 'labels': []}
+{'issuenumber': 45, 'title': 'Support --tag (dist-tag)?', 'state': 'closed', 'created_at': '2016-07-06T23:46:13Z', 'closed_at': '2016-07-07T19:31:23Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 43, 'title': "Any reason that bower.json version number isn't also bumped?", 'state': 'closed', 'created_at': '2016-07-06T14:18:24Z', 'closed_at': '2016-07-06T14:53:21Z', 'labels': []}
+{'issuenumber': 41, 'title': 'Node 6 warning can be removed', 'state': 'closed', 'created_at': '2016-06-19T03:05:08Z', 'closed_at': '2016-07-26T11:41:10Z', 'labels': []}
+{'issuenumber': 39, 'title': 'Fatal error when pushing to GitHub', 'state': 'closed', 'created_at': '2016-06-16T22:03:08Z', 'closed_at': '2016-06-16T22:41:51Z', 'labels': []}
+{'issuenumber': 38, 'title': 'Report on activity', 'state': 'closed', 'created_at': '2016-06-16T08:42:52Z', 'closed_at': '2016-06-16T08:46:30Z', 'labels': []}
+{'issuenumber': 35, 'title': 'Move/Rename node_modules before `npm publish`', 'state': 'closed', 'created_at': '2016-06-15T20:24:56Z', 'closed_at': '2016-06-16T00:23:38Z', 'labels': []}
+{'issuenumber': 34, 'title': 'allow publishing from a set other branch', 'state': 'closed', 'created_at': '2016-06-15T19:44:55Z', 'closed_at': '2016-06-15T19:49:40Z', 'labels': []}
+{'issuenumber': 33, 'title': '`--skip-reinstall` flag', 'state': 'closed', 'created_at': '2016-06-15T15:20:48Z', 'closed_at': '2016-06-19T14:31:41Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 31, 'title': 'Add `update-notifier`', 'state': 'closed', 'created_at': '2016-06-07T01:31:54Z', 'closed_at': '2016-06-07T10:19:19Z', 'labels': []}
+{'issuenumber': 30, 'title': 'Use `inherit` option so child process stuff is piped to console in real time.', 'state': 'closed', 'created_at': '2016-06-06T22:01:56Z', 'closed_at': '2016-07-06T19:38:25Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 26, 'title': 'Check current git branch', 'state': 'closed', 'created_at': '2016-05-31T16:36:20Z', 'closed_at': '2016-06-03T10:54:47Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 25, 'title': 'use npmjs.org as default registry', 'state': 'closed', 'created_at': '2016-05-25T14:06:11Z', 'closed_at': '2016-05-25T16:14:31Z', 'labels': []}
+{'issuenumber': 23, 'title': '.', 'state': 'closed', 'created_at': '2016-05-23T16:24:27Z', 'closed_at': '2016-05-23T16:34:57Z', 'labels': []}
+{'issuenumber': 22, 'title': 'Write this tool in Node.js', 'state': 'closed', 'created_at': '2016-05-23T16:21:30Z', 'closed_at': '2016-05-30T13:51:39Z', 'labels': []}
+{'issuenumber': 20, 'title': 'Exit when using node 6', 'state': 'closed', 'created_at': '2016-05-19T12:32:56Z', 'closed_at': '2016-05-30T13:51:59Z', 'labels': []}
+{'issuenumber': 18, 'title': 'Tips for maintaining a changelog?', 'state': 'closed', 'created_at': '2016-04-27T21:55:02Z', 'closed_at': '2016-06-03T12:50:01Z', 'labels': []}
+{'issuenumber': 17, 'title': '`np` attempts to publish version twice', 'state': 'closed', 'created_at': '2016-04-10T22:44:20Z', 'closed_at': '2016-04-11T09:22:15Z', 'labels': []}
+{'issuenumber': 16, 'title': 'Validate arguments', 'state': 'closed', 'created_at': '2016-03-14T17:16:11Z', 'closed_at': '2016-06-03T07:53:53Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 15, 'title': 'Detect missing dependencies', 'state': 'closed', 'created_at': '2016-02-23T08:56:50Z', 'closed_at': '2016-07-08T17:01:22Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 12, 'title': 'The command fails if the node_modules directory does not exist', 'state': 'closed', 'created_at': '2016-01-05T20:32:34Z', 'closed_at': '2016-01-05T20:37:36Z', 'labels': []}
+{'issuenumber': 10, 'title': 'Flag to disable "node_modules" deletion.', 'state': 'closed', 'created_at': '2016-01-04T20:09:03Z', 'closed_at': '2016-01-05T16:49:48Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 9, 'title': './node_modules/.bin/trash not working?', 'state': 'closed', 'created_at': '2015-12-09T00:43:56Z', 'closed_at': '2015-12-09T16:03:04Z', 'labels': []}
+{'issuenumber': 6, 'title': 'Install fails', 'state': 'closed', 'created_at': '2015-10-30T02:30:18Z', 'closed_at': '2015-10-30T02:33:11Z', 'labels': []}
+{'issuenumber': 4, 'title': '"Failed to execute process" on OS X', 'state': 'closed', 'created_at': '2015-09-26T09:06:35Z', 'closed_at': '2015-09-29T07:11:47Z', 'labels': []}
+{'issuenumber': 2, 'title': 'Tell user to fix problem instead of rebasing', 'state': 'closed', 'created_at': '2015-08-17T06:46:47Z', 'closed_at': '2015-11-18T13:12:50Z', 'labels': []}
+{'issuenumber': 1, 'title': 'Does this differ from the gist?', 'state': 'closed', 'created_at': '2015-08-17T01:06:46Z', 'closed_at': '2015-08-17T04:11:44Z', 'labels': []}

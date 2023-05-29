@@ -1,0 +1,470 @@
+{'issuenumber': 1446, 'title': 'Backport current timestamp mixing into Duktape 1.x PRNG init', 'state': 'closed', 'created_at': '2017-03-28T18:29:38Z', 'closed_at': '2017-03-28T18:34:53Z', 'labels': []}
+{'issuenumber': 1445, 'title': 'How to get function object in C callback.', 'state': 'closed', 'created_at': '2017-03-28T08:09:42Z', 'closed_at': '2017-03-28T09:35:45Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1440, 'title': 'Decision to keep/remove global binding', 'state': 'closed', 'created_at': '2017-03-25T14:30:01Z', 'closed_at': '2019-08-03T01:18:45Z', 'labels': []}
+{'issuenumber': 1437, 'title': 'HTML comment syntax cleanups and improvements', 'state': 'closed', 'created_at': '2017-03-25T01:47:58Z', 'closed_at': '2017-03-25T04:07:36Z', 'labels': {'name': 'es2015'}}
+{'issuenumber': 1434, 'title': 'Remove -Werror from apitest runs', 'state': 'closed', 'created_at': '2017-03-24T14:51:14Z', 'closed_at': '2017-03-25T02:35:48Z', 'labels': {'name': 'testing'}}
+{'issuenumber': 1432, 'title': 'Assertion failed when disabling ref counts and returning a string literal', 'state': 'closed', 'created_at': '2017-03-23T21:33:21Z', 'closed_at': '2017-03-23T22:23:13Z', 'labels': []}
+{'issuenumber': 1430, 'title': 'A few warning and fixes from Netsurf feedback', 'state': 'closed', 'created_at': '2017-03-23T17:57:41Z', 'closed_at': '2017-03-23T18:45:13Z', 'labels': {'name': 'portability'}}
+{'issuenumber': 1429, 'title': 'duk_xdef_prop_stridx Dead cycle', 'state': 'closed', 'created_at': '2017-03-23T12:04:52Z', 'closed_at': '2017-03-23T13:31:28Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 1426, 'title': 'Out-of-memory in object property table realloc leaves ms_base_flags in place', 'state': 'closed', 'created_at': '2017-03-23T01:47:56Z', 'closed_at': '2017-03-29T01:34:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1420, 'title': 'Yielding issue from nested call: apply fails, bind works in Duktape.Thread', 'state': 'closed', 'created_at': '2017-03-22T04:54:37Z', 'closed_at': '2017-06-13T14:24:57Z', 'labels': []}
+{'issuenumber': 1419, 'title': 'Features and fixes for 1.8.0 release', 'state': 'closed', 'created_at': '2017-03-19T23:42:07Z', 'closed_at': '2017-08-01T21:51:49Z', 'labels': []}
+{'issuenumber': 1418, 'title': 'Fixes for 2.0.3 release', 'state': 'closed', 'created_at': '2017-03-19T23:41:31Z', 'closed_at': '2017-05-03T21:47:29Z', 'labels': []}
+{'issuenumber': 1414, 'title': 'How to bind a user data', 'state': 'closed', 'created_at': '2017-03-19T14:54:39Z', 'closed_at': '2017-03-19T17:41:07Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1413, 'title': 'How to implement getter/setter in CAPI', 'state': 'closed', 'created_at': '2017-03-19T12:18:34Z', 'closed_at': '2017-03-19T13:30:09Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1404, 'title': 'How to deal with UTF-16', 'state': 'closed', 'created_at': '2017-03-16T06:38:22Z', 'closed_at': '2017-03-16T18:26:00Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1399, 'title': 'Using a 32-bit refcount for duk_heaphdr h_refcount field', 'state': 'closed', 'created_at': '2017-03-15T00:03:46Z', 'closed_at': '2017-03-15T02:31:04Z', 'labels': {'name': 'footprint'}}
+{'issuenumber': 1396, 'title': 'Refzero finalizer loop when finalizer creates garbage referencing finalizer target', 'state': 'closed', 'created_at': '2017-03-11T02:24:26Z', 'closed_at': '2017-03-29T01:34:11Z', 'labels': []}
+{'issuenumber': 1394, 'title': 'Syntax error if last line in a module is a // comment with no line ending', 'state': 'closed', 'created_at': '2017-03-10T23:00:11Z', 'closed_at': '2017-03-14T01:29:30Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1388, 'title': 'Direct handling of func.call() and func.apply()', 'state': 'closed', 'created_at': '2017-03-08T22:32:59Z', 'closed_at': '2017-06-25T02:51:56Z', 'labels': {'name': 'compliance'}}
+{'issuenumber': 1378, 'title': 'Debugger Throw notify tries sending even when debug client not connected', 'state': 'closed', 'created_at': '2017-03-02T02:56:13Z', 'closed_at': '2017-03-30T01:21:38Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 1375, 'title': 'Occasional crash in duk_heap_mark_and_sweep', 'state': 'closed', 'created_at': '2017-03-02T00:48:44Z', 'closed_at': '2017-04-06T22:21:52Z', 'labels': []}
+{'issuenumber': 1370, 'title': 'Segmentation fault in duk_js_putvar_activation', 'state': 'closed', 'created_at': '2017-02-27T18:07:40Z', 'closed_at': '2017-02-28T00:37:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1369, 'title': 'Module loader gives a warning on Windows (Visual Studio 2013)', 'state': 'closed', 'created_at': '2017-02-22T10:27:36Z', 'closed_at': '2017-03-14T03:12:59Z', 'labels': []}
+{'issuenumber': 1368, 'title': 'Invalid', 'state': 'closed', 'created_at': '2017-02-20T15:40:17Z', 'closed_at': '2017-02-21T03:08:51Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 1360, 'title': 'Regression coverage for refcount handling', 'state': 'closed', 'created_at': '2017-02-11T01:33:51Z', 'closed_at': '2017-03-23T01:58:24Z', 'labels': {'name': 'testing'}}
+{'issuenumber': 1359, 'title': 'Strange bug - concat string', 'state': 'closed', 'created_at': '2017-02-10T23:04:31Z', 'closed_at': '2017-02-11T00:19:22Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1351, 'title': 'Redeclaring a global variable in eval code resets variable to undefined', 'state': 'closed', 'created_at': '2017-02-04T15:38:28Z', 'closed_at': '2017-02-07T00:34:22Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1350, 'title': 'Update hoisting behavior for function statements, var to align with modern engines', 'state': 'closed', 'created_at': '2017-02-04T04:29:07Z', 'closed_at': '2017-02-05T15:46:05Z', 'labels': []}
+{'issuenumber': 1348, 'title': 'Native finalizer receives only one argument instead of two', 'state': 'closed', 'created_at': '2017-02-03T19:24:00Z', 'closed_at': '2017-02-03T19:33:59Z', 'labels': []}
+{'issuenumber': 1346, 'title': 'Add support for shebang lines', 'state': 'closed', 'created_at': '2017-02-01T18:36:35Z', 'closed_at': '2017-03-29T21:44:12Z', 'labels': []}
+{'issuenumber': 1340, 'title': 'DUK_USE_ROM_GLOBAL_INHERIT has incorrect provideThis for global env', 'state': 'closed', 'created_at': '2017-01-30T22:10:26Z', 'closed_at': '2017-01-31T01:40:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1338, 'title': 'Check if Duktape could be added to kangax/compat-table', 'state': 'closed', 'created_at': '2017-01-30T13:53:04Z', 'closed_at': '2017-04-06T16:46:58Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 1333, 'title': 'TypeError: cannot string coerce Symbol', 'state': 'closed', 'created_at': '2017-01-27T16:49:39Z', 'closed_at': '2017-01-27T20:09:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1332, 'title': 'What happened to #line x  "duk_***.h" in duktape.c?', 'state': 'closed', 'created_at': '2017-01-27T13:31:27Z', 'closed_at': '2017-01-27T13:51:06Z', 'labels': []}
+{'issuenumber': 1331, 'title': 'Fixes for 2.0.2 release', 'state': 'closed', 'created_at': '2017-01-26T20:09:08Z', 'closed_at': '2017-03-19T23:06:02Z', 'labels': []}
+{'issuenumber': 1325, 'title': "Duktape shouldn't use `log2` on Android even with C99 detected", 'state': 'closed', 'created_at': '2017-01-22T08:47:10Z', 'closed_at': '2017-02-08T11:21:17Z', 'labels': {'name': 'portability'}}
+{'issuenumber': 1311, 'title': 'Strange assert, unmoved heapptr was selected for finalization', 'state': 'closed', 'created_at': '2017-01-19T10:14:38Z', 'closed_at': '2017-03-29T01:34:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1304, 'title': 'Question: How to properly identify Debug Protocol version?', 'state': 'closed', 'created_at': '2017-01-18T00:46:18Z', 'closed_at': '2017-01-18T01:14:21Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1298, 'title': 'Misc issues for 2.1.0 release', 'state': 'closed', 'created_at': '2017-01-16T02:00:20Z', 'closed_at': '2017-04-13T00:55:03Z', 'labels': []}
+{'issuenumber': 1293, 'title': 'Bug in TextEncoder: use of uninitialized variable', 'state': 'closed', 'created_at': '2017-01-15T16:17:43Z', 'closed_at': '2017-01-15T17:42:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1292, 'title': 'jscl.js failed to execute(RangeError: register limit)', 'state': 'closed', 'created_at': '2017-01-15T05:58:01Z', 'closed_at': '2017-06-29T12:30:02Z', 'labels': []}
+{'issuenumber': 1285, 'title': 'TypedArray.set() asserts if the first parameter is undefined.', 'state': 'closed', 'created_at': '2017-01-13T05:14:27Z', 'closed_at': '2017-01-13T17:55:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1280, 'title': 'Setting memory limit for Duktape heap?', 'state': 'closed', 'created_at': '2017-01-09T22:38:17Z', 'closed_at': '2017-01-10T00:52:27Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1278, 'title': 'Proxy == Proxy scenario', 'state': 'closed', 'created_at': '2017-01-09T19:15:01Z', 'closed_at': '2017-01-11T18:27:34Z', 'labels': []}
+{'issuenumber': 1275, 'title': 'Annex B RegExp character class decimal escape in TypeScript 2.1.4', 'state': 'closed', 'created_at': '2017-01-08T06:46:08Z', 'closed_at': '2017-04-14T22:50:38Z', 'labels': {'name': 'realworld'}}
+{'issuenumber': 1269, 'title': 'Fixes for 2.0.1 release', 'state': 'closed', 'created_at': '2017-01-05T04:10:29Z', 'closed_at': '2017-01-26T20:08:10Z', 'labels': []}
+{'issuenumber': 1266, 'title': "Each upgrade is not compatible with the old bytecode, I'm crazy", 'state': 'closed', 'created_at': '2017-01-03T04:08:29Z', 'closed_at': '2017-01-03T05:40:39Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1265, 'title': 'Memory management of SDL resources (using dukglue)', 'state': 'closed', 'created_at': '2017-01-02T23:13:01Z', 'closed_at': '2017-01-09T04:37:05Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1263, 'title': "Provide a 'duk_get_**_or' API?", 'state': 'closed', 'created_at': '2017-01-02T20:46:50Z', 'closed_at': '2017-04-16T20:11:22Z', 'labels': {'name': 'api'}}
+{'issuenumber': 1262, 'title': 'how do I use require in the sample duk?', 'state': 'closed', 'created_at': '2017-01-02T07:39:06Z', 'closed_at': '2017-01-09T04:36:30Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1259, 'title': 'Add a `global` binding, like Node.js', 'state': 'closed', 'created_at': '2017-01-02T03:54:12Z', 'closed_at': '2017-01-03T11:41:23Z', 'labels': []}
+{'issuenumber': 1244, 'title': 'How to run Duktape on STM32?', 'state': 'closed', 'created_at': '2016-12-30T06:04:39Z', 'closed_at': '2017-06-13T14:25:32Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1243, 'title': 'Call JavaScript function from C', 'state': 'closed', 'created_at': '2016-12-29T22:14:44Z', 'closed_at': '2016-12-31T01:39:49Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1239, 'title': 'Does duk_destroy_heap() need to call free(ctx)?', 'state': 'closed', 'created_at': '2016-12-28T10:33:25Z', 'closed_at': '2016-12-30T02:09:14Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1236, 'title': 'Accept ArrayBuffer as duk_push_buffer_object() argument', 'state': 'closed', 'created_at': '2016-12-28T03:40:57Z', 'closed_at': '2017-09-02T21:07:26Z', 'labels': {'name': 'api'}}
+{'issuenumber': 1230, 'title': 'Add C API macros for creating internal keys and symbols', 'state': 'closed', 'created_at': '2016-12-28T01:39:29Z', 'closed_at': '2017-08-12T21:57:34Z', 'labels': {'name': 'api'}}
+{'issuenumber': 1224, 'title': 'Possible mistake recognizing end of comment inside a string', 'state': 'closed', 'created_at': '2016-12-26T05:58:23Z', 'closed_at': '2016-12-26T12:13:17Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 1223, 'title': 'Misc fixes for 2.0.0 releases', 'state': 'closed', 'created_at': '2016-12-26T02:39:51Z', 'closed_at': '2016-12-30T23:47:57Z', 'labels': []}
+{'issuenumber': 1222, 'title': 'Features and fixes for 1.7.0 release', 'state': 'closed', 'created_at': '2016-12-22T03:04:51Z', 'closed_at': '2017-03-19T22:38:59Z', 'labels': []}
+{'issuenumber': 1205, 'title': 'Problems switching on 16-bit field header reductions', 'state': 'closed', 'created_at': '2016-12-19T03:01:49Z', 'closed_at': '2016-12-19T20:31:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1200, 'title': 'Suggestion: Optional use of "select" rather than "poll"', 'state': 'closed', 'created_at': '2016-12-18T04:22:51Z', 'closed_at': '2016-12-20T02:56:00Z', 'labels': {'name': 'portability'}}
+{'issuenumber': 1198, 'title': 'Compiler error/warning in duk_debug_macros.c', 'state': 'closed', 'created_at': '2016-12-18T03:08:48Z', 'closed_at': '2019-07-20T00:44:47Z', 'labels': []}
+{'issuenumber': 1192, 'title': 'Debugger web UI function key support', 'state': 'closed', 'created_at': '2016-12-16T10:59:21Z', 'closed_at': '2016-12-17T00:02:29Z', 'labels': {'name': 'debugger'}}
+{'issuenumber': 1174, 'title': 'Fixes for 1.6.1 release', 'state': 'closed', 'created_at': '2016-12-11T22:12:21Z', 'closed_at': '2017-01-15T01:18:34Z', 'labels': []}
+{'issuenumber': 1167, 'title': 'Print undefined', 'state': 'closed', 'created_at': '2016-12-09T21:57:46Z', 'closed_at': '2016-12-10T00:04:02Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1162, 'title': 'assertion failed: h != NULL in duk_hobject_prototype_chain_contains', 'state': 'closed', 'created_at': '2016-12-08T16:46:50Z', 'closed_at': '2016-12-08T19:07:14Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1144, 'title': 'Assert failure when out-of-memory during duk_hcompfunc creation', 'state': 'closed', 'created_at': '2016-12-04T01:43:33Z', 'closed_at': '2016-12-04T03:04:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1136, 'title': 'Add an internal duk_hproxy type', 'state': 'closed', 'created_at': '2016-12-03T04:00:01Z', 'closed_at': '2017-04-23T20:59:50Z', 'labels': []}
+{'issuenumber': 1107, 'title': 'ESP32 port: Some arithmetic and boolean bitwise operations not working', 'state': 'closed', 'created_at': '2016-11-26T17:13:26Z', 'closed_at': '2016-11-26T17:29:13Z', 'labels': []}
+{'issuenumber': 1092, 'title': 'duk_json_decode Exception 0xc0000005 0x1 0x4 0xd639d0', 'state': 'closed', 'created_at': '2016-11-17T10:02:48Z', 'closed_at': '2016-12-21T10:53:40Z', 'labels': []}
+{'issuenumber': 1081, 'title': 'longjmp state attached to heap instead of hthread', 'state': 'closed', 'created_at': '2016-11-14T19:03:25Z', 'closed_at': '2016-11-14T21:07:30Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1079, 'title': 'Check ToObject() coercion semantics for Object built-ins', 'state': 'closed', 'created_at': '2016-11-14T02:22:47Z', 'closed_at': '2016-12-14T02:43:50Z', 'labels': {'name': 'es2015'}}
+{'issuenumber': 1067, 'title': 'Add missing ES2015 Object built-ins', 'state': 'closed', 'created_at': '2016-11-11T14:31:59Z', 'closed_at': '2017-09-23T09:52:37Z', 'labels': {'name': 'es2015'}}
+{'issuenumber': 1065, 'title': 'Idea: User data that can be associated with a duk_context', 'state': 'closed', 'created_at': '2016-11-10T18:58:08Z', 'closed_at': '2016-11-11T23:16:36Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1053, 'title': 'Does Duktape guarantee key enumeration order?', 'state': 'closed', 'created_at': '2016-11-03T06:25:57Z', 'closed_at': '2016-11-06T00:20:33Z', 'labels': []}
+{'issuenumber': 1052, 'title': 'parseInt base 16', 'state': 'closed', 'created_at': '2016-11-02T08:14:35Z', 'closed_at': '2016-12-18T02:34:06Z', 'labels': []}
+{'issuenumber': 1045, 'title': 'Features for 1.6.0 release', 'state': 'closed', 'created_at': '2016-10-30T17:09:59Z', 'closed_at': '2016-12-11T22:11:21Z', 'labels': []}
+{'issuenumber': 1029, 'title': 'Hi all!', 'state': 'closed', 'created_at': '2016-10-24T01:11:24Z', 'closed_at': '2016-10-24T17:42:18Z', 'labels': []}
+{'issuenumber': 1014, 'title': "Add support for ES2015 'new.target'", 'state': 'closed', 'created_at': '2016-10-15T03:11:46Z', 'closed_at': '2017-09-23T09:54:46Z', 'labels': {'name': 'es2015'}}
+{'issuenumber': 1005, 'title': 'Remove default bindings converting a buffer 1:1 to an internal string representation', 'state': 'closed', 'created_at': '2016-10-10T23:37:20Z', 'closed_at': '2016-12-22T02:06:48Z', 'labels': {'name': 'compliance'}}
+{'issuenumber': 996, 'title': 'Duktape sometimes uses CESU-8 for Ecmascript strings, sometimes not', 'state': 'closed', 'created_at': '2016-10-06T17:15:38Z', 'closed_at': '2016-10-07T04:51:27Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 981, 'title': 'Add ES6 Symbol support for Duktape 2.x', 'state': 'closed', 'created_at': '2016-09-29T01:48:33Z', 'closed_at': '2016-12-20T00:27:14Z', 'labels': {'name': 'es2015'}}
+{'issuenumber': 967, 'title': 'Enumerating codepoints in a string?', 'state': 'closed', 'created_at': '2016-09-16T06:57:04Z', 'closed_at': '2016-09-16T15:38:55Z', 'labels': {'name': 'question'}}
+{'issuenumber': 964, 'title': 'How to bind class duktape to c++ ', 'state': 'closed', 'created_at': '2016-09-13T11:28:44Z', 'closed_at': '2016-12-18T02:39:51Z', 'labels': []}
+{'issuenumber': 961, 'title': 'Implement TextDecoder/Encoder objects', 'state': 'closed', 'created_at': '2016-09-11T06:58:54Z', 'closed_at': '2016-10-14T22:00:28Z', 'labels': {'name': 'buffer'}}
+{'issuenumber': 956, 'title': 'Remove function properties when built-in bindings are disabled', 'state': 'closed', 'created_at': '2016-09-07T00:48:44Z', 'closed_at': '2016-10-10T23:12:16Z', 'labels': {'name': 'config'}}
+{'issuenumber': 955, 'title': 'Increase max number of arguments in DUK_OP_NEW', 'state': 'closed', 'created_at': '2016-09-05T11:20:03Z', 'closed_at': '2017-06-30T00:57:20Z', 'labels': []}
+{'issuenumber': 945, 'title': 'Fixes for 1.5.2 release', 'state': 'closed', 'created_at': '2016-08-29T21:42:09Z', 'closed_at': '2016-12-08T20:49:54Z', 'labels': []}
+{'issuenumber': 938, 'title': 'Fixes for 1.4.2 release', 'state': 'closed', 'created_at': '2016-08-28T20:18:23Z', 'closed_at': '2016-08-28T22:24:39Z', 'labels': []}
+{'issuenumber': 930, 'title': 'Is it possible for supporting SWIG', 'state': 'closed', 'created_at': '2016-08-26T09:36:00Z', 'closed_at': '2016-12-18T02:38:43Z', 'labels': []}
+{'issuenumber': 927, 'title': 'Rework tooling into a combined config-and-prepare-sources model', 'state': 'closed', 'created_at': '2016-08-24T01:19:29Z', 'closed_at': '2016-09-07T00:45:27Z', 'labels': []}
+{'issuenumber': 921, 'title': 'Change built-in constructor inheritance chains to match ES6', 'state': 'closed', 'created_at': '2016-08-21T16:33:32Z', 'closed_at': '2016-12-17T22:27:55Z', 'labels': {'name': 'es2015'}}
+{'issuenumber': 918, 'title': '`obj.isPrototypeOf()` is broken', 'state': 'closed', 'created_at': '2016-08-20T04:47:35Z', 'closed_at': '2016-08-21T16:32:30Z', 'labels': {'name': 'es2015'}}
+{'issuenumber': 916, 'title': 'Compile fails with -Werror=unused-function', 'state': 'closed', 'created_at': '2016-08-19T11:09:37Z', 'closed_at': '2016-08-29T20:06:11Z', 'labels': {'name': 'portability'}}
+{'issuenumber': 914, 'title': 'Finalized Object being used after finalization', 'state': 'closed', 'created_at': '2016-08-18T22:50:11Z', 'closed_at': '2016-08-19T21:58:28Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 911, 'title': 'Segfault in Duktape master (ec11270)', 'state': 'closed', 'created_at': '2016-08-18T04:36:21Z', 'closed_at': '2016-08-18T17:54:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 905, 'title': 'Print flattens arrays', 'state': 'closed', 'created_at': '2016-08-15T01:55:45Z', 'closed_at': '2016-08-23T20:51:54Z', 'labels': {'name': 'question'}}
+{'issuenumber': 904, 'title': 'Optional separate duk_internal.h  from duktape.c', 'state': 'closed', 'created_at': '2016-08-12T03:48:02Z', 'closed_at': '2016-08-13T02:28:47Z', 'labels': []}
+{'issuenumber': 883, 'title': 'After  duk_pcompile_file, How to call the JS function?', 'state': 'closed', 'created_at': '2016-07-29T04:42:56Z', 'closed_at': '2016-08-02T01:49:04Z', 'labels': {'name': 'question'}}
+{'issuenumber': 880, 'title': 'Add duktape-android to ProjectsUsingDuktape wiki page', 'state': 'closed', 'created_at': '2016-07-27T03:38:29Z', 'closed_at': '2016-07-27T21:39:32Z', 'labels': []}
+{'issuenumber': 879, 'title': 'Incorrect line number in stack trace for thrown error', 'state': 'closed', 'created_at': '2016-07-26T05:42:50Z', 'closed_at': '2016-08-08T23:40:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 876, 'title': 'Missing stack trace line numbers', 'state': 'closed', 'created_at': '2016-07-25T01:14:01Z', 'closed_at': '2016-07-25T02:31:34Z', 'labels': {'name': 'question'}}
+{'issuenumber': 874, 'title': 'Add better support for optional built-ins', 'state': 'closed', 'created_at': '2016-07-20T22:04:34Z', 'closed_at': '2016-10-03T13:12:16Z', 'labels': []}
+{'issuenumber': 873, 'title': 'Version 1.5.0 use-strict issue', 'state': 'closed', 'created_at': '2016-07-20T14:51:07Z', 'closed_at': '2016-07-23T22:54:42Z', 'labels': {'name': 'question'}}
+{'issuenumber': 870, 'title': 'Remove ArrayBuffer number indices', 'state': 'closed', 'created_at': '2016-07-18T19:02:23Z', 'closed_at': '2016-12-27T03:09:04Z', 'labels': {'name': 'buffer'}}
+{'issuenumber': 865, 'title': 'Duktape 2.x buffer behavior changes', 'state': 'closed', 'created_at': '2016-07-15T13:11:45Z', 'closed_at': '2016-12-28T01:38:18Z', 'labels': {'name': 'buffer'}}
+{'issuenumber': 859, 'title': 'Fix JSON stringify fastpath handling of array gaps in JX/JC', 'state': 'closed', 'created_at': '2016-07-13T21:35:43Z', 'closed_at': '2016-12-05T20:13:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 857, 'title': 'Used headers/dependencies', 'state': 'closed', 'created_at': '2016-07-12T20:25:41Z', 'closed_at': '2016-07-13T10:55:17Z', 'labels': {'name': 'question'}}
+{'issuenumber': 855, 'title': 'Projects Using Duktape > please add Freewrl.sf.net', 'state': 'closed', 'created_at': '2016-07-11T22:33:48Z', 'closed_at': '2016-07-12T08:57:37Z', 'labels': []}
+{'issuenumber': 849, 'title': 'require.id on global object not anymore?', 'state': 'closed', 'created_at': '2016-06-23T02:23:20Z', 'closed_at': '2016-06-23T16:58:58Z', 'labels': []}
+{'issuenumber': 848, 'title': 'Error object not in stack on exception', 'state': 'closed', 'created_at': '2016-06-23T02:19:10Z', 'closed_at': '2016-06-24T15:45:11Z', 'labels': []}
+{'issuenumber': 846, 'title': 'Bump DUK__NUM_FUNC_PROP_BITS for RAM built-ins by 1 bit', 'state': 'closed', 'created_at': '2016-06-16T11:37:23Z', 'closed_at': '2016-12-05T20:56:57Z', 'labels': []}
+{'issuenumber': 839, 'title': 'Show name in "identifier not defined" error', 'state': 'closed', 'created_at': '2016-06-11T16:42:52Z', 'closed_at': '2016-06-11T23:11:39Z', 'labels': []}
+{'issuenumber': 838, 'title': 'Support new ES6 Math methods', 'state': 'closed', 'created_at': '2016-06-10T14:31:31Z', 'closed_at': '2016-11-12T07:27:40Z', 'labels': []}
+{'issuenumber': 837, 'title': 'Add ability to create a Proxy from C code', 'state': 'closed', 'created_at': '2016-06-09T11:27:54Z', 'closed_at': '2017-04-23T21:02:39Z', 'labels': {'name': 'api'}}
+{'issuenumber': 836, 'title': "duk_def_prop() doesn't allow index as key", 'state': 'closed', 'created_at': '2016-06-08T21:13:44Z', 'closed_at': '2016-12-02T11:44:15Z', 'labels': {'name': 'api'}}
+{'issuenumber': 834, 'title': 'Approaches to multi-threading', 'state': 'closed', 'created_at': '2016-06-06T09:17:29Z', 'closed_at': '2016-08-03T15:52:13Z', 'labels': []}
+{'issuenumber': 830, 'title': 'Recommended low-memory options', 'state': 'closed', 'created_at': '2016-06-03T07:59:00Z', 'closed_at': '2016-06-16T11:36:03Z', 'labels': []}
+{'issuenumber': 811, 'title': 'babel-standalone is incredibly slow under Duktape', 'state': 'closed', 'created_at': '2016-05-24T21:19:40Z', 'closed_at': '2016-05-28T14:25:44Z', 'labels': {'name': 'performance'}}
+{'issuenumber': 804, 'title': 'Duktape.info() for duk_hbufferobject returns incorrect struct size', 'state': 'closed', 'created_at': '2016-05-22T17:29:30Z', 'closed_at': '2016-07-12T15:11:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 793, 'title': "GCC warning: in 'duk__enc_value': declaration of 'h' shadows ... [-Wshadow] ", 'state': 'closed', 'created_at': '2016-05-17T20:44:20Z', 'closed_at': '2016-05-17T23:52:01Z', 'labels': []}
+{'issuenumber': 792, 'title': "Duktape.Buffer(slicedBuffer) returns the whole buffer that's not sliced", 'state': 'closed', 'created_at': '2016-05-17T05:42:04Z', 'closed_at': '2016-05-17T09:22:26Z', 'labels': {'name': 'question'}}
+{'issuenumber': 789, 'title': 'Make DUK_VERSION visible to duk_config.h', 'state': 'closed', 'created_at': '2016-05-16T12:47:02Z', 'closed_at': '2017-04-08T23:43:18Z', 'labels': {'name': 'portability'}}
+{'issuenumber': 785, 'title': 'Compilation error building `ajduk` on Ubuntu 16.04', 'state': 'closed', 'created_at': '2016-05-14T16:23:01Z', 'closed_at': '2016-05-14T19:21:56Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 784, 'title': 'Is it possible to make a global accessor?', 'state': 'closed', 'created_at': '2016-05-14T07:42:54Z', 'closed_at': '2016-08-18T18:42:56Z', 'labels': []}
+{'issuenumber': 778, 'title': 'Add the ability to compact the entire heap', 'state': 'closed', 'created_at': '2016-05-13T11:44:19Z', 'closed_at': '2016-12-02T03:39:46Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 777, 'title': 'Duktape C API call to inspect callstack', 'state': 'closed', 'created_at': '2016-05-13T11:29:13Z', 'closed_at': '2016-12-08T03:27:15Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 775, 'title': 'API call to convert an error into a stacktrace', 'state': 'closed', 'created_at': '2016-05-13T11:04:43Z', 'closed_at': '2019-04-01T20:39:09Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 774, 'title': 'Add minimal time support API calls', 'state': 'closed', 'created_at': '2016-05-12T23:59:55Z', 'closed_at': '2016-12-20T00:18:38Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 773, 'title': 'Add sub-millisecond resolution to time provider', 'state': 'closed', 'created_at': '2016-05-12T15:02:20Z', 'closed_at': '2017-08-04T23:08:22Z', 'labels': {'name': 'portability'}}
+{'issuenumber': 772, 'title': 'Load module in strict mode', 'state': 'closed', 'created_at': '2016-05-12T07:11:17Z', 'closed_at': '2016-08-23T20:45:05Z', 'labels': []}
+{'issuenumber': 764, 'title': 'NetSurf build issues with Duktape 1.5.0', 'state': 'closed', 'created_at': '2016-05-09T16:27:58Z', 'closed_at': '2016-08-28T23:08:19Z', 'labels': {'name': 'portability'}}
+{'issuenumber': 763, 'title': 'Align with changes in Node Buffer API', 'state': 'closed', 'created_at': '2016-05-09T08:46:38Z', 'closed_at': '2016-10-30T21:17:48Z', 'labels': {'name': 'buffer'}}
+{'issuenumber': 759, 'title': 'Add duk_get_prop_desc() API call', 'state': 'closed', 'created_at': '2016-05-07T10:45:58Z', 'closed_at': '2016-11-17T12:28:32Z', 'labels': {'name': 'api'}}
+{'issuenumber': 751, 'title': 'Crash near DUK_UNLIKELY?', 'state': 'closed', 'created_at': '2016-05-06T06:43:16Z', 'closed_at': '2016-05-18T02:30:12Z', 'labels': []}
+{'issuenumber': 749, 'title': "What 'introduced' version to use in API docs for calls with incompatible changes?", 'state': 'closed', 'created_at': '2016-05-05T20:04:20Z', 'closed_at': '2016-12-20T00:47:03Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 744, 'title': 'Ambiguity/error in debugger.rst', 'state': 'closed', 'created_at': '2016-05-04T23:30:38Z', 'closed_at': '2016-09-19T22:51:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 740, 'title': 'Reduce custom error type count, make remaining errors actual subclasses', 'state': 'closed', 'created_at': '2016-05-04T10:12:05Z', 'closed_at': '2016-06-03T01:38:28Z', 'labels': {'name': 'api'}}
+{'issuenumber': 739, 'title': 'Remove Duktape.Buffer, use ArrayBuffer for coercion instead', 'state': 'closed', 'created_at': '2016-05-04T10:11:09Z', 'closed_at': '2016-07-30T00:11:15Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 736, 'title': 'Remove duk_dump_context_stdout/stderr() from public API', 'state': 'closed', 'created_at': '2016-05-04T10:00:03Z', 'closed_at': '2016-05-07T11:11:55Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 735, 'title': 'Merge duk_debugger_attach() and duk_debugger_attach_custom() calls', 'state': 'closed', 'created_at': '2016-05-04T09:58:31Z', 'closed_at': '2016-05-06T02:44:43Z', 'labels': {'name': 'api'}}
+{'issuenumber': 734, 'title': 'Remove file-related API calls', 'state': 'closed', 'created_at': '2016-05-04T09:55:05Z', 'closed_at': '2016-06-01T20:07:19Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 728, 'title': 'Please, add Skookum JS to the list of projects using Duktape', 'state': 'closed', 'created_at': '2016-05-03T19:20:28Z', 'closed_at': '2016-05-03T20:32:55Z', 'labels': []}
+{'issuenumber': 722, 'title': 'Fixes for 1.5.1 release', 'state': 'closed', 'created_at': '2016-05-03T12:22:41Z', 'closed_at': '2016-08-29T20:06:34Z', 'labels': []}
+{'issuenumber': 712, 'title': 'Date creation issue', 'state': 'closed', 'created_at': '2016-04-27T17:59:21Z', 'closed_at': '2016-08-23T20:39:55Z', 'labels': {'name': 'realworld'}}
+{'issuenumber': 711, 'title': 'Function.arguments issue', 'state': 'closed', 'created_at': '2016-04-27T17:41:23Z', 'closed_at': '2016-08-23T20:41:09Z', 'labels': {'name': 'realworld'}}
+{'issuenumber': 706, 'title': 'Better support for optional built-ins to save code and memory footprint', 'state': 'closed', 'created_at': '2016-04-27T13:36:36Z', 'closed_at': '2016-10-03T00:38:15Z', 'labels': {'name': 'footprint'}}
+{'issuenumber': 701, 'title': "How to bind a global object like builtin object 'Math'?", 'state': 'closed', 'created_at': '2016-04-26T03:17:23Z', 'closed_at': '2016-04-26T15:26:06Z', 'labels': {'name': 'question'}}
+{'issuenumber': 700, 'title': 'API call to freeze/seal object', 'state': 'closed', 'created_at': '2016-04-25T22:16:46Z', 'closed_at': '2017-06-30T18:58:37Z', 'labels': {'name': 'api'}}
+{'issuenumber': 697, 'title': "Is this possible support comment like '#'", 'state': 'closed', 'created_at': '2016-04-25T06:32:06Z', 'closed_at': '2016-04-26T02:53:19Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 693, 'title': 'Duktape API macro functions should be replaced with (inline) functions ', 'state': 'closed', 'created_at': '2016-04-21T13:17:59Z', 'closed_at': '2016-04-21T15:34:52Z', 'labels': []}
+{'issuenumber': 683, 'title': 'Fastint downgrade check for duk_put_xxx_list() calls', 'state': 'closed', 'created_at': '2016-04-17T16:03:17Z', 'closed_at': '2016-11-17T03:01:04Z', 'labels': []}
+{'issuenumber': 677, 'title': 'Consider removing print() and alert() from core built-ins', 'state': 'closed', 'created_at': '2016-04-13T13:18:08Z', 'closed_at': '2016-05-12T00:49:41Z', 'labels': {'name': 'portability'}}
+{'issuenumber': 675, 'title': 'require id resolution seems broken for submodules', 'state': 'closed', 'created_at': '2016-04-10T21:44:19Z', 'closed_at': '2016-08-24T00:37:13Z', 'labels': {'name': 'question'}}
+{'issuenumber': 665, 'title': 'duktape have http or network api support native?', 'state': 'closed', 'created_at': '2016-03-30T19:38:21Z', 'closed_at': '2016-03-31T15:50:59Z', 'labels': {'name': 'question'}}
+{'issuenumber': 662, 'title': 'Overriding module.id from modSearch', 'state': 'closed', 'created_at': '2016-03-29T11:35:03Z', 'closed_at': '2016-03-29T14:59:29Z', 'labels': []}
+{'issuenumber': 645, 'title': 'How can I track the line number of the error', 'state': 'closed', 'created_at': '2016-03-18T20:21:47Z', 'closed_at': '2016-03-18T22:13:52Z', 'labels': {'name': 'question'}}
+{'issuenumber': 643, 'title': 'Escaped unicode identifier parts in duktape regexp', 'state': 'closed', 'created_at': '2016-03-18T02:31:39Z', 'closed_at': '2016-08-24T01:00:53Z', 'labels': {'name': 'realworld'}}
+{'issuenumber': 637, 'title': 'Error thrown during CJS module cause debugger pause in wrong location', 'state': 'closed', 'created_at': '2016-03-13T04:02:40Z', 'closed_at': '2016-03-14T12:49:41Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 628, 'title': 'Return a native function as modSearch exports?', 'state': 'closed', 'created_at': '2016-03-03T22:55:26Z', 'closed_at': '2016-03-04T00:00:42Z', 'labels': {'name': 'question'}}
+{'issuenumber': 627, 'title': 'duktape 1.4.0 DoubleError: error in error handlingDoubleError', 'state': 'closed', 'created_at': '2016-03-03T06:21:56Z', 'closed_at': '2016-03-03T09:54:17Z', 'labels': {'name': 'question'}}
+{'issuenumber': 626, 'title': "How to 'name' an object using duktape  ", 'state': 'closed', 'created_at': '2016-03-02T23:43:16Z', 'closed_at': '2016-03-30T22:22:49Z', 'labels': {'name': 'question'}}
+{'issuenumber': 621, 'title': 'GLFW binding for Duktape', 'state': 'closed', 'created_at': '2016-02-27T15:42:50Z', 'closed_at': '2016-02-27T16:04:25Z', 'labels': []}
+{'issuenumber': 597, 'title': 'Detach + reattach during debug halt confuses Duktape', 'state': 'closed', 'created_at': '2016-02-18T03:29:48Z', 'closed_at': '2016-02-19T18:03:06Z', 'labels': []}
+{'issuenumber': 588, 'title': 'Stack dump formatting and enhancements', 'state': 'closed', 'created_at': '2016-02-15T06:26:01Z', 'closed_at': '2016-02-24T01:33:04Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 570, 'title': 'Platform name osx', 'state': 'closed', 'created_at': '2016-01-31T19:30:16Z', 'closed_at': '2016-01-31T20:37:53Z', 'labels': {'name': 'portability'}}
+{'issuenumber': 567, 'title': 'Minor memory leak in `duk` found by Valgrind', 'state': 'closed', 'created_at': '2016-01-30T08:17:59Z', 'closed_at': '2016-01-30T21:48:48Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 563, 'title': 'Add ability to send and receive custom debug messages', 'state': 'closed', 'created_at': '2016-01-27T07:25:50Z', 'closed_at': '2016-02-20T23:10:01Z', 'labels': {'name': 'debugger'}}
+{'issuenumber': 558, 'title': 'Uncaught error during debugger Eval generates fatal Throw notify', 'state': 'closed', 'created_at': '2016-01-26T06:52:30Z', 'closed_at': '2016-02-09T12:00:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 555, 'title': 'RegEx issues', 'state': 'closed', 'created_at': '2016-01-25T08:16:55Z', 'closed_at': '2016-01-25T09:12:32Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 552, 'title': 'Problem with function "arguments" array', 'state': 'closed', 'created_at': '2016-01-20T19:27:38Z', 'closed_at': '2016-01-21T00:51:11Z', 'labels': {'name': 'question'}}
+{'issuenumber': 549, 'title': 'Debugger API to halt execution immediately', 'state': 'closed', 'created_at': '2016-01-18T20:04:19Z', 'closed_at': '2016-02-27T17:53:09Z', 'labels': []}
+{'issuenumber': 546, 'title': 'Write callback called after debugger detach', 'state': 'closed', 'created_at': '2016-01-17T04:54:03Z', 'closed_at': '2016-01-19T21:42:22Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 537, 'title': 'Debugger questions (message semantics)', 'state': 'closed', 'created_at': '2016-01-14T06:44:52Z', 'closed_at': '2016-01-19T21:42:02Z', 'labels': {'name': 'debugger'}}
+{'issuenumber': 535, 'title': 'Fixes for 1.2.6 release', 'state': 'closed', 'created_at': '2016-01-12T22:48:10Z', 'closed_at': '2016-04-19T01:26:37Z', 'labels': []}
+{'issuenumber': 534, 'title': 'Fixes for 1.3.3 release', 'state': 'closed', 'created_at': '2016-01-12T22:48:02Z', 'closed_at': '2016-04-10T23:57:22Z', 'labels': []}
+{'issuenumber': 533, 'title': 'Fixes for 1.4.1 release', 'state': 'closed', 'created_at': '2016-01-12T22:47:39Z', 'closed_at': '2016-04-19T00:29:18Z', 'labels': []}
+{'issuenumber': 523, 'title': 'TypeScript compatibility', 'state': 'closed', 'created_at': '2016-01-11T05:10:22Z', 'closed_at': '2016-01-11T21:36:06Z', 'labels': []}
+{'issuenumber': 517, 'title': 'Is branch api-get-refcount drop or merged?', 'state': 'closed', 'created_at': '2016-01-06T03:55:53Z', 'closed_at': '2016-01-06T10:08:07Z', 'labels': []}
+{'issuenumber': 516, 'title': 'Change duk_(p)eval() .fileName default from __FILE__ to "eval"', 'state': 'closed', 'created_at': '2016-01-05T16:12:52Z', 'closed_at': '2016-03-19T01:21:07Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 511, 'title': 'Declaration of duk_context : Compiling new version problems ', 'state': 'closed', 'created_at': '2016-01-04T17:07:09Z', 'closed_at': '2016-01-04T17:39:49Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 505, 'title': 'Whether you can make duktape only support multi byte character sets', 'state': 'closed', 'created_at': '2016-01-01T13:05:24Z', 'closed_at': '2016-12-18T02:43:40Z', 'labels': []}
+{'issuenumber': 504, 'title': 'Whether to support Chinese encoding', 'state': 'closed', 'created_at': '2015-12-31T13:30:08Z', 'closed_at': '2016-01-01T20:42:52Z', 'labels': {'name': 'question'}}
+{'issuenumber': 500, 'title': "Trailing ';' in the duk_push_buffer macro", 'state': 'closed', 'created_at': '2015-12-24T03:07:46Z', 'closed_at': '2015-12-24T11:50:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 496, 'title': 'Fixes for 1.3.2 release', 'state': 'closed', 'created_at': '2015-12-19T20:45:15Z', 'closed_at': '2016-01-11T12:27:40Z', 'labels': []}
+{'issuenumber': 493, 'title': 'Check a few NetSurf diffs', 'state': 'closed', 'created_at': '2015-12-18T14:09:05Z', 'closed_at': '2016-04-02T02:28:33Z', 'labels': []}
+{'issuenumber': 492, 'title': 'assertion failed: duk_is_string(ctx, -1) in duk_bi_string_prototype_replace', 'state': 'closed', 'created_at': '2015-12-14T17:35:13Z', 'closed_at': '2015-12-19T22:48:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 489, 'title': 'duk_peval_file_noresult() error handling has an incorrect duk_pop()', 'state': 'closed', 'created_at': '2015-12-10T18:55:52Z', 'closed_at': '2015-12-10T21:13:57Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 488, 'title': 'Simple steps to generate distribution files on Windows', 'state': 'closed', 'created_at': '2015-12-10T12:15:18Z', 'closed_at': '2016-01-17T17:52:20Z', 'labels': []}
+{'issuenumber': 481, 'title': 'Misc issues for 1.5.0 release', 'state': 'closed', 'created_at': '2015-12-07T22:33:44Z', 'closed_at': '2016-04-27T13:38:40Z', 'labels': []}
+{'issuenumber': 478, 'title': 'Debugger Eval command does not see correct `this` binding', 'state': 'closed', 'created_at': '2015-12-05T06:10:42Z', 'closed_at': '2015-12-10T00:24:39Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 476, 'title': 'Callstack unwind during out-of-memory error handling may trigger another error', 'state': 'closed', 'created_at': '2015-12-03T22:12:51Z', 'closed_at': '2019-06-09T13:21:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 469, 'title': 'Keep UINT64 value', 'state': 'closed', 'created_at': '2015-11-29T11:01:36Z', 'closed_at': '2015-11-29T12:22:30Z', 'labels': []}
+{'issuenumber': 468, 'title': 'How get function passed as argument in an native function ?', 'state': 'closed', 'created_at': '2015-11-29T06:05:30Z', 'closed_at': '2015-12-02T09:45:17Z', 'labels': []}
+{'issuenumber': 466, 'title': 'README details for developing on ArchLinux', 'state': 'closed', 'created_at': '2015-11-27T18:47:09Z', 'closed_at': '2016-03-07T21:21:36Z', 'labels': []}
+{'issuenumber': 456, 'title': 'Use type/context specific error throw macros to reduce footprint', 'state': 'closed', 'created_at': '2015-11-24T12:14:29Z', 'closed_at': '2016-03-29T23:46:31Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 453, 'title': 'Solaris endian detection fix', 'state': 'closed', 'created_at': '2015-11-23T03:42:46Z', 'closed_at': '2015-12-19T12:14:00Z', 'labels': {'name': 'portability'}}
+{'issuenumber': 449, 'title': 'TypeScript compiler crashes duktape', 'state': 'closed', 'created_at': '2015-11-22T17:07:16Z', 'closed_at': '2015-11-23T01:50:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 427, 'title': 'Nested property assignment evaluates incorrectly', 'state': 'closed', 'created_at': '2015-11-03T07:41:00Z', 'closed_at': '2015-11-03T08:06:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 423, 'title': 'Add a Detach notify to debugger protocol', 'state': 'closed', 'created_at': '2015-11-01T07:56:03Z', 'closed_at': '2015-11-13T12:39:56Z', 'labels': {'name': 'debugger'}}
+{'issuenumber': 418, 'title': 'Question: what is obj_index', 'state': 'closed', 'created_at': '2015-10-31T04:02:43Z', 'closed_at': '2015-10-31T05:58:48Z', 'labels': []}
+{'issuenumber': 416, 'title': 'Interpret parameters as objects', 'state': 'closed', 'created_at': '2015-10-28T10:34:40Z', 'closed_at': '2015-11-07T17:24:12Z', 'labels': []}
+{'issuenumber': 415, 'title': 'Assertion failed: Typed arrays 2 must be run on a little-endian system', 'state': 'closed', 'created_at': '2015-10-27T12:32:38Z', 'closed_at': '2015-10-29T05:33:36Z', 'labels': []}
+{'issuenumber': 413, 'title': "parseInt shouldn't auto-oct when the radix is 16", 'state': 'closed', 'created_at': '2015-10-24T10:10:06Z', 'closed_at': '2015-10-24T21:38:06Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 410, 'title': 'Error in  RegExp ', 'state': 'closed', 'created_at': '2015-10-22T07:00:58Z', 'closed_at': '2015-10-22T10:12:50Z', 'labels': []}
+{'issuenumber': 406, 'title': 'Fix DST handling for RISC OS (and possibly other platforms)', 'state': 'closed', 'created_at': '2015-10-17T22:51:59Z', 'closed_at': '2015-10-27T20:29:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 404, 'title': 'Patch: Take filename as source for require module path if ID is not present', 'state': 'closed', 'created_at': '2015-10-17T13:48:52Z', 'closed_at': '2015-10-17T20:12:59Z', 'labels': []}
+{'issuenumber': 402, 'title': 'Debug macros cannot be overriden', 'state': 'closed', 'created_at': '2015-10-14T22:27:57Z', 'closed_at': '2016-08-23T20:22:31Z', 'labels': []}
+{'issuenumber': 392, 'title': 'Store user data in duk_context', 'state': 'closed', 'created_at': '2015-10-03T20:08:14Z', 'closed_at': '2015-10-05T19:39:44Z', 'labels': []}
+{'issuenumber': 391, 'title': 'Relax multithreading requirements to allow multiple non-concurrent native threads', 'state': 'closed', 'created_at': '2015-10-03T10:03:06Z', 'closed_at': '2018-02-14T12:58:02Z', 'labels': {'name': 'api'}}
+{'issuenumber': 387, 'title': 'Unable to modify fileName and lineNumber in errCreate', 'state': 'closed', 'created_at': '2015-09-30T14:30:03Z', 'closed_at': '2015-11-23T20:43:27Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 385, 'title': 'Power Full DuktapeJava On Android', 'state': 'closed', 'created_at': '2015-09-29T07:07:25Z', 'closed_at': '2015-10-02T20:25:34Z', 'labels': []}
+{'issuenumber': 372, 'title': 'Warnings in master when compiled with -Wall', 'state': 'closed', 'created_at': '2015-09-23T07:24:52Z', 'closed_at': '2015-09-27T22:35:47Z', 'labels': []}
+{'issuenumber': 369, 'title': 'Move setjmp catchpoints into a separate, minimal outer function', 'state': 'closed', 'created_at': '2015-09-21T21:01:10Z', 'closed_at': '2016-01-02T11:59:39Z', 'labels': []}
+{'issuenumber': 362, 'title': "Why is duktape.c distributed with '#line' cpp entries?", 'state': 'closed', 'created_at': '2015-09-17T19:02:56Z', 'closed_at': '2016-06-11T23:19:52Z', 'labels': []}
+{'issuenumber': 361, 'title': '#define DUK_USE_TARGET_INFO in duk_custom.h causes macro redefinition error', 'state': 'closed', 'created_at': '2015-09-17T14:45:45Z', 'closed_at': '2016-08-20T15:31:20Z', 'labels': []}
+{'issuenumber': 359, 'title': 'Fourth round of performance improvements', 'state': 'closed', 'created_at': '2015-09-16T23:53:42Z', 'closed_at': '2017-09-18T21:14:24Z', 'labels': {'name': 'performance'}}
+{'issuenumber': 358, 'title': 'Implement safe heap walking into the debugger protocol', 'state': 'closed', 'created_at': '2015-09-16T19:42:09Z', 'closed_at': '2016-08-23T20:19:23Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 352, 'title': 'How to get real function body using function.toString()? ', 'state': 'closed', 'created_at': '2015-09-15T16:35:52Z', 'closed_at': '2015-09-25T09:08:36Z', 'labels': {'name': 'question'}}
+{'issuenumber': 340, 'title': 'Add duk_is_syntax_error() etc convenience macros', 'state': 'closed', 'created_at': '2015-09-13T10:36:01Z', 'closed_at': '2015-11-08T21:00:07Z', 'labels': {'name': 'api'}}
+{'issuenumber': 339, 'title': 'Fixes for 1.3.1 release', 'state': 'closed', 'created_at': '2015-09-12T12:14:18Z', 'closed_at': '2015-11-26T22:27:57Z', 'labels': []}
+{'issuenumber': 338, 'title': 'Fixes for 1.2.5 release', 'state': 'closed', 'created_at': '2015-09-11T21:32:10Z', 'closed_at': '2015-11-23T01:27:25Z', 'labels': []}
+{'issuenumber': 337, 'title': 'Inconsistent Behaviour of duk_is_primitive', 'state': 'closed', 'created_at': '2015-09-11T20:33:43Z', 'closed_at': '2015-09-11T21:33:51Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 333, 'title': 'Add duk_opt_boolean(), duk_opt_number(), etc optional getters', 'state': 'closed', 'created_at': '2015-09-10T01:27:14Z', 'closed_at': '2017-04-09T00:04:20Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 330, 'title': 'duk_config.h and genconfig improvements for 1.4 release', 'state': 'closed', 'created_at': '2015-09-07T12:30:24Z', 'closed_at': '2015-12-20T23:56:53Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 328, 'title': 'Finish test case for JSON.stringify() Proxy behavior', 'state': 'closed', 'created_at': '2015-09-04T22:32:32Z', 'closed_at': '2015-11-19T00:34:22Z', 'labels': {'name': 'es2015'}}
+{'issuenumber': 327, 'title': 'Missing Proxy check for JSON stringify fast path', 'state': 'closed', 'created_at': '2015-09-04T19:51:27Z', 'closed_at': '2015-09-04T20:54:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 318, 'title': 'Compilation with IAR compiler fails', 'state': 'closed', 'created_at': '2015-09-01T11:57:53Z', 'closed_at': '2015-09-03T14:57:03Z', 'labels': {'name': 'portability'}}
+{'issuenumber': 317, 'title': 'Add a .gitattributes file with eol=lf', 'state': 'closed', 'created_at': '2015-08-31T17:15:23Z', 'closed_at': '2015-08-31T22:14:38Z', 'labels': []}
+{'issuenumber': 314, 'title': 'Protect call handling and longjmp handling from finalizer side effects', 'state': 'closed', 'created_at': '2015-08-30T21:57:13Z', 'closed_at': '2017-03-29T01:34:11Z', 'labels': []}
+{'issuenumber': 313, 'title': 'Add mark-and-sweep finalizer torture option', 'state': 'closed', 'created_at': '2015-08-30T20:52:35Z', 'closed_at': '2015-08-30T21:45:32Z', 'labels': {'name': 'testing'}}
+{'issuenumber': 312, 'title': 'Avoid including <windows.h> for application build', 'state': 'closed', 'created_at': '2015-08-30T15:16:02Z', 'closed_at': '2015-08-30T15:17:13Z', 'labels': {'name': 'portability'}}
+{'issuenumber': 311, 'title': "Don't include torture tests in combined source", 'state': 'closed', 'created_at': '2015-08-29T02:07:43Z', 'closed_at': '2016-08-18T19:05:48Z', 'labels': []}
+{'issuenumber': 309, 'title': "Prefix increment of Proxy'd property doesn't return final value", 'state': 'closed', 'created_at': '2015-08-28T18:00:37Z', 'closed_at': '2015-08-28T20:42:19Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 308, 'title': 'Error thrown out of deep recursion coerced to undefined', 'state': 'closed', 'created_at': '2015-08-28T16:56:23Z', 'closed_at': '2015-08-28T16:59:24Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 307, 'title': 'Excessive recursion with debugger attached causes segfault', 'state': 'closed', 'created_at': '2015-08-28T15:32:13Z', 'closed_at': '2015-08-28T21:32:27Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 306, 'title': 'Cleanups for 1.4.0 release', 'state': 'closed', 'created_at': '2015-08-28T08:51:03Z', 'closed_at': '2016-01-10T21:11:06Z', 'labels': []}
+{'issuenumber': 305, 'title': "Missing 'act' relookup after creating arguments object", 'state': 'closed', 'created_at': '2015-08-28T07:50:28Z', 'closed_at': '2015-08-28T09:02:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 304, 'title': 'Add refzero finalizer torture config option', 'state': 'closed', 'created_at': '2015-08-28T07:46:23Z', 'closed_at': '2015-08-28T08:50:02Z', 'labels': {'name': 'testing'}}
+{'issuenumber': 303, 'title': 'Breakpoint check incorrect when function call made by side effect', 'state': 'closed', 'created_at': '2015-08-27T20:36:30Z', 'closed_at': '2015-08-31T16:25:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 302, 'title': 'Fixes for 1.2.4 release', 'state': 'closed', 'created_at': '2015-08-27T12:50:51Z', 'closed_at': '2015-09-06T20:21:37Z', 'labels': []}
+{'issuenumber': 300, 'title': 'Add example Makefile for system-wide install in a Unix system', 'state': 'closed', 'created_at': '2015-08-26T01:02:35Z', 'closed_at': '2015-12-01T15:21:37Z', 'labels': {'name': 'portability'}}
+{'issuenumber': 295, 'title': "Use a local 'consts' pointer in executor dispatch loop", 'state': 'closed', 'created_at': '2015-08-24T20:22:10Z', 'closed_at': '2015-08-24T22:07:49Z', 'labels': {'name': 'performance'}}
+{'issuenumber': 294, 'title': 'Improve opcode dispatch further by using a local curr_pc in executor', 'state': 'closed', 'created_at': '2015-08-24T20:02:45Z', 'closed_at': '2015-08-28T07:52:27Z', 'labels': {'name': 'performance'}}
+{'issuenumber': 293, 'title': 'Improve function .name handling', 'state': 'closed', 'created_at': '2015-08-24T15:46:54Z', 'closed_at': '2016-12-18T02:23:23Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 292, 'title': 'Assign name to Duktape/C function', 'state': 'closed', 'created_at': '2015-08-24T07:33:29Z', 'closed_at': '2015-08-24T16:50:37Z', 'labels': []}
+{'issuenumber': 291, 'title': 'What exactly is needed to build Duktape?', 'state': 'closed', 'created_at': '2015-08-22T22:59:59Z', 'closed_at': '2015-08-29T01:20:41Z', 'labels': []}
+{'issuenumber': 289, 'title': 'Handling of fatal errors with duk_json_decode', 'state': 'closed', 'created_at': '2015-08-21T10:04:33Z', 'closed_at': '2015-08-21T18:14:56Z', 'labels': []}
+{'issuenumber': 287, 'title': 'Error thrown in try/finally with no catch causes internal error', 'state': 'closed', 'created_at': '2015-08-20T15:00:12Z', 'closed_at': '2015-08-30T21:59:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 285, 'title': 'Supporting Carthage', 'state': 'closed', 'created_at': '2015-08-19T06:42:24Z', 'closed_at': '2016-06-11T23:17:33Z', 'labels': []}
+{'issuenumber': 281, 'title': 'GetCallStack reports wrong line numbers', 'state': 'closed', 'created_at': '2015-08-15T05:55:01Z', 'closed_at': '2015-08-23T16:36:30Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 280, 'title': 'Add ability to read variables from call stack', 'state': 'closed', 'created_at': '2015-08-15T05:34:30Z', 'closed_at': '2015-11-04T03:05:13Z', 'labels': {'name': 'debugger'}}
+{'issuenumber': 277, 'title': 'Add duk_safe_call() variant with a void pointer userdata', 'state': 'closed', 'created_at': '2015-08-11T14:30:34Z', 'closed_at': '2016-05-06T16:05:38Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 270, 'title': 'Compilation warnings with clang -Wcast-align', 'state': 'closed', 'created_at': '2015-08-10T06:35:40Z', 'closed_at': '2015-08-12T23:13:59Z', 'labels': {'name': 'portability'}}
+{'issuenumber': 269, 'title': 'Support AmigaOS 4 PowerPC', 'state': 'closed', 'created_at': '2015-08-09T13:36:59Z', 'closed_at': '2015-08-09T19:24:43Z', 'labels': {'name': 'portability'}}
+{'issuenumber': 268, 'title': 'try {} finally {} segfaults on master', 'state': 'closed', 'created_at': '2015-08-09T13:18:19Z', 'closed_at': '2015-08-09T14:59:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 267, 'title': 'Allow removing breakpoint by location', 'state': 'closed', 'created_at': '2015-08-09T04:58:42Z', 'closed_at': '2016-12-18T02:22:10Z', 'labels': {'name': 'debugger'}}
+{'issuenumber': 265, 'title': 'Use direct bytecode PC pointer rather than PC index for faster execution', 'state': 'closed', 'created_at': '2015-08-08T23:24:26Z', 'closed_at': '2015-08-24T21:00:53Z', 'labels': {'name': 'performance'}}
+{'issuenumber': 263, 'title': 'Breakpoint stops on wrong line', 'state': 'closed', 'created_at': '2015-08-08T05:30:13Z', 'closed_at': '2015-08-12T14:52:22Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 262, 'title': 'Option to clear partial state when debug connection restarted', 'state': 'closed', 'created_at': '2015-08-08T05:06:26Z', 'closed_at': '2016-02-25T18:26:04Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 260, 'title': 'Suggestions what to deprecate in Duktape 2.0', 'state': 'closed', 'created_at': '2015-08-06T10:24:06Z', 'closed_at': '2016-12-21T16:19:56Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 259, 'title': 'Third round of performance improvements', 'state': 'closed', 'created_at': '2015-08-06T09:55:07Z', 'closed_at': '2015-12-23T22:28:42Z', 'labels': {'name': 'performance'}}
+{'issuenumber': 256, 'title': 'Warnings in latest master', 'state': 'closed', 'created_at': '2015-08-06T02:50:37Z', 'closed_at': '2015-08-07T09:45:02Z', 'labels': {'name': 'portability'}}
+{'issuenumber': 255, 'title': 'JSON.stringify() fast path cleanups', 'state': 'closed', 'created_at': '2015-08-05T21:11:47Z', 'closed_at': '2015-09-04T19:51:53Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 254, 'title': 'Error.prototype.fileName and Error.prototype.lineNumber unnecessarily invoke ToString() coercion', 'state': 'closed', 'created_at': '2015-08-05T16:12:58Z', 'closed_at': '2015-08-07T10:16:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 253, 'title': 'Reference Error line number?', 'state': 'closed', 'created_at': '2015-08-05T12:54:38Z', 'closed_at': '2015-08-05T16:28:41Z', 'labels': {'name': 'question'}}
+{'issuenumber': 251, 'title': 'Add an example debug transport with dvalue encoding/decoding', 'state': 'closed', 'created_at': '2015-08-05T05:36:51Z', 'closed_at': '2015-08-08T23:02:01Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 250, 'title': 'Cleanups for buffer spare removal', 'state': 'closed', 'created_at': '2015-08-04T21:46:11Z', 'closed_at': '2015-09-03T13:37:51Z', 'labels': []}
+{'issuenumber': 249, 'title': 'Object.keys() equivalent for C', 'state': 'closed', 'created_at': '2015-08-04T21:31:57Z', 'closed_at': '2015-08-04T21:56:32Z', 'labels': {'name': 'question'}}
+{'issuenumber': 248, 'title': 'Resume fails after setting an initial breakpoint using AddBreak', 'state': 'closed', 'created_at': '2015-08-04T19:13:19Z', 'closed_at': '2015-08-05T11:37:54Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 247, 'title': "Duktape.dec('jx', '1Infinity') parses as -Infinity", 'state': 'closed', 'created_at': '2015-08-04T13:09:11Z', 'closed_at': '2015-08-05T09:48:58Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 246, 'title': 'Rewrite repo Makefile into CMake', 'state': 'closed', 'created_at': '2015-08-04T07:09:59Z', 'closed_at': '2016-12-18T02:18:56Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 244, 'title': 'Debugger stops sending messages', 'state': 'closed', 'created_at': '2015-08-02T15:56:48Z', 'closed_at': '2015-08-03T16:27:55Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 242, 'title': 'Duktape drops debug session', 'state': 'closed', 'created_at': '2015-07-30T19:21:43Z', 'closed_at': '2015-07-31T05:47:46Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 241, 'title': 'Build failure for CMake dist build - missing constants/macros', 'state': 'closed', 'created_at': '2015-07-30T00:28:51Z', 'closed_at': '2015-08-08T23:06:45Z', 'labels': []}
+{'issuenumber': 240, 'title': 'Add links to similar engines on index page', 'state': 'closed', 'created_at': '2015-07-26T05:13:10Z', 'closed_at': '2015-07-27T07:08:45Z', 'labels': []}
+{'issuenumber': 238, 'title': 'Get object contents over debug protocol', 'state': 'closed', 'created_at': '2015-07-25T06:14:37Z', 'closed_at': '2016-02-07T17:46:34Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 237, 'title': 'Make Proxy internal properties non-writable and non-configurable', 'state': 'closed', 'created_at': '2015-07-25T00:46:04Z', 'closed_at': '2015-07-25T02:26:32Z', 'labels': {'name': 'sandboxing'}}
+{'issuenumber': 236, 'title': 'Remove support for DUK_OPT_xxx flags', 'state': 'closed', 'created_at': '2015-07-24T06:46:39Z', 'closed_at': '2016-09-06T18:05:52Z', 'labels': {'name': 'portability'}}
+{'issuenumber': 235, 'title': 'duk_config.h cleanups for initial release', 'state': 'closed', 'created_at': '2015-07-24T06:41:35Z', 'closed_at': '2015-09-09T23:05:23Z', 'labels': {'name': 'portability'}}
+{'issuenumber': 234, 'title': 'Compilation warnings with -Wfloat-equal', 'state': 'closed', 'created_at': '2015-07-24T00:35:07Z', 'closed_at': '2019-08-07T01:18:12Z', 'labels': {'name': 'portability'}}
+{'issuenumber': 233, 'title': 'Debug protocol: Under what circumstance is a flush triggered?', 'state': 'closed', 'created_at': '2015-07-23T18:18:35Z', 'closed_at': '2015-08-20T02:53:09Z', 'labels': {'name': 'debugger'}}
+{'issuenumber': 232, 'title': 'JSON debug proxy: Where is it?', 'state': 'closed', 'created_at': '2015-07-23T04:51:59Z', 'closed_at': '2015-07-23T05:14:00Z', 'labels': {'name': 'question'}}
+{'issuenumber': 230, 'title': 'Ability to stop on unhandled error', 'state': 'closed', 'created_at': '2015-07-22T22:09:23Z', 'closed_at': '2015-09-16T19:34:41Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 228, 'title': 'Heap pointer compression (DUK_USE_HEAPPTR16) compile errors on x64', 'state': 'closed', 'created_at': '2015-07-21T15:51:51Z', 'closed_at': '2015-07-21T15:51:57Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 227, 'title': 'Add new ES6 Math built-ins (like Math.log10)', 'state': 'closed', 'created_at': '2015-07-21T15:48:40Z', 'closed_at': '2016-12-18T02:37:18Z', 'labels': {'name': 'es2015'}}
+{'issuenumber': 226, 'title': 'Compiler recursion limit under OS X compiling CoffeeScript', 'state': 'closed', 'created_at': '2015-07-21T07:26:35Z', 'closed_at': '2015-07-23T06:00:17Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 225, 'title': 'Question about the Debug API', 'state': 'closed', 'created_at': '2015-07-21T01:52:34Z', 'closed_at': '2015-07-23T05:10:25Z', 'labels': {'name': 'question'}}
+{'issuenumber': 224, 'title': 'Double debugger Status notification messages sent', 'state': 'closed', 'created_at': '2015-07-21T01:08:11Z', 'closed_at': '2015-07-21T22:13:09Z', 'labels': {'name': 'question'}}
+{'issuenumber': 223, 'title': 'debugger.rst documentation for GetLocals', 'state': 'closed', 'created_at': '2015-07-20T17:53:42Z', 'closed_at': '2015-07-23T05:09:50Z', 'labels': {'name': 'debugger'}}
+{'issuenumber': 221, 'title': 'Use of Proxy in global table', 'state': 'closed', 'created_at': '2015-07-16T07:29:01Z', 'closed_at': '2015-08-14T12:34:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 219, 'title': 'Feature request: Example using Objects as native function paramaters', 'state': 'closed', 'created_at': '2015-07-15T05:51:11Z', 'closed_at': '2016-12-18T02:04:25Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 218, 'title': 'Feature request: Simplify object function access', 'state': 'closed', 'created_at': '2015-07-14T05:31:18Z', 'closed_at': '2016-12-18T02:05:29Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 217, 'title': 'Extending Duktape.Pointer.prototype', 'state': 'closed', 'created_at': '2015-07-04T20:09:46Z', 'closed_at': '2015-07-04T21:51:33Z', 'labels': []}
+{'issuenumber': 216, 'title': 'Does Duktape run on Apple Watch 2.0', 'state': 'closed', 'created_at': '2015-06-25T23:32:24Z', 'closed_at': '2015-07-24T04:49:20Z', 'labels': {'name': 'question'}}
+{'issuenumber': 215, 'title': 'Stack management question', 'state': 'closed', 'created_at': '2015-06-21T02:34:05Z', 'closed_at': '2015-06-23T04:08:10Z', 'labels': {'name': 'question'}}
+{'issuenumber': 214, 'title': 'Execution timeout corner case issues', 'state': 'closed', 'created_at': '2015-06-18T03:41:51Z', 'closed_at': '2015-06-19T18:22:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 213, 'title': 'Fixes for 1.2.3 release', 'state': 'closed', 'created_at': '2015-06-18T03:21:14Z', 'closed_at': '2015-08-09T09:41:56Z', 'labels': []}
+{'issuenumber': 212, 'title': 'Repeated bytecode execution timeouts not working', 'state': 'closed', 'created_at': '2015-06-17T09:34:08Z', 'closed_at': '2015-06-18T03:38:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 211, 'title': 'Controlling execution (infinite loops)', 'state': 'closed', 'created_at': '2015-06-14T16:11:45Z', 'closed_at': '2015-07-24T04:49:50Z', 'labels': {'name': 'question'}}
+{'issuenumber': 210, 'title': 'Make "invalid base value" more informative', 'state': 'closed', 'created_at': '2015-06-08T14:15:29Z', 'closed_at': '2015-10-29T20:07:20Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 209, 'title': 'Remove buffer spare', 'state': 'closed', 'created_at': '2015-06-05T09:23:01Z', 'closed_at': '2015-08-05T09:48:22Z', 'labels': {'name': 'performance'}}
+{'issuenumber': 208, 'title': 'Add API calls for bytecode dump/load', 'state': 'closed', 'created_at': '2015-06-04T11:39:33Z', 'closed_at': '2015-08-05T21:16:32Z', 'labels': {'name': 'api'}}
+{'issuenumber': 207, 'title': 'Lexer tokenization improvement', 'state': 'closed', 'created_at': '2015-06-04T00:32:05Z', 'closed_at': '2015-06-07T00:55:16Z', 'labels': {'name': 'performance'}}
+{'issuenumber': 206, 'title': 'NULL pointer dereference in duk_is_dynamic_buffer() and duk_is_fixed_buffer() with invalid index', 'state': 'closed', 'created_at': '2015-06-01T20:05:27Z', 'closed_at': '2015-06-01T22:08:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 205, 'title': 'Firefox locks up loading duktape.org API or Guide pages', 'state': 'closed', 'created_at': '2015-05-31T06:10:11Z', 'closed_at': '2015-07-25T22:22:41Z', 'labels': []}
+{'issuenumber': 204, 'title': 'JSON.stringify() performance optimization', 'state': 'closed', 'created_at': '2015-05-31T02:04:35Z', 'closed_at': '2015-08-09T02:48:00Z', 'labels': {'name': 'performance'}}
+{'issuenumber': 203, 'title': 'Cleanups for 1.3.0 release', 'state': 'closed', 'created_at': '2015-05-30T17:40:27Z', 'closed_at': '2015-09-12T03:24:45Z', 'labels': []}
+{'issuenumber': 202, 'title': "require() doesn't load the object correctly", 'state': 'closed', 'created_at': '2015-05-29T00:39:19Z', 'closed_at': '2015-06-04T17:42:24Z', 'labels': []}
+{'issuenumber': 201, 'title': 'Add CommonJS support for module.exports', 'state': 'closed', 'created_at': '2015-05-28T04:38:11Z', 'closed_at': '2015-06-01T10:18:01Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 200, 'title': 'Option to disable transcendental math functions', 'state': 'closed', 'created_at': '2015-05-27T23:59:36Z', 'closed_at': '2016-12-18T02:06:19Z', 'labels': {'name': 'portability'}}
+{'issuenumber': 199, 'title': 'Cleanups for buffer object support', 'state': 'closed', 'created_at': '2015-05-27T22:40:59Z', 'closed_at': '2015-09-06T22:03:04Z', 'labels': []}
+{'issuenumber': 197, 'title': 'Duktape chokes on ANSI-encoded script with extended characters', 'state': 'closed', 'created_at': '2015-05-24T15:19:44Z', 'closed_at': '2015-05-26T19:56:44Z', 'labels': []}
+{'issuenumber': 194, 'title': 'How to implement a Duktape.modSearch function that supports several directories', 'state': 'closed', 'created_at': '2015-05-21T11:03:23Z', 'closed_at': '2016-08-23T20:12:33Z', 'labels': {'name': 'module'}}
+{'issuenumber': 193, 'title': 'How can I fetch the function object in the Duktape stack?', 'state': 'closed', 'created_at': '2015-05-20T09:16:33Z', 'closed_at': '2016-08-23T20:12:53Z', 'labels': []}
+{'issuenumber': 192, 'title': 'Can I use a buffer like handle like Node.js', 'state': 'closed', 'created_at': '2015-05-14T03:19:18Z', 'closed_at': '2016-05-17T07:48:19Z', 'labels': []}
+{'issuenumber': 191, 'title': 'Infinitely recursive function causes double error', 'state': 'closed', 'created_at': '2015-05-12T18:20:19Z', 'closed_at': '2015-08-31T22:11:22Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 190, 'title': 'C API changes for Node.js Buffer and TypedArray objects', 'state': 'closed', 'created_at': '2015-05-08T15:18:37Z', 'closed_at': '2015-09-06T21:33:41Z', 'labels': []}
+{'issuenumber': 189, 'title': 'Investigate startup time of Dukweb.js on Chrome', 'state': 'closed', 'created_at': '2015-05-06T16:32:15Z', 'closed_at': '2015-05-06T16:50:11Z', 'labels': []}
+{'issuenumber': 187, 'title': 'MSVC instrumented profiling triggers Duktape assert', 'state': 'closed', 'created_at': '2015-05-04T13:43:07Z', 'closed_at': '2016-08-23T20:29:08Z', 'labels': []}
+{'issuenumber': 185, 'title': 'How to clone a EcmaScript object(what the API duk_dup() does is duplicating a reference)?', 'state': 'closed', 'created_at': '2015-04-24T10:53:29Z', 'closed_at': '2015-04-24T11:48:13Z', 'labels': []}
+{'issuenumber': 184, 'title': 'duktape clone object', 'state': 'closed', 'created_at': '2015-04-24T10:50:53Z', 'closed_at': '2015-04-24T11:13:13Z', 'labels': []}
+{'issuenumber': 183, 'title': 'Recursive Fibonacci extremely slow on TI-Nspire', 'state': 'closed', 'created_at': '2015-04-23T01:00:31Z', 'closed_at': '2016-08-23T20:10:28Z', 'labels': {'name': 'performance'}}
+{'issuenumber': 182, 'title': "`instanceof` on Proxy object doesn't work", 'state': 'closed', 'created_at': '2015-04-21T15:35:29Z', 'closed_at': '2015-07-27T07:32:43Z', 'labels': {'name': 'es2015'}}
+{'issuenumber': 181, 'title': 'Purpose of duk_safe_call()', 'state': 'closed', 'created_at': '2015-04-20T05:49:26Z', 'closed_at': '2015-08-20T04:03:02Z', 'labels': []}
+{'issuenumber': 180, 'title': 'Add support for #code in duktape.org/dukweb.html', 'state': 'closed', 'created_at': '2015-04-19T15:33:12Z', 'closed_at': '2015-04-19T16:01:34Z', 'labels': []}
+{'issuenumber': 179, 'title': 'Plans to support `const`?', 'state': 'closed', 'created_at': '2015-04-19T05:26:43Z', 'closed_at': '2016-12-05T17:11:34Z', 'labels': {'name': 'es2015'}}
+{'issuenumber': 178, 'title': 'Make duk_context typed (not void), assert check ctx argument more closely', 'state': 'closed', 'created_at': '2015-04-18T17:32:18Z', 'closed_at': '2015-05-06T19:20:25Z', 'labels': {'name': 'api'}}
+{'issuenumber': 177, 'title': '`size_t` narrowing warnings under 64-bit MSVC', 'state': 'closed', 'created_at': '2015-04-17T21:06:00Z', 'closed_at': '2015-04-19T16:37:22Z', 'labels': []}
+{'issuenumber': 175, 'title': "Assert triggered, possible bug, can't reproduce with bare Duktape", 'state': 'closed', 'created_at': '2015-04-17T16:36:40Z', 'closed_at': '2015-04-18T17:32:30Z', 'labels': []}
+{'issuenumber': 174, 'title': 'Compile error for array fast path code with lowmem options', 'state': 'closed', 'created_at': '2015-04-10T20:05:07Z', 'closed_at': '2015-04-10T20:08:30Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 173, 'title': 'How to make it run faster?', 'state': 'closed', 'created_at': '2015-04-10T09:17:36Z', 'closed_at': '2015-06-24T05:52:52Z', 'labels': []}
+{'issuenumber': 172, 'title': 'Warnings (1.2.x) when compiling with fastint support', 'state': 'closed', 'created_at': '2015-04-08T01:55:00Z', 'closed_at': '2015-04-10T20:08:48Z', 'labels': {'name': 'portability'}}
+{'issuenumber': 171, 'title': 'Fixes for 1.2.2 release', 'state': 'closed', 'created_at': '2015-04-07T21:27:45Z', 'closed_at': '2015-06-02T13:28:14Z', 'labels': []}
+{'issuenumber': 170, 'title': 'Fixes for 1.2.1 release', 'state': 'closed', 'created_at': '2015-04-07T16:56:48Z', 'closed_at': '2015-04-07T21:26:04Z', 'labels': []}
+{'issuenumber': 169, 'title': 'NaN handling cleanups', 'state': 'closed', 'created_at': '2015-04-07T16:46:37Z', 'closed_at': '2015-08-10T15:32:57Z', 'labels': []}
+{'issuenumber': 168, 'title': 'Duktape 1.2.0 crashes (NULL dereference) executing json3.js', 'state': 'closed', 'created_at': '2015-04-07T14:49:20Z', 'closed_at': '2015-04-07T17:11:58Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 166, 'title': 'No filename and line number for "invalid base value" error', 'state': 'closed', 'created_at': '2015-04-05T22:47:36Z', 'closed_at': '2015-04-06T04:13:04Z', 'labels': []}
+{'issuenumber': 165, 'title': 'Add explicit DUK_USE_xxx flags for C stack limits (e.g. regexp, executor)', 'state': 'closed', 'created_at': '2015-04-05T17:43:31Z', 'closed_at': '2015-08-14T08:37:58Z', 'labels': {'name': 'portability'}}
+{'issuenumber': 164, 'title': 'Add explicit global object "this" binding for duk_(p)eval() API calls', 'state': 'closed', 'created_at': '2015-04-05T14:11:57Z', 'closed_at': '2015-08-10T14:20:57Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 163, 'title': '"use strict" causes global lookup failure', 'state': 'closed', 'created_at': '2015-04-05T04:55:28Z', 'closed_at': '2015-08-10T14:21:08Z', 'labels': {'name': 'api'}}
+{'issuenumber': 162, 'title': 'Duktape.env outputs "unknown" platform on mac/ios', 'state': 'closed', 'created_at': '2015-04-04T11:24:38Z', 'closed_at': '2015-04-04T11:29:39Z', 'labels': []}
+{'issuenumber': 161, 'title': 'Makefile support for newer Emscripten (fastcomp)', 'state': 'closed', 'created_at': '2015-04-03T17:46:27Z', 'closed_at': '2015-06-03T22:28:03Z', 'labels': []}
+{'issuenumber': 159, 'title': 'Cleanups for 1.2.0 release', 'state': 'closed', 'created_at': '2015-04-02T21:48:19Z', 'closed_at': '2015-04-05T22:27:40Z', 'labels': []}
+{'issuenumber': 158, 'title': 'Debugger improvements for 1.4 release', 'state': 'closed', 'created_at': '2015-04-02T21:37:18Z', 'closed_at': '2015-11-09T22:07:17Z', 'labels': {'name': 'debugger'}}
+{'issuenumber': 157, 'title': 'Configuring Regexp stack limits', 'state': 'closed', 'created_at': '2015-04-02T05:46:01Z', 'closed_at': '2015-04-05T17:28:40Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 155, 'title': "Incorrect case match when 'default' clause is first", 'state': 'closed', 'created_at': '2015-03-29T10:01:46Z', 'closed_at': '2015-04-02T23:54:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 153, 'title': 'Add support for external buffer values', 'state': 'closed', 'created_at': '2015-03-26T21:17:26Z', 'closed_at': '2015-09-03T18:30:00Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 152, 'title': 'Add support for Node.js compatible Buffer object', 'state': 'closed', 'created_at': '2015-03-26T21:16:11Z', 'closed_at': '2015-05-27T22:39:02Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 151, 'title': 'Add support for TypedArray values', 'state': 'closed', 'created_at': '2015-03-26T21:15:03Z', 'closed_at': '2015-05-27T22:38:59Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 150, 'title': 'Resource-constrained hardware compatibility list', 'state': 'closed', 'created_at': '2015-03-25T09:31:44Z', 'closed_at': '2016-12-18T02:09:21Z', 'labels': []}
+{'issuenumber': 148, 'title': 'Add equivalent of "instanceof" to the C API (duk_instanceof)', 'state': 'closed', 'created_at': '2015-03-23T23:07:11Z', 'closed_at': '2015-05-06T19:36:36Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 147, 'title': 'Function to set source of next internal error', 'state': 'closed', 'created_at': '2015-03-23T04:34:06Z', 'closed_at': '2015-08-10T13:14:11Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 145, 'title': 'Rework TRYCATCH opcode to remove current reg/const limits', 'state': 'closed', 'created_at': '2015-03-22T14:58:19Z', 'closed_at': '2015-06-24T05:51:38Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 144, 'title': 'Duktape cannot run the JSbench benchmarks', 'state': 'closed', 'created_at': '2015-03-22T13:35:20Z', 'closed_at': '2015-04-18T17:26:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 143, 'title': 'Duktape.act() reports wrong line number for callstack entries', 'state': 'closed', 'created_at': '2015-03-21T16:28:36Z', 'closed_at': '2015-03-25T15:22:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 142, 'title': 'Duktape chokes on literal braces in RegExp', 'state': 'closed', 'created_at': '2015-03-20T16:33:05Z', 'closed_at': '2016-01-17T12:13:51Z', 'labels': {'name': 'compliance'}}
+{'issuenumber': 141, 'title': 'New warnings when compiling 1.1.2', 'state': 'closed', 'created_at': '2015-03-20T16:16:04Z', 'closed_at': '2015-03-26T10:29:00Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 140, 'title': 'No line number or filename for SyntaxErrors', 'state': 'closed', 'created_at': '2015-03-20T05:02:01Z', 'closed_at': '2015-04-04T23:08:55Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 139, 'title': 'Second round of performance improvements', 'state': 'closed', 'created_at': '2015-03-19T02:06:31Z', 'closed_at': '2015-08-26T00:45:28Z', 'labels': {'name': 'performance'}}
+{'issuenumber': 138, 'title': 'First round of performance improvements', 'state': 'closed', 'created_at': '2015-03-19T02:03:57Z', 'closed_at': '2015-03-25T14:58:22Z', 'labels': {'name': 'performance'}}
+{'issuenumber': 137, 'title': 'Fixes for 1.1.3 release', 'state': 'closed', 'created_at': '2015-03-17T19:19:29Z', 'closed_at': '2015-04-03T17:22:55Z', 'labels': []}
+{'issuenumber': 136, 'title': 'Wider opcode arguments for LDTHIS and THROW (less shuffling)', 'state': 'closed', 'created_at': '2015-03-12T00:29:38Z', 'closed_at': '2015-03-12T00:59:30Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 135, 'title': 'Add a compiler shuffle torture flag and rerun testcases', 'state': 'closed', 'created_at': '2015-03-10T14:47:32Z', 'closed_at': '2015-03-16T21:52:58Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 134, 'title': 'Linker issues with Ubuntu Eclipse C/C++ IDE (__fpclassify)', 'state': 'closed', 'created_at': '2015-03-10T13:06:07Z', 'closed_at': '2015-03-16T22:24:24Z', 'labels': []}
+{'issuenumber': 133, 'title': 'duk_dump_context_stderr  print problem', 'state': 'closed', 'created_at': '2015-03-10T11:44:58Z', 'closed_at': '2015-03-10T16:03:18Z', 'labels': []}
+{'issuenumber': 132, 'title': 'Regression after LHS change', 'state': 'closed', 'created_at': '2015-03-10T01:28:06Z', 'closed_at': '2015-03-17T17:23:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 131, 'title': 'IIFE Value always returned in comma expression', 'state': 'closed', 'created_at': '2015-03-10T00:24:08Z', 'closed_at': '2015-03-12T17:37:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 129, 'title': 'API call to "steal" a dynamic buffer', 'state': 'closed', 'created_at': '2015-03-08T12:39:50Z', 'closed_at': '2015-06-01T22:08:34Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 128, 'title': 'Debugger improvements for 1.2 release', 'state': 'closed', 'created_at': '2015-03-07T21:57:20Z', 'closed_at': '2015-04-03T17:23:20Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 127, 'title': 'Runtime errors on fa526 (arm4tl): res != DUK_TVAL_GET_NUMBER(tv) (duk_hobject_props.c:2628)', 'state': 'closed', 'created_at': '2015-03-06T18:46:55Z', 'closed_at': '2015-04-02T21:36:21Z', 'labels': {'name': 'portability'}}
+{'issuenumber': 126, 'title': 'Cannot determine intptr type on Android NDK r8e', 'state': 'closed', 'created_at': '2015-03-06T08:20:27Z', 'closed_at': '2015-03-06T19:11:27Z', 'labels': []}
+{'issuenumber': 125, 'title': 'Unexpected buffer value when assigning a negative number', 'state': 'closed', 'created_at': '2015-03-05T19:57:01Z', 'closed_at': '2015-03-10T18:45:14Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 124, 'title': 'Could use a protected duk_new()', 'state': 'closed', 'created_at': '2015-03-04T22:28:13Z', 'closed_at': '2015-08-10T19:53:18Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 123, 'title': "i don't understand why use -2 , not -1.", 'state': 'closed', 'created_at': '2015-02-28T10:42:32Z', 'closed_at': '2015-03-06T08:05:28Z', 'labels': []}
+{'issuenumber': 122, 'title': 'Regexp parse error - /[\\0]/', 'state': 'closed', 'created_at': '2015-02-25T21:00:56Z', 'closed_at': '2015-02-25T22:30:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 121, 'title': 'Typo in example for duk_dup_top in API documentation', 'state': 'closed', 'created_at': '2015-02-25T02:21:29Z', 'closed_at': '2015-02-25T22:34:40Z', 'labels': []}
+{'issuenumber': 120, 'title': 'String.fromCharCode not working for 32-bit code points', 'state': 'closed', 'created_at': '2015-02-18T07:34:56Z', 'closed_at': '2015-03-06T08:08:04Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 119, 'title': 'Fixes for 1.1.2 release', 'state': 'closed', 'created_at': '2015-02-17T22:13:47Z', 'closed_at': '2015-03-17T19:18:49Z', 'labels': []}
+{'issuenumber': 118, 'title': 'Incorrect LHS handling when LHS is a property access', 'state': 'closed', 'created_at': '2015-02-17T22:12:20Z', 'closed_at': '2015-02-25T22:43:19Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 117, 'title': 'Compiler documentation is missing', 'state': 'closed', 'created_at': '2015-02-14T20:49:19Z', 'closed_at': '2015-08-18T22:48:21Z', 'labels': []}
+{'issuenumber': 116, 'title': 'Add example for compiling with musl', 'state': 'closed', 'created_at': '2015-02-07T04:34:34Z', 'closed_at': '2015-08-14T13:27:16Z', 'labels': []}
+{'issuenumber': 115, 'title': 'CSPROPI target is not a number', 'state': 'closed', 'created_at': '2015-02-06T18:51:32Z', 'closed_at': '2015-02-13T21:30:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 114, 'title': 'Error caught by duk_pcompile missing line number/filename', 'state': 'closed', 'created_at': '2015-02-05T15:59:55Z', 'closed_at': '2015-03-25T09:36:39Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 112, 'title': 'Unicode support for fopen() filenames', 'state': 'closed', 'created_at': '2015-01-29T12:48:35Z', 'closed_at': '2016-06-11T23:16:26Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 111, 'title': 'Ecmascript functions with [65536,262143] vm registers compile to incorrect code', 'state': 'closed', 'created_at': '2015-01-27T00:00:56Z', 'closed_at': '2015-01-27T00:41:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 110, 'title': 'Fixes for 1.1.1 release', 'state': 'closed', 'created_at': '2015-01-19T20:50:40Z', 'closed_at': '2015-02-17T17:40:20Z', 'labels': []}
+{'issuenumber': 109, 'title': 'Make finalizer guarantees exact', 'state': 'closed', 'created_at': '2015-01-19T10:15:53Z', 'closed_at': '2015-12-03T11:52:07Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 108, 'title': "Finalization issue, telling when an object has been GC'd", 'state': 'closed', 'created_at': '2015-01-19T03:59:27Z', 'closed_at': '2016-08-23T20:27:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 107, 'title': 'Segmentation fault caused by big Array on apply method.', 'state': 'closed', 'created_at': '2015-01-16T04:48:09Z', 'closed_at': '2015-12-19T22:39:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 106, 'title': "Duktape accepts a function definition that doesn't begin with a curly brace", 'state': 'closed', 'created_at': '2015-01-16T01:47:04Z', 'closed_at': '2015-01-16T14:29:22Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 105, 'title': 'Integer arithmetic support for soft float platforms', 'state': 'closed', 'created_at': '2015-01-15T22:33:48Z', 'closed_at': '2015-03-25T14:57:16Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 103, 'title': "Variable names don't allow all required characters (e.g. CJK, Hangul)", 'state': 'closed', 'created_at': '2015-01-13T08:38:45Z', 'closed_at': '2015-01-13T11:36:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 102, 'title': 'Proper MIPS architecture detection', 'state': 'closed', 'created_at': '2015-01-10T14:54:38Z', 'closed_at': '2015-03-31T17:28:06Z', 'labels': {'name': 'portability'}}
+{'issuenumber': 101, 'title': 'gcc4.7 build error', 'state': 'closed', 'created_at': '2015-01-09T08:34:19Z', 'closed_at': '2015-01-09T09:31:49Z', 'labels': []}
+{'issuenumber': 100, 'title': 'Access script objects?', 'state': 'closed', 'created_at': '2015-01-08T14:19:23Z', 'closed_at': '2015-01-09T13:31:30Z', 'labels': []}
+{'issuenumber': 99, 'title': 'Support for typed arrays?', 'state': 'closed', 'created_at': '2015-01-08T10:46:48Z', 'closed_at': '2015-03-26T21:17:57Z', 'labels': []}
+{'issuenumber': 97, 'title': 'Cleanups for 1.1 release', 'state': 'closed', 'created_at': '2014-12-29T17:25:00Z', 'closed_at': '2015-01-09T17:08:28Z', 'labels': []}
+{'issuenumber': 96, 'title': 'Add duk_get_refcount() API call', 'state': 'closed', 'created_at': '2014-12-29T17:10:49Z', 'closed_at': '2016-12-18T02:12:06Z', 'labels': {'name': 'api'}}
+{'issuenumber': 94, 'title': 'Make Duktape more Unix distribution friendly', 'state': 'closed', 'created_at': '2014-12-28T06:16:58Z', 'closed_at': '2015-08-26T01:04:10Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 93, 'title': 'JSON.parse() syntax error for positive exponent (e.g. "1.5e+308")', 'state': 'closed', 'created_at': '2014-12-26T21:40:51Z', 'closed_at': '2014-12-26T21:49:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 91, 'title': 'Several compiler warnings with GCC', 'state': 'closed', 'created_at': '2014-12-26T04:06:44Z', 'closed_at': '2014-12-29T23:29:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 90, 'title': 'Add a bytecode executor timeout mechanism', 'state': 'closed', 'created_at': '2014-12-15T12:02:11Z', 'closed_at': '2015-04-03T17:24:41Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 88, 'title': 'Add links to external projects using Duktape', 'state': 'closed', 'created_at': '2014-12-09T15:06:20Z', 'closed_at': '2014-12-29T17:27:49Z', 'labels': []}
+{'issuenumber': 86, 'title': 'Regexp parse error - [^[]]', 'state': 'closed', 'created_at': '2014-12-06T18:49:39Z', 'closed_at': '2016-12-18T02:16:02Z', 'labels': {'name': 'realworld'}}
+{'issuenumber': 84, 'title': 'Implement a string table algorithm which works better with low memory pooled allocations', 'state': 'closed', 'created_at': '2014-11-30T10:57:51Z', 'closed_at': '2014-12-15T11:44:42Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 83, 'title': 'Add support for external string data for better low memory support', 'state': 'closed', 'created_at': '2014-11-30T10:56:05Z', 'closed_at': '2015-01-09T13:32:20Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 82, 'title': '16-bit header fields and pointer compression for better low memory support', 'state': 'closed', 'created_at': '2014-11-30T10:53:29Z', 'closed_at': '2014-12-06T21:58:49Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 81, 'title': 'Add a byte offset for JSON.parse() errors', 'state': 'closed', 'created_at': '2014-11-30T10:51:52Z', 'closed_at': '2014-11-30T10:51:57Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 80, 'title': 'Add lightweight function (lightfunc) type to reduce memory usage', 'state': 'closed', 'created_at': '2014-11-23T10:59:26Z', 'closed_at': '2014-11-23T11:01:06Z', 'labels': {'name': 'api'}}
+{'issuenumber': 79, 'title': 'Make Function.prototype.name writable so that user code can set Duktape/C function "name"', 'state': 'closed', 'created_at': '2014-11-23T10:11:13Z', 'closed_at': '2014-11-23T10:21:06Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 76, 'title': "Allocation API isn't as flexible as Lua's", 'state': 'closed', 'created_at': '2014-11-14T08:55:26Z', 'closed_at': '2015-03-10T18:46:37Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 75, 'title': 'Add support for using C++ exceptions instead of setjmp/longjmp to support RAII', 'state': 'closed', 'created_at': '2014-11-14T07:49:40Z', 'closed_at': '2016-01-02T22:11:20Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 73, 'title': 'Add a Wiki for Duktape user and developer support', 'state': 'closed', 'created_at': '2014-11-12T23:06:28Z', 'closed_at': '2015-09-02T22:59:05Z', 'labels': []}
+{'issuenumber': 72, 'title': 'Suggest Stack Overflow "duktape" tag for user Q&A', 'state': 'closed', 'created_at': '2014-11-12T22:35:05Z', 'closed_at': '2014-11-12T22:36:41Z', 'labels': []}
+{'issuenumber': 71, 'title': 'IRC channel #duktape for general discussion', 'state': 'closed', 'created_at': '2014-11-12T22:26:03Z', 'closed_at': '2014-11-12T22:26:15Z', 'labels': []}
+{'issuenumber': 70, 'title': 'README.md missing a couple package dependencies', 'state': 'closed', 'created_at': '2014-11-12T04:00:35Z', 'closed_at': '2014-11-12T04:35:08Z', 'labels': []}
+{'issuenumber': 69, 'title': 'Regular expression parse error - /^\\_/ and /\\\\{/g', 'state': 'closed', 'created_at': '2014-11-08T00:09:57Z', 'closed_at': '2014-11-13T06:51:44Z', 'labels': {'name': 'realworld'}}
+{'issuenumber': 68, 'title': 'JSON.stringify not escaping \\u2028 and \\u2029', 'state': 'closed', 'created_at': '2014-11-05T15:10:45Z', 'closed_at': '2014-11-08T02:09:46Z', 'labels': {'name': 'realworld'}}
+{'issuenumber': 67, 'title': 'Dukweb.js syntax error for a long comma expression', 'state': 'closed', 'created_at': '2014-11-03T14:49:14Z', 'closed_at': '2014-11-07T06:24:44Z', 'labels': []}
+{'issuenumber': 66, 'title': "If  using duk_set_global_object based 0.12.0, we don't use built-in.(Object.create, print etc)", 'state': 'closed', 'created_at': '2014-11-03T14:23:46Z', 'closed_at': '2014-11-07T06:21:40Z', 'labels': []}
+{'issuenumber': 65, 'title': 'Should have duk_errorv(), duk_push_error_objectv() API functions', 'state': 'closed', 'created_at': '2014-11-02T21:38:23Z', 'closed_at': '2014-12-29T13:25:35Z', 'labels': {'name': 'api'}}
+{'issuenumber': 64, 'title': 'Add a duk_config.h header to supply platform specific typedefs and defines', 'state': 'closed', 'created_at': '2014-11-02T18:38:50Z', 'closed_at': '2015-07-24T06:31:14Z', 'labels': {'name': 'portability'}}
+{'issuenumber': 63, 'title': 'Having trouble compiling using C++', 'state': 'closed', 'created_at': '2014-11-02T09:20:47Z', 'closed_at': '2016-01-02T22:13:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 62, 'title': "duktape-1.0.1.tar.xz isn't on website", 'state': 'closed', 'created_at': '2014-11-02T01:38:27Z', 'closed_at': '2014-11-02T05:35:01Z', 'labels': []}
+{'issuenumber': 61, 'title': 'Move file I/O API calls to an optional extra', 'state': 'closed', 'created_at': '2014-10-30T08:44:56Z', 'closed_at': '2016-06-01T20:05:08Z', 'labels': {'name': 'portability'}}
+{'issuenumber': 60, 'title': 'Proposal for new require system', 'state': 'closed', 'created_at': '2014-10-29T17:50:11Z', 'closed_at': '2016-12-18T01:59:20Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 59, 'title': 'Duktape does not build with -DDUK_OPT_NO_PC2LINE.', 'state': 'closed', 'created_at': '2014-10-29T12:01:01Z', 'closed_at': '2014-10-31T13:21:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 58, 'title': 'Stack traces loaded through require() always show duk_bi_global.c as source file', 'state': 'closed', 'created_at': '2014-10-29T11:52:50Z', 'closed_at': '2014-11-08T02:11:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 57, 'title': 'Performance benchmarks', 'state': 'closed', 'created_at': '2014-10-28T00:13:37Z', 'closed_at': '2015-03-16T22:26:15Z', 'labels': {'name': 'performance'}}
+{'issuenumber': 56, 'title': 'Debugging support', 'state': 'closed', 'created_at': '2014-10-27T18:17:09Z', 'closed_at': '2015-02-25T23:56:58Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 55, 'title': 'On Mac OS X _setjmp or sigsetjmp should be used instead of setjmp', 'state': 'closed', 'created_at': '2014-10-26T20:49:12Z', 'closed_at': '2014-12-24T10:04:15Z', 'labels': {'name': 'performance'}}
+{'issuenumber': 53, 'title': 'API call for Object.defineProperty() from C (allows creating property accessors from C)', 'state': 'closed', 'created_at': '2014-10-24T07:48:03Z', 'closed_at': '2015-01-01T22:43:02Z', 'labels': {'name': 'api'}}
+{'issuenumber': 50, 'title': 'Implement  a named property handler & a indexed property handler on the object', 'state': 'closed', 'created_at': '2014-10-21T11:17:04Z', 'closed_at': '2014-10-30T08:58:14Z', 'labels': []}
+{'issuenumber': 49, 'title': 'Adding property to a Duktape/C function object', 'state': 'closed', 'created_at': '2014-10-09T08:06:54Z', 'closed_at': '2014-10-09T08:50:26Z', 'labels': []}
+{'issuenumber': 48, 'title': 'Module id resolve from within modules seems broken', 'state': 'closed', 'created_at': '2014-10-01T09:35:08Z', 'closed_at': '2014-10-01T11:12:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 47, 'title': 'Add some build file examples into the distributable (e.g. CMake, Visual Studio solution, etc)', 'state': 'closed', 'created_at': '2014-09-26T13:14:28Z', 'closed_at': '2022-04-08T18:30:18Z', 'labels': {'name': 'portability'}}
+{'issuenumber': 46, 'title': 'API call to get a borrowed reference to a duk_hobject', 'state': 'closed', 'created_at': '2014-09-21T19:48:55Z', 'closed_at': '2014-11-21T04:11:06Z', 'labels': {'name': 'api'}}
+{'issuenumber': 45, 'title': 'For proxied objects, finalizers will run twice', 'state': 'closed', 'created_at': '2014-09-15T17:26:32Z', 'closed_at': '2014-09-19T23:07:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 43, 'title': 'Cleanups for 1.0 release', 'state': 'closed', 'created_at': '2014-09-09T11:23:10Z', 'closed_at': '2014-10-26T15:04:08Z', 'labels': []}
+{'issuenumber': 42, 'title': 'Allow user to supply a platform specific header for duk_features.h.in', 'state': 'closed', 'created_at': '2014-08-30T14:56:02Z', 'closed_at': '2014-11-02T18:15:00Z', 'labels': []}
+{'issuenumber': 41, 'title': 'Hide indirect Duktape typing (duk_int_t) from the API documentation', 'state': 'closed', 'created_at': '2014-08-30T14:48:56Z', 'closed_at': '2014-10-13T13:52:23Z', 'labels': []}
+{'issuenumber': 40, 'title': 'Duktape should not try to reinvent stdint.h', 'state': 'closed', 'created_at': '2014-08-28T12:18:15Z', 'closed_at': '2014-08-30T17:59:03Z', 'labels': []}
+{'issuenumber': 39, 'title': 'Invalid decimal escape regex parse error', 'state': 'closed', 'created_at': '2014-08-25T19:54:24Z', 'closed_at': '2014-08-30T18:09:25Z', 'labels': []}
+{'issuenumber': 36, 'title': 'Build as .so - guide update on duktape.h inclusion', 'state': 'closed', 'created_at': '2014-08-24T15:20:31Z', 'closed_at': '2014-09-24T21:28:37Z', 'labels': []}
+{'issuenumber': 35, 'title': 'Duktape has no Spidermonkey equivalent of JS_SetPrivate()', 'state': 'closed', 'created_at': '2014-08-20T14:52:20Z', 'closed_at': '2014-08-21T07:19:54Z', 'labels': []}
+{'issuenumber': 34, 'title': 'Setting object prototype from C code', 'state': 'closed', 'created_at': '2014-08-19T11:00:17Z', 'closed_at': '2014-08-22T20:49:08Z', 'labels': []}
+{'issuenumber': 33, 'title': 'function name in c-function objects', 'state': 'closed', 'created_at': '2014-08-09T19:43:40Z', 'closed_at': '2014-08-09T19:43:59Z', 'labels': []}
+{'issuenumber': 28, 'title': 'duk_require_xxx little more verbose error string', 'state': 'closed', 'created_at': '2014-08-04T16:39:18Z', 'closed_at': '2015-11-24T14:48:37Z', 'labels': []}
+{'issuenumber': 27, 'title': 'Ability to load bytecode', 'state': 'closed', 'created_at': '2014-07-25T22:01:04Z', 'closed_at': '2015-06-04T11:40:03Z', 'labels': {'name': 'api'}}
+{'issuenumber': 26, 'title': 'valueOf over-ride and boolean test', 'state': 'closed', 'created_at': '2014-07-19T21:43:17Z', 'closed_at': '2014-07-19T22:07:22Z', 'labels': []}
+{'issuenumber': 25, 'title': 'Proxy > indexer', 'state': 'closed', 'created_at': '2014-07-07T13:13:50Z', 'closed_at': '2014-07-07T13:24:49Z', 'labels': []}
+{'issuenumber': 24, 'title': 'Proxy > RHS > private values', 'state': 'closed', 'created_at': '2014-07-05T17:15:17Z', 'closed_at': '2014-07-05T17:46:40Z', 'labels': []}
+{'issuenumber': 23, 'title': 'A way to redirect stdout and stderr to a callback', 'state': 'closed', 'created_at': '2014-07-04T13:23:26Z', 'closed_at': '2016-06-11T23:14:43Z', 'labels': {'name': 'api'}}
+{'issuenumber': 22, 'title': 'Virtual Proxy > keys,iterator,ownProperties > different handler or just another property?', 'state': 'closed', 'created_at': '2014-07-01T23:11:42Z', 'closed_at': '2014-07-03T13:37:46Z', 'labels': []}
+{'issuenumber': 21, 'title': 'Proxy > virtual/lazy > get handler > function > Q. what to return?', 'state': 'closed', 'created_at': '2014-06-26T14:51:08Z', 'closed_at': '2014-06-26T15:08:40Z', 'labels': []}
+{'issuenumber': 19, 'title': 'Regexp parse error - dollar escape /\\$/', 'state': 'closed', 'created_at': '2014-06-20T18:00:16Z', 'closed_at': '2014-06-21T09:21:05Z', 'labels': []}
+{'issuenumber': 18, 'title': 'Porting Makefile to CMake to support Win and MacOSX ?', 'state': 'closed', 'created_at': '2014-06-20T13:37:14Z', 'closed_at': '2014-09-26T13:15:13Z', 'labels': []}
+{'issuenumber': 17, 'title': 'Compile error on 0.10.0 win7/x64/VS2013', 'state': 'closed', 'created_at': '2014-06-20T13:32:14Z', 'closed_at': '2014-06-23T10:48:04Z', 'labels': []}
+{'issuenumber': 16, 'title': 'Binding a C function to an object property getter?', 'state': 'closed', 'created_at': '2014-06-17T21:23:59Z', 'closed_at': '2014-06-21T09:14:59Z', 'labels': []}
+{'issuenumber': 15, 'title': 'Crash in duk_create_heap_default() - Win7/x64/VS2010', 'state': 'closed', 'created_at': '2014-06-17T18:03:10Z', 'closed_at': '2014-06-29T18:43:55Z', 'labels': []}
+{'issuenumber': 14, 'title': 'API method to call constructor', 'state': 'closed', 'created_at': '2014-06-14T15:43:44Z', 'closed_at': '2014-06-14T17:22:18Z', 'labels': []}
+{'issuenumber': 13, 'title': 'API method to set property setter', 'state': 'closed', 'created_at': '2014-06-08T19:48:31Z', 'closed_at': '2014-06-09T14:07:18Z', 'labels': []}
+{'issuenumber': 12, 'title': 'Thoughts around using the regular expression parser independently.', 'state': 'closed', 'created_at': '2014-06-08T16:57:27Z', 'closed_at': '2014-06-10T00:32:50Z', 'labels': []}
+{'issuenumber': 11, 'title': 'Multiple issues with emscripten tests: typedarray2, regexp syntax, parseJSFunc', 'state': 'closed', 'created_at': '2014-06-02T07:42:29Z', 'closed_at': '2014-08-30T18:12:25Z', 'labels': []}
+{'issuenumber': 10, 'title': 'Crash in duk_push_vsprintf (on x86_64)', 'state': 'closed', 'created_at': '2014-05-27T21:05:57Z', 'closed_at': '2014-05-28T15:11:39Z', 'labels': []}
+{'issuenumber': 8, 'title': 'Tail call issues', 'state': 'closed', 'created_at': '2014-05-06T15:52:58Z', 'closed_at': '2014-05-08T05:54:46Z', 'labels': []}
+{'issuenumber': 6, 'title': 'Feature request: Print stack to stdout', 'state': 'closed', 'created_at': '2014-05-02T06:42:52Z', 'closed_at': '2014-06-09T19:42:55Z', 'labels': []}
+{'issuenumber': 4, 'title': '-pedantic flag causing build break', 'state': 'closed', 'created_at': '2014-04-17T09:02:21Z', 'closed_at': '2014-04-23T22:42:05Z', 'labels': []}
+{'issuenumber': 3, 'title': 'eventloop extra arguments', 'state': 'closed', 'created_at': '2014-04-16T23:32:06Z', 'closed_at': '2014-04-21T19:54:00Z', 'labels': []}

@@ -1,0 +1,327 @@
+{'issuenumber': 549, 'title': 'import sentencepiece gives error', 'state': 'closed', 'created_at': '2020-09-28T21:08:12Z', 'closed_at': '2020-09-28T21:18:38Z', 'labels': []}
+{'issuenumber': 548, 'title': 'Is spm_decode necessary？', 'state': 'closed', 'created_at': '2020-09-28T15:35:35Z', 'closed_at': '2020-10-01T04:29:39Z', 'labels': []}
+{'issuenumber': 547, 'title': 'Segmentation is different for two languages for the same joined vocabulary', 'state': 'closed', 'created_at': '2020-09-25T18:42:58Z', 'closed_at': '2021-08-12T15:38:13Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 546, 'title': 'How to set running params(mining_sentence_size/training_sentence_size/seed_sentencepiece_size) while datasets have more than 100M sentences?', 'state': 'closed', 'created_at': '2020-09-23T08:02:41Z', 'closed_at': '2021-01-10T06:50:17Z', 'labels': []}
+{'issuenumber': 545, 'title': 'Sentence Piece in English', 'state': 'closed', 'created_at': '2020-09-21T09:43:17Z', 'closed_at': '2020-10-13T04:21:26Z', 'labels': []}
+{'issuenumber': 544, 'title': 'How can I install the sentencepiece using pip with ppc64le-architecture CPU?', 'state': 'closed', 'created_at': '2020-09-21T06:42:12Z', 'closed_at': '2020-10-14T05:06:46Z', 'labels': []}
+{'issuenumber': 543, 'title': 'Option to set log level. (identity normalization is really verbose)', 'state': 'closed', 'created_at': '2020-09-17T15:22:09Z', 'closed_at': '2020-10-14T05:09:11Z', 'labels': []}
+{'issuenumber': 540, 'title': 'reproducibility of subword regularization', 'state': 'closed', 'created_at': '2020-09-14T10:46:00Z', 'closed_at': '2020-10-24T06:05:46Z', 'labels': []}
+{'issuenumber': 539, 'title': 'Can I add new user symbol to pretrained SPM model? (only spm_encode use)', 'state': 'closed', 'created_at': '2020-09-08T18:50:47Z', 'closed_at': '2020-09-09T04:54:28Z', 'labels': []}
+{'issuenumber': 538, 'title': 'Cannot parse --input_sentence_size when the given value exceeds int32 maximum value', 'state': 'closed', 'created_at': '2020-09-05T00:09:54Z', 'closed_at': '2021-01-08T09:44:13Z', 'labels': []}
+{'issuenumber': 536, 'title': '[Feature request] Is there a way to input a file for the custom and control symbols?', 'state': 'closed', 'created_at': '2020-09-01T02:24:14Z', 'closed_at': '2020-10-14T05:09:36Z', 'labels': []}
+{'issuenumber': 535, 'title': 'How to use BPE-Dropout?', 'state': 'closed', 'created_at': '2020-08-28T23:12:40Z', 'closed_at': '2022-05-29T04:14:36Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 533, 'title': 'CMake install target fails to find sentencepiece.pc when included as a subproject', 'state': 'closed', 'created_at': '2020-08-21T17:58:51Z', 'closed_at': '2020-09-06T11:13:10Z', 'labels': []}
+{'issuenumber': 532, 'title': 'Confusion with SP vocabularies', 'state': 'closed', 'created_at': '2020-08-21T17:42:45Z', 'closed_at': '2021-01-10T07:52:36Z', 'labels': []}
+{'issuenumber': 531, 'title': 'Vocabulary generation no longer works?', 'state': 'closed', 'created_at': '2020-08-21T17:38:59Z', 'closed_at': '2020-10-05T07:39:17Z', 'labels': []}
+{'issuenumber': 529, 'title': 'train tokenization model with or without punctuations?', 'state': 'closed', 'created_at': '2020-08-19T03:44:30Z', 'closed_at': '2020-10-13T04:48:19Z', 'labels': []}
+{'issuenumber': 528, 'title': 'Syd:aloc keeps crashing', 'state': 'closed', 'created_at': '2020-08-12T21:38:28Z', 'closed_at': '2020-09-06T11:02:22Z', 'labels': []}
+{'issuenumber': 526, 'title': '--escape_whitespaces=false RuntimeError', 'state': 'closed', 'created_at': '2020-07-29T11:32:01Z', 'closed_at': '2020-10-13T04:12:32Z', 'labels': []}
+{'issuenumber': 525, 'title': 'Oh, i think i have figure out this problem.', 'state': 'closed', 'created_at': '2020-07-29T10:52:21Z', 'closed_at': '2020-07-29T10:52:37Z', 'labels': []}
+{'issuenumber': 524, 'title': "Could we don't consider the whitespace during the training phase.", 'state': 'closed', 'created_at': '2020-07-29T07:35:24Z', 'closed_at': '2020-12-28T16:57:58Z', 'labels': []}
+{'issuenumber': 523, 'title': 'Possible to port underlying model to Java?', 'state': 'closed', 'created_at': '2020-07-27T19:28:53Z', 'closed_at': '2020-12-28T16:50:39Z', 'labels': []}
+{'issuenumber': 521, 'title': 'How to SampleEncode with a specific random state?', 'state': 'closed', 'created_at': '2020-07-22T08:02:24Z', 'closed_at': '2020-07-23T02:21:33Z', 'labels': []}
+{'issuenumber': 520, 'title': 'Is there any way to perform non-destructive tokenization?', 'state': 'closed', 'created_at': '2020-07-22T04:33:41Z', 'closed_at': '2020-07-23T02:28:41Z', 'labels': []}
+{'issuenumber': 519, 'title': 'Training Creates Float Number Vocab', 'state': 'closed', 'created_at': '2020-07-08T10:48:04Z', 'closed_at': '2020-07-09T04:11:50Z', 'labels': []}
+{'issuenumber': 518, 'title': 'Allow regex for user-defined symbols', 'state': 'closed', 'created_at': '2020-07-08T10:07:21Z', 'closed_at': '2020-07-09T04:21:07Z', 'labels': []}
+{'issuenumber': 517, 'title': '/sentencepiece_1581963804834/work/src/trainer_interface.cc(336) [!sentences_.empty()] ', 'state': 'closed', 'created_at': '2020-07-03T17:26:16Z', 'closed_at': '2020-12-28T16:44:37Z', 'labels': []}
+{'issuenumber': 516, 'title': 'My training crashes with large corpus.', 'state': 'closed', 'created_at': '2020-06-27T08:56:10Z', 'closed_at': '2020-09-06T11:06:50Z', 'labels': []}
+{'issuenumber': 513, 'title': 'undefined symbol: FLAGS_minloglevel', 'state': 'closed', 'created_at': '2020-06-24T22:59:04Z', 'closed_at': '2020-10-14T05:10:04Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 512, 'title': 'compilation issues', 'state': 'closed', 'created_at': '2020-06-24T21:23:33Z', 'closed_at': '2021-12-15T08:46:06Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 511, 'title': 'SentenceIterator and trainer_spec.input() must be exclusive.', 'state': 'closed', 'created_at': '2020-06-24T09:02:45Z', 'closed_at': '2020-06-25T10:08:01Z', 'labels': []}
+{'issuenumber': 510, 'title': 'unk_surface always', 'state': 'closed', 'created_at': '2020-06-22T10:50:19Z', 'closed_at': '2020-06-22T16:12:58Z', 'labels': []}
+{'issuenumber': 508, 'title': 'spm_encode an entire file using Python API', 'state': 'closed', 'created_at': '2020-06-19T21:20:34Z', 'closed_at': '2020-06-22T16:09:13Z', 'labels': []}
+{'issuenumber': 507, 'title': 'y', 'state': 'closed', 'created_at': '2020-06-10T11:36:31Z', 'closed_at': '2020-06-16T00:44:23Z', 'labels': []}
+{'issuenumber': 506, 'title': 'Question about Lattice::PopulateMarginal() in unigram_model.cc', 'state': 'closed', 'created_at': '2020-06-09T08:24:42Z', 'closed_at': '2020-06-10T05:01:15Z', 'labels': []}
+{'issuenumber': 505, 'title': '`sentencepiece==0.1.92` seems breaking something', 'state': 'closed', 'created_at': '2020-06-09T00:24:39Z', 'closed_at': '2021-01-08T15:59:48Z', 'labels': []}
+{'issuenumber': 504, 'title': 'Mac whl has mix of Mach-O and ELF binaries', 'state': 'closed', 'created_at': '2020-06-08T20:24:27Z', 'closed_at': '2020-10-13T04:40:45Z', 'labels': []}
+{'issuenumber': 503, 'title': 'Support custom tokens, symbols', 'state': 'closed', 'created_at': '2020-06-06T00:57:01Z', 'closed_at': '2020-06-06T06:37:41Z', 'labels': []}
+{'issuenumber': 502, 'title': 'Line length limit when using Python module', 'state': 'closed', 'created_at': '2020-06-03T21:39:18Z', 'closed_at': '2020-06-05T15:51:14Z', 'labels': []}
+{'issuenumber': 501, 'title': 'Unknown Field Name Error', 'state': 'closed', 'created_at': '2020-05-30T19:20:06Z', 'closed_at': '2020-06-08T09:04:14Z', 'labels': []}
+{'issuenumber': 500, 'title': "TypeError: __init__() got an unexpected keyword argument 'model_file'", 'state': 'closed', 'created_at': '2020-05-29T13:26:34Z', 'closed_at': '2020-05-29T16:04:33Z', 'labels': []}
+{'issuenumber': 499, 'title': 'Sentencepiece input file format', 'state': 'closed', 'created_at': '2020-05-29T08:11:25Z', 'closed_at': '2020-05-29T16:09:10Z', 'labels': []}
+{'issuenumber': 498, 'title': "How to make several characters as a whole 'character' (not token or piece) ?", 'state': 'closed', 'created_at': '2020-05-27T17:18:06Z', 'closed_at': '2020-05-28T03:15:29Z', 'labels': []}
+{'issuenumber': 497, 'title': '[Minor Bug] CLI flagging nbest_size = -1', 'state': 'closed', 'created_at': '2020-05-27T04:19:24Z', 'closed_at': '2020-05-28T15:47:17Z', 'labels': []}
+{'issuenumber': 496, 'title': 'Deterministic sentencepiece model', 'state': 'closed', 'created_at': '2020-05-26T06:38:40Z', 'closed_at': '2020-09-06T11:05:56Z', 'labels': []}
+{'issuenumber': 495, 'title': 'TypeError: SentencePieceTrainer_train() takes no keyword arguments', 'state': 'closed', 'created_at': '2020-05-25T21:32:25Z', 'closed_at': '2020-05-26T00:42:46Z', 'labels': []}
+{'issuenumber': 493, 'title': 'Force tokenizer to ignore special characters', 'state': 'closed', 'created_at': '2020-05-22T20:19:15Z', 'closed_at': '2020-05-23T15:36:49Z', 'labels': []}
+{'issuenumber': 492, 'title': 'Using --minloglevel argument in v0.1.90+ causes an error', 'state': 'closed', 'created_at': '2020-05-22T12:54:46Z', 'closed_at': '2020-10-14T05:07:52Z', 'labels': []}
+{'issuenumber': 491, 'title': 'What does `--accept_language` actually do?', 'state': 'closed', 'created_at': '2020-05-21T14:39:48Z', 'closed_at': '2020-05-22T00:54:21Z', 'labels': []}
+{'issuenumber': 490, 'title': 'I want to use sentencepiece command (spm_encode) in google colaboratory', 'state': 'closed', 'created_at': '2020-05-21T08:02:49Z', 'closed_at': '2020-05-21T09:39:59Z', 'labels': []}
+{'issuenumber': 489, 'title': 'Working on folders (Training)', 'state': 'closed', 'created_at': '2020-05-20T13:27:16Z', 'closed_at': '2020-05-20T15:41:21Z', 'labels': []}
+{'issuenumber': 488, 'title': 'How to remove "_" from the vocab terms of the trained model?', 'state': 'closed', 'created_at': '2020-05-19T10:51:37Z', 'closed_at': '2020-05-19T11:56:53Z', 'labels': []}
+{'issuenumber': 487, 'title': '[sentencepiece-0.1.90] libicu related build error', 'state': 'closed', 'created_at': '2020-05-19T04:21:52Z', 'closed_at': '2020-05-20T09:29:45Z', 'labels': []}
+{'issuenumber': 485, 'title': 'How should I change the value of a SentencePieceProcessor?', 'state': 'closed', 'created_at': '2020-05-04T16:39:04Z', 'closed_at': '2020-05-16T03:24:59Z', 'labels': []}
+{'issuenumber': 484, 'title': 'Getting error: libc++abi.dylib: terminating with uncaught exception of type std::length_error: vector ', 'state': 'closed', 'created_at': '2020-05-04T09:33:00Z', 'closed_at': '2020-05-08T02:49:57Z', 'labels': []}
+{'issuenumber': 483, 'title': 'SentencePiece for sentence boundary detection?', 'state': 'closed', 'created_at': '2020-04-30T17:37:04Z', 'closed_at': '2020-05-08T02:47:15Z', 'labels': []}
+{'issuenumber': 482, 'title': "Microsoft Visual C++ 14.0 isn't detected in conda environments", 'state': 'closed', 'created_at': '2020-04-27T16:21:16Z', 'closed_at': '2020-04-28T04:10:06Z', 'labels': []}
+{'issuenumber': 480, 'title': 'How to get the frequency of a subword ?', 'state': 'closed', 'created_at': '2020-04-26T07:27:18Z', 'closed_at': '2020-04-26T07:58:13Z', 'labels': []}
+{'issuenumber': 479, 'title': 'No package for macOS for python 3.8', 'state': 'closed', 'created_at': '2020-04-22T13:37:04Z', 'closed_at': '2020-04-23T01:34:19Z', 'labels': []}
+{'issuenumber': 478, 'title': 'Deprecation warning due to invalid escape sequences in Python 3.8', 'state': 'closed', 'created_at': '2020-04-20T15:02:45Z', 'closed_at': '2020-04-24T13:39:28Z', 'labels': {'name': 'execution environment'}}
+{'issuenumber': 477, 'title': 'Segfault upon import', 'state': 'closed', 'created_at': '2020-04-18T18:00:56Z', 'closed_at': '2020-04-24T14:08:35Z', 'labels': {'name': 'execution environment'}}
+{'issuenumber': 475, 'title': 'Error when trying to compile _sentencepiece_processor_ops.so against TF 2.2.0rc2', 'state': 'closed', 'created_at': '2020-04-06T22:56:36Z', 'closed_at': '2020-04-24T13:38:56Z', 'labels': {'name': 'execution environment'}}
+{'issuenumber': 474, 'title': 'Using `set_vocabulary` to modify vocabulary', 'state': 'closed', 'created_at': '2020-04-01T17:58:18Z', 'closed_at': '2020-04-23T01:42:58Z', 'labels': []}
+{'issuenumber': 473, 'title': 'Transform vocab file to spm model', 'state': 'closed', 'created_at': '2020-03-31T11:15:45Z', 'closed_at': '2020-04-14T01:15:32Z', 'labels': []}
+{'issuenumber': 472, 'title': "No module named '_sentencepiece'", 'state': 'closed', 'created_at': '2020-03-27T01:26:41Z', 'closed_at': '2020-04-24T14:28:15Z', 'labels': {'name': 'execution environment'}}
+{'issuenumber': 471, 'title': "No so file is found for [1.10.1] from [1.7.0, 1.13.1, 1.10.0, 1.11.0, 1.12.0, 1.9.0, 1.8.0]   ', '.join(versions)))", 'state': 'closed', 'created_at': '2020-03-26T17:24:21Z', 'closed_at': '2020-04-23T03:28:30Z', 'labels': []}
+{'issuenumber': 470, 'title': ': undefined symbol: _ZN10tensorflow12OpDefBuilder5InputENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE', 'state': 'closed', 'created_at': '2020-03-25T09:48:23Z', 'closed_at': '2020-04-24T13:44:26Z', 'labels': {'name': 'execution environment'}}
+{'issuenumber': 469, 'title': 'Missing Mac OSX binaries for Python 3.8', 'state': 'closed', 'created_at': '2020-03-24T11:50:41Z', 'closed_at': '2020-04-24T13:37:52Z', 'labels': {'name': 'execution environment'}}
+{'issuenumber': 468, 'title': 'Version 0.1.84 not hosted on PyPI', 'state': 'closed', 'created_at': '2020-03-20T22:27:37Z', 'closed_at': '2020-04-24T14:26:18Z', 'labels': []}
+{'issuenumber': 467, 'title': "how to add comma ',' to user_defined_symbols", 'state': 'closed', 'created_at': '2020-03-20T08:05:21Z', 'closed_at': '2020-04-23T01:48:13Z', 'labels': []}
+{'issuenumber': 466, 'title': 'How to save and load vocab to index correspondence?', 'state': 'closed', 'created_at': '2020-03-18T06:20:53Z', 'closed_at': '2020-03-18T06:44:48Z', 'labels': []}
+{'issuenumber': 465, 'title': 'How to tokenize sentence to all characters', 'state': 'closed', 'created_at': '2020-03-12T05:19:39Z', 'closed_at': '2020-03-12T07:11:40Z', 'labels': []}
+{'issuenumber': 464, 'title': "module 'sentencepiece' has no attribute 'SentencePieceTrainer'", 'state': 'closed', 'created_at': '2020-03-11T08:46:49Z', 'closed_at': '2020-03-12T01:34:31Z', 'labels': []}
+{'issuenumber': 463, 'title': 'Train model on large MS-MARCO corpus. ', 'state': 'closed', 'created_at': '2020-03-10T15:52:57Z', 'closed_at': '2020-03-12T01:27:28Z', 'labels': []}
+{'issuenumber': 462, 'title': 'Likelihood in the loss computation', 'state': 'closed', 'created_at': '2020-03-09T16:52:28Z', 'closed_at': '2020-03-12T01:51:44Z', 'labels': []}
+{'issuenumber': 461, 'title': 'Query in subword regularization, in readme.', 'state': 'closed', 'created_at': '2020-03-09T16:27:44Z', 'closed_at': '2020-03-12T01:29:18Z', 'labels': []}
+{'issuenumber': 460, 'title': 'Encounter error message while load the pacakge:', 'state': 'closed', 'created_at': '2020-03-06T05:05:21Z', 'closed_at': '2020-04-24T13:49:14Z', 'labels': {'name': 'execution environment'}}
+{'issuenumber': 459, 'title': 'How to deal with space in custom symbols?', 'state': 'closed', 'created_at': '2020-03-01T15:05:52Z', 'closed_at': '2020-04-23T01:51:13Z', 'labels': []}
+{'issuenumber': 458, 'title': "building '_sentencepiece' extension error: [WinError 2] 系统找不到指定的文件", 'state': 'closed', 'created_at': '2020-02-29T05:22:07Z', 'closed_at': '2020-03-12T01:34:59Z', 'labels': []}
+{'issuenumber': 456, 'title': 'Library version selection breaks for TF 2.1', 'state': 'closed', 'created_at': '2020-02-26T18:15:09Z', 'closed_at': '2020-04-24T13:40:16Z', 'labels': {'name': 'execution environment'}}
+{'issuenumber': 455, 'title': 'Question: BPE & Unicode Points', 'state': 'closed', 'created_at': '2020-02-24T10:46:07Z', 'closed_at': '2020-04-23T02:01:52Z', 'labels': []}
+{'issuenumber': 454, 'title': 'what do these two logs mean? Thanks', 'state': 'closed', 'created_at': '2020-02-22T13:42:51Z', 'closed_at': '2020-02-25T03:39:22Z', 'labels': []}
+{'issuenumber': 453, 'title': 'DLL Load Failed : Access is denied', 'state': 'closed', 'created_at': '2020-02-17T11:46:11Z', 'closed_at': '2020-02-26T02:59:06Z', 'labels': []}
+{'issuenumber': 452, 'title': 'Issue in installing.', 'state': 'closed', 'created_at': '2020-02-16T19:03:38Z', 'closed_at': '2020-05-24T02:23:38Z', 'labels': {'name': 'execution environment'}}
+{'issuenumber': 451, 'title': 'VERSIONS', 'state': 'closed', 'created_at': '2020-02-14T08:43:41Z', 'closed_at': '2020-02-14T10:57:58Z', 'labels': []}
+{'issuenumber': 450, 'title': 'can\'t access file on "My Drive", despite quotes change', 'state': 'closed', 'created_at': '2020-02-03T12:19:40Z', 'closed_at': '2020-05-13T04:19:18Z', 'labels': []}
+{'issuenumber': 449, 'title': 'Error building in Raspberry Pi', 'state': 'closed', 'created_at': '2020-02-03T05:00:08Z', 'closed_at': '2020-02-07T06:13:57Z', 'labels': []}
+{'issuenumber': 448, 'title': 'Segmentation Fault loading USE Xling Embeddings with TF==1.15.0', 'state': 'closed', 'created_at': '2020-01-28T15:30:00Z', 'closed_at': '2020-04-24T13:50:23Z', 'labels': {'name': 'execution environment'}}
+{'issuenumber': 447, 'title': 'model mixes spanish Accents', 'state': 'closed', 'created_at': '2020-01-23T21:09:43Z', 'closed_at': '2020-04-23T02:10:32Z', 'labels': []}
+{'issuenumber': 446, 'title': 'Get sentencepiece vocab file from tf model', 'state': 'closed', 'created_at': '2020-01-20T18:11:02Z', 'closed_at': '2020-03-12T02:00:59Z', 'labels': []}
+{'issuenumber': 445, 'title': 'Integrating with OSS-Fuzz', 'state': 'closed', 'created_at': '2020-01-17T15:21:23Z', 'closed_at': '2020-06-29T19:59:53Z', 'labels': []}
+{'issuenumber': 444, 'title': 'Get vocab and merges file from model file', 'state': 'closed', 'created_at': '2020-01-16T09:44:20Z', 'closed_at': '2020-01-16T11:45:45Z', 'labels': []}
+{'issuenumber': 441, 'title': 'Specify the delimiter to segment the sentence at starting of training of BPE?', 'state': 'closed', 'created_at': '2020-01-13T13:13:52Z', 'closed_at': '2020-04-23T01:59:35Z', 'labels': []}
+{'issuenumber': 440, 'title': 'Unable to import tf_sentencepiece with tensorflow 1.15.0', 'state': 'closed', 'created_at': '2020-01-09T15:43:49Z', 'closed_at': '2020-04-24T13:40:43Z', 'labels': {'name': 'execution environment'}}
+{'issuenumber': 439, 'title': 'Is there a way to train on an in-memory corpus in Python?', 'state': 'closed', 'created_at': '2020-01-08T02:21:15Z', 'closed_at': '2020-01-08T06:33:29Z', 'labels': []}
+{'issuenumber': 438, 'title': 'Extra piece preceding user_defined_symbol encoding', 'state': 'closed', 'created_at': '2020-01-06T23:55:10Z', 'closed_at': '2020-01-08T06:30:56Z', 'labels': []}
+{'issuenumber': 437, 'title': 'no valid symbol found', 'state': 'closed', 'created_at': '2019-12-27T20:48:41Z', 'closed_at': '2020-04-23T01:57:32Z', 'labels': []}
+{'issuenumber': 436, 'title': 'installation error !', 'state': 'closed', 'created_at': '2019-12-25T04:17:58Z', 'closed_at': '2019-12-26T05:18:50Z', 'labels': []}
+{'issuenumber': 435, 'title': 'Would you please support BPE dropout?', 'state': 'closed', 'created_at': '2019-12-20T05:20:24Z', 'closed_at': '2019-12-21T06:29:23Z', 'labels': []}
+{'issuenumber': 434, 'title': 'build subword dictionary MANUALLY', 'state': 'closed', 'created_at': '2019-12-18T00:58:14Z', 'closed_at': '2019-12-20T09:44:38Z', 'labels': []}
+{'issuenumber': 433, 'title': 'PyPI is missing 0.1.85 wheels for Python 3.6 and later', 'state': 'closed', 'created_at': '2019-12-16T15:09:37Z', 'closed_at': '2019-12-16T16:00:52Z', 'labels': []}
+{'issuenumber': 432, 'title': 'compilation issues', 'state': 'closed', 'created_at': '2019-12-16T10:50:04Z', 'closed_at': '2020-06-08T16:25:57Z', 'labels': {'name': 'execution environment'}}
+{'issuenumber': 431, 'title': 'Internal: trainer_interface.cc(540) output->WriteLine(os.str())', 'state': 'closed', 'created_at': '2019-12-16T06:14:38Z', 'closed_at': '2020-01-03T06:52:56Z', 'labels': []}
+{'issuenumber': 430, 'title': 'issue using tf-sentencepiece with tf2 tf.data.Datasets', 'state': 'closed', 'created_at': '2019-12-09T19:21:15Z', 'closed_at': '2020-10-13T04:43:40Z', 'labels': {'name': 'execution environment'}}
+{'issuenumber': 429, 'title': 'Python 3.8 wheels for Windows', 'state': 'closed', 'created_at': '2019-12-08T15:12:23Z', 'closed_at': '2019-12-16T16:02:56Z', 'labels': []}
+{'issuenumber': 428, 'title': 'R package wrapping sentencepiece at https://github.com/bnosac/sentencepiece', 'state': 'closed', 'created_at': '2019-12-06T17:25:01Z', 'closed_at': '2019-12-16T10:27:23Z', 'labels': []}
+{'issuenumber': 427, 'title': '[Question] Is NFKC normalization applied when a tsv rule is used?', 'state': 'closed', 'created_at': '2019-12-03T14:48:36Z', 'closed_at': '2019-12-05T11:23:31Z', 'labels': []}
+{'issuenumber': 426, 'title': 'How to extend tokens dictionary?', 'state': 'closed', 'created_at': '2019-11-19T16:00:43Z', 'closed_at': '2019-11-20T01:45:32Z', 'labels': []}
+{'issuenumber': 425, 'title': 'do_lower_case in the sentencepiece model files', 'state': 'closed', 'created_at': '2019-11-19T15:52:01Z', 'closed_at': '2019-11-20T01:51:44Z', 'labels': []}
+{'issuenumber': 424, 'title': 'brew install sentencepiece', 'state': 'closed', 'created_at': '2019-11-19T03:00:25Z', 'closed_at': '2019-11-20T08:18:11Z', 'labels': []}
+{'issuenumber': 423, 'title': 'Whitespace scaping', 'state': 'closed', 'created_at': '2019-11-15T10:29:15Z', 'closed_at': '2019-11-18T14:28:46Z', 'labels': []}
+{'issuenumber': 422, 'title': 'how to save sentencepiece model (except training time)', 'state': 'closed', 'created_at': '2019-11-13T02:24:11Z', 'closed_at': '2019-11-16T07:12:03Z', 'labels': []}
+{'issuenumber': 421, 'title': 'Not merging accents with alphabets when running on normalized sentences', 'state': 'closed', 'created_at': '2019-11-12T11:46:21Z', 'closed_at': '2019-11-18T06:29:21Z', 'labels': []}
+{'issuenumber': 419, 'title': 'SentencePieceTrainer.Train does not work with filepaths containing blank spaces', 'state': 'closed', 'created_at': '2019-11-06T20:14:40Z', 'closed_at': '2020-05-13T04:19:57Z', 'labels': []}
+{'issuenumber': 418, 'title': '0.1.84 PyPI release', 'state': 'closed', 'created_at': '2019-11-03T04:11:42Z', 'closed_at': '2019-12-16T16:03:46Z', 'labels': []}
+{'issuenumber': 415, 'title': 'Optimal vocabulary size', 'state': 'closed', 'created_at': '2019-10-30T07:31:43Z', 'closed_at': '2019-11-06T06:28:19Z', 'labels': []}
+{'issuenumber': 414, 'title': 'Request:  Tensorflow 1.15.0 support', 'state': 'closed', 'created_at': '2019-10-22T21:07:23Z', 'closed_at': '2019-12-16T16:03:10Z', 'labels': []}
+{'issuenumber': 413, 'title': 'ERR on windows   when pip install sentencepiece  ', 'state': 'closed', 'created_at': '2019-10-21T11:28:14Z', 'closed_at': '2019-12-16T16:05:16Z', 'labels': []}
+{'issuenumber': 412, 'title': 'Regarding `character_coverage`', 'state': 'closed', 'created_at': '2019-10-18T14:08:00Z', 'closed_at': '2019-10-25T18:00:51Z', 'labels': []}
+{'issuenumber': 411, 'title': 'problem installing sentencepiece from source', 'state': 'closed', 'created_at': '2019-10-16T15:17:49Z', 'closed_at': '2019-12-16T16:04:34Z', 'labels': []}
+{'issuenumber': 410, 'title': 'Fails to load latest version of .so when module installed in user dir', 'state': 'closed', 'created_at': '2019-10-10T19:11:26Z', 'closed_at': '2019-12-25T00:18:09Z', 'labels': []}
+{'issuenumber': 409, 'title': 'Pip install does not accept symbol flags', 'state': 'closed', 'created_at': '2019-10-08T10:07:45Z', 'closed_at': '2019-10-08T10:54:13Z', 'labels': []}
+{'issuenumber': 407, 'title': 'Installation fails on a Power system', 'state': 'closed', 'created_at': '2019-10-04T14:24:39Z', 'closed_at': '2019-11-06T06:32:00Z', 'labels': []}
+{'issuenumber': 406, 'title': 'Explanation of encoding method', 'state': 'closed', 'created_at': '2019-09-30T18:10:57Z', 'closed_at': '2019-10-02T01:35:57Z', 'labels': []}
+{'issuenumber': 405, 'title': "terminate called after throwing an instance of 'std::bad_alloc'", 'state': 'closed', 'created_at': '2019-09-30T15:48:14Z', 'closed_at': '2020-05-13T04:28:06Z', 'labels': []}
+{'issuenumber': 404, 'title': 'Trying to understanding symbol "▁" (U+2581) at the start of the Japanese sentences', 'state': 'closed', 'created_at': '2019-09-19T04:12:32Z', 'closed_at': '2019-10-02T01:37:53Z', 'labels': []}
+{'issuenumber': 403, 'title': 'pip install failed on linux cluster', 'state': 'closed', 'created_at': '2019-09-17T02:58:19Z', 'closed_at': '2020-10-14T05:11:36Z', 'labels': {'name': 'execution environment'}}
+{'issuenumber': 402, 'title': 'How to apply subword regularization(sampling) to training NMT?', 'state': 'closed', 'created_at': '2019-09-16T13:50:42Z', 'closed_at': '2020-04-23T02:23:53Z', 'labels': []}
+{'issuenumber': 401, 'title': 'handling case sensitivity?', 'state': 'closed', 'created_at': '2019-09-12T22:43:50Z', 'closed_at': '2019-09-12T22:56:16Z', 'labels': []}
+{'issuenumber': 399, 'title': "Access to trained models' parameters experimented on NMT experiments.", 'state': 'closed', 'created_at': '2019-09-11T09:28:40Z', 'closed_at': '2020-04-23T02:31:55Z', 'labels': []}
+{'issuenumber': 398, 'title': 'How to change the user defined symbols without training a vocab model from scratch ?', 'state': 'closed', 'created_at': '2019-09-10T17:50:53Z', 'closed_at': '2019-10-02T01:40:15Z', 'labels': []}
+{'issuenumber': 397, 'title': "Question on how to ensure the generated tokens don't contain spaces in between", 'state': 'closed', 'created_at': '2019-09-07T11:13:18Z', 'closed_at': '2019-09-07T12:10:28Z', 'labels': []}
+{'issuenumber': 396, 'title': 'Question about user_defined_symbols', 'state': 'closed', 'created_at': '2019-09-05T12:39:34Z', 'closed_at': '2020-04-24T17:35:40Z', 'labels': []}
+{'issuenumber': 394, 'title': 'vocab size', 'state': 'closed', 'created_at': '2019-09-03T15:46:53Z', 'closed_at': '2019-09-05T14:16:42Z', 'labels': []}
+{'issuenumber': 393, 'title': 'How to prepare data for embedding layer?', 'state': 'closed', 'created_at': '2019-09-03T14:31:26Z', 'closed_at': '2020-04-23T02:14:30Z', 'labels': []}
+{'issuenumber': 392, 'title': 'Sample Code crashes in Colab on execution.', 'state': 'closed', 'created_at': '2019-09-03T10:35:17Z', 'closed_at': '2020-04-24T14:10:39Z', 'labels': []}
+{'issuenumber': 391, 'title': 'have installed and can not using a spm_encode. I Have try using sudo ldconfig -v', 'state': 'closed', 'created_at': '2019-08-31T20:50:15Z', 'closed_at': '2019-09-04T07:06:03Z', 'labels': []}
+{'issuenumber': 390, 'title': "'SentencepieceEncodeDense' op not found in a tf.data pipeline when training with TPUStrategy with TensorFlow 1.14", 'state': 'closed', 'created_at': '2019-08-31T19:56:19Z', 'closed_at': '2019-09-05T02:56:22Z', 'labels': []}
+{'issuenumber': 389, 'title': 'Ignoring all special characters other than . and comma.', 'state': 'closed', 'created_at': '2019-08-30T12:47:43Z', 'closed_at': '2020-04-23T03:09:31Z', 'labels': []}
+{'issuenumber': 388, 'title': 'Speed of saving and "Making suffix array..."', 'state': 'closed', 'created_at': '2019-08-30T10:20:41Z', 'closed_at': '2019-09-01T02:00:09Z', 'labels': []}
+{'issuenumber': 387, 'title': 'How to pickle a SentencePiece model', 'state': 'closed', 'created_at': '2019-08-29T18:01:41Z', 'closed_at': '2019-08-30T09:45:17Z', 'labels': []}
+{'issuenumber': 386, 'title': "FileNotFoundError: [Errno 2] No such file or directory: '..\\\\VERSION'", 'state': 'closed', 'created_at': '2019-08-27T13:07:05Z', 'closed_at': '2020-04-24T14:05:54Z', 'labels': {'name': 'execution environment'}}
+{'issuenumber': 385, 'title': 'Feature Request: Python Executables for training, encoding and decoding', 'state': 'closed', 'created_at': '2019-08-26T12:54:58Z', 'closed_at': '2022-05-31T04:00:40Z', 'labels': {'name': 'feature request'}}
+{'issuenumber': 383, 'title': 'sentencepiece and tensorflow protoc conflict', 'state': 'closed', 'created_at': '2019-08-23T16:57:35Z', 'closed_at': '2022-05-30T15:14:05Z', 'labels': {'name': 'protobuf'}}
+{'issuenumber': 382, 'title': 'It does not work with tensorflow 2.0.0rc0', 'state': 'closed', 'created_at': '2019-08-23T14:09:29Z', 'closed_at': '2019-08-23T17:02:06Z', 'labels': []}
+{'issuenumber': 381, 'title': 'python 3.7 does not work ', 'state': 'closed', 'created_at': '2019-08-22T19:15:18Z', 'closed_at': '2020-04-24T14:15:17Z', 'labels': []}
+{'issuenumber': 380, 'title': 'Pypi source distribution', 'state': 'closed', 'created_at': '2019-08-20T18:22:43Z', 'closed_at': '2019-08-21T14:55:10Z', 'labels': []}
+{'issuenumber': 379, 'title': 'Request: tensorflow 1.14 support', 'state': 'closed', 'created_at': '2019-08-14T20:41:57Z', 'closed_at': '2019-08-17T00:25:40Z', 'labels': []}
+{'issuenumber': 378, 'title': 'Pip install sentencepiece failure', 'state': 'closed', 'created_at': '2019-08-13T08:56:42Z', 'closed_at': '2019-08-22T03:07:58Z', 'labels': []}
+{'issuenumber': 377, 'title': '`Process finished with exit code -1073741819 (0xC0000005)` without any additional context.', 'state': 'closed', 'created_at': '2019-08-11T20:10:06Z', 'closed_at': '2019-08-18T08:50:38Z', 'labels': []}
+{'issuenumber': 375, 'title': 'Program terminated with an unrecoverable error.', 'state': 'closed', 'created_at': '2019-08-08T02:57:57Z', 'closed_at': '2019-08-15T10:32:25Z', 'labels': []}
+{'issuenumber': 374, 'title': 'spm_encode time complexity ', 'state': 'closed', 'created_at': '2019-08-06T06:12:35Z', 'closed_at': '2019-08-14T05:41:44Z', 'labels': []}
+{'issuenumber': 373, 'title': 'Disabling space, EOS, BOS characters', 'state': 'closed', 'created_at': '2019-08-05T17:12:25Z', 'closed_at': '2019-08-14T05:50:56Z', 'labels': []}
+{'issuenumber': 372, 'title': 'multi language model - segmentatin fault', 'state': 'closed', 'created_at': '2019-08-03T15:06:54Z', 'closed_at': '2019-08-17T00:38:59Z', 'labels': []}
+{'issuenumber': 371, 'title': 'Subword regularization on BPE models', 'state': 'closed', 'created_at': '2019-08-02T00:11:52Z', 'closed_at': '2020-05-20T09:30:24Z', 'labels': []}
+{'issuenumber': 370, 'title': 'Multilingual model - tf_sentencepiece symbol errors', 'state': 'closed', 'created_at': '2019-07-31T19:08:57Z', 'closed_at': '2019-08-17T00:32:45Z', 'labels': []}
+{'issuenumber': 369, 'title': 'How to create a static version of sentencepiece_processor_ops?', 'state': 'closed', 'created_at': '2019-07-27T06:12:57Z', 'closed_at': '2020-10-13T04:45:20Z', 'labels': []}
+{'issuenumber': 368, 'title': 'custom pad_id', 'state': 'closed', 'created_at': '2019-07-22T22:36:33Z', 'closed_at': '2019-08-02T04:18:52Z', 'labels': []}
+{'issuenumber': 367, 'title': 'Releasing tf_sentencepiece recent version as source code', 'state': 'closed', 'created_at': '2019-07-12T19:32:42Z', 'closed_at': '2020-04-24T14:20:23Z', 'labels': []}
+{'issuenumber': 365, 'title': 'Tokenize the sentence ', 'state': 'closed', 'created_at': '2019-07-11T14:01:31Z', 'closed_at': '2019-08-02T04:21:55Z', 'labels': []}
+{'issuenumber': 364, 'title': 'tf_sentencpiece requires GLIBC_2.27 ', 'state': 'closed', 'created_at': '2019-07-10T11:06:20Z', 'closed_at': '2019-08-17T00:32:10Z', 'labels': []}
+{'issuenumber': 363, 'title': 'Not found mining_sentence_size', 'state': 'closed', 'created_at': '2019-07-05T13:52:39Z', 'closed_at': '2019-08-02T04:20:24Z', 'labels': []}
+{'issuenumber': 362, 'title': 'Tokenize pretokenized text using spm model trained on raw text', 'state': 'closed', 'created_at': '2019-07-04T22:24:47Z', 'closed_at': '2019-08-02T04:28:46Z', 'labels': []}
+{'issuenumber': 360, 'title': 'Split numbers into constituent digits', 'state': 'closed', 'created_at': '2019-07-02T14:41:58Z', 'closed_at': '2019-07-02T16:22:21Z', 'labels': []}
+{'issuenumber': 359, 'title': '--input_format=tsv only use frequency count single character frequency ?', 'state': 'closed', 'created_at': '2019-07-02T08:56:30Z', 'closed_at': '2019-08-02T04:29:51Z', 'labels': []}
+{'issuenumber': 358, 'title': "can't install spm_train", 'state': 'closed', 'created_at': '2019-06-28T07:54:22Z', 'closed_at': '2019-07-09T06:41:01Z', 'labels': []}
+{'issuenumber': 357, 'title': 'Installation Error ', 'state': 'closed', 'created_at': '2019-06-27T08:49:53Z', 'closed_at': '2020-05-13T04:29:04Z', 'labels': []}
+{'issuenumber': 356, 'title': "after build the project, run spm_train which doesn't find the input", 'state': 'closed', 'created_at': '2019-06-27T06:38:33Z', 'closed_at': '2020-04-24T14:24:34Z', 'labels': []}
+{'issuenumber': 355, 'title': 'in train.py no module named proto', 'state': 'closed', 'created_at': '2019-06-26T13:47:56Z', 'closed_at': '2019-06-26T14:24:05Z', 'labels': []}
+{'issuenumber': 354, 'title': 'bazel build src:all  issue', 'state': 'closed', 'created_at': '2019-06-25T07:18:07Z', 'closed_at': '2020-05-13T04:29:55Z', 'labels': []}
+{'issuenumber': 353, 'title': 'the python lib link is gone', 'state': 'closed', 'created_at': '2019-06-25T07:15:34Z', 'closed_at': '2020-05-13T04:30:12Z', 'labels': []}
+{'issuenumber': 352, 'title': 'spm_train: command not found', 'state': 'closed', 'created_at': '2019-06-25T07:12:16Z', 'closed_at': '2020-05-13T04:30:35Z', 'labels': []}
+{'issuenumber': 351, 'title': 'IsValidSentencePiece() will filter substring which end with ▁, by design?', 'state': 'closed', 'created_at': '2019-06-24T09:46:47Z', 'closed_at': '2019-06-25T14:28:34Z', 'labels': []}
+{'issuenumber': 350, 'title': 'Support for tf_sentencepiece under Windows', 'state': 'closed', 'created_at': '2019-06-20T17:05:19Z', 'closed_at': '2019-06-25T14:20:39Z', 'labels': []}
+{'issuenumber': 349, 'title': 'Python documentation?', 'state': 'closed', 'created_at': '2019-06-19T17:36:03Z', 'closed_at': '2020-05-13T04:29:16Z', 'labels': []}
+{'issuenumber': 348, 'title': 'Using vocabulary generated by sentencepiece', 'state': 'closed', 'created_at': '2019-06-18T18:29:43Z', 'closed_at': '2019-06-18T20:38:22Z', 'labels': []}
+{'issuenumber': 347, 'title': 'protobuf.bzl has errors', 'state': 'closed', 'created_at': '2019-06-18T12:43:11Z', 'closed_at': '2019-06-19T14:05:32Z', 'labels': []}
+{'issuenumber': 346, 'title': 'Possible to have arm support for Android?', 'state': 'closed', 'created_at': '2019-06-18T09:27:05Z', 'closed_at': '2019-07-08T08:10:54Z', 'labels': []}
+{'issuenumber': 345, 'title': 'SenetencePiece in OpenNMT-py', 'state': 'closed', 'created_at': '2019-06-13T06:28:26Z', 'closed_at': '2020-05-16T03:29:17Z', 'labels': []}
+{'issuenumber': 344, 'title': 'Tensorflow Support', 'state': 'closed', 'created_at': '2019-06-10T09:38:41Z', 'closed_at': '2020-04-24T14:12:35Z', 'labels': []}
+{'issuenumber': 343, 'title': 'Is the link to python module dead? ', 'state': 'closed', 'created_at': '2019-06-09T11:07:49Z', 'closed_at': '2020-05-13T04:30:55Z', 'labels': []}
+{'issuenumber': 342, 'title': "Bazel error: name 'py_proto_library' is not defined (did you mean 'cc_proto_library'?)", 'state': 'closed', 'created_at': '2019-06-06T23:52:08Z', 'closed_at': '2020-05-13T04:29:28Z', 'labels': []}
+{'issuenumber': 341, 'title': 'Ram needed for training unigram model? ', 'state': 'closed', 'created_at': '2019-06-05T10:46:36Z', 'closed_at': '2019-06-25T14:30:57Z', 'labels': []}
+{'issuenumber': 340, 'title': 'Program terminated with an unrecoverable error', 'state': 'closed', 'created_at': '2019-05-31T22:54:03Z', 'closed_at': '2019-06-25T14:32:21Z', 'labels': []}
+{'issuenumber': 339, 'title': "What's the difference between wordpiece and sentencepiece?", 'state': 'closed', 'created_at': '2019-05-29T04:01:16Z', 'closed_at': '2019-05-31T03:40:22Z', 'labels': []}
+{'issuenumber': 338, 'title': 'Option to quite LOG(INFO) and LOG(WARNING) messages', 'state': 'closed', 'created_at': '2019-05-28T13:32:23Z', 'closed_at': '2019-05-30T12:50:26Z', 'labels': []}
+{'issuenumber': 337, 'title': 'tf_sentencepiece for windows', 'state': 'closed', 'created_at': '2019-05-28T07:14:27Z', 'closed_at': '2019-05-29T15:31:36Z', 'labels': []}
+{'issuenumber': 336, 'title': 'Training is slow', 'state': 'closed', 'created_at': '2019-05-25T06:43:32Z', 'closed_at': '2019-05-31T22:52:09Z', 'labels': []}
+{'issuenumber': 335, 'title': 'LOG(ERROR) Not implemented.', 'state': 'closed', 'created_at': '2019-05-25T05:07:50Z', 'closed_at': '2019-05-25T06:40:57Z', 'labels': []}
+{'issuenumber': 334, 'title': 'Mapping char index in original text to index in sentencepiece-bpe?', 'state': 'closed', 'created_at': '2019-05-23T11:34:32Z', 'closed_at': '2019-05-23T16:07:24Z', 'labels': []}
+{'issuenumber': 332, 'title': 'Generate vocabulary with python wrapper', 'state': 'closed', 'created_at': '2019-05-20T15:46:58Z', 'closed_at': '2019-05-22T05:14:12Z', 'labels': []}
+{'issuenumber': 331, 'title': 'Found null character. The corpus must be encoded in uft-8', 'state': 'closed', 'created_at': '2019-05-20T07:05:41Z', 'closed_at': '2019-05-22T05:16:14Z', 'labels': []}
+{'issuenumber': 330, 'title': 'wildcard support?', 'state': 'closed', 'created_at': '2019-05-18T23:55:04Z', 'closed_at': '2019-05-19T06:44:58Z', 'labels': []}
+{'issuenumber': 329, 'title': 'Normalizer converts some chars to sequences of periods', 'state': 'closed', 'created_at': '2019-05-16T14:18:08Z', 'closed_at': '2019-05-16T14:41:43Z', 'labels': []}
+{'issuenumber': 328, 'title': 'How can I see vocab as {id: word} & add custom extraOptions ?', 'state': 'closed', 'created_at': '2019-05-15T09:27:40Z', 'closed_at': '2019-05-16T16:20:10Z', 'labels': []}
+{'issuenumber': 326, 'title': 'java support', 'state': 'closed', 'created_at': '2019-05-10T07:04:43Z', 'closed_at': '2019-05-13T02:51:36Z', 'labels': []}
+{'issuenumber': 325, 'title': 'Compatibility with Tensorflow Serving', 'state': 'closed', 'created_at': '2019-05-09T21:34:36Z', 'closed_at': '2020-10-13T04:46:13Z', 'labels': []}
+{'issuenumber': 324, 'title': 'Question: Corpus with many short sentences', 'state': 'closed', 'created_at': '2019-05-09T10:40:01Z', 'closed_at': '2019-05-13T15:43:19Z', 'labels': []}
+{'issuenumber': 323, 'title': 'How can i add character to existing model?', 'state': 'closed', 'created_at': '2019-05-07T11:40:24Z', 'closed_at': '2019-05-21T02:41:45Z', 'labels': []}
+{'issuenumber': 322, 'title': 'how are unknown characters in a sequence handled?', 'state': 'closed', 'created_at': '2019-05-06T17:22:33Z', 'closed_at': '2019-05-07T03:18:15Z', 'labels': []}
+{'issuenumber': 321, 'title': 'How to use with big file?', 'state': 'closed', 'created_at': '2019-05-04T17:45:15Z', 'closed_at': '2019-05-05T01:37:50Z', 'labels': []}
+{'issuenumber': 320, 'title': 'Training from tempfile gives "RuntimeError: Internal.."', 'state': 'closed', 'created_at': '2019-04-26T14:48:08Z', 'closed_at': '2019-04-27T15:56:03Z', 'labels': []}
+{'issuenumber': 319, 'title': "'spm_train' is not recognized.", 'state': 'closed', 'created_at': '2019-04-23T09:57:56Z', 'closed_at': '2019-04-23T16:13:54Z', 'labels': []}
+{'issuenumber': 317, 'title': 'Using a comma in --user_defined_symbols', 'state': 'closed', 'created_at': '2019-04-15T15:57:41Z', 'closed_at': '2019-04-16T14:17:20Z', 'labels': []}
+{'issuenumber': 316, 'title': 'convert wordpiece vocab to sentencepiece model & vocab', 'state': 'closed', 'created_at': '2019-04-14T19:36:58Z', 'closed_at': '2019-04-23T16:17:53Z', 'labels': []}
+{'issuenumber': 315, 'title': 'Expected behavior of Python bindings `is_unknown`', 'state': 'closed', 'created_at': '2019-04-12T02:32:21Z', 'closed_at': '2019-04-13T17:34:02Z', 'labels': []}
+{'issuenumber': 313, 'title': 'How to determine if multiple encoded pieces/ids are making one token or separate tokens?', 'state': 'closed', 'created_at': '2019-04-04T20:42:56Z', 'closed_at': '2019-04-04T21:24:36Z', 'labels': []}
+{'issuenumber': 312, 'title': 'any sample Chinese dataset for demo?', 'state': 'closed', 'created_at': '2019-04-03T12:57:09Z', 'closed_at': '2019-08-17T01:22:27Z', 'labels': []}
+{'issuenumber': 311, 'title': 'erros while installing  protocol-buffer known as SentencePiece ', 'state': 'closed', 'created_at': '2019-03-26T13:50:08Z', 'closed_at': '2019-03-27T16:28:37Z', 'labels': []}
+{'issuenumber': 310, 'title': 'For languages that not share an alphabet, like chinese and english,  should I train the shared spm model or train their own spm model separately?', 'state': 'closed', 'created_at': '2019-03-26T08:20:09Z', 'closed_at': '2019-03-26T18:15:47Z', 'labels': []}
+{'issuenumber': 309, 'title': 'sentencepiece_processor_ops.so Not Found', 'state': 'closed', 'created_at': '2019-03-24T10:03:40Z', 'closed_at': '2019-03-24T12:51:17Z', 'labels': []}
+{'issuenumber': 308, 'title': 'Bad alloc with unigram version', 'state': 'closed', 'created_at': '2019-03-22T13:15:28Z', 'closed_at': '2019-03-22T14:15:07Z', 'labels': []}
+{'issuenumber': 307, 'title': 'Vocabulary restriction in python binding', 'state': 'closed', 'created_at': '2019-03-21T20:39:02Z', 'closed_at': '2019-03-22T10:09:48Z', 'labels': []}
+{'issuenumber': 306, 'title': 'Control symbols (here it is [CLS] and [SEP] ) are tokenized which should not be ', 'state': 'closed', 'created_at': '2019-03-15T06:46:07Z', 'closed_at': '2019-03-15T08:19:28Z', 'labels': []}
+{'issuenumber': 305, 'title': 'The tokenizer always append a ▁ token for tokenizing a sentence', 'state': 'closed', 'created_at': '2019-03-15T06:44:28Z', 'closed_at': '2019-03-15T08:23:19Z', 'labels': []}
+{'issuenumber': 304, 'title': 'Problem recognizing end of string', 'state': 'closed', 'created_at': '2019-03-13T13:12:51Z', 'closed_at': '2020-04-24T16:47:05Z', 'labels': []}
+{'issuenumber': 302, 'title': "Forcing a 'white_space' token", 'state': 'closed', 'created_at': '2019-03-11T12:09:39Z', 'closed_at': '2019-03-13T12:54:44Z', 'labels': []}
+{'issuenumber': 300, 'title': 'Request: sentencepiece_processor_ops.so for tensorflow 1.13.1', 'state': 'closed', 'created_at': '2019-03-09T23:08:19Z', 'closed_at': '2019-03-22T17:07:07Z', 'labels': []}
+{'issuenumber': 299, 'title': 'python wrapper export vocabulary list', 'state': 'closed', 'created_at': '2019-03-09T04:17:29Z', 'closed_at': '2019-03-09T05:00:16Z', 'labels': []}
+{'issuenumber': 298, 'title': 'protobuf version load fail for test_model.model file', 'state': 'closed', 'created_at': '2019-03-04T02:17:48Z', 'closed_at': '2019-03-04T05:59:07Z', 'labels': []}
+{'issuenumber': 297, 'title': 'error!!!', 'state': 'closed', 'created_at': '2019-02-22T14:45:11Z', 'closed_at': '2019-02-22T14:55:43Z', 'labels': []}
+{'issuenumber': 296, 'title': 'RuntimeError hard-coded path ', 'state': 'closed', 'created_at': '2019-02-21T22:51:17Z', 'closed_at': '2019-02-25T13:19:29Z', 'labels': []}
+{'issuenumber': 294, 'title': 'protobuf version not compatible', 'state': 'closed', 'created_at': '2019-02-14T07:53:16Z', 'closed_at': '2020-12-29T02:35:07Z', 'labels': {'name': 'protobuf'}}
+{'issuenumber': 293, 'title': 'undefined symbol: _ZN10tensorflow12OpDefBuilder4AttrESs', 'state': 'closed', 'created_at': '2019-02-11T09:47:02Z', 'closed_at': '2019-08-17T01:23:33Z', 'labels': []}
+{'issuenumber': 292, 'title': 'Support for s3 files', 'state': 'closed', 'created_at': '2019-02-10T03:43:25Z', 'closed_at': '2020-05-21T06:20:20Z', 'labels': []}
+{'issuenumber': 291, 'title': 'Query about sentence vs word tokenization', 'state': 'closed', 'created_at': '2019-02-04T13:21:11Z', 'closed_at': '2019-02-06T11:02:11Z', 'labels': []}
+{'issuenumber': 290, 'title': "Can't view sample code.", 'state': 'closed', 'created_at': '2019-02-03T16:53:17Z', 'closed_at': '2019-02-27T07:45:24Z', 'labels': []}
+{'issuenumber': 289, 'title': 'handling of special symbols: this is a question not an issue :)', 'state': 'closed', 'created_at': '2019-01-31T08:00:45Z', 'closed_at': '2019-02-01T11:14:44Z', 'labels': []}
+{'issuenumber': 288, 'title': 'Inference time cost', 'state': 'closed', 'created_at': '2019-01-28T19:32:56Z', 'closed_at': '2019-01-29T09:04:31Z', 'labels': []}
+{'issuenumber': 287, 'title': 'Meaning of command line options', 'state': 'closed', 'created_at': '2019-01-25T14:27:39Z', 'closed_at': '2019-01-29T15:59:13Z', 'labels': []}
+{'issuenumber': 286, 'title': 'TrainerInterface::LoadSentences() vocab_size validation should be CHECK_LE_OR_RETURN', 'state': 'closed', 'created_at': '2019-01-25T07:16:11Z', 'closed_at': '2019-01-29T16:18:23Z', 'labels': []}
+{'issuenumber': 284, 'title': 'word length limit', 'state': 'closed', 'created_at': '2019-01-17T17:10:31Z', 'closed_at': '2019-01-18T15:06:45Z', 'labels': []}
+{'issuenumber': 283, 'title': 'trainer_interface.cc(356) LOG(WARNING) Empty string found. removed', 'state': 'closed', 'created_at': '2019-01-15T18:31:12Z', 'closed_at': '2019-03-22T17:08:29Z', 'labels': []}
+{'issuenumber': 282, 'title': 'leading space for the first token', 'state': 'closed', 'created_at': '2019-01-11T13:56:46Z', 'closed_at': '2019-01-12T07:35:09Z', 'labels': []}
+{'issuenumber': 281, 'title': 'pip release questions', 'state': 'closed', 'created_at': '2019-01-11T04:51:45Z', 'closed_at': '2019-01-11T07:21:48Z', 'labels': []}
+{'issuenumber': 280, 'title': 'better candidate for `unk_surface`', 'state': 'closed', 'created_at': '2019-01-10T09:24:31Z', 'closed_at': '2019-01-12T07:45:42Z', 'labels': []}
+{'issuenumber': 279, 'title': 'ReadableFile open flag', 'state': 'closed', 'created_at': '2019-01-10T06:04:15Z', 'closed_at': '2019-01-10T06:20:57Z', 'labels': []}
+{'issuenumber': 277, 'title': 'gperftools', 'state': 'closed', 'created_at': '2019-01-08T18:42:39Z', 'closed_at': '2019-01-09T00:32:14Z', 'labels': []}
+{'issuenumber': 276, 'title': 'Empty tokens in output vocabulary', 'state': 'closed', 'created_at': '2019-01-08T15:03:19Z', 'closed_at': '2019-01-10T08:26:49Z', 'labels': []}
+{'issuenumber': 268, 'title': 'unknown max_sentence_length', 'state': 'closed', 'created_at': '2019-01-07T11:44:56Z', 'closed_at': '2019-01-07T11:48:07Z', 'labels': []}
+{'issuenumber': 267, 'title': 'New Word token `_` in the last subword of the word (instead of in the first subword)', 'state': 'closed', 'created_at': '2019-01-07T11:04:49Z', 'closed_at': '2019-01-10T06:23:56Z', 'labels': []}
+{'issuenumber': 266, 'title': 'Accessing Alignment Information between Detokenised/User-Input text in Python', 'state': 'closed', 'created_at': '2019-01-04T16:23:17Z', 'closed_at': '2019-01-08T10:51:32Z', 'labels': []}
+{'issuenumber': 264, 'title': 'more informativ warnings', 'state': 'closed', 'created_at': '2018-12-30T05:00:21Z', 'closed_at': '2019-01-08T10:30:48Z', 'labels': []}
+{'issuenumber': 263, 'title': 'do not split by apostrophe character', 'state': 'closed', 'created_at': '2018-12-23T20:23:54Z', 'closed_at': '2018-12-25T08:23:31Z', 'labels': []}
+{'issuenumber': 255, 'title': 'replace <unk>  with custom unk token "xxunk"', 'state': 'closed', 'created_at': '2018-12-05T19:28:44Z', 'closed_at': '2018-12-08T14:47:58Z', 'labels': []}
+{'issuenumber': 254, 'title': 'Information about protobuf', 'state': 'closed', 'created_at': '2018-11-27T21:23:06Z', 'closed_at': '2019-01-09T00:32:52Z', 'labels': []}
+{'issuenumber': 253, 'title': 'Newline token and User defined symbol, how it work?', 'state': 'closed', 'created_at': '2018-11-27T20:55:51Z', 'closed_at': '2018-11-28T11:51:10Z', 'labels': []}
+{'issuenumber': 252, 'title': 'Computing representative vocabularies for multiple large files', 'state': 'closed', 'created_at': '2018-11-24T00:30:44Z', 'closed_at': '2018-12-09T10:51:26Z', 'labels': []}
+{'issuenumber': 251, 'title': 'Not Implemented Error While Testing ', 'state': 'closed', 'created_at': '2018-11-21T06:40:10Z', 'closed_at': '2018-11-21T07:12:43Z', 'labels': []}
+{'issuenumber': 250, 'title': 'Set multiple vocabularies, and `vocabulary_threshold` in python wrapper', 'state': 'closed', 'created_at': '2018-11-20T07:35:33Z', 'closed_at': '2018-11-20T16:26:28Z', 'labels': []}
+{'issuenumber': 249, 'title': '‘::PROTOBUF_NAMESPACE_ID’ has not been declared', 'state': 'closed', 'created_at': '2018-11-20T06:26:30Z', 'closed_at': '2018-11-21T01:30:58Z', 'labels': []}
+{'issuenumber': 248, 'title': 'Export vocabulary with term frequency', 'state': 'closed', 'created_at': '2018-11-18T19:10:10Z', 'closed_at': '2018-12-08T14:49:38Z', 'labels': []}
+{'issuenumber': 247, 'title': 'trainer_interface: size 0 while loading corpus', 'state': 'closed', 'created_at': '2018-11-18T18:55:57Z', 'closed_at': '2018-11-20T08:54:29Z', 'labels': []}
+{'issuenumber': 246, 'title': 'cmake third_party issues', 'state': 'closed', 'created_at': '2018-11-16T06:05:00Z', 'closed_at': '2018-12-10T15:43:00Z', 'labels': []}
+{'issuenumber': 245, 'title': 'Training sentencepiece on large corpora', 'state': 'closed', 'created_at': '2018-11-14T22:05:11Z', 'closed_at': '2018-11-18T06:56:40Z', 'labels': []}
+{'issuenumber': 244, 'title': 'fail to install from source, make fails', 'state': 'closed', 'created_at': '2018-11-12T13:26:20Z', 'closed_at': '2018-11-13T13:15:59Z', 'labels': []}
+{'issuenumber': 243, 'title': 'Possible bugs with setting vocabulary', 'state': 'closed', 'created_at': '2018-11-12T11:42:29Z', 'closed_at': '2018-11-13T13:51:53Z', 'labels': []}
+{'issuenumber': 236, 'title': 'Option to use leading whitespaces to encode string in Python interface', 'state': 'closed', 'created_at': '2018-11-09T10:40:59Z', 'closed_at': '2018-12-08T14:50:42Z', 'labels': []}
+{'issuenumber': 231, 'title': 'Suppress logs during training when invoked from Python', 'state': 'closed', 'created_at': '2018-11-05T18:38:00Z', 'closed_at': '2018-11-08T09:25:11Z', 'labels': []}
+{'issuenumber': 230, 'title': '[Question] Custom defined rules for multiple line feed', 'state': 'closed', 'created_at': '2018-11-05T16:15:05Z', 'closed_at': '2018-11-06T11:11:23Z', 'labels': []}
+{'issuenumber': 229, 'title': 'Is piece=id not working for decoding?', 'state': 'closed', 'created_at': '2018-11-05T14:58:43Z', 'closed_at': '2018-11-06T11:05:10Z', 'labels': []}
+{'issuenumber': 228, 'title': 'Attempting to import the module fails.', 'state': 'closed', 'created_at': '2018-11-03T05:11:45Z', 'closed_at': '2018-11-08T09:26:56Z', 'labels': []}
+{'issuenumber': 227, 'title': "Uppercase custom defined symbols wouldn't work with nmt_nfkc_cf", 'state': 'closed', 'created_at': '2018-10-31T20:16:08Z', 'closed_at': '2018-11-08T09:18:41Z', 'labels': []}
+{'issuenumber': 226, 'title': 'could not save model against my own txt', 'state': 'closed', 'created_at': '2018-10-28T20:00:11Z', 'closed_at': '2018-10-29T04:37:38Z', 'labels': []}
+{'issuenumber': 224, 'title': 'Custom Word Boundary Sequence', 'state': 'closed', 'created_at': '2018-10-27T20:12:12Z', 'closed_at': '2018-11-08T14:03:21Z', 'labels': []}
+{'issuenumber': 222, 'title': 'Unicode scripts', 'state': 'closed', 'created_at': '2018-10-26T12:13:25Z', 'closed_at': '2018-11-11T08:20:03Z', 'labels': []}
+{'issuenumber': 221, 'title': 'SentencePieceProcessor is missing function', 'state': 'closed', 'created_at': '2018-10-23T15:46:17Z', 'closed_at': '2018-10-24T05:19:32Z', 'labels': []}
+{'issuenumber': 220, 'title': 'Multi-word segmentation', 'state': 'closed', 'created_at': '2018-10-23T11:25:12Z', 'closed_at': '2018-10-24T08:34:17Z', 'labels': []}
+{'issuenumber': 219, 'title': 'Bug in training when using user_defined_symbols', 'state': 'closed', 'created_at': '2018-10-22T05:25:47Z', 'closed_at': '2018-10-22T10:22:09Z', 'labels': []}
+{'issuenumber': 218, 'title': 'Bug in training when using user_defined_symbols', 'state': 'closed', 'created_at': '2018-10-22T05:24:37Z', 'closed_at': '2018-10-22T10:21:28Z', 'labels': []}
+{'issuenumber': 217, 'title': 'Apparent segmentation bug when defining user defined symbols', 'state': 'closed', 'created_at': '2018-10-22T05:21:09Z', 'closed_at': '2018-11-11T08:21:04Z', 'labels': []}
+{'issuenumber': 216, 'title': 'De-normalization in decode(...)', 'state': 'closed', 'created_at': '2018-10-21T06:47:41Z', 'closed_at': '2020-05-13T04:25:34Z', 'labels': []}
+{'issuenumber': 215, 'title': 'What is the difference between --user_defined_symbols and --control_symbols', 'state': 'closed', 'created_at': '2018-10-20T01:19:05Z', 'closed_at': '2018-10-22T16:59:22Z', 'labels': []}
+{'issuenumber': 214, 'title': 'Training BPE on long sentences ', 'state': 'closed', 'created_at': '2018-10-17T09:04:37Z', 'closed_at': '2018-11-11T02:19:42Z', 'labels': []}
+{'issuenumber': 213, 'title': ' what does the second column (numeral column)  mean?', 'state': 'closed', 'created_at': '2018-10-13T11:09:51Z', 'closed_at': '2018-11-08T09:32:08Z', 'labels': []}
+{'issuenumber': 212, 'title': 'tf_sentencepiece import error with TensorFlow 1.11', 'state': 'closed', 'created_at': '2018-10-10T03:03:09Z', 'closed_at': '2018-10-30T11:35:43Z', 'labels': []}
+{'issuenumber': 211, 'title': 'Hyperparameter arguments in Python wrapper', 'state': 'closed', 'created_at': '2018-10-09T22:58:04Z', 'closed_at': '2018-10-17T03:49:45Z', 'labels': []}
+{'issuenumber': 210, 'title': 'subword for English ', 'state': 'closed', 'created_at': '2018-10-08T15:53:07Z', 'closed_at': '2018-10-17T03:50:54Z', 'labels': []}
+{'issuenumber': 209, 'title': 'library to link to when using C++ API', 'state': 'closed', 'created_at': '2018-10-05T16:38:35Z', 'closed_at': '2018-10-09T00:20:22Z', 'labels': []}
+{'issuenumber': 208, 'title': '`nfkc_cf` and `nmt_nfkc_cf` normalization seem to be identical', 'state': 'closed', 'created_at': '2018-10-03T19:18:42Z', 'closed_at': '2018-10-28T16:29:51Z', 'labels': []}
+{'issuenumber': 207, 'title': 'Is the C++ API thread-safe?', 'state': 'closed', 'created_at': '2018-10-03T02:13:22Z', 'closed_at': '2018-10-03T03:47:02Z', 'labels': []}
+{'issuenumber': 206, 'title': 'double free or corruption error when running SentencePieceTrainer.Train', 'state': 'closed', 'created_at': '2018-09-27T13:01:05Z', 'closed_at': '2018-12-04T05:43:43Z', 'labels': []}
+{'issuenumber': 205, 'title': 'Specifying --bos_id -1 results in "Unknown/Invalid flag bos_id"', 'state': 'closed', 'created_at': '2018-09-23T17:48:06Z', 'closed_at': '2018-09-24T02:14:30Z', 'labels': []}
+{'issuenumber': 204, 'title': 'Conda installation', 'state': 'closed', 'created_at': '2018-09-21T08:12:55Z', 'closed_at': '2020-12-29T06:18:50Z', 'labels': []}
+{'issuenumber': 203, 'title': 'spm_train: command not found on ubuntu 16.0', 'state': 'closed', 'created_at': '2018-09-20T03:46:47Z', 'closed_at': '2018-09-20T05:42:51Z', 'labels': []}
+{'issuenumber': 200, 'title': 'How to use maximum vocab size in SP', 'state': 'closed', 'created_at': '2018-09-04T21:22:11Z', 'closed_at': '2018-10-17T03:50:18Z', 'labels': []}
+{'issuenumber': 199, 'title': 'Keeping reserved tokens while decoding', 'state': 'closed', 'created_at': '2018-09-03T19:04:12Z', 'closed_at': '2018-09-04T23:14:30Z', 'labels': []}
+{'issuenumber': 198, 'title': 'How to change newword character?', 'state': 'closed', 'created_at': '2018-09-03T13:42:42Z', 'closed_at': '2018-09-03T16:23:39Z', 'labels': []}
+{'issuenumber': 192, 'title': 'self-prepared protobuf not found ', 'state': 'closed', 'created_at': '2018-08-30T05:10:35Z', 'closed_at': '2018-08-31T06:41:25Z', 'labels': []}
+{'issuenumber': 191, 'title': 'Core dump using tensorflow and SentencePiece when importing SentencePiece before ', 'state': 'closed', 'created_at': '2018-08-29T15:18:38Z', 'closed_at': '2018-08-29T17:33:21Z', 'labels': []}
+{'issuenumber': 190, 'title': 'Version of protoc - which to use', 'state': 'closed', 'created_at': '2018-08-28T19:09:51Z', 'closed_at': '2018-08-29T04:15:40Z', 'labels': []}
+{'issuenumber': 189, 'title': 'Error # 2', 'state': 'closed', 'created_at': '2018-08-24T08:28:17Z', 'closed_at': '2018-08-24T08:31:02Z', 'labels': []}
+{'issuenumber': 188, 'title': 'Unknown/Invalid flag pad_id', 'state': 'closed', 'created_at': '2018-08-24T07:49:39Z', 'closed_at': '2018-08-24T08:23:23Z', 'labels': []}
+{'issuenumber': 186, 'title': 'Segfault when importing alongside tensorflow.contrib or pytorch in python (Linux)', 'state': 'closed', 'created_at': '2018-08-22T23:30:12Z', 'closed_at': '2018-08-26T16:00:09Z', 'labels': []}
+{'issuenumber': 185, 'title': 'Trouble with reversibility', 'state': 'closed', 'created_at': '2018-08-22T17:42:51Z', 'closed_at': '2018-10-30T11:39:30Z', 'labels': []}
+{'issuenumber': 184, 'title': "Suppression of isolated ▁'s", 'state': 'closed', 'created_at': '2018-08-22T05:31:32Z', 'closed_at': '2018-08-24T00:39:29Z', 'labels': []}
+{'issuenumber': 183, 'title': 'Symbols in sentencepieces', 'state': 'closed', 'created_at': '2018-08-21T17:47:37Z', 'closed_at': '2018-08-23T01:33:46Z', 'labels': []}
+{'issuenumber': 181, 'title': 'Frequency weighted training sentences', 'state': 'closed', 'created_at': '2018-08-17T07:49:34Z', 'closed_at': '2018-08-20T00:05:12Z', 'labels': []}
+{'issuenumber': 178, 'title': 'Windows Support', 'state': 'closed', 'created_at': '2018-08-14T21:50:09Z', 'closed_at': '2018-08-26T16:01:16Z', 'labels': []}
+{'issuenumber': 175, 'title': 'The full alphabet is not preserved and the transformation is not reversible.', 'state': 'closed', 'created_at': '2018-08-14T09:19:14Z', 'closed_at': '2018-08-17T15:57:55Z', 'labels': []}
+{'issuenumber': 156, 'title': "terminate called after throwing an instance of 'Darts::Details::Exception'", 'state': 'closed', 'created_at': '2018-08-12T10:58:19Z', 'closed_at': '2018-08-24T11:59:09Z', 'labels': []}
+{'issuenumber': 144, 'title': 'Is this the tokenizer used in the official Transformer implementation?', 'state': 'closed', 'created_at': '2018-07-30T19:50:03Z', 'closed_at': '2018-07-31T05:46:13Z', 'labels': []}
+{'issuenumber': 142, 'title': '[ feature request]', 'state': 'closed', 'created_at': '2018-07-26T09:25:12Z', 'closed_at': '2018-07-29T15:22:58Z', 'labels': []}
+{'issuenumber': 139, 'title': 'Do you have any pre-trained models?', 'state': 'closed', 'created_at': '2018-07-24T18:15:53Z', 'closed_at': '2018-07-24T21:45:48Z', 'labels': []}
+{'issuenumber': 134, 'title': 'Decoding from ids with UNK tokens', 'state': 'closed', 'created_at': '2018-07-22T08:46:28Z', 'closed_at': '2018-07-26T08:01:24Z', 'labels': []}
+{'issuenumber': 133, 'title': 'Bad alloc', 'state': 'closed', 'created_at': '2018-07-17T19:20:40Z', 'closed_at': '2018-07-18T05:47:02Z', 'labels': []}
+{'issuenumber': 129, 'title': 'How to build with -std=c++11', 'state': 'closed', 'created_at': '2018-07-13T01:18:16Z', 'closed_at': '2018-08-19T08:19:53Z', 'labels': []}
+{'issuenumber': 127, 'title': 'Sentence encoder having issues with Python 2.7.6 ', 'state': 'closed', 'created_at': '2018-07-06T08:47:23Z', 'closed_at': '2018-07-09T00:05:58Z', 'labels': []}
+{'issuenumber': 126, 'title': 'Problem about mixed-language word', 'state': 'closed', 'created_at': '2018-07-04T11:50:10Z', 'closed_at': '2018-07-05T03:57:30Z', 'labels': []}
+{'issuenumber': 125, 'title': 'how to use sentecepiece tensorflow Op', 'state': 'closed', 'created_at': '2018-07-03T05:44:27Z', 'closed_at': '2019-01-14T08:57:34Z', 'labels': []}
+{'issuenumber': 122, 'title': 'Guidance on multilingual text data', 'state': 'closed', 'created_at': '2018-06-29T01:26:52Z', 'closed_at': '2018-06-29T15:52:23Z', 'labels': []}
+{'issuenumber': 121, 'title': 'Manually modifying SentencePiece model?', 'state': 'closed', 'created_at': '2018-06-26T13:38:01Z', 'closed_at': '2018-06-26T17:15:44Z', 'labels': []}
+{'issuenumber': 111, 'title': 'Problems installing Python bindings on Mac', 'state': 'closed', 'created_at': '2018-06-18T20:05:46Z', 'closed_at': '2018-06-28T08:06:25Z', 'labels': []}
+{'issuenumber': 109, 'title': 'num_threads for spm_train', 'state': 'closed', 'created_at': '2018-06-18T05:00:54Z', 'closed_at': '2018-06-20T16:45:09Z', 'labels': []}
+{'issuenumber': 102, 'title': 'Understanding BOS/EOS symbols', 'state': 'closed', 'created_at': '2018-06-13T08:22:18Z', 'closed_at': '2018-06-17T08:18:57Z', 'labels': []}
+{'issuenumber': 101, 'title': 'Does not recognize \\n', 'state': 'closed', 'created_at': '2018-06-13T08:18:20Z', 'closed_at': '2018-06-14T04:24:24Z', 'labels': []}
+{'issuenumber': 94, 'title': 'Saving model error with user defined tags', 'state': 'closed', 'created_at': '2018-06-07T14:42:57Z', 'closed_at': '2018-06-10T05:16:26Z', 'labels': []}
+{'issuenumber': 87, 'title': 'Ability to avoid rare segmentation causing UNKs', 'state': 'closed', 'created_at': '2018-05-18T12:06:57Z', 'closed_at': '2018-06-08T15:28:00Z', 'labels': []}
+{'issuenumber': 82, 'title': 'Failed to install python wrapper on MacOS (python 3)', 'state': 'closed', 'created_at': '2018-05-08T11:30:14Z', 'closed_at': '2018-05-08T12:23:53Z', 'labels': []}
+{'issuenumber': 60, 'title': 'Spaces in user_defined_symbols?', 'state': 'closed', 'created_at': '2018-04-26T18:49:54Z', 'closed_at': '2018-06-14T07:11:37Z', 'labels': []}
+{'issuenumber': 58, 'title': "Python doesn't yet support `hard_vocab_limit`", 'state': 'closed', 'created_at': '2018-04-18T13:50:48Z', 'closed_at': '2018-04-18T17:32:13Z', 'labels': []}
+{'issuenumber': 47, 'title': 'Force some tokens to retain original form', 'state': 'closed', 'created_at': '2018-03-07T04:25:55Z', 'closed_at': '2018-03-08T01:35:32Z', 'labels': []}
+{'issuenumber': 43, 'title': 'Question on vocab / vocab size', 'state': 'closed', 'created_at': '2018-02-13T16:57:46Z', 'closed_at': '2018-02-14T20:37:57Z', 'labels': []}
+{'issuenumber': 42, 'title': 'instialltion failed on ubuntu', 'state': 'closed', 'created_at': '2018-01-16T10:22:46Z', 'closed_at': '2018-06-10T14:48:01Z', 'labels': []}
+{'issuenumber': 41, 'title': "Encode() in sentencePieceProcessor doesn't take unicode strings as input", 'state': 'closed', 'created_at': '2017-12-15T07:22:30Z', 'closed_at': '2017-12-21T04:40:52Z', 'labels': []}
+{'issuenumber': 40, 'title': 'protobuf issues when installing', 'state': 'closed', 'created_at': '2017-12-06T23:54:45Z', 'closed_at': '2018-06-18T04:49:41Z', 'labels': []}
+{'issuenumber': 35, 'title': '[Q] Would you elaborate the differences of 4 corpus size parameters?', 'state': 'closed', 'created_at': '2017-11-02T08:00:51Z', 'closed_at': '2017-12-17T15:45:13Z', 'labels': []}
+{'issuenumber': 33, 'title': 'Python wrapper build is broken for Python 3', 'state': 'closed', 'created_at': '2017-10-31T12:01:48Z', 'closed_at': '2017-11-02T10:29:53Z', 'labels': []}

@@ -1,0 +1,423 @@
+{'issuenumber': 788, 'title': 'Clarify documentation how to flush headers early using koa', 'state': 'closed', 'created_at': '2016-07-29T05:38:00Z', 'closed_at': '2016-08-10T19:16:55Z', 'labels': []}
+{'issuenumber': 787, 'title': '[v2.x]Why use `text/plain` content-type for error response?', 'state': 'closed', 'created_at': '2016-07-27T06:39:39Z', 'closed_at': '2016-07-27T07:05:31Z', 'labels': []}
+{'issuenumber': 785, 'title': "It may be a naive question, but I'm confused with the promise behavior", 'state': 'closed', 'created_at': '2016-07-25T16:43:24Z', 'closed_at': '2016-07-25T23:02:45Z', 'labels': {'name': 'question'}}
+{'issuenumber': 784, 'title': 'Concurrent Connections and Timeouts', 'state': 'closed', 'created_at': '2016-07-24T16:40:01Z', 'closed_at': '2016-07-25T13:36:38Z', 'labels': []}
+{'issuenumber': 780, 'title': 'Koa middleware as chain of generators', 'state': 'closed', 'created_at': '2016-07-20T15:30:14Z', 'closed_at': '2016-07-21T05:08:25Z', 'labels': []}
+{'issuenumber': 779, 'title': 'pipeling request will lost!', 'state': 'closed', 'created_at': '2016-07-20T04:37:05Z', 'closed_at': '2016-07-22T10:20:41Z', 'labels': []}
+{'issuenumber': 777, 'title': 'how to delete a cookie', 'state': 'closed', 'created_at': '2016-07-15T07:30:04Z', 'closed_at': '2016-07-15T09:35:11Z', 'labels': []}
+{'issuenumber': 775, 'title': 'this.subdomains is error parsed', 'state': 'closed', 'created_at': '2016-07-14T13:20:40Z', 'closed_at': '2016-09-07T03:23:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 774, 'title': 'Koa.d.ts - typescript ', 'state': 'closed', 'created_at': '2016-07-12T12:59:37Z', 'closed_at': '2016-07-12T14:18:37Z', 'labels': []}
+{'issuenumber': 773, 'title': 'Any plans to use eshttp?', 'state': 'closed', 'created_at': '2016-07-11T05:04:58Z', 'closed_at': '2016-07-23T17:56:19Z', 'labels': []}
+{'issuenumber': 772, 'title': 'Award for least appropriate meme', 'state': 'closed', 'created_at': '2016-07-08T02:48:47Z', 'closed_at': '2016-07-08T15:14:24Z', 'labels': []}
+{'issuenumber': 771, 'title': 'Feature request: seemless support for VirtualBox', 'state': 'closed', 'created_at': '2016-07-05T23:01:32Z', 'closed_at': '2016-07-06T03:14:08Z', 'labels': []}
+{'issuenumber': 770, 'title': 'Three backers listed on the main site header, but only one backer shows on click event', 'state': 'closed', 'created_at': '2016-07-05T22:56:54Z', 'closed_at': '2016-07-05T23:01:45Z', 'labels': []}
+{'issuenumber': 769, 'title': 'Repetitive wording in readme/website', 'state': 'closed', 'created_at': '2016-07-05T22:40:12Z', 'closed_at': '2016-07-05T23:04:06Z', 'labels': []}
+{'issuenumber': 768, 'title': 'Potentially confusing wording in website/readme file main page', 'state': 'closed', 'created_at': '2016-07-05T22:37:45Z', 'closed_at': '2016-07-06T15:46:37Z', 'labels': []}
+{'issuenumber': 767, 'title': 'JSON error when donating to your OpenCollective', 'state': 'closed', 'created_at': '2016-07-05T21:59:06Z', 'closed_at': '2016-07-05T23:01:52Z', 'labels': []}
+{'issuenumber': 766, 'title': 'Node.js default timeout', 'state': 'closed', 'created_at': '2016-07-04T17:37:00Z', 'closed_at': '2016-07-04T18:35:39Z', 'labels': []}
+{'issuenumber': 765, 'title': 'Versioning?', 'state': 'closed', 'created_at': '2016-06-30T18:06:28Z', 'closed_at': '2016-07-08T15:14:48Z', 'labels': []}
+{'issuenumber': 764, 'title': 'how to skip or jump a middleware with koa2', 'state': 'closed', 'created_at': '2016-06-30T08:05:22Z', 'closed_at': '2016-06-30T08:29:27Z', 'labels': []}
+{'issuenumber': 763, 'title': 'how to redirect correctly in route  (koa, koa-router with socket.io and polymer)', 'state': 'closed', 'created_at': '2016-06-29T16:57:08Z', 'closed_at': '2016-06-29T17:19:12Z', 'labels': []}
+{'issuenumber': 762, 'title': 'Return a promise from app.listen()', 'state': 'closed', 'created_at': '2016-06-28T21:28:59Z', 'closed_at': '2016-06-28T22:47:42Z', 'labels': []}
+{'issuenumber': 761, 'title': 'acceptsLanguages is not returning the expected language', 'state': 'closed', 'created_at': '2016-06-23T21:20:42Z', 'closed_at': '2016-06-24T00:54:29Z', 'labels': []}
+{'issuenumber': 758, 'title': 'On error [ctx.throw()] the response is forced to text/plain', 'state': 'closed', 'created_at': '2016-06-21T00:15:18Z', 'closed_at': '2016-07-23T18:03:06Z', 'labels': {'name': 'question'}}
+{'issuenumber': 755, 'title': 'Make Koa v2 compatible with the style guide of Airbnb', 'state': 'closed', 'created_at': '2016-06-10T17:06:17Z', 'closed_at': '2016-06-11T11:26:48Z', 'labels': []}
+{'issuenumber': 752, 'title': 'A logical middleware signature', 'state': 'closed', 'created_at': '2016-06-06T01:12:43Z', 'closed_at': '2016-06-06T01:48:35Z', 'labels': []}
+{'issuenumber': 750, 'title': 'how do you run benchmarks?', 'state': 'closed', 'created_at': '2016-06-06T00:19:36Z', 'closed_at': '2016-06-06T00:24:06Z', 'labels': []}
+{'issuenumber': 747, 'title': 'this.query no longer has `hasOwnProperty` method in node 6.2', 'state': 'closed', 'created_at': '2016-05-27T21:17:49Z', 'closed_at': '2016-05-27T21:29:40Z', 'labels': []}
+{'issuenumber': 746, 'title': 'Allow immutable definition of server and router', 'state': 'closed', 'created_at': '2016-05-27T15:49:15Z', 'closed_at': '2016-05-28T08:37:43Z', 'labels': []}
+{'issuenumber': 741, 'title': 'The link to Koa 2 migration docs is (slightly) broken', 'state': 'closed', 'created_at': '2016-05-26T05:04:05Z', 'closed_at': '2016-05-31T00:39:34Z', 'labels': []}
+{'issuenumber': 740, 'title': 'Set up Chinese characters for cookies', 'state': 'closed', 'created_at': '2016-05-25T02:35:26Z', 'closed_at': '2016-05-26T05:32:25Z', 'labels': []}
+{'issuenumber': 737, 'title': 'possible typo..', 'state': 'closed', 'created_at': '2016-05-19T09:04:47Z', 'closed_at': '2016-05-23T02:58:31Z', 'labels': []}
+{'issuenumber': 735, 'title': 'typo: on koajs.com website main page', 'state': 'closed', 'created_at': '2016-05-19T08:23:29Z', 'closed_at': '2016-06-07T03:14:21Z', 'labels': []}
+{'issuenumber': 734, 'title': "when middleware meet setTimeout, ctx.body don't work ? ", 'state': 'closed', 'created_at': '2016-05-18T06:40:36Z', 'closed_at': '2016-05-18T09:01:51Z', 'labels': []}
+{'issuenumber': 732, 'title': 'how to handle event emitter', 'state': 'closed', 'created_at': '2016-05-14T15:01:11Z', 'closed_at': '2016-05-16T02:05:28Z', 'labels': {'name': 'question'}}
+{'issuenumber': 730, 'title': 'How to get Http Request Body.', 'state': 'closed', 'created_at': '2016-05-12T06:00:30Z', 'closed_at': '2016-05-12T06:07:54Z', 'labels': []}
+{'issuenumber': 729, 'title': 'Create an open collective for Koa', 'state': 'closed', 'created_at': '2016-05-10T21:56:51Z', 'closed_at': '2016-07-08T02:46:37Z', 'labels': {'name': 'meta'}}
+{'issuenumber': 728, 'title': 'co-busboy was unable to parse ctx using multipart/form-data in koa2', 'state': 'closed', 'created_at': '2016-05-09T22:34:10Z', 'closed_at': '2016-05-10T01:33:12Z', 'labels': []}
+{'issuenumber': 727, 'title': 'Koa blocking main thread', 'state': 'closed', 'created_at': '2016-05-03T14:11:55Z', 'closed_at': '2016-05-03T17:50:07Z', 'labels': []}
+{'issuenumber': 725, 'title': 'ECONNRESET error  ', 'state': 'closed', 'created_at': '2016-05-02T12:36:48Z', 'closed_at': '2016-05-03T05:48:26Z', 'labels': []}
+{'issuenumber': 724, 'title': 'Make a new version to not rely on babel use pure ES6', 'state': 'closed', 'created_at': '2016-05-02T11:39:45Z', 'closed_at': '2016-05-03T07:59:34Z', 'labels': []}
+{'issuenumber': 720, 'title': 'is there a koa-awesome repo already?', 'state': 'closed', 'created_at': '2016-04-28T12:13:25Z', 'closed_at': '2016-04-29T18:26:05Z', 'labels': []}
+{'issuenumber': 719, 'title': 'How to get POST params?', 'state': 'closed', 'created_at': '2016-04-28T11:49:44Z', 'closed_at': '2016-04-29T05:38:08Z', 'labels': []}
+{'issuenumber': 717, 'title': 'register multi middlewares', 'state': 'closed', 'created_at': '2016-04-25T07:31:41Z', 'closed_at': '2016-04-25T09:57:35Z', 'labels': []}
+{'issuenumber': 716, 'title': 'Fetching url from a generator [bug?]', 'state': 'closed', 'created_at': '2016-04-24T13:03:23Z', 'closed_at': '2016-04-24T13:18:13Z', 'labels': []}
+{'issuenumber': 715, 'title': 'Connect style middleware', 'state': 'closed', 'created_at': '2016-04-23T15:52:15Z', 'closed_at': '2016-04-24T07:59:19Z', 'labels': []}
+{'issuenumber': 714, 'title': 'Need help from experienced people.', 'state': 'closed', 'created_at': '2016-04-22T09:20:48Z', 'closed_at': '2016-04-22T09:53:54Z', 'labels': []}
+{'issuenumber': 713, 'title': "ctx wasn't able to return after set in other callback function", 'state': 'closed', 'created_at': '2016-04-21T03:13:04Z', 'closed_at': '2016-04-21T05:06:19Z', 'labels': {'name': 'question'}}
+{'issuenumber': 712, 'title': 'How might I access `ctx` outside of a middleware or a route?', 'state': 'closed', 'created_at': '2016-04-20T00:27:58Z', 'closed_at': '2016-04-20T00:56:59Z', 'labels': {'name': 'question'}}
+{'issuenumber': 710, 'title': 'How do I send a json response from a callback?', 'state': 'closed', 'created_at': '2016-04-16T06:14:42Z', 'closed_at': '2016-04-17T14:21:53Z', 'labels': []}
+{'issuenumber': 709, 'title': 'Consider having Application.listen() return a promise that resolves when the server has started', 'state': 'closed', 'created_at': '2016-04-15T16:40:47Z', 'closed_at': '2016-04-26T17:59:26Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 708, 'title': 'Set Content-Length header using createReadStream', 'state': 'closed', 'created_at': '2016-04-14T15:26:48Z', 'closed_at': '2016-05-14T15:26:43Z', 'labels': {'name': 'question'}}
+{'issuenumber': 706, 'title': 'Automatic delegation', 'state': 'closed', 'created_at': '2016-04-07T21:06:27Z', 'closed_at': '2016-04-12T11:17:55Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 705, 'title': 'Is koa setting status to 404 by default?', 'state': 'closed', 'created_at': '2016-04-06T17:07:52Z', 'closed_at': '2016-04-08T02:52:24Z', 'labels': []}
+{'issuenumber': 703, 'title': 'Switch to a new testing system', 'state': 'closed', 'created_at': '2016-04-04T03:03:01Z', 'closed_at': '2017-05-11T03:30:33Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 697, 'title': 'Koa 2 ctx.query nesting', 'state': 'closed', 'created_at': '2016-03-25T07:14:52Z', 'closed_at': '2016-03-27T02:55:46Z', 'labels': {'name': 'question'}}
+{'issuenumber': 695, 'title': 'Sometimes request.ip returns undefined', 'state': 'closed', 'created_at': '2016-03-24T18:20:24Z', 'closed_at': '2016-04-10T20:14:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 692, 'title': 'Add v2 column to wiki:Home w/ an initial pass', 'state': 'closed', 'created_at': '2016-03-22T22:20:52Z', 'closed_at': '2016-03-23T08:50:51Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 689, 'title': 'this.cookies.set() cannot set cookie to chrome correctly', 'state': 'closed', 'created_at': '2016-03-21T14:46:12Z', 'closed_at': '2016-03-21T17:59:21Z', 'labels': []}
+{'issuenumber': 688, 'title': 'response.end(body) need more parameters', 'state': 'closed', 'created_at': '2016-03-18T10:46:09Z', 'closed_at': '2016-03-18T10:51:53Z', 'labels': []}
+{'issuenumber': 687, 'title': 'ES7 Async/Await question', 'state': 'closed', 'created_at': '2016-03-16T05:33:45Z', 'closed_at': '2016-03-23T18:25:08Z', 'labels': {'name': 'question'}}
+{'issuenumber': 682, 'title': '`this.message` containing line breaks', 'state': 'closed', 'created_at': '2016-03-13T13:18:26Z', 'closed_at': '2016-03-13T15:18:46Z', 'labels': []}
+{'issuenumber': 676, 'title': 'What is the order of routing?', 'state': 'closed', 'created_at': '2016-03-06T01:57:43Z', 'closed_at': '2016-03-06T07:35:32Z', 'labels': []}
+{'issuenumber': 671, 'title': 'Coding style: why sometimes have a space before curly brace while sometimes not?', 'state': 'closed', 'created_at': '2016-03-03T17:57:17Z', 'closed_at': '2016-03-15T21:08:15Z', 'labels': []}
+{'issuenumber': 670, 'title': 'koa works strange with node-argon2', 'state': 'closed', 'created_at': '2016-03-03T11:14:17Z', 'closed_at': '2016-03-03T14:39:15Z', 'labels': []}
+{'issuenumber': 669, 'title': 'Delegated functions destructured from ctx throw when invoked', 'state': 'closed', 'created_at': '2016-03-01T22:49:36Z', 'closed_at': '2016-03-06T11:09:42Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 663, 'title': "Request .get should return undefined instead of '' as falsy value for missing headers.", 'state': 'closed', 'created_at': '2016-02-26T21:27:08Z', 'closed_at': '2016-02-29T14:58:51Z', 'labels': []}
+{'issuenumber': 662, 'title': 'Cant remove headers after they are sent', 'state': 'closed', 'created_at': '2016-02-23T23:13:20Z', 'closed_at': '2016-02-24T18:28:38Z', 'labels': []}
+{'issuenumber': 660, 'title': 'app as middleware', 'state': 'closed', 'created_at': '2016-02-17T08:14:37Z', 'closed_at': '2016-02-17T08:41:22Z', 'labels': []}
+{'issuenumber': 659, 'title': 'How to stop server, mid process?', 'state': 'closed', 'created_at': '2016-02-15T03:21:57Z', 'closed_at': '2016-02-15T11:17:53Z', 'labels': []}
+{'issuenumber': 657, 'title': 'Flush headers option?', 'state': 'closed', 'created_at': '2016-02-07T21:58:27Z', 'closed_at': '2016-03-15T21:07:59Z', 'labels': {'name': 'PR Welcomed'}}
+{'issuenumber': 656, 'title': 'Unable to set statusText via this.throw(status, message)', 'state': 'closed', 'created_at': '2016-02-04T21:01:14Z', 'closed_at': '2016-02-05T10:43:38Z', 'labels': []}
+{'issuenumber': 655, 'title': 'Getting EPIPE error when spamming refresh, is this normal?', 'state': 'closed', 'created_at': '2016-01-28T10:14:03Z', 'closed_at': '2016-01-28T11:36:57Z', 'labels': []}
+{'issuenumber': 652, 'title': "Unable to extend the app's context in Koa@2", 'state': 'closed', 'created_at': '2016-01-24T17:12:07Z', 'closed_at': '2016-05-14T15:37:14Z', 'labels': {'name': 'question'}}
+{'issuenumber': 648, 'title': 'A minimal boilerplate of koa v2.', 'state': 'closed', 'created_at': '2016-01-20T11:47:29Z', 'closed_at': '2016-01-25T17:18:39Z', 'labels': []}
+{'issuenumber': 646, 'title': "404 with `await ctx.render('404')` has `application/json` content type", 'state': 'closed', 'created_at': '2016-01-19T17:42:49Z', 'closed_at': '2016-03-15T21:05:24Z', 'labels': []}
+{'issuenumber': 642, 'title': 'render handlebars', 'state': 'closed', 'created_at': '2016-01-18T08:44:20Z', 'closed_at': '2016-01-19T08:19:07Z', 'labels': {'name': 'question'}}
+{'issuenumber': 639, 'title': 'Mistake in the koa v2 examples', 'state': 'closed', 'created_at': '2016-01-18T04:50:06Z', 'closed_at': '2016-01-18T05:55:58Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 636, 'title': 'Document error and 404 handling for koa@next', 'state': 'closed', 'created_at': '2016-01-16T19:37:30Z', 'closed_at': '2016-01-16T19:38:24Z', 'labels': []}
+{'issuenumber': 633, 'title': 'Newbie question: how to start with Koa 2?', 'state': 'closed', 'created_at': '2016-01-05T20:30:55Z', 'closed_at': '2016-01-06T17:06:05Z', 'labels': []}
+{'issuenumber': 632, 'title': 'Cannot set this.body inside an Async call', 'state': 'closed', 'created_at': '2016-01-04T23:38:12Z', 'closed_at': '2016-01-05T00:33:00Z', 'labels': []}
+{'issuenumber': 631, 'title': 'KOA 2.0 Status', 'state': 'closed', 'created_at': '2015-12-30T13:56:41Z', 'closed_at': '2016-01-17T23:48:47Z', 'labels': []}
+{'issuenumber': 630, 'title': 'Unexpected handling of errors with expose=true', 'state': 'closed', 'created_at': '2015-12-28T23:09:21Z', 'closed_at': '2016-01-20T06:06:19Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 625, 'title': 'Migration bot', 'state': 'closed', 'created_at': '2015-12-20T05:17:12Z', 'closed_at': '2017-03-14T08:56:49Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 622, 'title': 'Can we mount express app into koa?', 'state': 'closed', 'created_at': '2015-12-16T03:51:41Z', 'closed_at': '2015-12-17T15:43:07Z', 'labels': {'name': 'question'}}
+{'issuenumber': 621, 'title': 'Create migration docs from Koa 1.x to 2.x', 'state': 'closed', 'created_at': '2015-12-13T18:11:47Z', 'closed_at': '2016-01-18T00:18:44Z', 'labels': []}
+{'issuenumber': 620, 'title': 'any views can be use in koa2.0?', 'state': 'closed', 'created_at': '2015-12-10T05:44:42Z', 'closed_at': '2016-01-17T21:29:12Z', 'labels': []}
+{'issuenumber': 619, 'title': "koa automaticlly caught exceptions caused me I can't record the error message，I want to record this message in the log，\x08besides modify source code ，could I have some good method ? ", 'state': 'closed', 'created_at': '2015-12-10T02:57:14Z', 'closed_at': '2015-12-10T09:05:30Z', 'labels': {'name': 'question'}}
+{'issuenumber': 618, 'title': 'Middlewares compatible with Koa 2.0', 'state': 'closed', 'created_at': '2015-12-04T21:17:51Z', 'closed_at': '2016-03-23T17:25:13Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 617, 'title': ".is('xml') not accepting text/xml", 'state': 'closed', 'created_at': '2015-12-04T10:13:02Z', 'closed_at': '2016-02-29T00:44:09Z', 'labels': []}
+{'issuenumber': 616, 'title': 'Can anyone edit the Wiki to add their Koa middleware?', 'state': 'closed', 'created_at': '2015-12-02T22:12:03Z', 'closed_at': '2015-12-02T22:35:43Z', 'labels': {'name': 'question'}}
+{'issuenumber': 615, 'title': '`ctx` passed as a argument vs bound as `this`', 'state': 'closed', 'created_at': '2015-12-02T21:23:41Z', 'closed_at': '2015-12-02T21:29:35Z', 'labels': []}
+{'issuenumber': 613, 'title': 'why context.onerror remove headers?', 'state': 'closed', 'created_at': '2015-12-02T12:32:46Z', 'closed_at': '2015-12-02T18:56:00Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 611, 'title': "Koa v1 - process.on('SIGINT', ...) causes Koa to never release port. How to detect app exit? ", 'state': 'closed', 'created_at': '2015-11-27T16:59:00Z', 'closed_at': '2015-11-29T20:11:49Z', 'labels': []}
+{'issuenumber': 610, 'title': 'Have template to support  koa 2.x？', 'state': 'closed', 'created_at': '2015-11-27T05:35:44Z', 'closed_at': '2015-11-29T19:14:35Z', 'labels': []}
+{'issuenumber': 609, 'title': 'Extending context with Koa 2.0', 'state': 'closed', 'created_at': '2015-11-25T21:26:35Z', 'closed_at': '2016-01-17T21:32:47Z', 'labels': []}
+{'issuenumber': 607, 'title': 'a promise was created in a  handler but was not returned from it', 'state': 'closed', 'created_at': '2015-11-25T03:42:24Z', 'closed_at': '2015-12-01T18:43:17Z', 'labels': []}
+{'issuenumber': 604, 'title': 'Setting up project/development environment - Guide', 'state': 'closed', 'created_at': '2015-11-24T09:00:17Z', 'closed_at': '2016-01-18T00:26:14Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 603, 'title': 'default branch to v1.x', 'state': 'closed', 'created_at': '2015-11-24T06:07:46Z', 'closed_at': '2016-01-18T00:27:28Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 602, 'title': 'Npm Koa: Wrong version', 'state': 'closed', 'created_at': '2015-11-24T00:01:05Z', 'closed_at': '2015-11-24T16:15:36Z', 'labels': []}
+{'issuenumber': 600, 'title': 'Error thrown twice', 'state': 'closed', 'created_at': '2015-11-20T20:55:21Z', 'closed_at': '2015-11-20T21:41:43Z', 'labels': []}
+{'issuenumber': 599, 'title': 'How do I get the real ip?', 'state': 'closed', 'created_at': '2015-11-19T03:38:27Z', 'closed_at': '2015-11-19T22:02:20Z', 'labels': []}
+{'issuenumber': 596, 'title': 'Document which babel presets/plugins are required', 'state': 'closed', 'created_at': '2015-11-15T00:34:16Z', 'closed_at': '2016-03-23T18:24:02Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 594, 'title': "this.response.body = null; still returns 'OK'", 'state': 'closed', 'created_at': '2015-11-14T01:17:47Z', 'closed_at': '2015-11-14T02:01:20Z', 'labels': []}
+{'issuenumber': 593, 'title': 'Sending chunked responses', 'state': 'closed', 'created_at': '2015-11-10T08:19:55Z', 'closed_at': '2016-01-27T04:26:50Z', 'labels': []}
+{'issuenumber': 591, 'title': '[Koa 2] Style of middleware with extra arguments', 'state': 'closed', 'created_at': '2015-11-07T09:28:14Z', 'closed_at': '2016-03-15T21:07:05Z', 'labels': {'name': 'question'}}
+{'issuenumber': 587, 'title': '[Koa 2] Most popular middleware to test / upgrade', 'state': 'closed', 'created_at': '2015-11-04T09:36:06Z', 'closed_at': '2015-11-23T04:24:21Z', 'labels': []}
+{'issuenumber': 585, 'title': 'Using Koa 2 with Babel 6 / Next is not a function', 'state': 'closed', 'created_at': '2015-11-03T22:06:19Z', 'closed_at': '2015-11-04T17:47:09Z', 'labels': []}
+{'issuenumber': 584, 'title': 'Problem with async generators', 'state': 'closed', 'created_at': '2015-11-02T19:33:51Z', 'closed_at': '2015-11-02T19:35:05Z', 'labels': []}
+{'issuenumber': 581, 'title': 'Best practice for async with Koa 2.0', 'state': 'closed', 'created_at': '2015-11-01T06:11:17Z', 'closed_at': '2016-01-18T00:29:39Z', 'labels': {'name': 'question'}}
+{'issuenumber': 580, 'title': 'Where does maintainer discussion of Koa happen?', 'state': 'closed', 'created_at': '2015-10-31T21:09:03Z', 'closed_at': '2015-10-31T22:25:13Z', 'labels': []}
+{'issuenumber': 577, 'title': 'too many `this`', 'state': 'closed', 'created_at': '2015-10-31T14:57:06Z', 'closed_at': '2015-10-31T15:49:52Z', 'labels': []}
+{'issuenumber': 576, 'title': 'get socket() - "TODO: TLS"', 'state': 'closed', 'created_at': '2015-10-31T13:37:29Z', 'closed_at': '2016-03-01T23:01:52Z', 'labels': {'name': 'question'}}
+{'issuenumber': 575, 'title': 'response.js "TODO: wtf" :)', 'state': 'closed', 'created_at': '2015-10-31T13:34:16Z', 'closed_at': '2015-10-31T19:32:51Z', 'labels': []}
+{'issuenumber': 572, 'title': 'Documentation should include an example of babel configuration', 'state': 'closed', 'created_at': '2015-10-30T05:56:07Z', 'closed_at': '2015-11-07T04:12:40Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 571, 'title': 'Way to set headers on HttpErrors', 'state': 'closed', 'created_at': '2015-10-29T18:37:13Z', 'closed_at': '2016-03-04T03:20:53Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 569, 'title': 'Do I have to pass ctx to await next() ?', 'state': 'closed', 'created_at': '2015-10-28T22:07:58Z', 'closed_at': '2016-03-15T21:05:58Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 568, 'title': "TypeError: Class constructors cannot be invoked without 'new'", 'state': 'closed', 'created_at': '2015-10-28T20:22:28Z', 'closed_at': '2015-10-28T20:43:08Z', 'labels': []}
+{'issuenumber': 566, 'title': 'Logo 2.0', 'state': 'closed', 'created_at': '2015-10-28T15:27:09Z', 'closed_at': '2016-05-17T23:25:15Z', 'labels': []}
+{'issuenumber': 564, 'title': 'Broken middleware since 2.0.0', 'state': 'closed', 'created_at': '2015-10-28T13:57:53Z', 'closed_at': '2015-10-28T14:19:16Z', 'labels': []}
+{'issuenumber': 563, 'title': 'How to set `app.proxy`?', 'state': 'closed', 'created_at': '2015-10-28T12:59:05Z', 'closed_at': '2015-10-31T18:15:10Z', 'labels': []}
+{'issuenumber': 559, 'title': 'Remove Makefile, put everything in npm scripts', 'state': 'closed', 'created_at': '2015-10-27T19:17:48Z', 'closed_at': '2017-05-11T03:40:30Z', 'labels': {'name': 'question'}}
+{'issuenumber': 557, 'title': 'Drop co dependency', 'state': 'closed', 'created_at': '2015-10-27T14:31:26Z', 'closed_at': '2015-10-27T23:25:09Z', 'labels': []}
+{'issuenumber': 556, 'title': 'Koa TypeScript - Type Definition request', 'state': 'closed', 'created_at': '2015-10-26T21:11:05Z', 'closed_at': '2015-11-19T21:03:30Z', 'labels': []}
+{'issuenumber': 554, 'title': 'Daemon on top of Koa', 'state': 'closed', 'created_at': '2015-10-25T11:22:37Z', 'closed_at': '2015-10-25T11:36:36Z', 'labels': {'name': 'question'}}
+{'issuenumber': 552, 'title': 'Indentation for multiple props in new lines', 'state': 'closed', 'created_at': '2015-10-25T08:46:23Z', 'closed_at': '2015-10-30T22:33:00Z', 'labels': {'name': 'refactor'}}
+{'issuenumber': 551, 'title': 'Use arrow functions for all callbacks', 'state': 'closed', 'created_at': '2015-10-25T08:39:26Z', 'closed_at': '2015-11-02T19:25:57Z', 'labels': {'name': 'refactor'}}
+{'issuenumber': 543, 'title': 'koa streaming with eventsource... how to?', 'state': 'closed', 'created_at': '2015-10-23T18:08:03Z', 'closed_at': '2016-02-29T18:14:53Z', 'labels': {'name': 'question'}}
+{'issuenumber': 540, 'title': 'add deprecation warning to koa v1 about the new v2 middleware signature', 'state': 'closed', 'created_at': '2015-10-22T23:33:13Z', 'closed_at': '2015-11-04T19:23:32Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 539, 'title': 'end-to-end testing w/ babel', 'state': 'closed', 'created_at': '2015-10-22T23:32:51Z', 'closed_at': '2015-11-07T04:12:40Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 538, 'title': 'Update docs for new async (ctx, next) => middleware signature', 'state': 'closed', 'created_at': '2015-10-22T23:32:32Z', 'closed_at': '2015-10-31T03:20:31Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 537, 'title': 'Response headers are ignored on error', 'state': 'closed', 'created_at': '2015-10-21T00:39:45Z', 'closed_at': '2016-01-18T00:32:56Z', 'labels': {'name': 'question'}}
+{'issuenumber': 535, 'title': '"fn.call is not a function"', 'state': 'closed', 'created_at': '2015-10-19T17:30:25Z', 'closed_at': '2015-10-20T01:38:21Z', 'labels': []}
+{'issuenumber': 533, 'title': 'Koa 2.0.0', 'state': 'closed', 'created_at': '2015-10-16T00:10:01Z', 'closed_at': '2017-02-25T06:50:55Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 532, 'title': "'Content-Type' hard not to send", 'state': 'closed', 'created_at': '2015-10-14T08:01:21Z', 'closed_at': '2015-10-22T22:39:33Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 523, 'title': 'Semantic release', 'state': 'closed', 'created_at': '2015-10-12T07:57:56Z', 'closed_at': '2016-01-18T00:30:49Z', 'labels': []}
+{'issuenumber': 522, 'title': 'Build failing - style issues', 'state': 'closed', 'created_at': '2015-10-12T07:27:16Z', 'closed_at': '2015-10-12T20:50:20Z', 'labels': []}
+{'issuenumber': 521, 'title': 'Uploading file with PUT - need to pipe context.req?', 'state': 'closed', 'created_at': '2015-10-12T07:22:59Z', 'closed_at': '2015-10-13T17:18:45Z', 'labels': []}
+{'issuenumber': 497, 'title': 'Test failure: app should handle socket errors', 'state': 'closed', 'created_at': '2015-10-11T06:53:27Z', 'closed_at': '2015-10-11T06:55:48Z', 'labels': []}
+{'issuenumber': 496, 'title': 'Remove support for node < 4', 'state': 'closed', 'created_at': '2015-10-11T06:39:31Z', 'closed_at': '2015-10-12T04:23:07Z', 'labels': {'name': 'question'}}
+{'issuenumber': 495, 'title': 'Linting', 'state': 'closed', 'created_at': '2015-10-11T06:36:08Z', 'closed_at': '2015-10-13T17:18:38Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 494, 'title': 'Minimum version -> Node 4.0', 'state': 'closed', 'created_at': '2015-10-09T05:12:21Z', 'closed_at': '2015-10-10T22:11:46Z', 'labels': []}
+{'issuenumber': 487, 'title': 'Weird function spacing', 'state': 'closed', 'created_at': '2015-10-05T23:14:46Z', 'closed_at': '2015-10-06T16:40:56Z', 'labels': []}
+{'issuenumber': 484, 'title': 'ES6 refactor', 'state': 'closed', 'created_at': '2015-10-05T17:50:57Z', 'closed_at': '2015-10-12T06:13:01Z', 'labels': []}
+{'issuenumber': 482, 'title': 'Make app.listen() return a promise', 'state': 'closed', 'created_at': '2015-10-02T23:38:59Z', 'closed_at': '2015-10-05T23:32:43Z', 'labels': []}
+{'issuenumber': 479, 'title': 'Limit on HTTP request headers size', 'state': 'closed', 'created_at': '2015-09-17T07:40:47Z', 'closed_at': '2015-09-20T05:38:59Z', 'labels': []}
+{'issuenumber': 477, 'title': 'HTTP/2 support', 'state': 'closed', 'created_at': '2015-09-07T11:08:49Z', 'closed_at': '2015-09-08T03:05:53Z', 'labels': []}
+{'issuenumber': 476, 'title': 'add support for ctx.origin', 'state': 'closed', 'created_at': '2015-09-03T20:46:43Z', 'closed_at': '2015-10-11T06:34:15Z', 'labels': []}
+{'issuenumber': 474, 'title': 'How to send response in koa', 'state': 'closed', 'created_at': '2015-08-29T18:37:06Z', 'closed_at': '2015-08-30T16:27:49Z', 'labels': []}
+{'issuenumber': 473, 'title': 'API for extending context', 'state': 'closed', 'created_at': '2015-08-25T02:06:28Z', 'closed_at': '2015-08-31T18:02:24Z', 'labels': []}
+{'issuenumber': 470, 'title': "Setting a custom value on the 'context'", 'state': 'closed', 'created_at': '2015-08-22T23:02:13Z', 'closed_at': '2015-08-23T12:08:53Z', 'labels': []}
+{'issuenumber': 469, 'title': 'use next version of cookies', 'state': 'closed', 'created_at': '2015-08-22T21:52:20Z', 'closed_at': '2020-07-14T15:51:45Z', 'labels': {'name': 'version-minor'}}
+{'issuenumber': 467, 'title': "It's time to release 1.0.0", 'state': 'closed', 'created_at': '2015-08-20T10:45:37Z', 'closed_at': '2015-08-22T21:48:08Z', 'labels': []}
+{'issuenumber': 466, 'title': 'Not Found', 'state': 'closed', 'created_at': '2015-08-17T21:37:13Z', 'closed_at': '2015-08-17T22:56:29Z', 'labels': []}
+{'issuenumber': 465, 'title': 'On "error" event not possible to set error object as response body', 'state': 'closed', 'created_at': '2015-08-16T08:11:45Z', 'closed_at': '2015-08-18T14:51:23Z', 'labels': []}
+{'issuenumber': 464, 'title': 'Not possible to throw exception on "error" event', 'state': 'closed', 'created_at': '2015-08-15T20:07:14Z', 'closed_at': '2015-08-16T10:17:56Z', 'labels': []}
+{'issuenumber': 463, 'title': 'How can I find the original route?', 'state': 'closed', 'created_at': '2015-08-04T06:29:58Z', 'closed_at': '2015-08-04T06:37:53Z', 'labels': []}
+{'issuenumber': 461, 'title': 'Making a Call to Koa App Route for Unit Tests', 'state': 'closed', 'created_at': '2015-07-17T08:27:41Z', 'closed_at': '2015-07-17T19:57:32Z', 'labels': []}
+{'issuenumber': 459, 'title': 'Koa Debugging', 'state': 'closed', 'created_at': '2015-07-13T07:01:48Z', 'closed_at': '2015-07-14T09:08:23Z', 'labels': []}
+{'issuenumber': 458, 'title': 'How to use a streaming JSON parser with Koa?', 'state': 'closed', 'created_at': '2015-07-06T00:55:08Z', 'closed_at': '2015-08-22T21:41:57Z', 'labels': []}
+{'issuenumber': 456, 'title': 'Stream error handling', 'state': 'closed', 'created_at': '2015-06-24T11:02:46Z', 'closed_at': '2015-06-24T13:57:01Z', 'labels': []}
+{'issuenumber': 455, 'title': 'How to setup Koa reverse proxy to all “/api” requests to by-pass CORS communication with API server?', 'state': 'closed', 'created_at': '2015-06-24T09:57:02Z', 'closed_at': '2015-06-29T11:14:56Z', 'labels': {'name': 'question'}}
+{'issuenumber': 454, 'title': 'Is it possible to compile a Koa app to ES5?', 'state': 'closed', 'created_at': '2015-06-24T05:40:11Z', 'closed_at': '2015-06-25T08:53:06Z', 'labels': []}
+{'issuenumber': 453, 'title': 'koa-static question', 'state': 'closed', 'created_at': '2015-06-22T04:20:02Z', 'closed_at': '2015-06-22T07:18:21Z', 'labels': []}
+{'issuenumber': 452, 'title': 'problem with using wildcard', 'state': 'closed', 'created_at': '2015-06-21T04:34:46Z', 'closed_at': '2015-06-21T14:19:31Z', 'labels': []}
+{'issuenumber': 450, 'title': 'wiki page: please swap places of package name and downloads state widget', 'state': 'closed', 'created_at': '2015-06-13T15:51:16Z', 'closed_at': '2015-06-29T07:06:26Z', 'labels': []}
+{'issuenumber': 449, 'title': 'question :  where do I close the database ', 'state': 'closed', 'created_at': '2015-06-10T16:39:51Z', 'closed_at': '2015-06-10T17:02:00Z', 'labels': []}
+{'issuenumber': 447, 'title': 'Add a silent option', 'state': 'closed', 'created_at': '2015-05-25T05:29:06Z', 'closed_at': '2015-10-11T06:34:55Z', 'labels': []}
+{'issuenumber': 444, 'title': 'update supertest to ^1.0.1', 'state': 'closed', 'created_at': '2015-05-24T03:13:23Z', 'closed_at': '2015-05-24T12:30:22Z', 'labels': {'name': 'tests'}}
+{'issuenumber': 442, 'title': 'What are the units for the Koa vs Express "performance" table?', 'state': 'closed', 'created_at': '2015-05-21T16:44:16Z', 'closed_at': '2015-05-24T03:08:15Z', 'labels': []}
+{'issuenumber': 441, 'title': 'can anyone explain why this is not working ', 'state': 'closed', 'created_at': '2015-05-05T12:47:57Z', 'closed_at': '2015-05-05T19:25:03Z', 'labels': []}
+{'issuenumber': 440, 'title': 'context.is  or request.is return null', 'state': 'closed', 'created_at': '2015-05-05T02:11:05Z', 'closed_at': '2015-05-05T02:30:45Z', 'labels': []}
+{'issuenumber': 439, 'title': 'How use assets in koajs?', 'state': 'closed', 'created_at': '2015-05-04T12:32:04Z', 'closed_at': '2015-05-04T13:28:37Z', 'labels': []}
+{'issuenumber': 437, 'title': 'node.js and io.js, which is better for building RESTful API with koa?', 'state': 'closed', 'created_at': '2015-04-20T02:28:37Z', 'closed_at': '2015-04-20T08:54:32Z', 'labels': []}
+{'issuenumber': 435, 'title': 'Any consideration for clientside support?', 'state': 'closed', 'created_at': '2015-04-16T04:15:25Z', 'closed_at': '2015-04-30T05:37:32Z', 'labels': []}
+{'issuenumber': 433, 'title': 'nodemailer in koajs', 'state': 'closed', 'created_at': '2015-04-13T02:59:06Z', 'closed_at': '2015-04-13T20:18:31Z', 'labels': []}
+{'issuenumber': 432, 'title': 'Assert in ctx.onerror not caught', 'state': 'closed', 'created_at': '2015-04-09T19:30:10Z', 'closed_at': '2015-04-14T03:53:16Z', 'labels': []}
+{'issuenumber': 430, 'title': "Wrap Express's middleware to koa", 'state': 'closed', 'created_at': '2015-04-03T07:33:58Z', 'closed_at': '2015-04-03T16:28:11Z', 'labels': []}
+{'issuenumber': 429, 'title': ' adding support for specifying headers in ctx.onerror', 'state': 'closed', 'created_at': '2015-03-31T05:08:15Z', 'closed_at': '2016-01-18T03:38:08Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 428, 'title': 'context  extends pattern', 'state': 'closed', 'created_at': '2015-03-30T12:16:42Z', 'closed_at': '2015-04-02T23:58:57Z', 'labels': []}
+{'issuenumber': 425, 'title': 'Is there a similar method https.request', 'state': 'closed', 'created_at': '2015-03-26T01:41:02Z', 'closed_at': '2015-03-26T05:04:56Z', 'labels': []}
+{'issuenumber': 424, 'title': 'this.status incorrectly set in finally block', 'state': 'closed', 'created_at': '2015-03-21T18:14:06Z', 'closed_at': '2015-03-21T20:55:26Z', 'labels': []}
+{'issuenumber': 423, 'title': 'this.throw() ignores other headers', 'state': 'closed', 'created_at': '2015-03-17T05:52:15Z', 'closed_at': '2015-03-17T05:54:48Z', 'labels': []}
+{'issuenumber': 422, 'title': 'realtime ?', 'state': 'closed', 'created_at': '2015-03-12T14:12:22Z', 'closed_at': '2015-03-18T02:51:07Z', 'labels': []}
+{'issuenumber': 421, 'title': 'js filter processing filters', 'state': 'closed', 'created_at': '2015-03-10T03:11:32Z', 'closed_at': '2015-03-10T03:50:57Z', 'labels': []}
+{'issuenumber': 420, 'title': 'Implications of adopting async await with es7', 'state': 'closed', 'created_at': '2015-03-06T02:28:29Z', 'closed_at': '2015-03-10T13:45:49Z', 'labels': []}
+{'issuenumber': 417, 'title': 'How to test for `obj instanceof koaContext`?', 'state': 'closed', 'created_at': '2015-02-19T04:36:25Z', 'closed_at': '2015-02-27T08:34:15Z', 'labels': []}
+{'issuenumber': 416, 'title': 'fix node stream BS', 'state': 'closed', 'created_at': '2015-02-18T23:48:06Z', 'closed_at': '2015-02-19T01:08:22Z', 'labels': []}
+{'issuenumber': 415, 'title': 'es7 async function feedback', 'state': 'closed', 'created_at': '2015-02-16T00:48:49Z', 'closed_at': '2015-10-22T23:35:40Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 411, 'title': 'Retain CORS headers in onerror', 'state': 'closed', 'created_at': '2015-02-07T11:38:06Z', 'closed_at': '2015-02-15T03:50:38Z', 'labels': []}
+{'issuenumber': 408, 'title': 'tutorial wanted question ', 'state': 'closed', 'created_at': '2015-02-04T12:37:41Z', 'closed_at': '2015-02-04T13:13:43Z', 'labels': []}
+{'issuenumber': 407, 'title': 'what is wrong here ? ', 'state': 'closed', 'created_at': '2015-02-04T07:27:20Z', 'closed_at': '2015-02-04T09:38:37Z', 'labels': []}
+{'issuenumber': 406, 'title': 'Replace media-typer with content-type', 'state': 'closed', 'created_at': '2015-02-04T05:56:41Z', 'closed_at': '2015-02-08T03:47:36Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 398, 'title': 'Test failed in v0.11.15, url module has some break change', 'state': 'closed', 'created_at': '2015-01-23T16:38:46Z', 'closed_at': '2015-01-23T16:47:11Z', 'labels': []}
+{'issuenumber': 397, 'title': 'Error message when using wrong version of Node', 'state': 'closed', 'created_at': '2015-01-23T04:50:07Z', 'closed_at': '2015-01-24T12:42:02Z', 'labels': []}
+{'issuenumber': 396, 'title': 'why here this ~~', 'state': 'closed', 'created_at': '2015-01-22T07:01:27Z', 'closed_at': '2015-01-22T11:48:24Z', 'labels': []}
+{'issuenumber': 395, 'title': 'add support to use middleware even after `app.callback()` called.', 'state': 'closed', 'created_at': '2015-01-22T06:31:58Z', 'closed_at': '2015-01-22T10:02:54Z', 'labels': []}
+{'issuenumber': 392, 'title': 'question : where can I find the best help on koa.js', 'state': 'closed', 'created_at': '2015-01-21T13:38:25Z', 'closed_at': '2015-01-21T18:41:36Z', 'labels': []}
+{'issuenumber': 391, 'title': 'Redirect 302/303', 'state': 'closed', 'created_at': '2015-01-19T11:47:29Z', 'closed_at': '2015-03-28T21:17:49Z', 'labels': []}
+{'issuenumber': 389, 'title': 'possible 0.15.0 release?', 'state': 'closed', 'created_at': '2015-01-14T19:45:24Z', 'closed_at': '2015-01-19T06:04:52Z', 'labels': []}
+{'issuenumber': 385, 'title': 'Koajs.com says to use 0.11.12/0.11.x, but in fact requires >= 0.11.13', 'state': 'closed', 'created_at': '2014-12-30T19:22:08Z', 'closed_at': '2014-12-30T19:36:10Z', 'labels': []}
+{'issuenumber': 384, 'title': 'conditional use', 'state': 'closed', 'created_at': '2014-12-28T11:42:55Z', 'closed_at': '2014-12-28T11:44:04Z', 'labels': []}
+{'issuenumber': 383, 'title': 'Dependency injection implementation', 'state': 'closed', 'created_at': '2014-12-25T23:19:05Z', 'closed_at': '2014-12-26T12:36:34Z', 'labels': []}
+{'issuenumber': 382, 'title': 'Does Koa safely handle errors?', 'state': 'closed', 'created_at': '2014-12-20T18:39:42Z', 'closed_at': '2014-12-26T22:05:10Z', 'labels': []}
+{'issuenumber': 381, 'title': 'Promise is not defined', 'state': 'closed', 'created_at': '2014-12-20T07:36:14Z', 'closed_at': '2014-12-20T08:11:58Z', 'labels': []}
+{'issuenumber': 380, 'title': "Version 0.14 doesn't support Promise/A+ spec", 'state': 'closed', 'created_at': '2014-12-18T23:49:15Z', 'closed_at': '2014-12-19T00:05:58Z', 'labels': []}
+{'issuenumber': 379, 'title': 'When will the koa 1.0 release ?', 'state': 'closed', 'created_at': '2014-12-16T02:20:31Z', 'closed_at': '2015-01-17T08:45:46Z', 'labels': []}
+{'issuenumber': 378, 'title': 'Parallel request handling of same url', 'state': 'closed', 'created_at': '2014-12-11T22:00:11Z', 'closed_at': '2014-12-12T01:41:08Z', 'labels': []}
+{'issuenumber': 375, 'title': "How can I ensure the path slash '/' is appended?", 'state': 'closed', 'created_at': '2014-12-07T03:40:06Z', 'closed_at': '2014-12-10T06:42:26Z', 'labels': []}
+{'issuenumber': 373, 'title': 'debugging slow middleware ', 'state': 'closed', 'created_at': '2014-12-04T21:40:12Z', 'closed_at': '2014-12-04T21:58:04Z', 'labels': {'name': 'question'}}
+{'issuenumber': 372, 'title': 'remove x-powered-by', 'state': 'closed', 'created_at': '2014-12-04T08:47:26Z', 'closed_at': '2014-12-04T09:02:00Z', 'labels': []}
+{'issuenumber': 368, 'title': 'Co 4.0.0', 'state': 'closed', 'created_at': '2014-11-22T08:21:23Z', 'closed_at': '2014-11-28T07:23:11Z', 'labels': []}
+{'issuenumber': 367, 'title': 'Middleware logging... how to?', 'state': 'closed', 'created_at': '2014-11-19T07:52:16Z', 'closed_at': '2016-03-04T03:43:15Z', 'labels': {'name': '1.x'}}
+{'issuenumber': 365, 'title': "why this code doesn't work", 'state': 'closed', 'created_at': '2014-11-12T08:52:05Z', 'closed_at': '2014-11-12T09:00:26Z', 'labels': []}
+{'issuenumber': 364, 'title': 'Discussion: Using Koa within a callback', 'state': 'closed', 'created_at': '2014-11-10T17:46:16Z', 'closed_at': '2014-11-10T21:37:29Z', 'labels': []}
+{'issuenumber': 363, 'title': 'may redirect cause XSS?', 'state': 'closed', 'created_at': '2014-11-05T12:18:17Z', 'closed_at': '2014-11-05T14:18:17Z', 'labels': []}
+{'issuenumber': 360, 'title': 'Provide mechanism to run code after response ends', 'state': 'closed', 'created_at': '2014-10-27T21:12:49Z', 'closed_at': '2014-10-27T22:16:06Z', 'labels': []}
+{'issuenumber': 358, 'title': 'How to mount multiple KOA applications with one single http server', 'state': 'closed', 'created_at': '2014-10-27T15:08:54Z', 'closed_at': '2014-10-27T15:21:17Z', 'labels': []}
+{'issuenumber': 355, 'title': 'authors', 'state': 'closed', 'created_at': '2014-10-09T16:23:29Z', 'closed_at': '2014-10-09T16:41:14Z', 'labels': []}
+{'issuenumber': 350, 'title': 'About Customize HTTP Status Codes', 'state': 'closed', 'created_at': '2014-09-27T05:12:16Z', 'closed_at': '2014-10-02T08:42:10Z', 'labels': []}
+{'issuenumber': 348, 'title': 'res.attachment always add ".txt" on the filename', 'state': 'closed', 'created_at': '2014-09-22T17:32:19Z', 'closed_at': '2014-09-22T18:08:38Z', 'labels': []}
+{'issuenumber': 343, 'title': 'get coverage to 100%', 'state': 'closed', 'created_at': '2014-09-08T08:47:38Z', 'closed_at': '2014-09-08T23:04:51Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 342, 'title': 'host the docs at koajs.github.io as well?', 'state': 'closed', 'created_at': '2014-09-08T08:31:25Z', 'closed_at': '2014-10-20T01:58:57Z', 'labels': []}
+{'issuenumber': 341, 'title': 'this.assert', 'state': 'closed', 'created_at': '2014-09-06T02:45:43Z', 'closed_at': '2014-09-20T20:24:06Z', 'labels': []}
+{'issuenumber': 339, 'title': 'es7 async/await', 'state': 'closed', 'created_at': '2014-09-02T09:13:13Z', 'closed_at': '2015-02-15T03:54:29Z', 'labels': []}
+{'issuenumber': 338, 'title': 'Any "best-practice" for attaching data in middleware?', 'state': 'closed', 'created_at': '2014-09-01T06:02:52Z', 'closed_at': '2014-10-02T16:48:18Z', 'labels': []}
+{'issuenumber': 336, 'title': 'req.query nested objects support?', 'state': 'closed', 'created_at': '2014-08-17T11:47:16Z', 'closed_at': '2014-08-17T19:18:55Z', 'labels': []}
+{'issuenumber': 335, 'title': 'feature: use() should accept an array of function', 'state': 'closed', 'created_at': '2014-08-12T23:13:34Z', 'closed_at': '2014-08-13T02:31:13Z', 'labels': []}
+{'issuenumber': 331, 'title': 'modularize the context/request/response abstraction', 'state': 'closed', 'created_at': '2014-08-07T22:00:05Z', 'closed_at': '2014-08-07T22:04:03Z', 'labels': []}
+{'issuenumber': 329, 'title': 'May I use  async method with koa?', 'state': 'closed', 'created_at': '2014-08-06T03:16:17Z', 'closed_at': '2014-08-06T03:18:01Z', 'labels': []}
+{'issuenumber': 328, 'title': 'Shut down server (something similar to expressjs close() method)', 'state': 'closed', 'created_at': '2014-08-05T19:43:39Z', 'closed_at': '2014-08-05T19:44:03Z', 'labels': []}
+{'issuenumber': 325, 'title': "Get empty object when setting response body via this.body = new Error('this is an error');", 'state': 'closed', 'created_at': '2014-08-04T03:00:10Z', 'closed_at': '2014-08-04T03:03:52Z', 'labels': []}
+{'issuenumber': 322, 'title': 'gif in doc is 404', 'state': 'closed', 'created_at': '2014-07-31T06:35:07Z', 'closed_at': '2014-08-04T03:47:15Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 321, 'title': 'After app.listen the Application ignores app.use', 'state': 'closed', 'created_at': '2014-07-29T18:01:31Z', 'closed_at': '2014-07-29T18:24:29Z', 'labels': []}
+{'issuenumber': 320, 'title': 'Hard to set cookie `secure = true` by default ', 'state': 'closed', 'created_at': '2014-07-28T02:44:00Z', 'closed_at': '2014-07-29T07:14:10Z', 'labels': {'name': 'question'}}
+{'issuenumber': 318, 'title': 'Set content-type only in the first time when set body', 'state': 'closed', 'created_at': '2014-07-23T03:52:01Z', 'closed_at': '2014-07-23T05:57:43Z', 'labels': []}
+{'issuenumber': 315, 'title': 'support util.format in this.throw', 'state': 'closed', 'created_at': '2014-07-10T01:26:05Z', 'closed_at': '2014-08-08T20:31:50Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 310, 'title': 'Preserve object key ordering across yields', 'state': 'closed', 'created_at': '2014-07-03T23:41:54Z', 'closed_at': '2014-07-28T03:38:31Z', 'labels': []}
+{'issuenumber': 309, 'title': 'onerror headers', 'state': 'closed', 'created_at': '2014-06-30T19:28:52Z', 'closed_at': '2014-06-30T19:45:05Z', 'labels': []}
+{'issuenumber': 308, 'title': 'Better error handling?', 'state': 'closed', 'created_at': '2014-06-20T18:57:43Z', 'closed_at': '2014-06-20T19:07:06Z', 'labels': []}
+{'issuenumber': 307, 'title': 'Error handling is confusing', 'state': 'closed', 'created_at': '2014-06-18T18:36:10Z', 'closed_at': '2014-06-18T19:48:27Z', 'labels': []}
+{'issuenumber': 305, 'title': 'Doc generator of Koa and Commander', 'state': 'closed', 'created_at': '2014-06-15T07:31:34Z', 'closed_at': '2014-06-15T07:37:07Z', 'labels': []}
+{'issuenumber': 303, 'title': 'Confusing workflow', 'state': 'closed', 'created_at': '2014-06-13T18:39:45Z', 'closed_at': '2014-06-13T19:05:12Z', 'labels': []}
+{'issuenumber': 302, 'title': "this.response.is('json')?", 'state': 'closed', 'created_at': '2014-06-12T02:21:17Z', 'closed_at': '2014-06-13T07:33:26Z', 'labels': []}
+{'issuenumber': 301, 'title': 'dead links in middleware wiki', 'state': 'closed', 'created_at': '2014-06-10T11:04:11Z', 'closed_at': '2014-06-10T15:08:30Z', 'labels': []}
+{'issuenumber': 300, 'title': 'a way to stop .use() chain', 'state': 'closed', 'created_at': '2014-06-09T17:22:49Z', 'closed_at': '2014-06-09T17:28:10Z', 'labels': []}
+{'issuenumber': 298, 'title': 'remove .status=string', 'state': 'closed', 'created_at': '2014-06-07T16:04:25Z', 'closed_at': '2014-06-11T01:07:26Z', 'labels': []}
+{'issuenumber': 297, 'title': 'add method `res.move`?', 'state': 'closed', 'created_at': '2014-06-07T15:16:47Z', 'closed_at': '2014-06-08T12:30:07Z', 'labels': []}
+{'issuenumber': 294, 'title': 'automatically set .status=200 when a content-ish header is set', 'state': 'closed', 'created_at': '2014-06-06T22:41:38Z', 'closed_at': '2014-06-07T10:37:25Z', 'labels': []}
+{'issuenumber': 293, 'title': 'add knode one of the chinese blog MVC framework use koa', 'state': 'closed', 'created_at': '2014-06-06T14:47:35Z', 'closed_at': '2014-06-06T20:30:38Z', 'labels': []}
+{'issuenumber': 290, 'title': 'Middleware - Thunks - Mocks and Spys', 'state': 'closed', 'created_at': '2014-06-04T05:55:44Z', 'closed_at': '2014-06-04T06:06:11Z', 'labels': []}
+{'issuenumber': 289, 'title': 'make-lint', 'state': 'closed', 'created_at': '2014-06-03T13:05:31Z', 'closed_at': '2014-06-03T13:07:04Z', 'labels': []}
+{'issuenumber': 287, 'title': 'errors getting lost in packages', 'state': 'closed', 'created_at': '2014-05-23T12:15:24Z', 'closed_at': '2014-05-23T13:42:15Z', 'labels': []}
+{'issuenumber': 286, 'title': "[koajs.com] Koa branding doesn't scroll on Safari", 'state': 'closed', 'created_at': '2014-05-22T23:26:03Z', 'closed_at': '2014-05-23T17:26:27Z', 'labels': []}
+{'issuenumber': 285, 'title': 'add inject() on app', 'state': 'closed', 'created_at': '2014-05-21T07:49:32Z', 'closed_at': '2014-05-23T08:04:59Z', 'labels': []}
+{'issuenumber': 284, 'title': 'Possible bug with POST body', 'state': 'closed', 'created_at': '2014-05-19T13:11:53Z', 'closed_at': '2014-05-19T17:41:30Z', 'labels': []}
+{'issuenumber': 283, 'title': 'upgrade koa-compose version to 2.3.0', 'state': 'closed', 'created_at': '2014-05-11T16:04:15Z', 'closed_at': '2014-05-12T03:51:43Z', 'labels': []}
+{'issuenumber': 279, 'title': 'How does multiple yields work?', 'state': 'closed', 'created_at': '2014-05-05T18:46:22Z', 'closed_at': '2014-05-05T19:22:09Z', 'labels': []}
+{'issuenumber': 277, 'title': 'should we even bother with defaulting the content type to application/octet-stream?', 'state': 'closed', 'created_at': '2014-05-03T22:03:04Z', 'closed_at': '2014-05-04T17:18:31Z', 'labels': []}
+{'issuenumber': 273, 'title': 'first-class ctx.trace()', 'state': 'closed', 'created_at': '2014-05-01T23:46:50Z', 'closed_at': '2014-05-02T01:50:05Z', 'labels': []}
+{'issuenumber': 271, 'title': 'event emitter leak', 'state': 'closed', 'created_at': '2014-04-30T04:27:38Z', 'closed_at': '2014-06-11T05:12:24Z', 'labels': {'name': 'priority'}}
+{'issuenumber': 270, 'title': 'add some critical co-* modules to the wiki', 'state': 'closed', 'created_at': '2014-04-30T03:27:05Z', 'closed_at': '2015-11-04T23:11:01Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 263, 'title': '.status default', 'state': 'closed', 'created_at': '2014-04-18T00:49:26Z', 'closed_at': '2014-05-01T22:51:42Z', 'labels': []}
+{'issuenumber': 262, 'title': 'decode .path', 'state': 'closed', 'created_at': '2014-04-18T00:00:06Z', 'closed_at': '2014-04-18T23:09:16Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 260, 'title': 'Unexpected behavior inside for loop', 'state': 'closed', 'created_at': '2014-04-14T18:01:26Z', 'closed_at': '2014-04-14T18:07:31Z', 'labels': []}
+{'issuenumber': 254, 'title': 'Middleware Question', 'state': 'closed', 'created_at': '2014-04-09T08:10:48Z', 'closed_at': '2014-04-09T22:48:45Z', 'labels': []}
+{'issuenumber': 252, 'title': 'always set default charset?', 'state': 'closed', 'created_at': '2014-04-07T08:43:39Z', 'closed_at': '2014-04-09T16:35:00Z', 'labels': []}
+{'issuenumber': 250, 'title': 'add .inspect() to keep clutter out', 'state': 'closed', 'created_at': '2014-04-02T23:27:47Z', 'closed_at': '2014-08-03T01:26:02Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 249, 'title': 'Best practices for writing middleware, more in-depth and opinionated style', 'state': 'closed', 'created_at': '2014-04-02T21:04:52Z', 'closed_at': '2014-04-02T22:23:51Z', 'labels': []}
+{'issuenumber': 248, 'title': 'Middleware confusion in the long run', 'state': 'closed', 'created_at': '2014-04-01T02:38:58Z', 'closed_at': '2014-04-01T15:03:05Z', 'labels': []}
+{'issuenumber': 246, 'title': 'add installation docs to site', 'state': 'closed', 'created_at': '2014-03-25T12:05:18Z', 'closed_at': '2014-04-29T03:47:48Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 245, 'title': 'console.log(this) display all the apis', 'state': 'closed', 'created_at': '2014-03-25T07:27:12Z', 'closed_at': '2014-03-25T21:51:36Z', 'labels': []}
+{'issuenumber': 243, 'title': 'Having problems converting my callback to thunk', 'state': 'closed', 'created_at': '2014-03-20T17:28:57Z', 'closed_at': '2014-03-20T17:42:27Z', 'labels': []}
+{'issuenumber': 242, 'title': "Why koa don't treat HEAD request like GET then cut the body like express do?", 'state': 'closed', 'created_at': '2014-03-20T07:29:35Z', 'closed_at': '2014-03-20T19:40:55Z', 'labels': []}
+{'issuenumber': 241, 'title': 'add request id', 'state': 'closed', 'created_at': '2014-03-19T22:48:44Z', 'closed_at': '2014-03-20T00:57:22Z', 'labels': []}
+{'issuenumber': 240, 'title': 'this.accepts with */* not practical', 'state': 'closed', 'created_at': '2014-03-18T16:13:07Z', 'closed_at': '2014-03-18T16:25:01Z', 'labels': []}
+{'issuenumber': 239, 'title': '1.0.0', 'state': 'closed', 'created_at': '2014-03-13T01:34:19Z', 'closed_at': '2014-03-13T01:52:33Z', 'labels': []}
+{'issuenumber': 237, 'title': 'JSON message for ctx.throw', 'state': 'closed', 'created_at': '2014-03-12T14:09:31Z', 'closed_at': '2014-03-12T16:35:34Z', 'labels': []}
+{'issuenumber': 234, 'title': 'socket.io', 'state': 'closed', 'created_at': '2014-03-08T19:22:28Z', 'closed_at': '2014-03-08T20:45:02Z', 'labels': []}
+{'issuenumber': 231, 'title': 'Use sockjs with koa', 'state': 'closed', 'created_at': '2014-03-04T08:47:55Z', 'closed_at': '2014-03-04T17:02:52Z', 'labels': []}
+{'issuenumber': 230, 'title': 'possible logo :-D', 'state': 'closed', 'created_at': '2014-03-01T13:01:50Z', 'closed_at': '2014-04-28T22:23:51Z', 'labels': []}
+{'issuenumber': 229, 'title': 'add jstrace support', 'state': 'closed', 'created_at': '2014-02-27T03:34:06Z', 'closed_at': '2014-02-27T03:58:11Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 224, 'title': 'request.host confused', 'state': 'closed', 'created_at': '2014-02-26T02:33:45Z', 'closed_at': '2014-02-26T18:54:40Z', 'labels': []}
+{'issuenumber': 223, 'title': 'Documentation: `application` section not published. ', 'state': 'closed', 'created_at': '2014-02-26T00:24:40Z', 'closed_at': '2014-02-26T00:36:58Z', 'labels': []}
+{'issuenumber': 220, 'title': 'package.json still on 0.4.0', 'state': 'closed', 'created_at': '2014-02-24T19:00:26Z', 'closed_at': '2014-02-25T16:50:11Z', 'labels': []}
+{'issuenumber': 218, 'title': '0.5.0 broken', 'state': 'closed', 'created_at': '2014-02-20T11:28:42Z', 'closed_at': '2014-02-20T11:31:24Z', 'labels': []}
+{'issuenumber': 217, 'title': "koa error handler throws it's own error on `throw string`", 'state': 'closed', 'created_at': '2014-02-20T08:11:15Z', 'closed_at': '2014-02-20T08:14:21Z', 'labels': []}
+{'issuenumber': 215, 'title': 'context.length is confusing', 'state': 'closed', 'created_at': '2014-02-13T22:41:38Z', 'closed_at': '2014-02-14T17:16:53Z', 'labels': []}
+{'issuenumber': 213, 'title': 'Can we use Koa for developing modules', 'state': 'closed', 'created_at': '2014-02-12T08:27:13Z', 'closed_at': '2014-02-12T08:43:51Z', 'labels': []}
+{'issuenumber': 211, 'title': "put together a library to help create koa middleware but I'm having an issue and could use assistence", 'state': 'closed', 'created_at': '2014-02-09T08:36:41Z', 'closed_at': '2014-02-11T01:29:00Z', 'labels': []}
+{'issuenumber': 210, 'title': 'What is the better way to modularize a koa application', 'state': 'closed', 'created_at': '2014-02-08T05:57:02Z', 'closed_at': '2014-02-08T06:02:46Z', 'labels': []}
+{'issuenumber': 209, 'title': 'Strange behaviour with koa-router and koa.session middlewares', 'state': 'closed', 'created_at': '2014-02-06T15:10:50Z', 'closed_at': '2014-02-06T20:02:37Z', 'labels': []}
+{'issuenumber': 207, 'title': 'add generator iteration support', 'state': 'closed', 'created_at': '2014-02-03T16:23:25Z', 'closed_at': '2014-07-30T07:11:31Z', 'labels': []}
+{'issuenumber': 206, 'title': 'this.body behaviour on error thrown ', 'state': 'closed', 'created_at': '2014-02-03T15:36:41Z', 'closed_at': '2014-02-03T15:47:36Z', 'labels': []}
+{'issuenumber': 203, 'title': 'remove .keys getters and setters', 'state': 'closed', 'created_at': '2014-01-31T21:57:24Z', 'closed_at': '2014-02-01T00:09:45Z', 'labels': []}
+{'issuenumber': 202, 'title': 'remove .jsonSpaces', 'state': 'closed', 'created_at': '2014-01-31T20:01:34Z', 'closed_at': '2014-02-01T02:39:51Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 201, 'title': 'consider throwing for responses', 'state': 'closed', 'created_at': '2014-01-28T21:50:00Z', 'closed_at': '2014-02-14T13:24:19Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 199, 'title': 'Content-Length not reset if error is thrown after body is set', 'state': 'closed', 'created_at': '2014-01-24T20:51:40Z', 'closed_at': '2014-01-24T23:03:02Z', 'labels': []}
+{'issuenumber': 198, 'title': 'Serves as a proxy using node-http-proxy', 'state': 'closed', 'created_at': '2014-01-24T06:41:21Z', 'closed_at': '2014-01-24T22:38:50Z', 'labels': []}
+{'issuenumber': 197, 'title': 'change err.expose to false for 5xx in .throw', 'state': 'closed', 'created_at': '2014-01-21T01:36:55Z', 'closed_at': '2014-01-21T02:44:11Z', 'labels': []}
+{'issuenumber': 196, 'title': 'hook on compose', 'state': 'closed', 'created_at': '2014-01-20T10:56:17Z', 'closed_at': '2016-03-04T03:47:16Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 195, 'title': 'access to host port', 'state': 'closed', 'created_at': '2014-01-20T09:51:58Z', 'closed_at': '2014-01-21T09:29:42Z', 'labels': []}
+{'issuenumber': 194, 'title': 'customising response on ctx.throw(err)', 'state': 'closed', 'created_at': '2014-01-19T04:59:46Z', 'closed_at': '2014-01-19T18:34:14Z', 'labels': []}
+{'issuenumber': 193, 'title': 'fix ctx.acceptEncodings()', 'state': 'closed', 'created_at': '2014-01-18T16:43:53Z', 'closed_at': '2014-01-18T22:22:57Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 192, 'title': 'bisect perf drop', 'state': 'closed', 'created_at': '2014-01-18T16:34:54Z', 'closed_at': '2014-01-19T19:16:53Z', 'labels': {'name': 'performance'}}
+{'issuenumber': 191, 'title': 'continuous bench with travis', 'state': 'closed', 'created_at': '2014-01-18T16:34:24Z', 'closed_at': '2016-03-04T03:45:46Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 190, 'title': 'Alternative to gnode and upgrading', 'state': 'closed', 'created_at': '2014-01-17T16:33:52Z', 'closed_at': '2014-01-17T16:36:07Z', 'labels': []}
+{'issuenumber': 189, 'title': 'Better restful example', 'state': 'closed', 'created_at': '2014-01-17T16:31:21Z', 'closed_at': '2014-01-17T16:36:54Z', 'labels': []}
+{'issuenumber': 185, 'title': 'middleware that sets headers and body', 'state': 'closed', 'created_at': '2014-01-13T20:45:47Z', 'closed_at': '2014-04-10T09:19:50Z', 'labels': []}
+{'issuenumber': 184, 'title': 'better stream error handling', 'state': 'closed', 'created_at': '2014-01-13T20:24:17Z', 'closed_at': '2014-06-10T07:54:07Z', 'labels': []}
+{'issuenumber': 183, 'title': 'document .onerror', 'state': 'closed', 'created_at': '2014-01-13T08:01:47Z', 'closed_at': '2014-01-13T17:11:07Z', 'labels': []}
+{'issuenumber': 182, 'title': 'Access to HTTP request body', 'state': 'closed', 'created_at': '2014-01-12T21:31:56Z', 'closed_at': '2014-01-12T21:48:34Z', 'labels': []}
+{'issuenumber': 181, 'title': 'A few questions about Koa', 'state': 'closed', 'created_at': '2014-01-12T04:48:14Z', 'closed_at': '2014-01-12T05:13:51Z', 'labels': []}
+{'issuenumber': 180, 'title': 'work with evented sources', 'state': 'closed', 'created_at': '2014-01-11T18:58:00Z', 'closed_at': '2014-01-13T08:01:24Z', 'labels': []}
+{'issuenumber': 179, 'title': 'SyntaxError: Unexpected token *', 'state': 'closed', 'created_at': '2014-01-10T12:31:06Z', 'closed_at': '2014-01-10T17:28:35Z', 'labels': []}
+{'issuenumber': 178, 'title': 'koa livecount and middleware graph', 'state': 'closed', 'created_at': '2014-01-08T20:10:20Z', 'closed_at': '2014-01-08T22:27:50Z', 'labels': []}
+{'issuenumber': 177, 'title': 'request setters and immutability', 'state': 'closed', 'created_at': '2014-01-08T13:38:03Z', 'closed_at': '2014-01-08T18:40:19Z', 'labels': []}
+{'issuenumber': 175, 'title': 'API req.host=', 'state': 'closed', 'created_at': '2014-01-07T16:41:29Z', 'closed_at': '2014-01-08T01:21:08Z', 'labels': []}
+{'issuenumber': 172, 'title': 'Optionally set json response type for errors', 'state': 'closed', 'created_at': '2014-01-03T23:41:13Z', 'closed_at': '2014-01-03T23:43:21Z', 'labels': []}
+{'issuenumber': 171, 'title': "Version 0.2.1 won't install from npm", 'state': 'closed', 'created_at': '2014-01-02T07:47:26Z', 'closed_at': '2014-01-02T07:52:52Z', 'labels': []}
+{'issuenumber': 170, 'title': 'Is someone working on koa-oauth already?', 'state': 'closed', 'created_at': '2014-01-01T17:36:06Z', 'closed_at': '2014-01-01T20:04:31Z', 'labels': []}
+{'issuenumber': 169, 'title': 'npm install cannot find koa', 'state': 'closed', 'created_at': '2013-12-31T16:14:48Z', 'closed_at': '2013-12-31T16:24:07Z', 'labels': []}
+{'issuenumber': 167, 'title': 'Question: Why Make and not Grunt?', 'state': 'closed', 'created_at': '2013-12-31T05:26:27Z', 'closed_at': '2013-12-31T05:33:28Z', 'labels': []}
+{'issuenumber': 166, 'title': 'How to use callback based libs?', 'state': 'closed', 'created_at': '2013-12-30T21:18:36Z', 'closed_at': '2013-12-30T21:22:53Z', 'labels': []}
+{'issuenumber': 165, 'title': 'overwriting fs streams will cause fd leaks', 'state': 'closed', 'created_at': '2013-12-30T19:21:20Z', 'closed_at': '2014-04-14T22:51:52Z', 'labels': []}
+{'issuenumber': 164, 'title': 'less verbose inspect() .body property', 'state': 'closed', 'created_at': '2013-12-30T19:07:43Z', 'closed_at': '2014-04-06T02:15:18Z', 'labels': []}
+{'issuenumber': 161, 'title': 'how to do `yield next` in inner functions?', 'state': 'closed', 'created_at': '2013-12-29T21:02:37Z', 'closed_at': '2013-12-29T23:23:10Z', 'labels': []}
+{'issuenumber': 157, 'title': 'docs showing how to aggregate middleware without koa-compose', 'state': 'closed', 'created_at': '2013-12-26T19:12:47Z', 'closed_at': '2013-12-31T06:26:11Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 156, 'title': 'examples/co.js is broken because of api dictionary in docs', 'state': 'closed', 'created_at': '2013-12-26T17:41:47Z', 'closed_at': '2013-12-26T18:59:47Z', 'labels': []}
+{'issuenumber': 153, 'title': 'add error handling docs', 'state': 'closed', 'created_at': '2013-12-25T17:39:31Z', 'closed_at': '2013-12-26T19:16:13Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 152, 'title': 'request.secure set to false when using SPDY', 'state': 'closed', 'created_at': '2013-12-25T16:40:10Z', 'closed_at': '2013-12-26T07:33:01Z', 'labels': []}
+{'issuenumber': 151, 'title': 'app.locals equivalent', 'state': 'closed', 'created_at': '2013-12-25T12:34:14Z', 'closed_at': '2013-12-26T19:17:47Z', 'labels': []}
+{'issuenumber': 150, 'title': 'docs: add an example about co-based control flow', 'state': 'closed', 'created_at': '2013-12-25T07:06:45Z', 'closed_at': '2015-11-24T16:36:41Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 148, 'title': 'express vs. koa', 'state': 'closed', 'created_at': '2013-12-25T06:15:42Z', 'closed_at': '2013-12-26T08:32:03Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 146, 'title': "Adding try/catch breaks app.on('error');", 'state': 'closed', 'created_at': '2013-12-25T03:49:49Z', 'closed_at': '2013-12-25T17:39:14Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 144, 'title': 'Cannot send a string as JSON encoded', 'state': 'closed', 'created_at': '2013-12-24T14:28:54Z', 'closed_at': '2013-12-24T17:23:38Z', 'labels': []}
+{'issuenumber': 142, 'title': "Error: Can't set headers after they are sent.", 'state': 'closed', 'created_at': '2013-12-24T12:41:56Z', 'closed_at': '2013-12-26T07:43:18Z', 'labels': []}
+{'issuenumber': 140, 'title': 'ctx.assert()?', 'state': 'closed', 'created_at': '2013-12-23T17:00:31Z', 'closed_at': '2013-12-23T18:41:11Z', 'labels': []}
+{'issuenumber': 138, 'title': 'move over rest of the examples', 'state': 'closed', 'created_at': '2013-12-22T16:48:35Z', 'closed_at': '2014-01-04T10:05:51Z', 'labels': []}
+{'issuenumber': 134, 'title': 'fix travis', 'state': 'closed', 'created_at': '2013-12-21T19:00:39Z', 'closed_at': '2013-12-21T20:50:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 130, 'title': 'allow .throw(status, msg) and .throw(msg, status)', 'state': 'closed', 'created_at': '2013-12-20T23:31:22Z', 'closed_at': '2013-12-21T18:57:19Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 128, 'title': 'Error on Hello World', 'state': 'closed', 'created_at': '2013-12-20T12:51:59Z', 'closed_at': '2013-12-20T13:01:41Z', 'labels': []}
+{'issuenumber': 124, 'title': 'body strict stream typechecking', 'state': 'closed', 'created_at': '2013-12-19T23:51:21Z', 'closed_at': '2013-12-20T05:15:09Z', 'labels': []}
+{'issuenumber': 120, 'title': 'Error when a function instead of a generator is passed into use', 'state': 'closed', 'created_at': '2013-12-19T17:53:39Z', 'closed_at': '2013-12-19T18:03:33Z', 'labels': []}
+{'issuenumber': 117, 'title': 'Suggestion: handle async errors', 'state': 'closed', 'created_at': '2013-12-19T09:29:01Z', 'closed_at': '2013-12-19T09:37:02Z', 'labels': []}
+{'issuenumber': 116, 'title': 'setMaxListeners', 'state': 'closed', 'created_at': '2013-12-19T07:06:26Z', 'closed_at': '2013-12-19T16:48:23Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 115, 'title': 'respond with err.expose messages', 'state': 'closed', 'created_at': '2013-12-19T06:20:28Z', 'closed_at': '2013-12-20T23:26:15Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 114, 'title': 'we forgot to listen to request errors', 'state': 'closed', 'created_at': '2013-12-17T09:54:50Z', 'closed_at': '2013-12-18T01:37:40Z', 'labels': []}
+{'issuenumber': 111, 'title': 'stream error handling is janky - koa will respond before streams have a chance to emit errors', 'state': 'closed', 'created_at': '2013-12-07T23:03:09Z', 'closed_at': '2013-12-12T10:50:09Z', 'labels': []}
+{'issuenumber': 108, 'title': "can't console.log(app)", 'state': 'closed', 'created_at': '2013-12-02T07:51:58Z', 'closed_at': '2013-12-02T17:08:06Z', 'labels': []}
+{'issuenumber': 107, 'title': "req.is() - don't convert extension names to mime type", 'state': 'closed', 'created_at': '2013-11-30T00:23:22Z', 'closed_at': '2013-12-28T02:56:45Z', 'labels': []}
+{'issuenumber': 106, 'title': "var type = this.is('json', 'urlencoded')", 'state': 'closed', 'created_at': '2013-11-28T06:11:44Z', 'closed_at': '2013-11-28T08:14:23Z', 'labels': []}
+{'issuenumber': 105, 'title': "shortcut for this.is('application/x-www-form-urlencoded')", 'state': 'closed', 'created_at': '2013-11-28T05:14:19Z', 'closed_at': '2013-11-28T08:13:18Z', 'labels': []}
+{'issuenumber': 104, 'title': 'Add a message / flash example', 'state': 'closed', 'created_at': '2013-11-27T23:25:09Z', 'closed_at': '2013-11-28T05:02:33Z', 'labels': {'name': 'examples'}}
+{'issuenumber': 103, 'title': 'site', 'state': 'closed', 'created_at': '2013-11-27T05:53:59Z', 'closed_at': '2013-12-18T09:11:54Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 102, 'title': 'Add a multipart example', 'state': 'closed', 'created_at': '2013-11-27T00:52:58Z', 'closed_at': '2013-11-28T05:03:26Z', 'labels': {'name': 'examples'}}
+{'issuenumber': 101, 'title': 'Add a large example simpler to express', 'state': 'closed', 'created_at': '2013-11-26T23:52:06Z', 'closed_at': '2013-12-12T10:51:33Z', 'labels': {'name': 'examples'}}
+{'issuenumber': 100, 'title': "response.remove('vary')", 'state': 'closed', 'created_at': '2013-11-22T23:37:20Z', 'closed_at': '2013-11-24T13:06:39Z', 'labels': []}
+{'issuenumber': 99, 'title': 'better content-negotiation', 'state': 'closed', 'created_at': '2013-11-21T02:04:16Z', 'closed_at': '2013-11-26T22:52:53Z', 'labels': []}
+{'issuenumber': 98, 'title': 'how to send a 200 HEAD request without setting a body?', 'state': 'closed', 'created_at': '2013-11-19T05:21:45Z', 'closed_at': '2013-11-19T19:05:25Z', 'labels': []}
+{'issuenumber': 97, 'title': 'request.accepts(type) should not return false if no `accept` header is set', 'state': 'closed', 'created_at': '2013-11-18T23:26:12Z', 'closed_at': '2013-11-21T02:03:03Z', 'labels': []}
+{'issuenumber': 96, 'title': 'res.redirect(urlObject)', 'state': 'closed', 'created_at': '2013-11-18T06:38:05Z', 'closed_at': '2013-11-19T01:38:27Z', 'labels': []}
+{'issuenumber': 95, 'title': 'Headers already sent ', 'state': 'closed', 'created_at': '2013-11-17T13:26:32Z', 'closed_at': '2013-11-17T17:14:06Z', 'labels': []}
+{'issuenumber': 94, 'title': 'alias this.error as this.throw', 'state': 'closed', 'created_at': '2013-11-17T07:56:53Z', 'closed_at': '2013-11-19T01:37:33Z', 'labels': []}
+{'issuenumber': 92, 'title': 'add req.preferred ?', 'state': 'closed', 'created_at': '2013-11-15T21:46:00Z', 'closed_at': '2013-11-15T21:54:00Z', 'labels': []}
+{'issuenumber': 91, 'title': 'on HEAD end body streams', 'state': 'closed', 'created_at': '2013-11-15T18:31:52Z', 'closed_at': '2013-11-15T18:49:31Z', 'labels': {'name': 'priority'}}
+{'issuenumber': 84, 'title': 'make context an emitter', 'state': 'closed', 'created_at': '2013-11-12T22:42:11Z', 'closed_at': '2013-11-13T20:13:57Z', 'labels': []}
+{'issuenumber': 82, 'title': 'refactor tests', 'state': 'closed', 'created_at': '2013-11-12T21:07:52Z', 'closed_at': '2013-12-21T00:52:15Z', 'labels': {'name': 'tests'}}
+{'issuenumber': 80, 'title': 'redo guide gif', 'state': 'closed', 'created_at': '2013-11-10T22:39:46Z', 'closed_at': '2014-03-13T01:55:10Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 79, 'title': 'assert that `fn` is a generator function on app.use(fn)', 'state': 'closed', 'created_at': '2013-11-09T23:25:39Z', 'closed_at': '2013-11-24T13:08:31Z', 'labels': []}
+{'issuenumber': 78, 'title': 'split up the helpers into separate files', 'state': 'closed', 'created_at': '2013-11-09T06:14:40Z', 'closed_at': '2013-11-10T23:53:11Z', 'labels': []}
+{'issuenumber': 76, 'title': 'add more benchmarks for comparisons', 'state': 'closed', 'created_at': '2013-11-08T22:51:46Z', 'closed_at': '2013-11-12T20:25:03Z', 'labels': {'name': 'performance'}}
+{'issuenumber': 75, 'title': 'remove the content negotiation getters', 'state': 'closed', 'created_at': '2013-11-08T22:16:51Z', 'closed_at': '2013-11-08T23:26:30Z', 'labels': []}
+{'issuenumber': 73, 'title': 'benchmark question', 'state': 'closed', 'created_at': '2013-11-08T01:35:01Z', 'closed_at': '2013-11-09T00:11:13Z', 'labels': []}
+{'issuenumber': 72, 'title': 'more convenience properties', 'state': 'closed', 'created_at': '2013-11-08T01:25:55Z', 'closed_at': '2013-11-14T04:17:27Z', 'labels': []}
+{'issuenumber': 71, 'title': 'make app.callback() -> (req, res, next)?', 'state': 'closed', 'created_at': '2013-11-07T20:06:26Z', 'closed_at': '2013-11-08T09:18:30Z', 'labels': []}
+{'issuenumber': 70, 'title': 'errors in limbo', 'state': 'closed', 'created_at': '2013-11-06T22:38:08Z', 'closed_at': '2013-11-24T13:08:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 69, 'title': '(req, res) signature', 'state': 'closed', 'created_at': '2013-11-04T08:28:00Z', 'closed_at': '2013-11-15T17:32:43Z', 'labels': []}
+{'issuenumber': 68, 'title': 'app.mixin()', 'state': 'closed', 'created_at': '2013-11-04T08:24:32Z', 'closed_at': '2013-11-08T00:59:41Z', 'labels': []}
+{'issuenumber': 66, 'title': "redirect should only set status code if it's not already 3xx", 'state': 'closed', 'created_at': '2013-11-01T00:57:02Z', 'closed_at': '2013-11-09T00:25:05Z', 'labels': []}
+{'issuenumber': 64, 'title': "don't touch original req/res", 'state': 'closed', 'created_at': '2013-10-25T11:01:38Z', 'closed_at': '2013-11-01T00:58:08Z', 'labels': []}
+{'issuenumber': 63, 'title': 'destroy the request if the body is a stream and an error occured before it finishes writing', 'state': 'closed', 'created_at': '2013-10-19T04:13:46Z', 'closed_at': '2013-11-12T06:15:09Z', 'labels': []}
+{'issuenumber': 62, 'title': 'create examples repo', 'state': 'closed', 'created_at': '2013-10-10T18:38:13Z', 'closed_at': '2013-12-06T21:52:22Z', 'labels': {'name': 'examples'}}
+{'issuenumber': 57, 'title': 'context method to convert json to a string?', 'state': 'closed', 'created_at': '2013-10-04T07:04:16Z', 'closed_at': '2013-11-12T22:17:34Z', 'labels': []}
+{'issuenumber': 54, 'title': 'ducktype stream checks', 'state': 'closed', 'created_at': '2013-09-14T22:55:00Z', 'closed_at': '2013-11-12T22:18:42Z', 'labels': []}
+{'issuenumber': 52, 'title': 'consider delegating to ctx.request / ctx.response', 'state': 'closed', 'created_at': '2013-09-14T14:54:57Z', 'closed_at': '2013-11-12T22:18:51Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 50, 'title': 'get rid of stupid intermediate wiki page', 'state': 'closed', 'created_at': '2013-09-14T03:40:52Z', 'closed_at': '2013-09-17T07:51:49Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 49, 'title': 'add .originalUrl', 'state': 'closed', 'created_at': '2013-09-09T00:35:53Z', 'closed_at': '2013-11-15T17:33:10Z', 'labels': []}
+{'issuenumber': 48, 'title': 'app error handling improvements', 'state': 'closed', 'created_at': '2013-09-07T21:21:51Z', 'closed_at': '2013-09-08T18:48:37Z', 'labels': []}
+{'issuenumber': 47, 'title': 'double-yield warning', 'state': 'closed', 'created_at': '2013-09-03T01:16:30Z', 'closed_at': '2013-11-09T00:11:36Z', 'labels': []}
+{'issuenumber': 45, 'title': 'Should app.listen also return a promise?', 'state': 'closed', 'created_at': '2013-09-01T15:31:51Z', 'closed_at': '2013-09-01T18:35:42Z', 'labels': []}
+{'issuenumber': 42, 'title': 'consider domain support (optional?)', 'state': 'closed', 'created_at': '2013-08-28T23:33:41Z', 'closed_at': '2013-11-12T22:15:24Z', 'labels': []}
+{'issuenumber': 41, 'title': 'add DEBUG usage docs', 'state': 'closed', 'created_at': '2013-08-28T04:22:35Z', 'closed_at': '2013-11-27T05:37:24Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 40, 'title': 'add tests for examples', 'state': 'closed', 'created_at': '2013-08-28T02:57:28Z', 'closed_at': '2013-12-12T10:51:56Z', 'labels': {'name': 'examples'}}
+{'issuenumber': 39, 'title': 'add a koa-debugger module', 'state': 'closed', 'created_at': '2013-08-28T02:33:10Z', 'closed_at': '2013-08-29T04:46:34Z', 'labels': []}
+{'issuenumber': 38, 'title': 'remove qs dependency', 'state': 'closed', 'created_at': '2013-08-27T08:26:00Z', 'closed_at': '2013-08-27T21:42:11Z', 'labels': []}
+{'issuenumber': 35, 'title': 'add error handling docs / tests', 'state': 'closed', 'created_at': '2013-08-23T01:47:25Z', 'closed_at': '2014-03-13T01:54:48Z', 'labels': {'name': 'tests'}}
+{'issuenumber': 34, 'title': 'Why not app.use(generator) ?', 'state': 'closed', 'created_at': '2013-08-22T11:53:09Z', 'closed_at': '2013-08-23T00:47:45Z', 'labels': []}
+{'issuenumber': 33, 'title': 'yield down', 'state': 'closed', 'created_at': '2013-08-22T02:34:19Z', 'closed_at': '2013-09-14T15:14:08Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 32, 'title': 'warn if app.context() overwrites another property during development', 'state': 'closed', 'created_at': '2013-08-22T00:10:18Z', 'closed_at': '2013-10-25T10:49:31Z', 'labels': []}
+{'issuenumber': 31, 'title': 'some error utility', 'state': 'closed', 'created_at': '2013-08-22T00:08:06Z', 'closed_at': '2013-08-28T03:54:18Z', 'labels': []}
+{'issuenumber': 30, 'title': 'add keygrip support for signed cookies', 'state': 'closed', 'created_at': '2013-08-21T04:53:28Z', 'closed_at': '2013-11-15T19:31:23Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 27, 'title': 'see what else would be useful to expose from req/res', 'state': 'closed', 'created_at': '2013-08-20T03:00:52Z', 'closed_at': '2013-08-22T02:40:14Z', 'labels': []}
+{'issuenumber': 26, 'title': 'basic auth', 'state': 'closed', 'created_at': '2013-08-19T18:07:46Z', 'closed_at': '2013-08-20T03:01:30Z', 'labels': []}
+{'issuenumber': 21, 'title': 'strip Content-* header fields for 204 / 304', 'state': 'closed', 'created_at': '2013-08-17T18:59:30Z', 'closed_at': '2013-08-21T04:24:21Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 20, 'title': 'err.status support', 'state': 'closed', 'created_at': '2013-08-17T17:22:19Z', 'closed_at': '2013-08-22T02:50:36Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 18, 'title': 'LICENSE?', 'state': 'closed', 'created_at': '2013-08-17T08:05:13Z', 'closed_at': '2013-08-17T08:07:57Z', 'labels': []}
+{'issuenumber': 17, 'title': 'memoize query-string parser', 'state': 'closed', 'created_at': '2013-08-17T07:49:18Z', 'closed_at': '2013-08-23T01:06:20Z', 'labels': {'name': 'performance'}}
+{'issuenumber': 16, 'title': 'memoize url parser', 'state': 'closed', 'created_at': '2013-08-17T07:48:46Z', 'closed_at': '2013-08-23T01:08:04Z', 'labels': {'name': 'performance'}}
+{'issuenumber': 15, 'title': 'moar middleware', 'state': 'closed', 'created_at': '2013-08-17T07:26:09Z', 'closed_at': '2013-11-24T20:05:07Z', 'labels': []}
+{'issuenumber': 14, 'title': 'examples of suspending for queries etc', 'state': 'closed', 'created_at': '2013-08-17T07:19:37Z', 'closed_at': '2013-08-28T03:44:48Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 13, 'title': 'middleware definition and best practices docs', 'state': 'closed', 'created_at': '2013-08-17T07:10:05Z', 'closed_at': '2014-03-13T01:55:20Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 12, 'title': 'FAQ', 'state': 'closed', 'created_at': '2013-08-17T06:31:34Z', 'closed_at': '2013-08-21T05:07:03Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 11, 'title': 'screencast', 'state': 'closed', 'created_at': '2013-08-17T06:24:02Z', 'closed_at': '2013-11-27T05:56:16Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 10, 'title': 'add request body buffering / parsing helpers', 'state': 'closed', 'created_at': '2013-08-17T06:11:31Z', 'closed_at': '2013-09-14T14:28:30Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 9, 'title': 'add pipe example', 'state': 'closed', 'created_at': '2013-08-17T06:06:47Z', 'closed_at': '2013-08-28T02:49:01Z', 'labels': {'name': 'examples'}}
+{'issuenumber': 8, 'title': 'manpage', 'state': 'closed', 'created_at': '2013-08-17T06:03:56Z', 'closed_at': '2013-11-27T05:18:30Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 7, 'title': 'cookies', 'state': 'closed', 'created_at': '2013-08-17T06:01:32Z', 'closed_at': '2013-08-21T04:51:18Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 6, 'title': 'socket error handling', 'state': 'closed', 'created_at': '2013-08-17T06:01:21Z', 'closed_at': '2013-08-22T02:52:05Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 5, 'title': 'bypass middleware example', 'state': 'closed', 'created_at': '2013-08-13T02:36:53Z', 'closed_at': '2013-08-28T04:06:51Z', 'labels': {'name': 'examples'}}
+{'issuenumber': 4, 'title': 'error handling api', 'state': 'closed', 'created_at': '2013-08-13T02:36:24Z', 'closed_at': '2013-08-23T01:47:12Z', 'labels': []}
+{'issuenumber': 3, 'title': 'implicit stream error handling', 'state': 'closed', 'created_at': '2013-08-11T07:53:42Z', 'closed_at': '2013-08-28T02:11:04Z', 'labels': []}
+{'issuenumber': 2, 'title': 'content negotiation once negotiator is fixed', 'state': 'closed', 'created_at': '2013-08-11T02:58:10Z', 'closed_at': '2013-08-11T06:42:06Z', 'labels': []}
+{'issuenumber': 1, 'title': 'Travis CI', 'state': 'closed', 'created_at': '2013-08-11T02:22:55Z', 'closed_at': '2013-08-21T04:34:39Z', 'labels': []}

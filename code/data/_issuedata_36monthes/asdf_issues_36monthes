@@ -1,0 +1,155 @@
+{'issuenumber': 312, 'title': 'Different gemsets?', 'state': 'closed', 'created_at': '2018-04-23T13:01:40Z', 'closed_at': '2018-05-16T13:44:58Z', 'labels': []}
+{'issuenumber': 308, 'title': '"No version set" message should go to stderr', 'state': 'closed', 'created_at': '2018-03-30T15:41:19Z', 'closed_at': '2018-04-02T15:52:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 307, 'title': 'Add ability to list all installed versions of all packages', 'state': 'closed', 'created_at': '2018-03-29T13:37:56Z', 'closed_at': '2018-07-15T21:52:18Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 305, 'title': 'Use exit code 127 on missing version', 'state': 'closed', 'created_at': '2018-03-26T13:40:25Z', 'closed_at': '2018-04-11T17:13:14Z', 'labels': []}
+{'issuenumber': 302, 'title': 'Wrong warning message with an empty package name', 'state': 'closed', 'created_at': '2018-03-05T10:52:29Z', 'closed_at': '2018-03-05T19:23:06Z', 'labels': []}
+{'issuenumber': 301, 'title': '[Feature Request] Manage asdf plugins in .asdfrc', 'state': 'closed', 'created_at': '2018-03-01T03:30:59Z', 'closed_at': '2018-03-01T03:32:39Z', 'labels': []}
+{'issuenumber': 299, 'title': 'asdf versions config options', 'state': 'closed', 'created_at': '2018-02-27T01:53:22Z', 'closed_at': '2018-03-07T14:23:37Z', 'labels': []}
+{'issuenumber': 296, 'title': 'Improve output of `asdf which`', 'state': 'closed', 'created_at': '2018-02-25T18:30:36Z', 'closed_at': '2018-06-18T12:08:44Z', 'labels': []}
+{'issuenumber': 292, 'title': '`current` command does not show details on versions set by env variables', 'state': 'closed', 'created_at': '2018-02-24T14:02:54Z', 'closed_at': '2018-02-25T18:02:01Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 291, 'title': 'Version error should mention asdf', 'state': 'closed', 'created_at': '2018-02-23T20:18:57Z', 'closed_at': '2018-02-25T18:17:21Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 289, 'title': 'asdf is using the version specified in current directory tool-versions file when running a file in another directory that has a tool versions file in it.', 'state': 'closed', 'created_at': '2018-02-20T22:19:52Z', 'closed_at': '2018-02-21T22:05:31Z', 'labels': []}
+{'issuenumber': 288, 'title': 'v0.4.2 attaches asdf paths at the end of $PATH rather than at beginning', 'state': 'closed', 'created_at': '2018-02-19T16:31:35Z', 'closed_at': '2018-03-07T06:39:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 286, 'title': 'Add tests for code in asdf.sh', 'state': 'closed', 'created_at': '2018-02-13T16:33:53Z', 'closed_at': '2019-04-06T18:20:10Z', 'labels': []}
+{'issuenumber': 285, 'title': "How to deal with PL's with support for 32 bit and 64 bit in asdf", 'state': 'closed', 'created_at': '2018-02-04T11:13:10Z', 'closed_at': '2018-02-05T11:02:41Z', 'labels': []}
+{'issuenumber': 284, 'title': 'Cannot install nodejs versions', 'state': 'closed', 'created_at': '2018-02-03T23:53:23Z', 'closed_at': '2018-02-19T23:28:25Z', 'labels': []}
+{'issuenumber': 283, 'title': 'JetBrains asdf support feature  request has too less votes', 'state': 'closed', 'created_at': '2018-01-28T19:16:42Z', 'closed_at': '2019-03-04T17:25:01Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 282, 'title': 'Splitting config into multiple files to aide docker caching (.tool-versions.d/ or similar)', 'state': 'closed', 'created_at': '2018-01-25T22:25:31Z', 'closed_at': '2019-03-24T13:28:22Z', 'labels': []}
+{'issuenumber': 281, 'title': 'I would like to be a maintainer.', 'state': 'closed', 'created_at': '2018-01-25T19:03:45Z', 'closed_at': '2019-03-24T13:47:20Z', 'labels': []}
+{'issuenumber': 279, 'title': 'asdf: command not found', 'state': 'closed', 'created_at': '2018-01-23T14:29:53Z', 'closed_at': '2019-01-04T23:00:17Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 277, 'title': 'Unable to install elixir 1.2.3', 'state': 'closed', 'created_at': '2018-01-22T19:25:07Z', 'closed_at': '2018-01-22T19:27:02Z', 'labels': []}
+{'issuenumber': 276, 'title': 'Feature Idea: asdf install to also install plugins', 'state': 'closed', 'created_at': '2018-01-22T18:57:18Z', 'closed_at': '2021-12-23T21:44:36Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 275, 'title': 'Move ASDF install directory', 'state': 'closed', 'created_at': '2018-01-15T22:14:51Z', 'closed_at': '2018-09-17T02:36:09Z', 'labels': []}
+{'issuenumber': 274, 'title': 'Documentation update', 'state': 'closed', 'created_at': '2018-01-14T04:21:18Z', 'closed_at': '2019-01-29T11:33:25Z', 'labels': []}
+{'issuenumber': 269, 'title': '`asdf install` should read versions from legacy version files', 'state': 'closed', 'created_at': '2018-01-05T22:15:33Z', 'closed_at': '2019-06-18T00:59:25Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 268, 'title': 'Add option to the `plugin-list` command to show the plugin repo URLs', 'state': 'closed', 'created_at': '2017-12-29T20:09:08Z', 'closed_at': '2018-01-30T17:00:09Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 266, 'title': 'complete:13: command not found: compdef', 'state': 'closed', 'created_at': '2017-12-27T07:41:40Z', 'closed_at': '2018-01-11T18:39:07Z', 'labels': []}
+{'issuenumber': 265, 'title': 'Failing builds to due errors reported by lint.sh', 'state': 'closed', 'created_at': '2017-12-26T17:25:18Z', 'closed_at': '2017-12-27T15:52:16Z', 'labels': []}
+{'issuenumber': 264, 'title': '[elixir] Cannot use open command in IEx', 'state': 'closed', 'created_at': '2017-12-25T08:39:29Z', 'closed_at': '2018-01-14T16:59:24Z', 'labels': []}
+{'issuenumber': 261, 'title': 'Add to PATH only once', 'state': 'closed', 'created_at': '2017-12-15T12:53:18Z', 'closed_at': '2018-01-13T15:36:02Z', 'labels': []}
+{'issuenumber': 260, 'title': "curl: (33) HTTP server doesn't seem to support byte ranges. Cannot resume.", 'state': 'closed', 'created_at': '2017-12-14T21:10:31Z', 'closed_at': '2017-12-18T17:27:21Z', 'labels': []}
+{'issuenumber': 259, 'title': 'another plugins maintainer', 'state': 'closed', 'created_at': '2017-12-14T19:19:38Z', 'closed_at': '2018-02-12T15:27:47Z', 'labels': []}
+{'issuenumber': 258, 'title': "I have installed Elixir with homebrew and now I'm using the asdf manager what I need to do?", 'state': 'closed', 'created_at': '2017-12-14T18:10:14Z', 'closed_at': '2017-12-18T18:26:57Z', 'labels': []}
+{'issuenumber': 257, 'title': 'Document command `asdf current`', 'state': 'closed', 'created_at': '2017-12-11T04:21:07Z', 'closed_at': '2018-01-28T02:45:05Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 255, 'title': 'Keep changing to .asdf directory if oh-my-zsh last_working_dir plugin on', 'state': 'closed', 'created_at': '2017-12-09T22:25:44Z', 'closed_at': '2018-07-14T21:51:12Z', 'labels': []}
+{'issuenumber': 253, 'title': 'Load env from dependency i.e.: maven and JAVA_HOME', 'state': 'closed', 'created_at': '2017-11-30T08:05:30Z', 'closed_at': '2017-12-11T09:02:30Z', 'labels': []}
+{'issuenumber': 252, 'title': 'how to set path when using asdf with other package managers? ', 'state': 'closed', 'created_at': '2017-11-23T23:22:36Z', 'closed_at': '2018-10-17T13:06:36Z', 'labels': []}
+{'issuenumber': 249, 'title': 'Prefer extensible to extendable?', 'state': 'closed', 'created_at': '2017-10-26T15:43:28Z', 'closed_at': '2018-10-07T20:00:39Z', 'labels': []}
+{'issuenumber': 248, 'title': 'Realpath: command not found', 'state': 'closed', 'created_at': '2017-10-26T15:34:59Z', 'closed_at': '2017-10-27T05:27:16Z', 'labels': []}
+{'issuenumber': 242, 'title': 'duplicated shims and .tool-versions file suffixed with `-e-e-e`', 'state': 'closed', 'created_at': '2017-10-19T21:07:04Z', 'closed_at': '2017-10-27T16:50:12Z', 'labels': []}
+{'issuenumber': 241, 'title': 'metered internet connection detection', 'state': 'closed', 'created_at': '2017-10-18T15:50:07Z', 'closed_at': '2017-10-19T01:56:19Z', 'labels': []}
+{'issuenumber': 240, 'title': '.tool-plugins file', 'state': 'closed', 'created_at': '2017-10-18T07:55:14Z', 'closed_at': '2020-09-17T21:36:29Z', 'labels': []}
+{'issuenumber': 239, 'title': "v0.4.0 brokes nodejs plugin's reshim", 'state': 'closed', 'created_at': '2017-10-11T11:23:08Z', 'closed_at': '2018-02-16T19:59:54Z', 'labels': []}
+{'issuenumber': 238, 'title': 'How do I uninstall this?', 'state': 'closed', 'created_at': '2017-10-11T02:51:00Z', 'closed_at': '2017-10-23T08:07:41Z', 'labels': []}
+{'issuenumber': 236, 'title': 'Install using parent directory .tool-versions', 'state': 'closed', 'created_at': '2017-10-10T15:23:11Z', 'closed_at': '2017-10-17T14:28:38Z', 'labels': []}
+{'issuenumber': 235, 'title': 'Improve OS and packaging support', 'state': 'closed', 'created_at': '2017-10-09T17:13:11Z', 'closed_at': '2018-09-14T20:20:59Z', 'labels': []}
+{'issuenumber': 232, 'title': 'Support for monorepos', 'state': 'closed', 'created_at': '2017-09-26T19:38:36Z', 'closed_at': '2019-03-24T13:45:05Z', 'labels': []}
+{'issuenumber': 230, 'title': 'Implement a stdlib to simplify plugin creation', 'state': 'closed', 'created_at': '2017-09-21T18:01:09Z', 'closed_at': '2019-03-24T13:44:40Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 229, 'title': 'Readme is broken for adding plugins', 'state': 'closed', 'created_at': '2017-09-15T10:31:30Z', 'closed_at': '2018-10-19T01:10:50Z', 'labels': []}
+{'issuenumber': 226, 'title': 'Install latest patch release when given a major.minor pair.', 'state': 'closed', 'created_at': '2017-09-06T02:40:11Z', 'closed_at': '2018-10-20T15:55:57Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 225, 'title': 'Supported legacy version list.', 'state': 'closed', 'created_at': '2017-09-05T08:25:32Z', 'closed_at': '2017-09-07T00:30:28Z', 'labels': []}
+{'issuenumber': 222, 'title': 'Add possibility to upgrade asdf itself', 'state': 'closed', 'created_at': '2017-08-28T16:33:30Z', 'closed_at': '2017-08-29T07:30:40Z', 'labels': []}
+{'issuenumber': 216, 'title': 'Add command to install latest stable version of a tool', 'state': 'closed', 'created_at': '2017-08-08T14:27:15Z', 'closed_at': '2019-11-22T20:18:47Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 215, 'title': 'how to source scripts from asdf?', 'state': 'closed', 'created_at': '2017-08-07T18:49:34Z', 'closed_at': '2018-10-31T03:00:34Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 214, 'title': 'Interrupted downloads are being treated as complete installs', 'state': 'closed', 'created_at': '2017-07-30T16:31:22Z', 'closed_at': '2017-07-30T17:47:31Z', 'labels': []}
+{'issuenumber': 213, 'title': 'Not finding installation path for ref: version', 'state': 'closed', 'created_at': '2017-07-29T17:48:36Z', 'closed_at': '2017-07-29T17:48:50Z', 'labels': []}
+{'issuenumber': 211, 'title': 'Add `plugin-list --remote`', 'state': 'closed', 'created_at': '2017-07-26T15:56:07Z', 'closed_at': '2019-03-24T13:43:33Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 210, 'title': 'Automatically fetch plugins', 'state': 'closed', 'created_at': '2017-07-26T15:45:24Z', 'closed_at': '2019-03-24T13:42:34Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 207, 'title': "asdf doesn't auto switch while using tmuxinator to set up panes", 'state': 'closed', 'created_at': '2017-07-11T17:53:35Z', 'closed_at': '2017-07-20T18:52:49Z', 'labels': []}
+{'issuenumber': 206, 'title': 'Fail on inststall elixir', 'state': 'closed', 'created_at': '2017-07-08T20:48:03Z', 'closed_at': '2017-07-12T14:03:27Z', 'labels': []}
+{'issuenumber': 205, 'title': 'Make `which` command work with any binary included in a plugin installation.', 'state': 'closed', 'created_at': '2017-07-04T13:23:10Z', 'closed_at': '2018-11-29T00:18:51Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 203, 'title': 'vendor dependencies with pinned versions', 'state': 'closed', 'created_at': '2017-06-27T17:41:35Z', 'closed_at': '2017-06-28T01:43:03Z', 'labels': []}
+{'issuenumber': 202, 'title': 'Shims not working when .tool-versions path contains spaces', 'state': 'closed', 'created_at': '2017-06-24T10:54:33Z', 'closed_at': '2017-10-03T01:01:30Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 201, 'title': 'Opt-in for XDG base directory support', 'state': 'closed', 'created_at': '2017-06-13T19:36:12Z', 'closed_at': '2018-02-11T22:32:13Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 200, 'title': 'reshim not working', 'state': 'closed', 'created_at': '2017-06-13T19:31:14Z', 'closed_at': '2017-09-04T01:26:28Z', 'labels': []}
+{'issuenumber': 198, 'title': '`--version` is doing something odd', 'state': 'closed', 'created_at': '2017-06-03T21:22:25Z', 'closed_at': '2017-09-19T21:26:07Z', 'labels': []}
+{'issuenumber': 197, 'title': 'Missing execution permission', 'state': 'closed', 'created_at': '2017-05-27T12:54:26Z', 'closed_at': '2017-05-29T09:51:43Z', 'labels': []}
+{'issuenumber': 195, 'title': 'Unable to build erlang 19.x', 'state': 'closed', 'created_at': '2017-05-14T20:19:36Z', 'closed_at': '2017-05-15T13:47:00Z', 'labels': []}
+{'issuenumber': 194, 'title': 'Feature request: `asdf env` command that prints out the version info for every tool managed by asdf', 'state': 'closed', 'created_at': '2017-05-05T17:52:06Z', 'closed_at': '2017-08-21T06:17:27Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 191, 'title': '.asdf/lib/utils.sh: line 71: [: !=: unary operator expected', 'state': 'closed', 'created_at': '2017-04-25T02:12:20Z', 'closed_at': '2017-05-16T17:24:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 189, 'title': 'asdf still shows version at 0.2.1 after update to 0.3.0', 'state': 'closed', 'created_at': '2017-04-15T17:15:00Z', 'closed_at': '2017-04-16T17:23:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 186, 'title': 'yaourt and "No version set for nodejs"', 'state': 'closed', 'created_at': '2017-04-03T04:13:24Z', 'closed_at': '2017-04-03T04:17:00Z', 'labels': []}
+{'issuenumber': 185, 'title': 'Issue with Circle CI and asdf', 'state': 'closed', 'created_at': '2017-04-01T20:59:26Z', 'closed_at': '2017-04-03T13:19:22Z', 'labels': []}
+{'issuenumber': 184, 'title': 'Unable to install ruby 2.1.1', 'state': 'closed', 'created_at': '2017-03-28T14:32:01Z', 'closed_at': '2017-03-28T15:40:41Z', 'labels': []}
+{'issuenumber': 181, 'title': '[Proposal] Create a simple plugin repository for easier installation of plugins', 'state': 'closed', 'created_at': '2017-03-24T03:07:27Z', 'closed_at': '2017-08-24T02:53:15Z', 'labels': {'name': 'proposal'}}
+{'issuenumber': 176, 'title': 'ASDF not working', 'state': 'closed', 'created_at': '2017-03-13T11:53:08Z', 'closed_at': '2017-03-13T11:57:05Z', 'labels': []}
+{'issuenumber': 172, 'title': '[Proposal] Command to update asdf itself?', 'state': 'closed', 'created_at': '2017-03-08T21:30:55Z', 'closed_at': '2017-03-18T01:55:51Z', 'labels': {'name': 'proposal'}}
+{'issuenumber': 168, 'title': 'version 1:erlang is not installed for erlang', 'state': 'closed', 'created_at': '2017-03-07T12:59:01Z', 'closed_at': '2017-03-07T21:00:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 167, 'title': 'virtualenv like pyenv', 'state': 'closed', 'created_at': '2017-03-07T03:14:24Z', 'closed_at': '2017-06-30T08:14:35Z', 'labels': []}
+{'issuenumber': 165, 'title': '[Proposal] Jruby Plugin', 'state': 'closed', 'created_at': '2017-02-28T21:40:35Z', 'closed_at': '2017-03-03T16:16:53Z', 'labels': []}
+{'issuenumber': 162, 'title': 'npm seems to be tripping on asdf', 'state': 'closed', 'created_at': '2017-02-15T01:42:58Z', 'closed_at': '2018-10-09T14:26:42Z', 'labels': []}
+{'issuenumber': 161, 'title': 'Please ensure that all asdf-vm plugins contain a LICENSE file', 'state': 'closed', 'created_at': '2017-02-13T06:44:42Z', 'closed_at': '2017-03-16T01:20:30Z', 'labels': []}
+{'issuenumber': 159, 'title': 'Support per package OpenPGP keyring', 'state': 'closed', 'created_at': '2017-02-13T06:36:26Z', 'closed_at': '2019-03-24T13:39:26Z', 'labels': []}
+{'issuenumber': 158, 'title': 'Ensure plugins authenticate downloaded files', 'state': 'closed', 'created_at': '2017-02-12T19:56:15Z', 'closed_at': '2019-03-24T13:39:11Z', 'labels': []}
+{'issuenumber': 157, 'title': 'Please use shellcheck', 'state': 'closed', 'created_at': '2017-02-12T19:25:52Z', 'closed_at': '2017-10-03T01:01:53Z', 'labels': []}
+{'issuenumber': 155, 'title': 'Core Infrastructure Initiative (CII) Best Practices', 'state': 'closed', 'created_at': '2017-02-12T13:45:26Z', 'closed_at': '2018-10-31T15:44:24Z', 'labels': []}
+{'issuenumber': 150, 'title': "Pip doesn't get the correct version when virtualenv is activated", 'state': 'closed', 'created_at': '2017-02-01T03:25:09Z', 'closed_at': '2017-08-14T21:24:07Z', 'labels': []}
+{'issuenumber': 149, 'title': 'Permission denied when trying to install a Ruby', 'state': 'closed', 'created_at': '2017-01-27T18:02:11Z', 'closed_at': '2017-01-28T01:34:52Z', 'labels': []}
+{'issuenumber': 148, 'title': 'Update functionality', 'state': 'closed', 'created_at': '2017-01-22T20:22:12Z', 'closed_at': '2018-05-28T19:52:30Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 147, 'title': 'Compiling c or c++ based plugins', 'state': 'closed', 'created_at': '2017-01-21T23:07:44Z', 'closed_at': '2017-08-20T23:21:52Z', 'labels': []}
+{'issuenumber': 144, 'title': 'support R, racket, sml', 'state': 'closed', 'created_at': '2017-01-04T20:22:17Z', 'closed_at': '2017-01-05T13:12:06Z', 'labels': []}
+{'issuenumber': 143, 'title': 'Installation shorthand', 'state': 'closed', 'created_at': '2016-12-28T12:04:23Z', 'closed_at': '2016-12-29T08:56:23Z', 'labels': {'name': 'proposal'}}
+{'issuenumber': 139, 'title': 'Failure to parse the .tool-version file properly', 'state': 'closed', 'created_at': '2016-12-22T18:45:21Z', 'closed_at': '2016-12-29T20:25:35Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 134, 'title': '[proposal] Update fileformat for `.tool-versions`', 'state': 'closed', 'created_at': '2016-12-18T11:44:26Z', 'closed_at': '2017-02-15T15:54:01Z', 'labels': {'name': 'proposal'}}
+{'issuenumber': 133, 'title': 'Support for Java and JDK', 'state': 'closed', 'created_at': '2016-12-17T06:53:09Z', 'closed_at': '2017-12-21T19:40:00Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 132, 'title': 'install command does not check for a version', 'state': 'closed', 'created_at': '2016-12-16T22:56:18Z', 'closed_at': '2016-12-19T13:39:28Z', 'labels': []}
+{'issuenumber': 127, 'title': 'Shims were broken and not caught by unit tests', 'state': 'closed', 'created_at': '2016-12-13T15:03:45Z', 'closed_at': '2016-12-14T02:08:55Z', 'labels': []}
+{'issuenumber': 124, 'title': 'Updating plugins fails with "You have unstaged changes"', 'state': 'closed', 'created_at': '2016-12-10T21:38:55Z', 'closed_at': '2017-04-20T14:36:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 120, 'title': 'No version set for elixir', 'state': 'closed', 'created_at': '2016-12-10T02:14:20Z', 'closed_at': '2016-12-10T15:42:34Z', 'labels': []}
+{'issuenumber': 118, 'title': 'Check if version available before install', 'state': 'closed', 'created_at': '2016-12-07T10:34:23Z', 'closed_at': '2017-08-09T01:39:41Z', 'labels': []}
+{'issuenumber': 107, 'title': 'How to access binaries installed by versions?', 'state': 'closed', 'created_at': '2016-10-31T10:54:53Z', 'closed_at': '2016-10-31T13:56:46Z', 'labels': []}
+{'issuenumber': 101, 'title': 'Plugin wanted: Clojure', 'state': 'closed', 'created_at': '2016-10-17T15:32:32Z', 'closed_at': '2016-12-10T17:20:16Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 98, 'title': '-bash: asdf: command not found', 'state': 'closed', 'created_at': '2016-10-02T18:06:38Z', 'closed_at': '2016-12-05T17:48:13Z', 'labels': []}
+{'issuenumber': 97, 'title': 'Error when loading completions in zsh', 'state': 'closed', 'created_at': '2016-10-02T04:00:32Z', 'closed_at': '2018-02-15T16:35:06Z', 'labels': []}
+{'issuenumber': 95, 'title': 'Error when setting "path:"-prefixed versions via `asdf global` or `asdf local`', 'state': 'closed', 'created_at': '2016-09-18T14:48:21Z', 'closed_at': '2017-01-19T17:27:07Z', 'labels': []}
+{'issuenumber': 92, 'title': 'asdf.sh script bug with bash OSX sessions', 'state': 'closed', 'created_at': '2016-09-08T13:51:27Z', 'closed_at': '2018-07-15T02:39:22Z', 'labels': []}
+{'issuenumber': 91, 'title': 'Proper way to set the versions outside of $HOME?', 'state': 'closed', 'created_at': '2016-09-03T16:23:51Z', 'closed_at': '2016-09-04T18:56:28Z', 'labels': []}
+{'issuenumber': 89, 'title': 'Having issues with folders with spaces in them on OS X El Capitan.', 'state': 'closed', 'created_at': '2016-08-14T04:41:34Z', 'closed_at': '2016-08-18T17:43:49Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 84, 'title': '[Proposal] A way to treat language installed from local sources', 'state': 'closed', 'created_at': '2016-07-26T07:43:48Z', 'closed_at': '2017-03-07T22:03:40Z', 'labels': []}
+{'issuenumber': 82, 'title': 'unable to install erlang 19.0.1', 'state': 'closed', 'created_at': '2016-07-15T17:31:43Z', 'closed_at': '2016-07-15T19:21:20Z', 'labels': []}
+{'issuenumber': 81, 'title': '[Proposal] Update Legacy File Plugin API', 'state': 'closed', 'created_at': '2016-07-14T07:29:01Z', 'closed_at': '2016-10-26T13:02:47Z', 'labels': []}
+{'issuenumber': 80, 'title': 'Unify version getter', 'state': 'closed', 'created_at': '2016-07-14T04:57:15Z', 'closed_at': '2016-07-27T16:44:16Z', 'labels': []}
+{'issuenumber': 76, 'title': 'plugin-remove without args removes all installed plugins', 'state': 'closed', 'created_at': '2016-07-02T21:29:53Z', 'closed_at': '2016-07-06T09:12:44Z', 'labels': []}
+{'issuenumber': 74, 'title': '[Proposal] Option "-k" to keep source', 'state': 'closed', 'created_at': '2016-06-30T05:52:40Z', 'closed_at': '2020-05-14T13:24:49Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 73, 'title': '[Proposal] Compiled binaries', 'state': 'closed', 'created_at': '2016-06-30T04:01:20Z', 'closed_at': '2019-01-27T23:35:16Z', 'labels': {'name': 'proposal'}}
+{'issuenumber': 72, 'title': '[Proposal] Command to get direct path of the binary', 'state': 'closed', 'created_at': '2016-06-30T03:48:55Z', 'closed_at': '2017-07-04T13:15:49Z', 'labels': {'name': 'proposal'}}
+{'issuenumber': 70, 'title': '[Proposal] Maintaining stable releases', 'state': 'closed', 'created_at': '2016-06-29T15:58:48Z', 'closed_at': '2016-08-10T11:36:41Z', 'labels': {'name': 'proposal'}}
+{'issuenumber': 68, 'title': 'command not found: complete', 'state': 'closed', 'created_at': '2016-06-21T15:11:00Z', 'closed_at': '2016-07-01T06:55:05Z', 'labels': []}
+{'issuenumber': 67, 'title': "Plugin uninstall does not remove that plugin's shims", 'state': 'closed', 'created_at': '2016-06-21T09:00:58Z', 'closed_at': '2016-12-16T22:47:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 66, 'title': 'Plugin named erlang already added', 'state': 'closed', 'created_at': '2016-06-20T16:35:10Z', 'closed_at': '2016-06-21T17:39:49Z', 'labels': []}
+{'issuenumber': 65, 'title': 'Feature: do not create new .tool-versions if it exists in parent dir', 'state': 'closed', 'created_at': '2016-06-20T16:33:26Z', 'closed_at': '2018-10-20T00:43:10Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 64, 'title': 'ruby: no Ruby script found in input (LoadError) when passing ruby -S', 'state': 'closed', 'created_at': '2016-06-16T22:17:38Z', 'closed_at': '2017-04-01T13:20:36Z', 'labels': []}
+{'issuenumber': 62, 'title': 'Other Architecture Support', 'state': 'closed', 'created_at': '2016-06-16T17:33:39Z', 'closed_at': '2017-03-07T21:52:22Z', 'labels': []}
+{'issuenumber': 57, 'title': 'Compiling in parallel', 'state': 'closed', 'created_at': '2016-06-01T04:31:53Z', 'closed_at': '2016-07-01T09:22:05Z', 'labels': []}
+{'issuenumber': 56, 'title': 'support for prerelease versions', 'state': 'closed', 'created_at': '2016-05-15T05:36:32Z', 'closed_at': '2016-05-15T06:19:14Z', 'labels': []}
+{'issuenumber': 55, 'title': 'Add system version', 'state': 'closed', 'created_at': '2016-05-15T02:04:38Z', 'closed_at': '2017-04-01T12:37:49Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 52, 'title': '`asdf.sh` can misconfigure `$PATH` on `zsh`', 'state': 'closed', 'created_at': '2016-05-10T19:04:03Z', 'closed_at': '2016-07-02T04:56:42Z', 'labels': []}
+{'issuenumber': 49, 'title': '[improvement] shell command', 'state': 'closed', 'created_at': '2016-04-27T22:14:54Z', 'closed_at': '2017-01-19T17:27:26Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 41, 'title': '.asdfrc config file', 'state': 'closed', 'created_at': '2016-04-09T15:30:50Z', 'closed_at': '2016-04-24T16:43:49Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 39, 'title': 'asdf install <name> [<version>]', 'state': 'closed', 'created_at': '2016-03-30T06:13:34Z', 'closed_at': '2016-04-09T15:45:16Z', 'labels': []}
+{'issuenumber': 38, 'title': '3 digit semver version of elixir bug', 'state': 'closed', 'created_at': '2016-03-29T23:10:49Z', 'closed_at': '2016-03-30T00:09:37Z', 'labels': []}
+{'issuenumber': 37, 'title': 'Plugin: Python', 'state': 'closed', 'created_at': '2016-03-24T19:34:36Z', 'closed_at': '2016-06-17T09:41:10Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 36, 'title': 'Plugin: Rust', 'state': 'closed', 'created_at': '2016-03-24T19:33:37Z', 'closed_at': '2016-11-11T05:10:45Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 35, 'title': 'Update all?', 'state': 'closed', 'created_at': '2016-03-16T08:00:30Z', 'closed_at': '2016-04-09T15:49:17Z', 'labels': []}
+{'issuenumber': 34, 'title': 'How to reinstall already installed toolchains', 'state': 'closed', 'created_at': '2016-03-15T08:51:25Z', 'closed_at': '2016-04-09T16:34:28Z', 'labels': []}
+{'issuenumber': 33, 'title': 'Order of `list-all`', 'state': 'closed', 'created_at': '2016-03-10T11:07:57Z', 'closed_at': '2016-03-12T17:58:10Z', 'labels': []}
+{'issuenumber': 30, 'title': 'golang Plugin', 'state': 'closed', 'created_at': '2016-02-29T07:43:42Z', 'closed_at': '2016-04-09T15:56:20Z', 'labels': []}
+{'issuenumber': 29, 'title': 'Any plans for PHP?', 'state': 'closed', 'created_at': '2016-02-15T10:30:30Z', 'closed_at': '2016-10-17T13:28:19Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 28, 'title': '.tool-versions needs a blank newline?', 'state': 'closed', 'created_at': '2016-02-11T20:27:51Z', 'closed_at': '2016-02-15T08:21:57Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 26, 'title': 'Bins break when called from within a directory whose name has a space', 'state': 'closed', 'created_at': '2015-12-22T22:28:55Z', 'closed_at': '2015-12-23T00:17:56Z', 'labels': []}
+{'issuenumber': 19, 'title': 'If "asdf install" fails, it should realise this', 'state': 'closed', 'created_at': '2015-07-27T15:22:46Z', 'closed_at': '2015-07-28T06:03:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 18, 'title': 'Erlang 18.0 - No version set for erlang', 'state': 'closed', 'created_at': '2015-07-06T10:57:31Z', 'closed_at': '2015-07-06T11:36:29Z', 'labels': []}
+{'issuenumber': 16, 'title': "asdf-exec should read versions from global .tool-versions file if version not specified in project's .tool-versions", 'state': 'closed', 'created_at': '2015-06-18T04:50:38Z', 'closed_at': '2015-06-24T14:07:14Z', 'labels': []}
+{'issuenumber': 15, 'title': '"asdf install" without args should install versions specified in tool versions file', 'state': 'closed', 'created_at': '2015-06-18T04:49:48Z', 'closed_at': '2015-06-24T15:11:48Z', 'labels': []}
+{'issuenumber': 14, 'title': 'No version set for ...', 'state': 'closed', 'created_at': '2015-06-16T19:46:10Z', 'closed_at': '2015-06-18T21:18:04Z', 'labels': []}
+{'issuenumber': 11, 'title': 'Add support for default/global versions', 'state': 'closed', 'created_at': '2015-05-30T05:42:53Z', 'closed_at': '2015-05-30T05:51:52Z', 'labels': []}
+{'issuenumber': 10, 'title': 'There\'s some "declare" stuff that shows up when running "mix help run"', 'state': 'closed', 'created_at': '2015-05-20T06:49:31Z', 'closed_at': '2015-05-20T07:11:19Z', 'labels': []}
+{'issuenumber': 9, 'title': 'test installing ruby on a linux OS', 'state': 'closed', 'created_at': '2015-05-17T17:04:29Z', 'closed_at': '2015-05-19T07:48:16Z', 'labels': []}
+{'issuenumber': 8, 'title': 'test gem install shimming', 'state': 'closed', 'created_at': '2015-05-17T11:45:07Z', 'closed_at': '2015-05-17T14:26:12Z', 'labels': []}
+{'issuenumber': 7, 'title': 'asdf-elixir bin/install pending', 'state': 'closed', 'created_at': '2015-05-17T11:44:28Z', 'closed_at': '2015-05-17T18:01:04Z', 'labels': []}
+{'issuenumber': 6, 'title': 'Fix reshim command', 'state': 'closed', 'created_at': '2015-05-17T11:44:09Z', 'closed_at': '2015-05-17T14:26:12Z', 'labels': []}
+{'issuenumber': 5, 'title': 'Should allow cd-ing into subdirectories and maintain pkg version in env var', 'state': 'closed', 'created_at': '2015-05-14T07:03:47Z', 'closed_at': '2015-05-15T12:14:07Z', 'labels': []}
+{'issuenumber': 4, 'title': '`asdf use` should store version of tool in env var', 'state': 'closed', 'created_at': '2015-05-14T07:01:48Z', 'closed_at': '2015-05-22T09:05:47Z', 'labels': []}
+{'issuenumber': 3, 'title': 'support .asdf-versions', 'state': 'closed', 'created_at': '2015-05-14T07:00:37Z', 'closed_at': '2015-05-15T01:27:52Z', 'labels': []}
+{'issuenumber': 2, 'title': '`asdf exec` should display if the binary is not available in the current version of the tool', 'state': 'closed', 'created_at': '2015-05-14T06:59:37Z', 'closed_at': '2015-05-15T12:14:07Z', 'labels': []}
+{'issuenumber': 1, 'title': 'Support other shells in asdf.sh init script', 'state': 'closed', 'created_at': '2015-05-14T06:58:51Z', 'closed_at': '2015-05-19T05:15:28Z', 'labels': []}

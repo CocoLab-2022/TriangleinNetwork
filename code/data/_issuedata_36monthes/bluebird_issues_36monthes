@@ -1,0 +1,842 @@
+{'issuenumber': 1217, 'title': 'Unhandled Errors after upgrading from 3.4.3 to 3.4.4', 'state': 'closed', 'created_at': '2016-08-30T19:07:48Z', 'closed_at': '2016-08-31T05:27:16Z', 'labels': []}
+{'issuenumber': 1211, 'title': "promisifyAll doesn't update protoypes of mysqljs when bundled using Webpack", 'state': 'closed', 'created_at': '2016-08-26T04:59:23Z', 'closed_at': '2016-08-26T06:19:13Z', 'labels': []}
+{'issuenumber': 1210, 'title': 'When using `.return` on a thenable, the `.then` function gets called too early', 'state': 'closed', 'created_at': '2016-08-25T14:11:03Z', 'closed_at': '2016-08-26T12:08:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1209, 'title': '`unhandledrejection` event is missing `detail` field', 'state': 'closed', 'created_at': '2016-08-25T12:08:03Z', 'closed_at': '2016-08-26T12:11:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1208, 'title': 'Feature request: allow .each to accept objects', 'state': 'closed', 'created_at': '2016-08-24T20:18:07Z', 'closed_at': '2016-08-25T05:56:05Z', 'labels': []}
+{'issuenumber': 1205, 'title': 'Improve Warning: a promise was created in a handler but none were returned from it ', 'state': 'closed', 'created_at': '2016-08-24T14:37:55Z', 'closed_at': '2016-08-25T06:56:11Z', 'labels': []}
+{'issuenumber': 1204, 'title': 'API addition: like .tap, but for errors', 'state': 'closed', 'created_at': '2016-08-22T21:09:02Z', 'closed_at': '2016-08-24T16:45:35Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1203, 'title': 'Bizarre behaviour(maybe only for me :))', 'state': 'closed', 'created_at': '2016-08-21T04:40:17Z', 'closed_at': '2016-08-24T09:25:16Z', 'labels': []}
+{'issuenumber': 1200, 'title': 'Promises with a timeout set to `Infinity` are immediately rejected', 'state': 'closed', 'created_at': '2016-08-18T04:54:21Z', 'closed_at': '2016-08-24T18:53:07Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1199, 'title': 'stack overflow when returning an ES6 proxy through a promise', 'state': 'closed', 'created_at': '2016-08-17T08:17:16Z', 'closed_at': '2016-08-17T14:44:17Z', 'labels': []}
+{'issuenumber': 1198, 'title': "Promise.map doesn't await all promises", 'state': 'closed', 'created_at': '2016-08-16T05:41:07Z', 'closed_at': '2016-08-16T15:36:23Z', 'labels': []}
+{'issuenumber': 1197, 'title': 'Hard-coded debug = true kills IE11 performance', 'state': 'closed', 'created_at': '2016-08-13T17:08:40Z', 'closed_at': '2016-08-16T15:31:36Z', 'labels': []}
+{'issuenumber': 1193, 'title': 'Maximum callstack exceeded with coroutine', 'state': 'closed', 'created_at': '2016-08-09T21:21:23Z', 'closed_at': '2016-08-24T09:31:02Z', 'labels': []}
+{'issuenumber': 1192, 'title': 'NativePromise.resolve not a function?', 'state': 'closed', 'created_at': '2016-08-09T18:00:39Z', 'closed_at': '2016-08-24T10:25:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1190, 'title': 'addEventListener("unhandledexception", ...) is ignored in workers.', 'state': 'closed', 'created_at': '2016-08-08T11:36:39Z', 'closed_at': '2016-08-24T10:23:26Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1189, 'title': 'api problems', 'state': 'closed', 'created_at': '2016-08-08T09:35:26Z', 'closed_at': '2016-08-29T16:59:52Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 1188, 'title': '`.fork()` method missing', 'state': 'closed', 'created_at': '2016-08-07T23:25:58Z', 'closed_at': '2016-08-27T14:17:14Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 1187, 'title': 'isCancelled() is false after calling cancel()', 'state': 'closed', 'created_at': '2016-08-07T03:56:09Z', 'closed_at': '2016-08-24T10:18:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1186, 'title': 'Unhandled rejection when calling `.return()` with a rejected promise from another promise constructor', 'state': 'closed', 'created_at': '2016-08-06T11:17:57Z', 'closed_at': '2016-08-24T10:36:13Z', 'labels': []}
+{'issuenumber': 1182, 'title': 'Promise.delay() does not produce long stack traces', 'state': 'closed', 'created_at': '2016-08-04T23:01:37Z', 'closed_at': '2016-08-24T10:39:47Z', 'labels': []}
+{'issuenumber': 1181, 'title': 'No call stack with runaway promise warning', 'state': 'closed', 'created_at': '2016-08-04T22:50:13Z', 'closed_at': '2016-08-27T14:08:55Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 1180, 'title': 'Scheduler (MutationObserver) stops firing on iOS 9.3.2 after heavy use', 'state': 'closed', 'created_at': '2016-08-03T19:00:34Z', 'closed_at': '2016-08-29T12:28:13Z', 'labels': {'name': 'environment-scheduler-bug'}}
+{'issuenumber': 1179, 'title': 'Illegal invocation error with navigator.geolocation.getCurrentLocation', 'state': 'closed', 'created_at': '2016-08-03T13:57:17Z', 'closed_at': '2016-08-05T11:46:00Z', 'labels': []}
+{'issuenumber': 1178, 'title': 'Thrown error in `onCancel` handler is not thrown synchronously', 'state': 'closed', 'created_at': '2016-08-01T19:11:52Z', 'closed_at': '2016-08-24T11:04:38Z', 'labels': []}
+{'issuenumber': 1177, 'title': '`onCancel` handler executed asynchronously', 'state': 'closed', 'created_at': '2016-07-31T19:48:54Z', 'closed_at': '2016-08-27T14:52:53Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 1174, 'title': '`Promise.delay()` does not delay when ', 'state': 'closed', 'created_at': '2016-07-28T11:40:26Z', 'closed_at': '2016-07-28T12:26:01Z', 'labels': []}
+{'issuenumber': 1170, 'title': 'Bluebird.coroutine() is sometimes synchronous', 'state': 'closed', 'created_at': '2016-07-26T16:36:53Z', 'closed_at': '2016-08-03T23:22:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1169, 'title': 'blue', 'state': 'closed', 'created_at': '2016-07-26T07:08:17Z', 'closed_at': '2016-07-26T08:24:10Z', 'labels': []}
+{'issuenumber': 1168, 'title': 'Feature Request: make the promisified promise assertable', 'state': 'closed', 'created_at': '2016-07-22T07:41:04Z', 'closed_at': '2016-08-24T11:07:06Z', 'labels': []}
+{'issuenumber': 1167, 'title': 'Update benchmark results?', 'state': 'closed', 'created_at': '2016-07-21T22:23:49Z', 'closed_at': '2016-08-27T14:20:08Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 1165, 'title': 'callback-baseline parallel benchmark is broken in Node 6.x', 'state': 'closed', 'created_at': '2016-07-18T13:49:12Z', 'closed_at': '2016-08-29T18:08:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1164, 'title': '.finally not a function, but .then still works in its place', 'state': 'closed', 'created_at': '2016-07-15T18:58:30Z', 'closed_at': '2016-07-15T19:01:48Z', 'labels': []}
+{'issuenumber': 1161, 'title': 'Using bluebird in IE/Edge does not always resolve promises when window is not focused', 'state': 'closed', 'created_at': '2016-07-12T14:31:18Z', 'closed_at': '2016-08-27T22:02:13Z', 'labels': {'name': 'environment-scheduler-bug'}}
+{'issuenumber': 1159, 'title': 'Docs Anti-Patterns: incorrect "translation" between try/catch and promises example?', 'state': 'closed', 'created_at': '2016-07-11T19:56:06Z', 'closed_at': '2016-07-13T23:09:32Z', 'labels': []}
+{'issuenumber': 1158, 'title': 'Unhandled rejection when calling `Promise.all()` on promise of array where array contains rejected promise', 'state': 'closed', 'created_at': '2016-07-09T15:53:54Z', 'closed_at': '2016-08-24T11:15:17Z', 'labels': []}
+{'issuenumber': 1157, 'title': 'promisifyAll on gcloud/lib/storage/file can lead to stack overflow', 'state': 'closed', 'created_at': '2016-07-08T14:46:31Z', 'closed_at': '2019-05-27T10:00:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1154, 'title': 'How can I make a chain?', 'state': 'closed', 'created_at': '2016-07-05T13:36:01Z', 'closed_at': '2016-07-05T18:05:30Z', 'labels': []}
+{'issuenumber': 1152, 'title': 'Promise.all ( array_of_functions ) - bind arguments for each function', 'state': 'closed', 'created_at': '2016-07-03T08:34:51Z', 'closed_at': '2016-08-16T15:36:59Z', 'labels': []}
+{'issuenumber': 1151, 'title': 'Don\'t provide an already browserified file in package.json "browser" field', 'state': 'closed', 'created_at': '2016-07-01T10:40:24Z', 'closed_at': '2016-08-24T11:18:35Z', 'labels': []}
+{'issuenumber': 1150, 'title': 'MySQL sample code appears to be wrong', 'state': 'closed', 'created_at': '2016-06-29T00:50:27Z', 'closed_at': '2016-08-24T11:18:56Z', 'labels': []}
+{'issuenumber': 1149, 'title': 'Debug: internal, implementation, error   at  Function.CapturedTrace.parseStackAndMessage', 'state': 'closed', 'created_at': '2016-06-27T19:41:44Z', 'closed_at': '2016-06-27T22:52:22Z', 'labels': []}
+{'issuenumber': 1148, 'title': '`Promise.map` calls callback synchronously in bluebird v3.x', 'state': 'closed', 'created_at': '2016-06-27T00:08:08Z', 'closed_at': '2016-09-01T07:05:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1146, 'title': 'Invalid `rejected with a non-error` warning', 'state': 'closed', 'created_at': '2016-06-26T18:07:18Z', 'closed_at': '2016-06-26T18:10:15Z', 'labels': []}
+{'issuenumber': 1145, 'title': 'Coroutines and fromCallback', 'state': 'closed', 'created_at': '2016-06-25T16:59:43Z', 'closed_at': '2016-06-26T00:23:09Z', 'labels': []}
+{'issuenumber': 1143, 'title': 'Bluebird enumerates entire iterable in `.map` and `.forEach` (and probably any other method that accepts iterables)', 'state': 'closed', 'created_at': '2016-06-24T05:36:40Z', 'closed_at': '2016-06-26T20:00:43Z', 'labels': []}
+{'issuenumber': 1142, 'title': 'Handling simple value rejects', 'state': 'closed', 'created_at': '2016-06-23T05:55:42Z', 'closed_at': '2016-06-29T10:29:15Z', 'labels': []}
+{'issuenumber': 1141, 'title': 'Promise created but not returned: False-Positive?', 'state': 'closed', 'created_at': '2016-06-22T03:28:39Z', 'closed_at': '2016-06-22T22:38:33Z', 'labels': []}
+{'issuenumber': 1138, 'title': 'Add `Promise.version` property to 2.x branch', 'state': 'closed', 'created_at': '2016-06-18T01:22:58Z', 'closed_at': '2016-08-29T18:31:23Z', 'labels': {'name': '2.0'}}
+{'issuenumber': 1136, 'title': '`Promise.version` is incorrect for v3.4.1', 'state': 'closed', 'created_at': '2016-06-18T00:45:36Z', 'closed_at': '2016-08-26T12:37:21Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1130, 'title': 'Map with concurrency and multiple catches', 'state': 'closed', 'created_at': '2016-06-13T19:39:41Z', 'closed_at': '2016-06-16T17:38:36Z', 'labels': []}
+{'issuenumber': 1129, 'title': 'Feature request for method `chain`', 'state': 'closed', 'created_at': '2016-06-10T16:45:45Z', 'closed_at': '2016-06-11T00:58:06Z', 'labels': []}
+{'issuenumber': 1128, 'title': 'Are those benchmark results normal?', 'state': 'closed', 'created_at': '2016-06-10T15:41:30Z', 'closed_at': '2016-06-13T09:42:55Z', 'labels': []}
+{'issuenumber': 1125, 'title': 'Bluebird leaks domains on exception thrown in a then() function.', 'state': 'closed', 'created_at': '2016-06-08T00:20:09Z', 'closed_at': '2016-08-26T12:57:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1124, 'title': 'Feature: shorthand combination of props and each', 'state': 'closed', 'created_at': '2016-06-07T19:23:00Z', 'closed_at': '2016-08-01T19:37:45Z', 'labels': []}
+{'issuenumber': 1123, 'title': '`util.isError` uses duck typing', 'state': 'closed', 'created_at': '2016-06-07T18:18:32Z', 'closed_at': '2016-06-07T19:05:09Z', 'labels': []}
+{'issuenumber': 1122, 'title': 'isCancelled() not true after cancel()', 'state': 'closed', 'created_at': '2016-06-07T09:33:28Z', 'closed_at': '2016-08-24T11:22:35Z', 'labels': []}
+{'issuenumber': 1121, 'title': 'Cancellation allows late catch and finally consumers', 'state': 'closed', 'created_at': '2016-06-01T13:12:51Z', 'closed_at': '2016-06-01T13:25:16Z', 'labels': []}
+{'issuenumber': 1120, 'title': "Promisified 'request' not throwing Error on error status code.", 'state': 'closed', 'created_at': '2016-06-01T08:12:12Z', 'closed_at': '2016-06-15T14:16:01Z', 'labels': []}
+{'issuenumber': 1116, 'title': 'Bluebird 4 and modern NodeJS', 'state': 'closed', 'created_at': '2016-05-27T11:52:25Z', 'closed_at': '2016-08-24T16:46:16Z', 'labels': {'name': '4.0.0'}}
+{'issuenumber': 1112, 'title': 'Why was `Promise.try` with an additional argument deprecated?', 'state': 'closed', 'created_at': '2016-05-25T17:16:33Z', 'closed_at': '2016-08-24T11:24:51Z', 'labels': []}
+{'issuenumber': 1111, 'title': "Beginner's guide not properly showing", 'state': 'closed', 'created_at': '2016-05-24T13:57:03Z', 'closed_at': '2016-08-07T13:26:01Z', 'labels': []}
+{'issuenumber': 1110, 'title': "Promise.map() got TypeError: Cannot match against 'undefined' or 'null'", 'state': 'closed', 'created_at': '2016-05-24T08:50:03Z', 'closed_at': '2016-05-24T19:32:55Z', 'labels': []}
+{'issuenumber': 1109, 'title': "Assumes 'stack' property exists on trace in debuggability.js, not always true", 'state': 'closed', 'created_at': '2016-05-23T00:40:01Z', 'closed_at': '2016-08-07T13:27:22Z', 'labels': []}
+{'issuenumber': 1108, 'title': 'eval in toFastProperties optimized away in minified build?', 'state': 'closed', 'created_at': '2016-05-19T15:43:16Z', 'closed_at': '2016-08-24T11:26:50Z', 'labels': []}
+{'issuenumber': 1106, 'title': 'Order of promise chain is not clear', 'state': 'closed', 'created_at': '2016-05-18T08:32:33Z', 'closed_at': '2016-05-18T18:34:57Z', 'labels': []}
+{'issuenumber': 1105, 'title': 'Resolvable value definition', 'state': 'closed', 'created_at': '2016-05-17T20:23:11Z', 'closed_at': '2016-08-24T11:27:14Z', 'labels': []}
+{'issuenumber': 1104, 'title': 'Edge case where {}.hasOwnProperty throws', 'state': 'closed', 'created_at': '2016-05-16T17:53:55Z', 'closed_at': '2016-05-17T19:30:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1103, 'title': 'catch(MyException, ex => { ... }) can cause some trouble', 'state': 'closed', 'created_at': '2016-05-16T13:24:39Z', 'closed_at': '2016-08-24T11:31:21Z', 'labels': []}
+{'issuenumber': 1101, 'title': 'Feature request: suppressUnhandledRejections return promise instance', 'state': 'closed', 'created_at': '2016-05-15T18:55:37Z', 'closed_at': '2016-05-17T19:03:15Z', 'labels': []}
+{'issuenumber': 1099, 'title': 'disposer not called when resource is null', 'state': 'closed', 'created_at': '2016-05-13T05:57:50Z', 'closed_at': '2016-05-17T19:30:47Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1098, 'title': 'Promise warning only with catch', 'state': 'closed', 'created_at': '2016-05-12T20:48:18Z', 'closed_at': '2016-05-17T19:06:11Z', 'labels': []}
+{'issuenumber': 1097, 'title': "Promise.map should generate an error if 'options' is provided but not an object", 'state': 'closed', 'created_at': '2016-05-12T17:22:49Z', 'closed_at': '2016-05-17T19:30:46Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1096, 'title': 'Standard API', 'state': 'closed', 'created_at': '2016-05-11T16:02:46Z', 'closed_at': '2016-08-24T11:32:21Z', 'labels': []}
+{'issuenumber': 1094, 'title': 'Benchmark for streamline broken', 'state': 'closed', 'created_at': '2016-05-09T20:06:54Z', 'closed_at': '2016-12-29T13:26:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1091, 'title': 'Report Errors After Resolve', 'state': 'closed', 'created_at': '2016-05-05T23:21:13Z', 'closed_at': '2016-05-17T19:22:07Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1090, 'title': 'Catch Is Not Picking Up Exceptions Thrown in Success Handler', 'state': 'closed', 'created_at': '2016-05-04T18:51:25Z', 'closed_at': '2016-05-04T19:12:18Z', 'labels': []}
+{'issuenumber': 1089, 'title': "Locks up IE unless longStackTraces is turned off (even though it's the default)", 'state': 'closed', 'created_at': '2016-05-02T20:06:48Z', 'closed_at': '2016-08-29T19:44:55Z', 'labels': {'name': '3.0.0'}}
+{'issuenumber': 1087, 'title': 'Feature request: Concurrent Promise#each', 'state': 'closed', 'created_at': '2016-05-02T10:32:31Z', 'closed_at': '2016-05-02T11:05:13Z', 'labels': []}
+{'issuenumber': 1086, 'title': 'Feature request: Concurrent Promise#reduce', 'state': 'closed', 'created_at': '2016-05-02T10:30:53Z', 'closed_at': '2016-05-02T11:05:41Z', 'labels': []}
+{'issuenumber': 1085, 'title': 'Leave Disqus or find a way to disable the ads', 'state': 'closed', 'created_at': '2016-05-01T19:35:13Z', 'closed_at': '2016-05-02T11:09:14Z', 'labels': []}
+{'issuenumber': 1084, 'title': 'bluebird with async causes warnings', 'state': 'closed', 'created_at': '2016-04-28T22:47:19Z', 'closed_at': '2016-05-04T22:44:20Z', 'labels': []}
+{'issuenumber': 1083, 'title': 'Bluebird not playing nice inside heroku.', 'state': 'closed', 'created_at': '2016-04-27T09:20:14Z', 'closed_at': '2016-04-27T09:39:19Z', 'labels': []}
+{'issuenumber': 1082, 'title': 'Skip node packages for forgotten return warnings', 'state': 'closed', 'created_at': '2016-04-27T07:43:08Z', 'closed_at': '2016-04-27T09:10:48Z', 'labels': []}
+{'issuenumber': 1079, 'title': 'Bug in `Promise.prototype._resolveCallback`?', 'state': 'closed', 'created_at': '2016-04-22T09:50:39Z', 'closed_at': '2016-04-22T10:01:37Z', 'labels': []}
+{'issuenumber': 1078, 'title': 'Using .reflect() gives Warning: a promise was created in a handler but was not returned from it', 'state': 'closed', 'created_at': '2016-04-22T05:28:42Z', 'closed_at': '2016-08-29T16:16:18Z', 'labels': {'name': 'needs-investigation'}}
+{'issuenumber': 1074, 'title': 'Possible memory leak with .finally()', 'state': 'closed', 'created_at': '2016-04-17T16:41:53Z', 'closed_at': '2016-04-17T17:02:41Z', 'labels': []}
+{'issuenumber': 1073, 'title': 'Attempted to assign to readonly property', 'state': 'closed', 'created_at': '2016-04-17T14:01:24Z', 'closed_at': '2016-04-17T17:04:56Z', 'labels': []}
+{'issuenumber': 1068, 'title': 'Long chain promise => Out of memory', 'state': 'closed', 'created_at': '2016-04-12T19:44:28Z', 'closed_at': '2016-04-12T20:03:15Z', 'labels': []}
+{'issuenumber': 1065, 'title': 'Bluebird Promises and Domains', 'state': 'closed', 'created_at': '2016-04-06T14:42:04Z', 'closed_at': '2016-04-07T06:34:08Z', 'labels': []}
+{'issuenumber': 1063, 'title': 'fromCallback with multiArgs throws an error when callback is called without arguments.', 'state': 'closed', 'created_at': '2016-04-01T10:46:43Z', 'closed_at': '2016-04-12T20:15:20Z', 'labels': []}
+{'issuenumber': 1062, 'title': 'Documentation bug for MySQL transaction example?', 'state': 'closed', 'created_at': '2016-04-01T06:35:41Z', 'closed_at': '2016-04-01T06:45:25Z', 'labels': []}
+{'issuenumber': 1057, 'title': 'Possible memory leak with Promise.each', 'state': 'closed', 'created_at': '2016-03-29T10:03:09Z', 'closed_at': '2016-08-30T18:21:28Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1055, 'title': 'Proposal: promise.if/when', 'state': 'closed', 'created_at': '2016-03-29T02:46:55Z', 'closed_at': '2016-04-18T13:39:28Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1054, 'title': 'Warnings about Promise not being returned', 'state': 'closed', 'created_at': '2016-03-26T02:18:24Z', 'closed_at': '2016-08-24T11:38:16Z', 'labels': []}
+{'issuenumber': 1053, 'title': 'Feature request for Promise.loop()', 'state': 'closed', 'created_at': '2016-03-24T07:39:26Z', 'closed_at': '2016-08-27T14:18:39Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1052, 'title': 'Proper way to promisify npm mysql module', 'state': 'closed', 'created_at': '2016-03-22T12:40:54Z', 'closed_at': '2016-08-24T11:38:27Z', 'labels': []}
+{'issuenumber': 1051, 'title': 'API reference manual for offline documentation ', 'state': 'closed', 'created_at': '2016-03-22T09:09:02Z', 'closed_at': '2016-08-27T14:56:40Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1047, 'title': 'call props method  after then would not be applied', 'state': 'closed', 'created_at': '2016-03-18T07:50:15Z', 'closed_at': '2016-03-18T12:06:30Z', 'labels': []}
+{'issuenumber': 1045, 'title': '[TypeError: expecting an array or an iterable object but got [object Null]]', 'state': 'closed', 'created_at': '2016-03-17T08:02:02Z', 'closed_at': '2016-03-17T08:03:32Z', 'labels': []}
+{'issuenumber': 1043, 'title': 'Throw not calling catch method', 'state': 'closed', 'created_at': '2016-03-14T22:51:00Z', 'closed_at': '2016-03-15T07:40:12Z', 'labels': []}
+{'issuenumber': 1042, 'title': 'Library version', 'state': 'closed', 'created_at': '2016-03-13T22:16:50Z', 'closed_at': '2016-05-17T19:30:47Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1041, 'title': 'Problematic delay in calling onCancel function', 'state': 'closed', 'created_at': '2016-03-13T17:37:15Z', 'closed_at': '2016-03-15T07:45:09Z', 'labels': []}
+{'issuenumber': 1040, 'title': '"For library authors" doesn\'t exist anymore', 'state': 'closed', 'created_at': '2016-03-13T11:00:47Z', 'closed_at': '2016-08-24T11:40:29Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1039, 'title': 'Promise.map synchronously called', 'state': 'closed', 'created_at': '2016-03-11T07:33:15Z', 'closed_at': '2016-03-11T07:38:24Z', 'labels': []}
+{'issuenumber': 1038, 'title': "I still get this error even after update 'Warning: a promise was created in a handler but was not returned from it'", 'state': 'closed', 'created_at': '2016-03-08T08:53:14Z', 'closed_at': '2016-03-08T15:59:46Z', 'labels': []}
+{'issuenumber': 1037, 'title': "Custom Errors Throw 'a promise was rejected with a non-error'", 'state': 'closed', 'created_at': '2016-03-08T01:05:25Z', 'closed_at': '2016-03-08T08:45:51Z', 'labels': []}
+{'issuenumber': 1036, 'title': 'Managing arguments', 'state': 'closed', 'created_at': '2016-03-07T03:41:09Z', 'closed_at': '2016-04-21T10:43:48Z', 'labels': []}
+{'issuenumber': 1034, 'title': 'RangeError: Maximum call stack size exceeded', 'state': 'closed', 'created_at': '2016-03-04T20:00:26Z', 'closed_at': '2016-03-10T10:32:49Z', 'labels': []}
+{'issuenumber': 1033, 'title': 'Mongoose Warning: a promise was created in a handler but was not returned from it.', 'state': 'closed', 'created_at': '2016-03-04T05:30:20Z', 'closed_at': '2016-03-04T20:35:43Z', 'labels': []}
+{'issuenumber': 1032, 'title': 'Error thrown from a within a returned promise does not get caught in main promise chain', 'state': 'closed', 'created_at': '2016-03-03T08:51:37Z', 'closed_at': '2016-03-03T09:19:32Z', 'labels': []}
+{'issuenumber': 1031, 'title': 'This in executor is bound to window', 'state': 'closed', 'created_at': '2016-03-01T05:16:04Z', 'closed_at': '2016-03-08T10:09:14Z', 'labels': []}
+{'issuenumber': 1028, 'title': 'no promise returned warning for a constructor', 'state': 'closed', 'created_at': '2016-02-28T22:50:12Z', 'closed_at': '2016-02-29T12:17:04Z', 'labels': []}
+{'issuenumber': 1027, 'title': 'Unable to silence the warning "a promise was created in a handler but none were returned from it"', 'state': 'closed', 'created_at': '2016-02-28T14:36:00Z', 'closed_at': '2016-02-28T14:56:18Z', 'labels': []}
+{'issuenumber': 1026, 'title': 'May I use global.Promise=require("bluebird") ?', 'state': 'closed', 'created_at': '2016-02-28T13:40:50Z', 'closed_at': '2016-02-28T13:56:21Z', 'labels': []}
+{'issuenumber': 1025, 'title': 'Cancellation: finally handlers run in different order', 'state': 'closed', 'created_at': '2016-02-27T23:58:51Z', 'closed_at': '2016-02-28T00:09:29Z', 'labels': []}
+{'issuenumber': 1024, 'title': 'Feature request: support the Closure Compiler in advanced mode', 'state': 'closed', 'created_at': '2016-02-27T06:21:37Z', 'closed_at': '2016-03-14T09:30:12Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1023, 'title': 'promisified function does not trigger setScheduler', 'state': 'closed', 'created_at': '2016-02-26T23:48:10Z', 'closed_at': '2016-04-12T20:15:20Z', 'labels': []}
+{'issuenumber': 1022, 'title': "Firefox: calling resolve() don't resolve then()", 'state': 'closed', 'created_at': '2016-02-26T11:49:40Z', 'closed_at': '2016-04-12T20:15:20Z', 'labels': []}
+{'issuenumber': 1021, 'title': 'Ten Thousand Stars ', 'state': 'closed', 'created_at': '2016-02-25T13:10:30Z', 'closed_at': '2016-08-24T11:40:40Z', 'labels': {'name': 'mug-giveaway'}}
+{'issuenumber': 1020, 'title': '.done() trims stack trace?', 'state': 'closed', 'created_at': '2016-02-25T11:29:53Z', 'closed_at': '2016-02-25T22:00:37Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1013, 'title': '[Feature request] Support react-native', 'state': 'closed', 'created_at': '2016-02-19T01:11:15Z', 'closed_at': '2016-02-19T01:32:23Z', 'labels': []}
+{'issuenumber': 1011, 'title': 'Possible reflection issue in .each() and .filter() ?', 'state': 'closed', 'created_at': '2016-02-17T16:00:28Z', 'closed_at': '2016-02-17T17:29:19Z', 'labels': []}
+{'issuenumber': 1009, 'title': 'Possible leak with recursive `finally`s', 'state': 'closed', 'created_at': '2016-02-16T15:09:07Z', 'closed_at': '2016-02-17T07:07:29Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 1008, 'title': 'False performance claims?', 'state': 'closed', 'created_at': '2016-02-16T05:31:00Z', 'closed_at': '2016-02-16T20:02:43Z', 'labels': []}
+{'issuenumber': 1007, 'title': 'promisify the "request" module works in an unexpected way', 'state': 'closed', 'created_at': '2016-02-14T04:39:42Z', 'closed_at': '2016-02-14T12:51:28Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1006, 'title': 'Cancelling certain promise results in internal error', 'state': 'closed', 'created_at': '2016-02-13T17:37:30Z', 'closed_at': '2016-02-13T18:03:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1005, 'title': 'isCancelled is not true in finally handler', 'state': 'closed', 'created_at': '2016-02-12T15:05:06Z', 'closed_at': '2016-02-12T15:19:38Z', 'labels': []}
+{'issuenumber': 1003, 'title': 'Add support of non-extensible objects to promisifyAll', 'state': 'closed', 'created_at': '2016-02-11T16:13:02Z', 'closed_at': '2016-02-11T16:22:44Z', 'labels': []}
+{'issuenumber': 1000, 'title': 'Promise.delay will not clearTimeout when cancelled', 'state': 'closed', 'created_at': '2016-02-09T05:21:32Z', 'closed_at': '2016-02-12T00:41:55Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 999, 'title': 'Support for safari 5.x?', 'state': 'closed', 'created_at': '2016-02-08T15:39:54Z', 'closed_at': '2016-02-08T20:05:50Z', 'labels': []}
+{'issuenumber': 998, 'title': 'Question: warnings when creating Promises in Jasmine tests', 'state': 'closed', 'created_at': '2016-02-08T12:27:41Z', 'closed_at': '2016-02-09T08:19:04Z', 'labels': []}
+{'issuenumber': 995, 'title': 'Feature request:  Allow caller of `asCallback` to cause callback to propagate to chained Promises', 'state': 'closed', 'created_at': '2016-02-06T16:24:39Z', 'closed_at': '2016-02-06T17:03:21Z', 'labels': []}
+{'issuenumber': 990, 'title': 'Warning: a promise was rejected with a non-error: [object Error]', 'state': 'closed', 'created_at': '2016-02-03T12:02:02Z', 'closed_at': '2016-02-12T00:41:55Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 988, 'title': '@3.2.0 npm browser build, global object reference error ', 'state': 'closed', 'created_at': '2016-02-01T11:21:32Z', 'closed_at': '2016-02-01T13:02:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 987, 'title': '"illegal access" in debuggability.js', 'state': 'closed', 'created_at': '2016-01-31T19:10:28Z', 'closed_at': '2016-01-31T21:32:02Z', 'labels': []}
+{'issuenumber': 986, 'title': 'How to implement `Unhandle reject` warning in bluebird?', 'state': 'closed', 'created_at': '2016-01-31T12:16:59Z', 'closed_at': '2016-01-31T12:45:28Z', 'labels': []}
+{'issuenumber': 985, 'title': 'Benchmark setup seems to be biased against async callback style libraries', 'state': 'closed', 'created_at': '2016-01-30T21:36:39Z', 'closed_at': '2016-08-29T19:53:05Z', 'labels': {'name': 'needs-investigation'}}
+{'issuenumber': 984, 'title': 'Feature Request: Branching construct', 'state': 'closed', 'created_at': '2016-01-28T19:27:44Z', 'closed_at': '2016-01-28T19:35:41Z', 'labels': []}
+{'issuenumber': 983, 'title': "Errors being swallowed when binded to 'this'", 'state': 'closed', 'created_at': '2016-01-27T10:55:05Z', 'closed_at': '2016-01-27T11:11:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 982, 'title': 'Checking if a Promise is Bluebird or not', 'state': 'closed', 'created_at': '2016-01-27T04:23:08Z', 'closed_at': '2016-01-27T11:04:57Z', 'labels': []}
+{'issuenumber': 981, 'title': 'Inconsistant behaviour of Promise.resolve?', 'state': 'closed', 'created_at': '2016-01-26T17:24:12Z', 'closed_at': '2016-01-26T17:31:58Z', 'labels': []}
+{'issuenumber': 980, 'title': 'warning hook', 'state': 'closed', 'created_at': '2016-01-26T15:58:08Z', 'closed_at': '2016-02-12T00:42:00Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 979, 'title': 'Installing version 3.1.4 with bower does not include the js/browser directory anymore', 'state': 'closed', 'created_at': '2016-01-25T17:04:07Z', 'closed_at': '2016-01-25T18:28:59Z', 'labels': {'name': '3.0.0'}}
+{'issuenumber': 978, 'title': 'Exception on Bluebird 3.1.2 and node 0.12.2', 'state': 'closed', 'created_at': '2016-01-25T06:20:02Z', 'closed_at': '2016-01-25T08:26:13Z', 'labels': []}
+{'issuenumber': 976, 'title': 'Docs mention "core build", but the link gives a "File not found"', 'state': 'closed', 'created_at': '2016-01-24T16:25:39Z', 'closed_at': '2016-02-01T09:42:14Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 975, 'title': 'Bower "browser" and package.json "main" points to wrong file', 'state': 'closed', 'created_at': '2016-01-24T12:59:09Z', 'closed_at': '2016-01-24T14:39:02Z', 'labels': []}
+{'issuenumber': 974, 'title': 'Promisification of functions not following error-first convention', 'state': 'closed', 'created_at': '2016-01-23T22:48:01Z', 'closed_at': '2016-01-24T09:23:37Z', 'labels': []}
+{'issuenumber': 972, 'title': 'Suggestion: a new warning about Promise created in fromCallback() or promisify()', 'state': 'closed', 'created_at': '2016-01-22T22:29:23Z', 'closed_at': '2016-02-12T01:28:26Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 971, 'title': 'Runaway promise warning lacks long stack trace when using chained fromCallback() calls', 'state': 'closed', 'created_at': '2016-01-22T21:26:48Z', 'closed_at': '2016-01-23T22:18:57Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 970, 'title': 'When using .timeout(), I get a warning that says "cancellation is disabled"', 'state': 'closed', 'created_at': '2016-01-22T17:58:05Z', 'closed_at': '2016-01-23T22:18:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 967, 'title': 'promise.bind(this, args) ignores args', 'state': 'closed', 'created_at': '2016-01-22T11:02:10Z', 'closed_at': '2016-01-22T12:25:48Z', 'labels': []}
+{'issuenumber': 966, 'title': 'Returning a promise in toJSON using .bind(this) causes stack overflow', 'state': 'closed', 'created_at': '2016-01-20T22:54:03Z', 'closed_at': '2016-01-21T10:47:47Z', 'labels': []}
+{'issuenumber': 965, 'title': "Unwrapping resolved promises don't happen asynchronously", 'state': 'closed', 'created_at': '2016-01-19T15:32:55Z', 'closed_at': '2016-01-19T16:59:01Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 964, 'title': 'mysql beginTransactionAsync finally no work', 'state': 'closed', 'created_at': '2016-01-18T06:56:32Z', 'closed_at': '2016-01-18T08:01:43Z', 'labels': []}
+{'issuenumber': 963, 'title': 'finally not called on cancel when Node.js domain is active (i.e. process.domain !== undefined)', 'state': 'closed', 'created_at': '2016-01-15T22:12:20Z', 'closed_at': '2016-01-23T22:18:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 960, 'title': 'Looks like Promise.mapSeries will iterate all items before return', 'state': 'closed', 'created_at': '2016-01-14T08:17:32Z', 'closed_at': '2016-01-15T13:42:43Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 959, 'title': 'Another One: Warning: a promise was created in a handler but was not returned from it', 'state': 'closed', 'created_at': '2016-01-14T03:52:47Z', 'closed_at': '2016-01-15T12:07:09Z', 'labels': []}
+{'issuenumber': 957, 'title': 'Manual promisification anti-pattern doc needs more details', 'state': 'closed', 'created_at': '2016-01-14T01:15:14Z', 'closed_at': '2016-02-12T01:33:16Z', 'labels': {'name': 'pull-request-welcome'}}
+{'issuenumber': 956, 'title': 'Promise.props does not fail if one promise fail on 3.1.1', 'state': 'closed', 'created_at': '2016-01-13T10:16:20Z', 'closed_at': '2016-01-13T11:32:18Z', 'labels': []}
+{'issuenumber': 955, 'title': 'Warning: a promise was created in a  handler but was not returned from it', 'state': 'closed', 'created_at': '2016-01-13T09:32:26Z', 'closed_at': '2016-01-15T12:09:42Z', 'labels': []}
+{'issuenumber': 954, 'title': 'Promise doesnt catch TypeError from toString on malformed base64 string in buffer', 'state': 'closed', 'created_at': '2016-01-10T14:56:06Z', 'closed_at': '2016-01-10T16:38:50Z', 'labels': []}
+{'issuenumber': 952, 'title': 'Calling promisified function with only one argument results in missing callback.', 'state': 'closed', 'created_at': '2016-01-08T22:01:03Z', 'closed_at': '2016-01-08T22:04:18Z', 'labels': []}
+{'issuenumber': 951, 'title': 'Example usage of static Promise.bind', 'state': 'closed', 'created_at': '2016-01-08T15:59:45Z', 'closed_at': '2016-01-08T16:03:23Z', 'labels': []}
+{'issuenumber': 950, 'title': 'Feature request: Execute bluebird tests in browsers as part of CI', 'state': 'closed', 'created_at': '2016-01-08T15:57:43Z', 'closed_at': '2016-02-12T01:30:06Z', 'labels': {'name': 'pull-request-welcome'}}
+{'issuenumber': 949, 'title': 'promiseCapability.[[Resolve]] is not a function', 'state': 'closed', 'created_at': '2016-01-08T14:25:44Z', 'closed_at': '2016-01-09T18:57:35Z', 'labels': []}
+{'issuenumber': 948, 'title': "wForgottenReturn can't be set with environment", 'state': 'closed', 'created_at': '2016-01-08T07:31:24Z', 'closed_at': '2016-01-08T08:05:29Z', 'labels': []}
+{'issuenumber': 946, 'title': 'Question: Cancellation integration with any/all etc.', 'state': 'closed', 'created_at': '2016-01-07T16:08:31Z', 'closed_at': '2016-01-10T16:40:03Z', 'labels': []}
+{'issuenumber': 945, 'title': 'mapSeries documents', 'state': 'closed', 'created_at': '2016-01-06T21:04:56Z', 'closed_at': '2016-01-07T08:16:18Z', 'labels': []}
+{'issuenumber': 943, 'title': "disposer() doc doesn't show how to use it", 'state': 'closed', 'created_at': '2016-01-06T14:44:30Z', 'closed_at': '2016-02-12T01:25:02Z', 'labels': {'name': 'pull-request-welcome'}}
+{'issuenumber': 942, 'title': 'Phantomjs 2.0 Errror.stack is not writable causing "Promise was rejected with a non-error"', 'state': 'closed', 'created_at': '2016-01-05T19:55:29Z', 'closed_at': '2016-01-21T11:43:58Z', 'labels': []}
+{'issuenumber': 939, 'title': 'Minor optimisation, discussion of on arguments section in "Optimization killers"', 'state': 'closed', 'created_at': '2015-12-29T11:00:19Z', 'closed_at': '2016-02-12T01:25:23Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 932, 'title': "Promise.promisifyAll(require('fs')) node 4.2.3 not working", 'state': 'closed', 'created_at': '2015-12-23T12:07:30Z', 'closed_at': '2015-12-23T12:21:09Z', 'labels': []}
+{'issuenumber': 931, 'title': 'Going from .settle() to .reflect', 'state': 'closed', 'created_at': '2015-12-22T04:31:39Z', 'closed_at': '2015-12-22T13:47:50Z', 'labels': []}
+{'issuenumber': 930, 'title': 'Not loading via Webpack but CDN works fine', 'state': 'closed', 'created_at': '2015-12-22T03:51:49Z', 'closed_at': '2015-12-22T03:55:09Z', 'labels': []}
+{'issuenumber': 928, 'title': 'Warning running server', 'state': 'closed', 'created_at': '2015-12-18T22:34:37Z', 'closed_at': '2016-01-03T14:40:33Z', 'labels': []}
+{'issuenumber': 927, 'title': 'Promise.coroutine should respect the arity of the generator function being wrapped?', 'state': 'closed', 'created_at': '2015-12-18T17:33:03Z', 'closed_at': '2016-01-23T22:19:17Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 926, 'title': 'Cancellation does not clear timeout', 'state': 'closed', 'created_at': '2015-12-18T11:23:48Z', 'closed_at': '2016-01-23T22:18:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 925, 'title': '.join and chained promises', 'state': 'closed', 'created_at': '2015-12-18T02:09:35Z', 'closed_at': '2015-12-18T02:14:17Z', 'labels': []}
+{'issuenumber': 923, 'title': 'Feature request: add optional pending promises number limitation', 'state': 'closed', 'created_at': '2015-12-17T15:50:47Z', 'closed_at': '2015-12-17T16:09:26Z', 'labels': []}
+{'issuenumber': 921, 'title': 'npm install fails on 3.1.1', 'state': 'closed', 'created_at': '2015-12-17T08:17:17Z', 'closed_at': '2015-12-17T08:19:39Z', 'labels': []}
+{'issuenumber': 920, 'title': 'allow for increased granularity in warning control', 'state': 'closed', 'created_at': '2015-12-16T14:43:50Z', 'closed_at': '2015-12-16T20:32:02Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 919, 'title': 'What is Promise.pending()?', 'state': 'closed', 'created_at': '2015-12-16T11:39:06Z', 'closed_at': '2015-12-16T11:52:27Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 918, 'title': 'Feature request: add optional promise chain length limitation ', 'state': 'closed', 'created_at': '2015-12-15T19:04:59Z', 'closed_at': '2016-02-12T01:22:09Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 917, 'title': 'Feature request: add configurable option to workaround promises slowdown in inactive tab', 'state': 'closed', 'created_at': '2015-12-15T18:55:24Z', 'closed_at': '2015-12-15T20:02:15Z', 'labels': []}
+{'issuenumber': 916, 'title': 'Feature request: add automatic test for performance regression to CI', 'state': 'closed', 'created_at': '2015-12-15T16:02:08Z', 'closed_at': '2016-02-12T01:30:00Z', 'labels': {'name': '3.0.0'}}
+{'issuenumber': 915, 'title': 'setTimeout is used as scheduler in latest Chrome', 'state': 'closed', 'created_at': '2015-12-15T15:51:34Z', 'closed_at': '2015-12-16T20:32:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 913, 'title': 'Alternative scheduler method', 'state': 'closed', 'created_at': '2015-12-15T12:18:57Z', 'closed_at': '2015-12-15T12:53:30Z', 'labels': []}
+{'issuenumber': 912, 'title': 'How to catch the exception and throw another exception without enter the catch below?', 'state': 'closed', 'created_at': '2015-12-15T00:33:57Z', 'closed_at': '2015-12-15T00:48:35Z', 'labels': []}
+{'issuenumber': 911, 'title': 'expecting an array or an iterable object but got [object Null] with Mongoose 4.3.1', 'state': 'closed', 'created_at': '2015-12-14T08:46:31Z', 'closed_at': '2015-12-18T10:09:50Z', 'labels': {'name': 'pending-author-input'}}
+{'issuenumber': 910, 'title': 'Wiki: updated error message for Error: expecting an array...', 'state': 'closed', 'created_at': '2015-12-13T05:46:41Z', 'closed_at': '2016-02-03T12:26:13Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 908, 'title': 'docs: possible missing anti-pattern?', 'state': 'closed', 'created_at': '2015-12-10T01:58:30Z', 'closed_at': '2015-12-12T10:22:07Z', 'labels': []}
+{'issuenumber': 906, 'title': 'bluebird 3 made testing much more complicated', 'state': 'closed', 'created_at': '2015-12-08T16:49:08Z', 'closed_at': '2015-12-09T11:45:07Z', 'labels': []}
+{'issuenumber': 905, 'title': 'Unable to cause Promise to fail via Promise.reject() in 3.0', 'state': 'closed', 'created_at': '2015-12-08T00:00:22Z', 'closed_at': '2015-12-08T00:16:03Z', 'labels': []}
+{'issuenumber': 903, 'title': 'async/await Warning: a promise was created in a handler but was not returned from it', 'state': 'closed', 'created_at': '2015-12-05T02:26:02Z', 'closed_at': '2015-12-16T11:36:43Z', 'labels': []}
+{'issuenumber': 899, 'title': 'eval after return in toFastProperties', 'state': 'closed', 'created_at': '2015-12-01T14:40:31Z', 'closed_at': '2015-12-01T14:45:13Z', 'labels': []}
+{'issuenumber': 897, 'title': 'Bluebird 3.x performance in webpack', 'state': 'closed', 'created_at': '2015-12-01T12:53:18Z', 'closed_at': '2015-12-01T16:50:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 896, 'title': 'react native rejections handling', 'state': 'closed', 'created_at': '2015-12-01T03:12:13Z', 'closed_at': '2016-01-10T00:10:57Z', 'labels': {'name': 'question'}}
+{'issuenumber': 894, 'title': 'Managing arguments need explanation on arguments use in es2015', 'state': 'closed', 'created_at': '2015-11-29T13:50:19Z', 'closed_at': '2015-11-29T17:06:34Z', 'labels': []}
+{'issuenumber': 891, 'title': "promise.timeout() doesn't cancel the original promise after the timeout", 'state': 'closed', 'created_at': '2015-11-25T18:36:48Z', 'closed_at': '2015-12-01T16:53:26Z', 'labels': []}
+{'issuenumber': 890, 'title': 'Feature Request : waitFor', 'state': 'closed', 'created_at': '2015-11-25T17:11:28Z', 'closed_at': '2016-02-12T01:24:24Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 888, 'title': 'Promise.longStackTraces missing from documentation index', 'state': 'closed', 'created_at': '2015-11-24T18:21:30Z', 'closed_at': '2015-11-29T15:05:23Z', 'labels': []}
+{'issuenumber': 886, 'title': 'Travis Fix', 'state': 'closed', 'created_at': '2015-11-23T18:22:00Z', 'closed_at': '2015-11-23T18:53:03Z', 'labels': []}
+{'issuenumber': 880, 'title': 'spurious Unhandled rejection warning?', 'state': 'closed', 'created_at': '2015-11-20T19:29:06Z', 'closed_at': '2015-11-20T19:45:14Z', 'labels': []}
+{'issuenumber': 879, 'title': 'Arguments against `.done()`?', 'state': 'closed', 'created_at': '2015-11-20T18:26:26Z', 'closed_at': '2015-11-20T19:07:14Z', 'labels': []}
+{'issuenumber': 878, 'title': "Interfaces for `.promisify` and `.fromCallback` don't match", 'state': 'closed', 'created_at': '2015-11-20T05:07:24Z', 'closed_at': '2015-11-20T17:06:13Z', 'labels': []}
+{'issuenumber': 877, 'title': 'NODE CRASHING BUG => SyntaxError: Unexpected token ILLEGAL', 'state': 'closed', 'created_at': '2015-11-18T20:30:02Z', 'closed_at': '2015-11-19T08:44:05Z', 'labels': []}
+{'issuenumber': 876, 'title': 'Deprecation warnings would be nice', 'state': 'closed', 'created_at': '2015-11-18T18:48:10Z', 'closed_at': '2015-11-18T18:51:47Z', 'labels': []}
+{'issuenumber': 874, 'title': 'Documentation issue: Promise.using', 'state': 'closed', 'created_at': '2015-11-18T08:43:54Z', 'closed_at': '2015-12-20T15:06:43Z', 'labels': {'name': 'pull-request-welcome'}}
+{'issuenumber': 871, 'title': 'Confusing warning', 'state': 'closed', 'created_at': '2015-11-16T15:06:41Z', 'closed_at': '2015-11-18T08:46:31Z', 'labels': []}
+{'issuenumber': 870, 'title': 'Possible typo in generators.js', 'state': 'closed', 'created_at': '2015-11-14T17:04:31Z', 'closed_at': '2015-12-16T20:32:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 866, 'title': 'Load bluebird library on docs site', 'state': 'closed', 'created_at': '2015-11-11T19:31:04Z', 'closed_at': '2015-11-11T21:45:35Z', 'labels': []}
+{'issuenumber': 865, 'title': 'Question about turning on cancellation', 'state': 'closed', 'created_at': '2015-11-11T16:12:30Z', 'closed_at': '2015-11-12T11:20:23Z', 'labels': []}
+{'issuenumber': 864, 'title': 'Global variable name', 'state': 'closed', 'created_at': '2015-11-11T02:26:31Z', 'closed_at': '2015-11-11T02:52:32Z', 'labels': []}
+{'issuenumber': 863, 'title': 'Promise.all resolves all values as undefined', 'state': 'closed', 'created_at': '2015-11-10T15:05:20Z', 'closed_at': '2015-11-10T15:16:47Z', 'labels': []}
+{'issuenumber': 862, 'title': 'unhandledrejection not fired after promise.bind()', 'state': 'closed', 'created_at': '2015-11-10T05:44:41Z', 'closed_at': '2015-11-10T08:09:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 861, 'title': 'New warnings should indicate origin', 'state': 'closed', 'created_at': '2015-11-09T17:19:25Z', 'closed_at': '2015-12-01T16:57:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 859, 'title': 'IE 10: Object "P" is undefined', 'state': 'closed', 'created_at': '2015-11-09T15:00:18Z', 'closed_at': '2015-11-11T11:23:57Z', 'labels': []}
+{'issuenumber': 857, 'title': 'Performance Tests', 'state': 'closed', 'created_at': '2015-11-08T22:23:09Z', 'closed_at': '2015-11-11T11:23:19Z', 'labels': []}
+{'issuenumber': 856, 'title': 'nested rejects', 'state': 'closed', 'created_at': '2015-11-08T15:24:14Z', 'closed_at': '2015-11-08T15:33:43Z', 'labels': []}
+{'issuenumber': 855, 'title': 'Bluebird on SlimerJS and PhantomJS, rejected with a non-error: [object Error]', 'state': 'closed', 'created_at': '2015-11-08T06:04:52Z', 'closed_at': '2015-12-15T20:26:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 854, 'title': 'fetch() showing "a promise was created in a  handler but was not returned from it" warning', 'state': 'closed', 'created_at': '2015-11-08T05:48:28Z', 'closed_at': '2015-11-09T16:11:08Z', 'labels': []}
+{'issuenumber': 853, 'title': 'Add flatMap (also known as concatMap, mapcat, mapcons, ...)', 'state': 'closed', 'created_at': '2015-11-07T13:14:19Z', 'closed_at': '2016-02-12T00:01:20Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 851, 'title': 'Promise._async._normalQueue seems full of undefined entries', 'state': 'closed', 'created_at': '2015-11-05T19:32:11Z', 'closed_at': '2015-11-08T16:00:57Z', 'labels': []}
+{'issuenumber': 850, 'title': 'return value of promisified function is ignored', 'state': 'closed', 'created_at': '2015-11-05T10:59:39Z', 'closed_at': '2015-11-05T11:11:59Z', 'labels': []}
+{'issuenumber': 848, 'title': 'Update deoptimization tests', 'state': 'closed', 'created_at': '2015-11-04T20:08:54Z', 'closed_at': '2015-11-08T15:59:21Z', 'labels': []}
+{'issuenumber': 847, 'title': '.map with concurrency: 1 does not respect element order', 'state': 'closed', 'created_at': '2015-11-04T16:46:47Z', 'closed_at': '2015-11-04T17:21:38Z', 'labels': []}
+{'issuenumber': 846, 'title': 'No stacktrace for "a promise was created in a  handler but was not returned from it"', 'state': 'closed', 'created_at': '2015-11-03T15:23:30Z', 'closed_at': '2015-12-16T20:32:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 845, 'title': 'Documentation issue: Progression migration', 'state': 'closed', 'created_at': '2015-11-03T14:07:32Z', 'closed_at': '2015-11-03T15:23:45Z', 'labels': []}
+{'issuenumber': 844, 'title': 'Documentation issue: longStackTraces', 'state': 'closed', 'created_at': '2015-11-03T13:08:00Z', 'closed_at': '2015-11-03T19:48:07Z', 'labels': []}
+{'issuenumber': 843, 'title': 'Documentation issue: onPossiblyUnhandledRejection', 'state': 'closed', 'created_at': '2015-11-03T13:04:54Z', 'closed_at': '2015-11-11T11:31:05Z', 'labels': {'name': 'pull-request-welcome'}}
+{'issuenumber': 841, 'title': 'Binding promises breaks unhandled rejection reporting', 'state': 'closed', 'created_at': '2015-11-02T16:54:43Z', 'closed_at': '2015-12-16T20:32:02Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 840, 'title': 'Best practice for exposing promisifyable methods', 'state': 'closed', 'created_at': '2015-10-31T20:56:40Z', 'closed_at': '2015-10-31T22:36:06Z', 'labels': []}
+{'issuenumber': 839, 'title': 'using functions that pass multiple arguments to callbacks without changing promisification', 'state': 'closed', 'created_at': '2015-10-31T19:13:45Z', 'closed_at': '2015-10-31T23:58:20Z', 'labels': []}
+{'issuenumber': 838, 'title': 'long stack traces assumption', 'state': 'closed', 'created_at': '2015-10-30T16:20:01Z', 'closed_at': '2015-11-04T11:37:57Z', 'labels': []}
+{'issuenumber': 836, 'title': 'A documentation in chinese version?', 'state': 'closed', 'created_at': '2015-10-30T03:03:41Z', 'closed_at': '2015-11-08T16:01:06Z', 'labels': {'name': '2.0'}}
+{'issuenumber': 835, 'title': 'Promise.promisify(functionReturningAPromise) returns a function which will not resolve', 'state': 'closed', 'created_at': '2015-10-29T21:50:30Z', 'closed_at': '2015-10-29T21:56:24Z', 'labels': []}
+{'issuenumber': 834, 'title': 'Promise.pending missing from API docs', 'state': 'closed', 'created_at': '2015-10-29T12:58:24Z', 'closed_at': '2015-10-29T13:04:52Z', 'labels': []}
+{'issuenumber': 833, 'title': '.then() not called on some object type?', 'state': 'closed', 'created_at': '2015-10-29T08:10:57Z', 'closed_at': '2015-10-29T09:42:15Z', 'labels': []}
+{'issuenumber': 832, 'title': 'New warnings in 3.0', 'state': 'closed', 'created_at': '2015-10-29T06:36:50Z', 'closed_at': '2015-12-16T12:30:40Z', 'labels': []}
+{'issuenumber': 831, 'title': 'Broken link', 'state': 'closed', 'created_at': '2015-10-29T06:03:54Z', 'closed_at': '2015-10-29T07:42:04Z', 'labels': []}
+{'issuenumber': 829, 'title': 'Cannot resolve(value).timeout(ms);', 'state': 'closed', 'created_at': '2015-10-28T22:07:37Z', 'closed_at': '2015-10-29T06:20:01Z', 'labels': []}
+{'issuenumber': 828, 'title': 'Remove check for getters in promisifyAll', 'state': 'closed', 'created_at': '2015-10-28T14:35:07Z', 'closed_at': '2015-10-28T15:00:03Z', 'labels': []}
+{'issuenumber': 827, 'title': 'promisifyAll in 3.0', 'state': 'closed', 'created_at': '2015-10-28T10:33:51Z', 'closed_at': '2015-10-28T11:35:37Z', 'labels': {'name': 'pull-request-welcome'}}
+{'issuenumber': 826, 'title': 'Unhandled rejection TypeError: expecting an array or an iterable object but got [object Null]', 'state': 'closed', 'created_at': '2015-10-28T04:44:23Z', 'closed_at': '2015-10-28T04:54:27Z', 'labels': []}
+{'issuenumber': 821, 'title': 'New .each behaviour and implicit returns', 'state': 'closed', 'created_at': '2015-10-27T20:34:17Z', 'closed_at': '2015-10-28T02:23:28Z', 'labels': []}
+{'issuenumber': 820, 'title': 'Add `Bluebird.on()` for promisifying an event emitter', 'state': 'closed', 'created_at': '2015-10-27T19:27:10Z', 'closed_at': '2015-10-28T09:32:49Z', 'labels': []}
+{'issuenumber': 818, 'title': 'Broken link in changelog', 'state': 'closed', 'created_at': '2015-10-27T18:55:21Z', 'closed_at': '2015-10-28T02:56:57Z', 'labels': []}
+{'issuenumber': 817, 'title': '.spread with redirect?', 'state': 'closed', 'created_at': '2015-10-27T04:33:53Z', 'closed_at': '2015-10-27T04:54:45Z', 'labels': []}
+{'issuenumber': 814, 'title': 'Invalid anti-pattern premise', 'state': 'closed', 'created_at': '2015-10-24T13:19:45Z', 'closed_at': '2015-10-24T15:07:07Z', 'labels': []}
+{'issuenumber': 813, 'title': "fs.stat isn't promisifed correctly", 'state': 'closed', 'created_at': '2015-10-22T19:45:38Z', 'closed_at': '2015-10-22T21:59:01Z', 'labels': []}
+{'issuenumber': 812, 'title': 'lazy promises', 'state': 'closed', 'created_at': '2015-10-21T20:56:15Z', 'closed_at': '2015-10-27T15:29:58Z', 'labels': []}
+{'issuenumber': 811, 'title': 'Access original value from promisified method.', 'state': 'closed', 'created_at': '2015-10-19T19:30:43Z', 'closed_at': '2015-10-27T15:30:41Z', 'labels': []}
+{'issuenumber': 810, 'title': 'Can an array of promises be modified while iterating?', 'state': 'closed', 'created_at': '2015-10-18T18:38:26Z', 'closed_at': '2015-10-19T15:50:37Z', 'labels': []}
+{'issuenumber': 808, 'title': 'Unhandled rejection using coroutines', 'state': 'closed', 'created_at': '2015-10-16T19:27:40Z', 'closed_at': '2015-10-27T15:27:34Z', 'labels': []}
+{'issuenumber': 807, 'title': 'smarter return values for Bluebird.promisify', 'state': 'closed', 'created_at': '2015-10-14T20:34:33Z', 'closed_at': '2015-10-19T19:20:29Z', 'labels': []}
+{'issuenumber': 806, 'title': 'Mutation of rejected argument in onPossiblyUnhandledRejection', 'state': 'closed', 'created_at': '2015-10-14T18:24:08Z', 'closed_at': '2015-10-27T00:21:45Z', 'labels': []}
+{'issuenumber': 805, 'title': 'Can’t use promisifyAll on AWS Lambda', 'state': 'closed', 'created_at': '2015-10-13T22:13:36Z', 'closed_at': '2015-10-14T19:51:22Z', 'labels': []}
+{'issuenumber': 804, 'title': 'Best pattern for "interval with timeout" with bluebird', 'state': 'closed', 'created_at': '2015-10-12T23:18:20Z', 'closed_at': '2015-10-19T19:21:36Z', 'labels': []}
+{'issuenumber': 802, 'title': 'Merging custom stack into a bluebird error', 'state': 'closed', 'created_at': '2015-10-10T12:24:14Z', 'closed_at': '2015-10-19T19:21:51Z', 'labels': []}
+{'issuenumber': 801, 'title': 'spurious CancellationError', 'state': 'closed', 'created_at': '2015-10-08T17:17:17Z', 'closed_at': '2015-11-03T15:58:08Z', 'labels': []}
+{'issuenumber': 800, 'title': 'Cancelling promises', 'state': 'closed', 'created_at': '2015-10-08T14:58:21Z', 'closed_at': '2015-10-27T15:27:54Z', 'labels': []}
+{'issuenumber': 799, 'title': 'Bluebirdjs.com Index Page 404', 'state': 'closed', 'created_at': '2015-10-07T16:51:09Z', 'closed_at': '2015-10-07T18:40:04Z', 'labels': []}
+{'issuenumber': 798, 'title': 'Catch should catch all types', 'state': 'closed', 'created_at': '2015-10-07T16:28:22Z', 'closed_at': '2015-10-07T16:30:29Z', 'labels': []}
+{'issuenumber': 797, 'title': 'Support .then().all().then()', 'state': 'closed', 'created_at': '2015-10-07T01:23:36Z', 'closed_at': '2015-10-07T09:35:56Z', 'labels': []}
+{'issuenumber': 796, 'title': 'cancel() with force parameter!', 'state': 'closed', 'created_at': '2015-10-06T11:51:34Z', 'closed_at': '2015-10-06T12:01:47Z', 'labels': []}
+{'issuenumber': 795, 'title': 'bluebird breaks on node 4.0', 'state': 'closed', 'created_at': '2015-10-06T07:04:38Z', 'closed_at': '2015-10-06T07:23:53Z', 'labels': []}
+{'issuenumber': 794, 'title': 'Implicit Promise.all behaviour', 'state': 'closed', 'created_at': '2015-10-06T01:38:57Z', 'closed_at': '2015-10-06T12:02:29Z', 'labels': []}
+{'issuenumber': 793, 'title': 'Mongoose Map/Reduce simple example', 'state': 'closed', 'created_at': '2015-10-05T12:51:16Z', 'closed_at': '2015-10-27T15:28:43Z', 'labels': []}
+{'issuenumber': 791, 'title': 'Bind upper context inside Promise then()', 'state': 'closed', 'created_at': '2015-10-04T12:11:22Z', 'closed_at': '2015-10-04T12:46:00Z', 'labels': {'name': '2.0'}}
+{'issuenumber': 790, 'title': 'each() docs incorrect?', 'state': 'closed', 'created_at': '2015-10-04T05:48:03Z', 'closed_at': '2015-10-04T23:17:36Z', 'labels': []}
+{'issuenumber': 789, 'title': 'Documentation is inconsistent on Promise.all', 'state': 'closed', 'created_at': '2015-10-01T07:26:03Z', 'closed_at': '2015-10-01T07:48:44Z', 'labels': []}
+{'issuenumber': 788, 'title': 'Combine map() + each()', 'state': 'closed', 'created_at': '2015-09-30T20:30:54Z', 'closed_at': '2015-09-30T20:43:24Z', 'labels': []}
+{'issuenumber': 786, 'title': 'Mandatory .then()', 'state': 'closed', 'created_at': '2015-09-29T09:44:14Z', 'closed_at': '2015-09-29T09:46:13Z', 'labels': []}
+{'issuenumber': 785, 'title': 'Catching errors based on Error.name', 'state': 'closed', 'created_at': '2015-09-29T01:24:31Z', 'closed_at': '2015-09-29T06:22:48Z', 'labels': []}
+{'issuenumber': 784, 'title': 'Benchmarks', 'state': 'closed', 'created_at': '2015-09-26T22:51:37Z', 'closed_at': '2015-09-29T23:53:54Z', 'labels': []}
+{'issuenumber': 783, 'title': 'Promise.map and co throws TypeError: fn should be a function', 'state': 'closed', 'created_at': '2015-09-26T20:12:27Z', 'closed_at': '2015-09-26T23:39:30Z', 'labels': []}
+{'issuenumber': 782, 'title': 'Possibilty to accept Generator function instead of static Arrays', 'state': 'closed', 'created_at': '2015-09-24T21:47:09Z', 'closed_at': '2015-09-29T08:21:05Z', 'labels': []}
+{'issuenumber': 781, 'title': 'Promise.join: Possibly unhandled Error', 'state': 'closed', 'created_at': '2015-09-24T13:07:27Z', 'closed_at': '2015-10-01T13:47:25Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 776, 'title': 'Connections are available, but new connect operation hangs', 'state': 'closed', 'created_at': '2015-09-23T08:00:15Z', 'closed_at': '2015-09-23T12:46:32Z', 'labels': []}
+{'issuenumber': 775, 'title': "Can't get promisify working with a basic example", 'state': 'closed', 'created_at': '2015-09-22T22:58:35Z', 'closed_at': '2015-09-23T18:36:28Z', 'labels': []}
+{'issuenumber': 774, 'title': 'Home page broken', 'state': 'closed', 'created_at': '2015-09-22T09:02:19Z', 'closed_at': '2015-09-22T09:17:28Z', 'labels': []}
+{'issuenumber': 773, 'title': 'Using mongoose with bluebird, I get unhandled rejections', 'state': 'closed', 'created_at': '2015-09-21T04:05:29Z', 'closed_at': '2015-09-22T22:39:22Z', 'labels': {'name': 'pending-author-input'}}
+{'issuenumber': 770, 'title': 'Editing wiki without PR?', 'state': 'closed', 'created_at': '2015-09-18T13:39:36Z', 'closed_at': '2015-09-18T14:35:39Z', 'labels': []}
+{'issuenumber': 767, 'title': 'Nested .get()', 'state': 'closed', 'created_at': '2015-09-17T20:40:35Z', 'closed_at': '2015-12-16T11:53:48Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 766, 'title': 'Expose subError to make it easy to create new Error types', 'state': 'closed', 'created_at': '2015-09-16T16:41:05Z', 'closed_at': '2015-10-27T15:34:29Z', 'labels': []}
+{'issuenumber': 765, 'title': 'Doc page "What About Generators?"', 'state': 'closed', 'created_at': '2015-09-13T19:07:03Z', 'closed_at': '2015-09-14T14:02:39Z', 'labels': {'name': 'question'}}
+{'issuenumber': 764, 'title': "Jake and Bluebird don't play well together? ", 'state': 'closed', 'created_at': '2015-09-12T20:37:59Z', 'closed_at': '2015-09-12T20:53:00Z', 'labels': []}
+{'issuenumber': 762, 'title': 'Timeout error custom error object?', 'state': 'closed', 'created_at': '2015-09-12T12:20:01Z', 'closed_at': '2015-10-01T20:39:36Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 761, 'title': 'Unhelpful error message "Error: [object Object]"', 'state': 'closed', 'created_at': '2015-09-11T17:15:45Z', 'closed_at': '2015-09-16T14:00:15Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 760, 'title': 'bluebird promisify not working with node-bcrypt compare (does with hash)', 'state': 'closed', 'created_at': '2015-09-10T21:59:31Z', 'closed_at': '2015-09-11T12:31:40Z', 'labels': []}
+{'issuenumber': 759, 'title': 'callback undefined', 'state': 'closed', 'created_at': '2015-09-10T11:04:24Z', 'closed_at': '2015-09-10T13:54:36Z', 'labels': []}
+{'issuenumber': 758, 'title': "Passing object to catch as written in documentation doesn't work", 'state': 'closed', 'created_at': '2015-09-09T19:47:33Z', 'closed_at': '2015-09-10T08:48:30Z', 'labels': []}
+{'issuenumber': 757, 'title': 'None of the links for CDN hosted builds seem to work', 'state': 'closed', 'created_at': '2015-09-09T08:09:06Z', 'closed_at': '2016-02-12T01:24:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 755, 'title': 'Please include support for a way to .tap only errors', 'state': 'closed', 'created_at': '2015-09-04T19:43:06Z', 'closed_at': '2015-09-04T20:40:22Z', 'labels': []}
+{'issuenumber': 754, 'title': 'promisify child_process.spawn()', 'state': 'closed', 'created_at': '2015-09-04T07:12:53Z', 'closed_at': '2015-09-04T11:30:23Z', 'labels': []}
+{'issuenumber': 753, 'title': 'Minor documentation glitch', 'state': 'closed', 'created_at': '2015-09-03T08:32:22Z', 'closed_at': '2015-09-08T22:00:31Z', 'labels': []}
+{'issuenumber': 752, 'title': "express next function doesn't work", 'state': 'closed', 'created_at': '2015-08-30T19:08:42Z', 'closed_at': '2015-08-30T19:38:20Z', 'labels': []}
+{'issuenumber': 751, 'title': 'Unhandled rejection with .join', 'state': 'closed', 'created_at': '2015-08-28T01:53:25Z', 'closed_at': '2015-08-31T15:06:55Z', 'labels': []}
+{'issuenumber': 750, 'title': 'API to get long stack trace in a promise', 'state': 'closed', 'created_at': '2015-08-27T13:10:49Z', 'closed_at': '2015-08-27T13:25:43Z', 'labels': []}
+{'issuenumber': 749, 'title': "Limit to chains of then's.", 'state': 'closed', 'created_at': '2015-08-27T01:51:07Z', 'closed_at': '2015-08-27T02:06:47Z', 'labels': []}
+{'issuenumber': 748, 'title': 'Bluebird promises are catching exceptions for me', 'state': 'closed', 'created_at': '2015-08-26T23:50:24Z', 'closed_at': '2015-08-27T01:31:47Z', 'labels': []}
+{'issuenumber': 747, 'title': 'Possible bug in Promise.settle()', 'state': 'closed', 'created_at': '2015-08-26T21:17:53Z', 'closed_at': '2015-08-26T21:18:48Z', 'labels': []}
+{'issuenumber': 745, 'title': 'Question: How do I structure these recursive calls with promises in bluebird?', 'state': 'closed', 'created_at': '2015-08-25T17:44:17Z', 'closed_at': '2015-08-26T06:17:22Z', 'labels': []}
+{'issuenumber': 744, 'title': 'Issues are being mistakenly closed', 'state': 'closed', 'created_at': '2015-08-24T18:37:56Z', 'closed_at': '2015-08-24T18:38:50Z', 'labels': []}
+{'issuenumber': 742, 'title': 'Inner promise chain not being cancelled', 'state': 'closed', 'created_at': '2015-08-24T18:21:19Z', 'closed_at': '2015-08-24T18:35:23Z', 'labels': []}
+{'issuenumber': 741, 'title': 'Inner promise chain not being cancelled', 'state': 'closed', 'created_at': '2015-08-24T18:07:35Z', 'closed_at': '2015-08-24T18:35:38Z', 'labels': []}
+{'issuenumber': 740, 'title': "Cannot promisify an API that has normal methods with 'Async'-suffix", 'state': 'closed', 'created_at': '2015-08-24T16:31:04Z', 'closed_at': '2015-08-25T07:50:44Z', 'labels': []}
+{'issuenumber': 739, 'title': 'Any way of forcing the resolution of all promises before executing an error handler?', 'state': 'closed', 'created_at': '2015-08-24T06:58:17Z', 'closed_at': '2015-08-24T08:34:21Z', 'labels': []}
+{'issuenumber': 738, 'title': 'Inconsistent propagation of promise.bind()', 'state': 'closed', 'created_at': '2015-08-24T03:03:03Z', 'closed_at': '2015-09-08T23:57:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 737, 'title': 'Cancellation question', 'state': 'closed', 'created_at': '2015-08-23T17:04:24Z', 'closed_at': '2015-08-23T18:40:13Z', 'labels': []}
+{'issuenumber': 736, 'title': 'Document static/instance collection methods more clearly', 'state': 'closed', 'created_at': '2015-08-22T21:57:20Z', 'closed_at': '2015-10-27T15:38:21Z', 'labels': {'name': '3.0.0'}}
+{'issuenumber': 735, 'title': 'Create custom coroutine', 'state': 'closed', 'created_at': '2015-08-22T06:05:42Z', 'closed_at': '2015-08-22T09:48:25Z', 'labels': []}
+{'issuenumber': 734, 'title': 'Promise.for', 'state': 'closed', 'created_at': '2015-08-21T16:51:48Z', 'closed_at': '2015-09-08T22:08:42Z', 'labels': []}
+{'issuenumber': 733, 'title': 'Array version of Bluebird.using', 'state': 'closed', 'created_at': '2015-08-21T02:06:44Z', 'closed_at': '2015-09-08T23:57:38Z', 'labels': {'name': '3.0.0'}}
+{'issuenumber': 732, 'title': 'promise.tap seems to be broken in latest 3.0', 'state': 'closed', 'created_at': '2015-08-19T13:18:35Z', 'closed_at': '2015-09-08T22:19:25Z', 'labels': []}
+{'issuenumber': 731, 'title': 'Race with filter', 'state': 'closed', 'created_at': '2015-08-18T15:19:49Z', 'closed_at': '2016-01-05T15:04:29Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 730, 'title': 'Add do-notation', 'state': 'closed', 'created_at': '2015-08-18T11:11:04Z', 'closed_at': '2015-09-08T22:31:41Z', 'labels': []}
+{'issuenumber': 729, 'title': "It seems that `error` doesn't handle error properly", 'state': 'closed', 'created_at': '2015-08-15T16:42:06Z', 'closed_at': '2015-08-15T18:54:47Z', 'labels': []}
+{'issuenumber': 728, 'title': 'Promise.resolve(*weird promise thing*) crashes the Chrome tab', 'state': 'closed', 'created_at': '2015-08-15T10:31:23Z', 'closed_at': '2015-08-15T11:03:01Z', 'labels': []}
+{'issuenumber': 727, 'title': "spread doesn't seem to work for reject function", 'state': 'closed', 'created_at': '2015-08-15T08:31:15Z', 'closed_at': '2015-08-15T08:52:45Z', 'labels': []}
+{'issuenumber': 724, 'title': 'Release core as an independent artifact', 'state': 'closed', 'created_at': '2015-08-05T22:41:14Z', 'closed_at': '2015-09-08T23:57:38Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 721, 'title': 'Unexpected "Unhandled rejection" with "return" method', 'state': 'closed', 'created_at': '2015-08-05T11:32:10Z', 'closed_at': '2015-09-08T23:57:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 720, 'title': "Wrapper to Join on all function's arguments", 'state': 'closed', 'created_at': '2015-08-04T04:21:17Z', 'closed_at': '2015-11-04T11:41:30Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 719, 'title': "Can't switch off Debug mode", 'state': 'closed', 'created_at': '2015-08-02T19:49:56Z', 'closed_at': '2015-09-08T23:57:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 717, 'title': 'Set different schedulers for different promises', 'state': 'closed', 'created_at': '2015-07-30T13:33:44Z', 'closed_at': '2015-09-08T23:03:11Z', 'labels': []}
+{'issuenumber': 716, 'title': 'self is not defined', 'state': 'closed', 'created_at': '2015-07-30T12:29:21Z', 'closed_at': '2015-12-16T11:54:15Z', 'labels': {'name': 'pending-author-input'}}
+{'issuenumber': 715, 'title': 'Should ES6 global variable "Promise" be changed in examples in the docs?', 'state': 'closed', 'created_at': '2015-07-27T16:41:53Z', 'closed_at': '2015-09-13T09:02:07Z', 'labels': {'name': 'negligible'}}
+{'issuenumber': 714, 'title': 'Issue using lodash\'s "_.partial" on function generated with ".promisifyAll()"', 'state': 'closed', 'created_at': '2015-07-26T16:26:02Z', 'closed_at': '2015-07-26T17:13:16Z', 'labels': []}
+{'issuenumber': 713, 'title': 'Allow promisifyAll filter to be an array.', 'state': 'closed', 'created_at': '2015-07-24T18:19:23Z', 'closed_at': '2015-07-30T13:01:41Z', 'labels': []}
+{'issuenumber': 712, 'title': 'Freezing the API surface area / new method proposal criteria', 'state': 'closed', 'created_at': '2015-07-23T18:40:34Z', 'closed_at': '2016-01-05T15:04:23Z', 'labels': {'name': 'docs'}}
+{'issuenumber': 711, 'title': 'feature: promise that only executes, once a listener (then, catch) is added', 'state': 'closed', 'created_at': '2015-07-23T17:10:45Z', 'closed_at': '2015-07-23T17:25:49Z', 'labels': []}
+{'issuenumber': 710, 'title': "Split a promise's fulfillment to multiple handlers", 'state': 'closed', 'created_at': '2015-07-23T00:15:15Z', 'closed_at': '2015-07-23T11:55:25Z', 'labels': []}
+{'issuenumber': 708, 'title': 'Promise.map concurrency execution order', 'state': 'closed', 'created_at': '2015-07-22T19:48:00Z', 'closed_at': '2015-07-22T20:12:59Z', 'labels': []}
+{'issuenumber': 707, 'title': '3.0.0 Beta?', 'state': 'closed', 'created_at': '2015-07-19T13:10:28Z', 'closed_at': '2015-10-27T14:36:49Z', 'labels': {'name': '3.0.0'}}
+{'issuenumber': 706, 'title': 'Feature request handler for both .catch and .then', 'state': 'closed', 'created_at': '2015-07-18T20:55:00Z', 'closed_at': '2015-07-19T05:37:04Z', 'labels': []}
+{'issuenumber': 705, 'title': "Throwing an error from within the map callback doesn't break chain.", 'state': 'closed', 'created_at': '2015-07-17T19:18:32Z', 'closed_at': '2015-07-17T22:45:23Z', 'labels': []}
+{'issuenumber': 704, 'title': 'promise.props doesnt resolve', 'state': 'closed', 'created_at': '2015-07-16T02:35:47Z', 'closed_at': '2015-07-16T02:56:24Z', 'labels': []}
+{'issuenumber': 703, 'title': 'Add a concurrency option to .settle()', 'state': 'closed', 'created_at': '2015-07-15T09:03:08Z', 'closed_at': '2015-07-15T09:12:02Z', 'labels': []}
+{'issuenumber': 702, 'title': '`Promise.bind` does not bind context for the entire promise chain when `thisArg` is a Promise', 'state': 'closed', 'created_at': '2015-07-14T22:47:15Z', 'closed_at': '2015-07-15T10:45:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 701, 'title': 'domain preserve error since release 2.9.31', 'state': 'closed', 'created_at': '2015-07-14T08:49:57Z', 'closed_at': '2015-07-15T10:45:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 700, 'title': 'Stray html tag in LICENSE file', 'state': 'closed', 'created_at': '2015-07-13T17:24:52Z', 'closed_at': '2015-07-13T17:28:06Z', 'labels': []}
+{'issuenumber': 698, 'title': 'longStackTraces only includes lines starting with "at"', 'state': 'closed', 'created_at': '2015-07-10T00:41:36Z', 'closed_at': '2015-07-10T12:12:28Z', 'labels': []}
+{'issuenumber': 697, 'title': 'How To Open a Bug Report', 'state': 'closed', 'created_at': '2015-07-09T09:40:02Z', 'closed_at': '2015-10-28T11:37:39Z', 'labels': {'name': 'fix-in-progress'}}
+{'issuenumber': 695, 'title': 'bluebird logs out "unhandled rejection error" despite rejection being handled by chai-as-promised', 'state': 'closed', 'created_at': '2015-07-08T19:31:45Z', 'closed_at': '2015-07-10T12:35:06Z', 'labels': {'name': 'pending-author-input'}}
+{'issuenumber': 694, 'title': 'Error in promisifyAll(jsonwebtoken)', 'state': 'closed', 'created_at': '2015-07-08T11:29:34Z', 'closed_at': '2015-07-08T11:40:58Z', 'labels': []}
+{'issuenumber': 693, 'title': 'May we have a Promise.isPromise() static method ?', 'state': 'closed', 'created_at': '2015-07-06T12:08:42Z', 'closed_at': '2015-07-06T12:13:03Z', 'labels': []}
+{'issuenumber': 689, 'title': 'Using .return() causes promise to be resolved as an empty object in 2.9.31', 'state': 'closed', 'created_at': '2015-07-03T13:32:47Z', 'closed_at': '2015-07-03T20:18:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 686, 'title': 'Transaction example and using', 'state': 'closed', 'created_at': '2015-07-02T11:07:40Z', 'closed_at': '2015-07-06T10:50:21Z', 'labels': {'name': 'pull-request-welcome'}}
+{'issuenumber': 685, 'title': 'Proposal: `withResolver` or `newPromise`', 'state': 'closed', 'created_at': '2015-07-02T02:25:55Z', 'closed_at': '2015-07-02T03:19:49Z', 'labels': []}
+{'issuenumber': 684, 'title': 'Design a new logo', 'state': 'closed', 'created_at': '2015-07-01T19:05:11Z', 'closed_at': '2015-09-09T00:02:58Z', 'labels': {'name': 'pending-author-input'}}
+{'issuenumber': 682, 'title': 'bluebird circular promise error while q-promise works', 'state': 'closed', 'created_at': '2015-06-30T21:56:55Z', 'closed_at': '2015-07-03T09:00:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 681, 'title': 'Promise.resolve for functions', 'state': 'closed', 'created_at': '2015-06-29T21:57:53Z', 'closed_at': '2015-06-30T09:19:22Z', 'labels': []}
+{'issuenumber': 680, 'title': "Can't promisifyAll Riak-JS library", 'state': 'closed', 'created_at': '2015-06-29T19:04:56Z', 'closed_at': '2015-07-09T10:38:55Z', 'labels': {'name': '2.0'}}
+{'issuenumber': 678, 'title': 'reopen #502', 'state': 'closed', 'created_at': '2015-06-29T17:15:25Z', 'closed_at': '2015-06-29T18:15:14Z', 'labels': []}
+{'issuenumber': 677, 'title': 'promise.any() throws error on reject', 'state': 'closed', 'created_at': '2015-06-28T11:25:26Z', 'closed_at': '2015-06-28T11:55:49Z', 'labels': []}
+{'issuenumber': 676, 'title': 'Explicit switch-off for the DEV mode.', 'state': 'closed', 'created_at': '2015-06-27T19:24:00Z', 'closed_at': '2015-06-27T22:22:58Z', 'labels': []}
+{'issuenumber': 672, 'title': 'Add a tap equivalent for map() and/or spread()', 'state': 'closed', 'created_at': '2015-06-25T11:28:21Z', 'closed_at': '2015-06-25T11:36:57Z', 'labels': []}
+{'issuenumber': 670, 'title': 'promisifyAll breaks with mongojs 1.0', 'state': 'closed', 'created_at': '2015-06-24T10:55:07Z', 'closed_at': '2015-06-30T08:52:41Z', 'labels': []}
+{'issuenumber': 669, 'title': 'Memory leak on IE 10 & 11', 'state': 'closed', 'created_at': '2015-06-23T21:44:35Z', 'closed_at': '2015-07-04T10:20:17Z', 'labels': {'name': 'pull-request-done'}}
+{'issuenumber': 668, 'title': 'Rejections for non-200 responses with request library', 'state': 'closed', 'created_at': '2015-06-23T18:47:14Z', 'closed_at': '2015-09-09T00:03:35Z', 'labels': {'name': 'pull-request-done'}}
+{'issuenumber': 666, 'title': 'Promise.resolve not resolving because of MutationObserver (iOS, WebApp)', 'state': 'closed', 'created_at': '2015-06-19T21:06:08Z', 'closed_at': '2015-07-03T09:00:11Z', 'labels': {'name': 'pull-request-done'}}
+{'issuenumber': 665, 'title': 'How do you avoid "Possibly unhandled error" exceptions?', 'state': 'closed', 'created_at': '2015-06-19T20:46:07Z', 'closed_at': '2015-06-20T19:20:59Z', 'labels': []}
+{'issuenumber': 663, 'title': "Cancellation can't be controlled finely enough ", 'state': 'closed', 'created_at': '2015-06-17T23:41:35Z', 'closed_at': '2015-06-18T02:52:27Z', 'labels': []}
+{'issuenumber': 662, 'title': 'Separate core and utilities into two different modules', 'state': 'closed', 'created_at': '2015-06-17T22:07:48Z', 'closed_at': '2015-06-18T19:54:04Z', 'labels': []}
+{'issuenumber': 661, 'title': '(node) warning: possible EventEmitter memory leak detected. 11 listeners added', 'state': 'closed', 'created_at': '2015-06-17T04:51:44Z', 'closed_at': '2015-07-03T09:00:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 660, 'title': 'Feature Request : promise.accumulate', 'state': 'closed', 'created_at': '2015-06-16T12:54:05Z', 'closed_at': '2015-06-16T15:29:14Z', 'labels': []}
+{'issuenumber': 659, 'title': '3.0.0 Milestone?', 'state': 'closed', 'created_at': '2015-06-15T23:39:13Z', 'closed_at': '2015-07-01T09:12:54Z', 'labels': []}
+{'issuenumber': 656, 'title': 'Result of promisified mongoose model save method lacks properties', 'state': 'closed', 'created_at': '2015-06-14T23:46:57Z', 'closed_at': '2015-06-15T05:12:06Z', 'labels': []}
+{'issuenumber': 655, 'title': 'Compatibility with ES6 promises', 'state': 'closed', 'created_at': '2015-06-13T19:12:25Z', 'closed_at': '2015-06-14T10:22:29Z', 'labels': []}
+{'issuenumber': 654, 'title': 'Chaining Asynchronous Functions Node.js with mongoskin', 'state': 'closed', 'created_at': '2015-06-13T17:44:56Z', 'closed_at': '2015-06-13T17:46:00Z', 'labels': []}
+{'issuenumber': 653, 'title': 'Memory issue with Promise.map (solved by .delay(0))', 'state': 'closed', 'created_at': '2015-06-12T21:47:08Z', 'closed_at': '2015-06-13T10:31:52Z', 'labels': []}
+{'issuenumber': 652, 'title': 'Promise.chunk', 'state': 'closed', 'created_at': '2015-06-12T17:44:37Z', 'closed_at': '2015-06-12T17:46:25Z', 'labels': []}
+{'issuenumber': 651, 'title': 'any shortcut for forwarding promise resolution to another?', 'state': 'closed', 'created_at': '2015-06-12T17:38:18Z', 'closed_at': '2015-06-12T17:41:48Z', 'labels': []}
+{'issuenumber': 650, 'title': 'interaction between setScheduler, longStackTraces, and async trampoline', 'state': 'closed', 'created_at': '2015-06-12T04:33:23Z', 'closed_at': '2015-06-14T09:38:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 648, 'title': "Question about promisify and Node's child_process.exec and child_process.execFile", 'state': 'closed', 'created_at': '2015-06-10T16:42:20Z', 'closed_at': '2015-06-10T16:43:22Z', 'labels': []}
+{'issuenumber': 646, 'title': 'Node Webkit + Sequelize (SQLite) problem', 'state': 'closed', 'created_at': '2015-06-08T14:51:13Z', 'closed_at': '2015-09-09T00:03:03Z', 'labels': {'name': 'pending-author-input'}}
+{'issuenumber': 645, 'title': 'Unhandled rejection when joining chains with common rejected parent', 'state': 'closed', 'created_at': '2015-06-07T18:02:32Z', 'closed_at': '2015-06-14T09:38:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 643, 'title': '.catch() not call', 'state': 'closed', 'created_at': '2015-06-05T15:09:02Z', 'closed_at': '2015-06-05T15:39:37Z', 'labels': []}
+{'issuenumber': 642, 'title': 'Executing .all in spite of errors', 'state': 'closed', 'created_at': '2015-06-03T09:18:32Z', 'closed_at': '2015-06-03T09:19:53Z', 'labels': []}
+{'issuenumber': 641, 'title': 'Terrible performance with large sequential requests', 'state': 'closed', 'created_at': '2015-06-03T00:41:10Z', 'closed_at': '2015-06-03T07:19:21Z', 'labels': []}
+{'issuenumber': 640, 'title': "Synchronous inspection doesn't work if `then()` is used?", 'state': 'closed', 'created_at': '2015-06-02T09:00:24Z', 'closed_at': '2015-06-02T13:38:58Z', 'labels': []}
+{'issuenumber': 639, 'title': 'Add concurrency option for .each?', 'state': 'closed', 'created_at': '2015-06-01T13:55:12Z', 'closed_at': '2015-06-01T15:19:20Z', 'labels': []}
+{'issuenumber': 637, 'title': 'IO.js 2.2 build/SSL issue for Travis CI', 'state': 'closed', 'created_at': '2015-05-31T12:39:53Z', 'closed_at': '2015-05-31T12:48:59Z', 'labels': []}
+{'issuenumber': 636, 'title': 'IE 10 and IE 11 issues?', 'state': 'closed', 'created_at': '2015-05-31T06:07:34Z', 'closed_at': '2015-05-31T06:41:29Z', 'labels': []}
+{'issuenumber': 635, 'title': 'memory consumption', 'state': 'closed', 'created_at': '2015-05-29T08:41:48Z', 'closed_at': '2015-05-29T17:03:25Z', 'labels': []}
+{'issuenumber': 634, 'title': 'Error Promisifying Library MongoSkin ', 'state': 'closed', 'created_at': '2015-05-28T10:12:17Z', 'closed_at': '2015-05-30T13:09:04Z', 'labels': {'name': 'pending-author-input'}}
+{'issuenumber': 633, 'title': 'Promise.all().catch catches only one rejection (when multiple are thrown)', 'state': 'closed', 'created_at': '2015-05-27T11:34:45Z', 'closed_at': '2015-05-27T12:58:42Z', 'labels': []}
+{'issuenumber': 632, 'title': 'undefined values in internal state', 'state': 'closed', 'created_at': '2015-05-27T05:57:17Z', 'closed_at': '2015-05-27T06:46:47Z', 'labels': []}
+{'issuenumber': 631, 'title': 'Latest version 2.9.26 cause mocha tests that use sinon.useFakeTimers to fail', 'state': 'closed', 'created_at': '2015-05-26T13:53:53Z', 'closed_at': '2015-05-30T08:23:43Z', 'labels': []}
+{'issuenumber': 630, 'title': "`Can't find variable self` when request is failing", 'state': 'closed', 'created_at': '2015-05-25T21:52:10Z', 'closed_at': '2015-05-27T07:00:14Z', 'labels': []}
+{'issuenumber': 629, 'title': 'Promise.join returns an array', 'state': 'closed', 'created_at': '2015-05-25T17:36:44Z', 'closed_at': '2015-05-25T19:08:02Z', 'labels': []}
+{'issuenumber': 628, 'title': 'promise instanceof Promise returns false', 'state': 'closed', 'created_at': '2015-05-24T22:41:27Z', 'closed_at': '2015-05-25T07:57:59Z', 'labels': []}
+{'issuenumber': 627, 'title': 'Promise.bind(value) followed by return(undefined) returns the bound value', 'state': 'closed', 'created_at': '2015-05-24T15:13:00Z', 'closed_at': '2015-05-25T09:00:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 626, 'title': 'Promise keep node process from exit', 'state': 'closed', 'created_at': '2015-05-22T04:22:30Z', 'closed_at': '2015-05-22T07:01:35Z', 'labels': []}
+{'issuenumber': 625, 'title': 'Promise.return -> Function', 'state': 'closed', 'created_at': '2015-05-20T03:48:04Z', 'closed_at': '2015-05-20T08:24:12Z', 'labels': []}
+{'issuenumber': 624, 'title': 'Does not work in SystemJS and nodewebkit from 2.9.15 onwards', 'state': 'closed', 'created_at': '2015-05-19T22:48:09Z', 'closed_at': '2015-06-01T01:26:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 623, 'title': 'Illegal invocation when resolving a promise in nw.js (node-webkit)', 'state': 'closed', 'created_at': '2015-05-19T03:54:09Z', 'closed_at': '2015-05-19T04:20:11Z', 'labels': []}
+{'issuenumber': 621, 'title': 'Why does promisifyAll modify the actual API instead of returning a new version of it?', 'state': 'closed', 'created_at': '2015-05-15T14:17:29Z', 'closed_at': '2015-05-15T14:41:55Z', 'labels': []}
+{'issuenumber': 619, 'title': 'Remove `.spawn`', 'state': 'closed', 'created_at': '2015-05-13T11:05:07Z', 'closed_at': '2015-10-27T14:36:47Z', 'labels': {'name': '3.0.0'}}
+{'issuenumber': 616, 'title': 'Disposers', 'state': 'closed', 'created_at': '2015-05-12T00:25:34Z', 'closed_at': '2015-05-12T05:04:38Z', 'labels': []}
+{'issuenumber': 612, 'title': 'proposal  .thenCatch()', 'state': 'closed', 'created_at': '2015-05-07T01:11:54Z', 'closed_at': '2015-05-07T09:54:40Z', 'labels': []}
+{'issuenumber': 610, 'title': 'Benchmark: unfair advantage to some implementations', 'state': 'closed', 'created_at': '2015-05-05T22:24:34Z', 'closed_at': '2015-05-06T05:24:20Z', 'labels': []}
+{'issuenumber': 609, 'title': 'promise.all ask for callback ?', 'state': 'closed', 'created_at': '2015-05-05T00:18:17Z', 'closed_at': '2015-05-05T05:54:14Z', 'labels': []}
+{'issuenumber': 606, 'title': 'Rejections caught with uncaughtException print to stderr', 'state': 'closed', 'created_at': '2015-04-30T21:51:17Z', 'closed_at': '2015-05-02T07:10:03Z', 'labels': []}
+{'issuenumber': 605, 'title': 'Promisified MongoDB Node driver throwing stack_overflow error on multiple document insert', 'state': 'closed', 'created_at': '2015-04-29T22:11:56Z', 'closed_at': '2015-05-14T18:55:39Z', 'labels': []}
+{'issuenumber': 604, 'title': 'Promise functions run twice, depending on how chaining is performed.', 'state': 'closed', 'created_at': '2015-04-28T22:03:50Z', 'closed_at': '2015-04-29T05:41:35Z', 'labels': []}
+{'issuenumber': 603, 'title': 'align `.catchReturn()`  with `.return()`', 'state': 'closed', 'created_at': '2015-04-28T10:27:32Z', 'closed_at': '2015-05-30T08:45:55Z', 'labels': {'name': '3.0.0'}}
+{'issuenumber': 602, 'title': 'No longer works in Node.js 0.8 in a patch version update', 'state': 'closed', 'created_at': '2015-04-28T04:09:59Z', 'closed_at': '2015-04-28T04:29:42Z', 'labels': []}
+{'issuenumber': 601, 'title': "Function with promises returning before completion using 'then'", 'state': 'closed', 'created_at': '2015-04-27T20:21:01Z', 'closed_at': '2015-04-27T20:58:03Z', 'labels': []}
+{'issuenumber': 600, 'title': 'How to synchronize a sequence of promises?', 'state': 'closed', 'created_at': '2015-04-26T17:24:28Z', 'closed_at': '2015-04-26T17:37:04Z', 'labels': []}
+{'issuenumber': 599, 'title': '`Promise.map(promises, callback, { concurrency: 1 })` does not call `callback` with promises in same order they were passed.', 'state': 'closed', 'created_at': '2015-04-26T17:02:23Z', 'closed_at': '2015-04-26T17:03:09Z', 'labels': []}
+{'issuenumber': 598, 'title': 'Strange performance issue when decalre a function inside the executor', 'state': 'closed', 'created_at': '2015-04-26T06:14:36Z', 'closed_at': '2015-04-26T12:42:57Z', 'labels': []}
+{'issuenumber': 597, 'title': 'Concurrent version of each', 'state': 'closed', 'created_at': '2015-04-25T20:42:04Z', 'closed_at': '2015-04-25T20:43:14Z', 'labels': []}
+{'issuenumber': 595, 'title': 'Global override of concurrency', 'state': 'closed', 'created_at': '2015-04-23T10:25:18Z', 'closed_at': '2015-04-23T22:42:12Z', 'labels': []}
+{'issuenumber': 594, 'title': '`nodeify()` does not always wait for promise fulfilment/rejection', 'state': 'closed', 'created_at': '2015-04-21T15:14:18Z', 'closed_at': '2015-04-22T04:18:34Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 592, 'title': 'Equivalent of async.series / async.each?', 'state': 'closed', 'created_at': '2015-04-19T01:58:15Z', 'closed_at': '2015-04-19T11:00:43Z', 'labels': []}
+{'issuenumber': 591, 'title': 'Use nextTick?', 'state': 'closed', 'created_at': '2015-04-18T00:10:05Z', 'closed_at': '2015-04-26T17:04:38Z', 'labels': []}
+{'issuenumber': 590, 'title': "Can't find Promise.cast() method in this DOCs", 'state': 'closed', 'created_at': '2015-04-17T11:56:21Z', 'closed_at': '2015-04-17T12:26:12Z', 'labels': []}
+{'issuenumber': 589, 'title': 'tap analog for catch', 'state': 'closed', 'created_at': '2015-04-16T14:15:36Z', 'closed_at': '2015-04-17T12:27:18Z', 'labels': []}
+{'issuenumber': 588, 'title': 'Promise.invert for turning rejections into fulfilments and vice-versa', 'state': 'closed', 'created_at': '2015-04-16T10:21:22Z', 'closed_at': '2015-04-18T19:11:50Z', 'labels': []}
+{'issuenumber': 587, 'title': 'Browser build stopped working on node since v2.9.24', 'state': 'closed', 'created_at': '2015-04-16T08:10:02Z', 'closed_at': '2015-04-16T15:14:56Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 586, 'title': 'Optimize reduce pipelining', 'state': 'closed', 'created_at': '2015-04-15T23:51:46Z', 'closed_at': '2015-06-11T16:25:45Z', 'labels': {'name': 'pending-author-input'}}
+{'issuenumber': 585, 'title': 'Return a promise from Promise.coroutine() (like co)?', 'state': 'closed', 'created_at': '2015-04-15T21:22:02Z', 'closed_at': '2015-04-15T21:33:11Z', 'labels': []}
+{'issuenumber': 584, 'title': 'doc error about lodash invoke ', 'state': 'closed', 'created_at': '2015-04-15T09:37:25Z', 'closed_at': '2015-04-15T11:46:15Z', 'labels': []}
+{'issuenumber': 583, 'title': 'continuation-local-storage support', 'state': 'closed', 'created_at': '2015-04-15T01:08:36Z', 'closed_at': '2015-04-16T03:54:00Z', 'labels': []}
+{'issuenumber': 582, 'title': 'Thank you!', 'state': 'closed', 'created_at': '2015-04-14T21:57:02Z', 'closed_at': '2015-04-14T21:57:14Z', 'labels': []}
+{'issuenumber': 581, 'title': 'Early Returns out of a long promise chain', 'state': 'closed', 'created_at': '2015-04-14T21:30:42Z', 'closed_at': '2015-04-15T04:31:03Z', 'labels': []}
+{'issuenumber': 580, 'title': 'Should map() handle null or undefined better?', 'state': 'closed', 'created_at': '2015-04-13T15:25:52Z', 'closed_at': '2015-04-13T15:37:12Z', 'labels': []}
+{'issuenumber': 576, 'title': 'Promise.prototype.spread signature changed', 'state': 'closed', 'created_at': '2015-04-13T08:18:59Z', 'closed_at': '2015-04-13T12:27:31Z', 'labels': []}
+{'issuenumber': 574, 'title': '`councurrency` option documentation clarification', 'state': 'closed', 'created_at': '2015-04-12T15:13:45Z', 'closed_at': '2015-04-13T17:54:10Z', 'labels': []}
+{'issuenumber': 571, 'title': 'Promises/A+ point 2.2.7.1 compatability', 'state': 'closed', 'created_at': '2015-04-09T05:51:13Z', 'closed_at': '2015-04-09T05:55:52Z', 'labels': []}
+{'issuenumber': 570, 'title': 'Load balancing / throttling', 'state': 'closed', 'created_at': '2015-04-08T10:45:04Z', 'closed_at': '2015-05-06T09:58:17Z', 'labels': []}
+{'issuenumber': 569, 'title': 'Support ES6 iterables?', 'state': 'closed', 'created_at': '2015-04-08T07:23:19Z', 'closed_at': '2015-10-27T14:36:44Z', 'labels': {'name': '3.0.0'}}
+{'issuenumber': 568, 'title': 'Clarify best practices and API docs statement: "it is *very unlikely* that you will ever need to create promises yourself"', 'state': 'closed', 'created_at': '2015-04-07T23:39:19Z', 'closed_at': '2015-04-08T05:32:49Z', 'labels': []}
+{'issuenumber': 567, 'title': "promisifyAll doesn't catch EADDRINUSE", 'state': 'closed', 'created_at': '2015-04-07T09:59:39Z', 'closed_at': '2015-04-07T11:02:22Z', 'labels': []}
+{'issuenumber': 566, 'title': 'Build fails on windows with CRLF line endings ', 'state': 'closed', 'created_at': '2015-04-07T04:55:56Z', 'closed_at': '2015-04-07T05:07:38Z', 'labels': []}
+{'issuenumber': 565, 'title': 'Don\'t use a third "cancelled" state', 'state': 'closed', 'created_at': '2015-04-04T21:03:28Z', 'closed_at': '2015-04-05T07:40:24Z', 'labels': {'name': '3.0.0'}}
+{'issuenumber': 564, 'title': 'Inconsistency in cancellation', 'state': 'closed', 'created_at': '2015-04-04T19:47:24Z', 'closed_at': '2015-04-05T07:40:34Z', 'labels': []}
+{'issuenumber': 562, 'title': 'Cancelation of promises chained from resolved promises', 'state': 'closed', 'created_at': '2015-04-04T14:39:32Z', 'closed_at': '2015-04-05T07:42:17Z', 'labels': []}
+{'issuenumber': 561, 'title': '2.9.23 Breaks then-redis', 'state': 'closed', 'created_at': '2015-04-02T09:50:28Z', 'closed_at': '2015-04-02T10:51:40Z', 'labels': []}
+{'issuenumber': 560, 'title': '2.9.23 breaks knex behaviour', 'state': 'closed', 'created_at': '2015-04-02T09:02:39Z', 'closed_at': '2015-04-02T10:51:25Z', 'labels': []}
+{'issuenumber': 559, 'title': 'Cannot redefine property: usingDomains', 'state': 'closed', 'created_at': '2015-04-02T08:49:19Z', 'closed_at': '2015-04-02T10:50:19Z', 'labels': []}
+{'issuenumber': 558, 'title': "How to promisify constructor's handling methods?", 'state': 'closed', 'created_at': '2015-04-01T22:03:51Z', 'closed_at': '2015-04-02T04:53:07Z', 'labels': []}
+{'issuenumber': 556, 'title': 'Promise.promisify() throws a type error under phantomjs', 'state': 'closed', 'created_at': '2015-04-01T21:18:33Z', 'closed_at': '2015-04-02T04:44:46Z', 'labels': []}
+{'issuenumber': 555, 'title': 'Are `defer` and `pending` deprecated?', 'state': 'closed', 'created_at': '2015-04-01T18:21:10Z', 'closed_at': '2015-04-02T04:50:34Z', 'labels': []}
+{'issuenumber': 554, 'title': 'Promise.cancel()', 'state': 'closed', 'created_at': '2015-04-01T07:54:08Z', 'closed_at': '2015-04-01T09:30:59Z', 'labels': []}
+{'issuenumber': 553, 'title': 'while loop', 'state': 'closed', 'created_at': '2015-03-31T17:19:30Z', 'closed_at': '2015-03-31T17:20:31Z', 'labels': []}
+{'issuenumber': 552, 'title': 'Cannot set property stack of [Error (E_UNKNOWN) Encountered an unexpected error]  which has only a getter', 'state': 'closed', 'created_at': '2015-03-29T23:37:11Z', 'closed_at': '2015-03-30T01:10:33Z', 'labels': []}
+{'issuenumber': 551, 'title': 'Are `AsyncXXX()` callings safe?', 'state': 'closed', 'created_at': '2015-03-29T09:58:43Z', 'closed_at': '2015-03-29T12:10:51Z', 'labels': []}
+{'issuenumber': 550, 'title': 'Bluebird fails in the environment provided by react-native', 'state': 'closed', 'created_at': '2015-03-27T23:49:11Z', 'closed_at': '2015-04-02T04:54:41Z', 'labels': []}
+{'issuenumber': 547, 'title': '.tap(console.log)', 'state': 'closed', 'created_at': '2015-03-26T19:24:06Z', 'closed_at': '2015-03-26T21:34:58Z', 'labels': []}
+{'issuenumber': 544, 'title': 'Question/suggestion: Functional promisify syntax', 'state': 'closed', 'created_at': '2015-03-24T07:33:19Z', 'closed_at': '2015-03-24T10:03:49Z', 'labels': []}
+{'issuenumber': 543, 'title': 'setScheduler regression when upgrading from 2.3.x', 'state': 'closed', 'created_at': '2015-03-23T16:36:31Z', 'closed_at': '2015-03-24T15:35:44Z', 'labels': []}
+{'issuenumber': 542, 'title': 'Debugging with Chrome async stack traces', 'state': 'closed', 'created_at': '2015-03-23T01:08:25Z', 'closed_at': '2015-03-29T01:06:15Z', 'labels': []}
+{'issuenumber': 541, 'title': 'Cancellation tests are failing with --browser option for 3.0.0', 'state': 'closed', 'created_at': '2015-03-23T00:57:32Z', 'closed_at': '2015-03-23T01:05:53Z', 'labels': []}
+{'issuenumber': 539, 'title': 'API documentation using `then(function(val1, val2)`', 'state': 'closed', 'created_at': '2015-03-22T16:48:54Z', 'closed_at': '2015-03-25T15:10:13Z', 'labels': []}
+{'issuenumber': 538, 'title': ".each method has in third argument array's length instead of array", 'state': 'closed', 'created_at': '2015-03-20T15:20:44Z', 'closed_at': '2015-03-20T15:38:45Z', 'labels': []}
+{'issuenumber': 537, 'title': "Promise.using doesn't work with cancellation as expected.", 'state': 'closed', 'created_at': '2015-03-20T15:10:44Z', 'closed_at': '2015-03-20T15:40:57Z', 'labels': []}
+{'issuenumber': 536, 'title': 'Unhandled rejection has stack trace in Chrome/FF but not IE11', 'state': 'closed', 'created_at': '2015-03-20T09:26:12Z', 'closed_at': '2015-03-20T15:37:59Z', 'labels': []}
+{'issuenumber': 535, 'title': 'custom build without progress throws error', 'state': 'closed', 'created_at': '2015-03-19T21:42:18Z', 'closed_at': '2015-03-26T15:11:31Z', 'labels': []}
+{'issuenumber': 534, 'title': 'bluebird 2.9.14 hangs', 'state': 'closed', 'created_at': '2015-03-19T21:27:47Z', 'closed_at': '2015-03-26T15:11:31Z', 'labels': []}
+{'issuenumber': 533, 'title': 'Question about anti-pattern page in wiki', 'state': 'closed', 'created_at': '2015-03-19T12:57:38Z', 'closed_at': '2015-03-19T13:16:49Z', 'labels': []}
+{'issuenumber': 532, 'title': 'A legitimate use for progress? ', 'state': 'closed', 'created_at': '2015-03-18T23:11:28Z', 'closed_at': '2015-05-06T09:58:10Z', 'labels': []}
+{'issuenumber': 531, 'title': 'Possible typo in benchmark Readme.md', 'state': 'closed', 'created_at': '2015-03-18T09:41:22Z', 'closed_at': '2015-03-19T21:23:44Z', 'labels': []}
+{'issuenumber': 530, 'title': 'Providing context for the constructor callback', 'state': 'closed', 'created_at': '2015-03-14T16:27:26Z', 'closed_at': '2015-03-14T16:38:34Z', 'labels': []}
+{'issuenumber': 528, 'title': 'Constructor promisification', 'state': 'closed', 'created_at': '2015-03-13T16:00:15Z', 'closed_at': '2015-03-13T16:04:06Z', 'labels': []}
+{'issuenumber': 527, 'title': '"self is undefine" error occur in "fireGlobalEvent" function', 'state': 'closed', 'created_at': '2015-03-13T01:12:15Z', 'closed_at': '2015-03-13T01:25:50Z', 'labels': []}
+{'issuenumber': 525, 'title': 'Bluebird fails to load in a nwjs (nodewebkit) app', 'state': 'closed', 'created_at': '2015-03-12T00:21:05Z', 'closed_at': '2015-03-12T01:53:19Z', 'labels': []}
+{'issuenumber': 523, 'title': 'Promisify certain Mongoose Objects', 'state': 'closed', 'created_at': '2015-03-06T14:56:20Z', 'closed_at': '2015-03-06T15:12:56Z', 'labels': []}
+{'issuenumber': 522, 'title': 'Bluebird in JDK Nashorn', 'state': 'closed', 'created_at': '2015-03-05T10:23:51Z', 'closed_at': '2015-03-11T10:17:01Z', 'labels': []}
+{'issuenumber': 521, 'title': 'Upgrading caused promises to lose domain propagation', 'state': 'closed', 'created_at': '2015-03-02T18:21:09Z', 'closed_at': '2015-04-02T07:42:11Z', 'labels': []}
+{'issuenumber': 520, 'title': '.cancel() can cause an infinite loop', 'state': 'closed', 'created_at': '2015-03-02T18:09:30Z', 'closed_at': '2015-03-03T14:59:44Z', 'labels': []}
+{'issuenumber': 518, 'title': 'Bluebird being used by 3-rd party library, renders nodejs domains useless?!', 'state': 'closed', 'created_at': '2015-03-02T16:04:41Z', 'closed_at': '2015-03-10T10:06:15Z', 'labels': []}
+{'issuenumber': 517, 'title': 'second argument for .tap or similar method for rejections', 'state': 'closed', 'created_at': '2015-03-02T14:07:15Z', 'closed_at': '2017-08-10T14:58:12Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 513, 'title': '.each() synchronization question', 'state': 'closed', 'created_at': '2015-02-27T18:04:09Z', 'closed_at': '2015-02-27T18:30:11Z', 'labels': []}
+{'issuenumber': 512, 'title': 'get "TypeError: this._trace is undefined" at Promise.prototype._attachExtraTrace', 'state': 'closed', 'created_at': '2015-02-27T10:59:50Z', 'closed_at': '2015-02-27T11:28:39Z', 'labels': []}
+{'issuenumber': 511, 'title': 'How to properly reject Promise and why deferring is anti-pattern?', 'state': 'closed', 'created_at': '2015-02-27T10:16:55Z', 'closed_at': '2015-02-27T11:29:37Z', 'labels': []}
+{'issuenumber': 510, 'title': 'Return a promise from a custom function', 'state': 'closed', 'created_at': '2015-02-25T07:02:18Z', 'closed_at': '2015-02-25T07:39:16Z', 'labels': []}
+{'issuenumber': 508, 'title': 'Warning: a promise was created in a handler but none were returned from it', 'state': 'closed', 'created_at': '2015-02-25T03:12:39Z', 'closed_at': '2016-08-27T14:34:48Z', 'labels': []}
+{'issuenumber': 506, 'title': 'AFunction.prototype should be set in a variable for minification', 'state': 'closed', 'created_at': '2015-02-21T17:01:47Z', 'closed_at': '2015-02-27T00:31:16Z', 'labels': []}
+{'issuenumber': 504, 'title': 'Promisify without suffix', 'state': 'closed', 'created_at': '2015-02-19T17:11:41Z', 'closed_at': '2015-02-19T17:18:12Z', 'labels': []}
+{'issuenumber': 503, 'title': 'Polluted __stackCleaned__ property', 'state': 'closed', 'created_at': '2015-02-19T12:22:42Z', 'closed_at': '2015-02-19T14:29:06Z', 'labels': []}
+{'issuenumber': 502, 'title': 'Memory leak trying to create a while loop with promises', 'state': 'closed', 'created_at': '2015-02-19T09:25:30Z', 'closed_at': '2015-07-01T19:00:48Z', 'labels': []}
+{'issuenumber': 501, 'title': 'Rejection of a Promise that depends on another promise is extremely slow in V8/Chrome.', 'state': 'closed', 'created_at': '2015-02-18T14:08:35Z', 'closed_at': '2015-02-18T20:15:00Z', 'labels': []}
+{'issuenumber': 500, 'title': 'Promise.reduce skips first array element.', 'state': 'closed', 'created_at': '2015-02-18T02:04:14Z', 'closed_at': '2015-02-18T08:23:18Z', 'labels': []}
+{'issuenumber': 499, 'title': ".catch({ code: '...'}, ...)", 'state': 'closed', 'created_at': '2015-02-17T17:32:34Z', 'closed_at': '2015-10-27T14:36:40Z', 'labels': {'name': '3.0.0'}}
+{'issuenumber': 498, 'title': 'promisify prompt.js', 'state': 'closed', 'created_at': '2015-02-17T03:02:59Z', 'closed_at': '2015-02-17T10:17:28Z', 'labels': []}
+{'issuenumber': 497, 'title': 'splay: bluebird.all for dictionaries of promises.', 'state': 'closed', 'created_at': '2015-02-13T18:09:50Z', 'closed_at': '2015-02-13T18:11:22Z', 'labels': []}
+{'issuenumber': 496, 'title': 'Odd issue with Mongoose middleware', 'state': 'closed', 'created_at': '2015-02-13T03:27:06Z', 'closed_at': '2015-02-13T03:39:39Z', 'labels': []}
+{'issuenumber': 494, 'title': 'Bluebird appears to throws fatal error for rejection that is supposed to be handled by .settle', 'state': 'closed', 'created_at': '2015-02-12T10:45:51Z', 'closed_at': '2015-02-12T11:02:10Z', 'labels': []}
+{'issuenumber': 493, 'title': 'Promises with both .then and passed to .all always throw Unhandled rejection Error', 'state': 'closed', 'created_at': '2015-02-11T21:09:39Z', 'closed_at': '2015-02-11T21:26:40Z', 'labels': []}
+{'issuenumber': 492, 'title': 'Problem Loading Bluebird in Browser', 'state': 'closed', 'created_at': '2015-02-11T20:29:51Z', 'closed_at': '2015-02-11T20:39:25Z', 'labels': []}
+{'issuenumber': 491, 'title': "Method name already has 'Async' suffix", 'state': 'closed', 'created_at': '2015-02-11T08:29:53Z', 'closed_at': '2015-02-11T08:30:40Z', 'labels': []}
+{'issuenumber': 489, 'title': 'Problem with Join', 'state': 'closed', 'created_at': '2015-02-10T20:15:55Z', 'closed_at': '2015-02-10T20:30:49Z', 'labels': []}
+{'issuenumber': 488, 'title': "Mongoose 'pre' hooks stop working in 2.9.7", 'state': 'closed', 'created_at': '2015-02-10T09:00:28Z', 'closed_at': '2015-02-10T10:16:54Z', 'labels': []}
+{'issuenumber': 487, 'title': 'Request for clarification of change made in 2.9.7', 'state': 'closed', 'created_at': '2015-02-08T23:34:58Z', 'closed_at': '2015-02-10T21:53:27Z', 'labels': []}
+{'issuenumber': 485, 'title': 'What is the zalgo build?', 'state': 'closed', 'created_at': '2015-02-07T10:38:43Z', 'closed_at': '2015-02-07T10:43:52Z', 'labels': {'name': 'question'}}
+{'issuenumber': 484, 'title': "Getting the 'using' statement to work with the mssql module", 'state': 'closed', 'created_at': '2015-02-06T16:38:02Z', 'closed_at': '2015-02-06T17:33:04Z', 'labels': []}
+{'issuenumber': 483, 'title': 'Inverse for .throw method', 'state': 'closed', 'created_at': '2015-02-05T09:35:59Z', 'closed_at': '2015-10-27T14:36:37Z', 'labels': {'name': '3.0.0'}}
+{'issuenumber': 482, 'title': 'then warning creates messy logs for thenable APIs', 'state': 'closed', 'created_at': '2015-02-04T17:23:20Z', 'closed_at': '2015-02-08T16:20:18Z', 'labels': []}
+{'issuenumber': 481, 'title': 'Feature Request: Add utility function for serially chaining handlers and returning the first resolved value', 'state': 'closed', 'created_at': '2015-02-04T16:37:42Z', 'closed_at': '2015-02-04T17:56:38Z', 'labels': []}
+{'issuenumber': 480, 'title': 'Feature Request: Add utility function Promise.first()', 'state': 'closed', 'created_at': '2015-02-04T13:30:06Z', 'closed_at': '2015-02-04T14:30:35Z', 'labels': []}
+{'issuenumber': 479, 'title': 'self not defined in captured_trace.js', 'state': 'closed', 'created_at': '2015-02-02T17:16:41Z', 'closed_at': '2015-02-02T17:27:26Z', 'labels': []}
+{'issuenumber': 478, 'title': 'Throwing "self is not defined" for unhandled errors on node', 'state': 'closed', 'created_at': '2015-02-02T00:31:08Z', 'closed_at': '2015-02-02T04:09:21Z', 'labels': []}
+{'issuenumber': 477, 'title': '"Infinite" promise chains, a bad thing?', 'state': 'closed', 'created_at': '2015-02-01T20:12:27Z', 'closed_at': '2015-02-01T22:06:01Z', 'labels': []}
+{'issuenumber': 476, 'title': 'Catch errors mid-chain?', 'state': 'closed', 'created_at': '2015-02-01T03:30:10Z', 'closed_at': '2015-02-01T05:26:21Z', 'labels': []}
+{'issuenumber': 475, 'title': 'Parallel for multiple catch blocks in synchronous code', 'state': 'closed', 'created_at': '2015-01-30T13:59:56Z', 'closed_at': '2015-02-01T22:44:13Z', 'labels': []}
+{'issuenumber': 472, 'title': 'chainFinally: Execute at end of the chain.', 'state': 'closed', 'created_at': '2015-01-28T13:28:13Z', 'closed_at': '2015-01-28T15:49:01Z', 'labels': []}
+{'issuenumber': 471, 'title': 'Unhandled rejection overtakes synchronous exception through done()', 'state': 'closed', 'created_at': '2015-01-28T10:22:18Z', 'closed_at': '2015-10-27T14:36:34Z', 'labels': {'name': '3.0.0'}}
+{'issuenumber': 470, 'title': 'Unable to chain promisifyAll request function', 'state': 'closed', 'created_at': '2015-01-27T19:31:31Z', 'closed_at': '2015-02-05T17:08:24Z', 'labels': []}
+{'issuenumber': 469, 'title': "Can't chain method after certian method", 'state': 'closed', 'created_at': '2015-01-27T15:57:27Z', 'closed_at': '2015-01-27T16:14:08Z', 'labels': []}
+{'issuenumber': 468, 'title': "Using Promise map and bind doesn't work as intended", 'state': 'closed', 'created_at': '2015-01-27T11:52:44Z', 'closed_at': '2015-01-27T13:40:33Z', 'labels': []}
+{'issuenumber': 466, 'title': 'promisifyAll() fails in v2.9.1', 'state': 'closed', 'created_at': '2015-01-26T08:19:19Z', 'closed_at': '2015-01-26T10:25:43Z', 'labels': []}
+{'issuenumber': 465, 'title': '"npm test" doesn\'t work on Windows', 'state': 'closed', 'created_at': '2015-01-25T22:58:44Z', 'closed_at': '2015-01-25T23:31:30Z', 'labels': []}
+{'issuenumber': 464, 'title': "promisifyAll to work with object's getters", 'state': 'closed', 'created_at': '2015-01-25T10:38:17Z', 'closed_at': '2015-01-25T13:21:43Z', 'labels': []}
+{'issuenumber': 463, 'title': 'Promise.method and Promise.bind', 'state': 'closed', 'created_at': '2015-01-24T05:11:04Z', 'closed_at': '2015-01-24T14:44:08Z', 'labels': []}
+{'issuenumber': 461, 'title': 'Change in Behavior of undefined passed to .spread', 'state': 'closed', 'created_at': '2015-01-21T22:27:22Z', 'closed_at': '2015-01-22T07:01:59Z', 'labels': []}
+{'issuenumber': 460, 'title': 'Promise.all is returning an array of rejections', 'state': 'closed', 'created_at': '2015-01-21T18:21:38Z', 'closed_at': '2015-01-21T18:45:30Z', 'labels': []}
+{'issuenumber': 459, 'title': 'WebWorker, old browser, and schedule', 'state': 'closed', 'created_at': '2015-01-21T16:46:40Z', 'closed_at': '2015-01-21T16:59:42Z', 'labels': []}
+{'issuenumber': 458, 'title': 'Error catching within .thens', 'state': 'closed', 'created_at': '2015-01-21T15:24:12Z', 'closed_at': '2015-01-21T15:50:01Z', 'labels': []}
+{'issuenumber': 457, 'title': 'Bluebird.method or any other wrapper as ES6 Class method', 'state': 'closed', 'created_at': '2015-01-21T12:01:24Z', 'closed_at': '2015-01-23T00:30:33Z', 'labels': []}
+{'issuenumber': 456, 'title': "Don't just call window.onunhandledrejection, fire a CustomEvent too", 'state': 'closed', 'created_at': '2015-01-20T18:00:04Z', 'closed_at': '2015-01-20T23:05:22Z', 'labels': []}
+{'issuenumber': 455, 'title': 'Dependency graphs:  let promise X declaratively waitFor promise Y', 'state': 'closed', 'created_at': '2015-01-20T12:57:25Z', 'closed_at': '2015-01-21T16:09:21Z', 'labels': []}
+{'issuenumber': 453, 'title': 'Too heavy', 'state': 'closed', 'created_at': '2015-01-18T23:37:25Z', 'closed_at': '2015-01-19T00:37:43Z', 'labels': []}
+{'issuenumber': 452, 'title': 'Add the ability to throw a real exception in the browser', 'state': 'closed', 'created_at': '2015-01-16T19:30:44Z', 'closed_at': '2015-01-16T21:31:48Z', 'labels': []}
+{'issuenumber': 451, 'title': 'tapSpread', 'state': 'closed', 'created_at': '2015-01-16T14:44:28Z', 'closed_at': '2015-01-16T16:32:52Z', 'labels': []}
+{'issuenumber': 448, 'title': 'New trace capturing with decycling', 'state': 'closed', 'created_at': '2015-01-16T08:21:15Z', 'closed_at': '2015-01-19T00:30:58Z', 'labels': []}
+{'issuenumber': 447, 'title': 'longStackTraces memory issue', 'state': 'closed', 'created_at': '2015-01-15T13:47:01Z', 'closed_at': '2015-01-15T15:52:57Z', 'labels': []}
+{'issuenumber': 446, 'title': 'noConflict() is broken since v2.4.0', 'state': 'closed', 'created_at': '2015-01-15T07:50:31Z', 'closed_at': '2015-01-15T13:49:27Z', 'labels': []}
+{'issuenumber': 445, 'title': 'Map over objects?', 'state': 'closed', 'created_at': '2015-01-15T00:03:01Z', 'closed_at': '2015-01-15T02:30:56Z', 'labels': []}
+{'issuenumber': 444, 'title': 'thisArg not accessible in first function', 'state': 'closed', 'created_at': '2015-01-14T21:22:30Z', 'closed_at': '2015-01-14T21:25:19Z', 'labels': []}
+{'issuenumber': 443, 'title': 'Issue promisifying node-mysql', 'state': 'closed', 'created_at': '2015-01-14T20:02:26Z', 'closed_at': '2015-01-14T20:08:12Z', 'labels': []}
+{'issuenumber': 439, 'title': "can not call Object's prototype method", 'state': 'closed', 'created_at': '2015-01-14T05:44:11Z', 'closed_at': '2015-01-14T12:27:48Z', 'labels': []}
+{'issuenumber': 438, 'title': "Promise.resolve doesn't work as expected when exceptions are thrown", 'state': 'closed', 'created_at': '2015-01-13T22:55:26Z', 'closed_at': '2015-01-14T12:28:56Z', 'labels': []}
+{'issuenumber': 437, 'title': 'A method / wrapper for passing nested anonymous functions?', 'state': 'closed', 'created_at': '2015-01-13T19:24:55Z', 'closed_at': '2015-01-13T20:19:09Z', 'labels': []}
+{'issuenumber': 435, 'title': 'Inconsistent README example and API functionality', 'state': 'closed', 'created_at': '2015-01-13T08:56:10Z', 'closed_at': '2015-01-13T09:24:43Z', 'labels': []}
+{'issuenumber': 434, 'title': 'Clarify nodeify behaviour', 'state': 'closed', 'created_at': '2015-01-12T17:15:10Z', 'closed_at': '2015-01-12T18:37:14Z', 'labels': []}
+{'issuenumber': 433, 'title': "Disposer is not invoked when the resource construction contains two nested then's", 'state': 'closed', 'created_at': '2015-01-12T10:58:23Z', 'closed_at': '2015-01-12T13:40:15Z', 'labels': []}
+{'issuenumber': 432, 'title': '"Possibly unhandled Error" when settling synchronously in .any', 'state': 'closed', 'created_at': '2015-01-10T22:29:49Z', 'closed_at': '2015-01-11T00:08:35Z', 'labels': []}
+{'issuenumber': 430, 'title': 'No error is thrown for a wrongly promisifyied function', 'state': 'closed', 'created_at': '2015-01-09T20:54:11Z', 'closed_at': '2015-01-09T20:57:23Z', 'labels': []}
+{'issuenumber': 429, 'title': 'Pass promise returning disposer to Promise.using', 'state': 'closed', 'created_at': '2015-01-09T16:27:30Z', 'closed_at': '2015-01-09T21:35:17Z', 'labels': []}
+{'issuenumber': 428, 'title': 'Consider calling `window.onerror` on possibly unhandled rejections', 'state': 'closed', 'created_at': '2015-01-07T16:10:21Z', 'closed_at': '2015-01-15T13:49:27Z', 'labels': []}
+{'issuenumber': 427, 'title': 'Bower distribution no longer contains browser build file', 'state': 'closed', 'created_at': '2015-01-06T17:43:06Z', 'closed_at': '2015-01-07T01:01:47Z', 'labels': []}
+{'issuenumber': 426, 'title': "'this' is undefined even when .bind({}) used", 'state': 'closed', 'created_at': '2015-01-06T16:20:19Z', 'closed_at': '2015-01-07T12:47:11Z', 'labels': []}
+{'issuenumber': 425, 'title': 'bluebird how to break promise chain early', 'state': 'closed', 'created_at': '2015-01-05T02:47:53Z', 'closed_at': '2015-01-05T11:35:35Z', 'labels': []}
+{'issuenumber': 424, 'title': 'Unhandled rejection wiki page?', 'state': 'closed', 'created_at': '2015-01-02T19:00:25Z', 'closed_at': '2015-01-15T21:39:25Z', 'labels': []}
+{'issuenumber': 422, 'title': '`grunt build` fails due to missing dependency', 'state': 'closed', 'created_at': '2014-12-31T18:33:45Z', 'closed_at': '2015-01-04T00:03:41Z', 'labels': []}
+{'issuenumber': 421, 'title': 'Promise.coroutine() is difficult to debug', 'state': 'closed', 'created_at': '2014-12-30T08:15:32Z', 'closed_at': '2015-01-15T13:49:27Z', 'labels': []}
+{'issuenumber': 420, 'title': 'cannot reject using exotic object', 'state': 'closed', 'created_at': '2014-12-29T20:09:07Z', 'closed_at': '2014-12-29T23:14:57Z', 'labels': []}
+{'issuenumber': 418, 'title': "fs.exists doesn't promisify into a good fs.existsAsync", 'state': 'closed', 'created_at': '2014-12-28T23:08:26Z', 'closed_at': '2015-01-04T00:30:42Z', 'labels': []}
+{'issuenumber': 417, 'title': 'Strange null rejection related to method wrapping, finally and binding (regression)', 'state': 'closed', 'created_at': '2014-12-28T22:54:15Z', 'closed_at': '2014-12-29T01:24:27Z', 'labels': []}
+{'issuenumber': 416, 'title': 'v2.4.3 regression', 'state': 'closed', 'created_at': '2014-12-28T19:22:16Z', 'closed_at': '2014-12-28T21:19:25Z', 'labels': []}
+{'issuenumber': 415, 'title': '3.0 cancellation overhaul', 'state': 'closed', 'created_at': '2014-12-28T03:01:05Z', 'closed_at': '2015-10-27T14:36:30Z', 'labels': {'name': '3.0.0'}}
+{'issuenumber': 414, 'title': 'Exception in .then doesnt reject promise', 'state': 'closed', 'created_at': '2014-12-27T01:55:53Z', 'closed_at': '2014-12-27T02:07:57Z', 'labels': []}
+{'issuenumber': 413, 'title': "fs.writeFile doesn't return a promise when not promisified explicitly", 'state': 'closed', 'created_at': '2014-12-23T19:23:34Z', 'closed_at': '2014-12-23T19:29:56Z', 'labels': []}
+{'issuenumber': 412, 'title': 'bluebird uses max CPU if a large number of then() calls made on one promise', 'state': 'closed', 'created_at': '2014-12-18T20:13:36Z', 'closed_at': '2014-12-18T22:50:54Z', 'labels': []}
+{'issuenumber': 411, 'title': "No stack trace provided if a rejected Promise's .done() method is called", 'state': 'closed', 'created_at': '2014-12-16T13:37:45Z', 'closed_at': '2014-12-18T17:04:53Z', 'labels': []}
+{'issuenumber': 410, 'title': 'Promises in loops result in incorrect variables', 'state': 'closed', 'created_at': '2014-12-16T11:08:43Z', 'closed_at': '2014-12-16T11:33:26Z', 'labels': []}
+{'issuenumber': 409, 'title': 'Question: Is there a better way to do things in a series?', 'state': 'closed', 'created_at': '2014-12-16T02:11:40Z', 'closed_at': '2014-12-16T02:57:09Z', 'labels': []}
+{'issuenumber': 407, 'title': 'PromisifyAll failing on fs.readFileAsync', 'state': 'closed', 'created_at': '2014-12-13T04:41:54Z', 'closed_at': '2014-12-13T11:46:43Z', 'labels': []}
+{'issuenumber': 406, 'title': 'How to run with parallel', 'state': 'closed', 'created_at': '2014-12-13T03:54:05Z', 'closed_at': '2014-12-13T11:38:58Z', 'labels': []}
+{'issuenumber': 405, 'title': 'Selective builds to decrease file size', 'state': 'closed', 'created_at': '2014-12-11T19:04:14Z', 'closed_at': '2014-12-12T10:32:05Z', 'labels': []}
+{'issuenumber': 404, 'title': 'Cancelling a sequence of promises using .each', 'state': 'closed', 'created_at': '2014-12-11T18:00:10Z', 'closed_at': '2014-12-15T14:08:48Z', 'labels': []}
+{'issuenumber': 403, 'title': 'Auto-spreading proposal for .then method', 'state': 'closed', 'created_at': '2014-12-11T16:28:26Z', 'closed_at': '2014-12-11T16:42:08Z', 'labels': []}
+{'issuenumber': 402, 'title': 'Promisify function that returns some value and takes callback for result/error', 'state': 'closed', 'created_at': '2014-12-11T15:50:51Z', 'closed_at': '2014-12-11T18:49:36Z', 'labels': []}
+{'issuenumber': 401, 'title': 'Long stack trace -- performance hit?', 'state': 'closed', 'created_at': '2014-12-11T00:45:38Z', 'closed_at': '2014-12-11T13:12:44Z', 'labels': []}
+{'issuenumber': 400, 'title': "Relationship to tj's co?", 'state': 'closed', 'created_at': '2014-12-10T06:25:02Z', 'closed_at': '2014-12-10T07:25:36Z', 'labels': []}
+{'issuenumber': 399, 'title': "Cross library interleaving can cause node 10's nextTick limit to be hit.", 'state': 'closed', 'created_at': '2014-12-07T14:06:35Z', 'closed_at': '2014-12-18T17:41:59Z', 'labels': []}
+{'issuenumber': 398, 'title': 'How to handle several instances of Bluebird ?', 'state': 'closed', 'created_at': '2014-12-07T11:38:49Z', 'closed_at': '2014-12-07T13:41:32Z', 'labels': []}
+{'issuenumber': 397, 'title': 'source missing license header', 'state': 'closed', 'created_at': '2014-12-05T00:25:43Z', 'closed_at': '2014-12-18T17:08:28Z', 'labels': []}
+{'issuenumber': 396, 'title': 'Mass data insertion into relational database', 'state': 'closed', 'created_at': '2014-12-04T09:47:38Z', 'closed_at': '2014-12-04T12:52:03Z', 'labels': []}
+{'issuenumber': 395, 'title': 'Common use case for promisifyAll', 'state': 'closed', 'created_at': '2014-12-04T07:39:15Z', 'closed_at': '2014-12-18T16:41:41Z', 'labels': []}
+{'issuenumber': 394, 'title': 'Promisify with optional arguments breaks', 'state': 'closed', 'created_at': '2014-12-04T06:40:36Z', 'closed_at': '2014-12-18T15:52:16Z', 'labels': []}
+{'issuenumber': 393, 'title': 'Why is .cancel() async?', 'state': 'closed', 'created_at': '2014-12-03T20:35:12Z', 'closed_at': '2014-12-03T21:05:14Z', 'labels': []}
+{'issuenumber': 392, 'title': 'non-static .settle() not working as expected', 'state': 'closed', 'created_at': '2014-12-02T20:27:00Z', 'closed_at': '2014-12-03T01:10:32Z', 'labels': []}
+{'issuenumber': 391, 'title': 'Promisify replace globals in bulk', 'state': 'closed', 'created_at': '2014-12-02T17:13:01Z', 'closed_at': '2014-12-18T16:07:51Z', 'labels': []}
+{'issuenumber': 390, 'title': 'Memory Leak', 'state': 'closed', 'created_at': '2014-11-26T12:51:59Z', 'closed_at': '2014-11-28T14:53:57Z', 'labels': []}
+{'issuenumber': 389, 'title': '.map() only works on arrays and not array-like objects', 'state': 'closed', 'created_at': '2014-11-26T05:13:30Z', 'closed_at': '2014-11-28T14:59:40Z', 'labels': []}
+{'issuenumber': 388, 'title': 'new Promise() not resolving on ES6 browser', 'state': 'closed', 'created_at': '2014-11-23T16:41:39Z', 'closed_at': '2015-01-04T01:02:39Z', 'labels': []}
+{'issuenumber': 387, 'title': 'Promise.delay cancel should cancel the underlying setTimeout', 'state': 'closed', 'created_at': '2014-11-18T20:49:17Z', 'closed_at': '2014-11-18T20:50:58Z', 'labels': []}
+{'issuenumber': 386, 'title': 'Cancellation propagation troubles', 'state': 'closed', 'created_at': '2014-11-17T21:32:17Z', 'closed_at': '2014-11-28T15:02:56Z', 'labels': []}
+{'issuenumber': 383, 'title': 'Catch not working', 'state': 'closed', 'created_at': '2014-11-12T19:54:00Z', 'closed_at': '2014-11-12T20:04:30Z', 'labels': []}
+{'issuenumber': 382, 'title': 'Potential addition to anti-pattern wiki?', 'state': 'closed', 'created_at': '2014-11-12T19:20:19Z', 'closed_at': '2014-11-28T15:07:50Z', 'labels': []}
+{'issuenumber': 381, 'title': 'Q vs. Bluebird performance', 'state': 'closed', 'created_at': '2014-11-11T19:14:23Z', 'closed_at': '2014-11-28T15:06:35Z', 'labels': []}
+{'issuenumber': 380, 'title': '2.3.11 issue with Browserify', 'state': 'closed', 'created_at': '2014-11-10T13:35:15Z', 'closed_at': '2014-12-18T16:00:21Z', 'labels': []}
+{'issuenumber': 379, 'title': 'Correct way to build library with Promises in mind', 'state': 'closed', 'created_at': '2014-11-07T20:11:22Z', 'closed_at': '2014-12-18T16:17:26Z', 'labels': []}
+{'issuenumber': 378, 'title': 'Change the way failing disposers are treated', 'state': 'closed', 'created_at': '2014-11-07T11:33:15Z', 'closed_at': '2014-12-15T12:23:31Z', 'labels': []}
+{'issuenumber': 375, 'title': 'Cancel a composite promise', 'state': 'closed', 'created_at': '2014-11-02T19:35:24Z', 'closed_at': '2014-12-06T15:03:27Z', 'labels': []}
+{'issuenumber': 374, 'title': 'Feature Request —\xa0spread option for array methods', 'state': 'closed', 'created_at': '2014-11-01T01:36:28Z', 'closed_at': '2014-12-18T16:15:57Z', 'labels': []}
+{'issuenumber': 373, 'title': 'Promise.join unhandled exceptions', 'state': 'closed', 'created_at': '2014-10-31T21:13:07Z', 'closed_at': '2014-10-31T22:27:52Z', 'labels': []}
+{'issuenumber': 372, 'title': 'Fork of benchmarks', 'state': 'closed', 'created_at': '2014-10-31T18:23:37Z', 'closed_at': '2014-12-18T16:22:42Z', 'labels': []}
+{'issuenumber': 371, 'title': 'Promise.timeout() leaks a promise reference after resolution/rejection', 'state': 'closed', 'created_at': '2014-10-30T07:41:20Z', 'closed_at': '2014-10-31T11:42:11Z', 'labels': []}
+{'issuenumber': 370, 'title': 'Version numbers incorrect', 'state': 'closed', 'created_at': '2014-10-28T14:06:42Z', 'closed_at': '2014-10-28T14:27:22Z', 'labels': []}
+{'issuenumber': 369, 'title': 'Fix for #359 breaks throw', 'state': 'closed', 'created_at': '2014-10-28T13:55:02Z', 'closed_at': '2014-10-28T14:26:49Z', 'labels': []}
+{'issuenumber': 368, 'title': 'Release 2.3.7 does not have "js/main" and "js/zalgo" folders, only "js/browser"', 'state': 'closed', 'created_at': '2014-10-28T09:24:43Z', 'closed_at': '2014-10-28T09:56:38Z', 'labels': []}
+{'issuenumber': 366, 'title': 'Promise.settle() documentation does not match actual functionality', 'state': 'closed', 'created_at': '2014-10-27T19:25:38Z', 'closed_at': '2014-10-27T20:16:06Z', 'labels': []}
+{'issuenumber': 365, 'title': 'Will Promise.map work correctly with a different type of promise (thenable)', 'state': 'closed', 'created_at': '2014-10-26T20:45:34Z', 'closed_at': '2014-10-31T11:49:45Z', 'labels': []}
+{'issuenumber': 364, 'title': 'Fulfillment handler called twice', 'state': 'closed', 'created_at': '2014-10-24T14:38:12Z', 'closed_at': '2014-10-25T12:02:53Z', 'labels': []}
+{'issuenumber': 363, 'title': 'Source Maps w/ Browserify', 'state': 'closed', 'created_at': '2014-10-23T16:09:43Z', 'closed_at': '2014-10-31T11:50:14Z', 'labels': []}
+{'issuenumber': 362, 'title': 'Calling cancel more than once synchronously causes weird behavior', 'state': 'closed', 'created_at': '2014-10-23T00:47:49Z', 'closed_at': '2014-10-25T12:02:53Z', 'labels': []}
+{'issuenumber': 361, 'title': 'Rejected promise and promise inspection have no reason() method', 'state': 'closed', 'created_at': '2014-10-23T00:33:58Z', 'closed_at': '2014-10-25T21:56:32Z', 'labels': []}
+{'issuenumber': 359, 'title': 'Stack traces with Promise.method', 'state': 'closed', 'created_at': '2014-10-21T01:40:02Z', 'closed_at': '2014-10-25T12:02:53Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 358, 'title': 'Promises and Events', 'state': 'closed', 'created_at': '2014-10-21T01:07:22Z', 'closed_at': '2014-10-22T13:38:54Z', 'labels': []}
+{'issuenumber': 357, 'title': 'Difficult to get onPossiblyUnhandledRejection to work all of the time in Node.js due to submodules', 'state': 'closed', 'created_at': '2014-10-17T17:23:05Z', 'closed_at': '2015-01-15T13:49:27Z', 'labels': {'name': '3.0.0'}}
+{'issuenumber': 356, 'title': 'Issues with grunt build, grunt test.', 'state': 'closed', 'created_at': '2014-10-17T14:39:24Z', 'closed_at': '2014-12-19T13:19:55Z', 'labels': []}
+{'issuenumber': 352, 'title': '[Doc] What assumptions does bluebird make on error handling?', 'state': 'closed', 'created_at': '2014-10-15T06:38:34Z', 'closed_at': '2015-10-27T14:36:27Z', 'labels': {'name': '3.0.0'}}
+{'issuenumber': 351, 'title': 'Promise.settle -> can it return an array of the promises instead?', 'state': 'closed', 'created_at': '2014-10-14T15:18:49Z', 'closed_at': '2014-10-25T12:38:46Z', 'labels': []}
+{'issuenumber': 349, 'title': '[Doc] Explain "the start of a second turn" in Error handling section', 'state': 'closed', 'created_at': '2014-10-13T19:49:10Z', 'closed_at': '2014-10-25T12:41:25Z', 'labels': []}
+{'issuenumber': 348, 'title': 'map implementation', 'state': 'closed', 'created_at': '2014-10-10T13:25:23Z', 'closed_at': '2014-12-18T16:38:01Z', 'labels': []}
+{'issuenumber': 346, 'title': 'Feature Request - Promise.settleProps', 'state': 'closed', 'created_at': '2014-10-09T20:46:31Z', 'closed_at': '2014-10-25T12:39:12Z', 'labels': []}
+{'issuenumber': 342, 'title': 'Bug in Promise.spread?', 'state': 'closed', 'created_at': '2014-10-07T03:04:32Z', 'closed_at': '2014-10-07T08:50:50Z', 'labels': []}
+{'issuenumber': 340, 'title': 'Question:', 'state': 'closed', 'created_at': '2014-10-06T14:55:45Z', 'closed_at': '2014-10-06T19:17:23Z', 'labels': []}
+{'issuenumber': 339, 'title': 'Promise.map(array, fn, {concurrency: 1}) executes out of order', 'state': 'closed', 'created_at': '2014-10-06T00:38:47Z', 'closed_at': '2014-10-06T05:02:52Z', 'labels': []}
+{'issuenumber': 338, 'title': 'Question: Promisifying mandrill-api', 'state': 'closed', 'created_at': '2014-10-03T16:38:14Z', 'closed_at': '2014-10-08T08:25:56Z', 'labels': []}
+{'issuenumber': 336, 'title': 'Multiple Return Value', 'state': 'closed', 'created_at': '2014-10-02T23:15:00Z', 'closed_at': '2014-10-04T01:54:42Z', 'labels': []}
+{'issuenumber': 335, 'title': 'promisifyAll gm module ', 'state': 'closed', 'created_at': '2014-10-02T20:58:13Z', 'closed_at': '2014-10-05T08:10:08Z', 'labels': []}
+{'issuenumber': 334, 'title': 'Version needed unavailable', 'state': 'closed', 'created_at': '2014-10-01T22:04:50Z', 'closed_at': '2014-10-06T14:29:23Z', 'labels': []}
+{'issuenumber': 333, 'title': 'promisify nodemailer-smtp-transport', 'state': 'closed', 'created_at': '2014-09-30T21:37:07Z', 'closed_at': '2014-10-08T08:28:11Z', 'labels': []}
+{'issuenumber': 332, 'title': 'Streams and promises', 'state': 'closed', 'created_at': '2014-09-29T17:56:47Z', 'closed_at': '2014-10-08T08:31:58Z', 'labels': []}
+{'issuenumber': 331, 'title': 'How to use promise', 'state': 'closed', 'created_at': '2014-09-28T22:37:02Z', 'closed_at': '2014-10-29T18:40:59Z', 'labels': []}
+{'issuenumber': 329, 'title': 'TypeError: Converting circular structure to JSON with custom errors', 'state': 'closed', 'created_at': '2014-09-28T13:52:40Z', 'closed_at': '2014-09-28T18:43:33Z', 'labels': []}
+{'issuenumber': 328, 'title': 'Consider adding .npmignore file', 'state': 'closed', 'created_at': '2014-09-27T13:51:16Z', 'closed_at': '2014-10-08T08:32:32Z', 'labels': []}
+{'issuenumber': 327, 'title': 'Auto promisified function as "then" fulfill handler doesn\'t work', 'state': 'closed', 'created_at': '2014-09-25T14:51:10Z', 'closed_at': '2014-10-08T08:33:58Z', 'labels': []}
+{'issuenumber': 325, 'title': 'Provide means to extend Promise', 'state': 'closed', 'created_at': '2014-09-24T04:06:20Z', 'closed_at': '2014-10-25T12:39:23Z', 'labels': []}
+{'issuenumber': 324, 'title': 'Cannot promisify NeDB', 'state': 'closed', 'created_at': '2014-09-23T14:54:17Z', 'closed_at': '2014-09-24T09:02:32Z', 'labels': []}
+{'issuenumber': 323, 'title': 'Promise.settle resolves (sometimes) too early with Promise itself instead of PromiseInspection', 'state': 'closed', 'created_at': '2014-09-18T12:27:26Z', 'closed_at': '2014-10-15T12:34:37Z', 'labels': []}
+{'issuenumber': 322, 'title': 'include browser build in npm', 'state': 'closed', 'created_at': '2014-09-17T17:05:28Z', 'closed_at': '2014-09-27T11:57:06Z', 'labels': []}
+{'issuenumber': 320, 'title': 'promisifyAll with mongoose - saveAsync results in promise with resolved value of Array', 'state': 'closed', 'created_at': '2014-09-12T01:03:16Z', 'closed_at': '2014-09-12T02:20:07Z', 'labels': []}
+{'issuenumber': 319, 'title': 'Promise.promisify that calls the function', 'state': 'closed', 'created_at': '2014-09-10T15:59:31Z', 'closed_at': '2014-09-11T07:54:58Z', 'labels': []}
+{'issuenumber': 318, 'title': '"Cannot call method \'then\' of undefined" when specifying an invalid .catch filter', 'state': 'closed', 'created_at': '2014-09-09T14:52:19Z', 'closed_at': '2014-09-27T11:40:06Z', 'labels': []}
+{'issuenumber': 315, 'title': 'Can I promisify self?', 'state': 'closed', 'created_at': '2014-09-05T18:07:29Z', 'closed_at': '2014-09-12T11:31:39Z', 'labels': []}
+{'issuenumber': 314, 'title': 'Build fails in the "buildBrowser" function', 'state': 'closed', 'created_at': '2014-09-05T11:26:47Z', 'closed_at': '2014-09-27T11:40:06Z', 'labels': []}
+{'issuenumber': 313, 'title': 'Possibly unhandled Error', 'state': 'closed', 'created_at': '2014-09-04T10:01:38Z', 'closed_at': '2014-09-04T11:18:29Z', 'labels': []}
+{'issuenumber': 312, 'title': 'How to migrate from Q.defer in simple request reply example?', 'state': 'closed', 'created_at': '2014-09-04T07:02:56Z', 'closed_at': '2014-10-25T12:45:13Z', 'labels': []}
+{'issuenumber': 311, 'title': '1.x to 2.x migration', 'state': 'closed', 'created_at': '2014-09-04T04:26:13Z', 'closed_at': '2014-09-04T17:37:09Z', 'labels': []}
+{'issuenumber': 310, 'title': 'A better way to call functions with multiple arguments', 'state': 'closed', 'created_at': '2014-09-03T23:53:31Z', 'closed_at': '2014-10-25T12:42:20Z', 'labels': []}
+{'issuenumber': 309, 'title': 'promisify turns request response into an array?', 'state': 'closed', 'created_at': '2014-08-31T19:16:21Z', 'closed_at': '2014-09-01T10:18:01Z', 'labels': []}
+{'issuenumber': 308, 'title': 'Promise.props and Promise.array missing cancellation propagation', 'state': 'closed', 'created_at': '2014-08-28T18:41:33Z', 'closed_at': '2014-10-25T12:47:24Z', 'labels': []}
+{'issuenumber': 307, 'title': '`promisify()` behavior with multiple parameters can break compatibility', 'state': 'closed', 'created_at': '2014-08-28T10:30:37Z', 'closed_at': '2015-10-27T14:36:23Z', 'labels': {'name': '3.0.0'}}
+{'issuenumber': 306, 'title': 'keep native Promise object in v0.11.13 by avoiding Promise as the require variable?', 'state': 'closed', 'created_at': '2014-08-27T15:58:54Z', 'closed_at': '2014-08-27T16:04:38Z', 'labels': []}
+{'issuenumber': 305, 'title': '[Feature] Promise.series', 'state': 'closed', 'created_at': '2014-08-26T15:51:07Z', 'closed_at': '2014-08-26T16:31:41Z', 'labels': []}
+{'issuenumber': 304, 'title': 'Typescript support', 'state': 'closed', 'created_at': '2014-08-26T08:47:51Z', 'closed_at': '2014-08-26T13:10:44Z', 'labels': []}
+{'issuenumber': 302, 'title': 'PromisifyAll option for no error in callbacks', 'state': 'closed', 'created_at': '2014-08-25T15:12:51Z', 'closed_at': '2014-08-26T09:19:16Z', 'labels': []}
+{'issuenumber': 301, 'title': '"Promise" is now a global - Breaks linting', 'state': 'closed', 'created_at': '2014-08-25T10:09:58Z', 'closed_at': '2014-08-27T12:19:39Z', 'labels': []}
+{'issuenumber': 299, 'title': 'Promise returning array', 'state': 'closed', 'created_at': '2014-08-20T09:43:17Z', 'closed_at': '2014-08-20T10:02:54Z', 'labels': []}
+{'issuenumber': 296, 'title': 'Potential memory leak', 'state': 'closed', 'created_at': '2014-08-19T18:28:49Z', 'closed_at': '2014-08-20T08:48:24Z', 'labels': []}
+{'issuenumber': 293, 'title': 'Document using better', 'state': 'closed', 'created_at': '2014-08-19T10:54:23Z', 'closed_at': '2014-12-18T17:19:06Z', 'labels': []}
+{'issuenumber': 291, 'title': "TypeError: Cannot assign to read only property 'length' of Error", 'state': 'closed', 'created_at': '2014-08-18T04:32:58Z', 'closed_at': '2014-08-18T08:16:17Z', 'labels': []}
+{'issuenumber': 288, 'title': 'Request: A "hitch" method', 'state': 'closed', 'created_at': '2014-08-16T20:01:40Z', 'closed_at': '2014-08-18T13:11:09Z', 'labels': []}
+{'issuenumber': 287, 'title': 'Request: Apply arguments on .bind()', 'state': 'closed', 'created_at': '2014-08-15T17:17:08Z', 'closed_at': '2014-10-21T05:52:12Z', 'labels': []}
+{'issuenumber': 285, 'title': 'Applying arguments prevents the function from being optimized', 'state': 'closed', 'created_at': '2014-08-13T21:29:23Z', 'closed_at': '2014-10-25T12:46:59Z', 'labels': []}
+{'issuenumber': 284, 'title': 'Promisification not working on exports.moduleName', 'state': 'closed', 'created_at': '2014-08-13T05:25:28Z', 'closed_at': '2014-08-13T10:44:44Z', 'labels': []}
+{'issuenumber': 282, 'title': "new Promise(resolve, reject) doesn't recognize non-bluebird thenable ", 'state': 'closed', 'created_at': '2014-08-09T22:23:53Z', 'closed_at': '2014-08-10T00:37:57Z', 'labels': []}
+{'issuenumber': 281, 'title': "Cannot read  property 'domain' of undefined", 'state': 'closed', 'created_at': '2014-08-09T11:51:33Z', 'closed_at': '2014-08-10T11:01:59Z', 'labels': []}
+{'issuenumber': 280, 'title': 'Cancellation in a nested promise?', 'state': 'closed', 'created_at': '2014-08-09T10:27:29Z', 'closed_at': '2014-08-11T11:18:41Z', 'labels': []}
+{'issuenumber': 279, 'title': 'promisification method-name suffix ... ', 'state': 'closed', 'created_at': '2014-08-08T13:31:08Z', 'closed_at': '2014-08-08T13:42:07Z', 'labels': []}
+{'issuenumber': 278, 'title': 'Releases lack a minified build', 'state': 'closed', 'created_at': '2014-08-07T02:00:17Z', 'closed_at': '2014-08-09T22:04:10Z', 'labels': []}
+{'issuenumber': 276, 'title': 'Strange behaviour with error reporting using mocha and bluebird', 'state': 'closed', 'created_at': '2014-08-04T16:46:34Z', 'closed_at': '2014-08-11T20:46:22Z', 'labels': []}
+{'issuenumber': 275, 'title': 'multiple arguments for .return()', 'state': 'closed', 'created_at': '2014-08-03T19:40:53Z', 'closed_at': '2014-08-11T20:56:09Z', 'labels': []}
+{'issuenumber': 274, 'title': 'Cancel reason defaults to CancellationError', 'state': 'closed', 'created_at': '2014-08-01T09:48:04Z', 'closed_at': '2014-08-01T11:23:45Z', 'labels': []}
+{'issuenumber': 272, 'title': 'disable custom bluebird error wrappers like OperationalError', 'state': 'closed', 'created_at': '2014-07-31T21:27:24Z', 'closed_at': '2014-08-19T09:40:58Z', 'labels': []}
+{'issuenumber': 271, 'title': 'Alternative use of MutationObserver in schedule?', 'state': 'closed', 'created_at': '2014-07-30T15:02:51Z', 'closed_at': '2014-08-11T21:00:34Z', 'labels': []}
+{'issuenumber': 270, 'title': 'Cryptic .promisify error', 'state': 'closed', 'created_at': '2014-07-29T16:06:28Z', 'closed_at': '2014-10-25T12:39:55Z', 'labels': []}
+{'issuenumber': 268, 'title': 'Using Q Promises in bluebirdjs', 'state': 'closed', 'created_at': '2014-07-20T01:51:03Z', 'closed_at': '2014-07-20T10:44:51Z', 'labels': []}
+{'issuenumber': 266, 'title': 'Error is not thrown when running inside Mocha test', 'state': 'closed', 'created_at': '2014-07-18T03:15:55Z', 'closed_at': '2014-07-18T16:04:37Z', 'labels': []}
+{'issuenumber': 265, 'title': '.error does not work properly', 'state': 'closed', 'created_at': '2014-07-15T19:02:44Z', 'closed_at': '2014-07-15T19:04:13Z', 'labels': []}
+{'issuenumber': 264, 'title': 'Okay to return promise from disposer?', 'state': 'closed', 'created_at': '2014-07-15T12:57:52Z', 'closed_at': '2014-10-25T12:39:36Z', 'labels': []}
+{'issuenumber': 263, 'title': 'Strange arguments being passed to promisified function', 'state': 'closed', 'created_at': '2014-07-15T00:36:07Z', 'closed_at': '2014-07-15T09:59:51Z', 'labels': []}
+{'issuenumber': 262, 'title': 'promise.all({})', 'state': 'closed', 'created_at': '2014-07-12T15:45:13Z', 'closed_at': '2014-07-12T15:49:46Z', 'labels': []}
+{'issuenumber': 261, 'title': 'Map performance', 'state': 'closed', 'created_at': '2014-07-10T19:29:20Z', 'closed_at': '2014-12-20T23:03:17Z', 'labels': []}
+{'issuenumber': 260, 'title': 'Promise.using() bug', 'state': 'closed', 'created_at': '2014-07-10T10:20:04Z', 'closed_at': '2014-07-30T20:13:12Z', 'labels': []}
+{'issuenumber': 259, 'title': 'IE8 Error. Plain bluebird.js; nothing else.', 'state': 'closed', 'created_at': '2014-07-08T18:36:33Z', 'closed_at': '2014-07-14T20:58:10Z', 'labels': []}
+{'issuenumber': 258, 'title': 'Random failing of Promise.all and Promise.any', 'state': 'closed', 'created_at': '2014-07-08T04:41:51Z', 'closed_at': '2014-12-18T17:29:48Z', 'labels': []}
+{'issuenumber': 257, 'title': 'Cancel or expire a resolved promise', 'state': 'closed', 'created_at': '2014-07-07T17:10:29Z', 'closed_at': '2014-07-07T21:51:20Z', 'labels': []}
+{'issuenumber': 256, 'title': 'Multiline errors are being "eaten" on console', 'state': 'closed', 'created_at': '2014-07-07T10:23:34Z', 'closed_at': '2014-07-07T11:00:56Z', 'labels': []}
+{'issuenumber': 255, 'title': 'Feature Request —\xa0Promise.bind(promise)', 'state': 'closed', 'created_at': '2014-07-07T02:06:36Z', 'closed_at': '2014-08-14T09:13:43Z', 'labels': []}
+{'issuenumber': 254, 'title': 'Partial builds with NPM package?', 'state': 'closed', 'created_at': '2014-07-06T23:26:32Z', 'closed_at': '2016-08-24T12:26:07Z', 'labels': []}
+{'issuenumber': 252, 'title': 'Promise.reduce resolve itself immedicately if the first call returns a value', 'state': 'closed', 'created_at': '2014-07-02T06:37:07Z', 'closed_at': '2014-07-02T08:34:14Z', 'labels': []}
+{'issuenumber': 251, 'title': 'promisfy pg javascript vs. native bindings', 'state': 'closed', 'created_at': '2014-07-02T02:34:35Z', 'closed_at': '2014-07-07T11:05:25Z', 'labels': []}
+{'issuenumber': 242, 'title': 'Promise.reduce running randomly in one case', 'state': 'closed', 'created_at': '2014-06-25T02:44:16Z', 'closed_at': '2014-07-07T11:04:47Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 241, 'title': 'Mongoose promisification.', 'state': 'closed', 'created_at': '2014-06-23T10:06:24Z', 'closed_at': '2014-06-23T13:43:46Z', 'labels': []}
+{'issuenumber': 240, 'title': '.then(Promise.resolve) on non-trusted Promises is missing functions', 'state': 'closed', 'created_at': '2014-06-20T21:39:17Z', 'closed_at': '2014-06-20T21:51:11Z', 'labels': []}
+{'issuenumber': 239, 'title': 'Error, sorry…', 'state': 'closed', 'created_at': '2014-06-20T14:50:16Z', 'closed_at': '2014-06-20T14:55:31Z', 'labels': []}
+{'issuenumber': 236, 'title': 'Can not yield an array within .coroutine', 'state': 'closed', 'created_at': '2014-06-18T03:32:08Z', 'closed_at': '2014-06-18T08:18:59Z', 'labels': []}
+{'issuenumber': 235, 'title': 'Implicit Promise.all() resolves promise too eagerly.', 'state': 'closed', 'created_at': '2014-06-18T00:36:56Z', 'closed_at': '2014-06-18T19:39:17Z', 'labels': []}
+{'issuenumber': 234, 'title': 'Browser version not in NPM now?', 'state': 'closed', 'created_at': '2014-06-17T02:18:40Z', 'closed_at': '2014-06-18T19:42:57Z', 'labels': []}
+{'issuenumber': 233, 'title': 'Promise.some/any on an array that is too short', 'state': 'closed', 'created_at': '2014-06-16T11:11:36Z', 'closed_at': '2014-07-07T10:33:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 231, 'title': 'Add file/line number to deprecation notice', 'state': 'closed', 'created_at': '2014-06-14T23:50:36Z', 'closed_at': '2014-06-15T00:40:59Z', 'labels': []}
+{'issuenumber': 230, 'title': '2.1.0 NPM package has no code!', 'state': 'closed', 'created_at': '2014-06-11T18:24:08Z', 'closed_at': '2014-06-11T18:25:17Z', 'labels': []}
+{'issuenumber': 229, 'title': '2.1.0 on NPM only appears to contain 3 files', 'state': 'closed', 'created_at': '2014-06-11T18:23:40Z', 'closed_at': '2014-06-11T19:27:52Z', 'labels': []}
+{'issuenumber': 227, 'title': "TypeError: Object #<Object> has no method '_rejectUnchecked'", 'state': 'closed', 'created_at': '2014-06-08T20:14:23Z', 'closed_at': '2014-06-08T20:57:36Z', 'labels': []}
+{'issuenumber': 226, 'title': 'promisify behaviour lacks consistency', 'state': 'closed', 'created_at': '2014-06-07T23:32:14Z', 'closed_at': '2014-06-08T09:43:51Z', 'labels': []}
+{'issuenumber': 225, 'title': 'Promise.promisify fails on fs.createReadStream', 'state': 'closed', 'created_at': '2014-06-05T16:43:03Z', 'closed_at': '2014-06-05T16:48:05Z', 'labels': []}
+{'issuenumber': 223, 'title': 'Component support', 'state': 'closed', 'created_at': '2014-06-04T18:48:06Z', 'closed_at': '2014-06-07T09:27:27Z', 'labels': []}
+{'issuenumber': 222, 'title': 'NPM 2.0.1 is broken.', 'state': 'closed', 'created_at': '2014-06-04T18:11:14Z', 'closed_at': '2014-06-04T19:00:48Z', 'labels': []}
+{'issuenumber': 219, 'title': 'Should nodeify handle additional parameters for callbacks', 'state': 'closed', 'created_at': '2014-05-29T22:04:48Z', 'closed_at': '2014-05-31T07:00:06Z', 'labels': []}
+{'issuenumber': 217, 'title': 'es6 polyfill?', 'state': 'closed', 'created_at': '2014-05-28T07:08:48Z', 'closed_at': '2014-10-25T12:45:29Z', 'labels': []}
+{'issuenumber': 216, 'title': 'Possibly unhandled TypeError: string is not a function when script is required', 'state': 'closed', 'created_at': '2014-05-27T01:39:58Z', 'closed_at': '2014-05-27T01:50:02Z', 'labels': []}
+{'issuenumber': 215, 'title': 'Documentation for .progress has irrelevant code snippet', 'state': 'closed', 'created_at': '2014-05-26T14:49:42Z', 'closed_at': '2014-05-26T15:10:28Z', 'labels': []}
+{'issuenumber': 214, 'title': 'Missing comma causes a weird function call', 'state': 'closed', 'created_at': '2014-05-25T01:40:06Z', 'closed_at': '2014-05-25T02:30:13Z', 'labels': []}
+{'issuenumber': 212, 'title': 'How to define a default catch for a promise chain?', 'state': 'closed', 'created_at': '2014-05-24T13:13:04Z', 'closed_at': '2014-05-24T18:41:48Z', 'labels': []}
+{'issuenumber': 211, 'title': 'undefined error', 'state': 'closed', 'created_at': '2014-05-23T17:01:27Z', 'closed_at': '2014-05-23T23:04:47Z', 'labels': []}
+{'issuenumber': 210, 'title': 'Inconsistent naming between .resolve() and .fulfilled()', 'state': 'closed', 'created_at': '2014-05-22T18:45:05Z', 'closed_at': '2014-05-24T14:42:41Z', 'labels': []}
+{'issuenumber': 207, 'title': '"unfold" or similar "loop" methods', 'state': 'closed', 'created_at': '2014-05-15T18:54:05Z', 'closed_at': '2014-05-18T10:35:59Z', 'labels': []}
+{'issuenumber': 206, 'title': 'Promise.try().catch does not catch throws inside setTimeout', 'state': 'closed', 'created_at': '2014-05-14T14:56:43Z', 'closed_at': '2014-05-14T15:18:42Z', 'labels': []}
+{'issuenumber': 205, 'title': 'Unhandled Error when using any', 'state': 'closed', 'created_at': '2014-05-12T21:14:16Z', 'closed_at': '2014-05-13T07:30:16Z', 'labels': []}
+{'issuenumber': 203, 'title': '"Optimizaton Killers" is misleading.', 'state': 'closed', 'created_at': '2014-05-10T21:45:14Z', 'closed_at': '2014-05-22T06:59:20Z', 'labels': []}
+{'issuenumber': 202, 'title': 'Error with 1.2.4 and Node.js', 'state': 'closed', 'created_at': '2014-05-10T03:49:58Z', 'closed_at': '2014-05-10T12:37:22Z', 'labels': []}
+{'issuenumber': 201, 'title': 'moving utility methods into a separate library?', 'state': 'closed', 'created_at': '2014-05-09T18:04:18Z', 'closed_at': '2014-05-09T18:59:57Z', 'labels': []}
+{'issuenumber': 200, 'title': 'promisifyAll modifies source object', 'state': 'closed', 'created_at': '2014-05-06T21:46:16Z', 'closed_at': '2014-05-07T07:37:23Z', 'labels': []}
+{'issuenumber': 199, 'title': 'Very odd promise rejection crash', 'state': 'closed', 'created_at': '2014-05-06T17:28:24Z', 'closed_at': '2014-05-06T19:56:43Z', 'labels': []}
+{'issuenumber': 196, 'title': "Using bluebird to promisify Node's http.request?", 'state': 'closed', 'created_at': '2014-05-04T14:39:05Z', 'closed_at': '2014-05-05T14:49:12Z', 'labels': []}
+{'issuenumber': 195, 'title': 'Using Promise.promisify with multiple failure arguments?', 'state': 'closed', 'created_at': '2014-05-03T16:43:57Z', 'closed_at': '2014-05-05T14:49:19Z', 'labels': []}
+{'issuenumber': 194, 'title': "Multiple 'Possibly unhandled Error:'", 'state': 'closed', 'created_at': '2014-05-02T19:08:33Z', 'closed_at': '2014-05-02T20:39:58Z', 'labels': []}
+{'issuenumber': 193, 'title': '[non-issue] breakpoints and short call stacks', 'state': 'closed', 'created_at': '2014-04-30T22:10:59Z', 'closed_at': '2014-05-22T06:58:31Z', 'labels': []}
+{'issuenumber': 192, 'title': 'Promise.coroutine() progress callback', 'state': 'closed', 'created_at': '2014-04-30T00:06:30Z', 'closed_at': '2014-05-22T06:58:19Z', 'labels': []}
+{'issuenumber': 191, 'title': 'Why was 1.2.1 was removed from npm registry?', 'state': 'closed', 'created_at': '2014-04-29T14:30:48Z', 'closed_at': '2014-04-29T15:22:05Z', 'labels': []}
+{'issuenumber': 190, 'title': 'Allow swapping of scheduler.', 'state': 'closed', 'created_at': '2014-04-29T12:57:39Z', 'closed_at': '2014-05-22T06:58:07Z', 'labels': []}
+{'issuenumber': 185, 'title': 'calling reject and RejectionError', 'state': 'closed', 'created_at': '2014-04-21T19:03:39Z', 'closed_at': '2014-05-22T06:57:55Z', 'labels': []}
+{'issuenumber': 183, 'title': 'Help using Bluebird to promisify this library', 'state': 'closed', 'created_at': '2014-04-20T21:24:17Z', 'closed_at': '2014-04-21T18:44:14Z', 'labels': []}
+{'issuenumber': 182, 'title': 'Fix global', 'state': 'closed', 'created_at': '2014-04-19T12:27:28Z', 'closed_at': '2014-04-19T12:48:15Z', 'labels': []}
+{'issuenumber': 179, 'title': "WebWorker : Uncaught TypeError: Cannot read property 'MutationObserver' of undefined ", 'state': 'closed', 'created_at': '2014-04-17T19:05:07Z', 'closed_at': '2014-04-17T20:25:04Z', 'labels': []}
+{'issuenumber': 178, 'title': '[question] How to handle chained methods', 'state': 'closed', 'created_at': '2014-04-17T18:11:07Z', 'closed_at': '2014-04-23T09:13:32Z', 'labels': []}
+{'issuenumber': 177, 'title': 'Adding promise.method', 'state': 'closed', 'created_at': '2014-04-17T13:19:12Z', 'closed_at': '2014-04-23T09:15:36Z', 'labels': []}
+{'issuenumber': 176, 'title': 'Bower.json not updated', 'state': 'closed', 'created_at': '2014-04-14T08:21:46Z', 'closed_at': '2014-04-21T18:24:31Z', 'labels': []}
+{'issuenumber': 170, 'title': 'Promise#nodeify should not pass `undefined` as an explicit argument to a Node.js continuation callback', 'state': 'closed', 'created_at': '2014-04-08T23:51:54Z', 'closed_at': '2014-04-10T10:32:02Z', 'labels': []}
+{'issuenumber': 169, 'title': 'Handling error in nested Promise', 'state': 'closed', 'created_at': '2014-04-08T14:56:43Z', 'closed_at': '2014-04-09T11:52:18Z', 'labels': []}
+{'issuenumber': 168, 'title': "1.2.0: .nodeify doesn't return a promise", 'state': 'closed', 'created_at': '2014-03-31T14:55:24Z', 'closed_at': '2014-03-31T14:56:46Z', 'labels': []}
+{'issuenumber': 167, 'title': 'Waiting for map/reduce', 'state': 'closed', 'created_at': '2014-03-29T19:55:33Z', 'closed_at': '2014-04-23T09:13:51Z', 'labels': []}
+{'issuenumber': 166, 'title': 'Canceling a reduction', 'state': 'closed', 'created_at': '2014-03-27T21:59:10Z', 'closed_at': '2014-03-29T08:06:54Z', 'labels': []}
+{'issuenumber': 164, 'title': 'Synchronous rejections are not handled?', 'state': 'closed', 'created_at': '2014-03-27T16:09:33Z', 'closed_at': '2014-03-27T16:27:20Z', 'labels': []}
+{'issuenumber': 161, 'title': 'Add gzipped minified file size to README', 'state': 'closed', 'created_at': '2014-03-25T11:08:00Z', 'closed_at': '2014-03-25T12:53:18Z', 'labels': []}
+{'issuenumber': 160, 'title': "Promise.done() doesn't return a promise, docs say it should.", 'state': 'closed', 'created_at': '2014-03-22T17:43:01Z', 'closed_at': '2014-03-23T09:46:26Z', 'labels': []}
+{'issuenumber': 159, 'title': 'Idempotent promisify', 'state': 'closed', 'created_at': '2014-03-21T23:36:29Z', 'closed_at': '2014-03-27T18:18:04Z', 'labels': []}
+{'issuenumber': 158, 'title': 'nodeify as a property of Promise, not of its prototype', 'state': 'closed', 'created_at': '2014-03-21T23:04:38Z', 'closed_at': '2014-03-29T15:11:00Z', 'labels': []}
+{'issuenumber': 156, 'title': 'Promise is fullfilled on error', 'state': 'closed', 'created_at': '2014-03-19T19:01:49Z', 'closed_at': '2014-03-19T22:16:06Z', 'labels': []}
+{'issuenumber': 151, 'title': 'Unintuitive error handling', 'state': 'closed', 'created_at': '2014-03-18T17:54:52Z', 'closed_at': '2014-03-18T21:03:16Z', 'labels': []}
+{'issuenumber': 150, 'title': ".cancel() doesn't call cancelled Promise's .finally()", 'state': 'closed', 'created_at': '2014-03-18T07:40:27Z', 'closed_at': '2014-03-18T08:19:08Z', 'labels': []}
+{'issuenumber': 148, 'title': "error domain's don't always capture exceptions thrown from onPossiblyUnhandledRejection", 'state': 'closed', 'created_at': '2014-03-17T20:21:36Z', 'closed_at': '2014-03-18T20:45:58Z', 'labels': []}
+{'issuenumber': 147, 'title': 'Support limiting asynchronous collection functions (i.e., mapLimit and allLimit)', 'state': 'closed', 'created_at': '2014-03-17T18:28:32Z', 'closed_at': '2014-03-17T19:46:30Z', 'labels': []}
+{'issuenumber': 146, 'title': 'new Promise() resolver should take a 3rd arg for progression', 'state': 'closed', 'created_at': '2014-03-16T02:32:53Z', 'closed_at': '2014-03-17T01:38:14Z', 'labels': []}
+{'issuenumber': 144, 'title': 'Promise.reject(reason) often fires and ignores exceptions -- not debug friendly', 'state': 'closed', 'created_at': '2014-03-14T18:15:04Z', 'closed_at': '2014-03-14T18:40:42Z', 'labels': []}
+{'issuenumber': 143, 'title': "`new Promise` doesn't have any way to do promise progression", 'state': 'closed', 'created_at': '2014-03-14T14:38:33Z', 'closed_at': '2014-03-14T14:45:04Z', 'labels': []}
+{'issuenumber': 142, 'title': "Promise.all() doesn't allow for handling exceptions.", 'state': 'closed', 'created_at': '2014-03-14T05:49:09Z', 'closed_at': '2014-03-14T11:43:19Z', 'labels': []}
+{'issuenumber': 141, 'title': "'Maximum call stack size exceeded'", 'state': 'closed', 'created_at': '2014-03-13T05:07:04Z', 'closed_at': '2014-03-16T02:11:22Z', 'labels': []}
+{'issuenumber': 139, 'title': "How would you promisify a node function which doesn't return a callback?", 'state': 'closed', 'created_at': '2014-03-11T16:41:21Z', 'closed_at': '2014-03-11T16:48:10Z', 'labels': []}
+{'issuenumber': 138, 'title': 'PromiseArray rejection handler only handles one rejected promise', 'state': 'closed', 'created_at': '2014-03-11T01:56:19Z', 'closed_at': '2014-03-11T08:02:09Z', 'labels': []}
+{'issuenumber': 137, 'title': 'how to make a single "protect" handler?', 'state': 'closed', 'created_at': '2014-03-09T07:09:58Z', 'closed_at': '2014-03-09T09:49:40Z', 'labels': []}
+{'issuenumber': 136, 'title': 'same code on node and the browser gives different outputs', 'state': 'closed', 'created_at': '2014-03-08T22:31:03Z', 'closed_at': '2014-03-08T22:45:43Z', 'labels': []}
+{'issuenumber': 135, 'title': 'PromiseArray unhandled rejection behavior depends on if pending?', 'state': 'closed', 'created_at': '2014-03-07T22:23:15Z', 'closed_at': '2014-03-08T10:00:42Z', 'labels': []}
+{'issuenumber': 134, 'title': 'Implement Promise.series', 'state': 'closed', 'created_at': '2014-03-07T00:31:22Z', 'closed_at': '2016-07-08T23:42:10Z', 'labels': []}
+{'issuenumber': 133, 'title': 'Issues using bluebird with webpack', 'state': 'closed', 'created_at': '2014-03-07T00:05:48Z', 'closed_at': '2014-03-07T00:15:17Z', 'labels': []}
+{'issuenumber': 132, 'title': 'Silent rejection', 'state': 'closed', 'created_at': '2014-03-04T20:51:04Z', 'closed_at': '2014-03-08T10:50:14Z', 'labels': []}
+{'issuenumber': 131, 'title': 'Allow custom awaiters', 'state': 'closed', 'created_at': '2014-03-04T17:06:58Z', 'closed_at': '2014-03-08T10:01:53Z', 'labels': []}
+{'issuenumber': 128, 'title': 'Missing implicit Promise.all() on arrays returned from generators', 'state': 'closed', 'created_at': '2014-03-04T02:49:06Z', 'closed_at': '2014-03-04T05:17:03Z', 'labels': []}
+{'issuenumber': 126, 'title': 'Promise.method will generate an Unhandled Error when Promise returned in Node', 'state': 'closed', 'created_at': '2014-03-02T02:25:34Z', 'closed_at': '2014-03-02T03:02:45Z', 'labels': []}
+{'issuenumber': 125, 'title': 'Resolver.resolve not bound to instance?', 'state': 'closed', 'created_at': '2014-03-01T19:08:49Z', 'closed_at': '2014-03-01T20:31:19Z', 'labels': []}
+{'issuenumber': 122, 'title': '`error` handler not called in `Promise.reject(a).error(f)`', 'state': 'closed', 'created_at': '2014-02-27T12:33:16Z', 'closed_at': '2014-03-02T17:30:41Z', 'labels': []}
+{'issuenumber': 119, 'title': 'How to implement throttling?', 'state': 'closed', 'created_at': '2014-02-20T15:44:24Z', 'closed_at': '2014-02-20T16:31:18Z', 'labels': []}
+{'issuenumber': 118, 'title': 'Despite an error handler being attached and executed, Bluebird still considers the possibility of the error being "unhandled".', 'state': 'closed', 'created_at': '2014-02-18T16:38:37Z', 'closed_at': '2014-03-02T17:31:31Z', 'labels': []}
+{'issuenumber': 117, 'title': 'Document a compatibility path for cancellable promises', 'state': 'closed', 'created_at': '2014-02-18T09:34:52Z', 'closed_at': '2014-03-02T20:27:38Z', 'labels': []}
+{'issuenumber': 116, 'title': 'Promise.tap', 'state': 'closed', 'created_at': '2014-02-18T06:45:45Z', 'closed_at': '2014-03-08T10:02:05Z', 'labels': []}
+{'issuenumber': 115, 'title': 'parallel or serial?', 'state': 'closed', 'created_at': '2014-02-16T19:48:56Z', 'closed_at': '2014-02-17T20:27:43Z', 'labels': []}
+{'issuenumber': 113, 'title': 'Promises & errors', 'state': 'closed', 'created_at': '2014-02-15T13:06:56Z', 'closed_at': '2014-02-15T16:12:58Z', 'labels': []}
+{'issuenumber': 112, 'title': 'Promisify vs PromisifyAll', 'state': 'closed', 'created_at': '2014-02-14T20:31:27Z', 'closed_at': '2014-02-14T21:28:04Z', 'labels': []}
+{'issuenumber': 111, 'title': 'Promisified functions should take advantage of function length', 'state': 'closed', 'created_at': '2014-02-14T07:24:41Z', 'closed_at': '2014-02-15T13:03:51Z', 'labels': []}
+{'issuenumber': 110, 'title': 'Implement callback resume method in Promise.spawn and Promise.coroutine', 'state': 'closed', 'created_at': '2014-02-12T14:12:16Z', 'closed_at': '2014-03-08T10:02:29Z', 'labels': []}
+{'issuenumber': 109, 'title': 'Promise.seq() - like Promise.all() but sequential', 'state': 'closed', 'created_at': '2014-02-12T01:48:36Z', 'closed_at': '2014-02-12T05:52:12Z', 'labels': []}
+{'issuenumber': 108, 'title': '.map method not available in browser?', 'state': 'closed', 'created_at': '2014-02-11T20:54:57Z', 'closed_at': '2014-02-12T07:27:27Z', 'labels': []}
+{'issuenumber': 106, 'title': 'Expand Promise.is or rename', 'state': 'closed', 'created_at': '2014-02-10T14:26:32Z', 'closed_at': '2014-02-12T07:29:29Z', 'labels': []}
+{'issuenumber': 105, 'title': 'failing continuous build?', 'state': 'closed', 'created_at': '2014-02-08T21:29:49Z', 'closed_at': '2014-02-08T21:38:10Z', 'labels': []}
+{'issuenumber': 103, 'title': 'ES6 promises', 'state': 'closed', 'created_at': '2014-02-07T07:54:51Z', 'closed_at': '2014-02-07T08:44:08Z', 'labels': []}
+{'issuenumber': 102, 'title': 'Link errors to pages explaining possible causes and resolutions', 'state': 'closed', 'created_at': '2014-02-07T00:07:28Z', 'closed_at': '2014-12-20T23:41:59Z', 'labels': []}
+{'issuenumber': 100, 'title': 'Promise does not show possibly unhandled rejections when a primitive is thrown.', 'state': 'closed', 'created_at': '2014-02-06T10:40:34Z', 'closed_at': '2014-02-09T09:37:31Z', 'labels': []}
+{'issuenumber': 97, 'title': 'Promise.reduce should look at arguments.length', 'state': 'closed', 'created_at': '2014-02-06T05:14:23Z', 'closed_at': '2014-02-06T08:50:43Z', 'labels': []}
+{'issuenumber': 96, 'title': 'Add Promise.guard()', 'state': 'closed', 'created_at': '2014-02-06T05:12:16Z', 'closed_at': '2014-02-06T14:14:31Z', 'labels': []}
+{'issuenumber': 93, 'title': 'Breaking change in 1.0.2?', 'state': 'closed', 'created_at': '2014-02-05T14:27:23Z', 'closed_at': '2014-02-05T18:31:52Z', 'labels': []}
+{'issuenumber': 92, 'title': 'Question about bind() before collection (e.g. all())', 'state': 'closed', 'created_at': '2014-02-05T13:23:49Z', 'closed_at': '2014-02-05T14:16:50Z', 'labels': []}
+{'issuenumber': 91, 'title': 'Allow to report progress without using deferreds', 'state': 'closed', 'created_at': '2014-02-04T19:02:41Z', 'closed_at': '2014-02-04T19:13:45Z', 'labels': []}
+{'issuenumber': 89, 'title': 'Namespace collision on Chrome', 'state': 'closed', 'created_at': '2014-02-03T19:28:14Z', 'closed_at': '2014-02-03T19:35:06Z', 'labels': []}
+{'issuenumber': 88, 'title': "Promise.cast doesn't translate jQuery “progress”", 'state': 'closed', 'created_at': '2014-02-03T19:06:15Z', 'closed_at': '2014-02-04T18:45:59Z', 'labels': []}
+{'issuenumber': 85, 'title': 'README.md typo', 'state': 'closed', 'created_at': '2014-01-30T16:25:13Z', 'closed_at': '2014-01-30T20:00:18Z', 'labels': []}
+{'issuenumber': 84, 'title': "Promise.RejectionError doesn't catch pure Error", 'state': 'closed', 'created_at': '2014-01-29T22:00:42Z', 'closed_at': '2014-01-30T05:46:09Z', 'labels': []}
+{'issuenumber': 83, 'title': 'Chaining progress values from previous promises', 'state': 'closed', 'created_at': '2014-01-28T18:43:15Z', 'closed_at': '2014-01-29T12:47:46Z', 'labels': []}
+{'issuenumber': 82, 'title': 'Promise progress handlers firing in wrong order on a settled promise', 'state': 'closed', 'created_at': '2014-01-28T17:29:27Z', 'closed_at': '2014-01-28T18:11:00Z', 'labels': []}
+{'issuenumber': 81, 'title': "Possibly unhandled TypeError: Cannot set property 'message' of undefined  at SubError", 'state': 'closed', 'created_at': '2014-01-28T11:37:42Z', 'closed_at': '2014-01-28T12:03:23Z', 'labels': []}
+{'issuenumber': 80, 'title': 'Bind the context of defer object methods', 'state': 'closed', 'created_at': '2014-01-27T19:11:55Z', 'closed_at': '2014-01-28T05:36:23Z', 'labels': []}
+{'issuenumber': 79, 'title': 'Best way to use onPossiblyUnhandledRejection', 'state': 'closed', 'created_at': '2014-01-27T06:44:59Z', 'closed_at': '2014-01-28T12:52:45Z', 'labels': []}
+{'issuenumber': 78, 'title': 'Complete promisification of functions/methods', 'state': 'closed', 'created_at': '2014-01-26T00:07:45Z', 'closed_at': '2014-01-28T05:45:13Z', 'labels': []}
+{'issuenumber': 72, 'title': 'Promises with new Operator', 'state': 'closed', 'created_at': '2014-01-14T18:27:34Z', 'closed_at': '2014-01-15T01:48:36Z', 'labels': []}
+{'issuenumber': 71, 'title': 'Mention "Promise returning functions should not throw." in the docs.', 'state': 'closed', 'created_at': '2014-01-14T16:29:45Z', 'closed_at': '2014-01-14T17:16:08Z', 'labels': []}
+{'issuenumber': 70, 'title': 'sequence', 'state': 'closed', 'created_at': '2014-01-14T06:15:10Z', 'closed_at': '2014-01-28T05:55:05Z', 'labels': []}
+{'issuenumber': 67, 'title': 'should `reject` be bound to its promise?', 'state': 'closed', 'created_at': '2014-01-13T19:45:04Z', 'closed_at': '2014-01-14T01:32:30Z', 'labels': []}
+{'issuenumber': 66, 'title': 'Promise.delay should allow numeric values that are not strictly integers', 'state': 'closed', 'created_at': '2014-01-13T18:28:08Z', 'closed_at': '2014-01-13T19:37:12Z', 'labels': []}
+{'issuenumber': 65, 'title': 'Implement Promise.using', 'state': 'closed', 'created_at': '2014-01-13T13:00:53Z', 'closed_at': '2014-04-23T09:14:01Z', 'labels': []}
+{'issuenumber': 64, 'title': 'Promises returned from generators are not resolved automatically', 'state': 'closed', 'created_at': '2014-01-11T08:52:34Z', 'closed_at': '2014-01-12T18:05:35Z', 'labels': {'name': '1.0'}}
+{'issuenumber': 63, 'title': 'How to migrate from Q.js?', 'state': 'closed', 'created_at': '2014-01-10T19:50:33Z', 'closed_at': '2014-12-21T16:58:56Z', 'labels': []}
+{'issuenumber': 62, 'title': 'Promise.coroutine() diverts exceptions', 'state': 'closed', 'created_at': '2014-01-10T12:34:22Z', 'closed_at': '2014-01-10T13:03:40Z', 'labels': []}
+{'issuenumber': 61, 'title': 'Naming standards', 'state': 'closed', 'created_at': '2014-01-09T13:57:05Z', 'closed_at': '2014-01-12T18:05:34Z', 'labels': {'name': '1.0'}}
+{'issuenumber': 60, 'title': 'Bower installing a very old version (0.3.0)', 'state': 'closed', 'created_at': '2014-01-08T01:38:55Z', 'closed_at': '2014-01-12T18:08:51Z', 'labels': {'name': '1.0'}}
+{'issuenumber': 58, 'title': '.error() catches all errors from external libs', 'state': 'closed', 'created_at': '2013-12-30T11:57:37Z', 'closed_at': '2014-01-12T18:05:34Z', 'labels': {'name': '1.0'}}
+{'issuenumber': 56, 'title': '"Object expected" in IE BHO', 'state': 'closed', 'created_at': '2013-12-29T08:47:59Z', 'closed_at': '2013-12-29T15:38:12Z', 'labels': []}
+{'issuenumber': 55, 'title': '`Promise.race` use case?', 'state': 'closed', 'created_at': '2013-12-25T14:23:28Z', 'closed_at': '2013-12-29T07:00:25Z', 'labels': []}
+{'issuenumber': 54, 'title': 'Differentiating between thrown errors and rejected reasons', 'state': 'closed', 'created_at': '2013-12-23T20:06:43Z', 'closed_at': '2013-12-23T23:35:57Z', 'labels': []}
+{'issuenumber': 53, 'title': 'Unclear error: TypeError: fn must be a function', 'state': 'closed', 'created_at': '2013-12-22T12:55:26Z', 'closed_at': '2013-12-22T15:18:31Z', 'labels': []}
+{'issuenumber': 52, 'title': 'Add receiver parameter for Promise.coroutine()', 'state': 'closed', 'created_at': '2013-12-22T12:01:17Z', 'closed_at': '2013-12-22T15:10:16Z', 'labels': []}
+{'issuenumber': 51, 'title': 'configurable error handling', 'state': 'closed', 'created_at': '2013-12-21T23:13:59Z', 'closed_at': '2013-12-23T19:49:36Z', 'labels': []}
+{'issuenumber': 50, 'title': 'monadic flatMap', 'state': 'closed', 'created_at': '2013-12-21T23:12:28Z', 'closed_at': '2013-12-23T20:02:25Z', 'labels': []}
+{'issuenumber': 49, 'title': 'add a method / document for Promise.RejectionError', 'state': 'closed', 'created_at': '2013-12-21T23:08:37Z', 'closed_at': '2013-12-23T20:01:46Z', 'labels': []}
+{'issuenumber': 45, 'title': 'nfcall, nfbind, nfapply ?', 'state': 'closed', 'created_at': '2013-12-14T20:26:20Z', 'closed_at': '2013-12-15T12:55:05Z', 'labels': []}
+{'issuenumber': 44, 'title': 'Cancel followed by Fulfill on same frame leads to Fulfillment', 'state': 'closed', 'created_at': '2013-12-12T17:24:08Z', 'closed_at': '2014-02-12T07:32:00Z', 'labels': []}
+{'issuenumber': 43, 'title': 'Update the browser build to the latest PR', 'state': 'closed', 'created_at': '2013-12-12T00:01:33Z', 'closed_at': '2013-12-15T12:23:32Z', 'labels': []}
+{'issuenumber': 42, 'title': 'interpreting `this` in .then()', 'state': 'closed', 'created_at': '2013-12-08T04:57:20Z', 'closed_at': '2013-12-09T06:49:25Z', 'labels': []}
+{'issuenumber': 41, 'title': 'Promise Constructor may be incompatible with inheritance', 'state': 'closed', 'created_at': '2013-12-05T05:04:58Z', 'closed_at': '2014-01-12T16:16:07Z', 'labels': []}
+{'issuenumber': 37, 'title': 'Add .timeout() to promise instances?', 'state': 'closed', 'created_at': '2013-12-01T10:52:53Z', 'closed_at': '2013-12-01T23:37:29Z', 'labels': []}
+{'issuenumber': 36, 'title': "Uncaught TypeError: Cannot read property '_fulfill' of undefined", 'state': 'closed', 'created_at': '2013-11-30T16:40:30Z', 'closed_at': '2013-12-01T02:07:03Z', 'labels': []}
+{'issuenumber': 35, 'title': "TypeError: Cannot call method 'call' of undefined", 'state': 'closed', 'created_at': '2013-11-30T16:01:57Z', 'closed_at': '2013-11-30T16:20:12Z', 'labels': []}
+{'issuenumber': 34, 'title': 'Random String not printing correctly', 'state': 'closed', 'created_at': '2013-11-29T12:49:07Z', 'closed_at': '2013-11-29T13:18:33Z', 'labels': []}
+{'issuenumber': 33, 'title': 'microbenchmark performance 100x slower', 'state': 'closed', 'created_at': '2013-11-28T13:20:48Z', 'closed_at': '2013-11-28T14:48:55Z', 'labels': []}
+{'issuenumber': 32, 'title': "Should reject when promise expected for collection doesn't resolve to a collection", 'state': 'closed', 'created_at': '2013-11-26T22:53:13Z', 'closed_at': '2013-11-27T14:54:33Z', 'labels': []}
+{'issuenumber': 31, 'title': 'How to wait for the promise is fulfilled?', 'state': 'closed', 'created_at': '2013-11-17T05:59:53Z', 'closed_at': '2013-11-17T10:07:04Z', 'labels': []}
+{'issuenumber': 30, 'title': 'Then is not called', 'state': 'closed', 'created_at': '2013-11-09T08:15:37Z', 'closed_at': '2013-11-09T08:22:04Z', 'labels': []}
+{'issuenumber': 28, 'title': ' jsPerf benchmark broke', 'state': 'closed', 'created_at': '2013-11-05T09:31:31Z', 'closed_at': '2013-11-05T09:44:15Z', 'labels': []}
+{'issuenumber': 27, 'title': 'Question: makeNodePromisifiedEval vs makeNodePromisifiedClosure', 'state': 'closed', 'created_at': '2013-11-05T08:45:35Z', 'closed_at': '2013-11-20T17:03:21Z', 'labels': []}
+{'issuenumber': 26, 'title': 'Promise.try returning a Promise.', 'state': 'closed', 'created_at': '2013-11-01T18:24:59Z', 'closed_at': '2013-11-03T09:42:39Z', 'labels': []}
+{'issuenumber': 24, 'title': 'Ability to get a fresh copy of the library', 'state': 'closed', 'created_at': '2013-10-26T21:31:13Z', 'closed_at': '2013-10-27T21:41:05Z', 'labels': []}
+{'issuenumber': 23, 'title': 'rejection turns into fulfillment', 'state': 'closed', 'created_at': '2013-10-22T22:57:59Z', 'closed_at': '2013-10-30T17:24:40Z', 'labels': []}
+{'issuenumber': 22, 'title': 'not using setImmediate on browsers that support it.', 'state': 'closed', 'created_at': '2013-10-22T22:45:18Z', 'closed_at': '2013-11-03T10:54:32Z', 'labels': []}
+{'issuenumber': 21, 'title': 'Use require and browserify', 'state': 'closed', 'created_at': '2013-10-21T09:18:25Z', 'closed_at': '2013-10-25T14:08:17Z', 'labels': []}
+{'issuenumber': 20, 'title': 'Nested map results in empty Array', 'state': 'closed', 'created_at': '2013-10-20T14:29:38Z', 'closed_at': '2013-10-20T21:16:14Z', 'labels': []}
+{'issuenumber': 17, 'title': 'Expose promise in rejection handler (needed to implement report-on-GC)', 'state': 'closed', 'created_at': '2013-10-18T00:28:34Z', 'closed_at': '2013-10-19T08:53:01Z', 'labels': []}
+{'issuenumber': 14, 'title': 'Unfiltered Function.Promise$Pending in longStackTrace', 'state': 'closed', 'created_at': '2013-10-14T20:59:23Z', 'closed_at': '2013-10-15T14:51:02Z', 'labels': []}
+{'issuenumber': 12, 'title': 'Promise.map and Promise.reduce', 'state': 'closed', 'created_at': '2013-10-11T21:24:24Z', 'closed_at': '2013-10-14T16:13:58Z', 'labels': {'name': '1.0'}}
+{'issuenumber': 11, 'title': 'Bluebird will not work in Chrome Apps / Extensions', 'state': 'closed', 'created_at': '2013-10-10T21:40:39Z', 'closed_at': '2013-11-20T17:03:10Z', 'labels': []}
+{'issuenumber': 10, 'title': 'Cannot use Promise.coroutine with Traceur compiled code', 'state': 'closed', 'created_at': '2013-10-08T19:09:05Z', 'closed_at': '2013-10-09T13:49:31Z', 'labels': []}
+{'issuenumber': 9, 'title': 'Stack traces of promisified function throwing asynchronous exception.', 'state': 'closed', 'created_at': '2013-10-08T12:01:26Z', 'closed_at': '2013-10-09T12:00:09Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 8, 'title': 'Pros/cons of promisifyAll() considering only enumerable own properties', 'state': 'closed', 'created_at': '2013-10-08T12:00:29Z', 'closed_at': '2013-10-08T15:13:31Z', 'labels': []}
+{'issuenumber': 7, 'title': "Promise.promisify() doesn't work with 'function-objects'", 'state': 'closed', 'created_at': '2013-10-07T19:46:34Z', 'closed_at': '2013-10-08T04:43:47Z', 'labels': []}
+{'issuenumber': 6, 'title': '[docs] A way to pass multiple arguments to the next function?', 'state': 'closed', 'created_at': '2013-10-06T10:26:13Z', 'closed_at': '2013-10-07T11:23:07Z', 'labels': []}
+{'issuenumber': 5, 'title': "Promise.promisify doesn't seem to work very well.", 'state': 'closed', 'created_at': '2013-10-05T09:58:51Z', 'closed_at': '2013-10-05T15:03:18Z', 'labels': []}
+{'issuenumber': 3, 'title': 'Browser support questions', 'state': 'closed', 'created_at': '2013-10-04T17:19:23Z', 'closed_at': '2013-10-07T11:47:34Z', 'labels': []}
+{'issuenumber': 1, 'title': 'Whoops, ./js/promise.js reference in package.json main field', 'state': 'closed', 'created_at': '2013-09-25T11:50:07Z', 'closed_at': '2013-09-25T12:21:53Z', 'labels': []}

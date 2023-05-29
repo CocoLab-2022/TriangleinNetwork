@@ -1,0 +1,881 @@
+{'issuenumber': 1363, 'title': 'config setting to disable md5 checksum on test files?', 'state': 'closed', 'created_at': '2015-03-26T11:48:52Z', 'closed_at': '2015-03-26T12:39:49Z', 'labels': []}
+{'issuenumber': 1362, 'title': 'PathTooLongException on windows because of node dependency directory tree', 'state': 'closed', 'created_at': '2015-03-26T09:59:23Z', 'closed_at': '2016-06-30T11:23:31Z', 'labels': {'name': 'windows'}}
+{'issuenumber': 1354, 'title': 'Fatal error: Line must be greater than or equal to 1, got 0', 'state': 'closed', 'created_at': '2015-03-17T14:14:49Z', 'closed_at': '2015-05-18T17:11:38Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 1351, 'title': 'command line I/F', 'state': 'closed', 'created_at': '2015-03-16T02:41:48Z', 'closed_at': '2015-05-29T18:06:05Z', 'labels': []}
+{'issuenumber': 1350, 'title': "Fatal error: Cannot call method 'ele' of null", 'state': 'closed', 'created_at': '2015-03-13T14:49:56Z', 'closed_at': '2015-06-03T19:27:33Z', 'labels': {'name': 'support'}}
+{'issuenumber': 1349, 'title': 'Jasmine installed, but Karma throws no provider error', 'state': 'closed', 'created_at': '2015-03-13T13:40:54Z', 'closed_at': '2015-05-28T16:41:27Z', 'labels': {'name': 'support'}}
+{'issuenumber': 1348, 'title': 'Middleware Proxy Broken with latest http-proxy', 'state': 'closed', 'created_at': '2015-03-12T21:16:06Z', 'closed_at': '2015-03-12T21:18:52Z', 'labels': []}
+{'issuenumber': 1343, 'title': 'Remove null characters from terminal output', 'state': 'closed', 'created_at': '2015-03-10T15:31:10Z', 'closed_at': '2016-01-28T13:32:57Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 1342, 'title': 'Karma canary version number not semver compatible', 'state': 'closed', 'created_at': '2015-03-10T15:09:05Z', 'closed_at': '2015-05-26T18:03:48Z', 'labels': {'name': 'type: refactor'}}
+{'issuenumber': 1340, 'title': 'List of patterns to preprocess are saved in a closure too early', 'state': 'closed', 'created_at': '2015-03-07T18:52:07Z', 'closed_at': '2015-06-04T08:34:19Z', 'labels': []}
+{'issuenumber': 1337, 'title': 'karma executable is not copied to ./node_modules/.bin directory', 'state': 'closed', 'created_at': '2015-03-06T09:13:52Z', 'closed_at': '2015-03-06T09:16:46Z', 'labels': []}
+{'issuenumber': 1336, 'title': 'Assist plugin developers by allowing "." to be a preprocessor / framework meaning "this node module"', 'state': 'closed', 'created_at': '2015-03-06T05:46:13Z', 'closed_at': '2015-03-06T08:05:11Z', 'labels': []}
+{'issuenumber': 1332, 'title': 'Karma fails to exit when run in xvfb under docker', 'state': 'closed', 'created_at': '2015-03-04T02:27:33Z', 'closed_at': '2015-04-05T06:16:55Z', 'labels': []}
+{'issuenumber': 1330, 'title': "Sometimes tests don't run", 'state': 'closed', 'created_at': '2015-03-02T18:53:59Z', 'closed_at': '2015-03-02T19:47:00Z', 'labels': []}
+{'issuenumber': 1328, 'title': 'Update Node.JS to the latest stable version (v0.12)', 'state': 'closed', 'created_at': '2015-02-27T16:01:01Z', 'closed_at': '2015-06-03T19:32:27Z', 'labels': {'name': 'needs: work'}}
+{'issuenumber': 1327, 'title': 'outdated lodash - improving performance', 'state': 'closed', 'created_at': '2015-02-27T10:58:29Z', 'closed_at': '2015-05-17T18:10:36Z', 'labels': []}
+{'issuenumber': 1325, 'title': 'Karma fails on startup', 'state': 'closed', 'created_at': '2015-02-24T14:29:01Z', 'closed_at': '2021-04-11T10:12:14Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1321, 'title': 'Parallel builds failing', 'state': 'closed', 'created_at': '2015-02-21T08:44:55Z', 'closed_at': '2018-07-06T19:57:30Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1316, 'title': 'Does not satisfy its siblings', 'state': 'closed', 'created_at': '2015-02-17T21:42:52Z', 'closed_at': '2015-02-23T13:32:33Z', 'labels': []}
+{'issuenumber': 1314, 'title': 'No stdout option', 'state': 'closed', 'created_at': '2015-02-17T06:49:28Z', 'closed_at': '2015-06-03T19:41:49Z', 'labels': []}
+{'issuenumber': 1308, 'title': "JQuery 2.1.1.js throws 'Unexpected identifier' exception", 'state': 'closed', 'created_at': '2015-02-10T22:37:19Z', 'closed_at': '2015-06-26T19:57:38Z', 'labels': {'name': 'support'}}
+{'issuenumber': 1307, 'title': 'Max number of browsers to launch at a time', 'state': 'closed', 'created_at': '2015-02-10T08:41:48Z', 'closed_at': '2015-06-26T21:40:18Z', 'labels': []}
+{'issuenumber': 1306, 'title': 'Attempting to change the getter of an unconfigurable property', 'state': 'closed', 'created_at': '2015-02-09T15:12:58Z', 'closed_at': '2015-02-18T23:05:50Z', 'labels': []}
+{'issuenumber': 1305, 'title': 'yo angular generator error phantomjs install', 'state': 'closed', 'created_at': '2015-02-09T04:24:18Z', 'closed_at': '2015-06-03T19:39:11Z', 'labels': []}
+{'issuenumber': 1303, 'title': 'windows 7 x64 install fails in ws', 'state': 'closed', 'created_at': '2015-02-05T21:47:15Z', 'closed_at': '2015-06-03T19:45:04Z', 'labels': []}
+{'issuenumber': 1302, 'title': "Karma doesn't find Worker script", 'state': 'closed', 'created_at': '2015-02-05T17:23:06Z', 'closed_at': '2015-02-06T07:50:17Z', 'labels': []}
+{'issuenumber': 1301, 'title': 'Karma exits with code 1 when it doesnt execute any spec tests', 'state': 'closed', 'created_at': '2015-02-05T15:36:44Z', 'closed_at': '2020-05-19T21:52:20Z', 'labels': {'name': 'needs: feedback-from-author'}}
+{'issuenumber': 1300, 'title': 'Configurable whether process should exit with non-zero exit code when tests failed?', 'state': 'closed', 'created_at': '2015-02-05T13:15:13Z', 'closed_at': '2018-08-30T16:25:43Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 1299, 'title': 'AngularJS: Failed to instantiate module (race condition?)', 'state': 'closed', 'created_at': '2015-02-04T12:42:49Z', 'closed_at': '2015-06-26T19:57:27Z', 'labels': {'name': 'support'}}
+{'issuenumber': 1298, 'title': 'Why this project named Karma?', 'state': 'closed', 'created_at': '2015-01-31T12:59:20Z', 'closed_at': '2015-01-31T16:37:33Z', 'labels': []}
+{'issuenumber': 1295, 'title': 'nsp reports potentially bad version of connect used by karma', 'state': 'closed', 'created_at': '2015-01-30T00:32:51Z', 'closed_at': '2015-06-03T20:09:25Z', 'labels': []}
+{'issuenumber': 1294, 'title': 'grunt-jscs-checker warning on npm install', 'state': 'closed', 'created_at': '2015-01-30T00:21:12Z', 'closed_at': '2015-05-19T15:37:00Z', 'labels': {'name': 'type: chore'}}
+{'issuenumber': 1291, 'title': 'Race condition in our E2E tests', 'state': 'closed', 'created_at': '2015-01-27T09:52:30Z', 'closed_at': '2015-02-20T00:52:47Z', 'labels': []}
+{'issuenumber': 1290, 'title': 'No documentation', 'state': 'closed', 'created_at': '2015-01-26T18:49:02Z', 'closed_at': '2015-05-16T16:19:44Z', 'labels': {'name': 'support'}}
+{'issuenumber': 1288, 'title': 'Start karma with no autorun', 'state': 'closed', 'created_at': '2015-01-22T21:20:31Z', 'closed_at': '2015-01-23T10:01:12Z', 'labels': []}
+{'issuenumber': 1284, 'title': 'BrowserStack timeouts on OS X', 'state': 'closed', 'created_at': '2015-01-16T14:13:00Z', 'closed_at': '2015-01-16T14:31:37Z', 'labels': []}
+{'issuenumber': 1281, 'title': 'Is there any way to provide a better error message here', 'state': 'closed', 'created_at': '2015-01-06T16:41:56Z', 'closed_at': '2016-02-19T21:13:31Z', 'labels': []}
+{'issuenumber': 1280, 'title': 'Empty test suite', 'state': 'closed', 'created_at': '2015-01-05T15:39:29Z', 'closed_at': '2015-01-07T16:07:56Z', 'labels': []}
+{'issuenumber': 1278, 'title': 'Background and istanbul coverage', 'state': 'closed', 'created_at': '2015-01-04T20:54:51Z', 'closed_at': '2015-01-04T23:45:13Z', 'labels': []}
+{'issuenumber': 1276, 'title': 'Windows path error', 'state': 'closed', 'created_at': '2014-12-29T12:40:59Z', 'closed_at': '2015-01-14T15:14:36Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 1274, 'title': 'Breaks source map if error message contain url without line number and column', 'state': 'closed', 'created_at': '2014-12-21T16:08:51Z', 'closed_at': '2016-02-18T16:59:42Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 1273, 'title': 'Grunt Karma always gives Executed 0 of 0 ERROR', 'state': 'closed', 'created_at': '2014-12-20T05:17:41Z', 'closed_at': '2014-12-20T06:11:41Z', 'labels': []}
+{'issuenumber': 1272, 'title': 'Feature request: Add re-run button in browser', 'state': 'closed', 'created_at': '2014-12-19T22:33:44Z', 'closed_at': '2014-12-20T12:48:00Z', 'labels': []}
+{'issuenumber': 1271, 'title': 'Killing Chrome on MacOSX takes forever', 'state': 'closed', 'created_at': '2014-12-19T21:29:50Z', 'closed_at': '2016-02-19T21:09:42Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 1270, 'title': 'Cannot start PhantomJS', 'state': 'closed', 'created_at': '2014-12-19T12:23:32Z', 'closed_at': '2014-12-20T15:33:56Z', 'labels': []}
+{'issuenumber': 1269, 'title': 'TypeError when running travis build', 'state': 'closed', 'created_at': '2014-12-17T17:39:43Z', 'closed_at': '2014-12-17T20:31:38Z', 'labels': []}
+{'issuenumber': 1265, 'title': "Karma doesn't start server in browsers", 'state': 'closed', 'created_at': '2014-12-16T12:25:41Z', 'closed_at': '2016-02-19T21:12:44Z', 'labels': []}
+{'issuenumber': 1264, 'title': 'Failed to proxy requests', 'state': 'closed', 'created_at': '2014-12-14T22:45:46Z', 'closed_at': '2015-01-13T13:35:33Z', 'labels': []}
+{'issuenumber': 1263, 'title': 'navigator notifications ?', 'state': 'closed', 'created_at': '2014-12-14T20:40:12Z', 'closed_at': '2014-12-14T23:52:51Z', 'labels': []}
+{'issuenumber': 1262, 'title': 'How to trace error in IE8 ?', 'state': 'closed', 'created_at': '2014-12-10T12:31:29Z', 'closed_at': '2014-12-10T13:05:04Z', 'labels': []}
+{'issuenumber': 1260, 'title': 'Switch HTML runner to Karma', 'state': 'closed', 'created_at': '2014-12-08T07:13:51Z', 'closed_at': '2014-12-08T09:00:17Z', 'labels': []}
+{'issuenumber': 1259, 'title': 'Calling config.set asynchronously not working', 'state': 'closed', 'created_at': '2014-12-03T22:49:49Z', 'closed_at': '2021-03-23T20:25:46Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 1254, 'title': 'any guide for writing karma plugins?', 'state': 'closed', 'created_at': '2014-11-25T01:36:05Z', 'closed_at': '2015-06-03T19:54:16Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1252, 'title': 'Resolved files log should show original paths', 'state': 'closed', 'created_at': '2014-11-24T22:37:03Z', 'closed_at': '2016-02-19T21:12:20Z', 'labels': []}
+{'issuenumber': 1249, 'title': "Autowatch with wildcards doesn't work", 'state': 'closed', 'created_at': '2014-11-21T08:58:04Z', 'closed_at': '2014-11-25T06:28:12Z', 'labels': []}
+{'issuenumber': 1247, 'title': 'Correct inline plugin example?', 'state': 'closed', 'created_at': '2014-11-18T13:23:35Z', 'closed_at': '2021-02-12T17:40:47Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1246, 'title': 'Is there a way to make screenshots of a webpage, cross browser?', 'state': 'closed', 'created_at': '2014-11-17T18:57:11Z', 'closed_at': '2014-11-17T20:24:40Z', 'labels': []}
+{'issuenumber': 1245, 'title': 'Not able to start karma', 'state': 'closed', 'created_at': '2014-11-15T19:54:04Z', 'closed_at': '2014-11-19T08:41:13Z', 'labels': []}
+{'issuenumber': 1244, 'title': 'Browser Disconnected does not cause tests to fail on Jenkins', 'state': 'closed', 'created_at': '2014-11-12T14:08:16Z', 'closed_at': '2016-02-19T21:11:29Z', 'labels': []}
+{'issuenumber': 1243, 'title': 'CHROME_BIN being ignored', 'state': 'closed', 'created_at': '2014-11-11T20:37:53Z', 'closed_at': '2014-11-13T15:42:27Z', 'labels': []}
+{'issuenumber': 1242, 'title': '`window.__karma__` to figure out the current runner?', 'state': 'closed', 'created_at': '2014-11-11T00:02:29Z', 'closed_at': '2014-11-12T23:06:26Z', 'labels': []}
+{'issuenumber': 1241, 'title': 'Support serving precomputed static gzip source files', 'state': 'closed', 'created_at': '2014-11-10T20:55:59Z', 'closed_at': '2016-02-19T21:11:18Z', 'labels': []}
+{'issuenumber': 1240, 'title': 'Upgrade Chokidar', 'state': 'closed', 'created_at': '2014-11-08T18:46:30Z', 'closed_at': '2015-05-17T19:13:13Z', 'labels': []}
+{'issuenumber': 1238, 'title': 'how to ignore the pause() when running the case with karma', 'state': 'closed', 'created_at': '2014-11-07T02:09:38Z', 'closed_at': '2015-06-26T20:39:11Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1235, 'title': 'API for filtering executed tests', 'state': 'closed', 'created_at': '2014-11-05T09:47:59Z', 'closed_at': '2019-05-20T11:59:48Z', 'labels': {'name': 'discuss'}}
+{'issuenumber': 1233, 'title': 'ReferenceError: module is not defined', 'state': 'closed', 'created_at': '2014-11-04T14:11:42Z', 'closed_at': '2014-11-07T10:06:35Z', 'labels': []}
+{'issuenumber': 1231, 'title': "Karma init. TypeError: Cannot call method 'slice' of undefined", 'state': 'closed', 'created_at': '2014-11-02T20:17:40Z', 'closed_at': '2015-06-27T07:21:12Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 1228, 'title': 'Karma randomly fails with no timestamp error', 'state': 'closed', 'created_at': '2014-10-30T15:35:57Z', 'closed_at': '2014-10-30T17:18:08Z', 'labels': []}
+{'issuenumber': 1227, 'title': 'Karma hangs up while killing IE', 'state': 'closed', 'created_at': '2014-10-30T10:52:45Z', 'closed_at': '2015-06-26T20:43:52Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1226, 'title': "showing some warning in karma.conf.js while i am executing 'grunt test' command", 'state': 'closed', 'created_at': '2014-10-28T07:46:19Z', 'closed_at': '2015-06-04T19:48:48Z', 'labels': {'name': 'support'}}
+{'issuenumber': 1223, 'title': 'Karma fails to launch Chrome v 38.0.2125', 'state': 'closed', 'created_at': '2014-10-22T09:17:48Z', 'closed_at': '2014-10-22T09:26:33Z', 'labels': []}
+{'issuenumber': 1222, 'title': 'Karma + Chrome is no longer working when kicked of from CI environment', 'state': 'closed', 'created_at': '2014-10-21T20:55:56Z', 'closed_at': '2014-10-21T21:08:26Z', 'labels': []}
+{'issuenumber': 1221, 'title': 'karma ignored passed tests, using mocha and debug mode', 'state': 'closed', 'created_at': '2014-10-21T09:22:17Z', 'closed_at': '2015-06-03T20:13:46Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1220, 'title': 'Upgrade to socket.io 1.0', 'state': 'closed', 'created_at': '2014-10-20T16:25:35Z', 'closed_at': '2015-07-15T18:36:56Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 1219, 'title': 'Dynamically add file available in testing inside preprocessor.', 'state': 'closed', 'created_at': '2014-10-18T12:03:11Z', 'closed_at': '2015-06-04T08:55:11Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1218, 'title': 'Cannot run tests with karma run', 'state': 'closed', 'created_at': '2014-10-17T19:10:53Z', 'closed_at': '2015-06-03T20:13:05Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1217, 'title': 'Karma disconnects when using ddescribe/iit', 'state': 'closed', 'created_at': '2014-10-17T12:32:43Z', 'closed_at': '2014-10-19T19:11:05Z', 'labels': []}
+{'issuenumber': 1216, 'title': 'WARN optional dep failed while Installing npm install -g karma', 'state': 'closed', 'created_at': '2014-10-16T10:00:19Z', 'closed_at': '2015-06-03T20:12:31Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1209, 'title': 'Bare reference to `window.console` in IE', 'state': 'closed', 'created_at': '2014-10-11T20:12:56Z', 'closed_at': '2015-02-19T22:37:13Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 1206, 'title': 'Chrome have not captured in X ms, killing', 'state': 'closed', 'created_at': '2014-10-09T17:57:40Z', 'closed_at': '2015-05-18T19:57:17Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1204, 'title': 'Compute sha AFTER all preprocessors', 'state': 'closed', 'created_at': '2014-10-07T22:51:45Z', 'closed_at': '2014-11-14T15:55:44Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 1202, 'title': 'Please add some link in the docs to karma-bro', 'state': 'closed', 'created_at': '2014-10-06T16:30:41Z', 'closed_at': '2014-10-06T19:42:27Z', 'labels': []}
+{'issuenumber': 1200, 'title': 'Sourcemap regex, not working in windows', 'state': 'closed', 'created_at': '2014-10-03T19:06:26Z', 'closed_at': '2014-11-25T13:08:18Z', 'labels': []}
+{'issuenumber': 1199, 'title': 'Add option for reporting launcher stdout/stderr in Karma log', 'state': 'closed', 'created_at': '2014-10-02T20:08:23Z', 'closed_at': '2014-10-05T22:17:22Z', 'labels': []}
+{'issuenumber': 1192, 'title': 'Allow overriding CLI arguments', 'state': 'closed', 'created_at': '2014-09-25T21:54:41Z', 'closed_at': '2014-11-25T00:31:01Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 1190, 'title': 'Change default temp folder', 'state': 'closed', 'created_at': '2014-09-16T21:04:03Z', 'closed_at': '2014-09-17T05:58:53Z', 'labels': []}
+{'issuenumber': 1188, 'title': "How to remove annoying LOG: 'a' in tests", 'state': 'closed', 'created_at': '2014-09-16T14:50:59Z', 'closed_at': '2014-09-17T06:02:30Z', 'labels': []}
+{'issuenumber': 1187, 'title': 'Docs: Increase font contrast', 'state': 'closed', 'created_at': '2014-09-16T11:45:09Z', 'closed_at': '2015-06-03T20:15:44Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1185, 'title': 'Can I set reporter via karma-cli flag?', 'state': 'closed', 'created_at': '2014-09-11T16:04:12Z', 'closed_at': '2014-09-11T16:37:29Z', 'labels': []}
+{'issuenumber': 1181, 'title': 'Karma:Chrome not reporting any results', 'state': 'closed', 'created_at': '2014-09-02T18:41:41Z', 'closed_at': '2015-06-26T20:28:29Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1178, 'title': 'Karma tests failing because of $location:nobase error', 'state': 'closed', 'created_at': '2014-09-01T10:58:36Z', 'closed_at': '2014-09-08T09:29:40Z', 'labels': []}
+{'issuenumber': 1177, 'title': 'Karma watcher is crashing when files are modified by IntelliJ', 'state': 'closed', 'created_at': '2014-09-01T02:38:16Z', 'closed_at': '2015-06-26T20:28:06Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1176, 'title': 'Write some documentation on how to write a karama plugin', 'state': 'closed', 'created_at': '2014-09-01T02:04:52Z', 'closed_at': '2021-04-11T09:42:27Z', 'labels': {'name': 'type: docs'}}
+{'issuenumber': 1174, 'title': 'Multiple file-change events on a single file causes autoWatch to use cached version from first event', 'state': 'closed', 'created_at': '2014-08-30T18:10:18Z', 'closed_at': '2015-06-26T20:26:17Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1173, 'title': 'Chrome browser fails on presence of existing "//@ sourceMappingURL" source maps', 'state': 'closed', 'created_at': '2014-08-29T17:43:45Z', 'closed_at': '2015-06-26T22:01:24Z', 'labels': {'name': 'needs: feedback-from-author'}}
+{'issuenumber': 1172, 'title': 'Q/B: unsustainable results', 'state': 'closed', 'created_at': '2014-08-28T20:16:11Z', 'closed_at': '2015-06-26T20:55:54Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1169, 'title': 'npm rebuild  fails on linux box if node_modules/karma directory is copied from mac to linux', 'state': 'closed', 'created_at': '2014-08-26T20:49:35Z', 'closed_at': '2015-06-03T20:23:16Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1167, 'title': 'support proposed AngularJS directory-structure', 'state': 'closed', 'created_at': '2014-08-21T11:52:01Z', 'closed_at': '2014-08-21T17:15:49Z', 'labels': {'name': 'support'}}
+{'issuenumber': 1166, 'title': 'Dependencies versus PeerDependencies in plugins dependencies', 'state': 'closed', 'created_at': '2014-08-20T08:31:08Z', 'closed_at': '2014-08-22T11:27:22Z', 'labels': {'name': 'discuss'}}
+{'issuenumber': 1163, 'title': 'A few outdated modules', 'state': 'closed', 'created_at': '2014-08-18T01:00:47Z', 'closed_at': '2015-05-17T18:10:21Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1158, 'title': 'Option to disable web server', 'state': 'closed', 'created_at': '2014-08-11T12:43:36Z', 'closed_at': '2015-06-26T20:55:41Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1157, 'title': 'Using YUITest with Karma', 'state': 'closed', 'created_at': '2014-08-10T14:11:57Z', 'closed_at': '2015-06-26T19:56:07Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 1154, 'title': 'Karma start is bombing... Please help', 'state': 'closed', 'created_at': '2014-08-06T16:27:49Z', 'closed_at': '2014-08-06T16:57:00Z', 'labels': []}
+{'issuenumber': 1153, 'title': 'Show better error when coffee-script not installed', 'state': 'closed', 'created_at': '2014-08-05T18:08:22Z', 'closed_at': '2014-08-26T17:53:11Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 1152, 'title': 'karma init should install coffee-script (when generating karma.conf.coffee)', 'state': 'closed', 'created_at': '2014-08-05T18:06:21Z', 'closed_at': '2014-08-21T21:20:28Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 1147, 'title': 'please support socket.io 1.0 ...', 'state': 'closed', 'created_at': '2014-07-30T06:16:50Z', 'closed_at': '2015-05-15T11:06:37Z', 'labels': []}
+{'issuenumber': 1145, 'title': 'Wrong script URL when debugging', 'state': 'closed', 'created_at': '2014-07-24T11:02:28Z', 'closed_at': '2015-06-26T20:54:41Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1144, 'title': 'Chrome not captured when running tests on Travis', 'state': 'closed', 'created_at': '2014-07-24T00:27:11Z', 'closed_at': '2015-06-26T20:53:03Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 1142, 'title': 'TypeError "Not a string or buffer"', 'state': 'closed', 'created_at': '2014-07-23T14:14:18Z', 'closed_at': '2014-11-04T22:29:58Z', 'labels': []}
+{'issuenumber': 1141, 'title': 'Wrong line number in console stack trace', 'state': 'closed', 'created_at': '2014-07-23T13:38:28Z', 'closed_at': '2015-06-26T20:52:03Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1140, 'title': 'Setting up Karma for Jasmine 1.x and 2.0 for testing ExtJS 4.x apps seems not right', 'state': 'closed', 'created_at': '2014-07-22T16:50:20Z', 'closed_at': '2015-06-04T19:45:30Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1139, 'title': 'Module Renaming Not Picked Up by Karma', 'state': 'closed', 'created_at': '2014-07-21T18:12:09Z', 'closed_at': '2014-07-27T16:35:11Z', 'labels': {'name': 'needs: info'}}
+{'issuenumber': 1136, 'title': 'Add option "Run on event"', 'state': 'closed', 'created_at': '2014-07-17T15:23:03Z', 'closed_at': '2015-06-04T19:46:32Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1135, 'title': "'undefined' is not a function", 'state': 'closed', 'created_at': '2014-07-16T10:19:16Z', 'closed_at': '2014-07-16T12:49:15Z', 'labels': {'name': 'support'}}
+{'issuenumber': 1134, 'title': 'docs update needed : karma-cli is required on windows ', 'state': 'closed', 'created_at': '2014-07-15T23:34:54Z', 'closed_at': '2015-06-04T19:44:56Z', 'labels': {'name': 'type: docs'}}
+{'issuenumber': 1133, 'title': 'File load order using ! operator', 'state': 'closed', 'created_at': '2014-07-15T16:22:40Z', 'closed_at': '2015-06-04T19:47:57Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1129, 'title': 'karma.cmd file missing from version 0.12 install', 'state': 'closed', 'created_at': '2014-07-11T10:50:46Z', 'closed_at': '2014-07-11T12:28:57Z', 'labels': []}
+{'issuenumber': 1128, 'title': 'Jasmine issues', 'state': 'closed', 'created_at': '2014-07-11T04:27:32Z', 'closed_at': '2016-01-04T20:16:50Z', 'labels': {'name': 'needs: feedback-from-author'}}
+{'issuenumber': 1127, 'title': 'Update http-proxy', 'state': 'closed', 'created_at': '2014-07-09T22:08:32Z', 'closed_at': '2014-11-06T16:50:06Z', 'labels': []}
+{'issuenumber': 1126, 'title': 'Allow configuration for retryLimit', 'state': 'closed', 'created_at': '2014-07-03T19:03:28Z', 'closed_at': '2016-01-22T14:21:34Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 1124, 'title': 'Error trying to run karma programmatically', 'state': 'closed', 'created_at': '2014-07-03T02:42:32Z', 'closed_at': '2015-06-26T20:47:44Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1122, 'title': 'Plugin for managing a second server', 'state': 'closed', 'created_at': '2014-07-02T14:14:16Z', 'closed_at': '2015-06-26T19:55:15Z', 'labels': {'name': 'support'}}
+{'issuenumber': 1120, 'title': 'Karma 0.12 + Requirejs: Karma looks for spec in the src directory', 'state': 'closed', 'created_at': '2014-06-30T21:01:01Z', 'closed_at': '2015-03-17T08:36:48Z', 'labels': []}
+{'issuenumber': 1117, 'title': 'How can I load cdn files?', 'state': 'closed', 'created_at': '2014-06-27T05:19:29Z', 'closed_at': '2014-06-27T05:51:40Z', 'labels': []}
+{'issuenumber': 1116, 'title': 'Cannot start Chrome (OS X)', 'state': 'closed', 'created_at': '2014-06-26T23:19:41Z', 'closed_at': '2014-07-01T06:34:50Z', 'labels': {'name': 'support'}}
+{'issuenumber': 1113, 'title': 'Watching is not working properly on linux', 'state': 'closed', 'created_at': '2014-06-26T19:31:16Z', 'closed_at': '2014-08-05T18:24:36Z', 'labels': []}
+{'issuenumber': 1112, 'title': 'Travis CI Fails with Cannot find module ./launchers/base', 'state': 'closed', 'created_at': '2014-06-26T18:32:51Z', 'closed_at': '2014-06-29T16:18:19Z', 'labels': {'name': 'support'}}
+{'issuenumber': 1111, 'title': 'With lots of tests, SKIPPING in console is tediously verbose.', 'state': 'closed', 'created_at': '2014-06-25T23:45:02Z', 'closed_at': '2014-07-11T02:28:09Z', 'labels': []}
+{'issuenumber': 1110, 'title': 'Allow proxy config changes by plugins', 'state': 'closed', 'created_at': '2014-06-25T14:20:08Z', 'closed_at': '2016-06-23T21:15:41Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 1109, 'title': 'setTimout in socket.io prevents Karma from exiting on Windows', 'state': 'closed', 'created_at': '2014-06-25T10:20:29Z', 'closed_at': '2014-07-11T01:03:41Z', 'labels': {'name': 'priority: high'}}
+{'issuenumber': 1107, 'title': 'PhantomJS issues w/ version: 0.12.16', 'state': 'closed', 'created_at': '2014-06-22T19:08:13Z', 'closed_at': '2014-06-24T17:24:49Z', 'labels': []}
+{'issuenumber': 1106, 'title': 'Logging DOM Document objects causes test failures (PhantomJS, Chrome)', 'state': 'closed', 'created_at': '2014-06-20T22:13:18Z', 'closed_at': '2015-07-15T18:36:56Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 1102, 'title': '$q.when not resolved inside Karma', 'state': 'closed', 'created_at': '2014-06-15T18:16:32Z', 'closed_at': '2015-06-26T21:23:49Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1099, 'title': 'How to use environment variables with a karma reporter?', 'state': 'closed', 'created_at': '2014-06-11T21:21:56Z', 'closed_at': '2014-06-11T21:27:36Z', 'labels': []}
+{'issuenumber': 1096, 'title': 'Not capturing any browser in windows', 'state': 'closed', 'created_at': '2014-06-10T05:42:26Z', 'closed_at': '2015-06-26T20:25:31Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1093, 'title': 'Weird problem with Karma and Angular', 'state': 'closed', 'created_at': '2014-06-05T18:53:00Z', 'closed_at': '2014-07-17T17:49:26Z', 'labels': {'name': 'needs: info'}}
+{'issuenumber': 1091, 'title': '"basePath" is relative to "C:\\" instead of config file', 'state': 'closed', 'created_at': '2014-06-05T00:10:32Z', 'closed_at': '2014-06-05T01:53:40Z', 'labels': []}
+{'issuenumber': 1090, 'title': 'Always "serving (cached)" regardless of file changes', 'state': 'closed', 'created_at': '2014-06-04T05:44:13Z', 'closed_at': '2015-06-26T21:24:47Z', 'labels': []}
+{'issuenumber': 1089, 'title': "Fatal error cause browsers in karma to crash -- BUT doesn't kill process", 'state': 'closed', 'created_at': '2014-06-03T21:13:31Z', 'closed_at': '2015-06-26T21:22:25Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1086, 'title': 'npm install karma on windows fails', 'state': 'closed', 'created_at': '2014-06-03T04:01:47Z', 'closed_at': '2015-06-26T21:22:51Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1085, 'title': 'Question about Preprocessors and ng-html2js', 'state': 'closed', 'created_at': '2014-06-02T13:03:19Z', 'closed_at': '2015-06-26T21:16:15Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1082, 'title': 'Socket io causes disconnects', 'state': 'closed', 'created_at': '2014-05-30T18:28:51Z', 'closed_at': '2015-06-26T21:15:03Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1079, 'title': 'question about sessions', 'state': 'closed', 'created_at': '2014-05-29T15:55:17Z', 'closed_at': '2014-05-29T17:15:01Z', 'labels': []}
+{'issuenumber': 1078, 'title': 'Export binary', 'state': 'closed', 'created_at': '2014-05-28T21:00:40Z', 'closed_at': '2015-06-03T08:06:27Z', 'labels': {'name': 'discuss'}}
+{'issuenumber': 1077, 'title': 'Tests executed multiple times in single execution', 'state': 'closed', 'created_at': '2014-05-28T06:26:20Z', 'closed_at': '2014-05-29T05:56:11Z', 'labels': []}
+{'issuenumber': 1076, 'title': 'Option for clearing Terminal after each run', 'state': 'closed', 'created_at': '2014-05-28T00:47:03Z', 'closed_at': '2014-05-29T02:50:03Z', 'labels': []}
+{'issuenumber': 1075, 'title': 'Karma start: All weird errors ', 'state': 'closed', 'created_at': '2014-05-27T12:17:55Z', 'closed_at': '2015-06-26T21:34:21Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1074, 'title': 'Karma/Chrome for-in on array inconsistent behaviour?', 'state': 'closed', 'created_at': '2014-05-27T10:53:28Z', 'closed_at': '2014-07-17T17:49:09Z', 'labels': {'name': 'support'}}
+{'issuenumber': 1073, 'title': 'Disable sha1 cache busting for HTML Imports', 'state': 'closed', 'created_at': '2014-05-27T06:43:39Z', 'closed_at': '2015-06-26T21:15:44Z', 'labels': {'name': 'needs: info'}}
+{'issuenumber': 1070, 'title': 'Allow file pattern to specify binary', 'state': 'closed', 'created_at': '2014-05-21T15:23:37Z', 'closed_at': '2016-01-22T09:07:32Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 1067, 'title': '--no-colors for run command', 'state': 'closed', 'created_at': '2014-05-18T19:30:20Z', 'closed_at': '2016-01-21T07:37:54Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 1066, 'title': 'autoWatch is not triggered', 'state': 'closed', 'created_at': '2014-05-16T08:53:31Z', 'closed_at': '2014-05-18T10:59:06Z', 'labels': []}
+{'issuenumber': 1065, 'title': 'Double slash', 'state': 'closed', 'created_at': '2014-05-15T18:09:56Z', 'closed_at': '2015-06-26T21:11:19Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1063, 'title': 'New version of grunt-jscs-checker breaks the build', 'state': 'closed', 'created_at': '2014-05-08T16:48:14Z', 'closed_at': '2014-05-09T17:54:29Z', 'labels': {'name': 'type: chore'}}
+{'issuenumber': 1062, 'title': 'Testing window.onbeforeunload', 'state': 'closed', 'created_at': '2014-05-07T12:22:17Z', 'closed_at': '2016-01-04T20:17:09Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1060, 'title': 'Microsoft VS 2010 build issue on yo scaffolding', 'state': 'closed', 'created_at': '2014-05-06T15:27:18Z', 'closed_at': '2015-06-26T21:13:42Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1057, 'title': 'grunt task failing after temp_dir is executed', 'state': 'closed', 'created_at': '2014-05-05T18:42:06Z', 'closed_at': '2015-06-26T21:09:54Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1050, 'title': 'move watcher to a plugin to speed up karma install', 'state': 'closed', 'created_at': '2014-04-29T15:45:00Z', 'closed_at': '2015-06-26T21:09:17Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1049, 'title': 'Execute specs in random order', 'state': 'closed', 'created_at': '2014-04-28T20:35:53Z', 'closed_at': '2015-06-26T21:09:28Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1047, 'title': 'Ability to force re-run specs', 'state': 'closed', 'created_at': '2014-04-25T17:09:17Z', 'closed_at': '2016-01-04T20:17:19Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 1046, 'title': 'Karma does not recognize file changes', 'state': 'closed', 'created_at': '2014-04-25T15:23:50Z', 'closed_at': '2016-01-04T20:17:40Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 1044, 'title': 'karma install error', 'state': 'closed', 'created_at': '2014-04-23T07:27:59Z', 'closed_at': '2014-04-24T14:13:36Z', 'labels': []}
+{'issuenumber': 1042, 'title': 'Run "minimatch" as case-insensitive on Windows', 'state': 'closed', 'created_at': '2014-04-19T12:42:49Z', 'closed_at': '2016-01-04T20:17:48Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 1037, 'title': 'Public API does not provide hooks for server started, all browsers captured, etc', 'state': 'closed', 'created_at': '2014-04-18T03:45:27Z', 'closed_at': '2015-07-15T18:36:57Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 1036, 'title': 'Revert chokidar to 0.7.1 until cross-platform rebuild is fixed', 'state': 'closed', 'created_at': '2014-04-17T21:57:12Z', 'closed_at': '2014-04-25T07:11:53Z', 'labels': []}
+{'issuenumber': 1035, 'title': "Karma doesn't exit properly when using public api with the finish callback", 'state': 'closed', 'created_at': '2014-04-17T17:49:52Z', 'closed_at': '2014-04-25T06:34:55Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 1034, 'title': 'this._browsers is undefined when calling push in lib/reporters/base.js', 'state': 'closed', 'created_at': '2014-04-17T09:41:49Z', 'closed_at': '2014-04-27T07:00:06Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 1032, 'title': '.', 'state': 'closed', 'created_at': '2014-04-14T15:52:42Z', 'closed_at': '2014-04-14T15:54:33Z', 'labels': []}
+{'issuenumber': 1031, 'title': 'Karma prompting with ... on Windows', 'state': 'closed', 'created_at': '2014-04-13T20:04:08Z', 'closed_at': '2014-04-14T20:14:06Z', 'labels': {'name': 'windows'}}
+{'issuenumber': 1030, 'title': '"grunt lint" fails on Windows with many "Invalid line break" errors', 'state': 'closed', 'created_at': '2014-04-12T19:19:32Z', 'closed_at': '2015-06-26T20:03:50Z', 'labels': {'name': 'type: chore'}}
+{'issuenumber': 1028, 'title': 'Failing tests on a clean setup (on Windows?)', 'state': 'closed', 'created_at': '2014-04-12T11:47:08Z', 'closed_at': '2015-11-29T20:14:07Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1026, 'title': "Can't preprocess svg files anymore", 'state': 'closed', 'created_at': '2014-04-12T10:21:00Z', 'closed_at': '2014-04-14T00:28:21Z', 'labels': []}
+{'issuenumber': 1025, 'title': 'CLI hard to use since does not validate switches', 'state': 'closed', 'created_at': '2014-04-11T21:05:30Z', 'closed_at': '2016-01-04T20:18:01Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 1024, 'title': 'Error: error:24064064:random number generator:SSLEAY_RAND_BYTES:PRNG not seeded', 'state': 'closed', 'created_at': '2014-04-11T18:28:39Z', 'closed_at': '2014-04-15T02:43:48Z', 'labels': []}
+{'issuenumber': 1023, 'title': "Unable to install Karma -  No compatible version found: inherits@'^2.0.1'", 'state': 'closed', 'created_at': '2014-04-11T07:36:05Z', 'closed_at': '2014-04-11T18:48:38Z', 'labels': []}
+{'issuenumber': 1022, 'title': 'karma runs not all tests without failing if console outputs a german umlaut char', 'state': 'closed', 'created_at': '2014-04-11T07:09:57Z', 'closed_at': '2016-01-04T20:18:17Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 1021, 'title': 'npm install error', 'state': 'closed', 'created_at': '2014-04-10T20:24:26Z', 'closed_at': '2014-04-11T03:45:25Z', 'labels': []}
+{'issuenumber': 1019, 'title': "The package karma does not satisfy its siblings' peerDependencies requirements!", 'state': 'closed', 'created_at': '2014-04-09T18:42:44Z', 'closed_at': '2014-04-09T19:39:48Z', 'labels': []}
+{'issuenumber': 1016, 'title': 'Needed a possibiliy to distinguish files locations and urls', 'state': 'closed', 'created_at': '2014-04-09T09:08:25Z', 'closed_at': '2014-04-11T15:31:41Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 1015, 'title': 'Show test results in browser window', 'state': 'closed', 'created_at': '2014-04-09T07:06:11Z', 'closed_at': '2016-01-04T20:18:11Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 1013, 'title': 'Issues installing on Maverick ', 'state': 'closed', 'created_at': '2014-04-09T02:54:07Z', 'closed_at': '2014-04-09T09:13:14Z', 'labels': []}
+{'issuenumber': 1012, 'title': 'Ember/Mocha/Firefox', 'state': 'closed', 'created_at': '2014-04-08T18:11:02Z', 'closed_at': '2014-04-08T21:33:13Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 1011, 'title': 'karma should write errors to stderr and return an exit code', 'state': 'closed', 'created_at': '2014-04-08T04:10:31Z', 'closed_at': '2016-01-04T20:18:26Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 1009, 'title': 'Karma cant capture Chrome on WIndows 8?', 'state': 'closed', 'created_at': '2014-04-06T14:30:43Z', 'closed_at': '2015-06-26T21:13:17Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1005, 'title': "Can't load image in test", 'state': 'closed', 'created_at': '2014-04-05T07:29:25Z', 'closed_at': '2014-04-08T20:50:14Z', 'labels': []}
+{'issuenumber': 1001, 'title': 'Changelog v0.12.2 (2014-03-30) is empty', 'state': 'closed', 'created_at': '2014-03-31T19:13:58Z', 'closed_at': '2015-06-26T21:11:41Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 1000, 'title': 'errors in launcher cause karma to hang', 'state': 'closed', 'created_at': '2014-03-31T16:00:43Z', 'closed_at': '2016-01-04T20:18:40Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 998, 'title': 'Check out http://wercker.com', 'state': 'closed', 'created_at': '2014-03-29T19:37:37Z', 'closed_at': '2015-06-26T21:12:53Z', 'labels': {'name': 'type: chore'}}
+{'issuenumber': 997, 'title': '"npm install -g karma" fails to compile a node module', 'state': 'closed', 'created_at': '2014-03-28T21:01:44Z', 'closed_at': '2014-03-28T21:38:27Z', 'labels': []}
+{'issuenumber': 995, 'title': 'Cannot disable WARN: messages in console.', 'state': 'closed', 'created_at': '2014-03-28T19:47:26Z', 'closed_at': '2016-01-04T20:19:13Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 994, 'title': 'karma (v0.10.1) repeats the tests infinitly if console outputs a german umlaut char', 'state': 'closed', 'created_at': '2014-03-28T10:04:55Z', 'closed_at': '2016-01-04T20:19:27Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 993, 'title': 'jscs (grunt lint) fails on windows because of line breaks', 'state': 'closed', 'created_at': '2014-03-28T04:44:26Z', 'closed_at': '2014-03-28T20:15:54Z', 'labels': []}
+{'issuenumber': 992, 'title': 'karma executes one test (of hundreds), reports success, then disconnects all browsers', 'state': 'closed', 'created_at': '2014-03-27T08:58:01Z', 'closed_at': '2014-03-28T14:22:16Z', 'labels': {'name': 'support'}}
+{'issuenumber': 990, 'title': 'Typescript files (.ts) are marked as binary files', 'state': 'closed', 'created_at': '2014-03-26T14:31:35Z', 'closed_at': '2014-04-27T06:35:54Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 989, 'title': 'Browsers are not captured while running tests with jenkins (rhel)', 'state': 'closed', 'created_at': '2014-03-26T12:35:22Z', 'closed_at': '2014-03-26T13:10:52Z', 'labels': []}
+{'issuenumber': 988, 'title': 'Did the karma allows in suse?', 'state': 'closed', 'created_at': '2014-03-26T03:02:21Z', 'closed_at': '2014-05-01T11:03:20Z', 'labels': []}
+{'issuenumber': 987, 'title': 'Better handle empty files', 'state': 'closed', 'created_at': '2014-03-25T19:41:36Z', 'closed_at': '2021-03-30T08:59:57Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 986, 'title': 'Adding Sauce Labs to http://karma-runner.github.io/0.12/plus/saucelabs.html', 'state': 'closed', 'created_at': '2014-03-25T18:25:30Z', 'closed_at': '2014-03-25T23:01:20Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 984, 'title': 'Karma 0.12.1 hangs', 'state': 'closed', 'created_at': '2014-03-25T06:02:55Z', 'closed_at': '2016-01-04T20:19:21Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 983, 'title': 'IE6 freeze on sauce Labs', 'state': 'closed', 'created_at': '2014-03-24T18:10:36Z', 'closed_at': '2016-01-19T21:44:18Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 982, 'title': 'Share configs between plugins', 'state': 'closed', 'created_at': '2014-03-24T16:31:32Z', 'closed_at': '2015-06-26T21:30:27Z', 'labels': {'name': 'type: chore'}}
+{'issuenumber': 980, 'title': "typo in docs: missing 'to'", 'state': 'closed', 'created_at': '2014-03-24T15:39:44Z', 'closed_at': '2014-03-24T15:55:24Z', 'labels': []}
+{'issuenumber': 978, 'title': 'Failing build on reportSlowerThan', 'state': 'closed', 'created_at': '2014-03-24T08:19:23Z', 'closed_at': '2015-06-26T19:54:58Z', 'labels': {'name': 'discuss'}}
+{'issuenumber': 976, 'title': "Karma 0.12.1 doesn't prefix all console functions with browser info", 'state': 'closed', 'created_at': '2014-03-23T22:32:43Z', 'closed_at': '2016-01-04T20:36:14Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 975, 'title': 'Extraneous error with fsevents and recursive-readdir could break karma-coverage', 'state': 'closed', 'created_at': '2014-03-23T16:24:13Z', 'closed_at': '2016-01-04T20:37:31Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 974, 'title': 'Improve watching', 'state': 'closed', 'created_at': '2014-03-22T00:47:51Z', 'closed_at': '2015-06-26T19:57:22Z', 'labels': {'name': 'discuss'}}
+{'issuenumber': 972, 'title': "Can't install using npm install -g karma-cli", 'state': 'closed', 'created_at': '2014-03-20T23:35:36Z', 'closed_at': '2014-03-27T11:11:54Z', 'labels': {'name': 'support'}}
+{'issuenumber': 971, 'title': "Can't find variable: require", 'state': 'closed', 'created_at': '2014-03-20T21:15:38Z', 'closed_at': '2014-03-22T01:23:23Z', 'labels': {'name': 'support'}}
+{'issuenumber': 970, 'title': '`dump` fails to serialize traceur', 'state': 'closed', 'created_at': '2014-03-20T17:15:19Z', 'closed_at': '2016-01-04T20:33:27Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 969, 'title': 'Repo should include the built version of karma.js', 'state': 'closed', 'created_at': '2014-03-19T21:23:11Z', 'closed_at': '2016-01-04T20:33:16Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 968, 'title': 'Karma 0.12 Adapter did not report total number of specs warning', 'state': 'closed', 'created_at': '2014-03-19T13:53:03Z', 'closed_at': '2014-03-25T19:55:47Z', 'labels': []}
+{'issuenumber': 967, 'title': 'allow underscores in file paths', 'state': 'closed', 'created_at': '2014-03-19T12:38:04Z', 'closed_at': '2014-05-21T17:51:40Z', 'labels': {'name': 'support'}}
+{'issuenumber': 966, 'title': "Karma v0.12 - qunit adapter doesn't report test count", 'state': 'closed', 'created_at': '2014-03-18T07:35:58Z', 'closed_at': '2016-01-04T20:33:21Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 965, 'title': 'karma init should install proper versions', 'state': 'closed', 'created_at': '2014-03-18T01:00:15Z', 'closed_at': '2016-01-04T20:37:36Z', 'labels': {'name': 'discuss'}}
+{'issuenumber': 964, 'title': '/', 'state': 'closed', 'created_at': '2014-03-17T20:27:38Z', 'closed_at': '2014-03-17T20:35:40Z', 'labels': []}
+{'issuenumber': 963, 'title': 'crashes on save', 'state': 'closed', 'created_at': '2014-03-17T05:49:11Z', 'closed_at': '2020-05-24T02:54:53Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 962, 'title': '`karma start` 0.12 can take  minutes to exit after ctrl+c', 'state': 'closed', 'created_at': '2014-03-17T04:13:12Z', 'closed_at': '2014-05-01T11:07:37Z', 'labels': []}
+{'issuenumber': 961, 'title': "client.captureConsole isn't defaulted correctly if client config is defined", 'state': 'closed', 'created_at': '2014-03-17T01:53:19Z', 'closed_at': '2015-05-26T19:21:50Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 960, 'title': 'auto-watch mode does not detect renames', 'state': 'closed', 'created_at': '2014-03-16T22:22:01Z', 'closed_at': '2014-03-22T00:12:19Z', 'labels': []}
+{'issuenumber': 959, 'title': 'Karma crashes on editing files in Visual Studio (due to temp files?)', 'state': 'closed', 'created_at': '2014-03-16T11:04:46Z', 'closed_at': '2014-04-13T23:09:24Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 955, 'title': 'config.client.args is always empty array', 'state': 'closed', 'created_at': '2014-03-14T14:25:19Z', 'closed_at': '2014-03-15T13:34:44Z', 'labels': []}
+{'issuenumber': 954, 'title': 'Typo in karma init wizard', 'state': 'closed', 'created_at': '2014-03-14T14:20:44Z', 'closed_at': '2014-04-06T12:57:02Z', 'labels': {'name': 'type: chore'}}
+{'issuenumber': 953, 'title': 'For debugging, how to remove version number on the source files?', 'state': 'closed', 'created_at': '2014-03-14T11:13:27Z', 'closed_at': '2016-01-04T20:37:53Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 952, 'title': 'Karma 0.12 hangs with and IE11', 'state': 'closed', 'created_at': '2014-03-13T22:40:00Z', 'closed_at': '2014-04-01T02:42:10Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 947, 'title': 'npm install -g karma does not install karma-chrome-launcher anymore for example.', 'state': 'closed', 'created_at': '2014-03-11T22:37:03Z', 'closed_at': '2014-03-11T23:12:08Z', 'labels': []}
+{'issuenumber': 946, 'title': 'Process Launcher does not clean up sigkill timeout', 'state': 'closed', 'created_at': '2014-03-11T22:19:05Z', 'closed_at': '2014-05-10T20:26:13Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 945, 'title': 'Reporter onBrowserComplete without onBrowserStart', 'state': 'closed', 'created_at': '2014-03-11T22:02:59Z', 'closed_at': '2016-01-04T20:33:42Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 944, 'title': 'What is the roadmap towards 1.0.0?', 'state': 'closed', 'created_at': '2014-03-11T17:46:46Z', 'closed_at': '2015-05-16T16:26:52Z', 'labels': {'name': 'discuss'}}
+{'issuenumber': 943, 'title': 'Karma 0.6.2 peer dependencies issue', 'state': 'closed', 'created_at': '2014-03-11T17:33:28Z', 'closed_at': '2014-03-11T17:58:26Z', 'labels': []}
+{'issuenumber': 942, 'title': 'Karma server no longer serves extensionless images as correct mime type', 'state': 'closed', 'created_at': '2014-03-11T17:25:59Z', 'closed_at': '2016-01-04T20:38:16Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 941, 'title': "karma 0.12 clean installation doesn't work", 'state': 'closed', 'created_at': '2014-03-11T13:50:21Z', 'closed_at': '2014-03-11T20:38:13Z', 'labels': {'name': 'windows'}}
+{'issuenumber': 940, 'title': 'Installing failed karma@0.10.9', 'state': 'closed', 'created_at': '2014-03-11T06:57:38Z', 'closed_at': '2014-03-11T17:21:30Z', 'labels': []}
+{'issuenumber': 939, 'title': 'Execution should start as soon as possible.', 'state': 'closed', 'created_at': '2014-03-10T06:44:33Z', 'closed_at': '2016-01-04T20:37:59Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 938, 'title': 'Using Karma with RequireJS & Angular?', 'state': 'closed', 'created_at': '2014-03-06T17:55:34Z', 'closed_at': '2014-03-10T05:35:58Z', 'labels': {'name': 'support'}}
+{'issuenumber': 937, 'title': 'Why does karma-runner try to open a browser?', 'state': 'closed', 'created_at': '2014-03-05T10:44:13Z', 'closed_at': '2014-03-05T12:28:23Z', 'labels': []}
+{'issuenumber': 936, 'title': 'Run karma on IE using multiple emulation modes by setting http-equiv="X-UA-Compatible"', 'state': 'closed', 'created_at': '2014-03-04T22:55:08Z', 'closed_at': '2014-03-08T20:49:33Z', 'labels': []}
+{'issuenumber': 935, 'title': 'Issue running karma with firefox 20 on ubuntu', 'state': 'closed', 'created_at': '2014-03-04T18:39:20Z', 'closed_at': '2014-03-09T15:51:02Z', 'labels': []}
+{'issuenumber': 934, 'title': 'console logging is messed up when not colored', 'state': 'closed', 'created_at': '2014-02-28T18:22:45Z', 'closed_at': '2014-04-08T12:12:19Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 933, 'title': "[TypeError: Cannot call method 'charAt' of null]", 'state': 'closed', 'created_at': '2014-02-25T02:19:22Z', 'closed_at': '2014-03-10T05:44:29Z', 'labels': {'name': 'support'}}
+{'issuenumber': 931, 'title': 'Karma + PhantomJS hangs on Windows', 'state': 'closed', 'created_at': '2014-02-23T02:48:39Z', 'closed_at': '2016-01-04T20:38:04Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 930, 'title': 'Script Error with no trace?!?!', 'state': 'closed', 'created_at': '2014-02-22T01:26:53Z', 'closed_at': '2016-01-04T20:38:11Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 929, 'title': "Can't get Karma to run properly (Fatal error: socket hang up)", 'state': 'closed', 'created_at': '2014-02-19T21:15:47Z', 'closed_at': '2014-02-19T23:19:47Z', 'labels': []}
+{'issuenumber': 926, 'title': 'Do not fail when the test set is empty', 'state': 'closed', 'created_at': '2014-02-14T22:01:37Z', 'closed_at': '2016-01-12T20:19:36Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 925, 'title': "Karma can't handle RequireJS requesting files from sibling hierarchies", 'state': 'closed', 'created_at': '2014-02-14T00:59:57Z', 'closed_at': '2014-02-27T00:19:47Z', 'labels': []}
+{'issuenumber': 924, 'title': 'Karma hangs when file paths have \\u in them', 'state': 'closed', 'created_at': '2014-02-12T16:41:29Z', 'closed_at': '2014-03-08T20:12:41Z', 'labels': []}
+{'issuenumber': 922, 'title': 'Trying to change the output type', 'state': 'closed', 'created_at': '2014-02-12T15:49:54Z', 'closed_at': '2014-03-08T19:52:29Z', 'labels': {'name': 'support'}}
+{'issuenumber': 921, 'title': 'expose CLI commands as API', 'state': 'closed', 'created_at': '2014-02-11T22:53:50Z', 'closed_at': '2014-02-11T22:55:34Z', 'labels': []}
+{'issuenumber': 918, 'title': 'Test Script is not execute ', 'state': 'closed', 'created_at': '2014-02-10T14:30:11Z', 'closed_at': '2016-01-04T20:17:28Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 916, 'title': 'Adapter documentation', 'state': 'closed', 'created_at': '2014-02-07T20:13:31Z', 'closed_at': '2015-01-02T20:16:20Z', 'labels': {'name': 'type: docs'}}
+{'issuenumber': 915, 'title': "Can't get directive and ng-repeat to work in unit testing", 'state': 'closed', 'created_at': '2014-02-07T18:54:01Z', 'closed_at': '2014-02-14T22:01:53Z', 'labels': {'name': 'support'}}
+{'issuenumber': 913, 'title': 'Task "karma:unit" failed exitted with code 0 (there are no errors)', 'state': 'closed', 'created_at': '2014-02-05T08:34:15Z', 'closed_at': '2014-07-17T17:47:35Z', 'labels': {'name': 'support'}}
+{'issuenumber': 912, 'title': 'Clicking the "DEBUG" button should automatically open the web inspector', 'state': 'closed', 'created_at': '2014-02-04T01:22:30Z', 'closed_at': '2016-01-04T20:39:18Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 911, 'title': 'No way to pass --harmony flag to mocha', 'state': 'closed', 'created_at': '2014-02-03T20:23:56Z', 'closed_at': '2014-02-04T03:33:55Z', 'labels': []}
+{'issuenumber': 910, 'title': 'Proxy to local static files', 'state': 'closed', 'created_at': '2014-02-03T19:22:26Z', 'closed_at': '2014-02-03T20:04:57Z', 'labels': []}
+{'issuenumber': 908, 'title': 'Watching cycle (symlink) freezes Karma ', 'state': 'closed', 'created_at': '2014-01-31T20:19:13Z', 'closed_at': '2016-01-04T20:38:53Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 906, 'title': 'Remove cofee-script dependency.', 'state': 'closed', 'created_at': '2014-01-30T21:41:35Z', 'closed_at': '2014-02-05T07:15:05Z', 'labels': {'name': 'type: refactor'}}
+{'issuenumber': 905, 'title': 'Update README and docs', 'state': 'closed', 'created_at': '2014-01-30T21:37:18Z', 'closed_at': '2014-03-10T05:01:52Z', 'labels': {'name': 'type: docs'}}
+{'issuenumber': 902, 'title': 'Tests on DOM', 'state': 'closed', 'created_at': '2014-01-28T10:56:37Z', 'closed_at': '2014-01-30T22:45:05Z', 'labels': {'name': 'support'}}
+{'issuenumber': 900, 'title': 'Exectued 0 of 0 error ', 'state': 'closed', 'created_at': '2014-01-23T16:25:15Z', 'closed_at': '2014-05-01T11:13:31Z', 'labels': {'name': 'support'}}
+{'issuenumber': 898, 'title': 'npg installation fails', 'state': 'closed', 'created_at': '2014-01-22T22:17:02Z', 'closed_at': '2014-03-10T06:17:31Z', 'labels': []}
+{'issuenumber': 896, 'title': 'init should generate test-main.js for RequireJS projects', 'state': 'closed', 'created_at': '2014-01-21T20:26:06Z', 'closed_at': '2015-03-12T22:15:42Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 895, 'title': "AutoWatch doesn't work", 'state': 'closed', 'created_at': '2014-01-21T17:38:55Z', 'closed_at': '2014-11-25T06:26:31Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 894, 'title': "charAt error when a browser isn't installed", 'state': 'closed', 'created_at': '2014-01-20T18:15:54Z', 'closed_at': '2014-01-28T23:25:36Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 892, 'title': 'cant get phantom to run coverage tests (firefox/chrome seem fine)', 'state': 'closed', 'created_at': '2014-01-19T20:33:22Z', 'closed_at': '2014-02-14T19:26:16Z', 'labels': []}
+{'issuenumber': 891, 'title': 'Krama crashes browser by using $compile', 'state': 'closed', 'created_at': '2014-01-19T16:06:37Z', 'closed_at': '2014-01-21T15:19:59Z', 'labels': []}
+{'issuenumber': 889, 'title': 'Reading Libraries from webjars that are specified in the karma.conf.js files: [] section', 'state': 'closed', 'created_at': '2014-01-16T14:14:51Z', 'closed_at': '2014-02-20T14:09:35Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 888, 'title': 'Did not manage to run jasmine tests', 'state': 'closed', 'created_at': '2014-01-16T01:10:17Z', 'closed_at': '2014-01-30T13:18:14Z', 'labels': []}
+{'issuenumber': 886, 'title': 'configuration error in windows 8', 'state': 'closed', 'created_at': '2014-01-14T09:13:58Z', 'closed_at': '2015-06-26T20:56:20Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 884, 'title': 'Display time of each test suite', 'state': 'closed', 'created_at': '2014-01-11T15:58:24Z', 'closed_at': '2014-01-21T00:39:36Z', 'labels': []}
+{'issuenumber': 883, 'title': 'karma throws IE11 into compatibility mode', 'state': 'closed', 'created_at': '2014-01-09T20:25:08Z', 'closed_at': '2015-06-26T21:00:19Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 881, 'title': 'Karma executes tests n+1 times on Safari on each subsequent run.', 'state': 'closed', 'created_at': '2014-01-08T20:41:36Z', 'closed_at': '2014-01-20T18:36:46Z', 'labels': []}
+{'issuenumber': 880, 'title': 'Strange error trying to run Jasmine specs', 'state': 'closed', 'created_at': '2014-01-08T17:07:04Z', 'closed_at': '2014-01-20T20:31:47Z', 'labels': {'name': 'support'}}
+{'issuenumber': 879, 'title': 'Update jasmine adapter to work with Jasmine 2.0', 'state': 'closed', 'created_at': '2014-01-08T15:51:48Z', 'closed_at': '2014-01-21T19:43:23Z', 'labels': []}
+{'issuenumber': 878, 'title': 'Close the karma tab after tests finish', 'state': 'closed', 'created_at': '2014-01-07T18:49:14Z', 'closed_at': '2018-04-12T14:09:44Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 877, 'title': 'Edit links for documentation on the homepage is broken', 'state': 'closed', 'created_at': '2014-01-07T18:45:44Z', 'closed_at': '2015-06-26T21:06:24Z', 'labels': {'name': 'type: docs'}}
+{'issuenumber': 876, 'title': 'Mutliple configurations for preprocessors', 'state': 'closed', 'created_at': '2014-01-05T01:54:54Z', 'closed_at': '2016-01-04T20:39:12Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 875, 'title': 'npm install --save-dev karma adds a lot of things to package.json', 'state': 'closed', 'created_at': '2014-01-04T16:39:57Z', 'closed_at': '2014-01-20T21:06:02Z', 'labels': []}
+{'issuenumber': 874, 'title': 'Long delay after tests run successfully but before final elapsed time is reported', 'state': 'closed', 'created_at': '2014-01-03T14:26:23Z', 'closed_at': '2014-01-09T16:09:16Z', 'labels': []}
+{'issuenumber': 873, 'title': "The package karma does not satisfy its siblings' peerDependencies requirements!", 'state': 'closed', 'created_at': '2013-12-30T06:47:19Z', 'closed_at': '2014-01-20T20:58:57Z', 'labels': []}
+{'issuenumber': 872, 'title': 'There should be a way to ask karma to serve a specific directory in a given path', 'state': 'closed', 'created_at': '2013-12-29T19:16:44Z', 'closed_at': '2014-04-08T23:39:43Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 871, 'title': 'Cannot use karma after installation on Windows 8', 'state': 'closed', 'created_at': '2013-12-27T14:48:08Z', 'closed_at': '2013-12-28T11:07:50Z', 'labels': []}
+{'issuenumber': 870, 'title': '0.11.12 is tagged as stable', 'state': 'closed', 'created_at': '2013-12-26T19:48:00Z', 'closed_at': '2013-12-27T22:19:56Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 868, 'title': 'Run all the tests in strict mode', 'state': 'closed', 'created_at': '2013-12-24T18:34:06Z', 'closed_at': '2015-06-26T20:57:08Z', 'labels': {'name': 'type: chore'}}
+{'issuenumber': 867, 'title': 'Please update chokidar to 0.8.1', 'state': 'closed', 'created_at': '2013-12-23T19:07:56Z', 'closed_at': '2014-05-01T11:20:47Z', 'labels': []}
+{'issuenumber': 866, 'title': 'extract proxy into a plugin', 'state': 'closed', 'created_at': '2013-12-23T05:46:32Z', 'closed_at': '2015-05-17T18:11:01Z', 'labels': {'name': 'type: refactor'}}
+{'issuenumber': 865, 'title': 'karma + jquerymobile', 'state': 'closed', 'created_at': '2013-12-21T19:01:52Z', 'closed_at': '2015-06-26T21:07:34Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 864, 'title': 'Served Images are corrupted', 'state': 'closed', 'created_at': '2013-12-18T18:19:54Z', 'closed_at': '2014-02-05T07:14:03Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 862, 'title': 'Add license info to package.json', 'state': 'closed', 'created_at': '2013-12-18T14:00:35Z', 'closed_at': '2013-12-22T05:01:19Z', 'labels': []}
+{'issuenumber': 861, 'title': 'A non-matching pattern still has to be watched', 'state': 'closed', 'created_at': '2013-12-17T23:35:44Z', 'closed_at': '2015-06-26T21:07:44Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 860, 'title': 'Public API for config', 'state': 'closed', 'created_at': '2013-12-15T21:21:11Z', 'closed_at': '2015-06-26T21:07:05Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 858, 'title': 'Ability to serve and load mocks / stubs for AJAX testing', 'state': 'closed', 'created_at': '2013-12-13T16:16:17Z', 'closed_at': '2014-01-19T23:44:34Z', 'labels': []}
+{'issuenumber': 857, 'title': 'ERR! peerinvalid on npm install', 'state': 'closed', 'created_at': '2013-12-11T15:40:50Z', 'closed_at': '2013-12-11T15:44:09Z', 'labels': []}
+{'issuenumber': 856, 'title': 'Cannot start Firefox', 'state': 'closed', 'created_at': '2013-12-11T14:24:03Z', 'closed_at': '2014-01-06T12:47:53Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 855, 'title': 'Throw an error on not found browsers', 'state': 'closed', 'created_at': '2013-12-10T22:49:45Z', 'closed_at': '2016-03-04T20:33:34Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 853, 'title': 'Allow exact file patterns to be specified below wildcard patterns', 'state': 'closed', 'created_at': '2013-12-09T00:14:54Z', 'closed_at': '2015-06-26T20:57:32Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 852, 'title': 'Running karma with wildcards => no files are read', 'state': 'closed', 'created_at': '2013-12-08T18:00:44Z', 'closed_at': '2013-12-09T00:15:28Z', 'labels': []}
+{'issuenumber': 851, 'title': 'Support for asynchronous plugins', 'state': 'closed', 'created_at': '2013-12-08T01:07:54Z', 'closed_at': '2019-07-12T23:47:38Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 848, 'title': 'Testing different Internet Explorer versions', 'state': 'closed', 'created_at': '2013-12-06T17:47:16Z', 'closed_at': '2014-01-21T19:40:52Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 847, 'title': 'error formatting is broken (because of sha instead of timestamp)', 'state': 'closed', 'created_at': '2013-12-03T01:22:11Z', 'closed_at': '2016-01-04T20:39:03Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 843, 'title': 'CSS content generated by less/stylus preprocessor will serve content-type: application/javascript', 'state': 'closed', 'created_at': '2013-11-30T17:11:06Z', 'closed_at': '2013-12-01T03:41:53Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 842, 'title': 'Abort run when killing Karma', 'state': 'closed', 'created_at': '2013-11-29T21:35:04Z', 'closed_at': '2016-01-04T20:38:45Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 841, 'title': 'Server listening error in karma', 'state': 'closed', 'created_at': '2013-11-29T12:53:30Z', 'closed_at': '2013-11-30T00:59:15Z', 'labels': []}
+{'issuenumber': 840, 'title': 'installing karma from the npm repository causes a 404', 'state': 'closed', 'created_at': '2013-11-27T01:20:49Z', 'closed_at': '2013-11-27T03:09:14Z', 'labels': []}
+{'issuenumber': 839, 'title': 'Small typo in How it Works doc', 'state': 'closed', 'created_at': '2013-11-26T00:21:29Z', 'closed_at': '2013-11-27T01:59:00Z', 'labels': []}
+{'issuenumber': 838, 'title': 'Karma does not install a binary anymore', 'state': 'closed', 'created_at': '2013-11-21T20:54:58Z', 'closed_at': '2013-11-30T01:59:00Z', 'labels': []}
+{'issuenumber': 837, 'title': 'Behat with Karma', 'state': 'closed', 'created_at': '2013-11-21T16:22:17Z', 'closed_at': '2013-11-30T02:14:36Z', 'labels': []}
+{'issuenumber': 836, 'title': 'Is it possible to attach Karma with Python Dev Environment. ', 'state': 'closed', 'created_at': '2013-11-21T16:06:14Z', 'closed_at': '2013-11-30T02:18:40Z', 'labels': []}
+{'issuenumber': 835, 'title': 'Jasmine.js file-include and missing adapter.js', 'state': 'closed', 'created_at': '2013-11-21T14:37:17Z', 'closed_at': '2013-11-30T02:36:12Z', 'labels': []}
+{'issuenumber': 833, 'title': 'Documentation Needed for clientArgs', 'state': 'closed', 'created_at': '2013-11-19T21:20:17Z', 'closed_at': '2013-11-30T02:12:04Z', 'labels': []}
+{'issuenumber': 832, 'title': 'logLevel in config file is not honored', 'state': 'closed', 'created_at': '2013-11-19T16:09:04Z', 'closed_at': '2013-12-04T05:23:00Z', 'labels': []}
+{'issuenumber': 831, 'title': 'Incorrect Test Error Messages on Webkit Browsers', 'state': 'closed', 'created_at': '2013-11-17T21:45:45Z', 'closed_at': '2013-11-30T02:41:30Z', 'labels': []}
+{'issuenumber': 828, 'title': 'Include html files as `<link rel="import">` and remove html2js preprocessor', 'state': 'closed', 'created_at': '2013-11-16T06:03:02Z', 'closed_at': '2014-06-29T11:29:39Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 827, 'title': 'karma init should ask about using html2js preprocessor', 'state': 'closed', 'created_at': '2013-11-15T21:31:13Z', 'closed_at': '2013-11-15T21:33:23Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 825, 'title': 'Running Node-Webkit tests on Karma', 'state': 'closed', 'created_at': '2013-11-15T08:47:15Z', 'closed_at': '2013-11-30T04:24:58Z', 'labels': []}
+{'issuenumber': 824, 'title': 'Kill Karma if user closes all the captured browsers', 'state': 'closed', 'created_at': '2013-11-13T23:19:26Z', 'closed_at': '2015-06-26T20:19:20Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 822, 'title': '`grunt` failing in fresh clone of karma-runner/karma master', 'state': 'closed', 'created_at': '2013-11-12T18:03:49Z', 'closed_at': '2013-11-15T20:16:06Z', 'labels': []}
+{'issuenumber': 820, 'title': 'Client closed connection before receiving entire response', 'state': 'closed', 'created_at': '2013-11-12T10:15:07Z', 'closed_at': '2013-12-24T07:19:33Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 819, 'title': 'Karma running all tests individually every run', 'state': 'closed', 'created_at': '2013-11-06T19:49:16Z', 'closed_at': '2013-11-16T01:27:58Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 818, 'title': 'Karma, PhantomJS : Disconnected during run, waiting for reconnecting.', 'state': 'closed', 'created_at': '2013-11-06T05:31:28Z', 'closed_at': '2013-11-16T01:24:28Z', 'labels': []}
+{'issuenumber': 817, 'title': 'docs(styling): add underlines to links', 'state': 'closed', 'created_at': '2013-11-03T03:48:28Z', 'closed_at': '2013-11-03T18:49:16Z', 'labels': []}
+{'issuenumber': 814, 'title': 'TrifleJS Support?', 'state': 'closed', 'created_at': '2013-10-30T21:29:27Z', 'closed_at': '2015-06-26T20:18:53Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 813, 'title': 'e2e: better way to wait for DOM ready then sleep() ?', 'state': 'closed', 'created_at': '2013-10-28T18:55:09Z', 'closed_at': '2013-12-02T15:06:40Z', 'labels': []}
+{'issuenumber': 812, 'title': 'karma on Vagrant app', 'state': 'closed', 'created_at': '2013-10-28T15:35:53Z', 'closed_at': '2013-10-28T15:42:31Z', 'labels': []}
+{'issuenumber': 811, 'title': 'Karma auto-release is able to release invalid code', 'state': 'closed', 'created_at': '2013-10-28T14:37:39Z', 'closed_at': '2016-01-04T20:39:27Z', 'labels': {'name': 'type: chore'}}
+{'issuenumber': 809, 'title': 'Create a folder containing all dependencies for easy download.', 'state': 'closed', 'created_at': '2013-10-27T12:08:58Z', 'closed_at': '2013-11-02T00:29:13Z', 'labels': []}
+{'issuenumber': 808, 'title': 'karma issue with plugins', 'state': 'closed', 'created_at': '2013-10-27T10:47:43Z', 'closed_at': '2014-05-01T11:16:26Z', 'labels': []}
+{'issuenumber': 806, 'title': 'Karma 0.10.3 OS 10.6.8 cannot capture any browser', 'state': 'closed', 'created_at': '2013-10-25T20:35:01Z', 'closed_at': '2013-10-25T21:30:01Z', 'labels': []}
+{'issuenumber': 805, 'title': 'Karma 0.10.3 & PhantomJS runner not capturing', 'state': 'closed', 'created_at': '2013-10-25T20:07:38Z', 'closed_at': '2013-10-26T04:58:29Z', 'labels': []}
+{'issuenumber': 804, 'title': 'Optional suppression of colored output for logging in Jenkins', 'state': 'closed', 'created_at': '2013-10-24T14:48:46Z', 'closed_at': '2013-10-30T08:58:55Z', 'labels': []}
+{'issuenumber': 802, 'title': "karma wrongly looks for my sources inside an 'app' folder:", 'state': 'closed', 'created_at': '2013-10-23T19:24:20Z', 'closed_at': '2013-10-23T22:47:59Z', 'labels': []}
+{'issuenumber': 800, 'title': '`karma init` should ask about using `html2js` preprocessor', 'state': 'closed', 'created_at': '2013-10-22T01:11:49Z', 'closed_at': '2015-06-26T20:58:22Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 799, 'title': 'failed to proxy', 'state': 'closed', 'created_at': '2013-10-21T12:27:04Z', 'closed_at': '2013-10-22T00:27:43Z', 'labels': []}
+{'issuenumber': 798, 'title': 'how to use karma make cross domain unit test?', 'state': 'closed', 'created_at': '2013-10-21T02:41:49Z', 'closed_at': '2013-10-22T00:29:53Z', 'labels': []}
+{'issuenumber': 797, 'title': 'require.js documentation out of date', 'state': 'closed', 'created_at': '2013-10-20T06:03:22Z', 'closed_at': '2013-10-22T00:30:50Z', 'labels': []}
+{'issuenumber': 796, 'title': "karma won't start tests on browsers launched via karma-script-launcher", 'state': 'closed', 'created_at': '2013-10-19T15:52:48Z', 'closed_at': '2013-11-02T00:40:43Z', 'labels': []}
+{'issuenumber': 795, 'title': 'mocha-as-promised with karma?', 'state': 'closed', 'created_at': '2013-10-18T19:24:44Z', 'closed_at': '2013-11-02T00:45:39Z', 'labels': []}
+{'issuenumber': 794, 'title': 'Update npm dependencies', 'state': 'closed', 'created_at': '2013-10-17T18:07:23Z', 'closed_at': '2013-12-26T03:04:41Z', 'labels': {'name': 'type: chore'}}
+{'issuenumber': 793, 'title': 'Debug screen shows blank page, even though tests run', 'state': 'closed', 'created_at': '2013-10-17T01:47:49Z', 'closed_at': '2013-10-23T00:02:22Z', 'labels': []}
+{'issuenumber': 792, 'title': 'npm install -g karma throws SyntaxError: Unexpected token P', 'state': 'closed', 'created_at': '2013-10-15T18:52:52Z', 'closed_at': '2013-10-15T20:44:58Z', 'labels': []}
+{'issuenumber': 791, 'title': 'karma auto-watch causes node to run continuously at max cpu', 'state': 'closed', 'created_at': '2013-10-15T16:19:46Z', 'closed_at': '2013-10-23T18:25:57Z', 'labels': []}
+{'issuenumber': 789, 'title': '500 Error Karma hangs up', 'state': 'closed', 'created_at': '2013-10-15T10:12:28Z', 'closed_at': '2014-05-01T11:26:43Z', 'labels': []}
+{'issuenumber': 788, 'title': 'Karma HTML2JS Preprocessor Blocks Jasmine Fixtures', 'state': 'closed', 'created_at': '2013-10-14T15:24:13Z', 'closed_at': '2013-11-15T21:35:03Z', 'labels': []}
+{'issuenumber': 787, 'title': "Repoters don't mention ignored tests", 'state': 'closed', 'created_at': '2013-10-14T12:47:33Z', 'closed_at': '2013-10-22T01:21:40Z', 'labels': []}
+{'issuenumber': 785, 'title': 'Error: No provider for framework:requirejs', 'state': 'closed', 'created_at': '2013-10-12T07:49:35Z', 'closed_at': '2013-10-16T01:50:20Z', 'labels': {'name': 'type: docs'}}
+{'issuenumber': 784, 'title': 'Update npm repo', 'state': 'closed', 'created_at': '2013-10-10T13:46:26Z', 'closed_at': '2013-10-15T10:39:57Z', 'labels': {'name': 'type: chore'}}
+{'issuenumber': 783, 'title': 'Karma not capturing with PhantomJS - I have a debug log and versions listed inside.', 'state': 'closed', 'created_at': '2013-10-10T11:07:50Z', 'closed_at': '2016-01-04T20:39:32Z', 'labels': {'name': 'windows'}}
+{'issuenumber': 782, 'title': 'Problem with custom JavaScript dependency resolver', 'state': 'closed', 'created_at': '2013-10-10T07:06:12Z', 'closed_at': '2013-11-16T02:03:31Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 780, 'title': 'Karma migration - no module error with html template', 'state': 'closed', 'created_at': '2013-10-07T12:53:57Z', 'closed_at': '2013-11-02T01:00:55Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 779, 'title': 'Allow custom browser names', 'state': 'closed', 'created_at': '2013-10-07T00:40:44Z', 'closed_at': '2016-01-19T21:19:47Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 775, 'title': 'npm install -g karma fails with ENOTEMPTY error', 'state': 'closed', 'created_at': '2013-10-04T14:04:41Z', 'closed_at': '2013-10-04T18:23:25Z', 'labels': []}
+{'issuenumber': 774, 'title': 'Handle absolute paths on Windows', 'state': 'closed', 'created_at': '2013-10-04T06:28:36Z', 'closed_at': '2016-01-04T20:39:39Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 772, 'title': 'Setting up the Karma Testrunner on Windows fails', 'state': 'closed', 'created_at': '2013-10-03T14:05:09Z', 'closed_at': '2013-10-04T18:21:50Z', 'labels': []}
+{'issuenumber': 771, 'title': 'Istanbul/coverage reporter generate LCOV file with relative path for SF parameter instead of absolute path', 'state': 'closed', 'created_at': '2013-10-03T12:47:49Z', 'closed_at': '2013-11-16T02:53:33Z', 'labels': []}
+{'issuenumber': 767, 'title': 'Peer Dependencies', 'state': 'closed', 'created_at': '2013-10-01T21:28:31Z', 'closed_at': '2013-12-07T06:05:47Z', 'labels': {'name': 'discuss'}}
+{'issuenumber': 765, 'title': 'Location of Istanbul generated report files', 'state': 'closed', 'created_at': '2013-09-30T17:08:53Z', 'closed_at': '2013-11-02T01:08:06Z', 'labels': {'name': 'support'}}
+{'issuenumber': 764, 'title': 'Add version numbering to the browser plugin configuration', 'state': 'closed', 'created_at': '2013-09-30T13:09:24Z', 'closed_at': '2021-03-30T08:44:35Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 763, 'title': 'Multiple callbacks from preprocessors cause premature execution.', 'state': 'closed', 'created_at': '2013-09-28T15:33:24Z', 'closed_at': '2015-05-17T18:13:25Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 762, 'title': 'Karma hangs while using phantomjs', 'state': 'closed', 'created_at': '2013-09-27T19:27:45Z', 'closed_at': '2013-09-28T16:07:51Z', 'labels': []}
+{'issuenumber': 761, 'title': 'Pattern configuration error with PhamtonJs Runner', 'state': 'closed', 'created_at': '2013-09-26T13:48:43Z', 'closed_at': '2015-06-26T19:54:40Z', 'labels': {'name': 'support'}}
+{'issuenumber': 759, 'title': "ReferenceError: Can't find variable: browser", 'state': 'closed', 'created_at': '2013-09-25T12:08:04Z', 'closed_at': '2013-10-04T18:51:35Z', 'labels': []}
+{'issuenumber': 758, 'title': 'Highlight testfile in errorreport', 'state': 'closed', 'created_at': '2013-09-24T11:24:02Z', 'closed_at': '2015-06-26T20:21:23Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 757, 'title': 'autoWatch and reporting', 'state': 'closed', 'created_at': '2013-09-24T01:20:07Z', 'closed_at': '2013-11-30T05:42:13Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 756, 'title': 'Unable to load html templates (using requirejs_handlerbars_plugin)', 'state': 'closed', 'created_at': '2013-09-23T19:40:02Z', 'closed_at': '2013-10-13T18:13:51Z', 'labels': {'name': 'support'}}
+{'issuenumber': 755, 'title': 'script-launcher : bad script browser recognition', 'state': 'closed', 'created_at': '2013-09-23T10:16:43Z', 'closed_at': '2013-09-23T10:17:51Z', 'labels': []}
+{'issuenumber': 753, 'title': 'Getting "Executed 0 of 0 ERROR" in the console', 'state': 'closed', 'created_at': '2013-09-23T09:41:41Z', 'closed_at': '2014-01-20T00:32:17Z', 'labels': {'name': 'support'}}
+{'issuenumber': 752, 'title': 'Karma hangs if CoffeeScript preprocessor finds an error', 'state': 'closed', 'created_at': '2013-09-23T08:25:06Z', 'closed_at': '2013-11-16T05:15:46Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 751, 'title': "Can't download Karma test runner", 'state': 'closed', 'created_at': '2013-09-19T21:27:00Z', 'closed_at': '2013-09-28T20:52:51Z', 'labels': []}
+{'issuenumber': 750, 'title': 'Strange node assertion error when trying to run karma', 'state': 'closed', 'created_at': '2013-09-19T12:09:24Z', 'closed_at': '2013-10-10T07:52:31Z', 'labels': []}
+{'issuenumber': 749, 'title': 'browser hung up the socket', 'state': 'closed', 'created_at': '2013-09-19T06:26:42Z', 'closed_at': '2013-10-13T18:12:45Z', 'labels': {'name': 'support'}}
+{'issuenumber': 748, 'title': 'Pull latest Angular Scenario version once Pull Request 4039 is pulled into angular.js', 'state': 'closed', 'created_at': '2013-09-18T14:56:38Z', 'closed_at': '2013-09-28T21:17:34Z', 'labels': []}
+{'issuenumber': 747, 'title': 'configure kharma server to serve media files?', 'state': 'closed', 'created_at': '2013-09-14T00:47:26Z', 'closed_at': '2013-09-14T01:50:14Z', 'labels': []}
+{'issuenumber': 746, 'title': 'Simulate clicks and other events', 'state': 'closed', 'created_at': '2013-09-12T18:27:04Z', 'closed_at': '2013-11-16T05:21:12Z', 'labels': []}
+{'issuenumber': 745, 'title': 'configuration in "proxies" not inerpreted in e2e?', 'state': 'closed', 'created_at': '2013-09-12T11:43:26Z', 'closed_at': '2013-11-16T05:18:57Z', 'labels': []}
+{'issuenumber': 744, 'title': 'Option to surpress console.log', 'state': 'closed', 'created_at': '2013-09-12T02:56:30Z', 'closed_at': '2013-12-10T02:43:01Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 743, 'title': 'Browser Control API', 'state': 'closed', 'created_at': '2013-09-12T02:42:16Z', 'closed_at': '2013-10-13T18:23:30Z', 'labels': {'name': 'discuss'}}
+{'issuenumber': 741, 'title': 'Fake XHR Error - karma-requirejs', 'state': 'closed', 'created_at': '2013-09-11T09:44:23Z', 'closed_at': '2013-09-18T08:24:07Z', 'labels': []}
+{'issuenumber': 740, 'title': 'text! plugin could not load the HTML template during test', 'state': 'closed', 'created_at': '2013-09-11T08:51:46Z', 'closed_at': '2013-09-23T18:37:52Z', 'labels': []}
+{'issuenumber': 739, 'title': 'webserver failing to serve served; !included files with querystring', 'state': 'closed', 'created_at': '2013-09-10T10:17:37Z', 'closed_at': '2013-11-16T05:53:38Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 738, 'title': 'Unable to get the CoffeeScript preprocessor working', 'state': 'closed', 'created_at': '2013-09-09T20:42:28Z', 'closed_at': '2013-11-16T05:35:12Z', 'labels': {'name': 'type: docs'}}
+{'issuenumber': 737, 'title': "TypeError: 'undefined' is not an object (evaluating '$injector.invoke')", 'state': 'closed', 'created_at': '2013-09-09T05:27:31Z', 'closed_at': '2013-10-04T19:04:00Z', 'labels': []}
+{'issuenumber': 736, 'title': 'HTML Fixtures not loading', 'state': 'closed', 'created_at': '2013-09-05T20:42:36Z', 'closed_at': '2013-11-16T06:03:37Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 735, 'title': 'Karma 0.10.2 Can not load "html2js"', 'state': 'closed', 'created_at': '2013-09-05T13:58:40Z', 'closed_at': '2013-09-05T14:13:50Z', 'labels': []}
+{'issuenumber': 734, 'title': 'Karma 0.10 "server.start" API cannot be killed with Ctrl-C', 'state': 'closed', 'created_at': '2013-09-04T20:53:37Z', 'closed_at': '2013-10-13T19:14:14Z', 'labels': []}
+{'issuenumber': 733, 'title': 'multiple proxies', 'state': 'closed', 'created_at': '2013-09-04T18:40:38Z', 'closed_at': '2013-12-02T16:39:13Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 731, 'title': 'Prettyprinter fails in Karma 0.10 when Mac OS terminal window is too narrow', 'state': 'closed', 'created_at': '2013-09-03T20:08:10Z', 'closed_at': '2015-05-17T18:18:56Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 730, 'title': 'debug.html throws exception sometimes', 'state': 'closed', 'created_at': '2013-09-02T16:43:27Z', 'closed_at': '2013-09-06T19:04:58Z', 'labels': []}
+{'issuenumber': 729, 'title': '"Some of your tests did a full page reload!" in IE9, using html5mode', 'state': 'closed', 'created_at': '2013-09-01T23:20:35Z', 'closed_at': '2013-11-29T21:01:14Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 728, 'title': 'file paths that includes parentheses causes base directory to be wrong', 'state': 'closed', 'created_at': '2013-08-30T13:15:02Z', 'closed_at': '2013-11-16T23:27:57Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 725, 'title': 'this._browsers [] is undefined on Base.js when .push(browser) is called when running coverage reports', 'state': 'closed', 'created_at': '2013-08-28T19:51:06Z', 'closed_at': '2013-11-17T01:37:51Z', 'labels': []}
+{'issuenumber': 724, 'title': 'progress reporter clobbers logs', 'state': 'closed', 'created_at': '2013-08-28T11:17:20Z', 'closed_at': '2015-05-17T18:19:31Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 722, 'title': "'undefined' is not a function", 'state': 'closed', 'created_at': '2013-08-27T18:04:03Z', 'closed_at': '2013-08-27T18:52:50Z', 'labels': []}
+{'issuenumber': 721, 'title': 'GitHub sexist remarks need to stop ', 'state': 'closed', 'created_at': '2013-08-27T15:24:32Z', 'closed_at': '2013-08-27T15:29:32Z', 'labels': []}
+{'issuenumber': 719, 'title': 'Proxies not being mapped for absolute urls using ng-scenario', 'state': 'closed', 'created_at': '2013-08-26T10:10:20Z', 'closed_at': '2015-06-26T20:20:52Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 718, 'title': 'When I clicked "DEBUG" window.parent of opened window doesn\'t reference to opener window', 'state': 'closed', 'created_at': '2013-08-25T15:48:58Z', 'closed_at': '2013-08-25T23:16:02Z', 'labels': []}
+{'issuenumber': 717, 'title': 'safari require ie-launcher plugin', 'state': 'closed', 'created_at': '2013-08-23T12:03:00Z', 'closed_at': '2013-11-30T05:55:57Z', 'labels': {'name': 'type: docs'}}
+{'issuenumber': 716, 'title': "The package karma does not satisfy its siblings' peerDependencies requirements!", 'state': 'closed', 'created_at': '2013-08-21T21:05:38Z', 'closed_at': '2013-08-25T04:18:37Z', 'labels': []}
+{'issuenumber': 715, 'title': 'MOCHA is not supported anymore', 'state': 'closed', 'created_at': '2013-08-21T14:49:47Z', 'closed_at': '2013-08-24T21:48:02Z', 'labels': []}
+{'issuenumber': 713, 'title': 'simple jasmine unit-test not working (PhantomJS 1.9.1 (Windows 7): Executed 0 of 0 ERROR (0.274 secs / 0 secs))', 'state': 'closed', 'created_at': '2013-08-21T08:08:42Z', 'closed_at': '2013-08-25T04:16:03Z', 'labels': []}
+{'issuenumber': 711, 'title': 'Extra IE 32bit processes', 'state': 'closed', 'created_at': '2013-08-20T18:04:39Z', 'closed_at': '2013-11-17T03:23:27Z', 'labels': []}
+{'issuenumber': 710, 'title': "BaseReporter.onBrowserLog doesn't honor logLevel", 'state': 'closed', 'created_at': '2013-08-20T09:39:11Z', 'closed_at': '2015-07-07T09:14:31Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 709, 'title': 'Strange problem when running Karma tests', 'state': 'closed', 'created_at': '2013-08-20T09:34:50Z', 'closed_at': '2013-08-25T04:32:26Z', 'labels': []}
+{'issuenumber': 708, 'title': 'Waiting for previous execution...', 'state': 'closed', 'created_at': '2013-08-20T07:53:06Z', 'closed_at': '2013-08-25T04:11:33Z', 'labels': []}
+{'issuenumber': 707, 'title': 'Modules not loaded with karma requirejs', 'state': 'closed', 'created_at': '2013-08-20T06:05:14Z', 'closed_at': '2015-06-26T19:54:27Z', 'labels': {'name': 'support'}}
+{'issuenumber': 706, 'title': 'Cannot start karma - no provider for jasmine', 'state': 'closed', 'created_at': '2013-08-19T19:15:14Z', 'closed_at': '2013-08-19T20:50:05Z', 'labels': []}
+{'issuenumber': 705, 'title': 'Routing problem with XHR-polling, returns 404', 'state': 'closed', 'created_at': '2013-08-19T15:21:33Z', 'closed_at': '2015-06-26T20:15:10Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 704, 'title': 'Karma will not run my tests with Jasmine', 'state': 'closed', 'created_at': '2013-08-18T17:04:03Z', 'closed_at': '2013-08-19T04:21:20Z', 'labels': []}
+{'issuenumber': 702, 'title': 'Problem with configuration setting. ', 'state': 'closed', 'created_at': '2013-08-15T23:15:18Z', 'closed_at': '2013-08-19T00:02:31Z', 'labels': []}
+{'issuenumber': 700, 'title': 'npm list -g', 'state': 'closed', 'created_at': '2013-08-15T20:06:45Z', 'closed_at': '2013-08-15T20:06:57Z', 'labels': []}
+{'issuenumber': 699, 'title': 'Karma 0.10 lacks support for custom load order of frameworks / files', 'state': 'closed', 'created_at': '2013-08-15T17:30:15Z', 'closed_at': '2015-06-26T20:06:45Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 698, 'title': "Can't install Karma", 'state': 'closed', 'created_at': '2013-08-14T19:30:11Z', 'closed_at': '2013-08-15T08:24:48Z', 'labels': []}
+{'issuenumber': 697, 'title': 'Strange behavior when running Karma on my Ubuntu 13.04', 'state': 'closed', 'created_at': '2013-08-14T15:23:27Z', 'closed_at': '2014-04-08T22:10:06Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 696, 'title': "Can't connect to the server", 'state': 'closed', 'created_at': '2013-08-14T12:56:37Z', 'closed_at': '2013-08-15T14:32:36Z', 'labels': []}
+{'issuenumber': 695, 'title': 'Karma ng-scenario e2e test are being skipped', 'state': 'closed', 'created_at': '2013-08-12T18:09:00Z', 'closed_at': '2015-06-26T20:21:46Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 694, 'title': 'Propose: capture window.confirm', 'state': 'closed', 'created_at': '2013-08-11T18:31:43Z', 'closed_at': '2017-01-14T19:40:58Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 693, 'title': 'docs: incorrect text display', 'state': 'closed', 'created_at': '2013-08-11T16:47:44Z', 'closed_at': '2013-08-11T23:17:44Z', 'labels': []}
+{'issuenumber': 692, 'title': "e2e : TypeError: Cannot call method 'invoke' of undefined (on angularjs + requirejs)", 'state': 'closed', 'created_at': '2013-08-10T16:50:21Z', 'closed_at': '2013-08-11T08:33:00Z', 'labels': []}
+{'issuenumber': 691, 'title': 'Web Server Fails to Serve karma.js', 'state': 'closed', 'created_at': '2013-08-09T18:48:26Z', 'closed_at': '2013-08-09T19:20:41Z', 'labels': []}
+{'issuenumber': 689, 'title': 'Shell completion should be case insensitive', 'state': 'closed', 'created_at': '2013-08-08T19:33:19Z', 'closed_at': '2016-01-04T20:36:07Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 688, 'title': 'Karma runner is too fast', 'state': 'closed', 'created_at': '2013-08-08T18:51:12Z', 'closed_at': '2013-08-09T03:00:58Z', 'labels': []}
+{'issuenumber': 687, 'title': 'Code coverage is not working in the latest v0.10.*', 'state': 'closed', 'created_at': '2013-08-08T07:41:06Z', 'closed_at': '2013-08-08T20:05:53Z', 'labels': []}
+{'issuenumber': 686, 'title': 'How to install version 0.10', 'state': 'closed', 'created_at': '2013-08-08T06:07:38Z', 'closed_at': '2013-08-18T22:48:54Z', 'labels': []}
+{'issuenumber': 683, 'title': 'npm installation on Mac OS X 10.8 failes', 'state': 'closed', 'created_at': '2013-08-07T14:00:33Z', 'closed_at': '2013-11-17T04:09:09Z', 'labels': []}
+{'issuenumber': 682, 'title': 'Executed 0 of 0 ERROR', 'state': 'closed', 'created_at': '2013-08-07T11:21:46Z', 'closed_at': '2013-08-08T05:34:28Z', 'labels': []}
+{'issuenumber': 681, 'title': 'Karma 0.10: Issue creating new karma.conf.js', 'state': 'closed', 'created_at': '2013-08-06T20:31:35Z', 'closed_at': '2013-08-06T22:09:50Z', 'labels': []}
+{'issuenumber': 680, 'title': 'karma 0.10.0 init fails with Type Error', 'state': 'closed', 'created_at': '2013-08-06T20:13:22Z', 'closed_at': '2013-08-06T22:09:49Z', 'labels': []}
+{'issuenumber': 677, 'title': "Karma 0.10: Cannot call method 'existsSync' of undefined", 'state': 'closed', 'created_at': '2013-08-06T11:55:04Z', 'closed_at': '2013-08-06T18:59:13Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 676, 'title': "karma doesn't work with node v0.11.4", 'state': 'closed', 'created_at': '2013-08-06T09:32:52Z', 'closed_at': '2015-05-15T20:47:16Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 675, 'title': 'Support for <reference ..> tags in comments (IntelliSense support)', 'state': 'closed', 'created_at': '2013-08-05T09:59:30Z', 'closed_at': '2014-06-29T13:23:31Z', 'labels': {'name': 'support'}}
+{'issuenumber': 674, 'title': 'Add hooks to start / stop background services alongside karma', 'state': 'closed', 'created_at': '2013-08-05T01:54:09Z', 'closed_at': '2015-06-26T20:14:28Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 673, 'title': 'Optional fail if coverage threshold not met', 'state': 'closed', 'created_at': '2013-08-03T13:45:12Z', 'closed_at': '2015-06-26T20:16:02Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 672, 'title': 'feat: pass command line arguments for `start` command', 'state': 'closed', 'created_at': '2013-08-02T06:09:33Z', 'closed_at': '2013-08-03T03:17:12Z', 'labels': []}
+{'issuenumber': 668, 'title': "karma requirejs doesn't load backbone neither underscore", 'state': 'closed', 'created_at': '2013-07-30T09:12:31Z', 'closed_at': '2013-07-30T13:19:22Z', 'labels': {'name': 'support'}}
+{'issuenumber': 667, 'title': "karma requirejs doesn't load backbone neither underscore", 'state': 'closed', 'created_at': '2013-07-30T08:56:38Z', 'closed_at': '2013-07-31T02:00:15Z', 'labels': []}
+{'issuenumber': 665, 'title': '"No timestamp" loading files from proxy server', 'state': 'closed', 'created_at': '2013-07-29T18:55:43Z', 'closed_at': '2013-07-30T05:39:22Z', 'labels': []}
+{'issuenumber': 664, 'title': 'Cannot find karma-mocha', 'state': 'closed', 'created_at': '2013-07-29T18:01:41Z', 'closed_at': '2013-07-30T05:24:36Z', 'labels': []}
+{'issuenumber': 663, 'title': 'problem using karma init my.conf.js', 'state': 'closed', 'created_at': '2013-07-27T04:39:34Z', 'closed_at': '2013-07-30T19:12:24Z', 'labels': []}
+{'issuenumber': 662, 'title': 'How to access the test window?', 'state': 'closed', 'created_at': '2013-07-26T23:05:56Z', 'closed_at': '2013-11-17T04:33:25Z', 'labels': []}
+{'issuenumber': 661, 'title': 'ReferenceError: browser is not defined', 'state': 'closed', 'created_at': '2013-07-26T22:13:30Z', 'closed_at': '2013-07-29T07:31:09Z', 'labels': []}
+{'issuenumber': 660, 'title': '`karma.js` is not found for Karma v0.9.5', 'state': 'closed', 'created_at': '2013-07-26T05:29:42Z', 'closed_at': '2013-07-29T09:06:19Z', 'labels': []}
+{'issuenumber': 659, 'title': 'Unable to Configure Preprocessors', 'state': 'closed', 'created_at': '2013-07-26T01:40:25Z', 'closed_at': '2013-07-29T09:46:50Z', 'labels': []}
+{'issuenumber': 658, 'title': 'Support for the mocha html-cov reporter', 'state': 'closed', 'created_at': '2013-07-25T23:23:00Z', 'closed_at': '2013-07-30T03:00:18Z', 'labels': []}
+{'issuenumber': 657, 'title': "Karma 0.9.5 - jQuery not loading 'static' resources", 'state': 'closed', 'created_at': '2013-07-25T18:06:59Z', 'closed_at': '2013-08-25T05:37:12Z', 'labels': []}
+{'issuenumber': 655, 'title': 'ANGULAR_SCENARIO is not defined', 'state': 'closed', 'created_at': '2013-07-25T14:57:41Z', 'closed_at': '2013-07-25T15:00:04Z', 'labels': []}
+{'issuenumber': 654, 'title': 'PhantomJS: Reset localStorage after test run', 'state': 'closed', 'created_at': '2013-07-25T08:32:27Z', 'closed_at': '2013-07-29T09:01:22Z', 'labels': []}
+{'issuenumber': 653, 'title': "[TypeError: Cannot call method 'charAt' of undefined] during Karma start", 'state': 'closed', 'created_at': '2013-07-25T00:45:44Z', 'closed_at': '2013-07-30T04:04:21Z', 'labels': []}
+{'issuenumber': 650, 'title': 'Istanbul Coverage Reporter With Karma and IE', 'state': 'closed', 'created_at': '2013-07-22T08:51:32Z', 'closed_at': '2013-08-09T16:24:25Z', 'labels': []}
+{'issuenumber': 649, 'title': 'Trying to track down a bug in Jasmine', 'state': 'closed', 'created_at': '2013-07-18T21:03:08Z', 'closed_at': '2013-07-22T00:48:17Z', 'labels': []}
+{'issuenumber': 646, 'title': 'karma start not working - test\\e2e\\basic ', 'state': 'closed', 'created_at': '2013-07-17T05:02:59Z', 'closed_at': '2015-06-26T20:15:44Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 645, 'title': 'Request for beforeOnce ', 'state': 'closed', 'created_at': '2013-07-16T19:07:52Z', 'closed_at': '2013-11-30T06:03:02Z', 'labels': []}
+{'issuenumber': 644, 'title': 'Tests with Angular Taking Too Long', 'state': 'closed', 'created_at': '2013-07-16T14:20:12Z', 'closed_at': '2013-07-29T06:47:16Z', 'labels': []}
+{'issuenumber': 643, 'title': 'console.log logs wrong Date', 'state': 'closed', 'created_at': '2013-07-16T10:53:48Z', 'closed_at': '2013-07-16T18:58:48Z', 'labels': []}
+{'issuenumber': 642, 'title': 'Can not launch IE', 'state': 'closed', 'created_at': '2013-07-16T09:11:40Z', 'closed_at': '2013-09-28T21:12:23Z', 'labels': []}
+{'issuenumber': 641, 'title': "Adapter `karma-mocha` isn't installed along with NPM package", 'state': 'closed', 'created_at': '2013-07-16T08:28:20Z', 'closed_at': '2013-07-16T18:37:01Z', 'labels': []}
+{'issuenumber': 640, 'title': 'Functions logged as null', 'state': 'closed', 'created_at': '2013-07-15T21:24:42Z', 'closed_at': '2013-07-16T07:37:36Z', 'labels': []}
+{'issuenumber': 639, 'title': 'Bad Link in 03-browsers.md', 'state': 'closed', 'created_at': '2013-07-15T13:49:28Z', 'closed_at': '2013-07-16T03:04:21Z', 'labels': []}
+{'issuenumber': 638, 'title': 'Runs old version of coffeescript', 'state': 'closed', 'created_at': '2013-07-15T06:44:06Z', 'closed_at': '2013-07-15T07:06:16Z', 'labels': []}
+{'issuenumber': 637, 'title': 'Karma is super slow after installing .NET 4.5 and PowerShell', 'state': 'closed', 'created_at': '2013-07-14T10:01:12Z', 'closed_at': '2015-06-04T19:58:40Z', 'labels': {'name': 'windows'}}
+{'issuenumber': 636, 'title': 'CSS files should be loaded in <head>', 'state': 'closed', 'created_at': '2013-07-13T06:29:35Z', 'closed_at': '2016-02-19T20:59:36Z', 'labels': []}
+{'issuenumber': 635, 'title': 'Chrome have not captured in 5000 ms', 'state': 'closed', 'created_at': '2013-07-12T21:38:46Z', 'closed_at': '2013-08-01T14:16:04Z', 'labels': []}
+{'issuenumber': 634, 'title': 'Add option to enable browser settings', 'state': 'closed', 'created_at': '2013-07-12T13:58:22Z', 'closed_at': '2013-07-13T06:59:10Z', 'labels': []}
+{'issuenumber': 632, 'title': 'Unexpected token when including an html file', 'state': 'closed', 'created_at': '2013-07-11T08:52:21Z', 'closed_at': '2013-07-13T06:33:37Z', 'labels': []}
+{'issuenumber': 631, 'title': 'Be able to dynamically modify the static html pages to force IE Browser modes', 'state': 'closed', 'created_at': '2013-07-10T15:31:37Z', 'closed_at': '2014-06-29T13:18:39Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 630, 'title': 'debugging is unavailable if coverage configured', 'state': 'closed', 'created_at': '2013-07-10T11:37:04Z', 'closed_at': '2015-06-04T19:59:04Z', 'labels': {'name': 'webstorm'}}
+{'issuenumber': 629, 'title': 'RegExp is NULL on Karma@0.9.4 + PhantomJS@1.9.1', 'state': 'closed', 'created_at': '2013-07-09T04:06:25Z', 'closed_at': '2013-07-14T04:51:29Z', 'labels': []}
+{'issuenumber': 628, 'title': 'Test sources and then their minified version?', 'state': 'closed', 'created_at': '2013-07-08T11:57:04Z', 'closed_at': '2013-07-16T07:48:50Z', 'labels': []}
+{'issuenumber': 627, 'title': '[feature request] Highlight mismatch ', 'state': 'closed', 'created_at': '2013-07-08T09:30:31Z', 'closed_at': '2014-07-02T19:43:42Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 625, 'title': 'Allow passing config file to karma run', 'state': 'closed', 'created_at': '2013-07-05T21:07:52Z', 'closed_at': '2013-08-03T01:38:42Z', 'labels': []}
+{'issuenumber': 624, 'title': 'need npm update', 'state': 'closed', 'created_at': '2013-07-05T20:34:39Z', 'closed_at': '2013-07-08T06:42:27Z', 'labels': []}
+{'issuenumber': 623, 'title': 'test performance slowdown', 'state': 'closed', 'created_at': '2013-07-05T12:12:21Z', 'closed_at': '2013-07-13T05:50:33Z', 'labels': []}
+{'issuenumber': 622, 'title': 'Add code coverage support for coffeescript', 'state': 'closed', 'created_at': '2013-07-05T10:14:56Z', 'closed_at': '2013-09-28T21:20:46Z', 'labels': []}
+{'issuenumber': 621, 'title': 'Opera 15.0 does not work', 'state': 'closed', 'created_at': '2013-07-04T14:26:02Z', 'closed_at': '2013-08-22T04:28:04Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 619, 'title': '`console.log` Fails with Circular References', 'state': 'closed', 'created_at': '2013-07-03T22:46:40Z', 'closed_at': '2013-07-16T20:11:44Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 617, 'title': "Getting error 'Uncaught ReferenceError: module is not defined' when requiering mongoose in unit tests", 'state': 'closed', 'created_at': '2013-07-03T11:00:14Z', 'closed_at': '2013-07-03T17:50:50Z', 'labels': []}
+{'issuenumber': 616, 'title': '"watched: false" not being honored in config file.', 'state': 'closed', 'created_at': '2013-07-03T06:36:29Z', 'closed_at': '2013-10-22T00:13:24Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 615, 'title': 'I got fail everytime Please help', 'state': 'closed', 'created_at': '2013-07-02T22:59:26Z', 'closed_at': '2013-07-04T05:46:02Z', 'labels': []}
+{'issuenumber': 614, 'title': "safe way to let WebStorm know 'runner' and 'webServer' ports", 'state': 'closed', 'created_at': '2013-07-02T15:37:12Z', 'closed_at': '2015-06-04T19:59:20Z', 'labels': {'name': 'webstorm'}}
+{'issuenumber': 613, 'title': 'Re-executes tests continuously in the same browser (race condition bug)', 'state': 'closed', 'created_at': '2013-07-01T14:13:41Z', 'closed_at': '2013-07-04T21:18:04Z', 'labels': []}
+{'issuenumber': 609, 'title': 'Run function when Karma test fails', 'state': 'closed', 'created_at': '2013-06-28T22:49:41Z', 'closed_at': '2013-07-04T01:48:28Z', 'labels': []}
+{'issuenumber': 608, 'title': 'How to run ANGULAR_SCENARIO + MOCHA at the same time with a MOCHA test?', 'state': 'closed', 'created_at': '2013-06-28T03:08:04Z', 'closed_at': '2013-06-30T05:38:19Z', 'labels': []}
+{'issuenumber': 607, 'title': 'Hover on an element?', 'state': 'closed', 'created_at': '2013-06-27T19:30:16Z', 'closed_at': '2013-06-28T07:33:40Z', 'labels': []}
+{'issuenumber': 606, 'title': 'Karma not executing my tests with require', 'state': 'closed', 'created_at': '2013-06-27T14:34:45Z', 'closed_at': '2013-06-30T06:15:56Z', 'labels': []}
+{'issuenumber': 605, 'title': 'Karma doesnt respects the capture timeout for IE', 'state': 'closed', 'created_at': '2013-06-27T10:53:27Z', 'closed_at': '2013-07-03T00:24:20Z', 'labels': {'name': 'windows'}}
+{'issuenumber': 600, 'title': 'Error: Script Error from requireJS', 'state': 'closed', 'created_at': '2013-06-25T21:47:51Z', 'closed_at': '2013-06-27T14:36:16Z', 'labels': []}
+{'issuenumber': 599, 'title': 'Testing external applications', 'state': 'closed', 'created_at': '2013-06-25T18:46:15Z', 'closed_at': '2013-06-30T06:37:20Z', 'labels': []}
+{'issuenumber': 598, 'title': 'random DISCONNECTED messages from PhantomJS', 'state': 'closed', 'created_at': '2013-06-25T14:19:59Z', 'closed_at': '2016-03-03T12:30:16Z', 'labels': []}
+{'issuenumber': 596, 'title': 'ReferenceError: MOCHA is not defined', 'state': 'closed', 'created_at': '2013-06-25T08:59:32Z', 'closed_at': '2013-06-30T04:20:57Z', 'labels': []}
+{'issuenumber': 595, 'title': 'Reload config file when it changes', 'state': 'closed', 'created_at': '2013-06-24T21:40:31Z', 'closed_at': '2015-06-04T20:00:16Z', 'labels': {'name': 'discuss'}}
+{'issuenumber': 594, 'title': 'Use source maps for stacktraces', 'state': 'closed', 'created_at': '2013-06-24T15:01:53Z', 'closed_at': '2013-12-24T09:55:08Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 593, 'title': "Code coverage isn't gathered", 'state': 'closed', 'created_at': '2013-06-21T11:40:34Z', 'closed_at': '2013-06-27T17:42:58Z', 'labels': []}
+{'issuenumber': 591, 'title': "Karma doesn't work with SSH + Cygwin", 'state': 'closed', 'created_at': '2013-06-20T21:25:48Z', 'closed_at': '2013-07-04T09:20:52Z', 'labels': []}
+{'issuenumber': 590, 'title': 'browser disconnection when debugging tests', 'state': 'closed', 'created_at': '2013-06-20T20:46:02Z', 'closed_at': '2013-08-21T10:39:10Z', 'labels': {'name': 'webstorm'}}
+{'issuenumber': 589, 'title': 'Request ownership of Safari launcher', 'state': 'closed', 'created_at': '2013-06-20T17:03:56Z', 'closed_at': '2013-07-16T09:51:53Z', 'labels': []}
+{'issuenumber': 588, 'title': "Different behaviours for its AngularJS Scenario Test Runner in IE’s multiple 'compatibility modes'", 'state': 'closed', 'created_at': '2013-06-20T10:41:03Z', 'closed_at': '2013-06-30T08:17:01Z', 'labels': []}
+{'issuenumber': 587, 'title': "Cannot call method 'isDirectory' of undefined on mac os lion", 'state': 'closed', 'created_at': '2013-06-20T05:34:06Z', 'closed_at': '2013-06-30T07:55:08Z', 'labels': []}
+{'issuenumber': 585, 'title': 'Using karma with rails', 'state': 'closed', 'created_at': '2013-06-19T13:34:28Z', 'closed_at': '2013-06-25T03:39:41Z', 'labels': []}
+{'issuenumber': 584, 'title': 'Karma waits forever and does not close PhantomJS browser', 'state': 'closed', 'created_at': '2013-06-19T04:42:48Z', 'closed_at': '2013-06-27T17:34:44Z', 'labels': []}
+{'issuenumber': 583, 'title': 'The backslash character is not escaped when using html2js (angular)', 'state': 'closed', 'created_at': '2013-06-18T22:36:11Z', 'closed_at': '2013-07-16T19:42:52Z', 'labels': []}
+{'issuenumber': 582, 'title': 'Explain what "frameworks" does in the configuration file', 'state': 'closed', 'created_at': '2013-06-18T17:54:59Z', 'closed_at': '2013-06-25T03:47:45Z', 'labels': []}
+{'issuenumber': 581, 'title': 'https support for karma server', 'state': 'closed', 'created_at': '2013-06-18T07:48:54Z', 'closed_at': '2015-06-04T20:04:17Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 580, 'title': '/0.8/config/configuration_file.html missing on github page', 'state': 'closed', 'created_at': '2013-06-18T03:38:14Z', 'closed_at': '2013-06-24T02:04:02Z', 'labels': []}
+{'issuenumber': 578, 'title': 'Avoid running coverage preprocessor unless coverage reporter is used', 'state': 'closed', 'created_at': '2013-06-17T14:27:34Z', 'closed_at': '2013-06-30T07:51:02Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 577, 'title': 'Tests fails on 2e2', 'state': 'closed', 'created_at': '2013-06-16T17:17:09Z', 'closed_at': '2013-07-04T08:08:32Z', 'labels': []}
+{'issuenumber': 575, 'title': 'preprocessor cache invalidation fails for preprocessor results that use multiple files', 'state': 'closed', 'created_at': '2013-06-13T19:01:38Z', 'closed_at': '2013-06-15T04:57:29Z', 'labels': []}
+{'issuenumber': 572, 'title': 'is there a karma preprocessor for jade files?', 'state': 'closed', 'created_at': '2013-06-13T01:55:47Z', 'closed_at': '2013-06-13T10:13:34Z', 'labels': []}
+{'issuenumber': 571, 'title': 'Ability to add files and preprocessors programmatically', 'state': 'closed', 'created_at': '2013-06-13T00:44:44Z', 'closed_at': '2013-06-16T01:02:42Z', 'labels': []}
+{'issuenumber': 570, 'title': "Can't install version 0.9.2 behind corporate firewall", 'state': 'closed', 'created_at': '2013-06-11T23:13:38Z', 'closed_at': '2013-06-17T06:27:35Z', 'labels': []}
+{'issuenumber': 566, 'title': 'Buffer the files in preprocessor to prevent EACCESS errors.', 'state': 'closed', 'created_at': '2013-06-10T19:09:36Z', 'closed_at': '2013-06-16T22:27:22Z', 'labels': []}
+{'issuenumber': 565, 'title': 'Support for plugging in preprocessors', 'state': 'closed', 'created_at': '2013-06-10T15:37:59Z', 'closed_at': '2013-06-13T18:12:24Z', 'labels': []}
+{'issuenumber': 564, 'title': 'Reporter with all specs', 'state': 'closed', 'created_at': '2013-06-05T20:40:37Z', 'closed_at': '2015-06-26T20:10:47Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 563, 'title': 'Update package with npm', 'state': 'closed', 'created_at': '2013-06-04T13:56:08Z', 'closed_at': '2013-06-11T23:05:44Z', 'labels': []}
+{'issuenumber': 562, 'title': 'EmberJS handlebars preprocessor', 'state': 'closed', 'created_at': '2013-05-31T18:37:58Z', 'closed_at': '2013-06-16T14:18:04Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 561, 'title': 'Serving sources from different folders', 'state': 'closed', 'created_at': '2013-05-31T15:38:31Z', 'closed_at': '2013-06-12T23:05:02Z', 'labels': []}
+{'issuenumber': 560, 'title': 'Dots reporter spams output', 'state': 'closed', 'created_at': '2013-05-30T20:21:23Z', 'closed_at': '2013-06-12T22:38:53Z', 'labels': []}
+{'issuenumber': 558, 'title': 'Karma is not able to run test cases on phantomJS', 'state': 'closed', 'created_at': '2013-05-28T11:32:09Z', 'closed_at': '2020-05-19T21:38:44Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 557, 'title': 'karma init - some promts still have "Testacular"', 'state': 'closed', 'created_at': '2013-05-26T10:52:31Z', 'closed_at': '2013-06-12T22:01:23Z', 'labels': []}
+{'issuenumber': 556, 'title': 'Karma fails to run in Command Prompt, but runs properly in PowerShell', 'state': 'closed', 'created_at': '2013-05-24T12:04:31Z', 'closed_at': '2015-06-04T20:01:11Z', 'labels': {'name': 'windows'}}
+{'issuenumber': 555, 'title': 'Can karma be installed without "-g" ?', 'state': 'closed', 'created_at': '2013-05-23T16:18:36Z', 'closed_at': '2013-06-12T21:52:04Z', 'labels': []}
+{'issuenumber': 554, 'title': 'Module is not defined issue?', 'state': 'closed', 'created_at': '2013-05-20T20:32:15Z', 'closed_at': '2013-06-07T05:10:49Z', 'labels': []}
+{'issuenumber': 553, 'title': 'Small Question, Can I run specific test file when using karma?', 'state': 'closed', 'created_at': '2013-05-20T04:42:12Z', 'closed_at': '2013-06-09T05:19:36Z', 'labels': []}
+{'issuenumber': 552, 'title': 'Add support for testing CommonJS format modules', 'state': 'closed', 'created_at': '2013-05-18T00:34:32Z', 'closed_at': '2013-08-26T05:49:32Z', 'labels': []}
+{'issuenumber': 551, 'title': 'Page title is still "Testacular" in 0.8.5', 'state': 'closed', 'created_at': '2013-05-15T21:31:27Z', 'closed_at': '2013-06-07T22:11:01Z', 'labels': []}
+{'issuenumber': 550, 'title': 'Preprocessor failure should cancel (not even start) the execution', 'state': 'closed', 'created_at': '2013-05-15T21:29:03Z', 'closed_at': '2014-02-05T01:42:55Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 549, 'title': 'npm install karma@canary fails', 'state': 'closed', 'created_at': '2013-05-15T14:55:59Z', 'closed_at': '2013-06-05T15:46:19Z', 'labels': []}
+{'issuenumber': 547, 'title': '"karma run" command produces a trailing sequence of 0 bytes', 'state': 'closed', 'created_at': '2013-05-14T20:24:35Z', 'closed_at': '2015-06-04T20:04:35Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 546, 'title': 'Karma installation failed', 'state': 'closed', 'created_at': '2013-05-14T00:36:58Z', 'closed_at': '2013-06-12T21:31:00Z', 'labels': []}
+{'issuenumber': 545, 'title': 'Karma installation problem', 'state': 'closed', 'created_at': '2013-05-13T13:57:28Z', 'closed_at': '2013-06-12T22:21:04Z', 'labels': []}
+{'issuenumber': 544, 'title': 'Make sure to not hit open file descriptor limit', 'state': 'closed', 'created_at': '2013-05-11T23:58:52Z', 'closed_at': '2016-01-19T21:20:43Z', 'labels': {'name': 'type: refactor'}}
+{'issuenumber': 543, 'title': 'Script error. at 0:', 'state': 'closed', 'created_at': '2013-05-10T15:33:55Z', 'closed_at': '2013-05-12T02:17:26Z', 'labels': []}
+{'issuenumber': 542, 'title': 'Integration with Selenium or Sahi', 'state': 'closed', 'created_at': '2013-05-10T13:46:27Z', 'closed_at': '2013-06-13T18:38:38Z', 'labels': []}
+{'issuenumber': 541, 'title': 'Browser asking permission to print blank file every time karma runs tests', 'state': 'closed', 'created_at': '2013-05-10T12:31:27Z', 'closed_at': '2013-05-12T02:03:46Z', 'labels': []}
+{'issuenumber': 540, 'title': 'npm install karma fails', 'state': 'closed', 'created_at': '2013-05-10T01:05:06Z', 'closed_at': '2013-05-12T15:01:41Z', 'labels': []}
+{'issuenumber': 539, 'title': 'browser().navigateTo() hangs', 'state': 'closed', 'created_at': '2013-05-09T14:32:51Z', 'closed_at': '2013-05-12T01:06:08Z', 'labels': []}
+{'issuenumber': 537, 'title': 'karma not finding some files -[Solved]', 'state': 'closed', 'created_at': '2013-05-07T19:57:51Z', 'closed_at': '2013-05-12T00:58:46Z', 'labels': []}
+{'issuenumber': 536, 'title': 'MSBuild error while installing karma on Windows8', 'state': 'closed', 'created_at': '2013-05-06T23:22:33Z', 'closed_at': '2013-05-12T02:53:14Z', 'labels': []}
+{'issuenumber': 535, 'title': 'browser listener API', 'state': 'closed', 'created_at': '2013-05-06T22:06:16Z', 'closed_at': '2013-07-04T02:49:11Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 534, 'title': '"Delaying execution..." also happens in e2e tests', 'state': 'closed', 'created_at': '2013-05-06T21:55:48Z', 'closed_at': '2013-07-30T03:36:05Z', 'labels': []}
+{'issuenumber': 532, 'title': 'AngularJS + Socket.IO + karma not working in karma 0.8.5', 'state': 'closed', 'created_at': '2013-05-06T10:41:16Z', 'closed_at': '2013-05-07T13:06:17Z', 'labels': []}
+{'issuenumber': 531, 'title': 'Named aliases for custom browser scripts', 'state': 'closed', 'created_at': '2013-05-06T08:04:58Z', 'closed_at': '2013-05-06T08:09:46Z', 'labels': []}
+{'issuenumber': 529, 'title': './bin/karma runs published version, not repository version', 'state': 'closed', 'created_at': '2013-05-03T11:13:41Z', 'closed_at': '2013-05-06T21:58:26Z', 'labels': []}
+{'issuenumber': 528, 'title': 'Istanbul/coverage reporter does not appear to resolve the basePath. ', 'state': 'closed', 'created_at': '2013-05-02T17:03:49Z', 'closed_at': '2013-07-04T09:19:19Z', 'labels': []}
+{'issuenumber': 527, 'title': 'Karma is confused by user home path at Windows', 'state': 'closed', 'created_at': '2013-05-02T09:29:35Z', 'closed_at': '2013-05-02T13:55:57Z', 'labels': []}
+{'issuenumber': 526, 'title': 'Add configuration option (CLI & karma.conf) to list skipped tests ', 'state': 'closed', 'created_at': '2013-04-30T18:00:39Z', 'closed_at': '2015-06-26T20:11:11Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 525, 'title': 'karma runner hangs indefinitely', 'state': 'closed', 'created_at': '2013-04-30T14:06:38Z', 'closed_at': '2013-06-30T06:25:38Z', 'labels': []}
+{'issuenumber': 524, 'title': "TypeError: Cannot call method 'toString' of undefined in preprocessor.js", 'state': 'closed', 'created_at': '2013-04-30T06:21:55Z', 'closed_at': '2013-05-12T00:00:31Z', 'labels': []}
+{'issuenumber': 523, 'title': 'Run with Firefox Aurora/Nighty', 'state': 'closed', 'created_at': '2013-04-28T11:48:54Z', 'closed_at': '2013-05-06T19:41:54Z', 'labels': []}
+{'issuenumber': 522, 'title': 'Execute and run another test from  already running test', 'state': 'closed', 'created_at': '2013-04-28T08:47:22Z', 'closed_at': '2013-05-06T19:38:59Z', 'labels': []}
+{'issuenumber': 521, 'title': 'test-main.js in base directory is not watched', 'state': 'closed', 'created_at': '2013-04-27T22:00:05Z', 'closed_at': '2013-05-11T20:35:15Z', 'labels': []}
+{'issuenumber': 520, 'title': 'Changing a preprocessor should invalidate the cache', 'state': 'closed', 'created_at': '2013-04-27T04:36:30Z', 'closed_at': '2013-12-01T08:21:43Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 519, 'title': 'Use https://github.com for github repository dependencies in package.json, corporate firewalls', 'state': 'closed', 'created_at': '2013-04-26T21:01:31Z', 'closed_at': '2013-04-27T05:11:38Z', 'labels': []}
+{'issuenumber': 518, 'title': 'Code coverage is not working in the latest version 0.8.4', 'state': 'closed', 'created_at': '2013-04-23T17:21:36Z', 'closed_at': '2013-04-27T04:36:43Z', 'labels': []}
+{'issuenumber': 517, 'title': 'Not able to install the karma@canary version', 'state': 'closed', 'created_at': '2013-04-23T15:49:10Z', 'closed_at': '2013-04-27T05:11:38Z', 'labels': []}
+{'issuenumber': 516, 'title': "Browser connected after the execution is started won't run any tests in SingleRun mode.", 'state': 'closed', 'created_at': '2013-04-23T10:35:34Z', 'closed_at': '2013-04-27T04:14:49Z', 'labels': []}
+{'issuenumber': 515, 'title': 'Cannot import HTML fragments using html2js in non-AngularJS projects', 'state': 'closed', 'created_at': '2013-04-22T21:50:08Z', 'closed_at': '2013-04-27T04:09:45Z', 'labels': []}
+{'issuenumber': 514, 'title': "'ReferenceError: module is not defined' while running `grunt test:client`", 'state': 'closed', 'created_at': '2013-04-21T16:21:31Z', 'closed_at': '2013-04-21T16:49:25Z', 'labels': []}
+{'issuenumber': 513, 'title': 'Search Paths do not work with RequireJS', 'state': 'closed', 'created_at': '2013-04-21T03:18:11Z', 'closed_at': '2013-05-06T21:10:12Z', 'labels': []}
+{'issuenumber': 512, 'title': 'Lazy-loaded (vendor) script not found using Rails 3 (asset pipeline)', 'state': 'closed', 'created_at': '2013-04-20T04:55:40Z', 'closed_at': '2013-04-27T03:32:02Z', 'labels': []}
+{'issuenumber': 511, 'title': 'Make preprocessors pluginable into Karma', 'state': 'closed', 'created_at': '2013-04-19T14:53:58Z', 'closed_at': '2013-04-27T03:26:12Z', 'labels': []}
+{'issuenumber': 510, 'title': 'Coffee preprocessor adds suffix to compiled file.', 'state': 'closed', 'created_at': '2013-04-18T19:48:17Z', 'closed_at': '2013-04-19T01:45:39Z', 'labels': []}
+{'issuenumber': 509, 'title': 'Doubled PhantomJS appearing', 'state': 'closed', 'created_at': '2013-04-18T16:54:18Z', 'closed_at': '2013-04-19T01:44:09Z', 'labels': []}
+{'issuenumber': 508, 'title': 'Excluding files from preprocessor', 'state': 'closed', 'created_at': '2013-04-18T13:46:48Z', 'closed_at': '2013-04-19T01:40:48Z', 'labels': []}
+{'issuenumber': 507, 'title': 'ANGULAR_SCENARIO_ADAPTER', 'state': 'closed', 'created_at': '2013-04-18T09:28:02Z', 'closed_at': '2013-04-19T01:35:28Z', 'labels': []}
+{'issuenumber': 505, 'title': 'add JavaScript test file path to spec event', 'state': 'closed', 'created_at': '2013-04-17T20:02:35Z', 'closed_at': '2013-05-06T19:33:27Z', 'labels': []}
+{'issuenumber': 500, 'title': 'karma 0.8.3+ and angular e2e Error', 'state': 'closed', 'created_at': '2013-04-17T10:11:14Z', 'closed_at': '2013-04-19T01:06:43Z', 'labels': []}
+{'issuenumber': 499, 'title': 'dry run support', 'state': 'closed', 'created_at': '2013-04-17T08:44:28Z', 'closed_at': '2013-07-04T07:39:46Z', 'labels': []}
+{'issuenumber': 498, 'title': ' Running Karma only for a specific file(s)', 'state': 'closed', 'created_at': '2013-04-17T08:02:24Z', 'closed_at': '2013-04-19T00:56:12Z', 'labels': []}
+{'issuenumber': 496, 'title': 'Running karma in IE (on VM)?', 'state': 'closed', 'created_at': '2013-04-16T04:40:01Z', 'closed_at': '2013-04-19T00:53:11Z', 'labels': []}
+{'issuenumber': 495, 'title': 'ReferenceError: browser is not defined', 'state': 'closed', 'created_at': '2013-04-15T18:05:32Z', 'closed_at': '2013-04-15T18:24:53Z', 'labels': []}
+{'issuenumber': 494, 'title': 'Chrome running tests about 10x faster than PhantomJS', 'state': 'closed', 'created_at': '2013-04-14T16:42:02Z', 'closed_at': '2015-06-04T20:01:43Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 493, 'title': 'toBeHidden() from jasmine-jquery not working properly', 'state': 'closed', 'created_at': '2013-04-14T04:38:47Z', 'closed_at': '2013-04-19T00:50:45Z', 'labels': []}
+{'issuenumber': 492, 'title': 'Fail build if incorrect commit message', 'state': 'closed', 'created_at': '2013-04-12T20:17:57Z', 'closed_at': '2015-06-04T20:04:04Z', 'labels': {'name': 'type: chore'}}
+{'issuenumber': 491, 'title': 'Launcher should check for quoted paths', 'state': 'closed', 'created_at': '2013-04-12T16:21:31Z', 'closed_at': '2013-07-04T08:01:24Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 488, 'title': 'Allow inserting source files in the HEAD / custom context.html', 'state': 'closed', 'created_at': '2013-04-11T06:50:10Z', 'closed_at': '2016-03-03T12:27:10Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 487, 'title': 'Setting environment variables', 'state': 'closed', 'created_at': '2013-04-11T02:35:09Z', 'closed_at': '2013-04-12T14:01:23Z', 'labels': {'name': 'support'}}
+{'issuenumber': 486, 'title': 'Problem with jasmine adapter ?', 'state': 'closed', 'created_at': '2013-04-10T19:03:22Z', 'closed_at': '2013-04-14T15:09:16Z', 'labels': []}
+{'issuenumber': 484, 'title': 'run unit test with RequireJS and Karma', 'state': 'closed', 'created_at': '2013-04-09T08:26:37Z', 'closed_at': '2013-04-12T20:12:56Z', 'labels': {'name': 'discuss'}}
+{'issuenumber': 483, 'title': 'Trouble with npm', 'state': 'closed', 'created_at': '2013-04-08T18:49:46Z', 'closed_at': '2013-04-08T18:54:03Z', 'labels': []}
+{'issuenumber': 482, 'title': 'junit xml report does not show stack trace if it has more lines. It shows only the first line', 'state': 'closed', 'created_at': '2013-04-08T06:37:33Z', 'closed_at': '2015-06-04T20:03:45Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 481, 'title': "Fixtures not loaded through 'jasmine-jquery'", 'state': 'closed', 'created_at': '2013-04-08T06:29:19Z', 'closed_at': '2013-04-11T09:41:05Z', 'labels': []}
+{'issuenumber': 480, 'title': 'Make console.log to be logged rather then reported ?', 'state': 'closed', 'created_at': '2013-04-07T23:53:51Z', 'closed_at': '2016-04-11T21:57:46Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 479, 'title': "karma won't launch any browser ENOENT", 'state': 'closed', 'created_at': '2013-04-07T19:10:43Z', 'closed_at': '2013-04-08T19:44:42Z', 'labels': []}
+{'issuenumber': 475, 'title': 'RequireJS Documentation error', 'state': 'closed', 'created_at': '2013-04-07T07:08:50Z', 'closed_at': '2013-04-08T01:09:24Z', 'labels': []}
+{'issuenumber': 473, 'title': 'Rename all links to *.github.io', 'state': 'closed', 'created_at': '2013-04-06T18:55:40Z', 'closed_at': '2013-04-07T18:11:10Z', 'labels': {'name': 'type: chore'}}
+{'issuenumber': 472, 'title': 'Add support for mobile-safari + cordova.', 'state': 'closed', 'created_at': '2013-04-06T16:35:22Z', 'closed_at': '2015-06-26T20:11:47Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 471, 'title': 'WARN [launcher]: Launcher "Script" is not registered! karma@canary (v0.9.1)', 'state': 'closed', 'created_at': '2013-04-06T16:23:09Z', 'closed_at': '2013-04-08T00:51:15Z', 'labels': []}
+{'issuenumber': 470, 'title': 'Error when running e2e tests with karma instead of testacular 0.6.1', 'state': 'closed', 'created_at': '2013-04-06T13:35:40Z', 'closed_at': '2013-04-08T06:28:59Z', 'labels': []}
+{'issuenumber': 468, 'title': '0 tests executed should be a failure', 'state': 'closed', 'created_at': '2013-04-05T23:05:28Z', 'closed_at': '2013-07-02T22:09:54Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 467, 'title': 'Warning if preprocessed file get shadowed by other file', 'state': 'closed', 'created_at': '2013-04-05T04:34:15Z', 'closed_at': '2015-06-04T20:06:14Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 466, 'title': 'Mismatched anonymous define() module', 'state': 'closed', 'created_at': '2013-04-04T21:29:34Z', 'closed_at': '2013-04-07T15:48:04Z', 'labels': []}
+{'issuenumber': 463, 'title': 'error with e2e test on karma 0.8.4 with node 0.10.2 (Ubuntu 12.10)', 'state': 'closed', 'created_at': '2013-04-04T18:07:11Z', 'closed_at': '2013-04-06T08:16:11Z', 'labels': []}
+{'issuenumber': 462, 'title': 'Port already in use warning in jenkins', 'state': 'closed', 'created_at': '2013-04-04T10:26:34Z', 'closed_at': '2013-04-04T17:05:10Z', 'labels': []}
+{'issuenumber': 461, 'title': 'Coverage reporter broke after testacular -> karma switch', 'state': 'closed', 'created_at': '2013-04-04T09:11:37Z', 'closed_at': '2013-04-04T09:18:38Z', 'labels': []}
+{'issuenumber': 460, 'title': 'Issue in integrating with jenkins', 'state': 'closed', 'created_at': '2013-04-04T05:44:09Z', 'closed_at': '2015-06-04T19:43:13Z', 'labels': {'name': 'type: backlog'}}
+{'issuenumber': 459, 'title': 'Should karma-requirejs be listed as a peerDependencies?', 'state': 'closed', 'created_at': '2013-04-04T03:23:50Z', 'closed_at': '2013-04-05T08:37:09Z', 'labels': []}
+{'issuenumber': 458, 'title': 'Replace log4js with winston', 'state': 'closed', 'created_at': '2013-04-03T22:17:25Z', 'closed_at': '2015-06-26T20:08:20Z', 'labels': {'name': 'type: refactor'}}
+{'issuenumber': 454, 'title': 'Feature Configurable Preprocessors', 'state': 'closed', 'created_at': '2013-04-03T16:28:43Z', 'closed_at': '2013-04-05T12:40:48Z', 'labels': []}
+{'issuenumber': 453, 'title': 'Adapter for minispade', 'state': 'closed', 'created_at': '2013-04-03T11:58:49Z', 'closed_at': '2015-06-04T19:44:07Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 452, 'title': 'Launcher: handle spawn error, when binary does not exist', 'state': 'closed', 'created_at': '2013-04-03T06:03:32Z', 'closed_at': '2013-05-11T19:17:35Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 451, 'title': "Uncaught TypeError: Cannot call method 'start' of undefined", 'state': 'closed', 'created_at': '2013-04-02T15:41:19Z', 'closed_at': '2013-04-02T15:43:22Z', 'labels': []}
+{'issuenumber': 449, 'title': 'Dependency mess', 'state': 'closed', 'created_at': '2013-04-01T22:09:32Z', 'closed_at': '2013-05-12T09:29:18Z', 'labels': {'name': 'discuss'}}
+{'issuenumber': 448, 'title': 'Logger issues. Again.', 'state': 'closed', 'created_at': '2013-04-01T17:59:03Z', 'closed_at': '2013-04-02T23:17:52Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 447, 'title': 'Unit Test Fail to Pass on Node 0.10', 'state': 'closed', 'created_at': '2013-04-01T13:52:07Z', 'closed_at': '2013-04-01T17:55:51Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 445, 'title': "Can't run any browser on Windows 7 64bits and node 0.10.2", 'state': 'closed', 'created_at': '2013-03-31T23:39:41Z', 'closed_at': '2013-04-05T08:36:27Z', 'labels': []}
+{'issuenumber': 444, 'title': 'Launcher - ignore exit code after killing', 'state': 'closed', 'created_at': '2013-03-29T23:09:30Z', 'closed_at': '2013-05-12T01:57:42Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 443, 'title': 'karma init is not working in latest master', 'state': 'closed', 'created_at': '2013-03-29T18:08:20Z', 'closed_at': '2013-05-12T09:29:46Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 441, 'title': 'Simplify contributors set up', 'state': 'closed', 'created_at': '2013-03-29T16:21:23Z', 'closed_at': '2013-05-12T09:31:28Z', 'labels': {'name': 'type: chore'}}
+{'issuenumber': 438, 'title': 'Allow setting of browser dimensions', 'state': 'closed', 'created_at': '2013-03-28T21:54:14Z', 'closed_at': '2013-04-27T04:02:47Z', 'labels': []}
+{'issuenumber': 437, 'title': 'Travis master build fails', 'state': 'closed', 'created_at': '2013-03-28T21:21:57Z', 'closed_at': '2013-03-29T09:00:24Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 434, 'title': 'How to utilize multicore', 'state': 'closed', 'created_at': '2013-03-27T18:28:04Z', 'closed_at': '2013-03-29T08:17:08Z', 'labels': []}
+{'issuenumber': 433, 'title': 'Preprocessors not running in Jenkins(Linux)', 'state': 'closed', 'created_at': '2013-03-27T15:52:05Z', 'closed_at': '2013-04-05T08:51:44Z', 'labels': []}
+{'issuenumber': 432, 'title': '(Docs)  Simple Dev Build Instruction in README file.', 'state': 'closed', 'created_at': '2013-03-27T15:05:22Z', 'closed_at': '2013-03-29T16:24:43Z', 'labels': []}
+{'issuenumber': 431, 'title': 'Include css files in browser', 'state': 'closed', 'created_at': '2013-03-27T00:55:45Z', 'closed_at': '2013-07-03T06:31:00Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 430, 'title': 'Testing AngularJS application in IE8', 'state': 'closed', 'created_at': '2013-03-26T22:44:15Z', 'closed_at': '2013-04-11T06:48:08Z', 'labels': []}
+{'issuenumber': 429, 'title': '(Docs) Karma fails to capture Internet Explorer 10 on 64-bit Windows', 'state': 'closed', 'created_at': '2013-03-26T17:57:19Z', 'closed_at': '2013-07-08T01:33:54Z', 'labels': []}
+{'issuenumber': 428, 'title': 'Karma init walkthrough from fresh install ', 'state': 'closed', 'created_at': '2013-03-26T17:53:44Z', 'closed_at': '2013-03-29T08:27:25Z', 'labels': []}
+{'issuenumber': 425, 'title': 'Is there a chance to use custom reporter?', 'state': 'closed', 'created_at': '2013-03-26T06:08:00Z', 'closed_at': '2013-03-26T06:52:15Z', 'labels': []}
+{'issuenumber': 424, 'title': 'Cucumber adapter for Karma', 'state': 'closed', 'created_at': '2013-03-25T20:02:15Z', 'closed_at': '2013-11-06T17:32:33Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 423, 'title': "Cannot set property 'files' of undefined in karma", 'state': 'closed', 'created_at': '2013-03-25T13:23:48Z', 'closed_at': '2013-07-04T07:31:41Z', 'labels': []}
+{'issuenumber': 422, 'title': "can't test Angular app initialized by angular.bootstrap(document)", 'state': 'closed', 'created_at': '2013-03-25T08:31:09Z', 'closed_at': '2013-03-29T07:02:09Z', 'labels': []}
+{'issuenumber': 421, 'title': '[Support] How do you load CDN scripts?', 'state': 'closed', 'created_at': '2013-03-22T16:16:17Z', 'closed_at': '2013-03-23T19:24:28Z', 'labels': []}
+{'issuenumber': 417, 'title': 'Ignore the config file by default', 'state': 'closed', 'created_at': '2013-03-20T21:42:40Z', 'closed_at': '2013-04-05T08:48:05Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 416, 'title': 'Dissappointed with the new name, we liked testacular!!', 'state': 'closed', 'created_at': '2013-03-20T11:56:03Z', 'closed_at': '2013-03-21T00:33:10Z', 'labels': []}
+{'issuenumber': 415, 'title': 'Browser/source file auto refresh/watch with RequireJS', 'state': 'closed', 'created_at': '2013-03-20T11:32:26Z', 'closed_at': '2013-03-21T00:29:09Z', 'labels': []}
+{'issuenumber': 412, 'title': 'Run each set of tests in separate iframe', 'state': 'closed', 'created_at': '2013-03-19T16:31:37Z', 'closed_at': '2013-07-04T07:38:07Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 411, 'title': '"Delaying execution, these browsers are not ready" Error', 'state': 'closed', 'created_at': '2013-03-19T14:37:34Z', 'closed_at': '2014-01-21T20:31:03Z', 'labels': {'name': 'support'}}
+{'issuenumber': 410, 'title': 'why rename testacular to karma?', 'state': 'closed', 'created_at': '2013-03-19T11:25:50Z', 'closed_at': '2013-03-19T13:02:09Z', 'labels': []}
+{'issuenumber': 409, 'title': '`npm install` fails', 'state': 'closed', 'created_at': '2013-03-18T23:37:17Z', 'closed_at': '2013-03-19T16:49:00Z', 'labels': []}
+{'issuenumber': 404, 'title': 'insert old runner.html in testacular', 'state': 'closed', 'created_at': '2013-03-18T08:07:54Z', 'closed_at': '2013-03-20T02:05:45Z', 'labels': {'name': 'support'}}
+{'issuenumber': 402, 'title': 'Testcases are not executed when project path contains umlaut', 'state': 'closed', 'created_at': '2013-03-14T12:31:19Z', 'closed_at': '2013-08-19T02:08:57Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 401, 'title': 'Allow test browser start in tabs for running browsers', 'state': 'closed', 'created_at': '2013-03-14T11:46:44Z', 'closed_at': '2013-03-20T01:03:47Z', 'labels': []}
+{'issuenumber': 400, 'title': 'Upgrade to Node.js 0.10', 'state': 'closed', 'created_at': '2013-03-13T23:25:29Z', 'closed_at': '2013-04-03T05:58:50Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 399, 'title': 'Allow proxying root without urlRoot', 'state': 'closed', 'created_at': '2013-03-13T23:23:14Z', 'closed_at': '2015-06-04T20:02:32Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 398, 'title': 'logger output to file never writes to the file', 'state': 'closed', 'created_at': '2013-03-13T19:08:36Z', 'closed_at': '2013-03-20T19:23:39Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 396, 'title': 'SingleRun option does not automatically close PhantomJS', 'state': 'closed', 'created_at': '2013-03-13T12:59:18Z', 'closed_at': '2013-03-14T00:09:51Z', 'labels': {'name': 'windows'}}
+{'issuenumber': 395, 'title': 'Weird code coverage instrumentation and results when the browser is not started by testacular', 'state': 'closed', 'created_at': '2013-03-13T12:50:06Z', 'closed_at': '2013-07-04T07:27:28Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 394, 'title': 'Nodeunit adapter', 'state': 'closed', 'created_at': '2013-03-13T07:09:00Z', 'closed_at': '2013-03-20T08:46:53Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 393, 'title': 'Tests are being run multiple times in a row', 'state': 'closed', 'created_at': '2013-03-13T06:49:47Z', 'closed_at': '2013-03-15T23:58:27Z', 'labels': []}
+{'issuenumber': 392, 'title': 'Figure out which browser is running a test', 'state': 'closed', 'created_at': '2013-03-12T18:41:21Z', 'closed_at': '2013-03-13T19:16:50Z', 'labels': []}
+{'issuenumber': 391, 'title': 'Print version number on testacular startup.', 'state': 'closed', 'created_at': '2013-03-11T18:16:47Z', 'closed_at': '2013-03-13T07:58:13Z', 'labels': []}
+{'issuenumber': 390, 'title': "Can't install dependencies", 'state': 'closed', 'created_at': '2013-03-11T13:42:48Z', 'closed_at': '2013-03-11T15:46:16Z', 'labels': []}
+{'issuenumber': 389, 'title': 'testacular gives high CPU load', 'state': 'closed', 'created_at': '2013-03-10T23:36:18Z', 'closed_at': '2013-07-04T07:26:18Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 388, 'title': 'input() does not work when using data-ng-model', 'state': 'closed', 'created_at': '2013-03-10T22:51:24Z', 'closed_at': '2013-03-12T01:15:44Z', 'labels': []}
+{'issuenumber': 385, 'title': 'URLs in log output are being accidentally rewritten', 'state': 'closed', 'created_at': '2013-03-08T22:57:08Z', 'closed_at': '2015-06-26T20:13:13Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 383, 'title': 'html2js preprocessor', 'state': 'closed', 'created_at': '2013-03-08T20:02:20Z', 'closed_at': '2013-05-12T09:16:35Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 382, 'title': 'Code Coverage File Paths', 'state': 'closed', 'created_at': '2013-03-08T16:15:37Z', 'closed_at': '2013-03-13T03:20:57Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 381, 'title': ' SSL Error: CERT_UNTRUSTED', 'state': 'closed', 'created_at': '2013-03-08T10:20:24Z', 'closed_at': '2013-03-08T10:26:11Z', 'labels': []}
+{'issuenumber': 378, 'title': 'teamcity reporter did not show name of the test case', 'state': 'closed', 'created_at': '2013-03-06T22:54:47Z', 'closed_at': '2013-03-12T01:04:13Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 377, 'title': 'Docs for Gruntacular', 'state': 'closed', 'created_at': '2013-03-05T04:32:06Z', 'closed_at': '2013-04-05T08:54:55Z', 'labels': {'name': 'type: docs'}}
+{'issuenumber': 376, 'title': 'Suggestion to rename the project', 'state': 'closed', 'created_at': '2013-03-04T19:58:54Z', 'closed_at': '2013-03-20T00:45:04Z', 'labels': []}
+{'issuenumber': 374, 'title': 'FireFox profiles should be purged after use', 'state': 'closed', 'created_at': '2013-03-04T13:24:17Z', 'closed_at': '2013-03-05T23:27:08Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 373, 'title': 'configurable browser name parsing (feature)', 'state': 'closed', 'created_at': '2013-03-03T16:35:46Z', 'closed_at': '2013-04-20T18:38:12Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 371, 'title': 'Error installing local dependencies', 'state': 'closed', 'created_at': '2013-03-02T17:39:00Z', 'closed_at': '2013-03-02T23:54:50Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 370, 'title': 'asynchronous execution when a new browser is connected', 'state': 'closed', 'created_at': '2013-02-28T10:09:21Z', 'closed_at': '2013-03-03T00:01:33Z', 'labels': []}
+{'issuenumber': 369, 'title': 'In Windows 8, path to the Chrome Executable is wrong', 'state': 'closed', 'created_at': '2013-02-27T09:55:18Z', 'closed_at': '2015-06-04T19:56:12Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 368, 'title': 'Testacular prevents error messages from being logged in browser console', 'state': 'closed', 'created_at': '2013-02-26T18:02:21Z', 'closed_at': '2013-03-26T03:48:58Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 367, 'title': "Compiled CoffeeScript isn't accessible via require", 'state': 'closed', 'created_at': '2013-02-26T15:06:57Z', 'closed_at': '2013-03-03T00:10:38Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 366, 'title': 'JUnit reporter classname in testcase', 'state': 'closed', 'created_at': '2013-02-25T16:49:17Z', 'closed_at': '2013-03-03T00:17:12Z', 'labels': []}
+{'issuenumber': 365, 'title': 'Exception during the code coverage causes Testacular server to fail', 'state': 'closed', 'created_at': '2013-02-25T11:48:47Z', 'closed_at': '2013-03-03T00:56:58Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 364, 'title': 'ReferenceError: __dirname is not defined', 'state': 'closed', 'created_at': '2013-02-23T00:49:09Z', 'closed_at': '2013-02-23T19:00:59Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 363, 'title': 'Measuring performance during tests', 'state': 'closed', 'created_at': '2013-02-22T18:06:47Z', 'closed_at': '2015-06-04T19:58:23Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 362, 'title': "Jasmine's spyOn(...).andCallThrough() does not appear to be working properly.", 'state': 'closed', 'created_at': '2013-02-21T23:21:14Z', 'closed_at': '2013-02-22T06:29:22Z', 'labels': []}
+{'issuenumber': 360, 'title': 'Automate patch release', 'state': 'closed', 'created_at': '2013-02-21T03:32:42Z', 'closed_at': '2013-07-29T06:44:27Z', 'labels': {'name': 'type: chore'}}
+{'issuenumber': 359, 'title': 'Remote browsers', 'state': 'closed', 'created_at': '2013-02-20T10:10:25Z', 'closed_at': '2013-02-21T02:46:21Z', 'labels': []}
+{'issuenumber': 358, 'title': 'Make configFile optional', 'state': 'closed', 'created_at': '2013-02-19T07:27:56Z', 'closed_at': '2013-02-21T02:38:45Z', 'labels': []}
+{'issuenumber': 357, 'title': 'Launcher for sauce labs', 'state': 'closed', 'created_at': '2013-02-18T23:09:30Z', 'closed_at': '2013-06-30T07:15:52Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 356, 'title': 'Cannot get custom browsers configuration to work', 'state': 'closed', 'created_at': '2013-02-16T00:44:10Z', 'closed_at': '2013-02-21T01:48:25Z', 'labels': {'name': 'support'}}
+{'issuenumber': 355, 'title': 'Publish 0.5.10 ', 'state': 'closed', 'created_at': '2013-02-14T19:42:24Z', 'closed_at': '2013-02-14T23:47:48Z', 'labels': []}
+{'issuenumber': 354, 'title': 'CONTRIBUTING.md instructions on installing grunt get the wrong version', 'state': 'closed', 'created_at': '2013-02-13T19:14:36Z', 'closed_at': '2013-02-16T10:57:48Z', 'labels': []}
+{'issuenumber': 353, 'title': 'init dies with undefined `isLessThanOrEqualTo`', 'state': 'closed', 'created_at': '2013-02-13T19:04:14Z', 'closed_at': '2013-02-13T21:21:04Z', 'labels': []}
+{'issuenumber': 352, 'title': 'stale issues link on homepage', 'state': 'closed', 'created_at': '2013-02-13T18:58:07Z', 'closed_at': '2013-02-16T10:58:26Z', 'labels': []}
+{'issuenumber': 351, 'title': 'Single global variable leak is not detected in testacular + mocha', 'state': 'closed', 'created_at': '2013-02-13T15:42:06Z', 'closed_at': '2013-02-13T19:41:55Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 350, 'title': 'Support proxying 301 redirects', 'state': 'closed', 'created_at': '2013-02-13T02:32:05Z', 'closed_at': '2013-02-21T03:56:50Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 349, 'title': 'Using bootstrap 2.3.0 in tests lead to thousands of lines for traces on error.', 'state': 'closed', 'created_at': '2013-02-12T21:47:45Z', 'closed_at': '2013-02-13T07:11:08Z', 'labels': []}
+{'issuenumber': 348, 'title': 'linking to Command line?', 'state': 'closed', 'created_at': '2013-02-12T01:29:01Z', 'closed_at': '2013-02-13T07:00:38Z', 'labels': []}
+{'issuenumber': 347, 'title': 'Code coverage for angular-scenario e2e tests', 'state': 'closed', 'created_at': '2013-02-12T00:10:19Z', 'closed_at': '2013-02-13T06:59:03Z', 'labels': []}
+{'issuenumber': 346, 'title': 'update requirejs e2e test example with backbone and jquery', 'state': 'closed', 'created_at': '2013-02-11T21:47:18Z', 'closed_at': '2013-02-13T19:15:07Z', 'labels': []}
+{'issuenumber': 345, 'title': 'Bug: window scrolling', 'state': 'closed', 'created_at': '2013-02-11T05:17:56Z', 'closed_at': '2013-07-04T07:16:25Z', 'labels': []}
+{'issuenumber': 344, 'title': 'Add option to disable caching', 'state': 'closed', 'created_at': '2013-02-10T00:04:04Z', 'closed_at': '2013-02-21T03:56:13Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 343, 'title': 'On adding a new browser, why retest everything on existing browsers?', 'state': 'closed', 'created_at': '2013-02-08T11:02:17Z', 'closed_at': '2013-02-09T02:55:32Z', 'labels': []}
+{'issuenumber': 340, 'title': 'testacular init dies with exception:', 'state': 'closed', 'created_at': '2013-02-08T03:03:44Z', 'closed_at': '2013-02-13T21:34:21Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 338, 'title': 'Setting up Webstorm for testacular on windows machines', 'state': 'closed', 'created_at': '2013-02-07T20:41:37Z', 'closed_at': '2013-02-13T06:32:07Z', 'labels': {'name': 'support'}}
+{'issuenumber': 337, 'title': 'Add git tag for release 0.5.9', 'state': 'closed', 'created_at': '2013-02-07T19:16:10Z', 'closed_at': '2013-02-09T02:42:45Z', 'labels': []}
+{'issuenumber': 336, 'title': 'Weird log message when test fails ', 'state': 'closed', 'created_at': '2013-02-07T14:12:58Z', 'closed_at': '2013-02-09T02:27:03Z', 'labels': []}
+{'issuenumber': 335, 'title': 'NMP install broken', 'state': 'closed', 'created_at': '2013-02-07T10:00:31Z', 'closed_at': '2013-02-21T03:58:06Z', 'labels': []}
+{'issuenumber': 334, 'title': '10x slowdown in 0.5.8 after 0.4.0', 'state': 'closed', 'created_at': '2013-02-06T22:39:17Z', 'closed_at': '2015-06-04T08:54:00Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 332, 'title': "Testacular fails to launch on Windows: Cannot call method 'isDirectory' of undefined", 'state': 'closed', 'created_at': '2013-02-06T03:57:12Z', 'closed_at': '2013-02-07T07:40:43Z', 'labels': []}
+{'issuenumber': 329, 'title': 'IE9 console patch fails: console.log has no apply method', 'state': 'closed', 'created_at': '2013-02-01T11:39:51Z', 'closed_at': '2013-05-12T05:12:57Z', 'labels': []}
+{'issuenumber': 328, 'title': 'Dojo Adapter', 'state': 'closed', 'created_at': '2013-01-31T19:05:29Z', 'closed_at': '2013-08-01T20:42:54Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 327, 'title': 'Exclude in Preprocessor', 'state': 'closed', 'created_at': '2013-01-30T22:38:33Z', 'closed_at': '2013-02-03T05:39:46Z', 'labels': []}
+{'issuenumber': 326, 'title': 'Coverage reported not really reporting coverage', 'state': 'closed', 'created_at': '2013-01-30T20:43:51Z', 'closed_at': '2013-01-31T18:04:23Z', 'labels': []}
+{'issuenumber': 325, 'title': 'Better E2E framwork for testing Testacular', 'state': 'closed', 'created_at': '2013-01-30T18:29:35Z', 'closed_at': '2015-05-15T20:46:21Z', 'labels': {'name': 'type: chore'}}
+{'issuenumber': 324, 'title': 'Code coverage is not able to initialize', 'state': 'closed', 'created_at': '2013-01-30T16:53:25Z', 'closed_at': '2013-01-31T14:47:21Z', 'labels': {'name': 'support'}}
+{'issuenumber': 323, 'title': 'Problem with `singleRun` on Windows', 'state': 'closed', 'created_at': '2013-01-30T13:33:06Z', 'closed_at': '2013-02-03T19:43:19Z', 'labels': {'name': 'windows'}}
+{'issuenumber': 321, 'title': 'Report skipped tests in JUnit XML', 'state': 'closed', 'created_at': '2013-01-29T13:39:53Z', 'closed_at': '2013-02-07T06:13:12Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 319, 'title': 'init-dev-env commit trigger guard does not fire when committing from gui', 'state': 'closed', 'created_at': '2013-01-22T20:05:26Z', 'closed_at': '2013-02-03T05:57:10Z', 'labels': []}
+{'issuenumber': 318, 'title': 'Legacy Android Browser recognized as Safari 4', 'state': 'closed', 'created_at': '2013-01-22T16:35:10Z', 'closed_at': '2013-05-12T11:17:05Z', 'labels': []}
+{'issuenumber': 316, 'title': "angular e2e: TypeError: Cannot read property 'name' of null", 'state': 'closed', 'created_at': '2013-01-21T20:39:51Z', 'closed_at': '2013-01-21T21:24:35Z', 'labels': {'name': 'support'}}
+{'issuenumber': 313, 'title': "Firefox 3.6 doesn't get closed after tests run", 'state': 'closed', 'created_at': '2013-01-16T21:49:55Z', 'closed_at': '2013-02-03T20:00:17Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 306, 'title': 'any way to focus a test?', 'state': 'closed', 'created_at': '2013-01-15T17:26:06Z', 'closed_at': '2013-01-15T17:29:21Z', 'labels': []}
+{'issuenumber': 305, 'title': 'Possibility to test window load event / document ready event', 'state': 'closed', 'created_at': '2013-01-15T09:30:36Z', 'closed_at': '2013-01-16T10:12:28Z', 'labels': []}
+{'issuenumber': 304, 'title': 'require() in config file does not hangle relative paths', 'state': 'closed', 'created_at': '2013-01-15T01:06:27Z', 'closed_at': '2013-04-18T22:15:55Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 302, 'title': 'Collect browser output in JUnit reporter', 'state': 'closed', 'created_at': '2013-01-14T20:32:16Z', 'closed_at': '2013-02-21T21:28:28Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 300, 'title': 'Fix jshint errors in changelog.js', 'state': 'closed', 'created_at': '2013-01-14T20:03:02Z', 'closed_at': '2013-01-15T23:37:40Z', 'labels': []}
+{'issuenumber': 297, 'title': 'Browser log output should be on the same line as prefix', 'state': 'closed', 'created_at': '2013-01-14T19:13:46Z', 'closed_at': '2013-01-15T23:43:33Z', 'labels': []}
+{'issuenumber': 296, 'title': 'Growl reporter crashes Testacular', 'state': 'closed', 'created_at': '2013-01-14T03:00:45Z', 'closed_at': '2013-01-15T05:53:13Z', 'labels': []}
+{'issuenumber': 295, 'title': 'Add  basic authentication header ', 'state': 'closed', 'created_at': '2013-01-14T01:57:45Z', 'closed_at': '2013-01-15T01:09:49Z', 'labels': []}
+{'issuenumber': 294, 'title': 'Loading/including additional config files inside testacular.conf.js', 'state': 'closed', 'created_at': '2013-01-13T20:24:22Z', 'closed_at': '2013-01-15T01:06:37Z', 'labels': []}
+{'issuenumber': 293, 'title': 'Support https for proxying', 'state': 'closed', 'created_at': '2013-01-13T03:25:06Z', 'closed_at': '2013-06-28T00:09:11Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 291, 'title': 'Require.js Support - BaseURL and Configuration', 'state': 'closed', 'created_at': '2013-01-11T23:44:47Z', 'closed_at': '2013-02-18T10:15:21Z', 'labels': []}
+{'issuenumber': 289, 'title': 'Global leaks in mocha when running with coverage', 'state': 'closed', 'created_at': '2013-01-10T22:05:26Z', 'closed_at': '2013-01-13T03:32:18Z', 'labels': []}
+{'issuenumber': 287, 'title': 'Code coverage not working + Travis-CI ?', 'state': 'closed', 'created_at': '2013-01-08T13:00:55Z', 'closed_at': '2013-01-13T03:16:11Z', 'labels': {'name': 'support'}}
+{'issuenumber': 286, 'title': 'html2js preprocessor needs regex for windows line breaks', 'state': 'closed', 'created_at': '2013-01-07T17:11:56Z', 'closed_at': '2013-02-13T03:10:09Z', 'labels': []}
+{'issuenumber': 284, 'title': '`testacular init` uses the old default port of 8080 instead of 9876', 'state': 'closed', 'created_at': '2013-01-06T07:26:48Z', 'closed_at': '2013-01-07T05:07:43Z', 'labels': []}
+{'issuenumber': 283, 'title': 'Problems with CLI options getting merged instead of overwritten', 'state': 'closed', 'created_at': '2013-01-03T21:52:46Z', 'closed_at': '2013-01-13T17:53:05Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 279, 'title': 'How to generate the testacular run  log results in xml or any format after testacular execution.How to write the command in the testacular.config.js file.', 'state': 'closed', 'created_at': '2013-01-03T06:03:19Z', 'closed_at': '2013-01-03T08:45:10Z', 'labels': {'name': 'support'}}
+{'issuenumber': 278, 'title': 'Extend or modify the syntax of the config file', 'state': 'closed', 'created_at': '2013-01-03T05:14:32Z', 'closed_at': '2013-07-04T07:03:15Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 272, 'title': 'How to get the xml report after testacular run, so that Jsystem in Jenkins would understand the outputs in build system.', 'state': 'closed', 'created_at': '2013-01-02T12:14:00Z', 'closed_at': '2013-01-02T18:55:19Z', 'labels': {'name': 'support'}}
+{'issuenumber': 271, 'title': 'what is the current version of testacular  and if i want to use it is require.js is there in the adapter folder for the stable testacular version.', 'state': 'closed', 'created_at': '2013-01-02T12:10:40Z', 'closed_at': '2013-01-02T18:54:22Z', 'labels': {'name': 'support'}}
+{'issuenumber': 267, 'title': 'Change signature of `server.start`', 'state': 'closed', 'created_at': '2013-01-01T09:24:35Z', 'closed_at': '2013-07-04T07:02:31Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 266, 'title': 'paths in config.js on windows are wrong', 'state': 'closed', 'created_at': '2012-12-30T21:41:59Z', 'closed_at': '2012-12-30T22:23:45Z', 'labels': []}
+{'issuenumber': 265, 'title': "ENOENT when autoWatch = true AND file pattern doesn't lead to a directory", 'state': 'closed', 'created_at': '2012-12-30T11:32:30Z', 'closed_at': '2013-01-13T08:50:01Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 264, 'title': 'testacular dies on broken symlinks if autoWatch=true', 'state': 'closed', 'created_at': '2012-12-28T00:00:03Z', 'closed_at': '2012-12-28T09:07:29Z', 'labels': []}
+{'issuenumber': 260, 'title': 'Single command that will run server AND browsers', 'state': 'closed', 'created_at': '2012-12-21T19:27:37Z', 'closed_at': '2012-12-21T20:47:05Z', 'labels': []}
+{'issuenumber': 259, 'title': 'Using npm install -g testacular from the command prompt, not able to install the latest version of testacular i.e 0.5.6', 'state': 'closed', 'created_at': '2012-12-21T05:07:33Z', 'closed_at': '2012-12-21T07:03:32Z', 'labels': []}
+{'issuenumber': 258, 'title': 'Rename Testacular', 'state': 'closed', 'created_at': '2012-12-20T18:21:43Z', 'closed_at': '2012-12-21T10:28:35Z', 'labels': []}
+{'issuenumber': 257, 'title': '404 when file not found', 'state': 'closed', 'created_at': '2012-12-20T14:13:02Z', 'closed_at': '2012-12-24T11:51:26Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 256, 'title': 'How to add RequireJS in adapter after installing testacular.?', 'state': 'closed', 'created_at': '2012-12-20T08:53:04Z', 'closed_at': '2012-12-20T09:02:09Z', 'labels': {'name': 'support'}}
+{'issuenumber': 255, 'title': 'Make tasks/test.js work', 'state': 'closed', 'created_at': '2012-12-19T20:06:06Z', 'closed_at': '2013-08-19T01:41:11Z', 'labels': {'name': 'windows'}}
+{'issuenumber': 254, 'title': "0.5.6 doesn't exit cleanly on Windows in once mode", 'state': 'closed', 'created_at': '2012-12-19T19:13:55Z', 'closed_at': '2012-12-19T21:30:13Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 253, 'title': 'Use Browserify?', 'state': 'closed', 'created_at': '2012-12-19T19:04:10Z', 'closed_at': '2013-08-27T04:23:55Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 252, 'title': 'Upgrade to socket.io 1.0 / engine.io', 'state': 'closed', 'created_at': '2012-12-19T18:55:49Z', 'closed_at': '2015-05-15T20:40:05Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 250, 'title': 'Getting error message for REQUIREjs, showing invalid config file and REQUIRE is not defined.', 'state': 'closed', 'created_at': '2012-12-19T11:07:57Z', 'closed_at': '2012-12-19T19:02:11Z', 'labels': []}
+{'issuenumber': 249, 'title': 'Glob matching problem on Windows Server 2008 R2', 'state': 'closed', 'created_at': '2012-12-18T10:11:40Z', 'closed_at': '2012-12-19T18:48:39Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 248, 'title': 'How and where to put the time span  to open the browser and test.', 'state': 'closed', 'created_at': '2012-12-18T07:06:12Z', 'closed_at': '2012-12-18T10:53:56Z', 'labels': {'name': 'support'}}
+{'issuenumber': 246, 'title': "Cannot read property 'coverage' of null", 'state': 'closed', 'created_at': '2012-12-17T13:33:12Z', 'closed_at': '2012-12-18T06:55:22Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 245, 'title': "requirejs integration : cannot find 'handlebars' error when ", 'state': 'closed', 'created_at': '2012-12-17T10:43:47Z', 'closed_at': '2012-12-19T18:33:22Z', 'labels': []}
+{'issuenumber': 244, 'title': 'Error: ENOENT, lstat ...', 'state': 'closed', 'created_at': '2012-12-17T10:24:56Z', 'closed_at': '2012-12-17T11:36:22Z', 'labels': []}
+{'issuenumber': 243, 'title': 'Update Jasmine', 'state': 'closed', 'created_at': '2012-12-16T09:41:46Z', 'closed_at': '2013-01-13T06:52:48Z', 'labels': {'name': 'type: refactor'}}
+{'issuenumber': 242, 'title': 'Allow passing config options to the browser', 'state': 'closed', 'created_at': '2012-12-15T19:16:15Z', 'closed_at': '2013-07-29T09:34:09Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 241, 'title': 'How to do Unit test in build server using Gradle for testacular?', 'state': 'closed', 'created_at': '2012-12-14T07:09:30Z', 'closed_at': '2012-12-19T18:18:19Z', 'labels': {'name': 'support'}}
+{'issuenumber': 240, 'title': 'Combined coverage report', 'state': 'closed', 'created_at': '2012-12-13T16:14:28Z', 'closed_at': '2013-03-02T21:06:51Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 239, 'title': 'How to add testacular as the part of a java script project, so that I can run testacular standalone without actually installing it.', 'state': 'closed', 'created_at': '2012-12-13T09:35:50Z', 'closed_at': '2012-12-13T09:40:09Z', 'labels': []}
+{'issuenumber': 238, 'title': 'testacular run (Firefox 17.0 adapter angular-scenario Test Results Reporter should update number of tests in the beginning FAILED)', 'state': 'closed', 'created_at': '2012-12-13T07:27:15Z', 'closed_at': '2012-12-26T15:22:02Z', 'labels': {'name': 'support'}}
+{'issuenumber': 235, 'title': 'Cannot start PhantomJS on a different path', 'state': 'closed', 'created_at': '2012-12-12T15:42:30Z', 'closed_at': '2012-12-12T19:26:07Z', 'labels': []}
+{'issuenumber': 234, 'title': 'How to test Headless browser testing with testacular , so that it will not open any browser, and run the test in background with headless browser/', 'state': 'closed', 'created_at': '2012-12-12T11:04:58Z', 'closed_at': '2012-12-13T09:43:17Z', 'labels': {'name': 'support'}}
+{'issuenumber': 233, 'title': 'How to test on IE8,IE( and how to get the code for tesacular for IE.And also how to  write in env variable for IE', 'state': 'closed', 'created_at': '2012-12-12T10:26:19Z', 'closed_at': '2012-12-13T11:06:15Z', 'labels': {'name': 'support'}}
+{'issuenumber': 232, 'title': "What is basePath = '../..' used for?, if it is like this what should point and if i have to costomise what i have to write within the court.?", 'state': 'closed', 'created_at': '2012-12-12T10:23:31Z', 'closed_at': '2012-12-13T09:44:53Z', 'labels': {'name': 'support'}}
+{'issuenumber': 231, 'title': 'How to integrate testacular with Jenkins build system with step by step process.And how to stop opening the browser when testacular run in different browsers.?', 'state': 'closed', 'created_at': '2012-12-12T07:14:05Z', 'closed_at': '2012-12-13T09:56:50Z', 'labels': {'name': 'support'}}
+{'issuenumber': 230, 'title': 'growl reporter - handle if growl not running', 'state': 'closed', 'created_at': '2012-12-11T20:47:55Z', 'closed_at': '2012-12-26T15:12:35Z', 'labels': {'name': 'type: refactor'}}
+{'issuenumber': 228, 'title': 'normalize error output', 'state': 'closed', 'created_at': '2012-12-10T21:01:18Z', 'closed_at': '2014-05-17T15:16:47Z', 'labels': {'name': 'webstorm'}}
+{'issuenumber': 227, 'title': 'How to use should.js in testacular environment?', 'state': 'closed', 'created_at': '2012-12-10T13:28:38Z', 'closed_at': '2012-12-10T16:00:52Z', 'labels': []}
+{'issuenumber': 226, 'title': 'how to integrated testacular into the webstorm', 'state': 'closed', 'created_at': '2012-12-10T12:19:18Z', 'closed_at': '2012-12-19T13:11:09Z', 'labels': []}
+{'issuenumber': 225, 'title': 'I am unable to get the screen in the chrome and firefox as required  or what i am getting is the expected one.? and step by step process', 'state': 'closed', 'created_at': '2012-12-10T11:53:36Z', 'closed_at': '2012-12-12T11:06:55Z', 'labels': {'name': 'support'}}
+{'issuenumber': 222, 'title': 'Got "Can\\\'t set headers after they are sent." exception', 'state': 'closed', 'created_at': '2012-12-09T10:29:10Z', 'closed_at': '2012-12-09T12:46:11Z', 'labels': []}
+{'issuenumber': 221, 'title': 'how to use testacular to test ExtJS?', 'state': 'closed', 'created_at': '2012-12-08T01:50:43Z', 'closed_at': '2012-12-10T08:46:07Z', 'labels': {'name': 'support'}}
+{'issuenumber': 219, 'title': 'Clear up `port-runner`, `runnerPort` and `port` options', 'state': 'closed', 'created_at': '2012-12-07T17:56:21Z', 'closed_at': '2012-12-19T17:21:22Z', 'labels': {'name': 'type: refactor'}}
+{'issuenumber': 218, 'title': 'Requirejs Test Case Pathing issue', 'state': 'closed', 'created_at': '2012-12-07T17:55:10Z', 'closed_at': '2012-12-10T08:36:06Z', 'labels': {'name': 'support'}}
+{'issuenumber': 217, 'title': 'add files to watch list', 'state': 'closed', 'created_at': '2012-12-07T16:43:34Z', 'closed_at': '2012-12-07T16:50:34Z', 'labels': []}
+{'issuenumber': 216, 'title': 'Getting Cannot start Firefox or Chroem createProcessW:Access denied error while try to execute', 'state': 'closed', 'created_at': '2012-12-07T11:47:33Z', 'closed_at': '2012-12-10T10:13:32Z', 'labels': {'name': 'support'}}
+{'issuenumber': 215, 'title': 'Getting "There is no server listening on port 9100" after typying testacular run ', 'state': 'closed', 'created_at': '2012-12-07T11:18:18Z', 'closed_at': '2012-12-10T10:15:10Z', 'labels': {'name': 'support'}}
+{'issuenumber': 214, 'title': 'testacular --version gives old version?', 'state': 'closed', 'created_at': '2012-12-07T10:32:40Z', 'closed_at': '2012-12-10T00:42:02Z', 'labels': {'name': 'support'}}
+{'issuenumber': 213, 'title': "CLI boolean options don't work as expected", 'state': 'closed', 'created_at': '2012-12-06T21:36:05Z', 'closed_at': '2017-12-07T00:38:58Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 212, 'title': 'Cannot load anything not declared in the `files` setting', 'state': 'closed', 'created_at': '2012-12-06T20:20:13Z', 'closed_at': '2012-12-10T09:03:54Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 211, 'title': 'Location of Adapters', 'state': 'closed', 'created_at': '2012-12-06T15:35:21Z', 'closed_at': '2012-12-07T15:31:16Z', 'labels': {'name': 'support'}}
+{'issuenumber': 210, 'title': 'Improve release cycle', 'state': 'closed', 'created_at': '2012-12-05T17:37:33Z', 'closed_at': '2013-02-21T03:33:52Z', 'labels': {'name': 'type: chore'}}
+{'issuenumber': 209, 'title': "Coverage report doesn't show chinese charater correctly", 'state': 'closed', 'created_at': '2012-12-05T02:39:26Z', 'closed_at': '2012-12-09T21:20:55Z', 'labels': []}
+{'issuenumber': 208, 'title': 'Spectacular explosion when editing a file with Emacs.', 'state': 'closed', 'created_at': '2012-12-04T08:59:55Z', 'closed_at': '2012-12-04T09:17:17Z', 'labels': []}
+{'issuenumber': 207, 'title': 'Filenames with spaces in are not mapped correctly by the server', 'state': 'closed', 'created_at': '2012-12-01T22:06:43Z', 'closed_at': '2012-12-05T14:26:48Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 204, 'title': 'coverage reporter is missing ', 'state': 'closed', 'created_at': '2012-12-01T14:21:00Z', 'closed_at': '2012-12-04T23:45:08Z', 'labels': {'name': 'support'}}
+{'issuenumber': 203, 'title': 'testacular start fail to capture IE8', 'state': 'closed', 'created_at': '2012-12-01T14:18:58Z', 'closed_at': '2012-12-26T15:24:36Z', 'labels': {'name': 'support'}}
+{'issuenumber': 202, 'title': 'Cannot start Chrome', 'state': 'closed', 'created_at': '2012-12-01T14:14:29Z', 'closed_at': '2012-12-04T23:20:17Z', 'labels': {'name': 'support'}}
+{'issuenumber': 201, 'title': 'Simple test fail on PhantomJS, but passed in Firefox', 'state': 'closed', 'created_at': '2012-12-01T14:09:47Z', 'closed_at': '2012-12-04T23:42:28Z', 'labels': {'name': 'support'}}
+{'issuenumber': 199, 'title': 'test files are unexpectedly removed when edited by certain editors', 'state': 'closed', 'created_at': '2012-11-29T19:37:40Z', 'closed_at': '2012-12-19T18:12:18Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 194, 'title': 'Add dump() function for ANGULAR_SCENARIO_ADAPTER', 'state': 'closed', 'created_at': '2012-11-28T13:35:15Z', 'closed_at': '2012-11-28T13:51:57Z', 'labels': []}
+{'issuenumber': 191, 'title': 'PhantomJS not shutting down when using start', 'state': 'closed', 'created_at': '2012-11-27T22:36:08Z', 'closed_at': '2012-12-10T10:17:03Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 190, 'title': 'Documentation', 'state': 'closed', 'created_at': '2012-11-27T20:25:41Z', 'closed_at': '2013-03-02T21:01:22Z', 'labels': {'name': 'type: docs'}}
+{'issuenumber': 189, 'title': "Angular e2e Scenario Runner won't run futures while page XHR requests are in the air", 'state': 'closed', 'created_at': '2012-11-27T19:59:41Z', 'closed_at': '2012-12-04T22:36:01Z', 'labels': []}
+{'issuenumber': 186, 'title': 'HAR / YSlow support for PhantomJS', 'state': 'closed', 'created_at': '2012-11-24T14:08:40Z', 'closed_at': '2012-12-04T18:15:28Z', 'labels': {'name': 'discuss'}}
+{'issuenumber': 182, 'title': 'NG Scenario adapter breaks if no line specified', 'state': 'closed', 'created_at': '2012-11-20T15:38:03Z', 'closed_at': '2012-11-20T22:32:54Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 181, 'title': 'Add --match option to filter tests to execute', 'state': 'closed', 'created_at': '2012-11-19T13:15:51Z', 'closed_at': '2012-11-21T01:09:16Z', 'labels': []}
+{'issuenumber': 180, 'title': "[travis] testacular won't exit properly on node v0.6", 'state': 'closed', 'created_at': '2012-11-17T16:57:33Z', 'closed_at': '2012-12-04T15:15:24Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 179, 'title': 'Proxying issues with e2e testing', 'state': 'closed', 'created_at': '2012-11-17T12:35:51Z', 'closed_at': '2012-11-18T10:27:42Z', 'labels': []}
+{'issuenumber': 176, 'title': 'Testacular e2e test freezes when navigating outside the application base path', 'state': 'closed', 'created_at': '2012-11-16T18:33:38Z', 'closed_at': '2012-11-16T23:50:22Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 175, 'title': 'Github repo ist not installable via npm', 'state': 'closed', 'created_at': '2012-11-15T15:23:33Z', 'closed_at': '2012-11-16T00:11:09Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 174, 'title': 'Add command line option to use normal terminal output (without colors)', 'state': 'closed', 'created_at': '2012-11-15T08:26:04Z', 'closed_at': '2012-11-15T09:29:17Z', 'labels': []}
+{'issuenumber': 172, 'title': 'Project name causes lots of annoying google search results', 'state': 'closed', 'created_at': '2012-11-14T18:04:33Z', 'closed_at': '2012-11-21T00:25:51Z', 'labels': []}
+{'issuenumber': 171, 'title': 'e2e test browser dsl is failing', 'state': 'closed', 'created_at': '2012-11-14T16:30:58Z', 'closed_at': '2012-11-21T00:07:19Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 170, 'title': 'Prefer local install over global install', 'state': 'closed', 'created_at': '2012-11-14T13:13:15Z', 'closed_at': '2012-12-04T18:05:26Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 169, 'title': 'EACCES error on mac OSX Lion with npm install -g testacular', 'state': 'closed', 'created_at': '2012-11-14T05:59:06Z', 'closed_at': '2012-11-14T10:52:31Z', 'labels': []}
+{'issuenumber': 168, 'title': "JUnit Reporter Error: TypeError: Can't read property 'xxxxxxxxxxxx' of null ", 'state': 'closed', 'created_at': '2012-11-13T21:48:36Z', 'closed_at': '2012-11-14T00:18:50Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 167, 'title': 'Asynchronous tests hang on waitFor', 'state': 'closed', 'created_at': '2012-11-12T17:57:02Z', 'closed_at': '2012-11-14T07:56:39Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 166, 'title': 'RequireJS + Mocha adapter results in an error', 'state': 'closed', 'created_at': '2012-11-12T16:46:34Z', 'closed_at': '2012-11-12T17:43:52Z', 'labels': []}
+{'issuenumber': 165, 'title': "In watch mode on Windows, tests don't execute on first iteration", 'state': 'closed', 'created_at': '2012-11-12T00:04:15Z', 'closed_at': '2012-12-10T10:20:22Z', 'labels': {'name': 'windows'}}
+{'issuenumber': 164, 'title': 'Provide coverage report format Jenkins can consume', 'state': 'closed', 'created_at': '2012-11-11T14:55:36Z', 'closed_at': '2012-11-21T18:08:04Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 163, 'title': 'IE versions is reported incorrectly', 'state': 'closed', 'created_at': '2012-11-10T03:12:27Z', 'closed_at': '2012-11-15T00:04:11Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 161, 'title': 'Allow for multiple preprocessors to be chained', 'state': 'closed', 'created_at': '2012-11-08T10:05:16Z', 'closed_at': '2013-05-12T09:05:27Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 160, 'title': "angular-scenario adapter: Uncaught TypeError: Cannot read property 'name' of null", 'state': 'closed', 'created_at': '2012-11-08T03:18:32Z', 'closed_at': '2012-11-16T23:34:00Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 159, 'title': 'Add wait time before executing tests', 'state': 'closed', 'created_at': '2012-11-07T23:26:02Z', 'closed_at': '2012-12-10T10:22:26Z', 'labels': {'name': 'type: refactor'}}
+{'issuenumber': 158, 'title': 'Reorganize Testacular', 'state': 'closed', 'created_at': '2012-11-07T09:22:27Z', 'closed_at': '2013-02-21T03:23:39Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 157, 'title': 'Init spec fails', 'state': 'closed', 'created_at': '2012-11-06T09:15:41Z', 'closed_at': '2012-11-06T09:24:44Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 154, 'title': 'No error if server port already in use', 'state': 'closed', 'created_at': '2012-11-03T00:05:41Z', 'closed_at': '2012-11-05T01:58:17Z', 'labels': []}
+{'issuenumber': 150, 'title': 'Ability to console.log', 'state': 'closed', 'created_at': '2012-10-30T22:49:52Z', 'closed_at': '2012-10-30T22:53:43Z', 'labels': []}
+{'issuenumber': 149, 'title': 'Error loading bootstrap.js from Twitter on both Firefox and Chrome', 'state': 'closed', 'created_at': '2012-10-30T21:07:27Z', 'closed_at': '2012-10-30T22:29:49Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 148, 'title': '[Jasmine] Rerun all tests when the failing tests pass', 'state': 'closed', 'created_at': '2012-10-30T17:49:01Z', 'closed_at': '2013-02-21T22:35:20Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 146, 'title': 'Ever checked out compatibility with angularjs + jQuery Mobile + adapter by tigbro ?', 'state': 'closed', 'created_at': '2012-10-29T16:18:37Z', 'closed_at': '2012-11-20T23:12:21Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 145, 'title': 'Exception when using jasmine.log() inside of my spec.', 'state': 'closed', 'created_at': '2012-10-23T20:42:31Z', 'closed_at': '2012-10-27T22:58:51Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 142, 'title': 'Travis fails', 'state': 'closed', 'created_at': '2012-10-22T10:50:14Z', 'closed_at': '2012-10-22T11:54:50Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 141, 'title': 'Improve mocha adapter', 'state': 'closed', 'created_at': '2012-10-22T09:10:41Z', 'closed_at': '2013-03-02T21:05:04Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 140, 'title': 'Add QUnit Adapter', 'state': 'closed', 'created_at': '2012-10-22T09:02:53Z', 'closed_at': '2012-11-12T18:35:00Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 136, 'title': 'Add possibility to stop a karma server', 'state': 'closed', 'created_at': '2012-10-21T13:14:30Z', 'closed_at': '2016-02-26T09:42:32Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 135, 'title': 'Update grunt to 0.4', 'state': 'closed', 'created_at': '2012-10-21T07:32:59Z', 'closed_at': '2012-10-22T08:28:57Z', 'labels': {'name': 'type: chore'}}
+{'issuenumber': 134, 'title': 'Watching whole drive', 'state': 'closed', 'created_at': '2012-10-21T06:49:43Z', 'closed_at': '2016-01-04T20:33:04Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 130, 'title': 'Use local Testacular instead of global testacular in test:client', 'state': 'closed', 'created_at': '2012-10-19T19:38:17Z', 'closed_at': '2012-12-04T23:22:15Z', 'labels': {'name': 'type: refactor'}}
+{'issuenumber': 129, 'title': 'Create benchmarks', 'state': 'closed', 'created_at': '2012-10-19T14:26:35Z', 'closed_at': '2015-06-04T19:57:27Z', 'labels': {'name': 'type: chore'}}
+{'issuenumber': 127, 'title': 'Reverse port rewriting for HTTP3xx Location headers', 'state': 'closed', 'created_at': '2012-10-19T07:46:22Z', 'closed_at': '2016-01-04T20:35:51Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 125, 'title': 'jQuery requests timing out when bypassing $http', 'state': 'closed', 'created_at': '2012-10-19T00:08:13Z', 'closed_at': '2012-10-22T13:24:04Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 123, 'title': 'Add CONTRIBUTING.md to project root', 'state': 'closed', 'created_at': '2012-10-18T21:30:49Z', 'closed_at': '2012-10-21T22:28:49Z', 'labels': []}
+{'issuenumber': 122, 'title': 'Provide all build instructions in README', 'state': 'closed', 'created_at': '2012-10-18T19:54:48Z', 'closed_at': '2012-10-19T19:24:10Z', 'labels': {'name': 'type: docs'}}
+{'issuenumber': 121, 'title': 'Include OS in browser name', 'state': 'closed', 'created_at': '2012-10-18T19:02:05Z', 'closed_at': '2012-10-21T22:43:34Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 120, 'title': 'warn (proxy): Proxy Request failed - Error: socket hang up', 'state': 'closed', 'created_at': '2012-10-18T05:14:49Z', 'closed_at': '2012-10-18T10:46:45Z', 'labels': []}
+{'issuenumber': 119, 'title': 'warn (proxy): Proxy Request failed - Error: socket hang up', 'state': 'closed', 'created_at': '2012-10-18T05:14:48Z', 'closed_at': '2012-10-19T07:16:09Z', 'labels': []}
+{'issuenumber': 118, 'title': 'Continuous integration ', 'state': 'closed', 'created_at': '2012-10-18T02:44:40Z', 'closed_at': '2012-10-19T07:18:26Z', 'labels': []}
+{'issuenumber': 117, 'title': 'Provide callback after and before each test method', 'state': 'closed', 'created_at': '2012-10-17T10:00:48Z', 'closed_at': '2012-10-21T22:28:19Z', 'labels': []}
+{'issuenumber': 114, 'title': 'jasmine-node test depends on global install', 'state': 'closed', 'created_at': '2012-10-16T14:29:34Z', 'closed_at': '2012-10-22T07:30:14Z', 'labels': []}
+{'issuenumber': 112, 'title': 'Lint task fails (stable/master)', 'state': 'closed', 'created_at': '2012-10-16T13:34:07Z', 'closed_at': '2012-10-17T06:56:14Z', 'labels': []}
+{'issuenumber': 110, 'title': 'Use async where possible', 'state': 'closed', 'created_at': '2012-10-15T08:10:03Z', 'closed_at': '2012-12-08T11:07:30Z', 'labels': {'name': 'type: refactor'}}
+{'issuenumber': 106, 'title': 'Replace logger and color codes', 'state': 'closed', 'created_at': '2012-10-14T08:40:17Z', 'closed_at': '2013-01-13T19:11:27Z', 'labels': {'name': 'type: refactor'}}
+{'issuenumber': 105, 'title': 'Rewrite the webserver using a third party lib', 'state': 'closed', 'created_at': '2012-10-13T15:41:33Z', 'closed_at': '2013-07-25T06:02:42Z', 'labels': {'name': 'type: refactor'}}
+{'issuenumber': 99, 'title': '(Feature) JUnit or JSUnit output', 'state': 'closed', 'created_at': '2012-10-11T19:16:18Z', 'closed_at': '2012-10-11T19:24:03Z', 'labels': []}
+{'issuenumber': 96, 'title': 'BrowserStack support', 'state': 'closed', 'created_at': '2012-10-10T01:37:57Z', 'closed_at': '2013-07-04T06:56:25Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 95, 'title': 'Upnode for reconnects', 'state': 'closed', 'created_at': '2012-10-10T01:35:20Z', 'closed_at': '2012-12-04T17:52:49Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 94, 'title': 'Shutdown started browsers on fatal error', 'state': 'closed', 'created_at': '2012-10-09T17:40:37Z', 'closed_at': '2012-12-04T22:52:06Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 93, 'title': "test codes doesn't work on windows", 'state': 'closed', 'created_at': '2012-10-09T10:19:43Z', 'closed_at': '2012-10-17T07:19:46Z', 'labels': {'name': 'windows'}}
+{'issuenumber': 91, 'title': 'Race condition when running as subprocess in Windows', 'state': 'closed', 'created_at': '2012-10-08T22:23:01Z', 'closed_at': '2012-10-10T06:45:13Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 89, 'title': 'Code Coverage', 'state': 'closed', 'created_at': '2012-10-07T23:44:16Z', 'closed_at': '2012-11-08T04:00:01Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 88, 'title': 'Race-condition during browser timeout', 'state': 'closed', 'created_at': '2012-10-07T17:21:57Z', 'closed_at': '2013-08-19T02:06:05Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 86, 'title': 'Exotic Proxy support', 'state': 'closed', 'created_at': '2012-10-05T18:02:10Z', 'closed_at': '2012-10-10T06:08:54Z', 'labels': []}
+{'issuenumber': 82, 'title': 'Build fails when websocket connection is restarted', 'state': 'closed', 'created_at': '2012-10-04T17:09:05Z', 'closed_at': '2013-08-21T10:39:10Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 76, 'title': 'Better documentation', 'state': 'closed', 'created_at': '2012-10-03T20:42:28Z', 'closed_at': '2012-11-27T20:22:19Z', 'labels': {'name': 'type: docs'}}
+{'issuenumber': 74, 'title': 'Connects to previous browser runs, even when browser is not specified', 'state': 'closed', 'created_at': '2012-10-03T14:29:24Z', 'closed_at': '2013-01-13T08:21:33Z', 'labels': {'name': 'windows'}}
+{'issuenumber': 72, 'title': 'Add configuration option for path to PhantomJS (on Windows)', 'state': 'closed', 'created_at': '2012-10-03T11:01:49Z', 'closed_at': '2012-10-04T05:16:17Z', 'labels': []}
+{'issuenumber': 71, 'title': 'no error when a browser fails to start', 'state': 'closed', 'created_at': '2012-10-03T08:23:02Z', 'closed_at': '2013-01-13T08:18:43Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 70, 'title': 'PhantomJS not connecting?', 'state': 'closed', 'created_at': '2012-10-02T21:12:44Z', 'closed_at': '2012-10-04T23:51:49Z', 'labels': []}
+{'issuenumber': 69, 'title': 'Test runner failure when trying to get exception name.', 'state': 'closed', 'created_at': '2012-10-02T15:31:46Z', 'closed_at': '2012-10-02T19:13:50Z', 'labels': []}
+{'issuenumber': 68, 'title': 'Exactly what files are needed for running angular framework?', 'state': 'closed', 'created_at': '2012-10-02T02:41:39Z', 'closed_at': '2012-10-03T06:41:54Z', 'labels': []}
+{'issuenumber': 66, 'title': 'Testacular + jasmine : tests not executed', 'state': 'closed', 'created_at': '2012-10-01T16:16:12Z', 'closed_at': '2012-10-27T23:06:09Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 65, 'title': 'Ignore .#* Emacs lock files ', 'state': 'closed', 'created_at': '2012-10-01T13:48:03Z', 'closed_at': '2012-12-25T20:00:25Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 64, 'title': 'Allow global config in ~/.testacular', 'state': 'closed', 'created_at': '2012-09-29T23:31:42Z', 'closed_at': '2013-05-12T08:52:50Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 63, 'title': 'Windows support when running local copy under node_modules', 'state': 'closed', 'created_at': '2012-09-28T21:42:51Z', 'closed_at': '2012-10-03T06:15:14Z', 'labels': []}
+{'issuenumber': 62, 'title': 'Firefox should open up a new instance', 'state': 'closed', 'created_at': '2012-09-28T13:31:20Z', 'closed_at': '2012-09-29T18:42:47Z', 'labels': []}
+{'issuenumber': 61, 'title': 'Ability to override config properties via command line arguments', 'state': 'closed', 'created_at': '2012-09-28T09:18:44Z', 'closed_at': '2012-10-04T04:22:11Z', 'labels': []}
+{'issuenumber': 60, 'title': "Error: ENOENT, stat '/etc/blkid.tab'", 'state': 'closed', 'created_at': '2012-09-21T05:31:43Z', 'closed_at': '2012-12-09T09:38:08Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 59, 'title': 'FR: Add xUnit XML reporter.', 'state': 'closed', 'created_at': '2012-09-20T13:54:39Z', 'closed_at': '2012-09-20T19:03:00Z', 'labels': []}
+{'issuenumber': 58, 'title': 'Launch profile for Opera should set collections of stats settings', 'state': 'closed', 'created_at': '2012-09-18T03:37:55Z', 'closed_at': '2012-09-21T00:03:01Z', 'labels': []}
+{'issuenumber': 57, 'title': "Don't synchronize test runs across multiple browsers", 'state': 'closed', 'created_at': '2012-09-18T03:33:30Z', 'closed_at': '2013-08-26T02:49:51Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 55, 'title': "Don't assume default browser install locations - Windows", 'state': 'closed', 'created_at': '2012-09-16T09:32:15Z', 'closed_at': '2012-09-29T23:31:51Z', 'labels': []}
+{'issuenumber': 53, 'title': 'Provide example for running tests from command line', 'state': 'closed', 'created_at': '2012-09-13T11:10:17Z', 'closed_at': '2012-09-29T23:16:56Z', 'labels': []}
+{'issuenumber': 52, 'title': '--no-auto-watch and --auto-watch=false should be have the same', 'state': 'closed', 'created_at': '2012-09-13T00:47:27Z', 'closed_at': '2012-10-22T09:03:08Z', 'labels': []}
+{'issuenumber': 51, 'title': 'incorrect warning about file not found', 'state': 'closed', 'created_at': '2012-09-13T00:41:52Z', 'closed_at': '2012-09-30T00:10:19Z', 'labels': []}
+{'issuenumber': 49, 'title': 'Testacular with travis', 'state': 'closed', 'created_at': '2012-09-08T00:47:46Z', 'closed_at': '2012-09-09T02:10:59Z', 'labels': []}
+{'issuenumber': 46, 'title': 'Testacular installation issue with npm', 'state': 'closed', 'created_at': '2012-09-05T13:58:49Z', 'closed_at': '2012-09-29T21:56:11Z', 'labels': {'name': 'windows'}}
+{'issuenumber': 44, 'title': '(Feature Request) Add License File to Repo and notice to github readme', 'state': 'closed', 'created_at': '2012-09-04T13:57:02Z', 'closed_at': '2012-09-06T08:08:16Z', 'labels': []}
+{'issuenumber': 43, 'title': 'test errors appear twice', 'state': 'closed', 'created_at': '2012-09-02T14:16:03Z', 'closed_at': '2012-12-10T10:38:08Z', 'labels': {'name': 'needs: investigation'}}
+{'issuenumber': 42, 'title': 'Run tests on start', 'state': 'closed', 'created_at': '2012-08-31T04:51:08Z', 'closed_at': '2012-09-12T07:35:11Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 39, 'title': 'JASMINE and JASMINE_ADAPTER not defined', 'state': 'closed', 'created_at': '2012-08-28T23:18:22Z', 'closed_at': '2012-08-31T06:06:46Z', 'labels': []}
+{'issuenumber': 37, 'title': 'e2e tests?', 'state': 'closed', 'created_at': '2012-08-21T14:11:10Z', 'closed_at': '2012-08-21T16:39:41Z', 'labels': []}
+{'issuenumber': 35, 'title': 'init is not working', 'state': 'closed', 'created_at': '2012-08-20T18:10:31Z', 'closed_at': '2012-08-20T21:54:57Z', 'labels': []}
+{'issuenumber': 30, 'title': 'Zombie.js headless browser', 'state': 'closed', 'created_at': '2012-08-15T13:48:20Z', 'closed_at': '2012-08-21T16:41:36Z', 'labels': []}
+{'issuenumber': 27, 'title': 'detect page reloads in context.html', 'state': 'closed', 'created_at': '2012-08-08T02:33:23Z', 'closed_at': '2013-07-20T03:53:47Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 26, 'title': 'execvp(): No such file or directory', 'state': 'closed', 'created_at': '2012-08-06T05:22:49Z', 'closed_at': '2012-08-07T01:20:43Z', 'labels': []}
+{'issuenumber': 24, 'title': "Browser doesn't close itself after a singleRun test.", 'state': 'closed', 'created_at': '2012-08-02T15:07:40Z', 'closed_at': '2012-09-29T21:50:58Z', 'labels': []}
+{'issuenumber': 20, 'title': 'Typo in message', 'state': 'closed', 'created_at': '2012-07-30T12:49:42Z', 'closed_at': '2012-07-30T22:17:47Z', 'labels': []}
+{'issuenumber': 19, 'title': 'CI testing more documentation', 'state': 'closed', 'created_at': '2012-07-30T06:11:22Z', 'closed_at': '2012-07-31T20:04:50Z', 'labels': []}
+{'issuenumber': 17, 'title': 'Deeply-nested file glob patterns', 'state': 'closed', 'created_at': '2012-07-25T01:36:01Z', 'closed_at': '2012-07-25T01:59:52Z', 'labels': []}
+{'issuenumber': 15, 'title': 'AMD Support?', 'state': 'closed', 'created_at': '2012-07-24T19:21:24Z', 'closed_at': '2012-10-29T00:26:21Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 13, 'title': 'Adapter for mocha', 'state': 'closed', 'created_at': '2012-07-24T06:06:12Z', 'closed_at': '2012-07-26T18:39:26Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 12, 'title': 'Sublime console', 'state': 'closed', 'created_at': '2012-07-21T22:10:43Z', 'closed_at': '2012-07-22T04:14:19Z', 'labels': []}
+{'issuenumber': 11, 'title': 'Wildcard pattern not recognized on Windows.', 'state': 'closed', 'created_at': '2012-07-21T04:16:36Z', 'closed_at': '2012-07-24T17:03:42Z', 'labels': []}
+{'issuenumber': 10, 'title': 'Create TAP adapter', 'state': 'closed', 'created_at': '2012-07-19T19:02:42Z', 'closed_at': '2015-06-26T21:34:49Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 9, 'title': 'Problem with Firefox profile?', 'state': 'closed', 'created_at': '2012-07-10T18:04:58Z', 'closed_at': '2012-07-26T18:34:31Z', 'labels': []}
+{'issuenumber': 4, 'title': 'proxy for external file', 'state': 'closed', 'created_at': '2012-06-01T15:52:20Z', 'closed_at': '2012-07-31T04:51:05Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 3, 'title': 'Load external files into test runner', 'state': 'closed', 'created_at': '2012-04-12T19:51:22Z', 'closed_at': '2012-06-30T18:40:40Z', 'labels': []}

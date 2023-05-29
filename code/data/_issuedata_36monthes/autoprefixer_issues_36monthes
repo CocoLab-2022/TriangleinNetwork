@@ -1,0 +1,500 @@
+{'issuenumber': 632, 'title': 'Autoprefixer duplicates `-ms-interpolation-mode` declaration', 'state': 'closed', 'created_at': '2016-03-25T10:11:57Z', 'closed_at': '2016-03-27T07:31:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 631, 'title': "-webkit- prefix not applied to 'transform: translate(...'", 'state': 'closed', 'created_at': '2016-03-22T02:30:53Z', 'closed_at': '2016-03-22T06:44:19Z', 'labels': []}
+{'issuenumber': 630, 'title': 'translateY prefix', 'state': 'closed', 'created_at': '2016-03-21T13:37:21Z', 'closed_at': '2016-03-21T13:39:32Z', 'labels': []}
+{'issuenumber': 629, 'title': 'Broken transform: matrix3d', 'state': 'closed', 'created_at': '2016-03-17T16:57:08Z', 'closed_at': '2016-03-17T16:58:17Z', 'labels': []}
+{'issuenumber': 628, 'title': '.autoprefixerrc config file', 'state': 'closed', 'created_at': '2016-03-17T11:55:02Z', 'closed_at': '2016-03-17T15:18:17Z', 'labels': []}
+{'issuenumber': 627, 'title': ':placeholder-shown', 'state': 'closed', 'created_at': '2016-03-11T07:43:20Z', 'closed_at': '2016-03-11T08:59:13Z', 'labels': []}
+{'issuenumber': 626, 'title': 'autofill not being prefixed', 'state': 'closed', 'created_at': '2016-03-08T07:04:59Z', 'closed_at': '2021-10-28T09:45:39Z', 'labels': {'name': 'support'}}
+{'issuenumber': 625, 'title': 'value changing automaticaly', 'state': 'closed', 'created_at': '2016-02-29T08:14:00Z', 'closed_at': '2016-02-29T08:18:18Z', 'labels': []}
+{'issuenumber': 624, 'title': "Adding a prefixed value to `transition-property` doesn't correspond to an added value to `transition-duration` also", 'state': 'closed', 'created_at': '2016-02-28T14:25:50Z', 'closed_at': '2016-02-28T14:28:32Z', 'labels': []}
+{'issuenumber': 623, 'title': "Doesn't remove or add prefix. Not sure which?", 'state': 'closed', 'created_at': '2016-02-26T09:52:39Z', 'closed_at': '2016-02-26T10:00:49Z', 'labels': []}
+{'issuenumber': 622, 'title': 'Ignore dynamic tags like Liquid/Shopify', 'state': 'closed', 'created_at': '2016-02-19T20:45:53Z', 'closed_at': '2016-02-19T21:57:33Z', 'labels': []}
+{'issuenumber': 621, 'title': 'autoprefixer detects "transition-timing-function: cubic-bezier(...)" as complicated transition case', 'state': 'closed', 'created_at': '2016-02-12T11:07:11Z', 'closed_at': '2016-02-13T13:23:32Z', 'labels': []}
+{'issuenumber': 620, 'title': 'break-inside css property resolves to the wrong prefixes', 'state': 'closed', 'created_at': '2016-02-12T10:36:54Z', 'closed_at': '2016-02-13T12:15:17Z', 'labels': {'name': 'support'}}
+{'issuenumber': 618, 'title': 'Lack of .json file-ending in prefixes.coffee necessitates jspm registry override', 'state': 'closed', 'created_at': '2016-02-10T16:15:36Z', 'closed_at': '2016-02-10T19:31:00Z', 'labels': []}
+{'issuenumber': 617, 'title': 'Wrong prefixing when using multiple transition-properties where one is transform', 'state': 'closed', 'created_at': '2016-02-07T22:24:46Z', 'closed_at': '2016-02-07T22:34:51Z', 'labels': []}
+{'issuenumber': 616, 'title': '`will-change` values not prefixed', 'state': 'closed', 'created_at': '2016-02-04T21:06:38Z', 'closed_at': '2016-07-24T08:55:15Z', 'labels': []}
+{'issuenumber': 614, 'title': 'diabled to CSS properties “opacity”', 'state': 'closed', 'created_at': '2016-02-04T03:29:00Z', 'closed_at': '2016-02-04T11:27:49Z', 'labels': []}
+{'issuenumber': 612, 'title': 'No prefixes for transform inside transition', 'state': 'closed', 'created_at': '2016-01-22T10:40:10Z', 'closed_at': '2016-01-22T11:12:39Z', 'labels': []}
+{'issuenumber': 611, 'title': 'Compatibility with Flexibility', 'state': 'closed', 'created_at': '2016-01-20T18:20:06Z', 'closed_at': '2016-01-20T18:22:10Z', 'labels': []}
+{'issuenumber': 610, 'title': 'Disable flexbox using control comments', 'state': 'closed', 'created_at': '2016-01-16T10:22:11Z', 'closed_at': '2016-08-02T08:22:09Z', 'labels': []}
+{'issuenumber': 609, 'title': 'Not adding prefixes for user-select', 'state': 'closed', 'created_at': '2016-01-15T19:17:05Z', 'closed_at': '2016-01-15T19:20:25Z', 'labels': []}
+{'issuenumber': 608, 'title': 'adds prefixes on -js-display: flex;', 'state': 'closed', 'created_at': '2016-01-14T23:20:45Z', 'closed_at': '2016-01-15T10:56:37Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 606, 'title': 'sourceMappingURL causes "unknown word"', 'state': 'closed', 'created_at': '2016-01-09T19:17:49Z', 'closed_at': '2016-01-09T19:21:11Z', 'labels': []}
+{'issuenumber': 605, 'title': '@keyframes prefixer isn`t  entire', 'state': 'closed', 'created_at': '2016-01-08T09:30:39Z', 'closed_at': '2016-01-08T11:12:19Z', 'labels': []}
+{'issuenumber': 604, 'title': 'Disable flexbox and grid', 'state': 'closed', 'created_at': '2016-01-06T16:34:12Z', 'closed_at': '2016-01-06T23:55:11Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 603, 'title': 'Grid Layout support ?', 'state': 'closed', 'created_at': '2016-01-05T08:09:42Z', 'closed_at': '2016-01-12T19:17:05Z', 'labels': {'name': 'support'}}
+{'issuenumber': 602, 'title': 'Duplicate properties issue on "transition-property"', 'state': 'closed', 'created_at': '2016-01-04T18:21:33Z', 'closed_at': '2016-01-04T19:35:57Z', 'labels': []}
+{'issuenumber': 601, 'title': 'Wrong values when autoprefixer is run after postcss-custom-properties', 'state': 'closed', 'created_at': '2016-01-03T16:55:30Z', 'closed_at': '2016-01-06T22:51:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 600, 'title': 'autoprefixer not adding prefixes', 'state': 'closed', 'created_at': '2016-01-01T13:59:18Z', 'closed_at': '2016-01-01T14:11:33Z', 'labels': []}
+{'issuenumber': 599, 'title': 'Better support for tab-size property', 'state': 'closed', 'created_at': '2015-12-30T03:02:27Z', 'closed_at': '2016-01-06T17:04:14Z', 'labels': {'name': 'support'}}
+{'issuenumber': 597, 'title': 'Rename to postcss-autoprefixer', 'state': 'closed', 'created_at': '2015-12-29T06:03:38Z', 'closed_at': '2016-07-23T15:20:07Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 596, 'title': 'source maps are incorrect when compiling from SCSS', 'state': 'closed', 'created_at': '2015-12-28T16:02:17Z', 'closed_at': '2015-12-28T16:04:17Z', 'labels': []}
+{'issuenumber': 595, 'title': 'More understandable release notes', 'state': 'closed', 'created_at': '2015-12-25T03:53:25Z', 'closed_at': '2015-12-25T09:16:49Z', 'labels': []}
+{'issuenumber': 594, 'title': 'Calc is returning incorrect value', 'state': 'closed', 'created_at': '2015-12-23T20:36:22Z', 'closed_at': '2015-12-23T20:48:56Z', 'labels': []}
+{'issuenumber': 593, 'title': "Cannot read property 'value' of undifined", 'state': 'closed', 'created_at': '2015-12-23T06:14:06Z', 'closed_at': '2015-12-29T21:36:11Z', 'labels': []}
+{'issuenumber': 591, 'title': 'How to reduce the size of the CSS file?', 'state': 'closed', 'created_at': '2015-12-20T20:19:27Z', 'closed_at': '2015-12-20T20:57:33Z', 'labels': []}
+{'issuenumber': 590, 'title': 'Support text-underline-position', 'state': 'closed', 'created_at': '2015-12-18T04:02:10Z', 'closed_at': '2016-01-07T13:16:55Z', 'labels': {'name': 'support'}}
+{'issuenumber': 589, 'title': 'Better conversion CSS linear-gradient()', 'state': 'closed', 'created_at': '2015-12-18T03:42:37Z', 'closed_at': '2015-12-18T10:55:15Z', 'labels': {'name': 'support'}}
+{'issuenumber': 588, 'title': 'Support text-spacing', 'state': 'closed', 'created_at': '2015-12-18T03:09:13Z', 'closed_at': '2016-01-10T09:55:55Z', 'labels': {'name': 'support'}}
+{'issuenumber': 586, 'title': "autoprefixer doesn't add a prefix for box-shadow", 'state': 'closed', 'created_at': '2015-12-10T13:08:01Z', 'closed_at': '2015-12-10T13:14:46Z', 'labels': []}
+{'issuenumber': 584, 'title': 'autoprefixer throwing error with gulp-less on iOS', 'state': 'closed', 'created_at': '2015-12-07T08:34:49Z', 'closed_at': '2015-12-07T08:55:53Z', 'labels': []}
+{'issuenumber': 578, 'title': 'Support text-emphasis-position', 'state': 'closed', 'created_at': '2015-12-02T12:05:54Z', 'closed_at': '2015-12-06T23:25:29Z', 'labels': {'name': 'support'}}
+{'issuenumber': 577, 'title': 'pointer events', 'state': 'closed', 'created_at': '2015-12-01T19:11:21Z', 'closed_at': '2015-12-01T19:21:45Z', 'labels': []}
+{'issuenumber': 576, 'title': 'Whitespace for browser should be ignored during comparison', 'state': 'closed', 'created_at': '2015-12-01T03:15:42Z', 'closed_at': '2015-12-01T11:00:49Z', 'labels': []}
+{'issuenumber': 575, 'title': 'autoprefixer not prefixing calc()', 'state': 'closed', 'created_at': '2015-11-30T17:24:54Z', 'closed_at': '2015-11-30T17:43:32Z', 'labels': []}
+{'issuenumber': 574, 'title': 'Wrong prefix -moz-llinear-gradient', 'state': 'closed', 'created_at': '2015-11-30T14:51:38Z', 'closed_at': '2015-11-30T15:57:39Z', 'labels': []}
+{'issuenumber': 573, 'title': 'Disabling old flexbox', 'state': 'closed', 'created_at': '2015-11-30T14:11:36Z', 'closed_at': '2015-11-30T15:48:32Z', 'labels': []}
+{'issuenumber': 571, 'title': 'Bug in gradient.coffee, array out bounds', 'state': 'closed', 'created_at': '2015-11-30T11:43:04Z', 'closed_at': '2015-11-30T13:29:30Z', 'labels': []}
+{'issuenumber': 570, 'title': 'background-position-x in Firefox.', 'state': 'closed', 'created_at': '2015-11-30T08:19:04Z', 'closed_at': '2015-11-30T09:02:08Z', 'labels': []}
+{'issuenumber': 568, 'title': '@supports prefixing not following spec', 'state': 'closed', 'created_at': '2015-11-25T14:24:10Z', 'closed_at': '2015-12-13T12:20:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 566, 'title': 'Transform with duration and delay', 'state': 'closed', 'created_at': '2015-11-25T10:29:55Z', 'closed_at': '2015-12-17T11:35:26Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 565, 'title': 'Mac osx Terminal not installing Autoprefixer, but its running gulp and sass with Yeti App from Foundation.', 'state': 'closed', 'created_at': '2015-11-24T04:18:47Z', 'closed_at': '2015-11-24T10:12:01Z', 'labels': []}
+{'issuenumber': 564, 'title': 'Autoprefixer is not prefixing', 'state': 'closed', 'created_at': '2015-11-22T16:54:23Z', 'closed_at': '2015-11-23T20:08:45Z', 'labels': []}
+{'issuenumber': 563, 'title': 'cursor: grab and grabbing are not getting prefixes', 'state': 'closed', 'created_at': '2015-11-18T10:40:12Z', 'closed_at': '2015-11-23T08:41:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 562, 'title': 'request support: ime-mode', 'state': 'closed', 'created_at': '2015-11-18T07:30:38Z', 'closed_at': '2015-11-18T08:04:46Z', 'labels': []}
+{'issuenumber': 561, 'title': 'does it recognize the `flex` property?', 'state': 'closed', 'created_at': '2015-11-16T23:52:22Z', 'closed_at': '2015-11-17T00:18:24Z', 'labels': []}
+{'issuenumber': 560, 'title': '`flex-direction` duplicates', 'state': 'closed', 'created_at': '2015-11-16T12:17:23Z', 'closed_at': '2015-12-06T23:11:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 559, 'title': 'Use NodeGYP3', 'state': 'closed', 'created_at': '2015-11-15T14:51:35Z', 'closed_at': '2015-11-15T15:20:28Z', 'labels': []}
+{'issuenumber': 558, 'title': 'Convert overflow-wrap into word-wrap', 'state': 'closed', 'created_at': '2015-11-13T02:09:48Z', 'closed_at': '2015-11-13T09:55:57Z', 'labels': []}
+{'issuenumber': 557, 'title': 'Error in pipeline from node-sass stdout to autoprefixer stdin', 'state': 'closed', 'created_at': '2015-11-12T14:13:53Z', 'closed_at': '2015-11-12T14:16:37Z', 'labels': []}
+{'issuenumber': 556, 'title': 'Create a warning if Autoprefixer does not needed anymore', 'state': 'closed', 'created_at': '2015-11-11T11:24:20Z', 'closed_at': '2015-12-09T02:57:09Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 555, 'title': 'Не понятные префиксы', 'state': 'closed', 'created_at': '2015-11-09T15:47:26Z', 'closed_at': '2015-11-23T08:35:10Z', 'labels': []}
+{'issuenumber': 554, 'title': 'Upgrade from 5.1.11 to 5.2.0 or 6.0.x breaks relative sourcemaps', 'state': 'closed', 'created_at': '2015-11-09T14:51:03Z', 'closed_at': '2015-11-09T14:54:09Z', 'labels': []}
+{'issuenumber': 553, 'title': 'Sourcemaps are breaking when autoprefixer is included', 'state': 'closed', 'created_at': '2015-11-06T15:07:45Z', 'closed_at': '2015-11-08T23:28:20Z', 'labels': []}
+{'issuenumber': 552, 'title': '[Question] @viewport generation', 'state': 'closed', 'created_at': '2015-11-06T00:46:09Z', 'closed_at': '2015-11-06T05:59:59Z', 'labels': []}
+{'issuenumber': 551, 'title': 'Transform with filter in transitions', 'state': 'closed', 'created_at': '2015-11-05T08:00:44Z', 'closed_at': '2015-11-05T09:11:26Z', 'labels': []}
+{'issuenumber': 550, 'title': 'Support `:placeholder` single colon syntax', 'state': 'closed', 'created_at': '2015-11-02T02:20:37Z', 'closed_at': '2015-11-02T08:31:39Z', 'labels': []}
+{'issuenumber': 549, 'title': 's filter', 'state': 'closed', 'created_at': '2015-10-30T00:47:55Z', 'closed_at': '2015-10-30T00:48:05Z', 'labels': []}
+{'issuenumber': 548, 'title': 'iuse vw', 'state': 'closed', 'created_at': '2015-10-24T03:16:31Z', 'closed_at': '2015-10-24T13:03:14Z', 'labels': []}
+{'issuenumber': 546, 'title': 'the READMe.md has a wrong demonstration', 'state': 'closed', 'created_at': '2015-10-21T03:18:21Z', 'closed_at': '2015-10-21T05:51:57Z', 'labels': []}
+{'issuenumber': 545, 'title': 'gulp-autoprefixer promise is not defined', 'state': 'closed', 'created_at': '2015-10-20T16:12:29Z', 'closed_at': '2015-10-20T17:27:34Z', 'labels': []}
+{'issuenumber': 543, 'title': "Firefox' read-only bug: duplicate the CSS for it", 'state': 'closed', 'created_at': '2015-10-19T06:32:45Z', 'closed_at': '2015-10-30T07:12:39Z', 'labels': {'name': 'support'}}
+{'issuenumber': 542, 'title': 'Sourcemaps are breaking', 'state': 'closed', 'created_at': '2015-10-16T22:22:21Z', 'closed_at': '2015-10-16T22:25:56Z', 'labels': []}
+{'issuenumber': 541, 'title': 'Error in less-plugin-autoprefix', 'state': 'closed', 'created_at': '2015-10-16T03:27:52Z', 'closed_at': '2015-10-16T08:39:58Z', 'labels': []}
+{'issuenumber': 540, 'title': 'Appearance property', 'state': 'closed', 'created_at': '2015-10-09T11:19:34Z', 'closed_at': '2015-10-10T12:51:41Z', 'labels': {'name': 'support'}}
+{'issuenumber': 539, 'title': 'Not removing unnecessary transform-style properties', 'state': 'closed', 'created_at': '2015-10-06T21:45:54Z', 'closed_at': '2015-10-10T12:58:55Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 538, 'title': 'cross-fade() prefixer is buggy', 'state': 'closed', 'created_at': '2015-10-06T20:31:53Z', 'closed_at': '2015-10-08T18:50:42Z', 'labels': {'name': 'question'}}
+{'issuenumber': 537, 'title': 'transform rotateZ is not recognized', 'state': 'closed', 'created_at': '2015-10-05T13:39:12Z', 'closed_at': '2015-10-10T14:39:08Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 536, 'title': 'Warnings when using Bourbon\'s "display(flex)"', 'state': 'closed', 'created_at': '2015-10-03T10:39:19Z', 'closed_at': '2015-10-03T10:59:50Z', 'labels': []}
+{'issuenumber': 535, 'title': 'Media query issue', 'state': 'closed', 'created_at': '2015-10-03T09:21:06Z', 'closed_at': '2015-10-10T14:53:34Z', 'labels': {'name': 'question'}}
+{'issuenumber': 534, 'title': 'Background-size support in bg shorthand for older Android', 'state': 'closed', 'created_at': '2015-10-02T09:53:19Z', 'closed_at': '2015-10-02T10:31:57Z', 'labels': []}
+{'issuenumber': 533, 'title': 'Please add support for text-stroke-xxx', 'state': 'closed', 'created_at': '2015-10-01T22:41:27Z', 'closed_at': '2021-07-12T20:45:35Z', 'labels': {'name': 'support'}}
+{'issuenumber': 532, 'title': 'Allow loud comments for disabling autoprefixer', 'state': 'closed', 'created_at': '2015-09-30T14:07:28Z', 'closed_at': '2015-10-10T12:56:09Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 531, 'title': 'Add autoprefixer 6 support', 'state': 'closed', 'created_at': '2015-09-30T10:23:53Z', 'closed_at': '2015-09-30T10:39:53Z', 'labels': []}
+{'issuenumber': 530, 'title': ' Gradient has outdated direction syntax. New syntax is like "to left" instead of "right".', 'state': 'closed', 'created_at': '2015-09-28T15:28:57Z', 'closed_at': '2015-10-10T14:49:05Z', 'labels': []}
+{'issuenumber': 529, 'title': 'no such file or directory?', 'state': 'closed', 'created_at': '2015-09-28T12:12:10Z', 'closed_at': '2015-09-28T12:22:08Z', 'labels': []}
+{'issuenumber': 527, 'title': 'Gradients are duplicated if declarations are on a new line', 'state': 'closed', 'created_at': '2015-09-27T19:37:17Z', 'closed_at': '2015-10-10T23:58:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 526, 'title': 'Add option skipUnknownBrowsers', 'state': 'closed', 'created_at': '2015-09-26T16:15:24Z', 'closed_at': '2015-10-10T12:42:46Z', 'labels': []}
+{'issuenumber': 525, 'title': "Syntax error: unexpected reserved word 'import'.", 'state': 'closed', 'created_at': '2015-09-25T12:11:54Z', 'closed_at': '2015-09-25T12:13:15Z', 'labels': []}
+{'issuenumber': 524, 'title': 'Are you guys interested in doing a de-prefixing function?', 'state': 'closed', 'created_at': '2015-09-24T19:02:48Z', 'closed_at': '2015-09-24T19:08:37Z', 'labels': {'name': 'question'}}
+{'issuenumber': 523, 'title': "Browsers 'last 2 versions' option not generating prefixes", 'state': 'closed', 'created_at': '2015-09-23T15:55:03Z', 'closed_at': '2015-09-23T15:56:17Z', 'labels': []}
+{'issuenumber': 521, 'title': 'Strange -webkit-min-device-pixel-ratio value when using min-resolution', 'state': 'closed', 'created_at': '2015-09-18T20:08:00Z', 'closed_at': '2015-09-18T20:14:44Z', 'labels': []}
+{'issuenumber': 520, 'title': 'Promise is not defined', 'state': 'closed', 'created_at': '2015-09-17T15:12:57Z', 'closed_at': '2015-09-17T15:16:42Z', 'labels': []}
+{'issuenumber': 519, 'title': 'nodejs 4.0.0 support ', 'state': 'closed', 'created_at': '2015-09-17T11:06:14Z', 'closed_at': '2015-09-17T11:08:45Z', 'labels': []}
+{'issuenumber': 518, 'title': 'Different packages on hacks and fixes', 'state': 'closed', 'created_at': '2015-09-16T11:05:11Z', 'closed_at': '2015-09-16T11:11:33Z', 'labels': []}
+{'issuenumber': 517, 'title': 'bug with postcss.processors', 'state': 'closed', 'created_at': '2015-09-16T10:45:25Z', 'closed_at': '2015-09-16T10:47:52Z', 'labels': []}
+{'issuenumber': 516, 'title': 'Examples for using autoprefixer with postcss cli and source map', 'state': 'closed', 'created_at': '2015-09-15T23:46:56Z', 'closed_at': '2015-09-16T00:00:13Z', 'labels': []}
+{'issuenumber': 514, 'title': 'Re-add cli to autoprefixer', 'state': 'closed', 'created_at': '2015-09-11T13:58:46Z', 'closed_at': '2015-09-11T14:02:28Z', 'labels': []}
+{'issuenumber': 511, 'title': 'Support the prefix under complex conditions', 'state': 'closed', 'created_at': '2015-09-08T15:43:42Z', 'closed_at': '2015-11-01T14:55:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 508, 'title': 'IE transform in keyframes', 'state': 'closed', 'created_at': '2015-09-03T21:13:45Z', 'closed_at': '2015-09-03T21:44:16Z', 'labels': []}
+{'issuenumber': 507, 'title': 'Doubling of attributes', 'state': 'closed', 'created_at': '2015-09-03T07:14:38Z', 'closed_at': '2015-09-03T12:05:58Z', 'labels': []}
+{'issuenumber': 506, 'title': 'Add support filter()', 'state': 'closed', 'created_at': '2015-09-02T15:26:40Z', 'closed_at': '2015-09-03T12:08:00Z', 'labels': {'name': 'support'}}
+{'issuenumber': 505, 'title': 'Add support image cross-fade()', 'state': 'closed', 'created_at': '2015-08-31T23:41:34Z', 'closed_at': '2015-09-02T21:30:57Z', 'labels': {'name': 'support'}}
+{'issuenumber': 504, 'title': "Using autoprefixer via CLI. throw 'Please specify --dir [output directory] for your files';", 'state': 'closed', 'created_at': '2015-08-30T15:06:09Z', 'closed_at': '2015-08-30T16:09:49Z', 'labels': []}
+{'issuenumber': 503, 'title': 'Coda 2 Support?', 'state': 'closed', 'created_at': '2015-08-30T13:39:56Z', 'closed_at': '2015-08-30T16:08:17Z', 'labels': []}
+{'issuenumber': 502, 'title': 'Add support mask-border', 'state': 'closed', 'created_at': '2015-08-26T08:51:13Z', 'closed_at': '2015-08-31T18:38:28Z', 'labels': {'name': 'support'}}
+{'issuenumber': 501, 'title': 'Prefix for transform-origin', 'state': 'closed', 'created_at': '2015-08-23T14:35:48Z', 'closed_at': '2015-08-23T15:00:34Z', 'labels': []}
+{'issuenumber': 500, 'title': 'Some is deprecated', 'state': 'closed', 'created_at': '2015-08-23T12:42:59Z', 'closed_at': '2015-08-28T19:48:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 498, 'title': 'Is this intended behavior? (css keyframes & transform)', 'state': 'closed', 'created_at': '2015-08-17T14:30:32Z', 'closed_at': '2015-08-17T14:31:15Z', 'labels': []}
+{'issuenumber': 497, 'title': 'background image with gradient', 'state': 'closed', 'created_at': '2015-08-17T12:12:50Z', 'closed_at': '2015-08-17T12:28:09Z', 'labels': []}
+{'issuenumber': 496, 'title': 'text-size-adjust support for Firefox for Android', 'state': 'closed', 'created_at': '2015-08-12T10:28:26Z', 'closed_at': '2015-08-30T16:18:40Z', 'labels': []}
+{'issuenumber': 495, 'title': 'Add support for -webkit-backdrop-filter', 'state': 'closed', 'created_at': '2015-08-11T03:18:50Z', 'closed_at': '2015-08-28T19:49:14Z', 'labels': {'name': 'support'}}
+{'issuenumber': 494, 'title': 'Un-deprecate AP CLI', 'state': 'closed', 'created_at': '2015-08-07T02:31:13Z', 'closed_at': '2015-08-31T18:20:27Z', 'labels': {'name': 'question'}}
+{'issuenumber': 493, 'title': '另外建议 Autoprefixer 集成到Compass的config.rb', 'state': 'closed', 'created_at': '2015-08-05T02:41:35Z', 'closed_at': '2015-08-05T07:26:52Z', 'labels': []}
+{'issuenumber': 492, 'title': 'Add Specific Error Message For Invalid Browser String', 'state': 'closed', 'created_at': '2015-08-04T18:04:27Z', 'closed_at': '2015-08-31T18:20:57Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 491, 'title': 'Add support for -webkit-column-break-*', 'state': 'closed', 'created_at': '2015-08-03T20:05:28Z', 'closed_at': '2015-09-01T20:10:04Z', 'labels': {'name': 'support'}}
+{'issuenumber': 490, 'title': 'Is the grunt example wrong?', 'state': 'closed', 'created_at': '2015-08-03T07:39:12Z', 'closed_at': '2015-08-19T09:34:34Z', 'labels': {'name': 'question'}}
+{'issuenumber': 489, 'title': 'Add support CSS Scroll snap points', 'state': 'closed', 'created_at': '2015-07-31T04:21:27Z', 'closed_at': '2015-08-30T16:27:39Z', 'labels': {'name': 'support'}}
+{'issuenumber': 488, 'title': 'Add support CSS Regions flow-into,flow-from,region-fragment properties', 'state': 'closed', 'created_at': '2015-07-31T04:14:57Z', 'closed_at': '2015-08-30T20:24:58Z', 'labels': {'name': 'support'}}
+{'issuenumber': 487, 'title': 'Add support ::backdrop', 'state': 'closed', 'created_at': '2015-07-30T02:13:23Z', 'closed_at': '2015-08-30T20:20:00Z', 'labels': {'name': 'support'}}
+{'issuenumber': 486, 'title': 'Document the format of warning objects', 'state': 'closed', 'created_at': '2015-07-29T12:50:53Z', 'closed_at': '2015-08-30T20:05:31Z', 'labels': {'name': 'question'}}
+{'issuenumber': 485, 'title': 'Multiple @viewport did not come into effect', 'state': 'closed', 'created_at': '2015-07-29T09:10:41Z', 'closed_at': '2015-09-01T19:08:38Z', 'labels': []}
+{'issuenumber': 483, 'title': 'Some example code is wrong in the README', 'state': 'closed', 'created_at': '2015-07-27T09:34:01Z', 'closed_at': '2015-07-27T12:01:06Z', 'labels': []}
+{'issuenumber': 482, 'title': 'Inconsistent Indentation for flex-shrink', 'state': 'closed', 'created_at': '2015-07-24T17:19:35Z', 'closed_at': '2015-07-24T22:49:49Z', 'labels': []}
+{'issuenumber': 481, 'title': 'Safari incorrect behaviour', 'state': 'closed', 'created_at': '2015-07-24T15:47:54Z', 'closed_at': '2015-07-25T20:50:49Z', 'labels': []}
+{'issuenumber': 480, 'title': 'Missing cli options in new postcss cli', 'state': 'closed', 'created_at': '2015-07-21T11:13:07Z', 'closed_at': '2015-08-31T18:39:09Z', 'labels': {'name': 'question'}}
+{'issuenumber': 479, 'title': 'Extra duplication of properties for transition-property', 'state': 'closed', 'created_at': '2015-07-20T05:39:58Z', 'closed_at': '2015-07-20T08:36:30Z', 'labels': []}
+{'issuenumber': 477, 'title': "Doesn't appear to be doing anything?", 'state': 'closed', 'created_at': '2015-07-16T20:20:07Z', 'closed_at': '2015-07-16T20:23:50Z', 'labels': []}
+{'issuenumber': 476, 'title': 'box-sizing not being prefixed', 'state': 'closed', 'created_at': '2015-07-16T08:01:32Z', 'closed_at': '2015-07-16T08:10:23Z', 'labels': []}
+{'issuenumber': 475, 'title': 'fis支持autoprefixer吗？', 'state': 'closed', 'created_at': '2015-07-14T08:49:51Z', 'closed_at': '2015-07-15T06:19:03Z', 'labels': {'name': 'question'}}
+{'issuenumber': 474, 'title': '-webkit-box over -webkit-flex', 'state': 'closed', 'created_at': '2015-07-13T08:41:09Z', 'closed_at': '2015-07-13T09:32:40Z', 'labels': []}
+{'issuenumber': 473, 'title': 'Disable warnings', 'state': 'closed', 'created_at': '2015-07-07T23:46:23Z', 'closed_at': '2015-08-30T20:11:11Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 471, 'title': 'Autoprefixer params with JS API', 'state': 'closed', 'created_at': '2015-07-01T11:11:03Z', 'closed_at': '2015-07-02T07:34:21Z', 'labels': []}
+{'issuenumber': 470, 'title': 'WebStorm / IntelliJ plugin', 'state': 'closed', 'created_at': '2015-07-01T07:49:27Z', 'closed_at': '2015-07-01T07:50:25Z', 'labels': []}
+{'issuenumber': 468, 'title': 'Fatal error: unknown word', 'state': 'closed', 'created_at': '2015-06-21T18:07:45Z', 'closed_at': '2015-06-22T02:17:33Z', 'labels': {'name': 'question'}}
+{'issuenumber': 467, 'title': 'Add support for image-set()', 'state': 'closed', 'created_at': '2015-06-17T07:59:08Z', 'closed_at': '2015-08-31T18:49:31Z', 'labels': {'name': 'support'}}
+{'issuenumber': 465, 'title': "environnement n'est pas compatible avec Autoprefixer", 'state': 'closed', 'created_at': '2015-06-14T17:09:55Z', 'closed_at': '2015-06-14T20:42:23Z', 'labels': []}
+{'issuenumber': 464, 'title': "Radial-gradient no -ms prefix. Doesn't work in IE", 'state': 'closed', 'created_at': '2015-06-14T01:01:53Z', 'closed_at': '2015-06-22T02:14:56Z', 'labels': []}
+{'issuenumber': 463, 'title': 'flexbugs#8-flex-basis-doesnt-support-calc', 'state': 'closed', 'created_at': '2015-06-09T23:09:33Z', 'closed_at': '2015-06-09T23:10:48Z', 'labels': []}
+{'issuenumber': 460, 'title': 'writing-mode css style.', 'state': 'closed', 'created_at': '2015-06-04T19:31:13Z', 'closed_at': '2015-09-02T21:00:55Z', 'labels': {'name': 'support'}}
+{'issuenumber': 457, 'title': 'Has `autoprefixer().postcss` been deprecated?', 'state': 'closed', 'created_at': '2015-05-27T23:32:36Z', 'closed_at': '2015-05-28T17:59:27Z', 'labels': []}
+{'issuenumber': 455, 'title': 'Handling CSS with non-standard syntax', 'state': 'closed', 'created_at': '2015-05-27T20:09:42Z', 'closed_at': '2015-05-27T20:14:41Z', 'labels': []}
+{'issuenumber': 454, 'title': 'Throws when using inside cssnext', 'state': 'closed', 'created_at': '2015-05-27T16:38:39Z', 'closed_at': '2015-05-27T16:40:14Z', 'labels': []}
+{'issuenumber': 453, 'title': 'CLI autoprefixer breaks source maps from node-sass', 'state': 'closed', 'created_at': '2015-05-24T22:10:41Z', 'closed_at': '2015-05-29T18:10:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 452, 'title': 'Imported less files are not being prefixed', 'state': 'closed', 'created_at': '2015-05-20T10:15:41Z', 'closed_at': '2015-05-20T10:32:37Z', 'labels': []}
+{'issuenumber': 450, 'title': 'Fast mode', 'state': 'closed', 'created_at': '2015-05-15T10:48:52Z', 'closed_at': '2015-08-30T16:11:00Z', 'labels': []}
+{'issuenumber': 449, 'title': 'Support image-rendering', 'state': 'closed', 'created_at': '2015-05-13T19:25:09Z', 'closed_at': '2015-05-16T21:25:05Z', 'labels': []}
+{'issuenumber': 448, 'title': 'Border inherit', 'state': 'closed', 'created_at': '2015-05-12T18:49:54Z', 'closed_at': '2015-05-16T17:19:25Z', 'labels': []}
+{'issuenumber': 447, 'title': 'min-width future syntax', 'state': 'closed', 'created_at': '2015-05-09T16:17:45Z', 'closed_at': '2015-05-09T16:20:16Z', 'labels': []}
+{'issuenumber': 446, 'title': 'Removal only option.', 'state': 'closed', 'created_at': '2015-05-08T20:21:52Z', 'closed_at': '2015-05-16T17:28:00Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 445, 'title': '-webkit-box comes after -webkit-flex', 'state': 'closed', 'created_at': '2015-04-30T17:42:05Z', 'closed_at': '2015-05-18T21:43:11Z', 'labels': {'name': 'question'}}
+{'issuenumber': 444, 'title': 'shorter results in animation', 'state': 'closed', 'created_at': '2015-04-30T15:55:46Z', 'closed_at': '2015-04-30T15:57:12Z', 'labels': []}
+{'issuenumber': 443, 'title': 'Remove all outdated plugins for README', 'state': 'closed', 'created_at': '2015-04-28T16:26:34Z', 'closed_at': '2015-05-17T11:33:57Z', 'labels': {'name': 'question'}}
+{'issuenumber': 442, 'title': 'Missing final semicolon (addressed in postcss Issue 136, but not here).', 'state': 'closed', 'created_at': '2015-04-27T17:48:13Z', 'closed_at': '2015-05-18T12:14:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 441, 'title': 'WebKit Autoprefix for text-decoration-color', 'state': 'closed', 'created_at': '2015-04-24T15:13:07Z', 'closed_at': '2015-05-18T10:51:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 440, 'title': 'WebKit not support -webkit-image-rendering', 'state': 'closed', 'created_at': '2015-04-17T15:28:18Z', 'closed_at': '2015-04-17T20:42:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 439, 'title': 'Keyframes x webkit', 'state': 'closed', 'created_at': '2015-04-13T10:08:04Z', 'closed_at': '2015-04-13T10:20:32Z', 'labels': []}
+{'issuenumber': 436, 'title': 'Autoprefixer generates selector duplicates', 'state': 'closed', 'created_at': '2015-04-12T17:23:44Z', 'closed_at': '2015-04-12T17:25:22Z', 'labels': []}
+{'issuenumber': 434, 'title': "What's the difference between PostCSS and Rework?", 'state': 'closed', 'created_at': '2015-04-10T21:35:50Z', 'closed_at': '2015-04-11T07:06:31Z', 'labels': []}
+{'issuenumber': 433, 'title': 'How can i autoprefix inline styles', 'state': 'closed', 'created_at': '2015-04-07T15:25:52Z', 'closed_at': '2015-05-05T22:43:26Z', 'labels': []}
+{'issuenumber': 432, 'title': 'browser query "android >= 4.3" doesn\'t produce old flexbox syntax', 'state': 'closed', 'created_at': '2015-04-01T18:21:32Z', 'closed_at': '2015-04-02T14:13:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 431, 'title': '-webkit- prefix is not being added for transform properties on Safari', 'state': 'closed', 'created_at': '2015-03-27T19:21:13Z', 'closed_at': '2015-05-05T22:45:13Z', 'labels': []}
+{'issuenumber': 430, 'title': 'Character encoding at-rule in css from sass breaks sourcemap', 'state': 'closed', 'created_at': '2015-03-27T15:20:01Z', 'closed_at': '2015-05-05T22:39:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 429, 'title': 'multiple backgrounds webkit error', 'state': 'closed', 'created_at': '2015-03-26T20:38:28Z', 'closed_at': '2015-04-17T20:49:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 428, 'title': 'mask/mask-image not support the -webkit-linear-gradient()', 'state': 'closed', 'created_at': '2015-03-26T08:39:39Z', 'closed_at': '2015-03-26T13:21:25Z', 'labels': []}
+{'issuenumber': 427, 'title': 'IE 10 issues with rem in font property', 'state': 'closed', 'created_at': '2015-03-17T20:02:42Z', 'closed_at': '2015-03-17T20:58:54Z', 'labels': []}
+{'issuenumber': 426, 'title': 'why is there a comma after the value for webkit-box-flex?', 'state': 'closed', 'created_at': '2015-03-15T10:35:10Z', 'closed_at': '2015-03-15T10:55:36Z', 'labels': []}
+{'issuenumber': 425, 'title': 'How to use CSS logical directional properties', 'state': 'closed', 'created_at': '2015-03-09T17:27:38Z', 'closed_at': '2015-03-09T17:44:00Z', 'labels': []}
+{'issuenumber': 424, 'title': '_filter causes syntax error in output.', 'state': 'closed', 'created_at': '2015-03-07T05:31:24Z', 'closed_at': '2015-03-07T12:52:27Z', 'labels': []}
+{'issuenumber': 423, 'title': 'multiple backgrounds', 'state': 'closed', 'created_at': '2015-03-05T19:05:12Z', 'closed_at': '2015-05-18T10:55:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 422, 'title': 'Warnings', 'state': 'closed', 'created_at': '2015-03-04T14:14:44Z', 'closed_at': '2015-05-17T11:05:17Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 420, 'title': 'BROWSERSLIST environment variable not honored', 'state': 'closed', 'created_at': '2015-03-03T15:44:34Z', 'closed_at': '2015-03-03T17:51:28Z', 'labels': []}
+{'issuenumber': 419, 'title': '[npm install -g] CLI tool should use stdout', 'state': 'closed', 'created_at': '2015-02-27T11:08:10Z', 'closed_at': '2015-08-30T16:07:15Z', 'labels': []}
+{'issuenumber': 417, 'title': '-moz- prefix being removed from ::selection', 'state': 'closed', 'created_at': '2015-02-26T13:49:44Z', 'closed_at': '2015-02-26T14:27:40Z', 'labels': []}
+{'issuenumber': 415, 'title': 'v5.1.0 randomly skipping declarations', 'state': 'closed', 'created_at': '2015-02-22T09:57:45Z', 'closed_at': '2015-02-22T10:24:11Z', 'labels': []}
+{'issuenumber': 413, 'title': 'box-sizing prefixing', 'state': 'closed', 'created_at': '2015-02-19T08:49:14Z', 'closed_at': '2015-02-19T08:53:07Z', 'labels': []}
+{'issuenumber': 410, 'title': "SASS solid strings causing 'unknown word' error", 'state': 'closed', 'created_at': '2015-02-10T12:54:25Z', 'closed_at': '2015-02-10T13:21:53Z', 'labels': []}
+{'issuenumber': 409, 'title': 'translate3d into translate if the third argument equals 0', 'state': 'closed', 'created_at': '2015-02-10T10:45:52Z', 'closed_at': '2015-02-10T13:24:54Z', 'labels': []}
+{'issuenumber': 408, 'title': 'Deactivate one css property from prefixing.', 'state': 'closed', 'created_at': '2015-02-10T09:56:11Z', 'closed_at': '2015-02-11T04:43:01Z', 'labels': []}
+{'issuenumber': 407, 'title': 'Add support for -webkit-clip-path in transition', 'state': 'closed', 'created_at': '2015-02-07T22:32:51Z', 'closed_at': '2015-02-08T02:32:58Z', 'labels': {'name': 'support'}}
+{'issuenumber': 406, 'title': 'Increase Autoprefixer perfomance', 'state': 'closed', 'created_at': '2015-02-07T02:11:24Z', 'closed_at': '2015-05-18T20:47:57Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 405, 'title': '-ms-text-size-adjust is not being removed when IE excluded', 'state': 'closed', 'created_at': '2015-02-03T13:55:47Z', 'closed_at': '2015-02-03T14:02:38Z', 'labels': []}
+{'issuenumber': 404, 'title': '-ms-transform is not being removed web config exclude IE support', 'state': 'closed', 'created_at': '2015-02-02T22:37:20Z', 'closed_at': '2015-02-03T02:19:43Z', 'labels': []}
+{'issuenumber': 403, 'title': 'Flex property with complex calc operation results in invalid CSS', 'state': 'closed', 'created_at': '2015-01-31T19:10:11Z', 'closed_at': '2015-02-01T02:57:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 402, 'title': 'autoprefixer and autoprefixer-cli', 'state': 'closed', 'created_at': '2015-01-30T02:48:25Z', 'closed_at': '2015-09-03T22:57:37Z', 'labels': {'name': 'refactoring'}}
+{'issuenumber': 401, 'title': 'Do not remove at-rules code styles', 'state': 'closed', 'created_at': '2015-01-27T18:32:10Z', 'closed_at': '2015-01-27T18:32:38Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 400, 'title': 'code style changed with upgrade to 5.x', 'state': 'closed', 'created_at': '2015-01-27T18:32:08Z', 'closed_at': '2015-01-27T20:24:47Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 399, 'title': 'Asterisk being moved into @keyframes block.', 'state': 'closed', 'created_at': '2015-01-23T22:37:58Z', 'closed_at': '2015-01-24T17:16:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 398, 'title': "Removes display:-webkit-flex but doesn't add display:flex", 'state': 'closed', 'created_at': '2015-01-23T14:36:25Z', 'closed_at': '2015-01-23T15:33:38Z', 'labels': []}
+{'issuenumber': 397, 'title': '-ms- prefixed flex props removed', 'state': 'closed', 'created_at': '2015-01-22T18:24:48Z', 'closed_at': '2015-01-22T19:30:35Z', 'labels': []}
+{'issuenumber': 396, 'title': 'Do not remove -webkit-background-clip: text', 'state': 'closed', 'created_at': '2015-01-22T14:45:41Z', 'closed_at': '2015-01-22T15:42:43Z', 'labels': {'name': 'support'}}
+{'issuenumber': 395, 'title': 'Add appearance support', 'state': 'closed', 'created_at': '2015-01-22T11:54:52Z', 'closed_at': '2015-01-22T15:43:48Z', 'labels': {'name': 'support'}}
+{'issuenumber': 394, 'title': 'NameError, processor.rb while working with compass and bootstrap/sass', 'state': 'closed', 'created_at': '2015-01-21T10:45:44Z', 'closed_at': '2015-01-21T11:50:31Z', 'labels': []}
+{'issuenumber': 393, 'title': 'CLI Documentation Errors', 'state': 'closed', 'created_at': '2015-01-21T04:05:13Z', 'closed_at': '2015-01-21T11:58:42Z', 'labels': []}
+{'issuenumber': 392, 'title': 'Autoprefixer breaks sourcemaps on compass', 'state': 'closed', 'created_at': '2015-01-21T00:23:40Z', 'closed_at': '2015-01-21T01:24:59Z', 'labels': {'name': 'question'}}
+{'issuenumber': 391, 'title': 'Command not appearing in Atom command menu', 'state': 'closed', 'created_at': '2015-01-19T19:44:23Z', 'closed_at': '2015-01-19T20:02:14Z', 'labels': []}
+{'issuenumber': 390, 'title': 'Extra lines with prefixes', 'state': 'closed', 'created_at': '2015-01-19T06:47:19Z', 'closed_at': '2015-01-19T09:32:23Z', 'labels': {'name': 'question'}}
+{'issuenumber': 389, 'title': 'Return autoprefixer.default', 'state': 'closed', 'created_at': '2015-01-16T19:05:07Z', 'closed_at': '2015-01-22T14:57:49Z', 'labels': []}
+{'issuenumber': 388, 'title': 'Jekyll Installation Instructions', 'state': 'closed', 'created_at': '2015-01-16T15:54:04Z', 'closed_at': '2015-01-16T17:59:17Z', 'labels': []}
+{'issuenumber': 387, 'title': 'Support text-overflow', 'state': 'closed', 'created_at': '2015-01-15T03:09:48Z', 'closed_at': '2015-01-15T11:17:09Z', 'labels': {'name': 'support'}}
+{'issuenumber': 385, 'title': 'Do not remove -webkit-box value if it is hack', 'state': 'closed', 'created_at': '2015-01-14T02:01:38Z', 'closed_at': '2015-01-25T23:34:39Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 384, 'title': 'Inline source maps are not working', 'state': 'closed', 'created_at': '2015-01-13T22:16:41Z', 'closed_at': '2015-01-14T00:09:49Z', 'labels': []}
+{'issuenumber': 383, 'title': 'Autoprefixing and stacking browser-specific pseudo-selectors', 'state': 'closed', 'created_at': '2015-01-13T17:57:56Z', 'closed_at': '2015-01-13T19:22:52Z', 'labels': []}
+{'issuenumber': 382, 'title': "autoprefixer not working for 'transition' inside @media in Bootstrap", 'state': 'closed', 'created_at': '2015-01-12T09:52:36Z', 'closed_at': '2015-01-14T12:02:47Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 381, 'title': 'webkit transition prefix dropped', 'state': 'closed', 'created_at': '2015-01-09T09:19:10Z', 'closed_at': '2015-01-09T11:55:21Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 380, 'title': 'Support @viewport', 'state': 'closed', 'created_at': '2015-01-07T07:54:10Z', 'closed_at': '2015-01-23T14:24:59Z', 'labels': {'name': 'support'}}
+{'issuenumber': 379, 'title': '-webkit-gradient for list-style and list-style-image', 'state': 'closed', 'created_at': '2015-01-06T11:13:01Z', 'closed_at': '2015-01-13T21:05:44Z', 'labels': {'name': 'support'}}
+{'issuenumber': 378, 'title': 'flex-basis generate  wrong property for ie10', 'state': 'closed', 'created_at': '2015-01-06T04:15:38Z', 'closed_at': '2015-01-12T02:58:21Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 377, 'title': "Firefox don't support intrinsic & extrinsic sizing", 'state': 'closed', 'created_at': '2015-01-05T16:04:17Z', 'closed_at': '2015-01-13T14:06:28Z', 'labels': []}
+{'issuenumber': 376, 'title': 'Support CSS Shapes Level 1', 'state': 'closed', 'created_at': '2015-01-05T15:44:22Z', 'closed_at': '2015-01-13T20:58:22Z', 'labels': {'name': 'support'}}
+{'issuenumber': 375, 'title': 'Support text-emphasis', 'state': 'closed', 'created_at': '2015-01-05T11:42:11Z', 'closed_at': '2015-01-22T12:29:13Z', 'labels': {'name': 'support'}}
+{'issuenumber': 374, 'title': 'Add all support the properties list document', 'state': 'closed', 'created_at': '2015-01-05T03:28:21Z', 'closed_at': '2015-01-05T12:15:24Z', 'labels': {'name': 'question'}}
+{'issuenumber': 373, 'title': 'Support object-fit/object-position', 'state': 'closed', 'created_at': '2015-01-05T02:59:38Z', 'closed_at': '2015-01-13T20:55:32Z', 'labels': {'name': 'support'}}
+{'issuenumber': 372, 'title': 'Support text-align-last', 'state': 'closed', 'created_at': '2015-01-05T02:51:53Z', 'closed_at': '2015-01-25T21:05:51Z', 'labels': {'name': 'support'}}
+{'issuenumber': 371, 'title': 'Upgrade to postcss 4.0', 'state': 'closed', 'created_at': '2015-01-04T05:17:30Z', 'closed_at': '2015-01-12T02:57:17Z', 'labels': []}
+{'issuenumber': 370, 'title': 'Producing sourcemaps with Compass and Autoprefixer returns runtime error', 'state': 'closed', 'created_at': '2015-01-03T23:28:06Z', 'closed_at': '2015-01-04T00:49:54Z', 'labels': []}
+{'issuenumber': 368, 'title': 'Autoprefixer Breaks CSS Source Maps', 'state': 'closed', 'created_at': '2014-12-30T00:08:43Z', 'closed_at': '2014-12-30T01:13:53Z', 'labels': []}
+{'issuenumber': 367, 'title': 'Support image-rendering', 'state': 'closed', 'created_at': '2014-12-29T16:15:46Z', 'closed_at': '2015-01-25T21:23:44Z', 'labels': {'name': 'support'}}
+{'issuenumber': 366, 'title': 'Filter transition is not working in Chrome/Opera', 'state': 'closed', 'created_at': '2014-12-10T02:21:48Z', 'closed_at': '2015-10-11T19:50:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 365, 'title': 'Autoprefix double colon pseudo-elements to single colon for unsupported browsers', 'state': 'closed', 'created_at': '2014-12-09T23:08:56Z', 'closed_at': '2014-12-09T23:11:41Z', 'labels': []}
+{'issuenumber': 362, 'title': 'Parser fails on valid Microsoft filter declaration containing multiple progid settings', 'state': 'closed', 'created_at': '2014-12-08T11:35:32Z', 'closed_at': '2014-12-09T09:01:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 361, 'title': 'Error thrown with "undefined" as the location of broken CSS', 'state': 'closed', 'created_at': '2014-12-08T11:18:21Z', 'closed_at': '2014-12-09T09:04:49Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 360, 'title': 'Unprefixer PostCSS plugin', 'state': 'closed', 'created_at': '2014-12-07T09:06:24Z', 'closed_at': '2015-05-05T22:46:36Z', 'labels': {'name': 'integration'}}
+{'issuenumber': 359, 'title': "Doesn't appear to remove -o-border-radius", 'state': 'closed', 'created_at': '2014-12-06T00:56:44Z', 'closed_at': '2014-12-06T09:08:49Z', 'labels': []}
+{'issuenumber': 358, 'title': 'Internal error on some incorrect CSS', 'state': 'closed', 'created_at': '2014-12-04T11:39:44Z', 'closed_at': '2014-12-05T18:48:58Z', 'labels': []}
+{'issuenumber': 357, 'title': 'linear-gradient issue', 'state': 'closed', 'created_at': '2014-12-02T13:05:11Z', 'closed_at': '2014-12-02T14:29:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 356, 'title': ' -moz prefixes missing on @keyframes w/ gulp-autoprefixer', 'state': 'closed', 'created_at': '2014-12-01T13:58:09Z', 'closed_at': '2014-12-01T15:45:04Z', 'labels': []}
+{'issuenumber': 355, 'title': 'How can I split Android 2 и Android 4 stock browser in config?', 'state': 'closed', 'created_at': '2014-12-01T10:39:45Z', 'closed_at': '2014-12-01T11:17:26Z', 'labels': {'name': 'question'}}
+{'issuenumber': 354, 'title': 'Incorrect combining of :fullscreen rule with other rules', 'state': 'closed', 'created_at': '2014-11-30T21:14:11Z', 'closed_at': '2014-11-30T21:57:50Z', 'labels': []}
+{'issuenumber': 352, 'title': 'Autoprefixer breaks liner-gradient', 'state': 'closed', 'created_at': '2014-11-27T09:23:17Z', 'closed_at': '2014-11-27T09:27:08Z', 'labels': []}
+{'issuenumber': 351, 'title': 'Breaking at scale', 'state': 'closed', 'created_at': '2014-11-20T19:36:49Z', 'closed_at': '2014-11-20T22:29:15Z', 'labels': []}
+{'issuenumber': 350, 'title': '@ rules with brackets', 'state': 'closed', 'created_at': '2014-11-20T17:04:15Z', 'closed_at': '2014-11-21T13:27:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 349, 'title': 'Parser error in Autoprefixer v4.0.0', 'state': 'closed', 'created_at': '2014-11-17T09:02:58Z', 'closed_at': '2014-11-17T14:02:55Z', 'labels': []}
+{'issuenumber': 348, 'title': 'Autoprefixer is removing my trailing semicolons (a remaining rework issue?)', 'state': 'closed', 'created_at': '2014-11-14T19:30:46Z', 'closed_at': '2014-12-07T21:08:37Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 347, 'title': 'Mystery error in 3.2 master preventing compiles', 'state': 'closed', 'created_at': '2014-11-14T02:44:07Z', 'closed_at': '2014-11-14T06:51:15Z', 'labels': []}
+{'issuenumber': 346, 'title': 'Update binary options', 'state': 'closed', 'created_at': '2014-11-10T17:18:16Z', 'closed_at': '2014-11-13T00:05:31Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 345, 'title': 'Pre sass compilation autoprefixing', 'state': 'closed', 'created_at': '2014-11-09T23:07:16Z', 'closed_at': '2014-11-13T21:36:35Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 344, 'title': 'Add support for box-decoration-break', 'state': 'closed', 'created_at': '2014-11-08T21:58:22Z', 'closed_at': '2014-11-12T19:27:50Z', 'labels': {'name': 'support'}}
+{'issuenumber': 343, 'title': 'Miss -webkit-gradient if stop is in pixels', 'state': 'closed', 'created_at': '2014-11-06T19:57:18Z', 'closed_at': '2014-11-09T12:24:30Z', 'labels': {'name': 'support'}}
+{'issuenumber': 342, 'title': 'Safari 8.0 still requires -webkit prefix for background-clip property.', 'state': 'closed', 'created_at': '2014-11-01T14:45:53Z', 'closed_at': '2014-11-01T17:15:55Z', 'labels': []}
+{'issuenumber': 341, 'title': 'Column count is not prefixed', 'state': 'closed', 'created_at': '2014-10-30T17:29:08Z', 'closed_at': '2014-10-31T10:25:37Z', 'labels': []}
+{'issuenumber': 340, 'title': 'Add -epub- prefix when listed only...', 'state': 'closed', 'created_at': '2014-10-30T16:37:33Z', 'closed_at': '2014-10-31T10:23:11Z', 'labels': []}
+{'issuenumber': 339, 'title': '-webkit flexbox properties out of order.', 'state': 'closed', 'created_at': '2014-10-29T19:50:11Z', 'closed_at': '2014-11-03T10:04:53Z', 'labels': {'name': 'question'}}
+{'issuenumber': 337, 'title': 'add docs about what is not autoprefixed', 'state': 'closed', 'created_at': '2014-10-23T13:46:54Z', 'closed_at': '2014-10-25T10:29:44Z', 'labels': {'name': 'question'}}
+{'issuenumber': 336, 'title': 'Support for border-image gradients', 'state': 'closed', 'created_at': '2014-10-20T16:16:23Z', 'closed_at': '2014-11-09T13:13:57Z', 'labels': {'name': 'question'}}
+{'issuenumber': 335, 'title': 'Invalid Argument', 'state': 'closed', 'created_at': '2014-10-20T16:07:59Z', 'closed_at': '2014-10-20T16:27:38Z', 'labels': []}
+{'issuenumber': 334, 'title': 'Ruby error when using Autoprefixer in Compass post-compile hook', 'state': 'closed', 'created_at': '2014-10-16T04:52:48Z', 'closed_at': '2014-10-20T11:11:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 333, 'title': "/* autoprefixer: off */ doesn't work", 'state': 'closed', 'created_at': '2014-10-12T19:36:55Z', 'closed_at': '2014-10-20T11:17:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 332, 'title': 'This module should only add prefixes, not remove code', 'state': 'closed', 'created_at': '2014-10-11T22:06:03Z', 'closed_at': '2014-11-09T12:37:49Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 331, 'title': 'autoprefix property in CSS @supports parameter', 'state': 'closed', 'created_at': '2014-10-08T04:42:50Z', 'closed_at': '2014-10-08T07:32:12Z', 'labels': []}
+{'issuenumber': 329, 'title': "Disabling via comment doesn't work for multiple backgrounds / linear-gradients", 'state': 'closed', 'created_at': '2014-10-07T10:31:33Z', 'closed_at': '2014-10-07T14:23:48Z', 'labels': []}
+{'issuenumber': 328, 'title': 'Doing nothing with these multiple linear-gradient backgrounds', 'state': 'closed', 'created_at': '2014-10-07T10:05:59Z', 'closed_at': '2014-10-07T14:21:01Z', 'labels': []}
+{'issuenumber': 327, 'title': 'filter property is not supported in current Firefox versions', 'state': 'closed', 'created_at': '2014-10-07T09:54:19Z', 'closed_at': '2014-10-07T14:12:32Z', 'labels': []}
+{'issuenumber': 326, 'title': 'display: -webkit-box is not generated', 'state': 'closed', 'created_at': '2014-10-06T06:54:30Z', 'closed_at': '2014-10-06T09:45:22Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 325, 'title': 'fit-content for width and height not supported', 'state': 'closed', 'created_at': '2014-10-04T14:50:38Z', 'closed_at': '2014-10-04T15:34:11Z', 'labels': {'name': 'question'}}
+{'issuenumber': 324, 'title': 'CSS logical directional properties not supported', 'state': 'closed', 'created_at': '2014-10-04T14:50:26Z', 'closed_at': '2015-01-26T19:18:37Z', 'labels': {'name': 'support'}}
+{'issuenumber': 323, 'title': 'CSS property filter not supported', 'state': 'closed', 'created_at': '2014-10-04T14:50:04Z', 'closed_at': '2014-10-04T15:34:15Z', 'labels': {'name': 'question'}}
+{'issuenumber': 322, 'title': 'How to deal with private property?', 'state': 'closed', 'created_at': '2014-09-26T07:07:33Z', 'closed_at': '2014-09-26T10:57:03Z', 'labels': []}
+{'issuenumber': 321, 'title': 'Increasing the "all" parameter output all prefixes', 'state': 'closed', 'created_at': '2014-09-26T06:59:43Z', 'closed_at': '2014-10-06T10:44:38Z', 'labels': {'name': 'question'}}
+{'issuenumber': 320, 'title': 'Flex transitions broke in Safari', 'state': 'closed', 'created_at': '2014-09-15T20:09:45Z', 'closed_at': '2014-09-15T20:19:07Z', 'labels': []}
+{'issuenumber': 316, 'title': 'README.md: Add the Koala tool', 'state': 'closed', 'created_at': '2014-09-11T12:20:37Z', 'closed_at': '2014-09-11T13:12:06Z', 'labels': []}
+{'issuenumber': 315, 'title': 'Clarify documentation for how browser rules stack up', 'state': 'closed', 'created_at': '2014-09-11T04:17:33Z', 'closed_at': '2014-09-11T07:59:10Z', 'labels': []}
+{'issuenumber': 314, 'title': 'Non-prefixed property not added', 'state': 'closed', 'created_at': '2014-09-09T12:52:51Z', 'closed_at': '2014-09-09T13:03:10Z', 'labels': []}
+{'issuenumber': 313, 'title': 'Support adding of vendor prefixes when only one vendor prefix is found', 'state': 'closed', 'created_at': '2014-09-09T02:26:05Z', 'closed_at': '2014-09-09T12:59:36Z', 'labels': []}
+{'issuenumber': 312, 'title': 'Old flexbox being prefixed with incorrect values', 'state': 'closed', 'created_at': '2014-09-08T17:14:16Z', 'closed_at': '2014-09-09T10:56:02Z', 'labels': []}
+{'issuenumber': 311, 'title': 'Show greetings in -i if there is no prefixes to add', 'state': 'closed', 'created_at': '2014-09-06T23:59:23Z', 'closed_at': '2014-09-14T20:09:27Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 309, 'title': '.autoprefixer file accross all Autoprefixer plugins', 'state': 'closed', 'created_at': '2014-09-05T08:09:39Z', 'closed_at': '2014-12-14T21:24:12Z', 'labels': {'name': 'question'}}
+{'issuenumber': 307, 'title': 'Figuring out the API version', 'state': 'closed', 'created_at': '2014-09-01T22:53:41Z', 'closed_at': '2014-09-02T10:40:41Z', 'labels': {'name': 'question'}}
+{'issuenumber': 305, 'title': "NoMethodError: undefined method `register_postprocessor' for nil:NilClass", 'state': 'closed', 'created_at': '2014-08-29T06:55:19Z', 'closed_at': '2014-08-30T20:35:46Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 304, 'title': 'Support media query range context', 'state': 'closed', 'created_at': '2014-08-27T21:01:37Z', 'closed_at': '2014-08-27T22:12:40Z', 'labels': []}
+{'issuenumber': 303, 'title': 'Issue with gradient not closed', 'state': 'closed', 'created_at': '2014-08-26T04:04:49Z', 'closed_at': '2014-10-20T11:50:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 302, 'title': 'Compass compilation error when including Autoprefixer in config.rb', 'state': 'closed', 'created_at': '2014-08-25T13:29:43Z', 'closed_at': '2014-08-30T20:35:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 301, 'title': 'Transform :nth-child(x) to adjacent selectors (+)', 'state': 'closed', 'created_at': '2014-08-22T00:30:24Z', 'closed_at': '2014-08-22T01:23:22Z', 'labels': []}
+{'issuenumber': 300, 'title': 'Visual Cascade only formats CSS that was affected by autoprefixer', 'state': 'closed', 'created_at': '2014-08-19T21:58:33Z', 'closed_at': '2014-08-19T22:17:19Z', 'labels': []}
+{'issuenumber': 299, 'title': "transition: filter doesn't work in Chrome", 'state': 'closed', 'created_at': '2014-08-13T07:20:58Z', 'closed_at': '2014-09-14T20:21:56Z', 'labels': {'name': 'support'}}
+{'issuenumber': 298, 'title': 'autoprefixer is great However !', 'state': 'closed', 'created_at': '2014-08-11T16:32:28Z', 'closed_at': '2014-08-11T19:20:06Z', 'labels': []}
+{'issuenumber': 297, 'title': 'Update Markdown part praising Coffescript', 'state': 'closed', 'created_at': '2014-08-07T13:57:23Z', 'closed_at': '2014-08-07T18:55:17Z', 'labels': []}
+{'issuenumber': 295, 'title': 'Readme continuity', 'state': 'closed', 'created_at': '2014-08-07T06:18:44Z', 'closed_at': '2014-08-07T08:46:09Z', 'labels': []}
+{'issuenumber': 294, 'title': 'Move core code to autoprefixer-core package', 'state': 'closed', 'created_at': '2014-08-06T21:39:07Z', 'closed_at': '2014-08-19T21:33:49Z', 'labels': {'name': 'refactoring'}}
+{'issuenumber': 291, 'title': 'Error with inline source maps', 'state': 'closed', 'created_at': '2014-08-04T16:34:15Z', 'closed_at': '2014-08-07T22:56:23Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 290, 'title': 'Better API docs', 'state': 'closed', 'created_at': '2014-08-03T21:25:17Z', 'closed_at': '2014-08-19T10:31:52Z', 'labels': {'name': 'question'}}
+{'issuenumber': 289, 'title': "`cascade` option doesn't work", 'state': 'closed', 'created_at': '2014-08-02T20:29:06Z', 'closed_at': '2014-08-03T21:20:58Z', 'labels': []}
+{'issuenumber': 288, 'title': '`browsers` should be an option', 'state': 'closed', 'created_at': '2014-07-30T23:25:21Z', 'closed_at': '2014-07-30T23:41:56Z', 'labels': []}
+{'issuenumber': 287, 'title': 'Placeholder selector doesn’t work', 'state': 'closed', 'created_at': '2014-07-28T15:47:57Z', 'closed_at': '2014-07-28T15:55:49Z', 'labels': []}
+{'issuenumber': 286, 'title': 'Autoprefixer and maps', 'state': 'closed', 'created_at': '2014-07-26T03:03:49Z', 'closed_at': '2014-07-26T09:37:12Z', 'labels': []}
+{'issuenumber': 285, 'title': 'Autoprefixer throw error - please help..', 'state': 'closed', 'created_at': '2014-07-25T03:37:32Z', 'closed_at': '2014-07-25T08:42:09Z', 'labels': []}
+{'issuenumber': 284, 'title': 'Generalize browsers.js and move it to a separate module?', 'state': 'closed', 'created_at': '2014-07-23T22:13:05Z', 'closed_at': '2014-12-14T21:26:56Z', 'labels': {'name': 'refactoring'}}
+{'issuenumber': 283, 'title': 'image-mask gets duplicated', 'state': 'closed', 'created_at': '2014-07-17T04:14:18Z', 'closed_at': '2014-07-27T13:24:43Z', 'labels': []}
+{'issuenumber': 279, 'title': 'HTML5 Input range styling', 'state': 'closed', 'created_at': '2014-07-14T00:12:45Z', 'closed_at': '2014-07-14T06:25:29Z', 'labels': []}
+{'issuenumber': 278, 'title': 'weird @keyframes issue', 'state': 'closed', 'created_at': '2014-07-10T22:26:00Z', 'closed_at': '2014-07-10T22:28:32Z', 'labels': []}
+{'issuenumber': 277, 'title': 'Error: module "./lib/autoprefixer" not found', 'state': 'closed', 'created_at': '2014-07-09T15:25:38Z', 'closed_at': '2014-07-09T15:41:53Z', 'labels': []}
+{'issuenumber': 276, 'title': '@font-face support, including font conversion', 'state': 'closed', 'created_at': '2014-07-08T16:31:05Z', 'closed_at': '2014-07-08T17:22:50Z', 'labels': []}
+{'issuenumber': 275, 'title': 'Consider `cascade: false` as default', 'state': 'closed', 'created_at': '2014-07-04T17:16:24Z', 'closed_at': '2014-07-04T20:02:55Z', 'labels': []}
+{'issuenumber': 272, 'title': 'mask-* is not supported (please add)', 'state': 'closed', 'created_at': '2014-06-30T11:35:35Z', 'closed_at': '2014-06-30T12:32:23Z', 'labels': []}
+{'issuenumber': 270, 'title': "Presto-based Opera doesn't support 3D transforms", 'state': 'closed', 'created_at': '2014-06-30T09:19:44Z', 'closed_at': '2014-06-30T09:39:25Z', 'labels': []}
+{'issuenumber': 269, 'title': 'Bloating ::selection', 'state': 'closed', 'created_at': '2014-06-30T08:43:30Z', 'closed_at': '2014-06-30T09:59:18Z', 'labels': []}
+{'issuenumber': 267, 'title': 'Consistency in browser names', 'state': 'closed', 'created_at': '2014-06-25T15:01:29Z', 'closed_at': '2014-06-29T05:54:07Z', 'labels': {'name': 'question'}}
+{'issuenumber': 266, 'title': 'clip-path prefixing is not working', 'state': 'closed', 'created_at': '2014-06-22T18:42:48Z', 'closed_at': '2014-06-30T12:32:39Z', 'labels': {'name': 'support'}}
+{'issuenumber': 265, 'title': '-webkit-background-size requires both width and height to be set', 'state': 'closed', 'created_at': '2014-06-18T13:49:55Z', 'closed_at': '2014-07-14T19:42:10Z', 'labels': {'name': 'support'}}
+{'issuenumber': 264, 'title': 'text-size-adjust needs auto prefixing', 'state': 'closed', 'created_at': '2014-06-16T20:46:59Z', 'closed_at': '2014-06-19T04:52:58Z', 'labels': {'name': 'support'}}
+{'issuenumber': 263, 'title': 'Wrong indentation when removing prefixes', 'state': 'closed', 'created_at': '2014-06-11T20:57:26Z', 'closed_at': '2014-06-22T04:32:47Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 262, 'title': 'Background shorthand is not autoprefixed if color is declared first', 'state': 'closed', 'created_at': '2014-06-11T17:51:35Z', 'closed_at': '2014-06-20T05:09:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 261, 'title': 'Does version 1.2+ follow semver?', 'state': 'closed', 'created_at': '2014-06-11T15:18:06Z', 'closed_at': '2014-06-11T15:54:53Z', 'labels': []}
+{'issuenumber': 260, 'title': 'bug, remove -moz when not supposed to', 'state': 'closed', 'created_at': '2014-06-09T21:05:13Z', 'closed_at': '2014-06-10T06:44:21Z', 'labels': []}
+{'issuenumber': 259, 'title': 'Gradient not parsed correctly when source has little whitespace', 'state': 'closed', 'created_at': '2014-06-04T15:04:09Z', 'closed_at': '2014-06-05T04:05:59Z', 'labels': []}
+{'issuenumber': 258, 'title': "Browser names must be lowercase, even though docs show uppercase and say 'case-insensitive'", 'state': 'closed', 'created_at': '2014-05-28T22:26:44Z', 'closed_at': '2014-05-29T14:43:19Z', 'labels': []}
+{'issuenumber': 255, 'title': 'double  -webkit-gradient for default start (0) and stop (100%) ', 'state': 'closed', 'created_at': '2014-05-21T21:38:54Z', 'closed_at': '2014-05-21T23:01:07Z', 'labels': []}
+{'issuenumber': 254, 'title': 'Is radial-gradient supported in Firefox', 'state': 'closed', 'created_at': '2014-05-21T12:48:38Z', 'closed_at': '2014-05-21T14:31:17Z', 'labels': []}
+{'issuenumber': 253, 'title': 'Issue with CLI and wildcards', 'state': 'closed', 'created_at': '2014-05-09T14:31:09Z', 'closed_at': '2014-05-10T06:34:46Z', 'labels': []}
+{'issuenumber': 252, 'title': 'Linear gradient output not compatible with ios7', 'state': 'closed', 'created_at': '2014-05-08T02:45:59Z', 'closed_at': '2014-06-09T03:54:01Z', 'labels': []}
+{'issuenumber': 251, 'title': 'Browser Name for IE Mobile (Windows Phone)?', 'state': 'closed', 'created_at': '2014-05-02T08:16:09Z', 'closed_at': '2014-06-23T09:05:15Z', 'labels': []}
+{'issuenumber': 249, 'title': 'getting doubled prefixed value because of whitespace in existing ones', 'state': 'closed', 'created_at': '2014-05-01T09:07:43Z', 'closed_at': '2014-05-02T08:57:55Z', 'labels': []}
+{'issuenumber': 248, 'title': 'running this in a browser?', 'state': 'closed', 'created_at': '2014-04-29T12:38:56Z', 'closed_at': '2014-04-29T14:01:08Z', 'labels': []}
+{'issuenumber': 245, 'title': 'Wrong linear-gradient rule processing for Android 2.3 browsers', 'state': 'closed', 'created_at': '2014-04-28T15:27:49Z', 'closed_at': '2014-04-28T19:50:11Z', 'labels': []}
+{'issuenumber': 244, 'title': 'Error parsing: transition: opacity 0.2s, box-shadow 2s 4s;', 'state': 'closed', 'created_at': '2014-04-27T15:18:03Z', 'closed_at': '2014-04-27T17:38:10Z', 'labels': []}
+{'issuenumber': 242, 'title': 'Adds -webkit-gradient duplicate property', 'state': 'closed', 'created_at': '2014-04-24T12:06:24Z', 'closed_at': '2014-04-24T17:00:48Z', 'labels': []}
+{'issuenumber': 241, 'title': 'Are rework and postcss objects compatible?', 'state': 'closed', 'created_at': '2014-04-22T03:22:13Z', 'closed_at': '2014-04-22T07:35:54Z', 'labels': []}
+{'issuenumber': 240, 'title': 'Add support for old IE gradients', 'state': 'closed', 'created_at': '2014-04-21T18:13:03Z', 'closed_at': '2014-04-21T18:15:32Z', 'labels': []}
+{'issuenumber': 239, 'title': 'Drop `-moz-` prefix for `wavy` property', 'state': 'closed', 'created_at': '2014-04-18T03:31:47Z', 'closed_at': '2014-05-12T06:21:25Z', 'labels': {'name': 'support'}}
+{'issuenumber': 238, 'title': 'display: inline-flex not translated correctly for WebKit browsers using the 2009 spec', 'state': 'closed', 'created_at': '2014-04-17T17:04:45Z', 'closed_at': '2014-04-17T17:18:16Z', 'labels': []}
+{'issuenumber': 237, 'title': 'unnecessary -ms prefixes for backface-visibility, perspective and transform-style', 'state': 'closed', 'created_at': '2014-04-16T09:48:24Z', 'closed_at': '2014-04-30T07:41:38Z', 'labels': {'name': 'support'}}
+{'issuenumber': 236, 'title': 'How to get this result?', 'state': 'closed', 'created_at': '2014-04-14T07:47:45Z', 'closed_at': '2014-04-15T08:58:17Z', 'labels': []}
+{'issuenumber': 235, 'title': 'Inline CSS?', 'state': 'closed', 'created_at': '2014-04-10T23:26:28Z', 'closed_at': '2014-04-11T15:09:17Z', 'labels': []}
+{'issuenumber': 232, 'title': 'Fast section has outdated numbers', 'state': 'closed', 'created_at': '2014-04-05T17:11:26Z', 'closed_at': '2014-04-05T18:08:28Z', 'labels': []}
+{'issuenumber': 231, 'title': 'Typo in readme.md', 'state': 'closed', 'created_at': '2014-04-04T20:22:50Z', 'closed_at': '2014-04-04T22:28:28Z', 'labels': []}
+{'issuenumber': 230, 'title': 'auto update source maps', 'state': 'closed', 'created_at': '2014-04-02T13:41:38Z', 'closed_at': '2014-04-03T12:16:36Z', 'labels': []}
+{'issuenumber': 229, 'title': 'Combining transform and calc', 'state': 'closed', 'created_at': '2014-04-02T09:01:41Z', 'closed_at': '2014-06-12T03:56:54Z', 'labels': []}
+{'issuenumber': 228, 'title': 'Compass and CodeKit 1', 'state': 'closed', 'created_at': '2014-03-28T19:14:02Z', 'closed_at': '2014-03-29T19:21:26Z', 'labels': []}
+{'issuenumber': 227, 'title': 'csso not working with autoprefixer', 'state': 'closed', 'created_at': '2014-03-26T13:55:57Z', 'closed_at': '2014-03-26T14:43:45Z', 'labels': []}
+{'issuenumber': 226, 'title': 'autoprefixer drop linear-gradient prefixed with -ms', 'state': 'closed', 'created_at': '2014-03-26T13:24:18Z', 'closed_at': '2014-03-26T14:17:42Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 225, 'title': "Can't choose which browsers to prefix when using autoprefixer-rails gem", 'state': 'closed', 'created_at': '2014-03-26T11:34:25Z', 'closed_at': '2014-03-26T14:38:35Z', 'labels': []}
+{'issuenumber': 224, 'title': 'Radial gradient with shape produces bad output', 'state': 'closed', 'created_at': '2014-03-26T11:22:23Z', 'closed_at': '2014-03-26T11:47:48Z', 'labels': []}
+{'issuenumber': 223, 'title': 'Transform property actually not working?', 'state': 'closed', 'created_at': '2014-03-24T23:48:59Z', 'closed_at': '2014-03-25T00:18:51Z', 'labels': []}
+{'issuenumber': 222, 'title': 'Inherit prefixes from @keyframes', 'state': 'closed', 'created_at': '2014-03-24T14:22:38Z', 'closed_at': '2014-03-25T00:15:33Z', 'labels': []}
+{'issuenumber': 221, 'title': 'Unknown browser requirement `ios`', 'state': 'closed', 'created_at': '2014-03-19T11:16:17Z', 'closed_at': '2014-03-19T12:39:36Z', 'labels': []}
+{'issuenumber': 220, 'title': 'Support for @supports', 'state': 'closed', 'created_at': '2014-03-18T11:25:00Z', 'closed_at': '2014-03-18T11:28:06Z', 'labels': []}
+{'issuenumber': 217, 'title': 'Option to output CSS in one line?', 'state': 'closed', 'created_at': '2014-03-15T06:16:06Z', 'closed_at': '2014-03-15T07:55:09Z', 'labels': []}
+{'issuenumber': 216, 'title': 'background-image output problem', 'state': 'closed', 'created_at': '2014-03-15T00:25:12Z', 'closed_at': '2014-03-16T12:56:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 215, 'title': 'Incorrect prefixing for transforms in transition for Chrome 33', 'state': 'closed', 'created_at': '2014-03-14T13:09:05Z', 'closed_at': '2014-03-16T13:22:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 214, 'title': "Autoprefixer doesn't see few properties in gradients", 'state': 'closed', 'created_at': '2014-03-13T11:10:19Z', 'closed_at': '2014-03-16T13:20:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 211, 'title': 'cascade breaks', 'state': 'closed', 'created_at': '2014-02-28T04:05:57Z', 'closed_at': '2014-02-28T15:51:40Z', 'labels': []}
+{'issuenumber': 210, 'title': '3D transform functions should be stripped for IE9', 'state': 'closed', 'created_at': '2014-02-27T22:42:49Z', 'closed_at': '2014-02-28T01:28:27Z', 'labels': {'name': 'support'}}
+{'issuenumber': 209, 'title': 'Add prefixes for text-decoration-*', 'state': 'closed', 'created_at': '2014-02-27T11:03:02Z', 'closed_at': '2014-02-27T13:57:01Z', 'labels': {'name': 'support'}}
+{'issuenumber': 208, 'title': 'touch-action: none with -ms- prefix', 'state': 'closed', 'created_at': '2014-02-22T18:11:17Z', 'closed_at': '2014-02-22T18:12:25Z', 'labels': []}
+{'issuenumber': 207, 'title': 'Fallback IE RGBA', 'state': 'closed', 'created_at': '2014-02-20T16:50:54Z', 'closed_at': '2014-02-20T21:28:45Z', 'labels': []}
+{'issuenumber': 205, 'title': 'auto-prefix `appearance`', 'state': 'closed', 'created_at': '2014-02-19T13:09:55Z', 'closed_at': '2014-02-19T16:09:11Z', 'labels': []}
+{'issuenumber': 204, 'title': 'linear-gradient Output', 'state': 'closed', 'created_at': '2014-02-18T17:09:56Z', 'closed_at': '2014-02-18T17:14:36Z', 'labels': []}
+{'issuenumber': 202, 'title': 'Invalid box-flex keywords', 'state': 'closed', 'created_at': '2014-02-15T14:22:22Z', 'closed_at': '2014-02-16T09:55:43Z', 'labels': {'name': 'support'}}
+{'issuenumber': 201, 'title': 'Block comment on previous line copied', 'state': 'closed', 'created_at': '2014-02-13T13:32:32Z', 'closed_at': '2014-02-13T21:16:42Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 200, 'title': 'working with compass', 'state': 'closed', 'created_at': '2014-02-13T02:10:14Z', 'closed_at': '2014-02-13T10:41:50Z', 'labels': []}
+{'issuenumber': 199, 'title': 'Add example of how to pass browser versions to CLI', 'state': 'closed', 'created_at': '2014-02-12T00:39:58Z', 'closed_at': '2014-02-12T01:02:02Z', 'labels': []}
+{'issuenumber': 198, 'title': 'Transform property not working', 'state': 'closed', 'created_at': '2014-02-10T19:17:29Z', 'closed_at': '2014-02-10T19:36:00Z', 'labels': []}
+{'issuenumber': 196, 'title': 'Inline sourcemaps support?', 'state': 'closed', 'created_at': '2014-02-09T03:11:02Z', 'closed_at': '2014-02-13T21:06:18Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 194, 'title': 'Allow me to add my own browser usage data and percentages.', 'state': 'closed', 'created_at': '2014-02-07T20:15:51Z', 'closed_at': '2014-12-14T17:26:17Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 193, 'title': 'autoprefixer _could_ be smarter when autoprefixing selectors', 'state': 'closed', 'created_at': '2014-02-07T18:40:54Z', 'closed_at': '2014-02-07T20:58:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 190, 'title': 'Extend documentation (near by)', 'state': 'closed', 'created_at': '2014-02-06T21:41:38Z', 'closed_at': '2014-02-07T20:50:37Z', 'labels': {'name': 'question'}}
+{'issuenumber': 189, 'title': "Doesn't properly generate input placeholder rules", 'state': 'closed', 'created_at': '2014-02-05T19:48:23Z', 'closed_at': '2014-02-15T01:48:32Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 188, 'title': 'Compass Hook broken?', 'state': 'closed', 'created_at': '2014-02-05T19:02:27Z', 'closed_at': '2014-02-07T20:55:26Z', 'labels': {'name': 'question'}}
+{'issuenumber': 186, 'title': "'-webkit- 2009' in flex transitions", 'state': 'closed', 'created_at': '2014-01-29T17:23:08Z', 'closed_at': '2014-01-30T08:50:11Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 185, 'title': 'Drop `-webkit-` prefix for `box-sizing` property', 'state': 'closed', 'created_at': '2014-01-29T16:48:22Z', 'closed_at': '2014-01-29T17:00:15Z', 'labels': []}
+{'issuenumber': 184, 'title': 'Autoprefixer ignoring duplicate properties', 'state': 'closed', 'created_at': '2014-01-29T09:39:22Z', 'closed_at': '2014-02-15T12:57:45Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 182, 'title': 'Opera >=15 has an incorrect prefix', 'state': 'closed', 'created_at': '2014-01-27T12:53:09Z', 'closed_at': '2014-01-27T14:11:34Z', 'labels': []}
+{'issuenumber': 181, 'title': "fix CSS when it's incomplete - Flexbox example", 'state': 'closed', 'created_at': '2014-01-23T09:55:36Z', 'closed_at': '2014-01-23T10:49:43Z', 'labels': []}
+{'issuenumber': 180, 'title': '-webkit-progress-{bar,value}, -moz-progress-bar', 'state': 'closed', 'created_at': '2014-01-19T21:15:20Z', 'closed_at': '2014-02-07T20:34:51Z', 'labels': {'name': 'support'}}
+{'issuenumber': 178, 'title': 'Issues with the way MS flexbox prefixes', 'state': 'closed', 'created_at': '2014-01-17T10:25:37Z', 'closed_at': '2014-02-07T20:46:03Z', 'labels': {'name': 'support'}}
+{'issuenumber': 177, 'title': 'Right prefixes for break-inside', 'state': 'closed', 'created_at': '2014-01-15T19:14:32Z', 'closed_at': '2014-02-17T19:53:54Z', 'labels': {'name': 'support'}}
+{'issuenumber': 176, 'title': 'Autoprefixer breaks source map paths', 'state': 'closed', 'created_at': '2014-01-15T05:34:00Z', 'closed_at': '2014-02-13T21:07:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 175, 'title': 'missing -webkit prefix for box-sizing in android 2.3', 'state': 'closed', 'created_at': '2014-01-14T11:38:00Z', 'closed_at': '2014-01-27T22:52:23Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 174, 'title': 'Option to align prefixed properties by real property name', 'state': 'closed', 'created_at': '2014-01-13T17:18:48Z', 'closed_at': '2014-01-14T16:31:11Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 173, 'title': 'Log unsupported properties', 'state': 'closed', 'created_at': '2014-01-12T17:37:25Z', 'closed_at': '2014-01-12T22:08:17Z', 'labels': []}
+{'issuenumber': 172, 'title': 'Fix gradient direction in unprefixed version', 'state': 'closed', 'created_at': '2014-01-12T11:00:37Z', 'closed_at': '2014-01-14T16:29:33Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 171, 'title': 'sourceMappingURL with different input and output filename', 'state': 'closed', 'created_at': '2014-01-10T20:45:46Z', 'closed_at': '2014-02-13T21:07:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 170, 'title': 'Manually added prefixed rules break source map positions', 'state': 'closed', 'created_at': '2014-01-08T21:00:27Z', 'closed_at': '2014-01-19T02:17:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 169, 'title': '-ms-flex-align: end is incorrect, flex-end is the correct value', 'state': 'closed', 'created_at': '2014-01-08T20:52:07Z', 'closed_at': '2014-01-08T21:21:23Z', 'labels': []}
+{'issuenumber': 168, 'title': 'align-content is not prefixed for Safari 7', 'state': 'closed', 'created_at': '2014-01-08T20:43:54Z', 'closed_at': '2014-01-09T12:19:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 167, 'title': "`user-select` shouldn't leave the unprefixed version", 'state': 'closed', 'created_at': '2014-01-08T19:34:46Z', 'closed_at': '2014-01-08T21:16:55Z', 'labels': {'name': 'question'}}
+{'issuenumber': 166, 'title': 'Missing `-moz` prefix for the `::placeholder` selector', 'state': 'closed', 'created_at': '2014-01-08T19:06:39Z', 'closed_at': '2014-01-09T11:57:42Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 165, 'title': '-ms-flex-pack: justify is incorrect, space-between is the correct value', 'state': 'closed', 'created_at': '2014-01-08T19:01:27Z', 'closed_at': '2014-01-08T21:29:19Z', 'labels': []}
+{'issuenumber': 164, 'title': 'Autoprefixer messes up Sass generated sourcemap', 'state': 'closed', 'created_at': '2014-01-06T11:19:38Z', 'closed_at': '2014-01-07T14:22:43Z', 'labels': []}
+{'issuenumber': 163, 'title': 'Rework support?', 'state': 'closed', 'created_at': '2014-01-04T01:12:28Z', 'closed_at': '2014-01-04T08:26:24Z', 'labels': {'name': 'question'}}
+{'issuenumber': 162, 'title': 'Separated caniuse-db package', 'state': 'closed', 'created_at': '2014-01-02T22:52:38Z', 'closed_at': '2014-06-09T03:53:35Z', 'labels': {'name': 'refactoring'}}
+{'issuenumber': 161, 'title': 'ER: Distribute a precompiled pure-JS version of autoprefixer', 'state': 'closed', 'created_at': '2014-01-02T22:35:26Z', 'closed_at': '2014-01-03T06:26:57Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 160, 'title': 'Position: sticky prefixing', 'state': 'closed', 'created_at': '2014-01-02T20:10:12Z', 'closed_at': '2014-01-02T23:29:03Z', 'labels': {'name': 'support'}}
+{'issuenumber': 159, 'title': 'Add Minification', 'state': 'closed', 'created_at': '2013-12-28T00:19:23Z', 'closed_at': '2013-12-28T01:13:12Z', 'labels': []}
+{'issuenumber': 158, 'title': 'Firefox prefixes does not work', 'state': 'closed', 'created_at': '2013-12-25T08:33:45Z', 'closed_at': '2013-12-25T10:59:34Z', 'labels': []}
+{'issuenumber': 156, 'title': 'Autoprefix background-clip and text-fill-color?', 'state': 'closed', 'created_at': '2013-12-23T08:46:06Z', 'closed_at': '2013-12-25T11:04:59Z', 'labels': {'name': 'support'}}
+{'issuenumber': 155, 'title': 'Add or change sourceMappingURL annotation', 'state': 'closed', 'created_at': '2013-12-23T01:05:43Z', 'closed_at': '2014-02-13T21:07:55Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 154, 'title': 'Firefox ESR special variable', 'state': 'closed', 'created_at': '2013-12-23T00:56:20Z', 'closed_at': '2014-01-10T02:14:25Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 151, 'title': "CLI doesn't works", 'state': 'closed', 'created_at': '2013-12-22T02:41:02Z', 'closed_at': '2013-12-22T02:44:22Z', 'labels': []}
+{'issuenumber': 150, 'title': '@supports rules need autoprefixing', 'state': 'closed', 'created_at': '2013-12-19T16:29:43Z', 'closed_at': '2014-06-22T06:27:03Z', 'labels': {'name': 'support'}}
+{'issuenumber': 149, 'title': 'remove browser abbreviations?', 'state': 'closed', 'created_at': '2013-12-19T01:56:27Z', 'closed_at': '2013-12-20T04:00:22Z', 'labels': []}
+{'issuenumber': 148, 'title': 'bin/autoprefixer requires coffee script, but not required package', 'state': 'closed', 'created_at': '2013-12-18T23:35:49Z', 'closed_at': '2013-12-19T00:54:24Z', 'labels': []}
+{'issuenumber': 147, 'title': '::selection CSS pseudo-element', 'state': 'closed', 'created_at': '2013-12-17T21:28:10Z', 'closed_at': '2013-12-17T21:38:40Z', 'labels': []}
+{'issuenumber': 146, 'title': 'appearance: none', 'state': 'closed', 'created_at': '2013-12-16T00:11:55Z', 'closed_at': '2013-12-16T00:13:26Z', 'labels': []}
+{'issuenumber': 145, 'title': 'update default browser option', 'state': 'closed', 'created_at': '2013-12-13T12:00:21Z', 'closed_at': '2013-12-13T12:19:45Z', 'labels': []}
+{'issuenumber': 144, 'title': 'Unwanted background-size for retina', 'state': 'closed', 'created_at': '2013-12-11T14:53:43Z', 'closed_at': '2013-12-11T15:12:02Z', 'labels': []}
+{'issuenumber': 143, 'title': 'Incorrent placeholder', 'state': 'closed', 'created_at': '2013-12-11T14:28:13Z', 'closed_at': '2013-12-25T11:21:22Z', 'labels': {'name': 'support'}}
+{'issuenumber': 142, 'title': 'Ошибка парсинга @-ms-viewport', 'state': 'closed', 'created_at': '2013-12-10T04:06:21Z', 'closed_at': '2013-12-10T13:19:34Z', 'labels': []}
+{'issuenumber': 139, 'title': "@keyframes rules within Media Queries aren't prefixed", 'state': 'closed', 'created_at': '2013-12-04T18:14:03Z', 'closed_at': '2013-12-11T22:14:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 138, 'title': 'Prefixing LESS files', 'state': 'closed', 'created_at': '2013-12-03T06:38:30Z', 'closed_at': '2013-12-06T14:33:01Z', 'labels': []}
+{'issuenumber': 137, 'title': 'Latest version of particular browser', 'state': 'closed', 'created_at': '2013-11-29T09:30:14Z', 'closed_at': '2013-12-20T03:31:30Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 136, 'title': 'Incorrect handling of PIE-specific styles', 'state': 'closed', 'created_at': '2013-11-27T12:57:18Z', 'closed_at': '2013-12-11T22:14:10Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 135, 'title': 'Support for ::before (IE8)', 'state': 'closed', 'created_at': '2013-11-21T19:42:34Z', 'closed_at': '2013-12-06T14:54:16Z', 'labels': []}
+{'issuenumber': 134, 'title': 'A playground for Autoprefixer?', 'state': 'closed', 'created_at': '2013-11-19T15:52:36Z', 'closed_at': '2014-02-07T20:45:38Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 133, 'title': 'Older Flexbox syntaxes', 'state': 'closed', 'created_at': '2013-11-18T15:41:15Z', 'closed_at': '2014-07-13T12:10:08Z', 'labels': {'name': 'refactoring'}}
+{'issuenumber': 132, 'title': 'Parse CSS files with only @import statement', 'state': 'closed', 'created_at': '2013-11-15T10:36:19Z', 'closed_at': '2013-12-11T22:18:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 131, 'title': 'Unsupported Environment: Need Coda plugin', 'state': 'closed', 'created_at': '2013-11-13T19:12:57Z', 'closed_at': '2013-12-06T14:51:52Z', 'labels': []}
+{'issuenumber': 130, 'title': 'Add -webkit-gradient syntax for old versions of Safari and Mobile Safari.', 'state': 'closed', 'created_at': '2013-11-12T10:17:02Z', 'closed_at': '2013-12-07T14:14:12Z', 'labels': {'name': 'support'}}
+{'issuenumber': 129, 'title': 'no such file to load -- autoprefixer-rails', 'state': 'closed', 'created_at': '2013-11-11T14:10:50Z', 'closed_at': '2013-12-06T15:02:54Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 128, 'title': "TypeError: Cannot call method 'replace' of null", 'state': 'closed', 'created_at': '2013-11-07T13:13:57Z', 'closed_at': '2013-12-07T14:21:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 126, 'title': 'Ручные стили и анимации', 'state': 'closed', 'created_at': '2013-11-06T14:38:38Z', 'closed_at': '2013-12-19T03:38:47Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 123, 'title': 'Embedded CSS', 'state': 'closed', 'created_at': '2013-11-01T14:29:22Z', 'closed_at': '2013-11-02T13:25:25Z', 'labels': []}
+{'issuenumber': 122, 'title': "Pixel ratio media queries aren't being autoprefixed", 'state': 'closed', 'created_at': '2013-10-31T16:30:01Z', 'closed_at': '2015-01-24T21:48:18Z', 'labels': {'name': 'support'}}
+{'issuenumber': 121, 'title': 'Improvment: use CSS Filters polyfill', 'state': 'closed', 'created_at': '2013-10-30T17:10:05Z', 'closed_at': '2013-10-30T17:14:31Z', 'labels': []}
+{'issuenumber': 120, 'title': 'Proper shorthand for firefox', 'state': 'closed', 'created_at': '2013-10-24T12:39:30Z', 'closed_at': '2013-10-24T16:28:47Z', 'labels': []}
+{'issuenumber': 119, 'title': 'Unremovable legacy webkit gradient syntax', 'state': 'closed', 'created_at': '2013-10-24T12:10:46Z', 'closed_at': '2013-10-24T12:28:17Z', 'labels': []}
+{'issuenumber': 115, 'title': 'Shadow DOM CSS parsing error', 'state': 'closed', 'created_at': '2013-10-14T18:06:39Z', 'closed_at': '2013-10-16T23:09:13Z', 'labels': []}
+{'issuenumber': 114, 'title': 'pseudo elements (::before, ::after, ::first-line, ::first-letter)', 'state': 'closed', 'created_at': '2013-10-12T09:51:00Z', 'closed_at': '2013-10-12T12:07:35Z', 'labels': []}
+{'issuenumber': 113, 'title': 'Transitions & prefixes, not full coverage', 'state': 'closed', 'created_at': '2013-10-10T17:54:23Z', 'closed_at': '2013-11-03T09:42:55Z', 'labels': []}
+{'issuenumber': 112, 'title': '-webkit-gradient issue', 'state': 'closed', 'created_at': '2013-10-10T16:29:57Z', 'closed_at': '2014-06-12T03:57:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 111, 'title': '-webkit-gradient not working for multiple gradients', 'state': 'closed', 'created_at': '2013-10-09T14:57:58Z', 'closed_at': '2013-10-14T19:44:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 110, 'title': 'Add ability to use it with Stylus watch?', 'state': 'closed', 'created_at': '2013-10-08T20:48:07Z', 'closed_at': '2013-10-14T21:18:26Z', 'labels': {'name': 'integration'}}
+{'issuenumber': 109, 'title': 'Uncaught ReferenceError: css is not defined', 'state': 'closed', 'created_at': '2013-10-07T12:35:33Z', 'closed_at': '2013-10-07T15:28:13Z', 'labels': {'name': 'question'}}
+{'issuenumber': 108, 'title': '@keyframes', 'state': 'closed', 'created_at': '2013-10-03T13:07:50Z', 'closed_at': '2013-10-03T18:14:06Z', 'labels': {'name': 'question'}}
+{'issuenumber': 107, 'title': "adding `don't auto prefix ******`", 'state': 'closed', 'created_at': '2013-10-01T23:56:36Z', 'closed_at': '2014-07-13T12:05:10Z', 'labels': {'name': 'refactoring'}}
+{'issuenumber': 106, 'title': 'Cursor styles', 'state': 'closed', 'created_at': '2013-09-28T00:21:52Z', 'closed_at': '2013-09-30T22:30:38Z', 'labels': {'name': 'support'}}
+{'issuenumber': 104, 'title': '`display: -webkit-flex;` breaks latest Chrome -- caniuse seems to be incorrect... ?', 'state': 'closed', 'created_at': '2013-09-20T07:21:22Z', 'closed_at': '2013-09-23T09:40:12Z', 'labels': []}
+{'issuenumber': 103, 'title': 'Are there two packages in npm portal?', 'state': 'closed', 'created_at': '2013-09-17T06:10:00Z', 'closed_at': '2013-09-17T09:04:43Z', 'labels': {'name': 'question'}}
+{'issuenumber': 101, 'title': 'Support Skrollr Stylesheets', 'state': 'closed', 'created_at': '2013-09-16T09:44:06Z', 'closed_at': '2013-09-16T20:34:09Z', 'labels': []}
+{'issuenumber': 100, 'title': 'CLI -o option with multiple files', 'state': 'closed', 'created_at': '2013-09-14T17:38:01Z', 'closed_at': '2013-09-14T21:21:18Z', 'labels': []}
+{'issuenumber': 98, 'title': 'Fix in `css-parse` needed to resolve cases with CSS attributes with whitespace before colon', 'state': 'closed', 'created_at': '2013-09-10T18:55:12Z', 'closed_at': '2013-09-10T19:59:36Z', 'labels': []}
+{'issuenumber': 97, 'title': 'Prefix is not added using the universal selector (*)', 'state': 'closed', 'created_at': '2013-09-09T15:18:27Z', 'closed_at': '2013-09-09T17:46:27Z', 'labels': []}
+{'issuenumber': 96, 'title': 'Indent option', 'state': 'closed', 'created_at': '2013-09-06T10:10:43Z', 'closed_at': '2013-09-06T11:34:50Z', 'labels': []}
+{'issuenumber': 95, 'title': 'Radial gradient fixes', 'state': 'closed', 'created_at': '2013-09-05T20:50:57Z', 'closed_at': '2013-09-06T07:14:15Z', 'labels': []}
+{'issuenumber': 94, 'title': 'Incorrect handling of opacity filter for IE', 'state': 'closed', 'created_at': '2013-09-05T16:14:36Z', 'closed_at': '2013-09-05T18:18:32Z', 'labels': []}
+{'issuenumber': 93, 'title': 'Multiple property declarations', 'state': 'closed', 'created_at': '2013-09-04T08:03:43Z', 'closed_at': '2013-09-04T08:11:11Z', 'labels': []}
+{'issuenumber': 92, 'title': 'Allow to use hacks with prefixes', 'state': 'closed', 'created_at': '2013-08-30T20:51:58Z', 'closed_at': '2013-08-30T21:43:12Z', 'labels': []}
+{'issuenumber': 91, 'title': 'Change default browsers', 'state': 'closed', 'created_at': '2013-08-29T13:27:50Z', 'closed_at': '2013-08-31T12:36:22Z', 'labels': []}
+{'issuenumber': 89, 'title': 'Compass integration, not removing all prefixes', 'state': 'closed', 'created_at': '2013-08-28T16:26:53Z', 'closed_at': '2013-08-29T12:13:55Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 88, 'title': 'add SVG support for IE9 linear gradients', 'state': 'closed', 'created_at': '2013-08-28T08:52:41Z', 'closed_at': '2013-08-28T09:56:17Z', 'labels': []}
+{'issuenumber': 86, 'title': 'Add Intrinsic & Extrinsic Sizing (aka `fit-content` and related properties)', 'state': 'closed', 'created_at': '2013-08-24T23:33:24Z', 'closed_at': '2013-08-25T00:16:08Z', 'labels': {'name': 'support'}}
+{'issuenumber': 85, 'title': 'Config.rb issue with sass', 'state': 'closed', 'created_at': '2013-08-24T08:48:12Z', 'closed_at': '2013-08-25T00:17:08Z', 'labels': []}
+{'issuenumber': 84, 'title': 'appearance support?', 'state': 'closed', 'created_at': '2013-08-24T01:20:39Z', 'closed_at': '2013-08-24T09:59:22Z', 'labels': []}
+{'issuenumber': 83, 'title': 'Specify latest version of {browser}', 'state': 'closed', 'created_at': '2013-08-23T18:12:33Z', 'closed_at': '2013-08-25T00:32:59Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 81, 'title': 'Compass (overriding compress option)', 'state': 'closed', 'created_at': '2013-08-16T11:26:01Z', 'closed_at': '2013-08-16T21:50:50Z', 'labels': {'name': 'question'}}
+{'issuenumber': 80, 'title': 'Auto-prefix rules even if just a prefixed rule is present', 'state': 'closed', 'created_at': '2013-08-16T10:27:33Z', 'closed_at': '2013-08-20T08:24:54Z', 'labels': {'name': 'question'}}
+{'issuenumber': 78, 'title': 'Appearance property', 'state': 'closed', 'created_at': '2013-08-14T06:44:53Z', 'closed_at': '2013-08-14T10:47:57Z', 'labels': []}
+{'issuenumber': 77, 'title': 'Auto-include Firefox ESR versions', 'state': 'closed', 'created_at': '2013-08-10T17:40:37Z', 'closed_at': '2013-08-31T11:24:25Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 76, 'title': 'List browsers keywords in readme', 'state': 'closed', 'created_at': '2013-08-09T22:29:04Z', 'closed_at': '2013-08-10T09:51:03Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 74, 'title': 'W3C linear-gradient syntax producing incorrect results', 'state': 'closed', 'created_at': '2013-08-09T10:30:54Z', 'closed_at': '2013-08-09T13:21:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 73, 'title': '`rem` support', 'state': 'closed', 'created_at': '2013-08-08T15:27:17Z', 'closed_at': '2013-08-08T20:55:42Z', 'labels': []}
+{'issuenumber': 71, 'title': 'transforms box-orient: horizontal to vertical', 'state': 'closed', 'created_at': '2013-08-08T09:52:16Z', 'closed_at': '2013-08-08T10:25:22Z', 'labels': []}
+{'issuenumber': 70, 'title': 'Updaters inside package', 'state': 'closed', 'created_at': '2013-08-07T22:16:55Z', 'closed_at': '2013-08-11T19:58:28Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 69, 'title': 'Properties remain unprefixed in transitions', 'state': 'closed', 'created_at': '2013-08-07T21:14:04Z', 'closed_at': '2013-08-07T22:13:49Z', 'labels': []}
+{'issuenumber': 68, 'title': "Don't use old flexbox syntax when unnecessary", 'state': 'closed', 'created_at': '2013-08-07T21:11:22Z', 'closed_at': '2013-08-30T11:44:47Z', 'labels': []}
+{'issuenumber': 67, 'title': 'Compass foundation how to', 'state': 'closed', 'created_at': '2013-08-07T20:03:04Z', 'closed_at': '2013-08-07T22:07:48Z', 'labels': []}
+{'issuenumber': 66, 'title': 'Wrong `transition:transform` combination output for IE', 'state': 'closed', 'created_at': '2013-08-07T14:56:05Z', 'closed_at': '2013-08-30T22:01:54Z', 'labels': []}
+{'issuenumber': 65, 'title': 'A plugin for Coda 2?', 'state': 'closed', 'created_at': '2013-08-07T13:42:40Z', 'closed_at': '2013-08-29T13:54:55Z', 'labels': {'name': 'integration'}}
+{'issuenumber': 64, 'title': 'Need advice on config', 'state': 'closed', 'created_at': '2013-08-07T09:14:26Z', 'closed_at': '2013-08-07T12:01:18Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 63, 'title': 'Add `:fullscreen` pseudo-class support', 'state': 'closed', 'created_at': '2013-08-06T05:32:20Z', 'closed_at': '2013-08-06T10:43:15Z', 'labels': {'name': 'support'}}
+{'issuenumber': 62, 'title': 'Add `tab-size` support', 'state': 'closed', 'created_at': '2013-08-05T13:40:49Z', 'closed_at': '2013-08-06T10:48:40Z', 'labels': {'name': 'support'}}
+{'issuenumber': 61, 'title': 'Add `hyphens` support', 'state': 'closed', 'created_at': '2013-08-05T13:40:13Z', 'closed_at': '2013-08-05T13:52:55Z', 'labels': {'name': 'support'}}
+{'issuenumber': 58, 'title': 'Do autoprefixer support gradient?', 'state': 'closed', 'created_at': '2013-08-02T06:28:16Z', 'closed_at': '2013-08-30T13:28:26Z', 'labels': {'name': 'support'}}
+{'issuenumber': 57, 'title': 'Support for border-image (and sub-properties)', 'state': 'closed', 'created_at': '2013-07-31T15:28:16Z', 'closed_at': '2013-07-31T18:52:50Z', 'labels': {'name': 'support'}}
+{'issuenumber': 56, 'title': "Add a way to add basic support for stuff that don't yet exist at caniuse", 'state': 'closed', 'created_at': '2013-07-31T15:20:50Z', 'closed_at': '2013-08-02T22:41:11Z', 'labels': []}
+{'issuenumber': 54, 'title': 'How should I do to use autoprefixer', 'state': 'closed', 'created_at': '2013-07-30T08:36:21Z', 'closed_at': '2013-07-30T11:22:01Z', 'labels': []}
+{'issuenumber': 51, 'title': 'Support for ::selection', 'state': 'closed', 'created_at': '2013-07-28T00:48:11Z', 'closed_at': '2013-08-02T21:44:06Z', 'labels': {'name': 'support'}}
+{'issuenumber': 50, 'title': 'Latest autoprefixer (0.6.20130721) fails with an exception', 'state': 'closed', 'created_at': '2013-07-25T14:48:35Z', 'closed_at': '2013-07-29T20:51:14Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 49, 'title': "`-webkit-background-clip:` is removed and `background-clip` isn't prefixified", 'state': 'closed', 'created_at': '2013-07-24T16:43:24Z', 'closed_at': '2013-07-26T01:55:38Z', 'labels': []}
+{'issuenumber': 46, 'title': '-moz-linear-gradient', 'state': 'closed', 'created_at': '2013-07-18T05:31:15Z', 'closed_at': '2013-07-18T08:53:19Z', 'labels': []}
+{'issuenumber': 44, 'title': 'Support for ::input-placeholder', 'state': 'closed', 'created_at': '2013-07-11T03:49:12Z', 'closed_at': '2014-04-23T16:35:36Z', 'labels': {'name': 'support'}}
+{'issuenumber': 43, 'title': 'Support "appearance"?', 'state': 'closed', 'created_at': '2013-07-10T22:05:22Z', 'closed_at': '2015-05-16T17:20:22Z', 'labels': {'name': 'support'}}
+{'issuenumber': 42, 'title': 'Excluding browser prefixes', 'state': 'closed', 'created_at': '2013-06-28T21:47:31Z', 'closed_at': '2013-06-29T12:52:28Z', 'labels': []}
+{'issuenumber': 41, 'title': 'no more component.json?', 'state': 'closed', 'created_at': '2013-06-26T04:42:30Z', 'closed_at': '2013-08-11T23:58:38Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 40, 'title': 'support font-feature-settings', 'state': 'closed', 'created_at': '2013-06-24T23:00:58Z', 'closed_at': '2013-06-26T13:05:57Z', 'labels': []}
+{'issuenumber': 39, 'title': 'display: flex is not supported.', 'state': 'closed', 'created_at': '2013-06-20T09:12:03Z', 'closed_at': '2013-06-20T13:16:54Z', 'labels': []}
+{'issuenumber': 38, 'title': 'Standalone JS usage', 'state': 'closed', 'created_at': '2013-06-17T13:57:27Z', 'closed_at': '2013-06-17T14:39:57Z', 'labels': []}
+{'issuenumber': 37, 'title': 'Source maps', 'state': 'closed', 'created_at': '2013-06-17T11:12:56Z', 'closed_at': '2013-12-22T02:09:44Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 36, 'title': 'Error', 'state': 'closed', 'created_at': '2013-06-17T04:10:53Z', 'closed_at': '2013-06-26T13:19:30Z', 'labels': []}
+{'issuenumber': 35, 'title': 'Watch', 'state': 'closed', 'created_at': '2013-06-16T14:50:29Z', 'closed_at': '2013-07-25T10:27:37Z', 'labels': []}
+{'issuenumber': 34, 'title': 'Error message on invalid CSS', 'state': 'closed', 'created_at': '2013-06-09T17:06:36Z', 'closed_at': '2013-06-16T04:32:31Z', 'labels': []}
+{'issuenumber': 33, 'title': "[TypeError: Property 'undefined' of object #<Compiler> is not a function]", 'state': 'closed', 'created_at': '2013-06-03T00:03:38Z', 'closed_at': '2013-06-03T09:12:09Z', 'labels': []}
+{'issuenumber': 32, 'title': '[autoprefixer-rails] Conflict with `turbo-sprockets-rails3`', 'state': 'closed', 'created_at': '2013-05-30T15:55:15Z', 'closed_at': '2013-06-03T10:44:53Z', 'labels': []}
+{'issuenumber': 31, 'title': 'opacity prefixes', 'state': 'closed', 'created_at': '2013-05-29T00:11:18Z', 'closed_at': '2013-05-29T06:14:18Z', 'labels': []}
+{'issuenumber': 29, 'title': 'Include additional browser choices in updater coffeescript file', 'state': 'closed', 'created_at': '2013-05-24T19:52:51Z', 'closed_at': '2013-05-27T19:04:32Z', 'labels': []}
+{'issuenumber': 28, 'title': "Property 'undefined' of object #<Compiler> is not a function", 'state': 'closed', 'created_at': '2013-05-24T17:23:55Z', 'closed_at': '2013-05-27T06:17:16Z', 'labels': []}
+{'issuenumber': 27, 'title': '(-moz-)document parsing is broken', 'state': 'closed', 'created_at': '2013-05-21T09:46:04Z', 'closed_at': '2013-05-21T15:57:12Z', 'labels': []}
+{'issuenumber': 26, 'title': 'Comments for IE-hack-ish CSS breaks prefixer', 'state': 'closed', 'created_at': '2013-05-21T09:30:55Z', 'closed_at': '2013-06-15T14:13:01Z', 'labels': []}
+{'issuenumber': 25, 'title': 'Proposed improvements for flex fallbacks', 'state': 'closed', 'created_at': '2013-05-17T02:52:49Z', 'closed_at': '2013-06-28T16:45:32Z', 'labels': []}
+{'issuenumber': 24, 'title': 'What about a new syntax for gradients?', 'state': 'closed', 'created_at': '2013-05-12T12:12:17Z', 'closed_at': '2013-05-14T22:28:01Z', 'labels': []}
+{'issuenumber': 23, 'title': 'Change degrees in `-webkit-linear-gradient`', 'state': 'closed', 'created_at': '2013-05-04T21:02:07Z', 'closed_at': '2013-05-13T13:49:01Z', 'labels': []}
+{'issuenumber': 22, 'title': 'Filter prefixer', 'state': 'closed', 'created_at': '2013-04-30T23:21:17Z', 'closed_at': '2013-05-01T11:32:24Z', 'labels': []}
+{'issuenumber': 21, 'title': "Mechanism doesn't see the second image in multiple gradient", 'state': 'closed', 'created_at': '2013-04-26T21:22:21Z', 'closed_at': '2013-04-26T23:39:33Z', 'labels': []}
+{'issuenumber': 20, 'title': 'Windows `stdin` support', 'state': 'closed', 'created_at': '2013-04-26T10:18:19Z', 'closed_at': '2013-04-26T11:49:15Z', 'labels': []}
+{'issuenumber': 19, 'title': 'offer visual cascade of prefixes', 'state': 'closed', 'created_at': '2013-04-25T22:36:01Z', 'closed_at': '2014-02-13T23:30:36Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 18, 'title': 'Sublime plugin', 'state': 'closed', 'created_at': '2013-04-25T21:53:03Z', 'closed_at': '2013-04-25T22:18:16Z', 'labels': []}
+{'issuenumber': 17, 'title': 'cli throws on --browser argument', 'state': 'closed', 'created_at': '2013-04-25T17:05:51Z', 'closed_at': '2013-04-25T19:17:37Z', 'labels': []}
+{'issuenumber': 16, 'title': 'Incorrect prefixes of values', 'state': 'closed', 'created_at': '2013-04-23T09:05:48Z', 'closed_at': '2013-04-23T18:01:02Z', 'labels': []}
+{'issuenumber': 15, 'title': 'either your data or your filter is incorrect', 'state': 'closed', 'created_at': '2013-04-21T10:35:48Z', 'closed_at': '2013-04-23T06:55:08Z', 'labels': []}
+{'issuenumber': 14, 'title': 'b-vendor-order', 'state': 'closed', 'created_at': '2013-04-21T10:24:50Z', 'closed_at': '2013-04-21T21:45:45Z', 'labels': []}

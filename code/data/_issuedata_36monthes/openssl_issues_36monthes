@@ -1,0 +1,454 @@
+{'issuenumber': 1652, 'title': 'nginx can\'t change curve "when context is changed in the SNI callback"', 'state': 'closed', 'created_at': '2016-09-30T19:46:20Z', 'closed_at': '2018-04-27T15:22:01Z', 'labels': []}
+{'issuenumber': 1651, 'title': 'OpenSSL 1.1.0 loses renegotiation client_version workaround.', 'state': 'closed', 'created_at': '2016-09-30T14:01:49Z', 'closed_at': '2018-04-24T08:58:46Z', 'labels': []}
+{'issuenumber': 1649, 'title': 'Building openssl 1.1.0 fails on HP-UX on "chmod: can\'t access capi.so"', 'state': 'closed', 'created_at': '2016-09-29T20:09:23Z', 'closed_at': '2016-11-06T21:39:57Z', 'labels': []}
+{'issuenumber': 1647, 'title': '1.0.2j: make test dumps core on solaris64-sparcv9-cc', 'state': 'closed', 'created_at': '2016-09-29T13:59:57Z', 'closed_at': '2016-11-13T03:52:59Z', 'labels': []}
+{'issuenumber': 1645, 'title': 'X509_NAME_ENTRY_set_data() modified flag not changed', 'state': 'closed', 'created_at': '2016-09-29T06:47:45Z', 'closed_at': '2017-04-26T17:07:32Z', 'labels': []}
+{'issuenumber': 1641, 'title': 'Does OpenSSL 1.1.0b stop supporting target solaris-x86-cc?', 'state': 'closed', 'created_at': '2016-09-28T18:38:57Z', 'closed_at': '2016-09-28T18:44:02Z', 'labels': []}
+{'issuenumber': 1638, 'title': 'openssl support for ios ', 'state': 'closed', 'created_at': '2016-09-28T09:28:44Z', 'closed_at': '2016-09-28T12:26:37Z', 'labels': []}
+{'issuenumber': 1637, 'title': 'test_sslapi fails on master (and 1.1.0b) when dtls is disabled', 'state': 'closed', 'created_at': '2016-09-28T01:33:34Z', 'closed_at': '2016-09-29T08:57:27Z', 'labels': []}
+{'issuenumber': 1635, 'title': "'make test' picks up the wrong library files", 'state': 'closed', 'created_at': '2016-09-27T23:01:12Z', 'closed_at': '2017-05-02T11:28:15Z', 'labels': []}
+{'issuenumber': 1631, 'title': 'OpenSSL version mismatch. Built against 1000207f, you have 100010bf', 'state': 'closed', 'created_at': '2016-09-27T19:44:24Z', 'closed_at': '2016-09-27T22:50:00Z', 'labels': []}
+{'issuenumber': 1630, 'title': 'Backport ALPN Support to 1.0.1', 'state': 'closed', 'created_at': '2016-09-27T17:34:40Z', 'closed_at': '2016-09-27T17:38:15Z', 'labels': []}
+{'issuenumber': 1624, 'title': 'AEAD documentation fix', 'state': 'closed', 'created_at': '2016-09-26T17:22:38Z', 'closed_at': '2018-01-18T15:42:34Z', 'labels': []}
+{'issuenumber': 1623, 'title': 'Failed tests on OpenSSL 1.1.0b with enable-ec_nistp_64_gcc_128 and/or enable-ssl-trace', 'state': 'closed', 'created_at': '2016-09-26T16:54:31Z', 'closed_at': '2016-09-27T22:52:46Z', 'labels': []}
+{'issuenumber': 1621, 'title': 'Windows 10 x64  cannot link - missing OPENSSL_UplinkTable ', 'state': 'closed', 'created_at': '2016-09-26T16:19:59Z', 'closed_at': '2016-09-27T12:01:03Z', 'labels': []}
+{'issuenumber': 1616, 'title': 'Performance worsening from 1.0.2d to 1.0.2g', 'state': 'closed', 'created_at': '2016-09-23T14:05:21Z', 'closed_at': '2017-02-04T18:15:21Z', 'labels': []}
+{'issuenumber': 1615, 'title': 'OpenSSL 1.1.0a version info wrong', 'state': 'closed', 'created_at': '2016-09-23T05:45:38Z', 'closed_at': '2016-09-23T05:51:25Z', 'labels': []}
+{'issuenumber': 1611, 'title': 'X509_verify segfaults when searching for CRLs', 'state': 'closed', 'created_at': '2016-09-22T11:56:51Z', 'closed_at': '2016-10-12T07:27:11Z', 'labels': []}
+{'issuenumber': 1609, 'title': 'Question:  chacha poly support in 1.0.1?', 'state': 'closed', 'created_at': '2016-09-22T01:37:44Z', 'closed_at': '2016-09-22T02:34:36Z', 'labels': []}
+{'issuenumber': 1608, 'title': 'Add cipher aliases for commonly used groups', 'state': 'closed', 'created_at': '2016-09-21T14:16:12Z', 'closed_at': '2017-05-02T10:24:34Z', 'labels': []}
+{'issuenumber': 1607, 'title': 'after ./config，CC error ', 'state': 'closed', 'created_at': '2016-09-21T06:23:31Z', 'closed_at': '2016-09-22T07:22:43Z', 'labels': []}
+{'issuenumber': 1605, 'title': "AttributeError: '_EllipticCurve' object has no attribute 'get_pubkey'", 'state': 'closed', 'created_at': '2016-09-20T09:31:14Z', 'closed_at': '2016-09-20T12:21:09Z', 'labels': []}
+{'issuenumber': 1604, 'title': 'rsa_st definition is absent', 'state': 'closed', 'created_at': '2016-09-20T06:57:19Z', 'closed_at': '2016-09-20T08:27:39Z', 'labels': []}
+{'issuenumber': 1602, 'title': 'Performance of FIPS Mode Digest on Small Buffers', 'state': 'closed', 'created_at': '2016-09-19T20:00:24Z', 'closed_at': '2017-02-04T18:14:26Z', 'labels': []}
+{'issuenumber': 1601, 'title': 'X509 extension type admission', 'state': 'closed', 'created_at': '2016-09-19T11:22:00Z', 'closed_at': '2017-05-02T10:23:13Z', 'labels': []}
+{'issuenumber': 1600, 'title': 'ASN1_generate_nconf not accepting complex input', 'state': 'closed', 'created_at': '2016-09-19T07:48:24Z', 'closed_at': '2017-02-01T00:24:32Z', 'labels': []}
+{'issuenumber': 1599, 'title': '--prefix not support variable，must absolute', 'state': 'closed', 'created_at': '2016-09-19T03:01:37Z', 'closed_at': '2016-09-19T07:33:30Z', 'labels': []}
+{'issuenumber': 1595, 'title': 'Windows: no-err fails to build', 'state': 'closed', 'created_at': '2016-09-17T19:42:03Z', 'closed_at': '2016-09-17T21:23:24Z', 'labels': []}
+{'issuenumber': 1593, 'title': 'Windows: no-async fails to build', 'state': 'closed', 'created_at': '2016-09-17T19:40:52Z', 'closed_at': '2016-09-17T21:23:14Z', 'labels': []}
+{'issuenumber': 1591, 'title': 'Windows: nmake fails due to incorrectly generated makefile', 'state': 'closed', 'created_at': '2016-09-17T19:20:39Z', 'closed_at': '2016-09-17T19:30:07Z', 'labels': []}
+{'issuenumber': 1587, 'title': 'Compile OpenSSL with zlib in Visual Studio 2015', 'state': 'closed', 'created_at': '2016-09-17T02:02:02Z', 'closed_at': '2016-09-17T19:32:50Z', 'labels': []}
+{'issuenumber': 1581, 'title': 'Internal Server Error - OpenSSL Issue', 'state': 'closed', 'created_at': '2016-09-15T16:17:23Z', 'closed_at': '2016-09-15T16:21:27Z', 'labels': []}
+{'issuenumber': 1580, 'title': '[OpenSSL] EC_KEY_generate_key FAIL Issue - pyelliptic==1.5.7', 'state': 'closed', 'created_at': '2016-09-15T10:54:57Z', 'closed_at': '2016-09-15T16:21:35Z', 'labels': []}
+{'issuenumber': 1573, 'title': ": undefined reference to `OPENSSL_init_crypto'", 'state': 'closed', 'created_at': '2016-09-14T06:38:19Z', 'closed_at': '2016-09-15T04:54:07Z', 'labels': []}
+{'issuenumber': 1568, 'title': 'Support for selecting curves / groups in s_client', 'state': 'closed', 'created_at': '2016-09-13T09:08:49Z', 'closed_at': '2016-09-14T22:27:17Z', 'labels': []}
+{'issuenumber': 1567, 'title': 'OpenSSL 1.1.0 cannot compile with lua-nginx-module v0.10.6', 'state': 'closed', 'created_at': '2016-09-13T08:15:37Z', 'closed_at': '2016-09-13T08:25:55Z', 'labels': []}
+{'issuenumber': 1566, 'title': 'RSAPSK ciphers not classed as PSK', 'state': 'closed', 'created_at': '2016-09-13T07:39:30Z', 'closed_at': '2016-09-15T16:22:03Z', 'labels': []}
+{'issuenumber': 1563, 'title': 'OpenSSL 1.1.0 hangs (CPU pegged) when SSL_peek is used with TLSv1', 'state': 'closed', 'created_at': '2016-09-10T17:12:28Z', 'closed_at': '2016-09-24T01:51:31Z', 'labels': []}
+{'issuenumber': 1556, 'title': '"Custom" RSA certificate generation & DH params', 'state': 'closed', 'created_at': '2016-09-09T05:33:41Z', 'closed_at': '2016-09-09T12:44:22Z', 'labels': []}
+{'issuenumber': 1555, 'title': 'lh_free crashes', 'state': 'closed', 'created_at': '2016-09-09T00:12:22Z', 'closed_at': '2016-09-21T14:44:27Z', 'labels': []}
+{'issuenumber': 1553, 'title': 'pthread_rwlock_wrlock crash for NULL pointer', 'state': 'closed', 'created_at': '2016-09-08T10:19:03Z', 'closed_at': '2016-09-14T12:59:18Z', 'labels': []}
+{'issuenumber': 1550, 'title': 'Client-side SSL_SESSION not working after SSL_free() or SSL_set_session(ssl, NULL)', 'state': 'closed', 'created_at': '2016-09-07T20:41:29Z', 'closed_at': '2017-05-02T10:19:13Z', 'labels': []}
+{'issuenumber': 1546, 'title': 'Undefined symbols on DragonFly BSD', 'state': 'closed', 'created_at': '2016-09-07T14:01:58Z', 'closed_at': '2016-10-21T08:39:23Z', 'labels': []}
+{'issuenumber': 1545, 'title': '64-bit build of 1.0.2h fails under Windows', 'state': 'closed', 'created_at': '2016-09-07T13:27:24Z', 'closed_at': '2017-01-20T14:13:17Z', 'labels': []}
+{'issuenumber': 1544, 'title': 'Re-introduce support for C++ Builder', 'state': 'closed', 'created_at': '2016-09-07T10:51:16Z', 'closed_at': '2016-09-07T11:28:25Z', 'labels': []}
+{'issuenumber': 1543, 'title': 'Undefined symbols for architecture x86_64:   "_SSLeay_add_all_algorithms"', 'state': 'closed', 'created_at': '2016-09-07T10:04:39Z', 'closed_at': '2016-09-07T11:12:44Z', 'labels': []}
+{'issuenumber': 1542, 'title': 'Compile OpenSSL in Visual Studio', 'state': 'closed', 'created_at': '2016-09-07T07:44:55Z', 'closed_at': '2016-09-08T06:39:16Z', 'labels': []}
+{'issuenumber': 1537, 'title': '1.1.0 changes EVP_PKEY API in a way that results in calling code having a double free', 'state': 'closed', 'created_at': '2016-09-05T23:49:22Z', 'closed_at': '2016-09-07T13:43:40Z', 'labels': {'name': 'approval: done'}}
+{'issuenumber': 1534, 'title': 'Question: Where is SHA256_FINAL?', 'state': 'closed', 'created_at': '2016-09-04T13:58:06Z', 'closed_at': '2016-09-04T14:48:15Z', 'labels': []}
+{'issuenumber': 1532, 'title': 'X509_check_private_key() crash with EC key from engine', 'state': 'closed', 'created_at': '2016-09-04T08:41:51Z', 'closed_at': '2017-05-24T10:08:42Z', 'labels': []}
+{'issuenumber': 1531, 'title': 'Building for Android with clang fails: "-mandroid" unknown argument', 'state': 'closed', 'created_at': '2016-09-04T02:14:51Z', 'closed_at': '2016-10-21T14:01:22Z', 'labels': []}
+{'issuenumber': 1528, 'title': 'Broken links in crypto/ec/ec_mult.c comments', 'state': 'closed', 'created_at': '2016-09-02T07:54:17Z', 'closed_at': '2017-05-02T15:05:49Z', 'labels': []}
+{'issuenumber': 1527, 'title': 'How to add my own standard command? (v1.0.2h)', 'state': 'closed', 'created_at': '2016-09-01T19:36:10Z', 'closed_at': '2016-09-02T10:13:07Z', 'labels': []}
+{'issuenumber': 1526, 'title': 'const values e.g. const SSL* ssl', 'state': 'closed', 'created_at': '2016-09-01T09:53:22Z', 'closed_at': '2017-05-19T08:05:35Z', 'labels': []}
+{'issuenumber': 1525, 'title': 'OpenSSL_1_0_2h build fails with no-ecdh option', 'state': 'closed', 'created_at': '2016-09-01T09:47:17Z', 'closed_at': '2017-01-20T14:06:50Z', 'labels': []}
+{'issuenumber': 1511, 'title': 'OpenSSL 1.1.0: disable building test executables', 'state': 'closed', 'created_at': '2016-08-30T00:49:07Z', 'closed_at': '2017-03-13T21:52:44Z', 'labels': []}
+{'issuenumber': 1507, 'title': 'X509_get0_notBefore not found', 'state': 'closed', 'created_at': '2016-08-29T11:24:50Z', 'closed_at': '2017-01-20T13:56:22Z', 'labels': []}
+{'issuenumber': 1506, 'title': 'OpenSSL 1.1.0 iOS simulator build failed', 'state': 'closed', 'created_at': '2016-08-29T11:21:42Z', 'closed_at': '2017-03-27T13:34:29Z', 'labels': []}
+{'issuenumber': 1505, 'title': 'Problem of compiling 32 bit openssl 1.1.0 with vs2005', 'state': 'closed', 'created_at': '2016-08-29T08:51:55Z', 'closed_at': '2016-08-29T09:27:48Z', 'labels': []}
+{'issuenumber': 1504, 'title': 'OpenSSL 1.1.0 & Ubuntu 14.04: Unable to compile', 'state': 'closed', 'created_at': '2016-08-29T00:02:05Z', 'closed_at': '2017-04-29T19:13:50Z', 'labels': []}
+{'issuenumber': 1499, 'title': 'multi threading safety in v1.1.0', 'state': 'closed', 'created_at': '2016-08-26T15:10:56Z', 'closed_at': '2016-08-30T17:38:36Z', 'labels': []}
+{'issuenumber': 1498, 'title': 'OpenSSL 1.1.0 does not compile for ARM with clang in Android NDK', 'state': 'closed', 'created_at': '2016-08-26T11:50:22Z', 'closed_at': '2016-09-04T06:00:51Z', 'labels': []}
+{'issuenumber': 1497, 'title': 'CAPI_RSA_SIGN:cant create hash object', 'state': 'closed', 'created_at': '2016-08-26T08:37:03Z', 'closed_at': '2017-01-20T14:02:56Z', 'labels': []}
+{'issuenumber': 1495, 'title': 'Please remove statement of adding Dual_EC_DRBG from release notes for future versions...', 'state': 'closed', 'created_at': '2016-08-25T18:31:03Z', 'closed_at': '2016-08-26T08:11:46Z', 'labels': []}
+{'issuenumber': 1494, 'title': " s_client doesn't recognise XMPP STARTTLS messages with double quotes ", 'state': 'closed', 'created_at': '2016-08-25T08:31:18Z', 'closed_at': '2017-01-12T21:05:58Z', 'labels': []}
+{'issuenumber': 1492, 'title': 'Swift--use_frameworks!--[!] ', 'state': 'closed', 'created_at': '2016-08-25T02:46:40Z', 'closed_at': '2016-08-25T03:44:58Z', 'labels': []}
+{'issuenumber': 1491, 'title': 'Dereferencing pointer to incomplete type RSA {aka struct rsa_st}', 'state': 'closed', 'created_at': '2016-08-25T02:39:59Z', 'closed_at': '2016-08-25T03:44:30Z', 'labels': []}
+{'issuenumber': 1477, 'title': 'OpenSSL RSA encryption Chinese is garbled', 'state': 'closed', 'created_at': '2016-08-22T11:13:16Z', 'closed_at': '2016-08-22T14:05:54Z', 'labels': []}
+{'issuenumber': 1454, 'title': 'stack-buffer-overflow in evp_test.c:36', 'state': 'closed', 'created_at': '2016-08-14T00:16:46Z', 'closed_at': '2017-05-02T09:56:38Z', 'labels': []}
+{'issuenumber': 1453, 'title': 'Library path "X64" folder doesn\'t exist', 'state': 'closed', 'created_at': '2016-08-13T01:00:39Z', 'closed_at': '2016-08-15T13:13:25Z', 'labels': []}
+{'issuenumber': 1452, 'title': 'X64 folder', 'state': 'closed', 'created_at': '2016-08-13T00:58:40Z', 'closed_at': '2016-08-13T00:59:54Z', 'labels': []}
+{'issuenumber': 1446, 'title': 'OpenSSL 1.1.0 missing accessors', 'state': 'closed', 'created_at': '2016-08-12T09:04:46Z', 'closed_at': '2016-08-13T12:16:28Z', 'labels': []}
+{'issuenumber': 1444, 'title': '1.1.0 API needs const getters', 'state': 'closed', 'created_at': '2016-08-11T10:00:16Z', 'closed_at': '2016-08-24T09:27:00Z', 'labels': []}
+{'issuenumber': 1440, 'title': 'Reduce test log noise on Travis', 'state': 'closed', 'created_at': '2016-08-10T11:49:46Z', 'closed_at': '2017-05-02T11:40:36Z', 'labels': []}
+{'issuenumber': 1438, 'title': 'OpenSSL 1.1.0 read pipeline logic regressed constant-time CBC unpad code', 'state': 'closed', 'created_at': '2016-08-10T04:06:50Z', 'closed_at': '2021-05-05T07:27:54Z', 'labels': []}
+{'issuenumber': 1437, 'title': "SSL_CTX_set_ecdh_auto is undefined for newer openssl's", 'state': 'closed', 'created_at': '2016-08-09T23:55:52Z', 'closed_at': '2016-08-16T16:15:04Z', 'labels': []}
+{'issuenumber': 1435, 'title': 'See also link on OPENSSL_init_crypto docs on website does not work.', 'state': 'closed', 'created_at': '2016-08-09T14:04:54Z', 'closed_at': '2016-08-09T14:08:49Z', 'labels': []}
+{'issuenumber': 1426, 'title': 'Problems with config', 'state': 'closed', 'created_at': '2016-08-08T09:42:31Z', 'closed_at': '2016-08-08T10:56:36Z', 'labels': []}
+{'issuenumber': 1425, 'title': "ASN.1 X25519 key serialization is non-standard and doesn't match current consensus", 'state': 'closed', 'created_at': '2016-08-08T04:16:25Z', 'closed_at': '2016-08-15T22:35:40Z', 'labels': []}
+{'issuenumber': 1418, 'title': 'self-signed certificate seems not to be detected if keyUsage extension is present and does not assert the keyCertSig bit', 'state': 'closed', 'created_at': '2016-08-06T12:49:51Z', 'closed_at': '2020-07-18T15:13:57Z', 'labels': []}
+{'issuenumber': 1415, 'title': 'Consider getting rid of function codes.', 'state': 'closed', 'created_at': '2016-08-05T21:44:49Z', 'closed_at': '2019-08-05T14:47:20Z', 'labels': []}
+{'issuenumber': 1405, 'title': '" BIO *BIO_new_mem_buf" failing in ubuntu 14.04', 'state': 'closed', 'created_at': '2016-08-05T11:47:17Z', 'closed_at': '2016-08-05T11:55:39Z', 'labels': []}
+{'issuenumber': 1398, 'title': 'Support for key exchange using Curve448 (Goldilocks)', 'state': 'closed', 'created_at': '2016-08-04T22:06:43Z', 'closed_at': '2018-03-05T13:45:24Z', 'labels': []}
+{'issuenumber': 1396, 'title': 'openssl for windows 10. trying to create a sample ssl server for universal windows application', 'state': 'closed', 'created_at': '2016-08-04T18:24:12Z', 'closed_at': '2016-08-04T18:25:14Z', 'labels': []}
+{'issuenumber': 1391, 'title': 'Issue with Configure option for Tls1.1 multiblock mode', 'state': 'closed', 'created_at': '2016-08-03T21:37:46Z', 'closed_at': '2016-08-03T21:46:38Z', 'labels': []}
+{'issuenumber': 1384, 'title': 'cast discards const in safestack.h (master branch)', 'state': 'closed', 'created_at': '2016-08-03T10:20:08Z', 'closed_at': '2016-08-10T14:04:06Z', 'labels': []}
+{'issuenumber': 1383, 'title': 'ERR_PACK cast problem / inconsistent definition (master branch)', 'state': 'closed', 'created_at': '2016-08-03T08:48:18Z', 'closed_at': '2016-08-10T14:02:19Z', 'labels': []}
+{'issuenumber': 1381, 'title': 'asn1parse: "Error in encoding" in freshly created certificate (all tested OpenSSL versions)', 'state': 'closed', 'created_at': '2016-08-02T23:04:59Z', 'closed_at': '2018-02-27T17:51:26Z', 'labels': []}
+{'issuenumber': 1380, 'title': 'installation issues', 'state': 'closed', 'created_at': '2016-08-02T21:50:40Z', 'closed_at': '2016-08-02T22:02:15Z', 'labels': []}
+{'issuenumber': 1368, 'title': '`rsa -outform PVK` fails with `check_bitlen_rsa:unsupported key components` when using 1.1.0 tip', 'state': 'closed', 'created_at': '2016-07-30T11:49:08Z', 'closed_at': '2016-08-01T12:11:46Z', 'labels': []}
+{'issuenumber': 1364, 'title': 'make install fails sometimes with -j8', 'state': 'closed', 'created_at': '2016-07-29T22:27:57Z', 'closed_at': '2016-08-01T22:56:54Z', 'labels': []}
+{'issuenumber': 1363, 'title': 'i2c_ASN1_INTEGER is removed from public headers in 1.1.0', 'state': 'closed', 'created_at': '2016-07-29T17:30:30Z', 'closed_at': '2016-08-01T14:07:03Z', 'labels': []}
+{'issuenumber': 1362, 'title': 'overload engine for openssl dgst -sign ', 'state': 'closed', 'created_at': '2016-07-29T08:25:05Z', 'closed_at': '2016-08-26T09:23:21Z', 'labels': []}
+{'issuenumber': 1361, 'title': 'test_sslrecords fails sometimes', 'state': 'closed', 'created_at': '2016-07-28T22:14:20Z', 'closed_at': '2017-01-16T09:42:03Z', 'labels': []}
+{'issuenumber': 1359, 'title': 'Android javax.net.ssl and FIPS compliance openSSL. (In app vs android stack)', 'state': 'closed', 'created_at': '2016-07-28T17:48:41Z', 'closed_at': '2016-08-26T09:10:14Z', 'labels': []}
+{'issuenumber': 1354, 'title': '[Question] Compiling OpenSSL', 'state': 'closed', 'created_at': '2016-07-26T22:12:21Z', 'closed_at': '2016-07-26T22:18:27Z', 'labels': []}
+{'issuenumber': 1352, 'title': 'CRL lastUpdate check handles sec == 0 case wrong.', 'state': 'closed', 'created_at': '2016-07-26T17:22:17Z', 'closed_at': '2016-07-29T20:16:36Z', 'labels': []}
+{'issuenumber': 1328, 'title': 'Help finding replacement for ASN1_seq_unpack_X509', 'state': 'closed', 'created_at': '2016-07-19T02:25:06Z', 'closed_at': '2016-07-19T03:01:24Z', 'labels': []}
+{'issuenumber': 1326, 'title': 'Try to build openssl dllwrap libeay32.dll and ssleay32.dll cross compile fails', 'state': 'closed', 'created_at': '2016-07-18T07:39:01Z', 'closed_at': '2016-07-18T13:56:11Z', 'labels': []}
+{'issuenumber': 1309, 'title': 'Error detected by d2i_PKCS7() since version 1.0.1i', 'state': 'closed', 'created_at': '2016-07-13T18:39:16Z', 'closed_at': '2016-08-26T19:45:52Z', 'labels': []}
+{'issuenumber': 1306, 'title': 'Use openssl static library without fips in android', 'state': 'closed', 'created_at': '2016-07-13T10:11:42Z', 'closed_at': '2016-08-26T09:11:20Z', 'labels': []}
+{'issuenumber': 1304, 'title': 'VC-WIN32 executables generate R6034 Runtime Error', 'state': 'closed', 'created_at': '2016-07-12T15:06:24Z', 'closed_at': '2016-07-14T18:53:18Z', 'labels': []}
+{'issuenumber': 1303, 'title': 'OpenSSL configuration at installation: NASM is missing', 'state': 'closed', 'created_at': '2016-07-12T12:51:50Z', 'closed_at': '2016-07-12T14:49:10Z', 'labels': []}
+{'issuenumber': 1298, 'title': 'V2ClientHello first_packet check is slightly off', 'state': 'closed', 'created_at': '2016-07-11T03:05:11Z', 'closed_at': '2016-08-15T22:29:19Z', 'labels': []}
+{'issuenumber': 1297, 'title': 'ASN.1 DER: bug in encoding of DEFAULT value', 'state': 'closed', 'created_at': '2016-07-10T22:02:18Z', 'closed_at': '2016-07-11T02:06:39Z', 'labels': []}
+{'issuenumber': 1290, 'title': 'Perl test harness does not keep stdout/stderr output order', 'state': 'closed', 'created_at': '2016-07-05T14:55:34Z', 'closed_at': '2017-05-02T15:25:15Z', 'labels': []}
+{'issuenumber': 1287, 'title': 'Code duplication between handshake_helper.h and ssltestlib.h', 'state': 'closed', 'created_at': '2016-07-05T11:39:46Z', 'closed_at': '2019-02-13T10:04:25Z', 'labels': []}
+{'issuenumber': 1278, 'title': 'Missing error reason strings for alerts in OpenSSL 1.1', 'state': 'closed', 'created_at': '2016-07-01T23:15:25Z', 'closed_at': '2016-07-08T17:29:10Z', 'labels': []}
+{'issuenumber': 1274, 'title': 'Missing CT documentation', 'state': 'closed', 'created_at': '2016-07-01T08:52:48Z', 'closed_at': '2016-08-01T21:01:54Z', 'labels': []}
+{'issuenumber': 1272, 'title': 'Error in openin new ssl connection(error:00000000:lib(0):func(0):reason(0)', 'state': 'closed', 'created_at': '2016-06-30T06:45:30Z', 'closed_at': '2016-06-30T10:15:59Z', 'labels': []}
+{'issuenumber': 1271, 'title': 'the probleme of ssl_session use in nginx', 'state': 'closed', 'created_at': '2016-06-30T02:31:34Z', 'closed_at': '2016-06-30T13:09:31Z', 'labels': []}
+{'issuenumber': 1268, 'title': 'Incorrect/inconsistent command line switch behaviour protocol selection s_client', 'state': 'closed', 'created_at': '2016-06-29T12:35:15Z', 'closed_at': '2016-07-08T15:31:02Z', 'labels': []}
+{'issuenumber': 1260, 'title': 'Removal of CRYPTO_LOCK breaks legacy locking callbacks', 'state': 'closed', 'created_at': '2016-06-27T17:12:54Z', 'closed_at': '2016-07-01T15:03:05Z', 'labels': []}
+{'issuenumber': 1258, 'title': 'constant values missing in public api', 'state': 'closed', 'created_at': '2016-06-27T14:25:47Z', 'closed_at': '2016-06-30T16:23:49Z', 'labels': []}
+{'issuenumber': 1256, 'title': " typo in  'openssl enc -help' output", 'state': 'closed', 'created_at': '2016-06-26T20:23:08Z', 'closed_at': '2016-06-26T21:27:31Z', 'labels': []}
+{'issuenumber': 1254, 'title': 'Blackslash issue building HEAD with MinGW on Windows', 'state': 'closed', 'created_at': '2016-06-25T19:38:05Z', 'closed_at': '2016-06-27T19:11:46Z', 'labels': []}
+{'issuenumber': 1248, 'title': 'Incorrect handling of multithreaded reference counters', 'state': 'closed', 'created_at': '2016-06-23T05:48:00Z', 'closed_at': '2018-01-10T22:53:12Z', 'labels': []}
+{'issuenumber': 1246, 'title': 'DSA_SIG_get0 and e_capi', 'state': 'closed', 'created_at': '2016-06-21T22:53:13Z', 'closed_at': '2016-06-27T21:55:17Z', 'labels': []}
+{'issuenumber': 1242, 'title': '[Feature Request] Implement token binding negotiation', 'state': 'closed', 'created_at': '2016-06-21T13:33:28Z', 'closed_at': '2021-05-12T09:17:03Z', 'labels': {'name': 'issue: feature request'}}
+{'issuenumber': 1236, 'title': 'EVP_PKEY_cmp() fails for HMAC EVP_PKEYs', 'state': 'closed', 'created_at': '2016-06-20T07:29:13Z', 'closed_at': '2016-06-24T16:35:14Z', 'labels': []}
+{'issuenumber': 1221, 'title': 'ASN1_STRING_to_UTF8 could not convert NumericString', 'state': 'closed', 'created_at': '2016-06-16T10:58:17Z', 'closed_at': '2016-06-23T19:54:53Z', 'labels': []}
+{'issuenumber': 1213, 'title': 'Ideas for fuzzing', 'state': 'closed', 'created_at': '2016-06-14T18:22:01Z', 'closed_at': '2017-01-12T20:49:03Z', 'labels': {'name': 'issue: feature request'}}
+{'issuenumber': 1210, 'title': 'Error: DSA_SIG_set0 does not have a number assigned', 'state': 'closed', 'created_at': '2016-06-13T23:54:24Z', 'closed_at': '2016-06-14T00:56:20Z', 'labels': []}
+{'issuenumber': 1205, 'title': 'openssl-1.1.0-pre5 coredumped', 'state': 'closed', 'created_at': '2016-06-13T09:57:50Z', 'closed_at': '2016-06-23T11:39:33Z', 'labels': []}
+{'issuenumber': 1202, 'title': 'Choosing the appropriate hashbang line for installed perl scripts', 'state': 'closed', 'created_at': '2016-06-10T12:59:31Z', 'closed_at': '2016-07-04T15:51:21Z', 'labels': []}
+{'issuenumber': 1199, 'title': '1.1.0-pre5 generates problematic Perl scripts on OS X.', 'state': 'closed', 'created_at': '2016-06-10T01:49:12Z', 'closed_at': '2016-07-04T15:50:48Z', 'labels': []}
+{'issuenumber': 1191, 'title': 'Link issue in docs', 'state': 'closed', 'created_at': '2016-06-08T06:40:46Z', 'closed_at': '2017-01-12T20:55:51Z', 'labels': []}
+{'issuenumber': 1190, 'title': '1.0.1t-1+deb8u2 causing compilation failures "error: ‘SSLv2_method’ redeclared as different kind of symbol"', 'state': 'closed', 'created_at': '2016-06-08T01:33:12Z', 'closed_at': '2016-06-09T12:50:57Z', 'labels': []}
+{'issuenumber': 1183, 'title': 's_client silently overrides -unix when -connect is present.', 'state': 'closed', 'created_at': '2016-06-07T14:29:11Z', 'closed_at': '2016-06-10T20:36:52Z', 'labels': []}
+{'issuenumber': 1181, 'title': 'Malformed code because of missing brace', 'state': 'closed', 'created_at': '2016-06-07T10:48:43Z', 'closed_at': '2016-06-07T15:10:01Z', 'labels': []}
+{'issuenumber': 1180, 'title': 'DES_string_to_*() too wide variable scope', 'state': 'closed', 'created_at': '2016-06-07T07:56:43Z', 'closed_at': '2016-06-07T15:09:53Z', 'labels': []}
+{'issuenumber': 1178, 'title': 'internal functions in .num files', 'state': 'closed', 'created_at': '2016-06-06T17:01:19Z', 'closed_at': '2018-01-10T22:35:14Z', 'labels': []}
+{'issuenumber': 1176, 'title': 'openssl-1.0.2-stable failed building on windows', 'state': 'closed', 'created_at': '2016-06-06T10:41:42Z', 'closed_at': '2016-06-08T10:37:14Z', 'labels': []}
+{'issuenumber': 1158, 'title': 'Missing accessors in ssl struct', 'state': 'closed', 'created_at': '2016-06-03T12:18:28Z', 'closed_at': '2016-06-03T13:30:53Z', 'labels': []}
+{'issuenumber': 1157, 'title': 'compile problem in current trunk', 'state': 'closed', 'created_at': '2016-06-03T11:58:50Z', 'closed_at': '2016-07-08T10:47:22Z', 'labels': []}
+{'issuenumber': 1153, 'title': 'Current trunk version fails to compile on Windows', 'state': 'closed', 'created_at': '2016-06-02T08:01:08Z', 'closed_at': '2016-06-02T10:53:05Z', 'labels': []}
+{'issuenumber': 1152, 'title': 'Get md from HMAC_CTX', 'state': 'closed', 'created_at': '2016-06-02T07:53:58Z', 'closed_at': '2016-06-24T12:33:36Z', 'labels': []}
+{'issuenumber': 1150, 'title': 'add ICC support on Windows [post 1.1.0]', 'state': 'closed', 'created_at': '2016-06-01T19:11:30Z', 'closed_at': '2018-03-10T16:01:00Z', 'labels': {'name': 'issue: feature request'}}
+{'issuenumber': 1144, 'title': '`make test` failures for OpenSSL-1.1.0-dev builds using Mingw-w64', 'state': 'closed', 'created_at': '2016-05-30T09:10:05Z', 'closed_at': '2016-06-16T15:38:25Z', 'labels': []}
+{'issuenumber': 1143, 'title': 'make[1]: *** [objs/src/event/ngx_event_openssl.o] Error 1 (nginx 1.6 + openssl 1.1.0)', 'state': 'closed', 'created_at': '2016-05-30T03:20:04Z', 'closed_at': '2016-05-30T03:48:25Z', 'labels': []}
+{'issuenumber': 1138, 'title': 'Windows: Ignore auto generated files', 'state': 'closed', 'created_at': '2016-05-27T18:21:59Z', 'closed_at': '2016-06-08T12:56:35Z', 'labels': []}
+{'issuenumber': 1124, 'title': 'Cannot compile current trunk version on linux for windows with mingw', 'state': 'closed', 'created_at': '2016-05-25T07:03:04Z', 'closed_at': '2016-06-08T10:44:57Z', 'labels': []}
+{'issuenumber': 1121, 'title': 'OCSP server crash with simple browser', 'state': 'closed', 'created_at': '2016-05-24T16:23:24Z', 'closed_at': '2016-05-24T16:24:50Z', 'labels': []}
+{'issuenumber': 1119, 'title': 'SSL_Connect access violation', 'state': 'closed', 'created_at': '2016-05-24T14:35:17Z', 'closed_at': '2016-05-31T21:28:34Z', 'labels': []}
+{'issuenumber': 1116, 'title': 'Skein 1024 for certificates', 'state': 'closed', 'created_at': '2016-05-24T12:28:18Z', 'closed_at': '2018-01-10T22:42:49Z', 'labels': {'name': 'issue: feature request'}}
+{'issuenumber': 1108, 'title': 'Unable to require openssl, install OpenSSL and rebuild ruby (preferred) or use non-HTTPS sources', 'state': 'closed', 'created_at': '2016-05-22T06:40:48Z', 'closed_at': '2016-05-22T12:36:06Z', 'labels': []}
+{'issuenumber': 1105, 'title': 'inconsistencies in OpenSSL-1.1.0 builds using Mingw-w64 and MSVC', 'state': 'closed', 'created_at': '2016-05-21T04:44:49Z', 'closed_at': '2016-05-24T13:36:17Z', 'labels': []}
+{'issuenumber': 1102, 'title': 'OOB read and leak in b_print.c fmtfp()', 'state': 'closed', 'created_at': '2016-05-20T21:34:59Z', 'closed_at': '2016-05-27T09:34:10Z', 'labels': []}
+{'issuenumber': 1101, 'title': 'Invalid read in fmtstr() with precision and non-terminated string', 'state': 'closed', 'created_at': '2016-05-20T19:01:01Z', 'closed_at': '2016-05-27T15:49:52Z', 'labels': []}
+{'issuenumber': 1099, 'title': 'Support X.509 version change', 'state': 'closed', 'created_at': '2016-05-20T08:31:46Z', 'closed_at': '2018-01-10T21:36:36Z', 'labels': {'name': 'issue: feature request'}}
+{'issuenumber': 1097, 'title': 'macro SSL_IS_DTLS(s) not part of public api', 'state': 'closed', 'created_at': '2016-05-19T08:58:40Z', 'closed_at': '2016-06-08T15:39:20Z', 'labels': []}
+{'issuenumber': 1096, 'title': 'Please provide SSL  from ssl_locl.h constants in public api', 'state': 'closed', 'created_at': '2016-05-19T08:55:54Z', 'closed_at': '2016-05-24T17:41:31Z', 'labels': []}
+{'issuenumber': 1093, 'title': 'X509_NAME already defined in wincrypt.h', 'state': 'closed', 'created_at': '2016-05-18T15:56:45Z', 'closed_at': '2016-05-25T13:15:35Z', 'labels': []}
+{'issuenumber': 1092, 'title': 'MIssing some accessors in new api', 'state': 'closed', 'created_at': '2016-05-18T15:53:42Z', 'closed_at': '2016-05-25T12:47:46Z', 'labels': []}
+{'issuenumber': 1091, 'title': 'How to get the local cert chain with new opaque api?', 'state': 'closed', 'created_at': '2016-05-18T15:48:03Z', 'closed_at': '2016-06-01T16:03:18Z', 'labels': []}
+{'issuenumber': 1089, 'title': 'getting basic constraints with new opaque api provided with v1.1.0', 'state': 'closed', 'created_at': '2016-05-18T15:34:35Z', 'closed_at': '2016-06-09T17:03:18Z', 'labels': []}
+{'issuenumber': 1088, 'title': 'openssl compile option "enable-crypto-mdebug"', 'state': 'closed', 'created_at': '2016-05-18T15:33:51Z', 'closed_at': '2016-05-18T15:34:06Z', 'labels': []}
+{'issuenumber': 1087, 'title': 'openssl compile option "enable-crypto-mdebug"', 'state': 'closed', 'created_at': '2016-05-18T15:32:46Z', 'closed_at': '2016-05-25T19:20:49Z', 'labels': []}
+{'issuenumber': 1086, 'title': 'OpenSSL on Win10 x64 fails to build', 'state': 'closed', 'created_at': '2016-05-18T03:35:49Z', 'closed_at': '2016-05-20T22:20:15Z', 'labels': []}
+{'issuenumber': 1085, 'title': 'Quotes needed in windows makefile', 'state': 'closed', 'created_at': '2016-05-18T02:43:12Z', 'closed_at': '2016-05-27T17:15:56Z', 'labels': []}
+{'issuenumber': 1082, 'title': 'ssl3_get_server_certificate has memory leak', 'state': 'closed', 'created_at': '2016-05-17T11:00:01Z', 'closed_at': '2016-08-26T12:52:52Z', 'labels': []}
+{'issuenumber': 1072, 'title': 'minor flaws in OpenSSL-1.1.0 build system [MSVC]', 'state': 'closed', 'created_at': '2016-05-15T15:07:26Z', 'closed_at': '2016-05-20T14:23:37Z', 'labels': []}
+{'issuenumber': 1071, 'title': 'RSA problem', 'state': 'closed', 'created_at': '2016-05-15T14:16:19Z', 'closed_at': '2016-08-10T16:40:14Z', 'labels': []}
+{'issuenumber': 1061, 'title': 'Link errors in 1.1 Windows static build: unresolved external symbol __imp_CertOpenStore', 'state': 'closed', 'created_at': '2016-05-12T20:20:20Z', 'closed_at': '2016-05-16T19:57:50Z', 'labels': []}
+{'issuenumber': 1047, 'title': 'util/perlpath.pl calls deprecated File::Find module', 'state': 'closed', 'created_at': '2016-05-09T19:56:06Z', 'closed_at': '2017-01-12T21:05:40Z', 'labels': []}
+{'issuenumber': 1041, 'title': 'PRNG requirement - file descriptors', 'state': 'closed', 'created_at': '2016-05-09T16:24:51Z', 'closed_at': '2017-08-16T14:41:02Z', 'labels': {'name': 'issue: feature request'}}
+{'issuenumber': 1037, 'title': 'OpenSSL 1.0.2h gcc-arm 4.8 fails to build', 'state': 'closed', 'created_at': '2016-05-09T09:43:00Z', 'closed_at': '2017-12-28T17:41:47Z', 'labels': []}
+{'issuenumber': 1036, 'title': 'Why did ERR_remove_thread_state() change signature in 1.1.0-pre*?', 'state': 'closed', 'created_at': '2016-05-07T20:22:16Z', 'closed_at': '2016-05-08T01:00:53Z', 'labels': []}
+{'issuenumber': 1026, 'title': "make fails in 1.0.2h for 'no-rc4'", 'state': 'closed', 'created_at': '2016-05-04T16:49:41Z', 'closed_at': '2016-05-05T07:57:01Z', 'labels': []}
+{'issuenumber': 1011, 'title': 'how to use rsa_ossl_public_encrypt() function in openssl-1.1.0-pre5 build.', 'state': 'closed', 'created_at': '2016-04-29T11:22:16Z', 'closed_at': '2016-04-29T12:03:41Z', 'labels': []}
+{'issuenumber': 1010, 'title': 'there is a core dump in openss 1.0.1 e', 'state': 'closed', 'created_at': '2016-04-29T02:10:29Z', 'closed_at': '2016-05-06T11:41:29Z', 'labels': []}
+{'issuenumber': 1003, 'title': 'Windows test in AppVeyor builds are break.', 'state': 'closed', 'created_at': '2016-04-27T22:42:48Z', 'closed_at': '2016-04-28T12:04:48Z', 'labels': []}
+{'issuenumber': 1002, 'title': 'Building OpenSSL in Visual Studio?', 'state': 'closed', 'created_at': '2016-04-27T19:23:16Z', 'closed_at': '2016-05-04T09:30:50Z', 'labels': []}
+{'issuenumber': 1001, 'title': 'openssl-1.1.0-pre5   OCSP_SINGLERESP_add1_ext_i2d  add SCT data error', 'state': 'closed', 'created_at': '2016-04-27T06:34:14Z', 'closed_at': '2016-06-07T19:26:45Z', 'labels': []}
+{'issuenumber': 993, 'title': 'Unable parse TSA token', 'state': 'closed', 'created_at': '2016-04-24T08:18:25Z', 'closed_at': '2016-05-04T13:29:31Z', 'labels': []}
+{'issuenumber': 992, 'title': 'Example server code does not work (short data is never received, long data is)', 'state': 'closed', 'created_at': '2016-04-24T07:56:31Z', 'closed_at': '2016-04-26T05:08:46Z', 'labels': []}
+{'issuenumber': 988, 'title': 'error: undefined reference while giving NDK build for application using openssl library', 'state': 'closed', 'created_at': '2016-04-21T09:56:54Z', 'closed_at': '2016-05-16T19:48:45Z', 'labels': []}
+{'issuenumber': 978, 'title': 'I need a replacement for SSL.', 'state': 'closed', 'created_at': '2016-04-19T15:45:56Z', 'closed_at': '2016-04-19T15:55:21Z', 'labels': []}
+{'issuenumber': 977, 'title': "hmac engine does not allow to 'enginize' key operations", 'state': 'closed', 'created_at': '2016-04-19T12:00:35Z', 'closed_at': '2021-05-03T14:01:50Z', 'labels': {'name': 'issue: feature request'}}
+{'issuenumber': 976, 'title': 'openssl-1.1.0-pre4 cross compilation failed', 'state': 'closed', 'created_at': '2016-04-19T09:51:18Z', 'closed_at': '2016-04-29T11:23:49Z', 'labels': []}
+{'issuenumber': 973, 'title': 'Add ASN.1 extension. Unsupported?', 'state': 'closed', 'created_at': '2016-04-18T16:20:44Z', 'closed_at': '2016-04-19T15:55:53Z', 'labels': []}
+{'issuenumber': 971, 'title': 'Libraries porting to Windows IoT Core (mincore)', 'state': 'closed', 'created_at': '2016-04-18T12:10:32Z', 'closed_at': '2018-04-06T09:43:28Z', 'labels': {'name': 'issue: feature request'}}
+{'issuenumber': 968, 'title': '[Not openssl program] Mailing list "openssl-users" not working…', 'state': 'closed', 'created_at': '2016-04-16T18:10:35Z', 'closed_at': '2016-04-17T09:23:43Z', 'labels': []}
+{'issuenumber': 967, 'title': 'Fail to compile on Windows x64 MSVC 2015: error in crypto\\chacha\\chacha-x86_64.asm', 'state': 'closed', 'created_at': '2016-04-16T13:30:36Z', 'closed_at': '2016-04-20T08:37:26Z', 'labels': []}
+{'issuenumber': 966, 'title': ' Logotype extensions not working', 'state': 'closed', 'created_at': '2016-04-15T13:02:20Z', 'closed_at': '2016-04-15T16:54:26Z', 'labels': []}
+{'issuenumber': 963, 'title': 'TLS 1.3 support', 'state': 'closed', 'created_at': '2016-04-13T13:11:27Z', 'closed_at': '2017-03-01T12:57:58Z', 'labels': {'name': 'issue: feature request'}}
+{'issuenumber': 962, 'title': 'evp_cipher_ctx_st definition not installing', 'state': 'closed', 'created_at': '2016-04-12T08:03:03Z', 'closed_at': '2016-04-12T08:45:07Z', 'labels': []}
+{'issuenumber': 959, 'title': 'Missing symbolic link from "include/openssl/idea.h"', 'state': 'closed', 'created_at': '2016-04-11T09:56:27Z', 'closed_at': '2016-04-11T12:50:55Z', 'labels': []}
+{'issuenumber': 958, 'title': "What's the syntax of `Remove compiler optimisation flags`?", 'state': 'closed', 'created_at': '2016-04-10T09:38:22Z', 'closed_at': '2016-04-19T15:56:47Z', 'labels': []}
+{'issuenumber': 956, 'title': 'How to `Remove ASM versions of libraries` and `Remove compiler optimisation flags`?', 'state': 'closed', 'created_at': '2016-04-09T16:39:00Z', 'closed_at': '2016-04-09T21:41:02Z', 'labels': []}
+{'issuenumber': 955, 'title': '[Feature Request] Implement Maximum Fragment Length TLS extension', 'state': 'closed', 'created_at': '2016-04-08T17:20:24Z', 'closed_at': '2018-01-10T20:31:01Z', 'labels': {'name': 'issue: feature request'}}
+{'issuenumber': 954, 'title': 'Cannot use GCM', 'state': 'closed', 'created_at': '2016-04-08T13:49:27Z', 'closed_at': '2016-04-08T13:56:24Z', 'labels': []}
+{'issuenumber': 948, 'title': 'Failed to cross compile for android64-aarch64', 'state': 'closed', 'created_at': '2016-04-06T14:17:04Z', 'closed_at': '2016-05-17T08:43:37Z', 'labels': []}
+{'issuenumber': 947, 'title': 'No .PDB available in static Windows builds', 'state': 'closed', 'created_at': '2016-04-06T12:25:47Z', 'closed_at': '2016-05-12T20:21:57Z', 'labels': []}
+{'issuenumber': 937, 'title': 'Error in unix-Makefile.tmpl', 'state': 'closed', 'created_at': '2016-04-02T14:14:39Z', 'closed_at': '2016-04-19T15:57:03Z', 'labels': []}
+{'issuenumber': 935, 'title': "compiling openssl-1.0.2g with 'no-tls' option (disable TLS-1.0, like no-ssl2, no-ssl3 options) failed", 'state': 'closed', 'created_at': '2016-04-01T02:09:49Z', 'closed_at': '2016-08-26T12:42:25Z', 'labels': []}
+{'issuenumber': 930, 'title': 'Seeing issues with building openssl 1.0.2.g on Windows32', 'state': 'closed', 'created_at': '2016-03-31T01:41:34Z', 'closed_at': '2016-03-31T06:22:28Z', 'labels': []}
+{'issuenumber': 929, 'title': 'SSL_export_keying_material - TLS1.2 supported?', 'state': 'closed', 'created_at': '2016-03-30T16:57:13Z', 'closed_at': '2016-03-30T17:01:23Z', 'labels': []}
+{'issuenumber': 920, 'title': 'Completion of error handling', 'state': 'closed', 'created_at': '2016-03-28T11:00:18Z', 'closed_at': '2016-06-08T15:45:46Z', 'labels': []}
+{'issuenumber': 919, 'title': 'reserved identifier violation', 'state': 'closed', 'created_at': '2016-03-28T09:49:50Z', 'closed_at': '2016-05-24T15:06:17Z', 'labels': []}
+{'issuenumber': 916, 'title': 'Unable to compile OpenSSL with PGI compilers', 'state': 'closed', 'created_at': '2016-03-24T21:20:33Z', 'closed_at': '2016-05-16T20:08:01Z', 'labels': []}
+{'issuenumber': 912, 'title': "undefined reference to `engine_load_afalg_internal'", 'state': 'closed', 'created_at': '2016-03-22T20:16:35Z', 'closed_at': '2016-04-14T11:03:37Z', 'labels': []}
+{'issuenumber': 908, 'title': 'undefined symbol: SSL_SESSION_hash ', 'state': 'closed', 'created_at': '2016-03-22T06:06:23Z', 'closed_at': '2016-03-25T08:24:35Z', 'labels': []}
+{'issuenumber': 907, 'title': 'Build break: no-sock', 'state': 'closed', 'created_at': '2016-03-21T18:28:44Z', 'closed_at': '2016-04-20T13:56:27Z', 'labels': []}
+{'issuenumber': 906, 'title': 'Build break: no-dgram', 'state': 'closed', 'created_at': '2016-03-21T18:08:03Z', 'closed_at': '2016-04-20T13:56:50Z', 'labels': []}
+{'issuenumber': 905, 'title': 'openssl silently fails to create privateKey when PEM pass phrase not provided', 'state': 'closed', 'created_at': '2016-03-21T17:33:24Z', 'closed_at': '2016-05-16T20:10:26Z', 'labels': []}
+{'issuenumber': 903, 'title': 'Windows: Use same shared lib target name for both platforms', 'state': 'closed', 'created_at': '2016-03-21T16:55:04Z', 'closed_at': '2016-05-16T20:13:33Z', 'labels': []}
+{'issuenumber': 900, 'title': 'Build break: no-ocsp', 'state': 'closed', 'created_at': '2016-03-21T13:29:22Z', 'closed_at': '2016-04-21T16:05:28Z', 'labels': []}
+{'issuenumber': 899, 'title': 'Build break: no-ui', 'state': 'closed', 'created_at': '2016-03-21T13:28:09Z', 'closed_at': '2016-04-20T15:53:58Z', 'labels': []}
+{'issuenumber': 898, 'title': 'Make RAND_bytes a transparent wrapper for /dev/urandom', 'state': 'closed', 'created_at': '2016-03-20T19:00:34Z', 'closed_at': '2017-08-16T14:44:26Z', 'labels': {'name': 'issue: feature request'}}
+{'issuenumber': 895, 'title': 'Wrong constraint in assembler code', 'state': 'closed', 'created_at': '2016-03-19T13:11:21Z', 'closed_at': '2016-09-10T17:44:46Z', 'labels': []}
+{'issuenumber': 894, 'title': 'openssl 1.1.0 beta 1 make rehash not working', 'state': 'closed', 'created_at': '2016-03-19T09:35:38Z', 'closed_at': '2016-03-19T09:49:12Z', 'labels': []}
+{'issuenumber': 893, 'title': 'VC_WIN32 Build fail on Win XP x86, VC2010, OpenSSL v1.1.0-pre5-dev', 'state': 'closed', 'created_at': '2016-03-18T18:48:41Z', 'closed_at': '2016-03-18T18:52:04Z', 'labels': []}
+{'issuenumber': 890, 'title': 'Build error of AFALG engine on linux-armv4', 'state': 'closed', 'created_at': '2016-03-17T05:57:53Z', 'closed_at': '2016-04-14T11:03:05Z', 'labels': []}
+{'issuenumber': 889, 'title': 'OCSP utility requires issuer bundle to be in leaf-first order', 'state': 'closed', 'created_at': '2016-03-16T21:26:26Z', 'closed_at': '2017-01-12T19:56:27Z', 'labels': []}
+{'issuenumber': 888, 'title': '1.1.0-pre4 compile error on FreeBSD 10.3', 'state': 'closed', 'created_at': '2016-03-16T20:11:24Z', 'closed_at': '2016-03-17T09:24:46Z', 'labels': []}
+{'issuenumber': 886, 'title': 'HTTP Connect request failes when using -proxy, missing parameter', 'state': 'closed', 'created_at': '2016-03-16T14:33:22Z', 'closed_at': '2016-03-20T23:42:09Z', 'labels': []}
+{'issuenumber': 883, 'title': '0.9.8 - 1.0.0 DER format breaking change', 'state': 'closed', 'created_at': '2016-03-16T13:25:24Z', 'closed_at': '2016-03-16T14:29:04Z', 'labels': []}
+{'issuenumber': 863, 'title': 'ia64cpuid.S is removed by make clean on MacOS', 'state': 'closed', 'created_at': '2016-03-14T10:05:23Z', 'closed_at': '2016-06-08T12:02:17Z', 'labels': []}
+{'issuenumber': 862, 'title': 'Backward compatibility: SSLeay function is gone', 'state': 'closed', 'created_at': '2016-03-14T09:38:44Z', 'closed_at': '2016-03-14T20:24:56Z', 'labels': []}
+{'issuenumber': 861, 'title': 'copy parameter `file` of CRYPTO_mem_debug_* functions ?', 'state': 'closed', 'created_at': '2016-03-14T03:10:46Z', 'closed_at': '2016-03-14T20:01:29Z', 'labels': []}
+{'issuenumber': 849, 'title': 'Incorrectly formatted sha256-sum for sha256sum program', 'state': 'closed', 'created_at': '2016-03-11T14:25:40Z', 'closed_at': '2016-03-11T15:15:51Z', 'labels': []}
+{'issuenumber': 830, 'title': 'capi_ctx_set_provname() fails to check strdup() return value', 'state': 'closed', 'created_at': '2016-03-09T11:11:39Z', 'closed_at': '2016-05-18T09:49:35Z', 'labels': []}
+{'issuenumber': 828, 'title': "PHP Startup: Unable to load dynamic library php_curl.dll ' - Das angegebene Modul wurde nicht gefunden.  in Unknown on line 0.", 'state': 'closed', 'created_at': '2016-03-09T04:44:37Z', 'closed_at': '2016-03-09T18:14:03Z', 'labels': []}
+{'issuenumber': 827, 'title': 'Build break: no-engine', 'state': 'closed', 'created_at': '2016-03-09T02:01:10Z', 'closed_at': '2016-03-21T13:27:10Z', 'labels': []}
+{'issuenumber': 817, 'title': 'BIO_accept() fails to detect memory allocation', 'state': 'closed', 'created_at': '2016-03-08T08:29:49Z', 'closed_at': '2016-05-04T12:45:33Z', 'labels': []}
+{'issuenumber': 806, 'title': '1.0.1s makes porting to HP-UX much harder than before', 'state': 'closed', 'created_at': '2016-03-07T16:57:15Z', 'closed_at': '2016-06-20T16:39:14Z', 'labels': []}
+{'issuenumber': 801, 'title': 'update demo source code to align with best practice', 'state': 'closed', 'created_at': '2016-03-07T10:37:19Z', 'closed_at': '2016-05-16T20:18:47Z', 'labels': []}
+{'issuenumber': 796, 'title': 'ssl_method_st referenced before definition in ssl.h', 'state': 'closed', 'created_at': '2016-03-05T21:23:31Z', 'closed_at': '2016-03-07T15:08:00Z', 'labels': []}
+{'issuenumber': 793, 'title': 'Insecure Scrypt parameters', 'state': 'closed', 'created_at': '2016-03-04T22:40:51Z', 'closed_at': '2016-03-05T16:07:36Z', 'labels': []}
+{'issuenumber': 788, 'title': 'curve25519.c:67:1: error: initializer element is not constant  static const int64_t kTop39Bits = ~kBottom25Bits;  ^', 'state': 'closed', 'created_at': '2016-03-04T15:55:58Z', 'closed_at': '2016-03-05T16:10:15Z', 'labels': []}
+{'issuenumber': 786, 'title': 'make test failed in case of usign fips', 'state': 'closed', 'created_at': '2016-03-04T12:21:29Z', 'closed_at': '2016-05-05T07:36:58Z', 'labels': []}
+{'issuenumber': 778, 'title': 'link_app makefile target broken on gcc-4.8 ARM', 'state': 'closed', 'created_at': '2016-03-02T17:23:13Z', 'closed_at': '2018-01-10T16:08:00Z', 'labels': []}
+{'issuenumber': 774, 'title': 'Unknown OpenSSL error', 'state': 'closed', 'created_at': '2016-03-01T23:16:57Z', 'closed_at': '2016-05-16T20:20:51Z', 'labels': []}
+{'issuenumber': 770, 'title': 'make depend strangeness', 'state': 'closed', 'created_at': '2016-03-01T15:40:53Z', 'closed_at': '2016-03-03T16:00:58Z', 'labels': []}
+{'issuenumber': 765, 'title': 'Removal of references to s3_clnt.c and s3_srvr.c', 'state': 'closed', 'created_at': '2016-02-29T17:29:23Z', 'closed_at': '2016-05-17T13:36:30Z', 'labels': []}
+{'issuenumber': 750, 'title': '1.1.0-pre --unified builds (mingw*) take 35-40% longer with double the log output', 'state': 'closed', 'created_at': '2016-02-26T13:15:01Z', 'closed_at': '2016-02-28T00:17:47Z', 'labels': []}
+{'issuenumber': 749, 'title': 'Missing tags for latest release 1.0.2g', 'state': 'closed', 'created_at': '2016-02-26T11:31:31Z', 'closed_at': '2016-02-26T11:38:39Z', 'labels': []}
+{'issuenumber': 746, 'title': 'Overquoted cc/gcc/cl arguments', 'state': 'closed', 'created_at': '2016-02-25T20:11:28Z', 'closed_at': '2016-02-25T20:39:37Z', 'labels': []}
+{'issuenumber': 744, 'title': 'Unable to compile libcrypt with shared flags', 'state': 'closed', 'created_at': '2016-02-25T19:15:59Z', 'closed_at': '2016-02-25T22:36:43Z', 'labels': []}
+{'issuenumber': 727, 'title': 'openssl-1.1 lost the ability to find engine(s)', 'state': 'closed', 'created_at': '2016-02-22T15:51:48Z', 'closed_at': '2016-02-22T16:18:06Z', 'labels': []}
+{'issuenumber': 726, 'title': 'Has DTLSv1.2 finished?', 'state': 'closed', 'created_at': '2016-02-22T03:37:08Z', 'closed_at': '2016-02-22T04:02:14Z', 'labels': []}
+{'issuenumber': 722, 'title': 'enc: why is the salt prepended to the encrypted output file?', 'state': 'closed', 'created_at': '2016-02-21T15:35:28Z', 'closed_at': '2016-02-21T17:08:41Z', 'labels': []}
+{'issuenumber': 721, 'title': 'enc.pod: duplicate explainations about -salt and -nosalt since commit e5fa864', 'state': 'closed', 'created_at': '2016-02-21T14:53:32Z', 'closed_at': '2016-02-22T16:25:24Z', 'labels': []}
+{'issuenumber': 719, 'title': 'Using SSL_CTX_use_serverinfo_file() with multiple certs can lead to unexpected handshake failure', 'state': 'closed', 'created_at': '2016-02-21T01:58:17Z', 'closed_at': '2016-05-16T20:23:08Z', 'labels': []}
+{'issuenumber': 718, 'title': "MSYS2/MingW32 and DSO, what's the right choice?", 'state': 'closed', 'created_at': '2016-02-20T17:02:19Z', 'closed_at': '2016-02-20T17:42:54Z', 'labels': []}
+{'issuenumber': 715, 'title': 'Call of ENGINE_finish() with NULL is not permitted.', 'state': 'closed', 'created_at': '2016-02-20T08:59:42Z', 'closed_at': '2016-02-25T20:24:39Z', 'labels': []}
+{'issuenumber': 711, 'title': 'mingw after refactor-build: misc issues, part II', 'state': 'closed', 'created_at': '2016-02-19T11:23:29Z', 'closed_at': '2016-02-19T14:56:37Z', 'labels': []}
+{'issuenumber': 710, 'title': 'SSL_shutdown:shutdown while in init (1.0.2f)', 'state': 'closed', 'created_at': '2016-02-19T08:14:16Z', 'closed_at': '2016-02-19T09:55:27Z', 'labels': []}
+{'issuenumber': 708, 'title': 'Poly1305 error with asm on linux-armv4', 'state': 'closed', 'created_at': '2016-02-18T16:42:17Z', 'closed_at': '2016-02-24T08:10:37Z', 'labels': []}
+{'issuenumber': 707, 'title': 'Build break: no-async', 'state': 'closed', 'created_at': '2016-02-18T16:09:32Z', 'closed_at': '2016-02-22T17:05:24Z', 'labels': []}
+{'issuenumber': 704, 'title': 'Some __FILE__/__LINE__ macros remain when building with new `no-filenames` option', 'state': 'closed', 'created_at': '2016-02-18T02:04:28Z', 'closed_at': '2016-02-19T14:16:09Z', 'labels': []}
+{'issuenumber': 691, 'title': 'Mismatching curly braces', 'state': 'closed', 'created_at': '2016-02-17T07:54:32Z', 'closed_at': '2016-02-17T12:08:47Z', 'labels': []}
+{'issuenumber': 685, 'title': 'Windows build: missing exports', 'state': 'closed', 'created_at': '2016-02-15T15:29:26Z', 'closed_at': '2016-02-15T15:31:23Z', 'labels': []}
+{'issuenumber': 684, 'title': 'build break: no-deprecated breaks for Windows build', 'state': 'closed', 'created_at': '2016-02-15T15:07:09Z', 'closed_at': '2016-02-15T15:25:37Z', 'labels': []}
+{'issuenumber': 674, 'title': 'C compiler warning: return makes integer from pointer without a cast', 'state': 'closed', 'created_at': '2016-02-13T17:36:06Z', 'closed_at': '2016-02-15T09:24:44Z', 'labels': []}
+{'issuenumber': 673, 'title': "C compiler warning: 'ssl3_ciphers' redeclared without dllimport attribute: previous dllimport ignored", 'state': 'closed', 'created_at': '2016-02-13T17:25:44Z', 'closed_at': '2016-02-15T00:51:42Z', 'labels': []}
+{'issuenumber': 670, 'title': 'BIO_printf() doesn\'t handle "%I64u" format', 'state': 'closed', 'created_at': '2016-02-13T10:46:10Z', 'closed_at': '2016-05-20T13:36:37Z', 'labels': []}
+{'issuenumber': 667, 'title': "undefined reference to `OPENSSL_UplinkTable'", 'state': 'closed', 'created_at': '2016-02-12T14:51:06Z', 'closed_at': '2016-02-13T14:00:12Z', 'labels': []}
+{'issuenumber': 661, 'title': 'Plans for GCM?', 'state': 'closed', 'created_at': '2016-02-11T22:48:38Z', 'closed_at': '2016-02-12T03:26:32Z', 'labels': []}
+{'issuenumber': 660, 'title': 'OpenSSL barfs on critical crlDistributionPoint extensions that are critical', 'state': 'closed', 'created_at': '2016-02-11T21:05:17Z', 'closed_at': '2016-08-26T17:19:30Z', 'labels': []}
+{'issuenumber': 659, 'title': 'Undefined symbols for Poly1305 (link fails)', 'state': 'closed', 'created_at': '2016-02-11T18:33:12Z', 'closed_at': '2016-02-11T22:04:51Z', 'labels': []}
+{'issuenumber': 658, 'title': 'Error in cipher list', 'state': 'closed', 'created_at': '2016-02-11T18:19:31Z', 'closed_at': '2016-02-24T21:58:17Z', 'labels': []}
+{'issuenumber': 657, 'title': './Configure ... --unified  -  build fails', 'state': 'closed', 'created_at': '2016-02-11T18:19:14Z', 'closed_at': '2016-02-12T16:56:30Z', 'labels': []}
+{'issuenumber': 656, 'title': 'X509_NAME_oneline() contains repeated comparison', 'state': 'closed', 'created_at': '2016-02-11T08:49:37Z', 'closed_at': '2016-05-17T13:32:38Z', 'labels': []}
+{'issuenumber': 654, 'title': 'Uninitalization considered harmful', 'state': 'closed', 'created_at': '2016-02-10T21:50:15Z', 'closed_at': '2016-05-31T21:23:35Z', 'labels': []}
+{'issuenumber': 653, 'title': 'pthread_key_create() and unloading via dlclose() probably mutually incompatible', 'state': 'closed', 'created_at': '2016-02-10T21:34:12Z', 'closed_at': '2016-06-07T12:45:52Z', 'labels': []}
+{'issuenumber': 651, 'title': 'Current build fails on "make depend"', 'state': 'closed', 'created_at': '2016-02-10T15:15:27Z', 'closed_at': '2016-02-10T17:30:03Z', 'labels': []}
+{'issuenumber': 644, 'title': 'Build broken by pkcs12', 'state': 'closed', 'created_at': '2016-02-08T20:00:03Z', 'closed_at': '2016-02-09T15:17:39Z', 'labels': []}
+{'issuenumber': 641, 'title': 'OPENSSL_zalloc()/OPENSSL_malloc() return value should not be cast', 'state': 'closed', 'created_at': '2016-02-08T13:15:50Z', 'closed_at': '2016-02-08T16:10:29Z', 'labels': []}
+{'issuenumber': 640, 'title': 'SSL_get_async_wait_fd() truncates a handle on 64-bit Windows', 'state': 'closed', 'created_at': '2016-02-08T11:59:20Z', 'closed_at': '2016-05-16T21:51:42Z', 'labels': []}
+{'issuenumber': 625, 'title': 'mingw after refactor-build: misc issues', 'state': 'closed', 'created_at': '2016-02-04T17:55:53Z', 'closed_at': '2016-02-11T17:39:50Z', 'labels': []}
+{'issuenumber': 616, 'title': 'Suspicious, likely dead code in ec_wNAF_mul()', 'state': 'closed', 'created_at': '2016-02-03T11:55:26Z', 'closed_at': '2016-03-05T06:03:17Z', 'labels': []}
+{'issuenumber': 611, 'title': 'unknown option -serverpref in openssl s_client -ssl2', 'state': 'closed', 'created_at': '2016-02-02T16:44:36Z', 'closed_at': '2016-02-02T17:25:44Z', 'labels': []}
+{'issuenumber': 609, 'title': 'openssl-1.1.0-pre2 build failed on mingw cross compiler', 'state': 'closed', 'created_at': '2016-02-02T09:01:34Z', 'closed_at': '2016-02-02T10:12:05Z', 'labels': []}
+{'issuenumber': 607, 'title': 'Openssl v1.0.2e: t1_lib.c: Check for incorrect return value leading to SSL negotiation failure', 'state': 'closed', 'created_at': '2016-02-02T01:01:39Z', 'closed_at': '2016-08-26T12:37:54Z', 'labels': []}
+{'issuenumber': 604, 'title': 'Is this memory leak actually a debugging feature of some sort?', 'state': 'closed', 'created_at': '2016-01-31T07:12:59Z', 'closed_at': '2016-01-31T14:51:24Z', 'labels': []}
+{'issuenumber': 602, 'title': 'OpenSSL 1.0.2f seems to break OpenSMTPD 5.7.3p1 (Portable) in x86 (32-bit) ', 'state': 'closed', 'created_at': '2016-01-30T22:28:07Z', 'closed_at': '2016-02-01T09:56:28Z', 'labels': []}
+{'issuenumber': 600, 'title': 'typo in stable release', 'state': 'closed', 'created_at': '2016-01-30T07:07:26Z', 'closed_at': '2016-02-24T21:39:50Z', 'labels': []}
+{'issuenumber': 595, 'title': '1.0.2f: regression in `BIO_get_conn_int_port()`', 'state': 'closed', 'created_at': '2016-01-28T15:48:42Z', 'closed_at': '2016-01-28T17:05:30Z', 'labels': []}
+{'issuenumber': 594, 'title': "forward declaration of 'X509 in ossl_typ.h", 'state': 'closed', 'created_at': '2016-01-28T10:59:24Z', 'closed_at': '2016-01-28T14:09:02Z', 'labels': []}
+{'issuenumber': 593, 'title': 'Is WINARM support coming?', 'state': 'closed', 'created_at': '2016-01-27T18:11:18Z', 'closed_at': '2016-01-27T18:55:50Z', 'labels': []}
+{'issuenumber': 591, 'title': 'cms -resign produces bad output', 'state': 'closed', 'created_at': '2016-01-27T07:47:32Z', 'closed_at': '2016-06-07T08:39:34Z', 'labels': []}
+{'issuenumber': 586, 'title': 'Windows build failure: can not open “windows.h”: No such file or directory', 'state': 'closed', 'created_at': '2016-01-25T09:09:31Z', 'closed_at': '2016-02-23T21:57:09Z', 'labels': []}
+{'issuenumber': 585, 'title': 'Add support to pass custom flags to `windres` tool', 'state': 'closed', 'created_at': '2016-01-24T10:14:07Z', 'closed_at': '2016-02-06T13:06:55Z', 'labels': []}
+{'issuenumber': 584, 'title': 'openssl ocsp responder', 'state': 'closed', 'created_at': '2016-01-23T17:35:00Z', 'closed_at': '2016-02-24T21:40:18Z', 'labels': []}
+{'issuenumber': 581, 'title': 'no-dgram is broken', 'state': 'closed', 'created_at': '2016-01-22T03:21:26Z', 'closed_at': '2016-02-10T01:12:50Z', 'labels': []}
+{'issuenumber': 574, 'title': 'can "recvmsg(sockfd, &msghdr, 0)" be replaced by openssl func ? ', 'state': 'closed', 'created_at': '2016-01-21T11:54:18Z', 'closed_at': '2016-02-24T21:41:11Z', 'labels': []}
+{'issuenumber': 572, 'title': 'openssl s_client a –verify_host in -h (help) should be  –verify_hostname', 'state': 'closed', 'created_at': '2016-01-20T19:12:47Z', 'closed_at': '2016-01-20T23:53:54Z', 'labels': []}
+{'issuenumber': 568, 'title': 'pkcs7_verify get actual error', 'state': 'closed', 'created_at': '2016-01-19T11:30:22Z', 'closed_at': '2016-02-24T22:00:16Z', 'labels': []}
+{'issuenumber': 567, 'title': 'Add no-async configure option separate from no-threads?', 'state': 'closed', 'created_at': '2016-01-19T02:19:06Z', 'closed_at': '2016-02-24T22:03:22Z', 'labels': []}
+{'issuenumber': 560, 'title': 'INSTALL.WIN configure option `enable-static-engine` appears to be ignored', 'state': 'closed', 'created_at': '2016-01-16T15:24:04Z', 'closed_at': '2016-02-06T13:08:58Z', 'labels': []}
+{'issuenumber': 558, 'title': "warning: attempt to free a non-heap object 'recp' (1.1.0-pre2 with MinGW 5.3.0 LTO)", 'state': 'closed', 'created_at': '2016-01-16T14:19:35Z', 'closed_at': '2016-01-21T14:14:42Z', 'labels': []}
+{'issuenumber': 551, 'title': 'unable to compile 1.1.0-pre2 on rhel6 based systems', 'state': 'closed', 'created_at': '2016-01-14T18:45:44Z', 'closed_at': '2016-01-23T19:05:32Z', 'labels': []}
+{'issuenumber': 549, 'title': 'Fix pkeyutl inability to directly access keys on hardware tokens', 'state': 'closed', 'created_at': '2016-01-14T04:09:44Z', 'closed_at': '2016-02-09T15:57:11Z', 'labels': []}
+{'issuenumber': 543, 'title': 'pkeyutl fails to perform signature over files larger than digest output size', 'state': 'closed', 'created_at': '2016-01-12T23:43:38Z', 'closed_at': '2016-01-13T21:38:55Z', 'labels': []}
+{'issuenumber': 542, 'title': 'mingw: `no-comp` option breaks build (tested with 1.0.2e and 1.1.0-pre1/pre2)', 'state': 'closed', 'created_at': '2016-01-12T04:26:03Z', 'closed_at': '2016-02-03T17:43:27Z', 'labels': []}
+{'issuenumber': 541, 'title': 'Support bracketed equal-preference groups in SSL[_CTX]_set_cipher_list', 'state': 'closed', 'created_at': '2016-01-11T03:55:23Z', 'closed_at': '2018-01-09T22:39:55Z', 'labels': {'name': 'issue: feature request'}}
+{'issuenumber': 537, 'title': 'Configure: no-crypto-mdebug not recognized as valid option', 'state': 'closed', 'created_at': '2016-01-09T22:54:01Z', 'closed_at': '2016-01-10T00:03:13Z', 'labels': []}
+{'issuenumber': 536, 'title': 'Build break: Windows: no-engine', 'state': 'closed', 'created_at': '2016-01-09T21:12:16Z', 'closed_at': '2016-01-16T22:48:03Z', 'labels': []}
+{'issuenumber': 534, 'title': 'c++ compilation failure: missing cast', 'state': 'closed', 'created_at': '2016-01-09T19:20:23Z', 'closed_at': '2016-01-10T00:05:12Z', 'labels': []}
+{'issuenumber': 532, 'title': 'Including openssl headers in c++ fails', 'state': 'closed', 'created_at': '2016-01-09T19:13:54Z', 'closed_at': '2016-01-10T00:06:03Z', 'labels': []}
+{'issuenumber': 530, 'title': 'Windows build failure: missing version in version.rc', 'state': 'closed', 'created_at': '2016-01-09T18:43:52Z', 'closed_at': '2016-01-09T23:11:36Z', 'labels': []}
+{'issuenumber': 524, 'title': 'pkeyutl fails "-derive" when one of the keys is on a hardware token', 'state': 'closed', 'created_at': '2016-01-05T05:19:48Z', 'closed_at': '2016-02-22T15:49:48Z', 'labels': []}
+{'issuenumber': 522, 'title': 'pkeyutl cannot access keys (private or public) on pkcs11 tokens', 'state': 'closed', 'created_at': '2016-01-04T18:50:06Z', 'closed_at': '2016-01-13T04:14:53Z', 'labels': []}
+{'issuenumber': 518, 'title': 'openssl ciphers -V -s   (reports non-supported ciphers)', 'state': 'closed', 'created_at': '2015-12-29T18:49:38Z', 'closed_at': '2016-01-11T23:55:56Z', 'labels': []}
+{'issuenumber': 517, 'title': 'Building issues on OSX 10.11.2', 'state': 'closed', 'created_at': '2015-12-26T22:11:51Z', 'closed_at': '2016-02-24T21:41:44Z', 'labels': []}
+{'issuenumber': 516, 'title': "As server, when we verify client'certs by using local trusted certs, why root cert is needed?", 'state': 'closed', 'created_at': '2015-12-26T08:15:59Z', 'closed_at': '2015-12-28T17:04:53Z', 'labels': []}
+{'issuenumber': 514, 'title': 'Use AES256-CBC-SHA256 for default TLS session ticket key', 'state': 'closed', 'created_at': '2015-12-25T22:22:06Z', 'closed_at': '2016-05-16T20:25:42Z', 'labels': {'name': 'issue: feature request'}}
+{'issuenumber': 513, 'title': "1.1.0-pre1 with mingw x86: undefined reference to `GetCurrentFiber'", 'state': 'closed', 'created_at': '2015-12-23T16:52:54Z', 'closed_at': '2015-12-23T19:23:59Z', 'labels': []}
+{'issuenumber': 508, 'title': 'Compiler error with 1.1.0-pre1 with "no-srp"', 'state': 'closed', 'created_at': '2015-12-14T09:37:52Z', 'closed_at': '2015-12-16T18:43:58Z', 'labels': []}
+{'issuenumber': 502, 'title': 'Typo in CHANGES', 'state': 'closed', 'created_at': '2015-12-10T15:53:15Z', 'closed_at': '2015-12-10T17:02:54Z', 'labels': []}
+{'issuenumber': 500, 'title': 'How to setup in Visual Studio 2013 ', 'state': 'closed', 'created_at': '2015-12-09T12:35:33Z', 'closed_at': '2016-02-23T10:04:55Z', 'labels': []}
+{'issuenumber': 496, 'title': 'Backward compatibility', 'state': 'closed', 'created_at': '2015-12-04T15:38:54Z', 'closed_at': '2015-12-07T15:25:37Z', 'labels': []}
+{'issuenumber': 494, 'title': 'Compile failure on older OS X clang with OpenSSL 1.0.2e', 'state': 'closed', 'created_at': '2015-12-03T23:47:39Z', 'closed_at': '2016-02-12T10:19:06Z', 'labels': []}
+{'issuenumber': 493, 'title': "No rule to make target 'bctest', needed by 'test_bn'", 'state': 'closed', 'created_at': '2015-12-03T18:28:15Z', 'closed_at': '2015-12-03T19:25:55Z', 'labels': []}
+{'issuenumber': 492, 'title': 'Regression: "make depend" now required to build OpenSSL', 'state': 'closed', 'created_at': '2015-12-03T17:45:16Z', 'closed_at': '2016-01-14T18:45:13Z', 'labels': []}
+{'issuenumber': 491, 'title': 'Symbolic links in dist tarball seem broken', 'state': 'closed', 'created_at': '2015-12-03T17:16:12Z', 'closed_at': '2015-12-03T20:06:38Z', 'labels': []}
+{'issuenumber': 490, 'title': './util/pod2mantest missing in 1.0.2e', 'state': 'closed', 'created_at': '2015-12-03T17:01:29Z', 'closed_at': '2015-12-03T19:26:50Z', 'labels': []}
+{'issuenumber': 487, 'title': 'Support for EdDSA (Ed25519 & Ed448)', 'state': 'closed', 'created_at': '2015-12-02T20:15:31Z', 'closed_at': '2018-01-09T22:20:33Z', 'labels': {'name': 'issue: feature request'}}
+{'issuenumber': 486, 'title': 'Install fail OS X El Capitan', 'state': 'closed', 'created_at': '2015-11-26T00:23:34Z', 'closed_at': '2015-11-26T12:13:17Z', 'labels': []}
+{'issuenumber': 485, 'title': 'Test fails on OS X El Capitan', 'state': 'closed', 'created_at': '2015-11-25T23:57:45Z', 'closed_at': '2015-11-26T00:19:20Z', 'labels': []}
+{'issuenumber': 483, 'title': 'bogus colon in Configure line 2', 'state': 'closed', 'created_at': '2015-11-24T13:06:26Z', 'closed_at': '2015-11-24T13:30:49Z', 'labels': []}
+{'issuenumber': 479, 'title': 'How to generate keys with less than 32 bits?', 'state': 'closed', 'created_at': '2015-11-21T10:41:02Z', 'closed_at': '2016-01-10T00:32:23Z', 'labels': []}
+{'issuenumber': 477, 'title': 'Add an easy to use installer for Windows', 'state': 'closed', 'created_at': '2015-11-20T15:47:10Z', 'closed_at': '2015-11-20T15:51:58Z', 'labels': []}
+{'issuenumber': 475, 'title': 'Visual Studio 2015 32-bit does not compile', 'state': 'closed', 'created_at': '2015-11-19T18:16:58Z', 'closed_at': '2015-11-19T19:19:39Z', 'labels': []}
+{'issuenumber': 473, 'title': 'no-rmd160 is broken - fatal error C1189: #error:  RMD160 is disabled.', 'state': 'closed', 'created_at': '2015-11-17T18:27:14Z', 'closed_at': '2016-02-24T21:51:48Z', 'labels': []}
+{'issuenumber': 472, 'title': 'using password protected client side certificate with openssl', 'state': 'closed', 'created_at': '2015-11-16T16:25:24Z', 'closed_at': '2016-02-24T22:01:48Z', 'labels': []}
+{'issuenumber': 471, 'title': 'AEAD support in enc app', 'state': 'closed', 'created_at': '2015-11-14T07:03:54Z', 'closed_at': '2018-01-19T16:26:45Z', 'labels': {'name': 'issue: feature request'}}
+{'issuenumber': 469, 'title': 'would you add interface for Base64?', 'state': 'closed', 'created_at': '2015-11-12T03:55:55Z', 'closed_at': '2015-11-26T06:45:35Z', 'labels': []}
+{'issuenumber': 467, 'title': 'Single interface for reading private/public key', 'state': 'closed', 'created_at': '2015-11-08T13:12:00Z', 'closed_at': '2016-02-24T22:02:23Z', 'labels': []}
+{'issuenumber': 464, 'title': "Why BUF_MEM_grow(_clean) can't make one last try with size 0x7fffffff ?", 'state': 'closed', 'created_at': '2015-11-03T13:30:23Z', 'closed_at': '2016-01-10T00:31:12Z', 'labels': []}
+{'issuenumber': 463, 'title': "Apps doesn't compile if OPENSSL_NO_SOCK or OPENSSL_NO_OCSP are defined", 'state': 'closed', 'created_at': '2015-11-01T14:55:30Z', 'closed_at': '2016-02-25T16:59:13Z', 'labels': []}
+{'issuenumber': 462, 'title': 'MDC2 disabled but mdc2dgst.c and mdc2_one build failed on windows.', 'state': 'closed', 'created_at': '2015-10-30T09:56:42Z', 'closed_at': '2016-08-26T13:58:36Z', 'labels': []}
+{'issuenumber': 461, 'title': 'How to use selected SSL and TLS protocol in a same context?', 'state': 'closed', 'created_at': '2015-10-30T07:26:25Z', 'closed_at': '2015-10-30T08:18:12Z', 'labels': []}
+{'issuenumber': 459, 'title': 'ecp_nistz256-x86_64.asm', 'state': 'closed', 'created_at': '2015-10-29T21:43:01Z', 'closed_at': '2016-01-10T00:37:22Z', 'labels': []}
+{'issuenumber': 453, 'title': 'ImportError: No module named urlgrabber', 'state': 'closed', 'created_at': '2015-10-27T16:02:24Z', 'closed_at': '2015-10-27T16:08:31Z', 'labels': []}
+{'issuenumber': 447, 'title': 'no-srp configure option results in build failure', 'state': 'closed', 'created_at': '2015-10-22T01:53:02Z', 'closed_at': '2016-05-16T21:59:44Z', 'labels': []}
+{'issuenumber': 439, 'title': 'SHA-3 (Keccak) support', 'state': 'closed', 'created_at': '2015-10-12T07:46:54Z', 'closed_at': '2017-08-16T14:39:01Z', 'labels': {'name': 'issue: feature request'}}
+{'issuenumber': 438, 'title': 'Why am I asked to overwrite a MakeFile when compiling?', 'state': 'closed', 'created_at': '2015-10-09T19:21:49Z', 'closed_at': '2015-10-09T19:50:35Z', 'labels': []}
+{'issuenumber': 431, 'title': 'no-ripemd switch forgets to exclude the symbols from the def', 'state': 'closed', 'created_at': '2015-10-07T06:35:26Z', 'closed_at': '2015-10-08T16:16:21Z', 'labels': []}
+{'issuenumber': 426, 'title': 'Implement more default threadid callbacks', 'state': 'closed', 'created_at': '2015-10-05T21:25:27Z', 'closed_at': '2016-01-14T18:52:50Z', 'labels': []}
+{'issuenumber': 419, 'title': 'Wildcard matching on punycode domain is broken', 'state': 'closed', 'created_at': '2015-10-01T18:24:48Z', 'closed_at': '2015-10-01T19:51:27Z', 'labels': []}
+{'issuenumber': 414, 'title': 'OpenSSL 1.0.2d + FIPS 2.0.9: Internal error low level API call to cipher AES forbidden', 'state': 'closed', 'created_at': '2015-09-25T17:06:01Z', 'closed_at': '2016-01-10T00:30:09Z', 'labels': []}
+{'issuenumber': 410, 'title': ' sensible default for RANDFILE for windows users', 'state': 'closed', 'created_at': '2015-09-23T20:01:35Z', 'closed_at': '2016-06-17T16:29:07Z', 'labels': []}
+{'issuenumber': 406, 'title': '`man cms`: inconsistency between -indef and -noindef doco', 'state': 'closed', 'created_at': '2015-09-18T22:03:08Z', 'closed_at': '2016-05-18T08:06:46Z', 'labels': []}
+{'issuenumber': 402, 'title': 'PFS SSL_CTX_set_tmp_dh clarification? (doc bug)', 'state': 'closed', 'created_at': '2015-09-16T20:15:41Z', 'closed_at': '2016-01-10T00:37:02Z', 'labels': []}
+{'issuenumber': 397, 'title': 'CVE-2014-3571 fix cripples reading DTLS handshake packet unless read_ahead is not 0', 'state': 'closed', 'created_at': '2015-09-15T03:44:04Z', 'closed_at': '2015-09-15T08:04:10Z', 'labels': []}
+{'issuenumber': 393, 'title': 'openssl-fips-2.0.10 cannot create incore_macho', 'state': 'closed', 'created_at': '2015-09-09T15:16:45Z', 'closed_at': '2016-08-26T09:12:38Z', 'labels': []}
+{'issuenumber': 387, 'title': 'New vulnerability in TLS protocol?', 'state': 'closed', 'created_at': '2015-09-03T10:25:21Z', 'closed_at': '2016-01-10T00:35:56Z', 'labels': []}
+{'issuenumber': 385, 'title': 'What is the difference between PKCS12_key_gen_uni and PKCS5_PBKDF2_HMAC?', 'state': 'closed', 'created_at': '2015-09-02T20:31:12Z', 'closed_at': '2015-09-03T01:53:04Z', 'labels': []}
+{'issuenumber': 382, 'title': 'Cmake', 'state': 'closed', 'created_at': '2015-08-31T22:01:48Z', 'closed_at': '2015-09-03T13:39:37Z', 'labels': []}
+{'issuenumber': 378, 'title': 'IPv6 support for BIOS APIs', 'state': 'closed', 'created_at': '2015-08-27T15:43:44Z', 'closed_at': '2015-08-27T15:55:01Z', 'labels': []}
+{'issuenumber': 377, 'title': 'IPv6 support for BIOS APIs', 'state': 'closed', 'created_at': '2015-08-26T06:13:14Z', 'closed_at': '2015-08-26T08:42:25Z', 'labels': []}
+{'issuenumber': 369, 'title': 'OpenSSL_1_0_2-stable will no longer compile.', 'state': 'closed', 'created_at': '2015-08-14T09:18:53Z', 'closed_at': '2015-08-24T20:44:20Z', 'labels': []}
+{'issuenumber': 366, 'title': 'DTLS1.2 issues', 'state': 'closed', 'created_at': '2015-08-06T16:20:04Z', 'closed_at': '2015-09-01T23:41:03Z', 'labels': []}
+{'issuenumber': 353, 'title': 'AES vulnerable to timing attacks', 'state': 'closed', 'created_at': '2015-08-02T15:01:39Z', 'closed_at': '2015-08-07T13:39:36Z', 'labels': []}
+{'issuenumber': 349, 'title': 'tar xzf openssl-1.0.2d', 'state': 'closed', 'created_at': '2015-07-30T20:59:53Z', 'closed_at': '2015-07-30T21:01:24Z', 'labels': []}
+{'issuenumber': 347, 'title': 'Compile Git Bash + MinGW fails', 'state': 'closed', 'created_at': '2015-07-30T14:20:56Z', 'closed_at': '2016-02-25T05:23:32Z', 'labels': []}
+{'issuenumber': 346, 'title': 'Crash due OPENSSL_assert(s->d1->mtu >= dtls1_min_mtu(s));', 'state': 'closed', 'created_at': '2015-07-30T13:46:05Z', 'closed_at': '2015-07-30T22:01:10Z', 'labels': []}
+{'issuenumber': 345, 'title': "Why is [Loading 'screen' into random state] being set as an error?", 'state': 'closed', 'created_at': '2015-07-28T22:15:23Z', 'closed_at': '2015-08-17T01:10:52Z', 'labels': []}
+{'issuenumber': 340, 'title': 'Provide a public way to parse ASN1_GENERALIZEDTIME', 'state': 'closed', 'created_at': '2015-07-25T06:03:55Z', 'closed_at': '2017-06-08T12:24:35Z', 'labels': {'name': 'issue: feature request'}}
+{'issuenumber': 338, 'title': 'Memory leak in X509_get_pubkey', 'state': 'closed', 'created_at': '2015-07-23T09:53:19Z', 'closed_at': '2016-03-22T19:51:42Z', 'labels': []}
+{'issuenumber': 335, 'title': 'Compile on VS2008 OpenSSL 1.0.2d', 'state': 'closed', 'created_at': '2015-07-20T12:48:07Z', 'closed_at': '2015-07-21T10:32:31Z', 'labels': []}
+{'issuenumber': 333, 'title': 'Support for 64-bit Android cpu targets', 'state': 'closed', 'created_at': '2015-07-15T18:57:38Z', 'closed_at': '2016-05-16T22:03:41Z', 'labels': []}
+{'issuenumber': 331, 'title': 'pkcs8 tool cannot output traditional format private key', 'state': 'closed', 'created_at': '2015-07-14T10:06:33Z', 'closed_at': '2016-05-24T22:53:46Z', 'labels': []}
+{'issuenumber': 330, 'title': 'Bad local_depend rule in apps/Makefile', 'state': 'closed', 'created_at': '2015-07-13T10:03:41Z', 'closed_at': '2015-07-13T15:17:41Z', 'labels': []}
+{'issuenumber': 329, 'title': '[openssl-1.0.1m] After successful TLSv1.0 negotiation in  SSLv23 mode, openssl fails to send the data in one ssl_write() API call.', 'state': 'closed', 'created_at': '2015-07-13T08:30:40Z', 'closed_at': '2016-08-26T17:18:08Z', 'labels': []}
+{'issuenumber': 322, 'title': 'SSL_do_handshake does not flush the write bio', 'state': 'closed', 'created_at': '2015-07-06T07:37:45Z', 'closed_at': '2016-05-20T13:15:37Z', 'labels': []}
+{'issuenumber': 320, 'title': 'Support for Camellia cipher suites in TLS', 'state': 'closed', 'created_at': '2015-07-04T09:57:29Z', 'closed_at': '2016-02-04T13:59:13Z', 'labels': []}
+{'issuenumber': 319, 'title': 'How to solve the compiling errors when run make from  openssl source code', 'state': 'closed', 'created_at': '2015-07-02T07:07:14Z', 'closed_at': '2015-10-27T16:14:57Z', 'labels': []}
+{'issuenumber': 316, 'title': 'Help,  undefined reference to XXXXX', 'state': 'closed', 'created_at': '2015-06-26T05:43:09Z', 'closed_at': '2015-06-29T00:22:26Z', 'labels': []}
+{'issuenumber': 311, 'title': 'CMake support', 'state': 'closed', 'created_at': '2015-06-17T18:20:20Z', 'closed_at': '2015-07-09T15:29:17Z', 'labels': []}
+{'issuenumber': 310, 'title': 'logjam CVE-2015-4000 issues patch for 0.9.8 branch.', 'state': 'closed', 'created_at': '2015-06-17T10:22:39Z', 'closed_at': '2015-06-17T14:30:46Z', 'labels': []}
+{'issuenumber': 309, 'title': 'Support for key exchange using Curve25519 and Curve448', 'state': 'closed', 'created_at': '2015-06-16T10:40:59Z', 'closed_at': '2016-05-03T12:50:40Z', 'labels': []}
+{'issuenumber': 308, 'title': 'Is there rfc6979 support?', 'state': 'closed', 'created_at': '2015-06-16T09:29:09Z', 'closed_at': '2015-06-16T11:26:04Z', 'labels': []}
+{'issuenumber': 307, 'title': 'Bogus man page symlink due to missing description in SSL_CTX_use_serverinfo.pod', 'state': 'closed', 'created_at': '2015-06-12T17:24:33Z', 'closed_at': '2015-07-09T14:02:17Z', 'labels': []}
+{'issuenumber': 305, 'title': 'Fix tag mirroring', 'state': 'closed', 'created_at': '2015-06-12T10:11:33Z', 'closed_at': '2016-02-25T05:26:26Z', 'labels': []}
+{'issuenumber': 304, 'title': 'Support for ChaCha20-Poly1305', 'state': 'closed', 'created_at': '2015-06-12T07:43:13Z', 'closed_at': '2015-12-10T11:19:36Z', 'labels': []}
+{'issuenumber': 303, 'title': 'Small typo/grammar issue in the license text', 'state': 'closed', 'created_at': '2015-06-12T00:01:11Z', 'closed_at': '2015-06-12T08:13:13Z', 'labels': []}
+{'issuenumber': 302, 'title': 'openssl was built without bitcode. You must rebuild it with bitcode enabled', 'state': 'closed', 'created_at': '2015-06-11T16:10:16Z', 'closed_at': '2015-06-11T16:12:57Z', 'labels': []}
+{'issuenumber': 301, 'title': 'compling 1.0.2 stable branch on linux fail.', 'state': 'closed', 'created_at': '2015-06-10T03:42:27Z', 'closed_at': '2015-06-10T03:45:25Z', 'labels': []}
+{'issuenumber': 298, 'title': 'make -j parallel support ?', 'state': 'closed', 'created_at': '2015-06-01T13:41:43Z', 'closed_at': '2015-06-01T14:05:30Z', 'labels': []}
+{'issuenumber': 296, 'title': 'Remove EGD support or make EGD support configurable', 'state': 'closed', 'created_at': '2015-05-31T16:52:06Z', 'closed_at': '2016-02-25T05:27:21Z', 'labels': []}
+{'issuenumber': 294, 'title': 'id-aes256-GCM not working', 'state': 'closed', 'created_at': '2015-05-27T01:11:21Z', 'closed_at': '2016-01-28T20:13:33Z', 'labels': []}
+{'issuenumber': 289, 'title': 'can we please', 'state': 'closed', 'created_at': '2015-05-21T05:06:14Z', 'closed_at': '2015-05-21T06:05:52Z', 'labels': []}
+{'issuenumber': 287, 'title': 'ECC: disable weaker elliptic curves in 1.0.1-stable', 'state': 'closed', 'created_at': '2015-05-21T03:20:41Z', 'closed_at': '2016-01-10T00:41:10Z', 'labels': []}
+{'issuenumber': 283, 'title': 'Backport a CRLF fix for Windows into 1.0.1/1.0.2', 'state': 'closed', 'created_at': '2015-05-14T10:36:17Z', 'closed_at': '2015-11-19T20:44:44Z', 'labels': []}
+{'issuenumber': 282, 'title': 'Fail make install ubuntu vivid', 'state': 'closed', 'created_at': '2015-05-11T21:53:19Z', 'closed_at': '2015-05-11T22:58:44Z', 'labels': []}
+{'issuenumber': 278, 'title': 'compile OpenSSL 1.0.2a + FIPS 2.0.9 + ZLIB 1.2.8 fails in Windows 32bit', 'state': 'closed', 'created_at': '2015-05-08T22:12:52Z', 'closed_at': '2016-08-26T16:50:27Z', 'labels': []}
+{'issuenumber': 275, 'title': 'krb5 - missing header', 'state': 'closed', 'created_at': '2015-05-04T06:41:34Z', 'closed_at': '2015-05-11T08:33:57Z', 'labels': []}
+{'issuenumber': 272, 'title': 'Typo in ssl/ssl_asn1.c', 'state': 'closed', 'created_at': '2015-05-03T02:51:43Z', 'closed_at': '2015-05-11T08:33:39Z', 'labels': []}
+{'issuenumber': 269, 'title': 'Typo in ssl/s3_srvr.c', 'state': 'closed', 'created_at': '2015-05-02T22:44:26Z', 'closed_at': '2015-05-11T08:33:27Z', 'labels': []}
+{'issuenumber': 267, 'title': 'Performance issues due to non-blocking IO', 'state': 'closed', 'created_at': '2015-04-28T10:03:06Z', 'closed_at': '2015-04-28T11:09:20Z', 'labels': []}
+{'issuenumber': 265, 'title': 'Server silently accepts ClientHello messages with invalid Extension lengths', 'state': 'closed', 'created_at': '2015-04-23T16:04:45Z', 'closed_at': '2016-08-26T17:01:46Z', 'labels': []}
+{'issuenumber': 264, 'title': 'Problem with compilation x64 version under windows', 'state': 'closed', 'created_at': '2015-04-19T19:50:13Z', 'closed_at': '2015-04-21T17:51:23Z', 'labels': []}
+{'issuenumber': 261, 'title': 'Update Makefile to make build successful when override CDPATH', 'state': 'closed', 'created_at': '2015-04-17T11:36:00Z', 'closed_at': '2015-04-21T16:07:01Z', 'labels': []}
+{'issuenumber': 259, 'title': 'Fix signal handler', 'state': 'closed', 'created_at': '2015-04-13T10:30:29Z', 'closed_at': '2016-06-08T15:42:36Z', 'labels': []}
+{'issuenumber': 256, 'title': "1.0.2a can't be compiled under msys2", 'state': 'closed', 'created_at': '2015-04-06T08:48:22Z', 'closed_at': '2015-10-27T16:16:25Z', 'labels': []}
+{'issuenumber': 255, 'title': 'Windows DLL and no-comp configuration option adds but hides some symbols', 'state': 'closed', 'created_at': '2015-04-04T17:33:36Z', 'closed_at': '2016-05-17T13:33:35Z', 'labels': []}
+{'issuenumber': 248, 'title': 'Enable Sourcegraph', 'state': 'closed', 'created_at': '2015-03-23T06:24:28Z', 'closed_at': '2015-07-09T15:31:51Z', 'labels': []}
+{'issuenumber': 247, 'title': 'x509 -certopt ca_default documentation mismatch', 'state': 'closed', 'created_at': '2015-03-21T16:53:06Z', 'closed_at': '2016-06-03T22:27:48Z', 'labels': []}
+{'issuenumber': 246, 'title': "1.0.1m, ./config shared on ubuntu 14.04 libcrypto.a(e_4758cca.o): relocation R_X86_64_32 against `.data' can not be used when making a shared object;", 'state': 'closed', 'created_at': '2015-03-21T12:42:25Z', 'closed_at': '2015-03-22T07:37:16Z', 'labels': []}
+{'issuenumber': 245, 'title': 'No git tag for release 1.0.2a et al', 'state': 'closed', 'created_at': '2015-03-19T17:42:13Z', 'closed_at': '2015-03-20T08:03:21Z', 'labels': []}
+{'issuenumber': 243, 'title': 'engine.pod out of date', 'state': 'closed', 'created_at': '2015-03-19T13:46:50Z', 'closed_at': '2016-05-16T22:17:40Z', 'labels': []}
+{'issuenumber': 241, 'title': 'GOST engine dll name in mingw', 'state': 'closed', 'created_at': '2015-03-13T15:17:26Z', 'closed_at': '2017-05-02T14:40:24Z', 'labels': []}
+{'issuenumber': 240, 'title': 'Support WinRT', 'state': 'closed', 'created_at': '2015-03-09T01:50:43Z', 'closed_at': '2017-05-02T14:39:16Z', 'labels': []}
+{'issuenumber': 239, 'title': "Linker warning with LTO enabled ('OPENSSL_ia32cap_P' declaration mismatch)", 'state': 'closed', 'created_at': '2015-03-08T11:35:33Z', 'closed_at': '2015-06-11T11:56:01Z', 'labels': []}
+{'issuenumber': 236, 'title': 'Cannot negotiate TLS_DHE_RSA_WITH_AES_128_CBC_SHA when the server is TLS 1.0', 'state': 'closed', 'created_at': '2015-03-07T12:02:09Z', 'closed_at': '2017-05-02T09:49:22Z', 'labels': []}
+{'issuenumber': 235, 'title': 'Missing calls to SSLerr in ALPN set functions.', 'state': 'closed', 'created_at': '2015-03-05T22:02:20Z', 'closed_at': '2016-02-27T16:28:04Z', 'labels': []}
+{'issuenumber': 233, 'title': 'Handshake digest check failure in 1.0.2', 'state': 'closed', 'created_at': '2015-03-03T17:36:00Z', 'closed_at': '2015-03-03T22:31:14Z', 'labels': []}
+{'issuenumber': 232, 'title': 'Malfunction with the Download page on OpenSSL.org', 'state': 'closed', 'created_at': '2015-03-02T18:28:33Z', 'closed_at': '2015-03-02T19:48:45Z', 'labels': []}
+{'issuenumber': 231, 'title': 'EC_POINT_mul() creates duplicate keys', 'state': 'closed', 'created_at': '2015-02-24T19:49:28Z', 'closed_at': '2015-02-25T19:34:44Z', 'labels': []}
+{'issuenumber': 226, 'title': "Windows MSYS mingw can't build openssl 1.0.2 ", 'state': 'closed', 'created_at': '2015-02-15T18:32:57Z', 'closed_at': '2015-02-15T19:03:50Z', 'labels': []}
+{'issuenumber': 225, 'title': 'Work item: convert ssl use in spins webserver to be a static linked dll.', 'state': 'closed', 'created_at': '2015-02-14T00:00:53Z', 'closed_at': '2015-02-14T03:52:02Z', 'labels': []}
+{'issuenumber': 224, 'title': 'FTBFS with no-ec in 1.0.2', 'state': 'closed', 'created_at': '2015-02-09T19:49:20Z', 'closed_at': '2015-03-22T20:35:37Z', 'labels': []}
+{'issuenumber': 222, 'title': 'asn1 encoding routines:ASN1_mbstring_ncopy:invalid utf8string:.\\crypto\\asn1\\a_mbstr.c:132:', 'state': 'closed', 'created_at': '2015-02-04T06:06:44Z', 'closed_at': '2016-05-04T13:28:30Z', 'labels': []}
+{'issuenumber': 221, 'title': '1.0.2: configure no-cms -> make failure', 'state': 'closed', 'created_at': '2015-02-02T11:21:51Z', 'closed_at': '2016-08-26T09:01:09Z', 'labels': []}
+{'issuenumber': 217, 'title': 'ssl2', 'state': 'closed', 'created_at': '2015-01-30T20:23:41Z', 'closed_at': '2015-03-22T20:47:57Z', 'labels': []}
+{'issuenumber': 216, 'title': 'Segmentation fault in test server', 'state': 'closed', 'created_at': '2015-01-29T15:17:25Z', 'closed_at': '2015-07-09T15:34:14Z', 'labels': []}
+{'issuenumber': 214, 'title': 'Broken ghash for PowerPCISA on OpenSSL 1.0.2', 'state': 'closed', 'created_at': '2015-01-25T03:34:15Z', 'closed_at': '2015-04-21T12:02:04Z', 'labels': []}
+{'issuenumber': 213, 'title': 'OpenSSL 1.0.2 fails when building with Fips-2.0.9', 'state': 'closed', 'created_at': '2015-01-23T11:01:09Z', 'closed_at': '2015-01-23T11:03:02Z', 'labels': []}
+{'issuenumber': 210, 'title': '0.9.8zd/1.0.0p Build fail in cryptlib.h/bio.h BIO_FLAGS_UPLINK macro redefinition', 'state': 'closed', 'created_at': '2015-01-10T11:51:41Z', 'closed_at': '2015-01-13T13:27:07Z', 'labels': []}
+{'issuenumber': 209, 'title': "1.0.1k crypto/cversion.c doesn't compile if CFLAGS is defined", 'state': 'closed', 'created_at': '2015-01-08T17:20:45Z', 'closed_at': '2015-01-08T20:09:52Z', 'labels': []}
+{'issuenumber': 202, 'title': 'FIPS testsuite is gone?', 'state': 'closed', 'created_at': '2014-12-08T13:51:49Z', 'closed_at': '2014-12-08T14:06:01Z', 'labels': []}
+{'issuenumber': 199, 'title': 'Enable Sourcegraph', 'state': 'closed', 'created_at': '2014-12-02T11:02:00Z', 'closed_at': '2015-03-22T21:12:15Z', 'labels': []}
+{'issuenumber': 197, 'title': 'issue when using srtp.h with cffi', 'state': 'closed', 'created_at': '2014-11-27T11:47:13Z', 'closed_at': '2014-11-27T12:22:59Z', 'labels': []}
+{'issuenumber': 190, 'title': 'ecp_nistz256-x86_64.asm(5) : error A2189:invalid combination with segment alignment on Windows x64', 'state': 'closed', 'created_at': '2014-11-01T00:56:01Z', 'closed_at': '2015-09-09T14:59:28Z', 'labels': []}
+{'issuenumber': 189, 'title': './config shared no-dso no-hw still fails as of 1.0.1j', 'state': 'closed', 'created_at': '2014-10-29T18:28:10Z', 'closed_at': '2016-05-16T19:43:30Z', 'labels': []}
+{'issuenumber': 188, 'title': "NPN / ALPN extensions callbacks don't allow handshake failure", 'state': 'closed', 'created_at': '2014-10-21T15:36:23Z', 'closed_at': '2016-02-25T05:29:04Z', 'labels': []}
+{'issuenumber': 187, 'title': 'Memory leak in DTLS renegotiation', 'state': 'closed', 'created_at': '2014-10-15T12:14:13Z', 'closed_at': '2014-12-02T11:49:50Z', 'labels': []}
+{'issuenumber': 186, 'title': "Config file can't be found / specified on Windows", 'state': 'closed', 'created_at': '2014-10-15T10:49:41Z', 'closed_at': '2016-05-23T08:47:47Z', 'labels': []}
+{'issuenumber': 184, 'title': 'Unhandled return value', 'state': 'closed', 'created_at': '2014-10-11T22:17:54Z', 'closed_at': '2014-11-24T09:28:15Z', 'labels': []}
+{'issuenumber': 182, 'title': 'memleaks in X509_REQ_to_X509, and X509_REQ_to_X509 not completely.', 'state': 'closed', 'created_at': '2014-10-08T04:50:57Z', 'closed_at': '2016-05-16T19:34:57Z', 'labels': []}
+{'issuenumber': 177, 'title': 'FTP-ES: cannot abort current downloaded zip file (loop forever)', 'state': 'closed', 'created_at': '2014-09-19T14:58:44Z', 'closed_at': '2015-07-09T15:26:49Z', 'labels': []}
+{'issuenumber': 174, 'title': 'Build on Windows fails if cloned with git', 'state': 'closed', 'created_at': '2014-09-11T03:28:42Z', 'closed_at': '2015-03-31T01:12:43Z', 'labels': []}
+{'issuenumber': 169, 'title': 'build master and openssl-1.0.2-stable failed on windows with msvc.', 'state': 'closed', 'created_at': '2014-09-04T06:59:44Z', 'closed_at': '2015-03-22T20:49:16Z', 'labels': []}
+{'issuenumber': 163, 'title': 'support for musl', 'state': 'closed', 'created_at': '2014-08-27T01:17:12Z', 'closed_at': '2015-02-24T09:49:33Z', 'labels': []}
+{'issuenumber': 151, 'title': 'Minor typo change in ssl/s3_enc.c', 'state': 'closed', 'created_at': '2014-07-12T11:15:04Z', 'closed_at': '2015-03-22T21:01:33Z', 'labels': []}
+{'issuenumber': 146, 'title': 'unsued variables', 'state': 'closed', 'created_at': '2014-06-29T14:11:23Z', 'closed_at': '2015-01-24T13:06:24Z', 'labels': []}
+{'issuenumber': 137, 'title': 'Fix NPE ssl/d1_both.c, ssl/s3_enc.c, ssl/ssl_ciph.c, ssl/ssl_sess.c', 'state': 'closed', 'created_at': '2014-06-16T20:37:15Z', 'closed_at': '2016-02-25T05:37:20Z', 'labels': []}
+{'issuenumber': 132, 'title': 'Minor grammar problem', 'state': 'closed', 'created_at': '2014-06-11T18:42:59Z', 'closed_at': '2015-08-24T18:13:50Z', 'labels': []}
+{'issuenumber': 87, 'title': 'Server not responding to heartbeats with small payloads', 'state': 'closed', 'created_at': '2014-04-28T00:27:14Z', 'closed_at': '2015-05-11T21:44:56Z', 'labels': []}
+{'issuenumber': 71, 'title': 'Heartbeat overcomplicated?', 'state': 'closed', 'created_at': '2014-04-17T08:53:35Z', 'closed_at': '2015-03-22T20:58:34Z', 'labels': []}
+{'issuenumber': 70, 'title': 'supplemental data missing check', 'state': 'closed', 'created_at': '2014-04-16T16:36:33Z', 'closed_at': '2016-02-27T17:26:12Z', 'labels': []}
+{'issuenumber': 69, 'title': 'README Reference to Notification Requirements for the Export Controls TSU ', 'state': 'closed', 'created_at': '2014-04-15T18:06:50Z', 'closed_at': '2015-11-01T13:43:47Z', 'labels': []}
+{'issuenumber': 57, 'title': 'Documentation fixes for openssl-1.0.1g (Ubuntu 14.04)', 'state': 'closed', 'created_at': '2014-04-08T10:12:20Z', 'closed_at': '2014-05-04T00:08:54Z', 'labels': []}
+{'issuenumber': 55, 'title': 'Minimal memory footprint per SSL connection', 'state': 'closed', 'created_at': '2014-04-01T14:05:33Z', 'closed_at': '2015-10-27T16:18:42Z', 'labels': []}
+{'issuenumber': 43, 'title': 'copy-paste bug: crypto\\asn1\\asn1_gen.c - (!strncmp(vstart, "BITLIST", 3))', 'state': 'closed', 'created_at': '2014-01-27T10:24:42Z', 'closed_at': '2015-08-24T18:14:41Z', 'labels': []}
+{'issuenumber': 42, 'title': 'crypto\\cms\\cms_lib.c - dup if (!pcerts) return 0;', 'state': 'closed', 'created_at': '2014-01-27T08:08:28Z', 'closed_at': '2014-04-09T14:51:06Z', 'labels': []}
+{'issuenumber': 39, 'title': 'Broken link in Readme', 'state': 'closed', 'created_at': '2014-01-17T00:53:56Z', 'closed_at': '2015-07-09T15:27:50Z', 'labels': []}
+{'issuenumber': 34, 'title': 'ml compile sha256-586.asm failed!', 'state': 'closed', 'created_at': '2013-12-21T04:06:05Z', 'closed_at': '2015-06-27T03:32:41Z', 'labels': []}
+{'issuenumber': 33, 'title': 'SSL default cipher suite definition over config file', 'state': 'closed', 'created_at': '2013-12-17T14:58:55Z', 'closed_at': '2016-02-25T05:31:30Z', 'labels': []}
+{'issuenumber': 32, 'title': 'Option to specify iteration count for PKCS#8', 'state': 'closed', 'created_at': '2013-12-04T08:40:58Z', 'closed_at': '2016-03-05T16:20:20Z', 'labels': []}
+{'issuenumber': 25, 'title': 'SEGFAULT when re-loading gost engine', 'state': 'closed', 'created_at': '2013-10-20T08:31:38Z', 'closed_at': '2015-08-24T18:12:02Z', 'labels': []}

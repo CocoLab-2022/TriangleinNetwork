@@ -1,0 +1,483 @@
+{'issuenumber': 800, 'title': 'Sequelize Application Dependency Injection', 'state': 'closed', 'created_at': '2013-07-31T23:31:37Z', 'closed_at': '2017-07-06T23:25:29Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 799, 'title': 'Model.update skip validations', 'state': 'closed', 'created_at': '2013-07-31T22:36:13Z', 'closed_at': '2013-08-22T08:48:36Z', 'labels': []}
+{'issuenumber': 791, 'title': 'Rename/disable Timestamp columns', 'state': 'closed', 'created_at': '2013-07-29T15:09:43Z', 'closed_at': '2013-07-29T15:14:58Z', 'labels': []}
+{'issuenumber': 790, 'title': 'sequelize broken after commit a3051370540954526b768a2ce9494a472cdd9e06', 'state': 'closed', 'created_at': '2013-07-27T19:45:38Z', 'closed_at': '2013-07-29T10:26:39Z', 'labels': []}
+{'issuenumber': 789, 'title': 'how to change default Model.find() use uid?', 'state': 'closed', 'created_at': '2013-07-27T03:34:35Z', 'closed_at': '2013-08-02T13:05:33Z', 'labels': []}
+{'issuenumber': 788, 'title': 'Document query function', 'state': 'closed', 'created_at': '2013-07-26T15:05:07Z', 'closed_at': '2013-08-04T20:20:30Z', 'labels': []}
+{'issuenumber': 787, 'title': 'Model update() documentation is wrong (MySQL)', 'state': 'closed', 'created_at': '2013-07-26T13:48:24Z', 'closed_at': '2013-07-30T09:57:49Z', 'labels': []}
+{'issuenumber': 786, 'title': 'Validation with Association', 'state': 'closed', 'created_at': '2013-07-26T02:44:19Z', 'closed_at': '2013-07-30T11:09:26Z', 'labels': []}
+{'issuenumber': 785, 'title': 'Sequelize.TEXT type with a default value generates incorrect CREATE TABLE statement for MySQL', 'state': 'closed', 'created_at': '2013-07-23T20:25:29Z', 'closed_at': '2013-07-30T12:19:07Z', 'labels': []}
+{'issuenumber': 781, 'title': 'npm and github out of sync', 'state': 'closed', 'created_at': '2013-07-22T12:58:14Z', 'closed_at': '2013-07-30T10:07:17Z', 'labels': []}
+{'issuenumber': 780, 'title': 'Sequelize Transactions', 'state': 'closed', 'created_at': '2013-07-22T07:18:38Z', 'closed_at': '2013-12-09T13:11:34Z', 'labels': []}
+{'issuenumber': 778, 'title': 'Web SQL Support', 'state': 'closed', 'created_at': '2013-07-21T22:31:39Z', 'closed_at': '2013-08-28T23:37:46Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 777, 'title': 'Possible filtering issue with associating objects', 'state': 'closed', 'created_at': '2013-07-21T14:56:01Z', 'closed_at': '2013-08-19T11:11:18Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 774, 'title': 'Migration configuration should be based on node-config', 'state': 'closed', 'created_at': '2013-07-19T22:37:19Z', 'closed_at': '2015-04-08T11:54:24Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 773, 'title': 'How to realize self one-to-many in one table.', 'state': 'closed', 'created_at': '2013-07-19T14:54:41Z', 'closed_at': '2013-08-01T16:06:27Z', 'labels': {'name': 'question'}}
+{'issuenumber': 767, 'title': "'custom' queries ... some times you just want to bypass the ORM goodness", 'state': 'closed', 'created_at': '2013-07-15T11:19:54Z', 'closed_at': '2014-09-21T20:53:58Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 763, 'title': 'add option {logging: false} to sync() method', 'state': 'closed', 'created_at': '2013-07-13T01:57:08Z', 'closed_at': '2013-11-03T22:25:04Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 759, 'title': 'getter/setter methods are completely ignored when calling .values, .toJSON(), or anything useful', 'state': 'closed', 'created_at': '2013-07-10T03:48:42Z', 'closed_at': '2014-01-04T15:45:13Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 758, 'title': 'PostgreSQL: Array fields not deserialized correctly', 'state': 'closed', 'created_at': '2013-07-09T12:06:29Z', 'closed_at': '2013-07-09T12:44:08Z', 'labels': []}
+{'issuenumber': 757, 'title': 'Sequelize generates incorrect queries when filtering associations (2.0.0-alpha2)', 'state': 'closed', 'created_at': '2013-07-09T03:18:02Z', 'closed_at': '2013-07-16T06:43:49Z', 'labels': []}
+{'issuenumber': 752, 'title': 'String length validation gets broken', 'state': 'closed', 'created_at': '2013-07-07T11:24:29Z', 'closed_at': '2013-09-03T19:23:13Z', 'labels': []}
+{'issuenumber': 749, 'title': 'State of the Union', 'state': 'closed', 'created_at': '2013-07-05T22:00:19Z', 'closed_at': '2014-12-03T22:05:50Z', 'labels': []}
+{'issuenumber': 745, 'title': 'Rewrite/Refactor Associations for 2.0.x with consistent eager loading and predefined junction tables in mind.', 'state': 'closed', 'created_at': '2013-07-03T13:57:31Z', 'closed_at': '2014-04-30T11:17:45Z', 'labels': []}
+{'issuenumber': 742, 'title': 'Foreign keys not being added via Sync()', 'state': 'closed', 'created_at': '2013-07-02T17:16:19Z', 'closed_at': '2013-07-02T20:21:18Z', 'labels': []}
+{'issuenumber': 741, 'title': "Don't have a column call id column", 'state': 'closed', 'created_at': '2013-07-02T00:14:41Z', 'closed_at': '2013-07-02T00:28:10Z', 'labels': []}
+{'issuenumber': 740, 'title': 'Check `deletedAt` on `SELECT` queries for paranoid models.', 'state': 'closed', 'created_at': '2013-07-01T15:42:32Z', 'closed_at': '2014-01-31T15:38:28Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 739, 'title': "Junction table options get overwritten by associated models' options - leads to multiple unexpected behaviors.", 'state': 'closed', 'created_at': '2013-07-01T15:11:40Z', 'closed_at': '2014-01-28T16:39:47Z', 'labels': []}
+{'issuenumber': 736, 'title': 'bulkCreate and missing fields', 'state': 'closed', 'created_at': '2013-06-28T21:17:04Z', 'closed_at': '2013-07-16T18:42:55Z', 'labels': []}
+{'issuenumber': 735, 'title': 'find() not calling error function when using find(id) syntax', 'state': 'closed', 'created_at': '2013-06-28T19:53:39Z', 'closed_at': '2013-07-04T13:11:10Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 734, 'title': 'belongsTo injectSetter and foreign key constraint problems', 'state': 'closed', 'created_at': '2013-06-28T13:58:18Z', 'closed_at': '2017-07-06T23:25:32Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 732, 'title': 'broken on node 0.11.3', 'state': 'closed', 'created_at': '2013-06-27T23:38:56Z', 'closed_at': '2013-07-03T17:51:58Z', 'labels': []}
+{'issuenumber': 731, 'title': "Sequelize 2.0.0-alpha2 auto add table name + 's'", 'state': 'closed', 'created_at': '2013-06-27T00:06:56Z', 'closed_at': '2013-06-27T13:50:07Z', 'labels': {'name': 'question'}}
+{'issuenumber': 730, 'title': 'model validation with @2.0.0-alpha2', 'state': 'closed', 'created_at': '2013-06-26T23:41:11Z', 'closed_at': '2013-07-01T19:57:58Z', 'labels': []}
+{'issuenumber': 729, 'title': 'Initializing Sequelize with specific `options` object circumvents `_.extend` fallback', 'state': 'closed', 'created_at': '2013-06-26T20:30:25Z', 'closed_at': '2013-06-28T10:14:39Z', 'labels': []}
+{'issuenumber': 724, 'title': 'Updating relative to column', 'state': 'closed', 'created_at': '2013-06-24T18:20:10Z', 'closed_at': '2013-08-04T21:48:39Z', 'labels': {'name': 'question'}}
+{'issuenumber': 723, 'title': 'Handle limit and offset consistently across dialects', 'state': 'closed', 'created_at': '2013-06-21T20:02:59Z', 'closed_at': '2013-06-28T18:16:55Z', 'labels': []}
+{'issuenumber': 722, 'title': 'Validation causes missing callback on create when using SQLite (2.0.0-alpha2).', 'state': 'closed', 'created_at': '2013-06-21T08:27:40Z', 'closed_at': '2013-08-04T21:06:42Z', 'labels': []}
+{'issuenumber': 721, 'title': 'options.language should be non-writable after declaring it', 'state': 'closed', 'created_at': '2013-06-20T15:47:43Z', 'closed_at': '2013-07-04T16:23:54Z', 'labels': {'name': 'question'}}
+{'issuenumber': 715, 'title': 'Saving of objects containing Eager-Loaded data/model-instances is completely broken. ', 'state': 'closed', 'created_at': '2013-06-19T15:00:13Z', 'closed_at': '2013-06-24T18:47:56Z', 'labels': []}
+{'issuenumber': 714, 'title': 'Postgres requires empty arrays to be explicitly cast', 'state': 'closed', 'created_at': '2013-06-19T14:13:43Z', 'closed_at': '2013-06-20T11:04:44Z', 'labels': []}
+{'issuenumber': 707, 'title': 'Migration undo appears broken', 'state': 'closed', 'created_at': '2013-06-18T04:40:46Z', 'closed_at': '2014-01-10T11:14:34Z', 'labels': []}
+{'issuenumber': 702, 'title': 'findOrCreate({}, data) Generates Invalid SQL', 'state': 'closed', 'created_at': '2013-06-15T18:58:49Z', 'closed_at': '2013-06-21T18:55:48Z', 'labels': []}
+{'issuenumber': 701, 'title': "TypeError: Cannot read property 'allowNull' of undefined", 'state': 'closed', 'created_at': '2013-06-15T15:20:08Z', 'closed_at': '2013-06-24T18:46:15Z', 'labels': []}
+{'issuenumber': 699, 'title': 'Foreign key constrains many-to-many', 'state': 'closed', 'created_at': '2013-06-14T12:38:10Z', 'closed_at': '2014-03-12T08:41:43Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 697, 'title': 'notNull equal false in model validators', 'state': 'closed', 'created_at': '2013-06-13T13:02:01Z', 'closed_at': '2013-06-14T18:27:41Z', 'labels': {'name': 'question'}}
+{'issuenumber': 696, 'title': 'Is there a way to put id, foreign key columns to top of the table?', 'state': 'closed', 'created_at': '2013-06-13T05:48:32Z', 'closed_at': '2014-05-10T16:58:26Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 694, 'title': 'Association join condition wrong if using own primary keys', 'state': 'closed', 'created_at': '2013-06-12T21:14:09Z', 'closed_at': '2013-08-09T08:10:52Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 693, 'title': 'The new Option "quoteIdentifiers" (Pull request #651) breaks Raw SQL Queries', 'state': 'closed', 'created_at': '2013-06-12T21:07:09Z', 'closed_at': '2013-07-06T23:28:45Z', 'labels': []}
+{'issuenumber': 692, 'title': 'Postgres HSTORE values have quotes stripped from them', 'state': 'closed', 'created_at': '2013-06-12T20:41:39Z', 'closed_at': '2013-06-14T18:28:40Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 691, 'title': 'Unicode Datatype', 'state': 'closed', 'created_at': '2013-06-12T07:18:43Z', 'closed_at': '2013-06-13T05:41:21Z', 'labels': {'name': 'question'}}
+{'issuenumber': 687, 'title': 'Best way to handle associations with migrations?', 'state': 'closed', 'created_at': '2013-06-08T13:30:34Z', 'closed_at': '2013-07-09T01:45:53Z', 'labels': {'name': 'question'}}
+{'issuenumber': 685, 'title': 'Eager loading for manyToMany is broken for Mysql', 'state': 'closed', 'created_at': '2013-06-06T22:05:06Z', 'closed_at': '2013-09-04T16:12:44Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 684, 'title': 'How to deal with deleted SequelizeMeta table/rows', 'state': 'closed', 'created_at': '2013-06-06T18:05:26Z', 'closed_at': '2013-06-09T12:30:50Z', 'labels': []}
+{'issuenumber': 683, 'title': 'Pluralization for spanish', 'state': 'closed', 'created_at': '2013-06-06T16:10:06Z', 'closed_at': '2013-06-19T05:34:04Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 682, 'title': 'the done() callbak is not called ', 'state': 'closed', 'created_at': '2013-06-06T09:20:10Z', 'closed_at': '2013-08-01T15:44:59Z', 'labels': []}
+{'issuenumber': 681, 'title': 'Associations get renamed despite underscored & freezeTableName options', 'state': 'closed', 'created_at': '2013-06-06T01:56:02Z', 'closed_at': '2014-03-08T17:10:07Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 679, 'title': 'Using other models in instance methods', 'state': 'closed', 'created_at': '2013-06-05T12:03:22Z', 'closed_at': '2013-06-11T01:15:37Z', 'labels': {'name': 'question'}}
+{'issuenumber': 678, 'title': 'instance.save() fails if eagerly loaded properties', 'state': 'closed', 'created_at': '2013-06-04T21:35:00Z', 'closed_at': '2013-06-24T18:47:00Z', 'labels': []}
+{'issuenumber': 677, 'title': 'Hiding some properties when calling toJSON', 'state': 'closed', 'created_at': '2013-06-04T19:57:40Z', 'closed_at': '2013-06-13T18:33:23Z', 'labels': []}
+{'issuenumber': 676, 'title': 'Column names that are SQL keywords should be escaped', 'state': 'closed', 'created_at': '2013-06-04T19:42:21Z', 'closed_at': '2013-06-20T11:02:57Z', 'labels': []}
+{'issuenumber': 675, 'title': 'discuss "setter" property functionality ... when (not) to call them?', 'state': 'closed', 'created_at': '2013-06-04T09:48:12Z', 'closed_at': '2014-05-19T06:06:40Z', 'labels': {'name': 'question'}}
+{'issuenumber': 674, 'title': 'Some properties are ignored when calling toJSON', 'state': 'closed', 'created_at': '2013-06-04T06:59:23Z', 'closed_at': '2013-12-27T21:06:32Z', 'labels': []}
+{'issuenumber': 672, 'title': 'Postgres describeTableQuery does not respect schema barriers', 'state': 'closed', 'created_at': '2013-06-03T20:52:19Z', 'closed_at': '2013-08-09T11:30:24Z', 'labels': []}
+{'issuenumber': 671, 'title': "Postgres HSTORE data-type reported as 'USER-DEFINED'", 'state': 'closed', 'created_at': '2013-06-03T20:51:07Z', 'closed_at': '2013-08-17T17:57:03Z', 'labels': []}
+{'issuenumber': 670, 'title': 'Eager loading with an associative (aka junction) table', 'state': 'closed', 'created_at': '2013-06-03T19:56:32Z', 'closed_at': '2013-06-18T14:35:13Z', 'labels': []}
+{'issuenumber': 668, 'title': 'Eager Loading with Sorting/Limiting?', 'state': 'closed', 'created_at': '2013-06-01T19:09:27Z', 'closed_at': '2014-01-05T12:57:18Z', 'labels': []}
+{'issuenumber': 667, 'title': 'Problem with Stringify and  associations', 'state': 'closed', 'created_at': '2013-05-31T21:19:33Z', 'closed_at': '2013-07-11T12:18:48Z', 'labels': {'name': 'question'}}
+{'issuenumber': 666, 'title': 'Insert and update queries when using options: (omitNull: true) and (underscored: true) on postgress', 'state': 'closed', 'created_at': '2013-05-31T07:24:38Z', 'closed_at': '2013-08-09T08:48:19Z', 'labels': []}
+{'issuenumber': 665, 'title': 'Postgres: False Timestamps with Sequelize?', 'state': 'closed', 'created_at': '2013-05-31T02:58:18Z', 'closed_at': '2013-06-08T09:10:13Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 664, 'title': 'Documentation: Bulk Create/Insert ', 'state': 'closed', 'created_at': '2013-05-31T01:03:18Z', 'closed_at': '2013-05-31T01:03:58Z', 'labels': []}
+{'issuenumber': 663, 'title': 'Documentation: Bulk Create/Insert ', 'state': 'closed', 'created_at': '2013-05-31T01:01:19Z', 'closed_at': '2013-05-31T09:29:22Z', 'labels': []}
+{'issuenumber': 662, 'title': "Documentation: change 'sdepold' to 'sequelize'", 'state': 'closed', 'created_at': '2013-05-30T21:26:09Z', 'closed_at': '2013-05-31T10:06:58Z', 'labels': []}
+{'issuenumber': 659, 'title': 'Model.find() with an include returns no result if the include does not exist', 'state': 'closed', 'created_at': '2013-05-30T18:24:18Z', 'closed_at': '2013-05-30T19:45:03Z', 'labels': []}
+{'issuenumber': 657, 'title': 'Fixtures/mock data', 'state': 'closed', 'created_at': '2013-05-30T16:48:06Z', 'closed_at': '2013-07-06T22:43:16Z', 'labels': []}
+{'issuenumber': 655, 'title': 'HasMany and custom primary key', 'state': 'closed', 'created_at': '2013-05-29T11:06:35Z', 'closed_at': '2013-09-04T17:56:09Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 654, 'title': 'allowNull:false is not checked on save()', 'state': 'closed', 'created_at': '2013-05-28T21:54:48Z', 'closed_at': '2013-05-29T13:08:14Z', 'labels': []}
+{'issuenumber': 653, 'title': '(Postgres) Unique Property Error, Can it be formatted as a Validation Error?', 'state': 'closed', 'created_at': '2013-05-28T18:55:22Z', 'closed_at': '2014-01-26T22:09:30Z', 'labels': []}
+{'issuenumber': 652, 'title': 'Sequelize is lowercasing the first letter of aliased relations.', 'state': 'closed', 'created_at': '2013-05-28T00:33:57Z', 'closed_at': '2014-07-12T10:54:52Z', 'labels': {'name': 'status: in discussion'}}
+{'issuenumber': 650, 'title': 'How do I define length in model property?', 'state': 'closed', 'created_at': '2013-05-27T10:24:05Z', 'closed_at': '2013-05-29T13:20:22Z', 'labels': {'name': 'question'}}
+{'issuenumber': 649, 'title': 'bulkInsert not checking omitNull', 'state': 'closed', 'created_at': '2013-05-26T23:12:39Z', 'closed_at': '2013-05-27T15:03:30Z', 'labels': []}
+{'issuenumber': 645, 'title': 'allowNull: false and defaultValue: Sequelize.NOW not populating field with default value.', 'state': 'closed', 'created_at': '2013-05-24T18:55:49Z', 'closed_at': '2013-07-11T12:24:30Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 644, 'title': 'Unable to populate postgresql id serial column', 'state': 'closed', 'created_at': '2013-05-23T10:06:57Z', 'closed_at': '2013-06-10T15:37:35Z', 'labels': []}
+{'issuenumber': 643, 'title': 'Make Postgres table and attribute name quoting optional', 'state': 'closed', 'created_at': '2013-05-22T22:39:24Z', 'closed_at': '2013-07-06T22:49:11Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 639, 'title': 'Circular models?', 'state': 'closed', 'created_at': '2013-05-22T02:21:03Z', 'closed_at': '2013-07-31T05:35:06Z', 'labels': []}
+{'issuenumber': 638, 'title': 'Postgresql find() never reached .error(function(error){})', 'state': 'closed', 'created_at': '2013-05-21T23:02:35Z', 'closed_at': '2013-05-22T09:21:19Z', 'labels': {'name': 'question'}}
+{'issuenumber': 633, 'title': 'Sequelize default ports', 'state': 'closed', 'created_at': '2013-05-19T20:38:59Z', 'closed_at': '2013-06-05T16:23:24Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 631, 'title': 'BigIntegers turnt to Integers after model save', 'state': 'closed', 'created_at': '2013-05-19T19:41:31Z', 'closed_at': '2013-06-19T21:30:32Z', 'labels': []}
+{'issuenumber': 629, 'title': 'When eager-loading WHERE params must be prefixed with table name', 'state': 'closed', 'created_at': '2013-05-18T12:53:42Z', 'closed_at': '2013-05-19T15:51:00Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 628, 'title': 'Nested eager loading?', 'state': 'closed', 'created_at': '2013-05-17T17:35:54Z', 'closed_at': '2013-12-30T08:21:16Z', 'labels': []}
+{'issuenumber': 627, 'title': 'ENUM type not compatible with INSERT/UPDATE MySQL', 'state': 'closed', 'created_at': '2013-05-17T05:22:37Z', 'closed_at': '2013-08-03T12:25:19Z', 'labels': []}
+{'issuenumber': 625, 'title': 'Debugger does not seem to break in node modules', 'state': 'closed', 'created_at': '2013-05-16T11:01:57Z', 'closed_at': '2013-05-16T11:07:24Z', 'labels': []}
+{'issuenumber': 624, 'title': 'Proposal: Express-compatible REST API helper', 'state': 'closed', 'created_at': '2013-05-15T12:15:55Z', 'closed_at': '2013-06-03T15:48:42Z', 'labels': []}
+{'issuenumber': 623, 'title': 'Postgres migration support for UNIQUE', 'state': 'closed', 'created_at': '2013-05-15T02:43:51Z', 'closed_at': '2013-08-01T06:05:42Z', 'labels': []}
+{'issuenumber': 621, 'title': 'Test coverage for sequelize binary', 'state': 'closed', 'created_at': '2013-05-14T05:36:30Z', 'closed_at': '2013-09-18T06:14:03Z', 'labels': []}
+{'issuenumber': 618, 'title': 'No Update Where Leading to N+1 Queries for Updates', 'state': 'closed', 'created_at': '2013-05-13T20:31:33Z', 'closed_at': '2013-05-13T20:40:07Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 617, 'title': 'Trigger events before/after crud operation', 'state': 'closed', 'created_at': '2013-05-13T16:10:47Z', 'closed_at': '2013-05-26T10:25:28Z', 'labels': []}
+{'issuenumber': 615, 'title': 'Sqlite error when migrating with removeColumn', 'state': 'closed', 'created_at': '2013-05-13T02:34:35Z', 'closed_at': '2013-07-31T05:35:41Z', 'labels': []}
+{'issuenumber': 614, 'title': 'LIMIT & OFFSET ignored when eagerly loading nested associations from findAll()', 'state': 'closed', 'created_at': '2013-05-12T00:41:57Z', 'closed_at': '2014-01-05T12:56:23Z', 'labels': []}
+{'issuenumber': 611, 'title': 'Sequelize performance updates on medium-sized dataset', 'state': 'closed', 'created_at': '2013-05-11T05:33:06Z', 'closed_at': '2014-02-02T13:32:07Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 610, 'title': 'Verbosity', 'state': 'closed', 'created_at': '2013-05-10T23:42:09Z', 'closed_at': '2015-01-14T08:25:49Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 607, 'title': 'Generated MySQL queries inserting BOOLEAN field values as booleans, not integers', 'state': 'closed', 'created_at': '2013-05-10T16:27:28Z', 'closed_at': '2013-05-13T19:55:09Z', 'labels': []}
+{'issuenumber': 606, 'title': 'Query in sqlite/mysql return error when where is left empty', 'state': 'closed', 'created_at': '2013-05-10T11:09:31Z', 'closed_at': '2013-06-05T20:01:14Z', 'labels': []}
+{'issuenumber': 605, 'title': 'Multiple One to many relations modelling', 'state': 'closed', 'created_at': '2013-05-10T06:16:46Z', 'closed_at': '2013-05-13T11:35:52Z', 'labels': []}
+{'issuenumber': 604, 'title': 'DataType (boolean) issue for PostgreSQL', 'state': 'closed', 'created_at': '2013-05-10T03:33:46Z', 'closed_at': '2013-06-09T20:42:07Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 600, 'title': 'Add support for LIKE queries', 'state': 'closed', 'created_at': '2013-05-09T15:35:03Z', 'closed_at': '2013-05-12T14:30:22Z', 'labels': []}
+{'issuenumber': 599, 'title': 'Singleton object instance as a solution for async data inconsistency?', 'state': 'closed', 'created_at': '2013-05-08T23:20:26Z', 'closed_at': '2014-01-07T18:20:28Z', 'labels': []}
+{'issuenumber': 598, 'title': 'Model Default values', 'state': 'closed', 'created_at': '2013-05-08T17:54:09Z', 'closed_at': '2013-07-06T16:25:11Z', 'labels': []}
+{'issuenumber': 596, 'title': 'Able to insert with no columns', 'state': 'closed', 'created_at': '2013-05-07T06:42:05Z', 'closed_at': '2013-08-09T11:43:28Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 593, 'title': 'Sequelize appears to be updating every associated record on add?', 'state': 'closed', 'created_at': '2013-05-06T18:57:27Z', 'closed_at': '2013-05-06T19:55:08Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 592, 'title': "INSERT error Cannot read property 'autoIncrementField' of undefined", 'state': 'closed', 'created_at': '2013-05-06T14:40:45Z', 'closed_at': '2013-05-07T08:04:53Z', 'labels': []}
+{'issuenumber': 590, 'title': 'Need a better error message when model field type is undefined', 'state': 'closed', 'created_at': '2013-05-05T01:38:12Z', 'closed_at': '2013-05-08T09:48:10Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 581, 'title': 'Specify Configuration File to Sequelize bin?', 'state': 'closed', 'created_at': '2013-05-02T06:12:30Z', 'closed_at': '2013-08-20T19:28:43Z', 'labels': []}
+{'issuenumber': 579, 'title': 'parseInt option for Queries - parseFloat missing?', 'state': 'closed', 'created_at': '2013-05-01T09:13:49Z', 'closed_at': '2013-05-02T18:58:19Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 578, 'title': 'Sequelize support for SSL-enabled MySQL servers?', 'state': 'closed', 'created_at': '2013-04-30T20:52:27Z', 'closed_at': '2013-12-09T13:25:40Z', 'labels': []}
+{'issuenumber': 577, 'title': 'Proposal: Get/Set functions for each attribute', 'state': 'closed', 'created_at': '2013-04-30T17:39:56Z', 'closed_at': '2013-05-15T00:52:04Z', 'labels': []}
+{'issuenumber': 576, 'title': 'DAO.values is slow for large objects', 'state': 'closed', 'created_at': '2013-04-30T15:10:39Z', 'closed_at': '2013-12-27T21:13:52Z', 'labels': []}
+{'issuenumber': 571, 'title': 'Error when connecting to postgres 9.2', 'state': 'closed', 'created_at': '2013-04-28T20:08:31Z', 'closed_at': '2013-04-30T17:30:19Z', 'labels': []}
+{'issuenumber': 570, 'title': 'Two small errors in the introduction to the documentation', 'state': 'closed', 'created_at': '2013-04-28T13:12:37Z', 'closed_at': '2013-05-07T05:33:43Z', 'labels': []}
+{'issuenumber': 568, 'title': "Cannot find module 'pg' in migration for postgres", 'state': 'closed', 'created_at': '2013-04-27T02:42:13Z', 'closed_at': '2013-07-30T14:13:39Z', 'labels': []}
+{'issuenumber': 566, 'title': "Auto-generated migration skeletons don't include 'done' argument", 'state': 'closed', 'created_at': '2013-04-26T03:22:47Z', 'closed_at': '2013-04-26T06:02:51Z', 'labels': []}
+{'issuenumber': 565, 'title': 'DataTypes.TEXT and MySQL TEXT size limit', 'state': 'closed', 'created_at': '2013-04-24T16:12:43Z', 'closed_at': '2013-07-30T22:24:00Z', 'labels': []}
+{'issuenumber': 563, 'title': 'Proposal: Add two new functions for data types', 'state': 'closed', 'created_at': '2013-04-23T14:17:56Z', 'closed_at': '2013-05-15T00:50:36Z', 'labels': []}
+{'issuenumber': 561, 'title': 'Use config/config.json as sequelize parameters?', 'state': 'closed', 'created_at': '2013-04-21T22:12:39Z', 'closed_at': '2015-03-24T15:19:15Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 560, 'title': 'Enum defined in object causes query syntax error', 'state': 'closed', 'created_at': '2013-04-21T10:47:55Z', 'closed_at': '2013-04-22T19:40:45Z', 'labels': []}
+{'issuenumber': 559, 'title': 'Support for bulk insert and delete', 'state': 'closed', 'created_at': '2013-04-21T09:03:41Z', 'closed_at': '2013-05-09T21:11:47Z', 'labels': []}
+{'issuenumber': 556, 'title': "Associated object accessors don't accept the same options as find/findAll", 'state': 'closed', 'created_at': '2013-04-19T23:27:39Z', 'closed_at': '2014-01-05T12:55:36Z', 'labels': []}
+{'issuenumber': 555, 'title': 'updateAttributes saves everything instead of only the attributes updated', 'state': 'closed', 'created_at': '2013-04-18T05:42:00Z', 'closed_at': '2013-09-17T14:32:55Z', 'labels': {'name': 'question'}}
+{'issuenumber': 551, 'title': 'using a nonexistent datatype throws a very misleading error', 'state': 'closed', 'created_at': '2013-04-16T20:51:06Z', 'closed_at': '2013-04-28T10:20:51Z', 'labels': []}
+{'issuenumber': 550, 'title': 'why not just providing the node-callback-style interface', 'state': 'closed', 'created_at': '2013-04-16T06:31:25Z', 'closed_at': '2013-06-05T20:04:32Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 549, 'title': 'Transient property', 'state': 'closed', 'created_at': '2013-04-16T03:24:29Z', 'closed_at': '2013-07-11T12:18:09Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 548, 'title': 'Postgres sync fails to call back', 'state': 'closed', 'created_at': '2013-04-15T16:39:27Z', 'closed_at': '2013-04-28T20:09:25Z', 'labels': []}
+{'issuenumber': 547, 'title': 'Using an alias for included model causes eager load to fail', 'state': 'closed', 'created_at': '2013-04-14T20:36:35Z', 'closed_at': '2013-05-26T11:00:37Z', 'labels': []}
+{'issuenumber': 546, 'title': 'ENUM Breaking sync in PG', 'state': 'closed', 'created_at': '2013-04-13T18:37:14Z', 'closed_at': '2013-09-03T19:27:03Z', 'labels': []}
+{'issuenumber': 545, 'title': 'deletedAt is broken, when running updateAttributes()', 'state': 'closed', 'created_at': '2013-04-13T15:39:25Z', 'closed_at': '2013-05-08T17:45:40Z', 'labels': []}
+{'issuenumber': 544, 'title': 'Multiple associations of the same Model', 'state': 'closed', 'created_at': '2013-04-13T12:09:13Z', 'closed_at': '2013-07-31T04:51:33Z', 'labels': []}
+{'issuenumber': 543, 'title': 'Model.find(0) executes "SELECT * FROM `Model` LIMIT 1" ', 'state': 'closed', 'created_at': '2013-04-12T17:29:56Z', 'closed_at': '2013-04-19T08:10:36Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 542, 'title': 'Include [Partial Attributes]', 'state': 'closed', 'created_at': '2013-04-11T23:14:20Z', 'closed_at': '2013-08-23T10:56:15Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 541, 'title': 'Real schematic support', 'state': 'closed', 'created_at': '2013-04-11T22:06:47Z', 'closed_at': '2013-04-24T18:24:34Z', 'labels': []}
+{'issuenumber': 539, 'title': "The CLI fails silently if it can't connect to the database ", 'state': 'closed', 'created_at': '2013-04-11T14:01:01Z', 'closed_at': '2014-02-19T19:35:32Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 537, 'title': 'Sequelize.sync() should support ALTER statements instead of full DROP+CREATE statements', 'state': 'closed', 'created_at': '2013-04-11T02:37:17Z', 'closed_at': '2017-03-20T16:39:22Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 535, 'title': 'Limiting/Controlling default returned values for models', 'state': 'closed', 'created_at': '2013-04-10T20:17:19Z', 'closed_at': '2014-03-10T10:28:42Z', 'labels': {'name': 'question'}}
+{'issuenumber': 532, 'title': 'Queries are executed immediately when defined in a chainer', 'state': 'closed', 'created_at': '2013-04-10T11:46:22Z', 'closed_at': '2013-04-10T14:08:42Z', 'labels': []}
+{'issuenumber': 531, 'title': 'Full Count with Pagination', 'state': 'closed', 'created_at': '2013-04-10T04:13:29Z', 'closed_at': '2013-06-21T20:27:10Z', 'labels': []}
+{'issuenumber': 530, 'title': 'Support for Limit and Offset', 'state': 'closed', 'created_at': '2013-04-10T04:03:45Z', 'closed_at': '2013-04-10T04:11:23Z', 'labels': []}
+{'issuenumber': 529, 'title': 'Incorrect flagging of `hasJoin`', 'state': 'closed', 'created_at': '2013-04-09T23:28:45Z', 'closed_at': '2013-04-11T16:58:49Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 526, 'title': 'DAOFactory.prototype.find should default to explicit field SELECTing', 'state': 'closed', 'created_at': '2013-04-09T10:03:47Z', 'closed_at': '2014-05-10T16:18:49Z', 'labels': []}
+{'issuenumber': 524, 'title': 'Instance properties not created (build) if no default value', 'state': 'closed', 'created_at': '2013-04-08T20:38:43Z', 'closed_at': '2013-07-31T04:54:02Z', 'labels': []}
+{'issuenumber': 521, 'title': "Where's the Heroku docs repository?", 'state': 'closed', 'created_at': '2013-04-07T18:36:51Z', 'closed_at': '2013-05-30T09:43:44Z', 'labels': {'name': 'question'}}
+{'issuenumber': 520, 'title': 'ENUMs dont actually work anymore...', 'state': 'closed', 'created_at': '2013-04-07T02:15:04Z', 'closed_at': '2013-05-07T05:43:40Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 519, 'title': 'Load from JSON object', 'state': 'closed', 'created_at': '2013-04-06T19:44:31Z', 'closed_at': '2013-04-08T18:01:39Z', 'labels': {'name': 'question'}}
+{'issuenumber': 518, 'title': 'Invalid .find(id) query', 'state': 'closed', 'created_at': '2013-04-06T17:25:11Z', 'closed_at': '2013-04-06T17:26:27Z', 'labels': []}
+{'issuenumber': 517, 'title': 'Problem with hasMany eager loading', 'state': 'closed', 'created_at': '2013-04-06T16:44:45Z', 'closed_at': '2013-04-17T18:59:10Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 516, 'title': 'Include breaking when multiple tables have the same relation', 'state': 'closed', 'created_at': '2013-04-05T13:57:34Z', 'closed_at': '2013-07-17T00:09:42Z', 'labels': []}
+{'issuenumber': 515, 'title': 'Include not working with many-to-many', 'state': 'closed', 'created_at': '2013-04-05T13:54:53Z', 'closed_at': '2013-12-30T21:13:07Z', 'labels': []}
+{'issuenumber': 514, 'title': 'Migration is not working on 1.6.0', 'state': 'closed', 'created_at': '2013-04-04T17:32:05Z', 'closed_at': '2013-04-04T18:07:44Z', 'labels': []}
+{'issuenumber': 513, 'title': 'Indicating which model to eagerly load with multiple associations to the same model', 'state': 'closed', 'created_at': '2013-04-04T16:54:52Z', 'closed_at': '2013-04-25T06:11:28Z', 'labels': []}
+{'issuenumber': 512, 'title': 'Is it possible to force a disconnect/closing? [Question]', 'state': 'closed', 'created_at': '2013-04-04T16:34:48Z', 'closed_at': '2013-06-19T22:40:33Z', 'labels': []}
+{'issuenumber': 511, 'title': "GEOMETRY fields / Custom SQL Value 'Renderers'", 'state': 'closed', 'created_at': '2013-04-04T16:21:00Z', 'closed_at': '2017-07-06T23:25:18Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 510, 'title': 'Allow named replacements in query strings', 'state': 'closed', 'created_at': '2013-04-04T03:14:12Z', 'closed_at': '2013-08-18T11:09:35Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 508, 'title': 'Framework Question', 'state': 'closed', 'created_at': '2013-04-02T23:27:20Z', 'closed_at': '2013-06-19T22:38:48Z', 'labels': {'name': 'question'}}
+{'issuenumber': 506, 'title': 'Location of `configPath` and `migrationsPath` should be configurable for sequelize binary.', 'state': 'closed', 'created_at': '2013-04-02T04:44:49Z', 'closed_at': '2015-03-24T15:18:58Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 505, 'title': 'Any sign of 1.6.0 final?', 'state': 'closed', 'created_at': '2013-04-01T15:13:43Z', 'closed_at': '2013-04-02T10:22:12Z', 'labels': {'name': 'question'}}
+{'issuenumber': 504, 'title': 'Change default value of allowNull for all models', 'state': 'closed', 'created_at': '2013-03-30T14:41:10Z', 'closed_at': '2022-04-16T17:33:58Z', 'labels': {'name': 'question'}}
+{'issuenumber': 503, 'title': 'Error callback only called for every second error', 'state': 'closed', 'created_at': '2013-03-30T10:12:51Z', 'closed_at': '2013-06-13T15:34:54Z', 'labels': []}
+{'issuenumber': 500, 'title': 'mapping models with query, in an insert request', 'state': 'closed', 'created_at': '2013-03-27T09:07:35Z', 'closed_at': '2013-06-25T16:13:53Z', 'labels': []}
+{'issuenumber': 499, 'title': 'Length validation not working for string on sqlite', 'state': 'closed', 'created_at': '2013-03-24T04:01:08Z', 'closed_at': '2013-04-06T19:27:02Z', 'labels': []}
+{'issuenumber': 496, 'title': 'allowNull should prevent empty string', 'state': 'closed', 'created_at': '2013-03-23T18:40:27Z', 'closed_at': '2013-03-24T03:59:01Z', 'labels': []}
+{'issuenumber': 494, 'title': 'fix DAO.prototype.equals', 'state': 'closed', 'created_at': '2013-03-21T05:24:57Z', 'closed_at': '2013-03-24T13:03:15Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 492, 'title': 'Validation on create.', 'state': 'closed', 'created_at': '2013-03-18T19:43:41Z', 'closed_at': '2013-05-11T19:00:37Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 491, 'title': 'Add CUBRID Database support', 'state': 'closed', 'created_at': '2013-03-15T15:01:54Z', 'closed_at': '2015-03-24T15:17:57Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 489, 'title': 'How to use association-functions on fetched instances?', 'state': 'closed', 'created_at': '2013-03-14T20:53:05Z', 'closed_at': '2014-01-05T12:54:55Z', 'labels': []}
+{'issuenumber': 488, 'title': 'Hi， is it possible to log out how long a individual sql has taken?', 'state': 'closed', 'created_at': '2013-03-14T03:16:50Z', 'closed_at': '2016-01-06T12:51:34Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 487, 'title': 'InnoDB and foreign keys', 'state': 'closed', 'created_at': '2013-03-12T15:55:28Z', 'closed_at': '2013-05-08T17:28:15Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 485, 'title': 'Add support for merge/upsert', 'state': 'closed', 'created_at': '2013-03-12T02:14:18Z', 'closed_at': '2014-12-02T17:58:13Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 484, 'title': 'Problem with IDs when creating new instance', 'state': 'closed', 'created_at': '2013-03-11T13:16:53Z', 'closed_at': '2013-03-12T08:42:54Z', 'labels': {'name': 'question'}}
+{'issuenumber': 482, 'title': 'When I does sqlresult.addAssociation and add one item it updates all.', 'state': 'closed', 'created_at': '2013-03-08T21:07:23Z', 'closed_at': '2013-05-26T10:21:01Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 481, 'title': 'On failing .save() the error callback is not always called', 'state': 'closed', 'created_at': '2013-03-07T10:54:41Z', 'closed_at': '2014-01-22T21:18:14Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 479, 'title': 'Table schema + attributes', 'state': 'closed', 'created_at': '2013-03-06T13:18:59Z', 'closed_at': '2013-03-06T15:58:12Z', 'labels': []}
+{'issuenumber': 478, 'title': 'Migrator object never emitting events', 'state': 'closed', 'created_at': '2013-03-06T12:45:25Z', 'closed_at': '2014-01-30T10:52:47Z', 'labels': []}
+{'issuenumber': 475, 'title': 'Is it possible to create a intermediate table with many-to-many relationship with composite primary key?', 'state': 'closed', 'created_at': '2013-03-05T13:53:27Z', 'closed_at': '2013-12-09T13:33:48Z', 'labels': []}
+{'issuenumber': 474, 'title': 'Do you have support DOUBLE/DOUBLE PRECISION ?', 'state': 'closed', 'created_at': '2013-03-05T12:47:13Z', 'closed_at': '2013-03-05T12:59:36Z', 'labels': {'name': 'question'}}
+{'issuenumber': 471, 'title': 'sqllite is always included in query-interface', 'state': 'closed', 'created_at': '2013-03-04T15:16:33Z', 'closed_at': '2013-03-04T15:38:55Z', 'labels': []}
+{'issuenumber': 470, 'title': 'Sequelize exposes global (Utils)', 'state': 'closed', 'created_at': '2013-03-04T15:13:31Z', 'closed_at': '2013-03-04T15:34:43Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 469, 'title': 'add eagerly loaded associations to toJSON', 'state': 'closed', 'created_at': '2013-03-04T07:52:59Z', 'closed_at': '2013-03-04T20:10:44Z', 'labels': []}
+{'issuenumber': 466, 'title': 'Incorrect timestamps obtained when the zone is different from UTC', 'state': 'closed', 'created_at': '2013-02-26T20:51:13Z', 'closed_at': '2013-02-27T14:08:40Z', 'labels': []}
+{'issuenumber': 463, 'title': 'Bug in documentation at http://www.sequelizejs.com/', 'state': 'closed', 'created_at': '2013-02-26T10:19:12Z', 'closed_at': '2013-02-26T12:57:29Z', 'labels': []}
+{'issuenumber': 462, 'title': 'Polymorphic associations', 'state': 'closed', 'created_at': '2013-02-26T02:30:20Z', 'closed_at': '2014-04-06T19:56:23Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 460, 'title': 'max() and now() Limitations', 'state': 'closed', 'created_at': '2013-02-25T03:10:37Z', 'closed_at': '2013-07-06T22:15:28Z', 'labels': []}
+{'issuenumber': 459, 'title': 'Order By Associations Fails', 'state': 'closed', 'created_at': '2013-02-24T20:17:44Z', 'closed_at': '2013-02-24T21:39:27Z', 'labels': {'name': 'question'}}
+{'issuenumber': 458, 'title': 'Set associations does not set id', 'state': 'closed', 'created_at': '2013-02-22T22:24:57Z', 'closed_at': '2013-05-26T10:20:23Z', 'labels': {'name': 'question'}}
+{'issuenumber': 454, 'title': 'Multiple reupdates using QueryChainer', 'state': 'closed', 'created_at': '2013-02-19T19:13:33Z', 'closed_at': '2014-03-10T10:27:43Z', 'labels': []}
+{'issuenumber': 453, 'title': 'Utils.format returns incorrect format for PostgreSQL', 'state': 'closed', 'created_at': '2013-02-19T12:28:03Z', 'closed_at': '2013-02-19T14:20:45Z', 'labels': []}
+{'issuenumber': 452, 'title': 'Add ability to pass session information (sid) thru to logging', 'state': 'closed', 'created_at': '2013-02-19T01:27:57Z', 'closed_at': '2017-07-06T23:25:17Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 451, 'title': "Postgres doesn't work properly with migrations", 'state': 'closed', 'created_at': '2013-02-18T14:34:46Z', 'closed_at': '2013-04-11T18:03:01Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 448, 'title': 'Validation fails when fields not entered', 'state': 'closed', 'created_at': '2013-02-17T04:33:34Z', 'closed_at': '2013-07-06T22:17:19Z', 'labels': []}
+{'issuenumber': 447, 'title': 'Bug: Error on reusing query option objects', 'state': 'closed', 'created_at': '2013-02-16T17:58:16Z', 'closed_at': '2013-02-18T13:53:32Z', 'labels': []}
+{'issuenumber': 442, 'title': 'Inserts NULL at the id INT', 'state': 'closed', 'created_at': '2013-02-06T14:22:08Z', 'closed_at': '2013-02-07T07:37:34Z', 'labels': []}
+{'issuenumber': 441, 'title': 'Docs in docs subdirectory have absolute paths for your system', 'state': 'closed', 'created_at': '2013-02-06T05:17:20Z', 'closed_at': '2013-02-26T16:59:18Z', 'labels': []}
+{'issuenumber': 439, 'title': "Using the new 'include' gives null objects.", 'state': 'closed', 'created_at': '2013-02-04T12:50:59Z', 'closed_at': '2013-04-02T11:59:41Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 438, 'title': 'postgres dao-factory test failure due to time zone', 'state': 'closed', 'created_at': '2013-02-03T14:56:03Z', 'closed_at': '2013-02-26T17:03:26Z', 'labels': []}
+{'issuenumber': 437, 'title': 'postgres Migrator test failure', 'state': 'closed', 'created_at': '2013-02-03T14:53:37Z', 'closed_at': '2013-12-13T12:26:36Z', 'labels': []}
+{'issuenumber': 436, 'title': 'Rename date time columns', 'state': 'closed', 'created_at': '2013-02-02T21:00:13Z', 'closed_at': '2013-09-18T05:55:03Z', 'labels': []}
+{'issuenumber': 435, 'title': 'SQLite DATETIME fields are not showing. ', 'state': 'closed', 'created_at': '2013-02-01T21:47:38Z', 'closed_at': '2013-02-02T13:08:28Z', 'labels': []}
+{'issuenumber': 434, 'title': 'Proposal: Add hooks for each model', 'state': 'closed', 'created_at': '2013-02-01T17:06:43Z', 'closed_at': '2013-06-20T05:14:12Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 431, 'title': 'Getting several data from several objects', 'state': 'closed', 'created_at': '2013-01-31T02:14:26Z', 'closed_at': '2013-07-06T22:16:43Z', 'labels': {'name': 'question'}}
+{'issuenumber': 427, 'title': 'Proposal to remove a certain test', 'state': 'closed', 'created_at': '2013-01-29T06:23:03Z', 'closed_at': '2013-05-07T05:20:26Z', 'labels': []}
+{'issuenumber': 426, 'title': 'QueryGenerator.updateQuery escapes out all values in attrValueHash, cannot set value to a SQL function', 'state': 'closed', 'created_at': '2013-01-29T02:10:52Z', 'closed_at': '2013-12-13T12:28:43Z', 'labels': []}
+{'issuenumber': 425, 'title': 'Single linked associations wont delete', 'state': 'closed', 'created_at': '2013-01-28T16:55:37Z', 'closed_at': '2013-06-20T05:17:58Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 424, 'title': 'Sqlite on ubuntu 12.04', 'state': 'closed', 'created_at': '2013-01-23T17:23:52Z', 'closed_at': '2013-07-06T22:17:48Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 423, 'title': 'Is there something similar to ActiveModel::SecurePassword in Sequelize?', 'state': 'closed', 'created_at': '2013-01-22T11:34:48Z', 'closed_at': '2014-01-05T12:54:08Z', 'labels': []}
+{'issuenumber': 422, 'title': 'Cannot undo multiple rounds of migrations', 'state': 'closed', 'created_at': '2013-01-22T01:56:05Z', 'closed_at': '2014-01-11T12:24:11Z', 'labels': []}
+{'issuenumber': 420, 'title': 'Documentation missing', 'state': 'closed', 'created_at': '2013-01-20T20:58:25Z', 'closed_at': '2013-05-08T07:34:15Z', 'labels': []}
+{'issuenumber': 419, 'title': 'when define the instanceMethods/classMethods during the instantiation, will replace the the definition in Model define', 'state': 'closed', 'created_at': '2013-01-18T07:57:24Z', 'closed_at': '2013-06-20T05:18:36Z', 'labels': {'name': 'question'}}
+{'issuenumber': 416, 'title': 'Postgres: INSERT queries passing NULL as value for an "id" column', 'state': 'closed', 'created_at': '2013-01-16T03:38:53Z', 'closed_at': '2013-01-17T01:11:30Z', 'labels': []}
+{'issuenumber': 413, 'title': 'Foreign identifier of self association should be singular', 'state': 'closed', 'created_at': '2013-01-15T15:14:25Z', 'closed_at': '2013-06-20T05:19:12Z', 'labels': []}
+{'issuenumber': 412, 'title': 'Why does sequelize custom event emittor uses setTimeout(func, 1) and not process.nextTick', 'state': 'closed', 'created_at': '2013-01-14T15:37:44Z', 'closed_at': '2013-05-09T21:51:10Z', 'labels': []}
+{'issuenumber': 411, 'title': 'Ability to save/update not predefined fields', 'state': 'closed', 'created_at': '2013-01-14T11:48:36Z', 'closed_at': '2013-12-30T21:41:55Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 409, 'title': "TypeError: Cannot call method 'indexOf' of undefined", 'state': 'closed', 'created_at': '2013-01-12T10:28:51Z', 'closed_at': '2013-01-12T10:45:11Z', 'labels': []}
+{'issuenumber': 407, 'title': 'Using MySQL date format function', 'state': 'closed', 'created_at': '2013-01-11T10:30:48Z', 'closed_at': '2013-01-13T23:27:03Z', 'labels': []}
+{'issuenumber': 402, 'title': 'Q: using Sequelize with MySQL client wrapper', 'state': 'closed', 'created_at': '2013-01-08T18:56:08Z', 'closed_at': '2013-07-11T12:06:41Z', 'labels': {'name': 'question'}}
+{'issuenumber': 401, 'title': "Migration command should filter out anything that doesn't end in .js", 'state': 'closed', 'created_at': '2013-01-08T18:07:25Z', 'closed_at': '2013-01-10T06:12:40Z', 'labels': []}
+{'issuenumber': 399, 'title': "Association problem - 'connectorDAO' of null ", 'state': 'closed', 'created_at': '2013-01-07T20:27:35Z', 'closed_at': '2013-01-09T19:15:02Z', 'labels': []}
+{'issuenumber': 398, 'title': 'Enhancement Request: where on updateAttributes', 'state': 'closed', 'created_at': '2013-01-07T16:03:55Z', 'closed_at': '2013-05-07T05:20:01Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 397, 'title': 'Will the update and delete method for Model be in the roadmap?', 'state': 'closed', 'created_at': '2013-01-06T11:36:01Z', 'closed_at': '2013-05-11T19:01:30Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 395, 'title': 'Need "SET NAMES utf8"', 'state': 'closed', 'created_at': '2013-01-06T05:53:06Z', 'closed_at': '2013-11-23T13:19:36Z', 'labels': []}
+{'issuenumber': 392, 'title': 'Integration w/ MariaDB', 'state': 'closed', 'created_at': '2013-01-01T20:40:15Z', 'closed_at': '2013-10-18T08:54:37Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 390, 'title': 'Support for schema dump', 'state': 'closed', 'created_at': '2012-12-29T17:30:37Z', 'closed_at': '2017-07-07T00:26:39Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 389, 'title': 'Support for database-level foreign keys', 'state': 'closed', 'created_at': '2012-12-29T17:23:26Z', 'closed_at': '2013-05-08T07:20:14Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 388, 'title': 'Please implement eager loading of nested associations', 'state': 'closed', 'created_at': '2012-12-29T07:55:20Z', 'closed_at': '2013-12-30T20:55:35Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 387, 'title': 'Association names behave inconsistently when using Find({ include: ... })', 'state': 'closed', 'created_at': '2012-12-28T20:02:08Z', 'closed_at': '2013-04-02T12:00:47Z', 'labels': []}
+{'issuenumber': 386, 'title': 'I am looking a feature like `default_scope` in Rails, hope someone could add it into  sequelize', 'state': 'closed', 'created_at': '2012-12-27T09:15:41Z', 'closed_at': '2014-03-08T18:04:50Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 385, 'title': "QueryChainer().runSerially() doesn't", 'state': 'closed', 'created_at': '2012-12-26T17:01:45Z', 'closed_at': '2012-12-26T17:52:50Z', 'labels': []}
+{'issuenumber': 384, 'title': 'Eager loading two associations of same type on a model results in a crash', 'state': 'closed', 'created_at': '2012-12-22T17:49:13Z', 'closed_at': '2013-04-02T10:42:03Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 383, 'title': 'Create table invoked during sequelize.drop', 'state': 'closed', 'created_at': '2012-12-21T20:55:15Z', 'closed_at': '2013-09-28T22:16:16Z', 'labels': []}
+{'issuenumber': 382, 'title': 'error: invalid value for parameter "TimeZone": "UTC"', 'state': 'closed', 'created_at': '2012-12-21T15:12:34Z', 'closed_at': '2013-05-27T06:29:08Z', 'labels': []}
+{'issuenumber': 381, 'title': 'Set Custom DataTypes', 'state': 'closed', 'created_at': '2012-12-21T09:35:27Z', 'closed_at': '2014-01-05T12:53:31Z', 'labels': []}
+{'issuenumber': 380, 'title': 'Problem using hasMany', 'state': 'closed', 'created_at': '2012-12-20T21:22:30Z', 'closed_at': '2013-08-19T11:23:12Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 379, 'title': 'Default behavior for find() seems wrong', 'state': 'closed', 'created_at': '2012-12-20T19:06:35Z', 'closed_at': '2013-11-05T11:12:18Z', 'labels': []}
+{'issuenumber': 378, 'title': 'Added extra error handling if you specify an invalid data type in your table creation', 'state': 'closed', 'created_at': '2012-12-19T17:05:56Z', 'closed_at': '2013-01-08T17:41:10Z', 'labels': []}
+{'issuenumber': 377, 'title': 'utils query format function remove 0 and null value in sql', 'state': 'closed', 'created_at': '2012-12-19T02:01:38Z', 'closed_at': '2013-02-21T07:23:52Z', 'labels': []}
+{'issuenumber': 374, 'title': 'define instance method and custom instance method', 'state': 'closed', 'created_at': '2012-12-18T00:14:55Z', 'closed_at': '2013-07-06T22:20:00Z', 'labels': []}
+{'issuenumber': 373, 'title': 'Multiple insert and IGNORE INSERT', 'state': 'closed', 'created_at': '2012-12-17T04:26:39Z', 'closed_at': '2013-06-20T05:27:34Z', 'labels': []}
+{'issuenumber': 372, 'title': 'Threat Detected in AVG from mysql module', 'state': 'closed', 'created_at': '2012-12-17T01:33:35Z', 'closed_at': '2012-12-17T06:56:03Z', 'labels': []}
+{'issuenumber': 371, 'title': 'extend isIP validation', 'state': 'closed', 'created_at': '2012-12-16T00:42:40Z', 'closed_at': '2013-05-09T23:32:11Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 370, 'title': 'New enum validation type.', 'state': 'closed', 'created_at': '2012-12-16T00:07:01Z', 'closed_at': '2013-06-20T05:29:55Z', 'labels': []}
+{'issuenumber': 368, 'title': 'Sequelize how set returned data order', 'state': 'closed', 'created_at': '2012-12-13T18:11:24Z', 'closed_at': '2012-12-13T19:56:26Z', 'labels': []}
+{'issuenumber': 366, 'title': "When a sequelize instance is created with a wrong host, the sequelize.sync() doesn't return an error callback.", 'state': 'closed', 'created_at': '2012-12-11T14:39:14Z', 'closed_at': '2013-06-20T05:30:55Z', 'labels': []}
+{'issuenumber': 365, 'title': 'Ignore timezone', 'state': 'closed', 'created_at': '2012-12-10T21:38:08Z', 'closed_at': '2013-02-26T17:03:34Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 364, 'title': 'How do I setup models before creating a new Sequelize and then assign them to a sequelize instance?', 'state': 'closed', 'created_at': '2012-12-10T15:35:49Z', 'closed_at': '2013-07-06T22:19:36Z', 'labels': []}
+{'issuenumber': 363, 'title': "A '0' valued foreign key results in an invalid association result", 'state': 'closed', 'created_at': '2012-12-08T23:28:19Z', 'closed_at': '2013-08-19T11:26:19Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 361, 'title': 'include statement fails when looking for associations', 'state': 'closed', 'created_at': '2012-12-07T14:32:01Z', 'closed_at': '2013-04-02T12:01:12Z', 'labels': []}
+{'issuenumber': 360, 'title': 'UUID DataType', 'state': 'closed', 'created_at': '2012-12-05T07:35:09Z', 'closed_at': '2013-12-05T12:11:39Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 359, 'title': 'Default values for createdAt and updatedAt', 'state': 'closed', 'created_at': '2012-12-04T17:00:57Z', 'closed_at': '2013-09-24T11:50:53Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 358, 'title': 'Cannot override ID field in PG', 'state': 'closed', 'created_at': '2012-12-04T16:55:00Z', 'closed_at': '2013-09-24T10:53:20Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 357, 'title': 'Cannot use function as default', 'state': 'closed', 'created_at': '2012-12-04T16:52:01Z', 'closed_at': '2013-09-23T17:33:37Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 354, 'title': 'truncate all tables', 'state': 'closed', 'created_at': '2012-12-03T07:06:19Z', 'closed_at': '2013-06-21T18:43:38Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 352, 'title': 'Add some way to actually delete entries even if paranoid mode is on', 'state': 'closed', 'created_at': '2012-12-02T14:12:21Z', 'closed_at': '2013-12-13T12:16:52Z', 'labels': []}
+{'issuenumber': 351, 'title': 'Sequelize Sanitization Documentation', 'state': 'closed', 'created_at': '2012-12-01T23:38:50Z', 'closed_at': '2013-12-13T12:29:33Z', 'labels': []}
+{'issuenumber': 349, 'title': 'support finders that span relationships', 'state': 'closed', 'created_at': '2012-11-30T12:38:03Z', 'closed_at': '2013-12-30T21:42:41Z', 'labels': []}
+{'issuenumber': 348, 'title': 'GROUP BY support', 'state': 'closed', 'created_at': '2012-11-30T11:06:16Z', 'closed_at': '2013-05-07T06:33:03Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 347, 'title': 'Delete on N:M associations', 'state': 'closed', 'created_at': '2012-11-29T11:57:25Z', 'closed_at': '2013-06-13T15:40:33Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 346, 'title': 'Attach an observer to post insert/update/delete events', 'state': 'closed', 'created_at': '2012-11-28T16:50:15Z', 'closed_at': '2013-09-28T22:08:55Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 342, 'title': 'Model-based Identity map', 'state': 'closed', 'created_at': '2012-11-23T12:52:32Z', 'closed_at': '2015-04-28T15:53:50Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 340, 'title': 'Add EventEmitter functionality to DAO', 'state': 'closed', 'created_at': '2012-11-22T22:46:59Z', 'closed_at': '2014-01-05T12:51:58Z', 'labels': []}
+{'issuenumber': 339, 'title': 'A question about generating Sequialize model from DB', 'state': 'closed', 'created_at': '2012-11-21T20:26:54Z', 'closed_at': '2013-06-20T05:45:20Z', 'labels': []}
+{'issuenumber': 338, 'title': 'Is it possible to specify a table name when i using methods like find & findAll?', 'state': 'closed', 'created_at': '2012-11-21T03:10:47Z', 'closed_at': '2012-11-22T20:57:08Z', 'labels': []}
+{'issuenumber': 337, 'title': 'How to expand model after creation? (plugins)', 'state': 'closed', 'created_at': '2012-11-20T19:30:15Z', 'closed_at': '2014-01-05T12:51:37Z', 'labels': []}
+{'issuenumber': 336, 'title': 'Create non-auto_increment id field as primary key', 'state': 'closed', 'created_at': '2012-11-20T12:00:29Z', 'closed_at': '2013-09-17T09:57:09Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 335, 'title': 'Result of find with include wrong when having associations with different number of associated objects', 'state': 'closed', 'created_at': '2012-11-19T14:36:11Z', 'closed_at': '2013-11-29T09:34:26Z', 'labels': []}
+{'issuenumber': 334, 'title': '\'include\' places a "null" element to the result if no data is related', 'state': 'closed', 'created_at': '2012-11-19T14:18:12Z', 'closed_at': '2013-02-21T20:38:44Z', 'labels': []}
+{'issuenumber': 333, 'title': 'ER_DUP_ENTRY on update', 'state': 'closed', 'created_at': '2012-11-18T01:56:56Z', 'closed_at': '2013-08-18T13:30:55Z', 'labels': []}
+{'issuenumber': 332, 'title': 'A mistake in the documentation at http://sequelizejs.com', 'state': 'closed', 'created_at': '2012-11-16T09:06:51Z', 'closed_at': '2012-11-23T20:20:25Z', 'labels': []}
+{'issuenumber': 327, 'title': 'fetching associations fails when parent object has more than one association of same type', 'state': 'closed', 'created_at': '2012-11-15T01:57:48Z', 'closed_at': '2012-11-23T19:03:29Z', 'labels': []}
+{'issuenumber': 326, 'title': 'Document how to use migrations programmatically', 'state': 'closed', 'created_at': '2012-11-14T22:40:54Z', 'closed_at': '2013-09-05T11:58:37Z', 'labels': []}
+{'issuenumber': 325, 'title': 'Run migrations progmatically?', 'state': 'closed', 'created_at': '2012-11-14T22:18:12Z', 'closed_at': '2012-11-14T22:19:26Z', 'labels': []}
+{'issuenumber': 321, 'title': 'Query with greater than or equal to not working', 'state': 'closed', 'created_at': '2012-11-10T00:01:58Z', 'closed_at': '2013-06-28T10:16:28Z', 'labels': []}
+{'issuenumber': 320, 'title': 'Record not returning association data to client', 'state': 'closed', 'created_at': '2012-11-09T22:52:47Z', 'closed_at': '2013-12-17T18:15:49Z', 'labels': []}
+{'issuenumber': 318, 'title': "Can't use association's Setter", 'state': 'closed', 'created_at': '2012-11-09T12:35:12Z', 'closed_at': '2013-04-02T10:41:54Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 317, 'title': 'Column user_id gets created on model without being asked for', 'state': 'closed', 'created_at': '2012-11-09T07:05:22Z', 'closed_at': '2013-06-08T10:21:38Z', 'labels': {'name': 'question'}}
+{'issuenumber': 314, 'title': 'Problems with raw query', 'state': 'closed', 'created_at': '2012-11-06T11:02:55Z', 'closed_at': '2013-02-23T12:50:44Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 313, 'title': 'How to execute custom SQL in migration?', 'state': 'closed', 'created_at': '2012-11-06T03:26:40Z', 'closed_at': '2013-12-17T18:17:24Z', 'labels': []}
+{'issuenumber': 311, 'title': 'Composite foreign keys', 'state': 'closed', 'created_at': '2012-11-04T17:33:45Z', 'closed_at': '2021-05-29T04:48:44Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 310, 'title': 'sequelize creating ManyToMany junction tables without calling sync()', 'state': 'closed', 'created_at': '2012-11-03T07:59:59Z', 'closed_at': '2013-08-04T12:41:32Z', 'labels': []}
+{'issuenumber': 306, 'title': 'Model does not work with table created by migration', 'state': 'closed', 'created_at': '2012-11-01T08:47:31Z', 'closed_at': '2012-11-03T03:50:53Z', 'labels': []}
+{'issuenumber': 305, 'title': 'JSON-like strings in columns of postgres type json', 'state': 'closed', 'created_at': '2012-10-31T20:55:51Z', 'closed_at': '2013-07-31T02:37:53Z', 'labels': []}
+{'issuenumber': 304, 'title': 'Make instanceMethods and classMethods inherit global options', 'state': 'closed', 'created_at': '2012-10-31T15:58:26Z', 'closed_at': '2012-11-06T19:28:13Z', 'labels': []}
+{'issuenumber': 303, 'title': 'ManyToMany-Relations: add<column> will result in too many insert-queries', 'state': 'closed', 'created_at': '2012-10-31T12:44:49Z', 'closed_at': '2013-02-21T20:14:31Z', 'labels': []}
+{'issuenumber': 294, 'title': 'NoSQL engines', 'state': 'closed', 'created_at': '2012-10-24T11:56:18Z', 'closed_at': '2013-06-20T05:48:11Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 293, 'title': 'Performance', 'state': 'closed', 'created_at': '2012-10-20T10:32:43Z', 'closed_at': '2012-10-20T12:23:39Z', 'labels': []}
+{'issuenumber': 292, 'title': "Adding a option 'length' to specify columnlength more specifically in model definition", 'state': 'closed', 'created_at': '2012-10-18T07:50:08Z', 'closed_at': '2013-06-08T10:24:18Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 291, 'title': '1.6.0-alpha-2: Raw querys fail as this.callee.__factory.autoIncrementField is not set', 'state': 'closed', 'created_at': '2012-10-17T15:13:57Z', 'closed_at': '2012-10-21T11:49:38Z', 'labels': []}
+{'issuenumber': 290, 'title': 'Implement .deleteSomething() - similar to .getSomething() / .setSomething', 'state': 'closed', 'created_at': '2012-10-16T18:05:35Z', 'closed_at': '2012-10-16T18:23:57Z', 'labels': []}
+{'issuenumber': 289, 'title': 'Custom validation not getting callled', 'state': 'closed', 'created_at': '2012-10-12T20:37:43Z', 'closed_at': '2012-10-16T05:12:54Z', 'labels': []}
+{'issuenumber': 288, 'title': 'Promises/A and sequelize', 'state': 'closed', 'created_at': '2012-10-12T16:03:18Z', 'closed_at': '2013-05-20T12:26:34Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 286, 'title': 'Invalid sql statement when passing empty array to where condition', 'state': 'closed', 'created_at': '2012-10-11T10:46:34Z', 'closed_at': '2012-11-23T20:22:33Z', 'labels': []}
+{'issuenumber': 282, 'title': 'Multiple hasMany', 'state': 'closed', 'created_at': '2012-10-05T13:10:06Z', 'closed_at': '2013-12-19T19:00:25Z', 'labels': []}
+{'issuenumber': 281, 'title': 'Question about associations', 'state': 'closed', 'created_at': '2012-10-03T10:27:11Z', 'closed_at': '2012-10-03T12:06:56Z', 'labels': []}
+{'issuenumber': 280, 'title': "Creating a schema column named 'values' crashes sequelize in obscure way.", 'state': 'closed', 'created_at': '2012-10-02T00:17:24Z', 'closed_at': '2013-05-26T11:34:20Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 277, 'title': 'dao.save() without altering updatedAt field', 'state': 'closed', 'created_at': '2012-10-01T00:32:27Z', 'closed_at': '2014-05-05T08:43:02Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 276, 'title': 'Update mysql dependency', 'state': 'closed', 'created_at': '2012-09-28T23:41:56Z', 'closed_at': '2012-10-08T17:19:26Z', 'labels': []}
+{'issuenumber': 275, 'title': 'sequelize asyncronous validations', 'state': 'closed', 'created_at': '2012-09-28T15:06:34Z', 'closed_at': '2013-06-05T11:10:00Z', 'labels': []}
+{'issuenumber': 274, 'title': 'Populate data for associations', 'state': 'closed', 'created_at': '2012-09-26T19:38:40Z', 'closed_at': '2012-11-02T21:21:19Z', 'labels': []}
+{'issuenumber': 273, 'title': 'Unsigned integer', 'state': 'closed', 'created_at': '2012-09-23T08:59:23Z', 'closed_at': '2013-05-26T11:36:37Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 272, 'title': 'flag to emit an error if select result is null', 'state': 'closed', 'created_at': '2012-09-20T17:41:01Z', 'closed_at': '2016-03-17T09:26:45Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 270, 'title': "option for ignore validation on fields with 'allowNull=true'", 'state': 'closed', 'created_at': '2012-09-19T17:00:19Z', 'closed_at': '2013-05-09T21:43:58Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 269, 'title': 'Problem with Finders and variable scope', 'state': 'closed', 'created_at': '2012-09-15T06:30:38Z', 'closed_at': '2012-09-15T19:02:39Z', 'labels': []}
+{'issuenumber': 268, 'title': 'Using hasMany is only allowing many-to-many relationships', 'state': 'closed', 'created_at': '2012-09-10T23:32:45Z', 'closed_at': '2012-09-15T23:48:12Z', 'labels': []}
+{'issuenumber': 266, 'title': 'out of sync p_keys for existing data', 'state': 'closed', 'created_at': '2012-09-05T08:11:43Z', 'closed_at': '2013-08-01T03:20:32Z', 'labels': []}
+{'issuenumber': 263, 'title': 'Multiple Databases', 'state': 'closed', 'created_at': '2012-08-31T17:41:08Z', 'closed_at': '2012-11-23T20:25:05Z', 'labels': []}
+{'issuenumber': 262, 'title': 'Find by name or email', 'state': 'closed', 'created_at': '2012-08-31T01:31:16Z', 'closed_at': '2012-11-23T20:24:11Z', 'labels': []}
+{'issuenumber': 261, 'title': 'Failing to create table with sync() and global sync() not working', 'state': 'closed', 'created_at': '2012-08-31T00:28:58Z', 'closed_at': '2013-07-31T04:10:21Z', 'labels': []}
+{'issuenumber': 260, 'title': 'Adding Enum Datatype', 'state': 'closed', 'created_at': '2012-08-29T13:35:12Z', 'closed_at': '2013-02-23T12:02:23Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 259, 'title': 'Prefixed tables names', 'state': 'closed', 'created_at': '2012-08-24T09:38:08Z', 'closed_at': '2013-05-07T05:58:01Z', 'labels': []}
+{'issuenumber': 257, 'title': 'Missing semicolons in sequelize.', 'state': 'closed', 'created_at': '2012-08-23T16:58:07Z', 'closed_at': '2013-02-23T12:18:20Z', 'labels': []}
+{'issuenumber': 256, 'title': 'syncOnAssociation', 'state': 'closed', 'created_at': '2012-08-23T15:11:25Z', 'closed_at': '2014-03-12T08:41:13Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 255, 'title': 'QueryChainer does not reset results between runs', 'state': 'closed', 'created_at': '2012-08-22T17:10:19Z', 'closed_at': '2012-08-23T19:56:55Z', 'labels': []}
+{'issuenumber': 254, 'title': 'hasMany through - additional field for HABTM ', 'state': 'closed', 'created_at': '2012-08-21T08:46:13Z', 'closed_at': '2013-10-08T14:54:42Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 253, 'title': 'Error: Unknown column ', 'state': 'closed', 'created_at': '2012-08-20T02:13:37Z', 'closed_at': '2013-05-07T06:39:48Z', 'labels': []}
+{'issuenumber': 252, 'title': '36-byte uuid as primary key', 'state': 'closed', 'created_at': '2012-08-19T11:56:25Z', 'closed_at': '2013-09-04T16:16:56Z', 'labels': []}
+{'issuenumber': 251, 'title': 'Is it possible to do raw SQL query or call stored procedure?', 'state': 'closed', 'created_at': '2012-08-18T17:44:05Z', 'closed_at': '2012-08-18T18:32:18Z', 'labels': []}
+{'issuenumber': 250, 'title': 'How can I get  local timezone date strings?', 'state': 'closed', 'created_at': '2012-08-18T01:57:36Z', 'closed_at': '2012-08-28T00:05:48Z', 'labels': []}
+{'issuenumber': 248, 'title': 'unique validation', 'state': 'closed', 'created_at': '2012-08-17T03:59:21Z', 'closed_at': '2013-06-05T11:11:36Z', 'labels': []}
+{'issuenumber': 247, 'title': 'Entity level validation', 'state': 'closed', 'created_at': '2012-08-16T18:47:19Z', 'closed_at': '2013-06-08T10:28:19Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 245, 'title': 'Field alias support', 'state': 'closed', 'created_at': '2012-08-16T06:52:53Z', 'closed_at': '2014-04-27T09:47:00Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 244, 'title': 'Fetching association metadata', 'state': 'closed', 'created_at': '2012-08-11T21:50:00Z', 'closed_at': '2014-01-04T18:26:47Z', 'labels': []}
+{'issuenumber': 243, 'title': 'Add possibility to mark model properties as private', 'state': 'closed', 'created_at': '2012-08-08T07:55:33Z', 'closed_at': '2012-08-13T19:27:06Z', 'labels': []}
+{'issuenumber': 242, 'title': 'More Node-esque callback style', 'state': 'closed', 'created_at': '2012-08-07T14:51:11Z', 'closed_at': '2012-10-17T03:04:24Z', 'labels': []}
+{'issuenumber': 241, 'title': 'Calling setObject results in 2 inserts', 'state': 'closed', 'created_at': '2012-08-07T14:15:46Z', 'closed_at': '2012-10-25T00:23:57Z', 'labels': []}
+{'issuenumber': 240, 'title': 'config.js for migrations should describe environment specific databases', 'state': 'closed', 'created_at': '2012-08-07T11:52:49Z', 'closed_at': '2012-11-23T20:28:22Z', 'labels': []}
+{'issuenumber': 238, 'title': 'Sorting in Sequelize (Postgres)', 'state': 'closed', 'created_at': '2012-08-06T05:31:50Z', 'closed_at': '2012-08-06T05:35:34Z', 'labels': []}
+{'issuenumber': 237, 'title': "Empty strings pass validations they shouldn't", 'state': 'closed', 'created_at': '2012-08-04T15:57:26Z', 'closed_at': '2012-08-09T19:46:56Z', 'labels': []}
+{'issuenumber': 235, 'title': "Postgres pooling simply doesn't work", 'state': 'closed', 'created_at': '2012-08-02T19:54:16Z', 'closed_at': '2012-08-02T21:15:52Z', 'labels': []}
+{'issuenumber': 234, 'title': 'libmysql as backend', 'state': 'closed', 'created_at': '2012-08-02T12:35:40Z', 'closed_at': '2014-01-30T10:51:43Z', 'labels': []}
+{'issuenumber': 233, 'title': 'where clause in associated model', 'state': 'closed', 'created_at': '2012-08-01T12:01:42Z', 'closed_at': '2013-12-27T21:03:28Z', 'labels': []}
+{'issuenumber': 232, 'title': "Add 'decimal' type support", 'state': 'closed', 'created_at': '2012-07-30T19:50:41Z', 'closed_at': '2013-03-06T15:46:07Z', 'labels': []}
+{'issuenumber': 231, 'title': 'Migrations not working', 'state': 'closed', 'created_at': '2012-07-30T18:57:10Z', 'closed_at': '2012-07-30T20:01:24Z', 'labels': []}
+{'issuenumber': 230, 'title': 'Support Eager Loading', 'state': 'closed', 'created_at': '2012-07-27T19:22:17Z', 'closed_at': '2012-11-17T20:03:34Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 229, 'title': 'False values are not saved when saving specific columns', 'state': 'closed', 'created_at': '2012-07-26T13:08:00Z', 'closed_at': '2013-06-08T10:29:26Z', 'labels': []}
+{'issuenumber': 228, 'title': 'migrations numbers', 'state': 'closed', 'created_at': '2012-07-25T08:05:23Z', 'closed_at': '2014-01-30T10:51:55Z', 'labels': []}
+{'issuenumber': 227, 'title': 'postgres connections', 'state': 'closed', 'created_at': '2012-07-25T07:21:34Z', 'closed_at': '2013-06-21T17:53:49Z', 'labels': []}
+{'issuenumber': 226, 'title': 'check connection failure', 'state': 'closed', 'created_at': '2012-07-24T11:36:03Z', 'closed_at': '2013-06-21T05:25:07Z', 'labels': []}
+{'issuenumber': 224, 'title': 'Method get_or_create', 'state': 'closed', 'created_at': '2012-07-23T17:14:55Z', 'closed_at': '2012-07-23T17:16:53Z', 'labels': []}
+{'issuenumber': 223, 'title': 'Method get_or_create', 'state': 'closed', 'created_at': '2012-07-23T17:13:31Z', 'closed_at': '2012-07-24T09:53:53Z', 'labels': []}
+{'issuenumber': 222, 'title': 'Method to count associations?', 'state': 'closed', 'created_at': '2012-07-22T23:04:05Z', 'closed_at': '2014-01-06T20:09:45Z', 'labels': []}
+{'issuenumber': 221, 'title': 'bogus update still returns model', 'state': 'closed', 'created_at': '2012-07-22T21:45:56Z', 'closed_at': '2014-03-08T18:15:04Z', 'labels': []}
+{'issuenumber': 220, 'title': 'column named "id" ignores validators ', 'state': 'closed', 'created_at': '2012-07-22T21:15:01Z', 'closed_at': '2013-08-09T12:09:30Z', 'labels': []}
+{'issuenumber': 219, 'title': 'Redefine id field', 'state': 'closed', 'created_at': '2012-07-22T09:56:49Z', 'closed_at': '2013-09-23T21:19:37Z', 'labels': []}
+{'issuenumber': 218, 'title': 'Many-to-many problem', 'state': 'closed', 'created_at': '2012-07-20T14:15:49Z', 'closed_at': '2013-02-23T12:22:17Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 217, 'title': 'Including pattern convert exception', 'state': 'closed', 'created_at': '2012-07-15T08:51:16Z', 'closed_at': '2015-04-28T08:47:11Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 216, 'title': 'The value 0 is not saved when a whitelist is passed to save', 'state': 'closed', 'created_at': '2012-07-12T20:05:39Z', 'closed_at': '2012-07-18T09:36:58Z', 'labels': []}
+{'issuenumber': 215, 'title': 'Add events for migration', 'state': 'closed', 'created_at': '2012-07-11T15:07:54Z', 'closed_at': '2013-07-31T01:46:24Z', 'labels': []}
+{'issuenumber': 212, 'title': "sequelize using 'CREATE TABLE IF NOT EXISTS' syntax in postgres dialect", 'state': 'closed', 'created_at': '2012-07-08T22:22:15Z', 'closed_at': '2012-07-09T03:49:14Z', 'labels': []}
+{'issuenumber': 210, 'title': 'make sure that options are correctly used in associations', 'state': 'closed', 'created_at': '2012-07-05T18:20:42Z', 'closed_at': '2012-07-18T09:37:44Z', 'labels': []}
+{'issuenumber': 209, 'title': 'Query by date issue, I need an example', 'state': 'closed', 'created_at': '2012-07-04T23:05:23Z', 'closed_at': '2012-07-05T14:19:48Z', 'labels': []}
+{'issuenumber': 208, 'title': 'Method to catch all errors?', 'state': 'closed', 'created_at': '2012-07-04T18:57:13Z', 'closed_at': '2013-06-20T05:51:38Z', 'labels': []}
+{'issuenumber': 207, 'title': 'Unusable error messages', 'state': 'closed', 'created_at': '2012-07-04T18:19:33Z', 'closed_at': '2012-07-04T18:54:25Z', 'labels': []}
+{'issuenumber': 205, 'title': 'A way to limit and/or order requested associations', 'state': 'closed', 'created_at': '2012-07-01T18:31:28Z', 'closed_at': '2012-11-17T20:01:25Z', 'labels': []}
+{'issuenumber': 204, 'title': 'addModel( model ) uses too many SQL queries', 'state': 'closed', 'created_at': '2012-06-30T16:15:42Z', 'closed_at': '2013-02-21T20:01:16Z', 'labels': []}
+{'issuenumber': 203, 'title': 'Clearing an association with setModel( null ) fails', 'state': 'closed', 'created_at': '2012-06-30T14:44:21Z', 'closed_at': '2012-07-05T16:07:57Z', 'labels': []}
+{'issuenumber': 197, 'title': 'No success/failure callback on HasOne setter?', 'state': 'closed', 'created_at': '2012-06-27T14:06:06Z', 'closed_at': '2012-06-27T14:07:35Z', 'labels': []}
+{'issuenumber': 196, 'title': 'Compatibility with Node.js 0.8', 'state': 'closed', 'created_at': '2012-06-26T21:14:50Z', 'closed_at': '2012-06-28T10:17:21Z', 'labels': []}
+{'issuenumber': 195, 'title': "Doesn't worked 'updatedAt' attribute even if timestamps is true.", 'state': 'closed', 'created_at': '2012-06-25T14:22:04Z', 'closed_at': '2012-07-02T16:21:47Z', 'labels': []}
+{'issuenumber': 194, 'title': 'Postgres question', 'state': 'closed', 'created_at': '2012-06-24T00:41:22Z', 'closed_at': '2012-06-25T10:11:54Z', 'labels': []}
+{'issuenumber': 193, 'title': 'Find by related objects fields', 'state': 'closed', 'created_at': '2012-06-22T15:18:04Z', 'closed_at': '2014-01-05T12:49:22Z', 'labels': []}
+{'issuenumber': 192, 'title': 'Support for read-replicas', 'state': 'closed', 'created_at': '2012-06-19T13:43:14Z', 'closed_at': '2013-02-22T18:15:50Z', 'labels': []}
+{'issuenumber': 191, 'title': 'save() race condition', 'state': 'closed', 'created_at': '2012-06-14T16:56:11Z', 'closed_at': '2013-07-31T04:28:41Z', 'labels': []}
+{'issuenumber': 188, 'title': 'Jasmine-node version', 'state': 'closed', 'created_at': '2012-06-13T12:07:35Z', 'closed_at': '2012-07-05T19:32:21Z', 'labels': []}
+{'issuenumber': 186, 'title': 'Errors running test (possible EventEmitter memory leak detected / MySQL drop tables failing)', 'state': 'closed', 'created_at': '2012-06-13T09:54:19Z', 'closed_at': '2012-06-13T16:25:43Z', 'labels': []}
+{'issuenumber': 184, 'title': 'SQLITE_ERROR: no such column: false', 'state': 'closed', 'created_at': '2012-06-08T16:52:04Z', 'closed_at': '2012-11-17T20:01:49Z', 'labels': []}
+{'issuenumber': 183, 'title': 'Sequelize.query issue', 'state': 'closed', 'created_at': '2012-06-05T08:24:45Z', 'closed_at': '2012-06-05T15:48:35Z', 'labels': []}
+{'issuenumber': 180, 'title': 'Conflict when a field in a table is named "length"', 'state': 'closed', 'created_at': '2012-06-01T15:06:39Z', 'closed_at': '2013-05-07T06:29:30Z', 'labels': []}
+{'issuenumber': 178, 'title': 'Problem with Heroku Connection Strings', 'state': 'closed', 'created_at': '2012-05-29T00:15:11Z', 'closed_at': '2012-06-13T17:59:42Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 177, 'title': 'Postgres insert with serial field fails', 'state': 'closed', 'created_at': '2012-05-24T20:25:39Z', 'closed_at': '2012-08-16T17:27:57Z', 'labels': []}
+{'issuenumber': 173, 'title': 'Unify .save() and .updateAttributes()', 'state': 'closed', 'created_at': '2012-05-11T08:05:11Z', 'closed_at': '2012-07-05T19:20:43Z', 'labels': []}
+{'issuenumber': 171, 'title': 'Add logging to postgres dialect', 'state': 'closed', 'created_at': '2012-05-10T13:39:00Z', 'closed_at': '2012-05-10T14:41:23Z', 'labels': []}
+{'issuenumber': 170, 'title': 'Simplify column type assignments', 'state': 'closed', 'created_at': '2012-05-10T07:56:09Z', 'closed_at': '2013-05-13T20:15:01Z', 'labels': []}
+{'issuenumber': 169, 'title': 'Check validations on .save(), .create(), etc', 'state': 'closed', 'created_at': '2012-05-10T07:52:08Z', 'closed_at': '2013-05-09T21:45:48Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 168, 'title': 'Improve index creation methods', 'state': 'closed', 'created_at': '2012-05-09T07:37:32Z', 'closed_at': '2014-03-08T20:25:48Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 167, 'title': 'Issue creating new instance with postgres', 'state': 'closed', 'created_at': '2012-05-06T23:55:58Z', 'closed_at': '2012-05-07T14:12:50Z', 'labels': []}
+{'issuenumber': 166, 'title': 'How to force definte to NOT add createdAt/updatedAt?', 'state': 'closed', 'created_at': '2012-05-04T19:42:33Z', 'closed_at': '2013-02-22T14:23:05Z', 'labels': {'name': 'question'}}
+{'issuenumber': 165, 'title': 'Provide a method of prefetching relations using JOINs', 'state': 'closed', 'created_at': '2012-05-02T19:33:03Z', 'closed_at': '2014-01-04T18:12:19Z', 'labels': []}
+{'issuenumber': 163, 'title': 'Pluralization of "play" is incorrect', 'state': 'closed', 'created_at': '2012-05-02T05:04:39Z', 'closed_at': '2013-06-21T19:42:23Z', 'labels': []}
+{'issuenumber': 162, 'title': "Can't run migration script", 'state': 'closed', 'created_at': '2012-05-02T03:46:23Z', 'closed_at': '2012-06-03T09:51:43Z', 'labels': []}
+{'issuenumber': 160, 'title': 'a bug in mysql query-generator to handle options, fails to handle 0', 'state': 'closed', 'created_at': '2012-05-01T17:57:46Z', 'closed_at': '2013-02-23T11:49:24Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 156, 'title': 'Single Error/Success function?', 'state': 'closed', 'created_at': '2012-04-22T19:11:13Z', 'closed_at': '2012-06-03T08:31:59Z', 'labels': []}
+{'issuenumber': 152, 'title': 'How to connect to custom logging?', 'state': 'closed', 'created_at': '2012-04-13T16:17:26Z', 'closed_at': '2012-04-13T17:19:05Z', 'labels': []}
+{'issuenumber': 151, 'title': 'How to add support for select something where id = 1 or id = 2', 'state': 'closed', 'created_at': '2012-04-11T20:37:24Z', 'closed_at': '2012-05-08T06:42:41Z', 'labels': []}
+{'issuenumber': 149, 'title': 'SQLite3 type Boolean insert fails', 'state': 'closed', 'created_at': '2012-04-03T22:40:20Z', 'closed_at': '2012-04-12T04:21:35Z', 'labels': []}
+{'issuenumber': 148, 'title': "Many-to-Many relation doesn't remove the relation_id from the first relation.", 'state': 'closed', 'created_at': '2012-03-28T09:01:50Z', 'closed_at': '2012-07-01T10:42:20Z', 'labels': []}
+{'issuenumber': 147, 'title': 'add associations generates a lot of sql queries', 'state': 'closed', 'created_at': '2012-03-28T00:22:51Z', 'closed_at': '2013-02-23T11:47:58Z', 'labels': {'name': 'type: bug'}}
+{'issuenumber': 145, 'title': 'find by sql', 'state': 'closed', 'created_at': '2012-03-25T01:19:25Z', 'closed_at': '2013-02-22T14:31:23Z', 'labels': []}
+{'issuenumber': 143, 'title': 'String primary key', 'state': 'closed', 'created_at': '2012-03-23T11:56:34Z', 'closed_at': '2013-09-10T14:15:18Z', 'labels': []}
+{'issuenumber': 142, 'title': 'Relations: set<relatedModel>/add<relatedModel> after build fails due to empty object in table', 'state': 'closed', 'created_at': '2012-03-23T09:17:58Z', 'closed_at': '2015-07-20T07:22:51Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 140, 'title': 'No way to do OR condition in select?', 'state': 'closed', 'created_at': '2012-03-21T12:42:30Z', 'closed_at': '2012-07-18T09:39:47Z', 'labels': []}
+{'issuenumber': 139, 'title': 'Many to Many - Manually created intermediate tables get primary keys removed', 'state': 'closed', 'created_at': '2012-03-19T17:40:23Z', 'closed_at': '2013-09-10T14:05:51Z', 'labels': []}
+{'issuenumber': 138, 'title': 'Many to Many - Sync is not removing unused columns?', 'state': 'closed', 'created_at': '2012-03-19T16:08:32Z', 'closed_at': '2012-07-01T10:43:18Z', 'labels': []}
+{'issuenumber': 136, 'title': 'multiple hasMany() always calls sync()', 'state': 'closed', 'created_at': '2012-03-18T11:49:29Z', 'closed_at': '2012-04-12T04:29:47Z', 'labels': []}
+{'issuenumber': 135, 'title': 'Update NPM Registry Version to 1.3.7', 'state': 'closed', 'created_at': '2012-03-15T02:31:32Z', 'closed_at': '2012-03-15T14:55:52Z', 'labels': []}
+{'issuenumber': 133, 'title': 'deletedAt on find', 'state': 'closed', 'created_at': '2012-03-07T10:24:34Z', 'closed_at': '2013-07-06T22:23:37Z', 'labels': []}
+{'issuenumber': 131, 'title': 'Polymorphic Associations', 'state': 'closed', 'created_at': '2012-03-03T22:59:19Z', 'closed_at': '2012-03-04T17:26:33Z', 'labels': []}
+{'issuenumber': 129, 'title': 'Error from npm: cb() never called!', 'state': 'closed', 'created_at': '2012-02-10T21:39:54Z', 'closed_at': '2013-02-22T11:56:44Z', 'labels': []}
+{'issuenumber': 127, 'title': 'Resolving associations in result set', 'state': 'closed', 'created_at': '2012-02-06T20:51:29Z', 'closed_at': '2012-02-07T15:59:16Z', 'labels': []}
+{'issuenumber': 126, 'title': 'SELECT Never Returns...', 'state': 'closed', 'created_at': '2012-02-01T16:31:48Z', 'closed_at': '2013-06-19T19:11:35Z', 'labels': []}
+{'issuenumber': 123, 'title': 'Ability to execute CRUD within a transaction', 'state': 'closed', 'created_at': '2012-01-23T10:59:59Z', 'closed_at': '2013-12-09T12:02:21Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 119, 'title': 'items not being returned in the correct order', 'state': 'closed', 'created_at': '2012-01-10T22:30:57Z', 'closed_at': '2012-01-21T01:24:41Z', 'labels': []}
+{'issuenumber': 118, 'title': 'Validators should obey "allowNull" attribute', 'state': 'closed', 'created_at': '2012-01-04T06:05:03Z', 'closed_at': '2012-01-04T16:38:02Z', 'labels': []}
+{'issuenumber': 116, 'title': 'Docs should be enhanced for new node.js users', 'state': 'closed', 'created_at': '2011-12-15T12:16:25Z', 'closed_at': '2013-05-07T05:53:41Z', 'labels': []}
+{'issuenumber': 115, 'title': 'How to define bridge class as e.g.PurchaseOrder ', 'state': 'closed', 'created_at': '2011-12-11T17:06:42Z', 'closed_at': '2011-12-15T15:03:20Z', 'labels': []}
+{'issuenumber': 114, 'title': 'Use UTC string for createdAt and updatedAt', 'state': 'closed', 'created_at': '2011-12-04T21:14:09Z', 'closed_at': '2013-02-26T17:03:12Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 105, 'title': 'need to configure socket connection', 'state': 'closed', 'created_at': '2011-10-25T12:44:04Z', 'closed_at': '2011-10-25T12:48:28Z', 'labels': []}
+{'issuenumber': 104, 'title': 'Many to many relationships problem', 'state': 'closed', 'created_at': '2011-10-25T10:21:06Z', 'closed_at': '2013-06-11T21:53:52Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 103, 'title': 'an model\'s attribute can\'t be named "options"', 'state': 'closed', 'created_at': '2011-10-24T17:27:48Z', 'closed_at': '2011-10-24T17:28:00Z', 'labels': []}
+{'issuenumber': 101, 'title': "Can't specify a custom primary key AND set the id field's value", 'state': 'closed', 'created_at': '2011-10-12T14:40:32Z', 'closed_at': '2011-10-13T14:39:17Z', 'labels': []}
+{'issuenumber': 100, 'title': 'Sequelize support for Float/Decimal', 'state': 'closed', 'created_at': '2011-10-12T14:32:27Z', 'closed_at': '2012-03-15T14:57:27Z', 'labels': []}
+{'issuenumber': 99, 'title': 'Sequelize should support BLOB data type', 'state': 'closed', 'created_at': '2011-10-02T08:47:08Z', 'closed_at': '2013-08-23T10:48:54Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 97, 'title': 'regression : event callback not called in 1.1.1', 'state': 'closed', 'created_at': '2011-09-19T11:48:36Z', 'closed_at': '2013-02-22T14:31:10Z', 'labels': []}
+{'issuenumber': 96, 'title': 'missing database should be reported by lib', 'state': 'closed', 'created_at': '2011-09-19T08:04:35Z', 'closed_at': '2013-02-23T11:51:03Z', 'labels': []}
+{'issuenumber': 95, 'title': 'Report of bad performance leak on Mysql on v1.1.0', 'state': 'closed', 'created_at': '2011-09-16T13:11:02Z', 'closed_at': '2012-11-02T21:22:00Z', 'labels': []}
+{'issuenumber': 94, 'title': 'possibility to explicitely define table and field names', 'state': 'closed', 'created_at': '2011-09-09T15:10:45Z', 'closed_at': '2014-05-12T17:43:12Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 93, 'title': '"underscore" config option', 'state': 'closed', 'created_at': '2011-09-06T22:57:50Z', 'closed_at': '2011-11-01T18:52:06Z', 'labels': []}
+{'issuenumber': 91, 'title': "Mysql: 'Too many connections'", 'state': 'closed', 'created_at': '2011-08-23T18:05:02Z', 'closed_at': '2011-10-24T20:23:12Z', 'labels': []}
+{'issuenumber': 90, 'title': 'v1.0.2 from npm is not v1.0.2 from git', 'state': 'closed', 'created_at': '2011-08-20T00:31:15Z', 'closed_at': '2011-10-24T17:25:59Z', 'labels': []}
+{'issuenumber': 89, 'title': 'Dependence with mysql', 'state': 'closed', 'created_at': '2011-08-17T21:08:30Z', 'closed_at': '2011-09-02T05:42:49Z', 'labels': []}
+{'issuenumber': 88, 'title': 'project documentation unavailable', 'state': 'closed', 'created_at': '2011-08-15T17:06:20Z', 'closed_at': '2011-08-16T17:22:59Z', 'labels': []}
+{'issuenumber': 87, 'title': 'many-to-one self-association bug - bad data in DB', 'state': 'closed', 'created_at': '2011-08-13T04:01:34Z', 'closed_at': '2013-02-18T14:19:55Z', 'labels': []}
+{'issuenumber': 86, 'title': 'Instance method for getting all attributes?', 'state': 'closed', 'created_at': '2011-08-11T19:44:42Z', 'closed_at': '2012-11-17T19:59:52Z', 'labels': []}
+{'issuenumber': 83, 'title': 'Make JSON.stringify() work for models', 'state': 'closed', 'created_at': '2011-07-21T18:28:08Z', 'closed_at': '2011-07-21T22:55:22Z', 'labels': []}
+{'issuenumber': 82, 'title': 'My associations dont work', 'state': 'closed', 'created_at': '2011-07-21T16:46:01Z', 'closed_at': '2011-07-22T20:26:18Z', 'labels': []}
+{'issuenumber': 81, 'title': 'Passing an existing constructor function to ', 'state': 'closed', 'created_at': '2011-07-20T13:50:59Z', 'closed_at': '2011-07-21T06:32:10Z', 'labels': []}
+{'issuenumber': 80, 'title': 'Alternative callbacks', 'state': 'closed', 'created_at': '2011-07-20T13:33:03Z', 'closed_at': '2011-07-21T06:20:01Z', 'labels': []}
+{'issuenumber': 79, 'title': 'Alternative instances creation', 'state': 'closed', 'created_at': '2011-07-20T12:56:59Z', 'closed_at': '2011-07-21T06:19:42Z', 'labels': []}
+{'issuenumber': 78, 'title': "MyModel.find('1') dies", 'state': 'closed', 'created_at': '2011-07-12T20:56:52Z', 'closed_at': '2012-11-17T19:58:21Z', 'labels': []}
+{'issuenumber': 74, 'title': 'Syntax error on www.sequelizejs.com', 'state': 'closed', 'created_at': '2011-07-05T21:15:59Z', 'closed_at': '2011-11-01T18:45:33Z', 'labels': []}
+{'issuenumber': 73, 'title': 'Clean instance', 'state': 'closed', 'created_at': '2011-07-05T12:33:12Z', 'closed_at': '2012-06-03T18:16:57Z', 'labels': []}
+{'issuenumber': 71, 'title': 'defaultValue utils.js:91', 'state': 'closed', 'created_at': '2011-07-04T11:25:44Z', 'closed_at': '2011-07-06T11:58:46Z', 'labels': []}
+{'issuenumber': 68, 'title': 'A little problem when finding entries by ID', 'state': 'closed', 'created_at': '2011-06-27T16:50:31Z', 'closed_at': '2013-08-01T05:15:38Z', 'labels': []}
+{'issuenumber': 67, 'title': 'Complex Associations', 'state': 'closed', 'created_at': '2011-06-24T15:16:17Z', 'closed_at': '2013-12-09T13:36:38Z', 'labels': []}
+{'issuenumber': 66, 'title': "underscore: true doesn't work", 'state': 'closed', 'created_at': '2011-06-21T22:30:30Z', 'closed_at': '2011-11-08T06:16:33Z', 'labels': []}
+{'issuenumber': 64, 'title': 'Create foreign key constraints when creating tables using .sync()', 'state': 'closed', 'created_at': '2011-06-03T21:17:33Z', 'closed_at': '2013-05-08T07:25:06Z', 'labels': {'name': 'type: feature'}}
+{'issuenumber': 55, 'title': 'fix for self associations', 'state': 'closed', 'created_at': '2011-05-09T15:05:33Z', 'closed_at': '2011-05-09T15:05:40Z', 'labels': []}
+{'issuenumber': 54, 'title': 'automatically define the foreignkey for belongsto and has one for selfreferences', 'state': 'closed', 'created_at': '2011-05-09T05:33:28Z', 'closed_at': '2011-05-11T12:56:15Z', 'labels': []}
+{'issuenumber': 53, 'title': 'choose a license', 'state': 'closed', 'created_at': '2011-05-03T04:57:04Z', 'closed_at': '2011-05-03T17:10:51Z', 'labels': []}
+{'issuenumber': 52, 'title': 'finish documentation', 'state': 'closed', 'created_at': '2011-04-28T19:57:23Z', 'closed_at': '2011-05-03T16:49:45Z', 'labels': []}
+{'issuenumber': 51, 'title': 'Adding additional options while creating tables', 'state': 'closed', 'created_at': '2011-04-25T13:03:08Z', 'closed_at': '2012-11-17T19:56:11Z', 'labels': []}
+{'issuenumber': 50, 'title': 'Bad Handshake...', 'state': 'closed', 'created_at': '2011-04-08T22:41:53Z', 'closed_at': '2011-04-13T17:44:57Z', 'labels': []}
+{'issuenumber': 49, 'title': 'callback for error response from database', 'state': 'closed', 'created_at': '2011-04-08T20:52:28Z', 'closed_at': '2011-04-28T19:56:57Z', 'labels': []}
+{'issuenumber': 48, 'title': 'Custom IDs', 'state': 'closed', 'created_at': '2011-03-16T07:06:25Z', 'closed_at': '2011-05-03T05:37:27Z', 'labels': []}
+{'issuenumber': 46, 'title': "Redifine the default 'id' field?", 'state': 'closed', 'created_at': '2011-03-13T10:22:35Z', 'closed_at': '2011-05-03T05:37:24Z', 'labels': []}
+{'issuenumber': 43, 'title': 'The library has no SQL injection protection', 'state': 'closed', 'created_at': '2011-02-04T00:28:01Z', 'closed_at': '2011-05-03T05:38:00Z', 'labels': []}
+{'issuenumber': 42, 'title': 'Record are not Saved in DB', 'state': 'closed', 'created_at': '2010-11-19T08:54:15Z', 'closed_at': '2010-11-26T03:42:41Z', 'labels': []}
+{'issuenumber': 41, 'title': 'Error when fetching associations?', 'state': 'closed', 'created_at': '2010-11-10T09:48:29Z', 'closed_at': '2011-05-03T16:53:35Z', 'labels': []}
+{'issuenumber': 40, 'title': 'Limitations on Sequelize ', 'state': 'closed', 'created_at': '2010-10-19T20:03:46Z', 'closed_at': '2011-05-10T15:35:15Z', 'labels': []}
+{'issuenumber': 39, 'title': 'timestamp fields, finding last object', 'state': 'closed', 'created_at': '2010-10-06T20:40:41Z', 'closed_at': '2011-05-13T06:46:12Z', 'labels': []}
+{'issuenumber': 38, 'title': 'findall returns offset time', 'state': 'closed', 'created_at': '2010-10-06T13:25:47Z', 'closed_at': '2013-02-23T11:54:15Z', 'labels': []}
+{'issuenumber': 36, 'title': 'Need a method to remove a single association.', 'state': 'closed', 'created_at': '2010-09-27T21:17:06Z', 'closed_at': '2011-05-03T05:37:15Z', 'labels': []}
+{'issuenumber': 35, 'title': 'Change tracking capability for compliance or management requirements.', 'state': 'closed', 'created_at': '2010-09-27T16:43:32Z', 'closed_at': '2010-09-28T14:28:55Z', 'labels': []}
+{'issuenumber': 34, 'title': 'importDefinition refactoring', 'state': 'closed', 'created_at': '2010-09-27T15:15:40Z', 'closed_at': '2011-05-03T05:37:48Z', 'labels': []}
+{'issuenumber': 33, 'title': 'Complete CRUD tracking by adding deletedAt field.', 'state': 'closed', 'created_at': '2010-09-27T12:47:56Z', 'closed_at': '2010-09-28T14:29:27Z', 'labels': []}
+{'issuenumber': 32, 'title': 'Need ability to assign indexes and manually assign primary key column', 'state': 'closed', 'created_at': '2010-09-27T12:05:13Z', 'closed_at': '2010-09-28T14:29:13Z', 'labels': []}
+{'issuenumber': 31, 'title': 'test performance of other mysql libs', 'state': 'closed', 'created_at': '2010-09-26T11:19:36Z', 'closed_at': '2011-05-03T16:55:30Z', 'labels': []}
+{'issuenumber': 30, 'title': 'remove array usage from chainqueries', 'state': 'closed', 'created_at': '2010-09-26T09:41:19Z', 'closed_at': '2010-10-22T07:51:41Z', 'labels': []}
+{'issuenumber': 29, 'title': 'Data migration for schema sync', 'state': 'closed', 'created_at': '2010-09-21T07:41:29Z', 'closed_at': '2013-02-23T11:59:53Z', 'labels': []}
+{'issuenumber': 28, 'title': 'Queries not wrapped correctly', 'state': 'closed', 'created_at': '2010-09-20T16:51:58Z', 'closed_at': '2011-01-03T09:43:31Z', 'labels': []}
+{'issuenumber': 26, 'title': 'A few issues with findAll, associated data and a weird order bug', 'state': 'closed', 'created_at': '2010-09-16T23:39:24Z', 'closed_at': '2010-10-23T20:40:03Z', 'labels': []}
+{'issuenumber': 25, 'title': 'add chainQueries example to website', 'state': 'closed', 'created_at': '2010-09-16T20:40:08Z', 'closed_at': '2010-09-21T20:51:13Z', 'labels': []}
+{'issuenumber': 24, 'title': 'updateattributes to set assocs', 'state': 'closed', 'created_at': '2010-09-11T21:27:03Z', 'closed_at': '2013-02-23T12:00:07Z', 'labels': []}
+{'issuenumber': 23, 'title': 'too many fk columns...', 'state': 'closed', 'created_at': '2010-09-10T13:53:46Z', 'closed_at': '2010-09-10T22:27:31Z', 'labels': []}
+{'issuenumber': 22, 'title': 'hasAndBelongsToMany...', 'state': 'closed', 'created_at': '2010-09-10T13:48:30Z', 'closed_at': '2010-09-21T07:39:52Z', 'labels': []}
+{'issuenumber': 21, 'title': 'Selecting values larger than x (WHERE x >=)', 'state': 'closed', 'created_at': '2010-09-10T06:34:52Z', 'closed_at': '2010-09-10T22:28:26Z', 'labels': []}
+{'issuenumber': 20, 'title': 'Modifications to initialization for atypical host/port', 'state': 'closed', 'created_at': '2010-08-31T09:25:37Z', 'closed_at': '2010-09-01T13:50:06Z', 'labels': []}
+{'issuenumber': 19, 'title': 'Bundled client connection parameters', 'state': 'closed', 'created_at': '2010-08-31T09:18:31Z', 'closed_at': '2010-09-01T06:47:55Z', 'labels': []}
+{'issuenumber': 18, 'title': 'Bundled client typo', 'state': 'closed', 'created_at': '2010-08-31T09:17:54Z', 'closed_at': '2010-09-01T06:47:36Z', 'labels': []}
+{'issuenumber': 17, 'title': 'Default-Values', 'state': 'closed', 'created_at': '2010-08-31T07:01:05Z', 'closed_at': '2010-09-01T19:07:38Z', 'labels': []}
+{'issuenumber': 16, 'title': 'Sequelize.BOOLEAN currently forces user to have to input a value on insert/update', 'state': 'closed', 'created_at': '2010-08-30T22:47:05Z', 'closed_at': '2010-09-06T11:07:01Z', 'labels': []}
+{'issuenumber': 15, 'title': 'Name many-to-many tables after relation name rather than Model', 'state': 'closed', 'created_at': '2010-08-30T21:04:48Z', 'closed_at': '2010-09-21T07:39:42Z', 'labels': []}
+{'issuenumber': 14, 'title': 'Take NPM package off TODO! :)', 'state': 'closed', 'created_at': '2010-08-30T14:44:53Z', 'closed_at': '2010-08-30T22:34:20Z', 'labels': []}
+{'issuenumber': 13, 'title': "Self-reference FK's never created", 'state': 'closed', 'created_at': '2010-08-28T22:16:41Z', 'closed_at': '2010-09-16T20:41:11Z', 'labels': []}
+{'issuenumber': 12, 'title': 'Name foreign keys after relation name rather than model', 'state': 'closed', 'created_at': '2010-08-28T22:13:35Z', 'closed_at': '2010-09-16T20:41:33Z', 'labels': []}
+{'issuenumber': 11, 'title': 'Make empty password available', 'state': 'closed', 'created_at': '2010-08-23T16:51:06Z', 'closed_at': '2010-09-01T19:07:45Z', 'labels': []}
+{'issuenumber': 10, 'title': 'throw new Error("Uncaught, unspecified \'error\' event.");', 'state': 'closed', 'created_at': '2010-08-23T13:18:56Z', 'closed_at': '2010-08-24T04:07:27Z', 'labels': []}
+{'issuenumber': 9, 'title': 'use commonjs exports', 'state': 'closed', 'created_at': '2010-08-21T18:05:50Z', 'closed_at': '2010-08-22T13:10:03Z', 'labels': []}
+{'issuenumber': 8, 'title': 'npm install is broken', 'state': 'closed', 'created_at': '2010-08-21T17:50:33Z', 'closed_at': '2010-08-22T17:07:33Z', 'labels': []}
+{'issuenumber': 5, 'title': 'Add possibility to pass instance methods and attributes', 'state': 'closed', 'created_at': '2010-08-20T07:12:35Z', 'closed_at': '2010-08-23T18:03:28Z', 'labels': []}

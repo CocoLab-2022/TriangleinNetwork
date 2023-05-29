@@ -1,0 +1,140 @@
+{'issuenumber': 182, 'title': 'increase character limit', 'state': 'closed', 'created_at': '2015-04-21T13:17:05Z', 'closed_at': '2015-04-24T11:02:35Z', 'labels': []}
+{'issuenumber': 181, 'title': 'change event not triggered by JSONEditor.set()', 'state': 'closed', 'created_at': '2015-04-16T08:15:43Z', 'closed_at': '2015-04-17T08:24:18Z', 'labels': []}
+{'issuenumber': 179, 'title': 'Unable to save', 'state': 'closed', 'created_at': '2015-04-13T09:33:44Z', 'closed_at': '2015-07-11T10:49:01Z', 'labels': []}
+{'issuenumber': 178, 'title': 'CTRL + L search line; breaks CTRL + L functionality in browser for edit url', 'state': 'closed', 'created_at': '2015-04-13T07:26:56Z', 'closed_at': '2015-12-21T13:00:17Z', 'labels': []}
+{'issuenumber': 177, 'title': 'Problem saving file. Receiving "Aw, snap!" error ', 'state': 'closed', 'created_at': '2015-04-03T22:18:44Z', 'closed_at': '2019-06-12T19:55:55Z', 'labels': []}
+{'issuenumber': 176, 'title': 'WARNING: Cannot load code editor, Ace library not loaded. Falling back to plain text editor', 'state': 'closed', 'created_at': '2015-04-03T12:28:03Z', 'closed_at': '2015-12-21T11:05:02Z', 'labels': []}
+{'issuenumber': 175, 'title': 'Feature request: Selection Path  event callback', 'state': 'closed', 'created_at': '2015-03-28T00:22:34Z', 'closed_at': '2019-06-12T19:57:26Z', 'labels': []}
+{'issuenumber': 173, 'title': 'Code editor not working if ace loaded via requirejs.', 'state': 'closed', 'created_at': '2015-03-25T14:43:34Z', 'closed_at': '2015-03-27T07:59:46Z', 'labels': []}
+{'issuenumber': 171, 'title': 'modify JSONEditor.prototype.getText to accept JSON.stringify parameters', 'state': 'closed', 'created_at': '2015-03-20T23:06:00Z', 'closed_at': '2015-03-20T23:33:17Z', 'labels': []}
+{'issuenumber': 169, 'title': 'is there a way to get a json via a url?', 'state': 'closed', 'created_at': '2015-03-13T22:56:17Z', 'closed_at': '2015-03-15T11:49:25Z', 'labels': {'name': 'webapp'}}
+{'issuenumber': 167, 'title': 'Cursor skips two characters in Chrome on MAC OS', 'state': 'closed', 'created_at': '2015-03-12T03:24:48Z', 'closed_at': '2015-12-21T11:05:13Z', 'labels': []}
+{'issuenumber': 166, 'title': "Use browserify to bundle index.js instead of webpack, don't include brace by default.", 'state': 'closed', 'created_at': '2015-03-11T18:54:30Z', 'closed_at': '2015-03-15T14:44:01Z', 'labels': []}
+{'issuenumber': 165, 'title': 'Cannot save document online', 'state': 'closed', 'created_at': '2015-02-12T12:13:41Z', 'closed_at': '2015-02-12T12:15:31Z', 'labels': []}
+{'issuenumber': 163, 'title': 'Warnings on install', 'state': 'closed', 'created_at': '2015-02-10T14:44:58Z', 'closed_at': '2015-02-28T20:17:31Z', 'labels': []}
+{'issuenumber': 161, 'title': 'Can not select text in left frame use chrome', 'state': 'closed', 'created_at': '2015-02-04T02:31:30Z', 'closed_at': '2015-06-13T09:16:54Z', 'labels': {'name': 'webapp'}}
+{'issuenumber': 160, 'title': 'not saving online', 'state': 'closed', 'created_at': '2015-02-02T14:18:43Z', 'closed_at': '2015-12-21T10:47:10Z', 'labels': []}
+{'issuenumber': 158, 'title': 'Feature request: Configurable indentation', 'state': 'closed', 'created_at': '2015-01-24T23:28:35Z', 'closed_at': '2017-04-16T19:23:12Z', 'labels': {'name': 'webapp'}}
+{'issuenumber': 157, 'title': 'Concatenating js into one file, not finding the jsoneditor theme & mode files', 'state': 'closed', 'created_at': '2015-01-20T23:34:55Z', 'closed_at': '2015-12-21T11:05:36Z', 'labels': []}
+{'issuenumber': 156, 'title': 'Feature request - more than one root node', 'state': 'closed', 'created_at': '2015-01-19T12:11:12Z', 'closed_at': '2015-01-23T12:34:51Z', 'labels': []}
+{'issuenumber': 154, 'title': 'Quickkeys for the Format and Compact buttons', 'state': 'closed', 'created_at': '2015-01-14T07:11:04Z', 'closed_at': '2015-01-25T14:12:34Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 151, 'title': 'opening large file crash brower ( over 50MB )', 'state': 'closed', 'created_at': '2014-12-02T11:30:05Z', 'closed_at': '2014-12-04T16:04:12Z', 'labels': []}
+{'issuenumber': 150, 'title': 'Bool value became undefined', 'state': 'closed', 'created_at': '2014-11-24T04:58:05Z', 'closed_at': '2014-11-24T04:59:09Z', 'labels': []}
+{'issuenumber': 149, 'title': 'Switching to code mode creates a new ace worker thread every time', 'state': 'closed', 'created_at': '2014-11-16T23:07:49Z', 'closed_at': '2015-12-31T12:39:01Z', 'labels': []}
+{'issuenumber': 145, 'title': 'Add support for component-installer', 'state': 'closed', 'created_at': '2014-11-08T11:28:48Z', 'closed_at': '2015-12-21T11:05:47Z', 'labels': []}
+{'issuenumber': 144, 'title': 'feature request: Strip to {} and Strip to []', 'state': 'closed', 'created_at': '2014-11-05T09:51:53Z', 'closed_at': '2015-12-21T13:20:24Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 143, 'title': 'More advanced sorting of objects and arrays', 'state': 'closed', 'created_at': '2014-10-31T17:08:29Z', 'closed_at': '2019-06-12T19:58:26Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 142, 'title': 'Problem to integrate jsoneditor with Angular and/or KendoUI', 'state': 'closed', 'created_at': '2014-10-24T08:18:38Z', 'closed_at': '2015-12-21T11:05:55Z', 'labels': []}
+{'issuenumber': 141, 'title': 'Multiline strings in tree mode', 'state': 'closed', 'created_at': '2014-10-18T13:11:49Z', 'closed_at': '2015-03-26T08:44:25Z', 'labels': []}
+{'issuenumber': 140, 'title': 'support for jsonpath', 'state': 'closed', 'created_at': '2014-10-18T03:44:37Z', 'closed_at': '2018-06-27T19:05:18Z', 'labels': []}
+{'issuenumber': 138, 'title': 'Node.prototype.path returns wrong path for `""` key.', 'state': 'closed', 'created_at': '2014-10-17T23:54:03Z', 'closed_at': '2014-10-20T19:22:48Z', 'labels': []}
+{'issuenumber': 137, 'title': 'Escape Strangeness', 'state': 'closed', 'created_at': '2014-10-10T17:37:00Z', 'closed_at': '2014-10-20T19:10:26Z', 'labels': []}
+{'issuenumber': 135, 'title': 'Feature request: ability to freeze keys', 'state': 'closed', 'created_at': '2014-09-29T16:11:19Z', 'closed_at': '2014-09-29T21:55:08Z', 'labels': []}
+{'issuenumber': 134, 'title': 'Clicking "JSON Editor Online" link loses all edits without warning', 'state': 'closed', 'created_at': '2014-09-25T13:33:14Z', 'closed_at': '2014-10-20T19:11:24Z', 'labels': []}
+{'issuenumber': 133, 'title': '[QUESTION]How do I know the information of the selected node?', 'state': 'closed', 'created_at': '2014-09-23T04:07:20Z', 'closed_at': '2014-09-23T05:35:43Z', 'labels': []}
+{'issuenumber': 132, 'title': 'Indentation option not working for mode "code"', 'state': 'closed', 'created_at': '2014-09-18T06:46:12Z', 'closed_at': '2015-12-23T17:04:24Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 131, 'title': '[QUESTION] Is there a method to resize the ace editor?', 'state': 'closed', 'created_at': '2014-09-17T03:45:09Z', 'closed_at': '2015-12-21T10:49:30Z', 'labels': []}
+{'issuenumber': 129, 'title': "Show the correct error message when JSON Editor can't parse the JSON-ish input", 'state': 'closed', 'created_at': '2014-09-11T22:51:30Z', 'closed_at': '2015-01-25T14:12:34Z', 'labels': []}
+{'issuenumber': 126, 'title': 'lack of semi at end of js file causing issues', 'state': 'closed', 'created_at': '2014-08-28T16:09:49Z', 'closed_at': '2014-09-03T09:59:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 124, 'title': 'Code mode does not display JSON', 'state': 'closed', 'created_at': '2014-08-25T13:05:46Z', 'closed_at': '2015-12-21T10:49:45Z', 'labels': []}
+{'issuenumber': 123, 'title': 'Feature request: highlighted { } brackets', 'state': 'closed', 'created_at': '2014-08-14T14:36:58Z', 'closed_at': '2014-08-15T13:04:45Z', 'labels': []}
+{'issuenumber': 122, 'title': 'error callback does not get called - as jsonlint throws an exception', 'state': 'closed', 'created_at': '2014-07-31T10:13:14Z', 'closed_at': '2014-08-09T15:06:43Z', 'labels': []}
+{'issuenumber': 121, 'title': 'Feature request/Question - Access Ace', 'state': 'closed', 'created_at': '2014-07-31T07:21:46Z', 'closed_at': '2014-07-31T08:54:14Z', 'labels': []}
+{'issuenumber': 120, 'title': 'XSS Bug', 'state': 'closed', 'created_at': '2014-07-31T06:08:54Z', 'closed_at': '2014-07-31T15:32:57Z', 'labels': []}
+{'issuenumber': 119, 'title': 'Remove "read data on all my websites" permission', 'state': 'closed', 'created_at': '2014-07-30T19:15:05Z', 'closed_at': '2014-08-16T09:04:18Z', 'labels': []}
+{'issuenumber': 118, 'title': 'Get JSON from Post or Get (URL)', 'state': 'closed', 'created_at': '2014-07-30T17:10:03Z', 'closed_at': '2014-07-31T17:52:30Z', 'labels': []}
+{'issuenumber': 117, 'title': 'jsoneditor auto round long number', 'state': 'closed', 'created_at': '2014-07-30T06:37:51Z', 'closed_at': '2014-07-30T07:05:36Z', 'labels': []}
+{'issuenumber': 116, 'title': 'customising insert options', 'state': 'closed', 'created_at': '2014-07-29T14:39:50Z', 'closed_at': '2015-12-21T10:50:01Z', 'labels': []}
+{'issuenumber': 115, 'title': 'unexpected escape characters', 'state': 'closed', 'created_at': '2014-07-29T10:20:04Z', 'closed_at': '2014-07-29T13:13:38Z', 'labels': []}
+{'issuenumber': 114, 'title': 'Feature Request - Ability to open & compare multiple JSONs', 'state': 'closed', 'created_at': '2014-07-25T02:55:26Z', 'closed_at': '2014-07-28T19:30:34Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 113, 'title': 'example with local modify/save', 'state': 'closed', 'created_at': '2014-07-20T11:41:32Z', 'closed_at': '2014-07-28T19:25:24Z', 'labels': []}
+{'issuenumber': 112, 'title': 'Float values changes to int values', 'state': 'closed', 'created_at': '2014-07-11T07:12:46Z', 'closed_at': '2014-07-26T12:57:51Z', 'labels': []}
+{'issuenumber': 111, 'title': "Accept input where attributes aren't in double quotes", 'state': 'closed', 'created_at': '2014-07-07T08:39:33Z', 'closed_at': '2014-07-28T19:14:39Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 110, 'title': 'Read only nodes ... and other individual extensions', 'state': 'closed', 'created_at': '2014-06-22T11:43:35Z', 'closed_at': '2015-12-21T10:52:56Z', 'labels': []}
+{'issuenumber': 109, 'title': 'Disable all editing (i.e. read-only mode)', 'state': 'closed', 'created_at': '2014-06-17T16:00:00Z', 'closed_at': '2014-06-19T07:47:49Z', 'labels': []}
+{'issuenumber': 108, 'title': 'Search over large JSON crashes browser', 'state': 'closed', 'created_at': '2014-06-12T17:00:02Z', 'closed_at': '2015-12-21T13:03:18Z', 'labels': []}
+{'issuenumber': 106, 'title': '[ Feature request ] Duplicate/remove multiples fields', 'state': 'closed', 'created_at': '2014-06-11T16:24:26Z', 'closed_at': '2015-12-31T12:53:17Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 105, 'title': 'Save state for restoration after browser crash?', 'state': 'closed', 'created_at': '2014-06-11T15:09:00Z', 'closed_at': '2014-10-12T12:59:18Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 104, 'title': 'Context menu is added to main document, which breaks encapsulation and usage in ShadowDOM', 'state': 'closed', 'created_at': '2014-06-11T10:42:01Z', 'closed_at': '2015-12-31T12:39:02Z', 'labels': []}
+{'issuenumber': 103, 'title': 'Ace editor breaks code mode, after setting JSON.', 'state': 'closed', 'created_at': '2014-06-10T22:06:01Z', 'closed_at': '2015-12-21T11:02:18Z', 'labels': []}
+{'issuenumber': 101, 'title': 'Images are missing in the buttons/icons', 'state': 'closed', 'created_at': '2014-06-08T04:20:36Z', 'closed_at': '2014-07-26T13:03:44Z', 'labels': []}
+{'issuenumber': 100, 'title': 'ReferenceError: jsoneditor is not defined', 'state': 'closed', 'created_at': '2014-06-02T19:54:53Z', 'closed_at': '2014-06-10T07:25:56Z', 'labels': {'name': 'webapp'}}
+{'issuenumber': 99, 'title': 'Possible piracy?', 'state': 'closed', 'created_at': '2014-05-30T17:57:44Z', 'closed_at': '2015-03-26T10:46:44Z', 'labels': []}
+{'issuenumber': 98, 'title': 'Exception "Unspecified error" in IE11 at ace.js file', 'state': 'closed', 'created_at': '2014-05-12T17:02:17Z', 'closed_at': '2014-07-28T19:29:09Z', 'labels': []}
+{'issuenumber': 97, 'title': 'Cannot format valid JSON', 'state': 'closed', 'created_at': '2014-05-06T02:33:07Z', 'closed_at': '2014-06-02T18:46:28Z', 'labels': []}
+{'issuenumber': 96, 'title': 'Big Integers converted incorrectly between Code & Tree Editor', 'state': 'closed', 'created_at': '2014-04-28T15:58:46Z', 'closed_at': '2014-06-02T18:46:00Z', 'labels': []}
+{'issuenumber': 95, 'title': 'In firefox and Google crome I could not be able to disable JSON Editor', 'state': 'closed', 'created_at': '2014-04-25T15:06:05Z', 'closed_at': '2014-05-16T11:18:28Z', 'labels': []}
+{'issuenumber': 94, 'title': 'Regarding License', 'state': 'closed', 'created_at': '2014-04-11T15:03:39Z', 'closed_at': '2014-06-02T18:46:18Z', 'labels': []}
+{'issuenumber': 93, 'title': 'Characters are not encoded when transfering model into JSON', 'state': 'closed', 'created_at': '2014-03-25T09:53:01Z', 'closed_at': '2015-12-31T12:39:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 92, 'title': 'Some documentation available?', 'state': 'closed', 'created_at': '2014-03-15T15:04:44Z', 'closed_at': '2014-07-28T19:26:19Z', 'labels': []}
+{'issuenumber': 91, 'title': 'Proper OOP impossible with the current architecture', 'state': 'closed', 'created_at': '2014-03-09T10:42:08Z', 'closed_at': '2014-07-28T19:27:33Z', 'labels': []}
+{'issuenumber': 90, 'title': 'How to integrate jsoneditor in my own application', 'state': 'closed', 'created_at': '2014-03-06T13:33:05Z', 'closed_at': '2014-03-24T08:18:15Z', 'labels': []}
+{'issuenumber': 89, 'title': 'Is there any run-time validation for custom json', 'state': 'closed', 'created_at': '2014-02-18T09:19:22Z', 'closed_at': '2014-07-26T13:04:23Z', 'labels': []}
+{'issuenumber': 88, 'title': 'Indent mismatch', 'state': 'closed', 'created_at': '2014-02-17T19:45:18Z', 'closed_at': '2014-06-02T18:49:45Z', 'labels': []}
+{'issuenumber': 87, 'title': 'Jsoneditor code mode requires worker-json.js from the absoute path not from the relative', 'state': 'closed', 'created_at': '2014-02-12T08:25:05Z', 'closed_at': '2014-02-12T11:51:57Z', 'labels': []}
+{'issuenumber': 86, 'title': 'A simple editable heading/identifier for the window. ', 'state': 'closed', 'created_at': '2014-01-29T01:55:30Z', 'closed_at': '2015-02-23T08:19:59Z', 'labels': []}
+{'issuenumber': 85, 'title': 'Editor trapping form submit Enter keypress', 'state': 'closed', 'created_at': '2014-01-28T04:51:26Z', 'closed_at': '2016-11-02T20:03:51Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 84, 'title': 'Feature Request: Google Drive integration', 'state': 'closed', 'created_at': '2014-01-23T10:01:55Z', 'closed_at': '2015-12-21T11:01:27Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 83, 'title': 'Feature Request: Disable editing of specific nodes/branches in form and tree modes', 'state': 'closed', 'created_at': '2014-01-08T18:30:11Z', 'closed_at': '2014-07-28T19:34:49Z', 'labels': []}
+{'issuenumber': 82, 'title': 'Auto open context menu in bottom instead of top', 'state': 'closed', 'created_at': '2013-12-16T04:56:29Z', 'closed_at': '2014-01-03T16:18:48Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 81, 'title': 'Spaces are replaced with ? ', 'state': 'closed', 'created_at': '2013-11-28T09:26:04Z', 'closed_at': '2013-12-09T19:43:49Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 80, 'title': 'Context Menu does not follow context', 'state': 'closed', 'created_at': '2013-11-20T19:47:44Z', 'closed_at': '2013-12-09T19:43:49Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 79, 'title': '[QUESTION] Manipulate JSON via some javascript function', 'state': 'closed', 'created_at': '2013-11-08T23:19:25Z', 'closed_at': '2015-12-21T10:53:41Z', 'labels': []}
+{'issuenumber': 77, 'title': "Implement support to drag and drop file instead of clicking 'open file'", 'state': 'closed', 'created_at': '2013-11-05T19:34:14Z', 'closed_at': '2016-01-14T20:39:39Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 76, 'title': 'Unable to paste on GUI fields after saving file', 'state': 'closed', 'created_at': '2013-11-01T02:55:56Z', 'closed_at': '2015-12-21T11:00:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 74, 'title': 'Microsoft Word breaks the editor?', 'state': 'closed', 'created_at': '2013-10-25T14:42:46Z', 'closed_at': '2014-07-26T13:05:21Z', 'labels': []}
+{'issuenumber': 73, 'title': 'Forms view has problems editing URLs', 'state': 'closed', 'created_at': '2013-10-11T20:17:32Z', 'closed_at': '2014-07-28T19:36:11Z', 'labels': []}
+{'issuenumber': 71, 'title': 'Add a onblur event', 'state': 'closed', 'created_at': '2013-10-09T07:22:03Z', 'closed_at': '2015-12-21T13:08:13Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 70, 'title': "Click to 'open the actions menu' in bootstrap modal can move away from the screen on scrollbar moveent", 'state': 'closed', 'created_at': '2013-10-07T15:37:40Z', 'closed_at': '2013-10-17T09:25:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 69, 'title': '[Question] Code mode not showing', 'state': 'closed', 'created_at': '2013-10-02T10:12:52Z', 'closed_at': '2013-11-23T20:57:12Z', 'labels': {'name': 'question'}}
+{'issuenumber': 64, 'title': 'Use brace instead of ace to integrate with commonjs', 'state': 'closed', 'created_at': '2013-09-20T16:10:39Z', 'closed_at': '2014-07-28T19:38:33Z', 'labels': []}
+{'issuenumber': 63, 'title': 'Have you considered table editing use case?', 'state': 'closed', 'created_at': '2013-09-15T22:30:14Z', 'closed_at': '2017-06-28T07:20:13Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 61, 'title': "Click to 'open the actions menu' not working when in bootstrap modal", 'state': 'closed', 'created_at': '2013-08-15T18:29:36Z', 'closed_at': '2013-09-24T20:17:30Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 60, 'title': 'download link is invalid', 'state': 'closed', 'created_at': '2013-08-09T13:59:22Z', 'closed_at': '2013-08-09T14:46:44Z', 'labels': []}
+{'issuenumber': 59, 'title': 'How to disable, deactivate, destroy?', 'state': 'closed', 'created_at': '2013-08-07T18:53:16Z', 'closed_at': '2013-08-07T22:44:05Z', 'labels': []}
+{'issuenumber': 58, 'title': 'CSS Loading Not Working (RequireJS)', 'state': 'closed', 'created_at': '2013-07-30T13:37:11Z', 'closed_at': '2013-08-01T19:05:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 57, 'title': '"indentation" config overwritten by default setting', 'state': 'closed', 'created_at': '2013-07-08T16:37:24Z', 'closed_at': '2013-08-01T19:05:00Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 56, 'title': 'Feature request : JSON-schema (bidirectional)', 'state': 'closed', 'created_at': '2013-06-25T18:19:02Z', 'closed_at': '2015-12-21T13:12:11Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 54, 'title': 'feature request: providing storage and direct link', 'state': 'closed', 'created_at': '2013-06-14T04:15:34Z', 'closed_at': '2014-10-12T13:03:52Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 53, 'title': 'Feature Request: Allow passing JSON data through GET or POST', 'state': 'closed', 'created_at': '2013-06-04T01:41:12Z', 'closed_at': '2014-07-26T08:00:49Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 52, 'title': 'How to get Ace gutter with JSONLint', 'state': 'closed', 'created_at': '2013-06-03T10:42:32Z', 'closed_at': '2013-06-03T12:22:44Z', 'labels': []}
+{'issuenumber': 51, 'title': "compact and format json string will lose ']';", 'state': 'closed', 'created_at': '2013-05-28T08:22:52Z', 'closed_at': '2014-06-02T19:48:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 49, 'title': 'save not support in firefox 21', 'state': 'closed', 'created_at': '2013-05-24T17:29:21Z', 'closed_at': '2013-05-27T18:58:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 48, 'title': 'Feature request: Support GYP-format', 'state': 'closed', 'created_at': '2013-05-23T07:19:18Z', 'closed_at': '2014-06-02T19:49:13Z', 'labels': []}
+{'issuenumber': 47, 'title': 'Feature Request - Add embed support', 'state': 'closed', 'created_at': '2013-05-13T19:47:44Z', 'closed_at': '2013-06-01T00:32:16Z', 'labels': []}
+{'issuenumber': 46, 'title': 'Using JsonEditor with C# ASP.net', 'state': 'closed', 'created_at': '2013-05-13T08:23:17Z', 'closed_at': '2013-05-17T11:50:16Z', 'labels': {'name': 'question'}}
+{'issuenumber': 45, 'title': 'Splitter element', 'state': 'closed', 'created_at': '2013-05-08T10:43:49Z', 'closed_at': '2013-05-09T10:21:31Z', 'labels': {'name': 'question'}}
+{'issuenumber': 44, 'title': 'Fire events when the JSON is edited', 'state': 'closed', 'created_at': '2013-04-19T19:49:17Z', 'closed_at': '2013-04-22T15:01:05Z', 'labels': []}
+{'issuenumber': 42, 'title': 'Parsing an encoded json', 'state': 'closed', 'created_at': '2013-03-26T12:26:20Z', 'closed_at': '2014-07-28T19:41:03Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 41, 'title': 'Clicking drag-to-move on initial object causes erratic behavior.', 'state': 'closed', 'created_at': '2013-02-26T17:57:16Z', 'closed_at': '2013-02-26T19:39:01Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 40, 'title': 'Make URLs navigable', 'state': 'closed', 'created_at': '2013-02-22T19:56:51Z', 'closed_at': '2013-05-04T11:01:26Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 38, 'title': 'clear the search result', 'state': 'closed', 'created_at': '2013-02-21T07:56:52Z', 'closed_at': '2015-12-31T12:39:01Z', 'labels': []}
+{'issuenumber': 37, 'title': 'Import json data from URL', 'state': 'closed', 'created_at': '2013-02-15T17:02:04Z', 'closed_at': '2013-06-04T17:11:30Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 35, 'title': 'Open files from localhost or intranet', 'state': 'closed', 'created_at': '2013-01-31T08:54:42Z', 'closed_at': '2014-10-12T13:04:35Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 34, 'title': 'change Compact JSON icon to have fewer lines', 'state': 'closed', 'created_at': '2013-01-31T07:21:58Z', 'closed_at': '2013-02-09T19:30:28Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 32, 'title': 'Index Value Offset due to line bleeding', 'state': 'closed', 'created_at': '2013-01-24T18:11:27Z', 'closed_at': '2013-01-24T20:15:10Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 28, 'title': 'innerHTML issue', 'state': 'closed', 'created_at': '2013-01-01T00:19:56Z', 'closed_at': '2013-11-23T20:59:02Z', 'labels': []}
+{'issuenumber': 27, 'title': 'ReadOnly nodes ... how to do?', 'state': 'closed', 'created_at': '2012-12-13T19:37:59Z', 'closed_at': '2014-07-28T19:42:19Z', 'labels': {'name': 'question'}}
+{'issuenumber': 26, 'title': 'hide the add button', 'state': 'closed', 'created_at': '2012-12-13T11:20:50Z', 'closed_at': '2013-02-09T19:34:58Z', 'labels': []}
+{'issuenumber': 25, 'title': "The search bar doesn't work if there is no window.editor object.", 'state': 'closed', 'created_at': '2012-12-06T15:54:34Z', 'closed_at': '2012-12-06T16:22:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 24, 'title': 'Add read only support.', 'state': 'closed', 'created_at': '2012-12-04T21:46:52Z', 'closed_at': '2012-12-08T11:20:36Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 23, 'title': 'Rename Img to Images', 'state': 'closed', 'created_at': '2012-12-04T00:49:00Z', 'closed_at': '2013-02-09T19:33:11Z', 'labels': []}
+{'issuenumber': 22, 'title': 'Please add a typescript definition file.', 'state': 'closed', 'created_at': '2012-12-04T00:48:33Z', 'closed_at': '2016-01-14T20:46:58Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 21, 'title': 'Please add nuget support!', 'state': 'closed', 'created_at': '2012-12-04T00:31:48Z', 'closed_at': '2015-12-21T10:58:13Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 20, 'title': 'Request: A way of customizing the initial "Object" name.', 'state': 'closed', 'created_at': '2012-11-27T05:29:58Z', 'closed_at': '2012-12-08T11:20:49Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 19, 'title': 'Using editor.get() in change event causes hang...', 'state': 'closed', 'created_at': '2012-11-25T21:19:18Z', 'closed_at': '2012-11-26T21:19:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 18, 'title': 'Make the Chrome app available offline', 'state': 'closed', 'created_at': '2012-11-02T18:44:02Z', 'closed_at': '2013-09-26T15:38:57Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 17, 'title': 'using jeo in a module', 'state': 'closed', 'created_at': '2012-11-01T03:38:02Z', 'closed_at': '2013-02-09T19:33:49Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 16, 'title': 'Add lines number to the left column (raw json).', 'state': 'closed', 'created_at': '2012-10-26T09:19:19Z', 'closed_at': '2013-03-08T21:33:45Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 14, 'title': 'more idiomatic example', 'state': 'closed', 'created_at': '2012-10-19T23:46:58Z', 'closed_at': '2012-11-03T17:15:35Z', 'labels': []}
+{'issuenumber': 13, 'title': 'Support for JSON Schema', 'state': 'closed', 'created_at': '2012-10-19T16:05:11Z', 'closed_at': '2016-01-14T20:35:56Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 12, 'title': 'More detailed parse errors', 'state': 'closed', 'created_at': '2012-10-17T15:10:51Z', 'closed_at': '2012-11-03T17:15:10Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 11, 'title': 'Load/save from url, upload/download to disk', 'state': 'closed', 'created_at': '2012-09-21T07:03:06Z', 'closed_at': '2012-11-03T14:21:39Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 10, 'title': 'New features', 'state': 'closed', 'created_at': '2012-09-19T12:20:25Z', 'closed_at': '2013-11-23T20:56:11Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 9, 'title': 'chrome 21 render strings with a break line', 'state': 'closed', 'created_at': '2012-08-25T20:11:18Z', 'closed_at': '2012-08-31T19:58:59Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 7, 'title': 'Leading whitespace in strings is problematic', 'state': 'closed', 'created_at': '2012-07-06T16:54:17Z', 'closed_at': '2012-07-24T18:29:49Z', 'labels': []}
+{'issuenumber': 5, 'title': 'Line breaks added during editing are not persisted', 'state': 'closed', 'created_at': '2012-07-05T15:37:13Z', 'closed_at': '2012-08-25T20:56:37Z', 'labels': []}
+{'issuenumber': 4, 'title': 'Entering " (QUOTATION MARK) shouldn\'t cause parse error', 'state': 'closed', 'created_at': '2012-07-05T15:20:40Z', 'closed_at': '2012-08-25T20:55:50Z', 'labels': []}
+{'issuenumber': 3, 'title': 'editing new fields fails', 'state': 'closed', 'created_at': '2012-06-27T11:21:37Z', 'closed_at': '2012-07-05T11:04:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 2, 'title': 'Clicking a button triggers a form submit if the div is inside of a form tag', 'state': 'closed', 'created_at': '2012-05-23T00:17:59Z', 'closed_at': '2012-06-25T12:57:30Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1, 'title': 'GitHub integration', 'state': 'closed', 'created_at': '2012-05-22T10:12:55Z', 'closed_at': '2015-12-21T10:56:06Z', 'labels': {'name': 'feature'}}

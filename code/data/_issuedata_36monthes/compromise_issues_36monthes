@@ -1,0 +1,183 @@
+{'issuenumber': 311, 'title': 'multiple-noun inflection', 'state': 'closed', 'created_at': '2017-01-26T04:24:40Z', 'closed_at': '2022-05-26T20:24:03Z', 'labels': {'name': 'ready'}}
+{'issuenumber': 310, 'title': 'Expand contractions before applying tense transformations? (v7)', 'state': 'closed', 'created_at': '2017-01-17T03:54:46Z', 'closed_at': '2017-05-24T18:30:43Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 308, 'title': 'make a logo', 'state': 'closed', 'created_at': '2017-01-14T14:37:01Z', 'closed_at': '2017-01-14T14:37:18Z', 'labels': []}
+{'issuenumber': 306, 'title': 'v7 Named Entity Recognition is not grouping #FirstName and #LastName together and also .topics() function is missing which in v6 provided more generic keywords, describing what a piece of text is about', 'state': 'closed', 'created_at': '2017-01-07T18:49:18Z', 'closed_at': '2017-01-13T18:33:58Z', 'labels': []}
+{'issuenumber': 305, 'title': "'arise' as a verb gets clobbered by suffix generation", 'state': 'closed', 'created_at': '2016-12-20T06:46:45Z', 'closed_at': '2016-12-20T17:48:30Z', 'labels': []}
+{'issuenumber': 302, 'title': 'The word invest/ invested is not recognized as a verb', 'state': 'closed', 'created_at': '2016-12-19T17:34:03Z', 'closed_at': '2016-12-19T18:38:10Z', 'labels': []}
+{'issuenumber': 301, 'title': "toNumber() doesn't work as expected in 7.0.0-alpha3", 'state': 'closed', 'created_at': '2016-12-15T18:23:53Z', 'closed_at': '2016-12-15T18:38:17Z', 'labels': []}
+{'issuenumber': 298, 'title': 'Unable to find a `Person` with `lastName` "Richards" in the sentence "Cecile Richards, the president, is cool.".', 'state': 'closed', 'created_at': '2016-11-29T16:16:51Z', 'closed_at': '2017-02-10T21:26:37Z', 'labels': []}
+{'issuenumber': 297, 'title': 'Last name tagging in v7', 'state': 'closed', 'created_at': '2016-11-20T00:07:49Z', 'closed_at': '2016-11-28T16:29:57Z', 'labels': []}
+{'issuenumber': 296, 'title': 'Emoji in parts of speech tagger', 'state': 'closed', 'created_at': '2016-11-19T20:07:04Z', 'closed_at': '2017-02-10T21:26:59Z', 'labels': {'name': 'yesss'}}
+{'issuenumber': 293, 'title': "double entries line 12 and 24  'nlp_compromise/src/data/irregular_nouns.js'", 'state': 'closed', 'created_at': '2016-11-06T19:59:35Z', 'closed_at': '2016-11-07T22:55:43Z', 'labels': []}
+{'issuenumber': 292, 'title': "present tense of verbs ending in 'zz'", 'state': 'closed', 'created_at': '2016-11-03T09:14:00Z', 'closed_at': '2016-11-04T21:38:26Z', 'labels': []}
+{'issuenumber': 291, 'title': 'Wildcard matching with "*" is not working ', 'state': 'closed', 'created_at': '2016-10-31T13:39:08Z', 'closed_at': '2017-03-14T17:43:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 288, 'title': 'TypeError: nlp.text is not a function in 6.52', 'state': 'closed', 'created_at': '2016-10-19T11:03:45Z', 'closed_at': '2016-10-19T15:04:19Z', 'labels': []}
+{'issuenumber': 287, 'title': 'Error in sentence -> root()', 'state': 'closed', 'created_at': '2016-10-18T09:21:04Z', 'closed_at': '2017-10-25T00:24:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 286, 'title': 'derequire missing from the dependencies', 'state': 'closed', 'created_at': '2016-10-17T20:57:33Z', 'closed_at': '2016-10-18T17:43:09Z', 'labels': []}
+{'issuenumber': 284, 'title': 'Unable to identify "Hilliary Clinton" in input', 'state': 'closed', 'created_at': '2016-10-11T19:32:36Z', 'closed_at': '2017-02-10T21:28:49Z', 'labels': []}
+{'issuenumber': 283, 'title': 'Optional ordering of n-grams?', 'state': 'closed', 'created_at': '2016-10-09T13:11:57Z', 'closed_at': '2017-08-26T16:48:47Z', 'labels': []}
+{'issuenumber': 281, 'title': '"Build" naming convention is unconventional', 'state': 'closed', 'created_at': '2016-10-07T20:16:34Z', 'closed_at': '2017-02-10T21:29:25Z', 'labels': []}
+{'issuenumber': 280, 'title': 'Compress / Suffix / Prefix', 'state': 'closed', 'created_at': '2016-10-06T19:18:42Z', 'closed_at': '2017-02-10T21:30:56Z', 'labels': []}
+{'issuenumber': 279, 'title': 'Add Additional Dictionaries', 'state': 'closed', 'created_at': '2016-10-06T18:00:05Z', 'closed_at': '2016-10-06T18:22:32Z', 'labels': []}
+{'issuenumber': 278, 'title': 'Distinct Values', 'state': 'closed', 'created_at': '2016-10-06T16:42:48Z', 'closed_at': '2016-10-06T17:57:27Z', 'labels': []}
+{'issuenumber': 277, 'title': 'What verb form is "had flown"?', 'state': 'closed', 'created_at': '2016-10-06T15:26:47Z', 'closed_at': '2016-10-06T17:04:55Z', 'labels': []}
+{'issuenumber': 276, 'title': 'Throwing error "undefined is not a function (evaluating \'y.startsWith("-")\')"', 'state': 'closed', 'created_at': '2016-10-05T02:57:07Z', 'closed_at': '2016-10-06T13:34:14Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 271, 'title': 'Trailing newlines are ignored', 'state': 'closed', 'created_at': '2016-09-30T22:23:24Z', 'closed_at': '2017-03-25T02:06:49Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 270, 'title': 'Unnamed place identification', 'state': 'closed', 'created_at': '2016-09-23T14:55:11Z', 'closed_at': '2016-09-27T15:12:00Z', 'labels': []}
+{'issuenumber': 268, 'title': 'terms with trailing punctuation fail has_abbreviation()', 'state': 'closed', 'created_at': '2016-09-13T15:26:54Z', 'closed_at': '2017-08-26T16:44:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 267, 'title': 'custom lexicon key with multiple words only partially matching', 'state': 'closed', 'created_at': '2016-09-13T08:02:40Z', 'closed_at': '2017-08-26T12:34:49Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 264, 'title': '"I am" becomes "I been"', 'state': 'closed', 'created_at': '2016-09-04T06:56:04Z', 'closed_at': '2017-03-14T17:07:24Z', 'labels': []}
+{'issuenumber': 263, 'title': 'Getting location of results in the string', 'state': 'closed', 'created_at': '2016-09-02T21:57:00Z', 'closed_at': '2017-03-14T16:59:21Z', 'labels': []}
+{'issuenumber': 262, 'title': 'v7 API syntax discussion.', 'state': 'closed', 'created_at': '2016-09-01T05:46:50Z', 'closed_at': '2017-02-10T21:32:13Z', 'labels': []}
+{'issuenumber': 261, 'title': 'Cannot build in Windows', 'state': 'closed', 'created_at': '2016-08-31T10:24:10Z', 'closed_at': '2017-03-13T17:25:26Z', 'labels': []}
+{'issuenumber': 257, 'title': 'New Custom Lexicon from scratch', 'state': 'closed', 'created_at': '2016-08-12T11:04:17Z', 'closed_at': '2019-12-04T21:33:07Z', 'labels': []}
+{'issuenumber': 256, 'title': 'fails to negate sentence', 'state': 'closed', 'created_at': '2016-08-09T02:08:53Z', 'closed_at': '2017-03-13T17:30:52Z', 'labels': []}
+{'issuenumber': 254, 'title': 'typings file', 'state': 'closed', 'created_at': '2016-07-29T21:15:17Z', 'closed_at': '2021-09-22T01:50:45Z', 'labels': {'name': 'ready'}}
+{'issuenumber': 253, 'title': "Root form with numbers doesn't work", 'state': 'closed', 'created_at': '2016-07-26T11:30:05Z', 'closed_at': '2017-08-26T12:31:55Z', 'labels': []}
+{'issuenumber': 252, 'title': 'New demo', 'state': 'closed', 'created_at': '2016-07-25T00:12:35Z', 'closed_at': '2017-03-13T17:28:55Z', 'labels': []}
+{'issuenumber': 251, 'title': 'Easy fix in keypress demo', 'state': 'closed', 'created_at': '2016-07-24T23:18:21Z', 'closed_at': '2017-03-14T16:55:29Z', 'labels': []}
+{'issuenumber': 250, 'title': 'Documentation for lexicon update needing lowercased keys', 'state': 'closed', 'created_at': '2016-07-24T21:34:27Z', 'closed_at': '2017-03-14T17:05:08Z', 'labels': {'name': 'hmmm'}}
+{'issuenumber': 249, 'title': 'extra conjunctions', 'state': 'closed', 'created_at': '2016-07-23T23:23:16Z', 'closed_at': '2017-03-14T17:47:31Z', 'labels': []}
+{'issuenumber': 248, 'title': 'How to handle the QU object?', 'state': 'closed', 'created_at': '2016-07-23T09:53:39Z', 'closed_at': '2017-08-26T12:26:27Z', 'labels': {'name': 'yesss'}}
+{'issuenumber': 246, 'title': 'sentence segmentation missed initial', 'state': 'closed', 'created_at': '2016-07-22T12:50:24Z', 'closed_at': '2017-03-14T17:09:27Z', 'labels': []}
+{'issuenumber': 244, 'title': 'v7 API feedback', 'state': 'closed', 'created_at': '2016-07-11T16:42:41Z', 'closed_at': '2017-03-13T17:31:14Z', 'labels': []}
+{'issuenumber': 243, 'title': 'Conjugation from non-infinitive form verbs', 'state': 'closed', 'created_at': '2016-07-06T17:56:19Z', 'closed_at': '2017-03-25T02:13:41Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 240, 'title': 'support Symbol Part-of-Speech', 'state': 'closed', 'created_at': '2016-07-03T05:06:53Z', 'closed_at': '2016-07-04T21:22:43Z', 'labels': {'name': 'ready'}}
+{'issuenumber': 239, 'title': "'madrid', 'next week' lumping", 'state': 'closed', 'created_at': '2016-07-02T07:09:48Z', 'closed_at': '2016-07-04T21:53:20Z', 'labels': []}
+{'issuenumber': 238, 'title': 'More rats in syntax matching...', 'state': 'closed', 'created_at': '2016-06-28T06:06:57Z', 'closed_at': '2016-07-04T21:35:54Z', 'labels': []}
+{'issuenumber': 235, 'title': 'Syntax matching issue', 'state': 'closed', 'created_at': '2016-06-25T01:41:14Z', 'closed_at': '2017-03-14T17:11:49Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 232, 'title': 'Demonym and ISO code', 'state': 'closed', 'created_at': '2016-06-24T09:56:27Z', 'closed_at': '2016-06-25T01:38:23Z', 'labels': []}
+{'issuenumber': 230, 'title': 'places().length for two cities name with spaces equal to 1', 'state': 'closed', 'created_at': '2016-06-22T14:36:23Z', 'closed_at': '2016-07-04T22:04:31Z', 'labels': {'name': 'quick fix'}}
+{'issuenumber': 229, 'title': "conjugate 'rain'", 'state': 'closed', 'created_at': '2016-06-22T14:00:27Z', 'closed_at': '2016-07-04T22:06:43Z', 'labels': {'name': 'quick fix'}}
+{'issuenumber': 226, 'title': 'Did the API change?', 'state': 'closed', 'created_at': '2016-06-21T00:22:18Z', 'closed_at': '2016-06-21T00:36:24Z', 'labels': []}
+{'issuenumber': 225, 'title': 'Person + comma lumping', 'state': 'closed', 'created_at': '2016-06-20T14:50:51Z', 'closed_at': '2016-06-22T00:47:10Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 222, 'title': 'adverb.conjugate() is not implemented', 'state': 'closed', 'created_at': '2016-06-19T04:01:00Z', 'closed_at': '2016-06-21T19:15:00Z', 'labels': []}
+{'issuenumber': 221, 'title': 'Concept of sentence', 'state': 'closed', 'created_at': '2016-06-18T13:55:37Z', 'closed_at': '2016-07-04T22:13:07Z', 'labels': []}
+{'issuenumber': 220, 'title': 'Mixed-Case names', 'state': 'closed', 'created_at': '2016-06-18T04:04:19Z', 'closed_at': '2017-03-13T17:33:34Z', 'labels': {'name': 'hmmm'}}
+{'issuenumber': 218, 'title': 'Add firstnames to the lexicon', 'state': 'closed', 'created_at': '2016-06-16T20:42:57Z', 'closed_at': '2017-03-25T02:09:45Z', 'labels': {'name': 'yesss'}}
+{'issuenumber': 216, 'title': 'Some verbs are detected like adjetives', 'state': 'closed', 'created_at': '2016-06-16T11:16:05Z', 'closed_at': '2016-06-16T23:56:04Z', 'labels': []}
+{'issuenumber': 210, 'title': 'Some nouns are mistaken for adjectives', 'state': 'closed', 'created_at': '2016-06-15T11:03:07Z', 'closed_at': '2016-06-16T16:34:42Z', 'labels': []}
+{'issuenumber': 208, 'title': 'Guessing part of speech?', 'state': 'closed', 'created_at': '2016-06-14T16:47:47Z', 'closed_at': '2016-06-14T17:42:58Z', 'labels': []}
+{'issuenumber': 206, 'title': 'Person name fields inappropriately lower cased', 'state': 'closed', 'created_at': '2016-06-12T16:23:56Z', 'closed_at': '2016-06-15T16:43:56Z', 'labels': []}
+{'issuenumber': 205, 'title': '`3 buses` and `3 trains`', 'state': 'closed', 'created_at': '2016-06-12T01:23:51Z', 'closed_at': '2016-06-14T17:23:00Z', 'labels': []}
+{'issuenumber': 203, 'title': 'How can I get the tense of a determinate verb', 'state': 'closed', 'created_at': '2016-06-11T11:46:30Z', 'closed_at': '2016-06-11T11:50:11Z', 'labels': {'name': 'ready'}}
+{'issuenumber': 200, 'title': 'Question about of_what', 'state': 'closed', 'created_at': '2016-06-07T22:12:41Z', 'closed_at': '2016-06-10T02:49:57Z', 'labels': []}
+{'issuenumber': 198, 'title': 'Noun/Verb being tagged as Adjective', 'state': 'closed', 'created_at': '2016-06-06T18:03:45Z', 'closed_at': '2016-06-14T17:23:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 194, 'title': '"4 cats" and "4 red cats" are parsed very different', 'state': 'closed', 'created_at': '2016-06-04T04:14:10Z', 'closed_at': '2016-06-14T17:23:19Z', 'labels': []}
+{'issuenumber': 193, 'title': 'Roses incorrectly marked as verb', 'state': 'closed', 'created_at': '2016-06-04T04:06:34Z', 'closed_at': '2016-06-14T17:31:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 182, 'title': "Looks like normal and root method doesn't work", 'state': 'closed', 'created_at': '2016-06-02T13:49:30Z', 'closed_at': '2017-03-14T17:21:37Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 181, 'title': 'result.match throws error', 'state': 'closed', 'created_at': '2016-06-01T20:14:39Z', 'closed_at': '2017-03-14T17:14:20Z', 'labels': {'name': 'kinda-big'}}
+{'issuenumber': 180, 'title': 'Noun.conjugate() error with the example from the API documentation', 'state': 'closed', 'created_at': '2016-06-01T20:14:17Z', 'closed_at': '2016-06-02T19:06:11Z', 'labels': []}
+{'issuenumber': 175, 'title': 'Recognize tablespoon as volume', 'state': 'closed', 'created_at': '2016-05-31T20:52:14Z', 'closed_at': '2016-05-31T21:22:07Z', 'labels': []}
+{'issuenumber': 174, 'title': '"1 cup" is a currency?', 'state': 'closed', 'created_at': '2016-05-31T20:49:30Z', 'closed_at': '2016-05-31T21:16:55Z', 'labels': []}
+{'issuenumber': 173, 'title': 'Unit now includes of_what', 'state': 'closed', 'created_at': '2016-05-31T20:43:33Z', 'closed_at': '2016-06-01T02:39:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 172, 'title': 'Issue with parsing "6 7-ounce containers"', 'state': 'closed', 'created_at': '2016-05-31T20:39:29Z', 'closed_at': '2016-06-01T14:30:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 166, 'title': 'Make a wiki', 'state': 'closed', 'created_at': '2016-05-28T04:01:12Z', 'closed_at': '2016-05-31T18:56:18Z', 'labels': []}
+{'issuenumber': 165, 'title': 'apply type-definitions to test runner', 'state': 'closed', 'created_at': '2016-05-27T19:03:08Z', 'closed_at': '2017-03-25T02:17:28Z', 'labels': {'name': 'kinda-big'}}
+{'issuenumber': 163, 'title': 'Incorrect adverb for good', 'state': 'closed', 'created_at': '2016-05-26T19:06:36Z', 'closed_at': '2016-05-27T16:59:56Z', 'labels': {'name': 'quick fix'}}
+{'issuenumber': 162, 'title': '"Feauture" request: TypeScript definition file', 'state': 'closed', 'created_at': '2016-05-26T17:33:00Z', 'closed_at': '2016-06-06T19:21:14Z', 'labels': {'name': 'yesss'}}
+{'issuenumber': 159, 'title': 'Incorrect tagging', 'state': 'closed', 'created_at': '2016-05-22T18:31:53Z', 'closed_at': '2016-05-27T15:57:12Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 158, 'title': 'Feature Request: Get what the amount is of', 'state': 'closed', 'created_at': '2016-05-22T17:42:10Z', 'closed_at': '2016-06-06T19:23:28Z', 'labels': {'name': 'ready'}}
+{'issuenumber': 154, 'title': 'Add new city to places', 'state': 'closed', 'created_at': '2016-05-21T12:58:09Z', 'closed_at': '2016-05-21T15:42:56Z', 'labels': []}
+{'issuenumber': 152, 'title': 'Incorect Negation for negated things.', 'state': 'closed', 'created_at': '2016-05-20T01:38:08Z', 'closed_at': '2017-08-26T12:29:18Z', 'labels': {'name': 'ready'}}
+{'issuenumber': 151, 'title': "Error: Cannot find module 'nlp-ngram'", 'state': 'closed', 'created_at': '2016-05-19T22:19:25Z', 'closed_at': '2016-05-20T13:25:33Z', 'labels': []}
+{'issuenumber': 147, 'title': 'Text with mixed (expanded/contracted) contractions', 'state': 'closed', 'created_at': '2016-05-19T02:16:28Z', 'closed_at': '2017-10-25T00:35:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 145, 'title': 'Incorrect Negation for Statements Such as "I enjoy...."', 'state': 'closed', 'created_at': '2016-05-17T21:47:43Z', 'closed_at': '2016-05-21T14:50:07Z', 'labels': []}
+{'issuenumber': 143, 'title': 'Wrong conjugation for `speak`, `criticize`, `develop`', 'state': 'closed', 'created_at': '2016-05-17T20:10:51Z', 'closed_at': '2016-06-06T20:02:25Z', 'labels': []}
+{'issuenumber': 141, 'title': 'A general Question', 'state': 'closed', 'created_at': '2016-05-17T17:44:26Z', 'closed_at': '2016-05-17T20:35:25Z', 'labels': {'name': 'yesss'}}
+{'issuenumber': 139, 'title': 'Contractions missing whitespace after expansion', 'state': 'closed', 'created_at': '2016-05-17T15:19:48Z', 'closed_at': '2016-05-17T20:46:57Z', 'labels': []}
+{'issuenumber': 134, 'title': "Site doesn't work on older browsers", 'state': 'closed', 'created_at': '2016-05-16T19:53:16Z', 'closed_at': '2017-03-13T17:35:27Z', 'labels': {'name': 'operations'}}
+{'issuenumber': 132, 'title': 'Method to list nouns and verbs in a sentence', 'state': 'closed', 'created_at': '2016-05-16T12:52:18Z', 'closed_at': '2016-06-02T14:48:42Z', 'labels': {'name': 'ready'}}
+{'issuenumber': 131, 'title': 'Tense conversion incorrectly converts participles', 'state': 'closed', 'created_at': '2016-05-16T07:50:22Z', 'closed_at': '2017-08-26T11:27:30Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 130, 'title': "Syllable hyphenation fails for the dipthong 'eu'", 'state': 'closed', 'created_at': '2016-05-16T07:48:26Z', 'closed_at': '2016-06-06T18:59:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 129, 'title': 'New Unit: Grams', 'state': 'closed', 'created_at': '2016-05-15T22:15:21Z', 'closed_at': '2016-05-21T17:30:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 127, 'title': 'Place can also be airport codes (eg JFK)', 'state': 'closed', 'created_at': '2016-05-15T21:35:47Z', 'closed_at': '2016-06-02T14:19:30Z', 'labels': {'name': 'ready'}}
+{'issuenumber': 125, 'title': 'Slack link goes to 404', 'state': 'closed', 'created_at': '2016-05-15T14:02:37Z', 'closed_at': '2016-05-17T15:15:47Z', 'labels': []}
+{'issuenumber': 122, 'title': 'BUG: Project perpetuates gender binarism', 'state': 'closed', 'created_at': '2016-05-14T22:41:47Z', 'closed_at': '2016-05-14T23:20:32Z', 'labels': []}
+{'issuenumber': 121, 'title': 'Whitelist directories for a smaller module size', 'state': 'closed', 'created_at': '2016-05-14T21:01:00Z', 'closed_at': '2016-05-27T15:21:42Z', 'labels': {'name': 'yesss'}}
+{'issuenumber': 120, 'title': 'RFC: Functional API?', 'state': 'closed', 'created_at': '2016-05-14T20:12:19Z', 'closed_at': '2016-05-17T15:23:19Z', 'labels': []}
+{'issuenumber': 119, 'title': 'Firefox function instead of string', 'state': 'closed', 'created_at': '2016-05-14T19:16:25Z', 'closed_at': '2016-05-17T13:59:34Z', 'labels': []}
+{'issuenumber': 118, 'title': 'Lots of past tense issues', 'state': 'closed', 'created_at': '2016-05-14T18:15:02Z', 'closed_at': '2016-06-06T22:12:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 117, 'title': "Software shouldn't guess gender", 'state': 'closed', 'created_at': '2016-05-14T17:41:07Z', 'closed_at': '2016-05-16T02:39:13Z', 'labels': []}
+{'issuenumber': 115, 'title': 'to_past turned "going" to "goinged"', 'state': 'closed', 'created_at': '2016-05-14T14:45:54Z', 'closed_at': '2017-03-14T17:24:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 114, 'title': 'Compatible with ES6/ES2015? -- Cannot find module', 'state': 'closed', 'created_at': '2016-05-14T07:17:45Z', 'closed_at': '2016-06-06T19:43:57Z', 'labels': []}
+{'issuenumber': 113, 'title': '404 error', 'state': 'closed', 'created_at': '2016-05-11T08:23:36Z', 'closed_at': '2016-05-11T14:53:27Z', 'labels': []}
+{'issuenumber': 111, 'title': 'BigQuery: Running nlp_compromise with SQL', 'state': 'closed', 'created_at': '2016-05-10T23:03:39Z', 'closed_at': '2016-05-11T15:36:31Z', 'labels': []}
+{'issuenumber': 110, 'title': 'syntactic parsing', 'state': 'closed', 'created_at': '2016-05-04T16:39:53Z', 'closed_at': '2016-05-04T17:56:34Z', 'labels': []}
+{'issuenumber': 109, 'title': 'Tags returns a type "Posessive"', 'state': 'closed', 'created_at': '2016-04-29T21:05:16Z', 'closed_at': '2016-04-29T21:11:30Z', 'labels': []}
+{'issuenumber': 108, 'title': '`.root()` returns text of a function', 'state': 'closed', 'created_at': '2016-04-29T05:56:23Z', 'closed_at': '2016-05-02T13:36:11Z', 'labels': []}
+{'issuenumber': 107, 'title': 'Running spot() on new compromise nlp version', 'state': 'closed', 'created_at': '2016-04-26T10:05:06Z', 'closed_at': '2016-04-26T19:37:22Z', 'labels': []}
+{'issuenumber': 106, 'title': 'Error when loading library in certain browsers', 'state': 'closed', 'created_at': '2016-04-20T18:07:38Z', 'closed_at': '2016-04-20T18:56:43Z', 'labels': []}
+{'issuenumber': 105, 'title': 'date.parse() in nlp_core', 'state': 'closed', 'created_at': '2016-04-14T06:41:06Z', 'closed_at': '2022-05-26T20:17:06Z', 'labels': {'name': 'kinda-big'}}
+{'issuenumber': 104, 'title': 'Verb tense: nlp.verb("open").conjugate()  -> "oping" as gerund?', 'state': 'closed', 'created_at': '2016-03-29T01:40:27Z', 'closed_at': '2016-04-01T19:15:28Z', 'labels': []}
+{'issuenumber': 103, 'title': 'nlp.text() breaking with certain inputs', 'state': 'closed', 'created_at': '2016-03-25T17:48:13Z', 'closed_at': '2016-04-04T16:35:46Z', 'labels': []}
+{'issuenumber': 102, 'title': 'Part-of-speech tagging broken', 'state': 'closed', 'created_at': '2016-03-22T17:10:20Z', 'closed_at': '2016-06-06T20:46:40Z', 'labels': []}
+{'issuenumber': 100, 'title': 'semvar or semver?', 'state': 'closed', 'created_at': '2016-02-27T23:03:41Z', 'closed_at': '2016-02-28T03:15:17Z', 'labels': []}
+{'issuenumber': 98, 'title': 'package.json\'s "main" points to a missing file', 'state': 'closed', 'created_at': '2016-02-26T00:08:05Z', 'closed_at': '2016-02-26T01:29:38Z', 'labels': []}
+{'issuenumber': 95, 'title': 'Weird behavior', 'state': 'closed', 'created_at': '2016-02-11T18:38:39Z', 'closed_at': '2016-02-14T02:12:26Z', 'labels': []}
+{'issuenumber': 94, 'title': 'Tokenisation without tagging option', 'state': 'closed', 'created_at': '2016-02-10T16:30:50Z', 'closed_at': '2017-08-26T11:23:06Z', 'labels': {'name': 'ready'}}
+{'issuenumber': 90, 'title': 'Britishize not working correctly', 'state': 'closed', 'created_at': '2016-02-06T02:12:01Z', 'closed_at': '2016-07-05T01:05:26Z', 'labels': []}
+{'issuenumber': 89, 'title': 'Consistent interface', 'state': 'closed', 'created_at': '2016-02-06T02:03:19Z', 'closed_at': '2017-03-13T18:05:02Z', 'labels': {'name': 'kinda-big'}}
+{'issuenumber': 88, 'title': '"does [Verb]"  lumping support', 'state': 'closed', 'created_at': '2016-02-06T01:49:03Z', 'closed_at': '2017-03-14T16:50:56Z', 'labels': {'name': 'kinda-big'}}
+{'issuenumber': 87, 'title': '"Died" handled incorrectly', 'state': 'closed', 'created_at': '2016-02-06T01:40:07Z', 'closed_at': '2016-02-14T02:49:25Z', 'labels': []}
+{'issuenumber': 86, 'title': 'Improve usage instructions for novices', 'state': 'closed', 'created_at': '2016-02-05T04:29:18Z', 'closed_at': '2016-07-05T00:56:58Z', 'labels': []}
+{'issuenumber': 85, 'title': 'README example tense is wrong', 'state': 'closed', 'created_at': '2016-02-04T15:07:13Z', 'closed_at': '2016-02-04T16:11:01Z', 'labels': []}
+{'issuenumber': 84, 'title': 'Pass the library instance to the plugin', 'state': 'closed', 'created_at': '2016-02-04T06:03:12Z', 'closed_at': '2016-02-06T05:01:02Z', 'labels': []}
+{'issuenumber': 83, 'title': 'Places not working', 'state': 'closed', 'created_at': '2016-02-03T00:46:21Z', 'closed_at': '2016-02-03T00:50:38Z', 'labels': []}
+{'issuenumber': 81, 'title': 'Is it possible to add more languages?', 'state': 'closed', 'created_at': '2016-01-29T16:34:02Z', 'closed_at': '2017-10-25T00:42:35Z', 'labels': {'name': 'kinda-big'}}
+{'issuenumber': 80, 'title': "A sentence with US at the end of a sentence (with no punctuation) isn't detected as a sentence", 'state': 'closed', 'created_at': '2016-01-27T12:08:37Z', 'closed_at': '2016-01-27T17:44:57Z', 'labels': []}
+{'issuenumber': 79, 'title': "Conjugation of 'go' is broken", 'state': 'closed', 'created_at': '2016-01-26T01:21:21Z', 'closed_at': '2016-01-27T17:36:31Z', 'labels': []}
+{'issuenumber': 77, 'title': "Duplicate value 'children' in irregular_nouns.js", 'state': 'closed', 'created_at': '2016-01-18T03:02:18Z', 'closed_at': '2016-01-18T03:06:48Z', 'labels': []}
+{'issuenumber': 74, 'title': 'Sentence.text() adds extra whitespace', 'state': 'closed', 'created_at': '2015-12-20T16:21:23Z', 'closed_at': '2015-12-20T18:08:10Z', 'labels': []}
+{'issuenumber': 72, 'title': 'Does not work in a web worker', 'state': 'closed', 'created_at': '2015-11-22T20:32:44Z', 'closed_at': '2015-11-25T19:35:27Z', 'labels': []}
+{'issuenumber': 71, 'title': 'Adjectives tagged as verbs due to "adjective-after-pronoun"', 'state': 'closed', 'created_at': '2015-11-13T03:47:24Z', 'closed_at': '2016-06-16T23:54:21Z', 'labels': []}
+{'issuenumber': 68, 'title': 'Double quotes to specify pos', 'state': 'closed', 'created_at': '2015-11-05T16:46:13Z', 'closed_at': '2016-07-05T00:38:15Z', 'labels': []}
+{'issuenumber': 67, 'title': 'nlp.sentences() collapses whitespace', 'state': 'closed', 'created_at': '2015-11-05T14:49:32Z', 'closed_at': '2016-06-07T22:16:51Z', 'labels': []}
+{'issuenumber': 66, 'title': 'Implementing the package on a data structure ? ', 'state': 'closed', 'created_at': '2015-10-26T15:59:12Z', 'closed_at': '2015-10-27T01:44:28Z', 'labels': []}
+{'issuenumber': 65, 'title': "past tense '-dy', '-ly'  ", 'state': 'closed', 'created_at': '2015-10-26T08:38:04Z', 'closed_at': '2016-06-16T16:34:46Z', 'labels': []}
+{'issuenumber': 63, 'title': 'feature: add custom verbs/nouns etc', 'state': 'closed', 'created_at': '2015-09-29T05:26:16Z', 'closed_at': '2016-06-07T22:19:04Z', 'labels': []}
+{'issuenumber': 62, 'title': 'Use strict mode please', 'state': 'closed', 'created_at': '2015-09-28T13:45:23Z', 'closed_at': '2015-09-28T13:57:56Z', 'labels': []}
+{'issuenumber': 61, 'title': 'Britishize asymmetry with Americanize', 'state': 'closed', 'created_at': '2015-09-23T14:14:14Z', 'closed_at': '2017-08-26T11:24:37Z', 'labels': {'name': 'ready'}}
+{'issuenumber': 60, 'title': 'Verb Tense Bug in Demo', 'state': 'closed', 'created_at': '2015-09-17T07:32:48Z', 'closed_at': '2016-07-05T00:47:25Z', 'labels': []}
+{'issuenumber': 59, 'title': '2.0 - just a note : string to regex', 'state': 'closed', 'created_at': '2015-09-07T09:14:15Z', 'closed_at': '2016-01-03T16:03:14Z', 'labels': []}
+{'issuenumber': 58, 'title': '"something" and "other" not labelled as nouns', 'state': 'closed', 'created_at': '2015-08-21T22:05:52Z', 'closed_at': '2015-08-25T06:05:31Z', 'labels': []}
+{'issuenumber': 57, 'title': 'Question - Advanced Date Parsing', 'state': 'closed', 'created_at': '2015-08-15T01:54:40Z', 'closed_at': '2015-08-26T21:05:31Z', 'labels': []}
+{'issuenumber': 56, 'title': 'Dictionary?', 'state': 'closed', 'created_at': '2015-08-03T18:19:35Z', 'closed_at': '2015-08-04T00:33:43Z', 'labels': []}
+{'issuenumber': 54, 'title': 'The example "Ten and a half million" does not work', 'state': 'closed', 'created_at': '2015-06-23T15:21:26Z', 'closed_at': '2015-07-26T20:01:02Z', 'labels': []}
+{'issuenumber': 53, 'title': 'PP - compared to fork', 'state': 'closed', 'created_at': '2015-06-22T10:57:07Z', 'closed_at': '2015-07-26T19:46:47Z', 'labels': []}
+{'issuenumber': 51, 'title': 'ambiguous contractions in negate -', 'state': 'closed', 'created_at': '2015-06-21T22:21:56Z', 'closed_at': '2015-06-22T14:17:24Z', 'labels': []}
+{'issuenumber': 50, 'title': 'ngram: support for ngrams with size equal to 1', 'state': 'closed', 'created_at': '2015-06-15T14:34:01Z', 'closed_at': '2015-06-20T15:00:51Z', 'labels': []}
+{'issuenumber': 49, 'title': 'performance / why is it running twice ...', 'state': 'closed', 'created_at': '2015-06-08T16:00:15Z', 'closed_at': '2015-07-26T20:43:55Z', 'labels': []}
+{'issuenumber': 47, 'title': 'Circa, or c.', 'state': 'closed', 'created_at': '2015-06-03T10:04:05Z', 'closed_at': '2015-07-26T19:54:38Z', 'labels': []}
+{'issuenumber': 45, 'title': 'referenced_by and reference_to ', 'state': 'closed', 'created_at': '2015-06-02T10:18:49Z', 'closed_at': '2015-07-26T19:54:53Z', 'labels': []}
+{'issuenumber': 44, 'title': 'use of var in for loops ...', 'state': 'closed', 'created_at': '2015-06-01T23:01:25Z', 'closed_at': '2015-06-05T17:12:56Z', 'labels': []}
+{'issuenumber': 43, 'title': 'Question / feature request', 'state': 'closed', 'created_at': '2015-05-31T17:21:21Z', 'closed_at': '2015-06-05T17:20:17Z', 'labels': []}
+{'issuenumber': 42, 'title': 'Changes in the fork and the pull request ...', 'state': 'closed', 'created_at': '2015-05-28T19:44:45Z', 'closed_at': '2015-06-07T15:20:52Z', 'labels': []}
+{'issuenumber': 41, 'title': 'Contractions', 'state': 'closed', 'created_at': '2015-05-21T17:12:40Z', 'closed_at': '2015-07-26T19:55:10Z', 'labels': []}
+{'issuenumber': 40, 'title': 'Prepositions (IN)', 'state': 'closed', 'created_at': '2015-05-21T10:27:12Z', 'closed_at': '2015-05-28T18:50:38Z', 'labels': []}
+{'issuenumber': 39, 'title': 'language independence ...', 'state': 'closed', 'created_at': '2015-05-19T16:49:55Z', 'closed_at': '2015-06-05T19:58:39Z', 'labels': []}
+{'issuenumber': 38, 'title': 'is_plural again', 'state': 'closed', 'created_at': '2015-05-09T15:16:28Z', 'closed_at': '2015-05-28T19:24:05Z', 'labels': []}
+{'issuenumber': 36, 'title': 'feature request : phrasal verbs stemming', 'state': 'closed', 'created_at': '2015-04-29T20:17:32Z', 'closed_at': '2015-05-19T17:06:24Z', 'labels': []}
+{'issuenumber': 35, 'title': 'nlp.sentences() not returning all sentences', 'state': 'closed', 'created_at': '2015-04-29T17:52:46Z', 'closed_at': '2015-05-10T15:19:55Z', 'labels': []}
+{'issuenumber': 34, 'title': 'Just FYI.', 'state': 'closed', 'created_at': '2015-04-29T09:23:18Z', 'closed_at': '2015-04-29T09:23:29Z', 'labels': []}
+{'issuenumber': 33, 'title': "nlp.pos('constructor') is returning an error", 'state': 'closed', 'created_at': '2015-04-28T22:07:46Z', 'closed_at': '2015-04-29T04:01:36Z', 'labels': []}
+{'issuenumber': 29, 'title': 'nlp.spot not returning entity array, but rather an object (still)', 'state': 'closed', 'created_at': '2015-04-17T15:03:37Z', 'closed_at': '2015-07-26T20:04:39Z', 'labels': []}
+{'issuenumber': 28, 'title': 'Adding new Names for recognition using spot?', 'state': 'closed', 'created_at': '2015-04-16T13:24:42Z', 'closed_at': '2015-04-16T13:55:07Z', 'labels': []}
+{'issuenumber': 24, 'title': 'Sentence negate will negate everything', 'state': 'closed', 'created_at': '2015-03-25T23:38:22Z', 'closed_at': '2015-04-01T14:55:20Z', 'labels': []}
+{'issuenumber': 23, 'title': 'Sentence boundary detection.', 'state': 'closed', 'created_at': '2015-03-03T13:39:56Z', 'closed_at': '2015-03-04T12:27:44Z', 'labels': []}
+{'issuenumber': 22, 'title': "nlp.sentences doesn't split on '!'", 'state': 'closed', 'created_at': '2015-02-27T11:33:01Z', 'closed_at': '2015-03-03T04:09:50Z', 'labels': []}
+{'issuenumber': 21, 'title': 'nlp.spot not returning entity array, but rather an object', 'state': 'closed', 'created_at': '2015-02-23T21:36:27Z', 'closed_at': '2015-04-13T02:11:39Z', 'labels': []}
+{'issuenumber': 17, 'title': 'Bower', 'state': 'closed', 'created_at': '2015-02-21T13:19:30Z', 'closed_at': '2015-02-22T15:17:49Z', 'labels': []}
+{'issuenumber': 16, 'title': 'Angular module', 'state': 'closed', 'created_at': '2015-02-21T13:19:24Z', 'closed_at': '2015-02-22T14:32:24Z', 'labels': []}
+{'issuenumber': 15, 'title': 'January is not recognized by date_extractor?', 'state': 'closed', 'created_at': '2015-01-07T19:22:48Z', 'closed_at': '2015-01-08T12:46:21Z', 'labels': []}
+{'issuenumber': 14, 'title': 'are/were', 'state': 'closed', 'created_at': '2014-11-14T18:46:42Z', 'closed_at': '2014-11-15T01:00:05Z', 'labels': []}
+{'issuenumber': 13, 'title': "date_extractor: Cannot read property '1' of null", 'state': 'closed', 'created_at': '2014-10-16T11:33:49Z', 'closed_at': '2014-11-07T19:10:49Z', 'labels': []}
+{'issuenumber': 10, 'title': 'Add Fahrenheit, Celcius, and Kelvin to Inflect Uncountables', 'state': 'closed', 'created_at': '2014-06-04T09:15:20Z', 'closed_at': '2014-12-03T23:13:03Z', 'labels': []}
+{'issuenumber': 9, 'title': "'Sixteen one' is two numbers, not one", 'state': 'closed', 'created_at': '2014-05-31T17:23:12Z', 'closed_at': '2015-01-06T17:14:16Z', 'labels': []}
+{'issuenumber': 8, 'title': 'cannot find dates', 'state': 'closed', 'created_at': '2014-05-25T02:54:11Z', 'closed_at': '2014-05-25T12:50:56Z', 'labels': []}
+{'issuenumber': 7, 'title': 'installing using `npm install nlp_compromise` gives me a `shasum check failed` error', 'state': 'closed', 'created_at': '2014-05-23T05:53:09Z', 'closed_at': '2014-05-25T12:51:06Z', 'labels': []}
+{'issuenumber': 6, 'title': 'nlp.tag is not defined', 'state': 'closed', 'created_at': '2014-05-01T04:57:43Z', 'closed_at': '2014-05-01T14:00:08Z', 'labels': []}
+{'issuenumber': 5, 'title': "Real numbers, (i.e. 5) aren't recognised as cardinal numbers.", 'state': 'closed', 'created_at': '2014-04-14T18:55:25Z', 'closed_at': '2014-05-31T22:00:22Z', 'labels': []}
+{'issuenumber': 4, 'title': "nlp.tag('Tony Hawk said he was very happy')[0] !== 'Tony Hawk'", 'state': 'closed', 'created_at': '2014-03-07T14:08:38Z', 'closed_at': '2014-05-25T14:19:08Z', 'labels': []}
+{'issuenumber': 3, 'title': 'NPM installation throws error', 'state': 'closed', 'created_at': '2014-03-02T19:31:12Z', 'closed_at': '2014-04-03T02:49:30Z', 'labels': []}
+{'issuenumber': 2, 'title': "date_extractor's regex not replacing properly", 'state': 'closed', 'created_at': '2014-02-16T02:58:17Z', 'closed_at': '2014-04-03T02:47:01Z', 'labels': []}

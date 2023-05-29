@@ -1,0 +1,707 @@
+{'issuenumber': 1065, 'title': 'Support for synchronized audio (for narration)', 'state': 'closed', 'created_at': '2014-11-29T13:39:18Z', 'closed_at': '2016-03-07T09:02:47Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 1064, 'title': 'dom.slides is null', 'state': 'closed', 'created_at': '2014-11-26T19:09:24Z', 'closed_at': '2014-11-27T01:15:28Z', 'labels': []}
+{'issuenumber': 1062, 'title': 'Each configure() on a running auto-play slideshow spawns new animated playback control', 'state': 'closed', 'created_at': '2014-11-25T19:24:05Z', 'closed_at': '2014-12-10T17:37:50Z', 'labels': []}
+{'issuenumber': 1061, 'title': 'Dynamic theme change', 'state': 'closed', 'created_at': '2014-11-23T14:13:44Z', 'closed_at': '2014-12-18T16:48:59Z', 'labels': []}
+{'issuenumber': 1060, 'title': 'Exporting to PDF does not work with dev branch', 'state': 'closed', 'created_at': '2014-11-21T07:17:48Z', 'closed_at': '2014-12-10T19:48:56Z', 'labels': []}
+{'issuenumber': 1058, 'title': "Error when using 'bower install'", 'state': 'closed', 'created_at': '2014-11-20T06:26:58Z', 'closed_at': '2015-11-09T16:13:14Z', 'labels': []}
+{'issuenumber': 1057, 'title': 'Server Side Speaker Notes 404 Error', 'state': 'closed', 'created_at': '2014-11-20T01:53:17Z', 'closed_at': '2017-05-03T09:37:20Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1056, 'title': 'changing background color behind inserted video', 'state': 'closed', 'created_at': '2014-11-17T21:51:46Z', 'closed_at': '2017-07-09T04:47:11Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1055, 'title': 'Individual slide vertical centering broken with nested sections', 'state': 'closed', 'created_at': '2014-11-15T22:01:18Z', 'closed_at': '2017-05-03T07:44:25Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 1053, 'title': "Vertical slides don't work well for print-pdf in dev branch ", 'state': 'closed', 'created_at': '2014-11-13T02:32:48Z', 'closed_at': '2015-01-06T16:50:38Z', 'labels': []}
+{'issuenumber': 1052, 'title': 'Remove remote font loading from default theme', 'state': 'closed', 'created_at': '2014-11-12T10:35:47Z', 'closed_at': '2015-01-06T16:41:08Z', 'labels': []}
+{'issuenumber': 1051, 'title': 'Regex for markdown data-seperator  ', 'state': 'closed', 'created_at': '2014-11-11T20:00:55Z', 'closed_at': '2016-12-12T08:45:42Z', 'labels': {'name': 'question'}}
+{'issuenumber': 1050, 'title': 'Markdown table column alignment', 'state': 'closed', 'created_at': '2014-11-11T15:24:52Z', 'closed_at': '2015-03-02T11:06:44Z', 'labels': {'name': 'markdown'}}
+{'issuenumber': 1049, 'title': 'data-background-video enhancements ideas', 'state': 'closed', 'created_at': '2014-11-07T18:45:10Z', 'closed_at': '2017-10-17T17:25:49Z', 'labels': []}
+{'issuenumber': 1046, 'title': 'Warning: watch ENOSPC', 'state': 'closed', 'created_at': '2014-11-06T13:26:52Z', 'closed_at': '2015-12-09T18:51:18Z', 'labels': []}
+{'issuenumber': 1045, 'title': 'In China is very slow to load page', 'state': 'closed', 'created_at': '2014-11-05T01:12:58Z', 'closed_at': '2014-11-05T08:39:20Z', 'labels': []}
+{'issuenumber': 1044, 'title': 'youtube Iframe works on chrome but shows reveal presentation in firefox', 'state': 'closed', 'created_at': '2014-11-04T22:29:50Z', 'closed_at': '2014-11-05T08:20:27Z', 'labels': []}
+{'issuenumber': 1043, 'title': 'Image fragment', 'state': 'closed', 'created_at': '2014-11-04T02:13:04Z', 'closed_at': '2014-11-05T08:25:08Z', 'labels': []}
+{'issuenumber': 1042, 'title': "live code changes doesn't work for flex-direction", 'state': 'closed', 'created_at': '2014-10-31T22:21:49Z', 'closed_at': '2014-11-05T08:29:00Z', 'labels': []}
+{'issuenumber': 1041, 'title': 'Handlebars highlight.js syntax not supported', 'state': 'closed', 'created_at': '2014-10-29T22:03:55Z', 'closed_at': '2014-11-05T08:33:22Z', 'labels': []}
+{'issuenumber': 1040, 'title': 'print-pdf still not working?', 'state': 'closed', 'created_at': '2014-10-28T02:00:38Z', 'closed_at': '2014-11-05T08:31:10Z', 'labels': []}
+{'issuenumber': 1039, 'title': 'plugin for XBox Kinect ? ', 'state': 'closed', 'created_at': '2014-10-27T11:08:40Z', 'closed_at': '2014-11-05T08:30:52Z', 'labels': []}
+{'issuenumber': 1038, 'title': 'Remotes depends on aws', 'state': 'closed', 'created_at': '2014-10-24T13:48:24Z', 'closed_at': '2014-10-24T13:59:37Z', 'labels': []}
+{'issuenumber': 1036, 'title': 'Background video starts to play in speaker notes window', 'state': 'closed', 'created_at': '2014-10-24T11:56:47Z', 'closed_at': '2014-11-05T09:01:46Z', 'labels': []}
+{'issuenumber': 1034, 'title': 'Background transition analogous to default content transition', 'state': 'closed', 'created_at': '2014-10-21T09:43:21Z', 'closed_at': '2014-11-02T17:38:03Z', 'labels': []}
+{'issuenumber': 1032, 'title': 'impress.js-like zoom/pan transitions?', 'state': 'closed', 'created_at': '2014-10-19T03:34:38Z', 'closed_at': '2014-11-05T08:52:20Z', 'labels': []}
+{'issuenumber': 1031, 'title': 'Question: offline usage', 'state': 'closed', 'created_at': '2014-10-14T18:43:30Z', 'closed_at': '2014-10-16T10:31:11Z', 'labels': []}
+{'issuenumber': 1028, 'title': 'JXSGrapth with reveal.js?', 'state': 'closed', 'created_at': '2014-10-09T00:07:09Z', 'closed_at': '2014-10-09T07:51:11Z', 'labels': []}
+{'issuenumber': 1027, 'title': 'data-background-video not working on chrome mobile (android)', 'state': 'closed', 'created_at': '2014-10-08T18:35:08Z', 'closed_at': '2016-03-08T11:15:25Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 1026, 'title': 'Please help: reveal.js not loading properly using iPhone and LTE (not wifi)', 'state': 'closed', 'created_at': '2014-10-02T01:48:37Z', 'closed_at': '2014-10-16T10:35:29Z', 'labels': []}
+{'issuenumber': 1024, 'title': 'It would be nice, if the content of a sheet would automatically scale down to fit the screen.', 'state': 'closed', 'created_at': '2014-09-30T20:47:07Z', 'closed_at': '2014-10-09T07:54:46Z', 'labels': []}
+{'issuenumber': 1022, 'title': "class=stretch doesn't work in print-pdf", 'state': 'closed', 'created_at': '2014-09-30T14:09:06Z', 'closed_at': '2017-04-07T08:07:36Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 1021, 'title': 'pdf.css sets too large font size', 'state': 'closed', 'created_at': '2014-09-30T14:04:04Z', 'closed_at': '2016-03-08T11:14:25Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 1019, 'title': 'To make my presentation, can I just change de package.json??', 'state': 'closed', 'created_at': '2014-09-29T15:44:06Z', 'closed_at': '2014-10-09T07:59:00Z', 'labels': []}
+{'issuenumber': 1018, 'title': 'New default theme', 'state': 'closed', 'created_at': '2014-09-28T10:22:10Z', 'closed_at': '2015-01-06T16:55:20Z', 'labels': []}
+{'issuenumber': 1017, 'title': 'No scrollbar in Firefox speaker slides', 'state': 'closed', 'created_at': '2014-09-27T14:44:41Z', 'closed_at': '2014-10-16T11:11:03Z', 'labels': []}
+{'issuenumber': 1016, 'title': 'Parallax background section example in Documentation', 'state': 'closed', 'created_at': '2014-09-27T10:15:19Z', 'closed_at': '2014-09-27T14:13:27Z', 'labels': []}
+{'issuenumber': 1015, 'title': 'Complex fragments display at once only if using speaker view', 'state': 'closed', 'created_at': '2014-09-22T10:04:54Z', 'closed_at': '2014-09-28T15:19:52Z', 'labels': []}
+{'issuenumber': 1014, 'title': 'reveal.js not loading properly (sometimes) with LTE', 'state': 'closed', 'created_at': '2014-09-21T21:14:25Z', 'closed_at': '2014-10-17T12:05:40Z', 'labels': []}
+{'issuenumber': 1013, 'title': 'When hosting in Azure, external MD files rendered as one big slide', 'state': 'closed', 'created_at': '2014-09-14T11:21:20Z', 'closed_at': '2014-09-27T08:30:40Z', 'labels': []}
+{'issuenumber': 1012, 'title': 'Recommendation for how to do Reveal.js plugins?', 'state': 'closed', 'created_at': '2014-09-14T01:05:00Z', 'closed_at': '2014-09-27T08:35:08Z', 'labels': []}
+{'issuenumber': 1008, 'title': 'New content added dynamically, how to recognize?', 'state': 'closed', 'created_at': '2014-09-12T22:09:32Z', 'closed_at': '2014-09-27T08:28:15Z', 'labels': []}
+{'issuenumber': 1006, 'title': 'How to emphasize/highlight some code?', 'state': 'closed', 'created_at': '2014-09-12T21:42:20Z', 'closed_at': '2014-09-27T08:38:22Z', 'labels': []}
+{'issuenumber': 1005, 'title': 'data-fragment-index do not hide all Markdown items ', 'state': 'closed', 'created_at': '2014-09-11T06:16:41Z', 'closed_at': '2014-09-27T14:23:59Z', 'labels': []}
+{'issuenumber': 1004, 'title': 'autoSlide: is not disabled in the Upcoming slide (in Notes mode)', 'state': 'closed', 'created_at': '2014-09-11T04:35:57Z', 'closed_at': '2014-09-28T15:14:39Z', 'labels': []}
+{'issuenumber': 1003, 'title': 'Make Markdown support compliant with CommonMark', 'state': 'closed', 'created_at': '2014-09-10T04:24:47Z', 'closed_at': '2014-09-27T08:40:15Z', 'labels': []}
+{'issuenumber': 1002, 'title': '"none" transition effect makes text blurry', 'state': 'closed', 'created_at': '2014-09-09T15:35:20Z', 'closed_at': '2016-08-01T07:17:58Z', 'labels': []}
+{'issuenumber': 1001, 'title': "Element Attributes don't work consistently in markdown", 'state': 'closed', 'created_at': '2014-09-03T19:26:00Z', 'closed_at': '2014-09-27T14:26:09Z', 'labels': []}
+{'issuenumber': 1000, 'title': '"Save as PDF" only has the first page saved', 'state': 'closed', 'created_at': '2014-09-02T06:39:01Z', 'closed_at': '2016-03-03T07:43:17Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 999, 'title': 'SWFobject embed works great', 'state': 'closed', 'created_at': '2014-09-01T18:30:56Z', 'closed_at': '2014-09-01T18:31:57Z', 'labels': []}
+{'issuenumber': 998, 'title': 'BigVideo for Fullscreen video works great', 'state': 'closed', 'created_at': '2014-08-29T23:42:20Z', 'closed_at': '2014-09-28T15:11:30Z', 'labels': []}
+{'issuenumber': 997, 'title': '<Audio> tag does not play on Safari or mobile', 'state': 'closed', 'created_at': '2014-08-29T18:31:41Z', 'closed_at': '2014-09-27T08:42:09Z', 'labels': []}
+{'issuenumber': 994, 'title': 'Why is the section tag hard coded ? ', 'state': 'closed', 'created_at': '2014-08-23T09:25:05Z', 'closed_at': '2014-09-28T15:05:53Z', 'labels': []}
+{'issuenumber': 993, 'title': 'Restart when last slide finished', 'state': 'closed', 'created_at': '2014-08-22T08:57:05Z', 'closed_at': '2014-08-27T07:23:38Z', 'labels': []}
+{'issuenumber': 992, 'title': 'Export to PDF misses images that extend past the slide', 'state': 'closed', 'created_at': '2014-08-20T19:11:12Z', 'closed_at': '2014-09-28T15:28:21Z', 'labels': []}
+{'issuenumber': 991, 'title': "Slide notes 's' keypress", 'state': 'closed', 'created_at': '2014-08-20T16:06:34Z', 'closed_at': '2014-09-27T14:20:43Z', 'labels': []}
+{'issuenumber': 990, 'title': 'Image with absolute position (Fork me on GitHub ribbon)', 'state': 'closed', 'created_at': '2014-08-19T19:23:21Z', 'closed_at': '2014-10-16T11:20:43Z', 'labels': []}
+{'issuenumber': 989, 'title': 'Weird looking polish characters', 'state': 'closed', 'created_at': '2014-08-11T07:14:13Z', 'closed_at': '2015-01-06T13:55:42Z', 'labels': []}
+{'issuenumber': 987, 'title': 'Autoresize font depending of string lenght', 'state': 'closed', 'created_at': '2014-08-01T08:44:30Z', 'closed_at': '2014-09-27T08:44:00Z', 'labels': []}
+{'issuenumber': 984, 'title': 'Bower package', 'state': 'closed', 'created_at': '2014-07-30T15:14:07Z', 'closed_at': '2014-10-09T08:03:53Z', 'labels': []}
+{'issuenumber': 983, 'title': 'Combine "grunt-lib-phantomjs" and "print-pdf.js"', 'state': 'closed', 'created_at': '2014-07-27T15:46:38Z', 'closed_at': '2014-07-30T00:48:29Z', 'labels': []}
+{'issuenumber': 982, 'title': "Fullscreen video dosn't work correctly?", 'state': 'closed', 'created_at': '2014-07-24T19:03:49Z', 'closed_at': '2014-07-24T21:00:10Z', 'labels': []}
+{'issuenumber': 980, 'title': 'IP address', 'state': 'closed', 'created_at': '2014-07-22T10:45:47Z', 'closed_at': '2014-09-27T08:46:59Z', 'labels': []}
+{'issuenumber': 978, 'title': "Attributes don't seem to work on markdown content", 'state': 'closed', 'created_at': '2014-07-20T04:35:43Z', 'closed_at': '2014-09-27T14:31:17Z', 'labels': []}
+{'issuenumber': 976, 'title': 'Question: Updating background attributes dynamically', 'state': 'closed', 'created_at': '2014-07-18T04:50:42Z', 'closed_at': '2014-09-28T14:59:34Z', 'labels': []}
+{'issuenumber': 974, 'title': 'autoslide stops at the last slide (it doesnt play the fragments)', 'state': 'closed', 'created_at': '2014-07-16T22:15:25Z', 'closed_at': '2014-10-16T11:28:41Z', 'labels': []}
+{'issuenumber': 973, 'title': 'Automatically resume autoslide?', 'state': 'closed', 'created_at': '2014-07-16T17:43:57Z', 'closed_at': '2014-09-27T14:37:19Z', 'labels': []}
+{'issuenumber': 972, 'title': 'Disable fragments when scrolling back', 'state': 'closed', 'created_at': '2014-07-15T09:36:34Z', 'closed_at': '2014-09-28T15:07:33Z', 'labels': []}
+{'issuenumber': 971, 'title': 'Question: Is the online editor available in the source?', 'state': 'closed', 'created_at': '2014-07-10T16:36:14Z', 'closed_at': '2014-07-11T06:32:35Z', 'labels': []}
+{'issuenumber': 967, 'title': 'Fragment Index via Reveal.getIndices() Incorrect', 'state': 'closed', 'created_at': '2014-07-05T18:12:50Z', 'closed_at': '2014-09-27T08:53:27Z', 'labels': []}
+{'issuenumber': 966, 'title': 'QUESTION: Enter Full Screen on load', 'state': 'closed', 'created_at': '2014-07-02T14:35:41Z', 'closed_at': '2014-07-06T12:55:53Z', 'labels': []}
+{'issuenumber': 965, 'title': 'Customize slide numbers', 'state': 'closed', 'created_at': '2014-07-01T21:05:09Z', 'closed_at': '2015-01-16T12:51:48Z', 'labels': []}
+{'issuenumber': 962, 'title': 'Print slides in the middle of the page', 'state': 'closed', 'created_at': '2014-06-26T15:16:25Z', 'closed_at': '2014-06-26T15:53:52Z', 'labels': {'name': 'question'}}
+{'issuenumber': 961, 'title': 'add meeting notes during presentation', 'state': 'closed', 'created_at': '2014-06-26T01:28:42Z', 'closed_at': '2014-07-06T12:57:43Z', 'labels': []}
+{'issuenumber': 960, 'title': "Speaker notes don't work in Firefox", 'state': 'closed', 'created_at': '2014-06-25T13:26:57Z', 'closed_at': '2014-06-25T19:00:03Z', 'labels': []}
+{'issuenumber': 958, 'title': 'fragment grow', 'state': 'closed', 'created_at': '2014-06-24T14:53:10Z', 'closed_at': '2014-07-06T13:01:19Z', 'labels': []}
+{'issuenumber': 955, 'title': 'Adding support for bower or reveal.js-contrib?', 'state': 'closed', 'created_at': '2014-06-20T16:11:43Z', 'closed_at': '2017-05-01T07:18:20Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 953, 'title': 'Leaving overview zooms out instead of in.', 'state': 'closed', 'created_at': '2014-06-20T08:01:00Z', 'closed_at': '2014-06-20T08:53:05Z', 'labels': []}
+{'issuenumber': 952, 'title': 'Hide vertical slides during autoplay?', 'state': 'closed', 'created_at': '2014-06-19T17:13:15Z', 'closed_at': '2014-06-20T09:09:23Z', 'labels': []}
+{'issuenumber': 949, 'title': 'The content of iframes sometimes not loading', 'state': 'closed', 'created_at': '2014-06-18T09:42:30Z', 'closed_at': '2014-06-20T08:59:21Z', 'labels': []}
+{'issuenumber': 945, 'title': 'Horizontal position (overlapping images)', 'state': 'closed', 'created_at': '2014-06-11T07:26:06Z', 'closed_at': '2017-05-02T09:26:15Z', 'labels': {'name': 'question'}}
+{'issuenumber': 941, 'title': 'Reveal.js does not react on keypress when paused.', 'state': 'closed', 'created_at': '2014-06-06T13:57:39Z', 'closed_at': '2015-06-03T10:01:38Z', 'labels': []}
+{'issuenumber': 939, 'title': 'Mathjax preloading', 'state': 'closed', 'created_at': '2014-06-05T12:14:32Z', 'closed_at': '2017-05-03T10:15:53Z', 'labels': {'name': 'question'}}
+{'issuenumber': 937, 'title': 'Filesystem hierarchy of slides with remote slide notes', 'state': 'closed', 'created_at': '2014-06-03T15:59:05Z', 'closed_at': '2014-06-05T11:55:53Z', 'labels': []}
+{'issuenumber': 936, 'title': 'Key to resume auto slide?', 'state': 'closed', 'created_at': '2014-06-02T18:34:11Z', 'closed_at': '2014-06-05T08:21:00Z', 'labels': []}
+{'issuenumber': 935, 'title': 'show Keyboard Help', 'state': 'closed', 'created_at': '2014-06-02T14:28:04Z', 'closed_at': '2014-06-05T08:10:01Z', 'labels': []}
+{'issuenumber': 934, 'title': 'toggle History', 'state': 'closed', 'created_at': '2014-06-02T14:23:49Z', 'closed_at': '2014-06-05T08:51:30Z', 'labels': []}
+{'issuenumber': 933, 'title': 'interactive function "Printable"', 'state': 'closed', 'created_at': '2014-06-02T14:20:09Z', 'closed_at': '2014-06-05T09:27:16Z', 'labels': []}
+{'issuenumber': 932, 'title': 'Reveal.js is not accessible to keyboard and assistive technology users', 'state': 'closed', 'created_at': '2014-06-02T03:03:58Z', 'closed_at': '2014-06-09T09:29:37Z', 'labels': []}
+{'issuenumber': 930, 'title': 'Fullscreen embeding of an external page', 'state': 'closed', 'created_at': '2014-05-29T16:53:56Z', 'closed_at': '2014-05-30T06:53:52Z', 'labels': []}
+{'issuenumber': 929, 'title': "Data separator and data vertical don't work with external markdown", 'state': 'closed', 'created_at': '2014-05-29T13:42:50Z', 'closed_at': '2015-03-16T07:59:12Z', 'labels': {'name': 'markdown'}}
+{'issuenumber': 924, 'title': 'Include d3.js in sections?', 'state': 'closed', 'created_at': '2014-05-23T17:48:47Z', 'closed_at': '2014-05-23T18:31:39Z', 'labels': []}
+{'issuenumber': 923, 'title': 'Transitions via WebGL', 'state': 'closed', 'created_at': '2014-05-23T15:42:35Z', 'closed_at': '2014-06-05T09:06:20Z', 'labels': []}
+{'issuenumber': 921, 'title': 'Online edited slides not working same on local machine.', 'state': 'closed', 'created_at': '2014-05-18T11:44:17Z', 'closed_at': '2016-12-12T08:14:59Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 920, 'title': 'Table style like the demo not included', 'state': 'closed', 'created_at': '2014-05-17T13:39:45Z', 'closed_at': '2014-05-17T13:41:06Z', 'labels': []}
+{'issuenumber': 919, 'title': 'Linear vs. Slide', 'state': 'closed', 'created_at': '2014-05-16T21:36:32Z', 'closed_at': '2014-05-17T08:45:50Z', 'labels': []}
+{'issuenumber': 918, 'title': 'Feature request: Make sections importable from other html files', 'state': 'closed', 'created_at': '2014-05-16T10:07:33Z', 'closed_at': '2014-05-16T10:49:14Z', 'labels': []}
+{'issuenumber': 916, 'title': "Highlight.js class names don't match zenburn theme", 'state': 'closed', 'created_at': '2014-05-15T22:55:14Z', 'closed_at': '2014-05-16T10:53:17Z', 'labels': []}
+{'issuenumber': 914, 'title': "windowhashchange can't be disabled by config. ", 'state': 'closed', 'created_at': '2014-05-14T06:25:57Z', 'closed_at': '2014-05-20T06:21:57Z', 'labels': []}
+{'issuenumber': 913, 'title': 'Support CDATA for embeded pretty code', 'state': 'closed', 'created_at': '2014-05-14T03:09:27Z', 'closed_at': '2014-05-14T06:35:36Z', 'labels': []}
+{'issuenumber': 910, 'title': 'Hitting ESC to exit overview mode doubles the animation', 'state': 'closed', 'created_at': '2014-05-09T17:36:03Z', 'closed_at': '2014-05-09T18:13:45Z', 'labels': []}
+{'issuenumber': 909, 'title': 'Opening links in preview iframe', 'state': 'closed', 'created_at': '2014-05-09T15:04:05Z', 'closed_at': '2017-04-30T13:15:32Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 908, 'title': 'dc.wrapper is undefined', 'state': 'closed', 'created_at': '2014-05-08T10:15:05Z', 'closed_at': '2014-05-08T10:18:09Z', 'labels': []}
+{'issuenumber': 906, 'title': 'execute function when certain slide appear in reveal.js', 'state': 'closed', 'created_at': '2014-05-07T20:58:26Z', 'closed_at': '2014-05-08T10:41:03Z', 'labels': []}
+{'issuenumber': 905, 'title': 'pdf export not working for chrome 34', 'state': 'closed', 'created_at': '2014-05-07T16:07:57Z', 'closed_at': '2014-05-07T16:38:28Z', 'labels': []}
+{'issuenumber': 904, 'title': 'Tall / Wide Full-Res Images', 'state': 'closed', 'created_at': '2014-05-07T15:04:39Z', 'closed_at': '2014-05-07T16:23:17Z', 'labels': []}
+{'issuenumber': 903, 'title': 'Decorate slides with .previous and .next classes', 'state': 'closed', 'created_at': '2014-05-07T13:53:47Z', 'closed_at': '2017-01-10T14:09:54Z', 'labels': []}
+{'issuenumber': 902, 'title': 'data-background support IE 8', 'state': 'closed', 'created_at': '2014-05-06T21:25:09Z', 'closed_at': '2014-05-08T10:25:44Z', 'labels': []}
+{'issuenumber': 901, 'title': 'No luck using CSS div to contain Reveal in hero, only iframe', 'state': 'closed', 'created_at': '2014-05-06T12:47:02Z', 'closed_at': '2014-05-06T14:42:55Z', 'labels': []}
+{'issuenumber': 900, 'title': 'Zooming on portrait slides aligns left, not center', 'state': 'closed', 'created_at': '2014-05-06T12:35:06Z', 'closed_at': '2014-05-19T07:28:11Z', 'labels': []}
+{'issuenumber': 899, 'title': 'Click on navigate element by mouse, then keys are not working anymore', 'state': 'closed', 'created_at': '2014-05-05T18:47:55Z', 'closed_at': '2014-05-17T14:07:28Z', 'labels': []}
+{'issuenumber': 898, 'title': 'Overview mode weird behaviour on exit', 'state': 'closed', 'created_at': '2014-05-04T11:01:26Z', 'closed_at': '2014-05-20T06:34:10Z', 'labels': []}
+{'issuenumber': 897, 'title': 'IE on Windows 8 Touch Devices', 'state': 'closed', 'created_at': '2014-05-01T22:17:58Z', 'closed_at': '2014-05-09T14:57:48Z', 'labels': []}
+{'issuenumber': 895, 'title': 'Fullscreen is cropping images', 'state': 'closed', 'created_at': '2014-05-01T12:42:30Z', 'closed_at': '2014-05-01T12:45:44Z', 'labels': []}
+{'issuenumber': 894, 'title': "Markdown tables don't get `reveal` class; can't assign with `.element` comment.", 'state': 'closed', 'created_at': '2014-05-01T00:44:39Z', 'closed_at': '2014-05-01T07:10:06Z', 'labels': []}
+{'issuenumber': 893, 'title': "Vimeo iFrame embed doesn't work on iPad", 'state': 'closed', 'created_at': '2014-04-30T02:45:21Z', 'closed_at': '2014-05-09T14:58:28Z', 'labels': []}
+{'issuenumber': 892, 'title': "Blacking out a page in the Speaker Notes window doen't black out the real presentation", 'state': 'closed', 'created_at': '2014-04-28T20:20:05Z', 'closed_at': '2014-04-28T20:58:33Z', 'labels': []}
+{'issuenumber': 891, 'title': 'Full installation does not function under Windows with Vagrant', 'state': 'closed', 'created_at': '2014-04-27T21:39:22Z', 'closed_at': '2014-05-04T04:55:08Z', 'labels': []}
+{'issuenumber': 890, 'title': 'How to justify-left the content with markdown', 'state': 'closed', 'created_at': '2014-04-27T02:12:53Z', 'closed_at': '2014-04-27T06:10:48Z', 'labels': []}
+{'issuenumber': 889, 'title': 'Multiple fragments in same class name', 'state': 'closed', 'created_at': '2014-04-26T19:16:42Z', 'closed_at': '2014-04-27T06:13:30Z', 'labels': []}
+{'issuenumber': 888, 'title': 'Applying multiple fragments with markdown?', 'state': 'closed', 'created_at': '2014-04-26T17:27:47Z', 'closed_at': '2014-04-26T17:31:28Z', 'labels': []}
+{'issuenumber': 884, 'title': 'Touch to follow finger.', 'state': 'closed', 'created_at': '2014-04-24T13:25:12Z', 'closed_at': '2014-04-26T07:03:31Z', 'labels': []}
+{'issuenumber': 882, 'title': '[feature-request] please, add a command line option', 'state': 'closed', 'created_at': '2014-04-24T01:45:52Z', 'closed_at': '2014-05-04T06:16:51Z', 'labels': []}
+{'issuenumber': 881, 'title': 'Paper printing no longer works', 'state': 'closed', 'created_at': '2014-04-23T14:24:04Z', 'closed_at': '2014-04-26T17:17:36Z', 'labels': []}
+{'issuenumber': 880, 'title': 'Print feature works weird?', 'state': 'closed', 'created_at': '2014-04-23T13:39:42Z', 'closed_at': '2014-04-27T13:18:15Z', 'labels': []}
+{'issuenumber': 878, 'title': 'Terminate Reveal.js', 'state': 'closed', 'created_at': '2014-04-22T14:21:15Z', 'closed_at': '2014-04-23T13:46:32Z', 'labels': []}
+{'issuenumber': 877, 'title': 'Deactivating Overview Mode in Google Chrome', 'state': 'closed', 'created_at': '2014-04-21T07:34:48Z', 'closed_at': '2014-04-21T07:35:57Z', 'labels': []}
+{'issuenumber': 876, 'title': 'Overview mode problem', 'state': 'closed', 'created_at': '2014-04-21T07:32:45Z', 'closed_at': '2014-04-21T07:34:14Z', 'labels': []}
+{'issuenumber': 874, 'title': 'Transition issue in Chrome 34.0.1847.116', 'state': 'closed', 'created_at': '2014-04-17T21:14:27Z', 'closed_at': '2014-04-18T07:21:06Z', 'labels': []}
+{'issuenumber': 873, 'title': 'PDF generation using PhantomJS', 'state': 'closed', 'created_at': '2014-04-16T20:35:55Z', 'closed_at': '2014-04-16T20:42:22Z', 'labels': []}
+{'issuenumber': 870, 'title': 'YouTube Iframe not pasuing when navigating away', 'state': 'closed', 'created_at': '2014-04-10T19:22:01Z', 'closed_at': '2014-04-10T19:23:30Z', 'labels': []}
+{'issuenumber': 868, 'title': 'Performance and iframe video problems on Android devices using phonegap', 'state': 'closed', 'created_at': '2014-04-06T14:09:22Z', 'closed_at': '2014-04-20T09:55:27Z', 'labels': []}
+{'issuenumber': 867, 'title': 'Slide number not updated in URL fragment', 'state': 'closed', 'created_at': '2014-04-05T20:55:42Z', 'closed_at': '2014-04-06T05:39:04Z', 'labels': []}
+{'issuenumber': 866, 'title': 'Oversized images not printed in pdf', 'state': 'closed', 'created_at': '2014-04-05T14:39:39Z', 'closed_at': '2014-05-04T06:30:51Z', 'labels': []}
+{'issuenumber': 865, 'title': 'Kiosk mode fragment enhancements', 'state': 'closed', 'created_at': '2014-04-05T03:45:00Z', 'closed_at': '2014-04-06T07:12:27Z', 'labels': []}
+{'issuenumber': 864, 'title': 'Autoslide when combined with fragments invalidates the autoSlide definition', 'state': 'closed', 'created_at': '2014-04-05T03:17:21Z', 'closed_at': '2014-04-06T06:59:08Z', 'labels': []}
+{'issuenumber': 862, 'title': 'Vertical centering in print PDF version view', 'state': 'closed', 'created_at': '2014-04-02T08:57:08Z', 'closed_at': '2014-04-03T08:54:51Z', 'labels': []}
+{'issuenumber': 861, 'title': 'Question: deactivate css 3d', 'state': 'closed', 'created_at': '2014-04-01T16:21:27Z', 'closed_at': '2014-04-20T09:56:43Z', 'labels': []}
+{'issuenumber': 860, 'title': 'overview mode shows vertical section titles below slide', 'state': 'closed', 'created_at': '2014-04-01T11:18:37Z', 'closed_at': '2014-04-06T05:42:05Z', 'labels': []}
+{'issuenumber': 859, 'title': 'better section/subsection styling', 'state': 'closed', 'created_at': '2014-04-01T06:49:11Z', 'closed_at': '2014-04-01T07:05:48Z', 'labels': []}
+{'issuenumber': 857, 'title': 'Absolute position of elements is really difficult', 'state': 'closed', 'created_at': '2014-03-31T22:13:56Z', 'closed_at': '2014-04-06T07:40:53Z', 'labels': []}
+{'issuenumber': 856, 'title': 'Auto-play/pause no longer works with YouTube embeds', 'state': 'closed', 'created_at': '2014-03-31T15:08:10Z', 'closed_at': '2014-09-28T14:58:06Z', 'labels': []}
+{'issuenumber': 853, 'title': 'fragment "lists"', 'state': 'closed', 'created_at': '2014-03-27T10:14:14Z', 'closed_at': '2014-04-01T07:31:22Z', 'labels': []}
+{'issuenumber': 852, 'title': 'highlight.js plugin messes format on <code> sections with tab characters', 'state': 'closed', 'created_at': '2014-03-27T07:13:43Z', 'closed_at': '2014-04-20T09:50:07Z', 'labels': []}
+{'issuenumber': 851, 'title': 'Menu always present?', 'state': 'closed', 'created_at': '2014-03-26T09:50:44Z', 'closed_at': '2014-03-26T10:01:27Z', 'labels': []}
+{'issuenumber': 850, 'title': '[Question] presentation height not respected', 'state': 'closed', 'created_at': '2014-03-25T18:36:00Z', 'closed_at': '2014-03-25T20:13:03Z', 'labels': []}
+{'issuenumber': 849, 'title': 'with fragments: false, fade-ins arent shown', 'state': 'closed', 'created_at': '2014-03-25T12:24:26Z', 'closed_at': '2014-03-25T13:28:42Z', 'labels': []}
+{'issuenumber': 846, 'title': 'modify background color inside markdown file', 'state': 'closed', 'created_at': '2014-03-21T19:43:45Z', 'closed_at': '2014-03-26T22:53:23Z', 'labels': []}
+{'issuenumber': 844, 'title': 'automatic resize font according to the volumn of slide content?', 'state': 'closed', 'created_at': '2014-03-21T07:53:14Z', 'closed_at': '2014-03-25T12:58:05Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 843, 'title': 'Fullscreen for IE', 'state': 'closed', 'created_at': '2014-03-20T17:55:11Z', 'closed_at': '2014-03-25T13:00:32Z', 'labels': []}
+{'issuenumber': 842, 'title': 'Max height for code blocks', 'state': 'closed', 'created_at': '2014-03-20T17:04:48Z', 'closed_at': '2014-03-25T17:13:21Z', 'labels': []}
+{'issuenumber': 841, 'title': 'How to float a picture', 'state': 'closed', 'created_at': '2014-03-19T21:05:59Z', 'closed_at': '2014-03-25T13:33:38Z', 'labels': []}
+{'issuenumber': 839, 'title': 'Question: support for timelinejs', 'state': 'closed', 'created_at': '2014-03-19T08:39:34Z', 'closed_at': '2014-03-25T13:14:48Z', 'labels': []}
+{'issuenumber': 838, 'title': 'Question: Reveal.js as a HTML app to a kiosk with raspberry pi', 'state': 'closed', 'created_at': '2014-03-18T13:14:26Z', 'closed_at': '2014-03-25T17:10:04Z', 'labels': []}
+{'issuenumber': 836, 'title': 'Safari switching slides broken if id of a slide contains cyrillic', 'state': 'closed', 'created_at': '2014-03-17T22:51:19Z', 'closed_at': '2014-03-25T14:15:12Z', 'labels': []}
+{'issuenumber': 835, 'title': 'Specify Version of Supported Browsers.', 'state': 'closed', 'created_at': '2014-03-17T09:43:17Z', 'closed_at': '2014-03-25T13:46:14Z', 'labels': []}
+{'issuenumber': 834, 'title': 'I did this project for remote controlling via handheld device.', 'state': 'closed', 'created_at': '2014-03-17T09:20:38Z', 'closed_at': '2014-03-25T14:34:58Z', 'labels': []}
+{'issuenumber': 833, 'title': 'Integrate Animate.css into fragments?', 'state': 'closed', 'created_at': '2014-03-15T07:06:28Z', 'closed_at': '2016-03-08T13:42:42Z', 'labels': {'name': 'question'}}
+{'issuenumber': 831, 'title': 'Some Blank Pages On /?print-pdf#/', 'state': 'closed', 'created_at': '2014-03-14T23:52:49Z', 'closed_at': '2014-03-20T14:28:52Z', 'labels': []}
+{'issuenumber': 830, 'title': 'Sticky footer', 'state': 'closed', 'created_at': '2014-03-14T17:08:45Z', 'closed_at': '2014-03-25T14:38:22Z', 'labels': []}
+{'issuenumber': 829, 'title': 'transition issue when leaving slide overview with Chrome 34', 'state': 'closed', 'created_at': '2014-03-14T13:25:11Z', 'closed_at': '2014-03-25T16:52:53Z', 'labels': []}
+{'issuenumber': 825, 'title': 'Typo', 'state': 'closed', 'created_at': '2014-03-11T23:19:43Z', 'closed_at': '2014-03-12T07:52:55Z', 'labels': []}
+{'issuenumber': 824, 'title': 'problem on webhost', 'state': 'closed', 'created_at': '2014-03-11T19:16:09Z', 'closed_at': '2014-03-12T07:50:02Z', 'labels': []}
+{'issuenumber': 822, 'title': 'vertical slide indicator and desktop swipe', 'state': 'closed', 'created_at': '2014-03-11T00:37:04Z', 'closed_at': '2016-03-07T10:34:09Z', 'labels': {'name': 'question'}}
+{'issuenumber': 821, 'title': 'Slide number not working in Firefox', 'state': 'closed', 'created_at': '2014-03-10T18:28:08Z', 'closed_at': '2014-03-12T07:55:37Z', 'labels': []}
+{'issuenumber': 820, 'title': 'Speaker notes show as black boxes in Chrome', 'state': 'closed', 'created_at': '2014-03-10T17:54:10Z', 'closed_at': '2014-03-25T14:15:56Z', 'labels': []}
+{'issuenumber': 814, 'title': 'leap.js TypeError: gesture.direction is undefined', 'state': 'closed', 'created_at': '2014-03-05T13:02:01Z', 'closed_at': '2014-03-08T11:26:55Z', 'labels': []}
+{'issuenumber': 813, 'title': 'IE 9 All Slides Showing', 'state': 'closed', 'created_at': '2014-03-04T18:19:55Z', 'closed_at': '2014-03-12T08:12:58Z', 'labels': []}
+{'issuenumber': 812, 'title': 'IE 9 SCRIPT 5007 Issue', 'state': 'closed', 'created_at': '2014-03-04T18:06:18Z', 'closed_at': '2014-03-04T19:50:39Z', 'labels': []}
+{'issuenumber': 811, 'title': 'Performance of transitions in Firefox (hardware acceleration fail?)', 'state': 'closed', 'created_at': '2014-03-02T08:54:26Z', 'closed_at': '2014-03-25T16:54:59Z', 'labels': []}
+{'issuenumber': 810, 'title': 'Audio as Fragment', 'state': 'closed', 'created_at': '2014-02-28T20:50:19Z', 'closed_at': '2014-04-06T06:39:58Z', 'labels': []}
+{'issuenumber': 808, 'title': 'New PDF export issue', 'state': 'closed', 'created_at': '2014-02-25T19:39:38Z', 'closed_at': '2014-02-28T11:21:13Z', 'labels': []}
+{'issuenumber': 807, 'title': 'Workaround to html5 video in fullscreen', 'state': 'closed', 'created_at': '2014-02-25T12:41:35Z', 'closed_at': '2014-02-25T12:53:48Z', 'labels': []}
+{'issuenumber': 806, 'title': 'How to show same content in every page (same header/footer, by example) when exporting to pdf', 'state': 'closed', 'created_at': '2014-02-23T22:39:24Z', 'closed_at': '2014-05-04T06:50:07Z', 'labels': {'name': 'question'}}
+{'issuenumber': 805, 'title': 'Blanking presentation from Notes view does not blank the presenting screen', 'state': 'closed', 'created_at': '2014-02-22T08:21:00Z', 'closed_at': '2014-04-26T17:27:52Z', 'labels': []}
+{'issuenumber': 802, 'title': 'How can we avoid title overlapping when using a header logo', 'state': 'closed', 'created_at': '2014-02-18T21:32:52Z', 'closed_at': '2014-02-27T07:49:32Z', 'labels': []}
+{'issuenumber': 800, 'title': '[Q] How do I use presenter view in practice? ', 'state': 'closed', 'created_at': '2014-02-14T08:55:48Z', 'closed_at': '2014-02-16T16:15:19Z', 'labels': []}
+{'issuenumber': 799, 'title': '502 Reached max retries limit - http://revealjs.jit.su/', 'state': 'closed', 'created_at': '2014-02-12T16:31:36Z', 'closed_at': '2014-03-12T12:38:21Z', 'labels': []}
+{'issuenumber': 797, 'title': 'Markdown issues when render a HTML containing a script tag', 'state': 'closed', 'created_at': '2014-02-11T15:41:33Z', 'closed_at': '2014-02-11T16:18:14Z', 'labels': []}
+{'issuenumber': 795, 'title': 'code plugin struggles with tags inside it', 'state': 'closed', 'created_at': '2014-02-09T01:25:38Z', 'closed_at': '2014-02-25T15:55:46Z', 'labels': []}
+{'issuenumber': 793, 'title': 'Lazy load media', 'state': 'closed', 'created_at': '2014-02-07T02:01:08Z', 'closed_at': '2014-04-22T16:15:15Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 789, 'title': 'Vertical Centering is off with Header + Image', 'state': 'closed', 'created_at': '2014-02-03T02:48:25Z', 'closed_at': '2014-04-27T06:18:42Z', 'labels': []}
+{'issuenumber': 788, 'title': 'Feature request: Export to single HTML', 'state': 'closed', 'created_at': '2014-01-29T15:19:54Z', 'closed_at': '2017-05-03T09:45:23Z', 'labels': {'name': 'plugin'}}
+{'issuenumber': 787, 'title': 'CommonJS Support', 'state': 'closed', 'created_at': '2014-01-29T00:40:23Z', 'closed_at': '2014-04-27T18:41:27Z', 'labels': []}
+{'issuenumber': 786, 'title': 'Webpage as slide', 'state': 'closed', 'created_at': '2014-01-28T17:58:09Z', 'closed_at': '2014-02-16T16:30:31Z', 'labels': []}
+{'issuenumber': 785, 'title': 'Maintain slide vertical alignment on PDF export', 'state': 'closed', 'created_at': '2014-01-28T09:47:49Z', 'closed_at': '2014-02-27T07:57:27Z', 'labels': []}
+{'issuenumber': 782, 'title': 'Some minor improvments for the timer / notes', 'state': 'closed', 'created_at': '2014-01-23T17:10:54Z', 'closed_at': '2014-02-25T12:41:30Z', 'labels': []}
+{'issuenumber': 781, 'title': "Can't display 2 images side-by-side", 'state': 'closed', 'created_at': '2014-01-22T20:11:23Z', 'closed_at': '2014-02-18T07:48:07Z', 'labels': []}
+{'issuenumber': 780, 'title': 'Canvas .playback overlapping when mixing Reveal.configure and autoslide', 'state': 'closed', 'created_at': '2014-01-22T18:16:05Z', 'closed_at': '2014-01-23T15:25:47Z', 'labels': []}
+{'issuenumber': 779, 'title': 'Can I re-set the timer by pressing a certain key?', 'state': 'closed', 'created_at': '2014-01-19T20:34:01Z', 'closed_at': '2014-05-04T06:14:38Z', 'labels': []}
+{'issuenumber': 776, 'title': 'Feature Request: Custom Fragments', 'state': 'closed', 'created_at': '2014-01-13T18:15:34Z', 'closed_at': '2014-04-27T17:56:52Z', 'labels': []}
+{'issuenumber': 774, 'title': 'Option to specify a class as fragment-by-default', 'state': 'closed', 'created_at': '2014-01-09T06:41:51Z', 'closed_at': '2014-04-27T18:05:04Z', 'labels': []}
+{'issuenumber': 773, 'title': 'Upcoming slide in Presenter Mode should show next fragment', 'state': 'closed', 'created_at': '2014-01-09T06:38:49Z', 'closed_at': '2014-04-26T19:15:14Z', 'labels': []}
+{'issuenumber': 772, 'title': 'Slides displaced upwards', 'state': 'closed', 'created_at': '2014-01-04T18:43:26Z', 'closed_at': '2014-01-10T21:49:40Z', 'labels': []}
+{'issuenumber': 771, 'title': 'Safari: Animations not works when slide numbers enabled.', 'state': 'closed', 'created_at': '2014-01-03T16:13:06Z', 'closed_at': '2014-02-25T12:17:05Z', 'labels': []}
+{'issuenumber': 770, 'title': 'autoSlidePlayer created twice when using Reveal.configure(...)', 'state': 'closed', 'created_at': '2013-12-29T18:12:06Z', 'closed_at': '2014-02-16T16:39:23Z', 'labels': []}
+{'issuenumber': 769, 'title': 'Slid.es offline', 'state': 'closed', 'created_at': '2013-12-29T11:27:41Z', 'closed_at': '2014-02-16T16:22:52Z', 'labels': []}
+{'issuenumber': 768, 'title': 'Error with content-editable code box', 'state': 'closed', 'created_at': '2013-12-28T02:45:41Z', 'closed_at': '2014-02-25T11:47:30Z', 'labels': []}
+{'issuenumber': 763, 'title': 'Markdown render in Speaker Notes', 'state': 'closed', 'created_at': '2013-12-19T14:31:37Z', 'closed_at': '2013-12-20T09:12:01Z', 'labels': []}
+{'issuenumber': 762, 'title': 'Question: How to vertically center one slide?', 'state': 'closed', 'created_at': '2013-12-17T13:59:24Z', 'closed_at': '2013-12-20T09:06:35Z', 'labels': []}
+{'issuenumber': 760, 'title': '`data-transition` does not work', 'state': 'closed', 'created_at': '2013-12-17T12:02:33Z', 'closed_at': '2013-12-20T14:16:53Z', 'labels': []}
+{'issuenumber': 757, 'title': 'Strange issue with interactive SVGs', 'state': 'closed', 'created_at': '2013-12-15T12:26:32Z', 'closed_at': '2014-02-25T11:42:49Z', 'labels': []}
+{'issuenumber': 756, 'title': 'Scrolling on the slides', 'state': 'closed', 'created_at': '2013-12-14T23:08:34Z', 'closed_at': '2014-03-26T09:12:53Z', 'labels': []}
+{'issuenumber': 754, 'title': 'Open / Close layer for directions', 'state': 'closed', 'created_at': '2013-12-11T17:36:10Z', 'closed_at': '2013-12-11T17:38:37Z', 'labels': []}
+{'issuenumber': 753, 'title': 'Overlapping lines with Norwegian character ', 'state': 'closed', 'created_at': '2013-12-10T17:49:09Z', 'closed_at': '2014-02-25T11:32:54Z', 'labels': []}
+{'issuenumber': 751, 'title': 'Fullscreen video/iframe', 'state': 'closed', 'created_at': '2013-12-10T09:11:09Z', 'closed_at': '2015-05-06T14:37:30Z', 'labels': []}
+{'issuenumber': 746, 'title': "Presenter-Screen 'next-slide' area does not update", 'state': 'closed', 'created_at': '2013-12-07T18:18:44Z', 'closed_at': '2014-04-26T18:06:32Z', 'labels': []}
+{'issuenumber': 745, 'title': 'Replace text on fragment transition', 'state': 'closed', 'created_at': '2013-12-07T18:01:14Z', 'closed_at': '2013-12-07T18:41:01Z', 'labels': []}
+{'issuenumber': 744, 'title': 'Automatically Appearing Fragments based on Time', 'state': 'closed', 'created_at': '2013-12-07T17:32:01Z', 'closed_at': '2013-12-07T18:27:50Z', 'labels': []}
+{'issuenumber': 743, 'title': "'?' to show keyboard shortcuts", 'state': 'closed', 'created_at': '2013-12-05T16:42:55Z', 'closed_at': '2015-02-25T12:04:44Z', 'labels': []}
+{'issuenumber': 741, 'title': 'OTS-Derived-Fonts causing Adobe Acrobat Error', 'state': 'closed', 'created_at': '2013-12-04T18:56:31Z', 'closed_at': '2013-12-20T09:17:51Z', 'labels': []}
+{'issuenumber': 740, 'title': 'Vertical transitioning vs horizontal transitioning', 'state': 'closed', 'created_at': '2013-12-03T16:38:46Z', 'closed_at': '2013-12-03T17:10:13Z', 'labels': []}
+{'issuenumber': 738, 'title': 'Notes View Navigation', 'state': 'closed', 'created_at': '2013-12-03T05:24:56Z', 'closed_at': '2014-04-26T17:40:02Z', 'labels': []}
+{'issuenumber': 737, 'title': 'Add fragment "strike"', 'state': 'closed', 'created_at': '2013-12-02T19:05:10Z', 'closed_at': '2013-12-03T14:39:45Z', 'labels': []}
+{'issuenumber': 736, 'title': 'Markdown special attributes', 'state': 'closed', 'created_at': '2013-12-02T14:30:26Z', 'closed_at': '2013-12-02T15:23:51Z', 'labels': []}
+{'issuenumber': 735, 'title': 'Leap Motion with Zoom.js function', 'state': 'closed', 'created_at': '2013-12-02T01:56:38Z', 'closed_at': '2014-02-27T07:59:02Z', 'labels': []}
+{'issuenumber': 732, 'title': "Notes don't work correctly in Firefox", 'state': 'closed', 'created_at': '2013-11-29T10:18:07Z', 'closed_at': '2013-12-02T20:37:25Z', 'labels': []}
+{'issuenumber': 731, 'title': 'Presentation crash on iOS browsers', 'state': 'closed', 'created_at': '2013-11-28T19:35:07Z', 'closed_at': '2014-04-26T19:23:09Z', 'labels': []}
+{'issuenumber': 730, 'title': 'presentation size', 'state': 'closed', 'created_at': '2013-11-28T17:23:44Z', 'closed_at': '2013-11-28T19:22:32Z', 'labels': []}
+{'issuenumber': 729, 'title': 'Make working 2 different slide with Reveal. ', 'state': 'closed', 'created_at': '2013-11-28T15:58:17Z', 'closed_at': '2013-11-28T20:58:52Z', 'labels': []}
+{'issuenumber': 728, 'title': '[issue] Pdf print shows only text version.', 'state': 'closed', 'created_at': '2013-11-28T12:03:26Z', 'closed_at': '2013-11-28T14:41:33Z', 'labels': []}
+{'issuenumber': 726, 'title': 'Current slide vanishes when formatSlide() is called', 'state': 'closed', 'created_at': '2013-11-28T09:00:53Z', 'closed_at': '2013-11-28T14:37:52Z', 'labels': []}
+{'issuenumber': 724, 'title': 'data-autoplay and fragments', 'state': 'closed', 'created_at': '2013-11-26T21:45:37Z', 'closed_at': '2013-11-28T22:53:45Z', 'labels': []}
+{'issuenumber': 719, 'title': 'Print with notes', 'state': 'closed', 'created_at': '2013-11-21T13:09:16Z', 'closed_at': '2016-12-12T08:34:06Z', 'labels': {'name': 'question'}}
+{'issuenumber': 718, 'title': 'Load reveal.js as a library instead of a forked repository', 'state': 'closed', 'created_at': '2013-11-20T17:46:45Z', 'closed_at': '2013-11-26T22:51:21Z', 'labels': []}
+{'issuenumber': 717, 'title': 'left/right arrows + additional javascript', 'state': 'closed', 'created_at': '2013-11-20T07:20:48Z', 'closed_at': '2013-11-26T22:53:28Z', 'labels': []}
+{'issuenumber': 715, 'title': "Export-PDF doesn't show links with default & beige themes", 'state': 'closed', 'created_at': '2013-11-19T13:14:49Z', 'closed_at': '2013-11-28T20:59:53Z', 'labels': []}
+{'issuenumber': 713, 'title': 'left/right arrows + additional javascript', 'state': 'closed', 'created_at': '2013-11-18T10:11:29Z', 'closed_at': '2013-11-28T21:01:41Z', 'labels': []}
+{'issuenumber': 712, 'title': 'non-linear talks', 'state': 'closed', 'created_at': '2013-11-17T15:30:22Z', 'closed_at': '2013-11-26T23:01:56Z', 'labels': []}
+{'issuenumber': 711, 'title': 'Print layout is too large, not affected by width and height config', 'state': 'closed', 'created_at': '2013-11-17T11:52:55Z', 'closed_at': '2014-04-26T19:44:25Z', 'labels': []}
+{'issuenumber': 710, 'title': 'Moving text to border of screen', 'state': 'closed', 'created_at': '2013-11-16T14:09:34Z', 'closed_at': '2013-11-26T23:06:26Z', 'labels': []}
+{'issuenumber': 708, 'title': 'Include file with slides', 'state': 'closed', 'created_at': '2013-11-15T09:42:38Z', 'closed_at': '2013-11-16T15:15:20Z', 'labels': []}
+{'issuenumber': 707, 'title': 'svg displays poorly on Firefox', 'state': 'closed', 'created_at': '2013-11-15T08:30:14Z', 'closed_at': '2013-11-16T15:21:31Z', 'labels': []}
+{'issuenumber': 705, 'title': 'print-pdf still not working?', 'state': 'closed', 'created_at': '2013-11-13T15:47:23Z', 'closed_at': '2013-11-13T15:50:36Z', 'labels': []}
+{'issuenumber': 704, 'title': 'Decorate the current fragment element with .current-fragment', 'state': 'closed', 'created_at': '2013-11-13T15:34:15Z', 'closed_at': '2013-11-26T00:56:33Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 702, 'title': 'MathJax and markdown', 'state': 'closed', 'created_at': '2013-11-12T17:27:49Z', 'closed_at': '2015-07-07T09:56:19Z', 'labels': {'name': 'markdown'}}
+{'issuenumber': 701, 'title': 'Autoslide after audio file is played', 'state': 'closed', 'created_at': '2013-11-12T17:10:20Z', 'closed_at': '2013-11-27T14:17:55Z', 'labels': []}
+{'issuenumber': 700, 'title': "zoom does'nt work with alt key", 'state': 'closed', 'created_at': '2013-11-10T15:52:03Z', 'closed_at': '2013-11-17T21:45:23Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 698, 'title': 'Non-async scripts are not loaded before Reveal starts', 'state': 'closed', 'created_at': '2013-11-10T13:52:19Z', 'closed_at': '2013-11-27T14:18:48Z', 'labels': []}
+{'issuenumber': 696, 'title': "Can't setup size for PDF export", 'state': 'closed', 'created_at': '2013-11-10T10:56:08Z', 'closed_at': '2013-11-17T21:42:32Z', 'labels': []}
+{'issuenumber': 695, 'title': 'Piecon', 'state': 'closed', 'created_at': '2013-11-10T06:23:09Z', 'closed_at': '2013-11-16T15:31:35Z', 'labels': []}
+{'issuenumber': 694, 'title': 'Transition End Event', 'state': 'closed', 'created_at': '2013-11-08T14:15:11Z', 'closed_at': '2021-06-16T07:35:39Z', 'labels': []}
+{'issuenumber': 693, 'title': 'SVG issue?', 'state': 'closed', 'created_at': '2013-11-08T14:05:20Z', 'closed_at': '2013-11-09T16:29:41Z', 'labels': []}
+{'issuenumber': 692, 'title': 'speaker note not works sometimes', 'state': 'closed', 'created_at': '2013-11-08T13:45:32Z', 'closed_at': '2013-11-09T16:33:12Z', 'labels': []}
+{'issuenumber': 690, 'title': 'Remotes', 'state': 'closed', 'created_at': '2013-11-04T19:04:44Z', 'closed_at': '2013-11-05T12:40:31Z', 'labels': []}
+{'issuenumber': 689, 'title': 'Remotes', 'state': 'closed', 'created_at': '2013-11-04T19:01:45Z', 'closed_at': '2013-11-05T12:40:31Z', 'labels': []}
+{'issuenumber': 688, 'title': 'Question: Adding a youtube video only works in Chromium', 'state': 'closed', 'created_at': '2013-11-03T22:52:10Z', 'closed_at': '2013-11-05T12:42:06Z', 'labels': []}
+{'issuenumber': 686, 'title': 'Autoslide URL param not being fully respected', 'state': 'closed', 'created_at': '2013-11-02T14:20:20Z', 'closed_at': '2013-11-07T12:55:28Z', 'labels': []}
+{'issuenumber': 685, 'title': 'Autoslide for groups of slides?', 'state': 'closed', 'created_at': '2013-11-02T14:07:19Z', 'closed_at': '2013-11-07T14:17:47Z', 'labels': []}
+{'issuenumber': 684, 'title': 'After reloading, fragments of previous slides are not visible', 'state': 'closed', 'created_at': '2013-11-02T08:19:37Z', 'closed_at': '2013-11-07T13:40:10Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 683, 'title': 'Partial fragment indexes 1-based counterintuitive behavior', 'state': 'closed', 'created_at': '2013-10-31T21:03:56Z', 'closed_at': '2013-11-26T00:59:12Z', 'labels': []}
+{'issuenumber': 681, 'title': '# in iframe src-tag destroys layout', 'state': 'closed', 'created_at': '2013-10-31T10:09:00Z', 'closed_at': '2013-11-05T12:57:02Z', 'labels': []}
+{'issuenumber': 680, 'title': 'How to declare slide background color via class (versus data-state declarations)?', 'state': 'closed', 'created_at': '2013-10-31T09:33:23Z', 'closed_at': '2013-11-05T12:59:35Z', 'labels': []}
+{'issuenumber': 679, 'title': 'Zoom in then out moves slide transition controls out of browser window', 'state': 'closed', 'created_at': '2013-10-30T23:00:19Z', 'closed_at': '2016-12-12T02:54:47Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 674, 'title': '"in" and "out" transiton definitions', 'state': 'closed', 'created_at': '2013-10-26T13:20:16Z', 'closed_at': '2015-05-06T12:42:11Z', 'labels': []}
+{'issuenumber': 673, 'title': 'Provide workarounds for local files (offline mode)', 'state': 'closed', 'created_at': '2013-10-26T09:30:32Z', 'closed_at': '2013-12-02T20:36:10Z', 'labels': []}
+{'issuenumber': 672, 'title': 'Subtitles in Video', 'state': 'closed', 'created_at': '2013-10-26T07:20:58Z', 'closed_at': '2013-10-27T19:46:08Z', 'labels': []}
+{'issuenumber': 670, 'title': 'inserting Reveal.js into tabs and show the clicked slide!', 'state': 'closed', 'created_at': '2013-10-25T11:01:15Z', 'closed_at': '2013-10-27T19:55:24Z', 'labels': []}
+{'issuenumber': 668, 'title': 'Overriding Firefox 24.0 black background in fullscreen mode', 'state': 'closed', 'created_at': '2013-10-23T23:01:41Z', 'closed_at': '2013-11-27T14:28:17Z', 'labels': []}
+{'issuenumber': 665, 'title': 'Migrate CSS themes from SASS to LESS', 'state': 'closed', 'created_at': '2013-10-23T15:36:58Z', 'closed_at': '2013-10-27T19:51:26Z', 'labels': []}
+{'issuenumber': 663, 'title': 'I need to have Multiple slide on my page, is that possiple? Each of those controleld with left and right arrow.', 'state': 'closed', 'created_at': '2013-10-22T09:28:22Z', 'closed_at': '2013-10-22T12:56:46Z', 'labels': []}
+{'issuenumber': 662, 'title': 'Building themes missing steps', 'state': 'closed', 'created_at': '2013-10-22T06:48:48Z', 'closed_at': '2013-10-22T12:27:50Z', 'labels': []}
+{'issuenumber': 661, 'title': 'Generic "slide:start" and "slide:stop" postMessage events for embedded iframe content.', 'state': 'closed', 'created_at': '2013-10-22T00:25:40Z', 'closed_at': '2013-10-27T19:46:40Z', 'labels': []}
+{'issuenumber': 658, 'title': 'Left Arrow not enabled when using with Ember', 'state': 'closed', 'created_at': '2013-10-18T03:07:16Z', 'closed_at': '2013-10-22T13:32:02Z', 'labels': []}
+{'issuenumber': 656, 'title': 'controls buttons should also display the name of the preview/next Section id', 'state': 'closed', 'created_at': '2013-10-17T12:54:56Z', 'closed_at': '2013-10-17T20:36:17Z', 'labels': []}
+{'issuenumber': 655, 'title': 'Internal links are not working within a click event.', 'state': 'closed', 'created_at': '2013-10-17T09:30:58Z', 'closed_at': '2013-10-27T20:03:28Z', 'labels': []}
+{'issuenumber': 654, 'title': 'Reveal overrides html align', 'state': 'closed', 'created_at': '2013-10-17T05:40:21Z', 'closed_at': '2013-10-27T21:27:10Z', 'labels': []}
+{'issuenumber': 653, 'title': 'Fragment differential timing', 'state': 'closed', 'created_at': '2013-10-16T21:15:12Z', 'closed_at': '2014-04-27T18:48:10Z', 'labels': []}
+{'issuenumber': 652, 'title': 'speaker notes + share screen + fullscreen browser?', 'state': 'closed', 'created_at': '2013-10-16T17:12:02Z', 'closed_at': '2013-10-16T17:21:27Z', 'labels': []}
+{'issuenumber': 651, 'title': 'Main headings for vertical slides', 'state': 'closed', 'created_at': '2013-10-16T16:07:41Z', 'closed_at': '2013-10-16T16:08:48Z', 'labels': []}
+{'issuenumber': 650, 'title': "'Fragment' differential display timing", 'state': 'closed', 'created_at': '2013-10-16T15:22:21Z', 'closed_at': '2013-10-16T15:29:33Z', 'labels': []}
+{'issuenumber': 645, 'title': 'iOS 7: Safari menu bars are stuck on screen in landscape mode', 'state': 'closed', 'created_at': '2013-10-15T14:55:11Z', 'closed_at': '2013-12-03T00:13:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 644, 'title': 'Presenter notes doesn\'t show "controls" in bottom corner', 'state': 'closed', 'created_at': '2013-10-12T21:35:29Z', 'closed_at': '2013-10-27T20:07:41Z', 'labels': []}
+{'issuenumber': 643, 'title': 'Cancel', 'state': 'closed', 'created_at': '2013-10-12T04:07:06Z', 'closed_at': '2013-10-12T04:49:31Z', 'labels': []}
+{'issuenumber': 641, 'title': 'Enable overriding of any config value through query', 'state': 'closed', 'created_at': '2013-10-11T15:15:13Z', 'closed_at': '2013-10-12T02:33:21Z', 'labels': []}
+{'issuenumber': 638, 'title': 'Fullscreen Canvas', 'state': 'closed', 'created_at': '2013-10-07T20:37:08Z', 'closed_at': '2013-10-07T20:38:58Z', 'labels': []}
+{'issuenumber': 637, 'title': 'Remove video when printing the slides', 'state': 'closed', 'created_at': '2013-10-04T21:10:57Z', 'closed_at': '2013-12-03T00:15:48Z', 'labels': []}
+{'issuenumber': 636, 'title': 'height of an image', 'state': 'closed', 'created_at': '2013-10-04T13:46:20Z', 'closed_at': '2013-10-04T14:09:27Z', 'labels': []}
+{'issuenumber': 635, 'title': 'Can not click some items on the left side of reveal.js presentation on iPad', 'state': 'closed', 'created_at': '2013-10-04T09:41:36Z', 'closed_at': '2014-04-26T19:45:58Z', 'labels': []}
+{'issuenumber': 632, 'title': 'Support SVG in data-background', 'state': 'closed', 'created_at': '2013-10-01T10:55:11Z', 'closed_at': '2013-10-12T02:15:17Z', 'labels': []}
+{'issuenumber': 631, 'title': 'Firefox 23 Youtube embed fails', 'state': 'closed', 'created_at': '2013-09-30T04:13:38Z', 'closed_at': '2013-10-12T02:08:00Z', 'labels': []}
+{'issuenumber': 629, 'title': 'alignment issue (markdown)', 'state': 'closed', 'created_at': '2013-09-28T21:19:18Z', 'closed_at': '2016-12-12T02:58:37Z', 'labels': {'name': 'question'}}
+{'issuenumber': 627, 'title': 'Zoom squashes CSS transforms', 'state': 'closed', 'created_at': '2013-09-27T00:52:12Z', 'closed_at': '2014-04-27T06:31:13Z', 'labels': []}
+{'issuenumber': 626, 'title': "Custom Fonts (bootstrap/fontawesome) don't work", 'state': 'closed', 'created_at': '2013-09-26T21:05:20Z', 'closed_at': '2014-03-25T16:56:13Z', 'labels': []}
+{'issuenumber': 625, 'title': 'Use flexbox for vertical centering of slides', 'state': 'closed', 'created_at': '2013-09-26T16:15:20Z', 'closed_at': '2014-04-26T19:50:01Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 624, 'title': 'Avoid autoplay of video in preview on presentation screen', 'state': 'closed', 'created_at': '2013-09-25T03:03:43Z', 'closed_at': '2013-10-28T12:45:36Z', 'labels': []}
+{'issuenumber': 623, 'title': 'Request option to use the same data-state value on successive slides', 'state': 'closed', 'created_at': '2013-09-24T16:05:09Z', 'closed_at': '2013-12-03T00:25:40Z', 'labels': []}
+{'issuenumber': 622, 'title': 'Problem with data-background setting... -my image is dissapearing on touch-', 'state': 'closed', 'created_at': '2013-09-23T14:29:44Z', 'closed_at': '2013-10-27T21:52:28Z', 'labels': []}
+{'issuenumber': 619, 'title': 'Exported PDF has messed up background', 'state': 'closed', 'created_at': '2013-09-22T09:30:38Z', 'closed_at': '2016-03-05T12:48:57Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 616, 'title': 'head.js in barebones example', 'state': 'closed', 'created_at': '2013-09-21T08:16:46Z', 'closed_at': '2013-10-10T13:11:41Z', 'labels': []}
+{'issuenumber': 613, 'title': 'fragmentshown event is not called with notes plugin', 'state': 'closed', 'created_at': '2013-09-18T23:51:14Z', 'closed_at': '2013-11-26T01:00:08Z', 'labels': []}
+{'issuenumber': 610, 'title': 'please support presenters notes from local file', 'state': 'closed', 'created_at': '2013-09-16T09:26:12Z', 'closed_at': '2013-09-16T11:51:11Z', 'labels': []}
+{'issuenumber': 607, 'title': "The remotes plugin doesn't work without the notes plugin", 'state': 'closed', 'created_at': '2013-09-14T15:01:33Z', 'closed_at': '2013-09-14T15:13:07Z', 'labels': []}
+{'issuenumber': 606, 'title': 'How can I use/configure reveal.js to be used in an RTL setting?', 'state': 'closed', 'created_at': '2013-09-13T12:33:31Z', 'closed_at': '2013-09-13T12:43:23Z', 'labels': []}
+{'issuenumber': 605, 'title': 'How to Add Pause Buttong', 'state': 'closed', 'created_at': '2013-09-13T12:30:45Z', 'closed_at': '2013-09-14T15:19:37Z', 'labels': []}
+{'issuenumber': 604, 'title': 'Image backgrounds of top slides leak to other top slides during transitions', 'state': 'closed', 'created_at': '2013-09-12T20:29:12Z', 'closed_at': '2013-11-27T15:47:29Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 603, 'title': 'Firefox transition performance', 'state': 'closed', 'created_at': '2013-09-12T20:23:26Z', 'closed_at': '2016-03-05T12:57:36Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 602, 'title': 'How to switch the horizontal sections into vertical scroll?', 'state': 'closed', 'created_at': '2013-09-12T16:31:12Z', 'closed_at': '2013-09-14T15:38:27Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 601, 'title': 'How to add fontawesome', 'state': 'closed', 'created_at': '2013-09-12T08:28:13Z', 'closed_at': '2013-09-14T07:51:35Z', 'labels': []}
+{'issuenumber': 600, 'title': 'MathJax local installation', 'state': 'closed', 'created_at': '2013-09-12T06:38:55Z', 'closed_at': '2013-09-14T15:19:57Z', 'labels': {'name': 'question'}}
+{'issuenumber': 597, 'title': 'Linear transform - time delay for font to appear', 'state': 'closed', 'created_at': '2013-09-11T12:27:35Z', 'closed_at': '2014-03-13T08:34:38Z', 'labels': []}
+{'issuenumber': 596, 'title': "Speaker Notes' upcoming slide does not update correctly in Firefox", 'state': 'closed', 'created_at': '2013-09-11T10:27:34Z', 'closed_at': '2013-09-11T14:46:01Z', 'labels': []}
+{'issuenumber': 594, 'title': 'print-pdf dropping images', 'state': 'closed', 'created_at': '2013-09-09T21:01:44Z', 'closed_at': '2013-09-11T14:03:03Z', 'labels': []}
+{'issuenumber': 593, 'title': 'Text Alignment Question', 'state': 'closed', 'created_at': '2013-09-09T07:43:39Z', 'closed_at': '2013-09-09T13:05:39Z', 'labels': []}
+{'issuenumber': 592, 'title': 'Possible to stop animated gifs when navigate away from section?', 'state': 'closed', 'created_at': '2013-09-07T22:05:17Z', 'closed_at': '2013-09-09T21:01:05Z', 'labels': []}
+{'issuenumber': 590, 'title': 'Load external markdown from GitHub or Bitbucket', 'state': 'closed', 'created_at': '2013-09-06T09:05:53Z', 'closed_at': '2013-09-07T03:20:16Z', 'labels': []}
+{'issuenumber': 589, 'title': "Notes don't work for final slide in external markdown", 'state': 'closed', 'created_at': '2013-09-06T08:49:59Z', 'closed_at': '2013-09-06T12:24:27Z', 'labels': []}
+{'issuenumber': 586, 'title': 'Markdown plugin: add markdown slides at runtime', 'state': 'closed', 'created_at': '2013-09-04T12:18:10Z', 'closed_at': '2013-09-06T12:41:54Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 583, 'title': 'Navigation stops working when controls are disabled', 'state': 'closed', 'created_at': '2013-09-02T16:50:09Z', 'closed_at': '2013-09-04T01:57:19Z', 'labels': []}
+{'issuenumber': 582, 'title': 'Re-enable address bar hiding for Chrome iOS', 'state': 'closed', 'created_at': '2013-09-01T23:24:30Z', 'closed_at': '2013-09-04T12:57:56Z', 'labels': []}
+{'issuenumber': 581, 'title': 'Embedding JSFiddle in external markdown does not trigger results view', 'state': 'closed', 'created_at': '2013-09-01T22:45:41Z', 'closed_at': '2013-09-03T01:30:13Z', 'labels': []}
+{'issuenumber': 580, 'title': 'CDN usage instructions', 'state': 'closed', 'created_at': '2013-08-29T18:45:21Z', 'closed_at': '2013-09-04T03:40:04Z', 'labels': []}
+{'issuenumber': 579, 'title': "Fragments don't instantiate in presentation when triggered from presenter mode (S panel)", 'state': 'closed', 'created_at': '2013-08-29T14:58:19Z', 'closed_at': '2013-09-03T01:32:28Z', 'labels': {'name': 'plugin'}}
+{'issuenumber': 578, 'title': 'Disable Reveal eventListener for sections displayed in Notes', 'state': 'closed', 'created_at': '2013-08-29T10:36:21Z', 'closed_at': '2013-09-15T16:50:14Z', 'labels': {'name': 'plugin'}}
+{'issuenumber': 577, 'title': 'Keys are not working after clicking a link', 'state': 'closed', 'created_at': '2013-08-28T15:22:26Z', 'closed_at': '2013-10-10T13:22:22Z', 'labels': []}
+{'issuenumber': 576, 'title': "highlight.js' zenburn.css outdated", 'state': 'closed', 'created_at': '2013-08-26T11:57:00Z', 'closed_at': '2013-08-26T13:17:42Z', 'labels': []}
+{'issuenumber': 575, 'title': 'yeahrgraph', 'state': 'closed', 'created_at': '2013-08-24T23:23:19Z', 'closed_at': '2013-08-25T15:53:11Z', 'labels': []}
+{'issuenumber': 574, 'title': 'Note does not disappear if last line', 'state': 'closed', 'created_at': '2013-08-24T19:49:50Z', 'closed_at': '2013-08-24T20:14:14Z', 'labels': []}
+{'issuenumber': 573, 'title': 'Multiline Note in Markdown', 'state': 'closed', 'created_at': '2013-08-24T19:32:03Z', 'closed_at': '2013-08-24T19:58:01Z', 'labels': []}
+{'issuenumber': 572, 'title': 'Support for external HTML', 'state': 'closed', 'created_at': '2013-08-24T19:04:04Z', 'closed_at': '2016-03-07T10:35:18Z', 'labels': {'name': 'plugin'}}
+{'issuenumber': 571, 'title': 'How to add removeEventListener', 'state': 'closed', 'created_at': '2013-08-22T07:44:40Z', 'closed_at': '2013-08-22T15:01:38Z', 'labels': []}
+{'issuenumber': 570, 'title': 'data-autoslide attribute doesn´t work', 'state': 'closed', 'created_at': '2013-08-22T07:11:20Z', 'closed_at': '2013-08-22T14:59:27Z', 'labels': []}
+{'issuenumber': 568, 'title': 'What plugins do not require node.js please?', 'state': 'closed', 'created_at': '2013-08-21T04:59:26Z', 'closed_at': '2013-08-21T13:09:25Z', 'labels': []}
+{'issuenumber': 566, 'title': 'Set Background Image for All Slides/Sections', 'state': 'closed', 'created_at': '2013-08-20T01:00:18Z', 'closed_at': '2013-08-20T02:49:50Z', 'labels': []}
+{'issuenumber': 565, 'title': 'Stretch to full browser width', 'state': 'closed', 'created_at': '2013-08-19T07:20:17Z', 'closed_at': '2013-08-19T16:07:40Z', 'labels': []}
+{'issuenumber': 563, 'title': "Print to pdf doesn't center in page or print code blocks", 'state': 'closed', 'created_at': '2013-08-18T02:12:50Z', 'closed_at': '2013-08-18T03:21:11Z', 'labels': []}
+{'issuenumber': 562, 'title': 'Loop when navigating too fast.', 'state': 'closed', 'created_at': '2013-08-16T15:37:40Z', 'closed_at': '2013-11-26T02:23:17Z', 'labels': []}
+{'issuenumber': 561, 'title': 'Taller <code> element?', 'state': 'closed', 'created_at': '2013-08-16T05:30:03Z', 'closed_at': '2013-08-18T19:46:16Z', 'labels': []}
+{'issuenumber': 560, 'title': '"toggle" reveal.js on/off to view/print slides & notes as an outline', 'state': 'closed', 'created_at': '2013-08-15T19:37:39Z', 'closed_at': '2013-08-25T16:05:22Z', 'labels': []}
+{'issuenumber': 559, 'title': "External Markdown doesn't work in reveal.js-2.4.0", 'state': 'closed', 'created_at': '2013-08-15T08:10:51Z', 'closed_at': '2013-08-15T12:33:04Z', 'labels': []}
+{'issuenumber': 558, 'title': 'At the end of slideshow', 'state': 'closed', 'created_at': '2013-08-13T19:15:16Z', 'closed_at': '2013-08-13T21:54:01Z', 'labels': []}
+{'issuenumber': 556, 'title': 'Is there any way to "swap" fragments?', 'state': 'closed', 'created_at': '2013-08-09T22:53:59Z', 'closed_at': '2013-08-10T03:59:30Z', 'labels': []}
+{'issuenumber': 555, 'title': 'Failed to Save on Slid.es', 'state': 'closed', 'created_at': '2013-08-08T15:16:57Z', 'closed_at': '2013-08-08T16:46:26Z', 'labels': []}
+{'issuenumber': 553, 'title': 'Markdown enhancements...', 'state': 'closed', 'created_at': '2013-08-06T03:53:50Z', 'closed_at': '2013-08-21T02:11:45Z', 'labels': []}
+{'issuenumber': 551, 'title': 'Make posible (configurable, maybe) another markup based in classes.', 'state': 'closed', 'created_at': '2013-08-04T07:25:02Z', 'closed_at': '2013-08-08T17:52:03Z', 'labels': []}
+{'issuenumber': 550, 'title': 'Flush Left Bullets', 'state': 'closed', 'created_at': '2013-08-03T04:05:22Z', 'closed_at': '2013-08-08T19:36:51Z', 'labels': []}
+{'issuenumber': 549, 'title': 'Allow multiple users to edit slides on slid.es', 'state': 'closed', 'created_at': '2013-08-01T20:41:09Z', 'closed_at': '2013-08-01T20:45:15Z', 'labels': []}
+{'issuenumber': 547, 'title': 'markdown image', 'state': 'closed', 'created_at': '2013-07-30T12:28:51Z', 'closed_at': '2013-07-30T13:11:22Z', 'labels': []}
+{'issuenumber': 546, 'title': 'Issue with hideAddressBar function', 'state': 'closed', 'created_at': '2013-07-30T02:57:51Z', 'closed_at': '2013-08-12T16:09:41Z', 'labels': []}
+{'issuenumber': 545, 'title': 'Leap Motion Integration', 'state': 'closed', 'created_at': '2013-07-29T15:35:24Z', 'closed_at': '2013-08-10T15:47:37Z', 'labels': []}
+{'issuenumber': 543, 'title': 'socket.io/socket.io.js 404 from master index.html when trying to use notes-server', 'state': 'closed', 'created_at': '2013-07-27T17:10:29Z', 'closed_at': '2013-07-30T13:23:38Z', 'labels': []}
+{'issuenumber': 542, 'title': 'Reveal.js + Meny for a social feed', 'state': 'closed', 'created_at': '2013-07-27T15:47:09Z', 'closed_at': '2013-08-10T15:49:20Z', 'labels': []}
+{'issuenumber': 541, 'title': 'Outline Box displaying for code', 'state': 'closed', 'created_at': '2013-07-25T13:43:17Z', 'closed_at': '2013-07-25T14:40:15Z', 'labels': []}
+{'issuenumber': 539, 'title': 'Rendering problems with jumly', 'state': 'closed', 'created_at': '2013-07-24T09:52:40Z', 'closed_at': '2013-07-24T14:21:09Z', 'labels': []}
+{'issuenumber': 538, 'title': 'fragments and presentation / notes mode broken', 'state': 'closed', 'created_at': '2013-07-23T21:55:26Z', 'closed_at': '2013-07-27T13:12:54Z', 'labels': {'name': 'plugin'}}
+{'issuenumber': 536, 'title': '[patch] Support for alternatives charsets in a markdown included file', 'state': 'closed', 'created_at': '2013-07-23T13:35:37Z', 'closed_at': '2013-07-23T16:34:37Z', 'labels': []}
+{'issuenumber': 534, 'title': "CSS transitions for some .navigate-* elements don't take effect", 'state': 'closed', 'created_at': '2013-07-21T11:26:46Z', 'closed_at': '2013-07-27T13:14:36Z', 'labels': []}
+{'issuenumber': 532, 'title': 'Remove rolling links', 'state': 'closed', 'created_at': '2013-07-21T02:56:12Z', 'closed_at': '2013-07-21T02:57:02Z', 'labels': []}
+{'issuenumber': 531, 'title': 'MathJax plugin', 'state': 'closed', 'created_at': '2013-07-19T17:42:46Z', 'closed_at': '2013-08-18T18:47:00Z', 'labels': {'name': 'plugin'}}
+{'issuenumber': 530, 'title': 'Delayed URL anchor update is annoying', 'state': 'closed', 'created_at': '2013-07-19T13:15:03Z', 'closed_at': '2013-07-19T13:25:57Z', 'labels': []}
+{'issuenumber': 529, 'title': 'WriteURL causes hashchange event which unnecessarily calls slide() a second time', 'state': 'closed', 'created_at': '2013-07-19T02:59:51Z', 'closed_at': '2013-07-19T13:37:27Z', 'labels': []}
+{'issuenumber': 528, 'title': "Background transition to 'none'", 'state': 'closed', 'created_at': '2013-07-16T15:09:06Z', 'closed_at': '2013-07-17T02:46:50Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 527, 'title': 'Issues with animations between slides', 'state': 'closed', 'created_at': '2013-07-15T13:23:16Z', 'closed_at': '2013-08-10T17:36:02Z', 'labels': []}
+{'issuenumber': 526, 'title': 'Horizontal space for slide text is rather narrow', 'state': 'closed', 'created_at': '2013-07-09T22:03:08Z', 'closed_at': '2013-07-09T22:06:34Z', 'labels': []}
+{'issuenumber': 525, 'title': 'data-autoSlide="0" does not work for first slide', 'state': 'closed', 'created_at': '2013-07-07T00:12:52Z', 'closed_at': '2013-07-14T21:36:15Z', 'labels': []}
+{'issuenumber': 524, 'title': 'No .scss syntax highlighting', 'state': 'closed', 'created_at': '2013-07-07T00:07:42Z', 'closed_at': '2013-07-09T22:09:56Z', 'labels': []}
+{'issuenumber': 523, 'title': "Scrolling doesn't work on Ios6", 'state': 'closed', 'created_at': '2013-07-05T17:29:07Z', 'closed_at': '2013-07-14T22:28:12Z', 'labels': []}
+{'issuenumber': 522, 'title': 'Blank style while printing', 'state': 'closed', 'created_at': '2013-07-05T12:48:08Z', 'closed_at': '2013-07-10T12:56:25Z', 'labels': []}
+{'issuenumber': 519, 'title': 'MathJax rendering issues', 'state': 'closed', 'created_at': '2013-07-01T07:06:42Z', 'closed_at': '2013-07-14T21:40:56Z', 'labels': {'name': 'plugin'}}
+{'issuenumber': 518, 'title': 'data-background attribute not working', 'state': 'closed', 'created_at': '2013-06-28T21:40:55Z', 'closed_at': '2013-06-28T21:44:14Z', 'labels': []}
+{'issuenumber': 516, 'title': 'Paused mode should allow for white background', 'state': 'closed', 'created_at': '2013-06-28T14:16:42Z', 'closed_at': '2013-06-28T14:18:36Z', 'labels': []}
+{'issuenumber': 515, 'title': 'problem with Chrome and Chromium on opensuse', 'state': 'closed', 'created_at': '2013-06-27T20:52:56Z', 'closed_at': '2013-07-22T12:56:14Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 513, 'title': 'Vertical Slides Invisible to JAWS Users.', 'state': 'closed', 'created_at': '2013-06-27T20:04:49Z', 'closed_at': '2013-08-27T12:50:01Z', 'labels': []}
+{'issuenumber': 512, 'title': 'overlapping lines?', 'state': 'closed', 'created_at': '2013-06-26T13:56:53Z', 'closed_at': '2013-06-26T14:18:05Z', 'labels': []}
+{'issuenumber': 511, 'title': 'Idea: Simplify workflow for presentation author', 'state': 'closed', 'created_at': '2013-06-26T05:25:30Z', 'closed_at': '2017-05-02T09:30:20Z', 'labels': {'name': 'plugin'}}
+{'issuenumber': 508, 'title': 'Unable to enter Fullscreen mode when slides are in an iframe', 'state': 'closed', 'created_at': '2013-06-24T18:52:12Z', 'closed_at': '2013-06-24T19:08:08Z', 'labels': []}
+{'issuenumber': 506, 'title': 'Consider publish to npm registry', 'state': 'closed', 'created_at': '2013-06-24T09:02:57Z', 'closed_at': '2013-09-04T01:25:33Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 505, 'title': 'mathjax and fragments', 'state': 'closed', 'created_at': '2013-06-22T22:14:24Z', 'closed_at': '2013-07-14T21:48:34Z', 'labels': []}
+{'issuenumber': 503, 'title': 'Help with Master/Client presentation', 'state': 'closed', 'created_at': '2013-06-22T17:56:51Z', 'closed_at': '2013-06-27T22:22:48Z', 'labels': []}
+{'issuenumber': 502, 'title': 'Vertikal slides not working correctly in IE10', 'state': 'closed', 'created_at': '2013-06-22T13:33:13Z', 'closed_at': '2013-09-07T03:07:02Z', 'labels': []}
+{'issuenumber': 501, 'title': 'Triggering slide via fragment anchors breaks display', 'state': 'closed', 'created_at': '2013-06-21T15:24:35Z', 'closed_at': '2013-07-14T21:56:23Z', 'labels': []}
+{'issuenumber': 500, 'title': "test/background.html doesn't show image on Mac", 'state': 'closed', 'created_at': '2013-06-20T20:31:56Z', 'closed_at': '2013-06-20T20:46:30Z', 'labels': []}
+{'issuenumber': 499, 'title': 'Add additional step to README.md to clarify where `npm install` should be run.', 'state': 'closed', 'created_at': '2013-06-19T23:14:49Z', 'closed_at': '2013-07-14T22:03:59Z', 'labels': []}
+{'issuenumber': 497, 'title': 'Markdown extension - Repeat title', 'state': 'closed', 'created_at': '2013-06-16T21:32:28Z', 'closed_at': '2013-08-21T02:01:40Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 496, 'title': 'Markdown with aside notes', 'state': 'closed', 'created_at': '2013-06-16T17:54:41Z', 'closed_at': '2013-06-25T12:13:52Z', 'labels': []}
+{'issuenumber': 494, 'title': "I'll don´t use width and height?", 'state': 'closed', 'created_at': '2013-06-15T17:12:55Z', 'closed_at': '2013-06-16T23:41:39Z', 'labels': []}
+{'issuenumber': 492, 'title': 'Overview and progressbar are broken in Chrome', 'state': 'closed', 'created_at': '2013-06-14T12:09:53Z', 'closed_at': '2013-06-14T12:38:27Z', 'labels': []}
+{'issuenumber': 491, 'title': 'ESC to exit fullscreen collides with ESC to get in overview mode', 'state': 'closed', 'created_at': '2013-06-12T15:12:02Z', 'closed_at': '2013-07-19T01:53:51Z', 'labels': []}
+{'issuenumber': 490, 'title': 'sizing small or taller-than wide images must (often) be done manually', 'state': 'closed', 'created_at': '2013-06-11T21:32:10Z', 'closed_at': '2013-08-20T03:54:13Z', 'labels': []}
+{'issuenumber': 489, 'title': 'How can I make reveal.js show images with full or partial bleed (image continues to one or more edges of display)?', 'state': 'closed', 'created_at': '2013-06-11T15:27:37Z', 'closed_at': '2013-06-11T15:36:24Z', 'labels': []}
+{'issuenumber': 486, 'title': 'Adding a footer to the printed slides', 'state': 'closed', 'created_at': '2013-06-10T09:51:52Z', 'closed_at': '2013-06-13T14:32:44Z', 'labels': []}
+{'issuenumber': 484, 'title': 'Overview Mode Does not seem to work in Opera', 'state': 'closed', 'created_at': '2013-06-07T01:50:44Z', 'closed_at': '2013-06-07T13:19:17Z', 'labels': []}
+{'issuenumber': 483, 'title': "Can't block slide-control for smartphone users", 'state': 'closed', 'created_at': '2013-06-05T17:21:31Z', 'closed_at': '2013-06-07T13:22:19Z', 'labels': []}
+{'issuenumber': 482, 'title': 'CLI print pdf', 'state': 'closed', 'created_at': '2013-06-04T19:46:54Z', 'closed_at': '2013-06-07T13:20:28Z', 'labels': []}
+{'issuenumber': 481, 'title': 'Support for scandinavian characters in markdown', 'state': 'closed', 'created_at': '2013-06-03T11:32:10Z', 'closed_at': '2013-06-04T16:19:50Z', 'labels': []}
+{'issuenumber': 480, 'title': 'Reveal.js breaks SVG getBBox() in Chrome, Firefox', 'state': 'closed', 'created_at': '2013-06-03T04:35:41Z', 'closed_at': '2013-08-21T02:44:09Z', 'labels': []}
+{'issuenumber': 478, 'title': 'If media is set to autoplay on slide, writeURL call restarts audio even if paused by user', 'state': 'closed', 'created_at': '2013-06-01T08:22:03Z', 'closed_at': '2013-06-09T14:49:05Z', 'labels': []}
+{'issuenumber': 476, 'title': 'Numerical display of position within presentation', 'state': 'closed', 'created_at': '2013-05-29T12:21:53Z', 'closed_at': '2013-09-07T03:25:06Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 473, 'title': 'Loop: true and autoSlide correctly display fragment roll-in only the first time.', 'state': 'closed', 'created_at': '2013-05-25T19:57:12Z', 'closed_at': '2013-07-14T22:20:23Z', 'labels': []}
+{'issuenumber': 472, 'title': 'Feature-Request: Recording', 'state': 'closed', 'created_at': '2013-05-25T12:00:22Z', 'closed_at': '2013-06-07T13:25:18Z', 'labels': []}
+{'issuenumber': 470, 'title': 'notes-server plugin serves file in text/plain', 'state': 'closed', 'created_at': '2013-05-21T15:23:20Z', 'closed_at': '2013-06-09T15:07:43Z', 'labels': []}
+{'issuenumber': 469, 'title': 'reveal.js script failing in IE9', 'state': 'closed', 'created_at': '2013-05-20T17:55:02Z', 'closed_at': '2013-05-26T18:18:34Z', 'labels': []}
+{'issuenumber': 468, 'title': 'Separate transitions for showing and hiding a slide', 'state': 'closed', 'created_at': '2013-05-19T18:06:56Z', 'closed_at': '2013-08-20T04:02:07Z', 'labels': []}
+{'issuenumber': 466, 'title': 'Multiple User Paths (nested slide shows)', 'state': 'closed', 'created_at': '2013-05-17T16:25:58Z', 'closed_at': '2013-06-07T13:31:04Z', 'labels': []}
+{'issuenumber': 465, 'title': "Include 'onDocumentKeyDown' in the API", 'state': 'closed', 'created_at': '2013-05-17T10:17:36Z', 'closed_at': '2013-05-17T13:56:42Z', 'labels': []}
+{'issuenumber': 464, 'title': 'Notes server fails to find custom CSS, etc.', 'state': 'closed', 'created_at': '2013-05-17T04:34:24Z', 'closed_at': '2013-05-19T12:49:44Z', 'labels': []}
+{'issuenumber': 463, 'title': 'Slide order for vertical slides messed up on second pass', 'state': 'closed', 'created_at': '2013-05-16T17:30:54Z', 'closed_at': '2013-06-16T23:37:33Z', 'labels': []}
+{'issuenumber': 462, 'title': "IFrame content doesn't scale in Chrome", 'state': 'closed', 'created_at': '2013-05-16T17:19:40Z', 'closed_at': '2014-04-27T06:23:20Z', 'labels': []}
+{'issuenumber': 460, 'title': 'Rails support for reveal.js', 'state': 'closed', 'created_at': '2013-05-14T17:16:22Z', 'closed_at': '2013-08-19T16:02:34Z', 'labels': []}
+{'issuenumber': 458, 'title': 'Small bugs in PDF rendering', 'state': 'closed', 'created_at': '2013-05-14T09:26:32Z', 'closed_at': '2013-06-30T01:52:35Z', 'labels': []}
+{'issuenumber': 457, 'title': 'Implement VoiceOver Accessibility Support', 'state': 'closed', 'created_at': '2013-05-13T17:15:24Z', 'closed_at': '2013-06-09T15:17:20Z', 'labels': []}
+{'issuenumber': 456, 'title': 'support for d3.js transitions', 'state': 'closed', 'created_at': '2013-05-13T01:06:52Z', 'closed_at': '2016-03-08T11:18:49Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 455, 'title': 'Supporting vertical main navigation', 'state': 'closed', 'created_at': '2013-05-12T18:55:51Z', 'closed_at': '2013-05-12T19:11:35Z', 'labels': []}
+{'issuenumber': 454, 'title': 'Using a Magic Mouse for scrolling', 'state': 'closed', 'created_at': '2013-05-12T18:52:24Z', 'closed_at': '2013-06-16T23:57:16Z', 'labels': []}
+{'issuenumber': 453, 'title': 'State backgrounds 2.0', 'state': 'closed', 'created_at': '2013-05-12T14:11:31Z', 'closed_at': '2013-06-09T14:50:00Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 452, 'title': '"grunt serve" with Livereload', 'state': 'closed', 'created_at': '2013-05-10T14:06:33Z', 'closed_at': '2013-07-27T15:35:52Z', 'labels': []}
+{'issuenumber': 451, 'title': 'ZeroClipboard and reveal.js', 'state': 'closed', 'created_at': '2013-05-10T12:30:39Z', 'closed_at': '2013-05-10T18:46:47Z', 'labels': []}
+{'issuenumber': 449, 'title': 'Navigation Stop', 'state': 'closed', 'created_at': '2013-05-08T11:41:27Z', 'closed_at': '2013-05-12T14:06:06Z', 'labels': []}
+{'issuenumber': 447, 'title': 'Fragments of the same data-fragment-index should be revealed at the same time', 'state': 'closed', 'created_at': '2013-05-07T20:32:06Z', 'closed_at': '2013-05-07T20:35:06Z', 'labels': []}
+{'issuenumber': 446, 'title': 'Documentation', 'state': 'closed', 'created_at': '2013-05-07T17:43:31Z', 'closed_at': '2013-05-08T16:03:18Z', 'labels': []}
+{'issuenumber': 445, 'title': 'equip Wireless Notebook Presenter 4-in-1', 'state': 'closed', 'created_at': '2013-05-07T10:24:16Z', 'closed_at': '2013-05-07T12:52:49Z', 'labels': []}
+{'issuenumber': 444, 'title': 'showdown.js missing', 'state': 'closed', 'created_at': '2013-05-06T23:24:22Z', 'closed_at': '2013-05-06T23:33:13Z', 'labels': []}
+{'issuenumber': 440, 'title': 'fullscreen video or image', 'state': 'closed', 'created_at': '2013-05-04T18:59:28Z', 'closed_at': '2013-05-12T14:08:01Z', 'labels': []}
+{'issuenumber': 437, 'title': 'Add grunt connect and zip tasks', 'state': 'closed', 'created_at': '2013-05-02T14:23:46Z', 'closed_at': '2013-05-04T17:40:51Z', 'labels': []}
+{'issuenumber': 436, 'title': 'simple request integrating menu', 'state': 'closed', 'created_at': '2013-05-02T09:48:34Z', 'closed_at': '2013-05-02T17:02:50Z', 'labels': []}
+{'issuenumber': 434, 'title': 'Difficulties with quotes: blockquote/p and automatic quotation marks', 'state': 'closed', 'created_at': '2013-05-01T20:47:55Z', 'closed_at': '2013-05-03T17:33:25Z', 'labels': []}
+{'issuenumber': 431, 'title': 'Using Fragments and syntax-highlighted code with external Markdown', 'state': 'closed', 'created_at': '2013-05-01T17:13:55Z', 'closed_at': '2013-11-26T02:19:20Z', 'labels': {'name': 'plugin'}}
+{'issuenumber': 430, 'title': 'Feature Request - Markdown Support for internal links', 'state': 'closed', 'created_at': '2013-05-01T12:17:36Z', 'closed_at': '2013-11-28T21:03:40Z', 'labels': {'name': 'plugin'}}
+{'issuenumber': 428, 'title': 'Manipulation of slide progress bar and slide change events', 'state': 'closed', 'created_at': '2013-04-30T20:25:07Z', 'closed_at': '2013-05-01T14:50:48Z', 'labels': []}
+{'issuenumber': 427, 'title': 'to go up', 'state': 'closed', 'created_at': '2013-04-29T18:47:12Z', 'closed_at': '2013-05-05T22:37:49Z', 'labels': []}
+{'issuenumber': 426, 'title': 'Touch Link Bug on iOS', 'state': 'closed', 'created_at': '2013-04-25T19:09:33Z', 'closed_at': '2013-05-05T22:43:08Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 424, 'title': 'Chrome: keydown event not triggered in fullscreen', 'state': 'closed', 'created_at': '2013-04-24T19:30:10Z', 'closed_at': '2013-04-25T16:12:06Z', 'labels': []}
+{'issuenumber': 423, 'title': 'auto save', 'state': 'closed', 'created_at': '2013-04-24T18:50:16Z', 'closed_at': '2013-04-24T18:52:28Z', 'labels': []}
+{'issuenumber': 422, 'title': 'Suggestion: show indicator when the last fragment has been displayed', 'state': 'closed', 'created_at': '2013-04-24T16:00:27Z', 'closed_at': '2013-04-27T21:36:24Z', 'labels': []}
+{'issuenumber': 421, 'title': 'Suggestion: include more langs in bundled highlight', 'state': 'closed', 'created_at': '2013-04-24T15:59:09Z', 'closed_at': '2013-04-27T17:22:48Z', 'labels': []}
+{'issuenumber': 420, 'title': 'Suggestion: .reveal pre code should have overflow: visible', 'state': 'closed', 'created_at': '2013-04-24T15:57:49Z', 'closed_at': '2013-04-25T14:20:00Z', 'labels': []}
+{'issuenumber': 419, 'title': 'Suggestion: option to trim code blocks', 'state': 'closed', 'created_at': '2013-04-24T15:56:40Z', 'closed_at': '2013-04-27T19:52:16Z', 'labels': []}
+{'issuenumber': 416, 'title': "Reveal auto-resize doesn't seem to like tables at all", 'state': 'closed', 'created_at': '2013-04-22T15:41:38Z', 'closed_at': '2013-04-22T15:59:07Z', 'labels': []}
+{'issuenumber': 415, 'title': "Theme issues: can't zoom with Chrome", 'state': 'closed', 'created_at': '2013-04-22T01:48:21Z', 'closed_at': '2013-04-22T04:07:53Z', 'labels': []}
+{'issuenumber': 414, 'title': "Can't render HTML code sample in external markdown", 'state': 'closed', 'created_at': '2013-04-21T09:44:19Z', 'closed_at': '2013-05-02T17:04:36Z', 'labels': []}
+{'issuenumber': 412, 'title': 'Using data-markdown="location/file.md" ignores/deletes other attributes', 'state': 'closed', 'created_at': '2013-04-18T17:46:11Z', 'closed_at': '2013-04-20T13:19:26Z', 'labels': []}
+{'issuenumber': 411, 'title': 'Fragment Views', 'state': 'closed', 'created_at': '2013-04-18T14:14:41Z', 'closed_at': '2013-04-27T21:36:03Z', 'labels': []}
+{'issuenumber': 410, 'title': 'Flickering images on iOS', 'state': 'closed', 'created_at': '2013-04-18T14:07:22Z', 'closed_at': '2013-05-04T01:52:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 409, 'title': 'Fragments on last slide not shown', 'state': 'closed', 'created_at': '2013-04-18T10:46:59Z', 'closed_at': '2013-04-18T12:53:18Z', 'labels': []}
+{'issuenumber': 408, 'title': 'Sideways navigation bug or very odd feature', 'state': 'closed', 'created_at': '2013-04-18T10:12:30Z', 'closed_at': '2013-05-05T22:42:53Z', 'labels': []}
+{'issuenumber': 407, 'title': 'Rename tags to be compatible with semver format', 'state': 'closed', 'created_at': '2013-04-18T07:32:27Z', 'closed_at': '2013-04-27T19:34:31Z', 'labels': []}
+{'issuenumber': 406, 'title': 'Overview mode could be better', 'state': 'closed', 'created_at': '2013-04-15T18:29:11Z', 'closed_at': '2013-05-03T18:30:55Z', 'labels': []}
+{'issuenumber': 405, 'title': 'Keyboard config option', 'state': 'closed', 'created_at': '2013-04-15T14:13:12Z', 'closed_at': '2013-06-19T01:57:57Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 404, 'title': 'Presenter mode', 'state': 'closed', 'created_at': '2013-04-13T18:09:10Z', 'closed_at': '2013-04-13T22:52:15Z', 'labels': []}
+{'issuenumber': 403, 'title': 'Background not changed with theme when printing', 'state': 'closed', 'created_at': '2013-04-12T22:26:50Z', 'closed_at': '2013-06-13T14:17:55Z', 'labels': []}
+{'issuenumber': 402, 'title': 'Add support for Chardin.js', 'state': 'closed', 'created_at': '2013-04-12T20:50:15Z', 'closed_at': '2013-04-15T14:02:49Z', 'labels': []}
+{'issuenumber': 401, 'title': 'Disable arrow keys and enable only page up and page down', 'state': 'closed', 'created_at': '2013-04-12T09:52:52Z', 'closed_at': '2013-04-15T14:06:35Z', 'labels': []}
+{'issuenumber': 399, 'title': 'Editing and Serving Locally', 'state': 'closed', 'created_at': '2013-04-07T19:38:31Z', 'closed_at': '2013-04-15T04:43:42Z', 'labels': []}
+{'issuenumber': 396, 'title': 'more state colors', 'state': 'closed', 'created_at': '2013-04-06T17:50:11Z', 'closed_at': '2013-04-16T13:08:30Z', 'labels': []}
+{'issuenumber': 394, 'title': 'Multiplex slave/client does not see fragmented view events', 'state': 'closed', 'created_at': '2013-04-06T05:12:15Z', 'closed_at': '2013-04-16T13:09:18Z', 'labels': []}
+{'issuenumber': 393, 'title': 'README revealjs.jit.su/token typo', 'state': 'closed', 'created_at': '2013-04-03T06:44:13Z', 'closed_at': '2013-04-06T15:42:19Z', 'labels': []}
+{'issuenumber': 392, 'title': 'Transition speed', 'state': 'closed', 'created_at': '2013-04-01T20:16:43Z', 'closed_at': '2013-04-16T13:00:49Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 390, 'title': 'Recommended remote/clicker?', 'state': 'closed', 'created_at': '2013-03-31T08:45:49Z', 'closed_at': '2013-04-06T16:20:18Z', 'labels': {'name': 'question'}}
+{'issuenumber': 389, 'title': 'TypeError: Reveal is undefined', 'state': 'closed', 'created_at': '2013-03-28T08:55:31Z', 'closed_at': '2013-03-28T15:43:49Z', 'labels': []}
+{'issuenumber': 388, 'title': 'Feature Request: Media Pause Upon Navigation Away', 'state': 'closed', 'created_at': '2013-03-27T23:05:31Z', 'closed_at': '2013-04-27T22:38:10Z', 'labels': []}
+{'issuenumber': 387, 'title': 'Navigation UI Appears on Chrome for Android But Not on Safari for iPad', 'state': 'closed', 'created_at': '2013-03-27T16:23:29Z', 'closed_at': '2013-03-27T22:13:04Z', 'labels': []}
+{'issuenumber': 386, 'title': 'set transition speed', 'state': 'closed', 'created_at': '2013-03-27T10:15:24Z', 'closed_at': '2013-03-27T13:56:57Z', 'labels': []}
+{'issuenumber': 384, 'title': "Configuring controls doesn't work, if controls were set to false during initialize", 'state': 'closed', 'created_at': '2013-03-26T12:39:28Z', 'closed_at': '2013-03-31T02:58:30Z', 'labels': []}
+{'issuenumber': 382, 'title': 'https addressing of Google Fonts', 'state': 'closed', 'created_at': '2013-03-25T21:58:28Z', 'closed_at': '2013-04-02T16:32:01Z', 'labels': []}
+{'issuenumber': 381, 'title': 'Notes plug-in seems to be broken', 'state': 'closed', 'created_at': '2013-03-25T19:25:16Z', 'closed_at': '2013-04-22T13:56:28Z', 'labels': []}
+{'issuenumber': 380, 'title': 'Absolute position in slide causes flashing', 'state': 'closed', 'created_at': '2013-03-25T09:33:10Z', 'closed_at': '2013-04-04T16:10:24Z', 'labels': {'name': 'question'}}
+{'issuenumber': 376, 'title': 'Markdown example does not work', 'state': 'closed', 'created_at': '2013-03-22T14:36:24Z', 'closed_at': '2013-03-22T14:52:33Z', 'labels': []}
+{'issuenumber': 375, 'title': 'Disable line wrapping in code blocks', 'state': 'closed', 'created_at': '2013-03-20T13:26:33Z', 'closed_at': '2013-03-31T02:58:30Z', 'labels': []}
+{'issuenumber': 374, 'title': 'Adding balanced text layout would really improve the slides', 'state': 'closed', 'created_at': '2013-03-19T11:32:40Z', 'closed_at': '2013-03-23T15:24:16Z', 'labels': []}
+{'issuenumber': 373, 'title': 'Infinitely(?) looping error output when running grunt', 'state': 'closed', 'created_at': '2013-03-19T08:51:54Z', 'closed_at': '2013-03-23T15:54:27Z', 'labels': []}
+{'issuenumber': 372, 'title': 'Forkit ribbon in one section but not all?', 'state': 'closed', 'created_at': '2013-03-18T17:46:49Z', 'closed_at': '2013-03-18T18:04:06Z', 'labels': []}
+{'issuenumber': 370, 'title': 'Request: Allow navigation to skip animations', 'state': 'closed', 'created_at': '2013-03-16T22:32:53Z', 'closed_at': '2013-03-18T16:01:58Z', 'labels': []}
+{'issuenumber': 369, 'title': "Reveal.JS doesn't allow svg fragments?", 'state': 'closed', 'created_at': '2013-03-15T15:04:30Z', 'closed_at': '2013-03-16T13:19:39Z', 'labels': []}
+{'issuenumber': 368, 'title': "uncaught typeerror cannot call method 'queryselector' of null", 'state': 'closed', 'created_at': '2013-03-15T14:38:09Z', 'closed_at': '2013-03-19T13:06:08Z', 'labels': []}
+{'issuenumber': 365, 'title': 'Touch Desactivation', 'state': 'closed', 'created_at': '2013-03-13T20:57:44Z', 'closed_at': '2013-03-31T02:58:30Z', 'labels': []}
+{'issuenumber': 364, 'title': 'Migrate to express.io', 'state': 'closed', 'created_at': '2013-03-12T21:49:05Z', 'closed_at': '2013-03-23T16:08:39Z', 'labels': []}
+{'issuenumber': 362, 'title': '"Fragment" function', 'state': 'closed', 'created_at': '2013-03-10T18:27:05Z', 'closed_at': '2013-03-17T12:36:34Z', 'labels': []}
+{'issuenumber': 359, 'title': 'Is there any way to control slides remotely by phone?', 'state': 'closed', 'created_at': '2013-03-10T01:44:33Z', 'closed_at': '2013-03-10T15:50:12Z', 'labels': []}
+{'issuenumber': 358, 'title': 'After zooming in and back out, background stays black in Google Chrome Canary Build', 'state': 'closed', 'created_at': '2013-03-08T11:25:05Z', 'closed_at': '2013-03-17T12:32:55Z', 'labels': []}
+{'issuenumber': 357, 'title': 'Add stupid-proof setup instructions', 'state': 'closed', 'created_at': '2013-03-07T05:05:30Z', 'closed_at': '2013-05-04T17:40:41Z', 'labels': []}
+{'issuenumber': 356, 'title': 'Problems to render disqus comments inside a slide...', 'state': 'closed', 'created_at': '2013-03-05T16:25:35Z', 'closed_at': '2013-03-17T12:30:19Z', 'labels': []}
+{'issuenumber': 355, 'title': 'auto advance', 'state': 'closed', 'created_at': '2013-03-04T12:36:50Z', 'closed_at': '2013-03-04T21:02:05Z', 'labels': []}
+{'issuenumber': 354, 'title': 'setPreviousVerticalIndex throw error when not object - setAttribute', 'state': 'closed', 'created_at': '2013-03-04T11:00:02Z', 'closed_at': '2013-03-09T00:36:35Z', 'labels': []}
+{'issuenumber': 349, 'title': 'Upgrade to grunt 0.4', 'state': 'closed', 'created_at': '2013-02-27T13:33:23Z', 'closed_at': '2013-02-27T22:17:42Z', 'labels': []}
+{'issuenumber': 347, 'title': 'how to set a single slide to show 1 image as background?', 'state': 'closed', 'created_at': '2013-02-26T08:51:54Z', 'closed_at': '2013-02-26T14:30:58Z', 'labels': []}
+{'issuenumber': 346, 'title': 'canvas not reponding correctly in section', 'state': 'closed', 'created_at': '2013-02-25T06:00:19Z', 'closed_at': '2013-03-04T23:05:35Z', 'labels': []}
+{'issuenumber': 343, 'title': 'Controls in presenter view do not seem to control main view', 'state': 'closed', 'created_at': '2013-02-21T17:08:21Z', 'closed_at': '2013-02-27T22:17:43Z', 'labels': []}
+{'issuenumber': 341, 'title': "hljs is undefined in 'ready' event", 'state': 'closed', 'created_at': '2013-02-21T14:52:06Z', 'closed_at': '2013-02-21T15:05:03Z', 'labels': []}
+{'issuenumber': 339, 'title': 'Added right-to-left Direction', 'state': 'closed', 'created_at': '2013-02-18T12:10:53Z', 'closed_at': '2013-04-30T01:58:09Z', 'labels': []}
+{'issuenumber': 336, 'title': 'event for togglePause', 'state': 'closed', 'created_at': '2013-02-13T09:18:34Z', 'closed_at': '2013-02-27T22:17:43Z', 'labels': []}
+{'issuenumber': 335, 'title': 'data-autoslide: Using for only one section with no jump to the next section', 'state': 'closed', 'created_at': '2013-02-12T14:01:48Z', 'closed_at': '2013-02-27T20:51:50Z', 'labels': []}
+{'issuenumber': 333, 'title': 'Search presentation for keywords', 'state': 'closed', 'created_at': '2013-02-11T22:59:04Z', 'closed_at': '2013-02-11T23:36:58Z', 'labels': []}
+{'issuenumber': 330, 'title': 'Slides in separate files', 'state': 'closed', 'created_at': '2013-02-11T14:23:38Z', 'closed_at': '2013-03-04T21:23:41Z', 'labels': []}
+{'issuenumber': 328, 'title': 'Fonts in themes are useless for non-latin slides', 'state': 'closed', 'created_at': '2013-02-07T09:17:06Z', 'closed_at': '2013-03-09T00:36:35Z', 'labels': []}
+{'issuenumber': 326, 'title': 'Preview/Notes not updated if popup opening is deferred by popup-blocker', 'state': 'closed', 'created_at': '2013-02-03T19:04:09Z', 'closed_at': '2013-07-14T22:23:52Z', 'labels': {'name': 'plugin'}}
+{'issuenumber': 325, 'title': 'Reimplement fixed vertical content', 'state': 'closed', 'created_at': '2013-02-03T11:30:05Z', 'closed_at': '2013-02-03T16:32:12Z', 'labels': []}
+{'issuenumber': 324, 'title': 'reveal.js + php', 'state': 'closed', 'created_at': '2013-02-03T00:07:35Z', 'closed_at': '2013-02-03T05:45:51Z', 'labels': []}
+{'issuenumber': 323, 'title': 'function removeEventListeners() not fully removing listners', 'state': 'closed', 'created_at': '2013-02-01T05:27:44Z', 'closed_at': '2013-02-03T07:00:25Z', 'labels': []}
+{'issuenumber': 321, 'title': 'Incorrect header word breaking.', 'state': 'closed', 'created_at': '2013-01-31T19:05:50Z', 'closed_at': '2013-02-03T06:05:38Z', 'labels': []}
+{'issuenumber': 320, 'title': 'autoSlide should stop on Pause and Overview', 'state': 'closed', 'created_at': '2013-01-30T10:09:35Z', 'closed_at': '2013-02-10T00:14:01Z', 'labels': []}
+{'issuenumber': 319, 'title': 'Step through and fragment stuff only on up/down', 'state': 'closed', 'created_at': '2013-01-29T15:19:25Z', 'closed_at': '2013-01-29T19:37:25Z', 'labels': []}
+{'issuenumber': 318, 'title': 'see notes/preview when loading from file:///', 'state': 'closed', 'created_at': '2013-01-29T12:26:59Z', 'closed_at': '2013-02-02T23:13:31Z', 'labels': []}
+{'issuenumber': 317, 'title': 'Helper class to "stretch-to-fit" a slide\'s contents?', 'state': 'closed', 'created_at': '2013-01-29T04:17:08Z', 'closed_at': '2013-01-29T19:42:51Z', 'labels': []}
+{'issuenumber': 316, 'title': 'Theme CSS loading', 'state': 'closed', 'created_at': '2013-01-28T23:15:24Z', 'closed_at': '2013-01-28T23:20:19Z', 'labels': []}
+{'issuenumber': 315, 'title': 'mark slide as hidden', 'state': 'closed', 'created_at': '2013-01-28T20:19:49Z', 'closed_at': '2013-01-29T09:53:42Z', 'labels': []}
+{'issuenumber': 313, 'title': 'Having reveal.js in a submodule', 'state': 'closed', 'created_at': '2013-01-26T10:22:30Z', 'closed_at': '2013-02-09T23:55:14Z', 'labels': {'name': 'question'}}
+{'issuenumber': 312, 'title': 'Disable clicking on progress bar to proceed through presentation?', 'state': 'closed', 'created_at': '2013-01-25T20:20:25Z', 'closed_at': '2013-01-26T02:59:33Z', 'labels': []}
+{'issuenumber': 311, 'title': 'Feature Request : Drupal Implementation?', 'state': 'closed', 'created_at': '2013-01-25T17:22:38Z', 'closed_at': '2013-03-10T16:02:05Z', 'labels': {'name': 'question'}}
+{'issuenumber': 310, 'title': 'Scale presentations to always fit within window bounds', 'state': 'closed', 'created_at': '2013-01-24T15:36:55Z', 'closed_at': '2013-02-03T06:24:24Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 309, 'title': "Autoresize of slides doesn't like <pre>", 'state': 'closed', 'created_at': '2013-01-23T11:35:26Z', 'closed_at': '2013-01-24T15:37:19Z', 'labels': []}
+{'issuenumber': 308, 'title': "Add 'video' selector so video-elements stay within slide", 'state': 'closed', 'created_at': '2013-01-22T18:25:25Z', 'closed_at': '2013-01-23T20:26:56Z', 'labels': []}
+{'issuenumber': 306, 'title': 'Idea: Automatically insert slides based on markdown content', 'state': 'closed', 'created_at': '2013-01-21T15:09:02Z', 'closed_at': '2013-02-27T22:22:02Z', 'labels': []}
+{'issuenumber': 304, 'title': 'Share or print a presentation with notes?', 'state': 'closed', 'created_at': '2013-01-21T03:55:08Z', 'closed_at': '2015-09-09T12:38:48Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 300, 'title': "Touch events don't work on IE10", 'state': 'closed', 'created_at': '2013-01-15T16:53:27Z', 'closed_at': '2013-05-12T13:50:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 299, 'title': 'Add touch config option', 'state': 'closed', 'created_at': '2013-01-15T16:09:01Z', 'closed_at': '2013-01-21T17:29:54Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 298, 'title': 'Event for Overview mode', 'state': 'closed', 'created_at': '2013-01-15T14:31:47Z', 'closed_at': '2013-01-21T17:46:05Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 297, 'title': 'Delete slide in the DOM', 'state': 'closed', 'created_at': '2013-01-15T13:29:07Z', 'closed_at': '2013-01-15T17:09:37Z', 'labels': []}
+{'issuenumber': 296, 'title': 'Turn off Swipe and arrow keys', 'state': 'closed', 'created_at': '2013-01-15T10:38:27Z', 'closed_at': '2013-01-15T16:09:39Z', 'labels': []}
+{'issuenumber': 295, 'title': 'Mouse Scroll & Slide Navigation', 'state': 'closed', 'created_at': '2013-01-15T08:49:46Z', 'closed_at': '2013-01-15T17:24:39Z', 'labels': []}
+{'issuenumber': 294, 'title': "Print doesn't work with chrome canary 26", 'state': 'closed', 'created_at': '2013-01-14T21:22:41Z', 'closed_at': '2013-01-14T21:29:03Z', 'labels': []}
+{'issuenumber': 293, 'title': 'Function for retrieving a slide needed.', 'state': 'closed', 'created_at': '2013-01-14T17:16:38Z', 'closed_at': '2013-02-03T20:55:28Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 292, 'title': 'Link not working in Mozilla Firefox & IE', 'state': 'closed', 'created_at': '2013-01-14T09:38:21Z', 'closed_at': '2013-01-14T13:28:08Z', 'labels': []}
+{'issuenumber': 290, 'title': "Reveal.slide won't change to correct fragment when on the same slide.", 'state': 'closed', 'created_at': '2013-01-11T16:45:45Z', 'closed_at': '2013-01-14T14:29:13Z', 'labels': []}
+{'issuenumber': 289, 'title': "Chrome iOS doesn't like reveal.js in sideways mode", 'state': 'closed', 'created_at': '2013-01-11T13:33:11Z', 'closed_at': '2013-02-03T16:28:24Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 288, 'title': 'Override left slide to next slide.', 'state': 'closed', 'created_at': '2013-01-10T22:06:44Z', 'closed_at': '2013-01-14T14:02:55Z', 'labels': []}
+{'issuenumber': 286, 'title': 'Pagedown should have no effect on the final slide', 'state': 'closed', 'created_at': '2013-01-07T19:10:42Z', 'closed_at': '2013-01-16T15:48:32Z', 'labels': []}
+{'issuenumber': 285, 'title': 'Home navigation key should rewind slides', 'state': 'closed', 'created_at': '2013-01-07T18:59:12Z', 'closed_at': '2013-01-12T17:19:17Z', 'labels': []}
+{'issuenumber': 283, 'title': '3D link hover animation does not work with quotation marks', 'state': 'closed', 'created_at': '2013-01-05T13:33:15Z', 'closed_at': '2013-01-07T14:09:06Z', 'labels': []}
+{'issuenumber': 281, 'title': 'Firefox 17 on does not render embedded YouTube videos', 'state': 'closed', 'created_at': '2013-01-05T00:26:01Z', 'closed_at': '2013-01-30T20:15:21Z', 'labels': []}
+{'issuenumber': 279, 'title': 'One direction Loop', 'state': 'closed', 'created_at': '2012-12-22T12:45:16Z', 'closed_at': '2013-01-14T14:38:08Z', 'labels': []}
+{'issuenumber': 278, 'title': 'Side Notes will only work with index.html', 'state': 'closed', 'created_at': '2012-12-21T08:48:19Z', 'closed_at': '2013-01-21T18:05:20Z', 'labels': []}
+{'issuenumber': 277, 'title': 'Cube transition flicker when section background is set', 'state': 'closed', 'created_at': '2012-12-18T13:24:19Z', 'closed_at': '2013-01-29T20:20:56Z', 'labels': []}
+{'issuenumber': 275, 'title': 'Markdown inside fragments', 'state': 'closed', 'created_at': '2012-12-10T23:13:00Z', 'closed_at': '2012-12-27T23:13:52Z', 'labels': []}
+{'issuenumber': 274, 'title': 'Transition "Page" in FF 17.0.1 on Linux Mint 64-bit', 'state': 'closed', 'created_at': '2012-12-10T15:56:16Z', 'closed_at': '2013-02-03T06:05:37Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 273, 'title': 'Nested slides auto-advance issues', 'state': 'closed', 'created_at': '2012-12-10T04:32:18Z', 'closed_at': '2013-01-02T14:14:34Z', 'labels': []}
+{'issuenumber': 272, 'title': 'Print-PDF with gradients possible?', 'state': 'closed', 'created_at': '2012-12-09T20:55:44Z', 'closed_at': '2012-12-28T00:03:06Z', 'labels': []}
+{'issuenumber': 271, 'title': 'Printing slides with images as background, background was skiped', 'state': 'closed', 'created_at': '2012-12-08T21:49:08Z', 'closed_at': '2013-02-03T21:17:56Z', 'labels': []}
+{'issuenumber': 269, 'title': "Fragments on the last slide don't work", 'state': 'closed', 'created_at': '2012-12-07T18:01:01Z', 'closed_at': '2012-12-28T00:00:20Z', 'labels': []}
+{'issuenumber': 268, 'title': 'implementation of Master Slides like those found in  PPT or Keynote', 'state': 'closed', 'created_at': '2012-12-07T17:07:19Z', 'closed_at': '2013-01-16T20:43:49Z', 'labels': []}
+{'issuenumber': 267, 'title': '[Question] Is there a way to get the coordinates of hidden slide elements?', 'state': 'closed', 'created_at': '2012-12-07T00:33:31Z', 'closed_at': '2013-01-21T20:16:30Z', 'labels': []}
+{'issuenumber': 266, 'title': 'Rolling links reveal inside <span>', 'state': 'closed', 'created_at': '2012-12-07T00:05:39Z', 'closed_at': '2013-01-21T19:55:56Z', 'labels': []}
+{'issuenumber': 265, 'title': '-webkit-overflow-scrolling:touch ', 'state': 'closed', 'created_at': '2012-12-05T18:00:19Z', 'closed_at': '2013-03-04T22:32:53Z', 'labels': []}
+{'issuenumber': 264, 'title': 'transition per slide?', 'state': 'closed', 'created_at': '2012-12-04T13:01:55Z', 'closed_at': '2013-01-14T14:23:44Z', 'labels': {'name': 'question'}}
+{'issuenumber': 263, 'title': 'GNU/Linux browsers problem', 'state': 'closed', 'created_at': '2012-12-04T05:53:15Z', 'closed_at': '2013-01-14T13:53:14Z', 'labels': []}
+{'issuenumber': 262, 'title': 'Loop problam', 'state': 'closed', 'created_at': '2012-12-01T14:28:05Z', 'closed_at': '2013-01-16T15:28:13Z', 'labels': []}
+{'issuenumber': 261, 'title': 'Markdown Dependency', 'state': 'closed', 'created_at': '2012-11-27T19:00:14Z', 'closed_at': '2012-11-27T19:24:00Z', 'labels': []}
+{'issuenumber': 260, 'title': "Transition doesn't work when switching to slide that is more than 3 steps away", 'state': 'closed', 'created_at': '2012-11-22T12:24:23Z', 'closed_at': '2012-12-27T23:34:23Z', 'labels': []}
+{'issuenumber': 259, 'title': "Default styles and transitions don't work in chrome (mac os x)", 'state': 'closed', 'created_at': '2012-11-21T15:14:09Z', 'closed_at': '2012-11-22T13:15:59Z', 'labels': []}
+{'issuenumber': 258, 'title': 'Instructions for enabling fluent animations', 'state': 'closed', 'created_at': '2012-11-21T13:59:29Z', 'closed_at': '2012-11-21T17:12:07Z', 'labels': []}
+{'issuenumber': 257, 'title': 'Complex presentations crash Chrome and Safari on iOS', 'state': 'closed', 'created_at': '2012-11-21T05:25:35Z', 'closed_at': '2013-01-14T13:49:41Z', 'labels': []}
+{'issuenumber': 256, 'title': 'Notes-server mode does not display a link in console', 'state': 'closed', 'created_at': '2012-11-19T19:27:22Z', 'closed_at': '2012-11-21T14:21:57Z', 'labels': []}
+{'issuenumber': 253, 'title': 'Notes do not work if `data-markdown` is present', 'state': 'closed', 'created_at': '2012-11-14T23:29:50Z', 'closed_at': '2012-11-16T14:25:31Z', 'labels': []}
+{'issuenumber': 252, 'title': 'Using the WebRTC video plugin within a section', 'state': 'closed', 'created_at': '2012-11-14T20:40:50Z', 'closed_at': '2012-11-16T14:27:19Z', 'labels': []}
+{'issuenumber': 251, 'title': 'Using the WebRTC video plugin within a section', 'state': 'closed', 'created_at': '2012-11-14T20:40:16Z', 'closed_at': '2012-11-16T13:48:47Z', 'labels': []}
+{'issuenumber': 250, 'title': '“concave” page transition breaks overview', 'state': 'closed', 'created_at': '2012-11-14T18:01:50Z', 'closed_at': '2012-11-21T14:22:26Z', 'labels': []}
+{'issuenumber': 249, 'title': 'Document theming in readme', 'state': 'closed', 'created_at': '2012-11-14T13:48:21Z', 'closed_at': '2013-01-09T00:09:37Z', 'labels': []}
+{'issuenumber': 247, 'title': 'Fire Bug and closed when Alt+click image', 'state': 'closed', 'created_at': '2012-11-13T16:22:51Z', 'closed_at': '2012-12-27T23:09:48Z', 'labels': []}
+{'issuenumber': 244, 'title': 'Helper class for fitting elements to slide size', 'state': 'closed', 'created_at': '2012-11-12T20:03:09Z', 'closed_at': '2013-08-18T19:54:01Z', 'labels': []}
+{'issuenumber': 241, 'title': 'Notes view jumping to wrong slide', 'state': 'closed', 'created_at': '2012-11-12T11:41:25Z', 'closed_at': '2012-11-16T14:10:25Z', 'labels': []}
+{'issuenumber': 240, 'title': "Swipe to move among slides doesn't work with Windows Phone", 'state': 'closed', 'created_at': '2012-11-11T17:45:06Z', 'closed_at': '2013-01-14T13:49:16Z', 'labels': []}
+{'issuenumber': 239, 'title': 'When printing, an empty page is added after the end', 'state': 'closed', 'created_at': '2012-11-11T17:43:46Z', 'closed_at': '2012-11-27T14:27:56Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 238, 'title': 'When printing, slides are not resized to fit into one page', 'state': 'closed', 'created_at': '2012-11-11T17:42:51Z', 'closed_at': '2013-01-29T20:12:40Z', 'labels': []}
+{'issuenumber': 237, 'title': 'fragment enhancement', 'state': 'closed', 'created_at': '2012-11-11T13:27:08Z', 'closed_at': '2012-11-11T13:40:51Z', 'labels': []}
+{'issuenumber': 236, 'title': 'Offtopic: broken "get last tweet" example at HTML5Rocks', 'state': 'closed', 'created_at': '2012-11-11T10:46:36Z', 'closed_at': '2012-11-11T16:39:25Z', 'labels': []}
+{'issuenumber': 235, 'title': 'Setup build script (grunt.js)', 'state': 'closed', 'created_at': '2012-11-11T05:52:58Z', 'closed_at': '2012-11-11T15:01:43Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 233, 'title': 'Up/down arrows should step through fragments', 'state': 'closed', 'created_at': '2012-11-10T19:01:30Z', 'closed_at': '2012-11-10T21:35:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 232, 'title': 'More media queries to fit smaller screens', 'state': 'closed', 'created_at': '2012-11-10T14:51:34Z', 'closed_at': '2012-11-10T21:35:12Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 231, 'title': 'Sinatra template', 'state': 'closed', 'created_at': '2012-11-08T13:34:33Z', 'closed_at': '2012-11-11T16:49:32Z', 'labels': []}
+{'issuenumber': 230, 'title': 'Missing italics in print stylesheet?', 'state': 'closed', 'created_at': '2012-11-08T06:15:26Z', 'closed_at': '2012-11-11T01:09:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 229, 'title': 'Lightbox esque display for content offline', 'state': 'closed', 'created_at': '2012-11-06T23:56:15Z', 'closed_at': '2012-11-10T23:18:19Z', 'labels': {'name': 'question'}}
+{'issuenumber': 227, 'title': 'add fragment index to url', 'state': 'closed', 'created_at': '2012-11-05T15:35:46Z', 'closed_at': '2012-11-10T23:07:22Z', 'labels': []}
+{'issuenumber': 226, 'title': "MathJax dosen't float well with reveal.js", 'state': 'closed', 'created_at': '2012-11-05T06:36:09Z', 'closed_at': '2012-11-11T00:10:32Z', 'labels': []}
+{'issuenumber': 225, 'title': 'Remember last visited slide?', 'state': 'closed', 'created_at': '2012-11-05T04:46:09Z', 'closed_at': '2012-11-10T21:35:13Z', 'labels': []}
+{'issuenumber': 224, 'title': 'Write named links to hash', 'state': 'closed', 'created_at': '2012-11-04T16:53:39Z', 'closed_at': '2012-11-10T21:35:13Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 223, 'title': 'Quotebox renders poorly with Markdown', 'state': 'closed', 'created_at': '2012-11-02T13:56:02Z', 'closed_at': '2012-11-10T22:01:01Z', 'labels': []}
+{'issuenumber': 221, 'title': 'Is there any way to reconfigure how URLs are written following the /#/?', 'state': 'closed', 'created_at': '2012-10-31T14:16:24Z', 'closed_at': '2012-11-04T15:52:18Z', 'labels': {'name': 'question'}}
+{'issuenumber': 219, 'title': 'support postMessage', 'state': 'closed', 'created_at': '2012-10-30T07:06:18Z', 'closed_at': '2012-11-10T22:18:13Z', 'labels': []}
+{'issuenumber': 218, 'title': 'No problem here..', 'state': 'closed', 'created_at': '2012-10-27T16:44:15Z', 'closed_at': '2012-10-27T19:42:04Z', 'labels': []}
+{'issuenumber': 217, 'title': 'Background not changed with theme when printing', 'state': 'closed', 'created_at': '2012-10-26T12:07:28Z', 'closed_at': '2012-10-28T23:35:30Z', 'labels': []}
+{'issuenumber': 216, 'title': 'Issue with encoding on thumbnails', 'state': 'closed', 'created_at': '2012-10-26T01:35:28Z', 'closed_at': '2012-10-26T14:34:22Z', 'labels': []}
+{'issuenumber': 215, 'title': 'Printing complex presentations leads some empty slides', 'state': 'closed', 'created_at': '2012-10-25T15:32:56Z', 'closed_at': '2012-10-28T23:33:35Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 214, 'title': "Slides don't load on Android 2.3 if the highlight plugin isn't loaded", 'state': 'closed', 'created_at': '2012-10-25T01:57:10Z', 'closed_at': '2012-10-29T12:27:54Z', 'labels': []}
+{'issuenumber': 213, 'title': 'navigate*() methods still call slide() when no navigation would be done', 'state': 'closed', 'created_at': '2012-10-25T00:29:58Z', 'closed_at': '2012-10-28T21:31:02Z', 'labels': []}
+{'issuenumber': 212, 'title': 'Event firing when leaving a slide', 'state': 'closed', 'created_at': '2012-10-24T23:51:10Z', 'closed_at': '2012-10-25T01:14:15Z', 'labels': []}
+{'issuenumber': 211, 'title': 'Logging and analytics', 'state': 'closed', 'created_at': '2012-10-24T23:33:40Z', 'closed_at': '2012-10-28T21:00:48Z', 'labels': []}
+{'issuenumber': 210, 'title': 'Automatic syntax highlighting on update.', 'state': 'closed', 'created_at': '2012-10-24T20:45:02Z', 'closed_at': '2012-10-28T22:10:30Z', 'labels': []}
+{'issuenumber': 208, 'title': "ready() doesn't fire unless there's a markdown section?", 'state': 'closed', 'created_at': '2012-10-24T14:29:09Z', 'closed_at': '2012-10-25T01:42:51Z', 'labels': []}
+{'issuenumber': 207, 'title': "Speaker notes don't work when running off filesystem (file://)", 'state': 'closed', 'created_at': '2012-10-24T13:24:03Z', 'closed_at': '2012-10-28T22:57:04Z', 'labels': []}
+{'issuenumber': 205, 'title': 'Themes no longer work on Android', 'state': 'closed', 'created_at': '2012-10-24T04:53:19Z', 'closed_at': '2012-10-29T12:30:20Z', 'labels': []}
+{'issuenumber': 203, 'title': 'Fragment not hidiging everything', 'state': 'closed', 'created_at': '2012-10-23T09:02:20Z', 'closed_at': '2012-10-24T13:15:37Z', 'labels': []}
+{'issuenumber': 202, 'title': "Keyboard navigation doesn't work in IE9", 'state': 'closed', 'created_at': '2012-10-23T01:49:05Z', 'closed_at': '2012-10-25T01:30:57Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 200, 'title': "Link to named slide from vertical slide doesn't navigate", 'state': 'closed', 'created_at': '2012-10-22T05:48:21Z', 'closed_at': '2012-10-23T03:31:28Z', 'labels': []}
+{'issuenumber': 199, 'title': 'Scroll bar disabled for iPad?', 'state': 'closed', 'created_at': '2012-10-22T01:48:27Z', 'closed_at': '2012-10-28T22:34:01Z', 'labels': []}
+{'issuenumber': 198, 'title': 'Slides not diaplying in ie9', 'state': 'closed', 'created_at': '2012-10-22T01:34:44Z', 'closed_at': '2012-10-22T01:37:21Z', 'labels': []}
+{'issuenumber': 197, 'title': 'Please trim trailing whitespaces in all reveal.js source files', 'state': 'closed', 'created_at': '2012-10-20T17:18:38Z', 'closed_at': '2012-10-21T01:05:21Z', 'labels': []}
+{'issuenumber': 196, 'title': "Overview doesn't work with zoom transition", 'state': 'closed', 'created_at': '2012-10-20T17:08:34Z', 'closed_at': '2012-10-21T01:05:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 195, 'title': "Content doesn't re-render when using zoom plugin", 'state': 'closed', 'created_at': '2012-10-20T17:07:53Z', 'closed_at': '2012-10-29T04:12:47Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 191, 'title': 'Rewrite themes using Sass', 'state': 'closed', 'created_at': '2012-10-18T04:42:04Z', 'closed_at': '2012-10-20T15:21:42Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 189, 'title': 'Zooming also zooms light box', 'state': 'closed', 'created_at': '2012-10-17T18:26:21Z', 'closed_at': '2012-10-20T16:14:55Z', 'labels': []}
+{'issuenumber': 186, 'title': 'Images not working', 'state': 'closed', 'created_at': '2012-10-16T21:47:23Z', 'closed_at': '2012-10-17T03:46:05Z', 'labels': []}
+{'issuenumber': 185, 'title': 'Custom navigation bar', 'state': 'closed', 'created_at': '2012-10-16T17:44:12Z', 'closed_at': '2012-11-10T22:18:35Z', 'labels': {'name': 'question'}}
+{'issuenumber': 184, 'title': 'Replicating a control in the slide', 'state': 'closed', 'created_at': '2012-10-15T06:30:13Z', 'closed_at': '2012-11-10T21:44:52Z', 'labels': []}
+{'issuenumber': 182, 'title': 'Fire slidechanged for the first loaded slide as well?', 'state': 'closed', 'created_at': '2012-10-15T06:07:23Z', 'closed_at': '2012-10-17T04:23:17Z', 'labels': []}
+{'issuenumber': 181, 'title': 'Clickable progress bar to quick jump to a part of the presentation', 'state': 'closed', 'created_at': '2012-10-15T04:15:12Z', 'closed_at': '2012-10-20T16:52:07Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 180, 'title': 'Vertically fill screen 100%?', 'state': 'closed', 'created_at': '2012-10-15T04:07:21Z', 'closed_at': '2012-10-24T21:09:53Z', 'labels': {'name': 'question'}}
+{'issuenumber': 179, 'title': 'Cant move around page once zoomed in', 'state': 'closed', 'created_at': '2012-10-15T01:36:34Z', 'closed_at': '2012-10-16T02:45:32Z', 'labels': []}
+{'issuenumber': 178, 'title': 'Shorter API method names', 'state': 'closed', 'created_at': '2012-10-15T00:24:05Z', 'closed_at': '2012-10-15T01:03:16Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 177, 'title': 'Demo issue: switching theme or transition resets the other', 'state': 'closed', 'created_at': '2012-10-14T10:19:30Z', 'closed_at': '2012-10-20T16:19:37Z', 'labels': []}
+{'issuenumber': 175, 'title': 'Finger Spread zoom??', 'state': 'closed', 'created_at': '2012-10-14T00:22:38Z', 'closed_at': '2012-10-15T00:00:09Z', 'labels': []}
+{'issuenumber': 174, 'title': 'Master slide with headers and footers', 'state': 'closed', 'created_at': '2012-10-12T21:52:45Z', 'closed_at': '2012-10-13T15:42:25Z', 'labels': []}
+{'issuenumber': 171, 'title': 'Starting Markdown slide with code block screws up spacing on any paragraphs afterward', 'state': 'closed', 'created_at': '2012-10-11T18:53:09Z', 'closed_at': '2013-02-03T21:34:27Z', 'labels': []}
+{'issuenumber': 167, 'title': 'No Slideshare embed in the rvl.io presentation', 'state': 'closed', 'created_at': '2012-10-10T09:11:18Z', 'closed_at': '2012-10-10T13:24:01Z', 'labels': []}
+{'issuenumber': 166, 'title': 'Default direction', 'state': 'closed', 'created_at': '2012-10-09T13:56:23Z', 'closed_at': '2012-11-27T13:39:19Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 165, 'title': 'Feature request: disable the "overview mode"', 'state': 'closed', 'created_at': '2012-10-07T10:01:39Z', 'closed_at': '2012-10-07T18:33:39Z', 'labels': []}
+{'issuenumber': 163, 'title': 'Make CSS affect only the Root-Element.', 'state': 'closed', 'created_at': '2012-10-05T16:22:04Z', 'closed_at': '2012-10-07T18:46:08Z', 'labels': []}
+{'issuenumber': 162, 'title': 'Blockqutoes problem in markdown', 'state': 'closed', 'created_at': '2012-10-05T11:08:49Z', 'closed_at': '2012-10-08T13:18:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 159, 'title': 'disable transitions', 'state': 'closed', 'created_at': '2012-10-04T09:30:44Z', 'closed_at': '2012-10-04T12:14:59Z', 'labels': []}
+{'issuenumber': 158, 'title': 'Open in overview mode?', 'state': 'closed', 'created_at': '2012-10-04T03:11:19Z', 'closed_at': '2012-10-04T13:00:01Z', 'labels': []}
+{'issuenumber': 157, 'title': 'MathJax does not parse inside <section data-markdown> in WebKit', 'state': 'closed', 'created_at': '2012-10-02T21:49:18Z', 'closed_at': '2012-10-04T13:19:17Z', 'labels': []}
+{'issuenumber': 155, 'title': "Showdown doesn't support automatic links", 'state': 'closed', 'created_at': '2012-09-27T19:32:26Z', 'closed_at': '2012-10-08T13:20:26Z', 'labels': []}
+{'issuenumber': 154, 'title': 'full screen support. advice?', 'state': 'closed', 'created_at': '2012-09-27T18:13:20Z', 'closed_at': '2012-09-29T04:12:04Z', 'labels': []}
+{'issuenumber': 153, 'title': 'Showdown has problems in code blocks', 'state': 'closed', 'created_at': '2012-09-27T16:40:51Z', 'closed_at': '2012-09-28T01:45:13Z', 'labels': []}
+{'issuenumber': 152, 'title': 'Ampersands in code block are turned into character entities', 'state': 'closed', 'created_at': '2012-09-27T15:47:16Z', 'closed_at': '2012-09-28T01:45:06Z', 'labels': []}
+{'issuenumber': 150, 'title': 'Feature Request: A vertical progress bar', 'state': 'closed', 'created_at': '2012-09-25T08:09:18Z', 'closed_at': '2012-11-10T21:35:13Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 149, 'title': 'Configurable / custom key bindings', 'state': 'closed', 'created_at': '2012-09-24T22:08:37Z', 'closed_at': '2012-09-25T16:18:08Z', 'labels': []}
+{'issuenumber': 148, 'title': 'Need local images folder', 'state': 'closed', 'created_at': '2012-09-21T23:22:44Z', 'closed_at': '2012-09-28T01:47:19Z', 'labels': []}
+{'issuenumber': 147, 'title': 'Preview slide is too small', 'state': 'closed', 'created_at': '2012-09-21T22:41:07Z', 'closed_at': '2012-09-28T04:23:39Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 146, 'title': 'Markdown fails with pseudo-HTML-looking code blocks', 'state': 'closed', 'created_at': '2012-09-21T22:36:32Z', 'closed_at': '2012-10-08T13:15:47Z', 'labels': {'name': 'question'}}
+{'issuenumber': 145, 'title': 'Add config option for disabling overview mode', 'state': 'closed', 'created_at': '2012-09-19T13:31:03Z', 'closed_at': '2012-09-21T12:58:25Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 144, 'title': "pause mode in presentation for keys 'b' and 'period'", 'state': 'closed', 'created_at': '2012-09-18T21:38:28Z', 'closed_at': '2012-10-08T04:08:53Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 143, 'title': 'swiping does not work on Android', 'state': 'closed', 'created_at': '2012-09-18T15:06:06Z', 'closed_at': '2012-10-04T14:26:09Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 140, 'title': 'Speaker notes not working on remote server', 'state': 'closed', 'created_at': '2012-09-11T16:42:36Z', 'closed_at': '2012-09-11T20:57:46Z', 'labels': []}
+{'issuenumber': 139, 'title': 'CSS Transform3d Animation shakey in Firefox 14.01', 'state': 'closed', 'created_at': '2012-09-11T14:03:06Z', 'closed_at': '2012-09-12T13:55:49Z', 'labels': []}
+{'issuenumber': 138, 'title': 'Problem with vertical alignment in a table row with rowspan', 'state': 'closed', 'created_at': '2012-09-11T01:15:20Z', 'closed_at': '2012-09-27T14:24:49Z', 'labels': []}
+{'issuenumber': 137, 'title': 'Use CSS borders to create control arrows instead of unicode', 'state': 'closed', 'created_at': '2012-09-11T00:56:46Z', 'closed_at': '2012-10-23T03:16:21Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 134, 'title': 'Create a GitHub organization for reveal.js?', 'state': 'closed', 'created_at': '2012-09-07T07:22:04Z', 'closed_at': '2012-09-10T22:39:40Z', 'labels': []}
+{'issuenumber': 133, 'title': 'Images on slides causing a black box', 'state': 'closed', 'created_at': '2012-09-03T18:55:48Z', 'closed_at': '2012-09-04T14:34:05Z', 'labels': []}
+{'issuenumber': 130, 'title': 'starting presentation', 'state': 'closed', 'created_at': '2012-08-29T20:32:25Z', 'closed_at': '2012-08-31T19:02:58Z', 'labels': []}
+{'issuenumber': 129, 'title': 'spacing between sessions', 'state': 'closed', 'created_at': '2012-08-29T17:39:08Z', 'closed_at': '2012-08-31T20:34:36Z', 'labels': []}
+{'issuenumber': 128, 'title': 'weird offset  on slides and font warnings', 'state': 'closed', 'created_at': '2012-08-25T21:39:33Z', 'closed_at': '2012-09-27T14:26:41Z', 'labels': []}
+{'issuenumber': 127, 'title': 'Include font as part of theme', 'state': 'closed', 'created_at': '2012-08-22T20:03:54Z', 'closed_at': '2012-08-24T03:13:28Z', 'labels': []}
+{'issuenumber': 125, 'title': 'Scroll wheel and PageDown inconsistent with DownArrow on last vertical slide', 'state': 'closed', 'created_at': '2012-08-16T23:45:15Z', 'closed_at': '2012-08-17T03:43:47Z', 'labels': []}
+{'issuenumber': 124, 'title': 'Progress bar is too slim by default', 'state': 'closed', 'created_at': '2012-08-16T22:57:42Z', 'closed_at': '2012-08-17T03:12:25Z', 'labels': []}
+{'issuenumber': 123, 'title': 'Add test suite', 'state': 'closed', 'created_at': '2012-08-16T22:56:01Z', 'closed_at': '2013-08-23T00:33:30Z', 'labels': []}
+{'issuenumber': 122, 'title': 'Overview mode: vertical navigation', 'state': 'closed', 'created_at': '2012-08-16T07:09:14Z', 'closed_at': '2012-08-17T04:40:18Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 119, 'title': "Left and right navigation arrows show as Unicode '?' on Android", 'state': 'closed', 'created_at': '2012-08-15T03:02:27Z', 'closed_at': '2012-08-17T03:07:57Z', 'labels': []}
+{'issuenumber': 118, 'title': 'question about scrolling', 'state': 'closed', 'created_at': '2012-08-15T01:17:35Z', 'closed_at': '2012-08-15T01:58:30Z', 'labels': {'name': 'question'}}
+{'issuenumber': 116, 'title': 'List item bullets can get pushed out to the left of the section', 'state': 'closed', 'created_at': '2012-08-14T02:59:49Z', 'closed_at': '2012-08-15T00:54:24Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 113, 'title': 'How can a set of slides be made a "grandchildren siblings" sequence?', 'state': 'closed', 'created_at': '2012-08-13T20:00:29Z', 'closed_at': '2012-08-15T00:20:44Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 112, 'title': '[Not a bug] Promote Reveal.JS on alternativeto.net', 'state': 'closed', 'created_at': '2012-08-13T19:55:38Z', 'closed_at': '2012-09-10T02:21:56Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 111, 'title': 'Forum / discussion board?', 'state': 'closed', 'created_at': '2012-08-13T09:27:38Z', 'closed_at': '2012-08-13T14:24:53Z', 'labels': []}
+{'issuenumber': 105, 'title': 'Update current master target (1.5) to be 2.0', 'state': 'closed', 'created_at': '2012-08-08T05:36:36Z', 'closed_at': '2012-08-12T21:35:11Z', 'labels': []}
+{'issuenumber': 104, 'title': 'Separated files for theming', 'state': 'closed', 'created_at': '2012-08-07T14:42:30Z', 'closed_at': '2012-08-08T05:14:23Z', 'labels': []}
+{'issuenumber': 102, 'title': "config.keyboard doesn't actually work", 'state': 'closed', 'created_at': '2012-08-06T18:11:49Z', 'closed_at': '2012-08-06T18:15:42Z', 'labels': []}
+{'issuenumber': 95, 'title': 'IE10 hates 3D links', 'state': 'closed', 'created_at': '2012-08-02T17:45:02Z', 'closed_at': '2012-08-04T02:41:44Z', 'labels': []}
+{'issuenumber': 94, 'title': 'Overview mode is laggy', 'state': 'closed', 'created_at': '2012-08-02T17:42:02Z', 'closed_at': '2012-09-28T13:04:29Z', 'labels': []}
+{'issuenumber': 92, 'title': 'Experiment with PDF export', 'state': 'closed', 'created_at': '2012-08-02T00:27:48Z', 'closed_at': '2012-08-04T19:45:17Z', 'labels': []}
+{'issuenumber': 91, 'title': 'slideshow within the slide', 'state': 'closed', 'created_at': '2012-07-28T22:13:00Z', 'closed_at': '2012-07-30T04:44:49Z', 'labels': []}
+{'issuenumber': 90, 'title': "reveal.js:62 Cannot read property 'style' of null", 'state': 'closed', 'created_at': '2012-07-26T13:31:34Z', 'closed_at': '2012-07-26T14:18:41Z', 'labels': []}
+{'issuenumber': 89, 'title': 'Overview Spacing Bug', 'state': 'closed', 'created_at': '2012-07-23T14:55:49Z', 'closed_at': '2012-08-04T22:16:48Z', 'labels': []}
+{'issuenumber': 88, 'title': 'Overview Slide Highlighting', 'state': 'closed', 'created_at': '2012-07-23T14:44:10Z', 'closed_at': '2012-07-27T03:22:20Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 87, 'title': 'Background Turn White in Overview', 'state': 'closed', 'created_at': '2012-07-23T13:35:45Z', 'closed_at': '2012-07-23T14:45:41Z', 'labels': []}
+{'issuenumber': 86, 'title': 'Overview mid-mouse-button issue', 'state': 'closed', 'created_at': '2012-07-20T16:21:28Z', 'closed_at': '2012-08-15T00:46:59Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 84, 'title': 'Disable shortcut handling in configuration', 'state': 'closed', 'created_at': '2012-07-19T21:35:46Z', 'closed_at': '2012-07-21T02:20:37Z', 'labels': []}
+{'issuenumber': 82, 'title': "Superscript and subscript don't work", 'state': 'closed', 'created_at': '2012-07-16T17:56:10Z', 'closed_at': '2012-07-19T01:27:18Z', 'labels': []}
+{'issuenumber': 81, 'title': 'slidechanged event not working while indexh == 0', 'state': 'closed', 'created_at': '2012-07-16T15:55:24Z', 'closed_at': '2012-07-20T15:58:04Z', 'labels': []}
+{'issuenumber': 78, 'title': 'Should update Markup example in README to reflect "Main #reveal container is now selected via a class instead of ID"', 'state': 'closed', 'created_at': '2012-07-15T20:21:35Z', 'closed_at': '2012-07-15T22:31:41Z', 'labels': []}
+{'issuenumber': 77, 'title': 'HTML5 video fullscreen bug', 'state': 'closed', 'created_at': '2012-07-10T11:08:47Z', 'closed_at': '2012-08-21T01:24:31Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 76, 'title': 'Lack of some useful events', 'state': 'closed', 'created_at': '2012-07-10T09:54:59Z', 'closed_at': '2013-01-29T20:13:29Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 74, 'title': 'reveal.js to PDF', 'state': 'closed', 'created_at': '2012-07-04T14:01:05Z', 'closed_at': '2012-07-04T17:38:11Z', 'labels': []}
+{'issuenumber': 73, 'title': 'Updates to allow for plugins', 'state': 'closed', 'created_at': '2012-06-28T14:52:00Z', 'closed_at': '2012-07-27T02:54:41Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 71, 'title': 'Cant put states on fragments', 'state': 'closed', 'created_at': '2012-06-19T15:34:38Z', 'closed_at': '2012-09-10T02:24:41Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 70, 'title': 'Allows slides to be vertically centered', 'state': 'closed', 'created_at': '2012-06-19T10:46:44Z', 'closed_at': '2012-11-10T21:45:39Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 67, 'title': 'Page Transition Problem in Chrome', 'state': 'closed', 'created_at': '2012-06-17T14:25:28Z', 'closed_at': '2012-07-10T01:47:39Z', 'labels': []}
+{'issuenumber': 66, 'title': 'The controls are broken with the latests update', 'state': 'closed', 'created_at': '2012-06-14T21:06:04Z', 'closed_at': '2012-06-18T19:22:41Z', 'labels': []}
+{'issuenumber': 64, 'title': "Printing doesn't work with linear transition style", 'state': 'closed', 'created_at': '2012-06-14T15:04:40Z', 'closed_at': '2012-06-18T19:21:56Z', 'labels': []}
+{'issuenumber': 62, 'title': 'A default for table', 'state': 'closed', 'created_at': '2012-06-12T11:28:37Z', 'closed_at': '2012-06-13T14:17:35Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 60, 'title': 'Code samples cannot be read on projector', 'state': 'closed', 'created_at': '2012-06-11T19:00:59Z', 'closed_at': '2012-07-10T01:48:47Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 59, 'title': 'Auto start slideshow', 'state': 'closed', 'created_at': '2012-06-11T11:47:39Z', 'closed_at': '2012-07-15T23:23:17Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 55, 'title': 'named internal links?', 'state': 'closed', 'created_at': '2012-06-06T17:04:03Z', 'closed_at': '2012-08-21T02:13:06Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 54, 'title': 'slidechange fires twice', 'state': 'closed', 'created_at': '2012-06-06T10:30:41Z', 'closed_at': '2012-06-07T02:46:25Z', 'labels': []}
+{'issuenumber': 52, 'title': 'page numbers (both horiz and vert)', 'state': 'closed', 'created_at': '2012-06-04T16:51:05Z', 'closed_at': '2012-06-11T17:17:42Z', 'labels': []}
+{'issuenumber': 51, 'title': '#reveal still used in index.html', 'state': 'closed', 'created_at': '2012-06-03T21:07:44Z', 'closed_at': '2012-06-03T21:30:43Z', 'labels': []}
+{'issuenumber': 50, 'title': 'New example presentation ', 'state': 'closed', 'created_at': '2012-06-03T01:02:18Z', 'closed_at': '2012-06-03T02:37:33Z', 'labels': []}
+{'issuenumber': 49, 'title': 'Support for smaller screens', 'state': 'closed', 'created_at': '2012-06-01T21:40:51Z', 'closed_at': '2012-08-04T17:54:21Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 47, 'title': 'nested lists are unstyled', 'state': 'closed', 'created_at': '2012-05-31T06:51:53Z', 'closed_at': '2012-06-01T00:53:38Z', 'labels': []}
+{'issuenumber': 46, 'title': 'change selector specificity of styles', 'state': 'closed', 'created_at': '2012-05-31T05:33:30Z', 'closed_at': '2012-06-02T22:33:16Z', 'labels': []}
+{'issuenumber': 45, 'title': 'IE10 lower nested slides are visible', 'state': 'closed', 'created_at': '2012-05-30T21:44:49Z', 'closed_at': '2012-07-24T05:28:44Z', 'labels': []}
+{'issuenumber': 44, 'title': 'event for fragment change', 'state': 'closed', 'created_at': '2012-05-30T20:09:28Z', 'closed_at': '2012-06-01T01:31:32Z', 'labels': []}
+{'issuenumber': 43, 'title': 'Printing?', 'state': 'closed', 'created_at': '2012-05-30T12:57:00Z', 'closed_at': '2012-05-30T15:30:33Z', 'labels': []}
+{'issuenumber': 40, 'title': 'scaling up', 'state': 'closed', 'created_at': '2012-05-14T18:19:11Z', 'closed_at': '2012-05-30T12:55:10Z', 'labels': []}
+{'issuenumber': 39, 'title': 'Change the style transition between two slides?', 'state': 'closed', 'created_at': '2012-05-10T09:39:12Z', 'closed_at': '2013-03-31T03:37:27Z', 'labels': []}
+{'issuenumber': 38, 'title': "Nested lists don't render very well any more", 'state': 'closed', 'created_at': '2012-05-10T04:41:15Z', 'closed_at': '2012-05-10T05:52:17Z', 'labels': []}
+{'issuenumber': 33, 'title': 'Endless Loop', 'state': 'closed', 'created_at': '2012-04-27T10:15:31Z', 'closed_at': '2012-04-28T16:17:54Z', 'labels': []}
+{'issuenumber': 31, 'title': 'GUI Editor', 'state': 'closed', 'created_at': '2012-04-16T21:36:40Z', 'closed_at': '2012-09-10T02:01:43Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 30, 'title': 'Slide Overview should show hidden segments', 'state': 'closed', 'created_at': '2012-04-16T21:34:00Z', 'closed_at': '2012-04-25T23:23:20Z', 'labels': []}
+{'issuenumber': 28, 'title': 'External Navigation / transitionToSlide()', 'state': 'closed', 'created_at': '2012-04-03T03:37:45Z', 'closed_at': '2012-04-04T03:32:51Z', 'labels': []}
+{'issuenumber': 26, 'title': 'Trigger custom JS on a per slide basis', 'state': 'closed', 'created_at': '2012-03-29T18:26:54Z', 'closed_at': '2012-04-04T04:27:23Z', 'labels': []}
+{'issuenumber': 24, 'title': 'Conflict with Shadowbox', 'state': 'closed', 'created_at': '2012-03-23T23:50:33Z', 'closed_at': '2012-06-13T13:54:12Z', 'labels': []}
+{'issuenumber': 23, 'title': 'class getting overwritten for #reveal sections', 'state': 'closed', 'created_at': '2012-03-20T19:04:09Z', 'closed_at': '2012-03-24T16:27:31Z', 'labels': []}
+{'issuenumber': 22, 'title': "When history is enabled the animation isn't smoot in chrome", 'state': 'closed', 'created_at': '2012-03-19T23:03:55Z', 'closed_at': '2012-03-24T16:36:38Z', 'labels': []}
+{'issuenumber': 19, 'title': 'Print styles', 'state': 'closed', 'created_at': '2012-03-07T02:20:51Z', 'closed_at': '2012-05-05T15:51:18Z', 'labels': []}
+{'issuenumber': 18, 'title': 'Include zoom.js to enlarge images and code samples', 'state': 'closed', 'created_at': '2012-03-05T21:47:57Z', 'closed_at': '2012-07-21T02:58:48Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 17, 'title': "Mobile view don't hide bar address", 'state': 'closed', 'created_at': '2012-03-04T17:18:22Z', 'closed_at': '2012-05-07T02:07:21Z', 'labels': []}
+{'issuenumber': 16, 'title': 'Content overflowing', 'state': 'closed', 'created_at': '2012-03-04T01:51:16Z', 'closed_at': '2012-09-28T13:11:22Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 15, 'title': 'data-markdown', 'state': 'closed', 'created_at': '2012-03-02T17:06:03Z', 'closed_at': '2012-07-31T05:49:50Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 14, 'title': 'Strange blocks of black/blue appearing in Chrome dev edition', 'state': 'closed', 'created_at': '2012-02-01T18:23:45Z', 'closed_at': '2012-02-05T15:54:40Z', 'labels': []}
+{'issuenumber': 12, 'title': 'Fragments on vertical slides are broken', 'state': 'closed', 'created_at': '2012-01-12T07:49:19Z', 'closed_at': '2012-02-06T22:29:28Z', 'labels': []}
+{'issuenumber': 11, 'title': 'hover effect messes up linked images', 'state': 'closed', 'created_at': '2012-01-08T01:26:33Z', 'closed_at': '2012-01-15T01:56:17Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 10, 'title': 'Thnx!', 'state': 'closed', 'created_at': '2012-01-04T09:04:34Z', 'closed_at': '2012-01-04T09:04:46Z', 'labels': []}
+{'issuenumber': 9, 'title': "Drop usage of 'classList' to lower iOS barrier to 3.2+", 'state': 'closed', 'created_at': '2011-12-27T01:16:45Z', 'closed_at': '2012-01-15T02:42:54Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 8, 'title': 'Box transition is not smooth on iOS', 'state': 'closed', 'created_at': '2011-12-27T01:15:23Z', 'closed_at': '2012-07-10T01:40:04Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 7, 'title': 'Build slide overview', 'state': 'closed', 'created_at': '2011-12-22T08:25:00Z', 'closed_at': '2011-12-25T00:05:25Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 6, 'title': 'Replace <progress> bar with div', 'state': 'closed', 'created_at': '2011-12-22T08:20:08Z', 'closed_at': '2011-12-23T05:25:20Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 4, 'title': 'Fragments in subsections', 'state': 'closed', 'created_at': '2011-12-16T10:12:24Z', 'closed_at': '2011-12-17T20:55:32Z', 'labels': []}
+{'issuenumber': 3, 'title': 'Glitch in 3D transitions on Windows 7 Chrome', 'state': 'closed', 'created_at': '2011-12-06T17:25:32Z', 'closed_at': '2012-03-01T15:23:08Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 2, 'title': 'Going up/down in vertical slides causes a scrollbar to appear for a split second', 'state': 'closed', 'created_at': '2011-12-05T08:54:12Z', 'closed_at': '2011-12-05T09:00:59Z', 'labels': []}

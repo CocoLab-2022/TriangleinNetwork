@@ -1,0 +1,185 @@
+{'issuenumber': 242, 'title': '#count, :match_all => true causing ActiveRecord::StatementInvalid on Postgres', 'state': 'closed', 'created_at': '2012-03-26T14:53:12Z', 'closed_at': '2012-07-09T05:09:32Z', 'labels': []}
+{'issuenumber': 239, 'title': 'ActiveRecord::StatementInvalid using "find_related_#{tag_type}"', 'state': 'closed', 'created_at': '2012-03-14T14:13:35Z', 'closed_at': '2014-11-17T15:54:53Z', 'labels': []}
+{'issuenumber': 238, 'title': 'Cant save tags with umlauts.', 'state': 'closed', 'created_at': '2012-03-12T21:06:04Z', 'closed_at': '2014-03-29T10:21:43Z', 'labels': {'name': 'encodings'}}
+{'issuenumber': 237, 'title': 'column "tags_count" does not exist', 'state': 'closed', 'created_at': '2012-03-07T14:19:02Z', 'closed_at': '2019-08-30T14:18:11Z', 'labels': {'name': 'sql'}}
+{'issuenumber': 234, 'title': 'What is the latest version of acts-as-taggable-on that is good to use with Rails 2.3.x?', 'state': 'closed', 'created_at': '2012-02-19T23:29:59Z', 'closed_at': '2012-02-20T05:37:40Z', 'labels': []}
+{'issuenumber': 231, 'title': 'Caching broken?', 'state': 'closed', 'created_at': '2012-02-11T23:46:13Z', 'closed_at': '2013-05-15T20:51:43Z', 'labels': {'name': 'bug!!'}}
+{'issuenumber': 229, 'title': 'Not saving tags in Rails 3.2', 'state': 'closed', 'created_at': '2012-02-07T19:51:31Z', 'closed_at': '2014-01-29T19:22:29Z', 'labels': []}
+{'issuenumber': 228, 'title': 'ActAsTaggableOn in mongodb and rails 3', 'state': 'closed', 'created_at': '2012-02-06T15:06:37Z', 'closed_at': '2012-02-20T06:46:00Z', 'labels': []}
+{'issuenumber': 225, 'title': "resource.tag_list.remove('name') doesn't work", 'state': 'closed', 'created_at': '2012-01-27T19:01:04Z', 'closed_at': '2012-01-27T19:08:53Z', 'labels': []}
+{'issuenumber': 222, 'title': 'Unreleased changes', 'state': 'closed', 'created_at': '2012-01-23T17:53:29Z', 'closed_at': '2012-01-23T22:24:51Z', 'labels': []}
+{'issuenumber': 220, 'title': 'Tag ownership and STI', 'state': 'closed', 'created_at': '2012-01-17T15:31:25Z', 'closed_at': '2013-04-24T21:13:13Z', 'labels': {'name': 'bug!!'}}
+{'issuenumber': 219, 'title': 'NoMethodError when configuring with initializer file', 'state': 'closed', 'created_at': '2012-01-13T16:55:36Z', 'closed_at': '2012-01-13T18:12:22Z', 'labels': []}
+{'issuenumber': 218, 'title': 'Tags should carry the context, not taggings', 'state': 'closed', 'created_at': '2012-01-09T17:18:24Z', 'closed_at': '2013-04-14T21:20:11Z', 'labels': []}
+{'issuenumber': 217, 'title': "Got error while including 'acts_as_taggable' in the model", 'state': 'closed', 'created_at': '2012-01-02T12:47:48Z', 'closed_at': '2012-01-06T14:12:28Z', 'labels': []}
+{'issuenumber': 216, 'title': 'Need option to prevent or strip period character from new tag', 'state': 'closed', 'created_at': '2011-12-31T04:11:14Z', 'closed_at': '2012-01-07T20:39:50Z', 'labels': []}
+{'issuenumber': 214, 'title': 'Problem with URL redirection after installing with github', 'state': 'closed', 'created_at': '2011-12-29T03:53:53Z', 'closed_at': '2011-12-29T08:10:47Z', 'labels': []}
+{'issuenumber': 213, 'title': 'Feature request: Work with tags independent of a model', 'state': 'closed', 'created_at': '2011-12-28T08:23:28Z', 'closed_at': '2012-01-07T20:40:59Z', 'labels': []}
+{'issuenumber': 210, 'title': 'Rails 3.2rc1 and loading', 'state': 'closed', 'created_at': '2011-12-20T15:15:41Z', 'closed_at': '2013-04-14T21:15:15Z', 'labels': []}
+{'issuenumber': 209, 'title': 'Rails 3.2 incompatible', 'state': 'closed', 'created_at': '2011-12-20T08:12:45Z', 'closed_at': '2011-12-20T08:16:30Z', 'labels': []}
+{'issuenumber': 208, 'title': 'Using ownership .tag() method causes unwanted save on object being tagged.', 'state': 'closed', 'created_at': '2011-12-13T00:30:34Z', 'closed_at': '2012-01-07T20:29:04Z', 'labels': []}
+{'issuenumber': 207, 'title': "acts-as-taggable-on don't clear taggins when used `tag_list=nil`", 'state': 'closed', 'created_at': '2011-12-05T17:41:44Z', 'closed_at': '2012-01-06T13:59:38Z', 'labels': []}
+{'issuenumber': 206, 'title': 'Multiple tags with the same name are being created', 'state': 'closed', 'created_at': '2011-12-04T07:07:48Z', 'closed_at': '2012-01-06T14:23:47Z', 'labels': []}
+{'issuenumber': 205, 'title': 'Oracle OCIError: ORA-00972: identifier is too long', 'state': 'closed', 'created_at': '2011-11-28T14:38:09Z', 'closed_at': '2011-12-18T12:19:02Z', 'labels': []}
+{'issuenumber': 204, 'title': 'case sensitive problems for non-latin tags', 'state': 'closed', 'created_at': '2011-11-27T16:44:55Z', 'closed_at': '2012-01-19T20:13:08Z', 'labels': []}
+{'issuenumber': 201, 'title': 'acts-as-taggable-on and to_json bug', 'state': 'closed', 'created_at': '2011-11-15T08:26:45Z', 'closed_at': '2011-11-15T08:34:52Z', 'labels': []}
+{'issuenumber': 200, 'title': 'all_tag_counts sql not compatible with oracle (ORA-00905) missing keyword error', 'state': 'closed', 'created_at': '2011-10-28T18:33:58Z', 'closed_at': '2012-01-06T13:52:40Z', 'labels': []}
+{'issuenumber': 199, 'title': 'Accessing .tags before save breaks expected behavior', 'state': 'closed', 'created_at': '2011-10-26T18:56:58Z', 'closed_at': '2012-01-06T14:14:44Z', 'labels': []}
+{'issuenumber': 198, 'title': 'tagged_with empty should return everything, not nothing', 'state': 'closed', 'created_at': '2011-10-21T00:29:30Z', 'closed_at': '2011-12-09T00:09:44Z', 'labels': []}
+{'issuenumber': 197, 'title': 'Random search', 'state': 'closed', 'created_at': '2011-10-17T20:28:38Z', 'closed_at': '2012-01-06T13:53:57Z', 'labels': []}
+{'issuenumber': 192, 'title': 'Use Railties for initializing plugin', 'state': 'closed', 'created_at': '2011-09-28T11:00:47Z', 'closed_at': '2013-12-26T23:11:50Z', 'labels': {'name': 'heroku'}}
+{'issuenumber': 191, 'title': 'tagged_with chokes on empty array', 'state': 'closed', 'created_at': '2011-09-21T14:37:24Z', 'closed_at': '2011-12-18T11:52:49Z', 'labels': []}
+{'issuenumber': 190, 'title': '`joins` generates invalid SQL', 'state': 'closed', 'created_at': '2011-09-15T09:48:53Z', 'closed_at': '2011-09-26T11:13:33Z', 'labels': []}
+{'issuenumber': 188, 'title': 'Double Join on tags results in wrong SQL', 'state': 'closed', 'created_at': '2011-09-13T11:39:40Z', 'closed_at': '2011-09-26T11:13:49Z', 'labels': []}
+{'issuenumber': 187, 'title': "Mysql2::Error: Unknown column 'tags.id' in 'on clause' when using joins()", 'state': 'closed', 'created_at': '2011-09-07T08:14:01Z', 'closed_at': '2011-12-08T23:26:15Z', 'labels': []}
+{'issuenumber': 186, 'title': 'Routing error', 'state': 'closed', 'created_at': '2011-09-04T08:04:58Z', 'closed_at': '2011-09-18T14:55:15Z', 'labels': []}
+{'issuenumber': 185, 'title': 'Tag_Counts not acting as advertised', 'state': 'closed', 'created_at': '2011-08-29T20:09:02Z', 'closed_at': '2011-12-18T13:54:25Z', 'labels': []}
+{'issuenumber': 184, 'title': 'find_or_create_with_like_by_name incorrectly uses wildcard search', 'state': 'closed', 'created_at': '2011-08-26T13:42:10Z', 'closed_at': '2011-12-18T13:01:23Z', 'labels': []}
+{'issuenumber': 183, 'title': 'Fix failing spec & remove stray comments', 'state': 'closed', 'created_at': '2011-08-23T18:22:02Z', 'closed_at': '2011-09-26T12:21:50Z', 'labels': []}
+{'issuenumber': 182, 'title': "tag_counts isn't working as advertised", 'state': 'closed', 'created_at': '2011-08-22T14:30:04Z', 'closed_at': '2011-08-29T09:14:05Z', 'labels': []}
+{'issuenumber': 181, 'title': 'next_migration_number: uninitialized constant ActiveRecord::Generators', 'state': 'closed', 'created_at': '2011-08-22T04:13:14Z', 'closed_at': '2011-08-22T07:25:24Z', 'labels': []}
+{'issuenumber': 179, 'title': 'Tagging cache fails for context that ends with "s" when singular (ex. status)', 'state': 'closed', 'created_at': '2011-08-21T01:16:28Z', 'closed_at': '2011-08-23T15:14:51Z', 'labels': []}
+{'issuenumber': 177, 'title': 'Deprecation Warning on Rails 3.1', 'state': 'closed', 'created_at': '2011-08-18T07:18:55Z', 'closed_at': '2011-08-19T14:09:18Z', 'labels': []}
+{'issuenumber': 176, 'title': 'order by taggings.id', 'state': 'closed', 'created_at': '2011-08-12T17:08:24Z', 'closed_at': '2011-12-18T12:02:19Z', 'labels': []}
+{'issuenumber': 172, 'title': 'Using TokenInput for autocompletion', 'state': 'closed', 'created_at': '2011-07-17T07:12:31Z', 'closed_at': '2011-12-18T11:51:08Z', 'labels': []}
+{'issuenumber': 170, 'title': 'ambiguous column name when using chained scopes with :any and :on', 'state': 'closed', 'created_at': '2011-07-11T20:02:38Z', 'closed_at': '2011-07-30T07:42:23Z', 'labels': []}
+{'issuenumber': 169, 'title': 'Unlovely behaviour with set_table_name', 'state': 'closed', 'created_at': '2011-07-11T14:21:41Z', 'closed_at': '2012-01-06T13:51:35Z', 'labels': []}
+{'issuenumber': 168, 'title': 'Using tags at nested models', 'state': 'closed', 'created_at': '2011-07-05T00:08:18Z', 'closed_at': '2012-01-08T21:29:46Z', 'labels': []}
+{'issuenumber': 166, 'title': 'undefined method `each\' for "[]":String', 'state': 'closed', 'created_at': '2011-07-01T05:46:42Z', 'closed_at': '2011-08-07T19:28:54Z', 'labels': []}
+{'issuenumber': 163, 'title': '#tagged_with_ids when tag ids are known', 'state': 'closed', 'created_at': '2011-06-17T11:54:51Z', 'closed_at': '2012-02-20T06:46:22Z', 'labels': []}
+{'issuenumber': 162, 'title': 'Similar (unicode) tags error', 'state': 'closed', 'created_at': '2011-06-16T11:42:01Z', 'closed_at': '2012-01-08T21:01:56Z', 'labels': []}
+{'issuenumber': 161, 'title': 'find_related_* breaks ActiveRecord Relation Chaining', 'state': 'closed', 'created_at': '2011-06-13T17:30:20Z', 'closed_at': '2011-12-18T10:28:57Z', 'labels': []}
+{'issuenumber': 159, 'title': 'Tag Caching + Heroku/Postgres = error', 'state': 'closed', 'created_at': '2011-05-31T01:12:15Z', 'closed_at': '2011-12-18T13:16:10Z', 'labels': []}
+{'issuenumber': 158, 'title': 'Exception with Rails 3.0.8rc2', 'state': 'closed', 'created_at': '2011-05-29T08:28:07Z', 'closed_at': '2011-05-29T11:10:05Z', 'labels': []}
+{'issuenumber': 155, 'title': 'Feature Request - Desired Tags', 'state': 'closed', 'created_at': '2011-05-15T00:02:08Z', 'closed_at': '2012-01-08T20:42:09Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 152, 'title': 'RAILS 3.1.x | DEPRECATION WARNING: class_inheritable_attribute is deprecated, please use class_attribute method', 'state': 'closed', 'created_at': '2011-05-06T22:19:50Z', 'closed_at': '2011-07-30T07:29:59Z', 'labels': []}
+{'issuenumber': 151, 'title': 'Advanced search (and/or)', 'state': 'closed', 'created_at': '2011-05-03T09:23:49Z', 'closed_at': '2011-12-09T08:40:17Z', 'labels': []}
+{'issuenumber': 150, 'title': 'How to delete unused tags', 'state': 'closed', 'created_at': '2011-05-01T12:58:29Z', 'closed_at': '2011-12-18T09:39:04Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 149, 'title': 'Tagging Ownership Issue?', 'state': 'closed', 'created_at': '2011-05-01T02:59:30Z', 'closed_at': '2011-05-03T14:00:27Z', 'labels': []}
+{'issuenumber': 148, 'title': 'How can I limit the number of tags for a model?', 'state': 'closed', 'created_at': '2011-04-29T15:11:07Z', 'closed_at': '2011-09-26T13:53:57Z', 'labels': []}
+{'issuenumber': 147, 'title': 'acts_as_taggable_on conflicting with after_save callback', 'state': 'closed', 'created_at': '2011-04-27T10:04:19Z', 'closed_at': '2011-07-30T19:00:07Z', 'labels': []}
+{'issuenumber': 146, 'title': 'Find related keywords on multiple taggable types', 'state': 'closed', 'created_at': '2011-04-26T17:25:14Z', 'closed_at': '2011-04-26T17:42:35Z', 'labels': []}
+{'issuenumber': 145, 'title': 'Recent rails change causes sql error in a_new_record.tag_list', 'state': 'closed', 'created_at': '2011-04-25T22:31:43Z', 'closed_at': '2011-09-26T12:32:47Z', 'labels': []}
+{'issuenumber': 144, 'title': 'How would you patch to make taggings appear to preserve order?', 'state': 'closed', 'created_at': '2011-04-20T14:57:53Z', 'closed_at': '2011-12-18T11:41:28Z', 'labels': []}
+{'issuenumber': 143, 'title': 'Slugizer?', 'state': 'closed', 'created_at': '2011-04-20T12:48:33Z', 'closed_at': '2011-04-20T15:35:50Z', 'labels': []}
+{'issuenumber': 139, 'title': 'find_related_tags scope fails whenever Rails 3 calls COUNT', 'state': 'closed', 'created_at': '2011-03-31T15:08:41Z', 'closed_at': '2011-12-18T11:49:58Z', 'labels': []}
+{'issuenumber': 136, 'title': 'uninitialized constant ActiveRecord::VERSION', 'state': 'closed', 'created_at': '2011-03-14T13:22:04Z', 'closed_at': '2011-07-29T13:06:04Z', 'labels': []}
+{'issuenumber': 135, 'title': "'%' tag error", 'state': 'closed', 'created_at': '2011-03-02T13:36:01Z', 'closed_at': '2011-08-01T17:06:12Z', 'labels': []}
+{'issuenumber': 133, 'title': 'tagged_with causes "ORA-00972: identifier is too long"', 'state': 'closed', 'created_at': '2011-02-24T09:24:50Z', 'closed_at': '2011-12-18T11:15:16Z', 'labels': []}
+{'issuenumber': 132, 'title': 'Text Search tags for auto-suggest or auto-complete', 'state': 'closed', 'created_at': '2011-02-14T21:58:31Z', 'closed_at': '2012-01-06T13:50:44Z', 'labels': []}
+{'issuenumber': 129, 'title': 'tag_counts.any? broken in Rails 3', 'state': 'closed', 'created_at': '2011-01-04T15:47:05Z', 'closed_at': '2011-05-17T17:39:20Z', 'labels': []}
+{'issuenumber': 128, 'title': 'tag ownership not working in rails 3', 'state': 'closed', 'created_at': '2010-12-27T09:59:20Z', 'closed_at': '2011-12-18T12:04:20Z', 'labels': []}
+{'issuenumber': 125, 'title': 'Finding all tags?', 'state': 'closed', 'created_at': '2010-12-12T16:21:08Z', 'closed_at': '2011-12-18T12:43:50Z', 'labels': []}
+{'issuenumber': 124, 'title': 'Tags associated to context', 'state': 'closed', 'created_at': '2010-12-03T18:42:28Z', 'closed_at': '2012-01-06T13:49:44Z', 'labels': []}
+{'issuenumber': 123, 'title': 'How to Edit tags in View/Controller', 'state': 'closed', 'created_at': '2010-12-02T16:49:20Z', 'closed_at': '2011-12-18T12:06:04Z', 'labels': []}
+{'issuenumber': 122, 'title': "Doesn't save tag_list when using parent object's create() (works with save() though) (Rails 3/v.2.0.6)", 'state': 'closed', 'created_at': '2010-11-23T18:06:46Z', 'closed_at': '2011-04-27T04:31:27Z', 'labels': []}
+{'issuenumber': 121, 'title': 'Associations out of sync in Rails 3', 'state': 'closed', 'created_at': '2010-11-22T19:19:43Z', 'closed_at': '2011-12-18T13:08:17Z', 'labels': []}
+{'issuenumber': 119, 'title': 'Problem with case sensitivity?', 'state': 'closed', 'created_at': '2010-11-13T14:12:52Z', 'closed_at': '2011-09-26T12:27:38Z', 'labels': []}
+{'issuenumber': 118, 'title': 'Tags are not saved and return empty', 'state': 'closed', 'created_at': '2010-11-08T03:51:39Z', 'closed_at': '2010-11-08T04:31:36Z', 'labels': []}
+{'issuenumber': 117, 'title': 'reopen #90 please', 'state': 'closed', 'created_at': '2010-11-04T22:09:56Z', 'closed_at': '2011-12-18T12:16:07Z', 'labels': []}
+{'issuenumber': 116, 'title': 'Ability to use custom Tag class', 'state': 'closed', 'created_at': '2010-11-02T16:30:52Z', 'closed_at': '2011-12-09T08:13:18Z', 'labels': []}
+{'issuenumber': 115, 'title': 'cache.delete_if that does nothing', 'state': 'closed', 'created_at': '2010-11-01T00:10:35Z', 'closed_at': '2013-04-23T20:01:12Z', 'labels': []}
+{'issuenumber': 114, 'title': 'Renaming columns and table', 'state': 'closed', 'created_at': '2010-10-04T21:28:29Z', 'closed_at': '2011-12-18T13:19:25Z', 'labels': []}
+{'issuenumber': 113, 'title': 'Renaming columns and table', 'state': 'closed', 'created_at': '2010-10-04T21:28:29Z', 'closed_at': '2011-12-18T12:38:19Z', 'labels': []}
+{'issuenumber': 111, 'title': 'Question on setting the tag owner', 'state': 'closed', 'created_at': '2010-09-23T10:49:39Z', 'closed_at': '2011-12-18T13:47:30Z', 'labels': []}
+{'issuenumber': 110, 'title': 'Untitled', 'state': 'closed', 'created_at': '2010-09-21T06:17:24Z', 'closed_at': '2011-12-18T13:19:52Z', 'labels': []}
+{'issuenumber': 107, 'title': ' update owner tags via form', 'state': 'closed', 'created_at': '2010-09-12T21:48:52Z', 'closed_at': '2013-04-24T19:50:23Z', 'labels': []}
+{'issuenumber': 104, 'title': ':match_all => true broken?', 'state': 'closed', 'created_at': '2010-09-02T11:24:43Z', 'closed_at': '2011-12-18T11:32:41Z', 'labels': []}
+{'issuenumber': 102, 'title': 'count method always return 0', 'state': 'closed', 'created_at': '2010-08-30T18:39:10Z', 'closed_at': '2011-08-01T17:15:02Z', 'labels': []}
+{'issuenumber': 101, 'title': 'find_related_tags gives an SQL error w/ rails 3', 'state': 'closed', 'created_at': '2010-08-30T16:27:52Z', 'closed_at': '2011-12-18T13:59:14Z', 'labels': []}
+{'issuenumber': 100, 'title': 'A problem while using single table inheritance.', 'state': 'closed', 'created_at': '2010-08-26T04:29:48Z', 'closed_at': '2011-12-18T13:49:19Z', 'labels': []}
+{'issuenumber': 99, 'title': 'Changing a tag_list behaves more or less erratic', 'state': 'closed', 'created_at': '2010-08-21T07:31:02Z', 'closed_at': '2012-01-06T14:30:45Z', 'labels': []}
+{'issuenumber': 98, 'title': 'Mysql::Error: Specified key was too long; max key length is 1000 bytes', 'state': 'closed', 'created_at': '2010-08-16T10:57:58Z', 'closed_at': '2011-12-18T11:29:13Z', 'labels': []}
+{'issuenumber': 97, 'title': 'Model.tagged_with no conditions', 'state': 'closed', 'created_at': '2010-08-04T03:44:28Z', 'closed_at': '2011-12-18T13:56:24Z', 'labels': []}
+{'issuenumber': 96, 'title': 'Model.tagged_with no limit', 'state': 'closed', 'created_at': '2010-08-04T03:32:58Z', 'closed_at': '2011-12-18T13:58:18Z', 'labels': []}
+{'issuenumber': 95, 'title': 'tag_list is not updated properly in rails 3', 'state': 'closed', 'created_at': '2010-08-03T18:10:28Z', 'closed_at': '2011-12-18T06:41:51Z', 'labels': []}
+{'issuenumber': 94, 'title': 'Memory Leak', 'state': 'closed', 'created_at': '2010-07-21T17:28:26Z', 'closed_at': '2011-12-18T12:05:04Z', 'labels': []}
+{'issuenumber': 92, 'title': 'scoped tags', 'state': 'closed', 'created_at': '2010-06-28T14:04:26Z', 'closed_at': '2011-12-18T09:04:44Z', 'labels': []}
+{'issuenumber': 90, 'title': 'LoadError on Destroy', 'state': 'closed', 'created_at': '2010-06-23T19:16:57Z', 'closed_at': '2010-06-24T02:32:50Z', 'labels': []}
+{'issuenumber': 89, 'title': 'has_tag? asking for an object if it has a concrete tag.', 'state': 'closed', 'created_at': '2010-06-18T15:05:31Z', 'closed_at': '2011-09-26T16:38:41Z', 'labels': []}
+{'issuenumber': 88, 'title': 'Feature Request - Wildcards', 'state': 'closed', 'created_at': '2010-06-16T19:38:34Z', 'closed_at': '2011-12-18T16:30:20Z', 'labels': []}
+{'issuenumber': 87, 'title': ":match_all doesn't work", 'state': 'closed', 'created_at': '2010-06-16T06:48:06Z', 'closed_at': '2010-06-16T14:17:00Z', 'labels': []}
+{'issuenumber': 86, 'title': 'Tag Capitalization', 'state': 'closed', 'created_at': '2010-06-14T02:04:20Z', 'closed_at': '2010-06-14T02:17:04Z', 'labels': []}
+{'issuenumber': 85, 'title': 'Plugin capitalizes some tags', 'state': 'closed', 'created_at': '2010-06-14T01:04:41Z', 'closed_at': '2010-06-14T01:36:26Z', 'labels': []}
+{'issuenumber': 84, 'title': 'Making a slug from the tag name?', 'state': 'closed', 'created_at': '2010-06-13T22:12:49Z', 'closed_at': '2010-06-13T23:53:18Z', 'labels': []}
+{'issuenumber': 83, 'title': 'Slug for tags', 'state': 'closed', 'created_at': '2010-06-07T23:42:37Z', 'closed_at': '2011-12-18T08:58:14Z', 'labels': []}
+{'issuenumber': 82, 'title': 'Unnecessarily show tables calls in development', 'state': 'closed', 'created_at': '2010-06-05T20:25:38Z', 'closed_at': '2010-06-20T20:16:21Z', 'labels': []}
+{'issuenumber': 81, 'title': 'Bundle install from Git sources warns about invalid gemspec', 'state': 'closed', 'created_at': '2010-05-27T14:48:20Z', 'closed_at': '2011-12-09T08:41:24Z', 'labels': []}
+{'issuenumber': 80, 'title': '[PATCH] Feature: Options to force lowercase and parameterize', 'state': 'closed', 'created_at': '2010-05-26T14:16:43Z', 'closed_at': '2012-01-08T20:37:38Z', 'labels': []}
+{'issuenumber': 79, 'title': "Can't save object after modifying tag list with set_tag_list_on", 'state': 'closed', 'created_at': '2010-05-21T18:41:56Z', 'closed_at': '2011-12-18T12:17:03Z', 'labels': []}
+{'issuenumber': 78, 'title': "Feature Request: Tag's Closest Neighbors", 'state': 'closed', 'created_at': '2010-05-21T10:38:57Z', 'closed_at': '2013-04-14T21:08:28Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 77, 'title': 'Tag cloud issue', 'state': 'closed', 'created_at': '2010-05-19T19:11:46Z', 'closed_at': '2010-05-19T20:51:22Z', 'labels': []}
+{'issuenumber': 76, 'title': 'Owned tags do not show up in 2.0.x', 'state': 'closed', 'created_at': '2010-05-19T04:54:24Z', 'closed_at': '2011-12-18T08:34:20Z', 'labels': []}
+{'issuenumber': 75, 'title': 'Missing method: find_tagged_with', 'state': 'closed', 'created_at': '2010-05-19T03:51:24Z', 'closed_at': '2010-05-19T13:38:29Z', 'labels': []}
+{'issuenumber': 74, 'title': 'Support for Nesting, like Categories?', 'state': 'closed', 'created_at': '2010-05-17T01:24:25Z', 'closed_at': '2011-12-18T08:39:32Z', 'labels': []}
+{'issuenumber': 73, 'title': 'PostgreSQL grouping error on #all_tags_on', 'state': 'closed', 'created_at': '2010-05-16T02:21:19Z', 'closed_at': '2010-05-19T19:44:47Z', 'labels': []}
+{'issuenumber': 72, 'title': 'Can\'t do "Tag.all", have to do "ActsAsTaggableOn::Tag.all".  Is there a way around this?', 'state': 'closed', 'created_at': '2010-05-13T05:07:40Z', 'closed_at': '2010-05-13T05:48:41Z', 'labels': []}
+{'issuenumber': 71, 'title': 'Sass compatibility', 'state': 'closed', 'created_at': '2010-05-12T18:07:03Z', 'closed_at': '2011-12-09T08:20:22Z', 'labels': []}
+{'issuenumber': 70, 'title': 'Owner feature', 'state': 'closed', 'created_at': '2010-05-11T13:30:33Z', 'closed_at': '2012-01-06T14:32:50Z', 'labels': []}
+{'issuenumber': 69, 'title': "Object.tags don't return tags from Ownership", 'state': 'closed', 'created_at': '2010-05-11T12:59:57Z', 'closed_at': '2010-05-11T13:03:55Z', 'labels': []}
+{'issuenumber': 68, 'title': 'postgres and AATO', 'state': 'closed', 'created_at': '2010-05-11T07:15:02Z', 'closed_at': '2011-12-09T08:25:06Z', 'labels': []}
+{'issuenumber': 67, 'title': 'confine the TagCloud', 'state': 'closed', 'created_at': '2010-05-09T16:00:43Z', 'closed_at': '2012-01-08T21:32:55Z', 'labels': []}
+{'issuenumber': 65, 'title': 'Rails 3 tag_counts_on MySQL error', 'state': 'closed', 'created_at': '2010-05-06T13:57:51Z', 'closed_at': '2010-05-21T06:14:25Z', 'labels': []}
+{'issuenumber': 64, 'title': 'empty hash when tag = nil / ""', 'state': 'closed', 'created_at': '2010-05-03T13:39:18Z', 'closed_at': '2011-07-30T10:07:52Z', 'labels': []}
+{'issuenumber': 63, 'title': 'count not working with rails 3', 'state': 'closed', 'created_at': '2010-05-03T02:57:16Z', 'closed_at': '2010-05-05T06:00:55Z', 'labels': []}
+{'issuenumber': 62, 'title': '2.0.5 broken with rails 2.3.5', 'state': 'closed', 'created_at': '2010-04-30T21:18:53Z', 'closed_at': '2010-05-01T08:42:37Z', 'labels': []}
+{'issuenumber': 61, 'title': 'TagList.from ignores TagList.delimiter', 'state': 'closed', 'created_at': '2010-04-27T15:55:03Z', 'closed_at': '2010-04-30T08:55:22Z', 'labels': []}
+{'issuenumber': 60, 'title': 'User Skill Counts not outputing counts', 'state': 'closed', 'created_at': '2010-04-27T08:27:21Z', 'closed_at': '2010-04-30T09:01:13Z', 'labels': []}
+{'issuenumber': 59, 'title': 'Rails3 partials and find_related_xxx', 'state': 'closed', 'created_at': '2010-04-21T08:53:50Z', 'closed_at': '2011-12-18T08:31:42Z', 'labels': []}
+{'issuenumber': 58, 'title': 'Limit the number of tags?', 'state': 'closed', 'created_at': '2010-04-20T18:30:28Z', 'closed_at': '2010-04-30T09:02:50Z', 'labels': []}
+{'issuenumber': 57, 'title': 'gem install on windows', 'state': 'closed', 'created_at': '2010-04-19T22:40:16Z', 'closed_at': '2010-04-20T02:26:52Z', 'labels': []}
+{'issuenumber': 56, 'title': 'acts_as_taggable doesnt work with friendly_id!?', 'state': 'closed', 'created_at': '2010-04-17T12:56:21Z', 'closed_at': '2010-05-03T11:50:31Z', 'labels': []}
+{'issuenumber': 55, 'title': 'broken awesome_nested_set after update', 'state': 'closed', 'created_at': '2010-04-17T08:20:45Z', 'closed_at': '2010-04-30T12:25:56Z', 'labels': []}
+{'issuenumber': 54, 'title': 'Tags are insecure', 'state': 'closed', 'created_at': '2010-04-14T01:54:45Z', 'closed_at': '2010-04-30T12:08:02Z', 'labels': []}
+{'issuenumber': 53, 'title': 'Migration fails in Rails 3 beta 2', 'state': 'closed', 'created_at': '2010-04-13T21:57:18Z', 'closed_at': '2010-04-30T09:03:32Z', 'labels': []}
+{'issuenumber': 52, 'title': 'Tagger default IS NULL in has_many association.', 'state': 'closed', 'created_at': '2010-04-12T12:56:53Z', 'closed_at': '2011-12-09T08:15:00Z', 'labels': []}
+{'issuenumber': 51, 'title': 'Owner enhancements.', 'state': 'closed', 'created_at': '2010-04-09T12:13:39Z', 'closed_at': '2012-02-20T06:46:42Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 50, 'title': 'find_related_tags does not exists in 2.0.0', 'state': 'closed', 'created_at': '2010-03-30T13:45:40Z', 'closed_at': '2010-03-30T17:39:48Z', 'labels': []}
+{'issuenumber': 49, 'title': 'find_related_tags does not exists in 2.0.0', 'state': 'closed', 'created_at': '2010-03-30T13:45:40Z', 'closed_at': '2010-03-30T17:39:07Z', 'labels': []}
+{'issuenumber': 48, 'title': 'acts_as_taggable is needed as well', 'state': 'closed', 'created_at': '2010-03-27T10:40:28Z', 'closed_at': '2010-03-28T15:20:47Z', 'labels': []}
+{'issuenumber': 47, 'title': "ActiveRecord::RecordInvalid: Validation failed: Tag can't be blank", 'state': 'closed', 'created_at': '2010-03-21T05:14:17Z', 'closed_at': '2010-04-30T12:25:46Z', 'labels': []}
+{'issuenumber': 46, 'title': 'Tag Ownership does not update <tagtype>_list()', 'state': 'closed', 'created_at': '2010-03-19T06:47:48Z', 'closed_at': '2010-03-22T08:56:09Z', 'labels': []}
+{'issuenumber': 45, 'title': 'How to use will_paginate with find_related_xxx()?', 'state': 'closed', 'created_at': '2010-03-16T13:58:52Z', 'closed_at': '2010-04-30T12:21:39Z', 'labels': []}
+{'issuenumber': 44, 'title': 'Issue with rails 3', 'state': 'closed', 'created_at': '2010-03-15T19:03:21Z', 'closed_at': '2010-03-28T15:21:25Z', 'labels': []}
+{'issuenumber': 43, 'title': 'Requiring bundler breaking Heroku deployment?', 'state': 'closed', 'created_at': '2010-03-10T21:53:32Z', 'closed_at': '2010-03-11T20:46:03Z', 'labels': []}
+{'issuenumber': 42, 'title': 'Conflict with Vestal Versions', 'state': 'closed', 'created_at': '2010-03-04T20:01:03Z', 'closed_at': '2010-04-30T14:29:47Z', 'labels': []}
+{'issuenumber': 41, 'title': 'Cached columns bug (CRITICAL)', 'state': 'closed', 'created_at': '2010-03-04T17:01:58Z', 'closed_at': '2010-03-28T15:20:17Z', 'labels': []}
+{'issuenumber': 40, 'title': 'unicode tag dublicates', 'state': 'closed', 'created_at': '2010-02-24T10:04:53Z', 'closed_at': '2010-03-08T20:20:46Z', 'labels': []}
+{'issuenumber': 39, 'title': 'Rails 3 support', 'state': 'closed', 'created_at': '2010-02-23T17:02:46Z', 'closed_at': '2010-03-08T20:14:49Z', 'labels': []}
+{'issuenumber': 38, 'title': 'Cant edit object with tag', 'state': 'closed', 'created_at': '2010-02-23T07:13:46Z', 'closed_at': '2010-03-08T20:20:55Z', 'labels': []}
+{'issuenumber': 37, 'title': 'STI bug in "save_tags"', 'state': 'closed', 'created_at': '2010-02-22T15:42:30Z', 'closed_at': '2010-02-24T07:25:32Z', 'labels': []}
+{'issuenumber': 36, 'title': 'tagged_with returns no results when tag is similar to others', 'state': 'closed', 'created_at': '2010-02-13T19:00:31Z', 'closed_at': '2010-02-13T19:21:41Z', 'labels': []}
+{'issuenumber': 35, 'title': 'Problem for non comma separated tags', 'state': 'closed', 'created_at': '2010-02-11T14:26:49Z', 'closed_at': '2010-02-13T19:21:59Z', 'labels': []}
+{'issuenumber': 34, 'title': "Don't define models in gem", 'state': 'closed', 'created_at': '2010-02-10T15:55:04Z', 'closed_at': '2010-02-15T11:08:51Z', 'labels': []}
+{'issuenumber': 32, 'title': 'Unknown action  error: worked fine earlier...', 'state': 'closed', 'created_at': '2010-02-06T00:42:21Z', 'closed_at': '2010-02-06T11:58:51Z', 'labels': []}
+{'issuenumber': 31, 'title': 'Tagger ownership only 1 tagger per tag bug', 'state': 'closed', 'created_at': '2010-02-03T16:56:59Z', 'closed_at': '2010-02-06T11:52:12Z', 'labels': []}
+{'issuenumber': 30, 'title': 'tagger ownership', 'state': 'closed', 'created_at': '2010-01-31T07:08:58Z', 'closed_at': '2010-02-03T09:50:41Z', 'labels': []}
+{'issuenumber': 29, 'title': 'TagList.from("...") strips quotations', 'state': 'closed', 'created_at': '2010-01-18T18:45:00Z', 'closed_at': '2010-04-30T12:20:22Z', 'labels': []}
+{'issuenumber': 28, 'title': 'strange find_related* behavior', 'state': 'closed', 'created_at': '2010-01-14T04:46:53Z', 'closed_at': '2011-09-26T13:50:50Z', 'labels': []}
+{'issuenumber': 27, 'title': 'tags_on method inefficient?', 'state': 'closed', 'created_at': '2010-01-14T00:20:03Z', 'closed_at': '2010-03-28T15:22:15Z', 'labels': []}
+{'issuenumber': 26, 'title': 'REQ: score caching', 'state': 'closed', 'created_at': '2010-01-11T15:21:58Z', 'closed_at': '2010-01-11T17:18:48Z', 'labels': []}
+{'issuenumber': 25, 'title': 'Records with only one tag out of a multi-tag search not found', 'state': 'closed', 'created_at': '2010-01-09T23:53:30Z', 'closed_at': '2010-02-06T12:00:38Z', 'labels': []}
+{'issuenumber': 24, 'title': 'tag.count always 1, Taggingsnot saved per User', 'state': 'closed', 'created_at': '2010-01-09T20:45:44Z', 'closed_at': '2010-04-05T14:36:48Z', 'labels': []}
+{'issuenumber': 23, 'title': 'error:  ActiveRecord::UnknownAttributeError (unknown attribute: context):', 'state': 'closed', 'created_at': '2010-01-03T05:43:15Z', 'closed_at': '2010-04-30T12:25:39Z', 'labels': []}
+{'issuenumber': 22, 'title': 'tagged_with of an association returns invalid IDs', 'state': 'closed', 'created_at': '2009-12-28T09:30:04Z', 'closed_at': '2011-10-08T18:32:13Z', 'labels': []}
+{'issuenumber': 21, 'title': 'Incorrectly handles quotation marks', 'state': 'closed', 'created_at': '2009-12-23T09:44:38Z', 'closed_at': '2009-12-25T16:51:32Z', 'labels': []}
+{'issuenumber': 20, 'title': 'tagged_with returns all results when none found', 'state': 'closed', 'created_at': '2009-12-17T23:59:40Z', 'closed_at': '2009-12-18T07:46:47Z', 'labels': []}
+{'issuenumber': 19, 'title': 'friendly_id', 'state': 'closed', 'created_at': '2009-12-16T09:14:16Z', 'closed_at': '2009-12-16T14:21:10Z', 'labels': []}
+{'issuenumber': 18, 'title': 'ArgumentError in has_many eval in Rails 2.3.4', 'state': 'closed', 'created_at': '2009-12-02T23:56:29Z', 'closed_at': '2010-04-30T12:13:34Z', 'labels': []}
+{'issuenumber': 17, 'title': 'acts_as_taggable_on has_many broken in specific case', 'state': 'closed', 'created_at': '2009-11-24T23:56:13Z', 'closed_at': '2010-01-05T19:43:21Z', 'labels': []}
+{'issuenumber': 16, 'title': 'Option to return non-readonly records', 'state': 'closed', 'created_at': '2009-11-20T10:07:22Z', 'closed_at': '2010-01-05T19:49:58Z', 'labels': []}
+{'issuenumber': 15, 'title': "Gem doesn't embed the generator", 'state': 'closed', 'created_at': '2009-11-10T11:27:18Z', 'closed_at': '2009-12-17T13:49:27Z', 'labels': []}
+{'issuenumber': 14, 'title': 'accepts_nested_attributes_for :tag_context ', 'state': 'closed', 'created_at': '2009-10-31T14:51:49Z', 'closed_at': '2009-10-31T19:27:52Z', 'labels': []}
+{'issuenumber': 13, 'title': 'Move to gemcutter.org', 'state': 'closed', 'created_at': '2009-10-30T01:02:44Z', 'closed_at': '2009-10-30T03:29:23Z', 'labels': []}
+{'issuenumber': 12, 'title': '#find_related_??? does not work properly with postgresql', 'state': 'closed', 'created_at': '2009-09-24T14:58:28Z', 'closed_at': '2011-09-26T12:33:38Z', 'labels': []}
+{'issuenumber': 11, 'title': 'Tags count column is missing from migration which breaks count methods', 'state': 'closed', 'created_at': '2009-09-14T21:25:08Z', 'closed_at': '2009-12-18T10:40:37Z', 'labels': []}
+{'issuenumber': 10, 'title': 'missing parentheses around OR conditions', 'state': 'closed', 'created_at': '2009-09-04T13:14:26Z', 'closed_at': '2009-11-12T15:27:54Z', 'labels': []}
+{'issuenumber': 9, 'title': "Chaining tagged_with named scope doesn't work", 'state': 'closed', 'created_at': '2009-07-21T19:26:35Z', 'closed_at': '2009-11-12T15:34:46Z', 'labels': []}
+{'issuenumber': 8, 'title': 'Is the "acts_as_taggable_on: initialized properly" message really needed in the logs?', 'state': 'closed', 'created_at': '2009-06-23T10:33:20Z', 'closed_at': '2009-12-18T10:42:30Z', 'labels': []}
+{'issuenumber': 7, 'title': 'top_#{tag_type} doesnt properly accept limits', 'state': 'closed', 'created_at': '2009-06-16T14:25:19Z', 'closed_at': '2010-04-30T12:13:16Z', 'labels': []}
+{'issuenumber': 6, 'title': ":match_all doesn't play nice with Postgres", 'state': 'closed', 'created_at': '2009-06-11T13:43:45Z', 'closed_at': '2009-12-02T13:21:02Z', 'labels': []}
+{'issuenumber': 5, 'title': 'conditions not working properly', 'state': 'closed', 'created_at': '2009-05-05T10:37:43Z', 'closed_at': '2010-03-28T15:23:22Z', 'labels': []}
+{'issuenumber': 4, 'title': 'another issue in find_options_for_tag_counts', 'state': 'closed', 'created_at': '2009-04-29T17:25:42Z', 'closed_at': '2009-12-18T10:44:06Z', 'labels': []}
+{'issuenumber': 3, 'title': 'Spotted two bugs in acts_as_taggable_on.rb ', 'state': 'closed', 'created_at': '2009-04-28T14:09:24Z', 'closed_at': '2009-11-12T15:16:04Z', 'labels': []}
+{'issuenumber': 2, 'title': 'tagged_with Named Scope Requires Options', 'state': 'closed', 'created_at': '2009-04-27T18:03:14Z', 'closed_at': '2009-11-12T14:52:29Z', 'labels': []}
+{'issuenumber': 1, 'title': 'Support of "dirty" tracking', 'state': 'closed', 'created_at': '2009-04-20T11:58:36Z', 'closed_at': '2012-01-06T14:28:46Z', 'labels': {'name': 'feature'}}

@@ -1,0 +1,255 @@
+{'issuenumber': 511, 'title': 'Tabbing with radio fieldsets', 'state': 'closed', 'created_at': '2017-09-28T15:50:19Z', 'closed_at': '2017-11-06T16:26:57Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 509, 'title': 'Please remove unused dependency react-dom-factories', 'state': 'closed', 'created_at': '2017-09-28T05:35:16Z', 'closed_at': '2017-09-28T22:37:47Z', 'labels': {'name': 'dependencies'}}
+{'issuenumber': 508, 'title': 'Remove body class after modal closes.', 'state': 'closed', 'created_at': '2017-09-26T22:01:38Z', 'closed_at': '2017-10-18T22:49:31Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 507, 'title': 'I add react-modal into package.json, but it still cannot find Modal.', 'state': 'closed', 'created_at': '2017-09-26T03:25:11Z', 'closed_at': '2017-09-26T04:57:55Z', 'labels': []}
+{'issuenumber': 501, 'title': "Modal inherits overlay's opacity", 'state': 'closed', 'created_at': '2017-09-21T06:41:00Z', 'closed_at': '2017-09-21T21:51:20Z', 'labels': []}
+{'issuenumber': 498, 'title': 'React 16 compatibility', 'state': 'closed', 'created_at': '2017-09-18T08:36:03Z', 'closed_at': '2017-10-19T23:30:06Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 496, 'title': 'ARIA Attributes Not Appearing?', 'state': 'closed', 'created_at': '2017-09-08T02:03:49Z', 'closed_at': '2017-09-08T12:23:46Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 491, 'title': 'Changelog error', 'state': 'closed', 'created_at': '2017-09-06T08:33:45Z', 'closed_at': '2017-09-06T11:53:43Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 489, 'title': "onRequestClose doesn't appear to work correctly", 'state': 'closed', 'created_at': '2017-08-28T03:04:14Z', 'closed_at': '2017-09-19T01:22:29Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 485, 'title': 'Internet Explorer Support', 'state': 'closed', 'created_at': '2017-08-23T13:36:57Z', 'closed_at': '2017-08-23T13:43:48Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 484, 'title': 'React Fiber support', 'state': 'closed', 'created_at': '2017-08-23T08:56:05Z', 'closed_at': '2017-10-06T16:45:40Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 483, 'title': 'How do I find out what changed?', 'state': 'closed', 'created_at': '2017-08-22T16:27:19Z', 'closed_at': '2017-09-06T12:24:07Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 482, 'title': 'Has anyone been able to implement modal with a drag and drop library?', 'state': 'closed', 'created_at': '2017-08-18T19:33:25Z', 'closed_at': '2017-08-19T17:06:13Z', 'labels': []}
+{'issuenumber': 481, 'title': 'Add props for disable close on ESC key', 'state': 'closed', 'created_at': '2017-08-17T08:46:14Z', 'closed_at': '2017-10-11T22:49:57Z', 'labels': {'name': 'feature'}}
+{'issuenumber': 479, 'title': 'Make contentLabel optional', 'state': 'closed', 'created_at': '2017-08-16T20:31:50Z', 'closed_at': '2017-09-20T12:23:16Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 478, 'title': 'How to get reference to overlay element', 'state': 'closed', 'created_at': '2017-08-15T15:26:23Z', 'closed_at': '2018-02-15T12:03:00Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 477, 'title': 'Improve releases and changelog.', 'state': 'closed', 'created_at': '2017-08-14T14:56:53Z', 'closed_at': '2017-09-06T12:21:10Z', 'labels': []}
+{'issuenumber': 476, 'title': 'React v16-beta upgrade - componentWillUnmount error', 'state': 'closed', 'created_at': '2017-08-10T20:02:54Z', 'closed_at': '2017-08-10T22:14:07Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 473, 'title': 'How to prevent key events from propagating?', 'state': 'closed', 'created_at': '2017-08-08T17:29:47Z', 'closed_at': '2017-08-08T18:31:23Z', 'labels': []}
+{'issuenumber': 470, 'title': 'React.createElement: type is invalid', 'state': 'closed', 'created_at': '2017-08-07T20:55:49Z', 'closed_at': '2017-09-06T18:04:22Z', 'labels': {'name': 'needs info'}}
+{'issuenumber': 466, 'title': 'Dragging inside modal and release outside of modal closes the modal', 'state': 'closed', 'created_at': '2017-07-31T14:55:00Z', 'closed_at': '2017-08-14T12:39:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 464, 'title': 'Allow opting out of returning focus on close', 'state': 'closed', 'created_at': '2017-07-31T00:53:06Z', 'closed_at': '2017-10-25T17:20:40Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 461, 'title': 'npm install not working', 'state': 'closed', 'created_at': '2017-07-25T02:09:55Z', 'closed_at': '2017-11-23T12:44:39Z', 'labels': []}
+{'issuenumber': 460, 'title': 'Modal does not close in between showing items from an array of objects', 'state': 'closed', 'created_at': '2017-07-21T17:59:58Z', 'closed_at': '2017-07-31T12:33:21Z', 'labels': []}
+{'issuenumber': 457, 'title': 'Unknown option error after stage-2 request (using react-native-web)', 'state': 'closed', 'created_at': '2017-07-15T07:05:02Z', 'closed_at': '2017-12-04T16:48:04Z', 'labels': []}
+{'issuenumber': 456, 'title': 'Latest Master not loading react-modal css class', 'state': 'closed', 'created_at': '2017-07-14T09:40:19Z', 'closed_at': '2017-07-21T08:19:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 455, 'title': "Can't scroll modal if body is setted to fixed", 'state': 'closed', 'created_at': '2017-07-07T15:13:33Z', 'closed_at': '2017-09-19T00:02:21Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 454, 'title': 'Move documentation from README.md to gitbook.', 'state': 'closed', 'created_at': '2017-07-07T02:07:18Z', 'closed_at': '2018-02-20T02:03:51Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 453, 'title': 'How To Load URL in React Modal?', 'state': 'closed', 'created_at': '2017-07-05T13:54:13Z', 'closed_at': '2017-07-05T21:48:17Z', 'labels': []}
+{'issuenumber': 451, 'title': 'Ever-growing classList when `bodyOpenClassName` prop contains multiple classes', 'state': 'closed', 'created_at': '2017-07-04T00:19:53Z', 'closed_at': '2017-07-07T01:52:44Z', 'labels': []}
+{'issuenumber': 450, 'title': 'Couldn\'t find preset "stage-2" relative to directory "..\\\\react-modal"', 'state': 'closed', 'created_at': '2017-07-02T08:37:57Z', 'closed_at': '2017-12-04T16:48:04Z', 'labels': []}
+{'issuenumber': 445, 'title': 'Need help to make modal accessible by screen readers...', 'state': 'closed', 'created_at': '2017-06-28T06:55:17Z', 'closed_at': '2017-06-29T23:23:45Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 435, 'title': "Didn't update `portalClassName` after receiving of new props", 'state': 'closed', 'created_at': '2017-06-22T09:29:16Z', 'closed_at': '2017-06-24T17:24:36Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 434, 'title': 'Question: Unmount component', 'state': 'closed', 'created_at': '2017-06-21T14:47:56Z', 'closed_at': '2017-06-29T12:56:01Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 433, 'title': 'Unexpected behavior when scroll modal overlay', 'state': 'closed', 'created_at': '2017-06-21T08:45:18Z', 'closed_at': '2017-06-21T13:46:13Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 432, 'title': 'Best Practices', 'state': 'closed', 'created_at': '2017-06-20T18:54:33Z', 'closed_at': '2017-09-23T15:08:33Z', 'labels': {'name': 'question'}}
+{'issuenumber': 426, 'title': 'Docs about the new pipeline.', 'state': 'closed', 'created_at': '2017-06-19T00:11:47Z', 'closed_at': '2017-06-19T03:18:35Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 425, 'title': 'CodePen examples are out of date', 'state': 'closed', 'created_at': '2017-06-18T21:32:27Z', 'closed_at': '2017-06-18T21:35:53Z', 'labels': []}
+{'issuenumber': 422, 'title': 'Changelog is out of date', 'state': 'closed', 'created_at': '2017-06-17T01:43:00Z', 'closed_at': '2017-06-19T01:56:33Z', 'labels': []}
+{'issuenumber': 420, 'title': 'Console errors about `oneOfType`', 'state': 'closed', 'created_at': '2017-06-16T15:03:49Z', 'closed_at': '2017-06-16T16:59:26Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 418, 'title': 'Error importing react-modal', 'state': 'closed', 'created_at': '2017-06-16T05:51:48Z', 'closed_at': '2017-06-16T17:07:33Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 413, 'title': "Cannot read property 'base' of null", 'state': 'closed', 'created_at': '2017-06-14T22:51:12Z', 'closed_at': '2017-06-16T13:30:59Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 411, 'title': 'React.DOM.noscript Warning', 'state': 'closed', 'created_at': '2017-06-14T15:37:21Z', 'closed_at': '2017-06-15T04:40:25Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 398, 'title': 'Update repository (warning for new and old users).', 'state': 'closed', 'created_at': '2017-06-08T13:16:44Z', 'closed_at': '2017-06-15T23:05:11Z', 'labels': []}
+{'issuenumber': 396, 'title': 'Farewell', 'state': 'closed', 'created_at': '2017-06-07T07:31:29Z', 'closed_at': '2017-10-01T15:00:55Z', 'labels': []}
+{'issuenumber': 393, 'title': 'extra border around my border', 'state': 'closed', 'created_at': '2017-06-06T10:04:40Z', 'closed_at': '2017-06-07T10:11:47Z', 'labels': []}
+{'issuenumber': 392, 'title': 'Scrolling the Modal content', 'state': 'closed', 'created_at': '2017-06-05T04:11:05Z', 'closed_at': '2017-06-09T18:31:09Z', 'labels': {'name': 'question'}}
+{'issuenumber': 391, 'title': 'onRequestClose arguments - Feature Request', 'state': 'closed', 'created_at': '2017-06-02T01:27:31Z', 'closed_at': '2017-09-23T15:08:06Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 390, 'title': 'Element behind is overlapping react-modal', 'state': 'closed', 'created_at': '2017-05-27T16:30:05Z', 'closed_at': '2017-06-10T03:44:02Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 388, 'title': 'Body ClassName not available', 'state': 'closed', 'created_at': '2017-05-26T09:16:59Z', 'closed_at': '2017-06-13T13:26:18Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 386, 'title': 'Modal not displayed, this.setState is not a function', 'state': 'closed', 'created_at': '2017-05-24T08:42:27Z', 'closed_at': '2017-06-17T00:36:35Z', 'labels': {'name': 'needs info'}}
+{'issuenumber': 385, 'title': 'Problems when using an object for the className', 'state': 'closed', 'created_at': '2017-05-16T12:09:41Z', 'closed_at': '2017-06-17T00:35:13Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 384, 'title': 'onClick calls within modal body not firing', 'state': 'closed', 'created_at': '2017-05-03T14:46:59Z', 'closed_at': '2017-06-24T17:35:46Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 383, 'title': 'Prevent modal from closing when clicking modal, dragging to overlay, and releasing', 'state': 'closed', 'created_at': '2017-04-24T07:15:34Z', 'closed_at': '2017-06-27T01:29:32Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 380, 'title': 'const declaration in refCount.js is breaking compatibility with non-ES6 browsers (e.g. IE10)', 'state': 'closed', 'created_at': '2017-04-17T23:39:18Z', 'closed_at': '2017-04-18T13:43:41Z', 'labels': []}
+{'issuenumber': 379, 'title': 'Is there a way to enable scrolling behind the modal?', 'state': 'closed', 'created_at': '2017-04-17T18:12:51Z', 'closed_at': '2017-11-23T12:45:39Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 378, 'title': 'Warning: getDefaultProps', 'state': 'closed', 'created_at': '2017-04-14T21:57:38Z', 'closed_at': '2017-06-24T17:36:29Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 377, 'title': 'No change log since 1.6.5', 'state': 'closed', 'created_at': '2017-04-14T10:24:25Z', 'closed_at': '2017-04-15T13:11:08Z', 'labels': []}
+{'issuenumber': 376, 'title': 'Error', 'state': 'closed', 'created_at': '2017-04-13T14:38:43Z', 'closed_at': '2017-04-13T14:43:09Z', 'labels': []}
+{'issuenumber': 375, 'title': 'SyntaxError: Unexpected token export', 'state': 'closed', 'created_at': '2017-04-13T14:13:01Z', 'closed_at': '2017-04-13T14:22:20Z', 'labels': []}
+{'issuenumber': 367, 'title': "Warning: React.createClass is deprecated and will be removed in version 16. Use plain JavaScript classes instead. If you're not yet ready to migrate, create-react-class is available on npm as a drop-in replacement.", 'state': 'closed', 'created_at': '2017-04-11T11:25:09Z', 'closed_at': '2017-04-13T13:36:48Z', 'labels': []}
+{'issuenumber': 366, 'title': 'Warning: Accessing PropTypes via the main React package is deprecated. Use the prop-types package from npm instead.', 'state': 'closed', 'created_at': '2017-04-11T11:21:02Z', 'closed_at': '2017-04-13T13:41:28Z', 'labels': []}
+{'issuenumber': 365, 'title': 'ReactModal__Body--open class not being set correctly', 'state': 'closed', 'created_at': '2017-04-04T05:45:56Z', 'closed_at': '2017-04-04T13:50:19Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 363, 'title': "Need ability to keep 'esc' key from closing.", 'state': 'closed', 'created_at': '2017-03-31T16:59:36Z', 'closed_at': '2017-06-24T18:48:26Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 362, 'title': 'Error: React DOM tree root should always have a node reference', 'state': 'closed', 'created_at': '2017-03-31T07:50:48Z', 'closed_at': '2017-03-31T08:31:47Z', 'labels': []}
+{'issuenumber': 361, 'title': 'How can I prevent screen movement(rubber effect) when the modal is open?', 'state': 'closed', 'created_at': '2017-03-29T03:41:27Z', 'closed_at': '2017-06-10T12:42:22Z', 'labels': {'name': 'help wanted'}}
+{'issuenumber': 357, 'title': 'How to reset the styles.', 'state': 'closed', 'created_at': '2017-03-21T15:56:17Z', 'closed_at': '2017-05-19T14:09:13Z', 'labels': {'name': 'question'}}
+{'issuenumber': 355, 'title': '`this.removePortal` is not a function', 'state': 'closed', 'created_at': '2017-03-12T15:20:01Z', 'closed_at': '2017-03-12T17:05:09Z', 'labels': []}
+{'issuenumber': 351, 'title': 'Can not close Modal when click on overlay (Please update the note in readme)', 'state': 'closed', 'created_at': '2017-03-09T08:59:01Z', 'closed_at': '2017-03-10T13:56:02Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 350, 'title': 'Incorrect documentation', 'state': 'closed', 'created_at': '2017-03-07T19:15:03Z', 'closed_at': '2017-03-10T13:56:32Z', 'labels': {'name': 'documentation'}}
+{'issuenumber': 349, 'title': 'Randomly getting error from ModalPortal class', 'state': 'closed', 'created_at': '2017-03-07T16:59:55Z', 'closed_at': '2017-06-24T21:42:26Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 344, 'title': 'getting bind warning from react after 1.7.0', 'state': 'closed', 'created_at': '2017-03-02T15:55:17Z', 'closed_at': '2017-03-22T17:49:49Z', 'labels': []}
+{'issuenumber': 343, 'title': 'Cannot run tests in PhantomJS', 'state': 'closed', 'created_at': '2017-03-02T14:29:47Z', 'closed_at': '2017-03-02T14:39:53Z', 'labels': []}
+{'issuenumber': 342, 'title': 'Syntax error prevents webpack compile', 'state': 'closed', 'created_at': '2017-03-02T13:57:06Z', 'closed_at': '2017-03-02T13:58:58Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 340, 'title': 'react-scripts build failure during UglifyJs due to functions declaration syntax', 'state': 'closed', 'created_at': '2017-03-02T11:08:28Z', 'closed_at': '2017-03-02T11:25:20Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 339, 'title': 'how to show icon beyond the content', 'state': 'closed', 'created_at': '2017-03-02T08:19:58Z', 'closed_at': '2017-03-06T02:51:05Z', 'labels': {'name': 'question'}}
+{'issuenumber': 336, 'title': "Latest release doesn't work on UglifyJs", 'state': 'closed', 'created_at': '2017-03-02T05:45:59Z', 'closed_at': '2017-03-05T06:12:34Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 333, 'title': "iOS Safari Click at overlay doesn't close a modal", 'state': 'closed', 'created_at': '2017-02-27T04:39:29Z', 'closed_at': '2017-02-27T12:59:47Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 332, 'title': 'Reduce build size by swapping out lodash.assign for a minimal Object.assign', 'state': 'closed', 'created_at': '2017-02-23T14:41:47Z', 'closed_at': '2017-03-24T03:24:36Z', 'labels': []}
+{'issuenumber': 331, 'title': 'Demo site down', 'state': 'closed', 'created_at': '2017-02-20T16:16:05Z', 'closed_at': '2017-02-27T13:02:18Z', 'labels': []}
+{'issuenumber': 322, 'title': 'Unable to add backgroundImage to content styling', 'state': 'closed', 'created_at': '2017-02-14T17:54:14Z', 'closed_at': '2017-02-14T19:19:58Z', 'labels': []}
+{'issuenumber': 321, 'title': 'Could I get help centering the contents of the modal?', 'state': 'closed', 'created_at': '2017-02-01T08:08:53Z', 'closed_at': '2017-02-01T08:18:00Z', 'labels': {'name': 'question'}}
+{'issuenumber': 320, 'title': 'Have Default Close Button', 'state': 'closed', 'created_at': '2017-01-30T17:27:20Z', 'closed_at': '2017-02-04T19:08:56Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 317, 'title': 'npm test is broken', 'state': 'closed', 'created_at': '2017-01-28T02:43:15Z', 'closed_at': '2017-01-28T05:10:11Z', 'labels': []}
+{'issuenumber': 315, 'title': 'Undefined error in contentHasFocus method', 'state': 'closed', 'created_at': '2017-01-28T02:29:16Z', 'closed_at': '2017-06-20T14:14:22Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 314, 'title': 'Close On Escape', 'state': 'closed', 'created_at': '2017-01-25T19:51:46Z', 'closed_at': '2017-01-25T19:55:46Z', 'labels': []}
+{'issuenumber': 312, 'title': 'Failing UglifyJS due to ES6 in Modal.js', 'state': 'closed', 'created_at': '2017-01-19T23:01:28Z', 'closed_at': '2017-01-19T23:31:06Z', 'labels': []}
+{'issuenumber': 311, 'title': "Chrome on Mac - Object loading from disk cache doesn't load always", 'state': 'closed', 'created_at': '2017-01-19T16:20:01Z', 'closed_at': '2017-06-17T00:41:50Z', 'labels': {'name': 'needs info'}}
+{'issuenumber': 310, 'title': 'Having trouble with creating a wrapper class', 'state': 'closed', 'created_at': '2017-01-17T14:23:50Z', 'closed_at': '2017-01-17T15:38:25Z', 'labels': []}
+{'issuenumber': 309, 'title': 'usage with webpack 2.2.0-rc.3 + typescript 2.1.4 + babel-core 6.21.0', 'state': 'closed', 'created_at': '2017-01-15T00:30:05Z', 'closed_at': '2017-01-23T17:05:47Z', 'labels': []}
+{'issuenumber': 308, 'title': '2+ modals on same page make an issue ', 'state': 'closed', 'created_at': '2017-01-12T23:36:16Z', 'closed_at': '2017-02-15T23:46:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 307, 'title': 'Clicking on overlay does not close modal on iOS touch devices', 'state': 'closed', 'created_at': '2017-01-11T09:31:17Z', 'closed_at': '2017-01-11T15:03:10Z', 'labels': {'name': 'duplicate'}}
+{'issuenumber': 306, 'title': 'Ability to disable/delay automatic focus', 'state': 'closed', 'created_at': '2017-01-11T05:06:30Z', 'closed_at': '2017-09-05T19:14:38Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 305, 'title': 'shouldCloseOnOverlayClick', 'state': 'closed', 'created_at': '2017-01-10T18:57:24Z', 'closed_at': '2017-01-11T02:56:56Z', 'labels': []}
+{'issuenumber': 302, 'title': 'Not getting closed when clicked outside', 'state': 'closed', 'created_at': '2017-01-05T14:46:04Z', 'closed_at': '2017-01-05T15:26:56Z', 'labels': []}
+{'issuenumber': 301, 'title': "onRequestClose doesn't work on iOS", 'state': 'closed', 'created_at': '2017-01-05T03:09:29Z', 'closed_at': '2017-02-16T01:30:21Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 300, 'title': 'Is It Possible To Show Full Screen Modal?', 'state': 'closed', 'created_at': '2017-01-02T22:36:53Z', 'closed_at': '2017-01-02T23:42:35Z', 'labels': {'name': 'question'}}
+{'issuenumber': 292, 'title': 'Refactor to use React component life-cycle methods as they were intended to be used', 'state': 'closed', 'created_at': '2016-12-29T04:47:19Z', 'closed_at': '2016-12-31T20:55:22Z', 'labels': []}
+{'issuenumber': 289, 'title': 'Replace string refs with callback refs', 'state': 'closed', 'created_at': '2016-12-28T06:29:33Z', 'closed_at': '2016-12-31T21:49:35Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 288, 'title': 'How to make it so that the modal appears with padding above, and not without padding?', 'state': 'closed', 'created_at': '2016-12-28T04:28:10Z', 'closed_at': '2017-06-24T21:36:36Z', 'labels': {'name': 'question'}}
+{'issuenumber': 287, 'title': 'Remove Modal.setAppElement?', 'state': 'closed', 'created_at': '2016-12-26T16:41:54Z', 'closed_at': '2017-03-26T20:52:46Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 286, 'title': 'Convert library code to ES2015+', 'state': 'closed', 'created_at': '2016-12-26T16:30:04Z', 'closed_at': '2016-12-31T21:49:35Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 285, 'title': 'Convert tests to use ES2015+', 'state': 'closed', 'created_at': '2016-12-26T16:29:28Z', 'closed_at': '2016-12-31T03:49:45Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 284, 'title': 'Linting', 'state': 'closed', 'created_at': '2016-12-26T07:04:10Z', 'closed_at': '2016-12-31T21:49:33Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 280, 'title': 'Not Working with React Router', 'state': 'closed', 'created_at': '2016-12-16T06:16:18Z', 'closed_at': '2016-12-16T08:24:43Z', 'labels': []}
+{'issuenumber': 275, 'title': '~100mb package with 1.6.2 version', 'state': 'closed', 'created_at': '2016-12-12T12:37:48Z', 'closed_at': '2016-12-12T14:07:43Z', 'labels': []}
+{'issuenumber': 272, 'title': 'ReferenceError: document is not defined', 'state': 'closed', 'created_at': '2016-12-08T09:57:33Z', 'closed_at': '2016-12-12T15:54:00Z', 'labels': []}
+{'issuenumber': 270, 'title': 'Update react modal demo page', 'state': 'closed', 'created_at': '2016-12-07T09:17:46Z', 'closed_at': '2016-12-27T05:10:00Z', 'labels': []}
+{'issuenumber': 268, 'title': 'Unexpected token: punc ()) on builds with 1.6.0', 'state': 'closed', 'created_at': '2016-12-06T16:22:10Z', 'closed_at': '2016-12-06T17:15:22Z', 'labels': []}
+{'issuenumber': 267, 'title': 'Uncaught Error: react-modal: You must set an element with `Modal.setAppElement(el)`', 'state': 'closed', 'created_at': '2016-11-24T12:00:19Z', 'closed_at': '2016-12-22T13:45:59Z', 'labels': []}
+{'issuenumber': 263, 'title': 'Bootstrap demo does not work', 'state': 'closed', 'created_at': '2016-11-14T21:40:56Z', 'closed_at': '2016-12-27T05:10:00Z', 'labels': []}
+{'issuenumber': 262, 'title': 'portalModalClassName does not update after mount', 'state': 'closed', 'created_at': '2016-11-10T22:13:58Z', 'closed_at': '2017-06-08T23:03:50Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 261, 'title': 'How to set onClick event with modal?', 'state': 'closed', 'created_at': '2016-10-31T02:59:05Z', 'closed_at': '2017-06-24T18:45:58Z', 'labels': {'name': 'invalid'}}
+{'issuenumber': 260, 'title': '[v1.5.2] Is it possible to use `Modal.setAppElement` with SSR ?', 'state': 'closed', 'created_at': '2016-10-28T17:10:46Z', 'closed_at': '2017-06-17T15:50:44Z', 'labels': {'name': 'needs info'}}
+{'issuenumber': 259, 'title': 'how to disable overlay ', 'state': 'closed', 'created_at': '2016-10-27T10:23:27Z', 'closed_at': '2016-11-26T01:35:41Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 258, 'title': 'shouldCloseOnOverlayClick Demo', 'state': 'closed', 'created_at': '2016-10-27T02:43:31Z', 'closed_at': '2016-12-27T05:10:00Z', 'labels': []}
+{'issuenumber': 256, 'title': 'iOS - Clicking on overlay does not dismiss the modal', 'state': 'closed', 'created_at': '2016-10-21T22:59:29Z', 'closed_at': '2017-03-02T11:44:03Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 252, 'title': 'Scrolling inside modal is working but', 'state': 'closed', 'created_at': '2016-10-12T03:57:20Z', 'closed_at': '2016-10-12T04:04:18Z', 'labels': []}
+{'issuenumber': 251, 'title': 'Prevent background scrolling when modal is displayed', 'state': 'closed', 'created_at': '2016-10-12T03:18:40Z', 'closed_at': '2016-10-12T03:31:03Z', 'labels': {'name': 'question'}}
+{'issuenumber': 250, 'title': 'Modal behind hovered image', 'state': 'closed', 'created_at': '2016-10-12T03:13:12Z', 'closed_at': '2016-10-12T03:16:55Z', 'labels': []}
+{'issuenumber': 249, 'title': 'Modal appears behind some react-bootstrap elements', 'state': 'closed', 'created_at': '2016-10-11T22:07:42Z', 'closed_at': '2016-12-10T16:32:55Z', 'labels': []}
+{'issuenumber': 246, 'title': 'Not passing `portalClassName` prop results in `<div class="undefined">`', 'state': 'closed', 'created_at': '2016-10-10T10:29:52Z', 'closed_at': '2016-10-28T18:39:41Z', 'labels': []}
+{'issuenumber': 242, 'title': 'ReactModal__Body--open class does not work with multiple modals', 'state': 'closed', 'created_at': '2016-10-06T22:15:48Z', 'closed_at': '2016-10-06T22:17:51Z', 'labels': []}
+{'issuenumber': 241, 'title': 'Release new version', 'state': 'closed', 'created_at': '2016-10-06T00:16:47Z', 'closed_at': '2016-10-08T04:14:43Z', 'labels': []}
+{'issuenumber': 238, 'title': 'deprecated lodash.assign@4.2.0: This package is deprecated. Use Object.assign.', 'state': 'closed', 'created_at': '2016-10-04T01:39:31Z', 'closed_at': '2016-12-14T06:41:34Z', 'labels': []}
+{'issuenumber': 237, 'title': 'Consider to make the new role dialog optional', 'state': 'closed', 'created_at': '2016-10-03T16:05:44Z', 'closed_at': '2016-10-08T02:08:27Z', 'labels': []}
+{'issuenumber': 236, 'title': 'The dialog must be properly labeled', 'state': 'closed', 'created_at': '2016-10-03T15:39:59Z', 'closed_at': '2016-10-15T14:39:58Z', 'labels': []}
+{'issuenumber': 235, 'title': 'Bundling the entire React despite using a CDN', 'state': 'closed', 'created_at': '2016-09-29T02:05:09Z', 'closed_at': '2016-12-27T05:25:00Z', 'labels': []}
+{'issuenumber': 234, 'title': 'Issue with Redux and Immutable js', 'state': 'closed', 'created_at': '2016-09-28T15:53:06Z', 'closed_at': '2017-02-16T01:45:26Z', 'labels': []}
+{'issuenumber': 232, 'title': 'draggable feature', 'state': 'closed', 'created_at': '2016-09-26T18:55:56Z', 'closed_at': '2017-02-01T18:20:25Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 231, 'title': 'If 2 or more modals are open and one is closed, `ReactModal__Body--open` class is erroneously removed', 'state': 'closed', 'created_at': '2016-09-23T19:02:38Z', 'closed_at': '2017-06-08T23:01:15Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 229, 'title': 'When will be next release?', 'state': 'closed', 'created_at': '2016-09-22T18:23:34Z', 'closed_at': '2016-09-22T18:33:53Z', 'labels': []}
+{'issuenumber': 225, 'title': 'Demo is not working ', 'state': 'closed', 'created_at': '2016-09-15T04:15:57Z', 'closed_at': '2016-09-15T06:07:17Z', 'labels': []}
+{'issuenumber': 221, 'title': '`setAppElement()` not working as documented', 'state': 'closed', 'created_at': '2016-09-07T11:00:59Z', 'closed_at': '2016-12-27T05:31:49Z', 'labels': []}
+{'issuenumber': 220, 'title': 'focus/select text in input', 'state': 'closed', 'created_at': '2016-09-07T07:52:39Z', 'closed_at': '2016-09-14T05:43:31Z', 'labels': []}
+{'issuenumber': 219, 'title': 'react-dom should probably be a peerDependency', 'state': 'closed', 'created_at': '2016-09-06T15:00:58Z', 'closed_at': '2016-09-14T04:40:11Z', 'labels': []}
+{'issuenumber': 218, 'title': 'Open two modals. Hit ESC then hit ECS but nothing happens ', 'state': 'closed', 'created_at': '2016-09-02T15:12:56Z', 'closed_at': '2017-06-24T18:34:52Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 215, 'title': 'Bootstrap styles', 'state': 'closed', 'created_at': '2016-08-27T12:15:11Z', 'closed_at': '2016-08-27T21:48:30Z', 'labels': []}
+{'issuenumber': 214, 'title': 'Add `onAfterClose` property', 'state': 'closed', 'created_at': '2016-08-19T23:31:40Z', 'closed_at': '2017-03-11T20:31:28Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 213, 'title': 'Closing the modal when overlay is clicked not working', 'state': 'closed', 'created_at': '2016-08-18T15:53:03Z', 'closed_at': '2016-08-23T07:19:04Z', 'labels': []}
+{'issuenumber': 212, 'title': 'Use dialog element', 'state': 'closed', 'created_at': '2016-08-18T10:55:04Z', 'closed_at': '2016-09-21T16:54:11Z', 'labels': []}
+{'issuenumber': 211, 'title': "I can't navigate trough form elements using tab button", 'state': 'closed', 'created_at': '2016-08-12T14:09:56Z', 'closed_at': '2017-11-22T19:34:52Z', 'labels': []}
+{'issuenumber': 209, 'title': 'Webpack externals are incorrect when looking up on the root', 'state': 'closed', 'created_at': '2016-08-09T17:48:59Z', 'closed_at': '2016-08-10T05:14:33Z', 'labels': []}
+{'issuenumber': 207, 'title': 'z-index of overlay div', 'state': 'closed', 'created_at': '2016-08-04T15:33:30Z', 'closed_at': '2016-08-04T15:49:59Z', 'labels': []}
+{'issuenumber': 206, 'title': 'Modal Pop Up', 'state': 'closed', 'created_at': '2016-08-04T12:06:36Z', 'closed_at': '2016-12-27T05:17:12Z', 'labels': []}
+{'issuenumber': 204, 'title': 'how to use modal with redux?', 'state': 'closed', 'created_at': '2016-07-26T18:11:04Z', 'closed_at': '2017-02-16T01:43:17Z', 'labels': {'name': 'question'}}
+{'issuenumber': 203, 'title': 'any way to show an image in a modal window???', 'state': 'closed', 'created_at': '2016-07-26T10:38:24Z', 'closed_at': '2016-07-26T14:40:21Z', 'labels': []}
+{'issuenumber': 198, 'title': 'Unable to tab through form elements', 'state': 'closed', 'created_at': '2016-07-13T07:23:33Z', 'closed_at': '2016-07-13T12:25:30Z', 'labels': []}
+{'issuenumber': 193, 'title': 'npm test envify error', 'state': 'closed', 'created_at': '2016-06-28T04:41:13Z', 'closed_at': '2016-06-28T07:12:40Z', 'labels': []}
+{'issuenumber': 192, 'title': "Cannot read property 'focus' of undefined (after update)", 'state': 'closed', 'created_at': '2016-06-24T13:02:27Z', 'closed_at': '2016-06-30T09:26:23Z', 'labels': []}
+{'issuenumber': 190, 'title': 'Modal has overlay but doesnt appear in project, although it previously did', 'state': 'closed', 'created_at': '2016-06-24T05:25:22Z', 'closed_at': '2016-06-25T03:09:08Z', 'labels': []}
+{'issuenumber': 188, 'title': 'getting blurry text in chrome browser', 'state': 'closed', 'created_at': '2016-06-22T03:36:52Z', 'closed_at': '2016-12-27T05:21:30Z', 'labels': []}
+{'issuenumber': 187, 'title': 'Modal not updating with React Intl', 'state': 'closed', 'created_at': '2016-06-20T08:43:58Z', 'closed_at': '2017-06-24T21:34:14Z', 'labels': []}
+{'issuenumber': 186, 'title': "Pressing `esc` key won't close the modal if the `shouldCloseOnOverlayClick` is set to `false`", 'state': 'closed', 'created_at': '2016-06-20T07:13:35Z', 'closed_at': '2017-11-23T18:47:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 185, 'title': 'onRequestClose doesnt work ', 'state': 'closed', 'created_at': '2016-06-14T18:06:46Z', 'closed_at': '2017-02-16T01:46:33Z', 'labels': {'name': 'needs info'}}
+{'issuenumber': 184, 'title': 'Cannot respond to keypress events on the modal content', 'state': 'closed', 'created_at': '2016-06-02T07:00:27Z', 'closed_at': '2017-06-24T21:31:12Z', 'labels': {'name': 'discussion'}}
+{'issuenumber': 182, 'title': 'Request to update gh_pages', 'state': 'closed', 'created_at': '2016-05-29T04:56:32Z', 'closed_at': '2016-05-31T04:11:17Z', 'labels': []}
+{'issuenumber': 181, 'title': 'disable esc key close the modal', 'state': 'closed', 'created_at': '2016-05-27T19:13:25Z', 'closed_at': '2016-12-10T16:02:15Z', 'labels': []}
+{'issuenumber': 180, 'title': 'Modal gets cut off when rendered near edge of page', 'state': 'closed', 'created_at': '2016-05-27T17:35:04Z', 'closed_at': '2016-05-27T19:37:29Z', 'labels': []}
+{'issuenumber': 179, 'title': "modal doesn't not open correctly on Blackberry z10", 'state': 'closed', 'created_at': '2016-05-26T14:55:10Z', 'closed_at': '2016-05-26T15:24:28Z', 'labels': []}
+{'issuenumber': 178, 'title': 'PR react-modal.d.ts for DefinitelyTyped project', 'state': 'closed', 'created_at': '2016-05-25T19:07:24Z', 'closed_at': '2016-09-24T13:41:23Z', 'labels': []}
+{'issuenumber': 177, 'title': 'React Select Incompatible with React Modal', 'state': 'closed', 'created_at': '2016-05-23T15:20:59Z', 'closed_at': '2016-05-24T15:37:22Z', 'labels': []}
+{'issuenumber': 174, 'title': 'set an element with `Modal.setAppElement(el) to element in virtual dom', 'state': 'closed', 'created_at': '2016-05-02T15:55:54Z', 'closed_at': '2016-12-26T16:42:48Z', 'labels': []}
+{'issuenumber': 173, 'title': 'Multiple Modals', 'state': 'closed', 'created_at': '2016-05-01T14:40:03Z', 'closed_at': '2017-02-15T23:52:16Z', 'labels': []}
+{'issuenumber': 170, 'title': 'react-modal dependent on existence of document.body', 'state': 'closed', 'created_at': '2016-04-29T16:47:55Z', 'closed_at': '2016-04-30T20:16:53Z', 'labels': {'name': 'wontfix'}}
+{'issuenumber': 167, 'title': 'Moving location of parenthesis causes Invariant Violation error', 'state': 'closed', 'created_at': '2016-04-21T13:48:43Z', 'closed_at': '2016-04-21T14:21:30Z', 'labels': []}
+{'issuenumber': 166, 'title': 'create wiki.', 'state': 'closed', 'created_at': '2016-04-21T01:57:52Z', 'closed_at': '2017-01-31T23:29:31Z', 'labels': []}
+{'issuenumber': 165, 'title': 'sanitizeProps still causes error', 'state': 'closed', 'created_at': '2016-04-19T14:08:15Z', 'closed_at': '2016-04-23T19:07:39Z', 'labels': []}
+{'issuenumber': 163, 'title': 'Non-minified build not present', 'state': 'closed', 'created_at': '2016-04-19T02:55:09Z', 'closed_at': '2016-04-21T02:45:14Z', 'labels': []}
+{'issuenumber': 161, 'title': 'adding class names do not disable default styles as described in the readme', 'state': 'closed', 'created_at': '2016-04-15T01:43:56Z', 'closed_at': '2016-04-15T01:53:13Z', 'labels': []}
+{'issuenumber': 160, 'title': 'sanitizeProps causes error ', 'state': 'closed', 'created_at': '2016-04-14T20:25:33Z', 'closed_at': '2016-04-19T02:29:56Z', 'labels': []}
+{'issuenumber': 158, 'title': 'How can I close Modal by clicking overlay?', 'state': 'closed', 'created_at': '2016-04-12T20:31:05Z', 'closed_at': '2016-04-13T15:27:34Z', 'labels': []}
+{'issuenumber': 157, 'title': "Can't get height of content", 'state': 'closed', 'created_at': '2016-04-12T20:09:23Z', 'closed_at': '2016-12-26T16:33:44Z', 'labels': []}
+{'issuenumber': 155, 'title': "Cannot read property 'appendChild' of null", 'state': 'closed', 'created_at': '2016-04-10T10:46:02Z', 'closed_at': '2017-02-19T21:43:31Z', 'labels': []}
+{'issuenumber': 151, 'title': 'React 15 compatibility?', 'state': 'closed', 'created_at': '2016-04-08T01:30:49Z', 'closed_at': '2016-04-09T05:06:52Z', 'labels': []}
+{'issuenumber': 150, 'title': 'Buttons inside Modal ignore .selector:hover styles.', 'state': 'closed', 'created_at': '2016-04-07T19:18:10Z', 'closed_at': '2016-12-26T16:45:07Z', 'labels': []}
+{'issuenumber': 149, 'title': "shouldCloseOnOverlayClick attribute doesn't work.", 'state': 'closed', 'created_at': '2016-04-07T16:49:25Z', 'closed_at': '2016-04-09T05:07:23Z', 'labels': []}
+{'issuenumber': 147, 'title': 'Export defaultStyles', 'state': 'closed', 'created_at': '2016-04-06T18:28:44Z', 'closed_at': '2016-04-07T04:38:44Z', 'labels': {'name': 'enhancement'}}
+{'issuenumber': 146, 'title': 'Invariant Violation: findComponentRoot', 'state': 'closed', 'created_at': '2016-04-01T22:54:32Z', 'closed_at': '2016-12-26T16:34:49Z', 'labels': []}
+{'issuenumber': 139, 'title': 'Stop scroll on body behind modal ', 'state': 'closed', 'created_at': '2016-03-23T18:25:22Z', 'closed_at': '2016-03-25T13:31:33Z', 'labels': []}
+{'issuenumber': 138, 'title': 'showing two layers of modals when trying bootstrap styled modal', 'state': 'closed', 'created_at': '2016-03-18T22:18:42Z', 'closed_at': '2016-03-20T18:01:29Z', 'labels': []}
+{'issuenumber': 137, 'title': 'Using a stylesheet rather than inline styles', 'state': 'closed', 'created_at': '2016-03-14T20:12:37Z', 'closed_at': '2016-03-27T00:49:25Z', 'labels': []}
+{'issuenumber': 135, 'title': "Can't get modal to open again after closing it", 'state': 'closed', 'created_at': '2016-03-10T06:06:37Z', 'closed_at': '2016-03-12T05:38:43Z', 'labels': []}
+{'issuenumber': 133, 'title': 'Error: You must set an element with `Modal.setAppElement(el)` to make this accessible', 'state': 'closed', 'created_at': '2016-03-02T17:31:32Z', 'closed_at': '2017-06-25T20:27:27Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 131, 'title': 'Dragging outside of the modal closes the modal', 'state': 'closed', 'created_at': '2016-03-01T15:09:57Z', 'closed_at': '2016-09-14T04:33:53Z', 'labels': []}
+{'issuenumber': 130, 'title': 'Project maintenance and development', 'state': 'closed', 'created_at': '2016-02-23T23:01:16Z', 'closed_at': '2016-03-24T02:45:37Z', 'labels': []}
+{'issuenumber': 129, 'title': 'The ability to decide whether the modal should be closed when clicking the overlay area is missing', 'state': 'closed', 'created_at': '2016-02-20T11:47:27Z', 'closed_at': '2016-03-26T21:35:57Z', 'labels': []}
+{'issuenumber': 127, 'title': 'Transfer to reactjs', 'state': 'closed', 'created_at': '2016-02-11T23:38:24Z', 'closed_at': '2016-02-17T18:34:14Z', 'labels': []}
+{'issuenumber': 126, 'title': 'Update GitHub repo description', 'state': 'closed', 'created_at': '2016-02-10T20:54:53Z', 'closed_at': '2016-02-17T18:35:14Z', 'labels': []}
+{'issuenumber': 125, 'title': 'Animation', 'state': 'closed', 'created_at': '2016-02-09T18:00:24Z', 'closed_at': '2016-02-22T10:10:41Z', 'labels': []}
+{'issuenumber': 124, 'title': 'Background window responds however popup is still open', 'state': 'closed', 'created_at': '2016-01-28T20:40:19Z', 'closed_at': '2016-12-26T07:12:25Z', 'labels': []}
+{'issuenumber': 119, 'title': 'Uncaught Error: Mismatched anonymous define() module', 'state': 'closed', 'created_at': '2016-01-21T14:14:03Z', 'closed_at': '2016-12-26T07:07:07Z', 'labels': []}
+{'issuenumber': 118, 'title': 'owner ref errors on open/close', 'state': 'closed', 'created_at': '2016-01-21T00:40:32Z', 'closed_at': '2017-06-24T17:41:05Z', 'labels': []}
+{'issuenumber': 115, 'title': 'Avoid `stopPropagation`', 'state': 'closed', 'created_at': '2016-01-13T15:52:35Z', 'closed_at': '2016-04-06T12:53:24Z', 'labels': []}
+{'issuenumber': 114, 'title': 'Double scroll-bar after open the modal with a long detail in body.', 'state': 'closed', 'created_at': '2016-01-07T07:28:04Z', 'closed_at': '2016-03-13T07:19:24Z', 'labels': []}
+{'issuenumber': 113, 'title': "Modal overlay doesn't change the whole background's opacity", 'state': 'closed', 'created_at': '2015-12-24T08:48:52Z', 'closed_at': '2016-01-12T16:42:22Z', 'labels': []}
+{'issuenumber': 112, 'title': 'React Gateway', 'state': 'closed', 'created_at': '2015-12-22T00:59:15Z', 'closed_at': '2017-06-24T18:37:08Z', 'labels': []}
+{'issuenumber': 111, 'title': 'Way to keep modal around even if the parent component is removed?', 'state': 'closed', 'created_at': '2015-12-15T19:19:27Z', 'closed_at': '2016-12-26T16:35:50Z', 'labels': []}
+{'issuenumber': 110, 'title': 'change z-index of the overlay?', 'state': 'closed', 'created_at': '2015-12-07T19:51:39Z', 'closed_at': '2015-12-08T20:23:56Z', 'labels': []}
+{'issuenumber': 107, 'title': 'Modal.setAppElement() has no effect', 'state': 'closed', 'created_at': '2015-11-26T04:21:27Z', 'closed_at': '2016-03-26T22:40:13Z', 'labels': []}
+{'issuenumber': 106, 'title': 'Unmount modal on close?', 'state': 'closed', 'created_at': '2015-11-24T15:52:10Z', 'closed_at': '2016-03-27T00:56:12Z', 'labels': []}
+{'issuenumber': 104, 'title': 'Simple question - integrating in Rails', 'state': 'closed', 'created_at': '2015-11-17T20:31:39Z', 'closed_at': '2016-12-26T07:06:41Z', 'labels': []}
+{'issuenumber': 103, 'title': 'Provide a closeOnEscape prop', 'state': 'closed', 'created_at': '2015-11-17T17:06:43Z', 'closed_at': '2015-12-01T15:09:12Z', 'labels': []}
+{'issuenumber': 102, 'title': 'Issues with Modal scrolling/overflow sizing.', 'state': 'closed', 'created_at': '2015-11-13T04:42:24Z', 'closed_at': '2015-11-16T15:22:48Z', 'labels': []}
+{'issuenumber': 99, 'title': "CSS class .ReactModal__Body--open isn't added to body", 'state': 'closed', 'created_at': '2015-11-05T12:34:42Z', 'closed_at': '2017-02-16T00:00:17Z', 'labels': []}
+{'issuenumber': 98, 'title': 'z-index value not handled correctly', 'state': 'closed', 'created_at': '2015-11-05T06:20:57Z', 'closed_at': '2015-11-18T04:17:37Z', 'labels': []}
+{'issuenumber': 97, 'title': 'Disable Default Styles?', 'state': 'closed', 'created_at': '2015-11-04T23:22:35Z', 'closed_at': '2016-04-09T05:09:45Z', 'labels': []}
+{'issuenumber': 96, 'title': 'Update changelog', 'state': 'closed', 'created_at': '2015-11-03T15:01:56Z', 'closed_at': '2016-12-10T19:51:53Z', 'labels': []}
+{'issuenumber': 95, 'title': 'classNames', 'state': 'closed', 'created_at': '2015-11-02T22:00:21Z', 'closed_at': '2016-04-09T05:08:14Z', 'labels': []}
+{'issuenumber': 93, 'title': 'Animations not triggered when `onRequestClose` prop absent', 'state': 'closed', 'created_at': '2015-10-28T18:24:53Z', 'closed_at': '2016-12-15T06:15:47Z', 'labels': []}
+{'issuenumber': 92, 'title': 'Migrate to rackt eslint config', 'state': 'closed', 'created_at': '2015-10-28T03:37:14Z', 'closed_at': '2016-12-26T07:01:22Z', 'labels': []}
+{'issuenumber': 89, 'title': 'Error: Invariant Violation: addComponentAsRefTo', 'state': 'closed', 'created_at': '2015-10-24T23:11:08Z', 'closed_at': '2017-06-24T17:41:32Z', 'labels': {'name': 'bug'}}
+{'issuenumber': 86, 'title': 'Release with 0.14 Support', 'state': 'closed', 'created_at': '2015-10-19T16:44:03Z', 'closed_at': '2015-10-21T21:40:43Z', 'labels': []}
+{'issuenumber': 82, 'title': "Issues with 'exenv' module not being installed", 'state': 'closed', 'created_at': '2015-10-18T00:08:29Z', 'closed_at': '2015-10-18T09:51:08Z', 'labels': []}
+{'issuenumber': 77, 'title': 'React 0.14.0', 'state': 'closed', 'created_at': '2015-10-09T17:01:44Z', 'closed_at': '2015-10-13T04:11:03Z', 'labels': []}
+{'issuenumber': 76, 'title': 'Support for higher-order components, like Radium', 'state': 'closed', 'created_at': '2015-10-09T00:02:14Z', 'closed_at': '2016-07-08T16:39:13Z', 'labels': []}
+{'issuenumber': 75, 'title': 'Using multiple react-modals on a page', 'state': 'closed', 'created_at': '2015-10-08T22:31:10Z', 'closed_at': '2015-11-05T21:01:39Z', 'labels': []}
+{'issuenumber': 74, 'title': 'Bootstrap example has default style props', 'state': 'closed', 'created_at': '2015-09-29T10:29:24Z', 'closed_at': '2016-12-26T07:13:20Z', 'labels': []}
+{'issuenumber': 73, 'title': 'MeteorJS compatibility: "ReferenceError: document is not defined"', 'state': 'closed', 'created_at': '2015-09-27T22:03:55Z', 'closed_at': '2016-12-26T06:59:00Z', 'labels': []}
+{'issuenumber': 72, 'title': 'React peerDependency inquiry', 'state': 'closed', 'created_at': '2015-09-25T19:53:09Z', 'closed_at': '2015-10-20T22:45:18Z', 'labels': []}
+{'issuenumber': 71, 'title': "Modals cannot be tested with React's TestUtil", 'state': 'closed', 'created_at': '2015-09-25T16:54:39Z', 'closed_at': '2016-12-26T07:06:26Z', 'labels': []}
+{'issuenumber': 69, 'title': 'Pass the event through the onCloseRequest', 'state': 'closed', 'created_at': '2015-09-22T20:54:27Z', 'closed_at': '2016-12-26T07:00:05Z', 'labels': []}
+{'issuenumber': 67, 'title': 'Support for React 0.14', 'state': 'closed', 'created_at': '2015-09-17T05:20:40Z', 'closed_at': '2015-10-20T22:45:39Z', 'labels': []}
+{'issuenumber': 66, 'title': 'Pass inline styles?', 'state': 'closed', 'created_at': '2015-09-07T16:09:50Z', 'closed_at': '2015-09-18T20:36:24Z', 'labels': []}
+{'issuenumber': 64, 'title': 'what are the requiriments if any?', 'state': 'closed', 'created_at': '2015-08-29T14:13:20Z', 'closed_at': '2015-10-04T04:59:58Z', 'labels': []}
+{'issuenumber': 62, 'title': 'Dynamic sizing of the modal', 'state': 'closed', 'created_at': '2015-08-19T18:42:19Z', 'closed_at': '2016-12-26T16:32:28Z', 'labels': []}
+{'issuenumber': 61, 'title': "Uncaught TypeError: Cannot read property 'makeHref' of undefined", 'state': 'closed', 'created_at': '2015-08-13T05:44:11Z', 'closed_at': '2016-12-26T06:59:25Z', 'labels': []}
+{'issuenumber': 60, 'title': 'Block scrolling events behind the modal', 'state': 'closed', 'created_at': '2015-08-05T16:51:27Z', 'closed_at': '2015-09-11T05:36:01Z', 'labels': []}
+{'issuenumber': 59, 'title': 'Does not work in strict mode', 'state': 'closed', 'created_at': '2015-08-04T16:06:30Z', 'closed_at': '2015-08-06T19:25:31Z', 'labels': []}
+{'issuenumber': 51, 'title': 'How to focus on primary button when modal loads?', 'state': 'closed', 'created_at': '2015-06-29T20:40:39Z', 'closed_at': '2015-12-24T20:23:52Z', 'labels': []}
+{'issuenumber': 50, 'title': 'How to perform action on modal open?', 'state': 'closed', 'created_at': '2015-06-26T21:29:12Z', 'closed_at': '2016-12-26T06:57:39Z', 'labels': []}
+{'issuenumber': 49, 'title': 'What if I render DOM using server side react?', 'state': 'closed', 'created_at': '2015-06-25T10:15:29Z', 'closed_at': '2015-10-21T21:42:13Z', 'labels': []}
+{'issuenumber': 48, 'title': 'Thoughts on hiding the overlay?', 'state': 'closed', 'created_at': '2015-06-23T23:19:27Z', 'closed_at': '2016-12-26T07:05:21Z', 'labels': []}
+{'issuenumber': 47, 'title': 'Alive?', 'state': 'closed', 'created_at': '2015-06-22T19:16:37Z', 'closed_at': '2015-09-11T05:36:16Z', 'labels': []}
+{'issuenumber': 45, 'title': 'Thoughts on making the modal draggable?', 'state': 'closed', 'created_at': '2015-06-14T02:08:26Z', 'closed_at': '2016-12-26T06:56:49Z', 'labels': []}
+{'issuenumber': 44, 'title': 'Error when pressing TAB', 'state': 'closed', 'created_at': '2015-06-12T07:15:38Z', 'closed_at': '2016-03-25T16:55:43Z', 'labels': []}
+{'issuenumber': 37, 'title': "Warning: owner-based and parent-based contexts differ when use 'react-router' component inner modal", 'state': 'closed', 'created_at': '2015-05-11T09:20:38Z', 'closed_at': '2016-12-26T06:54:25Z', 'labels': []}
+{'issuenumber': 35, 'title': 'Remove warning when using classSet ', 'state': 'closed', 'created_at': '2015-05-06T19:58:08Z', 'closed_at': '2015-05-08T21:43:23Z', 'labels': []}
+{'issuenumber': 34, 'title': 'Replacement for HTMLElement in code? ', 'state': 'closed', 'created_at': '2015-05-05T18:58:48Z', 'closed_at': '2015-05-08T21:42:11Z', 'labels': []}
+{'issuenumber': 33, 'title': 'Invalid require syntax in dist?', 'state': 'closed', 'created_at': '2015-05-04T21:24:26Z', 'closed_at': '2015-09-11T05:41:36Z', 'labels': []}
+{'issuenumber': 32, 'title': 'ReactMount: Two valid but unequal nodes with the same `data-reactid`: .0.0', 'state': 'closed', 'created_at': '2015-05-04T18:43:40Z', 'closed_at': '2015-05-04T22:28:20Z', 'labels': []}
+{'issuenumber': 30, 'title': 'closeTimeoutMS respected only when onRequestClose is implemented', 'state': 'closed', 'created_at': '2015-04-23T19:24:51Z', 'closed_at': '2017-02-15T23:56:59Z', 'labels': []}
+{'issuenumber': 29, 'title': '[Feature Request] Add class to app element when modal open', 'state': 'closed', 'created_at': '2015-04-16T18:02:00Z', 'closed_at': '2015-07-15T06:07:20Z', 'labels': []}
+{'issuenumber': 26, 'title': 'Why are overlay styles not being applied the second time I open a modal', 'state': 'closed', 'created_at': '2015-04-08T05:26:22Z', 'closed_at': '2015-09-13T21:42:55Z', 'labels': []}
+{'issuenumber': 25, 'title': 'Deprecate `isOpen`', 'state': 'closed', 'created_at': '2015-03-27T16:03:18Z', 'closed_at': '2015-10-30T06:01:49Z', 'labels': {'name': 'question'}}
+{'issuenumber': 23, 'title': 'Shift + Tab immediately after the modal opens causes focus to be lost.', 'state': 'closed', 'created_at': '2015-03-18T18:52:11Z', 'closed_at': '2015-03-24T00:05:57Z', 'labels': []}
+{'issuenumber': 21, 'title': 'Unable to run example', 'state': 'closed', 'created_at': '2015-03-11T00:46:36Z', 'closed_at': '2015-07-15T06:06:19Z', 'labels': []}
+{'issuenumber': 17, 'title': 'Unmounting and animation', 'state': 'closed', 'created_at': '2015-02-02T19:59:57Z', 'closed_at': '2017-02-18T18:56:29Z', 'labels': []}
+{'issuenumber': 15, 'title': 'Incompatible with server-side rendering', 'state': 'closed', 'created_at': '2015-01-06T21:15:57Z', 'closed_at': '2015-05-08T21:41:16Z', 'labels': []}
+{'issuenumber': 14, 'title': 'Apply class to ReactModal__Overlay and ReactModal__Content with `className` (BEM style)', 'state': 'closed', 'created_at': '2014-11-17T21:30:45Z', 'closed_at': '2014-11-17T23:06:06Z', 'labels': []}
+{'issuenumber': 11, 'title': 'Non-actionable warning in console: You tried to return focus to null but it is not in the DOM anymore', 'state': 'closed', 'created_at': '2014-11-12T18:08:33Z', 'closed_at': '2014-11-12T22:10:02Z', 'labels': []}
+{'issuenumber': 9, 'title': 'form inputs lose focus on owner `setState`', 'state': 'closed', 'created_at': '2014-11-10T18:42:46Z', 'closed_at': '2014-11-10T23:09:46Z', 'labels': []}
+{'issuenumber': 7, 'title': 'Custom className for modal content', 'state': 'closed', 'created_at': '2014-10-29T01:05:24Z', 'closed_at': '2014-11-13T20:04:39Z', 'labels': []}
+{'issuenumber': 4, 'title': "Tab isn't scoped properly in Firefox", 'state': 'closed', 'created_at': '2014-10-06T21:50:53Z', 'closed_at': '2014-12-01T21:44:19Z', 'labels': []}
+{'issuenumber': 3, 'title': 'Shift+Tab scoping', 'state': 'closed', 'created_at': '2014-10-06T21:45:16Z', 'closed_at': '2014-12-16T19:43:35Z', 'labels': []}
