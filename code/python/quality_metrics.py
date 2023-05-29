@@ -13,8 +13,8 @@ from network_extraction_from_issue_comment import get_ower_repo_list
 """
 Change these variables
 """
-issue_root = "../data/issue_to_quality/"
-commit_root = "../data/commitdata/"
+issue_root = "../data/_issuedata_36monthes/"
+commit_root = "../data/_commitdata_36monthes/"
 ######################################################################
 
 
@@ -52,13 +52,13 @@ def computing_monthly_bug_fix_num(projectname, monthes):
     :return:
     """
 
-    path = issue_root + projectname + "_issue"
+    path = issue_root + projectname + "_issues_36monthes"
 
     # new_issue_array = []
     bug_entity_count = {}
 
     outputfilename = "fix_bugs_num"
-    outputfile = newoutputfile(outputfilename, "qualitydata")
+    outputfile = newoutputfile(outputfilename, "_qualitydata")
     counter = 0
     while counter < len(monthes):
         # print(from_date)
@@ -84,13 +84,13 @@ def computing_monthly_avg_bug_fix_time_cost(projectname, monthes):
     :return:
     """
 
-    path = issue_root + projectname + "_issue"
+    path = issue_root + projectname + "_issues_36monthes"
 
     # new_issue_array = []
     bug_entity_dict = {}
 
     outputfilename = "avg_fix_bugs_time"
-    outputfile = newoutputfile(outputfilename, "qualitydata")
+    outputfile = newoutputfile(outputfilename, "_qualitydata")
     counter = 0
     while counter < len(monthes):
         # print(from_date)
@@ -123,13 +123,13 @@ def computing_monthly_issue_close_num(projectname, monthes):
     :return:
     """
 
-    path = issue_root + projectname + "_issue"
+    path = issue_root + projectname + "_issues_36monthes"
 
     # new_issue_array = []
     issue_closed_entity_count = {}
 
-    outputfilename = "fix_bugs_num"
-    outputfile = newoutputfile(outputfilename, "qualitydata")
+    outputfilename = "close_issue_num"
+    outputfile = newoutputfile(outputfilename, "_qualitydata")
     counter = 0
     while counter < len(monthes):
         # print(from_date)
@@ -155,9 +155,12 @@ def computing_monthly_avg_issue_close_time_cost(projectname, monthes):
     :return:
     """
 
-    path = issue_root + projectname + "_issue"
+    path = issue_root + projectname + "_issues_36monthes"
 
     issue_entity_dict = {}
+
+    outputfilename = "avg_close_issue_time"
+    outputfile = newoutputfile(outputfilename, "_qualitydata")
 
     counter = 0
     while counter < len(monthes):
@@ -176,6 +179,8 @@ def computing_monthly_avg_issue_close_time_cost(projectname, monthes):
         issue_entity_dict[monthes[counter]] = avg_issue_closed_time
         counter = counter + 1
 
+    with open(outputfile, 'a+', encoding='utf-8') as f:
+        f.write("%s\n" % issue_entity_dict)
     # print(new_issue_array)
     return issue_entity_dict
 
@@ -186,7 +191,7 @@ def counting_monthly_new_commit_number(projectname, monthes):
     :param to_t: "%Y%m"， inclusively
     :return:
     """
-    path = commit_root + projectname + "_commit"
+    path = commit_root + projectname + "_commits_36monthes"
 
     # new_commits_array = []
     new_commits_dict = {}
@@ -194,7 +199,7 @@ def counting_monthly_new_commit_number(projectname, monthes):
     # to_date = dt.strptime(monthes[-1], "%Y%m")
 
     outputfilename = "new_commits_num"
-    outputfile = newoutputfile(outputfilename, "qualitydata")
+    outputfile = newoutputfile(outputfilename, "_qualitydata")
     counter = 0
     # while from_date <= to_date:
     while counter < len(monthes):
@@ -219,7 +224,7 @@ def computing_monthly_new_bug_num(projectname, monthes):
     :return:
     """
 
-    path = issue_root + projectname + "_issue"
+    path = issue_root + projectname + "_issues_36monthes"
 
     # new_issue_array = []
     new_issues_dict = {}
@@ -228,7 +233,7 @@ def computing_monthly_new_bug_num(projectname, monthes):
     # to_date = dt.strptime(monthes[-1], "%Y%m")
 
     outputfilename = "new_bugs_num"
-    outputfile = newoutputfile(outputfilename, "qualitydata")
+    outputfile = newoutputfile(outputfilename, "_qualitydata")
     counter = 0
     while counter < len(monthes):
         # print(from_date)
@@ -462,7 +467,7 @@ def main():
 
 
     monthes = []
-    path = "../data/qualitydata/" + "repo_monthes"
+    path = "../data/_qualitydata/" + "repo_monthes"
     with open(path, 'r+', encoding='utf-8') as f:
         for line in f:
             monthes_list = ast.literal_eval(line)
@@ -474,13 +479,13 @@ def main():
     # print(repos)
     print(owers[0])
     print(repos[0])
-    for i in range(0, 200):
-        computing_monthly_new_bug_num(repos[i], monthes[i])
-        computing_monthly_avg_bug_fix_time_cost(repos[i], monthes[i])
-        computing_monthly_bug_fix_num(repos[i], monthes[i])
+    for i in range(0, 197):
+        # computing_monthly_new_bug_num(repos[i], monthes[i])
+        # computing_monthly_avg_bug_fix_time_cost(repos[i], monthes[i])
+        # computing_monthly_bug_fix_num(repos[i], monthes[i])
         counting_monthly_new_commit_number(repos[i], monthes[i])
-        computing_monthly_avg_issue_close_time_cost(repos[i], monthes[i])
-        computing_monthly_issue_close_num(repos[i], monthes[i])
+        # computing_monthly_avg_issue_close_time_cost(repos[i], monthes[i])
+        # computing_monthly_issue_close_num(repos[i], monthes[i])
 
 if __name__ == "__main__":
     main()
